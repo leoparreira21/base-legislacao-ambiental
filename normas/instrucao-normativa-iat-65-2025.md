@@ -17,8 +17,8 @@ revoga: ["[[instrucao-normativa-iat-45-2025]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-9415-2025]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-11977-2022]]", "[[lei-federal-6938-1981]]", "[[resolucao-conama-237-1997]]", "[[lei-estadual-22252-2024]]", "[[decreto-estadual-9541-2025]]", "[[lei-estadual-10233-1992]]", "[[resolucao-cema-129-2023]]", "[[lei-federal-12651-2012]]", "[[lei-federal-10257-2001]]", "[[decreto-estadual-8680-2013]]", "[[decreto-estadual-1940-1996]]", "[[resolucao-conama-6-1986]]", "[[instrucao-normativa-ibama-13-2021]]", "[[resolucao-sedest-2-2025]]", "[[lei-estadual-12493-1999]]", "[[decreto-estadual-6674-2002]]", "[[portaria-iap-256-2013]]", "[[resolucao-conama-307-2002]]", "[[portaria-iap-212-2019]]", "[[portaria-mma-280-2020]]", "[[resolucao-cema-76-2009]]", "[[portaria-iap-159-2015]]", "[[lei-federal-9605-1998]]", "[[decreto-federal-6514-2008]]", "[[decreto-estadual-12799-2026]]"]
 tags: [alteracao, ampliacao, anexo, anexo-normativo, anexo-pendente, anuencia, app, area-construida, area-contaminada, area-fragil, area-risco, area-umida, arquivo-vetorial, art-anotacao, artesanal, arvore-isolada, ato-administrativo, automonitoramento, autorizacao-ambiental, autorizacao-florestal, bem-cultural, cadastro, car, casos-omissos, cavidade-natural, cema, certidao-municipal, cnpj, comissionamento, compostagem, comunidade-tradicional, condicionante, cpf, crime-ambiental, ctf, dcp, declaracao-adesao-compromisso, definicao, destinacao-final, diagnostico-ambiental, direito-transicao, diretoria-patrimonio-natural, diretriz-estudo, dispensa, dlae, dlam, documentacao, dominialidade, efluente, eia-rima, embargo, emissao-atmosferica, emissao-fugitiva, encerramento, enquadramento, esgotamento-sanitario, especie-exotica, estudo-ambiental, fauna, fonte-poluicao, fonte-potencial-contaminacao, funai, galeria-pluvial, geli, geologia, impermeabilizacao, incra, industria, informacao-falsa, infracao-ambiental, interesse-social, inventario-residuos, iphan, lac, lagoa-tratamento, las, lasa, lasr, li, lia, licenca-ambiental, licenca-vencida, licenciamento-ambiental, licenciamento-bifasico, licenciamento-monofasico, licenciamento-municipal, licenciamento-trifasico, lir, lo, loa, localizacao, logistica-reversa, lor, lp, lpa, manifestacao-juridica, mapa-situacao, meio-ambiente, memorial-caracterizacao, modalidade, modelagem, modelo, movimentacao-solo, mtr, municipio-certificado, orgao-interveniente, outorga, outorga-direito, outorga-previa, padrao-emissao, padrao-lancamento, parecer-tecnico, pbca, pcpa, pendencia-judicial, pgr, pgrcc, pgrs, poluicao, poluicao-sonora, poluidor, porte, porte-excepcional, potencial-poluidor, prazo, prazo-diferenciado, procuracao, prorrogacao, publicacao-dioe, quilombola, rap, rastreabilidade, reciclagem, recurso-ambiental, recurso-hidrico, registro-fotografico, regularizacao, relatorio-atendimento-condicionante, relatorio-caracterizacao-flora, renovacao, reparacao-dano, requerimento, reserva-legal, residuo-perigoso, residuo-solido, residuo-terceiro, reuso-efluente, revogacao, risco-ambiental, sancao, serflor, sinaflor, sistema-informatizado, supressao-vegetacao, tac, taxa-ambiental, termo-compromisso, termo-referencia, terra-indigena, terraplanagem, unidade-conservacao, uso-insignificante, utilidade-publica, validade, viabilidade-locacional, vigencia, zona-amortecimento]
-anexos: "I a XV citados no texto, ausentes no PDF de origem; tipo 1 (modelos): III, V, VI, VII, XV; tipo 2 (diretrizes de estudo): IV, VIII, IX, X, XI, XIII; tipo 3 (normativos): I, II, XII, XIV"
-fonte: PDF assinado digitalmente (73 páginas, sem os anexos; "Republique-se e registre-se"); data de publicação no DIOE não consta do PDF
+anexos: "tipo 1 (modelos): III, V, VI, VII, XV; tipo 2 (diretrizes de estudo, em normas/anexos/): IV, VIII, IX, X, XI, XIII; tipo 3 (normativos, neste arquivo): I, II, XII (pendente), XIV"
+fonte: corpo conferido no PDF assinado digitalmente (73 páginas, sem anexos) e no texto integral enviado por Leo; anexos transcritos do texto integral; data de publicação no DIOE não consta
 ---
 
 # Instrução Normativa IAT nº 65, de 01 de dezembro de 2025 {#instrucao-normativa-iat-65-2025}
@@ -1207,82 +1207,306 @@ Tags: #vigencia #revogacao
 
 ## ANEXOS
 
-> **O PDF usado na conversão não traz os anexos** (73 páginas, que terminam no art. 87). A classificação abaixo segue as regras de anexos do README e foi feita pelas remissões do texto. Os modelos (tipo 1) já estão no formato final. Os tipos 2 e 3 dependem do conteúdo oficial.
+> Fonte dos anexos: texto integral da IN enviado por Leo (extração de texto do PDF). Tipos conforme as regras de anexos do README: **tipo 1** (modelos) só com o nome; **tipo 2** (diretrizes de estudos) em arquivo próprio em `normas/anexos/`; **tipo 3** (conteúdo normativo) listado aqui, com IDs `anexoN_linM` e `anexoN_tabT_linM`.
 
 ### ANEXO I {#anexo1}
-Tags: #anexo #anexo-pendente #anexo-normativo
+Tags: #anexo #anexo-normativo #porte #enquadramento #area-construida
 
-Tabela de definição do porte (área construída, investimento total e número de empregados). *(Tipo 3: conteúdo normativo, será listado aqui com IDs `anexo1_linN` / `anexo1_tabT_linN`. Citado no [[#art7|art. 7]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
+**DEFINIÇÃO DO PORTE DE EMPREENDIMENTOS INDUSTRIAIS**
+
+- **Anexo I, linha 1** {#anexo1_lin1} O porte de empreendimentos industriais é definido considerando área construída, investimento total e número de empregados, conforme o estabelecido na [[lei-estadual-10233-1992|Lei Estadual n.º 10.233, de 28 de dezembro de 1992]], de acordo com a tabela abaixo.
+- **Anexo I, Tabela 1, linha 1** {#anexo1_tab1_lin1} #porte Área Construida (m²): Até 2.000 | Investimento total (UPF / PR): de 2.000 até 8.000 | Número de empregados: Até 50 | PORTE: Pequeno (P)
+- **Anexo I, Tabela 1, linha 2** {#anexo1_tab1_lin2} #porte Área Construida (m²): De 2.000 até 10.000 | Investimento total (UPF / PR): de 8.000 até 80.000 | Número de empregados: De 50 até 100 | PORTE: Médio(M)
+- **Anexo I, Tabela 1, linha 3** {#anexo1_tab1_lin3} #porte Área Construida (m²): De 10.000 até 40.000 | Investimento total (UPF / PR): de 80.000 até 800.000 | Número de empregados: De 100 até 1.000 | PORTE: Grande (G)
+- **Anexo I, Tabela 1, linha 4** {#anexo1_tab1_lin4} #porte Área Construida (m²): Acima de 40.000 | Investimento total (UPF / PR): acima de 800.000 | Número de empregados: Acima de 1.000 | PORTE: Excepcional(E)
 
 ### ANEXO II {#anexo2}
-Tags: #anexo #anexo-pendente #anexo-normativo
+Tags: #anexo #anexo-normativo #las #enquadramento #industria
 
-Atividades industriais passíveis de Licença Ambiental Simplificada (LAS). *(Tipo 3: conteúdo normativo, será listado aqui com IDs `anexo2_linN` / `anexo2_tabT_linN`. Citado no [[#art15|art. 15]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
+**ATIVIDADES INDUSTRIAIS PASSÍVAS DE LICENCIAMENTO AMBIENTAL SIMPLIFICADO – LAS**
+
+Tabela 1 – LAS - GRUPO INDUSTRIAL. Colunas: ATIVIDADE | ATIVIDADE ESPECÍFICA | Volume de transformação/produção (limite máximo) ou área construída.
+
+- **Anexo II, Tabela 1, linha 1** {#anexo2_tab1_lin1} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Abatedouro de Aves | Limite máximo: 3.000 aves/mês
+- **Anexo II, Tabela 1, linha 2** {#anexo2_tab1_lin2} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Abatedouro de Bovinos | Limite máximo: 30 cabeças/mês
+- **Anexo II, Tabela 1, linha 3** {#anexo2_tab1_lin3} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Abatedouro de Ovinos | Limite máximo: 60 cabeças/mês
+- **Anexo II, Tabela 1, linha 4** {#anexo2_tab1_lin4} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Abatedouro de Suínos | Limite máximo: 60 cabeças/mês
+- **Anexo II, Tabela 1, linha 5** {#anexo2_tab1_lin5} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Abatedouro de Outros Animais | Limite máximo: 60 cabeças/mês
+- **Anexo II, Tabela 1, linha 6** {#anexo2_tab1_lin6} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Ervateira | Limite máximo: 40 toneladas de mate processados/dia
+- **Anexo II, Tabela 1, linha 7** {#anexo2_tab1_lin7} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Fabricação de conservas, compostas, doces e concentrados de frutas | Limite máximo: 250 kg de matéria prima/dia
+- **Anexo II, Tabela 1, linha 8** {#anexo2_tab1_lin8} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Fabricação de Conservas de Legumes e Outros Vegetais | Limite máximo: 250 kg de matéria prima/dia
+- **Anexo II, Tabela 1, linha 9** {#anexo2_tab1_lin9} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Fabricação de conservas de peixes, crustáceos e moluscos | Limite máximo: 200 kg de carne processada/dia
+- **Anexo II, Tabela 1, linha 10** {#anexo2_tab1_lin10} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Fabricação de conservas salgadas | Limite máximo: 250 kg de matéria prima/dia
+- **Anexo II, Tabela 1, linha 11** {#anexo2_tab1_lin11} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Fabricação de derivados do cacau e de chocolates | Limite máximo: 200 kg produto/dia
+- **Anexo II, Tabela 1, linha 12** {#anexo2_tab1_lin12} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Fabricação de doce de leite | Limite máximo: 800 L de leite/dia
+- **Anexo II, Tabela 1, linha 13** {#anexo2_tab1_lin13} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Fabricação de doces de matérias primas diferentes do leite e de frutas | Limite máximo: 200 kg produto/dia
+- **Anexo II, Tabela 1, linha 14** {#anexo2_tab1_lin14} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Fabricação de frutas cristalizadas, balas e semelhantes | Limite máximo: 200 kg produto/dia
+- **Anexo II, Tabela 1, linha 15** {#anexo2_tab1_lin15} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Fabricação de laticínios | Limite máximo: 1.250 L de leite/ dia
+- **Anexo II, Tabela 1, linha 16** {#anexo2_tab1_lin16} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Fabricação de molhos em conserva | Limite máximo: 250 kg produto/dia
+- **Anexo II, Tabela 1, linha 17** {#anexo2_tab1_lin17} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Fabricação de Produtos de Carne não Integrados ao Abate | Limite máximo: 1.000 kg de carne processada/dia
+- **Anexo II, Tabela 1, linha 18** {#anexo2_tab1_lin18} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Fabricação de queijo e manteiga | Limite máximo: 800 L de leite/dia
+- **Anexo II, Tabela 1, linha 19** {#anexo2_tab1_lin19} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Fabricação de queijo, manteiga, iogurte e outros | Limite máximo: 800 L de leite/dia
+- **Anexo II, Tabela 1, linha 20** {#anexo2_tab1_lin20} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Fabricação de sorvetes e outros gelados comestíveis | Limite máximo: Área até 1.000 m²
+- **Anexo II, Tabela 1, linha 21** {#anexo2_tab1_lin21} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Fábrica de Embutidos e Defumados | Limite máximo: 1.000 kg de carne processada/dia
+- **Anexo II, Tabela 1, linha 22** {#anexo2_tab1_lin22} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Indústria de biscoitos e bolachas | Limite máximo: 300 kg produto/dia
+- **Anexo II, Tabela 1, linha 23** {#anexo2_tab1_lin23} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Indústria de farinha de mandioca | Limite máximo: 500 kg mandioca/dia
+- **Anexo II, Tabela 1, linha 24** {#anexo2_tab1_lin24} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Indústria de farinha de milho | Limite máximo: 100 kg milho/dia
+- **Anexo II, Tabela 1, linha 25** {#anexo2_tab1_lin25} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Preparação do Leite | Limite máximo: 1.250 L de leite/ dia
+- **Anexo II, Tabela 1, linha 26** {#anexo2_tab1_lin26} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Produção de pintos de um dia | Limite máximo: 2.500 m² de área de confinamento
+- **Anexo II, Tabela 1, linha 27** {#anexo2_tab1_lin27} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Produção de Sucos | Limite máximo: 600 L de suco/dia
+- **Anexo II, Tabela 1, linha 28** {#anexo2_tab1_lin28} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Produção de vinagre | Limite máximo: 300 L de vinagre/dia
+- **Anexo II, Tabela 1, linha 29** {#anexo2_tab1_lin29} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Resfriamento e envase do leite | Limite máximo: 1.250 L de leite/ dia
+- **Anexo II, Tabela 1, linha 30** {#anexo2_tab1_lin30} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Unidade de Classificação de Ovos | Limite máximo: 3.600 ovos/dia
+- **Anexo II, Tabela 1, linha 31** {#anexo2_tab1_lin31} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Unidade de processamento de mel | Limite máximo: 12.000 kg mel/ano
+- **Anexo II, Tabela 1, linha 32** {#anexo2_tab1_lin32} #las #industria-alimenticia ATIVIDADE: Alimentos | ATIVIDADE ESPECÍFICA: Unidade de Processamento de Peixes, Moluscos, Anfíbos e Crustáceos | Limite máximo: 200 kg de carne processada/dia
+- **Anexo II, Tabela 1, linha 33** {#anexo2_tab1_lin33} #las #industria-bebidas ATIVIDADE: Bebidas | ATIVIDADE ESPECÍFICA: Engarrafamento e gaseificação de água mineral | Limite máximo: Engarrafamento e gaseificação de água de até 200 m³/dia
+- **Anexo II, Tabela 1, linha 34** {#anexo2_tab1_lin34} #las #industria-bebidas ATIVIDADE: Bebidas | ATIVIDADE ESPECÍFICA: Fabricação de Aguardentes e Outras Bebidas Destiladas | Limite máximo: 1.000 kg de cana moída/dia
+- **Anexo II, Tabela 1, linha 35** {#anexo2_tab1_lin35} #las #industria-bebidas ATIVIDADE: Bebidas | ATIVIDADE ESPECÍFICA: Fabricação de águas envasadas | Limite máximo: Envase de água de até 200m³/dia
+- **Anexo II, Tabela 1, linha 36** {#anexo2_tab1_lin36} #las #industria-bebidas ATIVIDADE: Bebidas | ATIVIDADE ESPECÍFICA: Fabricação de outras bebidas não-alcoólicas não especificadas anteriormente | Limite máximo: 600 L de produção/dia
+- **Anexo II, Tabela 1, linha 37** {#anexo2_tab1_lin37} #las #industria-bebidas ATIVIDADE: Bebidas | ATIVIDADE ESPECÍFICA: Fabricação de Refrigerantes e Outras Bebidas não Alcóolicas | Limite máximo: 600 L de produção/dia
+- **Anexo II, Tabela 1, linha 38** {#anexo2_tab1_lin38} #las #industria-bebidas ATIVIDADE: Bebidas | ATIVIDADE ESPECÍFICA: Fabricação de vinho | Limite máximo: 2.000 kg de uva processada/dia
+- **Anexo II, Tabela 1, linha 39** {#anexo2_tab1_lin39} #las #mandioca ATIVIDADE: Beneficiamento de mandioca | ATIVIDADE ESPECÍFICA: - | Limite máximo: 500 kg mandioca/dia
+- **Anexo II, Tabela 1, linha 40** {#anexo2_tab1_lin40} #las #minerais-nao-metalicos ATIVIDADE: Beneficiamento de minerais não metálicos | ATIVIDADE ESPECÍFICA: Fabricação de Produtos Cerâmicos Não-refratários não Especificados | Limite máximo: Área até 10.000 m²
+- **Anexo II, Tabela 1, linha 41** {#anexo2_tab1_lin41} #las #minerais-nao-metalicos ATIVIDADE: Beneficiamento de minerais não metálicos | ATIVIDADE ESPECÍFICA: Fabricação de Produtos Cerâmicos não Refratários Para uso Estrutural na Construção | Limite máximo: Área até 10.000 m²
+- **Anexo II, Tabela 1, linha 42** {#anexo2_tab1_lin42} #las #minerais-nao-metalicos ATIVIDADE: Beneficiamento de minerais não metálicos | ATIVIDADE ESPECÍFICA: Fabricação de produtos cerâmicos refratários | Limite máximo: Área até 10.000 m²
+- **Anexo II, Tabela 1, linha 43** {#anexo2_tab1_lin43} #las #armazenamento-graos ATIVIDADE: Beneficiamento e armazenamento de produtos agrícolas | ATIVIDADE ESPECÍFICA: Beneficiamento de outros grãos, moinho de trigo, sementes | Limite máximo: 10.000 t de capacidade de estocagem
+- **Anexo II, Tabela 1, linha 44** {#anexo2_tab1_lin44} #las #armazenamento-graos ATIVIDADE: Beneficiamento e armazenamento de produtos agrícolas | ATIVIDADE ESPECÍFICA: Beneficiamento e armazenamento de produtos agrícolas | Limite máximo: 10.000 t de capacidade de estocagem
+- **Anexo II, Tabela 1, linha 45** {#anexo2_tab1_lin45} #las #armazenamento-graos ATIVIDADE: Beneficiamento e armazenamento de produtos agrícolas | ATIVIDADE ESPECÍFICA: Torrefação e empacotamento de café | Limite máximo: 120 kg produto/dia
+- **Anexo II, Tabela 1, linha 46** {#anexo2_tab1_lin46} #las #armazenamento-graos ATIVIDADE: Beneficiamento e armazenamento de produtos agrícolas | ATIVIDADE ESPECÍFICA: Torrefação e empacotamento de chá | Limite máximo: 50 kg produto/dia
+- **Anexo II, Tabela 1, linha 47** {#anexo2_tab1_lin47} #las #armazenamento-graos ATIVIDADE: Beneficiamento e armazenamento de produtos agrícolas | ATIVIDADE ESPECÍFICA: Transbordo e armazenamento de cereais | Limite máximo: 10.000 t de capacidade de estocagem
+- **Anexo II, Tabela 1, linha 48** {#anexo2_tab1_lin48} #las #industria-mecanica ATIVIDADE: Fabricação de máquinas e equipamentos | ATIVIDADE ESPECÍFICA: - | Limite máximo: Não realize fundição de metais. Geração de efluente industrial até 5 m³/dia Área até 10.000 m²
+- **Anexo II, Tabela 1, linha 49** {#anexo2_tab1_lin49} #las #industria-farmaceutica ATIVIDADE: Fabricação de produtos farmacoquímicos e farmacêuticos | ATIVIDADE ESPECÍFICA: Fabricação de produtos farmacêuticos | Limite máximo: Área até 1.000 m²
+- **Anexo II, Tabela 1, linha 50** {#anexo2_tab1_lin50} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Beneficiamento de madeira (serrada, resserrada, etc.) | Limite máximo: Utilize madeira como matéria prima até 10 m³ madeira/dia
+- **Anexo II, Tabela 1, linha 51** {#anexo2_tab1_lin51} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Fabricação de Artefatos de Tanoaria e de Embalagens de Madeira | Limite máximo: Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 52** {#anexo2_tab1_lin52} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Fabricação de artefatos diversos de cortiça, bambu, palha, vime e outros | Limite máximo: Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 53** {#anexo2_tab1_lin53} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Fabricação de artefatos diversos de madeira, exceto móveis | Limite máximo: Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 54** {#anexo2_tab1_lin54} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Fabricação de briquetes de resíduos de madeira, casca de coco ou outras fibras vegetais | Limite máximo: Área até 1.000 m²
+- **Anexo II, Tabela 1, linha 55** {#anexo2_tab1_lin55} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Fabricação de casas de madeira pré-fabricadas | Limite máximo: Área até 10.000 m² Não utilize matéria prima de origem nativa.
+- **Anexo II, Tabela 1, linha 56** {#anexo2_tab1_lin56} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Fabricação de Cavacos de Madeira | Limite máximo: Área até 2.000 m² Não utilize matéria prima de origem nativa.
+- **Anexo II, Tabela 1, linha 57** {#anexo2_tab1_lin57} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Fabricação de chapas, placas de madeira aglomerada, prensada e compensada | Limite máximo: Área até 2.000 m² Não utilize matéria prima de origem nativa.
+- **Anexo II, Tabela 1, linha 58** {#anexo2_tab1_lin58} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Fabricação de esquadrias de madeira e de peças de madeira para instalações industriais e comerciais | Limite máximo: Área até 2.000 m² Não utilize matéria prima de origem nativa.
+- **Anexo II, Tabela 1, linha 59** {#anexo2_tab1_lin59} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Fabricação de estruturas de madeira e de móveis | Limite máximo: Área até 2.000 m² Não utilize matéria prima de origem nativa.
+- **Anexo II, Tabela 1, linha 60** {#anexo2_tab1_lin60} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Fabricação de Farinha de Madeira | Limite máximo: Área até 2.000 m² Não utilize matéria prima de origem nativa.
+- **Anexo II, Tabela 1, linha 61** {#anexo2_tab1_lin61} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Fabricação de Madeira Laminada e de Chapas de Madeira Compensada, Prensada e Aglomerada | Limite máximo: Área até 2.000 m² Não utilize matéria prima de origem nativa.
+- **Anexo II, Tabela 1, linha 62** {#anexo2_tab1_lin62} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Fabricação de móveis com predominância de madeira | Limite máximo: Área até 2.000 m² Não utilize matéria prima de origem nativa.
+- **Anexo II, Tabela 1, linha 63** {#anexo2_tab1_lin63} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Fornos Para Produção de Carvão | Limite máximo: 5 fornos de carvão e capacidade máxima de processamento de 20m³/mês de lenha por forno. Não utilize matéria prima de origem nativa.
+- **Anexo II, Tabela 1, linha 64** {#anexo2_tab1_lin64} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Laminadora de Madeira | Limite máximo: Área até 2.000 m² Não utilize matéria prima de origem nativa.
+- **Anexo II, Tabela 1, linha 65** {#anexo2_tab1_lin65} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Lápis, Palitos e Outros | Limite máximo: Área até 2.000 m² Não utilize matéria prima de origem nativa.
+- **Anexo II, Tabela 1, linha 66** {#anexo2_tab1_lin66} #las #industria-madeira ATIVIDADE: Ind. da madeira | ATIVIDADE ESPECÍFICA: Serraria | Limite máximo: Área até 2.000 m² Não utilize matéria prima de origem nativa.
+- **Anexo II, Tabela 1, linha 67** {#anexo2_tab1_lin67} #las #industria-eletrica ATIVIDADE: Ind. de material elétrico, eletrônicos e de comunicação | ATIVIDADE ESPECÍFICA: Fabricação de fios, cabos e condutores elétricos isolados | Limite máximo: Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 68** {#anexo2_tab1_lin68} #las #sucroalcooleira ATIVIDADE: Ind. do açúcar e do álcool | ATIVIDADE ESPECÍFICA: Açúcar mascavo e rapadura | Limite máximo: 3.000 kg de cana moída/dia
+- **Anexo II, Tabela 1, linha 69** {#anexo2_tab1_lin69} #las #sucroalcooleira ATIVIDADE: Ind. do açúcar e do álcool | ATIVIDADE ESPECÍFICA: Fabricação de cachaça | Limite máximo: 1.000 kg de cana moída/dia
+- **Anexo II, Tabela 1, linha 70** {#anexo2_tab1_lin70} #las #sucroalcooleira ATIVIDADE: Ind. do açúcar e do álcool | ATIVIDADE ESPECÍFICA: Usina de álcool | Limite máximo: 1.000 kg de cana moída/dia
+- **Anexo II, Tabela 1, linha 71** {#anexo2_tab1_lin71} #las #industria-fumo ATIVIDADE: Ind. do fumo | ATIVIDADE ESPECÍFICA: fabricação de Produtos de Fumo | Limite máximo: 1.000 m²
+- **Anexo II, Tabela 1, linha 72** {#anexo2_tab1_lin72} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Fabricação de artigos de serralheria, exceto esquadrias | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 73** {#anexo2_tab1_lin73} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Fabricação de Estruturas Metálicas com Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 74** {#anexo2_tab1_lin74} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Fabricação de estruturas metálicas sem linha de galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 75** {#anexo2_tab1_lin75} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Fabricação de ferramentas | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 76** {#anexo2_tab1_lin76} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente, peças e acessórios | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 77** {#anexo2_tab1_lin77} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Fabricação de móveis com predominância de metal com linha de galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 78** {#anexo2_tab1_lin78} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Fabricação de móveis com predominância de metal sem linha de galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 79** {#anexo2_tab1_lin79} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Metalurgia do Alumínio e Suas Ligas com Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 80** {#anexo2_tab1_lin80} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Metalurgia do pó, Inclusive Peças Moldadas/estamparia com Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 81** {#anexo2_tab1_lin81} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Metalurgia dos Metais não Ferrosos e Suas Ligas não Especificados Anteriormente com Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 80.000 m²
+- **Anexo II, Tabela 1, linha 82** {#anexo2_tab1_lin82} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Metalurgia dos Metais não Ferrosos e Suas Ligas não Especificados Anteriormente sem Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 83** {#anexo2_tab1_lin83} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Metalurgia dos Metais Preciosos com Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 84** {#anexo2_tab1_lin84} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Produção de Artefatos de aço ao Carbono Revestidos com Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 85** {#anexo2_tab1_lin85} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Produção de Artefatos de aço ao Carbono sem Revestimento com Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 86** {#anexo2_tab1_lin86} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Produção de artefatos de aço ao carbono sem revestimento sem linha de galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 87** {#anexo2_tab1_lin87} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Produção de Ferro Gusa com Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 88** {#anexo2_tab1_lin88} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Produção de Ferroligas com Tratamento de Superfície com Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 89** {#anexo2_tab1_lin89} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Produção de Ferroligas com Tratamento de Superfície sem Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 90** {#anexo2_tab1_lin90} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Produção de Ferroligas sem Tratamento de Superfície com Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 91** {#anexo2_tab1_lin91} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Produção de laminados longos de aço com tratamento de superfície | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 92** {#anexo2_tab1_lin92} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Produção de Relaminados, Trefilados e Perfilados de aço com Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 93** {#anexo2_tab1_lin93} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Produção de Semi-acabados de aço com Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 94** {#anexo2_tab1_lin94} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Produção de Soldas e Anodos com Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 95** {#anexo2_tab1_lin95} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Serviços de confecção de armações metálicas para a construção | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 96** {#anexo2_tab1_lin96} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Serviços de Usinagem, Solda, Tratamento e Revestimento em Metais com Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 97** {#anexo2_tab1_lin97} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Serviços de Usinagem, Solda, Tratamento e Revestimento em Metais sem Linha de Galvanoplastia | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 98** {#anexo2_tab1_lin98} #las #industria-metalurgica ATIVIDADE: Ind. metalúrgica | ATIVIDADE ESPECÍFICA: Serviços de usinagem, tornearia e solda | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 99** {#anexo2_tab1_lin99} #las #industria-quimica ATIVIDADE: Ind. química | ATIVIDADE ESPECÍFICA: Fabricação de preparados para limpeza, polimento e desinfetantes | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 100** {#anexo2_tab1_lin100} #las #industria-quimica ATIVIDADE: Ind. química | ATIVIDADE ESPECÍFICA: Fabricação de sabões e detergentes | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 101** {#anexo2_tab1_lin101} #las #industria-quimica ATIVIDADE: Ind. química | ATIVIDADE ESPECÍFICA: Fabricação de Tintas, Esmaltes, Lacas e Vernizes | Limite máximo: Geração de efluente industrial de 5 m³/dia Área até 2.000 m²
+- **Anexo II, Tabela 1, linha 102** {#anexo2_tab1_lin102} #las #industria-textil ATIVIDADE: Ind. têxtil, de vestuário, calçados e artefatos de tecidos | ATIVIDADE ESPECÍFICA: Confecção de Peças do Vestuário, Exceto Roupas Íntimas | Limite máximo: Área até 10.000 m²
+- **Anexo II, Tabela 1, linha 103** {#anexo2_tab1_lin103} #las #industrias-diversas ATIVIDADE: Industrias diversas | ATIVIDADE ESPECÍFICA: Fabricação de Artefatos de Cimento | Limite máximo: Área até 10.000 m²
+- **Anexo II, Tabela 1, linha 104** {#anexo2_tab1_lin104} #las #industrias-diversas ATIVIDADE: Industrias diversas | ATIVIDADE ESPECÍFICA: Gráfica | Limite máximo: Área até 1.000 m²
+- **Anexo II, Tabela 1, linha 105** {#anexo2_tab1_lin105} #las #industrias-diversas ATIVIDADE: Industrias diversas | ATIVIDADE ESPECÍFICA: Indústria cerâmica | Limite máximo: Área até 10.000 m²
+- **Anexo II, Tabela 1, linha 106** {#anexo2_tab1_lin106} #las #industrias-diversas ATIVIDADE: Industrias diversas | ATIVIDADE ESPECÍFICA: Usina de asfalto - móvel | Limite máximo: Capacidade de produção de até 75 t/h
+- **Anexo II, Tabela 1, linha 107** {#anexo2_tab1_lin107} #las #industrias-diversas ATIVIDADE: Industrias diversas | ATIVIDADE ESPECÍFICA: Usina de asfalto | Limite máximo: Capacidade de produção de até 100 t/d
+- **Anexo II, Tabela 1, linha 108** {#anexo2_tab1_lin108} #las #industrias-diversas ATIVIDADE: Industrias diversas | ATIVIDADE ESPECÍFICA: Usinas de Produção de Concreto | Limite máximo: Área até 10.000 m²
 
 ### ANEXO III {#anexo3}
 Tags: #anexo #modelo
 
-Modelo de certidão do Município. *(Tipo 1. Nome conforme remissão do [[#art19_cpt_inc5|art. 19]]; anexo ausente no PDF de origem.)*
+Modelo de certidão do Município quanto ao uso e ocupação do solo. *(Tipo 1: modelo, conteúdo não transcrito. Exigido no [[#art19_cpt_inc5|art. 19]].)*
 
 ### ANEXO IV {#anexo4}
-Tags: #anexo #anexo-pendente #diretriz-estudo
+Tags: #anexo #diretriz-estudo
 
-Diretrizes do Memorial de Caracterização do Empreendimento (MCE). *(Tipo 2: irá para `normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md`, com atividades: industria. Citado no [[#art21_cpt_inc6|art. 21]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
+Termo de referência para elaboração do Memorial de Caracterização do Empreendimento – MCE. *(Tipo 2: diretriz de estudo, aplica-se só a empreendimentos industriais.)* Texto e síntese em [[instrucao-normativa-iat-65-2025-anexo4|MCE – IN IAT 65/2025, Anexo IV]].
 
 ### ANEXO V {#anexo5}
 Tags: #anexo #modelo
 
-Modelo de declaração da veracidade das informações prestadas. *(Tipo 1. Nome conforme remissão do [[#art19_cpt_inc8|art. 19]]; anexo ausente no PDF de origem.)*
+Modelo de declaração da veracidade das informações prestadas. *(Tipo 1: modelo, conteúdo não transcrito. Exigido no [[#art19_cpt_inc8|art. 19]].)*
 
 ### ANEXO VI {#anexo6}
 Tags: #anexo #modelo
 
-Modelo de declaração do empreendedor pelo Licenciamento por Adesão e Compromisso. *(Tipo 1. Nome conforme remissão do [[#art21_cpt_inc9|art. 21]]; anexo ausente no PDF de origem.)*
+Modelo de declaração do empreendedor pelo Licenciamento por Adesão e Compromisso. *(Tipo 1: modelo, conteúdo não transcrito. Exigido no [[#art21_cpt_inc9|art. 21]].)*
 
 ### ANEXO VII {#anexo7}
 Tags: #anexo #modelo
 
-Modelo de declaração do responsável técnico pelo Licenciamento por Adesão e Compromisso. *(Tipo 1. Nome conforme remissão do [[#art21_cpt_inc10|art. 21]]; anexo ausente no PDF de origem.)*
+Modelo de declaração do responsável técnico pelo Licenciamento por Adesão e Compromisso. *(Tipo 1: modelo, conteúdo não transcrito. Exigido no [[#art21_cpt_inc10|art. 21]].)*
 
 ### ANEXO VIII {#anexo8}
-Tags: #anexo #anexo-pendente #diretriz-estudo
+Tags: #anexo #diretriz-estudo
 
-Termo de Referência do Plano Básico de Controle de Poluição Ambiental (PBCA). *(Tipo 2: irá para `normas/anexos/instrucao-normativa-iat-65-2025-anexo8.md`, com atividades: industria. Citado no [[#art22_cpt_inc3|art. 22]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
+Termo de referência para elaboração do Plano Básico de Controle de Poluição Ambiental – PBCA. *(Tipo 2: diretriz de estudo, aplica-se só a empreendimentos industriais.)* Texto e síntese em [[instrucao-normativa-iat-65-2025-anexo8|PBCA – IN IAT 65/2025, Anexo VIII]].
 
 ### ANEXO IX {#anexo9}
-Tags: #anexo #anexo-pendente #diretriz-estudo
+Tags: #anexo #diretriz-estudo
 
-Diretrizes do Projeto de Controle de Poluição Ambiental e Projeto de Terraplanagem (PCPA). *(Tipo 2: irá para `normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md`, com atividades: industria. Citado no [[#art29_cpt_inc3|art. 29]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
+Termo de referência para elaboração do Projeto de Controle de Poluição Ambiental e Projeto de Terraplanagem – PCPA. *(Tipo 2: diretriz de estudo, aplica-se só a empreendimentos industriais.)* Texto e síntese em [[instrucao-normativa-iat-65-2025-anexo9|PCPA – IN IAT 65/2025, Anexo IX]].
 
 ### ANEXO X {#anexo10}
-Tags: #anexo #anexo-pendente #diretriz-estudo
+Tags: #anexo #diretriz-estudo
 
-Diretrizes do Projeto de Controle de Poluição Sonora. *(Tipo 2: irá para `normas/anexos/instrucao-normativa-iat-65-2025-anexo10.md`, com atividades: industria. Citado no [[#art29_cpt_inc5|art. 29]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
+Termo de referência para elaboração do Projeto de Controle de Poluição Sonora. *(Tipo 2: diretriz de estudo, aplica-se só a empreendimentos industriais.)* Texto e síntese em [[instrucao-normativa-iat-65-2025-anexo10|Poluição sonora – IN IAT 65/2025, Anexo X]].
 
 ### ANEXO XI {#anexo11}
-Tags: #anexo #anexo-pendente #diretriz-estudo
+Tags: #anexo #diretriz-estudo
 
-Diretrizes do Plano de Gerenciamento de Resíduos Sólidos (PGRS). *(Tipo 2: irá para `normas/anexos/instrucao-normativa-iat-65-2025-anexo11.md`, com atividades: industria. Citado no [[#art32_cpt_inc7|art. 32]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
+Termo de referência para elaboração do Plano de Gerenciamento de Resíduos Sólidos – PGRS. *(Tipo 2: diretriz de estudo, aplica-se só a empreendimentos industriais.)* Texto e síntese em [[instrucao-normativa-iat-65-2025-anexo11|PGRS – IN IAT 65/2025, Anexo XI]].
 
 ### ANEXO XII {#anexo12}
-Tags: #anexo #anexo-pendente #anexo-normativo
+Tags: #anexo #anexo-normativo #anexo-pendente #validade #lo
 
-Prazos de validade da Licença de Operação por atividade. *(Tipo 3: conteúdo normativo, será listado aqui com IDs `anexo12_linN` / `anexo12_tabT_linN`. Citado no [[#art33_cpt_inc9|art. 33]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
+**VALIDADE DA LICENÇA DE OPERAÇÃO** *(Tipo 3: conteúdo normativo. **Pendente:** na extração de texto recebida, a tabela, com colunas de prazo de 2, 4 e 6 anos por atividade industrial, perdeu o alinhamento entre atividades e colunas, e não é possível saber com segurança o prazo de cada atividade. Transcrever a partir do PDF.)* Citado no [[#art33_cpt_inc9|art. 33, IX]].
 
 ### ANEXO XIII {#anexo13}
-Tags: #anexo #anexo-pendente #diretriz-estudo
+Tags: #anexo #diretriz-estudo
 
-Diretrizes do diagnóstico da situação atual do empreendimento. *(Tipo 2: irá para `normas/anexos/instrucao-normativa-iat-65-2025-anexo13.md`, com atividades: industria. Citado no [[#art55_cpt_inc4|art. 55]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
+Termo de referência para elaboração de diagnóstico da situação atual do empreendimento. *(Tipo 2: diretriz de estudo, aplica-se só a empreendimentos industriais.)* Texto e síntese em [[instrucao-normativa-iat-65-2025-anexo13|Diagnóstico – IN IAT 65/2025, Anexo XIII]].
 
 ### ANEXO XIV {#anexo14}
-Tags: #anexo #anexo-pendente #anexo-normativo
+Tags: #anexo #anexo-normativo #efluente #padrao-lancamento #vazao-referencia
 
-Padrões de lançamento de efluentes líquidos industriais. *(Tipo 3: conteúdo normativo, será listado aqui com IDs `anexo14_linN` / `anexo14_tabT_linN`. Citado no [[#art63_cpt|art. 63]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
+**CONDIÇÕES E PADRÕES DE LANÇAMENTO DE EFLUENTES LÍQUIDOS INDUSTRIAIS**
+
+- **Anexo XIV, linha 1** {#anexo14_lin1} #padrao-lancamento Os efluentes de qualquer fonte poluidora somente poderão ser lançados, direta ou indiretamente, nos corpos de água desde que obedeçam às condições e padrões estabelecidos na sequência, resguardadas outras exigências cabíveis.
+- **Anexo XIV, linha 2** {#anexo14_lin2} #outorga I. Para os parâmetros DBO5 e DQO devem ser atendidos os valores estabelecidos em Portaria de Outorga, que autoriza o lançamento de efluente em corpo hidrico, que deverão ser iguais aos constantes na [[#anexo14_tab1_lin1|Tabela 1]] ou mais restritivos, a depender da característica do corpo hídrico receptor.
+- **Anexo XIV, linha 3** {#anexo14_lin3} II. Para demais parâmetros, inerentes à atividade ou empreendimento, devem ser atendidos os valores constantes da [[#anexo14_tab1_lin1|Tabela 1]].
+
+TABELA 1: Padrões para o lançamento de efluentes líquidos em corpos receptores
+
+- **Anexo XIV, Tabela 1, linha 1** {#anexo14_tab1_lin1} #mandioca Atividade: 1) BENEFICIAMENTO DE MANDIOCA | Processo: a) Processos com segregação de efluentes (águas de lavagem, água vegetal e outros concentrados) | Efluente: i. Águas de lavagem de mandioca | Parâmetro: DBO5 | Padrão: 100 mg/L
+- **Anexo XIV, Tabela 1, linha 2** {#anexo14_tab1_lin2} #mandioca Atividade: 1) BENEFICIAMENTO DE MANDIOCA | Processo: a) Processos com segregação de efluentes (águas de lavagem, água vegetal e outros concentrados) | Efluente: i. Águas de lavagem de mandioca | Parâmetro: DQO | Padrão: 350 mg/L
+- **Anexo XIV, Tabela 1, linha 3** {#anexo14_tab1_lin3} #mandioca Atividade: 1) BENEFICIAMENTO DE MANDIOCA | Processo: a) Processos com segregação de efluentes (águas de lavagem, água vegetal e outros concentrados) | Efluente: i. Águas de lavagem de mandioca | Parâmetro: Cianeto total | Padrão: 0,2 mg/L CN
+- **Anexo XIV, Tabela 1, linha 4** {#anexo14_tab1_lin4} #mandioca Atividade: 1) BENEFICIAMENTO DE MANDIOCA | Processo: a) Processos com segregação de efluentes (águas de lavagem, água vegetal e outros concentrados) | Efluente: ii. Para água vegetal | Parâmetro: DBO5 | Padrão: 100 mg/L
+- **Anexo XIV, Tabela 1, linha 5** {#anexo14_tab1_lin5} #mandioca Atividade: 1) BENEFICIAMENTO DE MANDIOCA | Processo: a) Processos com segregação de efluentes (águas de lavagem, água vegetal e outros concentrados) | Efluente: ii. Para água vegetal | Parâmetro: DQO | Padrão: 350 mg/L
+- **Anexo XIV, Tabela 1, linha 6** {#anexo14_tab1_lin6} #mandioca Atividade: 1) BENEFICIAMENTO DE MANDIOCA | Processo: a) Processos com segregação de efluentes (águas de lavagem, água vegetal e outros concentrados) | Efluente: ii. Para água vegetal | Parâmetro: Cianeto total | Padrão: 0,2 mg/L CN
+- **Anexo XIV, Tabela 1, linha 7** {#anexo14_tab1_lin7} #mandioca Atividade: 1) BENEFICIAMENTO DE MANDIOCA | Processo: b) Processos sem segregação de efluentes | Parâmetro: DBO5 | Padrão: 100 mg/L
+- **Anexo XIV, Tabela 1, linha 8** {#anexo14_tab1_lin8} #mandioca Atividade: 1) BENEFICIAMENTO DE MANDIOCA | Processo: b) Processos sem segregação de efluentes | Parâmetro: DQO | Padrão: 250 mg/L
+- **Anexo XIV, Tabela 1, linha 9** {#anexo14_tab1_lin9} #mandioca Atividade: 1) BENEFICIAMENTO DE MANDIOCA | Processo: b) Processos sem segregação de efluentes | Parâmetro: Cianeto total | Padrão: 0,2 mg/L CN
+- **Anexo XIV, Tabela 1, linha 10** {#anexo14_tab1_lin10} #sucroalcooleira Atividade: 2) SUCROALCOLEIRA | Parâmetro: DBO5 | Padrão: 100 mg/L
+- **Anexo XIV, Tabela 1, linha 11** {#anexo14_tab1_lin11} #sucroalcooleira Atividade: 2) SUCROALCOLEIRA | Parâmetro: DQO | Padrão: 300 mg/L
+- **Anexo XIV, Tabela 1, linha 12** {#anexo14_tab1_lin12} #sucroalcooleira Atividade: 2) SUCROALCOLEIRA | Parâmetro: Óleos e graxas | Padrão: Óleos vegetais e gorduras animais: até 50mg/l; Óleos minerais: até 20mg/L
+- **Anexo XIV, Tabela 1, linha 13** {#anexo14_tab1_lin13} #laticinio Atividade: 3) LATICÍNIO | Parâmetro: DBO5 | Padrão: 50 mg/L
+- **Anexo XIV, Tabela 1, linha 14** {#anexo14_tab1_lin14} #laticinio Atividade: 3) LATICÍNIO | Parâmetro: DQO | Padrão: 200 mg/L
+- **Anexo XIV, Tabela 1, linha 15** {#anexo14_tab1_lin15} #laticinio Atividade: 3) LATICÍNIO | Parâmetro: Óleos e graxas | Padrão: Óleos vegetais e gorduras animais: até 50mg/l
+- **Anexo XIV, Tabela 1, linha 16** {#anexo14_tab1_lin16} #curtume Atividade: 4) CURTUME | Parâmetro: DBO5 | Padrão: 100 mg/L
+- **Anexo XIV, Tabela 1, linha 17** {#anexo14_tab1_lin17} #curtume Atividade: 4) CURTUME | Parâmetro: DQO | Padrão: 350 mg/L
+- **Anexo XIV, Tabela 1, linha 18** {#anexo14_tab1_lin18} #curtume Atividade: 4) CURTUME | Parâmetro: Óleos e graxas | Padrão: Óleos vegetais e gorduras animais: até 50mg/l; Óleos minerais: até 20mg/L
+- **Anexo XIV, Tabela 1, linha 19** {#anexo14_tab1_lin19} #curtume Atividade: 4) CURTUME | Parâmetro: Nitrogênio amoniacal total | Padrão: Ambiente lótico: redução mínima de 80%; Ambiente lêntico: 20mg/L
+- **Anexo XIV, Tabela 1, linha 20** {#anexo14_tab1_lin20} #curtume Atividade: 4) CURTUME | Parâmetro: Cromo trivalente (Cr III) | Padrão: 1,0 mg/L Cr3+
+- **Anexo XIV, Tabela 1, linha 21** {#anexo14_tab1_lin21} #curtume Atividade: 4) CURTUME | Parâmetro: Sulfetos | Padrão: 1,0 mg/L S
+- **Anexo XIV, Tabela 1, linha 22** {#anexo14_tab1_lin22} #frigorifico Atividade: 5) FRIGORÍFICO | Parâmetro: DBO | Padrão: 60 mg/L
+- **Anexo XIV, Tabela 1, linha 23** {#anexo14_tab1_lin23} #frigorifico Atividade: 5) FRIGORÍFICO | Parâmetro: DQO | Padrão: 200 mg/L
+- **Anexo XIV, Tabela 1, linha 24** {#anexo14_tab1_lin24} #frigorifico Atividade: 5) FRIGORÍFICO | Parâmetro: Óleos e graxas | Padrão: Óleos vegetais e gosduras animais: até 50 mg/L
+- **Anexo XIV, Tabela 1, linha 25** {#anexo14_tab1_lin25} #industria-textil Atividade: 6) TINTURARIA, TÊXTEIS E LAVANDERIA INDUSTRIAL | Parâmetro: DBO5 | Padrão: 50 mg/L
+- **Anexo XIV, Tabela 1, linha 26** {#anexo14_tab1_lin26} #industria-textil Atividade: 6) TINTURARIA, TÊXTEIS E LAVANDERIA INDUSTRIAL | Parâmetro: DQO | Padrão: 200 mg/L
+- **Anexo XIV, Tabela 1, linha 27** {#anexo14_tab1_lin27} #industria-textil Atividade: 6) TINTURARIA, TÊXTEIS E LAVANDERIA INDUSTRIAL | Parâmetro: Cromo total | Padrão: 0,5 mg/L Cr
+- **Anexo XIV, Tabela 1, linha 28** {#anexo14_tab1_lin28} #industria-textil Atividade: 6) TINTURARIA, TÊXTEIS E LAVANDERIA INDUSTRIAL | Parâmetro: Cádmio total | Padrão: 0,2 mg/L Cd
+- **Anexo XIV, Tabela 1, linha 29** {#anexo14_tab1_lin29} #industria-textil Atividade: 6) TINTURARIA, TÊXTEIS E LAVANDERIA INDUSTRIAL | Parâmetro: Cianeto total | Padrão: 0,2 mg/L CN
+- **Anexo XIV, Tabela 1, linha 30** {#anexo14_tab1_lin30} #industria-textil Atividade: 6) TINTURARIA, TÊXTEIS E LAVANDERIA INDUSTRIAL | Parâmetro: Ferro dissolvido | Padrão: 15,0 mg/L Fe
+- **Anexo XIV, Tabela 1, linha 31** {#anexo14_tab1_lin31} #industria-textil Atividade: 6) TINTURARIA, TÊXTEIS E LAVANDERIA INDUSTRIAL | Parâmetro: Níquel total | Padrão: 2,0 mg/L Ni
+- **Anexo XIV, Tabela 1, linha 32** {#anexo14_tab1_lin32} #industria-textil Atividade: 6) TINTURARIA, TÊXTEIS E LAVANDERIA INDUSTRIAL | Parâmetro: Cobre dissolvido | Padrão: 1,0 mgL Cu
+- **Anexo XIV, Tabela 1, linha 33** {#anexo14_tab1_lin33} #industria-textil Atividade: 6) TINTURARIA, TÊXTEIS E LAVANDERIA INDUSTRIAL | Parâmetro: Zinco total | Padrão: 5,0 mg/L Zn
+- **Anexo XIV, Tabela 1, linha 34** {#anexo14_tab1_lin34} #oleo-soja Atividade: 7) EXTRAÇÃO E REFINO DE ÓLEO DE SOJA | Parâmetro: DBO5 | Padrão: 50 mg/L
+- **Anexo XIV, Tabela 1, linha 35** {#anexo14_tab1_lin35} #oleo-soja Atividade: 7) EXTRAÇÃO E REFINO DE ÓLEO DE SOJA | Parâmetro: DQO | Padrão: 200 mg/L
+- **Anexo XIV, Tabela 1, linha 36** {#anexo14_tab1_lin36} #oleo-soja Atividade: 7) EXTRAÇÃO E REFINO DE ÓLEO DE SOJA | Parâmetro: Óleos e graxas | Padrão: Óleos vegetais e gorduras animais: até 50 mg/L
+- **Anexo XIV, Tabela 1, linha 37** {#anexo14_tab1_lin37} #industria-bebidas Atividade: 8 ) BEBIDAS | Parâmetro: DBO5 | Padrão: 50 mg/L
+- **Anexo XIV, Tabela 1, linha 38** {#anexo14_tab1_lin38} #industria-bebidas Atividade: 8 ) BEBIDAS | Parâmetro: DQO | Padrão: 200 mg/L
+- **Anexo XIV, Tabela 1, linha 39** {#anexo14_tab1_lin39} #maltearia Atividade: 9) MALTEARIA | Parâmetro: DBO5 | Padrão: 50 mg/L
+- **Anexo XIV, Tabela 1, linha 40** {#anexo14_tab1_lin40} #maltearia Atividade: 9) MALTEARIA | Parâmetro: DQO | Padrão: 200 mg/L
+- **Anexo XIV, Tabela 1, linha 41** {#anexo14_tab1_lin41} #galvanoplastia Atividade: 10) TRATAMENTO DE SUPERFÍCIE (GALVANOTÉCNICA) | Parâmetro: DBO5 | Padrão: 50 mg/L
+- **Anexo XIV, Tabela 1, linha 42** {#anexo14_tab1_lin42} #galvanoplastia Atividade: 10) TRATAMENTO DE SUPERFÍCIE (GALVANOTÉCNICA) | Parâmetro: DQO | Padrão: 300 mg/L
+- **Anexo XIV, Tabela 1, linha 43** {#anexo14_tab1_lin43} #galvanoplastia Atividade: 10) TRATAMENTO DE SUPERFÍCIE (GALVANOTÉCNICA) | Parâmetro: Cianeto total | Padrão: 0,2 mg/L CN
+- **Anexo XIV, Tabela 1, linha 44** {#anexo14_tab1_lin44} #galvanoplastia Atividade: 10) TRATAMENTO DE SUPERFÍCIE (GALVANOTÉCNICA) | Parâmetro: Cromo total | Padrão: 0,5 mg/L Cr
+- **Anexo XIV, Tabela 1, linha 45** {#anexo14_tab1_lin45} #galvanoplastia Atividade: 10) TRATAMENTO DE SUPERFÍCIE (GALVANOTÉCNICA) | Parâmetro: Cádmio total | Padrão: 0,2 mg/L Cd
+- **Anexo XIV, Tabela 1, linha 46** {#anexo14_tab1_lin46} #galvanoplastia Atividade: 10) TRATAMENTO DE SUPERFÍCIE (GALVANOTÉCNICA) | Parâmetro: Cianeto total | Padrão: 0,2 mg/L CN
+- **Anexo XIV, Tabela 1, linha 47** {#anexo14_tab1_lin47} #galvanoplastia Atividade: 10) TRATAMENTO DE SUPERFÍCIE (GALVANOTÉCNICA) | Parâmetro: Ferro dissolvido | Padrão: 15,0 mg/L Fe
+- **Anexo XIV, Tabela 1, linha 48** {#anexo14_tab1_lin48} #galvanoplastia Atividade: 10) TRATAMENTO DE SUPERFÍCIE (GALVANOTÉCNICA) | Parâmetro: Níquel total | Padrão: 2,0 mg/L Ni
+- **Anexo XIV, Tabela 1, linha 49** {#anexo14_tab1_lin49} #galvanoplastia Atividade: 10) TRATAMENTO DE SUPERFÍCIE (GALVANOTÉCNICA) | Parâmetro: Cobre dissolvido | Padrão: 1,0 mgL Cu
+- **Anexo XIV, Tabela 1, linha 50** {#anexo14_tab1_lin50} #galvanoplastia Atividade: 10) TRATAMENTO DE SUPERFÍCIE (GALVANOTÉCNICA) | Parâmetro: Zinco total | Padrão: 5,0 mg/L Zn
+- **Anexo XIV, Tabela 1, linha 51** {#anexo14_tab1_lin51} #galvanoplastia Atividade: 10) TRATAMENTO DE SUPERFÍCIE (GALVANOTÉCNICA) | Parâmetro: Óleos e graxas | Padrão: Óleos minerais: até 20 mg/L
+- **Anexo XIV, Tabela 1, linha 52** {#anexo14_tab1_lin52} #industria-quimica Atividade: 11) INDÚSTRIAS QUÍMICAS | Parâmetro: DBO5 | Padrão: 50 mg/L
+- **Anexo XIV, Tabela 1, linha 53** {#anexo14_tab1_lin53} #industria-quimica Atividade: 11) INDÚSTRIAS QUÍMICAS | Parâmetro: DQO | Padrão: 300 mg/L
+- **Anexo XIV, Tabela 1, linha 54** {#anexo14_tab1_lin54} #papel-celulose Atividade: 12) PAPEL E CELULOSE | Parâmetro: DBO5 | Padrão: 50 mg/L
+- **Anexo XIV, Tabela 1, linha 55** {#anexo14_tab1_lin55} #papel-celulose Atividade: 12) PAPEL E CELULOSE | Parâmetro: DQO | Padrão: 300 mg/L
+- **Anexo XIV, Tabela 1, linha 56** {#anexo14_tab1_lin56} #papel-celulose Atividade: 12) PAPEL E CELULOSE | Parâmetro: Sulfetos | Padrão: 1,0 mg/L S
+- **Anexo XIV, Tabela 1, linha 57** {#anexo14_tab1_lin57} Atividade: 13) OUTRAS ATIVIDADES | Parâmetro: DBO5 | Padrão: 50 mg/L
+- **Anexo XIV, Tabela 1, linha 58** {#anexo14_tab1_lin58} Atividade: 13) OUTRAS ATIVIDADES | Parâmetro: DQO | Padrão: 200 mg/L
+- **Anexo XIV, Tabela 1, linha 59** {#anexo14_tab1_lin59} Atividade: 13) OUTRAS ATIVIDADES | Parâmetro: Outros parâmetros | Padrão: Outros parâmetros de acordo com a atividade.
+
+- **Anexo XIV, linha 4** {#anexo14_lin4} OBS.: Os limites estabelecidos para os parâmetros DBO5 e DQO poderão ser alterados a critério do IAP e de acordo com as características da atividade.
+- **Anexo XIV, linha 5** {#anexo14_lin5} #outorga III. A vazão de lançamento de efluente deverá atender a estabelecida na respectiva Portaria de Outorga de Direito e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga;
+- **Anexo XIV, linha 6** {#anexo14_lin6} IV. Além dos parâmetros constantes na [[#anexo14_tab1_lin1|Tabela 1]], para o lançamento de efluente em corpo hídrico deverão ser atendidos os padrões:
+- **Anexo XIV, linha 7** {#anexo14_lin7} IV › - pH entre 5 a 9;
+- **Anexo XIV, linha 8** {#anexo14_lin8} IV › - Temperatura: inferior a 40ºC, sendo que a variação de temperatura do corpo receptor não deverá exceder a 3ºC na zona de mistura;
+- **Anexo XIV, linha 9** {#anexo14_lin9} IV › - Materiais sedimentáveis: até 1 ml/L em teste de 1 hora em cone Imhoff. Para o lançamento em lagos e lagoas, cuja velocidade de circulação seja praticamente nula, os materiais sedimentáveis deverão estar virtualmente ausentes;
+- **Anexo XIV, linha 10** {#anexo14_lin10} IV › - Regime de lançamento com vazão máxima de até 1,5 vezes a vazão média do período de atividade diária do agente poluidor, exceto nos casos permitidos pela autoridade competente;
+- **Anexo XIV, linha 11** {#anexo14_lin11} IV › - Ausência de materiais flutuantes.
+- **Anexo XIV, linha 12** {#anexo14_lin12} IV › - Outros parâmetros passíveis de estarem presentes ou serem formados nos processos produtivos, que não constem na Tabela 1, deverão ser verificados quando do licenciamento ambiental.
+- **Anexo XIV, linha 13** {#anexo14_lin13} #conama V. Deverão também ser atendidas as demais condições de lançamento de efluentes estabelecidas em Resoluçoes do Conselho Nacional de Meio Ambiente – CONAMA.
+- **Anexo XIV, linha 14** {#anexo14_lin14} #vazao-referencia VALORES DE REFERÊNCIA DE VAZÃO DE EFLUENTES DE ATIVIDADES INDUSTRIAIS
+- **Anexo XIV, linha 15** {#anexo14_lin15} #vazao-referencia Para fins de licenciamento ambiental, a estimativa das vazões de eluentes provenientes de atividades industriais deverá observar os valores de referencia expostos em sequência.
+- **Anexo XIV, linha 16** {#anexo14_lin16} #vazao-referencia Para empreendimentos em que as vazões sejam inferiores ao exposto em sequência, deve ser apresentada justificativa técnica considerando atividades similares.
+- **Anexo XIV, linha 17** {#anexo14_lin17} #vazao-referencia #mandioca 1. Fecularia: 5,8 a 6,0 m³/ton;
+- **Anexo XIV, linha 18** {#anexo14_lin18} #vazao-referencia #mandioca 2. Farinheira: 2,0 a 2,5 m³/ton de mandioca processada;
+- **Anexo XIV, linha 19** {#anexo14_lin19} #vazao-referencia #laticinio 3. Laticínio:
+- **Anexo XIV, linha 20** {#anexo14_lin20} #vazao-referencia #laticinio 3. Laticínio › a. Processo completo: 2,0 a 5,0 L/L de leite processado;
+- **Anexo XIV, linha 21** {#anexo14_lin21} #vazao-referencia #laticinio 3. Laticínio › b. Queijo e manteiga: 2,5 a 3,0 L/L de leite processado;
+- **Anexo XIV, linha 22** {#anexo14_lin22} #vazao-referencia #laticinio 3. Laticínio › c. Resfriamento: 2,0 a 2,5 L/L de leite processado.
+- **Anexo XIV, linha 23** {#anexo14_lin23} #vazao-referencia #sucroalcooleira 4. Destilaria de álcool: 9,13 m³/ton de cana;
+- **Anexo XIV, linha 24** {#anexo14_lin24} #vazao-referencia #curtume 5. Curtumes:
+- **Anexo XIV, linha 25** {#anexo14_lin25} #vazao-referencia #curtume 5. Curtumes › a. Processo completo: 245 a 500 L/pele;
+- **Anexo XIV, linha 26** {#anexo14_lin26} #vazao-referencia #curtume 5. Curtumes › b. Wet blue a partir de pele não salmouradas ou salgadas: 120 a 200 L/pele;
+- **Anexo XIV, linha 27** {#anexo14_lin27} #vazao-referencia #curtume 5. Curtumes › c. Semiacabado a partir de wet blue: 125 a 300 L/pele;
+- **Anexo XIV, linha 28** {#anexo14_lin28} #vazao-referencia #frigorifico 6. Frigoríficos:
+- **Anexo XIV, linha 29** {#anexo14_lin29} #vazao-referencia #frigorifico 6. Frigoríficos › a. Abatedouro de bovinos: 1.500 L/cabeça;
+- **Anexo XIV, linha 30** {#anexo14_lin30} #vazao-referencia #frigorifico 6. Frigoríficos › b. Abatedouro de suínos: 1.000 L/cabeça;
+- **Anexo XIV, linha 31** {#anexo14_lin31} #vazao-referencia #frigorifico 6. Frigoríficos › c. Abatedouro de ovinos: 800 L/cabeça;
+- **Anexo XIV, linha 32** {#anexo14_lin32} #vazao-referencia #frigorifico 6. Frigoríficos › d. Abatedouro de aves: 25 L/ave;
+- **Anexo XIV, linha 33** {#anexo14_lin33} #vazao-referencia #frigorifico 6. Frigoríficos › e. Industria de embutidos: 3,0 a 5,0 L/kg de carne.
+- **Anexo XIV, linha 34** {#anexo14_lin34} #vazao-referencia #industria-textil 7. Tinturaria, têxteis e lavanderia industrial: 150 m³/ton de roupas;
+- **Anexo XIV, linha 35** {#anexo14_lin35} #vazao-referencia #oleo-soja 8. Extração e refino de óleo de soja:400 L/ton de soja;
+- **Anexo XIV, linha 36** {#anexo14_lin36} #vazao-referencia #oleo-soja 8. Extração e refino de óleo de soja › a. Óleo bruto: 2.000 L/ton;
+- **Anexo XIV, linha 37** {#anexo14_lin37} #vazao-referencia #oleo-soja 8. Extração e refino de óleo de soja › b. Óleo refinado:3.500 L/ton.
+- **Anexo XIV, linha 38** {#anexo14_lin38} #vazao-referencia #industria-bebidas 9. Bebidas:
+- **Anexo XIV, linha 39** {#anexo14_lin39} #vazao-referencia #industria-bebidas 9. Bebidas › a. Refrigerantes: 3,0 L/L de refrigerante;
+- **Anexo XIV, linha 40** {#anexo14_lin40} #vazao-referencia #industria-bebidas 9. Bebidas › b. Cerveja: 7,5 a 13 L/L de cerveja;
+- **Anexo XIV, linha 41** {#anexo14_lin41} #vazao-referencia #maltearia 10. Maltearia: 9.000 L/ton de malte processado;
+- **Anexo XIV, linha 42** {#anexo14_lin42} #vazao-referencia #galvanoplastia 11. Tratamento de superficie (galvanotécnica): Varia de acordo com o tamanho daspeças a serem revestidas;
+- **Anexo XIV, linha 43** {#anexo14_lin43} #vazao-referencia 12. Outras atividades: Variável de acordo com atividade.
 
 ### ANEXO XV {#anexo15}
 Tags: #anexo #modelo
 
-Modelo de documento equivalente à Anotação de Responsabilidade Técnica (ART), com vínculo de cargo/função. *(Tipo 1. Nome conforme remissão do [[#art21_cpt_inc14|art. 21]]; anexo ausente no PDF de origem.)*
+Modelo de declaração de vínculo empregatício. *(Tipo 1: modelo, conteúdo não transcrito. Exigido no [[#art21_cpt_inc14|art. 21]].)*
 
 ---
 
@@ -1307,6 +1531,25 @@ Pela hierarquia normativa, prevalece o decreto. A IN não foi alterada formalmen
 ## Notas de transcrição {#notas-transcricao}
 
 **Fonte:** PDF assinado digitalmente pelo Diretor-Presidente do IAT em 01/12/2025, com 73 páginas que terminam no art. 87 e na assinatura, e a indicação "Republique-se e registre-se". O PDF **não traz os Anexos I a XV**. Na seção "Anexos", os modelos (tipo 1) foram nomeados pelas remissões do texto; os demais têm só a classificação e ficam pendentes. A data de publicação no DIOE não consta do PDF.
+
+**Anexos:** transcritos do texto completo enviado depois (PDF integral convertido em texto), segundo as três regras de anexo do README.
+- Anexos tipo 2 (IV, VIII, IX, X, XI e XIII): o texto fiel fica em `normas/anexos/`. A síntese de cada arquivo foi feita pelo conversor e não é texto normativo. Os erros do texto desses anexos estão listados na seção "Inconsistências" de cada síntese.
+- Anexo XII: **pendente**. A tabela saiu embaralhada na camada de texto e precisa ser lida das imagens das páginas do PDF.
+- Tabelas dos Anexos I, II e XIV: as células mescladas foram desfeitas, com o valor repetido em cada linha, e os cabeçalhos repetidos por página foram removidos. O Anexo II tem 108 linhas, e duas atividades específicas que começavam com o nome de um grupo foram reunidas à linha correta.
+- Pontos dos anexos mantidos como publicados:
+  - Anexo II, título: "PASSÍVAS".
+  - Anexo II, linha 81: "Área até 80.000 m²", valor muito acima das demais linhas.
+  - Anexo XIV: "SUCROALCOLEIRA" (linhas 10 a 12) e "gosduras" (linha 24).
+  - Anexo XIV, galvanotécnica: "Cianeto total" aparece duas vezes, nas linhas 43 e 46.
+  - Anexos VIII e IX: as Figuras 1 e 2 não vêm no texto de origem.
+  - As observações dos anexos ainda mencionam o "IAP".
+- Remissões a normas dos anexos que mudaram (detalhes no `glossario.md`):
+  - O art. 34 da Res. CONAMA 357/2005 foi revogado pela Res. CONAMA 430/2011; o equivalente é o art. 16.
+  - As NBR 7229 e 13969 foram substituídas pela NBR 17076:2024.
+  - A NBR 10004 foi revisada em 2024.
+  - A Res. SEMA 016/2014 foi substituída pela Res. SEDEST 02/2025.
+  - Os parâmetros de patógenos vêm da Res. CONAMA 375/2006, revogada.
+- O corpo da IN (arts. 22, XII, e 32, X) cita a IN IBAMA 13/2021, sobre o CTF. O "código IBAMA" de resíduos dos anexos vem de outra norma, a IN IBAMA 13/2012 (Lista Brasileira de Resíduos Sólidos). As duas são citadas corretamente.
 
 **Correções de extração** (conferidas nas imagens das páginas, sem mudar o texto):
 - Cinco hífens de fim de linha foram restaurados: "matéria-prima" (art. 3º, XVII), "Licença Prévia - LP" (art. 5º, I), "Compromisso - LAC" (art. 21), "Ampliação - LASA" (art. 42) e "Ampliação - LPA" (art. 51).

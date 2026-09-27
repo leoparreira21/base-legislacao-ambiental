@@ -31,6 +31,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#area-risco` | 2 |
 | `#area-sensivel` | 1 |
 | `#area-umida` | 2 |
+| `#armazenamento-graos` | 1 |
 | `#arquivamento` | 2 |
 | `#arquivo-vetorial` | 1 |
 | `#art-anotacao` | 3 |
@@ -69,7 +70,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#complementacao-taxa` | 1 |
 | `#compostagem` | 1 |
 | `#comunidade-tradicional` | 3 |
-| `#conama` | 1 |
+| `#conama` | 2 |
 | `#concordancia-tacita` | 2 |
 | `#condicao-especial` | 1 |
 | `#condicionante` | 3 |
@@ -87,6 +88,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#cral` | 2 |
 | `#crime-ambiental` | 3 |
 | `#ctf` | 1 |
+| `#curtume` | 1 |
 | `#dado-primario` | 2 |
 | `#dano-ambiental` | 2 |
 | `#dcp` | 1 |
@@ -140,9 +142,11 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#floresta-plantada` | 1 |
 | `#fonte-poluicao` | 1 |
 | `#fonte-potencial-contaminacao` | 1 |
+| `#frigorifico` | 1 |
 | `#funai` | 2 |
 | `#fundamentacao` | 2 |
 | `#galeria-pluvial` | 1 |
+| `#galvanoplastia` | 1 |
 | `#geli` | 1 |
 | `#geologia` | 1 |
 | `#georreferenciamento` | 1 |
@@ -157,6 +161,17 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#incra` | 2 |
 | `#indeferimento` | 2 |
 | `#industria` | 1 |
+| `#industria-alimenticia` | 1 |
+| `#industria-bebidas` | 1 |
+| `#industria-eletrica` | 1 |
+| `#industria-farmaceutica` | 1 |
+| `#industria-fumo` | 1 |
+| `#industria-madeira` | 1 |
+| `#industria-mecanica` | 1 |
+| `#industria-metalurgica` | 1 |
+| `#industria-quimica` | 1 |
+| `#industria-textil` | 1 |
+| `#industrias-diversas` | 1 |
 | `#inexigibilidade` | 2 |
 | `#informacao-classificada` | 1 |
 | `#informacao-falsa` | 3 |
@@ -173,6 +188,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#las` | 3 |
 | `#lasa` | 3 |
 | `#lasr` | 3 |
+| `#laticinio` | 1 |
 | `#laudo-tecnico` | 1 |
 | `#legitimidade` | 1 |
 | `#li` | 3 |
@@ -195,7 +211,9 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#lp` | 3 |
 | `#lpa` | 3 |
 | `#malha-viaria` | 2 |
+| `#maltearia` | 1 |
 | `#manancial` | 1 |
+| `#mandioca` | 1 |
 | `#manifestacao-juridica` | 3 |
 | `#mapa-situacao` | 1 |
 | `#matriz-enquadramento` | 2 |
@@ -204,6 +222,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#medida-mitigadora` | 2 |
 | `#meio-ambiente` | 2 |
 | `#memorial-caracterizacao` | 2 |
+| `#minerais-nao-metalicos` | 1 |
 | `#ministerio-publico` | 2 |
 | `#modalidade` | 3 |
 | `#modelagem` | 1 |
@@ -217,6 +236,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#nulidade` | 1 |
 | `#objetivo` | 1 |
 | `#obra-emergencial` | 2 |
+| `#oleo-soja` | 1 |
 | `#orgao-interveniente` | 3 |
 | `#outorga` | 3 |
 | `#outorga-direito` | 2 |
@@ -224,6 +244,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#padrao-ambiental` | 1 |
 | `#padrao-emissao` | 1 |
 | `#padrao-lancamento` | 1 |
+| `#papel-celulose` | 1 |
 | `#parecer-tecnico` | 3 |
 | `#participacao-publica` | 1 |
 | `#passivo-ambiental` | 1 |
@@ -312,6 +333,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#sisnama` | 1 |
 | `#sistema-informatizado` | 3 |
 | `#situacao-emergencia` | 1 |
+| `#sucroalcooleira` | 1 |
 | `#supressao-vegetacao` | 3 |
 | `#suspensao-atividade` | 1 |
 | `#suspensao-licenca` | 1 |
@@ -340,6 +362,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#uso-solo` | 1 |
 | `#utilidade-publica` | 3 |
 | `#validade` | 3 |
+| `#vazao-referencia` | 1 |
 | `#vegetacao-nativa` | 1 |
 | `#viabilidade-ambiental` | 2 |
 | `#viabilidade-locacional` | 3 |
