@@ -16,10 +16,14 @@ Formato: uma lição por item, com data, contexto e o que fazer.
 - 2026-09-27, texto atualizado da Câmara dos Deputados (Lei 12.305/2010): mostra só a redação em vigor, sem a original. Fazer: buscar a redação original (DOU/Planalto), registrar nas Notas de transcrição que ela não vem do PDF e pedir conferência ao usuário.
 - 2026-09-27, PDFs do CONAMA: o "o" sobrescrito dos ordinais ("Art. 2o") sai numa linha separada no `pdftotext`, e letras gregas em fonte Symbol viram caracteres de uso privado (U+F061 = α, U+F062 = β, U+F067 = γ), que o PDF mostra como quadrados. Fazer: juntar o sobrescrito à linha pelo bbox (PyMuPDF) e decodificar os caracteres de uso privado, registrando nas notas.
 - 2026-09-27, normas longas: gerar tudo por script (texto extraído → parágrafos → dispositivos com ID), deixando tags, links e tabelas num arquivo de configuração por norma, e conferir por `difflib` contra o PDF. Para textos compilados, em que a ordem das versões muda, conferir pela contagem de palavras (`collections.Counter`) em vez da sequência.
+- 2026-09-27, IN IAT 11/2026 ("Microsoft Print to PDF"): cada linha vem gravada em pedaços sobrepostos e recortados; o `pdftotext` repete trechos e corta palavras ("Lei ederal", "Negócioss"). Fazer: reconstruir o texto caractere a caractere com PyMuPDF (`rawdict`), deduplicando por posição (x, linha de base) e descartando o caractere igual a menos de ~2,5 pt do anterior; conferir por `difflib` e nas imagens.
+- 2026-09-27, obter o PDF oficial: o site do IAT (www.iat.pr.gov.br) responde pelo shell da nuvem. A página "Instruções Normativas / Orientações Técnicas" traz os links `.../arquivos_restritos/files/documento/AAAA-MM/<nome>.pdf`. Fazer: quando o usuário mandar só a extração de texto, baixar o PDF oficial dali para ler tabelas e conferir imagens.
 
 ## Anexos
 
 - 2026-09-27, CONAMA 357/2005 e 430/2011: as tabelas de padrões ficam no corpo dos artigos, não em anexos, e o README só previa IDs `anexoN_tabT_linM`. Fazer: usar `artN_tabT_linM` (T = número da tabela no original), com as mesmas regras do tipo 3. Proposta incluída no README.
+- 2026-09-27, IN IAT 11/2026, tabela de 118 páginas: `find_tables()` fragmentou as células (grade irregular). Fazer: usar como faixas de linha os segmentos verticais da borda esquerda da tabela (`get_drawings()`), atribuir os caracteres às colunas pelo x das linhas verticais, unir as faixas sem código na 1ª coluna à linha anterior (continuação entre páginas) e conferir a contagem de linhas contra os códigos distintos do `pdftotext`.
+- 2026-09-27, "ANEXO ÚNICO": o README só prevê `anexoN`. Usado `anexo1` e `anexo1_tab1_linM` (tabela sem título tratada como Tabela 1). Inciso sem número no original (IN IAT 11/2026, art. 3º, "forma de atuação" entre VIII e IX): usado `art3_cpt_inc8-a`, registrado nas Notas. Proposta: incluir as duas convenções no README.
 
 ## Alterações e revogações
 
