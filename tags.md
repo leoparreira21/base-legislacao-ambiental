@@ -15,6 +15,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#ampliacao` | 3 |
 | `#analise-tecnica` | 2 |
 | `#anexo` | 1 |
+| `#anexo-normativo` | 1 |
 | `#anexo-pendente` | 1 |
 | `#anuencia` | 3 |
 | `#aplicacao-subsidiaria` | 1 |
@@ -108,6 +109,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#direito-transicao` | 3 |
 | `#diretor-presidente` | 1 |
 | `#diretoria-patrimonio-natural` | 1 |
+| `#diretriz-estudo` | 1 |
 | `#dispensa` | 3 |
 | `#dlae` | 1 |
 | `#dlam` | 4 |
@@ -205,6 +207,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#ministerio-publico` | 2 |
 | `#modalidade` | 3 |
 | `#modelagem` | 1 |
+| `#modelo` | 1 |
 | `#monitoramento` | 2 |
 | `#movimentacao-solo` | 2 |
 | `#mtr` | 1 |

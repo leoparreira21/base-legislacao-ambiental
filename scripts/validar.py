@@ -9,7 +9,7 @@ Uso:
         # revogados ou alterados da NORMA (ex.: decreto-estadual-9541-2025)
 
 Verificações (erro = código de saída 1):
-  - frontmatter com os campos obrigatórios e 'situacao' válida
+  - frontmatter com os campos obrigatórios e 'situacao' válida (normas/ e normas/anexos/)
   - nome do arquivo igual ao campo 'arquivo'
   - IDs {#...} únicos no arquivo
   - rótulo "**Art. N..." coerente com o ID "artN..."
@@ -24,12 +24,13 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PASTA = os.path.join(RAIZ, "normas")
 OBRIGATORIOS = ["norma", "arquivo", "tipo", "esfera", "numero", "ano", "ementa", "situacao",
                 "regulamenta", "altera", "alterado_por", "revoga", "revogado_por", "cita", "tags", "fonte"]
+OBRIGATORIOS_ANEXO = ["anexo", "norma_mae", "arquivo", "tipo_anexo", "estudo", "atividades", "modalidades", "tags"]
 SITUACOES = {"vigente", "revogada"}
 
 
 def carregar():
     normas = {}
-    for f in sorted(glob.glob(os.path.join(PASTA, "*.md"))):
+    for f in sorted(glob.glob(os.path.join(PASTA, "*.md")) + glob.glob(os.path.join(PASTA, "anexos", "*.md"))):
         t = open(f, encoding="utf-8").read()
         if not t.startswith("---\n"):
             normas[os.path.basename(f)[:-3]] = {"fm": {}, "corpo": t, "erro_fm": True}
@@ -59,9 +60,16 @@ def validar(normas):
         fm, corpo = d["fm"], d["corpo"]
         if d["erro_fm"]:
             erros.append(f"{n}: sem frontmatter"); continue
-        for c in OBRIGATORIOS:
+        e_anexo = "norma_mae" in fm
+        for c in (OBRIGATORIOS_ANEXO if e_anexo else OBRIGATORIOS):
             if c not in fm:
                 erros.append(f"{n}: campo '{c}' ausente no frontmatter")
+        if e_anexo:
+            mae = lista(fm.get("norma_mae"))
+            if not mae or mae[0] not in normas:
+                erros.append(f"{n}: norma_mae {mae} não está na base")
+            if "Síntese do conversor (não é texto normativo)" not in corpo:
+                erros.append(f"{n}: falta a seção '## Síntese do conversor (não é texto normativo)'")
         if fm.get("arquivo") and fm["arquivo"] != n:
             erros.append(f"{n}: campo 'arquivo' ({fm['arquivo']}) difere do nome do arquivo")
         if fm.get("situacao") and fm["situacao"] not in SITUACOES:

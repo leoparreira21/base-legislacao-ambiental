@@ -16,8 +16,8 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-iat-45-2025]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-9415-2025]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-11977-2022]]", "[[lei-federal-6938-1981]]", "[[resolucao-conama-237-1997]]", "[[lei-estadual-22252-2024]]", "[[decreto-estadual-9541-2025]]", "[[lei-estadual-10233-1992]]", "[[resolucao-cema-129-2023]]", "[[lei-federal-12651-2012]]", "[[lei-federal-10257-2001]]", "[[decreto-estadual-8680-2013]]", "[[decreto-estadual-1940-1996]]", "[[resolucao-conama-6-1986]]", "[[instrucao-normativa-ibama-13-2021]]", "[[resolucao-sedest-2-2025]]", "[[lei-estadual-12493-1999]]", "[[decreto-estadual-6674-2002]]", "[[portaria-iap-256-2013]]", "[[resolucao-conama-307-2002]]", "[[portaria-iap-212-2019]]", "[[portaria-mma-280-2020]]", "[[resolucao-cema-76-2009]]", "[[portaria-iap-159-2015]]", "[[lei-federal-9605-1998]]", "[[decreto-federal-6514-2008]]", "[[decreto-estadual-12799-2026]]"]
-tags: [alteracao, ampliacao, anexo, anexo-pendente, anuencia, app, area-construida, area-contaminada, area-fragil, area-risco, area-umida, arquivo-vetorial, art-anotacao, artesanal, arvore-isolada, ato-administrativo, automonitoramento, autorizacao-ambiental, autorizacao-florestal, bem-cultural, cadastro, car, casos-omissos, cavidade-natural, cema, certidao-municipal, cnpj, comissionamento, compostagem, comunidade-tradicional, condicionante, cpf, crime-ambiental, ctf, dcp, declaracao-adesao-compromisso, definicao, destinacao-final, diagnostico-ambiental, direito-transicao, diretoria-patrimonio-natural, dispensa, dlae, dlam, documentacao, dominialidade, efluente, eia-rima, embargo, emissao-atmosferica, emissao-fugitiva, encerramento, enquadramento, esgotamento-sanitario, especie-exotica, estudo-ambiental, fauna, fonte-poluicao, fonte-potencial-contaminacao, funai, galeria-pluvial, geli, geologia, impermeabilizacao, incra, industria, informacao-falsa, infracao-ambiental, interesse-social, inventario-residuos, iphan, lac, lagoa-tratamento, las, lasa, lasr, li, lia, licenca-ambiental, licenca-vencida, licenciamento-ambiental, licenciamento-bifasico, licenciamento-monofasico, licenciamento-municipal, licenciamento-trifasico, lir, lo, loa, localizacao, logistica-reversa, lor, lp, lpa, manifestacao-juridica, mapa-situacao, meio-ambiente, memorial-caracterizacao, modalidade, modelagem, movimentacao-solo, mtr, municipio-certificado, orgao-interveniente, outorga, outorga-direito, outorga-previa, padrao-emissao, padrao-lancamento, parecer-tecnico, pbca, pcpa, pendencia-judicial, pgr, pgrcc, pgrs, poluicao, poluicao-sonora, poluidor, porte, porte-excepcional, potencial-poluidor, prazo, prazo-diferenciado, procuracao, prorrogacao, publicacao-dioe, quilombola, rap, rastreabilidade, reciclagem, recurso-ambiental, recurso-hidrico, registro-fotografico, regularizacao, relatorio-atendimento-condicionante, relatorio-caracterizacao-flora, renovacao, reparacao-dano, requerimento, reserva-legal, residuo-perigoso, residuo-solido, residuo-terceiro, reuso-efluente, revogacao, risco-ambiental, sancao, serflor, sinaflor, sistema-informatizado, supressao-vegetacao, tac, taxa-ambiental, termo-compromisso, termo-referencia, terra-indigena, terraplanagem, unidade-conservacao, uso-insignificante, utilidade-publica, validade, viabilidade-locacional, vigencia, zona-amortecimento]
-anexos: "I a XV citados no texto, ausentes no PDF de origem"
+tags: [alteracao, ampliacao, anexo, anexo-normativo, anexo-pendente, anuencia, app, area-construida, area-contaminada, area-fragil, area-risco, area-umida, arquivo-vetorial, art-anotacao, artesanal, arvore-isolada, ato-administrativo, automonitoramento, autorizacao-ambiental, autorizacao-florestal, bem-cultural, cadastro, car, casos-omissos, cavidade-natural, cema, certidao-municipal, cnpj, comissionamento, compostagem, comunidade-tradicional, condicionante, cpf, crime-ambiental, ctf, dcp, declaracao-adesao-compromisso, definicao, destinacao-final, diagnostico-ambiental, direito-transicao, diretoria-patrimonio-natural, diretriz-estudo, dispensa, dlae, dlam, documentacao, dominialidade, efluente, eia-rima, embargo, emissao-atmosferica, emissao-fugitiva, encerramento, enquadramento, esgotamento-sanitario, especie-exotica, estudo-ambiental, fauna, fonte-poluicao, fonte-potencial-contaminacao, funai, galeria-pluvial, geli, geologia, impermeabilizacao, incra, industria, informacao-falsa, infracao-ambiental, interesse-social, inventario-residuos, iphan, lac, lagoa-tratamento, las, lasa, lasr, li, lia, licenca-ambiental, licenca-vencida, licenciamento-ambiental, licenciamento-bifasico, licenciamento-monofasico, licenciamento-municipal, licenciamento-trifasico, lir, lo, loa, localizacao, logistica-reversa, lor, lp, lpa, manifestacao-juridica, mapa-situacao, meio-ambiente, memorial-caracterizacao, modalidade, modelagem, modelo, movimentacao-solo, mtr, municipio-certificado, orgao-interveniente, outorga, outorga-direito, outorga-previa, padrao-emissao, padrao-lancamento, parecer-tecnico, pbca, pcpa, pendencia-judicial, pgr, pgrcc, pgrs, poluicao, poluicao-sonora, poluidor, porte, porte-excepcional, potencial-poluidor, prazo, prazo-diferenciado, procuracao, prorrogacao, publicacao-dioe, quilombola, rap, rastreabilidade, reciclagem, recurso-ambiental, recurso-hidrico, registro-fotografico, regularizacao, relatorio-atendimento-condicionante, relatorio-caracterizacao-flora, renovacao, reparacao-dano, requerimento, reserva-legal, residuo-perigoso, residuo-solido, residuo-terceiro, reuso-efluente, revogacao, risco-ambiental, sancao, serflor, sinaflor, sistema-informatizado, supressao-vegetacao, tac, taxa-ambiental, termo-compromisso, termo-referencia, terra-indigena, terraplanagem, unidade-conservacao, uso-insignificante, utilidade-publica, validade, viabilidade-locacional, vigencia, zona-amortecimento]
+anexos: "I a XV citados no texto, ausentes no PDF de origem; tipo 1 (modelos): III, V, VI, VII, XV; tipo 2 (diretrizes de estudo): IV, VIII, IX, X, XI, XIII; tipo 3 (normativos): I, II, XII, XIV"
 fonte: PDF assinado digitalmente (73 páginas, sem os anexos; "Republique-se e registre-se"); data de publicação no DIOE não consta do PDF
 ---
 
@@ -139,7 +139,7 @@ Tags: #enquadramento #porte #estudo-ambiental
 ###### Art. 7º {#art7}
 Tags: #porte #area-construida #enquadramento
 
-**Art. 7º, caput** {#art7_cpt} Para os efeitos desta Instrução Normativa, o porte de empreendimentos industriais é definido considerando área construída, investimento total e número de empregados, conforme o estabelecido na [[lei-estadual-10233-1992|Lei Estadual n.º 10.233, de 28 de dezembro de 1992]], ou outra que venha a substituí-la, de acordo com a tabela constante no [[#anx1|ANEXO I]].
+**Art. 7º, caput** {#art7_cpt} Para os efeitos desta Instrução Normativa, o porte de empreendimentos industriais é definido considerando área construída, investimento total e número de empregados, conforme o estabelecido na [[lei-estadual-10233-1992|Lei Estadual n.º 10.233, de 28 de dezembro de 1992]], ou outra que venha a substituí-la, de acordo com a tabela constante no [[#anexo1|ANEXO I]].
 
 ###### Art. 8º {#art8}
 Tags: #porte #modalidade #alteracao
@@ -257,7 +257,7 @@ Tags: #lac #industria #area-fragil #app #reserva-legal #area-umida #unidade-cons
 ###### Art. 15 {#art15}
 Tags: #las #industria #enquadramento
 
-**Art. 15, caput** {#art15_cpt} Ficam passíveis de licenciamento ambiental simplificado os empreendimentos industriais para as atividades descritas no [[#anx2|ANEXO II]].
+**Art. 15, caput** {#art15_cpt} Ficam passíveis de licenciamento ambiental simplificado os empreendimentos industriais para as atividades descritas no [[#anexo2|ANEXO II]].
 
 #### Subseção IV – Do Licenciamento Trifásico
 
@@ -328,10 +328,10 @@ Tags: #dlam #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procu
   - **Art. 19, caput, inciso III, alínea "d"** {#art19_cpt_inc3_alid} Áreas de preservação permanente;
   - **Art. 19, caput, inciso III, alínea "e"** {#art19_cpt_inc3_alie} Áreas de Reserva Legal e maciços florestais remanescentes;
 - **Art. 19, caput, inciso IV** {#art19_cpt_inc4} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Sendo o imóvel locado ou arrendado, apresentar contrato de locação ou arrendamento;
-- **Art. 19, caput, inciso V** {#art19_cpt_inc5} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anx3|ANEXO III]];
+- **Art. 19, caput, inciso V** {#art19_cpt_inc5} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo3|ANEXO III]];
 - **Art. 19, caput, inciso VI** {#art19_cpt_inc6} cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8680/2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12651/2012]], para imóveis em área rural;
 - **Art. 19, caput, inciso VII** {#art19_cpt_inc7} declaração do requerente informando que área a ser licenciada não possui embargos;
-- **Art. 19, caput, inciso VIII** {#art19_cpt_inc8} Declaração da veracidade das informações prestadas, conforme modelo do [[#anx5|ANEXO V]]
+- **Art. 19, caput, inciso VIII** {#art19_cpt_inc8} Declaração da veracidade das informações prestadas, conforme modelo do [[#anexo5|ANEXO V]]
 
 **Art. 19, parágrafo único** {#art19_par1u} Somente será autorizada a efetiva operação do empreendimento, após a emissão da Portaria de Outorga de Direito e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga, em se tratando de empreendimento que necessite de uso de recursos hídricos, superficiais ou subterrâneos.
 
@@ -365,18 +365,18 @@ Tags: #lac #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procur
   - **Art. 21, caput, inciso II, alínea "e"** {#art21_cpt_inc2_alie} Áreas de Reserva Legal e maciços florestais remanescentes;
   - **Art. 21, caput, inciso II, alínea "f"** {#art21_cpt_inc2_alif} Vias de acesso principais;
   - **Art. 21, caput, inciso II, alínea "g"** {#art21_cpt_inc2_alig} Pontos de referência.
-- **Art. 21, caput, inciso III** {#art21_cpt_inc3} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística e ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anx3|ANEXO III]];
+- **Art. 21, caput, inciso III** {#art21_cpt_inc3} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística e ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo3|ANEXO III]];
 - **Art. 21, caput, inciso IV** {#art21_cpt_inc4} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Sendo o imóvel locado ou arrendado, apresentar contrato de locação ou arrendamento;
 - **Art. 21, caput, inciso V** {#art21_cpt_inc5} cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8.680, de 06 de agosto de 2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12.651, de 25 de maio de 2012]], para imóveis em área rural;
-- **Art. 21, caput, inciso VI** {#art21_cpt_inc6} Memorial de Caracterização do Empreendimento (MCE) apresentado conforme as diretrizes do [[#anx4|ANEXO IV]], elaborado por profissional habilitado e acompanhado de Anotação de Responsabilidade Técnica (ART) emitida pelo Conselho de Classe;
+- **Art. 21, caput, inciso VI** {#art21_cpt_inc6} Memorial de Caracterização do Empreendimento (MCE) apresentado conforme as diretrizes do [[#anexo4|ANEXO IV]], elaborado por profissional habilitado e acompanhado de Anotação de Responsabilidade Técnica (ART) emitida pelo Conselho de Classe;
 - **Art. 21, caput, inciso VII** {#art21_cpt_inc7} Declaração do requerente informando que a área a ser licenciada não possui embargos;
-- **Art. 21, caput, inciso VIII** {#art21_cpt_inc8} Declaração da veracidade das informações prestadas, conforme modelo do [[#anx5|ANEXO V]];
-- **Art. 21, caput, inciso IX** {#art21_cpt_inc9} Declaração do empreendedor pelo Licenciamento por Adesão e Compromisso conforme modelo do [[#anx6|ANEXO VI]];
-- **Art. 21, caput, inciso X** {#art21_cpt_inc10} Declaração do responsável técnico pelo Licenciamento por Adesão e Compromisso conforme modelo do [[#anx7|ANEXO VII]];
+- **Art. 21, caput, inciso VIII** {#art21_cpt_inc8} Declaração da veracidade das informações prestadas, conforme modelo do [[#anexo5|ANEXO V]];
+- **Art. 21, caput, inciso IX** {#art21_cpt_inc9} Declaração do empreendedor pelo Licenciamento por Adesão e Compromisso conforme modelo do [[#anexo6|ANEXO VI]];
+- **Art. 21, caput, inciso X** {#art21_cpt_inc10} Declaração do responsável técnico pelo Licenciamento por Adesão e Compromisso conforme modelo do [[#anexo7|ANEXO VII]];
 - **Art. 21, caput, inciso XI** {#art21_cpt_inc11} Certificado de Registro no SERFLOR, conforme [[decreto-estadual-1940-1996|Decreto Estadual nº 1.940, de 03 de junho de 1996]], se aplicável;
 - **Art. 21, caput, inciso XII** {#art21_cpt_inc12} registro fotográfico da área do empreendimento e/ou atividade;
 - **Art. 21, caput, inciso XIII** {#art21_cpt_inc13} manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
-- **Art. 21, caput, inciso XIV** {#art21_cpt_inc14} Anotação de responsabilidade técnica (ART), ou documento equivalente, com vínculo de cargo/função, expedida pelo conselho de classe do profissional legalmente habilitado ou conforme modelo do [[#anx15|ANEXO XV]];
+- **Art. 21, caput, inciso XIV** {#art21_cpt_inc14} Anotação de responsabilidade técnica (ART), ou documento equivalente, com vínculo de cargo/função, expedida pelo conselho de classe do profissional legalmente habilitado ou conforme modelo do [[#anexo15|ANEXO XV]];
 - **Art. 21, caput, inciso XV** {#art21_cpt_inc15} Portaria(s) de Outorga Prévia e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga, em se tratando de empreendimento que necessite de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação e/ou intervenções de obras);
 - **Art. 21, caput, inciso XVI** {#art21_cpt_inc16} extrato de publicação de requerimento de Licença por Adesão e Compromisso - LAC no Diário Oficial do Estado, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006, de 24 de janeiro de 1986]];
 - **Art. 21, caput, inciso XVII** {#art21_cpt_inc17} recolhimento da taxa ambiental, bem como dos demais valores cabíveis referentes à publicação da súmula da concessão da Licença requerida, no Diário Oficial do Estado, a ser efetivada pelo IAT.
@@ -408,9 +408,9 @@ Tags: #las #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procur
   - **Art. 22, caput, inciso II, alínea "e"** {#art22_cpt_inc2_alie} Áreas de Reserva Legal e maciços florestais remanescentes;
   - **Art. 22, caput, inciso II, alínea "f"** {#art22_cpt_inc2_alif} Vias de acesso principais;
   - **Art. 22, caput, inciso II, alínea "g"** {#art22_cpt_inc2_alig} Pontos de referência.
-- **Art. 22, caput, inciso III** {#art22_cpt_inc3} Plano Básico de Controle de Poluição Ambiental (PBCA), apresentado de acordo com o Termo de Referência do [[#anx8|ANEXO VIII]], elaborado por profissional(is) habilitado(s) e acompanhado da(s) respectivas ART(s) – Anotação(s) de Responsabilidade Técnica.
+- **Art. 22, caput, inciso III** {#art22_cpt_inc3} Plano Básico de Controle de Poluição Ambiental (PBCA), apresentado de acordo com o Termo de Referência do [[#anexo8|ANEXO VIII]], elaborado por profissional(is) habilitado(s) e acompanhado da(s) respectivas ART(s) – Anotação(s) de Responsabilidade Técnica.
 - **Art. 22, caput, inciso IV** {#art22_cpt_inc4} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Sendo o imóvel locado ou arrendado, apresentar contrato de locação ou arrendamento;
-- **Art. 22, caput, inciso V** {#art22_cpt_inc5} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anx3|ANEXO III]];
+- **Art. 22, caput, inciso V** {#art22_cpt_inc5} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo3|ANEXO III]];
 - **Art. 22, caput, inciso VI** {#art22_cpt_inc6} declaração do requerente informando que área a ser licenciada não possui embargos;
 - **Art. 22, caput, inciso VII** {#art22_cpt_inc7} cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8.680/2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12.651/2012]], para imóveis em área rural;
 - **Art. 22, caput, inciso VIII** {#art22_cpt_inc8} Portaria(s) de Outorga Prévia e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga, em se tratando de empreendimento que necessite de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação e/ou intervenções de obras);
@@ -418,7 +418,7 @@ Tags: #las #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procur
 - **Art. 22, caput, inciso X** {#art22_cpt_inc10} Certificado de Registro no SERFLOR, conforme [[decreto-estadual-1940-1996|Decreto Estadual nº 1.940, de 03 de junho de 1996]], se aplicável;
 - **Art. 22, caput, inciso XI** {#art22_cpt_inc11} número do registro do cadastro do projeto junto ao SINAFLOR, no caso de necessidade de corte ou supressão de vegetação nativa;
 - **Art. 22, caput, inciso XII** {#art22_cpt_inc12} Cadastro Técnico Federal (CTF) de acordo com o estabelecido na [[instrucao-normativa-ibama-13-2021|Instrução Normativa IBAMA nº 13, de 23 de agosto de 2021]];
-- **Art. 22, caput, inciso XIII** {#art22_cpt_inc13} Anotação de responsabilidade técnica (ART), ou documento equivalente, com vínculo de cargo/função, expedida pelo conselho de classe do profissional legalmente habilitado ou conforme modelo do [[#anx15|ANEXO XV]];
+- **Art. 22, caput, inciso XIII** {#art22_cpt_inc13} Anotação de responsabilidade técnica (ART), ou documento equivalente, com vínculo de cargo/função, expedida pelo conselho de classe do profissional legalmente habilitado ou conforme modelo do [[#anexo15|ANEXO XV]];
 - **Art. 22, caput, inciso XIV** {#art22_cpt_inc14} Programa de Automonitoramento de Emissões Atmosféricas apresentado conforme as diretrizes da [[resolucao-sedest-2-2025|Resolução SEDEST nº 02, de 16 de janeiro de 2025]], ou outras que venham a substitui-la, elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ões) de Responsabilidade Técnica emitida pelo Conselho de Classe, se aplicável;
 - **Art. 22, caput, inciso XV** {#art22_cpt_inc15} extrato de publicação de requerimento de Licença Ambiental Simplificada – LAS no Diário Oficial do Estado, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006, de 24 de janeiro de 1986]];
 - **Art. 22, caput, inciso XVI** {#art22_cpt_inc16} recolhimento da taxa ambiental, bem como dos demais valores cabíveis referentes à publicação da súmula da concessão da Licença requerida, no Diário Oficial do Estado, a ser efetivada pelo IAT;
@@ -465,9 +465,9 @@ Tags: #lp #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procura
   - **Art. 25, caput, inciso II, alínea "f"** {#art25_cpt_inc2_alif} Vias de acesso principais;
   - **Art. 25, caput, inciso II, alínea "g"** {#art25_cpt_inc2_alig} Pontos de referência;
   - **Art. 25, caput, inciso II, alínea "h"** {#art25_cpt_inc2_alih} Arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
-- **Art. 25, caput, inciso III** {#art25_cpt_inc3} Memorial de Caracterização do Empreendimento (MCE) apresentado conforme as diretrizes do [[#anx4|ANEXO IV]], elaborado por profissional habilitado e acompanhado de Anotação de Responsabilidade Técnica (ART) emitida pelo Conselho de Classe.
+- **Art. 25, caput, inciso III** {#art25_cpt_inc3} Memorial de Caracterização do Empreendimento (MCE) apresentado conforme as diretrizes do [[#anexo4|ANEXO IV]], elaborado por profissional habilitado e acompanhado de Anotação de Responsabilidade Técnica (ART) emitida pelo Conselho de Classe.
 - **Art. 25, caput, inciso IV** {#art25_cpt_inc4} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Sendo o imóvel locado ou arrendado, apresentar contrato de locação ou arrendamento;
-- **Art. 25, caput, inciso V** {#art25_cpt_inc5} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anx3|ANEXO III]];
+- **Art. 25, caput, inciso V** {#art25_cpt_inc5} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo3|ANEXO III]];
 - **Art. 25, caput, inciso VI** {#art25_cpt_inc6} declaração do requerente informando que área a ser licenciada não possui embargos;
 - **Art. 25, caput, inciso VII** {#art25_cpt_inc7} cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8680/2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12.651/2012]], para imóveis em área rural;
 - **Art. 25, caput, inciso VIII** {#art25_cpt_inc8} Portaria(s) de Outorga Prévia e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga, em se tratando de empreendimento que necessite de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação e/ou intervenções de obras);
@@ -501,9 +501,9 @@ Tags: #li #documentacao #requerimento #sistema-informatizado #relatorio-atendime
 **Art. 29, caput** {#art29_cpt} Os requerimentos para Licença de Instalação – LI, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 29, caput, inciso I** {#art29_cpt_inc1} cópia da Licença anterior;
 - **Art. 29, caput, inciso II** {#art29_cpt_inc2} relatório de atendimento das condicionantes da licença anterior;
-- **Art. 29, caput, inciso III** {#art29_cpt_inc3} Projeto de Controle de Poluição Ambiental e Projeto de Terraplanagem (PCPA) apresentado conforme as diretrizes do [[#anx9|ANEXO IX]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
+- **Art. 29, caput, inciso III** {#art29_cpt_inc3} Projeto de Controle de Poluição Ambiental e Projeto de Terraplanagem (PCPA) apresentado conforme as diretrizes do [[#anexo9|ANEXO IX]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
 - **Art. 29, caput, inciso IV** {#art29_cpt_inc4} Relatório dos impactos ambientais decorrentes da implantação do empreendimento, como por exemplo: obras de terraplanagem, corte de vegetação, canalização de nascentes, entre outros, elaborado por técnico habilitado, com as medidas mitigadoras desses impactos.
-- **Art. 29, caput, inciso V** {#art29_cpt_inc5} Projeto de Controle de Poluição Sonora, no caso de poluição sonora, apresentado conforme as diretrizes do [[#anx10|ANEXO X]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
+- **Art. 29, caput, inciso V** {#art29_cpt_inc5} Projeto de Controle de Poluição Sonora, no caso de poluição sonora, apresentado conforme as diretrizes do [[#anexo10|ANEXO X]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
 - **Art. 29, caput, inciso VI** {#art29_cpt_inc6} declaração do requerente informando que a área a ser licenciada não possui embargos;
 - **Art. 29, caput, inciso VII** {#art29_cpt_inc7} Número do registro do cadastro do projeto junto ao SINAFLOR, no caso de necessidade de supressão de vegetação nativa, ou Autorização Florestal.
 - **Art. 29, caput, inciso VIII** {#art29_cpt_inc8} extrato de publicação de concessão de Licença anterior no Diário Oficial do Estado, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006, de 24 de janeiro de 1986]];
@@ -534,7 +534,7 @@ Tags: #lo #documentacao #requerimento #sistema-informatizado #relatorio-atendime
 - **Art. 32, caput, inciso IV** {#art32_cpt_inc4} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Sendo o imóvel locado ou arrendado, apresentar contrato de locação ou arrendamento;
 - **Art. 32, caput, inciso V** {#art32_cpt_inc5} declaração do requerente informando que a área a ser licenciada não possui embargos;
 - **Art. 32, caput, inciso VI** {#art32_cpt_inc6} Relatório de comprovação da implementação e instalação das medidas de controle propostas no Projeto de Controle de Poluição Ambiental (PCPA);
-- **Art. 32, caput, inciso VII** {#art32_cpt_inc7} Plano de Gerenciamento de Resíduos Sólidos (PGRS), de acordo com o estabelecido na [[lei-estadual-12493-1999|Lei Estadual nº 12.493/1999]] e no [[decreto-estadual-6674-2002|Decreto Estadual nº 6674/2002]], apresentado conforme as diretrizes do [[#anx11|ANEXO XI]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
+- **Art. 32, caput, inciso VII** {#art32_cpt_inc7} Plano de Gerenciamento de Resíduos Sólidos (PGRS), de acordo com o estabelecido na [[lei-estadual-12493-1999|Lei Estadual nº 12.493/1999]] e no [[decreto-estadual-6674-2002|Decreto Estadual nº 6674/2002]], apresentado conforme as diretrizes do [[#anexo11|ANEXO XI]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
 - **Art. 32, caput, inciso VIII** {#art32_cpt_inc8} Programa de Automonitoramento de Emissões Atmosféricas apresentado conforme as diretrizes da [[resolucao-sedest-2-2025|Resolução SEDEST 02, de 16 de janeiro de 2025]], ou outras que venham a substituí-la, elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe, se aplicável;
 - **Art. 32, caput, inciso IX** {#art32_cpt_inc9} Portaria(s) de Outorga de Direito e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga, em se tratando de empreendimento que necessite de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação e/ou intervenções de obras);
 - **Art. 32, caput, inciso X** {#art32_cpt_inc10} Cadastro Técnico Federal (CTF) de acordo com o estabelecido na [[instrucao-normativa-ibama-13-2021|Instrução Normativa IBAMA nº 13, de 23 de agosto de 2021]];
@@ -559,7 +559,7 @@ Tags: #validade #autorizacao-ambiental #dlam #lac #las #lasr #lp #li #lir #lo #l
 - **Art. 33, caput, inciso VI** {#art33_cpt_inc6} o prazo de validade da Licença Prévia – LP será de até 05 (cinco) anos, não prorrogável se concedido o prazo máximo;
 - **Art. 33, caput, inciso VII** {#art33_cpt_inc7} o prazo de validade da Licença de Instalação – LI, será de até 06 (seis) anos, não prorrogável se concedido o prazo máximo;
 - **Art. 33, caput, inciso VIII** {#art33_cpt_inc8} O prazo de validade da Licença de Instalação de Regularização – LIR será de 2 (dois) anos para a primeira licença e, prorrogável por, no máximo, 4 (quatro) anos, a critério do órgão licenciador;
-- **Art. 33, caput, inciso IX** {#art33_cpt_inc9} o prazo de validade da Licença de Operação – LO, será dependente da atividade do empreendimento, conforme estabelecido no [[#anx12|ANEXO XII]], renovável a critério do Órgão Licenciador.
+- **Art. 33, caput, inciso IX** {#art33_cpt_inc9} o prazo de validade da Licença de Operação – LO, será dependente da atividade do empreendimento, conforme estabelecido no [[#anexo12|ANEXO XII]], renovável a critério do Órgão Licenciador.
 - **Art. 33, caput, inciso X** {#art33_cpt_inc10} O prazo de validade da Licença de Operação de Regularização – LOR será de 2 (dois) anos para a primeira licença e, quando da sua renovação, renovável por no mínimo 4 (quatro) anos e no máximo 10 (dez) anos, a critério do órgão licenciador;
 
 **Art. 33, § 1º** {#art33_par1} As renovações e prorrogações se aplicam aos empreendimentos que não estejam vinculados aos outros empreendimentos.
@@ -591,16 +591,16 @@ Tags: #renovacao #lac #documentacao #requerimento #sistema-informatizado #relato
 - **Art. 36, caput, inciso V** {#art36_cpt_inc5} declaração assinada pelo responsável legal do empreendimento declarando que as características da licença ambiental objeto da presente renovação não foram alteradas.
 - **Art. 36, caput, inciso VI** {#art36_cpt_inc6} declaração do requerente informando que área a ser licenciada não possui embargos;
 - **Art. 36, caput, inciso VII** {#art36_cpt_inc7} comprovante de Declaração de Carga Poluidora (DCP), conforme [[portaria-iap-256-2013|Portaria IAP 256, de 16 de setembro de 2013]], ou outra que venha a substituí-la, se for o caso;
-- **Art. 36, caput, inciso VIII** {#art36_cpt_inc8} Plano de Gerenciamento de Resíduos Sólidos (PGRS), de acordo com o estabelecido na [[lei-estadual-12493-1999|Lei Estadual nº 12.493/1999]] e no [[decreto-estadual-6674-2002|Decreto Estadual nº 6674/2002]], apresentado conforme as diretrizes do [[#anx11|ANEXO XI]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
+- **Art. 36, caput, inciso VIII** {#art36_cpt_inc8} Plano de Gerenciamento de Resíduos Sólidos (PGRS), de acordo com o estabelecido na [[lei-estadual-12493-1999|Lei Estadual nº 12.493/1999]] e no [[decreto-estadual-6674-2002|Decreto Estadual nº 6674/2002]], apresentado conforme as diretrizes do [[#anexo11|ANEXO XI]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
 - **Art. 36, caput, inciso IX** {#art36_cpt_inc9} comprovante de entrega dos Inventários de Resíduos Sólidos, conforme exigência do [[decreto-estadual-6674-2002|Decreto Estadual nº 6.674, de 03 de dezembro 2002]], referente ao período de vigência da Licença Ambiental Simplificada;
 - **Art. 36, caput, inciso X** {#art36_cpt_inc10} declaração de Movimentação de Resíduos referente ao período de vigência da licença anterior, emitidos pela Plataforma MTR SINIR. Casos de movimentação ausentes de registro de MTR devem também ser apresentado outros registros da movimentação dos resíduos;
 - **Art. 36, caput, inciso XI** {#art36_cpt_inc11} Portaria(s) de Outorga de Direito e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga, em se tratando de empreendimento que necessite de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação e/ou intervenções de obras);
-- **Art. 36, caput, inciso XII** {#art36_cpt_inc12} Declaração da veracidade das informações prestadas, conforme modelo do [[#anx5|ANEXO V]];
+- **Art. 36, caput, inciso XII** {#art36_cpt_inc12} Declaração da veracidade das informações prestadas, conforme modelo do [[#anexo5|ANEXO V]];
 - **Art. 36, caput, inciso XIII** {#art36_cpt_inc13} comprovante de Declaração de Carga Poluidora (DCP), conforme [[portaria-iap-256-2013|Portaria IAP 256, de 16 de setembro de 2013]], ou outra que venha a substituí-la, se for o caso;
 - **Art. 36, caput, inciso XIV** {#art36_cpt_inc14} comprovante de declaração dos automonitoramentos de emissões atmosféricas no sistema DEA, realizados durante a vigência da Licença de Operação, se aplicável;
-- **Art. 36, caput, inciso XV** {#art36_cpt_inc15} Declaração do empreendedor pelo Licenciamento por Adesão e Compromisso conforme modelo do [[#anx6|ANEXO VI]];
-- **Art. 36, caput, inciso XVI** {#art36_cpt_inc16} Declaração do responsável técnico pelo Licenciamento por Adesão e Compromisso conforme modelo do [[#anx7|ANEXO VII]];
-- **Art. 36, caput, inciso XVII** {#art36_cpt_inc17} Anotação de responsabilidade técnica (ART), ou documento equivalente, com vínculo de cargo/função, expedida pelo conselho de classe do profissional legalmente habilitado ou conforme modelo do [[#anx15|ANEXO XV]];
+- **Art. 36, caput, inciso XV** {#art36_cpt_inc15} Declaração do empreendedor pelo Licenciamento por Adesão e Compromisso conforme modelo do [[#anexo6|ANEXO VI]];
+- **Art. 36, caput, inciso XVI** {#art36_cpt_inc16} Declaração do responsável técnico pelo Licenciamento por Adesão e Compromisso conforme modelo do [[#anexo7|ANEXO VII]];
+- **Art. 36, caput, inciso XVII** {#art36_cpt_inc17} Anotação de responsabilidade técnica (ART), ou documento equivalente, com vínculo de cargo/função, expedida pelo conselho de classe do profissional legalmente habilitado ou conforme modelo do [[#anexo15|ANEXO XV]];
 - **Art. 36, caput, inciso XVIII** {#art36_cpt_inc18} Certificado de Regularidade do empreendedor junto ao Cadastro Técnico Federal (CTF/APP) do IBAMA;
 - **Art. 36, caput, inciso XIX** {#art36_cpt_inc19} extrato de publicação de concessão da Licença Ambiental por Adesão e Compromisso – LAC no Diário Oficial do Estado, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006, de 24 de janeiro de 1986]];
 - **Art. 36, caput, inciso XX** {#art36_cpt_inc20} extrato de publicação de requerimento de Renovação de Licença Ambiental por Adesão e Compromisso - RLAC em Diário Oficial do Estado, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006, de 24 de janeiro de 1986]]; e
@@ -627,13 +627,13 @@ Tags: #renovacao #las #documentacao #requerimento #sistema-informatizado #relato
 - **Art. 37, caput, inciso VI** {#art37_cpt_inc6} declaração assinada pelo responsável legal do empreendimento declarando que as características da licença ambiental objeto da presente renovação não foram alteradas.
 - **Art. 37, caput, inciso VII** {#art37_cpt_inc7} comprovante de Declaração de Carga Poluidora (DCP), conforme [[portaria-iap-256-2013|Portaria IAP 256, de 16 de setembro de 2013]], ou outra que venha a substituí-la, se for o caso;
 - **Art. 37, caput, inciso VIII** {#art37_cpt_inc8} comprovante de declaração dos automonitoramentos de emissões atmosféricas no sistema DEA, realizados durante a vigência da Licença Ambiental Simplificada, se aplicável;
-- **Art. 37, caput, inciso IX** {#art37_cpt_inc9} Plano de Gerenciamento de Resíduos Sólidos (PGRS), de acordo com o estabelecido na [[lei-estadual-12493-1999|Lei Estadual nº 12.493/1999]] e no [[decreto-estadual-6674-2002|Decreto Estadual nº 6674/2002]], apresentado conforme as diretrizes do [[#anx11|ANEXO XI]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
+- **Art. 37, caput, inciso IX** {#art37_cpt_inc9} Plano de Gerenciamento de Resíduos Sólidos (PGRS), de acordo com o estabelecido na [[lei-estadual-12493-1999|Lei Estadual nº 12.493/1999]] e no [[decreto-estadual-6674-2002|Decreto Estadual nº 6674/2002]], apresentado conforme as diretrizes do [[#anexo11|ANEXO XI]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
 - **Art. 37, caput, inciso X** {#art37_cpt_inc10} comprovante de entrega dos Inventários de Resíduos Sólidos, conforme exigência do [[decreto-estadual-6674-2002|Decreto Estadual nº 6.674, de 03 de dezembro 2002]], referente ao período de vigência da Licença Ambiental Simplificada;
 - **Art. 37, caput, inciso XI** {#art37_cpt_inc11} declaração de Movimentação de Resíduos referente ao período de vigência da licença anterior, emitidos pela Plataforma MTR SINIR. Casos de movimentação ausentes de registro de MTR devem também ser apresentado outros registros da movimentação dos resíduos;
 - **Art. 37, caput, inciso XII** {#art37_cpt_inc12} Portaria(s) de Outorga de Direito e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga, em se tratando de empreendimento que necessite de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação e/ou intervenções de obras);
 - **Art. 37, caput, inciso XIII** {#art37_cpt_inc13} Certificado de Regularidade do empreendedor junto ao Cadastro Técnico Federal (CTF/APP) do IBAMA;
 - **Art. 37, caput, inciso XIV** {#art37_cpt_inc14} declaração do requerente informando que área a ser licenciada não possui embargos;
-- **Art. 37, caput, inciso XV** {#art37_cpt_inc15} Anotação de responsabilidade técnica (ART), ou documento equivalente, com vínculo de cargo/função, expedida pelo conselho de classe do profissional legalmente habilitado ou conforme modelo do [[#anx15|ANEXO XV]];
+- **Art. 37, caput, inciso XV** {#art37_cpt_inc15} Anotação de responsabilidade técnica (ART), ou documento equivalente, com vínculo de cargo/função, expedida pelo conselho de classe do profissional legalmente habilitado ou conforme modelo do [[#anexo15|ANEXO XV]];
 - **Art. 37, caput, inciso XVI** {#art37_cpt_inc16} Comprovante do Plano de Logística Reversa ou Relatório Comprobatório do Plano de Logística Reversa, aprovado pela SEDEST, quando aplicável;
 - **Art. 37, caput, inciso XVII** {#art37_cpt_inc17} extrato de publicação de concessão da Licença Ambiental Simplificada – LAS no Diário Oficial do Estado, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006, de 24 de janeiro de 1986]];
 - **Art. 37, caput, inciso XVIII** {#art37_cpt_inc18} extrato de publicação de requerimento de Renovação de Licença Ambiental Simplificada - RLAS em Diário Oficial do Estado, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006, de 24 de janeiro de 1986]]; e
@@ -652,7 +652,7 @@ Tags: #renovacao #lo #documentacao #requerimento #sistema-informatizado #relator
 - **Art. 38, caput, inciso V** {#art38_cpt_inc5} declaração assinada pelo responsável legal do empreendimento declarando que as características da licença ambiental objeto da presente renovação não foram alteradas.
 - **Art. 38, caput, inciso VI** {#art38_cpt_inc6} comprovante de Declaração de Carga Poluidora (DCP), conforme [[portaria-iap-256-2013|Portaria IAP 256, de 16 de setembro de 2013]], ou outra que venha a substituí-la, se for o caso;
 - **Art. 38, caput, inciso VII** {#art38_cpt_inc7} comprovante de declaração dos automonitoramentos de emissões atmosféricas no sistema DEA, realizados durante a vigência da Licença de Operação, se aplicável;
-- **Art. 38, caput, inciso VIII** {#art38_cpt_inc8} Plano de Gerenciamento de Resíduos Sólidos (PGRS), de acordo com o estabelecido na [[lei-estadual-12493-1999|Lei Estadual nº 12.493/1999]] e no [[decreto-estadual-6674-2002|Decreto Estadual nº 6674/2002]], apresentado conforme as diretrizes do [[#anx11|ANEXO XI]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
+- **Art. 38, caput, inciso VIII** {#art38_cpt_inc8} Plano de Gerenciamento de Resíduos Sólidos (PGRS), de acordo com o estabelecido na [[lei-estadual-12493-1999|Lei Estadual nº 12.493/1999]] e no [[decreto-estadual-6674-2002|Decreto Estadual nº 6674/2002]], apresentado conforme as diretrizes do [[#anexo11|ANEXO XI]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
 - **Art. 38, caput, inciso IX** {#art38_cpt_inc9} comprovante de entrega dos Inventários de Resíduos Sólidos, conforme exigência do [[decreto-estadual-6674-2002|Decreto Estadual nº 6.674, de 03 de dezembro 2002]], referente ao período de vigência da Licença de Operação;
 - **Art. 38, caput, inciso X** {#art38_cpt_inc10} Declaração de Movimentação de Resíduos referente ao período de vigência da licença anterior, emitidos pela Plataforma MTR SINIR. Casos de movimentação ausentes de registro de MTR devem também ser apresentado outros registros da movimentação dos resíduos;
 - **Art. 38, caput, inciso XI** {#art38_cpt_inc11} Portaria(s) de Outorga de Direito e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga, em se tratando de empreendimento que necessite de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação e/ou intervenções de obras);
@@ -712,9 +712,9 @@ Tags: #lasa #ampliacao #documentacao #requerimento #sistema-informatizado #cnpj 
   - **Art. 42, caput, inciso II, alínea "g"** {#art42_cpt_inc2_alig} Pontos de referência;
 - **Art. 42, caput, inciso III** {#art42_cpt_inc3} cópia da Licença anterior;
 - **Art. 42, caput, inciso IV** {#art42_cpt_inc4} relatório de atendimento das condicionantes da Licença anterior;
-- **Art. 42, caput, inciso V** {#art42_cpt_inc5} Plano Básico de Controle de Poluição Ambiental (PBCA), apresentado de acordo com o Termo de Referência do [[#anx8|ANEXO VIII]], elaborado por profissional(is) habilitado(s) e acompanhado da(s) respectivas ART(s) – Anotação(s) de Responsabilidade Técnica.
+- **Art. 42, caput, inciso V** {#art42_cpt_inc5} Plano Básico de Controle de Poluição Ambiental (PBCA), apresentado de acordo com o Termo de Referência do [[#anexo8|ANEXO VIII]], elaborado por profissional(is) habilitado(s) e acompanhado da(s) respectivas ART(s) – Anotação(s) de Responsabilidade Técnica.
 - **Art. 42, caput, inciso VI** {#art42_cpt_inc6} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Sendo o imóvel locado ou arrendado, apresentar contrato de locação ou arrendamento;
-- **Art. 42, caput, inciso VII** {#art42_cpt_inc7} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anx3|ANEXO III]];
+- **Art. 42, caput, inciso VII** {#art42_cpt_inc7} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo3|ANEXO III]];
 - **Art. 42, caput, inciso VIII** {#art42_cpt_inc8} declaração do requerente informando que área a ser licenciada não possui embargos;
 - **Art. 42, caput, inciso IX** {#art42_cpt_inc9} Certificado de Registro no SERFLOR, conforme [[decreto-estadual-1940-1996|Decreto Estadual nº 1.940, de 03 de junho de 1996]], se aplicável;
 - **Art. 42, caput, inciso X** {#art42_cpt_inc10} cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8680/2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12.651/2012]], para imóveis em área rural;
@@ -722,7 +722,7 @@ Tags: #lasa #ampliacao #documentacao #requerimento #sistema-informatizado #cnpj 
 - **Art. 42, caput, inciso XII** {#art42_cpt_inc12} manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
 - **Art. 42, caput, inciso XIII** {#art42_cpt_inc13} número do registro do cadastro do projeto junto ao SINAFLOR, no caso de necessidade de corte ou supressão de vegetação nativa;
 - **Art. 42, caput, inciso XIV** {#art42_cpt_inc14} Certificado de Regularidade do empreendedor junto ao Cadastro Técnico Federal (CTF/APP) do IBAMA;
-- **Art. 42, caput, inciso XV** {#art42_cpt_inc15} Anotação de responsabilidade técnica (ART), ou documento equivalente, com vínculo de cargo/função, expedida pelo conselho de classe do profissional legalmente habilitado ou conforme modelo do [[#anx15|ANEXO XV]];
+- **Art. 42, caput, inciso XV** {#art42_cpt_inc15} Anotação de responsabilidade técnica (ART), ou documento equivalente, com vínculo de cargo/função, expedida pelo conselho de classe do profissional legalmente habilitado ou conforme modelo do [[#anexo15|ANEXO XV]];
 - **Art. 42, caput, inciso XVI** {#art42_cpt_inc16} extrato de publicação de requerimento de Licença Ambiental Simplificada de Ampliação – LASA no Diário Oficial do Estado, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006, de 24 de janeiro de 1986]];
 - **Art. 42, caput, inciso XVII** {#art42_cpt_inc17} extrato de publicação de concessão de Licença anterior no Diário Oficial do Estado, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006, de 24 de janeiro de 1986]];
 - **Art. 42, caput, inciso XVIII** {#art42_cpt_inc18} recolhimento da taxa ambiental, bem como dos demais valores cabíveis referentes à publicação da súmula da concessão da Licença requerida, no Diário Oficial do Estado, a ser efetivada pelo IAT.
@@ -764,9 +764,9 @@ Tags: #lpa #ampliacao #documentacao #requerimento #sistema-informatizado #cnpj #
   - **Art. 44, caput, inciso II, alínea "h"** {#art44_cpt_inc2_alih} Arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
 - **Art. 44, caput, inciso III** {#art44_cpt_inc3} cópia da Licença anterior;
 - **Art. 44, caput, inciso IV** {#art44_cpt_inc4} relatório de atendimento das condicionantes da Licença anterior;
-- **Art. 44, caput, inciso V** {#art44_cpt_inc5} Memorial de Caracterização do Empreendimento (MCE) apresentado conforme as diretrizes do [[#anx4|ANEXO IV]], elaborado por profissional habilitado e acompanhado de Anotação de Responsabilidade Técnica (ART) emitida pelo Conselho de Classe.
+- **Art. 44, caput, inciso V** {#art44_cpt_inc5} Memorial de Caracterização do Empreendimento (MCE) apresentado conforme as diretrizes do [[#anexo4|ANEXO IV]], elaborado por profissional habilitado e acompanhado de Anotação de Responsabilidade Técnica (ART) emitida pelo Conselho de Classe.
 - **Art. 44, caput, inciso VI** {#art44_cpt_inc6} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Sendo o imóvel locado ou arrendado, apresentar contrato de locação ou arrendamento;
-- **Art. 44, caput, inciso VII** {#art44_cpt_inc7} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anx3|ANEXO III]];
+- **Art. 44, caput, inciso VII** {#art44_cpt_inc7} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo3|ANEXO III]];
 - **Art. 44, caput, inciso VIII** {#art44_cpt_inc8} declaração do requerente informando que área a ser licenciada não possui embargos;
 - **Art. 44, caput, inciso IX** {#art44_cpt_inc9} cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8680/2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12.651/2012]], para imóveis em área rural;
 - **Art. 44, caput, inciso X** {#art44_cpt_inc10} Portaria(s) de Outorga Prévia e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga, em se tratando de empreendimento que necessite de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação e/ou intervenções de obras);
@@ -811,9 +811,9 @@ Tags: #lia #ampliacao #documentacao #requerimento #sistema-informatizado #relato
 - **Art. 49, caput, inciso II** {#art49_cpt_inc2} relatório de atendimento das condicionantes da licença anterior;
 - **Art. 49, caput, inciso III** {#art49_cpt_inc3} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Sendo o imóvel locado ou arrendado, apresentar contrato de locação ou arrendamento;
 - **Art. 49, caput, inciso IV** {#art49_cpt_inc4} declaração do requerente informando que a área a ser licenciada não possui embargos;
-- **Art. 49, caput, inciso V** {#art49_cpt_inc5} Projeto de Controle de Poluição Ambiental e Projeto de Terraplanagem (PCPA) apresentado conforme as diretrizes do [[#anx9|ANEXO IX]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
+- **Art. 49, caput, inciso V** {#art49_cpt_inc5} Projeto de Controle de Poluição Ambiental e Projeto de Terraplanagem (PCPA) apresentado conforme as diretrizes do [[#anexo9|ANEXO IX]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
 - **Art. 49, caput, inciso VI** {#art49_cpt_inc6} Relatório dos impactos ambientais decorrentes da implantação do empreendimento, como por exemplo: obras de terraplanagem, corte de vegetação, canalização de nascentes, entre outros, elaborado por técnico habilitado, com as medidas mitigadoras desses impactos.
-- **Art. 49, caput, inciso VII** {#art49_cpt_inc7} Projeto de Controle de Poluição Sonora, no caso de poluição sonora, apresentado conforme as diretrizes do [[#anx10|ANEXO X]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
+- **Art. 49, caput, inciso VII** {#art49_cpt_inc7} Projeto de Controle de Poluição Sonora, no caso de poluição sonora, apresentado conforme as diretrizes do [[#anexo10|ANEXO X]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
 - **Art. 49, caput, inciso VIII** {#art49_cpt_inc8} Número do registro do cadastro do projeto junto ao SINAFLOR, no caso de necessidade de supressão de vegetação nativa, ou Autorização Florestal;
 - **Art. 49, caput, inciso IX** {#art49_cpt_inc9} Certificado de Regularidade do empreendedor junto ao Cadastro Técnico Federal (CTF/APP) do IBAMA;
 - **Art. 49, caput, inciso X** {#art49_cpt_inc10} extrato de publicação de concessão de Licença Prévia de Ampliação no Diário Oficial do Estado, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006, de 24 de janeiro de 1986]];
@@ -846,7 +846,7 @@ Tags: #loa #ampliacao #documentacao #requerimento #sistema-informatizado #relato
 - **Art. 52, caput, inciso IV** {#art52_cpt_inc4} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Sendo o imóvel locado ou arrendado, apresentar contrato de locação ou arrendamento;
 - **Art. 52, caput, inciso V** {#art52_cpt_inc5} declaração do requerente informando que a área a ser licenciada não possui embargos;
 - **Art. 52, caput, inciso VI** {#art52_cpt_inc6} Relatório de comprovação da implementação e instalação das medidas de controle propostas no Projeto de Controle de Poluição Ambiental (PCPA);
-- **Art. 52, caput, inciso VII** {#art52_cpt_inc7} Plano de Gerenciamento de Resíduos Sólidos (PGRS), de acordo com o estabelecido na [[lei-estadual-12493-1999|Lei Estadual nº 12.493/1999]] e no [[decreto-estadual-6674-2002|Decreto Estadual nº 6674/2002]], apresentado conforme as diretrizes do [[#anx11|ANEXO XI]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
+- **Art. 52, caput, inciso VII** {#art52_cpt_inc7} Plano de Gerenciamento de Resíduos Sólidos (PGRS), de acordo com o estabelecido na [[lei-estadual-12493-1999|Lei Estadual nº 12.493/1999]] e no [[decreto-estadual-6674-2002|Decreto Estadual nº 6674/2002]], apresentado conforme as diretrizes do [[#anexo11|ANEXO XI]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
 - **Art. 52, caput, inciso VIII** {#art52_cpt_inc8} Declaração de Movimentação de Resíduos referente ao período de vigência da licença anterior, emitidos pela Plataforma MTR SINIR. Casos de movimentação ausentes de registro de MTR devem também ser apresentado outros registros da movimentação dos resíduos;
 - **Art. 52, caput, inciso IX** {#art52_cpt_inc9} comprovante de entrega dos Inventários de Resíduos Sólidos, conforme exigência do [[decreto-estadual-6674-2002|Decreto Estadual nº 6.674, de 03 de dezembro de 2002]], referente ao período de vigência da Licença anterior;
 - **Art. 52, caput, inciso X** {#art52_cpt_inc10} Programa de Automonitoramento de Emissões Atmosféricas apresentado conforme as diretrizes da [[resolucao-sedest-2-2025|Resolução SEDEST 02, de 16 de janeiro de 2025]], ou outras que venham a substituí-la, elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe, se aplicável;
@@ -908,17 +908,17 @@ Tags: #lasr #regularizacao #documentacao #requerimento #sistema-informatizado #c
   - **Art. 55, caput, inciso II, alínea "e"** {#art55_cpt_inc2_alie} Áreas de Reserva Legal e maciços florestais remanescentes;
   - **Art. 55, caput, inciso II, alínea "f"** {#art55_cpt_inc2_alif} Vias de acesso principais;
   - **Art. 55, caput, inciso II, alínea "g"** {#art55_cpt_inc2_alig} Pontos de referência;
-- **Art. 55, caput, inciso III** {#art55_cpt_inc3} Plano Básico de Controle de Poluição Ambiental (PBCA), apresentado de acordo com o Termo de Referência do [[#anx8|ANEXO VIII]], elaborado por profissional(is) habilitado(s) e acompanhado da(s) respectivas ART(s) – Anotação(s) de Responsabilidade Técnica.
-- **Art. 55, caput, inciso IV** {#art55_cpt_inc4} diagnóstico da situação atual do empreendimento apresentado conforme as diretrizes do [[#anx13|ANEXO XIII]], elaborado por profissional habilitado e acompanhado de Anotação de Responsabilidade Técnica (ART) emitida pelo Conselho de Classe Competente;
+- **Art. 55, caput, inciso III** {#art55_cpt_inc3} Plano Básico de Controle de Poluição Ambiental (PBCA), apresentado de acordo com o Termo de Referência do [[#anexo8|ANEXO VIII]], elaborado por profissional(is) habilitado(s) e acompanhado da(s) respectivas ART(s) – Anotação(s) de Responsabilidade Técnica.
+- **Art. 55, caput, inciso IV** {#art55_cpt_inc4} diagnóstico da situação atual do empreendimento apresentado conforme as diretrizes do [[#anexo13|ANEXO XIII]], elaborado por profissional habilitado e acompanhado de Anotação de Responsabilidade Técnica (ART) emitida pelo Conselho de Classe Competente;
 - **Art. 55, caput, inciso V** {#art55_cpt_inc5} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Sendo o imóvel locado ou arrendado, apresentar contrato de locação ou arrendamento;
-- **Art. 55, caput, inciso VI** {#art55_cpt_inc6} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anx3|ANEXO III]];
+- **Art. 55, caput, inciso VI** {#art55_cpt_inc6} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo3|ANEXO III]];
 - **Art. 55, caput, inciso VII** {#art55_cpt_inc7} declaração do requerente informando que área a ser licenciada não possui embargos;
 - **Art. 55, caput, inciso VIII** {#art55_cpt_inc8} cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8680/2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12.651/2012]], para imóveis em área rural;
 - **Art. 55, caput, inciso IX** {#art55_cpt_inc9} manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
 - **Art. 55, caput, inciso X** {#art55_cpt_inc10} número do registro do cadastro do projeto junto ao SINAFLOR, no caso de necessidade de corte ou supressão de vegetação nativa;
 - **Art. 55, caput, inciso XI** {#art55_cpt_inc11} Certificado de Registro no SERFLOR, conforme [[decreto-estadual-1940-1996|Decreto Estadual nº 1.940, de 03 de junho de 1996]], se aplicável;
 - **Art. 55, caput, inciso XII** {#art55_cpt_inc12} Certificado de Regularidade do empreendedor junto ao Cadastro Técnico Federal (CTF/APP) do IBAMA;
-- **Art. 55, caput, inciso XIII** {#art55_cpt_inc13} Anotação de responsabilidade técnica (ART), ou documento equivalente, com vínculo de cargo/função, expedida pelo conselho de classe do profissional legalmente habilitado ou conforme modelo do [[#anx15|ANEXO XV]];
+- **Art. 55, caput, inciso XIII** {#art55_cpt_inc13} Anotação de responsabilidade técnica (ART), ou documento equivalente, com vínculo de cargo/função, expedida pelo conselho de classe do profissional legalmente habilitado ou conforme modelo do [[#anexo15|ANEXO XV]];
 - **Art. 55, caput, inciso XIV** {#art55_cpt_inc14} Programa de Automonitoramento de Emissões Atmosféricas apresentado conforme as diretrizes da [[resolucao-sedest-2-2025|Resolução SEDEST nº 02, de 16 de janeiro de 2025]], ou outras que venham a substitui-la, elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ões) de Responsabilidade Técnica emitida pelo Conselho de Classe, se aplicável;
 - **Art. 55, caput, inciso XV** {#art55_cpt_inc15} extrato de publicação de requerimento de Licença Ambiental Simplificada de Regularização – LASR no Diário Oficial do Estado, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006, de 24 de janeiro de 1986]];
 - **Art. 55, caput, inciso XVI** {#art55_cpt_inc16} recolhimento da taxa ambiental, bem como dos demais valores cabíveis referentes à publicação da súmula da concessão da Licença requerida, no Diário Oficial do Estado, a ser efetivada pelo IAT.
@@ -968,15 +968,15 @@ Tags: #lir #regularizacao #documentacao #requerimento #sistema-informatizado #cn
   - **Art. 59, caput, inciso II, alínea "f"** {#art59_cpt_inc2_alif} Vias de acesso principais;
   - **Art. 59, caput, inciso II, alínea "g"** {#art59_cpt_inc2_alig} Pontos de referência;
   - **Art. 59, caput, inciso II, alínea "h"** {#art59_cpt_inc2_alih} Arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
-- **Art. 59, caput, inciso III** {#art59_cpt_inc3} Projeto de Controle de Poluição Ambiental e Projeto de Terraplanagem (PCPA) apresentado conforme as diretrizes do [[#anx9|ANEXO IX]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ões) de Responsabilidade Técnica emitida pelo Conselho de Classe;
+- **Art. 59, caput, inciso III** {#art59_cpt_inc3} Projeto de Controle de Poluição Ambiental e Projeto de Terraplanagem (PCPA) apresentado conforme as diretrizes do [[#anexo9|ANEXO IX]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ões) de Responsabilidade Técnica emitida pelo Conselho de Classe;
 - **Art. 59, caput, inciso IV** {#art59_cpt_inc4} Relatório dos Impactos Ambientais decorrentes da implantação do empreendimento, como por exemplo: obras de terraplanagem, corte de vegetação, canalização de nascentes, entre outros, elaborado por técnico habilitado, com as medidas mitigadoras desses impactos.
-- **Art. 59, caput, inciso V** {#art59_cpt_inc5} diagnóstico da situação atual do empreendimento apresentado conforme as diretrizes do [[#anx13|ANEXO XIII]], elaborado por profissional habilitado e acompanhado de Anotação de Responsabilidade Técnica (ART) emitida pelo Conselho de Classe Competente.
-- **Art. 59, caput, inciso VI** {#art59_cpt_inc6} Projeto de Controle de Poluição Sonora, no caso de poluição sonora, apresentado conforme as diretrizes do [[#anx10|ANEXO X]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
+- **Art. 59, caput, inciso V** {#art59_cpt_inc5} diagnóstico da situação atual do empreendimento apresentado conforme as diretrizes do [[#anexo13|ANEXO XIII]], elaborado por profissional habilitado e acompanhado de Anotação de Responsabilidade Técnica (ART) emitida pelo Conselho de Classe Competente.
+- **Art. 59, caput, inciso VI** {#art59_cpt_inc6} Projeto de Controle de Poluição Sonora, no caso de poluição sonora, apresentado conforme as diretrizes do [[#anexo10|ANEXO X]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
 - **Art. 59, caput, inciso VII** {#art59_cpt_inc7} Plano de Gerenciamento de Resíduos da Construção Civil (PGRCC), observada a [[resolucao-conama-307-2002|Resolução CONAMA nº 307/2002]], acompanhado da Anotação de Responsabilidade Técnica (ART) emitida por profissional habilitado(a), responsável pelo PGRCC;
 - **Art. 59, caput, inciso VIII** {#art59_cpt_inc8} número do registro do cadastro do projeto junto ao SINAFLOR, no caso de necessidade de corte ou supressão de vegetação nativa;
 - **Art. 59, caput, inciso IX** {#art59_cpt_inc9} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Sendo o imóvel locado ou arrendado, apresentar contrato de locação ou arrendamento;
 - **Art. 59, caput, inciso X** {#art59_cpt_inc10} declaração do requerente informando que área a ser licenciada não possui embargos;
-- **Art. 59, caput, inciso XI** {#art59_cpt_inc11} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anx3|ANEXO III]];
+- **Art. 59, caput, inciso XI** {#art59_cpt_inc11} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo3|ANEXO III]];
 - **Art. 59, caput, inciso XII** {#art59_cpt_inc12} cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8680/2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12.651/2012]], para imóveis em área rural;
 - **Art. 59, caput, inciso XIII** {#art59_cpt_inc13} Portaria(s) de Outorga Prévia e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga, em se tratando de empreendimento que necessite de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação e/ou intervenções de obras);
 - **Art. 59, caput, inciso XIV** {#art59_cpt_inc14} manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
@@ -1024,16 +1024,16 @@ Tags: #lor #regularizacao #documentacao #requerimento #sistema-informatizado #cn
   - **Art. 62, caput, inciso II, alínea "f"** {#art62_cpt_inc2_alif} Vias de acesso principais;
   - **Art. 62, caput, inciso II, alínea "g"** {#art62_cpt_inc2_alig} Pontos de referência;
   - **Art. 62, caput, inciso II, alínea "h"** {#art62_cpt_inc2_alih} Arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
-- **Art. 62, caput, inciso III** {#art62_cpt_inc3} Memorial de Caracterização do Empreendimento (MCE) apresentado conforme as diretrizes do [[#anx4|ANEXO IV]], elaborado por profissional habilitado e acompanhado de Anotação de Responsabilidade Técnica (ART) emitida pelo Conselho de Classe.
-- **Art. 62, caput, inciso IV** {#art62_cpt_inc4} diagnóstico da situação atual do empreendimento apresentado conforme as diretrizes do [[#anx13|ANEXO XIII]], elaborado por profissional habilitado e acompanhado de Anotação de Responsabilidade Técnica (ART) emitida pelo Conselho de Classe Competente.
-- **Art. 62, caput, inciso V** {#art62_cpt_inc5} Projeto de Controle de Poluição Sonora, no caso de poluição sonora, apresentado conforme as diretrizes do [[#anx10|ANEXO X]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
+- **Art. 62, caput, inciso III** {#art62_cpt_inc3} Memorial de Caracterização do Empreendimento (MCE) apresentado conforme as diretrizes do [[#anexo4|ANEXO IV]], elaborado por profissional habilitado e acompanhado de Anotação de Responsabilidade Técnica (ART) emitida pelo Conselho de Classe.
+- **Art. 62, caput, inciso IV** {#art62_cpt_inc4} diagnóstico da situação atual do empreendimento apresentado conforme as diretrizes do [[#anexo13|ANEXO XIII]], elaborado por profissional habilitado e acompanhado de Anotação de Responsabilidade Técnica (ART) emitida pelo Conselho de Classe Competente.
+- **Art. 62, caput, inciso V** {#art62_cpt_inc5} Projeto de Controle de Poluição Sonora, no caso de poluição sonora, apresentado conforme as diretrizes do [[#anexo10|ANEXO X]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
 - **Art. 62, caput, inciso VI** {#art62_cpt_inc6} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Sendo o imóvel locado ou arrendado, apresentar contrato de locação ou arrendamento;
 - **Art. 62, caput, inciso VII** {#art62_cpt_inc7} declaração do requerente informando que área a ser licenciada não possui embargos;
-- **Art. 62, caput, inciso VIII** {#art62_cpt_inc8} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anx3|ANEXO III]];
+- **Art. 62, caput, inciso VIII** {#art62_cpt_inc8} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo3|ANEXO III]];
 - **Art. 62, caput, inciso IX** {#art62_cpt_inc9} cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8680/2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12.651/2012]], para imóveis em área rural;
 - **Art. 62, caput, inciso X** {#art62_cpt_inc10} Certificado de Registro no SERFLOR, conforme [[decreto-estadual-1940-1996|Decreto Estadual nº 1.940, de 03 de junho de 1996]], se aplicável;
 - **Art. 62, caput, inciso XI** {#art62_cpt_inc11} manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
-- **Art. 62, caput, inciso XII** {#art62_cpt_inc12} Plano de Gerenciamento de Resíduos Sólidos (PGRS), de acordo com o estabelecido na [[lei-estadual-12493-1999|Lei Estadual nº 12.493/1999]] e no [[decreto-estadual-6674-2002|Decreto Estadual nº 6674/2002]], apresentado conforme as diretrizes do [[#anx11|ANEXO XI]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
+- **Art. 62, caput, inciso XII** {#art62_cpt_inc12} Plano de Gerenciamento de Resíduos Sólidos (PGRS), de acordo com o estabelecido na [[lei-estadual-12493-1999|Lei Estadual nº 12.493/1999]] e no [[decreto-estadual-6674-2002|Decreto Estadual nº 6674/2002]], apresentado conforme as diretrizes do [[#anexo11|ANEXO XI]], elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe;
 - **Art. 62, caput, inciso XIII** {#art62_cpt_inc13} Declaração de Movimentação de Resíduos referente ao período de vigência da licença anterior, emitidos pela Plataforma MTR SINIR. Casos de movimentação ausentes de registro de MTR devem também ser apresentado outros registros da movimentação dos resíduos;
 - **Art. 62, caput, inciso XIV** {#art62_cpt_inc14} comprovante de entrega dos Inventários de Resíduos Sólidos, conforme exigência do [[decreto-estadual-6674-2002|Decreto Estadual nº 6.674, de 03 de dezembro de 2002]], referente ao período de vigência da Licença anterior;
 - **Art. 62, caput, inciso XV** {#art62_cpt_inc15} Programa de Automonitoramento de Emissões Atmosféricas apresentado conforme as diretrizes da [[resolucao-sedest-2-2025|Resolução SEDEST 02, de 16 de janeiro de 2025]], ou outras que venham a substituí-la, elaborado por profissional(is) habilitado(s) acompanhado da(s) Anotação(ções) de Responsabilidade Técnica emitida pelo Conselho de Classe, se aplicável;
@@ -1057,7 +1057,7 @@ Tags: #lor #regularizacao #documentacao #requerimento #sistema-informatizado #cn
 ###### Art. 63 {#art63}
 Tags: #efluente #padrao-lancamento
 
-**Art. 63, caput** {#art63_cpt} Para o lançamento de efluentes líquidos industriais, ficam estabelecidos os padrões determinados no [[#anx14|ANEXO XIV]].
+**Art. 63, caput** {#art63_cpt} Para o lançamento de efluentes líquidos industriais, ficam estabelecidos os padrões determinados no [[#anexo14|ANEXO XIV]].
 
 ###### Art. 64 {#art64}
 Tags: #efluente #galeria-pluvial #outorga #anuencia
@@ -1207,82 +1207,82 @@ Tags: #vigencia #revogacao
 
 ## ANEXOS
 
-> **Os anexos não constam do PDF usado na conversão** (73 páginas, que terminam no art. 87 e na assinatura). Os títulos abaixo foram **inferidos das remissões do texto** e servem de âncora para os links; substitua pelo conteúdo oficial quando o anexo for incorporado.
+> **O PDF usado na conversão não traz os anexos** (73 páginas, que terminam no art. 87). A classificação abaixo segue as regras de anexos do README e foi feita pelas remissões do texto. Os modelos (tipo 1) já estão no formato final. Os tipos 2 e 3 dependem do conteúdo oficial.
 
-### ANEXO I {#anx1}
-Tags: #anexo #anexo-pendente
+### ANEXO I {#anexo1}
+Tags: #anexo #anexo-pendente #anexo-normativo
 
-*Conteúdo não incluído no PDF de origem.* Título inferido: Tabela de definição do porte (área construída, investimento total e número de empregados). Citado primeiro no [[#art7|art. 7]].
+Tabela de definição do porte (área construída, investimento total e número de empregados). *(Tipo 3: conteúdo normativo, será listado aqui com IDs `anexo1_linN` / `anexo1_tabT_linN`. Citado no [[#art7|art. 7]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
 
-### ANEXO II {#anx2}
-Tags: #anexo #anexo-pendente
+### ANEXO II {#anexo2}
+Tags: #anexo #anexo-pendente #anexo-normativo
 
-*Conteúdo não incluído no PDF de origem.* Título inferido: Atividades industriais passíveis de Licença Ambiental Simplificada – LAS. Citado primeiro no [[#art15|art. 15]].
+Atividades industriais passíveis de Licença Ambiental Simplificada (LAS). *(Tipo 3: conteúdo normativo, será listado aqui com IDs `anexo2_linN` / `anexo2_tabT_linN`. Citado no [[#art15|art. 15]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
 
-### ANEXO III {#anx3}
-Tags: #anexo #anexo-pendente
+### ANEXO III {#anexo3}
+Tags: #anexo #modelo
 
-*Conteúdo não incluído no PDF de origem.* Título inferido: Modelo de Certidão do Município. Citado primeiro no [[#art19_cpt_inc5|art. 19]].
+Modelo de certidão do Município. *(Tipo 1. Nome conforme remissão do [[#art19_cpt_inc5|art. 19]]; anexo ausente no PDF de origem.)*
 
-### ANEXO IV {#anx4}
-Tags: #anexo #anexo-pendente
+### ANEXO IV {#anexo4}
+Tags: #anexo #anexo-pendente #diretriz-estudo
 
-*Conteúdo não incluído no PDF de origem.* Título inferido: Diretrizes do Memorial de Caracterização do Empreendimento – MCE. Citado primeiro no [[#art21_cpt_inc6|art. 21]].
+Diretrizes do Memorial de Caracterização do Empreendimento (MCE). *(Tipo 2: irá para `normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md`, com atividades: industria. Citado no [[#art21_cpt_inc6|art. 21]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
 
-### ANEXO V {#anx5}
-Tags: #anexo #anexo-pendente
+### ANEXO V {#anexo5}
+Tags: #anexo #modelo
 
-*Conteúdo não incluído no PDF de origem.* Título inferido: Modelo de Declaração da veracidade das informações prestadas. Citado primeiro no [[#art19_cpt_inc8|art. 19]].
+Modelo de declaração da veracidade das informações prestadas. *(Tipo 1. Nome conforme remissão do [[#art19_cpt_inc8|art. 19]]; anexo ausente no PDF de origem.)*
 
-### ANEXO VI {#anx6}
-Tags: #anexo #anexo-pendente
+### ANEXO VI {#anexo6}
+Tags: #anexo #modelo
 
-*Conteúdo não incluído no PDF de origem.* Título inferido: Modelo de Declaração do empreendedor pelo Licenciamento por Adesão e Compromisso. Citado primeiro no [[#art21_cpt_inc9|art. 21]].
+Modelo de declaração do empreendedor pelo Licenciamento por Adesão e Compromisso. *(Tipo 1. Nome conforme remissão do [[#art21_cpt_inc9|art. 21]]; anexo ausente no PDF de origem.)*
 
-### ANEXO VII {#anx7}
-Tags: #anexo #anexo-pendente
+### ANEXO VII {#anexo7}
+Tags: #anexo #modelo
 
-*Conteúdo não incluído no PDF de origem.* Título inferido: Modelo de Declaração do responsável técnico pelo Licenciamento por Adesão e Compromisso. Citado primeiro no [[#art21_cpt_inc10|art. 21]].
+Modelo de declaração do responsável técnico pelo Licenciamento por Adesão e Compromisso. *(Tipo 1. Nome conforme remissão do [[#art21_cpt_inc10|art. 21]]; anexo ausente no PDF de origem.)*
 
-### ANEXO VIII {#anx8}
-Tags: #anexo #anexo-pendente
+### ANEXO VIII {#anexo8}
+Tags: #anexo #anexo-pendente #diretriz-estudo
 
-*Conteúdo não incluído no PDF de origem.* Título inferido: Termo de Referência do Plano Básico de Controle de Poluição Ambiental – PBCA. Citado primeiro no [[#art22_cpt_inc3|art. 22]].
+Termo de Referência do Plano Básico de Controle de Poluição Ambiental (PBCA). *(Tipo 2: irá para `normas/anexos/instrucao-normativa-iat-65-2025-anexo8.md`, com atividades: industria. Citado no [[#art22_cpt_inc3|art. 22]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
 
-### ANEXO IX {#anx9}
-Tags: #anexo #anexo-pendente
+### ANEXO IX {#anexo9}
+Tags: #anexo #anexo-pendente #diretriz-estudo
 
-*Conteúdo não incluído no PDF de origem.* Título inferido: Diretrizes do Projeto de Controle de Poluição Ambiental e Projeto de Terraplanagem – PCPA. Citado primeiro no [[#art29_cpt_inc3|art. 29]].
+Diretrizes do Projeto de Controle de Poluição Ambiental e Projeto de Terraplanagem (PCPA). *(Tipo 2: irá para `normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md`, com atividades: industria. Citado no [[#art29_cpt_inc3|art. 29]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
 
-### ANEXO X {#anx10}
-Tags: #anexo #anexo-pendente
+### ANEXO X {#anexo10}
+Tags: #anexo #anexo-pendente #diretriz-estudo
 
-*Conteúdo não incluído no PDF de origem.* Título inferido: Diretrizes do Projeto de Controle de Poluição Sonora. Citado primeiro no [[#art29_cpt_inc5|art. 29]].
+Diretrizes do Projeto de Controle de Poluição Sonora. *(Tipo 2: irá para `normas/anexos/instrucao-normativa-iat-65-2025-anexo10.md`, com atividades: industria. Citado no [[#art29_cpt_inc5|art. 29]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
 
-### ANEXO XI {#anx11}
-Tags: #anexo #anexo-pendente
+### ANEXO XI {#anexo11}
+Tags: #anexo #anexo-pendente #diretriz-estudo
 
-*Conteúdo não incluído no PDF de origem.* Título inferido: Diretrizes do Plano de Gerenciamento de Resíduos Sólidos – PGRS. Citado primeiro no [[#art32_cpt_inc7|art. 32]].
+Diretrizes do Plano de Gerenciamento de Resíduos Sólidos (PGRS). *(Tipo 2: irá para `normas/anexos/instrucao-normativa-iat-65-2025-anexo11.md`, com atividades: industria. Citado no [[#art32_cpt_inc7|art. 32]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
 
-### ANEXO XII {#anx12}
-Tags: #anexo #anexo-pendente
+### ANEXO XII {#anexo12}
+Tags: #anexo #anexo-pendente #anexo-normativo
 
-*Conteúdo não incluído no PDF de origem.* Título inferido: Prazos de validade da Licença de Operação por atividade. Citado primeiro no [[#art33_cpt_inc9|art. 33]].
+Prazos de validade da Licença de Operação por atividade. *(Tipo 3: conteúdo normativo, será listado aqui com IDs `anexo12_linN` / `anexo12_tabT_linN`. Citado no [[#art33_cpt_inc9|art. 33]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
 
-### ANEXO XIII {#anx13}
-Tags: #anexo #anexo-pendente
+### ANEXO XIII {#anexo13}
+Tags: #anexo #anexo-pendente #diretriz-estudo
 
-*Conteúdo não incluído no PDF de origem.* Título inferido: Diretrizes do diagnóstico da situação atual do empreendimento. Citado primeiro no [[#art55_cpt_inc4|art. 55]].
+Diretrizes do diagnóstico da situação atual do empreendimento. *(Tipo 2: irá para `normas/anexos/instrucao-normativa-iat-65-2025-anexo13.md`, com atividades: industria. Citado no [[#art55_cpt_inc4|art. 55]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
 
-### ANEXO XIV {#anx14}
-Tags: #anexo #anexo-pendente
+### ANEXO XIV {#anexo14}
+Tags: #anexo #anexo-pendente #anexo-normativo
 
-*Conteúdo não incluído no PDF de origem.* Título inferido: Padrões de lançamento de efluentes líquidos industriais. Citado primeiro no [[#art63_cpt|art. 63]].
+Padrões de lançamento de efluentes líquidos industriais. *(Tipo 3: conteúdo normativo, será listado aqui com IDs `anexo14_linN` / `anexo14_tabT_linN`. Citado no [[#art63_cpt|art. 63]]. Conteúdo pendente: anexo ausente no PDF de origem.)*
 
-### ANEXO XV {#anx15}
-Tags: #anexo #anexo-pendente
+### ANEXO XV {#anexo15}
+Tags: #anexo #modelo
 
-*Conteúdo não incluído no PDF de origem.* Título inferido: Modelo de ART ou documento equivalente com vínculo de cargo/função. Citado primeiro no [[#art21_cpt_inc14|art. 21]].
+Modelo de documento equivalente à Anotação de Responsabilidade Técnica (ART), com vínculo de cargo/função. *(Tipo 1. Nome conforme remissão do [[#art21_cpt_inc14|art. 21]]; anexo ausente no PDF de origem.)*
 
 ---
 
@@ -1306,7 +1306,7 @@ Pela hierarquia normativa, prevalece o decreto. A IN não foi alterada formalmen
 
 ## Notas de transcrição {#notas-transcricao}
 
-**Fonte:** PDF assinado digitalmente pelo Diretor-Presidente do IAT em 01/12/2025, com 73 páginas que terminam no art. 87 e na assinatura, e a indicação "Republique-se e registre-se". O PDF **não traz os Anexos I a XV**. A seção "Anexos" deste arquivo tem apenas âncoras, com títulos inferidos das remissões. A data de publicação no DIOE não consta do PDF.
+**Fonte:** PDF assinado digitalmente pelo Diretor-Presidente do IAT em 01/12/2025, com 73 páginas que terminam no art. 87 e na assinatura, e a indicação "Republique-se e registre-se". O PDF **não traz os Anexos I a XV**. Na seção "Anexos", os modelos (tipo 1) foram nomeados pelas remissões do texto; os demais têm só a classificação e ficam pendentes. A data de publicação no DIOE não consta do PDF.
 
 **Correções de extração** (conferidas nas imagens das páginas, sem mudar o texto):
 - Cinco hífens de fim de linha foram restaurados: "matéria-prima" (art. 3º, XVII), "Licença Prévia - LP" (art. 5º, I), "Compromisso - LAC" (art. 21), "Ampliação - LASA" (art. 42) e "Ampliação - LPA" (art. 51).

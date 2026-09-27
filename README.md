@@ -6,8 +6,10 @@ Normas de licenciamento ambiental convertidas em Markdown, uma norma por arquivo
 
 ```
 normas/            um arquivo .md por norma
+normas/anexos/     anexos de diretrizes de estudos e termos de referência (tipo 2), um arquivo por anexo
 scripts/validar.py validação da base (rodar antes de cada commit)
 tags.md            lista das tags em uso (gerada pelo script)
+glossario.md       termos técnicos já pesquisados, com fonte (reaproveitado pelos agentes)
 ```
 
 ## Padrão das normas
@@ -68,6 +70,44 @@ Títulos, capítulos e seções usam `##`, `###`, `####` e `#####`; artigos usam
 
 ### Fidelidade ao texto
 O texto é transcrito **exatamente como publicado**, com os erros do original. Os erros ficam registrados na seção final `## Notas de transcrição`, e os links seguem a letra da norma, salvo exceção registrada nessa seção.
+
+## Anexos
+
+Todo anexo tem uma seção no arquivo da norma: `### ANEXO V {#anexo5}`. O tratamento depende do conteúdo, e um mesmo anexo pode combinar tipos (cada parte segue a sua regra).
+
+### Tipo 1: modelos (declarações, certidões, formulários, ART)
+O conteúdo não é transcrito. A seção traz só uma linha: `Modelo de declaração de <nome da declaração>` (ou `Modelo de certidão de ...`, `Modelo de ...`), usando o nome dado pelo próprio texto da norma.
+
+### Tipo 2: diretrizes de estudos técnicos e termos de referência
+Vão para um arquivo próprio em `normas/anexos/<arquivo-da-norma>-anexoN.md`, invocado só quando a atividade corresponde. No arquivo da norma, a seção do anexo tem apenas o título e o link para esse arquivo.
+
+Frontmatter do arquivo do anexo:
+```yaml
+anexo: ANEXO VIII
+norma_mae: "[[instrucao-normativa-iat-65-2025]]"
+arquivo: instrucao-normativa-iat-65-2025-anexo8
+tipo_anexo: diretriz-estudo            # diretriz-estudo | termo-referencia
+estudo: PBCA                           # sigla do estudo
+atividades: [industria]                # atividades às quais o anexo se aplica
+modalidades: [las, lasa, lasr]         # licenças em que o estudo é exigido
+tags: [...]
+```
+Corpo, em duas partes separadas:
+1. `## Texto do anexo`: transcrição fiel, com IDs `anexo8_lin1`, `anexo8_tab2_lin3`.
+2. `## Síntese do conversor (não é texto normativo)`: o que o estudo deve conter, organizado por tópico, com os termos técnicos explicados e as **fontes citadas**. Os termos pesquisados entram também no `glossario.md`.
+
+Procedimento (subagentes): (a) localizar a atividade e as modalidades a que o anexo se aplica; (b) interpretação do texto técnico; (c) pesquisa na web dos termos e expressões sem contexto, consultando antes o `glossario.md`; (d) organização em Markdown no padrão da base.
+
+### Tipo 3: conteúdo normativo (definições institucionais, regulamentações, limites quantitativos, condições, enquadramento)
+É tratado como norma, igual ao corpo principal, e fica no arquivo da norma como lista, uma entrada por disposição ou linha de tabela:
+- disposição do texto do anexo: `{#anexo5_lin2}` (2ª disposição do ANEXO V);
+- linha de tabela: `{#anexo5_tab3_lin2}` (2ª linha da Tabela 3 do ANEXO V).
+
+Cada entrada é autossuficiente: células mescladas são desfeitas repetindo o valor em cada linha, linhas partidas entre páginas são unidas e cabeçalhos repetidos por página são removidos (registrar isso nas Notas de transcrição). Formato de uma linha de tabela:
+```markdown
+- **Anexo II, Tabela 1, linha 6** {#anexo2_tab1_lin6} #industria-madeira Tipologia: Ind. da madeira | Atividade: Fabricação de móveis com predominância de madeira | Limite: Área até 2.000 m²; Não utilize matéria prima de origem nativa.
+```
+Tabelas são lidas das imagens das páginas, não do texto extraído, e o número de linhas é conferido contra o PDF.
 
 ## Alterações e revogações (texto compilado)
 
