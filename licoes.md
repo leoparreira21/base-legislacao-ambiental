@@ -21,17 +21,21 @@ Formato: uma lição por item, com data, contexto e o que fazer.
 
 - 2026-09-27, RDC Anvisa 222/2018 Comentada (texto justificado): o `get_text()` do PyMuPDF quebra as linhas justificadas em pedaços ("encaminhados \npara \nreciclagem") e mistura numeral e texto de incisos que ficam em colunas. Fazer: ler com `get_text('dict')`, agrupar os pedaços pela linha de base (tolerância de uns 4 pt) e marcar fim de parágrafo quando a linha termina antes da margem direita.
 - 2026-09-27, versão comentada de uma norma: separar comentário de dispositivo por alinhamento com o texto oficial já estruturado (texto normalizado só com letras e números; início pelos primeiros 40 caracteres do dispositivo, fim pelos últimos 30), não por regex de "Art."/"§". Onde a versão comentada muda o final do dispositivo, cortar palavras do fim até achar o término. Conferir depois as diferenças de texto entre as duas versões e registrá-las nas notas.
+- 2026-09-27, IN IAT 25/2025 (texto com expoente): o expoente de "10⁻⁵" sai no PyMuPDF numa linha de base própria e cai no meio da linha seguinte ("que -5 garantam ... de 10 ."). Fazer: procurar tokens numéricos soltos com sinal e recolocá-los como sobrescrito, conferindo na imagem.
+- 2026-09-27, IN IAT 25/2025: linha que começa com remissão ("Art. 17 do Decreto ...") foi lida como artigo novo e duplicou IDs. Fazer: no reconhecimento de artigo, exigir que o número não seja seguido de "do"/"da" (`Art\. ?\d+(?!\d)(?!º? d[oa] )`).
 
 ## Anexos
 
 - 2026-09-27, CONAMA 357/2005 e 430/2011: as tabelas de padrões ficam no corpo dos artigos, não em anexos, e o README só previa IDs `anexoN_tabT_linM`. Fazer: usar `artN_tabT_linM` (T = número da tabela no original), com as mesmas regras do tipo 3. Proposta incluída no README.
 - 2026-09-27, IN IAT 11/2026, tabela de 118 páginas: `find_tables()` fragmentou as células (grade irregular). Fazer: usar como faixas de linha os segmentos verticais da borda esquerda da tabela (`get_drawings()`), atribuir os caracteres às colunas pelo x das linhas verticais, unir as faixas sem código na 1ª coluna à linha anterior (continuação entre páginas) e conferir a contagem de linhas contra os códigos distintos do `pdftotext`.
 - 2026-09-27, "ANEXO ÚNICO": o README só prevê `anexoN`. Usado `anexo1` e `anexo1_tab1_linM` (tabela sem título tratada como Tabela 1). Inciso sem número no original (IN IAT 11/2026, art. 3º, "forma de atuação" entre VIII e IX): usado `art3_cpt_inc8-a`, registrado nas Notas. Proposta: incluir as duas convenções no README.
+- 2026-09-27, IN IAT 25/2025, seis termos de referência convertidos por subagentes em paralelo: três deles pesquisaram o mesmo termo (coeficiente k), e dois, a caixa SAO. Fazer: cada subagente grava os termos novos num glossário parcial (`work/glossario-anexoN.md`) em vez de editar `glossario.md`; o agente principal funde as linhas repetidas e ordena o glossário antes do commit. Passar ao subagente os IDs dos dispositivos da norma-mãe que exigem o anexo, para os links "Exigido em".
 
 ## Alterações e revogações
 
 - 2026-09-27, Lei 9.433/1997: um mesmo dispositivo teve várias redações sucessivas (MP 870/2019, Lei 13.844/2019, MP 1.154/2023, Lei 14.600/2023), e o README só previa "Redação original". Fazer: após a redação original, listar as intermediárias como `> Redação anterior: ~~...~~ *(Redação dada pela [[...]])*` e registrá-las no Histórico como "Redação intermediária (substituída)". Proposta incluída no README.
 - 2026-09-27, CONAMA 430/2011 × 357/2005: revogação parcial feita por norma que está na base. Fazer: como no Decreto 12.799/2026, a norma nova vai em `altera` (não em `revoga`), e a afetada recebe `alterado_por`, com os dispositivos tachados e `#revogado`.
+- 2026-09-27, IN IAT 25/2025 (republicação): a norma "torna sem efeito" duas publicações anteriores com o mesmo número e ano, o que faria o nome de arquivo colidir. Fazer: registrar em `revoga` com nome provisório `<arquivo>-dioe-<nº do DIOE>` e levar a decisão ao usuário.
 
 ## Validação
 
