@@ -16,7 +16,6 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#analise-tecnica` | 2 |
 | `#anexo` | 1 |
 | `#anexo-normativo` | 1 |
-| `#anexo-pendente` | 1 |
 | `#anuencia` | 3 |
 | `#aplicacao-subsidiaria` | 1 |
 | `#app` | 2 |
@@ -166,10 +165,13 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#industria` | 1 |
 | `#industria-alimenticia` | 1 |
 | `#industria-bebidas` | 1 |
+| `#industria-borracha` | 1 |
+| `#industria-couro` | 1 |
 | `#industria-eletrica` | 1 |
 | `#industria-farmaceutica` | 1 |
 | `#industria-fumo` | 1 |
 | `#industria-madeira` | 1 |
+| `#industria-material-transporte` | 1 |
 | `#industria-mecanica` | 1 |
 | `#industria-metalurgica` | 1 |
 | `#industria-quimica` | 1 |
