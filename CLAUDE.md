@@ -5,6 +5,7 @@ Antes de converter ou atualizar qualquer norma, leia o README.md: ele define o p
 Regras principais:
 - Nunca apague o arquivo de uma norma alterada ou revogada. Atualize-o como texto compilado.
 - Transcreva o texto exatamente como publicado e registre os erros do original em "Notas de transcrição".
+- Anexos: siga a seção "Anexos" do README (tipo 1: modelo, só o nome; tipo 2: diretriz de estudo, arquivo próprio em normas/anexos/ com síntese separada e fontes; tipo 3: normativo, lista com IDs anexoN_linM ou anexoN_tabT_linM). Consulte glossario.md antes de pesquisar termos na web.
 - Rode `python scripts/validar.py` e só faça commit com 0 erros.
 - Mostre as mudanças ao usuário antes do commit e sinalize revogação tácita, remissões erradas e vigência diferida.
 - Mensagem de commit: `norma: <arquivo> (nova | altera <arquivo> | revoga <arquivo>)`.

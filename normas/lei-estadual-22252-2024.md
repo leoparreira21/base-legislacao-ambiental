@@ -474,7 +474,7 @@ Tags: #responsabilidade #informacao-falsa #autodeclaracao #crime-ambiental #sanc
 
 **Art. 47, caput** {#art47_cpt} Os responsáveis pelo licenciamento ambiental, pelas informações prestadas, pela elaboração de estudos ambientais e documentos, bem como pelo requerimento assumem responsabilidade civil, administrativa e penal pelas informações autodeclaradas e informadas.
 
-**Art. 47, parágrafo único** {#art47_par1u} #crime-ambiental Sujeita-se às sanções legalmente aplicáveis previstas no [[lei-federal-9605-1998#art69a|art. 69 da Lei Federal nº 9.605, de 1998]], quando elaborar ou apresentar, no licenciamento ou qualquer outro procedimento administrativo associado, documentos com informações falsas ou enganosas, inclusive por omissão.
+**Art. 47, parágrafo único** {#art47_par1u} #crime-ambiental Sujeita-se às sanções legalmente aplicáveis previstas no [[lei-federal-9605-1998#art69-a|art. 69 da Lei Federal nº 9.605, de 1998]], quando elaborar ou apresentar, no licenciamento ou qualquer outro procedimento administrativo associado, documentos com informações falsas ou enganosas, inclusive por omissão.
 
 ###### Art. 48 {#art48}
 Tags: #informacao-falsa #auto-infracao #cancelamento-licenca #ministerio-publico
@@ -539,5 +539,5 @@ Fonte: versão de impressão do Portal da Legislação do Paraná, que traz o av
 - Art. 27: remete ao "caput do art. 27", ou seja, a si mesmo. Pelo contexto, o correto seria o art. 26.
 - Art. 31: remete ao "art. 31", ou seja, a si mesmo. Pelo contexto, o correto seria o art. 30 (o [[decreto-estadual-9541-2025#art125_cpt|art. 125 do Decreto 9.541/2025]] cita corretamente o art. 30).
 - Art. 39: "Lei Federal nº º 12.527, de 18 de novembro de 2021". A Lei de Acesso à Informação é de 18/11/2011; o link aponta para `lei-federal-12527-2011`.
-- Art. 47, parágrafo único: o "art. 69" da Lei 9.605/1998 que tipifica informação falsa no licenciamento é o art. 69-A. O link aponta para `#art69a`; se preferir seguir a letra da lei, troque para `#art69`.
+- Art. 47, parágrafo único: o "art. 69" da Lei 9.605/1998 que tipifica informação falsa no licenciamento é o art. 69-A. O link aponta para `#art69-a`; se preferir seguir a letra da lei, troque para `#art69`.
 - Art. 51: "Fica resguardando" (provável "resguardado").
