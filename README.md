@@ -55,6 +55,8 @@ As relações são **recíprocas**: se A `altera` B, B tem A em `alterado_por`. 
 | Alínea | `art5_cpt_inc3_alia` | `  - **Art. 5º, caput, inciso III, alínea "a"** {#art5_cpt_inc3_alia}` |
 | Item | `art5_cpt_inc3_alia_ite1` | |
 | Artigo com letra (Art. 5º-A) | `art5-a` | |
+| Tabela no corpo de um artigo | `art14_tab1` | `**Art. 14, Tabela I**` |
+| Linha de tabela no corpo de um artigo | `art14_tab1_lin3` | `- **Art. 14, Tabela I, linha 3**` |
 
 Títulos, capítulos e seções usam `##`, `###`, `####` e `#####`; artigos usam `######`. Abaixo do cabeçalho de cada artigo vai uma linha `Tags:` com as tags do artigo inteiro.
 
@@ -110,13 +112,18 @@ Cada entrada é autossuficiente: células mescladas são desfeitas repetindo o v
 ```
 Tabelas são lidas das imagens das páginas, não do texto extraído, e o número de linhas é conferido contra o PDF.
 
+Tabelas que ficam no corpo de um artigo (e não num anexo), como os padrões de qualidade das resoluções CONAMA, seguem as mesmas regras, com ID `artN_tabT_linM`, em que T é o número da tabela no original (Tabela I = 1). Formato:
+```markdown
+- **Art. 14, Tabela I, linha 4** {#art14_tab1_lin4} PARÂMETROS INORGÂNICOS: Alumínio dissolvido | VALOR MÁXIMO: 0,1 mg/L Al
+```
+
 ## Alterações e revogações (texto compilado)
 
 Quando uma norma nova altera, acrescenta ou revoga dispositivos de outra, **o arquivo da norma afetada é atualizado, nunca apagado**. O texto antigo ainda rege processos protocolados antes da mudança (ver, por exemplo, o art. 173 do Decreto 9.541/2025), e outras normas linkam para ele.
 
 | Caso | Como fica no arquivo da norma afetada |
 |---|---|
-| Nova redação | O texto novo fica no lugar, seguido de `*(Redação dada pelo [[norma-nova#artN\|Decreto nº X/AAAA]])*`. A redação original fica logo abaixo, tachada: `> Redação original: ~~...~~`. O dispositivo recebe `#redacao-alterada`. |
+| Nova redação | O texto novo fica no lugar, seguido de `*(Redação dada pelo [[norma-nova#artN\|Decreto nº X/AAAA]])*`. A redação original fica logo abaixo, tachada: `> Redação original: ~~...~~`. Se houve mais de uma alteração, as redações intermediárias vêm em seguida, na ordem: `> Redação anterior: ~~...~~ *(Redação dada pela [[...]])*`. O dispositivo recebe `#redacao-alterada`. |
 | Dispositivo acrescentado | É inserido na posição correta, com ID novo, `#incluido` e `*(Incluído pelo [[...]])*`. |
 | Revogação de dispositivo | O texto fica tachado `~~...~~`, com `#revogado` e `*(Revogado pelo [[...]])*`. O ID não muda. |
 | Revogação total | O arquivo é mantido, com `situacao: revogada` e `revogado_por` preenchido. |
