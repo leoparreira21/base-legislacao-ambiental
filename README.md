@@ -10,6 +10,7 @@ normas/anexos/     anexos de diretrizes de estudos e termos de referência (tipo
 scripts/validar.py validação da base (rodar antes de cada commit)
 tags.md            lista das tags em uso (gerada pelo script)
 glossario.md       termos técnicos já pesquisados, com fonte (reaproveitado pelos agentes)
+licoes.md          armadilhas e contornos registrados pelos agentes (ver CLAUDE.md)
 ```
 
 ## Padrão das normas
