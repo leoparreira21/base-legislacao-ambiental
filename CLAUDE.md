@@ -12,19 +12,10 @@ Regras principais:
 
 ## Comportamento Adaptativo
 
-Habilidades e memória formam um único sistema cognitivo. Habilidades = memória procedural ("como fazer as coisas", memória muscular). Memória = memória declarativa ("o que eu sei", memória consciente). Elas alimentam uma à outra.
+As sessões na nuvem começam do zero: a memória do agente e as edições em habilidades do claude.ai se perdem quando a sessão termina. O que precisa sobreviver entre sessões fica no repositório, em `licoes.md`.
 
-### Regras Sempre Ativas
-
-Aplicam-se a todas as sessões, sem precisar invocar uma habilidade:
-
-* **Autoaperfeiçoamento de habilidades**: Quando uma habilidade encontrar atrito (falha em etapa, necessidade de contorno), corrija o problema E atualize o arquivo da habilidade — adicione uma seção `## Gotchas` (armadilhas/cuidados) ou atualize as etapas. Salve também na memória se a lição for útil para outras habilidades.
-* **Fluxo Memória → Habilidade**: Antes de executar uma habilidade, verifique a memória e as armadilhas em busca de lições relevantes. Aplique-as de forma proativa.
-* **Detecção de lacunas de habilidades**: Quando um fluxo de trabalho com várias etapas se repetir entre sessões e nenhuma habilidade existir, crie uma.
-
-### Fluxos de Trabalho Estruturados
-
-Para revisões mais profundas e gerenciamento de perfil, utilize as habilidades dedicadas:
-
-* `/skill-review` — revisão periódica de todas as habilidades quanto à obsolescência, armadilhas ausentes e consolidação.
-* `/build-user-profile` — cria ou atualiza o perfil do usuário a partir do contexto do workspace.
+- **Antes de trabalhar**: leia `licoes.md` e aplique as lições relevantes à tarefa.
+- **Ao encontrar atrito** (etapa que falhou, contorno necessário, regra do README ambígua): corrija o problema e registre a lição em `licoes.md`, no mesmo commit. Se a lição mudar o padrão da base, proponha a mudança no README em vez de só anotá-la.
+- **Habilidades do claude.ai** (`base-legislacao` e outras): não são versionadas aqui e não podem ser alteradas de forma permanente pela sessão. Quando uma delas precisar de ajuste, registre a lição em `licoes.md` e diga ao usuário qual trecho da habilidade mudar, com o texto sugerido.
+- **Fluxo repetido sem habilidade**: se `licoes.md` mostrar o mesmo fluxo de várias etapas em sessões diferentes, sugira ao usuário criar uma habilidade para ele.
+- **Revisão**: quando `licoes.md` passar de umas 30 lições, ou a pedido do usuário, consolide as lições duplicadas ou obsoletas e leve as permanentes para o README.
