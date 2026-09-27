@@ -7,6 +7,7 @@ Normas de licenciamento ambiental convertidas em Markdown, uma norma por arquivo
 ```
 normas/            um arquivo .md por norma
 normas/anexos/     anexos de diretrizes de estudos e termos de referência (tipo 2), um arquivo por anexo
+normas/comentarios/ comentários oficiais a uma norma (ex.: versão comentada da Anvisa), um arquivo por documento
 scripts/validar.py validação da base (rodar antes de cada commit)
 tags.md            lista das tags em uso (gerada pelo script)
 glossario.md       termos técnicos já pesquisados, com fonte (reaproveitado pelos agentes)
@@ -116,6 +117,32 @@ Tabelas que ficam no corpo de um artigo (e não num anexo), como os padrões de 
 ```markdown
 - **Art. 14, Tabela I, linha 4** {#art14_tab1_lin4} PARÂMETROS INORGÂNICOS: Alumínio dissolvido | VALOR MÁXIMO: 0,1 mg/L Al
 ```
+
+## Comentários oficiais
+
+Documentos interpretativos publicados pelo órgão (por exemplo, a "RDC nº 222/2018 Comentada" da Anvisa) não são texto normativo e ficam separados da norma, em `normas/comentarios/<arquivo-da-norma>-coment.md`.
+
+Frontmatter:
+```yaml
+documento: RDC nº 222/2018 Comentada
+norma_mae: "[[rdc-anvisa-222-2018]]"
+arquivo: rdc-anvisa-222-2018-coment
+tipo_documento: comentario
+autor: "..."
+data: 2018-06-11
+natureza: "Orientação interpretativa ..., sem força normativa."
+cita: [...]
+tags: [...]
+fonte: "..."
+```
+
+Cada comentário leva o ID do dispositivo comentado com o sufixo `_coment` e começa com o link direto para ele:
+```markdown
+**Comentário: Art. 5º, § 1º** {#art5_par1_coment} → [[rdc-anvisa-222-2018#art5_par1|Art. 5º, § 1º]]
+
+Texto do comentário...
+```
+Na norma, o dispositivo comentado termina com o link de volta: `[[rdc-anvisa-222-2018-coment#art5_par1_coment|(comentário)]]`, e o frontmatter da norma aponta o arquivo em `comentarios:`. Comentários gerais de capítulo ou seção usam o ID do título na norma (`cap3_sec1` → `cap3_sec1_coment`); por isso, nas normas com comentários, capítulos e seções recebem ID (`## CAPÍTULO III – ... {#cap3}`, `### Seção I – ... {#cap3_sec1}`). O arquivo de comentários não repete o texto dos dispositivos: vale o texto oficial, e as diferenças entre a versão comentada e a oficial ficam nas notas de transcrição da norma. O `validar.py` confere se cada `X_coment` tem o dispositivo `X` na norma-mãe.
 
 ## Alterações e revogações (texto compilado)
 
