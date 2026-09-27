@@ -611,7 +611,7 @@ Tags: #lac #licenciamento-monofasico #potencial-poluidor #declaracao-adesao-comp
   - **Art. 64, caput, inciso I, alínea "f"** {#art64_cpt_inc1_alif} #cavidade-natural cavidades naturais subterrâneas;
   - **Art. 64, caput, inciso I, alínea "g"** {#art64_cpt_inc1_alig} #bem-cultural áreas de bens culturais acautelados;
   - **Art. 64, caput, inciso I, alínea "h"** {#art64_cpt_inc1_alih} #terra-indigena #quilombola #comunidade-tradicional Terras Indígenas, quilombolas e de comunidades tradicionais;
-  - **Art. 64, caput, inciso I, alínea "i"** {#art64_cpt_inc1_alii} #area-risco áreas suscetíveis à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos, conforme previstas no [[lei-federal-10257-2001#art42a|art. 42A da Lei Federal 10.257, de 10 de julho de 2001]];
+  - **Art. 64, caput, inciso I, alínea "i"** {#art64_cpt_inc1_alii} #area-risco áreas suscetíveis à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos, conforme previstas no [[lei-federal-10257-2001#art42-a|art. 42A da Lei Federal 10.257, de 10 de julho de 2001]];
 - **Art. 64, caput, inciso II** {#art64_cpt_inc2} #supressao-vegetacao não haja necessidade de supressão de vegetação nativa;
 - **Art. 64, caput, inciso III** {#art64_cpt_inc3} #car possuir inscrição no Cadastro Ambiental Rural - CAR, em se tratando de área rural.
 
