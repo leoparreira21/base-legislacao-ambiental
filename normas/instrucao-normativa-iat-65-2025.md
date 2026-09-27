@@ -1541,7 +1541,7 @@ Pela hierarquia normativa, prevalece o decreto. A IN não foi alterada formalmen
   - Anexo II, linha 81: "Área até 80.000 m²", valor muito acima das demais linhas.
   - Anexo XIV: "SUCROALCOLEIRA" (linhas 10 a 12) e "gosduras" (linha 24).
   - Anexo XIV, galvanotécnica: "Cianeto total" aparece duas vezes, nas linhas 43 e 46.
-  - Anexos VIII e IX: as Figuras 1 e 2 não vêm no texto de origem.
+  - Anexos VIII e IX: as Figuras 1 e 2, iguais entre si, não vêm no texto de origem. Foram transcritas de imagem enviada pelo usuário como Tabela 2 de cada anexo.
   - As observações dos anexos ainda mencionam o "IAP".
 - Remissões a normas dos anexos que mudaram (detalhes no `glossario.md`):
   - O art. 34 da Res. CONAMA 357/2005 foi revogado pela Res. CONAMA 430/2011; o equivalente é o art. 16.

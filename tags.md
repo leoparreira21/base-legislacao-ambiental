@@ -62,6 +62,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#certidao` | 1 |
 | `#certidao-municipal` | 3 |
 | `#certidao-negativa-debito` | 1 |
+| `#classe-risco-solo` | 2 |
 | `#cnpj` | 2 |
 | `#comissionamento` | 1 |
 | `#competencia` | 2 |
@@ -94,6 +95,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#dcp` | 1 |
 | `#debito-ambiental` | 2 |
 | `#declaracao-adesao-compromisso` | 3 |
+| `#declividade` | 2 |
 | `#deferimento` | 2 |
 | `#defesa` | 1 |
 | `#defesa-civil` | 1 |
@@ -151,6 +153,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#geologia` | 1 |
 | `#georreferenciamento` | 1 |
 | `#grau-impacto` | 1 |
+| `#hidromorfismo` | 2 |
 | `#iat` | 1 |
 | `#ibama` | 1 |
 | `#imagem-satelite` | 1 |
@@ -178,6 +181,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#infracao-ambiental` | 3 |
 | `#interesse-publico` | 1 |
 | `#interesse-social` | 3 |
+| `#inundacao` | 2 |
 | `#inventario-residuos` | 1 |
 | `#iphan` | 2 |
 | `#isencao` | 1 |
@@ -251,6 +255,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#pbca` | 1 |
 | `#pca` | 1 |
 | `#pcpa` | 2 |
+| `#pedregosidade` | 2 |
 | `#pendencia-judicial` | 3 |
 | `#pgr` | 2 |
 | `#pgrcc` | 1 |
@@ -277,6 +282,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#processo-administrativo` | 1 |
 | `#processo-unico` | 2 |
 | `#procuracao` | 2 |
+| `#profundidade-solo` | 2 |
 | `#prognostico-ambiental` | 1 |
 | `#projeto-executivo` | 1 |
 | `#prorrogacao` | 3 |
@@ -349,6 +355,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#termo-responsabilidade-solidaria` | 1 |
 | `#terra-indigena` | 3 |
 | `#terraplanagem` | 1 |
+| `#textura-solo` | 2 |
 | `#tipologia` | 2 |
 | `#tombamento` | 1 |
 | `#transferencia-titularidade` | 1 |
