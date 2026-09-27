@@ -9,7 +9,8 @@ Uso:
         # revogados ou alterados da NORMA (ex.: decreto-estadual-9541-2025)
 
 Verificações (erro = código de saída 1):
-  - frontmatter com os campos obrigatórios e 'situacao' válida (normas/ e normas/anexos/)
+  - frontmatter com os campos obrigatórios e 'situacao' válida (normas/, normas/anexos/ e normas/comentarios/)
+  - comentários oficiais (normas/comentarios/): cada ID "X_coment" corresponde a um dispositivo X da norma_mae
   - nome do arquivo igual ao campo 'arquivo'
   - IDs {#...} únicos no arquivo
   - rótulo "**Art. N..." coerente com o ID "artN..."
@@ -25,12 +26,14 @@ PASTA = os.path.join(RAIZ, "normas")
 OBRIGATORIOS = ["norma", "arquivo", "tipo", "esfera", "numero", "ano", "ementa", "situacao",
                 "regulamenta", "altera", "alterado_por", "revoga", "revogado_por", "cita", "tags", "fonte"]
 OBRIGATORIOS_ANEXO = ["anexo", "norma_mae", "arquivo", "tipo_anexo", "estudo", "atividades", "modalidades", "tags"]
+OBRIGATORIOS_COMENT = ["documento", "norma_mae", "arquivo", "tipo_documento", "autor", "data", "natureza", "tags", "fonte"]
 SITUACOES = {"vigente", "revogada"}
 
 
 def carregar():
     normas = {}
-    for f in sorted(glob.glob(os.path.join(PASTA, "*.md")) + glob.glob(os.path.join(PASTA, "anexos", "*.md"))):
+    for f in sorted(glob.glob(os.path.join(PASTA, "*.md")) + glob.glob(os.path.join(PASTA, "anexos", "*.md"))
+                    + glob.glob(os.path.join(PASTA, "comentarios", "*.md"))):
         t = open(f, encoding="utf-8").read()
         if not t.startswith("---\n"):
             normas[os.path.basename(f)[:-3]] = {"fm": {}, "corpo": t, "erro_fm": True}
@@ -60,8 +63,9 @@ def validar(normas):
         fm, corpo = d["fm"], d["corpo"]
         if d["erro_fm"]:
             erros.append(f"{n}: sem frontmatter"); continue
-        e_anexo = "norma_mae" in fm
-        for c in (OBRIGATORIOS_ANEXO if e_anexo else OBRIGATORIOS):
+        e_coment = fm.get("tipo_documento") == "comentario"
+        e_anexo = "norma_mae" in fm and not e_coment
+        for c in (OBRIGATORIOS_COMENT if e_coment else OBRIGATORIOS_ANEXO if e_anexo else OBRIGATORIOS):
             if c not in fm:
                 erros.append(f"{n}: campo '{c}' ausente no frontmatter")
         if e_anexo:
@@ -70,6 +74,14 @@ def validar(normas):
                 erros.append(f"{n}: norma_mae {mae} não está na base")
             if "Síntese do conversor (não é texto normativo)" not in corpo:
                 erros.append(f"{n}: falta a seção '## Síntese do conversor (não é texto normativo)'")
+        if e_coment:
+            mae = lista(fm.get("norma_mae"))
+            if not mae or mae[0] not in normas:
+                erros.append(f"{n}: norma_mae {mae} não está na base")
+            else:
+                for i in ids[n]:
+                    if i.endswith("_coment") and i[:-7] not in ids[mae[0]]:
+                        erros.append(f"{n}: comentário {i} sem dispositivo {i[:-7]} em {mae[0]}")
         if fm.get("arquivo") and fm["arquivo"] != n:
             erros.append(f"{n}: campo 'arquivo' ({fm['arquivo']}) difere do nome do arquivo")
         if fm.get("situacao") and fm["situacao"] not in SITUACOES:
