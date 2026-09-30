@@ -71,6 +71,7 @@ Títulos, capítulos e seções usam `##`, `###`, `####` e `#####`; artigos usam
 - Formato: minúsculas, sem acento, singular, hífen entre palavras (`#supressao-vegetacao`).
 - Reaproveite as tags de `tags.md` antes de criar uma nova.
 - Tags de controle: `#revogado`, `#redacao-alterada`, `#incluido`.
+- Controle de constitucionalidade: expressões declaradas inconstitucionais que a fonte mostra tachadas no meio do texto em vigor (como faz o Planalto) são transcritas tachadas (`~~...~~`) e o dispositivo recebe `#inconstitucional`. As anotações do Planalto "(Vide ADC ...)" e "(Vide ADIN ...)" ficam em itálico após o texto, e o dispositivo recebe `#controle-constitucionalidade`.
 
 ### Fidelidade ao texto
 O texto é transcrito **exatamente como publicado**, com os erros do original. Os erros ficam registrados na seção final `## Notas de transcrição`, e os links seguem a letra da norma, salvo exceção registrada nessa seção.
@@ -154,6 +155,8 @@ Quando uma norma nova altera, acrescenta ou revoga dispositivos de outra, **o ar
 | Dispositivo acrescentado | É inserido na posição correta, com ID novo, `#incluido` e `*(Incluído pelo [[...]])*`. |
 | Revogação de dispositivo | O texto fica tachado `~~...~~`, com `#revogado` e `*(Revogado pelo [[...]])*`. O ID não muda. |
 | Revogação total | O arquivo é mantido, com `situacao: revogada` e `revogado_por` preenchido. |
+
+Se a fonte não trouxer a redação anterior (por exemplo, texto compilado impresso sem as redações tachadas), a linha fica `> Redação original: *pendente — não consta do PDF ...*`, o dispositivo é listado nas Notas de transcrição e a pendência é levada ao usuário. Nunca reconstruir a redação de memória.
 
 Além disso:
 - A linha `Alterações:` abaixo das `Tags:` do artigo resume o que mudou.
