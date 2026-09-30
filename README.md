@@ -113,7 +113,7 @@ Cada entrada é autossuficiente: células mescladas são desfeitas repetindo o v
 ```
 Tabelas são lidas das imagens das páginas, não do texto extraído, e o número de linhas é conferido contra o PDF.
 
-Tabelas que ficam no corpo de um artigo (e não num anexo), como os padrões de qualidade das resoluções CONAMA, seguem as mesmas regras, com ID `artN_tabT_linM`, em que T é o número da tabela no original (Tabela I = 1). Formato:
+Tabelas que ficam no corpo de um artigo (e não num anexo), como os padrões de qualidade das resoluções CONAMA, seguem as mesmas regras, com ID `artN_tabT_linM`, em que T é o número da tabela no original (Tabela I = 1). Tabela sem título nem número no original (em artigo ou anexo) é numerada pelo conversor na ordem em que aparece na norma, com um título descritivo marcado "(sem título no original)", e o tratamento fica registrado nas Notas de transcrição. Formato:
 ```markdown
 - **Art. 14, Tabela I, linha 4** {#art14_tab1_lin4} PARÂMETROS INORGÂNICOS: Alumínio dissolvido | VALOR MÁXIMO: 0,1 mg/L Al
 ```
