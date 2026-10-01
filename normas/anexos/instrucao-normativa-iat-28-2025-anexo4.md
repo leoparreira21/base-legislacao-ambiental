@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Laudo de conclusão de obra
 atividades: [armazenamento-agrotoxico]
 modalidades: [las, lasa, lo, loa]
-tags: [anexo, termo-referencia, laudo-tecnico, conclusao-obra, art-anotacao, responsavel-tecnico, registro-fotografico, armazenamento-agrotoxico]
+tags: [anexo, termo-referencia, laudo-tecnico, laudo-conclusao-obra, art-anotacao, responsavel-tecnico, registro-fotografico, armazenamento-agrotoxico]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), página 80
 ---
 
@@ -26,7 +26,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo IV, linha 5** {#anexo4_lin5} #responsavel-tecnico Responsável Técnico:
 - **Anexo IV, linha 6** {#anexo4_lin6} #responsavel-tecnico CREA:
 - **Anexo IV, linha 7** {#anexo4_lin7} 2 OBJETO DO LAUDO
-- **Anexo IV, linha 8** {#anexo4_lin8} #medida-mitigadora #controle-ambiental Este laudo visa atestar a conclusão da obra em conformidade ambiental, conforme estabelecido no projeto aprovado, no processo de licenciamento ambiental, bem como em conformidade com as legislações vigentes pertinentes, incluindo medidas de mitigação e controle de impactos ambientais.
+- **Anexo IV, linha 8** {#anexo4_lin8} #laudo-conclusao-obra #medida-mitigadora #controle-ambiental Este laudo visa atestar a conclusão da obra em conformidade ambiental, conforme estabelecido no projeto aprovado, no processo de licenciamento ambiental, bem como em conformidade com as legislações vigentes pertinentes, incluindo medidas de mitigação e controle de impactos ambientais.
 - **Anexo IV, linha 9** {#anexo4_lin9} 3 DESCRIÇÃO DA OBRA
 - **Anexo IV, linha 10** {#anexo4_lin10} #ampliacao Tipo de Obra: Construção/Reforma ou ampliações
 - **Anexo IV, linha 11** {#anexo4_lin11} #ampliacao Área Total Construída: Área em m² total e/ou ampliações

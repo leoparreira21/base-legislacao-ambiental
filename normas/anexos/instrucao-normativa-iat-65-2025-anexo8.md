@@ -78,7 +78,7 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo VIII, linha 57** {#anexo8_lin57} i. Descrição do(s) sistema(s) de tratamento(s) adotado(s) para o tratamento de efluentes líquidos industriais;
 - **Anexo VIII, linha 58** {#anexo8_lin58} ii. Justificativa do sistema adotado;
 - **Anexo VIII, linha 59** {#anexo8_lin59} iii. Dimensionamento (memorial de cálculo) das unidades que compõem o sistema. No caso de o projeto prever a implantação de lagoas de estabilização, deverá ser apresentado relatório de caracterização do solo;
-- **Anexo VIII, linha 60** {#anexo8_lin60} iv. No caso específico de uso agrícola de efluentes líquidos industriais no solo, aplica-se o disposto no item 11;
+- **Anexo VIII, linha 60** {#anexo8_lin60} #uso-agricola-efluente iv. No caso específico de uso agrícola de efluentes líquidos industriais no solo, aplica-se o disposto no item 11;
 - **Anexo VIII, linha 61** {#anexo8_lin61} v. Caracterização do corpo receptor.
 - **Anexo VIII, linha 62** {#anexo8_lin62} No caso do efluente ser lançado em regime descontínuo ou em batelada, deverá ser prevista a implantação de pelo menos um tanque pulmão, para posterior lançamento no corpo hídrico, em regime de vazão constante, a qual deverá atender os critérios estabelecidos no artigo 34, da Resolução CONAMA 357/2005, bem como atenda a capacidade de diluição do corpo hídrico.
 - **Anexo VIII, linha 63** {#anexo8_lin63} 9. INFORMAÇÕES SOBRE EMISSÕES ATMOSFÉRICAS
@@ -102,10 +102,10 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo VIII, linha 81** {#anexo8_lin81} a. Informações sobre os resíduos sólidos gerados:
 - **Anexo VIII, linha 82** {#anexo8_lin82} i. Especificar e quantificar os resíduos sólidos gerados pelo empreendimento, indicando no mínimo: (i) código IBAMA, (ii) Resíduos Específico, (iii) Origem do resíduo, (iv) Quantificação diária estimada, (v) Tratamento e destinação final;
 - **Anexo VIII, linha 83** {#anexo8_lin83} ii. Dimensionamento (memorial de cálculo) das áreas de armazenamento de resíduos em conformidade com Normas Técnicas vigentes;
-- **Anexo VIII, linha 84** {#anexo8_lin84} 11. USO AGRÍCOLA DE EFLUENTES LÍQUIDOS E RESÍDUOS SÓLIDOS NO SOLO
-- **Anexo VIII, linha 85** {#anexo8_lin85} Considera-se disposição de efluentes líquidos e resíduos sólidos no solo para uso agrícola quando o despejo for aplicado no solo para fins agrícolas e florestais, como condicionador, fertilizante ou corretivo, de modo a proporcionar efeitos benéficos para o solo e para as espécies nele cultivadas.
+- **Anexo VIII, linha 84** {#anexo8_lin84} #uso-agricola-efluente 11. USO AGRÍCOLA DE EFLUENTES LÍQUIDOS E RESÍDUOS SÓLIDOS NO SOLO
+- **Anexo VIII, linha 85** {#anexo8_lin85} #uso-agricola-efluente Considera-se disposição de efluentes líquidos e resíduos sólidos no solo para uso agrícola quando o despejo for aplicado no solo para fins agrícolas e florestais, como condicionador, fertilizante ou corretivo, de modo a proporcionar efeitos benéficos para o solo e para as espécies nele cultivadas.
 - **Anexo VIII, linha 86** {#anexo8_lin86} Os padrões do efluente deverá atender ao disposto em normativas específicas do IAT.
-- **Anexo VIII, linha 87** {#anexo8_lin87} Os projetos que contemplem a disposição de efluentes líquidos e resíduos sólidos no solo para uso agrícola deverão conter, no mínimo, o seguinte:
+- **Anexo VIII, linha 87** {#anexo8_lin87} #uso-agricola-efluente Os projetos que contemplem a disposição de efluentes líquidos e resíduos sólidos no solo para uso agrícola deverão conter, no mínimo, o seguinte:
 - **Anexo VIII, linha 88** {#anexo8_lin88} i. Caracterização agronômica do efluente:
 - **Anexo VIII, linha 89** {#anexo8_lin89} − Proposta de monitoramento do efluente, estabelecendo periodicidade mínima anual, contemplando os seguintes parâmetros:
 - **Anexo VIII, linha 90** {#anexo8_lin90} • pH em água;

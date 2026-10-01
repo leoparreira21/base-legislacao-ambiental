@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RAP
 atividades: [armazenamento-agrotoxico]
 modalidades: [lp, lpa]
-tags: [anexo, termo-referencia, rap, estudo-ambiental, armazenamento-agrotoxico, agrotoxico, area-influencia, georreferenciamento, impacto-ambiental, matriz-impacto, residuo-solido, logistica-reversa, outorga, flora, fauna, supressao-vegetacao, emissao-atmosferica, poluicao-sonora, area-contaminada, socioeconomico]
+tags: [anexo, termo-referencia, rap, estudo-ambiental, armazenamento-agrotoxico, agrotoxico, area-influencia, georreferenciamento, impacto-ambiental, matriz-impacto, residuo-solido, logistica-reversa, outorga, flora, fauna, supressao-vegetacao, especie-ameacada, area-verde-urbana, emissao-atmosferica, poluicao-sonora, area-contaminada, socioeconomico]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), páginas 93 a 97
 ---
 

@@ -19,7 +19,7 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo X, linha 1** {#anexo10_lin1} Os Projetos de Isolamento Acústico destinados a proteção acústica em edificações ou equipamentos cujos índices sonoros emitidos pela atividade contrariam as disposições legais deverão ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo X, linha 1** {#anexo10_lin1} #isolamento-acustico Os Projetos de Isolamento Acústico destinados a proteção acústica em edificações ou equipamentos cujos índices sonoros emitidos pela atividade contrariam as disposições legais deverão ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 - **Anexo X, linha 2** {#anexo10_lin2} 1. INFORMAÇÕES CADASTRAIS
 - **Anexo X, linha 3** {#anexo10_lin3} a. Razão social;
 - **Anexo X, linha 4** {#anexo10_lin4} b. Nome Fantasia;
@@ -34,7 +34,7 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo X, linha 13** {#anexo10_lin13} c. Horário e dias de funcionamento do empreendimento.
 - **Anexo X, linha 14** {#anexo10_lin14} 3. INFORMAÇÕES SOBRE POLUIÇÃO SONORA
 - **Anexo X, linha 15** {#anexo10_lin15} a. Informações sobre índices sonoros gerados Relacionar os equipamentos geradores de ruído, com medição dos níveis de ruído dos equipamentos ou níveis previstos e índices sonoros medidos em pontos de medição externos, conforme exigências das legislações municipais ou, na ausência destas, conforme ABNT 10151/2019.
-- **Anexo X, linha 16** {#anexo10_lin16} b. Projeto de Isolamento Acústico
+- **Anexo X, linha 16** {#anexo10_lin16} #isolamento-acustico b. Projeto de Isolamento Acústico
 - **Anexo X, linha 17** {#anexo10_lin17} i. Descrição do Projeto de Isolamento Acústico proposto.
 - **Anexo X, linha 18** {#anexo10_lin18} ii. Especificação técnica dos materiais utilizados (informar o Rw e demais parâmetros necessários para o cálculo).
 - **Anexo X, linha 19** {#anexo10_lin19} iii. Justificativa da escolha dos materiais utilizados.
@@ -45,11 +45,11 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo X, linha 24** {#anexo10_lin24} Croqui de localização da atividade, indicando e especificando os vizinhos mais próximos (residência, comércio, indústria) e distâncias aproximadas.
 - **Anexo X, linha 25** {#anexo10_lin25} b. Das informações sobre poluição sonora:
 - **Anexo X, linha 26** {#anexo10_lin26} i. Croqui localizando os equipamentos sonoros relacionados no item 2-b e definindo pontos externos conforme Resolução CONAMA 01 de 08/03/1990 e respectivas NBRs 10151 (deverá ser anexado croqui com os pontos e medições efetuados, bem como tipo e modelo do equipamento utilizado). O equipamento deve atender a IEC 61672 em todas as partes, sendo necessparia a apresentação do certificado de aprovação do modelo.
-- **Anexo X, linha 27** {#anexo10_lin27} ii. Projeto de Isolamento Acústico:
+- **Anexo X, linha 27** {#anexo10_lin27} #isolamento-acustico ii. Projeto de Isolamento Acústico:
 - **Anexo X, linha 28** {#anexo10_lin28} - para edificações: Projeto arquitetônico da edificação, desenhos com dimensões de detalhamentos do isolamento acústico.
 - **Anexo X, linha 29** {#anexo10_lin29} - para máquinas e equipamentos: desenho do equipamento com dimensões, desenho e detalhamento do isolamento acústico.
 - **Anexo X, linha 30** {#anexo10_lin30} 5. OBSERVAÇÕES
-- **Anexo X, linha 31** {#anexo10_lin31} a. Descrever as instruções e recomendações para manutenção do isolamento proposto.
+- **Anexo X, linha 31** {#anexo10_lin31} #isolamento-acustico a. Descrever as instruções e recomendações para manutenção do isolamento proposto.
 - **Anexo X, linha 32** {#anexo10_lin32} b. Apresentar o cronograma de execução da obra.
 
 ## Síntese do conversor (não é texto normativo) {#sintese}

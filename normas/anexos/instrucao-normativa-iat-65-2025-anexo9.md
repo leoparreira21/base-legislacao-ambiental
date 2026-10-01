@@ -98,7 +98,7 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IX, linha 77** {#anexo9_lin77} Quando houver diferenças de processamento industrial que possam acarretar modificações nas características dos futuros efluentes, indicar estas modificações com base nas diferenças de processamento;
 - **Anexo IX, linha 78** {#anexo9_lin78} d. Para o caso de indústrias em implantação que não se enquadrem na situação anterior, fornecer, como valores prováveis, os valores da literatura, indicando as referências bibliográficas.
 - **Anexo IX, linha 79** {#anexo9_lin79} 5.4 INFORMAÇÕES SOBRE A DISPOSIÇÃO FINAL DOS EFLUENTES LÍQUIDOS
-- **Anexo IX, linha 80** {#anexo9_lin80} a. Informar a disposição final adotada para efluentes líquidos industriais: uso agrícola, lançamento em rede e/ou lançamento em corpos hídricos;
+- **Anexo IX, linha 80** {#anexo9_lin80} #uso-agricola-efluente a. Informar a disposição final adotada para efluentes líquidos industriais: uso agrícola, lançamento em rede e/ou lançamento em corpos hídricos;
 - **Anexo IX, linha 81** {#anexo9_lin81} b. No caso de lançamento em corpos hídricos, indicar nome, classe (segundo legislação em vigor) e bacia hidrográfica. Mesmo no caso de uso agrícola informar corpos hídricos próximos e bacia hidrográfica.
 - **Anexo IX, linha 82** {#anexo9_lin82} c. No caso do efluente ser lançado em regime descontínuo ou em batelada, deverá ser prevista a implantação de pelo menos um tanque pulmão, para posterior lançamento no corpo hídrico, em regime de vazão constante, a qual deverá atender os critérios estabelecidos no artigo 34, da Resolução CONAMA nº 357/2005, bem como atenda a capacidade de diluição do corpo hídrico.
 - **Anexo IX, linha 83** {#anexo9_lin83} 6. INFORMAÇÕES SOBRE EMISSÕES GASOSAS
@@ -136,7 +136,7 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IX, linha 115** {#anexo9_lin115} a. Apresentar dimensionamento completo e detalhado de todas as unidades de tratamento, especificando todos os parâmetros usados e necessários à sua perfeita compreensão;
 - **Anexo IX, linha 116** {#anexo9_lin116} b. Os canais ou tubulações de entrada ao sistema de tratamento, de recirculações e de lançamento final devem ser providos de sistemas de medição de vazão;
 - **Anexo IX, linha 117** {#anexo9_lin117} c. No caso da existência de tanque de regularização de vazão ou (e) homogeneização (tanques de equalização), o dimensionamento deverá ser feito com base no período diário de funcionamento da indústria ou detalhadamente justificado em função do processo industrial;
-- **Anexo IX, linha 118** {#anexo9_lin118} d. No caso específico de uso agrícola de efluentes líquidos industriais no solo, aplica-se o disposto no item 5;
+- **Anexo IX, linha 118** {#anexo9_lin118} #uso-agricola-efluente d. No caso específico de uso agrícola de efluentes líquidos industriais no solo, aplica-se o disposto no item 5;
 - **Anexo IX, linha 119** {#anexo9_lin119} e. No caso do projeto prever a implantação de lagoas de estabilização, deverá ser apresentado relatório de caracterização do solo.
 - **Anexo IX, linha 120** {#anexo9_lin120} 2.4 MONITORAMENTO
 - **Anexo IX, linha 121** {#anexo9_lin121} a. Devem ser indicados todos os controles a serem efetuados e a frequência necessária, visando garantir o rendimento esperado;
@@ -162,8 +162,8 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IX, linha 141** {#anexo9_lin141} a. Apresentar o memorial de cálculo referente ao dimensionamento da solução adotada.
 - **Anexo IX, linha 142** {#anexo9_lin142} i. Caso a opção for queima dos resíduos, reportar-se ao item 3;
 - **Anexo IX, linha 143** {#anexo9_lin143} ii. No caso específico de disposição de resíduos sólidos no solo, aplicase o disposto no item 5.
-- **Anexo IX, linha 144** {#anexo9_lin144} 5. USO AGRÍCOLA DE EFLUENTES LÍQUIDOS E RESÍDUOS SÓLIDOS NO SOLO
-- **Anexo IX, linha 145** {#anexo9_lin145} Considera-se disposição de efluentes líquidos e resíduos sólidos no solo para uso agrícola quando o despejo for aplicado no solo para fins agrícolas e florestais, como condicionador de solo, fertilizante ou corretivo, de modo a proporcionar efeitos benéficos para o solo e para as espécies nele cultivadas.
+- **Anexo IX, linha 144** {#anexo9_lin144} #uso-agricola-efluente 5. USO AGRÍCOLA DE EFLUENTES LÍQUIDOS E RESÍDUOS SÓLIDOS NO SOLO
+- **Anexo IX, linha 145** {#anexo9_lin145} #uso-agricola-efluente Considera-se disposição de efluentes líquidos e resíduos sólidos no solo para uso agrícola quando o despejo for aplicado no solo para fins agrícolas e florestais, como condicionador de solo, fertilizante ou corretivo, de modo a proporcionar efeitos benéficos para o solo e para as espécies nele cultivadas.
 - **Anexo IX, linha 146** {#anexo9_lin146} Os padrões do efluente deverá atender ao disposto em normativas específicas do IAT.
 - **Anexo IX, linha 147** {#anexo9_lin147} Os projetos que contemplem esse procedimento deverão conter, no mínimo, o seguinte:
 - **Anexo IX, linha 148** {#anexo9_lin148} a. Caracterização agronômica do efluente:

@@ -377,6 +377,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#iphan` | 3 |
 | `#irrigacao` | 1 |
 | `#isencao` | 2 |
+| `#isolamento-acustico` | 1 |
 | `#jucepar` | 1 |
 | `#julgamento` | 1 |
 | `#laboratorio` | 1 |
@@ -392,7 +393,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#lasa` | 5 |
 | `#lasr` | 6 |
 | `#laticinio` | 1 |
-| `#laudo-conclusao-obra` | 2 |
+| `#laudo-conclusao-obra` | 3 |
 | `#laudo-tecnico` | 2 |
 | `#lavagem-veiculo` | 2 |
 | `#legitimidade` | 1 |
@@ -706,6 +707,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#uniao` | 1 |
 | `#unidade-conservacao` | 8 |
 | `#uniformizacao` | 1 |
+| `#uso-agricola-efluente` | 2 |
 | `#uso-alternativo-solo` | 1 |
 | `#uso-eficiente-agua` | 2 |
 | `#uso-habitacional` | 1 |
