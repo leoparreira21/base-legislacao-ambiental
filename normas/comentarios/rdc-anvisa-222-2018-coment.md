@@ -7,7 +7,7 @@ autor: "Anvisa – Gerência de Regulamentação e Controle Sanitário em Servi�
 data: 2018-06-11
 natureza: "Orientação interpretativa da Anvisa, sem força normativa. Auxilia a interpretação da RDC 222/2018 na análise de PGRSS."
 cita: ["[[rdc-anvisa-222-2018]]", "[[lei-federal-12305-2010]]", "[[lei-federal-9782-1999]]", "[[resolucao-conama-358-2005]]", "[[resolucao-conama-237-1997]]", "[[rdc-anvisa-306-2004]]", "[[rdc-anvisa-15-2012]]", "[[portaria-svs-ms-344-1998]]", "[[portaria-ms-2349-2017]]", "[[decreto-federal-96044-1988]]", "[[portaria-mt-204-1997]]", "[[lei-federal-9605-1998]]"]
-tags: [comentario-oficial, residuo-servico-saude, pgrss, anvisa]
+tags: [residuo-servico-saude, pgrss, anvisa]
 fonte: "PDF 'RDC nº 222/2018 Comentada', Anvisa, Brasília, 11 de junho de 2018 (61 páginas), enviado por Leo"
 ---
 
@@ -15,7 +15,7 @@ fonte: "PDF 'RDC nº 222/2018 Comentada', Anvisa, Brasília, 11 de junho de 2018
 
 > Comentários da Anvisa (GRECS/GGTES) aos dispositivos da [[rdc-anvisa-222-2018|RDC Anvisa nº 222/2018]], para auxiliar a interpretação na análise de PGRSS. **Não é texto normativo**: vale o texto da resolução. Cada comentário tem o ID do dispositivo comentado acrescido de `_coment` (o comentário ao `art5_par1` é `art5_par1_coment`) e começa com o link direto para esse dispositivo; na resolução, o dispositivo comentado termina com o link "(comentário)" de volta para cá. Nos comentários gerais de capítulo ou seção, o link aponta para o título correspondente.
 
-Tags: #comentario-oficial #residuo-servico-saude #pgrss #anvisa
+Tags: #residuo-servico-saude #pgrss #anvisa
 
 ## Introdução
 

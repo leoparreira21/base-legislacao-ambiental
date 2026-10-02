@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [armazenamento-agrotoxico]
 modalidades: [las, lasa, lasr, li, lia]
-tags: [anexo, pca, agrotoxico, cadastro, cnae, ampliacao, uso-solo, zoneamento, georreferenciamento, mapa-situacao, area-influencia, unidade-conservacao, manancial, app, reserva-legal, car, arquivo-vetorial, supressao-vegetacao, movimentacao-solo, contencao, impermeabilizacao, balanco-hidrico, outorga-previa, efluente, tratamento-efluente, reuso-efluente, lancamento, agua-pluvial, residuo-solido, armazenamento-residuo, emissao-atmosferica, emissao-fugitiva, padrao-emissao]
+tags: [anexo, pca, agrotoxico, cadastro, cnae, ampliacao, uso-solo, zoneamento, georreferenciamento, mapa-situacao, area-influencia, unidade-conservacao, manancial, app, reserva-legal, car, supressao-vegetacao, movimentacao-solo, contencao, impermeabilizacao, balanco-hidrico, outorga-previa, efluente, tratamento-efluente, reuso-efluente, lancamento, agua-pluvial, residuo-solido, armazenamento-residuo, emissao-atmosferica, emissao-fugitiva, padrao-emissao]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), páginas 88 a 92
 ---
 
@@ -62,7 +62,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo VIII, linha 41** {#anexo8_lin41} #reserva-legal g) Áreas de Reserva Legal (se imóvel rural), Área Verde Urbana (se imóvel urbano) e maciços florestais remanescentes;
 - **Anexo VIII, linha 42** {#anexo8_lin42} h) Vias de acesso principais;
 - **Anexo VIII, linha 43** {#anexo8_lin43} i) Pontos de referência;
-- **Anexo VIII, linha 44** {#anexo8_lin44} #arquivo-vetorial j) Arquivos vetoriais (formato *.kml/.kmz*) dos componentes exigidos nas alíneas anteriores.
+- **Anexo VIII, linha 44** {#anexo8_lin44} j) Arquivos vetoriais (formato *.kml/.kmz*) dos componentes exigidos nas alíneas anteriores.
 - **Anexo VIII, linha 45** {#anexo8_lin45} 6 CARACTERIZAÇÃO DAS OBRAS PREVISTAS
 - **Anexo VIII, linha 46** {#anexo8_lin46} #supressao-vegetacao #movimentacao-solo a) Descritivo das obras e intervenções previstas, tais como supressão de vegetação, intervenções em corpos hídricos, movimentação de terra, entre outros;
 - **Anexo VIII, linha 47** {#anexo8_lin47} #contencao #impermeabilizacao b) Comprovação de contenções e impermeabilização do pavimento conforme normas aplicáveis para a estrutura do empreendimento.

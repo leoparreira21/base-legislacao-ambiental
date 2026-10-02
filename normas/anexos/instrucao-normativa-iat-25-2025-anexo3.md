@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PGRS
 atividades: [patio-caminhao, patio-container]
 modalidades: [rlas, rlo, loa, lasr, lor]
-tags: [anexo, termo-referencia, pgrs, residuo-solido, classificacao-residuo, armazenamento-residuo, autorizacao-ambiental]
+tags: [anexo, pgrs, residuo-solido, classificacao-residuo, armazenamento-residuo, autorizacao-ambiental]
 fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinado em 15/12/2025), páginas 49 a 53
 ---
 

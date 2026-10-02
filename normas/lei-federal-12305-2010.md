@@ -20,7 +20,7 @@ alterado_por: ["[[lei-federal-14026-2020]]", "[[lei-federal-15088-2025]]"]
 revoga: []
 revogado_por: []
 cita: ["[[lei-federal-11445-2007]]", "[[lei-federal-9974-2000]]", "[[lei-federal-9966-2000]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9795-1999]]", "[[lei-federal-11107-2005]]", "[[constituicao-federal-1988]]", "[[lei-federal-10650-2003]]", "[[lei-complementar-federal-123-2006]]", "[[lei-federal-8666-1993]]", "[[lei-complementar-federal-101-2000]]", "[[lei-federal-9605-1998]]"]
-tags: [acordo-setorial, agrotoxico, alteracao-normativa, aproveitamento-energetico, area-contaminada, area-degradada, area-disposicao-final, area-orfa, aterro-sanitario, cadastro, capacidade-economica, capacidade-tecnica, catador, ciclo-vida-produto, classificacao-residuo, coleta-seletiva, competencia, compostagem, compras-publicas, conselho-meio-ambiente, consorcio-publico, consumidor, conteudo-minimo, contratacao-terceiro, controle-ambiental, controle-social, cooperacao-institucional, corpo-hidrico, crime-ambiental, cronograma, ctf, custo, dano-ambiental, definicao, descontaminacao, desenvolvimento-sustentavel, destinacao-final, dispensa-licitacao, disposicao-final, ecoeficiencia, educacao-ambiental, eletroeletronico, embalagem, estado, fabricante, financiamento, fiscalizacao, fundo-residuos, gerador, gerenciamento-residuo, gestao-integrada, grande-gerador, importacao-residuo, incentivo-economico, incentivo-fiscal, incluido, informacao, infracao-ambiental, instrumento, instrumento-economico, interesse-ambiental, inventario-residuos, lampada, lancamento, licenca-ambiental, licenciamento-ambiental, lixao, logistica-reversa, microempresa, microrregiao, monitoramento, municipio, nao-geracao, objetivo, oleo-lubrificante, ordem-prioridade, padrao-qualidade, padrao-sustentavel, passivo-ambiental, pgrs, pilha-bateria, plano-estadual-residuos, plano-gerenciamento-residuo-perigoso, plano-nacional-residuos, plano-residuos, pmgirs, pneu, pnma, pnrs, poder-publico, poluidor-pagador, porte, prazo, precaucao, prevencao, principio, prioridade, proibicao, protetor-recebedor, publicidade, queima-ceu-aberto, razoabilidade, reciclagem, recuperacao-energetica, redacao-alterada, regiao-metropolitana, regulamentacao, rejeito, rejeito-radioativo, relatorio, reparacao-dano, residuo-agrossilvopastoril, residuo-construcao-civil, residuo-domiciliar, residuo-industrial, residuo-mineracao, residuo-perigoso, residuo-servico-saude, residuo-solido, residuo-solido-urbano, residuo-transporte, responsabilidade, responsabilidade-compartilhada, responsabilidade-fiscal, responsavel-tecnico, reutilizacao, revisao, sancao, saneamento, seguro, servico-limpeza-urbana, sinir, sinisa, sisnama, sistema-informatizado, snvs, tecnologia-limpa, termo-compromisso, tratamento-residuo, vigencia, zoneamento]
+tags: [agrotoxico, aproveitamento-energetico, area-contaminada, area-degradada, area-disposicao-final, area-orfa, aterro-sanitario, cadastro, catador, classificacao-residuo, coleta-seletiva, competencia, compostagem, conselho-meio-ambiente, conteudo-minimo, contratacao-terceiro, controle-ambiental, cooperacao-institucional, corpo-hidrico, crime-ambiental, ctf, dano-ambiental, desenvolvimento-sustentavel, destinacao-final, dispensa-licitacao, disposicao-final, eletroeletronico, embalagem, estado, fabricante, fiscalizacao, gerador, gerenciamento-residuo, grande-gerador, importacao-residuo, incluido, infracao-ambiental, inventario-residuos, lancamento, licenca-ambiental, licenciamento-ambiental, lixao, logistica-reversa, microempresa, microrregiao, monitoramento, municipio, oleo-lubrificante, padrao-qualidade, passivo-ambiental, pgrs, pilha-bateria, plano-estadual-residuos, plano-gerenciamento-residuo-perigoso, plano-nacional-residuos, pmgirs, pneu, pnma, pnrs, poder-publico, poluidor-pagador, porte, prazo, prioridade, proibicao, queima-ceu-aberto, reciclagem, recuperacao-energetica, redacao-alterada, regiao-metropolitana, rejeito, rejeito-radioativo, residuo-agrossilvopastoril, residuo-construcao-civil, residuo-domiciliar, residuo-industrial, residuo-mineracao, residuo-perigoso, residuo-servico-saude, residuo-solido, residuo-solido-urbano, residuo-transporte, responsabilidade, responsavel-tecnico, reutilizacao, sancao, saneamento, servico-limpeza-urbana, sinir, sinisa, sisnama, snvs, termo-compromisso, tratamento-residuo, vigencia, zoneamento]
 fonte: "Câmara dos Deputados – Centro de Documentação e Informação, texto atualizado (22 páginas), enviado por Leo"
 ---
 
@@ -35,7 +35,7 @@ fonte: "Câmara dos Deputados – Centro de Documentação e Informação, texto
 ### CAPÍTULO I – DO OBJETO E DO CAMPO DE APLICAÇÃO
 
 ###### Art. 1º {#art1}
-Tags: #pnrs #residuo-solido #gestao-integrada #gerenciamento-residuo #residuo-perigoso #responsabilidade #rejeito-radioativo
+Tags: #pnrs #residuo-solido #gerenciamento-residuo #residuo-perigoso #responsabilidade #rejeito-radioativo
 
 **Art. 1º, caput** {#art1_cpt} Esta Lei institui a Política Nacional de Resíduos Sólidos, dispondo sobre seus princípios, objetivos e instrumentos, bem como sobre as diretrizes relativas à gestão integrada e ao gerenciamento de resíduos sólidos, incluídos os perigosos, às responsabilidades dos geradores e do poder público e aos instrumentos econômicos aplicáveis.
 
@@ -51,26 +51,25 @@ Tags: #residuo-solido #sisnama #snvs #saneamento
 ### CAPÍTULO II – DEFINIÇÕES
 
 ###### Art. 3º {#art3}
-Tags: #definicao
 
 **Art. 3º, caput** {#art3_cpt} Para os efeitos desta Lei, entende-se por:
-- **Art. 3º, caput, inciso I** {#art3_cpt_inc1} #acordo-setorial acordo setorial: ato de natureza contratual firmado entre o poder público e fabricantes, importadores, distribuidores ou comerciantes, tendo em vista a implantação da responsabilidade compartilhada pelo ciclo de vida do produto;
+- **Art. 3º, caput, inciso I** {#art3_cpt_inc1} acordo setorial: ato de natureza contratual firmado entre o poder público e fabricantes, importadores, distribuidores ou comerciantes, tendo em vista a implantação da responsabilidade compartilhada pelo ciclo de vida do produto;
 - **Art. 3º, caput, inciso II** {#art3_cpt_inc2} #area-contaminada área contaminada: local onde há contaminação causada pela disposição, regular ou irregular, de quaisquer substâncias ou resíduos;
 - **Art. 3º, caput, inciso III** {#art3_cpt_inc3} #area-orfa #area-contaminada área órfã contaminada: área contaminada cujos responsáveis pela disposição não sejam identificáveis ou individualizáveis;
-- **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} #ciclo-vida-produto ciclo de vida do produto: série de etapas que envolvem o desenvolvimento do produto, a obtenção de matérias-primas e insumos, o processo produtivo, o consumo e a disposição final;
+- **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} ciclo de vida do produto: série de etapas que envolvem o desenvolvimento do produto, a obtenção de matérias-primas e insumos, o processo produtivo, o consumo e a disposição final;
 - **Art. 3º, caput, inciso V** {#art3_cpt_inc5} #coleta-seletiva coleta seletiva: coleta de resíduos sólidos previamente segregados conforme sua constituição ou composição;
-- **Art. 3º, caput, inciso VI** {#art3_cpt_inc6} #controle-social controle social: conjunto de mecanismos e procedimentos que garantam à sociedade informações e participação nos processos de formulação, implementação e avaliação das políticas públicas relacionadas aos resíduos sólidos;
+- **Art. 3º, caput, inciso VI** {#art3_cpt_inc6} controle social: conjunto de mecanismos e procedimentos que garantam à sociedade informações e participação nos processos de formulação, implementação e avaliação das políticas públicas relacionadas aos resíduos sólidos;
 - **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} #destinacao-final destinação final ambientalmente adequada: destinação de resíduos que inclui a reutilização, a reciclagem, a compostagem, a recuperação e o aproveitamento energético ou outras destinações admitidas pelos órgãos competentes do Sisnama, do SNVS e do Suasa, entre elas a disposição final, observando normas operacionais es pecíficas de modo a evitar danos ou riscos à saúde pública e à segurança e a minimizar os impactos ambientais adversos;
 - **Art. 3º, caput, inciso VIII** {#art3_cpt_inc8} #disposicao-final disposição final ambientalmente adequada: distribuição ordenada de rejeitos em aterros, observando normas operacionais específicas de modo a evitar danos ou riscos à saúde pública e à segurança e a minimizar os impactos ambientais adversos;
 - **Art. 3º, caput, inciso IX** {#art3_cpt_inc9} #gerador geradores de resíduos sólidos: pessoas físicas ou jurídicas, de direito público ou privado, que geram resíduos sólidos por meio de suas atividades, nelas incluído o consumo;
 - **Art. 3º, caput, inciso X** {#art3_cpt_inc10} #gerenciamento-residuo gerenciamento de resíduos sólidos: conjunto de ações exercidas, direta ou indiretamente, nas etapas de coleta, transporte, transbordo, tratamento e destinação final ambientalmente adequada dos resíduos sólidos e disposição final ambientalmente adequada dos rejeitos, de acordo com plano municipal de gestão integrada de resíduos sólidos ou com plano de gerenciamento de resíduos sólidos, exigidos na forma desta Lei;
-- **Art. 3º, caput, inciso XI** {#art3_cpt_inc11} #gestao-integrada gestão integrada de resíduos sólidos: conjunto de ações voltadas para a busca de soluções para os resíduos sólidos, de forma a considerar as dimensões política, econômica, ambiental, cultural e social, com controle social e sob a premissa do desenvolvimento sustentável;
+- **Art. 3º, caput, inciso XI** {#art3_cpt_inc11} gestão integrada de resíduos sólidos: conjunto de ações voltadas para a busca de soluções para os resíduos sólidos, de forma a considerar as dimensões política, econômica, ambiental, cultural e social, com controle social e sob a premissa do desenvolvimento sustentável;
 - **Art. 3º, caput, inciso XII** {#art3_cpt_inc12} #logistica-reversa logística reversa: instrumento de desenvolvimento econômico e social caracterizado por um conjunto de ações, procedimentos e meios destinados a viabilizar a coleta e a restituição dos resíduos sólidos ao setor empresarial, para reaproveitamento, em seu ciclo ou em outros ciclos produtivos, ou outra destinação final ambientalmente adequada;
-- **Art. 3º, caput, inciso XIII** {#art3_cpt_inc13} #padrao-sustentavel padrões sustentáveis de produção e consumo: produção e consumo de bens e serviços de forma a atender as necessidades das atuais gerações e permitir melhores condições de vida, sem comprometer a qualidade ambiental e o atendimento das necessidades das gerações futuras;
+- **Art. 3º, caput, inciso XIII** {#art3_cpt_inc13} padrões sustentáveis de produção e consumo: produção e consumo de bens e serviços de forma a atender as necessidades das atuais gerações e permitir melhores condições de vida, sem comprometer a qualidade ambiental e o atendimento das necessidades das gerações futuras;
 - **Art. 3º, caput, inciso XIV** {#art3_cpt_inc14} #reciclagem reciclagem: processo de transformação dos resíduos sólidos que envolve a alteração de suas propriedades físicas, físico-químicas ou biológicas, com vistas à transformação em insumos ou novos produtos, observadas as condições e os padrões estabelecidos pelos órgãos competentes do Sisnama e, se couber, do SNVS e do Suasa;
 - **Art. 3º, caput, inciso XV** {#art3_cpt_inc15} #rejeito rejeitos: resíduos sólidos que, depois de esgotadas todas as possibilidades de tratamento e recuperação por processos tecnológicos disponíveis e economicamente viáveis, não apresentem outra possibilidade que não a disposição final ambientalmente adequada;
 - **Art. 3º, caput, inciso XVI** {#art3_cpt_inc16} #residuo-solido resíduos sólidos: material, substância, objeto ou bem descartado resultante de atividades humanas em sociedade, a cuja destinação final se procede, se propõe proceder ou se está obrigado a proceder, nos estados sólido ou semissólido, bem como gases contidos em recipientes e líquidos cujas particularidades tornem inviável o seu lançamento na rede pública de esgotos ou em corpos d'água, ou exijam para isso soluções técnica ou economicamente inviáveis em face da melhor tecnologia disponível;
-- **Art. 3º, caput, inciso XVII** {#art3_cpt_inc17} #responsabilidade-compartilhada responsabilidade compartilhada pelo ciclo de vida dos produtos: conjunto de atribuições individualizadas e encadeadas dos fabricantes, importadores, distribuidores e comerciantes, dos consumidores e dos titulares dos serviços públicos de limpeza urbana e de manejo dos resíduos sólidos, para minimizar o volume de resíduos sólidos e rejeitos gerados, bem como para reduzir os impactos causados à saúde humana e à qualidade ambiental decorrentes do ciclo de vida dos produtos, nos termos desta Lei;
+- **Art. 3º, caput, inciso XVII** {#art3_cpt_inc17} responsabilidade compartilhada pelo ciclo de vida dos produtos: conjunto de atribuições individualizadas e encadeadas dos fabricantes, importadores, distribuidores e comerciantes, dos consumidores e dos titulares dos serviços públicos de limpeza urbana e de manejo dos resíduos sólidos, para minimizar o volume de resíduos sólidos e rejeitos gerados, bem como para reduzir os impactos causados à saúde humana e à qualidade ambiental decorrentes do ciclo de vida dos produtos, nos termos desta Lei;
 - **Art. 3º, caput, inciso XVIII** {#art3_cpt_inc18} #reutilizacao reutilização: processo de aproveitamento dos resíduos sólidos sem sua transformação biológica, física ou físico-química, observadas as condições e os padrões estabelecidos pelos órgãos competentes do Sisnama e, se couber, do SNVS e do Suasa;
 - **Art. 3º, caput, inciso XIX** {#art3_cpt_inc19} #servico-limpeza-urbana serviço público de limpeza urbana e de manejo de resíduos sólidos: conjunto de atividades previstas no [[lei-federal-11445-2007#art7|art. 7º da Lei nº 11.445, de 2007]].
 
@@ -79,19 +78,19 @@ Tags: #definicao
 ### CAPÍTULO I – DISPOSIÇÕES GERAIS
 
 ###### Art. 4º {#art4}
-Tags: #pnrs #gestao-integrada
+Tags: #pnrs
 
 **Art. 4º, caput** {#art4_cpt} A Política Nacional de Resíduos Sólidos reúne o conjunto de princípios, objetivos, instrumentos, diretrizes, metas e ações adotados pelo Governo Federal, isoladamente ou em regime de cooperação com Estados, Distrito Federal, Municípios ou particulares, com vistas à gestão integrada e ao gerenciamento ambientalmente adequado dos resíduos sólidos.
 
 ###### Art. 5º {#art5}
-Tags: #pnma #educacao-ambiental #saneamento #consorcio-publico
+Tags: #pnma #saneamento
 
 **Art. 5º, caput** {#art5_cpt} A Política Nacional de Resíduos Sólidos integra a [[lei-federal-6938-1981|Política Nacional do Meio Ambiente]] e articula-se com a Política Nacional de Educação Ambiental, regulada pela [[lei-federal-9795-1999|Lei nº 9.795, de 27 de abril de 1999]], com a Política Federal de Saneamento Básico, regulada pela [[lei-federal-11445-2007|Lei nº 11.445, de 2007]], e com a [[lei-federal-11107-2005|Lei nº 11.107, de 6 de abril de 2005]].
 
 ### CAPÍTULO II – DOS PRINCÍPIOS E OBJETIVOS
 
 ###### Art. 6º {#art6}
-Tags: #principio #prevencao #precaucao #poluidor-pagador #protetor-recebedor #desenvolvimento-sustentavel #ecoeficiencia #responsabilidade-compartilhada #controle-social #razoabilidade
+Tags: #poluidor-pagador #desenvolvimento-sustentavel
 
 **Art. 6º, caput** {#art6_cpt} São princípios da Política Nacional de Resíduos Sólidos:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} a prevenção e a precaução;
@@ -107,7 +106,7 @@ Tags: #principio #prevencao #precaucao #poluidor-pagador #protetor-recebedor #de
 - **Art. 6º, caput, inciso XI** {#art6_cpt_inc11} a razoabilidade e a proporcionalidade.
 
 ###### Art. 7º {#art7}
-Tags: #objetivo #nao-geracao #reciclagem #destinacao-final #disposicao-final #padrao-sustentavel #tecnologia-limpa #gestao-integrada #consorcio-publico #catador #logistica-reversa #aproveitamento-energetico #compras-publicas
+Tags: #reciclagem #destinacao-final #disposicao-final #catador #logistica-reversa #aproveitamento-energetico
 
 **Art. 7º, caput** {#art7_cpt} São objetivos da Política Nacional de Resíduos Sólidos:
 - **Art. 7º, caput, inciso I** {#art7_cpt_inc1} proteção da saúde pública e da qualidade ambiental;
@@ -131,7 +130,7 @@ Tags: #objetivo #nao-geracao #reciclagem #destinacao-final #disposicao-final #pa
 ### CAPÍTULO III – DOS INSTRUMENTOS
 
 ###### Art. 8º {#art8}
-Tags: #instrumento #plano-residuos #inventario-residuos #coleta-seletiva #logistica-reversa #catador #monitoramento #fiscalizacao #cooperacao-institucional #educacao-ambiental #incentivo-fiscal #fundo-residuos #sinir #sinisa #conselho-meio-ambiente #acordo-setorial #padrao-qualidade #licenciamento-ambiental #cadastro #ctf
+Tags: #inventario-residuos #coleta-seletiva #logistica-reversa #catador #monitoramento #fiscalizacao #cooperacao-institucional #sinir #sinisa #conselho-meio-ambiente #padrao-qualidade #licenciamento-ambiental #cadastro #ctf
 
 **Art. 8º, caput** {#art8_cpt} São instrumentos da Política Nacional de Resíduos Sólidos, entre outros:
 - **Art. 8º, caput, inciso I** {#art8_cpt_inc1} os planos de resíduos sólidos;
@@ -165,7 +164,7 @@ Tags: #instrumento #plano-residuos #inventario-residuos #coleta-seletiva #logist
 ### CAPÍTULO I – DISPOSIÇÕES PRELIMINARES
 
 ###### Art. 9º {#art9}
-Tags: #ordem-prioridade #nao-geracao #reciclagem #tratamento-residuo #disposicao-final #aproveitamento-energetico #recuperacao-energetica
+Tags: #reciclagem #tratamento-residuo #disposicao-final #aproveitamento-energetico #recuperacao-energetica
 
 **Art. 9º, caput** {#art9_cpt} Na gestão e gerenciamento de resíduos sólidos, deve ser observada a seguinte ordem de prioridade: não geração, redução, reutilização, reciclagem, tratamento dos resíduos sólidos e disposição final ambientalmente adequada dos rejeitos.
 
@@ -174,12 +173,12 @@ Tags: #ordem-prioridade #nao-geracao #reciclagem #tratamento-residuo #disposicao
 **Art. 9º, § 2º** {#art9_par2} A Política Nacional de Resíduos Sólidos e as Políticas de Resíduos Sólidos dos Estados, do Distrito Federal e dos Municípios serão compatíveis com o disposto no [[#art9_cpt|caput e no § 1º deste artigo]] e com as demais diretrizes estabelecidas nesta Lei.
 
 ###### Art. 10 {#art10}
-Tags: #municipio #gestao-integrada #competencia #fiscalizacao
+Tags: #municipio #competencia #fiscalizacao
 
 **Art. 10, caput** {#art10_cpt} Incumbe ao Distrito Federal e aos Municípios a gestão integrada dos resíduos sólidos gerados nos respectivos territórios, sem prejuízo das competências de controle e fiscalização dos órgãos federais e estaduais do Sisnama, do SNVS e do Suasa, bem como da responsabilidade do gerador pelo gerenciamento de resíduos, consoante o estabelecido nesta Lei.
 
 ###### Art. 11 {#art11}
-Tags: #competencia #estado #regiao-metropolitana #consorcio-publico #licenciamento-ambiental #controle-ambiental
+Tags: #competencia #estado #regiao-metropolitana #licenciamento-ambiental #controle-ambiental
 
 **Art. 11, caput** {#art11_cpt} Observadas as diretrizes e demais determinações estabelecidas nesta Lei e em seu regulamento, incumbe aos Estados:
 - **Art. 11, caput, inciso I** {#art11_cpt_inc1} promover a integração da organização, do planejamento e da execução das funções públicas de interesse comum relacionadas à gestão dos resíduos sólidos nas regiões metropolitanas, aglomerações urbanas e microrregiões, nos termos da lei complementar estadual prevista no [[constituicao-federal-1988#art25_par3|§ 3º do art. 25 da Constituição Federal]];
@@ -188,7 +187,7 @@ Tags: #competencia #estado #regiao-metropolitana #consorcio-publico #licenciamen
 **Art. 11, parágrafo único** {#art11_par1u} A atuação do Estado na forma do [[#art11_cpt|caput]] deve apoiar e priorizar as iniciativas do Município de soluções consorciadas ou compartilhadas entre 2 (dois) ou mais Municípios.
 
 ###### Art. 12 {#art12}
-Tags: #sinir #sinisa #sistema-informatizado #informacao
+Tags: #sinir #sinisa
 
 **Art. 12, caput** {#art12_cpt} A União, os Estados, o Distrito Federal e os Municípios organizarão e manterão, de forma conjunta, o Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos (Sinir), articulado com o Sinisa e o Sinima.
 
@@ -221,7 +220,6 @@ Tags: #classificacao-residuo #residuo-domiciliar #residuo-industrial #residuo-pe
 #### Seção I – Disposições Gerais
 
 ###### Art. 14 {#art14}
-Tags: #plano-residuos #publicidade #controle-social
 
 **Art. 14, caput** {#art14_cpt} São planos de resíduos sólidos:
 - **Art. 14, caput, inciso I** {#art14_cpt_inc1} o Plano Nacional de Resíduos Sólidos;
@@ -294,7 +292,7 @@ Tags: #plano-estadual-residuos #conteudo-minimo #area-degradada #zoneamento #mic
 #### Seção IV – Dos Planos Municipais de Gestão Integrada de Resíduos Sólidos
 
 ###### Art. 18 {#art18}
-Tags: #pmgirs #prazo #consorcio-publico #catador
+Tags: #pmgirs #prazo #catador
 
 **Art. 18, caput** {#art18_cpt} A elaboração de plano municipal de gestão integrada de resíduos sólidos, nos termos previstos por esta Lei, é condição para o Distrito Federal e os Municípios terem acesso a recursos da União, ou por ela controlados, destinados a empreendimentos e serviços relacionados à limpeza urbana e ao manejo de resíduos sólidos, ou para serem beneficiados por incentivos ou financiamentos de entidades federais de crédito ou fomento para tal finalidade.
 
@@ -305,7 +303,7 @@ Tags: #pmgirs #prazo #consorcio-publico #catador
 **Art. 18, § 2º** {#art18_par2} Serão estabelecidas em regulamento normas complementares sobre o acesso aos recursos da União na forma deste artigo.
 
 ###### Art. 19 {#art19}
-Tags: #pmgirs #conteudo-minimo #coleta-seletiva #logistica-reversa #area-contaminada #passivo-ambiental #pgrs #educacao-ambiental #custo #revisao
+Tags: #pmgirs #conteudo-minimo #coleta-seletiva #logistica-reversa #area-contaminada #passivo-ambiental #pgrs
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: inciso XIX)
 
 **Art. 19, caput** {#art19_cpt} O plano municipal de gestão integrada de resíduos sólidos tem o seguinte conteúdo mínimo:
@@ -368,7 +366,7 @@ Tags: #pgrs #gerador #residuo-industrial #residuo-servico-saude #residuo-minerac
 **Art. 20, parágrafo único** {#art20_par1u} Observado o disposto no [[#art37|Capítulo IV deste Título]], serão estabelecidas por regulamento exigências específicas relativas ao plano de gerenciamento de resíduos perigosos.
 
 ###### Art. 21 {#art21}
-Tags: #pgrs #conteudo-minimo #responsavel-tecnico #passivo-ambiental #revisao #microempresa
+Tags: #pgrs #conteudo-minimo #responsavel-tecnico #passivo-ambiental #microempresa
 
 **Art. 21, caput** {#art21_cpt} O plano de gerenciamento de resíduos sólidos tem o seguinte conteúdo mínimo:
 - **Art. 21, caput, inciso I** {#art21_cpt_inc1} descrição do empreendimento ou atividade;
@@ -397,7 +395,7 @@ Tags: #pgrs #responsavel-tecnico
 **Art. 22, caput** {#art22_cpt} Para a elaboração, implementação, operacionalização e monitoramento de todas as etapas do plano de gerenciamento de resíduos sólidos, nelas incluído o controle da disposição final ambientalmente adequada dos rejeitos, será designado responsável técnico devidamente habilitado.
 
 ###### Art. 23 {#art23}
-Tags: #pgrs #informacao #sinir #relatorio
+Tags: #pgrs #sinir
 
 **Art. 23, caput** {#art23_cpt} Os responsáveis por plano de gerenciamento de resíduos sólidos manterão atualizadas e disponíveis ao órgão municipal competente, ao órgão licenciador do Sisnama e a outras autoridades, informações completas sobre a implementação e a operacionalização do plano sob sua responsabilidade.
 
@@ -419,7 +417,7 @@ Tags: #pgrs #licenciamento-ambiental #municipio
 #### Seção I – Disposições Gerais
 
 ###### Art. 25 {#art25}
-Tags: #responsabilidade #gestao-integrada
+Tags: #responsabilidade
 
 **Art. 25, caput** {#art25_cpt} O poder público, o setor empresarial e a coletividade são responsáveis pela efetividade das ações voltadas para assegurar a observância da Política Nacional de Resíduos Sólidos e das diretrizes e demais determinações estabelecidas nesta Lei e em seu regulamento.
 
@@ -443,7 +441,7 @@ Tags: #residuo-domiciliar #responsabilidade #coleta-seletiva #logistica-reversa
 **Art. 28, caput** {#art28_cpt} O gerador de resíduos sólidos domiciliares tem cessada sua responsabilidade pelos resíduos com a disponibilização adequada para a coleta ou, nos casos abrangidos pelo [[#art33|art. 33]], com a devolução.
 
 ###### Art. 29 {#art29}
-Tags: #dano-ambiental #poder-publico #responsabilidade #reparacao-dano
+Tags: #dano-ambiental #poder-publico #responsabilidade
 
 **Art. 29, caput** {#art29_cpt} Cabe ao poder público atuar, subsidiariamente, com vistas a minimizar ou cessar o dano, logo que tome conhecimento de evento lesivo ao meio ambiente ou à saúde pública relacionado ao gerenciamento de resíduos sólidos.
 
@@ -452,7 +450,6 @@ Tags: #dano-ambiental #poder-publico #responsabilidade #reparacao-dano
 #### Seção II – Da Responsabilidade Compartilhada
 
 ###### Art. 30 {#art30}
-Tags: #responsabilidade-compartilhada #ciclo-vida-produto
 
 **Art. 30, caput** {#art30_cpt} É instituída a responsabilidade compartilhada pelo ciclo de vida dos produtos, a ser implementada de forma individualizada e encadeada, abrangendo os fabricantes, importadores, distribuidores e comerciantes, os consumidores e os titulares dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos, consoante as atribuições e procedimentos previstos nesta Seção.
 
@@ -466,7 +463,7 @@ Tags: #responsabilidade-compartilhada #ciclo-vida-produto
 - **Art. 30, parágrafo único, inciso VII** {#art30_par1u_inc7} incentivar as boas práticas de responsabilidade socioambiental.
 
 ###### Art. 31 {#art31}
-Tags: #responsabilidade-compartilhada #fabricante #logistica-reversa #acordo-setorial
+Tags: #fabricante #logistica-reversa
 
 **Art. 31, caput** {#art31_cpt} Sem prejuízo das obrigações estabelecidas no plano de gerenciamento de resíduos sólidos e com vistas a fortalecer a responsabilidade compartilhada e seus objetivos, os fabricantes, importadores, distribuidores e comerciantes têm responsabilidade que abrange:
 - **Art. 31, caput, inciso I** {#art31_cpt_inc1} investimento no desenvolvimento, na fabricação e na colocação no mercado de produtos:
@@ -493,14 +490,14 @@ Tags: #embalagem #reciclagem #reutilizacao
 - **Art. 32, § 3º, inciso II** {#art32_par3_inc2} coloca em circulação embalagens, materiais para a fabricação de embalagens ou produtos embalados, em qualquer fase da cadeia de comércio.
 
 ###### Art. 33 {#art33}
-Tags: #logistica-reversa #agrotoxico #pilha-bateria #pneu #oleo-lubrificante #lampada #eletroeletronico #acordo-setorial #termo-compromisso #catador #fabricante
+Tags: #logistica-reversa #agrotoxico #pilha-bateria #pneu #oleo-lubrificante #eletroeletronico #termo-compromisso #catador #fabricante
 
 **Art. 33, caput** {#art33_cpt} São obrigados a estruturar e implementar sistemas de logística reversa, mediante retorno dos produtos após o uso pelo consumidor, de forma independente do serviço público de limpeza urbana e de manejo dos resíduos sólidos, os fabricantes, importadores, distribuidores e comerciantes de:
 - **Art. 33, caput, inciso I** {#art33_cpt_inc1} #agrotoxico agrotóxicos, seus resíduos e embalagens, assim como outros produtos cuja embalagem, após o uso, constitua resíduo perigoso, observadas as regras de gerenciamento de resíduos perigosos previstas em lei ou regulamento, em normas estabelecidas pelos órgãos do Sisnama, do SNVS e do Suasa, ou em normas técnicas;
 - **Art. 33, caput, inciso II** {#art33_cpt_inc2} #pilha-bateria pilhas e baterias;
 - **Art. 33, caput, inciso III** {#art33_cpt_inc3} #pneu pneus;
 - **Art. 33, caput, inciso IV** {#art33_cpt_inc4} #oleo-lubrificante óleos lubrificantes, seus resíduos e embalagens;
-- **Art. 33, caput, inciso V** {#art33_cpt_inc5} #lampada lâmpadas fluorescentes, de vapor de sódio e mercúrio e de luz mista;
+- **Art. 33, caput, inciso V** {#art33_cpt_inc5} lâmpadas fluorescentes, de vapor de sódio e mercúrio e de luz mista;
 - **Art. 33, caput, inciso VI** {#art33_cpt_inc6} #eletroeletronico produtos eletroeletrônicos e seus componentes.
 
 **Art. 33, § 1º** {#art33_par1} Na forma do disposto em regulamento ou em acordos setoriais e termos de compromisso firmados entre o poder público e o setor empresarial, os sistemas previstos no [[#art33_cpt|caput]] serão estendidos a produtos comercializados em embalagens plásticas, metálicas ou de vidro, e aos demais produtos e embalagens, considerando, prioritariamente, o grau e a extensão do impacto à saúde pública e ao meio ambiente dos resíduos gerados.
@@ -523,7 +520,7 @@ Tags: #logistica-reversa #agrotoxico #pilha-bateria #pneu #oleo-lubrificante #la
 **Art. 33, § 8º** {#art33_par8} Com exceção dos consumidores, todos os participantes dos sistemas de logística reversa manterão atualizadas e disponíveis ao órgão municipal competente e a outras autoridades informações completas sobre a realização das ações sob sua responsabilidade.
 
 ###### Art. 34 {#art34}
-Tags: #acordo-setorial #termo-compromisso
+Tags: #termo-compromisso
 
 **Art. 34, caput** {#art34_cpt} Os acordos setoriais ou termos de compromisso referidos no [[#art31_cpt_inc4|inciso IV do caput do art. 31]] e no [[#art33_par1|§ 1º do art. 33]] podem ter abrangência nacional, regional, estadual ou municipal.
 
@@ -532,7 +529,7 @@ Tags: #acordo-setorial #termo-compromisso
 **Art. 34, § 2º** {#art34_par2} Na aplicação de regras concorrentes consoante o [[#art34_par1|§ 1º]], os acordos firmados com menor abrangência geográfica podem ampliar, mas não abrandar, as medidas de proteção ambiental constantes nos acordos setoriais e termos de compromisso firmados com maior abrangência geográfica.
 
 ###### Art. 35 {#art35}
-Tags: #coleta-seletiva #consumidor #incentivo-economico
+Tags: #coleta-seletiva
 
 **Art. 35, caput** {#art35_cpt} Sempre que estabelecido sistema de coleta seletiva pelo plano municipal de gestão integrada de resíduos sólidos e na aplicação do [[#art33|art. 33]], os consumidores são obrigados a:
 - **Art. 35, caput, inciso I** {#art35_cpt_inc1} acondicionar adequadamente e de forma diferenciada os resíduos sólidos gerados;
@@ -558,7 +555,7 @@ Tags: #servico-limpeza-urbana #coleta-seletiva #catador #compostagem #logistica-
 ### CAPÍTULO IV – DOS RESÍDUOS PERIGOSOS
 
 ###### Art. 37 {#art37}
-Tags: #residuo-perigoso #licenca-ambiental #capacidade-tecnica #capacidade-economica
+Tags: #residuo-perigoso #licenca-ambiental
 
 **Art. 37, caput** {#art37_cpt} A instalação e o funcionamento de empreendimento ou atividade que gere ou opere com resíduos perigosos somente podem ser autorizados ou licenciados pelas autoridades competentes se o responsável comprovar, no mínimo, capacidade técnica e econômica, além de condições para prover os cuidados necessários ao gerenciamento desses resíduos.
 
@@ -574,7 +571,7 @@ Tags: #residuo-perigoso #cadastro #responsavel-tecnico #ctf
 **Art. 38, § 3º** {#art38_par3} O cadastro a que se refere o [[#art38_cpt|caput]] é parte integrante do Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras de Recursos Ambientais e do Sistema de Informações previsto no [[#art12|art. 12]].
 
 ###### Art. 39 {#art39}
-Tags: #residuo-perigoso #plano-gerenciamento-residuo-perigoso #sisnama #snvs #seguro #informacao
+Tags: #residuo-perigoso #plano-gerenciamento-residuo-perigoso #sisnama #snvs
 
 **Art. 39, caput** {#art39_cpt} As pessoas jurídicas referidas no [[#art38|art. 38]] são obrigadas a elaborar plano de gerenciamento de resíduos perigosos e submetê-lo ao órgão competente do Sisnama e, se couber, do SNVS, observado o conteúdo mínimo estabelecido no [[#art21|art. 21]] e demais exigências previstas em regulamento ou em normas técnicas.
 
@@ -591,14 +588,14 @@ Tags: #residuo-perigoso #plano-gerenciamento-residuo-perigoso #sisnama #snvs #se
 **Art. 39, § 4º** {#art39_par4} No caso de controle a cargo de órgão federal ou estadual do Sisnama e do SNVS, as informações sobre o conteúdo, a implementação e a operacionalização do plano previsto no [[#art39_cpt|caput]] serão repassadas ao poder público municipal, na forma do regulamento.
 
 ###### Art. 40 {#art40}
-Tags: #residuo-perigoso #licenciamento-ambiental #seguro #porte
+Tags: #residuo-perigoso #licenciamento-ambiental #porte
 
 **Art. 40, caput** {#art40_cpt} No licenciamento ambiental de empreendimentos ou atividades que operem com resíduos perigosos, o órgão licenciador do Sisnama pode exigir a contratação de seguro de responsabilidade civil por danos causados ao meio ambiente ou à saúde pública, observadas as regras sobre cobertura e os limites máximos de contratação fixados em regulamento.
 
 **Art. 40, parágrafo único** {#art40_par1u} O disposto no [[#art40_cpt|caput]] considerará o porte da empresa, conforme regulamento.
 
 ###### Art. 41 {#art41}
-Tags: #area-contaminada #area-orfa #descontaminacao #responsabilidade
+Tags: #area-contaminada #area-orfa #responsabilidade
 
 **Art. 41, caput** {#art41_cpt} Sem prejuízo das iniciativas de outras esferas governamentais, o Governo Federal deve estruturar e manter instrumentos e atividades voltados para promover a descontaminação de áreas órfãs.
 
@@ -607,7 +604,7 @@ Tags: #area-contaminada #area-orfa #descontaminacao #responsabilidade
 ### CAPÍTULO V – DOS INSTRUMENTOS ECONÔMICOS
 
 ###### Art. 42 {#art42}
-Tags: #instrumento-economico #incentivo-economico #catador #consorcio-publico #financiamento #area-contaminada
+Tags: #catador #area-contaminada
 
 **Art. 42, caput** {#art42_cpt} O poder público poderá instituir medidas indutoras e linhas de financiamento para atender, prioritariamente, às iniciativas de:
 - **Art. 42, caput, inciso I** {#art42_cpt_inc1} prevenção e redução da geração de resíduos sólidos no processo produtivo;
@@ -620,12 +617,11 @@ Tags: #instrumento-economico #incentivo-economico #catador #consorcio-publico #f
 - **Art. 42, caput, inciso VIII** {#art42_cpt_inc8} desenvolvimento de sistemas de gestão ambiental e empresarial voltados para a melhoria dos processos produtivos e ao reaproveitamento dos resíduos.
 
 ###### Art. 43 {#art43}
-Tags: #incentivo-economico #financiamento
 
 **Art. 43, caput** {#art43_cpt} No fomento ou na concessão de incentivos creditícios destinados a atender diretrizes desta Lei, as instituições oficiais de crédito podem estabelecer critérios diferenciados de acesso dos beneficiários aos créditos do Sistema Financeiro Nacional para investimentos produtivos.
 
 ###### Art. 44 {#art44}
-Tags: #incentivo-fiscal #reciclagem #catador
+Tags: #reciclagem #catador
 
 **Art. 44, caput** {#art44_cpt} A União, os Estados, o Distrito Federal e os Municípios, no âmbito de suas competências, poderão instituir normas com o objetivo de conceder incentivos fiscais, financeiros ou creditícios, respeitadas as limitações da [[lei-complementar-federal-101-2000|Lei Complementar nº 101, de 4 de maio de 2000]] (Lei de Responsabilidade Fiscal), a:
 - **Art. 44, caput, inciso I** {#art44_cpt_inc1} indústrias e entidades dedicadas à reutilização, ao tratamento e à reciclagem de resíduos sólidos produzidos no território nacional;
@@ -633,12 +629,11 @@ Tags: #incentivo-fiscal #reciclagem #catador
 - **Art. 44, caput, inciso III** {#art44_cpt_inc3} empresas dedicadas à limpeza urbana e a atividades a ela relacionadas.
 
 ###### Art. 45 {#art45}
-Tags: #consorcio-publico #prioridade
+Tags: #prioridade
 
 **Art. 45, caput** {#art45_cpt} Os consórcios públicos constituídos, nos termos da [[lei-federal-11107-2005|Lei nº 11.107, de 2005]], com o objetivo de viabilizar a descentralização e a prestação de serviços públicos que envolvam resíduos sólidos, têm prioridade na obtenção dos incentivos instituídos pelo Governo Federal.
 
 ###### Art. 46 {#art46}
-Tags: #responsabilidade-fiscal
 
 **Art. 46, caput** {#art46_cpt} O atendimento ao disposto neste Capítulo será efetivado em consonância com a [[lei-complementar-federal-101-2000|Lei Complementar nº 101, de 2000]] (Lei de Responsabilidade Fiscal), bem como com as diretrizes e objetivos do respectivo plano plurianual, as metas e as prioridades fixadas pelas leis de diretrizes orçamentárias e no limite das disponibilidades propiciadas pelas leis orçamentárias anuais.
 
@@ -682,22 +677,22 @@ Alterações: [[lei-federal-15088-2025|Lei nº 15.088, de 6/1/2025]] (nova reda�
 ## TÍTULO IV – DISPOSIÇÕES TRANSITÓRIAS E FINAIS
 
 ###### Art. 50 {#art50}
-Tags: #regulamentacao #catador
+Tags: #catador
 
 **Art. 50, caput** {#art50_cpt} A inexistência do regulamento previsto no [[#art21_par3|§ 3º do art. 21]] não obsta a atuação, nos termos desta Lei, das cooperativas ou outras formas de associação de catadores de materiais reutilizáveis e recicláveis.
 
 ###### Art. 51 {#art51}
-Tags: #sancao #infracao-ambiental #reparacao-dano
+Tags: #sancao #infracao-ambiental
 
 **Art. 51, caput** {#art51_cpt} Sem prejuízo da obrigação de, independentemente da existência de culpa, reparar os danos causados, a ação ou omissão das pessoas físicas ou jurídicas que importe inobservância aos preceitos desta Lei ou de seu regulamento sujeita os infratores às sanções previstas em lei, em especial às fixadas na [[lei-federal-9605-1998|Lei nº 9.605, de 12 de fevereiro de 1998]], que "dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, e dá outras providências", e em seu regulamento.
 
 ###### Art. 52 {#art52}
-Tags: #interesse-ambiental #crime-ambiental
+Tags: #crime-ambiental
 
 **Art. 52, caput** {#art52_cpt} A observância do disposto no [[#art23_cpt|caput do art. 23]] e no [[#art39_par2|§ 2º do art. 39]] desta Lei é considerada obrigação de relevante interesse ambiental para efeitos do [[lei-federal-9605-1998#art68|art. 68 da Lei nº 9.605, de 1998]], sem prejuízo da aplicação de outras sanções cabíveis nas esferas penal e administrativa.
 
 ###### Art. 53 {#art53}
-Tags: #alteracao-normativa #crime-ambiental #residuo-perigoso
+Tags: #crime-ambiental #residuo-perigoso
 
 **Art. 53, caput** {#art53_cpt} O [[lei-federal-9605-1998#art56_par1|§ 1º do art. 56 da Lei nº 9.605, de 12 de fevereiro de 1998]], passa a vigorar com a seguinte redação:
 
@@ -730,7 +725,7 @@ Tags: #vigencia #prazo
 **Art. 55, caput** {#art55_cpt} O disposto nos [[#art16|arts. 16 e 18]] entra em vigor 2 (dois) anos após a data de publicação desta Lei.
 
 ###### Art. 56 {#art56}
-Tags: #logistica-reversa #cronograma
+Tags: #logistica-reversa
 
 **Art. 56, caput** {#art56_cpt} A logística reversa relativa aos produtos de que tratam os [[#art33_cpt_inc5|incisos V e VI do caput do art. 33]] será implementada progressivamente segundo cronograma estabelecido em regulamento.
 

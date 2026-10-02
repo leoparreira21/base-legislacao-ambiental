@@ -16,7 +16,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-iat-45-2025]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-9415-2025]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-11977-2022]]", "[[lei-federal-6938-1981]]", "[[resolucao-conama-237-1997]]", "[[lei-estadual-22252-2024]]", "[[decreto-estadual-9541-2025]]", "[[lei-estadual-10233-1992]]", "[[resolucao-cema-129-2023]]", "[[lei-federal-12651-2012]]", "[[lei-federal-10257-2001]]", "[[decreto-estadual-8680-2013]]", "[[decreto-estadual-1940-1996]]", "[[resolucao-conama-6-1986]]", "[[instrucao-normativa-ibama-13-2021]]", "[[resolucao-sedest-2-2025]]", "[[lei-estadual-12493-1999]]", "[[decreto-estadual-6674-2002]]", "[[portaria-iap-256-2013]]", "[[resolucao-conama-307-2002]]", "[[portaria-iap-212-2019]]", "[[portaria-mma-280-2020]]", "[[resolucao-cema-76-2009]]", "[[portaria-iap-159-2015]]", "[[lei-federal-9605-1998]]", "[[decreto-federal-6514-2008]]", "[[decreto-estadual-12799-2026]]"]
-tags: [alteracao, ampliacao, anexo, anexo-normativo, anuencia, app, area-construida, area-contaminada, area-fragil, area-risco, area-umida, armazenamento-graos, arquivo-vetorial, art-anotacao, artesanal, arvore-isolada, ato-administrativo, automonitoramento, autorizacao-ambiental, autorizacao-florestal, bem-cultural, cadastro, car, casos-omissos, cavidade-natural, cema, certidao-municipal, cnpj, comissionamento, compostagem, comunidade-tradicional, conama, condicionante, cpf, crime-ambiental, ctf, curtume, dcp, declaracao-adesao-compromisso, definicao, destinacao-final, diagnostico-ambiental, direito-transicao, diretoria-patrimonio-natural, diretriz-estudo, dispensa, dlae, dlam, documentacao, dominialidade, efluente, eia-rima, embargo, emissao-atmosferica, emissao-fugitiva, encerramento, enquadramento, esgotamento-sanitario, especie-exotica, estudo-ambiental, fauna, fonte-poluicao, fonte-potencial-contaminacao, frigorifico, funai, galeria-pluvial, galvanoplastia, geli, geologia, impermeabilizacao, incra, industria, industria-alimenticia, industria-bebidas, industria-borracha, industria-couro, industria-eletrica, industria-farmaceutica, industria-fumo, industria-madeira, industria-material-transporte, industria-mecanica, industria-metalurgica, industria-quimica, industria-textil, industrias-diversas, informacao-falsa, infracao-ambiental, interesse-social, inventario-residuos, iphan, lac, lagoa-tratamento, las, lasa, lasr, laticinio, li, lia, licenca-ambiental, licenca-vencida, licenciamento-ambiental, licenciamento-bifasico, licenciamento-monofasico, licenciamento-municipal, licenciamento-trifasico, lir, lo, loa, localizacao, logistica-reversa, lor, lp, lpa, maltearia, mandioca, manifestacao-juridica, mapa-situacao, meio-ambiente, memorial-caracterizacao, minerais-nao-metalicos, modalidade, modelagem, modelo, movimentacao-solo, mtr, municipio-certificado, oleo-soja, orgao-interveniente, outorga, outorga-direito, outorga-previa, padrao-emissao, padrao-lancamento, papel-celulose, parecer-tecnico, pbca, pcpa, pendencia-judicial, pgr, pgrcc, pgrs, poluicao, poluicao-sonora, poluidor, porte, porte-excepcional, potencial-poluidor, prazo, prazo-diferenciado, procuracao, prorrogacao, publicacao-dioe, quilombola, rap, rastreabilidade, reciclagem, recurso-ambiental, recurso-hidrico, registro-fotografico, regularizacao, relatorio-atendimento-condicionante, relatorio-caracterizacao-flora, renovacao, reparacao-dano, requerimento, reserva-legal, residuo-perigoso, residuo-solido, residuo-terceiro, reuso-efluente, revogacao, risco-ambiental, sancao, serflor, sinaflor, sistema-informatizado, sucroalcooleira, supressao-vegetacao, tac, taxa-ambiental, termo-compromisso, termo-referencia, terra-indigena, terraplanagem, unidade-conservacao, uso-insignificante, utilidade-publica, validade, vazao-referencia, viabilidade-locacional, vigencia, zona-amortecimento]
+tags: [alteracao, ampliacao, anexo, anuencia, app, area-construida, area-contaminada, area-fragil, area-umida, armazenamento-graos, art-anotacao, artesanal, arvore-isolada, ato-administrativo, automonitoramento, autorizacao-ambiental, autorizacao-florestal, bem-cultural, cadastro, car, casos-omissos, cavidade-natural, cema, certidao-municipal, cnpj, compostagem, comunidade-tradicional, conama, condicionante, cpf, crime-ambiental, ctf, curtume, dcp, declaracao-adesao-compromisso, destinacao-final, diagnostico-ambiental, direito-transicao, diretoria-patrimonio-natural, diretriz-estudo, dispensa, dlae, dlam, documentacao, dominialidade, efluente, eia-rima, embargo, emissao-atmosferica, emissao-fugitiva, encerramento, enquadramento, esgotamento-sanitario, especie-exotica, estudo-ambiental, fauna, fonte-poluicao, frigorifico, funai, galeria-pluvial, galvanoplastia, geologia, impermeabilizacao, industria, industria-alimenticia, industria-bebidas, industria-borracha, industria-couro, industria-eletrica, industria-farmaceutica, industria-fumo, industria-madeira, industria-material-transporte, industria-mecanica, industria-metalurgica, industria-quimica, industria-textil, industrias-diversas, informacao-falsa, infracao-ambiental, interesse-social, inventario-residuos, iphan, lac, lagoa-tratamento, las, lasa, lasr, laticinio, li, lia, licenca-ambiental, licenca-vencida, licenciamento-ambiental, licenciamento-bifasico, licenciamento-monofasico, licenciamento-municipal, licenciamento-trifasico, lir, lo, loa, logistica-reversa, lor, lp, lpa, maltearia, mandioca, manifestacao-juridica, mapa-situacao, meio-ambiente, memorial-caracterizacao, minerais-nao-metalicos, modalidade, movimentacao-solo, mtr, oleo-soja, outorga, outorga-direito, outorga-previa, padrao-emissao, padrao-lancamento, papel-celulose, parecer-tecnico, pbca, pcpa, pendencia-judicial, pgr, pgrcc, pgrs, poluicao, poluicao-sonora, porte, porte-excepcional, potencial-poluidor, prazo, procuracao, prorrogacao, publicacao-dioe, quilombola, rap, reciclagem, recurso-hidrico, regularizacao, relatorio-atendimento-condicionante, relatorio-caracterizacao-flora, renovacao, requerimento, reserva-legal, residuo-perigoso, residuo-solido, residuo-terceiro, reuso-efluente, revogacao, risco-ambiental, sancao, serflor, sinaflor, sucroalcooleira, supressao-vegetacao, tac, taxa-ambiental, termo-compromisso, terra-indigena, terraplanagem, unidade-conservacao, uso-insignificante, utilidade-publica, validade, viabilidade-locacional, vigencia, zona-amortecimento]
 anexos: "tipo 1 (modelos): III, V, VI, VII, XV; tipo 2 (diretrizes de estudo, em normas/anexos/): IV, VIII, IX, X, XI, XIII; tipo 3 (normativos, neste arquivo): I, II, XII, XIV"
 fonte: corpo conferido no PDF assinado digitalmente (73 páginas, sem anexos) e no texto integral enviado por Leo; anexos transcritos do texto integral; data de publicação no DIOE não consta
 ---
@@ -49,7 +49,7 @@ Tags: #licenciamento-ambiental #industria
 ## CAPÍTULO I – DOS EMPREENDIMENTOS INDUSTRIAIS
 
 ###### Art. 2º {#art2}
-Tags: #industria #definicao #compostagem #residuo-terceiro
+Tags: #industria #compostagem #residuo-terceiro
 
 **Art. 2º, caput** {#art2_cpt} Para fins desta Instrução Normativa, consideram-se como empreendimento industrial qualquer instalação ou conjunto de instalações, equipamentos, estruturas e atividades organizadas destinadas à produção, transformação, montagem, armazenamento ou beneficiamento de bens e serviços, envolvendo processos produtivos de natureza industrial.
 
@@ -60,13 +60,12 @@ Tags: #industria #definicao #compostagem #residuo-terceiro
 ## CAPÍTULO II – DAS DEFINIÇÕES
 
 ###### Art. 3º {#art3}
-Tags: #definicao
 
 **Art. 3º, caput** {#art3_cpt} Para fins desta resolução consideram-se as seguintes definições:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} #meio-ambiente meio ambiente: o conjunto de condições, leis, influências e interações de ordem física, química e biológica, que permite, abriga e rege a vida em todas as suas formas;
 - **Art. 3º, caput, inciso II** {#art3_cpt_inc2} #poluicao poluição: a degradação da qualidade ambiental resultante de atividades que direta ou indiretamente prejudiquem a saúde, a segurança e o bem-estar da população, crie condições adversas às atividades sociais e econômicas, afetem desfavoravelmente a biota, afetem as condições estéticas ou sanitárias do meio ambiente ou lancem matérias ou energia em desacordo com os padrões ambientais estabelecidos;
-- **Art. 3º, caput, inciso III** {#art3_cpt_inc3} #poluidor poluidor: pessoa física ou jurídica, de direito público ou privado, responsável direta ou indiretamente por atividade causadora de degradação ambiental;
-- **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} #recurso-ambiental recursos ambientais: a atmosfera, as águas interiores, superficiais e subterrâneas, os estuários, o mar territorial, o solo, o subsolo, os elementos da biosfera, a fauna e a flora;
+- **Art. 3º, caput, inciso III** {#art3_cpt_inc3} poluidor: pessoa física ou jurídica, de direito público ou privado, responsável direta ou indiretamente por atividade causadora de degradação ambiental;
+- **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} recursos ambientais: a atmosfera, as águas interiores, superficiais e subterrâneas, os estuários, o mar territorial, o solo, o subsolo, os elementos da biosfera, a fauna e a flora;
 - **Art. 3º, caput, inciso V** {#art3_cpt_inc5} #fonte-poluicao fonte de poluição: qualquer atividade, sistema, processo, operação, maquinários, equipamentos ou dispositivos, móvel ou imóvel previstos nesta resolução, que alterem ou possam vir a alterar o Meio Ambiente;
 - **Art. 3º, caput, inciso VI** {#art3_cpt_inc6} #licenciamento-ambiental licenciamento ambiental: procedimento administrativo pelo qual o órgão ambiental competente, verificando a satisfação das condições legais e técnicas, delibera quanto à localização, instalação, ampliação, operação e encerramento de empreendimentos e atividades utilizadoras de recursos ambientais consideradas efetivas ou potencialmente poluidoras ou daquelas que, sob qualquer forma, possam vir a causar degradação e/ou modificação ambiental, considerando as disposições legais e regulamentares e as normas técnicas aplicáveis ao caso;
 - **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} #estudo-ambiental estudos ambientais: são todos e quaisquer estudos relativos aos aspectos ambientais relacionados à localização, instalação, operação e ampliação de um empreendimento e/ou atividade, apresentado como subsídio para a análise da licença requerida, tais como: relatório ambiental, plano e projeto de controle ambiental, relatório ambiental preliminar, diagnóstico ambiental, plano de manejo, plano de recuperação de área degradada e programa de gerenciamento de riscos ambientais;
@@ -78,10 +77,10 @@ Tags: #definicao
 - **Art. 3º, caput, inciso XIII** {#art3_cpt_inc13} #termo-compromisso termo de compromisso: instrumento pelo qual o causador de infração administrativa ambiental compromete-se a adotar medidas específicas determinadas pelo órgão ambiental de forma a reparar e fazer cessar os danos causados ao meio ambiente;
 - **Art. 3º, caput, inciso XIV** {#art3_cpt_inc14} #tac termo de ajustamento de conduta: instrumento que tem por finalidade estabelecer obrigações do compromissário, em decorrência de sua responsabilidade civil, de forma a ajustar a sua conduta às exigências legais, mediante cominações, que terá eficácia de título executivo extrajudicial;
 - **Art. 3º, caput, inciso XV** {#art3_cpt_inc15} #area-construida área construída: área total impermeabilizada, com exceção da área destinada aos estacionamentos de veículos leves.
-- **Art. 3º, caput, inciso XVI** {#art3_cpt_inc16} #fonte-potencial-contaminacao fonte potencial de contaminação: instalações, atividades, equipamentos ou materiais a partir das quais são geradas substâncias que possam causar contaminação no solo e/ou águas subterrâneas.
+- **Art. 3º, caput, inciso XVI** {#art3_cpt_inc16} fonte potencial de contaminação: instalações, atividades, equipamentos ou materiais a partir das quais são geradas substâncias que possam causar contaminação no solo e/ou águas subterrâneas.
 - **Art. 3º, caput, inciso XVII** {#art3_cpt_inc17} #reciclagem indústria de reciclagem: indústria que realiza processo de transformação de resíduos sólidos e/ou efluentes que envolve a alteração de suas propriedades físicas, físico-químicas ou biológicas para sua utilização como insumo, matéria-prima ou substância em um processo produtivo equivalente ao que deu origem ao resíduo, ou de outra natureza.
 - **Art. 3º, caput, inciso XVIII** {#art3_cpt_inc18} #artesanal produção artesanal: artigos produzidos em escala reduzida, com atenção direta e específica dos responsáveis por sua manipulação e com predominância de técnicas, ferramentas e utensílios manuais, resultando em produto singular, genuíno e de fabrico individualizado, cuja produção é, em geral, de origem familiar ou de pequenos grupos, o que possibilita e favorece a transferência de conhecimento sobre técnicas e processos originais com características regionais, culturais e tradicionais.
-- **Art. 3º, caput, inciso XIX** {#art3_cpt_inc19} #comissionamento comissionamento: processo estruturado de inspeções, verificações e testes realizados antes da entrada em operação de sistemas e equipamentos industriais, garantindo que foram projetados, instalados e ajustados conforme os requisitos de engenharia, normas e critérios de segurança. Seu objetivo é assegurar que a unidade opere de forma eficiente, segura e confiável, identificando e corrigindo eventuais falhas antes do início da operação regular.
+- **Art. 3º, caput, inciso XIX** {#art3_cpt_inc19} comissionamento: processo estruturado de inspeções, verificações e testes realizados antes da entrada em operação de sistemas e equipamentos industriais, garantindo que foram projetados, instalados e ajustados conforme os requisitos de engenharia, normas e critérios de segurança. Seu objetivo é assegurar que a unidade opere de forma eficiente, segura e confiável, identificando e corrigindo eventuais falhas antes do início da operação regular.
 
 ## CAPÍTULO III – DOS ATOS ADMINISTRATIVOS PARA O LICENCIAMENTO AMBIENTAL DE EMPREENDIMENTOS INDUSTRIAIS
 
@@ -156,7 +155,7 @@ Tags: #enquadramento #industria
 **Art. 9º, parágrafo único** {#art9_par1u} No licenciamento de empreendimentos industriais deverão ser contempladas todas as unidades produtivas, instalações de apoio e utilidades associadas a atividade principal.
 
 ###### Art. 10 {#art10}
-Tags: #porte-excepcional #parecer-tecnico #geli
+Tags: #porte-excepcional #parecer-tecnico
 
 **Art. 10, caput** {#art10_cpt} Todo o processo administrativo de licenciamento ambiental, com caracterização de empreendimento de porte excepcional, o protocolo deverá ser instruído com Parecer Técnico elaborado por servidor(es) designado(s) pela Gerência de Licenciamento – GELI.
 
@@ -165,14 +164,14 @@ Tags: #porte-excepcional #parecer-tecnico #geli
 #### Subseção I – Da Autorização Ambiental – AA
 
 ###### Art. 11 {#art11}
-Tags: #autorizacao-ambiental #industria #comissionamento #emissao-atmosferica #residuo-solido #efluente #area-contaminada #cema
+Tags: #autorizacao-ambiental #industria #emissao-atmosferica #residuo-solido #efluente #area-contaminada #cema
 
 **Art. 11, caput** {#art11_cpt} Para os empreendimentos industriais serão sujeitas a Autorização Ambiental para:
 - **Art. 11, caput, inciso I** {#art11_cpt_inc1} obras de melhorias do processo produtivos que não impliquem no aumento da área construída, alteração das fontes de emissões atmosféricas, geração de resíduos sólidos e efluentes líquidos;
 - **Art. 11, caput, inciso II** {#art11_cpt_inc2} aumento da capacidade produtiva que não impliquem no aumento da área construída, alteração das fontes de emissões atmosféricas, geração de resíduos sólidos e efluentes líquidos;
 - **Art. 11, caput, inciso III** {#art11_cpt_inc3} teste de viabilidade de queima de resíduo ou alteração de combustíveis;
 - **Art. 11, caput, inciso IV** {#art11_cpt_inc4} troca de equipamentos e/ou de sistemas de tratamento ou controle que comprovem ganho ambiental;
-- **Art. 11, caput, inciso V** {#art11_cpt_inc5} #comissionamento comissionamento a ser realizado após a conclusão das instalações anterior a emissão do licenciamento de operação.
+- **Art. 11, caput, inciso V** {#art11_cpt_inc5} comissionamento a ser realizado após a conclusão das instalações anterior a emissão do licenciamento de operação.
 - **Art. 11, caput, inciso VI** {#art11_cpt_inc6} atividades de pesquisa;
 - **Art. 11, caput, inciso VII** {#art11_cpt_inc7} desativação ou desmobilização de instalações ou atividades com fontes potenciais de contaminação.
 
@@ -181,7 +180,7 @@ Tags: #autorizacao-ambiental #industria #comissionamento #emissao-atmosferica #r
 #### Subseção II – Da Dispensa de Licenciamento Ambiental – DLAM
 
 ###### Art. 12 {#art12}
-Tags: #dlam #industria #artesanal #efluente #residuo-perigoso #emissao-atmosferica #recurso-hidrico #uso-insignificante #area-fragil #app #reserva-legal #area-umida #unidade-conservacao #cavidade-natural #bem-cultural #terra-indigena #quilombola #comunidade-tradicional #area-risco #movimentacao-solo #supressao-vegetacao #arvore-isolada #esgotamento-sanitario #renovacao
+Tags: #dlam #industria #artesanal #efluente #residuo-perigoso #emissao-atmosferica #recurso-hidrico #uso-insignificante #area-fragil #app #reserva-legal #area-umida #unidade-conservacao #cavidade-natural #bem-cultural #terra-indigena #quilombola #comunidade-tradicional #movimentacao-solo #supressao-vegetacao #arvore-isolada #esgotamento-sanitario #renovacao
 
 **Art. 12, caput** {#art12_cpt} A Declaração de Dispensa de Licenciamento Ambiental – DLAM será emitida aos empreendimentos industriais cuja atividade atenda a todos os critérios abaixo:
 - **Art. 12, caput, inciso I** {#art12_cpt_inc1} possuir até 10 funcionários;
@@ -214,14 +213,14 @@ Tags: #dlam #industria #artesanal #efluente #residuo-perigoso #emissao-atmosferi
 **Art. 12, § 5º** {#art12_par5} #esgotamento-sanitario Na hipótese do empreendimento e/ou atividade ultrapassar o limite estabelecido no [[#art12_cpt_inc3|inciso III do caput deste artigo]] e o local ser dotado de rede pública de esgotamento sanitário, o empreendimento ficará passivo de DLAM, desde que apresentada a anuência explicita para o lançamento de efluente industrial da concessionária e comprovada a ligação do efluente industrial na rede pública.
 
 ###### Art. 13 {#art13}
-Tags: #dlam #licenciamento-municipal #municipio-certificado
+Tags: #dlam #licenciamento-municipal
 
 **Art. 13, caput** {#art13_cpt} Não são passíveis de DLAM os empreendimentos industriais localizados em municípios que possuem certificação emitida pelo Conselho Estadual de Meio Ambiente ou delegação emitida pelo Instituto Água e Terra, para realização do licenciamento, monitoramento e fiscalização ambiental.
 
 #### Subseção III – Da Licença Ambiental por Adesão e Compromisso – LAC
 
 ###### Art. 14 {#art14}
-Tags: #lac #industria #area-fragil #app #reserva-legal #area-umida #unidade-conservacao #cavidade-natural #bem-cultural #terra-indigena #quilombola #comunidade-tradicional #area-risco #supressao-vegetacao #movimentacao-solo #efluente #residuo-perigoso #emissao-atmosferica #emissao-fugitiva #utilidade-publica #interesse-social #especie-exotica #esgotamento-sanitario
+Tags: #lac #industria #area-fragil #app #reserva-legal #area-umida #unidade-conservacao #cavidade-natural #bem-cultural #terra-indigena #quilombola #comunidade-tradicional #supressao-vegetacao #movimentacao-solo #efluente #residuo-perigoso #emissao-atmosferica #emissao-fugitiva #utilidade-publica #interesse-social #especie-exotica #esgotamento-sanitario
 
 **Art. 14, caput** {#art14_cpt} A Licença Ambiental por Adesão e Compromisso - LAC será concedida aos empreendimentos industriais de baixo potencial poluidor/degradador do meio ambiente – nível II, mediante a assinatura de Declaração de Adesão e Compromisso do empreendedor aos critérios, pré-condições, requisitos e condicionantes ambientais estabelecidos pelo Instituto Água e Terra – IAT, desde que se conheçam previamente os impactos ambientais, e que atendam, no mínimo, os seguintes critérios:
 - **Art. 14, caput, inciso I** {#art14_cpt_inc1} não estejam localizadas em:
@@ -273,7 +272,7 @@ Tags: #licenciamento-trifasico #licenciamento-bifasico #ampliacao
 ### Seção I – Da Autorização Ambiental – AA
 
 ###### Art. 17 {#art17}
-Tags: #autorizacao-ambiental #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procuracao #taxa-ambiental #comissionamento
+Tags: #autorizacao-ambiental #documentacao #requerimento #cnpj #cpf #procuracao #taxa-ambiental
 
 **Art. 17, caput** {#art17_cpt} Os requerimentos para Autorização Ambiental, conforme Capítulo IV da presente Instrução Normativa, devem ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 17, caput, inciso I** {#art17_cpt_inc1} dados e documentação de identificação do empreendedor:
@@ -292,7 +291,7 @@ Tags: #autorizacao-ambiental #documentacao #requerimento #sistema-informatizado 
 - **Art. 17, caput, inciso IV** {#art17_cpt_inc4} comprovante de pagamento da taxa ambiental;
 - **Art. 17, caput, inciso V** {#art17_cpt_inc5} Requerimento de Licenciamento Ambiental.
 
-**Art. 17, parágrafo único** {#art17_par1u} #comissionamento Para o requerimento de Autorização Ambiental de Comissionamento deverá ser apresentado memorial descritivo detalhado das linhas e processos que serão comissionados, bem como indicação das emissões atmosféricas a serem geradas, e gerenciamento dos resíduos e efluentes gerados durante a etapa de comissionamento.
+**Art. 17, parágrafo único** {#art17_par1u} Para o requerimento de Autorização Ambiental de Comissionamento deverá ser apresentado memorial descritivo detalhado das linhas e processos que serão comissionados, bem como indicação das emissões atmosféricas a serem geradas, e gerenciamento dos resíduos e efluentes gerados durante a etapa de comissionamento.
 
 ###### Art. 18 {#art18}
 Tags: #autorizacao-ambiental #renovacao #ampliacao
@@ -302,7 +301,7 @@ Tags: #autorizacao-ambiental #renovacao #ampliacao
 ### Seção II – Da Declaração de Dispensa de Licenciamento Ambiental - DLAM
 
 ###### Art. 19 {#art19}
-Tags: #dlam #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procuracao #mapa-situacao #dominialidade #certidao-municipal #car #embargo #outorga-direito #uso-insignificante
+Tags: #dlam #documentacao #requerimento #cnpj #cpf #procuracao #mapa-situacao #dominialidade #certidao-municipal #car #embargo #outorga-direito #uso-insignificante
 
 **Art. 19, caput** {#art19_cpt} Os requerimentos para Declaração de Dispensa de Licenciamento Ambiental – DLAM, conforme Capítulo IV da presente Instrução Normativa, devem ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 19, caput, inciso I** {#art19_cpt_inc1} dados e documentação de identificação do empreendedor:
@@ -343,7 +342,7 @@ Tags: #dlam #dispensa
 ### Seção III – Da Licença Ambiental por Adesão e Compromisso – LAC
 
 ###### Art. 21 {#art21}
-Tags: #lac #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procuracao #mapa-situacao #certidao-municipal #dominialidade #car #memorial-caracterizacao #art-anotacao #embargo #declaracao-adesao-compromisso #serflor #registro-fotografico #orgao-interveniente #outorga-previa #uso-insignificante #publicacao-dioe #taxa-ambiental
+Tags: #lac #documentacao #requerimento #cnpj #cpf #procuracao #mapa-situacao #certidao-municipal #dominialidade #car #memorial-caracterizacao #art-anotacao #embargo #declaracao-adesao-compromisso #serflor #outorga-previa #uso-insignificante #publicacao-dioe #taxa-ambiental
 
 **Art. 21, caput** {#art21_cpt} Os requerimentos para Licença Ambiental por Adesão e Compromisso - LAC, conforme Capítulo IV da presente Instrução Normativa, devem ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 21, caput, inciso I** {#art21_cpt_inc1} dados e documentação de identificação do empreendedor:
@@ -386,7 +385,7 @@ Tags: #lac #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procur
 ### Seção IV – Da Licença Ambiental Simplificada – LAS
 
 ###### Art. 22 {#art22}
-Tags: #las #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procuracao #mapa-situacao #pbca #dominialidade #certidao-municipal #embargo #car #outorga-previa #orgao-interveniente #serflor #sinaflor #ctf #art-anotacao #automonitoramento #emissao-atmosferica #publicacao-dioe #taxa-ambiental
+Tags: #las #documentacao #requerimento #cnpj #cpf #procuracao #mapa-situacao #pbca #dominialidade #certidao-municipal #embargo #car #outorga-previa #serflor #sinaflor #ctf #art-anotacao #automonitoramento #emissao-atmosferica #publicacao-dioe #taxa-ambiental
 
 **Art. 22, caput** {#art22_cpt} Os requerimentos para Licença Ambiental Simplificada – LAS, conforme Capítulo IV da presente Instrução Normativa, devem ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 22, caput, inciso I** {#art22_cpt_inc1} dados e documentação de identificação do empreendedor:
@@ -442,7 +441,7 @@ Tags: #licenciamento-trifasico #lp #li #lo
 #### Subseção I – Da Licença Prévia - LP
 
 ###### Art. 25 {#art25}
-Tags: #lp #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procuracao #mapa-situacao #arquivo-vetorial #memorial-caracterizacao #dominialidade #certidao-municipal #embargo #car #outorga-previa #orgao-interveniente #relatorio-caracterizacao-flora #publicacao-dioe #taxa-ambiental
+Tags: #lp #documentacao #requerimento #cnpj #cpf #procuracao #mapa-situacao #memorial-caracterizacao #dominialidade #certidao-municipal #embargo #car #outorga-previa #relatorio-caracterizacao-flora #publicacao-dioe #taxa-ambiental
 
 **Art. 25, caput** {#art25_cpt} Os requerimentos para Licença Prévia – LP, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 25, caput, inciso I** {#art25_cpt_inc1} dados e documentação de identificação do empreendedor:
@@ -477,7 +476,7 @@ Tags: #lp #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procura
 - **Art. 25, caput, inciso XII** {#art25_cpt_inc12} recolhimento da taxa ambiental, bem como dos demais valores cabíveis referentes à publicação da súmula da concessão da Licença requerida, no Diário Oficial do Estado, a ser efetivada pelo IAT;
 
 ###### Art. 26 {#art26}
-Tags: #lp #estudo-ambiental #eia-rima #rap #termo-referencia
+Tags: #lp #estudo-ambiental #eia-rima #rap
 
 **Art. 26, caput** {#art26_cpt} A critério do IAT poderão ser solicitados estudos e documentos complementares, previamente à emissão da Licença Prévia.
 
@@ -496,7 +495,7 @@ Tags: #lp #prorrogacao #validade
 #### Subseção II – Da Licença de Instalação – LI
 
 ###### Art. 29 {#art29}
-Tags: #li #documentacao #requerimento #sistema-informatizado #relatorio-atendimento-condicionante #pcpa #terraplanagem #poluicao-sonora #sinaflor #autorizacao-florestal #embargo #publicacao-dioe #taxa-ambiental
+Tags: #li #documentacao #requerimento #relatorio-atendimento-condicionante #pcpa #terraplanagem #poluicao-sonora #sinaflor #autorizacao-florestal #embargo #publicacao-dioe #taxa-ambiental
 
 **Art. 29, caput** {#art29_cpt} Os requerimentos para Licença de Instalação – LI, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 29, caput, inciso I** {#art29_cpt_inc1} cópia da Licença anterior;
@@ -525,7 +524,7 @@ Tags: #li #prorrogacao #validade
 #### Subseção III – Da Licença de Operação - LO
 
 ###### Art. 32 {#art32}
-Tags: #lo #documentacao #requerimento #sistema-informatizado #relatorio-atendimento-condicionante #serflor #dominialidade #embargo #pcpa #pgrs #automonitoramento #emissao-atmosferica #outorga-direito #ctf #art-anotacao #porte-excepcional #publicacao-dioe #taxa-ambiental
+Tags: #lo #documentacao #requerimento #relatorio-atendimento-condicionante #serflor #dominialidade #embargo #pcpa #pgrs #automonitoramento #emissao-atmosferica #outorga-direito #ctf #art-anotacao #porte-excepcional #publicacao-dioe #taxa-ambiental
 
 **Art. 32, caput** {#art32_cpt} Os requerimentos para Licença de Operação - LO, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 32, caput, inciso I** {#art32_cpt_inc1} cópia da Licença anterior;
@@ -548,7 +547,7 @@ Tags: #lo #documentacao #requerimento #sistema-informatizado #relatorio-atendime
 ## CAPÍTULO VII – DOS PRAZOS DE VALIDADE DAS LICENÇAS
 
 ###### Art. 33 {#art33}
-Tags: #validade #autorizacao-ambiental #dlam #lac #las #lasr #lp #li #lir #lo #lor #renovacao #prorrogacao #prazo-diferenciado
+Tags: #validade #autorizacao-ambiental #dlam #lac #las #lasr #lp #li #lir #lo #lor #renovacao #prorrogacao
 
 **Art. 33, caput** {#art33_cpt} O órgão ambiental competente estabelecerá os prazos de validade para cada tipo de licença e autorização ambiental, especificando-os no respectivo documento, levando em consideração os seguintes aspectos:
 - **Art. 33, caput, inciso I** {#art33_cpt_inc1} o prazo de validade da Autorização Ambiental – AA será de no máximo 02 (dois) anos.
@@ -581,7 +580,7 @@ Tags: #prorrogacao #lp #li
 ### Seção I – Da Renovação da Licença Ambiental por Adesão e Compromisso – RLAC
 
 ###### Art. 36 {#art36}
-Tags: #renovacao #lac #documentacao #requerimento #sistema-informatizado #relatorio-atendimento-condicionante #serflor #dominialidade #embargo #dcp #pgrs #inventario-residuos #mtr #outorga-direito #automonitoramento #declaracao-adesao-compromisso #art-anotacao #ctf #publicacao-dioe #taxa-ambiental
+Tags: #renovacao #lac #documentacao #requerimento #relatorio-atendimento-condicionante #serflor #dominialidade #embargo #dcp #pgrs #inventario-residuos #mtr #outorga-direito #automonitoramento #declaracao-adesao-compromisso #art-anotacao #ctf #publicacao-dioe #taxa-ambiental
 
 **Art. 36, caput** {#art36_cpt} Os requerimentos para Renovação da Licença Ambiental por Adesão e Compromisso – RLAC, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 36, caput, inciso I** {#art36_cpt_inc1} cópia da Licença anterior;
@@ -609,7 +608,7 @@ Tags: #renovacao #lac #documentacao #requerimento #sistema-informatizado #relato
 ### Seção II – Da Renovação da Licença Ambiental Simplificada - RLAS
 
 ###### Art. 37 {#art37}
-Tags: #renovacao #las #documentacao #requerimento #sistema-informatizado #relatorio-atendimento-condicionante #serflor #mapa-situacao #dominialidade #dcp #automonitoramento #pgrs #inventario-residuos #mtr #outorga-direito #ctf #embargo #art-anotacao #logistica-reversa #publicacao-dioe #taxa-ambiental
+Tags: #renovacao #las #documentacao #requerimento #relatorio-atendimento-condicionante #serflor #mapa-situacao #dominialidade #dcp #automonitoramento #pgrs #inventario-residuos #mtr #outorga-direito #ctf #embargo #art-anotacao #logistica-reversa #publicacao-dioe #taxa-ambiental
 
 **Art. 37, caput** {#art37_cpt} Os requerimentos para Renovação da Licença Ambiental Simplificada – RLAS, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 37, caput, inciso I** {#art37_cpt_inc1} cópia da Licença anterior;
@@ -642,7 +641,7 @@ Tags: #renovacao #las #documentacao #requerimento #sistema-informatizado #relato
 ### Seção III – Da Renovação da Licença de Operação - RLO
 
 ###### Art. 38 {#art38}
-Tags: #renovacao #lo #documentacao #requerimento #sistema-informatizado #relatorio-atendimento-condicionante #serflor #dominialidade #dcp #automonitoramento #pgrs #inventario-residuos #mtr #outorga-direito #ctf #embargo #art-anotacao #logistica-reversa #porte-excepcional #publicacao-dioe #taxa-ambiental
+Tags: #renovacao #lo #documentacao #requerimento #relatorio-atendimento-condicionante #serflor #dominialidade #dcp #automonitoramento #pgrs #inventario-residuos #mtr #outorga-direito #ctf #embargo #art-anotacao #logistica-reversa #porte-excepcional #publicacao-dioe #taxa-ambiental
 
 **Art. 38, caput** {#art38_cpt} Os requerimentos para Renovação de Licença de Operação - RLO, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 38, caput, inciso I** {#art38_cpt_inc1} cópia da Licença anterior;
@@ -688,7 +687,7 @@ Tags: #lasa #ampliacao #porte #lpa
 **Art. 41, caput** {#art41_cpt} A Licença Ambiental Simplificada de Ampliação - LASA aprova a localização e a concepção de ampliações ou alterações definitivas nos empreendimentos e/ou atividades detentoras de Licença Ambiental Simplificada - LAS, somente nos casos em que a somatória do porte da estrutura existente acrescida da estrutura a ser licenciada não ultrapasse o limite estabelecido para a referida licença em normas específicas, caso contrário estará sujeito à Licença Prévia de Ampliação – LPA.
 
 ###### Art. 42 {#art42}
-Tags: #lasa #ampliacao #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procuracao #mapa-situacao #relatorio-atendimento-condicionante #pbca #dominialidade #certidao-municipal #embargo #serflor #car #outorga-previa #orgao-interveniente #sinaflor #ctf #art-anotacao #publicacao-dioe #taxa-ambiental #diagnostico-ambiental
+Tags: #lasa #ampliacao #documentacao #requerimento #cnpj #cpf #procuracao #mapa-situacao #relatorio-atendimento-condicionante #pbca #dominialidade #certidao-municipal #embargo #serflor #car #outorga-previa #sinaflor #ctf #art-anotacao #publicacao-dioe #taxa-ambiental #diagnostico-ambiental
 
 **Art. 42, caput** {#art42_cpt} Os requerimentos para Licença Ambiental Simplificada de Ampliação - LASA, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 42, caput, inciso I** {#art42_cpt_inc1} dados e documentação de identificação do empreendedor:
@@ -739,7 +738,7 @@ Tags: #lasa #supressao-vegetacao #autorizacao-florestal #autorizacao-ambiental #
 ### Seção II – Da Licença Prévia de Ampliação - LPA
 
 ###### Art. 44 {#art44}
-Tags: #lpa #ampliacao #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procuracao #mapa-situacao #arquivo-vetorial #relatorio-atendimento-condicionante #memorial-caracterizacao #dominialidade #certidao-municipal #embargo #car #outorga-previa #orgao-interveniente #relatorio-caracterizacao-flora #ctf #publicacao-dioe #taxa-ambiental #diagnostico-ambiental
+Tags: #lpa #ampliacao #documentacao #requerimento #cnpj #cpf #procuracao #mapa-situacao #relatorio-atendimento-condicionante #memorial-caracterizacao #dominialidade #certidao-municipal #embargo #car #outorga-previa #relatorio-caracterizacao-flora #ctf #publicacao-dioe #taxa-ambiental #diagnostico-ambiental
 
 **Art. 44, caput** {#art44_cpt} Os requerimentos para Licença Prévia de Ampliação - LPA, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 44, caput, inciso I** {#art44_cpt_inc1} dados e documentação de identificação do empreendedor:
@@ -780,7 +779,7 @@ Tags: #lpa #ampliacao #documentacao #requerimento #sistema-informatizado #cnpj #
 **Art. 44, parágrafo único** {#art44_par1u} O estudo ao qual se refere o [[#art44_cpt_inc5|Inciso V deste artigo]] deverá ser elaborado junto de um diagnóstico atual da situação do empreendimento contemplando as áreas e atividades já licenciadas e as áreas e atividades a serem ampliadas.
 
 ###### Art. 45 {#art45}
-Tags: #lpa #estudo-ambiental #eia-rima #rap #termo-referencia
+Tags: #lpa #estudo-ambiental #eia-rima #rap
 
 **Art. 45, caput** {#art45_cpt} A critério do IAT poderão ser solicitados estudos e documentos complementares, previamente à emissão da Licença Prévia.
 
@@ -804,7 +803,7 @@ Tags: #lia #lpa #ampliacao
 **Art. 48, caput** {#art48_cpt} A Licença de Instalação de Ampliação - LIA se aplica exclusivamente para os empreendimentos e/ou atividades detentores de Licença Prévia de Ampliação - LPA.
 
 ###### Art. 49 {#art49}
-Tags: #lia #ampliacao #documentacao #requerimento #sistema-informatizado #relatorio-atendimento-condicionante #dominialidade #embargo #pcpa #terraplanagem #poluicao-sonora #sinaflor #autorizacao-florestal #ctf #publicacao-dioe #taxa-ambiental #diagnostico-ambiental
+Tags: #lia #ampliacao #documentacao #requerimento #relatorio-atendimento-condicionante #dominialidade #embargo #pcpa #terraplanagem #poluicao-sonora #sinaflor #autorizacao-florestal #ctf #publicacao-dioe #taxa-ambiental #diagnostico-ambiental
 
 **Art. 49, caput** {#art49_cpt} Os requerimentos para Licença de Instalação de Ampliação - LIA, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 49, caput, inciso I** {#art49_cpt_inc1} cópia da Licença anterior;
@@ -837,7 +836,7 @@ Tags: #loa #lpa #lia #licenciamento-bifasico #licenciamento-trifasico
 **Art. 51, caput** {#art51_cpt} A Licença de Operação se aplica exclusivamente para os empreendimentos e/ou atividades detentores de Licença Prévia de Ampliação - LPA, no caso de licenciamento bifásico ou, de Licença de Instalação de Ampliação - LIA, no caso de licenciamento trifásico bifásico.
 
 ###### Art. 52 {#art52}
-Tags: #loa #ampliacao #documentacao #requerimento #sistema-informatizado #relatorio-atendimento-condicionante #serflor #dominialidade #embargo #pcpa #pgrs #mtr #inventario-residuos #automonitoramento #emissao-atmosferica #outorga-direito #dcp #art-anotacao #ctf #porte-excepcional #publicacao-dioe #taxa-ambiental #diagnostico-ambiental
+Tags: #loa #ampliacao #documentacao #requerimento #relatorio-atendimento-condicionante #serflor #dominialidade #embargo #pcpa #pgrs #mtr #inventario-residuos #automonitoramento #emissao-atmosferica #outorga-direito #dcp #art-anotacao #ctf #porte-excepcional #publicacao-dioe #taxa-ambiental #diagnostico-ambiental
 
 **Art. 52, caput** {#art52_cpt} Os requerimentos para Licença de Operação de Ampliação - LOA, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 52, caput, inciso I** {#art52_cpt_inc1} cópia da Licença anterior;
@@ -874,7 +873,7 @@ Tags: #regularizacao #licenca-vencida
 - **Art. 53, caput, inciso III** {#art53_cpt_inc3} estejam em implantação ou operação sem a devida licença vigente.
 
 ###### Art. 54 {#art54}
-Tags: #regularizacao #viabilidade-locacional #tac #encerramento #sancao #reparacao-dano
+Tags: #regularizacao #viabilidade-locacional #tac #encerramento #sancao
 
 **Art. 54, caput** {#art54_cpt} Para o licenciamento de regularização devem ser observados os seguintes requisitos:
 - **Art. 54, caput, inciso I** {#art54_cpt_inc1} somente serão emitidas quando da viabilidade locacional, técnica e jurídica do empreendimento e/ou atividade;
@@ -886,7 +885,7 @@ Tags: #regularizacao #viabilidade-locacional #tac #encerramento #sancao #reparac
 ### Seção I – Da Licença Ambiental Simplificada de Regularização – LASR
 
 ###### Art. 55 {#art55}
-Tags: #lasr #regularizacao #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procuracao #mapa-situacao #pbca #diagnostico-ambiental #dominialidade #certidao-municipal #embargo #car #orgao-interveniente #sinaflor #serflor #ctf #art-anotacao #automonitoramento #publicacao-dioe #taxa-ambiental
+Tags: #lasr #regularizacao #documentacao #requerimento #cnpj #cpf #procuracao #mapa-situacao #pbca #diagnostico-ambiental #dominialidade #certidao-municipal #embargo #car #sinaflor #serflor #ctf #art-anotacao #automonitoramento #publicacao-dioe #taxa-ambiental
 
 **Art. 55, caput** {#art55_cpt} Os requerimentos para Licença Ambiental Simplificada de Regularização – LASR, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo e se aplicam à empreendimentose/ouatividadespotencialmentepoluidoras/degradadoras em operação:
 - **Art. 55, caput, inciso I** {#art55_cpt_inc1} dados e documentação de identificação do empreendedor:
@@ -945,7 +944,7 @@ Tags: #lir #regularizacao #li #lp
 **Art. 58, caput** {#art58_cpt} A Licença de Instalação de Regularização - LIR se aplica para os empreendimentos e/ou atividades sem a respectiva LI, mesmo que tenha obtido a LP, pois esta não autoriza início das obras.
 
 ###### Art. 59 {#art59}
-Tags: #lir #regularizacao #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procuracao #mapa-situacao #arquivo-vetorial #pcpa #terraplanagem #diagnostico-ambiental #poluicao-sonora #pgrcc #sinaflor #dominialidade #embargo #certidao-municipal #car #outorga-previa #orgao-interveniente #ctf #publicacao-dioe #taxa-ambiental
+Tags: #lir #regularizacao #documentacao #requerimento #cnpj #cpf #procuracao #mapa-situacao #pcpa #terraplanagem #diagnostico-ambiental #poluicao-sonora #pgrcc #sinaflor #dominialidade #embargo #certidao-municipal #car #outorga-previa #ctf #publicacao-dioe #taxa-ambiental
 
 **Art. 59, caput** {#art59_cpt} Os requerimentos para Licença de Instalação de Regularização - LIR, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo, e se aplicam à empreendimentos e/ou atividades potencialmente poluidoras/degradadoras em instalação:
 - **Art. 59, caput, inciso I** {#art59_cpt_inc1} dados e documentação de identificação do empreendedor:
@@ -1001,7 +1000,7 @@ Tags: #lor #regularizacao #lo #li
 **Art. 61, caput** {#art61_cpt} A Licença de Operação de Regularização - LOR se aplica para os empreendimentos e/ou atividades sem a respectiva LO, mesmo que tenha obtido a LI, pois esta não autoriza início de operação.
 
 ###### Art. 62 {#art62}
-Tags: #lor #regularizacao #documentacao #requerimento #sistema-informatizado #cnpj #cpf #procuracao #mapa-situacao #arquivo-vetorial #memorial-caracterizacao #diagnostico-ambiental #poluicao-sonora #dominialidade #embargo #certidao-municipal #car #serflor #orgao-interveniente #pgrs #mtr #inventario-residuos #automonitoramento #ctf #art-anotacao #outorga-direito #area-contaminada #porte-excepcional #publicacao-dioe #taxa-ambiental
+Tags: #lor #regularizacao #documentacao #requerimento #cnpj #cpf #procuracao #mapa-situacao #memorial-caracterizacao #diagnostico-ambiental #poluicao-sonora #dominialidade #embargo #certidao-municipal #car #serflor #pgrs #mtr #inventario-residuos #automonitoramento #ctf #art-anotacao #outorga-direito #area-contaminada #porte-excepcional #publicacao-dioe #taxa-ambiental
 
 **Art. 62, caput** {#art62_cpt} Os requerimentos para Licença de Operação de Regularização - LOR, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo e se aplicam à empreendimentos e/ou atividades potencialmente poluidoras/degradadoras em operação:
 - **Art. 62, caput, inciso I** {#art62_cpt_inc1} dados e documentação de identificação do empreendedor:
@@ -1118,7 +1117,7 @@ Tags: #emissao-atmosferica #automonitoramento
 ### Seção IV – Quanto ao Gerenciamento de Riscos e Segurança
 
 ###### Art. 74 {#art74}
-Tags: #pgr #risco-ambiental #modelagem
+Tags: #pgr #risco-ambiental
 
 **Art. 74, caput** {#art74_cpt} O Programa de Gerenciamento de Risco será exigido de todos os empreendimentos, cuja atividade possa resultar em acidentes com impacto para a população do seu entorno e que mantiverem em suas instalações substâncias em quantidades superiores às apresentadas na [[portaria-iap-159-2015|Portaria IAP nº 159/2015]], ou outras que venham a substituí-la.
 
@@ -1141,7 +1140,7 @@ Tags: #area-contaminada #cema
 ### Seção VI – Quanto ao recebimento de resíduos sólidos e/ou efluentes provenientes de terceiros como matéria prima ou insumos
 
 ###### Art. 77 {#art77}
-Tags: #reciclagem #residuo-terceiro #residuo-solido #efluente #rastreabilidade
+Tags: #reciclagem #residuo-terceiro #residuo-solido #efluente
 
 **Art. 77, caput** {#art77_cpt} As atividades industriais de reciclagem ou que recebam resíduos sólidos e/ou efluentes, provenientes de terceiros como matéria primas ou insumos deverão:
 - **Art. 77, caput, inciso I** {#art77_cpt_inc1} prever requisitos e especificações de avaliação do material que assegurem a proteção ao meio ambiente e à saúde pública.
@@ -1151,7 +1150,7 @@ Tags: #reciclagem #residuo-terceiro #residuo-solido #efluente #rastreabilidade
 ## CAPÍTULO XI – ASPECTOS LOCACIONAIS
 
 ###### Art. 78 {#art78}
-Tags: #localizacao #app #area-contaminada #geologia
+Tags: #app #area-contaminada #geologia
 
 **Art. 78, caput** {#art78_cpt} A implantação de empreendimentos industriais quanto à localização, deverá atender, no mínimo, os seguintes critérios:
 - **Art. 78, caput, inciso I** {#art78_cpt_inc1} a área do empreendimento, deve situar-se a uma distância mínima de corpos hídricos, de modo a não atingir áreas de preservação permanente, conforme estabelecido no [[lei-federal-12651-2012|Código Florestal]];
@@ -1176,7 +1175,7 @@ Tags: #dlae #dlam #lac #prazo #direito-transicao
 **Art. 81, caput** {#art81_cpt} #dlae Os empreendimentos detentores de Declaração de Licenciamento Ambiental Estadual – DLAE, em função de alterações de normativas de licenciamento ambiental, deverão solicitar a Declaração de Dispensa de Licenciamento Ambiental – DLAM ou Licença por Adesão e Compromisso – LAC, em um prazo de até 12 meses a contar da data de publicação desta Instrução Normativa.
 
 ###### Art. 82 {#art82}
-Tags: #orgao-interveniente #funai #incra #iphan
+Tags: #funai #iphan
 
 **Art. 82, caput** {#art82_cpt} Quando da necessidade da manifestação de órgãos intervenientes externos ao órgão licenciador, tais como FUNAI, INCRA, IPHAN, ICMBio, CEPHA, DNIT, DER, entre outros, será seguido o procedimento conforme estabelece o [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]].
 
@@ -1210,7 +1209,7 @@ Tags: #vigencia #revogacao
 > Fonte dos anexos: texto integral da IN enviado por Leo (extração de texto do PDF). Tipos conforme as regras de anexos do README: **tipo 1** (modelos) só com o nome; **tipo 2** (diretrizes de estudos) em arquivo próprio em `normas/anexos/`; **tipo 3** (conteúdo normativo) listado aqui, com IDs `anexoN_linM` e `anexoN_tabT_linM`.
 
 ### ANEXO I {#anexo1}
-Tags: #anexo #anexo-normativo #porte #enquadramento #area-construida
+Tags: #anexo #porte #enquadramento #area-construida
 
 **DEFINIÇÃO DO PORTE DE EMPREENDIMENTOS INDUSTRIAIS**
 
@@ -1221,7 +1220,7 @@ Tags: #anexo #anexo-normativo #porte #enquadramento #area-construida
 - **Anexo I, Tabela 1, linha 4** {#anexo1_tab1_lin4} #porte Área Construida (m²): Acima de 40.000 | Investimento total (UPF / PR): acima de 800.000 | Número de empregados: Acima de 1.000 | PORTE: Excepcional(E)
 
 ### ANEXO II {#anexo2}
-Tags: #anexo #anexo-normativo #las #enquadramento #industria
+Tags: #anexo #las #enquadramento #industria
 
 **ATIVIDADES INDUSTRIAIS PASSÍVAS DE LICENCIAMENTO AMBIENTAL SIMPLIFICADO – LAS**
 
@@ -1337,7 +1336,7 @@ Tabela 1 – LAS - GRUPO INDUSTRIAL. Colunas: ATIVIDADE | ATIVIDADE ESPECÍFICA 
 - **Anexo II, Tabela 1, linha 108** {#anexo2_tab1_lin108} #las #industrias-diversas ATIVIDADE: Industrias diversas | ATIVIDADE ESPECÍFICA: Usinas de Produção de Concreto | Limite máximo: Área até 10.000 m²
 
 ### ANEXO III {#anexo3}
-Tags: #anexo #modelo
+Tags: #anexo
 
 Modelo de certidão do Município quanto ao uso e ocupação do solo. *(Tipo 1: modelo, conteúdo não transcrito. Exigido no [[#art19_cpt_inc5|art. 19]].)*
 
@@ -1347,17 +1346,17 @@ Tags: #anexo #diretriz-estudo
 Termo de referência para elaboração do Memorial de Caracterização do Empreendimento – MCE. *(Tipo 2: diretriz de estudo, aplica-se só a empreendimentos industriais.)* Texto e síntese em [[instrucao-normativa-iat-65-2025-anexo4|MCE – IN IAT 65/2025, Anexo IV]].
 
 ### ANEXO V {#anexo5}
-Tags: #anexo #modelo
+Tags: #anexo
 
 Modelo de declaração da veracidade das informações prestadas. *(Tipo 1: modelo, conteúdo não transcrito. Exigido no [[#art19_cpt_inc8|art. 19]].)*
 
 ### ANEXO VI {#anexo6}
-Tags: #anexo #modelo
+Tags: #anexo
 
 Modelo de declaração do empreendedor pelo Licenciamento por Adesão e Compromisso. *(Tipo 1: modelo, conteúdo não transcrito. Exigido no [[#art21_cpt_inc9|art. 21]].)*
 
 ### ANEXO VII {#anexo7}
-Tags: #anexo #modelo
+Tags: #anexo
 
 Modelo de declaração do responsável técnico pelo Licenciamento por Adesão e Compromisso. *(Tipo 1: modelo, conteúdo não transcrito. Exigido no [[#art21_cpt_inc10|art. 21]].)*
 
@@ -1382,7 +1381,7 @@ Tags: #anexo #diretriz-estudo
 Termo de referência para elaboração do Plano de Gerenciamento de Resíduos Sólidos – PGRS. *(Tipo 2: diretriz de estudo, aplica-se só a empreendimentos industriais.)* Texto e síntese em [[instrucao-normativa-iat-65-2025-anexo11|PGRS – IN IAT 65/2025, Anexo XI]].
 
 ### ANEXO XII {#anexo12}
-Tags: #anexo #anexo-normativo #validade #lo #prazo #industria
+Tags: #anexo #validade #lo #prazo #industria
 
 **VALIDADE DA LICENÇA DE OPERAÇÃO**
 
@@ -1433,7 +1432,7 @@ Tags: #anexo #diretriz-estudo
 Termo de referência para elaboração de diagnóstico da situação atual do empreendimento. *(Tipo 2: diretriz de estudo, aplica-se só a empreendimentos industriais.)* Texto e síntese em [[instrucao-normativa-iat-65-2025-anexo13|Diagnóstico – IN IAT 65/2025, Anexo XIII]].
 
 ### ANEXO XIV {#anexo14}
-Tags: #anexo #anexo-normativo #efluente #padrao-lancamento #vazao-referencia
+Tags: #anexo #efluente #padrao-lancamento
 
 **CONDIÇÕES E PADRÕES DE LANÇAMENTO DE EFLUENTES LÍQUIDOS INDUSTRIAIS**
 
@@ -1513,39 +1512,39 @@ TABELA 1: Padrões para o lançamento de efluentes líquidos em corpos receptore
 - **Anexo XIV, linha 11** {#anexo14_lin11} IV › - Ausência de materiais flutuantes.
 - **Anexo XIV, linha 12** {#anexo14_lin12} IV › - Outros parâmetros passíveis de estarem presentes ou serem formados nos processos produtivos, que não constem na Tabela 1, deverão ser verificados quando do licenciamento ambiental.
 - **Anexo XIV, linha 13** {#anexo14_lin13} #conama V. Deverão também ser atendidas as demais condições de lançamento de efluentes estabelecidas em Resoluçoes do Conselho Nacional de Meio Ambiente – CONAMA.
-- **Anexo XIV, linha 14** {#anexo14_lin14} #vazao-referencia VALORES DE REFERÊNCIA DE VAZÃO DE EFLUENTES DE ATIVIDADES INDUSTRIAIS
-- **Anexo XIV, linha 15** {#anexo14_lin15} #vazao-referencia Para fins de licenciamento ambiental, a estimativa das vazões de eluentes provenientes de atividades industriais deverá observar os valores de referencia expostos em sequência.
-- **Anexo XIV, linha 16** {#anexo14_lin16} #vazao-referencia Para empreendimentos em que as vazões sejam inferiores ao exposto em sequência, deve ser apresentada justificativa técnica considerando atividades similares.
-- **Anexo XIV, linha 17** {#anexo14_lin17} #vazao-referencia #mandioca 1. Fecularia: 5,8 a 6,0 m³/ton;
-- **Anexo XIV, linha 18** {#anexo14_lin18} #vazao-referencia #mandioca 2. Farinheira: 2,0 a 2,5 m³/ton de mandioca processada;
-- **Anexo XIV, linha 19** {#anexo14_lin19} #vazao-referencia #laticinio 3. Laticínio:
-- **Anexo XIV, linha 20** {#anexo14_lin20} #vazao-referencia #laticinio 3. Laticínio › a. Processo completo: 2,0 a 5,0 L/L de leite processado;
-- **Anexo XIV, linha 21** {#anexo14_lin21} #vazao-referencia #laticinio 3. Laticínio › b. Queijo e manteiga: 2,5 a 3,0 L/L de leite processado;
-- **Anexo XIV, linha 22** {#anexo14_lin22} #vazao-referencia #laticinio 3. Laticínio › c. Resfriamento: 2,0 a 2,5 L/L de leite processado.
-- **Anexo XIV, linha 23** {#anexo14_lin23} #vazao-referencia #sucroalcooleira 4. Destilaria de álcool: 9,13 m³/ton de cana;
-- **Anexo XIV, linha 24** {#anexo14_lin24} #vazao-referencia #curtume 5. Curtumes:
-- **Anexo XIV, linha 25** {#anexo14_lin25} #vazao-referencia #curtume 5. Curtumes › a. Processo completo: 245 a 500 L/pele;
-- **Anexo XIV, linha 26** {#anexo14_lin26} #vazao-referencia #curtume 5. Curtumes › b. Wet blue a partir de pele não salmouradas ou salgadas: 120 a 200 L/pele;
-- **Anexo XIV, linha 27** {#anexo14_lin27} #vazao-referencia #curtume 5. Curtumes › c. Semiacabado a partir de wet blue: 125 a 300 L/pele;
-- **Anexo XIV, linha 28** {#anexo14_lin28} #vazao-referencia #frigorifico 6. Frigoríficos:
-- **Anexo XIV, linha 29** {#anexo14_lin29} #vazao-referencia #frigorifico 6. Frigoríficos › a. Abatedouro de bovinos: 1.500 L/cabeça;
-- **Anexo XIV, linha 30** {#anexo14_lin30} #vazao-referencia #frigorifico 6. Frigoríficos › b. Abatedouro de suínos: 1.000 L/cabeça;
-- **Anexo XIV, linha 31** {#anexo14_lin31} #vazao-referencia #frigorifico 6. Frigoríficos › c. Abatedouro de ovinos: 800 L/cabeça;
-- **Anexo XIV, linha 32** {#anexo14_lin32} #vazao-referencia #frigorifico 6. Frigoríficos › d. Abatedouro de aves: 25 L/ave;
-- **Anexo XIV, linha 33** {#anexo14_lin33} #vazao-referencia #frigorifico 6. Frigoríficos › e. Industria de embutidos: 3,0 a 5,0 L/kg de carne.
-- **Anexo XIV, linha 34** {#anexo14_lin34} #vazao-referencia #industria-textil 7. Tinturaria, têxteis e lavanderia industrial: 150 m³/ton de roupas;
-- **Anexo XIV, linha 35** {#anexo14_lin35} #vazao-referencia #oleo-soja 8. Extração e refino de óleo de soja:400 L/ton de soja;
-- **Anexo XIV, linha 36** {#anexo14_lin36} #vazao-referencia #oleo-soja 8. Extração e refino de óleo de soja › a. Óleo bruto: 2.000 L/ton;
-- **Anexo XIV, linha 37** {#anexo14_lin37} #vazao-referencia #oleo-soja 8. Extração e refino de óleo de soja › b. Óleo refinado:3.500 L/ton.
-- **Anexo XIV, linha 38** {#anexo14_lin38} #vazao-referencia #industria-bebidas 9. Bebidas:
-- **Anexo XIV, linha 39** {#anexo14_lin39} #vazao-referencia #industria-bebidas 9. Bebidas › a. Refrigerantes: 3,0 L/L de refrigerante;
-- **Anexo XIV, linha 40** {#anexo14_lin40} #vazao-referencia #industria-bebidas 9. Bebidas › b. Cerveja: 7,5 a 13 L/L de cerveja;
-- **Anexo XIV, linha 41** {#anexo14_lin41} #vazao-referencia #maltearia 10. Maltearia: 9.000 L/ton de malte processado;
-- **Anexo XIV, linha 42** {#anexo14_lin42} #vazao-referencia #galvanoplastia 11. Tratamento de superficie (galvanotécnica): Varia de acordo com o tamanho daspeças a serem revestidas;
-- **Anexo XIV, linha 43** {#anexo14_lin43} #vazao-referencia 12. Outras atividades: Variável de acordo com atividade.
+- **Anexo XIV, linha 14** {#anexo14_lin14} VALORES DE REFERÊNCIA DE VAZÃO DE EFLUENTES DE ATIVIDADES INDUSTRIAIS
+- **Anexo XIV, linha 15** {#anexo14_lin15} Para fins de licenciamento ambiental, a estimativa das vazões de eluentes provenientes de atividades industriais deverá observar os valores de referencia expostos em sequência.
+- **Anexo XIV, linha 16** {#anexo14_lin16} Para empreendimentos em que as vazões sejam inferiores ao exposto em sequência, deve ser apresentada justificativa técnica considerando atividades similares.
+- **Anexo XIV, linha 17** {#anexo14_lin17} #mandioca 1. Fecularia: 5,8 a 6,0 m³/ton;
+- **Anexo XIV, linha 18** {#anexo14_lin18} #mandioca 2. Farinheira: 2,0 a 2,5 m³/ton de mandioca processada;
+- **Anexo XIV, linha 19** {#anexo14_lin19} #laticinio 3. Laticínio:
+- **Anexo XIV, linha 20** {#anexo14_lin20} #laticinio 3. Laticínio › a. Processo completo: 2,0 a 5,0 L/L de leite processado;
+- **Anexo XIV, linha 21** {#anexo14_lin21} #laticinio 3. Laticínio › b. Queijo e manteiga: 2,5 a 3,0 L/L de leite processado;
+- **Anexo XIV, linha 22** {#anexo14_lin22} #laticinio 3. Laticínio › c. Resfriamento: 2,0 a 2,5 L/L de leite processado.
+- **Anexo XIV, linha 23** {#anexo14_lin23} #sucroalcooleira 4. Destilaria de álcool: 9,13 m³/ton de cana;
+- **Anexo XIV, linha 24** {#anexo14_lin24} #curtume 5. Curtumes:
+- **Anexo XIV, linha 25** {#anexo14_lin25} #curtume 5. Curtumes › a. Processo completo: 245 a 500 L/pele;
+- **Anexo XIV, linha 26** {#anexo14_lin26} #curtume 5. Curtumes › b. Wet blue a partir de pele não salmouradas ou salgadas: 120 a 200 L/pele;
+- **Anexo XIV, linha 27** {#anexo14_lin27} #curtume 5. Curtumes › c. Semiacabado a partir de wet blue: 125 a 300 L/pele;
+- **Anexo XIV, linha 28** {#anexo14_lin28} #frigorifico 6. Frigoríficos:
+- **Anexo XIV, linha 29** {#anexo14_lin29} #frigorifico 6. Frigoríficos › a. Abatedouro de bovinos: 1.500 L/cabeça;
+- **Anexo XIV, linha 30** {#anexo14_lin30} #frigorifico 6. Frigoríficos › b. Abatedouro de suínos: 1.000 L/cabeça;
+- **Anexo XIV, linha 31** {#anexo14_lin31} #frigorifico 6. Frigoríficos › c. Abatedouro de ovinos: 800 L/cabeça;
+- **Anexo XIV, linha 32** {#anexo14_lin32} #frigorifico 6. Frigoríficos › d. Abatedouro de aves: 25 L/ave;
+- **Anexo XIV, linha 33** {#anexo14_lin33} #frigorifico 6. Frigoríficos › e. Industria de embutidos: 3,0 a 5,0 L/kg de carne.
+- **Anexo XIV, linha 34** {#anexo14_lin34} #industria-textil 7. Tinturaria, têxteis e lavanderia industrial: 150 m³/ton de roupas;
+- **Anexo XIV, linha 35** {#anexo14_lin35} #oleo-soja 8. Extração e refino de óleo de soja:400 L/ton de soja;
+- **Anexo XIV, linha 36** {#anexo14_lin36} #oleo-soja 8. Extração e refino de óleo de soja › a. Óleo bruto: 2.000 L/ton;
+- **Anexo XIV, linha 37** {#anexo14_lin37} #oleo-soja 8. Extração e refino de óleo de soja › b. Óleo refinado:3.500 L/ton.
+- **Anexo XIV, linha 38** {#anexo14_lin38} #industria-bebidas 9. Bebidas:
+- **Anexo XIV, linha 39** {#anexo14_lin39} #industria-bebidas 9. Bebidas › a. Refrigerantes: 3,0 L/L de refrigerante;
+- **Anexo XIV, linha 40** {#anexo14_lin40} #industria-bebidas 9. Bebidas › b. Cerveja: 7,5 a 13 L/L de cerveja;
+- **Anexo XIV, linha 41** {#anexo14_lin41} #maltearia 10. Maltearia: 9.000 L/ton de malte processado;
+- **Anexo XIV, linha 42** {#anexo14_lin42} #galvanoplastia 11. Tratamento de superficie (galvanotécnica): Varia de acordo com o tamanho daspeças a serem revestidas;
+- **Anexo XIV, linha 43** {#anexo14_lin43} 12. Outras atividades: Variável de acordo com atividade.
 
 ### ANEXO XV {#anexo15}
-Tags: #anexo #modelo
+Tags: #anexo
 
 Modelo de declaração de vínculo empregatício. *(Tipo 1: modelo, conteúdo não transcrito. Exigido no [[#art21_cpt_inc14|art. 21]].)*
 

@@ -19,7 +19,7 @@ alterado_por: ["[[resolucao-conama-430-2011]]", "[[resolucao-conama-410-2009]]"]
 revoga: ["[[resolucao-conama-20-1986]]"]
 revogado_por: []
 cita: ["[[lei-federal-6938-1981]]", "[[decreto-federal-99274-1990]]", "[[resolucao-conama-274-2000]]", "[[lei-federal-9433-1997]]", "[[decreto-legislativo-204-2004]]", "[[lei-federal-9605-1998]]", "[[resolucao-conama-20-1986]]"]
-tags: [abastecimento-publico, agua-doce, agua-salina, agua-salobra, amostragem, aquicultura, autodepuracao, capacidade-suporte, carga-poluidora, cianobacteria, classe-1, classe-2, classe-3, classe-4, classe-especial, classe-qualidade, classificacao-corpo-agua, cnrh, coliforme, conama, condicao-especial, corpo-intermitente, dbo, dcp, definicao, dessedentacao-animal, diluicao, dioxina-furano, direito-transicao, disposicao-solo, ecotoxicidade, efluente, eia-rima, empreendedor, enquadramento, eutrofizacao, fiscalizacao, fonte-poluicao, fosforo, fundamentacao, infracao-ambiental, irrigacao, laboratorio-acreditado, lancamento-excepcional, licenciamento-ambiental, meta-progressiva, metodo-analise, ministerio-publico, monitoramento, nitrogenio, od, oleos-graxas, outorga, padrao-lancamento, padrao-qualidade, parametro-qualidade, perito, pesca, ph, plataforma-petroleo, pop, potabilidade, prazo, prazo-adequacao, recreacao, responsavel-tecnico, restricao-temporaria, revogacao, revogado, sancao, servico-saude, tac, temperatura, terra-indigena, toxicidade, tratamento-efluente, turbidez, unidade-conservacao, uso-preponderante, vazao-referencia, vigencia, virtualmente-ausente, zona-mistura]
+tags: [abastecimento-publico, agua-doce, agua-salina, agua-salobra, aquicultura, autodepuracao, capacidade-suporte, carga-poluidora, cianobacteria, classe-1, classe-2, classe-3, classe-4, classe-especial, classificacao-corpo-agua, cnrh, coliforme, conama, condicao-especial, corpo-intermitente, dbo, dcp, dessedentacao-animal, diluicao, direito-transicao, disposicao-solo, ecotoxicidade, efluente, eia-rima, enquadramento, eutrofizacao, fiscalizacao, fonte-poluicao, fosforo, infracao-ambiental, irrigacao, laboratorio-acreditado, lancamento-excepcional, licenciamento-ambiental, ministerio-publico, monitoramento, nitrogenio, od, oleos-graxas, outorga, padrao-lancamento, padrao-qualidade, parametro-qualidade, pesca, plataforma-petroleo, pop, potabilidade, prazo, prazo-adequacao, responsavel-tecnico, restricao-temporaria, revogacao, revogado, sancao, servico-saude, tac, terra-indigena, toxicidade, tratamento-efluente, turbidez, unidade-conservacao, vigencia, zona-mistura]
 fonte: "Portal do CONAMA, texto compilado (27 páginas; 'Este texto não substitui o publicado no DOU de 18/03/2005'), enviado por Leo"
 ---
 
@@ -52,7 +52,6 @@ Tags: #classificacao-corpo-agua #enquadramento #padrao-lancamento
 ## CAPÍTULO I – DAS DEFINIÇÕES
 
 ###### Art. 2º {#art2}
-Tags: #definicao
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (revogado: inciso XXXVIII)
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução são adotadas as seguintes definições:
@@ -64,7 +63,7 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (revogado
 - **Art. 2º, caput, inciso VI** {#art2_cpt_inc6} aqüicultura: o cultivo ou a criação de organismos cujo ciclo de vida, em condições naturais, ocorre total ou parcialmente em meio aquático;
 - **Art. 2º, caput, inciso VII** {#art2_cpt_inc7} #carga-poluidora carga poluidora: quantidade de determinado poluente transportado ou lançado em um corpo de água receptor, expressa em unidade de massa por tempo;
 - **Art. 2º, caput, inciso VIII** {#art2_cpt_inc8} #cianobacteria cianobactérias: microorganismos procarióticos autotróficos, também denominados como cianofíceas (algas azuis) capazes de ocorrer em qualquer manancial superficial especialmente naqueles com elevados níveis de nutrientes (nitrogênio e fósforo), podendo produzir toxinas com efeitos adversos a saúde;
-- **Art. 2º, caput, inciso IX** {#art2_cpt_inc9} #classe-qualidade classe de qualidade: conjunto de condições e padrões de qualidade de água necessários ao atendimento dos usos preponderantes, atuais ou futuros;
+- **Art. 2º, caput, inciso IX** {#art2_cpt_inc9} classe de qualidade: conjunto de condições e padrões de qualidade de água necessários ao atendimento dos usos preponderantes, atuais ou futuros;
 - **Art. 2º, caput, inciso X** {#art2_cpt_inc10} classificação: qualificação das águas doces, salobras e salinas em função dos usos preponderantes (sistema de classes de qualidade) atuais e futuros;
 - **Art. 2º, caput, inciso XI** {#art2_cpt_inc11} #coliforme coliformes termotolerantes: bactérias gram-negativas, em forma de bacilos, oxidase-negativas, caracterizadas pela atividade da enzima β-galactosidase. Podem crescer em meios contendo agentes tenso-ativos e fermentar a lactose nas temperaturas de 44º - 45ºC, com produção de ácido, gás e aldeído. Além de estarem presentes em fezes humanas e de animais homeotérmicos, ocorrem em solos, plantas ou outras matrizes ambientais que não tenham sido contaminados por material fecal;
 - **Art. 2º, caput, inciso XII** {#art2_cpt_inc12} condição de qualidade: qualidade apresentada por um segmento de corpo d'água, num determinado momento, em termos dos usos possíveis com segurança adequada, frente às Classes de Qualidade;
@@ -91,14 +90,14 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (revogado
 - **Art. 2º, caput, inciso XXXIII** {#art2_cpt_inc33} tratamento convencional: clarificação com utilização de coagulação e floculação, seguida de desinfecção e correção de pH;
 - **Art. 2º, caput, inciso XXXIV** {#art2_cpt_inc34} tratamento simplificado: clarificação por meio de filtração e desinfecção e correção de pH quando necessário;
 - **Art. 2º, caput, inciso XXXV** {#art2_cpt_inc35} tributário (ou curso de água afluente): corpo de água que flui para um rio maior ou para um lago ou reservatório;
-- **Art. 2º, caput, inciso XXXVI** {#art2_cpt_inc36} #vazao-referencia vazão de referência: vazão do corpo hídrico utilizada como base para o processo de gestão, tendo em vista o uso múltiplo das águas e a necessária articulação das instâncias do Sistema Nacional de Meio Ambiente-SISNAMA e do Sistema Nacional de Gerenciamento de Recursos Hídricos-SINGRH;
-- **Art. 2º, caput, inciso XXXVII** {#art2_cpt_inc37} #virtualmente-ausente virtualmente ausentes: que não é perceptível pela visão, olfato ou paladar; e
+- **Art. 2º, caput, inciso XXXVI** {#art2_cpt_inc36} vazão de referência: vazão do corpo hídrico utilizada como base para o processo de gestão, tendo em vista o uso múltiplo das águas e a necessária articulação das instâncias do Sistema Nacional de Meio Ambiente-SISNAMA e do Sistema Nacional de Gerenciamento de Recursos Hídricos-SINGRH;
+- **Art. 2º, caput, inciso XXXVII** {#art2_cpt_inc37} virtualmente ausentes: que não é perceptível pela visão, olfato ou paladar; e
 - **Art. 2º, caput, inciso XXXVIII** {#art2_cpt_inc38} #zona-mistura #revogado ~~zona de mistura: região do corpo receptor onde ocorre a diluição inicial de um efluente.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ## CAPÍTULO II – DA CLASSIFICAÇÃO DOS CORPOS DE ÁGUA
 
 ###### Art. 3º {#art3}
-Tags: #classificacao-corpo-agua #classe-qualidade
+Tags: #classificacao-corpo-agua
 
 **Art. 3º, caput** {#art3_cpt} As águas doces, salobras e salinas do Território Nacional são classificadas, segundo a qualidade requerida para os seus usos preponderantes, em treze classes de qualidade.
 
@@ -107,7 +106,7 @@ Tags: #classificacao-corpo-agua #classe-qualidade
 ### Seção I – Das Águas Doces
 
 ###### Art. 4º {#art4}
-Tags: #agua-doce #classe-qualidade #classe-especial #uso-preponderante #abastecimento-publico #recreacao #irrigacao #aquicultura #terra-indigena #unidade-conservacao
+Tags: #agua-doce #classe-especial #abastecimento-publico #irrigacao #aquicultura #terra-indigena #unidade-conservacao
 
 **Art. 4º, caput** {#art4_cpt} As águas doces são classificadas em:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} classe especial: águas destinadas:
@@ -139,7 +138,7 @@ Tags: #agua-doce #classe-qualidade #classe-especial #uso-preponderante #abasteci
 ### Seção II – Das Águas Salinas
 
 ###### Art. 5º {#art5}
-Tags: #agua-salina #classe-qualidade #classe-especial #uso-preponderante
+Tags: #agua-salina #classe-especial
 
 **Art. 5º, caput** {#art5_cpt} As águas salinas são assim classificadas:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} classe especial: águas destinadas:
@@ -159,7 +158,7 @@ Tags: #agua-salina #classe-qualidade #classe-especial #uso-preponderante
 ### Seção II – Das Águas Salobras
 
 ###### Art. 6º {#art6}
-Tags: #agua-salobra #classe-qualidade #classe-especial #uso-preponderante
+Tags: #agua-salobra #classe-especial
 
 **Art. 6º, caput** {#art6_cpt} As águas salobras são assim classificadas:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} classe especial: águas destinadas:
@@ -190,7 +189,7 @@ Tags: #padrao-qualidade #toxicidade
 **Art. 7º, parágrafo único** {#art7_par1u} Eventuais interações entre substâncias, especificadas ou não nesta Resolução, não poderão conferir às águas características capazes de causar efeitos letais ou alteração de comportamento, reprodução ou fisiologia da vida, bem como de restringir os usos preponderantes previstos, ressalvado o disposto no [[#art34_par3|§ 3º do art. 34]], desta Resolução.
 
 ###### Art. 8º {#art8}
-Tags: #monitoramento #parametro-qualidade #ecotoxicidade #empreendedor
+Tags: #monitoramento #parametro-qualidade #ecotoxicidade
 
 **Art. 8º, caput** {#art8_cpt} O conjunto de parâmetros de qualidade de água selecionado para subsidiar a proposta de enquadramento deverá ser monitorado periodicamente pelo Poder Público.
 
@@ -216,7 +215,7 @@ Tags: #laboratorio-acreditado #monitoramento
 **Art. 9º, § 2º** {#art9_par2} Nos casos onde a metodologia analítica disponível for insuficiente para quantificar as concentrações dessas substâncias nas águas, os sedimentos e/ou biota aquática poderão ser investigados quanto à presença eventual dessas substâncias.
 
 ###### Art. 10 {#art10}
-Tags: #vazao-referencia #dbo #autodepuracao #nitrogenio #fosforo #eutrofizacao
+Tags: #dbo #autodepuracao #nitrogenio #fosforo #eutrofizacao
 
 **Art. 10, caput** {#art10_cpt} Os valores máximos estabelecidos para os parâmetros relacionados em cada uma das classes de enquadramento deverão ser obedecidos nas condições de vazão de referência.
 
@@ -229,12 +228,12 @@ Tags: #vazao-referencia #dbo #autodepuracao #nitrogenio #fosforo #eutrofizacao
 **Art. 10, § 4º** {#art10_par4} O disposto nos [[#art10_par2|§§ 2º e 3º]] não se aplica às baías de águas salinas ou salobras, ou outros corpos de água em que não seja aplicável a vazão de referência, para os quais deverão ser elaborados estudos específicos sobre a dispersão e assimilação de poluentes no meio hídrico.
 
 ###### Art. 11 {#art11}
-Tags: #padrao-qualidade #fundamentacao
+Tags: #padrao-qualidade
 
 **Art. 11, caput** {#art11_cpt} O Poder Público poderá, a qualquer momento, acrescentar outras condições e padrões de qualidade, para um determinado corpo de água, ou torná-los mais restritivos, tendo em vista as condições locais, mediante fundamentação técnica.
 
 ###### Art. 12 {#art12}
-Tags: #vazao-referencia #restricao-temporaria
+Tags: #restricao-temporaria
 
 **Art. 12, caput** {#art12_cpt} O Poder Público poderá estabelecer restrições e medidas adicionais, de caráter excepcional e temporário, quando a vazão do corpo de água estiver abaixo da vazão de referência.
 
@@ -246,7 +245,7 @@ Tags: #classe-especial
 ### Seção II – Das Águas Doces
 
 ###### Art. 14 {#art14}
-Tags: #agua-doce #classe-1 #padrao-qualidade #coliforme #dbo #od #turbidez #ph #cianobacteria #pesca
+Tags: #agua-doce #classe-1 #padrao-qualidade #coliforme #dbo #od #turbidez #cianobacteria #pesca
 
 **Art. 14, caput** {#art14_cpt} As águas doces de classe 1 observarão as seguintes condições e padrões:
 - **Art. 14, caput, inciso I** {#art14_cpt_inc1} condições de qualidade de água:
@@ -486,7 +485,7 @@ Tags: #agua-doce #classe-3 #padrao-qualidade #coliforme #dbo #od #cianobacteria 
 - **Art. 16, Tabela III, linha 67** {#art16_tab3_lin67} PARÂMETROS ORGÂNICOS: 2,4,6-Triclorofenol | VALOR MÁXIMO: 0,01 mg/L
 
 ###### Art. 17 {#art17}
-Tags: #agua-doce #classe-4 #padrao-qualidade #od #ph
+Tags: #agua-doce #classe-4 #padrao-qualidade #od
 
 **Art. 17, caput** {#art17_cpt} As águas doces de classe 4 observarão as seguintes condições e padrões:
 - **Art. 17, caput, inciso I** {#art17_cpt_inc1} materiais flutuantes, inclusive espumas não naturais: virtualmente ausentes;
@@ -500,7 +499,7 @@ Tags: #agua-doce #classe-4 #padrao-qualidade #od #ph
 ### Seção III – Das Águas Salinas
 
 ###### Art. 18 {#art18}
-Tags: #agua-salina #classe-1 #padrao-qualidade #coliforme #od #ph #pesca
+Tags: #agua-salina #classe-1 #padrao-qualidade #coliforme #od #pesca
 
 **Art. 18, caput** {#art18_cpt} As águas salinas de classe 1 observarão as seguintes condições e padrões:
 - **Art. 18, caput, inciso I** {#art18_cpt_inc1} condições de qualidade de água:
@@ -639,7 +638,7 @@ Tags: #agua-salina #classe-2 #padrao-qualidade #coliforme #od
 - **Art. 19, Tabela VI, linha 25** {#art19_tab6_lin25} PARÂMETROS ORGÂNICOS: Tributilestanho | VALOR MÁXIMO: 0,37 μg/L TBT
 
 ###### Art. 20 {#art20}
-Tags: #agua-salina #classe-3 #padrao-qualidade #coliforme #od #ph
+Tags: #agua-salina #classe-3 #padrao-qualidade #coliforme #od
 
 **Art. 20, caput** {#art20_cpt} As águas salinas de classe 3 observarão as seguintes condições e padrões:
 - **Art. 20, caput, inciso I** {#art20_cpt_inc1} materiais flutuantes, inclusive espumas não naturais: virtualmente ausentes;
@@ -655,7 +654,7 @@ Tags: #agua-salina #classe-3 #padrao-qualidade #coliforme #od #ph
 ### Seção IV – Das Águas Salobras
 
 ###### Art. 21 {#art21}
-Tags: #agua-salobra #classe-1 #padrao-qualidade #coliforme #od #ph #pesca
+Tags: #agua-salobra #classe-1 #padrao-qualidade #coliforme #od #pesca
 
 **Art. 21, caput** {#art21_cpt} As águas salobras de classe 1 observarão as seguintes condições e padrões:
 - **Art. 21, caput, inciso I** {#art21_cpt_inc1} condições de qualidade de água:
@@ -791,7 +790,7 @@ Tags: #agua-salobra #classe-2 #padrao-qualidade #coliforme #od
 - **Art. 22, Tabela IX, linha 25** {#art22_tab9_lin25} PARÂMETROS ORGÂNICOS: Tributilestanho | VALOR MÁXIMO: 0,37 μg/L TBT
 
 ###### Art. 23 {#art23}
-Tags: #agua-salobra #classe-3 #padrao-qualidade #coliforme #od #ph
+Tags: #agua-salobra #classe-3 #padrao-qualidade #coliforme #od
 
 **Art. 23, caput** {#art23_cpt} As águas salobras de classe 3 observarão as seguintes condições e padrões:
 - **Art. 23, caput, inciso I** {#art23_cpt_inc1} pH: 5 a 9;
@@ -843,7 +842,7 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 **Art. 26, § 4º** {#art26_par4} #revogado ~~O disposto no § 1º aplica-se também às substâncias não contempladas nesta Resolução, exceto se o empreendedor não tinha condições de saber de sua existência nos seus efluentes.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 27 {#art27}
-Tags: #pop #dioxina-furano
+Tags: #pop
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 27, caput** {#art27_cpt} #revogado ~~É vedado, nos efluentes, o lançamento dos Poluentes Orgânicos Persistentes-POPs mencionados na Convenção de Estocolmo, ratificada pelo [[decreto-legislativo-204-2004|Decreto Legislativo nº 204, de 7 de maio de 2004]].~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -851,7 +850,7 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 **Art. 27, parágrafo único** {#art27_par1u} #revogado ~~Nos processos onde possa ocorrer a formação de dioxinas e furanos deverá ser utilizada a melhor tecnologia disponível para a sua redução, até a completa eliminação.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 28 {#art28}
-Tags: #enquadramento #meta-progressiva
+Tags: #enquadramento
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 28, caput** {#art28_cpt} #revogado ~~Os efluentes não poderão conferir ao corpo de água características em desacordo com as metas obrigatórias progressivas, intermediárias e final, do seu enquadramento.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -902,7 +901,7 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 **Art. 33, parágrafo único** {#art33_par1u} #revogado ~~A extensão e as concentrações de substâncias na zona de mistura deverão ser objeto de estudo, nos termos determinados pelo órgão ambiental competente, às expensas do empreendedor responsável pelo lançamento.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 34 {#art34}
-Tags: #padrao-lancamento #toxicidade #ph #temperatura #oleos-graxas
+Tags: #padrao-lancamento #toxicidade #oleos-graxas
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 34, caput** {#art34_cpt} #revogado ~~Os efluentes de qualquer fonte poluidora somente poderão ser lançados, direta ou indiretamente, nos corpos de água desde que obedeçam as condições e padrões previstos neste artigo, resguardadas outras exigências cabíveis:~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -955,7 +954,7 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 35 {#art35}
-Tags: #vazao-referencia #restricao-temporaria
+Tags: #restricao-temporaria
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 35, caput** {#art35_cpt} #revogado ~~Sem prejuízo do disposto no [[#art24_par1u_inc1|inciso I, do § 1º do art. 24]], desta Resolução, o órgão ambiental competente poderá, quando a vazão do corpo de água estiver abaixo da vazão de referência, estabelecer restrições e medidas adicionais, de caráter excepcional e temporário, aos lançamentos de efluentes que possam, dentre outras conseqüências:~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -977,7 +976,7 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 ## CAPÍTULO V – DIRETRIZES AMBIENTAIS PARA O ENQUADRAMENTO
 
 ###### Art. 38 {#art38}
-Tags: #enquadramento #cnrh #meta-progressiva #outorga #licenciamento-ambiental #tac #abastecimento-publico
+Tags: #enquadramento #cnrh #outorga #licenciamento-ambiental #tac #abastecimento-publico
 
 **Art. 38, caput** {#art38_cpt} O enquadramento dos corpos de água dar-se-á de acordo com as normas e procedimentos definidos pelo Conselho Nacional de Recursos Hídricos-CNRH e Conselhos Estaduais de Recursos Hídricos.
 
@@ -996,7 +995,6 @@ Tags: #enquadramento #cnrh #meta-progressiva #outorga #licenciamento-ambiental #
 ## CAPÍTULO VI – DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 ###### Art. 39 {#art39}
-Tags: #virtualmente-ausente
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 39, caput** {#art39_cpt} #revogado ~~Cabe aos órgãos ambientais competentes, quando necessário, definir os valores dos poluentes considerados virtualmente ausentes.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -1007,7 +1005,6 @@ Tags: #abastecimento-publico #potabilidade
 **Art. 40, caput** {#art40_cpt} No caso de abastecimento para consumo humano, sem prejuízo do disposto nesta Resolução, deverão ser observadas, as normas específicas sobre qualidade da água e padrões de potabilidade.
 
 ###### Art. 41 {#art41}
-Tags: #amostragem #metodo-analise
 
 **Art. 41, caput** {#art41_cpt} Os métodos de coleta e de análises de águas são os especificados em normas técnicas cientificamente reconhecidas.
 
@@ -1058,7 +1055,7 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 **Art. 46, § 2º** {#art46_par2} #revogado ~~O órgão ambiental competente poderá estabelecer critérios e formas para apresentação da declaração mencionada no [[#art46_cpt|caput deste artigo]], inclusive, dispensando-a se for o caso para empreendimentos de menor potencial poluidor.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 47 {#art47}
-Tags: #responsavel-tecnico #perito
+Tags: #responsavel-tecnico
 
 **Art. 47, caput** {#art47_cpt} Equiparam-se a perito, os responsáveis técnicos que elaborem estudos e pareceres apresentados aos órgãos ambientais.
 

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Laudo de conclusão de obra
 atividades: [armazenamento-agrotoxico]
 modalidades: [las, lasa, lo, loa]
-tags: [anexo, termo-referencia, laudo-tecnico, laudo-conclusao-obra, art-anotacao, responsavel-tecnico, registro-fotografico, armazenamento-agrotoxico]
+tags: [anexo, laudo-tecnico, laudo-conclusao-obra, art-anotacao, responsavel-tecnico, armazenamento-agrotoxico]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), página 80
 ---
 
@@ -35,7 +35,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo IV, linha 14** {#anexo4_lin14} 4 ANÁLISE TÉCNICA
 - **Anexo IV, linha 15** {#anexo4_lin15} #tratamento-efluente #residuo-solido #agua-pluvial Análise sobre a estrutura, sistemas de tratamentos de efluentes, resíduos sólidos, equipamentos instalados, drenagem pluvial, etc.
 - **Anexo IV, linha 16** {#anexo4_lin16} 5 CONSIDERAÇÕES FINAIS
-- **Anexo IV, linha 17** {#anexo4_lin17} #registro-fotografico 6 REGISTROS FOTOGRÁFICOS
+- **Anexo IV, linha 17** {#anexo4_lin17} 6 REGISTROS FOTOGRÁFICOS
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

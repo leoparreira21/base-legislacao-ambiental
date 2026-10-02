@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCPA
 atividades: [armazenamento-agrotoxico]
 modalidades: [li, lia]
-tags: [anexo, termo-referencia, agrotoxico, armazenamento-agrotoxico, pcpa, rap, porte-excepcional, li, lia, automonitoramento, emissao-atmosferica, poluicao-sonora, terraplanagem, supressao-vegetacao, medida-compensatoria, plano-recuperacao, area-degradada, agua-subterranea, corpo-hidrico, efluente, pgrs, residuo-construcao-civil, agua-pluvial, tratamento-efluente, cronograma, art-anotacao]
+tags: [anexo, agrotoxico, armazenamento-agrotoxico, pcpa, rap, porte-excepcional, li, lia, automonitoramento, emissao-atmosferica, poluicao-sonora, terraplanagem, supressao-vegetacao, medida-compensatoria, plano-recuperacao, area-degradada, agua-subterranea, corpo-hidrico, efluente, pgrs, residuo-construcao-civil, agua-pluvial, tratamento-efluente, art-anotacao]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), páginas 98 a 99
 ---
 
@@ -49,7 +49,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo X, linha 28** {#anexo10_lin28} #pgrs #residuo-construcao-civil • Programa de Gerenciamento de Resíduos Sólidos – PGRS (incluindo resíduos da construção civil);
 - **Anexo X, linha 29** {#anexo10_lin29} #agua-pluvial • Projetos de Drenagem de Águas Pluviais;
 - **Anexo X, linha 30** {#anexo10_lin30} #tratamento-efluente • Projetos de Estação de Tratamento de Efluentes, se houver;
-- **Anexo X, linha 31** {#anexo10_lin31} #cronograma 5 CRONOGRAMA DE EXECUÇÃO DOS PROJETOS
+- **Anexo X, linha 31** {#anexo10_lin31} 5 CRONOGRAMA DE EXECUÇÃO DOS PROJETOS
 - **Anexo X, linha 32** {#anexo10_lin32} 6 CONCLUSÕES
 - **Anexo X, linha 33** {#anexo10_lin33} #art-anotacao 7 ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA
 - **Anexo X, linha 34** {#anexo10_lin34} 8 REFERÊNCIAS DE LITERATURA

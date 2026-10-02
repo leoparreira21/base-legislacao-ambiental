@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RAP
 atividades: [armazenamento-agrotoxico]
 modalidades: [lp, lpa]
-tags: [anexo, termo-referencia, rap, estudo-ambiental, armazenamento-agrotoxico, agrotoxico, area-influencia, georreferenciamento, impacto-ambiental, matriz-impacto, residuo-solido, logistica-reversa, outorga, flora, fauna, supressao-vegetacao, especie-ameacada, area-verde-urbana, emissao-atmosferica, poluicao-sonora, area-contaminada, socioeconomico]
+tags: [anexo, rap, estudo-ambiental, armazenamento-agrotoxico, agrotoxico, area-influencia, georreferenciamento, impacto-ambiental, residuo-solido, logistica-reversa, outorga, flora, fauna, supressao-vegetacao, especie-ameacada, area-verde-urbana, emissao-atmosferica, poluicao-sonora, area-contaminada]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), páginas 93 a 97
 ---
 
@@ -47,8 +47,8 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo IX, linha 26** {#anexo9_lin26} #reserva-legal #area-verde-urbana f) Áreas de Reserva Legal (se imóvel rural), Área Verde Urbana (se imóvel urbano) e maciços florestais remanescentes;
 - **Anexo IX, linha 27** {#anexo9_lin27} g) Vias de acesso principais;
 - **Anexo IX, linha 28** {#anexo9_lin28} h) Pontos de referências e áreas de restrição, considerando as disposições [[instrucao-normativa-iat-28-2025|desta Instrução Normativa]];
-- **Anexo IX, linha 29** {#anexo9_lin29} #arquivo-vetorial i) Arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
-- **Anexo IX, linha 30** {#anexo9_lin30} #registro-fotografico 3.4. Relatório fotográfico contendo no mínimo 10 fotografias da área do empreendimento, com vários ângulos do terreno e respectiva localização, em planta, com suas respectivas coordenadas geográficas, do local onde foram tiradas (apresentar o sistema de projeção das coordenadas geográficas).
+- **Anexo IX, linha 29** {#anexo9_lin29} i) Arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
+- **Anexo IX, linha 30** {#anexo9_lin30} 3.4. Relatório fotográfico contendo no mínimo 10 fotografias da área do empreendimento, com vários ângulos do terreno e respectiva localização, em planta, com suas respectivas coordenadas geográficas, do local onde foram tiradas (apresentar o sistema de projeção das coordenadas geográficas).
 - **Anexo IX, linha 31** {#anexo9_lin31} #area-contaminada 3.5. Informação relativa ao histórico de uso do imóvel com enfoque na identificação de atividades potencialmente geradoras de áreas contaminadas.
 - **Anexo IX, linha 32** {#anexo9_lin32} 4 IDENTIFICAÇÃO PRELIMINAR DOS IMPACTOS DECORRENTES DO EMPREENDIMENTO
 - **Anexo IX, linha 33** {#anexo9_lin33} 4.1. MATÉRIAS–PRIMAS
@@ -80,7 +80,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo IX, linha 59** {#anexo9_lin59} 4.7. IMPACTO NA GERAÇÃO DE RUÍDO
 - **Anexo IX, linha 60** {#anexo9_lin60} #poluicao-sonora • Levantamento preliminar dos impactos à poluição sonora, informando as principais fontes de emissão e fontes receptoras.
 - **Anexo IX, linha 61** {#anexo9_lin61} 4.8. IMPACTO SOCIOECONÔMICO
-- **Anexo IX, linha 62** {#anexo9_lin62} #socioeconomico Estudos do meio socioeconômico da região onde o lote encontra–se localizado, abrangendo os seguintes pontos de vistas e seus respectivos conteúdos:
+- **Anexo IX, linha 62** {#anexo9_lin62} Estudos do meio socioeconômico da região onde o lote encontra–se localizado, abrangendo os seguintes pontos de vistas e seus respectivos conteúdos:
 - **Anexo IX, linha 63** {#anexo9_lin63} − Condições sociais e econômicas da população;
 - **Anexo IX, linha 64** {#anexo9_lin64} − Principais atividades econômicas;
 - **Anexo IX, linha 65** {#anexo9_lin65} − Saneamento básico;
@@ -88,7 +88,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo IX, linha 67** {#anexo9_lin67} − Sistema viário e de transporte;
 - **Anexo IX, linha 68** {#anexo9_lin68} − Uso e ocupação do solo no entorno.
 - **Anexo IX, linha 69** {#anexo9_lin69} 5 IDENTIFICAÇÃO E ANÁLISE DOS IMPACTOS AMBIENTAIS
-- **Anexo IX, linha 70** {#anexo9_lin70} #matriz-impacto Elaboração de matriz de Levantamento de Aspectos e Impactos Ambientais, contemplando os seguintes parâmetros:
+- **Anexo IX, linha 70** {#anexo9_lin70} Elaboração de matriz de Levantamento de Aspectos e Impactos Ambientais, contemplando os seguintes parâmetros:
 - **Anexo IX, linha 71** {#anexo9_lin71} o Fonte geradora;
 - **Anexo IX, linha 72** {#anexo9_lin72} o Severidade;
 - **Anexo IX, linha 73** {#anexo9_lin73} o Probabilidade;

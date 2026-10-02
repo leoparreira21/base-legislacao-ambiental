@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[lei-federal-12305-2010]]", "[[lei-complementar-federal-101-2000]]", "[[lei-estadual-19261-2017]]", "[[lei-federal-9795-1999]]"]
-tags: [alteracao-normativa, aproveitamento-energetico, area-degradada, catador, classificacao-residuo, coleta-seletiva, compostagem, consorcio-intermunicipal, consulta-publica, contabilizando-residuos, controle-social, cooperacao-institucional, destinacao-final, diretriz, economia-circular, educacao-ambiental, empreendedor, estrategia, fiscalizacao, fundo-residuos, gestao-consorciada, grande-gerador, incentivo-fiscal, licenciamento-ambiental, lo, logistica-reversa, monitoramento, municipio, nao-geracao, participacao-publica, pers, pev, pgrs, planejamento, plano-regional, pmgirs, pnrs, ppp, prazo, prioridade, programa-parana-residuos, publicidade, reciclagem, regiao-metropolitana, regulamentacao, renovacao, repasse-recurso, residuo-perigoso, residuo-solido, responsabilidade, revisao, revogacao, sedest, sistema-informatizado, taxa-residuo, transparencia, vigencia]
+tags: [aproveitamento-energetico, area-degradada, catador, classificacao-residuo, coleta-seletiva, compostagem, consorcio-intermunicipal, contabilizando-residuos, cooperacao-institucional, destinacao-final, economia-circular, fiscalizacao, grande-gerador, licenciamento-ambiental, lo, logistica-reversa, monitoramento, municipio, pev, pgrs, plano-regional, pmgirs, pnrs, prazo, prioridade, reciclagem, regiao-metropolitana, renovacao, residuo-perigoso, residuo-solido, responsabilidade, revogacao, sedest, taxa-residuo, vigencia]
 fonte: "PDF do texto sancionado (Word, 7 páginas, protocolo DL/CC/Prot. 17.642.466-6), enviado por Leo; sem indicação do número do Diário Oficial"
 ---
 
@@ -29,32 +29,32 @@ fonte: "PDF do texto sancionado (Word, 7 páginas, protocolo DL/CC/Prot. 17.642.
 **Preâmbulo** {#preambulo} Assembleia Legislativa do Estado do Paraná decretou e eu sanciono a seguinte lei:
 
 ###### Art. 1º {#art1}
-Tags: #residuo-solido #pers #planejamento #vigencia #participacao-publica #consulta-publica #publicidade
+Tags: #residuo-solido #vigencia
 
 **Art. 1º, caput** {#art1_cpt} Esta Lei estabelece normas para elaboração, revisão, complementação, operacionalização e fiscalização do Plano Estadual de Resíduos Sólidos do Estado do Paraná - PERS/PR, instrumento de planejamento destinado a organizar e estabelecer a gestão dos resíduos sólidos no Estado do Paraná.
 
-**Art. 1º, § 1º** {#art1_par1} #prazo #revisao O PERS/PR terá prazo de vigência indeterminado, horizonte de atuação de vinte anos e será atualizado e/ou revisto a cada quatro anos.
+**Art. 1º, § 1º** {#art1_par1} #prazo O PERS/PR terá prazo de vigência indeterminado, horizonte de atuação de vinte anos e será atualizado e/ou revisto a cada quatro anos.
 
 **Art. 1º, § 2º** {#art1_par2} O PERS/PR conterá diretrizes, estratégias, programas, subprogramas, ações e projetos, os quais deverão ser executados para o cumprimento das metas nele estabelecidas.
 
-**Art. 1º, § 3º** {#art1_par3} #participacao-publica #consulta-publica A gestão democrática deve ser garantida por meio da participação da população e de associações representativas dos vários segmentos da comunidade, desde a elaboração até a fiscalização e avaliação do plano, por meio de consultas públicas, e debates, dando-se publicidade e acesso de qualquer interessado aos documentos e informações produzidos.
+**Art. 1º, § 3º** {#art1_par3} A gestão democrática deve ser garantida por meio da participação da população e de associações representativas dos vários segmentos da comunidade, desde a elaboração até a fiscalização e avaliação do plano, por meio de consultas públicas, e debates, dando-se publicidade e acesso de qualquer interessado aos documentos e informações produzidos.
 
 **Art. 1º, § 4º** {#art1_par4} O PERS/PR será aprovado por Decreto do Poder Executivo.
 
 ###### Art. 2º {#art2}
-Tags: #pers #monitoramento #controle-social
+Tags: #monitoramento
 
 **Art. 2º, caput** {#art2_cpt} A execução do PERS/PR e o cumprimento de suas metas serão objeto de monitoramento contínuo e de avaliações periódicas, assegurado o controle social.
 
 ###### Art. 3º {#art3}
-Tags: #pers #pnrs #residuo-solido
+Tags: #pnrs #residuo-solido
 
 **Art. 3º, caput** {#art3_cpt} O PERS/PR abrange todo o território do Estado do Paraná e atende aos princípios, diretrizes e normas definidos na Política Nacional de Resíduos Sólidos, instituída pela [[lei-federal-12305-2010|Lei Federal n° 12.305, de 2 de agosto de 2010]], e na legislação estadual aplicável.
 
 **Art. 3º, parágrafo único** {#art3_par1u} O PERS/PR deverá observar o conteúdo mínimo fixado pelo [[lei-federal-12305-2010#art17|art. 17 da Lei Federal n° 12.305, de 2010]], que instituiu a Política Nacional de Resíduos Sólidos.
 
 ###### Art. 4º {#art4}
-Tags: #pers #residuo-solido #classificacao-residuo #logistica-reversa
+Tags: #residuo-solido #classificacao-residuo #logistica-reversa
 
 **Art. 4º, caput** {#art4_cpt} O PERS/PR contempla resíduos sólidos urbanos, resíduos de serviços de saúde, resíduos da construção civil, resíduos de serviços de transporte, resíduos de mineração, resíduos dos serviços públicos de saneamento básico, resíduos industriais e resíduos agrossilvopastoris, gerados por pessoas físicas ou jurídicas, de direito público ou privado, que geram os resíduos sólidos por meio de suas atividades, nelas incluído o consumo, e logística reversa.
 
@@ -65,14 +65,14 @@ Tags: #grande-gerador #pgrs #responsabilidade #residuo-perigoso #prazo
 
 **Art. 5º, caput** {#art5_cpt} Os grandes geradores de resíduos sólidos no Estado do Paraná serão integralmente responsáveis pelo gerenciamento ambientalmente adequado dos resíduos sólidos por eles gerados e pelos ônus dele decorrentes.
 
-**Art. 5º, § 1º** {#art5_par1} #municipio #regulamentacao Para o cumprimento do [[#art5_cpt|caput deste artigo]], os municípios, por regulamento próprio, deverão identificar os grandes geradores sujeitos ao plano de gerenciamento específico.
+**Art. 5º, § 1º** {#art5_par1} #municipio Para o cumprimento do [[#art5_cpt|caput deste artigo]], os municípios, por regulamento próprio, deverão identificar os grandes geradores sujeitos ao plano de gerenciamento específico.
 
 **Art. 5º, § 2º** {#art5_par2} #prazo #pmgirs O disposto no [[#art5_par1|§ 1º deste artigo]] deverá ser cumprido no prazo de um ano, a contar da data da publicação desta Lei ou por ocasião da revisão dos planos municipais de gestão integrada de resíduos sólidos, se esse ocorrer antes.
 
 **Art. 5º, § 3º** {#art5_par3} Os grandes geradores de resíduos sólidos deverão adotar medidas que promovam a redução da geração dos resíduos, principalmente os resíduos perigosos, na forma prevista nos respectivos planos de gestão de resíduos sólidos e nas demais normas aplicáveis.
 
 ###### Art. 6º {#art6}
-Tags: #pers #diretriz #nao-geracao #reciclagem #coleta-seletiva #catador #compostagem #destinacao-final
+Tags: #reciclagem #coleta-seletiva #catador #compostagem #destinacao-final
 
 **Art. 6º, caput** {#art6_cpt} São diretrizes do PERS/PR:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} reestruturar o sistema de gestão estadual em resíduos sólidos;
@@ -88,7 +88,7 @@ Tags: #pers #diretriz #nao-geracao #reciclagem #coleta-seletiva #catador #compos
 - **Art. 6º, caput, inciso IV** {#art6_cpt_inc4} #coleta-seletiva incentivar, sempre que possível, a separação, transporte e destinação diferenciada dos resíduos sólidos urbanos em três categorias (recicláveis, orgânicos e rejeitos).
 
 ###### Art. 7º {#art7}
-Tags: #pers #estrategia #coleta-seletiva #taxa-residuo #contabilizando-residuos #gestao-consorciada #educacao-ambiental #logistica-reversa #economia-circular #area-degradada #grande-gerador #reciclagem #catador #aproveitamento-energetico #fiscalizacao #licenciamento-ambiental #prioridade #sedest #sistema-informatizado #transparencia #pev
+Tags: #coleta-seletiva #taxa-residuo #contabilizando-residuos #logistica-reversa #economia-circular #area-degradada #grande-gerador #reciclagem #catador #aproveitamento-energetico #fiscalizacao #licenciamento-ambiental #prioridade #sedest #pev
 
 **Art. 7º, caput** {#art7_cpt} São estratégias do PERS/PR:
 - **Art. 7º, caput, inciso I** {#art7_cpt_inc1} a adoção da segregação, coleta seletiva e, sempre que possível, destinação diferenciada dos resíduos sólidos urbanos em três categorias (recicláveis, orgânicos e rejeitos), seja em soluções individualizadas, integradas ou consorciadas;
@@ -128,7 +128,7 @@ Tags: #pers #estrategia #coleta-seletiva #taxa-residuo #contabilizando-residuos 
 - **Art. 7º, caput, inciso XXIV** {#art7_cpt_inc24} #pev #coleta-seletiva que consumidores estejam obrigados, sempre que houver sistema de coleta seletiva e sistemas de logística reversa implantado no município, a acondicionar adequadamente os resíduos sólidos gerados e a disponibilizar adequadamente para coleta ou Ponto de Entrega Voluntária (PEV) os resíduos sólidos reutilizáveis e recicláveis.
 
 ###### Art. 8º {#art8}
-Tags: #cooperacao-institucional #pers #municipio
+Tags: #cooperacao-institucional #municipio
 
 **Art. 8º, caput** {#art8_cpt} O Estado do Paraná e os municípios atuarão em regime de colaboração, visando o alcance das metas e à implementação das estratégias do PERS/PR.
 
@@ -137,7 +137,7 @@ Tags: #cooperacao-institucional #pers #municipio
 **Art. 8º, § 2º** {#art8_par2} As estratégias definidas no PERS/PR não elidem a adoção de medidas adicionais em âmbito local ou de instrumentos jurídicos que formalizem a cooperação entre os entes federados, podendo ser complementadas por mecanismos locais de coordenação e colaboração recíproca.
 
 ###### Art. 9º {#art9}
-Tags: #plano-regional #regiao-metropolitana #consorcio-intermunicipal #ppp #municipio
+Tags: #plano-regional #regiao-metropolitana #consorcio-intermunicipal #municipio
 
 **Art. 9º, caput** {#art9_cpt} O Estado poderá elaborar planos direcionados às regionalizações intermunicipais definidas no PERS/PR, respeitados os seguintes objetivos:
 - **Art. 9º, caput, inciso I** {#art9_cpt_inc1} fomentar a elaboração de Planos Metropolitanos de Gestão de Resíduos Sólidos, alinhados aos Planos de Desenvolvimento Urbano Integrado – PDUI das Regiões Metropolitanas;
@@ -152,7 +152,7 @@ Tags: #plano-regional #regiao-metropolitana #consorcio-intermunicipal #ppp #muni
 **Art. 9º, § 3º** {#art9_par3} Terão prioridade no acesso a recursos do Estado ou controlados por ele, os municípios que optarem por soluções consorciadas intermunicipais para gestão e gerenciamento de resíduos sólidos, exceto na hipótese de demonstrada inviabilidade técnica, econômica ou ambiental.
 
 ###### Art. 10 {#art10}
-Tags: #licenciamento-ambiental #lo #renovacao #logistica-reversa #contabilizando-residuos #sedest #empreendedor #regulamentacao
+Tags: #licenciamento-ambiental #lo #renovacao #logistica-reversa #contabilizando-residuos #sedest
 
 **Art. 10, caput** {#art10_cpt} #lo #renovacao Nos procedimentos de licenciamento ambiental realizados no Estado do Paraná, deverá o empreendedor apresentar ao órgão licenciador, na fase da licença de operação e em suas renovações:
 - **Art. 10, caput, inciso I** {#art10_cpt_inc1} #logistica-reversa plano de logística reversa de produtos pós-consumo aprovado junto à Secretaria de Estado do Desenvolvimento Sustentável e do Turismo – SEDEST;
@@ -164,20 +164,19 @@ Tags: #licenciamento-ambiental #lo #renovacao #logistica-reversa #contabilizando
 **Art. 10, § 2º** {#art10_par2} As obrigações constantes nos [[#art10_cpt|incisos deste artigo]] deverão ser regulamentadas pelo órgão ambiental competente.
 
 ###### Art. 11 {#art11}
-Tags: #repasse-recurso #consorcio-intermunicipal #incentivo-fiscal #catador #fundo-residuos #compostagem #area-degradada
+Tags: #consorcio-intermunicipal #catador #compostagem #area-degradada
 
 **Art. 11, caput** {#art11_cpt} O Estado do Paraná poderá:
 - **Art. 11, caput, inciso I** {#art11_cpt_inc1} transferir recursos voluntariamente aos municípios para gestão de resíduos sólidos, nos termos da [[lei-complementar-federal-101-2000|Lei Complementar Federal nº 101, de 4 de maio de 2000]] (Lei de Responsabilidade Fiscal), observado o dever dos municípios que possuam áreas degradadas por disposição inadequada de resíduos sólidos de realizar previamente atividades de recuperação dessas áreas;
 - **Art. 11, caput, inciso II** {#art11_cpt_inc2} conceder garantias às operações de crédito para a gestão de resíduos sólidos em todas as suas etapas;
 - **Art. 11, caput, inciso III** {#art11_cpt_inc3} promover fomento ao município consorciado que seja sede de pátio de compostagem e/ou de biodigestação, de estação de transbordo, de unidades de tratamento, independente da tecnologia e/ou área de disposição final de rejeitos;
-- **Art. 11, caput, inciso IV** {#art11_cpt_inc4} #incentivo-fiscal adotar mecanismos de desoneração total ou parcial da carga tributária, regime de substituição tributária e/ou estabelecer prazo especial para pagamento de tributos estaduais para cadeia econômica dos resíduos sólidos, em especial para associações e cooperativas de catadores de material reciclável;
+- **Art. 11, caput, inciso IV** {#art11_cpt_inc4} adotar mecanismos de desoneração total ou parcial da carga tributária, regime de substituição tributária e/ou estabelecer prazo especial para pagamento de tributos estaduais para cadeia econômica dos resíduos sólidos, em especial para associações e cooperativas de catadores de material reciclável;
 - **Art. 11, caput, inciso V** {#art11_cpt_inc5} desenvolver projetos, programas, convênios e ações de empoderamento, empreendedorismo, capacitação, valorização e proteção dos catadores de materiais recicláveis, especialmente as mulheres que integram este setor, promovendo a gestão compartilhada da gestão de resíduos sólidos e integrando às demais políticas sociais, como de saúde, educação, moradia e assistência social;
 - **Art. 11, caput, inciso VI** {#art11_cpt_inc6} estabelecer diretrizes e fornecer meios para criação de Fundo Estadual e Fundos Municipais de Resíduos Sólidos.
 
 **Art. 11, parágrafo único** {#art11_par1u} O cumprimento do disposto nos [[#art7_cpt_inc1|incisos I, II e III do art. 7º desta Lei]] é condição à implementação dos [[#art11_cpt_inc1|incisos I, II e III do caput deste artigo]].
 
 ###### Art. 12 {#art12}
-Tags: #alteracao-normativa #programa-parana-residuos
 
 **Art. 12, caput** {#art12_cpt} O [[lei-estadual-19261-2017#art8_cpt|caput do art. 8º da Lei nº 19.261, de 7 de dezembro de 2017]], passa a vigorar com a seguinte redação:
 

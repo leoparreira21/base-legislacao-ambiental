@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RAP
 atividades: [patio-caminhao, patio-container]
 modalidades: [lp, lpa]
-tags: [anexo, termo-referencia, rap, estudo-ambiental, area-influencia, diagnostico-ambiental, impacto-ambiental, medida-mitigadora, unidade-conservacao, patio-caminhao, patio-container]
+tags: [anexo, rap, estudo-ambiental, area-influencia, diagnostico-ambiental, impacto-ambiental, medida-mitigadora, unidade-conservacao, patio-caminhao, patio-container]
 fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinado em 15/12/2025), páginas 73 a 79
 ---
 

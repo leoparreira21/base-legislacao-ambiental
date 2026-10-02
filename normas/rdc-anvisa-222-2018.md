@@ -21,7 +21,7 @@ alterado_por: []
 revoga: ["[[rdc-anvisa-306-2004]]"]
 revogado_por: []
 cita: ["[[lei-federal-9782-1999]]", "[[rdc-anvisa-61-2016]]", "[[rdc-anvisa-15-2012]]", "[[rdc-anvisa-306-2004]]", "[[rdc-anvisa-305-2002]]", "[[lei-federal-6437-1977]]"]
-tags: [abrigo-residuo, acondicionamento, aproveitamento-energetico, armazenamento-residuo, atencao-domiciliar, aterro-classe-i, capacitacao, classificacao-residuo, cnen, coletor, compostagem, conteudo-minimo, contratacao-terceiro, controle-vetores, definicao, destinacao-final, dimensionamento, dispensa, disposicao-final, efluente, embalagem, esgoto-sanitario, explante, fiscalizacao, fispq, gerador, gerenciamento-residuo, grupo-a, grupo-b, grupo-c, grupo-d, grupo-e, identificacao-residuo, incineracao, incompatibilidade-quimica, infracao-sanitaria, laboratorio, lampada, licenca-ambiental, licenca-sanitaria, logistica-reversa, medicamento, mercurio, metal-pesado, monitoramento, objetivo, perfurocortante, pgrss, pilha-bateria, pmgirs, prazo, publicidade, radiologia, reciclagem, rejeito, rejeito-radioativo, residuo-liquido, residuo-perigoso, residuo-putrescivel, residuo-servico-saude, residuo-solido, responsabilidade, reutilizacao, revisao, revogacao, risco-multiplo, sancao, saude-ocupacional, segregacao, servico-limpeza-urbana, servico-saude, situacao-emergencia, transporte-externo, transporte-interno, tratamento-efluente, tratamento-residuo, vacina, vigencia]
+tags: [acondicionamento, aproveitamento-energetico, armazenamento-residuo, aterro-classe-i, classificacao-residuo, coletor, compostagem, conteudo-minimo, contratacao-terceiro, destinacao-final, dimensionamento, dispensa, disposicao-final, efluente, embalagem, esgoto-sanitario, fiscalizacao, fispq, gerador, gerenciamento-residuo, grupo-a, grupo-b, grupo-c, grupo-d, grupo-e, incineracao, infracao-sanitaria, laboratorio, licenca-ambiental, licenca-sanitaria, logistica-reversa, medicamento, mercurio, metal-pesado, monitoramento, perfurocortante, pgrss, pilha-bateria, pmgirs, prazo, radiologia, reciclagem, rejeito, rejeito-radioativo, residuo-liquido, residuo-perigoso, residuo-servico-saude, residuo-solido, responsabilidade, reutilizacao, revogacao, sancao, saude-ocupacional, segregacao, servico-limpeza-urbana, servico-saude, situacao-emergencia, transporte-externo, transporte-interno, tratamento-efluente, tratamento-residuo, vigencia]
 fonte: "AnvisaLegis, Série Histórica (texto impresso em 27/09/2026, 14 páginas), PDF enviado por Leo; conferido com o PDF. Comentários: RDC nº 222/2018 Comentada (GRECS/GGTES/Anvisa, 11/06/2018), em [[rdc-anvisa-222-2018-coment]]"
 ---
 
@@ -38,14 +38,14 @@ fonte: "AnvisaLegis, Série Histórica (texto impresso em 27/09/2026, 14 página
 ### Seção I – Objetivo {#cap1_sec1}
 
 ###### Art. 1º {#art1}
-Tags: #objetivo #residuo-servico-saude #gerenciamento-residuo
+Tags: #residuo-servico-saude #gerenciamento-residuo
 
 **Art. 1º, caput** {#art1_cpt} Esta Resolução dispõe sobre os requisitos de Boas Práticas de Gerenciamento dos Resíduos de Serviços de Saúde. [[rdc-anvisa-222-2018-coment#art1_cpt_coment|(comentário)]]
 
 ### Seção II – Abrangência {#cap1_sec2}
 
 ###### Art. 2º {#art2}
-Tags: #residuo-servico-saude #gerador #servico-saude #cnen
+Tags: #residuo-servico-saude #gerador #servico-saude
 
 **Art. 2º, caput** {#art2_cpt} Esta Resolução se aplica aos geradores de resíduos de serviços de saúde- RSS cujas atividades envolvam qualquer etapa do gerenciamento dos RSS, sejam eles públicos e privados, filantrópicos, civis ou militares, incluindo aqueles que exercem ações de ensino e pesquisa. [[rdc-anvisa-222-2018-coment#art2_cpt_coment|(comentário)]]
 
@@ -56,11 +56,11 @@ Tags: #residuo-servico-saude #gerador #servico-saude #cnen
 ### Seção III – Definições {#cap1_sec3}
 
 ###### Art. 3º {#art3}
-Tags: #definicao #residuo-servico-saude
+Tags: #residuo-servico-saude
 
 **Art. 3º, caput** {#art3_cpt} Para efeito desta Resolução são adotadas as seguintes definições: [[rdc-anvisa-222-2018-coment#art3_cpt_coment|(comentário)]]
-- **Art. 3º, caput, inciso I** {#art3_cpt_inc1} #abrigo-residuo abrigo externo: ambiente no qual ocorre o armazenamento externo dos coletores de resíduos;
-- **Art. 3º, caput, inciso II** {#art3_cpt_inc2} #abrigo-residuo abrigo temporário: ambiente no qual ocorre o armazenamento temporário dos coletores de resíduos;
+- **Art. 3º, caput, inciso I** {#art3_cpt_inc1} abrigo externo: ambiente no qual ocorre o armazenamento externo dos coletores de resíduos;
+- **Art. 3º, caput, inciso II** {#art3_cpt_inc2} abrigo temporário: ambiente no qual ocorre o armazenamento temporário dos coletores de resíduos;
 - **Art. 3º, caput, inciso III** {#art3_cpt_inc3} #acondicionamento acondicionamento: ato de embalar os resíduos segregados em sacos ou recipientes que evitem vazamentos, e quando couber, sejam resistentes às ações de punctura, ruptura e tombamento, e que sejam adequados física e quimicamente ao conteúdo acondicionado;
 - **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} agentes biológicos: microrganismos capazes ou não de originar algum tipo de infecção, alergia ou toxicidade no corpo humano, tais como: bactérias, fungos, vírus, clamídias, riquétsias, micoplasmas, parasitas e outros agentes, linhagens celulares, príons e toxinas;
 - **Art. 3º, caput, inciso V** {#art3_cpt_inc5} #armazenamento-residuo armazenamento externo: guarda dos coletores de resíduos em ambiente exclusivo, com acesso facilitado para a coleta externa;
@@ -87,7 +87,7 @@ Tags: #definicao #residuo-servico-saude
 - **Art. 3º, caput, inciso XXVI** {#art3_cpt_inc26} forma livre: saturação de um líquido em um resíduo que o absorva ou o contenha, de forma que possa produzir gotejamento, vazamento ou derramamento espontaneamente ou sob compressão mínima;
 - **Art. 3º, caput, inciso XXVII** {#art3_cpt_inc27} #gerenciamento-residuo gerenciamento dos resíduos de serviços de saúde: conjunto de procedimentos de gestão, planejados e implementados a partir de bases científicas, técnicas, normativas e legais, com o objetivo de minimizar a geração de resíduos e proporcionar um encaminhamento seguro, de forma eficiente, visando à proteção dos trabalhadores e a preservação da saúde pública, dos recursos naturais e do meio ambiente;
 - **Art. 3º, caput, inciso XXVIII** {#art3_cpt_inc28} hemoderivados: produtos oriundos do sangue total ou do plasma, obtidos por meio de processamento físico-químico ou biotecnológico;
-- **Art. 3º, caput, inciso XXIX** {#art3_cpt_inc29} #identificacao-residuo identificação dos resíduos de serviços de saúde: conjunto de medidas que permite o reconhecimento dos riscos presentes nos resíduos acondicionados, de forma clara e legível em tamanho proporcional aos sacos, coletores e seus ambientes de armazenamento, conforme disposto no [[#anexo2|Anexo II]] desta Resolução;
+- **Art. 3º, caput, inciso XXIX** {#art3_cpt_inc29} identificação dos resíduos de serviços de saúde: conjunto de medidas que permite o reconhecimento dos riscos presentes nos resíduos acondicionados, de forma clara e legível em tamanho proporcional aos sacos, coletores e seus ambientes de armazenamento, conforme disposto no [[#anexo2|Anexo II]] desta Resolução;
 - **Art. 3º, caput, inciso XXX** {#art3_cpt_inc30} instalação radiativa: unidade ou serviço no qual se produzam, processam, manuseiam, utilizam, transportam ou armazenam fontes de radiação, excetuando-se as Instalações Nucleares definidas em norma da Comissão Nacional de Energia Nuclear (CNEN);
 - **Art. 3º, caput, inciso XXXI** {#art3_cpt_inc31} #licenca-ambiental licença ambiental: ato administrativo pelo qual o órgão ambiental competente estabelece as condições, restrições e medidas de controle ambiental que devem ser obedecidas para localizar, instalar, ampliar e operar empreendimentos ou atividades utilizadores dos recursos ambientais considerados efetiva ou potencialmente poluidoras ou aquelas que, sob qualquer forma, possam causar degradação ambiental;
 - **Art. 3º, caput, inciso XXXII** {#art3_cpt_inc32} #licenca-sanitaria licença sanitária: documento emitido pelo órgão sanitário competente dos Estados, Distrito Federal ou dos Municípios, contendo permissão para o funcionamento dos estabelecimentos que exerçam atividades sob regime de vigilância sanitária;
@@ -127,12 +127,12 @@ Tags: #definicao #residuo-servico-saude
 ## CAPÍTULO II – DO PLANO DE GERENCIAMENTO DE RESÍDUOS DE SERVIÇOS DE SAÚDE {#cap2}
 
 ###### Art. 4º {#art4}
-Tags: #gerenciamento-residuo #pgrss #capacitacao
+Tags: #gerenciamento-residuo #pgrss
 
 **Art. 4º, caput** {#art4_cpt} O gerenciamento dos RSS deve abranger todas as etapas de planejamento dos recursos físicos, dos recursos materiais e da capacitação dos recursos humanos envolvidos. [[rdc-anvisa-222-2018-coment#art4_cpt_coment|(comentário)]]
 
 ###### Art. 5º {#art5}
-Tags: #pgrss #licenca-sanitaria #grupo-d #cnen #prazo
+Tags: #pgrss #licenca-sanitaria #grupo-d #prazo
 
 **Art. 5º, caput** {#art5_cpt} Todo serviço gerador deve dispor de um Plano de Gerenciamento de RSS (PGRSS), observando as regulamentações federais, estaduais, municipais ou do Distrito Federal. [[rdc-anvisa-222-2018-coment#art5_cpt_coment|(comentário)]]
 
@@ -143,7 +143,7 @@ Tags: #pgrss #licenca-sanitaria #grupo-d #cnen #prazo
 **Art. 5º, § 3º** {#art5_par3} #prazo Os novos geradores de resíduos terão prazo de 180 (cento e oitenta) dias, a partir do início do funcionamento, para apresentar o PGRSS. [[rdc-anvisa-222-2018-coment#art5_par3_coment|(comentário)]]
 
 ###### Art. 6º {#art6}
-Tags: #pgrss #conteudo-minimo #gerenciamento-residuo #logistica-reversa #capacitacao #contratacao-terceiro #licenca-ambiental
+Tags: #pgrss #conteudo-minimo #gerenciamento-residuo #logistica-reversa #contratacao-terceiro #licenca-ambiental
 
 **Art. 6º, caput** {#art6_cpt} No PGRSS, o gerador de RSS deve:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} #classificacao-residuo estimar a quantidade dos RSS gerados por grupos, conforme a classificação do [[#anexo1|Anexo I]] desta resolução; [[rdc-anvisa-222-2018-coment#art6_cpt_inc1_coment|(comentário)]]
@@ -153,28 +153,28 @@ Tags: #pgrss #conteudo-minimo #gerenciamento-residuo #logistica-reversa #capacit
 - **Art. 6º, caput, inciso V** {#art6_cpt_inc5} #logistica-reversa quando aplicável, contemplar os procedimentos locais definidos pelo processo de logística reversa para os diversos RSS; [[rdc-anvisa-222-2018-coment#art6_cpt_inc5_coment|(comentário)]]
 - **Art. 6º, caput, inciso VI** {#art6_cpt_inc6} estar em conformidade com as rotinas e processos de higienização e limpeza vigentes no serviço gerador de RSS; [[rdc-anvisa-222-2018-coment#art6_cpt_inc6_coment|(comentário)]]
 - **Art. 6º, caput, inciso VII** {#art6_cpt_inc7} #situacao-emergencia descrever as ações a serem adotadas em situações de emergência e acidentes decorrentes do gerenciamento dos RSS; [[rdc-anvisa-222-2018-coment#art6_cpt_inc7_coment|(comentário)]]
-- **Art. 6º, caput, inciso VIII** {#art6_cpt_inc8} #controle-vetores descrever as medidas preventivas e corretivas de controle integrado de vetores e pragas urbanas, incluindo a tecnologia utilizada e a periodicidade de sua implantação; [[rdc-anvisa-222-2018-coment#art6_cpt_inc8_coment|(comentário)]]
-- **Art. 6º, caput, inciso IX** {#art6_cpt_inc9} #capacitacao descrever os programas de capacitação desenvolvidos e implantados pelo serviço gerador abrangendo todas as unidades geradoras de RSS e o setor de limpeza e conservação; [[rdc-anvisa-222-2018-coment#art6_cpt_inc9_coment|(comentário)]]
-- **Art. 6º, caput, inciso X** {#art6_cpt_inc10} #capacitacao apresentar documento comprobatório da capacitação e treinamento dos funcionários envolvidos na prestação de serviço de limpeza e conservação que atuem no serviço, próprios ou terceiros de todas as unidades geradoras; [[rdc-anvisa-222-2018-coment#art6_cpt_inc10_coment|(comentário)]]
+- **Art. 6º, caput, inciso VIII** {#art6_cpt_inc8} descrever as medidas preventivas e corretivas de controle integrado de vetores e pragas urbanas, incluindo a tecnologia utilizada e a periodicidade de sua implantação; [[rdc-anvisa-222-2018-coment#art6_cpt_inc8_coment|(comentário)]]
+- **Art. 6º, caput, inciso IX** {#art6_cpt_inc9} descrever os programas de capacitação desenvolvidos e implantados pelo serviço gerador abrangendo todas as unidades geradoras de RSS e o setor de limpeza e conservação; [[rdc-anvisa-222-2018-coment#art6_cpt_inc9_coment|(comentário)]]
+- **Art. 6º, caput, inciso X** {#art6_cpt_inc10} apresentar documento comprobatório da capacitação e treinamento dos funcionários envolvidos na prestação de serviço de limpeza e conservação que atuem no serviço, próprios ou terceiros de todas as unidades geradoras; [[rdc-anvisa-222-2018-coment#art6_cpt_inc10_coment|(comentário)]]
 - **Art. 6º, caput, inciso XI** {#art6_cpt_inc11} #licenca-ambiental apresentar cópia do contrato de prestação de serviços e da licença ambiental das empresas prestadoras de serviços para a destinação dos RSS; e [[rdc-anvisa-222-2018-coment#art6_cpt_inc11_coment|(comentário)]]
 - **Art. 6º, caput, inciso XII** {#art6_cpt_inc12} apresentar documento comprobatório de operação de venda ou de doação dos RSS destinados à recuperação, à reciclagem, à compostagem e à logística reversa. [[rdc-anvisa-222-2018-coment#art6_cpt_inc12_coment|(comentário)]]
 
 **Art. 6º, parágrafo único** {#art6_par1u} #prazo Os documentos referidos nos [[#art6_cpt_inc10|incisos X]] e [[#art6_cpt_inc12|XII]] devem ser mantidos arquivados, em meio físico ou eletrônico, por no mínimo cinco anos, para fins de inspeção sanitária, a critério da autoridade sanitária competente. [[rdc-anvisa-222-2018-coment#art6_par1u_coment|(comentário)]]
 
 ###### Art. 7º {#art7}
-Tags: #pgrss #monitoramento #revisao
+Tags: #pgrss #monitoramento
 
 **Art. 7º, caput** {#art7_cpt} O PGRSS deve ser monitorado e mantido atualizado, conforme periodicidade definida pelo responsável por sua elaboração e implantação. [[rdc-anvisa-222-2018-coment#art7_cpt_coment|(comentário)]]
 
 ###### Art. 8º {#art8}
-Tags: #pgrss #licenca-sanitaria #abrigo-residuo
+Tags: #pgrss #licenca-sanitaria
 
 **Art. 8º, caput** {#art8_cpt} O estabelecimento que possua serviços geradores de RSS com licenças sanitárias individualizadas deve ter PGRSS único que contemple todos os serviços existentes. [[rdc-anvisa-222-2018-coment#art8_cpt_coment|(comentário)]]
 
 **Art. 8º, parágrafo único** {#art8_par1u} Nas edificações não hospitalares nas quais houver serviços individualizados, os respectivos RSS dos Grupos A e E podem ter o armazenamento externo de forma compartilhada. [[rdc-anvisa-222-2018-coment#art8_par1u_coment|(comentário)]]
 
 ###### Art. 9º {#art9}
-Tags: #pgrss #publicidade
+Tags: #pgrss
 
 **Art. 9º, caput** {#art9_cpt} O serviço gerador de RSS deve manter cópia do PGRSS disponível para consulta dos órgãos de vigilância sanitária ou ambientais, dos funcionários, dos pacientes ou do público em geral. [[rdc-anvisa-222-2018-coment#art9_cpt_coment|(comentário)]]
 
@@ -213,7 +213,7 @@ Tags: #acondicionamento #grupo-a
 
 **Art. 14, caput** {#art14_cpt} Os sacos para acondicionamento de RSS do grupo A devem ser substituídos ao atingirem o limite de 2/3 (dois terços) de sua capacidade ou então a cada 48 (quarenta e oito) horas, independentemente do volume, visando o conforto ambiental e a segurança dos usuários e profissionais. [[rdc-anvisa-222-2018-coment#art14_cpt_coment|(comentário)]]
 
-**Art. 14, parágrafo único** {#art14_par1u} #residuo-putrescivel Os sacos contendo RSS do grupo A de fácil putrefação devem ser substituídos no máximo a cada 24 (vinte e quatro) horas, independentemente do volume. [[rdc-anvisa-222-2018-coment#art14_par1u_coment|(comentário)]]
+**Art. 14, parágrafo único** {#art14_par1u} Os sacos contendo RSS do grupo A de fácil putrefação devem ser substituídos no máximo a cada 24 (vinte e quatro) horas, independentemente do volume. [[rdc-anvisa-222-2018-coment#art14_par1u_coment|(comentário)]]
 
 ###### Art. 15 {#art15}
 Tags: #acondicionamento #grupo-a #rejeito #disposicao-final
@@ -239,17 +239,17 @@ Tags: #acondicionamento #coletor
 **Art. 17, § 2º** {#art17_par2} Após sua substituição, o saco para acondicionamento usado deve ser fechado e transferido para o carro de coleta. [[rdc-anvisa-222-2018-coment#art17_par2_coment|(comentário)]]
 
 ###### Art. 18 {#art18}
-Tags: #acondicionamento #residuo-liquido #identificacao-residuo
+Tags: #acondicionamento #residuo-liquido
 
 **Art. 18, caput** {#art18_cpt} Os RSS líquidos devem ser acondicionados em recipientes constituídos de material compatível com o líquido armazenado, resistentes, rígidos e estanques, com tampa que garanta a contenção do RSS e identificação conforme o [[#anexo2|Anexo II]] desta resolução. [[rdc-anvisa-222-2018-coment#art18_cpt_coment|(comentário)]]
 
 ###### Art. 19 {#art19}
-Tags: #acondicionamento #grupo-b #identificacao-residuo
+Tags: #acondicionamento #grupo-b
 
 **Art. 19, caput** {#art19_cpt} Os recipientes de acondicionamento para RSS químicos no estado sólido devem ser constituídos de material rígido, resistente, compatível com as características do produto químico acondicionado e identificados conforme o [[#anexo2|Anexo II]] desta Resolução. [[rdc-anvisa-222-2018-coment#art19_cpt_coment|(comentário)]]
 
 ###### Art. 20 {#art20}
-Tags: #acondicionamento #grupo-c #rejeito-radioativo #cnen
+Tags: #acondicionamento #grupo-c #rejeito-radioativo
 
 **Art. 20, caput** {#art20_cpt} Os rejeitos radioativos devem ser acondicionados conforme procedimentos definidos pelo supervisor de proteção radiológica, com certificado de qualificação emitido pela CNEN, ou equivalente de acordo com normas da CNEN, na área de atuação correspondente. [[rdc-anvisa-222-2018-coment#art20_cpt_coment|(comentário)]]
 
@@ -259,7 +259,6 @@ Tags: #acondicionamento #grupo-d #servico-limpeza-urbana
 **Art. 21, caput** {#art21_cpt} Os RSS do Grupo D devem ser acondicionados de acordo com as orientações dos órgãos locais responsáveis pelo serviço de limpeza urbana. [[rdc-anvisa-222-2018-coment#art21_cpt_coment|(comentário)]]
 
 ###### Art. 22 {#art22}
-Tags: #identificacao-residuo
 
 **Art. 22, caput** {#art22_cpt} A identificação dos RSS deve estar afixada nos carros de coleta, nos locais de armazenamento e nos sacos que acondicionam os resíduos. [[rdc-anvisa-222-2018-coment#art22_cpt_coment|(comentário)]]
 
@@ -270,21 +269,20 @@ Tags: #identificacao-residuo
 **Art. 22, § 3º** {#art22_par3} A identificação dos sacos para acondicionamento deve estar impressa, sendo vedado o uso de adesivo. [[rdc-anvisa-222-2018-coment#art22_par3_coment|(comentário)]]
 
 ###### Art. 23 {#art23}
-Tags: #atencao-domiciliar #acondicionamento #transporte-interno
+Tags: #acondicionamento #transporte-interno
 
 **Art. 23, caput** {#art23_cpt} Os RSS gerados pelos serviços de atenção domiciliar, devem ser acondicionados e recolhidos pelos próprios agentes de atendimento ou por pessoa treinada para a atividade e encaminhados à destinação final ambientalmente adequada. [[rdc-anvisa-222-2018-coment#art23_cpt_coment|(comentário)]]
 
 **Art. 23, parágrafo único** {#art23_par1u} O transporte destes RSS pode ser feito no próprio veículo utilizado para o atendimento e deve ser realizado em coletores de material resistente, rígido, identificados e com sistema de fechamento dotado de dispositivo de vedação, garantindo a estanqueidade e o não tombamento. [[rdc-anvisa-222-2018-coment#art23_par1u_coment|(comentário)]]
 
 ###### Art. 24 {#art24}
-Tags: #explante
 
 **Art. 24, caput** {#art24_cpt} O descarte de produtos para saúde oriundos de explante deve seguir o disposto na [[rdc-anvisa-15-2012|Resolução da Diretoria Colegiada - RDC nº 15, de 2012]] , ou outra que vier a substituíla. [[rdc-anvisa-222-2018-coment#art24_cpt_coment|(comentário)]]
 
 ### Seção II – Coleta e transporte interno {#cap3_sec2} [[rdc-anvisa-222-2018-coment#cap3_sec2_coment|(comentário)]]
 
 ###### Art. 25 {#art25}
-Tags: #transporte-interno #identificacao-residuo
+Tags: #transporte-interno
 
 **Art. 25, caput** {#art25_cpt} O transporte interno dos RSS deve ser realizado atendendo a rota e a horários previamente definidos, em coletor identificado de acordo com o [[#anexo2|Anexo II]] desta Resolução. [[rdc-anvisa-222-2018-coment#art25_cpt_coment|(comentário)]]
 
@@ -310,7 +308,7 @@ Tags: #armazenamento-residuo #pgrss #transporte-externo #pmgirs
 **Art. 28, parágrafo único** {#art28_par1u} A coleta e o transporte externo dos RSS devem ser compatíveis com os Planos Municipais e do Distrito Federal de Gestão Integrada de Resíduos Sólidos e com as demais normativas aplicáveis. [[rdc-anvisa-222-2018-coment#art28_par1u_coment|(comentário)]]
 
 ###### Art. 29 {#art29}
-Tags: #armazenamento-residuo #abrigo-residuo
+Tags: #armazenamento-residuo
 
 **Art. 29, caput** {#art29_cpt} O abrigo temporário de RSS deve:
 - **Art. 29, caput, inciso I** {#art29_cpt_inc1} ser provido de pisos e paredes revestidos de material resistente, lavável e impermeável; [[rdc-anvisa-222-2018-coment#art29_cpt_inc1_coment|(comentário)]]
@@ -325,29 +323,29 @@ Tags: #armazenamento-residuo #dispensa
 **Art. 30, caput** {#art30_cpt} O armazenamento temporário pode ser dispensado no caso em que o fluxo de recolhimento e transporte justifique. [[rdc-anvisa-222-2018-coment#art30_cpt_coment|(comentário)]]
 
 ###### Art. 31 {#art31}
-Tags: #armazenamento-residuo #abrigo-residuo
+Tags: #armazenamento-residuo
 
 **Art. 31, caput** {#art31_cpt} A sala de utilidades ou expurgo pode ser compartilhada para o armazenamento temporário dos RSS dos Grupos A, E e D, devendo ser compatível com a área a ser ocupada pelos coletores em uso. [[rdc-anvisa-222-2018-coment#art31_cpt_coment|(comentário)]]
 
 **Art. 31, parágrafo único** {#art31_par1u} Na hipótese descrita no [[#art31_cpt|caput]], a sala de utilidades ou expurgo deve conter também a identificação com a inscrição "ABRIGO TEMPORÁRIO DE RESÍDUOS". [[rdc-anvisa-222-2018-coment#art31_par1u_coment|(comentário)]]
 
 ###### Art. 32 {#art32}
-Tags: #armazenamento-residuo #residuo-putrescivel
+Tags: #armazenamento-residuo
 
 **Art. 32, caput** {#art32_cpt} RSS de fácil putrefação devem ser submetidos a método de conservação em caso de armazenamento por período superior a vinte e quatro horas. [[rdc-anvisa-222-2018-coment#art32_cpt_coment|(comentário)]]
 
 ###### Art. 33 {#art33}
-Tags: #grupo-c #rejeito-radioativo #cnen
+Tags: #grupo-c #rejeito-radioativo
 
 **Art. 33, caput** {#art33_cpt} O gerenciamento de rejeitos radioativos, grupo C, deve obedecer ao Plano de Proteção Radiológica do Serviço, as Normas da CNEN e demais normas aplicáveis. [[rdc-anvisa-222-2018-coment#art33_cpt_coment|(comentário)]]
 
 ###### Art. 34 {#art34}
-Tags: #abrigo-residuo #grupo-a #grupo-d #grupo-e
+Tags: #grupo-a #grupo-d #grupo-e
 
 **Art. 34, caput** {#art34_cpt} O abrigo externo deve ter, no mínimo, um ambiente para armazenar os coletores dos RSS do Grupo A, podendo também conter os RSS do grupo E, e outro ambiente exclusivo para armazenar os coletores de RSS do grupo D. [[rdc-anvisa-222-2018-coment#art34_cpt_coment|(comentário)]]
 
 ###### Art. 35 {#art35}
-Tags: #abrigo-residuo #armazenamento-residuo
+Tags: #armazenamento-residuo
 
 **Art. 35, caput** {#art35_cpt} O abrigo externo deve:
 - **Art. 35, caput, inciso I** {#art35_cpt_inc1} permitir fácil acesso às operações do transporte interno; [[rdc-anvisa-222-2018-coment#art35_cpt_inc1_coment|(comentário)]]
@@ -363,7 +361,7 @@ Tags: #abrigo-residuo #armazenamento-residuo
 - **Art. 35, caput, inciso XI** {#art35_cpt_inc11} possuir área coberta, com ponto de saída de água, para higienização e limpeza dos coletores utilizados. [[rdc-anvisa-222-2018-coment#art35_cpt_inc11_coment|(comentário)]]
 
 ###### Art. 36 {#art36}
-Tags: #abrigo-residuo #grupo-b #incompatibilidade-quimica
+Tags: #grupo-b
 
 **Art. 36, caput** {#art36_cpt} O abrigo externo dos RSS do Grupo B deve, ainda:
 - **Art. 36, caput, inciso I** {#art36_cpt_inc1} respeitar a segregação das categorias de RSS químicos e incompatibilidade química, conforme os [[#anexo3|Anexos III]] e [[#anexo4|IV]] desta Resolução; [[rdc-anvisa-222-2018-coment#art36_cpt_inc1_coment|(comentário)]]
@@ -372,7 +370,7 @@ Tags: #abrigo-residuo #grupo-b #incompatibilidade-quimica
 - **Art. 36, caput, inciso IV** {#art36_cpt_inc4} possuir sistema elétrico e de combate a incêndio, que atendam os requisitos de proteção estabelecidos pelos órgãos competentes. [[rdc-anvisa-222-2018-coment#art36_cpt_inc4_coment|(comentário)]]
 
 ###### Art. 37 {#art37}
-Tags: #armazenamento-residuo #abrigo-residuo
+Tags: #armazenamento-residuo
 
 **Art. 37, caput** {#art37_cpt} É proibido o armazenamento dos coletores em uso fora de abrigos. [[rdc-anvisa-222-2018-coment#art37_cpt_coment|(comentário)]]
 
@@ -386,7 +384,7 @@ Tags: #transporte-externo #grupo-d
 **Art. 38, caput** {#art38_cpt} Os veículos de transporte externo dos RSS não podem ser dotados de sistema de compactação ou outro sistema que danifique os sacos contendo os RSS, exceto para os RSS do Grupo D. [[rdc-anvisa-222-2018-coment#art38_cpt_coment|(comentário)]]
 
 ###### Art. 39 {#art39}
-Tags: #transporte-externo #rejeito-radioativo #cnen
+Tags: #transporte-externo #rejeito-radioativo
 
 **Art. 39, caput** {#art39_cpt} O transporte externo de rejeitos radioativos, deve seguir normas específicas, caso existam e as normas da CNEN. [[rdc-anvisa-222-2018-coment#art39_cpt_coment|(comentário)]]
 
@@ -415,7 +413,7 @@ Tags: #tratamento-residuo #rejeito
 **Art. 43, parágrafo único** {#art43_par1u} Os RSS tratados devem ser considerados como rejeitos. [[rdc-anvisa-222-2018-coment#art43_par1u_coment|(comentário)]]
 
 ###### Art. 44 {#art44}
-Tags: #tratamento-residuo #risco-multiplo
+Tags: #tratamento-residuo
 
 **Art. 44, caput** {#art44_cpt} O tratamento dos RSS que apresentem múltiplos riscos deve obedecer à seguinte sequência: [[rdc-anvisa-222-2018-coment#art44_cpt_coment|(comentário)]]
 - **Art. 44, caput, inciso I** {#art44_cpt_inc1} na presença de risco radiológico associado, armazenar para decaimento da atividade do radionuclídeo até que o nível de dispensa seja atingido; [[rdc-anvisa-222-2018-coment#art44_cpt_inc1_coment|(comentário)]]
@@ -451,7 +449,7 @@ Tags: #grupo-a #tratamento-residuo
 **Art. 46, § 5º** {#art46_par5} Após o tratamento, os rejeitos devem ser encaminhados para disposição final ambientalmente adequada. [[rdc-anvisa-222-2018-coment#art46_par5_coment|(comentário)]]
 
 ###### Art. 47 {#art47}
-Tags: #grupo-a #vacina #tratamento-residuo #perfurocortante
+Tags: #grupo-a #tratamento-residuo #perfurocortante
 
 **Art. 47, caput** {#art47_cpt} Os RSS resultantes de atividades de vacinação com microrganismos vivos, atenuados ou inativados incluindo frascos de vacinas com expiração do prazo de validade, com conteúdo inutilizado ou com restos do produto e seringas, quando desconectadas, devem ser tratados antes da disposição final ambientalmente adequada. [[rdc-anvisa-222-2018-coment#art47_cpt_coment|(comentário)]]
 
@@ -554,7 +552,7 @@ Tags: #grupo-b #medicamento #aterro-classe-i
 **Art. 59, caput** {#art59_cpt} Os resíduos de medicamentos contendo produtos hormonais e produtos antimicrobianos; citostáticos; antineoplásicos; imunossupressores; digitálicos, imunomoduladores; anti-retrovirais, quando descartados por serviços assistenciais de saúde, farmácias, drogarias e distribuidores de medicamentos ou apreendidos, devem ser submetidos a tratamento ou dispostos em aterro de resíduos perigosos - Classe I. [[rdc-anvisa-222-2018-coment#art59_cpt_coment|(comentário)]]
 
 ###### Art. 60 {#art60}
-Tags: #grupo-b #incompatibilidade-quimica #acondicionamento
+Tags: #grupo-b #acondicionamento
 
 **Art. 60, caput** {#art60_cpt} Para o acondicionamento dos RSS do Grupo B devem ser observadas as incompatibilidades químicas descritas no [[#anexo4|Anexos IV]] e [[#anexo5|V]] desta Resolução. [[rdc-anvisa-222-2018-coment#art60_cpt_coment|(comentário)]]
 
@@ -602,7 +600,7 @@ Tags: #radiologia #tratamento-residuo
 **Art. 67, caput** {#art67_cpt} Os fixadores usados em radiologia, quando não submetidos a processo de recuperação da prata, devem ser encaminhados para tratamento antes da disposição final ambientalmente adequada. [[rdc-anvisa-222-2018-coment#art67_cpt_coment|(comentário)]]
 
 ###### Art. 68 {#art68}
-Tags: #metal-pesado #aterro-classe-i #pilha-bateria #lampada
+Tags: #metal-pesado #aterro-classe-i #pilha-bateria
 
 **Art. 68, caput** {#art68_cpt} Os RSS sólidos contendo metais pesados, quando não submetidos a tratamento devem ser dispostos em aterro de resíduos perigosos - Classe I, conforme orientação do órgão ambiental competente. [[rdc-anvisa-222-2018-coment#art68_cpt_coment|(comentário)]]
 
@@ -657,7 +655,7 @@ Tags: #grupo-c #rejeito-radioativo #armazenamento-residuo
 **Art. 76, parágrafo único** {#art76_par1u} O armazenamento de rejeitos radioativos líquidos deve ser feito sobre bacia de contenção, bandeja, recipiente ou material absorvente com capacidade de conter ou absorver o dobro do volume do líquido presente na embalagem. [[rdc-anvisa-222-2018-coment#art76_par1u_coment|(comentário)]]
 
 ###### Art. 77 {#art77}
-Tags: #grupo-c #rejeito-radioativo #residuo-putrescivel
+Tags: #grupo-c #rejeito-radioativo
 
 **Art. 77, caput** {#art77_cpt} Os RSS de fácil putrefação contaminados com radionuclídeos, depois de acondicionados e identificados como rejeito radioativo, devem ser mantidos sob refrigeração ou por outro processo que evite a decomposição, durante o período de armazenamento para decaimento. [[rdc-anvisa-222-2018-coment#art77_cpt_coment|(comentário)]]
 
@@ -673,7 +671,7 @@ Tags: #grupo-c #rejeito-radioativo
 **Art. 78, § 3º** {#art78_par3} Quando os valores de atividade ou de concentração de atividade forem inferiores ou iguais aos níveis de dispensa, os resíduos sólidos podem ser descartados como resíduos do Grupo D e os resíduos líquidos na rede coletora de esgotos com tratamento. [[rdc-anvisa-222-2018-coment#art78_par3_coment|(comentário)]]
 
 ###### Art. 79 {#art79}
-Tags: #grupo-c #rejeito-radioativo #identificacao-residuo
+Tags: #grupo-c #rejeito-radioativo
 
 **Art. 79, caput** {#art79_cpt} Quando o processo de decaimento do elemento radioativo atingir o nível do limite de dispensa estabelecido pelas normas vigentes, o rótulo de "REJEITO RADIOATIVO" deve ser retirado, permanecendo a identificação dos demais riscos presentes. [[rdc-anvisa-222-2018-coment#art79_cpt_coment|(comentário)]]
 
@@ -732,7 +730,7 @@ Tags: #grupo-e #perfurocortante #acondicionamento
 **Art. 87, parágrafo único** {#art87_par1u} Admite-se o emprego de tecnologia que promova o esvaziamento automatizado de recipientes plásticos específicos com posterior descontaminação, possibilitando sua reutilização. [[rdc-anvisa-222-2018-coment#art87_par1u_coment|(comentário)]]
 
 ###### Art. 88 {#art88}
-Tags: #grupo-e #perfurocortante #risco-multiplo
+Tags: #grupo-e #perfurocortante
 
 **Art. 88, caput** {#art88_cpt} Os RSS do Grupo E, quando contaminados por agentes biológicos, químicos e substâncias radioativas, devem ter seu manejo de acordo com cada classe de risco associada. [[rdc-anvisa-222-2018-coment#art88_cpt_coment|(comentário)]]
 
@@ -753,7 +751,7 @@ Tags: #saude-ocupacional
 **Art. 90, caput** {#art90_cpt} O serviço deve garantir que os trabalhadores sejam avaliados periodicamente, seguindo a legislação específica, em relação à saúde ocupacional, mantendo registros desta avaliação. [[rdc-anvisa-222-2018-coment#art90_cpt_coment|(comentário)]]
 
 ###### Art. 91 {#art91}
-Tags: #saude-ocupacional #capacitacao
+Tags: #saude-ocupacional
 
 **Art. 91, caput** {#art91_cpt} O serviço deve manter um programa de educação continuada para os trabalhadores e todos os envolvidos nas atividades de gerenciamento de resíduos, mesmo os que atuam temporariamente, que contemplem os seguintes temas: [[rdc-anvisa-222-2018-coment#art91_cpt_coment|(comentário)]]
 - **Art. 91, caput, inciso I** {#art91_cpt_inc1} sistema adotado para o gerenciamento dos RSS; [[rdc-anvisa-222-2018-coment#art91_cpt_inc1_coment|(comentário)]]
@@ -848,12 +846,12 @@ Tags: #vigencia
 
 **IDENTIFICAÇÃO DOS GRUPOS DOS RESÍDUOS DE SERVIÇOS DE SAÚDE**
 
-- **Anexo II, linha 1** {#anexo2_lin1} #grupo-a #identificacao-residuo O grupo A é identificado, no mínimo, pelo símbolo de risco biológico, com rótulo de fundo branco, desenho e contornos pretos, acrescido da expressão RESÍDUO INFECTANTE.
-- **Anexo II, linha 2** {#anexo2_lin2} #grupo-b #identificacao-residuo O grupo B é identificado por meio de símbolo e frase de risco associado à periculosidade do resíduo químico.
-- **Anexo II, linha 3** {#anexo2_lin3} #grupo-b #identificacao-residuo Observação - outros símbolos e frases do GHS também podem ser utilizados.
-- **Anexo II, linha 4** {#anexo2_lin4} #grupo-c #identificacao-residuo O grupo C é representado pelo símbolo internacional de presença de radiação ionizante (trifólio de cor magenta ou púrpura) em rótulo de fundo amarelo, acrescido da expressão MATERIAL RADIOATIVO, REJEITO RADIOATIVO ou RADIOATIVO.
-- **Anexo II, linha 5** {#anexo2_lin5} #grupo-d #identificacao-residuo O grupo D deve ser identificado conforme definido pelo órgão de limpeza urbana.
-- **Anexo II, linha 6** {#anexo2_lin6} #grupo-e #identificacao-residuo O grupo E é identificado pelo símbolo de risco biológico, com rótulo de fundo branco, desenho e contorno preto, acrescido da inscrição de RESÍDUO PERFUROCORTANTE. OU PERFUROCORTANTE
+- **Anexo II, linha 1** {#anexo2_lin1} #grupo-a O grupo A é identificado, no mínimo, pelo símbolo de risco biológico, com rótulo de fundo branco, desenho e contornos pretos, acrescido da expressão RESÍDUO INFECTANTE.
+- **Anexo II, linha 2** {#anexo2_lin2} #grupo-b O grupo B é identificado por meio de símbolo e frase de risco associado à periculosidade do resíduo químico.
+- **Anexo II, linha 3** {#anexo2_lin3} #grupo-b Observação - outros símbolos e frases do GHS também podem ser utilizados.
+- **Anexo II, linha 4** {#anexo2_lin4} #grupo-c O grupo C é representado pelo símbolo internacional de presença de radiação ionizante (trifólio de cor magenta ou púrpura) em rótulo de fundo amarelo, acrescido da expressão MATERIAL RADIOATIVO, REJEITO RADIOATIVO ou RADIOATIVO.
+- **Anexo II, linha 5** {#anexo2_lin5} #grupo-d O grupo D deve ser identificado conforme definido pelo órgão de limpeza urbana.
+- **Anexo II, linha 6** {#anexo2_lin6} #grupo-e O grupo E é identificado pelo símbolo de risco biológico, com rótulo de fundo branco, desenho e contorno preto, acrescido da inscrição de RESÍDUO PERFUROCORTANTE. OU PERFUROCORTANTE
 
 Símbolos que acompanham o Anexo II no original (imagens, descritas pelo conversor; não são texto normativo):
 - Grupo A: símbolo de risco biológico (preto sobre fundo branco).
@@ -898,49 +896,49 @@ Fonte: Chemical Waste Management Guide. University of Florida - Division of Envi
 
 **INCOMPATIBILIDADE QUÍMICA ENTRE AS PRINCIPAIS SUBSTÂNCIAS UTILIZADAS PELOS GERADORES DE RESÍDUOS DE SERVIÇOS DE SAÚDE**
 
-- **Anexo IV, Tabela 1, linha 1** {#anexo4_tab1_lin1} #incompatibilidade-quimica Substância: Acetileno | Incompatibilidade química: Cloro, bromo, flúor, cobre, prata, Mercúrio
-- **Anexo IV, Tabela 1, linha 2** {#anexo4_tab1_lin2} #incompatibilidade-quimica Substância: Ácido Acético | Incompatibilidade química: Acido crômico, ácido perclórico, peróxidos, permanganatos, ácido nítrico, etilenoglicol
-- **Anexo IV, Tabela 1, linha 3** {#anexo4_tab1_lin3} #incompatibilidade-quimica Substância: Acetona | Incompatibilidade química: Misturas de ácidos sulfúrico e nítrico concentrados, Peróxido de hidrogênio
-- **Anexo IV, Tabela 1, linha 4** {#anexo4_tab1_lin4} #incompatibilidade-quimica Substância: Ácido crômico | Incompatibilidade química: Ácido acético, naftaleno, cânfora, glicerol, turpentine, álcool, outros líquidos inflamáveis
-- **Anexo IV, Tabela 1, linha 5** {#anexo4_tab1_lin5} #incompatibilidade-quimica Substância: Ácido hidrociânico | Incompatibilidade química: Ácido nítrico, álcalis
-- **Anexo IV, Tabela 1, linha 6** {#anexo4_tab1_lin6} #incompatibilidade-quimica Substância: Ácido fluorídrico anidro, fluoreto de hidrogênio | Incompatibilidade química: Amônia (aquosa ou anidra)
-- **Anexo IV, Tabela 1, linha 7** {#anexo4_tab1_lin7} #incompatibilidade-quimica Substância: Ácido nítrico concentrado | Incompatibilidade química: Ácido cianídrico, anilinas, Óxidos de cromo VI, Sulfeto de hidrogênio, líquidos e gases combustíveis, ácido acético, ácido crômico
-- **Anexo IV, Tabela 1, linha 8** {#anexo4_tab1_lin8} #incompatibilidade-quimica Substância: Ácido oxálico | Incompatibilidade química: Prata e Mercúrio
-- **Anexo IV, Tabela 1, linha 9** {#anexo4_tab1_lin9} #incompatibilidade-quimica Substância: Ácido perclórico | Incompatibilidade química: Anidrido acético, álcoois, Bismuto e suas ligas, papel, madeira
-- **Anexo IV, Tabela 1, linha 10** {#anexo4_tab1_lin10} #incompatibilidade-quimica Substância: Ácido sulfúrico | Incompatibilidade química: Cloratos, percloratos, permanganatos e água
-- **Anexo IV, Tabela 1, linha 11** {#anexo4_tab1_lin11} #incompatibilidade-quimica Substância: Alquil alumínio | Incompatibilidade química: Água
-- **Anexo IV, Tabela 1, linha 12** {#anexo4_tab1_lin12} #incompatibilidade-quimica Substância: Amônia anidra | Incompatibilidade química: Mercúrio, Cloro, Hipoclorito de cálcio, Iodo, Bromo, Acido fluorídrico
-- **Anexo IV, Tabela 1, linha 13** {#anexo4_tab1_lin13} #incompatibilidade-quimica Substância: Anidrido acético | Incompatibilidade química: Compostos contendo hidroxil tais como etilenoglicol, Acido perclórico
-- **Anexo IV, Tabela 1, linha 14** {#anexo4_tab1_lin14} #incompatibilidade-quimica Substância: Anilina | Incompatibilidade química: Ácido nítrico, Peróxido de hidrogênio
-- **Anexo IV, Tabela 1, linha 15** {#anexo4_tab1_lin15} #incompatibilidade-quimica Substância: Azida sódica | Incompatibilidade química: Chumbo, Cobre e outros metais
-- **Anexo IV, Tabela 1, linha 16** {#anexo4_tab1_lin16} #incompatibilidade-quimica Substância: Bromo e cloro | Incompatibilidade química: Benzeno, Hidróxido de amônio, benzina de petróleo, Hidrogênio, acetileno, etano, propano, butadienos, pós-metálicos
-- **Anexo IV, Tabela 1, linha 17** {#anexo4_tab1_lin17} #incompatibilidade-quimica Substância: Carvão ativo | Incompatibilidade química: Dicromatos, permanganatos, Acido nítrico, Acido sulfúrico, Hipoclorito de sódio
-- **Anexo IV, Tabela 1, linha 18** {#anexo4_tab1_lin18} #incompatibilidade-quimica Substância: Cloro | Incompatibilidade química: Amônia, acetileno, butadieno, butano, outros gases de petróleo, Hidrogênio, Carbeto de sódio, turpentine, benzeno, metais finamente divididos, benzinas e outras frações do petróleo
-- **Anexo IV, Tabela 1, linha 19** {#anexo4_tab1_lin19} #incompatibilidade-quimica Substância: Cianetos | Incompatibilidade química: Ácidos e álcalis
-- **Anexo IV, Tabela 1, linha 20** {#anexo4_tab1_lin20} #incompatibilidade-quimica Substância: Cloratos, percloratos, clorato de potássio | Incompatibilidade química: Sais de amônio, ácidos, metais em pó, matérias orgânicas particuladas, substâncias combustíveis
-- **Anexo IV, Tabela 1, linha 21** {#anexo4_tab1_lin21} #incompatibilidade-quimica Substância: Cobre metálico | Incompatibilidade química: Acetileno, peróxido de hidrogênio, azidas
-- **Anexo IV, Tabela 1, linha 22** {#anexo4_tab1_lin22} #incompatibilidade-quimica Substância: Dióxido de cloro | Incompatibilidade química: Amônia, metano, fósforo, sulfeto de hidrogênio
-- **Anexo IV, Tabela 1, linha 23** {#anexo4_tab1_lin23} #incompatibilidade-quimica Substância: Flúor | Incompatibilidade química: Manter isolado de outros produtos químicos.
-- **Anexo IV, Tabela 1, linha 24** {#anexo4_tab1_lin24} #incompatibilidade-quimica Substância: Fósforo | Incompatibilidade química: Enxofre, compostos oxigenados, cloratos, percloratos, nitratos, permanganatos
-- **Anexo IV, Tabela 1, linha 25** {#anexo4_tab1_lin25} #incompatibilidade-quimica Substância: Halogênios (flúor, cloro, bromo e iodo) | Incompatibilidade química: Amoníaco, acetileno e hidrocarbonetos
-- **Anexo IV, Tabela 1, linha 26** {#anexo4_tab1_lin26} #incompatibilidade-quimica Substância: Hidrazida | Incompatibilidade química: Peróxido de hidrogênio, ácido nítrico e outros oxidantes
-- **Anexo IV, Tabela 1, linha 27** {#anexo4_tab1_lin27} #incompatibilidade-quimica Substância: Hidrocarbonetos (butano, propano, tolueno) | Incompatibilidade química: Ácido crômico, flúor, cloro, bromo, peróxidos
-- **Anexo IV, Tabela 1, linha 28** {#anexo4_tab1_lin28} #incompatibilidade-quimica Substância: Iodo | Incompatibilidade química: Acetileno, hidróxido de amônio, hidrogênio
-- **Anexo IV, Tabela 1, linha 29** {#anexo4_tab1_lin29} #incompatibilidade-quimica Substância: Líquidos inflamáveis | Incompatibilidade química: Ácido nítrico, nitrato de amônio, óxido de cromo VI, peróxidos, flúor, cloro, bromo, hidrogênio
-- **Anexo IV, Tabela 1, linha 30** {#anexo4_tab1_lin30} #incompatibilidade-quimica Substância: Mercúrio | Incompatibilidade química: Acetileno, ácido fulmínico, amônia
-- **Anexo IV, Tabela 1, linha 31** {#anexo4_tab1_lin31} #incompatibilidade-quimica Substância: Metais alcalinos | Incompatibilidade química: Dióxido de carbono, tetracloreto de carbono, outros hidrocarbonetos clorados
-- **Anexo IV, Tabela 1, linha 32** {#anexo4_tab1_lin32} #incompatibilidade-quimica Substância: Nitrato de amônio | Incompatibilidade química: Ácidos, pós-metálicos, líquidos inflamáveis, cloretos, enxofre, compostos orgânicos em pó
-- **Anexo IV, Tabela 1, linha 33** {#anexo4_tab1_lin33} #incompatibilidade-quimica Substância: Nitrato de sódio | Incompatibilidade química: Nitrato de amônio e outros sais de amônio
-- **Anexo IV, Tabela 1, linha 34** {#anexo4_tab1_lin34} #incompatibilidade-quimica Substância: Óxido de cálcio | Incompatibilidade química: Água
-- **Anexo IV, Tabela 1, linha 35** {#anexo4_tab1_lin35} #incompatibilidade-quimica Substância: Óxido de cromo VI | Incompatibilidade química: Ácido acético, glicerina, benzina de petróleo, líquidos inflamáveis, naftaleno
-- **Anexo IV, Tabela 1, linha 36** {#anexo4_tab1_lin36} #incompatibilidade-quimica Substância: Oxigênio | Incompatibilidade química: Óleos, graxas, hidrogênio, líquidos, sólidos e gases inflamáveis
-- **Anexo IV, Tabela 1, linha 37** {#anexo4_tab1_lin37} #incompatibilidade-quimica Substância: Perclorato de potássio | Incompatibilidade química: Ácidos
-- **Anexo IV, Tabela 1, linha 38** {#anexo4_tab1_lin38} #incompatibilidade-quimica Substância: Permanganato de potássio | Incompatibilidade química: Glicerina, etilenoglicol, ácido sulfúrico
-- **Anexo IV, Tabela 1, linha 39** {#anexo4_tab1_lin39} #incompatibilidade-quimica Substância: Peróxido de hidrogênio | Incompatibilidade química: Cobre, cromo, ferro, álcoois, acetonas, substâncias combustíveis
-- **Anexo IV, Tabela 1, linha 40** {#anexo4_tab1_lin40} #incompatibilidade-quimica Substância: Peróxido de sódio | Incompatibilidade química: Ácido acético, Anidrido acético, benzaldeído, etanol, metanol, etilenoglicol, acetatos de metila e etila, furfural
-- **Anexo IV, Tabela 1, linha 41** {#anexo4_tab1_lin41} #incompatibilidade-quimica Substância: Prata e sais de prata | Incompatibilidade química: Acetileno, ácido tartárico, ácido oxálico, compostos de amônio
-- **Anexo IV, Tabela 1, linha 42** {#anexo4_tab1_lin42} #incompatibilidade-quimica Substância: Sódio | Incompatibilidade química: Dióxido de carbono, tetracloreto de carbono, outros hidrocarbonetos clorados
-- **Anexo IV, Tabela 1, linha 43** {#anexo4_tab1_lin43} #incompatibilidade-quimica Substância: Sulfeto de hidrogênio | Incompatibilidade química: Ácido nítrico fumegante, gases oxidantes
+- **Anexo IV, Tabela 1, linha 1** {#anexo4_tab1_lin1} Substância: Acetileno | Incompatibilidade química: Cloro, bromo, flúor, cobre, prata, Mercúrio
+- **Anexo IV, Tabela 1, linha 2** {#anexo4_tab1_lin2} Substância: Ácido Acético | Incompatibilidade química: Acido crômico, ácido perclórico, peróxidos, permanganatos, ácido nítrico, etilenoglicol
+- **Anexo IV, Tabela 1, linha 3** {#anexo4_tab1_lin3} Substância: Acetona | Incompatibilidade química: Misturas de ácidos sulfúrico e nítrico concentrados, Peróxido de hidrogênio
+- **Anexo IV, Tabela 1, linha 4** {#anexo4_tab1_lin4} Substância: Ácido crômico | Incompatibilidade química: Ácido acético, naftaleno, cânfora, glicerol, turpentine, álcool, outros líquidos inflamáveis
+- **Anexo IV, Tabela 1, linha 5** {#anexo4_tab1_lin5} Substância: Ácido hidrociânico | Incompatibilidade química: Ácido nítrico, álcalis
+- **Anexo IV, Tabela 1, linha 6** {#anexo4_tab1_lin6} Substância: Ácido fluorídrico anidro, fluoreto de hidrogênio | Incompatibilidade química: Amônia (aquosa ou anidra)
+- **Anexo IV, Tabela 1, linha 7** {#anexo4_tab1_lin7} Substância: Ácido nítrico concentrado | Incompatibilidade química: Ácido cianídrico, anilinas, Óxidos de cromo VI, Sulfeto de hidrogênio, líquidos e gases combustíveis, ácido acético, ácido crômico
+- **Anexo IV, Tabela 1, linha 8** {#anexo4_tab1_lin8} Substância: Ácido oxálico | Incompatibilidade química: Prata e Mercúrio
+- **Anexo IV, Tabela 1, linha 9** {#anexo4_tab1_lin9} Substância: Ácido perclórico | Incompatibilidade química: Anidrido acético, álcoois, Bismuto e suas ligas, papel, madeira
+- **Anexo IV, Tabela 1, linha 10** {#anexo4_tab1_lin10} Substância: Ácido sulfúrico | Incompatibilidade química: Cloratos, percloratos, permanganatos e água
+- **Anexo IV, Tabela 1, linha 11** {#anexo4_tab1_lin11} Substância: Alquil alumínio | Incompatibilidade química: Água
+- **Anexo IV, Tabela 1, linha 12** {#anexo4_tab1_lin12} Substância: Amônia anidra | Incompatibilidade química: Mercúrio, Cloro, Hipoclorito de cálcio, Iodo, Bromo, Acido fluorídrico
+- **Anexo IV, Tabela 1, linha 13** {#anexo4_tab1_lin13} Substância: Anidrido acético | Incompatibilidade química: Compostos contendo hidroxil tais como etilenoglicol, Acido perclórico
+- **Anexo IV, Tabela 1, linha 14** {#anexo4_tab1_lin14} Substância: Anilina | Incompatibilidade química: Ácido nítrico, Peróxido de hidrogênio
+- **Anexo IV, Tabela 1, linha 15** {#anexo4_tab1_lin15} Substância: Azida sódica | Incompatibilidade química: Chumbo, Cobre e outros metais
+- **Anexo IV, Tabela 1, linha 16** {#anexo4_tab1_lin16} Substância: Bromo e cloro | Incompatibilidade química: Benzeno, Hidróxido de amônio, benzina de petróleo, Hidrogênio, acetileno, etano, propano, butadienos, pós-metálicos
+- **Anexo IV, Tabela 1, linha 17** {#anexo4_tab1_lin17} Substância: Carvão ativo | Incompatibilidade química: Dicromatos, permanganatos, Acido nítrico, Acido sulfúrico, Hipoclorito de sódio
+- **Anexo IV, Tabela 1, linha 18** {#anexo4_tab1_lin18} Substância: Cloro | Incompatibilidade química: Amônia, acetileno, butadieno, butano, outros gases de petróleo, Hidrogênio, Carbeto de sódio, turpentine, benzeno, metais finamente divididos, benzinas e outras frações do petróleo
+- **Anexo IV, Tabela 1, linha 19** {#anexo4_tab1_lin19} Substância: Cianetos | Incompatibilidade química: Ácidos e álcalis
+- **Anexo IV, Tabela 1, linha 20** {#anexo4_tab1_lin20} Substância: Cloratos, percloratos, clorato de potássio | Incompatibilidade química: Sais de amônio, ácidos, metais em pó, matérias orgânicas particuladas, substâncias combustíveis
+- **Anexo IV, Tabela 1, linha 21** {#anexo4_tab1_lin21} Substância: Cobre metálico | Incompatibilidade química: Acetileno, peróxido de hidrogênio, azidas
+- **Anexo IV, Tabela 1, linha 22** {#anexo4_tab1_lin22} Substância: Dióxido de cloro | Incompatibilidade química: Amônia, metano, fósforo, sulfeto de hidrogênio
+- **Anexo IV, Tabela 1, linha 23** {#anexo4_tab1_lin23} Substância: Flúor | Incompatibilidade química: Manter isolado de outros produtos químicos.
+- **Anexo IV, Tabela 1, linha 24** {#anexo4_tab1_lin24} Substância: Fósforo | Incompatibilidade química: Enxofre, compostos oxigenados, cloratos, percloratos, nitratos, permanganatos
+- **Anexo IV, Tabela 1, linha 25** {#anexo4_tab1_lin25} Substância: Halogênios (flúor, cloro, bromo e iodo) | Incompatibilidade química: Amoníaco, acetileno e hidrocarbonetos
+- **Anexo IV, Tabela 1, linha 26** {#anexo4_tab1_lin26} Substância: Hidrazida | Incompatibilidade química: Peróxido de hidrogênio, ácido nítrico e outros oxidantes
+- **Anexo IV, Tabela 1, linha 27** {#anexo4_tab1_lin27} Substância: Hidrocarbonetos (butano, propano, tolueno) | Incompatibilidade química: Ácido crômico, flúor, cloro, bromo, peróxidos
+- **Anexo IV, Tabela 1, linha 28** {#anexo4_tab1_lin28} Substância: Iodo | Incompatibilidade química: Acetileno, hidróxido de amônio, hidrogênio
+- **Anexo IV, Tabela 1, linha 29** {#anexo4_tab1_lin29} Substância: Líquidos inflamáveis | Incompatibilidade química: Ácido nítrico, nitrato de amônio, óxido de cromo VI, peróxidos, flúor, cloro, bromo, hidrogênio
+- **Anexo IV, Tabela 1, linha 30** {#anexo4_tab1_lin30} Substância: Mercúrio | Incompatibilidade química: Acetileno, ácido fulmínico, amônia
+- **Anexo IV, Tabela 1, linha 31** {#anexo4_tab1_lin31} Substância: Metais alcalinos | Incompatibilidade química: Dióxido de carbono, tetracloreto de carbono, outros hidrocarbonetos clorados
+- **Anexo IV, Tabela 1, linha 32** {#anexo4_tab1_lin32} Substância: Nitrato de amônio | Incompatibilidade química: Ácidos, pós-metálicos, líquidos inflamáveis, cloretos, enxofre, compostos orgânicos em pó
+- **Anexo IV, Tabela 1, linha 33** {#anexo4_tab1_lin33} Substância: Nitrato de sódio | Incompatibilidade química: Nitrato de amônio e outros sais de amônio
+- **Anexo IV, Tabela 1, linha 34** {#anexo4_tab1_lin34} Substância: Óxido de cálcio | Incompatibilidade química: Água
+- **Anexo IV, Tabela 1, linha 35** {#anexo4_tab1_lin35} Substância: Óxido de cromo VI | Incompatibilidade química: Ácido acético, glicerina, benzina de petróleo, líquidos inflamáveis, naftaleno
+- **Anexo IV, Tabela 1, linha 36** {#anexo4_tab1_lin36} Substância: Oxigênio | Incompatibilidade química: Óleos, graxas, hidrogênio, líquidos, sólidos e gases inflamáveis
+- **Anexo IV, Tabela 1, linha 37** {#anexo4_tab1_lin37} Substância: Perclorato de potássio | Incompatibilidade química: Ácidos
+- **Anexo IV, Tabela 1, linha 38** {#anexo4_tab1_lin38} Substância: Permanganato de potássio | Incompatibilidade química: Glicerina, etilenoglicol, ácido sulfúrico
+- **Anexo IV, Tabela 1, linha 39** {#anexo4_tab1_lin39} Substância: Peróxido de hidrogênio | Incompatibilidade química: Cobre, cromo, ferro, álcoois, acetonas, substâncias combustíveis
+- **Anexo IV, Tabela 1, linha 40** {#anexo4_tab1_lin40} Substância: Peróxido de sódio | Incompatibilidade química: Ácido acético, Anidrido acético, benzaldeído, etanol, metanol, etilenoglicol, acetatos de metila e etila, furfural
+- **Anexo IV, Tabela 1, linha 41** {#anexo4_tab1_lin41} Substância: Prata e sais de prata | Incompatibilidade química: Acetileno, ácido tartárico, ácido oxálico, compostos de amônio
+- **Anexo IV, Tabela 1, linha 42** {#anexo4_tab1_lin42} Substância: Sódio | Incompatibilidade química: Dióxido de carbono, tetracloreto de carbono, outros hidrocarbonetos clorados
+- **Anexo IV, Tabela 1, linha 43** {#anexo4_tab1_lin43} Substância: Sulfeto de hidrogênio | Incompatibilidade química: Ácido nítrico fumegante, gases oxidantes
 
 Fonte: Manual de Biossegurança - Mario Hiroyuki Hirata; Jorge Mancini Filho
 
@@ -948,21 +946,21 @@ Fonte: Manual de Biossegurança - Mario Hiroyuki Hirata; Jorge Mancini Filho
 
 **LISTA DAS PRINCIPAIS SUBSTÂNCIAS UTILIZADAS EM SERVIÇOS DE SAÚDE QUE REAGEM COM EMBALAGENS DE POLIETILENO DE ALTA DENSIDADE (PEAD)**
 
-- **Anexo V, Tabela 1, linha 1** {#anexo5_tab1_lin1} #incompatibilidade-quimica #embalagem Coluna 1: Ácido butírico | Coluna 2: Dietil benzeno
-- **Anexo V, Tabela 1, linha 2** {#anexo5_tab1_lin2} #incompatibilidade-quimica #embalagem Coluna 1: Ácido nítrico | Coluna 2: Dissulfeto de carbono
-- **Anexo V, Tabela 1, linha 3** {#anexo5_tab1_lin3} #incompatibilidade-quimica #embalagem Coluna 1: Ácidos concentrados | Coluna 2: Éter
-- **Anexo V, Tabela 1, linha 4** {#anexo5_tab1_lin4} #incompatibilidade-quimica #embalagem Coluna 1: Bromo | Coluna 2: Fenol / clorofórmio
-- **Anexo V, Tabela 1, linha 5** {#anexo5_tab1_lin5} #incompatibilidade-quimica #embalagem Coluna 1: Bromofórmio | Coluna 2: Nitrobenzeno
-- **Anexo V, Tabela 1, linha 6** {#anexo5_tab1_lin6} #incompatibilidade-quimica #embalagem Coluna 1: Álcool benzílico | Coluna 2: o-diclorobenzeno
-- **Anexo V, Tabela 1, linha 7** {#anexo5_tab1_lin7} #incompatibilidade-quimica #embalagem Coluna 1: Anilina | Coluna 2: Óleo de canela
-- **Anexo V, Tabela 1, linha 8** {#anexo5_tab1_lin8} #incompatibilidade-quimica #embalagem Coluna 1: Butadieno | Coluna 2: Óleo de cedro
-- **Anexo V, Tabela 1, linha 9** {#anexo5_tab1_lin9} #incompatibilidade-quimica #embalagem Coluna 1: Ciclohexano | Coluna 2: p-diclorobenzeno
-- **Anexo V, Tabela 1, linha 10** {#anexo5_tab1_lin10} #incompatibilidade-quimica #embalagem Coluna 1: Cloreto de etila, forma líquida | Coluna 2: Percloroetileno
-- **Anexo V, Tabela 1, linha 11** {#anexo5_tab1_lin11} #incompatibilidade-quimica #embalagem Coluna 1: Cloreto de tionila | Coluna 2: solventes bromados & fluorados
-- **Anexo V, Tabela 1, linha 12** {#anexo5_tab1_lin12} #incompatibilidade-quimica #embalagem Coluna 1: Bromobenzeno | Coluna 2: solventes clorados
-- **Anexo V, Tabela 1, linha 13** {#anexo5_tab1_lin13} #incompatibilidade-quimica #embalagem Coluna 1: Cloreto de Amila | Coluna 2: Tolueno
-- **Anexo V, Tabela 1, linha 14** {#anexo5_tab1_lin14} #incompatibilidade-quimica #embalagem Coluna 1: Cloreto de vinilideno | Coluna 2: Tricloroeteno
-- **Anexo V, Tabela 1, linha 15** {#anexo5_tab1_lin15} #incompatibilidade-quimica #embalagem Coluna 1: Cresol | Coluna 2: Xileno
+- **Anexo V, Tabela 1, linha 1** {#anexo5_tab1_lin1} #embalagem Coluna 1: Ácido butírico | Coluna 2: Dietil benzeno
+- **Anexo V, Tabela 1, linha 2** {#anexo5_tab1_lin2} #embalagem Coluna 1: Ácido nítrico | Coluna 2: Dissulfeto de carbono
+- **Anexo V, Tabela 1, linha 3** {#anexo5_tab1_lin3} #embalagem Coluna 1: Ácidos concentrados | Coluna 2: Éter
+- **Anexo V, Tabela 1, linha 4** {#anexo5_tab1_lin4} #embalagem Coluna 1: Bromo | Coluna 2: Fenol / clorofórmio
+- **Anexo V, Tabela 1, linha 5** {#anexo5_tab1_lin5} #embalagem Coluna 1: Bromofórmio | Coluna 2: Nitrobenzeno
+- **Anexo V, Tabela 1, linha 6** {#anexo5_tab1_lin6} #embalagem Coluna 1: Álcool benzílico | Coluna 2: o-diclorobenzeno
+- **Anexo V, Tabela 1, linha 7** {#anexo5_tab1_lin7} #embalagem Coluna 1: Anilina | Coluna 2: Óleo de canela
+- **Anexo V, Tabela 1, linha 8** {#anexo5_tab1_lin8} #embalagem Coluna 1: Butadieno | Coluna 2: Óleo de cedro
+- **Anexo V, Tabela 1, linha 9** {#anexo5_tab1_lin9} #embalagem Coluna 1: Ciclohexano | Coluna 2: p-diclorobenzeno
+- **Anexo V, Tabela 1, linha 10** {#anexo5_tab1_lin10} #embalagem Coluna 1: Cloreto de etila, forma líquida | Coluna 2: Percloroetileno
+- **Anexo V, Tabela 1, linha 11** {#anexo5_tab1_lin11} #embalagem Coluna 1: Cloreto de tionila | Coluna 2: solventes bromados & fluorados
+- **Anexo V, Tabela 1, linha 12** {#anexo5_tab1_lin12} #embalagem Coluna 1: Bromobenzeno | Coluna 2: solventes clorados
+- **Anexo V, Tabela 1, linha 13** {#anexo5_tab1_lin13} #embalagem Coluna 1: Cloreto de Amila | Coluna 2: Tolueno
+- **Anexo V, Tabela 1, linha 14** {#anexo5_tab1_lin14} #embalagem Coluna 1: Cloreto de vinilideno | Coluna 2: Tricloroeteno
+- **Anexo V, Tabela 1, linha 15** {#anexo5_tab1_lin15} #embalagem Coluna 1: Cresol | Coluna 2: Xileno
 
 Fonte: Chemical Waste Management Guide - University of Florida - Division of Environmental Health & Safety - abril de 2001
 

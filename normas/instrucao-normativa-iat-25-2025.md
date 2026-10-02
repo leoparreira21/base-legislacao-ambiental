@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-iat-25-2025-dioe-11891]]", "[[instrucao-normativa-iat-25-2025-dioe-11987]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-9415-2025]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-11977-2022]]", "[[lei-federal-6938-1981]]", "[[resolucao-conama-237-1997]]", "[[lei-estadual-22252-2024]]", "[[decreto-estadual-9541-2025]]", "[[decreto-estadual-6674-2002]]", "[[decreto-estadual-8680-2013]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-federal-12651-2012]]", "[[lei-federal-9605-1998]]", "[[portaria-iap-212-2019]]", "[[portaria-mma-280-2020]]", "[[resolucao-cema-76-2009]]", "[[resolucao-conama-307-2002]]", "[[resolucao-conama-6-1986]]", "[[resolucao-sedest-2-2025]]"]
-tags: [acondicionamento, agua-pluvial, agua-subterranea, alteracao, ampliacao, anexo, anexo-normativo, anuencia, app, area-contaminada, area-sensivel, arquivo-vetorial, art-anotacao, as-built, atividade-vinculada, ato-administrativo, autorizacao-ambiental, autorizacao-florestal, car, casos-omissos, certidao-municipal, cnpj, coeficiente-permeabilidade, compactacao-solo, complementacao, condicionante, contencao, cpf, ctf, dbo, definicao, destinacao-final, diagnostico-ambiental, diretriz-estudo, disposicao-solo, documentacao, dominialidade, efluente, eia-rima, embargo, emissao-atmosferica, emissao-fugitiva, encerramento, enquadramento, estudo-ambiental, fauna, funai, galeria-pluvial, impermeabilizacao, incra, infracao-ambiental, inventario-residuos, iphan, lancamento, las, lasa, lasr, lavagem-veiculo, li, lia, licenca-ambiental, licenciamento-ambiental, licenciamento-bifasico, licenciamento-monofasico, licenciamento-trifasico, lir, lo, loa, localizacao, lor, lp, lpa, manifestacao-juridica, manutencao-reparacao, mapa-situacao, materiais-sedimentaveis, memorial-caracterizacao, modalidade, modelo, mtr, municipio, oleos-graxas, orgao-interveniente, outorga, outorga-direito, padrao-emissao, padrao-lancamento, pase, patio-caminhao, patio-container, pbca, pca, pcpa, pendencia-judicial, pgrcc, pgrs, ph, porte, porte-excepcional, potencial-poluidor, prazo, prazo-adequacao, prazo-diferenciado, procuracao, produto-perigoso, proibicao, prorrogacao, publicacao-dioe, rap, regularizacao, rejeito, relatorio-atendimento-condicionante, relatorio-caracterizacao-flora, renovacao, reparacao-dano, requerimento, reserva-legal, residuo-construcao-civil, residuo-solido, responsavel-tecnico, reutilizacao, revestimento, revogacao, sancao, sinaflor, sinir, sistema-informatizado, situacao-emergencia, supressao-vegetacao, tac, taxa-ambiental, temperatura, termo-referencia, textura-solo, unidade-conservacao, uso-racional, validade, viabilidade-locacional, vigencia]
+tags: [acondicionamento, agua-pluvial, agua-subterranea, alteracao, ampliacao, anexo, anuencia, app, area-contaminada, area-sensivel, art-anotacao, atividade-vinculada, ato-administrativo, autorizacao-ambiental, autorizacao-florestal, car, casos-omissos, certidao-municipal, cnpj, compactacao-solo, complementacao, condicionante, contencao, cpf, ctf, dbo, destinacao-final, diagnostico-ambiental, diretriz-estudo, disposicao-solo, documentacao, dominialidade, efluente, eia-rima, embargo, emissao-atmosferica, emissao-fugitiva, encerramento, enquadramento, estudo-ambiental, fauna, funai, galeria-pluvial, impermeabilizacao, infracao-ambiental, inventario-residuos, iphan, lancamento, las, lasa, lasr, lavagem-veiculo, li, lia, licenca-ambiental, licenciamento-ambiental, licenciamento-bifasico, licenciamento-monofasico, licenciamento-trifasico, lir, lo, loa, lor, lp, lpa, manifestacao-juridica, manutencao-reparacao, mapa-situacao, materiais-sedimentaveis, memorial-caracterizacao, modalidade, mtr, municipio, oleos-graxas, outorga, outorga-direito, padrao-emissao, padrao-lancamento, pase, patio-caminhao, patio-container, pbca, pca, pcpa, pendencia-judicial, pgrcc, pgrs, porte, porte-excepcional, potencial-poluidor, prazo, prazo-adequacao, procuracao, produto-perigoso, proibicao, prorrogacao, publicacao-dioe, rap, regularizacao, rejeito, relatorio-atendimento-condicionante, relatorio-caracterizacao-flora, renovacao, requerimento, reserva-legal, residuo-construcao-civil, residuo-solido, responsavel-tecnico, reutilizacao, revogacao, sancao, sinaflor, sinir, situacao-emergencia, supressao-vegetacao, tac, taxa-ambiental, textura-solo, unidade-conservacao, validade, viabilidade-locacional, vigencia]
 anexos: "tipo 1 (modelos): II, VIII; tipo 2 (termos de referência, em normas/anexos/): III, IV, V, VI, VII, IX; tipo 3 (normativo, neste arquivo): I"
 fonte: PDF da republicação assinado digitalmente pelo Diretor-Presidente do IAT em 15/12/2025 (eProtocolo 23.733.183-4, fls. 380 a 463, 85 páginas, com os Anexos I a IX)
 ---
@@ -51,10 +51,10 @@ Tags: #licenciamento-ambiental #patio-caminhao #patio-container
 ## CAPÍTULO I – DAS DEFINIÇÕES
 
 ###### Art. 2º {#art2}
-Tags: #definicao #coeficiente-permeabilidade #compactacao-solo #estudo-ambiental #licenca-ambiental #licenciamento-ambiental #patio-caminhao #patio-container #responsavel-tecnico #revestimento #impermeabilizacao
+Tags: #compactacao-solo #estudo-ambiental #licenca-ambiental #licenciamento-ambiental #patio-caminhao #patio-container #responsavel-tecnico #impermeabilizacao
 
 **Art. 2º, caput** {#art2_cpt} Para fins desta Instrução Normativa consideram-se as seguintes definições:
-- **Art. 2º, caput, inciso I** {#art2_cpt_inc1} #coeficiente-permeabilidade coeficiente de permeabilidade do solo (k): é uma medida numérica que indica a capacidade de um solo em permitir o fluxo de água através de seus poros. Quanto maior o coeficiente, mais permeável é o solo.
+- **Art. 2º, caput, inciso I** {#art2_cpt_inc1} coeficiente de permeabilidade do solo (k): é uma medida numérica que indica a capacidade de um solo em permitir o fluxo de água através de seus poros. Quanto maior o coeficiente, mais permeável é o solo.
 - **Art. 2º, caput, inciso II** {#art2_cpt_inc2} #compactacao-solo compactação de solo: processo de aumento da densidade de um solo pela redução dos vazios de ar entre as partículas, geralmente por meio de aplicação de energia mecânica (como rolos compactadores, soquetes ou placas vibratórias), com objetivo de melhorar as propriedades de engenharia do solo, tornando-o mais resistente, homogêneo, estável e menos permeável.
 - **Art. 2º, caput, inciso III** {#art2_cpt_inc3} #estudo-ambiental estudos ambientais: todos e quaisquer estudos relativos aos aspectos ambientais relacionados à localização, instalação, operação e ampliação de uma atividade ou empreendimento, apresentado como subsídio para a análise da licença requerida, tais como: Plano de Controle Ambiental, Projeto de Controle de Poluição Ambiental e Plano de Recuperação de Área Degradada;
 - **Art. 2º, caput, inciso IV** {#art2_cpt_inc4} #compactacao-solo grau de Compactação (GC): é o índice que expressa o nível de adensamento do solo, ou seja, o quanto os vazios de ar foram reduzidos por meio da compactação mecânica, com objetivo de aumentar a resistência e a estabilidade do solo, reduzindo a permeabilidade, deformações e recalques.
@@ -63,7 +63,7 @@ Tags: #definicao #coeficiente-permeabilidade #compactacao-solo #estudo-ambiental
 - **Art. 2º, caput, inciso VII** {#art2_cpt_inc7} #patio-caminhao pátio/estacionamento de caminhões: espaço coberto e/ou descoberto, destinado ao estacionamento, movimentação e/ou manobra de veículos pesados, bem como infraestruturas para manutenção de caminhões, serviços, descanso, higiene e alimentação;
 - **Art. 2º, caput, inciso VIII** {#art2_cpt_inc8} #patio-container pátio de containers: espaço coberto e/ou descoberto, destinado ao armazenamento, movimentação e manutenção de containers;
 - **Art. 2º, caput, inciso IX** {#art2_cpt_inc9} #responsavel-tecnico responsável técnico: profissional habilitado, responsável pela elaboração de projetos, documentação e orientação técnica referentes as atividades estabelecidas nesta Instrução Normativa;
-- **Art. 2º, caput, inciso X** {#art2_cpt_inc10} #revestimento revestimento: camada de material aplicada no solo de forma a garantir a sua proteção e evitar a contaminação da água subterrânea;
+- **Art. 2º, caput, inciso X** {#art2_cpt_inc10} revestimento: camada de material aplicada no solo de forma a garantir a sua proteção e evitar a contaminação da água subterrânea;
 - **Art. 2º, caput, inciso XI** {#art2_cpt_inc11} #impermeabilizacao sistema de impermeabilização: conjunto de operações e técnicas construtivas composto por uma ou mais camadas ordenadas, que tem por finalidade proteger a construção contra ação deletéria de fluídos, vapores e umidade, de forma a garantir a proteção do solo e da água subterrânea.
 
 ## CAPÍTULO II – DOS ATOS ADMINISTRATIVOS PARA O LICENCIAMENTO AMBIENTAL DE PÁTIO/ESTACIONAMENTO DE CAMINHÕES E PÁTIO DE CONTAINERS
@@ -111,11 +111,11 @@ Tags: #modalidade #licenciamento-trifasico #licenciamento-bifasico #licenciament
 ### Seção I – Da Definição do Porte
 
 ###### Art. 5º {#art5}
-Tags: #porte #modalidade #enquadramento #patio-caminhao #patio-container #eia-rima #termo-referencia #lp #condicionante
+Tags: #porte #modalidade #enquadramento #patio-caminhao #patio-container #eia-rima #lp #condicionante
 
 **Art. 5º, caput** {#art5_cpt} Para os efeitos desta Instrução Normativa, o porte e a modalidade de licenciamento de empreendimentos de Pátio/Estacionamento de Caminhões e Pátio de Containers é definido considerando a área destinada ao estacionamento, a movimentação e/ou manobra de veículos pesados, infraestruturas para manutenção, serviços, descanso, higiene e alimentação, de acordo com a tabela constante no [[#anexo1|ANEXO I]].
 
-**Art. 5º, § 1º** {#art5_par1} #eia-rima #termo-referencia #lp Quando a realização de EIA - Estudo de Impacto Ambiental, for necessária, o Termo de Referência será definido após o requerimento da Licença Prévia.
+**Art. 5º, § 1º** {#art5_par1} #eia-rima #lp Quando a realização de EIA - Estudo de Impacto Ambiental, for necessária, o Termo de Referência será definido após o requerimento da Licença Prévia.
 
 **Art. 5º, § 2º** {#art5_par2} #condicionante #lp O PBA - Plano Básico Ambiental será definido como condicionante da Licença Prévia.
 
@@ -168,7 +168,7 @@ Tags: #licenciamento-trifasico #licenciamento-bifasico #ampliacao
 ### Seção I – Da Autorização Ambiental – AA
 
 ###### Art. 12 {#art12}
-Tags: #autorizacao-ambiental #documentacao #sistema-informatizado #cnpj #cpf #procuracao #taxa-ambiental #requerimento
+Tags: #autorizacao-ambiental #documentacao #cnpj #cpf #procuracao #taxa-ambiental #requerimento
 
 **Art. 12, caput** {#art12_cpt} Os requerimentos para Autorização Ambiental, conforme Capítulo IV da presente Instrução Normativa, devem ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 12, caput, inciso I** {#art12_cpt_inc1} dados e documentação de identificação do empreendedor:
@@ -196,7 +196,7 @@ Tags: #autorizacao-ambiental #renovacao #ampliacao
 ### Seção II – Da Licença Ambiental Simplificada – LAS
 
 ###### Art. 14 {#art14}
-Tags: #las #documentacao #sistema-informatizado #mapa-situacao #car #app #reserva-legal #arquivo-vetorial #certidao-municipal #dominialidade #cnpj #cpf #procuracao #embargo #outorga #orgao-interveniente #sinaflor #supressao-vegetacao #estudo-ambiental #pase #ctf #responsavel-tecnico #unidade-conservacao #publicacao-dioe #taxa-ambiental #outorga-direito
+Tags: #las #documentacao #mapa-situacao #car #app #reserva-legal #certidao-municipal #dominialidade #cnpj #cpf #procuracao #embargo #outorga #sinaflor #supressao-vegetacao #estudo-ambiental #pase #ctf #responsavel-tecnico #unidade-conservacao #publicacao-dioe #taxa-ambiental #outorga-direito
 
 **Art. 14, caput** {#art14_cpt} Os requerimentos para Licença Ambiental Simplificada – LAS, conforme Capítulo IV da presente Instrução Normativa, devem ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 14, caput, inciso I** {#art14_cpt_inc1} #mapa-situacao mapa de situação do empreendimento com imagem aérea atualizada, em datum SIRGAS 2000, projeção UTM e contendo, no mínimo:
@@ -207,7 +207,7 @@ Tags: #las #documentacao #sistema-informatizado #mapa-situacao #car #app #reserv
   - **Art. 14, caput, inciso I, alínea "e"** {#art14_cpt_inc1_alie} #reserva-legal áreas de Reserva Legal e maciços florestais remanescentes;
   - **Art. 14, caput, inciso I, alínea "f"** {#art14_cpt_inc1_alif} vias de acesso principais;
   - **Art. 14, caput, inciso I, alínea "g"** {#art14_cpt_inc1_alig} pontos de referências;
-  - **Art. 14, caput, inciso I, alínea "h"** {#art14_cpt_inc1_alih} #arquivo-vetorial arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
+  - **Art. 14, caput, inciso I, alínea "h"** {#art14_cpt_inc1_alih} arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
 - **Art. 14, caput, inciso II** {#art14_cpt_inc2} #certidao-municipal Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística e ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo2|ANEXO II]];
 - **Art. 14, caput, inciso III** {#art14_cpt_inc3} #dominialidade documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Se imóvel locado, apresentar contrato de locação ou arrendamento;
 - **Art. 14, caput, inciso IV** {#art14_cpt_inc4} #car cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8.680, de 06 de agosto de 2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12.651, de 25 de maio de 2012]], para imóveis em área rural;
@@ -224,7 +224,7 @@ Tags: #las #documentacao #sistema-informatizado #mapa-situacao #car #app #reserv
     - **Art. 14, caput, inciso V, alínea "c", item 3** {#art14_cpt_inc5_alic_ite3} #procuracao cópia do instrumento de procuração com firma reconhecida ou assinatura digital.
 - **Art. 14, caput, inciso VI** {#art14_cpt_inc6} #embargo declaração do requerente informando que a área a ser licenciada não possui embargos;
 - **Art. 14, caput, inciso VII** {#art14_cpt_inc7} #outorga Portaria(s) de Outorga Prévia e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga, em se tratando de empreendimento que necessite de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação e/ou intervenções de obras);
-- **Art. 14, caput, inciso VIII** {#art14_cpt_inc8} #orgao-interveniente manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
+- **Art. 14, caput, inciso VIII** {#art14_cpt_inc8} manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
 - **Art. 14, caput, inciso IX** {#art14_cpt_inc9} #sinaflor #supressao-vegetacao número do registro do cadastro do projeto junto ao SINAFLOR, no caso de necessidade de corte ou supressão vegetal nativa;
 - **Art. 14, caput, inciso X** {#art14_cpt_inc10} #estudo-ambiental Estudo Ambiental definido no [[#anexo1|ANEXO I]], da presente Instrução Normativa, elaborado por profissional(is) legalmente habilitado(s), acompanhado da respectiva ART;
 - **Art. 14, caput, inciso XI** {#art14_cpt_inc11} #pase Plano de ação para Situações de Emergência elaborado em conformidade com o [[#anexo9|Anexo IX]].
@@ -255,7 +255,7 @@ Tags: #licenciamento-trifasico
 #### Subseção I – Da Licença Prévia - LP
 
 ###### Art. 17 {#art17}
-Tags: #lp #documentacao #sistema-informatizado #mapa-situacao #car #app #reserva-legal #arquivo-vetorial #certidao-municipal #dominialidade #cnpj #cpf #procuracao #embargo #outorga #orgao-interveniente #relatorio-caracterizacao-flora #supressao-vegetacao #estudo-ambiental #publicacao-dioe #taxa-ambiental
+Tags: #lp #documentacao #mapa-situacao #car #app #reserva-legal #certidao-municipal #dominialidade #cnpj #cpf #procuracao #embargo #outorga #relatorio-caracterizacao-flora #supressao-vegetacao #estudo-ambiental #publicacao-dioe #taxa-ambiental
 
 **Art. 17, caput** {#art17_cpt} Os requerimentos para Licença Prévia – LP, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 17, caput, inciso I** {#art17_cpt_inc1} #mapa-situacao mapa de situação do empreendimento com imagem aérea atualizada, em datum SIRGAS 2000, projeção UTM e contendo, no mínimo:
@@ -266,7 +266,7 @@ Tags: #lp #documentacao #sistema-informatizado #mapa-situacao #car #app #reserva
   - **Art. 17, caput, inciso I, alínea "e"** {#art17_cpt_inc1_alie} #reserva-legal áreas de Reserva Legal e maciços florestais remanescentes;
   - **Art. 17, caput, inciso I, alínea "f"** {#art17_cpt_inc1_alif} vias de acesso principais;
   - **Art. 17, caput, inciso I, alínea "g"** {#art17_cpt_inc1_alig} pontos de referências;
-  - **Art. 17, caput, inciso I, alínea "h"** {#art17_cpt_inc1_alih} #arquivo-vetorial arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
+  - **Art. 17, caput, inciso I, alínea "h"** {#art17_cpt_inc1_alih} arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
 - **Art. 17, caput, inciso II** {#art17_cpt_inc2} #certidao-municipal Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística e ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo2|ANEXO II]];
 - **Art. 17, caput, inciso III** {#art17_cpt_inc3} #dominialidade documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Se imóvel locado, apresentar contrato de locação ou arrendamento;
 - **Art. 17, caput, inciso IV** {#art17_cpt_inc4} #car cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8.680, de 06 de agosto de 2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12.651, de 25 de maio de 2012]], para imóveis em área rural;
@@ -283,7 +283,7 @@ Tags: #lp #documentacao #sistema-informatizado #mapa-situacao #car #app #reserva
     - **Art. 17, caput, inciso V, alínea "c", item 3** {#art17_cpt_inc5_alic_ite3} #procuracao cópia do instrumento de procuração com firma reconhecida ou assinatura digital.
 - **Art. 17, caput, inciso VI** {#art17_cpt_inc6} #embargo declaração do requerente informando que a área a ser licenciada não possui embargos;
 - **Art. 17, caput, inciso VII** {#art17_cpt_inc7} #outorga Portaria(s) de Outorga Prévia e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga, em se tratando de empreendimento que necessite de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação e/ou intervenções de obras);
-- **Art. 17, caput, inciso VIII** {#art17_cpt_inc8} #orgao-interveniente manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
+- **Art. 17, caput, inciso VIII** {#art17_cpt_inc8} manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
 - **Art. 17, caput, inciso IX** {#art17_cpt_inc9} #relatorio-caracterizacao-flora #supressao-vegetacao Relatório de caracterização da flora, de acordo com norma vigente, quando necessário o corte ou supressão de vegetação nativa;
 - **Art. 17, caput, inciso X** {#art17_cpt_inc10} #estudo-ambiental Estudo Ambiental definido no [[#anexo1|ANEXO I]], da presente Instrução Normativa, elaborado por profissional(is) legalmente habilitado(s), acompanhado da respectiva ART;
 - **Art. 17, caput, inciso XI** {#art17_cpt_inc11} #publicacao-dioe extrato de publicação de requerimento de Licença Prévia - LP no Diário Oficial do Estado, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006, de 24 de janeiro de 1986]];
@@ -302,7 +302,7 @@ Tags: #lp #prorrogacao #renovacao
 #### Subseção II – Da Licença de Instalação – LI
 
 ###### Art. 20 {#art20}
-Tags: #li #documentacao #sistema-informatizado #relatorio-atendimento-condicionante #dominialidade #embargo #sinaflor #autorizacao-florestal #supressao-vegetacao #estudo-ambiental #publicacao-dioe #taxa-ambiental
+Tags: #li #documentacao #relatorio-atendimento-condicionante #dominialidade #embargo #sinaflor #autorizacao-florestal #supressao-vegetacao #estudo-ambiental #publicacao-dioe #taxa-ambiental
 
 **Art. 20, caput** {#art20_cpt} Os requerimentos para Licença de Instalação – LI, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 20, caput, inciso I** {#art20_cpt_inc1} cópia da Licença anterior;
@@ -325,7 +325,7 @@ Tags: #li #supressao-vegetacao #autorizacao-florestal #fauna #condicionante
 #### Subseção III – Da Licença de Operação - LO
 
 ###### Art. 22 {#art22}
-Tags: #lo #documentacao #sistema-informatizado #relatorio-atendimento-condicionante #dominialidade #embargo #pca #pase #outorga #ctf #responsavel-tecnico #publicacao-dioe #taxa-ambiental
+Tags: #lo #documentacao #relatorio-atendimento-condicionante #dominialidade #embargo #pca #pase #outorga #ctf #responsavel-tecnico #publicacao-dioe #taxa-ambiental
 
 **Art. 22, caput** {#art22_cpt} Os requerimentos para Licençade Operação - LO, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 22, caput, inciso I** {#art22_cpt_inc1} cópia da Licença anterior;
@@ -344,7 +344,7 @@ Tags: #lo #documentacao #sistema-informatizado #relatorio-atendimento-condiciona
 ## CAPÍTULO VI – DOS PRAZOS DE VALIDADE DAS LICENÇAS
 
 ###### Art. 23 {#art23}
-Tags: #validade #prazo #autorizacao-ambiental #las #renovacao #lasr #lp #li #lir #prorrogacao #lo #lor #atividade-vinculada #prazo-diferenciado
+Tags: #validade #prazo #autorizacao-ambiental #las #renovacao #lasr #lp #li #lir #prorrogacao #lo #lor #atividade-vinculada
 
 **Art. 23, caput** {#art23_cpt} O órgão ambiental competente estabelecerá os prazos de validade para cada tipo de licença e autorização ambiental, especificando-os no respectivo documento, levando em consideração os seguintes aspectos:
 - **Art. 23, caput, inciso I** {#art23_cpt_inc1} #autorizacao-ambiental O prazo de validade da Autorização Ambiental – AA será de no máximo 02 (dois) anos;
@@ -358,7 +358,7 @@ Tags: #validade #prazo #autorizacao-ambiental #las #renovacao #lasr #lp #li #lir
 
 **Art. 23, § 1º** {#art23_par1} #renovacao #prorrogacao #atividade-vinculada As renovações e prorrogações se aplicam aos empreendimentos que não estejam vinculados aos outros empreendimentos.
 
-**Art. 23, § 2º** {#art23_par2} #prazo-diferenciado #lo O órgão ambiental competente poderá estabelecer prazos de validade diferenciados para a Licença de Operação - LO de empreendimentos ou atividades, considerando sua natureza e peculiaridades excepcionais, respeitado o prazo máximo estabelecido nesta Instrução Normativa.
+**Art. 23, § 2º** {#art23_par2} #lo O órgão ambiental competente poderá estabelecer prazos de validade diferenciados para a Licença de Operação - LO de empreendimentos ou atividades, considerando sua natureza e peculiaridades excepcionais, respeitado o prazo máximo estabelecido nesta Instrução Normativa.
 
 ## CAPÍTULO VII – DA RENOVAÇÃO E DE PRORROGAÇÃO DO LICENCIAMENTO AMBIENTAL
 
@@ -375,7 +375,7 @@ Tags: #prorrogacao #lp #li
 ### Seção I – Da Renovação da Licença Ambiental Simplificada - RLAS
 
 ###### Art. 26 {#art26}
-Tags: #renovacao #las #documentacao #sistema-informatizado #relatorio-atendimento-condicionante #dominialidade #embargo #outorga #pgrs #mtr #inventario-residuos #pase #ctf #responsavel-tecnico #publicacao-dioe #taxa-ambiental
+Tags: #renovacao #las #documentacao #relatorio-atendimento-condicionante #dominialidade #embargo #outorga #pgrs #mtr #inventario-residuos #pase #ctf #responsavel-tecnico #publicacao-dioe #taxa-ambiental
 
 **Art. 26, caput** {#art26_cpt} Os requerimentos para Renovação da Licença Ambiental Simplificada – RLAS, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 26, caput, inciso I** {#art26_cpt_inc1} cópia da Licença anterior;
@@ -396,7 +396,7 @@ Tags: #renovacao #las #documentacao #sistema-informatizado #relatorio-atendiment
 ### Seção II – Da Renovação da Licença de Operação – RLO
 
 ###### Art. 27 {#art27}
-Tags: #renovacao #lo #documentacao #sistema-informatizado #relatorio-atendimento-condicionante #dominialidade #embargo #outorga #pgrs #mtr #inventario-residuos #pase #ctf #responsavel-tecnico #publicacao-dioe #taxa-ambiental
+Tags: #renovacao #lo #documentacao #relatorio-atendimento-condicionante #dominialidade #embargo #outorga #pgrs #mtr #inventario-residuos #pase #ctf #responsavel-tecnico #publicacao-dioe #taxa-ambiental
 
 **Art. 27, caput** {#art27_cpt} Os requerimentos para Renovação de Licença de Operação - RLO, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 27, caput, inciso I** {#art27_cpt_inc1} cópia da Licença anterior;
@@ -436,7 +436,7 @@ Tags: #lasa #ampliacao #porte
 **Art. 30, caput** {#art30_cpt} A Licença Ambiental Simplificada de Ampliação - LASA aprova a localização e a concepção de ampliações ou alterações definitivas nos empreendimentos e/ou atividades detentoras de Licença Ambiental Simplificada - LAS, somente nos casos em que a somatória do porte da estrutura existente acrescida da estrutura a ser licenciada não ultrapasse o limite estabelecido para a referida licença em normas específicas, caso contrário estará sujeito à Licença Prévia de Ampliação – LPA.
 
 ###### Art. 31 {#art31}
-Tags: #lasa #documentacao #sistema-informatizado #relatorio-atendimento-condicionante #mapa-situacao #car #app #reserva-legal #arquivo-vetorial #certidao-municipal #dominialidade #cnpj #cpf #procuracao #embargo #orgao-interveniente #estudo-ambiental #outorga #pase #ctf #responsavel-tecnico #publicacao-dioe #taxa-ambiental
+Tags: #lasa #documentacao #relatorio-atendimento-condicionante #mapa-situacao #car #app #reserva-legal #certidao-municipal #dominialidade #cnpj #cpf #procuracao #embargo #estudo-ambiental #outorga #pase #ctf #responsavel-tecnico #publicacao-dioe #taxa-ambiental
 
 **Art. 31, caput** {#art31_cpt} Os requerimentos para Licença Ambiental Simplificada de Ampliação - LASA, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 31, caput, inciso I** {#art31_cpt_inc1} cópia da Licença anterior;
@@ -449,7 +449,7 @@ Tags: #lasa #documentacao #sistema-informatizado #relatorio-atendimento-condicio
   - **Art. 31, caput, inciso III, alínea "e"** {#art31_cpt_inc3_alie} #reserva-legal áreas de Reserva Legal e maciços florestais remanescentes;
   - **Art. 31, caput, inciso III, alínea "f"** {#art31_cpt_inc3_alif} vias de acesso principais;
   - **Art. 31, caput, inciso III, alínea "g"** {#art31_cpt_inc3_alig} pontos de referências;
-  - **Art. 31, caput, inciso III, alínea "h"** {#art31_cpt_inc3_alih} #arquivo-vetorial arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
+  - **Art. 31, caput, inciso III, alínea "h"** {#art31_cpt_inc3_alih} arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
 - **Art. 31, caput, inciso IV** {#art31_cpt_inc4} #certidao-municipal Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística e ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo2|ANEXO II]];
 - **Art. 31, caput, inciso V** {#art31_cpt_inc5} #dominialidade documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Se imóvel locado, apresentar contrato de locação ou arrendamento;
 - **Art. 31, caput, inciso VI** {#art31_cpt_inc6} #car cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8.680, de 06 de agosto de 2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12.651, de 25 de maio de 2012]], para imóveis em área rural;
@@ -465,7 +465,7 @@ Tags: #lasa #documentacao #sistema-informatizado #relatorio-atendimento-condicio
     - **Art. 31, caput, inciso VII, alínea "c", item 2** {#art31_cpt_inc7_alic_ite2} cópia do Registro Geral – RG do representante legal e do requerente;
     - **Art. 31, caput, inciso VII, alínea "c", item 3** {#art31_cpt_inc7_alic_ite3} #procuracao cópia do instrumento de procuração com firma reconhecida ou assinatura digital.
 - **Art. 31, caput, inciso VIII** {#art31_cpt_inc8} #embargo declaração do requerente informando que a área a ser licenciada não possui embargos;
-- **Art. 31, caput, inciso IX** {#art31_cpt_inc9} #orgao-interveniente manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
+- **Art. 31, caput, inciso IX** {#art31_cpt_inc9} manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
 - **Art. 31, caput, inciso X** {#art31_cpt_inc10} #estudo-ambiental Estudo Ambiental definido no [[#anexo1|ANEXO I]], da presente Instrução Normativa, elaborado por profissional(is) legalmente habilitado(s), acompanhado da respectiva ART;
 - **Art. 31, caput, inciso XI** {#art31_cpt_inc11} #outorga Portaria(s) de Outorga Prévia ou de Direito e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga, em se tratando de empreendimento que necessite de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação e/ou intervenções de obras);
 - **Art. 31, caput, inciso XII** {#art31_cpt_inc12} #pase Plano de ação para Situações de Emergênciaelaborado em conformidade com o [[#anexo9|Anexo IX]];
@@ -485,7 +485,7 @@ Tags: #lasa #supressao-vegetacao #autorizacao-florestal #fauna #condicionante
 ### Seção II – Da Licença Prévia de Ampliação - LPA
 
 ###### Art. 33 {#art33}
-Tags: #lpa #documentacao #sistema-informatizado #relatorio-atendimento-condicionante #mapa-situacao #car #app #reserva-legal #arquivo-vetorial #certidao-municipal #dominialidade #cnpj #cpf #procuracao #embargo #orgao-interveniente #estudo-ambiental #relatorio-caracterizacao-flora #supressao-vegetacao #sinaflor #outorga #ctf #publicacao-dioe #taxa-ambiental #diagnostico-ambiental
+Tags: #lpa #documentacao #relatorio-atendimento-condicionante #mapa-situacao #car #app #reserva-legal #certidao-municipal #dominialidade #cnpj #cpf #procuracao #embargo #estudo-ambiental #relatorio-caracterizacao-flora #supressao-vegetacao #sinaflor #outorga #ctf #publicacao-dioe #taxa-ambiental #diagnostico-ambiental
 
 **Art. 33, caput** {#art33_cpt} Os requerimentos para Licença Prévia de Ampliação - LPA, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 33, caput, inciso I** {#art33_cpt_inc1} cópia da Licença anterior;
@@ -498,7 +498,7 @@ Tags: #lpa #documentacao #sistema-informatizado #relatorio-atendimento-condicion
   - **Art. 33, caput, inciso III, alínea "e"** {#art33_cpt_inc3_alie} #reserva-legal áreas de Reserva Legal e maciços florestais remanescentes;
   - **Art. 33, caput, inciso III, alínea "f"** {#art33_cpt_inc3_alif} vias de acesso principais;
   - **Art. 33, caput, inciso III, alínea "g"** {#art33_cpt_inc3_alig} pontos de referências;
-  - **Art. 33, caput, inciso III, alínea "h"** {#art33_cpt_inc3_alih} #arquivo-vetorial arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
+  - **Art. 33, caput, inciso III, alínea "h"** {#art33_cpt_inc3_alih} arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
 - **Art. 33, caput, inciso IV** {#art33_cpt_inc4} #certidao-municipal Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística e ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo2|ANEXO II]];
 - **Art. 33, caput, inciso V** {#art33_cpt_inc5} #dominialidade documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Se imóvel locado, apresentar contrato de locação ou arrendamento;
 - **Art. 33, caput, inciso VI** {#art33_cpt_inc6} #car cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8.680, de 06 de agosto de 2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12.651, de 25 de maio de 2012]], para imóveis em área rural;
@@ -514,7 +514,7 @@ Tags: #lpa #documentacao #sistema-informatizado #relatorio-atendimento-condicion
     - **Art. 33, caput, inciso VII, alínea "c", item 2** {#art33_cpt_inc7_alic_ite2} cópia do Registro Geral – RG do representante legal e do requerente;
     - **Art. 33, caput, inciso VII, alínea "c", item 3** {#art33_cpt_inc7_alic_ite3} #procuracao cópia do instrumento de procuração com firma reconhecida ou assinatura digital.
 - **Art. 33, caput, inciso VIII** {#art33_cpt_inc8} #embargo declaração do requerente informando que a área a ser licenciada não possui embargos;
-- **Art. 33, caput, inciso IX** {#art33_cpt_inc9} #orgao-interveniente manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
+- **Art. 33, caput, inciso IX** {#art33_cpt_inc9} manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
 - **Art. 33, caput, inciso X** {#art33_cpt_inc10} #estudo-ambiental Estudo Ambiental definido no [[#anexo1|ANEXO I]], da presente Instrução Normativa, elaborado por profissional(is) legalmente habilitado(s), acompanhado da respectiva ART;
 - **Art. 33, caput, inciso XI** {#art33_cpt_inc11} #relatorio-caracterizacao-flora #supressao-vegetacao Relatório de caracterização da flora, de acordo com norma vigente, quando necessário o corte ou supressão de vegetação nativa;
 - **Art. 33, caput, inciso XII** {#art33_cpt_inc12} #sinaflor #supressao-vegetacao número do registro do cadastro do projeto junto ao SINAFLOR, no caso de necessidade de corte ou supressão vegetal nativa;
@@ -565,7 +565,7 @@ Tags: #lia #supressao-vegetacao #autorizacao-florestal #fauna #condicionante
 ### Seção IV – Da Licença de Operação de Ampliação - LOA
 
 ###### Art. 38 {#art38}
-Tags: #loa #documentacao #sistema-informatizado #relatorio-atendimento-condicionante #dominialidade #embargo #pcpa #outorga #pgrs #mtr #inventario-residuos #pase #ctf #responsavel-tecnico #publicacao-dioe #taxa-ambiental
+Tags: #loa #documentacao #relatorio-atendimento-condicionante #dominialidade #embargo #pcpa #outorga #pgrs #mtr #inventario-residuos #pase #ctf #responsavel-tecnico #publicacao-dioe #taxa-ambiental
 
 **Art. 38, caput** {#art38_cpt} Os requerimentos para Licença de Operação de Ampliação - LOA, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 38, caput, inciso I** {#art38_cpt_inc1} cópia da Licença anterior;
@@ -595,24 +595,24 @@ Tags: #regularizacao
 - **Art. 39, caput, inciso III** {#art39_cpt_inc3} estejam em implantação ou operação sem a devida licença vigente.
 
 ###### Art. 40 {#art40}
-Tags: #regularizacao #viabilidade-locacional #tac #reparacao-dano #sancao #encerramento
+Tags: #regularizacao #viabilidade-locacional #tac #sancao #encerramento
 
 **Art. 40, caput** {#art40_cpt} Para o licenciamento de regularização devem ser observados os seguintes requisitos:
 - **Art. 40, caput, inciso I** {#art40_cpt_inc1} #viabilidade-locacional somente serão emitidas quando da viabilidade locacional, técnica e jurídica do empreendimento e/ou atividade;
 - **Art. 40, caput, inciso II** {#art40_cpt_inc2} #tac #encerramento caso não haja viabilidade de regularização, deverá ser firmado Termo de Ajustamento e Conduta - TAC junto ao empreendedor, com o estabelecimento das condições de mudança de local e/ou encerramento das atividades, não eximindo a apuração da responsabilidade civil, criminal e administrativa;
 - **Art. 40, caput, inciso III** {#art40_cpt_inc3} #sancao o licenciamento de regularização não exime o empreendedor da incidência das sanções legalmente aplicáveis e a responsabilidade pelos danos causados;
-- **Art. 40, caput, inciso IV** {#art40_cpt_inc4} #tac #reparacao-dano nos licenciamentos de regularização, o empreendedor estará sujeito à formalização de Termo de Ajustamento e Conduta - TAC para fins de fixar a obrigatoriedade de reparação de dano decorrente do período de ausência de licença ambiental legalmente exigível, que deverá ser condicionante obrigatória para a emissão da licença.
-- **Art. 40, caput, inciso V** {#art40_cpt_inc5} #tac #reparacao-dano nos licenciamentos de regularização de empreendimentos e/ou atividades que estejam em funcionamento em desacordo com a licença obtida, estarão sujeitos à formalização de Termo de Ajustamento e Conduta - TAC, no qual serão fixadas as medidas de reparação de dano, e que deverá ser condicionante obrigatória para a emissão da licença.
+- **Art. 40, caput, inciso IV** {#art40_cpt_inc4} #tac nos licenciamentos de regularização, o empreendedor estará sujeito à formalização de Termo de Ajustamento e Conduta - TAC para fins de fixar a obrigatoriedade de reparação de dano decorrente do período de ausência de licença ambiental legalmente exigível, que deverá ser condicionante obrigatória para a emissão da licença.
+- **Art. 40, caput, inciso V** {#art40_cpt_inc5} #tac nos licenciamentos de regularização de empreendimentos e/ou atividades que estejam em funcionamento em desacordo com a licença obtida, estarão sujeitos à formalização de Termo de Ajustamento e Conduta - TAC, no qual serão fixadas as medidas de reparação de dano, e que deverá ser condicionante obrigatória para a emissão da licença.
 
 ###### Art. 41 {#art41}
-Tags: #regularizacao #estudo-ambiental #potencial-poluidor #porte #localizacao
+Tags: #regularizacao #estudo-ambiental #potencial-poluidor #porte
 
 **Art. 41, caput** {#art41_cpt} O estudo ambiental e documentos complementares a serem apresentados serão definidos pelo IAT, com base na relação entre o potencial poluidor/degradador, o porte e a localização do empreendimento e/ou atividade.
 
 ### Seção I – Da Licença Ambiental Simplificada de Regularização – LASR
 
 ###### Art. 42 {#art42}
-Tags: #lasr #regularizacao #documentacao #sistema-informatizado #mapa-situacao #car #app #reserva-legal #arquivo-vetorial #certidao-municipal #dominialidade #cnpj #cpf #procuracao #embargo #orgao-interveniente #sinaflor #supressao-vegetacao #memorial-caracterizacao #estudo-ambiental #pase #ctf #pgrs #responsavel-tecnico #publicacao-dioe #taxa-ambiental #outorga #outorga-direito
+Tags: #lasr #regularizacao #documentacao #mapa-situacao #car #app #reserva-legal #certidao-municipal #dominialidade #cnpj #cpf #procuracao #embargo #sinaflor #supressao-vegetacao #memorial-caracterizacao #estudo-ambiental #pase #ctf #pgrs #responsavel-tecnico #publicacao-dioe #taxa-ambiental #outorga #outorga-direito
 
 **Art. 42, caput** {#art42_cpt} Os requerimentos para Licença Ambiental Simplificada de Regularização – LASR, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo e se aplicam à empreendimentos e/ou atividades potencialmente poluidoras/degradadoras em operação:
 - **Art. 42, caput, inciso I** {#art42_cpt_inc1} #mapa-situacao mapa de situação do empreendimento com imagem aérea atualizada, em datum SIRGAS 2000, projeção UTM e contendo, no mínimo:
@@ -623,7 +623,7 @@ Tags: #lasr #regularizacao #documentacao #sistema-informatizado #mapa-situacao #
   - **Art. 42, caput, inciso I, alínea "e"** {#art42_cpt_inc1_alie} #reserva-legal áreas de Reserva Legal e maciços florestais remanescentes;
   - **Art. 42, caput, inciso I, alínea "f"** {#art42_cpt_inc1_alif} vias de acesso principais;
   - **Art. 42, caput, inciso I, alínea "g"** {#art42_cpt_inc1_alig} pontos de referências;
-  - **Art. 42, caput, inciso I, alínea "h"** {#art42_cpt_inc1_alih} #arquivo-vetorial arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
+  - **Art. 42, caput, inciso I, alínea "h"** {#art42_cpt_inc1_alih} arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
 - **Art. 42, caput, inciso II** {#art42_cpt_inc2} #certidao-municipal Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística e ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo2|ANEXO II]];
 - **Art. 42, caput, inciso III** {#art42_cpt_inc3} #dominialidade documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Se imóvel locado, apresentar contrato de locação ou arrendamento;
 - **Art. 42, caput, inciso IV** {#art42_cpt_inc4} #car cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8.680, de 06 de agosto de 2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12.651, de 25 de maio de 2012]], para imóveis em área rural;
@@ -639,7 +639,7 @@ Tags: #lasr #regularizacao #documentacao #sistema-informatizado #mapa-situacao #
     - **Art. 42, caput, inciso V, alínea "c", item 2** {#art42_cpt_inc5_alic_ite2} cópia do Registro Geral – RG do representante legal e do requerente;
     - **Art. 42, caput, inciso V, alínea "c", item 3** {#art42_cpt_inc5_alic_ite3} #procuracao cópia do instrumento de procuração com firma reconhecida ou assinatura digital.
 - **Art. 42, caput, inciso VI** {#art42_cpt_inc6} #embargo declaração do requerente informando que a área a ser licenciada não possui embargos;
-- **Art. 42, caput, inciso VII** {#art42_cpt_inc7} #orgao-interveniente manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
+- **Art. 42, caput, inciso VII** {#art42_cpt_inc7} manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
 - **Art. 42, caput, inciso VIII** {#art42_cpt_inc8} #sinaflor #supressao-vegetacao número do registro do cadastro do projeto junto ao SINAFLOR, no caso de necessidade de corte ou supressão vegetal nativa;
 - **Art. 42, caput, inciso IX** {#art42_cpt_inc9} #memorial-caracterizacao Memorial de Caracterização do Empreendimento – MCE, elaborado por profissional(is) legalmente habilitado(s) conforme Termo de Referência do [[#anexo4|ANEXOIV]], acompanhado da respectiva ART;
 - **Art. 42, caput, inciso X** {#art42_cpt_inc10} #estudo-ambiental Estudo Ambiental conforme diretrizes estabelecidas pelo IAT, elaborado por profissional(is) legalmente habilitado(s), acompanhado da respectiva ART;
@@ -662,7 +662,7 @@ Tags: #lasr #supressao-vegetacao #autorizacao-florestal #fauna #condicionante
 ### Seção II – Da Licença de Instalação de Regularização - LIR
 
 ###### Art. 44 {#art44}
-Tags: #lir #regularizacao #documentacao #sistema-informatizado #mapa-situacao #car #app #reserva-legal #arquivo-vetorial #certidao-municipal #dominialidade #cnpj #cpf #procuracao #embargo #orgao-interveniente #outorga #sinaflor #supressao-vegetacao #memorial-caracterizacao #estudo-ambiental #pgrcc #residuo-construcao-civil #publicacao-dioe #taxa-ambiental
+Tags: #lir #regularizacao #documentacao #mapa-situacao #car #app #reserva-legal #certidao-municipal #dominialidade #cnpj #cpf #procuracao #embargo #outorga #sinaflor #supressao-vegetacao #memorial-caracterizacao #estudo-ambiental #pgrcc #residuo-construcao-civil #publicacao-dioe #taxa-ambiental
 
 **Art. 44, caput** {#art44_cpt} Os requerimentos para Licença de Instalação de Regularização - LIR, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo, e se aplicam à empreendimentose/ouatividades potencialmente epoluidoras/degradadoras em instalação:
 - **Art. 44, caput, inciso I** {#art44_cpt_inc1} #mapa-situacao mapa de situação do empreendimento com imagem aérea atualizada, em datum SIRGAS 2000, projeção UTM e contendo, no mínimo:
@@ -673,7 +673,7 @@ Tags: #lir #regularizacao #documentacao #sistema-informatizado #mapa-situacao #c
   - **Art. 44, caput, inciso I, alínea "e"** {#art44_cpt_inc1_alie} #reserva-legal áreas de Reserva Legal e maciços florestais remanescentes;
   - **Art. 44, caput, inciso I, alínea "f"** {#art44_cpt_inc1_alif} vias de acesso principais;
   - **Art. 44, caput, inciso I, alínea "g"** {#art44_cpt_inc1_alig} pontos de referências;
-  - **Art. 44, caput, inciso I, alínea "h"** {#art44_cpt_inc1_alih} #arquivo-vetorial arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
+  - **Art. 44, caput, inciso I, alínea "h"** {#art44_cpt_inc1_alih} arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
 - **Art. 44, caput, inciso II** {#art44_cpt_inc2} #certidao-municipal Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística e ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo2|ANEXO II]];
 - **Art. 44, caput, inciso III** {#art44_cpt_inc3} #dominialidade documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Se imóvel locado, apresentar contrato de locação ou arrendamento;
 - **Art. 44, caput, inciso IV** {#art44_cpt_inc4} #car cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8.680, de 06 de agosto de 2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12.651, de 25 de maio de 2012]], para imóveis em área rural;
@@ -689,7 +689,7 @@ Tags: #lir #regularizacao #documentacao #sistema-informatizado #mapa-situacao #c
     - **Art. 44, caput, inciso V, alínea "c", item 2** {#art44_cpt_inc5_alic_ite2} cópia do Registro Geral – RG do representante legal e do requerente;
     - **Art. 44, caput, inciso V, alínea "c", item 3** {#art44_cpt_inc5_alic_ite3} #procuracao cópia do instrumento de procuração com firma reconhecida ou assinatura digital.
 - **Art. 44, caput, inciso VI** {#art44_cpt_inc6} #embargo declaração do requerente informando que a área a ser licenciada não possui embargos;
-- **Art. 44, caput, inciso VII** {#art44_cpt_inc7} #orgao-interveniente manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
+- **Art. 44, caput, inciso VII** {#art44_cpt_inc7} manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
 - **Art. 44, caput, inciso VIII** {#art44_cpt_inc8} #outorga Portaria(s) de Outorga Prévia e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga, em se tratando de empreendimento que necessite de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação e/ou intervenções de obras);
 - **Art. 44, caput, inciso IX** {#art44_cpt_inc9} #sinaflor #supressao-vegetacao número do registro do cadastro do projeto junto ao SINAFLOR, no caso de necessidade de corte ou supressão vegetal nativa;
 - **Art. 44, caput, inciso X** {#art44_cpt_inc10} #memorial-caracterizacao Memorial de Caracterização do Empreendimento – MCE, elaborado por profissional(is) legalmente habilitado(s) conforme Termo de Referência do [[#anexo4|ANEXO IV]], acompanhado da respectiva ART;
@@ -708,7 +708,7 @@ Tags: #lir #supressao-vegetacao #autorizacao-florestal #fauna #condicionante
 ### Seção III – Da Licença de Operação de Regularização - LOR
 
 ###### Art. 46 {#art46}
-Tags: #lor #regularizacao #documentacao #mapa-situacao #car #app #reserva-legal #arquivo-vetorial #certidao-municipal #dominialidade #cnpj #cpf #procuracao #embargo #orgao-interveniente #estudo-ambiental #as-built #pgrs #mtr #inventario-residuos #pase #ctf #responsavel-tecnico #publicacao-dioe #taxa-ambiental #outorga #outorga-direito
+Tags: #lor #regularizacao #documentacao #mapa-situacao #car #app #reserva-legal #certidao-municipal #dominialidade #cnpj #cpf #procuracao #embargo #estudo-ambiental #pgrs #mtr #inventario-residuos #pase #ctf #responsavel-tecnico #publicacao-dioe #taxa-ambiental #outorga #outorga-direito
 
 **Art. 46, caput** {#art46_cpt} A Licença de Operação de Regularização - LOR se aplica para os empreendimentos e/ou atividades sem a respectiva LO, mesmo que tenha obtido a LI, pois esta não autoriza início de operação:
 - **Art. 46, caput, inciso I** {#art46_cpt_inc1} #mapa-situacao mapa de situação do empreendimento com imagem aérea atualizada, em datum SIRGAS 2000, projeção UTM e contendo, no mínimo:
@@ -719,7 +719,7 @@ Tags: #lor #regularizacao #documentacao #mapa-situacao #car #app #reserva-legal 
   - **Art. 46, caput, inciso I, alínea "e"** {#art46_cpt_inc1_alie} #reserva-legal áreas de Reserva Legal e maciços florestais remanescentes;
   - **Art. 46, caput, inciso I, alínea "f"** {#art46_cpt_inc1_alif} vias de acesso principais;
   - **Art. 46, caput, inciso I, alínea "g"** {#art46_cpt_inc1_alig} pontos de referências;
-  - **Art. 46, caput, inciso I, alínea "h"** {#art46_cpt_inc1_alih} #arquivo-vetorial arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
+  - **Art. 46, caput, inciso I, alínea "h"** {#art46_cpt_inc1_alih} arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
 - **Art. 46, caput, inciso II** {#art46_cpt_inc2} #certidao-municipal Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística e ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo2|ANEXO II]];
 - **Art. 46, caput, inciso III** {#art46_cpt_inc3} #dominialidade documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Se imóvel locado, apresentar contrato de locação ou arrendamento;
 - **Art. 46, caput, inciso IV** {#art46_cpt_inc4} #car cópia do recibo de inscrição no Sistema de Cadastro Ambiental Rural (SICAR-PR), de acordo com [[decreto-estadual-8680-2013#art1|artigo 1º do Decreto Estadual nº 8.680, de 06 de agosto de 2013]] e [[lei-federal-12651-2012#art29_par3|parágrafo 3º do artigo 29 da Lei Federal nº 12.651, de 25 de maio de 2012]], para imóveis em área rural;
@@ -735,9 +735,9 @@ Tags: #lor #regularizacao #documentacao #mapa-situacao #car #app #reserva-legal 
     - **Art. 46, caput, inciso V, alínea "c", item 2** {#art46_cpt_inc5_alic_ite2} cópia do Registro Geral – RG do representante legal e do requerente;
     - **Art. 46, caput, inciso V, alínea "c", item 3** {#art46_cpt_inc5_alic_ite3} #procuracao cópia do instrumento de procuração com firma reconhecida ou assinatura digital.
 - **Art. 46, caput, inciso VI** {#art46_cpt_inc6} #embargo declaração do requerente informando que a área a ser licenciada não possui embargos;
-- **Art. 46, caput, inciso VII** {#art46_cpt_inc7} #orgao-interveniente manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
+- **Art. 46, caput, inciso VII** {#art46_cpt_inc7} manifestação de órgãos intervenientes, conforme previsto no [[lei-estadual-22252-2024#art30|Art. 30 da Lei Estadual nº 22.252, de 12 de dezembro de 2024]] e conforme exigências do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]], quando aplicável;
 - **Art. 46, caput, inciso VIII** {#art46_cpt_inc8} #estudo-ambiental Estudo Ambiental conforme diretrizes estabelecidas pelo IAT, elaborado por profissional(is) legalmente habilitado(s), acompanhado da respectiva ART;
-- **Art. 46, caput, inciso IX** {#art46_cpt_inc9} #as-built Projeto As built do empreendimento;
+- **Art. 46, caput, inciso IX** {#art46_cpt_inc9} Projeto As built do empreendimento;
 - **Art. 46, caput, inciso X** {#art46_cpt_inc10} #pgrs Plano de Gerenciamento de Resíduos Sólidos – PGRS, elaborado por profissional(is) legalmente habilitado(s) conforme [[#anexo3|ANEXOIII]], acompanhado da respectiva(s) ART(s);
 - **Art. 46, caput, inciso XI** {#art46_cpt_inc11} #mtr Declaração de Movimentação de Resíduos referente ao período de vigência da licença anterior, emitidos pela Plataforma MTR SINIR. Casos de movimentação ausentes de registro de MTR devem também ser apresentado outros registros da movimentação dos resíduos;
 - **Art. 46, caput, inciso XII** {#art46_cpt_inc12} #inventario-residuos comprovante de entrega dos Inventários de Resíduos Sólidos, conforme exigência do [[decreto-estadual-6674-2002|Decreto Estadual nº 6.674, de 03 de dezembro de 2002]], referente ao período de vigência da Licença anterior;
@@ -754,7 +754,7 @@ Tags: #lor #regularizacao #documentacao #mapa-situacao #car #app #reserva-legal 
 ### Seção I – Quanto ao sistema de impermeabilização
 
 ###### Art. 47 {#art47}
-Tags: #impermeabilizacao #coeficiente-permeabilidade #agua-pluvial #compactacao-solo #textura-solo #revestimento #area-sensivel
+Tags: #impermeabilizacao #agua-pluvial #compactacao-solo #textura-solo #area-sensivel
 
 **Art. 47, caput** {#art47_cpt} Nas áreas dos pátios/estacionamentos de caminhões e pátios de containers o sistema de impermeabilização deverá ser composto por uma ou mais camadas que garantam um coeficiente de permeabilidade do solo (k) mínimo de 10⁻⁵.
 
@@ -764,7 +764,7 @@ Tags: #impermeabilizacao #coeficiente-permeabilidade #agua-pluvial #compactacao-
 
 **Art. 47, § 2º** {#art47_par2} #agua-pluvial O lançamento das águas pluviais deverá ser dotado de dispositivos que promovam a dissipação da energia de fluxos d’água escoados, conforme previsto em normas técnicas e legislações vigentes.
 
-**Art. 47, § 3º** {#art47_par3} #textura-solo #revestimento #area-sensivel Em áreas de solos com textura arenosa e/ou em áreas kársticas, bem como em locais onde o nível freático estiver a uma profundidade inferior a 1,50m, o sistema de impermeabilização deve obrigatoriamente ser dotado de revestimento sintético em qualquer uma de suas camadas.
+**Art. 47, § 3º** {#art47_par3} #textura-solo #area-sensivel Em áreas de solos com textura arenosa e/ou em áreas kársticas, bem como em locais onde o nível freático estiver a uma profundidade inferior a 1,50m, o sistema de impermeabilização deve obrigatoriamente ser dotado de revestimento sintético em qualquer uma de suas camadas.
 
 ###### Art. 48 {#art48}
 Tags: #impermeabilizacao #prazo-adequacao #regularizacao
@@ -786,10 +786,10 @@ Tags: #pase #situacao-emergencia #area-contaminada #agua-subterranea
 ### Seção II – Quanto aos Efluentes Líquidos
 
 ###### Art. 51 {#art51}
-Tags: #efluente #padrao-lancamento #lavagem-veiculo #manutencao-reparacao #ph #dbo #materiais-sedimentaveis #oleos-graxas #temperatura #proibicao #disposicao-solo
+Tags: #efluente #padrao-lancamento #lavagem-veiculo #manutencao-reparacao #dbo #materiais-sedimentaveis #oleos-graxas #proibicao #disposicao-solo
 
 **Art. 51, caput** {#art51_cpt} Os efluentes gerados em atividades de apoio, tais como oficinas e lavadores de caminhões e/ou containers, após tratamento somente poderão ser lançados, direta ou indiretamente, nos corpos de água, desde que obedeçam às condições e aos padrões abaixo:
-- **Art. 51, caput, inciso I** {#art51_cpt_inc1} #ph pH entre 5 e 9;
+- **Art. 51, caput, inciso I** {#art51_cpt_inc1} pH entre 5 e 9;
 - **Art. 51, caput, inciso II** {#art51_cpt_inc2} #dbo DBO5 (Demanda Bioquímica de Oxigênio) inferior a 100 (cem) mg/L;
 - **Art. 51, caput, inciso III** {#art51_cpt_inc3} DQO (Demanda Química de Oxigênio) inferior a 300 (trezentos) mg/L;
 - **Art. 51, caput, inciso IV** {#art51_cpt_inc4} #materiais-sedimentaveis material sedimentável até 1 ml/L em teste de 1 hora em cone Inmhoff;
@@ -797,7 +797,7 @@ Tags: #efluente #padrao-lancamento #lavagem-veiculo #manutencao-reparacao #ph #d
   - **Art. 51, caput, inciso V, alínea "a"** {#art51_cpt_inc5_alia} óleos minerais: até 20 mg/L;
   - **Art. 51, caput, inciso V, alínea "b"** {#art51_cpt_inc5_alib} óleos vegetais e gorduras animais: até 50 mg/L;
 - **Art. 51, caput, inciso VI** {#art51_cpt_inc6} substâncias tensoativas que reagem com o azul de metileno até 2,0 mg/L;
-- **Art. 51, caput, inciso VII** {#art51_cpt_inc7} #temperatura temperatura: inferior a 40º C;
+- **Art. 51, caput, inciso VII** {#art51_cpt_inc7} temperatura: inferior a 40º C;
 - **Art. 51, caput, inciso VIII** {#art51_cpt_inc8} benzeno até 1,2 mg/L;
 - **Art. 51, caput, inciso IX** {#art51_cpt_inc9} etilbenzeno até 0,84 mg/L;
 - **Art. 51, caput, inciso X** {#art51_cpt_inc10} tolueno até 1,2 mg/L;
@@ -852,14 +852,14 @@ Tags: #emissao-fugitiva #emissao-atmosferica
 ## CAPÍTULO XI – DISPOSIÇÕES GERAIS
 
 ###### Art. 60 {#art60}
-Tags: #agua-pluvial #reutilizacao #uso-racional
+Tags: #agua-pluvial #reutilizacao
 
 **Art. 60, caput** {#art60_cpt} Considerando que o reuso de água constitui-se em prática de racionalização e de conservação de recursos hídricos, bem como reduz a descarga de poluentes em corpos receptores, fica recomendada a reutilização das águas pluviais não contaminadas.
 
 ###### Art. 61 {#art61}
-Tags: #orgao-interveniente #funai #incra #iphan
+Tags: #funai #iphan
 
-**Art. 61, caput** {#art61_cpt} #orgao-interveniente Quando da necessidade da manifestação de órgãos intervenientes externos ao órgão licenciador, tais como FUNAI, INCRA, IPHAN, ICMBio, CEPHA, DNIT, DER, entre outros, será seguido o procedimento conforme estabelece os[[lei-estadual-22252-2024#art30|Arts.30]] e [[lei-estadual-22252-2024#art31|31 da Lei Estadual nº22.252/2024]], bem como nos [[decreto-estadual-9541-2025#art125|Arts. 125]] e [[decreto-estadual-9541-2025#art126|126 do Decreto Estadual n° 9.541 de 11 de abril de 2025]].
+**Art. 61, caput** {#art61_cpt} Quando da necessidade da manifestação de órgãos intervenientes externos ao órgão licenciador, tais como FUNAI, INCRA, IPHAN, ICMBio, CEPHA, DNIT, DER, entre outros, será seguido o procedimento conforme estabelece os[[lei-estadual-22252-2024#art30|Arts.30]] e [[lei-estadual-22252-2024#art31|31 da Lei Estadual nº22.252/2024]], bem como nos [[decreto-estadual-9541-2025#art125|Arts. 125]] e [[decreto-estadual-9541-2025#art126|126 do Decreto Estadual n° 9.541 de 11 de abril de 2025]].
 
 ###### Art. 62 {#art62}
 Tags: #casos-omissos #porte #potencial-poluidor
@@ -908,7 +908,7 @@ Tags: #vigencia #revogacao
 > Tipos conforme as regras de anexos do README: **tipo 1** (modelos) só com o nome; **tipo 2** (termos de referência) em arquivo próprio em `normas/anexos/`, com o texto fiel e a síntese do conversor; **tipo 3** (conteúdo normativo) listado aqui, com IDs `anexoN_linM` e `anexoN_tabT_linM`.
 
 ### ANEXO I {#anexo1}
-Tags: #anexo #anexo-normativo #porte #enquadramento #estudo-ambiental #patio-caminhao #patio-container
+Tags: #anexo #porte #enquadramento #estudo-ambiental #patio-caminhao #patio-container
 
 **DEFINIÇÃO DO PORTE DE PÁTIO/ESTACIONAMENTO DE CAMINHÕES E /OU PÁTIO DE CONTAINERS**
 
@@ -928,42 +928,42 @@ Tabela 1 (sem título no original). Colunas: Porte | Área Ocupada (m²) | Ato A
 - **Anexo I, Tabela 1, linha 10** {#anexo1_tab1_lin10} #lo #porte-excepcional Porte: Excepcional(E) | Área Ocupada (m²): Acima de 500.000 | Ato Administrativo: LO | Estudo Ambiental: -
 
 ### ANEXO II {#anexo2}
-Tags: #anexo #modelo #certidao-municipal
+Tags: #anexo #certidao-municipal
 
 Modelo de certidão do Município quanto ao uso e ocupação do solo. *(Tipo 1: modelo, conteúdo não transcrito. Exigido nos arts. [[#art14_cpt_inc2|14, II]], [[#art17_cpt_inc2|17, II]], [[#art31_cpt_inc4|31, IV]], [[#art33_cpt_inc4|33, IV]], [[#art42_cpt_inc2|42, II]], [[#art44_cpt_inc2|44, II]] e [[#art46_cpt_inc2|46, II]].)*
 
 ### ANEXO III {#anexo3}
-Tags: #anexo #diretriz-estudo #termo-referencia #pgrs
+Tags: #anexo #diretriz-estudo #pgrs
 
 Termo de referência para elaboração do Plano de Gerenciamento de Resíduos Sólidos – PGRS. *(Tipo 2: termo de referência, aplica-se só a pátio/estacionamento de caminhões e pátio de containers; exigido na RLAS, RLO, LOA, LASR e LOR.)* Texto e síntese em [[instrucao-normativa-iat-25-2025-anexo3|PGRS – IN IAT 25/2025, Anexo III]].
 
 ### ANEXO IV {#anexo4}
-Tags: #anexo #diretriz-estudo #termo-referencia #memorial-caracterizacao
+Tags: #anexo #diretriz-estudo #memorial-caracterizacao
 
 Termo de referência para elaboração do Memorial de Caracterização de Empreendimentos – MCE. *(Tipo 2: termo de referência; exigido na LP e LPA do porte médio, na LASR e na LIR.)* Texto e síntese em [[instrucao-normativa-iat-25-2025-anexo4|MCE – IN IAT 25/2025, Anexo IV]].
 
 ### ANEXO V {#anexo5}
-Tags: #anexo #diretriz-estudo #termo-referencia #pbca
+Tags: #anexo #diretriz-estudo #pbca
 
 Termo de referência para elaboração do Plano Básico de Controle Ambiental – PBCA. *(Tipo 2: termo de referência; exigido na LAS e LASA do porte pequeno.)* Texto e síntese em [[instrucao-normativa-iat-25-2025-anexo5|PBCA – IN IAT 25/2025, Anexo V]].
 
 ### ANEXO VI {#anexo6}
-Tags: #anexo #diretriz-estudo #termo-referencia #pcpa
+Tags: #anexo #diretriz-estudo #pcpa
 
 Termo de referência para elaboração de Projeto de Controle de Poluição Ambiental – PCPA. *(Tipo 2: termo de referência; exigido na LI e LIA dos portes médio, grande e excepcional.)* Texto e síntese em [[instrucao-normativa-iat-25-2025-anexo6|PCPA – IN IAT 25/2025, Anexo VI]].
 
 ### ANEXO VII {#anexo7}
-Tags: #anexo #diretriz-estudo #termo-referencia #rap
+Tags: #anexo #diretriz-estudo #rap
 
 Termo de referência para elaboração de Relatório Ambiental Preliminar – RAP. *(Tipo 2: termo de referência; exigido na LP e LPA do porte grande.)* Texto e síntese em [[instrucao-normativa-iat-25-2025-anexo7|RAP – IN IAT 25/2025, Anexo VII]].
 
 ### ANEXO VIII {#anexo8}
-Tags: #anexo #modelo #responsavel-tecnico
+Tags: #anexo #responsavel-tecnico
 
 Modelo de declaração de vínculo empregatício. *(Tipo 1: modelo, conteúdo não transcrito. Exigido como "declaração de responsabilidade técnica (cargo/função), do profissional responsável pela operação do empreendimento" nos arts. [[#art14_cpt_inc13|14, XIII]], [[#art22_cpt_inc9|22, IX]], [[#art26_cpt_inc11|26, XI]], [[#art27_cpt_inc11|27, XI]], [[#art31_cpt_inc14|31, XIV]], [[#art38_cpt_inc12|38, XII]], [[#art42_cpt_inc14|42, XIV]] e [[#art46_cpt_inc15|46, XV]].)*
 
 ### ANEXO IX {#anexo9}
-Tags: #anexo #diretriz-estudo #termo-referencia #pase
+Tags: #anexo #diretriz-estudo #pase
 
 Termo de referência para elaboração do Plano de Ação para Situações de Emergência – PASE. *(Tipo 2: termo de referência; exigido na LAS, LO, RLAS, RLO, LASA, LOA, LASR e LOR, e seguido nos casos do [[#art50|art. 50]].)* Texto e síntese em [[instrucao-normativa-iat-25-2025-anexo9|PASE – IN IAT 25/2025, Anexo IX]].
 

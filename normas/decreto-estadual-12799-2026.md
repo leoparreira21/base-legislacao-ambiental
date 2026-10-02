@@ -20,7 +20,7 @@ alterado_por: []
 revogado_por: []
 revoga: []
 cita: ["[[constituicao-estadual-1989]]"]
-tags: [agricultura-familiar, alteracao-normativa, artesanal, autorizacao-ambiental, baixo-risco, certidao-municipal, dila, dlam, dominialidade, esgotamento-sanitario, publicacao-dioe, revogacao, tratamento-esgoto, vigencia]
+tags: [agricultura-familiar, artesanal, autorizacao-ambiental, baixo-risco, certidao-municipal, dila, dlam, dominialidade, esgotamento-sanitario, publicacao-dioe, revogacao, tratamento-esgoto, vigencia]
 fonte: Portal da Legislação do Estado do Paraná (versão de impressão, 2 páginas; "este texto não substitui o publicado no Diário Oficial do Estado")
 ---
 
@@ -33,7 +33,7 @@ fonte: Portal da Legislação do Estado do Paraná (versão de impressão, 2 pá
 DECRETA:
 
 ###### Art. 1º {#art1}
-Tags: #alteracao-normativa #dila #dlam #autorizacao-ambiental #dominialidade #publicacao-dioe
+Tags: #dila #dlam #autorizacao-ambiental #dominialidade #publicacao-dioe
 
 **Art. 1º, caput** {#art1_cpt} Altera o [[decreto-estadual-9541-2025#art13_par4|§4º do art. 13 do Decreto nº 9.541, de 10 de abril de 2025]], que passa a vigorar com a seguinte redação:
 
@@ -41,7 +41,7 @@ Tags: #alteracao-normativa #dila #dlam #autorizacao-ambiental #dominialidade #pu
 > §4º Dispensa da apresentação do documento constante do [[decreto-estadual-9541-2025#art13_cpt_inc5|inciso V]] e da publicação constante no [[decreto-estadual-9541-2025#art13_cpt_inc8|inciso VIII]], ambos deste artigo, os requerimentos de Autorizações Ambientais - AA, de Declaração de Inexigibilidade de Licença Ambiental - DILA e de Dispensa de Licenciamento Ambiental - DLAM.
 
 ###### Art. 2º {#art2}
-Tags: #alteracao-normativa #dlam #esgotamento-sanitario #tratamento-esgoto
+Tags: #dlam #esgotamento-sanitario #tratamento-esgoto
 
 **Art. 2º, caput** {#art2_cpt} Acrescenta o [[decreto-estadual-9541-2025#art56_par3|§3º ao art. 56 do Decreto nº 9.541, de 2025]], com a seguinte redação:
 
@@ -49,7 +49,7 @@ Tags: #alteracao-normativa #dlam #esgotamento-sanitario #tratamento-esgoto
 > §3º Na hipótese de o empreendimento e/ou atividade ultrapassar o limite estabelecido no [[decreto-estadual-9541-2025#art56_cpt_inc5|inciso V do caput deste artigo]], a área deverá ser dotada de sistema público de esgotamento sanitário ou de sistema de tratamento de esgoto sanitário que atenda aos parâmetros estabelecidos pelas normas específicas.
 
 ###### Art. 3º {#art3}
-Tags: #alteracao-normativa #dlam #baixo-risco
+Tags: #dlam #baixo-risco
 
 **Art. 3º, caput** {#art3_cpt} Altera o [[decreto-estadual-9541-2025#art57|art. 57 do Decreto nº 9.541, de 2025]], que passa a vigorar com a seguinte redação:
 

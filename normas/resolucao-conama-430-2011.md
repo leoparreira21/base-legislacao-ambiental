@@ -19,7 +19,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[lei-federal-6938-1981]]", "[[decreto-federal-99274-1990]]", "[[portaria-mma-168-2005]]", "[[resolucao-conama-357-2005]]", "[[lei-federal-9605-1998]]"]
-tags: [abastecimento-publico, amostragem, art-anotacao, aterro, automonitoramento, baixo-potencial-poluidor, balneabilidade, cancelamento-licenca, capacidade-suporte, carga-poluidora, cecr, ceno, cianobacteria, cl50, classe-especial, conama, condicao-especial, corpo-intermitente, dbo, dcp, definicao, diluicao, dioxina-furano, direito-transicao, dispensa, disposicao-solo, ecotoxicidade, efluente, emissario-submarino, enquadramento, esgoto-sanitario, estudo-ambiental, fator-toxicidade, fonte-poluicao, fosforo, fundamentacao, infracao-ambiental, inmetro, interesse-publico, laboratorio-acreditado, lagoa-tratamento, lancamento-direto, lancamento-excepcional, lancamento-indireto, laudo-tecnico, licenca-ambiental, licenciamento-ambiental, lixiviado, materiais-sedimentaveis, meta-progressiva, monitoramento, nivel-trofico, oleos-graxas, padrao-lancamento, padrao-qualidade, parametro-inorganico, parametro-organico, ph, poluicao, pop, prazo, prazo-adequacao, prorrogacao-prazo, recurso-hidrico, renovacao, responsavel-tecnico, restricao-temporaria, reuso-efluente, revogacao, sancao, saneamento, servico-saude, suspensao-licenca, temperatura, toxicidade, tratamento-efluente, tratamento-esgoto, uso-eficiente-agua, vazao-referencia, vigencia, zona-mistura]
+tags: [abastecimento-publico, art-anotacao, aterro, automonitoramento, baixo-potencial-poluidor, balneabilidade, cancelamento-licenca, capacidade-suporte, carga-poluidora, cianobacteria, cl50, classe-especial, conama, condicao-especial, corpo-intermitente, dbo, dcp, diluicao, direito-transicao, dispensa, disposicao-solo, ecotoxicidade, efluente, emissario-submarino, enquadramento, esgoto-sanitario, estudo-ambiental, fonte-poluicao, fosforo, infracao-ambiental, inmetro, laboratorio-acreditado, lagoa-tratamento, lancamento-direto, lancamento-excepcional, lancamento-indireto, laudo-tecnico, licenca-ambiental, licenciamento-ambiental, lixiviado, materiais-sedimentaveis, monitoramento, nivel-trofico, oleos-graxas, padrao-lancamento, padrao-qualidade, parametro-inorganico, parametro-organico, poluicao, pop, prazo, prazo-adequacao, prorrogacao-prazo, recurso-hidrico, renovacao, responsavel-tecnico, restricao-temporaria, reuso-efluente, revogacao, sancao, saneamento, servico-saude, suspensao-licenca, toxicidade, tratamento-efluente, tratamento-esgoto, vigencia, zona-mistura]
 fonte: "PDF redigitado em Word (11 páginas, sem brasão, sem assinatura), enviado por Leo; texto conferido com o PDF"
 ---
 
@@ -42,7 +42,7 @@ Tags: #efluente #disposicao-solo #poluicao
 **Art. 2º, caput** {#art2_cpt} A disposição de efluentes no solo, mesmo tratados, não está sujeita aos parâmetros e padrões de lançamento dispostos nesta Resolução, não podendo, todavia, causar poluição ou contaminação das águas superficiais e subterrâneas.
 
 ###### Art. 3º {#art3}
-Tags: #padrao-lancamento #tratamento-efluente #fundamentacao
+Tags: #padrao-lancamento #tratamento-efluente
 
 **Art. 3º, caput** {#art3_cpt} Os efluentes de qualquer fonte poluidora somente poderão ser lançados diretamente nos corpos receptores após o devido tratamento e desde que obedeçam às condições, padrões e exigências dispostos nesta Resolução e em outras normas aplicáveis.
 
@@ -53,12 +53,11 @@ Tags: #padrao-lancamento #tratamento-efluente #fundamentacao
 ## CAPÍTULO I – DAS DEFINIÇÕES
 
 ###### Art. 4º {#art4}
-Tags: #definicao
 
 **Art. 4º, caput** {#art4_cpt} Para efeito desta Resolução adotam-se as seguintes definições, em complementação àquelas contidas no [[resolucao-conama-357-2005#art2|art. 2º da Resolução CONAMA nº 357, de 2005]]:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} #capacidade-suporte Capacidade de suporte do corpo receptor: valor máximo de determinado poluente que o corpo hídrico pode receber, sem com prometer a qualidade da água e seus usos determinados pela classe de enquadramento;
-- **Art. 4º, caput, inciso II** {#art4_cpt_inc2} #ceno Concentração de Efeito Não Observado-CENO: maior concentração do efluente que não causa efeito deletério estatisticamente significativo na sobrevivência e reprodução dos organismos, em um determinado tempo de exposição, nas condições de ensaio;
-- **Art. 4º, caput, inciso III** {#art4_cpt_inc3} #cecr Concentração do Efluente no Corpo Receptor-CECR, expressa em porcentagem:
+- **Art. 4º, caput, inciso II** {#art4_cpt_inc2} Concentração de Efeito Não Observado-CENO: maior concentração do efluente que não causa efeito deletério estatisticamente significativo na sobrevivência e reprodução dos organismos, em um determinado tempo de exposição, nas condições de ensaio;
+- **Art. 4º, caput, inciso III** {#art4_cpt_inc3} Concentração do Efluente no Corpo Receptor-CECR, expressa em porcentagem:
   - **Art. 4º, caput, inciso III, alínea "a"** {#art4_cpt_inc3_alia} para corpos receptores confinados por calhas (rio, córregos etc.):
     CECR = vazão do efluente / (vazão do efluente + vazão de referência do corpo receptor) × 100
   - **Art. 4º, caput, inciso III, alínea "b"** {#art4_cpt_inc3_alib} para áreas marinhas, estuarinas e lagos a CECR é estabelecida com base em estudo da dispersão física do efluente no corpo hídrico receptor, sendo a CECR limitada pela zona de mistura definida pelo órgão ambiental;
@@ -66,7 +65,7 @@ Tags: #definicao
 - **Art. 4º, caput, inciso V** {#art4_cpt_inc5} #efluente Efluente: é o termo usado para caracterizar os despejos líquidos provenientes de diversas atividades ou processos;
 - **Art. 4º, caput, inciso VI** {#art4_cpt_inc6} #emissario-submarino Emissário submarino: tubulação provida de sistemas difusores destinada ao lançamento de efluentes no mar, na faixa compreendida entre a linha de base e o limite do mar territorial brasileiro;
 - **Art. 4º, caput, inciso VII** {#art4_cpt_inc7} #esgoto-sanitario Esgotos sanitários: denominação genérica para despejos líquidos residenciais, comerciais, águas de infiltração na rede coletora, os quais podem conter parcela de efluentes industriais e efluentes não domésticos;
-- **Art. 4º, caput, inciso VIII** {#art4_cpt_inc8} #fator-toxicidade Fator de Toxicidade-FT: número adimensional que expressa a menor diluição do efluente que não causa efeito deletério agudo aos organismos, num determinado período de exposição, nas condições de ensaio;
+- **Art. 4º, caput, inciso VIII** {#art4_cpt_inc8} Fator de Toxicidade-FT: número adimensional que expressa a menor diluição do efluente que não causa efeito deletério agudo aos organismos, num determinado período de exposição, nas condições de ensaio;
 - **Art. 4º, caput, inciso IX** {#art4_cpt_inc9} #lancamento-direto Lançamento direto: quando ocorre a condução direta do efluente ao corpo receptor;
 - **Art. 4º, caput, inciso X** {#art4_cpt_inc10} #lancamento-indireto Lançamento indireto: quando ocorre a condução do efluente, submetido ou não a tratamento, por meio de rede coletora que recebe outras contribuições antes de atingir o corpo receptor;
 - **Art. 4º, caput, inciso XI** {#art4_cpt_inc11} #nivel-trofico Nível trófico: posição de um organismo na cadeia trófica;
@@ -79,7 +78,7 @@ Tags: #definicao
 ### Seção I – Das Disposições Gerais
 
 ###### Art. 5º {#art5}
-Tags: #enquadramento #meta-progressiva #padrao-qualidade
+Tags: #enquadramento #padrao-qualidade
 
 **Art. 5º, caput** {#art5_cpt} Os efluentes não poderão conferir ao corpo receptor características de qualidade em desacordo com as metas obrigatórias progressivas, intermediárias e final, do seu enquadramento.
 
@@ -88,7 +87,7 @@ Tags: #enquadramento #meta-progressiva #padrao-qualidade
 **Art. 5º, § 2º** {#art5_par2} Para os parâmetros não incluídos nas metas obrigatórias e na ausência de metas intermediárias progressivas, os padrões de qualidade a serem obedecidos no corpo receptor são os que constam na classe na qual o corpo receptor estiver enquadrado.
 
 ###### Art. 6º {#art6}
-Tags: #lancamento-excepcional #interesse-publico #estudo-ambiental #prazo
+Tags: #lancamento-excepcional #estudo-ambiental #prazo
 
 **Art. 6º, caput** {#art6_cpt} Excepcionalmente e em caráter temporário, o órgão ambiental competente poderá, mediante análise técnica fundamentada, autorizar o lançamento de efluentes em desacordo com as condições e padrões estabelecidos nesta Resolução, desde que observados os seguintes requisitos:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} comprovação de relevante interesse público, devidamente motivado;
@@ -112,7 +111,7 @@ Tags: #carga-poluidora #capacidade-suporte #licenciamento-ambiental #renovacao #
 **Art. 7º, § 4º** {#art7_par4} O disposto no [[#art7_par3|§ 3º]] não se aplica aos casos em que o empreendedor comprove que não dispunha de condições de saber da existência de uma ou mais substâncias nos efluentes gerados pelos empreendimentos ou atividades.
 
 ###### Art. 8º {#art8}
-Tags: #pop #dioxina-furano
+Tags: #pop
 
 **Art. 8º, caput** {#art8_cpt} É vedado, nos efluentes, o lançamento dos Poluentes Orgânicos Persistentes-POPs, observada a legislação em vigor.
 
@@ -134,7 +133,7 @@ Tags: #classe-especial #efluente
 **Art. 11, caput** {#art11_cpt} Nas águas de classe especial é vedado o lançamento de efluentes ou disposição de resíduos domésticos, agropecuários, de aquicultura, industriais e de quaisquer outras fontes poluentes, mesmo que tratados.
 
 ###### Art. 12 {#art12}
-Tags: #padrao-qualidade #vazao-referencia #meta-progressiva
+Tags: #padrao-qualidade
 
 **Art. 12, caput** {#art12_cpt} O lançamento de efluentes em corpos de água, com exceção daqueles enquadrados na classe especial, não poderá exceder as condições e padrões de qualidade de água estabelecidos para as respectivas classes, nas condições da vazão de referência ou volume disponível, além de atender outras exigências aplicáveis.
 
@@ -148,7 +147,7 @@ Tags: #zona-mistura #estudo-ambiental
 **Art. 13, parágrafo único** {#art13_par1u} A extensão e as concentrações de substâncias na zona de mistura deverão ser objeto de estudo, quando determinado pelo órgão ambiental competente, às expensas do empreendedor responsável pelo lançamento.
 
 ###### Art. 14 {#art14}
-Tags: #vazao-referencia #restricao-temporaria #toxicidade
+Tags: #restricao-temporaria #toxicidade
 
 **Art. 14, caput** {#art14_cpt} Sem prejuízo do disposto no [[#art3_par1u_inc1|inciso I do parágrafo único do art. 3º desta Resolução]], o órgão ambiental competente poderá, quando a vazão do corpo receptor estiver abaixo da vazão de referência, estabelecer restrições e medidas adicionais, de caráter excepcional e temporário, aos lançamentos de efluentes que possam, dentre outras consequências:
 - **Art. 14, caput, inciso I** {#art14_cpt_inc1} acarretar efeitos tóxicos agudos ou crônicos em organismos aquáticos; ou
@@ -162,12 +161,12 @@ Tags: #corpo-intermitente #condicao-especial #recurso-hidrico
 ### Seção II – Das Condições e Padrões de Lançamento de Efluentes
 
 ###### Art. 16 {#art16}
-Tags: #padrao-lancamento #ph #temperatura #materiais-sedimentaveis #oleos-graxas #dbo #parametro-inorganico #parametro-organico #aterro #servico-saude
+Tags: #padrao-lancamento #materiais-sedimentaveis #oleos-graxas #dbo #parametro-inorganico #parametro-organico #aterro #servico-saude
 
 **Art. 16, caput** {#art16_cpt} Os efluentes de qualquer fonte poluidora somente poderão ser lançados diretamente no corpo receptor desde que obedeçam às condições e padrões previstos neste artigo, resguardadas outras exigências cabíveis:
 - **Art. 16, caput, inciso I** {#art16_cpt_inc1} condições de lançamento de efluentes:
-  - **Art. 16, caput, inciso I, alínea "a"** {#art16_cpt_inc1_alia} #ph pH entre 5 a 9;
-  - **Art. 16, caput, inciso I, alínea "b"** {#art16_cpt_inc1_alib} #temperatura temperatura: inferior a 40°C, sendo que a variação de temperatura do corpo receptor não deverá exceder a 3°C no limite da zona de mistura;
+  - **Art. 16, caput, inciso I, alínea "a"** {#art16_cpt_inc1_alia} pH entre 5 a 9;
+  - **Art. 16, caput, inciso I, alínea "b"** {#art16_cpt_inc1_alib} temperatura: inferior a 40°C, sendo que a variação de temperatura do corpo receptor não deverá exceder a 3°C no limite da zona de mistura;
   - **Art. 16, caput, inciso I, alínea "c"** {#art16_cpt_inc1_alic} #materiais-sedimentaveis materiais sedimentáveis: até 1 mL/L em teste de 1hora em cone Imhof. Para o lançamento em lagos e lagoas, cuja velocidade de circulação seja praticamente nula, os materiais sedimentáveis deverão estar virtualmente ausentes;
   - **Art. 16, caput, inciso I, alínea "d"** {#art16_cpt_inc1_alid} regime de lançamento com vazão máxima de até 1,5 vezes a vazão média do período de atividade diária do agente poluidor, exceto nos casos permitidos pela autoridade competente;
   - **Art. 16, caput, inciso I, alínea "e"** {#art16_cpt_inc1_alie} #oleos-graxas óleos e graxas:
@@ -225,7 +224,7 @@ Tags: #fosforo #cianobacteria #abastecimento-publico
 **Art. 17, caput** {#art17_cpt} O órgão ambiental competente poderá definir padrões específicos para o parâmetro fósforo no caso de lançamento de efluentes em corpos receptores com registro histórico de floração de cianobactérias, em trechos onde ocorra a captação para abastecimento público.
 
 ###### Art. 18 {#art18}
-Tags: #ecotoxicidade #nivel-trofico #cecr #ceno #cl50 #fator-toxicidade
+Tags: #ecotoxicidade #nivel-trofico #cl50
 
 **Art. 18, caput** {#art18_cpt} O efluente não deverá causar ou possuir potencial para causar efeitos tóxicos aos organismos aquáticos no corpo receptor, de acordo com os critérios de ecotoxicidade estabelecidos pelo órgão ambiental competente.
 
@@ -264,7 +263,7 @@ Tags: #emissario-submarino #balneabilidade #zona-mistura #estudo-ambiental #moni
 ### Seção III – Das Condições e Padrões para Efluentes de Sistemas de Tratamento de Esgotos Sanitários
 
 ###### Art. 21 {#art21}
-Tags: #esgoto-sanitario #tratamento-esgoto #padrao-lancamento #ph #temperatura #dbo #oleos-graxas #lixiviado #lagoa-tratamento
+Tags: #esgoto-sanitario #tratamento-esgoto #padrao-lancamento #dbo #oleos-graxas #lixiviado #lagoa-tratamento
 
 **Art. 21, caput** {#art21_cpt} Para o lançamento direto de efluentes oriundos de sistemas de tratamento de esgotos sanitários deverão ser obedecidas as seguintes condições e padrões específicos:
 - **Art. 21, caput, inciso I** {#art21_cpt_inc1} Condições de lançamento de efluentes:
@@ -314,7 +313,7 @@ Tags: #automonitoramento #baixo-potencial-poluidor #dispensa
 **Art. 24, § 2º** {#art24_par2} #baixo-potencial-poluidor #dispensa Para fontes de baixo potencial poluidor, assim definidas pelo órgão ambiental competente, poderá ser dispensado o automonitoramento, mediante fundamentação técnica.
 
 ###### Art. 25 {#art25}
-Tags: #amostragem #responsavel-tecnico
+Tags: #responsavel-tecnico
 
 **Art. 25, caput** {#art25_cpt} As coletas de amostras e as análises de efluentes líquidos e em corpos hídricos devem ser realizadas de acordo com as normas específicas, sob responsabilidade de profissional legalmente habilitado.
 
@@ -328,7 +327,7 @@ Tags: #laboratorio-acreditado #inmetro #laudo-tecnico
 **Art. 26, § 2º** {#art26_par2} Os laudos analíticos referentes a ensaios laboratoriais de efluentes e de corpos receptores devem ser assinados por profissional legalmente habilitado.
 
 ###### Art. 27 {#art27}
-Tags: #reuso-efluente #uso-eficiente-agua
+Tags: #reuso-efluente
 
 **Art. 27, caput** {#art27_cpt} As fontes potencial ou efetivamente poluidoras dos recursos hídricos deverão buscar práticas de gestão de efluentes com vistas ao uso eficiente da água, à aplicação de técnicas para redução da geração e melhoria da qualidade de efluentes gerados e, sempre que possível e adequado, proceder à reutilização.
 

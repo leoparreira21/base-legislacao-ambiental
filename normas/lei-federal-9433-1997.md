@@ -20,7 +20,7 @@ alterado_por: ["[[lei-federal-9984-2000]]", "[[lei-federal-10881-2004]]", "[[lei
 revoga: []
 revogado_por: []
 cita: ["[[constituicao-federal-1988]]", "[[lei-federal-8001-1990]]", "[[lei-federal-7990-1989]]", "[[decreto-federal-24643-1934]]"]
-tags: [acesso-informacao, advertencia, agencia-agua, agua-pluvial, agua-subterranea, alteracao-normativa, ana, aproveitamento-hidreletrico, bacia-hidrografica, balanco-hidrico, banco-dados, cadastro, calamidade-publica, captacao, classe-qualidade, cnrh, cobranca-uso-agua, comite-bacia, compensacao-financeira, competencia, composicao, conflito-uso, conselho-estadual-recursos-hidricos, consorcio-intermunicipal, consumo-humano, conteudo-minimo, cooperacao-institucional, degradacao-ambiental, delegacao, dessedentacao-animal, diretriz, dispensa, disponibilidade-hidrica, dominio-publico, efluente, embargo, enquadramento, escassez, estado, evento-hidrologico-critico, financiamento, fiscalizacao, funai, fundamento, gestao-ambiental, gestao-descentralizada, incluido, infracao-ambiental, instrumento, lancamento, meio-ambiente, multa, municipio, objetivo, organizacao-civil, outorga, outorga-direito, plano-recursos-hidricos, pnrh, poco, prazo, principio, prioridade, recurso-administrativo, redacao-alterada, regulamentacao, reincidencia, renovacao, restricao-uso, revogacao, revogacao-tacita, revogado, sancao, saneamento, secretaria-executiva, seguranca-barragem, seguranca-hidrica, singreh, sistema-informacao-recursos-hidricos, suspensao, terra-indigena, toxicidade, uniao, uso-insignificante, uso-multiplo, uso-preponderante, uso-racional, uso-solo, validade, valor-economico, veto, vigencia, zona-costeira]
+tags: [agencia-agua, agua-pluvial, agua-subterranea, ana, aproveitamento-hidreletrico, bacia-hidrografica, balanco-hidrico, cadastro, captacao, cnrh, cobranca-uso-agua, comite-bacia, compensacao-financeira, competencia, conflito-uso, conselho-estadual-recursos-hidricos, consorcio-intermunicipal, consumo-humano, conteudo-minimo, cooperacao-institucional, degradacao-ambiental, dessedentacao-animal, dispensa, disponibilidade-hidrica, efluente, embargo, enquadramento, estado, evento-hidrologico-critico, fiscalizacao, funai, incluido, infracao-ambiental, lancamento, meio-ambiente, multa, municipio, outorga, outorga-direito, plano-recursos-hidricos, poco, prazo, prioridade, redacao-alterada, reincidencia, renovacao, restricao-uso, revogacao, revogado, sancao, saneamento, seguranca-barragem, seguranca-hidrica, singreh, sistema-informacao-recursos-hidricos, terra-indigena, toxicidade, uso-insignificante, uso-multiplo, uso-solo, validade, vigencia, zona-costeira]
 fonte: "Planalto – texto compilado (13 páginas, com as redações anteriores tachadas; 'Este texto não substitui o publicado no DOU de 9.1.1997'), enviado por Leo"
 ---
 
@@ -37,7 +37,7 @@ fonte: "Planalto – texto compilado (13 páginas, com as redações anteriores 
 ### CAPÍTULO I – DOS FUNDAMENTOS
 
 ###### Art. 1º {#art1}
-Tags: #pnrh #fundamento #dominio-publico #valor-economico #escassez #consumo-humano #dessedentacao-animal #uso-multiplo #bacia-hidrografica #gestao-descentralizada
+Tags: #consumo-humano #dessedentacao-animal #uso-multiplo #bacia-hidrografica
 
 **Art. 1º, caput** {#art1_cpt} A Política Nacional de Recursos Hídricos baseia-se nos seguintes fundamentos:
 - **Art. 1º, caput, inciso I** {#art1_cpt_inc1} a água é um bem de domínio público;
@@ -50,7 +50,7 @@ Tags: #pnrh #fundamento #dominio-publico #valor-economico #escassez #consumo-hum
 ### CAPÍTULO II – DOS OBJETIVOS
 
 ###### Art. 2º {#art2}
-Tags: #pnrh #objetivo #disponibilidade-hidrica #uso-racional #evento-hidrologico-critico #agua-pluvial #seguranca-hidrica
+Tags: #disponibilidade-hidrica #evento-hidrologico-critico #agua-pluvial #seguranca-hidrica
 Alterações: [[lei-federal-15269-2025|Lei nº 15.269, de 2025]] (nova redação: inciso II, incluído: inciso V); [[lei-federal-13501-2017|Lei nº 13.501, de 2017]] (incluído: inciso IV)
 
 **Art. 2º, caput** {#art2_cpt} São objetivos da Política Nacional de Recursos Hídricos:
@@ -64,7 +64,7 @@ Alterações: [[lei-federal-15269-2025|Lei nº 15.269, de 2025]] (nova redação
 ### CAPÍTULO III – DAS DIRETRIZES GERAIS DE AÇÃO
 
 ###### Art. 3º {#art3}
-Tags: #pnrh #diretriz #gestao-ambiental #uso-solo #zona-costeira #seguranca-hidrica
+Tags: #uso-solo #zona-costeira #seguranca-hidrica
 Alterações: [[lei-federal-15269-2025|Lei nº 15.269, de 2025]] (nova redação: inciso III, incluído: inciso VII)
 
 **Art. 3º, caput** {#art3_cpt} Constituem diretrizes gerais de ação para implementação da Política Nacional de Recursos Hídricos:
@@ -78,14 +78,14 @@ Alterações: [[lei-federal-15269-2025|Lei nº 15.269, de 2025]] (nova redação
 - **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} #seguranca-hidrica #incluido o incentivo e a promoção de obras de acumulação de água para garantir a segurança hídrica e energética. *(Incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]])*
 
 ###### Art. 4º {#art4}
-Tags: #cooperacao-institucional #uniao #estado
+Tags: #cooperacao-institucional #estado
 
 **Art. 4º, caput** {#art4_cpt} A União articular-se-á com os Estados tendo em vista o gerenciamento dos recursos hídricos de interesse comum.
 
 ### CAPÍTULO IV – DOS INSTRUMENTOS
 
 ###### Art. 5º {#art5}
-Tags: #instrumento #plano-recursos-hidricos #enquadramento #outorga #cobranca-uso-agua #sistema-informacao-recursos-hidricos
+Tags: #plano-recursos-hidricos #enquadramento #outorga #cobranca-uso-agua #sistema-informacao-recursos-hidricos
 
 **Art. 5º, caput** {#art5_cpt} São instrumentos da Política Nacional de Recursos Hídricos:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} #plano-recursos-hidricos os Planos de Recursos Hídricos;
@@ -125,14 +125,14 @@ Tags: #plano-recursos-hidricos #bacia-hidrografica
 #### SEÇÃO II – DO ENQUADRAMENTO DOS CORPOS DE ÁGUA EM CLASSES, SEGUNDO OS USOS PREPONDERANTES DA ÁGUA
 
 ###### Art. 9º {#art9}
-Tags: #enquadramento #uso-preponderante #classe-qualidade
+Tags: #enquadramento
 
 **Art. 9º, caput** {#art9_cpt} O enquadramento dos corpos de água em classes, segundo os usos preponderantes da água, visa a:
 - **Art. 9º, caput, inciso I** {#art9_cpt_inc1} assegurar às águas qualidade compatível com os usos mais exigentes a que forem destinadas;
 - **Art. 9º, caput, inciso II** {#art9_cpt_inc2} diminuir os custos de combate à poluição das águas, mediante ações preventivas permanentes.
 
 ###### Art. 10 {#art10}
-Tags: #enquadramento #classe-qualidade
+Tags: #enquadramento
 
 **Art. 10, caput** {#art10_cpt} As classes de corpos de água serão estabelecidas pela legislação ambiental.
 
@@ -168,7 +168,7 @@ Tags: #outorga #enquadramento #uso-multiplo #prioridade
 **Art. 13, parágrafo único** {#art13_par1u} A outorga de uso dos recursos hídricos deverá preservar o uso múltiplo destes.
 
 ###### Art. 14 {#art14}
-Tags: #outorga #competencia #delegacao
+Tags: #outorga #competencia
 
 **Art. 14, caput** {#art14_cpt} A outorga efetivar-se-á por ato da autoridade competente do Poder Executivo Federal, dos Estados ou do Distrito Federal.
 
@@ -177,7 +177,7 @@ Tags: #outorga #competencia #delegacao
 **Art. 14, § 2º** {#art14_par2} (VETADO)
 
 ###### Art. 15 {#art15}
-Tags: #outorga #suspensao #calamidade-publica #degradacao-ambiental
+Tags: #outorga #degradacao-ambiental
 
 **Art. 15, caput** {#art15_cpt} A outorga de direito de uso de recursos hídricos poderá ser suspensa parcial ou totalmente, em definitivo ou por prazo determinado, nas seguintes circunstâncias:
 - **Art. 15, caput, inciso I** {#art15_cpt_inc1} não cumprimento pelo outorgado dos termos da outorga;
@@ -193,19 +193,18 @@ Tags: #outorga #prazo #validade #renovacao
 **Art. 16, caput** {#art16_cpt} Toda outorga de direitos de uso de recursos hídricos far-se-á por prazo não excedente a trinta e cinco anos, renovável.
 
 ###### Art. 17 {#art17}
-Tags: #veto
 
 **Art. 17, caput** {#art17_cpt} (VETADO)
 
 ###### Art. 18 {#art18}
-Tags: #outorga #dominio-publico
+Tags: #outorga
 
 **Art. 18, caput** {#art18_cpt} A outorga não implica a alienação parcial das águas, que são inalienáveis, mas o simples direito de seu uso.
 
 #### SEÇÃO IV – DA COBRANÇA DO USO DE RECURSOS HÍDRICOS
 
 ###### Art. 19 {#art19}
-Tags: #cobranca-uso-agua #valor-economico #uso-racional
+Tags: #cobranca-uso-agua
 
 **Art. 19, caput** {#art19_cpt} A cobrança pelo uso de recursos hídricos objetiva:
 - **Art. 19, caput, inciso I** {#art19_cpt_inc1} reconhecer a água como bem econômico e dar ao usuário uma indicação de seu real valor;
@@ -227,7 +226,7 @@ Tags: #cobranca-uso-agua #lancamento #efluente #toxicidade
 - **Art. 21, caput, inciso II** {#art21_cpt_inc2} nos lançamentos de esgotos e demais resíduos líquidos ou gasosos, o volume lançado e seu regime de variação e as características físico-químicas, biológicas e de toxidade do afluente.
 
 ###### Art. 22 {#art22}
-Tags: #cobranca-uso-agua #bacia-hidrografica #financiamento
+Tags: #cobranca-uso-agua #bacia-hidrografica
 
 **Art. 22, caput** {#art22_cpt} Os valores arrecadados com a cobrança pelo uso de recursos hídricos serão aplicados prioritariamente na bacia hidrográfica em que foram gerados e serão utilizados:
 - **Art. 22, caput, inciso I** {#art22_cpt_inc1} no financiamento de estudos, programas, projetos e obras incluídos nos Planos de Recursos Hídricos;
@@ -240,28 +239,26 @@ Tags: #cobranca-uso-agua #bacia-hidrografica #financiamento
 **Art. 22, § 3º** {#art22_par3} (VETADO)
 
 ###### Art. 23 {#art23}
-Tags: #veto
 
 **Art. 23, caput** {#art23_cpt} (VETADO)
 
 #### SEÇÃO V – DA COMPENSAÇÃO A MUNICÍPIOS
 
 ###### Art. 24 {#art24}
-Tags: #veto
 
 **Art. 24, caput** {#art24_cpt} (VETADO)
 
 #### SEÇÃO VI – DO SISTEMA DE INFORMAÇÕES SOBRE RECURSOS HÍDRICOS
 
 ###### Art. 25 {#art25}
-Tags: #sistema-informacao-recursos-hidricos #banco-dados
+Tags: #sistema-informacao-recursos-hidricos
 
 **Art. 25, caput** {#art25_cpt} O Sistema de Informações sobre Recursos Hídricos é um sistema de coleta, tratamento, armazenamento e recuperação de informações sobre recursos hídricos e fatores intervenientes em sua gestão.
 
 **Art. 25, parágrafo único** {#art25_par1u} Os dados gerados pelos órgãos integrantes do Sistema Nacional de Gerenciamento de Recursos Hídricos serão incorporados ao Sistema Nacional de Informações sobre Recursos Hídricos.
 
 ###### Art. 26 {#art26}
-Tags: #sistema-informacao-recursos-hidricos #principio #acesso-informacao
+Tags: #sistema-informacao-recursos-hidricos
 
 **Art. 26, caput** {#art26_cpt} São princípios básicos para o funcionamento do Sistema de Informações sobre Recursos Hídricos:
 - **Art. 26, caput, inciso I** {#art26_cpt_inc1} descentralização da obtenção e produção de dados e informações;
@@ -269,7 +266,7 @@ Tags: #sistema-informacao-recursos-hidricos #principio #acesso-informacao
 - **Art. 26, caput, inciso III** {#art26_cpt_inc3} acesso aos dados e informações garantido à toda a sociedade.
 
 ###### Art. 27 {#art27}
-Tags: #sistema-informacao-recursos-hidricos #objetivo #disponibilidade-hidrica
+Tags: #sistema-informacao-recursos-hidricos #disponibilidade-hidrica
 
 **Art. 27, caput** {#art27_cpt} São objetivos do Sistema Nacional de Informações sobre Recursos Hídricos:
 - **Art. 27, caput, inciso I** {#art27_cpt_inc1} reunir, dar consistência e divulgar os dados e informações sobre a situação qualitativa e quantitativa dos recursos hídricos no Brasil;
@@ -279,14 +276,13 @@ Tags: #sistema-informacao-recursos-hidricos #objetivo #disponibilidade-hidrica
 ### CAPÍTULO V – DO RATEIO DE CUSTOS DAS OBRAS DE USO MÚLTIPLO, DE INTERESSE COMUM OU COLETIVO
 
 ###### Art. 28 {#art28}
-Tags: #veto
 
 **Art. 28, caput** {#art28_cpt} (VETADO)
 
 ### CAPÍTULO VI – DA AÇÃO DO PODER PÚBLICO
 
 ###### Art. 29 {#art29}
-Tags: #competencia #uniao #outorga #fiscalizacao #sistema-informacao-recursos-hidricos #gestao-ambiental
+Tags: #competencia #outorga #fiscalizacao #sistema-informacao-recursos-hidricos
 
 **Art. 29, caput** {#art29_cpt} Na implementação da Política Nacional de Recursos Hídricos, compete ao Poder Executivo Federal:
 - **Art. 29, caput, inciso I** {#art29_cpt_inc1} tomar as providências necessárias à implementação e ao funcionamento do Sistema Nacional de Gerenciamento de Recursos Hídricos;
@@ -297,7 +293,7 @@ Tags: #competencia #uniao #outorga #fiscalizacao #sistema-informacao-recursos-hi
 **Art. 29, parágrafo único** {#art29_par1u} O Poder Executivo Federal indicará, por decreto, a autoridade responsável pela efetivação de outorgas de direito de uso dos recursos hídricos sob domínio da União.
 
 ###### Art. 30 {#art30}
-Tags: #competencia #estado #outorga #fiscalizacao #sistema-informacao-recursos-hidricos #gestao-ambiental
+Tags: #competencia #estado #outorga #fiscalizacao #sistema-informacao-recursos-hidricos
 
 **Art. 30, caput** {#art30_cpt} Na implementação da Política Nacional de Recursos Hídricos, cabe aos Poderes Executivos Estaduais e do Distrito Federal, na sua esfera de competência:
 - **Art. 30, caput, inciso I** {#art30_cpt_inc1} outorgar os direitos de uso de recursos hídricos e regulamentar e fiscalizar os seus usos;
@@ -315,7 +311,7 @@ Tags: #municipio #saneamento #uso-solo #meio-ambiente
 ### CAPÍTULO I – DOS OBJETIVOS E DA COMPOSIÇÃO
 
 ###### Art. 32 {#art32}
-Tags: #singreh #objetivo
+Tags: #singreh
 
 **Art. 32, caput** {#art32_cpt} Fica criado o Sistema Nacional de Gerenciamento de Recursos Hídricos, com os seguintes objetivos:
 - **Art. 32, caput, inciso I** {#art32_cpt_inc1} coordenar a gestão integrada das águas;
@@ -347,7 +343,7 @@ Alterações: [[lei-federal-9984-2000|Lei 9.984, de 2000]] (nova redação: capu
 ### CAPÍTULO II – DO CONSELHO NACIONAL DE RECURSOS HÍDRICOS
 
 ###### Art. 34 {#art34}
-Tags: #cnrh #composicao
+Tags: #cnrh
 
 **Art. 34, caput** {#art34_cpt} O Conselho Nacional de Recursos Hídricos é composto por:
 - **Art. 34, caput, inciso I** {#art34_cpt_inc1} representantes dos Ministérios e Secretarias da Presidência da República com atuação no gerenciamento ou no uso de recursos hídricos;
@@ -378,7 +374,7 @@ Alterações: [[lei-federal-9984-2000|Lei 9.984, de 2000]] (nova redação: inci
 - **Art. 35, caput, inciso XIII** {#art35_cpt_inc13} #seguranca-barragem #incluido apreciar o Relatório de Segurança de Barragens, fazendo, se necessário, recomendações para melhoria da segurança das obras, bem como encaminhá-lo ao Congresso Nacional. *(Incluído pela [[lei-federal-12334-2010|Lei nº 12.334, de 2010]])*
 
 ###### Art. 36 {#art36}
-Tags: #cnrh #composicao
+Tags: #cnrh
 Alterações: [[medida-provisoria-870-2019|Medida Provisória nº 870, de 2019]] (redação intermediária: inciso I, redação intermediária: inciso II); [[lei-federal-13844-2019|Lei nº 13.844, de 2019]] (redação intermediária: inciso I, redação intermediária: inciso II); [[medida-provisoria-1154-2023|Medida Provisória nº 1.154, de 2023]] (redação intermediária: inciso I, redação intermediária: inciso II); [[lei-federal-14600-2023|Lei nº 14.600, de 2023]] (nova redação: inciso I, nova redação: inciso II)
 
 **Art. 36, caput** {#art36_cpt} O Conselho Nacional de Recursos Hídricos será gerido por:
@@ -406,7 +402,7 @@ Tags: #comite-bacia #bacia-hidrografica
 **Art. 37, parágrafo único** {#art37_par1u} A instituição de Comitês de Bacia Hidrográfica em rios de domínio da União será efetivada por ato do Presidente da República.
 
 ###### Art. 38 {#art38}
-Tags: #comite-bacia #competencia #plano-recursos-hidricos #conflito-uso #cobranca-uso-agua #uso-insignificante #recurso-administrativo
+Tags: #comite-bacia #competencia #plano-recursos-hidricos #conflito-uso #cobranca-uso-agua #uso-insignificante
 
 **Art. 38, caput** {#art38_cpt} Compete aos Comitês de Bacia Hidrográfica, no âmbito de sua área de atuação:
 - **Art. 38, caput, inciso I** {#art38_cpt_inc1} promover o debate das questões relacionadas a recursos hídricos e articular a atuação das entidades intervenientes;
@@ -422,7 +418,7 @@ Tags: #comite-bacia #competencia #plano-recursos-hidricos #conflito-uso #cobranc
 **Art. 38, parágrafo único** {#art38_par1u} Das decisões dos Comitês de Bacia Hidrográfica caberá recurso ao Conselho Nacional ou aos Conselhos Estaduais de Recursos Hídricos, de acordo com sua esfera de competência.
 
 ###### Art. 39 {#art39}
-Tags: #comite-bacia #composicao #terra-indigena #funai
+Tags: #comite-bacia #terra-indigena #funai
 
 **Art. 39, caput** {#art39_cpt} Os Comitês de Bacia Hidrográfica são compostos por representantes:
 - **Art. 39, caput, inciso I** {#art39_cpt_inc1} da União;
@@ -490,7 +486,7 @@ Tags: #agencia-agua #competencia #cadastro #cobranca-uso-agua #plano-recursos-hi
 ### CAPÍTULO V – DA SECRETARIA EXECUTIVA DO CONSELHO NACIONAL DE RECURSOS HÍDRICOS
 
 ###### Art. 45 {#art45}
-Tags: #cnrh #secretaria-executiva
+Tags: #cnrh
 Alterações: [[medida-provisoria-870-2019|Medida Provisória nº 870, de 2019]] (redação intermediária: caput); [[lei-federal-13844-2019|Lei nº 13.844, de 2019]] (redação intermediária: caput); [[medida-provisoria-1154-2023|Medida Provisória nº 1.154, de 2023]] (redação intermediária: caput); [[lei-federal-14600-2023|Lei nº 14.600, de 2023]] (nova redação: caput)
 
 **Art. 45, caput** {#art45_cpt} #redacao-alterada A Secretaria-Executiva do Conselho Nacional de Recursos Hídricos será exercida pelo órgão integrante da estrutura do Ministério da Integração e do Desenvolvimento Regional responsável pela gestão dos recursos hídricos. *(Redação dada pela [[lei-federal-14600-2023|Lei nº 14.600, de 2023]])*
@@ -502,7 +498,7 @@ Alterações: [[medida-provisoria-870-2019|Medida Provisória nº 870, de 2019]]
 
 
 ###### Art. 46 {#art46}
-Tags: #cnrh #secretaria-executiva #competencia
+Tags: #cnrh #competencia
 Alterações: [[lei-federal-9984-2000|Lei 9.984, de 2000]] (nova redação: caput, nova redação: inciso I, nova redação: inciso II, nova redação: inciso III, nova redação: inciso IV, nova redação: inciso V)
 
 **Art. 46, caput** {#art46_cpt} #redacao-alterada Compete à Secretaria Executiva do Conselho Nacional de Recursos Hídricos: *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
@@ -523,7 +519,7 @@ Alterações: [[lei-federal-9984-2000|Lei 9.984, de 2000]] (nova redação: capu
 ### CAPÍTULO VI – DAS ORGANIZAÇÕES CIVIS DE RECURSOS HÍDRICOS
 
 ###### Art. 47 {#art47}
-Tags: #organizacao-civil #consorcio-intermunicipal
+Tags: #consorcio-intermunicipal
 
 **Art. 47, caput** {#art47_cpt} São consideradas, para os efeitos desta Lei, organizações civis de recursos hídricos:
 - **Art. 47, caput, inciso I** {#art47_cpt_inc1} consórcios e associações intermunicipais de bacias hidrográficas;
@@ -533,7 +529,7 @@ Tags: #organizacao-civil #consorcio-intermunicipal
 - **Art. 47, caput, inciso V** {#art47_cpt_inc5} outras organizações reconhecidas pelo Conselho Nacional ou pelos Conselhos Estaduais de Recursos Hídricos.
 
 ###### Art. 48 {#art48}
-Tags: #organizacao-civil #singreh
+Tags: #singreh
 
 **Art. 48, caput** {#art48_cpt} Para integrar o Sistema Nacional de Recursos Hídricos, as organizações civis de recursos hídricos devem ser legalmente constituídas.
 
@@ -553,14 +549,14 @@ Tags: #infracao-ambiental #outorga #agua-subterranea #poco #fiscalizacao
 - **Art. 49, caput, inciso VIII** {#art49_cpt_inc8} obstar ou dificultar a ação fiscalizadora das autoridades competentes no exercício de suas funções.
 
 ###### Art. 50 {#art50}
-Tags: #sancao #advertencia #multa #embargo #reincidencia #recurso-administrativo #outorga
+Tags: #sancao #multa #embargo #reincidencia #outorga
 Alterações: [[lei-federal-14066-2020|Lei nº 14.066, de 2020]] (nova redação: caput, nova redação: inciso II)
 
 **Art. 50, caput** {#art50_cpt} #redacao-alterada Por infração de qualquer disposição legal ou regulamentar referente à execução de obras e serviços hidráulicos, derivação ou utilização de recursos hídricos, ou pelo não atendimento das solicitações feitas, o infrator, a critério da autoridade competente, ficará sujeito às seguintes penalidades, independentemente de sua ordem de enumeração: *(Redação dada pela [[lei-federal-14066-2020|Lei nº 14.066, de 2020]])*
 
 > Redação original: ~~Por infração de qualquer disposição legal ou regulamentar referentes à execução de obras e serviços hidráulicos, derivação ou utilização de recursos hídricos de domínio ou administração da União, ou pelo não atendimento das solicitações feitas, o infrator, a critério da autoridade competente, ficará sujeito às seguintes penalidades, independentemente de sua ordem de enumeração:~~
 
-- **Art. 50, caput, inciso I** {#art50_cpt_inc1} #advertencia advertência por escrito, na qual serão estabelecidos prazos para correção das irregularidades;
+- **Art. 50, caput, inciso I** {#art50_cpt_inc1} advertência por escrito, na qual serão estabelecidos prazos para correção das irregularidades;
 - **Art. 50, caput, inciso II** {#art50_cpt_inc2} #multa #redacao-alterada multa, simples ou diária, proporcional à gravidade da infração, de R$ 100,00 (cem reais) a R$ 50.000.000,00 (cinquenta milhões de reais); *(Redação dada pela [[lei-federal-14066-2020|Lei nº 14.066, de 2020]])*
   > Redação original: ~~multa, simples ou diária, proporcional à gravidade da infração, de R$ 100,00 (cem reais) a R$ 10.000,00 (dez mil reais);~~
 - **Art. 50, caput, inciso III** {#art50_cpt_inc3} #embargo embargo provisório, por prazo determinado, para execução de serviços e obras necessárias ao efetivo cumprimento das condições de outorga ou para o cumprimento de normas referentes ao uso, controle, conservação e proteção dos recursos hídricos;
@@ -577,7 +573,7 @@ Alterações: [[lei-federal-14066-2020|Lei nº 14.066, de 2020]] (nova redação
 ## TÍTULO IV – DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 ###### Art. 51 {#art51}
-Tags: #delegacao #agencia-agua #organizacao-civil
+Tags: #agencia-agua
 Alterações: [[lei-federal-10881-2004|Lei nº 10.881, de 2004]] (nova redação: caput)
 
 **Art. 51, caput** {#art51_cpt} #redacao-alterada O Conselho Nacional de Recursos Hídricos e os Conselhos Estaduais de Recursos Hídricos poderão delegar a organizações sem fins lucrativos relacionadas no [[#art47|art. 47 desta Lei]], por prazo determinado, o exercício de funções de competência das Agências de Água, enquanto esses organismos não estiverem constituídos. *(Redação dada pela [[lei-federal-10881-2004|Lei nº 10.881, de 2004]])*
@@ -596,7 +592,7 @@ Tags: #agencia-agua #prazo
 **Art. 53, caput** {#art53_cpt} O Poder Executivo, no prazo de cento e vinte dias a partir da publicação desta Lei, encaminhará ao Congresso Nacional projeto de lei dispondo sobre a criação das Agências de Água.
 
 ###### Art. 54 {#art54}
-Tags: #alteracao-normativa #compensacao-financeira
+Tags: #compensacao-financeira
 
 **Art. 54, caput** {#art54_cpt} O [[lei-federal-8001-1990#art1|art. 1º da Lei nº 8.001, de 13 de março de 1990]], passa a vigorar com a seguinte redação:
 
@@ -612,7 +608,7 @@ Tags: #alteracao-normativa #compensacao-financeira
 **Art. 54, parágrafo único** {#art54_par1u} Os novos percentuais definidos no [[#art54_cpt|caput deste artigo]] entrarão em vigor no prazo de cento e oitenta dias contados a partir da data de publicação desta Lei.
 
 ###### Art. 55 {#art55}
-Tags: #regulamentacao #prazo
+Tags: #prazo
 
 **Art. 55, caput** {#art55_cpt} O Poder Executivo Federal regulamentará esta Lei no prazo de cento e oitenta dias, contados da data de sua publicação.
 
@@ -622,7 +618,7 @@ Tags: #vigencia
 **Art. 56, caput** {#art56_cpt} Esta Lei entra em vigor na data de sua publicação.
 
 ###### Art. 57 {#art57}
-Tags: #revogacao #revogacao-tacita
+Tags: #revogacao
 
 **Art. 57, caput** {#art57_cpt} Revogam-se as disposições em contrário.
 

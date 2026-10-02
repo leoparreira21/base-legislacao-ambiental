@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-9415-2025]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-11977-2022]]", "[[lei-federal-6938-1981]]", "[[resolucao-conama-237-1997]]", "[[lei-estadual-22252-2024]]", "[[decreto-estadual-9541-2025]]", "[[lei-estadual-12726-1999]]", "[[decreto-estadual-9957-2014]]", "[[instrucao-normativa-iat-6-2023]]", "[[lei-federal-9605-1998]]", "[[decreto-federal-6514-2008]]", "[[constituicao-federal-1988]]"]
-tags: [abastecimento-publico, agua-subterranea, alteracao, anuencia-previa, ato-administrativo, captacao, casos-omissos, complementacao, condicionante, dispensa, dlam, documentacao, duio, infracao-ambiental, integracao-procedimento, lac, las, lasr, li, licenca-vencida, licenciamento-ambiental, licenciamento-monofasico, licenciamento-trifasico, lir, lo, lor, lp, manifestacao-juridica, outorga, outorga-direito, outorga-previa, pendencia-judicial, poco, prazo, recurso-hidrico, regularizacao, renovacao, reparacao-dano, retificacao-licenca, sancao, suspensao-processo, uso-insignificante, vazao, vigencia]
+tags: [abastecimento-publico, agua-subterranea, alteracao, anuencia-previa, ato-administrativo, captacao, casos-omissos, complementacao, condicionante, dispensa, dlam, documentacao, infracao-ambiental, lac, las, lasr, li, licenca-vencida, licenciamento-ambiental, licenciamento-monofasico, licenciamento-trifasico, lir, lo, lor, lp, manifestacao-juridica, outorga, outorga-direito, outorga-previa, pendencia-judicial, poco, prazo, recurso-hidrico, regularizacao, renovacao, sancao, suspensao-processo, uso-insignificante, vazao, vigencia]
 fonte: "PDF assinado digitalmente pelo Diretor-Presidente do IAT em 01/04/2026 (8 páginas, Word 2019), enviado por Leo"
 ---
 
@@ -49,7 +49,7 @@ Considerando a necessidade de estabelecer os procedimentos de integração entre
 RESOLVE
 
 ###### Art. 1º {#art1}
-Tags: #outorga #agua-subterranea #licenciamento-ambiental #integracao-procedimento
+Tags: #outorga #agua-subterranea #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer a integração dos procedimentos entre a Outorga para captação subterrânea e o licenciamento ambiental no âmbito do Instituto Água e Terra.
 
@@ -59,7 +59,7 @@ Tags: #outorga #agua-subterranea #captacao #abastecimento-publico
 **Art. 2º, caput** {#art2_cpt} A Outorga para uso de recursos hídricos é obrigatória para os empreendimentos, atividades ou obras que necessitem de extração de água de aquífero subterrâneo para consumo final, inclusive abastecimento público, ou insumo de processo produtivo.
 
 ###### Art. 3º {#art3}
-Tags: #ato-administrativo #dlam #lac #las #lp #li #lo #lir #lasr #lor #anuencia-previa #duio #outorga-previa #outorga-direito #uso-insignificante #poco
+Tags: #ato-administrativo #dlam #lac #las #lp #li #lo #lir #lasr #lor #anuencia-previa #outorga-previa #outorga-direito #uso-insignificante #poco
 
 **Art. 3º, caput** {#art3_cpt} O Instituto Água e Terra, no exercício do controle ambiental, expedirá os seguintes atos administrativos, referentes ao licenciamento ambiental e à Outorga de recursos hídricos.
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} #dlam A Declaração de Dispensa de Licenciamento Ambiental - DLAM será concedida para os empreendimentos e/ou atividades que são dispensados do licenciamento por parte do Instituto Água e Terra - IAT em função de seu baixo potencial poluidor/degradador – nível I, conforme os critérios estabelecidos em normativas específicas, sem prejuízo ao licenciamento ambiental municipal, e que atendam as seguintes condições:
@@ -72,7 +72,7 @@ Tags: #ato-administrativo #dlam #lac #las #lp #li #lo #lir #lasr #lor #anuencia-
 - **Art. 3º, caput, inciso VIII** {#art3_cpt_inc8} #lasr Licença Ambiental Simplificada de Regularização – LASR: concedida para empreendimentos e/ou atividades enquadrados como LAS e que estejam operando sem o devido licenciamento ambiental, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos, bem como autoriza sua operação de acordo com as especificações constantes dos requerimentos, planos, programas e/ou projetos aprovados, incluindo as medidas de controle ambiental e demais condicionantes determinadas pelo órgão licenciador competente;
 - **Art. 3º, caput, inciso IX** {#art3_cpt_inc9} #lor Licença de Operação de Regularização – LOR: concedida para empreendimentos e/ou atividades que estejam operando de forma irregular, sem o devido licenciamento ambiental, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos, bem como autorizando sua operação de acordo com as especificações constantes dos requerimentos, planos, programas e/ou projetos aprovados, incluindo as medidas de controle ambiental e demais condicionantes determinadas pelo órgão licenciador competente;
 - **Art. 3º, caput, inciso X** {#art3_cpt_inc10} #anuencia-previa #poco Anuência Prévia - AP: ato administrativo que autoriza a perfuração de um poço;
-- **Art. 3º, caput, inciso XI** {#art3_cpt_inc11} #duio #uso-insignificante Declaração de Uso Independente de Outorga - DUIO: concedida para usuários ou empreendimentos que possuem acumulações, derivações, captações e lançamentos de efluentes considerados como usos insignificantes, conforme critérios estabelecidos na [[instrucao-normativa-iat-6-2023|Instrução Normativa nº 06/2023]];
+- **Art. 3º, caput, inciso XI** {#art3_cpt_inc11} #uso-insignificante Declaração de Uso Independente de Outorga - DUIO: concedida para usuários ou empreendimentos que possuem acumulações, derivações, captações e lançamentos de efluentes considerados como usos insignificantes, conforme critérios estabelecidos na [[instrucao-normativa-iat-6-2023|Instrução Normativa nº 06/2023]];
 - **Art. 3º, caput, inciso XII** {#art3_cpt_inc12} #outorga-previa Outorga Prévia - OP: ato administrativo com finalidade de declarar a disponibilidade de água para os usos requeridos, que não confere direto de uso de recursos hídricos e se destina a reservar a razão passível de Outorga, possibilitando, aos investidores, o planejamento de empreendimentos que necessitem desses recursos;
 - **Art. 3º, caput, inciso XIII** {#art3_cpt_inc13} #outorga-direito Outorga de Direito de Uso de Recursos Hídricos - OD: ato administrativo mediante o qual o órgão gestor de recursos hídricos faculta ao requerimento o direito de uso dos recursos hídricos, por prazo determinado, nos termos e condições expressas no respectivo ato, consideradas as legislações específicas vigentes.
 
@@ -127,7 +127,7 @@ Tags: #regularizacao #outorga #renovacao #licenca-vencida #condicionante #uso-in
 **Art. 6º, § 2º** {#art6_par2} #uso-insignificante #dispensa Caso a captação subterrânea seja de uso independente de Outorga a apresentação da Outorga de direito deverá ser dispensada.
 
 ###### Art. 7º {#art7}
-Tags: #renovacao #outorga #condicionante #vazao #retificacao-licenca
+Tags: #renovacao #outorga #condicionante #vazao
 
 **Art. 7º, caput** {#art7_cpt} Nos casos de renovação de licenciamento ambiental em que a Portaria de Outorga de Direito de captação subterrânea esteja em processo de renovação, a sua apresentação poderá ser condicionada, a critério do técnico licenciador, sem prejuízo à continuidade da análise do licenciamento ambiental.
 
@@ -149,7 +149,7 @@ Tags: #pendencia-judicial #suspensao-processo #manifestacao-juridica #prazo
 **Art. 10, caput** {#art10_cpt} Constatada a existência de pendência judicial envolvendo o empreendedor, o empreendimento ou o imóvel, a decisão administrativa sobre a eventual suspensão do licenciamento será precedida de manifestação jurídica do órgão ambiental competente no prazo máximo de 30 (trinta) dias.
 
 ###### Art. 11 {#art11}
-Tags: #sancao #infracao-ambiental #reparacao-dano
+Tags: #sancao #infracao-ambiental
 
 **Art. 11, caput** {#art11_cpt} O não cumprimento do disposto nesta Instrução Normativa sujeitará os infratores às sanções previstas nas [[lei-federal-6938-1981|Leis Federais n.º 6.938 de 31 de agosto de 1981]], [[lei-federal-9605-1998|n.º 9.605 de 12 de fevereiro de 1998]], [[decreto-federal-6514-2008|Decreto Federal 6.514 de 06 de julho de 2008]] e demais instrumentos normativos pertinentes, sem prejuízo ao dever de recuperar os danos ambientais causados, na forma do [[constituicao-federal-1988#art225_par3|Art. 225, §3º, da Constituição Federal]], e do [[lei-federal-6938-1981#art14_par1|Art. 14, § 1°, da Lei Federal n. 6.938, de 1981]].
 

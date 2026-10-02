@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PGRS
 atividades: [armazenamento-agrotoxico]
 modalidades: [rlac, rlas, rlo, loa, lor]
-tags: [anexo, termo-referencia, pgrs, residuo-solido, agrotoxico, classificacao-residuo, armazenamento-residuo, autorizacao-ambiental, mtr, sinir, logistica-reversa]
+tags: [anexo, pgrs, residuo-solido, agrotoxico, classificacao-residuo, armazenamento-residuo, autorizacao-ambiental, mtr, sinir, logistica-reversa]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), páginas 83 a 87
 ---
 
