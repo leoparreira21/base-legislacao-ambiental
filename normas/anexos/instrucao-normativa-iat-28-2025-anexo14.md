@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PAE
 atividades: [armazenamento-agrotoxico]
 modalidades: [lo, rlas, rlo, loa, lor]
-tags: [anexo, pae, situacao-emergencia, agrotoxico]
+tags: [pae, situacao-emergencia, agrotoxico]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), páginas 114 a 116
 ---
 

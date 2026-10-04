@@ -19,7 +19,7 @@ alterado_por: ["[[resolucao-conama-430-2011]]", "[[resolucao-conama-410-2009]]"]
 revoga: ["[[resolucao-conama-20-1986]]"]
 revogado_por: []
 cita: ["[[lei-federal-6938-1981]]", "[[decreto-federal-99274-1990]]", "[[resolucao-conama-274-2000]]", "[[lei-federal-9433-1997]]", "[[decreto-legislativo-204-2004]]", "[[lei-federal-9605-1998]]", "[[resolucao-conama-20-1986]]"]
-tags: [abastecimento-publico, agua-doce, agua-salina, agua-salobra, aquicultura, autodepuracao, capacidade-suporte, carga-poluidora, cianobacteria, classe-1, classe-2, classe-3, classe-4, classe-especial, classificacao-corpo-agua, cnrh, coliforme, conama, condicao-especial, corpo-intermitente, dbo, dcp, dessedentacao-animal, diluicao, direito-transicao, disposicao-solo, ecotoxicidade, efluente, eia-rima, enquadramento, eutrofizacao, fiscalizacao, fonte-poluicao, fosforo, infracao-ambiental, irrigacao, laboratorio-acreditado, lancamento-excepcional, licenciamento-ambiental, ministerio-publico, monitoramento, nitrogenio, od, oleos-graxas, outorga, padrao-lancamento, padrao-qualidade, parametro-qualidade, pesca, plataforma-petroleo, pop, potabilidade, prazo, prazo-adequacao, responsavel-tecnico, restricao-temporaria, revogacao, revogado, sancao, servico-saude, tac, terra-indigena, toxicidade, tratamento-efluente, turbidez, unidade-conservacao, vigencia, zona-mistura]
+tags: [abastecimento-publico, agua-doce, agua-salina, agua-salobra, aquicultura, capacidade-suporte, carga-poluidora, cianobacteria, classe-1, classe-2, classe-3, classe-4, classe-especial, classificacao-corpo-agua, cnrh, coliforme, conama, condicao-especial, dbo, dcp, dessedentacao-animal, diluicao, disposicao-solo, ecotoxicidade, efluente, eia-rima, enquadramento, eutrofizacao, fiscalizacao, fonte-poluicao, fosforo, infracao-ambiental, irrigacao, laboratorio-acreditado, licenciamento-ambiental, ministerio-publico, monitoramento, nitrogenio, od, oleos-graxas, outorga, padrao-lancamento, padrao-qualidade, pesca, plataforma-petroleo, pop, potabilidade, prazo, responsavel-tecnico, restricao-temporaria, revogado, sancao, servico-saude, tac, terra-indigena, tratamento-efluente, turbidez, unidade-conservacao, vigencia, zona-mistura]
 fonte: "Portal do CONAMA, texto compilado (27 páginas; 'Este texto não substitui o publicado no DOU de 18/03/2005'), enviado por Leo"
 ---
 
@@ -182,14 +182,14 @@ Tags: #agua-salobra #classe-especial
 ### Seção I – Das Disposições Gerais
 
 ###### Art. 7º {#art7}
-Tags: #padrao-qualidade #toxicidade
+Tags: #padrao-qualidade
 
 **Art. 7º, caput** {#art7_cpt} Os padrões de qualidade das águas determinados nesta Resolução estabelecem limites individuais para cada substância em cada classe.
 
 **Art. 7º, parágrafo único** {#art7_par1u} Eventuais interações entre substâncias, especificadas ou não nesta Resolução, não poderão conferir às águas características capazes de causar efeitos letais ou alteração de comportamento, reprodução ou fisiologia da vida, bem como de restringir os usos preponderantes previstos, ressalvado o disposto no [[#art34_par3|§ 3º do art. 34]], desta Resolução.
 
 ###### Art. 8º {#art8}
-Tags: #monitoramento #parametro-qualidade #ecotoxicidade
+Tags: #monitoramento #ecotoxicidade
 
 **Art. 8º, caput** {#art8_cpt} O conjunto de parâmetros de qualidade de água selecionado para subsidiar a proposta de enquadramento deverá ser monitorado periodicamente pelo Poder Público.
 
@@ -215,11 +215,11 @@ Tags: #laboratorio-acreditado #monitoramento
 **Art. 9º, § 2º** {#art9_par2} Nos casos onde a metodologia analítica disponível for insuficiente para quantificar as concentrações dessas substâncias nas águas, os sedimentos e/ou biota aquática poderão ser investigados quanto à presença eventual dessas substâncias.
 
 ###### Art. 10 {#art10}
-Tags: #dbo #autodepuracao #nitrogenio #fosforo #eutrofizacao
+Tags: #dbo #nitrogenio #fosforo #eutrofizacao
 
 **Art. 10, caput** {#art10_cpt} Os valores máximos estabelecidos para os parâmetros relacionados em cada uma das classes de enquadramento deverão ser obedecidos nas condições de vazão de referência.
 
-**Art. 10, § 1º** {#art10_par1} #dbo #autodepuracao Os limites de Demanda Bioquímica de Oxigênio (DBO), estabelecidos para as águas doces de classes 2 e 3, poderão ser elevados, caso o estudo da capacidade de autodepuração do corpo receptor demonstre que as concentrações mínimas de oxigênio dissolvido (OD) previstas não serão desobedecidas, nas condições de vazão de referência, com exceção da zona de mistura.
+**Art. 10, § 1º** {#art10_par1} #dbo Os limites de Demanda Bioquímica de Oxigênio (DBO), estabelecidos para as águas doces de classes 2 e 3, poderão ser elevados, caso o estudo da capacidade de autodepuração do corpo receptor demonstre que as concentrações mínimas de oxigênio dissolvido (OD) previstas não serão desobedecidas, nas condições de vazão de referência, com exceção da zona de mistura.
 
 **Art. 10, § 2º** {#art10_par2} Os valores máximos admissíveis dos parâmetros relativos às formas químicas de nitrogênio e fósforo, nas condições de vazão de referência, poderão ser alterados em decorrência de condições naturais, ou quando estudos ambientais específicos, que considerem também a poluição difusa, comprovem que esses novos limites não acarretarão prejuízos para os usos previstos no enquadramento do corpo de água.
 
@@ -815,7 +815,7 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 - **Art. 24, parágrafo único, inciso II** {#art24_par1u_inc2} #revogado ~~exigir a melhor tecnologia disponível para o tratamento dos efluentes, compatível com as condições do respectivo curso de água superficial, mediante fundamentação técnica.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 25 {#art25}
-Tags: #padrao-lancamento #lancamento-excepcional #eia-rima
+Tags: #padrao-lancamento #eia-rima
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 25, caput** {#art25_cpt} #revogado ~~É vedado o lançamento e a autorização de lançamento de efluentes em desacordo com as condições e padrões estabelecidos nesta Resolução.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -901,7 +901,7 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 **Art. 33, parágrafo único** {#art33_par1u} #revogado ~~A extensão e as concentrações de substâncias na zona de mistura deverão ser objeto de estudo, nos termos determinados pelo órgão ambiental competente, às expensas do empreendedor responsável pelo lançamento.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 34 {#art34}
-Tags: #padrao-lancamento #toxicidade #oleos-graxas
+Tags: #padrao-lancamento #oleos-graxas
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 34, caput** {#art34_cpt} #revogado ~~Os efluentes de qualquer fonte poluidora somente poderão ser lançados, direta ou indiretamente, nos corpos de água desde que obedeçam as condições e padrões previstos neste artigo, resguardadas outras exigências cabíveis:~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -968,7 +968,7 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 **Art. 36, caput** {#art36_cpt} #revogado ~~Além dos requisitos previstos nesta Resolução e em outras normas aplicáveis, os efluentes provenientes de serviços de saúde e estabelecimentos nos quais haja despejos infectados com microorganismos patogênicos, só poderão ser lançados após tratamento especial.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 37 {#art37}
-Tags: #corpo-intermitente #condicao-especial
+Tags: #condicao-especial
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 37, caput** {#art37_cpt} #revogado ~~Para o lançamento de efluentes tratados no leito seco de corpos de água intermitentes, o órgão ambiental competente definirá, ouvido o órgão gestor de recursos hídricos, condições especiais.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -1014,7 +1014,7 @@ Tags: #enquadramento #classe-2 #classe-1
 **Art. 42, caput** {#art42_cpt} Enquanto não aprovados os respectivos enquadramentos, as águas doces serão consideradas classe 2, as salinas e salobras classe 1, exceto se as condições de qualidade atuais forem melhores, o que determinará a aplicação da classe mais rigorosa correspondente.
 
 ###### Art. 43 {#art43}
-Tags: #prazo-adequacao #direito-transicao #tac #ministerio-publico
+Tags: #tac #ministerio-publico
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 43, caput** {#art43_cpt} #revogado ~~Os empreendimentos e demais atividades poluidoras que, na data da publicação desta Resolução, tiverem Licença de Instalação ou de Operação, expedida e não impugnada, poderão a critério do órgão ambiental competente, ter prazo de até três anos, contados a partir de sua vigência, para se adequarem às condições e padrões novos ou mais rigorosos previstos nesta Resolução.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -1070,7 +1070,6 @@ Tags: #vigencia
 **Art. 49, caput** {#art49_cpt} Esta Resolução entra em vigor na data de sua publicação.
 
 ###### Art. 50 {#art50}
-Tags: #revogacao
 
 **Art. 50, caput** {#art50_cpt} Revoga-se a [[resolucao-conama-20-1986|Resolução CONAMA nº 020, de 18 de junho de 1986]].
 

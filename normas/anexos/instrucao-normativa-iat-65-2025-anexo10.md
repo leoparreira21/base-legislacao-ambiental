@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: Projeto de Controle de Poluição Sonora
 atividades: [industria]
 modalidades: [li, lia, lir, lor]
-tags: [anexo, industria, poluicao-sonora, isolamento-acustico]
+tags: [industria, poluicao-sonora, isolamento-acustico]
 fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do PDF, com anexos)
 ---
 

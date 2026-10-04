@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCPA
 atividades: [patio-caminhao, patio-container]
 modalidades: [li, lia]
-tags: [anexo, patio-caminhao, patio-container, pcpa, terraplanagem, diagnostico-ambiental, impacto-ambiental, medida-mitigadora, agua-pluvial, esgoto-sanitario, efluente, emissao-atmosferica, residuo-solido, impermeabilizacao, passivo-ambiental]
+tags: [patio-caminhao, patio-container, pcpa, terraplanagem, diagnostico-ambiental, impacto-ambiental, medida-mitigadora, agua-pluvial, esgoto-sanitario, efluente, emissao-atmosferica, residuo-solido, impermeabilizacao, passivo-ambiental]
 fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinado em 15/12/2025), páginas 63 a 72
 ---
 

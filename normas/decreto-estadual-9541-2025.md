@@ -17,7 +17,7 @@ revogado_por: []
 texto: compilado (atualizado até o Decreto nº 12.799/2026)
 revoga: ["[[resolucao-cema-70-2009]]", "[[resolucao-cema-89-2013]]", "[[resolucao-cema-90-2013]]", "[[resolucao-cema-94-2014]]", "[[resolucao-cema-107-2020]]", "[[resolucao-sema-31-1998]]", "[[resolucao-sema-36-2009]]", "[[resolucao-sema-21-2008]]", "[[resolucao-sema-51-2009]]", "[[resolucao-sema-79-2010]]", "[[resolucao-sema-40-2013]]", "[[resolucao-sema-6-2017]]", "[[resolucao-sema-7-2017]]", "[[resolucao-sema-21-2017]]", "[[resolucao-conjunta-sedest-iap-23-2009]]", "[[resolucao-sedest-51-2019]]", "[[resolucao-sedest-55-2019]]", "[[resolucao-sedest-2-2020]]", "[[resolucao-sedest-3-2020]]", "[[resolucao-sedest-15-2020]]", "[[resolucao-sedest-16-2020]]", "[[resolucao-sedest-17-2020]]", "[[resolucao-sedest-7-2021]]", "[[resolucao-sedest-8-2021]]", "[[resolucao-sedest-9-2021]]", "[[resolucao-sedest-10-2021]]", "[[resolucao-sedest-11-2021]]", "[[resolucao-sedest-12-2021]]", "[[resolucao-sedest-13-2021]]", "[[resolucao-sedest-8-2022]]", "[[resolucao-sedest-31-2022]]", "[[resolucao-sedest-32-2022]]", "[[resolucao-sedest-69-2022]]", "[[resolucao-sedest-39-2024]]", "[[resolucao-sedest-48-2024]]", "[[resolucao-sedest-50-2024]]", "[[resolucao-conjunta-sedest-iat-6-2023]]", "[[resolucao-conjunta-sedest-seab-iat-iapar-18-2020]]"]
 cita: ["[[constituicao-estadual-1989]]", "[[lei-federal-6938-1981]]", "[[lei-complementar-federal-140-2011]]", "[[lei-federal-12651-2012]]", "[[lei-federal-10650-2003]]", "[[lei-federal-12527-2011]]", "[[decreto-federal-7845-2012]]", "[[decreto-estadual-10285-2014]]", "[[lei-federal-11326-2006]]", "[[lei-federal-10257-2001]]", "[[lei-federal-9605-1998]]", "[[decreto-federal-6514-2008]]", "[[decreto-estadual-2320-1993]]"]
-tags: [agricultura-familiar, alteracao, alvara, ampliacao, anuencia, app, apreensao, area-contaminada, area-contigua, area-degradada, area-fragil, area-influencia, area-interdependente, area-sensivel, area-umida, art-anotacao, artesanal, arvore-isolada, ato-administrativo, auto-infracao, autorizacao-ambiental, autorizacao-florestal, baixo-risco, bem-cultural, cadastro, cancelamento-licenca, car, cavidade-natural, cema, cepct, certidao-municipal, certidao-negativa-debito, cnpj, competencia, complementacao, complementacao-taxa, comunidade-tradicional, concordancia-tacita, condicionante, conselho-classe, controle-ambiental, cooperacao-institucional, cpf, cral, crime-ambiental, dano-ambiental, debito-ambiental, declaracao-adesao-compromisso, deferimento, demolicao, diagnostico-ambiental, dila, direito-transicao, dispensa, dlam, documentacao, dominialidade, efluente, eia-rima, embargo, emissao-atmosferica, encerramento, encerramento-parcial, enquadramento, esgotamento-sanitario, especie-exotica, estudo-ambiental, fauna, fiscalizacao, flora, floresta-plantada, georreferenciamento, iat, impacto-ambiental, incluido, indeferimento, inexigibilidade, informacao-falsa, infracao-ambiental, interesse-social, isencao, jucepar, lac, las, lasa, lasr, li, lia, licenca-ambiental, licenca-vencida, licenciamento-ambiental, licenciamento-bifasico, licenciamento-monofasico, licenciamento-previo, licenciamento-trifasico, lir, lo, loa, lor, lp, lpa, manifestacao-juridica, medida-compensatoria, medida-mitigadora, meio-ambiente, memorial-caracterizacao, ministerio-publico, modalidade, monitoramento, movimentacao-solo, multa, obra-emergencial, outorga, outorga-direito, outorga-previa, parecer-tecnico, passivo-ambiental, pca, pcpa, pendencia-judicial, pgr, plano-recuperacao, pnma, poluicao, porte, potencial-poluidor, prazo, prioridade, processo-administrativo, procuracao, projeto-executivo, prorrogacao, prorrogacao-automatica, prorrogacao-prazo, publicacao-dioe, questionario, quilombola, rap, ras, recuperacao-ambiental, recurso-hidrico, redacao-alterada, regularizacao, relatorio-atendimento-condicionante, relatorio-caracterizacao-flora, relatorio-encerramento, renovacao, renovacao-extemporanea, requerimento, reserva-legal, residuo-perigoso, responsabilidade, responsavel-tecnico, revogacao, revogado, sancao, saneamento, sedest, sema, supressao-vegetacao, suspensao-atividade, suspensao-processo, tac, taxa-ambiental, termo-encerramento, termo-responsabilidade-solidaria, terra-indigena, tipologia, transferencia-titularidade, tratamento-esgoto, triagem, unidade-conservacao, uso-alternativo-solo, uso-insignificante, utilidade-publica, validade, viabilidade-ambiental, viabilidade-locacional, vigencia, vistoria]
+tags: [agricultura-familiar, alteracao, alvara, ampliacao, anuencia, app, apreensao, area-contaminada, area-contigua, area-degradada, area-fragil, area-influencia, area-interdependente, area-sensivel, area-umida, art-anotacao, artesanal, arvore-isolada, ato-administrativo, auto-infracao, autorizacao-ambiental, autorizacao-florestal, baixo-risco, bem-cultural, cancelamento-licenca, car, cavidade-natural, cema, cepct, certidao-municipal, certidao-negativa-debito, cnpj, competencia, complementacao, comunidade-tradicional, concordancia-tacita, condicionante, conselho-classe, cooperacao-institucional, cpf, cral, crime-ambiental, dano-ambiental, debito-ambiental, declaracao-adesao-compromisso, deferimento, demolicao, diagnostico-ambiental, dila, dispensa, dlam, documentacao, dominialidade, efluente, eia-rima, embargo, emissao-atmosferica, encerramento, encerramento-parcial, enquadramento, esgotamento-sanitario, especie-exotica, fauna, fiscalizacao, flora, floresta-plantada, iat, impacto-ambiental, incluido, indeferimento, inexigibilidade, informacao-falsa, infracao-ambiental, interesse-social, isencao, jucepar, lac, las, lasa, lasr, li, lia, licenca-ambiental, licenca-vencida, licenciamento-ambiental, licenciamento-bifasico, licenciamento-monofasico, licenciamento-previo, licenciamento-trifasico, lir, lo, loa, lor, lp, lpa, medida-compensatoria, medida-mitigadora, memorial-caracterizacao, ministerio-publico, modalidade, monitoramento, movimentacao-solo, multa, obra-emergencial, outorga, outorga-direito, outorga-previa, parecer-tecnico, passivo-ambiental, pca, pcpa, pgr, plano-recuperacao, pnma, poluicao, porte, potencial-poluidor, prazo, processo-administrativo, procuracao, projeto-executivo, prorrogacao, prorrogacao-automatica, prorrogacao-prazo, publicacao-dioe, questionario, quilombola, rap, ras, recuperacao-ambiental, recurso-hidrico, redacao-alterada, regularizacao, relatorio-atendimento-condicionante, relatorio-caracterizacao-flora, relatorio-encerramento, renovacao, renovacao-extemporanea, requerimento, reserva-legal, residuo-perigoso, responsabilidade, responsavel-tecnico, revogado, sancao, saneamento, sedest, sema, supressao-vegetacao, suspensao-atividade, suspensao-processo, tac, taxa-ambiental, termo-encerramento, termo-responsabilidade-solidaria, terra-indigena, tipologia, transferencia-titularidade, tratamento-esgoto, triagem, unidade-conservacao, uso-alternativo-solo, uso-insignificante, utilidade-publica, validade, vigencia, vistoria]
 fonte: PDF digitalizado (52 páginas), transcrito manualmente
 ---
 
@@ -91,13 +91,13 @@ Tags: #enquadramento #potencial-poluidor #porte #impacto-ambiental
 - **Art. 6º, caput, inciso IV** {#art6_cpt_inc4} #declaracao-adesao-compromisso Declaração de Adesão e Compromisso: instrumento jurídico por meio do qual o empreendedor atesta a veracidade de informações prestadas, responsabilizando-se no caso de omissões ou falsidade;
 - **Art. 6º, caput, inciso V** {#art6_cpt_inc5} #dominialidade documento de dominialidade: documento que ateste a propriedade ou posse incontestada em nome do requerente, tais como matrícula do Registro do Imóvel, transcrição imobiliária, escritura pública de cessão de direitos possessórios, declaração dos confrontantes, contrato de locação do imóvel, dentre outros;
 - **Art. 6º, caput, inciso VI** {#art6_cpt_inc6} empreendedor: pessoa física ou jurídica, de direito público ou privado, responsável por atividades ou empreendimentos sujeitos ao licenciamento ambiental;
-- **Art. 6º, caput, inciso VII** {#art6_cpt_inc7} #estudo-ambiental estudos ambientais: são todos e quaisquer estudos relativos aos aspectos ambientais relacionados à localização, instalação, operação e ampliação de um empreendimento e/ou atividade, apresentado como subsídio para a análise da licença requerida, tais como: relatório ambiental, plano e projeto de controle ambiental, relatório ambiental preliminar, diagnóstico ambiental, plano de manejo, plano de recuperação de área degradada e programa de gerenciamento de riscos ambientais;
+- **Art. 6º, caput, inciso VII** {#art6_cpt_inc7} estudos ambientais: são todos e quaisquer estudos relativos aos aspectos ambientais relacionados à localização, instalação, operação e ampliação de um empreendimento e/ou atividade, apresentado como subsídio para a análise da licença requerida, tais como: relatório ambiental, plano e projeto de controle ambiental, relatório ambiental preliminar, diagnóstico ambiental, plano de manejo, plano de recuperação de área degradada e programa de gerenciamento de riscos ambientais;
 - **Art. 6º, caput, inciso VIII** {#art6_cpt_inc8} #impacto-ambiental impacto ambiental: qualquer alteração das propriedades físicas, químicas e biológicas no meio ambiente, causada por qualquer forma de matéria ou energia resultante das atividades humanas que, direta ou indiretamente, afetam a saúde, a segurança e o bem-estar da população; as atividades sociais e econômicas; a biota; as condições estéticas e sanitárias do meio ambiente; a qualidade dos recursos ambientais;
 - **Art. 6º, caput, inciso IX** {#art6_cpt_inc9} #licenca-ambiental licença ambiental: o ato administrativo pelo qual são estabelecidas, as condições, restrições e medidas de controle ambiental que deverão ser obedecidas pelo empreendedor, pessoa física ou jurídica, para localizar, instalar, ampliar e operar empreendimentos e/ou atividades utilizadoras dos recursos ambientais, consideradas efetiva ou potencialmente poluidoras ou aquelas que, sob qualquer forma, possam causa degradação e/ou modificação ambiental;
 - **Art. 6º, caput, inciso X** {#art6_cpt_inc10} #licenciamento-ambiental licenciamento ambiental: procedimento administrativo pelo qual o Instituto Água e Terra - IAT, verificando a satisfação das condições legais e técnicas, delibera quanto à localização, instalação, ampliação, operação e encerramento de empreendimentos e/ou atividades utilizadoras de recursos ambientais consideradas efetivas ou potencialmente poluidoras ou daquelas que, sob qualquer forma, possam vir a causar degradação e/ou modificação ambiental, considerando as disposições legais e regulamentares e as normas técnicas aplicáveis ao caso;
 - **Art. 6º, caput, inciso XI** {#art6_cpt_inc11} #medida-compensatoria medidas compensatórias: aplicadas para compensar, de forma geral, os prejuízos e danos ambientais efetivos advindos de atividade modificadora do ambiente, por meio das quais o poluidor é obrigado a proceder a compensação da degradação por ele promovida, devidamente justificado pelo Instituto Água e Terra - IAT, devendo guardar relação direta ou indireta e proporcional com os impactos identificados nos mesmos e serem aplicadas preferencialmente na(s) localidade(s) e/ou município(s) afetado(s);
 - **Art. 6º, caput, inciso XII** {#art6_cpt_inc12} #medida-mitigadora medidas mitigadoras: são aquelas estabelecidas antes da instalação do empreendimento e/ou atividade, e visam à redução dos efeitos provenientes dos impactos socioambientais negativos gerados por tal ação;
-- **Art. 6º, caput, inciso XIII** {#art6_cpt_inc13} #meio-ambiente Meio Ambiente: conjunto de condições, leis, influências e interações de ordem física, química e biológica, que permite, abriga e rege a vida em todas as suas formas;
+- **Art. 6º, caput, inciso XIII** {#art6_cpt_inc13} Meio Ambiente: conjunto de condições, leis, influências e interações de ordem física, química e biológica, que permite, abriga e rege a vida em todas as suas formas;
 - **Art. 6º, caput, inciso XIV** {#art6_cpt_inc14} #modalidade modalidades de licenciamento ambiental: tipo de processo administrativo que varia de acordo com a natureza, a localização, o porte e o potencial poluidor/degradador dos empreendimentos e/ou atividades;
 - **Art. 6º, caput, inciso XV** {#art6_cpt_inc15} #poluicao poluição: degradação da qualidade ambiental resultante de atividades que, direta ou indiretamente, prejudiquem a saúde, a segurança e o bem-estar da população, crie condições adversas às atividades sociais e econômicas, afetem desfavoravelmente a biota, afetem as condições estéticas ou sanitárias do meio ambiente ou lancem matérias ou energia em desacordo com os padrões ambientais estabelecidos;
 - **Art. 6º, caput, inciso XVI** {#art6_cpt_inc16} poluidor: pessoa física ou jurídica, de direito público ou privado, responsável, direta ou indiretamente, por empreendimento e/ou atividade causador de degradação ambiental;
@@ -159,7 +159,7 @@ Tags: #complementacao
 #### Seção I – Do Requerimento
 
 ###### Art. 11 {#art11}
-Tags: #requerimento #cadastro #questionario #documentacao
+Tags: #requerimento #questionario #documentacao
 
 **Art. 11, caput** {#art11_cpt} O requerimento de licenciamento ambiental deverá ser realizado pelo empreendedor, por meio de sistema informatizado do Instituto Água e Terra - IAT, cujo acesso será garantido por meio de login e senha, através das seguintes etapas:
 - **Art. 11, caput, inciso I** {#art11_cpt_inc1} preencher os cadastros de Usuário Ambiental, do Imóvel e do Empreendimento;
@@ -234,7 +234,7 @@ Tags: #triagem #prazo
 **Art. 16, § 2º** {#art16_par2} Só será considerado formalizado o requerimento a contar da data do protocolo.
 
 ###### Art. 17 {#art17}
-Tags: #prioridade #utilidade-publica #interesse-social #saneamento #outorga #autorizacao-florestal #supressao-vegetacao
+Tags: #utilidade-publica #interesse-social #saneamento #outorga #autorizacao-florestal #supressao-vegetacao
 
 **Art. 17, caput** {#art17_cpt} Terão prioridade de análise os procedimentos relativos a:
 - **Art. 17, caput, inciso I** {#art17_cpt_inc1} empreendimento da Administração Pública Direta e Indireta;
@@ -245,7 +245,7 @@ Tags: #prioridade #utilidade-publica #interesse-social #saneamento #outorga #aut
 - **Art. 17, caput, inciso VI** {#art17_cpt_inc6} outorga e autorização florestal, quando se tratar de licenciamento ambiental de empreendimentos e/ou atividades sujeitos à outorga de recursos hídricos ou supressão de vegetação.
 
 ###### Art. 18 {#art18}
-Tags: #prioridade #triagem
+Tags: #triagem
 
 **Art. 18, caput** {#art18_cpt} O requerente interessado na prioridade de tramitação e de licenciamento ambiental, juntando prova da sua condição de enquadramento do [[#art17|art. 17]], deverá requerê-la ao Instituto Água e Terra - IAT por ocasião do protocolo do requerimento.
 
@@ -272,7 +272,7 @@ Tags: #debito-ambiental #suspensao-processo
 **Art. 20, caput** {#art20_cpt} Constatada, a qualquer tempo, a existência de débitos ambientais decorrentes de decisões administrativas, contra as quais não couber recurso administrativo, em nome do requerente, pessoa física ou jurídica, ou de seus antecessores, o processo de licenciamento ambiental terá seu trâmite suspenso até a regularização dos referidos débitos.
 
 ###### Art. 21 {#art21}
-Tags: #pendencia-judicial #suspensao-processo #manifestacao-juridica
+Tags: #suspensao-processo
 
 **Art. 21, caput** {#art21_cpt} Constatada, a qualquer tempo, a existência de pendência judicial envolvendo o requerente, o empreendimento ou o imóvel, a decisão administrativa sobre a eventual suspensão do licenciamento será precedida de manifestação jurídica do Instituto Água e Terra - IAT.
 
@@ -312,7 +312,6 @@ Tags: #complementacao #taxa-ambiental #sancao
 **Art. 26, § 2º** {#art26_par2} Mediante solicitação formal e motivada do interessado, poderá ser desarquivado o procedimento de licenciamento ambiental, uma única oportunidade, de acordo com critérios estabelecidos pelo Instituto Água e Terra - IAT.
 
 ###### Art. 27 {#art27}
-Tags: #viabilidade-ambiental
 
 **Art. 27, caput** {#art27_cpt} Durante o processo de análise, o Instituto Água e Terra - IAT poderá, conforme o caso, consultar outras instituições não intervenientes envolvidas, para que se manifestem sobre a viabilidade ambiental do projeto.
 
@@ -328,7 +327,7 @@ Tags: #condicionante #impacto-ambiental #medida-compensatoria
 **Art. 28, parágrafo único** {#art28_par1u} As condicionantes ambientais deverão ser acompanhadas de fundamentação técnica por parte do Instituto Água e Terra - IAT, que aponte a relação direta com magnitude dos impactos ambientais do empreendimento e/ou atividade.
 
 ###### Art. 29 {#art29}
-Tags: #parecer-tecnico #impacto-ambiental #viabilidade-ambiental #pnma #deferimento #indeferimento
+Tags: #parecer-tecnico #impacto-ambiental #pnma #deferimento #indeferimento
 
 **Art. 29, caput** {#art29_cpt} O setor responsável pelo processo emitirá parecer técnico conclusivo após a análise dos documentos, projetos, estudos ambientais, pareceres de apoio, esclarecimentos apresentados, consultas a todas as instituições envolvidas e, quando couber, manifestação jurídica, contendo, fundamentadamente, os seguintes pontos:
 - **Art. 29, caput, inciso I** {#art29_cpt_inc1} a avaliação dos impactos ambientais decorrentes do empreendimento ou atividade;
@@ -579,7 +578,7 @@ Tags: #dlam
 #### Seção III – Do Licenciamento Monofásico
 
 ###### Art. 63 {#art63}
-Tags: #licenciamento-monofasico #viabilidade-ambiental
+Tags: #licenciamento-monofasico
 
 **Art. 63, caput** {#art63_cpt} Trata-se de procedimento de licenciamento ambiental de empreendimento e/ou atividade em fase única com o objetivo de:
 - **Art. 63, caput, inciso I** {#art63_cpt_inc1} aprovar a localização e a concepção;
@@ -658,7 +657,7 @@ Tags: #lac
 ##### Subseção II – Da Licença Ambiental Simplificada - LAS
 
 ###### Art. 72 {#art72}
-Tags: #las #licenciamento-monofasico #potencial-poluidor #viabilidade-ambiental #condicionante
+Tags: #las #licenciamento-monofasico #potencial-poluidor #condicionante
 
 **Art. 72, caput** {#art72_cpt} A Licença Ambiental Simplificada - LAS será concedida para empreendimentos e/ou atividades de médio potencial poluidor/degradador do meio ambiente, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos, bem como autoriza sua instalação e operação de acordo com as especificações constantes dos requerimentos, planos, programas e/ou projetos aprovados, incluindo as medidas de controle ambiental e demais condicionantes determinadas pelo Instituto Água e Terra - IAT.
 
@@ -668,7 +667,7 @@ Tags: #las #supressao-vegetacao #autorizacao-florestal #autorizacao-ambiental #f
 **Art. 73, caput** {#art73_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença Ambiental Simplificada - LAS somente poderá ser emitida após a apresentação da Autorização Florestal - AF e da Autorização Ambiental - AA referente à fauna, emitidas pelo Instituto Água e Terra - IAT.
 
 ###### Art. 74 {#art74}
-Tags: #las #recurso-hidrico #outorga #alvara #controle-ambiental
+Tags: #las #recurso-hidrico #outorga #alvara
 
 **Art. 74, caput** {#art74_cpt} A Licença Ambiental Simplificado - LAS não exime o empreendedor da obrigatoriedade de:
 - **Art. 74, caput, inciso I** {#art74_cpt_inc1} obter, junto aos órgãos competentes, os atos autorizativos para realizar intervenções ambientais, bem como para intervir ou fazer uso de recurso hídrico, quando necessário;
@@ -701,7 +700,7 @@ Tags: #las
 #### Seção IV – Do Licenciamento Bifásico
 
 ###### Art. 78 {#art78}
-Tags: #licenciamento-bifasico #viabilidade-ambiental
+Tags: #licenciamento-bifasico
 
 **Art. 78, caput** {#art78_cpt} Trata-se de procedimento de licenciamento ambiental de empreendimento e/ou atividade em duas fases interdependentes com o objetivo de:
 - **Art. 78, caput, inciso I** {#art78_cpt_inc1} aprovar a localização e a concepção;
@@ -719,7 +718,7 @@ Tags: #licenciamento-bifasico #ampliacao #lpa #loa #lia #lp #li #lo
 #### Seção V – Do Licenciamento Trifásico
 
 ###### Art. 80 {#art80}
-Tags: #licenciamento-trifasico #lp #li #lo #viabilidade-ambiental
+Tags: #licenciamento-trifasico #lp #li #lo
 
 **Art. 80, caput** {#art80_cpt} Trata-se de procedimento de licenciamento ambiental de empreendimento e/ou atividade no qual a Licença Prévia - LP, a Licença de Instalação - LI e a Licença de Operação - LO são concedidas em três fases interdependentes com o objetivo de:
 - **Art. 80, caput, inciso I** {#art80_cpt_inc1} aprovar a localização e a concepção;
@@ -730,7 +729,7 @@ Tags: #licenciamento-trifasico #lp #li #lo #viabilidade-ambiental
 ##### Subseção I – Da Licença Prévia - LP
 
 ###### Art. 81 {#art81}
-Tags: #lp #potencial-poluidor #viabilidade-ambiental #condicionante
+Tags: #lp #potencial-poluidor #condicionante
 
 **Art. 81, caput** {#art81_cpt} A Licença Prévia - LP é concedida na fase preliminar do planejamento do empreendimento e/ou atividade, de alto potencial poluidor/degradador do meio ambiente, aprovando sua localização e concepção, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos nas próximas fases de sua implementação.
 
@@ -756,14 +755,14 @@ Tags: #lp #recurso-hidrico #outorga #outorga-previa #uso-insignificante
 **Art. 84, caput** {#art84_cpt} Em se tratando de empreendimentos, atividades ou obras que necessitem de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação), o empreendedor deverá apresentar a Portaria de Outorga Prévia, Declaração de Uso Independente ou Declaração de Uso Insignificante de Outorga.
 
 ###### Art. 85 {#art85}
-Tags: #lp #estudo-ambiental
+Tags: #lp
 
 **Art. 85, caput** {#art85_cpt} Os estudos ambientais a serem exigidos para a emissão de Licença Prévia - LP serão definidos pelo Instituto Água e Terra - IAT, através de norma específica, considerando a localização, potencial poluidor/degradador e porte.
 
 **Art. 85, parágrafo único** {#art85_par1u} Em casos excepcionais, poderá ser solicitada a apresentação de estudos ambientais específicos, a serem definidos pelo Instituto Água e Terra - IAT, em função de alguma particularidade.
 
 ###### Art. 86 {#art86}
-Tags: #lp #estudo-ambiental
+Tags: #lp
 
 **Art. 86, caput** {#art86_cpt} O Termo de Referência para elaboração do estudo ambiental, será emitido pelo Instituto Água e Terra - IAT, após avaliação das características do empreendimento e/ou atividade e sua localização, como subsídio para o processo de Licença Prévia - LP.
 
@@ -792,12 +791,12 @@ Tags: #lp #validade
 ##### Subseção II – Da Licença Ambiental de Instalação - LI
 
 ###### Art. 90 {#art90}
-Tags: #li #condicionante #controle-ambiental
+Tags: #li #condicionante
 
 **Art. 90, caput** {#art90_cpt} A Licença de Instalação - LI autoriza a instalação do empreendimento e/ou atividade de acordo com as especificações constantes dos planos, programas e projetos aprovados, incluindo as medidas de controle ambientais e demais condicionantes, da qual constituem motivos determinantes.
 
 ###### Art. 91 {#art91}
-Tags: #li #lp #estudo-ambiental #condicionante #relatorio-atendimento-condicionante
+Tags: #li #lp #condicionante #relatorio-atendimento-condicionante
 
 **Art. 91, caput** {#art91_cpt} No requerimento de Licença de Instalação - LI deverão, obrigatoriamente, ser apresentados os respectivos estudos ambientais definidos na Licença Prévia - LP, bem como o relatório de atendimento ao cumprimento das condicionantes estabelecidas na Licença Prévia - LP, conforme regulamentação específica.
 
@@ -837,7 +836,7 @@ Tags: #li #validade #lir #regularizacao
 ##### Subseção III – Da Licença Ambiental de Operação - LO
 
 ###### Art. 96 {#art96}
-Tags: #lo #condicionante #controle-ambiental
+Tags: #lo #condicionante
 
 **Art. 96, caput** {#art96_cpt} A Licença de Operação - LO autoriza a operação de empreendimentos e/ou atividades após a verificação do efetivo cumprimento do que consta das licenças anteriores, com as medidas de controle ambiental e condicionantes determinadas para a operação.
 
@@ -880,7 +879,7 @@ Tags: #regularizacao #lasr #lir #lor #las #li #lo #licenca-vencida
 - **Art. 101, caput, inciso III** {#art101_cpt_inc3} #lor a Licença de Operação de Regularização - LOR é concedida para empreendimentos e/ou atividades que estejam operando de forma irregular, sem o devido licenciamento ambiental ou com a licença vencida.
 
 ###### Art. 102 {#art102}
-Tags: #regularizacao #viabilidade-locacional #tac #encerramento #auto-infracao #infracao-ambiental
+Tags: #regularizacao #tac #encerramento #auto-infracao #infracao-ambiental
 
 **Art. 102, caput** {#art102_cpt} As licenças de regularização somente serão emitidas quando houver viabilidade locacional, técnica e jurídica do empreendimento e/ou atividade.
 
@@ -1157,12 +1156,12 @@ Tags: #encerramento #area-degradada #responsabilidade
 ### CAPÍTULO VII – DOS ESTUDOS AMBIENTAIS
 
 ###### Art. 135 {#art135}
-Tags: #estudo-ambiental #potencial-poluidor #porte
+Tags: #potencial-poluidor #porte
 
 **Art. 135, caput** {#art135_cpt} Os estudos ambientais são definidos com base na relação entre o potencial poluidor/degradador, o porte e a localização dos empreendimentos e/ou atividades, considerando sua tipologia e a legislação específica aplicável.
 
 ###### Art. 136 {#art136}
-Tags: #estudo-ambiental #eia-rima #rap #ras #pca #pcpa #pgr #area-contaminada
+Tags: #eia-rima #rap #ras #pca #pcpa #pgr #area-contaminada
 
 **Art. 136, caput** {#art136_cpt} O Instituto Água e Terra - IAT poderá exigir, conforme a natureza do empreendimento, os seguintes estudos ambientais:
 - **Art. 136, caput, inciso I** {#art136_cpt_inc1} #eia-rima Estudo de Impacto Ambiental - EIA: estudo ambiental de empreendimentos e/ou atividades utilizadores de recursos ambientais, causadores ou potencialmente causadores de significativa poluição ou degradação do meio ambiente, a ser realizado previamente para análise de viabilidade ambiental, devendo ser seguido de Audiência Pública obrigatória;
@@ -1176,17 +1175,16 @@ Tags: #estudo-ambiental #eia-rima #rap #ras #pca #pcpa #pgr #area-contaminada
 - **Art. 136, caput, inciso X** {#art136_cpt_inc10} Outros estudos específicos: outros estudos ambientais que possam ser exigidos conforme a natureza do empreendimento e os impactos ambientais identificados.
 
 ###### Art. 137 {#art137}
-Tags: #estudo-ambiental
 
 **Art. 137, caput** {#art137_cpt} Os Termos de Referência para a elaboração dos estudos ambientais exigidos do empreendedor serão definidos pelo Instituto Água e Terra - IAT.
 
 ###### Art. 138 {#art138}
-Tags: #estudo-ambiental #area-sensivel
+Tags: #area-sensivel
 
 **Art. 138, caput** {#art138_cpt} O Instituto Água e Terra - IAT, desde que devidamente justificado, poderá exigir estudos específicos para empreendimentos e/ou atividades situados em áreas de relevância e sensibilidade ambiental, ou que envolvam tecnologias inovadoras, entre outros requisitos.
 
 ###### Art. 139 {#art139}
-Tags: #estudo-ambiental #monitoramento #parecer-tecnico
+Tags: #monitoramento #parecer-tecnico
 
 **Art. 139, caput** {#art139_cpt} Os estudos ambientais deverão ser analisados por técnicos do Instituto Água e Terra - IAT, devidamente habilitados nas áreas pertinentes, com base nos seguintes critérios mínimos:
 - **Art. 139, caput, inciso I** {#art139_cpt_inc1} atendimento ao Termo de Referência;
@@ -1196,7 +1194,7 @@ Tags: #estudo-ambiental #monitoramento #parecer-tecnico
 - **Art. 139, caput, inciso V** {#art139_cpt_inc5} emissão de parecer técnico.
 
 ###### Art. 140 {#art140}
-Tags: #estudo-ambiental #complementacao #taxa-ambiental
+Tags: #complementacao #taxa-ambiental
 
 **Art. 140, caput** {#art140_cpt} Os estudos ambientais que não atenderem aos Termos de Referência específicos ou que forem considerados incompletos, deverão ser corrigidos e reapresentados pelo empreendedor, conforme solicitação de complementação e prazos fixados pelo Instituto Água e Terra - IAT.
 
@@ -1211,7 +1209,7 @@ Tags: #estudo-ambiental #complementacao #taxa-ambiental
 **Art. 140, § 5º** {#art140_par5} Mediante solicitação formal e motivada do interessado, poderá ser desarquivado o procedimento de licenciamento ambiental, de acordo com critérios estabelecidos pelo Instituto Água e Terra - IAT.
 
 ###### Art. 141 {#art141}
-Tags: #estudo-ambiental #autorizacao-ambiental #controle-ambiental #lo #tac #taxa-ambiental
+Tags: #autorizacao-ambiental #lo #tac #taxa-ambiental
 
 **Art. 141, caput** {#art141_cpt} Nos casos em que os estudos ambientais não estejam vinculados a processos de licenciamento ambiental, como no caso de readequações ou melhorias de sistemas e medidas de controle ambiental, o interessado deverá solicitar Autorização Ambiental - AA, com protocolo que deverá conter:
 - **Art. 141, caput, inciso I** {#art141_cpt_inc1} requerimento de Licenciamento Ambiental;
@@ -1220,7 +1218,6 @@ Tags: #estudo-ambiental #autorizacao-ambiental #controle-ambiental #lo #tac #tax
 - **Art. 141, caput, inciso IV** {#art141_cpt_inc4} comprovante de recolhimento da Taxa Ambiental.
 
 ###### Art. 142 {#art142}
-Tags: #estudo-ambiental #georreferenciamento
 
 **Art. 142, caput** {#art142_cpt} O Instituto Água e Terra - IAT instituirá e manterá um banco de dados com os estudos ambientais aprovados, cuja utilização poderá ser permitida para subsidiar novos estudos e análises, desde que fundamentada e compatível com a localização, a metodologia de coleta e a época de levantamento.
 
@@ -1310,7 +1307,7 @@ Tags: #taxa-ambiental
 **Art. 153, caput** {#art153_cpt} A cobrança será realizada previamente à análise do requerimento, devendo o comprovante de recolhimento ser apresentado como condição para o prosseguimento do procedimento de licenciamento.
 
 ###### Art. 154 {#art154}
-Tags: #taxa-ambiental #complementacao-taxa
+Tags: #taxa-ambiental
 
 **Art. 154, caput** {#art154_cpt} O valor da Taxa Ambiental poderá ser complementado caso haja alteração no objeto ou extensão do licenciamento após o protocolo inicial, conforme critérios definidos na legislação específica.
 
@@ -1430,12 +1427,12 @@ Tags: #fiscalizacao #cooperacao-institucional
 ## TÍTULO IV – DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 ###### Art. 172 {#art172}
-Tags: #tipologia #estudo-ambiental #validade
+Tags: #tipologia #validade
 
 **Art. 172, caput** {#art172_cpt} Para cada tipologia de empreendimento e/ou atividade serão publicadas regulamentações específicas pelo Instituto Água e Terra - IAT, definindo os estudos ambientais, a documentação, bem como o prazo de validade para cada modalidade de licença, desde que não se ultrapasse os prazos estabelecidos neste Decreto.
 
 ###### Art. 173 {#art173}
-Tags: #direito-transicao #taxa-ambiental
+Tags: #taxa-ambiental
 
 **Art. 173, caput** {#art173_cpt} Os procedimentos de licenciamento ambiental protocolados até a data da entrada em vigor da [[lei-estadual-22252-2024|Lei nº 22.252, de 12 de dezembro de 2024]], e deste Decreto permanecerão sujeitos às normas vigentes à época do protocolo, respeitando-se integralmente os direitos adquiridos e o ato jurídico perfeito.
 
@@ -1449,7 +1446,7 @@ Tags: #vigencia
 **Art. 174, caput** {#art174_cpt} Este Decreto entra em vigor na data de sua publicação.
 
 ###### Art. 175 {#art175}
-Tags: #revogacao #cema #sema #sedest
+Tags: #cema #sema #sedest
 
 **Art. 175, caput** {#art175_cpt} Revoga:
 - **Art. 175, caput, inciso I** {#art175_cpt_inc1} as Resoluções do Conselho Estadual do Meio Ambiente - CEMA:

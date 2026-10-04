@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PBCA
 atividades: [industria]
 modalidades: [las, lasa, lasr]
-tags: [anexo, industria, pbca, efluente, emissao-atmosferica, residuo-solido, uso-agricola-efluente, classe-risco-solo, declividade, textura-solo]
+tags: [industria, pbca, efluente, emissao-atmosferica, residuo-solido, uso-agricola-efluente, classe-risco-solo, declividade, textura-solo]
 fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do PDF, com anexos)
 ---
 

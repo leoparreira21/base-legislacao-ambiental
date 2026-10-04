@@ -19,7 +19,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[lei-federal-6938-1981]]", "[[decreto-federal-99274-1990]]", "[[portaria-mma-168-2005]]", "[[resolucao-conama-357-2005]]", "[[lei-federal-9605-1998]]"]
-tags: [abastecimento-publico, art-anotacao, aterro, automonitoramento, baixo-potencial-poluidor, balneabilidade, cancelamento-licenca, capacidade-suporte, carga-poluidora, cianobacteria, cl50, classe-especial, conama, condicao-especial, corpo-intermitente, dbo, dcp, diluicao, direito-transicao, dispensa, disposicao-solo, ecotoxicidade, efluente, emissario-submarino, enquadramento, esgoto-sanitario, estudo-ambiental, fonte-poluicao, fosforo, infracao-ambiental, inmetro, laboratorio-acreditado, lagoa-tratamento, lancamento-direto, lancamento-excepcional, lancamento-indireto, laudo-tecnico, licenca-ambiental, licenciamento-ambiental, lixiviado, materiais-sedimentaveis, monitoramento, nivel-trofico, oleos-graxas, padrao-lancamento, padrao-qualidade, parametro-inorganico, parametro-organico, poluicao, pop, prazo, prazo-adequacao, prorrogacao-prazo, recurso-hidrico, renovacao, responsavel-tecnico, restricao-temporaria, reuso-efluente, revogacao, sancao, saneamento, servico-saude, suspensao-licenca, toxicidade, tratamento-efluente, tratamento-esgoto, vigencia, zona-mistura]
+tags: [abastecimento-publico, art-anotacao, automonitoramento, baixo-potencial-poluidor, balneabilidade, cancelamento-licenca, capacidade-suporte, carga-poluidora, cianobacteria, classe-especial, conama, condicao-especial, dbo, dcp, diluicao, dispensa, disposicao-solo, ecotoxicidade, efluente, emissario-submarino, enquadramento, esgoto-sanitario, fonte-poluicao, fosforo, infracao-ambiental, inmetro, laboratorio-acreditado, lagoa-tratamento, lancamento-indireto, laudo-tecnico, licenca-ambiental, licenciamento-ambiental, lixiviado, materiais-sedimentaveis, monitoramento, oleos-graxas, padrao-lancamento, padrao-qualidade, poluicao, pop, prazo, prorrogacao-prazo, recurso-hidrico, renovacao, responsavel-tecnico, restricao-temporaria, reuso-efluente, sancao, saneamento, servico-saude, suspensao-licenca, tratamento-efluente, tratamento-esgoto, vigencia, zona-mistura]
 fonte: "PDF redigitado em Word (11 páginas, sem brasão, sem assinatura), enviado por Leo; texto conferido com o PDF"
 ---
 
@@ -61,14 +61,14 @@ Tags: #padrao-lancamento #tratamento-efluente
   - **Art. 4º, caput, inciso III, alínea "a"** {#art4_cpt_inc3_alia} para corpos receptores confinados por calhas (rio, córregos etc.):
     CECR = vazão do efluente / (vazão do efluente + vazão de referência do corpo receptor) × 100
   - **Art. 4º, caput, inciso III, alínea "b"** {#art4_cpt_inc3_alib} para áreas marinhas, estuarinas e lagos a CECR é estabelecida com base em estudo da dispersão física do efluente no corpo hídrico receptor, sendo a CECR limitada pela zona de mistura definida pelo órgão ambiental;
-- **Art. 4º, caput, inciso IV** {#art4_cpt_inc4} #cl50 Concentração Letal Mediana-CL50 ou Concentração Efetiva Mediana-CE50: é a concentração do efluente que causa efeito agudo (letalidade ou imobilidade) a 50% dos organismos, em de terminado período de exposição, nas condições de ensaio;
+- **Art. 4º, caput, inciso IV** {#art4_cpt_inc4} Concentração Letal Mediana-CL50 ou Concentração Efetiva Mediana-CE50: é a concentração do efluente que causa efeito agudo (letalidade ou imobilidade) a 50% dos organismos, em de terminado período de exposição, nas condições de ensaio;
 - **Art. 4º, caput, inciso V** {#art4_cpt_inc5} #efluente Efluente: é o termo usado para caracterizar os despejos líquidos provenientes de diversas atividades ou processos;
 - **Art. 4º, caput, inciso VI** {#art4_cpt_inc6} #emissario-submarino Emissário submarino: tubulação provida de sistemas difusores destinada ao lançamento de efluentes no mar, na faixa compreendida entre a linha de base e o limite do mar territorial brasileiro;
 - **Art. 4º, caput, inciso VII** {#art4_cpt_inc7} #esgoto-sanitario Esgotos sanitários: denominação genérica para despejos líquidos residenciais, comerciais, águas de infiltração na rede coletora, os quais podem conter parcela de efluentes industriais e efluentes não domésticos;
 - **Art. 4º, caput, inciso VIII** {#art4_cpt_inc8} Fator de Toxicidade-FT: número adimensional que expressa a menor diluição do efluente que não causa efeito deletério agudo aos organismos, num determinado período de exposição, nas condições de ensaio;
-- **Art. 4º, caput, inciso IX** {#art4_cpt_inc9} #lancamento-direto Lançamento direto: quando ocorre a condução direta do efluente ao corpo receptor;
+- **Art. 4º, caput, inciso IX** {#art4_cpt_inc9} Lançamento direto: quando ocorre a condução direta do efluente ao corpo receptor;
 - **Art. 4º, caput, inciso X** {#art4_cpt_inc10} #lancamento-indireto Lançamento indireto: quando ocorre a condução do efluente, submetido ou não a tratamento, por meio de rede coletora que recebe outras contribuições antes de atingir o corpo receptor;
-- **Art. 4º, caput, inciso XI** {#art4_cpt_inc11} #nivel-trofico Nível trófico: posição de um organismo na cadeia trófica;
+- **Art. 4º, caput, inciso XI** {#art4_cpt_inc11} Nível trófico: posição de um organismo na cadeia trófica;
 - **Art. 4º, caput, inciso XII** {#art4_cpt_inc12} Parâmetro de qualidade do efluente: substâncias ou outros indicadores representativos dos contaminantes toxicologicamente e ambientalmente relevantes do efluente;
 - **Art. 4º, caput, inciso XIII** {#art4_cpt_inc13} #ecotoxicidade Testes de ecotoxicidade: métodos utilizados para detectar e avaliar a capacidade de um agente tóxico provocar efeito nocivo, utilizando bioindicadores dos grandes grupos de uma cadeia ecológica; e
 - **Art. 4º, caput, inciso XIV** {#art4_cpt_inc14} #zona-mistura Zona de mistura: região do corpo receptor, estimada com base em modelos teóricos aceitos pelo órgão ambiental competente, que se estende do ponto de lançamento do efluente, e de limitada pela superfície em que é atingido o equilíbrio de mistura entre os parâmetros físicos e químicos, bem como o equilíbrio biológico do efluente e os do corpo receptor, sendo específica para cada parâmetro.
@@ -87,7 +87,7 @@ Tags: #enquadramento #padrao-qualidade
 **Art. 5º, § 2º** {#art5_par2} Para os parâmetros não incluídos nas metas obrigatórias e na ausência de metas intermediárias progressivas, os padrões de qualidade a serem obedecidos no corpo receptor são os que constam na classe na qual o corpo receptor estiver enquadrado.
 
 ###### Art. 6º {#art6}
-Tags: #lancamento-excepcional #estudo-ambiental #prazo
+Tags: #prazo
 
 **Art. 6º, caput** {#art6_cpt} Excepcionalmente e em caráter temporário, o órgão ambiental competente poderá, mediante análise técnica fundamentada, autorizar o lançamento de efluentes em desacordo com as condições e padrões estabelecidos nesta Resolução, desde que observados os seguintes requisitos:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} comprovação de relevante interesse público, devidamente motivado;
@@ -140,28 +140,28 @@ Tags: #padrao-qualidade
 **Art. 12, parágrafo único** {#art12_par1u} Nos corpos de água em processo de recuperação, o lançamento de efluentes observará as metas obrigatórias progressivas, intermediárias e final.
 
 ###### Art. 13 {#art13}
-Tags: #zona-mistura #estudo-ambiental
+Tags: #zona-mistura
 
 **Art. 13, caput** {#art13_cpt} Na zona de mistura serão admitidas concentrações de substâncias em desacordo com os padrões de qualidade estabelecidos para o corpo receptor, desde que não comprometam os usos previstos para o mesmo.
 
 **Art. 13, parágrafo único** {#art13_par1u} A extensão e as concentrações de substâncias na zona de mistura deverão ser objeto de estudo, quando determinado pelo órgão ambiental competente, às expensas do empreendedor responsável pelo lançamento.
 
 ###### Art. 14 {#art14}
-Tags: #restricao-temporaria #toxicidade
+Tags: #restricao-temporaria
 
 **Art. 14, caput** {#art14_cpt} Sem prejuízo do disposto no [[#art3_par1u_inc1|inciso I do parágrafo único do art. 3º desta Resolução]], o órgão ambiental competente poderá, quando a vazão do corpo receptor estiver abaixo da vazão de referência, estabelecer restrições e medidas adicionais, de caráter excepcional e temporário, aos lançamentos de efluentes que possam, dentre outras consequências:
 - **Art. 14, caput, inciso I** {#art14_cpt_inc1} acarretar efeitos tóxicos agudos ou crônicos em organismos aquáticos; ou
 - **Art. 14, caput, inciso II** {#art14_cpt_inc2} inviabilizar o abastecimento das populações.
 
 ###### Art. 15 {#art15}
-Tags: #corpo-intermitente #condicao-especial #recurso-hidrico
+Tags: #condicao-especial #recurso-hidrico
 
 **Art. 15, caput** {#art15_cpt} Para o lançamento de efluentes tratados em leito seco de corpos receptores intermitentes, o órgão ambiental competente poderá definir condições especiais, ouvido o órgão gestor de recursos hídricos.
 
 ### Seção II – Das Condições e Padrões de Lançamento de Efluentes
 
 ###### Art. 16 {#art16}
-Tags: #padrao-lancamento #materiais-sedimentaveis #oleos-graxas #dbo #parametro-inorganico #parametro-organico #aterro #servico-saude
+Tags: #padrao-lancamento #materiais-sedimentaveis #oleos-graxas #dbo #servico-saude
 
 **Art. 16, caput** {#art16_cpt} Os efluentes de qualquer fonte poluidora somente poderão ser lançados diretamente no corpo receptor desde que obedeçam às condições e padrões previstos neste artigo, resguardadas outras exigências cabíveis:
 - **Art. 16, caput, inciso I** {#art16_cpt_inc1} condições de lançamento de efluentes:
@@ -178,39 +178,39 @@ Tags: #padrao-lancamento #materiais-sedimentaveis #oleos-graxas #dbo #parametro-
 
 **Art. 16, Tabela I** {#art16_tab1} TABELA I – padrões de lançamento de efluentes (inciso II) #padrao-lancamento
 
-- **Art. 16, Tabela I, linha 1** {#art16_tab1_lin1} #parametro-inorganico Parâmetros inorgânicos: Arsênio total | Valores máximos: 0,5 mg/L As
-- **Art. 16, Tabela I, linha 2** {#art16_tab1_lin2} #parametro-inorganico Parâmetros inorgânicos: Bário total | Valores máximos: 5,0 mg/L Ba
-- **Art. 16, Tabela I, linha 3** {#art16_tab1_lin3} #parametro-inorganico Parâmetros inorgânicos: Boro total (Não se aplica para o lançamento em águas salinas) | Valores máximos: 5,0 mg/L B
-- **Art. 16, Tabela I, linha 4** {#art16_tab1_lin4} #parametro-inorganico Parâmetros inorgânicos: Cádmio total | Valores máximos: 0,2 mg/L Cd
-- **Art. 16, Tabela I, linha 5** {#art16_tab1_lin5} #parametro-inorganico Parâmetros inorgânicos: Chumbo total | Valores máximos: 0,5 mg/L Pb
-- **Art. 16, Tabela I, linha 6** {#art16_tab1_lin6} #parametro-inorganico Parâmetros inorgânicos: Cianeto total | Valores máximos: 1,0 mg/L CN
-- **Art. 16, Tabela I, linha 7** {#art16_tab1_lin7} #parametro-inorganico Parâmetros inorgânicos: Cianeto livre (destilável por ácidos fracos) | Valores máximos: 0,2 mg/L CN
-- **Art. 16, Tabela I, linha 8** {#art16_tab1_lin8} #parametro-inorganico Parâmetros inorgânicos: Cobre dissolvido | Valores máximos: 1,0 mg/L Cu
-- **Art. 16, Tabela I, linha 9** {#art16_tab1_lin9} #parametro-inorganico Parâmetros inorgânicos: Cromo hexavalente | Valores máximos: 0,1 mg/L Cr+6
-- **Art. 16, Tabela I, linha 10** {#art16_tab1_lin10} #parametro-inorganico Parâmetros inorgânicos: Cromo trivalente | Valores máximos: 1,0 mg/L Cr+3
-- **Art. 16, Tabela I, linha 11** {#art16_tab1_lin11} #parametro-inorganico Parâmetros inorgânicos: Estanho total | Valores máximos: 4,0 mg/L Sn
-- **Art. 16, Tabela I, linha 12** {#art16_tab1_lin12} #parametro-inorganico Parâmetros inorgânicos: Ferro dissolvido | Valores máximos: 15,0 mg/L Fe
-- **Art. 16, Tabela I, linha 13** {#art16_tab1_lin13} #parametro-inorganico Parâmetros inorgânicos: Fluoreto total | Valores máximos: 10,0 mg/L F
-- **Art. 16, Tabela I, linha 14** {#art16_tab1_lin14} #parametro-inorganico Parâmetros inorgânicos: Manganês dissolvido | Valores máximos: 1,0 mg/L Mn
-- **Art. 16, Tabela I, linha 15** {#art16_tab1_lin15} #parametro-inorganico Parâmetros inorgânicos: Mercúrio total | Valores máximos: 0,01 mg/L Hg
-- **Art. 16, Tabela I, linha 16** {#art16_tab1_lin16} #parametro-inorganico Parâmetros inorgânicos: Níquel total | Valores máximos: 2,0 mg/L Ni
-- **Art. 16, Tabela I, linha 17** {#art16_tab1_lin17} #parametro-inorganico Parâmetros inorgânicos: Nitrogênio amoniacal total | Valores máximos: 20,0 mg/L N
-- **Art. 16, Tabela I, linha 18** {#art16_tab1_lin18} #parametro-inorganico Parâmetros inorgânicos: Prata total | Valores máximos: 0,1 mg/L Ag
-- **Art. 16, Tabela I, linha 19** {#art16_tab1_lin19} #parametro-inorganico Parâmetros inorgânicos: Selênio total | Valores máximos: 0,30 mg/L Se
-- **Art. 16, Tabela I, linha 20** {#art16_tab1_lin20} #parametro-inorganico Parâmetros inorgânicos: Sulfeto | Valores máximos: 1,0 mg/L S
-- **Art. 16, Tabela I, linha 21** {#art16_tab1_lin21} #parametro-inorganico Parâmetros inorgânicos: Zinco total | Valores máximos: 5,0 mg/L Zn
-- **Art. 16, Tabela I, linha 22** {#art16_tab1_lin22} #parametro-organico Parâmetros Orgânicos: Benzeno | Valores máximos: 1,2 mg/L
-- **Art. 16, Tabela I, linha 23** {#art16_tab1_lin23} #parametro-organico Parâmetros Orgânicos: Clorofórmio | Valores máximos: 1,0 mg/L
-- **Art. 16, Tabela I, linha 24** {#art16_tab1_lin24} #parametro-organico Parâmetros Orgânicos: Dicloroeteno (somatório de 1,1 + 1,2 cis + 1,2 trans) | Valores máximos: 1,0 mg/L
-- **Art. 16, Tabela I, linha 25** {#art16_tab1_lin25} #parametro-organico Parâmetros Orgânicos: Estireno | Valores máximos: 0,07 mg/L
-- **Art. 16, Tabela I, linha 26** {#art16_tab1_lin26} #parametro-organico Parâmetros Orgânicos: Etilbenzeno | Valores máximos: 0,84 mg/L
-- **Art. 16, Tabela I, linha 27** {#art16_tab1_lin27} #parametro-organico Parâmetros Orgânicos: fenóis totais (substâncias que reagem com 4-aminoantipirina) | Valores máximos: 0,5 mg/L C6H5OH
-- **Art. 16, Tabela I, linha 28** {#art16_tab1_lin28} #parametro-organico Parâmetros Orgânicos: Tetracloreto de carbono | Valores máximos: 1,0 mg/L
-- **Art. 16, Tabela I, linha 29** {#art16_tab1_lin29} #parametro-organico Parâmetros Orgânicos: Tricloroeteno | Valores máximos: 1,0 mg/L
-- **Art. 16, Tabela I, linha 30** {#art16_tab1_lin30} #parametro-organico Parâmetros Orgânicos: Tolueno | Valores máximos: 1,2 mg/L
-- **Art. 16, Tabela I, linha 31** {#art16_tab1_lin31} #parametro-organico Parâmetros Orgânicos: Xileno | Valores máximos: 1,6 mg/L
+- **Art. 16, Tabela I, linha 1** {#art16_tab1_lin1} Parâmetros inorgânicos: Arsênio total | Valores máximos: 0,5 mg/L As
+- **Art. 16, Tabela I, linha 2** {#art16_tab1_lin2} Parâmetros inorgânicos: Bário total | Valores máximos: 5,0 mg/L Ba
+- **Art. 16, Tabela I, linha 3** {#art16_tab1_lin3} Parâmetros inorgânicos: Boro total (Não se aplica para o lançamento em águas salinas) | Valores máximos: 5,0 mg/L B
+- **Art. 16, Tabela I, linha 4** {#art16_tab1_lin4} Parâmetros inorgânicos: Cádmio total | Valores máximos: 0,2 mg/L Cd
+- **Art. 16, Tabela I, linha 5** {#art16_tab1_lin5} Parâmetros inorgânicos: Chumbo total | Valores máximos: 0,5 mg/L Pb
+- **Art. 16, Tabela I, linha 6** {#art16_tab1_lin6} Parâmetros inorgânicos: Cianeto total | Valores máximos: 1,0 mg/L CN
+- **Art. 16, Tabela I, linha 7** {#art16_tab1_lin7} Parâmetros inorgânicos: Cianeto livre (destilável por ácidos fracos) | Valores máximos: 0,2 mg/L CN
+- **Art. 16, Tabela I, linha 8** {#art16_tab1_lin8} Parâmetros inorgânicos: Cobre dissolvido | Valores máximos: 1,0 mg/L Cu
+- **Art. 16, Tabela I, linha 9** {#art16_tab1_lin9} Parâmetros inorgânicos: Cromo hexavalente | Valores máximos: 0,1 mg/L Cr+6
+- **Art. 16, Tabela I, linha 10** {#art16_tab1_lin10} Parâmetros inorgânicos: Cromo trivalente | Valores máximos: 1,0 mg/L Cr+3
+- **Art. 16, Tabela I, linha 11** {#art16_tab1_lin11} Parâmetros inorgânicos: Estanho total | Valores máximos: 4,0 mg/L Sn
+- **Art. 16, Tabela I, linha 12** {#art16_tab1_lin12} Parâmetros inorgânicos: Ferro dissolvido | Valores máximos: 15,0 mg/L Fe
+- **Art. 16, Tabela I, linha 13** {#art16_tab1_lin13} Parâmetros inorgânicos: Fluoreto total | Valores máximos: 10,0 mg/L F
+- **Art. 16, Tabela I, linha 14** {#art16_tab1_lin14} Parâmetros inorgânicos: Manganês dissolvido | Valores máximos: 1,0 mg/L Mn
+- **Art. 16, Tabela I, linha 15** {#art16_tab1_lin15} Parâmetros inorgânicos: Mercúrio total | Valores máximos: 0,01 mg/L Hg
+- **Art. 16, Tabela I, linha 16** {#art16_tab1_lin16} Parâmetros inorgânicos: Níquel total | Valores máximos: 2,0 mg/L Ni
+- **Art. 16, Tabela I, linha 17** {#art16_tab1_lin17} Parâmetros inorgânicos: Nitrogênio amoniacal total | Valores máximos: 20,0 mg/L N
+- **Art. 16, Tabela I, linha 18** {#art16_tab1_lin18} Parâmetros inorgânicos: Prata total | Valores máximos: 0,1 mg/L Ag
+- **Art. 16, Tabela I, linha 19** {#art16_tab1_lin19} Parâmetros inorgânicos: Selênio total | Valores máximos: 0,30 mg/L Se
+- **Art. 16, Tabela I, linha 20** {#art16_tab1_lin20} Parâmetros inorgânicos: Sulfeto | Valores máximos: 1,0 mg/L S
+- **Art. 16, Tabela I, linha 21** {#art16_tab1_lin21} Parâmetros inorgânicos: Zinco total | Valores máximos: 5,0 mg/L Zn
+- **Art. 16, Tabela I, linha 22** {#art16_tab1_lin22} Parâmetros Orgânicos: Benzeno | Valores máximos: 1,2 mg/L
+- **Art. 16, Tabela I, linha 23** {#art16_tab1_lin23} Parâmetros Orgânicos: Clorofórmio | Valores máximos: 1,0 mg/L
+- **Art. 16, Tabela I, linha 24** {#art16_tab1_lin24} Parâmetros Orgânicos: Dicloroeteno (somatório de 1,1 + 1,2 cis + 1,2 trans) | Valores máximos: 1,0 mg/L
+- **Art. 16, Tabela I, linha 25** {#art16_tab1_lin25} Parâmetros Orgânicos: Estireno | Valores máximos: 0,07 mg/L
+- **Art. 16, Tabela I, linha 26** {#art16_tab1_lin26} Parâmetros Orgânicos: Etilbenzeno | Valores máximos: 0,84 mg/L
+- **Art. 16, Tabela I, linha 27** {#art16_tab1_lin27} Parâmetros Orgânicos: fenóis totais (substâncias que reagem com 4-aminoantipirina) | Valores máximos: 0,5 mg/L C6H5OH
+- **Art. 16, Tabela I, linha 28** {#art16_tab1_lin28} Parâmetros Orgânicos: Tetracloreto de carbono | Valores máximos: 1,0 mg/L
+- **Art. 16, Tabela I, linha 29** {#art16_tab1_lin29} Parâmetros Orgânicos: Tricloroeteno | Valores máximos: 1,0 mg/L
+- **Art. 16, Tabela I, linha 30** {#art16_tab1_lin30} Parâmetros Orgânicos: Tolueno | Valores máximos: 1,2 mg/L
+- **Art. 16, Tabela I, linha 31** {#art16_tab1_lin31} Parâmetros Orgânicos: Xileno | Valores máximos: 1,6 mg/L
 
-**Art. 16, § 1º** {#art16_par1} #aterro Os efluentes oriundos de sistemas de disposição final de resíduos sólidos de qualquer origem devem atender às condições e padrões definidos neste artigo.
+**Art. 16, § 1º** {#art16_par1} Os efluentes oriundos de sistemas de disposição final de resíduos sólidos de qualquer origem devem atender às condições e padrões definidos neste artigo.
 
 **Art. 16, § 2º** {#art16_par2} #esgoto-sanitario Os efluentes oriundos de sistemas de tratamento de esgotos sanitários devem atender às condições e padrões específicos definidos na Seção III desta Resolução.
 
@@ -224,7 +224,7 @@ Tags: #fosforo #cianobacteria #abastecimento-publico
 **Art. 17, caput** {#art17_cpt} O órgão ambiental competente poderá definir padrões específicos para o parâmetro fósforo no caso de lançamento de efluentes em corpos receptores com registro histórico de floração de cianobactérias, em trechos onde ocorra a captação para abastecimento público.
 
 ###### Art. 18 {#art18}
-Tags: #ecotoxicidade #nivel-trofico #cl50
+Tags: #ecotoxicidade
 
 **Art. 18, caput** {#art18_cpt} O efluente não deverá causar ou possuir potencial para causar efeitos tóxicos aos organismos aquáticos no corpo receptor, de acordo com os critérios de ecotoxicidade estabelecidos pelo órgão ambiental competente.
 
@@ -249,7 +249,7 @@ Tags: #ecotoxicidade
 **Art. 19, caput** {#art19_cpt} O órgão ambiental competente deverá determinar quais empreendimentos e atividades deverão realizar os ensaios de ecotoxicidade, considerando as características dos efluentes gerados e do corpo receptor.
 
 ###### Art. 20 {#art20}
-Tags: #emissario-submarino #balneabilidade #zona-mistura #estudo-ambiental #monitoramento
+Tags: #emissario-submarino #balneabilidade #zona-mistura #monitoramento
 
 **Art. 20, caput** {#art20_cpt} O lançamento de efluentes efetuado por meio de emissários submarinos deve atender, após tratamento, aos padrões e condições de lançamento previstas nesta Resolução, aos padrões da classe do corpo receptor, após o limite da zona de mistura, e ao padrão de balneabilidade, de acordo com normas e legislação vigentes.
 
@@ -276,7 +276,7 @@ Tags: #esgoto-sanitario #tratamento-esgoto #padrao-lancamento #dbo #oleos-graxas
 
 **Art. 21, § 1º** {#art21_par1} As condições e padrões de lançamento relacionados na Seção II, [[#art16_cpt_inc1|art. 16, incisos I e II desta Resolução]], poderão ser aplicáveis aos sistemas de tratamento de esgotos sanitários, a critério do órgão ambiental competente, em função das características locais, não sendo exigível o padrão de nitrogênio amoniacal total.
 
-**Art. 21, § 2º** {#art21_par2} #lixiviado #aterro No caso de sistemas de tratamento de esgotos sanitários que recebam lixiviados de aterros sanitários, o órgão ambiental competente deverá indicar quais os parâmetros da [[#art16_tab1|Tabela I do art. 16, inciso II desta Resolução]] que deverão ser atendidos e monitorados, não sendo exigível o padrão de nitrogênio amoniacal total.
+**Art. 21, § 2º** {#art21_par2} #lixiviado No caso de sistemas de tratamento de esgotos sanitários que recebam lixiviados de aterros sanitários, o órgão ambiental competente deverá indicar quais os parâmetros da [[#art16_tab1|Tabela I do art. 16, inciso II desta Resolução]] que deverão ser atendidos e monitorados, não sendo exigível o padrão de nitrogênio amoniacal total.
 
 **Art. 21, § 3º** {#art21_par3} #lagoa-tratamento Para a determinação da eficiência de remoção de carga poluidora em termos de DBO5,20 para sistemas de tratamento com lagoas de estabilização, a amostra do efluente deverá ser filtrada.
 
@@ -347,7 +347,7 @@ Tags: #dcp #carga-poluidora #art-anotacao #prazo
 ## CAPÍTULO IV – DAS DISPOSIÇÕES FINAIS
 
 ###### Art. 29 {#art29}
-Tags: #prazo-adequacao #direito-transicao #licenca-ambiental #prorrogacao-prazo
+Tags: #licenca-ambiental #prorrogacao-prazo
 
 **Art. 29, caput** {#art29_cpt} Aos empreendimentos e demais atividades poluidoras que, na data da publicação desta Resolução, contarem com licença ambiental expedida, poderá ser concedido, a critério do órgão ambiental competente, prazo de até três anos, contados a partir da publicação da presente Resolução, para se adequarem às condições e padrões novos ou mais rigorosos estabelecidos nesta norma.
 
@@ -368,7 +368,6 @@ Tags: #vigencia
 **Art. 31, caput** {#art31_cpt} Esta Resolução entra em vigor na data de sua publicação.
 
 ###### Art. 32 {#art32}
-Tags: #revogacao
 
 **Art. 32, caput** {#art32_cpt} Revogam-se [[resolucao-conama-357-2005#art2_cpt_inc38|o inciso XXXVIII do art. 2º]], [[resolucao-conama-357-2005#art24|os art. 24 a 37]] e [[resolucao-conama-357-2005#art39|os art. 39, 43, 44 e 46]], da [[resolucao-conama-357-2005|Resolução CONAMA nº 357, de 2005]].
 

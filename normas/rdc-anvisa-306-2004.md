@@ -20,7 +20,7 @@ alterado_por: []
 revoga: ["[[rdc-anvisa-33-2003]]"]
 revogado_por: ["[[rdc-anvisa-222-2018]]"]
 cita: ["[[decreto-federal-2657-1998]]", "[[decreto-federal-3029-1999]]", "[[instrucao-normativa-ctnbio-7-1997]]", "[[lei-federal-6189-1974]]", "[[lei-federal-6437-1977]]", "[[lei-federal-9782-1999]]", "[[portaria-anvisa-593-2000]]", "[[portaria-iap-26-2006]]", "[[portaria-mte-3214-1978]]", "[[portaria-svs-ms-344-1998]]", "[[portaria-svs-ms-8-1996]]", "[[rdc-anvisa-222-2018]]", "[[rdc-anvisa-305-2002]]", "[[rdc-anvisa-33-2003]]", "[[rdc-anvisa-50-2002]]", "[[resolucao-conama-237-1997]]", "[[resolucao-conama-257-1999]]", "[[resolucao-conama-275-2001]]", "[[resolucao-conama-283-2001]]", "[[resolucao-conama-316-2002]]", "[[resolucao-conama-5-1993]]", "[[resolucao-conama-6-1991]]"]
-tags: [acondicionamento, anexo, armazenamento-residuo, aterro-classe-i, aterro-sanitario, classificacao-residuo, competencia, compostagem, contratacao-terceiro, dimensionamento, disposicao-final, embalagem, esgoto-sanitario, fiscalizacao, fispq, gerenciamento-residuo, grupo-a, grupo-b, grupo-c, grupo-d, grupo-e, incineracao, infracao-sanitaria, licenca-ambiental, medicamento, mercurio, metal-pesado, monitoramento, perfurocortante, pgrss, pilha-bateria, prazo, prazo-adequacao, radiologia, reciclagem, rejeito-radioativo, residuo-liquido, residuo-perigoso, residuo-servico-saude, revogacao, sancao, saude-ocupacional, segregacao, servico-limpeza-urbana, situacao-emergencia, transporte-externo, transporte-interno, tratamento-residuo, vigencia]
+tags: [acondicionamento, armazenamento-residuo, aterro-classe-i, aterro-sanitario, classificacao-residuo, competencia, compostagem, contratacao-terceiro, dimensionamento, disposicao-final, embalagem, esgoto-sanitario, fiscalizacao, fispq, gerenciamento-residuo, grupo-a, grupo-b, grupo-c, grupo-d, grupo-e, incineracao, infracao-sanitaria, licenca-ambiental, medicamento, mercurio, metal-pesado, monitoramento, perfurocortante, pgrss, pilha-bateria, prazo, radiologia, reciclagem, rejeito-radioativo, residuo-liquido, residuo-perigoso, residuo-servico-saude, sancao, saude-ocupacional, segregacao, servico-limpeza-urbana, situacao-emergencia, transporte-externo, transporte-interno, tratamento-residuo, vigencia]
 fonte: "PDF sem timbre gerado do Word (\"Resolução RDC-ANVISA nº 306, de 07-12-2004.doc\", Acrobat PDFWriter 5.0, 41 páginas), enviado por Leo; conferido com o PDF. Sem data e página do DOU."
 ---
 
@@ -37,7 +37,7 @@ fonte: "PDF sem timbre gerado do Word (\"Resolução RDC-ANVISA nº 306, de 07-1
 **Preâmbulo** {#preambulo} A Diretoria Colegiada da Agência Nacional de Vigilância Sanitária, no uso da atribuição que lhe confere o art. 11, inciso IV, do Regulamento da ANVISA aprovado pelo [[decreto-federal-3029-1999|Decreto n.º 3.029, de 16 de abril de 1999]], c/c o Art. 111, inciso I, alínea "b", § 1º do Regimento Interno aprovado pela [[portaria-anvisa-593-2000|Portaria n.º 593, de 25 de agosto de 2000]], publicada no DOU de 22 de dezembro de 2000, em reunião realizada em 6 de dezembro de 2004, considerando as atribuições contidas nos Art. 6º , Art. 7º, inciso III e Art. 8º da [[lei-federal-9782-1999|Lei 9782, de 26 de janeiro de 1999]]; considerando a necessidade de aprimoramento, atualização e complementação dos procedimentos contidos na [[rdc-anvisa-33-2003|Resolução RDC 33, de 25 de fevereiro de 2003]], relativos ao gerenciamento dos resíduos gerados nos serviços de saúde - RSS, com vistas a preservar a saúde pública e a qualidade do meio ambiente considerando os princípios da biossegurança de empregar medidas técnicas, administrativas e normativas para prevenir acidentes, preservando a saúde pública e o meio ambiente; considerando que os serviços de saúde são os responsáveis pelo correto gerenciamento de todos os RSS por eles gerados, atendendo às normas e exigências legais, desde o momento de sua geração até a sua destinação final; considerando que a segregação dos RSS, no momento e local de sua geração, permite reduzir o volume de resíduos perigosos e a incidência de acidentes ocupacionais dentre outros benefícios à saúde pública e ao meio ambiente; considerando a necessidade de disponibilizar informações técnicas aos estabelecimentos de saúde, assim como aos órgãos de vigilância sanitária, sobre as técnicas adequadas de manejo dos RSS, seu gerenciamento e fiscalização; Adota a seguinte Resolução da Diretoria Colegiada e eu, Diretor-Presidente, determino a sua publicação:
 
 ###### Art. 1º {#art1}
-Tags: #residuo-servico-saude #gerenciamento-residuo #anexo
+Tags: #residuo-servico-saude #gerenciamento-residuo
 
 **Art. 1º, caput** {#art1_cpt} Aprovar o Regulamento Técnico para o Gerenciamento de Resíduos de Serviços de Saúde, [[#anexo1|em Anexo a esta Resolução]], a ser observado em todo o território nacional, na área pública e privada.
 
@@ -57,12 +57,12 @@ Tags: #infracao-sanitaria #sancao
 **Art. 4º, caput** {#art4_cpt} A inobservância do disposto nesta Resolução e seu Regulamento Técnico configura infração sanitária e sujeitará o infrator às penalidades previstas na [[lei-federal-6437-1977|Lei nº. 6.437, de 20 de agosto de 1977]], sem prejuízo das responsabilidades civil e penal cabíveis.
 
 ###### Art. 5º {#art5}
-Tags: #prazo-adequacao #prazo
+Tags: #prazo
 
 **Art. 5º, caput** {#art5_cpt} Todos os serviços em funcionamento, abrangidos pelo Regulamento Técnico em anexo, têm prazo máximo de 180 dias para se adequarem aos requisitos nele contidos. A partir da publicação do Regulamento Técnico, os novos serviços e aqueles que pretendam reiniciar suas atividades, devem atender na íntegra as exigências nele contidas, previamente ao seu funcionamento.
 
 ###### Art. 6º {#art6}
-Tags: #vigencia #revogacao
+Tags: #vigencia
 
 **Art. 6º, caput** {#art6_cpt} Esta Resolução da Diretoria Colegiada entra em vigor na data de sua publicação, ficando revogada a [[rdc-anvisa-33-2003|Resolução ANVISA - RDC nº. 33, de 25 de fevereiro de 2003]].
 

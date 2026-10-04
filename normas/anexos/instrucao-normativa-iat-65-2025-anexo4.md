@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [industria]
 modalidades: [lac, lp, lpa, lor]
-tags: [anexo, industria, memorial-caracterizacao]
+tags: [industria, memorial-caracterizacao]
 fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do PDF, com anexos)
 ---
 

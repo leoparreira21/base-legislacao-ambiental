@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCPA
 atividades: [armazenamento-agrotoxico]
 modalidades: [li, lia]
-tags: [anexo, agrotoxico, armazenamento-agrotoxico, pcpa, rap, porte-excepcional, li, lia, automonitoramento, emissao-atmosferica, poluicao-sonora, terraplanagem, supressao-vegetacao, medida-compensatoria, plano-recuperacao, area-degradada, agua-subterranea, corpo-hidrico, efluente, pgrs, residuo-construcao-civil, agua-pluvial, tratamento-efluente, art-anotacao]
+tags: [agrotoxico, armazenamento-agrotoxico, pcpa, rap, porte-excepcional, li, lia, automonitoramento, emissao-atmosferica, poluicao-sonora, terraplanagem, supressao-vegetacao, medida-compensatoria, plano-recuperacao, area-degradada, agua-subterranea, corpo-hidrico, efluente, pgrs, residuo-construcao-civil, agua-pluvial, tratamento-efluente, art-anotacao]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), páginas 98 a 99
 ---
 

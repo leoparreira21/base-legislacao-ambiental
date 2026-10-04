@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[lei-estadual-8935-1989]]", "[[decreto-estadual-13433-2026]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-11977-2022]]", "[[lei-federal-9433-1997]]", "[[lei-estadual-12726-1999]]", "[[lei-estadual-22252-2024]]", "[[decreto-estadual-9541-2025]]", "[[lei-complementar-federal-140-2011]]", "[[decreto-estadual-9957-2014]]", "[[resolucao-conama-357-2005]]", "[[resolucao-conama-430-2011]]"]
-tags: [abastecimento-publico, agrotoxico, aid, aii, anexo, area-drenagem, area-influencia, area-urbana, aterro, bovinocultura, camara-tecnica-mananciais, captacao, classe-2, combustivel, curtume, densidade-demografica, direito-transicao, dominio-uniao, efluente, empreendimento-imobiliario, enquadramento, esgotamento-sanitario, fator-forma, galvanoplastia, gerenciamento-residuo, hospital, industria, industria-metalurgica, industria-quimica, industria-textil, infiltracao, infracao-ambiental, lancamento, licenciamento-ambiental, manancial, mandioca, outorga, papel-celulose, parcelamento-solo, plano-adequacao, populacao-limite, prazo, proibicao, raio-protecao, recurso-hidrico, rede-esgoto, renovacao, reservatorio, residuo-perigoso, reuso-efluente, sancao, sucroalcooleira, suinocultura, textura-solo, uso-solo, vigencia, zona-mistura]
+tags: [abastecimento-publico, agrotoxico, aid, aii, area-drenagem, area-influencia, area-urbana, bovinocultura, camara-tecnica-mananciais, captacao, classe-2, combustivel, curtume, dominio-uniao, efluente, empreendimento-imobiliario, enquadramento, esgotamento-sanitario, galvanoplastia, gerenciamento-residuo, hospital, industria, industria-metalurgica, industria-quimica, industria-textil, infiltracao, infracao-ambiental, lancamento, licenciamento-ambiental, manancial, mandioca, outorga, papel-celulose, parcelamento-solo, prazo, proibicao, raio-protecao, recurso-hidrico, rede-esgoto, renovacao, reservatorio, residuo-perigoso, reuso-efluente, sancao, sucroalcooleira, suinocultura, textura-solo, uso-solo, vigencia, zona-mistura]
 anexos: "tipo 3 (normativos, neste arquivo): I (metodologia do IIVBM e delimitação da ADA, AID e AII) e II (mapa exemplificativo, descrito)"
 fonte: "PDF assinado eletronicamente pelo Diretor-Presidente do IAT (18 páginas, Word 2019, com os Anexos I e II), enviado por Leo"
 ---
@@ -101,7 +101,7 @@ Tags: #manancial #area-influencia #aid #aii
 ### Seção I – Da Área Diretamente Afetada - ADA
 
 ###### Art. 5º {#art5}
-Tags: #manancial #proibicao #industria #efluente #residuo-perigoso #aterro #hospital #suinocultura #bovinocultura #combustivel #camara-tecnica-mananciais
+Tags: #manancial #proibicao #industria #efluente #residuo-perigoso #hospital #suinocultura #bovinocultura #combustivel #camara-tecnica-mananciais
 
 **Art. 5º, caput** {#art5_cpt} Fica proibida a instalação de novos empreendimentos e/ou atividades nas delimitações classificadas como Área Diretamente Afetada (ADA), abrangendo as seguintes tipologias de alto potencial poluidor ou degradador:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} indústrias que contemplem geração de efluentes líquidos com alto potencial poluidor, tais como:
@@ -178,7 +178,6 @@ Tags: #manancial #parcelamento-solo #empreendimento-imobiliario
 **Art. 12, caput** {#art12_cpt} A implantação de novos empreendimentos de parcelamento de solo (loteamento, condomínios, entre outros) não poderá ultrapassar a Capacidade de Suporte do Território (CST).
 
 ###### Art. 13 {#art13}
-Tags: #populacao-limite
 
 **Art. 13, caput** {#art13_cpt} A CST é determinada por meio da população limite (PL), calculada pela equação:
 PL = 62.95⋅Qrio
@@ -205,7 +204,7 @@ Tags: #renovacao #outorga #manancial #lancamento
 ## CAPÍTULO VI – DAS DISPOSIÇÕES TRANSITÓRIAS E FINAIS
 
 ###### Art. 16 {#art16}
-Tags: #plano-adequacao #prazo #manancial #camara-tecnica-mananciais #direito-transicao
+Tags: #prazo #manancial #camara-tecnica-mananciais
 
 **Art. 16, caput** {#art16_cpt} Empreendimentos e/ou atividades já instalados e em operação nas áreas de bacias mananciais - ADA, AID e AII, que não atendam ao disposto nesta Instrução Normativa, deverão apresentar planos de adequação em até 12 (doze) meses da publicação desta Instrução Normativa, contemplando adequações do sistema de tratamento de efluentes, ponto de lançamento do efluente e demais medidas mitigadoras, conforme critérios técnicos estabelecidos pelo órgão ambiental para cumprimento desta Instrução Normativa.
 
@@ -217,7 +216,7 @@ Tags: #sancao #infracao-ambiental
 **Art. 17, caput** {#art17_cpt} O descumprimento das disposições desta Instrução Normativa sujeitará os infratores às sanções previstas na legislação ambiental vigente, sem prejuízo de outras medidas cabíveis.
 
 ###### Art. 18 {#art18}
-Tags: #direito-transicao #outorga
+Tags: #outorga
 
 **Art. 18, caput** {#art18_cpt} Os procedimentos de licenciamento ambiental de empreendimentos e/ou e para empreendimentos e/ou atividades já instalados nas áreas de bacias mananciais - ADA, AID e AII, de outorga para usos de recursos hídricos já instalados, protocolados até a data da entrada em vigor desta Instrução Normativa permanecerão sujeitos às normas vigentes à época da solicitação, observada a necessidade de cumprimento do [[#art15|art. 15]].
 
@@ -239,7 +238,7 @@ Tags: #vigencia
 ## ANEXOS
 
 ### ANEXO I {#anexo1}
-Tags: #anexo #manancial #area-influencia #aid #aii #raio-protecao
+Tags: #manancial #area-influencia #aid #aii #raio-protecao
 
 *(Tipo 3: conteúdo normativo. Metodologia de delimitação das áreas de proteção, citada no [[#art4_par1u|art. 4º, parágrafo único]]. A página do anexo não traz o título "ANEXO I"; ver Notas de transcrição.)*
 
@@ -294,10 +293,10 @@ Tags: #anexo #manancial #area-influencia #aid #aii #raio-protecao
 
 **Anexo I, Tabela 2** {#anexo1_tab2} Graduação do fator de forma (item 2.3) (sem título no original)
 
-- **Anexo I, Tabela 2, linha 1** {#anexo1_tab2_lin1} #fator-forma Kf: ≤ 0,15 | Pontuação: 0 ponto
-- **Anexo I, Tabela 2, linha 2** {#anexo1_tab2_lin2} #fator-forma Kf: Entre 0,15 e ≤ 0,30 | Pontuação: 5 pontos
-- **Anexo I, Tabela 2, linha 3** {#anexo1_tab2_lin3} #fator-forma Kf: Entre 0,30 e ≤ 0,45 | Pontuação: 10 pontos
-- **Anexo I, Tabela 2, linha 4** {#anexo1_tab2_lin4} #fator-forma Kf: >0,45 | Pontuação: 15 pontos
+- **Anexo I, Tabela 2, linha 1** {#anexo1_tab2_lin1} Kf: ≤ 0,15 | Pontuação: 0 ponto
+- **Anexo I, Tabela 2, linha 2** {#anexo1_tab2_lin2} Kf: Entre 0,15 e ≤ 0,30 | Pontuação: 5 pontos
+- **Anexo I, Tabela 2, linha 3** {#anexo1_tab2_lin3} Kf: Entre 0,30 e ≤ 0,45 | Pontuação: 10 pontos
+- **Anexo I, Tabela 2, linha 4** {#anexo1_tab2_lin4} Kf: >0,45 | Pontuação: 15 pontos
 
 
 **2.4 Declividade média (S)**
@@ -406,9 +405,9 @@ Tags: #anexo #manancial #area-influencia #aid #aii #raio-protecao
 
 **Anexo I, Tabela 8** {#anexo1_tab8} Graduação da densidade de domicílios (item 2.10) (sem título no original)
 
-- **Anexo I, Tabela 8, linha 1** {#anexo1_tab8_lin1} #densidade-demografica Densidade (domicílios/km²): ≤ 300 | Pontuação: 0 ponto
-- **Anexo I, Tabela 8, linha 2** {#anexo1_tab8_lin2} #densidade-demografica Densidade (domicílios/km²): Entre 300 e ≤ 1800 | Pontuação: 5 pontos
-- **Anexo I, Tabela 8, linha 3** {#anexo1_tab8_lin3} #densidade-demografica Densidade (domicílios/km²): >1800 | Pontuação: 10 pontos
+- **Anexo I, Tabela 8, linha 1** {#anexo1_tab8_lin1} Densidade (domicílios/km²): ≤ 300 | Pontuação: 0 ponto
+- **Anexo I, Tabela 8, linha 2** {#anexo1_tab8_lin2} Densidade (domicílios/km²): Entre 300 e ≤ 1800 | Pontuação: 5 pontos
+- **Anexo I, Tabela 8, linha 3** {#anexo1_tab8_lin3} Densidade (domicílios/km²): >1800 | Pontuação: 10 pontos
 
 
 **2.11 Domicílios sem coleta de esgoto**
@@ -442,7 +441,7 @@ Tags: #anexo #manancial #area-influencia #aid #aii #raio-protecao
 - **Anexo I, linha 84** {#anexo1_lin84} #aid #aii Quando remanescem parcelas residuais da bacia hidrográfica após a aplicação dos critérios de delimitação, e as áreas já classificadas como ADA e AID correspondem conjuntamente a mais de 85% da área total considerada, tais remanescentes são incorporados à classe de restrição imediatamente anterior (ADA ou AID), conforme o caso, com o objetivo de evitar descontinuidades espaciais, fragmentação excessiva das áreas de proteção e a formação de polígonos residuais de reduzida expressão territorial, sem prejuízo aos objetivos de proteção do manancial.
 
 ### ANEXO II {#anexo2}
-Tags: #anexo #manancial #aid #aii
+Tags: #manancial #aid #aii
 
 **MAPA EXEMPLIFICATIVO DAS ÁREAS DE PROTEÇÃO DE BACIAS MANANCIAIS (ADA, AID E AII)**
 

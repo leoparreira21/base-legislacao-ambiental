@@ -16,7 +16,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-9415-2025]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-11977-2022]]", "[[lei-complementar-federal-123-2006]]", "[[lei-federal-11598-2007]]", "[[lei-federal-12305-2010]]", "[[lei-federal-13726-2018]]", "[[lei-federal-13874-2019]]", "[[resolucao-conama-237-1997]]", "[[instrucao-normativa-cgsim-22-2010]]", "[[decreto-federal-10178-2019]]", "[[decreto-federal-9094-2017]]", "[[instrucao-normativa-cgsim-51-2019]]", "[[lei-estadual-20436-2020]]", "[[lei-estadual-20626-2021]]", "[[decreto-estadual-3434-2023]]", "[[lei-estadual-22252-2024]]", "[[decreto-estadual-9541-2025]]", "[[resolucao-cema-110-2021]]", "[[lei-federal-6938-1981]]", "[[lei-complementar-federal-140-2011]]", "[[decreto-estadual-10590-2025]]", "[[lei-federal-12651-2012]]", "[[lei-federal-9605-1998]]"]
-tags: [agropecuaria, agua-subterranea, anexo, anuencia, app, aprovacao-tacita, aquicultura, area-construida, area-cultivada, area-fragil, area-sensivel, area-umida, area-urbana-consolidada, armazenamento-graos, artesanal, arvore-isolada, ato-administrativo, autorizacao-ambiental, autorizacao-florestal, baixo-risco, captacao, cema, cnae, cnpj, codigo-florestal, comercio, competencia, construcao-civil, controle-ambiental, crime-ambiental, declaracao-baixo-risco, dila, direito-transicao, dispensa, dlam, documentacao, efluente, emissao-atmosferica, emissao-fugitiva, enquadramento, esgotamento-sanitario, especie-exotica, fauna, fiscalizacao, floresta-plantada, impacto-ambiental, industria, industria-alimenticia, industria-bebidas, industria-borracha, industria-couro, industria-eletrica, industria-farmaceutica, industria-fumo, industria-grafica, industria-madeira, industria-material-transporte, industria-mecanica, industria-metalurgica, industria-moveleira, industria-quimica, industria-textil, industrias-diversas, inexigibilidade, informacao-falsa, infracao-ambiental, isencao, lavagem-veiculo, licenciamento-ambiental, licenciamento-municipal, manutencao-reparacao, mineracao, minerais-nao-metalicos, movimentacao-solo, municipio, numero-funcionarios, outorga, papel-celulose, pesca, pesquisa-mineral, porte, potencial-poluidor, processo-administrativo, producao-florestal, produto-perigoso, requerimento, reserva-legal, residuo-perigoso, residuo-servico-saude, residuo-solido, responsabilidade, risco-ambiental, sancao, saneamento, supressao-vegetacao, transporte, tratamento-superficie, unidade-conservacao, uso-insignificante, veiculo, vigencia, vistoria]
+tags: [agropecuaria, agua-subterranea, anuencia, app, aprovacao-tacita, aquicultura, area-construida, area-cultivada, area-fragil, area-sensivel, area-umida, area-urbana-consolidada, armazenamento-graos, artesanal, arvore-isolada, ato-administrativo, autorizacao-ambiental, autorizacao-florestal, baixo-risco, captacao, cema, cnae, cnpj, codigo-florestal, comercio, competencia, construcao-civil, crime-ambiental, declaracao-baixo-risco, dila, dispensa, dlam, documentacao, efluente, emissao-atmosferica, emissao-fugitiva, enquadramento, esgotamento-sanitario, especie-exotica, fauna, fiscalizacao, floresta-plantada, impacto-ambiental, industria, industria-alimenticia, industria-bebidas, industria-borracha, industria-couro, industria-eletrica, industria-farmaceutica, industria-fumo, industria-grafica, industria-madeira, industria-material-transporte, industria-mecanica, industria-metalurgica, industria-moveleira, industria-quimica, industria-textil, industrias-diversas, inexigibilidade, informacao-falsa, infracao-ambiental, isencao, lavagem-veiculo, licenciamento-ambiental, licenciamento-municipal, manutencao-reparacao, mineracao, minerais-nao-metalicos, movimentacao-solo, municipio, numero-funcionarios, outorga, papel-celulose, pesca, pesquisa-mineral, porte, potencial-poluidor, processo-administrativo, producao-florestal, produto-perigoso, requerimento, reserva-legal, residuo-perigoso, residuo-servico-saude, residuo-solido, responsabilidade, risco-ambiental, sancao, saneamento, supressao-vegetacao, transporte, tratamento-superficie, unidade-conservacao, uso-insignificante, veiculo, vigencia, vistoria]
 anexos: "tipo 3 (normativo, neste arquivo): Anexo Único (974 atividades CNAE com as condições para Baixo Risco Ambiental)"
 fonte: PDF oficial do site do IAT (instrucao_normativa_11-2026-baixo_risco-25841233-8.pdf, 134 páginas, assinado digitalmente em 30/04/2026); data de publicação no DIOE não consta
 ---
@@ -229,7 +229,7 @@ Tags: #responsabilidade #baixo-risco
 **Art. 15, caput** {#art15_cpt} É de inteira responsabilidade do representante legal do empreendimento o reconhecimento formal do cumprimento dos requisitos exigidos para o exercício da atividade de Baixo Risco.
 
 ###### Art. 16 {#art16}
-Tags: #baixo-risco #controle-ambiental #area-sensivel #autorizacao-ambiental
+Tags: #baixo-risco #area-sensivel #autorizacao-ambiental
 
 **Art. 16, caput** {#art16_cpt} A classificação das atividades como de Baixo Risco Ambiental, nos termos desta Instrução Normativa, não autoriza ou regulariza, em nenhuma hipótese, a instalação ou operação de atividades sem os devidos controles ambientais, quando necessários, assim como a implantação do empreendimento em áreas ambientalmente sensíveis sem as devidas autorizações ambientais pertinentes.
 
@@ -273,7 +273,7 @@ Tags: #cnae
 **Art. 23, caput** {#art23_cpt} A listagem geral das atividades econômicas, considerando os códigos da Classificação Nacional de Atividade Econômica (CNAE), será definida em normativas legais a serem publicadas pelo INSTITUTO ÁGUA E TERRA – IAT.
 
 ###### Art. 24 {#art24}
-Tags: #direito-transicao #processo-administrativo
+Tags: #processo-administrativo
 
 **Art. 24, caput** {#art24_cpt} Os atos de liberação emitidos em processos de licenciamento ambiental iniciados anteriormente à data de publicação desta INSTRUÇÃO NORMATIVA permanecem vigentes e deverão seguir o trâmite no órgão ambiental competente até a sua conclusão.
 
@@ -287,7 +287,7 @@ Tags: #vigencia
 ## ANEXOS
 
 ### ANEXO ÚNICO {#anexo1}
-Tags: #anexo #baixo-risco #enquadramento #cnae
+Tags: #baixo-risco #enquadramento #cnae
 
 Anexo tipo 3 (conteúdo normativo): lista das atividades (subclasses CNAE) que podem ser classificadas como de Baixo Risco Ambiental, com as condições de cada uma ([[#art9_cpt_inc1|art. 9º, I]]). O original é uma tabela única, sem título, com as colunas CNAE | DESCRITIVO DA ATIVIDADE | CONDIÇÕES PARA BAIXO RISCO AMBIENTAL; aqui ela é tratada como Tabela 1. Quando a célula de condições está em branco no original, a linha traz "—" (atividade listada sem condição específica no anexo, sujeita aos critérios do [[#art9|art. 9º]]). As condições de cada célula estão na ordem do original, separadas por espaço.
 

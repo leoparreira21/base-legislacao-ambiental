@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Análise da necessidade de PGR
 atividades: [armazenamento-agrotoxico]
 modalidades: [las, lp, lasa, lpa, lasr]
-tags: [anexo, pgr, produto-perigoso, fispq, art-anotacao, responsavel-tecnico, armazenamento-agrotoxico]
+tags: [pgr, produto-perigoso, fispq, art-anotacao, responsavel-tecnico, armazenamento-agrotoxico]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), páginas 100 a 108
 ---
 

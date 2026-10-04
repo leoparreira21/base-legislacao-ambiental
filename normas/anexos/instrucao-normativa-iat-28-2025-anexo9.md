@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RAP
 atividades: [armazenamento-agrotoxico]
 modalidades: [lp, lpa]
-tags: [anexo, rap, estudo-ambiental, armazenamento-agrotoxico, agrotoxico, area-influencia, georreferenciamento, impacto-ambiental, residuo-solido, logistica-reversa, outorga, flora, fauna, supressao-vegetacao, especie-ameacada, area-verde-urbana, emissao-atmosferica, poluicao-sonora, area-contaminada]
+tags: [rap, armazenamento-agrotoxico, agrotoxico, area-influencia, impacto-ambiental, residuo-solido, logistica-reversa, outorga, flora, fauna, supressao-vegetacao, especie-ameacada, area-verde-urbana, emissao-atmosferica, poluicao-sonora, area-contaminada]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), páginas 93 a 97
 ---
 
@@ -38,7 +38,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo IX, linha 17** {#anexo9_lin17} 3 IDENTIFICAÇÃO E LOCALIZAÇÃO DO EMPREENDIMENTO
 - **Anexo IX, linha 18** {#anexo9_lin18} 3.1. Nome do empreendimento
 - **Anexo IX, linha 19** {#anexo9_lin19} 3.2. Modalidade do empreendimento e porte
-- **Anexo IX, linha 20** {#anexo9_lin20} #georreferenciamento 3.3. Mapa de situação do empreendimento com imagem aérea atualizada, em Datum SIRGAS 2000, projeção UTM e contendo, no mínimo:
+- **Anexo IX, linha 20** {#anexo9_lin20} 3.3. Mapa de situação do empreendimento com imagem aérea atualizada, em Datum SIRGAS 2000, projeção UTM e contendo, no mínimo:
 - **Anexo IX, linha 21** {#anexo9_lin21} #car a) Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural (em caso de imóvel rural);
 - **Anexo IX, linha 22** {#anexo9_lin22} #area-influencia b) Área Diretamente Afetada, Área de Influência Direta e Área de Influência Indireta;
 - **Anexo IX, linha 23** {#anexo9_lin23} c) Estruturas físicas;

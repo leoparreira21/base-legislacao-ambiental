@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PBCA
 atividades: [patio-caminhao, patio-container]
 modalidades: [las, lasa]
-tags: [anexo, pbca, patio-caminhao, patio-container, diagnostico-ambiental, impacto-ambiental, medida-mitigadora, terraplanagem, efluente, esgoto-sanitario, impermeabilizacao, agua-pluvial, emissao-atmosferica, pgrs, residuo-solido]
+tags: [pbca, patio-caminhao, patio-container, diagnostico-ambiental, impacto-ambiental, medida-mitigadora, terraplanagem, efluente, esgoto-sanitario, impermeabilizacao, agua-pluvial, emissao-atmosferica, pgrs, residuo-solido]
 fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinado em 15/12/2025), páginas 57 a 62
 ---
 

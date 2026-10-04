@@ -16,7 +16,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-iat-45-2025]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-9415-2025]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-11977-2022]]", "[[lei-federal-6938-1981]]", "[[resolucao-conama-237-1997]]", "[[lei-estadual-22252-2024]]", "[[decreto-estadual-9541-2025]]", "[[lei-estadual-10233-1992]]", "[[resolucao-cema-129-2023]]", "[[lei-federal-12651-2012]]", "[[lei-federal-10257-2001]]", "[[decreto-estadual-8680-2013]]", "[[decreto-estadual-1940-1996]]", "[[resolucao-conama-6-1986]]", "[[instrucao-normativa-ibama-13-2021]]", "[[resolucao-sedest-2-2025]]", "[[lei-estadual-12493-1999]]", "[[decreto-estadual-6674-2002]]", "[[portaria-iap-256-2013]]", "[[resolucao-conama-307-2002]]", "[[portaria-iap-212-2019]]", "[[portaria-mma-280-2020]]", "[[resolucao-cema-76-2009]]", "[[portaria-iap-159-2015]]", "[[lei-federal-9605-1998]]", "[[decreto-federal-6514-2008]]", "[[decreto-estadual-12799-2026]]"]
-tags: [alteracao, ampliacao, anexo, anuencia, app, area-construida, area-contaminada, area-fragil, area-umida, armazenamento-graos, art-anotacao, artesanal, arvore-isolada, ato-administrativo, automonitoramento, autorizacao-ambiental, autorizacao-florestal, bem-cultural, cadastro, car, casos-omissos, cavidade-natural, cema, certidao-municipal, cnpj, compostagem, comunidade-tradicional, conama, condicionante, cpf, crime-ambiental, ctf, curtume, dcp, declaracao-adesao-compromisso, destinacao-final, diagnostico-ambiental, direito-transicao, diretoria-patrimonio-natural, diretriz-estudo, dispensa, dlae, dlam, documentacao, dominialidade, efluente, eia-rima, embargo, emissao-atmosferica, emissao-fugitiva, encerramento, enquadramento, esgotamento-sanitario, especie-exotica, estudo-ambiental, fauna, fonte-poluicao, frigorifico, funai, galeria-pluvial, galvanoplastia, geologia, impermeabilizacao, industria, industria-alimenticia, industria-bebidas, industria-borracha, industria-couro, industria-eletrica, industria-farmaceutica, industria-fumo, industria-madeira, industria-material-transporte, industria-mecanica, industria-metalurgica, industria-quimica, industria-textil, industrias-diversas, informacao-falsa, infracao-ambiental, interesse-social, inventario-residuos, iphan, lac, lagoa-tratamento, las, lasa, lasr, laticinio, li, lia, licenca-ambiental, licenca-vencida, licenciamento-ambiental, licenciamento-bifasico, licenciamento-monofasico, licenciamento-municipal, licenciamento-trifasico, lir, lo, loa, logistica-reversa, lor, lp, lpa, maltearia, mandioca, manifestacao-juridica, mapa-situacao, meio-ambiente, memorial-caracterizacao, minerais-nao-metalicos, modalidade, movimentacao-solo, mtr, oleo-soja, outorga, outorga-direito, outorga-previa, padrao-emissao, padrao-lancamento, papel-celulose, parecer-tecnico, pbca, pcpa, pendencia-judicial, pgr, pgrcc, pgrs, poluicao, poluicao-sonora, porte, porte-excepcional, potencial-poluidor, prazo, procuracao, prorrogacao, publicacao-dioe, quilombola, rap, reciclagem, recurso-hidrico, regularizacao, relatorio-atendimento-condicionante, relatorio-caracterizacao-flora, renovacao, requerimento, reserva-legal, residuo-perigoso, residuo-solido, residuo-terceiro, reuso-efluente, revogacao, risco-ambiental, sancao, serflor, sinaflor, sucroalcooleira, supressao-vegetacao, tac, taxa-ambiental, termo-compromisso, terra-indigena, terraplanagem, unidade-conservacao, uso-insignificante, utilidade-publica, validade, viabilidade-locacional, vigencia, zona-amortecimento]
+tags: [alteracao, ampliacao, anuencia, app, area-construida, area-contaminada, area-fragil, area-umida, armazenamento-graos, art-anotacao, artesanal, arvore-isolada, ato-administrativo, automonitoramento, autorizacao-ambiental, autorizacao-florestal, bem-cultural, car, casos-omissos, cavidade-natural, cema, certidao-municipal, cnpj, compostagem, comunidade-tradicional, conama, condicionante, cpf, crime-ambiental, ctf, curtume, dcp, declaracao-adesao-compromisso, destinacao-final, diagnostico-ambiental, diretoria-patrimonio-natural, diretriz-estudo, dispensa, dlae, dlam, documentacao, dominialidade, efluente, eia-rima, embargo, emissao-atmosferica, emissao-fugitiva, encerramento, enquadramento, esgotamento-sanitario, especie-exotica, fauna, fonte-poluicao, frigorifico, funai, galeria-pluvial, galvanoplastia, geologia, impermeabilizacao, industria, industria-alimenticia, industria-bebidas, industria-borracha, industria-couro, industria-eletrica, industria-farmaceutica, industria-fumo, industria-madeira, industria-material-transporte, industria-mecanica, industria-metalurgica, industria-quimica, industria-textil, industrias-diversas, informacao-falsa, infracao-ambiental, interesse-social, inventario-residuos, iphan, lac, lagoa-tratamento, las, lasa, lasr, laticinio, li, lia, licenca-ambiental, licenca-vencida, licenciamento-ambiental, licenciamento-bifasico, licenciamento-monofasico, licenciamento-municipal, licenciamento-trifasico, lir, lo, loa, logistica-reversa, lor, lp, lpa, maltearia, mandioca, mapa-situacao, memorial-caracterizacao, minerais-nao-metalicos, modalidade, movimentacao-solo, mtr, oleo-soja, outorga, outorga-direito, outorga-previa, padrao-emissao, padrao-lancamento, papel-celulose, parecer-tecnico, pbca, pcpa, pgr, pgrcc, pgrs, poluicao, poluicao-sonora, porte, porte-excepcional, potencial-poluidor, prazo, procuracao, prorrogacao, publicacao-dioe, quilombola, rap, reciclagem, recurso-hidrico, regularizacao, relatorio-atendimento-condicionante, relatorio-caracterizacao-flora, renovacao, requerimento, reserva-legal, residuo-perigoso, residuo-solido, residuo-terceiro, reuso-efluente, risco-ambiental, sancao, serflor, sinaflor, sucroalcooleira, supressao-vegetacao, tac, taxa-ambiental, termo-compromisso, terra-indigena, terraplanagem, unidade-conservacao, uso-insignificante, utilidade-publica, validade, vigencia, zona-amortecimento]
 anexos: "tipo 1 (modelos): III, V, VI, VII, XV; tipo 2 (diretrizes de estudo, em normas/anexos/): IV, VIII, IX, X, XI, XIII; tipo 3 (normativos, neste arquivo): I, II, XII, XIV"
 fonte: corpo conferido no PDF assinado digitalmente (73 páginas, sem anexos) e no texto integral enviado por Leo; anexos transcritos do texto integral; data de publicação no DIOE não consta
 ---
@@ -62,17 +62,17 @@ Tags: #industria #compostagem #residuo-terceiro
 ###### Art. 3º {#art3}
 
 **Art. 3º, caput** {#art3_cpt} Para fins desta resolução consideram-se as seguintes definições:
-- **Art. 3º, caput, inciso I** {#art3_cpt_inc1} #meio-ambiente meio ambiente: o conjunto de condições, leis, influências e interações de ordem física, química e biológica, que permite, abriga e rege a vida em todas as suas formas;
+- **Art. 3º, caput, inciso I** {#art3_cpt_inc1} meio ambiente: o conjunto de condições, leis, influências e interações de ordem física, química e biológica, que permite, abriga e rege a vida em todas as suas formas;
 - **Art. 3º, caput, inciso II** {#art3_cpt_inc2} #poluicao poluição: a degradação da qualidade ambiental resultante de atividades que direta ou indiretamente prejudiquem a saúde, a segurança e o bem-estar da população, crie condições adversas às atividades sociais e econômicas, afetem desfavoravelmente a biota, afetem as condições estéticas ou sanitárias do meio ambiente ou lancem matérias ou energia em desacordo com os padrões ambientais estabelecidos;
 - **Art. 3º, caput, inciso III** {#art3_cpt_inc3} poluidor: pessoa física ou jurídica, de direito público ou privado, responsável direta ou indiretamente por atividade causadora de degradação ambiental;
 - **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} recursos ambientais: a atmosfera, as águas interiores, superficiais e subterrâneas, os estuários, o mar territorial, o solo, o subsolo, os elementos da biosfera, a fauna e a flora;
 - **Art. 3º, caput, inciso V** {#art3_cpt_inc5} #fonte-poluicao fonte de poluição: qualquer atividade, sistema, processo, operação, maquinários, equipamentos ou dispositivos, móvel ou imóvel previstos nesta resolução, que alterem ou possam vir a alterar o Meio Ambiente;
 - **Art. 3º, caput, inciso VI** {#art3_cpt_inc6} #licenciamento-ambiental licenciamento ambiental: procedimento administrativo pelo qual o órgão ambiental competente, verificando a satisfação das condições legais e técnicas, delibera quanto à localização, instalação, ampliação, operação e encerramento de empreendimentos e atividades utilizadoras de recursos ambientais consideradas efetivas ou potencialmente poluidoras ou daquelas que, sob qualquer forma, possam vir a causar degradação e/ou modificação ambiental, considerando as disposições legais e regulamentares e as normas técnicas aplicáveis ao caso;
-- **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} #estudo-ambiental estudos ambientais: são todos e quaisquer estudos relativos aos aspectos ambientais relacionados à localização, instalação, operação e ampliação de um empreendimento e/ou atividade, apresentado como subsídio para a análise da licença requerida, tais como: relatório ambiental, plano e projeto de controle ambiental, relatório ambiental preliminar, diagnóstico ambiental, plano de manejo, plano de recuperação de área degradada e programa de gerenciamento de riscos ambientais;
+- **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} estudos ambientais: são todos e quaisquer estudos relativos aos aspectos ambientais relacionados à localização, instalação, operação e ampliação de um empreendimento e/ou atividade, apresentado como subsídio para a análise da licença requerida, tais como: relatório ambiental, plano e projeto de controle ambiental, relatório ambiental preliminar, diagnóstico ambiental, plano de manejo, plano de recuperação de área degradada e programa de gerenciamento de riscos ambientais;
 - **Art. 3º, caput, inciso VIII** {#art3_cpt_inc8} #licenca-ambiental licença ambiental: o ato administrativo pelo qual são estabelecidas, as condições, restrições e medidas de controle ambiental que deverão ser obedecidas pelo empreendedor, pessoa física ou jurídica, para localizar, instalar, ampliar e operar empreendimentos e/ou atividades utilizadoras dos recursos ambientais, consideradas efetiva ou potencialmente poluidoras ou aquelas que, sob qualquer forma, possam causa degradação e/ou modificação ambiental;
 - **Art. 3º, caput, inciso IX** {#art3_cpt_inc9} #modalidade modalidade de licenciamento ambiental: tipo de processo administrativo que varia de acordo com a natureza, a localização, o porte e o potencial poluidor/degradador dos empreendimentos e/ou atividades;
 - **Art. 3º, caput, inciso X** {#art3_cpt_inc10} #autorizacao-ambiental autorização ambiental ou florestal: ato administrativo discricionário pelo qual o IAP estabelece condições, restrições e medidas de controle ambiental ou florestal de empreendimentos ou atividades específicas, com prazo de validade estabelecido de acordo com a natureza do empreendimento ou atividade, passível de prorrogação, a critério do IAP;
-- **Art. 3º, caput, inciso XI** {#art3_cpt_inc11} #cadastro cadastro de usuário ambiental: registro pelo qual o IAP terá um cadastro documental único, de todas as pessoas sejam físicas ou jurídicas que utilizem os seus serviços;
+- **Art. 3º, caput, inciso XI** {#art3_cpt_inc11} cadastro de usuário ambiental: registro pelo qual o IAP terá um cadastro documental único, de todas as pessoas sejam físicas ou jurídicas que utilizem os seus serviços;
 - **Art. 3º, caput, inciso XII** {#art3_cpt_inc12} #industria atividade industrial: conjunto das operações manuais ou mecânicas de processos físicos, químicos ou biológicos, por meio dos quais o homem transforma matérias-primas em utilidades apropriadas às suas necessidades;
 - **Art. 3º, caput, inciso XIII** {#art3_cpt_inc13} #termo-compromisso termo de compromisso: instrumento pelo qual o causador de infração administrativa ambiental compromete-se a adotar medidas específicas determinadas pelo órgão ambiental de forma a reparar e fazer cessar os danos causados ao meio ambiente;
 - **Art. 3º, caput, inciso XIV** {#art3_cpt_inc14} #tac termo de ajustamento de conduta: instrumento que tem por finalidade estabelecer obrigações do compromissário, em decorrência de sua responsabilidade civil, de forma a ajustar a sua conduta às exigências legais, mediante cominações, que terá eficácia de título executivo extrajudicial;
@@ -129,7 +129,7 @@ Tags: #modalidade #licenciamento-trifasico #licenciamento-bifasico #licenciament
 ## CAPÍTULO V – DOS CRITÉRIOS PARA ENQUADRAMENTO DO LICENCIAMENTO AMBIENTAL
 
 ###### Art. 6º {#art6}
-Tags: #enquadramento #porte #estudo-ambiental
+Tags: #enquadramento #porte
 
 **Art. 6º, caput** {#art6_cpt} Para os efeitos desta Instrução Normativa o tipo de licenciamento e os respectivos estudos ambientais para os empreendimentos industriais são estabelecidos de acordo com o porte.
 
@@ -476,7 +476,7 @@ Tags: #lp #documentacao #requerimento #cnpj #cpf #procuracao #mapa-situacao #mem
 - **Art. 25, caput, inciso XII** {#art25_cpt_inc12} recolhimento da taxa ambiental, bem como dos demais valores cabíveis referentes à publicação da súmula da concessão da Licença requerida, no Diário Oficial do Estado, a ser efetivada pelo IAT;
 
 ###### Art. 26 {#art26}
-Tags: #lp #estudo-ambiental #eia-rima #rap
+Tags: #lp #eia-rima #rap
 
 **Art. 26, caput** {#art26_cpt} A critério do IAT poderão ser solicitados estudos e documentos complementares, previamente à emissão da Licença Prévia.
 
@@ -779,7 +779,7 @@ Tags: #lpa #ampliacao #documentacao #requerimento #cnpj #cpf #procuracao #mapa-s
 **Art. 44, parágrafo único** {#art44_par1u} O estudo ao qual se refere o [[#art44_cpt_inc5|Inciso V deste artigo]] deverá ser elaborado junto de um diagnóstico atual da situação do empreendimento contemplando as áreas e atividades já licenciadas e as áreas e atividades a serem ampliadas.
 
 ###### Art. 45 {#art45}
-Tags: #lpa #estudo-ambiental #eia-rima #rap
+Tags: #lpa #eia-rima #rap
 
 **Art. 45, caput** {#art45_cpt} A critério do IAT poderão ser solicitados estudos e documentos complementares, previamente à emissão da Licença Prévia.
 
@@ -873,7 +873,7 @@ Tags: #regularizacao #licenca-vencida
 - **Art. 53, caput, inciso III** {#art53_cpt_inc3} estejam em implantação ou operação sem a devida licença vigente.
 
 ###### Art. 54 {#art54}
-Tags: #regularizacao #viabilidade-locacional #tac #encerramento #sancao
+Tags: #regularizacao #tac #encerramento #sancao
 
 **Art. 54, caput** {#art54_cpt} Para o licenciamento de regularização devem ser observados os seguintes requisitos:
 - **Art. 54, caput, inciso I** {#art54_cpt_inc1} somente serão emitidas quando da viabilidade locacional, técnica e jurídica do empreendimento e/ou atividade;
@@ -1165,12 +1165,12 @@ Tags: #unidade-conservacao #zona-amortecimento #diretoria-patrimonio-natural
 ## CAPÍTULO XII – DISPOSIÇÕES GERAIS
 
 ###### Art. 80 {#art80}
-Tags: #enquadramento #renovacao #direito-transicao
+Tags: #enquadramento #renovacao
 
 **Art. 80, caput** {#art80_cpt} Em caso de reenquadramento da modalidade de licenciamento ambiental de empreendimentos em operação, em função de alterações de normativas de licenciamento ambiental, o mesmo deverá se adequado quando da renovação da respectiva licença que permite a operação do empreendimento.
 
 ###### Art. 81 {#art81}
-Tags: #dlae #dlam #lac #prazo #direito-transicao
+Tags: #dlae #dlam #lac #prazo
 
 **Art. 81, caput** {#art81_cpt} #dlae Os empreendimentos detentores de Declaração de Licenciamento Ambiental Estadual – DLAE, em função de alterações de normativas de licenciamento ambiental, deverão solicitar a Declaração de Dispensa de Licenciamento Ambiental – DLAM ou Licença por Adesão e Compromisso – LAC, em um prazo de até 12 meses a contar da data de publicação desta Instrução Normativa.
 
@@ -1180,7 +1180,7 @@ Tags: #funai #iphan
 **Art. 82, caput** {#art82_cpt} Quando da necessidade da manifestação de órgãos intervenientes externos ao órgão licenciador, tais como FUNAI, INCRA, IPHAN, ICMBio, CEPHA, DNIT, DER, entre outros, será seguido o procedimento conforme estabelece o [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 10 de abril de 2025]].
 
 ###### Art. 83 {#art83}
-Tags: #pendencia-judicial #manifestacao-juridica #prazo
+Tags: #prazo
 
 **Art. 83, caput** {#art83_cpt} Constatada a existência de pendência judicial envolvendo o empreendedor, o empreendimento ou o imóvel, a decisão administrativa sobre a eventual suspensão do licenciamento será precedida de manifestação jurídica do órgão ambiental competente no prazo máximo de 30 (trinta) dias.
 
@@ -1200,7 +1200,7 @@ Tags: #casos-omissos
 **Art. 86, caput** {#art86_cpt} Os casos omissos nesta Instrução Normativa serão analisados pelo Instituto Água e Terra - IAT e enquadrados na legislação ambiental vigente conforme as características particulares de cada empreendimento.
 
 ###### Art. 87 {#art87}
-Tags: #vigencia #revogacao
+Tags: #vigencia
 
 **Art. 87, caput** {#art87_cpt} Esta Instrução Normativa entra em vigor na data de sua publicação, tornando sem efeito a [[instrucao-normativa-iat-45-2025|Instrução Normativa IAT n° 45, de 30 de abril de 2025]], publicada no DIOE nº 11894, de 05 de maio de 2025.
 
@@ -1209,7 +1209,7 @@ Tags: #vigencia #revogacao
 > Fonte dos anexos: texto integral da IN enviado por Leo (extração de texto do PDF). Tipos conforme as regras de anexos do README: **tipo 1** (modelos) só com o nome; **tipo 2** (diretrizes de estudos) em arquivo próprio em `normas/anexos/`; **tipo 3** (conteúdo normativo) listado aqui, com IDs `anexoN_linM` e `anexoN_tabT_linM`.
 
 ### ANEXO I {#anexo1}
-Tags: #anexo #porte #enquadramento #area-construida
+Tags: #porte #enquadramento #area-construida
 
 **DEFINIÇÃO DO PORTE DE EMPREENDIMENTOS INDUSTRIAIS**
 
@@ -1220,7 +1220,7 @@ Tags: #anexo #porte #enquadramento #area-construida
 - **Anexo I, Tabela 1, linha 4** {#anexo1_tab1_lin4} #porte Área Construida (m²): Acima de 40.000 | Investimento total (UPF / PR): acima de 800.000 | Número de empregados: Acima de 1.000 | PORTE: Excepcional(E)
 
 ### ANEXO II {#anexo2}
-Tags: #anexo #las #enquadramento #industria
+Tags: #las #enquadramento #industria
 
 **ATIVIDADES INDUSTRIAIS PASSÍVAS DE LICENCIAMENTO AMBIENTAL SIMPLIFICADO – LAS**
 
@@ -1336,52 +1336,48 @@ Tabela 1 – LAS - GRUPO INDUSTRIAL. Colunas: ATIVIDADE | ATIVIDADE ESPECÍFICA 
 - **Anexo II, Tabela 1, linha 108** {#anexo2_tab1_lin108} #las #industrias-diversas ATIVIDADE: Industrias diversas | ATIVIDADE ESPECÍFICA: Usinas de Produção de Concreto | Limite máximo: Área até 10.000 m²
 
 ### ANEXO III {#anexo3}
-Tags: #anexo
 
 Modelo de certidão do Município quanto ao uso e ocupação do solo. *(Tipo 1: modelo, conteúdo não transcrito. Exigido no [[#art19_cpt_inc5|art. 19]].)*
 
 ### ANEXO IV {#anexo4}
-Tags: #anexo #diretriz-estudo
+Tags: #diretriz-estudo
 
 Termo de referência para elaboração do Memorial de Caracterização do Empreendimento – MCE. *(Tipo 2: diretriz de estudo, aplica-se só a empreendimentos industriais.)* Texto e síntese em [[instrucao-normativa-iat-65-2025-anexo4|MCE – IN IAT 65/2025, Anexo IV]].
 
 ### ANEXO V {#anexo5}
-Tags: #anexo
 
 Modelo de declaração da veracidade das informações prestadas. *(Tipo 1: modelo, conteúdo não transcrito. Exigido no [[#art19_cpt_inc8|art. 19]].)*
 
 ### ANEXO VI {#anexo6}
-Tags: #anexo
 
 Modelo de declaração do empreendedor pelo Licenciamento por Adesão e Compromisso. *(Tipo 1: modelo, conteúdo não transcrito. Exigido no [[#art21_cpt_inc9|art. 21]].)*
 
 ### ANEXO VII {#anexo7}
-Tags: #anexo
 
 Modelo de declaração do responsável técnico pelo Licenciamento por Adesão e Compromisso. *(Tipo 1: modelo, conteúdo não transcrito. Exigido no [[#art21_cpt_inc10|art. 21]].)*
 
 ### ANEXO VIII {#anexo8}
-Tags: #anexo #diretriz-estudo
+Tags: #diretriz-estudo
 
 Termo de referência para elaboração do Plano Básico de Controle de Poluição Ambiental – PBCA. *(Tipo 2: diretriz de estudo, aplica-se só a empreendimentos industriais.)* Texto e síntese em [[instrucao-normativa-iat-65-2025-anexo8|PBCA – IN IAT 65/2025, Anexo VIII]].
 
 ### ANEXO IX {#anexo9}
-Tags: #anexo #diretriz-estudo
+Tags: #diretriz-estudo
 
 Termo de referência para elaboração do Projeto de Controle de Poluição Ambiental e Projeto de Terraplanagem – PCPA. *(Tipo 2: diretriz de estudo, aplica-se só a empreendimentos industriais.)* Texto e síntese em [[instrucao-normativa-iat-65-2025-anexo9|PCPA – IN IAT 65/2025, Anexo IX]].
 
 ### ANEXO X {#anexo10}
-Tags: #anexo #diretriz-estudo
+Tags: #diretriz-estudo
 
 Termo de referência para elaboração do Projeto de Controle de Poluição Sonora. *(Tipo 2: diretriz de estudo, aplica-se só a empreendimentos industriais.)* Texto e síntese em [[instrucao-normativa-iat-65-2025-anexo10|Poluição sonora – IN IAT 65/2025, Anexo X]].
 
 ### ANEXO XI {#anexo11}
-Tags: #anexo #diretriz-estudo
+Tags: #diretriz-estudo
 
 Termo de referência para elaboração do Plano de Gerenciamento de Resíduos Sólidos – PGRS. *(Tipo 2: diretriz de estudo, aplica-se só a empreendimentos industriais.)* Texto e síntese em [[instrucao-normativa-iat-65-2025-anexo11|PGRS – IN IAT 65/2025, Anexo XI]].
 
 ### ANEXO XII {#anexo12}
-Tags: #anexo #validade #lo #prazo #industria
+Tags: #validade #lo #prazo #industria
 
 **VALIDADE DA LICENÇA DE OPERAÇÃO**
 
@@ -1427,12 +1423,12 @@ Tabela 1 – PRAZO DE VALIDADE DA LICENÇA DE OPERAÇÃO. Colunas: ATIVIDADE IND
 Células com "-" no original (nenhuma atividade nesse prazo): Indústria Metalúrgica: 4 (quatro) anos, 6 (anos); Indústria de Produtos Minerais Não Metálicos: 6 (anos); Indústria Mecânica: 4 (quatro) anos, 6 (anos); Indústria de Material Elétrico, Eletrônico e Comunicações: 4 (quatro) anos, 6 (anos); Indústria de Material de Transporte: 4 (quatro) anos, 6 (anos); Indústria de Madeira: 2 (dois) anos; Indústria de Papel e Celulose: 6 (anos); Indústria de Borracha: 6 (anos); Indústria de Couros e Peles: 6 (anos).
 
 ### ANEXO XIII {#anexo13}
-Tags: #anexo #diretriz-estudo
+Tags: #diretriz-estudo
 
 Termo de referência para elaboração de diagnóstico da situação atual do empreendimento. *(Tipo 2: diretriz de estudo, aplica-se só a empreendimentos industriais.)* Texto e síntese em [[instrucao-normativa-iat-65-2025-anexo13|Diagnóstico – IN IAT 65/2025, Anexo XIII]].
 
 ### ANEXO XIV {#anexo14}
-Tags: #anexo #efluente #padrao-lancamento
+Tags: #efluente #padrao-lancamento
 
 **CONDIÇÕES E PADRÕES DE LANÇAMENTO DE EFLUENTES LÍQUIDOS INDUSTRIAIS**
 
@@ -1544,7 +1540,6 @@ TABELA 1: Padrões para o lançamento de efluentes líquidos em corpos receptore
 - **Anexo XIV, linha 43** {#anexo14_lin43} 12. Outras atividades: Variável de acordo com atividade.
 
 ### ANEXO XV {#anexo15}
-Tags: #anexo
 
 Modelo de declaração de vínculo empregatício. *(Tipo 1: modelo, conteúdo não transcrito. Exigido no [[#art21_cpt_inc14|art. 21]].)*
 

@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: PCPA e Projeto de Terraplanagem
 atividades: [industria]
 modalidades: [li, lia, lir]
-tags: [anexo, industria, pcpa, terraplanagem, efluente, emissao-atmosferica, residuo-solido, uso-agricola-efluente, classe-risco-solo, declividade, textura-solo]
+tags: [industria, pcpa, terraplanagem, efluente, emissao-atmosferica, residuo-solido, uso-agricola-efluente, classe-risco-solo, declividade, textura-solo]
 fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do PDF, com anexos)
 ---
 

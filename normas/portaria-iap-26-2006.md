@@ -20,7 +20,7 @@ alterado_por: []
 revoga: ["[[portaria-iap-14-2006]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-48-2003]]", "[[lei-estadual-10066-1992]]", "[[decreto-estadual-1502-1992]]", "[[lei-estadual-11352-1996]]", "[[lei-estadual-13425-2002]]", "[[portaria-iap-14-2006]]", "[[instrucao-normativa-iap-100001]]", "[[instrucao-normativa-iap-100002]]", "[[instrucao-normativa-iap-100004]]", "[[instrucao-normativa-iap-100005]]", "[[resolucao-conama-5-1993]]", "[[resolucao-conama-358-2005]]", "[[resolucao-conjunta-sema-sesa-2-2005]]", "[[resolucao-conama-6-1986]]", "[[decreto-estadual-1940-1996]]", "[[resolucao-sema-41-2002]]", "[[resolucao-conama-237-1997]]", "[[lei-federal-6496-1977]]", "[[rdc-anvisa-306-2004]]", "[[resolucao-conama-283-2001]]", "[[resolucao-conama-275-2001]]", "[[resolucao-conama-357-2005]]", "[[lei-estadual-13039-2001]]", "[[lei-federal-9605-1998]]", "[[resolucao-sema-31-1998]]", "[[resolucao-conama-1-1986]]", "[[resolucao-conama-5-1988]]", "[[portaria-svs-ms-344-1998]]"]
-tags: [alvara, anexo, art-anotacao, automonitoramento, cadastramento-ambiental, cadastro, casos-omissos, certidao-municipal, competencia, complementacao, contratacao-terceiro, documentacao, dominialidade, efluente, eia-rima, emissao-atmosferica, esgoto-sanitario, indeferimento, laudo-conclusao-obra, li, licenca-sanitaria, licenciamento-ambiental, lo, lp, manifestacao-juridica, parecer-tecnico, pca, pgrss, porte, prazo, regularizacao, renovacao, reserva-legal, revogacao, serflor, servico-saude, tac, taxa-ambiental, validade, vegetacao-nativa, vigencia, vistoria]
+tags: [alvara, art-anotacao, automonitoramento, casos-omissos, certidao-municipal, competencia, complementacao, contratacao-terceiro, documentacao, dominialidade, efluente, eia-rima, emissao-atmosferica, esgoto-sanitario, indeferimento, laudo-conclusao-obra, li, licenca-sanitaria, licenciamento-ambiental, lo, lp, parecer-tecnico, pca, pgrss, porte, prazo, regularizacao, renovacao, reserva-legal, serflor, servico-saude, tac, taxa-ambiental, validade, vegetacao-nativa, vigencia, vistoria]
 fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (texto impresso do navegador em 28 páginas, com o aviso \"O texto abaixo não substitui o publicado no Diário Oficial\"), PDF enviado por Leo; conferido com o PDF. Sem data e número do DIOE."
 ---
 
@@ -35,12 +35,12 @@ fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (texto 
 **Preâmbulo** {#preambulo} O Diretor Presidente do Instituto Ambiental do Paraná – IAP, nomeado pelo [[decreto-estadual-48-2003|Decreto n° 48, de 02 de janeiro de 2003]], no uso das atribuições que lhe são conferidas pela [[lei-estadual-10066-1992|Lei n° 10.066, de 27 de julho de 1992]] e alterações posteriores e pelo seu Regulamento, aprovado pelo [[decreto-estadual-1502-1992|Decreto n° 1.502, de 04 de agosto de 1992]], [[lei-estadual-11352-1996|Lei nº 11.352 de 13 de fevereiro de 1996]] e [[lei-estadual-13425-2002|Lei nº 13.425 de 07 de janeiro de 2002]], RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #servico-saude #licenciamento-ambiental #anexo
+Tags: #servico-saude #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Aprovar e determinar o cumprimento da [[#anexo-in|IN - Instrução Normativa 003/2006 – DIRAM/IAP]], referentes as diretrizes para o licenciamento dos estabelecimentos prestadores de serviços de saúde conforme [[#anexo-in|anexo integrante desta Portaria]].
 
 ###### Art. 2º {#art2}
-Tags: #vigencia #revogacao
+Tags: #vigencia
 
 **Art. 2º, caput** {#art2_cpt} Esta Portaria entra em vigor na data de sua publicação, ficando em conseqüência revogada a [[portaria-iap-14-2006|Portaria n° 014/2006/IAP/GP]] e demais disposições em contrário.
 
@@ -105,19 +105,19 @@ Tags: #vigencia #revogacao
 
 - **Anexo, IN 003/2006, item 5.1, linha 22** {#anexo-in_lin22} Não se incluem aqui aquelas reformas com a finalidade de melhoria da aparência dos empreendimentos. Incluem-se tanto a incorporação de novas atividades como também o aumento do potencial poluidor da atividade já licenciada. Se estas ampliações não necessitarem de Estudo Ambiental para avaliação pelo IAP, poder-se-á solicitar, após a licença prévia, diretamente a licença de operação.
 - **Anexo, IN 003/2006, item 5.1, linha 23** {#anexo-in_lin23} Estão sujeitos ao Certificado de Cadastramento Ambiental os estabelecimentos prestadores de serviços de saúde de acordo com as características da tabela abaixo:
-- **Anexo, IN 003/2006, item 5.1, Tabela 1 (sem título no original), linha 1** {#anexo-in_tab1_lin1} #cadastramento-ambiental #porte EMPREENDIMENTO/ATIVIDADE: SERVIÇOS DE SAÚDE(Volume de geração de resíduos) | CARACTERÍSTICA: Até 30 L/semana
-- **Anexo, IN 003/2006, item 5.1, I, linha 24** {#anexo-in_lin24} #cadastramento-ambiental I. CERTIFICADO DE CADASTRAMENTO AMBIENTAL:
-- **Anexo, IN 003/2006, item 5.1, I, alínea a, linha 25** {#anexo-in_lin25} #cadastramento-ambiental a) Requerimento de Licenciamento Ambiental;
-- **Anexo, IN 003/2006, item 5.1, I, alínea b, linha 26** {#anexo-in_lin26} #cadastramento-ambiental #cadastro b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
-- **Anexo, IN 003/2006, item 5.1, I, alínea c, linha 27** {#anexo-in_lin27} #cadastramento-ambiental #documentacao c) Cópia do Ato Constitutivo ou do Contrato Social;
-- **Anexo, IN 003/2006, item 5.1, I, alínea d, linha 28** {#anexo-in_lin28} #cadastramento-ambiental #alvara d) Cópia autenticada do Alvará de Funcionamento;
-- **Anexo, IN 003/2006, item 5.1, I, alínea e, linha 29** {#anexo-in_lin29} #cadastramento-ambiental #licenca-sanitaria e) Cópia autenticada da Licença Sanitária;
-- **Anexo, IN 003/2006, item 5.1, I, alínea f, linha 30** {#anexo-in_lin30} #cadastramento-ambiental #pgrss #art-anotacao f) Plano Simplificado de Gerenciamento de Resíduos de Serviços de Saúde , em 2 vias, elaborado por técnico habilitado com respectiva ART (Anotação de Responsabilidade Técnica) e apresentado de acordo coma as diretrizes específicas deste IAP ([[portaria-iap-26-2006-anexo2|ANEXO 2]]);
-- **Anexo, IN 003/2006, item 5.1, I, alínea g, linha 31** {#anexo-in_lin31} #cadastramento-ambiental #contratacao-terceiro g) Cópia do contrato firmado com a empresa que irá realizar a destinação final dos resíduos do Grupo A,B e E.
-- **Anexo, IN 003/2006, item 5.1, I, alínea h, linha 32** {#anexo-in_lin32} #cadastramento-ambiental #taxa-ambiental h) Comprovante de recolhimento da Taxa Ambiental (Ficha de Compensação Bancária) de acordo com a [[instrucao-normativa-iap-100004|IN 100.004]], será cobrada taxa de 2 UPF’S – mesma que para Autorização Ambiental.
+- **Anexo, IN 003/2006, item 5.1, Tabela 1 (sem título no original), linha 1** {#anexo-in_tab1_lin1} #porte EMPREENDIMENTO/ATIVIDADE: SERVIÇOS DE SAÚDE(Volume de geração de resíduos) | CARACTERÍSTICA: Até 30 L/semana
+- **Anexo, IN 003/2006, item 5.1, I, linha 24** {#anexo-in_lin24} I. CERTIFICADO DE CADASTRAMENTO AMBIENTAL:
+- **Anexo, IN 003/2006, item 5.1, I, alínea a, linha 25** {#anexo-in_lin25} a) Requerimento de Licenciamento Ambiental;
+- **Anexo, IN 003/2006, item 5.1, I, alínea b, linha 26** {#anexo-in_lin26} b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
+- **Anexo, IN 003/2006, item 5.1, I, alínea c, linha 27** {#anexo-in_lin27} #documentacao c) Cópia do Ato Constitutivo ou do Contrato Social;
+- **Anexo, IN 003/2006, item 5.1, I, alínea d, linha 28** {#anexo-in_lin28} #alvara d) Cópia autenticada do Alvará de Funcionamento;
+- **Anexo, IN 003/2006, item 5.1, I, alínea e, linha 29** {#anexo-in_lin29} #licenca-sanitaria e) Cópia autenticada da Licença Sanitária;
+- **Anexo, IN 003/2006, item 5.1, I, alínea f, linha 30** {#anexo-in_lin30} #pgrss #art-anotacao f) Plano Simplificado de Gerenciamento de Resíduos de Serviços de Saúde , em 2 vias, elaborado por técnico habilitado com respectiva ART (Anotação de Responsabilidade Técnica) e apresentado de acordo coma as diretrizes específicas deste IAP ([[portaria-iap-26-2006-anexo2|ANEXO 2]]);
+- **Anexo, IN 003/2006, item 5.1, I, alínea g, linha 31** {#anexo-in_lin31} #contratacao-terceiro g) Cópia do contrato firmado com a empresa que irá realizar a destinação final dos resíduos do Grupo A,B e E.
+- **Anexo, IN 003/2006, item 5.1, I, alínea h, linha 32** {#anexo-in_lin32} #taxa-ambiental h) Comprovante de recolhimento da Taxa Ambiental (Ficha de Compensação Bancária) de acordo com a [[instrucao-normativa-iap-100004|IN 100.004]], será cobrada taxa de 2 UPF’S – mesma que para Autorização Ambiental.
 - **Anexo, IN 003/2006, item 5.1, II, linha 33** {#anexo-in_lin33} #lp II. LICENÇA PRÉVIA
 - **Anexo, IN 003/2006, item 5.1, II, alínea a, linha 34** {#anexo-in_lin34} #lp a) Requerimento de Licenciamento Ambiental;
-- **Anexo, IN 003/2006, item 5.1, II, alínea b, linha 35** {#anexo-in_lin35} #lp #cadastro b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
+- **Anexo, IN 003/2006, item 5.1, II, alínea b, linha 35** {#anexo-in_lin35} #lp b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
 - **Anexo, IN 003/2006, item 5.1, II, alínea c, linha 36** {#anexo-in_lin36} #lp #dominialidade c) Matrícula ou Transcrição do Cartório de Registro de Imóveis atualizada, no máximo, 90 (noventa) dias;
 - **Anexo, IN 003/2006, item 5.1, II, alínea d, linha 37** {#anexo-in_lin37} #lp d) Documentação complementar do imóvel, se a situação imobiliária estiver irregular ou comprometida, conforme exigências para casos imobiliários excepcionais estabelecidos na [[instrucao-normativa-iap-100005|IN 100.005]];
 - **Anexo, IN 003/2006, item 5.1, II, alínea e, linha 38** {#anexo-in_lin38} #lp #certidao-municipal e) Certidão do Município, quanto ao uso e ocupação do solo, conforme modelo apresentado no [[instrucao-normativa-iap-100002#anexo1|ANEXO 1 da IN 100.002]].;
@@ -125,7 +125,7 @@ Tags: #vigencia #revogacao
 - **Anexo, IN 003/2006, item 5.1, II, alínea g, linha 40** {#anexo-in_lin40} #lp #taxa-ambiental g) Comprovante de recolhimento da Taxa Ambiental (Ficha de Compensação Bancária) de acordo com a [[instrucao-normativa-iap-100004|IN 100.004]].
 - **Anexo, IN 003/2006, item 5.1, III, linha 41** {#anexo-in_lin41} #li III. LICENÇA DE INSTALAÇÃO
 - **Anexo, IN 003/2006, item 5.1, III, alínea a, linha 42** {#anexo-in_lin42} #li a) Requerimento de Licenciamento Ambiental;
-- **Anexo, IN 003/2006, item 5.1, III, alínea b, linha 43** {#anexo-in_lin43} #li #cadastro b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]] ;
+- **Anexo, IN 003/2006, item 5.1, III, alínea b, linha 43** {#anexo-in_lin43} #li b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]] ;
 - **Anexo, IN 003/2006, item 5.1, III, alínea c, linha 44** {#anexo-in_lin44} #li #documentacao c) Cópia do Ato Constitutivo ou do Contrato Social;
 - **Anexo, IN 003/2006, item 5.1, III, alínea d, linha 45** {#anexo-in_lin45} #li #dominialidade #reserva-legal d) Matrícula ou Transcrição do Cartório de Registro de Imóveis em nome do requerente, atualizada em no máximo 90 (noventa) dias, com Averbação da Reserva Legal na margem da matrícula, se área rural;
 - **Anexo, IN 003/2006, item 5.1, III, alínea e, linha 46** {#anexo-in_lin46} #li e) Documentação complementar do imóvel, se a situação imobiliária estiver irregular ou comprometida, conforme exigências para casos imobiliários excepcionais estabelecidos na [[instrucao-normativa-iap-100005|IN 100.005]];
@@ -146,7 +146,7 @@ Tags: #vigencia #revogacao
 - **Anexo, IN 003/2006, item 5.1, IV, alínea fa, linha 61** {#anexo-in_lin61} #li #renovacao #taxa-ambiental fa) Comprovante de recolhimento da Taxa Ambiental (Ficha de Compensação Bancária) de acordo com a [[instrucao-normativa-iap-100004|IN 100.004]].)
 - **Anexo, IN 003/2006, item 5.1, V, linha 62** {#anexo-in_lin62} #lo V. LICENÇA DE OPERAÇÃO
 - **Anexo, IN 003/2006, item 5.1, V, alínea a, linha 63** {#anexo-in_lin63} #lo a) Requerimento de Licenciamento Ambiental;
-- **Anexo, IN 003/2006, item 5.1, V, alínea b, linha 64** {#anexo-in_lin64} #lo #cadastro b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
+- **Anexo, IN 003/2006, item 5.1, V, alínea b, linha 64** {#anexo-in_lin64} #lo b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
 - **Anexo, IN 003/2006, item 5.1, V, alínea c, linha 65** {#anexo-in_lin65} #lo #art-anotacao #laudo-conclusao-obra c) Laudo de conclusão de obra referente ao sistema de controle de poluição aprovado pelo IAP, emitido por técnico habilitado, acompanhado da respectiva ART – Anotação de Responsabilidade Técnica;
 - **Anexo, IN 003/2006, item 5.1, V, alínea d, linha 66** {#anexo-in_lin66} #lo d) Cópia da Licença de Instalação;
 - **Anexo, IN 003/2006, item 5.1, V, alínea e, linha 67** {#anexo-in_lin67} #lo e) Publicação de súmula de concessão de Licença de Instalação em jornal de circulação regional e no Diário Oficial do Estado, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA no 006/86]] (as publicações deverão ser comprovadas através da apresentação dos jornais respectivos – originais);
@@ -154,7 +154,7 @@ Tags: #vigencia #revogacao
 - **Anexo, IN 003/2006, item 5.1, V, alínea g, linha 69** {#anexo-in_lin69} #lo #taxa-ambiental g) Comprovante de recolhimento da Taxa Ambiental (Ficha de Compensação Bancária) de acordo com a [[instrucao-normativa-iap-100004|IN 100.004]].
 - **Anexo, IN 003/2006, item 5.1, VI, linha 70** {#anexo-in_lin70} #lo #renovacao VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO
 - **Anexo, IN 003/2006, item 5.1, VI, alínea a, linha 71** {#anexo-in_lin71} #lo #renovacao a) Requerimento de Licenciamento Ambiental;
-- **Anexo, IN 003/2006, item 5.1, VI, alínea b, linha 72** {#anexo-in_lin72} #lo #renovacao #cadastro b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
+- **Anexo, IN 003/2006, item 5.1, VI, alínea b, linha 72** {#anexo-in_lin72} #lo #renovacao b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
 - **Anexo, IN 003/2006, item 5.1, VI, alínea c, linha 73** {#anexo-in_lin73} #lo #renovacao #pgrss #art-anotacao c) PGRSS (Plano de Gerenciamento de Resíduos de Serviço de Saúde), atualizado, em duas vias, elaborado por técnico habilitado com respectiva ART (Anotação de Responsabilidade Técnica) e apresentado de acordo coma as diretrizes específicas deste IAP ([[portaria-iap-26-2006-anexo3|ANEXO 3]]);
 - **Anexo, IN 003/2006, item 5.1, VI, alínea d, linha 74** {#anexo-in_lin74} #lo #renovacao #serflor d) Certificado de Registro no SERFLOR em se tratando de empreendimentos que extraiam, coletem, beneficiem, transformem, industrializem, comercializem, armazenem e transformem produtos, subprodutos ou matéria-prima de origem florestal, nos termos do [[decreto-estadual-1940-1996|Decreto Estadual nº 1940, de 3 de junho de 1996]];
 - **Anexo, IN 003/2006, item 5.1, VI, alínea e, linha 75** {#anexo-in_lin75} #lo #renovacao #automonitoramento #emissao-atmosferica e) Relatório do automonitoramento das emissões atmosféricas, se necessário, conforme estabelecido na [[resolucao-sema-41-2002|Resolução SEMA 041/02]] (nos casos em que o referido plano já tenha sido apresentado, informar o número do(s) protocolo(s) junto ao IAP);
@@ -166,19 +166,19 @@ Tags: #vigencia #revogacao
 - **Anexo, IN 003/2006, item 5.1, VI, alínea k, linha 81** {#anexo-in_lin81} #lo #renovacao #taxa-ambiental k) Comprovante de recolhimento da Taxa Ambiental (Ficha de Compensação Bancária) de acordo com a [[instrucao-normativa-iap-100004|IN 100.004]].
 - **Anexo, IN 003/2006, item 5.1, linha 82** {#anexo-in_lin82} #regularizacao EMPREENDIMENTOS JÁ INSTALADOS E EM FUNCIONAMENTO (REGULARIZAÇÃO)
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", linha 83** {#anexo-in_lin83} Atividades ou empreendimentos já existentes e com início de funcionamento até 1997, que estejam regularizando seu Licenciamento Ambiental, poderão solicitar diretamente a Licença de Operação, de acordo com o disposto no [[resolucao-conama-237-1997#art8_par1u|Artigo 8º, parágrafo única da Resolução CONAMA 237/97]].
-- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, linha 84** {#anexo-in_lin84} #cadastramento-ambiental #regularizacao I. CERTIFICADO DE CADASTRAMENTO AMBIENTAL:
-- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, linha 85** {#anexo-in_lin85} #cadastramento-ambiental #regularizacao Estão sujeitos a declaração ambiental os empreendimentos já especificados no item 0.
-- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea a, linha 86** {#anexo-in_lin86} #cadastramento-ambiental #regularizacao a) Requerimento de Licenciamento Ambiental;
-- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea b, linha 87** {#anexo-in_lin87} #cadastramento-ambiental #regularizacao #cadastro b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
-- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea c, linha 88** {#anexo-in_lin88} #cadastramento-ambiental #regularizacao #documentacao c) Cópia do Ato Constitutivo ou do Contrato Social;
-- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea d, linha 89** {#anexo-in_lin89} #cadastramento-ambiental #regularizacao #alvara d) Cópia autenticada do Alvará de Funcionamento;
-- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea e, linha 90** {#anexo-in_lin90} #cadastramento-ambiental #regularizacao #licenca-sanitaria e) Cópia autenticada da Licença Sanitária;
-- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea f, linha 91** {#anexo-in_lin91} #cadastramento-ambiental #regularizacao #pgrss #art-anotacao f) Plano Simplificado de Gerenciamento de Resíduos de Serviços de Saúde, em duas vias, elaborado por técnico habilitado com respectiva ART (Anotação de Responsabilidade Técnica) e apresentado de acordo coma as diretrizes específicas deste IAP ([[portaria-iap-26-2006-anexo2|ANEXO 2]]), já com a manifestação técnica definitiva da parte intra-hospitalar do Órgão da Saúde;
-- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea g, linha 92** {#anexo-in_lin92} #cadastramento-ambiental #regularizacao #contratacao-terceiro g) Cópia do contrato firmado com a empresa que irá realizar a destinação final dos resíduos do Grupo A,B e E.
-- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea h, linha 93** {#anexo-in_lin93} #cadastramento-ambiental #regularizacao #taxa-ambiental h) Comprovante de recolhimento da Taxa Ambiental (Ficha de Compensação Bancária) de acordo com a [[instrucao-normativa-iap-100004|IN 100.004]] - será cobrada taxa de 2 UPF’S – mesma que para Autorização Ambiental.
+- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, linha 84** {#anexo-in_lin84} #regularizacao I. CERTIFICADO DE CADASTRAMENTO AMBIENTAL:
+- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, linha 85** {#anexo-in_lin85} #regularizacao Estão sujeitos a declaração ambiental os empreendimentos já especificados no item 0.
+- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea a, linha 86** {#anexo-in_lin86} #regularizacao a) Requerimento de Licenciamento Ambiental;
+- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea b, linha 87** {#anexo-in_lin87} #regularizacao b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
+- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea c, linha 88** {#anexo-in_lin88} #regularizacao #documentacao c) Cópia do Ato Constitutivo ou do Contrato Social;
+- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea d, linha 89** {#anexo-in_lin89} #regularizacao #alvara d) Cópia autenticada do Alvará de Funcionamento;
+- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea e, linha 90** {#anexo-in_lin90} #regularizacao #licenca-sanitaria e) Cópia autenticada da Licença Sanitária;
+- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea f, linha 91** {#anexo-in_lin91} #regularizacao #pgrss #art-anotacao f) Plano Simplificado de Gerenciamento de Resíduos de Serviços de Saúde, em duas vias, elaborado por técnico habilitado com respectiva ART (Anotação de Responsabilidade Técnica) e apresentado de acordo coma as diretrizes específicas deste IAP ([[portaria-iap-26-2006-anexo2|ANEXO 2]]), já com a manifestação técnica definitiva da parte intra-hospitalar do Órgão da Saúde;
+- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea g, linha 92** {#anexo-in_lin92} #regularizacao #contratacao-terceiro g) Cópia do contrato firmado com a empresa que irá realizar a destinação final dos resíduos do Grupo A,B e E.
+- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", I, alínea h, linha 93** {#anexo-in_lin93} #regularizacao #taxa-ambiental h) Comprovante de recolhimento da Taxa Ambiental (Ficha de Compensação Bancária) de acordo com a [[instrucao-normativa-iap-100004|IN 100.004]] - será cobrada taxa de 2 UPF’S – mesma que para Autorização Ambiental.
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", II, linha 94** {#anexo-in_lin94} #lp #regularizacao II. LICENÇA PRÉVIA
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", II, alínea a, linha 95** {#anexo-in_lin95} #lp #regularizacao a) Requerimento de Licenciamento Ambiental;
-- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", II, alínea b, linha 96** {#anexo-in_lin96} #lp #regularizacao #cadastro b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
+- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", II, alínea b, linha 96** {#anexo-in_lin96} #lp #regularizacao b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", II, alínea c, linha 97** {#anexo-in_lin97} #lp #regularizacao #dominialidade c) Matrícula ou Transcrição do Cartório de Registro de Imóveis atualizada, no máximo, 90 (noventa) dias;
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", II, alínea d, linha 98** {#anexo-in_lin98} #lp #regularizacao d) Documentação complementar do imóvel, se a situação imobiliária estiver irregular ou comprometida, conforme exigências para casos imobiliários excepcionais estabelecidos na [[instrucao-normativa-iap-100005|IN 100.005]];
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", II, alínea e, linha 99** {#anexo-in_lin99} #lp #regularizacao #certidao-municipal e) Certidão do Município, quanto ao uso e ocupação do solo, conforme modelo apresentado no [[instrucao-normativa-iap-100002#anexo1|ANEXO 1 da IN 100.002]].;
@@ -186,7 +186,7 @@ Tags: #vigencia #revogacao
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", II, alínea g, linha 101** {#anexo-in_lin101} #lp #regularizacao #taxa-ambiental g) Comprovante de recolhimento da Taxa Ambiental (Ficha de Compensação Bancária) de acordo com a [[instrucao-normativa-iap-100004|IN 100.004]].
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", III, linha 102** {#anexo-in_lin102} #li #regularizacao III. LICENÇA DE INSTALAÇÃO
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", III, alínea a, linha 103** {#anexo-in_lin103} #li #regularizacao a) Requerimento de Licenciamento Ambiental;
-- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", III, alínea b, linha 104** {#anexo-in_lin104} #li #regularizacao #cadastro b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]] ;
+- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", III, alínea b, linha 104** {#anexo-in_lin104} #li #regularizacao b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]] ;
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", III, alínea c, linha 105** {#anexo-in_lin105} #li #regularizacao #documentacao c) Cópia do Ato Constitutivo ou do Contrato Social;
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", III, alínea d, linha 106** {#anexo-in_lin106} #li #regularizacao #dominialidade #reserva-legal d) Matrícula ou Transcrição do Cartório de Registro de Imóveis em nome do requerente, atualizada em no máximo 90 (noventa) dias, com Averbação da Reserva Legal na margem da matrícula, se área rural;
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", III, alínea e, linha 107** {#anexo-in_lin107} #li #regularizacao e) Documentação complementar do imóvel, se a situação imobiliária estiver irregular ou comprometida, conforme exigências para casos imobiliários excepcionais estabelecidos na [[instrucao-normativa-iap-100005|IN 100.005]];
@@ -199,7 +199,7 @@ Tags: #vigencia #revogacao
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", III, alínea l, linha 114** {#anexo-in_lin114} #li #regularizacao #taxa-ambiental l) Comprovante de recolhimento da Taxa Ambiental (Ficha de Compensação Bancária) de acordo com a [[instrucao-normativa-iap-100004|IN 100.004]].
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", V, linha 115** {#anexo-in_lin115} #lo #regularizacao V. LICENÇA DE OPERAÇÃO
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", V, alínea a, linha 116** {#anexo-in_lin116} #lo #regularizacao a) Requerimento de Licenciamento Ambiental;
-- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", V, alínea b, linha 117** {#anexo-in_lin117} #lo #regularizacao #cadastro b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
+- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", V, alínea b, linha 117** {#anexo-in_lin117} #lo #regularizacao b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", V, alínea c, linha 118** {#anexo-in_lin118} #lo #regularizacao #art-anotacao #laudo-conclusao-obra c) Laudo de conclusão de obra referente ao sistema de controle de poluição aprovado pelo IAP, emitido por técnico habilitado, acompanhado da respectiva ART – Anotação de Responsabilidade Técnica;
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", V, alínea d, linha 119** {#anexo-in_lin119} #lo #regularizacao d) Cópia da Licença de Instalação;
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", V, alínea e, linha 120** {#anexo-in_lin120} #lo #regularizacao e) Publicação de súmula de concessão de Licença de Instalação em jornal de circulação regional e no Diário Oficial do Estado, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA no 006/86]] (as publicações deverão ser comprovadas através da apresentação dos jornais respectivos – originais);
@@ -207,7 +207,7 @@ Tags: #vigencia #revogacao
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", V, alínea g, linha 122** {#anexo-in_lin122} #lo #regularizacao #taxa-ambiental g) Comprovante de recolhimento da Taxa Ambiental (Ficha de Compensação Bancária) de acordo com a [[instrucao-normativa-iap-100004|IN 100.004]].
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", VI, linha 123** {#anexo-in_lin123} #lo #renovacao #regularizacao VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", VI, alínea a (com ponto), linha 124** {#anexo-in_lin124} #lo #renovacao #regularizacao a. Requerimento de Licenciamento Ambiental;
-- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", VI, alínea b (com ponto), linha 125** {#anexo-in_lin125} #lo #renovacao #regularizacao #cadastro b. Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
+- **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", VI, alínea b (com ponto), linha 125** {#anexo-in_lin125} #lo #renovacao #regularizacao b. Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", VI, alínea b, linha 126** {#anexo-in_lin126} #lo #renovacao #regularizacao #pgrss #art-anotacao b) PGRSS (Plano de Gerenciamento de Resíduos de Serviço de Saúde), atualizado, em duas vias, elaborado por técnico habilitado com respectiva ART (Anotação de Responsabilidade Técnica) e apresentado de acordo coma as diretrizes específicas deste IAP ([[portaria-iap-26-2006-anexo3|ANEXO 3]]);
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", VI, alínea c, linha 127** {#anexo-in_lin127} #lo #renovacao #regularizacao #serflor c) Certificado de Registro no SERFLOR em se tratando de empreendimentos que extraiam, coletem, beneficiem, transformem, industrializem, comercializem, armazenem e transformem produtos, subprodutos ou matéria-prima de origem florestal, nos termos do [[decreto-estadual-1940-1996|Decreto Estadual nº 1940, de 3 de junho de 1996]];
 - **Anexo, IN 003/2006, item 5.1, bloco sem número "Regularização", VI, alínea d, linha 128** {#anexo-in_lin128} #lo #renovacao #regularizacao #automonitoramento #emissao-atmosferica d) Relatório do automonitoramento das emissões atmosféricas, se necessário, conforme estabelecido na [[resolucao-sema-41-2002|Resolução SEMA 041/02]] (nos casos em que o referido plano já tenha sido apresentado, informar o número do(s) protocolo(s) junto ao IAP);
@@ -221,19 +221,19 @@ Tags: #vigencia #revogacao
 ##### 5.2 EMPREENDIMENTOS JÁ INSTALADOS E EM FUNCIONAMENTO REGULARIZAÇÃO {#anexo-in_ite5-2}
 
 - **Anexo, IN 003/2006, item 5.2, linha 135** {#anexo-in_lin135} Atividades ou empreendimentos já existentes e com início de funcionamento até 1997, que estejam regularizando seu Licenciamento Ambiental, poderão solicitar diretamente a Licença de Operação, de acordo com o disposto no [[resolucao-conama-237-1997#art8_par1u|Artigo 8º, parágrafo única da Resolução CONAMA 237/97]].
-- **Anexo, IN 003/2006, item 5.2, I, linha 136** {#anexo-in_lin136} #cadastramento-ambiental #regularizacao I. CERTIFICADO DE CADASTRAMENTO AMBIENTAL:
-- **Anexo, IN 003/2006, item 5.2, I, linha 137** {#anexo-in_lin137} #cadastramento-ambiental #regularizacao Estão sujeitos a declaração ambiental os empreendimentos já especificados no item 0.
-- **Anexo, IN 003/2006, item 5.2, I, alínea h, linha 138** {#anexo-in_lin138} #cadastramento-ambiental #regularizacao h) Requerimento de Licenciamento Ambiental;
-- **Anexo, IN 003/2006, item 5.2, I, alínea i, linha 139** {#anexo-in_lin139} #cadastramento-ambiental #regularizacao #cadastro i) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
-- **Anexo, IN 003/2006, item 5.2, I, alínea j, linha 140** {#anexo-in_lin140} #cadastramento-ambiental #regularizacao #documentacao j) Cópia do Ato Constitutivo ou do Contrato Social;
-- **Anexo, IN 003/2006, item 5.2, I, alínea k, linha 141** {#anexo-in_lin141} #cadastramento-ambiental #regularizacao #alvara k) Cópia autenticada do Alvará de Funcionamento;
-- **Anexo, IN 003/2006, item 5.2, I, alínea l, linha 142** {#anexo-in_lin142} #cadastramento-ambiental #regularizacao #licenca-sanitaria l) Cópia autenticada da Licença Sanitária;
-- **Anexo, IN 003/2006, item 5.2, I, alínea m, linha 143** {#anexo-in_lin143} #cadastramento-ambiental #regularizacao #pgrss #art-anotacao m) Plano Simplificado de Gerenciamento de Resíduos de Serviços de Saúde, em duas vias, elaborado por técnico habilitado com respectiva ART (Anotação de Responsabilidade Técnica) e apresentado de acordo coma as diretrizes específicas deste IAP ([[portaria-iap-26-2006-anexo2|ANEXO 2]]), já com a manifestação técnica definitiva da parte intra-hospitalar do Órgão da Saúde;
-- **Anexo, IN 003/2006, item 5.2, I, alínea n, linha 144** {#anexo-in_lin144} #cadastramento-ambiental #regularizacao #contratacao-terceiro n) Cópia do contrato firmado com a empresa que irá realizar a destinação final dos resíduos do Grupo A,B e E.
-- **Anexo, IN 003/2006, item 5.2, I, alínea h, linha 145** {#anexo-in_lin145} #cadastramento-ambiental #regularizacao #taxa-ambiental h) Comprovante de recolhimento da Taxa Ambiental (Ficha de Compensação Bancária) de acordo com a [[instrucao-normativa-iap-100004|IN 100.004]] - será cobrada taxa de 2 UPF’S – mesma que para Autorização Ambiental.
+- **Anexo, IN 003/2006, item 5.2, I, linha 136** {#anexo-in_lin136} #regularizacao I. CERTIFICADO DE CADASTRAMENTO AMBIENTAL:
+- **Anexo, IN 003/2006, item 5.2, I, linha 137** {#anexo-in_lin137} #regularizacao Estão sujeitos a declaração ambiental os empreendimentos já especificados no item 0.
+- **Anexo, IN 003/2006, item 5.2, I, alínea h, linha 138** {#anexo-in_lin138} #regularizacao h) Requerimento de Licenciamento Ambiental;
+- **Anexo, IN 003/2006, item 5.2, I, alínea i, linha 139** {#anexo-in_lin139} #regularizacao i) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]];
+- **Anexo, IN 003/2006, item 5.2, I, alínea j, linha 140** {#anexo-in_lin140} #regularizacao #documentacao j) Cópia do Ato Constitutivo ou do Contrato Social;
+- **Anexo, IN 003/2006, item 5.2, I, alínea k, linha 141** {#anexo-in_lin141} #regularizacao #alvara k) Cópia autenticada do Alvará de Funcionamento;
+- **Anexo, IN 003/2006, item 5.2, I, alínea l, linha 142** {#anexo-in_lin142} #regularizacao #licenca-sanitaria l) Cópia autenticada da Licença Sanitária;
+- **Anexo, IN 003/2006, item 5.2, I, alínea m, linha 143** {#anexo-in_lin143} #regularizacao #pgrss #art-anotacao m) Plano Simplificado de Gerenciamento de Resíduos de Serviços de Saúde, em duas vias, elaborado por técnico habilitado com respectiva ART (Anotação de Responsabilidade Técnica) e apresentado de acordo coma as diretrizes específicas deste IAP ([[portaria-iap-26-2006-anexo2|ANEXO 2]]), já com a manifestação técnica definitiva da parte intra-hospitalar do Órgão da Saúde;
+- **Anexo, IN 003/2006, item 5.2, I, alínea n, linha 144** {#anexo-in_lin144} #regularizacao #contratacao-terceiro n) Cópia do contrato firmado com a empresa que irá realizar a destinação final dos resíduos do Grupo A,B e E.
+- **Anexo, IN 003/2006, item 5.2, I, alínea h, linha 145** {#anexo-in_lin145} #regularizacao #taxa-ambiental h) Comprovante de recolhimento da Taxa Ambiental (Ficha de Compensação Bancária) de acordo com a [[instrucao-normativa-iap-100004|IN 100.004]] - será cobrada taxa de 2 UPF’S – mesma que para Autorização Ambiental.
 - **Anexo, IN 003/2006, item 5.2, I, linha 146** {#anexo-in_lin146} #lo #regularizacao I. LICENÇA DE OPERAÇÃO
 - **Anexo, IN 003/2006, item 5.2, I, alínea a, linha 147** {#anexo-in_lin147} #lo #regularizacao a) Requerimento de Licenciamento Ambiental;
-- **Anexo, IN 003/2006, item 5.2, I, alínea b, linha 148** {#anexo-in_lin148} #lo #regularizacao #cadastro b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]] ;
+- **Anexo, IN 003/2006, item 5.2, I, alínea b, linha 148** {#anexo-in_lin148} #lo #regularizacao b) Cadastro de Serviços de saúde – [[#anexo1|ANEXO 1]] ;
 - **Anexo, IN 003/2006, item 5.2, I, alínea c, linha 149** {#anexo-in_lin149} #lo #regularizacao #documentacao c) Cópia do Ato Constitutivo ou do Contrato Social (com última alteração)
 - **Anexo, IN 003/2006, item 5.2, I, alínea d, linha 150** {#anexo-in_lin150} #lo #regularizacao #dominialidade #reserva-legal d) Matrícula ou Transcrição do Cartório de Registro de Imóveis em nome do requerente, atualizada, no máximo, 90 (noventa) dias (com Averbação da Reserva Legal à margem da matrícula, se imóvel rural);
 - **Anexo, IN 003/2006, item 5.2, I, alínea e, linha 151** {#anexo-in_lin151} #lo #regularizacao e) Documentação complementar do imóvel, se a situação imobiliária estiver irregular ou comprometida, conforme exigências para casos imobiliários excepcionais estabelecidos na [[instrucao-normativa-iap-100005|IN 100.005]];
@@ -253,28 +253,28 @@ Tags: #vigencia #revogacao
 
 ##### 6.1 EMPREENDIMENTOS NOVOS OU AMPLIAÇÕES OU EMPREENDIMENTOS JÁ EM FUNCIONAMENTO QUE NÃO SE ENQUADRAM NO ITEM 0 {#anexo-in_ite6-1}
 
-- **Anexo, IN 003/2006, item 6.1, I, linha 162** {#anexo-in_lin162} #cadastramento-ambiental I. CERTIFICADO DE CADASTRAMENTO AMBIENTAL (PARA GERADORES ATÉ 30 L/SEMANA)
-- **Anexo, IN 003/2006, item 6.1, I, alínea a, linha 163** {#anexo-in_lin163} #cadastramento-ambiental a) a solicitação da documentação necessária;
-- **Anexo, IN 003/2006, item 6.1, I, alínea b, linha 164** {#anexo-in_lin164} #cadastramento-ambiental #taxa-ambiental b) a cobrança da Taxa Ambiental ([[instrucao-normativa-iap-100004|IN 100.004]]) ;
-- **Anexo, IN 003/2006, item 6.1, I, alínea c, linha 165** {#anexo-in_lin165} #cadastramento-ambiental c) o ordenamento administrativo;
-- **Anexo, IN 003/2006, item 6.1, I, alínea d, linha 166** {#anexo-in_lin166} #cadastramento-ambiental #vistoria d) a Vistoria Técnica e emissão do Relatório de Inspeção Ambiental;
-- **Anexo, IN 003/2006, item 6.1, I, alínea e, linha 167** {#anexo-in_lin167} #cadastramento-ambiental #pgrss e) a análise do Plano Simplificado de Gerenciamento de Resíduos de Serviços de Saúde;
-- **Anexo, IN 003/2006, item 6.1, I, alínea f, linha 168** {#anexo-in_lin168} #cadastramento-ambiental #parecer-tecnico f) a emissão do Parecer Técnico;
-- **Anexo, IN 003/2006, item 6.1, I, alínea g, linha 169** {#anexo-in_lin169} #cadastramento-ambiental #manifestacao-juridica g) se necessário, o encaminhamento do procedimento administrativo para avaliação e parecer jurídico;
-- **Anexo, IN 003/2006, item 6.1, I, alínea h, linha 170** {#anexo-in_lin170} #cadastramento-ambiental #vegetacao-nativa h) caso haja cobertura florestal, o encaminhamento do procedimento administrativo para parecer técnico do setor competente;
-- **Anexo, IN 003/2006, item 6.1, I, alínea i, linha 171** {#anexo-in_lin171} #cadastramento-ambiental #complementacao i) se necessário, emissão do Ofício de solicitação de ajustes/complementações;
-- **Anexo, IN 003/2006, item 6.1, I, alínea j, linha 172** {#anexo-in_lin172} #cadastramento-ambiental j) a decisão administrativa:
-- **Anexo, IN 003/2006, item 6.1, I, alínea j, marcador, linha 173** {#anexo-in_lin173} #cadastramento-ambiental #indeferimento - emissão do Indeferimento Ambiental ou
-- **Anexo, IN 003/2006, item 6.1, I, alínea j, marcador, linha 174** {#anexo-in_lin174} #cadastramento-ambiental - emissão do Certificado de Declaração Ambiental.
-- **Anexo, IN 003/2006, item 6.1, I, alínea k, linha 175** {#anexo-in_lin175} #cadastramento-ambiental #validade k) prazo de validade da Declaração de Cadastramento Ambiental de 6 (seis) anos.
-- **Anexo, IN 003/2006, item 6.1, I, alínea k, marcador, linha 176** {#anexo-in_lin176} #cadastramento-ambiental #pgrss #art-anotacao #prazo - emissão de Declaração com condicionante de que no dia 31 de março de cada ano, deverá ser apresentado ao IAP um relatório ou declaração relativo ao cumprimento do PGRSS, subscrita pelo administrador do estabelecimento e pelo responsável técnico devidamente habilitado com respectiva ART, conforme estabelecido pela [[resolucao-conama-358-2005|Resolução nº 358/05 – CONAMA]]
+- **Anexo, IN 003/2006, item 6.1, I, linha 162** {#anexo-in_lin162} I. CERTIFICADO DE CADASTRAMENTO AMBIENTAL (PARA GERADORES ATÉ 30 L/SEMANA)
+- **Anexo, IN 003/2006, item 6.1, I, alínea a, linha 163** {#anexo-in_lin163} a) a solicitação da documentação necessária;
+- **Anexo, IN 003/2006, item 6.1, I, alínea b, linha 164** {#anexo-in_lin164} #taxa-ambiental b) a cobrança da Taxa Ambiental ([[instrucao-normativa-iap-100004|IN 100.004]]) ;
+- **Anexo, IN 003/2006, item 6.1, I, alínea c, linha 165** {#anexo-in_lin165} c) o ordenamento administrativo;
+- **Anexo, IN 003/2006, item 6.1, I, alínea d, linha 166** {#anexo-in_lin166} #vistoria d) a Vistoria Técnica e emissão do Relatório de Inspeção Ambiental;
+- **Anexo, IN 003/2006, item 6.1, I, alínea e, linha 167** {#anexo-in_lin167} #pgrss e) a análise do Plano Simplificado de Gerenciamento de Resíduos de Serviços de Saúde;
+- **Anexo, IN 003/2006, item 6.1, I, alínea f, linha 168** {#anexo-in_lin168} #parecer-tecnico f) a emissão do Parecer Técnico;
+- **Anexo, IN 003/2006, item 6.1, I, alínea g, linha 169** {#anexo-in_lin169} g) se necessário, o encaminhamento do procedimento administrativo para avaliação e parecer jurídico;
+- **Anexo, IN 003/2006, item 6.1, I, alínea h, linha 170** {#anexo-in_lin170} #vegetacao-nativa h) caso haja cobertura florestal, o encaminhamento do procedimento administrativo para parecer técnico do setor competente;
+- **Anexo, IN 003/2006, item 6.1, I, alínea i, linha 171** {#anexo-in_lin171} #complementacao i) se necessário, emissão do Ofício de solicitação de ajustes/complementações;
+- **Anexo, IN 003/2006, item 6.1, I, alínea j, linha 172** {#anexo-in_lin172} j) a decisão administrativa:
+- **Anexo, IN 003/2006, item 6.1, I, alínea j, marcador, linha 173** {#anexo-in_lin173} #indeferimento - emissão do Indeferimento Ambiental ou
+- **Anexo, IN 003/2006, item 6.1, I, alínea j, marcador, linha 174** {#anexo-in_lin174} - emissão do Certificado de Declaração Ambiental.
+- **Anexo, IN 003/2006, item 6.1, I, alínea k, linha 175** {#anexo-in_lin175} #validade k) prazo de validade da Declaração de Cadastramento Ambiental de 6 (seis) anos.
+- **Anexo, IN 003/2006, item 6.1, I, alínea k, marcador, linha 176** {#anexo-in_lin176} #pgrss #art-anotacao #prazo - emissão de Declaração com condicionante de que no dia 31 de março de cada ano, deverá ser apresentado ao IAP um relatório ou declaração relativo ao cumprimento do PGRSS, subscrita pelo administrador do estabelecimento e pelo responsável técnico devidamente habilitado com respectiva ART, conforme estabelecido pela [[resolucao-conama-358-2005|Resolução nº 358/05 – CONAMA]]
 - **Anexo, IN 003/2006, item 6.1, II, linha 177** {#anexo-in_lin177} #lp II. LICENCIAMENTO AMBIENTAL PRÉVIO
 - **Anexo, IN 003/2006, item 6.1, II, alínea a, linha 178** {#anexo-in_lin178} #lp a) a solicitação da documentação necessária;
 - **Anexo, IN 003/2006, item 6.1, II, alínea b, linha 179** {#anexo-in_lin179} #lp #taxa-ambiental b) a cobrança da Taxa Ambiental ([[instrucao-normativa-iap-100004|IN 100.004]]) ;
 - **Anexo, IN 003/2006, item 6.1, II, alínea c, linha 180** {#anexo-in_lin180} #lp c) o ordenamento administrativo;
 - **Anexo, IN 003/2006, item 6.1, II, alínea d, linha 181** {#anexo-in_lin181} #lp #vistoria d) a Vistoria Técnica e emissão do Relatório de Inspeção Ambiental;
 - **Anexo, IN 003/2006, item 6.1, II, alínea e, linha 182** {#anexo-in_lin182} #lp #parecer-tecnico e) a emissão do Parecer Técnico;
-- **Anexo, IN 003/2006, item 6.1, II, alínea f, linha 183** {#anexo-in_lin183} #lp #manifestacao-juridica f) se necessário, o encaminhamento do procedimento administrativo para avaliação e parecer jurídico;
+- **Anexo, IN 003/2006, item 6.1, II, alínea f, linha 183** {#anexo-in_lin183} #lp f) se necessário, o encaminhamento do procedimento administrativo para avaliação e parecer jurídico;
 - **Anexo, IN 003/2006, item 6.1, II, alínea g, linha 184** {#anexo-in_lin184} #lp #vegetacao-nativa g) caso haja cobertura florestal, o encaminhamento do procedimento administrativo para parecer técnico do setor competente;
 - **Anexo, IN 003/2006, item 6.1, II, alínea h, linha 185** {#anexo-in_lin185} #lp #eia-rima h) se necessário, o encaminhamento do procedimento administrativo para deliberação do Diretor de Controle de Recursos Ambientais sobre a exigência de EIA/RIMA;
 - **Anexo, IN 003/2006, item 6.1, II, alínea i, linha 186** {#anexo-in_lin186} #lp #complementacao i) se necessário, emissão do Ofício de solicitação de ajustes/complementações;
@@ -288,7 +288,7 @@ Tags: #vigencia #revogacao
 - **Anexo, IN 003/2006, item 6.1, II, alínea c, linha 194** {#anexo-in_lin194} #li c) o ordenamento administrativo;
 - **Anexo, IN 003/2006, item 6.1, II, alínea d, linha 195** {#anexo-in_lin195} #li #pca d) a análise do Plano de Controle Ambiental (observar a capacitação técnica do analista e considerar a solicitação de apoio técnico especializado ou encaminhamento do procedimento administrativo para a DIRAM);
 - **Anexo, IN 003/2006, item 6.1, II, alínea e, linha 196** {#anexo-in_lin196} #li #parecer-tecnico e) a emissão do Parecer Técnico;
-- **Anexo, IN 003/2006, item 6.1, II, alínea f, linha 197** {#anexo-in_lin197} #li #manifestacao-juridica f) se necessário, o encaminhamento do procedimento administrativo para avaliação e parecer jurídico;
+- **Anexo, IN 003/2006, item 6.1, II, alínea f, linha 197** {#anexo-in_lin197} #li f) se necessário, o encaminhamento do procedimento administrativo para avaliação e parecer jurídico;
 - **Anexo, IN 003/2006, item 6.1, II, alínea g, linha 198** {#anexo-in_lin198} #li #complementacao g) se necessário, emissão do Ofício de solicitação de ajustes e/ou complementações;
 - **Anexo, IN 003/2006, item 6.1, II, alínea h, linha 199** {#anexo-in_lin199} #li h) a decisão administrativa:
 - **Anexo, IN 003/2006, item 6.1, II, alínea h, marcador, linha 200** {#anexo-in_lin200} #li #indeferimento - emissão do Indeferimento Ambiental ou
@@ -300,7 +300,7 @@ Tags: #vigencia #revogacao
 - **Anexo, IN 003/2006, item 6.1, III, alínea c, linha 206** {#anexo-in_lin206} #lo c) o ordenamento administrativo;
 - **Anexo, IN 003/2006, item 6.1, III, alínea d, linha 207** {#anexo-in_lin207} #lo #pgrss #pca #vistoria d) vistoria técnica para verificação do atendimento ao apresentado no Plano de Controle Ambiental, no PGRSS e emissão do Relatório de Inspeção Ambiental (observar a capacitação técnica do analista e considerar a solicitação de apoio técnico especializado ou encaminhamento do procedimento administrativo para a DIRAM, na sede do IAP);
 - **Anexo, IN 003/2006, item 6.1, III, alínea d, linha 208** {#anexo-in_lin208} #lo #parecer-tecnico d) a emissão do Parecer Técnico Ambiental;
-- **Anexo, IN 003/2006, item 6.1, III, alínea e, linha 209** {#anexo-in_lin209} #lo #manifestacao-juridica e) se necessário, encaminhamento do procedimento administrativo para avaliação e parecer jurídico;
+- **Anexo, IN 003/2006, item 6.1, III, alínea e, linha 209** {#anexo-in_lin209} #lo e) se necessário, encaminhamento do procedimento administrativo para avaliação e parecer jurídico;
 - **Anexo, IN 003/2006, item 6.1, III, alínea f, linha 210** {#anexo-in_lin210} #lo #complementacao f) se necessário, emissão do Ofício de solicitação de ajustes e/ou complementações;
 - **Anexo, IN 003/2006, item 6.1, III, alínea g, linha 211** {#anexo-in_lin211} #lo g) decisão administrativa:
 - **Anexo, IN 003/2006, item 6.1, III, alínea g, marcador, linha 212** {#anexo-in_lin212} #lo #indeferimento - emissão do Indeferimento Ambiental ou
@@ -318,7 +318,7 @@ Tags: #vigencia #revogacao
 - **Anexo, IN 003/2006, item 6.2, I, alínea c, linha 221** {#anexo-in_lin221} #lo #regularizacao c) o ordenamento administrativo do processo;
 - **Anexo, IN 003/2006, item 6.2, I, alínea d, linha 222** {#anexo-in_lin222} #lo #regularizacao #vistoria d) a Vistoria Técnica e emissão do Relatório de Inspeção Ambiental;
 - **Anexo, IN 003/2006, item 6.2, I, alínea e, linha 223** {#anexo-in_lin223} #lo #regularizacao #parecer-tecnico e) a emissão do Parecer Técnico;
-- **Anexo, IN 003/2006, item 6.2, I, alínea f, linha 224** {#anexo-in_lin224} #lo #regularizacao #manifestacao-juridica f) se necessário, o encaminhamento do procedimento administrativo para avaliação e parecer jurídico;
+- **Anexo, IN 003/2006, item 6.2, I, alínea f, linha 224** {#anexo-in_lin224} #lo #regularizacao f) se necessário, o encaminhamento do procedimento administrativo para avaliação e parecer jurídico;
 - **Anexo, IN 003/2006, item 6.2, I, alínea g, linha 225** {#anexo-in_lin225} #lo #regularizacao #complementacao g) se necessário, emissão do Ofício de solicitação de ajustes/complementações;
 - **Anexo, IN 003/2006, item 6.2, I, alínea h, linha 226** {#anexo-in_lin226} #lo #regularizacao #pgrss #tac h) para empreendimentos em desacordo com a legislação ambiental e/ou que deverão implantar o sistema de controle e o PGRSS de acordo com o projeto aprovado pelo IAP, deverá ser firmado junto ao requerente Termo de Ajustamento de Conduta Ambiental (conforme modelo padrão adotado nas atividades de Fiscalização Ambiental), contendo as exigências necessárias para a adequação ambiental do empreendimento e os respectivos prazos para seu cumprimento. Quando da comprovação do cumprimento das exigências estabelecidas no referido Termo, através de inspeção ambiental, o IAP emitirá a Licença de Operação;
 - **Anexo, IN 003/2006, item 6.2, I, alínea i, linha 227** {#anexo-in_lin227} #lo #regularizacao i) a decisão administrativa:
@@ -335,7 +335,7 @@ Tags: #vigencia #revogacao
 
 #### ANEXOS {#anexo-in_ite8}
 
-- **Anexo, IN 003/2006, item 8, marcador, linha 235** {#anexo-in_lin235} #cadastro · [[#anexo1|Anexo 1]] - Cadastro de Serviços de saúde
+- **Anexo, IN 003/2006, item 8, marcador, linha 235** {#anexo-in_lin235} · [[#anexo1|Anexo 1]] - Cadastro de Serviços de saúde
 - **Anexo, IN 003/2006, item 8, marcador, linha 236** {#anexo-in_lin236} #pgrss · [[portaria-iap-26-2006-anexo2|Anexo 2]] - Diretrizes do IAP para elaboração e apresentação do Plano Simplificado de Gerenciamento de Resíduos de Serviços de Saúde
 - **Anexo, IN 003/2006, item 8, marcador, linha 237** {#anexo-in_lin237} #pgrss · [[portaria-iap-26-2006-anexo3|Anexo 3]] - Diretrizes do IAP para elaboração e apresentação do Plano de Gerenciamento de Resíduos de Serviço de Saúde – P.G.R.S.S.
 

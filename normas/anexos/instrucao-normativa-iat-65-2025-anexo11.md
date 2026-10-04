@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: PGRS
 atividades: [industria]
 modalidades: [lo, rlac, rlas, rlo, loa, lor]
-tags: [anexo, industria, pgrs, residuo-solido, mtr, inventario-residuos, logistica-reversa]
+tags: [industria, pgrs, residuo-solido, mtr, inventario-residuos, logistica-reversa]
 fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do PDF, com anexos)
 ---
 

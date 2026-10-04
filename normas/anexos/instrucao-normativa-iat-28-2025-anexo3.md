@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: MCE
 atividades: [armazenamento-agrotoxico]
 modalidades: [lac, las, lasa, lasr, lp, lpa]
-tags: [anexo, diretriz-estudo, memorial-caracterizacao, armazenamento-agrotoxico, agrotoxico, tratamento-semente, art-anotacao, balanco-hidrico, outorga, residuo-solido]
+tags: [diretriz-estudo, memorial-caracterizacao, armazenamento-agrotoxico, agrotoxico, tratamento-semente, art-anotacao, outorga, residuo-solido]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), páginas 77 a 79
 ---
 
@@ -56,7 +56,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo III, linha 35** {#anexo3_lin35} #tratamento-semente e) No caso de unidades de tratamento de sementes, informar o processo de tratamento (uso de inseticidas, fungicidas ou ambos), quais espécies de sementes serão tratadas, além do respectivo Registro Nacional de Sementes e Mudas – RENASEM da unidade.
 - **Anexo III, linha 36** {#anexo3_lin36} 6 ASPECTOS AMBIENTAIS
 - **Anexo III, linha 37** {#anexo3_lin37} a) Recursos hídricos
-- **Anexo III, linha 38** {#anexo3_lin38} #balanco-hidrico i. Balanço hídrico previsto de utilização de água indicando no mínimo:
+- **Anexo III, linha 38** {#anexo3_lin38} i. Balanço hídrico previsto de utilização de água indicando no mínimo:
 - **Anexo III, linha 39** {#anexo3_lin39} - Fontes de captação de água;
 - **Anexo III, linha 40** {#anexo3_lin40} - Vazões utilizadas no consumo humano e demais atividades;
 - **Anexo III, linha 41** {#anexo3_lin41} #outorga - Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [patio-caminhao, patio-container]
 modalidades: [lp, lpa, lasr, lir]
-tags: [anexo, patio-caminhao, patio-container, memorial-caracterizacao, impermeabilizacao]
+tags: [patio-caminhao, patio-container, memorial-caracterizacao, impermeabilizacao]
 fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinado em 15/12/2025), páginas 54 a 56
 ---
 

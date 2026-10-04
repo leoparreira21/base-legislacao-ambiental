@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: PGRSS
 atividades: [servico-saude]
 modalidades: [li, rli, rlo, lo]
-tags: [anexo, diretriz-estudo, pgrss, residuo-servico-saude, art-anotacao, tratamento-efluente]
+tags: [diretriz-estudo, pgrss, residuo-servico-saude, art-anotacao, tratamento-efluente]
 fonte: PDF do SIA (Sistema de Informações Ambientais do Estado do Paraná) da Portaria IAP 26/2006, páginas 23 a 27; o título vem da lista de anexos da IN (item 8), porque a página do anexo só traz "ANEXO III"
 ---
 

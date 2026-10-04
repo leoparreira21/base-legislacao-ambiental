@@ -20,7 +20,7 @@ alterado_por: []
 revogado_por: []
 revoga: []
 cita: ["[[constituicao-estadual-1989]]"]
-tags: [agricultura-familiar, artesanal, autorizacao-ambiental, baixo-risco, certidao-municipal, dila, dlam, dominialidade, esgotamento-sanitario, publicacao-dioe, revogacao, tratamento-esgoto, vigencia]
+tags: [agricultura-familiar, artesanal, autorizacao-ambiental, baixo-risco, certidao-municipal, dila, dlam, dominialidade, esgotamento-sanitario, publicacao-dioe, tratamento-esgoto, vigencia]
 fonte: Portal da Legislação do Estado do Paraná (versão de impressão, 2 páginas; "este texto não substitui o publicado no Diário Oficial do Estado")
 ---
 
@@ -62,7 +62,7 @@ Tags: #vigencia
 **Art. 4º, caput** {#art4_cpt} Este Decreto entra em vigor na data de sua publicação.
 
 ###### Art. 5º {#art5}
-Tags: #revogacao #certidao-municipal #artesanal #agricultura-familiar #dlam
+Tags: #certidao-municipal #artesanal #agricultura-familiar #dlam
 
 **Art. 5º, caput** {#art5_cpt} Revoga os seguintes dispositivos do [[decreto-estadual-9541-2025|Decreto nº 9.541, de 10 de abril de 2025]]:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} #certidao-municipal o [[decreto-estadual-9541-2025#art13_cpt_inc4|inciso IV do caput do art. 13]];

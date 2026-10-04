@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [armazenamento-agrotoxico]
 modalidades: [las, lasa, lasr, li, lia]
-tags: [anexo, pca, agrotoxico, cadastro, cnae, ampliacao, uso-solo, zoneamento, georreferenciamento, mapa-situacao, area-influencia, unidade-conservacao, manancial, app, reserva-legal, car, supressao-vegetacao, movimentacao-solo, contencao, impermeabilizacao, balanco-hidrico, outorga-previa, efluente, tratamento-efluente, reuso-efluente, lancamento, agua-pluvial, residuo-solido, armazenamento-residuo, emissao-atmosferica, emissao-fugitiva, padrao-emissao]
+tags: [pca, agrotoxico, cnae, ampliacao, uso-solo, mapa-situacao, area-influencia, unidade-conservacao, manancial, app, reserva-legal, car, supressao-vegetacao, movimentacao-solo, contencao, impermeabilizacao, outorga-previa, efluente, tratamento-efluente, reuso-efluente, lancamento, agua-pluvial, residuo-solido, armazenamento-residuo, emissao-atmosferica, emissao-fugitiva, padrao-emissao]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), páginas 88 a 92
 ---
 
@@ -20,7 +20,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 ## Texto do anexo {#texto-anexo}
 
 - **Anexo VIII, linha 1** {#anexo8_lin1} #art-anotacao O Projeto de Controle de Poluição Ambiental deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
-- **Anexo VIII, linha 2** {#anexo8_lin2} #cadastro 1 INFORMAÇÕES CADASTRAIS
+- **Anexo VIII, linha 2** {#anexo8_lin2} 1 INFORMAÇÕES CADASTRAIS
 - **Anexo VIII, linha 3** {#anexo8_lin3} a) Razão social;
 - **Anexo VIII, linha 4** {#anexo8_lin4} b) Nome Fantasia;
 - **Anexo VIII, linha 5** {#anexo8_lin5} c) CNPJ e Inscrição Estadual;
@@ -43,7 +43,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo VIII, linha 22** {#anexo8_lin22} iii. Área livre;
 - **Anexo VIII, linha 23** {#anexo8_lin23} iv. Áreas destinadas a ampliações futuras
 - **Anexo VIII, linha 24** {#anexo8_lin24} v. Área destinada ao sistema de controle de poluição ambiental (central de resíduos sólidos, áreas de armazenamento temporário de resíduos, efluentes, estações de tratamento de efluentes e sistemas de controle de emissões atmosféricas);
-- **Anexo VIII, linha 25** {#anexo8_lin25} #zoneamento b) Zoneamentos de acordo com as diretrizes municipais;
+- **Anexo VIII, linha 25** {#anexo8_lin25} b) Zoneamentos de acordo com as diretrizes municipais;
 - **Anexo VIII, linha 26** {#anexo8_lin26} c) Coordenadas em UTM;
 - **Anexo VIII, linha 27** {#anexo8_lin27} d) Tipo e característica do solo considerando o Sistema Brasileiro de Classificação de Solo da Embrapa, em sua versão mais atualizada;
 - **Anexo VIII, linha 28** {#anexo8_lin28} e) Topografia;
@@ -52,7 +52,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo VIII, linha 31** {#anexo8_lin31} h) Cobertura Vegetal;
 - **Anexo VIII, linha 32** {#anexo8_lin32} i) Acessos (alternativas, condições de tráfego);
 - **Anexo VIII, linha 33** {#anexo8_lin33} #uso-solo j) Características do entorno (uso do solo, residências, áreas de interesse ambiental, etc.).
-- **Anexo VIII, linha 34** {#anexo8_lin34} #mapa-situacao #georreferenciamento 5 MAPA DE SITUAÇÃO DO EMPREENDIMENTO, COM IMAGEM ATUALIZADA, EM *DATUM* SIRGAS 2000, PROJEÇÃO UTM E CONTENDO, NO MÍNIMO
+- **Anexo VIII, linha 34** {#anexo8_lin34} #mapa-situacao 5 MAPA DE SITUAÇÃO DO EMPREENDIMENTO, COM IMAGEM ATUALIZADA, EM *DATUM* SIRGAS 2000, PROJEÇÃO UTM E CONTENDO, NO MÍNIMO
 - **Anexo VIII, linha 35** {#anexo8_lin35} #car a) Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural (em caso de imóvel rural);
 - **Anexo VIII, linha 36** {#anexo8_lin36} #area-influencia b) Área Diretamente Afetada, Área de Influência Direta e Área de Influência Indireta;
 - **Anexo VIII, linha 37** {#anexo8_lin37} #unidade-conservacao #manancial c) Unidades de Conservação e Mananciais nas áreas de influência;
@@ -76,7 +76,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo VIII, linha 55** {#anexo8_lin55} d) Principais instalações e unidades de apoio, tais como área industrial, pátio de estacionamento de veículos leves, pátio de estacionamento de veículos pesados, utilidades, estações de tratamento de água e efluentes, entre outros.
 - **Anexo VIII, linha 56** {#anexo8_lin56} 8 ASPECTOS AMBIENTAIS
 - **Anexo VIII, linha 57** {#anexo8_lin57} #recurso-hidrico a) Recursos hídricos
-- **Anexo VIII, linha 58** {#anexo8_lin58} #balanco-hidrico i. Balanço hídrico previsto de utilização de água indicando no mínimo:
+- **Anexo VIII, linha 58** {#anexo8_lin58} i. Balanço hídrico previsto de utilização de água indicando no mínimo:
 - **Anexo VIII, linha 59** {#anexo8_lin59} - Fontes de captação de água;
 - **Anexo VIII, linha 60** {#anexo8_lin60} #outorga-previa - Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.
 - **Anexo VIII, linha 61** {#anexo8_lin61} #efluente ii. Balanço hídrico previsto da geração de efluentes líquidos indicando no mínimo:

@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[lei-federal-12305-2010]]", "[[lei-complementar-federal-101-2000]]", "[[lei-estadual-19261-2017]]", "[[lei-federal-9795-1999]]"]
-tags: [aproveitamento-energetico, area-degradada, catador, classificacao-residuo, coleta-seletiva, compostagem, consorcio-intermunicipal, contabilizando-residuos, cooperacao-institucional, destinacao-final, economia-circular, fiscalizacao, grande-gerador, licenciamento-ambiental, lo, logistica-reversa, monitoramento, municipio, pev, pgrs, plano-regional, pmgirs, pnrs, prazo, prioridade, reciclagem, regiao-metropolitana, renovacao, residuo-perigoso, residuo-solido, responsabilidade, revogacao, sedest, taxa-residuo, vigencia]
+tags: [aproveitamento-energetico, area-degradada, catador, classificacao-residuo, coleta-seletiva, compostagem, consorcio-intermunicipal, contabilizando-residuos, cooperacao-institucional, destinacao-final, fiscalizacao, grande-gerador, licenciamento-ambiental, lo, logistica-reversa, monitoramento, municipio, pev, pgrs, plano-regional, pmgirs, pnrs, prazo, reciclagem, regiao-metropolitana, renovacao, residuo-perigoso, residuo-solido, responsabilidade, sedest, taxa-residuo, vigencia]
 fonte: "PDF do texto sancionado (Word, 7 páginas, protocolo DL/CC/Prot. 17.642.466-6), enviado por Leo; sem indicação do número do Diário Oficial"
 ---
 
@@ -88,7 +88,7 @@ Tags: #reciclagem #coleta-seletiva #catador #compostagem #destinacao-final
 - **Art. 6º, caput, inciso IV** {#art6_cpt_inc4} #coleta-seletiva incentivar, sempre que possível, a separação, transporte e destinação diferenciada dos resíduos sólidos urbanos em três categorias (recicláveis, orgânicos e rejeitos).
 
 ###### Art. 7º {#art7}
-Tags: #coleta-seletiva #taxa-residuo #contabilizando-residuos #logistica-reversa #economia-circular #area-degradada #grande-gerador #reciclagem #catador #aproveitamento-energetico #fiscalizacao #licenciamento-ambiental #prioridade #sedest #pev
+Tags: #coleta-seletiva #taxa-residuo #contabilizando-residuos #logistica-reversa #area-degradada #grande-gerador #reciclagem #catador #aproveitamento-energetico #fiscalizacao #licenciamento-ambiental #sedest #pev
 
 **Art. 7º, caput** {#art7_cpt} São estratégias do PERS/PR:
 - **Art. 7º, caput, inciso I** {#art7_cpt_inc1} a adoção da segregação, coleta seletiva e, sempre que possível, destinação diferenciada dos resíduos sólidos urbanos em três categorias (recicláveis, orgânicos e rejeitos), seja em soluções individualizadas, integradas ou consorciadas;
@@ -99,7 +99,7 @@ Tags: #coleta-seletiva #taxa-residuo #contabilizando-residuos #logistica-reversa
   - **Art. 7º, caput, inciso IV, alínea "b"** {#art7_cpt_inc4_alib} da adequada segregação, máximo aproveitamento e redução da quantidade de resíduos sólidos destinada a aterros sanitários;
   - **Art. 7º, caput, inciso IV, alínea "c"** {#art7_cpt_inc4_alic} da educação ambiental, considerando os princípios da não-geração, redução, reutilização, reciclagem, tratamento dos resíduos sólidos, e disposição ambientalmente adequada dos rejeitos;
   - **Art. 7º, caput, inciso IV, alínea "d"** {#art7_cpt_inc4_alid} a promoção da recuperação ou aproveitamento da fração orgânica dos resíduos, fazendo uso de tecnologias, como a compostagem e biodigestão;
-- **Art. 7º, caput, inciso V** {#art7_cpt_inc5} #logistica-reversa #economia-circular a adoção, o fortalecimento e a expansão da logística reversa de resíduos pós-consumo e a economia circular;
+- **Art. 7º, caput, inciso V** {#art7_cpt_inc5} #logistica-reversa a adoção, o fortalecimento e a expansão da logística reversa de resíduos pós-consumo e a economia circular;
 - **Art. 7º, caput, inciso VI** {#art7_cpt_inc6} o apoio à implementação de infraestrutura para a segregação e reciclagem, e fortalecimento de mercado para a valorização de materiais e tratamento de resíduos sólidos;
 - **Art. 7º, caput, inciso VII** {#art7_cpt_inc7} #area-degradada a erradicação e a recuperação de áreas de disposição final inadequada de resíduos sólidos;
 - **Art. 7º, caput, inciso VIII** {#art7_cpt_inc8} a garantia da destinação ambientalmente adequada dos resíduos sólidos;
@@ -115,7 +115,7 @@ Tags: #coleta-seletiva #taxa-residuo #contabilizando-residuos #logistica-reversa
   - **Art. 7º, caput, inciso XII, alínea "a"** {#art7_cpt_inc12_alia} incentivos ao aproveitamento energético de resíduos sólidos por rotas biológicas ou térmicas, buscando priorizar a hierarquia apresentada na PNRS de não-geração, redução, reutilização e reciclagem;
   - **Art. 7º, caput, inciso XII, alínea "b"** {#art7_cpt_inc12_alib} incentivos e apoio à pesquisa, desenvolvimento e inovação realizados por órgãos públicos, pela academia e sociedade civil organizada em temas relacionados à coleta seletiva, todas as rotas tecnológicas de tratamento, logística reversa, consumo consciente e redução da geração de resíduos sólidos;
 - **Art. 7º, caput, inciso XIII** {#art7_cpt_inc13} o fortalecimento das ações de fiscalização ambiental de empreendimentos envolvidos na cadeia econômica dos resíduos sólidos;
-- **Art. 7º, caput, inciso XIV** {#art7_cpt_inc14} #licenciamento-ambiental #prioridade a priorização, celeridade e padronização de procedimentos de licenciamento ambiental de empreendimentos envolvidos na cadeia econômica dos resíduos sólidos;
+- **Art. 7º, caput, inciso XIV** {#art7_cpt_inc14} #licenciamento-ambiental a priorização, celeridade e padronização de procedimentos de licenciamento ambiental de empreendimentos envolvidos na cadeia econômica dos resíduos sólidos;
 - **Art. 7º, caput, inciso XV** {#art7_cpt_inc15} a disseminação de informações objetivas sobre o tema para os gestores públicos;
 - **Art. 7º, caput, inciso XVI** {#art7_cpt_inc16} a ampliação e o fortalecimento do corpo técnico da Secretaria de Estado do Desenvolvimento Sustentável e do Turismo – SEDEST e outros órgãos a ela vinculados;
 - **Art. 7º, caput, inciso XVII** {#art7_cpt_inc17} a integração da Secretaria de Estado do Desenvolvimento Sustentável e do Turismo – SEDEST com outras entidades responsáveis pelo planejamento e execução das ações de gestão de resíduos sólidos;
@@ -189,7 +189,6 @@ Tags: #vigencia
 **Art. 13, caput** {#art13_cpt} Esta Lei entra em vigor na data de sua publicação.
 
 ###### Art. 14 {#art14}
-Tags: #revogacao
 
 **Art. 14, caput** {#art14_cpt} Revoga os seguintes dispositivos da [[lei-estadual-19261-2017|Lei nº 19.261, de 7 de dezembro de 2017]]:
 - **Art. 14, caput, inciso I** {#art14_cpt_inc1} [[lei-estadual-19261-2017#art5_par1_inc14|o inciso XIV do § 1º do art. 5º]]; e

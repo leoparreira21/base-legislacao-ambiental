@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Diagnóstico da situação atual do empreendimento
 atividades: [industria]
 modalidades: [lasr, lir, lor]
-tags: [anexo, industria, diagnostico-ambiental, regularizacao]
+tags: [industria, diagnostico-ambiental, regularizacao]
 fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do PDF, com anexos)
 ---
 

@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: PGRSS simplificado
 atividades: [servico-saude]
 modalidades: [cca]
-tags: [anexo, diretriz-estudo, pgrss, residuo-servico-saude, cadastramento-ambiental, art-anotacao]
+tags: [diretriz-estudo, pgrss, residuo-servico-saude, art-anotacao]
 fonte: PDF do SIA (Sistema de Informações Ambientais do Estado do Paraná) da Portaria IAP 26/2006, páginas 15 a 22; o título vem da lista de anexos da IN (item 8), porque a página do anexo só traz "ANEXO II"
 ---
 

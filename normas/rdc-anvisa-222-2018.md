@@ -21,7 +21,7 @@ alterado_por: []
 revoga: ["[[rdc-anvisa-306-2004]]"]
 revogado_por: []
 cita: ["[[lei-federal-9782-1999]]", "[[rdc-anvisa-61-2016]]", "[[rdc-anvisa-15-2012]]", "[[rdc-anvisa-306-2004]]", "[[rdc-anvisa-305-2002]]", "[[lei-federal-6437-1977]]"]
-tags: [acondicionamento, aproveitamento-energetico, armazenamento-residuo, aterro-classe-i, classificacao-residuo, coletor, compostagem, conteudo-minimo, contratacao-terceiro, destinacao-final, dimensionamento, dispensa, disposicao-final, efluente, embalagem, esgoto-sanitario, fiscalizacao, fispq, gerador, gerenciamento-residuo, grupo-a, grupo-b, grupo-c, grupo-d, grupo-e, incineracao, infracao-sanitaria, laboratorio, licenca-ambiental, licenca-sanitaria, logistica-reversa, medicamento, mercurio, metal-pesado, monitoramento, perfurocortante, pgrss, pilha-bateria, pmgirs, prazo, radiologia, reciclagem, rejeito, rejeito-radioativo, residuo-liquido, residuo-perigoso, residuo-servico-saude, residuo-solido, responsabilidade, reutilizacao, revogacao, sancao, saude-ocupacional, segregacao, servico-limpeza-urbana, servico-saude, situacao-emergencia, transporte-externo, transporte-interno, tratamento-efluente, tratamento-residuo, vigencia]
+tags: [acondicionamento, aproveitamento-energetico, armazenamento-residuo, aterro-classe-i, classificacao-residuo, coletor, compostagem, conteudo-minimo, contratacao-terceiro, destinacao-final, dimensionamento, dispensa, disposicao-final, efluente, embalagem, esgoto-sanitario, fiscalizacao, fispq, gerador, gerenciamento-residuo, grupo-a, grupo-b, grupo-c, grupo-d, grupo-e, incineracao, infracao-sanitaria, laboratorio, licenca-ambiental, licenca-sanitaria, logistica-reversa, medicamento, mercurio, metal-pesado, monitoramento, perfurocortante, pgrss, pilha-bateria, pmgirs, prazo, radiologia, reciclagem, rejeito, rejeito-radioativo, residuo-liquido, residuo-perigoso, residuo-servico-saude, residuo-solido, responsabilidade, reutilizacao, sancao, saude-ocupacional, segregacao, servico-limpeza-urbana, servico-saude, situacao-emergencia, transporte-externo, transporte-interno, tratamento-efluente, tratamento-residuo, vigencia]
 fonte: "AnvisaLegis, Série Histórica (texto impresso em 27/09/2026, 14 páginas), PDF enviado por Leo; conferido com o PDF. Comentários: RDC nº 222/2018 Comentada (GRECS/GGTES/Anvisa, 11/06/2018), em [[rdc-anvisa-222-2018-coment]]"
 ---
 
@@ -777,12 +777,10 @@ Tags: #saude-ocupacional
 ## CAPÍTULO VI – DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS {#cap6}
 
 ###### Art. 92 {#art92}
-Tags: #revogacao
 
 **Art. 92, caput** {#art92_cpt} Fica revogada a [[rdc-anvisa-306-2004|Resolução da Diretoria Colegiada RDC Anvisa nº 306, de 7 de dezembro de 2004]] , a partir da entrada em vigor desta Resolução. [[rdc-anvisa-222-2018-coment#art92_cpt_coment|(comentário)]]
 
 ###### Art. 93 {#art93}
-Tags: #revogacao
 
 **Art. 93, caput** {#art93_cpt} Fica revogado o [[rdc-anvisa-305-2002|item 7 do Anexo 2 da Resolução da Diretoria Colegiada - RDC nº 305, de 14 de novembro de 2002]] . [[rdc-anvisa-222-2018-coment#art93_cpt_coment|(comentário)]]
 
