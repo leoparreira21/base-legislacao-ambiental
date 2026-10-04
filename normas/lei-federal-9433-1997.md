@@ -20,7 +20,7 @@ alterado_por: ["[[lei-federal-9984-2000]]", "[[lei-federal-10881-2004]]", "[[lei
 revoga: []
 revogado_por: []
 cita: ["[[constituicao-federal-1988]]", "[[lei-federal-8001-1990]]", "[[lei-federal-7990-1989]]", "[[decreto-federal-24643-1934]]"]
-tags: [agencia-agua, agua-pluvial, agua-subterranea, ana, aproveitamento-hidreletrico, bacia-hidrografica, captacao, cnrh, comite-bacia, compensacao-financeira, competencia, conflito-uso, conselho-estadual-recursos-hidricos, consorcio-intermunicipal, conteudo-minimo, cooperacao-institucional, degradacao-ambiental, dessedentacao-animal, dispensa, disponibilidade-hidrica, efluente, embargo, enquadramento, estado, evento-hidrologico-critico, fiscalizacao, funai, incluido, infracao-ambiental, lancamento, multa, municipio, outorga, outorga-direito, plano-recursos-hidricos, poco, prazo, redacao-alterada, reincidencia, renovacao, revogado, sancao, saneamento, seguranca-barragem, seguranca-hidrica, singreh, sistema-informacao-recursos-hidricos, terra-indigena, uso-insignificante, uso-solo, validade, vigencia, zona-costeira]
+tags: [agencia-agua, agua-pluvial, agua-subterranea, ana, aproveitamento-hidreletrico, bacia-hidrografica, captacao, conselho-nacional-dos-recursos-hidricos, comite-bacia, compensacao-financeira, competencia, conflito-uso, conselho-estadual-recursos-hidricos, consorcio-intermunicipal, conteudo-minimo, cooperacao-institucional, degradacao-ambiental, dessedentacao-animal, dispensa, disponibilidade-hidrica, efluente, embargo, enquadramento, estado, evento-hidrologico-critico, fiscalizacao, funai, incluido, infracao-ambiental, lancamento, multa, municipio, outorga, outorga-direito, plano-recursos-hidricos, poco, prazo, redacao-alterada, reincidencia, renovacao, revogado, sancao, saneamento, seguranca-barragem, seguranca-hidrica, singreh, sistema-informacao-recursos-hidricos, terra-indigena, uso-insignificante, uso-solo, validade, vigencia, zona-costeira]
 fonte: "Planalto – texto compilado (13 páginas, com as redações anteriores tachadas; 'Este texto não substitui o publicado no DOU de 9.1.1997'), enviado por Leo"
 ---
 
@@ -320,7 +320,7 @@ Tags: #singreh
 - **Art. 32, caput, inciso V** {#art32_cpt_inc5} promover a cobrança pelo uso de recursos hídricos.
 
 ###### Art. 33 {#art33}
-Tags: #singreh #cnrh #ana #conselho-estadual-recursos-hidricos #comite-bacia #agencia-agua
+Tags: #singreh #conselho-nacional-dos-recursos-hidricos #ana #conselho-estadual-recursos-hidricos #comite-bacia #agencia-agua
 Alterações: [[lei-federal-9984-2000|Lei 9.984, de 2000]] (nova redação: caput, nova redação: inciso I, incluído: inciso I-A, nova redação: inciso II, nova redação: inciso III, nova redação: inciso IV, nova redação: inciso V)
 
 **Art. 33, caput** {#art33_cpt} #redacao-alterada Integram o Sistema Nacional de Gerenciamento de Recursos Hídricos: *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
@@ -342,7 +342,7 @@ Alterações: [[lei-federal-9984-2000|Lei 9.984, de 2000]] (nova redação: capu
 ### CAPÍTULO II – DO CONSELHO NACIONAL DE RECURSOS HÍDRICOS
 
 ###### Art. 34 {#art34}
-Tags: #cnrh
+Tags: #conselho-nacional-dos-recursos-hidricos
 
 **Art. 34, caput** {#art34_cpt} O Conselho Nacional de Recursos Hídricos é composto por:
 - **Art. 34, caput, inciso I** {#art34_cpt_inc1} representantes dos Ministérios e Secretarias da Presidência da República com atuação no gerenciamento ou no uso de recursos hídricos;
@@ -353,7 +353,7 @@ Tags: #cnrh
 **Art. 34, parágrafo único** {#art34_par1u} O número de representantes do Poder Executivo Federal não poderá exceder à metade mais um do total dos membros do Conselho Nacional de Recursos Hídricos.
 
 ###### Art. 35 {#art35}
-Tags: #cnrh #competencia #plano-recursos-hidricos #comite-bacia #outorga #seguranca-barragem
+Tags: #conselho-nacional-dos-recursos-hidricos #competencia #plano-recursos-hidricos #comite-bacia #outorga #seguranca-barragem
 Alterações: [[lei-federal-9984-2000|Lei 9.984, de 2000]] (nova redação: inciso IX); [[lei-federal-12334-2010|Lei nº 12.334, de 2010]] (incluído: inciso XI, incluído: inciso XII, incluído: inciso XIII)
 
 **Art. 35, caput** {#art35_cpt} Compete ao Conselho Nacional de Recursos Hídricos:
@@ -373,7 +373,7 @@ Alterações: [[lei-federal-9984-2000|Lei 9.984, de 2000]] (nova redação: inci
 - **Art. 35, caput, inciso XIII** {#art35_cpt_inc13} #seguranca-barragem #incluido apreciar o Relatório de Segurança de Barragens, fazendo, se necessário, recomendações para melhoria da segurança das obras, bem como encaminhá-lo ao Congresso Nacional. *(Incluído pela [[lei-federal-12334-2010|Lei nº 12.334, de 2010]])*
 
 ###### Art. 36 {#art36}
-Tags: #cnrh
+Tags: #conselho-nacional-dos-recursos-hidricos
 Alterações: [[medida-provisoria-870-2019|Medida Provisória nº 870, de 2019]] (redação intermediária: inciso I, redação intermediária: inciso II); [[lei-federal-13844-2019|Lei nº 13.844, de 2019]] (redação intermediária: inciso I, redação intermediária: inciso II); [[medida-provisoria-1154-2023|Medida Provisória nº 1.154, de 2023]] (redação intermediária: inciso I, redação intermediária: inciso II); [[lei-federal-14600-2023|Lei nº 14.600, de 2023]] (nova redação: inciso I, nova redação: inciso II)
 
 **Art. 36, caput** {#art36_cpt} O Conselho Nacional de Recursos Hídricos será gerido por:
@@ -449,7 +449,7 @@ Tags: #agencia-agua #comite-bacia
 **Art. 41, caput** {#art41_cpt} As Agências de Água exercerão a função de secretaria executiva do respectivo ou respectivos Comitês de Bacia Hidrográfica.
 
 ###### Art. 42 {#art42}
-Tags: #agencia-agua #cnrh
+Tags: #agencia-agua #conselho-nacional-dos-recursos-hidricos
 
 **Art. 42, caput** {#art42_cpt} As Agências de Água terão a mesma área de atuação de um ou mais Comitês de Bacia Hidrográfica.
 
@@ -485,7 +485,7 @@ Tags: #agencia-agua #competencia #plano-recursos-hidricos #enquadramento
 ### CAPÍTULO V – DA SECRETARIA EXECUTIVA DO CONSELHO NACIONAL DE RECURSOS HÍDRICOS
 
 ###### Art. 45 {#art45}
-Tags: #cnrh
+Tags: #conselho-nacional-dos-recursos-hidricos
 Alterações: [[medida-provisoria-870-2019|Medida Provisória nº 870, de 2019]] (redação intermediária: caput); [[lei-federal-13844-2019|Lei nº 13.844, de 2019]] (redação intermediária: caput); [[medida-provisoria-1154-2023|Medida Provisória nº 1.154, de 2023]] (redação intermediária: caput); [[lei-federal-14600-2023|Lei nº 14.600, de 2023]] (nova redação: caput)
 
 **Art. 45, caput** {#art45_cpt} #redacao-alterada A Secretaria-Executiva do Conselho Nacional de Recursos Hídricos será exercida pelo órgão integrante da estrutura do Ministério da Integração e do Desenvolvimento Regional responsável pela gestão dos recursos hídricos. *(Redação dada pela [[lei-federal-14600-2023|Lei nº 14.600, de 2023]])*
@@ -497,7 +497,7 @@ Alterações: [[medida-provisoria-870-2019|Medida Provisória nº 870, de 2019]]
 
 
 ###### Art. 46 {#art46}
-Tags: #cnrh #competencia
+Tags: #conselho-nacional-dos-recursos-hidricos #competencia
 Alterações: [[lei-federal-9984-2000|Lei 9.984, de 2000]] (nova redação: caput, nova redação: inciso I, nova redação: inciso II, nova redação: inciso III, nova redação: inciso IV, nova redação: inciso V)
 
 **Art. 46, caput** {#art46_cpt} #redacao-alterada Compete à Secretaria Executiva do Conselho Nacional de Recursos Hídricos: *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*

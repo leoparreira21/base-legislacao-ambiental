@@ -19,7 +19,7 @@ alterado_por: ["[[resolucao-conama-430-2011]]", "[[resolucao-conama-410-2009]]"]
 revoga: ["[[resolucao-conama-20-1986]]"]
 revogado_por: []
 cita: ["[[lei-federal-6938-1981]]", "[[decreto-federal-99274-1990]]", "[[resolucao-conama-274-2000]]", "[[lei-federal-9433-1997]]", "[[decreto-legislativo-204-2004]]", "[[lei-federal-9605-1998]]", "[[resolucao-conama-20-1986]]"]
-tags: [abastecimento-publico, agua-doce, agua-salina, agua-salobra, aquicultura, capacidade-suporte, carga-poluidora, cianobacteria, classe-1, classe-2, classe-3, classe-4, classe-especial, classificacao-corpo-agua, cnrh, coliforme, conama, condicao-especial, dbo, dcp, dessedentacao-animal, diluicao, disposicao-solo, ecotoxicidade, efluente, eia-rima, enquadramento, eutrofizacao, fiscalizacao, fonte-poluicao, fosforo, infracao-ambiental, irrigacao, laboratorio-acreditado, licenciamento-ambiental, ministerio-publico, monitoramento, nitrogenio, od, oleos-graxas, outorga, padrao-lancamento, padrao-qualidade, pesca, plataforma-petroleo, pop, potabilidade, prazo, responsavel-tecnico, restricao-temporaria, revogado, sancao, servico-saude, tac, terra-indigena, tratamento-efluente, turbidez, unidade-conservacao, vigencia, zona-mistura]
+tags: [abastecimento-publico, agua-doce, agua-salina, agua-salobra, aquicultura, capacidade-suporte, carga-poluidora, cianobacteria, classe-1, classe-2, classe-3, classe-4, classe-especial, classificacao-corpo-agua, conselho-nacional-dos-recursos-hidricos, coliforme, conama, condicao-especial, dbo, dcp, dessedentacao-animal, diluicao, disposicao-solo, ecotoxicidade, efluente, eia-rima, enquadramento, eutrofizacao, fiscalizacao, fonte-poluicao, fosforo, infracao-ambiental, irrigacao, laboratorio-acreditado, licenciamento-ambiental, ministerio-publico, monitoramento, nitrogenio, od, oleos-graxas, outorga, padrao-lancamento, padrao-qualidade, pesca, plataforma-petroleo, pop, potabilidade, prazo, responsavel-tecnico, restricao-temporaria, revogado, sancao, servico-saude, tac, terra-indigena, tratamento-efluente, turbidez, unidade-conservacao, vigencia, zona-mistura]
 fonte: "Portal do CONAMA, texto compilado (27 páginas; 'Este texto não substitui o publicado no DOU de 18/03/2005'), enviado por Leo"
 ---
 
@@ -976,7 +976,7 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 ## CAPÍTULO V – DIRETRIZES AMBIENTAIS PARA O ENQUADRAMENTO
 
 ###### Art. 38 {#art38}
-Tags: #enquadramento #cnrh #outorga #licenciamento-ambiental #tac #abastecimento-publico
+Tags: #enquadramento #conselho-nacional-dos-recursos-hidricos #outorga #licenciamento-ambiental #tac #abastecimento-publico
 
 **Art. 38, caput** {#art38_cpt} O enquadramento dos corpos de água dar-se-á de acordo com as normas e procedimentos definidos pelo Conselho Nacional de Recursos Hídricos-CNRH e Conselhos Estaduais de Recursos Hídricos.
 

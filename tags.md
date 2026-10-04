@@ -97,7 +97,6 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#classificacao-residuo` | 5 |
 | `#cnae` | 2 |
 | `#cnpj` | 5 |
-| `#cnrh` | 2 |
 | `#codigo-florestal` | 1 |
 | `#coleta-seletiva` | 2 |
 | `#coletor` | 1 |
@@ -120,6 +119,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#conselho-classe` | 3 |
 | `#conselho-estadual-recursos-hidricos` | 1 |
 | `#conselho-meio-ambiente` | 1 |
+| `#conselho-nacional-dos-recursos-hidricos` | 2 |
 | `#consorcio-intermunicipal` | 2 |
 | `#construcao-civil` | 1 |
 | `#contabilizando-residuos` | 1 |
