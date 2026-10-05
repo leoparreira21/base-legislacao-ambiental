@@ -72,6 +72,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#bem-cultural` | 3 |
 | `#biodiversidade` | 1 |
 | `#bovinocultura` | 1 |
+| `#cadastro` | 1 |
 | `#camara-tecnica-mananciais` | 1 |
 | `#cancelamento-licenca` | 3 |
 | `#capacidade-suporte` | 2 |
@@ -109,6 +110,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#compensacao-financeira` | 1 |
 | `#competencia` | 7 |
 | `#complementacao` | 6 |
+| `#complementacao-taxa` | 1 |
 | `#compostagem` | 5 |
 | `#comunidade-tradicional` | 3 |
 | `#conama` | 4 |
@@ -125,8 +127,9 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#contabilizando-residuos` | 1 |
 | `#conteiner` | 1 |
 | `#contencao` | 3 |
-| `#conteudo-minimo` | 3 |
+| `#conteudo-minimo` | 4 |
 | `#contratacao-terceiro` | 4 |
+| `#controle-ambiental` | 1 |
 | `#cooperacao-institucional` | 4 |
 | `#corpo-bombeiros` | 1 |
 | `#corpo-hidrico` | 3 |
@@ -153,6 +156,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#dila` | 4 |
 | `#diluicao` | 2 |
 | `#dimensionamento` | 2 |
+| `#direito-transicao` | 1 |
 | `#diretoria-patrimonio-natural` | 1 |
 | `#diretriz-estudo` | 3 |
 | `#dispensa` | 9 |
@@ -186,6 +190,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#especie-ameacada` | 1 |
 | `#especie-exotica` | 3 |
 | `#estado` | 2 |
+| `#estudo-ambiental` | 1 |
 | `#eutrofizacao` | 1 |
 | `#evento-hidrologico-critico` | 1 |
 | `#fabricante` | 2 |
@@ -202,6 +207,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#galeria-pluvial` | 2 |
 | `#galvanoplastia` | 2 |
 | `#geologia` | 3 |
+| `#georreferenciamento` | 1 |
 | `#gerador` | 2 |
 | `#gerenciamento-residuo` | 4 |
 | `#grande-gerador` | 2 |
@@ -271,7 +277,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#licenciamento-bifasico` | 5 |
 | `#licenciamento-monofasico` | 6 |
 | `#licenciamento-municipal` | 3 |
-| `#licenciamento-previo` | 3 |
+| `#licenciamento-previo` | 2 |
 | `#licenciamento-trifasico` | 6 |
 | `#lir` | 6 |
 | `#lixao` | 1 |
@@ -285,12 +291,14 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#maltearia` | 1 |
 | `#manancial` | 4 |
 | `#mandioca` | 2 |
+| `#manifestacao-juridica` | 1 |
 | `#manutencao-reparacao` | 2 |
 | `#mapa-situacao` | 4 |
 | `#materiais-sedimentaveis` | 3 |
 | `#medicamento` | 2 |
 | `#medida-compensatoria` | 4 |
 | `#medida-mitigadora` | 4 |
+| `#meio-ambiente` | 1 |
 | `#memorial-caracterizacao` | 4 |
 | `#mercurio` | 2 |
 | `#metal-pesado` | 2 |
@@ -329,6 +337,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#pbca` | 2 |
 | `#pca` | 4 |
 | `#pcpa` | 4 |
+| `#pendencia-judicial` | 1 |
 | `#perfurocortante` | 2 |
 | `#periculosidade-ambiental` | 1 |
 | `#pesca` | 2 |
@@ -362,6 +371,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#potabilidade` | 1 |
 | `#potencial-poluidor` | 6 |
 | `#prazo` | 15 |
+| `#prioridade` | 1 |
 | `#processo-administrativo` | 2 |
 | `#procuracao` | 4 |
 | `#producao-florestal` | 1 |
@@ -418,6 +428,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#restricao-temporaria` | 3 |
 | `#reuso-efluente` | 4 |
 | `#reutilizacao` | 3 |
+| `#revogacao` | 1 |
 | `#revogado` | 3 |
 | `#risco-ambiental` | 4 |
 | `#sancao` | 14 |
@@ -481,6 +492,8 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#vazao` | 1 |
 | `#vegetacao-nativa` | 2 |
 | `#veiculo` | 1 |
+| `#viabilidade-ambiental` | 1 |
+| `#viabilidade-locacional` | 1 |
 | `#vigencia` | 17 |
 | `#vistoria` | 3 |
 | `#zona-amortecimento` | 2 |
