@@ -30,6 +30,11 @@ Formato: uma lição por item, com data, contexto e o que fazer.
 - 2026-09-30, Portaria IAP 26/2006 (impressão do SIA, "Sistema de Informações Ambientais" do PR, Skia/PDF): o PyMuPDF perde o hífen de fim de linha ("intrahospitalar", "colocandoas", "CNEN6.05"), mas o `pdftotext -layout` o mostra. Fazer: comparar a contagem de palavras (`collections.Counter`) do texto montado com a do `pdftotext` e restaurar os hífens apontados. O SIA também troca remissões automáticas do Word por "item 0": transcrever como está, sem link, e registrar nas notas.
 - 2026-09-30, RDC Anvisa 306/2004 (Word → Acrobat PDFWriter 5.0): `get_text('blocks')` do PyMuPDF devolve um bloco por parágrafo, o que dispensa reconstruir parágrafos por linha; as tabelas saem bem com `find_tables()`, mas os blocos de texto dentro do bbox das tabelas precisam ser descartados. Parágrafo partido entre páginas: unir quando o bloco é o primeiro da página, começa com minúscula (ou com "11.18,") e o anterior não termina em ".", ";" ou ":".
 
+- 2026-10-06, Lei 6.938/1981 (Planalto impresso do navegador, Skia/PDF): a impressão não trouxe os trechos tachados, só a redação em vigor; e o Planalto não responde ao shell da nuvem (curl: "Empty reply from server"). Fazer: conferir com PyMuPDF se há tachado (segmentos horizontais no meio das letras) antes de prometer texto compilado completo; sem tachado, marcar `#redacao-alterada`/`#incluido`/`#revogado` pelas anotações, montar "Alterações:" e o Histórico a partir delas e pedir a Leo o PDF com tachados.
+- 2026-10-06, Lei 6.938/1981: no `pdftotext` sem `-layout`, as anotações do Planalto (coluna da direita) saem deslocadas para outros dispositivos. Fazer: reconstruir as linhas com `get_text("words")` agrupando pela linha de base e ordenando por x; o início de parágrafo é a linha recuada (x ≈ 61 pt; continuação em x ≈ 34 pt).
+- 2026-10-06, reconhecimento de artigo: "Art. 4º - A Política ..." foi lido como "Art. 4º-A". Fazer: só aceitar letra de artigo/parágrafo colada ao hífen ("9o-A", "17-A", "§ 1o-A"), sem espaço antes do hífen.
+- 2026-10-06, `pdftotext` e Python: o arquivo traz quebras de página `\f`, que o `str.splitlines()` conta como quebra de linha; os números de linha deixam de bater com `sed`/`awk`. Fazer: fatiar por `awk 'NR>=a && NR<=b'` ou usar `split("\n")`.
+
 ## Anexos
 
 - 2026-09-27, CONAMA 357/2005 e 430/2011: as tabelas de padrões ficam no corpo dos artigos, não em anexos, e o README só previa IDs `anexoN_tabT_linM`. Fazer: usar `artN_tabT_linM` (T = número da tabela no original), com as mesmas regras do tipo 3. Proposta incluída no README.
@@ -45,6 +50,10 @@ Formato: uma lição por item, com data, contexto e o que fazer.
 - 2026-09-30, regulamento técnico em itens numerados (RDC 306/2004, Anexo com itens 1 a 21 e Apêndices I a IX): em vez de artigos, cada item ou parágrafo virou `anexo1_linN`, com o número do item no rótulo ("Anexo, Cap. VI, item 5.4.2, linha 108"); capítulos e apêndices viraram `### ... {#anexo1_capN}` / `{#anexo1_apdN}`; as tabelas dos apêndices foram numeradas em sequência no anexo (`anexo1_tab1` a `anexo1_tab5`); as remissões "item X.Y" viraram links para a linha do item. Proposta: incluir a convenção no README.
 - 2026-09-30, anexos tipo 2 da Portaria IAP 26/2006: o agente principal fez a etapa (a) (atividade e modalidades, pelos incisos que exigem o anexo) e a transcrição; cada anexo teve um subagente para as etapas (b) a (d) (interpretação, pesquisa, síntese), com glossário parcial em `work/`. Funcionou (10 a 25 min por anexo), mas os dois subagentes pesquisaram os mesmos 6 termos (classificação por grupos, CONAMA 358, Lei 13.039, NBRs de RSS, nível III, abrigo). Fazer: quando dois anexos tratam do mesmo tema, passar ao segundo a lista de termos que o primeiro vai pesquisar.
 
+- 2026-10-06, Lei 6.938/1981: anexo sem número ("ANEXO", tabela de preços do Ibama) ao lado dos Anexos VIII e IX. Usado o ID `anexo-precos` (`anexo-precos_tab1_linN`). Tabela hierárquica (seção > item > subitem, títulos sem valor): cada linha leva o campo "Contexto" com os títulos de que depende, para ficar autossuficiente; sub-tabelas repetidas por porte viram campos nomeados. Proposta: incluir a convenção no README.
+- 2026-10-06, Res. CONAMA 411/2009: a numeração das linhas do Anexo I foi passada aos subagentes antes de a norma-mãe existir (`anexo1_lin37` presumido; o item 4.2 ficou em `anexo1_lin49`). Fazer (reforça a lição de 2026-09-27): gerar a norma-mãe, inclusive anexos tipo 3, **antes** de lançar os subagentes, e passar a lista real de IDs.
+- 2026-10-06, Res. CONAMA 411/2009: o PDF do portal do CONAMA traz o quadro "Correlação" ("alterada pela 474/2016"), mas o texto é o original. O subagente do Anexo V achou (em cópia não oficial) que a 474/2016 revogou o § 3º do art. 6º e os Anexos V e VI. Fazer: ler o quadro de correlação antes de tudo, pesquisar a norma alteradora e avisar Leo no início, pedindo o PDF dela; sem ela na base, não tachar, só avisar no dispositivo e preencher `alterado_por`.
+
 ## Alterações e revogações
 
 - 2026-09-27, Lei 9.433/1997: um mesmo dispositivo teve várias redações sucessivas (MP 870/2019, Lei 13.844/2019, MP 1.154/2023, Lei 14.600/2023), e o README só previa "Redação original". Fazer: após a redação original, listar as intermediárias como `> Redação anterior: ~~...~~ *(Redação dada pela [[...]])*` e registrá-las no Histórico como "Redação intermediária (substituída)". Proposta incluída no README.
@@ -52,7 +61,11 @@ Formato: uma lição por item, com data, contexto e o que fazer.
 - 2026-09-27, IN IAT 25/2025 (republicação): a norma "torna sem efeito" duas publicações anteriores com o mesmo número e ano, o que faria o nome de arquivo colidir. Fazer: registrar em `revoga` com nome provisório `<arquivo>-dioe-<nº do DIOE>` e levar a decisão ao usuário.
 - 2026-09-27, IN IAT 28/2025, art. 2º, § 4º: a IN remete à IN IAT 45/2025, que a IN IAT 65/2025 (já na base) tornou sem efeito depois. Fazer: para cada norma citada, procurar na base se alguma a revoga ou torna sem efeito (`grep -rn "<nome-da-norma>" normas/ | grep revoga`) e registrar em "Relação com normas superiores".
 
+- 2026-10-06, artigo vetado duplicado (Lei 6.938/1981: "Art 19 -(VETADO)." seguido do art. 19 incluído pela Lei 7.804/1989): usado `art19-vetado` para o vetado e `art19` para o vigente.
+
 ## Validação
+
+- 2026-10-06, `python -m unittest discover -s testes`: `test_resultado_arquivado` já falhava antes desta leva (hash do corpus diferente do arquivado), mesmo com o repositório limpo. Fazer: rodar os testes antes de mexer, para separar falhas preexistentes das novas.
 
 ## Habilidades do claude.ai (ajustes pendentes)
 
