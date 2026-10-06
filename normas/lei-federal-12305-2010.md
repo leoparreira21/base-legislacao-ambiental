@@ -325,7 +325,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 - **Art. 19, caput, inciso XVII** {#art19_cpt_inc17} ações preventivas e corretivas a serem praticadas, incluindo programa de monitoramento;
 - **Art. 19, caput, inciso XVIII** {#art19_cpt_inc18} identificação dos passivos ambientais relacionados aos resíduos sólidos, incluindo áreas contaminadas, e respectivas medidas saneadoras;
 - **Art. 19, caput, inciso XIX** {#art19_cpt_inc19} #redacao-alterada periodicidade de sua revisão, observado o período máximo de 10 (dez) anos. *(Inciso com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
-  > Redação original: ~~periodicidade de sua revisão, observado prioritariamente o período de vigência do plano plurianual municipal.~~
 
 **Art. 19, § 1º** {#art19_par1} O plano municipal de gestão integrada de resíduos sólidos pode estar inserido no plano de saneamento básico previsto no [[lei-federal-11445-2007#art19|art. 19 da Lei nº 11.445, de 2007]], respeitado o conteúdo mínimo previsto nos [[#art19_cpt|incisos do caput]] e observado o disposto no [[#art19_par2|§ 2º]], todos deste artigo.
 
@@ -666,8 +665,6 @@ Alterações: [[lei-federal-15088-2025|Lei nº 15.088, de 6/1/2025]] (nova reda�
 
 **Art. 49, caput** {#art49_cpt} #redacao-alterada É proibida a importação de resíduos sólidos e de rejeitos, inclusive de papel, derivados de papel, plástico, vidro e metal. *(“Caput” do artigo com redação dada pela [[lei-federal-15088-2025|Lei nº 15.088, de 6/1/2025]])*
 
-> Redação original: ~~É proibida a importação de resíduos sólidos perigosos e rejeitos, bem como de resíduos sólidos cujas características causem dano ao meio ambiente, à saúde pública e animal e à sanidade vegetal, ainda que para tratamento, reforma, reúso, reutilização ou recuperação.~~
-
 **Art. 49, § 1º** {#art49_par1} #incluido É ressalvada da proibição prevista no [[#art49_cpt|caput deste artigo]] a importação de resíduos utilizados na transformação de materiais e minerais estratégicos, inclusive aparas de papel de fibra longa, nos termos de regulamento, e de resíduos de metais e materiais metálicos. *(Parágrafo acrescido pela [[lei-federal-15088-2025|Lei nº 15.088, de 6/1/2025]])*
 
 **Art. 49, § 2º** {#art49_par2} #incluido O importador ou o fabricante de autopeças, exceto de pneus, são autorizados a importar resíduos sólidos derivados de produtos nacionais previamente exportados, para fins exclusivos de logística reversa e reciclagem integral, ainda que classificados como resíduos perigosos, nos termos de regulamento. *(Parágrafo acrescido pela [[lei-federal-15088-2025|Lei nº 15.088, de 6/1/2025]])*
@@ -707,7 +704,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 
 **Art. 54, caput** {#art54_cpt} #redacao-alterada A disposição final ambientalmente adequada dos rejeitos deverá ser implantada até 31 de dezembro de 2020, exceto para os Municípios que até essa data tenham elaborado plano intermunicipal de resíduos sólidos ou plano municipal de gestão integrada de resíduos sólidos e que disponham de mecanismos de cobrança que garantam sua sustentabilidade econômico-financeira, nos termos do [[lei-federal-11445-2007#art29|art. 29 da Lei nº 11.445, de 5 de janeiro de 2007]], para os quais ficam definidos os seguintes prazos: *(“Caput” do artigo com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
-> Redação original: ~~A disposição final ambientalmente adequada dos rejeitos, observado o disposto no [[#art9_par1|§ 1º do art. 9º]], deverá ser implantada em até 4 (quatro) anos após a data de publicação desta Lei.~~
 - **Art. 54, caput, inciso I** {#art54_cpt_inc1} #incluido até 2 de agosto de 2021, para capitais de Estados e Municípios integrantes de Região Metropolitana (RM) ou de Região Integrada de Desenvolvimento (Ride) de capitais; *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 - **Art. 54, caput, inciso II** {#art54_cpt_inc2} #incluido até 2 de agosto de 2022, para Municípios com população superior a 100.000 (cem mil) habitantes no Censo 2010, bem como para Municípios cuja mancha urbana da sede municipal esteja situada a menos de 20 (vinte) quilômetros da fronteira com países limítrofes; *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 - **Art. 54, caput, inciso III** {#art54_cpt_inc3} #incluido até 2 de agosto de 2023, para Municípios com população entre 50.000 (cinquenta mil) e 100.000 (cem mil) habitantes no Censo 2010; e *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
@@ -763,9 +759,11 @@ Tags: #vigencia
 | [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] | [[#art54_cpt_inc4|Art. 54, inciso IV]] | Incluído |
 | [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] | [[#art54_par2|Art. 54, § 2º]] | Incluído |
 
-Convenção: o texto em vigor aparece normal; o texto revogado ou substituído aparece ~~tachado~~, com a tag `#revogado` ou `#redacao-alterada`. Para buscar só o texto vigente, exclua `#revogado` e as linhas tachadas.
+Convenção: só o texto em vigor é transcrito. Redações anteriores e texto revogado foram removidos (decisão de Leo, 06/10/2026); os dispositivos revogados mantêm rótulo, ID, `#revogado` e a anotação da norma revogadora, e os alterados mantêm `#redacao-alterada` e a anotação. Para buscar só o texto vigente, exclua os dispositivos `#revogado`.
 
 ## Notas de transcrição {#notas-transcricao}
+
+**Texto revogado e redações anteriores removidos (06/10/2026).** Por decisão de Leo, a base guarda, por enquanto, só o texto em vigor: o texto tachado (redações originais e intermediárias e o conteúdo dos dispositivos revogados) foi apagado. Rótulos, IDs, tags `#revogado`/`#redacao-alterada`, anotações das normas alteradoras e o histórico de alterações foram mantidos. O texto removido pode ser recuperado no histórico do repositório (commit `1c23caf`). As notas abaixo podem citar trechos que já não aparecem no corpo.
 
 Fonte: texto atualizado da Câmara dos Deputados (Centro de Documentação e Informação), 22 páginas, enviado por Leo. Esse texto incorpora as alterações das Leis nº 14.026/2020 e nº 15.088/2025, com anotações entre parênteses ("Caput do artigo com redação dada...", "Inciso acrescido...", "Parágrafo acrescido..."). Na base, essas anotações foram convertidas no formato padrão, com link para a lei alteradora.
 

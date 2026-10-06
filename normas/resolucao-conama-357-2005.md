@@ -92,7 +92,7 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (revogado
 - **Art. 2º, caput, inciso XXXV** {#art2_cpt_inc35} tributário (ou curso de água afluente): corpo de água que flui para um rio maior ou para um lago ou reservatório;
 - **Art. 2º, caput, inciso XXXVI** {#art2_cpt_inc36} vazão de referência: vazão do corpo hídrico utilizada como base para o processo de gestão, tendo em vista o uso múltiplo das águas e a necessária articulação das instâncias do Sistema Nacional de Meio Ambiente-SISNAMA e do Sistema Nacional de Gerenciamento de Recursos Hídricos-SINGRH;
 - **Art. 2º, caput, inciso XXXVII** {#art2_cpt_inc37} virtualmente ausentes: que não é perceptível pela visão, olfato ou paladar; e
-- **Art. 2º, caput, inciso XXXVIII** {#art2_cpt_inc38} #zona-mistura #revogado ~~zona de mistura: região do corpo receptor onde ocorre a diluição inicial de um efluente.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 2º, caput, inciso XXXVIII** {#art2_cpt_inc38} #zona-mistura #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ## CAPÍTULO II – DA CLASSIFICAÇÃO DOS CORPOS DE ÁGUA
 
@@ -808,148 +808,148 @@ Tags: #agua-salobra #classe-3 #padrao-qualidade #coliforme #od
 Tags: #padrao-lancamento #efluente #tratamento-efluente
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 24, caput** {#art24_cpt} #revogado ~~Os efluentes de qualquer fonte poluidora somente poderão ser lançados, direta ou indiretamente, nos corpos de água, após o devido tratamento e desde que obedeçam às condições, padrões e exigências dispostos nesta Resolução e em outras normas aplicáveis.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 24, caput** {#art24_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 24, parágrafo único** {#art24_par1u} #revogado ~~O órgão ambiental competente poderá, a qualquer momento:~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 24, parágrafo único, inciso I** {#art24_par1u_inc1} #revogado ~~acrescentar outras condições e padrões, ou torná-los mais restritivos, tendo em vista as condições locais, mediante fundamentação técnica; e~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 24, parágrafo único, inciso II** {#art24_par1u_inc2} #revogado ~~exigir a melhor tecnologia disponível para o tratamento dos efluentes, compatível com as condições do respectivo curso de água superficial, mediante fundamentação técnica.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 24, parágrafo único** {#art24_par1u} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 24, parágrafo único, inciso I** {#art24_par1u_inc1} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 24, parágrafo único, inciso II** {#art24_par1u_inc2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 25 {#art25}
 Tags: #padrao-lancamento #eia-rima
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 25, caput** {#art25_cpt} #revogado ~~É vedado o lançamento e a autorização de lançamento de efluentes em desacordo com as condições e padrões estabelecidos nesta Resolução.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 25, caput** {#art25_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 25, parágrafo único** {#art25_par1u} #revogado ~~O órgão ambiental competente poderá, excepcionalmente, autorizar o lançamento de efluente acima das condições e padrões estabelecidos no [[#art34|art. 34]], desta Resolução, desde que observados os seguintes requisitos:~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 25, parágrafo único, inciso I** {#art25_par1u_inc1} #revogado ~~comprovação de relevante interesse público, devidamente motivado;~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 25, parágrafo único, inciso II** {#art25_par1u_inc2} #revogado ~~atendimento ao enquadramento e às metas intermediárias e finais, progressivas e obrigatórias;~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 25, parágrafo único, inciso III** {#art25_par1u_inc3} #revogado ~~realização de Estudo de Impacto Ambiental-EIA, às expensas do empreendedor responsável pelo lançamento;~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 25, parágrafo único, inciso IV** {#art25_par1u_inc4} #revogado ~~estabelecimento de tratamento e exigências para este lançamento; e~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 25, parágrafo único, inciso V** {#art25_par1u_inc5} #revogado ~~fixação de prazo máximo para o lançamento excepcional.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 25, parágrafo único** {#art25_par1u} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 25, parágrafo único, inciso I** {#art25_par1u_inc1} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 25, parágrafo único, inciso II** {#art25_par1u_inc2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 25, parágrafo único, inciso III** {#art25_par1u_inc3} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 25, parágrafo único, inciso IV** {#art25_par1u_inc4} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 25, parágrafo único, inciso V** {#art25_par1u_inc5} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 26 {#art26}
 Tags: #carga-poluidora #capacidade-suporte #licenciamento-ambiental
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 26, caput** {#art26_cpt} #revogado ~~Os órgãos ambientais federal, estaduais e municipais, no âmbito de sua competência, deverão, por meio de norma específica ou no licenciamento da atividade ou empreendimento, estabelecer a carga poluidora máxima para o lançamento de substâncias passíveis de estarem presentes ou serem formadas nos processos produtivos, listadas ou não no [[#art34|art. 34]], desta Resolução, de modo a não comprometer as metas progressivas obrigatórias, intermediárias e final, estabelecidas pelo enquadramento para o corpo de água.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 26, caput** {#art26_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 26, § 1º** {#art26_par1} #revogado ~~No caso de empreendimento de significativo impacto, o órgão ambiental competente exigirá, nos processos de licenciamento ou de sua renovação, a apresentação de estudo de capacidade de suporte de carga do corpo de água receptor.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 26, § 1º** {#art26_par1} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 26, § 2º** {#art26_par2} #revogado ~~O estudo de capacidade de suporte deve considerar, no mínimo, a diferença entre os padrões estabelecidos pela classe e as concentrações existentes no trecho desde a montante, estimando a concentração após a zona de mistura.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 26, § 2º** {#art26_par2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 26, § 3º** {#art26_par3} #revogado ~~Sob pena de nulidade da licença expedida, o empreendedor, no processo de licenciamento, informará ao órgão ambiental as substâncias, entre aquelas previstas nesta Resolução para padrões de qualidade de água, que poderão estar contidas no seu efluente.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 26, § 3º** {#art26_par3} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 26, § 4º** {#art26_par4} #revogado ~~O disposto no § 1º aplica-se também às substâncias não contempladas nesta Resolução, exceto se o empreendedor não tinha condições de saber de sua existência nos seus efluentes.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 26, § 4º** {#art26_par4} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 27 {#art27}
 Tags: #pop
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 27, caput** {#art27_cpt} #revogado ~~É vedado, nos efluentes, o lançamento dos Poluentes Orgânicos Persistentes-POPs mencionados na Convenção de Estocolmo, ratificada pelo [[decreto-legislativo-204-2004|Decreto Legislativo nº 204, de 7 de maio de 2004]].~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 27, caput** {#art27_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 27, parágrafo único** {#art27_par1u} #revogado ~~Nos processos onde possa ocorrer a formação de dioxinas e furanos deverá ser utilizada a melhor tecnologia disponível para a sua redução, até a completa eliminação.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 27, parágrafo único** {#art27_par1u} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 28 {#art28}
 Tags: #enquadramento
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 28, caput** {#art28_cpt} #revogado ~~Os efluentes não poderão conferir ao corpo de água características em desacordo com as metas obrigatórias progressivas, intermediárias e final, do seu enquadramento.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 28, caput** {#art28_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 28, § 1º** {#art28_par1} #revogado ~~As metas obrigatórias serão estabelecidas mediante parâmetros.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 28, § 1º** {#art28_par1} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 28, § 2º** {#art28_par2} #revogado ~~Para os parâmetros não incluídos nas metas obrigatórias, os padrões de qualidade a serem obedecidos são os que constam na classe na qual o corpo receptor estiver enquadrado.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 28, § 2º** {#art28_par2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 28, § 3º** {#art28_par3} #revogado ~~Na ausência de metas intermediárias progressivas obrigatórias, devem ser obedecidos os padrões de qualidade da classe em que o corpo receptor estiver enquadrado.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 28, § 3º** {#art28_par3} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 29 {#art29}
 Tags: #disposicao-solo
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 29, caput** {#art29_cpt} #revogado ~~A disposição de efluentes no solo, mesmo tratados, não poderá causar poluição ou contaminação das águas.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 29, caput** {#art29_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 30 {#art30}
 Tags: #diluicao
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 30, caput** {#art30_cpt} #revogado ~~No controle das condições de lançamento, é vedada, para fins de diluição antes do seu lançamento, a mistura de efluentes com águas de melhor qualidade, tais como as águas de abastecimento, do mar e de sistemas abertos de refrigeração sem recirculação.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 30, caput** {#art30_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 31 {#art31}
 Tags: #fonte-poluicao
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 31, caput** {#art31_cpt} #revogado ~~Na hipótese de fonte de poluição geradora de diferentes efluentes ou lançamentos individualizados, os limites constantes desta Resolução aplicar-se-ão a cada um deles ou ao conjunto após a mistura, a critério do órgão ambiental competente.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 31, caput** {#art31_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 32 {#art32}
 Tags: #classe-especial #efluente
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 32, caput** {#art32_cpt} #revogado ~~Nas águas de classe especial é vedado o lançamento de efluentes ou disposição de resíduos domésticos, agropecuários, de aqüicultura, industriais e de quaisquer outras fontes poluentes, mesmo que tratados.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 32, caput** {#art32_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 32, § 1º** {#art32_par1} #revogado ~~Nas demais classes de água, o lançamento de efluentes deverá, simultaneamente:~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 32, § 1º, inciso I** {#art32_par1_inc1} #revogado ~~atender às condições e padrões de lançamento de efluentes;~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 32, § 1º, inciso II** {#art32_par1_inc2} #revogado ~~não ocasionar a ultrapassagem das condições e padrões de qualidade de água, estabelecidos para as respectivas classes, nas condições da vazão de referência; e~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 32, § 1º, inciso III** {#art32_par1_inc3} #revogado ~~atender a outras exigências aplicáveis.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 32, § 1º** {#art32_par1} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 32, § 1º, inciso I** {#art32_par1_inc1} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 32, § 1º, inciso II** {#art32_par1_inc2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 32, § 1º, inciso III** {#art32_par1_inc3} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 32, § 2º** {#art32_par2} #revogado ~~No corpo de água em processo de recuperação, o lançamento de efluentes observará as metas progressivas obrigatórias, intermediárias e final.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 32, § 2º** {#art32_par2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 33 {#art33}
 Tags: #zona-mistura
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 33, caput** {#art33_cpt} #revogado ~~Na zona de mistura de efluentes, o órgão ambiental competente poderá autorizar, levando em conta o tipo de substância, valores em desacordo com os estabelecidos para a respectiva classe de enquadramento, desde que não comprometam os usos previstos para o corpo de água.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 33, caput** {#art33_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 33, parágrafo único** {#art33_par1u} #revogado ~~A extensão e as concentrações de substâncias na zona de mistura deverão ser objeto de estudo, nos termos determinados pelo órgão ambiental competente, às expensas do empreendedor responsável pelo lançamento.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 33, parágrafo único** {#art33_par1u} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 34 {#art34}
 Tags: #padrao-lancamento #oleos-graxas
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 34, caput** {#art34_cpt} #revogado ~~Os efluentes de qualquer fonte poluidora somente poderão ser lançados, direta ou indiretamente, nos corpos de água desde que obedeçam as condições e padrões previstos neste artigo, resguardadas outras exigências cabíveis:~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 34, caput** {#art34_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 34, § 1º** {#art34_par1} #revogado ~~O efluente não deverá causar ou possuir potencial para causar efeitos tóxicos aos organismos aquáticos no corpo receptor, de acordo com os critérios de toxicidade estabelecidos pelo órgão ambiental competente.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 34, § 1º** {#art34_par1} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 34, § 2º** {#art34_par2} #revogado ~~Os critérios de toxicidade previstos no [[#art34_par1|§ 1º]] devem se basear em resultados de ensaios ecotoxicológicos padronizados, utilizando organismos aquáticos, e realizados no efluente.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 34, § 2º** {#art34_par2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 34, § 3º** {#art34_par3} #revogado ~~Nos corpos de água em que as condições e padrões de qualidade previstos nesta Resolução não incluam restrições de toxicidade a organismos aquáticos, não se aplicam os parágrafos anteriores.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 34, § 3º** {#art34_par3} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 34, § 4º** {#art34_par4} #revogado ~~Condições de lançamento de efluentes:~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 34, § 4º, inciso I** {#art34_par4_inc1} #revogado ~~pH entre 5 a 9;~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 34, § 4º, inciso II** {#art34_par4_inc2} #revogado ~~temperatura: inferior a 40ºC, sendo que a variação de temperatura do corpo receptor não deverá exceder a 3ºC na zona de mistura;~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 34, § 4º, inciso III** {#art34_par4_inc3} #revogado ~~materiais sedimentáveis: até 1 mL/L em teste de 1 hora em cone Imhoff. Para o lançamento em lagos e lagoas, cuja velocidade de circulação seja praticamente nula, os materiais sedimentáveis deverão estar virtualmente ausentes;~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 34, § 4º, inciso IV** {#art34_par4_inc4} #revogado ~~regime de lançamento com vazão máxima de até 1,5 vezes a vazão média do período de atividade diária do agente poluidor, exceto nos casos permitidos pela autoridade competente;~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 34, § 4º, inciso V** {#art34_par4_inc5} #revogado ~~óleos e graxas:~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-  - **Art. 34, § 4º, inciso V, item 1** {#art34_par4_inc5_ite1} #revogado ~~óleos minerais: até 20mg/L;~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-  - **Art. 34, § 4º, inciso V, item 2** {#art34_par4_inc5_ite2} #revogado ~~óleos vegetais e gorduras animais: até 50mg/L; e~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 34, § 4º, inciso VI** {#art34_par4_inc6} #revogado ~~ausência de materiais flutuantes.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 34, § 4º** {#art34_par4} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 34, § 4º, inciso I** {#art34_par4_inc1} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 34, § 4º, inciso II** {#art34_par4_inc2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 34, § 4º, inciso III** {#art34_par4_inc3} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 34, § 4º, inciso IV** {#art34_par4_inc4} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 34, § 4º, inciso V** {#art34_par4_inc5} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+  - **Art. 34, § 4º, inciso V, item 1** {#art34_par4_inc5_ite1} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+  - **Art. 34, § 4º, inciso V, item 2** {#art34_par4_inc5_ite2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 34, § 4º, inciso VI** {#art34_par4_inc6} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 34, § 5º** {#art34_par5} #revogado ~~Padrões de lançamento de efluentes:~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 34, § 5º** {#art34_par5} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 34, Tabela X** {#art34_tab10} ~~TABELA X - LANÇAMENTO DE EFLUENTES – PADRÕES~~ #revogado #padrao-lancamento
+**Art. 34, Tabela X** {#art34_tab10} #revogado #padrao-lancamento
 
-- **Art. 34, Tabela X, linha 1** {#art34_tab10_lin1} #revogado ~~PARÂMETROS INORGÂNICOS: Arsênio total | VALOR MÁXIMO: 0,5 mg/L As~~
-- **Art. 34, Tabela X, linha 2** {#art34_tab10_lin2} #revogado ~~PARÂMETROS INORGÂNICOS: Bário total | VALOR MÁXIMO: 5,0 mg/L Ba~~
-- **Art. 34, Tabela X, linha 3** {#art34_tab10_lin3} #revogado ~~PARÂMETROS INORGÂNICOS: Boro total | VALOR MÁXIMO: 5,0 mg/L B~~
-- **Art. 34, Tabela X, linha 4** {#art34_tab10_lin4} #revogado ~~PARÂMETROS INORGÂNICOS: Cádmio total | VALOR MÁXIMO: 0,2 mg/L Cd~~
-- **Art. 34, Tabela X, linha 5** {#art34_tab10_lin5} #revogado ~~PARÂMETROS INORGÂNICOS: Chumbo total | VALOR MÁXIMO: 0,5 mg/L Pb~~
-- **Art. 34, Tabela X, linha 6** {#art34_tab10_lin6} #revogado ~~PARÂMETROS INORGÂNICOS: Cianeto total | VALOR MÁXIMO: 0,2 mg/L CN~~
-- **Art. 34, Tabela X, linha 7** {#art34_tab10_lin7} #revogado ~~PARÂMETROS INORGÂNICOS: Cobre dissolvido | VALOR MÁXIMO: 1,0 mg/L Cu~~
-- **Art. 34, Tabela X, linha 8** {#art34_tab10_lin8} #revogado ~~PARÂMETROS INORGÂNICOS: Cromo total | VALOR MÁXIMO: 0,5 mg/L Cr~~
-- **Art. 34, Tabela X, linha 9** {#art34_tab10_lin9} #revogado ~~PARÂMETROS INORGÂNICOS: Estanho total | VALOR MÁXIMO: 4,0 mg/L Sn~~
-- **Art. 34, Tabela X, linha 10** {#art34_tab10_lin10} #revogado ~~PARÂMETROS INORGÂNICOS: Ferro dissolvido | VALOR MÁXIMO: 15,0 mg/L Fe~~
-- **Art. 34, Tabela X, linha 11** {#art34_tab10_lin11} #revogado ~~PARÂMETROS INORGÂNICOS: Fluoreto total | VALOR MÁXIMO: 10,0 mg/L F~~
-- **Art. 34, Tabela X, linha 12** {#art34_tab10_lin12} #revogado ~~PARÂMETROS INORGÂNICOS: Manganês dissolvido | VALOR MÁXIMO: 1,0 mg/L Mn~~
-- **Art. 34, Tabela X, linha 13** {#art34_tab10_lin13} #revogado ~~PARÂMETROS INORGÂNICOS: Mercúrio total | VALOR MÁXIMO: 0,01 mg/L Hg~~
-- **Art. 34, Tabela X, linha 14** {#art34_tab10_lin14} #revogado ~~PARÂMETROS INORGÂNICOS: Níquel total | VALOR MÁXIMO: 2,0 mg/L Ni~~
-- **Art. 34, Tabela X, linha 15** {#art34_tab10_lin15} #revogado ~~PARÂMETROS INORGÂNICOS: Nitrogênio amoniacal total | VALOR MÁXIMO: 20,0 mg/L N~~
-- **Art. 34, Tabela X, linha 16** {#art34_tab10_lin16} #revogado ~~PARÂMETROS INORGÂNICOS: Prata total | VALOR MÁXIMO: 0,1 mg/L Ag~~
-- **Art. 34, Tabela X, linha 17** {#art34_tab10_lin17} #revogado ~~PARÂMETROS INORGÂNICOS: Selênio total | VALOR MÁXIMO: 0,30 mg/L Se~~
-- **Art. 34, Tabela X, linha 18** {#art34_tab10_lin18} #revogado ~~PARÂMETROS INORGÂNICOS: Sulfeto | VALOR MÁXIMO: 1,0 mg/L S~~
-- **Art. 34, Tabela X, linha 19** {#art34_tab10_lin19} #revogado ~~PARÂMETROS INORGÂNICOS: Zinco total | VALOR MÁXIMO: 5,0 mg/L Zn~~
-- **Art. 34, Tabela X, linha 20** {#art34_tab10_lin20} #revogado ~~PARÂMETROS ORGÂNICOS: Clorofórmio | VALOR MÁXIMO: 1,0 mg/L~~
-- **Art. 34, Tabela X, linha 21** {#art34_tab10_lin21} #revogado ~~PARÂMETROS ORGÂNICOS: Dicloroeteno | VALOR MÁXIMO: 1,0 mg/L~~
-- **Art. 34, Tabela X, linha 22** {#art34_tab10_lin22} #revogado ~~PARÂMETROS ORGÂNICOS: Fenóis totais (substâncias que reagem com 4-aminoantipirina) | VALOR MÁXIMO: 0,5 mg/L C6H5OH~~
-- **Art. 34, Tabela X, linha 23** {#art34_tab10_lin23} #revogado ~~PARÂMETROS ORGÂNICOS: Tetracloreto de Carbono | VALOR MÁXIMO: 1,0 mg/L~~
-- **Art. 34, Tabela X, linha 24** {#art34_tab10_lin24} #revogado ~~PARÂMETROS ORGÂNICOS: Tricloroeteno | VALOR MÁXIMO: 1,0 mg/L~~
+- **Art. 34, Tabela X, linha 1** {#art34_tab10_lin1} #revogado 
+- **Art. 34, Tabela X, linha 2** {#art34_tab10_lin2} #revogado 
+- **Art. 34, Tabela X, linha 3** {#art34_tab10_lin3} #revogado 
+- **Art. 34, Tabela X, linha 4** {#art34_tab10_lin4} #revogado 
+- **Art. 34, Tabela X, linha 5** {#art34_tab10_lin5} #revogado 
+- **Art. 34, Tabela X, linha 6** {#art34_tab10_lin6} #revogado 
+- **Art. 34, Tabela X, linha 7** {#art34_tab10_lin7} #revogado 
+- **Art. 34, Tabela X, linha 8** {#art34_tab10_lin8} #revogado 
+- **Art. 34, Tabela X, linha 9** {#art34_tab10_lin9} #revogado 
+- **Art. 34, Tabela X, linha 10** {#art34_tab10_lin10} #revogado 
+- **Art. 34, Tabela X, linha 11** {#art34_tab10_lin11} #revogado 
+- **Art. 34, Tabela X, linha 12** {#art34_tab10_lin12} #revogado 
+- **Art. 34, Tabela X, linha 13** {#art34_tab10_lin13} #revogado 
+- **Art. 34, Tabela X, linha 14** {#art34_tab10_lin14} #revogado 
+- **Art. 34, Tabela X, linha 15** {#art34_tab10_lin15} #revogado 
+- **Art. 34, Tabela X, linha 16** {#art34_tab10_lin16} #revogado 
+- **Art. 34, Tabela X, linha 17** {#art34_tab10_lin17} #revogado 
+- **Art. 34, Tabela X, linha 18** {#art34_tab10_lin18} #revogado 
+- **Art. 34, Tabela X, linha 19** {#art34_tab10_lin19} #revogado 
+- **Art. 34, Tabela X, linha 20** {#art34_tab10_lin20} #revogado 
+- **Art. 34, Tabela X, linha 21** {#art34_tab10_lin21} #revogado 
+- **Art. 34, Tabela X, linha 22** {#art34_tab10_lin22} #revogado 
+- **Art. 34, Tabela X, linha 23** {#art34_tab10_lin23} #revogado 
+- **Art. 34, Tabela X, linha 24** {#art34_tab10_lin24} #revogado 
 
 *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
@@ -957,21 +957,21 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 Tags: #restricao-temporaria
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 35, caput** {#art35_cpt} #revogado ~~Sem prejuízo do disposto no [[#art24_par1u_inc1|inciso I, do § 1º do art. 24]], desta Resolução, o órgão ambiental competente poderá, quando a vazão do corpo de água estiver abaixo da vazão de referência, estabelecer restrições e medidas adicionais, de caráter excepcional e temporário, aos lançamentos de efluentes que possam, dentre outras conseqüências:~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 35, caput, inciso I** {#art35_cpt_inc1} #revogado ~~acarretar efeitos tóxicos agudos em organismos aquáticos; ou~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
-- **Art. 35, caput, inciso II** {#art35_cpt_inc2} #revogado ~~inviabilizar o abastecimento das populações.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 35, caput** {#art35_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 35, caput, inciso I** {#art35_cpt_inc1} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 35, caput, inciso II** {#art35_cpt_inc2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 36 {#art36}
 Tags: #servico-saude #efluente
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 36, caput** {#art36_cpt} #revogado ~~Além dos requisitos previstos nesta Resolução e em outras normas aplicáveis, os efluentes provenientes de serviços de saúde e estabelecimentos nos quais haja despejos infectados com microorganismos patogênicos, só poderão ser lançados após tratamento especial.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 36, caput** {#art36_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 37 {#art37}
 Tags: #condicao-especial
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 37, caput** {#art37_cpt} #revogado ~~Para o lançamento de efluentes tratados no leito seco de corpos de água intermitentes, o órgão ambiental competente definirá, ouvido o órgão gestor de recursos hídricos, condições especiais.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 37, caput** {#art37_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ## CAPÍTULO V – DIRETRIZES AMBIENTAIS PARA O ENQUADRAMENTO
 
@@ -997,7 +997,7 @@ Tags: #enquadramento #conselho-nacional-dos-recursos-hidricos #outorga #licencia
 ###### Art. 39 {#art39}
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 39, caput** {#art39_cpt} #revogado ~~Cabe aos órgãos ambientais competentes, quando necessário, definir os valores dos poluentes considerados virtualmente ausentes.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 39, caput** {#art39_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 40 {#art40}
 Tags: #abastecimento-publico #potabilidade
@@ -1017,23 +1017,23 @@ Tags: #enquadramento #classe-2 #classe-1
 Tags: #tac #ministerio-publico
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 43, caput** {#art43_cpt} #revogado ~~Os empreendimentos e demais atividades poluidoras que, na data da publicação desta Resolução, tiverem Licença de Instalação ou de Operação, expedida e não impugnada, poderão a critério do órgão ambiental competente, ter prazo de até três anos, contados a partir de sua vigência, para se adequarem às condições e padrões novos ou mais rigorosos previstos nesta Resolução.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 43, caput** {#art43_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 43, § 1º** {#art43_par1} #revogado ~~O empreendedor apresentará ao órgão ambiental competente o cronograma das medidas necessárias ao cumprimento do disposto no [[#art43_cpt|caput deste artigo]].~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 43, § 1º** {#art43_par1} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 43, § 2º** {#art43_par2} #tac #revogado ~~O prazo previsto no [[#art43_cpt|caput deste artigo]] poderá, excepcional e tecnicamente motivado, ser prorrogado por até dois anos, por meio de Termo de Ajustamento de Conduta, ao qual se dará publicidade, enviando-se cópia ao Ministério Público.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 43, § 2º** {#art43_par2} #tac #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 43, § 3º** {#art43_par3} #revogado ~~As instalações de tratamento existentes deverão ser mantidas em operação com a capacidade, condições de funcionamento e demais características para as quais foram aprovadas, até que se cumpram as disposições desta Resolução.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 43, § 3º** {#art43_par3} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 43, § 4º** {#art43_par4} #plataforma-petroleo #revogado ~~O descarte contínuo de água de processo ou de produção em plataformas marítimas de petróleo será objeto de resolução específica, a ser publicada no prazo máximo de um ano, a contar da data de publicação desta Resolução, ressalvado o padrão de lançamento de óleos e graxas a ser o definido nos termos do [[#art34|art. 34]], desta Resolução, até a edição de resolução específica.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 43, § 4º** {#art43_par4} #plataforma-petroleo #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 44 {#art44}
 Tags: #conama #padrao-lancamento #prazo
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 44, caput** {#art44_cpt} #revogado ~~O CONAMA, no prazo máximo de um ano¹, complementará, onde couber, condições e padrões de lançamento de efluentes previstos nesta Resolução.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 44, caput** {#art44_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-> Nota de rodapé ¹ do original: ~~A Resolução CONAMA 410/09 prorroga por mais 6 meses, a contar de sua data de publicação~~.
+> Nota de rodapé ¹ do original: .
 
 ###### Art. 45 {#art45}
 Tags: #sancao #fiscalizacao
@@ -1048,11 +1048,11 @@ Tags: #sancao #fiscalizacao
 Tags: #dcp #carga-poluidora
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
-**Art. 46, caput** {#art46_cpt} #revogado ~~O responsável por fontes potencial ou efetivamente poluidoras das águas deve apresentar ao órgão ambiental competente, até o dia 31 de março de cada ano, declaração de carga poluidora, referente ao ano civil anterior, subscrita pelo administrador principal da empresa e pelo responsável técnico devidamente habilitado, acompanhada da respectiva Anotação de Responsabilidade Técnica.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 46, caput** {#art46_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 46, § 1º** {#art46_par1} #revogado ~~A declaração referida no [[#art46_cpt|caput deste artigo]] conterá, entre outros dados, a caracterização qualitativa e quantitativa de seus efluentes, baseada em amostragem representativa dos mesmos, o estado de manutenção dos equipamentos e dispositivos de controle da poluição.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 46, § 1º** {#art46_par1} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 46, § 2º** {#art46_par2} #revogado ~~O órgão ambiental competente poderá estabelecer critérios e formas para apresentação da declaração mencionada no [[#art46_cpt|caput deste artigo]], inclusive, dispensando-a se for o caso para empreendimentos de menor potencial poluidor.~~ *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 46, § 2º** {#art46_par2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 47 {#art47}
 Tags: #responsavel-tecnico
@@ -1107,9 +1107,11 @@ Este texto não substitui o publicado no DOU de 18/03/2005
 | [[resolucao-conama-430-2011#art32|Resolução 430/2011]] | [[#art44|Art. 44]] | Revogado |
 | [[resolucao-conama-430-2011#art32|Resolução 430/2011]] | [[#art46|Art. 46]] | Revogado |
 
-Convenção: o texto em vigor aparece normal; o texto revogado ou substituído aparece ~~tachado~~, com a tag `#revogado` ou `#redacao-alterada`. Para buscar só o texto vigente, exclua `#revogado` e as linhas tachadas.
+Convenção: só o texto em vigor é transcrito. Redações anteriores e texto revogado foram removidos (decisão de Leo, 06/10/2026); os dispositivos revogados mantêm rótulo, ID, `#revogado` e a anotação da norma revogadora, e os alterados mantêm `#redacao-alterada` e a anotação. Para buscar só o texto vigente, exclua os dispositivos `#revogado`.
 
 ## Notas de transcrição {#notas-transcricao}
+
+**Texto revogado e redações anteriores removidos (06/10/2026).** Por decisão de Leo, a base guarda, por enquanto, só o texto em vigor: o texto tachado (redações originais e intermediárias e o conteúdo dos dispositivos revogados) foi apagado. Rótulos, IDs, tags `#revogado`/`#redacao-alterada`, anotações das normas alteradoras e o histórico de alterações foram mantidos. O texto removido pode ser recuperado no histórico do repositório (commit `1c23caf`). As notas abaixo podem citar trechos que já não aparecem no corpo.
 
 Fonte: texto compilado do portal do CONAMA (27 páginas), enviado por Leo, com o aviso "Este texto não substitui o publicado no DOU de 18/03/2005". Nesse PDF, os dispositivos revogados pela [[resolucao-conama-430-2011|Resolução CONAMA 430/2011]] aparecem tachados, seguidos da nota "(Revogado pela Resolução 430/2011)". Na base, essa nota foi repetida em cada dispositivo revogado, com link para o [[resolucao-conama-430-2011#art32|art. 32 da 430/2011]].
 
