@@ -401,7 +401,7 @@ Tabela I do art. 16: lida das imagens das páginas 5 e 6. São 31 linhas: 21 de 
 
 Observação do conversor (não é texto normativo):
 
-- O [[#art32|art. 32]] revoga o inciso XXXVIII do art. 2º, os arts. 24 a 37 e os arts. 39, 43, 44 e 46 da [[resolucao-conama-357-2005|Resolução CONAMA 357/2005]]. O arquivo da 357 foi atualizado como texto compilado: esses dispositivos aparecem tachados, com `#revogado`.
+- O [[#art32|art. 32]] revoga o inciso XXXVIII do art. 2º, os arts. 24 a 37 e os arts. 39, 43, 44 e 46 da [[resolucao-conama-357-2005|Resolução CONAMA 357/2005]]. O arquivo da 357 foi atualizado como texto compilado: esses dispositivos mantêm rótulo, ID e `#revogado`, sem o texto revogado (removido em 06/10/2026).
 - Os padrões de lançamento de efluentes que ficavam no art. 34 da 357 (Tabela X) passaram para o [[#art16|art. 16]] desta resolução (Tabela I), com parâmetros novos (benzeno, estireno, etilbenzeno, tolueno, xileno, cianeto livre, cromo hexavalente e trivalente) e a exigência de remoção mínima de 60% de DBO.
 - Os esgotos sanitários têm padrões próprios no [[#art21|art. 21]] (DBO máxima de 120 mg/L ou remoção mínima de 60%).
 - A [[#art28|Declaração de Carga Poluidora]] anual (até 31 de março) é regulamentada no Paraná pela Portaria IAP nº 256/2013 (ver `glossario.md`, termo "DCP").

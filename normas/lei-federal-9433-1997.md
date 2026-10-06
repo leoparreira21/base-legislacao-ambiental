@@ -56,7 +56,6 @@ Alterações: [[lei-federal-15269-2025|Lei nº 15.269, de 2025]] (nova redação
 **Art. 2º, caput** {#art2_cpt} São objetivos da Política Nacional de Recursos Hídricos:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} assegurar à atual e às futuras gerações a necessária disponibilidade de água, em padrões de qualidade adequados aos respectivos usos;
 - **Art. 2º, caput, inciso II** {#art2_cpt_inc2} #redacao-alterada a utilização racional e integrada dos recursos hídricos, incluindo a geração de energia elétrica e o transporte aquaviário, com vistas ao desenvolvimento sustentável; *(Redação dada pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]])*
-  > Redação original: ~~a utilização racional e integrada dos recursos hídricos, incluindo o transporte aquaviário, com vistas ao desenvolvimento sustentável;~~
 - **Art. 2º, caput, inciso III** {#art2_cpt_inc3} a prevenção e a defesa contra eventos hidrológicos críticos de origem natural ou decorrentes do uso inadequado dos recursos naturais.
 - **Art. 2º, caput, inciso IV** {#art2_cpt_inc4} #agua-pluvial #incluido incentivar e promover a captação, a preservação e o aproveitamento de águas pluviais. *(Incluído pela [[lei-federal-13501-2017|Lei nº 13.501, de 2017]])*
 - **Art. 2º, caput, inciso V** {#art2_cpt_inc5} #seguranca-hidrica #incluido garantir a segurança hídrica e energética por meio do incentivo e da promoção de obras de acumulação de água. *(Incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]])*
@@ -71,7 +70,6 @@ Alterações: [[lei-federal-15269-2025|Lei nº 15.269, de 2025]] (nova redação
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} a gestão sistemática dos recursos hídricos, sem dissociação dos aspectos de quantidade e qualidade;
 - **Art. 3º, caput, inciso II** {#art3_cpt_inc2} a adequação da gestão de recursos hídricos às diversidades físicas, bióticas, demográficas, econômicas, sociais e culturais das diversas regiões do País;
 - **Art. 3º, caput, inciso III** {#art3_cpt_inc3} #redacao-alterada a integração da gestão de recursos hídricos com a gestão ambiental e a gestão eletroenergética; *(Redação dada pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]])*
-  > Redação original: ~~a integração da gestão de recursos hídricos com a gestão ambiental;~~
 - **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} a articulação do planejamento de recursos hídricos com o dos setores usuários e com os planejamentos regional, estadual e nacional;
 - **Art. 3º, caput, inciso V** {#art3_cpt_inc5} a articulação da gestão de recursos hídricos com a do uso do solo;
 - **Art. 3º, caput, inciso VI** {#art3_cpt_inc6} a integração da gestão das bacias hidrográficas com a dos sistemas estuarinos e zonas costeiras.
@@ -325,19 +323,12 @@ Alterações: [[lei-federal-9984-2000|Lei 9.984, de 2000]] (nova redação: capu
 
 **Art. 33, caput** {#art33_cpt} #redacao-alterada Integram o Sistema Nacional de Gerenciamento de Recursos Hídricos: *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
 
-> Redação original: ~~Integram o Sistema Nacional de Gerenciamento de Recursos Hídricos:~~
-
 - **Art. 33, caput, inciso I** {#art33_cpt_inc1} #redacao-alterada o Conselho Nacional de Recursos Hídricos; *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
-  > Redação original: ~~o Conselho Nacional de Recursos Hídricos;~~
 - **Art. 33, caput, inciso I-A** {#art33_cpt_inc1-a} #ana #incluido a Agência Nacional de Águas; *(Incluído pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
 - **Art. 33, caput, inciso II** {#art33_cpt_inc2} #redacao-alterada os Conselhos de Recursos Hídricos dos Estados e do Distrito Federal; *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
-  > Redação original: ~~os Conselhos de Recursos Hídricos dos Estados e do Distrito Federal;~~
 - **Art. 33, caput, inciso III** {#art33_cpt_inc3} #redacao-alterada os Comitês de Bacia Hidrográfica; *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
-  > Redação original: ~~os Comitês de Bacia Hidrográfica;~~
 - **Art. 33, caput, inciso IV** {#art33_cpt_inc4} #redacao-alterada os órgãos dos poderes públicos federal, estaduais, do Distrito Federal e municipais cujas competências se relacionem com a gestão de recursos hídricos; *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
-  > Redação original: ~~os órgãos dos poderes públicos federal, estaduais e municipais cujas competências se relacionem com a gestão de recursos hídricos;~~
 - **Art. 33, caput, inciso V** {#art33_cpt_inc5} #redacao-alterada as Agências de Água. *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
-  > Redação original: ~~as Agências de Água.~~
 
 ### CAPÍTULO II – DO CONSELHO NACIONAL DE RECURSOS HÍDRICOS
 
@@ -366,7 +357,6 @@ Alterações: [[lei-federal-9984-2000|Lei 9.984, de 2000]] (nova redação: inci
 - **Art. 35, caput, inciso VII** {#art35_cpt_inc7} aprovar propostas de instituição dos Comitês de Bacia Hidrográfica e estabelecer critérios gerais para a elaboração de seus regimentos;
 - **Art. 35, caput, inciso VIII** {#art35_cpt_inc8} (VETADO)
 - **Art. 35, caput, inciso IX** {#art35_cpt_inc9} #redacao-alterada acompanhar a execução e aprovar o Plano Nacional de Recursos Hídricos e determinar as providências necessárias ao cumprimento de suas metas; *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
-  > Redação original: ~~acompanhar a execução do Plano Nacional de Recursos Hídricos e determinar as providências necessárias ao cumprimento de suas metas;~~
 - **Art. 35, caput, inciso X** {#art35_cpt_inc10} estabelecer critérios gerais para a outorga de direitos de uso de recursos hídricos e para a cobrança por seu uso.
 - **Art. 35, caput, inciso XI** {#art35_cpt_inc11} #seguranca-barragem #incluido zelar pela implementação da Política Nacional de Segurança de Barragens (PNSB); *(Incluído pela [[lei-federal-12334-2010|Lei nº 12.334, de 2010]])*
 - **Art. 35, caput, inciso XII** {#art35_cpt_inc12} #seguranca-barragem #incluido estabelecer diretrizes para implementação da PNSB, aplicação de seus instrumentos e atuação do Sistema Nacional de Informações sobre Segurança de Barragens (SNISB); *(Incluído pela [[lei-federal-12334-2010|Lei nº 12.334, de 2010]])*
@@ -378,15 +368,7 @@ Alterações: [[medida-provisoria-870-2019|Medida Provisória nº 870, de 2019]]
 
 **Art. 36, caput** {#art36_cpt} O Conselho Nacional de Recursos Hídricos será gerido por:
 - **Art. 36, caput, inciso I** {#art36_cpt_inc1} #redacao-alterada 1 (um) Presidente, que será o Ministro de Estado da Integração e do Desenvolvimento Regional; *(Redação dada pela [[lei-federal-14600-2023|Lei nº 14.600, de 2023]])*
-  > Redação original: ~~um Presidente, que será o Ministro titular do Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal;~~
-  > Redação anterior: ~~um Presidente, que será o Ministro de Estado do Desenvolvimento Regional;~~ *(Redação dada pela [[medida-provisoria-870-2019|Medida Provisória nº 870, de 2019]])*
-  > Redação anterior: ~~1 (um) Presidente, que será o Ministro de Estado do Desenvolvimento Regional;~~ *(Redação dada pela [[lei-federal-13844-2019|Lei nº 13.844, de 2019]])*
-  > Redação anterior: ~~um Presidente, que será o Ministro de Estado do Meio Ambiente e Mudança do Clima;~~ *(Redação dada pela [[medida-provisoria-1154-2023|Medida Provisória nº 1.154, de 2023]])*
 - **Art. 36, caput, inciso II** {#art36_cpt_inc2} #redacao-alterada 1 (um) Secretário-Executivo, que será o titular do órgão integrante da estrutura do Ministério da Integração e do Desenvolvimento Regional responsável pela gestão dos recursos hídricos. *(Redação dada pela [[lei-federal-14600-2023|Lei nº 14.600, de 2023]])*
-  > Redação original: ~~um Secretário Executivo, que será o titular do órgão integrante da estrutura do Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal, responsável pela gestão dos recursos hídricos.~~
-  > Redação anterior: ~~um Secretário-Executivo, que será o titular do órgão integrante da estrutura do Ministério do Desenvolvimento Regional responsável pela gestão dos recursos hídricos.~~ *(Redação dada pela [[medida-provisoria-870-2019|Medida Provisória nº 870, de 2019]])*
-  > Redação anterior: ~~1 (um) Secretário-Executivo, que será o titular do órgão integrante da estrutura do Ministério do Desenvolvimento Regional responsável pela gestão dos recursos hídricos.~~ *(Redação dada pela [[lei-federal-13844-2019|Lei nº 13.844, de 2019]])*
-  > Redação anterior: ~~um Secretário-Executivo, que será o titular do órgão integrante da estrutura do Ministério do Meio Ambiente e Mudança do Clima responsável pela gestão dos recursos hídricos.~~ *(Redação dada pela [[medida-provisoria-1154-2023|Medida Provisória nº 1.154, de 2023]])*
 
 ### CAPÍTULO III – DOS COMITÊS DE BACIA HIDROGRÁFICA
 
@@ -490,30 +472,17 @@ Alterações: [[medida-provisoria-870-2019|Medida Provisória nº 870, de 2019]]
 
 **Art. 45, caput** {#art45_cpt} #redacao-alterada A Secretaria-Executiva do Conselho Nacional de Recursos Hídricos será exercida pelo órgão integrante da estrutura do Ministério da Integração e do Desenvolvimento Regional responsável pela gestão dos recursos hídricos. *(Redação dada pela [[lei-federal-14600-2023|Lei nº 14.600, de 2023]])*
 
-> Redação original: ~~A Secretaria Executiva do Conselho Nacional de Recursos Hídricos será exercida pelo órgão integrante da estrutura do Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal, responsável pela gestão dos recursos hídricos.~~
-> Redação anterior: ~~A Secretaria-Executiva do Conselho Nacional de Recursos Hídricos será exercida pelo órgão integrante da estrutura do Ministério do Desenvolvimento Regional responsável pela gestão dos recursos hídricos.~~ *(Redação dada pela [[medida-provisoria-870-2019|Medida Provisória nº 870, de 2019]])*
-> Redação anterior: ~~A Secretaria-Executiva do Conselho Nacional de Recursos Hídricos será exercida pelo órgão integrante da estrutura do Ministério do Desenvolvimento Regional responsável pela gestão dos recursos hídricos.~~ *(Redação dada pela [[lei-federal-13844-2019|Lei nº 13.844, de 2019]])*
-> Redação anterior: ~~A Secretaria-Executiva do Conselho Nacional de Recursos Hídricos será exercida pelo órgão integrante da estrutura do Ministério do Meio Ambiente e Mudança do Clima responsável pela gestão dos recursos hídricos.~~ *(Redação dada pela [[medida-provisoria-1154-2023|Medida Provisória nº 1.154, de 2023]])*
-
-
 ###### Art. 46 {#art46}
 Tags: #conselho-nacional-dos-recursos-hidricos #competencia
 Alterações: [[lei-federal-9984-2000|Lei 9.984, de 2000]] (nova redação: caput, nova redação: inciso I, nova redação: inciso II, nova redação: inciso III, nova redação: inciso IV, nova redação: inciso V)
 
 **Art. 46, caput** {#art46_cpt} #redacao-alterada Compete à Secretaria Executiva do Conselho Nacional de Recursos Hídricos: *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
 
-> Redação original: ~~Compete à Secretaria Executiva do Conselho Nacional de Recursos Hídricos:~~
-
 - **Art. 46, caput, inciso I** {#art46_cpt_inc1} #redacao-alterada prestar apoio administrativo, técnico e financeiro ao Conselho Nacional de Recursos Hídricos; *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
-  > Redação original: ~~prestar apoio administrativo, técnico e financeiro ao Conselho Nacional de Recursos Hídricos;~~
 - **Art. 46, caput, inciso II** {#art46_cpt_inc2} #revogado #redacao-alterada revogado; *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
-  > Redação original: ~~coordenar a elaboração do Plano Nacional de Recursos Hídricos e encaminhá-lo à aprovação do Conselho Nacional de Recursos Hídricos;~~
 - **Art. 46, caput, inciso III** {#art46_cpt_inc3} #redacao-alterada instruir os expedientes provenientes dos Conselhos Estaduais de Recursos Hídricos e dos Comitês de Bacia Hidrográfica; *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
-  > Redação original: ~~instruir os expedientes provenientes dos Conselhos Estaduais de Recursos Hídricos e dos Comitês de Bacia Hidrográfica;~~
 - **Art. 46, caput, inciso IV** {#art46_cpt_inc4} #revogado #redacao-alterada revogado; *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
-  > Redação original: ~~coordenar o Sistema de Informações sobre Recursos Hídricos;~~
 - **Art. 46, caput, inciso V** {#art46_cpt_inc5} #redacao-alterada elaborar seu programa de trabalho e respectiva proposta orçamentária anual e submetê-los à aprovação do Conselho Nacional de Recursos Hídricos. *(Redação dada pela [[lei-federal-9984-2000|Lei 9.984, de 2000]])*
-  > Redação original: ~~elaborar seu programa de trabalho e respectiva proposta orçamentária anual e submetê-los à aprovação do Conselho Nacional de Recursos Hídricos.~~
 
 ### CAPÍTULO VI – DAS ORGANIZAÇÕES CIVIS DE RECURSOS HÍDRICOS
 
@@ -553,11 +522,8 @@ Alterações: [[lei-federal-14066-2020|Lei nº 14.066, de 2020]] (nova redação
 
 **Art. 50, caput** {#art50_cpt} #redacao-alterada Por infração de qualquer disposição legal ou regulamentar referente à execução de obras e serviços hidráulicos, derivação ou utilização de recursos hídricos, ou pelo não atendimento das solicitações feitas, o infrator, a critério da autoridade competente, ficará sujeito às seguintes penalidades, independentemente de sua ordem de enumeração: *(Redação dada pela [[lei-federal-14066-2020|Lei nº 14.066, de 2020]])*
 
-> Redação original: ~~Por infração de qualquer disposição legal ou regulamentar referentes à execução de obras e serviços hidráulicos, derivação ou utilização de recursos hídricos de domínio ou administração da União, ou pelo não atendimento das solicitações feitas, o infrator, a critério da autoridade competente, ficará sujeito às seguintes penalidades, independentemente de sua ordem de enumeração:~~
-
 - **Art. 50, caput, inciso I** {#art50_cpt_inc1} advertência por escrito, na qual serão estabelecidos prazos para correção das irregularidades;
 - **Art. 50, caput, inciso II** {#art50_cpt_inc2} #multa #redacao-alterada multa, simples ou diária, proporcional à gravidade da infração, de R$ 100,00 (cem reais) a R$ 50.000.000,00 (cinquenta milhões de reais); *(Redação dada pela [[lei-federal-14066-2020|Lei nº 14.066, de 2020]])*
-  > Redação original: ~~multa, simples ou diária, proporcional à gravidade da infração, de R$ 100,00 (cem reais) a R$ 10.000,00 (dez mil reais);~~
 - **Art. 50, caput, inciso III** {#art50_cpt_inc3} #embargo embargo provisório, por prazo determinado, para execução de serviços e obras necessárias ao efetivo cumprimento das condições de outorga ou para o cumprimento de normas referentes ao uso, controle, conservação e proteção dos recursos hídricos;
 - **Art. 50, caput, inciso IV** {#art50_cpt_inc4} #embargo embargo definitivo, com revogação da outorga, se for o caso, para repor incontinenti, no seu antigo estado, os recursos hídricos, leitos e margens, nos termos dos [[decreto-federal-24643-1934#art58|arts. 58 e 59 do Código de Águas]] ou tamponar os poços de extração de água subterrânea.
 
@@ -576,9 +542,6 @@ Tags: #agencia-agua
 Alterações: [[lei-federal-10881-2004|Lei nº 10.881, de 2004]] (nova redação: caput)
 
 **Art. 51, caput** {#art51_cpt} #redacao-alterada O Conselho Nacional de Recursos Hídricos e os Conselhos Estaduais de Recursos Hídricos poderão delegar a organizações sem fins lucrativos relacionadas no [[#art47|art. 47 desta Lei]], por prazo determinado, o exercício de funções de competência das Agências de Água, enquanto esses organismos não estiverem constituídos. *(Redação dada pela [[lei-federal-10881-2004|Lei nº 10.881, de 2004]])*
-
-> Redação original: ~~Os consórcios e associações intermunicipais de bacias hidrográficas [[#art47|mencionados no art. 47]] poderão receber delegação do Conselho Nacional ou dos Conselhos Estaduais de Recursos Hídricos, por prazo determinado, para o exercício de funções de competência das Agências de Água, enquanto esses organismos não estiverem constituídos.~~
-
 
 ###### Art. 52 {#art52}
 Tags: #aproveitamento-hidreletrico #plano-recursos-hidricos
@@ -602,7 +565,6 @@ Tags: #compensacao-financeira
 > V - dois por cento ao Ministério da Ciência e Tecnologia. ....................................................................................
 > § 4º A cota destinada à Secretaria de Recursos Hídricos do Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal será empregada na implementação da Política Nacional de Recursos Hídricos e do Sistema Nacional de Gerenciamento de Recursos Hídricos e na gestão da rede hidrometeorológica nacional.
 > § 5º A cota destinada ao DNAEE será empregada na operação e expansão de sua rede hidrometeorológica, no estudo dos recursos hídricos e em serviços relacionados ao aproveitamento da energia hidráulica."
-
 
 **Art. 54, parágrafo único** {#art54_par1u} Os novos percentuais definidos no [[#art54_cpt|caput deste artigo]] entrarão em vigor no prazo de cento e oitenta dias contados a partir da data de publicação desta Lei.
 
@@ -673,9 +635,11 @@ Este texto não substitui o publicado no DOU de 9.1.1997
 | [[lei-federal-14066-2020|Lei nº 14.066, de 2020]] | [[#art50_cpt_inc2|Art. 50, inciso II]] | Nova redação |
 | [[lei-federal-10881-2004|Lei nº 10.881, de 2004]] | [[#art51|Art. 51]] | Nova redação |
 
-Convenção: o texto em vigor aparece normal; o texto revogado ou substituído aparece ~~tachado~~, com a tag `#revogado` ou `#redacao-alterada`. Para buscar só o texto vigente, exclua `#revogado` e as linhas tachadas.
+Convenção: só o texto em vigor é transcrito. Redações anteriores e texto revogado foram removidos (decisão de Leo, 06/10/2026); os dispositivos revogados mantêm rótulo, ID, `#revogado` e a anotação da norma revogadora, e os alterados mantêm `#redacao-alterada` e a anotação. Para buscar só o texto vigente, exclua os dispositivos `#revogado`.
 
 ## Notas de transcrição {#notas-transcricao}
+
+**Texto revogado e redações anteriores removidos (06/10/2026).** Por decisão de Leo, a base guarda, por enquanto, só o texto em vigor: o texto tachado (redações originais e intermediárias e o conteúdo dos dispositivos revogados) foi apagado. Rótulos, IDs, tags `#revogado`/`#redacao-alterada`, anotações das normas alteradoras e o histórico de alterações foram mantidos. O texto removido pode ser recuperado no histórico do repositório (commit `1c23caf`). As notas abaixo podem citar trechos que já não aparecem no corpo.
 
 Fonte: texto compilado do Planalto (13 páginas), impresso do navegador e enviado por Leo, com o aviso "Este texto não substitui o publicado no DOU de 9.1.1997". Nesse PDF, as redações anteriores aparecem tachadas, seguidas da redação em vigor com a anotação "(Redação dada pela ...)" ou "(Incluído pela ...)". O tachado foi detectado pelas linhas desenhadas sobre o texto no PDF e conferido por amostragem nas imagens das páginas.
 

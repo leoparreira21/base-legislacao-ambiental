@@ -31,7 +31,7 @@ fonte: "Planalto – texto compilado impresso do navegador (21 páginas, Skia/PD
 
 > Anotações do Planalto na margem do cabeçalho: "Regulamento" (duas vezes), "Mensagem de veto" e "(Vide Decreto de 15 de setembro de 2010)" (links do portal, sem texto no PDF). O regulamento geral é o [[decreto-federal-99274-1990|Decreto nº 99.274/1990]] (informação do conversor; o PDF não diz qual é).
 
-> **Atenção – texto compilado sem redações anteriores (observação do conversor):** o PDF traz só a redação em vigor, com as anotações "(Redação dada ...)", "(Incluído ...)" e "(Revogado ...)". Os dispositivos alterados estão marcados `#redacao-alterada`, `#incluido` ou `#revogado`, mas a redação original não está transcrita (o Planalto não pôde ser acessado desta sessão). Ver [[#notas-transcricao|Notas de transcrição]].
+> **Atenção – texto compilado sem redações anteriores (observação do conversor):** o PDF traz só a redação em vigor, com as anotações "(Redação dada ...)", "(Incluído ...)" e "(Revogado ...)". Os dispositivos alterados estão marcados `#redacao-alterada`, `#incluido` ou `#revogado`; a base guarda, por enquanto, só o texto em vigor. Ver [[#notas-transcricao|Notas de transcrição]].
 
 **Preâmbulo** {#preambulo} O PRESIDENTE DA REPÚBLICA, Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
@@ -773,7 +773,7 @@ Tags: #revogacao
 
 ## Histórico de alterações {#historico-alteracoes}
 
-Montado a partir das anotações do Planalto no texto compilado ("Redação dada", "Incluído", "Revogado"). As redações originais e intermediárias **não** estão no PDF (ver Notas de transcrição).
+Montado a partir das anotações do Planalto no texto compilado ("Redação dada", "Incluído", "Revogado"). A base guarda só o texto em vigor; as redações anteriores não são transcritas.
 
 | Norma | Dispositivos | Tipo |
 |---|---|---|
@@ -820,7 +820,7 @@ Observações do conversor, sem efeito sobre o texto:
 
 Fonte: PDF do texto compilado do Planalto impresso do navegador (21 páginas, Skia/PDF), enviado por Leo. O cabeçalho do portal (brasão, "Presidência da República / Casa Civil / Subchefia para Assuntos Jurídicos") e o aviso final ("Este texto não substitui o publicado no D.O.U. de 2.9.1981") foram removidos.
 
-**Redações anteriores (ponto para decisão).** A versão impressa não tem os trechos tachados do Planalto: só aparece a redação em vigor (conferido com PyMuPDF, sem traços de tachado). Por isso, os dispositivos com "Redação dada" não trazem a linha "> Redação original: ~~...~~", e os revogados com o texto substituído por "(Revogado ...)" (arts. 7º, 16, 17-J e 18; art. 8º, III; art. 10, §§ 2º a 4º; art. 11, § 1º; art. 14, § 4º; art. 17-B, §§ 1º e 2º; art. 17-C, § 3º; art. 17-G, parágrafo único; art. 17-I, parágrafo único; art. 17-O, § 1º) ficam sem o texto antigo tachado. O site do Planalto não respondeu a esta sessão. Para completar o texto compilado, enviar o PDF do Planalto "com os tachados" (versão impressa da página com as redações anteriores visíveis) ou a publicação original (DOU de 02/09/1981) e as leis alteradoras.
+**Redações anteriores.** A versão impressa não tem os trechos tachados do Planalto: só aparece a redação em vigor. Pela decisão de 06/10/2026 (a base guarda, por enquanto, só o texto em vigor), isso basta: os dispositivos alterados têm `#redacao-alterada` e a anotação, e os revogados (arts. 7º, 16, 17-J e 18; art. 8º, III; art. 10, §§ 2º a 4º; art. 11, § 1º; art. 14, § 4º; art. 17-B, §§ 1º e 2º; art. 17-C, § 3º; art. 17-G, parágrafo único; art. 17-I, parágrafo único; art. 17-O, § 1º) mantêm rótulo, ID, `#revogado` e a anotação.
 
 Anotações do Planalto: viraram texto em itálico com link para a norma alteradora (ex.: `*(Redação dada pela [[lei-federal-8028-1990|Lei nº 8.028, de 1990]])*`), na posição em que aparecem. A linha "Alterações:" de cada artigo e a tabela de histórico foram montadas a partir delas. Anotações "(Vide ...)" e "(Regulamento)" ficaram como estão, com link quando citam lei numerada. "(Vide Decreto de 15 de setembro de 2010)" (cabeçalho) não tem número e ficou sem link. Na Lei 15.190/2025 (art. 6º, I), a anotação é seguida da palavra "Vigência" (link do portal), mantida.
 

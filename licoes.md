@@ -56,6 +56,8 @@ Formato: uma lição por item, com data, contexto e o que fazer.
 
 ## Alterações e revogações
 
+- 2026-10-06, decisão de Leo: a base guarda, por enquanto, só o texto em vigor, para priorizar diversidade de normas sobre completude. O texto tachado (redações originais/intermediárias e conteúdo de dispositivos revogados) foi removido de 4 normas (Decreto 9.541/2025, Lei 12.305/2010, Lei 9.433/1997, CONAMA 357/2005); recuperável no git. Fazer: não buscar nem transcrever redações anteriores; em revogação, manter rótulo, ID, `#revogado` e a anotação. Regra atualizada no README. Ao reverter a decisão, recuperar o texto pelo histórico.
+
 - 2026-09-27, Lei 9.433/1997: um mesmo dispositivo teve várias redações sucessivas (MP 870/2019, Lei 13.844/2019, MP 1.154/2023, Lei 14.600/2023), e o README só previa "Redação original". Fazer: após a redação original, listar as intermediárias como `> Redação anterior: ~~...~~ *(Redação dada pela [[...]])*` e registrá-las no Histórico como "Redação intermediária (substituída)". Proposta incluída no README.
 - 2026-09-27, CONAMA 430/2011 × 357/2005: revogação parcial feita por norma que está na base. Fazer: como no Decreto 12.799/2026, a norma nova vai em `altera` (não em `revoga`), e a afetada recebe `alterado_por`, com os dispositivos tachados e `#revogado`.
 - 2026-09-27, IN IAT 25/2025 (republicação): a norma "torna sem efeito" duas publicações anteriores com o mesmo número e ano, o que faria o nome de arquivo colidir. Fazer: registrar em `revoga` com nome provisório `<arquivo>-dioe-<nº do DIOE>` e levar a decisão ao usuário.
@@ -71,10 +73,11 @@ Formato: uma lição por item, com data, contexto e o que fazer.
 
 Ajustes sugeridos para as habilidades que ficam fora do repositório. Remova o item quando o usuário aplicar a mudança.
 
-- 2026-09-27, `base-legislacao`, seção 1 (Extrair o texto): acrescentar "Na nuvem, instale antes: `apt-get install -y poppler-utils` e `pip install pymupdf`. Em textos compilados (Planalto, CONAMA), detecte o tachado com PyMuPDF, porque o `pdftotext` o perde."
+- 2026-09-27, `base-legislacao`, seção 1 (Extrair o texto): acrescentar "Na nuvem, instale antes: `apt-get install -y poppler-utils` e `pip install pymupdf`. Em textos compilados (Planalto, CONAMA), descarte o texto tachado (detectável com PyMuPDF; o `pdftotext` o mistura com o texto em vigor)."
 - 2026-09-27, `base-legislacao`, seção 5 (Revisão e commit): o texto manda usar o ramo `norma/<arquivo>`, mas as sessões na nuvem recebem um ramo designado e não podem publicar em outro sem autorização. Texto sugerido: "Faça o commit e o push no ramo `norma/<arquivo>` ou, numa sessão na nuvem, no ramo designado pela sessão. Nunca vá direto para o `main`."
 - 2026-09-27, `base-legislacao`: não trata de documentos interpretativos (versões comentadas). Texto sugerido, nova seção "2B. Comentários oficiais": "Se Leo enviar uma versão comentada ou nota interpretativa oficial da norma, siga a seção 'Comentários oficiais' do README: arquivo próprio em `normas/comentarios/<arquivo>-coment.md`, um comentário por dispositivo com ID `<id-do-dispositivo>_coment` e link direto para o dispositivo, e link '(comentário)' de volta no dispositivo da norma."
 - 2026-09-27, `base-legislacao`, seção 2A (Anexos, tipo 3): acrescentar "Tabelas no corpo de um artigo seguem o tipo 3, com ID `artN_tabT_linM`."
+- 2026-10-06, `base-legislacao`, seção 3 (Aplicar alterações e revogações): trocar "Nova redação: ... Logo abaixo vai `> Redação original: ~~texto antigo~~`" por "Nova redação: o texto novo fica no lugar, seguido de `*(Redação dada pelo [[...]])*`; a redação anterior não é transcrita (por enquanto)", e "Revogação de dispositivo: tache o texto (`~~...~~`)" por "Revogação de dispositivo: remova o texto e mantenha rótulo, ID, `#revogado` e `*(Revogado pelo [[...]])*`".
 
 ## Consultas e recuperação
 

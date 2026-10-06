@@ -191,21 +191,19 @@ Alterações: [[decreto-estadual-12799-2026|Decreto nº 12.799/2026]] (revoga in
   - **Art. 13, caput, inciso III, alínea "a"** {#art13_cpt_inc3_alia} cópia do Cadastro de Pessoa Física - CPF do representante legal e do requerente;
   - **Art. 13, caput, inciso III, alínea "b"** {#art13_cpt_inc3_alib} cópia do Registro Geral - RG do representante legal e do requerente;
   - **Art. 13, caput, inciso III, alínea "c"** {#art13_cpt_inc3_alic} cópia do instrumento de procuração com firma reconhecida;
-- **Art. 13, caput, inciso IV** {#art13_cpt_inc4} #revogado #certidao-municipal ~~Certidão do Município declarando expressamente que o local e o tipo de empreendimento e/ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística e ambiental, bem como que atendam as demais exigências legais e administrativas perante o município;~~ *(Revogado pelo [[decreto-estadual-12799-2026#art5_cpt_inc1|Decreto nº 12.799/2026]])*
+- **Art. 13, caput, inciso IV** {#art13_cpt_inc4} #revogado #certidao-municipal *(Revogado pelo [[decreto-estadual-12799-2026#art5_cpt_inc1|Decreto nº 12.799/2026]])*
 - **Art. 13, caput, inciso V** {#art13_cpt_inc5} #dominialidade documento válido de comprovação de dominialidade;
 - **Art. 13, caput, inciso VI** {#art13_cpt_inc6} #embargo declaração do requerente informando que área a ser licenciada não possui embargos;
 - **Art. 13, caput, inciso VII** {#art13_cpt_inc7} #car cópia de inscrição no Cadastro Ambiental Rural - CAR, para empreendimentos localizados em imóveis rurais, como exigido pela legislação vigente;
 - **Art. 13, caput, inciso VIII** {#art13_cpt_inc8} #publicacao-dioe extrato de publicação do requerimento de licenciamento ambiental no Diário Oficial do Estado.
 
-**Art. 13, § 1º** {#art13_par1} #revogado ~~Na hipótese do empreendimento e/ou atividade atingir territorialmente mais de um município, o requerente deverá apresentar a certidão do [[#art13_cpt_inc4|inciso IV]] correspondente a cada municipalidade.~~ *(Revogado pelo [[decreto-estadual-12799-2026#art5_cpt_inc2|Decreto nº 12.799/2026]])*
+**Art. 13, § 1º** {#art13_par1} #revogado *(Revogado pelo [[decreto-estadual-12799-2026#art5_cpt_inc2|Decreto nº 12.799/2026]])*
 
-**Art. 13, § 2º** {#art13_par2} #revogado ~~A certidão do [[#art13_cpt_inc4|inciso IV]] deverá contemplar todas as atividades que serão realizadas pelo empreendimento.~~ *(Revogado pelo [[decreto-estadual-12799-2026#art5_cpt_inc3|Decreto nº 12.799/2026]])*
+**Art. 13, § 2º** {#art13_par2} #revogado *(Revogado pelo [[decreto-estadual-12799-2026#art5_cpt_inc3|Decreto nº 12.799/2026]])*
 
 **Art. 13, § 3º** {#art13_par3} A comprovação de dominialidade constante no [[#art13_cpt_inc5|inciso V]] poderá ser feita por documento que ateste a propriedade ou posse incontestada em nome do requerente, tais como matrícula do Registro do Imóvel, transcrição imobiliária, escritura pública de cessão de direitos possessórios, declaração dos confrontantes, documento hábil expedido pelo poder público em caso de terras devolutas ou patrimoniais públicas, recibo que comprova a aquisição de posse, contrato de locação do imóvel, arrendamento, dentre outros.
 
 **Art. 13, § 4º** {#art13_par4} #dila #dlam #autorizacao-ambiental #dominialidade #publicacao-dioe #redacao-alterada Dispensa da apresentação do documento constante do [[#art13_cpt_inc5|inciso V]] e da publicação constante no [[#art13_cpt_inc8|inciso VIII]], ambos deste artigo, os requerimentos de Autorizações Ambientais - AA, de Declaração de Inexigibilidade de Licença Ambiental - DILA e de Dispensa de Licenciamento Ambiental - DLAM. *(Redação dada pelo [[decreto-estadual-12799-2026#art1|Decreto nº 12.799/2026]])*
-
-> Redação original: ~~Ficam dispensados da publicação constante no [[#art13_cpt_inc8|inciso VIII]] os requerimentos de Autorizações Ambientais - AA, de Declaração de Inexigibilidade de Licença Ambiental - DILA e de Dispensa de Licenciamento Ambiental - DLAM.~~
 
 ###### Art. 14 {#art14}
 Tags: #triagem #prazo
@@ -529,12 +527,12 @@ Alterações: [[decreto-estadual-12799-2026|Decreto nº 12.799/2026]] (revoga in
 **Art. 56, caput** {#art56_cpt} A Declaração de Dispensa de Licenciamento Ambiental - DLAM será concedida para os empreendimentos e/ou atividades que são dispensados do licenciamento por parte do Instituto Água e Terra - IAT em função de seu baixo potencial poluidor/degradador – nível I, conforme os critérios estabelecidos em normativas específicas, sem prejuízo ao licenciamento ambiental municipal, e que atendam as seguintes condições:
 - **Art. 56, caput, inciso I** {#art56_cpt_inc1} não estejam localizados em áreas ambientalmente frágeis ou protegidas, tais como Áreas de Preservação Permanente, Reserva Legal, Áreas Úmidas e Unidades de Conservação, e não haja necessidade de supressão de vegetação nativa;
 - **Art. 56, caput, inciso II** {#art56_cpt_inc2} #efluente a geração de efluentes líquidos industriais não ultrapasse 1.000 litros por dia;
-- **Art. 56, caput, inciso III** {#art56_cpt_inc3} #revogado #artesanal ~~a atividade econômica seja classificada como exclusivamente artesanal;~~ *(Revogado pelo [[decreto-estadual-12799-2026#art5_cpt_inc4|Decreto nº 12.799/2026]])*
+- **Art. 56, caput, inciso III** {#art56_cpt_inc3} #revogado #artesanal *(Revogado pelo [[decreto-estadual-12799-2026#art5_cpt_inc4|Decreto nº 12.799/2026]])*
 - **Art. 56, caput, inciso IV** {#art56_cpt_inc4} #residuo-perigoso não haja a geração de Resíduos Sólidos Classe I Perigosos, conforme normas técnicas vigentes;
 - **Art. 56, caput, inciso V** {#art56_cpt_inc5} possua até 10 (dez) funcionários;
 - **Art. 56, caput, inciso VI** {#art56_cpt_inc6} #emissao-atmosferica não haja emissão de poluentes atmosféricos, exceto nas emissões provenientes de equipamentos destinados à geração de calor a partir de energia elétrica ou gás;
 
-**Art. 56, § 1º** {#art56_par1} #revogado #agricultura-familiar ~~No caso de empreendimentos e/ou atividades classificados como agrossilvipastoril, atividade de criação e cultivo ligados ao setor primário, devem ser obrigatoriamente estarem enquadradas em agricultura familiar ou empreendimento familiar rural, conforme [[lei-federal-11326-2006|Lei Federal nº 11.326, de 24 de julho de 2006]];~~ *(Revogado pelo [[decreto-estadual-12799-2026#art5_cpt_inc5|Decreto nº 12.799/2026]])*
+**Art. 56, § 1º** {#art56_par1} #revogado #agricultura-familiar *(Revogado pelo [[decreto-estadual-12799-2026#art5_cpt_inc5|Decreto nº 12.799/2026]])*
 
 **Art. 56, § 2º** {#art56_par2} #esgotamento-sanitario Na hipótese de o empreendimento e/ou atividade ultrapassar o limite estabelecido no [[#art56_cpt_inc2|inciso II do caput]] deste artigo, a área deverá ser dotada de sistema público de esgotamento sanitário, com a respectiva anuência da concessionária.
 
@@ -545,8 +543,6 @@ Tags: #dlam #dispensa #baixo-risco #redacao-alterada
 Alterações: [[decreto-estadual-12799-2026|Decreto nº 12.799/2026]] (nova redação do caput)
 
 **Art. 57, caput** {#art57_cpt} A Declaração de Dispensa de Licenciamento Ambiental - DLAM deverá ser requerida pelo interessado, exceto para empreendimentos e/ou atividades classificados como de Baixo Risco, conforme ato normativo do órgão competente. *(Redação dada pelo [[decreto-estadual-12799-2026#art3|Decreto nº 12.799/2026]])*
-
-> Redação original: ~~A Declaração de Dispensa de Licenciamento Ambiental - DLAM deverá ser requerida pelo interessado, necessária comprovação de dispensa de licenciamento ambiental.~~
 
 ###### Art. 58 {#art58}
 Tags: #dlam #questionario
@@ -1516,9 +1512,11 @@ Tags: #revogacao #cema #sema #sedest
 | [[decreto-estadual-12799-2026|Decreto nº 12.799/2026]] | [[#art56_par3|Art. 56, § 3º]] | Incluído (esgoto acima de 10 funcionários) |
 | [[decreto-estadual-12799-2026|Decreto nº 12.799/2026]] | [[#art57_cpt|Art. 57]] | Nova redação (exceção para Baixo Risco) |
 
-Convenção: o texto em vigor aparece normal; o texto revogado ou substituído aparece ~~tachado~~, com a tag `#revogado` ou `#redacao-alterada`. Para buscar só o texto vigente, exclua `#revogado`.
+Convenção: só o texto em vigor é transcrito. Redações anteriores e texto revogado foram removidos (decisão de Leo, 06/10/2026); os dispositivos revogados mantêm rótulo, ID, `#revogado` e a anotação da norma revogadora, e os alterados mantêm `#redacao-alterada` e a anotação. Para buscar só o texto vigente, exclua os dispositivos `#revogado`.
 
 ## Notas de transcrição {#notas-transcricao}
+
+**Texto revogado e redações anteriores removidos (06/10/2026).** Por decisão de Leo, a base guarda, por enquanto, só o texto em vigor: o texto tachado (redações originais e intermediárias e o conteúdo dos dispositivos revogados) foi apagado. Rótulos, IDs, tags `#revogado`/`#redacao-alterada`, anotações das normas alteradoras e o histórico de alterações foram mantidos. O texto removido pode ser recuperado no histórico do repositório (commit `1c23caf`). As notas abaixo podem citar trechos que já não aparecem no corpo.
 
 O texto foi mantido exatamente como publicado. Os pontos abaixo são do original, não erros de transcrição:
 

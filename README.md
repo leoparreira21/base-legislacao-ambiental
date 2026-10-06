@@ -146,13 +146,15 @@ Na norma, o dispositivo comentado termina com o link de volta: `[[rdc-anvisa-222
 
 ## Alterações e revogações (texto compilado)
 
-Quando uma norma nova altera, acrescenta ou revoga dispositivos de outra, **o arquivo da norma afetada é atualizado, nunca apagado**. O texto antigo ainda rege processos protocolados antes da mudança (ver, por exemplo, o art. 173 do Decreto 9.541/2025), e outras normas linkam para ele.
+Quando uma norma nova altera, acrescenta ou revoga dispositivos de outra, **o arquivo da norma afetada é atualizado, nunca apagado**, porque outras normas linkam para os seus IDs.
+
+**Só o texto em vigor (decisão de 06/10/2026, provisória).** Para priorizar a quantidade de normas na base sobre a completude de cada uma, a base não guarda, por enquanto, texto tachado: nem redações originais ou intermediárias, nem o conteúdo de dispositivos revogados. O texto removido continua no histórico do git. Atenção: o texto antigo ainda pode reger processos protocolados antes da mudança (ver, por exemplo, o art. 173 do Decreto 9.541/2025); nesses casos, consultar a publicação original.
 
 | Caso | Como fica no arquivo da norma afetada |
 |---|---|
-| Nova redação | O texto novo fica no lugar, seguido de `*(Redação dada pelo [[norma-nova#artN\|Decreto nº X/AAAA]])*`. A redação original fica logo abaixo, tachada: `> Redação original: ~~...~~`. Se houve mais de uma alteração, as redações intermediárias vêm em seguida, na ordem: `> Redação anterior: ~~...~~ *(Redação dada pela [[...]])*`. O dispositivo recebe `#redacao-alterada`. |
+| Nova redação | O texto novo fica no lugar, seguido de `*(Redação dada pelo [[norma-nova#artN\|Decreto nº X/AAAA]])*`. A redação anterior não é transcrita (por enquanto). O dispositivo recebe `#redacao-alterada`. |
 | Dispositivo acrescentado | É inserido na posição correta, com ID novo, `#incluido` e `*(Incluído pelo [[...]])*`. |
-| Revogação de dispositivo | O texto fica tachado `~~...~~`, com `#revogado` e `*(Revogado pelo [[...]])*`. O ID não muda. |
+| Revogação de dispositivo | O texto é removido; ficam o rótulo, o ID (que não muda), `#revogado` e `*(Revogado pelo [[...]])*`. |
 | Revogação total | O arquivo é mantido, com `situacao: revogada` e `revogado_por` preenchido. |
 
 Além disso:
@@ -161,7 +163,7 @@ Além disso:
 - O campo `texto: compilado (atualizado até ...)` fica no frontmatter.
 - Na norma alteradora, cada nova redação aparece em citação (`>`) com ID próprio (`art1_cpt_alt1`) e link para o dispositivo alterado.
 
-Para buscar o texto não revogado segundo o acervo, exclua **dispositivos** marcados `#revogado` e **trechos** tachados, preservando a redação atual. Não exclua o artigo inteiro por uma tag agregada nem uma linha inteira que também contenha texto atual. Norma com `situacao: revogada` só entra no modo histórico. Essa filtragem não certifica vigência externa nem resolve transição por data.
+Para buscar o texto não revogado segundo o acervo, exclua os **dispositivos** marcados `#revogado` (que não têm mais texto) e eventuais **trechos** tachados remanescentes, preservando a redação atual. Não exclua o artigo inteiro por uma tag agregada nem uma linha inteira que também contenha texto atual. Norma com `situacao: revogada` só entra no modo histórico. Essa filtragem não certifica vigência externa nem resolve transição por data.
 
 ## Validação
 ```
