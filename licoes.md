@@ -35,6 +35,11 @@ Formato: uma lição por item, com data, contexto e o que fazer.
 - 2026-10-06, reconhecimento de artigo: "Art. 4º - A Política ..." foi lido como "Art. 4º-A". Fazer: só aceitar letra de artigo/parágrafo colada ao hífen ("9o-A", "17-A", "§ 1o-A"), sem espaço antes do hífen.
 - 2026-10-06, `pdftotext` e Python: o arquivo traz quebras de página `\f`, que o `str.splitlines()` conta como quebra de linha; os números de linha deixam de bater com `sed`/`awk`. Fazer: fatiar por `awk 'NR>=a && NR<=b'` ou usar `split("\n")`.
 
+- 2026-10-06, CONAMA 307/2002 (texto compilado do portal, Word 2013): o tachado foi detectado com PyMuPDF (segmentos horizontais de `page.get_drawings()` cruzando o meio das letras) e descartado com segurança. Mas a anotação "(Redação dada ...)" pode aparecer sem tachado ao lado de redação tachada: conferir cada anotação contra o quadro "Correlações".
+- 2026-10-06, IN Ibama 13/2012 (lista de resíduos, LibreOffice): o `pdftotext` sem `-layout` perdeu os travessões entre código e descrição e partiu palavras com hífen de fim de linha ("impor tação"). Fazer: extrair com `-layout`, juntar as partições e conferir a contagem de itens contra o PDF.
+- 2026-10-06, CONAMA 382/2006 (texto redigitado do portal, Word 365): `find_tables()` não achou as tabelas (sem linhas de grade na camada vetorial); foram lidas nas imagens das páginas. Também saem sem acento trechos inteiros ("Concentracao") e "§ 2o" não é reconhecido pelo `parse.py`. Fazer: normalizar "§ No" → "§ Nº" e "f )" → "f)" antes de numerar, e conferir as palavras do resultado contra o PDF (contagem por palavra ou `difflib`).
+- 2026-10-06, impressões do DOU (Skia/PDF, INs Ibama 13/2021 e 23/2025, Portaria IAP 159/2015): `find_tables()` extraiu bem as tabelas; o "+" sobrescrito de "DOF⁺" só aparece em `get_text('rawdict')` (fonte/posição).
+
 ## Anexos
 
 - 2026-09-27, CONAMA 357/2005 e 430/2011: as tabelas de padrões ficam no corpo dos artigos, não em anexos, e o README só previa IDs `anexoN_tabT_linM`. Fazer: usar `artN_tabT_linM` (T = número da tabela no original), com as mesmas regras do tipo 3. Proposta incluída no README.
@@ -53,6 +58,9 @@ Formato: uma lição por item, com data, contexto e o que fazer.
 - 2026-10-06, Lei 6.938/1981: anexo sem número ("ANEXO", tabela de preços do Ibama) ao lado dos Anexos VIII e IX. Usado o ID `anexo-precos` (`anexo-precos_tab1_linN`). Tabela hierárquica (seção > item > subitem, títulos sem valor): cada linha leva o campo "Contexto" com os títulos de que depende, para ficar autossuficiente; sub-tabelas repetidas por porte viram campos nomeados. Proposta: incluir a convenção no README.
 - 2026-10-06, Res. CONAMA 411/2009: a numeração das linhas do Anexo I foi passada aos subagentes antes de a norma-mãe existir (`anexo1_lin37` presumido; o item 4.2 ficou em `anexo1_lin49`). Fazer (reforça a lição de 2026-09-27): gerar a norma-mãe, inclusive anexos tipo 3, **antes** de lançar os subagentes, e passar a lista real de IDs.
 - 2026-10-06, Res. CONAMA 411/2009: o PDF do portal do CONAMA traz o quadro "Correlação" ("alterada pela 474/2016"), mas o texto é o original. O subagente do Anexo V achou (em cópia não oficial) que a 474/2016 revogou o § 3º do art. 6º e os Anexos V e VI. Fazer: ler o quadro de correlação antes de tudo, pesquisar a norma alteradora e avisar Leo no início, pedindo o PDF dela; sem ela na base, não tachar, só avisar no dispositivo e preencher `alterado_por`.
+
+- 2026-10-06, IN Ibama 23/2025: a norma alteradora "substitui" anexos inteiros da IN 13/2021 (Anexos I e II), mas o Anexo III alterado não veio no PDF. Fazer: comparar a tabela nova com a antiga linha a linha (código como chave) e aplicar só as diferenças no texto compilado (excluídas = `#revogado`, novas = sufixo `-a`, `-b`...); na norma alteradora, listar só as diferenças, com link para a linha compilada, e levar ao usuário a escolha entre repetir a tabela inteira ou não. Anexo ausente do PDF: não inventar; registrar como pendência.
+- 2026-10-06, subagente de anexo tipo 2 (Portaria IAP 159/2015): o subagente bateu no limite da sessão depois de escrever a síntese, e as linhas que ele tinha preparado para o `glossario.md` se perderam. Fazer: pedir ao subagente que grave o glossário primeiro (ou num arquivo à parte) e conferir o resultado no disco, não na resposta.
 
 ## Alterações e revogações
 

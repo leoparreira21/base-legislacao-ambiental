@@ -15,7 +15,7 @@ situacao: vigente
 texto: "compilado (atualizado até a Lei nº 15.512/2026, conforme as anotações do Planalto); sem as redações anteriores"
 nomes_alternativos: ["Política Nacional do Meio Ambiente", "PNMA", "Lei da PNMA"]
 regulamenta: ["[[constituicao-federal-1988]]"]
-regulamentado_por: ["[[decreto-federal-99274-1990]]"]
+regulamentado_por: ["[[decreto-federal-99274-1990]]", "[[instrucao-normativa-ibama-13-2021]]"]
 altera: []
 alterado_por: ["[[lei-federal-7804-1989]]", "[[lei-federal-8028-1990]]", "[[lei-federal-9960-2000]]", "[[lei-federal-9966-2000]]", "[[lei-federal-10165-2000]]", "[[lei-federal-9985-2000]]", "[[lei-federal-11284-2006]]", "[[lei-federal-11941-2009]]", "[[lei-complementar-federal-140-2011]]", "[[lei-federal-12651-2012]]", "[[lei-federal-12856-2013]]", "[[lei-federal-14932-2024]]", "[[lei-federal-14876-2024]]", "[[lei-federal-15190-2025]]", "[[lei-federal-15512-2026]]"]
 revoga: []
