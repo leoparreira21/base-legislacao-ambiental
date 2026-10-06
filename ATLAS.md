@@ -4,18 +4,18 @@
 
 ## Summary
 
-A Markdown corpus of Paraná (PR) state environmental-licensing law, one norma per file. Each provision carries a LexML-style ID, cross-norma wiki links and thematic tags. The base is built for RAG retrieval by AI agents and for reading in Obsidian. A small Python script validates the corpus before every commit.
+A Markdown corpus of Paraná (PR) state environmental-licensing law, one norma per file. Each provision carries a LexML-style ID, cross-norma wiki links and thematic tags. The base is built for RAG retrieval by AI agents and for reading in Obsidian. Python scripts validate the corpus and test local retrieval before commits. The current sectoral scope also includes health services, truck/container yards and pesticide storage; see `consultas/cobertura.md`.
 
 ## Domain & Purpose
 
-The repo owns the transcription and curation of environmental-licensing normas: the general state framework (Lei 22.252/2024, Decreto 9.541/2025 and its amendment Decreto 12.799/2026) and the industrial-licensing rules of IN IAT 65/2025 with its annexes. Amended normas are kept as compiled text, never deleted. Out of scope: legal interpretation beyond the converter's clearly separated "Síntese" sections, federal/municipal normas not yet added (their links stay pending), and any runtime application.
+The repo owns the transcription and curation of environmental-licensing normas: the general state framework (Lei 22.252/2024, Decreto 9.541/2025 and its amendment Decreto 12.799/2026) and the industrial-licensing rules of IN IAT 65/2025 with its annexes. Amended normas are kept as compiled text, never deleted. Out of scope: legal interpretation beyond the converter's clearly separated "Síntese" sections, federal/municipal normas not yet added (their links stay pending), and any deployed runtime application. A local lexical consultation CLI and a curated audit suite are available; see `consultas/cobertura.md`.
 
 ## Tech Stack
 
 - Language(s): Markdown (Obsidian-flavoured wiki links, YAML frontmatter); Python 3 (stdlib only) for validation
 - Framework(s): none
 - Datastores: flat files under `normas/` and `normas/anexos/`
-- Build / runtime: `python scripts/validar.py`; no CI
+- Build / runtime: `python scripts/validar.py`, `python scripts/auditar_consultas.py`, `python -m unittest discover -s testes -v`; no CI
 
 ## Owners
 
@@ -38,4 +38,4 @@ The repo owns the transcription and curation of environmental-licensing normas: 
 
 ## Last Verified
 
-58febea59faa7f4c0e10c4dd41e0ba3eac428aa1 (2026-09-27)
+Corpus: 6be0c6224a66797efff147568760f62ac915ae47 (2026-10-05). Retrieval additions documented in `docs/auditoria/2026-10-05.md`.

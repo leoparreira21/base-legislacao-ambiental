@@ -161,7 +161,7 @@ Além disso:
 - O campo `texto: compilado (atualizado até ...)` fica no frontmatter.
 - Na norma alteradora, cada nova redação aparece em citação (`>`) com ID próprio (`art1_cpt_alt1`) e link para o dispositivo alterado.
 
-Para buscar só o texto em vigor, exclua `#revogado` e as linhas tachadas.
+Para buscar o texto não revogado segundo o acervo, exclua **dispositivos** marcados `#revogado` e **trechos** tachados, preservando a redação atual. Não exclua o artigo inteiro por uma tag agregada nem uma linha inteira que também contenha texto atual. Norma com `situacao: revogada` só entra no modo histórico. Essa filtragem não certifica vigência externa nem resolve transição por data.
 
 ## Validação
 ```
@@ -169,3 +169,15 @@ python scripts/validar.py                          # erros bloqueiam o commit
 python scripts/validar.py --tags                   # atualiza tags.md
 python scripts/validar.py --afetados NOME-DA-NORMA # outras normas que apontam para dispositivos revogados ou alterados
 ```
+
+## Consulta e auditoria de recuperação
+
+- [Prompt do agente (v2)](consultas/prompt-agente.md): fonte exclusiva, matriz temática, datas, condições, ressalvas e resposta A–E.
+- [Mapa de cobertura e comandos](consultas/cobertura.md): famílias setoriais, temas transversais e limites do acervo.
+- [Auditoria de 2026-10-05](docs/auditoria/2026-10-05.md): método, evidências, lacunas e mudanças.
+- `python scripts/consultar.py 'renovacao pgrss' --limite 0`: candidatos locais com IDs, contexto, metadados, referências de entrada/saída e links por commit/linha. Não determina aplicabilidade.
+- `python scripts/consultar.py --inventario`: distingue normas, anexos, comentários e referências pendentes.
+- `python scripts/auditar_consultas.py`: executa 22 cenários curados de recuperação; retorna erro se faltar evidência esperada.
+- `python -m unittest discover -s testes -v`: testes de regressão dos filtros, contexto, unidades, links e validação.
+
+Ao alterar scripts ou o protocolo de consulta, rode os três comandos de validação/teste, além de revisar o diff. `--historico` revela redações antigas, sem calcular vigência por data; `--interpretativo` recupera notas/sínteses/comentários separados. Revogação tácita e divergências jurídicas permanecem questões para revisão, não transformações automáticas do corpus.

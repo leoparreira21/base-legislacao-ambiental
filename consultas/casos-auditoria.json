@@ -1,0 +1,345 @@
+[
+  {
+    "id": "saude-rlo",
+    "cenario": "Clínica ambulatorial com exames; RLO/SGA; água e esgoto em rede; condicionantes desconhecidas.",
+    "consulta_inicial": "atividade médica ambulatorial com recursos para realização de exames complementares",
+    "consultas": [
+      "renovacao pgrss",
+      "automonitoramento efluentes",
+      "renovacao 120",
+      "pgrss contrato",
+      "renovacao sanitaria"
+    ],
+    "esperados": [
+      "portaria-iap-26-2006#anexo-in_lin73",
+      "portaria-iap-26-2006#anexo-in_lin76",
+      "portaria-iap-26-2006#anexo-in_lin78",
+      "rdc-anvisa-222-2018#art6_cpt_inc11",
+      "decreto-estadual-9541-2025#art121_cpt"
+    ],
+    "criterio_manual": "Manter RLO; automonitoramento se exigido antes; LO e licença sanitária diferentes; Portaria com ressalvas de compatibilidade."
+  },
+  {
+    "id": "saude-liquidos",
+    "cenario": "Laboratório clínico lança resíduos líquidos em rede coletora.",
+    "consulta_inicial": "exames complementares",
+    "consultas": [
+      "reagentes laboratorios",
+      "lancamento indireto",
+      "rede coletora"
+    ],
+    "esperados": [
+      "rdc-anvisa-222-2018#art71_cpt",
+      "rdc-anvisa-222-2018#art81_cpt",
+      "resolucao-conama-430-2011#art1_par1u"
+    ],
+    "criterio_manual": "Rede não autoriza descarte irrestrito; verificar tratamento, periculosidade e diretrizes da operadora."
+  },
+  {
+    "id": "radiologia",
+    "cenario": "Clínica com radiologia convencional e fixadores/reveladores.",
+    "consulta_inicial": "clinica radiologica",
+    "consultas": [
+      "fixadores radiologia",
+      "reveladores radiologia"
+    ],
+    "esperados": [
+      "rdc-anvisa-222-2018#art66_cpt",
+      "rdc-anvisa-222-2018#art67_cpt"
+    ],
+    "criterio_manual": "Condicionar à tecnologia efetivamente usada; não presumir químicos em exame exclusivamente digital."
+  },
+  {
+    "id": "grupo-d",
+    "cenario": "Serviço de saúde declara gerar exclusivamente Grupo D.",
+    "consulta_inicial": "dispensa pgrss",
+    "consultas": [
+      "grupo d sanitaria"
+    ],
+    "esperados": [
+      "rdc-anvisa-222-2018#art5_par1"
+    ],
+    "criterio_manual": "Substituição por notificação refere-se à licença sanitária; não dispensar automaticamente plano ambiental."
+  },
+  {
+    "id": "veterinaria",
+    "cenario": "Clínica veterinária; avaliar baixo risco, 30 L/dia versus 30 L/semana.",
+    "consulta_inicial": "clinica veterinaria",
+    "consultas": [
+      "7500100",
+      "30 semana"
+    ],
+    "esperados": [
+      "instrucao-normativa-iat-11-2026#anexo1_tab1_lin850",
+      "portaria-iap-26-2006#anexo-in_tab1_lin1"
+    ],
+    "criterio_manual": "Preservar unidades, exclusão de criadouros/apoio à fauna e contextos distintos; não transferir critério à clínica humana."
+  },
+  {
+    "id": "tatuagem",
+    "cenario": "Estúdio de tatuagem com perfurocortantes.",
+    "consulta_inicial": "estudio de tatuagem",
+    "consultas": [
+      "tatuagem",
+      "perfurocortantes"
+    ],
+    "esperados": [
+      "rdc-anvisa-222-2018#art2_par1"
+    ],
+    "criterio_manual": "RDC inclui esse gerador; cobertura de RSS não equivale a rito setorial completo de licenciamento."
+  },
+  {
+    "id": "industria-rlo",
+    "cenario": "Indústria em RLO com resíduos, efluente e emissões.",
+    "consulta_inicial": "industria renovacao",
+    "consultas": [
+      "rlo condicionantes",
+      "inventarios residuos",
+      "automonitoramentos"
+    ],
+    "esperados": [
+      "instrucao-normativa-iat-65-2025#art38_cpt_inc2",
+      "instrucao-normativa-iat-65-2025#art38_cpt_inc6",
+      "instrucao-normativa-iat-65-2025#art38_cpt_inc7",
+      "instrucao-normativa-iat-65-2025#art38_cpt_inc8",
+      "instrucao-normativa-iat-65-2025#art38_cpt_inc10"
+    ],
+    "criterio_manual": "DCP/DEA condicionais, comprovação do período anterior e remissão ao Anexo XI do PGRS."
+  },
+  {
+    "id": "mandioca",
+    "cenario": "Fecularia com lançamento de águas de lavagem segregadas e/ou sem segregação.",
+    "consulta_inicial": "fecularia",
+    "consultas": [
+      "mandioca dqo",
+      "efluentes industriais padroes"
+    ],
+    "esperados": [
+      "instrucao-normativa-iat-65-2025#art63_cpt",
+      "instrucao-normativa-iat-65-2025#anexo14_tab1_lin2",
+      "instrucao-normativa-iat-65-2025#anexo14_tab1_lin8"
+    ],
+    "criterio_manual": "Distinguir DQO 350 e 250 mg/L conforme processo; outorga mais restritiva e demais parâmetros cumulativos."
+  },
+  {
+    "id": "industria-galeria",
+    "cenario": "Indústria pretende lançar efluente tratado em galeria pluvial.",
+    "consulta_inicial": "rede publica",
+    "consultas": [
+      "galeria pluviais",
+      "alteracao destinacao efluente"
+    ],
+    "esperados": [
+      "instrucao-normativa-iat-65-2025#art64_cpt",
+      "instrucao-normativa-iat-65-2025#art66_cpt"
+    ],
+    "criterio_manual": "Galeria pluvial não é rede coletora de esgoto; preservar anuência, outorga e condição de AA."
+  },
+  {
+    "id": "industria-ampliacao",
+    "cenario": "Indústria quer ampliar durante a renovação.",
+    "consulta_inicial": "renovacao industria",
+    "consultas": [
+      "ampliacoes alteracoes definitivas",
+      "somatoria porte"
+    ],
+    "esperados": [
+      "instrucao-normativa-iat-65-2025#art39_cpt",
+      "instrucao-normativa-iat-65-2025#art39_par1u",
+      "instrucao-normativa-iat-65-2025#art41_cpt"
+    ],
+    "criterio_manual": "Modalidade informada é premissa; ampliação pode ter rito próprio, conforme impacto e porte acumulado."
+  },
+  {
+    "id": "patio-rlo",
+    "cenario": "Pátio de caminhões com carga perigosa e lavagem, renovando LO.",
+    "consulta_inicial": "estacionamento caminhoes",
+    "consultas": [
+      "rlo condicionantes",
+      "impermeabilizacao 48",
+      "cargas perigosas",
+      "oficinas lavadores",
+      "galeria pluviais"
+    ],
+    "esperados": [
+      "instrucao-normativa-iat-25-2025#art27_cpt",
+      "instrucao-normativa-iat-25-2025#art48_cpt",
+      "instrucao-normativa-iat-25-2025#art49_cpt",
+      "instrucao-normativa-iat-25-2025#art51_cpt",
+      "instrucao-normativa-iat-25-2025#art53_cpt"
+    ],
+    "criterio_manual": "Não omitir impermeabilização, contenção e atividades de apoio ao listar apenas documentos."
+  },
+  {
+    "id": "agrotoxicos-rlo",
+    "cenario": "Distribuidora de agrotóxicos em renovação com estoque e resíduos.",
+    "consulta_inicial": "defensivos agricolas",
+    "consultas": [
+      "rlo condicionantes",
+      "triplice lavagem",
+      "logistica reversa",
+      "renovacao adequacoes"
+    ],
+    "esperados": [
+      "instrucao-normativa-iat-28-2025#art26_cpt",
+      "instrucao-normativa-iat-28-2025#art46_cpt",
+      "instrucao-normativa-iat-28-2025#art49_cpt",
+      "instrucao-normativa-iat-28-2025#art56_cpt"
+    ],
+    "criterio_manual": "Combinar documentos com proibições, logística reversa e adequação das instalações existentes."
+  },
+  {
+    "id": "agrotoxicos-exclusoes",
+    "cenario": "Depósito rural para uso próprio ou armazenamento de fertilizantes.",
+    "consulta_inicial": "deposito rural",
+    "consultas": [
+      "uso proprio 10",
+      "fertilizantes bioinsumos"
+    ],
+    "esperados": [
+      "instrucao-normativa-iat-28-2025#art2_par1",
+      "instrucao-normativa-iat-28-2025#art2_par2",
+      "instrucao-normativa-iat-28-2025#art2_par3"
+    ],
+    "criterio_manual": "A dispensa tem escopo próprio; limite 10 m³, NBR não transcrita e exclusão de fertilizantes devem aparecer."
+  },
+  {
+    "id": "agrotoxicos-industria",
+    "cenario": "Armazém de produto acabado dentro da fábrica de agrotóxicos.",
+    "consulta_inicial": "armazem agrotoxicos",
+    "consultas": [
+      "originados fabricacao industrial",
+      "tornando sem efeito 45"
+    ],
+    "esperados": [
+      "instrucao-normativa-iat-28-2025#art2_par4",
+      "instrucao-normativa-iat-65-2025#art87_cpt"
+    ],
+    "criterio_manual": "IN 45 ausente foi tornada sem efeito pela IN 65; não concluir ausência de rota industrial apenas pelo link pendente."
+  },
+  {
+    "id": "poco-renovacao",
+    "cenario": "Indústria com poço, licença existente e sem outorga, solicita renovação.",
+    "consulta_inicial": "poco renovacao",
+    "consultas": [
+      "outorga renovacao",
+      "regularizacao outorga"
+    ],
+    "esperados": [
+      "instrucao-normativa-iat-9-2026#art6_tab4_lin1",
+      "instrucao-normativa-iat-9-2026#art6_par2",
+      "instrucao-normativa-iat-9-2026#art7_cpt"
+    ],
+    "criterio_manual": "Distinguir sem outorga, outorga em renovação e uso independente; não aplicar integração subterrânea à rede pública."
+  },
+  {
+    "id": "poco-conflito",
+    "cenario": "Empreendimento sem licença e sem outorga com captação subterrânea.",
+    "consulta_inicial": "regularizacao poco",
+    "consultas": [
+      "outorga regularizacao"
+    ],
+    "esperados": [
+      "instrucao-normativa-iat-9-2026#art6_tab6_lin1",
+      "decreto-estadual-9541-2025#art104_cpt"
+    ],
+    "criterio_manual": "Confrontar sequência da IN 09 com Decreto art. 104; registrar tensão, sem decidir revogação tácita."
+  },
+  {
+    "id": "manancial-rlo",
+    "cenario": "Indústria existente em bacia de manancial, RLO e lançamento em rio.",
+    "consulta_inicial": "renovacao industria",
+    "consultas": [
+      "manancial renovacao",
+      "planos adequacao",
+      "protocolados mananciais"
+    ],
+    "esperados": [
+      "instrucao-normativa-iat-29-2026#art15_cpt",
+      "instrucao-normativa-iat-29-2026#art16_cpt",
+      "instrucao-normativa-iat-29-2026#art18_cpt"
+    ],
+    "criterio_manual": "Diferenciar instalação nova/existente e protocolo; não calcular prazo sem data de publicação comprovada."
+  },
+  {
+    "id": "manancial-infiltracao",
+    "cenario": "Novo empreendimento em ADA, esgoto doméstico tratado e solo; geologia desconhecida.",
+    "consulta_inicial": "sumidouro",
+    "consultas": [
+      "infiltracao",
+      "rede publica ada",
+      "disposicao efluentes solo"
+    ],
+    "esperados": [
+      "instrucao-normativa-iat-29-2026#art7_cpt_inc2",
+      "instrucao-normativa-iat-29-2026#art7_par2",
+      "instrucao-normativa-iat-29-2026#art7_cpt_inc1_alia",
+      "resolucao-conama-430-2011#art2_cpt"
+    ],
+    "criterio_manual": "Infiltração doméstica tratada, vedação Karst e ponto final da rede são verificações distintas; não presumir localização."
+  },
+  {
+    "id": "loteamento-manancial",
+    "cenario": "Novo loteamento em manancial com avaliação de suporte territorial.",
+    "consulta_inicial": "loteamento",
+    "consultas": [
+      "capacidade suporte territorio",
+      "populacao limite"
+    ],
+    "esperados": [
+      "instrucao-normativa-iat-29-2026#art12_cpt",
+      "instrucao-normativa-iat-29-2026#art13_cpt",
+      "instrucao-normativa-iat-29-2026#art13_par1u"
+    ],
+    "criterio_manual": "Cobertura locacional parcial; fórmula usa Qrio em L/s e curva de 95%; não usar o mapa exemplificativo para localizar imóvel."
+  },
+  {
+    "id": "transicao-prazos",
+    "cenario": "LO com protocolo anterior ao regime novo ou renovação perto do vencimento.",
+    "consulta_inicial": "renovacao licenca",
+    "consultas": [
+      "renovacao 120",
+      "prazo validade regularizar",
+      "epoca protocolo"
+    ],
+    "esperados": [
+      "decreto-estadual-9541-2025#art121_par4",
+      "decreto-estadual-9541-2025#art124_cpt",
+      "decreto-estadual-9541-2025#art173_cpt",
+      "decreto-estadual-9541-2025#art173_par1"
+    ],
+    "criterio_manual": "Distinguir prazo de 120 dias, vencimento, processo antigo e norma aplicável; não converter tudo em regularização."
+  },
+  {
+    "id": "residuos-transversal",
+    "cenario": "Gerador terceiriza destinação e precisa verificar PGRS e responsabilidade.",
+    "consulta_inicial": "destinacao terceirizada",
+    "consultas": [
+      "plano gerenciamento residuos",
+      "contratacao servicos",
+      "pers pr contempla"
+    ],
+    "esperados": [
+      "lei-federal-12305-2010#art20_cpt",
+      "lei-federal-12305-2010#art21_cpt",
+      "lei-federal-12305-2010#art24_cpt",
+      "lei-federal-12305-2010#art27_par1",
+      "lei-estadual-20607-2021#art4_cpt"
+    ],
+    "criterio_manual": "Terceirização não afasta responsabilidade; PERS é contexto, não lista documental automática; ausência da Portaria 212 limita detalhamento."
+  },
+  {
+    "id": "qualidade-receptor",
+    "cenario": "ETE com lançamento direto em rio doce sem enquadramento aprovado.",
+    "consulta_inicial": "tratamento esgoto",
+    "consultas": [
+      "esgotos sanitarios lancamento",
+      "enquadramentos aprovados"
+    ],
+    "esperados": [
+      "resolucao-conama-430-2011#art21_cpt",
+      "resolucao-conama-357-2005#art42_cpt"
+    ],
+    "criterio_manual": "Separar padrão de emissão e qualidade do receptor; não usar artigos revogados da CONAMA 357 como limites atuais."
+  }
+]

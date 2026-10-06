@@ -34,8 +34,12 @@ def carregar():
     normas = {}
     for f in sorted(glob.glob(os.path.join(PASTA, "*.md")) + glob.glob(os.path.join(PASTA, "anexos", "*.md"))
                     + glob.glob(os.path.join(PASTA, "comentarios", "*.md"))):
-        t = open(f, encoding="utf-8").read()
+        with open(f, encoding="utf-8") as entrada:
+            t = entrada.read()
         if not t.startswith("---\n"):
+            normas[os.path.basename(f)[:-3]] = {"fm": {}, "corpo": t, "erro_fm": True}
+            continue
+        if "\n---\n" not in t[4:]:
             normas[os.path.basename(f)[:-3]] = {"fm": {}, "corpo": t, "erro_fm": True}
             continue
         fm_txt, corpo = t[4:].split("\n---\n", 1)
@@ -97,13 +101,17 @@ def validar(normas):
         for alvo, ancora in re.findall(r"\[\[([a-z0-9-]+)#([\w-]+)", corpo):
             if alvo in normas and ancora not in ids[alvo]:
                 erros.append(f"{n}: link [[{alvo}#{ancora}]] aponta para ID inexistente")
-        pend = sorted(set(a for a in re.findall(r"\[\[([a-z0-9-]+)", fm.get("cita", "") + fm.get("regulamenta", "") + fm.get("revoga", "") + corpo) if a not in normas))
+        # Incluir também alterado_por, regulamentado_por, anexos e comentários.
+        pend = sorted(set(a for a in re.findall(r"\[\[([a-z0-9-]+)", "\n".join(fm.values()) + corpo) if a not in normas))
         if pend:
             avisos.append(f"{n}: {len(pend)} norma(s) citada(s) fora da base: {', '.join(pend)}")
         for campo, reciproco in [("altera", "alterado_por"), ("revoga", "revogado_por"), ("regulamenta", "regulamentado_por")]:
             for alvo in lista(fm.get(campo)):
                 if alvo in normas and n not in lista(normas[alvo]["fm"].get(reciproco)):
                     erros.append(f"{n} '{campo}' {alvo}, mas {alvo} não tem {n} em '{reciproco}'")
+            for alvo in lista(fm.get(reciproco)):
+                if alvo in normas and n not in lista(normas[alvo]["fm"].get(campo)):
+                    erros.append(f"{n} '{reciproco}' {alvo}, mas {alvo} não tem {n} em '{campo}'")
         if fm.get("situacao") == "revogada" and not lista(fm.get("revogado_por")):
             avisos.append(f"{n}: situacao 'revogada' sem 'revogado_por'")
     return erros, avisos
@@ -152,5 +160,8 @@ if __name__ == "__main__":
         print("AVISO:", a)
     for e in erros:
         print("ERRO: ", e)
-    print(f"\n{len(normas)} normas, {len(erros)} erro(s), {len(avisos)} aviso(s)")
+    n_anexos = sum("tipo_anexo" in d["fm"] for d in normas.values())
+    n_coment = sum(d["fm"].get("tipo_documento") == "comentario" for d in normas.values())
+    print(f"\n{len(normas)} documentos ({len(normas)-n_anexos-n_coment} normas, "
+          f"{n_anexos} anexos, {n_coment} comentários), {len(erros)} erro(s), {len(avisos)} aviso(s)")
     sys.exit(1 if erros else 0)
