@@ -41,6 +41,7 @@ Formato: uma lição por item, com data, contexto e o que fazer.
 - 2026-10-06, impressões do DOU (Skia/PDF, INs Ibama 13/2021 e 23/2025, Portaria IAP 159/2015): `find_tables()` extraiu bem as tabelas; o "+" sobrescrito de "DOF⁺" só aparece em `get_text('rawdict')` (fonte/posição).
 - 2026-10-06, Res. SEDEST 02/2025 (PDF do Word, 135 págs.): `get_text('blocks')` do PyMuPDF devolve um bloco por parágrafo e `find_tables()` acerta as tabelas de limites; o texto das células sai com subscritos deslocados ("O ) 2") e palavras partidas ("MPtot al"). Fazer: reconstruir cada célula caractere a caractere (`rawdict`), agrupando por linha de base com tolerância maior para caracteres pequenos, e juntar pedaços pela lista de palavras dos parágrafos (não do texto inteiro, que tem as mesmas quebras). O PDF "só dos anexos" enviado junto era cópia das págs. 76–135: comparar as páginas antes de converter dois arquivos.
 - 2026-10-06, Res. SEDEST 02/2025: equações do editor do Word (Anexos I e XIV) saem como caracteres matemáticos soltos e fora de ordem. Fazer: transcrever pela imagem, com `<sub>`/`<sup>`, e registrar nas notas.
+- 2026-10-10, IN IAT 26/2026 (eProtocolo, Word → OpenPDF): desta vez o `pdftotext` sem `-layout` saiu limpo (sem palavras coladas, ao contrário da IN 28/2025); só os parágrafos justificados com espaçamento largo saíram uma palavra por linha. Fazer: conferir primeiro o `pdftotext`; só reconstruir com PyMuPDF se a contagem de palavras ou o `difflib` mostrarem colagens.
 
 ## Anexos
 
@@ -70,6 +71,7 @@ Formato: uma lição por item, com data, contexto e o que fazer.
 
 - 2026-10-06, IN Ibama 23/2025: a norma alteradora "substitui" anexos inteiros da IN 13/2021 (Anexos I e II), mas o Anexo III alterado não veio no PDF. Fazer: comparar a tabela nova com a antiga linha a linha (código como chave) e aplicar só as diferenças no texto compilado (excluídas = `#revogado`, novas = sufixo `-a`, `-b`...); na norma alteradora, listar só as diferenças, com link para a linha compilada, e levar ao usuário a escolha entre repetir a tabela inteira ou não. Anexo ausente do PDF: não inventar; registrar como pendência.
 - 2026-10-06, subagente de anexo tipo 2 (Portaria IAP 159/2015): o subagente bateu no limite da sessão depois de escrever a síntese, e as linhas que ele tinha preparado para o `glossario.md` se perderam. Fazer: pedir ao subagente que grave o glossário primeiro (ou num arquivo à parte) e conferir o resultado no disco, não na resposta.
+- 2026-10-10, IN IAT 06/2026, art. 10, VIII e IX: o texto remete ao "ANEXO IV" (embargo; o modelo é o Anexo III) e ao "ANEXO V" (veracidade; não existe, a IN tem quatro anexos). Usado: texto da remissão mantido, link para o anexo correspondente ao conteúdo (`#anexo3`, `#anexo4`), exceção registrada nas Notas e levada a Leo. Proposta: definir no README se remissão errada a anexo segue a letra ou o conteúdo.
 
 ## Alterações e revogações
 
@@ -81,6 +83,7 @@ Formato: uma lição por item, com data, contexto e o que fazer.
 - 2026-09-27, IN IAT 28/2025, art. 2º, § 4º: a IN remete à IN IAT 45/2025, que a IN IAT 65/2025 (já na base) tornou sem efeito depois. Fazer: para cada norma citada, procurar na base se alguma a revoga ou torna sem efeito (`grep -rn "<nome-da-norma>" normas/ | grep revoga`) e registrar em "Relação com normas superiores".
 
 - 2026-10-06, artigo vetado duplicado (Lei 6.938/1981: "Art 19 -(VETADO)." seguido do art. 19 incluído pela Lei 7.804/1989): usado `art19-vetado` para o vetado e `art19` para o vigente.
+- 2026-10-10, IN IAT 26/2026, art. 9º: incisos impressos I, II, III, VI, V, VI (o quarto saiu "VI"). Usado: ID pela posição (`art9_cpt_inc4`) e rótulo "inciso IV (numerado "VI" no original)", com nota. Proposta: incluir no README a regra para inciso com numeração errada ou repetida (diferente do vetado duplicado, `art19-vetado`).
 
 ## Validação
 
