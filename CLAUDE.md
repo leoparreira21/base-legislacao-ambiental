@@ -8,6 +8,7 @@ Regras principais:
 - Anexos: siga a seção "Anexos" do README (tipo 1: modelo, só o nome; tipo 2: diretriz de estudo, arquivo próprio em normas/anexos/ com síntese separada e fontes; tipo 3: normativo, lista com IDs anexoN_linM ou anexoN_tabT_linM). Consulte glossario.md antes de pesquisar termos na web.
 - Rode `python scripts/validar.py` e só faça commit com 0 erros.
 - Mostre as mudanças ao usuário antes do commit e sinalize revogação tácita, remissões erradas e vigência diferida.
+- Norma setorial nova (rege uma atividade específica): acrescente o âmbito dela em `consultas/ambitos.json`, senão o site de busca a trata como transversal.
 - Mensagem de commit: `norma: <arquivo> (nova | altera <arquivo> | revoga <arquivo>)`.
 
 ## Comportamento Adaptativo
