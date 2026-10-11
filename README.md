@@ -183,3 +183,14 @@ python scripts/validar.py --afetados NOME-DA-NORMA # outras normas que apontam p
 - `python -m unittest discover -s testes -v`: testes de regressão dos filtros, contexto, unidades, links e validação.
 
 Ao alterar scripts ou o protocolo de consulta, rode os três comandos de validação/teste, além de revisar o diff. `--historico` revela redações antigas, sem calcular vigência por data; `--interpretativo` recupera notas/sínteses/comentários separados. Revogação tácita e divergências jurídicas permanecem questões para revisão, não transformações automáticas do corpus.
+
+## Site de busca
+
+Página estática publicada pelo GitHub Pages a cada push na `main` (`.github/workflows/site.yml`); antes de publicar, o workflow roda `scripts/validar.py`, e erro na base mantém o site anterior no ar. Busca por relevância, sem IA e sem serviço externo.
+
+- `site/index.html`: a página. `site/cnae.json`: estrutura CNAE 2.3 (1.332 subclasses), baixada da API oficial do IBGE (`servicodados.ibge.gov.br/api/v2/cnae/subclasses`); atualizar só quando o IBGE publicar nova versão.
+- `consultas/ambitos.json`: âmbito das normas setoriais. Norma listada só aparece se a atividade ou a busca citar uma das expressões; as demais entram quando a ementa cita um termo da busca. **Ao incluir uma norma setorial na base, acrescente o âmbito dela aqui** (expressões sem acento; anexos herdam da norma-mãe).
+- `consultas/sinonimos.json`: expansão de termos da busca.
+- `python scripts/gerar_site.py`: gera o site em `_site/` para conferir localmente (`python -m http.server -d _site`).
+
+Critério de admissão (fixo, não afrouxa quando há poucos resultados): (1) norma setorial só pelo âmbito; (2) norma transversal pela ementa; (3) qualquer norma cuja lista de enquadramento cite o código CNAE escolhido na triagem, o termo de enquadramento da CNAE (núcleo da atividade ou nome da divisão) ou todos os termos buscados. Resultado vazio indica lacuna da base ou da legislação.

@@ -1,0 +1,85 @@
+{
+ "_leia": "Âmbito das normas setoriais para a busca do site. Uma norma listada aqui só aparece se a atividade ou a busca citar uma destas expressões (sem acento). Normas fora desta lista são tratadas como transversais: entram quando a ementa cita um termo da busca. Anexos herdam o âmbito da norma-mãe. Ao incluir uma norma setorial na base, acrescente-a aqui.",
+ "ambitos": {
+  "instrucao-normativa-iat-25-2025": [
+   "patio caminhao",
+   "patio container",
+   "patio conteiner",
+   "estacionamento caminhao"
+  ],
+  "instrucao-normativa-iat-28-2025": [
+   "agrotoxico",
+   "embalagem agrotoxico",
+   "tratamento semente"
+  ],
+  "instrucao-normativa-iat-30-2025": [
+   "transbordo"
+  ],
+  "instrucao-normativa-iat-31-2025": [
+   "triagem",
+   "reciclavel",
+   "reutilizavel"
+  ],
+  "instrucao-normativa-iat-33-2025": [
+   "aterro sanitario"
+  ],
+  "instrucao-normativa-iat-6-2026": [
+   "pavimentacao"
+  ],
+  "instrucao-normativa-iat-65-2025": [
+   "industria",
+   "industrial"
+  ],
+  "instrucao-normativa-iat-26-2026": [
+   "agricola",
+   "agropecuaria",
+   "agricultura"
+  ],
+  "portaria-iap-26-2006": [
+   "servico saude",
+   "estabelecimento saude"
+  ],
+  "rdc-anvisa-222-2018": [
+   "residuo servico saude",
+   "rss",
+   "pgrss"
+  ],
+  "rdc-anvisa-306-2004": [
+   "residuo servico saude",
+   "rss",
+   "pgrss"
+  ],
+  "resolucao-conama-411-2009": [
+   "produto florestal",
+   "madeira",
+   "madeireira",
+   "serraria"
+  ],
+  "portaria-iat-354-2020": [
+   "agricultor familiar",
+   "produto florestal"
+  ],
+  "instrucao-normativa-iat-9-2026": [
+   "poco",
+   "agua subterranea",
+   "captacao subterranea",
+   "outorga"
+  ],
+  "instrucao-normativa-iat-29-2026": [
+   "manancial",
+   "abastecimento publico",
+   "karst",
+   "carste"
+  ],
+  "portaria-iap-159-2015": [
+   "risco",
+   "pgr",
+   "produto perigoso",
+   "substancia perigosa"
+  ],
+  "instrucao-normativa-iat-11-2026": [
+   "baixo risco",
+   "dispensa"
+  ]
+ }
+}
