@@ -63,13 +63,17 @@ mark{background:var(--mark);color:inherit;border-radius:2px;padding:0 1px}
 .empty{background:var(--surface);border:1px dashed var(--line);border-radius:8px;padding:14px 16px;color:var(--muted);font-size:.9rem}
 .aviso{font-size:.8rem;color:var(--muted);border-left:3px solid var(--line);padding-left:10px;margin:0}
 footer{font-size:.75rem;color:var(--muted)}
-.cnae{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;display:flex;flex-direction:column;gap:8px}
-.cnae h4{margin:0;font-size:.8rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);font-weight:600}
-.cnae .op{display:flex;gap:8px;align-items:flex-start;font-size:.88rem;color:var(--fg);font-weight:400;letter-spacing:0;flex-direction:row}
-.cnae .op input{margin-top:4px}
-.cnae .op small{display:block;color:var(--muted);font-size:.76rem}
-.cnae details{margin-left:24px}
-.cnae details p{font-size:.78rem;color:var(--muted);margin:4px 0;white-space:pre-line}
+.cnae{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 14px;display:flex;flex-direction:column;gap:6px}
+.cnae h4{margin:0;font-size:.74rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.cnae .it{display:flex;flex-direction:column;gap:1px;min-width:0}
+.cnae .op{display:flex;gap:8px;align-items:baseline;font-size:.88rem;line-height:1.35;color:var(--fg);font-weight:400;letter-spacing:0;flex-direction:row}
+.cnae .op input{flex:none;margin:0;transform:translateY(2px)}
+.cnae .op .mono{flex:none}
+.cnae details{margin-left:22px;font-size:.78rem;color:var(--muted)}
+.cnae details summary{font-size:.78rem;line-height:1.6}
+.cnae dl{display:grid;grid-template-columns:max-content minmax(0,1fr);gap:2px 10px;margin:4px 0 6px}
+.cnae dt{font-weight:600}
+.cnae dd{margin:0;white-space:pre-line;overflow-wrap:anywhere}
 details summary{cursor:pointer;font-size:.85rem;color:var(--muted)}
 .syn{font-family:var(--f-mono);font-size:.76rem;white-space:pre-wrap;color:var(--muted);max-height:220px;overflow:auto;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:8px}
 @media (prefers-reduced-motion:no-preference){.norma{animation:in .18s ease-out}@keyframes in{from{transform:translateY(3px)}to{transform:none}}}
@@ -500,16 +504,27 @@ function prepararTriagem(suf,texto){
   SEL[suf]=new Set(cs.filter(c=>c.auto).map(c=>c.c.id));
   pintarTriagem(suf);
 }
+const cap=t=>t?t.charAt(0)+t.slice(1).toLowerCase():'';
+// "Esta classe compreende - a - b" → "a\nb"
+const itens=t=>t.replace(/^Esta classe (NÃO )?compreende\s*-?\s*/i,'').replace(/\s*Esta classe (NÃO )?compreende ainda\s*-?\s*/gi,' - ').split(/\s+-\s+/).filter(Boolean).map(x=>'– '+x).join('\n');
 function pintarTriagem(suf){
   const el=document.getElementById('cn'+suf), cs=CANDS[suf];
-  if(!cs.length){el.hidden=false;el.innerHTML=`<h4>Triagem CNAE</h4><p class="hint">${CNAE?'Nenhuma subclasse da CNAE descreve esta atividade com esses termos. A busca segue só com os termos digitados.':'Carregando a tabela CNAE do IBGE…'}</p>`;return;}
   el.hidden=false;
-  el.innerHTML=`<h4>Triagem CNAE · marque a(s) que descrevem a atividade</h4>`+cs.map(({c,via},i)=>`
-    <label class="op" for="cn${suf}${i}"><input type="checkbox" id="cn${suf}${i}" data-cn="${c.id}" data-suf="${suf}" ${SEL[suf].has(c.id)?'checked':''}>
-      <span><span class="mono">${fmtCnae(c.id)}</span> ${esc(c.sub.charAt(0)+c.sub.slice(1).toLowerCase())}
-      <small>Divisão ${c.did} · ${esc(c.div.toLowerCase())} · seção ${c.sid} · ${esc(via)}</small></span></label>
-    ${c.comp||c.nao?`<details><summary>O que a classe compreende e não compreende</summary>${c.comp?`<p>${esc(c.comp)}</p>`:''}${c.nao?`<p>${esc(c.nao)}</p>`:''}</details>`:''}`).join('')+
-    `<p class="hint">Fonte: estrutura CNAE 2.3 do IBGE. A subclasse marcada acrescenta o código e os termos de enquadramento (classe, grupo, divisão e seção) à busca.</p>`;
+  if(!cs.length){el.innerHTML=`<h4>Triagem CNAE</h4><p class="hint">${CNAE?'Nenhuma subclasse da CNAE descreve esta atividade com esses termos. A busca segue só com os termos digitados.':'Carregando a tabela CNAE do IBGE…'}</p>`;return;}
+  el.innerHTML=`<h4>Triagem CNAE (IBGE) · marque as que descrevem a atividade</h4>`+cs.map(({c,via},i)=>`
+    <div class="it">
+      <label class="op" for="cn${suf}${i}"><input type="checkbox" id="cn${suf}${i}" data-cn="${c.id}" data-suf="${suf}" ${SEL[suf].has(c.id)?'checked':''}>
+        <span class="mono">${fmtCnae(c.id)}</span><span>${esc(cap(c.sub))}</span></label>
+      <details><summary>Detalhes do CNAE</summary><dl>
+        <dt>Seção</dt><dd>${c.sid} · ${esc(cap(c.sec))}</dd>
+        <dt>Divisão</dt><dd>${c.did} · ${esc(cap(c.div))}</dd>
+        <dt>Grupo</dt><dd>${esc(cap(c.gru))}</dd>
+        <dt>Classe</dt><dd>${esc(cap(c.cla))}</dd>
+        <dt>Encontrado por</dt><dd>${esc(via)}</dd>
+        ${c.comp?`<dt>Compreende</dt><dd>${esc(itens(c.comp))}</dd>`:''}
+        ${c.nao?`<dt>Não compreende</dt><dd>${esc(itens(c.nao))}</dd>`:''}
+      </dl></details>
+    </div>`).join('');
 }
 document.addEventListener('change',e=>{
   const t=e.target; if(!t.dataset||!t.dataset.cn) return;
