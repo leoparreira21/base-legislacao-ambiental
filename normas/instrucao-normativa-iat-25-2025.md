@@ -825,7 +825,7 @@ Tags: #residuo-solido #rejeito #acondicionamento #destinacao-final
 ###### Art. 55 {#art55}
 Tags: #inventario-residuos #residuo-solido
 
-**Art. 55, caput** {#art55_cpt} #inventario-residuos Os empreendimentos geradores de resíduos sólidos deverão manter anualmente preenchido o Inventário de Resíduos Sólidos através da plataforma informatizada do IAT para todos os resíduos destinados durante o período, conforme [[decreto-estadual-6674-2002#art17|Art. 17 do Decreto Estadual nº 6674/2002]] e [[portaria-iap-212-2019#art21|Art. 21 da Portaria IAP nº 212/19]].
+**Art. 55, caput** {#art55_cpt} #inventario-residuos Os empreendimentos geradores de resíduos sólidos deverão manter anualmente preenchido o Inventário de Resíduos Sólidos através da plataforma informatizada do IAT para todos os resíduos destinados durante o período, conforme [[decreto-estadual-6674-2002#anexo1_art17|Art. 17 do Decreto Estadual nº 6674/2002]] e [[portaria-iap-212-2019#art21|Art. 21 da Portaria IAP nº 212/19]].
 
 ###### Art. 56 {#art56}
 Tags: #mtr #sinir #residuo-solido
