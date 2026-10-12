@@ -126,6 +126,7 @@
    "pivo central",
    "fertirrigacao",
    "ptsi"
+  ],
   "instrucao-normativa-iat-38-2025": [
    "lodo",
    "lodo de esgoto",
@@ -133,6 +134,18 @@
    "ugl",
    "unidade de gerenciamento de lodo",
    "uso agricola de lodo"
+  ],
+  "instrucao-normativa-iat-23-2026": [
+   "bovinocultura",
+   "bovino",
+   "criacao de gado",
+   "gado leiteiro",
+   "gado de corte",
+   "recria de novilha",
+   "confinamento bovino",
+   "compost barn",
+   "free stall",
+   "tie stall"
   ]
  }
 }
