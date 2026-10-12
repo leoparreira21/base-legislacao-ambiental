@@ -146,6 +146,14 @@
    "compost barn",
    "free stall",
    "tie stall"
+  ],
+  "instrucao-normativa-iat-37-2025": [
+   "saneamento",
+   "sistema de esgotamento sanitario",
+   "estacao de tratamento de esgoto",
+   "sistema de abastecimento de agua",
+   "estacao de tratamento de agua",
+   "rede coletora de esgoto"
   ]
  }
 }
