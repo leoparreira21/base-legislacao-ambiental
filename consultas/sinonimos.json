@@ -248,6 +248,15 @@
   "aterro": [
    "disposicao final",
    "destinacao final"
+  ],
+  "gado leiteiro": [
+   "bovinocultura leite"
+  ],
+  "gado de corte": [
+   "bovinocultura corte"
+  ],
+  "criacao de gado": [
+   "bovinocultura"
   ]
  }
 }
