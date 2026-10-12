@@ -45,7 +45,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#aproveitamento-hidreletrico` | 1 |
 | `#aquicultura` | 5 |
 | `#area-construida` | 4 |
-| `#area-contaminada` | 12 |
+| `#area-contaminada` | 13 |
 | `#area-contigua` | 3 |
 | `#area-cultivada` | 1 |
 | `#area-degradada` | 6 |
@@ -507,7 +507,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#porte` | 23 |
 | `#porte-excepcional` | 4 |
 | `#porto` | 1 |
-| `#posto-combustivel` | 2 |
+| `#posto-combustivel` | 3 |
 | `#potabilidade` | 1 |
 | `#potencial-poluidor` | 11 |
 | `#pousio` | 2 |
