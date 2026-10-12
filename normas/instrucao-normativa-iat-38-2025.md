@@ -2258,7 +2258,7 @@ CRITÉRIOS PARA UTILIZAÇÃO AGRÍCOLA DE LODO DE ESGOTO HIGIENIZADO
 
 #### Seção VI — Do Cálculo Do Nitrogênio Disponível No Lodo De Esgoto Ou Produto Derivado {#anexo9_sec6}
 
-- **Anexo IX, disposição 82** {#anexo9_lin82} #lodo-esgoto Para o cálculo do nitrogênio disponível (Ndisp) no lodo de esgoto ou produto derivado, deverão ser utilizadas as seguintes frações de mineralização (FM): 
+- **Anexo IX, disposição 82** {#anexo9_lin82} #lodo-esgoto Para o cálculo do nitrogênio disponível (Ndisp) no lodo de esgoto ou produto derivado, deverão ser utilizadas as seguintes frações de mineralização (FM):
 
 **Tabela 4 — Frações de mineralização (sem título no original).**
 
@@ -2505,4 +2505,3 @@ Observação do conversor (não é texto normativo): a Resolução CONAMA nº 49
 - O PDF repete a identificação ANEXO X: classificação do risco ambiental nas páginas 108–110 e TR do RAP nas páginas 111–117. Mantiveram-se os títulos e a numeração publicada; o TR recebeu arquivo e âncora próprios para distinguir as partes.
 - Classificação: 30 linhas de dados na Tabela 1; 30 na Tabela 2; 5 classes na Tabela 7 (numeração 7 preservada, embora precedida da Tabela 2). Células mescladas repetidas em cada linha; “—” representa célula vazia na Tabela 2. Na linha pH, grau 4 –forte, o X está na classe V na imagem, embora a extração linear o desloque.
 - Na imagem da página 108, Tabela 1, estão cortadas as continuações dos critérios de Profundidade/0-nulo e Suscetibilidade a erosão/1-ligeiro, /2-moderado e /3-forte. Transcreveram-se somente as palavras integralmente visíveis, sem completar por inferência; fragmentos de letras ocultas pela grade da tabela foram descartados. A limitação permanece no texto de origem.
-

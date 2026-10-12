@@ -136,4 +136,3 @@ Aplica-se à UGL e ao planejamento da utilização agrícola do lodo de esgoto. 
 - Removidos cabeçalhos/rodapés institucionais e recompostas as linhas de títulos e requisitos.
 - A seção 2 apresenta “2.1”, “2.2”, “2.3”, seguidos de “3.4”, “3.5” e “3.6”. Mantida a numeração publicada, sem renumerar para 2.4–2.6.
 - Mantidas as grafias “INORGÃONICAS E ORGÃNICAS”, confirmadas na imagem ampliada da página 80.
-

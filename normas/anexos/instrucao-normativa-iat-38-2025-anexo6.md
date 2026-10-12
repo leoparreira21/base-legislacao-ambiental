@@ -123,4 +123,3 @@ Aplica-se à caracterização da UGL. O Anexo I define MCE para LP dos portes pe
 - Removidos cabeçalhos/rodapés institucionais e recompostas as linhas dos requisitos.
 - Mantidos “respectivaAnotação”, “cursos dá água”, o parêntese não fechado em “Características do entorno (...)” e “Código Nacional de Atividades Econômicas”.
 - A seção IV contém requisitos de criação de animais, plantel e empresa de integração, embora a norma trate de UGL. Preservados como publicados; sua pertinência exige revisão, sem substituição por descrição inventada do processo de lodo.
-

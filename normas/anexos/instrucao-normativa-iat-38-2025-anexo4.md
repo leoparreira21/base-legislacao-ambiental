@@ -184,4 +184,3 @@ Aplica-se à Unidade de Gerenciamento de Lodo (UGL). O Anexo I identifica PCA pa
 - Removidos cabeçalhos/rodapés institucionais e unidas continuações entre páginas, sem alteração das palavras.
 - A página 78 contém um quadro de identificação dos resíduos, sem título nem número, com sete colunas e duas linhas de preenchimento inteiramente vazias. O cabeçalho foi conservado com ID de tabela; não foram inventados registros para as linhas vazias.
 - Mantida a expressão “apresentados” na introdução e a referência literal “resolução SEMA 02/2025”. O link segue o órgão publicado e permanece pendente; não foi substituído por SEDEST.
-

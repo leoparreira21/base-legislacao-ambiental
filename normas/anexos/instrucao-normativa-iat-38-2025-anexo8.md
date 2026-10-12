@@ -116,4 +116,3 @@ Aplica-se ao PGRS da UGL. O corpo exige este anexo em [[instrucao-normativa-iat-
 - Removidos cabeçalhos/rodapés institucionais e unidas continuações entre páginas. Reunida a palavra hifenizada “técnicos-operacionais”.
 - Mantidos “Devem ser avaliados as quantidades”, “Instituto Ambiental Água e Terra” e os marcadores “a.”/“b.” da seção V.
 - Os arts. 24, XI e 25, IX remetem o PGRS ao Anexo VII, mas o termo publicado do PGRS corresponde ao Anexo VIII. A síntese registra a divergência; não se alterou a remissão da norma-mãe.
-
