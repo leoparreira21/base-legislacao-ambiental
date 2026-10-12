@@ -49,6 +49,8 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#aquicultura` | 5 |
 | `#area-construida` | 6 |
 | `#area-contaminada` | 14 |
+| `#area-construida` | 4 |
+| `#area-contaminada` | 13 |
 | `#area-contigua` | 3 |
 | `#area-cultivada` | 1 |
 | `#area-degradada` | 7 |
@@ -87,6 +89,8 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#averbacao` | 1 |
 | `#avicultura` | 1 |
 | `#bacia-hidrografica` | 5 |
+| `#avicultura` | 2 |
+| `#bacia-hidrografica` | 4 |
 | `#bagaco-cana` | 1 |
 | `#baixo-impacto-ambiental` | 1 |
 | `#baixo-potencial-poluidor` | 4 |
@@ -379,7 +383,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#licenca-instalacao` | 1 |
 | `#licenca-sanitaria` | 2 |
 | `#licenca-vencida` | 5 |
-| `#licenciamento-ambiental` | 27 |
+| `#licenciamento-ambiental` | 28 |
 | `#licenciamento-bifasico` | 6 |
 | `#licenciamento-monofasico` | 8 |
 | `#licenciamento-municipal` | 5 |
@@ -516,7 +520,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#porte` | 28 |
 | `#porte-excepcional` | 6 |
 | `#porto` | 1 |
-| `#posto-combustivel` | 2 |
+| `#posto-combustivel` | 3 |
 | `#potabilidade` | 1 |
 | `#potencial-poluidor` | 13 |
 | `#pousio` | 2 |
