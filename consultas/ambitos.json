@@ -80,6 +80,13 @@
   "instrucao-normativa-iat-11-2026": [
    "baixo risco",
    "dispensa"
+  ],
+  "instrucao-normativa-iat-32-2025": [
+   "armazenamento temporario",
+   "armazenamento de residuo",
+   "armazenamento residuo",
+   "deposito de residuo",
+   "deposito temporario"
   ]
  }
 }
