@@ -98,6 +98,23 @@
    "barracao",
    "barracoes",
    "parque urbano"
+  ],
+  "instrucao-normativa-iat-27-2026": [
+   "aquicultura",
+   "piscicultura",
+   "maricultura",
+   "ranicultura",
+   "ranario",
+   "ra touro",
+   "tanque rede",
+   "viveiro de peixe",
+   "cultivo de peixe",
+   "criacao de peixe",
+   "cultivo de ostra",
+   "cultivo de mexilhao",
+   "cultivo de vieira",
+   "algicultura",
+   "organismo aquatico"
   ]
  }
 }
