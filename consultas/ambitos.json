@@ -154,6 +154,16 @@
    "sistema de abastecimento de agua",
    "estacao de tratamento de agua",
    "rede coletora de esgoto"
+  ],
+  "instrucao-normativa-iat-25-2026": [
+   "avicultura",
+   "granja",
+   "avicultura de corte",
+   "postura comercial",
+   "recria de matrizes",
+   "postura de ovos ferteis",
+   "avicultura comercial",
+   "incubatorio"
   ]
  }
 }
