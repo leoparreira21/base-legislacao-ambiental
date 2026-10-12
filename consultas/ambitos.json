@@ -93,6 +93,80 @@
   "instrucao-normativa-iat-11-2026": [
    "baixo risco",
    "dispensa"
+  ],
+  "instrucao-normativa-iat-32-2025": [
+   "armazenamento temporario",
+   "armazenamento de residuo",
+   "armazenamento residuo",
+   "deposito de residuo",
+   "deposito temporario"
+  ],
+  "instrucao-normativa-iat-21-2025": [
+   "empreendimento imobiliario",
+   "imobiliario",
+   "parcelamento solo",
+   "loteamento",
+   "desmembramento",
+   "condominio",
+   "barracao",
+   "barracoes",
+   "parque urbano"
+  ],
+  "instrucao-normativa-iat-27-2026": [
+   "aquicultura",
+   "piscicultura",
+   "maricultura",
+   "ranicultura",
+   "ranario",
+   "ra touro",
+   "tanque rede",
+   "viveiro de peixe",
+   "cultivo de peixe",
+   "criacao de peixe",
+   "cultivo de ostra",
+   "cultivo de mexilhao",
+   "cultivo de vieira",
+   "algicultura",
+   "organismo aquatico"
+  ],
+  "instrucao-normativa-iat-22-2026": [
+   "irrigacao",
+   "irrigado",
+   "irrigada",
+   "aspersao",
+   "gotejamento",
+   "microaspersao",
+   "pivo central",
+   "fertirrigacao",
+   "ptsi"
+  ],
+  "instrucao-normativa-iat-38-2025": [
+   "lodo",
+   "lodo de esgoto",
+   "biossolido",
+   "ugl",
+   "unidade de gerenciamento de lodo",
+   "uso agricola de lodo"
+  ],
+  "instrucao-normativa-iat-23-2026": [
+   "bovinocultura",
+   "bovino",
+   "criacao de gado",
+   "gado leiteiro",
+   "gado de corte",
+   "recria de novilha",
+   "confinamento bovino",
+   "compost barn",
+   "free stall",
+   "tie stall"
+  ],
+  "instrucao-normativa-iat-37-2025": [
+   "saneamento",
+   "sistema de esgotamento sanitario",
+   "estacao de tratamento de esgoto",
+   "sistema de abastecimento de agua",
+   "estacao de tratamento de agua",
+   "rede coletora de esgoto"
   ]
  }
 }
