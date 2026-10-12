@@ -87,6 +87,17 @@
    "armazenamento residuo",
    "deposito de residuo",
    "deposito temporario"
+  ],
+  "instrucao-normativa-iat-21-2025": [
+   "empreendimento imobiliario",
+   "imobiliario",
+   "parcelamento solo",
+   "loteamento",
+   "desmembramento",
+   "condominio",
+   "barracao",
+   "barracoes",
+   "parque urbano"
   ]
  }
 }
