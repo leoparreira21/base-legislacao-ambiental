@@ -117,7 +117,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#centro-distribuicao` | 1 |
 | `#cepct` | 1 |
 | `#certidao` | 3 |
-| `#certidao-municipal` | 12 |
+| `#certidao-municipal` | 13 |
 | `#certidao-negativa-debito` | 1 |
 | `#chamine` | 1 |
 | `#chumbo` | 2 |
@@ -179,7 +179,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#cooperacao-institucional` | 7 |
 | `#coprocessamento` | 1 |
 | `#corpo-bombeiros` | 2 |
-| `#corpo-hidrico` | 19 |
+| `#corpo-hidrico` | 20 |
 | `#cortina-vegetal` | 1 |
 | `#cov` | 1 |
 | `#cpf` | 16 |
@@ -237,7 +237,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#edificacao-armazenamento` | 2 |
 | `#edificacao-rural` | 1 |
 | `#educacao-ambiental` | 1 |
-| `#efluente` | 29 |
+| `#efluente` | 30 |
 | `#eia-rima` | 11 |
 | `#eiv` | 1 |
 | `#eletroeletronico` | 2 |
@@ -263,7 +263,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#especie-ameacada` | 4 |
 | `#especie-exotica` | 8 |
 | `#estado` | 4 |
-| `#estudo-ambiental` | 7 |
+| `#estudo-ambiental` | 8 |
 | `#estudo-dispersao` | 1 |
 | `#eutrofizacao` | 1 |
 | `#evento-hidrologico-critico` | 1 |
@@ -294,7 +294,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#geracao-calor` | 1 |
 | `#geracao-energia` | 1 |
 | `#gerador` | 3 |
-| `#gerenciamento-residuo` | 15 |
+| `#gerenciamento-residuo` | 16 |
 | `#glossario-produto-madeira` | 1 |
 | `#grande-gerador` | 3 |
 | `#grupo-a` | 2 |
@@ -386,13 +386,15 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#lo` | 17 |
 | `#loa` | 12 |
 | `#lodo` | 5 |
+| `#lodo` | 6 |
+| `#lodo-esgoto` | 1 |
 | `#logistica-reversa` | 10 |
 | `#lor` | 12 |
 | `#loteamento` | 1 |
 | `#lp` | 16 |
 | `#lpa` | 11 |
 | `#maltearia` | 1 |
-| `#manancial` | 9 |
+| `#manancial` | 10 |
 | `#mandioca` | 2 |
 | `#manejo-florestal` | 3 |
 | `#manifestacao-juridica` | 2 |
@@ -430,13 +432,13 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#multa` | 4 |
 | `#municipio` | 10 |
 | `#nascente` | 3 |
-| `#nitrogenio` | 1 |
+| `#nitrogenio` | 2 |
 | `#nox` | 1 |
 | `#numero-funcionarios` | 1 |
 | `#obra-civil` | 7 |
 | `#obra-emergencial` | 2 |
 | `#od` | 1 |
-| `#odor` | 11 |
+| `#odor` | 12 |
 | `#oleo-combustivel` | 1 |
 | `#oleo-comestivel` | 1 |
 | `#oleo-lubrificante` | 2 |
@@ -445,6 +447,8 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#outorga` | 21 |
 | `#outorga-direito` | 7 |
 | `#outorga-previa` | 8 |
+| `#outorga-direito` | 6 |
+| `#outorga-previa` | 7 |
 | `#oxigenio-referencia` | 1 |
 | `#padrao-condicionamento` | 1 |
 | `#padrao-emissao` | 5 |
@@ -476,8 +480,8 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#pev` | 1 |
 | `#pfnm` | 1 |
 | `#pgr` | 5 |
-| `#pgrcc` | 9 |
-| `#pgrs` | 10 |
+| `#pgrcc` | 10 |
+| `#pgrs` | 11 |
 | `#pgrss` | 4 |
 | `#pilha-bateria` | 5 |
 | `#pintura` | 1 |
@@ -519,6 +523,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#producao-mais-limpa` | 2 |
 | `#produto-perigoso` | 8 |
 | `#proibicao` | 7 |
+| `#projeto-agronomico` | 1 |
 | `#projeto-executivo` | 3 |
 | `#projeto-instalacao` | 1 |
 | `#prorrogacao` | 9 |
@@ -526,6 +531,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#prorrogacao-prazo` | 3 |
 | `#ptsi` | 1 |
 | `#publicacao` | 2 |
+| `#publicacao` | 1 |
 | `#publicacao-dioe` | 13 |
 | `#qualidade-ar` | 4 |
 | `#queima-ceu-aberto` | 4 |
@@ -559,6 +565,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#renovacao-extemporanea` | 2 |
 | `#reposicao-florestal` | 2 |
 | `#requerimento` | 10 |
+| `#requerimento` | 9 |
 | `#reserva-legal` | 28 |
 | `#reservatorio` | 2 |
 | `#residuo-agrossilvopastoril` | 2 |
@@ -574,7 +581,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#residuo-solido-urbano` | 12 |
 | `#residuo-terceiro` | 1 |
 | `#residuo-transporte` | 5 |
-| `#responsabilidade` | 12 |
+| `#responsabilidade` | 13 |
 | `#responsavel-legal` | 7 |
 | `#responsavel-tecnico` | 23 |
 | `#restricao-temporaria` | 3 |
@@ -587,6 +594,10 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#rlas` | 2 |
 | `#rlo` | 2 |
 | `#sancao` | 28 |
+| `#rlac` | 1 |
+| `#rlas` | 1 |
+| `#rlo` | 1 |
+| `#sancao` | 29 |
 | `#saneamento` | 10 |
 | `#saude-ocupacional` | 3 |
 | `#sedest` | 2 |
@@ -661,7 +672,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#turbina` | 1 |
 | `#turbina-gas` | 1 |
 | `#turismo` | 3 |
-| `#unidade-conservacao` | 25 |
+| `#unidade-conservacao` | 26 |
 | `#usina-asfalto` | 1 |
 | `#uso-agricola-efluente` | 2 |
 | `#uso-alternativo-solo` | 2 |
@@ -674,9 +685,11 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#validade` | 19 |
 | `#vazao` | 4 |
 | `#vegetacao-nativa` | 11 |
+| `#vazao` | 3 |
+| `#vegetacao-nativa` | 10 |
 | `#veiculo` | 1 |
 | `#vereda` | 1 |
-| `#vetor` | 6 |
+| `#vetor` | 7 |
 | `#via-urbana` | 1 |
 | `#viabilidade-ambiental` | 3 |
 | `#viabilidade-locacional` | 3 |
