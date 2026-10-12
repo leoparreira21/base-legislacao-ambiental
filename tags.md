@@ -373,7 +373,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#licenca-instalacao` | 1 |
 | `#licenca-sanitaria` | 2 |
 | `#licenca-vencida` | 5 |
-| `#licenciamento-ambiental` | 26 |
+| `#licenciamento-ambiental` | 27 |
 | `#licenciamento-bifasico` | 6 |
 | `#licenciamento-monofasico` | 8 |
 | `#licenciamento-municipal` | 5 |
@@ -590,7 +590,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#rlas` | 3 |
 | `#rlo` | 3 |
 | `#sancao` | 30 |
-| `#saneamento` | 10 |
+| `#saneamento` | 11 |
 | `#saude-ocupacional` | 3 |
 | `#sedest` | 2 |
 | `#segregacao` | 8 |
