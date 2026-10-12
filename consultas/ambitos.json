@@ -1,6 +1,21 @@
 {
  "_leia": "Âmbito das normas setoriais para a busca do site. Uma norma listada aqui só aparece se a atividade ou a busca citar uma destas expressões (sem acento). Normas fora desta lista são tratadas como transversais: entram quando a ementa cita um termo da busca. Anexos herdam o âmbito da norma-mãe. Ao incluir uma norma setorial na base, acrescente-a aqui.",
  "ambitos": {
+  "instrucao-normativa-iat-28-2026": [
+   "posto revendedor",
+   "posto de combustivel",
+   "ponto abastecimento",
+   "instalacao sistema retalhista",
+   "trr",
+   "posto flutuante",
+   "base distribuicao combustivel",
+   "armazenamento combustivel",
+   "tanque subterraneo",
+   "tanque aereo",
+   "sasc",
+   "saac",
+   "area contaminada"
+  ],
   "instrucao-normativa-iat-25-2025": [
    "patio caminhao",
    "patio container",
