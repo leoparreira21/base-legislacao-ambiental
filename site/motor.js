@@ -10,7 +10,7 @@
      m.buscaLivre({q:'usina de argamassa', cnaes:['2330399']});
      m.analiseCaso({campos:{atividade:'clínica odontológica', agua:'rede'}});
 */
-export const MOTOR_VERSAO = '1.0.0';
+export const MOTOR_VERSAO = '1.1.0';
 export const FORMATO_INDICE = 1;
 export const REPO = 'https://github.com/leoparreira21/base-legislacao-ambiental';
 
@@ -74,9 +74,10 @@ export function radical(w){
 export const tokens=t=>normalizar(t).filter(w=>!STOP.has(w)).map(radical);
 export function fmtCnae(id){return id.length===7?`${id.slice(0,4)}-${id[4]}/${id.slice(5)}`:id}
 
-const GENERICO=new Set(tokens('ambiental ambientais estado parana procedimento procedimentos criterio criterios diretriz diretrizes definicao definicoes norma normas outra outras providencias dispoe estabelece estabelecer regulamenta altera institui lei resolucao instrucao normativa decreto conselho nacional federal estadual atividade atividades empreendimento empreendimentos ambito territorio controle aprova determina cumprimento unidade unidades publica publico operacao saude protecao gestao populacao instrumento basico bem estar geral gerais analise analises'));
+const GENERICO=new Set(tokens('ambiental ambientais estado parana procedimento procedimentos criterio criterios diretriz diretrizes definicao definicoes norma normas outra outras providencias dispoe estabelece estabelecer regulamenta altera institui lei resolucao instrucao normativa decreto conselho nacional federal estadual atividade atividades empreendimento empreendimentos ambito territorio controle aprova determina cumprimento unidade unidades publica publico operacao saude protecao gestao populacao instrumento basico bem estar geral gerais analise analises recurso recursos'));
 const CNAE_GEN=new Set(tokens('fabricacao preparacao producao comercio atacadista varejista servico servicos atividade atividades outro outros outra outras especificado especificados anteriormente produto produtos artigo artigos exceto geral diverso diversos uso tipo parte partes peca pecas acessorio acessorios industria industrias industrial representante agente agentes comercial execucao fabricante usina usinas fabrica planta empresa loja deposito estabelecimento'));
 const FATOR_TIPO=[1,.9,.3];
+const PESO_TAG=2; // bônus do trecho marcado com a tag de um bloco, por radical da tag
 const TIPO_TRECHO=['dispositivo','anexo','lista'];
 
 /* Eixos da análise de caso: cada um vira uma busca curta e separada.
@@ -111,8 +112,19 @@ export function criarMotor({indice, cnae, sinonimos, ambitos}){
     const cx=new Set(tokens(ctx)), tg=new Set(tokens(tags.join(' ')));
     const todos=new Set([...tf.keys(),...cx,...tg]);
     for(const w of todos) DF.set(w,(DF.get(w)||0)+1);
-    IDX.push({norma,l1,l2,id,ctx,tags,txt,k,tf,cx,tg,len:tt.length||1,norm:normalizar(txt).join(' '),seq:k===2?tt:null});
+    IDX.push({norma,l1,l2,id,ctx,tags,tset:new Set(tags),txt,k,tf,cx,tg,len:tt.length||1,norm:normalizar(txt).join(' '),seq:k===2?tt:null});
   }
+  /* Tags da base, agrupadas pelos radicais (residuo-servico-saude e residuos-servico-saude
+     são a mesma). Tag de uma palavra só genérica (#saude, #recurso) não vira bloco. */
+  const TAGS=(()=>{
+    const g=new Map();
+    for(const b of DB.blocos) for(const tag of b[5]){
+      const t=tokens(tag.replace(/-/g,' ')); if(!t.length) continue;
+      if(t.length===1&&(GENERICO.has(t[0])||CNAE_GEN.has(t[0]))) continue;
+      const k=t.join(' '); if(!g.has(k)) g.set(k,{t,tags:new Set()}); g.get(k).tags.add(tag);
+    }
+    return [...g.values()].map(x=>({t:x.t,tags:[...x.tags].sort()})).sort((a,b)=>b.t.length-a.t.length);
+  })();
   const N=IDX.length, AVG=IDX.reduce((s,b)=>s+b.len,0)/N;
   const SYN=Object.entries(SINONIMOS).map(([k,v])=>({k:tokens(k),rot:k,alts:v.map(tokens)}))
       .sort((a,b)=>b.k.length-a.k.length);
@@ -136,7 +148,23 @@ export function criarMotor({indice, cnae, sinonimos, ambitos}){
       i++;
     }
     const uteis=out.filter(c=>!(c.alts.length===1&&c.alts[0].t.length===1&&(GENERICO.has(c.alts[0].t[0])||CNAE_GEN.has(c.alts[0].t[0]))));
-    return {conceitos:uteis.length?uteis:out,frases,sinonimos:usados};
+    return {conceitos:comTags(uteis.length?uteis:out,new Set(tk)),frases,sinonimos:usados};
+  }
+  /* Blocos de tag: depois de gerados os blocos de palavras, cada tag da base cujas palavras
+     estão todas na busca vira um bloco e absorve os blocos de palavras que cobre. Sem tag
+     correspondente, os blocos ficam só com as palavras. Tag contida em outra maior fica de fora. */
+  function comTags(base,termos){
+    const achadas=TAGS.filter(x=>x.t.every(w=>termos.has(w)));
+    const tags=achadas.filter(x=>!achadas.some(y=>y!==x&&y.t.length>x.t.length&&x.t.every(w=>y.t.includes(w))));
+    if(!tags.length) return base;
+    let livres=base; const blocos=[];
+    for(const x of tags){
+      const cobre=livres.filter(c=>c.alts[0].t.every(w=>x.t.includes(w)));
+      livres=livres.filter(c=>!cobre.includes(c));
+      blocos.push({rot:'#'+x.tags[0],tags:x.tags,t:x.t,cobre,peso:1,
+        alts:[{t:x.t,p:1},...cobre.flatMap(c=>c.alts)].filter((a,i,l)=>l.findIndex(o=>o.t.join(' ')===a.t.join(' '))===i)});
+    }
+    return [...blocos,...livres];
   }
   function pontoTermo(b,w){
     const f=b.tf.get(w)||0; let s=0;
@@ -145,23 +173,37 @@ export function criarMotor({indice, cnae, sinonimos, ambitos}){
     if(b.tg.has(w)) s+=idf(w)*1.2;
     return s;
   }
+  function melhor(b,c){
+    let best=0;
+    for(const a of c.alts){
+      let s=0,todos=true;
+      for(const w of a.t){const p=pontoTermo(b,w); if(!p){todos=false;break;} s+=p;}
+      if(todos) best=Math.max(best,s*a.p);
+    }
+    return best;
+  }
+  // Bloco de tag: o trecho marcado com a tag conta o bloco inteiro e ganha o peso da tag;
+  // sem a tag, valem as palavras que o bloco cobre, como antes.
+  function pontoTag(b,c){
+    const partes=c.cobre.length?c.cobre:[{alts:[{t:c.t,p:1}]}];
+    let s=0,k=0;
+    for(const p of partes){const v=melhor(b,p); if(v){s+=v;k++;}}
+    if(c.tags.some(t=>b.tset.has(t))){s+=c.t.reduce((x,w)=>x+idf(w),0)*PESO_TAG;k=partes.length;}
+    return {s,k,de:partes.length};
+  }
   function pontuar(b,Q,minFrac=.6){
     for(const fr of Q.frases) if(!b.norm.includes(fr)) return 0;
-    let soma=0,ok=0;
+    let soma=0,ok=0,acertos=0,total=0;
     for(const c of Q.conceitos){
-      let best=0;
-      for(const a of c.alts){
-        let s=0,todos=true;
-        for(const w of a.t){const p=pontoTermo(b,w); if(!p){todos=false;break;} s+=p;}
-        if(todos) best=Math.max(best,s*a.p);
-      }
-      if(best){soma+=best*c.peso;ok++;}
+      const r=c.tags?pontoTag(b,c):(v=>({s:v,k:v?1:0,de:1}))(melhor(b,c));
+      if(r.s){soma+=r.s*c.peso;ok++;}
+      acertos+=r.k; total+=r.de;
     }
     const n=Q.conceitos.length;
     if(n){
       const min=minFrac<1&&n>2?Math.ceil(n*minFrac):(minFrac<.5?1:n);
       if(ok<min) return 0;
-      soma*=Math.pow(ok/n,2);
+      soma*=Math.pow(acertos/total,2);
     } else if(!Q.frases.length) return 0; else soma=1;
     return soma*FATOR_TIPO[b.k];
   }
@@ -352,7 +394,7 @@ export function criarMotor({indice, cnae, sinonimos, ambitos}){
       trechos:mostrados.slice(0,maxTrechos).map(h=>trecho(h,Q,X))};
   }
   function consulta(Q,X){
-    return {termos:Q.conceitos.map(c=>({termo:c.rot,sinonimos:c.alts.slice(1).map(a=>a.t.join(' '))})),
+    return {termos:Q.conceitos.map(c=>({termo:c.rot,sinonimos:c.alts.slice(1).map(a=>a.t.join(' ')),tags:c.tags||[]})),
       frases:Q.frases,
       cnae:X?{codigos:[...X.codigos],rotulos:X.rot,termosEnquadramento:X.ngr.map(g=>g.rot)}:null};
   }

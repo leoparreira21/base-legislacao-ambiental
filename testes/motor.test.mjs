@@ -82,3 +82,25 @@ test('opções do caso: valores únicos e eixos que o site conhece', () => {
   }
   assert.equal(motor.OPCOES_CASO.localizacao[0].valor, 'manancial area protegida');
 });
+
+test('tags da base viram blocos de busca e absorvem as palavras que cobrem', () => {
+  const termos = q => M.buscaLivre({q}).consulta.termos;
+  assert.deepEqual(termos('pátio de caminhões').map(t => t.termo), ['#patio-caminhao']);
+  const agua = termos('outorga poço água subterrânea');
+  assert.deepEqual(agua.map(t => t.termo).sort(), ['#agua-subterranea', '#outorga', '#poco']);
+  // tag contida em outra maior fica de fora
+  const rss = termos('resíduos de serviços de saúde');
+  assert.equal(rss.length, 1);
+  assert.ok(rss[0].tags.includes('residuo-servico-saude'));
+  // sem tag correspondente: só palavras
+  assert.deepEqual(termos('clínica odontológica').map(t => [t.termo, t.tags.length]), [['clinic', 0], ['odontologic', 0]]);
+  // bloco de tag mais palavra solta
+  assert.deepEqual(termos('efluente sanitário').map(t => t.termo), ['#efluente', 'sanitari']);
+});
+
+test('recurso e recursos não são blocos de busca nem admitem normas pela ementa', () => {
+  const r = M.buscaLivre({q: 'recursos minerais'});
+  assert.ok(!r.consulta.termos.some(t => t.termo === 'recurs'));
+  const h = M.buscaLivre({q: 'recursos hídricos'});
+  assert.ok(!h.normas.some(n => /^instrucao-normativa-ibama-(13-2021|23-2025)$/.test(n.arquivo)), 'norma admitida só por «recursos» na ementa');
+});

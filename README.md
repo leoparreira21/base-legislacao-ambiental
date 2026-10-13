@@ -196,4 +196,6 @@ Página estática publicada pelo GitHub Pages a cada push na `main` (`.github/wo
 - `consultas/sinonimos.json`: expansão de termos da busca.
 - `python scripts/gerar_site.py`: gera o site em `_site/` para conferir localmente (`python -m http.server -d _site`).
 
+Blocos de busca: o texto vira blocos de palavras (sem palavras genéricas da lista `GENERICO` de `site/motor.js`, como «norma», «atividade», «recurso»), somados aos sinônimos. Em seguida, cada tag da base cujas palavras estão todas na busca vira um bloco e absorve os blocos de palavras que cobre («resíduos de serviços de saúde» → `#residuo-servico-saude`). Trecho marcado com a tag conta o bloco inteiro, com peso maior; trecho sem a tag ainda conta pelas palavras. Sem tag correspondente, a busca fica só com as palavras. Tag contida em outra maior fica de fora, e tag de uma só palavra genérica (`#saude`) não vira bloco. As tags não mudam quais normas são admitidas, só a ordem dos trechos e das normas.
+
 Critério de admissão (fixo, não afrouxa quando há poucos resultados): (1) norma setorial só pelo âmbito; (2) norma transversal pela ementa; (3) qualquer norma cuja lista de enquadramento cite o código CNAE escolhido na triagem, o termo de enquadramento da CNAE (núcleo da atividade ou nome da divisão) ou todos os termos buscados. Resultado vazio indica lacuna da base ou da legislação.
