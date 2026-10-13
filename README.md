@@ -188,7 +188,10 @@ Ao alterar scripts ou o protocolo de consulta, rode os três comandos de valida�
 
 Página estática publicada pelo GitHub Pages a cada push na `main` (`.github/workflows/site.yml`); antes de publicar, o workflow roda `scripts/validar.py`, e erro na base mantém o site anterior no ar. Busca por relevância, sem IA e sem serviço externo.
 
-- `site/index.html`: a página. `site/cnae.json`: estrutura CNAE 2.3 (1.332 subclasses), baixada da API oficial do IBGE (`servicodados.ibge.gov.br/api/v2/cnae/subclasses`); atualizar só quando o IBGE publicar nova versão.
+- `site/motor.js`: a regra de busca (pontuação, admissão, triagem CNAE, eixos do caso e opções do formulário), em módulo JavaScript sem DOM. O site e a API do iatreports (`iat-report-scribe`) usam este mesmo arquivo, por isso os resultados são iguais. Mudou a regra? Suba `MOTOR_VERSAO`; mudou o formato de `index.json`? Suba `FORMATO_INDICE`. A API avisa quando a cópia dela fica atrás da versão publicada.
+- `site/index.html`: só a interface (formulário e renderização). `site/cnae.json`: estrutura CNAE 2.3 (1.332 subclasses), baixada da API oficial do IBGE (`servicodados.ibge.gov.br/api/v2/cnae/subclasses`); atualizar só quando o IBGE publicar nova versão.
+- `manifesto.json` (gerado): commit, versão do motor, formato do índice e SHA-256 dos arquivos publicados. Clientes conferem se há base nova sem baixar o índice.
+- `testes/motor.test.mjs`: testes do motor contra o site gerado, rodados pelo workflow antes de publicar (`node --test testes/motor.test.mjs`).
 - `consultas/ambitos.json`: âmbito das normas setoriais. Norma listada só aparece se a atividade ou a busca citar uma das expressões; as demais entram quando a ementa cita um termo da busca. **Ao incluir uma norma setorial na base, acrescente o âmbito dela aqui** (expressões sem acento; anexos herdam da norma-mãe).
 - `consultas/sinonimos.json`: expansão de termos da busca.
 - `python scripts/gerar_site.py`: gera o site em `_site/` para conferir localmente (`python -m http.server -d _site`).

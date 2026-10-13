@@ -3,12 +3,16 @@
 
 Uso: python scripts/gerar_site.py [pasta_de_saida]
 
-O site é estático: site/index.html + índice gerado aqui + tabela CNAE do IBGE
-(site/cnae.json) + consultas/sinonimos.json e consultas/ambitos.json.
+O site é estático: site/index.html + motor de busca (site/motor.js) + índice
+gerado aqui + tabela CNAE do IBGE (site/cnae.json) + consultas/sinonimos.json e
+consultas/ambitos.json. manifesto.json resume a publicação (commit, versão do
+motor e formato do índice) para clientes da busca, como a API do iatreports.
 Roda no GitHub Actions a cada push na main (.github/workflows/site.yml).
 Somente biblioteca padrão.
 """
 import collections
+import datetime
+import hashlib
 import json
 from pathlib import Path
 import re
@@ -21,6 +25,8 @@ sys.path.insert(0, str(RAIZ / 'scripts'))
 import consultar  # noqa: E402
 
 TAG = re.compile(r'(?<![\w/&])#([a-z0-9][a-z0-9-]+)')
+MOTOR_VERSAO = re.compile(r"^export const MOTOR_VERSAO = '([^']+)';", re.M)
+FORMATO_INDICE = re.compile(r'^export const FORMATO_INDICE = (\d+);', re.M)
 PREFIXO_ANEXO = re.compile(r'^-\s*Anexo\b[^\n]*?(?:linha \d+|cabeçalho)\s*', re.M)
 
 
@@ -75,7 +81,15 @@ def gerar_indice():
             ant[5] = sorted(set(ant[5]) | set(tags))
             continue
         B.append([b['norma'], b['linha'], b['linha_fim'], i0, ctx, tags, txt[:4000], k])
-    return {'commit': sha, 'docs': D, 'blocos': B}
+    return {'formato': formato_indice(), 'commit': sha, 'docs': D, 'blocos': B}
+
+
+def ler_motor():
+    return (RAIZ / 'site' / 'motor.js').read_text(encoding='utf-8')
+
+
+def formato_indice():
+    return int(FORMATO_INDICE.search(ler_motor())[1])
 
 
 def main():
@@ -93,10 +107,20 @@ def main():
 
     (saida / 'index.json').write_text(
         json.dumps(indice, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
-    for f in ('index.html', 'cnae.json'):
+    for f in ('index.html', 'motor.js', 'cnae.json'):
         shutil.copy(RAIZ / 'site' / f, saida / f)
     for f in ('sinonimos.json', 'ambitos.json'):
         shutil.copy(RAIZ / 'consultas' / f, saida / f)
+    # resumo da publicação: clientes conferem o commit e a versão do motor sem baixar o índice
+    arquivos = {f: hashlib.sha256((saida / f).read_bytes()).hexdigest()
+                for f in ('index.json', 'motor.js', 'cnae.json', 'sinonimos.json', 'ambitos.json')}
+    (saida / 'manifesto.json').write_text(json.dumps({
+        'commit': indice['commit'],
+        'gerado_em': datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='seconds'),
+        'motor': MOTOR_VERSAO.search(ler_motor())[1],
+        'formato_indice': indice['formato'],
+        'arquivos': arquivos,
+    }, ensure_ascii=False, indent=1), encoding='utf-8')
     (saida / '.nojekyll').write_text('')
 
     tipos = collections.Counter(b[7] for b in indice['blocos'])
