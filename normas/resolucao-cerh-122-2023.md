@@ -1,11 +1,11 @@
 ---
-norma: Resolução CERH nº 22/2023
-arquivo: resolucao-cerh-22-2023
+norma: Resolução CERH nº 122/2023
+arquivo: resolucao-cerh-122-2023
 tipo: resolucao
 esfera: estadual
 uf: PR
 orgao: Conselho Estadual de Recursos Hídricos – CERH/PR
-numero: 22
+numero: 122
 ano: 2023
 data_assinatura: 2023-06-19
 data_publicacao: 2023-06-28
@@ -24,7 +24,7 @@ tags: [agua-subterranea, ambito-aplicacao, app, aquicultura, aquifero, area-indu
 fonte: "Portal Legislação do Estado do Paraná (legislacao.pr.gov.br, codAto=303164, impressão de 13/10/2026, 9 páginas), enviado por Leo; Anexo I em PDF separado (1 página, papel timbrado da SEDEST). Texto conferido com os PDFs."
 ---
 
-# Resolução CERH nº 22, de 19 de junho de 2023 {#resolucao-cerh-22-2023}
+# Resolução CERH nº 122, de 19 de junho de 2023 {#resolucao-cerh-122-2023}
 
 > **Ementa:** Estabelece diretrizes e critérios gerais para reuso de água no Estado do Paraná.
 
@@ -457,7 +457,7 @@ Observação do conversor (não é texto normativo):
 
 Fonte: impressão do portal Legislação do Estado do Paraná (codAto=303164, 13/10/2026, 03:50, 9 páginas), enviada por Leo. A própria página traz a advertência "Este texto não substitui o publicado no Diário Oficial do Estado". Os dados de publicação (Diário Oficial nº 11448, de 28/06/2023) vêm do cabeçalho da impressão. O Anexo I (a página 9 apenas o lista como arquivo anexo) veio em PDF separado de 1 página. O texto foi mantido como está nos PDFs. Os pontos abaixo são dos PDFs, não erros de transcrição.
 
-- **Número da resolução.** O cabeçalho do portal e a página do IAT dizem "Resolução CERH 22" (nº 022/2023); os arquivos enviados e uma cópia hospedada pela Agência Estadual de Notícias se chamam "122_2023" e "resolucao_cerh_122". Usado o número do texto oficial do portal (22), no nome do arquivo e nos links. A numeração "122" deve ser confirmada no Diário Oficial; se for a oficial, renomear o arquivo e os links.
+- **Número da resolução.** O cabeçalho do texto no portal e a página do IAT dizem "Resolução CERH 22" (nº 022/2023); os arquivos enviados e uma cópia hospedada pela Agência Estadual de Notícias se chamam "122_2023" e "resolucao_cerh_122". Por decisão de Leo (13/10/2026), a base usa o número 122 no nome do arquivo, no frontmatter e nos links; o texto transcrito não traz número no corpo. Confirmar a numeração no Diário Oficial.
 - Rótulos dos artigos: o PDF imprime "Art. 1", "Art. 2" ... sem o indicador ordinal (º), mesmo nos artigos 1 a 9; os rótulos "Art. 1º" a "Art. 9º" desta base seguem o padrão e não alteram o texto.
 - Preâmbulo: "decorrentes do uso inadequados dos recursos naturais" (considerando da Lei 9.433); "Lei nº 9.433, 08 de janeiro de 1997" e "art. 19 da lei nº 11.445" (art. 31, II e III) sem o "de" e com minúscula.
 - Art. 6º, § 1º: "a prática de reuso centralizada" (concordância).
