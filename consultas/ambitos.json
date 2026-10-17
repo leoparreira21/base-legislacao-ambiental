@@ -236,6 +236,50 @@
    "controle vetor",
    "inseticida",
    "dengue"
+  ],
+  "norma-regulamentadora-federal-13-1978": [
+   "caldeira",
+   "vaso de pressao",
+   "tanque metalico",
+   "tubulacao",
+   "tanque de armazenamento",
+   "tanque aereo",
+   "armazenamento combustivel",
+   "posto revendedor",
+   "posto de combustivel",
+   "gerador de vapor",
+   "spie"
+  ],
+  "norma-regulamentadora-federal-31-2005": [
+   "agricultura",
+   "pecuaria",
+   "silvicultura",
+   "exploracao florestal",
+   "aquicultura",
+   "agrotoxico",
+   "armazenamento graos",
+   "trabalho rural",
+   "suinocultura",
+   "avicultura",
+   "criacao animal",
+   "fazenda",
+   "propriedade rural",
+   "plantio",
+   "colheita"
+  ],
+  "norma-regulamentadora-federal-32-2005": [
+   "servico de saude",
+   "residuo servico saude",
+   "rss",
+   "hospital",
+   "clinica",
+   "laboratorio",
+   "pgrss",
+   "agente biologico",
+   "perfurocortante",
+   "estabelecimento de saude",
+   "unidade de saude",
+   "consultorio"
   ]
  }
 }
