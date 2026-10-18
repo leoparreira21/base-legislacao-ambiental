@@ -57,7 +57,7 @@ Tags: #licenciamento-ambiental #cooperacao-institucional
 
 ###### Art. 3º {#art3}
 Tags: #definicao #autorizacao-ambiental #las #lor #lasr
-Alterações: caput, incisos XXXVII, XXXVIII e XXXIX: incluídos pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]]
+Alterações: caput, incisos XXXVII, XXXVIII e XXXIX: incluídos pela [[lei-federal-15300-2025#art7_cpt_alt1|Lei nº 15.300, de 2025]]
 
 **Art. 3º, caput** {#art3_cpt} Para os efeitos desta Lei, entende-se por:
 
@@ -97,9 +97,9 @@ Alterações: caput, incisos XXXVII, XXXVIII e XXXIX: incluídos pela [[lei-fede
 - **Art. 3º, caput, inciso XXXIV** {#art3_cpt_inc34} #cnae natureza da atividade ou do empreendimento: designação da atividade ou do empreendimento de acordo com os grupos de atividades econômicas adotados pela Classificação Nacional de Atividades Econômicas (CNAE);
 - **Art. 3º, caput, inciso XXXV** {#art3_cpt_inc35} #porte porte da atividade ou do empreendimento: dimensionamento da atividade ou do empreendimento com base em critérios preestabelecidos pelo ente federativo competente, respeitadas as atribuições previstas na [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 8 de dezembro de 2011]]; *(Promulgação partes vetadas)*
 - **Art. 3º, caput, inciso XXXVI** {#art3_cpt_inc36} #potencial-poluidor potencial poluidor da atividade ou do empreendimento: avaliação qualitativa ou quantitativa que mede a capacidade de a atividade ou de o empreendimento vir a causar impacto ambiental negativo, baseada em critérios preestabelecidos pelo ente federativo competente, respeitadas as atribuições previstas na [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 8 de dezembro de 2011]]. *(Promulgação partes vetadas)*
-- **Art. 3º, caput, inciso XXXVII** {#art3_cpt_inc37} #incluido medida preventiva: medida adotada antes de uma ação ou evento que possa causar impacto ambiental negativo, buscando evitar que ele ocorra; *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
-- **Art. 3º, caput, inciso XXXVIII** {#art3_cpt_inc38} #medida-mitigadora #incluido medida mitigadora: medida adotada com o objetivo de amenizar os efeitos esperados de uma ação ou evento que possa causar impacto ambiental negativo; *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
-- **Art. 3º, caput, inciso XXXIX** {#art3_cpt_inc39} #medida-compensatoria #incluido medida compensatória: medida aplicada ao impacto concretizado mesmo após a aplicação das medidas preventivas e mitigadoras e que objetiva substituir um bem perdido, alterado ou descaracterizado por outro que seja entendido como equivalente ou que desempenhe função equivalente. *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
+- **Art. 3º, caput, inciso XXXVII** {#art3_cpt_inc37} #incluido medida preventiva: medida adotada antes de uma ação ou evento que possa causar impacto ambiental negativo, buscando evitar que ele ocorra; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt1|Lei nº 15.300, de 2025]])*
+- **Art. 3º, caput, inciso XXXVIII** {#art3_cpt_inc38} #medida-mitigadora #incluido medida mitigadora: medida adotada com o objetivo de amenizar os efeitos esperados de uma ação ou evento que possa causar impacto ambiental negativo; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt1|Lei nº 15.300, de 2025]])*
+- **Art. 3º, caput, inciso XXXIX** {#art3_cpt_inc39} #medida-compensatoria #incluido medida compensatória: medida aplicada ao impacto concretizado mesmo após a aplicação das medidas preventivas e mitigadoras e que objetiva substituir um bem perdido, alterado ou descaracterizado por outro que seja entendido como equivalente ou que desempenhe função equivalente. *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt1|Lei nº 15.300, de 2025]])*
 
 ## CAPÍTULO II – DO LICENCIAMENTO AMBIENTAL
 
@@ -188,7 +188,7 @@ Tags: #renovacao #prorrogacao-automatica #validade #licenca-ambiental #las
 
 ###### Art. 8º {#art8}
 Tags: #dispensa #licenciamento-ambiental #obra-emergencial #logistica-reversa
-Alterações: § 4º: incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]]
+Alterações: § 4º: incluído pela [[lei-federal-15300-2025#art7_cpt_alt2|Lei nº 15.300, de 2025]]
 
 **Art. 8º, caput** {#art8_cpt} Não estão sujeitos a licenciamento ambiental as seguintes atividades ou empreendimentos:
 
@@ -208,7 +208,7 @@ Alterações: § 4º: incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de
 
 **Art. 8º, § 3º** {#art8_par3} A autoridade licenciadora pode definir orientações técnicas e medidas de caráter mitigatório ou compensatório às intervenções de que tratam os incisos [[#art8_cpt_inc4|IV]] e [[#art8_cpt_inc5|V]] do [[#art8_cpt|caput]] deste artigo.
 
-**Art. 8º, § 4º** {#art8_par4} #incluido As dragagens de manutenção de que trata o [[#art8_cpt_inc7|inciso VII]] do [[#art8_cpt|caput]] deste artigo contemplam as intervenções em canais de acesso e em bacias de evolução associados a instalações portuárias previamente licenciadas ou em hidrovias e vias naturalmente navegáveis, condicionados ao prévio levantamento batimétrico, incluídos os serviços de engenharia hidráulica destinados à limpeza, à desobstrução e ao manejo de sedimentos no fundo de corpos hídricos naturais ou artificiais, sem aumento da profundidade e da largura previamente existentes. *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
+**Art. 8º, § 4º** {#art8_par4} #incluido As dragagens de manutenção de que trata o [[#art8_cpt_inc7|inciso VII]] do [[#art8_cpt|caput]] deste artigo contemplam as intervenções em canais de acesso e em bacias de evolução associados a instalações portuárias previamente licenciadas ou em hidrovias e vias naturalmente navegáveis, condicionados ao prévio levantamento batimétrico, incluídos os serviços de engenharia hidráulica destinados à limpeza, à desobstrução e ao manejo de sedimentos no fundo de corpos hídricos naturais ou artificiais, sem aumento da profundidade e da largura previamente existentes. *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt2|Lei nº 15.300, de 2025]])*
 
 ###### Art. 9º {#art9}
 Tags: #dispensa #agropecuaria #car #pra
@@ -399,7 +399,7 @@ Tags: #licenciamento-monofasico #las
 
 ###### Art. 22 {#art22}
 Tags: #lac #declaracao-adesao-compromisso #licenciamento-ambiental
-Alterações: caput, inciso III: revogado pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]]; caput, inciso IV e alíneas "a" a "k": incluídos pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]]; § 6º: incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]]
+Alterações: caput, inciso III: revogado pela [[lei-federal-15300-2025#art9|Lei nº 15.300, de 2025]]; caput, inciso IV e alíneas "a" a "k": incluídos pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]]; § 6º: incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]]
 
 **Art. 22, caput** {#art22_cpt} O licenciamento ambiental simplificado pela modalidade por adesão e compromisso pode ocorrer se forem atendidas, cumulativamente, as seguintes condições: *(Promulgação partes vetadas)*
 
@@ -409,19 +409,19 @@ Alterações: caput, inciso III: revogado pela [[lei-federal-15300-2025|Lei nº 
   - **Art. 22, caput, inciso II, alínea "b"** {#art22_cpt_inc2_alib} as condições de instalação e de operação da atividade ou do empreendimento;
   - **Art. 22, caput, inciso II, alínea "c"** {#art22_cpt_inc2_alic} os impactos ambientais da tipologia da atividade ou do empreendimento; e
   - **Art. 22, caput, inciso II, alínea "d"** {#art22_cpt_inc2_alid} as medidas de controle ambiental necessárias;
-- **Art. 22, caput, inciso III** {#art22_cpt_inc3} #revogado *(Revogado pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
-- **Art. 22, caput, inciso IV** {#art22_cpt_inc4} #incluido não incorrer nas hipóteses de atividades ou de empreendimentos: *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
-  - **Art. 22, caput, inciso IV, alínea "a"** {#art22_cpt_inc4_alia} #mineracao #incluido minerários, exceto exploração de areia, cascalho, brita e lavra de diamante por faiscação sem desmonte de talude; *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
-  - **Art. 22, caput, inciso IV, alínea "b"** {#art22_cpt_inc4_alib} #supressao-vegetacao #incluido que demandem supressão de vegetação nativa que dependa de autorização específica, exceto o caso de corte de árvores isoladas; *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
-  - **Art. 22, caput, inciso IV, alínea "c"** {#art22_cpt_inc4_alic} #incluido que envolvam remoção ou realocação de população; *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
-  - **Art. 22, caput, inciso IV, alínea "d"** {#art22_cpt_inc4_alid} #incluido localizados em área declarada como contaminada, segundo as normas técnicas vigentes; *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
-  - **Art. 22, caput, inciso IV, alínea "e"** {#art22_cpt_inc4_alie} #unidade-conservacao #incluido localizados no interior de unidades de conservação, exceto em Área de Proteção Ambiental (APA); *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
-  - **Art. 22, caput, inciso IV, alínea "f"** {#art22_cpt_inc4_alif} #incluido localizados em áreas reconhecidas como Sítios Ramsar, nos termos da Convenção sobre Zonas Úmidas de Importância Internacional, especialmente como Habitat de Aves Aquáticas (Convenção de Ramsar); *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
-  - **Art. 22, caput, inciso IV, alínea "g"** {#art22_cpt_inc4_alig} #incluido localizados em áreas de bens arqueológicos ou culturais acautelados; *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
-  - **Art. 22, caput, inciso IV, alínea "h"** {#art22_cpt_inc4_alih} #terra-indigena #quilombola #incluido localizados em terras indígenas, territórios quilombolas e de comunidades tradicionais, exceto se realizados pela própria comunidade; *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
-  - **Art. 22, caput, inciso IV, alínea "i"** {#art22_cpt_inc4_alii} #incluido localizados em áreas suscetíveis à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos, previstas no [[lei-federal-10257-2001#art42-a|art. 42-A da Lei nº 10.257, de 10 de julho de 2001]]; *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
-  - **Art. 22, caput, inciso IV, alínea "j"** {#art22_cpt_inc4_alij} #incluido que tiveram ou venham a ter licença de instalação negada por incompatibilidade ambiental da área com o tipo de atividade; e *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
-  - **Art. 22, caput, inciso IV, alínea "k"** {#art22_cpt_inc4_alik} #incluido localizados no mar territorial. *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
+- **Art. 22, caput, inciso III** {#art22_cpt_inc3} #revogado *(Revogado pela [[lei-federal-15300-2025#art9|Lei nº 15.300, de 2025]])*
+- **Art. 22, caput, inciso IV** {#art22_cpt_inc4} #incluido não incorrer nas hipóteses de atividades ou de empreendimentos: *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
+  - **Art. 22, caput, inciso IV, alínea "a"** {#art22_cpt_inc4_alia} #mineracao #incluido minerários, exceto exploração de areia, cascalho, brita e lavra de diamante por faiscação sem desmonte de talude; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
+  - **Art. 22, caput, inciso IV, alínea "b"** {#art22_cpt_inc4_alib} #supressao-vegetacao #incluido que demandem supressão de vegetação nativa que dependa de autorização específica, exceto o caso de corte de árvores isoladas; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
+  - **Art. 22, caput, inciso IV, alínea "c"** {#art22_cpt_inc4_alic} #incluido que envolvam remoção ou realocação de população; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
+  - **Art. 22, caput, inciso IV, alínea "d"** {#art22_cpt_inc4_alid} #incluido localizados em área declarada como contaminada, segundo as normas técnicas vigentes; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
+  - **Art. 22, caput, inciso IV, alínea "e"** {#art22_cpt_inc4_alie} #unidade-conservacao #incluido localizados no interior de unidades de conservação, exceto em Área de Proteção Ambiental (APA); *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
+  - **Art. 22, caput, inciso IV, alínea "f"** {#art22_cpt_inc4_alif} #incluido localizados em áreas reconhecidas como Sítios Ramsar, nos termos da Convenção sobre Zonas Úmidas de Importância Internacional, especialmente como Habitat de Aves Aquáticas (Convenção de Ramsar); *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
+  - **Art. 22, caput, inciso IV, alínea "g"** {#art22_cpt_inc4_alig} #incluido localizados em áreas de bens arqueológicos ou culturais acautelados; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
+  - **Art. 22, caput, inciso IV, alínea "h"** {#art22_cpt_inc4_alih} #terra-indigena #quilombola #incluido localizados em terras indígenas, territórios quilombolas e de comunidades tradicionais, exceto se realizados pela própria comunidade; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
+  - **Art. 22, caput, inciso IV, alínea "i"** {#art22_cpt_inc4_alii} #incluido localizados em áreas suscetíveis à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos, previstas no [[lei-federal-10257-2001#art42-a|art. 42-A da Lei nº 10.257, de 10 de julho de 2001]]; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
+  - **Art. 22, caput, inciso IV, alínea "j"** {#art22_cpt_inc4_alij} #incluido que tiveram ou venham a ter licença de instalação negada por incompatibilidade ambiental da área com o tipo de atividade; e *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
+  - **Art. 22, caput, inciso IV, alínea "k"** {#art22_cpt_inc4_alik} #incluido localizados no mar territorial. *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
 
 **Art. 22, § 1º** {#art22_par1} São considerados atividades e empreendimentos passíveis de licenciamento ambiental pelo procedimento por adesão e compromisso aqueles definidos em ato específico do ente federativo competente, nos termos da [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 8 de dezembro de 2011]].
 
@@ -433,7 +433,7 @@ Alterações: caput, inciso III: revogado pela [[lei-federal-15300-2025|Lei nº 
 
 **Art. 22, § 5º** {#art22_par5} O resultado das vistorias de que trata o § 4º orientará a manutenção ou a revisão do ato referido no § [[#art22_par1|1º]] deste artigo sobre as atividades e os empreendimentos passíveis de licenciamento ambiental pelo procedimento por adesão e compromisso.
 
-**Art. 22, § 6º** {#art22_par6} #incluido A LAC para a extração de recursos naturais deve prever o limite de exploração pelo titular da licença, respeitada a capacidade de suporte do meio ambiente. *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
+**Art. 22, § 6º** {#art22_par6} #incluido A LAC para a extração de recursos naturais deve prever o limite de exploração pelo titular da licença, respeitada a capacidade de suporte do meio ambiente. *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
 
 ###### Art. 23 {#art23}
 Tags: #licenciamento-ambiental #autorizacao-ambiental
@@ -575,9 +575,9 @@ Tags: #estudo-ambiental
 
 ###### Art. 33 {#art33}
 Tags: #estudo-ambiental #diagnostico-ambiental
-Alterações: caput: redação dada pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]]
+Alterações: caput: redação dada pela [[lei-federal-15300-2025#art7_cpt_alt4|Lei nº 15.300, de 2025]]
 
-**Art. 33, caput** {#art33_cpt} #redacao-alterada Independentemente da titularidade de atividade ou de empreendimento sujeito a licenciamento ambiental, no caso de implantação na área de estudo de outro já licenciado, pode ser aproveitado o diagnóstico constante do estudo ambiental anterior, bem como os dados secundários validados e as informações oriundas de sistemas de monitoramento remoto, desde que adequados à realidade da nova atividade ou empreendimento e resguardado o sigilo das informações previsto em lei. *(Redação dada pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
+**Art. 33, caput** {#art33_cpt} #redacao-alterada Independentemente da titularidade de atividade ou de empreendimento sujeito a licenciamento ambiental, no caso de implantação na área de estudo de outro já licenciado, pode ser aproveitado o diagnóstico constante do estudo ambiental anterior, bem como os dados secundários validados e as informações oriundas de sistemas de monitoramento remoto, desde que adequados à realidade da nova atividade ou empreendimento e resguardado o sigilo das informações previsto em lei. *(Redação dada pela [[lei-federal-15300-2025#art7_cpt_alt4|Lei nº 15.300, de 2025]])*
 
 **Art. 33, § 1º** {#art33_par1} Para atender ao disposto no [[#art33_cpt|caput]] deste artigo, a autoridade licenciadora deve manter base de dados, disponibilizada na internet e integrada ao Sistema Nacional de Informações sobre Meio Ambiente (Sinima), conforme o disposto no art. [[#art35|35]] desta Lei.
 
@@ -607,13 +607,13 @@ Tags: #sinima #car #sinaflor
 
 ###### Art. 36 {#art36}
 Tags: #processo-administrativo
-Alterações: § 1º: redação dada pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]] (antigo parágrafo único, renumerado); § 2º: incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]]
+Alterações: § 1º: redação dada pela [[lei-federal-15300-2025#art7_cpt_alt5|Lei nº 15.300, de 2025]] (antigo parágrafo único, renumerado); § 2º: incluído pela [[lei-federal-15300-2025#art7_cpt_alt5|Lei nº 15.300, de 2025]]
 
 **Art. 36, caput** {#art36_cpt} O licenciamento ambiental deve tramitar em meio eletrônico em todas as suas fases.
 
-**Art. 36, § 1º** {#art36_par1} #redacao-alterada Cabe aos entes federativos criar, adotar ou compatibilizar seus sistemas de forma a assegurar o estabelecido no [[#art36_cpt|caput]] deste artigo no prazo de 3 (três) anos, contado da data de entrada em vigor desta Lei. *(Redação dada pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
+**Art. 36, § 1º** {#art36_par1} #redacao-alterada Cabe aos entes federativos criar, adotar ou compatibilizar seus sistemas de forma a assegurar o estabelecido no [[#art36_cpt|caput]] deste artigo no prazo de 3 (três) anos, contado da data de entrada em vigor desta Lei. *(Redação dada pela [[lei-federal-15300-2025#art7_cpt_alt5|Lei nº 15.300, de 2025]])*
 
-**Art. 36, § 2º** {#art36_par2} #incluido A tramitação dos processos em meio eletrônico deve promover a integração da autoridade licenciadora com as autoridades envolvidas, concentrando o fluxo de informações em sistema que ofereça uma interface unificada com o usuário. *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
+**Art. 36, § 2º** {#art36_par2} #incluido A tramitação dos processos em meio eletrônico deve promover a integração da autoridade licenciadora com as autoridades envolvidas, concentrando o fluxo de informações em sistema que ofereça uma interface unificada com o usuário. *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt5|Lei nº 15.300, de 2025]])*
 
 ###### Art. 37 {#art37}
 Tags: #publicacao
@@ -1033,15 +1033,19 @@ Dispositivos cujo texto vem da promulgação (conferidos um a um com o texto do 
 
 ## Histórico de alterações {#historico-alteracoes}
 
-Montado a partir das anotações do Planalto no texto compilado ("Incluído", "Redação dada", "Revogado", "Promulgação partes vetadas"). A base guarda só o texto em vigor; as redações anteriores não são transcritas. As leis alteradoras ainda não estão na base (links pendentes).
+Montado a partir das anotações do Planalto no texto compilado ("Incluído", "Redação dada", "Revogado", "Promulgação partes vetadas"). A base guarda só o texto em vigor; as redações anteriores não são transcritas. A Lei 15.300 está na base; a Lei 15.269 ainda não (link pendente).
 
 | Norma | Dispositivos | Tipo |
 |---|---|---|
 | Promulgação das partes vetadas (5.12.2025, DOU de 8.12.2025) | Art. 3º, XXXV e XXXVI; Art. 4º, § 1º; Art. 8º, III e VII; Art. 9º, § 1º, II, "a", e § 7º; Arts. 10 e 11; Art. 14, §§ 1º, 2º e 5º; Art. 18, § 1º; Art. 22 (exceto o inciso III, ver Lei nº 15.300); Art. 26, §§ 1º, 2º, 3º e 5º; Art. 42, I e III; Art. 43, I, "a" e "c"; Art. 44, I, "a" e "c", e § 6º; Art. 54, §§ 1º e 2º; Art. 58; Art. 61; Art. 65; Art. 66, III | promulgação de partes vetadas (texto no lugar do "(VETADO)") |
 | [[lei-federal-15269-2025|Lei nº 15.269, de 2025]] | Art. 24, parágrafo único (passou a § 1º); Art. 24, §§ 2º e 3º (o § 3º com texto vetado) | inclusão e renumeração |
-| [[lei-federal-15300-2025|Lei nº 15.300, de 2025]] | Art. 3º, caput, incisos XXXVII, XXXVIII e XXXIX; Art. 8º, § 4º; Art. 22, caput, inciso IV (alíneas "a" a "k") e § 6º; Art. 36, § 2º | inclusão |
-| [[lei-federal-15300-2025|Lei nº 15.300, de 2025]] | Art. 22, caput, inciso III | revogação |
-| [[lei-federal-15300-2025|Lei nº 15.300, de 2025]] | Art. 33, caput; Art. 36, § 1º (antigo parágrafo único) | nova redação |
+| [[lei-federal-15300-2025#art7_cpt_alt1|Lei nº 15.300, de 2025]] | Art. 3º, caput, incisos XXXVII, XXXVIII e XXXIX | inclusão |
+| [[lei-federal-15300-2025#art7_cpt_alt2|Lei nº 15.300, de 2025]] | Art. 8º, § 4º | inclusão |
+| [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]] | Art. 22, caput, inciso IV (alíneas "a" a "k") e § 6º | inclusão |
+| [[lei-federal-15300-2025#art7_cpt_alt5|Lei nº 15.300, de 2025]] | Art. 36, § 2º | inclusão |
+| [[lei-federal-15300-2025#art9|Lei nº 15.300, de 2025]] | Art. 22, caput, inciso III | revogação |
+| [[lei-federal-15300-2025#art7_cpt_alt4|Lei nº 15.300, de 2025]] | Art. 33, caput | nova redação |
+| [[lei-federal-15300-2025#art7_cpt_alt5|Lei nº 15.300, de 2025]] | Art. 36, § 1º (antigo parágrafo único) | nova redação (renumeração) |
 
 ## Correspondência com as modalidades paranaenses {#correspondencia-parana}
 
@@ -1057,7 +1061,7 @@ Montado a partir das anotações do Planalto no texto compilado ("Incluído", "R
 *Observações do conversor, não fazem parte do texto da norma; nada foi marcado como revogado por tácita incompatibilidade.*
 
 - **Quem a cita na base.** A [[resolucao-conama-237-1997|Resolução CONAMA 237/1997]] (nota sobre prazos), a [[instrucao-normativa-iat-27-2026|IN IAT 27/2026]] (considerando) e a [[lei-federal-6938-1981#art6_cpt_inc1|Lei 6.938/1981, art. 6º, I]], cuja redação vem do [[#art63|art. 63]] desta Lei e já está compilada no arquivo da PNMA.
-- **Normas alteradas e revogadas fora da base.** O [[#art61|art. 61]] altera o § 3º do art. 36 da Lei 9.985/2000; o [[#art62|art. 62]] altera os arts. 60 e 67 da Lei 9.605/1998; o [[#art66|art. 66]] revoga o § 2º do art. 6º da Lei 7.661/1988, o parágrafo único do art. 67 da Lei 9.605/1998 e os §§ 1º e 2º do art. 14 da Lei 11.428/2006. Como são revogações e alterações parciais, essas leis ficam em `altera` (não em `revoga`). Nenhuma está na base; as relações ficam só aqui e no frontmatter, e os links ficam pendentes.
+- **Normas alteradas e revogadas.** O [[#art61|art. 61]] altera o § 3º do art. 36 da [[lei-federal-9985-2000#art36_par3|Lei 9.985/2000]]; o [[#art62|art. 62]] altera os arts. 60 e 67 da [[lei-federal-9605-1998|Lei 9.605/1998]]; o [[#art66|art. 66]] revoga o § 2º do art. 6º da Lei 7.661/1988, o [[lei-federal-9605-1998#art67_par1u|parágrafo único do art. 67 da Lei 9.605/1998]] e os §§ 1º e 2º do [[lei-federal-11428-2006#art14|art. 14 da Lei 11.428/2006]]. Como são revogações e alterações parciais, essas leis ficam em `altera` (não em `revoga`). As Leis 9.605, 9.985 e 11.428 já estão na base, com as alterações aplicadas nos arquivos delas; a Lei 7.661/1988 não está (link pendente).
 - **Resolução CONAMA 237/1997 (possível incompatibilidade, ponto para decisão humana).** Os prazos de validade do [[#art6|art. 6º]] (LP de 3 a 6 anos; LI de 3 a 6 anos; LO de 5 a 10 anos) divergem dos do [[resolucao-conama-237-1997#art18|art. 18 da Res. CONAMA 237/1997]] (LP até 5 anos; LI até 6 anos; LO de 4 a 10 anos). A Lei 15.190/2025 não revoga a Resolução expressamente, e o art. 66 só lista dispositivos de três leis. A leitura conjunta (e eventual revogação tácita) não foi decidida nesta conversão.
 - **Normas paranaenses na base.** O [[decreto-estadual-9541-2025|Decreto Estadual 9.541/2025]] e a [[lei-estadual-22252-2024|Lei Estadual 22.252/2024]] não foram comparados com esta Lei Geral. A correspondência de siglas está na seção acima.
 
@@ -1068,11 +1072,11 @@ Montado a partir das anotações do Planalto no texto compilado ("Incluído", "R
 **Sobreposição do texto promulgado (págs. 30 a 36).** A pedido de Leo, o texto promulgado foi posto no lugar do respectivo texto vetado da parte superior. O Planalto já imprime, logo abaixo de cada "(VETADO)" tachado, o texto promulgado com a anotação "(Promulgação partes vetadas)"; os 61 parágrafos das págs. 31 a 36 foram conferidos um a um com o texto da parte superior e coincidem palavra por palavra, com três exceções sem diferença de conteúdo: (a) o [[#art22_cpt_inc3|inciso III do art. 22]], tratado abaixo; (b) a aspa de fechamento do ato de promulgação, que não faz parte do texto; (c) a citação do [[#art61|art. 61]] (Lei 9.985/2000), que a promulgação imprime entre aspas simples e a parte superior reproduz com recuo, com o mesmo texto. Em todos os casos o texto vetado tachado ("(VETADO)") foi omitido (decisão de 06/10/2026: a base guarda só o texto em vigor). Onde o PDF mantém "(VETADO)" sem texto promulgado ([[#art24_par3|art. 24, § 3º]], [[#art25_cpt|art. 25, caput e incisos I a VI]]), o "(VETADO)" foi transcrito como impresso, sem a tag `#incluido` nem `#revogado`.
 
 **Pontos para decisão:**
-- **Art. 22, inciso III.** A promulgação (5/12/2025) devolve ao [[#art22|art. 22]] o inciso III ("não ocorrer supressão de vegetação nativa, que depende de autorização específica"). O texto do Planalto da parte superior, porém, mostra esse inciso tachado e "(revogado)" pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]] (22/12/2025, posterior à promulgação), com o novo inciso IV (alíneas "a" a "k") e o § 6º. Foi mantido o texto em vigor do Planalto: [[#art22_cpt_inc3|inciso III]] com `#revogado`, [[#art22_cpt_inc4|inciso IV]] e [[#art22_par6|§ 6º]] com `#incluido`. A sobreposição literal do texto promulgado restauraria o inciso III e anularia a Lei 15.300 nesse ponto: **confirmar com Leo** (e com o texto da Lei 15.300, que não foi lido).
+- **Art. 22, inciso III.** A promulgação (5/12/2025) devolve ao [[#art22|art. 22]] o inciso III ("não ocorrer supressão de vegetação nativa, que depende de autorização específica"). A [[lei-federal-15300-2025#art9|Lei 15.300, art. 9º]] (22/12/2025, posterior à promulgação) revoga esse inciso e, no [[lei-federal-15300-2025#art7_cpt_alt3|art. 7º]], dá ao art. 22 o inciso IV (alíneas "a" a "k") e o § 6º. Foi mantido o texto em vigor: [[#art22_cpt_inc3|inciso III]] com `#revogado`, [[#art22_cpt_inc4|inciso IV]] e [[#art22_par6|§ 6º]] com `#incluido`. O texto da Lei 15.300 foi lido e confirma o que o Planalto mostra. A sobreposição literal do texto promulgado restauraria o inciso III e anularia a Lei 15.300 nesse ponto.
 - **Vigência diferida.** O [[#art67|art. 67]] fixa a vigência "após decorridos 180 (cento e oitenta) dias de sua publicação oficial". Pela contagem simples a partir de 8/8/2025 (edição extra), seriam 4/2/2026; a data não consta do PDF e não foi conferida. Do mesmo modo, os prazos de 4 anos do [[#art35_par4|art. 35, § 4º]] e de 3 anos do [[#art36_par1|art. 36, § 1º]] contam da "data de entrada em vigor desta Lei", e o [[#art60|art. 60]] trata dos processos em curso na data do início da vigência. O PDF não traz anotação de alteração do art. 67.
 - **Renumeração.** O antigo parágrafo único do [[#art24|art. 24]] virou [[#art24_par1|§ 1º]] ([[lei-federal-15269-2025|Lei nº 15.269, de 2025]]), e o do [[#art36|art. 36]] virou [[#art36_par1|§ 1º]] ([[lei-federal-15300-2025|Lei nº 15.300, de 2025]]). Os IDs seguem a numeração atual; qualquer link que aponte para o parágrafo único antigo (`art24_par1u`, `art36_par1u`) deixou de existir.
-- **Leis alteradoras fora da base.** As alterações das [[lei-federal-15269-2025|Lei nº 15.269, de 2025]] e [[lei-federal-15300-2025|Lei nº 15.300, de 2025]] foram registradas só pelas anotações do portal; o texto dessas leis não foi lido. Os links ficam pendentes. Pedir os PDFs, em especial o da Lei 15.300, para conferir também o que a Lei 15.300 mudou além do que o portal anotou.
-- **LAE = Autorização Ambiental (AA).** Leo informou que a equivalência com a DLAM estava errada e que a LAE é, provavelmente, um documento que o IAT não emite, mais próximo da Autorização Ambiental. A tag `#autorizacao-ambiental` foi aplicada aos dispositivos da LAE. Não se aplicou a tag `#dlam` em nenhum ponto: a dispensa de licença da Lei 15.190 (arts. 8º a 11) é tratada nesses artigos e não foi remapeada. Confirmar a equivalência com a AA.
+- **Leis alteradoras.** A [[lei-federal-15300-2025|Lei 15.300/2025]] está na base e as redações do art. 7º dela foram conferidas palavra por palavra com os dispositivos acima. A [[lei-federal-15269-2025|Lei 15.269/2025]] não está na base: suas alterações constam só pelas anotações do portal (link pendente); pedir o PDF para conferir.
+- **LAE = Autorização Ambiental (AA).** Leo informou que a equivalência com a DLAM estava errada e que a LAE é, provavelmente, um documento que o IAT não emite, mais próximo da Autorização Ambiental. A tag `#autorizacao-ambiental` foi aplicada aos dispositivos da LAE. Não se aplicou a tag `#dlam` em nenhum ponto: a dispensa de licença da Lei 15.190 (arts. 8º a 11) é tratada nesses artigos e não foi remapeada. Confirmar a equivalência com a AA. A [[lei-federal-15300-2025|Lei 15.300/2025]] (na base) regula a LAE e o procedimento especial; ver a [[lei-federal-15300-2025#correspondencia-parana|seção de correspondência dela]].
 - **Remissões que não casam com o conteúdo.** (a) O [[#art29_cpt_inc8|art. 29, VIII]] e o [[#art31_par1u|art. 31, parágrafo único]] mandam aplicar a análise de risco "quando estipulado nos termos do § 1º do art. 18", mas o [[#art18_par1|§ 1º do art. 18]], na redação promulgada, não trata de risco. (b) O [[#art16_par4|art. 16, § 4º]] cita a suspensão e o cancelamento da licença "como sanção restritiva de direito, conforme previsto no § 9º do art. 14", mas o [[#art14_par9|§ 9º do art. 14]] só fala em sanções penais e administrativas, sem mencionar suspensão ou cancelamento. As remissões foram mantidas como impressas e os links seguem a letra.
 - **Revogação tácita.** A lei não traz cláusula genérica de revogação das disposições em contrário; o [[#art66|art. 66]] revoga só os três dispositivos listados. Ver "Relação com outras normas" (Res. CONAMA 237/1997).
 
