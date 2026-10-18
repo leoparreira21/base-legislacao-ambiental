@@ -256,7 +256,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#distribuidor-agua-reuso` | 1 |
 | `#distrito-federal` | 1 |
 | `#dlae` | 3 |
-| `#dlam` | 11 |
+| `#dlam` | 10 |
 | `#documentacao` | 15 |
 | `#dof` | 4 |
 | `#dominialidade` | 18 |

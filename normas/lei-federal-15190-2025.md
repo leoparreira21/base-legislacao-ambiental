@@ -14,7 +14,7 @@ ementa: "Dispõe sobre o licenciamento ambiental; regulamenta o inciso IV do § 
 situacao: vigente
 texto: "compilado (atualizado até a Lei nº 15.300/2025, conforme as anotações do Planalto), com o texto das partes vetadas promulgadas em 05/12/2025 aplicado no lugar do texto vetado; sem as redações anteriores"
 nomes_alternativos: ["Lei Geral do Licenciamento Ambiental", "LGLA", "Lei 15.190", "Lei 15.190/2025"]
-aplicacao: "Norma geral e transversal do licenciamento ambiental para todos os entes do Sisnama (observada a LC 140/2011): definições (art. 3º), tipos de licença (LP, LI, LO, LAU, LAC, LOC, LAE) e prazos de validade (arts. 5º a 7º), atividades não sujeitas a licenciamento (arts. 8º a 11), condicionantes (art. 14), procedimentos trifásico, bifásico, em fase única, por adesão e compromisso, especial e corretivo (arts. 18 a 27), EIA/Rima e demais estudos (arts. 28 a 34), informação, publicidade e participação pública (arts. 35 a 41), participação das autoridades envolvidas e anexo de distâncias (arts. 42 a 46), prazos administrativos (arts. 47 a 52) e despesas (art. 53). Altera as Leis 6.938/1981, 9.605/1998 e 9.985/2000. No Paraná: LAU = LAS; LOC = LO-R ou LAS-R; LAE = DLAM (ver a seção de correspondência)."
+aplicacao: "Norma geral e transversal do licenciamento ambiental para todos os entes do Sisnama (observada a LC 140/2011): definições (art. 3º), tipos de licença (LP, LI, LO, LAU, LAC, LOC, LAE) e prazos de validade (arts. 5º a 7º), atividades não sujeitas a licenciamento (arts. 8º a 11), condicionantes (art. 14), procedimentos trifásico, bifásico, em fase única, por adesão e compromisso, especial e corretivo (arts. 18 a 27), EIA/Rima e demais estudos (arts. 28 a 34), informação, publicidade e participação pública (arts. 35 a 41), participação das autoridades envolvidas e anexo de distâncias (arts. 42 a 46), prazos administrativos (arts. 47 a 52) e despesas (art. 53). Altera as Leis 6.938/1981, 9.605/1998 e 9.985/2000. No Paraná: LAU = LAS; LOC = LO-R ou LAS-R; LAE = (provavelmente) Autorização Ambiental, AA, que o Paraná não emite como tal (ver a seção de correspondência)."
 regulamenta: ["[[constituicao-federal-1988]]"]
 regulamentado_por: []
 altera: ["[[lei-federal-6938-1981]]", "[[lei-federal-9605-1998]]", "[[lei-federal-9985-2000]]", "[[lei-federal-7661-1988]]", "[[lei-federal-11428-2006]]"]
@@ -22,7 +22,7 @@ alterado_por: ["[[lei-federal-15269-2025]]", "[[lei-federal-15300-2025]]"]
 revoga: []
 revogado_por: []
 cita: ["[[constituicao-federal-1988]]", "[[decreto-federal-3551-2000]]", "[[decreto-lei-25-1937]]", "[[lei-complementar-federal-140-2011]]", "[[lei-complementar-federal-97-1999]]", "[[lei-federal-10257-2001]]", "[[lei-federal-11105-2005]]", "[[lei-federal-11445-2007]]", "[[lei-federal-11483-2007]]", "[[lei-federal-12305-2010]]", "[[lei-federal-12651-2012]]", "[[lei-federal-3924-1961]]"]
-tags: [abastecimento-publico, agropecuaria, aid, aii, alteracao, ambito-aplicacao, analise-risco, anuencia, apa, aproveitamento-hidreletrico, area-influencia, arquivamento-processo, art-anotacao, atuacao-supletiva, audiencia-publica, auto-infracao, autoridade-envolvida, autorizacao-ambiental, baixo-potencial-poluidor, bem-cultural, cadastro, cancelamento-licenca, car, certidao, certidao-municipal, cnae, competencia, complementacao, condicionante, consulta-publica, conteudo-minimo, contratacao-terceiro, cooperacao-institucional, crime-ambiental, ctf, declaracao-adesao-compromisso, definicao, diagnostico-ambiental, dispensa, distancia-minima, dlam, eia-rima, enquadramento, esgotamento-sanitario, estudo-ambiental, fiscalizacao, impacto-ambiental, incluido, infracao-ambiental, lac, las, lasr, li, licenca-ambiental, licenciamento-ambiental, licenciamento-bifasico, licenciamento-monofasico, licenciamento-municipal, licenciamento-trifasico, lo, logistica-reversa, lor, lp, medida-compensatoria, medida-mitigadora, mineracao, obra-emergencial, outorga, parcelamento-solo, pba, pca, porte, potencial-poluidor, pra, prazo, prioridade, processo-administrativo, prorrogacao-automatica, publicacao, quilombola, rca, rce, redacao-alterada, rede-eletrica, regularizacao, relatorio, renovacao, responsabilidade, responsavel-tecnico, revogacao, revogado, sinaflor, sinima, sisnama, supressao-vegetacao, suspensao-licenca, taxa-ambiental, termo-compromisso, termo-referencia, terra-indigena, tipologia, transferencia-titularidade, transicao, unidade-conservacao, utilidade-publica, validade, vigencia, zona-amortecimento]
+tags: [abastecimento-publico, agropecuaria, aid, aii, alteracao, ambito-aplicacao, analise-risco, anuencia, apa, aproveitamento-hidreletrico, area-influencia, arquivamento-processo, art-anotacao, atuacao-supletiva, audiencia-publica, auto-infracao, autoridade-envolvida, autorizacao-ambiental, baixo-potencial-poluidor, bem-cultural, cadastro, cancelamento-licenca, car, certidao, certidao-municipal, cnae, competencia, complementacao, condicionante, consulta-publica, conteudo-minimo, contratacao-terceiro, cooperacao-institucional, crime-ambiental, ctf, declaracao-adesao-compromisso, definicao, diagnostico-ambiental, dispensa, distancia-minima, eia-rima, enquadramento, esgotamento-sanitario, estudo-ambiental, fiscalizacao, impacto-ambiental, incluido, infracao-ambiental, lac, las, lasr, li, licenca-ambiental, licenciamento-ambiental, licenciamento-bifasico, licenciamento-monofasico, licenciamento-municipal, licenciamento-trifasico, lo, logistica-reversa, lor, lp, medida-compensatoria, medida-mitigadora, mineracao, obra-emergencial, outorga, parcelamento-solo, pba, pca, porte, potencial-poluidor, pra, prazo, prioridade, processo-administrativo, prorrogacao-automatica, publicacao, quilombola, rca, rce, redacao-alterada, rede-eletrica, regularizacao, relatorio, renovacao, responsabilidade, responsavel-tecnico, revogacao, revogado, sinaflor, sinima, sisnama, supressao-vegetacao, suspensao-licenca, taxa-ambiental, termo-compromisso, termo-referencia, terra-indigena, tipologia, transferencia-titularidade, transicao, unidade-conservacao, utilidade-publica, validade, vigencia, zona-amortecimento]
 fonte: "Planalto – texto da Lei nº 15.190/2025 impresso do navegador (36 páginas, Safari/iOS, em 18/10/2026): págs. 1 a 29 com o texto compilado (dispositivos vetados tachados, anotações do portal e Anexo) e págs. 30 a 36 com o texto da promulgação das partes vetadas (DOU de 8.12.2025), enviado por Leo"
 ---
 
@@ -56,7 +56,7 @@ Tags: #licenciamento-ambiental #cooperacao-institucional
 - **Art. 2º, caput, inciso VI** {#art2_cpt_inc6} a cooperação entre os entes federados, nos termos da [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 8 de dezembro de 2011]].
 
 ###### Art. 3º {#art3}
-Tags: #definicao #dlam #las #lor #lasr
+Tags: #definicao #autorizacao-ambiental #las #lor #lasr
 Alterações: caput, incisos XXXVII, XXXVIII e XXXIX: incluídos pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]]
 
 **Art. 3º, caput** {#art3_cpt} Para os efeitos desta Lei, entende-se por:
@@ -86,7 +86,7 @@ Alterações: caput, incisos XXXVII, XXXVIII e XXXIX: incluídos pela [[lei-fede
 - **Art. 3º, caput, inciso XXIII** {#art3_cpt_inc23} #rce Relatório de Caracterização do Empreendimento (RCE): documento a ser apresentado nas hipóteses previstas nesta Lei, que contém caracterização e informações técnicas sobre a instalação e a operação da atividade ou do empreendimento;
 - **Art. 3º, caput, inciso XXIV** {#art3_cpt_inc24} #termo-referencia Termo de Referência (TR): documento emitido pela autoridade licenciadora, que estabelece o escopo dos estudos a serem apresentados pelo empreendedor no licenciamento ambiental para avaliação dos impactos e, quando couber, dos riscos ambientais decorrentes da atividade ou do empreendimento;
 - **Art. 3º, caput, inciso XXV** {#art3_cpt_inc25} #licenca-ambiental licença ambiental: ato administrativo por meio do qual a autoridade licenciadora, consideradas as disposições legais e regulamentares e as normas técnicas aplicáveis ao caso, atesta a viabilidade da instalação, da ampliação e da operação de atividade ou de empreendimento sujeito a licenciamento ambiental e estabelece as condicionantes ambientais cabíveis;
-- **Art. 3º, caput, inciso XXVI** {#art3_cpt_inc26} #dlam Licença Ambiental Especial (LAE): ato administrativo expedido pela autoridade licenciadora que estabelece condicionantes a ser observadas e cumpridas pelo empreendedor para localização, instalação e operação de atividade ou de empreendimento estratégico, ainda que utilizador de recursos ambientais, efetiva ou potencialmente causador de significativa degradação do meio ambiente;
+- **Art. 3º, caput, inciso XXVI** {#art3_cpt_inc26} #autorizacao-ambiental Licença Ambiental Especial (LAE): ato administrativo expedido pela autoridade licenciadora que estabelece condicionantes a ser observadas e cumpridas pelo empreendedor para localização, instalação e operação de atividade ou de empreendimento estratégico, ainda que utilizador de recursos ambientais, efetiva ou potencialmente causador de significativa degradação do meio ambiente;
 - **Art. 3º, caput, inciso XXVII** {#art3_cpt_inc27} #lac Licença Ambiental por Adesão e Compromisso (LAC): licença que atesta a viabilidade da instalação, da ampliação e da operação de atividade ou de empreendimento que observe as condições previstas nesta Lei, mediante declaração de adesão e compromisso do empreendedor com os requisitos preestabelecidos pela autoridade licenciadora;
 - **Art. 3º, caput, inciso XXVIII** {#art3_cpt_inc28} #las Licença Ambiental Única (LAU): licença que, em uma única etapa, atesta a viabilidade da instalação, da ampliação e da operação de atividade ou de empreendimento, aprova as ações de controle e monitoramento ambiental e estabelece condicionantes ambientais para a sua instalação e operação e, quando necessário, para a sua desativação;
 - **Art. 3º, caput, inciso XXIX** {#art3_cpt_inc29} #lp Licença Prévia (LP): licença que atesta, na fase de planejamento, a viabilidade ambiental de atividade ou de empreendimento quanto à sua concepção e localização, e estabelece requisitos e condicionantes ambientais;
@@ -117,7 +117,7 @@ Tags: #licenciamento-ambiental #tipologia #competencia #responsavel-tecnico #art
 **Art. 4º, § 3º** {#art4_par3} A responsabilidade técnica pela atividade e pelo empreendimento de que trata o [[#art4_cpt|caput]] deste artigo será exercida por profissionais habilitados, de nível médio ou superior, com formação compatível com a tipologia, a complexidade e a área de conhecimento da atividade ou do empreendimento e obrigatório registro de sua condição e atuação em documento de responsabilidade técnica perante o respectivo conselho de fiscalização profissional.
 
 ###### Art. 5º {#art5}
-Tags: #licenca-ambiental #lp #li #lo #lac #licenciamento-bifasico #las #lor #lasr #dlam
+Tags: #licenca-ambiental #lp #li #lo #lac #licenciamento-bifasico #las #lor #lasr #autorizacao-ambiental
 
 **Art. 5º, caput** {#art5_cpt} O licenciamento ambiental pode resultar nos seguintes tipos de licença:
 
@@ -127,11 +127,11 @@ Tags: #licenca-ambiental #lp #li #lo #lac #licenciamento-bifasico #las #lor #las
 - **Art. 5º, caput, inciso IV** {#art5_cpt_inc4} #las Licença Ambiental Única (LAU);
 - **Art. 5º, caput, inciso V** {#art5_cpt_inc5} Licença por Adesão e Compromisso (LAC);
 - **Art. 5º, caput, inciso VI** {#art5_cpt_inc6} #lor #lasr Licença de Operação Corretiva (LOC);
-- **Art. 5º, caput, inciso VII** {#art5_cpt_inc7} #dlam Licença Ambiental Especial (LAE).
+- **Art. 5º, caput, inciso VII** {#art5_cpt_inc7} #autorizacao-ambiental Licença Ambiental Especial (LAE).
 
 **Art. 5º, § 1º** {#art5_par1} São requisitos para a emissão da licença ambiental:
 
-- **Art. 5º, § 1º, inciso I** {#art5_par1_inc1} #dlam EIA ou demais estudos ambientais, conforme TR definido pela autoridade licenciadora, para a LP e a LAE;
+- **Art. 5º, § 1º, inciso I** {#art5_par1_inc1} #autorizacao-ambiental EIA ou demais estudos ambientais, conforme TR definido pela autoridade licenciadora, para a LP e a LAE;
 - **Art. 5º, § 1º, inciso II** {#art5_par1_inc2} PBA, acompanhado dos elementos de projeto de engenharia e de relatório de cumprimento das condicionantes ambientais, conforme cronograma físico, para a LI;
 - **Art. 5º, § 1º, inciso III** {#art5_par1_inc3} relatório de cumprimento das condicionantes ambientais, conforme cronograma físico, para a LO;
 - **Art. 5º, § 1º, inciso IV** {#art5_par1_inc4} #las RCA, PCA e elementos técnicos da atividade ou do empreendimento, para a LAU;
@@ -149,13 +149,13 @@ Tags: #licenca-ambiental #lp #li #lo #lac #licenciamento-bifasico #las #lor #las
 **Art. 5º, § 6º** {#art5_par6} As licenças ambientais podem, a critério da autoridade licenciadora, contemplar o objeto das autorizações de supressão de vegetação e de manejo de fauna, observada a legislação pertinente.
 
 ###### Art. 6º {#art6}
-Tags: #licenca-ambiental #validade #prazo #lp #li #lo #lac #las #lor #lasr #dlam
+Tags: #licenca-ambiental #validade #prazo #lp #li #lo #lac #las #lor #lasr #autorizacao-ambiental
 
 **Art. 6º, caput** {#art6_cpt} As licenças ambientais devem ser emitidas com a observância dos seguintes prazos de validade:
 
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} para a LP, no mínimo, 3 (três) anos e, no máximo, 6 (seis) anos, considerado o estabelecido pelo cronograma de elaboração dos planos, dos programas e dos projetos relativos à atividade ou ao empreendimento aprovado pela autoridade licenciadora;
 - **Art. 6º, caput, inciso II** {#art6_cpt_inc2} para a LI e a LP aglutinada à LI do procedimento bifásico (LP/LI), no mínimo, 3 (três) anos e, no máximo, 6 (seis) anos, considerado o estabelecido pelo cronograma de instalação da atividade ou do empreendimento aprovado pela autoridade licenciadora;
-- **Art. 6º, caput, inciso III** {#art6_cpt_inc3} #las #lor #lasr #dlam para a LAU, a LO, a LI aglutinada à LO do procedimento bifásico (LI/LO), a LOC e a LAE, no mínimo, 5 (cinco) anos e, no máximo, 10 (dez) anos, considerados os planos de controle ambiental;
+- **Art. 6º, caput, inciso III** {#art6_cpt_inc3} #las #lor #lasr #autorizacao-ambiental para a LAU, a LO, a LI aglutinada à LO do procedimento bifásico (LI/LO), a LOC e a LAE, no mínimo, 5 (cinco) anos e, no máximo, 10 (dez) anos, considerados os planos de controle ambiental;
 - **Art. 6º, caput, inciso IV** {#art6_cpt_inc4} para a LAC, no mínimo, 5 (cinco) anos e, no máximo, 10 (dez) anos, consideradas as informações apresentadas no RCE.
 
 **Art. 6º, § 1º** {#art6_par1} Os prazos previstos no [[#art6_cpt_inc3|inciso III]] do [[#art6_cpt|caput]] deste artigo devem ser ajustados pela autoridade licenciadora se a atividade ou o empreendimento tiver tempo de finalização inferior a eles.
@@ -348,7 +348,7 @@ Tags: #licenciamento-ambiental #certidao-municipal #outorga
 ### Seção II – Dos Procedimentos
 
 ###### Art. 18 {#art18}
-Tags: #licenciamento-ambiental #licenciamento-trifasico #licenciamento-bifasico #lac #enquadramento #eia-rima #lor #lasr #dlam
+Tags: #licenciamento-ambiental #licenciamento-trifasico #licenciamento-bifasico #lac #enquadramento #eia-rima #lor #lasr #autorizacao-ambiental
 
 **Art. 18, caput** {#art18_cpt} O licenciamento ambiental pode ocorrer:
 
@@ -358,7 +358,7 @@ Tags: #licenciamento-ambiental #licenciamento-trifasico #licenciamento-bifasico 
   - **Art. 18, caput, inciso II, alínea "b"** {#art18_cpt_inc2_alib} fase única; ou
   - **Art. 18, caput, inciso II, alínea "c"** {#art18_cpt_inc2_alic} por adesão e compromisso;
 - **Art. 18, caput, inciso III** {#art18_cpt_inc3} #lor #lasr pelo procedimento corretivo;
-- **Art. 18, caput, inciso IV** {#art18_cpt_inc4} #dlam pelo procedimento especial para atividades ou empreendimentos estratégicos.
+- **Art. 18, caput, inciso IV** {#art18_cpt_inc4} #autorizacao-ambiental pelo procedimento especial para atividades ou empreendimentos estratégicos.
 
 **Art. 18, § 1º** {#art18_par1} Os procedimentos e as modalidades de licenciamento e os tipos de estudo ou de relatório ambiental a serem exigidos devem ser definidos pelas autoridades licenciadoras, no âmbito das competências definidas na [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 8 de dezembro de 2011]], por meio do enquadramento da atividade ou do empreendimento de acordo com os critérios de localização, natureza, porte e potencial poluidor. *(Promulgação partes vetadas)*
 
@@ -436,26 +436,26 @@ Alterações: caput, inciso III: revogado pela [[lei-federal-15300-2025|Lei nº 
 **Art. 22, § 6º** {#art22_par6} #incluido A LAC para a extração de recursos naturais deve prever o limite de exploração pelo titular da licença, respeitada a capacidade de suporte do meio ambiente. *(Incluído pela [[lei-federal-15300-2025|Lei nº 15.300, de 2025]])*
 
 ###### Art. 23 {#art23}
-Tags: #licenciamento-ambiental #dlam
+Tags: #licenciamento-ambiental #autorizacao-ambiental
 
-**Art. 23, caput** {#art23_cpt} #dlam Ao procedimento especial para atividades ou empreendimentos estratégicos aplicam-se as disposições da Seção III deste Capítulo.
+**Art. 23, caput** {#art23_cpt} #autorizacao-ambiental Ao procedimento especial para atividades ou empreendimentos estratégicos aplicam-se as disposições da Seção III deste Capítulo.
 
 ### Seção III – Do Licenciamento Ambiental Especial para Atividades ou Empreendimentos Estratégicos
 
 ###### Art. 24 {#art24}
-Tags: #licenciamento-ambiental #prioridade #aproveitamento-hidreletrico #dlam
+Tags: #licenciamento-ambiental #prioridade #aproveitamento-hidreletrico #autorizacao-ambiental
 Alterações: § 1º: incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]] (reproduz o antigo parágrafo único, renumerado); § 2º: incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]]; § 3º: incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]], com texto vetado
 
-**Art. 24, caput** {#art24_cpt} #dlam O procedimento especial aplica-se a atividades ou a empreendimentos estratégicos, assim definidos em decreto mediante proposta bianual do Conselho de Governo, que dimensionará equipe técnica permanentemente dedicada à função.
+**Art. 24, caput** {#art24_cpt} #autorizacao-ambiental O procedimento especial aplica-se a atividades ou a empreendimentos estratégicos, assim definidos em decreto mediante proposta bianual do Conselho de Governo, que dimensionará equipe técnica permanentemente dedicada à função.
 
 **Art. 24, § 1º** {#art24_par1} #incluido A autoridade licenciadora dará prioridade à análise e à decisão dos respectivos pedidos de licença ambiental das atividades ou dos empreendimentos definidos como estratégicos na forma do [[#art24_cpt|caput]] deste artigo. *(Incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]])*
 
-**Art. 24, § 2º** {#art24_par2} #dlam #incluido O licenciamento ambiental especial deverá ser aplicado às usinas hidrelétricas, inclusive reversíveis, e seus reservatórios, em razão de seu caráter estratégico para a segurança hídrica e energética e estabilidade do Sistema Interligado Nacional (SIN) e para a matriz energética nacional. *(Incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]])*
+**Art. 24, § 2º** {#art24_par2} #autorizacao-ambiental #incluido O licenciamento ambiental especial deverá ser aplicado às usinas hidrelétricas, inclusive reversíveis, e seus reservatórios, em razão de seu caráter estratégico para a segurança hídrica e energética e estabilidade do Sistema Interligado Nacional (SIN) e para a matriz energética nacional. *(Incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]])*
 
 **Art. 24, § 3º** {#art24_par3} (VETADO). *(Incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]])*
 
 ###### Art. 25 {#art25}
-Tags: #prioridade #anuencia #dlam
+Tags: #prioridade #anuencia #autorizacao-ambiental
 
 **Art. 25, caput** {#art25_cpt} (VETADO):
 
@@ -466,7 +466,7 @@ Tags: #prioridade #anuencia #dlam
 - **Art. 25, caput, inciso V** {#art25_cpt_inc5} (VETADO);
 - **Art. 25, caput, inciso VI** {#art25_cpt_inc6} (VETADO).
 
-**Art. 25, parágrafo único** {#art25_par1u} #dlam Deverá ser priorizada, pelas entidades e órgãos públicos de qualquer esfera federativa, a emissão de anuências, de licenças, de autorizações, de certidões, de outorgas e de outros documentos necessários ao licenciamento ambiental especial.:
+**Art. 25, parágrafo único** {#art25_par1u} #autorizacao-ambiental Deverá ser priorizada, pelas entidades e órgãos públicos de qualquer esfera federativa, a emissão de anuências, de licenças, de autorizações, de certidões, de outorgas e de outros documentos necessários ao licenciamento ambiental especial.:
 
 ### Seção IV – Da Regularização por Licença de Operação Corretiva
 
@@ -746,7 +746,7 @@ Tags: #autoridade-envolvida #terra-indigena #quilombola
 ### Seção IX – Dos Prazos Administrativos
 
 ###### Art. 47 {#art47}
-Tags: #prazo #licenca-ambiental #atuacao-supletiva #las #lor #lasr #dlam
+Tags: #prazo #licenca-ambiental #atuacao-supletiva #las #lor #lasr #autorizacao-ambiental
 
 **Art. 47, caput** {#art47_cpt} O processo de licenciamento ambiental deve respeitar os seguintes prazos máximos de análise para emissão da licença, contados da entrega do estudo ambiental pertinente e das demais informações ou documentos requeridos na forma desta Lei:
 
@@ -754,7 +754,7 @@ Tags: #prazo #licenca-ambiental #atuacao-supletiva #las #lor #lasr #dlam
 - **Art. 47, caput, inciso II** {#art47_cpt_inc2} 6 (seis) meses para a LP, para os casos dos demais estudos;
 - **Art. 47, caput, inciso III** {#art47_cpt_inc3} #las #lor #lasr 3 (três) meses para a LI, a LO, a LOC e a LAU; e
 - **Art. 47, caput, inciso IV** {#art47_cpt_inc4} 4 (quatro) meses para as licenças pelo procedimento bifásico em que não se exija EIA;
-- **Art. 47, caput, inciso V** {#art47_cpt_inc5} #dlam 12 (doze) meses para a LAE.
+- **Art. 47, caput, inciso V** {#art47_cpt_inc5} #autorizacao-ambiental 12 (doze) meses para a LAE.
 
 **Art. 47, § 1º** {#art47_par1} Os prazos estipulados no [[#art47_cpt|caput]] deste artigo podem ser alterados em casos específicos, desde que formalmente solicitado pelo empreendedor e haja a concordância da autoridade licenciadora.
 
@@ -1045,11 +1045,11 @@ Montado a partir das anotações do Planalto no texto compilado ("Incluído", "R
 
 ## Correspondência com as modalidades paranaenses {#correspondencia-parana}
 
-*Observação do conversor, a pedido de Leo; não faz parte do texto da norma, que segue a sigla federal.* No contexto paranaense, as siglas abaixo da Lei 15.190/2025 correspondem às seguintes modalidades do Paraná. Cada dispositivo que cita a modalidade federal recebeu também a tag da modalidade paranaense (`#las`, `#lor`, `#lasr`, `#dlam`), e as tags dos artigos reúnem as dos seus dispositivos. A lista abaixo mostra onde a sigla aparece (a sigla, o nome por extenso ou, nas modalidades LOC e LAE, a expressão "licenciamento ambiental corretivo" / "especial" / "procedimento especial").
+*Observação do conversor, a pedido de Leo; não faz parte do texto da norma, que segue a sigla federal.* No contexto paranaense, as siglas abaixo da Lei 15.190/2025 correspondem às seguintes modalidades do Paraná. Cada dispositivo que cita a modalidade federal recebeu também a tag da modalidade paranaense (`#las`, `#lor`, `#lasr`, `#autorizacao-ambiental`), e as tags dos artigos reúnem as dos seus dispositivos. A lista abaixo mostra onde a sigla aparece (a sigla, o nome por extenso ou, nas modalidades LOC e LAE, a expressão "licenciamento ambiental corretivo" / "especial" / "procedimento especial").
 
 - **LAU (Licença Ambiental Única) = LAS** (`#las`): [[#art3_cpt_inc28|Art. 3º, caput, inciso XXVIII]]; [[#art5_cpt_inc4|Art. 5º, caput, inciso IV]]; [[#art5_par1_inc4|Art. 5º, § 1º, inciso IV]]; [[#art6_cpt_inc3|Art. 6º, caput, inciso III]]; [[#art7_par3|Art. 7º, § 3º]]; [[#art15_cpt_inc2|Art. 15, caput, inciso II]]; [[#art16_par1_inc6|Art. 16, § 1º, inciso VI]]; [[#art21_cpt|Art. 21, caput]]; [[#art47_cpt_inc3|Art. 47, caput, inciso III]].
 - **LOC (Licença de Operação Corretiva) = LO-R ou LAS-R** (`#lor`, `#lasr`): .
-- **LAE (Licença Ambiental Especial) = DLAM** (`#dlam`): [[#art3_cpt_inc26|Art. 3º, caput, inciso XXVI]]; [[#art5_cpt_inc7|Art. 5º, caput, inciso VII]]; [[#art5_par1_inc1|Art. 5º, § 1º, inciso I]]; [[#art6_cpt_inc3|Art. 6º, caput, inciso III]]; [[#art18_cpt_inc4|Art. 18, caput, inciso IV]]; [[#art23_cpt|Art. 23, caput]]; [[#art24_cpt|Art. 24, caput]]; [[#art24_par2|Art. 24, § 2º]]; [[#art25_par1u|Art. 25, parágrafo único]]; [[#art47_cpt_inc5|Art. 47, caput, inciso V]].
+- **LAE (Licença Ambiental Especial) ≈ Autorização Ambiental, AA** (`#autorizacao-ambiental`; equivalência provável, não confirmada, e documento que o IAT não emite com essa natureza): [[#art3_cpt_inc26|Art. 3º, caput, inciso XXVI]]; [[#art5_cpt_inc7|Art. 5º, caput, inciso VII]]; [[#art5_par1_inc1|Art. 5º, § 1º, inciso I]]; [[#art6_cpt_inc3|Art. 6º, caput, inciso III]]; [[#art18_cpt_inc4|Art. 18, caput, inciso IV]]; [[#art23_cpt|Art. 23, caput]]; [[#art24_cpt|Art. 24, caput]]; [[#art24_par2|Art. 24, § 2º]]; [[#art25_par1u|Art. 25, parágrafo único]]; [[#art47_cpt_inc5|Art. 47, caput, inciso V]].
 - As demais modalidades usam a mesma sigla no Paraná e não foram remapeadas: LP, LI, LO e LAC.
 
 ## Relação com outras normas {#relacao-outras-normas}
@@ -1072,7 +1072,7 @@ Montado a partir das anotações do Planalto no texto compilado ("Incluído", "R
 - **Vigência diferida.** O [[#art67|art. 67]] fixa a vigência "após decorridos 180 (cento e oitenta) dias de sua publicação oficial". Pela contagem simples a partir de 8/8/2025 (edição extra), seriam 4/2/2026; a data não consta do PDF e não foi conferida. Do mesmo modo, os prazos de 4 anos do [[#art35_par4|art. 35, § 4º]] e de 3 anos do [[#art36_par1|art. 36, § 1º]] contam da "data de entrada em vigor desta Lei", e o [[#art60|art. 60]] trata dos processos em curso na data do início da vigência. O PDF não traz anotação de alteração do art. 67.
 - **Renumeração.** O antigo parágrafo único do [[#art24|art. 24]] virou [[#art24_par1|§ 1º]] ([[lei-federal-15269-2025|Lei nº 15.269, de 2025]]), e o do [[#art36|art. 36]] virou [[#art36_par1|§ 1º]] ([[lei-federal-15300-2025|Lei nº 15.300, de 2025]]). Os IDs seguem a numeração atual; qualquer link que aponte para o parágrafo único antigo (`art24_par1u`, `art36_par1u`) deixou de existir.
 - **Leis alteradoras fora da base.** As alterações das [[lei-federal-15269-2025|Lei nº 15.269, de 2025]] e [[lei-federal-15300-2025|Lei nº 15.300, de 2025]] foram registradas só pelas anotações do portal; o texto dessas leis não foi lido. Os links ficam pendentes. Pedir os PDFs, em especial o da Lei 15.300, para conferir também o que a Lei 15.300 mudou além do que o portal anotou.
-- **LAE = DLAM.** A correspondência foi aplicada como informada por Leo. Observação do conversor: no [[decreto-estadual-9541-2025#art56|Decreto Estadual 9.541/2025, art. 56]], a sigla DLAM designa a "Declaração de Dispensa de Licenciamento Ambiental" (dispensa, não licença especial); confirmar se a equivalência com a Licença Ambiental Especial é essa mesma.
+- **LAE = Autorização Ambiental (AA).** Leo informou que a equivalência com a DLAM estava errada e que a LAE é, provavelmente, um documento que o IAT não emite, mais próximo da Autorização Ambiental. A tag `#autorizacao-ambiental` foi aplicada aos dispositivos da LAE. Não se aplicou a tag `#dlam` em nenhum ponto: a dispensa de licença da Lei 15.190 (arts. 8º a 11) é tratada nesses artigos e não foi remapeada. Confirmar a equivalência com a AA.
 - **Remissões que não casam com o conteúdo.** (a) O [[#art29_cpt_inc8|art. 29, VIII]] e o [[#art31_par1u|art. 31, parágrafo único]] mandam aplicar a análise de risco "quando estipulado nos termos do § 1º do art. 18", mas o [[#art18_par1|§ 1º do art. 18]], na redação promulgada, não trata de risco. (b) O [[#art16_par4|art. 16, § 4º]] cita a suspensão e o cancelamento da licença "como sanção restritiva de direito, conforme previsto no § 9º do art. 14", mas o [[#art14_par9|§ 9º do art. 14]] só fala em sanções penais e administrativas, sem mencionar suspensão ou cancelamento. As remissões foram mantidas como impressas e os links seguem a letra.
 - **Revogação tácita.** A lei não traz cláusula genérica de revogação das disposições em contrário; o [[#art66|art. 66]] revoga só os três dispositivos listados. Ver "Relação com outras normas" (Res. CONAMA 237/1997).
 
