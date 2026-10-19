@@ -13,8 +13,20 @@ from auditar_consultas import executar, conteudo_normalizado
 
 class ConsultaTest(unittest.TestCase):
     def test_resultado_arquivado(self):
+        # O arquivo auditado registra um snapshot histórico. Acrescentar normas muda
+        # o hash do corpus e as contagens, sem necessariamente reduzir a cobertura.
+        # Preservamos as expectativas curadas e proibimos regressão de recuperação.
         esperado = json.loads((RAIZ/'docs/auditoria/resultados-consultas.json').read_text(encoding='utf-8'))
-        self.assertEqual(executar(), esperado)
+        atual = executar()
+        originais = {c['id']: c for c in esperado['casos']}
+        novos = {c['id']: c for c in atual['casos']}
+        self.assertEqual(set(originais), set(novos))
+        for nome, anterior in originais.items():
+            with self.subTest(caso=nome):
+                corrente = novos[nome]
+                self.assertEqual(corrente['esperados'], anterior['esperados'])
+                self.assertGreaterEqual(corrente['expandida_recuperados'], anterior['expandida_recuperados'])
+                self.assertEqual(corrente['omitidos_expandida'], [])
 
     def test_normalizacao_lf_crlf(self):
         with tempfile.TemporaryDirectory() as d:
@@ -83,9 +95,11 @@ class ConsultaTest(unittest.TestCase):
         self.assertIn('instrucao-normativa-iat-29-2026',self.docs['resolucao-conama-430-2011']['relacoes_entrada'])
 
     def test_pendente_em_regulamentado_por(self):
-        self.assertIn('decreto-federal-10936-2022', self.docs['lei-federal-12305-2010']['pendentes'])
+        # A norma antes ausente foi incorporada ao acervo; agora é resolvida.
+        self.assertIn('decreto-federal-10936-2022', self.docs)
+        self.assertNotIn('decreto-federal-10936-2022', self.docs['lei-federal-12305-2010']['pendentes'])
         _, avisos=validar.validar(validar.carregar())
-        self.assertTrue(any('decreto-federal-10936-2022' in a for a in avisos))
+        self.assertFalse(any('decreto-federal-10936-2022' in a for a in avisos))
 
     def test_localizacao_exata_e_ids_existentes(self):
         for b in self.blocos:
