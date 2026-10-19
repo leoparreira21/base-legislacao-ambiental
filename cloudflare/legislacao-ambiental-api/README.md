@@ -26,6 +26,14 @@ Entrada JSON, exemplo:
 
 O mecanismo carrega manifesto e índices do **mesmo commit**, confere hashes SHA256
 e seleciona dispositivos por evidência, hierarquia e remissões explícitas.
+
+Na rota com IA, o Worker não baixa `dispositivos.json` (~29 MB) nem `grafo.json`
+(~7 MB): baixa só `fatias/<norma>.json` das normas que o motor selecionou (até 6 por
+eixo, 4 downloads por vez), cada uma com hash no `manifesto.json`. A fatia, gerada por
+`scripts/gerar_site.py`, traz os dispositivos elegíveis da norma, as três primeiras
+remissões de cada um (filtradas como antes) e a cópia dos destinos que estão em outras
+normas. Uma fatia por norma, e não duas (dispositivos e grafo), porque os casos de
+auditoria selecionam até 26 normas e o plano Free do Workers admite 50 subrequisições.
 A versão do contrato (`consulta-hibrida/1`) é imposta pelo servidor; commits divergentes são rejeitados. A resposta do modelo é aceita somente se os IDs existem no pacote recebido
 e as citações são substrings literais da fonte. Isso **não** prova correção jurídica.
 
@@ -64,8 +72,9 @@ motor usado pelo site. O Worker atual foi implantado via API com
 
 - O pacote de recuperação é limitado a ~20 evidências e considera a
   primeira camada das remissões do grafo, não substituindo análise humana.
-- Carrega índices grandes durante a requisição: avaliar particionamento,
-  KV/R2 e caching persistente se houver problemas de memória ou desempenho.
+- Cada requisição ainda monta o motor de busca a partir de `index.json` e
+  `cnae.json`: ~95 MB de memória viva e a maior parte da CPU, nas duas rotas.
+  É o próximo ponto a reduzir se o limite de 128 MB apertar.
 - Se o modelo retornar texto não conforme ou citações inexistentes,
   responde com erro 503 (não publica fundamentação inválida).
 - `CORS` é restrito aos domínios conhecidos, mas **não** autentica
@@ -82,3 +91,12 @@ node --test testes/worker-contract.test.mjs testes/worker-smoke.test.mjs
 
 Os testes de smoke dependem da API implantada e de conectividade.
 Não incluem a rota de IA paga nem expõem tokens de terceiros.
+
+Memória da rota `/analisar`, sem rede e sem IA (fetch e `env.AI` simulados sobre o
+site gerado; falha acima de 110 MB, de 50 subrequisições ou se passar o motor em
+mais de 15 MB):
+
+```sh
+python scripts/gerar_site.py _site
+node --test testes/worker-memoria.test.mjs
+```
