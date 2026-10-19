@@ -12,7 +12,9 @@
   // Logs do Worker (Workers Logs). Fica ligado aqui: cada deploy aplica esta
   // configuração e sobrescreve a do painel do Cloudflare.
   "observability": {
-    "enabled": true,
-    "head_sampling_rate": 1
+    "logs": {
+      "enabled": true,
+      "invocation_logs": true,
+      "persist": true
+    }
   }
-}
