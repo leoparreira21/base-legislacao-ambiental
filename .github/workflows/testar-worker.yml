@@ -3,9 +3,13 @@ on:
   pull_request:
     paths:
       - 'cloudflare/legislacao-ambiental-api/**'
+      - 'scripts/gerar_site.py'
+      - 'scripts/gerar_grafo.py'
+      - 'site/motor.js'
       - 'testes/worker-smoke.test.mjs'
       - 'testes/worker-contract.test.mjs'
       - 'testes/worker-integracao.test.mjs'
+      - 'testes/worker-memoria.test.mjs'
       - '.github/workflows/testar-worker.yml'
   workflow_dispatch:
 permissions:
@@ -15,6 +19,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -24,5 +31,9 @@ jobs:
         run: node --test testes/worker-contract.test.mjs
       - name: Testar fluxo completo com índices reais e IA simulada
         run: node --test testes/worker-integracao.test.mjs
+      - name: Gerar o site
+        run: python scripts/gerar_site.py _site
+      - name: Medir memória de /analisar (fetch e IA simulados)
+        run: node --test testes/worker-memoria.test.mjs
       - name: Testar Worker publicado sem consumir IA
         run: node --test testes/worker-smoke.test.mjs
