@@ -5,6 +5,7 @@ on:
       - 'cloudflare/legislacao-ambiental-api/**'
       - 'testes/worker-smoke.test.mjs'
       - 'testes/worker-contract.test.mjs'
+      - 'testes/worker-integracao.test.mjs'
       - '.github/workflows/testar-worker.yml'
   workflow_dispatch:
 permissions:
@@ -21,5 +22,7 @@ jobs:
         run: node --check cloudflare/legislacao-ambiental-api/worker.mjs
       - name: Validar contrato JSON sem consumir IA
         run: node --test testes/worker-contract.test.mjs
+      - name: Testar fluxo completo com índices reais e IA simulada
+        run: node --test testes/worker-integracao.test.mjs
       - name: Testar Worker publicado sem consumir IA
         run: node --test testes/worker-smoke.test.mjs
