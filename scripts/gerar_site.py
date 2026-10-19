@@ -23,6 +23,7 @@ import sys
 RAIZ = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(RAIZ / 'scripts'))
 import consultar  # noqa: E402
+import gerar_grafo  # noqa: E402
 
 TAG = re.compile(r'(?<![\w/&])#([a-z0-9][a-z0-9-]+)')
 MOTOR_VERSAO = re.compile(r"^export const MOTOR_VERSAO = '([^']+)';", re.M)
@@ -111,9 +112,12 @@ def main():
         shutil.copy(RAIZ / 'site' / f, saida / f)
     for f in ('sinonimos.json', 'ambitos.json'):
         shutil.copy(RAIZ / 'consultas' / f, saida / f)
+    # Índices para recuperação e expansão do grafo na futura camada de IA.
+    # Independentes do index.json, preservam a compatibilidade do motor atual.
+    gerar_grafo.salvar(saida, RAIZ, indice['commit'])
     # resumo da publicação: clientes conferem o commit e a versão do motor sem baixar o índice
     arquivos = {f: hashlib.sha256((saida / f).read_bytes()).hexdigest()
-                for f in ('index.json', 'motor.js', 'cnae.json', 'sinonimos.json', 'ambitos.json')}
+                for f in ('index.json', 'motor.js', 'cnae.json', 'sinonimos.json', 'ambitos.json', 'dispositivos.json', 'grafo.json')}
     (saida / 'manifesto.json').write_text(json.dumps({
         'commit': indice['commit'],
         'gerado_em': datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='seconds'),

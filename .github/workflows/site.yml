@@ -27,8 +27,12 @@ jobs:
           python-version: '3.12'
       - name: Validar a base
         run: python scripts/validar.py
+      - name: Testar consulta e estrutura do grafo
+        run: python -m unittest discover -s testes -v
       - name: Gerar o site
         run: python scripts/gerar_site.py _site
+      - name: Validar índices de dispositivos e grafo
+        run: python scripts/validar_indices.py _site
       - uses: actions/setup-node@v4
         with:
           node-version: '22'

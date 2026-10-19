@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Resposta fundamentada da consulta híbrida de legislação ambiental",
+  "description": "Contrato previsto para o agente externo. Classificações são hipóteses técnicas; o código valida apenas integridade das evidências, não raciocínio jurídico.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "versao",
+    "commit",
+    "itens",
+    "lacunas"
+  ],
+  "properties": {
+    "versao": {
+      "const": "consulta-hibrida/1"
+    },
+    "commit": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{40}$"
+    },
+    "itens": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "chave",
+          "classificacao",
+          "fundamentacao",
+          "evidencias"
+        ],
+        "properties": {
+          "chave": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+#[A-Za-z0-9_-]+$"
+          },
+          "classificacao": {
+            "enum": [
+              "aplicavel",
+              "condicionada",
+              "contextual",
+              "nao_aplicavel"
+            ]
+          },
+          "fundamentacao": {
+            "type": "string",
+            "minLength": 15
+          },
+          "condicao": {
+            "type": "string"
+          },
+          "evidencias": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "chave",
+                "trecho"
+              ],
+              "properties": {
+                "chave": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9-]+#[A-Za-z0-9_-]+$"
+                },
+                "trecho": {
+                  "type": "string",
+                  "minLength": 10
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "lacunas": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 3
+      }
+    }
+  }
+}
