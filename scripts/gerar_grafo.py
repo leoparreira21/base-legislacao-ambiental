@@ -28,6 +28,7 @@ SECOES_EDITORIAIS = (
     "notas do conversor",
 )
 TAGS_CONTROLE = {"revogado", "redacao-alterada", "incluido", "anexo-pendente"}
+FORMATO_FATIA = "fatia/1"
 
 
 def extrair_tags(texto):
@@ -212,6 +213,48 @@ def gerar(raiz=RAIZ, commit=""):
         "pendentes": [a for a in arestas if not a["resolvido"]],
     }
     return resultado, grafo
+
+
+def tags(d):
+    return list(dict.fromkeys(d["tags_proprias"] + d["tags_herdadas"]))
+
+
+def fatias(dispositivos, grafo, max_remissoes=3):
+    """Uma fatia por norma para a rota /analisar do Worker (cloudflare/).
+
+    Contém só o que o Worker lê: os dispositivos elegíveis da norma e, para cada
+    um, os primeiros destinos de remissão do grafo (`remete_para`, na ordem do
+    grafo) que são elegíveis. Destinos de outra norma vêm copiados em `destinos`,
+    para o Worker não precisar baixar a fatia dela.
+    """
+    itens = {d["chave"]: d for d in dispositivos["dispositivos"]}
+
+    def elegivel(chave):
+        return chave in itens and itens[chave]["elegivel"]
+
+    def registro(d):
+        return {"chave": d["chave"], "id": d["id"], "pai": d["pai"], "texto": d["texto"],
+                "linha_inicio": d["linha_inicio"], "linha_fim": d["linha_fim"], "tags": tags(d)}
+
+    alvos = {}
+    for a in grafo["arestas"]:  # ordenadas por origem, tipo e destino
+        if a["tipo"] == "remete_para" and elegivel(a["origem"]):
+            alvos.setdefault(a["origem"], []).append(a["destino"])
+    saida = {nome: {"formato": FORMATO_FATIA, "commit": dispositivos["commit"], "norma": nome,
+                    "arquivo": doc["arquivo"], "dispositivos": [], "remissoes": {}, "destinos": {}}
+             for nome, doc in dispositivos["documentos"].items()}
+    for d in dispositivos["dispositivos"]:
+        if not d["elegivel"]:
+            continue
+        fatia = saida[d["norma"]]
+        fatia["dispositivos"].append(registro(d))
+        destinos = [k for k in alvos.get(d["chave"], [])[:max_remissoes] if elegivel(k)]
+        if destinos:
+            fatia["remissoes"][d["chave"]] = destinos
+        for k in destinos:
+            if itens[k]["norma"] != d["norma"]:
+                fatia["destinos"][k] = {**registro(itens[k]), "arquivo": itens[k]["arquivo"]}
+    return saida
 
 
 def salvar(destino, raiz=RAIZ, commit=""):

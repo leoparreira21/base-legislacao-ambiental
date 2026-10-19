@@ -7,8 +7,10 @@ import unittest
 RAIZ = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(RAIZ / "scripts"))
 
-from gerar_grafo import gerar, salvar
-from validar_indices import validar as validar_indices
+import copy
+
+from gerar_grafo import fatias, gerar, salvar
+from validar_indices import validar as validar_indices, validar_fatias
 from validar_resposta import validar as validar_resposta
 
 
@@ -88,6 +90,33 @@ class GrafoTeste(unittest.TestCase):
                 for e in gr["arestas"]
             ))
             self.assertEqual(validar_indices(ds, gr, raiz), [])
+
+    def test_fatias_por_norma(self):
+        fs = fatias(self.dispositivos, self.grafo)
+        self.assertEqual(validar_fatias(self.dispositivos, self.grafo, fs), [])
+        self.assertEqual(set(fs), set(self.dispositivos["documentos"]))
+        # revogada não entra; remissão para outra norma vem copiada em destinos
+        self.assertEqual(fs["rdc-anvisa-306-2004"]["dispositivos"], [])
+        origem = "resolucao-conama-430-2011#art1_par1u"
+        self.assertTrue(any(d["chave"] == origem for d in fs["resolucao-conama-430-2011"]["dispositivos"]))
+        externos = [(n, k) for n, f in fs.items() for ds in f["remissoes"].values() for k in ds
+                    if k.split("#")[0] != n]
+        self.assertTrue(externos)
+        self.assertTrue(all(k in fs[n]["destinos"] for n, k in externos))
+
+    def test_fatia_adulterada_e_detectada(self):
+        fs = fatias(self.dispositivos, self.grafo)
+        norma = "resolucao-conama-430-2011"
+        texto = copy.deepcopy(fs)
+        texto[norma]["dispositivos"][0]["texto"] += " acréscimo"
+        self.assertTrue(validar_fatias(self.dispositivos, self.grafo, texto))
+        faltando = copy.deepcopy(fs)
+        del faltando[norma]
+        self.assertTrue(validar_fatias(self.dispositivos, self.grafo, faltando))
+        remissao = copy.deepcopy(fs)
+        origem = next(iter(remissao[norma]["remissoes"]))
+        remissao[norma]["remissoes"][origem] = ["lei-federal-ficticia#art1"]
+        self.assertTrue(validar_fatias(self.dispositivos, self.grafo, remissao))
 
     def test_publicacao_gera_artefatos(self):
         with tempfile.TemporaryDirectory() as pasta:

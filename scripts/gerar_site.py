@@ -112,12 +112,21 @@ def main():
         shutil.copy(RAIZ / 'site' / f, saida / f)
     for f in ('sinonimos.json', 'ambitos.json'):
         shutil.copy(RAIZ / 'consultas' / f, saida / f)
-    # Índices para recuperação e expansão do grafo na futura camada de IA.
+    # Índices para recuperação e expansão do grafo na camada de IA.
     # Independentes do index.json, preservam a compatibilidade do motor atual.
-    gerar_grafo.salvar(saida, RAIZ, indice['commit'])
+    dispositivos, grafo = gerar_grafo.salvar(saida, RAIZ, indice['commit'])
+    # Fatias por norma: o Worker baixa só as das normas selecionadas pelo motor,
+    # porque dispositivos.json e grafo.json inteiros estouram a memória dele.
+    (saida / 'fatias').mkdir()
+    nomes_fatias = []
+    for nome, fatia in gerar_grafo.fatias(dispositivos, grafo).items():
+        nomes_fatias.append(f'fatias/{nome}.json')
+        (saida / nomes_fatias[-1]).write_text(
+            json.dumps(fatia, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
     # resumo da publicação: clientes conferem o commit e a versão do motor sem baixar o índice
     arquivos = {f: hashlib.sha256((saida / f).read_bytes()).hexdigest()
-                for f in ('index.json', 'motor.js', 'cnae.json', 'sinonimos.json', 'ambitos.json', 'dispositivos.json', 'grafo.json')}
+                for f in ('index.json', 'motor.js', 'cnae.json', 'sinonimos.json', 'ambitos.json',
+                          'dispositivos.json', 'grafo.json', *nomes_fatias)}
     (saida / 'manifesto.json').write_text(json.dumps({
         'commit': indice['commit'],
         'gerado_em': datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='seconds'),
