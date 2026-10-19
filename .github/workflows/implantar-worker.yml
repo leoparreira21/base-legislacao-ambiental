@@ -1,0 +1,31 @@
+name: implantar worker
+on:
+  workflow_run:
+    workflows: ["site de busca"]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: implantar-worker
+  cancel-in-progress: false
+jobs:
+  implantar:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verificar sintaxe do Worker
+        run: node --check cloudflare/legislacao-ambiental-api/worker.mjs
+      - name: Publicar no Cloudflare
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: deploy --config cloudflare/legislacao-ambiental-api/wrangler.jsonc
