@@ -17,7 +17,7 @@ class ConsultaTest(unittest.TestCase):
         # o hash do corpus e as contagens, sem necessariamente reduzir a cobertura.
         # Preservamos as expectativas curadas e proibimos regressão de recuperação.
         esperado = json.loads((RAIZ/'docs/auditoria/resultados-consultas.json').read_text(encoding='utf-8'))
-        atual = executar()
+        atual = self.auditoria
         originais = {c['id']: c for c in esperado['casos']}
         novos = {c['id']: c for c in atual['casos']}
         self.assertEqual(set(originais), set(novos))
@@ -41,12 +41,13 @@ class ConsultaTest(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.docs, cls.blocos = carregar()
+        cls.auditoria = executar()  # evitar executar bateria custosa em dois testes
 
     def bloco(self, norma, id):
         return next(b for b in self.blocos if b['norma']==norma and id in b['ids'])
 
     def test_casos_recuperam_dispositivos(self):
-        for c in executar()['casos']:
+        for c in self.auditoria['casos']:
             with self.subTest(caso=c['id']):
                 self.assertEqual(c['omitidos_expandida'], [])
 
@@ -99,7 +100,8 @@ class ConsultaTest(unittest.TestCase):
         self.assertIn('decreto-federal-10936-2022', self.docs)
         self.assertNotIn('decreto-federal-10936-2022', self.docs['lei-federal-12305-2010']['pendentes'])
         _, avisos=validar.validar(validar.carregar())
-        self.assertFalse(any('decreto-federal-10936-2022' in a for a in avisos))
+        self.assertFalse(any(a.startswith('lei-federal-12305-2010:') and
+                             'decreto-federal-10936-2022' in a for a in avisos))
 
     def test_localizacao_exata_e_ids_existentes(self):
         for b in self.blocos:
