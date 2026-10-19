@@ -17,7 +17,7 @@ texto: "compilado (atualizado até a Lei Estadual nº 22.056/2024, conforme as a
 nomes_alternativos: ["Política Estadual de Recursos Hídricos", "PERH", "SEGRH/PR"]
 aplicacao: "Norma transversal da gestão de recursos hídricos no Paraná: fundamentos e diretrizes (arts. 2º a 5º); instrumentos (planos, enquadramento, outorga, cobrança e sistema de informações, arts. 6º a 25); águas subterrâneas (arts. 26 a 29); Sistema Estadual de Gerenciamento de Recursos Hídricos, CERH/PR, comitês de bacia e órgão executivo gestor (arts. 32 a 41); participação de municípios e organizações (arts. 42 a 48); infrações e penalidades (arts. 49 a 52); Fundo Estadual de Recursos Hídricos – FRHI/PR (art. 22)."
 regulamenta: []
-regulamentado_por: []
+regulamentado_por: ["[[decreto-estadual-9957-2014]]"]
 altera: []
 alterado_por: ["[[lei-estadual-16242-2009]]", "[[lei-estadual-17134-2012]]", "[[lei-estadual-19848-2019]]", "[[lei-estadual-21100-2022]]", "[[lei-estadual-21388-2023]]", "[[lei-estadual-22056-2024]]"]
 revoga: []
