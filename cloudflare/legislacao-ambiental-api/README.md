@@ -26,7 +26,7 @@ Entrada JSON, exemplo:
 
 O mecanismo carrega manifesto e índices do **mesmo commit**, confere hashes SHA256
 e seleciona dispositivos por evidência, hierarquia e remissões explícitas.
-A resposta do modelo é aceita somente se os IDs existem no pacote recebido
+A versão do contrato (`consulta-hibrida/1`) é imposta pelo servidor; commits divergentes são rejeitados. A resposta do modelo é aceita somente se os IDs existem no pacote recebido
 e as citações são substrings literais da fonte. Isso **não** prova correção jurídica.
 
 ## Segurança e autorização
@@ -77,7 +77,7 @@ motor usado pelo site. O Worker atual foi implantado via API com
 
 ```sh
 node --check cloudflare/legislacao-ambiental-api/worker.mjs
-node --test testes/worker-smoke.test.mjs
+node --test testes/worker-contract.test.mjs testes/worker-smoke.test.mjs
 ```
 
 Os testes de smoke dependem da API implantada e de conectividade.
