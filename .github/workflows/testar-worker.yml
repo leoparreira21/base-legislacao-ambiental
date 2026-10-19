@@ -8,6 +8,7 @@ on:
       - 'site/motor.js'
       - 'testes/worker-smoke.test.mjs'
       - 'testes/worker-contract.test.mjs'
+      - 'testes/worker-integracao.test.mjs'
       - 'testes/worker-memoria.test.mjs'
       - '.github/workflows/testar-worker.yml'
   workflow_dispatch:
@@ -28,6 +29,8 @@ jobs:
         run: node --check cloudflare/legislacao-ambiental-api/worker.mjs
       - name: Validar contrato JSON sem consumir IA
         run: node --test testes/worker-contract.test.mjs
+      - name: Testar fluxo completo com índices reais e IA simulada
+        run: node --test testes/worker-integracao.test.mjs
       - name: Gerar o site
         run: python scripts/gerar_site.py _site
       - name: Medir memória de /analisar (fetch e IA simulados)
