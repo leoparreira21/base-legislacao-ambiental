@@ -174,7 +174,7 @@ python scripts/validar.py --afetados NOME-DA-NORMA # outras normas que apontam p
 
 ## Consulta e auditoria de recuperação
 
-- [Prompt do agente (v2)](consultas/prompt-agente.md): fonte exclusiva, matriz temática, datas, condições, ressalvas e resposta A–E.
+- [Prompt do agente (v2)](consultas/prompt-agente.md): fonte exclusiva, matriz temática, datas, condições, ressalvas e resposta A–E. A seção 3.1 traz a diretriz de prevalência do limite mais restritivo para parâmetros de controle ambiental (menor limite superior, maior limite inferior), com definição, procedimento e exemplo.
 - [Mapa de cobertura e comandos](consultas/cobertura.md): famílias setoriais, temas transversais e limites do acervo.
 - [Auditoria de 2026-10-05](docs/auditoria/2026-10-05.md): método, evidências, lacunas e mudanças.
 - `python scripts/consultar.py 'renovacao pgrss' --limite 0`: candidatos locais com IDs, contexto, metadados, referências de entrada/saída e links por commit/linha. Não determina aplicabilidade.
