@@ -22,5 +22,19 @@ const {chromium}=require('playwright');
  await page.setViewportSize({width:390,height:844});await page.screenshot({path:'/tmp/assistente-mobile.png',fullPage:true});
  if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1))throw Error('horizontal overflow');
  await page.goto((process.env.UI_BASE_URL||'http://localhost:8765')+'/index.html');await page.locator('#tab-caso').click();if(!await page.locator('#p-livre').isHidden())throw Error('hidden panel');await page.locator('#tab-caso').press('ArrowLeft');if(!await page.locator('#p-caso').isHidden())throw Error('tabs');
+ await page.setViewportSize({width:1440,height:1000});
+ await page.screenshot({path:'/tmp/busca-desktop.png',fullPage:true});
+ const colors=[];
+ for(const mode of ['livre','caso']){
+  await page.locator('#tab-'+mode).click();
+  if(await page.locator('html').getAttribute('data-workspace')!==mode)throw Error('theme');
+  colors.push(await page.evaluate(()=>getComputedStyle(document.documentElement).getPropertyValue('--accent').trim()));
+  await page.screenshot({path:'/tmp/'+mode+'-desktop.png',fullPage:true});
+  await page.setViewportSize({width:390,height:844});
+  if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1))throw Error('search overflow '+mode);
+  await page.screenshot({path:'/tmp/'+mode+'-mobile.png',fullPage:false});
+  await page.setViewportSize({width:1440,height:1000});
+ }
+ if(colors[0]===colors[1])throw Error('themes indistinguishable');
  await browser.close();if(errors.length)throw Error(errors.join('\n'));console.log('UI OK: desktop, mobile 390px, validation, success, citations, XSS, 429, cancellation, stale response, reset/undo, keyboard tabs.');
 })().catch(e=>{console.error(e);process.exit(1)});
