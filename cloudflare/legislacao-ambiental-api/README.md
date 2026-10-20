@@ -84,7 +84,7 @@ o commit do site e o número de fatias.
 
 ## Logs
 
-`observability.enabled` fica `true` no `wrangler.jsonc`. Cada deploy aplica a
+Os logs ficam ligados no `wrangler.jsonc` (`observability.logs`: `enabled`, `invocation_logs` e `persist`, no formato que o painel do Cloudflare sugere). Cada deploy aplica a
 configuração do arquivo e sobrescreve a do painel; por isso ligar ou desligar
 os logs pelo painel não dura até o próximo deploy. Os logs aparecem em
 Workers & Pages > legislacao-ambiental-api > Logs. O Worker registra só as
