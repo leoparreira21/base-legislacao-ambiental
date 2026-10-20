@@ -1,25 +1,28 @@
 <!doctype html>
-<html lang="pt-BR">
+<html lang="pt-BR" data-workspace="livre">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Busca Legislação Ambiental</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap">
 <link rel="stylesheet" href="estilo.css">
 
 <div class="wrap">
-<header>
-  <h1>Busca na base de legislação ambiental</h1>
-  <p>Busca por relevância na base <span class="mono">base-legislacao-ambiental</span>, sem IA. Os resultados são candidatos para leitura: confira o dispositivo, as ressalvas e as remissões antes de concluir.</p>
-<p style="margin-top:16px"><a class="btn" style="display:inline-block;text-decoration:none" href="assistente.html">Conversar com a base ↗</a></p>
+<header class="site-header">
+  <div class="identity"><svg class="eco-icon" viewBox="0 0 32 32" aria-hidden="true"><path d="M26 5C12 3 3 10 7 21c11 6 20-2 19-16Z"/><path d="M5 28 22 11M12 21v-8m0 8h8"/></svg> LEGISLAÇÃO AMBIENTAL · PARANÁ</div>
+  <h1>Conhecimento que orienta. Natureza que importa.</h1>
+  <p>Encontre dispositivos, conecte os fatos do seu caso e consulte as fontes. Sua base de legislação ambiental em três ambientes de pesquisa.</p>
 </header>
-
-<div class="tabs" role="tablist">
-  <button role="tab" id="tab-livre" aria-selected="true" aria-controls="p-livre">Busca livre</button>
-  <button role="tab" id="tab-caso" tabindex="-1" aria-selected="false" aria-controls="p-caso">Análise de caso</button>
+<div class="environment-nav">
+  <div class="tabs" role="tablist" aria-label="Ambientes de pesquisa">
+    <button role="tab" id="tab-livre" aria-selected="true" aria-controls="p-livre"><span class="mode-number" aria-hidden="true">01 /</span> Busca livre</button>
+    <button role="tab" id="tab-caso" tabindex="-1" aria-selected="false" aria-controls="p-caso"><span class="mode-number" aria-hidden="true">02 /</span> Análise de caso</button>
+  </div>
+  <a class="chat-link" href="assistente.html"><span class="mode-number" aria-hidden="true">03 /</span> Chat com a base ↗</a>
 </div>
 
 <section class="panel" id="p-livre" role="tabpanel" aria-labelledby="tab-livre">
+  <div class="mode-heading"><div><span class="eyebrow">EXPLORE A LEGISLAÇÃO</span><h2>O dispositivo certo começa pela busca.</h2><p>Pesquise termos, expressões ou CNAEs e confira os trechos nas fontes.</p></div><span class="mode-tag">BUSCA SEM IA</span></div>
   <form novalidate id="f-livre" class="row">
     <label for="q">O que você procura
       <input type="text" id="q" value="usina de argamassa" autocomplete="off">
@@ -36,6 +39,7 @@
 </section>
 
 <section class="panel" id="p-caso" role="tabpanel" aria-labelledby="tab-caso" hidden>
+  <div class="mode-heading"><div><span class="eyebrow">CONECTE OS FATOS</span><h2>Um caso. Diferentes dimensões ambientais.</h2><p>Organize atividade, água, efluentes e resíduos para pesquisar por eixos.</p></div><span class="mode-tag">BUSCA POR EIXOS</span></div>
   <p class="hint">Preencha o que souber. Cada eixo vira uma busca curta e separada; os termos da atividade só reforçam a ordem, sem excluir normas transversais. Os dados abaixo são um exemplo.</p>
   <form novalidate id="f-caso" class="panel">
     <div class="grid">
@@ -231,6 +235,7 @@ document.getElementById('f-caso').addEventListener('submit',e=>{e.preventDefault
 
 /* ---------- abas ---------- */
 function aba(qual){
+  document.documentElement.dataset.workspace=qual;
   for(const n of ['livre','caso']){
     document.getElementById('tab-'+n).setAttribute('aria-selected',n===qual);
     document.getElementById('tab-'+n).tabIndex=n===qual?0:-1;

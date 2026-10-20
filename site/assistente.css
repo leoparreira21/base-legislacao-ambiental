@@ -70,3 +70,24 @@ footer{display:flex;justify-content:space-between;align-items:center;gap:12px;ma
 @media(forced-colors:active){html{scrollbar-color:auto}}
 
 .turn dl{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;margin-bottom:16px}.turn dt{font-weight:600}.turn dd{margin:0;overflow-wrap:anywhere}
+
+/* O chat compartilha os tokens; painéis se distinguem por profundidade. */
+.masthead{flex-wrap:wrap;padding:24px 0;gap:20px}
+.masthead .tool-nav{gap:8px;flex-wrap:wrap}
+.tool-nav a{min-height:48px;padding:12px;font-size:12px;gap:8px}
+.brand-symbol{border-radius:12px;background:var(--chip);color:var(--accent);border:1px solid var(--accent)}
+.desk{gap:28px;grid-template-columns:330px minmax(0,1fr)}
+.case-panel{align-self:start;padding:22px;background:var(--field);border:1px solid var(--line);border-radius:16px}
+.case-heading h1{font-size:26px;letter-spacing:-.035em}
+.conversation-heading{padding:24px;border:1px solid var(--line);border-top:3px solid var(--accent);border-radius:16px;background:linear-gradient(110deg,var(--surface),var(--halo));flex-wrap:wrap}
+.conversation-heading h2{letter-spacing:-.04em}
+.connection{white-space:normal;padding:6px 10px;border:1px solid var(--line);border-radius:20px;background:var(--field)}
+.intro{padding-top:0}.examples button{border-radius:14px;border-top:2px solid var(--accent);box-shadow:0 8px 22px #0002}
+.examples button:nth-child(2){border-top-color:var(--case)}.examples button:nth-child(2) span{color:var(--case)}
+.reading-key span{background:var(--field);padding:8px 10px;border-radius:6px}
+.composer{border-color:var(--accent);padding:22px;border-radius:16px;box-shadow:0 0 32px #c5adff0a}
+.composer textarea{background:var(--surface);padding:8px;border:1px solid var(--line)}
+.evidence-card{border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:12px;box-shadow:0 8px 22px #0002}
+.question{border:1px solid var(--line)}.gaps{border-color:var(--warn);background:var(--field)}
+@media(max-width:1000px){.desk{grid-template-columns:280px minmax(0,1fr);gap:20px}.case-panel{padding:18px}}
+@media(max-width:700px){.masthead{padding:20px 0}.masthead .tool-nav{display:grid;grid-template-columns:repeat(3,1fr);width:100%;gap:6px}.tool-nav a{padding:10px 6px;flex-direction:column;gap:5px;font-size:11px;text-align:center}.desk{grid-template-columns:1fr}.case-panel{padding:18px}.conversation-heading{padding:20px}.conversation-heading h2{font-size:30px}.examples{grid-template-columns:1fr}.composer{padding:16px}}
