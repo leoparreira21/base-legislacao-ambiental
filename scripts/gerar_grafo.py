@@ -12,6 +12,7 @@ import re
 import sys
 
 from consultar import ler_documento, normalizar
+from classificar_dispositivos import aplicar
 
 RAIZ = Path(__file__).resolve().parents[1]
 ANCORA = re.compile(r"\{#([\w-]+)\}")
@@ -173,6 +174,8 @@ def gerar(raiz=RAIZ, commit=""):
             d["situacao"] = "revogada"
             d["elegivel"] = False
 
+    aplicar(dispositivos, raiz)
+
     arestas = []
     vistos_arestas = set()
 
@@ -234,7 +237,8 @@ def fatias(dispositivos, grafo, max_remissoes=3):
 
     def registro(d):
         return {"chave": d["chave"], "id": d["id"], "pai": d["pai"], "texto": d["texto"],
-                "linha_inicio": d["linha_inicio"], "linha_fim": d["linha_fim"], "tags": tags(d)}
+                "linha_inicio": d["linha_inicio"], "linha_fim": d["linha_fim"], "tags": tags(d),
+                "funcao": {k: d["funcao"][k] for k in ("categorias", "estado")} if d.get("funcao") else None}
 
     alvos = {}
     for a in grafo["arestas"]:  # ordenadas por origem, tipo e destino

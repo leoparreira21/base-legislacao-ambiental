@@ -10,8 +10,9 @@
      m.buscaLivre({q:'usina de argamassa', cnaes:['2330399']});
      m.analiseCaso({campos:{atividade:'clínica odontológica', agua:'rede'}});
 */
-export const MOTOR_VERSAO = '1.2.0';
+export const MOTOR_VERSAO = '1.3.0';
 export const FORMATO_INDICE = 1;
+export const CATEGORIAS_FUNCAO = {enquadramento:'Específicas para enquadramento',licenciamento:'Específicas para licenciamento','obrigacoes-proibicoes':'Obrigações e proibições','limites-parametros':'Limites de parâmetros','normas-gerais':'Normas gerais'};
 export const REPO = 'https://github.com/leoparreira21/base-legislacao-ambiental';
 
 /* Opções do formulário de caso. O valor é a busca que o eixo faz. */
@@ -106,13 +107,13 @@ export function criarMotor({indice, cnae, sinonimos, ambitos, triagemHabilitada=
   /* ---------- índice ---------- */
   const IDX=[], DF=new Map();
   for(const b of DB.blocos){
-    const [norma,l1,l2,id,ctx,tags,txt,k]=b;
+    const [norma,l1,l2,id,ctx,tags,txt,k,funcao]=b;
     const tf=new Map(); const tt=tokens(txt);
     for(const w of tt) tf.set(w,(tf.get(w)||0)+1);
     const cx=new Set(tokens(ctx)), tg=new Set(tokens(tags.join(' ')));
     const todos=new Set([...tf.keys(),...cx,...tg]);
     for(const w of todos) DF.set(w,(DF.get(w)||0)+1);
-    IDX.push({norma,l1,l2,id,ctx,tags,tset:new Set(tags),txt,k,tf,cx,tg,len:tt.length||1,norm:normalizar(txt).join(' '),seq:k===2?tt:null});
+    IDX.push({norma,l1,l2,id,ctx,tags,funcao,tset:new Set(tags),txt,k,tf,cx,tg,len:tt.length||1,norm:normalizar(txt).join(' '),seq:k===2?tt:null});
   }
   /* Tags da base, agrupadas pelos radicais (residuo-servico-saude e residuos-servico-saude
      são a mesma). Tag de uma palavra só genérica (#saude, #recurso) não vira bloco. */
@@ -246,7 +247,7 @@ export function criarMotor({indice, cnae, sinonimos, ambitos, triagemHabilitada=
     const codigo=Q.conceitos.some(c=>/^\d{5,}$/.test(c.rot));
     const uteis=[...termos].filter(w=>!GENERICO.has(w)&&!CNAE_GEN.has(w));
     const motivos=new Map(), porNorma=new Map(), add=(n,b,s)=>{if(!porNorma.has(n))porNorma.set(n,[]);porNorma.get(n).push({b,s})};
-    const ok=b=>{const d=DB.docs[b.norma];return !(F.esfera&&d.e!==F.esfera)&&!(!F.anexos&&d.m)};
+    const ok=b=>{const d=DB.docs[b.norma];return !(F.categoria&&!b.funcao?.categorias.includes(F.categoria))&&!(F.esfera&&d.e!==F.esfera)&&!(!F.anexos&&d.m)};
     // 1) listas de enquadramento que citam o código, o termo de enquadramento ou todos os termos da busca
     const pelaLista=new Set();
     if(F.listas) for(const b of IDX){
@@ -377,7 +378,7 @@ export function criarMotor({indice, cnae, sinonimos, ambitos, triagemHabilitada=
   function trecho(h,Q,X){
     const b=h.b;
     return {id:b.id||null, rotulo:b.id||('L'+b.l1), contexto:b.ctx||'', tipo:TIPO_TRECHO[b.k],
-      texto:b.txt, destaques:destaques(b.txt,Q,X), linhas:[b.l1,b.l2], url:urlTrecho(b), pontuacao:arred(h.s)};
+      funcao:b.funcao||null, texto:b.txt, destaques:destaques(b.txt,Q,X), linhas:[b.l1,b.l2], url:urlTrecho(b), pontuacao:arred(h.s)};
   }
   // Uma norma do resultado. Linhas da mesma tabela: no máximo 2 (as demais ficam resumidas). Até maxTrechos.
   function grupo(g,Q,X,{maxTrechos=40}={}){
@@ -403,7 +404,7 @@ export function criarMotor({indice, cnae, sinonimos, ambitos, triagemHabilitada=
       divisao:{codigo:c.did,descricao:c.div}, secao:{codigo:c.sid,descricao:c.sec},
       compreende:c.comp||'', naoCompreende:c.nao||''};
   }
-  const filtrosDe=f=>({esfera:f?.esfera||'', listas:f?.listas!==false, anexos:f?.anexos!==false});
+  const filtrosDe=f=>({categoria:f?.categoria||'', esfera:f?.esfera||'', listas:f?.listas!==false, anexos:f?.anexos!==false});
   const codigosValidos=ids=>[...new Set((ids||[]).map(x=>String(x).replace(/\D/g,'')))].filter(id=>CNAE_POR_ID.has(id));
   const pagina=(gs,limite,offset)=>gs.slice(offset,limite?offset+limite:undefined);
 

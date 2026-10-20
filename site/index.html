@@ -80,11 +80,12 @@
 </details>
 
 <p class="aviso">Critério fixo de admissão: uma norma setorial (aterro, pátio de caminhões, agrotóxicos, serviços de saúde, indústria etc.) só aparece se a atividade ou a busca citar o setor dela; as demais só aparecem se a ementa citar um termo da busca, ou se uma lista de enquadramento da norma citar o código CNAE, o termo de enquadramento da CNAE ou todos os termos buscados. O critério não afrouxa quando há poucos resultados: resposta vazia indica lacuna da base ou da legislação. Presença na lista não prova aplicabilidade nem vigência. Normas revogadas e comentários do conversor ficam fora.</p>
+<p class="hint"><a href="classificacao.html">Revisar a classificação funcional dos dispositivos ↗</a></p>
 <footer id="foot"></footer>
 </div>
 
 <script type="module">
-import {criarMotor, eixosCaso, OPCOES_CASO, REPO} from './motor.js';
+import {criarMotor, eixosCaso, OPCOES_CASO, REPO, CATEGORIAS_FUNCAO} from './motor.js';
 /* A regra de busca fica em motor.js (o mesmo módulo da API do iatreports). Aqui só a interface. */
 let M=null;
 
@@ -104,6 +105,7 @@ function marcado(t){
 function hitHTML(t,id){
   const rot=t.tipo==='lista'?'lista/tabela':t.tipo==='anexo'?'trecho de anexo':'';
   return `<div class="hit"><div class="loc"><a href="${t.url}" target="_blank" rel="noopener">${esc(t.rotulo)}</a>${t.contexto?'<span>'+esc(t.contexto)+'</span>':''}${rot?'<span class="pill">'+rot+'</span>':''}</div>
+  ${t.funcao?.categorias?.length?`<p class="hint">Funções presentes no trecho · ${t.funcao.estado==='revisada'?'revisão registrada':'sugestão automática'}: ${t.funcao.categorias.map(c=>esc(CATEGORIAS_FUNCAO[c]||c)).join(' · ')}</p>`:''}
   <p class="txt cut" id="${id}">${marcado(t)}</p></div>`;
 }
 let seq=0;
@@ -134,7 +136,8 @@ function explicar(Q){
 
 /* ---------- opções ---------- */
 function opcoesHTML(s){
-  return `<label for="esf${s}">Esfera <select id="esf${s}"><option value="">todas</option><option value="federal">federal</option><option value="estadual">estadual</option></select></label>
+  return `<label for="cat${s}">Função <select id="cat${s}"><option value="">Todas as funções</option>${Object.entries(CATEGORIAS_FUNCAO).map(([id,t])=>`<option value="${id}">${t}</option>`).join('')}</select></label>
+  <label for="esf${s}">Esfera <select id="esf${s}"><option value="">todas</option><option value="federal">federal</option><option value="estadual">estadual</option></select></label>
   <label for="anx${s}"><input type="checkbox" id="anx${s}" checked> incluir anexos</label>
   <label for="lst${s}"><input type="checkbox" id="lst${s}" checked> incluir listas e tabelas</label>`;
 }
@@ -142,7 +145,7 @@ document.getElementById('opts-livre').innerHTML=opcoesHTML('-l');
 document.getElementById('opts-caso').innerHTML=opcoesHTML('-c');
 function filtros(sufixo){
   const g=id=>document.getElementById(id+sufixo);
-  return {esfera:g('esf').value, listas:g('lst').checked, anexos:g('anx').checked};
+  return {categoria:g('cat').value, esfera:g('esf').value, listas:g('lst').checked, anexos:g('anx').checked};
 }
 
 /* ---------- painel de triagem CNAE ---------- */
@@ -207,7 +210,7 @@ function pintarLivre(){
 }
 document.getElementById('f-livre').addEventListener('submit',e=>{e.preventDefault();rodarLivre(true);});
 document.getElementById('mais-livre').addEventListener('click',()=>{limite+=8;pintarLivre();});
-['esf-l','anx-l','lst-l'].forEach(id=>document.getElementById(id).addEventListener('change',()=>rodarLivre(false)));
+['cat-l','esf-l','anx-l','lst-l'].forEach(id=>document.getElementById(id).addEventListener('change',()=>rodarLivre(false)));
 
 /* ---------- caso ---------- */
 const v=id=>document.getElementById(id).value.trim();
@@ -231,7 +234,7 @@ function rodarCaso(nova=true){
   document.getElementById('st-caso').innerHTML=`${E.length} eixos verificados${rotuloX(X)}.`;
 }
 document.getElementById('f-caso').addEventListener('submit',e=>{e.preventDefault();rodarCaso(true);});
-['esf-c','anx-c','lst-c'].forEach(id=>document.getElementById(id).addEventListener('change',()=>rodarCaso(false)));
+['cat-c','esf-c','anx-c','lst-c'].forEach(id=>document.getElementById(id).addEventListener('change',()=>rodarCaso(false)));
 
 /* ---------- abas ---------- */
 function aba(qual){

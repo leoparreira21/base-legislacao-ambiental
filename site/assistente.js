@@ -1,3 +1,4 @@
+import {CATEGORIAS_FUNCAO} from './motor.js';
 import {OPCOES_CASO} from './motor.js';
 const API='https://legislacao-ambiental-api.leoparreira1007.workers.dev';
 const $=id=>document.getElementById(id);
@@ -44,6 +45,7 @@ function renderAnswer(data,container) {
   for(const item of data.itens||[]) {
     const card=element('article',undefined,'evidence-card');
     card.append(element('span',labels[item.classificacao]||'Conferir','classification'),element('h3',titleKey(item.chave)),element('p',item.fundamentacao));
+    if(item.funcao?.categorias?.length) card.append(element('p','Função '+(item.funcao.estado==='revisada'?'revisada':'sugerida')+': '+item.funcao.categorias.map(c=>CATEGORIAS_FUNCAO[c]||c).join(' · '),'hint'));
     const details=element('details');details.append(element('summary','Conferir citação e fonte'));
     for(const ev of item.evidencias||[]) {details.append(element('blockquote',ev.trecho),sourceLink(ev.fonte?.url||item.fonte.url,'Abrir '+ev.chave.split('#')[1]+' na fonte'));}
     card.append(details);
@@ -125,7 +127,7 @@ for(const b of document.querySelectorAll('[data-example]'))b.onclick=()=>{backup
 $('export').onclick=async()=>{
   const text=turns.map(t=>[
     'PERGUNTA: '+t.question,'DADOS: '+JSON.stringify(t.campos),'CNAEs: '+t.cnaes.join(', '),'BASE: '+t.data.commit,
-    ...(t.data.itens||[]).flatMap(i=>[titleKey(i.chave)+' — '+labels[i.classificacao],i.fundamentacao,...i.evidencias.flatMap(e=>['“'+e.trecho+'”',e.fonte.url]),...(i.verificar||[]).map(v=>'Conferir: '+v)]),
+    ...(t.data.itens||[]).flatMap(i=>[titleKey(i.chave)+' — '+labels[i.classificacao],'Funções: '+(i.funcao?.categorias||[]).map(c=>CATEGORIAS_FUNCAO[c]||c).join(', '),i.fundamentacao,...i.evidencias.flatMap(e=>['“'+e.trecho+'”',e.fonte.url]),...(i.verificar||[]).map(v=>'Conferir: '+v)]),
     ...(t.data.fontes||[]).flatMap(f=>['Candidato sem conclusão: '+f.chave,f.texto,f.url]),
     'LACUNAS:',...(t.data.lacunas||[]),'Sugestões sujeitas a revisão técnica.'
   ].join('\n')).join('\n\n-----\n\n');
