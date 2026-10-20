@@ -48,7 +48,7 @@ globalThis.fetch = async url => {
   const nome = String(url).slice(BASE.length);
   try { return new Response(readFileSync(join(SITE, nome))); } catch { return new Response('', {status: 404}); }
 };
-const env = {ANALYZE_TOKEN: TOKEN, AI: {run: async (modelo, {messages}) => {
+const env = {ANALYZE_TOKEN: TOKEN, AI: {run: async (modelo, {input:messages}) => {
   amostra();
   // IA falsa: devolve um item válido citando o primeiro dispositivo recebido
   const e = parse(messages[1].content).evidencias[0];

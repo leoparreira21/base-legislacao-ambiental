@@ -108,7 +108,7 @@ def main():
 
     (saida / 'index.json').write_text(
         json.dumps(indice, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
-    for f in ('index.html', 'motor.js', 'cnae.json'):
+    for f in ('index.html', 'motor.js', 'cnae.json', 'assistente.html', 'assistente.js', 'assistente.css', 'estilo.css'):
         shutil.copy(RAIZ / 'site' / f, saida / f)
     for f in ('sinonimos.json', 'ambitos.json'):
         shutil.copy(RAIZ / 'consultas' / f, saida / f)

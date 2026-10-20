@@ -1,0 +1,8 @@
+{
+  "profile": "product-admin",
+  "sourceRoots": ["site"],
+  "canonicalMap": "UX-CONTRACT.md",
+  "ownership": {"Select/Listbox": "native"},
+  "commands": {"contracts": "node --test testes/worker-contract.test.mjs testes/motor.test.mjs"},
+  "requiredCommands": ["contracts"]
+}

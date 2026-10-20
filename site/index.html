@@ -1,102 +1,30 @@
+<!doctype html>
+<html lang="pt-BR">
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Busca Legislação Ambiental</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap">
-<style>
-/* Layout: uma coluna de ferramenta; abas (Busca livre / Caso) no topo, resultados agrupados por norma, como fichas de processo */
-:root{
-  --bg:#f3f5f4; --surface:#ffffff; --fg:#1d2621; --muted:#5b6a62; --line:#d6dfda;
-  --accent:#1f5f8b; --accent-ink:#ffffff; --mark:#f6e3a1; --chip:#e7eeea; --warn:#8a5a00;
-  --f-display:"Source Serif 4", Georgia, "Times New Roman", serif;
-  --f-body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --f-mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
-  color-scheme: light;
-}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --bg:#111715; --surface:#19211e; --fg:#e3ebe6; --muted:#9aaba2; --line:#2c3833;
-  --accent:#7fb8e0; --accent-ink:#0e1a24; --mark:#5c4a12; --chip:#24302b; --warn:#e5b45a; color-scheme:dark}}
-:root[data-theme="dark"]{
-  --bg:#111715; --surface:#19211e; --fg:#e3ebe6; --muted:#9aaba2; --line:#2c3833;
-  --accent:#7fb8e0; --accent-ink:#0e1a24; --mark:#5c4a12; --chip:#24302b; --warn:#e5b45a; color-scheme:dark}
-*{box-sizing:border-box}
-body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:15px;line-height:1.5}
-.wrap{max-width:860px;margin:0 auto;padding-inline:16px;padding-block:20px 48px;display:flex;flex-direction:column;gap:18px}
-header h1{font-family:var(--f-display);font-size:1.6rem;line-height:1.2;margin:0;text-wrap:balance}
-header p{margin:.3rem 0 0;color:var(--muted);font-size:.9rem;max-width:62ch}
-.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line)}
-.tabs button{font:inherit;font-weight:500;background:none;border:0;border-bottom:2px solid transparent;color:var(--muted);padding:8px 12px;cursor:pointer}
-.tabs button[aria-selected="true"]{color:var(--fg);border-color:var(--accent)}
-.panel{display:flex;flex-direction:column;gap:12px}
-label{font-size:.8rem;font-weight:600;letter-spacing:.02em;color:var(--muted);display:flex;flex-direction:column;gap:4px;min-width:0}
-input[type=text],select,textarea{font:inherit;color:var(--fg);background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:9px 10px;width:100%;font-weight:400;letter-spacing:0}
-textarea{resize:vertical;min-height:2.6em}
-input:focus-visible,select:focus-visible,textarea:focus-visible,button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-.row{display:flex;gap:8px;align-items:flex-end;flex-wrap:wrap}
-.row>label{flex:1 1 220px}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
-.btn{font:inherit;font-weight:600;background:var(--accent);color:var(--accent-ink);border:0;border-radius:6px;padding:9px 16px;cursor:pointer}
-.btn.ghost{background:var(--chip);color:var(--fg);font-weight:500}
-.opts{display:flex;flex-wrap:wrap;gap:14px;font-size:.85rem;color:var(--muted)}
-.opts label{flex-direction:row;align-items:center;gap:6px;font-weight:400;font-size:.85rem;letter-spacing:0}
-.hint{font-size:.82rem;color:var(--muted);margin:0}
-.hint code,.mono{font-family:var(--f-mono);font-size:.8rem}
-.status{font-size:.85rem;color:var(--muted)}
-.exp{font-size:.82rem;color:var(--muted)}
-.exp b{color:var(--fg);font-weight:500}
-.norma{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 16px;display:flex;flex-direction:column;gap:10px;min-width:0}
-.nh{display:flex;justify-content:space-between;gap:10px;align-items:baseline;flex-wrap:wrap}
-.nh h3{font-family:var(--f-display);font-size:1.08rem;line-height:1.3;margin:0;text-wrap:balance}
-.nh .meta{font-size:.75rem;color:var(--muted);display:flex;gap:6px;flex-wrap:wrap}
-.pill{background:var(--chip);border-radius:99px;padding:1px 8px;font-size:.72rem;letter-spacing:.02em}
-.pill.rev{color:var(--warn)}
-.ementa{font-size:.84rem;color:var(--muted);margin:0}
-.hit{border-top:1px solid var(--line);padding-top:9px;display:flex;flex-direction:column;gap:4px;min-width:0}
-.hit .loc{display:flex;gap:8px;flex-wrap:wrap;font-size:.76rem;color:var(--muted);align-items:baseline}
-.hit .loc a{font-family:var(--f-mono);color:var(--accent);text-decoration:none}
-.hit .loc a:hover{text-decoration:underline}
-.hit .txt{margin:0;white-space:pre-line;overflow-wrap:anywhere;font-size:.9rem;max-width:72ch}
-.hit .txt.cut{display:-webkit-box;-webkit-line-clamp:5;line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}
-mark{background:var(--mark);color:inherit;border-radius:2px;padding:0 1px}
-.more{font:inherit;font-size:.82rem;background:none;border:0;color:var(--accent);cursor:pointer;padding:0;align-self:flex-start}
-.axis{display:flex;flex-direction:column;gap:10px}
-.axis>h2{font-family:var(--f-display);font-size:1.15rem;margin:8px 0 0;display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
-.axis>h2 small{font-family:var(--f-body);font-size:.78rem;color:var(--muted);font-weight:400}
-.empty{background:var(--surface);border:1px dashed var(--line);border-radius:8px;padding:14px 16px;color:var(--muted);font-size:.9rem}
-.aviso{font-size:.8rem;color:var(--muted);border-left:3px solid var(--line);padding-left:10px;margin:0}
-footer{font-size:.75rem;color:var(--muted)}
-.cnae{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 14px;display:flex;flex-direction:column;gap:6px}
-.cnae h4{margin:0;font-size:.74rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);font-weight:600}
-.cnae .it{display:flex;flex-direction:column;gap:1px;min-width:0}
-.cnae .op{display:flex;gap:8px;align-items:baseline;font-size:.88rem;line-height:1.35;color:var(--fg);font-weight:400;letter-spacing:0;flex-direction:row}
-.cnae .op input{flex:none;margin:0;transform:translateY(2px)}
-.cnae .op .mono{flex:none}
-.cnae details{margin-left:22px;font-size:.78rem;color:var(--muted)}
-.cnae details summary{font-size:.78rem;line-height:1.6}
-.cnae dl{display:grid;grid-template-columns:max-content minmax(0,1fr);gap:2px 10px;margin:4px 0 6px}
-.cnae dt{font-weight:600}
-.cnae dd{margin:0;white-space:pre-line;overflow-wrap:anywhere}
-details summary{cursor:pointer;font-size:.85rem;color:var(--muted)}
-.syn{font-family:var(--f-mono);font-size:.76rem;white-space:pre-wrap;color:var(--muted);max-height:220px;overflow:auto;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:8px}
-@media (prefers-reduced-motion:no-preference){.norma{animation:in .18s ease-out}@keyframes in{from{transform:translateY(3px)}to{transform:none}}}
-</style>
+<link rel="stylesheet" href="estilo.css">
 
 <div class="wrap">
 <header>
   <h1>Busca na base de legislação ambiental</h1>
   <p>Busca por relevância na base <span class="mono">base-legislacao-ambiental</span>, sem IA. Os resultados são candidatos para leitura: confira o dispositivo, as ressalvas e as remissões antes de concluir.</p>
+<p style="margin-top:16px"><a class="btn" style="display:inline-block;text-decoration:none" href="assistente.html">Conversar com a base ↗</a></p>
 </header>
 
 <div class="tabs" role="tablist">
   <button role="tab" id="tab-livre" aria-selected="true" aria-controls="p-livre">Busca livre</button>
-  <button role="tab" id="tab-caso" aria-selected="false" aria-controls="p-caso">Análise de caso</button>
+  <button role="tab" id="tab-caso" tabindex="-1" aria-selected="false" aria-controls="p-caso">Análise de caso</button>
 </div>
 
 <section class="panel" id="p-livre" role="tabpanel" aria-labelledby="tab-livre">
-  <form id="f-livre" class="row">
+  <form novalidate id="f-livre" class="row">
     <label for="q">O que você procura
       <input type="text" id="q" value="usina de argamassa" autocomplete="off">
     </label>
-    <button class="btn" type="submit">Buscar</button>
+    <button class="btn" type="submit">Buscar</button><button class="btn ghost" type="button" id="limpar-busca">Limpar</button>
   </form>
   <p class="hint">Use poucas palavras. Aspas exigem a expressão exata (<code>"licença de operação"</code>). Códigos CNAE funcionam (<code>7500-1/00</code>). Sinônimos são incluídos automaticamente.</p>
   <div class="opts" id="opts-livre"></div>
@@ -109,10 +37,10 @@ details summary{cursor:pointer;font-size:.85rem;color:var(--muted)}
 
 <section class="panel" id="p-caso" role="tabpanel" aria-labelledby="tab-caso" hidden>
   <p class="hint">Preencha o que souber. Cada eixo vira uma busca curta e separada; os termos da atividade só reforçam a ordem, sem excluir normas transversais. Os dados abaixo são um exemplo.</p>
-  <form id="f-caso" class="panel">
+  <form novalidate id="f-caso" class="panel">
     <div class="grid">
       <label for="c-ativ">Atividade
-        <textarea id="c-ativ" rows="2">clínica odontológica</textarea></label>
+        <textarea class="resize-none" id="c-ativ" rows="2">clínica odontológica</textarea></label>
       <label for="c-cnae">CNAE, se souber (senão a página procura pela atividade)
         <input type="text" id="c-cnae" value=""></label>
       <label for="c-mod">Modalidade / requerimento
@@ -125,9 +53,9 @@ details summary{cursor:pointer;font-size:.85rem;color:var(--muted)}
         <select id="c-loc"></select></label>
     </div>
     <label for="c-res">Resíduos gerados
-      <textarea id="c-res" rows="2">resíduos de serviços de saúde, perfurocortantes, revelador e fixador</textarea></label>
+      <textarea class="resize-none" id="c-res" rows="2">resíduos de serviços de saúde, perfurocortantes, revelador e fixador</textarea></label>
     <label for="c-out">Outras fontes de impacto (emissões, ruído, produtos químicos, alterações desde a última licença)
-      <textarea id="c-out" rows="2">raio-x odontológico, revelação de filmes</textarea></label>
+      <textarea class="resize-none" id="c-out" rows="2">raio-x odontológico, revelação de filmes</textarea></label>
     <div class="row"><button class="btn" type="submit">Analisar caso</button></div>
   </form>
   <div class="cnae" id="cn-c" hidden></div>
@@ -270,7 +198,7 @@ function pintarLivre(){
   document.getElementById('st-livre').textContent=grupos.length?`${grupos.length} normas, ${tot} trechos. Mais pertinentes primeiro.`:'';
   const r=document.getElementById('res-livre');
   r.innerHTML=grupos.length?grupos.slice(0,limite).map(g=>normaHTML(g,Q,X,3)).join(''):
-    `<div class="empty">Nenhuma norma da base trata deste tema. A busca não afrouxa o critério para trazer resultados; isso indica lacuna na base ou na legislação.</div>`;
+    `<div class="empty">Nenhum resultado encontrado com estes termos. Tente palavras mais específicas; ausência de resultado não prova ausência de norma aplicável.</div>`;
   document.getElementById('mais-livre').hidden=grupos.length<=limite;
 }
 document.getElementById('f-livre').addEventListener('submit',e=>{e.preventDefault();rodarLivre(true);});
@@ -305,6 +233,7 @@ document.getElementById('f-caso').addEventListener('submit',e=>{e.preventDefault
 function aba(qual){
   for(const n of ['livre','caso']){
     document.getElementById('tab-'+n).setAttribute('aria-selected',n===qual);
+    document.getElementById('tab-'+n).tabIndex=n===qual?0:-1;
     document.getElementById('p-'+n).hidden=n!==qual;
   }
   if(qual==='caso'&&M&&!document.getElementById('res-caso').innerHTML) rodarCaso();
@@ -312,6 +241,9 @@ function aba(qual){
 document.getElementById('tab-livre').onclick=()=>aba('livre');
 document.getElementById('tab-caso').onclick=()=>aba('caso');
 if(location.hash==='#caso') aba('caso');
+document.getElementById('limpar-busca').onclick=()=>{const q=document.getElementById('q');q.value='';rodarLivre();q.focus();};
+document.querySelector('.tabs').addEventListener('keydown',e=>{if(['ArrowLeft','ArrowRight','Home','End'].includes(e.key)){e.preventDefault();const next=e.key==='Home'?'livre':e.key==='End'?'caso':e.target.id==='tab-livre'?'caso':'livre';aba(next);document.getElementById('tab-'+next).focus();}});
+
 
 /* ---------- carga ---------- */
 const pegar=u=>fetch(u).then(r=>{if(!r.ok)throw new Error(u+' '+r.status);return r.json()});
@@ -328,3 +260,5 @@ Promise.all([pegar('index.json'),pegar('cnae.json'),pegar('sinonimos.json'),pega
   document.getElementById('st-livre').textContent='Não foi possível carregar os dados ('+err.message+'). Recarregue a página.';
 });
 </script>
+
+</html>
