@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-BR">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Revisão funcional · Legislação ambiental</title>
+<link rel="stylesheet" href="estilo.css">
+<style>
+.checks{display:flex;flex-wrap:wrap;gap:12px}.checks label{display:flex;flex-direction:row;align-items:center;gap:6px}
+.review-text{white-space:pre-wrap;overflow-wrap:anywhere;max-height:320px;overflow:auto}
+.toolbar{position:sticky;top:0;background:var(--bg);padding-block:10px;z-index:1}
+</style>
+<div class="wrap">
+<header><p><a href="index.html">← Voltar à busca</a> · <a href="assistente.html">Chat com a base</a></p>
+<h1>Função de cada dispositivo</h1>
+<p>Pré-classificação editorial para sua conferência. Um dispositivo pode cumprir várias funções. A categoria não confirma aplicabilidade nem vigência.</p></header>
+<details><summary>Critérios e como registrar sua revisão</summary>
+<ul>
+<li>Enquadramento: atividade, porte, potencial poluidor, sujeição ou dispensa.</li>
+<li>Licenciamento: modalidade, rito, estudos, documentos e prazos da licença.</li>
+<li>Obrigações e proibições: condutas exigidas, condicionadas ou vedadas.</li>
+<li>Limites de parâmetros: padrões quantitativos ambientais, concentração, emissão e qualidade. Limiares de porte pertencem ao enquadramento.</li>
+<li>Normas gerais: princípios, definições e disposições gerais; também é a sugestão residual quando as regras não reconhecem outra função.</li>
+</ul>
+<p>As regras leem o próprio dispositivo; algumas linhas numéricas usam o cabeçalho do pai. “Sem sinal específico” requer atenção especial. Não há porcentagem de confiança jurídica.</p>
+<p>Marque as categorias e clique em “Confirmar revisão”. Exporte ao terminar. As alterações desta sessão só serão incorporadas à base quando o JSON exportado substituir <code>consultas/classificacao-revisada.json</code> no repositório e o site for publicado. A revisão é vinculada à redação por SHA-256; mudanças no texto exigem nova conferência.</p>
+</details>
+<div class="panel toolbar">
+<div class="grid">
+<label>Pesquisar ID ou texto<input type="text" id="consulta" autocomplete="off"></label>
+<label>Norma<select id="norma"><option value="">Todas</option></select></label>
+<label>Categoria<select id="categoria"><option value="">Todas</option></select></label>
+<label>Revisão<select id="estado"><option value="">Todas</option><option value="sugerida">Pendentes</option><option value="revisada">Revisadas</option><option value="desatualizada">Redação alterada após revisão</option></select></label>
+</div>
+<div class="row"><button class="btn" id="exportar" disabled>Exportar revisões</button><label>Importar revisões JSON<input type="file" id="importar" accept="application/json,.json"></label></div>
+</div>
+<p id="status" role="status" aria-live="polite">Carregando dispositivos…</p>
+<p id="erro" role="alert" hidden></p>
+<div id="resultados" class="panel"></div>
+<div class="row"><button class="btn ghost" id="anterior" disabled>Anterior</button><span id="pagina"></span><button class="btn ghost" id="proxima" disabled>Próxima</button></div>
+</div>
+<script type="module" src="classificacao.js"></script>
+</html>

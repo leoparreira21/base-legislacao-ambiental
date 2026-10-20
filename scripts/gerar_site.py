@@ -24,6 +24,7 @@ RAIZ = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(RAIZ / 'scripts'))
 import consultar  # noqa: E402
 import gerar_grafo  # noqa: E402
+from classificar_dispositivos import relatorio
 
 TAG = re.compile(r'(?<![\w/&])#([a-z0-9][a-z0-9-]+)')
 MOTOR_VERSAO = re.compile(r"^export const MOTOR_VERSAO = '([^']+)';", re.M)
@@ -108,13 +109,28 @@ def main():
 
     (saida / 'index.json').write_text(
         json.dumps(indice, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
-    for f in ('index.html', 'motor.js', 'cnae.json', 'assistente.html', 'assistente.js', 'assistente.css', 'estilo.css'):
+    for f in ('index.html', 'motor.js', 'cnae.json', 'assistente.html', 'assistente.js', 'assistente.css', 'estilo.css', 'classificacao.html', 'classificacao.js'):
         shutil.copy(RAIZ / 'site' / f, saida / f)
     for f in ('sinonimos.json', 'ambitos.json'):
         shutil.copy(RAIZ / 'consultas' / f, saida / f)
     # Índices para recuperação e expansão do grafo na camada de IA.
     # Independentes do index.json, preservam a compatibilidade do motor atual.
     dispositivos, grafo = gerar_grafo.salvar(saida, RAIZ, indice['commit'])
+    # Metadados funcionais separados do texto legal; revisão por ID exato.
+    (saida / 'classificacao.json').write_text(json.dumps(
+        relatorio(dispositivos['dispositivos'], indice['commit']),
+        ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
+    por_norma = collections.defaultdict(list)
+    for d in dispositivos['dispositivos']:
+        if 'funcao' in d:
+            por_norma[d['norma']].append(d)
+    for b in indice['blocos']:
+        ds = [d for d in por_norma[b[0]] if b[1] <= d['linha_inicio'] <= b[2]]
+        categorias = list(dict.fromkeys(c for d in ds for c in d['funcao']['categorias']))
+        b.append({'categorias': categorias, 'estado': 'revisada' if ds and
+                  all(d['funcao']['estado'] == 'revisada' for d in ds) else 'sugerida'})
+    (saida / 'index.json').write_text(json.dumps(indice, ensure_ascii=False,
+        separators=(',', ':')), encoding='utf-8')
     # Fatias por norma: o Worker baixa só as das normas selecionadas pelo motor,
     # porque dispositivos.json e grafo.json inteiros estouram a memória dele.
     (saida / 'fatias').mkdir()
@@ -126,7 +142,7 @@ def main():
     # resumo da publicação: clientes conferem o commit e a versão do motor sem baixar o índice
     arquivos = {f: hashlib.sha256((saida / f).read_bytes()).hexdigest()
                 for f in ('index.json', 'motor.js', 'cnae.json', 'sinonimos.json', 'ambitos.json',
-                          'dispositivos.json', 'grafo.json', *nomes_fatias)}
+                          'dispositivos.json', 'grafo.json', 'classificacao.json', *nomes_fatias)}
     (saida / 'manifesto.json').write_text(json.dumps({
         'commit': indice['commit'],
         'gerado_em': datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='seconds'),

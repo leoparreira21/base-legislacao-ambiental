@@ -80,7 +80,7 @@ export function selecionarEvidencias(result, fatias, commit) {
     if(size<40) continue;
     const texto=d.texto.slice(0,size); budget-=size;
     evidencias.push({chave:d.chave,papel,eixo,texto,truncado:size<d.texto.length,
-      tags:d.tags.slice(0,12),elegivel:true,arquivo:d.arquivo,linhas:[d.linha_inicio,d.linha_fim],
+      funcao:d.funcao?{categorias:d.funcao.categorias,estado:d.funcao.estado}:null, tags:d.tags.slice(0,12),elegivel:true,arquivo:d.arquivo,linhas:[d.linha_inicio,d.linha_fim],
       url:'https://github.com/leoparreira21/base-legislacao-ambiental/blob/'+commit+'/'+d.arquivo+'#L'+d.linha_inicio+'-L'+d.linha_fim});
   }
   const lacunas=[];

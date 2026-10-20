@@ -37,7 +37,7 @@ jobs:
         with:
           node-version: '22'
       - name: Testar o motor de busca
-        run: node --test testes/motor.test.mjs
+        run: node --test testes/motor.test.mjs testes/classificacao.test.mjs
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
