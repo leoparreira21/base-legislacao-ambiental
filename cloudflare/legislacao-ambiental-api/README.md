@@ -56,17 +56,41 @@ antes de permitir uso de terceiros.
 Não há cobrança pela chamada lexical; Workers AI utiliza a franquia da conta
 e pode gerar cobrança conforme o plano e volume.
 
-## Implantação por código-fonte
+## Implantação
 
-A partir da raiz do repositório, executar:
+**Automática (recomendada):** o workflow `.github/workflows/implantar-worker.yml`
+roda depois que o `site de busca` publica o site no Pages com sucesso, e implanta
+este Worker com `wrangler deploy`. Assim o Worker novo só entra no ar quando os
+arquivos que ele lê (como `fatias/`) já estão publicados. Também pode ser
+disparado à mão em Actions > implantar worker > Run workflow.
+
+Precisa de dois segredos do repositório (Settings > Secrets and variables >
+Actions): `CLOUDFLARE_API_TOKEN` (token do Cloudflare criado com o modelo "Edit
+Cloudflare Workers") e `CLOUDFLARE_ACCOUNT_ID`. O segredo `ANALYZE_TOKEN` fica
+no Cloudflare e não é alterado pelo deploy.
+
+**Manual:** a partir da raiz do repositório:
 
 ```sh
 npx wrangler deploy --config cloudflare/legislacao-ambiental-api/wrangler.jsonc
 ```
 
 A importação `../../site/motor.js` permite que Wrangler inclua o mesmo
-motor usado pelo site. O Worker atual foi implantado via API com
-`worker.mjs` + `motor.mjs`, que tem o mesmo conteúdo de `site/motor.js`.
+motor usado pelo site. Não implante pelo editor do painel nem pela API com
+arquivos avulsos: o código publicado deixa de corresponder ao repositório.
+
+Para conferir a versão no ar: `GET /` mostra `versao`, e `GET /health` mostra
+o commit do site e o número de fatias.
+
+## Logs
+
+Os logs ficam ligados no `wrangler.jsonc` (`observability.logs`: `enabled`, `invocation_logs` e `persist`, no formato que o painel do Cloudflare sugere). Cada deploy aplica a
+configuração do arquivo e sobrescreve a do painel; por isso ligar ou desligar
+os logs pelo painel não dura até o próximo deploy. Os logs aparecem em
+Workers & Pages > legislacao-ambiental-api > Logs. O Worker registra só as
+falhas (`evento: falha_consulta`, rota e motivo), nunca o token nem o corpo
+da consulta. Erros do próprio Cloudflare, como limite de CPU ou memória,
+aparecem no registro de cada chamada (campo de resultado da invocação).
 
 ## Limitações atuais
 

@@ -9,7 +9,13 @@
   "ai": {
     "binding": "AI"
   },
+  // Logs do Worker (Workers Logs). Fica ligado aqui: cada deploy aplica esta
+  // configuração e sobrescreve a do painel do Cloudflare.
   "observability": {
-    "enabled": false
+    "logs": {
+      "enabled": true,
+      "invocation_logs": true,
+      "persist": true
+    }
   }
 }
