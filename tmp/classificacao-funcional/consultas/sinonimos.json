@@ -1,0 +1,262 @@
+{
+ "_leia": "Sinônimos da busca do site. Quando a busca contém a chave, os termos da lista também contam, com peso menor. Escreva sem acento.",
+ "sinonimos": {
+  "clinica": [
+   "servico saude",
+   "estabelecimento saude"
+  ],
+  "consultorio": [
+   "servico saude",
+   "estabelecimento saude"
+  ],
+  "odontologica": [
+   "servico saude",
+   "odontologico"
+  ],
+  "hospital": [
+   "servico saude",
+   "estabelecimento saude"
+  ],
+  "laboratorio": [
+   "servico saude",
+   "analise clinica"
+  ],
+  "veterinaria": [
+   "servico saude",
+   "animal"
+  ],
+  "farmacia": [
+   "servico saude",
+   "medicamento"
+  ],
+  "exame": [
+   "servico saude",
+   "diagnostico"
+  ],
+  "raio x": [
+   "radiologia",
+   "revelador",
+   "fixador",
+   "imagem"
+  ],
+  "perfurocortante": [
+   "grupo e",
+   "rss"
+  ],
+  "revelador": [
+   "fixador",
+   "grupo b",
+   "quimico"
+  ],
+  "residuo servico saude": [
+   "rss",
+   "pgrss",
+   "grupo a",
+   "grupo b",
+   "grupo e"
+  ],
+  "fecularia": [
+   "mandioca",
+   "fecula",
+   "amido"
+  ],
+  "mandioca": [
+   "fecularia",
+   "fecula",
+   "farinha"
+  ],
+  "defensivo": [
+   "agrotoxico"
+  ],
+  "agrotoxico": [
+   "defensivo",
+   "fitossanitario",
+   "agroquimico"
+  ],
+  "esgoto": [
+   "efluente sanitario",
+   "efluente",
+   "rede coletora"
+  ],
+  "efluente": [
+   "lancamento",
+   "esgoto",
+   "despejo"
+  ],
+  "poco": [
+   "agua subterranea",
+   "outorga",
+   "captacao",
+   "poco tubular"
+  ],
+  "lixo": [
+   "residuo solido",
+   "rejeito"
+  ],
+  "entulho": [
+   "residuo construcao civil",
+   "pgrcc"
+  ],
+  "oficina": [
+   "manutencao",
+   "reparacao",
+   "mecanica"
+  ],
+  "lava jato": [
+   "lavagem veiculo"
+  ],
+  "lavagem": [
+   "lavagem veiculo",
+   "agua residuaria"
+  ],
+  "posto combustivel": [
+   "combustivel",
+   "tanque",
+   "armazenamento subterraneo"
+  ],
+  "frigorifico": [
+   "abate",
+   "abatedouro",
+   "carne"
+  ],
+  "abatedouro": [
+   "abate",
+   "frigorifico"
+  ],
+  "laticinio": [
+   "leite",
+   "soro"
+  ],
+  "caldeira": [
+   "emissao atmosferica",
+   "combustao",
+   "fonte fixa"
+  ],
+  "chamine": [
+   "emissao atmosferica",
+   "fonte fixa"
+  ],
+  "fumaca": [
+   "emissao atmosferica",
+   "material particulado"
+  ],
+  "poeira": [
+   "material particulado",
+   "emissao fugitiva"
+  ],
+  "ruido": [
+   "som",
+   "acustico",
+   "sonoro"
+  ],
+  "renovacao": [
+   "rlo",
+   "prorrogacao"
+  ],
+  "licenca": [
+   "licenciamento"
+  ],
+  "licenciamento": [
+   "licenca"
+  ],
+  "rlo": [
+   "renovacao licenca operacao"
+  ],
+  "lo": [
+   "licenca operacao"
+  ],
+  "lp": [
+   "licenca previa"
+  ],
+  "li": [
+   "licenca instalacao"
+  ],
+  "las": [
+   "licenca ambiental simplificada"
+  ],
+  "manancial": [
+   "ada",
+   "aid",
+   "aii",
+   "abastecimento publico"
+  ],
+  "karst": [
+   "carste",
+   "carstico"
+  ],
+  "carste": [
+   "karst",
+   "carstico"
+  ],
+  "app": [
+   "preservacao permanente"
+  ],
+  "uc": [
+   "unidade conservacao"
+  ],
+  "chorume": [
+   "lixiviado",
+   "percolado"
+  ],
+  "fossa": [
+   "sumidouro",
+   "tanque septico",
+   "infiltracao"
+  ],
+  "ete": [
+   "estacao tratamento esgoto",
+   "tratamento efluente"
+  ],
+  "mtr": [
+   "manifesto transporte residuo"
+  ],
+  "container": [
+   "conteiner",
+   "patio container"
+  ],
+  "caminhao": [
+   "patio caminhao",
+   "veiculo pesado"
+  ],
+  "oleo usado": [
+   "oleo lubrificante",
+   "olur",
+   "oleos graxas"
+  ],
+  "oleo": [
+   "oleos graxas",
+   "separador agua oleo"
+  ],
+  "gerenciamento residuo": [
+   "pgrs",
+   "pgrss",
+   "plano gerenciamento"
+  ],
+  "industria": [
+   "industrial",
+   "empreendimento industrial"
+  ],
+  "agua": [
+   "abastecimento",
+   "captacao",
+   "recurso hidrico"
+  ],
+  "poluicao": [
+   "impacto ambiental",
+   "degradacao"
+  ],
+  "aterro": [
+   "disposicao final",
+   "destinacao final"
+  ],
+  "gado leiteiro": [
+   "bovinocultura leite"
+  ],
+  "gado de corte": [
+   "bovinocultura corte"
+  ],
+  "criacao de gado": [
+   "bovinocultura"
+  ]
+ }
+}

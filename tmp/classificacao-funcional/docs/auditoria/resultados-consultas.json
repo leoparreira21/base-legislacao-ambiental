@@ -1,0 +1,321 @@
+{
+  "metodo": "Frase literal inicial versus união de consultas temáticas cumulativas; todos os resultados, sem top-k. Casos e consultas curados juntos; não é benchmark independente nem execução de LLM.",
+  "corpus_sha256": "922c04bf77fc15a9d5f31ad7315de86c9678db4c46470a1b16f85564ef27bdc5",
+  "documentos": 40,
+  "normas": 17,
+  "anexos": 22,
+  "comentarios": 1,
+  "referencias_pendentes_distintas": 214,
+  "casos": [
+    {
+      "id": "saude-rlo",
+      "esperados": 5,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 5,
+      "blocos_inicial": 0,
+      "blocos_expandida": 15,
+      "omitidos_inicial": [
+        "decreto-estadual-9541-2025#art121_cpt",
+        "portaria-iap-26-2006#anexo-in_lin73",
+        "portaria-iap-26-2006#anexo-in_lin76",
+        "portaria-iap-26-2006#anexo-in_lin78",
+        "rdc-anvisa-222-2018#art6_cpt_inc11"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "saude-liquidos",
+      "esperados": 3,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 3,
+      "blocos_inicial": 0,
+      "blocos_expandida": 11,
+      "omitidos_inicial": [
+        "rdc-anvisa-222-2018#art71_cpt",
+        "rdc-anvisa-222-2018#art81_cpt",
+        "resolucao-conama-430-2011#art1_par1u"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "radiologia",
+      "esperados": 2,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 2,
+      "blocos_inicial": 0,
+      "blocos_expandida": 2,
+      "omitidos_inicial": [
+        "rdc-anvisa-222-2018#art66_cpt",
+        "rdc-anvisa-222-2018#art67_cpt"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "grupo-d",
+      "esperados": 1,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 1,
+      "blocos_inicial": 0,
+      "blocos_expandida": 3,
+      "omitidos_inicial": [
+        "rdc-anvisa-222-2018#art5_par1"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "veterinaria",
+      "esperados": 2,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 2,
+      "blocos_inicial": 0,
+      "blocos_expandida": 6,
+      "omitidos_inicial": [
+        "instrucao-normativa-iat-11-2026#anexo1_tab1_lin850",
+        "portaria-iap-26-2006#anexo-in_tab1_lin1"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "tatuagem",
+      "esperados": 1,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 1,
+      "blocos_inicial": 0,
+      "blocos_expandida": 10,
+      "omitidos_inicial": [
+        "rdc-anvisa-222-2018#art2_par1"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "industria-rlo",
+      "esperados": 5,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 5,
+      "blocos_inicial": 0,
+      "blocos_expandida": 16,
+      "omitidos_inicial": [
+        "instrucao-normativa-iat-65-2025#art38_cpt_inc10",
+        "instrucao-normativa-iat-65-2025#art38_cpt_inc2",
+        "instrucao-normativa-iat-65-2025#art38_cpt_inc6",
+        "instrucao-normativa-iat-65-2025#art38_cpt_inc7",
+        "instrucao-normativa-iat-65-2025#art38_cpt_inc8"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "mandioca",
+      "esperados": 3,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 3,
+      "blocos_inicial": 1,
+      "blocos_expandida": 6,
+      "omitidos_inicial": [
+        "instrucao-normativa-iat-65-2025#anexo14_tab1_lin2",
+        "instrucao-normativa-iat-65-2025#anexo14_tab1_lin8",
+        "instrucao-normativa-iat-65-2025#art63_cpt"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "industria-galeria",
+      "esperados": 2,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 2,
+      "blocos_inicial": 9,
+      "blocos_expandida": 4,
+      "omitidos_inicial": [
+        "instrucao-normativa-iat-65-2025#art64_cpt",
+        "instrucao-normativa-iat-65-2025#art66_cpt"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "industria-ampliacao",
+      "esperados": 3,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 3,
+      "blocos_inicial": 0,
+      "blocos_expandida": 19,
+      "omitidos_inicial": [
+        "instrucao-normativa-iat-65-2025#art39_cpt",
+        "instrucao-normativa-iat-65-2025#art39_par1u",
+        "instrucao-normativa-iat-65-2025#art41_cpt"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "patio-rlo",
+      "esperados": 5,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 5,
+      "blocos_inicial": 0,
+      "blocos_expandida": 14,
+      "omitidos_inicial": [
+        "instrucao-normativa-iat-25-2025#art27_cpt",
+        "instrucao-normativa-iat-25-2025#art48_cpt",
+        "instrucao-normativa-iat-25-2025#art49_cpt",
+        "instrucao-normativa-iat-25-2025#art51_cpt",
+        "instrucao-normativa-iat-25-2025#art53_cpt"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "agrotoxicos-rlo",
+      "esperados": 4,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 4,
+      "blocos_inicial": 2,
+      "blocos_expandida": 28,
+      "omitidos_inicial": [
+        "instrucao-normativa-iat-28-2025#art26_cpt",
+        "instrucao-normativa-iat-28-2025#art46_cpt",
+        "instrucao-normativa-iat-28-2025#art49_cpt",
+        "instrucao-normativa-iat-28-2025#art56_cpt"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "agrotoxicos-exclusoes",
+      "esperados": 3,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 3,
+      "blocos_inicial": 0,
+      "blocos_expandida": 1,
+      "omitidos_inicial": [
+        "instrucao-normativa-iat-28-2025#art2_par1",
+        "instrucao-normativa-iat-28-2025#art2_par2",
+        "instrucao-normativa-iat-28-2025#art2_par3"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "agrotoxicos-industria",
+      "esperados": 2,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 2,
+      "blocos_inicial": 0,
+      "blocos_expandida": 2,
+      "omitidos_inicial": [
+        "instrucao-normativa-iat-28-2025#art2_par4",
+        "instrucao-normativa-iat-65-2025#art87_cpt"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "poco-renovacao",
+      "esperados": 3,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 3,
+      "blocos_inicial": 0,
+      "blocos_expandida": 29,
+      "omitidos_inicial": [
+        "instrucao-normativa-iat-9-2026#art6_par2",
+        "instrucao-normativa-iat-9-2026#art6_tab4_lin1",
+        "instrucao-normativa-iat-9-2026#art7_cpt"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "poco-conflito",
+      "esperados": 2,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 2,
+      "blocos_inicial": 0,
+      "blocos_expandida": 16,
+      "omitidos_inicial": [
+        "decreto-estadual-9541-2025#art104_cpt",
+        "instrucao-normativa-iat-9-2026#art6_tab6_lin1"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "manancial-rlo",
+      "esperados": 3,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 3,
+      "blocos_inicial": 0,
+      "blocos_expandida": 3,
+      "omitidos_inicial": [
+        "instrucao-normativa-iat-29-2026#art15_cpt",
+        "instrucao-normativa-iat-29-2026#art16_cpt",
+        "instrucao-normativa-iat-29-2026#art18_cpt"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "manancial-infiltracao",
+      "esperados": 4,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 4,
+      "blocos_inicial": 0,
+      "blocos_expandida": 18,
+      "omitidos_inicial": [
+        "instrucao-normativa-iat-29-2026#art7_cpt_inc1_alia",
+        "instrucao-normativa-iat-29-2026#art7_cpt_inc2",
+        "instrucao-normativa-iat-29-2026#art7_par2",
+        "resolucao-conama-430-2011#art2_cpt"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "loteamento-manancial",
+      "esperados": 3,
+      "inicial_recuperados": 1,
+      "expandida_recuperados": 3,
+      "blocos_inicial": 3,
+      "blocos_expandida": 3,
+      "omitidos_inicial": [
+        "instrucao-normativa-iat-29-2026#art13_cpt",
+        "instrucao-normativa-iat-29-2026#art13_par1u"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "transicao-prazos",
+      "esperados": 4,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 4,
+      "blocos_inicial": 3,
+      "blocos_expandida": 8,
+      "omitidos_inicial": [
+        "decreto-estadual-9541-2025#art121_par4",
+        "decreto-estadual-9541-2025#art124_cpt",
+        "decreto-estadual-9541-2025#art173_cpt",
+        "decreto-estadual-9541-2025#art173_par1"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "residuos-transversal",
+      "esperados": 5,
+      "inicial_recuperados": 0,
+      "expandida_recuperados": 5,
+      "blocos_inicial": 0,
+      "blocos_expandida": 76,
+      "omitidos_inicial": [
+        "lei-estadual-20607-2021#art4_cpt",
+        "lei-federal-12305-2010#art20_cpt",
+        "lei-federal-12305-2010#art21_cpt",
+        "lei-federal-12305-2010#art24_cpt",
+        "lei-federal-12305-2010#art27_par1"
+      ],
+      "omitidos_expandida": []
+    },
+    {
+      "id": "qualidade-receptor",
+      "esperados": 2,
+      "inicial_recuperados": 1,
+      "expandida_recuperados": 2,
+      "blocos_inicial": 3,
+      "blocos_expandida": 6,
+      "omitidos_inicial": [
+        "resolucao-conama-357-2005#art42_cpt"
+      ],
+      "omitidos_expandida": []
+    }
+  ],
+  "total_esperados": 67,
+  "total_inicial": 2,
+  "total_expandida": 67
+}

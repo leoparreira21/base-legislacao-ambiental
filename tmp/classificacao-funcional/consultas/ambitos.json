@@ -1,0 +1,285 @@
+{
+ "_leia": "Âmbito das normas setoriais para a busca do site. Uma norma listada aqui só aparece se a atividade ou a busca citar uma destas expressões (sem acento). Normas fora desta lista são tratadas como transversais: entram quando a ementa cita um termo da busca. Anexos herdam o âmbito da norma-mãe. Ao incluir uma norma setorial na base, acrescente-a aqui.",
+ "ambitos": {
+  "instrucao-normativa-iat-28-2026": [
+   "posto revendedor",
+   "posto de combustivel",
+   "ponto abastecimento",
+   "instalacao sistema retalhista",
+   "trr",
+   "posto flutuante",
+   "base distribuicao combustivel",
+   "armazenamento combustivel",
+   "tanque subterraneo",
+   "tanque aereo",
+   "sasc",
+   "saac",
+   "area contaminada"
+  ],
+  "instrucao-normativa-iat-25-2025": [
+   "patio caminhao",
+   "patio container",
+   "patio conteiner",
+   "estacionamento caminhao"
+  ],
+  "instrucao-normativa-iat-28-2025": [
+   "agrotoxico",
+   "embalagem agrotoxico",
+   "tratamento semente"
+  ],
+  "instrucao-normativa-iat-30-2025": [
+   "transbordo"
+  ],
+  "instrucao-normativa-iat-31-2025": [
+   "triagem",
+   "reciclavel",
+   "reutilizavel"
+  ],
+  "instrucao-normativa-iat-33-2025": [
+   "aterro sanitario"
+  ],
+  "instrucao-normativa-iat-6-2026": [
+   "pavimentacao"
+  ],
+  "instrucao-normativa-iat-65-2025": [
+   "industria",
+   "industrial"
+  ],
+  "instrucao-normativa-iat-26-2026": [
+   "agricola",
+   "agropecuaria",
+   "agricultura"
+  ],
+  "portaria-iap-26-2006": [
+   "servico saude",
+   "estabelecimento saude"
+  ],
+  "rdc-anvisa-222-2018": [
+   "residuo servico saude",
+   "rss",
+   "pgrss"
+  ],
+  "rdc-anvisa-306-2004": [
+   "residuo servico saude",
+   "rss",
+   "pgrss"
+  ],
+  "resolucao-conama-358-2005": [
+   "residuo servico saude",
+   "rss",
+   "pgrss"
+  ],
+  "resolucao-conama-411-2009": [
+   "produto florestal",
+   "madeira",
+   "madeireira",
+   "serraria"
+  ],
+  "portaria-iat-354-2020": [
+   "agricultor familiar",
+   "produto florestal"
+  ],
+  "instrucao-normativa-iat-9-2026": [
+   "poco",
+   "agua subterranea",
+   "captacao subterranea",
+   "outorga"
+  ],
+  "instrucao-normativa-iat-41-2025": [
+   "compostagem",
+   "composto organico",
+   "vermicompostagem",
+   "substrato para plantas",
+   "fertilizante organico"
+  ],
+  "instrucao-normativa-iat-24-2026": [
+   "suinocultura",
+   "suino",
+   "granja de suinos",
+   "dejeto de suino"
+  ],
+  "instrucao-normativa-iat-29-2026": [
+   "manancial",
+   "abastecimento publico",
+   "karst",
+   "carste"
+  ],
+  "portaria-iap-159-2015": [
+   "risco",
+   "pgr",
+   "produto perigoso",
+   "substancia perigosa"
+  ],
+  "instrucao-normativa-iat-11-2026": [
+   "baixo risco",
+   "dispensa"
+  ],
+  "instrucao-normativa-iat-32-2025": [
+   "armazenamento temporario",
+   "armazenamento de residuo",
+   "armazenamento residuo",
+   "deposito de residuo",
+   "deposito temporario"
+  ],
+  "instrucao-normativa-iat-21-2025": [
+   "empreendimento imobiliario",
+   "imobiliario",
+   "parcelamento solo",
+   "loteamento",
+   "desmembramento",
+   "condominio",
+   "barracao",
+   "barracoes",
+   "parque urbano"
+  ],
+  "instrucao-normativa-iat-27-2026": [
+   "aquicultura",
+   "piscicultura",
+   "maricultura",
+   "ranicultura",
+   "ranario",
+   "ra touro",
+   "tanque rede",
+   "viveiro de peixe",
+   "cultivo de peixe",
+   "criacao de peixe",
+   "cultivo de ostra",
+   "cultivo de mexilhao",
+   "cultivo de vieira",
+   "algicultura",
+   "organismo aquatico"
+  ],
+  "instrucao-normativa-iat-22-2026": [
+   "irrigacao",
+   "irrigado",
+   "irrigada",
+   "aspersao",
+   "gotejamento",
+   "microaspersao",
+   "pivo central",
+   "fertirrigacao",
+   "ptsi"
+  ],
+  "instrucao-normativa-iat-38-2025": [
+   "lodo",
+   "lodo de esgoto",
+   "biossolido",
+   "ugl",
+   "unidade de gerenciamento de lodo",
+   "uso agricola de lodo"
+  ],
+  "instrucao-normativa-iat-23-2026": [
+   "bovinocultura",
+   "bovino",
+   "criacao de gado",
+   "gado leiteiro",
+   "gado de corte",
+   "recria de novilha",
+   "confinamento bovino",
+   "compost barn",
+   "free stall",
+   "tie stall"
+  ],
+  "instrucao-normativa-iat-37-2025": [
+   "saneamento",
+   "sistema de esgotamento sanitario",
+   "estacao de tratamento de esgoto",
+   "sistema de abastecimento de agua",
+   "estacao de tratamento de agua",
+   "rede coletora de esgoto"
+  ],
+  "instrucao-normativa-iat-25-2026": [
+   "avicultura",
+   "granja",
+   "avicultura de corte",
+   "postura comercial",
+   "recria de matrizes",
+   "postura de ovos ferteis",
+   "avicultura comercial",
+   "incubatorio"
+  ],
+  "resolucao-sedest-39-2024": [
+   "patio caminhao",
+   "patio container",
+   "patio conteiner",
+   "estacionamento caminhao"
+  ],
+  "resolucao-sedest-48-2024": [
+   "aquicultura",
+   "piscicultura",
+   "maricultura",
+   "ranicultura",
+   "ranario",
+   "ra touro",
+   "tanque rede",
+   "viveiro de peixe",
+   "cultivo de peixe",
+   "criacao de peixe",
+   "cultivo de ostra",
+   "cultivo de mexilhao",
+   "cultivo de vieira",
+   "algicultura",
+   "organismo aquatico"
+  ],
+  "resolucao-cerh-122-2023": [
+   "reuso",
+   "agua de reuso",
+   "reutilizacao de agua",
+   "efluente tratado reutilizado",
+   "irrigacao paisagistica",
+   "lavagem de veiculos com agua de reuso"
+  ],
+  "resolucao-sedest-69-2022": [
+   "saneante desinfestante",
+   "saneante",
+   "domissanitario",
+   "controle vetor",
+   "inseticida",
+   "dengue"
+  ],
+  "norma-regulamentadora-federal-13-1978": [
+   "caldeira",
+   "vaso de pressao",
+   "tanque metalico",
+   "tubulacao",
+   "tanque de armazenamento",
+   "tanque aereo",
+   "armazenamento combustivel",
+   "posto revendedor",
+   "posto de combustivel",
+   "gerador de vapor",
+   "spie"
+  ],
+  "norma-regulamentadora-federal-31-2005": [
+   "agricultura",
+   "pecuaria",
+   "silvicultura",
+   "exploracao florestal",
+   "aquicultura",
+   "agrotoxico",
+   "armazenamento graos",
+   "trabalho rural",
+   "suinocultura",
+   "avicultura",
+   "criacao animal",
+   "fazenda",
+   "propriedade rural",
+   "plantio",
+   "colheita"
+  ],
+  "norma-regulamentadora-federal-32-2005": [
+   "servico de saude",
+   "residuo servico saude",
+   "rss",
+   "hospital",
+   "clinica",
+   "laboratorio",
+   "pgrss",
+   "agente biologico",
+   "perfurocortante",
+   "estabelecimento de saude",
+   "unidade de saude",
+   "consultorio"
+  ]
+ }
+}

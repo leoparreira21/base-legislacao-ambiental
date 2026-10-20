@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="pt-BR" data-workspace="livre">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Busca Legislação Ambiental</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="estilo.css">
+
+<div class="wrap">
+<header class="site-header">
+  <div class="identity"><svg class="eco-icon" viewBox="0 0 32 32" aria-hidden="true"><path d="M26 5C12 3 3 10 7 21c11 6 20-2 19-16Z"/><path d="M5 28 22 11M12 21v-8m0 8h8"/></svg> LEGISLAÇÃO AMBIENTAL · PARANÁ</div>
+  <h1>Conhecimento que orienta. Natureza que importa.</h1>
+  <p>Encontre dispositivos, conecte os fatos do seu caso e consulte as fontes. Sua base de legislação ambiental em três ambientes de pesquisa.</p>
+</header>
+<div class="environment-nav">
+  <div class="tabs" role="tablist" aria-label="Ambientes de pesquisa">
+    <button role="tab" id="tab-livre" aria-selected="true" aria-controls="p-livre"><span class="mode-number" aria-hidden="true">01 /</span> Busca livre</button>
+    <button role="tab" id="tab-caso" tabindex="-1" aria-selected="false" aria-controls="p-caso"><span class="mode-number" aria-hidden="true">02 /</span> Análise de caso</button>
+  </div>
+  <a class="chat-link" href="assistente.html"><span class="mode-number" aria-hidden="true">03 /</span> Chat com a base ↗</a>
+</div>
+
+<section class="panel" id="p-livre" role="tabpanel" aria-labelledby="tab-livre">
+  <div class="mode-heading"><div><span class="eyebrow">EXPLORE A LEGISLAÇÃO</span><h2>O dispositivo certo começa pela busca.</h2><p>Pesquise termos, expressões ou CNAEs e confira os trechos nas fontes.</p></div><span class="mode-tag">BUSCA SEM IA</span></div>
+  <form novalidate id="f-livre" class="row">
+    <label for="q">O que você procura
+      <input type="text" id="q" value="usina de argamassa" autocomplete="off">
+    </label>
+    <button class="btn" type="submit">Buscar</button><button class="btn ghost" type="button" id="limpar-busca">Limpar</button>
+  </form>
+  <p class="hint">Use poucas palavras. Aspas exigem a expressão exata (<code>"licença de operação"</code>). Códigos CNAE funcionam (<code>7500-1/00</code>). Sinônimos são incluídos automaticamente.</p>
+  <div class="opts" id="opts-livre"></div>
+  <div class="cnae" id="cn-l" hidden></div>
+  <div class="exp" id="exp-livre"></div>
+  <div class="status" id="st-livre">Carregando a base…</div>
+  <div id="res-livre" class="panel"></div>
+  <button class="btn ghost" id="mais-livre" hidden>Mostrar mais normas</button>
+</section>
+
+<section class="panel" id="p-caso" role="tabpanel" aria-labelledby="tab-caso" hidden>
+  <div class="mode-heading"><div><span class="eyebrow">CONECTE OS FATOS</span><h2>Um caso. Diferentes dimensões ambientais.</h2><p>Organize atividade, água, efluentes e resíduos para pesquisar por eixos.</p></div><span class="mode-tag">BUSCA POR EIXOS</span></div>
+  <p class="hint">Preencha o que souber. Cada eixo vira uma busca curta e separada; os termos da atividade só reforçam a ordem, sem excluir normas transversais. Os dados abaixo são um exemplo.</p>
+  <form novalidate id="f-caso" class="panel">
+    <div class="grid">
+      <label for="c-ativ">Atividade
+        <textarea class="resize-none" id="c-ativ" rows="2">clínica odontológica</textarea></label>
+      <label for="c-cnae">CNAE, se souber (senão a página procura pela atividade)
+        <input type="text" id="c-cnae" value=""></label>
+      <label for="c-mod">Modalidade / requerimento
+        <select id="c-mod"></select></label>
+      <label for="c-agua">Origem da água
+        <select id="c-agua"></select></label>
+      <label for="c-efl">Destino dos efluentes
+        <select id="c-efl"></select></label>
+      <label for="c-loc">Localização
+        <select id="c-loc"></select></label>
+    </div>
+    <label for="c-res">Resíduos gerados
+      <textarea class="resize-none" id="c-res" rows="2">resíduos de serviços de saúde, perfurocortantes, revelador e fixador</textarea></label>
+    <label for="c-out">Outras fontes de impacto (emissões, ruído, produtos químicos, alterações desde a última licença)
+      <textarea class="resize-none" id="c-out" rows="2">raio-x odontológico, revelação de filmes</textarea></label>
+    <div class="row"><button class="btn" type="submit">Analisar caso</button></div>
+  </form>
+  <div class="cnae" id="cn-c" hidden></div>
+  <div class="opts" id="opts-caso"></div>
+  <div class="status" id="st-caso"></div>
+  <div id="res-caso" class="panel"></div>
+</section>
+
+<details>
+  <summary>Sinônimos usados na expansão</summary>
+  <p class="hint">Quando a busca contém o termo da esquerda, os da direita também contam, com peso menor. Editável em <span class="mono">consultas/sinonimos.json</span>.</p>
+  <div class="syn" id="syn"></div>
+</details>
+<details>
+  <summary>Âmbito das normas setoriais</summary>
+  <p class="hint">Uma norma desta lista só aparece se a atividade ou a busca citar uma das expressões. Editável em <span class="mono">consultas/ambitos.json</span>.</p>
+  <div class="syn" id="amb"></div>
+</details>
+
+<p class="aviso">Critério fixo de admissão: uma norma setorial (aterro, pátio de caminhões, agrotóxicos, serviços de saúde, indústria etc.) só aparece se a atividade ou a busca citar o setor dela; as demais só aparecem se a ementa citar um termo da busca, ou se uma lista de enquadramento da norma citar o código CNAE, o termo de enquadramento da CNAE ou todos os termos buscados. O critério não afrouxa quando há poucos resultados: resposta vazia indica lacuna da base ou da legislação. Presença na lista não prova aplicabilidade nem vigência. Normas revogadas e comentários do conversor ficam fora.</p>
+<p class="hint"><a href="classificacao.html">Revisar a classificação funcional dos dispositivos ↗</a></p>
+<footer id="foot"></footer>
+</div>
+
+<script type="module">
+import {criarMotor, eixosCaso, OPCOES_CASO, REPO, CATEGORIAS_FUNCAO} from './motor.js';
+/* A regra de busca fica em motor.js (o mesmo módulo da API do iatreports). Aqui só a interface. */
+let M=null;
+
+/* ---------- opções do caso (de motor.js) ---------- */
+const PADRAO_CASO={'c-mod':'renovacao licenca operacao','c-agua':'rede','c-efl':'lancamento rede coletora esgoto','c-loc':'manancial area protegida'};
+for(const [id,chave] of [['c-mod','modalidade'],['c-agua','agua'],['c-efl','efluentes'],['c-loc','localizacao']]){
+  document.getElementById(id).innerHTML=OPCOES_CASO[chave].map(o=>`<option value="${o.valor}"${o.valor===PADRAO_CASO[id]?' selected':''}>${o.rotulo}</option>`).join('');
+}
+
+/* ---------- render ---------- */
+const esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function marcado(t){
+  let out='',i=0;
+  for(const [a,b] of t.destaques){out+=esc(t.texto.slice(i,a))+'<mark>'+esc(t.texto.slice(a,b))+'</mark>';i=b;}
+  return out+esc(t.texto.slice(i));
+}
+function hitHTML(t,id){
+  const rot=t.tipo==='lista'?'lista/tabela':t.tipo==='anexo'?'trecho de anexo':'';
+  return `<div class="hit"><div class="loc"><a href="${t.url}" target="_blank" rel="noopener">${esc(t.rotulo)}</a>${t.contexto?'<span>'+esc(t.contexto)+'</span>':''}${rot?'<span class="pill">'+rot+'</span>':''}</div>
+  ${t.funcao?.categorias?.length?`<p class="hint">Funções presentes no trecho · ${t.funcao.estado==='revisada'?'revisão registrada':'sugestão automática'}: ${t.funcao.categorias.map(c=>esc(CATEGORIAS_FUNCAO[c]||c)).join(' · ')}</p>`:''}
+  <p class="txt cut" id="${id}">${marcado(t)}</p></div>`;
+}
+let seq=0;
+function normaHTML(g,Q,X,nHits){
+  const n=M.grupo(g,Q,X);
+  const primeiros=n.trechos.slice(0,nHits), resto=n.trechos.slice(nHits);
+  const sid='g'+(seq++);
+  const ocultas=n.linhasResumidas;
+  const pills=[n.esfera,n.tipo.replace(/-/g,' '),n.anexoDe?'anexo':''].filter(Boolean).map(p=>`<span class="pill">${esc(p)}</span>`).join('')+
+    (n.situacao&&n.situacao!=='vigente'?`<span class="pill rev">${esc(n.situacao)}</span>`:'');
+  return `<article class="norma"><div class="nh"><h3>${esc(n.nome)}</h3><div class="meta">${pills}<span class="pill">${n.totalTrechos} trecho${n.totalTrechos>1?'s':''}</span></div></div>
+  ${n.motivo?`<p class="hint">Por que aparece: ${esc(n.motivo)}</p>`:''}
+  ${n.ementa?`<p class="ementa">${esc(n.ementa)}</p>`:''}
+  ${primeiros.map((t,i)=>hitHTML(t,sid+'_'+i)).join('')}
+  <div id="${sid}r" hidden>${resto.map((t,i)=>hitHTML(t,sid+'_r'+i)).join('')}</div>
+  ${resto.length?`<button class="more" data-abre="${sid}r">Ver mais ${resto.length} trecho${resto.length>1?'s':''} desta norma${ocultas?` (${ocultas} linhas de tabela resumidas)`:''}</button>`:(ocultas?`<span class="hint">${ocultas} linhas de tabela resumidas</span>`:'')}
+  </article>`;
+}
+document.addEventListener('click',e=>{
+  const t=e.target.closest('[data-abre]'); if(t){document.getElementById(t.dataset.abre).hidden=false;t.remove();return;}
+  const p=e.target.closest('.txt.cut'); if(p) p.classList.remove('cut');
+});
+function explicar(Q){
+  const partes=Q.conceitos.map(c=>c.alts.length>1?`<b>${esc(c.rot)}</b> (+ ${c.alts.slice(1).map(a=>esc(a.t.join(' '))).join(', ')})`:`<b>${esc(c.rot)}</b>`);
+  Q.frases.forEach(f=>partes.push(`<b>"${esc(f)}"</b>`));
+  return partes.length?'Termos: '+partes.join(' · '):'';
+}
+
+/* ---------- opções ---------- */
+function opcoesHTML(s){
+  return `<label for="cat${s}">Função <select id="cat${s}"><option value="">Todas as funções</option>${Object.entries(CATEGORIAS_FUNCAO).map(([id,t])=>`<option value="${id}">${t}</option>`).join('')}</select></label>
+  <label for="esf${s}">Esfera <select id="esf${s}"><option value="">todas</option><option value="federal">federal</option><option value="estadual">estadual</option></select></label>
+  <label for="anx${s}"><input type="checkbox" id="anx${s}" checked> incluir anexos</label>
+  <label for="lst${s}"><input type="checkbox" id="lst${s}" checked> incluir listas e tabelas</label>`;
+}
+document.getElementById('opts-livre').innerHTML=opcoesHTML('-l');
+document.getElementById('opts-caso').innerHTML=opcoesHTML('-c');
+function filtros(sufixo){
+  const g=id=>document.getElementById(id+sufixo);
+  return {categoria:g('cat').value, esfera:g('esf').value, listas:g('lst').checked, anexos:g('anx').checked};
+}
+
+/* ---------- painel de triagem CNAE ---------- */
+const SEL={'-l':null,'-c':null}, CANDS={'-l':[],'-c':[]};
+function prepararTriagem(suf,texto){
+  const cs=M.triagemCnae(texto); CANDS[suf]=cs;
+  // pré-marca só o candidato de maior pontuação quando ele é único; empate fica para o usuário
+  SEL[suf]=new Set(cs.filter(c=>c.sugerido).map(c=>c.codigo));
+  pintarTriagem(suf);
+}
+const cap=t=>t?t.charAt(0)+t.slice(1).toLowerCase():'';
+// "Esta classe compreende - a - b" → "a\nb"
+const itens=t=>t.replace(/^Esta classe (NÃO )?compreende\s*-?\s*/i,'').replace(/\s*Esta classe (NÃO )?compreende ainda\s*-?\s*/gi,' - ').split(/\s+-\s+/).filter(Boolean).map(x=>'– '+x).join('\n');
+function pintarTriagem(suf){
+  const el=document.getElementById('cn'+suf), cs=CANDS[suf];
+  el.hidden=false;
+  if(!cs.length){el.innerHTML=`<h4>Triagem CNAE</h4><p class="hint">Nenhuma subclasse da CNAE descreve esta atividade com esses termos. A busca segue só com os termos digitados.</p>`;return;}
+  el.innerHTML=`<h4>Triagem CNAE (IBGE) · marque as que descrevem a atividade</h4>`+cs.map((c,i)=>`
+    <div class="it">
+      <label class="op" for="cn${suf}${i}"><input type="checkbox" id="cn${suf}${i}" data-cn="${c.codigo}" data-suf="${suf}" ${SEL[suf].has(c.codigo)?'checked':''}>
+        <span class="mono">${c.rotulo}</span><span>${esc(cap(c.subclasse))}</span></label>
+      <details><summary>Detalhes do CNAE</summary><dl>
+        <dt>Seção</dt><dd>${c.secao.codigo} · ${esc(cap(c.secao.descricao))}</dd>
+        <dt>Divisão</dt><dd>${c.divisao.codigo} · ${esc(cap(c.divisao.descricao))}</dd>
+        <dt>Grupo</dt><dd>${esc(cap(c.grupo))}</dd>
+        <dt>Classe</dt><dd>${esc(cap(c.classe))}</dd>
+        <dt>Encontrado por</dt><dd>${esc(c.encontradoPor)}</dd>
+        ${c.compreende?`<dt>Compreende</dt><dd>${esc(itens(c.compreende))}</dd>`:''}
+        ${c.naoCompreende?`<dt>Não compreende</dt><dd>${esc(itens(c.naoCompreende))}</dd>`:''}
+      </dl></details>
+    </div>`).join('');
+}
+document.addEventListener('change',e=>{
+  const t=e.target; if(!t.dataset||!t.dataset.cn) return;
+  const suf=t.dataset.suf; t.checked?SEL[suf].add(t.dataset.cn):SEL[suf].delete(t.dataset.cn);
+  suf==='-l'?rodarLivre(false):rodarCaso(false);
+});
+function rotuloX(X){
+  if(!X) return '';
+  return ` · CNAE ${X.rot.join(', ')}: termos de enquadramento ${X.ngr.map(g=>'«'+esc(g.rot)+'»').join(', ')}`;
+}
+
+/* ---------- busca livre ---------- */
+let ultimo=null, limite=8;
+function rodarLivre(nova=true){
+  if(!M) return;
+  const q=document.getElementById('q').value.trim();
+  if(nova) prepararTriagem('-l',q);
+  limite=8; ultimo=M.buscar(q,filtros('-l'),'',M.expansao([...SEL['-l']]));
+  pintarLivre();
+  try{localStorage.setItem('busca-q',q)}catch(e){}
+}
+function pintarLivre(){
+  const {Q,grupos,X}=ultimo;
+  document.getElementById('exp-livre').innerHTML=explicar(Q)+rotuloX(X);
+  const tot=grupos.reduce((s,g)=>s+g.hits.length,0);
+  document.getElementById('st-livre').textContent=grupos.length?`${grupos.length} normas, ${tot} trechos. Mais pertinentes primeiro.`:'';
+  const r=document.getElementById('res-livre');
+  r.innerHTML=grupos.length?grupos.slice(0,limite).map(g=>normaHTML(g,Q,X,3)).join(''):
+    `<div class="empty">Nenhum resultado encontrado com estes termos. Tente palavras mais específicas; ausência de resultado não prova ausência de norma aplicável.</div>`;
+  document.getElementById('mais-livre').hidden=grupos.length<=limite;
+}
+document.getElementById('f-livre').addEventListener('submit',e=>{e.preventDefault();rodarLivre(true);});
+document.getElementById('mais-livre').addEventListener('click',()=>{limite+=8;pintarLivre();});
+['cat-l','esf-l','anx-l','lst-l'].forEach(id=>document.getElementById(id).addEventListener('change',()=>rodarLivre(false)));
+
+/* ---------- caso ---------- */
+const v=id=>document.getElementById(id).value.trim();
+const campos=()=>({atividade:v('c-ativ'), cnae:v('c-cnae'), modalidade:v('c-mod'), agua:v('c-agua'), efluentes:v('c-efl'),
+  localizacao:v('c-loc'), residuos:v('c-res'), outras:v('c-out')});
+function rodarCaso(nova=true){
+  if(!M) return;
+  if(nova) prepararTriagem('-c',v('c-cnae')||v('c-ativ'));
+  const X=M.expansao([...SEL['-c']]);
+  const F=filtros('-c'), E=eixosCaso(campos());
+  const r=document.getElementById('res-caso'); let html='';
+  for(const e of E){
+    const q=e.q;
+    if(e.nota){html+=`<section class="axis"><h2>${esc(e.t)} <small>${esc(e.d)}</small></h2><div class="empty">${esc(e.nota)}</div></section>`;continue;}
+    const res=M.buscar(q,F,e.opc,X,!!e.listasCnae);
+    html+=`<section class="axis"><h2>${esc(e.t)} <small>${esc(e.d)} · busca: ${esc(q)}</small></h2>`+
+      (res.grupos.length?res.grupos.map(g=>normaHTML(g,res.Q,X,2)).join(''):`<div class="empty">Nenhuma norma da base trata deste eixo para esta atividade. Registre como lacuna; ausência na base não prova que não há norma aplicável.</div>`)+
+`</section>`;
+  }
+  r.innerHTML=html;
+  document.getElementById('st-caso').innerHTML=`${E.length} eixos verificados${rotuloX(X)}.`;
+}
+document.getElementById('f-caso').addEventListener('submit',e=>{e.preventDefault();rodarCaso(true);});
+['cat-c','esf-c','anx-c','lst-c'].forEach(id=>document.getElementById(id).addEventListener('change',()=>rodarCaso(false)));
+
+/* ---------- abas ---------- */
+function aba(qual){
+  document.documentElement.dataset.workspace=qual;
+  for(const n of ['livre','caso']){
+    document.getElementById('tab-'+n).setAttribute('aria-selected',n===qual);
+    document.getElementById('tab-'+n).tabIndex=n===qual?0:-1;
+    document.getElementById('p-'+n).hidden=n!==qual;
+  }
+  if(qual==='caso'&&M&&!document.getElementById('res-caso').innerHTML) rodarCaso();
+}
+document.getElementById('tab-livre').onclick=()=>aba('livre');
+document.getElementById('tab-caso').onclick=()=>aba('caso');
+if(location.hash==='#caso') aba('caso');
+document.getElementById('limpar-busca').onclick=()=>{const q=document.getElementById('q');q.value='';rodarLivre();q.focus();};
+document.querySelector('.tabs').addEventListener('keydown',e=>{if(['ArrowLeft','ArrowRight','Home','End'].includes(e.key)){e.preventDefault();const next=e.key==='Home'?'livre':e.key==='End'?'caso':e.target.id==='tab-livre'?'caso':'livre';aba(next);document.getElementById('tab-'+next).focus();}});
+
+
+/* ---------- carga ---------- */
+const pegar=u=>fetch(u).then(r=>{if(!r.ok)throw new Error(u+' '+r.status);return r.json()});
+Promise.all([pegar('index.json'),pegar('cnae.json'),pegar('sinonimos.json'),pegar('ambitos.json')]).then(([j,cn,sn,am])=>{
+  M=criarMotor({indice:j, cnae:cn, sinonimos:sn, ambitos:am});
+  document.getElementById('syn').textContent=Object.entries(sn.sinonimos).map(([k,v])=>`${k} → ${v.join(', ')}`).join('\n');
+  document.getElementById('amb').textContent=Object.entries(am.ambitos).map(([k,v])=>`${k} → ${v.join(', ')}`).join('\n');
+  try{const q=localStorage.getItem('busca-q'); if(q) document.getElementById('q').value=q;}catch(e){}
+  const inf=M.info();
+  document.getElementById('foot').innerHTML=`Base: ${inf.arquivos} arquivos, ${inf.trechos} trechos · commit <a class="mono" href="${REPO}/tree/${inf.commit}" target="_blank" rel="noopener">${inf.commit.slice(0,7)}</a> · motor ${inf.motor}`;
+  rodarLivre();
+  if(!document.getElementById('p-caso').hidden) rodarCaso();
+}).catch(err=>{
+  document.getElementById('st-livre').textContent='Não foi possível carregar os dados ('+err.message+'). Recarregue a página.';
+});
+</script>
+
+</html>
