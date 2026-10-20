@@ -11,7 +11,12 @@
   },
   // Logs do Worker (Workers Logs). Fica ligado aqui: cada deploy aplica esta
   // configuração e sobrescreve a do painel do Cloudflare.
+  "vars": {"PUBLIC_CHAT": "true"},
+  "ratelimits": [{"name":"CHAT_RATE_LIMIT","namespace_id":"2026102001","simple":{"limit":4,"period":60}}],
+  "durable_objects": {"bindings":[{"name":"CHAT_BUDGET","class_name":"ChatBudget"}]},
+  "migrations": [{"tag":"chat-budget-v1","new_sqlite_classes":["ChatBudget"]}],
   "observability": {
+    "enabled": true,
     "logs": {
       "enabled": true,
       "invocation_logs": true,

@@ -10,7 +10,7 @@
      m.buscaLivre({q:'usina de argamassa', cnaes:['2330399']});
      m.analiseCaso({campos:{atividade:'clínica odontológica', agua:'rede'}});
 */
-export const MOTOR_VERSAO = '1.1.0';
+export const MOTOR_VERSAO = '1.2.0';
 export const FORMATO_INDICE = 1;
 export const REPO = 'https://github.com/leoparreira21/base-legislacao-ambiental';
 
@@ -96,7 +96,7 @@ export function eixosCaso(campos){
   return E;
 }
 
-export function criarMotor({indice, cnae, sinonimos, ambitos}){
+export function criarMotor({indice, cnae, sinonimos, ambitos, triagemHabilitada=true}){
   const DB=indice;
   if(!DB||!Array.isArray(DB.blocos)||!DB.docs) throw new Error('index.json inválido');
   if((DB.formato||1)!==FORMATO_INDICE) throw new Error(`index.json no formato ${DB.formato}; o motor ${MOTOR_VERSAO} lê o formato ${FORMATO_INDICE}`);
@@ -290,7 +290,7 @@ export function criarMotor({indice, cnae, sinonimos, ambitos}){
   const CNAE=(cnae||[]).map(r=>{
     const [id,sub,cla,gru,did,div,sid,sec,ativs,comp,nao]=r;
     return {id,sub,cla,gru,did,div,sid,sec,comp,nao,
-      sets:[{n:3,t:new Set(tokens(sub))},{n:2,t:new Set(tokens(cla))},...ativs.map(a=>({n:1,t:new Set(tokens(a)),a}))]};
+      sets:triagemHabilitada?[{n:3,t:new Set(tokens(sub))},{n:2,t:new Set(tokens(cla))},...ativs.map(a=>({n:1,t:new Set(tokens(a)),a}))]:[]};
   });
   const CNAE_POR_ID=new Map(CNAE.map(c=>[c.id,c]));
   const CNAE_DF=new Map(); for(const c of CNAE){const u=new Set(); c.sets.forEach(s=>s.t.forEach(w=>u.add(w))); u.forEach(w=>CNAE_DF.set(w,(CNAE_DF.get(w)||0)+1));}

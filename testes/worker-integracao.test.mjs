@@ -49,7 +49,7 @@ test("Integração integral: índices publicados → motor → grafo → AI mock
     AI:{run:async(model,params)=>{
       inferencias++;
       assert.match(model,/^@cf\//);
-      const request=JSON.parse(params.messages.find(m=>m.role==="user").content);
+      const request=JSON.parse(params.input.find(m=>m.role==="user").content);
       assert.equal(request.commit,version);
       assert.ok(Array.isArray(request.evidencias));
       assert.ok(request.evidencias.length>0,"Motor não selecionou dispositivos");
@@ -95,6 +95,17 @@ test("Integração integral: índices publicados → motor → grafo → AI mock
     assert.equal(data.itens.length,1);
     assert.ok(data.evidencias_selecionadas>0);
     assert.ok(data.itens[0].fonte.url.includes(version));
+    assert.deepEqual(new Set(evidencias.filter(e=>e.papel==='principal').map(e=>e.eixo)),new Set(['atividade','modalidade','efluentes','residuos']));
+    assert.ok(evidencias.some(e=>e.chave==='resolucao-conama-430-2011#art1_par1u'),'Ressalva para lançamento indireto ausente');
+    const chatEnv={...env,PUBLIC_CHAT:'true',CHAT_RATE_LIMIT:{limit:async()=>({success:true})},
+      CHAT_BUDGET:{idFromName:()=> 'global',get:()=>({fetch:async()=>new Response(null,{status:204})})}};
+    const chatReq=()=>new Request('https://teste.local/api/legislacao/chat',{method:'POST',headers:{origin:'https://leoparreira21.github.io','CF-Connecting-IP':'192.0.2.1'},body:JSON.stringify({...CASE,pergunta:'Quais dispositivos tratam de efluentes na rede coletora?',historico:['Quais condições da renovação?']})});
+    const chat=await worker.fetch(chatReq(),chatEnv);assert.equal(chat.status,200);
+    assert.equal((await chat.json()).status,'analisado');
+    const fallback=await worker.fetch(chatReq(),{...chatEnv,AI:{run:async()=>({response:'saída inválida'})}});
+    const fallbackData=await fallback.json();assert.equal(fallbackData.status,'fontes_para_conferencia');assert.ok(fallbackData.fontes.length);
+    const capped=await worker.fetch(chatReq(),{...chatEnv,CHAT_BUDGET:{idFromName:()=> 'global',get:()=>({fetch:async()=>new Response(null,{status:429})})}});
+    assert.equal(capped.status,429);
     // A rota com IA lê só as fatias das normas selecionadas, nunca os índices inteiros
     const baixados=Object.keys(times);
     assert.ok(baixados.some(n=>n.startsWith("fatias/")),"nenhuma fatia baixada: "+baixados.join(", "));

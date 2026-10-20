@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Assistente · Base de legislação ambiental</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap">
+<link rel="stylesheet" href="estilo.css">
+<link rel="stylesheet" href="assistente.css">
+<script type="module" src="assistente.js"></script>
+</head>
+<body>
+<a class="skip" href="#pergunta">Ir para a pergunta</a>
+<div class="workspace">
+<header class="masthead">
+  <a class="brand" href="assistente.html"><span class="brand-symbol" aria-hidden="true">§</span><span>Base de legislação ambiental<small>PARANÁ · CONSULTA FUNDAMENTADA</small></span></a>
+  <nav aria-label="Ferramentas"><a href="index.html">Busca livre</a><a href="index.html#caso">Análise por eixos</a></nav>
+</header>
+<main class="desk">
+<aside class="case-panel" aria-labelledby="case-title">
+  <div class="case-heading"><span class="eyebrow">DADOS DO EMPREENDIMENTO</span><h1 id="case-title">Cada detalhe muda o enquadramento.</h1><p>Preencha os fatos conhecidos. O assistente usará esses dados em todas as perguntas deste caso.</p></div>
+  <details id="case-details" open>
+    <summary>Editar dados do caso</summary>
+    <form id="case-form" novalidate>
+      <label for="atividade">Atividade <span aria-hidden="true">*</span></label>
+      <textarea class="resize-none" id="atividade" maxlength="500" rows="3" placeholder="Ex.: ambulatório com exames complementares" aria-describedby="activity-help"></textarea>
+      <p id="activity-help" class="hint">Obrigatório. Descreva o que é efetivamente realizado.</p>
+      <label for="cnaes">CNAEs</label><input id="cnaes" type="text" placeholder="8630-5/02" aria-describedby="cnae-help">
+      <p id="cnae-help" class="hint">Separe os códigos por vírgula. Não sabe? Deixe em branco.</p>
+      <label for="modalidade">Modalidade da licença</label><select id="modalidade"></select>
+      <div class="case-grid"><div><label for="agua">Origem da água</label><select id="agua"></select></div><div><label for="efluentes">Destino dos efluentes</label><select id="efluentes"></select></div></div>
+      <label for="localizacao">Condições da localização</label><select id="localizacao"></select>
+      <label for="residuos">Resíduos gerados</label><textarea class="resize-none" id="residuos" rows="2" maxlength="650" placeholder="Tipos e destinação, se conhecidos"></textarea>
+      <label for="outras">Outros fatos relevantes</label><textarea class="resize-none" id="outras" rows="2" maxlength="650" placeholder="Porte, município, alterações, emissões…"></textarea>
+    </form>
+  </details>
+  <div class="case-bottom"><p class="hint">Os dados e a conversa ficam apenas nesta aba. São enviados ao Cloudflare ao consultar. Evite nomes de pessoas e dados sigilosos.</p><button class="btn ghost" id="new-case" type="button">Novo caso</button><button class="more" id="undo-case" type="button" hidden>Restaurar caso anterior</button></div>
+</aside>
+<section class="conversation" aria-labelledby="chat-title">
+  <header class="conversation-heading"><div><span class="eyebrow">ASSISTENTE DE CONSULTA</span><h2 id="chat-title">Do seu caso ao dispositivo.</h2></div><span id="connection" class="connection" role="status">Verificando conexão…</span></header>
+  <div id="intro" class="intro">
+    <p class="lead">Qual é a dúvida que você precisa resolver?</p>
+    <p>Converse com a sua base. Confira o artigo, entenda por que ele aparece e veja o que ainda precisa ser verificado.</p>
+    <div class="examples" aria-label="Exemplos de consulta">
+      <button type="button" data-example="saude"><span>Serviços de saúde</span><strong>Renovação de LO de um ambulatório</strong><small>Água e esgoto em rede pública</small></button>
+      <button type="button" data-example="industria"><span>Atividade industrial</span><strong>Licenciamento de uma usina de argamassa</strong><small>Captação por poço e efluentes no solo</small></button>
+    </div>
+    <div class="reading-key"><span><b>Aplicável</b> · vínculo com os fatos</span><span><b>Condicionada</b> · falta confirmar</span><span><b>Contextual</b> · ajuda a interpretar</span></div>
+  </div>
+  <div id="messages" aria-label="Histórico da consulta"></div>
+  <div id="chat-status" class="status" role="status" aria-live="polite"></div>
+  <form id="chat-form" class="composer" novalidate>
+    <label for="pergunta">Sua pergunta</label>
+    <textarea class="resize-none" id="pergunta" rows="3" maxlength="1200" placeholder="Quais dispositivos se aplicam à renovação da licença neste caso?" aria-describedby="question-help chat-error"></textarea>
+    <p id="chat-error" class="error" role="alert" hidden></p>
+    <div class="composer-bottom"><p id="question-help" class="hint">Ctrl + Enter para enviar · máximo de 1.200 caracteres</p><div><button type="button" id="clear-question" class="btn ghost" hidden>Limpar</button><button type="button" id="cancel" class="btn ghost" hidden>Cancelar</button><button type="submit" id="send" class="btn">Consultar a base <span aria-hidden="true">↗</span></button></div></div>
+  </form>
+  <p class="aviso">A IA pode interpretar incorretamente um texto. As citações são conferidas contra a base; a aplicabilidade e a atualização das normas precisam de revisão técnica.</p>
+  <footer><span id="snapshot">Fontes do repositório, sem pesquisa externa.</span><button type="button" id="export" class="more" hidden>Copiar consulta com fontes</button></footer>
+</section>
+</main>
+</div>
+</body></html>

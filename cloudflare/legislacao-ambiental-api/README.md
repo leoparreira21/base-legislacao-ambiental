@@ -1,15 +1,16 @@
-# API híbrida — Cloudflare Workers AI
+# API de consulta e assistente — Cloudflare Workers AI
 
-Código-fonte do Worker `legislacao-ambiental-api` implantado na conta Cloudflare.
+## Rotas
 
-## Endpoints
+- `GET /`: versão e rotas.
+- `GET /health`: manifesto publicado, AI e configuração do chat.
+- `POST /api/legislacao/candidatos`: busca lexical por eixos, sem inferência.
+- `POST /api/legislacao/analisar`: análise por IA para integração entre servidores. Continua exigindo `Authorization: Bearer <ANALYZE_TOKEN>`.
+- `POST /api/legislacao/chat`: consulta pública do assistente, sem expor tokens de backend.
 
-- `GET /`: metadados, versão e rotas.
-- `GET /health`: disponibilidade do manifesto e índices.
-- `POST /api/legislacao/candidatos`: análise lexical por eixos usando o motor real de `site/motor.js`, sem chamada à IA.
-- `POST /api/legislacao/analisar`: recuperação híbrida e chamada a `env.AI.run`; requer segredo `ANALYZE_TOKEN`.
+O site oferece o assistente em `assistente.html`, com acesso destacado na página inicial. A busca livre e a análise lexical continuam em `index.html`.
 
-Entrada JSON, exemplo:
+### Entrada
 
 ```json
 {
@@ -20,107 +21,76 @@ Entrada JSON, exemplo:
     "efluentes": "lancamento rede coletora esgoto",
     "residuos": "residuos servico saude"
   },
-  "cnaes": ["8630-5/02"]
+  "cnaes": ["8630-5/02"],
+  "pergunta": "Quais dispositivos preciso conferir para renovar a LO?",
+  "historico": ["Quais normas tratam deste caso?"]
 }
 ```
 
-O mecanismo carrega manifesto e índices do **mesmo commit**, confere hashes SHA256
-e seleciona dispositivos por evidência, hierarquia e remissões explícitas.
+`pergunta` (3 a 1.200 caracteres) e `historico` (até quatro perguntas anteriores) são usados apenas em `/chat`. Atividade é obrigatória. Os campos atuais descrevem o caso; o histórico não é fonte normativa e não substitui os campos. As respostas antigas da IA nunca são aceitas como evidência pelo servidor.
 
-Na rota com IA, o Worker não baixa `dispositivos.json` (~29 MB) nem `grafo.json`
-(~7 MB): baixa só `fatias/<norma>.json` das normas que o motor selecionou (até 6 por
-eixo, 4 downloads por vez), cada uma com hash no `manifesto.json`. A fatia, gerada por
-`scripts/gerar_site.py`, traz os dispositivos elegíveis da norma, as três primeiras
-remissões de cada um (filtradas como antes) e a cópia dos destinos que estão em outras
-normas. Uma fatia por norma, e não duas (dispositivos e grafo), porque os casos de
-auditoria selecionam até 26 normas e o plano Free do Workers admite 50 subrequisições.
-A versão do contrato (`consulta-hibrida/1`) é imposta pelo servidor; commits divergentes são rejeitados. A resposta do modelo é aceita somente se os IDs existem no pacote recebido
-e as citações são substrings literais da fonte. Isso **não** prova correção jurídica.
+## Recuperação e fundamentação
 
-## Segurança e autorização
+1. Confere commit e hashes SHA-256 dos arquivos do mesmo manifesto.
+2. Busca normas por atividade/CNAE, modalidade, efluentes, resíduos e demais eixos informados; `/chat` acrescenta a pergunta atual.
+3. Baixa fatias das normas selecionadas, quatro por vez. Não baixa os índices integrais de dispositivos e grafo.
+4. Reserva evidências por eixo, diversifica famílias de normas e não usa pontuações de eixos diferentes como se fossem comparáveis.
+5. Acrescenta pais, caput, âmbito, ressalvas e remissões existentes na fatia. Exclui rótulos sem texto substantivo. Marca textos cortados.
+6. Envia o pacote ao `@cf/openai/gpt-oss-120b` via Workers AI, usando `input`, `reasoning` e `max_output_tokens` da Responses API. Não configura ferramentas de web ou execução.
+7. Lê somente `output_text` de mensagens finais. Não publica raciocínio interno. Aceita também o formato legado `response` para testes/compatibilidade.
+8. Confere cada ID e cada citação literal. Monta URLs e linhas a partir da fonte. Descarta campos extras. Um item inválido é omitido com lacuna explícita; se nenhum item for verificável, devolve fontes candidatas, sem conclusão da IA.
 
-**Antes de usar a rota com IA, crie um Secret** no painel Cloudflare:
-Workers & Pages > legislacao-ambiental-api > Settings > Variables and Secrets
-> Add > Secret. Nome: `ANALYZE_TOKEN`; valor: token aleatório longo,
-gerado em ambiente privado. Esse segredo **nunca** deve estar no código, no
-GitHub, no navegador nem em variáveis públicas de frontend.
+O contrato permanece `consulta-hibrida/1`, com `itens`, `lacunas` e `commit`. Cada item pode trazer `verificar`, `eixo`, `texto_parcial` e fontes de cada evidência. Estados: `analisado`, `sem_evidencias`, `fontes_para_conferencia`.
 
-O servidor que chama a API deve enviar:
-`Authorization: Bearer <token>`.
+## Segurança, limites e privacidade
 
-O token deve ser armazenado também como segredo **do backend chamador**,
-jamais no React, HTML, JavaScript cliente ou em URL. Além de autenticação,
-configurar limites de requisições, controles de custo e observabilidade
-antes de permitir uso de terceiros.
-
-Não há cobrança pela chamada lexical; Workers AI utiliza a franquia da conta
-e pode gerar cobrança conforme o plano e volume.
+- `ANALYZE_TOKEN` continua como Secret **somente no backend**. Nunca inserir no site, na URL, no GitHub ou no localStorage.
+- `/chat` é público, não autentica pessoas. Origin permitido e CORS não são autenticação.
+- `CHAT_RATE_LIMIT`: 4 tentativas/minuto/IP em cada localidade Cloudflare. O IP é lido de `CF-Connecting-IP`, sem aceitar `X-Forwarded-For` fornecido pelo cliente.
+- `ChatBudget`: objeto SQLite com contador global atômico, máximo de **80 reservas de inferência por dia UTC**, inclusive tentativas cujo modelo falhe. Não há repetição automática de inferência. Reinício às 21h em Brasília (UTC−3).
+- O objeto global coordena somente a reserva de consumo; não executa busca ou IA, nem armazena perguntas, respostas ou IPs. A reserva não é um teto monetário de toda a conta: `/analisar`, CPU, armazenamento e outros serviços são separados.
+- Sem `PUBLIC_CHAT=true`, limite por IP ou orçamento, a rota pública falha fechada. Para desativar, altere `PUBLIC_CHAT` no Wrangler e publique.
+- Limites públicos podem ser consumidos por terceiros. Para uso privado/múltiplos clientes, adicionar autenticação por usuário/Cloudflare Access e orçamento por usuário.
+- Corpo lido com limite real de 16 KB, mesmo sem Content-Length. Fontes têm limites de tamanho e timeout. Saída não é HTML e a interface usa `textContent`.
+- Conversa e dados ficam em memória da aba. Exportação é voluntária para a área de transferência. Logs da aplicação registram rota/tipo de falha, sem texto do caso ou segredo. Os dados são processados pelo Cloudflare ao consultar.
 
 ## Implantação
 
-**Automática (recomendada):** o workflow `.github/workflows/implantar-worker.yml`
-roda depois que o `site de busca` publica o site no Pages com sucesso, e implanta
-este Worker com `wrangler deploy`. Assim o Worker novo só entra no ar quando os
-arquivos que ele lê (como `fatias/`) já estão publicados. Também pode ser
-disparado à mão em Actions > implantar worker > Run workflow.
+O workflow existente `implantar-worker.yml` publica depois de `site de busca` concluir no `main`. O PR precisa ser mesclado para essa sequência ocorrer.
 
-Precisa de dois segredos do repositório (Settings > Secrets and variables >
-Actions): `CLOUDFLARE_API_TOKEN` (token do Cloudflare criado com o modelo "Edit
-Cloudflare Workers") e `CLOUDFLARE_ACCOUNT_ID`. O segredo `ANALYZE_TOKEN` fica
-no Cloudflare e não é alterado pelo deploy.
+Segredos existentes no GitHub: `CLOUDFLARE_API_TOKEN` e `CLOUDFLARE_ACCOUNT_ID`, da conta correta. O Secret `ANALYZE_TOKEN` existente no Worker é preservado pelo Wrangler.
 
-**Manual:** a partir da raiz do repositório:
+`wrangler.jsonc` acrescenta binding de rate limit, Durable Object SQLite e migração `chat-budget-v1`. Não implantar o código avulso no editor do painel. Para builds manuais a partir da raiz:
 
 ```sh
-npx wrangler deploy --config cloudflare/legislacao-ambiental-api/wrangler.jsonc
+npx wrangler@4 deploy --dry-run --config cloudflare/legislacao-ambiental-api/wrangler.jsonc
+npx wrangler@4 deploy --config cloudflare/legislacao-ambiental-api/wrangler.jsonc
 ```
 
-A importação `../../site/motor.js` permite que Wrangler inclua o mesmo
-motor usado pelo site. Não implante pelo editor do painel nem pela API com
-arquivos avulsos: o código publicado deixa de corresponder ao repositório.
+Depois da publicação: conferir `/health` com `chat:true` e abrir o assistente pelo domínio GitHub Pages permitido. Confirmar uma pergunta real. O endereço remoto existente e o deploy anterior não comprovam que um PR novo esteja no ar.
 
-Para conferir a versão no ar: `GET /` mostra `versao`, e `GET /health` mostra
-o commit do site e o número de fatias.
-
-## Logs
-
-Os logs ficam ligados no `wrangler.jsonc` (`observability.logs`: `enabled`, `invocation_logs` e `persist`, no formato que o painel do Cloudflare sugere). Cada deploy aplica a
-configuração do arquivo e sobrescreve a do painel; por isso ligar ou desligar
-os logs pelo painel não dura até o próximo deploy. Os logs aparecem em
-Workers & Pages > legislacao-ambiental-api > Logs. O Worker registra só as
-falhas (`evento: falha_consulta`, rota e motivo), nunca o token nem o corpo
-da consulta. Erros do próprio Cloudflare, como limite de CPU ou memória,
-aparecem no registro de cada chamada (campo de resultado da invocação).
-
-## Limitações atuais
-
-- O pacote de recuperação é limitado a ~20 evidências e considera a
-  primeira camada das remissões do grafo, não substituindo análise humana.
-- Cada requisição ainda monta o motor de busca a partir de `index.json` e
-  `cnae.json`: ~95 MB de memória viva e a maior parte da CPU, nas duas rotas.
-  É o próximo ponto a reduzir se o limite de 128 MB apertar.
-- Se o modelo retornar texto não conforme ou citações inexistentes,
-  responde com erro 503 (não publica fundamentação inválida).
-- `CORS` é restrito aos domínios conhecidos, mas **não** autentica
-  chamadas por si só.
-- A análise pública exige um servidor intermediário autenticado do
-  IAT Report Builder; não chamar diretamente da página pública com segredo.
-
-## Testes
+## Testes reproduzíveis
 
 ```sh
-node --check cloudflare/legislacao-ambiental-api/worker.mjs
-node --test testes/worker-contract.test.mjs testes/worker-smoke.test.mjs
-```
-
-Os testes de smoke dependem da API implantada e de conectividade.
-Não incluem a rota de IA paga nem expõem tokens de terceiros.
-
-Memória da rota `/analisar`, sem rede e sem IA (fetch e `env.AI` simulados sobre o
-site gerado; falha acima de 110 MB, de 50 subrequisições ou se passar o motor em
-mais de 15 MB):
-
-```sh
+python scripts/validar.py
+python -m unittest discover -s testes -v
 python scripts/gerar_site.py _site
+python scripts/validar_indices.py _site
+node --test testes/motor.test.mjs testes/worker-contract.test.mjs
+SITE_DIR=_site node --test testes/worker-integracao.test.mjs
 node --test testes/worker-memoria.test.mjs
+node scripts/auditar_assistente.mjs
 ```
+
+O teste de integração cobre análise autenticada, chat, recuperação por eixos, fallback por resposta inválida e orçamento esgotado, com acervo real e IA simulada. `scripts/auditar_assistente.mjs /tmp/payload.json` pode gerar o pedido exato para uma avaliação real opcional; não usa credenciais nem chama IA por conta própria.
+
+Interface: com Playwright instalado e `_site` servido na porta 8765, `node testes/assistente-ui.cjs`. `UI_BASE_URL` e `CHROMIUM_EXECUTABLE` são opcionais. O teste simula respostas da API e não consome IA.
+
+## Limitações
+
+- Recuperação lexical por eixos + grafo + LLM; **não é busca vetorial**. Texto muito diferente do vocabulário da base ainda pode não recuperar o dispositivo correto.
+- O pacote possui até 12 principais e 40 dispositivos totais; remissões são limitadas às que a fatia contém. Pode haver ressalvas não recuperadas.
+- Citação literal válida não prova que a interpretação, vigência ou hierarquia jurídica esteja correta. Não usar a classificação automática como parecer definitivo.
+- Os dados não informados continuam lacunas; o sistema não deve inventar porte, modalidade automática, destinação ou condições de operação.
+- A memória medida localmente não é garantia de pico/concor­rência no runtime Cloudflare. Monitorar erros de recursos em produção.
+- Testes com modelo real são amostrais, não uma certificação de precisão jurídica.
