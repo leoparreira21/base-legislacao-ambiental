@@ -1,0 +1,4111 @@
+{
+ "commit": "7475e2f8724763ed25f695190dd6d926481d227c",
+ "parametros": {
+  "min_normas_tag": 2,
+  "min_par": 3,
+  "min_cosseno": 0.12,
+  "participa_contexto": 0.25,
+  "tags_fora": [
+   "alteracao",
+   "ambito-aplicacao",
+   "anexo-pendente",
+   "aplicabilidade",
+   "definicao",
+   "incluido",
+   "publicacao-dioe",
+   "redacao-alterada",
+   "revogacao",
+   "revogado",
+   "vigencia"
+  ]
+ },
+ "categorias_por_norma": {
+  "decreto-estadual-12799-2026": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 18,
+    "obrigacoes-proibicoes": 2,
+    "licenciamento": 1,
+    "enquadramento": 1
+   }
+  },
+  "decreto-estadual-6674-2002": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 139,
+    "obrigacoes-proibicoes": 12,
+    "enquadramento": 1
+   }
+  },
+  "decreto-estadual-9541-2025": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 533,
+    "licenciamento": 145,
+    "obrigacoes-proibicoes": 82,
+    "enquadramento": 61
+   }
+  },
+  "decreto-estadual-9957-2014": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 185,
+    "obrigacoes-proibicoes": 26,
+    "enquadramento": 8,
+    "licenciamento": 3
+   }
+  },
+  "decreto-federal-10936-2022": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 454,
+    "obrigacoes-proibicoes": 29,
+    "enquadramento": 8
+   }
+  },
+  "instrucao-normativa-iat-11-2026": {
+   "dominante": "enquadramento",
+   "perfil": {
+    "enquadramento": 1009,
+    "normas-gerais": 84,
+    "obrigacoes-proibicoes": 7,
+    "licenciamento": 4
+   }
+  },
+  "instrucao-normativa-iat-21-2025": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 1004,
+    "licenciamento": 155,
+    "obrigacoes-proibicoes": 154,
+    "enquadramento": 31
+   }
+  },
+  "instrucao-normativa-iat-22-2026": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 827,
+    "licenciamento": 133,
+    "obrigacoes-proibicoes": 62,
+    "enquadramento": 54
+   }
+  },
+  "instrucao-normativa-iat-23-2026": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 705,
+    "licenciamento": 148,
+    "enquadramento": 76,
+    "obrigacoes-proibicoes": 74,
+    "limites-parametros": 5
+   }
+  },
+  "instrucao-normativa-iat-24-2026": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 711,
+    "licenciamento": 136,
+    "enquadramento": 103,
+    "obrigacoes-proibicoes": 67,
+    "limites-parametros": 5
+   }
+  },
+  "instrucao-normativa-iat-25-2025": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 858,
+    "licenciamento": 123,
+    "obrigacoes-proibicoes": 100,
+    "enquadramento": 56,
+    "limites-parametros": 11
+   }
+  },
+  "instrucao-normativa-iat-25-2026": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 638,
+    "licenciamento": 130,
+    "enquadramento": 60,
+    "obrigacoes-proibicoes": 54,
+    "limites-parametros": 5
+   }
+  },
+  "instrucao-normativa-iat-26-2026": {
+   "dominante": "enquadramento",
+   "perfil": {
+    "normas-gerais": 66,
+    "enquadramento": 10,
+    "licenciamento": 8,
+    "obrigacoes-proibicoes": 1
+   }
+  },
+  "instrucao-normativa-iat-27-2026": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 731,
+    "licenciamento": 130,
+    "obrigacoes-proibicoes": 124,
+    "enquadramento": 69,
+    "limites-parametros": 7
+   }
+  },
+  "instrucao-normativa-iat-28-2025": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 968,
+    "licenciamento": 138,
+    "enquadramento": 104,
+    "obrigacoes-proibicoes": 100,
+    "limites-parametros": 6
+   }
+  },
+  "instrucao-normativa-iat-28-2026": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 1051,
+    "obrigacoes-proibicoes": 189,
+    "licenciamento": 101,
+    "enquadramento": 33,
+    "limites-parametros": 14
+   }
+  },
+  "instrucao-normativa-iat-29-2026": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 189,
+    "obrigacoes-proibicoes": 18,
+    "enquadramento": 9,
+    "limites-parametros": 5,
+    "licenciamento": 2
+   }
+  },
+  "instrucao-normativa-iat-30-2025": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 559,
+    "licenciamento": 110,
+    "obrigacoes-proibicoes": 52,
+    "enquadramento": 43
+   }
+  },
+  "instrucao-normativa-iat-31-2025": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 550,
+    "licenciamento": 111,
+    "obrigacoes-proibicoes": 48,
+    "enquadramento": 42
+   }
+  },
+  "instrucao-normativa-iat-32-2025": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 722,
+    "licenciamento": 122,
+    "enquadramento": 70,
+    "obrigacoes-proibicoes": 65
+   }
+  },
+  "instrucao-normativa-iat-33-2025": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 687,
+    "licenciamento": 109,
+    "obrigacoes-proibicoes": 71,
+    "enquadramento": 18
+   }
+  },
+  "instrucao-normativa-iat-37-2025": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 939,
+    "licenciamento": 155,
+    "obrigacoes-proibicoes": 130,
+    "enquadramento": 70,
+    "limites-parametros": 4
+   }
+  },
+  "instrucao-normativa-iat-38-2025": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 1167,
+    "obrigacoes-proibicoes": 147,
+    "licenciamento": 121,
+    "enquadramento": 54,
+    "limites-parametros": 44
+   }
+  },
+  "instrucao-normativa-iat-41-2025": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 1946,
+    "obrigacoes-proibicoes": 149,
+    "licenciamento": 139,
+    "enquadramento": 72,
+    "limites-parametros": 34
+   }
+  },
+  "instrucao-normativa-iat-6-2026": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 86,
+    "obrigacoes-proibicoes": 6,
+    "enquadramento": 3,
+    "licenciamento": 2
+   }
+  },
+  "instrucao-normativa-iat-65-2025": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 1444,
+    "obrigacoes-proibicoes": 156,
+    "licenciamento": 155,
+    "enquadramento": 75,
+    "limites-parametros": 58
+   }
+  },
+  "instrucao-normativa-iat-9-2026": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 38,
+    "licenciamento": 18,
+    "obrigacoes-proibicoes": 7,
+    "enquadramento": 6
+   }
+  },
+  "instrucao-normativa-ibama-13-2012": {
+   "dominante": "limites-parametros",
+   "perfil": {
+    "normas-gerais": 920,
+    "limites-parametros": 15,
+    "obrigacoes-proibicoes": 5,
+    "enquadramento": 2
+   }
+  },
+  "instrucao-normativa-ibama-13-2021": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 485,
+    "obrigacoes-proibicoes": 28,
+    "enquadramento": 27,
+    "licenciamento": 9
+   }
+  },
+  "instrucao-normativa-ibama-23-2025": {
+   "dominante": "enquadramento",
+   "perfil": {
+    "normas-gerais": 78,
+    "enquadramento": 5,
+    "obrigacoes-proibicoes": 3
+   }
+  },
+  "lei-complementar-federal-140-2011": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 152,
+    "obrigacoes-proibicoes": 11,
+    "licenciamento": 3,
+    "enquadramento": 3
+   }
+  },
+  "lei-estadual-12493-1999": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 61,
+    "obrigacoes-proibicoes": 16,
+    "enquadramento": 2,
+    "licenciamento": 2
+   }
+  },
+  "lei-estadual-12726-1999": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 360,
+    "obrigacoes-proibicoes": 16,
+    "enquadramento": 9
+   }
+  },
+  "lei-estadual-16346-2009": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 45,
+    "obrigacoes-proibicoes": 9,
+    "enquadramento": 2
+   }
+  },
+  "lei-estadual-20607-2021": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 98,
+    "obrigacoes-proibicoes": 12,
+    "licenciamento": 1
+   }
+  },
+  "lei-estadual-22252-2024": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 171,
+    "licenciamento": 42,
+    "enquadramento": 29,
+    "obrigacoes-proibicoes": 28
+   }
+  },
+  "lei-federal-11428-2006": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 184,
+    "obrigacoes-proibicoes": 7,
+    "licenciamento": 2,
+    "enquadramento": 1
+   }
+  },
+  "lei-federal-12305-2010": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 388,
+    "obrigacoes-proibicoes": 20,
+    "enquadramento": 5,
+    "licenciamento": 2
+   }
+  },
+  "lei-federal-12651-2012": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 596,
+    "obrigacoes-proibicoes": 94,
+    "enquadramento": 9,
+    "licenciamento": 7
+   }
+  },
+  "lei-federal-15190-2025": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 328,
+    "licenciamento": 107,
+    "obrigacoes-proibicoes": 84,
+    "enquadramento": 40
+   }
+  },
+  "lei-federal-15300-2025": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 28,
+    "licenciamento": 11,
+    "obrigacoes-proibicoes": 8,
+    "enquadramento": 1
+   }
+  },
+  "lei-federal-6938-1981": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 377,
+    "licenciamento": 44,
+    "enquadramento": 26,
+    "obrigacoes-proibicoes": 16,
+    "limites-parametros": 1
+   }
+  },
+  "lei-federal-9433-1997": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 286,
+    "obrigacoes-proibicoes": 10,
+    "enquadramento": 4
+   }
+  },
+  "lei-federal-9605-1998": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 361,
+    "obrigacoes-proibicoes": 18,
+    "licenciamento": 5
+   }
+  },
+  "lei-federal-9985-2000": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 284,
+    "obrigacoes-proibicoes": 33,
+    "licenciamento": 2,
+    "enquadramento": 1
+   }
+  },
+  "norma-regulamentadora-federal-13-1978": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 451,
+    "obrigacoes-proibicoes": 146,
+    "enquadramento": 10,
+    "limites-parametros": 5
+   }
+  },
+  "norma-regulamentadora-federal-31-2005": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 1005,
+    "obrigacoes-proibicoes": 375,
+    "enquadramento": 7
+   }
+  },
+  "norma-regulamentadora-federal-32-2005": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 1061,
+    "obrigacoes-proibicoes": 215,
+    "enquadramento": 4,
+    "licenciamento": 1
+   }
+  },
+  "portaria-iap-159-2015": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 271,
+    "obrigacoes-proibicoes": 56,
+    "licenciamento": 10
+   }
+  },
+  "portaria-iap-26-2006": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 460,
+    "obrigacoes-proibicoes": 59,
+    "licenciamento": 47,
+    "enquadramento": 4,
+    "limites-parametros": 1
+   }
+  },
+  "portaria-iat-354-2020": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 42,
+    "obrigacoes-proibicoes": 7,
+    "enquadramento": 4
+   }
+  },
+  "rdc-anvisa-222-2018": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 402,
+    "obrigacoes-proibicoes": 123,
+    "enquadramento": 5,
+    "licenciamento": 2,
+    "limites-parametros": 1
+   }
+  },
+  "rdc-anvisa-306-2004": {
+   "dominante": "normas-gerais",
+   "perfil": {}
+  },
+  "resolucao-cerh-122-2023": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 214,
+    "obrigacoes-proibicoes": 21,
+    "limites-parametros": 17,
+    "licenciamento": 3,
+    "enquadramento": 2
+   }
+  },
+  "resolucao-conama-237-1997": {
+   "dominante": "licenciamento",
+   "perfil": {
+    "normas-gerais": 173,
+    "licenciamento": 28,
+    "obrigacoes-proibicoes": 13,
+    "enquadramento": 3
+   }
+  },
+  "resolucao-conama-307-2002": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 47,
+    "obrigacoes-proibicoes": 20,
+    "enquadramento": 3
+   }
+  },
+  "resolucao-conama-357-2005": {
+   "dominante": "limites-parametros",
+   "perfil": {
+    "limites-parametros": 409,
+    "normas-gerais": 247,
+    "obrigacoes-proibicoes": 33,
+    "enquadramento": 16,
+    "licenciamento": 1
+   }
+  },
+  "resolucao-conama-358-2005": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 139,
+    "obrigacoes-proibicoes": 29,
+    "enquadramento": 4,
+    "licenciamento": 2
+   }
+  },
+  "resolucao-conama-382-2006": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 347,
+    "obrigacoes-proibicoes": 111,
+    "limites-parametros": 101,
+    "enquadramento": 9,
+    "licenciamento": 2
+   }
+  },
+  "resolucao-conama-396-2008": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 197,
+    "obrigacoes-proibicoes": 50,
+    "enquadramento": 22,
+    "limites-parametros": 5,
+    "licenciamento": 1
+   }
+  },
+  "resolucao-conama-411-2009": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 321,
+    "obrigacoes-proibicoes": 52,
+    "licenciamento": 14,
+    "enquadramento": 4
+   }
+  },
+  "resolucao-conama-430-2011": {
+   "dominante": "limites-parametros",
+   "perfil": {
+    "normas-gerais": 100,
+    "limites-parametros": 53,
+    "obrigacoes-proibicoes": 46,
+    "enquadramento": 10,
+    "licenciamento": 3
+   }
+  },
+  "resolucao-conama-506-2024": {
+   "dominante": "limites-parametros",
+   "perfil": {
+    "normas-gerais": 61,
+    "limites-parametros": 28,
+    "obrigacoes-proibicoes": 13
+   }
+  },
+  "resolucao-sedest-2-2025": {
+   "dominante": "obrigacoes-proibicoes",
+   "perfil": {
+    "normas-gerais": 1578,
+    "obrigacoes-proibicoes": 209,
+    "limites-parametros": 154,
+    "enquadramento": 12,
+    "licenciamento": 7
+   }
+  },
+  "resolucao-sedest-39-2024": {
+   "dominante": "normas-gerais",
+   "perfil": {}
+  },
+  "resolucao-sedest-48-2024": {
+   "dominante": "normas-gerais",
+   "perfil": {}
+  },
+  "resolucao-sedest-69-2022": {
+   "dominante": "normas-gerais",
+   "perfil": {}
+  }
+ },
+ "contextos": [
+  {
+   "id": "contexto_01",
+   "nome": "Gestão de resíduos sólidos (ciclo e destinação)",
+   "tags": [
+    "reciclagem",
+    "logistica-reversa",
+    "destinacao-final",
+    "reutilizacao",
+    "transporte",
+    "acondicionamento",
+    "tratamento-residuo",
+    "residuo-solido",
+    "armazenamento-residuo",
+    "comercio",
+    "lavagem-veiculo",
+    "embalagem",
+    "veiculo",
+    "disposicao-final",
+    "fabricante",
+    "producao-mais-limpa",
+    "importacao-residuo",
+    "coleta-seletiva",
+    "catador",
+    "classificacao-residuo",
+    "rejeito-radioativo",
+    "grupo-a",
+    "grupo-e",
+    "perfurocortante",
+    "agrotoxico",
+    "queima-ceu-aberto",
+    "grupo-c",
+    "pneu",
+    "proibicao",
+    "poder-publico",
+    "residuo-industrial",
+    "abnt",
+    "produto-perigoso",
+    "cema",
+    "residuo-nao-perigoso",
+    "lixao",
+    "aproveitamento-energetico",
+    "servico-limpeza-urbana",
+    "especie-exotica",
+    "incineracao",
+    "grupo-d",
+    "pilha-bateria",
+    "pev",
+    "residuo-construcao-civil",
+    "residuo-transporte"
+   ],
+   "categoria_dominante": "enquadramento",
+   "categorias": {
+    "normas-gerais": 1471,
+    "enquadramento": 359,
+    "obrigacoes-proibicoes": 72,
+    "licenciamento": 19
+   },
+   "normas": [
+    {
+     "norma": "lei-federal-12305-2010",
+     "fracao": 0.58,
+     "tags": [
+      "reciclagem",
+      "logistica-reversa",
+      "destinacao-final",
+      "reutilizacao",
+      "tratamento-residuo",
+      "residuo-solido",
+      "embalagem",
+      "disposicao-final",
+      "fabricante",
+      "importacao-residuo",
+      "coleta-seletiva",
+      "catador",
+      "classificacao-residuo",
+      "rejeito-radioativo",
+      "agrotoxico",
+      "queima-ceu-aberto",
+      "pneu",
+      "proibicao",
+      "poder-publico",
+      "residuo-industrial",
+      "lixao",
+      "aproveitamento-energetico",
+      "servico-limpeza-urbana",
+      "pilha-bateria",
+      "residuo-construcao-civil",
+      "residuo-transporte"
+     ]
+    },
+    {
+     "norma": "decreto-estadual-6674-2002",
+     "fracao": 0.47,
+     "tags": [
+      "reciclagem",
+      "logistica-reversa",
+      "destinacao-final",
+      "reutilizacao",
+      "transporte",
+      "acondicionamento",
+      "tratamento-residuo",
+      "residuo-solido",
+      "armazenamento-residuo",
+      "embalagem",
+      "producao-mais-limpa",
+      "importacao-residuo",
+      "classificacao-residuo",
+      "rejeito-radioativo",
+      "agrotoxico",
+      "queima-ceu-aberto",
+      "pneu",
+      "proibicao",
+      "residuo-industrial",
+      "abnt",
+      "cema"
+     ]
+    },
+    {
+     "norma": "lei-estadual-12493-1999",
+     "fracao": 0.47,
+     "tags": [
+      "reciclagem",
+      "destinacao-final",
+      "reutilizacao",
+      "transporte",
+      "acondicionamento",
+      "tratamento-residuo",
+      "residuo-solido",
+      "armazenamento-residuo",
+      "embalagem",
+      "disposicao-final",
+      "producao-mais-limpa",
+      "importacao-residuo",
+      "classificacao-residuo",
+      "rejeito-radioativo",
+      "agrotoxico",
+      "queima-ceu-aberto",
+      "pneu",
+      "proibicao",
+      "residuo-industrial",
+      "cema",
+      "lixao"
+     ]
+    },
+    {
+     "norma": "rdc-anvisa-222-2018",
+     "fracao": 0.47,
+     "tags": [
+      "reciclagem",
+      "logistica-reversa",
+      "destinacao-final",
+      "reutilizacao",
+      "acondicionamento",
+      "tratamento-residuo",
+      "residuo-solido",
+      "armazenamento-residuo",
+      "embalagem",
+      "disposicao-final",
+      "classificacao-residuo",
+      "rejeito-radioativo",
+      "grupo-a",
+      "grupo-e",
+      "perfurocortante",
+      "grupo-c",
+      "aproveitamento-energetico",
+      "servico-limpeza-urbana",
+      "incineracao",
+      "grupo-d",
+      "pilha-bateria"
+     ]
+    },
+    {
+     "norma": "resolucao-conama-358-2005",
+     "fracao": 0.4,
+     "tags": [
+      "reciclagem",
+      "reutilizacao",
+      "transporte",
+      "acondicionamento",
+      "tratamento-residuo",
+      "veiculo",
+      "disposicao-final",
+      "classificacao-residuo",
+      "rejeito-radioativo",
+      "grupo-a",
+      "grupo-e",
+      "perfurocortante",
+      "grupo-c",
+      "proibicao",
+      "abnt",
+      "residuo-nao-perigoso",
+      "incineracao",
+      "grupo-d"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-28-2025",
+     "fracao": 0.31,
+     "tags": [
+      "logistica-reversa",
+      "destinacao-final",
+      "residuo-solido",
+      "armazenamento-residuo",
+      "comercio",
+      "embalagem",
+      "fabricante",
+      "classificacao-residuo",
+      "agrotoxico",
+      "proibicao",
+      "produto-perigoso",
+      "incineracao",
+      "residuo-construcao-civil",
+      "residuo-transporte"
+     ]
+    },
+    {
+     "norma": "decreto-federal-10936-2022",
+     "fracao": 0.29,
+     "tags": [
+      "reciclagem",
+      "logistica-reversa",
+      "destinacao-final",
+      "embalagem",
+      "disposicao-final",
+      "fabricante",
+      "importacao-residuo",
+      "coleta-seletiva",
+      "catador",
+      "agrotoxico",
+      "queima-ceu-aberto",
+      "poder-publico",
+      "servico-limpeza-urbana"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-32-2025",
+     "fracao": 0.27,
+     "tags": [
+      "destinacao-final",
+      "transporte",
+      "acondicionamento",
+      "residuo-solido",
+      "armazenamento-residuo",
+      "classificacao-residuo",
+      "abnt",
+      "produto-perigoso",
+      "residuo-nao-perigoso",
+      "especie-exotica",
+      "residuo-construcao-civil",
+      "residuo-transporte"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_02",
+   "nome": "Documentação fundiária e cadastros (CAR, CTF, outorga)",
+   "tags": [
+    "dominialidade",
+    "embargo",
+    "taxa-ambiental",
+    "procuracao",
+    "cnpj",
+    "cpf",
+    "car",
+    "reserva-legal",
+    "outorga",
+    "ctf",
+    "art-anotacao",
+    "certidao-municipal",
+    "app",
+    "responsavel-tecnico",
+    "sinaflor",
+    "plano-diretor",
+    "corpo-hidrico",
+    "distancia-minima",
+    "anuencia",
+    "georreferenciamento",
+    "publicacao",
+    "estudo-ambiental",
+    "declaracao-veracidade",
+    "area-influencia",
+    "memorial-caracterizacao",
+    "gerenciamento-residuo",
+    "relatorio-caracterizacao-flora",
+    "pca",
+    "pgrcc",
+    "consulta-publica",
+    "tcfa",
+    "grande-gerador",
+    "conselho-classe",
+    "diretriz-estudo",
+    "aproveitamento-hidreletrico",
+    "cnae"
+   ],
+   "categoria_dominante": "licenciamento",
+   "categorias": {
+    "normas-gerais": 5996,
+    "licenciamento": 543,
+    "obrigacoes-proibicoes": 246,
+    "enquadramento": 148,
+    "limites-parametros": 8
+   },
+   "normas": [
+    {
+     "norma": "instrucao-normativa-iat-32-2025",
+     "fracao": 0.78,
+     "tags": [
+      "dominialidade",
+      "embargo",
+      "taxa-ambiental",
+      "procuracao",
+      "cnpj",
+      "cpf",
+      "car",
+      "reserva-legal",
+      "outorga",
+      "ctf",
+      "art-anotacao",
+      "certidao-municipal",
+      "app",
+      "responsavel-tecnico",
+      "sinaflor",
+      "plano-diretor",
+      "corpo-hidrico",
+      "distancia-minima",
+      "georreferenciamento",
+      "estudo-ambiental",
+      "area-influencia",
+      "memorial-caracterizacao",
+      "gerenciamento-residuo",
+      "relatorio-caracterizacao-flora",
+      "pca",
+      "pgrcc",
+      "conselho-classe",
+      "diretriz-estudo"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-33-2025",
+     "fracao": 0.78,
+     "tags": [
+      "dominialidade",
+      "embargo",
+      "taxa-ambiental",
+      "procuracao",
+      "cnpj",
+      "cpf",
+      "car",
+      "reserva-legal",
+      "outorga",
+      "ctf",
+      "art-anotacao",
+      "certidao-municipal",
+      "app",
+      "responsavel-tecnico",
+      "sinaflor",
+      "plano-diretor",
+      "corpo-hidrico",
+      "distancia-minima",
+      "georreferenciamento",
+      "estudo-ambiental",
+      "area-influencia",
+      "memorial-caracterizacao",
+      "gerenciamento-residuo",
+      "relatorio-caracterizacao-flora",
+      "pca",
+      "pgrcc",
+      "consulta-publica",
+      "diretriz-estudo"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-41-2025",
+     "fracao": 0.78,
+     "tags": [
+      "dominialidade",
+      "embargo",
+      "taxa-ambiental",
+      "procuracao",
+      "cnpj",
+      "cpf",
+      "car",
+      "reserva-legal",
+      "outorga",
+      "ctf",
+      "art-anotacao",
+      "certidao-municipal",
+      "app",
+      "responsavel-tecnico",
+      "sinaflor",
+      "plano-diretor",
+      "corpo-hidrico",
+      "distancia-minima",
+      "anuencia",
+      "georreferenciamento",
+      "estudo-ambiental",
+      "declaracao-veracidade",
+      "area-influencia",
+      "memorial-caracterizacao",
+      "gerenciamento-residuo",
+      "pca",
+      "diretriz-estudo",
+      "cnae"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-28-2025",
+     "fracao": 0.72,
+     "tags": [
+      "dominialidade",
+      "embargo",
+      "taxa-ambiental",
+      "procuracao",
+      "cnpj",
+      "cpf",
+      "car",
+      "reserva-legal",
+      "outorga",
+      "ctf",
+      "art-anotacao",
+      "certidao-municipal",
+      "app",
+      "responsavel-tecnico",
+      "sinaflor",
+      "corpo-hidrico",
+      "distancia-minima",
+      "declaracao-veracidade",
+      "area-influencia",
+      "memorial-caracterizacao",
+      "relatorio-caracterizacao-flora",
+      "pca",
+      "pgrcc",
+      "conselho-classe",
+      "diretriz-estudo",
+      "cnae"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-30-2025",
+     "fracao": 0.72,
+     "tags": [
+      "dominialidade",
+      "embargo",
+      "taxa-ambiental",
+      "procuracao",
+      "cnpj",
+      "cpf",
+      "car",
+      "reserva-legal",
+      "outorga",
+      "ctf",
+      "art-anotacao",
+      "certidao-municipal",
+      "app",
+      "responsavel-tecnico",
+      "sinaflor",
+      "plano-diretor",
+      "corpo-hidrico",
+      "distancia-minima",
+      "georreferenciamento",
+      "estudo-ambiental",
+      "memorial-caracterizacao",
+      "gerenciamento-residuo",
+      "relatorio-caracterizacao-flora",
+      "pca",
+      "pgrcc",
+      "diretriz-estudo"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-31-2025",
+     "fracao": 0.72,
+     "tags": [
+      "dominialidade",
+      "embargo",
+      "taxa-ambiental",
+      "procuracao",
+      "cnpj",
+      "cpf",
+      "car",
+      "reserva-legal",
+      "outorga",
+      "ctf",
+      "art-anotacao",
+      "certidao-municipal",
+      "app",
+      "responsavel-tecnico",
+      "sinaflor",
+      "plano-diretor",
+      "corpo-hidrico",
+      "distancia-minima",
+      "georreferenciamento",
+      "estudo-ambiental",
+      "memorial-caracterizacao",
+      "gerenciamento-residuo",
+      "relatorio-caracterizacao-flora",
+      "pca",
+      "pgrcc",
+      "diretriz-estudo"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-24-2026",
+     "fracao": 0.64,
+     "tags": [
+      "dominialidade",
+      "embargo",
+      "taxa-ambiental",
+      "procuracao",
+      "cnpj",
+      "cpf",
+      "car",
+      "reserva-legal",
+      "outorga",
+      "ctf",
+      "art-anotacao",
+      "app",
+      "responsavel-tecnico",
+      "sinaflor",
+      "corpo-hidrico",
+      "distancia-minima",
+      "anuencia",
+      "georreferenciamento",
+      "estudo-ambiental",
+      "declaracao-veracidade",
+      "memorial-caracterizacao",
+      "pca",
+      "diretriz-estudo"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-25-2025",
+     "fracao": 0.58,
+     "tags": [
+      "dominialidade",
+      "embargo",
+      "taxa-ambiental",
+      "procuracao",
+      "cnpj",
+      "cpf",
+      "car",
+      "reserva-legal",
+      "outorga",
+      "ctf",
+      "art-anotacao",
+      "certidao-municipal",
+      "app",
+      "responsavel-tecnico",
+      "sinaflor",
+      "anuencia",
+      "memorial-caracterizacao",
+      "relatorio-caracterizacao-flora",
+      "pca",
+      "pgrcc",
+      "diretriz-estudo"
+     ]
+    },
+    {
+     "norma": "decreto-estadual-9541-2025",
+     "fracao": 0.56,
+     "tags": [
+      "dominialidade",
+      "embargo",
+      "taxa-ambiental",
+      "procuracao",
+      "cnpj",
+      "cpf",
+      "car",
+      "reserva-legal",
+      "outorga",
+      "art-anotacao",
+      "app",
+      "responsavel-tecnico",
+      "anuencia",
+      "georreferenciamento",
+      "estudo-ambiental",
+      "area-influencia",
+      "memorial-caracterizacao",
+      "relatorio-caracterizacao-flora",
+      "pca",
+      "conselho-classe"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-65-2025",
+     "fracao": 0.53,
+     "tags": [
+      "dominialidade",
+      "embargo",
+      "taxa-ambiental",
+      "procuracao",
+      "cnpj",
+      "cpf",
+      "car",
+      "reserva-legal",
+      "outorga",
+      "ctf",
+      "art-anotacao",
+      "certidao-municipal",
+      "app",
+      "sinaflor",
+      "anuencia",
+      "memorial-caracterizacao",
+      "relatorio-caracterizacao-flora",
+      "pgrcc",
+      "diretriz-estudo"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-22-2026",
+     "fracao": 0.5,
+     "tags": [
+      "dominialidade",
+      "embargo",
+      "taxa-ambiental",
+      "procuracao",
+      "cnpj",
+      "cpf",
+      "car",
+      "reserva-legal",
+      "outorga",
+      "ctf",
+      "art-anotacao",
+      "app",
+      "responsavel-tecnico",
+      "sinaflor",
+      "publicacao",
+      "declaracao-veracidade",
+      "relatorio-caracterizacao-flora",
+      "pca"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-23-2026",
+     "fracao": 0.5,
+     "tags": [
+      "dominialidade",
+      "embargo",
+      "taxa-ambiental",
+      "cpf",
+      "car",
+      "reserva-legal",
+      "outorga",
+      "ctf",
+      "art-anotacao",
+      "app",
+      "responsavel-tecnico",
+      "sinaflor",
+      "distancia-minima",
+      "publicacao",
+      "estudo-ambiental",
+      "declaracao-veracidade",
+      "memorial-caracterizacao",
+      "pgrcc"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-27-2026",
+     "fracao": 0.47,
+     "tags": [
+      "dominialidade",
+      "embargo",
+      "taxa-ambiental",
+      "procuracao",
+      "cnpj",
+      "cpf",
+      "car",
+      "reserva-legal",
+      "outorga",
+      "ctf",
+      "art-anotacao",
+      "app",
+      "sinaflor",
+      "publicacao",
+      "estudo-ambiental",
+      "declaracao-veracidade",
+      "pca"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-38-2025",
+     "fracao": 0.47,
+     "tags": [
+      "dominialidade",
+      "embargo",
+      "taxa-ambiental",
+      "cpf",
+      "car",
+      "reserva-legal",
+      "outorga",
+      "ctf",
+      "art-anotacao",
+      "certidao-municipal",
+      "app",
+      "responsavel-tecnico",
+      "sinaflor",
+      "corpo-hidrico",
+      "estudo-ambiental",
+      "gerenciamento-residuo",
+      "pgrcc"
+     ]
+    },
+    {
+     "norma": "lei-federal-15190-2025",
+     "fracao": 0.47,
+     "tags": [
+      "taxa-ambiental",
+      "car",
+      "outorga",
+      "ctf",
+      "art-anotacao",
+      "certidao-municipal",
+      "responsavel-tecnico",
+      "sinaflor",
+      "distancia-minima",
+      "anuencia",
+      "publicacao",
+      "estudo-ambiental",
+      "area-influencia",
+      "pca",
+      "consulta-publica",
+      "aproveitamento-hidreletrico",
+      "cnae"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-6-2026",
+     "fracao": 0.31,
+     "tags": [
+      "embargo",
+      "procuracao",
+      "cnpj",
+      "cpf",
+      "reserva-legal",
+      "outorga",
+      "certidao-municipal",
+      "app",
+      "anuencia",
+      "georreferenciamento",
+      "declaracao-veracidade"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-21-2025",
+     "fracao": 0.28,
+     "tags": [
+      "embargo",
+      "taxa-ambiental",
+      "procuracao",
+      "cnpj",
+      "cpf",
+      "outorga",
+      "art-anotacao",
+      "app",
+      "plano-diretor",
+      "pgrcc"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_03",
+   "nome": "Áreas sensíveis e restrições locacionais",
+   "tags": [
+    "terra-indigena",
+    "area-umida",
+    "area-fragil",
+    "comunidade-tradicional",
+    "quilombola",
+    "unidade-conservacao",
+    "bem-cultural",
+    "cavidade-natural",
+    "interesse-social",
+    "turismo",
+    "movimentacao-solo",
+    "regularizacao-fundiaria",
+    "nascente",
+    "conselho-meio-ambiente",
+    "utilidade-publica",
+    "plano-manejo",
+    "zoneamento",
+    "zona-costeira",
+    "sinima",
+    "educacao-ambiental",
+    "fiscalizacao",
+    "arvore-isolada",
+    "competencia",
+    "zona-amortecimento",
+    "iphan",
+    "mineracao",
+    "funai",
+    "terraplanagem",
+    "autoridade-envolvida",
+    "potencial-poluidor",
+    "ibama",
+    "estado",
+    "cadastro",
+    "apa",
+    "auto-infracao",
+    "cooperacao-institucional"
+   ],
+   "categoria_dominante": "enquadramento",
+   "categorias": {
+    "normas-gerais": 827,
+    "enquadramento": 104,
+    "obrigacoes-proibicoes": 30,
+    "licenciamento": 12
+   },
+   "normas": [
+    {
+     "norma": "decreto-estadual-9541-2025",
+     "fracao": 0.5,
+     "tags": [
+      "terra-indigena",
+      "area-umida",
+      "area-fragil",
+      "comunidade-tradicional",
+      "quilombola",
+      "unidade-conservacao",
+      "bem-cultural",
+      "cavidade-natural",
+      "interesse-social",
+      "movimentacao-solo",
+      "utilidade-publica",
+      "fiscalizacao",
+      "arvore-isolada",
+      "competencia",
+      "potencial-poluidor",
+      "cadastro",
+      "auto-infracao",
+      "cooperacao-institucional"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-65-2025",
+     "fracao": 0.47,
+     "tags": [
+      "terra-indigena",
+      "area-umida",
+      "area-fragil",
+      "comunidade-tradicional",
+      "quilombola",
+      "unidade-conservacao",
+      "bem-cultural",
+      "cavidade-natural",
+      "interesse-social",
+      "movimentacao-solo",
+      "utilidade-publica",
+      "arvore-isolada",
+      "zona-amortecimento",
+      "iphan",
+      "funai",
+      "terraplanagem",
+      "potencial-poluidor"
+     ]
+    },
+    {
+     "norma": "lei-federal-15190-2025",
+     "fracao": 0.44,
+     "tags": [
+      "terra-indigena",
+      "quilombola",
+      "unidade-conservacao",
+      "bem-cultural",
+      "utilidade-publica",
+      "sinima",
+      "fiscalizacao",
+      "competencia",
+      "zona-amortecimento",
+      "mineracao",
+      "autoridade-envolvida",
+      "potencial-poluidor",
+      "cadastro",
+      "apa",
+      "auto-infracao",
+      "cooperacao-institucional"
+     ]
+    },
+    {
+     "norma": "lei-estadual-22252-2024",
+     "fracao": 0.42,
+     "tags": [
+      "terra-indigena",
+      "comunidade-tradicional",
+      "quilombola",
+      "unidade-conservacao",
+      "bem-cultural",
+      "interesse-social",
+      "utilidade-publica",
+      "fiscalizacao",
+      "competencia",
+      "zona-amortecimento",
+      "iphan",
+      "funai",
+      "potencial-poluidor",
+      "ibama",
+      "auto-infracao"
+     ]
+    },
+    {
+     "norma": "lei-complementar-federal-140-2011",
+     "fracao": 0.36,
+     "tags": [
+      "terra-indigena",
+      "unidade-conservacao",
+      "conselho-meio-ambiente",
+      "zoneamento",
+      "zona-costeira",
+      "sinima",
+      "educacao-ambiental",
+      "fiscalizacao",
+      "competencia",
+      "estado",
+      "apa",
+      "auto-infracao",
+      "cooperacao-institucional"
+     ]
+    },
+    {
+     "norma": "lei-federal-12651-2012",
+     "fracao": 0.36,
+     "tags": [
+      "terra-indigena",
+      "area-umida",
+      "comunidade-tradicional",
+      "unidade-conservacao",
+      "interesse-social",
+      "turismo",
+      "regularizacao-fundiaria",
+      "nascente",
+      "conselho-meio-ambiente",
+      "utilidade-publica",
+      "zoneamento",
+      "zona-costeira",
+      "mineracao"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-32-2025",
+     "fracao": 0.33,
+     "tags": [
+      "terra-indigena",
+      "area-umida",
+      "quilombola",
+      "unidade-conservacao",
+      "bem-cultural",
+      "movimentacao-solo",
+      "nascente",
+      "utilidade-publica",
+      "zona-amortecimento",
+      "iphan",
+      "terraplanagem",
+      "ibama"
+     ]
+    },
+    {
+     "norma": "lei-federal-6938-1981",
+     "fracao": 0.28,
+     "tags": [
+      "comunidade-tradicional",
+      "unidade-conservacao",
+      "fiscalizacao",
+      "competencia",
+      "mineracao",
+      "potencial-poluidor",
+      "ibama",
+      "estado",
+      "cadastro",
+      "cooperacao-institucional"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-11-2026",
+     "fracao": 0.25,
+     "tags": [
+      "area-umida",
+      "area-fragil",
+      "unidade-conservacao",
+      "movimentacao-solo",
+      "fiscalizacao",
+      "arvore-isolada",
+      "competencia",
+      "mineracao",
+      "potencial-poluidor"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-6-2026",
+     "fracao": 0.25,
+     "tags": [
+      "terra-indigena",
+      "area-umida",
+      "area-fragil",
+      "comunidade-tradicional",
+      "quilombola",
+      "unidade-conservacao",
+      "movimentacao-solo",
+      "utilidade-publica",
+      "terraplanagem"
+     ]
+    },
+    {
+     "norma": "lei-federal-9985-2000",
+     "fracao": 0.25,
+     "tags": [
+      "comunidade-tradicional",
+      "unidade-conservacao",
+      "turismo",
+      "regularizacao-fundiaria",
+      "conselho-meio-ambiente",
+      "plano-manejo",
+      "zona-amortecimento",
+      "ibama",
+      "cadastro"
+     ]
+    },
+    {
+     "norma": "resolucao-conama-237-1997",
+     "fracao": 0.25,
+     "tags": [
+      "terra-indigena",
+      "unidade-conservacao",
+      "turismo",
+      "conselho-meio-ambiente",
+      "competencia",
+      "mineracao",
+      "potencial-poluidor",
+      "ibama",
+      "estado"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_04",
+   "nome": "Modalidades e etapas de licença (LP, LI, LO, LAS)",
+   "tags": [
+    "supressao-vegetacao",
+    "condicionante",
+    "ampliacao",
+    "li",
+    "lp",
+    "lpa",
+    "lo",
+    "lia",
+    "regularizacao",
+    "lir",
+    "las",
+    "autorizacao-ambiental",
+    "loa",
+    "renovacao",
+    "lor",
+    "lasr",
+    "lasa",
+    "autorizacao-florestal",
+    "fauna",
+    "lac",
+    "prazo",
+    "validade",
+    "porte",
+    "prorrogacao",
+    "ato-administrativo",
+    "declaracao-adesao-compromisso",
+    "rlac",
+    "atividade-vinculada",
+    "industria-alimenticia",
+    "rlo",
+    "rlas",
+    "casos-omissos",
+    "licenca-vencida"
+   ],
+   "categoria_dominante": "licenciamento",
+   "categorias": {
+    "normas-gerais": 3918,
+    "licenciamento": 2432,
+    "enquadramento": 1181,
+    "obrigacoes-proibicoes": 553
+   },
+   "normas": [
+    {
+     "norma": "instrucao-normativa-iat-28-2025",
+     "fracao": 0.88,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lpa",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "autorizacao-ambiental",
+      "loa",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lasa",
+      "autorizacao-florestal",
+      "fauna",
+      "lac",
+      "prazo",
+      "validade",
+      "porte",
+      "prorrogacao",
+      "ato-administrativo",
+      "declaracao-adesao-compromisso",
+      "atividade-vinculada",
+      "casos-omissos",
+      "licenca-vencida"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-65-2025",
+     "fracao": 0.88,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lpa",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "autorizacao-ambiental",
+      "loa",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lasa",
+      "autorizacao-florestal",
+      "fauna",
+      "lac",
+      "prazo",
+      "validade",
+      "porte",
+      "prorrogacao",
+      "ato-administrativo",
+      "declaracao-adesao-compromisso",
+      "industria-alimenticia",
+      "casos-omissos",
+      "licenca-vencida"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-22-2026",
+     "fracao": 0.85,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lpa",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "autorizacao-ambiental",
+      "loa",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lasa",
+      "autorizacao-florestal",
+      "fauna",
+      "lac",
+      "prazo",
+      "validade",
+      "porte",
+      "prorrogacao",
+      "rlac",
+      "atividade-vinculada",
+      "rlo",
+      "rlas"
+     ]
+    },
+    {
+     "norma": "decreto-estadual-9541-2025",
+     "fracao": 0.82,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lpa",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "autorizacao-ambiental",
+      "loa",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lasa",
+      "autorizacao-florestal",
+      "fauna",
+      "lac",
+      "prazo",
+      "validade",
+      "porte",
+      "prorrogacao",
+      "ato-administrativo",
+      "declaracao-adesao-compromisso",
+      "licenca-vencida"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-27-2026",
+     "fracao": 0.82,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lpa",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "autorizacao-ambiental",
+      "loa",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lasa",
+      "autorizacao-florestal",
+      "lac",
+      "prazo",
+      "validade",
+      "porte",
+      "prorrogacao",
+      "rlac",
+      "atividade-vinculada",
+      "rlo",
+      "rlas"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-25-2025",
+     "fracao": 0.79,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lpa",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "autorizacao-ambiental",
+      "loa",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lasa",
+      "autorizacao-florestal",
+      "fauna",
+      "prazo",
+      "validade",
+      "porte",
+      "prorrogacao",
+      "ato-administrativo",
+      "atividade-vinculada",
+      "casos-omissos"
+     ]
+    },
+    {
+     "norma": "lei-estadual-22252-2024",
+     "fracao": 0.79,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lpa",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "autorizacao-ambiental",
+      "loa",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lasa",
+      "autorizacao-florestal",
+      "lac",
+      "prazo",
+      "validade",
+      "porte",
+      "prorrogacao",
+      "ato-administrativo",
+      "declaracao-adesao-compromisso",
+      "licenca-vencida"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-23-2026",
+     "fracao": 0.73,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lpa",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "loa",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lasa",
+      "fauna",
+      "lac",
+      "prazo",
+      "validade",
+      "porte",
+      "rlac",
+      "rlo",
+      "rlas"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-24-2026",
+     "fracao": 0.73,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lpa",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "autorizacao-ambiental",
+      "loa",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lasa",
+      "autorizacao-florestal",
+      "lac",
+      "validade",
+      "porte",
+      "prorrogacao",
+      "declaracao-adesao-compromisso",
+      "casos-omissos"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-41-2025",
+     "fracao": 0.73,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lpa",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "autorizacao-ambiental",
+      "loa",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lasa",
+      "autorizacao-florestal",
+      "fauna",
+      "lac",
+      "validade",
+      "porte",
+      "prorrogacao",
+      "declaracao-adesao-compromisso"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-32-2025",
+     "fracao": 0.7,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lpa",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "autorizacao-ambiental",
+      "loa",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lasa",
+      "fauna",
+      "prazo",
+      "validade",
+      "porte",
+      "ato-administrativo",
+      "casos-omissos"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-30-2025",
+     "fracao": 0.67,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lpa",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "autorizacao-ambiental",
+      "loa",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lasa",
+      "fauna",
+      "validade",
+      "porte",
+      "ato-administrativo",
+      "casos-omissos"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-31-2025",
+     "fracao": 0.67,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lpa",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "autorizacao-ambiental",
+      "loa",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lasa",
+      "fauna",
+      "validade",
+      "porte",
+      "ato-administrativo",
+      "casos-omissos"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-33-2025",
+     "fracao": 0.61,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lpa",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "autorizacao-ambiental",
+      "loa",
+      "renovacao",
+      "lor",
+      "fauna",
+      "validade",
+      "porte",
+      "ato-administrativo",
+      "casos-omissos"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-38-2025",
+     "fracao": 0.61,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lpa",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "loa",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lasa",
+      "fauna",
+      "lac",
+      "validade",
+      "porte"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-21-2025",
+     "fracao": 0.58,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "ampliacao",
+      "li",
+      "lp",
+      "lo",
+      "lia",
+      "regularizacao",
+      "lir",
+      "las",
+      "autorizacao-ambiental",
+      "loa",
+      "renovacao",
+      "lasa",
+      "prazo",
+      "validade",
+      "porte",
+      "prorrogacao",
+      "atividade-vinculada"
+     ]
+    },
+    {
+     "norma": "lei-federal-15190-2025",
+     "fracao": 0.48,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "li",
+      "lp",
+      "lo",
+      "regularizacao",
+      "las",
+      "autorizacao-ambiental",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lac",
+      "prazo",
+      "validade",
+      "porte",
+      "declaracao-adesao-compromisso"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-9-2026",
+     "fracao": 0.45,
+     "tags": [
+      "condicionante",
+      "li",
+      "lp",
+      "lo",
+      "regularizacao",
+      "lir",
+      "las",
+      "renovacao",
+      "lor",
+      "lasr",
+      "lac",
+      "prazo",
+      "ato-administrativo",
+      "casos-omissos",
+      "licenca-vencida"
+     ]
+    },
+    {
+     "norma": "portaria-iap-26-2006",
+     "fracao": 0.27,
+     "tags": [
+      "li",
+      "lp",
+      "lo",
+      "regularizacao",
+      "renovacao",
+      "prazo",
+      "validade",
+      "porte",
+      "casos-omissos"
+     ]
+    },
+    {
+     "norma": "resolucao-conama-237-1997",
+     "fracao": 0.27,
+     "tags": [
+      "supressao-vegetacao",
+      "condicionante",
+      "li",
+      "lp",
+      "lo",
+      "renovacao",
+      "prazo",
+      "validade",
+      "industria-alimenticia"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_05",
+   "nome": "Regime florestal rural (PRA, manejo, uso alternativo)",
+   "tags": [
+    "recuperacao-ambiental",
+    "area-rural-consolidada",
+    "sisnama",
+    "manejo-florestal",
+    "agricultura-familiar",
+    "pra",
+    "lenha",
+    "carvao-vegetal",
+    "agropecuaria",
+    "uso-alternativo-solo",
+    "floresta-plantada",
+    "termo-compromisso",
+    "armazenamento-graos",
+    "credito-rural",
+    "dof",
+    "servico-saude",
+    "especie-ameacada",
+    "residuo-servico-saude",
+    "incendio-florestal",
+    "reposicao-florestal",
+    "pousio",
+    "seguranca-trabalho",
+    "servidao-ambiental",
+    "gee",
+    "snvs",
+    "saude-ocupacional",
+    "pagamento-servico-ambiental",
+    "assentamento"
+   ],
+   "categoria_dominante": "enquadramento",
+   "categorias": {
+    "normas-gerais": 667,
+    "enquadramento": 166,
+    "obrigacoes-proibicoes": 87,
+    "limites-parametros": 15,
+    "licenciamento": 13
+   },
+   "normas": [
+    {
+     "norma": "lei-federal-12651-2012",
+     "fracao": 0.79,
+     "tags": [
+      "recuperacao-ambiental",
+      "area-rural-consolidada",
+      "sisnama",
+      "manejo-florestal",
+      "agricultura-familiar",
+      "pra",
+      "lenha",
+      "carvao-vegetal",
+      "agropecuaria",
+      "uso-alternativo-solo",
+      "floresta-plantada",
+      "termo-compromisso",
+      "credito-rural",
+      "dof",
+      "especie-ameacada",
+      "incendio-florestal",
+      "reposicao-florestal",
+      "pousio",
+      "servidao-ambiental",
+      "gee",
+      "pagamento-servico-ambiental",
+      "assentamento"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_06",
+   "nome": "Monitoramento, impacto e medidas mitigadoras",
+   "tags": [
+    "padrao-emissao",
+    "automonitoramento",
+    "monitoramento",
+    "combustivel",
+    "medida-mitigadora",
+    "impacto-ambiental",
+    "dispensa",
+    "caldeira",
+    "dlam",
+    "laudo-conclusao-obra",
+    "medida-compensatoria",
+    "rap",
+    "dila",
+    "licenciamento-municipal",
+    "cimento",
+    "inexigibilidade",
+    "geracao-calor",
+    "monitoramento-continuo",
+    "eia-rima",
+    "vistoria",
+    "refinaria",
+    "pma",
+    "fonte-fixa",
+    "baixo-potencial-poluidor",
+    "frequencia-monitoramento"
+   ],
+   "categoria_dominante": "licenciamento",
+   "categorias": {
+    "normas-gerais": 686,
+    "licenciamento": 80,
+    "enquadramento": 65,
+    "obrigacoes-proibicoes": 31,
+    "limites-parametros": 3
+   },
+   "normas": [
+    {
+     "norma": "decreto-estadual-9541-2025",
+     "fracao": 0.44,
+     "tags": [
+      "monitoramento",
+      "medida-mitigadora",
+      "impacto-ambiental",
+      "dispensa",
+      "dlam",
+      "medida-compensatoria",
+      "rap",
+      "dila",
+      "inexigibilidade",
+      "eia-rima",
+      "vistoria"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-41-2025",
+     "fracao": 0.4,
+     "tags": [
+      "padrao-emissao",
+      "automonitoramento",
+      "monitoramento",
+      "medida-mitigadora",
+      "impacto-ambiental",
+      "laudo-conclusao-obra",
+      "medida-compensatoria",
+      "rap",
+      "eia-rima",
+      "vistoria"
+     ]
+    },
+    {
+     "norma": "lei-estadual-22252-2024",
+     "fracao": 0.4,
+     "tags": [
+      "monitoramento",
+      "medida-mitigadora",
+      "impacto-ambiental",
+      "dispensa",
+      "dlam",
+      "medida-compensatoria",
+      "dila",
+      "licenciamento-municipal",
+      "inexigibilidade",
+      "eia-rima"
+     ]
+    },
+    {
+     "norma": "resolucao-sedest-2-2025",
+     "fracao": 0.4,
+     "tags": [
+      "padrao-emissao",
+      "automonitoramento",
+      "monitoramento",
+      "combustivel",
+      "dispensa",
+      "caldeira",
+      "cimento",
+      "monitoramento-continuo",
+      "refinaria",
+      "fonte-fixa"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-28-2025",
+     "fracao": 0.36,
+     "tags": [
+      "padrao-emissao",
+      "automonitoramento",
+      "monitoramento",
+      "medida-mitigadora",
+      "dispensa",
+      "laudo-conclusao-obra",
+      "medida-compensatoria",
+      "rap",
+      "baixo-potencial-poluidor"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-24-2026",
+     "fracao": 0.32,
+     "tags": [
+      "automonitoramento",
+      "monitoramento",
+      "medida-mitigadora",
+      "impacto-ambiental",
+      "dlam",
+      "laudo-conclusao-obra",
+      "rap",
+      "vistoria"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-11-2026",
+     "fracao": 0.28,
+     "tags": [
+      "impacto-ambiental",
+      "dispensa",
+      "dlam",
+      "dila",
+      "licenciamento-municipal",
+      "inexigibilidade",
+      "vistoria"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-65-2025",
+     "fracao": 0.28,
+     "tags": [
+      "padrao-emissao",
+      "automonitoramento",
+      "dispensa",
+      "dlam",
+      "rap",
+      "licenciamento-municipal",
+      "eia-rima"
+     ]
+    },
+    {
+     "norma": "lei-federal-15190-2025",
+     "fracao": 0.28,
+     "tags": [
+      "medida-mitigadora",
+      "impacto-ambiental",
+      "dispensa",
+      "medida-compensatoria",
+      "licenciamento-municipal",
+      "eia-rima",
+      "baixo-potencial-poluidor"
+     ]
+    },
+    {
+     "norma": "resolucao-conama-382-2006",
+     "fracao": 0.28,
+     "tags": [
+      "monitoramento",
+      "caldeira",
+      "cimento",
+      "geracao-calor",
+      "monitoramento-continuo",
+      "refinaria",
+      "fonte-fixa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_07",
+   "nome": "Aterros e infraestrutura de disposição",
+   "tags": [
+    "sistema-isolamento",
+    "impermeabilizacao",
+    "lixiviado",
+    "agua-pluvial",
+    "odor",
+    "aglomerado-populacional",
+    "cobertura-residuo",
+    "vetor",
+    "residuo-solido-urbano",
+    "biogas",
+    "rejeito",
+    "poluicao-sonora",
+    "contencao",
+    "municipio",
+    "aterro-sanitario",
+    "regiao-metropolitana",
+    "transbordo",
+    "jazida",
+    "edificacao-armazenamento",
+    "microrregiao",
+    "residuo-liquido",
+    "pmgirs",
+    "eletroeletronico",
+    "triagem"
+   ],
+   "categoria_dominante": "obrigacoes-proibicoes",
+   "categorias": {
+    "normas-gerais": 767,
+    "obrigacoes-proibicoes": 91,
+    "enquadramento": 17,
+    "licenciamento": 8,
+    "limites-parametros": 2
+   },
+   "normas": [
+    {
+     "norma": "instrucao-normativa-iat-32-2025",
+     "fracao": 0.58,
+     "tags": [
+      "sistema-isolamento",
+      "impermeabilizacao",
+      "lixiviado",
+      "agua-pluvial",
+      "odor",
+      "aglomerado-populacional",
+      "vetor",
+      "residuo-solido-urbano",
+      "rejeito",
+      "poluicao-sonora",
+      "contencao",
+      "edificacao-armazenamento",
+      "residuo-liquido",
+      "triagem"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-33-2025",
+     "fracao": 0.58,
+     "tags": [
+      "sistema-isolamento",
+      "impermeabilizacao",
+      "lixiviado",
+      "agua-pluvial",
+      "odor",
+      "aglomerado-populacional",
+      "cobertura-residuo",
+      "vetor",
+      "residuo-solido-urbano",
+      "biogas",
+      "rejeito",
+      "aterro-sanitario",
+      "transbordo",
+      "jazida"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-30-2025",
+     "fracao": 0.5,
+     "tags": [
+      "sistema-isolamento",
+      "impermeabilizacao",
+      "lixiviado",
+      "agua-pluvial",
+      "odor",
+      "aglomerado-populacional",
+      "cobertura-residuo",
+      "vetor",
+      "residuo-solido-urbano",
+      "rejeito",
+      "transbordo",
+      "triagem"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-31-2025",
+     "fracao": 0.5,
+     "tags": [
+      "sistema-isolamento",
+      "impermeabilizacao",
+      "lixiviado",
+      "agua-pluvial",
+      "odor",
+      "aglomerado-populacional",
+      "cobertura-residuo",
+      "vetor",
+      "residuo-solido-urbano",
+      "rejeito",
+      "poluicao-sonora",
+      "triagem"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-41-2025",
+     "fracao": 0.42,
+     "tags": [
+      "impermeabilizacao",
+      "lixiviado",
+      "agua-pluvial",
+      "odor",
+      "aglomerado-populacional",
+      "vetor",
+      "residuo-solido-urbano",
+      "rejeito",
+      "poluicao-sonora",
+      "triagem"
+     ]
+    },
+    {
+     "norma": "resolucao-conama-358-2005",
+     "fracao": 0.38,
+     "tags": [
+      "impermeabilizacao",
+      "lixiviado",
+      "agua-pluvial",
+      "cobertura-residuo",
+      "biogas",
+      "municipio",
+      "aterro-sanitario",
+      "transbordo",
+      "residuo-liquido"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-28-2025",
+     "fracao": 0.33,
+     "tags": [
+      "sistema-isolamento",
+      "impermeabilizacao",
+      "agua-pluvial",
+      "aglomerado-populacional",
+      "poluicao-sonora",
+      "contencao",
+      "aterro-sanitario",
+      "edificacao-armazenamento"
+     ]
+    },
+    {
+     "norma": "lei-federal-12305-2010",
+     "fracao": 0.33,
+     "tags": [
+      "residuo-solido-urbano",
+      "rejeito",
+      "municipio",
+      "aterro-sanitario",
+      "regiao-metropolitana",
+      "microrregiao",
+      "pmgirs",
+      "eletroeletronico"
+     ]
+    },
+    {
+     "norma": "decreto-federal-10936-2022",
+     "fracao": 0.25,
+     "tags": [
+      "residuo-solido-urbano",
+      "rejeito",
+      "municipio",
+      "regiao-metropolitana",
+      "microrregiao",
+      "pmgirs"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-24-2026",
+     "fracao": 0.25,
+     "tags": [
+      "impermeabilizacao",
+      "agua-pluvial",
+      "odor",
+      "vetor",
+      "residuo-solido-urbano",
+      "biogas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_08",
+   "nome": "Atividades industriais e fontes poluidoras",
+   "tags": [
+    "esgotamento-sanitario",
+    "industria",
+    "emissao-atmosferica",
+    "efluente",
+    "residuo-perigoso",
+    "emissao-fugitiva",
+    "tratamento-superficie",
+    "artesanal",
+    "industria-mecanica",
+    "industria-material-transporte",
+    "manutencao-reparacao",
+    "industria-metalurgica",
+    "area-urbana-consolidada",
+    "industria-eletrica",
+    "industria-textil",
+    "minerais-nao-metalicos",
+    "industrias-diversas",
+    "industria-borracha",
+    "papel-celulose",
+    "industria-quimica",
+    "industria-bebidas",
+    "oleo-lubrificante",
+    "industria-grafica",
+    "petroleo"
+   ],
+   "categoria_dominante": "enquadramento",
+   "categorias": {
+    "enquadramento": 1926,
+    "normas-gerais": 1714,
+    "limites-parametros": 32,
+    "obrigacoes-proibicoes": 28,
+    "licenciamento": 18
+   },
+   "normas": [
+    {
+     "norma": "instrucao-normativa-iat-11-2026",
+     "fracao": 0.92,
+     "tags": [
+      "esgotamento-sanitario",
+      "industria",
+      "emissao-atmosferica",
+      "efluente",
+      "residuo-perigoso",
+      "emissao-fugitiva",
+      "tratamento-superficie",
+      "artesanal",
+      "industria-mecanica",
+      "industria-material-transporte",
+      "manutencao-reparacao",
+      "industria-metalurgica",
+      "area-urbana-consolidada",
+      "industria-eletrica",
+      "industria-textil",
+      "minerais-nao-metalicos",
+      "industrias-diversas",
+      "industria-borracha",
+      "papel-celulose",
+      "industria-quimica",
+      "industria-bebidas",
+      "industria-grafica"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-65-2025",
+     "fracao": 0.75,
+     "tags": [
+      "esgotamento-sanitario",
+      "industria",
+      "emissao-atmosferica",
+      "efluente",
+      "residuo-perigoso",
+      "emissao-fugitiva",
+      "artesanal",
+      "industria-mecanica",
+      "industria-material-transporte",
+      "industria-metalurgica",
+      "industria-eletrica",
+      "industria-textil",
+      "minerais-nao-metalicos",
+      "industrias-diversas",
+      "industria-borracha",
+      "papel-celulose",
+      "industria-quimica",
+      "industria-bebidas"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-ibama-13-2021",
+     "fracao": 0.42,
+     "tags": [
+      "industria-mecanica",
+      "industria-material-transporte",
+      "industria-metalurgica",
+      "industria-eletrica",
+      "industria-textil",
+      "minerais-nao-metalicos",
+      "industrias-diversas",
+      "industria-borracha",
+      "papel-celulose",
+      "industria-quimica"
+     ]
+    },
+    {
+     "norma": "lei-federal-6938-1981",
+     "fracao": 0.42,
+     "tags": [
+      "industria-mecanica",
+      "industria-material-transporte",
+      "industria-metalurgica",
+      "industria-eletrica",
+      "industria-textil",
+      "minerais-nao-metalicos",
+      "industrias-diversas",
+      "industria-borracha",
+      "papel-celulose",
+      "industria-quimica"
+     ]
+    },
+    {
+     "norma": "resolucao-conama-237-1997",
+     "fracao": 0.42,
+     "tags": [
+      "industria-mecanica",
+      "industria-material-transporte",
+      "industria-metalurgica",
+      "industria-eletrica",
+      "industria-textil",
+      "minerais-nao-metalicos",
+      "industrias-diversas",
+      "industria-borracha",
+      "papel-celulose",
+      "industria-quimica"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-29-2026",
+     "fracao": 0.33,
+     "tags": [
+      "esgotamento-sanitario",
+      "industria",
+      "efluente",
+      "residuo-perigoso",
+      "industria-metalurgica",
+      "industria-textil",
+      "papel-celulose",
+      "industria-quimica"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-ibama-13-2012",
+     "fracao": 0.29,
+     "tags": [
+      "residuo-perigoso",
+      "tratamento-superficie",
+      "industria-metalurgica",
+      "industria-quimica",
+      "oleo-lubrificante",
+      "industria-grafica",
+      "petroleo"
+     ]
+    },
+    {
+     "norma": "resolucao-conama-382-2006",
+     "fracao": 0.29,
+     "tags": [
+      "emissao-atmosferica",
+      "emissao-fugitiva",
+      "industria-metalurgica",
+      "minerais-nao-metalicos",
+      "papel-celulose",
+      "industria-quimica",
+      "petroleo"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-28-2025",
+     "fracao": 0.25,
+     "tags": [
+      "industria",
+      "emissao-atmosferica",
+      "efluente",
+      "residuo-perigoso",
+      "emissao-fugitiva",
+      "area-urbana-consolidada"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_09",
+   "nome": "Requerimento e documentos do processo",
+   "tags": [
+    "mapa-situacao",
+    "documentacao",
+    "serflor",
+    "relatorio-atendimento-condicionante",
+    "outorga-direito",
+    "requerimento",
+    "uso-insignificante",
+    "inventario-residuos",
+    "mtr",
+    "outorga-previa",
+    "dcp",
+    "pgrs",
+    "pgr",
+    "diagnostico-ambiental",
+    "projeto-instalacao",
+    "corpo-bombeiros",
+    "pcpa",
+    "sinir",
+    "pbca",
+    "alvara",
+    "porte-excepcional",
+    "plano-emergencia"
+   ],
+   "categoria_dominante": "obrigacoes-proibicoes",
+   "categorias": {
+    "normas-gerais": 910,
+    "obrigacoes-proibicoes": 84,
+    "licenciamento": 76,
+    "enquadramento": 55
+   },
+   "normas": [
+    {
+     "norma": "instrucao-normativa-iat-28-2025",
+     "fracao": 0.91,
+     "tags": [
+      "mapa-situacao",
+      "documentacao",
+      "serflor",
+      "relatorio-atendimento-condicionante",
+      "outorga-direito",
+      "requerimento",
+      "uso-insignificante",
+      "inventario-residuos",
+      "mtr",
+      "outorga-previa",
+      "dcp",
+      "pgrs",
+      "pgr",
+      "diagnostico-ambiental",
+      "projeto-instalacao",
+      "corpo-bombeiros",
+      "pcpa",
+      "sinir",
+      "alvara",
+      "porte-excepcional"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-65-2025",
+     "fracao": 0.77,
+     "tags": [
+      "mapa-situacao",
+      "documentacao",
+      "serflor",
+      "relatorio-atendimento-condicionante",
+      "outorga-direito",
+      "requerimento",
+      "uso-insignificante",
+      "inventario-residuos",
+      "mtr",
+      "outorga-previa",
+      "dcp",
+      "pgrs",
+      "pgr",
+      "diagnostico-ambiental",
+      "pcpa",
+      "pbca",
+      "porte-excepcional"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-25-2025",
+     "fracao": 0.59,
+     "tags": [
+      "mapa-situacao",
+      "documentacao",
+      "relatorio-atendimento-condicionante",
+      "outorga-direito",
+      "requerimento",
+      "inventario-residuos",
+      "mtr",
+      "pgrs",
+      "diagnostico-ambiental",
+      "pcpa",
+      "sinir",
+      "pbca",
+      "porte-excepcional"
+     ]
+    },
+    {
+     "norma": "decreto-estadual-9541-2025",
+     "fracao": 0.45,
+     "tags": [
+      "documentacao",
+      "relatorio-atendimento-condicionante",
+      "outorga-direito",
+      "requerimento",
+      "uso-insignificante",
+      "outorga-previa",
+      "pgr",
+      "diagnostico-ambiental",
+      "pcpa",
+      "alvara"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-41-2025",
+     "fracao": 0.36,
+     "tags": [
+      "mapa-situacao",
+      "mtr",
+      "outorga-previa",
+      "pgrs",
+      "diagnostico-ambiental",
+      "pcpa",
+      "sinir",
+      "porte-excepcional"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-22-2026",
+     "fracao": 0.32,
+     "tags": [
+      "documentacao",
+      "serflor",
+      "relatorio-atendimento-condicionante",
+      "outorga-direito",
+      "requerimento",
+      "uso-insignificante",
+      "outorga-previa"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-32-2025",
+     "fracao": 0.32,
+     "tags": [
+      "mtr",
+      "pgrs",
+      "diagnostico-ambiental",
+      "corpo-bombeiros",
+      "pcpa",
+      "sinir",
+      "plano-emergencia"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_10",
+   "nome": "Padrões de qualidade e de lançamento",
+   "tags": [
+    "dbo",
+    "coliforme",
+    "padrao-qualidade",
+    "oleos-graxas",
+    "materiais-sedimentaveis",
+    "padrao-lancamento",
+    "classe-1",
+    "material-particulado",
+    "classe-3",
+    "estudo-dispersao",
+    "amostragem",
+    "classe-2",
+    "cianobacteria",
+    "qualidade-ar",
+    "poco",
+    "pesca",
+    "classe-4",
+    "agua-subterranea",
+    "captacao",
+    "dqo",
+    "abastecimento-publico",
+    "laboratorio"
+   ],
+   "categoria_dominante": "limites-parametros",
+   "categorias": {
+    "normas-gerais": 601,
+    "limites-parametros": 73,
+    "obrigacoes-proibicoes": 62,
+    "enquadramento": 14
+   },
+   "normas": [
+    {
+     "norma": "resolucao-conama-357-2005",
+     "fracao": 0.55,
+     "tags": [
+      "dbo",
+      "coliforme",
+      "padrao-qualidade",
+      "oleos-graxas",
+      "padrao-lancamento",
+      "classe-1",
+      "classe-3",
+      "classe-2",
+      "cianobacteria",
+      "pesca",
+      "classe-4",
+      "abastecimento-publico"
+     ]
+    },
+    {
+     "norma": "resolucao-conama-396-2008",
+     "fracao": 0.36,
+     "tags": [
+      "padrao-qualidade",
+      "classe-1",
+      "classe-3",
+      "amostragem",
+      "classe-2",
+      "classe-4",
+      "agua-subterranea",
+      "laboratorio"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-28-2025",
+     "fracao": 0.32,
+     "tags": [
+      "dbo",
+      "oleos-graxas",
+      "materiais-sedimentaveis",
+      "padrao-lancamento",
+      "qualidade-ar",
+      "agua-subterranea",
+      "dqo"
+     ]
+    },
+    {
+     "norma": "resolucao-cerh-122-2023",
+     "fracao": 0.32,
+     "tags": [
+      "dbo",
+      "coliforme",
+      "padrao-qualidade",
+      "oleos-graxas",
+      "poco",
+      "agua-subterranea",
+      "captacao"
+     ]
+    },
+    {
+     "norma": "resolucao-conama-430-2011",
+     "fracao": 0.32,
+     "tags": [
+      "dbo",
+      "padrao-qualidade",
+      "oleos-graxas",
+      "materiais-sedimentaveis",
+      "padrao-lancamento",
+      "cianobacteria",
+      "abastecimento-publico"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-41-2025",
+     "fracao": 0.27,
+     "tags": [
+      "estudo-dispersao",
+      "amostragem",
+      "qualidade-ar",
+      "poco",
+      "agua-subterranea",
+      "laboratorio"
+     ]
+    },
+    {
+     "norma": "resolucao-sedest-2-2025",
+     "fracao": 0.27,
+     "tags": [
+      "padrao-qualidade",
+      "material-particulado",
+      "estudo-dispersao",
+      "amostragem",
+      "qualidade-ar",
+      "laboratorio"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_11",
+   "nome": "Infrações, sanções e responsabilidade",
+   "tags": [
+    "sancao",
+    "cancelamento-licenca",
+    "informacao-falsa",
+    "responsabilidade",
+    "flora",
+    "lodo",
+    "suspensao-licenca",
+    "infracao-ambiental",
+    "crime-ambiental",
+    "dano-ambiental",
+    "multa",
+    "encerramento",
+    "tac",
+    "projeto-agronomico",
+    "nitrogenio",
+    "ministerio-publico",
+    "reincidencia",
+    "processo-administrativo",
+    "contratacao-terceiro"
+   ],
+   "categoria_dominante": "obrigacoes-proibicoes",
+   "categorias": {
+    "normas-gerais": 1333,
+    "obrigacoes-proibicoes": 139,
+    "licenciamento": 117,
+    "enquadramento": 38,
+    "limites-parametros": 7
+   },
+   "normas": [
+    {
+     "norma": "decreto-estadual-9541-2025",
+     "fracao": 0.68,
+     "tags": [
+      "sancao",
+      "cancelamento-licenca",
+      "informacao-falsa",
+      "responsabilidade",
+      "flora",
+      "infracao-ambiental",
+      "crime-ambiental",
+      "dano-ambiental",
+      "multa",
+      "encerramento",
+      "tac",
+      "ministerio-publico",
+      "processo-administrativo"
+     ]
+    },
+    {
+     "norma": "lei-estadual-22252-2024",
+     "fracao": 0.58,
+     "tags": [
+      "sancao",
+      "cancelamento-licenca",
+      "informacao-falsa",
+      "responsabilidade",
+      "suspensao-licenca",
+      "infracao-ambiental",
+      "crime-ambiental",
+      "dano-ambiental",
+      "encerramento",
+      "tac",
+      "ministerio-publico"
+     ]
+    },
+    {
+     "norma": "lei-federal-6938-1981",
+     "fracao": 0.42,
+     "tags": [
+      "sancao",
+      "responsabilidade",
+      "flora",
+      "crime-ambiental",
+      "dano-ambiental",
+      "multa",
+      "ministerio-publico",
+      "reincidencia"
+     ]
+    },
+    {
+     "norma": "lei-federal-15190-2025",
+     "fracao": 0.37,
+     "tags": [
+      "cancelamento-licenca",
+      "responsabilidade",
+      "suspensao-licenca",
+      "infracao-ambiental",
+      "crime-ambiental",
+      "processo-administrativo",
+      "contratacao-terceiro"
+     ]
+    },
+    {
+     "norma": "lei-federal-9605-1998",
+     "fracao": 0.37,
+     "tags": [
+      "responsabilidade",
+      "flora",
+      "crime-ambiental",
+      "dano-ambiental",
+      "multa",
+      "reincidencia",
+      "processo-administrativo"
+     ]
+    },
+    {
+     "norma": "resolucao-conama-358-2005",
+     "fracao": 0.37,
+     "tags": [
+      "sancao",
+      "responsabilidade",
+      "infracao-ambiental",
+      "crime-ambiental",
+      "encerramento",
+      "tac",
+      "ministerio-publico"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-11-2026",
+     "fracao": 0.32,
+     "tags": [
+      "sancao",
+      "informacao-falsa",
+      "responsabilidade",
+      "infracao-ambiental",
+      "crime-ambiental",
+      "processo-administrativo"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-28-2025",
+     "fracao": 0.32,
+     "tags": [
+      "sancao",
+      "informacao-falsa",
+      "flora",
+      "dano-ambiental",
+      "encerramento",
+      "tac"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-65-2025",
+     "fracao": 0.32,
+     "tags": [
+      "sancao",
+      "informacao-falsa",
+      "infracao-ambiental",
+      "crime-ambiental",
+      "encerramento",
+      "tac"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-ibama-13-2021",
+     "fracao": 0.32,
+     "tags": [
+      "sancao",
+      "responsabilidade",
+      "flora",
+      "infracao-ambiental",
+      "encerramento",
+      "processo-administrativo"
+     ]
+    },
+    {
+     "norma": "lei-federal-12305-2010",
+     "fracao": 0.32,
+     "tags": [
+      "sancao",
+      "responsabilidade",
+      "infracao-ambiental",
+      "crime-ambiental",
+      "dano-ambiental",
+      "contratacao-terceiro"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-38-2025",
+     "fracao": 0.26,
+     "tags": [
+      "sancao",
+      "responsabilidade",
+      "lodo",
+      "projeto-agronomico",
+      "nitrogenio"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-41-2025",
+     "fracao": 0.26,
+     "tags": [
+      "sancao",
+      "flora",
+      "lodo",
+      "encerramento",
+      "projeto-agronomico"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-6-2026",
+     "fracao": 0.26,
+     "tags": [
+      "sancao",
+      "cancelamento-licenca",
+      "informacao-falsa",
+      "infracao-ambiental",
+      "dano-ambiental"
+     ]
+    },
+    {
+     "norma": "lei-estadual-12493-1999",
+     "fracao": 0.26,
+     "tags": [
+      "sancao",
+      "responsabilidade",
+      "lodo",
+      "multa",
+      "reincidencia"
+     ]
+    },
+    {
+     "norma": "resolucao-conama-357-2005",
+     "fracao": 0.26,
+     "tags": [
+      "sancao",
+      "infracao-ambiental",
+      "tac",
+      "nitrogenio",
+      "ministerio-publico"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_12",
+   "nome": "Agropecuária, efluentes no solo e áreas contaminadas",
+   "tags": [
+    "dejeto-animal",
+    "disposicao-solo",
+    "suinocultura",
+    "licenciamento-ambiental",
+    "uso-agricola-efluente",
+    "posto-combustivel",
+    "bovinocultura",
+    "area-contaminada",
+    "risco-ambiental",
+    "fosforo",
+    "saneamento",
+    "pastagem",
+    "avicultura",
+    "tratamento-efluente",
+    "reservatorio",
+    "baixo-risco"
+   ],
+   "categoria_dominante": "licenciamento",
+   "categorias": {
+    "normas-gerais": 1938,
+    "licenciamento": 227,
+    "obrigacoes-proibicoes": 213,
+    "enquadramento": 141,
+    "limites-parametros": 6
+   },
+   "normas": [
+    {
+     "norma": "instrucao-normativa-iat-23-2026",
+     "fracao": 0.44,
+     "tags": [
+      "dejeto-animal",
+      "licenciamento-ambiental",
+      "uso-agricola-efluente",
+      "bovinocultura",
+      "risco-ambiental",
+      "fosforo",
+      "tratamento-efluente"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-24-2026",
+     "fracao": 0.44,
+     "tags": [
+      "dejeto-animal",
+      "disposicao-solo",
+      "suinocultura",
+      "uso-agricola-efluente",
+      "fosforo",
+      "pastagem",
+      "tratamento-efluente"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-28-2025",
+     "fracao": 0.38,
+     "tags": [
+      "disposicao-solo",
+      "licenciamento-ambiental",
+      "posto-combustivel",
+      "area-contaminada",
+      "risco-ambiental",
+      "tratamento-efluente"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-26-2026",
+     "fracao": 0.31,
+     "tags": [
+      "suinocultura",
+      "licenciamento-ambiental",
+      "bovinocultura",
+      "pastagem",
+      "avicultura"
+     ]
+    },
+    {
+     "norma": "resolucao-conama-430-2011",
+     "fracao": 0.31,
+     "tags": [
+      "disposicao-solo",
+      "licenciamento-ambiental",
+      "fosforo",
+      "saneamento",
+      "tratamento-efluente"
+     ]
+    },
+    {
+     "norma": "decreto-estadual-9541-2025",
+     "fracao": 0.25,
+     "tags": [
+      "licenciamento-ambiental",
+      "area-contaminada",
+      "saneamento",
+      "baixo-risco"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-11-2026",
+     "fracao": 0.25,
+     "tags": [
+      "licenciamento-ambiental",
+      "risco-ambiental",
+      "saneamento",
+      "baixo-risco"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-29-2026",
+     "fracao": 0.25,
+     "tags": [
+      "suinocultura",
+      "licenciamento-ambiental",
+      "bovinocultura",
+      "reservatorio"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-41-2025",
+     "fracao": 0.25,
+     "tags": [
+      "disposicao-solo",
+      "area-contaminada",
+      "pastagem",
+      "tratamento-efluente"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-65-2025",
+     "fracao": 0.25,
+     "tags": [
+      "licenciamento-ambiental",
+      "uso-agricola-efluente",
+      "area-contaminada",
+      "risco-ambiental"
+     ]
+    },
+    {
+     "norma": "lei-federal-12651-2012",
+     "fracao": 0.25,
+     "tags": [
+      "licenciamento-ambiental",
+      "risco-ambiental",
+      "saneamento",
+      "reservatorio"
+     ]
+    },
+    {
+     "norma": "resolucao-conama-357-2005",
+     "fracao": 0.25,
+     "tags": [
+      "disposicao-solo",
+      "licenciamento-ambiental",
+      "fosforo",
+      "tratamento-efluente"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_13",
+   "nome": "Gestão de recursos hídricos (SEGRH)",
+   "tags": [
+    "recurso-hidrico",
+    "cerh",
+    "conselho-estadual-recursos-hidricos",
+    "plano-recursos-hidricos",
+    "comite-bacia",
+    "segrh",
+    "cobranca-uso-agua",
+    "bacia-hidrografica",
+    "sistema-informacao-recursos-hidricos",
+    "disponibilidade-hidrica",
+    "regulamentacao"
+   ],
+   "categoria_dominante": "obrigacoes-proibicoes",
+   "categorias": {
+    "normas-gerais": 418,
+    "obrigacoes-proibicoes": 15,
+    "enquadramento": 6,
+    "licenciamento": 4,
+    "limites-parametros": 2
+   },
+   "normas": [
+    {
+     "norma": "lei-estadual-12726-1999",
+     "fracao": 1.0,
+     "tags": [
+      "recurso-hidrico",
+      "cerh",
+      "conselho-estadual-recursos-hidricos",
+      "plano-recursos-hidricos",
+      "comite-bacia",
+      "segrh",
+      "cobranca-uso-agua",
+      "bacia-hidrografica",
+      "sistema-informacao-recursos-hidricos",
+      "disponibilidade-hidrica",
+      "regulamentacao"
+     ]
+    },
+    {
+     "norma": "decreto-estadual-9957-2014",
+     "fracao": 0.55,
+     "tags": [
+      "recurso-hidrico",
+      "cerh",
+      "comite-bacia",
+      "segrh",
+      "bacia-hidrografica",
+      "disponibilidade-hidrica"
+     ]
+    },
+    {
+     "norma": "lei-federal-9433-1997",
+     "fracao": 0.55,
+     "tags": [
+      "conselho-estadual-recursos-hidricos",
+      "plano-recursos-hidricos",
+      "comite-bacia",
+      "bacia-hidrografica",
+      "sistema-informacao-recursos-hidricos",
+      "disponibilidade-hidrica"
+     ]
+    },
+    {
+     "norma": "resolucao-cerh-122-2023",
+     "fracao": 0.45,
+     "tags": [
+      "cerh",
+      "plano-recursos-hidricos",
+      "comite-bacia",
+      "cobranca-uso-agua",
+      "bacia-hidrografica"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_14",
+   "nome": "Empreendimentos imobiliários e saneamento",
+   "tags": [
+    "uso-solo",
+    "certidao",
+    "esgoto-sanitario",
+    "empreendimento-imobiliario",
+    "geologia",
+    "passivo-ambiental",
+    "tratamento-esgoto",
+    "dimensionamento",
+    "area-degradada",
+    "drenagem"
+   ],
+   "categoria_dominante": "licenciamento",
+   "categorias": {
+    "normas-gerais": 569,
+    "licenciamento": 115,
+    "obrigacoes-proibicoes": 93,
+    "enquadramento": 23,
+    "limites-parametros": 1
+   },
+   "normas": [
+    {
+     "norma": "instrucao-normativa-iat-21-2025",
+     "fracao": 0.7,
+     "tags": [
+      "uso-solo",
+      "certidao",
+      "esgoto-sanitario",
+      "empreendimento-imobiliario",
+      "geologia",
+      "passivo-ambiental",
+      "drenagem"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-31-2025",
+     "fracao": 0.6,
+     "tags": [
+      "uso-solo",
+      "esgoto-sanitario",
+      "geologia",
+      "passivo-ambiental",
+      "tratamento-esgoto",
+      "dimensionamento"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-32-2025",
+     "fracao": 0.6,
+     "tags": [
+      "uso-solo",
+      "esgoto-sanitario",
+      "geologia",
+      "passivo-ambiental",
+      "tratamento-esgoto",
+      "dimensionamento"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-30-2025",
+     "fracao": 0.5,
+     "tags": [
+      "uso-solo",
+      "esgoto-sanitario",
+      "geologia",
+      "tratamento-esgoto",
+      "dimensionamento"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-33-2025",
+     "fracao": 0.4,
+     "tags": [
+      "uso-solo",
+      "esgoto-sanitario",
+      "geologia",
+      "dimensionamento"
+     ]
+    },
+    {
+     "norma": "decreto-estadual-9541-2025",
+     "fracao": 0.3,
+     "tags": [
+      "passivo-ambiental",
+      "tratamento-esgoto",
+      "area-degradada"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-24-2026",
+     "fracao": 0.3,
+     "tags": [
+      "uso-solo",
+      "esgoto-sanitario",
+      "dimensionamento"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-28-2025",
+     "fracao": 0.3,
+     "tags": [
+      "uso-solo",
+      "geologia",
+      "area-degradada"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-41-2025",
+     "fracao": 0.3,
+     "tags": [
+      "uso-solo",
+      "geologia",
+      "area-degradada"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_15",
+   "nome": "Aptidão do solo, irrigação e aquicultura",
+   "tags": [
+    "conservacao-solo",
+    "aquicultura",
+    "classe-risco-solo",
+    "vazao",
+    "irrigacao",
+    "enquadramento",
+    "declividade",
+    "viveiro",
+    "textura-solo"
+   ],
+   "categoria_dominante": "enquadramento",
+   "categorias": {
+    "normas-gerais": 439,
+    "enquadramento": 165,
+    "obrigacoes-proibicoes": 68,
+    "licenciamento": 56,
+    "limites-parametros": 2
+   },
+   "normas": [
+    {
+     "norma": "instrucao-normativa-iat-24-2026",
+     "fracao": 0.56,
+     "tags": [
+      "conservacao-solo",
+      "classe-risco-solo",
+      "vazao",
+      "enquadramento",
+      "declividade"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-22-2026",
+     "fracao": 0.44,
+     "tags": [
+      "conservacao-solo",
+      "vazao",
+      "irrigacao",
+      "enquadramento"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-26-2026",
+     "fracao": 0.44,
+     "tags": [
+      "conservacao-solo",
+      "aquicultura",
+      "enquadramento",
+      "viveiro"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-27-2026",
+     "fracao": 0.44,
+     "tags": [
+      "aquicultura",
+      "vazao",
+      "enquadramento",
+      "viveiro"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-65-2025",
+     "fracao": 0.44,
+     "tags": [
+      "classe-risco-solo",
+      "enquadramento",
+      "declividade",
+      "textura-solo"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-33-2025",
+     "fracao": 0.33,
+     "tags": [
+      "vazao",
+      "enquadramento",
+      "declividade"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-41-2025",
+     "fracao": 0.33,
+     "tags": [
+      "enquadramento",
+      "declividade",
+      "textura-solo"
+     ]
+    },
+    {
+     "norma": "lei-estadual-12726-1999",
+     "fracao": 0.33,
+     "tags": [
+      "vazao",
+      "irrigacao",
+      "enquadramento"
+     ]
+    },
+    {
+     "norma": "lei-federal-12651-2012",
+     "fracao": 0.33,
+     "tags": [
+      "conservacao-solo",
+      "aquicultura",
+      "declividade"
+     ]
+    },
+    {
+     "norma": "resolucao-cerh-122-2023",
+     "fracao": 0.33,
+     "tags": [
+      "aquicultura",
+      "irrigacao",
+      "enquadramento"
+     ]
+    },
+    {
+     "norma": "resolucao-conama-357-2005",
+     "fracao": 0.33,
+     "tags": [
+      "aquicultura",
+      "irrigacao",
+      "enquadramento"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_16",
+   "nome": "Rito de licenciamento e insumos orgânicos",
+   "tags": [
+    "licenciamento-bifasico",
+    "modalidade",
+    "licenciamento-trifasico",
+    "licenciamento-monofasico",
+    "compostagem",
+    "fertilizante",
+    "metal-pesado",
+    "animal-morto"
+   ],
+   "categoria_dominante": "obrigacoes-proibicoes",
+   "categorias": {
+    "normas-gerais": 251,
+    "obrigacoes-proibicoes": 22,
+    "enquadramento": 18,
+    "licenciamento": 10
+   },
+   "normas": [
+    {
+     "norma": "instrucao-normativa-iat-41-2025",
+     "fracao": 0.62,
+     "tags": [
+      "modalidade",
+      "compostagem",
+      "fertilizante",
+      "metal-pesado",
+      "animal-morto"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-65-2025",
+     "fracao": 0.62,
+     "tags": [
+      "licenciamento-bifasico",
+      "modalidade",
+      "licenciamento-trifasico",
+      "licenciamento-monofasico",
+      "compostagem"
+     ]
+    },
+    {
+     "norma": "decreto-estadual-9541-2025",
+     "fracao": 0.5,
+     "tags": [
+      "licenciamento-bifasico",
+      "modalidade",
+      "licenciamento-trifasico",
+      "licenciamento-monofasico"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-24-2026",
+     "fracao": 0.5,
+     "tags": [
+      "modalidade",
+      "compostagem",
+      "fertilizante",
+      "animal-morto"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-25-2025",
+     "fracao": 0.5,
+     "tags": [
+      "licenciamento-bifasico",
+      "modalidade",
+      "licenciamento-trifasico",
+      "licenciamento-monofasico"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-28-2025",
+     "fracao": 0.5,
+     "tags": [
+      "licenciamento-bifasico",
+      "modalidade",
+      "licenciamento-trifasico",
+      "licenciamento-monofasico"
+     ]
+    },
+    {
+     "norma": "lei-estadual-22252-2024",
+     "fracao": 0.5,
+     "tags": [
+      "licenciamento-bifasico",
+      "modalidade",
+      "licenciamento-trifasico",
+      "licenciamento-monofasico"
+     ]
+    },
+    {
+     "norma": "lei-federal-15190-2025",
+     "fracao": 0.38,
+     "tags": [
+      "licenciamento-bifasico",
+      "licenciamento-trifasico",
+      "licenciamento-monofasico"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_17",
+   "nome": "Áreas de influência e mananciais",
+   "tags": [
+    "aii",
+    "aid",
+    "manancial",
+    "lancamento",
+    "rede-esgoto"
+   ],
+   "categoria_dominante": "obrigacoes-proibicoes",
+   "categorias": {
+    "normas-gerais": 93,
+    "obrigacoes-proibicoes": 7,
+    "enquadramento": 2,
+    "licenciamento": 2,
+    "limites-parametros": 1
+   },
+   "normas": [
+    {
+     "norma": "instrucao-normativa-iat-29-2026",
+     "fracao": 1.0,
+     "tags": [
+      "aii",
+      "aid",
+      "manancial",
+      "lancamento",
+      "rede-esgoto"
+     ]
+    },
+    {
+     "norma": "instrucao-normativa-iat-33-2025",
+     "fracao": 0.8,
+     "tags": [
+      "aii",
+      "aid",
+      "manancial",
+      "lancamento"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contexto_18",
+   "nome": "Resíduos químicos (Grupo B) e aterro classe I",
+   "tags": [
+    "grupo-b",
+    "segregacao",
+    "aterro-classe-i"
+   ],
+   "categoria_dominante": "obrigacoes-proibicoes",
+   "categorias": {
+    "normas-gerais": 95,
+    "obrigacoes-proibicoes": 5
+   },
+   "normas": [
+    {
+     "norma": "rdc-anvisa-222-2018",
+     "fracao": 1.0,
+     "tags": [
+      "grupo-b",
+      "segregacao",
+      "aterro-classe-i"
+     ]
+    },
+    {
+     "norma": "resolucao-conama-358-2005",
+     "fracao": 1.0,
+     "tags": [
+      "grupo-b",
+      "segregacao",
+      "aterro-classe-i"
+     ]
+    }
+   ]
+  }
+ ]
+}
