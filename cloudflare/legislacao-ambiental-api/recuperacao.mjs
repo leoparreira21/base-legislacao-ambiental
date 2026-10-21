@@ -1,11 +1,25 @@
-import {tokens} from '../../site/motor.js';
+import {tokens, OPCOES_CASO} from '../../site/motor.js';
+
+const TITULOS={modalidade:'Modalidade da licença',agua:'Origem da água',efluentes:'Destino dos efluentes',localizacao:'Condições da localização'};
+const rotulo=(campo,valor)=>OPCOES_CASO[campo]?.find(o=>o.valor===valor)?.rotulo||valor;
+// Gatilhos curados (consultas/gatilhos.json) contra os campos do caso. Um fato nunca
+// é confirmado pelo servidor; um campo só conta como atendido com valor exato.
+export function avaliarGatilhos(gatilhos,campos={}) {
+  return (gatilhos||[]).map(g=> {
+    if(!g.campo) return {descricao:g.fato,estado:'a_confirmar',trecho:g.trecho,origem:g.origem};
+    const valor=(campos[g.campo]||'').trim();
+    const estado=!valor||/^Não informado/.test(rotulo(g.campo,valor))?'nao_informada':g.valores.includes(valor)?'atendida':'nao_atendida';
+    return {descricao:TITULOS[g.campo]+': '+g.valores.map(v=>rotulo(g.campo,v)).join(' ou '),estado,trecho:g.trecho,origem:g.origem,
+      ...(estado==='nao_atendida'?{informado:rotulo(g.campo,valor)}:{})};
+  });
+}
 
 const substantivo = d => /(?:^|_)(?:art\d+|anexo\d+)/.test(d.id) &&
   d.texto.replace(/^#+[^\n]*\n?|^Tags:.*$/gm, '').replace(/^\s*-?\s*\*\*[^*]+\*\*\s*\{#[^}]+\}/, '').trim().length > 45;
 
 // As pontuações de eixos distintos não são comparáveis. Reservar vagas por eixo
 // evita que modalidades longas expulsem efluentes e resíduos do contexto da IA.
-export function selecionarEvidencias(result, fatias, commit) {
+export function selecionarEvidencias(result, fatias, commit, campos={}) {
   const byNorm = new Map(), byId = new Map(), refs = new Map();
   for (const f of fatias) {
     const ds = f.dispositivos.map(d => ({...d, norma:f.norma, arquivo:f.arquivo}));
@@ -80,7 +94,8 @@ export function selecionarEvidencias(result, fatias, commit) {
     if(size<40) continue;
     const texto=d.texto.slice(0,size); budget-=size;
     evidencias.push({chave:d.chave,papel,eixo,texto,truncado:size<d.texto.length,
-      funcao:d.funcao?{categorias:d.funcao.categorias,estado:d.funcao.estado}:null, tags:d.tags.slice(0,12),elegivel:true,arquivo:d.arquivo,linhas:[d.linha_inicio,d.linha_fim],
+      funcao:d.funcao?{categorias:d.funcao.categorias,estado:d.funcao.estado}:null,
+      ...(d.gatilhos?{gatilhos:avaliarGatilhos(d.gatilhos,campos)}:{}), tags:d.tags.slice(0,12),elegivel:true,arquivo:d.arquivo,linhas:[d.linha_inicio,d.linha_fim],
       url:'https://github.com/leoparreira21/base-legislacao-ambiental/blob/'+commit+'/'+d.arquivo+'#L'+d.linha_inicio+'-L'+d.linha_fim});
   }
   const lacunas=[];

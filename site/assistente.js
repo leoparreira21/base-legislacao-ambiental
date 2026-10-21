@@ -29,6 +29,19 @@ function busy(value) {
   for(const el of $('case-form').elements) el.disabled=value;
   for(const el of document.querySelectorAll('[data-example]'))el.disabled=value;
 }
+// Gatilhos curados: condição de fato exigida pelo texto e estado conferido contra o caso.
+const CONDICAO={atendida:'atendida pelo caso',nao_informada:'não informada',a_confirmar:'a confirmar',nao_atendida:'não corresponde ao caso'};
+function conditions(card,list) {
+  if(!list?.length) return;
+  card.append(element('p','Condições exigidas pelo texto:','hint'));
+  const ul=element('ul',undefined,'conditions');
+  for(const c of list) {
+    const li=element('li',undefined,'condition '+c.estado);
+    li.append(element('strong',CONDICAO[c.estado]||'conferir'),document.createTextNode(' · '+c.descricao+(c.informado?' (informado: '+c.informado+')':'')),element('small','“'+c.trecho+'”'));
+    ul.append(li);
+  }
+  card.append(ul);
+}
 function sourceLink(url,title) {
   const a=element('a',title,'source');
   try {const u=new URL(url);if(u.protocol!=='https:'||u.hostname!=='github.com'||!u.pathname.startsWith('/leoparreira21/base-legislacao-ambiental/blob/'))return element('span','Fonte indisponível');a.href=u.href;}catch{return element('span','Fonte indisponível');}
@@ -46,6 +59,7 @@ function renderAnswer(data,container) {
     const card=element('article',undefined,'evidence-card');
     card.append(element('span',labels[item.classificacao]||'Conferir','classification'),element('h3',titleKey(item.chave)),element('p',item.fundamentacao));
     if(item.funcao?.categorias?.length) card.append(element('p','Função '+(item.funcao.estado==='revisada'?'revisada':'sugerida')+': '+item.funcao.categorias.map(c=>CATEGORIAS_FUNCAO[c]||c).join(' · '),'hint'));
+    conditions(card,item.condicoes);
     const details=element('details');details.append(element('summary','Conferir citação e fonte'));
     for(const ev of item.evidencias||[]) {details.append(element('blockquote',ev.trecho),sourceLink(ev.fonte?.url||item.fonte.url,'Abrir '+ev.chave.split('#')[1]+' na fonte'));}
     card.append(details);
@@ -56,7 +70,7 @@ function renderAnswer(data,container) {
     container.append(card);
   }
   for(const f of data.fontes||[]) {
-    const card=element('article',undefined,'evidence-card');card.append(element('span','Candidato — sem conclusão da IA','classification'),element('h3',titleKey(f.chave)),element('blockquote',f.texto),sourceLink(f.url,'Conferir dispositivo na base'));container.append(card);
+    const card=element('article',undefined,'evidence-card');card.append(element('span','Candidato — sem conclusão da IA','classification'),element('h3',titleKey(f.chave)),element('blockquote',f.texto),sourceLink(f.url,'Conferir dispositivo na base'));conditions(card,f.condicoes);container.append(card);
   }
   if(!data.itens?.length&&!data.fontes?.length) container.append(element('p','Não há dispositivos confirmados nesta resposta. Refine os dados e confira as lacunas abaixo.','empty'));
   if(data.lacunas?.length) {
@@ -127,7 +141,7 @@ for(const b of document.querySelectorAll('[data-example]'))b.onclick=()=>{backup
 $('export').onclick=async()=>{
   const text=turns.map(t=>[
     'PERGUNTA: '+t.question,'DADOS: '+JSON.stringify(t.campos),'CNAEs: '+t.cnaes.join(', '),'BASE: '+t.data.commit,
-    ...(t.data.itens||[]).flatMap(i=>[titleKey(i.chave)+' — '+labels[i.classificacao],'Funções: '+(i.funcao?.categorias||[]).map(c=>CATEGORIAS_FUNCAO[c]||c).join(', '),i.fundamentacao,...i.evidencias.flatMap(e=>['“'+e.trecho+'”',e.fonte.url]),...(i.verificar||[]).map(v=>'Conferir: '+v)]),
+    ...(t.data.itens||[]).flatMap(i=>[titleKey(i.chave)+' — '+labels[i.classificacao],'Funções: '+(i.funcao?.categorias||[]).map(c=>CATEGORIAS_FUNCAO[c]||c).join(', '),i.fundamentacao,...i.evidencias.flatMap(e=>['“'+e.trecho+'”',e.fonte.url]),...(i.condicoes||[]).map(c=>'Condição ('+(CONDICAO[c.estado]||c.estado)+'): '+c.descricao),...(i.verificar||[]).map(v=>'Conferir: '+v)]),
     ...(t.data.fontes||[]).flatMap(f=>['Candidato sem conclusão: '+f.chave,f.texto,f.url]),
     'LACUNAS:',...(t.data.lacunas||[]),'Sugestões sujeitas a revisão técnica.'
   ].join('\n')).join('\n\n-----\n\n');

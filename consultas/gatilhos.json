@@ -1,0 +1,157 @@
+{
+  "formato": "gatilhos/1",
+  "descricao": "Gatilhos de aplicabilidade curados. Cada condição cita um trecho literal da norma (no dispositivo, num ancestral ou no dispositivo indicado em \"em\"). Campo: valores do formulário do caso (site/motor.js, OPCOES_CASO) que satisfazem a condição. Fato: condição que o servidor nunca confirma sozinho. Filhos herdam os gatilhos dos ancestrais. Ver docs/gatilhos-aplicabilidade.md.",
+  "gatilhos": {
+    "rdc-anvisa-222-2018#art5_par1": {
+      "texto_sha256": "c9d638ae4a9cc9c0b1968a90dc248bd570f58abf8d9469f849d4b5897e44622d",
+      "condicoes": [
+        {"fato": "O serviço gera exclusivamente resíduos do Grupo D.", "trecho": "caso o serviço gere exclusivamente resíduos do Grupo D"},
+        {"fato": "A substituição do PGRSS se refere à licença sanitária, não à licença ambiental.", "trecho": "Para obtenção da licença sanitária"}
+      ]
+    },
+    "rdc-anvisa-222-2018#art5_par2": {
+      "texto_sha256": "0da3a716ab89c9a5228885227840df76982e76b27946b0af1bb1136ab2ad0bf1",
+      "condicoes": [
+        {"fato": "O serviço gerador possui instalação radiativa.", "trecho": "Caso o serviço gerador possua instalação radiativa"}
+      ]
+    },
+    "rdc-anvisa-222-2018#art66_cpt": {
+      "texto_sha256": "48b4cdf78efe49d1bf54fa4092bafee32f86bf2ef6381259697d7ce402404828",
+      "condicoes": [
+        {"fato": "O serviço utiliza reveladores em radiologia.", "trecho": "Os reveladores utilizados em radiologia"}
+      ]
+    },
+    "rdc-anvisa-222-2018#art67_cpt": {
+      "texto_sha256": "e448419ba624a31e849798e416c9858b070abaaac47949d4485e3bd13407e2fc",
+      "condicoes": [
+        {"fato": "O serviço utiliza fixadores em radiologia sem recuperação da prata.", "trecho": "quando não submetidos a processo de recuperação da prata"}
+      ]
+    },
+    "rdc-anvisa-222-2018#art71_cpt": {
+      "texto_sha256": "307464949c87bf2b00f41abed3834d0585404de2930208635288d397729182b3",
+      "condicoes": [
+        {"fato": "O serviço gera resíduos de equipamentos automatizados ou de reagentes de laboratório clínico.", "trecho": "resíduos dos equipamentos automatizados e dos reagentes de laboratórios clínicos"}
+      ]
+    },
+    "rdc-anvisa-222-2018#art81_cpt": {
+      "texto_sha256": "0a1bbc6a3897a66f4127db95be5240f315443497033ffa3490976d139ad31b7c",
+      "condicoes": [
+        {"campo": "efluentes", "valores": ["lancamento rede coletora esgoto"], "trecho": "O lançamento de rejeitos líquidos em rede coletora de esgotos"},
+        {"fato": "A rede coletora está conectada à estação de tratamento de esgoto.", "trecho": "conectada à estação de tratamento"}
+      ]
+    },
+    "rdc-anvisa-222-2018#art81_par1u": {
+      "texto_sha256": "43440bbf3c999bf7ad664f6a83814cd0254b0a071403bad5b6ebb260178b6ec2",
+      "condicoes": [
+        {"fato": "Não há acesso a sistema de coleta e tratamento de esgoto por empresa de saneamento.", "trecho": "Quando não houver acesso à sistema de coleta e tratamento de esgoto por empresa de saneamento"},
+        {"campo": "efluentes", "valores": ["lancamento corpo receptor padrao"], "trecho": "antes do lançamento em corpo receptor"}
+      ]
+    },
+    "resolucao-conama-430-2011#art1_par1u": {
+      "texto_sha256": "58703b91719bbde49b1d9d6c02aa91cec5c02b5aa7545eb0afc4e9ee39025d7c",
+      "condicoes": [
+        {"campo": "efluentes", "valores": ["lancamento rede coletora esgoto"], "trecho": "O lançamento indireto de efluentes no corpo receptor"},
+        {"fato": "Não há legislação ou normas específicas, disposições do órgão ambiental nem diretrizes da operadora do sistema de coleta e tratamento.", "trecho": "quando verificada a inexistência de legislação ou normas específicas"}
+      ]
+    },
+    "resolucao-conama-430-2011#art2_cpt": {
+      "texto_sha256": "e07216bbfd86b3d586f123301ffcd64826b2f965598acbd51ef8dd418d2dea1a",
+      "condicoes": [
+        {"campo": "efluentes", "valores": ["infiltracao solo sumidouro"], "trecho": "A disposição de efluentes no solo"}
+      ]
+    },
+    "portaria-iap-26-2006#anexo-in_lin71": {
+      "texto_sha256": "46746b7f2576ef1f4c35d0809026a16ded750d9ecc10a7fc747dff9b0f3446b8",
+      "condicoes": [
+        {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"}
+      ]
+    },
+    "portaria-iap-26-2006#anexo-in_lin72": {
+      "texto_sha256": "6ee95cab39c982ad45a3490d0520468debeba151199f0bfcbb1fb43313135d0b",
+      "condicoes": [
+        {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"}
+      ]
+    },
+    "portaria-iap-26-2006#anexo-in_lin73": {
+      "texto_sha256": "ad35465800e019c20b38ca32695be005c6fcf0ebbc7f6188e2c9c5cdc05e28a2",
+      "condicoes": [
+        {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"}
+      ]
+    },
+    "portaria-iap-26-2006#anexo-in_lin74": {
+      "texto_sha256": "55248fae81f02b37221178d7bf079e2250e35be6a5d929d318ea51de14bf8ebc",
+      "condicoes": [
+        {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"},
+        {"fato": "O empreendimento extrai, coleta, beneficia, transforma, comercializa ou armazena produtos, subprodutos ou matéria-prima de origem florestal.", "trecho": "em se tratando de empreendimentos que extraiam"}
+      ]
+    },
+    "portaria-iap-26-2006#anexo-in_lin75": {
+      "texto_sha256": "064cfd8de8ebdce2680023dfb24dde559acd0390a3162fe51f722458f9ade708",
+      "condicoes": [
+        {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"},
+        {"fato": "O automonitoramento das emissões atmosféricas é necessário no caso.", "trecho": "Relatório do automonitoramento das emissões atmosféricas, se necessário"}
+      ]
+    },
+    "portaria-iap-26-2006#anexo-in_lin76": {
+      "texto_sha256": "80cf190a8e05c3c259f46572ef85525b8d5aa24376cb70a5f0e123275021b0c5",
+      "condicoes": [
+        {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"},
+        {"fato": "O automonitoramento dos efluentes líquidos foi solicitado em licenciamento anterior.", "trecho": "se solicitado em licenciamentos anteriores"}
+      ]
+    },
+    "portaria-iap-26-2006#anexo-in_lin77": {
+      "texto_sha256": "3391777502a0a14e2721684f9b16d307753a5e6f5a5ea3e943047546a992741f",
+      "condicoes": [
+        {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"}
+      ]
+    },
+    "portaria-iap-26-2006#anexo-in_lin78": {
+      "texto_sha256": "e3682b00168c94423add668b3c3ccf6b7cae9cd33f470a09a5d1859586f1e402",
+      "condicoes": [
+        {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"}
+      ]
+    },
+    "portaria-iap-26-2006#anexo-in_lin79": {
+      "texto_sha256": "c8b3980bfb0bbd5bee92423f77c922cccdaeea52e1232b8d99599483ab2953fe",
+      "condicoes": [
+        {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"}
+      ]
+    },
+    "decreto-estadual-9541-2025#art121_par4": {
+      "texto_sha256": "34f0426396bdd3605603b3927d9740fae4472265762cde2f4bd1cfe682ac1712",
+      "condicoes": [
+        {"fato": "A renovação foi requerida com menos de 120 dias de antecedência, com a licença ainda vigente.", "trecho": "requerida fora do prazo de 120 (cento e vinte) dias, mas com a licença ainda vigente"}
+      ]
+    },
+    "decreto-estadual-9541-2025#art124_cpt": {
+      "texto_sha256": "bc94f3b0e6a847c7da56cd69c1d1b2a0210c1b5e194d22b92ed5a2d083684cd2",
+      "condicoes": [
+        {"fato": "A renovação ou prorrogação foi requerida depois do vencimento da licença.", "trecho": "requerida fora do prazo de validade"}
+      ]
+    },
+    "instrucao-normativa-iat-29-2026#art15_cpt": {
+      "texto_sha256": "ce1aad5ae4c0d409515d329bbf93768df1c8c5df7215bd4fc826931e3e1f2a9c",
+      "condicoes": [
+        {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "A renovação do licenciamento"},
+        {"campo": "localizacao", "valores": ["manancial abastecimento"], "trecho": "nas áreas de bacia de manancial"},
+        {"campo": "efluentes", "valores": ["lancamento corpo receptor padrao"], "trecho": "com lançamento de efluentes em corpo hídrico"},
+        {"fato": "O empreendimento já está instalado e em operação.", "trecho": "empreendimentos já instalados e em operação"}
+      ]
+    },
+    "instrucao-normativa-iat-29-2026#art16_cpt": {
+      "texto_sha256": "ada96ebc8b67113d83429c03b7c807bffa79532fea92801e35b71a6c992b15c0",
+      "condicoes": [
+        {"campo": "localizacao", "valores": ["manancial abastecimento"], "trecho": "nas áreas de bacias mananciais - ADA, AID e AII"},
+        {"fato": "O empreendimento já está instalado e em operação.", "trecho": "já instalados e em operação"},
+        {"fato": "O empreendimento não atende ao disposto na IN IAT 29/2026.", "trecho": "que não atendam ao disposto nesta Instrução Normativa"}
+      ]
+    },
+    "instrucao-normativa-iat-29-2026#art18_cpt": {
+      "texto_sha256": "4ac8c3b7b79190872908e54b73b94d747506563b6b1f7de892c0259ca962ce94",
+      "condicoes": [
+        {"campo": "localizacao", "valores": ["manancial abastecimento"], "trecho": "nas áreas de bacias mananciais - ADA, AID e AII"},
+        {"fato": "O procedimento foi protocolado até a entrada em vigor da IN IAT 29/2026.", "trecho": "protocolados até a data da entrada em vigor desta Instrução Normativa"}
+      ]
+    }
+  }
+}

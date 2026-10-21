@@ -28,7 +28,7 @@ jobs:
       - name: Verificar sintaxe do Worker
         run: node --check cloudflare/legislacao-ambiental-api/worker.mjs
       - name: Validar contrato JSON sem consumir IA
-        run: node --test testes/worker-contract.test.mjs
+        run: node --test testes/worker-contract.test.mjs testes/gatilhos.test.mjs
       - name: Testar fluxo completo com índices reais e IA simulada
         run: node --test testes/worker-integracao.test.mjs
       - name: Gerar o site

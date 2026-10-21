@@ -90,7 +90,8 @@ def validar_fatias(dispositivos, grafo, fatias, max_remissoes=3):
         return {"chave": d["chave"], "id": d["id"], "pai": d["pai"], "texto": d["texto"],
                 "linha_inicio": d["linha_inicio"], "linha_fim": d["linha_fim"],
                 "tags": list(dict.fromkeys(d["tags_proprias"] + d["tags_herdadas"])),
-                "funcao": {k: d["funcao"][k] for k in ("categorias", "estado")} if d.get("funcao") else None}
+                "funcao": {k: d["funcao"][k] for k in ("categorias", "estado")} if d.get("funcao") else None,
+                **({"gatilhos": d["gatilhos"]} if d.get("gatilhos") else {})}
 
     alvos = {}
     for a in grafo.get("arestas", []):
