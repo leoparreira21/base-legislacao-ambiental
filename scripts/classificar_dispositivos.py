@@ -12,7 +12,15 @@ CATEGORIAS = {
     'limites-parametros': 'Limites de parâmetros',
     'normas-gerais': 'Normas gerais',
 }
-VERSAO = 'funcional/1'
+VERSAO = 'funcional/1'  # formato do relatório (lido por site/classificacao.js)
+METODO = 'funcional/2'  # regras + herança do título em linhas de tabela/lista
+LINHA_TABELA = re.compile(r'_tab\d+_lin\d+$|^anexo[\w-]*_lin\d+$')
+HERDAVEIS = ('enquadramento', 'licenciamento', 'limites-parametros')
+# Tags que marcam a função de uma tabela inteira quando o título não tem a palavra.
+SINAIS_TAG = {
+    'enquadramento': {'enquadramento', 'porte', 'potencial-poluidor', 'cnae'},
+    'limites-parametros': {'padrao-lancamento', 'padrao-emissao', 'padrao-qualidade'},
+}
 # Cada regra procura a função do comando, não apenas o nome da norma.
 REGRAS = {
     'enquadramento': [
@@ -75,8 +83,40 @@ def classificar(texto, contexto=''):
     if not motivos:
         motivos['normas-gerais'] = ['Sem sinal funcional específico; classificação residual a conferir']
     return {'categorias': list(motivos), 'motivos': motivos,
-            'estado': 'sugerida', 'metodo': VERSAO,
+            'estado': 'sugerida', 'metodo': METODO,
             'texto_sha256': hashlib.sha256(texto.encode('utf-8')).hexdigest()}
+
+
+def herdar_de_tabela(d, resultado, por_id, cache):
+    """Linha de tabela ou lista sem sinal próprio herda a função do título que a contém.
+
+    "Usina de asfalto | até 75 t/h" não diz "enquadramento"; o título do anexo
+    ("Atividades passíveis de LAS", tag #enquadramento) diz. Obrigações não se herdam:
+    a linha descreve um item, não impõe dever.
+    """
+    # Anexos em arquivo próprio são diretrizes de estudo: as linhas pedem conteúdo, não enquadram.
+    if (resultado['categorias'] != ['normas-gerais'] or not LINHA_TABELA.search(d.get('id', ''))
+            or '/anexos/' in d.get('arquivo', '')):
+        return
+    tags = set(d.get('tags_herdadas', []))  # só as do título; a tag da linha descreve o item
+    herdadas, origem = {}, None
+    a = d.get('pai')
+    while a in por_id and not herdadas:
+        if a not in cache:
+            cache[a] = classificar(por_id[a]['texto'])['categorias']
+        herdadas = {c: a for c in cache[a] if c in HERDAVEIS}
+        a = por_id[a].get('pai')
+    for c, sinais in SINAIS_TAG.items():
+        if tags & sinais:
+            herdadas.setdefault(c, '#' + sorted(tags & sinais)[0])
+    normal = texto_limpo(d['texto']).lower()
+    if 'limites-parametros' in herdadas and (not re.search(r'\d', normal) or re.search(r'\bcas\b|produto comercial', normal)):
+        del herdadas['limites-parametros']
+    if herdadas:
+        resultado['categorias'] = list(herdadas)
+        resultado['motivos'] = {
+            c: [f'Herdada de {o if o.startswith("#") else o.split("#", 1)[1]} (linha sem sinal próprio); conferir']
+            for c, o in herdadas.items()}
 
 
 def aplicar(dispositivos, raiz):
@@ -86,11 +126,13 @@ def aplicar(dispositivos, raiz):
     desconhecidos = set(revisoes) - set(por_id)
     if desconhecidos:
         raise ValueError('Revisões com IDs inexistentes: ' + ', '.join(sorted(desconhecidos)[:5]))
+    cache = {}
     for d in dispositivos:
         if not d['elegivel']:
             continue
         pai = por_id.get(d.get('pai'), {})
         resultado = classificar(d['texto'], pai.get('texto', ''))
+        herdar_de_tabela(d, resultado, por_id, cache)
         revisao = revisoes.get(d['chave'])
         if revisao is not None:
             cats = revisao.get('categorias')
