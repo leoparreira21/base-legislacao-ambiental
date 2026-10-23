@@ -22,3 +22,4 @@ Não há login, exclusão remota nem armazenamento de conversas. O chatbot públ
 | Button | .btn / .more | site/estilo.css | Primário, secundário e link | testes/assistente-ui.cjs |
 | Textarea | .resize-none | site/estilo.css e assistente.js fit | Crescimento até 300px no chat | testes/assistente-ui.cjs |
 | Async query | assistente.js | Contrato da API | Cancelar, tentar novamente | testes/worker-contract.test.mjs |
+| Consulta complementar | site/complementar.js | Candidatos separados da base curada, fonte ctresb-leis identificada, falha recuperável sem impedir consulta principal; regras em docs/integracao-ctresb.md |

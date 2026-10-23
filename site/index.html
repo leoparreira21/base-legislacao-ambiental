@@ -85,9 +85,15 @@
 </div>
 
 <script type="module">
+import {buscarComplementar, AVISO_COMPLEMENTAR} from './complementar.js';
 import {criarMotor, eixosCaso, OPCOES_CASO, REPO, CATEGORIAS_FUNCAO} from './motor.js';
 /* A regra de busca fica em motor.js (o mesmo módulo da API do iatreports). Aqui só a interface. */
-let M=null;
+let M=null, complementar=null, complementarErro=false;
+function complementoHTML(q,F){
+  const hits=buscarComplementar(complementar,q,F);
+  const aviso=F.categoria?'O acervo complementar ainda não tem classificação funcional revisada. Selecione Todas as funções para consultá-lo.':complementarErro?'Não foi possível carregar o acervo complementar. Recarregue a página para tentar novamente.':AVISO_COMPLEMENTAR;
+  return `<section class="axis"><h2>Acervo complementar</h2><p class="hint">${esc(aviso)}</p>${hits.length?hits.map(h=>`<article class="norma"><div class="nh"><h3>${esc(h.titulo)}</h3><span class="pill">ctresb-leis · conferir</span></div><div class="hit"><a href="${esc(h.url)}" target="_blank" rel="noopener noreferrer">${esc(h.rotulo)} · abrir fonte</a><p class="txt cut">${esc(h.texto)}</p></div></article>`).join(''):'<p class="empty">Nenhum candidato complementar para estes termos e filtros. Isso não prova ausência de norma.</p>'}</section>`;
+}
 
 /* ---------- opções do caso (de motor.js) ---------- */
 const PADRAO_CASO={'c-mod':'renovacao licenca operacao','c-agua':'rede','c-efl':'lancamento rede coletora esgoto','c-loc':'manancial area protegida'};
@@ -206,6 +212,7 @@ function pintarLivre(){
   const r=document.getElementById('res-livre');
   r.innerHTML=grupos.length?grupos.slice(0,limite).map(g=>normaHTML(g,Q,X,3)).join(''):
     `<div class="empty">Nenhum resultado encontrado com estes termos. Tente palavras mais específicas; ausência de resultado não prova ausência de norma aplicável.</div>`;
+  if(document.getElementById('q').value.trim())r.innerHTML+=complementoHTML(document.getElementById('q').value.trim(),filtros('-l'));
   document.getElementById('mais-livre').hidden=grupos.length<=limite;
 }
 document.getElementById('f-livre').addEventListener('submit',e=>{e.preventDefault();rodarLivre(true);});
@@ -230,7 +237,7 @@ function rodarCaso(nova=true){
       (res.grupos.length?res.grupos.map(g=>normaHTML(g,res.Q,X,2)).join(''):`<div class="empty">Nenhuma norma da base trata deste eixo para esta atividade. Registre como lacuna; ausência na base não prova que não há norma aplicável.</div>`)+
 `</section>`;
   }
-  r.innerHTML=html;
+  r.innerHTML=html+complementoHTML(campos().atividade,filtros('-c'));
   document.getElementById('st-caso').innerHTML=`${E.length} eixos verificados${rotuloX(X)}.`;
 }
 document.getElementById('f-caso').addEventListener('submit',e=>{e.preventDefault();rodarCaso(true);});
@@ -255,7 +262,8 @@ document.querySelector('.tabs').addEventListener('keydown',e=>{if(['ArrowLeft','
 
 /* ---------- carga ---------- */
 const pegar=u=>fetch(u).then(r=>{if(!r.ok)throw new Error(u+' '+r.status);return r.json()});
-Promise.all([pegar('index.json'),pegar('cnae.json'),pegar('sinonimos.json'),pegar('ambitos.json')]).then(([j,cn,sn,am])=>{
+Promise.all([pegar('index.json'),pegar('cnae.json'),pegar('sinonimos.json'),pegar('ambitos.json'),pegar('ctresb-index.json').catch(()=>{complementarErro=true;return null;})]).then(([j,cn,sn,am,extra])=>{
+  complementar=extra;
   M=criarMotor({indice:j, cnae:cn, sinonimos:sn, ambitos:am});
   document.getElementById('syn').textContent=Object.entries(sn.sinonimos).map(([k,v])=>`${k} → ${v.join(', ')}`).join('\n');
   document.getElementById('amb').textContent=Object.entries(am.ambitos).map(([k,v])=>`${k} → ${v.join(', ')}`).join('\n');

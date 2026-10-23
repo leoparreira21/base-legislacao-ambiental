@@ -109,10 +109,14 @@ def main():
 
     (saida / 'index.json').write_text(
         json.dumps(indice, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
-    for f in ('index.html', 'motor.js', 'cnae.json', 'assistente.html', 'assistente.js', 'assistente.css', 'estilo.css', 'classificacao.html', 'classificacao.js'):
+    for f in ('index.html', 'motor.js', 'cnae.json', 'assistente.html', 'assistente.js', 'assistente.css', 'estilo.css', 'classificacao.html', 'classificacao.js', 'complementar.js'):
         shutil.copy(RAIZ / 'site' / f, saida / f)
-    for f in ('sinonimos.json', 'ambitos.json'):
+    for f in ('sinonimos.json', 'ambitos.json', 'ctresb-index.json'):
         shutil.copy(RAIZ / 'consultas' / f, saida / f)
+    # A curadoria pode ganhar uma norma após a sincronização complementar.
+    extra = json.loads((saida / 'ctresb-index.json').read_text(encoding='utf-8'))
+    extra['documentos'] = [d for d in extra['documentos'] if d['id'] not in indice['docs']]
+    (saida / 'ctresb-index.json').write_text(json.dumps(extra, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
     # Índices para recuperação e expansão do grafo na camada de IA.
     # Independentes do index.json, preservam a compatibilidade do motor atual.
     dispositivos, grafo = gerar_grafo.salvar(saida, RAIZ, indice['commit'])
@@ -142,7 +146,7 @@ def main():
     # resumo da publicação: clientes conferem o commit e a versão do motor sem baixar o índice
     arquivos = {f: hashlib.sha256((saida / f).read_bytes()).hexdigest()
                 for f in ('index.json', 'motor.js', 'cnae.json', 'sinonimos.json', 'ambitos.json',
-                          'dispositivos.json', 'grafo.json', 'classificacao.json', *nomes_fatias)}
+                          'dispositivos.json', 'grafo.json', 'classificacao.json', 'ctresb-index.json', 'complementar.js', *nomes_fatias)}
     (saida / 'manifesto.json').write_text(json.dumps({
         'commit': indice['commit'],
         'gerado_em': datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='seconds'),

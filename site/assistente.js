@@ -44,7 +44,7 @@ function conditions(card,list) {
 }
 function sourceLink(url,title) {
   const a=element('a',title,'source');
-  try {const u=new URL(url);if(u.protocol!=='https:'||u.hostname!=='github.com'||!u.pathname.startsWith('/leoparreira21/base-legislacao-ambiental/blob/'))return element('span','Fonte indisponível');a.href=u.href;}catch{return element('span','Fonte indisponível');}
+  try {const u=new URL(url);if(u.protocol!=='https:'||u.hostname!=='github.com'||!['/leoparreira21/base-legislacao-ambiental/blob/','/leoparreira21/ctresb-leis/blob/'].some(prefix=>u.pathname.startsWith(prefix)))return element('span','Fonte indisponível');a.href=u.href;}catch{return element('span','Fonte indisponível');}
   a.target='_blank';a.rel='noopener noreferrer';return a;
 }
 function titleKey(key) {
@@ -59,6 +59,7 @@ function renderAnswer(data,container) {
     const card=element('article',undefined,'evidence-card');
     card.append(element('span',labels[item.classificacao]||'Conferir','classification'),element('h3',titleKey(item.chave)),element('p',item.fundamentacao));
     if(item.funcao?.categorias?.length) card.append(element('p','Função '+(item.funcao.estado==='revisada'?'revisada':'sugerida')+': '+item.funcao.categorias.map(c=>CATEGORIAS_FUNCAO[c]||c).join(' · '),'hint'));
+    if(item.verificacao_pendente)card.append(element('p','Fonte complementar ctresb-leis · vigência e conversão pendentes de conferência.','hint'));
     conditions(card,item.condicoes);
     const details=element('details');details.append(element('summary','Conferir citação e fonte'));
     for(const ev of item.evidencias||[]) {details.append(element('blockquote',ev.trecho),sourceLink(ev.fonte?.url||item.fonte.url,'Abrir '+ev.chave.split('#')[1]+' na fonte'));}
