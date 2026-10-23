@@ -6,6 +6,10 @@ on:
       - 'scripts/gerar_site.py'
       - 'scripts/gerar_grafo.py'
       - 'site/motor.js'
+      - 'site/complementar.js'
+      - 'consultas/ctresb-index.json'
+      - 'testes/complementar.test.mjs'
+      - 'testes/worker-complementar.test.mjs'
       - 'testes/worker-smoke.test.mjs'
       - 'testes/worker-contract.test.mjs'
       - 'testes/worker-integracao.test.mjs'
@@ -28,12 +32,12 @@ jobs:
       - name: Verificar sintaxe do Worker
         run: node --check cloudflare/legislacao-ambiental-api/worker.mjs
       - name: Validar contrato JSON sem consumir IA
-        run: node --test testes/worker-contract.test.mjs testes/gatilhos.test.mjs
+        run: node --test testes/worker-contract.test.mjs testes/gatilhos.test.mjs testes/complementar.test.mjs
       - name: Testar fluxo completo com índices reais e IA simulada
         run: node --test testes/worker-integracao.test.mjs
       - name: Gerar o site
         run: python scripts/gerar_site.py _site
       - name: Medir memória de /analisar (fetch e IA simulados)
-        run: node --test testes/worker-memoria.test.mjs
+        run: node --test testes/worker-memoria.test.mjs testes/worker-complementar.test.mjs
       - name: Testar Worker publicado sem consumir IA
         run: node --test testes/worker-smoke.test.mjs
