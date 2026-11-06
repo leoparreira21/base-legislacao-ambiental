@@ -9,6 +9,7 @@ normas/            um arquivo .md por norma
 normas/anexos/     anexos de diretrizes de estudos e termos de referência (tipo 2), um arquivo por anexo
 normas/comentarios/ comentários oficiais a uma norma (ex.: versão comentada da Anvisa), um arquivo por documento
 scripts/validar.py validação da base (rodar antes de cada commit)
+html/              versão HTML de consulta de cada norma (gerada por scripts/gerar_html.py; não editar à mão)
 tags.md            lista das tags em uso (gerada pelo script)
 glossario.md       termos técnicos já pesquisados, com fonte (reaproveitado pelos agentes)
 licoes.md          armadilhas e contornos registrados pelos agentes (ver CLAUDE.md)
@@ -171,6 +172,17 @@ python scripts/validar.py                          # erros bloqueiam o commit
 python scripts/validar.py --tags                   # atualiza tags.md
 python scripts/validar.py --afetados NOME-DA-NORMA # outras normas que apontam para dispositivos revogados ou alterados
 ```
+
+## Consulta em HTML (dispositivos com recolher/expandir)
+
+`python scripts/gerar_html.py` grava em `html/` uma página por norma (e por anexo e comentário), mais `html/index.html` com a lista. Cada página é um arquivo único, abre direto no navegador e também é publicada no site (`/html/`).
+
+- Ao abrir: só o título, a ementa e os índices do primeiro nível (títulos ou capítulos; sem capítulos, os artigos; seções editoriais como "Notas de transcrição" aparecem como índices à parte).
+- Clicar num índice abre o texto dele e os índices ligados: capítulo → seções → artigos → caput (texto direto) e parágrafos → incisos → alíneas → itens. Nas NRs, os itens numerados seguem a numeração (13.1.3 → 13.1.3.1). Linhas de anexo aparecem direto ao abrir o anexo.
+- Botão: "Expandir tudo" → "Recolher artigos" (só os índices de artigos, com a estrutura aberta) → "Recolher tudo" (volta aos capítulos).
+- `pagina.html#art3_cpt_inc7` abre o caminho até o dispositivo e o destaca; os links `[[norma#id]]` viram links entre as páginas, e norma fora da base fica sublinhada em pontilhado.
+
+A hierarquia sai dos cabeçalhos e dos IDs LexML, então nada muda no padrão das normas. **Depois de incluir ou alterar uma norma, rode o script e faça commit de `html/` junto.**
 
 ## Consulta e auditoria de recuperação
 
