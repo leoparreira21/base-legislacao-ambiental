@@ -31,7 +31,8 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 PASTAS = [RAIZ / 'normas', RAIZ / 'normas' / 'anexos', RAIZ / 'normas' / 'comentarios']
 
-RE_CABECALHO = re.compile(r'^(#{1,6})\s+(.*?)\s*(?:\{#([^}]+)\})?\s*$')
+RE_CABECALHO = re.compile(r'^(#{1,6})\s+(.*?)\s*(?:\{#([^}]+)\}\s*(.*?))?\s*$')
+RE_ID_CITACAO = re.compile(r'\s*\{#([^}]+)\}')
 RE_DISP = re.compile(r'^(\s*)(?:[-*]\s+)?\*\*(.+?)\*\*\s*\{#([^}]+)\}\s*(.*)$')
 RE_TAGS_INICIO = re.compile(r'^(?:#[\w-]+\s+)+')
 RE_TAG_SOLTA = re.compile(r'(?<![\w/&#])#[a-z][\w-]*(?=\s|$)')
@@ -143,6 +144,7 @@ def rotulo_curto(rotulo):
 def montar(corpo, conv):
     raiz = No('raiz', None, '')
     titulo, cabecalho = '', []
+    titulo_id = None
     pilha = [raiz]               # cabeçalhos abertos
     por_id = {}
     dono = raiz                  # nó que recebe texto solto
@@ -168,12 +170,15 @@ def montar(corpo, conv):
             nivel, texto, ident = len(m.group(1)), m.group(2), m.group(3)
             if nivel == 1:
                 titulo = texto
+                titulo_id = ident
                 continue
             inicio = False
             while pilha[-1] is not raiz and pilha[-1].nivel >= nivel:
                 pilha.pop()
             tipo = 'art' if nivel == 6 else 'sec'
             no = No(tipo, ident, texto, nivel)
+            if m.group(4):          # algo depois do {#id}, ex.: link para o comentário
+                no.extra = conv.inline(m.group(4))
             pilha[-1].conteudo.append(('no', no))
             pilha.append(no)
             if ident:
@@ -185,7 +190,7 @@ def montar(corpo, conv):
             continue
 
         if inicio and s.startswith('>'):
-            cabecalho.append(conv.inline(s.lstrip('> ').strip()))
+            cabecalho.append(conv.inline(RE_ID_CITACAO.sub('', s.lstrip('> ')).strip()))
             continue
 
         m = RE_DISP.match(linha)
@@ -224,20 +229,28 @@ def montar(corpo, conv):
             dono = no
             continue
 
-        # texto solto: continua o último nó
-        if s.startswith('>'):
-            frag = f'<blockquote>{conv.inline(s.lstrip("> ").strip())}</blockquote>'
-        elif s.startswith('Alterações:'):
-            frag = f'<p class="nota">{conv.inline(s)}</p>'
-        elif re.match(r'^[-*]\s+', s):
-            frag = f'<p class="item">{conv.inline(re.sub(r"^[-*]\\s+", "", s))}</p>'
+        # texto solto: continua o último nó. Um {#id} na linha (bloco de nova redação, linha de anexo
+        # sem rótulo, ex.: "- Nome; {#anexo4_lin25}") vira o id do parágrafo, para os links chegarem nele.
+        texto = s
+        mid = RE_ID_CITACAO.search(texto)
+        ida = f' id="{html.escape(mid.group(1))}"' if mid else ''
+        if mid:
+            texto = RE_ID_CITACAO.sub('', texto, count=1).strip()
+        if texto.startswith('>'):
+            frag = f'<blockquote{ida}>{conv.inline(texto.lstrip("> ").strip())}</blockquote>'
+        elif texto.startswith('Alterações:'):
+            frag = f'<p class="nota"{ida}>{conv.inline(texto)}</p>'
+        elif re.match(r'^[-*]\s+', texto):
+            recuo = (len(linha) - len(linha.lstrip())) // 2
+            frag = f'<p class="item r{min(recuo, 4)}"{ida}>{conv.inline(re.sub(r"^[-*]\s+", "", texto))}</p>'
         else:
-            frag = f'<p>{conv.inline(s)}</p>'
+            frag = f'<p{ida}>{conv.inline(texto)}</p>'
         if inicio:
-            cabecalho.append(conv.inline(s))
+            cabecalho.append(conv.inline(texto))
         else:
             dono.conteudo.append(('html', frag))
     despeja_tabela()
+    raiz.id_titulo = titulo_id
     return titulo, cabecalho, raiz
 
 
@@ -341,7 +354,8 @@ def render(no, prof=0):
         return f'<div class="lin{rev}"{ida}>{corpo}</div>'
     if no.tipo == 'sec':
         classe = 'sec estrutura' if no.tem_artigo() else 'sec extra'
-        return (f'<details class="{classe} n{no.nivel}"{ida}><summary>{rotulo_html(no.rotulo)}</summary>'
+        extra = f' <span class="extra">{no.extra}</span>' if getattr(no, 'extra', '') else ''
+        return (f'<details class="{classe} n{no.nivel}"{ida}><summary>{rotulo_html(no.rotulo)}{extra}</summary>'
                 f'<div class="corpo">{corpo}</div></details>')
     if no.tipo == 'art':
         return (f'<details class="art{rev}"{ida}><summary>{rotulo_html(no.rotulo)}</summary>'
@@ -391,11 +405,13 @@ p{margin:4px 0}
 .lin{margin:3px 0}
 .nota{font:.8rem/1.4 system-ui,sans-serif;color:var(--suave);margin:6px 0}
 .item{padding-left:1em}
+.item.r1{padding-left:2em}.item.r2{padding-left:3em}.item.r3{padding-left:4em}.item.r4{padding-left:5em}
 .revogado>summary,.revogado .texto{color:var(--revogado)}
 del{color:var(--revogado)}
 blockquote{margin:6px 0;padding:4px 12px;border-left:3px solid var(--linha);color:var(--suave)}
 a{color:var(--realce)}
 .pendente{border-bottom:1px dotted var(--suave)}
+.extra{font-weight:400;font-size:.85rem}
 .tabela{overflow-x:auto;margin:8px 0}
 table{border-collapse:collapse;font:.85rem/1.4 system-ui,sans-serif}
 th,td{border:1px solid var(--linha);padding:4px 8px;vertical-align:top;text-align:left}
@@ -447,7 +463,7 @@ JS = """
 """
 
 
-def pagina(titulo, cabecalho, corpo, fm):
+def pagina(titulo, cabecalho, corpo, fm, titulo_id=None):
     situacao = '<div class="situacao">Revogada</div>' if fm.get('situacao') == 'revogada' else ''
     cab = ''.join(f'<p class="ementa">{c}</p>' for c in cabecalho)
     if not cab and fm.get('ementa'):
@@ -462,7 +478,7 @@ def pagina(titulo, cabecalho, corpo, fm):
 </head>
 <body>
 <main>
-<header>{situacao}<h1>{titulo}</h1>{cab}</header>
+<header>{situacao}<h1{f' id="{html.escape(titulo_id)}"' if titulo_id else ''}>{titulo}</h1>{cab}</header>
 <div class="barra"><button id="alternar" type="button">Expandir tudo</button><a href="index.html">Todas as normas</a></div>
 {corpo}
 </main>
@@ -505,7 +521,7 @@ def main():
         titulo, cabecalho, raiz = montar(corpo, conv)
         marcar_pais(raiz)
         titulo_html = conv.inline(titulo) if titulo else html.escape(fm.get('norma') or f.stem)
-        (saida / f'{f.stem}.html').write_text(pagina(titulo_html, cabecalho, render(raiz), fm), encoding='utf-8')
+        (saida / f'{f.stem}.html').write_text(pagina(titulo_html, cabecalho, render(raiz), fm, getattr(raiz, 'id_titulo', None)), encoding='utf-8')
         if f.parent.name == 'normas':
             itens.append((f.stem, fm.get('norma') or f.stem, fm.get('ementa', '')))
     # apaga páginas de normas que saíram da base (só arquivos .html gerados por este script)

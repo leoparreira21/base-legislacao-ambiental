@@ -1,5 +1,7 @@
 """Testes do gerador das páginas HTML de consulta (scripts/gerar_html.py)."""
+import re
 import sys
+import tempfile
 import unittest
 from pathlib import Path
 
@@ -84,6 +86,30 @@ class TestGerarHtml(unittest.TestCase):
     def test_ancestrais_nr(self):
         self.assertEqual(list(g.ancestrais('ite13-1-3-1')), ['ite13-1-3', 'ite13-1', 'ite13'])
         self.assertEqual(list(g.ancestrais('art5_par2_inc3')), ['art5_par2', 'art5'])
+
+
+class TestLinksDaBase(unittest.TestCase):
+    def test_todos_os_links_chegam_ao_destino(self):
+        """Gera a base inteira e confere que cada link aponta para página e dispositivo existentes."""
+        with tempfile.TemporaryDirectory() as pasta:
+            argv = sys.argv
+            sys.argv = ['gerar_html.py', pasta]
+            try:
+                g.main()
+            finally:
+                sys.argv = argv
+            paginas = {f.name: f.read_text(encoding='utf-8') for f in Path(pasta).glob('*.html')}
+            ids = {n: set(re.findall(r' id="([^"]+)"', t)) for n, t in paginas.items()}
+            quebrados = []
+            for nome, texto in paginas.items():
+                for pag, frag in re.findall(r'<a href="([^"#:]+\.html)(?:#([^"]*))?"', texto):
+                    if pag not in ids or (frag and frag not in ids[pag]):
+                        quebrados.append((nome, pag, frag))
+                for frag in re.findall(r'<a href="#([^"]+)"', texto):
+                    if frag not in ids[nome]:
+                        quebrados.append((nome, '', frag))
+                self.assertNotRegex(texto, r'\{#[a-z0-9_-]+\}', f'ID cru no texto de {nome}')
+            self.assertEqual(quebrados, [])
 
 
 if __name__ == '__main__':
