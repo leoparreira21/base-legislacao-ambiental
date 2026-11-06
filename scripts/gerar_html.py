@@ -271,8 +271,66 @@ def marcar_pais(no):
         marcar_pais(f)
 
 
-def render(no):
-    corpo = ''.join(c if k == 'html' else render(c) for k, c in no.conteudo)
+NOMES_NIVEL = [('parágrafo', '§§'), ('§', '§§'), ('inciso', 'incisos'), ('alínea', 'alíneas'), ('item', 'itens'),
+               ('caput', 'caput'), ('tabela', 'tabelas'), ('nota', 'notas'), ('pena', 'pena')]
+
+
+def nome_nivel(rotulo):
+    ultimo = rotulo.split(', ')[-1].strip().lower()
+    for inicio, nome in NOMES_NIVEL:
+        if ultimo.startswith(inicio):
+            return nome
+    return 'outros'
+
+
+def niveis_do_artigo(art):
+    """Nomes dos dispositivos em cada profundidade do artigo: [['incisos', '§§'], ['incisos dos §§'], ...].
+    Tipo que já apareceu num nível acima leva o nome do pai (incisos dos §§) para não confundir."""
+    tipos = []      # tipos puros por profundidade
+    niveis = []
+
+    def walk(no, p, nome_pai):
+        for f in no.filhos():
+            if f.tipo == 'disp':
+                while len(niveis) < p:
+                    niveis.append([])
+                    tipos.append(set())
+                nome = nome_nivel(f.rotulo)
+                tipos[p - 1].add(nome)
+                rotulo = nome
+                if nome_pai and any(nome in t for t in tipos[:p - 1]):
+                    rotulo = f"{nome} {'das' if nome_pai == 'alíneas' else 'dos'} {nome_pai}"
+                if rotulo not in niveis[p - 1]:
+                    niveis[p - 1].append(rotulo)
+                walk(f, p + 1, nome)
+            else:
+                walk(f, p, nome_pai)
+    walk(art, 1, None)
+    return niveis
+
+
+def controle_niveis(art):
+    """Seletor de níveis do artigo: 'Índices' fecha tudo; cada botão seguinte abre o texto até aquele nível."""
+    niveis = niveis_do_artigo(art)
+    if not niveis:
+        return ''
+    botoes = '<button type="button" data-nivel="0" title="Só os índices do caput e dos parágrafos">Índices</button>'
+    for i, nomes in enumerate(niveis, 1):
+        rotulo = ', '.join(nomes[:-1]) + ' e ' + nomes[-1] if len(nomes) > 1 else nomes[0]
+        ativo = ' class="ativo"' if i == len(niveis) else ''
+        botoes += f'<button type="button" data-nivel="{i}"{ativo} title="Abre o texto até: {rotulo}">{rotulo}</button>'
+    return f'<div class="niveis" role="group" aria-label="Níveis do artigo"><span>Abrir até:</span>{botoes}</div>'
+
+
+def render(no, prof=0):
+    """prof: profundidade do dispositivo dentro do artigo (1 = parágrafos e incisos do caput)."""
+    if no.tipo == 'art':
+        prof_filhos = 1
+    elif no.tipo == 'disp':
+        prof_filhos = prof + 1
+    else:
+        prof_filhos = prof
+    corpo = ''.join(c if k == 'html' else render(c, prof_filhos) for k, c in no.conteudo)
     ida = f' id="{html.escape(no.id)}"' if no.id else ''
     rev = ' revogado' if no.revogado else ''
     if no.tipo == 'raiz':
@@ -287,9 +345,10 @@ def render(no):
                 f'<div class="corpo">{corpo}</div></details>')
     if no.tipo == 'art':
         return (f'<details class="art{rev}"{ida}><summary>{rotulo_html(no.rotulo)}</summary>'
-                f'<div class="corpo">{corpo}</div></details>')
+                f'<div class="corpo">{controle_niveis(no)}{corpo}</div></details>')
     titulo = html.escape(no.rotulo)
-    return (f'<details class="disp{rev}"{ida}><summary title="{titulo}">{html.escape(rotulo_curto(no.rotulo))}</summary>'
+    dp = f' data-p="{prof}"' if prof else ''
+    return (f'<details class="disp{rev}"{ida}{dp}><summary title="{titulo}">{html.escape(rotulo_curto(no.rotulo))}</summary>'
             f'<div class="corpo">{corpo}</div></details>')
 
 
@@ -323,7 +382,10 @@ summary:hover{background:var(--realce-fundo)}
 .sec.extra>summary{font-weight:500;color:var(--suave)}
 .art>summary{font-weight:600;color:var(--realce)}
 .disp>summary{display:inline-block;font-size:.92rem;color:var(--realce)}
-.disp[open]>summary{display:block}
+.disp[open]>summary{float:left;margin-right:6px;line-height:1.6;padding-top:0;padding-bottom:0}
+.disp[open]>.corpo{margin-left:0;padding-left:0;border-left:none;display:flow-root}
+.disp[open]>.corpo>.texto:first-child{margin-top:0}
+.disp[open]>.corpo>details{margin-left:1.6em}
 p{margin:4px 0}
 .texto{margin:2px 0 6px}
 .lin{margin:3px 0}
@@ -340,6 +402,11 @@ th,td{border:1px solid var(--linha);padding:4px 8px;vertical-align:top;text-alig
 img{max-width:100%;height:auto}
 code{font-size:.85em}
 .alvo{background:var(--marca);border-radius:4px}
+.niveis{display:flex;flex-wrap:wrap;gap:4px;align-items:center;margin:4px 0 8px;font:.78rem system-ui,sans-serif;color:var(--suave)}
+.niveis span{margin-right:2px}
+.niveis button{font:inherit;padding:2px 8px;border-radius:10px;border:1px solid var(--linha);background:transparent;color:var(--suave);cursor:pointer}
+.niveis button:hover{border-color:var(--realce);color:var(--realce)}
+.niveis button.ativo{background:var(--realce-fundo);border-color:var(--realce);color:var(--realce);font-weight:600}
 """
 
 JS = """
@@ -352,6 +419,21 @@ JS = """
     else if(estado===1){todos.forEach(function(d){d.open=d.classList.contains('estrutura');});}
     else{todos.forEach(function(d){d.open=false;});}
     estado=(estado+1)%3; btn.textContent=rotulos[estado];
+  });
+  // abrir um artigo abre todos os dispositivos dele, com os textos
+  function nivel(art,n){
+    art.querySelectorAll('details.disp[data-p]').forEach(function(d){d.open=n<0||(+d.dataset.p)<=n;});
+    art.querySelectorAll('.niveis button').forEach(function(b){
+      var bn=+b.dataset.nivel, max=art.querySelectorAll('.niveis button').length-1;
+      b.classList.toggle('ativo', n<0 ? bn===max : bn===n);
+    });
+  }
+  document.addEventListener('toggle',function(e){
+    var d=e.target; if(d.classList&&d.classList.contains('art')&&d.open) nivel(d,-1);
+  },true);
+  document.addEventListener('click',function(e){
+    var b=e.target.closest&&e.target.closest('.niveis button'); if(!b) return;
+    nivel(b.closest('details.art'),+b.dataset.nivel);
   });
   function irPara(){
     var id=decodeURIComponent(location.hash.slice(1)); if(!id) return;

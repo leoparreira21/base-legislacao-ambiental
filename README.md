@@ -178,7 +178,8 @@ python scripts/validar.py --afetados NOME-DA-NORMA # outras normas que apontam p
 `python scripts/gerar_html.py` grava em `html/` uma página por norma (e por anexo e comentário), mais `html/index.html` com a lista. Cada página é um arquivo único, abre direto no navegador e também é publicada no site (`/html/`).
 
 - Ao abrir: só o título, a ementa e os índices do primeiro nível (títulos ou capítulos; sem capítulos, os artigos; seções editoriais como "Notas de transcrição" aparecem como índices à parte).
-- Clicar num índice abre o texto dele e os índices ligados: capítulo → seções → artigos → caput (texto direto) e parágrafos → incisos → alíneas → itens. Nas NRs, os itens numerados seguem a numeração (13.1.3 → 13.1.3.1). Linhas de anexo aparecem direto ao abrir o anexo.
+- Clicar num índice abre os índices ligados: capítulo → seções → artigos. Clicar num artigo abre tudo dele, já com os textos: caput, parágrafos, incisos, alíneas e itens. Nas NRs, os itens numerados seguem a numeração (13.1.3 → 13.1.3.1). Linhas de anexo aparecem direto ao abrir o anexo.
+- Cada artigo tem o seletor "Abrir até:": "Índices" fecha os dispositivos e deixa só os índices; os botões seguintes abrem o texto até aquele nível (ex.: "incisos e §§", "alíneas"). Os dispositivos continuam abrindo e fechando um a um.
 - Botão: "Expandir tudo" → "Recolher artigos" (só os índices de artigos, com a estrutura aberta) → "Recolher tudo" (volta aos capítulos).
 - `pagina.html#art3_cpt_inc7` abre o caminho até o dispositivo e o destaca; os links `[[norma#id]]` viram links entre as páginas, e norma fora da base fica sublinhada em pontilhado.
 

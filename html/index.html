@@ -25,7 +25,10 @@ summary:hover{background:var(--realce-fundo)}
 .sec.extra>summary{font-weight:500;color:var(--suave)}
 .art>summary{font-weight:600;color:var(--realce)}
 .disp>summary{display:inline-block;font-size:.92rem;color:var(--realce)}
-.disp[open]>summary{display:block}
+.disp[open]>summary{float:left;margin-right:6px;line-height:1.6;padding-top:0;padding-bottom:0}
+.disp[open]>.corpo{margin-left:0;padding-left:0;border-left:none;display:flow-root}
+.disp[open]>.corpo>.texto:first-child{margin-top:0}
+.disp[open]>.corpo>details{margin-left:1.6em}
 p{margin:4px 0}
 .texto{margin:2px 0 6px}
 .lin{margin:3px 0}
@@ -42,6 +45,11 @@ th,td{border:1px solid var(--linha);padding:4px 8px;vertical-align:top;text-alig
 img{max-width:100%;height:auto}
 code{font-size:.85em}
 .alvo{background:var(--marca);border-radius:4px}
+.niveis{display:flex;flex-wrap:wrap;gap:4px;align-items:center;margin:4px 0 8px;font:.78rem system-ui,sans-serif;color:var(--suave)}
+.niveis span{margin-right:2px}
+.niveis button{font:inherit;padding:2px 8px;border-radius:10px;border:1px solid var(--linha);background:transparent;color:var(--suave);cursor:pointer}
+.niveis button:hover{border-color:var(--realce);color:var(--realce)}
+.niveis button.ativo{background:var(--realce-fundo);border-color:var(--realce);color:var(--realce);font-weight:600}
  li{margin:10px 0} small{color:var(--suave)}</style></head>
 <body><main><header><h1>Base de Legislação Ambiental</h1>
 <p class="ementa">Consulta direta das normas, com dispositivos que abrem e fecham.</p></header>

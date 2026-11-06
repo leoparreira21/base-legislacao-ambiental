@@ -73,6 +73,14 @@ class TestGerarHtml(unittest.TestCase):
         self.assertIn('<a href="outra-norma.html#art2">art. 2º</a>', h)
         self.assertNotIn('#teste', h)
 
+    def test_niveis_do_artigo(self):
+        _, _, _, raiz = arvore()
+        art = raiz.filhos()[0].filhos()[0].filhos()[0]
+        self.assertEqual(g.niveis_do_artigo(art), [['incisos', '§§'], ['alíneas']])
+        h = g.render(raiz)
+        self.assertIn('data-nivel="2" class="ativo"', h)
+        self.assertIn('id="art1_cpt_inc1_alia" data-p="2"', h)
+
     def test_ancestrais_nr(self):
         self.assertEqual(list(g.ancestrais('ite13-1-3-1')), ['ite13-1-3', 'ite13-1', 'ite13'])
         self.assertEqual(list(g.ancestrais('art5_par2_inc3')), ['art5_par2', 'art5'])
