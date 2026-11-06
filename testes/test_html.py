@@ -112,5 +112,51 @@ class TestLinksDaBase(unittest.TestCase):
             self.assertEqual(quebrados, [])
 
 
+class TestAnexosNaNorma(unittest.TestCase):
+    def test_anexo_entra_no_titulo_da_norma_mae(self):
+        mae_md = """# Lei X {#lei-x}
+
+## CAPÍTULO I – GERAL
+
+###### Art. 1º {#art1}
+
+**Art. 1º, caput** {#art1_cpt} Ver [[lei-x-anexo2|Anexo II]].
+
+### ANEXO II – Termo {#anexo2}
+[[lei-x-anexo2|Texto do Anexo II]]
+
+## Notas de transcrição {#notas-transcricao}
+"""
+        anexo_md = """# ANEXO II — Termo
+
+## Texto do anexo {#texto-anexo}
+
+Introdução do termo.
+
+### 1. ITEM {#anexo2_sec1}
+
+- **Anexo II, linha 2** {#anexo2_lin2} Conteúdo.
+
+## Notas de transcrição {#notas-transcricao}
+
+Nota do anexo.
+"""
+        anexos = {'lei-x-anexo2': ('lei-x', 'anexo2')}
+        conv = g.Conversor({'lei-x'}, 'lei-x', Path('.'), Path('.'), anexos)
+        _, _, raiz = g.montar(mae_md, conv)
+        conv_a = g.Conversor({'lei-x'}, 'lei-x-anexo2', Path('.'), Path('.'), anexos)
+        _, _, raiz_a = g.montar(anexo_md, conv_a)
+        g.encaixar_anexo(raiz, 'lei-x', 'anexo2', raiz_a)
+        cap, anexo, notas = raiz.filhos()          # o ANEXO não fica dentro do capítulo
+        self.assertEqual((anexo.id, notas.id), ('anexo2', 'notas-transcricao'))
+        h = g.render(raiz)
+        self.assertIn('<a href="lei-x.html#anexo2">Anexo II</a>', h)
+        self.assertNotIn('Texto do Anexo II', h)
+        self.assertNotIn('Texto do anexo', h)
+        self.assertIn('id="anexo2-notas-transcricao"', h)
+        self.assertLess(h.index('Introdução do termo'), h.index('id="anexo2_lin2"'))
+        self.assertIn('class="sec anexo n3" id="anexo2"', h)
+
+
 if __name__ == '__main__':
     unittest.main()
