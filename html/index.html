@@ -23,25 +23,36 @@ summary:hover{background:var(--realce-fundo)}
 .sec>summary{font-weight:700;text-transform:none}
 .sec.n2>summary{font-size:1.05rem}
 .sec.extra>summary{font-weight:500;color:var(--suave)}
+.sec.anexo>summary{font-weight:700;color:var(--texto)}
 .art>summary{font-weight:600;color:var(--realce)}
 .disp>summary{display:inline-block;font-size:.92rem;color:var(--realce)}
-.disp[open]>summary{display:block}
+.disp[open]>summary{float:left;margin-right:6px;line-height:1.6;padding-top:0;padding-bottom:0}
+.disp[open]>.corpo{margin-left:0;padding-left:0;border-left:none;display:flow-root}
+.disp[open]>.corpo>.texto:first-child{margin-top:0}
+.disp[open]>.corpo>details{margin-left:1.6em}
 p{margin:4px 0}
 .texto{margin:2px 0 6px}
 .lin{margin:3px 0}
 .nota{font:.8rem/1.4 system-ui,sans-serif;color:var(--suave);margin:6px 0}
 .item{padding-left:1em}
+.item.r1{padding-left:2em}.item.r2{padding-left:3em}.item.r3{padding-left:4em}.item.r4{padding-left:5em}
 .revogado>summary,.revogado .texto{color:var(--revogado)}
 del{color:var(--revogado)}
 blockquote{margin:6px 0;padding:4px 12px;border-left:3px solid var(--linha);color:var(--suave)}
 a{color:var(--realce)}
 .pendente{border-bottom:1px dotted var(--suave)}
+.extra{font-weight:400;font-size:.85rem}
 .tabela{overflow-x:auto;margin:8px 0}
 table{border-collapse:collapse;font:.85rem/1.4 system-ui,sans-serif}
 th,td{border:1px solid var(--linha);padding:4px 8px;vertical-align:top;text-align:left}
 img{max-width:100%;height:auto}
 code{font-size:.85em}
 .alvo{background:var(--marca);border-radius:4px}
+.niveis{display:flex;flex-wrap:wrap;gap:4px;align-items:center;margin:4px 0 8px;font:.78rem system-ui,sans-serif;color:var(--suave)}
+.niveis span{margin-right:2px}
+.niveis button{font:inherit;padding:2px 8px;border-radius:10px;border:1px solid var(--linha);background:transparent;color:var(--suave);cursor:pointer}
+.niveis button:hover{border-color:var(--realce);color:var(--realce)}
+.niveis button.ativo{background:var(--realce-fundo);border-color:var(--realce);color:var(--realce);font-weight:600}
  li{margin:10px 0} small{color:var(--suave)}</style></head>
 <body><main><header><h1>Base de Legislação Ambiental</h1>
 <p class="ementa">Consulta direta das normas, com dispositivos que abrem e fecham.</p></header>

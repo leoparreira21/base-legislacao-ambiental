@@ -1,5 +1,7 @@
 """Testes do gerador das páginas HTML de consulta (scripts/gerar_html.py)."""
+import re
 import sys
+import tempfile
 import unittest
 from pathlib import Path
 
@@ -73,9 +75,87 @@ class TestGerarHtml(unittest.TestCase):
         self.assertIn('<a href="outra-norma.html#art2">art. 2º</a>', h)
         self.assertNotIn('#teste', h)
 
+    def test_niveis_do_artigo(self):
+        _, _, _, raiz = arvore()
+        art = raiz.filhos()[0].filhos()[0].filhos()[0]
+        self.assertEqual(g.niveis_do_artigo(art), [['incisos', '§§'], ['alíneas']])
+        h = g.render(raiz)
+        self.assertIn('data-nivel="2" class="ativo"', h)
+        self.assertIn('id="art1_cpt_inc1_alia" data-p="2"', h)
+
     def test_ancestrais_nr(self):
         self.assertEqual(list(g.ancestrais('ite13-1-3-1')), ['ite13-1-3', 'ite13-1', 'ite13'])
         self.assertEqual(list(g.ancestrais('art5_par2_inc3')), ['art5_par2', 'art5'])
+
+
+class TestLinksDaBase(unittest.TestCase):
+    def test_todos_os_links_chegam_ao_destino(self):
+        """Gera a base inteira e confere que cada link aponta para página e dispositivo existentes."""
+        with tempfile.TemporaryDirectory() as pasta:
+            argv = sys.argv
+            sys.argv = ['gerar_html.py', pasta]
+            try:
+                g.main()
+            finally:
+                sys.argv = argv
+            paginas = {f.name: f.read_text(encoding='utf-8') for f in Path(pasta).glob('*.html')}
+            ids = {n: set(re.findall(r' id="([^"]+)"', t)) for n, t in paginas.items()}
+            quebrados = []
+            for nome, texto in paginas.items():
+                for pag, frag in re.findall(r'<a href="([^"#:]+\.html)(?:#([^"]*))?"', texto):
+                    if pag not in ids or (frag and frag not in ids[pag]):
+                        quebrados.append((nome, pag, frag))
+                for frag in re.findall(r'<a href="#([^"]+)"', texto):
+                    if frag not in ids[nome]:
+                        quebrados.append((nome, '', frag))
+                self.assertNotRegex(texto, r'\{#[a-z0-9_-]+\}', f'ID cru no texto de {nome}')
+            self.assertEqual(quebrados, [])
+
+
+class TestAnexosNaNorma(unittest.TestCase):
+    def test_anexo_entra_no_titulo_da_norma_mae(self):
+        mae_md = """# Lei X {#lei-x}
+
+## CAPÍTULO I – GERAL
+
+###### Art. 1º {#art1}
+
+**Art. 1º, caput** {#art1_cpt} Ver [[lei-x-anexo2|Anexo II]].
+
+### ANEXO II – Termo {#anexo2}
+[[lei-x-anexo2|Texto do Anexo II]]
+
+## Notas de transcrição {#notas-transcricao}
+"""
+        anexo_md = """# ANEXO II — Termo
+
+## Texto do anexo {#texto-anexo}
+
+Introdução do termo.
+
+### 1. ITEM {#anexo2_sec1}
+
+- **Anexo II, linha 2** {#anexo2_lin2} Conteúdo.
+
+## Notas de transcrição {#notas-transcricao}
+
+Nota do anexo.
+"""
+        anexos = {'lei-x-anexo2': ('lei-x', 'anexo2')}
+        conv = g.Conversor({'lei-x'}, 'lei-x', Path('.'), Path('.'), anexos)
+        _, _, raiz = g.montar(mae_md, conv)
+        conv_a = g.Conversor({'lei-x'}, 'lei-x-anexo2', Path('.'), Path('.'), anexos)
+        _, _, raiz_a = g.montar(anexo_md, conv_a)
+        g.encaixar_anexo(raiz, 'lei-x', 'anexo2', raiz_a)
+        cap, anexo, notas = raiz.filhos()          # o ANEXO não fica dentro do capítulo
+        self.assertEqual((anexo.id, notas.id), ('anexo2', 'notas-transcricao'))
+        h = g.render(raiz)
+        self.assertIn('<a href="lei-x.html#anexo2">Anexo II</a>', h)
+        self.assertNotIn('Texto do Anexo II', h)
+        self.assertNotIn('Texto do anexo', h)
+        self.assertIn('id="anexo2-notas-transcricao"', h)
+        self.assertLess(h.index('Introdução do termo'), h.index('id="anexo2_lin2"'))
+        self.assertIn('class="sec anexo n3" id="anexo2"', h)
 
 
 if __name__ == '__main__':

@@ -31,7 +31,11 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 PASTAS = [RAIZ / 'normas', RAIZ / 'normas' / 'anexos', RAIZ / 'normas' / 'comentarios']
 
-RE_CABECALHO = re.compile(r'^(#{1,6})\s+(.*?)\s*(?:\{#([^}]+)\})?\s*$')
+RE_CABECALHO = re.compile(r'^(#{1,6})\s+(.*?)\s*(?:\{#([^}]+)\}\s*(.*?))?\s*$')
+RE_ANEXO = re.compile(r'^ANEXO(?!S)\b', re.I)
+RE_GRUPO_ANEXOS = re.compile(r'^ANEXOS\b', re.I)
+EDITORIAIS = {'sintese', 'sintese-conversor', 'notas-transcricao', 'fontes', 'observacoes'}
+RE_ID_CITACAO = re.compile(r'\s*\{#([^}]+)\}')
 RE_DISP = re.compile(r'^(\s*)(?:[-*]\s+)?\*\*(.+?)\*\*\s*\{#([^}]+)\}\s*(.*)$')
 RE_TAGS_INICIO = re.compile(r'^(?:#[\w-]+\s+)+')
 RE_TAG_SOLTA = re.compile(r'(?<![\w/&#])#[a-z][\w-]*(?=\s|$)')
@@ -71,8 +75,9 @@ def ler_frontmatter(texto):
 
 
 class Conversor:
-    def __init__(self, existentes, arquivo, pasta_md, saida):
+    def __init__(self, existentes, arquivo, pasta_md, saida, anexos=None):
         self.existentes = existentes
+        self.anexos = anexos or {}     # arquivo do anexo -> (norma-mãe, id do título do anexo nela)
         self.arquivo = arquivo
         self.pasta_md = pasta_md
         self.saida = saida
@@ -84,7 +89,18 @@ class Conversor:
         norma = norma.strip()
         rotulo = texto if texto is not None else (alvo.lstrip('#') or alvo)
         if not norma:
+            if self.arquivo in self.anexos and frag == 'texto-anexo':
+                frag = self.anexos[self.arquivo][1]
+            elif self.arquivo in self.anexos and frag in EDITORIAIS:
+                frag = f'{self.anexos[self.arquivo][1]}-{frag}'
             return f'<a href="#{frag}">{rotulo}</a>'
+        if norma in self.anexos:       # o anexo fica dentro da página da norma-mãe
+            mae, ancora = self.anexos[norma]
+            if frag == 'texto-anexo':
+                frag = ancora
+            elif frag in EDITORIAIS:
+                frag = f'{ancora}-{frag}'
+            return f'<a href="{mae}.html#{frag or ancora}">{rotulo}</a>'
         if norma in self.existentes:
             return f'<a href="{norma}.html' + (f'#{frag}' if frag else '') + f'">{rotulo}</a>'
         return f'<span class="pendente" title="Norma ainda não incluída na base: {norma}">{rotulo}</span>'
@@ -92,7 +108,8 @@ class Conversor:
     def imagem(self, m):
         alt, src = m.group(1), m.group(2)
         if not re.match(r'^[a-z]+:', src):
-            src = os.path.relpath(self.pasta_md / html.unescape(src), self.saida).replace(os.sep, '/')
+            # sempre relativo a html/ na raiz: vale no repositório e no site (_site/html + _site/normas/...)
+            src = os.path.relpath(self.pasta_md / html.unescape(src), RAIZ / 'html').replace(os.sep, '/')
         return f'<img src="{html.escape(src)}" alt="{alt}" loading="lazy">'
 
     def inline(self, t):
@@ -143,6 +160,7 @@ def rotulo_curto(rotulo):
 def montar(corpo, conv):
     raiz = No('raiz', None, '')
     titulo, cabecalho = '', []
+    titulo_id = None
     pilha = [raiz]               # cabeçalhos abertos
     por_id = {}
     dono = raiz                  # nó que recebe texto solto
@@ -168,12 +186,20 @@ def montar(corpo, conv):
             nivel, texto, ident = len(m.group(1)), m.group(2), m.group(3)
             if nivel == 1:
                 titulo = texto
+                titulo_id = ident
                 continue
             inicio = False
             while pilha[-1] is not raiz and pilha[-1].nivel >= nivel:
                 pilha.pop()
+            if RE_ANEXO.match(texto):
+                # "### ANEXO I" logo depois do último artigo não pertence ao último capítulo:
+                # sobe para o nível da norma, ou fica sob o título de grupo "ANEXOS", se houver
+                while pilha[-1] is not raiz and not (pilha[-1].nivel == 2 and RE_GRUPO_ANEXOS.match(pilha[-1].rotulo)):
+                    pilha.pop()
             tipo = 'art' if nivel == 6 else 'sec'
             no = No(tipo, ident, texto, nivel)
+            if m.group(4):          # algo depois do {#id}, ex.: link para o comentário
+                no.extra = conv.inline(m.group(4))
             pilha[-1].conteudo.append(('no', no))
             pilha.append(no)
             if ident:
@@ -185,7 +211,7 @@ def montar(corpo, conv):
             continue
 
         if inicio and s.startswith('>'):
-            cabecalho.append(conv.inline(s.lstrip('> ').strip()))
+            cabecalho.append(conv.inline(RE_ID_CITACAO.sub('', s.lstrip('> ')).strip()))
             continue
 
         m = RE_DISP.match(linha)
@@ -224,20 +250,28 @@ def montar(corpo, conv):
             dono = no
             continue
 
-        # texto solto: continua o último nó
-        if s.startswith('>'):
-            frag = f'<blockquote>{conv.inline(s.lstrip("> ").strip())}</blockquote>'
-        elif s.startswith('Alterações:'):
-            frag = f'<p class="nota">{conv.inline(s)}</p>'
-        elif re.match(r'^[-*]\s+', s):
-            frag = f'<p class="item">{conv.inline(re.sub(r"^[-*]\\s+", "", s))}</p>'
+        # texto solto: continua o último nó. Um {#id} na linha (bloco de nova redação, linha de anexo
+        # sem rótulo, ex.: "- Nome; {#anexo4_lin25}") vira o id do parágrafo, para os links chegarem nele.
+        texto = s
+        mid = RE_ID_CITACAO.search(texto)
+        ida = f' id="{html.escape(mid.group(1))}"' if mid else ''
+        if mid:
+            texto = RE_ID_CITACAO.sub('', texto, count=1).strip()
+        if texto.startswith('>'):
+            frag = f'<blockquote{ida}>{conv.inline(texto.lstrip("> ").strip())}</blockquote>'
+        elif texto.startswith('Alterações:'):
+            frag = f'<p class="nota"{ida}>{conv.inline(texto)}</p>'
+        elif re.match(r'^[-*]\s+', texto):
+            recuo = (len(linha) - len(linha.lstrip())) // 2
+            frag = f'<p class="item r{min(recuo, 4)}"{ida}>{conv.inline(re.sub(r"^[-*]\s+", "", texto))}</p>'
         else:
-            frag = f'<p>{conv.inline(s)}</p>'
+            frag = f'<p{ida}>{conv.inline(texto)}</p>'
         if inicio:
-            cabecalho.append(conv.inline(s))
+            cabecalho.append(conv.inline(texto))
         else:
             dono.conteudo.append(('html', frag))
     despeja_tabela()
+    raiz.id_titulo = titulo_id
     return titulo, cabecalho, raiz
 
 
@@ -271,8 +305,70 @@ def marcar_pais(no):
         marcar_pais(f)
 
 
-def render(no):
-    corpo = ''.join(c if k == 'html' else render(c) for k, c in no.conteudo)
+NOMES_NIVEL = [('parágrafo', '§§'), ('§', '§§'), ('inciso', 'incisos'), ('alínea', 'alíneas'), ('item', 'itens'),
+               ('caput', 'caput'), ('tabela', 'tabelas'), ('nota', 'notas'), ('pena', 'pena')]
+
+
+def nome_nivel(rotulo):
+    ultimo = rotulo.split(', ')[-1].strip().lower()
+    for inicio, nome in NOMES_NIVEL:
+        if ultimo.startswith(inicio):
+            return nome
+    return 'outros'
+
+
+def niveis_do_artigo(art):
+    """Nomes dos dispositivos em cada profundidade do artigo: [['incisos', '§§'], ['incisos dos §§'], ...].
+    Tipo que já apareceu num nível acima leva o nome do pai (incisos dos §§) para não confundir."""
+    tipos = []      # tipos puros por profundidade
+    niveis = []
+
+    def walk(no, p, nome_pai):
+        for f in no.filhos():
+            if f.tipo == 'disp':
+                while len(niveis) < p:
+                    niveis.append([])
+                    tipos.append(set())
+                nome = nome_nivel(f.rotulo)
+                tipos[p - 1].add(nome)
+                rotulo = nome
+                if nome_pai and any(nome in t for t in tipos[:p - 1]):
+                    rotulo = f"{nome} {'das' if nome_pai == 'alíneas' else 'dos'} {nome_pai}"
+                if rotulo not in niveis[p - 1]:
+                    niveis[p - 1].append(rotulo)
+                walk(f, p + 1, nome)
+            else:
+                walk(f, p, nome_pai)
+    walk(art, 1, None)
+    return niveis
+
+
+def controle_niveis(art):
+    """Seletor de níveis do artigo: 'Índices' fecha tudo; cada botão seguinte abre o texto até aquele nível."""
+    niveis = niveis_do_artigo(art)
+    if not niveis:
+        return ''
+    botoes = '<button type="button" data-nivel="0" title="Só os índices do caput e dos parágrafos">Índices</button>'
+    for i, nomes in enumerate(niveis, 1):
+        rotulo = ', '.join(nomes[:-1]) + ' e ' + nomes[-1] if len(nomes) > 1 else nomes[0]
+        ativo = ' class="ativo"' if i == len(niveis) else ''
+        botoes += f'<button type="button" data-nivel="{i}"{ativo} title="Abre o texto até: {rotulo}">{rotulo}</button>'
+    return f'<div class="niveis" role="group" aria-label="Níveis do artigo"><span>Abrir até:</span>{botoes}</div>'
+
+
+def tem_art(no):
+    return any(f.tipo == 'art' or (f.tipo == 'sec' and tem_art(f)) for f in no.filhos())
+
+
+def render(no, prof=0):
+    """prof: profundidade do dispositivo dentro do artigo (1 = parágrafos e incisos do caput)."""
+    if no.tipo == 'art':
+        prof_filhos = 1
+    elif no.tipo == 'disp':
+        prof_filhos = prof + 1
+    else:
+        prof_filhos = prof
+    corpo = ''.join(c if k == 'html' else render(c, prof_filhos) for k, c in no.conteudo)
     ida = f' id="{html.escape(no.id)}"' if no.id else ''
     rev = ' revogado' if no.revogado else ''
     if no.tipo == 'raiz':
@@ -282,14 +378,20 @@ def render(no):
     if no.tipo == 'lin':
         return f'<div class="lin{rev}"{ida}>{corpo}</div>'
     if no.tipo == 'sec':
-        classe = 'sec estrutura' if no.tem_artigo() else 'sec extra'
-        return (f'<details class="{classe} n{no.nivel}"{ida}><summary>{rotulo_html(no.rotulo)}</summary>'
+        if RE_ANEXO.match(no.rotulo) or RE_GRUPO_ANEXOS.match(no.rotulo):
+            # anexo: em "Recolher artigos" só fica aberto se tiver artigos (ex.: regulamento anexo)
+            classe = 'sec anexo estrutura' if tem_art(no) else 'sec anexo'
+        else:
+            classe = 'sec estrutura' if no.tem_artigo() else 'sec extra'
+        extra = f' <span class="extra">{no.extra}</span>' if getattr(no, 'extra', '') else ''
+        return (f'<details class="{classe} n{no.nivel}"{ida}><summary>{rotulo_html(no.rotulo)}{extra}</summary>'
                 f'<div class="corpo">{corpo}</div></details>')
     if no.tipo == 'art':
         return (f'<details class="art{rev}"{ida}><summary>{rotulo_html(no.rotulo)}</summary>'
-                f'<div class="corpo">{corpo}</div></details>')
+                f'<div class="corpo">{controle_niveis(no)}{corpo}</div></details>')
     titulo = html.escape(no.rotulo)
-    return (f'<details class="disp{rev}"{ida}><summary title="{titulo}">{html.escape(rotulo_curto(no.rotulo))}</summary>'
+    dp = f' data-p="{prof}"' if prof else ''
+    return (f'<details class="disp{rev}"{ida}{dp}><summary title="{titulo}">{html.escape(rotulo_curto(no.rotulo))}</summary>'
             f'<div class="corpo">{corpo}</div></details>')
 
 
@@ -321,25 +423,36 @@ summary:hover{background:var(--realce-fundo)}
 .sec>summary{font-weight:700;text-transform:none}
 .sec.n2>summary{font-size:1.05rem}
 .sec.extra>summary{font-weight:500;color:var(--suave)}
+.sec.anexo>summary{font-weight:700;color:var(--texto)}
 .art>summary{font-weight:600;color:var(--realce)}
 .disp>summary{display:inline-block;font-size:.92rem;color:var(--realce)}
-.disp[open]>summary{display:block}
+.disp[open]>summary{float:left;margin-right:6px;line-height:1.6;padding-top:0;padding-bottom:0}
+.disp[open]>.corpo{margin-left:0;padding-left:0;border-left:none;display:flow-root}
+.disp[open]>.corpo>.texto:first-child{margin-top:0}
+.disp[open]>.corpo>details{margin-left:1.6em}
 p{margin:4px 0}
 .texto{margin:2px 0 6px}
 .lin{margin:3px 0}
 .nota{font:.8rem/1.4 system-ui,sans-serif;color:var(--suave);margin:6px 0}
 .item{padding-left:1em}
+.item.r1{padding-left:2em}.item.r2{padding-left:3em}.item.r3{padding-left:4em}.item.r4{padding-left:5em}
 .revogado>summary,.revogado .texto{color:var(--revogado)}
 del{color:var(--revogado)}
 blockquote{margin:6px 0;padding:4px 12px;border-left:3px solid var(--linha);color:var(--suave)}
 a{color:var(--realce)}
 .pendente{border-bottom:1px dotted var(--suave)}
+.extra{font-weight:400;font-size:.85rem}
 .tabela{overflow-x:auto;margin:8px 0}
 table{border-collapse:collapse;font:.85rem/1.4 system-ui,sans-serif}
 th,td{border:1px solid var(--linha);padding:4px 8px;vertical-align:top;text-align:left}
 img{max-width:100%;height:auto}
 code{font-size:.85em}
 .alvo{background:var(--marca);border-radius:4px}
+.niveis{display:flex;flex-wrap:wrap;gap:4px;align-items:center;margin:4px 0 8px;font:.78rem system-ui,sans-serif;color:var(--suave)}
+.niveis span{margin-right:2px}
+.niveis button{font:inherit;padding:2px 8px;border-radius:10px;border:1px solid var(--linha);background:transparent;color:var(--suave);cursor:pointer}
+.niveis button:hover{border-color:var(--realce);color:var(--realce)}
+.niveis button.ativo{background:var(--realce-fundo);border-color:var(--realce);color:var(--realce);font-weight:600}
 """
 
 JS = """
@@ -353,6 +466,21 @@ JS = """
     else{todos.forEach(function(d){d.open=false;});}
     estado=(estado+1)%3; btn.textContent=rotulos[estado];
   });
+  // abrir um artigo abre todos os dispositivos dele, com os textos
+  function nivel(art,n){
+    art.querySelectorAll('details.disp[data-p]').forEach(function(d){d.open=n<0||(+d.dataset.p)<=n;});
+    art.querySelectorAll('.niveis button').forEach(function(b){
+      var bn=+b.dataset.nivel, max=art.querySelectorAll('.niveis button').length-1;
+      b.classList.toggle('ativo', n<0 ? bn===max : bn===n);
+    });
+  }
+  document.addEventListener('toggle',function(e){
+    var d=e.target; if(d.classList&&d.classList.contains('art')&&d.open) nivel(d,-1);
+  },true);
+  document.addEventListener('click',function(e){
+    var b=e.target.closest&&e.target.closest('.niveis button'); if(!b) return;
+    nivel(b.closest('details.art'),+b.dataset.nivel);
+  });
   function irPara(){
     var id=decodeURIComponent(location.hash.slice(1)); if(!id) return;
     var el=document.getElementById(id); if(!el) return;
@@ -365,7 +493,7 @@ JS = """
 """
 
 
-def pagina(titulo, cabecalho, corpo, fm):
+def pagina(titulo, cabecalho, corpo, fm, titulo_id=None):
     situacao = '<div class="situacao">Revogada</div>' if fm.get('situacao') == 'revogada' else ''
     cab = ''.join(f'<p class="ementa">{c}</p>' for c in cabecalho)
     if not cab and fm.get('ementa'):
@@ -380,7 +508,7 @@ def pagina(titulo, cabecalho, corpo, fm):
 </head>
 <body>
 <main>
-<header>{situacao}<h1>{titulo}</h1>{cab}</header>
+<header>{situacao}<h1{f' id="{html.escape(titulo_id)}"' if titulo_id else ''}>{titulo}</h1>{cab}</header>
 <div class="barra"><button id="alternar" type="button">Expandir tudo</button><a href="index.html">Todas as normas</a></div>
 {corpo}
 </main>
@@ -411,27 +539,90 @@ def arquivos():
     return lista
 
 
+def numero_anexo(arquivo):
+    m = re.search(r'-anexo(\d+)', arquivo)
+    return int(m.group(1)) if m else 0
+
+
+def achar(no, ident):
+    if no.id == ident:
+        return no
+    for f in no.filhos():
+        r = achar(f, ident)
+        if r is not None:
+            return r
+    return None
+
+
+def encaixar_anexo(raiz_mae, mae, ancora, raiz_anexo):
+    """Põe o texto do anexo dentro do título "ANEXO N {#anexoN}" da norma-mãe.
+    A seção "Texto do anexo" é desfeita (o texto entra direto); síntese e notas do anexo
+    entram como subseções. O link "Texto do Anexo N", que apontaria para o próprio lugar, sai."""
+    destino = achar(raiz_mae, ancora)
+    if destino is None:          # sem título para o anexo: entra no fim da norma
+        destino = No('sec', ancora, 'Anexo', 2)
+        raiz_mae.conteudo.append(('no', destino))
+    proprio = re.compile(rf'^<p><a href="{re.escape(mae)}\.html#{re.escape(ancora)}">[^<]*</a>\.?</p>$')
+    destino.conteudo = [(k, c) for k, c in destino.conteudo if not (k == 'html' and proprio.match(c))]
+    for k, c in raiz_anexo.conteudo:
+        if k == 'no' and c.tipo == 'sec' and c.rotulo.lower().startswith('texto do anexo'):
+            destino.conteudo += c.conteudo
+        else:
+            if k == 'no' and c.tipo == 'sec':
+                prefixar(c, ancora)
+            destino.conteudo.append((k, c))
+
+
+def prefixar(no, ancora):
+    """Seções editoriais do anexo (sintese, notas-transcricao) repetem IDs da norma-mãe: viram anexoN-sintese."""
+    if no.tipo == 'sec' and no.id and not no.id.startswith('anexo'):
+        no.id = f'{ancora}-{no.id}'
+    for f in no.filhos():
+        prefixar(f, ancora)
+
+
 def main():
     saida = Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else RAIZ / 'html'
     saida.mkdir(parents=True, exist_ok=True)
     fontes = arquivos()
-    existentes = {f.stem for f in fontes}
-    itens = []
+    paginas = [f for f in fontes if f.parent.name != 'anexos']
+    existentes = {f.stem for f in paginas}
+
+    # anexos: cada um vai para a página da norma-mãe (campo norma_mae), na posição do título dele
+    anexos, por_mae = {}, {}
     for f in fontes:
+        if f.parent.name != 'anexos':
+            continue
         fm, corpo = ler_frontmatter(f.read_text(encoding='utf-8'))
-        conv = Conversor(existentes, f.stem, f.parent, saida)
+        mae = re.sub(r'^\[\[|\]\]$', '', fm.get('norma_mae', '')).split('|')[0].split('#')[0]
+        if mae not in existentes:
+            paginas.append(f)        # norma-mãe fora da base: o anexo continua com página própria
+            existentes.add(f.stem)
+            continue
+        anexos[f.stem] = (mae, f'anexo{numero_anexo(f.stem)}')
+        por_mae.setdefault(mae, []).append((f, corpo))
+
+    itens = []
+    for f in paginas:
+        fm, corpo = ler_frontmatter(f.read_text(encoding='utf-8'))
+        conv = Conversor(existentes, f.stem, f.parent, saida, anexos)
         titulo, cabecalho, raiz = montar(corpo, conv)
         marcar_pais(raiz)
+        for fa, corpo_a in sorted(por_mae.get(f.stem, []), key=lambda x: numero_anexo(x[0].stem)):
+            conv_a = Conversor(existentes, fa.stem, fa.parent, saida, anexos)
+            _, _, raiz_a = montar(corpo_a, conv_a)
+            marcar_pais(raiz_a)
+            encaixar_anexo(raiz, f.stem, anexos[fa.stem][1], raiz_a)
         titulo_html = conv.inline(titulo) if titulo else html.escape(fm.get('norma') or f.stem)
-        (saida / f'{f.stem}.html').write_text(pagina(titulo_html, cabecalho, render(raiz), fm), encoding='utf-8')
+        (saida / f'{f.stem}.html').write_text(pagina(titulo_html, cabecalho, render(raiz), fm, getattr(raiz, 'id_titulo', None)), encoding='utf-8')
         if f.parent.name == 'normas':
             itens.append((f.stem, fm.get('norma') or f.stem, fm.get('ementa', '')))
-    # apaga páginas de normas que saíram da base (só arquivos .html gerados por este script)
+    # apaga páginas que não existem mais (normas que saíram da base, anexos agora dentro da norma)
     for velho in saida.glob('*.html'):
         if velho.stem not in existentes and velho.name != 'index.html':
             velho.unlink()
     (saida / 'index.html').write_text(indice(itens), encoding='utf-8')
-    print(f'{len(fontes)} páginas em {saida}')
+    print(f'{len(paginas)} páginas em {saida} ({len(anexos)} anexos dentro das normas)')
 
 
 if __name__ == '__main__':
