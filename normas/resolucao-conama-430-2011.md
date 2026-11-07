@@ -19,7 +19,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[lei-federal-6938-1981]]", "[[decreto-federal-99274-1990]]", "[[portaria-mma-168-2005]]", "[[resolucao-conama-357-2005]]", "[[lei-federal-9605-1998]]"]
-tags: [abastecimento-publico, art-anotacao, automonitoramento, baixo-potencial-poluidor, balneabilidade, cancelamento-licenca, capacidade-suporte, carga-poluidora, cianobacteria, classe-especial, conama, condicao-especial, dbo, dcp, diluicao, dispensa, disposicao-solo, ecotoxicidade, efluente, emissario-submarino, enquadramento, esgoto-sanitario, fonte-poluicao, fosforo, infracao-ambiental, inmetro, laboratorio-acreditado, lagoa-tratamento, lancamento-indireto, laudo-tecnico, licenca-ambiental, licenciamento-ambiental, lixiviado, materiais-sedimentaveis, monitoramento, oleos-graxas, padrao-lancamento, padrao-qualidade, poluicao, pop, prazo, prorrogacao-prazo, recurso-hidrico, renovacao, responsavel-tecnico, restricao-temporaria, reuso-efluente, sancao, saneamento, servico-saude, suspensao-licenca, tratamento-efluente, tratamento-esgoto, vigencia, zona-mistura]
+tags: [abastecimento-publico, amostragem, art-anotacao, automonitoramento, baixo-potencial-poluidor, balneabilidade, cancelamento-licenca, capacidade-suporte, carga-poluidora, cianobacteria, classe-especial, condicao-especial, dbo, dcp, diluicao, disposicao-solo, ecotoxicidade, efluente, emissario-submarino, enquadramento, esgoto-sanitario, fosforo, laboratorio-acreditado, lagoa-tratamento, lancamento-indireto, laudo-analitico, lixiviado, materiais-sedimentaveis, monitoramento, oleos-graxas, padrao-lancamento, padrao-qualidade, pop, prorrogacao-prazo, responsavel-tecnico, restricao-temporaria, reuso-efluente, revogacao, sancao, servico-saude, suspensao-licenca, transicao, tratamento-efluente, vazao, vigencia, zona-mistura]
 fonte: "PDF redigitado em Word (11 páginas, sem brasão, sem assinatura), enviado por Leo; texto conferido com o PDF"
 ---
 
@@ -30,14 +30,14 @@ fonte: "PDF redigitado em Word (11 páginas, sem brasão, sem assinatura), envia
 **Preâmbulo** {#preambulo} O CONSELHO NACIONAL DO MEIO AMBIENTE-CONAMA, no uso das competências que lhe são conferidas pelo [[lei-federal-6938-1981#art8_cpt_inc7|inciso VII do art. 8º da Lei nº 6.938, de 31 de agosto de 1981]], regulamentada pelo [[decreto-federal-99274-1990|Decreto nº 99.274, de 6 de junho de 1990]] e suas alterações, tendo em vista o disposto em seu Regimento Interno, Anexo à [[portaria-mma-168-2005|Portaria nº 168, de 13 de junho de 2005]], resolve:
 
 ###### Art. 1º {#art1}
-Tags: #padrao-lancamento #efluente #lancamento-indireto #conama
+Tags: #padrao-lancamento #lancamento-indireto
 
 **Art. 1º, caput** {#art1_cpt} Esta Resolução dispõe sobre condições, parâmetros, padrões e diretrizes para gestão do lançamento de efluentes em corpos de água receptores, alterando parcialmente e complementando a [[resolucao-conama-357-2005|Resolução nº 357, de 17 de março de 2005]], do Conselho Nacional do Meio Ambiente-CONAMA.
 
 **Art. 1º, parágrafo único** {#art1_par1u} O lançamento indireto de efluentes no corpo receptor deverá observar o disposto nesta Resolução quando verificada a inexistência de legislação ou normas específicas, disposições do órgão ambiental competente, bem como diretrizes da operadora dos sistemas de coleta e tratamento de esgoto sanitário.
 
 ###### Art. 2º {#art2}
-Tags: #efluente #disposicao-solo #poluicao
+Tags: #efluente #disposicao-solo
 
 **Art. 2º, caput** {#art2_cpt} A disposição de efluentes no solo, mesmo tratados, não está sujeita aos parâmetros e padrões de lançamento dispostos nesta Resolução, não podendo, todavia, causar poluição ou contaminação das águas superficiais e subterrâneas.
 
@@ -87,7 +87,7 @@ Tags: #enquadramento #padrao-qualidade
 **Art. 5º, § 2º** {#art5_par2} Para os parâmetros não incluídos nas metas obrigatórias e na ausência de metas intermediárias progressivas, os padrões de qualidade a serem obedecidos no corpo receptor são os que constam na classe na qual o corpo receptor estiver enquadrado.
 
 ###### Art. 6º {#art6}
-Tags: #prazo
+Tags: #padrao-lancamento #condicao-especial
 
 **Art. 6º, caput** {#art6_cpt} Excepcionalmente e em caráter temporário, o órgão ambiental competente poderá, mediante análise técnica fundamentada, autorizar o lançamento de efluentes em desacordo com as condições e padrões estabelecidos nesta Resolução, desde que observados os seguintes requisitos:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} comprovação de relevante interesse público, devidamente motivado;
@@ -98,7 +98,7 @@ Tags: #prazo
 - **Art. 6º, caput, inciso VI** {#art6_cpt_inc6} estabelecimento de medidas que visem neutralizar os eventuais efeitos do lançamento excepcional.
 
 ###### Art. 7º {#art7}
-Tags: #carga-poluidora #capacidade-suporte #licenciamento-ambiental #renovacao #suspensao-licenca #cancelamento-licenca
+Tags: #carga-poluidora #capacidade-suporte #suspensao-licenca #cancelamento-licenca
 
 **Art. 7º, caput** {#art7_cpt} O órgão ambiental competente deverá, por meio de norma específica ou no licenciamento da atividade ou empreendi mento, estabelecer a carga poluidora máxima para o lançamento de substâncias passíveis de estarem presentes ou serem formadas nos processos produtivos, listadas ou não no [[#art16|art. 16 desta Resolução]], de modo a não comprometer as metas progressivas obrigatórias, intermediárias e final, estabelecidas para enquadramento do corpo receptor.
 
@@ -118,17 +118,17 @@ Tags: #pop
 **Art. 8º, parágrafo único** {#art8_par1u} Nos processos nos quais possam ocorrer a formação de dioxinas e furanos deverá ser utilizada a tecnologia adequada para a sua redução, até a completa eliminação.
 
 ###### Art. 9º {#art9}
-Tags: #diluicao #efluente
+Tags: #diluicao
 
 **Art. 9º, caput** {#art9_cpt} No controle das condições de lançamento, é vedada, para fins de diluição antes do seu lançamento, a mistura de efluentes com águas de melhor qualidade, tais como as águas de abastecimento, do mar e de sistemas abertos de refrigeração sem recirculação.
 
 ###### Art. 10 {#art10}
-Tags: #efluente #fonte-poluicao
+Tags: #padrao-lancamento
 
 **Art. 10, caput** {#art10_cpt} Na hipótese de fonte de poluição geradora de diferentes efluentes ou lançamentos individualizados, os limites constantes desta Resolução aplicar-se-ão a cada um deles ou ao conjunto após a mistura, a critério do órgão ambiental competente.
 
 ###### Art. 11 {#art11}
-Tags: #classe-especial #efluente
+Tags: #classe-especial #padrao-lancamento
 
 **Art. 11, caput** {#art11_cpt} Nas águas de classe especial é vedado o lançamento de efluentes ou disposição de resíduos domésticos, agropecuários, de aquicultura, industriais e de quaisquer outras fontes poluentes, mesmo que tratados.
 
@@ -147,14 +147,14 @@ Tags: #zona-mistura
 **Art. 13, parágrafo único** {#art13_par1u} A extensão e as concentrações de substâncias na zona de mistura deverão ser objeto de estudo, quando determinado pelo órgão ambiental competente, às expensas do empreendedor responsável pelo lançamento.
 
 ###### Art. 14 {#art14}
-Tags: #restricao-temporaria
+Tags: #restricao-temporaria #vazao
 
 **Art. 14, caput** {#art14_cpt} Sem prejuízo do disposto no [[#art3_par1u_inc1|inciso I do parágrafo único do art. 3º desta Resolução]], o órgão ambiental competente poderá, quando a vazão do corpo receptor estiver abaixo da vazão de referência, estabelecer restrições e medidas adicionais, de caráter excepcional e temporário, aos lançamentos de efluentes que possam, dentre outras consequências:
 - **Art. 14, caput, inciso I** {#art14_cpt_inc1} acarretar efeitos tóxicos agudos ou crônicos em organismos aquáticos; ou
 - **Art. 14, caput, inciso II** {#art14_cpt_inc2} inviabilizar o abastecimento das populações.
 
 ###### Art. 15 {#art15}
-Tags: #condicao-especial #recurso-hidrico
+Tags: #padrao-lancamento #condicao-especial
 
 **Art. 15, caput** {#art15_cpt} Para o lançamento de efluentes tratados em leito seco de corpos receptores intermitentes, o órgão ambiental competente poderá definir condições especiais, ouvido o órgão gestor de recursos hídricos.
 
@@ -263,7 +263,7 @@ Tags: #emissario-submarino #balneabilidade #zona-mistura #monitoramento
 ### Seção III – Das Condições e Padrões para Efluentes de Sistemas de Tratamento de Esgotos Sanitários
 
 ###### Art. 21 {#art21}
-Tags: #esgoto-sanitario #tratamento-esgoto #padrao-lancamento #dbo #oleos-graxas #lixiviado #lagoa-tratamento
+Tags: #esgoto-sanitario #padrao-lancamento #dbo #oleos-graxas #lixiviado #lagoa-tratamento
 
 **Art. 21, caput** {#art21_cpt} Para o lançamento direto de efluentes oriundos de sistemas de tratamento de esgotos sanitários deverão ser obedecidas as seguintes condições e padrões específicos:
 - **Art. 21, caput, inciso I** {#art21_cpt_inc1} Condições de lançamento de efluentes:
@@ -293,7 +293,7 @@ Tags: #esgoto-sanitario #emissario-submarino #balneabilidade
 - **Art. 22, parágrafo único, inciso V** {#art22_par1u_inc5} sólidos em suspensão totais: eficiência mínima de remoção de 20%, após desarenação.
 
 ###### Art. 23 {#art23}
-Tags: #esgoto-sanitario #ecotoxicidade #saneamento
+Tags: #esgoto-sanitario #ecotoxicidade
 
 **Art. 23, caput** {#art23_cpt} Os efluentes de sistemas de tratamento de esgotos sanitários poderão ser objeto de teste de ecotoxicidade no caso de interferência de efluentes com características potencialmente tóxicas ao corpo receptor, a critério do órgão ambiental competente.
 
@@ -304,21 +304,21 @@ Tags: #esgoto-sanitario #ecotoxicidade #saneamento
 ## CAPÍTULO III – DIRETRIZES PARA GESTÃO DE EFLUENTES
 
 ###### Art. 24 {#art24}
-Tags: #automonitoramento #baixo-potencial-poluidor #dispensa
+Tags: #automonitoramento #baixo-potencial-poluidor
 
 **Art. 24, caput** {#art24_cpt} Os responsáveis pelas fontes poluidoras dos recursos hídricos deverão realizar o automonitoramento para controle e acompanhamento periódico dos efluentes lançados nos corpos receptores, com base em amostragem representativa dos mesmos.
 
 **Art. 24, § 1º** {#art24_par1} O órgão ambiental competente poderá estabelecer critérios e procedimentos para a execução e averiguação do automonitoramento de efluentes e avaliação da qualidade do corpo receptor.
 
-**Art. 24, § 2º** {#art24_par2} #baixo-potencial-poluidor #dispensa Para fontes de baixo potencial poluidor, assim definidas pelo órgão ambiental competente, poderá ser dispensado o automonitoramento, mediante fundamentação técnica.
+**Art. 24, § 2º** {#art24_par2} #automonitoramento #baixo-potencial-poluidor Para fontes de baixo potencial poluidor, assim definidas pelo órgão ambiental competente, poderá ser dispensado o automonitoramento, mediante fundamentação técnica.
 
 ###### Art. 25 {#art25}
-Tags: #responsavel-tecnico
+Tags: #amostragem #responsavel-tecnico
 
 **Art. 25, caput** {#art25_cpt} As coletas de amostras e as análises de efluentes líquidos e em corpos hídricos devem ser realizadas de acordo com as normas específicas, sob responsabilidade de profissional legalmente habilitado.
 
 ###### Art. 26 {#art26}
-Tags: #laboratorio-acreditado #inmetro #laudo-tecnico
+Tags: #laboratorio-acreditado #laudo-analitico
 
 **Art. 26, caput** {#art26_cpt} Os ensaios deverão ser realizados por laboratórios acreditados pelo Instituto Nacional de Metrologia, Normalização e Qualidade Industrial-INMETRO ou por outro organismo signatário do mesmo acordo de cooperação mútua do qual o INMETRO faça parte ou em laboratórios aceitos pelo órgão ambiental competente.
 
@@ -334,7 +334,7 @@ Tags: #reuso-efluente
 **Art. 27, parágrafo único** {#art27_par1u} No caso de efluentes cuja vazão original for reduzida pela prática de reuso, ocasionando aumento de concentração de substâncias presentes no efluente para valores em desacordo com as condições e padrões de lançamento estabelecidos na [[#art16_tab1|Tabela I do art. 16, desta Resolução]], o órgão ambiental competente poderá estabelecer condições e padrões específicos de lançamento, conforme previsto nos [[#art6_cpt_inc2|incisos II, III e IV do art. 6º, desta Resolução]].
 
 ###### Art. 28 {#art28}
-Tags: #dcp #carga-poluidora #art-anotacao #prazo
+Tags: #dcp #art-anotacao
 
 **Art. 28, caput** {#art28_cpt} O responsável por fonte potencial ou efetivamente poluidora dos recursos hídricos deve apresentar ao órgão ambiental competente, até o dia 31 de março de cada ano, Declaração de Carga Poluidora, referente ao ano anterior.
 
@@ -347,7 +347,7 @@ Tags: #dcp #carga-poluidora #art-anotacao #prazo
 ## CAPÍTULO IV – DAS DISPOSIÇÕES FINAIS
 
 ###### Art. 29 {#art29}
-Tags: #licenca-ambiental #prorrogacao-prazo
+Tags: #transicao #prorrogacao-prazo
 
 **Art. 29, caput** {#art29_cpt} Aos empreendimentos e demais atividades poluidoras que, na data da publicação desta Resolução, contarem com licença ambiental expedida, poderá ser concedido, a critério do órgão ambiental competente, prazo de até três anos, contados a partir da publicação da presente Resolução, para se adequarem às condições e padrões novos ou mais rigorosos estabelecidos nesta norma.
 
@@ -358,7 +358,7 @@ Tags: #licenca-ambiental #prorrogacao-prazo
 **Art. 29, § 3º** {#art29_par3} As instalações de tratamento de efluentes existentes deverão ser mantidas em operação com a capacidade, condições de funcionamento e demais características para as quais foram aprovadas, até que se cumpram às disposições desta Resolução.
 
 ###### Art. 30 {#art30}
-Tags: #sancao #infracao-ambiental
+Tags: #sancao
 
 **Art. 30, caput** {#art30_cpt} O não cumprimento do disposto nesta Resolução sujeitará os infratores, entre outras, às sanções previstas na [[lei-federal-9605-1998|Lei no 9.605, de 12 de fevereiro de 1998]], e em seu regulamento.
 
@@ -368,6 +368,7 @@ Tags: #vigencia
 **Art. 31, caput** {#art31_cpt} Esta Resolução entra em vigor na data de sua publicação.
 
 ###### Art. 32 {#art32}
+Tags: #revogacao
 
 **Art. 32, caput** {#art32_cpt} Revogam-se [[resolucao-conama-357-2005#art2_cpt_inc38|o inciso XXXVIII do art. 2º]], [[resolucao-conama-357-2005#art24|os art. 24 a 37]] e [[resolucao-conama-357-2005#art39|os art. 39, 43, 44 e 46]], da [[resolucao-conama-357-2005|Resolução CONAMA nº 357, de 2005]].
 

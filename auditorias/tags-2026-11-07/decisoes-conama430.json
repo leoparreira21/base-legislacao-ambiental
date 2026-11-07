@@ -1,0 +1,130 @@
+{
+  "1": {
+    "tags": [
+      "padrao-lancamento",
+      "lancamento-indireto"
+    ],
+    "justificativa": "Órgão emissor já está no frontmatter; objeto recuperado pelo padrão de lançamento."
+  },
+  "2": {
+    "tags": [
+      "efluente",
+      "disposicao-solo"
+    ],
+    "justificativa": "Regra de disposição no solo; poluição genérica não distingue a obrigação."
+  },
+  "6": {
+    "tags": [
+      "padrao-lancamento",
+      "condicao-especial"
+    ],
+    "justificativa": "Autorização excepcional de lançamento fora dos padrões; prazo isolado ocultava o objeto."
+  },
+  "7": {
+    "tags": [
+      "carga-poluidora",
+      "capacidade-suporte",
+      "suspensao-licenca",
+      "cancelamento-licenca"
+    ],
+    "justificativa": "Concentrar no limite de carga, estudo de suporte e consequências; licenciamento e renovação são contexto."
+  },
+  "9": {
+    "tags": [
+      "diluicao"
+    ],
+    "justificativa": "Proibição específica de diluição; texto conserva objeto e proibição."
+  },
+  "10": {
+    "tags": [
+      "padrao-lancamento"
+    ],
+    "justificativa": "Aplicação dos limites a efluentes separados ou misturados; fonte-poluicao era genérica."
+  },
+  "11": {
+    "tags": [
+      "classe-especial",
+      "padrao-lancamento"
+    ],
+    "justificativa": "Proibição de lançamento na classe especial, inclusive após tratamento."
+  },
+  "14": {
+    "tags": [
+      "restricao-temporaria",
+      "vazao"
+    ],
+    "justificativa": "Gatilho é a vazão abaixo da referência; preserva a excepcionalidade."
+  },
+  "15": {
+    "tags": [
+      "padrao-lancamento",
+      "condicao-especial"
+    ],
+    "justificativa": "Condições especiais em leito seco de corpo intermitente; recurso-hidrico era genérica."
+  },
+  "21": {
+    "tags": [
+      "esgoto-sanitario",
+      "padrao-lancamento",
+      "dbo",
+      "oleos-graxas",
+      "lixiviado",
+      "lagoa-tratamento"
+    ],
+    "justificativa": "Retira tratamento-esgoto redundante neste artigo, mantendo regime sanitário e exceções."
+  },
+  "23": {
+    "tags": [
+      "esgoto-sanitario",
+      "ecotoxicidade"
+    ],
+    "justificativa": "Saneamento é contexto; objeto é teste de toxicidade de esgoto."
+  },
+  "24": {
+    "tags": [
+      "automonitoramento",
+      "baixo-potencial-poluidor"
+    ],
+    "justificativa": "Dispensa é de automonitoramento, não de licença; retirar ambiguidade sem criar tag."
+  },
+  "25": {
+    "tags": [
+      "amostragem",
+      "responsavel-tecnico"
+    ],
+    "justificativa": "Coleta e análise de amostras sob responsabilidade profissional."
+  },
+  "26": {
+    "tags": [
+      "laboratorio-acreditado",
+      "laudo-analitico"
+    ],
+    "justificativa": "Laudo analítico é o documento efetivamente exigido; INMETRO permanece no texto."
+  },
+  "28": {
+    "tags": [
+      "dcp",
+      "art-anotacao"
+    ],
+    "justificativa": "Declaração específica e ART; prazo e carga permanecem no dispositivo e no próprio conceito DCP."
+  },
+  "29": {
+    "tags": [
+      "transicao",
+      "prorrogacao-prazo"
+    ],
+    "justificativa": "Adequação temporal de empreendimentos existentes; não é concessão genérica de licença."
+  },
+  "30": {
+    "tags": [
+      "sancao"
+    ],
+    "justificativa": "Remissão às sanções da Lei 9.605; infracao-ambiental não acrescenta discriminação aqui."
+  },
+  "32": {
+    "tags": [
+      "revogacao"
+    ],
+    "justificativa": "Ato revogador, distinto de dispositivo revogado; não usar #revogado neste artigo."
+  }
+}

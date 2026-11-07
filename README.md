@@ -217,3 +217,12 @@ Página estática publicada pelo GitHub Pages a cada push na `main` (`.github/wo
 Blocos de busca: o texto vira blocos de palavras (sem palavras genéricas da lista `GENERICO` de `site/motor.js`, como «norma», «atividade», «recurso»), somados aos sinônimos. Em seguida, cada tag da base cujas palavras estão todas na busca vira um bloco e absorve os blocos de palavras que cobre («resíduos de serviços de saúde» → `#residuo-servico-saude`). Trecho marcado com a tag conta o bloco inteiro, com peso maior; trecho sem a tag ainda conta pelas palavras. Sem tag correspondente, a busca fica só com as palavras. Tag contida em outra maior fica de fora, e tag de uma só palavra genérica (`#saude`) não vira bloco. As tags não mudam quais normas são admitidas, só a ordem dos trechos e das normas.
 
 Critério de admissão (fixo, não afrouxa quando há poucos resultados): (1) norma setorial só pelo âmbito; (2) norma transversal pela ementa; (3) qualquer norma cuja lista de enquadramento cite o código CNAE escolhido na triagem, o termo de enquadramento da CNAE (núcleo da atividade ou nome da divisão) ou todos os termos buscados. Resultado vazio indica lacuna da base ou da legislação.
+
+## Proposta de organização das tags (em revisão)
+
+A proposta de taxonomia facetada está em `consultas/taxonomia-tags.proposta.json`,
+com [relatório, cobertura e limitações](auditorias/tags-2026-11-07/relatorio.md).
+Ela não é consumida pelo motor atual. Grupos são ramos de navegação; `pai` representa
+termo mais amplo e `aliases` normaliza grafias equivalentes. A classificação das
+ocorrências continua exigindo leitura do dispositivo e de seu contexto.
+Valide a consistência da proposta com `python scripts/auditar_taxonomia_tags.py`.
