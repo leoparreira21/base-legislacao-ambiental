@@ -113,6 +113,9 @@ class Conversor:
         return f'<img src="{html.escape(src)}" alt="{alt}" loading="lazy">'
 
     def inline(self, t):
+        # escapes do Markdown (\*, \|, \_ ...): guardados antes da formatação e devolvidos sem a barra
+        t = re.sub(r'\[\[[^\]]*\]\]', lambda m: m.group(0).replace('\\|', '|'), t)   # [[norma#id\|rótulo]] em tabelas
+        t = re.sub(r'\\([\\*_#|\[\]()~`>-])', lambda m: f'\x00{ord(m.group(1))}\x00', t)
         t = html.escape(t, quote=False)
         t = re.sub(r'!\[([^\]]*)\]\(([^)\s]+)\)', self.imagem, t)
         t = re.sub(r'\[\[([^\]|]+?)(?:(?<!\\)\|([^\]]+))?\]\]', self.link, t)
@@ -121,13 +124,12 @@ class Conversor:
         t = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', t)
         t = re.sub(r'~~(.+?)~~', r'<del>\1</del>', t)
         t = re.sub(r'(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])', r'<em>\1</em>', t)
-        t = t.replace('\\|', '|')
+        t = re.sub(r'\x00(\d+)\x00', lambda m: html.escape(chr(int(m.group(1))), quote=False), t)
         return t
 
     def tabela(self, linhas):
         def celulas(l):
-            l = l.strip().strip('|')
-            return [c.strip() for c in re.split(r'(?<!\\)\|', l)]
+            return dividir_celulas(l.strip().strip('|'), r'\|')
         corpo = [l for l in linhas if not re.match(r'^\s*\|?\s*:?-{2,}', l)]
         if not corpo:
             return ''
@@ -136,6 +138,51 @@ class Conversor:
         for l in resto:
             h += '<tr>' + ''.join(f'<td>{self.inline(c)}</td>' for c in celulas(l)) + '</tr>'
         return h + '</tbody></table></div>'
+
+
+RE_LINHA_TABELA = re.compile(r'_tab\d+(_lin\d+[a-z-]*)$')
+RE_CAB_TABELA = re.compile(r'(_tab\d+)_cab$')
+RE_OBS_TABELA = re.compile(r'(_tab\d+)_obs\d*$')
+RE_CHAVE = re.compile(r'^([^:\[\]]{1,140}?):\s+(.*)$', re.S)
+
+
+def dividir_celulas(texto, sep=r' \| '):
+    """Divide pelo separador, sem cortar [[norma|rótulo]] nem "\\|"."""
+    partes, buf, prof, i = [], '', 0, 0
+    rx = re.compile(sep)
+    while i < len(texto):
+        if texto.startswith('[[', i):
+            prof += 1; buf += '[['; i += 2; continue
+        if texto.startswith(']]', i):
+            prof = max(0, prof - 1); buf += ']]'; i += 2; continue
+        m = rx.match(texto, i)
+        if prof == 0 and m and (i == 0 or texto[i - 1] != '\\'):
+            partes.append(buf.strip()); buf = ''; i = m.end(); continue
+        buf += texto[i]; i += 1
+    partes.append(buf.strip())
+    return partes
+
+
+def celulas_linha(texto):
+    """'Porte: Micro | Área (ha): até 10' -> [('Porte', 'Micro'), ('Área (ha)', 'até 10')]; sem chave -> (None, texto).
+    Chave curta depois de uma chave com grupo herda o grupo: 'CLASSE — I: X | II: X' -> 'CLASSE — II'."""
+    saida, grupo = [], None
+    for parte in dividir_celulas(texto):
+        if not parte:
+            continue
+        m = RE_CHAVE.match(parte)
+        if not m:
+            saida.append((None, parte))
+            continue
+        chave = m.group(1).strip()
+        if ' — ' in chave:
+            grupo = chave.rsplit(' — ', 1)[0]
+        elif grupo and len(chave) <= 5:
+            chave = f'{grupo} — {chave}'
+        else:
+            grupo = None
+        saida.append((chave, m.group(2).strip()))
+    return saida
 
 
 # ---------------------------------------------------------------- árvore
@@ -211,7 +258,9 @@ def montar(corpo, conv):
             continue
 
         if inicio and s.startswith('>'):
-            cabecalho.append(conv.inline(RE_ID_CITACAO.sub('', s.lstrip('> ')).strip()))
+            mid = RE_ID_CITACAO.search(s)
+            txt = conv.inline(RE_ID_CITACAO.sub('', s.lstrip('> ')).strip())
+            cabecalho.append(f'<span id="{html.escape(mid.group(1))}">{txt}</span>' if mid else txt)
             continue
 
         m = RE_DISP.match(linha)
@@ -229,6 +278,8 @@ def montar(corpo, conv):
             pai = None
             for cand_id in ancestrais(ident):
                 cand = por_id.get(cand_id)
+                if cand is not None and getattr(cand, 'tabela', None):
+                    continue          # linha de tabela não tem filhos: o pai é o da tabela
                 if cand is not None and dentro(cand, container):
                     pai = cand
                     break
@@ -242,7 +293,31 @@ def montar(corpo, conv):
                 tipo = 'disp'
             no = No(tipo, ident, rotulo)
             no.revogado = revogado
-            if texto:
+            mtab = RE_LINHA_TABELA.search(ident) if tipo == 'lin' else None
+            mcab = RE_CAB_TABELA.search(ident)
+            if not mcab and rotulo.endswith('cabeçalho'):
+                mcab = re.search(r'(_tab\d+)$', ident)
+            mobs = RE_OBS_TABELA.search(ident)
+            if mobs:
+                # observações da tabela: linha final de largura inteira
+                tipo = 'lin'
+                no = No(tipo, ident, rotulo)
+                no.tabela = ident[:mobs.end(1)]
+                no.celulas = [(None, conv.inline(texto))]
+                no.revogado = revogado
+            elif mcab:
+                # cabeçalho explícito da tabela: só aparece se as linhas não trouxerem as colunas
+                tipo = 'lin'
+                no = No(tipo, ident, rotulo)
+                no.tabela = ident[:mcab.end(1)]
+                no.cab = [conv.inline(c) for c in dividir_celulas(re.sub(r'\s*\([^)]*\)\s*$', '', texto))]
+                no.celulas = []
+                no.revogado = revogado
+            elif mtab:
+                # linha de tabela "Coluna: valor | Coluna: valor": vira linha de <table> no render
+                no.tabela = ident[:mtab.start(1)]
+                no.celulas = [(conv.inline(k) if k else None, conv.inline(v)) for k, v in celulas_linha(texto)]
+            elif texto:
                 no.conteudo.append(('html', f'<p class="texto">{conv.inline(texto)}</p>'))
             pai.conteudo.append(('no', no))
             no.pai = pai
@@ -356,6 +431,187 @@ def controle_niveis(art):
     return f'<div class="niveis" role="group" aria-label="Níveis do artigo"><span>Abrir até:</span>{botoes}</div>'
 
 
+def render_conteudo(conteudo, prof):
+    """Renderiza o conteúdo de um nó; linhas consecutivas da mesma tabela viram uma <table>."""
+    partes, i = [], 0
+    while i < len(conteudo):
+        k, c = conteudo[i]
+        if k == 'no' and getattr(c, 'tabela', None):
+            linhas = [c]
+            i += 1
+            while i < len(conteudo) and conteudo[i][0] == 'no' and getattr(conteudo[i][1], 'tabela', None) == c.tabela:
+                linhas.append(conteudo[i][1])
+                i += 1
+            partes.append(render_tabela(linhas, prof))
+            continue
+        partes.append(c if k == 'html' else render(c, prof))
+        i += 1
+    return ''.join(partes)
+
+
+def montar_blocos(linhas):
+    """Separa as linhas em blocos com o mesmo cabeçalho.
+    - linha só com colunas já conhecidas: entra no bloco (célula ausente fica vazia);
+    - mesma quantidade de colunas, só a primeira com outro nome (PARÂMETROS -> PARÂMETROS INORGÂNICOS):
+      novo bloco, com subcabeçalho;
+    - colunas novas (cabeçalho em dois níveis achatado, ex.: "Método — Aspersão"): somam-se ao bloco."""
+    blocos = []
+    for ln in linhas:
+        chaves = [ch for ch, _ in ln.celulas if ch is not None]
+        b = blocos[-1] if blocos else None
+        if not chaves:
+            if b is None:
+                b = {'colunas': [], 'linhas': []}
+                blocos.append(b)
+        elif b is None or not b['colunas']:
+            if b is None:
+                b = {'colunas': [], 'linhas': []}
+                blocos.append(b)
+            b['colunas'] = list(dict.fromkeys(chaves))
+        elif set(chaves) <= set(b['colunas']):
+            pass
+        elif len(chaves) == len(b['colunas']) and chaves[1:] == b['colunas'][1:]:
+            b = {'colunas': list(dict.fromkeys(chaves)), 'linhas': []}
+            blocos.append(b)
+        else:
+            b['colunas'] += [ch for ch in dict.fromkeys(chaves) if ch not in b['colunas']]
+        b['linhas'].append(ln)
+    return blocos
+
+
+def juntar_linhas(linhas):
+    """Reúne linhas que a conversão separou: mesma informação nas colunas comuns e colunas novas
+    (Porte: Micro | Área: <10 | Aspersão: DLAM  +  Porte: Micro | Área: <10 | Localizada: DLAM)."""
+    juntas = []
+    for ln in linhas:
+        valores = {ch: v for ch, v in ln.celulas if ch is not None}
+        if juntas and valores:
+            ant = juntas[-1]
+            comuns = set(ant['valores']) & set(valores)
+            novas = set(valores) - set(ant['valores'])
+            if comuns and novas and all(ant['valores'][ch] == valores[ch] for ch in comuns) and not ant['livre']:
+                for ch in novas:
+                    ant['valores'][ch] = valores[ch]
+                    ant['ids'][ch] = ln.id
+                ant['nos'].append(ln)
+                continue
+        livre = ' '.join(v for ch, v in ln.celulas if ch is None)
+        juntas.append({'valores': valores, 'ids': {}, 'livre': livre, 'nos': [ln]})
+    return juntas
+
+
+def cabecalho_tabela(colunas):
+    """Cabeçalho da tabela. Colunas "Grupo — Sub — Item" viram várias linhas de <th>,
+    com o grupo em colspan sobre as colunas dele e rowspan nas colunas de nível único."""
+    partes = [c.split(' — ') for c in colunas]
+    niveis = max(len(p) for p in partes)
+    linhas = []
+    for nv in range(niveis):
+        tr, i = '', 0
+        while i < len(partes):
+            p = partes[i]
+            if len(p) <= nv:
+                i += 1
+                continue
+            if len(p) == nv + 1:
+                rs = f' rowspan="{niveis - nv}"' if niveis - nv > 1 else ''
+                tr += f'<th{rs}>{p[nv]}</th>'
+                i += 1
+                continue
+            n = 1
+            while i + n < len(partes) and len(partes[i + n]) > nv + 1 and partes[i + n][:nv + 1] == p[:nv + 1]:
+                n += 1
+            cs = f' colspan="{n}"' if n > 1 else ''
+            tr += f'<th{cs}>{p[nv]}</th>'
+            i += n
+        linhas.append(f'<tr class="cab">{tr}</tr>')
+    return ''.join(linhas)
+
+
+def mesclar_colunas(linhas):
+    """Células iguais seguidas nas primeiras colunas viram uma célula com rowspan (como na publicação).
+    Cada coluna só mescla dentro dos grupos já mesclados da coluna anterior; a última coluna nunca mescla."""
+    if not linhas or not linhas[0]['celulas']:
+        return
+    ncol = len(linhas[0]['celulas'])
+    grupos = [(0, len(linhas))]
+    for c in range(ncol - 1):
+        novos = []
+        for ini, fim in grupos:
+            k = ini
+            while k < fim:
+                v = linhas[k]['celulas'][c][1]
+                n = 1
+                while k + n < fim and v and linhas[k + n]['celulas'][c][1] == v and not linhas[k + n]['celulas'][c][0]:
+                    n += 1
+                if n > 1:
+                    linhas[k]['celulas'][c][2] = n
+                    for r in range(k + 1, k + n):
+                        linhas[r]['celulas'][c][2] = 0      # coberta pelo rowspan
+                    novos.append((k, k + n))
+                k += n
+        if not novos:
+            break
+        grupos = novos
+
+
+def render_tabela(linhas, prof):
+    linhas_html, depois = [], []
+    cabs = [ln for ln in linhas if getattr(ln, 'cab', None) is not None]
+    linhas = [ln for ln in linhas if getattr(ln, 'cab', None) is None]
+    id_tabela = ''
+    if cabs:
+        id_tabela = f' id="{html.escape(cabs[0].id)}"'
+        if not any(ch for ln in linhas for ch, _ in ln.celulas):   # sem colunas nas linhas: usa o cabeçalho
+            linhas_html.append('<tr class="cab">' + ''.join(f'<th>{c}</th>' for c in cabs[0].cab) + '</tr>')
+    blocos = montar_blocos(linhas)
+    largura = max([len(b['colunas']) for b in blocos] + [len(c.cab) for c in cabs] + [1])
+    for b in blocos:
+        if b['colunas']:
+            linhas_html.append(cabecalho_tabela(b['colunas']))
+        trechos, corrida = [], []     # linhas de dados seguidas (mescláveis) e linhas de largura inteira
+        for j in juntar_linhas(b['linhas']):
+            primeiro = j['nos'][0]
+            rev = ' class="revogado"' if all(n.revogado for n in j['nos']) else ''
+            titulo = html.escape(' / '.join(n.rotulo for n in j['nos']))
+            attrs = f' id="{html.escape(primeiro.id)}"{rev} title="{titulo}"'
+            if not j['valores']:
+                if corrida:
+                    trechos.append(corrida); corrida = []
+                trechos.append({'attrs': attrs, 'largura': f'<td colspan="{largura}">{j["livre"]}</td>'})
+            else:
+                cols = b['colunas']
+                celulas = []
+                for n_col, ch in enumerate(cols):
+                    v = j['valores'].get(ch, '')
+                    if n_col == len(cols) - 1 and j['livre']:
+                        v = (v + ' ' + j['livre']).strip()
+                    ida = f' id="{html.escape(j["ids"][ch])}"' if ch in j['ids'] else ''
+                    celulas.append([ida, v, 1])
+                corrida.append({'attrs': attrs, 'celulas': celulas, 'revogado': bool(rev)})
+            for n in j['nos']:          # notas e linhas soltas que vinham depois da linha
+                if n.conteudo:
+                    depois.append(render_conteudo(n.conteudo, prof))
+        if corrida:
+            trechos.append(corrida)
+        for t in trechos:
+            if isinstance(t, dict):
+                linhas_html.append(f'<tr{t["attrs"]}>{t["largura"]}</tr>')
+                continue
+            seg = []                     # linha revogada separa os trechos mescláveis
+            for r in t + [None]:
+                if r is None or r['revogado']:
+                    mesclar_colunas(seg)
+                    seg = []
+                else:
+                    seg.append(r)
+            for r in t:
+                tds = ''.join(f'<td{ida}{f" rowspan={chr(34)}{rs}{chr(34)}" if rs > 1 else ""}>{v}</td>'
+                              for ida, v, rs in r['celulas'] if rs)
+                linhas_html.append(f'<tr{r["attrs"]}>{tds}</tr>')
+    return f'<div class="tabela"{id_tabela}><table><tbody>' + ''.join(linhas_html) + '</tbody></table></div>' + ''.join(depois)
+
+
 def tem_art(no):
     return any(f.tipo == 'art' or (f.tipo == 'sec' and tem_art(f)) for f in no.filhos())
 
@@ -368,7 +624,7 @@ def render(no, prof=0):
         prof_filhos = prof + 1
     else:
         prof_filhos = prof
-    corpo = ''.join(c if k == 'html' else render(c, prof_filhos) for k, c in no.conteudo)
+    corpo = render_conteudo(no.conteudo, prof_filhos)
     ida = f' id="{html.escape(no.id)}"' if no.id else ''
     rev = ' revogado' if no.revogado else ''
     if no.tipo == 'raiz':
@@ -445,6 +701,9 @@ a{color:var(--realce)}
 .tabela{overflow-x:auto;margin:8px 0}
 table{border-collapse:collapse;font:.85rem/1.4 system-ui,sans-serif}
 th,td{border:1px solid var(--linha);padding:4px 8px;vertical-align:top;text-align:left}
+th{background:var(--realce-fundo);font-weight:600}
+tr.revogado td{color:var(--revogado);text-decoration:line-through}
+td.alvo,tr.alvo td{background:var(--marca)}
 img{max-width:100%;height:auto}
 code{font-size:.85em}
 .alvo{background:var(--marca);border-radius:4px}
