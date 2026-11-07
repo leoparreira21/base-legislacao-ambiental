@@ -88,6 +88,44 @@ class TestGerarHtml(unittest.TestCase):
         self.assertEqual(list(g.ancestrais('art5_par2_inc3')), ['art5_par2', 'art5'])
 
 
+class TestTabelas(unittest.TestCase):
+    MD = """# Lei T {#lei-t}
+
+###### Art. 1º {#art1}
+
+**Art. 1º, caput** {#art1_cpt} Conforme a tabela.
+
+**Art. 1º, Tabela 1** {#art1_tab1} TABELA 1
+
+- **Art. 1º, Tabela 1, linha 1** {#art1_tab1_lin1} Porte: Micro | Área (ha): até 10 | Método — Aspersão: DLAM
+- **Art. 1º, Tabela 1, linha 2** {#art1_tab1_lin2} Porte: Micro | Área (ha): até 10 | Método — Localizada: LAC
+- **Art. 1º, Tabela 1, linha 3** {#art1_tab1_lin3} Porte: Pequeno | Área (ha): 10 a 100 | Método — Aspersão: LAS | Método — Localizada: LAS
+- **Art. 1º, Tabela 1, linha 4** {#art1_tab1_lin4} PARÂMETROS: X | Área (ha): 1 | Método — Aspersão: a | Método — Localizada: b
+- **Art. 1º, Tabela 1, linha 5** {#art1_tab1_lin5} PARÂMETROS: X | Área (ha): 2 | Método — Aspersão: c | Método — Localizada: d
+- **Art. 1º, Tabela 1, linha 6** {#art1_tab1_lin6} #revogado *(Excluído pela [[lei-x#art2\\|Lei X]])*
+"""
+
+    def test_tabela_reconstruida(self):
+        conv = g.Conversor({'lei-x'}, 'lei-t', Path('.'), Path('.'))
+        _, _, raiz = g.montar(self.MD, conv)
+        h = g.render(raiz)
+        self.assertEqual(h.count('<table>'), 1)
+        self.assertIn('<th colspan="2">Método</th>', h)              # cabeçalho em dois níveis
+        self.assertIn('<th rowspan="2">Porte</th>', h)
+        self.assertIn('<td id="art1_tab1_lin2">LAC</td>', h)          # linhas separadas pela conversão, reunidas
+        self.assertNotIn('<tr id="art1_tab1_lin2"', h)
+        self.assertIn('<th rowspan="2">PARÂMETROS</th>', h)                     # subcabeçalho (primeira coluna muda)
+        self.assertIn('<td rowspan="2">X</td>', h)                    # células iguais mescladas
+        self.assertIn('<tr id="art1_tab1_lin6" class="revogado"', h)
+        self.assertIn('<a href="lei-x.html#art2">Lei X</a>', h)
+        self.assertNotIn('Porte: Micro', h)
+
+    def test_linha_de_anexo_comum_nao_vira_tabela(self):
+        conv = g.Conversor(set(), 'x', Path('.'), Path('.'))
+        _, _, raiz = g.montar('### ANEXO I {#anexo1}\n\n- **Anexo I, linha 1** {#anexo1_lin1} Nome: Fulano | Cargo: X\n', conv)
+        self.assertNotIn('<table>', g.render(raiz))
+
+
 class TestLinksDaBase(unittest.TestCase):
     def test_todos_os_links_chegam_ao_destino(self):
         """Gera a base inteira e confere que cada link aponta para página e dispositivo existentes."""
