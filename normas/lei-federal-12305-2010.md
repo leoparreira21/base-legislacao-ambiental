@@ -14,7 +14,7 @@ ementa: "Institui a Política Nacional de Resíduos Sólidos; altera a Lei nº 9
 situacao: vigente
 texto: compilado (atualizado até a Lei nº 15.088/2025)
 regulamenta: []
-regulamentado_por: ["[[decreto-federal-10936-2022]]"]
+regulamentado_por: ["[[decreto-federal-10936-2022]]", "[[decreto-federal-12688-2025]]"]
 altera: ["[[lei-federal-9605-1998]]"]
 alterado_por: ["[[lei-federal-14026-2020]]", "[[lei-federal-15088-2025]]"]
 revoga: []
@@ -786,7 +786,7 @@ O texto foi mantido como está no PDF. Os pontos abaixo são do PDF, não erros 
 
 Observação do conversor (não é texto normativo):
 
-- A lei é regulamentada pelo [[decreto-federal-10936-2022|Decreto nº 10.936/2022]] (que revogou o Decreto nº 7.404/2010), já incluído na base e apontado no campo `regulamentado_por`.
+- A lei é regulamentada pelo [[decreto-federal-10936-2022|Decreto nº 10.936/2022]] (que revogou o Decreto nº 7.404/2010), já incluído na base e apontado no campo `regulamentado_por`. O [[decreto-federal-12688-2025|Decreto nº 12.688/2025]] regulamenta o art. 32, § 1º, e o art. 33, § 1º (logística reversa de embalagens de plástico).
 - A [[lei-estadual-20607-2021|Lei Estadual 20.607/2021]] (Plano Estadual de Resíduos Sólidos do Paraná) remete aos arts. [[#art13|13]] e [[#art17|17]] desta lei.
 - O [[#art24|art. 24]] integra o plano de gerenciamento de resíduos sólidos (PGRS) ao licenciamento ambiental; o [[#art20|art. 20]] lista quem está obrigado a elaborá-lo.
 - A redação de 2025 do [[#art49_cpt|art. 49]] ampliou a proibição de importação (inclui papel, plástico, vidro e metal) e criou exceções nos §§ 1º e 2º.
