@@ -1,0 +1,12 @@
+{
+  "base": "88429355072d0661d344d1ae5ba1aa00d0e2e437",
+  "antes": {
+    "tags_distintas": 819,
+    "ocorrencias": 39843
+  },
+  "depois": {
+    "tags_distintas": 819,
+    "ocorrencias": 40138
+  },
+  "arquivos_alterados": 52
+}

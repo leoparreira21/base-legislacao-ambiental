@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [esgotamento-sanitario]
 modalidades: [las, li]
-tags: [art-anotacao, controle-ambiental, efluente, esgoto-sanitario, licenciamento-ambiental, pca, recurso-hidrico, residuo-solido, saneamento]
+tags: [agua-pluvial, app, art-anotacao, controle-ambiental, efluente, esgotamento-sanitario, esgoto-sanitario, gerenciamento-residuo, lancamento, licenciamento-ambiental, lodo-esgoto, outorga, pca, pgr, recurso-hidrico, reserva-legal, residuo-solido, saneamento, tratamento-esgoto]
 fonte: "PDF da IN IAT 37/2025 enviado pelo usuário, páginas 99 a 106"
 ---
 
@@ -18,8 +18,8 @@ fonte: "PDF da IN IAT 37/2025 enviado pelo usuário, páginas 99 a 106"
 ## Texto do anexo {#texto-anexo}
 
 - **Anexo XI, linha 1** {#anexo11_lin1} ANEXO XI
-- **Anexo XI, linha 2** {#anexo11_lin2} TERMO DE REFERÊNCIA DE PLANO DE CONTROLE AMBIENTAL SIMPLIFICADO (PCA) PARA SISTEMA DE ESGOTAMENTO SANITÁRIO (SES)
-- **Anexo XI, linha 3** {#anexo11_lin3} O Plano de Controle Ambiental para SES deverá ser elaborado por técnico habilitado, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme dispõe a [[lei-federal-6496-1977|Lei nº 6.496/77]]].
+- **Anexo XI, linha 2** {#anexo11_lin2} #pca #esgotamento-sanitario TERMO DE REFERÊNCIA DE PLANO DE CONTROLE AMBIENTAL SIMPLIFICADO (PCA) PARA SISTEMA DE ESGOTAMENTO SANITÁRIO (SES)
+- **Anexo XI, linha 3** {#anexo11_lin3} #art-anotacao O Plano de Controle Ambiental para SES deverá ser elaborado por técnico habilitado, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme dispõe a [[lei-federal-6496-1977|Lei nº 6.496/77]]].
 - **Anexo XI, linha 4** {#anexo11_lin4} 1. INFORMAÇÕES CADASTRAIS
 - **Anexo XI, linha 5** {#anexo11_lin5} 1.1 Identificação do empreendedor:
 - **Anexo XI, linha 6** {#anexo11_lin6} a) Nome:
@@ -41,7 +41,7 @@ fonte: "PDF da IN IAT 37/2025 enviado pelo usuário, páginas 99 a 106"
 - **Anexo XI, linha 22** {#anexo11_lin22} c) Bairros a serem atendidos;
 - **Anexo XI, linha 23** {#anexo11_lin23} d) Horizonte de alcance do projeto, em anos;
 - **Anexo XI, linha 24** {#anexo11_lin24} e) Vazão de alcance de plano da ETE, em L/s;
-- **Anexo XI, linha 25** {#anexo11_lin25} f) Vazão outorgada de lançamento, em L/s;
+- **Anexo XI, linha 25** {#anexo11_lin25} #outorga #lancamento f) Vazão outorgada de lançamento, em L/s;
 - **Anexo XI, linha 26** {#anexo11_lin26} g) Distância da ETE a núcleos populacionais (apresentar a menor distância medida a partir do perímetro da ETE);
 - **Anexo XI, linha 27** {#anexo11_lin27} h) População de alcance de projeto de plano;
 - **Anexo XI, linha 28** {#anexo11_lin28} i) População de fim de plano;
@@ -73,8 +73,8 @@ fonte: "PDF da IN IAT 37/2025 enviado pelo usuário, páginas 99 a 106"
 - **Anexo XI, linha 54** {#anexo11_lin54} 3.6 Suscetibilidade do terreno à erosão;
 - **Anexo XI, linha 55** {#anexo11_lin55} 3.7 Caracterização da geomorfologia/relevo;
 - **Anexo XI, linha 56** {#anexo11_lin56} 3.8 Caracterizar a cobertura vegetal na área de intervenção do empreendimento;
-- **Anexo XI, linha 57** {#anexo11_lin57} 3.9 Existência de Áreas de Preservação Permanente;
-- **Anexo XI, linha 58** {#anexo11_lin58} 3.10 Ocorrência de Reserva Legal, seu estado de conservação e sua localização e distribuição; caso a Reserva Legal não tenha sido respeitada na área, indicar a área do imóvel que será destinada a Reserva Legal;
+- **Anexo XI, linha 57** {#anexo11_lin57} #app 3.9 Existência de Áreas de Preservação Permanente;
+- **Anexo XI, linha 58** {#anexo11_lin58} #reserva-legal 3.10 Ocorrência de Reserva Legal, seu estado de conservação e sua localização e distribuição; caso a Reserva Legal não tenha sido respeitada na área, indicar a área do imóvel que será destinada a Reserva Legal;
 - **Anexo XI, linha 59** {#anexo11_lin59} 3.11 Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais na área do empreendimento e no seu entorno;
 - **Anexo XI, linha 60** {#anexo11_lin60} 3.12 Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;
 - **Anexo XI, linha 61** {#anexo11_lin61} 3.13 Apresentar levantamento de reservas indígenas, área quilombola, monumentos naturais e dos bens tombados existentes na área de influência direta do empreendimento;
@@ -86,12 +86,12 @@ fonte: "PDF da IN IAT 37/2025 enviado pelo usuário, páginas 99 a 106"
 - **Anexo XI, linha 67** {#anexo11_lin67} 4.3 Apresentar a estimativa das populações (residente e flutuante) atendida (início de plano) e de alcance do projeto (fim de plano), e vazões correspondentes para tratamento, ano a ano, até a população e vazão de saturação de fim de plano. A estimativa das populações e sua distribuição espacial devem ser feitas com base em dados censitários, informações locais e regionais;
 - **Anexo XI, linha 68** {#anexo11_lin68} 4.4 Apresentação das características dos esgotos sanitários: Caracterizar qualitativamente os esgotos a serem tratados na ETE projetada, indicando suas principais características. No caso de recebimento de efluentes das fontes industriais deverão ser devidamente identificados e caracterizados quantitativa e qualitativamente;
 - **Anexo XI, linha 69** {#anexo11_lin69} 4.5. Identificação e caracterização do corpo receptor;
-- **Anexo XI, linha 70** {#anexo11_lin70} 4.6. Da Estação de Tratamento de Esgoto. Apresentar os dados de projeto da Estação de Tratamento de Esgoto (ETE), observando a NBR 12209:
+- **Anexo XI, linha 70** {#anexo11_lin70} #tratamento-esgoto 4.6. Da Estação de Tratamento de Esgoto. Apresentar os dados de projeto da Estação de Tratamento de Esgoto (ETE), observando a NBR 12209:
 - **Anexo XI, linha 71** {#anexo11_lin71} − Levantamento topográfico e planialtimétrico;
 - **Anexo XI, linha 72** {#anexo11_lin72} − Apresentação de sondagens preliminares, reconhecimento da natureza do terreno e do nível do lençol freático da área selecionada para implantação da ETE;
 - **Anexo XI, linha 73** {#anexo11_lin73} − Sistema de tratamento proposto;
 - **Anexo XI, linha 74** {#anexo11_lin74} − Dimensionamento de todas as unidades do sistema de tratamento, indicando os níveis de eficiência de remoção, bem como as características esperadas para o efluente final;
-- **Anexo XI, linha 75** {#anexo11_lin75} − Gerenciamento do lodo gerado no tratamento (adensamento, estabilização, condicionamento, desaguamento, higienização e disposição final) e demais resíduos sólidos.
+- **Anexo XI, linha 75** {#anexo11_lin75} #lodo-esgoto − Gerenciamento do lodo gerado no tratamento (adensamento, estabilização, condicionamento, desaguamento, higienização e disposição final) e demais resíduos sólidos.
 - **Anexo XI, linha 76** {#anexo11_lin76} 4.7. Da Estação Elevatória de Esgoto e Linha de Recalque. Apresentar os dados de projeto da EEE, observando a NBR 12208:
 - **Anexo XI, linha 77** {#anexo11_lin77} − Período de alcance do projeto;
 - **Anexo XI, linha 78** {#anexo11_lin78} − População de alcance;
@@ -111,13 +111,13 @@ fonte: "PDF da IN IAT 37/2025 enviado pelo usuário, páginas 99 a 106"
 - **Anexo XI, linha 92** {#anexo11_lin92} 5.1 Informações sobre Efluentes Líquidos:
 - **Anexo XI, linha 93** {#anexo11_lin93} a) Caracterização dos efluentes líquidos gerados na implantação e operação do empreendimento;
 - **Anexo XI, linha 94** {#anexo11_lin94} b) Descrição do sistema de tratamento adotado para os efluentes líquidos gerados na implantação e operação do empreendimento, acompanhado de dimensionamento das unidades que compõem o sistema;
-- **Anexo XI, linha 95** {#anexo11_lin95} c) Descrição dos dispositivos de drenagem pluvial.
+- **Anexo XI, linha 95** {#anexo11_lin95} #agua-pluvial c) Descrição dos dispositivos de drenagem pluvial.
 - **Anexo XI, linha 96** {#anexo11_lin96} 5.2 Informações sobre Resíduos Sólidos
 - **Anexo XI, linha 97** {#anexo11_lin97} a) Identificação dos resíduos sólidos gerados durante a operação do empreendimento;
-- **Anexo XI, linha 98** {#anexo11_lin98} b) Descrição das etapas de gerenciamento dos resíduos no local: segregação, coleta, acondicionamento, armazenamento, tratamento e destinação final;
+- **Anexo XI, linha 98** {#anexo11_lin98} #gerenciamento-residuo b) Descrição das etapas de gerenciamento dos resíduos no local: segregação, coleta, acondicionamento, armazenamento, tratamento e destinação final;
 - **Anexo XI, linha 99** {#anexo11_lin99} c) Descrição das áreas de armazenamento temporário de resíduos, de acordo com as ABNT e NBR 11174 e 12235.
 - **Anexo XI, linha 100** {#anexo11_lin100} 5.3 Informações das Atividades de apoio
-- **Anexo XI, linha 101** {#anexo11_lin101} a) Fornecer a relação de produtos químicos manuseados em sua atividade e respectivas quantidades estocadas. Caso haja na instalação substancias em quantidades superiores às apresentadas na [[portaria-iap-159-2015|Portaria IAP 159/2015]]], ou outra que venha a substituí-la, deverá possuir Programa de Gerenciamento de Risco;
+- **Anexo XI, linha 101** {#anexo11_lin101} #pgr a) Fornecer a relação de produtos químicos manuseados em sua atividade e respectivas quantidades estocadas. Caso haja na instalação substancias em quantidades superiores às apresentadas na [[portaria-iap-159-2015|Portaria IAP 159/2015]]], ou outra que venha a substituí-la, deverá possuir Programa de Gerenciamento de Risco;
 - **Anexo XI, linha 102** {#anexo11_lin102} b) Descrever e mapear, em planta planialtimétrica em escala adequada, a necessidade de cortes, aterros e drenagem para a implantação e operação do empreendimento, e localização de possíveis áreas de empréstimo e bota-fora;
 - **Anexo XI, linha 103** {#anexo11_lin103} c) Estimar a mão de obra necessária para implantação e operação do empreendimento. Em relação à operação, indicar ainda a qualificação técnica dos funcionários;
 - **Anexo XI, linha 104** {#anexo11_lin104} d) Cronograma de implantação.

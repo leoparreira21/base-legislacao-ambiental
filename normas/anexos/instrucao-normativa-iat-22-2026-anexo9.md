@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: Laudo de conclusão de obras – sistema de irrigação
 atividades: [irrigacao]
 modalidades: [las, lo, rlo, loa]
-tags: [irrigacao, lo, rlo, loa, art-anotacao, monitoramento, pca, app]
+tags: [app, captacao, irrigacao, laudo-conclusao-obra, monitoramento, pca, vazao]
 ---
 
 # ANEXO IX
@@ -31,7 +31,7 @@ tags: [irrigacao, lo, rlo, loa, art-anotacao, monitoramento, pca, app]
 
 **Anexo 9, linha 9** {#anexo9_lin9} 2. OBJETIVO DO LAUDO
 
-**Anexo 9, linha 10** {#anexo9_lin10} Este laudo visa atestar a conclusão da implantação do sistema de irrigação, em conformidade com o projeto técnico aprovado, o processo de licenciamento ambiental e as legislações vigentes pertinentes. Inclui a verificação das medidas de mitigação e controle de impactos ambientais propostas no projeto.
+**Anexo 9, linha 10** {#anexo9_lin10} #laudo-conclusao-obra #irrigacao Este laudo visa atestar a conclusão da implantação do sistema de irrigação, em conformidade com o projeto técnico aprovado, o processo de licenciamento ambiental e as legislações vigentes pertinentes. Inclui a verificação das medidas de mitigação e controle de impactos ambientais propostas no projeto.
 
 **Anexo 9, linha 11** {#anexo9_lin11} 3. DESCRIÇÃO DA OBRA
 
@@ -53,7 +53,7 @@ tags: [irrigacao, lo, rlo, loa, art-anotacao, monitoramento, pca, app]
 
 **Anexo 9, linha 20** {#anexo9_lin20} Extensão da Rede de Tubulações: (Comprimento total em metros)
 
-**Anexo 9, linha 21** {#anexo9_lin21} Pontos de Captação de Água: (Descrição da fonte hídrica, vazão captada, coordenadas UTM);
+**Anexo 9, linha 21** {#anexo9_lin21} #captacao Pontos de Captação de Água: (Descrição da fonte hídrica, vazão captada, coordenadas UTM);
 
 **Anexo 9, linha 22** {#anexo9_lin22} Reservatórios de Armazenamento: (Número, capacidade volumétrica, tipo de revestimento, coordenadas UTM);
 
@@ -61,7 +61,7 @@ tags: [irrigacao, lo, rlo, loa, art-anotacao, monitoramento, pca, app]
 
 **Anexo 9, linha 24** {#anexo9_lin24} Emissores/Áreas de Aplicação: (Número de emissores, espaçamento, vazão por emissor).
 
-**Anexo 9, linha 25** {#anexo9_lin25} 4.2. Sistema de Controle e Monitoramento:
+**Anexo 9, linha 25** {#anexo9_lin25} #monitoramento 4.2. Sistema de Controle e Monitoramento:
 
 **Anexo 9, linha 26** {#anexo9_lin26} Sensores de Umidade do Solo: (Quantidade, localização, tipo de tecnologia);
 
@@ -77,7 +77,7 @@ tags: [irrigacao, lo, rlo, loa, art-anotacao, monitoramento, pca, app]
 
 **Anexo 9, linha 32** {#anexo9_lin32} Controle de Erosão: (Técnicas aplicadas, como curvas de nível, terraceamento, cobertura do solo);
 
-**Anexo 9, linha 33** {#anexo9_lin33} Áreas de Preservação Permanente (APPs): (Descrição das APPs preservadas ou recuperadas).
+**Anexo 9, linha 33** {#anexo9_lin33} #app Áreas de Preservação Permanente (APPs): (Descrição das APPs preservadas ou recuperadas).
 
 **Anexo 9, linha 34** {#anexo9_lin34} Sistema de Drenagem: (Detalhes do sistema de drenagem, se aplicável);
 
@@ -85,7 +85,7 @@ tags: [irrigacao, lo, rlo, loa, art-anotacao, monitoramento, pca, app]
 
 **Anexo 9, linha 36** {#anexo9_lin36} O sistema de irrigação foi implantado conforme o projeto técnico aprovado, incluindo especificações de materiais, equipamentos e métodos de instalação.
 
-**Anexo 9, linha 37** {#anexo9_lin37} Todas as medidas mitigadoras propostas no Plano de Controle Ambiental (PCA) foram implementadas.
+**Anexo 9, linha 37** {#anexo9_lin37} #pca Todas as medidas mitigadoras propostas no Plano de Controle Ambiental (PCA) foram implementadas.
 
 **Anexo 9, linha 38** {#anexo9_lin38} 5. CONSIDERAÇÕES FINAIS
 
@@ -107,7 +107,7 @@ tags: [irrigacao, lo, rlo, loa, art-anotacao, monitoramento, pca, app]
 
 **Anexo 9, linha 47** {#anexo9_lin47} Plantas e croquis atualizados do sistema de irrigação.
 
-**Anexo 9, linha 48** {#anexo9_lin48} Relatórios de testes de funcionamento do sistema (vazão, pressão, uniformidade de aplicação).
+**Anexo 9, linha 48** {#anexo9_lin48} #vazao Relatórios de testes de funcionamento do sistema (vazão, pressão, uniformidade de aplicação).
 
 **Anexo 9, linha 49** {#anexo9_lin49} Certificados de conformidade dos equipamentos e materiais utilizados.
 

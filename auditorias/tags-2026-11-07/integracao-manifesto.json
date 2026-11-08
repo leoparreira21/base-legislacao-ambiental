@@ -1,0 +1,888 @@
+{
+  "formato": "revisao-tags-integrada/1",
+  "origem": "arquivos locais atuais e relatórios explícitos; sem inferência por LLM",
+  "graphify_conectado": {
+    "estado": "indisponivel",
+    "motivo": "list_workspaces retornou [] em 2026-11-08; nada foi enviado à memória ou ao índice remoto"
+  },
+  "documentos_inventariados": 183,
+  "documentos_com_cobertura_registrada": 52,
+  "cobertura": {
+    "normas/anexos/instrucao-normativa-iat-22-2026-anexo2.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/instrucao-normativa-iat-22-2026-anexo2.md"
+    },
+    "normas/anexos/instrucao-normativa-iat-22-2026-anexo8.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/instrucao-normativa-iat-22-2026-anexo8.md"
+    },
+    "normas/anexos/instrucao-normativa-iat-23-2026-anexo9.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/instrucao-normativa-iat-23-2026-anexo9.md"
+    },
+    "normas/anexos/instrucao-normativa-iat-24-2026-anexo8.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/instrucao-normativa-iat-24-2026-anexo8.md"
+    },
+    "normas/anexos/instrucao-normativa-iat-24-2026-anexo9.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/instrucao-normativa-iat-24-2026-anexo9.md"
+    },
+    "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md"
+    },
+    "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md"
+    },
+    "normas/anexos/instrucao-normativa-iat-32-2025-anexo3.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/instrucao-normativa-iat-32-2025-anexo3.md"
+    },
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md"
+    },
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md"
+    },
+    "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md"
+    },
+    "normas/anexos/instrucao-normativa-iat-38-2025-anexo5.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/instrucao-normativa-iat-38-2025-anexo5.md"
+    },
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo10.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/instrucao-normativa-iat-41-2025-anexo10.md"
+    },
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo7.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/instrucao-normativa-iat-41-2025-anexo7.md"
+    },
+    "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md"
+    },
+    "normas/anexos/resolucao-conama-411-2009-anexo4.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/resolucao-conama-411-2009-anexo4.md"
+    },
+    "normas/anexos/resolucao-conama-411-2009-anexo5.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-0.json",
+      "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+      "detalhe": "normas/anexos/resolucao-conama-411-2009-anexo5.md"
+    },
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo10.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-1.json",
+      "escopo": "Leitura dos textos normativos completos dos anexos, ementas e contexto indicado na abertura, distinguindo sínteses editoriais. Decisões manuais por ID.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo10.md",
+        "texto_normativo": "lido integralmente",
+        "contexto": "ementa da norma-mãe e contexto/modalidades do anexo lidos",
+        "ids": 39,
+        "ocorrencias_antes": 0,
+        "ocorrencias_depois": 10,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-1.json",
+      "escopo": "Leitura dos textos normativos completos dos anexos, ementas e contexto indicado na abertura, distinguindo sínteses editoriais. Decisões manuais por ID.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md",
+        "texto_normativo": "lido integralmente",
+        "contexto": "ementa da norma-mãe e contexto/modalidades do anexo lidos",
+        "ids": 45,
+        "ocorrencias_antes": 0,
+        "ocorrencias_depois": 12,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo5.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-1.json",
+      "escopo": "Leitura dos textos normativos completos dos anexos, ementas e contexto indicado na abertura, distinguindo sínteses editoriais. Decisões manuais por ID.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo5.md",
+        "texto_normativo": "lido integralmente",
+        "contexto": "ementa da norma-mãe e contexto/modalidades do anexo lidos",
+        "ids": 53,
+        "ocorrencias_antes": 0,
+        "ocorrencias_depois": 12,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-24-2026-anexo2.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-1.json",
+      "escopo": "Leitura dos textos normativos completos dos anexos, ementas e contexto indicado na abertura, distinguindo sínteses editoriais. Decisões manuais por ID.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-24-2026-anexo2.md",
+        "texto_normativo": "lido integralmente",
+        "contexto": "ementa da norma-mãe e contexto/modalidades do anexo lidos",
+        "ids": 38,
+        "ocorrencias_antes": 32,
+        "ocorrencias_depois": 28,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-1.json",
+      "escopo": "Leitura dos textos normativos completos dos anexos, ementas e contexto indicado na abertura, distinguindo sínteses editoriais. Decisões manuais por ID.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+        "texto_normativo": "lido integralmente",
+        "contexto": "ementa da norma-mãe e contexto/modalidades do anexo lidos",
+        "ids": 46,
+        "ocorrencias_antes": 0,
+        "ocorrencias_depois": 16,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-27-2026-anexo6.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-1.json",
+      "escopo": "Leitura dos textos normativos completos dos anexos, ementas e contexto indicado na abertura, distinguindo sínteses editoriais. Decisões manuais por ID.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-27-2026-anexo6.md",
+        "texto_normativo": "lido integralmente",
+        "contexto": "ementa da norma-mãe e contexto/modalidades do anexo lidos",
+        "ids": 10,
+        "ocorrencias_antes": 0,
+        "ocorrencias_depois": 10,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo6.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo6.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 56,
+        "ocorrencias_antes": 0,
+        "ocorrencias_depois": 9,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-22-2026-anexo9.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo9.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 51,
+        "ocorrencias_antes": 0,
+        "ocorrencias_depois": 7,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-27-2026-anexo5.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-27-2026-anexo5.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 18,
+        "ocorrencias_antes": 0,
+        "ocorrencias_depois": 8,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo3.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-28-2025-anexo3.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 45,
+        "ocorrencias_antes": 4,
+        "ocorrencias_depois": 6,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo4.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-28-2025-anexo4.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 17,
+        "ocorrencias_antes": 9,
+        "ocorrencias_depois": 7,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 77,
+        "ocorrencias_antes": 81,
+        "ocorrencias_depois": 66,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-33-2025-anexo3.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-33-2025-anexo3.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 35,
+        "ocorrencias_antes": 28,
+        "ocorrencias_depois": 22,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 83,
+        "ocorrencias_antes": 0,
+        "ocorrencias_depois": 12,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-38-2025-anexo9.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo9.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 46,
+        "ocorrencias_antes": 0,
+        "ocorrencias_depois": 9,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo17.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-41-2025-anexo17.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 50,
+        "ocorrencias_antes": 46,
+        "ocorrencias_depois": 43,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo18.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-41-2025-anexo18.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 52,
+        "ocorrencias_antes": 81,
+        "ocorrencias_depois": 78,
+        "alterado": true
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo6.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-41-2025-anexo6.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 87,
+        "ocorrencias_antes": 28,
+        "ocorrencias_depois": 28,
+        "alterado": false
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo8.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-41-2025-anexo8.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 38,
+        "ocorrencias_antes": 24,
+        "ocorrencias_depois": 24,
+        "alterado": false
+      }
+    },
+    "normas/anexos/portaria-iap-159-2015-anexo2.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/portaria-iap-159-2015-anexo2.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 95,
+        "ocorrencias_antes": 0,
+        "ocorrencias_depois": 12,
+        "alterado": true
+      }
+    },
+    "normas/anexos/resolucao-sedest-2-2025-anexo11.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/resolucao-sedest-2-2025-anexo11.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 165,
+        "ocorrencias_antes": 0,
+        "ocorrencias_depois": 15,
+        "alterado": true
+      }
+    },
+    "normas/anexos/resolucao-sedest-2-2025-anexo2.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/resolucao-sedest-2-2025-anexo2.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 120,
+        "ocorrencias_antes": 4,
+        "ocorrencias_depois": 12,
+        "alterado": true
+      }
+    },
+    "normas/anexos/resolucao-sedest-2-2025-anexo6.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/resolucao-sedest-2-2025-anexo6.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 26,
+        "ocorrencias_antes": 5,
+        "ocorrencias_depois": 8,
+        "alterado": true
+      }
+    },
+    "normas/anexos/resolucao-sedest-48-2024-anexo6.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-2.json",
+      "escopo": "Leitura integral dos 18 textos de anexo armazenados, com ementas, contexto e remissões do corpo da norma-mãe. Decisões manuais por ID; sem exclusão por raridade ou regex temática.",
+      "detalhe": {
+        "arquivo": "normas/anexos/resolucao-sedest-48-2024-anexo6.md",
+        "texto_normativo": "lido integralmente; inclui campos e tabelas",
+        "ementa_e_ambito": "lidos na norma-mãe e contextualização do anexo; remissões verificadas quando presentes",
+        "sintese": "não é texto normativo; não reclassificada nem reescrita",
+        "ids_revistos": 9,
+        "ocorrencias_antes": 4,
+        "ocorrencias_depois": 4,
+        "alterado": false
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo13.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-5.json",
+      "escopo": "Leitura do texto técnico integral em Markdown, ementa e âmbito da norma-mãe; decisões manuais por dispositivo.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo13.md",
+        "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+        "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+        "resultado": "Lacuna de tags diretas corrigida nos requisitos materiais; sem pulverizar campos cadastrais.",
+        "ids": 26,
+        "tags_antes": 0,
+        "tags_depois": 8
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-5.json",
+      "escopo": "Leitura do texto técnico integral em Markdown, ementa e âmbito da norma-mãe; decisões manuais por dispositivo.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md",
+        "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+        "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+        "resultado": "Anexo sem tags diretas; indexados projeto, dimensionamento, APP e responsabilidade técnica sem transformar parâmetros em tags novas.",
+        "ids": 152,
+        "tags_antes": 0,
+        "tags_depois": 13
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-23-2026-anexo2.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-5.json",
+      "escopo": "Leitura do texto técnico integral em Markdown, ementa e âmbito da norma-mãe; decisões manuais por dispositivo.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo2.md",
+        "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+        "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+        "resultado": "MCE sem tags diretas; indexados requisitos ambientais, sem criar tags cadastrais.",
+        "ids": 48,
+        "tags_antes": 0,
+        "tags_depois": 13
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-25-2025-anexo4.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-5.json",
+      "escopo": "Leitura do texto técnico integral em Markdown, ementa e âmbito da norma-mãe; decisões manuais por dispositivo.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo4.md",
+        "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+        "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+        "resultado": "Mantida impermeabilização correta; preenchidas lacunas relevantes de MCE.",
+        "ids": 50,
+        "tags_antes": 1,
+        "tags_depois": 12
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-25-2025-anexo9.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-5.json",
+      "escopo": "Leitura do texto técnico integral em Markdown, ementa e âmbito da norma-mãe; decisões manuais por dispositivo.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo9.md",
+        "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+        "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+        "resultado": "Tags existentes adequadas; três requisitos materiais sem tags foram indexados.",
+        "ids": 58,
+        "tags_antes": 3,
+        "tags_depois": 6
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-28-2026-anexo3.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-5.json",
+      "escopo": "Leitura do texto técnico integral em Markdown, ementa e âmbito da norma-mãe; decisões manuais por dispositivo.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-28-2026-anexo3.md",
+        "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+        "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+        "resultado": "MCE sem tags diretas; frontmatter corrigido para termos efetivamente usados, removendo grafias não canônicas apenas de metadados.",
+        "ids": 41,
+        "tags_antes": 0,
+        "tags_depois": 12
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-31-2025-anexo3.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-5.json",
+      "escopo": "Leitura do texto técnico integral em Markdown, ementa e âmbito da norma-mãe; decisões manuais por dispositivo.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-31-2025-anexo3.md",
+        "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+        "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+        "resultado": "Retiradas inferências de contaminação e afastamento mínimo sem suporte literal.",
+        "ids": 41,
+        "tags_antes": 20,
+        "tags_depois": 17
+      }
+    },
+    "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-5.json",
+      "escopo": "Leitura do texto técnico integral em Markdown, ementa e âmbito da norma-mãe; decisões manuais por dispositivo.",
+      "detalhe": {
+        "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md",
+        "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+        "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+        "resultado": "Anexo sem tags diretas; indexados requisitos ambientais essenciais.",
+        "ids": 52,
+        "tags_antes": 0,
+        "tags_depois": 12
+      }
+    },
+    "normas/anexos/resolucao-sedest-48-2024-anexo5.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-anexos-5.json",
+      "escopo": "Leitura do texto técnico integral em Markdown, ementa e âmbito da norma-mãe; decisões manuais por dispositivo.",
+      "detalhe": {
+        "arquivo": "normas/anexos/resolucao-sedest-48-2024-anexo5.md",
+        "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+        "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+        "resultado": "Tags existentes representam os requisitos; manter. Norma-mãe revogada no acervo: consulta histórica, sem mudar situação.",
+        "ids": 12,
+        "tags_antes": 9,
+        "tags_depois": 9
+      }
+    },
+    "normas/decreto-estadual-12799-2026.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-decreto-estadual-12799-2026.json",
+      "escopo": "Leitura integral dos arts. 1–5, três blocos de nova redação, ementa e notas. Tags restantes preservadas por representarem objetos explícitos. Sem certificação externa de vigência. Remissões foram preservadas."
+    },
+    "normas/lei-estadual-22252-2024.md": {
+      "fonte": "auditorias/tags-2026-11-07/semantica-lei-estadual-22252-2024.json",
+      "escopo": "Leitura dos arts. 1–53, ementa, metadados e notas do texto armazenado. Sem cotejo com publicação externa. Decisões específicas registradas; demais tags mantidas após leitura. Remissões problemáticas já anotadas nos arts. 27, 31, 39 e 47 foram preservadas."
+    }
+  },
+  "decisoes": 1364,
+  "decisoes_com_alteracao": 407,
+  "grupos_textuais_para_reaproveitamento": 80,
+  "ocorrencias_a_conferir": 139,
+  "arquivos_sha256": {
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo10.md": "b8cc1c723eb26c6f806d755d1834ebad5893717f181df3c726baed3e9f900eb4",
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo11.md": "5be0a9ae8faa0f7b03dfc6750e90fa3222d3115432d7bcfa6627bcbb34f47669",
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo13.md": "ae548e7905b3ece71a6b23ea49c7ce1ac658df9c7f89a66f7ca6f501bdf6423b",
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md": "66e58e230f69da38f020804e40cc5aa0559c007617eded1bc7d0c7681ae6474e",
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo5.md": "c233cfce6c5092eb8a752d5e78036b6c59b458b1b4cb7c30cc48bad04a0139f4",
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo6.md": "b61e4bf0fb67928853378f264374e1eab551a394688084dfa044fe2f0d40ee27",
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo7.md": "d7c1d2239d1cc024c63a584ecb6beb0430400fa20736f1a0b50454e3a6647305",
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md": "3a215e2d0737497f8119fa95c6d49c631a7e96a5334e0a8276c774b1883dfe29",
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo9.md": "ac1214fcc45317af500b520e334914fe3aa5003d700418d3fd67deacfac5a252",
+    "normas/anexos/instrucao-normativa-iat-22-2026-anexo2.md": "84bb4e00d965cb4ae06a505a1e747472c02aa6070c07b5d79cd3f6ebeff7dd9e",
+    "normas/anexos/instrucao-normativa-iat-22-2026-anexo7.md": "4a1ecfdf070029b1dc30af0d27b191c65096ef4c9f9139f5b8220798cb6b6321",
+    "normas/anexos/instrucao-normativa-iat-22-2026-anexo8.md": "655238c74a95fcc816bfbf482931ee471ae330c437ff13caf95c918a2f05b063",
+    "normas/anexos/instrucao-normativa-iat-22-2026-anexo9.md": "64199c9ba9f075ae17faedfbb6a28052367b9649971fd0bdd89d827c014a9b10",
+    "normas/anexos/instrucao-normativa-iat-23-2026-anexo2.md": "986754a40e07aa59bb6cc2bf834c2a9326a335d8be12be9cb18f62f5dda133f8",
+    "normas/anexos/instrucao-normativa-iat-23-2026-anexo8.md": "629392ede08af750c2adb9e6dc89096726055b089321ceb6fef3701a07515d99",
+    "normas/anexos/instrucao-normativa-iat-23-2026-anexo9.md": "7bc93e92633ff30a6a027c46dc269fc01e8d40a993864bd165e4e952fba41793",
+    "normas/anexos/instrucao-normativa-iat-24-2026-anexo2.md": "b9021a2a9019a4c3b8b56ec7d4abda0897f17b806bfc029864a092df2be9e176",
+    "normas/anexos/instrucao-normativa-iat-24-2026-anexo8.md": "c47fa79a42e78a3852bd8475cd21648e8c1958f24ffc64ac7d292b1337b5f815",
+    "normas/anexos/instrucao-normativa-iat-24-2026-anexo9.md": "d01fc76a2bfd4dfcbd885f9e96a31e81e339a3f6c6d179cab36792b9bdc8a067",
+    "normas/anexos/instrucao-normativa-iat-25-2025-anexo3.md": "83b54fbe16f6e13e09183914792512b4fe32aae03148dda2efa6f640adb238ac",
+    "normas/anexos/instrucao-normativa-iat-25-2025-anexo4.md": "f097d1e3e2a20e7192955fb2c668bd64c962ac36a432b9ca58d08e73bf5b8c1d",
+    "normas/anexos/instrucao-normativa-iat-25-2025-anexo5.md": "d6e06f92aa7e01edc4f2ce91f3585143e98762e296674a4f3cf857ce5507b8e3",
+    "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md": "54142b126b85c1fc4516bc3449ac221d0aa26fd28dc11b6f0025c4cd0f216c24",
+    "normas/anexos/instrucao-normativa-iat-25-2025-anexo7.md": "5ecbf92f84b8d28bb8deaf432ba071807b13d9fb2efa02dd29b75214542e1253",
+    "normas/anexos/instrucao-normativa-iat-25-2025-anexo9.md": "7530da1f009f378a0363428ba625cb995516d1aebbb00917aa6310350b3438e6",
+    "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md": "c2aab9219724e3e16626df5cb9b7386b5e7e490982c85673c5ba57b7e0623355",
+    "normas/anexos/instrucao-normativa-iat-25-2026-anexo7.md": "6788d39417d05a49b816bab637dcc2859cd4a425ed9b9851dccbe2be353fbcc2",
+    "normas/anexos/instrucao-normativa-iat-27-2026-anexo5.md": "f5c550cdb09de9cca511b40e544c16341c8d79314b661485541d8fbc5bc84127",
+    "normas/anexos/instrucao-normativa-iat-27-2026-anexo6.md": "e1049d7b0683428de2a3063a17a68d21e77365e4b767407f97cc62207c3990cd",
+    "normas/anexos/instrucao-normativa-iat-27-2026-anexo7.md": "a3ded3f19a68438b3a06dfbc8b8f3ac7327e5ea93b4f2330627a03f4e73c3392",
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo10.md": "4e84c60c57eaa390d93c8bedbd918838e92aef61c0e580f6261aa4ce46ef9b30",
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo11.md": "7bee6e4c0cfd49e2ebfac17c4d19f9496dca3a27b0937d9a0750717cd9dda2a4",
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo14.md": "815bfe2ca213f78c25cde7c0ddac053a478dce2b52bbe5f12c9dc86f462e8173",
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo3.md": "963bbfcb171fefc8ff51598f1854c596bcfec73acdd30d42dfd7e0ff2ea097a3",
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo4.md": "58738ce9d3b7cf26e6c830c46615b626eb8b44d954b0b9b6b7a991e9340a7477",
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo7.md": "cc18405c2101982ac5e55d7ce660628daecf62ebe010ad2497c650074e95454f",
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo8.md": "ab9d460d5218223cf2ff6e3d4bde92a8a468677909dc18e7a4e87bdb452aa846",
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo9.md": "0a6ef13926b39b74617dad64254b567e794b4ba50235469e2363b4af11d3305d",
+    "normas/anexos/instrucao-normativa-iat-28-2026-anexo2.md": "9aa0b67e6b0d5c6b01a907c6b4e29e327575df03ecb4bf9adb51f222d1f5a096",
+    "normas/anexos/instrucao-normativa-iat-28-2026-anexo3.md": "bcceca3dab60e5bc5c94fdf14866c280baa250af665ca81921927e239d49efc2",
+    "normas/anexos/instrucao-normativa-iat-28-2026-anexo4.md": "58eef23ee29d86012e8c81910ef53fcc2d5ca6b002cf9aa6e09c80a50fa7b487",
+    "normas/anexos/instrucao-normativa-iat-28-2026-anexo5.md": "a9500ada85f4be87f1e23b7ab63ccc0bf97296e4073bf1e8aeaaee8f2e121c44",
+    "normas/anexos/instrucao-normativa-iat-28-2026-anexo6.md": "0f7d3eb24dba0c2ac955d9f930f4a64e2c8060109d1f2dfcd8b11104bcd8be0e",
+    "normas/anexos/instrucao-normativa-iat-28-2026-anexo9.md": "dd12c778c8e1308468bdfc3407ed5c184c3d6e1d1dfcc78dc2c6ea2de0518faa",
+    "normas/anexos/instrucao-normativa-iat-30-2025-anexo3.md": "9aad4a4f0742ab64062c164b51b6a93f4c3c6ec0995d54f11af46e16ad08d312",
+    "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md": "078af6c91dbc6b419342201cfa62c6245e95f1e460523f6a02be5e204c0c653a",
+    "normas/anexos/instrucao-normativa-iat-30-2025-anexo5.md": "20c88d8fe950419a0e86b0cfa0840058e3c0fab7e937feb4245358b5cdf8ebb0",
+    "normas/anexos/instrucao-normativa-iat-31-2025-anexo3.md": "142c0cc7bf5e48d4ad944ca1df78447664aa1fb47994a3ec97b3e596ec9751aa",
+    "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md": "630de952d0156341e1f9d0fdd4b42c832fdd246ddf0b586850643b46d0a768c5",
+    "normas/anexos/instrucao-normativa-iat-31-2025-anexo5.md": "95f03781c91af541bcfa199da1a43fb8b89a3c5a0552a1012bbb7ceb50a1f6a9",
+    "normas/anexos/instrucao-normativa-iat-32-2025-anexo3.md": "41cf44f16a3236c73888898670a7bd82faccf093b97c37662d116ffd6af245b0",
+    "normas/anexos/instrucao-normativa-iat-32-2025-anexo4.md": "590767deac2500c3e0579ab29719e87ef5c96d985c6fe4fcdc21ad9a8e211326",
+    "normas/anexos/instrucao-normativa-iat-32-2025-anexo5.md": "a490c1ea5a10227ba24949937c4daddd8f4a0c453d0d9d93fe23a9bfe9121009",
+    "normas/anexos/instrucao-normativa-iat-32-2025-anexo6.md": "db88c3153a6e95edd15edbc907212720d779ad925501eebc5dde011fe021517e",
+    "normas/anexos/instrucao-normativa-iat-33-2025-anexo3.md": "a86666c4572a03552bb2fa90b5fdf09b3195e39ee599bd2668e8012a33f2326f",
+    "normas/anexos/instrucao-normativa-iat-33-2025-anexo4.md": "973564301f02bc0795584681564a184ad063cddd62ae935383866364172e0854",
+    "normas/anexos/instrucao-normativa-iat-33-2025-anexo5.md": "d8f5d5ea989675cdc673211395983900d32116eaee1a020792491011b4ca4e63",
+    "normas/anexos/instrucao-normativa-iat-33-2025-anexo6.md": "060397838405987ecdfaade9296b4c167b7f0366026f36cc2e3f5fb5e8715b6a",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md": "405fadb6407fc561fa0def12fce67b7f19a3856f47790bc25cc1aecb783a68f7",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md": "53b413b4ecd519811163330d57e982225aca728d74bced7a6e19b49b38a0b588",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo12.md": "67760eb1283197f50a55cc5f6ecbdab3774481fefd21d3663253c86622144e8f",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md": "010528710ca99df78bdb9eb84532e2300be2adc798a4c1b0ccc7de9c2f557b5c",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo14.md": "1f5227da2e7fba4ecb472c4b4dfe3dda9746a0afc66321516ce8f241caa8dade",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo6.md": "94f71054c1d5f3749ef07effd0158216c5462aecba886133f18246ae9e49a142",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo7.md": "12d78e7f2408c248f39329140cdce660c6dd3021bf044c0fd93797a52609197a",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo8.md": "aa4df5cdf0134e04647114eb59d122c62850a0b4dba6afd6d68de8f1e1a2856e",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo9.md": "c4f8d174232431ea06d790a225ff02b309fe4f8d1b9cfbd7feadebfa7eb73347",
+    "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md": "bc42ed4aa773c88927536ae2486e7a9328375a81fabd86dcedb1336e2052e6ff",
+    "normas/anexos/instrucao-normativa-iat-38-2025-anexo4.md": "4376832f1377566a90f53bf6bbdd9a0552499e390b5da3264690e55af81eab12",
+    "normas/anexos/instrucao-normativa-iat-38-2025-anexo5.md": "aff5de53be56c88923ea11bb8aa4da12dee387662e965454981fc052a7d35444",
+    "normas/anexos/instrucao-normativa-iat-38-2025-anexo6.md": "b5c95c362038717a79cac7211706ed612442d4212e858920abed4cb5ac45d70d",
+    "normas/anexos/instrucao-normativa-iat-38-2025-anexo8.md": "166caab757313db1841879cd31f609d5043bf39eaf632f0c33ecfd9e99e84f60",
+    "normas/anexos/instrucao-normativa-iat-38-2025-anexo9.md": "92785fe7c727f9799ee403bd7676d9ef95dbec0a01225947777f2acc6ea15047",
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo10.md": "7c7b4da2687a5950b188bca3a8e4acce7270f299181941c131627a7d1efcef71",
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo16.md": "9b214b8fd0498577a0f94a4866b6b6406c97b2229f2a302352dc6122e0d03d72",
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo17.md": "f862fd7d7baeebb0689430d109f728ffee05a610cb79b81a672367cca5a0e3ca",
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo18.md": "3ce7bd2f2a517dc2d8d5c3b6c0abc618a01e367ad65268566275eccabd3a57bc",
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo5.md": "daa1ffb7a040d98d656370b97397d1e9b5f6b1aa150120aada9692f9bfef315b",
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo6.md": "acd95b4deb57d9be5901bbfc2f4c847f1517d96e1c993a1908e97df278f5f446",
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo7.md": "1a3ed230f4d975c10a7d3e6a7453414cc4ae2b9f45553ada0c5e60af2da5c363",
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo8.md": "0b18b5c07e402927fa74592893c95b959167bc15c08200f781d7ba502bbe94ed",
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo9.md": "e1f8bd70be13b4033ed7bb7152de911b3b4595a3e93c53cc85a90ad68ea2dea8",
+    "normas/anexos/instrucao-normativa-iat-65-2025-anexo10.md": "bc15a6e7868d35b064a3964b9c368fdf70e5fbb83e09c68cc57611948a2cc855",
+    "normas/anexos/instrucao-normativa-iat-65-2025-anexo11.md": "067d1554eda06530d35153ef44488af8f37299f3d3acbb1004735b8cbd57f114",
+    "normas/anexos/instrucao-normativa-iat-65-2025-anexo13.md": "437a024b7347bfc1d92fb506c7e657437b304a0f3dbc0a2710f05f418d9dc7b4",
+    "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md": "350e74c572940eb4d3dbb595c1133679ec583dea585f8d29eae6d9419192b75f",
+    "normas/anexos/instrucao-normativa-iat-65-2025-anexo8.md": "e993c0fbb8a72a0474548bc23f6eb81f4a87d34cbb69abbb6018434316447000",
+    "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md": "ebd832a9777cc00ae3d65c92ebbde15a406a262c8d20bffbaa9135b9195a84a7",
+    "normas/anexos/norma-cnen-nn-8-01-anexo1.md": "49e0685889c03964b32b1c50ceb96ed1f10d65e09a634a803d7e79928fd98b24",
+    "normas/anexos/portaria-iap-159-2015-anexo2.md": "7eb1514b19e0fbe32ff5c82fc2e3c6781b23a2f9b7ac29c054efef787d016102",
+    "normas/anexos/portaria-iap-26-2006-anexo2.md": "66665710787177c296b9ced4838f678144600e68cd4a658df066fb3330b83f15",
+    "normas/anexos/portaria-iap-26-2006-anexo3.md": "480c24a660a5cd82cd00418c3446b2112c6cbe9a81684170cfd29e4d8221ec78",
+    "normas/anexos/resolucao-conama-411-2009-anexo3.md": "481e5f8f680d8476ce49b021f8c308d3180cb755a81249b2ed0251944d91c301",
+    "normas/anexos/resolucao-conama-411-2009-anexo4.md": "814ffcd9488f63b1ce2a9ae3c34eee919e3c9cf00f5cfed72d07da51e4659c7d",
+    "normas/anexos/resolucao-conama-411-2009-anexo5.md": "8fc685de9d333e037aeab94ccaa596b673a7c51eda57c0ca95541e9f3fc07bbd",
+    "normas/anexos/resolucao-conama-411-2009-anexo6.md": "169b065351b70c696dcae236ed1158ab1d9f7fd5c37d27772a27819670beaaa7",
+    "normas/anexos/resolucao-sedest-2-2025-anexo10.md": "e7ebe0c0e88f45415f005b86395bbbfc5990d79d5ce1e93df06029bbf670582a",
+    "normas/anexos/resolucao-sedest-2-2025-anexo11.md": "8c6dd0622d8853314ff023666cb9205a68a270f6f6b22b128e6518147a624412",
+    "normas/anexos/resolucao-sedest-2-2025-anexo2.md": "e97d51a00c86495894f0ee6855dba4dea2ba2e6c9f5f849d504b3b4c00d83b5a",
+    "normas/anexos/resolucao-sedest-2-2025-anexo6.md": "c399f821ff4c0b99c2e3654dd47fefc5e4af393e5612d5605b3957891cdb239c",
+    "normas/anexos/resolucao-sedest-39-2024-anexo2.md": "e509fa573cd426f8d4d26711ef36dc3bcf760f493b46639bb953ae1364f21ca9",
+    "normas/anexos/resolucao-sedest-39-2024-anexo3.md": "970c6856229a93321e34dfee419157ca383182d3abfcc7931a5a55334d76b8ab",
+    "normas/anexos/resolucao-sedest-39-2024-anexo4.md": "15d31ecc5706724d7d18dbedb283d96766a5d0bd1093f44a13fa683bc8a05eaa",
+    "normas/anexos/resolucao-sedest-39-2024-anexo5.md": "43a768f806340673da16526a933cb299ab30809837e31069b615bbdc31809857",
+    "normas/anexos/resolucao-sedest-48-2024-anexo4.md": "f5d7cd8e796376313411a2600e7402fec680f0a77212bf4ef48c81d9d6b6f96e",
+    "normas/anexos/resolucao-sedest-48-2024-anexo5.md": "916505016aad70c96b76558a4bb5bbc68f2b335d41a61b60f37c7e8057a5df3a",
+    "normas/anexos/resolucao-sedest-48-2024-anexo6.md": "732f2f25ad109a112ae3f9b474721ad4c2e15a2a7a6852b767eb79156660b5df",
+    "normas/comentarios/rdc-anvisa-222-2018-coment.md": "4f518e5830fa5cb364547672e243ee957732aa05caebdb3dc8d5f2f4e8b945fb",
+    "normas/decreto-estadual-12799-2026.md": "2a099dcf5432b1d33f18e04c06aaf4138465c2e56709565f05fe643b50654af4",
+    "normas/decreto-estadual-6674-2002.md": "60312e84f4e4a8b30c58348b0064e6ecc323f9600a2392b3b465a72561b711a4",
+    "normas/decreto-estadual-9541-2025.md": "3efa4506c4f1cbceadcf4732a77af50c9ed4310cc3f1e06f770fee51eab8b97b",
+    "normas/decreto-estadual-9957-2014.md": "0fd660e46e21dcd3e4b2e76d6e2cee7bc07225b73d0cbfecc4e3def4c0aa5f82",
+    "normas/decreto-federal-10936-2022.md": "71a412b352b234882444410d79f13bfeeb17915124bf09ab619640230c7b10f4",
+    "normas/decreto-federal-12688-2025.md": "34d69a5a673c43282c9bfcdf5a90d2e5d3ea9318749c5c27b441924bfbd9cd01",
+    "normas/instrucao-normativa-iat-11-2026.md": "e1bbc13fcda3131172c31f51f7a300372e4984382a30f466ee5da7a13264796f",
+    "normas/instrucao-normativa-iat-21-2025.md": "dc52fc14a27d00b550aff8d48b256f38e9a38bf3973a60fd84d099eea82fe603",
+    "normas/instrucao-normativa-iat-22-2026.md": "b588577ca741acbab854eb79baa0699a41acda9c9d685d240921d9155f7823cf",
+    "normas/instrucao-normativa-iat-23-2026.md": "f4152b2dedee7b14c5aff2589729faaa34c6b61387020ecdeee1a35fd25e9d77",
+    "normas/instrucao-normativa-iat-24-2026.md": "3120e891d7d44680eb4906a25e272836d97af74607abc737efe8bbbefb00b345",
+    "normas/instrucao-normativa-iat-25-2025.md": "2b9e87d2314f1167ad0b59915dd647d7e2d6190c3ca32a0431e4eaa35687f396",
+    "normas/instrucao-normativa-iat-25-2026.md": "0b011156021f3d439ac2660fed45f6db5e6da54555a283c7b75c896becf7f4c9",
+    "normas/instrucao-normativa-iat-26-2026.md": "97ad21a6fbbbcfb0c8ad2a0676317a8d4ebb5989b1e5a665618c7d0128416213",
+    "normas/instrucao-normativa-iat-27-2026.md": "bb445d718792019cd7a8fdaeb17aae8771d9dd104f27e87680d6d9e4bc4030c5",
+    "normas/instrucao-normativa-iat-28-2025.md": "64a781e4bbbd0e7b2f41952f6713b4bcdcbb29c80f25fb8ae19839d4dd5846df",
+    "normas/instrucao-normativa-iat-28-2026.md": "4d21ec0b61ca32f05529777baf8840446fdcceddb7f5c517bddb2c46ee178fd3",
+    "normas/instrucao-normativa-iat-29-2026.md": "3026ba7b6f1f278fa1519a7c919885db7834b378f773368a73f9ccef0a6d88d1",
+    "normas/instrucao-normativa-iat-30-2025.md": "386c1d35ce71b5c8b86d759c4d76c126ec664fab0835af74385c569d17787cfc",
+    "normas/instrucao-normativa-iat-31-2025.md": "97ae86cea349599e23ae0fa15719b88791a65c80637c6ed470a5d621b337fde0",
+    "normas/instrucao-normativa-iat-32-2025.md": "183d7594b7ad4170fc9455720105c7eeb92df89d4dc163cee52ef4809a40a26c",
+    "normas/instrucao-normativa-iat-33-2025.md": "653ef17f90f0aebc97b1980a208e2ebb58da2afe698665c2d51ac11cd2e196a9",
+    "normas/instrucao-normativa-iat-37-2025.md": "b216ff1c79c1cf72a39e9b1f8d3230855096c304bdf9680404305597da01dd26",
+    "normas/instrucao-normativa-iat-38-2025.md": "2be5edcf06f14e17b7fb2c94cafe0a59bacca676fd28293a0c5433e3242ed4d3",
+    "normas/instrucao-normativa-iat-41-2025.md": "87a41b040733e56fe9e51bd6d14b715cf9f384ce18ea8c5d3446bca7e074ebf9",
+    "normas/instrucao-normativa-iat-6-2026.md": "02debcb3819d3a139fa4cd08e3b891d10dd3f68378defe018b10862bf583c622",
+    "normas/instrucao-normativa-iat-65-2025.md": "0bc71225e26ad26c6a5a3732c897a6e72100450cdf2bcc0d9d8141864cacf97f",
+    "normas/instrucao-normativa-iat-9-2026.md": "c05e10a34ad815b3799ebdc98b0415672bdd5503e08bd886aa8abb538681e13f",
+    "normas/instrucao-normativa-ibama-13-2012.md": "9b4b80506296425c8be8bf25ec87f531a88efaeb75dbf55d68cd6b3e3e77fb0e",
+    "normas/instrucao-normativa-ibama-13-2021.md": "0fee5b807de848571a19fb31ca32e49f04377c53bcd0718b08274abea9246d53",
+    "normas/instrucao-normativa-ibama-19-2018.md": "f8a910ff43035583d0ee4533f002ec1b42046b861dca02ad8975ffb70fc714d0",
+    "normas/instrucao-normativa-ibama-23-2025.md": "71632fc542146eee307f5fba8e6f05f521a1ae1226a5faf7121aa5aa879a8259",
+    "normas/lei-complementar-federal-140-2011.md": "d1c3faaef46f0614f568633c7d4a1523ba8c622e60115592080863a9960b8b0a",
+    "normas/lei-estadual-12493-1999.md": "70cf67c6b68c3a0f39cd419842630d684facc4d35c28d678aa3d7489823ebbf5",
+    "normas/lei-estadual-12726-1999.md": "59e0b777c73d53c68542db5b7aaf452248f216e326136e628793b2a580c841ff",
+    "normas/lei-estadual-16346-2009.md": "f2416990a5ff9335f7a1ca202ce7f96d54a74284b11d9fb5e9d79c10602c8619",
+    "normas/lei-estadual-20607-2021.md": "1a39ee88c31aa267a75f9c33dfc5cd1efd25bde74196250bfc2b3fb192e16045",
+    "normas/lei-estadual-22252-2024.md": "03e10ffbee9196a8b509d634bf2a5cbdfb094a3a21fb80d79fac51a857dc1bce",
+    "normas/lei-federal-11107-2005.md": "69b395338505ce6f4b0d31788682c1ddeaaf84b426ab27bec20a5110e44086f0",
+    "normas/lei-federal-11428-2006.md": "79c1d28ccbfc2f41cef301be23df2c81e32eaaec51876f1070baa649f6c731a8",
+    "normas/lei-federal-11445-2007.md": "e0d3fb902c9b8ef6387dad19d1be23e633ea30ee8f128f7508b16bb8df4650e5",
+    "normas/lei-federal-12305-2010.md": "9a34fabb8ad1a43ac81bcfd382aedcc90f716254542dbddd8fc84feb9bfd3956",
+    "normas/lei-federal-12651-2012.md": "d93294945717f42308e8d9ce7094b7cfa7c60e869f949dfa930b8f4508faf561",
+    "normas/lei-federal-15190-2025.md": "22bb27f43ed476b45cb859165f62f9d34b3b347df334cb8aa33ec1f01e6d634b",
+    "normas/lei-federal-15300-2025.md": "70851553694092c3b7ebd87ca154abdc6cab573cff47ce17381b7603caf441f3",
+    "normas/lei-federal-6938-1981.md": "58d1326f5417a864815983217f751e5d2b470d9ca7dc397a53febd711d2da153",
+    "normas/lei-federal-9433-1997.md": "7bc5ae8a9243c17342c32c78d6d461610a2a774f1b1754a649d434b15a7ce9ba",
+    "normas/lei-federal-9605-1998.md": "b86e67ed3c3937fbd28b9ab1ad9bb2d1f265159c25d8410e6591d861a15ed455",
+    "normas/lei-federal-9795-1999.md": "c70db588440ba4edb1d3f9eecf9d1517f03551ce09a3156ac2caaf96059f4242",
+    "normas/lei-federal-9985-2000.md": "d5c9052aece886d1bef859b9038ed16796cf9343d2b5bb2276c21ce38aaf16e9",
+    "normas/norma-cnen-nn-6-02.md": "5f0b2a9c7b509fb8225a6978ec1f9a571137cfb3a357119ebe837339bb025e69",
+    "normas/norma-cnen-nn-8-01.md": "0b2822612b7133a25fe0c90bd88daf7f58f4f8c22d604a5b42355bdd4feaa289",
+    "normas/norma-regulamentadora-federal-13-1978.md": "5f15d34239be0156cc0c4c2e9fe3a541ea7c21e6f4813eabb6b251ae17b2d3b7",
+    "normas/norma-regulamentadora-federal-31-2005.md": "67f153a7e6abe09229783a378a17159f9e52d7bacf7aaaed9e841d60490b2331",
+    "normas/norma-regulamentadora-federal-32-2005.md": "1e89a187b3f8ff4bde3dccb3e8e99b10f0b1f641fc25fce4bb89e2c4130256d8",
+    "normas/portaria-iap-159-2015.md": "95b5f9ec4c0e31187f09bd23ea658eba12cc6f4737870a81ac10808595ee1032",
+    "normas/portaria-iap-26-2006.md": "23501900308f231b3cb8e434bf08f65915397763388966bf855a2faf1c6b8cec",
+    "normas/portaria-iat-354-2020.md": "454b6dc5599fce99aa110bb90aac262a6f125341c510b2a1b57e7e88d00dc3f4",
+    "normas/portaria-mma-280-2020.md": "05b48b4b179d298c2f85b3e021ce53a7c374c3cabdc72f7484da0315dd41e511",
+    "normas/rdc-anvisa-222-2018.md": "435b8fe768a63834cfe74cb53b707a22e69a6d1c59f97fa0c37c50284fc20301",
+    "normas/rdc-anvisa-306-2004.md": "933c628cb82998bed9fb47a7e81bfe61576a673e4da30a01ee0274a85192d51a",
+    "normas/resolucao-cerh-122-2023.md": "a9391f990ab92c7c0c0011b72a60d19bc8db5dd77bebcacd0bd1ce5f216d7ac3",
+    "normas/resolucao-conama-237-1997.md": "93adb59c77b449b70acb9a504d7737ba70e4c8b9f24e17ac5ac2032af020aecf",
+    "normas/resolucao-conama-307-2002.md": "417e1f23615a0d5ad3acd7355cfad4dfd18b63a7828b0fec999b92ab2d341301",
+    "normas/resolucao-conama-357-2005.md": "5ff2f5cfe8b4c0f142e6a18214c07e27d1ede3b78d6e10827cf351738d5715cf",
+    "normas/resolucao-conama-358-2005.md": "7ab4c44852ab9a0a1694fb34a575f929b933b1a96864c733729fdc6f73b36979",
+    "normas/resolucao-conama-382-2006.md": "509672327c5fe1e5a4038480c77b6a3d61420b4f3ff5c3b494ead960dbd1e91a",
+    "normas/resolucao-conama-396-2008.md": "7ccddc3d1c7234f230389880bea4576cfd9ee936fcbc6ac841f9f6b76f06d2c8",
+    "normas/resolucao-conama-411-2009.md": "374bae45653f7b3552a30fe6430e4a5e1e7e918452f89ca7736954817de626fb",
+    "normas/resolucao-conama-430-2011.md": "825d8c170f6c613dfe7b302ac4d281574e5a666a9c72efd5c55fa264ed0e1937",
+    "normas/resolucao-conama-506-2024.md": "af1e58e728217e97a6541c201b556436acf8d67f14d8671049fb2bcb44dcfbf4",
+    "normas/resolucao-sedest-2-2025.md": "55fa0f628afa4be04867cf87dd4ee7fc3f4826ead7e210e9fd4b1c16be3c2b92",
+    "normas/resolucao-sedest-39-2024.md": "b6f2735d90813689565dc7d6fd99887aeb4e611805ef0a7811db29ab4ba09981",
+    "normas/resolucao-sedest-48-2024.md": "3a3b6613759388ba6ec3bfff4e956b7a37eaadbfb4d861d1e014c6c27eefe063",
+    "normas/resolucao-sedest-69-2022.md": "aeb649a378d921ac31e09906b66dc3cb9b3f70475fe0b9d790efc35ca175e490",
+    "auditorias/tags-2026-11-07/semantica-anexos-0.json": "113f020b16e7dea86c2b353b6e6dc9384c9ade7827af286b2626816bd4da89e2",
+    "auditorias/tags-2026-11-07/semantica-anexos-1.json": "d9cc300d295ea61759bef822f34fe8eb64d001e2b164eaeaed411146621ea270",
+    "auditorias/tags-2026-11-07/semantica-anexos-2.json": "62409e1d4113efeefe4734eb1ed72382f19ff6952deeeaeab234ddce2f3c0685",
+    "auditorias/tags-2026-11-07/semantica-anexos-5.json": "9b60a65240eeec8105d061ad6846b2a0048b50d9f6457e02a6d849cd8756a068",
+    "auditorias/tags-2026-11-07/semantica-decreto-estadual-12799-2026.json": "d08310defe955b8825641ce264826bbc32cde3fc505e0ff85478146ef4f93853",
+    "auditorias/tags-2026-11-07/semantica-lei-estadual-22252-2024.json": "2f69a9e95950443fc2a3638dac9342bf881ff066d06c5f742bed1c5c606be353",
+    "auditorias/tags-2026-11-07/semantica-repeticoes-verificadas.json": "9529358c8377bc0df047ecc7c97788d89e9b5765db7ec508012bf3db2c80dbb3"
+  },
+  "erros": [],
+  "pendentes_de_revisao_integral": [
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo11.md",
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo7.md",
+    "normas/anexos/instrucao-normativa-iat-21-2025-anexo9.md",
+    "normas/anexos/instrucao-normativa-iat-22-2026-anexo7.md",
+    "normas/anexos/instrucao-normativa-iat-23-2026-anexo8.md",
+    "normas/anexos/instrucao-normativa-iat-25-2025-anexo3.md",
+    "normas/anexos/instrucao-normativa-iat-25-2025-anexo5.md",
+    "normas/anexos/instrucao-normativa-iat-25-2025-anexo7.md",
+    "normas/anexos/instrucao-normativa-iat-25-2026-anexo7.md",
+    "normas/anexos/instrucao-normativa-iat-27-2026-anexo7.md",
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo10.md",
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo11.md",
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo14.md",
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo7.md",
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo8.md",
+    "normas/anexos/instrucao-normativa-iat-28-2025-anexo9.md",
+    "normas/anexos/instrucao-normativa-iat-28-2026-anexo2.md",
+    "normas/anexos/instrucao-normativa-iat-28-2026-anexo4.md",
+    "normas/anexos/instrucao-normativa-iat-28-2026-anexo5.md",
+    "normas/anexos/instrucao-normativa-iat-28-2026-anexo6.md",
+    "normas/anexos/instrucao-normativa-iat-28-2026-anexo9.md",
+    "normas/anexos/instrucao-normativa-iat-30-2025-anexo3.md",
+    "normas/anexos/instrucao-normativa-iat-30-2025-anexo5.md",
+    "normas/anexos/instrucao-normativa-iat-31-2025-anexo5.md",
+    "normas/anexos/instrucao-normativa-iat-32-2025-anexo4.md",
+    "normas/anexos/instrucao-normativa-iat-32-2025-anexo5.md",
+    "normas/anexos/instrucao-normativa-iat-32-2025-anexo6.md",
+    "normas/anexos/instrucao-normativa-iat-33-2025-anexo4.md",
+    "normas/anexos/instrucao-normativa-iat-33-2025-anexo5.md",
+    "normas/anexos/instrucao-normativa-iat-33-2025-anexo6.md",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo12.md",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo14.md",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo6.md",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo7.md",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo8.md",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo9.md",
+    "normas/anexos/instrucao-normativa-iat-38-2025-anexo4.md",
+    "normas/anexos/instrucao-normativa-iat-38-2025-anexo6.md",
+    "normas/anexos/instrucao-normativa-iat-38-2025-anexo8.md",
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo16.md",
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo5.md",
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo9.md",
+    "normas/anexos/instrucao-normativa-iat-65-2025-anexo10.md",
+    "normas/anexos/instrucao-normativa-iat-65-2025-anexo11.md",
+    "normas/anexos/instrucao-normativa-iat-65-2025-anexo13.md",
+    "normas/anexos/instrucao-normativa-iat-65-2025-anexo8.md",
+    "normas/anexos/norma-cnen-nn-8-01-anexo1.md",
+    "normas/anexos/portaria-iap-26-2006-anexo2.md",
+    "normas/anexos/portaria-iap-26-2006-anexo3.md",
+    "normas/anexos/resolucao-conama-411-2009-anexo3.md",
+    "normas/anexos/resolucao-conama-411-2009-anexo6.md",
+    "normas/anexos/resolucao-sedest-2-2025-anexo10.md",
+    "normas/anexos/resolucao-sedest-39-2024-anexo2.md",
+    "normas/anexos/resolucao-sedest-39-2024-anexo3.md",
+    "normas/anexos/resolucao-sedest-39-2024-anexo4.md",
+    "normas/anexos/resolucao-sedest-39-2024-anexo5.md",
+    "normas/anexos/resolucao-sedest-48-2024-anexo4.md",
+    "normas/comentarios/rdc-anvisa-222-2018-coment.md",
+    "normas/decreto-estadual-6674-2002.md",
+    "normas/decreto-estadual-9541-2025.md",
+    "normas/decreto-estadual-9957-2014.md",
+    "normas/decreto-federal-10936-2022.md",
+    "normas/decreto-federal-12688-2025.md",
+    "normas/instrucao-normativa-iat-11-2026.md",
+    "normas/instrucao-normativa-iat-21-2025.md",
+    "normas/instrucao-normativa-iat-22-2026.md",
+    "normas/instrucao-normativa-iat-23-2026.md",
+    "normas/instrucao-normativa-iat-24-2026.md",
+    "normas/instrucao-normativa-iat-25-2025.md",
+    "normas/instrucao-normativa-iat-25-2026.md",
+    "normas/instrucao-normativa-iat-26-2026.md",
+    "normas/instrucao-normativa-iat-27-2026.md",
+    "normas/instrucao-normativa-iat-28-2025.md",
+    "normas/instrucao-normativa-iat-28-2026.md",
+    "normas/instrucao-normativa-iat-29-2026.md",
+    "normas/instrucao-normativa-iat-30-2025.md",
+    "normas/instrucao-normativa-iat-31-2025.md",
+    "normas/instrucao-normativa-iat-32-2025.md",
+    "normas/instrucao-normativa-iat-33-2025.md",
+    "normas/instrucao-normativa-iat-37-2025.md",
+    "normas/instrucao-normativa-iat-38-2025.md",
+    "normas/instrucao-normativa-iat-41-2025.md",
+    "normas/instrucao-normativa-iat-6-2026.md",
+    "normas/instrucao-normativa-iat-65-2025.md",
+    "normas/instrucao-normativa-iat-9-2026.md",
+    "normas/instrucao-normativa-ibama-13-2012.md",
+    "normas/instrucao-normativa-ibama-13-2021.md",
+    "normas/instrucao-normativa-ibama-19-2018.md",
+    "normas/instrucao-normativa-ibama-23-2025.md",
+    "normas/lei-complementar-federal-140-2011.md",
+    "normas/lei-estadual-12493-1999.md",
+    "normas/lei-estadual-12726-1999.md",
+    "normas/lei-estadual-16346-2009.md",
+    "normas/lei-estadual-20607-2021.md",
+    "normas/lei-federal-11107-2005.md",
+    "normas/lei-federal-11428-2006.md",
+    "normas/lei-federal-11445-2007.md",
+    "normas/lei-federal-12305-2010.md",
+    "normas/lei-federal-12651-2012.md",
+    "normas/lei-federal-15190-2025.md",
+    "normas/lei-federal-15300-2025.md",
+    "normas/lei-federal-6938-1981.md",
+    "normas/lei-federal-9433-1997.md",
+    "normas/lei-federal-9605-1998.md",
+    "normas/lei-federal-9795-1999.md",
+    "normas/lei-federal-9985-2000.md",
+    "normas/norma-cnen-nn-6-02.md",
+    "normas/norma-cnen-nn-8-01.md",
+    "normas/norma-regulamentadora-federal-13-1978.md",
+    "normas/norma-regulamentadora-federal-31-2005.md",
+    "normas/norma-regulamentadora-federal-32-2005.md",
+    "normas/portaria-iap-159-2015.md",
+    "normas/portaria-iap-26-2006.md",
+    "normas/portaria-iat-354-2020.md",
+    "normas/portaria-mma-280-2020.md",
+    "normas/rdc-anvisa-222-2018.md",
+    "normas/rdc-anvisa-306-2004.md",
+    "normas/resolucao-cerh-122-2023.md",
+    "normas/resolucao-conama-237-1997.md",
+    "normas/resolucao-conama-307-2002.md",
+    "normas/resolucao-conama-357-2005.md",
+    "normas/resolucao-conama-358-2005.md",
+    "normas/resolucao-conama-382-2006.md",
+    "normas/resolucao-conama-396-2008.md",
+    "normas/resolucao-conama-411-2009.md",
+    "normas/resolucao-conama-430-2011.md",
+    "normas/resolucao-conama-506-2024.md",
+    "normas/resolucao-sedest-2-2025.md",
+    "normas/resolucao-sedest-39-2024.md",
+    "normas/resolucao-sedest-48-2024.md",
+    "normas/resolucao-sedest-69-2022.md"
+  ],
+  "limites": [
+    "Cobertura declarada nos relatórios; o integrador não lê juridicamente o conteúdo.",
+    "O piloto CONAMA 430 anterior ao snapshot é registrado no relatório original e não incluído nestes totais.",
+    "Arestas de texto idêntico não são equivalência jurídica, hierarquia de tags ou prova de vigência.",
+    "Não replica automaticamente decisões em ocorrências sem revisão."
+  ]
+}

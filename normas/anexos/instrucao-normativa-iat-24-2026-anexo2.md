@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [suinocultura]
 modalidades: [dlam, lac]
-tags: [diretriz-estudo, memorial-caracterizacao, suinocultura, porte, dlam, lac, declaracao-veracidade, cnpj, cpf, mapa-situacao, car, area-construida, georreferenciamento, corpo-hidrico, app, reserva-legal, distancia-minima, uso-solo, obra-civil, dejeto-animal, efluente, esgoto-sanitario, residuo-solido, emissao-atmosferica, gerador, captacao, disposicao-solo, uso-agricola-efluente, dimensionamento, art-anotacao, responsavel-tecnico]
+tags: [app, area-construida, art-anotacao, captacao, car, cnpj, corpo-hidrico, cpf, declaracao-veracidade, dejeto-animal, efluente, emissao-atmosferica, esgoto-sanitario, georreferenciamento, mapa-situacao, obra-civil, porte, reserva-legal, residuo-solido, suinocultura, uso-agricola-efluente, uso-solo]
 fonte: PDF da IN IAT 24/2026 (eProtocolo 23.753.432-8), páginas 67 e 68 (fls. 243 e 244)
 ---
 
@@ -37,7 +37,7 @@ fonte: PDF da IN IAT 24/2026 (eProtocolo 23.753.432-8), páginas 67 e 68 (fls. 2
 - **Anexo II, linha 16** {#anexo2_lin16} #reserva-legal ● Áreas de Reserva Legal e maciços florestais remanescentes;
 - **Anexo II, linha 17** {#anexo2_lin17} ● Vias de acesso principais;
 - **Anexo II, linha 18** {#anexo2_lin18} ● Pontos de referência.
-- **Anexo II, linha 19** {#anexo2_lin19} #uso-solo #distancia-minima ● Caracterização do entorno em um raio mínimo de 50 metros do empreendimento, contemplando o uso e ocupação do solo, e a existência de residências.
+- **Anexo II, linha 19** {#anexo2_lin19} #uso-solo ● Caracterização do entorno em um raio mínimo de 50 metros do empreendimento, contemplando o uso e ocupação do solo, e a existência de residências.
 - **Anexo II, linha 20** {#anexo2_lin20} IV. CARACTERIZAÇÃO DO EMPREENDIMENTO
 - **Anexo II, linha 21** {#anexo2_lin21} a) Tipo de atividade do empreendimento;
 - **Anexo II, linha 22** {#anexo2_lin22} #obra-civil b) Descritivo da obra a ser implantada e a descrição das intervenções necessárias;
@@ -51,10 +51,10 @@ fonte: PDF da IN IAT 24/2026 (eProtocolo 23.753.432-8), páginas 67 e 68 (fls. 2
 - **Anexo II, linha 30** {#anexo2_lin30} • Geração, tratamento e destinação final;
 - **Anexo II, linha 31** {#anexo2_lin31} #residuo-solido #dejeto-animal c) Resíduos Sólidos (Dejetos)
 - **Anexo II, linha 32** {#anexo2_lin32} • Geração, tratamento e destinação final.
-- **Anexo II, linha 33** {#anexo2_lin33} #emissao-atmosferica #gerador d) Emissões atmosféricas, (no caso de uso de geradores a combustível) e sistemas de controle, quando houver;
+- **Anexo II, linha 33** {#anexo2_lin33} #emissao-atmosferica d) Emissões atmosféricas, (no caso de uso de geradores a combustível) e sistemas de controle, quando houver;
 - **Anexo II, linha 34** {#anexo2_lin34} #captacao e) Sistema de abastecimento de água (fonte, usos e volume de captação).
 - **Anexo II, linha 35** {#anexo2_lin35} #dejeto-animal #uso-agricola-efluente VI. UTILIZAÇÃO AGRÍCOLA DE DEJETOS DE SUÍNOS
-- **Anexo II, linha 36** {#anexo2_lin36} #dejeto-animal #uso-agricola-efluente #dimensionamento #art-anotacao #responsavel-tecnico Projeto técnico com dimensionamento do número de animais a serem alojados e planejamento agrícola para utilização agrícola de dejetos de suínos, utilizando o SGAS e considerando os critérios técnicos mínimos para licenciamento ambiental de granjas de suínos (Documentos 239/2023, Embrapa Suínos Aves), elaborado por profissional habilitado, acompanhado da devida Anotação de Responsabilidade Técnica – ART.
+- **Anexo II, linha 36** {#anexo2_lin36} #dejeto-animal #uso-agricola-efluente #art-anotacao Projeto técnico com dimensionamento do número de animais a serem alojados e planejamento agrícola para utilização agrícola de dejetos de suínos, utilizando o SGAS e considerando os critérios técnicos mínimos para licenciamento ambiental de granjas de suínos (Documentos 239/2023, Embrapa Suínos Aves), elaborado por profissional habilitado, acompanhado da devida Anotação de Responsabilidade Técnica – ART.
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

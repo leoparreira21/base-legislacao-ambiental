@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Projeto de Terraplenagem"
 atividades: [empreendimento-imobiliario]
 modalidades: [las, lasa, li, lia]
-tags: ["empreendimento-imobiliario", "geotecnia", "residuo-construcao-civil", "terraplanagem"]
+tags: [app, art-anotacao, conservacao-solo, contencao, destinacao-final, disposicao-final, distancia-minima, drenagem, licenca-ambiental, supressao-vegetacao, terraplanagem]
 fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; páginas 56–60."
 ---
 
@@ -14,7 +14,7 @@ fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 ## Texto do anexo
 
-- **Anexo V, linha 1** {#anexo5_lin1} O Projeto de Terraplenagem deverá apresentar, de forma detalhada, as operações de movimentação de solo a serem executadas para implantação do empreendimento.
+- **Anexo V, linha 1** {#anexo5_lin1} #terraplanagem O Projeto de Terraplenagem deverá apresentar, de forma detalhada, as operações de movimentação de solo a serem executadas para implantação do empreendimento.
 
 - **Anexo V, linha 2** {#anexo5_lin2} 1. IDENTIFICAÇÃO DO EMPREENDEDOR
 
@@ -52,7 +52,7 @@ fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 - **Anexo V, linha 19** {#anexo5_lin19} 4.1. Apresentar detalhadamente os projetos executivos referentes a movimentação de solo a ser executada no terreno, e medidas de controle visando evitar processos erosivos e destinação inadequada de resíduos.
 
-- **Anexo V, linha 20** {#anexo5_lin20} 4.2. Deverão ser observadas as recomendações das normas técnicas brasileiras, bem como as Resoluções CONAMA nºs [[resolucao-conama-302-2002|302/2002]], [[resolucao-conama-303-2002|303/2002]] e [[resolucao-conama-307-2002|307/2002]] na realização das obras e nos procedimentos de corte, nivelamento, transporte e destinação final de solos e material de escavação excedente.
+- **Anexo V, linha 20** {#anexo5_lin20} #destinacao-final 4.2. Deverão ser observadas as recomendações das normas técnicas brasileiras, bem como as Resoluções CONAMA nºs [[resolucao-conama-302-2002|302/2002]], [[resolucao-conama-303-2002|303/2002]] e [[resolucao-conama-307-2002|307/2002]] na realização das obras e nos procedimentos de corte, nivelamento, transporte e destinação final de solos e material de escavação excedente.
 
 - **Anexo V, linha 21** {#anexo5_lin21} 4.3. Deverá ser apresentada planta, em escala adequada, com os seguintes elementos:
 
@@ -66,7 +66,7 @@ fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 - **Anexo V, linha 26** {#anexo5_lin26} − Representação de Cursos Hídricos, Áreas de Preservação Permanente, Área Verde Urbana e demais elementos que forem julgados como necessários, devidamente cotados;
 
-- **Anexo V, linha 27** {#anexo5_lin27} − Devidamente assinada por responsável técnico, que deverá estar em conformidade com a ART apresentada.
+- **Anexo V, linha 27** {#anexo5_lin27} #art-anotacao − Devidamente assinada por responsável técnico, que deverá estar em conformidade com a ART apresentada.
 
 - **Anexo V, linha 28** {#anexo5_lin28} 4.4. Apresentar os perfis de terraplanagem, que devem condizer com os que foram representados e identificados na planta do tópico (4.3). Nestes perfis devem constar:
 
@@ -88,15 +88,15 @@ fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 - **Anexo V, linha 37** {#anexo5_lin37} 4.5. Além da planta indicada no item anterior, necessita-se da apresentação de memorial descritivo e de cálculo, para apresentação dos itens que serão apresentados em sequência.
 
-- **Anexo V, linha 38** {#anexo5_lin38} 4.6. Toda e qualquer intervenção a ser realizada no solo, seja para corte, aterro ou nivelamento do terreno, deverá manter uma distância mínima de cursos hídricos e nascentes em conformidade com a [[lei-federal-12651-2012#art3|Lei Federal n° 12.651/2012, Art. 3]], ou seja, não deverá ultrapassar os limites da delimitação da Área de Preservação Permanente.
+- **Anexo V, linha 38** {#anexo5_lin38} #app #distancia-minima 4.6. Toda e qualquer intervenção a ser realizada no solo, seja para corte, aterro ou nivelamento do terreno, deverá manter uma distância mínima de cursos hídricos e nascentes em conformidade com a [[lei-federal-12651-2012#art3|Lei Federal n° 12.651/2012, Art. 3]], ou seja, não deverá ultrapassar os limites da delimitação da Área de Preservação Permanente.
 
 - **Anexo V, linha 39** {#anexo5_lin39} 4.7. Apresentar tabela com os cálculos e os volumes de corte e aterro, considerando todas as seções do tópico 4.2, informando de forma clara se haverá necessidade de retirada (bota-fora) ou empréstimo de solo do terreno.
 
-- **Anexo V, linha 40** {#anexo5_lin40} 4.8. Indicar a localização da área de bota-fora ou empréstimo, que deve ser devidamente licenciada, apresentando endereço completo e licença ambiental do local/empreendimento.
+- **Anexo V, linha 40** {#anexo5_lin40} #licenca-ambiental 4.8. Indicar a localização da área de bota-fora ou empréstimo, que deve ser devidamente licenciada, apresentando endereço completo e licença ambiental do local/empreendimento.
 
-- **Anexo V, linha 41** {#anexo5_lin41} 4.9. Detalhar as estruturas de contenção e drenagem que se fizerem necessárias a serem implantadas para garantir a estabilidade da obra, bem como para evitar quaisquer danos ou interferências tais como infiltrações, alagamentos e deslizamentos de solo, aos imóveis vizinhos, sistema viário ou bens públicos. Caso o projeto não apresente necessidade de tais dispositivos, apresentar justificativa técnica.
+- **Anexo V, linha 41** {#anexo5_lin41} #contencao #drenagem 4.9. Detalhar as estruturas de contenção e drenagem que se fizerem necessárias a serem implantadas para garantir a estabilidade da obra, bem como para evitar quaisquer danos ou interferências tais como infiltrações, alagamentos e deslizamentos de solo, aos imóveis vizinhos, sistema viário ou bens públicos. Caso o projeto não apresente necessidade de tais dispositivos, apresentar justificativa técnica.
 
-- **Anexo V, linha 42** {#anexo5_lin42} 4.10. Informar as medidas que se fizerem necessárias e a serem adotadas para evitar a formação de processos erosivos e de movimentação de massa na área ou em suas imediações, bem como para evitar a ocorrência e assoreamentos de sistemas de drenagem, corpos hídricos, lagos, lagoas, banhados, nascentes e outras estruturas. Caso o projeto não apresente necessidade de adoção de tais medidas, apresentar justificativa técnica.
+- **Anexo V, linha 42** {#anexo5_lin42} #conservacao-solo 4.10. Informar as medidas que se fizerem necessárias e a serem adotadas para evitar a formação de processos erosivos e de movimentação de massa na área ou em suas imediações, bem como para evitar a ocorrência e assoreamentos de sistemas de drenagem, corpos hídricos, lagos, lagoas, banhados, nascentes e outras estruturas. Caso o projeto não apresente necessidade de adoção de tais medidas, apresentar justificativa técnica.
 
 - **Anexo V, linha 43** {#anexo5_lin43} 4.11. Detalhar as medidas de segurança para vedação do terreno e adoção de medidas de segurança de forma a evitar despejos de resíduos clandestinos no local, tais como: tintas e solventes, materiais e solos contaminados, resíduos contendo amianto, gesso, isopor, tubos de PVC, vidros, papéis, papelão, madeira, pneus, sacos plásticos e lixo doméstico entre outros.
 
@@ -104,15 +104,15 @@ fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 - **Anexo V, linha 45** {#anexo5_lin45} 5.1. É de inteira responsabilidade do proprietário do imóvel e de seu representante legal a vedação do terreno ou a adoção de medidas de segurança de forma a evitar despejos clandestinos de resíduos no local.
 
-- **Anexo V, linha 46** {#anexo5_lin46} 5.2. Deverão ser preservadas todas as árvores cujo corte não tenha sido autorizado.
+- **Anexo V, linha 46** {#anexo5_lin46} #supressao-vegetacao 5.2. Deverão ser preservadas todas as árvores cujo corte não tenha sido autorizado.
 
 - **Anexo V, linha 47** {#anexo5_lin47} 5.3. Deverá proceder a lavagem do rodado dos caminhões e equipamentos utilizados na movimentação de terra, de maneira adequada, para que não haja comprometimento das vias de trânsito.
 
-- **Anexo V, linha 48** {#anexo5_lin48} 5.4. Os resíduos excedentes da terraplenagem deverão ser destinados a local com aterro licenciado.
+- **Anexo V, linha 48** {#anexo5_lin48} #disposicao-final 5.4. Os resíduos excedentes da terraplenagem deverão ser destinados a local com aterro licenciado.
 
 - **Anexo V, linha 49** {#anexo5_lin49} 6. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA
 
-- **Anexo V, linha 50** {#anexo5_lin50} Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos e projetos apresentados, bem como da execução dos trabalhos, junto aos respectivos conselhos de classe.
+- **Anexo V, linha 50** {#anexo5_lin50} #art-anotacao Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos e projetos apresentados, bem como da execução dos trabalhos, junto aos respectivos conselhos de classe.
 
 - **Anexo V, linha 51** {#anexo5_lin51} 7. REFERÊNCIAS BIBLIOGRÁFICAS
 

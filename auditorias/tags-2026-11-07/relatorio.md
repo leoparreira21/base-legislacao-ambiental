@@ -1,5 +1,7 @@
 # Revisão de tags — 07/11/2026
 
+> Registro da etapa inicial. A [continuidade de 08/11/2026](continuidade-2026-11-08.md) apresenta a cobertura e os resultados mais recentes.
+
 ## Resultado e limite de cobertura
 
 **Entrega parcial da revisão semântica solicitada.** Inventário automático dos 183 documentos e leitura das ementas das 75 normas; proposta de organização para todo o vocabulário remanescente. Leitura detalhada do texto da CONAMA 430/2011 presente no repositório, com 18 decisões por artigo. Normalização lexical em outras três normas. Não foi concluída a revisão dispositivo a dispositivo das outras 74 normas, dos 107 anexos e do comentário. Não houve conferência com novas publicações oficiais nem certificação de vigência externa.

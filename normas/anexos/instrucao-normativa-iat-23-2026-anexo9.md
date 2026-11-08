@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: Laudo de Conclusão de Obras
 atividades: [bovinocultura]
 modalidades: [las, lo, loa]
-tags: [bovinocultura, laudo-conclusao-obra, responsavel-tecnico, tratamento-efluente, residuo-solido, agua-pluvial]
+tags: [agua-pluvial, bovinocultura, laudo-conclusao-obra, residuo-solido, responsavel-tecnico, tratamento-efluente, tratamento-residuo]
 fonte: "PDF IN 23 2026.pdf fornecido por Leo; páginas 73–74 de 81, conferidas nas imagens."
 ---
 
@@ -30,7 +30,7 @@ Exigido em: [[instrucao-normativa-iat-23-2026#art26_cpt_inc6|Art. 26, VI]] (LO) 
 
 - **Anexo IX, disposição 7** {#anexo9_lin7} OBJETO DO LAUDO:
 
-- **Anexo IX, disposição 8** {#anexo9_lin8} Este laudo visa atestar a conclusão da obra em conformidade ambiental, conforme estabelecido no projeto aprovado, no processo de licenciamento ambiental, bem como em conformidade com as legislações vigentes pertinentes, incluindo medidas de mitigação e controle de impactos ambientais.
+- **Anexo IX, disposição 8** {#anexo9_lin8} #laudo-conclusao-obra Este laudo visa atestar a conclusão da obra em conformidade ambiental, conforme estabelecido no projeto aprovado, no processo de licenciamento ambiental, bem como em conformidade com as legislações vigentes pertinentes, incluindo medidas de mitigação e controle de impactos ambientais.
 
 - **Anexo IX, disposição 9** {#anexo9_lin9} DESCRIÇÃO DA OBRA:
 
@@ -48,13 +48,13 @@ Exigido em: [[instrucao-normativa-iat-23-2026#art26_cpt_inc6|Art. 26, VI]] (LO) 
 
 - **Anexo IX, disposição 16** {#anexo9_lin16} Estrutura:
 
-- **Anexo IX, disposição 17** {#anexo9_lin17} Sistema de tratamento de efluentes: por exemplo: número de lagoas e dimensões individuais e totais, tipo de impermeabilização, número de biodigestores, etc.
+- **Anexo IX, disposição 17** {#anexo9_lin17} #tratamento-efluente Sistema de tratamento de efluentes: por exemplo: número de lagoas e dimensões individuais e totais, tipo de impermeabilização, número de biodigestores, etc.
 
-- **Anexo IX, disposição 18** {#anexo9_lin18} Sistema de tratamento de resíduos sólidos: por exemplo: Número de células e dimensões, no caso de compostagem ou detalhes de outro sistema proposto.
+- **Anexo IX, disposição 18** {#anexo9_lin18} #tratamento-residuo Sistema de tratamento de resíduos sólidos: por exemplo: Número de células e dimensões, no caso de compostagem ou detalhes de outro sistema proposto.
 
 - **Anexo IX, disposição 19** {#anexo9_lin19} Galpões: quantidade de galpões construído e/ou ampliados e suas dimensões.
 
-- **Anexo IX, disposição 20** {#anexo9_lin20} Sistema de controle de águas pluviais: descrever detalhes (caso proposto no PCA).
+- **Anexo IX, disposição 20** {#anexo9_lin20} #agua-pluvial Sistema de controle de águas pluviais: descrever detalhes (caso proposto no PCA).
 
 - **Anexo IX, disposição 21** {#anexo9_lin21} CONSIDERAÇÕES FINAIS:
 

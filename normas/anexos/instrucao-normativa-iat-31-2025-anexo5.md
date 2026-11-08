@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Relatório de Gerenciamento de Resíduos
 atividades: [triagem-residuo-reciclavel]
 modalidades: [rlas, rlo, lasr, lor]
-tags: [diretriz-estudo, gerenciamento-residuo, triagem, reciclagem, rejeito, renovacao, regularizacao, ampliacao, vetor, controle-ambiental, destinacao-final, residuo-transporte, mtr, sinir]
+tags: [ampliacao, controle-ambiental, destinacao-final, reciclagem, regularizacao, rejeito, renovacao, transporte, triagem, vetor]
 fonte: PDF da IN IAT 31/2025, página 60
 ---
 
@@ -31,7 +31,7 @@ fonte: PDF da IN IAT 31/2025, página 60
 
 **Anexo V, Tabela 1** {#anexo5_tab1} Quadro mensal dos resíduos separados e rejeitos, com transporte e destinação final (sem título no original)
 
-- **Anexo V, Tabela 1, cabeçalho** {#anexo5_tab1_cab} #residuo-transporte #destinacao-final Período | Resíduo | Quantidade (ton/mês) | Empreendimento responsável pelo transporte | Empreendimento responsável pela destinação final
+- **Anexo V, Tabela 1, cabeçalho** {#anexo5_tab1_cab} #transporte #destinacao-final Período | Resíduo | Quantidade (ton/mês) | Empreendimento responsável pelo transporte | Empreendimento responsável pela destinação final
 - **Anexo V, Tabela 1, linha 1** {#anexo5_tab1_lin1} Período: Janeiro | Resíduo, Quantidade (ton/mês), Empreendimento responsável pelo transporte, Empreendimento responsável pela destinação final: (células em branco, a preencher)
 - **Anexo V, Tabela 1, linha 2** {#anexo5_tab1_lin2} Período: Fevereiro | Resíduo, Quantidade (ton/mês), Empreendimento responsável pelo transporte, Empreendimento responsável pela destinação final: (células em branco, a preencher)
 - **Anexo V, Tabela 1, linha 3** {#anexo5_tab1_lin3} Período: Março | Resíduo, Quantidade (ton/mês), Empreendimento responsável pelo transporte, Empreendimento responsável pela destinação final: (células em branco, a preencher)

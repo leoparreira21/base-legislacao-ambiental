@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Laudo de conclusão de obras
 atividades: [suinocultura]
 modalidades: [las, lo, loa]
-tags: [diretriz-estudo, laudo-tecnico, laudo-conclusao-obra, art-anotacao, responsavel-tecnico, suinocultura, dejeto-animal, ampliacao, medida-mitigadora, tratamento-efluente, lagoa-tratamento, biogas, impermeabilizacao, residuo-solido, animal-morto, compostagem, agua-pluvial, pca, vistoria, cnpj, cpf]
+tags: [agua-pluvial, ampliacao, animal-morto, area-construida, art-anotacao, cnpj, compostagem, conselho-classe, cpf, dejeto-animal, diretriz-estudo, impermeabilizacao, lagoa-tratamento, laudo-conclusao-obra, laudo-tecnico, medida-mitigadora, residuo-solido, responsavel-tecnico, suinocultura, tratamento-efluente, vistoria]
 fonte: PDF da IN IAT 24/2026 (work/in24.pdf, eProtocolo 23.753.432-8, fls. 255 e 256), páginas 79 e 80
 ---
 
@@ -24,24 +24,24 @@ fonte: PDF da IN IAT 24/2026 (work/in24.pdf, eProtocolo 23.753.432-8, fls. 255 e
 - **Anexo IX, linha 3** {#anexo9_lin3} Localização:
 - **Anexo IX, linha 4** {#anexo9_lin4} #cnpj #cpf CNPJ/CPF:
 - **Anexo IX, linha 5** {#anexo9_lin5} #responsavel-tecnico Responsável Técnico:
-- **Anexo IX, linha 6** {#anexo9_lin6} #responsavel-tecnico CREA:
+- **Anexo IX, linha 6** {#anexo9_lin6} #conselho-classe CREA:
 - **Anexo IX, linha 7** {#anexo9_lin7} OBJETO DO LAUDO:
 - **Anexo IX, linha 8** {#anexo9_lin8} #laudo-conclusao-obra #medida-mitigadora Este laudo visa atestar a conclusão da obra em conformidade ambiental, conforme estabelecido no projeto aprovado, no processo de licenciamento ambiental, bem como em conformidade com as legislações vigentes pertinentes, incluindo medidas de mitigação e controle de impactos ambientais.
 - **Anexo IX, linha 9** {#anexo9_lin9} DESCRIÇÃO DA OBRA:
 - **Anexo IX, linha 10** {#anexo9_lin10} #ampliacao Tipo de Obra: Construção/Reforma ou ampliações
-- **Anexo IX, linha 11** {#anexo9_lin11} #ampliacao Área Total Construída: Área em m² total e/ ou ampliações
+- **Anexo IX, linha 11** {#anexo9_lin11} #area-construida Área Total Construída: Área em m² total e/ ou ampliações
 - **Anexo IX, linha 12** {#anexo9_lin12} Data de Início: Data de início da obra
 - **Anexo IX, linha 13** {#anexo9_lin13} Data de Conclusão: Data de conclusão da obra
 - **Anexo IX, linha 14** {#anexo9_lin14} ANÁLISE TÉCNICA:
 - **Anexo IX, linha 15** {#anexo9_lin15} #vistoria A equipe técnica responsável inspecionou a obra e constatou que:
 - **Anexo IX, linha 16** {#anexo9_lin16} Estrutura:
-- **Anexo IX, linha 17** {#anexo9_lin17} #tratamento-efluente #lagoa-tratamento #impermeabilizacao #biogas Sistema de tratamento de efluentes: por exemplo: número de lagoas e dimensões individuais e totais, tipo de impermeabilização, número de biodigestores, etc.
+- **Anexo IX, linha 17** {#anexo9_lin17} #tratamento-efluente #lagoa-tratamento #impermeabilizacao Sistema de tratamento de efluentes: por exemplo: número de lagoas e dimensões individuais e totais, tipo de impermeabilização, número de biodigestores, etc.
 - **Anexo IX, linha 18** {#anexo9_lin18} #residuo-solido #compostagem Sistema de tratamento de resíduos sólidos: por exemplo: Número de células e dimensões, no caso de compostagem ou detalhes de outro sistema proposto.
 - **Anexo IX, linha 19** {#anexo9_lin19} #suinocultura #ampliacao Pocilgas/galpões: quantidade de galpões construído e/ou ampliados e suas dimensões.
-- **Anexo IX, linha 20** {#anexo9_lin20} #agua-pluvial #pca Sistema de controle de águas pluviais: descrever detalhes (caso proposto no PCA).
+- **Anexo IX, linha 20** {#anexo9_lin20} #agua-pluvial Sistema de controle de águas pluviais: descrever detalhes (caso proposto no PCA).
 - **Anexo IX, linha 21** {#anexo9_lin21} CONSIDERAÇÕES FINAIS:
 - **Anexo IX, linha 22** {#anexo9_lin22} (sugestão….)
-- **Anexo IX, linha 23** {#anexo9_lin23} #vistoria Após a análise e vistoria realizada, conclui–se que a obra foi executada conforme os padrões estabelecidos na legislação vigente e no projeto aprovado na licença de instalação. Portanto, a obra está apta para operação, respeitando todas as normas e regulamentações aplicáveis.
+- **Anexo IX, linha 23** {#anexo9_lin23} #laudo-conclusao-obra Após a análise e vistoria realizada, conclui–se que a obra foi executada conforme os padrões estabelecidos na legislação vigente e no projeto aprovado na licença de instalação. Portanto, a obra está apta para operação, respeitando todas as normas e regulamentações aplicáveis.
 - **Anexo IX, linha 24** {#anexo9_lin24} (………….…)
 - **Anexo IX, linha 25** {#anexo9_lin25} ASSINATURAS:
 - **Anexo IX, linha 26** {#anexo9_lin26} #responsavel-tecnico Nome do responsável técnico

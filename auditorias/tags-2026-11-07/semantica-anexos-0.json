@@ -1,0 +1,1509 @@
+{
+  "lote": 0,
+  "escopo": "Revisão semântica dos textos normativos dos anexos listados; sínteses interpretativas preservadas e não reclassificadas. Sem conferência de publicações externas.",
+  "cobertura": [
+    "normas/anexos/instrucao-normativa-iat-22-2026-anexo2.md",
+    "normas/anexos/instrucao-normativa-iat-22-2026-anexo8.md",
+    "normas/anexos/instrucao-normativa-iat-23-2026-anexo9.md",
+    "normas/anexos/instrucao-normativa-iat-24-2026-anexo8.md",
+    "normas/anexos/instrucao-normativa-iat-24-2026-anexo9.md",
+    "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md",
+    "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md",
+    "normas/anexos/instrucao-normativa-iat-32-2025-anexo3.md",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md",
+    "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md",
+    "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md",
+    "normas/anexos/instrucao-normativa-iat-38-2025-anexo5.md",
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo10.md",
+    "normas/anexos/instrucao-normativa-iat-41-2025-anexo7.md",
+    "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+    "normas/anexos/resolucao-conama-411-2009-anexo4.md",
+    "normas/anexos/resolucao-conama-411-2009-anexo5.md"
+  ],
+  "decisoes": [
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo2.md",
+      "id": "anexo2_lin2",
+      "antes": [],
+      "depois": [
+        "memorial-caracterizacao",
+        "irrigacao"
+      ],
+      "evidencia": "TERMO DE REFERÊNCIA PARA ELABORAÇÃO E APRESENTAÇÃO DO MEMORIAL DE CARACTERIZAÇÃO DO EMPREENDIMENTO (MCE)",
+      "justificativa": "Anexo sem tags diretas; identifica o MCE exigido para irrigação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo2.md",
+      "id": "anexo2_lin11",
+      "antes": [],
+      "depois": [
+        "car"
+      ],
+      "evidencia": "Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural;",
+      "justificativa": "Limites devem ser condizentes com o Cadastro Ambiental Rural."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo2.md",
+      "id": "anexo2_lin17",
+      "antes": [],
+      "depois": [
+        "app"
+      ],
+      "evidencia": "Áreas de preservação permanente;",
+      "justificativa": "Item específico sobre áreas de preservação permanente."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo2.md",
+      "id": "anexo2_lin18",
+      "antes": [],
+      "depois": [
+        "reserva-legal"
+      ],
+      "evidencia": "Áreas de Reserva Legal e maciços florestais remanescentes;",
+      "justificativa": "Item específico sobre Reserva Legal."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo2.md",
+      "id": "anexo2_lin27",
+      "antes": [],
+      "depois": [
+        "captacao",
+        "vazao"
+      ],
+      "evidencia": "Vazão captada e demanda hídrica estimada;",
+      "justificativa": "Exige vazão captada e demanda hídrica."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo2.md",
+      "id": "anexo2_lin32",
+      "antes": [],
+      "depois": [
+        "irrigacao"
+      ],
+      "evidencia": "5. Projeto de Irrigação",
+      "justificativa": "Seção que especifica o projeto de irrigação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo2.md",
+      "id": "anexo2_lin44",
+      "antes": [],
+      "depois": [
+        "conservacao-solo"
+      ],
+      "evidencia": "Medidas de conservação do solo e água.",
+      "justificativa": "Exige medidas de conservação do solo e água."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo8.md",
+      "id": "anexo8_lin2",
+      "antes": [],
+      "depois": [
+        "pcpa",
+        "irrigacao"
+      ],
+      "evidencia": "TERMO DE REFERÊNCIA PARA ELABORAÇÃO E APRESENTAÇÃO DE PROJETOS DE SISTEMAS DE CONTROLE DE POLUIÇÃO AMBIENTAL EM EMPREENDIMENTOS DE IRRIGAÇÃO",
+      "justificativa": "Anexo sem tags diretas; identifica projeto de controle de poluição para irrigação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo8.md",
+      "id": "anexo8_lin3",
+      "antes": [],
+      "depois": [
+        "art-anotacao"
+      ],
+      "evidencia": "1. INTRODUÇÃO O presente documento estabelece diretrizes para a elaboração e apresentação de projetos de sistemas de controle de poluição ambiental em empreendimentos de irrigação. O objetivo é garantir que os projetos minimizem os impactos ambientai",
+      "justificativa": "Exige ART que acompanha o projeto."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo8.md",
+      "id": "anexo8_lin40",
+      "antes": [],
+      "depois": [
+        "app",
+        "reserva-legal"
+      ],
+      "evidencia": "● Áreas de preservação permanente (APPs) e reservas legais.",
+      "justificativa": "Diagnóstico de APP e reservas legais explicitamente exigido."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo8.md",
+      "id": "anexo8_lin45",
+      "antes": [],
+      "depois": [
+        "agrotoxico",
+        "fertilizante"
+      ],
+      "evidencia": "● Contaminação de corpos hídricos por agroquímicos e fertilizantes.",
+      "justificativa": "Identificação de impactos de agroquímicos e fertilizantes em corpos hídricos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo8.md",
+      "id": "anexo8_lin57",
+      "antes": [],
+      "depois": [
+        "tratamento-efluente"
+      ],
+      "evidencia": "● Construção de bacias de sedimentação e filtros para tratamento de efluentes.",
+      "justificativa": "Medida de controle específica: bacias de sedimentação e filtros."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo8.md",
+      "id": "anexo8_lin60",
+      "antes": [],
+      "depois": [
+        "recuperacao-ambiental"
+      ],
+      "evidencia": "● Recuperação de áreas degradadas (revegetação com espécies nativas).",
+      "justificativa": "Medida compensatória de revegetação de áreas degradadas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo8.md",
+      "id": "anexo8_lin72",
+      "antes": [],
+      "depois": [
+        "monitoramento"
+      ],
+      "evidencia": "3.9. Plano de Monitoramento Ambiental",
+      "justificativa": "Seção que define o plano de monitoramento e seus requisitos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-22-2026-anexo8.md",
+      "id": "anexo8_lin99",
+      "antes": [],
+      "depois": [
+        "responsavel-tecnico"
+      ],
+      "evidencia": "● O responsável técnico pelo projeto deve assegurar que todas as informações fornecidas sejam verídicas e precisas.",
+      "justificativa": "Responsabilidade expressa pela veracidade e precisão do projeto."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo9.md",
+      "id": "anexo9_lin8",
+      "antes": [],
+      "depois": [
+        "laudo-conclusao-obra"
+      ],
+      "evidencia": "Este laudo visa atestar a conclusão da obra em conformidade ambiental, conforme estabelecido no projeto aprovado, no processo de licenciamento ambiental, bem como em conformidade com as legislações vigentes pertinentes, incluindo medidas de mitigação",
+      "justificativa": "Anexo sem tags diretas; define objeto do laudo de conclusão de obras."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo9.md",
+      "id": "anexo9_lin17",
+      "antes": [],
+      "depois": [
+        "tratamento-efluente"
+      ],
+      "evidencia": "Sistema de tratamento de efluentes: por exemplo: número de lagoas e dimensões individuais e totais, tipo de impermeabilização, número de biodigestores, etc.",
+      "justificativa": "Exige caracterização dos sistemas de tratamento no laudo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo9.md",
+      "id": "anexo9_lin18",
+      "antes": [],
+      "depois": [
+        "tratamento-residuo"
+      ],
+      "evidencia": "Sistema de tratamento de resíduos sólidos: por exemplo: Número de células e dimensões, no caso de compostagem ou detalhes de outro sistema proposto.",
+      "justificativa": "Exige caracterização dos sistemas de tratamento de resíduos no laudo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo9.md",
+      "id": "anexo9_lin20",
+      "antes": [],
+      "depois": [
+        "agua-pluvial"
+      ],
+      "evidencia": "Sistema de controle de águas pluviais: descrever detalhes (caso proposto no PCA).",
+      "justificativa": "Exige descrição do controle de águas pluviais quando proposto."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-24-2026-anexo8.md",
+      "id": "anexo8_lin1",
+      "antes": [
+        "art-anotacao",
+        "responsavel-tecnico"
+      ],
+      "depois": [
+        "art-anotacao"
+      ],
+      "evidencia": "Os Projetos de instalações destinadas ao controle de poluição ambiental em atividades agropecuárias deverão ser apresentados para análise, acompanhados da respectiva **Anotação de Responsabilidade Técnica – ART**, conforme dispõe a **[[lei-federal-64",
+      "justificativa": "O dispositivo exige acompanhamento por ART; não estabelece atribuição autônoma do responsável técnico."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-24-2026-anexo8.md",
+      "id": "anexo8_lin22",
+      "antes": [
+        "impacto-ambiental",
+        "medida-mitigadora",
+        "terraplanagem",
+        "supressao-vegetacao",
+        "nascente"
+      ],
+      "depois": [
+        "medida-mitigadora",
+        "terraplanagem",
+        "supressao-vegetacao",
+        "nascente"
+      ],
+      "evidencia": "● Diagnóstico e medidas mitigadoras dos impactos ambientais decorrentes da implantação do empreendimento, como por exemplo: obras de terraplenagem, corte de vegetação, proteção de nascentes, obras de drenagem, entre outros.",
+      "justificativa": "As medidas e objetos específicos discriminam a obrigação; retira impacto-ambiental genérica."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-24-2026-anexo8.md",
+      "id": "anexo8_lin31",
+      "antes": [
+        "destinacao-final"
+      ],
+      "depois": [
+        "disposicao-final"
+      ],
+      "evidencia": "4.2 INFORMAÇÕES SOBRE DISPOSIÇÃO FINAL",
+      "justificativa": "Texto trata expressamente de disposição final, conceito mais específico que destinação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-24-2026-anexo8.md",
+      "id": "anexo8_lin32",
+      "antes": [
+        "destinacao-final"
+      ],
+      "depois": [
+        "disposicao-final"
+      ],
+      "evidencia": "Descrever o(s) tipo(s) de disposição final de resíduos sólidos.",
+      "justificativa": "Exige descrição do tipo de disposição final, e não de toda destinação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-24-2026-anexo9.md",
+      "id": "anexo9_lin6",
+      "antes": [
+        "responsavel-tecnico"
+      ],
+      "depois": [
+        "conselho-classe"
+      ],
+      "evidencia": "CREA:",
+      "justificativa": "CREA identifica registro no conselho de classe; não é nome do responsável."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-24-2026-anexo9.md",
+      "id": "anexo9_lin11",
+      "antes": [
+        "ampliacao"
+      ],
+      "depois": [
+        "area-construida"
+      ],
+      "evidencia": "Área Total Construída: Área em m² total e/ ou ampliações",
+      "justificativa": "Campo pede área total construída, inclusive de ampliações; não rege modalidade de ampliação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-24-2026-anexo9.md",
+      "id": "anexo9_lin17",
+      "antes": [
+        "tratamento-efluente",
+        "lagoa-tratamento",
+        "impermeabilizacao",
+        "biogas"
+      ],
+      "depois": [
+        "tratamento-efluente",
+        "lagoa-tratamento",
+        "impermeabilizacao"
+      ],
+      "evidencia": "Sistema de tratamento de efluentes: por exemplo: número de lagoas e dimensões individuais e totais, tipo de impermeabilização, número de biodigestores, etc.",
+      "justificativa": "Biodigestor é exemplo de equipamento; não há obrigação ou uso de biogás."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-24-2026-anexo9.md",
+      "id": "anexo9_lin20",
+      "antes": [
+        "agua-pluvial",
+        "pca"
+      ],
+      "depois": [
+        "agua-pluvial"
+      ],
+      "evidencia": "Sistema de controle de águas pluviais: descrever detalhes (caso proposto no PCA).",
+      "justificativa": "PCA é remissão contextual; objeto descrito é sistema de controle de águas pluviais."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-24-2026-anexo9.md",
+      "id": "anexo9_lin23",
+      "antes": [
+        "vistoria"
+      ],
+      "depois": [
+        "laudo-conclusao-obra"
+      ],
+      "evidencia": "Após a análise e vistoria realizada, conclui–se que a obra foi executada conforme os padrões estabelecidos na legislação vigente e no projeto aprovado na licença de instalação. Portanto, a obra está apta para operação, respeitando todas as normas e r",
+      "justificativa": "Modelo sugerido de conclusão do laudo, não requisito independente de vistoria."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md",
+      "id": "anexo6_lin1",
+      "antes": [],
+      "depois": [
+        "pcpa",
+        "art-anotacao"
+      ],
+      "evidencia": "O projeto de controle de poluição ambiental de Pátio/Estacionamentode Caminhões e/ou Pátio de Containers, deverá ser elaborado por técnico habilitadoe apresentados para análise do INSTITUTO ÁGUA E TERRA, acompanhado darespectiva Anotação de Responsab",
+      "justificativa": "Anexo sem tags diretas; identifica PCPA e ART exigidos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md",
+      "id": "anexo6_lin22",
+      "antes": [],
+      "depois": [
+        "terraplanagem"
+      ],
+      "evidencia": "1.3.3. Obras de terraplanagem contendo:",
+      "justificativa": "Seção específica de obras de terraplanagem."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md",
+      "id": "anexo6_lin41",
+      "antes": [],
+      "depois": [
+        "impacto-ambiental",
+        "medida-mitigadora"
+      ],
+      "evidencia": "2.2. IMPACTOS AMBIENTAIS E MEDIDAS MITIGADORAS, DE CONTROLE OU DE COMPENSAÇÃO",
+      "justificativa": "Seção de avaliação e medidas de prevenção, mitigação ou compensação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md",
+      "id": "anexo6_lin64",
+      "antes": [],
+      "depois": [
+        "agua-pluvial"
+      ],
+      "evidencia": "3.2.1. Descrição do Sistema de Captação, Condução e Disposição dasÁguas Pluviais.",
+      "justificativa": "Descrição obrigatória do sistema pluvial."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md",
+      "id": "anexo6_lin74",
+      "antes": [],
+      "depois": [
+        "tratamento-esgoto"
+      ],
+      "evidencia": "Apresentar o dimensionamento completo e detalhado de todas as unidades detratamento de esgoto sanitário, especificando todos os parâmetros usados enecessários à sua compreensão.",
+      "justificativa": "Exige dimensionamento detalhado das unidades de esgoto sanitário."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md",
+      "id": "anexo6_lin95",
+      "antes": [],
+      "depois": [
+        "tratamento-efluente"
+      ],
+      "evidencia": "Apresentar dimensionamento completo e detalhado de todas as unidades detratamento, especificando todos os parâmetros usados e necessários à sua perfeita compreensão.",
+      "justificativa": "Exige dimensionamento detalhado do tratamento dos demais efluentes."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md",
+      "id": "anexo6_lin107",
+      "antes": [],
+      "depois": [
+        "emissao-atmosferica"
+      ],
+      "evidencia": "Deverá ser apresentado o Plano de Controle de Poluição do Ar, especificando as medidas a serem tomadas para atender os padrões de emissão e de condicionamento e os padrões de qualidade do ar no entorno.",
+      "justificativa": "Exige plano de controle de poluição do ar e atendimento aos padrões."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md",
+      "id": "anexo6_lin110",
+      "antes": [],
+      "depois": [
+        "residuo-solido"
+      ],
+      "evidencia": "Apresentar relação completa dos resíduos sólidos, indicando sua origem, produção diária (peso e volume), característica (estado físico, composição química, peso específico), processamento (tipo de acondicionamento e de remoção) e destinação final.",
+      "justificativa": "Exige relação, caracterização, processamento e destinação dos resíduos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md",
+      "id": "anexo6_lin118",
+      "antes": [],
+      "depois": [
+        "impermeabilizacao"
+      ],
+      "evidencia": "Apresentar a descrição do sistema de impermeabilização adotado para o controle da infiltração das águas superficiais.",
+      "justificativa": "Exige descrever sistema de impermeabilização para controle de infiltração."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md",
+      "id": "anexo6_lin124",
+      "antes": [],
+      "depois": [
+        "pgr",
+        "produto-perigoso"
+      ],
+      "evidencia": "a) em caso de armazenamento de produtos perigosos, tais como produtos tóxicos e inflamáveis, informar se existe Programa de Gerenciamento de Riscos Ambientais, conforme legislação vigente;",
+      "justificativa": "Exige informação sobre programa de riscos quando armazenados produtos perigosos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md",
+      "id": "anexo6_lin125",
+      "antes": [],
+      "depois": [
+        "passivo-ambiental"
+      ],
+      "evidencia": "b) informar se existe passivo ambiental na área do empreendimento e medidas que serão adotadas para a sua eliminação e/ou controle.",
+      "justificativa": "Exige informação de passivo e medidas de eliminação ou controle."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md",
+      "id": "anexo4_lin7",
+      "antes": [
+        "responsavel-legal"
+      ],
+      "depois": [],
+      "evidencia": "• Telefone do representante legal;",
+      "justificativa": "Telefone é campo de contato; não regra de responsabilidade legal."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md",
+      "id": "anexo4_lin8",
+      "antes": [
+        "responsavel-legal"
+      ],
+      "depois": [],
+      "evidencia": "• E-mail do representante legal;",
+      "justificativa": "E-mail é campo de contato; não regra de responsabilidade legal."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md",
+      "id": "anexo4_lin17",
+      "antes": [
+        "art-anotacao",
+        "responsavel-tecnico"
+      ],
+      "depois": [
+        "art-anotacao"
+      ],
+      "evidencia": "• Anotação de Responsabilidade Técnica – ART",
+      "justificativa": "Campo específico de ART, dispensável a segunda classificação por responsável."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md",
+      "id": "anexo4_lin34",
+      "antes": [
+        "corpo-hidrico",
+        "app"
+      ],
+      "depois": [
+        "nascente"
+      ],
+      "evidencia": "• Existência de nascentes e olhos d’água;",
+      "justificativa": "O item identifica nascentes e olhos de água; não delimita APP."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md",
+      "id": "anexo4_lin40",
+      "antes": [
+        "iphan",
+        "bem-cultural"
+      ],
+      "depois": [
+        "bem-cultural"
+      ],
+      "evidencia": "• Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;",
+      "justificativa": "Patrimônio arqueológico/histórico/artístico, sem exigência institucional relativa ao IPHAN."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md",
+      "id": "anexo4_lin61",
+      "antes": [
+        "movimentacao-solo",
+        "terraplanagem"
+      ],
+      "depois": [
+        "terraplanagem"
+      ],
+      "evidencia": "5.7. Movimentação de solo",
+      "justificativa": "Título e item seguinte tratam de projeto de terraplanagem; elimina a duplicata contextual movimentacao-solo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md",
+      "id": "anexo4_lin62",
+      "antes": [
+        "movimentacao-solo",
+        "terraplanagem"
+      ],
+      "depois": [
+        "terraplanagem"
+      ],
+      "evidencia": "Caso necessário, apresentar projeto de terraplenagem",
+      "justificativa": "Exigência condicional de projeto de terraplanagem; uma tag específica basta."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md",
+      "id": "anexo4_lin68",
+      "antes": [
+        "corpo-hidrico",
+        "distancia-minima"
+      ],
+      "depois": [
+        "corpo-hidrico"
+      ],
+      "evidencia": "• corpos da água e indicação da distância com relação a Unidade.",
+      "justificativa": "Solicita indicar distância; não fixa distância mínima ou critério de afastamento."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md",
+      "id": "anexo4_lin69",
+      "antes": [
+        "aglomerado-populacional",
+        "distancia-minima"
+      ],
+      "depois": [
+        "aglomerado-populacional"
+      ],
+      "evidencia": "• distância com relação à núcleos populacionais e residências isoladas.",
+      "justificativa": "Solicita indicar distância a núcleos; não fixa distância mínima."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md",
+      "id": "anexo4_lin73",
+      "antes": [
+        "vegetacao-nativa"
+      ],
+      "depois": [
+        "flora"
+      ],
+      "evidencia": "• indicação de demais áreas com presença de vegetação, se aplicável.",
+      "justificativa": "Solicita identificar presença de vegetação em geral; não restringe a nativa."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-32-2025-anexo3.md",
+      "id": "anexo3_lin12",
+      "antes": [
+        "porte",
+        "armazenamento-residuo"
+      ],
+      "depois": [
+        "armazenamento-residuo"
+      ],
+      "evidencia": "− Área destinada ao armazenamento dos resíduos;",
+      "justificativa": "Campo de área destinada ao armazenamento, não regra de enquadramento de porte."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-32-2025-anexo3.md",
+      "id": "anexo3_lin13",
+      "antes": [
+        "area-contaminada",
+        "passivo-ambiental"
+      ],
+      "depois": [
+        "uso-solo"
+      ],
+      "evidencia": "− Informações do uso atual e pretérito da área objeto do empreendimento;",
+      "justificativa": "Histórico de uso do terreno não afirma existência de contaminação ou passivo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-32-2025-anexo3.md",
+      "id": "anexo3_lin25",
+      "antes": [
+        "corpo-hidrico",
+        "distancia-minima"
+      ],
+      "depois": [
+        "corpo-hidrico"
+      ],
+      "evidencia": "− Distância dos corpos hídricos;",
+      "justificativa": "Solicita distância, não impõe um afastamento mínimo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-32-2025-anexo3.md",
+      "id": "anexo3_lin28",
+      "antes": [
+        "distancia-minima"
+      ],
+      "depois": [],
+      "evidencia": "− Casas isoladas;",
+      "justificativa": "Identificar casas no croqui não é regra de distância mínima."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-32-2025-anexo3.md",
+      "id": "anexo3_lin29",
+      "antes": [
+        "aglomerado-populacional",
+        "distancia-minima"
+      ],
+      "depois": [
+        "aglomerado-populacional"
+      ],
+      "evidencia": "− Núcleos populacionais;",
+      "justificativa": "Identificar núcleos no croqui não é regra de distância mínima."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md",
+      "id": "anexo11_lin2",
+      "antes": [],
+      "depois": [
+        "pca",
+        "esgotamento-sanitario"
+      ],
+      "evidencia": "TERMO DE REFERÊNCIA DE PLANO DE CONTROLE AMBIENTAL SIMPLIFICADO (PCA) PARA SISTEMA DE ESGOTAMENTO SANITÁRIO (SES)",
+      "justificativa": "Anexo sem tags diretas; define PCA simplificado para SES."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md",
+      "id": "anexo11_lin3",
+      "antes": [],
+      "depois": [
+        "art-anotacao"
+      ],
+      "evidencia": "O Plano de Controle Ambiental para SES deverá ser elaborado por técnico habilitado, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme dispõe a [[lei-federal-6496-1977|Lei nº 6.496/77]]].",
+      "justificativa": "Exige ART do técnico habilitado."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md",
+      "id": "anexo11_lin25",
+      "antes": [],
+      "depois": [
+        "outorga",
+        "lancamento"
+      ],
+      "evidencia": "f) Vazão outorgada de lançamento, em L/s;",
+      "justificativa": "Exige vazão outorgada para lançamento, referência essencial ao regime hídrico."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md",
+      "id": "anexo11_lin57",
+      "antes": [],
+      "depois": [
+        "app"
+      ],
+      "evidencia": "3.9 Existência de Áreas de Preservação Permanente;",
+      "justificativa": "Diagnóstico específico de APP."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md",
+      "id": "anexo11_lin58",
+      "antes": [],
+      "depois": [
+        "reserva-legal"
+      ],
+      "evidencia": "3.10 Ocorrência de Reserva Legal, seu estado de conservação e sua localização e distribuição; caso a Reserva Legal não tenha sido respeitada na área, indicar a área do imóvel que será destinada a Reserva Legal;",
+      "justificativa": "Diagnóstico e localização de Reserva Legal."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md",
+      "id": "anexo11_lin70",
+      "antes": [],
+      "depois": [
+        "tratamento-esgoto"
+      ],
+      "evidencia": "4.6. Da Estação de Tratamento de Esgoto. Apresentar os dados de projeto da Estação de Tratamento de Esgoto (ETE), observando a NBR 12209:",
+      "justificativa": "Seção de dados de projeto de ETE."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md",
+      "id": "anexo11_lin75",
+      "antes": [],
+      "depois": [
+        "lodo-esgoto"
+      ],
+      "evidencia": "− Gerenciamento do lodo gerado no tratamento (adensamento, estabilização, condicionamento, desaguamento, higienização e disposição final) e demais resíduos sólidos.",
+      "justificativa": "Exige gerenciamento do lodo gerado no tratamento."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md",
+      "id": "anexo11_lin95",
+      "antes": [],
+      "depois": [
+        "agua-pluvial"
+      ],
+      "evidencia": "c) Descrição dos dispositivos de drenagem pluvial.",
+      "justificativa": "Exige descrição da drenagem pluvial."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md",
+      "id": "anexo11_lin98",
+      "antes": [],
+      "depois": [
+        "gerenciamento-residuo"
+      ],
+      "evidencia": "b) Descrição das etapas de gerenciamento dos resíduos no local: segregação, coleta, acondicionamento, armazenamento, tratamento e destinação final;",
+      "justificativa": "Exige descrição das etapas de gerenciamento dos resíduos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md",
+      "id": "anexo11_lin101",
+      "antes": [],
+      "depois": [
+        "pgr"
+      ],
+      "evidencia": "a) Fornecer a relação de produtos químicos manuseados em sua atividade e respectivas quantidades estocadas. Caso haja na instalação substancias em quantidades superiores às apresentadas na [[portaria-iap-159-2015|Portaria IAP 159/2015]]], ou outra qu",
+      "justificativa": "Programa de riscos condicionado às quantidades de substâncias da Portaria 159/2015."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md",
+      "id": "anexo13_lin1",
+      "antes": [],
+      "depois": [
+        "pcpa",
+        "esgotamento-sanitario"
+      ],
+      "evidencia": "TERMO DE REFERÊNCIA PARA PROJETO DE CONTROLE DA POLUIÇÃO (PCPA) PARA SISTEMA DE ESGOTAMENTO SANITÁRIO (SES)",
+      "justificativa": "Identifica o projeto e o âmbito sanitário de anexo sem etiquetas diretas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md",
+      "id": "anexo13_lin2",
+      "antes": [],
+      "depois": [
+        "art-anotacao"
+      ],
+      "evidencia": "O Projeto de Controle da Poluição Ambiental para SES deverá ser elaborado por técnico habilitado, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme dispõe a [[lei-federal-6496-1977|Lei no 6.496/77]].",
+      "justificativa": "Exige ART para elaboração do projeto."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md",
+      "id": "anexo13_lin20",
+      "antes": [],
+      "depois": [
+        "vazao"
+      ],
+      "evidencia": "2.3 Apresentar a estimativa das populações (residente e flutuante) atendida (início de plano) e de alcance do projeto (fim de plano), e vazões correspondentes para tratamento, ano a ano, até a população e vazão de saturação de fim de plano.",
+      "justificativa": "Exige estimativa anual das vazões de tratamento."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md",
+      "id": "anexo13_lin23",
+      "antes": [],
+      "depois": [
+        "tratamento-esgoto"
+      ],
+      "evidencia": "2.6 Da Estação de Tratamento de Esgoto. Apresentar os dados de projeto da Estação de Tratamento de Esgoto (ETE), observando a NBR 12209;",
+      "justificativa": "Dados de projeto da ETE conforme NBR 12209."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md",
+      "id": "anexo13_lin28",
+      "antes": [],
+      "depois": [
+        "lodo-esgoto"
+      ],
+      "evidencia": "− Gerenciamento do lodo gerado no tratamento (adensamento, estabilização, condicionamento, desaguamento, higienização e disposição final) e demais resíduos sólidos.",
+      "justificativa": "Gerenciamento do lodo gerado no tratamento de esgoto, com etapas e disposição final."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md",
+      "id": "anexo13_lin46",
+      "antes": [],
+      "depois": [
+        "tratamento-efluente"
+      ],
+      "evidencia": "b) Descrição do sistema de tratamento adotado para os efluentes líquidos gerados na implantação e operação do empreendimento, acompanhado de dimensionamento das unidades que compõem o sistema;",
+      "justificativa": "Exige descrição e dimensionamento do tratamento de efluentes."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md",
+      "id": "anexo13_lin47",
+      "antes": [],
+      "depois": [
+        "agua-pluvial"
+      ],
+      "evidencia": "c) Descrição dos dispositivos de drenagem pluvial.",
+      "justificativa": "Exige descrição dos dispositivos de drenagem pluvial."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md",
+      "id": "anexo13_lin50",
+      "antes": [],
+      "depois": [
+        "gerenciamento-residuo"
+      ],
+      "evidencia": "b) Descrição das etapas de gerenciamento dos resíduos no local: segregação, coleta, acondicionamento, armazenamento, tratamento e destinação final;",
+      "justificativa": "Exige descrição das etapas de gerenciamento de resíduos, sem multiplicar tags por etapa."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md",
+      "id": "anexo13_lin51",
+      "antes": [],
+      "depois": [
+        "armazenamento-residuo"
+      ],
+      "evidencia": "c) Descrição das áreas de armazenamento temporário de resíduos, de acordo com as ABNT e NBR 11174 e 12235.",
+      "justificativa": "Especifica áreas de armazenamento temporário de resíduos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md",
+      "id": "anexo13_lin53",
+      "antes": [],
+      "depois": [
+        "pgr"
+      ],
+      "evidencia": "a) Fornecer a relação de produtos químicos manuseados em sua atividade e respectivas quantidades estocadas. Caso haja na instalação substancias em quantidades superiores às apresentadas na [[portaria-iap-159-2015|Portaria IAP 159/2015]], ou",
+      "justificativa": "Exige PGR condicionado às quantidades da Portaria 159/2015."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md",
+      "id": "anexo13_lin58",
+      "antes": [],
+      "depois": [
+        "impacto-ambiental",
+        "medida-mitigadora"
+      ],
+      "evidencia": "Identificar os principais impactos que poderão ocorrer em função das diversas ações previstas para a implantação e operação do empreendimento: conflitos de uso do solo e da água, interferência na infraestrutura e paisagem existente, interfe",
+      "justificativa": "Avaliação de impactos e respectivas medidas de mitigação/compensação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo5.md",
+      "id": "anexo5_lin1",
+      "antes": [],
+      "depois": [
+        "lodo-esgoto",
+        "art-anotacao"
+      ],
+      "evidencia": "O Plano de Gerenciamento de Utilização Agrícola de Lodo de Esgoto, deverá ser elaborado por técnico habilitado e apresentado para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, confo",
+      "justificativa": "Plano específico de utilização agrícola de lodo de esgoto, acompanhado de ART."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo5.md",
+      "id": "anexo5_lin11",
+      "antes": [],
+      "depois": [
+        "armazenamento-residuo"
+      ],
+      "evidencia": "• Descrição da Área de Armazenamento de Lodo de Esgoto",
+      "justificativa": "Descreve armazenamento do lodo de esgoto."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo5.md",
+      "id": "anexo5_lin14",
+      "antes": [],
+      "depois": [
+        "caracterizacao-agronomica"
+      ],
+      "evidencia": "2.2. CARACTERÍSTICAS AGRONÔMICAS",
+      "justificativa": "Seção exige características agronômicas do lodo higienizado."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo5.md",
+      "id": "anexo5_lin30",
+      "antes": [],
+      "depois": [
+        "lodo-esgoto"
+      ],
+      "evidencia": "4.2. RESTRIÇÕES E USOS POTENCIAIS DO LODO DE ESGOTO NA AGRICULTURA",
+      "justificativa": "Restrições e usos agrícolas potenciais do lodo; não confundir com uso agrícola de efluente líquido."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo5.md",
+      "id": "anexo5_lin39",
+      "antes": [],
+      "depois": [
+        "analise-solo",
+        "amostragem"
+      ],
+      "evidencia": "5.3. AMOSTRAGEM E ANÁLISE DE SOLO",
+      "justificativa": "Exige amostragem e análise de solo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo5.md",
+      "id": "anexo5_lin40",
+      "antes": [],
+      "depois": [
+        "taxa-aplicacao"
+      ],
+      "evidencia": "5.4. TAXA DE APLICAÇÃO DE LODO E ADUBAÇÃO COMPLEMENTAR",
+      "justificativa": "Recomendação deve tratar da taxa de aplicação de lodo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo5.md",
+      "id": "anexo5_lin41",
+      "antes": [],
+      "depois": [
+        "conservacao-solo"
+      ],
+      "evidencia": "5.5. PRÁTICAS DE MANEJO E CONSERVAÇÃO DO SOLO",
+      "justificativa": "Práticas de manejo e conservação do solo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo5.md",
+      "id": "anexo5_lin45",
+      "antes": [],
+      "depois": [
+        "monitoramento"
+      ],
+      "evidencia": "6.1. MONITORAMENTO AMBIENTAL",
+      "justificativa": "Monitoramento ambiental no plano de uso agrícola."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo5.md",
+      "id": "anexo5_lin47",
+      "antes": [],
+      "depois": [
+        "metal-pesado"
+      ],
+      "evidencia": "• Monitoramento do Acúmulo de Metais Pesados",
+      "justificativa": "Exige monitoramento do acúmulo de metais pesados."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md",
+      "id": "anexo10_lin1",
+      "antes": [],
+      "depois": [
+        "rap"
+      ],
+      "evidencia": "O presente Termo de Referência tem o objetivo de determinar a abrangência, os procedimentos e os critérios mínimos para a elaboração do Relatório Ambiental Preliminar (RAP), instrumentos que subsidiarão o licenciamento ambiental para a ativ",
+      "justificativa": "Identifica a abrangência e os critérios do RAP sem tags diretas anteriores."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md",
+      "id": "anexo10_lin2",
+      "antes": [],
+      "depois": [
+        "diagnostico-ambiental"
+      ],
+      "evidencia": "O RAP deve abordar a interação entre elementos dos meios físico, biológico e sócio-econômico, buscando a elaboração de um diagnóstico integrado da área de influência do empreendimento. O RAP deve possibilitar a avaliação dos impactos result",
+      "justificativa": "Determina diagnóstico integrado da área de influência."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md",
+      "id": "anexo10_lin34",
+      "antes": [],
+      "depois": [
+        "viabilidade-locacional"
+      ],
+      "evidencia": "Descrever as alternativas locacionais estudadas, as potenciais interferências e as magnitudes dos impactos ambientais para os meios físico, biótico e socioeconômico, vinculados a cada alternativa, com consequente justificativa a está relaci",
+      "justificativa": "Exige comparação das alternativas locacionais e justificativa."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md",
+      "id": "anexo10_lin53",
+      "antes": [],
+      "depois": [
+        "efluente"
+      ],
+      "evidencia": "2.7. Informar quais as possíveis formas de disposição final do efluente a ser gerado pela implantação e operação do empreendimento (rede pública de coleta, lançamento em rede de drenagem, lançamento em corpo receptor, infiltração em solo, e",
+      "justificativa": "Exige informação das formas de disposição dos efluentes."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md",
+      "id": "anexo10_lin66",
+      "antes": [],
+      "depois": [
+        "agua-subterranea"
+      ],
+      "evidencia": "3.4. Potencialidades de uso das águas subterrâneas (no caso da existência de poços, informar o número, a vazão e a profundidade). Indicação dos tipos de uso da água existentes a montante e a jusante do imóvel e, quando possível, os previsto",
+      "justificativa": "Diagnóstico de potencialidades, poços, vazão e usos da água subterrânea."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md",
+      "id": "anexo10_lin76",
+      "antes": [],
+      "depois": [
+        "app"
+      ],
+      "evidencia": "3.9. Existência de vegetação de preservação permanente e seu estado de conservação; indicar a localização das APP's.",
+      "justificativa": "Requisito específico de localização e conservação de APP."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md",
+      "id": "anexo10_lin77",
+      "antes": [],
+      "depois": [
+        "reserva-legal"
+      ],
+      "evidencia": "3.10. Ocorrência de Reserva Legal, seu estado de conservação e sua localização e distribuição; caso a Reserva Legal não tenha sido respeitada na área, indicar a área do imóvel que será destinada a Reserva Legal.",
+      "justificativa": "Requisito específico de localização, distribuição e recomposição da Reserva Legal."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md",
+      "id": "anexo10_lin78",
+      "antes": [],
+      "depois": [
+        "fauna"
+      ],
+      "evidencia": "3.11. Caracterização da fauna local, com indicação das espécies de animais predominantes, inclusive ictiofauna, e potencial de utilização; ressaltar espécies endêmicas, espécies predadoras e as que estão com risco de extinção.",
+      "justificativa": "Caracterização da fauna, com endemismo e espécies ameaçadas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md",
+      "id": "anexo10_lin79",
+      "antes": [],
+      "depois": [
+        "bem-cultural"
+      ],
+      "evidencia": "3.12. Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada. Verificando-se indícios de vestígios, deverá ser apresentado junto com a documentação o protocolo de entrega no IPHAN, do relatório de caracterização e av",
+      "justificativa": "Vestígios arqueológicos/históricos/artísticos desencadeiam apresentação de protocolo ao IPHAN."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md",
+      "id": "anexo10_lin81",
+      "antes": [],
+      "depois": [
+        "unidade-conservacao"
+      ],
+      "evidencia": "3.14. Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais no entorno da área do empreendimento, bem como outras áreas naturais protegidas, informando a distância e se a possível instalação pret",
+      "justificativa": "Verificação de UC no entorno e compatibilidade com suas normas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md",
+      "id": "anexo10_lin83",
+      "antes": [],
+      "depois": [
+        "impacto-ambiental",
+        "medida-mitigadora"
+      ],
+      "evidencia": "Identificar os principais impactos que poderão ocorrer em função das diversas ações previstas para o planejamento, a implantação e a operação do empreendimento, atividade ou obra, contemplando no mínimo os impactos abaixo. Para cada impacto",
+      "justificativa": "Identifica impactos e medidas correspondentes no RAP."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md",
+      "id": "anexo10_lin96",
+      "antes": [],
+      "depois": [
+        "passivo-ambiental",
+        "recuperacao-ambiental"
+      ],
+      "evidencia": "4.13. Em caso de passivos ambientais verificados, apresentar propostas de recuperação e ou mitigação.",
+      "justificativa": "Se constatado passivo, exige propostas de recuperação/mitigação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-41-2025-anexo10.md",
+      "id": "anexo10_lin6",
+      "antes": [
+        "responsavel-tecnico"
+      ],
+      "depois": [
+        "conselho-classe"
+      ],
+      "evidencia": "CREA:",
+      "justificativa": "O campo CREA identifica o registro no conselho, não uma nova indicação do responsável."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-41-2025-anexo10.md",
+      "id": "anexo10_lin11",
+      "antes": [
+        "ampliacao"
+      ],
+      "depois": [
+        "area-construida"
+      ],
+      "evidencia": "Área Total Construída: Área em m² total e/ou ampliações",
+      "justificativa": "Campo mede área total construída e/ou ampliada; tag ampliacao sozinha estreitava o objeto."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-41-2025-anexo7.md",
+      "id": "anexo7_lin1",
+      "antes": [
+        "art-anotacao"
+      ],
+      "depois": [
+        "pca",
+        "art-anotacao"
+      ],
+      "evidencia": "O Projeto de Controle de Poluição Ambiental deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.",
+      "justificativa": "Inclui a identificação do estudo exigido no corpo da norma-mãe, anteriormente só no frontmatter."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-41-2025-anexo7.md",
+      "id": "anexo7_lin14",
+      "antes": [
+        "ampliacao"
+      ],
+      "depois": [],
+      "evidencia": "3. SITUAÇÃO DO EMPREENDIMENTO",
+      "justificativa": "Título geral situação do empreendimento abrange obra nova/reforma/ampliação; tag de ampliação já está no requisito específico da linha 16."
+    },
+    {
+      "arquivo": "normas/anexos/resolucao-conama-411-2009-anexo4.md",
+      "id": "anexo4_lin4",
+      "antes": [],
+      "depois": [
+        "coeficiente-rendimento",
+        "laminacao"
+      ],
+      "evidencia": "Apresentar roteiro para a realização de estudos técnico-científicos com vistas a alteração do coeficiente de rendimento volumétrico determinado pela presente Resolução, para a transformação de tora comercial em madeira laminada (lâminas).",
+      "justificativa": "Objeto do estudo é alteração do CRV de tora em madeira laminada."
+    },
+    {
+      "arquivo": "normas/anexos/resolucao-conama-411-2009-anexo4.md",
+      "id": "anexo4_lin14",
+      "antes": [],
+      "depois": [
+        "ibama"
+      ],
+      "evidencia": "3.1.1.5 Registro no IBAMA",
+      "justificativa": "Exige registro no IBAMA; sem presumir o tipo de cadastro não nomeado no original."
+    },
+    {
+      "arquivo": "normas/anexos/resolucao-conama-411-2009-anexo4.md",
+      "id": "anexo4_lin21",
+      "antes": [],
+      "depois": [
+        "amostragem"
+      ],
+      "evidencia": "3.2 A amostragem de toras/toretes para o estudo Justificar as espécies incluídas no estudo. A amostragem das toras/toretes para o estudo deve ser feita por espécie, de acordo com o método de amostragem aleatória simples.",
+      "justificativa": "Determina amostragem aleatória simples por espécie."
+    },
+    {
+      "arquivo": "normas/anexos/resolucao-conama-411-2009-anexo4.md",
+      "id": "anexo4_lin30",
+      "antes": [],
+      "depois": [
+        "cubagem"
+      ],
+      "evidencia": "O volume das toras deve ser determinado pelo método geométrico, ou seja, utilizando a equação de Smalian. Deverão ser utilizados para o cálculo a média dos diâmetros cruzados e a média dos comprimentos.",
+      "justificativa": "Método geométrico de Smalian para cálculo do volume da tora."
+    },
+    {
+      "arquivo": "normas/anexos/resolucao-conama-411-2009-anexo4.md",
+      "id": "anexo4_lin59",
+      "antes": [],
+      "depois": [
+        "coeficiente-rendimento"
+      ],
+      "evidencia": "O CRV é determinado pela relação entre o volume da tora processada e o volume obtido de lâminas, acrescido, quando for o caso, do volume obtido com produtos de aproveitamento, desde que devidamente comercializados. Deverá ser determinado po",
+      "justificativa": "Fórmula e agregação por espécie do CRV."
+    },
+    {
+      "arquivo": "normas/anexos/resolucao-conama-411-2009-anexo4.md",
+      "id": "anexo4_lin64",
+      "antes": [],
+      "depois": [
+        "amostragem"
+      ],
+      "evidencia": "Para que o CRV determinado seja representativo da espécie e respectivo produto, deverá ser determinado o tamanho ideal da amostra, admitindo-se um erro amostral de 10%. O número de toras estudado deve ser sempre igual ou superior ao número ",
+      "justificativa": "Tamanho ideal da amostra e erro de 10%."
+    },
+    {
+      "arquivo": "normas/anexos/resolucao-conama-411-2009-anexo4.md",
+      "id": "anexo4_lin68",
+      "antes": [],
+      "depois": [
+        "responsavel-tecnico",
+        "art-anotacao"
+      ],
+      "evidencia": "O estudo técnico-científico deverá ser assinado por profissional legalmente habilitado com devida anotação de responsabilidade técnica e representante legal da empresa.",
+      "justificativa": "Assinatura por habilitado com ART e representante legal."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin1",
+      "antes": [],
+      "depois": [
+        "pcpa"
+      ],
+      "evidencia": "A. PROJETO DE CONTROLE DE POLUIÇÃO AMBIENTAL",
+      "justificativa": "Identifica o projeto, anteriormente apenas no frontmatter."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin2",
+      "antes": [],
+      "depois": [
+        "art-anotacao"
+      ],
+      "evidencia": "O Projeto de Controle de Poluição Ambiental deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.",
+      "justificativa": "Determina acompanhamento de ART na elaboração do projeto."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin39",
+      "antes": [],
+      "depois": [
+        "app"
+      ],
+      "evidencia": "b. Áreas de preservação permanente;",
+      "justificativa": "Croqui deve localizar APP."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin65",
+      "antes": [],
+      "depois": [
+        "esgoto-sanitario"
+      ],
+      "evidencia": "a. Quando for previsto qualquer sistema de tratamento aplica-se o disposto no item II - 1, além de ser necessário informar a disposição final adotada para os esgotos sanitários.",
+      "justificativa": "Tratamento e disposição final de esgotos sanitários da indústria."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin82",
+      "antes": [],
+      "depois": [
+        "lancamento"
+      ],
+      "evidencia": "c. No caso do efluente ser lançado em regime descontínuo ou em batelada, deverá ser prevista a implantação de pelo menos um tanque pulmão, para posterior lançamento no corpo hídrico, em regime de vazão constante, a qual deverá atender os cr",
+      "justificativa": "Tanque pulmão e vazão constante para lançamento de efluente descontínuo; preservada remissão original."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin95",
+      "antes": [],
+      "depois": [
+        "padrao-emissao",
+        "automonitoramento"
+      ],
+      "evidencia": "a. Especificar o enquadramento de cada processo e fonte de emissão atmosférica, em conformidade com o disposto na Resolução SEDEST 02/2025, ou outra que venha substituí-la. O enquadramento deverá contemplar a origem da emissão, padrões a se",
+      "justificativa": "Determina limites, parâmetros e frequência de automonitoramento das emissões."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin98",
+      "antes": [],
+      "depois": [
+        "residuo-industrial"
+      ],
+      "evidencia": "a. Apresentar relação completa dos resíduos sólidos industriais, indicando no mínimo: (i) código IBAMA, (ii) Resíduos Específico, (iii) Origem do resíduo, (iv) Quantificação diária estimada, (v) Tratamento e destinação final.",
+      "justificativa": "Inventário qualitativo e quantitativo dos resíduos industriais."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin100",
+      "antes": [],
+      "depois": [
+        "pgr"
+      ],
+      "evidencia": "a. Em caso de armazenamento de produtos perigosos, tais como produtos tóxicos, inflamáveis, informar se existe Programa de Gerenciamento de Riscos Ambientais.",
+      "justificativa": "Exige informar PGR em caso de armazenamento de produtos perigosos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin101",
+      "antes": [],
+      "depois": [
+        "passivo-ambiental"
+      ],
+      "evidencia": "b. Informar se existe passivo ambiental na área do empreendimento e medidas que estão sendo adotadas para sua eliminação e/ou controle.",
+      "justificativa": "Exige informação sobre passivos e medidas para eliminação/controle."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin105",
+      "antes": [],
+      "depois": [
+        "tratamento-esgoto"
+      ],
+      "evidencia": "a. Apresentar o dimensionamento completo e detalhado de todas as unidades de tratamento de esgoto sanitário, especificando todos os parâmetros usados e necessários à sua compreensão. O dimensionamento deve ser feito rigorosamente de acordo ",
+      "justificativa": "Dimensionamento completo do sistema de tratamento sanitário."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin111",
+      "antes": [],
+      "depois": [
+        "tratamento-efluente"
+      ],
+      "evidencia": "a. Os sistemas de tratamento propostos devem ser suficientemente descritos, com anexação de fluxogramas detalhados, onde constem todos os processos e operações empregadas.",
+      "justificativa": "Descrição dos sistemas de tratamento industrial com fluxogramas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin116",
+      "antes": [],
+      "depois": [
+        "vazao"
+      ],
+      "evidencia": "b. Os canais ou tubulações de entrada ao sistema de tratamento, de recirculações e de lançamento final devem ser providos de sistemas de medição de vazão;",
+      "justificativa": "Exige sistemas de medição nas entradas, recirculações e lançamento."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin121",
+      "antes": [],
+      "depois": [
+        "frequencia-monitoramento"
+      ],
+      "evidencia": "a. Devem ser indicados todos os controles a serem efetuados e a frequência necessária, visando garantir o rendimento esperado;",
+      "justificativa": "Exige controles e frequência para garantir rendimento do tratamento."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin127",
+      "antes": [],
+      "depois": [
+        "padrao-emissao",
+        "qualidade-ar"
+      ],
+      "evidencia": "Deverão ser especificadas as medidas a serem tomadas para atender os padrões de emissão e de condicionamento e os padrões de qualidade do ar no entorno, ambos estabelecidos na Resolução SEDEST 02/2025, ou outra que venha substituí-la, conte",
+      "justificativa": "Distingue padrões de emissão dos padrões de qualidade no entorno."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin143",
+      "antes": [],
+      "depois": [
+        "disposicao-solo"
+      ],
+      "evidencia": "ii. No caso específico de disposição de resíduos sólidos no solo, aplica\u0002se o disposto no item 5.",
+      "justificativa": "Remete às exigências de disposição de resíduos sólidos no solo, sem confundir com lançamento hídrico."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin148",
+      "antes": [],
+      "depois": [
+        "caracterizacao-agronomica"
+      ],
+      "evidencia": "a. Caracterização agronômica do efluente:",
+      "justificativa": "Caracterização agronômica do efluente para uso no solo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin168",
+      "antes": [],
+      "depois": [
+        "substancia-inorganica"
+      ],
+      "evidencia": "ii. A determinação das substâncias inorgânicas do poderá ser dispensada desde que seja devidamente comprovada a ausência das mesmas pela origem dos resíduos tratados. Para a caracterização química do efluente, deverão ser determinadas as su",
+      "justificativa": "Exceção à determinação de substâncias inorgânicas condicionada à comprovação de ausência; não é dispensa de licença."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin183",
+      "antes": [],
+      "depois": [
+        "patogeno"
+      ],
+      "evidencia": "iii. Para a caracterização do efluente quanto à presença de agentes patogênicos e indicadores bacteriológicos, deverão ser determinadas, e as concentrações de:",
+      "justificativa": "Determinação de agentes patogênicos e indicadores bacteriológicos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin196",
+      "antes": [],
+      "depois": [
+        "classe-risco-solo"
+      ],
+      "evidencia": "o CLASSE IV - Terras de alto risco ambiental – são terras com um ou mais fatores com grau de risco forte. Disposição final de efluente do solo somente em culturas perenes;",
+      "justificativa": "Classe IV restringe a disposição a culturas perenes."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin197",
+      "antes": [],
+      "depois": [
+        "classe-risco-solo"
+      ],
+      "evidencia": "o CLASSE V - Terras inaptas – são terras com um ou mais fatores com grau de risco muito forte. Inaptas para disposição final de efluente no solo.",
+      "justificativa": "Classe V é inapta à disposição de efluentes no solo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin204",
+      "antes": [],
+      "depois": [
+        "analise-solo"
+      ],
+      "evidencia": "iii. Análise química do solo: deverá contemplar, minimamente, os valores de matéria orgânica (percentual de carbono), nitrogênio, fósforo, potássio, cálcio, magnésio, sódio, hidrogênio (H+), alumínio (Al+3), CTC efetiva e CTC total (T), pH,",
+      "justificativa": "Relação mínima de parâmetros da análise química do solo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin210",
+      "antes": [],
+      "depois": [
+        "taxa-aplicacao"
+      ],
+      "evidencia": "• Taxa: recomendação técnica utilizando a demanda da cultura com base no Manual de Adubação e Calagem para o Estado do Paraná (2019) e os índices de precipitação do local, de forma que haja a aplicação considerando o nutriente limitante no ",
+      "justificativa": "Taxa depende da cultura, precipitação e nutriente limitante."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin212",
+      "antes": [],
+      "depois": [
+        "frequencia-monitoramento",
+        "amostragem"
+      ],
+      "evidencia": "• Frequência de monitoramento da área de aplicação: apresentar plano de amostragem de solo (número de pontos por talhão), que represente significância estatística, bem como os parâmetros a serem monitorados para fins de controle.",
+      "justificativa": "Plano de amostragem de solo e frequência de controle da área de aplicação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin240",
+      "antes": [],
+      "depois": [
+        "art-anotacao"
+      ],
+      "evidencia": "Anotação de Responsabilidade Técnica emitida pelo conselho de classe competente.",
+      "justificativa": "Exigência expressa de ART emitida pelo conselho competente."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin242",
+      "antes": [],
+      "depois": [
+        "terraplanagem"
+      ],
+      "evidencia": "O Projeto de Terraplanagem deverá apresentar, de forma detalhada, as operações de movimentação de solo a serem executadas para implantação do empreendimento.",
+      "justificativa": "Define conteúdo detalhado do projeto de movimentação do solo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin273",
+      "antes": [],
+      "depois": [
+        "licenca-ambiental"
+      ],
+      "evidencia": "g. Indicar a localização da área de bota-fora ou empréstimo, que deve ser devidamente licenciada, apresentando endereço completo e licença ambiental do local/empreendimento;",
+      "justificativa": "Área de bota-fora/empréstimo deve estar licenciada e a licença deve ser apresentada."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin274",
+      "antes": [],
+      "depois": [
+        "contencao",
+        "drenagem"
+      ],
+      "evidencia": "h. Detalhar as estruturas de contenção e drenagem que se fizerem necessárias a serem implantadas para garantir a estabilidade da obra, bem como para evitar quaisquer danos ou interferências tais como infiltrações, alagamentos e deslizamento",
+      "justificativa": "Estruturas de estabilidade e drenagem; ausência exige justificativa técnica."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin279",
+      "antes": [],
+      "depois": [
+        "supressao-vegetacao"
+      ],
+      "evidencia": "b. Deverão ser preservadas todas as árvores cujo corte não tenha sido autorizado;",
+      "justificativa": "Preservar árvores cujo corte não tenha sido autorizado; classificação do assunto não é autorização."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin281",
+      "antes": [],
+      "depois": [
+        "destinacao-final"
+      ],
+      "evidencia": "d. Os resíduos excedentes da terraplanagem deverão ser destinados a local com aterro licenciado.",
+      "justificativa": "Resíduos da terraplanagem devem ir para aterro licenciado."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin283",
+      "antes": [],
+      "depois": [
+        "art-anotacao"
+      ],
+      "evidencia": "Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos e projetos apresentados, bem como da execução dos trabalhos, junto aos respectivos conselhos de classe.",
+      "justificativa": "ART cobre elaboração de estudos/projetos e execução dos trabalhos."
+    }
+  ],
+  "metodo_retomada": "Leitura integral dos oito textos normativos restantes, incluindo linhas de tabelas, ementas das normas-mãe e suas remissões. Nove anexos anteriores preservados conforme registro da primeira sessão. Sínteses não são texto normativo e não foram usadas como fonte de novas obrigações.",
+  "mantidos_sem_alteracao": [
+    {
+      "arquivo": "normas/anexos/resolucao-conama-411-2009-anexo5.md",
+      "motivo": "As cinco tags diretas correspondem a registro no IBAMA, cubagem, cálculo de CRV e assinatura/ART. Texto original histórico mantido, sem ampliar marcação para não induzir vigência atual."
+    }
+  ],
+  "pendencias": [
+    {
+      "arquivo": "normas/anexos/resolucao-conama-411-2009-anexo5.md",
+      "motivo": "Aviso editorial relata revogação dos Anexos V/VI e art. 6º, § 3º pela Res. 474/2016, ausente do acervo; metadados de vigência ainda não isolam esse anexo. Não usar como fundamento atual sem conferência. Não alterados controles nesta revisão."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md",
+      "id": "anexo9_lin82",
+      "motivo": "Remissão literal ao art. 34 da CONAMA 357/2005, tratado no acervo como revogado; preservada por fidelidade. Exige revisão jurídica das referências antes da consulta normativa."
+    }
+  ]
+}

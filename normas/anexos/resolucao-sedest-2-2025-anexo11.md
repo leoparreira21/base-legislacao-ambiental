@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: REAT
 atividades: [fonte-fixa-emissao-atmosferica]
 modalidades: [lo, lor, rlo, las, lasr, rlas]
-tags: [automonitoramento, reat, dea, emissao-atmosferica, fonte-fixa, fonte-fugitiva, monitoramento-continuo, monitoramento-entorno, oxigenio-referencial, chamine, amostragem, laboratorio, ccl, art-anotacao]
+tags: [amostragem, art-anotacao, automonitoramento, emissao-atmosferica, laboratorio, material-particulado, monitoramento-continuo, oxigenio-referencia, padrao-emissao]
 fonte: PDF assinado da Resolução SEDEST nº 02/2025 (com anexos), páginas 121 a 131
 ---
 
@@ -19,7 +19,7 @@ fonte: PDF assinado da Resolução SEDEST nº 02/2025 (com anexos), páginas 121
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo XI, linha 1** {#anexo11_lin1} Os relatórios simplificados de Automonitoramento de Emissões Atmosféricas, deverão ser elaborados e cadastrados no Sistema de Declaração de Emissões Atmosféricas – DEA. Deve acompanhar o relatório a Anotação de Responsabilidade Técnica – ART, Certificado de Responsabilidade Técnica ou documento similar, contendo a descrição precisa da atividade e do tipo de serviço prestado.
+- **Anexo XI, linha 1** {#anexo11_lin1} #automonitoramento #emissao-atmosferica #art-anotacao Os relatórios simplificados de Automonitoramento de Emissões Atmosféricas, deverão ser elaborados e cadastrados no Sistema de Declaração de Emissões Atmosféricas – DEA. Deve acompanhar o relatório a Anotação de Responsabilidade Técnica – ART, Certificado de Responsabilidade Técnica ou documento similar, contendo a descrição precisa da atividade e do tipo de serviço prestado.
 - **Anexo XI, linha 2** {#anexo11_lin2} A estrutura do Relatório Simplificado de Automonitoramento em PDF a ser anexado no DEA, deve ter os seguintes itens:
 - **Anexo XI, linha 3** {#anexo11_lin3} 1. INFORMAÇÕES CADASTRAIS
 
@@ -60,7 +60,7 @@ fonte: PDF assinado da Resolução SEDEST nº 02/2025 (com anexos), páginas 121
 - **Anexo XI, Tabela 2, linha 4** {#anexo11_tab2_lin4} Campo: Tipo de fonte | Orientação: Fugitiva ou pontual
 - **Anexo XI, Tabela 2, linha 5** {#anexo11_tab2_lin5} Campo: Comentário sobre o processo | Orientação: Resumo do processo.
 - **Anexo XI, Tabela 2, linha 6** {#anexo11_tab2_lin6} Campo: Enquadramento do processo | Orientação: Conforme critérios estabelecidos nesta resolução.
-- **Anexo XI, Tabela 2, linha 7** {#anexo11_tab2_lin7} Campo: Padrões de emissão ou de condicionamento | Orientação: Relacionar os padrões de emissão ou de condicionamento a serem atendidos ou limites, mais restritivos, estabelecidos na licença. Incluir concentração referencial de oxigênio quando couber.
+- **Anexo XI, Tabela 2, linha 7** {#anexo11_tab2_lin7} #padrao-emissao Campo: Padrões de emissão ou de condicionamento | Orientação: Relacionar os padrões de emissão ou de condicionamento a serem atendidos ou limites, mais restritivos, estabelecidos na licença. Incluir concentração referencial de oxigênio quando couber.
 - **Anexo XI, Tabela 2, linha 8** {#anexo11_tab2_lin8} Campo: Produção típica ou condição típica de operação | Orientação: Condição de operação da fonte geradora de emissão que prevalece na maioria das horas operadas.
 - **Anexo XI, Tabela 2, linha 9** {#anexo11_tab2_lin9} Campo: Frequência de amostragem | Orientação: Conforme estabelecido nesta resolução.
 - **Anexo XI, Tabela 2, linha 10** {#anexo11_tab2_lin10} Campo: Altura da chaminé | Orientação: Altura em metros, a partir do solo
@@ -103,7 +103,7 @@ fonte: PDF assinado da Resolução SEDEST nº 02/2025 (com anexos), páginas 121
 - **Anexo XI, Tabela 3, linha 18** {#anexo11_tab3_lin18} Seção: MEDIÇÃO | Parâmetros monitorados: Emissão anual (ton/ano) | MP total: (em branco no original) | SO<sub>X</sub>: (em branco no original) | CO: (em branco no original) | NO<sub>X</sub>: (em branco no original) | O<sub>2</sub> (%): (em branco no original) | Outros: (em branco no original)
 - **Anexo XI, Tabela 3, linha 19** {#anexo11_tab3_lin19} Seção: MEDIÇÃO | Campo: Observações | Orientação: Condições de operação durante a amostragem e outras informações pertinentes
 
-- **Anexo XI, linha 12** {#anexo11_lin12} 4.1.2. Informações sobre o monitoramento continuo
+- **Anexo XI, linha 12** {#anexo11_lin12} #monitoramento-continuo 4.1.2. Informações sobre o monitoramento continuo
 
 **Anexo XI, Tabela 4** {#anexo11_tab4} Formulário de resultados do monitoramento contínuo, por fonte (sem título no original)
 
@@ -149,7 +149,7 @@ fonte: PDF assinado da Resolução SEDEST nº 02/2025 (com anexos), páginas 121
 
 - **Anexo XI, linha 14** {#anexo11_lin14} 4.2. INFORMAÇÕES MÍNIMAS
 - **Anexo XI, linha 15** {#anexo11_lin15} Os relatórios de medições de emissões atmosféricas devem apresentar as seguintes informações:
-- **Anexo XI, linha 16** {#anexo11_lin16} - Metodologia de amostragem e análise, indicando as normas e metodologias empregadas para a determinação de cada poluente, de acordo com as constantes do anexo da desta Resolução;
+- **Anexo XI, linha 16** {#anexo11_lin16} #amostragem - Metodologia de amostragem e análise, indicando as normas e metodologias empregadas para a determinação de cada poluente, de acordo com as constantes do anexo da desta Resolução;
 - **Anexo XI, linha 17** {#anexo11_lin17} - Condições de amostragem fora do previsto pela norma devem ser comentadas e justificadas;
 - **Anexo XI, linha 18** {#anexo11_lin18} - Descrição detalhada do ponto de amostragem, inclusive da estrutura necessária para a realização da amostragem e/ou determinação direta de poluentes com coordenadas geográficas e registro fotográfico;
 - **Anexo XI, linha 19** {#anexo11_lin19} - No caso de monitoramento no entorno apresentar também desenho com detalhamento das distâncias entre o equipamento de monitoramento e fontes dos processos avaliados, de outras fontes interferentes, indicação da direção do vento predominante e nos dias de amostragem;
@@ -159,17 +159,17 @@ fonte: PDF assinado da Resolução SEDEST nº 02/2025 (com anexos), páginas 121
 - **Anexo XI, linha 23** {#anexo11_lin23} 6. CÓPIA DOS EXTRATOS DAS MEDIÇÕES EM CAMPO
 - **Anexo XI, linha 24** {#anexo11_lin24} Apresentação da cópia dos extratos das medições realizadas em campo com indicação dos pontos de amostragem em conformidade com os dados de identificação da fonte monirorada.
 - **Anexo XI, linha 25** {#anexo11_lin25} 7. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA – ART
-- **Anexo XI, linha 26** {#anexo11_lin26} Apresentação de Anotação de Responsabilidade Técnica – ART, Certificado de Atividade Técnica, ou documento similar, contendo a descrição precisa da atividade e do tipo de serviço prestado, com validade de no máximo um1 ano;
+- **Anexo XI, linha 26** {#anexo11_lin26} #art-anotacao Apresentação de Anotação de Responsabilidade Técnica – ART, Certificado de Atividade Técnica, ou documento similar, contendo a descrição precisa da atividade e do tipo de serviço prestado, com validade de no máximo um1 ano;
 - **Anexo XI, linha 27** {#anexo11_lin27} 8. CERTIFICADO DE CALIBRAÇÃO DOS EQUIPAMENTOS
 - **Anexo XI, linha 28** {#anexo11_lin28} Cópia dos certificados de calibração dos equipamentos.
 - **Anexo XI, linha 29** {#anexo11_lin29} 9. CERTIFICADO DE CADASTRAMENTO DE LABORATÓRIOS – CCL
-- **Anexo XI, linha 30** {#anexo11_lin30} Apresentação de cópia do Certificado de Cadastramento de Laboratórios – CCL de todos os empreendimentos e laboratórios envolvidos na cadeia de custódia das análises em conformidade com a [[resolucao-cema-100-2017|Resolução CEMA nº 100, de 30 de junho de 2017]].
+- **Anexo XI, linha 30** {#anexo11_lin30} #laboratorio Apresentação de cópia do Certificado de Cadastramento de Laboratórios – CCL de todos os empreendimentos e laboratórios envolvidos na cadeia de custódia das análises em conformidade com a [[resolucao-cema-100-2017|Resolução CEMA nº 100, de 30 de junho de 2017]].
 - **Anexo XI, linha 31** {#anexo11_lin31} ORIENTAÇÕES PARA A REALIZAÇÃO E CADASTRAMENTO DAS MEDIÇÕES NO DEA
 - **Anexo XI, linha 32** {#anexo11_lin32} DETERMINAÇÃO DE GASES ON-LINE
 - **Anexo XI, linha 33** {#anexo11_lin33} - Para a medição de gases on-line, utilizar o formulário disponibilizado pelo IAT no Sistema de Declaração de Emissões Atmosféricas – DEA.
-- **Anexo XI, linha 34** {#anexo11_lin34} - A duração da amostragem não deve ser inferior a 10 minutos, contendo no mínimo 10 medições com intervalo constante entre as medições;
+- **Anexo XI, linha 34** {#anexo11_lin34} #amostragem - A duração da amostragem não deve ser inferior a 10 minutos, contendo no mínimo 10 medições com intervalo constante entre as medições;
 - **Anexo XI, linha 35** {#anexo11_lin35} - Para cada minuto medido, deve ser anexada uma cópia do extrato da impressora do analisador de gases;
-- **Anexo XI, linha 36** {#anexo11_lin36} - Declarar os valores de oxigênio obtidos durante a medição, conforme os extratos do analisador de gases, para que o sistema do DEA realize a conversão correta para o oxigênio referencial.
+- **Anexo XI, linha 36** {#anexo11_lin36} #oxigenio-referencia - Declarar os valores de oxigênio obtidos durante a medição, conforme os extratos do analisador de gases, para que o sistema do DEA realize a conversão correta para o oxigênio referencial.
 - **Anexo XI, linha 37** {#anexo11_lin37} - Identificação do ponto de amostragem
 - **Anexo XI, linha 38** {#anexo11_lin38} - Parâmetro medido
 - **Anexo XI, linha 39** {#anexo11_lin39} - Data e hora da medição
@@ -178,13 +178,13 @@ fonte: PDF assinado da Resolução SEDEST nº 02/2025 (com anexos), páginas 121
 - **Anexo XI, linha 42** {#anexo11_lin42} - Velocidade (m/s)
 - **Anexo XI, linha 43** {#anexo11_lin43} OUTROS POLUENTES POR DETERMINAÇÃO DESCONTÍNUA
 - **Anexo XI, linha 44** {#anexo11_lin44} - As amostragens devem ser representativas, considerando as variações típicas do processo;
-- **Anexo XI, linha 45** {#anexo11_lin45} - Devem ser feitas três amostragens por medição, informando os resultados individuais de cada uma e a sua média aritmética. É admitido que seja indicado no sistema o descarte de um dos resultados, se discrepante;
+- **Anexo XI, linha 45** {#anexo11_lin45} #amostragem - Devem ser feitas três amostragens por medição, informando os resultados individuais de cada uma e a sua média aritmética. É admitido que seja indicado no sistema o descarte de um dos resultados, se discrepante;
 - **Anexo XI, linha 46** {#anexo11_lin46} - A condição de operação durante a amostragem deve ser aquela que predomina na maioria do tempo operado (condição típica) e devidamente documentada;
-- **Anexo XI, linha 47** {#anexo11_lin47} - A medição de O<sub>2</sub> para a correção para condições referenciais deve ser feita no mesmo local e ao mesmo tempo da amostragem para outros poluentes.
+- **Anexo XI, linha 47** {#anexo11_lin47} #oxigenio-referencia - A medição de O<sub>2</sub> para a correção para condições referenciais deve ser feita no mesmo local e ao mesmo tempo da amostragem para outros poluentes.
 - **Anexo XI, linha 48** {#anexo11_lin48} PARA A DETERMINAÇÃO DE MATERIAL PARTICULADO ADICIONALMENTE
 - **Anexo XI, linha 49** {#anexo11_lin49} - Deverá ser usado a planilha do DEA;
 - **Anexo XI, linha 50** {#anexo11_lin50} - Devem ser apresentadas as leituras (temperatura, pressão, velocidade, volume, vazamento, duração) para cada posição da sonda na formatação prevista pela norma que o equipamento atende;
-- **Anexo XI, linha 51** {#anexo11_lin51} - Caso o enquadramento necessite da correção de oxigênio referencial, informar o oxigênio obtido durante a medição, para que o sistema realize a correção dos valores para o oxigênio referencial.
+- **Anexo XI, linha 51** {#anexo11_lin51} #oxigenio-referencia - Caso o enquadramento necessite da correção de oxigênio referencial, informar o oxigênio obtido durante a medição, para que o sistema realize a correção dos valores para o oxigênio referencial.
 - **Anexo XI, linha 52** {#anexo11_lin52} - Deve ser apresentada uma folha de pesagem para cada filtro utilizado.
 - **Anexo XI, linha 53** {#anexo11_lin53} PARA CADA MEDIÇÃO DEVE SER ELABORADO UMA FOLHA DE RESULTADOS CONTENDO:
 - **Anexo XI, linha 54** {#anexo11_lin54} - Temperatura média na chaminé;
@@ -194,11 +194,11 @@ fonte: PDF assinado da Resolução SEDEST nº 02/2025 (com anexos), páginas 121
 - **Anexo XI, linha 58** {#anexo11_lin58} - Velocidade média dos gases;
 - **Anexo XI, linha 59** {#anexo11_lin59} - Média do valor deltaH do orifício do gasômetro (caso aplicável);
 - **Anexo XI, linha 60** {#anexo11_lin60} - Vazão pela chaminé (cond. normais, base seca);
-- **Anexo XI, linha 61** {#anexo11_lin61} - Concentração de material particulado em mg/Nm<sup>3</sup>, base seca (deve ser citada a norma usada para o cálculo da concentração ou informada a fórmula);
+- **Anexo XI, linha 61** {#anexo11_lin61} #material-particulado - Concentração de material particulado em mg/Nm<sup>3</sup>, base seca (deve ser citada a norma usada para o cálculo da concentração ou informada a fórmula);
 - **Anexo XI, linha 62** {#anexo11_lin62} - Vazamento conforme norma
 - **Anexo XI, linha 63** {#anexo11_lin63} - Avaliação da condição isocinética;
 - **Anexo XI, linha 64** {#anexo11_lin64} MONITORAMENTO CONTÍNUO
-- **Anexo XI, linha 65** {#anexo11_lin65} - Apresentar dados do monitoramento continuo, conforme planilha disponibilizada no DEA.
+- **Anexo XI, linha 65** {#anexo11_lin65} #monitoramento-continuo - Apresentar dados do monitoramento continuo, conforme planilha disponibilizada no DEA.
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

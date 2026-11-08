@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [aterro-sanitario]
 modalidades: [lp, lpa]
-tags: [diretriz-estudo, memorial-caracterizacao, consulta-previa, aterro-sanitario, abastecimento-publico, aeroporto, aglomerado-populacional, aid, aii, app, area-influencia, art-anotacao, bem-cultural, cavidade-natural, comunidade-tradicional, corpo-hidrico, distancia-minima, georreferenciamento, poco, porte, recurso-hidrico, reserva-legal, residuo-solido-urbano, supressao-vegetacao, terra-indigena, unidade-conservacao, uso-solo, vida-util]
+tags: [aeroporto, aglomerado-populacional, app, area-influencia, art-anotacao, bem-cultural, cavidade-natural, comunidade-tradicional, corpo-hidrico, georreferenciamento, poco, porte, recurso-hidrico, reserva-legal, residuo-solido-urbano, supressao-vegetacao, terra-indigena, unidade-conservacao, uso-solo, vida-util]
 fonte: PDF da IN IAT 33/2025, páginas 48 a 50
 ---
 
@@ -36,17 +36,17 @@ fonte: PDF da IN IAT 33/2025, páginas 48 a 50
 - **Anexo III, linha 15** {#anexo3_lin15} • Topografia;
 - **Anexo III, linha 16** {#anexo3_lin16} #recurso-hidrico • Recursos Hídricos (nascentes, olhos d´água, cursos dá água, etc.);
 - **Anexo III, linha 17** {#anexo3_lin17} • Cobertura Vegetal;
-- **Anexo III, linha 18** {#anexo3_lin18} #unidade-conservacao #terra-indigena #comunidade-tradicional #bem-cultural #cavidade-natural #aeroporto #aglomerado-populacional #poco #abastecimento-publico • Informar sobre a existência de unidades de conservação, áreas indígenas, áreas ocupadas por populações tradicionais, bens culturais acautelados, áreas com ocorrência de patrimônio espeleológico, aeródromos, núcleos habitacionais e poços de captação para abastecimento.
+- **Anexo III, linha 18** {#anexo3_lin18} #unidade-conservacao #terra-indigena #comunidade-tradicional #bem-cultural #cavidade-natural #aeroporto #aglomerado-populacional #poco • Informar sobre a existência de unidades de conservação, áreas indígenas, áreas ocupadas por populações tradicionais, bens culturais acautelados, áreas com ocorrência de patrimônio espeleológico, aeródromos, núcleos habitacionais e poços de captação para abastecimento.
 - **Anexo III, linha 19** {#anexo3_lin19} • Acessos (alternativas, condições de tráfego);
 - **Anexo III, linha 20** {#anexo3_lin20} • Características do entorno (uso do solo, residências, áreas de interesse ambiental, etc.)
 - **Anexo III, linha 21** {#anexo3_lin21} 3. CROQUI DE LOCALIZAÇÃO DO EMPREENDIMENTO COM IMAGEM AÉREA E CONTENDO NO MÍNIMO:
 - **Anexo III, linha 22** {#anexo3_lin22} Deverá ser apresentado o croqui de localização do empreendimento com imagem aérea, contendo no mínimo:
-- **Anexo III, linha 23** {#anexo3_lin23} #area-influencia #aid #aii • Identificação de ADA, AID e AII dos meios físico, biótico e socioeconômico;
-- **Anexo III, linha 24** {#anexo3_lin24} #corpo-hidrico #distancia-minima • Distância dos corpos hídricos;
+- **Anexo III, linha 23** {#anexo3_lin23} #area-influencia • Identificação de ADA, AID e AII dos meios físico, biótico e socioeconômico;
+- **Anexo III, linha 24** {#anexo3_lin24} #corpo-hidrico • Distância dos corpos hídricos;
 - **Anexo III, linha 25** {#anexo3_lin25} #app • Áreas de Preservação Permanente ;
 - **Anexo III, linha 26** {#anexo3_lin26} #reserva-legal • Reserva Legal;
-- **Anexo III, linha 27** {#anexo3_lin27} #distancia-minima • Casas isoladas;
-- **Anexo III, linha 28** {#anexo3_lin28} #aglomerado-populacional #distancia-minima • Núcleos populacionais;
+- **Anexo III, linha 27** {#anexo3_lin27} • Casas isoladas;
+- **Anexo III, linha 28** {#anexo3_lin28} #aglomerado-populacional • Núcleos populacionais;
 - **Anexo III, linha 29** {#anexo3_lin29} • Cobertura florestal;
 - **Anexo III, linha 30** {#anexo3_lin30} • Vias de acesso principais.
 - **Anexo III, linha 31** {#anexo3_lin31} 4. CARACTERIZAÇÃO DO EMPREENDIMENTO

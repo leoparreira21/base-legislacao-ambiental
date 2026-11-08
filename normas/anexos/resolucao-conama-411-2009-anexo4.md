@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: "Estudo técnico de coeficiente de rendimento volumétrico (CRV) de laminação – TR padrão"
 atividades: [industria-madeira]
 modalidades: []
-tags: [diretriz-estudo, industria-madeira, coeficiente-rendimento, laminacao, cubagem, responsavel-tecnico, art-anotacao, ibama]
+tags: [amostragem, art-anotacao, coeficiente-rendimento, cubagem, ibama, laminacao, responsavel-tecnico]
 fonte: "PDF do portal do CONAMA (Word 2013, 16 páginas, 'Este texto não substitui o publicado no DOU de 08/05/2009'), páginas 8 a 10, enviado por Leo"
 ---
 
@@ -24,7 +24,7 @@ fonte: "PDF do portal do CONAMA (Word 2013, 16 páginas, 'Este texto não substi
 - **Anexo IV, linha 1** {#anexo4_lin1} ESTUDOS PARA DETERMINAÇÃO DO COEFICIENTE DE RENDIMENTO VOLUMÉTRICO DE TORA COMERCIAL EM MADEIRA LAMINADA VÁLIDO PARA COEFICIENTE MAIOR QUE O ESTABELECIDONO ANEXO II
 - **Anexo IV, linha 2** {#anexo4_lin2} TERMO DE REFERÊNCIA PADRÃO
 - **Anexo IV, item 1, linha 3** {#anexo4_lin3} 1. OBJETIVO
-- **Anexo IV, item 1, linha 4** {#anexo4_lin4} Apresentar roteiro para a realização de estudos técnico-científicos com vistas a alteração do coeficiente de rendimento volumétrico determinado pela presente Resolução, para a transformação de tora comercial em madeira laminada (lâminas).
+- **Anexo IV, item 1, linha 4** {#anexo4_lin4} #coeficiente-rendimento #laminacao Apresentar roteiro para a realização de estudos técnico-científicos com vistas a alteração do coeficiente de rendimento volumétrico determinado pela presente Resolução, para a transformação de tora comercial em madeira laminada (lâminas).
 - **Anexo IV, item 2, linha 5** {#anexo4_lin5} 2. JUSTIFICATIVA
 - **Anexo IV, item 2, linha 6** {#anexo4_lin6} O coeficiente de rendimento volumétrico (CRV) determinado pela presente Resolução, será adotado pelo órgão ambiental competente para a conversão de toras de madeiras de espécies de folhosas tropicais em madeira laminada. O CRV varia de acordo com a espécie florestal, a qualidade da matéria-prima, o tipo de processo industrial, o nível de tecnologia da indústria, o tipo e a qualidade do produto final, a realização de aproveitamento comercial. Devido à singularidade na determinação de um CRV que atenda especificamente a todas as indústrias, a presente Resolução prevê que o órgão ambiental competente poderá acatar, mediante análise técnica, CRVs específicos, desde que as empresas requerentes apresentem estudos técnico-científicos satisfatórios.
 - **Anexo IV, item 3, linha 7** {#anexo4_lin7} 3. METODOLOGIA DO ESTUDO
@@ -34,14 +34,14 @@ fonte: "PDF do portal do CONAMA (Word 2013, 16 páginas, 'Este texto não substi
 - **Anexo IV, item 3.1.1.2, linha 11** {#anexo4_lin11} 3.1.1.2 Coordenadas geográficas
 - **Anexo IV, item 3.1.1.3, linha 12** {#anexo4_lin12} 3.1.1.3 Endereço postal, telefone, fax e correio eletrônico
 - **Anexo IV, item 3.1.1.4, linha 13** {#anexo4_lin13} 3.1.1.4 Nome e função de pessoa para contato
-- **Anexo IV, item 3.1.1.5, linha 14** {#anexo4_lin14} 3.1.1.5 Registro no IBAMA
+- **Anexo IV, item 3.1.1.5, linha 14** {#anexo4_lin14} #ibama 3.1.1.5 Registro no IBAMA
 - **Anexo IV, item 3.1.2, linha 15** {#anexo4_lin15} 3.1.2 Equipamentos
 - **Anexo IV, item 3.1.2, linha 16** {#anexo4_lin16} Relacionar os equipamentos (plataforma de toras, carro porta-toras, serra-de-fita, serra circular múltipla, serra circular, destopadeira, secador de lâminas, torno laminador, faqueadeira, guilhotina, prensa, estufa, plaina e outros), e as respectivas quantidades, ano de fabricação, potência e outras especificações técnicas.
 - **Anexo IV, item 3.1.3, linha 17** {#anexo4_lin17} 3.1.3 Produtos gerados
 - **Anexo IV, item 3.1.3.1, linha 18** {#anexo4_lin18} 3.1.3.1 Relacionar os principais produtos finais produzidos nos últimos 12 meses
 - **Anexo IV, item 3.1.3.2, linha 19** {#anexo4_lin19} 3.1.3.2 Relacionar os subprodutos comercializados pela empresa nos últimos 12 meses.
 - **Anexo IV, item 3.1.3.3, linha 20** {#anexo4_lin20} 3.1.3.3 Relacionar os tipos de resíduos gerados e não-utilizados pela empresa
-- **Anexo IV, item 3.2, linha 21** {#anexo4_lin21} 3.2 A amostragem de toras/toretes para o estudo Justificar as espécies incluídas no estudo. A amostragem das toras/toretes para o estudo deve ser feita por espécie, de acordo com o método de amostragem aleatória simples.
+- **Anexo IV, item 3.2, linha 21** {#anexo4_lin21} #amostragem 3.2 A amostragem de toras/toretes para o estudo Justificar as espécies incluídas no estudo. A amostragem das toras/toretes para o estudo deve ser feita por espécie, de acordo com o método de amostragem aleatória simples.
 - **Anexo IV, item 3.3, linha 22** {#anexo4_lin22} 3.3 Cubagem de toras/toretes processadas
 - **Anexo IV, item 3.3, linha 23** {#anexo4_lin23} As informações sobre as toras/toretes processadas deverão ser agrupadas em planilhas para cada uma das espécies estudadas. As planilhas referentes a cada espécie deverão constar do anexo do relatório técnico-científico apresentado.
 - **Anexo IV, item 3.3.1, linha 24** {#anexo4_lin24} 3.3.1 Espécie de madeira
@@ -50,7 +50,7 @@ fonte: "PDF do portal do CONAMA (Word 2013, 16 páginas, 'Este texto não substi
 - **Anexo IV, item 3.3.2.1, linha 27** {#anexo4_lin27} 3.3.2.1 Diâmetro: determinar os diâmetros cruzados (maior e menor), sem considerar a casca, nas duas extremidades da tora. As planilhas de cubagem de toras deverão apresentar os quatro valores de diâmetros determinados para cada tora, utilizando-se o metro(m) como unidade de medida.
 - **Anexo IV, item 3.3.2.2, linha 28** {#anexo4_lin28} 3.3.2.2 Comprimento: determinar o maior e o menor comprimento da tora. Esses valores deverão constar das planilhas de cubagem apresentadas, utilizando-se o metro(m) como unidade de medida.
 - **Anexo IV, item 3.3.3, linha 29** {#anexo4_lin29} 3.3.3 Determinação do volume da tora
-- **Anexo IV, item 3.3.3, linha 30** {#anexo4_lin30} O volume das toras deve ser determinado pelo método geométrico, ou seja, utilizando a equação de Smalian. Deverão ser utilizados para o cálculo a média dos diâmetros cruzados e a média dos comprimentos.
+- **Anexo IV, item 3.3.3, linha 30** {#anexo4_lin30} #cubagem O volume das toras deve ser determinado pelo método geométrico, ou seja, utilizando a equação de Smalian. Deverão ser utilizados para o cálculo a média dos diâmetros cruzados e a média dos comprimentos.
 - **Anexo IV, item 3.4, linha 31** {#anexo4_lin31} 3.4 Determinação do volume de madeira laminada em torno As informações sobre o volume de madeira laminada, obtidas a partir das toras/toretes processadas, deverão ser agrupadas em planilhas para cada uma das espécies estudadas. Essas planilhas deverão constar do anexo do relatório técnicocientífico apresentado.
 - **Anexo IV, item 3.4.1, linha 32** {#anexo4_lin32} 3.4.1 Quantidade de toras/toretes de laminação
 - **Anexo IV, item 3.4.1, linha 33** {#anexo4_lin33} Informar o número de toras/toretes de laminação amostrados.
@@ -79,16 +79,16 @@ fonte: "PDF do portal do CONAMA (Word 2013, 16 páginas, 'Este texto não substi
 - **Anexo IV, item 3.6.2, linha 56** {#anexo4_lin56} 3.6.2 Sobra de faqueamento
 - **Anexo IV, item 3.6.2, linha 57** {#anexo4_lin57} Informar as dimensões da sobra de faqueamento resultante de cada uma das toras/toretes amostrados.
 - **Anexo IV, item 3.7, linha 58** {#anexo4_lin58} 3.7 Determinação do coeficiente de rendimento volumétrica ( CRV)
-- **Anexo IV, item 3.7, linha 59** {#anexo4_lin59} O CRV é determinado pela relação entre o volume da tora processada e o volume obtido de lâminas, acrescido, quando for o caso, do volume obtido com produtos de aproveitamento, desde que devidamente comercializados. Deverá ser determinado por espécie pela média dos CRV determinados individualmente para cada tora.
+- **Anexo IV, item 3.7, linha 59** {#anexo4_lin59} #coeficiente-rendimento O CRV é determinado pela relação entre o volume da tora processada e o volume obtido de lâminas, acrescido, quando for o caso, do volume obtido com produtos de aproveitamento, desde que devidamente comercializados. Deverá ser determinado por espécie pela média dos CRV determinados individualmente para cada tora.
 - **Anexo IV, item 3.8, linha 60** {#anexo4_lin60} 3.8 Análise estatística
 - **Anexo IV, item 3.8.1, linha 61** {#anexo4_lin61} 3.8.1 Estatística descritiva
 - **Anexo IV, item 3.8.1, linha 62** {#anexo4_lin62} Determinar a média, a variância, o desvio padrão e o coeficiente de variação para cada espécie estudada.
 - **Anexo IV, item 3.8.2, linha 63** {#anexo4_lin63} 3.8.2 Determinação do tamanho ideal da amostra
-- **Anexo IV, item 3.8.2, linha 64** {#anexo4_lin64} Para que o CRV determinado seja representativo da espécie e respectivo produto, deverá ser determinado o tamanho ideal da amostra, admitindo-se um erro amostral de 10%. O número de toras estudado deve ser sempre igual ou superior ao número determinado para o tamanho ideal da amostra.
+- **Anexo IV, item 3.8.2, linha 64** {#anexo4_lin64} #amostragem Para que o CRV determinado seja representativo da espécie e respectivo produto, deverá ser determinado o tamanho ideal da amostra, admitindo-se um erro amostral de 10%. O número de toras estudado deve ser sempre igual ou superior ao número determinado para o tamanho ideal da amostra.
 - **Anexo IV, item 3.8.3, linha 65** {#anexo4_lin65} 3.8.3 Determinação do intervalo de confiança
 - **Anexo IV, item 3.8.3, linha 66** {#anexo4_lin66} Determinar o intervalo de confiança ao nível de 95% de probabilidade com os limites inferior e superior que o CRV pode apresentar para determinada espécie.
 - **Anexo IV, item 3.9, linha 67** {#anexo4_lin67} 3.9 Coordenação, supervisão e realização do trabalho
-- **Anexo IV, item 3.9, linha 68** {#anexo4_lin68} O estudo técnico-científico deverá ser assinado por profissional legalmente habilitado com devida anotação de responsabilidade técnica e representante legal da empresa.
+- **Anexo IV, item 3.9, linha 68** {#anexo4_lin68} #responsavel-tecnico #art-anotacao O estudo técnico-científico deverá ser assinado por profissional legalmente habilitado com devida anotação de responsabilidade técnica e representante legal da empresa.
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

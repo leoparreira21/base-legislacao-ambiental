@@ -226,3 +226,9 @@ Ela não é consumida pelo motor atual. Grupos são ramos de navegação; `pai` 
 termo mais amplo e `aliases` normaliza grafias equivalentes. A classificação das
 ocorrências continua exigindo leitura do dispositivo e de seu contexto.
 Valide a consistência da proposta com `python scripts/auditar_taxonomia_tags.py`.
+
+A [continuidade da revisão semântica](auditorias/tags-2026-11-07/continuidade-2026-11-08.md)
+registra decisões e pendências. `python scripts/integrar_revisao_tags.py` confere as
+decisões contra os arquivos atuais e gera um grafo de revisão compatível com o
+formato de extração do Graphify. `--tag TAG --limite 5` recupera só os dispositivos
+relevantes do grafo; identidade textual nunca aplica uma decisão automaticamente.

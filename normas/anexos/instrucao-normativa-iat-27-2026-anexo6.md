@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Informações mínimas para licenciamento ambiental de unidades produtoras de formas jovens de organismos aquáticos"
 atividades: [aquicultura, maricultura, producao-formas-jovens]
 modalidades: [las, lp, li, lo]
-tags: ["app", "aquicultura", "diagnostico-ambiental", "especie-exotica", "maricultura"]
+tags: [app, diagnostico-ambiental, especie-exotica, fauna, flora, georreferenciamento, impacto-ambiental, medida-mitigadora, responsavel-tecnico]
 fonte: "PDF IN 27 2026.pdf, Instituto Água e Terra, enviado pelo usuário; página 77."
 ---
 
@@ -16,9 +16,9 @@ INFORMAÇÕES MÍNIMAS PARA LICENCIAMENTO AMBIENTAL DE UNIDADES PRODUTORAS DE FO
 
 ## Texto do anexo
 
-- **Anexo VI, linha 1** {#anexo6_lin1} 1 - Identificação do empreendedor e do Responsável Técnico do empreendimento;
+- **Anexo VI, linha 1** {#anexo6_lin1} #responsavel-tecnico 1 - Identificação do empreendedor e do Responsável Técnico do empreendimento;
 
-- **Anexo VI, linha 2** {#anexo6_lin2} 2 - Localização do empreendimento em Planta ou croqui de localização do empreendimento, com um ponto de Coordenada Geográfica (admitido erro de até 30m) central de referência, e indicação de APP, Corpos Hídricos e Acessos;
+- **Anexo VI, linha 2** {#anexo6_lin2} #app #georreferenciamento 2 - Localização do empreendimento em Planta ou croqui de localização do empreendimento, com um ponto de Coordenada Geográfica (admitido erro de até 30m) central de referência, e indicação de APP, Corpos Hídricos e Acessos;
 
 - **Anexo VI, linha 3** {#anexo6_lin3} 3 - Características técnicas do empreendimento (descrever todo processo produtivo e as instalações):
 
@@ -26,15 +26,15 @@ INFORMAÇÕES MÍNIMAS PARA LICENCIAMENTO AMBIENTAL DE UNIDADES PRODUTORAS DE FO
 
 - **Anexo VI, linha 5** {#anexo6_lin5} 3.2 - Descrição do processo produtivo adotado;
 
-- **Anexo VI, linha 6** {#anexo6_lin6} 3.3 - Métodos de controle da disseminação de espécies exóticas e alóctones, quando couber.
+- **Anexo VI, linha 6** {#anexo6_lin6} #especie-exotica 3.3 - Métodos de controle da disseminação de espécies exóticas e alóctones, quando couber.
 
 - **Anexo VI, linha 7** {#anexo6_lin7} 4 - Diagnóstico Ambiental.
 
-- **Anexo VI, linha 8** {#anexo6_lin8} 4.1 - Caracterização do meio físico abrangendo: (i) descrição da topografia do local; (ii) variáveis físico-químicas e biológicas: pH, temperatura, transparência, oxigênio dissolvido, fósforo total, compostos nitrogenados, DBO, coliformes termotolerantes; entre outros aspectos.
+- **Anexo VI, linha 8** {#anexo6_lin8} #diagnostico-ambiental 4.1 - Caracterização do meio físico abrangendo: (i) descrição da topografia do local; (ii) variáveis físico-químicas e biológicas: pH, temperatura, transparência, oxigênio dissolvido, fósforo total, compostos nitrogenados, DBO, coliformes termotolerantes; entre outros aspectos.
 
-- **Anexo VI, linha 9** {#anexo6_lin9} 4.2 - Descrição do meio biótico: identificação da ictiofauna; caracterização da flora do local e do entorno; indicação de intervenção em APP; entre outros aspectos.
+- **Anexo VI, linha 9** {#anexo6_lin9} #app #fauna #flora 4.2 - Descrição do meio biótico: identificação da ictiofauna; caracterização da flora do local e do entorno; indicação de intervenção em APP; entre outros aspectos.
 
-- **Anexo VI, linha 10** {#anexo6_lin10} 4.3 - Impactos ambientais: descrever os potenciais impactos ambientais gerados pelo empreendimento, indicando as respectivas medidas mitigadoras e prática de aquicultura.
+- **Anexo VI, linha 10** {#anexo6_lin10} #impacto-ambiental #medida-mitigadora 4.3 - Impactos ambientais: descrever os potenciais impactos ambientais gerados pelo empreendimento, indicando as respectivas medidas mitigadoras e prática de aquicultura.
 
 ## Síntese do conversor (não é texto normativo)
 
