@@ -1,0 +1,14 @@
+{
+  // Biblioteca de normas: Worker só com arquivos estáticos (sem código).
+  // A pasta é montada por scripts/montar_biblioteca.py e publicada pelo
+  // workflow implantar-biblioteca.yml a cada push no main.
+  "name": "biblioteca-legislacao-ambiental",
+  "compatibility_date": "2026-11-09",
+  "workers_dev": true,
+  "assets": {
+    "directory": "../../_biblioteca"
+  },
+  "observability": {
+    "enabled": true
+  }
+}
