@@ -91,8 +91,24 @@ code{font-size:.85em}
       b.classList.toggle('ativo', n<0 ? bn===max : bn===n);
     });
   }
+  // Refaz o layout de cada bloco recém-aberto no quadro seguinte. Alguns navegadores
+  // calculavam o espaço dos subitens antes de abri-los (sobravam vãos vazios até o
+  // usuário fechar e reabrir); display:none e de volta recria as caixas, como esse
+  // fechar/abrir, sem mudar o que está aberto.
+  var pendentes=[];
+  function reajustar(){
+    var lista=pendentes, x=window.scrollX, y=window.scrollY; pendentes=[];
+    lista.forEach(function(d){
+      for(var p=d.parentElement; p; p=p.parentElement){ if(lista.indexOf(p)>=0) return; }
+      d.style.display='none'; void d.offsetHeight; d.style.display=''; if(!d.getAttribute('style')) d.removeAttribute('style');
+    });
+    window.scrollTo(x,y);
+  }
   document.addEventListener('toggle',function(e){
-    var d=e.target; if(d.classList&&d.classList.contains('art')&&d.open) nivel(d,-1);
+    var d=e.target; if(!d.tagName||d.tagName!=='DETAILS'||!d.open) return;
+    if(d.classList.contains('art')) nivel(d,-1);
+    if(!pendentes.length) requestAnimationFrame(reajustar);
+    pendentes.push(d);
   },true);
   document.addEventListener('click',function(e){
     var b=e.target.closest&&e.target.closest('.niveis button'); if(!b) return;
