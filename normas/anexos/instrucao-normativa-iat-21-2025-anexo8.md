@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Projeto de Drenagem Superficial
 atividades: [parcelamento-solo, condominio, construcao-barracao, parque-urbano]
 modalidades: [las, lasa, li, lia]
-tags: ["agua-pluvial", "app", "art-anotacao", "drenagem-urbana", "impermeabilizacao", "parcelamento-solo"]
+tags: [agua-pluvial, app, art-anotacao, dimensionamento, drenagem-urbana, impermeabilizacao, vazao]
 fonte: "PDF IN 21 2025.pdf fornecido pelo usuário, páginas 75–86 de 108; título impresso ANEXO VII, identificado como VIII pelo índice e pelas remissões do corpo."
 ---
 
@@ -23,7 +23,7 @@ fonte: "PDF IN 21 2025.pdf fornecido pelo usuário, páginas 75–86 de 108; tí
 
 - **Anexo VIII, linha 3** {#anexo8_lin3} PROJETO DE DRENAGEM SUPERFICIAL
 
-- **Anexo VIII, linha 4** {#anexo8_lin4} O Projeto de Drenagem Superficial deverá ser elaborado e executado por profissional habilitado, observando as normas brasileiras e legislação municipal vigentes, seguindo as diretrizes abaixo relacionadas.
+- **Anexo VIII, linha 4** {#anexo8_lin4} #drenagem-urbana O Projeto de Drenagem Superficial deverá ser elaborado e executado por profissional habilitado, observando as normas brasileiras e legislação municipal vigentes, seguindo as diretrizes abaixo relacionadas.
 
 - **Anexo VIII, linha 5** {#anexo8_lin5} 1. IDENTIFICAÇÃO DO EMPREENDEDOR
 
@@ -61,7 +61,7 @@ fonte: "PDF IN 21 2025.pdf fornecido pelo usuário, páginas 75–86 de 108; tí
 
 - **Anexo VIII, linha 22** {#anexo8_lin22} 4. PLANTAS
 
-- **Anexo VIII, linha 23** {#anexo8_lin23} 4.1. Os projetos que contemplarem instalações necessárias à drenagem de água pluvial em Área de Preservação Permanente, deverão seguir as diretrizes apresentadas na [[portaria-iat-276-2024|Portaria IAT n° 276/2024]].
+- **Anexo VIII, linha 23** {#anexo8_lin23} #app #agua-pluvial 4.1. Os projetos que contemplarem instalações necessárias à drenagem de água pluvial em Área de Preservação Permanente, deverão seguir as diretrizes apresentadas na [[portaria-iat-276-2024|Portaria IAT n° 276/2024]].
 
 - **Anexo VIII, linha 24** {#anexo8_lin24} 4.2. As plantas das redes de galerias de águas pluviais deverão ser apresentadas em escala até no máximo 1:2.000 e incluírem os seguintes elementos:
 
@@ -81,7 +81,7 @@ fonte: "PDF IN 21 2025.pdf fornecido pelo usuário, páginas 75–86 de 108; tí
 
 - **Anexo VIII, linha 32** {#anexo8_lin32} 5.2. O Memorial de Cálculo deverá elucidar os critérios adotados para o projeto. Para a adoção dos critérios, deve-se considerar as recomendações apresentadas em sequência neste termo de referência.
 
-- **Anexo VIII, linha 33** {#anexo8_lin33} 5.3. A Planilha de Cálculo da Rede de Drenagem deverá trazer os dados, em cada trecho, que traduzam o dimensionamento do cálculo hidráulico das galerias. Contendo, no mínimo os seguintes valores adotados/calculados:
+- **Anexo VIII, linha 33** {#anexo8_lin33} #dimensionamento #drenagem-urbana 5.3. A Planilha de Cálculo da Rede de Drenagem deverá trazer os dados, em cada trecho, que traduzam o dimensionamento do cálculo hidráulico das galerias. Contendo, no mínimo os seguintes valores adotados/calculados:
 
 - **Anexo VIII, linha 34** {#anexo8_lin34} − Extensão do trecho;
 
@@ -111,7 +111,7 @@ fonte: "PDF IN 21 2025.pdf fornecido pelo usuário, páginas 75–86 de 108; tí
 
 - **Anexo VIII, linha 47** {#anexo8_lin47} b) Topografia: Para o desenvolvimento do projeto deve-se utilizar levantamento topográfico ou aerofotogramétrico nas escalas até no máximo 1:2.000, com curvas de nível espaçadas de metro a metro.
 
-- **Anexo VIII, linha 48** {#anexo8_lin48} c) Cálculo das Vazões a Escoar nas Galerias: As vazões de contribuição devem ser calculadas pelo Método Racional, para bacias contribuintes pequenas (menor que 2,5 km²), utilizando-se a equação representada abaixo.
+- **Anexo VIII, linha 48** {#anexo8_lin48} #vazao c) Cálculo das Vazões a Escoar nas Galerias: As vazões de contribuição devem ser calculadas pelo Método Racional, para bacias contribuintes pequenas (menor que 2,5 km²), utilizando-se a equação representada abaixo.
 
 - **Anexo VIII, linha 49** {#anexo8_lin49} Q = £ . C . i . A
 
@@ -145,7 +145,7 @@ fonte: "PDF IN 21 2025.pdf fornecido pelo usuário, páginas 75–86 de 108; tí
 
 - **Anexo VIII, linha 64** {#anexo8_lin64} e) Chuva crítica:
 
-- **Anexo VIII, linha 65** {#anexo8_lin65} − Período de Recorrência: adotar o período de recorrência de chuva crítico, de acordo com a segurança que se quer dar ao sistema. Assim, quanto maior este tempo, maiores serão as intensidades das chuvas de projeto, e consequentemente maior a segurança do sistema, o que implica em custo mais elevado das obras. Recomendamos tempo de recorrência de 3 anos para a rede de galerias, 10 anos para emissários e canais, e de 50 a 500 anos para barragens, valores estes que permitem trabalhar com boa segurança sem elevar demais o custo de implantação das obras.
+- **Anexo VIII, linha 65** {#anexo8_lin65} #drenagem-urbana − Período de Recorrência: adotar o período de recorrência de chuva crítico, de acordo com a segurança que se quer dar ao sistema. Assim, quanto maior este tempo, maiores serão as intensidades das chuvas de projeto, e consequentemente maior a segurança do sistema, o que implica em custo mais elevado das obras. Recomendamos tempo de recorrência de 3 anos para a rede de galerias, 10 anos para emissários e canais, e de 50 a 500 anos para barragens, valores estes que permitem trabalhar com boa segurança sem elevar demais o custo de implantação das obras.
 
 - **Anexo VIII, linha 66** {#anexo8_lin66} − Intensidade de precipitação: Adotar a equação de precipitação da chuva mais adequada, conforme a proximidade do posto ou semelhança pluviométrica - mapa de isoietas. Abaixo relacionamos as equações de chuvas intensas para vários postos pluviométricos do Estado do Paraná (em mm/h - multiplicar por 2,778 para resultados em l/s).
 
@@ -163,7 +163,7 @@ fonte: "PDF IN 21 2025.pdf fornecido pelo usuário, páginas 75–86 de 108; tí
 
 - **Anexo VIII, Tabela 1, linha 6** {#anexo8_tab1_lin6} Município: Telêmaco Borba | Equação: i = (3235,19 . T<sub>R</sub><sup>0,163</sup>) / (t + 24)<sup>0,968</sup> | Observações: Equações obtidas por Roberto Fendrich e Cínthia Obladen de Almendra ( ISAM/PUC-PR )
 
-- **Anexo VIII, linha 67** {#anexo8_lin67} − Coeficiente de escoamento superficial: Para a determinação do coeficiente de escoamento superficial, existem valores determinados para cada tipo de cobertura do terreno, sendo adotados pelo Instituto Água e Terra os seguintes valores principais:
+- **Anexo VIII, linha 67** {#anexo8_lin67} #impermeabilizacao − Coeficiente de escoamento superficial: Para a determinação do coeficiente de escoamento superficial, existem valores determinados para cada tipo de cobertura do terreno, sendo adotados pelo Instituto Água e Terra os seguintes valores principais:
 
 - **Anexo VIII, linha 68** {#anexo8_lin68} o C = 0,30 para áreas não pavimentadas;
 
@@ -195,7 +195,7 @@ fonte: "PDF IN 21 2025.pdf fornecido pelo usuário, páginas 75–86 de 108; tí
 
 - **Anexo VIII, linha 82** {#anexo8_lin82} 6.2. Método de dimensionamento dos coletores
 
-- **Anexo VIII, linha 83** {#anexo8_lin83} Para o dimensionamento dos coletores será utilizada a fórmula de Manning.
+- **Anexo VIII, linha 83** {#anexo8_lin83} #dimensionamento Para o dimensionamento dos coletores será utilizada a fórmula de Manning.
 
 - **Anexo VIII, linha 84** {#anexo8_lin84} V = (1 / n) . R<sub>h</sub><sup>2/3</sup> . I<sup>1/2</sup>
 
@@ -209,7 +209,7 @@ fonte: "PDF IN 21 2025.pdf fornecido pelo usuário, páginas 75–86 de 108; tí
 
 - **Anexo VIII, linha 89** {#anexo8_lin89} − n = coeficiente de rugosidade (n = 0,015 p/ tubos de concreto).
 
-- **Anexo VIII, linha 90** {#anexo8_lin90} Os tubos são dimensionados a seção plena e as velocidades limites adotadas são:
+- **Anexo VIII, linha 90** {#anexo8_lin90} #dimensionamento Os tubos são dimensionados a seção plena e as velocidades limites adotadas são:
 
 - **Anexo VIII, linha 91** {#anexo8_lin91} − Velocidade Mínima: 0,75 m/s (nos tubos de diâmetro de 0,40m e 0,60m, em regiões de solos facilmente carreáveis, adota-se declividade mínima de 1,5% e 1,2% respectivamente para impedir o assoreamento dos mesmos. O ideal seria usar uma velocidade sanitária mínima de 2,00 m/s, capaz de fazer a limpeza dos tubos);
 
@@ -219,7 +219,7 @@ fonte: "PDF IN 21 2025.pdf fornecido pelo usuário, páginas 75–86 de 108; tí
 
 - **Anexo VIII, linha 94** {#anexo8_lin94} 7. Sarjetas
 
-- **Anexo VIII, linha 95** {#anexo8_lin95} O cálculo de verificação de superfície das sarjetas consiste numa comparação entre a vazão de solicitação, determinada pelo método Racional, e a vazão correspondente à cota máxima de alagamento, definida como sendo aquela a partir da qual poderia ocorrer extravasamento, calculada com base em uma equação de canal, como a de Izzard, a seguir apresentada:
+- **Anexo VIII, linha 95** {#anexo8_lin95} #drenagem-urbana O cálculo de verificação de superfície das sarjetas consiste numa comparação entre a vazão de solicitação, determinada pelo método Racional, e a vazão correspondente à cota máxima de alagamento, definida como sendo aquela a partir da qual poderia ocorrer extravasamento, calculada com base em uma equação de canal, como a de Izzard, a seguir apresentada:
 
 - **Anexo VIII, linha 96** {#anexo8_lin96} Q = 0,375 . (Z / n) . I<sup>1/2</sup> . y<sup>8/3</sup>
 
@@ -279,7 +279,7 @@ fonte: "PDF IN 21 2025.pdf fornecido pelo usuário, páginas 75–86 de 108; tí
 
 - **Anexo VIII, linha 124** {#anexo8_lin124} 8. BACIA DE ACUMULAÇÃO DE CHEIAS
 
-- **Anexo VIII, linha 125** {#anexo8_lin125} Devido à complexidade para a solução exata do problema de abatimento de cheias, os pesquisadores estabelecem relação direta entre o Volume Detido e as principais variáveis hidrológicas, obtendo-se aproximações das vazões de entrada e de saída em função da vazão total e o tempo de concentração.
+- **Anexo VIII, linha 125** {#anexo8_lin125} #drenagem-urbana Devido à complexidade para a solução exata do problema de abatimento de cheias, os pesquisadores estabelecem relação direta entre o Volume Detido e as principais variáveis hidrológicas, obtendo-se aproximações das vazões de entrada e de saída em função da vazão total e o tempo de concentração.
 
 - **Anexo VIII, linha 126** {#anexo8_lin126} Existem diversos métodos propostos para simplificar os cálculos. Sugerimos o cálculo simplificado de Wilken, baseado no Método Müller-Neuhaus, sendo que para uma relação de 20% da Vazão de Saída em relação à Vazão de Entrada, temos:
 
@@ -309,7 +309,7 @@ fonte: "PDF IN 21 2025.pdf fornecido pelo usuário, páginas 75–86 de 108; tí
 
 - **Anexo VIII, linha 139** {#anexo8_lin139} 9. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA
 
-- **Anexo VIII, linha 140** {#anexo8_lin140} Anotação de Responsabilidade Técnica do profissional elaborador do projeto e do responsável pela implantação do mesmo, junto aos respectivos conselhos de classe.
+- **Anexo VIII, linha 140** {#anexo8_lin140} #art-anotacao Anotação de Responsabilidade Técnica do profissional elaborador do projeto e do responsável pela implantação do mesmo, junto aos respectivos conselhos de classe.
 
 - **Anexo VIII, linha 141** {#anexo8_lin141} 10. DEMAIS REFERÊNCIAS BIBLIOGRÁFICAS
 

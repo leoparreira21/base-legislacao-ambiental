@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PASE
 atividades: [patio-caminhao, patio-container]
 modalidades: [las, lo, rlas, rlo, lasa, loa, lasr, lor]
-tags: [pase, situacao-emergencia, produto-perigoso]
+tags: [analise-risco, art-anotacao, pase, produto-perigoso, situacao-emergencia]
 fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinado em 15/12/2025), páginas 81 a 84
 ---
 
@@ -20,7 +20,7 @@ fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinad
 ## Texto do anexo {#texto-anexo}
 
 - **Anexo IX, linha 1** {#anexo9_lin1} #pase O PASE deverá ser apresentado junto aos requerimentos de licenciamento ambiental, conforme definido na Instrução Normativa que estabelece definições, critérios, diretrizes e procedimentos, para o licenciamento ambiental de Pátio/Estacionamento de Caminhões e /ou Pátio de Containers contemplando os mecanismos para neutralização e contenção de fontes de poluição ambiental decorrentes de eventos súbitos, tais como: vazamentos, explosões, incêndios, etc.
-- **Anexo IX, linha 2** {#anexo9_lin2} O PASE deve ser elaborado por profissional devidamente habilitado e acompanhado de Anotação de Responsabilidade Técnica emitida pelo conselho de classe competente.
+- **Anexo IX, linha 2** {#anexo9_lin2} #art-anotacao O PASE deve ser elaborado por profissional devidamente habilitado e acompanhado de Anotação de Responsabilidade Técnica emitida pelo conselho de classe competente.
 - **Anexo IX, linha 3** {#anexo9_lin3} Caberá ao responsável técnico/legal do empreendimento se responsabilizar pelas informações prestadas, bem como revisar seus documentos e informações condizentes ao exigido pela legislação pertinente.
 - **Anexo IX, linha 4** {#anexo9_lin4} É de responsabilidade do empreendedor a implantação, atualização e cumprimento do PASE.
 - **Anexo IX, linha 5** {#anexo9_lin5} Este Termo de Referência tem função de orientar a estruturação de um documento e trata exclusivamente do PASE a ser apresentado em complemento aos processos de licenciamento ambiental de Pátio/Estacionamento de Caminhões e /ou Pátio de Containers, não substituindo quaisquer estudos ou documentos exigidos por demais órgãos e instituições regulamentadoras.
@@ -43,9 +43,9 @@ fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinad
 - **Anexo IX, linha 22** {#anexo9_lin22} 8. CARGA DE INCÊNDIO
 - **Anexo IX, linha 23** {#anexo9_lin23} Carga de incêndio conforme projeto técnico da estrutura, apresentado junto ao CBM-PR.
 - **Anexo IX, linha 24** {#anexo9_lin24} 9. ANÁLISE DE RISCO DO EMPREENDIMENTO
-- **Anexo IX, linha 25** {#anexo9_lin25} Processo de análise de riscos com metodologias validadas na literatura, para orientação na tomada de decisão.
+- **Anexo IX, linha 25** {#anexo9_lin25} #analise-risco Processo de análise de riscos com metodologias validadas na literatura, para orientação na tomada de decisão.
 - **Anexo IX, linha 26** {#anexo9_lin26} 10. PROCEDIMENTOS
-- **Anexo IX, linha 27** {#anexo9_lin27} Procedimentos para cada etapa de ocorrência de uma situação emergencial, considerando as atividades executadas e a capacitação dos profissionais existentes.
+- **Anexo IX, linha 27** {#anexo9_lin27} #situacao-emergencia Procedimentos para cada etapa de ocorrência de uma situação emergencial, considerando as atividades executadas e a capacitação dos profissionais existentes.
 - **Anexo IX, linha 28** {#anexo9_lin28} a. ACIDENTE
 - **Anexo IX, linha 29** {#anexo9_lin29} Sob o escopo ambiental, considerar:
 - **Anexo IX, linha 30** {#anexo9_lin30} • Vazamentos de pequena proporção (até 200 litros) ou grande proporção (acima de 200 litros);

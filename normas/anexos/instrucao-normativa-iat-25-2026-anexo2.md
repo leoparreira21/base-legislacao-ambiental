@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [avicultura]
 modalidades: [dlam, lac, lp]
-tags: [avicultura, mce, car, app, reserva-legal, uso-solo, classe-risco-solo, efluente, residuo-solido, dejeto-animal]
+tags: [analise-solo, app, avicultura, captacao, car, classe-risco-solo, conservacao-solo, dejeto-animal, disposicao-solo, efluente, emissao-atmosferica, esgoto-sanitario, memorial-caracterizacao, reserva-legal, taxa-aplicacao, uso-solo]
 ---
 
 # ANEXO II
@@ -15,7 +15,7 @@ tags: [avicultura, mce, car, app, reserva-legal, uso-solo, classe-risco-solo, ef
 
 **Anexo 2, linha 1** {#anexo2_lin1} ANEXO II
 
-**Anexo 2, linha 2** {#anexo2_lin2} TERMO DE REFERÊNCIA PARA ELABORAÇÃO DO MEMORIAL DE CARACTERIZAÇÃO DO EMPREENDIMENTO – MCE PARA EMPREENDIMENTOS DE AVICULTURA.
+**Anexo 2, linha 2** {#anexo2_lin2} #memorial-caracterizacao #avicultura TERMO DE REFERÊNCIA PARA ELABORAÇÃO DO MEMORIAL DE CARACTERIZAÇÃO DO EMPREENDIMENTO – MCE PARA EMPREENDIMENTOS DE AVICULTURA.
 
 **Anexo 2, linha 3** {#anexo2_lin3} O Memorial de Caracterização do Empreendimento – MCE deverá ser elaborado e assinado pelo responsável pelas informações prestadas, o qual deverá ser o mesmo responsável declarado no [[instrucao-normativa-iat-25-2026#anexo5|Anexo V]].
 
@@ -33,7 +33,7 @@ tags: [avicultura, mce, car, app, reserva-legal, uso-solo, classe-risco-solo, ef
 
 **Anexo 2, linha 10** {#anexo2_lin10} II. CROQUI DE LOCALIZAÇÃO DO EMPREENDIMENTO COM IMAGEM AÉREA E CONTENDO NO MÍNIMO
 
-**Anexo 2, linha 11** {#anexo2_lin11} Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural;
+**Anexo 2, linha 11** {#anexo2_lin11} #car Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural;
 
 **Anexo 2, linha 12** {#anexo2_lin12} Área onde será implantada a atividade (área total, área construída e área livre);
 
@@ -45,15 +45,15 @@ tags: [avicultura, mce, car, app, reserva-legal, uso-solo, classe-risco-solo, ef
 
 **Anexo 2, linha 16** {#anexo2_lin16} Corpos hídricos;
 
-**Anexo 2, linha 17** {#anexo2_lin17} Áreas de preservação permanente;
+**Anexo 2, linha 17** {#anexo2_lin17} #app Áreas de preservação permanente;
 
-**Anexo 2, linha 18** {#anexo2_lin18} Áreas de Reserva Legal e maciços florestais remanescentes;
+**Anexo 2, linha 18** {#anexo2_lin18} #reserva-legal Áreas de Reserva Legal e maciços florestais remanescentes;
 
 **Anexo 2, linha 19** {#anexo2_lin19} Vias de acesso principais;
 
 **Anexo 2, linha 20** {#anexo2_lin20} Pontos de referência.
 
-**Anexo 2, linha 21** {#anexo2_lin21} Caracterização do entorno em um raio mínimo de 50 metros do empreendimento, contemplando o uso e ocupação do solo, e a existência de residências.
+**Anexo 2, linha 21** {#anexo2_lin21} #uso-solo Caracterização do entorno em um raio mínimo de 50 metros do empreendimento, contemplando o uso e ocupação do solo, e a existência de residências.
 
 **Anexo 2, linha 22** {#anexo2_lin22} III. CARACTERIZAÇÃO DO EMPREENDIMENTO
 
@@ -69,41 +69,41 @@ tags: [avicultura, mce, car, app, reserva-legal, uso-solo, classe-risco-solo, ef
 
 **Anexo 2, linha 28** {#anexo2_lin28} IV. INFORMAÇÕES SOBRE POLUENTES
 
-**Anexo 2, linha 29** {#anexo2_lin29} Efluentes líquidos do processo (água de lavagem e caminhões, águas de lavagem de equipamentos, etc)
+**Anexo 2, linha 29** {#anexo2_lin29} #efluente Efluentes líquidos do processo (água de lavagem e caminhões, águas de lavagem de equipamentos, etc)
 
 **Anexo 2, linha 30** {#anexo2_lin30} Geração, tratamento e destinação final;
 
-**Anexo 2, linha 31** {#anexo2_lin31} Efluentes líquidos sanitários:
+**Anexo 2, linha 31** {#anexo2_lin31} #esgoto-sanitario Efluentes líquidos sanitários:
 
 **Anexo 2, linha 32** {#anexo2_lin32} Geração, tratamento e destinação final;
 
-**Anexo 2, linha 33** {#anexo2_lin33} Resíduos Sólidos (esterco)
+**Anexo 2, linha 33** {#anexo2_lin33} #dejeto-animal Resíduos Sólidos (esterco)
 
 **Anexo 2, linha 34** {#anexo2_lin34} Geração, tratamento e destinação final.
 
-**Anexo 2, linha 35** {#anexo2_lin35} Emissões atmosféricas, (no caso de uso de geradores a combustível) e sistemas de controle, quando houver;
+**Anexo 2, linha 35** {#anexo2_lin35} #emissao-atmosferica Emissões atmosféricas, (no caso de uso de geradores a combustível) e sistemas de controle, quando houver;
 
-**Anexo 2, linha 36** {#anexo2_lin36} Sistema de abastecimento de água (fonte, usos e volume de captação).
+**Anexo 2, linha 36** {#anexo2_lin36} #captacao Sistema de abastecimento de água (fonte, usos e volume de captação).
 
 **Anexo 2, linha 37** {#anexo2_lin37} V. USO AGRÍCOLA DE RESÍDUOS
 
 **Anexo 2, linha 38** {#anexo2_lin38} Descrever as características gerais da área destinada para a disposição dos dejetos.
 
-**Anexo 2, linha 39** {#anexo2_lin39} A escolha da área para disposição de resíduos gerados pela atividade deve considerar os aspectos ambientais das terras, sua classe de risco ambiental e as características físico–químicas do solo.
+**Anexo 2, linha 39** {#anexo2_lin39} #classe-risco-solo A escolha da área para disposição de resíduos gerados pela atividade deve considerar os aspectos ambientais das terras, sua classe de risco ambiental e as características físico–químicas do solo.
 
 **Anexo 2, linha 40** {#anexo2_lin40} Caracterização do solo
 
 **Anexo 2, linha 41** {#anexo2_lin41} Tipo de solo;
 
-**Anexo 2, linha 42** {#anexo2_lin42} Análise de solo – análise de rotina de fertilidade e granulometria
+**Anexo 2, linha 42** {#anexo2_lin42} #analise-solo Análise de solo – análise de rotina de fertilidade e granulometria
 
-**Anexo 2, linha 43** {#anexo2_lin43} Descrição técnica da metodologia de disposição de dejetos no solo
+**Anexo 2, linha 43** {#anexo2_lin43} #disposicao-solo Descrição técnica da metodologia de disposição de dejetos no solo
 
-**Anexo 2, linha 44** {#anexo2_lin44} Técnicas ou práticas de uso, manejo e conservação do solo, compatíveis com a Classificação de risco da área em questão;
+**Anexo 2, linha 44** {#anexo2_lin44} #conservacao-solo Técnicas ou práticas de uso, manejo e conservação do solo, compatíveis com a Classificação de risco da área em questão;
 
 **Anexo 2, linha 45** {#anexo2_lin45} Procedimento de aplicação: Época de aplicação, forma de aplicação, culturas, frequência, técnica de aplicação;
 
-**Anexo 2, linha 46** {#anexo2_lin46} Taxa de aplicação de acordo com o Manual de Adubação e Calagem para o Estado do Paraná, 2º Ed, 2019.
+**Anexo 2, linha 46** {#anexo2_lin46} #taxa-aplicacao Taxa de aplicação de acordo com o Manual de Adubação e Calagem para o Estado do Paraná, 2º Ed, 2019.
 
 ## Síntese do conversor (não é texto normativo)
 

@@ -19,7 +19,7 @@ alterado_por: ["[[resolucao-conama-501-2021]]"]
 revoga: []
 revogado_por: []
 cita: ["[[decreto-federal-99274-1990]]", "[[lei-federal-6938-1981]]", "[[portaria-mma-168-2005]]", "[[resolucao-conama-5-1989]]", "[[resolucao-conama-501-2021]]", "[[resolucao-conama-8-1990]]", "[[resolucao-conama-436-2011]]"]
-tags: [aluminio, amostragem, aplicabilidade, bagaco-cana, caldeira, capacidade-suporte, chumbo, cimento, cntp, cov, definicao, emissao-atmosferica, emissao-fugitiva, emissao-pontual, ert, fertilizante, fonte-existente, fonte-fixa, gas-natural, geracao-calor, geracao-energia, industria-madeira, industria-metalurgica, industria-quimica, lenha, licenca-instalacao, limite-emissao, lme, material-particulado, meta, metodo-analise, minerais-nao-metalicos, monitoramento, monitoramento-continuo, nox, oleo-combustivel, oxigenio-referencia, papel-celulose, petroleo, pilha-bateria, producao-mais-limpa, qualidade-ar, refinaria, relatorio, renovacao, siderurgia, sox, tecnologia-controle, transicao, turbina-gas, vidro, vigencia]
+tags: [aluminio, ambito-aplicacao, amostragem, bagaco-cana, caldeira, capacidade-suporte, chumbo, cimento, cntp, cov, definicao, emissao-atmosferica, emissao-fugitiva, emissao-pontual, ert, fertilizante, fonte-existente, fonte-fixa, gas-natural, geracao-calor, geracao-energia, industria-madeira, industria-metalurgica, industria-quimica, lenha, li, limite-emissao, lme, material-particulado, meta, metodo-analise, minerais-nao-metalicos, monitoramento, monitoramento-continuo, nox, oleo-combustivel, oxigenio-referencia, papel-celulose, petroleo, pilha-bateria, producao-mais-limpa, qualidade-ar, refinaria, relatorio, renovacao, siderurgia, sox, tecnologia-controle, transicao, turbina-gas, vidro, vigencia]
 fonte: "PDF do portal do CONAMA (texto redigitado, Word 365, sem as alterações de 2021), enviado por Leo; tabelas conferidas nas imagens das páginas"
 ---
 
@@ -144,7 +144,7 @@ Tags: #monitoramento #monitoramento-continuo #amostragem
 **Art. 5º, § 3º** {#art5_par3} Critérios adicionais para validação de dados poderão ser estabelecidos pelo órgão ambiental licenciador.
 
 ###### Art. 6º {#art6}
-Tags: #aplicabilidade #licenca-instalacao #limite-emissao
+Tags: #ambito-aplicacao #li #limite-emissao
 
 **Art. 6º, caput** {#art6_cpt} Esta Resolução se aplica às fontes fixas de poluentes atmosféricos cuja Licença de Instalação venha a ser solicitada aos órgãos licenciadores após a publicação desta Resolução.
 

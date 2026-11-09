@@ -1,0 +1,22 @@
+{
+  "commit_base": "dd1afa60af30ec87cf92609520fb0015c7bf8117",
+  "documentos": 183,
+  "tipos": {
+    "anexo": 107,
+    "comentario": 1,
+    "norma": 75
+  },
+  "ids": 43382,
+  "tags_distintas_antes": 825,
+  "tags_distintas_depois": 819,
+  "ocorrencias_antes": 39853,
+  "ocorrencias_depois": 39843,
+  "arquivos_alterados": 4,
+  "aliases": {
+    "licenca-previa": "lp",
+    "licenca-instalacao": "li",
+    "licenca-operacao": "lo",
+    "termo-ajustamento-conduta": "tac",
+    "aplicabilidade": "ambito-aplicacao"
+  }
+}

@@ -19,7 +19,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-ibama-1-2016]]", "[[instrucao-normativa-ibama-7-2018]]"]
 revogado_por: []
 cita: ["[[decreto-federal-8973-2017]]", "[[portaria-ibama-14-2017]]", "[[lei-federal-6938-1981]]", "[[decreto-federal-99274-1990]]", "[[lei-complementar-federal-140-2011]]", "[[resolucao-conama-1-1986]]", "[[resolucao-conama-237-1997]]", "[[instrucao-normativa-ibama-184-2008]]", "[[lei-complementar-federal-97-1999]]", "[[norma-cnen-ne-1-04]]", "[[norma-cnen-nn-4-01]]", "[[norma-cnen-nn-6-02]]", "[[norma-cnen-nn-8-01]]", "[[norma-cnen-nn-8-02]]", "[[nota-tecnica-cnen-drs-1-2016]]", "[[nota-tecnica-cnen-drs-1-2017]]"]
-tags: [alteracao, ambito-aplicacao, audiencia-publica, cnen, comissao-tripartite, competencia, condicionante, definicao, deposito-rejeito-radioativo, dispensa, eia-rima, enquadramento, fca, ibama, impacto-ambiental, instalacao-nuclear, instalacao-radiativa, licenca-ambiental, licenca-instalacao, licenca-operacao, licenca-previa, licenciamento-federal, licenciamento-trifasico, mineracao, parecer-tecnico, pba, radioisotopo, radiologia, ras, regularizacao, rejeito-radioativo, requerimento, responsabilidade, reuniao-tecnica-informativa, revogacao, sisnama, situacao-emergencia, termo-referencia, uniao, vigencia, vistoria]
+tags: [alteracao, ambito-aplicacao, audiencia-publica, cnen, comissao-tripartite, competencia, condicionante, definicao, deposito-rejeito-radioativo, dispensa, eia-rima, enquadramento, fca, ibama, impacto-ambiental, instalacao-nuclear, instalacao-radiativa, li, licenca-ambiental, licenciamento-federal, licenciamento-trifasico, lo, lp, mineracao, parecer-tecnico, pba, radioisotopo, radiologia, ras, regularizacao, rejeito-radioativo, requerimento, responsabilidade, reuniao-tecnica-informativa, revogacao, sisnama, situacao-emergencia, termo-referencia, uniao, vigencia, vistoria]
 fonte: "Reprodução do portal Verde Ghaia (SOGI), impressa do navegador em 20/10/2026 ('Microsoft: Print To PDF', 8 páginas, só imagem), com o anexo como captura de tela da página da Imprensa Nacional; enviada por Leo"
 ---
 
@@ -88,9 +88,9 @@ Tags: #licenca-ambiental #responsabilidade
 Tags: #licenciamento-federal #eia-rima #audiencia-publica #licenciamento-trifasico #termo-referencia #impacto-ambiental
 
 **Art. 6º, caput** {#art6_cpt} O processo de Licenciamento Ambiental Federal LAF de empreendimentos de significativo impacto ambiental, sujeitos ao licenciamento, nos termos do [[#art1_par2|Art.1°, § 2°]] desta IN, exigirá elaboração de EIA/RIMA e compreende os seguintes atos administrativos, emitidos isolada ou consecutivamente:
-- **Art. 6º, caput, inciso I** {#art6_cpt_inc1} #licenca-previa Licença Prévia;
-- **Art. 6º, caput, inciso II** {#art6_cpt_inc2} #licenca-instalacao Licença de Instalação;
-- **Art. 6º, caput, inciso III** {#art6_cpt_inc3} #licenca-operacao Licença de Operação.
+- **Art. 6º, caput, inciso I** {#art6_cpt_inc1} #lp Licença Prévia;
+- **Art. 6º, caput, inciso II** {#art6_cpt_inc2} #li Licença de Instalação;
+- **Art. 6º, caput, inciso III** {#art6_cpt_inc3} #lo Licença de Operação.
 
 **Art. 6º, § 1º** {#art6_par1} O Ibama comunicará o empreendedor acerca da necessidade de obtenção de cada ato administrativo previsto no [[#art6_cpt|caput]] deste Artigo e da necessidade de realização de Audiência Pública (AP).
 
@@ -100,16 +100,16 @@ Tags: #licenciamento-federal #eia-rima #audiencia-publica #licenciamento-trifasi
 Tags: #licenciamento-federal #ras #reuniao-tecnica-informativa #licenciamento-trifasico #termo-referencia
 
 **Art. 7º, caput** {#art7_cpt} O processo de Licenciamento Ambiental Federal LAF de empreendimentos de pequeno potencial de impacto ambiental, sujeitos ao licenciamento, nos termos do [[#art1_par2|Art.1°, § 2°]] desta IN, exigirá elaboração de Relatório Ambiental Simplificado RAS e compreende os seguintes atos administrativos, emitidos isolada ou consecutivamente:
-- **Art. 7º, caput, inciso I** {#art7_cpt_inc1} #licenca-previa Licença Prévia;
-- **Art. 7º, caput, inciso II** {#art7_cpt_inc2} #licenca-instalacao Licença de Instalação;
-- **Art. 7º, caput, inciso III** {#art7_cpt_inc3} #licenca-operacao Licença de Operação.
+- **Art. 7º, caput, inciso I** {#art7_cpt_inc1} #lp Licença Prévia;
+- **Art. 7º, caput, inciso II** {#art7_cpt_inc2} #li Licença de Instalação;
+- **Art. 7º, caput, inciso III** {#art7_cpt_inc3} #lo Licença de Operação.
 
 **Art. 7º, § 1º** {#art7_par1} O Ibama comunicará o empreendedor acerca da necessidade de obtenção de cada ato administrativo previsto no [[#art7_cpt|caput]] deste Artigo e da necessidade de realização de Reunião Técnica Informativa RTI.
 
 **Art. 7º, § 2º** {#art7_par2} A documentação a ser apresentada no âmbito do LAF será definidas pelo Ibama, mediante emissão de Termo de Referência TR.
 
 ###### Art. 8º {#art8}
-Tags: #licenca-previa #fca #termo-referencia #vistoria #parecer-tecnico #audiencia-publica
+Tags: #lp #fca #termo-referencia #vistoria #parecer-tecnico #audiencia-publica
 
 **Art. 8º, caput** {#art8_cpt} O processo de obtenção de Licença Prévia, no âmbito do licenciamento ambiental, compreenderá as seguintes etapas:
 - **Art. 8º, caput, inciso I** {#art8_cpt_inc1} encaminhamento, por parte do empreendedor, de:
@@ -124,21 +124,21 @@ Tags: #licenca-previa #fca #termo-referencia #vistoria #parecer-tecnico #audienc
 - **Art. 8º, caput, inciso VIII** {#art8_cpt_inc8} deferimento ou indeferimento do pedido de licença, dando-se a devida publicidade.
 
 ###### Art. 9º {#art9}
-Tags: #licenca-instalacao #pba #condicionante #parecer-tecnico
+Tags: #li #pba #condicionante #parecer-tecnico
 
 **Art. 9º, caput** {#art9_cpt} O processo de Licença de Instalação compreenderá as seguintes etapas:
 - **Art. 9º, caput, inciso I** {#art9_cpt_inc1} encaminhamento, por parte do empreendedor, de:
  - **Art. 9º, caput, inciso I, alínea "a"** {#art9_cpt_inc1_alia} Plano Básico Ambiental PBA;
- - **Art. 9º, caput, inciso I, alínea "b"** {#art9_cpt_inc1_alib} #licenca-previa relatório de comprovação do atendimento das condicionantes da licença prévia;
+ - **Art. 9º, caput, inciso I, alínea "b"** {#art9_cpt_inc1_alib} #lp relatório de comprovação do atendimento das condicionantes da licença prévia;
 - **Art. 9º, caput, inciso II** {#art9_cpt_inc2} análise pelo Ibama dos documentos apresentados;
 - **Art. 9º, caput, inciso III** {#art9_cpt_inc3} emissão de parecer técnico conclusivo pelo Ibama; e
 - **Art. 9º, caput, inciso IV** {#art9_cpt_inc4} deferimento ou indeferimento do pedido de Licença de Instalação, dando-se a devida publicidade.
 
 ###### Art. 10 {#art10}
-Tags: #licenca-operacao #condicionante #parecer-tecnico
+Tags: #lo #condicionante #parecer-tecnico
 
 **Art. 10, caput** {#art10_cpt} O processo de obtenção de Licença de Operação compreenderá as seguintes etapas:
-- **Art. 10, caput, inciso I** {#art10_cpt_inc1} #licenca-instalacao Comprovação, pelo empreendedor, do atendimento das condicionantes da Licença de Instalação e demais exigências do Ibama;
+- **Art. 10, caput, inciso I** {#art10_cpt_inc1} #li Comprovação, pelo empreendedor, do atendimento das condicionantes da Licença de Instalação e demais exigências do Ibama;
 - **Art. 10, caput, inciso II** {#art10_cpt_inc2} emissão de parecer técnico conclusivo pelo Ibama; e
 - **Art. 10, caput, inciso III** {#art10_cpt_inc3} deferimento ou indeferimento do pedido de Licença de Operação, dando-se a devida publicidade.
 
@@ -150,7 +150,7 @@ Tags: #regularizacao #licenciamento-federal
 **Art. 11, caput** {#art11_cpt} Os empreendimentos em operação, enquadrados na [[lei-complementar-federal-140-2011#art7_cpt_inc14_alig|alínea "g" do inciso XIV do artigo 7° da LC 140/2011]] e no LAF, nos termos do [[#art1_par2|Art.1°, § 2°]] desta IN, serão submetidos ao processo de Regularização Ambiental Federal.
 
 ###### Art. 12 {#art12}
-Tags: #regularizacao #fca #termo-referencia #sisnama #parecer-tecnico #licenca-operacao
+Tags: #regularizacao #fca #termo-referencia #sisnama #parecer-tecnico #lo
 
 **Art. 12, caput** {#art12_cpt} O processo de Regularização Ambiental Federal compreenderá as seguintes etapas:
 - **Art. 12, caput, inciso I** {#art12_cpt_inc1} encaminhamento, por parte do empreendedor, de:

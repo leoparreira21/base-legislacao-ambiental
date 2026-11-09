@@ -1,0 +1,108 @@
+{
+  "cobertura": [],
+  "escopo": "Revisão dirigida somente dos sete dispositivos registrados, com ementa, estudo e modalidades. Não declara leitura integral dos cinco anexos. Candidatos identificados no cruzamento de análises e no grafo local compatível com Graphify.",
+  "decisoes": [
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-30-2025-anexo5.md",
+      "id": "anexo5_tab1_cab",
+      "antes": [
+        "transbordo",
+        "residuo-transporte",
+        "destinacao-final"
+      ],
+      "depois": [
+        "transbordo",
+        "transporte",
+        "destinacao-final"
+      ],
+      "evidencia": "Período | Quantidade (ton/mês) | Empreendimento responsável pelo transporte | Empreendimento responsável pelo tratamento e/ou destinação final",
+      "justificativa": "O objeto é a operação de transporte de resíduos, não resíduos originados dos serviços de transporte. Ementa, estudo e trecho conferidos; preservadas as condições e a classificação de resíduos perigosos quando expressas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-30-2025-anexo5.md",
+      "id": "anexo5_tab2_cab",
+      "antes": [
+        "lixiviado",
+        "residuo-transporte",
+        "destinacao-final"
+      ],
+      "depois": [
+        "lixiviado",
+        "transporte",
+        "destinacao-final"
+      ],
+      "evidencia": "Período | Quantidade (ton/mês) | Empreendimento responsável pelo transporte | Empreendimento responsável pelo tratamento e/ou destinação final",
+      "justificativa": "O objeto é a operação de transporte de resíduos, não resíduos originados dos serviços de transporte. Ementa, estudo e trecho conferidos; preservadas as condições e a classificação de resíduos perigosos quando expressas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-31-2025-anexo5.md",
+      "id": "anexo5_tab1_cab",
+      "antes": [
+        "residuo-transporte",
+        "destinacao-final"
+      ],
+      "depois": [
+        "transporte",
+        "destinacao-final"
+      ],
+      "evidencia": "Período | Resíduo | Quantidade (ton/mês) | Empreendimento responsável pelo transporte | Empreendimento responsável pela destinação final",
+      "justificativa": "O objeto é a operação de transporte de resíduos, não resíduos originados dos serviços de transporte. Ementa, estudo e trecho conferidos; preservadas as condições e a classificação de resíduos perigosos quando expressas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-32-2025-anexo4.md",
+      "id": "anexo4_lin86",
+      "antes": [
+        "transporte",
+        "residuo-transporte"
+      ],
+      "depois": [
+        "transporte"
+      ],
+      "evidencia": "− Intensificação de tráfego na área, principalmente com relação ao transporte de resíduos;",
+      "justificativa": "O objeto é a operação de transporte de resíduos, não resíduos originados dos serviços de transporte. Ementa, estudo e trecho conferidos; preservadas as condições e a classificação de resíduos perigosos quando expressas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-32-2025-anexo4.md",
+      "id": "anexo4_lin74",
+      "antes": [
+        "iphan",
+        "bem-cultural"
+      ],
+      "depois": [
+        "bem-cultural"
+      ],
+      "evidencia": "3.12 Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;",
+      "justificativa": "Caracterização de vestígios culturais não exige manifestação do IPHAN neste dispositivo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-28-2025-anexo7.md",
+      "id": "anexo7_lin32",
+      "antes": [
+        "residuo-transporte",
+        "residuo-perigoso"
+      ],
+      "depois": [
+        "transporte-externo",
+        "residuo-perigoso"
+      ],
+      "evidencia": "• Coleta/Transporte externo: Especificar por grupo de resíduo, a frequência e o tipo de veículo transportador. Indicar as empresas responsáveis pela coleta externa (próprio gerador, empresa contratada etc.), fornecendo nome, endereço, telefone/fax e os dados do responsável técnico e cópia da respectiva licença de operação vigente dos responsáveis por esta etapa. Indicar resíduos que sejam de responsabilidade do Sistema de Coleta Seletiva. Anexar cópia de autorização de transporte de resíduos perigosos, se for o caso. Ações a serem adotadas pela empresa para os casos de acidentes ou incidentes causados por manuseio incorreto;",
+      "justificativa": "O objeto é a operação de transporte de resíduos, não resíduos originados dos serviços de transporte. Ementa, estudo e trecho conferidos; preservadas as condições e a classificação de resíduos perigosos quando expressas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-41-2025-anexo9.md",
+      "id": "anexo9_lin32",
+      "antes": [
+        "residuo-transporte",
+        "residuo-perigoso",
+        "coleta-seletiva"
+      ],
+      "depois": [
+        "transporte-externo",
+        "residuo-perigoso",
+        "coleta-seletiva"
+      ],
+      "evidencia": "• Coleta/Transporte externo: Especificar por grupo de resíduo, a frequência e o tipo de veículo transportador. Indicar as empresas responsáveis pela coleta externa (próprio gerador, empresa contratada etc.), fornecendo nome, endereço, telefone/fax e os dados do responsável técnico e cópia da respectiva licença de operação vigente dos responsáveis por esta etapa. Indicar resíduos que sejam de responsabilidade do Sistema de Coleta Seletiva. Anexar cópia de autorização de transporte de resíduos perigosos, se for o caso. Ações a serem adotadas pela empresa para os casos de acidentes ou incidentes causados por manuseio incorreto;",
+      "justificativa": "O objeto é a operação de transporte de resíduos, não resíduos originados dos serviços de transporte. Ementa, estudo e trecho conferidos; preservadas as condições e a classificação de resíduos perigosos quando expressas."
+    }
+  ]
+}

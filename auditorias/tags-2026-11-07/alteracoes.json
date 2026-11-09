@@ -1,0 +1,26 @@
+[
+  {
+    "arquivo": "normas/instrucao-normativa-ibama-19-2018.md",
+    "tipo": "normalizacao-lexical-ou-duplicata",
+    "antes": 99,
+    "depois": 99
+  },
+  {
+    "arquivo": "normas/lei-estadual-16346-2009.md",
+    "tipo": "normalizacao-lexical-ou-duplicata",
+    "antes": 48,
+    "depois": 48
+  },
+  {
+    "arquivo": "normas/resolucao-conama-382-2006.md",
+    "tipo": "normalizacao-lexical-ou-duplicata",
+    "antes": 98,
+    "depois": 98
+  },
+  {
+    "arquivo": "normas/resolucao-conama-430-2011.md",
+    "tipo": "revisao-artigos",
+    "antes": 96,
+    "depois": 86
+  }
+]

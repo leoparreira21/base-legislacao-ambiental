@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: Manual de boas práticas (odor e ruído)
 atividades: [compostagem]
 modalidades: [lac, las, lasa, lasr, lp, lpa, li, lia, lir, lo, loa, lor, rlac, rlas, rlo]
-tags: [diretriz-estudo, odor, poluicao-sonora, aeracao, aglomerado-populacional, amostragem, animal-morto, acondicionamento, compostagem, cortina-vegetal, direcao-vento, distancia-minima, emissao-atmosferica, estudo-dispersao, isolamento-acustico, lixiviado, lodo, manutencao-reparacao, monitoramento, olfatometria, rede-eletrica, responsavel-tecnico, vegetacao-nativa, vetor]
+tags: [acondicionamento, aeracao, aglomerado-populacional, amostragem, animal-morto, compostagem, cortina-vegetal, direcao-vento, distancia-minima, emissao-atmosferica, estudo-dispersao, isolamento-acustico, lixiviado, lodo, manutencao-reparacao, monitoramento, odor, olfatometria, poluicao-sonora, rede-eletrica, responsavel-tecnico, vegetacao-nativa, vetor]
 fonte: PDF da IN IAT 41/2025 (work/in41.pdf), páginas 220 a 224
 ---
 
@@ -25,7 +25,7 @@ fonte: PDF da IN IAT 41/2025 (work/in41.pdf), páginas 220 a 224
 - **Anexo XVIII, linha 4** {#anexo18_lin4} Deste modo, recomenda-se:
 - **Anexo XVIII, linha 5** {#anexo18_lin5} • Preferência por imóveis localizados em Zona Rural;
 - **Anexo XVIII, linha 6** {#anexo18_lin6} #vegetacao-nativa • Preferência por imóveis cercados de barreiras naturais (cadeias montanhosas e vegetação nativa densa, com pouco solo descoberto);
-- **Anexo XVIII, linha 7** {#anexo18_lin7} #aglomerado-populacional #distancia-minima • Preferencialmente distante de aglomerados populacionais;
+- **Anexo XVIII, linha 7** {#anexo18_lin7} #aglomerado-populacional • Preferencialmente distante de aglomerados populacionais;
 - **Anexo XVIII, linha 8** {#anexo18_lin8} #poluicao-sonora • Verificar os equipamentos a serem instalados e suas possíveis gerações de ruído;
 - **Anexo XVIII, linha 9** {#anexo18_lin9} #direcao-vento • Avaliar o direcionamento usual dos ventos no local com base em dados históricos;
 - **Anexo XVIII, linha 10** {#anexo18_lin10} #distancia-minima • A área de recebimento de resíduos e compostagem propriamente dita devem, preferencialmente, devem se situar a uma distância de 100 metros das divisas do lote e locais vizinhos onde possa haver a ocupação por residências ou outras habitações humanas.
@@ -68,8 +68,8 @@ fonte: PDF da IN IAT 41/2025 (work/in41.pdf), páginas 220 a 224
 - **Anexo XVIII, linha 47** {#anexo18_lin47} #odor #monitoramento • Mapeamento do odor percebido (zonas sensíveis).
 - **Anexo XVIII, linha 48** {#anexo18_lin48} #poluicao-sonora #monitoramento O monitoramento de ruído, por sua vez, deve atender aos critérios da ABNT NBR 10151 ou Instrução Normativa específica elaborada pelo Instituto Água e Terra.
 - **Anexo XVIII, linha 49** {#anexo18_lin49} 6. REFERÊNCIAS
-- **Anexo XVIII, linha 50** {#anexo18_lin50} #cortina-vegetal GUARINO, E. S. G.; LUCAS, R. R.; SOUSA, L. P.; MIURA, A. K.; GOMES, G. C. Cortinas vegetais: usos e conceitos. Pelotas: Embrapa Clima Temperado, 2018. 20 p. (Documentos / Embrapa Clima Temperado, n. 475). ISSN 1516-8840
-- **Anexo XVIII, linha 51** {#anexo18_lin51} #compostagem INÁCIO, C. T.; MILLER, P. R. M. Compostagem: ciência e prática para a gestão de resíduos orgânicos. Rio de Janeiro: Embrapa Solos, 2009. 156 p. ISBN 85-85864-31-6.
+- **Anexo XVIII, linha 50** {#anexo18_lin50} GUARINO, E. S. G.; LUCAS, R. R.; SOUSA, L. P.; MIURA, A. K.; GOMES, G. C. Cortinas vegetais: usos e conceitos. Pelotas: Embrapa Clima Temperado, 2018. 20 p. (Documentos / Embrapa Clima Temperado, n. 475). ISSN 1516-8840
+- **Anexo XVIII, linha 51** {#anexo18_lin51} INÁCIO, C. T.; MILLER, P. R. M. Compostagem: ciência e prática para a gestão de resíduos orgânicos. Rio de Janeiro: Embrapa Solos, 2009. 156 p. ISBN 85-85864-31-6.
 - **Anexo XVIII, linha 52** {#anexo18_lin52} SAITO, M.L.; SCRAMIN, S. Plantas aromáticas e seu na agricultura. Jaguariúna: Embrapa Meio Ambiente, 2000. 46p. (Embrapa Meio Ambiente. Documentos, 20).
 
 ## Síntese do conversor (não é texto normativo) {#sintese}

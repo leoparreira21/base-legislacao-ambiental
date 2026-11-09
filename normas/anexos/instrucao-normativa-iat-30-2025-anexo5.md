@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Relatório de Gerenciamento de Resíduos
 atividades: [transbordo-residuo-solido-urbano]
 modalidades: [rlas, rlo, lasr, lor]
-tags: [diretriz-estudo, gerenciamento-residuo, transbordo, residuo-solido-urbano, renovacao, regularizacao, ampliacao, vetor, controle-ambiental, lixiviado, efluente, destinacao-final, residuo-transporte, mtr, sinir]
+tags: [ampliacao, controle-ambiental, destinacao-final, efluente, lixiviado, regularizacao, renovacao, transbordo, transporte, vetor]
 fonte: PDF da IN IAT 30/2025, páginas 60 e 61 (a página 60 traz o título "ANEXO IV")
 ---
 
@@ -32,7 +32,7 @@ fonte: PDF da IN IAT 30/2025, páginas 60 e 61 (a página 60 traz o título "ANE
 
 **Anexo V, Tabela 1** {#anexo5_tab1} TABELA 1 – Resíduos sólidos recebidos para transbordo
 
-- **Anexo V, Tabela 1, cabeçalho** {#anexo5_tab1_cab} #transbordo #residuo-transporte #destinacao-final Período | Quantidade (ton/mês) | Empreendimento responsável pelo transporte | Empreendimento responsável pelo tratamento e/ou destinação final
+- **Anexo V, Tabela 1, cabeçalho** {#anexo5_tab1_cab} #transbordo #transporte #destinacao-final Período | Quantidade (ton/mês) | Empreendimento responsável pelo transporte | Empreendimento responsável pelo tratamento e/ou destinação final
 - **Anexo V, Tabela 1, linha 1** {#anexo5_tab1_lin1} Período: Janeiro | Quantidade (ton/mês), Empreendimento responsável pelo transporte, Empreendimento responsável pelo tratamento e/ou destinação final: (células em branco, a preencher)
 - **Anexo V, Tabela 1, linha 2** {#anexo5_tab1_lin2} Período: Fevereiro | Quantidade (ton/mês), Empreendimento responsável pelo transporte, Empreendimento responsável pelo tratamento e/ou destinação final: (células em branco, a preencher)
 - **Anexo V, Tabela 1, linha 3** {#anexo5_tab1_lin3} Período: Março | Quantidade (ton/mês), Empreendimento responsável pelo transporte, Empreendimento responsável pelo tratamento e/ou destinação final: (células em branco, a preencher)
@@ -41,7 +41,7 @@ fonte: PDF da IN IAT 30/2025, páginas 60 e 61 (a página 60 traz o título "ANE
 
 **Anexo V, Tabela 2** {#anexo5_tab2} TABELA 2 – Lixiviado destinado
 
-- **Anexo V, Tabela 2, cabeçalho** {#anexo5_tab2_cab} #lixiviado #residuo-transporte #destinacao-final Período | Quantidade (ton/mês) | Empreendimento responsável pelo transporte | Empreendimento responsável pelo tratamento e/ou destinação final
+- **Anexo V, Tabela 2, cabeçalho** {#anexo5_tab2_cab} #lixiviado #transporte #destinacao-final Período | Quantidade (ton/mês) | Empreendimento responsável pelo transporte | Empreendimento responsável pelo tratamento e/ou destinação final
 - **Anexo V, Tabela 2, linha 1** {#anexo5_tab2_lin1} Período: Janeiro | Quantidade (ton/mês), Empreendimento responsável pelo transporte, Empreendimento responsável pelo tratamento e/ou destinação final: (células em branco, a preencher)
 - **Anexo V, Tabela 2, linha 2** {#anexo5_tab2_lin2} Período: Fevereiro | Quantidade (ton/mês), Empreendimento responsável pelo transporte, Empreendimento responsável pelo tratamento e/ou destinação final: (células em branco, a preencher)
 - **Anexo V, Tabela 2, linha 3** {#anexo5_tab2_lin3} Período: Março | Quantidade (ton/mês), Empreendimento responsável pelo transporte, Empreendimento responsável pelo tratamento e/ou destinação final: (células em branco, a preencher)

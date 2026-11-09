@@ -1,0 +1,630 @@
+{
+  "lote": 1,
+  "metodo": "Leitura dos textos normativos completos dos anexos, ementas e contexto indicado na abertura, distinguindo sínteses editoriais. Decisões manuais por ID.",
+  "limites": [
+    "Sem nova conferência com publicações oficiais/PDF.",
+    "Situação de vigência e sínteses editoriais preservadas.",
+    "Tag temática não prova aplicabilidade, exigência ou dispensa."
+  ],
+  "cobertura": [
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo10.md",
+      "texto_normativo": "lido integralmente",
+      "contexto": "ementa da norma-mãe e contexto/modalidades do anexo lidos",
+      "ids": 39,
+      "ocorrencias_antes": 0,
+      "ocorrencias_depois": 10,
+      "alterado": true
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md",
+      "texto_normativo": "lido integralmente",
+      "contexto": "ementa da norma-mãe e contexto/modalidades do anexo lidos",
+      "ids": 45,
+      "ocorrencias_antes": 0,
+      "ocorrencias_depois": 12,
+      "alterado": true
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo5.md",
+      "texto_normativo": "lido integralmente",
+      "contexto": "ementa da norma-mãe e contexto/modalidades do anexo lidos",
+      "ids": 53,
+      "ocorrencias_antes": 0,
+      "ocorrencias_depois": 12,
+      "alterado": true
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-24-2026-anexo2.md",
+      "texto_normativo": "lido integralmente",
+      "contexto": "ementa da norma-mãe e contexto/modalidades do anexo lidos",
+      "ids": 38,
+      "ocorrencias_antes": 32,
+      "ocorrencias_depois": 28,
+      "alterado": true
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "texto_normativo": "lido integralmente",
+      "contexto": "ementa da norma-mãe e contexto/modalidades do anexo lidos",
+      "ids": 46,
+      "ocorrencias_antes": 0,
+      "ocorrencias_depois": 16,
+      "alterado": true
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-27-2026-anexo6.md",
+      "texto_normativo": "lido integralmente",
+      "contexto": "ementa da norma-mãe e contexto/modalidades do anexo lidos",
+      "ids": 10,
+      "ocorrencias_antes": 0,
+      "ocorrencias_depois": 10,
+      "alterado": true
+    }
+  ],
+  "decisoes": [
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo10.md",
+      "id": "anexo10_lin2",
+      "antes": [],
+      "depois": [
+        "rdpa"
+      ],
+      "evidencia": "O Relatório de Detalhamento dos Programas Ambientais - RDPA deverá apresentar, de forma detalhada, os programas ambientais e todas as medidas de controle dos impactos ambientais que foram propostas no RAP e que deverão ser executadas no empreendimento. O RDPA é uma exigência legal dos órgãos ambientais para a obtenção da Licença de Instalação (LI) do empreendimento.",
+      "justificativa": "Define o RDPA exigido para obtenção de LI; anexo sem tags diretas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo10.md",
+      "id": "anexo10_lin23",
+      "antes": [],
+      "depois": [
+        "terraplanagem"
+      ],
+      "evidencia": "4.1.1. Projeto de Terraplanagem conforme [[instrucao-normativa-iat-21-2025#anexo4|Anexo IV]] desta resolução.",
+      "justificativa": "Exige projeto específico de terraplanagem."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo10.md",
+      "id": "anexo10_lin24",
+      "antes": [],
+      "depois": [
+        "pgrcc"
+      ],
+      "evidencia": "4.1.2. Projeto de Gerenciamento de Resíduos da Construção Civil - PGRCC, quando o empreendimento possuir mais de 3.000 m² de área construída e/ou 600 m² de demolição, conforme Termo de Referência ([[instrucao-normativa-iat-21-2025#anexo10|Anexo X]]) e [[resolucao-conama-307-2002|Resolução CONAMA 307/2002]];",
+      "justificativa": "Exige PGRCC condicionado aos limiares de construção/demolição."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo10.md",
+      "id": "anexo10_lin25",
+      "antes": [],
+      "depois": [
+        "drenagem"
+      ],
+      "evidencia": "4.1.3. Projeto de Drenagem Superficial conforme [[instrucao-normativa-iat-21-2025#anexo7|Anexo VII]] desta resolução.",
+      "justificativa": "Projeto de drenagem superficial."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo10.md",
+      "id": "anexo10_lin26",
+      "antes": [],
+      "depois": [
+        "app",
+        "area-verde-urbana"
+      ],
+      "evidencia": "4.1.4. Plano de manutenção de áreas de preservação permanente e áreas verdes existentes no empreendimento;",
+      "justificativa": "Plano de manutenção de áreas protegidas explicitamente indicadas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo10.md",
+      "id": "anexo10_lin27",
+      "antes": [],
+      "depois": [
+        "plano-recuperacao"
+      ],
+      "evidencia": "4.1.5. Projeto de recuperação de áreas degradadas e/ou processos erosivos acentuados, conforme [[portaria-iat-17-2025|Portaria IAT n° 17/2025]], se aplicável.",
+      "justificativa": "Projeto de recuperação condicionado à aplicabilidade; evita criar PRAD como nova tag."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo10.md",
+      "id": "anexo10_lin30",
+      "antes": [],
+      "depois": [
+        "medida-mitigadora",
+        "medida-compensatoria"
+      ],
+      "evidencia": "Deverá apresentar, detalhadamente, os projetos executivos referentes ao controle ambiental das ações abordadas no item 4, das medidas mitigadoras e compensatórias, bem como os programas ambientais propostos no RAP.",
+      "justificativa": "Projetos executivos das medidas propostas no RAP."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo10.md",
+      "id": "anexo10_lin34",
+      "antes": [],
+      "depois": [
+        "art-anotacao"
+      ],
+      "evidencia": "Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos/projetos/laudos/relatórios apresentados e dos responsáveis pela execução do empreendimento, junto aos respectivos conselhos de classe.",
+      "justificativa": "Exigência de ART dos profissionais."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md",
+      "id": "anexo4_lin1",
+      "antes": [],
+      "depois": [
+        "empreendimento-imobiliario"
+      ],
+      "evidencia": "Apresentar, no Projeto de Implantação Urbanística, no mínimo:",
+      "justificativa": "Identifica projeto urbanístico em anexo sem tags diretas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md",
+      "id": "anexo4_lin4",
+      "antes": [],
+      "depois": [
+        "responsavel-tecnico"
+      ],
+      "evidencia": "− Responsável técnico: nome completo, número de registro profissional (CREA ou demais Conselhos de Classe) e assinatura do profissional responsável pela elaboração da planta;",
+      "justificativa": "Assinatura e registro profissional exigidos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md",
+      "id": "anexo4_lin15",
+      "antes": [],
+      "depois": [
+        "app"
+      ],
+      "evidencia": "− Áreas de Preservação Permanente (APP): Área total de APP por lote ou sublote e total no imóvel;",
+      "justificativa": "Quantificação de APP."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md",
+      "id": "anexo4_lin16",
+      "antes": [],
+      "depois": [
+        "area-verde-urbana"
+      ],
+      "evidencia": "− Área Verde Urbana (AVU): Área total de Área Verde Urbana;",
+      "justificativa": "Quantificação de AVU."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md",
+      "id": "anexo4_lin28",
+      "antes": [],
+      "depois": [
+        "georreferenciamento"
+      ],
+      "evidencia": "− Coordenadas geográficas de todos os vértices do polígono do imóvel em coordenas geográficas UTM SIRGAS 2000;",
+      "justificativa": "Coordenadas de todos vértices."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md",
+      "id": "anexo4_lin31",
+      "antes": [],
+      "depois": [
+        "app"
+      ],
+      "evidencia": "− Áreas de Preservação Permanente (APP): delimitação e identificação de áreas de APP (nascentes, cursos d'água, matas ciliares, etc);",
+      "justificativa": "Delimitação de APP no projeto."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md",
+      "id": "anexo4_lin32",
+      "antes": [],
+      "depois": [
+        "area-verde-urbana"
+      ],
+      "evidencia": "− Área Verde Urbana (AVU): delimitação e quantificação da área de Área Verde Urbana em conformidade com a Instrução Normativa que estabelece critérios e procedimentos para autorização de supressão de vegetação nativa no Estado do Paraná.",
+      "justificativa": "Delimitação de AVU no projeto."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md",
+      "id": "anexo4_lin33",
+      "antes": [],
+      "depois": [
+        "plano-recuperacao"
+      ],
+      "evidencia": "− APP e/ou AVU a serem recuperadas: Áreas objeto de PRAD (se houver), em conformidade com a [[portaria-iat-17-2025|Portaria IAT n° 17/2025]];",
+      "justificativa": "Áreas objeto de PRAD se houver."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md",
+      "id": "anexo4_lin34",
+      "antes": [],
+      "depois": [
+        "area-inundavel"
+      ],
+      "evidencia": "− Áreas sujeitas a possíveis inundações/alagamentos: delimitação de áreas sujeitas a inundação, conforme cota de inundação apresentada na Manifestação da Diretoria de Saneamento Ambiental e Recursos Hídricos do Instituto Água e Terra (IAT);",
+      "justificativa": "Delimita risco de inundação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md",
+      "id": "anexo4_lin40",
+      "antes": [],
+      "depois": [
+        "distancia-minima"
+      ],
+      "evidencia": "− Recuos frontais: distância mínima entre a fachada da edificação e a divisa frontal do lote;",
+      "justificativa": "Recuo frontal mínimo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md",
+      "id": "anexo4_lin41",
+      "antes": [],
+      "depois": [
+        "distancia-minima"
+      ],
+      "evidencia": "− Recuos laterais: distância mínima entre a edificação e as divisas laterais do lote;",
+      "justificativa": "Recuo lateral mínimo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo4.md",
+      "id": "anexo4_lin42",
+      "antes": [],
+      "depois": [
+        "distancia-minima"
+      ],
+      "evidencia": "− Recuos de fundo: distância mínima entre a fachada posterior da edificação e a divisa de fundo do lote;",
+      "justificativa": "Recuo posterior mínimo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo5.md",
+      "id": "anexo5_lin1",
+      "antes": [],
+      "depois": [
+        "terraplanagem"
+      ],
+      "evidencia": "O Projeto de Terraplenagem deverá apresentar, de forma detalhada, as operações de movimentação de solo a serem executadas para implantação do empreendimento.",
+      "justificativa": "Objeto do projeto sem tags diretas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo5.md",
+      "id": "anexo5_lin20",
+      "antes": [],
+      "depois": [
+        "destinacao-final"
+      ],
+      "evidencia": "4.2. Deverão ser observadas as recomendações das normas técnicas brasileiras, bem como as Resoluções CONAMA nºs [[resolucao-conama-302-2002|302/2002]], [[resolucao-conama-303-2002|303/2002]] e [[resolucao-conama-307-2002|307/2002]] na realização das obras e nos procedimentos de corte, nivelamento, transporte e destinação final de solos e material de escavação excedente.",
+      "justificativa": "Corte/transporte/destinação de solos e material excedente."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo5.md",
+      "id": "anexo5_lin27",
+      "antes": [],
+      "depois": [
+        "art-anotacao"
+      ],
+      "evidencia": "− Devidamente assinada por responsável técnico, que deverá estar em conformidade com a ART apresentada.",
+      "justificativa": "Planta assinada em conformidade com ART."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo5.md",
+      "id": "anexo5_lin38",
+      "antes": [],
+      "depois": [
+        "app",
+        "distancia-minima"
+      ],
+      "evidencia": "4.6. Toda e qualquer intervenção a ser realizada no solo, seja para corte, aterro ou nivelamento do terreno, deverá manter uma distância mínima de cursos hídricos e nascentes em conformidade com a [[lei-federal-12651-2012#art3|Lei Federal n° 12.651/2012, Art. 3]], ou seja, não deverá ultrapassar os limites da delimitação da Área de Preservação Permanente.",
+      "justificativa": "Proíbe ultrapassar APP na movimentação do solo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo5.md",
+      "id": "anexo5_lin40",
+      "antes": [],
+      "depois": [
+        "licenca-ambiental"
+      ],
+      "evidencia": "4.8. Indicar a localização da área de bota-fora ou empréstimo, que deve ser devidamente licenciada, apresentando endereço completo e licença ambiental do local/empreendimento.",
+      "justificativa": "Área de bota-fora/empréstimo deve ser licenciada."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo5.md",
+      "id": "anexo5_lin41",
+      "antes": [],
+      "depois": [
+        "contencao",
+        "drenagem"
+      ],
+      "evidencia": "4.9. Detalhar as estruturas de contenção e drenagem que se fizerem necessárias a serem implantadas para garantir a estabilidade da obra, bem como para evitar quaisquer danos ou interferências tais como infiltrações, alagamentos e deslizamentos de solo, aos imóveis vizinhos, sistema viário ou bens públicos. Caso o projeto não apresente necessidade de tais dispositivos, apresentar justificativa técnica.",
+      "justificativa": "Estruturas de contenção/drenagem ou justificativa de ausência."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo5.md",
+      "id": "anexo5_lin42",
+      "antes": [],
+      "depois": [
+        "conservacao-solo"
+      ],
+      "evidencia": "4.10. Informar as medidas que se fizerem necessárias e a serem adotadas para evitar a formação de processos erosivos e de movimentação de massa na área ou em suas imediações, bem como para evitar a ocorrência e assoreamentos de sistemas de drenagem, corpos hídricos, lagos, lagoas, banhados, nascentes e outras estruturas. Caso o projeto não apresente necessidade de adoção de tais medidas, apresentar justificativa técnica.",
+      "justificativa": "Medidas contra erosão e assoreamento."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo5.md",
+      "id": "anexo5_lin46",
+      "antes": [],
+      "depois": [
+        "supressao-vegetacao"
+      ],
+      "evidencia": "5.2. Deverão ser preservadas todas as árvores cujo corte não tenha sido autorizado.",
+      "justificativa": "Preservação de árvores sem corte autorizado."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo5.md",
+      "id": "anexo5_lin48",
+      "antes": [],
+      "depois": [
+        "disposicao-final"
+      ],
+      "evidencia": "5.4. Os resíduos excedentes da terraplenagem deverão ser destinados a local com aterro licenciado.",
+      "justificativa": "Resíduos excedentes destinados a aterro licenciado."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo5.md",
+      "id": "anexo5_lin50",
+      "antes": [],
+      "depois": [
+        "art-anotacao"
+      ],
+      "evidencia": "Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos e projetos apresentados, bem como da execução dos trabalhos, junto aos respectivos conselhos de classe.",
+      "justificativa": "ART de elaboração e execução."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-24-2026-anexo2.md",
+      "id": "anexo2_lin19",
+      "antes": [
+        "uso-solo",
+        "distancia-minima"
+      ],
+      "depois": [
+        "uso-solo"
+      ],
+      "evidencia": "● Caracterização do entorno em um raio mínimo de 50 metros do empreendimento, contemplando o uso e ocupação do solo, e a existência de residências.",
+      "justificativa": "Raio de caracterização do entorno não é afastamento mínimo de implantação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-24-2026-anexo2.md",
+      "id": "anexo2_lin33",
+      "antes": [
+        "emissao-atmosferica",
+        "gerador"
+      ],
+      "depois": [
+        "emissao-atmosferica"
+      ],
+      "evidencia": "d) Emissões atmosféricas, (no caso de uso de geradores a combustível) e sistemas de controle, quando houver;",
+      "justificativa": "Gerador aqui é equipamento elétrico; tag gerador é ambígua com gerador de resíduos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-24-2026-anexo2.md",
+      "id": "anexo2_lin36",
+      "antes": [
+        "dejeto-animal",
+        "uso-agricola-efluente",
+        "dimensionamento",
+        "art-anotacao",
+        "responsavel-tecnico"
+      ],
+      "depois": [
+        "dejeto-animal",
+        "uso-agricola-efluente",
+        "art-anotacao"
+      ],
+      "evidencia": "Projeto técnico com dimensionamento do número de animais a serem alojados e planejamento agrícola para utilização agrícola de dejetos de suínos, utilizando o SGAS e considerando os critérios técnicos mínimos para licenciamento ambiental de granjas de suínos (Documentos 239/2023, Embrapa Suínos Aves), elaborado por profissional habilitado, acompanhado da devida Anotação de Responsabilidade Técnica – ART.",
+      "justificativa": "Projeto agrícola de dejetos com ART; dimensionamento genérico e responsável técnico redundantes no instrumento específico."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "id": "anexo2_lin2",
+      "antes": [],
+      "depois": [
+        "memorial-caracterizacao",
+        "avicultura"
+      ],
+      "evidencia": "TERMO DE REFERÊNCIA PARA ELABORAÇÃO DO MEMORIAL DE CARACTERIZAÇÃO DO EMPREENDIMENTO – MCE PARA EMPREENDIMENTOS DE AVICULTURA.",
+      "justificativa": "Identifica MCE de avicultura; anexo sem tags diretas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "id": "anexo2_lin11",
+      "antes": [],
+      "depois": [
+        "car"
+      ],
+      "evidencia": "Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural;",
+      "justificativa": "Limites em conformidade com CAR."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "id": "anexo2_lin17",
+      "antes": [],
+      "depois": [
+        "app"
+      ],
+      "evidencia": "Áreas de preservação permanente;",
+      "justificativa": "Localização de APP."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "id": "anexo2_lin18",
+      "antes": [],
+      "depois": [
+        "reserva-legal"
+      ],
+      "evidencia": "Áreas de Reserva Legal e maciços florestais remanescentes;",
+      "justificativa": "Localização de reserva legal."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "id": "anexo2_lin21",
+      "antes": [],
+      "depois": [
+        "uso-solo"
+      ],
+      "evidencia": "Caracterização do entorno em um raio mínimo de 50 metros do empreendimento, contemplando o uso e ocupação do solo, e a existência de residências.",
+      "justificativa": "Caracterização de uso do entorno, sem inferir afastamento mínimo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "id": "anexo2_lin29",
+      "antes": [],
+      "depois": [
+        "efluente"
+      ],
+      "evidencia": "Efluentes líquidos do processo (água de lavagem e caminhões, águas de lavagem de equipamentos, etc)",
+      "justificativa": "Efluentes do processo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "id": "anexo2_lin31",
+      "antes": [],
+      "depois": [
+        "esgoto-sanitario"
+      ],
+      "evidencia": "Efluentes líquidos sanitários:",
+      "justificativa": "Efluente sanitário."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "id": "anexo2_lin33",
+      "antes": [],
+      "depois": [
+        "dejeto-animal"
+      ],
+      "evidencia": "Resíduos Sólidos (esterco)",
+      "justificativa": "Resíduo de esterco."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "id": "anexo2_lin35",
+      "antes": [],
+      "depois": [
+        "emissao-atmosferica"
+      ],
+      "evidencia": "Emissões atmosféricas, (no caso de uso de geradores a combustível) e sistemas de controle, quando houver;",
+      "justificativa": "Emissão de gerador a combustível, não gerador de resíduos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "id": "anexo2_lin36",
+      "antes": [],
+      "depois": [
+        "captacao"
+      ],
+      "evidencia": "Sistema de abastecimento de água (fonte, usos e volume de captação).",
+      "justificativa": "Fonte/usos/volume de captação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "id": "anexo2_lin39",
+      "antes": [],
+      "depois": [
+        "classe-risco-solo"
+      ],
+      "evidencia": "A escolha da área para disposição de resíduos gerados pela atividade deve considerar os aspectos ambientais das terras, sua classe de risco ambiental e as características físico–químicas do solo.",
+      "justificativa": "Risco e características do solo condicionam área de aplicação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "id": "anexo2_lin42",
+      "antes": [],
+      "depois": [
+        "analise-solo"
+      ],
+      "evidencia": "Análise de solo – análise de rotina de fertilidade e granulometria",
+      "justificativa": "Análise de fertilidade e granulometria."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "id": "anexo2_lin43",
+      "antes": [],
+      "depois": [
+        "disposicao-solo"
+      ],
+      "evidencia": "Descrição técnica da metodologia de disposição de dejetos no solo",
+      "justificativa": "Metodologia de disposição de dejetos no solo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "id": "anexo2_lin44",
+      "antes": [],
+      "depois": [
+        "conservacao-solo"
+      ],
+      "evidencia": "Técnicas ou práticas de uso, manejo e conservação do solo, compatíveis com a Classificação de risco da área em questão;",
+      "justificativa": "Práticas compatíveis com risco da área."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md",
+      "id": "anexo2_lin46",
+      "antes": [],
+      "depois": [
+        "taxa-aplicacao"
+      ],
+      "evidencia": "Taxa de aplicação de acordo com o Manual de Adubação e Calagem para o Estado do Paraná, 2º Ed, 2019.",
+      "justificativa": "Taxa de aplicação conforme manual."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-27-2026-anexo6.md",
+      "id": "anexo6_lin1",
+      "antes": [],
+      "depois": [
+        "responsavel-tecnico"
+      ],
+      "evidencia": "1 - Identificação do empreendedor e do Responsável Técnico do empreendimento;",
+      "justificativa": "Identificação de responsável técnico."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-27-2026-anexo6.md",
+      "id": "anexo6_lin2",
+      "antes": [],
+      "depois": [
+        "app",
+        "georreferenciamento"
+      ],
+      "evidencia": "2 - Localização do empreendimento em Planta ou croqui de localização do empreendimento, com um ponto de Coordenada Geográfica (admitido erro de até 30m) central de referência, e indicação de APP, Corpos Hídricos e Acessos;",
+      "justificativa": "Localização por coordenada e indicação de APP."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-27-2026-anexo6.md",
+      "id": "anexo6_lin6",
+      "antes": [],
+      "depois": [
+        "especie-exotica"
+      ],
+      "evidencia": "3.3 - Métodos de controle da disseminação de espécies exóticas e alóctones, quando couber.",
+      "justificativa": "Controle da disseminação de exóticas e alóctones, quando couber."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-27-2026-anexo6.md",
+      "id": "anexo6_lin8",
+      "antes": [],
+      "depois": [
+        "diagnostico-ambiental"
+      ],
+      "evidencia": "4.1 - Caracterização do meio físico abrangendo: (i) descrição da topografia do local; (ii) variáveis físico-químicas e biológicas: pH, temperatura, transparência, oxigênio dissolvido, fósforo total, compostos nitrogenados, DBO, coliformes termotolerantes; entre outros aspectos.",
+      "justificativa": "Diagnóstico de parâmetros do meio físico; não são padrões de emissão."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-27-2026-anexo6.md",
+      "id": "anexo6_lin9",
+      "antes": [],
+      "depois": [
+        "app",
+        "fauna",
+        "flora"
+      ],
+      "evidencia": "4.2 - Descrição do meio biótico: identificação da ictiofauna; caracterização da flora do local e do entorno; indicação de intervenção em APP; entre outros aspectos.",
+      "justificativa": "Diagnóstico biótico e intervenção em APP."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-27-2026-anexo6.md",
+      "id": "anexo6_lin10",
+      "antes": [],
+      "depois": [
+        "impacto-ambiental",
+        "medida-mitigadora"
+      ],
+      "evidencia": "4.3 - Impactos ambientais: descrever os potenciais impactos ambientais gerados pelo empreendimento, indicando as respectivas medidas mitigadoras e prática de aquicultura.",
+      "justificativa": "Avaliação de impactos e mitigação da aquicultura."
+    }
+  ]
+}

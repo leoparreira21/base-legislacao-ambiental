@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Relatório de Operação da Unidade
 atividades: [armazenamento-graos]
 modalidades: []
-tags: [diretriz-estudo, armazenamento-graos, emissao-fugitiva, material-particulado, aglomerado-populacional, dea, automonitoramento, art-anotacao]
+tags: [aglomerado-populacional, art-anotacao, emissao-fugitiva, material-particulado]
 fonte: PDF assinado da Resolução SEDEST nº 02/2025 (SEDEST), páginas 106 e 107
 ---
 
@@ -38,10 +38,10 @@ fonte: PDF assinado da Resolução SEDEST nº 02/2025 (SEDEST), páginas 106 e 1
 
 - **Anexo VI, item 4, linha 9** {#anexo6_lin9} 4. Medidas de contenção
 - **Anexo VI, item 4, linha 10** {#anexo6_lin10} #aglomerado-populacional Assinalar as medidas de contenção aplicadas na unidade, aplicáveis para unidades de beneficiamento de grãos ou, transbordo (item III), em distância inferior à 500 metros de aglomerado populacional.
-- **Anexo VI, item 4, linha 11** {#anexo6_lin11} ( ) I. Os secadores de grãos deverão contar com sistema de captação de partículas;
-- **Anexo VI, item 4, linha 12** {#anexo6_lin12} ( ) II. Os processos de pré-limpeza e limpeza de grãos deverão contar com sistemas de controle das emissões, tais como ciclones, multiciclones ou filtros;
+- **Anexo VI, item 4, linha 11** {#anexo6_lin11} #material-particulado ( ) I. Os secadores de grãos deverão contar com sistema de captação de partículas;
+- **Anexo VI, item 4, linha 12** {#anexo6_lin12} #material-particulado ( ) II. Os processos de pré-limpeza e limpeza de grãos deverão contar com sistemas de controle das emissões, tais como ciclones, multiciclones ou filtros;
 - **Anexo VI, item 4, linha 13** {#anexo6_lin13} #emissao-fugitiva ( ) III. As moegas deverão contar com sistemas de contenção das emissões fugitivas com a instalação de, no mínimo, cortinas ou na forma de módulos mecânicos de contenção;
-- **Anexo VI, item 4, linha 14** {#anexo6_lin14} ( ) IV. As vias internas deverão ser pavimentadas ou molhadas em frequência por sistema capaz de diminuir a geração e dispersão do pó;
+- **Anexo VI, item 4, linha 14** {#anexo6_lin14} #material-particulado ( ) IV. As vias internas deverão ser pavimentadas ou molhadas em frequência por sistema capaz de diminuir a geração e dispersão do pó;
 - **Anexo VI, item 4, linha 15** {#anexo6_lin15} ( ) V. Implantação de barreira vegetal ou artificial no entorno da área operacional;
 - **Anexo VI, item 4, linha 16** {#anexo6_lin16} ( ) VI. Deverão ser adotadas medidas para minimização das emissões na área de expedição;
 - **Anexo VI, item 4, linha 17** {#anexo6_lin17} ( ) VII. As correias transportadoras, que operarem a céu aberto, deverão contar com cobertura superior e nas laterais;

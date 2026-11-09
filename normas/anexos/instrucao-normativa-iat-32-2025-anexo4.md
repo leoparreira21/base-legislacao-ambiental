@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RAP
 atividades: [armazenamento-temporario-residuo]
 modalidades: [lp, lpa]
-tags: [diretriz-estudo, rap, armazenamento-residuo, abastecimento-publico, abnt, acondicionamento, aglomerado-populacional, agua-subterranea, app, area-contaminada, area-influencia, area-sensivel, area-umida, art-anotacao, bacia-hidrografica, bem-cultural, captacao, classificacao-residuo, cnpj, conflito-uso, conselho-classe, conservacao-solo, corpo-hidrico, ctf, diagnostico-ambiental, distancia-minima, dominialidade, efluente, emissao-atmosferica, flora, geologia, georreferenciamento, geotecnia, impacto-ambiental, iphan, laboratorio, lancamento, medida-compensatoria, medida-mitigadora, nascente, obra-civil, odor, passivo-ambiental, poco, poluicao-sonora, produto-perigoso, projeto-executivo, quilombola, recurso-hidrico, reserva-legal, residuo-solido, residuo-transporte, responsavel-legal, supressao-vegetacao, terra-indigena, tombamento, transporte, unidade-conservacao, uso-solo, utilidade-publica, vegetacao-nativa, viabilidade-ambiental, viabilidade-locacional, zona-amortecimento]
+tags: [abastecimento-publico, abnt, acondicionamento, aglomerado-populacional, agua-subterranea, app, area-contaminada, area-influencia, area-sensivel, area-umida, armazenamento-residuo, art-anotacao, bacia-hidrografica, bem-cultural, captacao, classificacao-residuo, cnpj, conflito-uso, conselho-classe, conservacao-solo, corpo-hidrico, ctf, diagnostico-ambiental, distancia-minima, dominialidade, efluente, emissao-atmosferica, flora, geologia, georreferenciamento, geotecnia, impacto-ambiental, laboratorio, lancamento, medida-compensatoria, medida-mitigadora, nascente, obra-civil, odor, passivo-ambiental, poco, poluicao-sonora, produto-perigoso, projeto-executivo, quilombola, recurso-hidrico, reserva-legal, residuo-solido, responsavel-legal, supressao-vegetacao, terra-indigena, tombamento, transporte, unidade-conservacao, uso-solo, utilidade-publica, vegetacao-nativa, viabilidade-ambiental, viabilidade-locacional, zona-amortecimento]
 fonte: PDF da IN IAT 32/2025, páginas 59 a 64
 ---
 
@@ -92,7 +92,7 @@ fonte: PDF da IN IAT 32/2025, páginas 59 a 64
 - **Anexo IV, linha 71** {#anexo4_lin71} #app 3.9 Existência de áreas de preservação permanente;
 - **Anexo IV, linha 72** {#anexo4_lin72} #reserva-legal 3.10 Ocorrência de Reserva Legal, seu estado de conservação e sua localização e distribuição; caso a Reserva Legal não tenha sido respeitada na área, indicar a área do imóvel que será destinada a Reserva Legal;
 - **Anexo IV, linha 73** {#anexo4_lin73} #unidade-conservacao 3.11 Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais na área do empreendimento e no seu entorno.
-- **Anexo IV, linha 74** {#anexo4_lin74} #iphan #bem-cultural 3.12 Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;
+- **Anexo IV, linha 74** {#anexo4_lin74} #bem-cultural 3.12 Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;
 - **Anexo IV, linha 75** {#anexo4_lin75} #terra-indigena #quilombola #tombamento #bem-cultural 3.13 Apresentar levantamento de reservas indígenas, área quilombola, monumentos naturais e dos bens tombados existentes na área de influência direta do empreendimento.
 - **Anexo IV, linha 76** {#anexo4_lin76} #utilidade-publica 3.14 Identificar as áreas passíveis de desapropriação para implantação do empreendimento. No caso de remoção de população, apresentar dimensionamento preliminar e caracterização econômica e social da população a ser removida, bem como indicação dos locais propostos para reassentamento.
 - **Anexo IV, linha 77** {#anexo4_lin77} #impacto-ambiental #medida-mitigadora #medida-compensatoria 4. IMPACTOS AMBIENTAIS E MEDIDAS MITIGADORAS OU COMPENSATÓRIAS
@@ -104,7 +104,7 @@ fonte: PDF da IN IAT 32/2025, páginas 59 a 64
 - **Anexo IV, linha 83** {#anexo4_lin83} #app #supressao-vegetacao − Interferência em área de preservação permanente, inclusive supressão de vegetação (quantificar);
 - **Anexo IV, linha 84** {#anexo4_lin84} − Interferência sobre infraestruturas urbanas;
 - **Anexo IV, linha 85** {#anexo4_lin85} #conflito-uso #uso-solo − Conflito de uso do solo/entorno;
-- **Anexo IV, linha 86** {#anexo4_lin86} #transporte #residuo-transporte − Intensificação de tráfego na área, principalmente com relação ao transporte de resíduos;
+- **Anexo IV, linha 86** {#anexo4_lin86} #transporte − Intensificação de tráfego na área, principalmente com relação ao transporte de resíduos;
 - **Anexo IV, linha 87** {#anexo4_lin87} − Interferência na paisagem existente;
 - **Anexo IV, linha 88** {#anexo4_lin88} − Valorização/desvalorização imobiliária;
 - **Anexo IV, linha 89** {#anexo4_lin89} #conflito-uso #recurso-hidrico − Conflito de uso da água;
