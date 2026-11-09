@@ -1,0 +1,32 @@
+name: implantar biblioteca
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: implantar-biblioteca
+  cancel-in-progress: true
+jobs:
+  implantar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validar a base
+        run: python scripts/validar.py
+      - name: Montar a biblioteca
+        run: python scripts/montar_biblioteca.py _biblioteca
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Publicar no Cloudflare
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          wranglerVersion: "4"
+          command: deploy --config cloudflare/biblioteca/wrangler.jsonc
