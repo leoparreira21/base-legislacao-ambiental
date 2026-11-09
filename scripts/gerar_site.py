@@ -111,6 +111,11 @@ def main():
         json.dumps(indice, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
     for f in ('index.html', 'motor.js', 'cnae.json', 'assistente.html', 'assistente.js', 'assistente.css', 'estilo.css', 'classificacao.html', 'classificacao.js', 'complementar.js'):
         shutil.copy(RAIZ / 'site' / f, saida / f)
+    # Biblioteca: lista das normas + leitor das páginas HTML (html/ e as imagens dos anexos,
+    # que as páginas citam como ../normas/anexos/imagens/).
+    shutil.copy(RAIZ / 'site' / 'biblioteca.html', saida / 'biblioteca.html')
+    subprocess.run([sys.executable, str(RAIZ / 'scripts' / 'gerar_html.py'), str(saida / 'html')], check=True)
+    shutil.copytree(RAIZ / 'normas' / 'anexos' / 'imagens', saida / 'normas' / 'anexos' / 'imagens')
     for f in ('sinonimos.json', 'ambitos.json', 'ctresb-index.json'):
         shutil.copy(RAIZ / 'consultas' / f, saida / f)
     # A curadoria pode ganhar uma norma após a sincronização complementar.

@@ -9,7 +9,8 @@ normas/            um arquivo .md por norma
 normas/anexos/     anexos de diretrizes de estudos e termos de referência (tipo 2), um arquivo por anexo
 normas/comentarios/ comentários oficiais a uma norma (ex.: versão comentada da Anvisa), um arquivo por documento
 scripts/validar.py validação da base (rodar antes de cada commit)
-html/              versão HTML de consulta de cada norma (gerada por scripts/gerar_html.py; não editar à mão)
+html/              versão HTML de consulta de cada norma e catalogo.js (gerados por scripts/gerar_html.py; não editar à mão)
+biblioteca/        código-fonte da biblioteca (site/biblioteca.html): lista das normas com busca, filtros e leitor
 tags.md            lista das tags em uso (gerada pelo script)
 glossario.md       termos técnicos já pesquisados, com fonte (reaproveitado pelos agentes)
 licoes.md          armadilhas e contornos registrados pelos agentes (ver CLAUDE.md)
@@ -175,7 +176,11 @@ python scripts/validar.py --afetados NOME-DA-NORMA # outras normas que apontam p
 
 ## Consulta em HTML (dispositivos com recolher/expandir)
 
-`python scripts/gerar_html.py` grava em `html/` uma página por norma (e por comentário), mais `html/index.html` com a lista. Cada página é um arquivo único, abre direto no navegador e também é publicada no site (`/html/`).
+`python scripts/gerar_html.py` grava em `html/` uma página por norma (e por comentário), mais `html/index.html` com a lista e `html/catalogo.js` (metadados de cada norma, para a biblioteca). Cada página é um arquivo único, abre direto no navegador e também é publicada no site (`/html/`).
+
+A biblioteca (`site/biblioteca.html`, publicada em `/biblioteca.html`) reúne as páginas: lista das normas com busca (número, nome, apelido, órgão, ementa), filtros por esfera, situação e tipo, e leitor do texto ao lado. Ela lê `html/catalogo.js`, então norma nova aparece nela assim que `html/` é regerado; o comentário da RDC 222 fica de fora. Fonte e instruções de recompilação em `biblioteca/README.md`.
+
+- O botão "Expandir tudo / Recolher artigos / Recolher tudo" guarda o estado no atributo `data-estado` do próprio botão, para continuar certo numa cópia salva pelo navegador ("Salvar como → Página completa", que grava o DOM já alterado). Cópias em MHTML ("Página da Web, arquivo único") não rodam scripts no Chrome: nelas só os títulos abrem e fecham.
 
 - A página da norma traz o corpo e os anexos, na ordem da publicação. O texto de cada anexo em `normas/anexos/` (ligado pelo campo `norma_mae`) entra sob o título `ANEXO N {#anexoN}` da norma-mãe; a seção "Texto do anexo" é desfeita e a síntese e as notas do anexo ficam como subseções (IDs `anexoN-sintese`, `anexoN-notas-transcricao`). Links `[[arquivo-do-anexo#id]]` apontam para a página da norma-mãe. Todo título "ANEXO…" fica no nível da norma (ou sob o grupo "ANEXOS"), nunca dentro do último capítulo.
 - Os arquivos Markdown continuam separados (o padrão de anexos não muda); a junção é só no HTML.
@@ -217,3 +222,18 @@ Página estática publicada pelo GitHub Pages a cada push na `main` (`.github/wo
 Blocos de busca: o texto vira blocos de palavras (sem palavras genéricas da lista `GENERICO` de `site/motor.js`, como «norma», «atividade», «recurso»), somados aos sinônimos. Em seguida, cada tag da base cujas palavras estão todas na busca vira um bloco e absorve os blocos de palavras que cobre («resíduos de serviços de saúde» → `#residuo-servico-saude`). Trecho marcado com a tag conta o bloco inteiro, com peso maior; trecho sem a tag ainda conta pelas palavras. Sem tag correspondente, a busca fica só com as palavras. Tag contida em outra maior fica de fora, e tag de uma só palavra genérica (`#saude`) não vira bloco. As tags não mudam quais normas são admitidas, só a ordem dos trechos e das normas.
 
 Critério de admissão (fixo, não afrouxa quando há poucos resultados): (1) norma setorial só pelo âmbito; (2) norma transversal pela ementa; (3) qualquer norma cuja lista de enquadramento cite o código CNAE escolhido na triagem, o termo de enquadramento da CNAE (núcleo da atividade ou nome da divisão) ou todos os termos buscados. Resultado vazio indica lacuna da base ou da legislação.
+
+## Proposta de organização das tags (em revisão)
+
+A proposta de taxonomia facetada está em `consultas/taxonomia-tags.proposta.json`,
+com [relatório, cobertura e limitações](auditorias/tags-2026-11-07/relatorio.md).
+Ela não é consumida pelo motor atual. Grupos são ramos de navegação; `pai` representa
+termo mais amplo e `aliases` normaliza grafias equivalentes. A classificação das
+ocorrências continua exigindo leitura do dispositivo e de seu contexto.
+Valide a consistência da proposta com `python scripts/auditar_taxonomia_tags.py`.
+
+A [continuidade da revisão semântica](auditorias/tags-2026-11-07/continuidade-2026-11-08.md)
+registra decisões e pendências. `python scripts/integrar_revisao_tags.py` confere as
+decisões contra os arquivos atuais e gera um grafo de revisão compatível com o
+formato de extração do Graphify. `--tag TAG --limite 5` recupera só os dispositivos
+relevantes do grafo; identidade textual nunca aplica uma decisão automaticamente.

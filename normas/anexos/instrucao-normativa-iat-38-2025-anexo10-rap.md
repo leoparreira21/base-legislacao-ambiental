@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: RAP
 atividades: [unidade-gerenciamento-lodo]
 modalidades: [lp]
-tags: [lodo, estudo-ambiental, rap]
+tags: [agua-subterranea, app, bem-cultural, diagnostico-ambiental, efluente, fauna, impacto-ambiental, medida-mitigadora, passivo-ambiental, rap, recuperacao-ambiental, reserva-legal, unidade-conservacao, viabilidade-locacional]
 ---
 
 # ANEXO X
@@ -15,9 +15,9 @@ TERMO DE REFERÊNCIA PARA A ELABORAÇÃO DE RELATÓRIO AMBIENTAL PRELIMINAR – 
 
 ## Texto do anexo
 
-- **Anexo X, linha 1** {#anexo10_lin1} O presente Termo de Referência tem o objetivo de determinar a abrangência, os procedimentos e os critérios mínimos para a elaboração do Relatório Ambiental Preliminar (RAP), instrumentos que subsidiarão o licenciamento ambiental para a atividade proposta.
+- **Anexo X, linha 1** {#anexo10_lin1} #rap O presente Termo de Referência tem o objetivo de determinar a abrangência, os procedimentos e os critérios mínimos para a elaboração do Relatório Ambiental Preliminar (RAP), instrumentos que subsidiarão o licenciamento ambiental para a atividade proposta.
 
-- **Anexo X, linha 2** {#anexo10_lin2} O RAP deve abordar a interação entre elementos dos meios físico, biológico e sócio-econômico, buscando a elaboração de um diagnóstico integrado da área de influência do empreendimento. O RAP deve possibilitar a avaliação dos impactos resultantes da implantação do empreendimento, e a definição das medidas mitigadoras e de controle ambiental.
+- **Anexo X, linha 2** {#anexo10_lin2} #diagnostico-ambiental O RAP deve abordar a interação entre elementos dos meios físico, biológico e sócio-econômico, buscando a elaboração de um diagnóstico integrado da área de influência do empreendimento. O RAP deve possibilitar a avaliação dos impactos resultantes da implantação do empreendimento, e a definição das medidas mitigadoras e de controle ambiental.
 
 ### I.IDENTIFICAÇÃO DO EMPREENDIMENTO {#anexo10_lin3}
 
@@ -81,7 +81,7 @@ TERMO DE REFERÊNCIA PARA A ELABORAÇÃO DE RELATÓRIO AMBIENTAL PRELIMINAR – 
 
 - **Anexo X, linha 33** {#anexo10_lin33} Apresentar relato histórico da atividade, desde a sua concepção até a data de realização do estudo;
 
-- **Anexo X, linha 34** {#anexo10_lin34} Descrever as alternativas locacionais estudadas, as potenciais interferências e as magnitudes dos impactos ambientais para os meios físico, biótico e socioeconômico, vinculados a cada alternativa, com consequente justificativa a está relacionada.
+- **Anexo X, linha 34** {#anexo10_lin34} #viabilidade-locacional Descrever as alternativas locacionais estudadas, as potenciais interferências e as magnitudes dos impactos ambientais para os meios físico, biótico e socioeconômico, vinculados a cada alternativa, com consequente justificativa a está relacionada.
 
 - **Anexo X, linha 35** {#anexo10_lin35} 2.3. Localização do empreendimento: Apresentar dados referentes a localização do empreendimento, em coordenadas geográficas ou coordenadas planas (UTM),devendo as mesmas, quando couber, ser apresentadas em mapas, plantas planialtimétricas em escala compatível, ou através de fotos datadas, fotos aéreas, imagem de satélite. Deverão constar no mínimo, os seguintes itens:
 
@@ -119,7 +119,7 @@ TERMO DE REFERÊNCIA PARA A ELABORAÇÃO DE RELATÓRIO AMBIENTAL PRELIMINAR – 
 
 - **Anexo X, linha 52** {#anexo10_lin52} 2.6. Informar quais as possíveis fontes de abastecimento de água compatíveis com a demanda estimada para a implantação e operação do empreendimento (poços, adução de curso d’água ou abastecimento público, entre outros).
 
-- **Anexo X, linha 53** {#anexo10_lin53} 2.7. Informar quais as possíveis formas de disposição final do efluente a ser gerado pela implantação e operação do empreendimento (rede pública de coleta, lançamento em rede de drenagem, lançamento em corpo receptor, infiltração em solo, entre outros).
+- **Anexo X, linha 53** {#anexo10_lin53} #efluente 2.7. Informar quais as possíveis formas de disposição final do efluente a ser gerado pela implantação e operação do empreendimento (rede pública de coleta, lançamento em rede de drenagem, lançamento em corpo receptor, infiltração em solo, entre outros).
 
 - **Anexo X, linha 54** {#anexo10_lin54} 2.8. Descrição das obras, apresentando as ações inerentes à implantação e operação do empreendimento.
 
@@ -145,7 +145,7 @@ TERMO DE REFERÊNCIA PARA A ELABORAÇÃO DE RELATÓRIO AMBIENTAL PRELIMINAR – 
 
 - **Anexo X, linha 65** {#anexo10_lin65} 3.3. Bacia hidrográfica e corpos d’água e respectivas classes de uso.
 
-- **Anexo X, linha 66** {#anexo10_lin66} 3.4. Potencialidades de uso das águas subterrâneas (no caso da existência de poços, informar o número, a vazão e a profundidade). Indicação dos tipos de uso da água existentes a montante e a jusante do imóvel e, quando possível, os previstos;
+- **Anexo X, linha 66** {#anexo10_lin66} #agua-subterranea 3.4. Potencialidades de uso das águas subterrâneas (no caso da existência de poços, informar o número, a vazão e a profundidade). Indicação dos tipos de uso da água existentes a montante e a jusante do imóvel e, quando possível, os previstos;
 
 - **Anexo X, linha 67** {#anexo10_lin67} 3.5. Feições da área, presença de terrenos alagadiços ou sujeitos a inundação;
 
@@ -165,21 +165,21 @@ TERMO DE REFERÊNCIA PARA A ELABORAÇÃO DE RELATÓRIO AMBIENTAL PRELIMINAR – 
 
 - **Anexo X, linha 75** {#anexo10_lin75} indicação se a instalação do empreendimento demandará supressão vegetal, e se está ocorrendo regeneração das áreas alteradas.
 
-- **Anexo X, linha 76** {#anexo10_lin76} 3.9. Existência de vegetação de preservação permanente e seu estado de conservação; indicar a localização das APP's.
+- **Anexo X, linha 76** {#anexo10_lin76} #app 3.9. Existência de vegetação de preservação permanente e seu estado de conservação; indicar a localização das APP's.
 
-- **Anexo X, linha 77** {#anexo10_lin77} 3.10. Ocorrência de Reserva Legal, seu estado de conservação e sua localização e distribuição; caso a Reserva Legal não tenha sido respeitada na área, indicar a área do imóvel que será destinada a Reserva Legal.
+- **Anexo X, linha 77** {#anexo10_lin77} #reserva-legal 3.10. Ocorrência de Reserva Legal, seu estado de conservação e sua localização e distribuição; caso a Reserva Legal não tenha sido respeitada na área, indicar a área do imóvel que será destinada a Reserva Legal.
 
-- **Anexo X, linha 78** {#anexo10_lin78} 3.11. Caracterização da fauna local, com indicação das espécies de animais predominantes, inclusive ictiofauna, e potencial de utilização; ressaltar espécies endêmicas, espécies predadoras e as que estão com risco de extinção.
+- **Anexo X, linha 78** {#anexo10_lin78} #fauna 3.11. Caracterização da fauna local, com indicação das espécies de animais predominantes, inclusive ictiofauna, e potencial de utilização; ressaltar espécies endêmicas, espécies predadoras e as que estão com risco de extinção.
 
-- **Anexo X, linha 79** {#anexo10_lin79} 3.12. Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada. Verificando-se indícios de vestígios, deverá ser apresentado junto com a documentação o protocolo de entrega no IPHAN, do relatório de caracterização e avaliação, da situação atual, do patrimônio arqueológico na área afetada.
+- **Anexo X, linha 79** {#anexo10_lin79} #bem-cultural 3.12. Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada. Verificando-se indícios de vestígios, deverá ser apresentado junto com a documentação o protocolo de entrega no IPHAN, do relatório de caracterização e avaliação, da situação atual, do patrimônio arqueológico na área afetada.
 
 - **Anexo X, linha 80** {#anexo10_lin80} 3.13. Caracterização da geomorfologia/relevo.
 
-- **Anexo X, linha 81** {#anexo10_lin81} 3.14. Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais no entorno da área do empreendimento, bem como outras áreas naturais protegidas, informando a distância e se a possível instalação pretendida atende as normas que regem essas UC.
+- **Anexo X, linha 81** {#anexo10_lin81} #unidade-conservacao 3.14. Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais no entorno da área do empreendimento, bem como outras áreas naturais protegidas, informando a distância e se a possível instalação pretendida atende as normas que regem essas UC.
 
 ### IV.IMPACTOS AMBIENTAIS E MEDIDAS MITIGADORAS, DE CONTROLE OU DE COMPENSAÇÃO {#anexo10_lin82}
 
-- **Anexo X, linha 83** {#anexo10_lin83} Identificar os principais impactos que poderão ocorrer em função das diversas ações previstas para o planejamento, a implantação e a operação do empreendimento, atividade ou obra, contemplando no mínimo os impactos abaixo. Para cada impacto indicado, descrever as medidas mitigatórias, de controle ou de compensação correspondente. Considerando no mínimo os itens abaixo.
+- **Anexo X, linha 83** {#anexo10_lin83} #impacto-ambiental #medida-mitigadora Identificar os principais impactos que poderão ocorrer em função das diversas ações previstas para o planejamento, a implantação e a operação do empreendimento, atividade ou obra, contemplando no mínimo os impactos abaixo. Para cada impacto indicado, descrever as medidas mitigatórias, de controle ou de compensação correspondente. Considerando no mínimo os itens abaixo.
 
 - **Anexo X, linha 84** {#anexo10_lin84} 4.1. Processos erosivos e de assoreamento associados à implantação do empreendimento;
 
@@ -205,7 +205,7 @@ TERMO DE REFERÊNCIA PARA A ELABORAÇÃO DE RELATÓRIO AMBIENTAL PRELIMINAR – 
 
 - **Anexo X, linha 95** {#anexo10_lin95} 4.12. Na existência de unidades de conservação que possam ser afetadas no seu interior, zona de amortecimento ou áreas circundantes, apontar, especificamente, os impactos ambientais efetivos ou potenciais da atividade ou empreendimento sobre as unidades de conservação, suas zonas de amortecimento ou áreas circundantes;
 
-- **Anexo X, linha 96** {#anexo10_lin96} 4.13. Em caso de passivos ambientais verificados, apresentar propostas de recuperação e ou mitigação.
+- **Anexo X, linha 96** {#anexo10_lin96} #passivo-ambiental #recuperacao-ambiental 4.13. Em caso de passivos ambientais verificados, apresentar propostas de recuperação e ou mitigação.
 
 ### V.CONCLUSÕES {#anexo10_lin97}
 

@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: PGR
 atividades: [industria, deposito-produto-perigoso, atividade-com-substancia-perigosa]
 modalidades: [lp, li, lo, rlo]
-tags: [diretriz-estudo, pgr, analise-risco, art-anotacao, auditoria, plano-contingencia, produto-perigoso]
+tags: [analise-risco, art-anotacao, auditoria, capacitacao, manutencao-reparacao, pgr, plano-emergencia, produto-perigoso, situacao-emergencia]
 fonte: "PDF da Portaria IAP 159/2015 (Word 2019, 12 páginas), páginas 8 a 12, enviado por Leo"
 ---
 
@@ -19,18 +19,18 @@ fonte: "PDF da Portaria IAP 159/2015 (Word 2019, 12 páginas), páginas 8 a 12, 
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo II, linha 1** {#anexo2_lin1} Os Programas de Gerenciamento de Riscos - PGR´s, contemplados pelos empreendimentos licenciados pelo IAP, deverão ser elaborados por técnico habilitado, acompanhados da respectiva Anotação de Responsabilidade Técnica – ART, conforme dispõe a Lei no 6.496/77.
+- **Anexo II, linha 1** {#anexo2_lin1} #pgr #art-anotacao Os Programas de Gerenciamento de Riscos - PGR´s, contemplados pelos empreendimentos licenciados pelo IAP, deverão ser elaborados por técnico habilitado, acompanhados da respectiva Anotação de Responsabilidade Técnica – ART, conforme dispõe a Lei no 6.496/77.
 - **Anexo II, linha 2** {#anexo2_lin2} O Gerenciamento de Risco nos empreendimentos licenciados pelo IAP será feito pela implantação e manutenção dos seguintes elementos mínimos e obrigatórios:
 - **Anexo II, linha 3** {#anexo2_lin3} 1. IDENTIFICAÇÃO E PREVENÇÃO DE RISCOS
 - **Anexo II, linha 4** {#anexo2_lin4} Identificar quais são os riscos do negócio em analise e após se estabelecer medidas preventivas para eliminação ou controle dos riscos identificados.
 - **Anexo II, linha 5** {#anexo2_lin5} Neste item são obrigatórios os seguintes pontos:
-- **Anexo II, linha 6** {#anexo2_lin6} - Os riscos devem ser identificados através de técnica adequada de analise de risco. Num primeiro momento esta técnica é uma Analise Preliminar de Risco (APR), a qual forneça uma visão geral e ampla da atividade em avaliação;
+- **Anexo II, linha 6** {#anexo2_lin6} #analise-risco - Os riscos devem ser identificados através de técnica adequada de analise de risco. Num primeiro momento esta técnica é uma Analise Preliminar de Risco (APR), a qual forneça uma visão geral e ampla da atividade em avaliação;
 - **Anexo II, linha 7** {#anexo2_lin7} - Os riscos à serem enfocados na APR referem-se à saúde do público envolvido (interno e externo) e a proteção ambiental e devem ser consideradas não só as atividades diretamente envolvidas na produção, mas sim todas as atividades do empreendimento, como estocagem, armazenamento, transporte, etc. ;
 - **Anexo II, linha 8** {#anexo2_lin8} - Em função dos resultados encontrados na APR, a identificação dos riscos poderá ser feita por técnicas mais detalhadas como o HAZOP ou modelagens matemáticas, que permitam quantificar o impacto de determinado acidente;
 - **Anexo II, linha 9** {#anexo2_lin9} - Em todos os casos as analises de risco devem ser feitas em equipe, sendo estas equipes compostas por técnicos envolvidos nas atividades em analise e com poder de decisão dentro da organização;
 - **Anexo II, linha 10** {#anexo2_lin10} - O relatório das analises de risco deve conter o nome, função e assinatura da equipe, mencionada acima;
-- **Anexo II, linha 11** {#anexo2_lin11} - O relatório das analises de risco deve conter um plano de ação, o qual descreva as ações à serem feitas, responsáveis e prazo. Os planos de ação também devem ser assinados pelos responsáveis pelas ações. Este plano de ação deve ser atualizado à cada 06 (seis) meses;
-- **Anexo II, linha 12** {#anexo2_lin12} - As analises de risco devem ser refeitas sempre que alterações significativas ocorrerem na atividade enfocada ou no máximo à cada 02 (dois) anos.
+- **Anexo II, linha 11** {#anexo2_lin11} #analise-risco - O relatório das analises de risco deve conter um plano de ação, o qual descreva as ações à serem feitas, responsáveis e prazo. Os planos de ação também devem ser assinados pelos responsáveis pelas ações. Este plano de ação deve ser atualizado à cada 06 (seis) meses;
+- **Anexo II, linha 12** {#anexo2_lin12} #analise-risco - As analises de risco devem ser refeitas sempre que alterações significativas ocorrerem na atividade enfocada ou no máximo à cada 02 (dois) anos.
 - **Anexo II, linha 13** {#anexo2_lin13} 2. NORMAS E PROCEDIMENTOS OPERACIONAIS
 - **Anexo II, linha 14** {#anexo2_lin14} As atividades do empreendimento, identificadas na analise de risco, e que podem levar a acidentes devem ser descritas em procedimentos operacionais ou normalizadas, sendo obrigatórios os seguintes itens :
 - **Anexo II, linha 15** {#anexo2_lin15} - Normas/Procedimentos devem ser identificadas e devem possuir data de emissão e numero da revisão;
@@ -38,7 +38,7 @@ fonte: "PDF da Portaria IAP 159/2015 (Word 2019, 12 páginas), páginas 8 a 12, 
 - **Anexo II, linha 17** {#anexo2_lin17} - As normas devem conter os nomes, cargo e assinatura dos responsáveis pela emissão, atualização e fiscalização do cumprimento das normas/procedimentos;
 - **Anexo II, linha 18** {#anexo2_lin18} - As normas e procedimentos devem ser revistas periodicamente, num prazo nunca superior à 02 (dois) anos.
 - **Anexo II, linha 19** {#anexo2_lin19} 3. TREINAMENTO
-- **Anexo II, linha 20** {#anexo2_lin20} Os empreendimentos devem implantar e manter um programa anual de treinamento, o qual deverá conter no mínimo:
+- **Anexo II, linha 20** {#anexo2_lin20} #capacitacao Os empreendimentos devem implantar e manter um programa anual de treinamento, o qual deverá conter no mínimo:
 - **Anexo II, linha 21** {#anexo2_lin21} - Este programa deve ser formal e sistemático e isto através de:
 - **Anexo II, linha 22** {#anexo2_lin22} • Deve existir uma programação anual, a ser estabelecida em Janeiro de cada ano, que contenha o titulo do curso e o mês de realização;
 - **Anexo II, linha 23** {#anexo2_lin23} • Os alunos devem assinar lista de presença;
@@ -48,7 +48,7 @@ fonte: "PDF da Portaria IAP 159/2015 (Word 2019, 12 páginas), páginas 8 a 12, 
 - **Anexo II, linha 27** {#anexo2_lin27} - Deve ser estabelecido um programa de treinamento inicial para novos funcionários;
 - **Anexo II, linha 28** {#anexo2_lin28} - O programa de treinamento deve abranger todas as atividades e funções da empresa, que de alguma maneira estejam relacionadas com os riscos levantados.
 - **Anexo II, linha 29** {#anexo2_lin29} 4. MANUTENÇÃO DE EQUIPAMENTOS CRÍTICOS
-- **Anexo II, linha 30** {#anexo2_lin30} Os equipamentos e instrumentos, mencionados nas analises de risco e que fazem parte de ações de eliminação ou controle de risco devem fazer parte de um programa de manutenção, que atenda os seguintes requisitos mínimos:
+- **Anexo II, linha 30** {#anexo2_lin30} #manutencao-reparacao Os equipamentos e instrumentos, mencionados nas analises de risco e que fazem parte de ações de eliminação ou controle de risco devem fazer parte de um programa de manutenção, que atenda os seguintes requisitos mínimos:
 - **Anexo II, linha 31** {#anexo2_lin31} - Estes equipamentos e instrumentos devem ser registrados em lista especifica;
 - **Anexo II, linha 32** {#anexo2_lin32} - Devem passar por inspeções/manutenções/calibrações periódicas e isto de acordo com a freqüência, conteúdo e procedimento estabelecidos pelo fabricante ou de acordo com normas brasileiras ou internacionais, ou na ausência destas por normas internas da empresa;
 - **Anexo II, linha 33** {#anexo2_lin33} - As inspeções, manutenções e calibrações devem ser registradas e isto com o seguinte conteúdo mínimo :
@@ -68,7 +68,7 @@ fonte: "PDF da Portaria IAP 159/2015 (Word 2019, 12 páginas), páginas 8 a 12, 
 - **Anexo II, linha 47** {#anexo2_lin47} • Plano de ação, contendo ação, responsável e prazo;
 - **Anexo II, linha 48** {#anexo2_lin48} • Distribuição do relatório.
 - **Anexo II, linha 49** {#anexo2_lin49} 6. INFORMAÇÕES SOBRE OS PRODUTOS QUÍMICOS MANUSEADOS
-- **Anexo II, linha 50** {#anexo2_lin50} O empreendimento deve ter disponíveis informações sobre os perigos e cuidados referentes aos os produtos químicos estocados e manuseados em suas instalações.
+- **Anexo II, linha 50** {#anexo2_lin50} #produto-perigoso O empreendimento deve ter disponíveis informações sobre os perigos e cuidados referentes aos os produtos químicos estocados e manuseados em suas instalações.
 - **Anexo II, linha 51** {#anexo2_lin51} Dentre as informações à serem mantidas, tem-se como mínimo:
 - **Anexo II, linha 52** {#anexo2_lin52} - Características que conferem perigo como inflamabilidade, corrosividade e toxicidade;
 - **Anexo II, linha 53** {#anexo2_lin53} - Equipamentos de proteção individual recomendados para operação normal e emergência;
@@ -83,7 +83,7 @@ fonte: "PDF da Portaria IAP 159/2015 (Word 2019, 12 páginas), páginas 8 a 12, 
 - **Anexo II, linha 62** {#anexo2_lin62} - Treinamento das pessoas envolvidas nas atividades que sofreram as modificações;
 - **Anexo II, linha 63** {#anexo2_lin63} - Obtenção das autorizações legais necessárias (quando aplicável).
 - **Anexo II, linha 64** {#anexo2_lin64} 8. GERENCIAMENTO DE EMERGÊNCIA
-- **Anexo II, linha 65** {#anexo2_lin65} O empreendimento deve implantar e manter uma organização de emergência e isto com o objetivo de dominar e minimizar as possíveis emergências, oriundas de sua atividade.
+- **Anexo II, linha 65** {#anexo2_lin65} #situacao-emergencia O empreendimento deve implantar e manter uma organização de emergência e isto com o objetivo de dominar e minimizar as possíveis emergências, oriundas de sua atividade.
 - **Anexo II, linha 66** {#anexo2_lin66} Dentro deste item os requisitos mínimos são :
 - **Anexo II, linha 67** {#anexo2_lin67} - As funções, recursos e área de atuação desta organização de emergência devem ser compatíveis com os riscos levantados no item 2.1;
 - **Anexo II, linha 68** {#anexo2_lin68} - Dentro da documentação da organização de emergência, deve fazer parte um organograma e um descritivo das funções que compõe esta organização;
@@ -93,7 +93,7 @@ fonte: "PDF da Portaria IAP 159/2015 (Word 2019, 12 páginas), páginas 8 a 12, 
 - **Anexo II, linha 72** {#anexo2_lin72} - Deve ser estabelecido de maneira formal um programa anual de treinamento desta organização.
 - **Anexo II, linha 73** {#anexo2_lin73} 9. PLANOS DE CONTINGÊNCIA
 - **Anexo II, linha 74** {#anexo2_lin74} As analises de risco, descritas no item 2.1, devem indicar quais são as possíveis emergências, para a atividade em analise.
-- **Anexo II, linha 75** {#anexo2_lin75} Para estas emergências devem ser montados Planos de Contingência, sendo que nestes planos os seguintes itens são obrigatórios:
+- **Anexo II, linha 75** {#anexo2_lin75} #plano-emergencia Para estas emergências devem ser montados Planos de Contingência, sendo que nestes planos os seguintes itens são obrigatórios:
 - **Anexo II, linha 76** {#anexo2_lin76} - Os Planos de Contingência devem ser identificadas e possuir data de emissão e numero da revisão;
 - **Anexo II, linha 77** {#anexo2_lin77} - Descrição do cenário considerado, abrangência e respectivos impactos;
 - **Anexo II, linha 78** {#anexo2_lin78} - Ações à serem tomadas como conseqüência da emergência, inclusive com o envolvimento da população do entorno do empreendimento (se aplicável);
@@ -106,9 +106,9 @@ fonte: "PDF da Portaria IAP 159/2015 (Word 2019, 12 páginas), páginas 8 a 12, 
 - **Anexo II, linha 85** {#anexo2_lin85} - A estrutura desta área deve ser compatível com o volume e responsabilidade de trabalho;
 - **Anexo II, linha 86** {#anexo2_lin86} - Dentro da documentação desta organização, deve fazer parte o organograma que posiciona a área dentro da empresa como um todo, um descritivo da função, a sua maneira de operar com os demais setores e a nomeação oficial do responsável pela alta direção da empresa.
 - **Anexo II, linha 87** {#anexo2_lin87} 11. AUDITORIA
-- **Anexo II, linha 88** {#anexo2_lin88} O Programa de Gerenciamento de Risco deve ser auditado periodicamente e isto com o objetivo de verificar se o programa esta efetivamente sendo adotado na prática.
+- **Anexo II, linha 88** {#anexo2_lin88} #auditoria O Programa de Gerenciamento de Risco deve ser auditado periodicamente e isto com o objetivo de verificar se o programa esta efetivamente sendo adotado na prática.
 - **Anexo II, linha 89** {#anexo2_lin89} Estas auditorias podem ser feitas por equipe interna da organização (com a devida independência) ou por equipes externas.
-- **Anexo II, linha 90** {#anexo2_lin90} A freqüência de realização destas auditorias não pode ser superior à 02 (dois) anos, sendo que a primeira auditoria deve acontecer no máximo 01(um) ano após o inicio da implantação do programa.
+- **Anexo II, linha 90** {#anexo2_lin90} #auditoria A freqüência de realização destas auditorias não pode ser superior à 02 (dois) anos, sendo que a primeira auditoria deve acontecer no máximo 01(um) ano após o inicio da implantação do programa.
 - **Anexo II, linha 91** {#anexo2_lin91} Ao final de cada auditoria será emitido um relatório, o qual deverá conter no mínimo:
 - **Anexo II, linha 92** {#anexo2_lin92} - Descrição da metodologia utilizada, na qual conste a relação de documentos analisados, áreas ou atividades visitadas e pessoas entrevistadas;
 - **Anexo II, linha 93** {#anexo2_lin93} - Nome e resumo do curriculum vitae dos auditores;

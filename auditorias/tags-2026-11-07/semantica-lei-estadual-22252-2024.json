@@ -1,0 +1,322 @@
+{
+  "arquivo": "normas/lei-estadual-22252-2024.md",
+  "cobertura": "Leitura dos arts. 1–53, ementa, metadados e notas do texto armazenado. Sem cotejo com publicação externa. Decisões específicas registradas; demais tags mantidas após leitura. Remissões problemáticas já anotadas nos arts. 27, 31, 39 e 47 foram preservadas.",
+  "decisoes": [
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art1",
+      "antes": [
+        "licenciamento-ambiental",
+        "potencial-poluidor",
+        "sisnama",
+        "competencia"
+      ],
+      "depois": [
+        "licenciamento-ambiental",
+        "competencia"
+      ],
+      "evidencia": "###### Art. 1º {#art1}\nTags: #licenciamento-ambiental #competencia\n\n**Art. 1º, caput** {#art1_cpt} Estabelece normas gerais, conceitos, requisitos, critérios, diretrizes e procedimentos administrativos referentes ao licenciamento ambiental de empreendimentos e/ou atividades utilizadores de recursos ambientais, efetiva ou potencialmente poluidores ou capazes, sob qualquer forma, de causar degradação ao meio ambiente, conforme o previsto no [[lei-federal-6938-1981#art10|art. 10 da Lei Federal nº 6.938, de 31 de agosto de 1981]]. (vide [[decreto-estadual-9541-2025|Decreto 9541 de 10/04/2025]])\n\n**Art. 1º, parágrafo único** {#art1_par1u} As disposições desta Lei se aplicam ao licenciamento ambiental realizado perante os órgãos e entidades do Estado e dos municípios integrantes do Sistema Nacional do Meio Ambiente - SISNAMA, observadas as atribuições estabelecidas na [[lei-complementar-federal-140-2011|Lei Complementar Federal nº 140, de 8 de dezembro de 2011]].\n\n## CAPÍTULO I – DISPOSIÇÕES PRELIMINARES\n\n### Seção I – Dos Princípios\n",
+      "justificativa": "Objeto geral e competência estadual/municipal; potencial poluidor descreve a incidência geral e SISNAMA o contexto institucional, sem regra própria nesses temas."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art3_cpt_inc4",
+      "antes": [],
+      "depois": [
+        "estudo-ambiental"
+      ],
+      "evidencia": "- **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} Estudos ambientais: são todos e quaisquer estudos relativos aos aspectos ambientais relacionados à localização, instalação, operação e ampliação de um empreendimento e/ou atividade, apresentado como subsídio para a análise da licença requerida, tais como: relatório ambiental, plano e projeto de controle ambiental, relatório ambiental preliminar, diagnóstico ambiental, plano de manejo, plano de recuperação de área degradada e programa de gerenciamento de riscos ambientais;",
+      "justificativa": "Definição expressa de estudos ambientais sem tag direta."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art7",
+      "antes": [],
+      "depois": [
+        "processo-administrativo"
+      ],
+      "evidencia": "###### Art. 7º {#art7}\nTags: #processo-administrativo\n\n**Art. 7º, caput** {#art7_cpt} Os agentes ambientais e a administração pública, no exercício de suas competências no âmbito do licenciamento ambiental, deverão atuar em conformidade com os princípios constitucionais da eficiência e da duração razoável do processo, previstos respectivamente nos termos do [[constituicao-federal-1988#art37|art. 37]] e no [[constituicao-federal-1988#art5_cpt_inc78|inciso LXXVIII do art. 5º]], todos da Constituição Federal.\n\n## CAPÍTULO II – DISPOSIÇÕES GERAIS SOBRE LICENCIAMENTO AMBIENTAL DE ATIVIDADES POTENCIALMENTE POLUIDORAS, DEGRADADORAS E/OU MODIFICADORAS DO MEIO AMBIENTE\n\n### Seção I – Dos Atos Administrativos\n",
+      "justificativa": "Dever de eficiência e duração razoável no procedimento antes sem classificação."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art8",
+      "antes": [
+        "ato-administrativo",
+        "dila",
+        "dlam",
+        "lac",
+        "las",
+        "lasa",
+        "lasr",
+        "lp",
+        "lpa",
+        "li",
+        "lia",
+        "lir",
+        "lo",
+        "loa",
+        "lor",
+        "cral",
+        "autorizacao-ambiental",
+        "autorizacao-florestal",
+        "outorga"
+      ],
+      "depois": [
+        "dila",
+        "dlam",
+        "lac",
+        "las",
+        "lasa",
+        "lasr",
+        "lp",
+        "lpa",
+        "li",
+        "lia",
+        "lir",
+        "lo",
+        "loa",
+        "lor",
+        "cral",
+        "autorizacao-ambiental",
+        "autorizacao-florestal",
+        "outorga"
+      ],
+      "evidencia": "###### Art. 8º {#art8}\nTags: #dila #dlam #lac #las #lasa #lasr #lp #lpa #li #lia #lir #lo #loa #lor #cral #autorizacao-ambiental #autorizacao-florestal #outorga\n\n**Art. 8º, caput** {#art8_cpt} O órgão licenciador competente, no exercício de sua competência de controle ambiental, expedirá os seguintes atos administrativos, referentes ao licenciamento ambiental:\n- **Art. 8º, caput, inciso I** {#art8_cpt_inc1} #dila #inexigibilidade Declaração de Inexigibilidade de Licença Ambiental - DILA: concedida de forma automática para os empreendimentos e/ou atividades de insignificante potencial poluidor/degradador do meio ambiente, para os quais é inexigível o licenciamento ambiental, respeitadas as legislações municipais;\n- **Art. 8º, caput, inciso II** {#art8_cpt_inc2} #dlam #dispensa #licenciamento-municipal Declaração de Dispensa de Licenciamento Ambiental - DLAM: concedida de forma automática para os empreendimentos e/ou atividades que são dispensados do licenciamento por parte do órgão licenciador competente em função de seu baixo potencial poluidor/degradador – nível I, conforme os critérios estabelecidos em normativas específicas, sem prejuízo ao Licenciamento Ambiental Municipal;\n- **Art. 8º, caput, inciso III** {#art8_cpt_inc3} #lac #declaracao-adesao-compromisso Licença Ambiental por Adesão e Compromisso - LAC: autoriza a instalação e a operação empreendimentos e/ou atividades de baixo potencial poluidor/degradador do meio ambiente – nível II, passíveis de licenciamento por procedimento automático, mediante Declaração de Adesão e Compromisso do empreendedor aos critérios, pré-condições, requisitos e condicionantes ambientais estabelecidos pelo órgão licenciador competente, desde que se conheçam previamente os impactos ambientais do empreendimento e/ou atividade, as características ambientais da área de implantação e as condições de sua instalação e operação;\n- **Art. 8º, caput, inciso IV** {#art8_cpt_inc4} #las Licença Ambiental Simplificada - LAS: aprova a localização e a concepção de empreendimentos e/ou atividades de médio potencial poluidor/degradador do meio ambiente, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos, bem como autoriza sua instalação e operação de acordo com as especificações constantes dos requerimentos, planos, programas e/ou projetos aprovados, incluindo as medidas de controle ",
+      "justificativa": "Lista de atos identificada por suas espécies; ato-administrativo não distingue o objeto."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art11",
+      "antes": [
+        "enquadramento",
+        "porte",
+        "modalidade",
+        "alteracao"
+      ],
+      "depois": [
+        "enquadramento",
+        "porte",
+        "modalidade"
+      ],
+      "evidencia": "###### Art. 11 {#art11}\nTags: #enquadramento #porte #modalidade\n\n**Art. 11, caput** {#art11_cpt} Havendo qualquer alteração nas características do porte nos empreendimentos e/ou atividades que implique na mudança da modalidade de licenciamento, deverá ser requerido novo procedimento de licenciamento ambiental pelo empreendedor.\n\n### Seção IV – Do Licenciamento Ambiental de Atividades Potencialmente Poluidoras, Degradadoras e/ou Modificadoras do Meio Ambiente\n",
+      "justificativa": "Alteração é mudança de porte que exige novo procedimento, não alteração legislativa; retirar rótulo inespecífico."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art19",
+      "antes": [
+        "utilidade-publica",
+        "interesse-social",
+        "saneamento",
+        "outorga",
+        "autorizacao-florestal",
+        "supressao-vegetacao"
+      ],
+      "depois": [
+        "prioridade",
+        "utilidade-publica",
+        "interesse-social",
+        "saneamento",
+        "outorga",
+        "autorizacao-florestal"
+      ],
+      "evidencia": "###### Art. 19 {#art19}\nTags: #prioridade #utilidade-publica #interesse-social #saneamento #outorga #autorizacao-florestal\n\n**Art. 19, caput** {#art19_cpt} Poderão ser priorizados os processos de licenciamento ambiental com interesse público devidamente justificado.\n\n**Art. 19, § 1º** {#art19_par1} É considerado prioritário, para os fins a que se refere o [[#art19_cpt|caput]] deste artigo:\n- **Art. 19, § 1º, inciso I** {#art19_par1_inc1} empreendimento da Administração Pública Direta e Indireta;\n- **Art. 19, § 1º, inciso II** {#art19_par1_inc2} empreendimento que impactará significativamente a região com a geração de emprego e renda, aumentando a arrecadação fiscal da Prefeitura Municipal ou do Governo do Estado;\n- **Art. 19, § 1º, inciso III** {#art19_par1_inc3} #utilidade-publica #interesse-social empreendimentos, obras ou atividades de utilidade pública e de interesse social, nos termos dos [[lei-federal-12651-2012#art3|incisos VIII e IX do art. 3º da Lei Federal nº 12.651, de 25 de maio de 2012]];\n- **Art. 19, § 1º, inciso IV** {#art19_par1_inc4} #saneamento ampliação e universalização do saneamento ambiental;\n- **Art. 19, § 1º, inciso V** {#art19_par1_inc5} obras direcionadas à ampliação de capacidade da malha viária e à pavimentação em instalações preexistentes, em faixas de domínio e de servidão, decretadas ou a decretar, que poderão ser realizadas por trecho, quando o empreendimento ocorrer em áreas com transição de características ecológicas e locacionais, urbanas e rurais.\n\n**Art. 19, § 2º** {#art19_par2} #outorga #autorizacao-florestal O procedimento de outorga e de autorização florestal também serão priorizados quando se tratar de licenciamento ambiental de empreendimentos e/ou atividades sujeitos à outorga de recursos hídricos ou supressão de vegetação, nos termos do [[#art19_cpt|caput]] deste artigo.\n",
+      "justificativa": "Núcleo é prioridade de tramitação; supressão é contextual à autorização florestal, já etiquetada."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art22",
+      "antes": [
+        "suspensao-processo"
+      ],
+      "depois": [
+        "pendencia-judicial",
+        "suspensao-processo"
+      ],
+      "evidencia": "###### Art. 22 {#art22}\nTags: #pendencia-judicial #suspensao-processo\n\n**Art. 22, caput** {#art22_cpt} Constatada a existência de pendência judicial envolvendo o empreendedor, o empreendimento ou o imóvel, a decisão administrativa sobre a eventual suspensão do licenciamento será precedida de manifestação jurídica do órgão licenciador competente.\n",
+      "justificativa": "Gatilho expresso da avaliação jurídica de eventual suspensão é a pendência judicial."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art27",
+      "antes": [
+        "complementacao",
+        "prazo",
+        "sancao"
+      ],
+      "depois": [
+        "complementacao",
+        "arquivamento-processo",
+        "sancao"
+      ],
+      "evidencia": "###### Art. 27 {#art27}\nTags: #complementacao #arquivamento-processo #sancao\n\n**Art. 27, caput** {#art27_cpt} O não cumprimento dos prazos estipulados no [[#art27_cpt|caput do art. 27]] desta Lei sujeitará o arquivamento do pedido de licenciamento ambiental e, quando for o caso, a aplicação das sanções cabíveis.\n\n**Art. 27, parágrafo único** {#art27_par1u} Mediante solicitação formal e motivada do interessado, poderá ser desarquivado o procedimento de licenciamento ambiental, de acordo com critérios estabelecidos pelo órgão licenciador competente.\n",
+      "justificativa": "Consequência do descumprimento e desarquivamento do pedido; prazo isolado é menos informativo."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art28",
+      "antes": [
+        "taxa-ambiental"
+      ],
+      "depois": [
+        "arquivamento-processo",
+        "taxa-ambiental"
+      ],
+      "evidencia": "###### Art. 28 {#art28}\nTags: #arquivamento-processo #taxa-ambiental\n\n**Art. 28, caput** {#art28_cpt} O arquivamento do procedimento de licenciamento ambiental não impedirá a apresentação de novo requerimento, que deverá obedecer aos procedimentos, restrições e condicionantes estabelecidos para tal fim, mediante novo recolhimento integral da taxa ambiental.\n",
+      "justificativa": "Novo requerimento após arquivamento exige nova taxa; preservar o gatilho."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art36",
+      "antes": [
+        "publicacao-dioe",
+        "requerimento",
+        "autorizacao-ambiental",
+        "conama"
+      ],
+      "depois": [
+        "publicacao-dioe",
+        "autorizacao-ambiental"
+      ],
+      "evidencia": "###### Art. 36 {#art36}\nTags: #publicacao-dioe #autorizacao-ambiental\n\n**Art. 36, caput** {#art36_cpt} O empreendedor, sob suas expensas, providenciará a publicação resumida do requerimento de licenciamento ambiental no Diário Oficial do Estado, em qualquer uma de suas modalidades, exceto as Autorizações Ambientais.\n\n**Art. 36, parágrafo único** {#art36_par1u} #conama A publicação de que trata o [[#art36_cpt|caput]] deste artigo observará os padrões estabelecidos pelo Conselho Nacional do Meio Ambiente - CONAMA em regulamentações próprias.\n",
+      "justificativa": "Regra de publicação do requerimento e exceção AA; o órgão que regulamenta padrões é referência incidental."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art36_par1u",
+      "antes": [
+        "conama"
+      ],
+      "depois": [],
+      "evidencia": "**Art. 36, parágrafo único** {#art36_par1u} #conama A publicação de que trata o [[#art36_cpt|caput]] deste artigo observará os padrões estabelecidos pelo Conselho Nacional do Meio Ambiente - CONAMA em regulamentações próprias.",
+      "justificativa": "CONAMA citado apenas como fonte dos padrões de publicação, não regra de competência ou organização do Conselho."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art39",
+      "antes": [],
+      "depois": [
+        "processo-administrativo"
+      ],
+      "evidencia": "###### Art. 39 {#art39}\nTags: #processo-administrativo\n\n**Art. 39, caput** {#art39_cpt} Resguardados os sigilos legais, é facultada ao interessado a solicitação de cópias e vistas de informações constantes nos procedimentos administrativos de licenciamento ambiental, nos termos da [[lei-federal-12527-2011|Lei Federal nº º 12.527, de 18 de novembro de 2021]].\n\n**Art. 39, parágrafo único** {#art39_par1u} Os critérios e as instruções para requerimento do que trata o [[#art39_cpt|caput]] deste artigo serão estabelecidos pelo órgão licenciador competente em regulamentação específica.\n\n### Seção X – Dos Estudos Ambientais\n",
+      "justificativa": "Direito de cópias e vistas do procedimento; registro temático mínimo sem inventar categoria."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art40",
+      "antes": [
+        "potencial-poluidor",
+        "porte"
+      ],
+      "depois": [
+        "estudo-ambiental",
+        "termo-referencia"
+      ],
+      "evidencia": "###### Art. 40 {#art40}\nTags: #estudo-ambiental #termo-referencia\n\n**Art. 40, caput** {#art40_cpt} Os estudos ambientais a serem exigidos em processos de licenciamento ambiental e os respectivos Termos de Referência serão definidos pelo órgão licenciador competente, através de norma específica, considerando a localização, potencial poluidor/degradador e porte.\n",
+      "justificativa": "Função é definir estudos e seus termos de referência; porte e potencial poluidor são critérios contextuais, não enquadramento definido neste artigo."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art42_par3",
+      "antes": [],
+      "depois": [
+        "consulta-publica"
+      ],
+      "evidencia": "**Art. 42, § 3º** {#art42_par3} Os Estudos de Impacto Ambiental e Relatório de Impacto Ambiental - EIA/RIMA deverão ser disponibilizados para consulta pública, respeitado o sigilo industrial, acessível em meio eletrônico mantido pelo órgão licenciador competente.",
+      "justificativa": "Obrigação de disponibilizar EIA/RIMA ao público, ressalvado sigilo industrial."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art43",
+      "antes": [],
+      "depois": [
+        "estudo-ambiental"
+      ],
+      "evidencia": "###### Art. 43 {#art43}\nTags: #estudo-ambiental\n\n**Art. 43, caput** {#art43_cpt} O Estado instituirá e manterá um banco de dados obtidos a partir de estudos ambientais aprovados pelo órgão licenciador competente.\n\n**Art. 43, parágrafo único** {#art43_par1u} Os dados poderão ser utilizados para subsidiar novos estudos e análises, desde que devidamente fundamentados pelo empreendedor, e sejam compatíveis em termos de localização e adequados quanto à metodologia de coleta, ao esforço amostral e à época de levantamento.\n",
+      "justificativa": "Banco de dados de estudos aprovados e condições de reaproveitamento, antes sem tag."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art45",
+      "antes": [
+        "fiscalizacao",
+        "monitoramento",
+        "condicionante",
+        "prazo",
+        "informacao-falsa"
+      ],
+      "depois": [
+        "fiscalizacao",
+        "condicionante",
+        "prazo"
+      ],
+      "evidencia": "###### Art. 45 {#art45}\nTags: #fiscalizacao #condicionante #prazo\n\n**Art. 45, caput** {#art45_cpt} Caberá ao órgão licenciador competente monitorar, acompanhar e fiscalizar os licenciamentos aprovados e suas condicionantes.\n\n**Art. 45, § 1º** {#art45_par1} As licenças ambientais concedidas de forma automática, sem análise prévia do órgão licenciador competente, deverão ser fiscalizadas no prazo de um ano da emissão do ato administrativo.\n\n**Art. 45, § 2º** {#art45_par2} A fiscalização de que trata o [[#art45_par1|parágrafo primeiro]] consistirá na verificação da veracidade das informações apresentadas no ato do requerimento do licenciamento ambiental.\n",
+      "justificativa": "Fiscalização e verificação de veracidade não tipificam informação falsa; monitoramento genérico não acrescenta o objeto específico."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art48",
+      "antes": [
+        "informacao-falsa",
+        "auto-infracao",
+        "cancelamento-licenca",
+        "ministerio-publico"
+      ],
+      "depois": [
+        "auto-infracao",
+        "cancelamento-licenca",
+        "ministerio-publico"
+      ],
+      "evidencia": "###### Art. 48 {#art48}\nTags: #auto-infracao #cancelamento-licenca #ministerio-publico\n\n**Art. 48, caput** {#art48_cpt} Nos casos em que se identifique que as informações prestadas no processo de licenciamento não estejam de acordo com as normas vigentes, será lavrada notificação e/ou auto de infração e, imediatamente, cancelada a licença concedida.\n\n**Art. 48, parágrafo único** {#art48_par1u} #ministerio-publico As notificações lavradas deverão ser encaminhadas ao Ministério Público do Estado do Paraná - MPPR, acompanhadas do laudo de constatação, para fins de apuração das responsabilidades civil e penal.\n\n## CAPÍTULO III – DISPOSIÇÕES TRANSITÓRIAS E FINAIS\n",
+      "justificativa": "Informações em desacordo com normas não equivalem necessariamente a falsidade; manter consequências expressas."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art49",
+      "antes": [
+        "enquadramento"
+      ],
+      "depois": [
+        "regulamentacao",
+        "enquadramento",
+        "audiencia-publica"
+      ],
+      "evidencia": "###### Art. 49 {#art49}\nTags: #regulamentacao #enquadramento #audiencia-publica\n\n**Art. 49, caput** {#art49_cpt} Ato do Chefe do Poder Executivo regulamentará esta Lei.\n\n**Art. 49, § 1º** {#art49_par1} Para fins do disposto no [[#art49_cpt|caput]] deste artigo, o Poder Executivo Estadual poderá realizar audiência pública, contando com a participação da sociedade civil organizada, do setor produtivo e dos órgãos de controle.\n\n**Art. 49, § 2º** {#art49_par2} #enquadramento Caberá ao órgão licenciador competente definir os critérios de exigibilidade, detalhamento do rol de empreendimentos, atividades, serviços e obras passíveis de licenciamento e/ou autorização ambiental levando em consideração as especificidades, os riscos ambientais, o porte e outras características do empreendimento, atividade, serviço ou obra.\n",
+      "justificativa": "Regulamentação da lei e faculdade de audiência, antes representadas apenas por enquadramento."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art50",
+      "antes": [],
+      "depois": [
+        "casos-omissos"
+      ],
+      "evidencia": "###### Art. 50 {#art50}\nTags: #casos-omissos\n\n**Art. 50, caput** {#art50_cpt} Serão aplicadas subsidiariamente aos casos omissos as disposições constantes da legislação estadual e federal, bem como dos regulamentos e demais atos normativos expedidos para dar fiel cumprimento às leis.\n",
+      "justificativa": "Aplicação subsidiária para casos omissos antes sem tag."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art51",
+      "antes": [
+        "taxa-ambiental"
+      ],
+      "depois": [
+        "transicao",
+        "taxa-ambiental"
+      ],
+      "evidencia": "###### Art. 51 {#art51}\nTags: #transicao #taxa-ambiental\n\n**Art. 51, caput** {#art51_cpt} Fica resguardando o ato jurídico perfeito, com a plena validade das licenças emitidas anteriores à entrada em vigor desta Lei.\n\n**Art. 51, parágrafo único** {#art51_par1u} #taxa-ambiental Nos procedimentos de licenciamento ambiental em trâmite poderão ser aproveitadas as taxas e documentações, a partir dos critérios estabelecidos por regulamentação do Chefe do Poder Executivo.\n",
+      "justificativa": "Proteção das licenças anteriores e aproveitamento de taxas em processos em trâmite."
+    },
+    {
+      "arquivo": "normas/lei-estadual-22252-2024.md",
+      "id": "art53",
+      "antes": [],
+      "depois": [
+        "revogacao"
+      ],
+      "evidencia": "###### Art. 53 {#art53}\nTags: #revogacao\n\n**Art. 53, caput** {#art53_cpt} Revoga o [[lei-estadual-7978-1984#art1_cpt_inc3|inciso III do art. 1º da Lei nº 7.978, de 30 de novembro de 1984]].\n\n---\n\n**Fecho** {#fecho} Palácio do Governo, em 12 de dezembro de 2024.\n\n- Carlos Massa Ratinho Junior – Governador do Estado\n- João Carlos Ortega – Chefe da Casa Civil\n\n---\n\n## Notas de transcrição {#notas-transcricao}\n\nFonte: versão de impressão do Portal da Legislação do Paraná, que traz o aviso \"Este texto não substitui o publicado no Diário Oficial do Estado\". O texto foi mantido como publicado. Os pontos abaixo são do original, não erros de transcrição:\n\n- Art. 1º: a anotação \"(vide Decreto 9541 de 10/04/2025)\" é do portal, não do texto sancionado.\n- Art. 2º, VII: \"sistema computacionais\".\n- Art. 3º, II: \"possam causa degradação\" (o mesmo erro aparece no art. 6º, IX do [[decreto-estadual-9541-2025#art6_cpt_inc9|Decreto 9.541/2025]]).\n- Art. 3º, V e VI: terminam com ponto em vez de ponto e vírgula.\n- Art. 8º, III: \"a instalação e a operação empreendimentos\" (falta \"de\").\n- Art. 8º, VIII: \"icença Prévia de Ampliação\" (falta o \"L\").\n- Art. 24: os incisos I a IV terminam com ponto em vez de po",
+      "justificativa": "Dispositivo revogador expresso, não dispositivo revogado."
+    }
+  ]
+}

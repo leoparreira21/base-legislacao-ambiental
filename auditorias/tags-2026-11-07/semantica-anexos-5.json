@@ -1,0 +1,709 @@
+{
+  "lote": 5,
+  "metodo": "Leitura do texto técnico integral em Markdown, ementa e âmbito da norma-mãe; decisões manuais por dispositivo.",
+  "limites": [
+    "Sem conferência externa com PDF ou nova certificação de vigência.",
+    "Sínteses interpretativas preservadas; não usadas para criar obrigações.",
+    "Termos de pesquisa classificam matéria e não afirmam incidência incondicional."
+  ],
+  "cobertura": [
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo13.md",
+      "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+      "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+      "resultado": "Lacuna de tags diretas corrigida nos requisitos materiais; sem pulverizar campos cadastrais.",
+      "ids": 26,
+      "tags_antes": 0,
+      "tags_depois": 8
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md",
+      "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+      "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+      "resultado": "Anexo sem tags diretas; indexados projeto, dimensionamento, APP e responsabilidade técnica sem transformar parâmetros em tags novas.",
+      "ids": 152,
+      "tags_antes": 0,
+      "tags_depois": 13
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo2.md",
+      "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+      "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+      "resultado": "MCE sem tags diretas; indexados requisitos ambientais, sem criar tags cadastrais.",
+      "ids": 48,
+      "tags_antes": 0,
+      "tags_depois": 13
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo4.md",
+      "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+      "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+      "resultado": "Mantida impermeabilização correta; preenchidas lacunas relevantes de MCE.",
+      "ids": 50,
+      "tags_antes": 1,
+      "tags_depois": 12
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo9.md",
+      "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+      "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+      "resultado": "Tags existentes adequadas; três requisitos materiais sem tags foram indexados.",
+      "ids": 58,
+      "tags_antes": 3,
+      "tags_depois": 6
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-28-2026-anexo3.md",
+      "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+      "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+      "resultado": "MCE sem tags diretas; frontmatter corrigido para termos efetivamente usados, removendo grafias não canônicas apenas de metadados.",
+      "ids": 41,
+      "tags_antes": 0,
+      "tags_depois": 12
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-31-2025-anexo3.md",
+      "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+      "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+      "resultado": "Retiradas inferências de contaminação e afastamento mínimo sem suporte literal.",
+      "ids": 41,
+      "tags_antes": 20,
+      "tags_depois": 17
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md",
+      "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+      "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+      "resultado": "Anexo sem tags diretas; indexados requisitos ambientais essenciais.",
+      "ids": 52,
+      "tags_antes": 0,
+      "tags_depois": 12
+    },
+    {
+      "arquivo": "normas/anexos/resolucao-sedest-48-2024-anexo5.md",
+      "texto_normativo": "lido integralmente em Markdown; síntese não reescrita",
+      "ementa_e_ambito": "lidos na mãe e contextualização do anexo",
+      "resultado": "Tags existentes representam os requisitos; manter. Norma-mãe revogada no acervo: consulta histórica, sem mudar situação.",
+      "ids": 12,
+      "tags_antes": 9,
+      "tags_depois": 9
+    }
+  ],
+  "decisoes": [
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo13.md",
+      "id": "anexo13_lin2",
+      "antes": [],
+      "depois": [
+        "controle-ambiental",
+        "las"
+      ],
+      "evidencia": "O Plano de Controle Ambiental Simplificado-PCAS deve ser apresentado para o pedido da Licença Ambiental Simplificada - LAS tipo 3.",
+      "justificativa": "PCAS exigido para LAS tipo 3; anexo não tinha indexação direta."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo13.md",
+      "id": "anexo13_lin10",
+      "antes": [],
+      "depois": [
+        "art-anotacao"
+      ],
+      "evidencia": "− Anotação de Responsabilidade Técnica - ART do responsável ou da empresa.",
+      "justificativa": "Exigência expressa de ART."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo13.md",
+      "id": "anexo13_lin20",
+      "antes": [],
+      "depois": [
+        "impacto-ambiental"
+      ],
+      "evidencia": "− Descrição dos impactos/interferências para as fases de implantação e operação do empreendimento, abordando aspectos negativos e positivos;",
+      "justificativa": "Descrição de impactos de implantação e operação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo13.md",
+      "id": "anexo13_lin21",
+      "antes": [],
+      "depois": [
+        "medida-mitigadora",
+        "monitoramento",
+        "controle-ambiental"
+      ],
+      "evidencia": "− Indicação e descrição das medidas mitigadoras, de monitoramento e de controle ambiental propostas, referentes a ruídos, destinação de resíduos, movimentação de solo, impactos à vegetação, obras diversas, impactos à vizinhança, dentre outros de acordo com as necessidades e características do empreendimento;",
+      "justificativa": "Objeto central: medidas mitigadoras, de monitoramento e controle; detalhes permanecem no texto."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo13.md",
+      "id": "anexo13_lin22",
+      "antes": [],
+      "depois": [
+        "monitoramento"
+      ],
+      "evidencia": "− Descrição do método de registro que comprove o controle dos impactos/interferências (fotos, relatórios, fichas de registro, comprovante de transporte de resíduos - CTR, documentos fiscais, etc.) e sua periodicidade de medição;",
+      "justificativa": "Método de registro e periodicidade de medição comprovam controle."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md",
+      "id": "anexo8_lin4",
+      "antes": [],
+      "depois": [
+        "drenagem-urbana"
+      ],
+      "evidencia": "O Projeto de Drenagem Superficial deverá ser elaborado e executado por profissional habilitado, observando as normas brasileiras e legislação municipal vigentes, seguindo as diretrizes abaixo relacionadas.",
+      "justificativa": "Projeto de drenagem superficial em empreendimentos imobiliários."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md",
+      "id": "anexo8_lin23",
+      "antes": [],
+      "depois": [
+        "app",
+        "agua-pluvial"
+      ],
+      "evidencia": "4.1. Os projetos que contemplarem instalações necessárias à drenagem de água pluvial em Área de Preservação Permanente, deverão seguir as diretrizes apresentadas na [[portaria-iat-276-2024|Portaria IAT n° 276/2024]].",
+      "justificativa": "Intervenção da drenagem em APP sujeita a diretriz específica."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md",
+      "id": "anexo8_lin33",
+      "antes": [],
+      "depois": [
+        "dimensionamento",
+        "drenagem-urbana"
+      ],
+      "evidencia": "5.3. A Planilha de Cálculo da Rede de Drenagem deverá trazer os dados, em cada trecho, que traduzam o dimensionamento do cálculo hidráulico das galerias. Contendo, no mínimo os seguintes valores adotados/calculados:",
+      "justificativa": "Planilha de cálculo hidráulico é obrigação central."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md",
+      "id": "anexo8_lin48",
+      "antes": [],
+      "depois": [
+        "vazao"
+      ],
+      "evidencia": "c) Cálculo das Vazões a Escoar nas Galerias: As vazões de contribuição devem ser calculadas pelo Método Racional, para bacias contribuintes pequenas (menor que 2,5 km²), utilizando-se a equação representada abaixo.",
+      "justificativa": "Critério de cálculo de vazões para bacias pequenas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md",
+      "id": "anexo8_lin65",
+      "antes": [],
+      "depois": [
+        "drenagem-urbana"
+      ],
+      "evidencia": "− Período de Recorrência: adotar o período de recorrência de chuva crítico, de acordo com a segurança que se quer dar ao sistema. Assim, quanto maior este tempo, maiores serão as intensidades das chuvas de projeto, e consequentemente maior a segurança do sistema, o que implica em custo mais elevado das obras. Recomendamos tempo de recorrência de 3 anos para a rede de galerias, 10 anos para emissários e canais, e de 50 a 500 anos para barragens, valores estes que permitem trabalhar com boa segurança sem elevar demais o custo de implantação das obras.",
+      "justificativa": "Tempos de recorrência de projeto, não prazo administrativo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md",
+      "id": "anexo8_lin67",
+      "antes": [],
+      "depois": [
+        "impermeabilizacao"
+      ],
+      "evidencia": "− Coeficiente de escoamento superficial: Para a determinação do coeficiente de escoamento superficial, existem valores determinados para cada tipo de cobertura do terreno, sendo adotados pelo Instituto Água e Terra os seguintes valores principais:",
+      "justificativa": "Coeficiente depende da cobertura/permeabilidade do terreno."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md",
+      "id": "anexo8_lin83",
+      "antes": [],
+      "depois": [
+        "dimensionamento"
+      ],
+      "evidencia": "Para o dimensionamento dos coletores será utilizada a fórmula de Manning.",
+      "justificativa": "Fórmula de dimensionamento dos coletores."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md",
+      "id": "anexo8_lin90",
+      "antes": [],
+      "depois": [
+        "dimensionamento"
+      ],
+      "evidencia": "Os tubos são dimensionados a seção plena e as velocidades limites adotadas são:",
+      "justificativa": "Critério de velocidades limites e seção plena."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md",
+      "id": "anexo8_lin95",
+      "antes": [],
+      "depois": [
+        "drenagem-urbana"
+      ],
+      "evidencia": "O cálculo de verificação de superfície das sarjetas consiste numa comparação entre a vazão de solicitação, determinada pelo método Racional, e a vazão correspondente à cota máxima de alagamento, definida como sendo aquela a partir da qual poderia ocorrer extravasamento, calculada com base em uma equação de canal, como a de Izzard, a seguir apresentada:",
+      "justificativa": "Verificação hidráulica das sarjetas."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md",
+      "id": "anexo8_lin125",
+      "antes": [],
+      "depois": [
+        "drenagem-urbana"
+      ],
+      "evidencia": "Devido à complexidade para a solução exata do problema de abatimento de cheias, os pesquisadores estabelecem relação direta entre o Volume Detido e as principais variáveis hidrológicas, obtendo-se aproximações das vazões de entrada e de saída em função da vazão total e o tempo de concentração.",
+      "justificativa": "Dimensionamento de bacia de acumulação de cheias."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md",
+      "id": "anexo8_lin140",
+      "antes": [],
+      "depois": [
+        "art-anotacao"
+      ],
+      "evidencia": "Anotação de Responsabilidade Técnica do profissional elaborador do projeto e do responsável pela implantação do mesmo, junto aos respectivos conselhos de classe.",
+      "justificativa": "ART exigida para elaboração e implantação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo2.md",
+      "id": "anexo2_lin3",
+      "antes": [],
+      "depois": [
+        "memorial-caracterizacao"
+      ],
+      "evidencia": "O Memorial de Caracterização do Empreendimento – MCE deverá ser elaborado e assinado pelo responsável pelas informações prestadas, o qual deverá ser o mesmo responsável declarado no [[instrucao-normativa-iat-23-2026#anexo5|Anexo V]].",
+      "justificativa": "Identifica o documento e seu responsável."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo2.md",
+      "id": "anexo2_lin15",
+      "antes": [],
+      "depois": [
+        "dejeto-animal"
+      ],
+      "evidencia": "● Locais de concentração de dejetos, se houver.",
+      "justificativa": "Localização da concentração de dejetos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo2.md",
+      "id": "anexo2_lin17",
+      "antes": [],
+      "depois": [
+        "app"
+      ],
+      "evidencia": "● Áreas de preservação permanente;",
+      "justificativa": "Delimitação de APP no croqui."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo2.md",
+      "id": "anexo2_lin18",
+      "antes": [],
+      "depois": [
+        "reserva-legal"
+      ],
+      "evidencia": "● Áreas de Reserva Legal e maciços florestais remanescentes;",
+      "justificativa": "Reserva Legal e maciços remanescentes."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo2.md",
+      "id": "anexo2_lin21",
+      "antes": [],
+      "depois": [
+        "uso-solo"
+      ],
+      "evidencia": "● Caracterização do entorno em um raio mínimo de 50 metros do empreendimento, contemplando o uso e ocupação do solo, e a existência de residências.",
+      "justificativa": "Raio de caracterização do entorno, não distância mínima de implantação."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo2.md",
+      "id": "anexo2_lin29",
+      "antes": [],
+      "depois": [
+        "efluente",
+        "dejeto-animal"
+      ],
+      "evidencia": "a) Efluentes líquidos do processo (dejetos animais, águas de lavagem de equipamentos, etc)",
+      "justificativa": "Caracterização de efluentes do processo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo2.md",
+      "id": "anexo2_lin35",
+      "antes": [],
+      "depois": [
+        "emissao-atmosferica"
+      ],
+      "evidencia": "d) Emissões atmosféricas, (no caso de uso de geradores a combustível) e sistemas de controle, quando houver;",
+      "justificativa": "Fontes são geradores a combustível; não geradores de resíduos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo2.md",
+      "id": "anexo2_lin39",
+      "antes": [],
+      "depois": [
+        "dejeto-animal",
+        "classe-risco-solo"
+      ],
+      "evidencia": "• A escolha da área para disposição dos dejetos de bovinos deve considerar os aspectos ambientais das terras, sua classe de risco ambiental e as características físico–químicas do solo. A definição de áreas aptas deverá seguir os critérios estabelecidos no [[instrucao-normativa-iat-23-2026#anexo10|ANEXO X]].",
+      "justificativa": "Aptidão ambiental da área para disposição de dejetos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo2.md",
+      "id": "anexo2_lin42",
+      "antes": [],
+      "depois": [
+        "analise-solo"
+      ],
+      "evidencia": "• Análise de solo – análise de rotina de fertilidade e granulometria",
+      "justificativa": "Análises de fertilidade e granulometria."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-23-2026-anexo2.md",
+      "id": "anexo2_lin46",
+      "antes": [],
+      "depois": [
+        "taxa-aplicacao",
+        "projeto-agronomico"
+      ],
+      "evidencia": "•  Taxa de aplicação deverá ser definida conforme o [[instrucao-normativa-iat-23-2026#anexo10|Anexo X]], podendo ser utilizado o software disponível em www.sgadubo.com.br para a elaboração do respectivo projeto agronômico.",
+      "justificativa": "Cálculo de taxa conforme anexo próprio."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo4.md",
+      "id": "anexo4_lin1",
+      "antes": [],
+      "depois": [
+        "memorial-caracterizacao",
+        "art-anotacao"
+      ],
+      "evidencia": "O Memorial de Caracterização do Empreendimento deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, contendo no mínimo as informações em sequência.",
+      "justificativa": "MCE e ART exigidos expressamente."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo4.md",
+      "id": "anexo4_lin24",
+      "antes": [],
+      "depois": [
+        "app"
+      ],
+      "evidencia": "b. Áreas de preservação permanente;",
+      "justificativa": "APP deve constar do croqui."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo4.md",
+      "id": "anexo4_lin25",
+      "antes": [],
+      "depois": [
+        "unidade-conservacao"
+      ],
+      "evidencia": "c. Unidades de Conservação Federais, Estaduais e Municipais;",
+      "justificativa": "Unidades de conservação devem constar do croqui."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo4.md",
+      "id": "anexo4_lin30",
+      "antes": [],
+      "depois": [
+        "supressao-vegetacao",
+        "movimentacao-solo"
+      ],
+      "evidencia": "a. Descritivo das obras e intervenções previstas, tais como supressão de vegetação, intervenções em corpos hídricos, movimentação de terra, entre outros;",
+      "justificativa": "Intervenções a descrever nas obras."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo4.md",
+      "id": "anexo4_lin38",
+      "antes": [],
+      "depois": [
+        "outorga-previa"
+      ],
+      "evidencia": "- Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.",
+      "justificativa": "Documento de outorga ou declaração alternativa."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo4.md",
+      "id": "anexo4_lin42",
+      "antes": [],
+      "depois": [
+        "tratamento-efluente"
+      ],
+      "evidencia": "- Proposta de tratamento previsto;",
+      "justificativa": "Proposta de tratamento de efluentes."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo4.md",
+      "id": "anexo4_lin45",
+      "antes": [],
+      "depois": [
+        "agua-pluvial",
+        "impermeabilizacao"
+      ],
+      "evidencia": "- Área impermeabilizada e sistema de drenagem pluvial previsto, indicando as formas de tratamento e destinação final das águas incidentes nas áreas impermeabilizadas;",
+      "justificativa": "Drenagem e área impermeabilizada são objeto do requisito."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo4.md",
+      "id": "anexo4_lin48",
+      "antes": [],
+      "depois": [
+        "residuo-solido"
+      ],
+      "evidencia": "- Estimativa da geração de resíduos sólidos indicando no mínimo: (i) código IBAMA, (ii) Resíduos Específico, (iii) Origem do resíduo, (iv) Quantificação diária estimada, (v) Tratamento e destinação final.",
+      "justificativa": "Caracterização e estimativa dos resíduos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo9.md",
+      "id": "anexo9_lin2",
+      "antes": [],
+      "depois": [
+        "art-anotacao"
+      ],
+      "evidencia": "O PASE deve ser elaborado por profissional devidamente habilitado e acompanhado de Anotação de Responsabilidade Técnica emitida pelo conselho de classe competente.",
+      "justificativa": "ART do PASE exigida."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo9.md",
+      "id": "anexo9_lin25",
+      "antes": [],
+      "depois": [
+        "analise-risco"
+      ],
+      "evidencia": "Processo de análise de riscos com metodologias validadas na literatura, para orientação na tomada de decisão.",
+      "justificativa": "Análise de riscos como requisito expresso do plano."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-25-2025-anexo9.md",
+      "id": "anexo9_lin27",
+      "antes": [],
+      "depois": [
+        "situacao-emergencia"
+      ],
+      "evidencia": "Procedimentos para cada etapa de ocorrência de uma situação emergencial, considerando as atividades executadas e a capacitação dos profissionais existentes.",
+      "justificativa": "Procedimentos por etapa de ocorrência emergencial."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-28-2026-anexo3.md",
+      "id": "anexo3_lin1",
+      "antes": [],
+      "depois": [
+        "memorial-caracterizacao",
+        "art-anotacao"
+      ],
+      "evidencia": "O MCE deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.",
+      "justificativa": "MCE deve acompanhar ART."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-28-2026-anexo3.md",
+      "id": "anexo3_lin20",
+      "antes": [],
+      "depois": [
+        "app"
+      ],
+      "evidencia": "b) Áreas de preservação permanente;",
+      "justificativa": "APP no croqui."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-28-2026-anexo3.md",
+      "id": "anexo3_lin21",
+      "antes": [],
+      "depois": [
+        "unidade-conservacao"
+      ],
+      "evidencia": "c) Unidades de Conservação Federais, Estaduais e Municipais;",
+      "justificativa": "UC no croqui."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-28-2026-anexo3.md",
+      "id": "anexo3_lin27",
+      "antes": [],
+      "depois": [
+        "tanque-armazenamento",
+        "combustivel"
+      ],
+      "evidencia": "b) Memorial descritivo do SASC ou SAAC;",
+      "justificativa": "Memorial de sistemas de armazenamento subterrâneo ou aéreo de combustíveis."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-28-2026-anexo3.md",
+      "id": "anexo3_lin32",
+      "antes": [],
+      "depois": [
+        "outorga-previa"
+      ],
+      "evidencia": "Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.",
+      "justificativa": "Outorga prévia ou declaração de uso independente."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-28-2026-anexo3.md",
+      "id": "anexo3_lin36",
+      "antes": [],
+      "depois": [
+        "tratamento-efluente"
+      ],
+      "evidencia": "Proposta do sistema de tratamento previsto;",
+      "justificativa": "Proposta de sistema de tratamento."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-28-2026-anexo3.md",
+      "id": "anexo3_lin39",
+      "antes": [],
+      "depois": [
+        "agua-pluvial",
+        "impermeabilizacao"
+      ],
+      "evidencia": "Área impermeabilizada e sistema de drenagem pluvial previsto, indicando as formas de tratamento e destinação final das águas incidentes nas áreas impermeabilizadas.",
+      "justificativa": "Drenagem em área impermeabilizada."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-28-2026-anexo3.md",
+      "id": "anexo3_lin40",
+      "antes": [],
+      "depois": [
+        "residuo-solido"
+      ],
+      "evidencia": "i. Estimativa da geração de resíduos sólidos indicando no mínimo: (i) código IBAMA, (ii) Resíduos Específico, (iii) Origem do resíduo, (iv) Quantificação diária estimada, (v) Tratamento e destinação final.",
+      "justificativa": "Estimativa de resíduos com classificação e destino."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-28-2026-anexo3.md",
+      "id": "anexo3_lin41",
+      "antes": [],
+      "depois": [
+        "emissao-atmosferica"
+      ],
+      "evidencia": "i. Fontes de geração de emissões atmosféricas e sistemas de tratamento propostos.",
+      "justificativa": "Fontes e sistemas propostos de tratamento de emissões."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-31-2025-anexo3.md",
+      "id": "anexo3_lin12",
+      "antes": [
+        "area-contaminada"
+      ],
+      "depois": [
+        "uso-solo"
+      ],
+      "evidencia": "− Informações do uso atual e pretérito da área objeto do empreendimento;",
+      "justificativa": "Histórico de uso não afirma que a área esteja contaminada."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-31-2025-anexo3.md",
+      "id": "anexo3_lin24",
+      "antes": [
+        "corpo-hidrico",
+        "distancia-minima"
+      ],
+      "depois": [
+        "corpo-hidrico"
+      ],
+      "evidencia": "− Distância dos corpos hídricos;",
+      "justificativa": "Pede informar a distância, sem estabelecer afastamento mínimo."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-31-2025-anexo3.md",
+      "id": "anexo3_lin27",
+      "antes": [
+        "distancia-minima"
+      ],
+      "depois": [],
+      "evidencia": "− Casas isoladas;",
+      "justificativa": "Casas isoladas no croqui; não determina distância mínima."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-31-2025-anexo3.md",
+      "id": "anexo3_lin28",
+      "antes": [
+        "aglomerado-populacional",
+        "distancia-minima"
+      ],
+      "depois": [
+        "aglomerado-populacional"
+      ],
+      "evidencia": "− Núcleos populacionais;",
+      "justificativa": "Núcleos no croqui; não determina distância mínima."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md",
+      "id": "anexo4_lin1",
+      "antes": [],
+      "depois": [
+        "memorial-caracterizacao",
+        "art-anotacao"
+      ],
+      "evidencia": "O Memorial de Caracterização do Empreendimento deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, contendo no mínimo as informações em sequência.",
+      "justificativa": "MCE industrial e ART são requisitos centrais."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md",
+      "id": "anexo4_lin23",
+      "antes": [],
+      "depois": [
+        "app"
+      ],
+      "evidencia": "b. Áreas de preservação permanente;",
+      "justificativa": "APP no croqui."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md",
+      "id": "anexo4_lin24",
+      "antes": [],
+      "depois": [
+        "unidade-conservacao"
+      ],
+      "evidencia": "c. Unidades de Conservação Federais, Estaduais e Municipais;",
+      "justificativa": "UC no croqui."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md",
+      "id": "anexo4_lin29",
+      "antes": [],
+      "depois": [
+        "supressao-vegetacao",
+        "movimentacao-solo"
+      ],
+      "evidencia": "a. Descritivo das obras e intervenções previstas, tais como supressão de vegetação, intervenções em corpos hídricos, movimentação de terra, entre outros;",
+      "justificativa": "Intervenções previstas nas obras."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md",
+      "id": "anexo4_lin39",
+      "antes": [],
+      "depois": [
+        "outorga-previa"
+      ],
+      "evidencia": "- Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.",
+      "justificativa": "Documento de outorga ou alternativa."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md",
+      "id": "anexo4_lin43",
+      "antes": [],
+      "depois": [
+        "tratamento-efluente"
+      ],
+      "evidencia": "- Proposta de tratamento previsto;",
+      "justificativa": "Proposta de tratamento de efluentes."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md",
+      "id": "anexo4_lin46",
+      "antes": [],
+      "depois": [
+        "agua-pluvial",
+        "impermeabilizacao"
+      ],
+      "evidencia": "- Área impermeabilizada e sistema de drenagem pluvial previsto, indicando as formas de tratamento e destinação final das águas incidentes nas áreas impermeabilizadas.",
+      "justificativa": "Drenagem da área impermeabilizada."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md",
+      "id": "anexo4_lin48",
+      "antes": [],
+      "depois": [
+        "residuo-solido"
+      ],
+      "evidencia": "- Estimativa da geração de resíduos sólidos indicando no mínimo: (i) código IBAMA, (ii) Resíduos Específico, (iii) Origem do resíduo, (iv) Quantificação diária estimada, (v) Tratamento e destinação final.",
+      "justificativa": "Estimativa e classificação de resíduos."
+    },
+    {
+      "arquivo": "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md",
+      "id": "anexo4_lin50",
+      "antes": [],
+      "depois": [
+        "emissao-atmosferica"
+      ],
+      "evidencia": "- Indicação das possíveis fontes de geração de emissões atmosféricas e sistemas de tratamento propostos;",
+      "justificativa": "Fontes de emissão e tratamento proposto."
+    }
+  ]
+}

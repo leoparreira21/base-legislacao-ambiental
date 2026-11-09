@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [industria]
 modalidades: [lac, lp, lpa, lor]
-tags: [industria, memorial-caracterizacao]
+tags: [agua-pluvial, app, art-anotacao, emissao-atmosferica, impermeabilizacao, memorial-caracterizacao, movimentacao-solo, outorga-previa, residuo-solido, supressao-vegetacao, tratamento-efluente, unidade-conservacao]
 fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do PDF, com anexos)
 ---
 
@@ -19,7 +19,7 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo IV, linha 1** {#anexo4_lin1} O Memorial de Caracterização do Empreendimento deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, contendo no mínimo as informações em sequência.
+- **Anexo IV, linha 1** {#anexo4_lin1} #memorial-caracterizacao #art-anotacao O Memorial de Caracterização do Empreendimento deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, contendo no mínimo as informações em sequência.
 - **Anexo IV, linha 2** {#anexo4_lin2} 1. INFORMAÇÕES CADASTRAIS
 - **Anexo IV, linha 3** {#anexo4_lin3} a. Razão social;
 - **Anexo IV, linha 4** {#anexo4_lin4} b. Nome Fantasia;
@@ -41,13 +41,13 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IV, linha 20** {#anexo4_lin20} j. Características do entorno (uso do solo, residências, áreas de interesse ambiental, etc.).
 - **Anexo IV, linha 21** {#anexo4_lin21} 3. CROQUI DE LOCALIZAÇÃO DO EMPREENDIMENTO COM IMAGEM AÉREA E CONTENDO NO MÍNIMO:
 - **Anexo IV, linha 22** {#anexo4_lin22} a. Distância dos recursos hídricos (nascentes, olhos d’água, cursos d’água, etc.);
-- **Anexo IV, linha 23** {#anexo4_lin23} b. Áreas de preservação permanente;
-- **Anexo IV, linha 24** {#anexo4_lin24} c. Unidades de Conservação Federais, Estaduais e Municipais;
+- **Anexo IV, linha 23** {#anexo4_lin23} #app b. Áreas de preservação permanente;
+- **Anexo IV, linha 24** {#anexo4_lin24} #unidade-conservacao c. Unidades de Conservação Federais, Estaduais e Municipais;
 - **Anexo IV, linha 25** {#anexo4_lin25} d. Cobertura florestal;
 - **Anexo IV, linha 26** {#anexo4_lin26} e. Vias de acesso principais e pontos de referências.
 - **Anexo IV, linha 27** {#anexo4_lin27} f. Planta de implantação sobreposta ao mapa
 - **Anexo IV, linha 28** {#anexo4_lin28} 4. CARACTERIZAÇÃO DAS OBRAS PREVISTAS
-- **Anexo IV, linha 29** {#anexo4_lin29} a. Descritivo das obras e intervenções previstas, tais como supressão de vegetação, intervenções em corpos hídricos, movimentação de terra, entre outros;
+- **Anexo IV, linha 29** {#anexo4_lin29} #supressao-vegetacao #movimentacao-solo a. Descritivo das obras e intervenções previstas, tais como supressão de vegetação, intervenções em corpos hídricos, movimentação de terra, entre outros;
 - **Anexo IV, linha 30** {#anexo4_lin30} 5. CARACTERIZAÇÃO DA ATIVIDADE
 - **Anexo IV, linha 31** {#anexo4_lin31} a. Descritivo e fluxograma do processo industrial;
 - **Anexo IV, linha 32** {#anexo4_lin32} b. Principais matérias primas e produtos a serem elaborados e quantitativo previsto;
@@ -57,18 +57,18 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IV, linha 36** {#anexo4_lin36} a. Recursos hídricos
 - **Anexo IV, linha 37** {#anexo4_lin37} - Fontes de captação de água;
 - **Anexo IV, linha 38** {#anexo4_lin38} - Vazões utilizadas em cada etapa do processo industrial, consumo humano, higienização de máquinas, equipamentos e instalações;
-- **Anexo IV, linha 39** {#anexo4_lin39} - Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.
+- **Anexo IV, linha 39** {#anexo4_lin39} #outorga-previa - Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.
 - **Anexo IV, linha 40** {#anexo4_lin40} b. Efluentes líquidos:
 - **Anexo IV, linha 41** {#anexo4_lin41} - Fontes de geração de efluentes líquidos (sanitário, processo industrial, lavagem de máquinas, equipamentos e instalações, entre outros);
 - **Anexo IV, linha 42** {#anexo4_lin42} - Vazões previstas de cada fonte identificada;
-- **Anexo IV, linha 43** {#anexo4_lin43} - Proposta de tratamento previsto;
+- **Anexo IV, linha 43** {#anexo4_lin43} #tratamento-efluente - Proposta de tratamento previsto;
 - **Anexo IV, linha 44** {#anexo4_lin44} - Destinação final dos efluentes gerados.
 - **Anexo IV, linha 45** {#anexo4_lin45} c. Drenagem pluvial
-- **Anexo IV, linha 46** {#anexo4_lin46} - Área impermeabilizada e sistema de drenagem pluvial previsto, indicando as formas de tratamento e destinação final das águas incidentes nas áreas impermeabilizadas.
+- **Anexo IV, linha 46** {#anexo4_lin46} #agua-pluvial #impermeabilizacao - Área impermeabilizada e sistema de drenagem pluvial previsto, indicando as formas de tratamento e destinação final das águas incidentes nas áreas impermeabilizadas.
 - **Anexo IV, linha 47** {#anexo4_lin47} d. Resíduos Sólidos:
-- **Anexo IV, linha 48** {#anexo4_lin48} - Estimativa da geração de resíduos sólidos indicando no mínimo: (i) código IBAMA, (ii) Resíduos Específico, (iii) Origem do resíduo, (iv) Quantificação diária estimada, (v) Tratamento e destinação final.
+- **Anexo IV, linha 48** {#anexo4_lin48} #residuo-solido - Estimativa da geração de resíduos sólidos indicando no mínimo: (i) código IBAMA, (ii) Resíduos Específico, (iii) Origem do resíduo, (iv) Quantificação diária estimada, (v) Tratamento e destinação final.
 - **Anexo IV, linha 49** {#anexo4_lin49} e. Emissões atmosféricas e sistemas de controle.
-- **Anexo IV, linha 50** {#anexo4_lin50} - Indicação das possíveis fontes de geração de emissões atmosféricas e sistemas de tratamento propostos;
+- **Anexo IV, linha 50** {#anexo4_lin50} #emissao-atmosferica - Indicação das possíveis fontes de geração de emissões atmosféricas e sistemas de tratamento propostos;
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

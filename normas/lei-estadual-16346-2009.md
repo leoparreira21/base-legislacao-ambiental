@@ -22,7 +22,7 @@ alterado_por: ["[[lei-estadual-17787-2013]]", "[[lei-estadual-19044-2017]]", "[[
 revoga: []
 revogado_por: []
 cita: ["[[constituicao-estadual-1989]]"]
-tags: [advertencia, auto-infracao, cadastro, conselho-classe, contratacao-terceiro, definicao, degradacao-ambiental, empresa-potencialmente-poluidora, fundo-estadual-meio-ambiente, ibama, incluido, infracao-ambiental, licenciamento-ambiental, multa, plano-emergencia, poluicao, potencial-poluidor, prazo, recurso-administrativo, regulamentacao, responsavel-tecnico, sancao, sistema-gerenciamento-riscos, termo-ajustamento-conduta, vigencia]
+tags: [advertencia, auto-infracao, cadastro, conselho-classe, contratacao-terceiro, definicao, degradacao-ambiental, empresa-potencialmente-poluidora, fundo-estadual-meio-ambiente, ibama, incluido, infracao-ambiental, licenciamento-ambiental, multa, plano-emergencia, poluicao, potencial-poluidor, prazo, recurso-administrativo, regulamentacao, responsavel-tecnico, sancao, sistema-gerenciamento-riscos, tac, vigencia]
 fonte: "Impressão do texto do portal Legislação Estadual do Paraná (legislacao.pr.gov.br), 2 páginas, enviada por Leo. O portal diz: 'Este texto não substitui o publicado no Diário Oficial do Estado'."
 ---
 
@@ -99,11 +99,11 @@ Tags: #licenciamento-ambiental #responsavel-tecnico
 **Art. 6º, caput** {#art6_cpt} O Instituto Ambiental do Paraná – IAP exigirá o cumprimento integral da presente lei quando da emissão do licenciamento de operação das empresas enquadradas no [[#art3|artigo 3º]] deste dispositivo legal.
 
 ###### Art. 7º {#art7}
-Tags: #sancao #advertencia #termo-ajustamento-conduta #multa #potencial-poluidor #fundo-estadual-meio-ambiente #recurso-administrativo #auto-infracao
+Tags: #sancao #advertencia #tac #multa #potencial-poluidor #fundo-estadual-meio-ambiente #recurso-administrativo #auto-infracao
 
 **Art. 7º, caput** {#art7_cpt} O não cumprimento da presente lei implicará:
 
-- **Art. 7º, caput, inciso I** {#art7_cpt_inc1} #advertencia #termo-ajustamento-conduta advertência por escrito, em forma de um termo de ajustamento de conduta, prevendo-se, entre outros, o prazo máximo para a devida regularização;
+- **Art. 7º, caput, inciso I** {#art7_cpt_inc1} #advertencia #tac advertência por escrito, em forma de um termo de ajustamento de conduta, prevendo-se, entre outros, o prazo máximo para a devida regularização;
 - **Art. 7º, caput, inciso II** {#art7_cpt_inc2} #multa não cumprido o termo de conduta previsto no [[#art7_cpt_inc1|inciso anterior]], multa de R$ 5.000,00 (cinco mil reais) a R$ 500.000,00 (quinhentos mil reais), por mês, até a regularização.
 
 **Art. 7º, § 1º** {#art7_par1} #multa #potencial-poluidor O Instituto Ambiental do Paraná – IAP quantificará a multa prevista no [[#art7_cpt_inc2|inciso II]] do presente artigo conforme critérios objetivos, previstos na regulamentação da presente lei, que deverão constar entre outros:

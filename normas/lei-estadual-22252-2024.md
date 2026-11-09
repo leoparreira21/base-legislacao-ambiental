@@ -20,7 +20,7 @@ alterado_por: []
 revogado_por: []
 revoga: ["[[lei-estadual-7978-1984]]"]
 cita: ["[[lei-federal-6938-1981]]", "[[lei-complementar-federal-140-2011]]", "[[constituicao-federal-1988]]", "[[lei-federal-9605-1998]]", "[[lei-federal-12651-2012]]", "[[lei-federal-7347-1985]]", "[[lei-federal-12527-2011]]"]
-tags: [aeroporto, alteracao, amep, ampliacao, anuencia, area-contigua, area-interdependente, art-anotacao, assentamento, ato-administrativo, auto-infracao, autorizacao-ambiental, autorizacao-florestal, bem-cultural, biodiversidade, cancelamento-licenca, cema, competencia, complementacao, comunidade-tradicional, conama, concordancia-tacita, condicao-especial, condicionante, conselho-classe, cral, crime-ambiental, dano-ambiental, debito-ambiental, declaracao-adesao-compromisso, deferimento, defesa-civil, dila, dispensa, dlam, efluente, eia-rima, emissao-atmosferica, empreendimento-imobiliario, encerramento, enquadramento, fiscalizacao, funai, ibama, impacto-ambiental, indeferimento, inexigibilidade, informacao-falsa, infracao-ambiental, interesse-social, iphan, lac, las, lasa, lasr, laudo-tecnico, li, lia, licenca-ambiental, licenca-vencida, licenciamento-ambiental, licenciamento-bifasico, licenciamento-monofasico, licenciamento-municipal, licenciamento-previo, licenciamento-trifasico, lir, lo, loa, lor, lp, lpa, manancial, medida-compensatoria, medida-mitigadora, ministerio-publico, modalidade, monitoramento, obra-emergencial, outorga, parecer-tecnico, porte, porto, potencial-poluidor, prazo, prorrogacao, prorrogacao-automatica, prorrogacao-prazo, publicacao-dioe, qualidade-ar, quilombola, recurso-hidrico, regiao-metropolitana, regularizacao, renovacao, renovacao-extemporanea, requerimento, residuo-solido, responsabilidade, responsavel-tecnico, restricao-temporaria, risco-ambiental, sancao, saneamento, sisnama, situacao-emergencia, supressao-vegetacao, suspensao-licenca, suspensao-processo, tac, taxa-ambiental, terra-indigena, tipologia, tombamento, unidade-conservacao, uso-solo, utilidade-publica, validade, vegetacao-nativa, vigencia, zona-amortecimento]
+tags: [aeroporto, amep, ampliacao, anuencia, area-contigua, area-interdependente, arquivamento-processo, art-anotacao, assentamento, ato-administrativo, audiencia-publica, auto-infracao, autorizacao-ambiental, autorizacao-florestal, bem-cultural, biodiversidade, cancelamento-licenca, casos-omissos, cema, competencia, complementacao, comunidade-tradicional, concordancia-tacita, condicao-especial, condicionante, conselho-classe, consulta-publica, cral, crime-ambiental, dano-ambiental, debito-ambiental, declaracao-adesao-compromisso, deferimento, defesa-civil, dila, dispensa, dlam, efluente, eia-rima, emissao-atmosferica, empreendimento-imobiliario, encerramento, enquadramento, estudo-ambiental, fiscalizacao, funai, ibama, impacto-ambiental, indeferimento, inexigibilidade, informacao-falsa, infracao-ambiental, interesse-social, iphan, lac, las, lasa, lasr, laudo-tecnico, li, lia, licenca-ambiental, licenca-vencida, licenciamento-ambiental, licenciamento-bifasico, licenciamento-monofasico, licenciamento-municipal, licenciamento-previo, licenciamento-trifasico, lir, lo, loa, lor, lp, lpa, manancial, medida-compensatoria, medida-mitigadora, ministerio-publico, modalidade, monitoramento, obra-emergencial, outorga, parecer-tecnico, pendencia-judicial, porte, porto, potencial-poluidor, prazo, prioridade, processo-administrativo, prorrogacao, prorrogacao-automatica, prorrogacao-prazo, publicacao-dioe, qualidade-ar, quilombola, recurso-hidrico, regiao-metropolitana, regulamentacao, regularizacao, renovacao, renovacao-extemporanea, requerimento, residuo-solido, responsabilidade, responsavel-tecnico, restricao-temporaria, revogacao, risco-ambiental, sancao, saneamento, situacao-emergencia, supressao-vegetacao, suspensao-licenca, suspensao-processo, tac, taxa-ambiental, termo-referencia, terra-indigena, tipologia, tombamento, transicao, unidade-conservacao, uso-solo, utilidade-publica, validade, vegetacao-nativa, vigencia, zona-amortecimento]
 fonte: Portal da Legislação do Estado do Paraná (versão de impressão, 17 páginas; "este texto não substitui o publicado no Diário Oficial do Estado")
 ---
 
@@ -31,7 +31,7 @@ fonte: Portal da Legislação do Estado do Paraná (versão de impressão, 17 p�
 **Preâmbulo** {#preambulo} A Assembleia Legislativa do Estado do Paraná decretou e eu sanciono a seguinte lei:
 
 ###### Art. 1º {#art1}
-Tags: #licenciamento-ambiental #potencial-poluidor #sisnama #competencia
+Tags: #licenciamento-ambiental #competencia
 
 **Art. 1º, caput** {#art1_cpt} Estabelece normas gerais, conceitos, requisitos, critérios, diretrizes e procedimentos administrativos referentes ao licenciamento ambiental de empreendimentos e/ou atividades utilizadores de recursos ambientais, efetiva ou potencialmente poluidores ou capazes, sob qualquer forma, de causar degradação ao meio ambiente, conforme o previsto no [[lei-federal-6938-1981#art10|art. 10 da Lei Federal nº 6.938, de 31 de agosto de 1981]]. (vide [[decreto-estadual-9541-2025|Decreto 9541 de 10/04/2025]])
 
@@ -66,7 +66,7 @@ Tags: #dano-ambiental #responsabilidade #recurso-hidrico #unidade-conservacao #r
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} #licenciamento-ambiental Licenciamento Ambiental: procedimento administrativo pelo qual o órgão ambiental competente, verificando a satisfação das condições legais e técnicas, delibera quanto à localização, instalação, ampliação, operação e encerramento de empreendimentos e atividades utilizadoras de recursos ambientais consideradas efetivas ou potencialmente poluidoras ou daquelas que, sob qualquer forma, possam vir a causar degradação e/ou modificação ambiental, considerando as disposições legais e regulamentares e as normas técnicas aplicáveis ao caso;
 - **Art. 3º, caput, inciso II** {#art3_cpt_inc2} #licenca-ambiental Licença ambiental: o ato administrativo pelo qual são estabelecidas, as condições, restrições e medidas de controle ambiental que deverão ser obedecidas pelo empreendedor, pessoa física ou jurídica, para localizar, instalar, ampliar e operar empreendimentos e/ou atividades utilizadoras dos recursos ambientais, consideradas efetiva ou potencialmente poluidoras ou aquelas que, sob qualquer forma, possam causa degradação e/ou modificação ambiental;
 - **Art. 3º, caput, inciso III** {#art3_cpt_inc3} #modalidade Modalidades de licenciamento ambiental: tipo de processo administrativo que varia de acordo com a natureza, a localização, o porte e o potencial poluidor/degradador dos empreendimentos e/ou atividades;
-- **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} Estudos ambientais: são todos e quaisquer estudos relativos aos aspectos ambientais relacionados à localização, instalação, operação e ampliação de um empreendimento e/ou atividade, apresentado como subsídio para a análise da licença requerida, tais como: relatório ambiental, plano e projeto de controle ambiental, relatório ambiental preliminar, diagnóstico ambiental, plano de manejo, plano de recuperação de área degradada e programa de gerenciamento de riscos ambientais;
+- **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} #estudo-ambiental Estudos ambientais: são todos e quaisquer estudos relativos aos aspectos ambientais relacionados à localização, instalação, operação e ampliação de um empreendimento e/ou atividade, apresentado como subsídio para a análise da licença requerida, tais como: relatório ambiental, plano e projeto de controle ambiental, relatório ambiental preliminar, diagnóstico ambiental, plano de manejo, plano de recuperação de área degradada e programa de gerenciamento de riscos ambientais;
 - **Art. 3º, caput, inciso V** {#art3_cpt_inc5} #impacto-ambiental Impacto Ambiental: qualquer alteração das propriedades físicas, químicas e biológicas no meio ambiente, causada por qualquer forma de matéria ou energia resultante das atividades humanas que, direta ou indiretamente, afetam a saúde, a segurança e o bem-estar da população; as atividades sociais e econômicas; a biota; as condições estéticas e sanitárias do meio ambiente; a qualidade dos recursos ambientais.
 - **Art. 3º, caput, inciso VI** {#art3_cpt_inc6} #potencial-poluidor Potencial poluidor/degradador: é a avaliação qualitativa e quantitativa da capacidade do empreendimento e/ou atividade causar impacto ambiental negativo no meio ambiente.
 - **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} #condicionante Condicionantes: medidas, condições ou restrições sob responsabilidade do empreendedor, estabelecidas no âmbito das licenças ambientais pela autoridade licenciadora, com vistas a mitigar ou compensar os impactos ambientais negativos e potencializar os impactos positivos identificados nos estudos ambientais, devendo guardar relação direta e proporcional com os impactos neles identificados;
@@ -107,6 +107,7 @@ Tags: #cema #competencia
 **Art. 6º, parágrafo único** {#art6_par1u} Os licenciamentos ambientais não estão sujeitos à manifestação vinculante de conselhos consultivos, eventualmente intervenientes no procedimento de licenciamento ambiental.
 
 ###### Art. 7º {#art7}
+Tags: #processo-administrativo
 
 **Art. 7º, caput** {#art7_cpt} Os agentes ambientais e a administração pública, no exercício de suas competências no âmbito do licenciamento ambiental, deverão atuar em conformidade com os princípios constitucionais da eficiência e da duração razoável do processo, previstos respectivamente nos termos do [[constituicao-federal-1988#art37|art. 37]] e no [[constituicao-federal-1988#art5_cpt_inc78|inciso LXXVIII do art. 5º]], todos da Constituição Federal.
 
@@ -115,7 +116,7 @@ Tags: #cema #competencia
 ### Seção I – Dos Atos Administrativos
 
 ###### Art. 8º {#art8}
-Tags: #ato-administrativo #dila #dlam #lac #las #lasa #lasr #lp #lpa #li #lia #lir #lo #loa #lor #cral #autorizacao-ambiental #autorizacao-florestal #outorga
+Tags: #dila #dlam #lac #las #lasa #lasr #lp #lpa #li #lia #lir #lo #loa #lor #cral #autorizacao-ambiental #autorizacao-florestal #outorga
 
 **Art. 8º, caput** {#art8_cpt} O órgão licenciador competente, no exercício de sua competência de controle ambiental, expedirá os seguintes atos administrativos, referentes ao licenciamento ambiental:
 - **Art. 8º, caput, inciso I** {#art8_cpt_inc1} #dila #inexigibilidade Declaração de Inexigibilidade de Licença Ambiental - DILA: concedida de forma automática para os empreendimentos e/ou atividades de insignificante potencial poluidor/degradador do meio ambiente, para os quais é inexigível o licenciamento ambiental, respeitadas as legislações municipais;
@@ -172,7 +173,7 @@ Tags: #enquadramento #potencial-poluidor #porte #impacto-ambiental
 **Art. 10, § 2º** {#art10_par2} Serão também considerados os impactos segundo seus efeitos imediatos, a médio e longo prazos, temporários e permanentes, bem como seu grau de reversibilidade.
 
 ###### Art. 11 {#art11}
-Tags: #enquadramento #porte #modalidade #alteracao
+Tags: #enquadramento #porte #modalidade
 
 **Art. 11, caput** {#art11_cpt} Havendo qualquer alteração nas características do porte nos empreendimentos e/ou atividades que implique na mudança da modalidade de licenciamento, deverá ser requerido novo procedimento de licenciamento ambiental pelo empreendedor.
 
@@ -233,7 +234,7 @@ Tags: #condicionante #prorrogacao-prazo
 **Art. 18, caput** {#art18_cpt} Em razão de fato superveniente ou no caso de impossibilidade técnica de cumprimento de medida condicionante estabelecida no processo de licenciamento ambiental, o empreendedor poderá requerer a reconsideração da medida ou a prorrogação do prazo para o seu cumprimento, formalizando requerimento devidamente instruído com a justificativa e a comprovação da impossibilidade de cumprimento, se for o caso, até o vencimento do prazo de cumprimento estabelecido na respectiva condicionante.
 
 ###### Art. 19 {#art19}
-Tags: #utilidade-publica #interesse-social #saneamento #outorga #autorizacao-florestal #supressao-vegetacao
+Tags: #prioridade #utilidade-publica #interesse-social #saneamento #outorga #autorizacao-florestal
 
 **Art. 19, caput** {#art19_cpt} Poderão ser priorizados os processos de licenciamento ambiental com interesse público devidamente justificado.
 
@@ -257,7 +258,7 @@ Tags: #debito-ambiental #suspensao-processo
 **Art. 21, caput** {#art21_cpt} Constatada a existência de débitos ambientais decorrentes de decisões administrativas, contra as quais não couber recurso administrativo, em nome do requerente, pessoa física ou jurídica ou de seus antecessores, o procedimento de licenciamento ambiental terá seu trâmite suspenso até a regularização dos referidos débitos.
 
 ###### Art. 22 {#art22}
-Tags: #suspensao-processo
+Tags: #pendencia-judicial #suspensao-processo
 
 **Art. 22, caput** {#art22_cpt} Constatada a existência de pendência judicial envolvendo o empreendedor, o empreendimento ou o imóvel, a decisão administrativa sobre a eventual suspensão do licenciamento será precedida de manifestação jurídica do órgão licenciador competente.
 
@@ -295,14 +296,14 @@ Tags: #complementacao #prazo #prorrogacao-prazo
 **Art. 26, parágrafo único** {#art26_par1u} #prorrogacao-prazo O empreendedor poderá solicitar a prorrogação do prazo mediante requerimento motivado, o qual será analisado pelo órgão licenciador competente.
 
 ###### Art. 27 {#art27}
-Tags: #complementacao #prazo #sancao
+Tags: #complementacao #arquivamento-processo #sancao
 
 **Art. 27, caput** {#art27_cpt} O não cumprimento dos prazos estipulados no [[#art27_cpt|caput do art. 27]] desta Lei sujeitará o arquivamento do pedido de licenciamento ambiental e, quando for o caso, a aplicação das sanções cabíveis.
 
 **Art. 27, parágrafo único** {#art27_par1u} Mediante solicitação formal e motivada do interessado, poderá ser desarquivado o procedimento de licenciamento ambiental, de acordo com critérios estabelecidos pelo órgão licenciador competente.
 
 ###### Art. 28 {#art28}
-Tags: #taxa-ambiental
+Tags: #arquivamento-processo #taxa-ambiental
 
 **Art. 28, caput** {#art28_cpt} O arquivamento do procedimento de licenciamento ambiental não impedirá a apresentação de novo requerimento, que deverá obedecer aos procedimentos, restrições e condicionantes estabelecidos para tal fim, mediante novo recolhimento integral da taxa ambiental.
 
@@ -387,11 +388,11 @@ Tags: #taxa-ambiental
 ### Seção VIII – Das Publicações
 
 ###### Art. 36 {#art36}
-Tags: #publicacao-dioe #requerimento #autorizacao-ambiental #conama
+Tags: #publicacao-dioe #autorizacao-ambiental
 
 **Art. 36, caput** {#art36_cpt} O empreendedor, sob suas expensas, providenciará a publicação resumida do requerimento de licenciamento ambiental no Diário Oficial do Estado, em qualquer uma de suas modalidades, exceto as Autorizações Ambientais.
 
-**Art. 36, parágrafo único** {#art36_par1u} #conama A publicação de que trata o [[#art36_cpt|caput]] deste artigo observará os padrões estabelecidos pelo Conselho Nacional do Meio Ambiente - CONAMA em regulamentações próprias.
+**Art. 36, parágrafo único** {#art36_par1u} A publicação de que trata o [[#art36_cpt|caput]] deste artigo observará os padrões estabelecidos pelo Conselho Nacional do Meio Ambiente - CONAMA em regulamentações próprias.
 
 ###### Art. 37 {#art37}
 Tags: #publicacao-dioe #deferimento #indeferimento #autorizacao-ambiental #taxa-ambiental
@@ -408,6 +409,7 @@ Tags: #deferimento #indeferimento #autorizacao-ambiental
 ### Seção IX – Das Cópias, Certidões ou Vistas de Processos Administrativos
 
 ###### Art. 39 {#art39}
+Tags: #processo-administrativo
 
 **Art. 39, caput** {#art39_cpt} Resguardados os sigilos legais, é facultada ao interessado a solicitação de cópias e vistas de informações constantes nos procedimentos administrativos de licenciamento ambiental, nos termos da [[lei-federal-12527-2011|Lei Federal nº º 12.527, de 18 de novembro de 2021]].
 
@@ -416,7 +418,7 @@ Tags: #deferimento #indeferimento #autorizacao-ambiental
 ### Seção X – Dos Estudos Ambientais
 
 ###### Art. 40 {#art40}
-Tags: #potencial-poluidor #porte
+Tags: #estudo-ambiental #termo-referencia
 
 **Art. 40, caput** {#art40_cpt} Os estudos ambientais a serem exigidos em processos de licenciamento ambiental e os respectivos Termos de Referência serão definidos pelo órgão licenciador competente, através de norma específica, considerando a localização, potencial poluidor/degradador e porte.
 
@@ -434,9 +436,10 @@ Tags: #eia-rima #enquadramento #parecer-tecnico
 
 **Art. 42, § 2º** {#art42_par2} #parecer-tecnico Também deverá ser exigido EIA/RIMA se ficar caracterizada, pelas peculiaridades do empreendimento e/ou atividade e pelos impactos avaliados, devidamente fundamentado em parecer técnico do órgão licenciador competente, de que se trata de atividade potencialmente causadora de significativo impacto ambiental.
 
-**Art. 42, § 3º** {#art42_par3} Os Estudos de Impacto Ambiental e Relatório de Impacto Ambiental - EIA/RIMA deverão ser disponibilizados para consulta pública, respeitado o sigilo industrial, acessível em meio eletrônico mantido pelo órgão licenciador competente.
+**Art. 42, § 3º** {#art42_par3} #consulta-publica Os Estudos de Impacto Ambiental e Relatório de Impacto Ambiental - EIA/RIMA deverão ser disponibilizados para consulta pública, respeitado o sigilo industrial, acessível em meio eletrônico mantido pelo órgão licenciador competente.
 
 ###### Art. 43 {#art43}
+Tags: #estudo-ambiental
 
 **Art. 43, caput** {#art43_cpt} O Estado instituirá e manterá um banco de dados obtidos a partir de estudos ambientais aprovados pelo órgão licenciador competente.
 
@@ -450,7 +453,7 @@ Tags: #tipologia #validade
 ### Seção XI – Da Fiscalização
 
 ###### Art. 45 {#art45}
-Tags: #fiscalizacao #monitoramento #condicionante #prazo #informacao-falsa
+Tags: #fiscalizacao #condicionante #prazo
 
 **Art. 45, caput** {#art45_cpt} Caberá ao órgão licenciador competente monitorar, acompanhar e fiscalizar os licenciamentos aprovados e suas condicionantes.
 
@@ -473,7 +476,7 @@ Tags: #responsabilidade #informacao-falsa #crime-ambiental #sancao
 **Art. 47, parágrafo único** {#art47_par1u} #crime-ambiental Sujeita-se às sanções legalmente aplicáveis previstas no [[lei-federal-9605-1998#art69-a|art. 69 da Lei Federal nº 9.605, de 1998]], quando elaborar ou apresentar, no licenciamento ou qualquer outro procedimento administrativo associado, documentos com informações falsas ou enganosas, inclusive por omissão.
 
 ###### Art. 48 {#art48}
-Tags: #informacao-falsa #auto-infracao #cancelamento-licenca #ministerio-publico
+Tags: #auto-infracao #cancelamento-licenca #ministerio-publico
 
 **Art. 48, caput** {#art48_cpt} Nos casos em que se identifique que as informações prestadas no processo de licenciamento não estejam de acordo com as normas vigentes, será lavrada notificação e/ou auto de infração e, imediatamente, cancelada a licença concedida.
 
@@ -482,7 +485,7 @@ Tags: #informacao-falsa #auto-infracao #cancelamento-licenca #ministerio-publico
 ## CAPÍTULO III – DISPOSIÇÕES TRANSITÓRIAS E FINAIS
 
 ###### Art. 49 {#art49}
-Tags: #enquadramento
+Tags: #regulamentacao #enquadramento #audiencia-publica
 
 **Art. 49, caput** {#art49_cpt} Ato do Chefe do Poder Executivo regulamentará esta Lei.
 
@@ -491,11 +494,12 @@ Tags: #enquadramento
 **Art. 49, § 2º** {#art49_par2} #enquadramento Caberá ao órgão licenciador competente definir os critérios de exigibilidade, detalhamento do rol de empreendimentos, atividades, serviços e obras passíveis de licenciamento e/ou autorização ambiental levando em consideração as especificidades, os riscos ambientais, o porte e outras características do empreendimento, atividade, serviço ou obra.
 
 ###### Art. 50 {#art50}
+Tags: #casos-omissos
 
 **Art. 50, caput** {#art50_cpt} Serão aplicadas subsidiariamente aos casos omissos as disposições constantes da legislação estadual e federal, bem como dos regulamentos e demais atos normativos expedidos para dar fiel cumprimento às leis.
 
 ###### Art. 51 {#art51}
-Tags: #taxa-ambiental
+Tags: #transicao #taxa-ambiental
 
 **Art. 51, caput** {#art51_cpt} Fica resguardando o ato jurídico perfeito, com a plena validade das licenças emitidas anteriores à entrada em vigor desta Lei.
 
@@ -507,6 +511,7 @@ Tags: #vigencia
 **Art. 52, caput** {#art52_cpt} Esta Lei entra em vigor 120 (cento e vinte) dias a partir de sua publicação.
 
 ###### Art. 53 {#art53}
+Tags: #revogacao
 
 **Art. 53, caput** {#art53_cpt} Revoga o [[lei-estadual-7978-1984#art1_cpt_inc3|inciso III do art. 1º da Lei nº 7.978, de 30 de novembro de 1984]].
 

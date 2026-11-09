@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [transbordo-residuo-solido-urbano]
 modalidades: [las, lasa, lasr, li, lia, lir]
-tags: [diretriz-estudo, pca, acondicionamento, aglomerado-populacional, agua-pluvial, app, area-construida, area-verde-urbana, armazenamento-residuo, art-anotacao, bem-cultural, captacao, cnpj, cobertura-residuo, conservacao-solo, controle-ambiental, corpo-hidrico, cpf, destinacao-final, diagnostico-ambiental, dimensionamento, distancia-minima, efluente, emissao-atmosferica, esgoto-sanitario, especie-exotica, fauna, geologia, georreferenciamento, gerenciamento-residuo, impacto-ambiental, iphan, medida-compensatoria, medida-mitigadora, movimentacao-solo, obra-civil, reserva-legal, residuo-construcao-civil, residuo-solido, residuo-solido-urbano, responsavel-legal, responsavel-tecnico, segregacao, sistema-isolamento, terraplanagem, transbordo, transporte, tratamento-esgoto, unidade-conservacao, uso-solo, vegetacao-nativa]
+tags: [acondicionamento, aglomerado-populacional, agua-pluvial, app, area-construida, area-verde-urbana, armazenamento-residuo, art-anotacao, bem-cultural, captacao, cnpj, cobertura-residuo, conservacao-solo, controle-ambiental, corpo-hidrico, cpf, destinacao-final, diagnostico-ambiental, dimensionamento, diretriz-estudo, efluente, emissao-atmosferica, esgoto-sanitario, especie-exotica, fauna, flora, geologia, georreferenciamento, gerenciamento-residuo, impacto-ambiental, medida-compensatoria, medida-mitigadora, nascente, obra-civil, pca, reserva-legal, residuo-construcao-civil, residuo-solido, residuo-solido-urbano, responsavel-legal, responsavel-tecnico, segregacao, sistema-isolamento, terraplanagem, transbordo, transporte, tratamento-esgoto, unidade-conservacao, uso-solo, vegetacao-nativa]
 fonte: PDF da IN IAT 30/2025 (4214bd52-IN_302025.pdf), páginas 55 a 59
 ---
 
@@ -25,8 +25,8 @@ fonte: PDF da IN IAT 30/2025 (4214bd52-IN_302025.pdf), páginas 55 a 59
 - **Anexo IV, linha 4** {#anexo4_lin4} #cnpj • CNPJ;
 - **Anexo IV, linha 5** {#anexo4_lin5} • Endereço;
 - **Anexo IV, linha 6** {#anexo4_lin6} #responsavel-legal • Nome do representante legal;
-- **Anexo IV, linha 7** {#anexo4_lin7} #responsavel-legal • Telefone do representante legal;
-- **Anexo IV, linha 8** {#anexo4_lin8} #responsavel-legal • E-mail do representante legal;
+- **Anexo IV, linha 7** {#anexo4_lin7} • Telefone do representante legal;
+- **Anexo IV, linha 8** {#anexo4_lin8} • E-mail do representante legal;
 - **Anexo IV, linha 9** {#anexo4_lin9} • Pessoa para contato;
 - **Anexo IV, linha 10** {#anexo4_lin10} • Telefone da pessoa para contato;
 - **Anexo IV, linha 11** {#anexo4_lin11} • E-mail da pessoa para contato.
@@ -35,7 +35,7 @@ fonte: PDF da IN IAT 30/2025 (4214bd52-IN_302025.pdf), páginas 55 a 59
 - **Anexo IV, linha 14** {#anexo4_lin14} • Razão social
 - **Anexo IV, linha 15** {#anexo4_lin15} #cpf #cnpj • CPF ou CNPJ
 - **Anexo IV, linha 16** {#anexo4_lin16} • Endereço;
-- **Anexo IV, linha 17** {#anexo4_lin17} #art-anotacao #responsavel-tecnico • Anotação de Responsabilidade Técnica – ART
+- **Anexo IV, linha 17** {#anexo4_lin17} #art-anotacao • Anotação de Responsabilidade Técnica – ART
 - **Anexo IV, linha 18** {#anexo4_lin18} 3. DESCRIÇÃO DA ATIVIDADE/EMPREENDIMENTO
 - **Anexo IV, linha 19** {#anexo4_lin19} 3.1. Concepção e justificativa de projeto
 - **Anexo IV, linha 20** {#anexo4_lin20} Devem ser apresentadas a concepção e a metodologia de operação, justificando face às suas finalidades.
@@ -52,13 +52,13 @@ fonte: PDF da IN IAT 30/2025 (4214bd52-IN_302025.pdf), páginas 55 a 59
 - **Anexo IV, linha 31** {#anexo4_lin31} 4.1. Caracterização da área
 - **Anexo IV, linha 32** {#anexo4_lin32} #uso-solo • Uso e ocupação do solo;
 - **Anexo IV, linha 33** {#anexo4_lin33} #corpo-hidrico • Corpos hídricos existentes na área;
-- **Anexo IV, linha 34** {#anexo4_lin34} #corpo-hidrico #app • Existência de nascentes e olhos d’água;
+- **Anexo IV, linha 34** {#anexo4_lin34} #nascente • Existência de nascentes e olhos d’água;
 - **Anexo IV, linha 35** {#anexo4_lin35} #conservacao-solo • Suscetibilidade do terreno à erosão;
 - **Anexo IV, linha 36** {#anexo4_lin36} #vegetacao-nativa #especie-exotica • Existência de cobertura florestal informando áreas de vegetação nativa e exótica;
 - **Anexo IV, linha 37** {#anexo4_lin37} #app • Existência de áreas de preservação permanente;
 - **Anexo IV, linha 38** {#anexo4_lin38} #reserva-legal #area-verde-urbana • Ocorrência de Reserva Legal ou Área Verde Urbana;
 - **Anexo IV, linha 39** {#anexo4_lin39} #fauna • Espécies de animais predominantes, quando aplicável;
-- **Anexo IV, linha 40** {#anexo4_lin40} #iphan #bem-cultural • Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;
+- **Anexo IV, linha 40** {#anexo4_lin40} #bem-cultural • Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;
 - **Anexo IV, linha 41** {#anexo4_lin41} #geologia • Caracterização da geomorfologia/relevo;
 - **Anexo IV, linha 42** {#anexo4_lin42} #unidade-conservacao • Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais na área do empreendimento e no seu entorno.
 - **Anexo IV, linha 43** {#anexo4_lin43} #impacto-ambiental #medida-mitigadora #medida-compensatoria 4.2. Identificação dos impactos ambientais: identificar os principais impactos que poderão ocorrer em função da implantação e operação do empreendimento. Para cada impacto indicado, descrever as medidas mitigatórias, de controle ou de compensação correspondente.
@@ -79,19 +79,19 @@ fonte: PDF da IN IAT 30/2025 (4214bd52-IN_302025.pdf), páginas 55 a 59
 - **Anexo IV, linha 58** {#anexo4_lin58} #residuo-construcao-civil #destinacao-final • A destinação final dos resíduos gerados na etapa de implantação deverá ocorrer conforme legislação vigente.
 - **Anexo IV, linha 59** {#anexo4_lin59} #emissao-atmosferica 5.6. Emissões Atmosféricas
 - **Anexo IV, linha 60** {#anexo4_lin60} #emissao-atmosferica Identificar as fontes de emissões atmosféricas. Descrever os sistemas de controle ambiental adotados.
-- **Anexo IV, linha 61** {#anexo4_lin61} #movimentacao-solo #terraplanagem 5.7. Movimentação de solo
-- **Anexo IV, linha 62** {#anexo4_lin62} #movimentacao-solo #terraplanagem Caso necessário, apresentar projeto de terraplenagem
+- **Anexo IV, linha 61** {#anexo4_lin61} #terraplanagem 5.7. Movimentação de solo
+- **Anexo IV, linha 62** {#anexo4_lin62} #terraplanagem Caso necessário, apresentar projeto de terraplenagem
 - **Anexo IV, linha 63** {#anexo4_lin63} 6. REPRESENTAÇÃO GRÁFICA
 - **Anexo IV, linha 64** {#anexo4_lin64} 6.1. Planta da concepção geral
 - **Anexo IV, linha 65** {#anexo4_lin65} #georreferenciamento Devem ser apresentados em desenho georreferenciado os seguintes elementos:
 - **Anexo IV, linha 66** {#anexo4_lin66} #georreferenciamento • localização geográfica da Unidade;
 - **Anexo IV, linha 67** {#anexo4_lin67} • acessos principais e instalações de apoio;
-- **Anexo IV, linha 68** {#anexo4_lin68} #corpo-hidrico #distancia-minima • corpos da água e indicação da distância com relação a Unidade.
-- **Anexo IV, linha 69** {#anexo4_lin69} #aglomerado-populacional #distancia-minima • distância com relação à núcleos populacionais e residências isoladas.
+- **Anexo IV, linha 68** {#anexo4_lin68} #corpo-hidrico • corpos da água e indicação da distância com relação a Unidade.
+- **Anexo IV, linha 69** {#anexo4_lin69} #aglomerado-populacional • distância com relação à núcleos populacionais e residências isoladas.
 - **Anexo IV, linha 70** {#anexo4_lin70} #sistema-isolamento • indicação do isolamento da área;
 - **Anexo IV, linha 71** {#anexo4_lin71} #reserva-legal • indicação da área de Reserva Legal;
 - **Anexo IV, linha 72** {#anexo4_lin72} #app • indicação das áreas de Preservação Permanente;
-- **Anexo IV, linha 73** {#anexo4_lin73} #vegetacao-nativa • indicação de demais áreas com presença de vegetação, se aplicável.
+- **Anexo IV, linha 73** {#anexo4_lin73} #flora • indicação de demais áreas com presença de vegetação, se aplicável.
 - **Anexo IV, linha 74** {#anexo4_lin74} #transbordo 6.2. Planta com detalhes da Unidade de Transbordo
 - **Anexo IV, linha 75** {#anexo4_lin75} • limites da área total a ser utilizada;
 - **Anexo IV, linha 76** {#anexo4_lin76} • área de transferência dos resíduos

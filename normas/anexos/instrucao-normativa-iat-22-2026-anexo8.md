@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: Projeto de Controle de Poluição Ambiental
 atividades: [irrigacao]
 modalidades: [las, li, lasa, lia, lasr, lir, lor]
-tags: [irrigacao, pca, conservacao-solo, monitoramento, recurso-hidrico, app, reserva-legal, art-anotacao, poluicao, compactacao-solo, educacao-ambiental]
+tags: [agrotoxico, app, art-anotacao, compactacao-solo, conservacao-solo, educacao-ambiental, fertilizante, irrigacao, monitoramento, pca, pcpa, poluicao, recuperacao-ambiental, recurso-hidrico, reserva-legal, responsavel-tecnico, tratamento-efluente]
 ---
 
 # ANEXO VIII — Projeto de Controle de Poluição Ambiental
@@ -15,9 +15,9 @@ tags: [irrigacao, pca, conservacao-solo, monitoramento, recurso-hidrico, app, re
 
 **Anexo VIII, linha 1** {#anexo8_lin1} ANEXO VIII
 
-**Anexo VIII, linha 2** {#anexo8_lin2} TERMO DE REFERÊNCIA PARA ELABORAÇÃO E APRESENTAÇÃO DE PROJETOS DE SISTEMAS DE CONTROLE DE POLUIÇÃO AMBIENTAL EM EMPREENDIMENTOS DE IRRIGAÇÃO
+**Anexo VIII, linha 2** {#anexo8_lin2} #pcpa #irrigacao TERMO DE REFERÊNCIA PARA ELABORAÇÃO E APRESENTAÇÃO DE PROJETOS DE SISTEMAS DE CONTROLE DE POLUIÇÃO AMBIENTAL EM EMPREENDIMENTOS DE IRRIGAÇÃO
 
-**Anexo VIII, linha 3** {#anexo8_lin3} 1. INTRODUÇÃO O presente documento estabelece diretrizes para a elaboração e apresentação de projetos de sistemas de controle de poluição ambiental em empreendimentos de irrigação. O objetivo é garantir que os projetos minimizem os impactos ambientais, promovam o uso sustentável dos recursos hídricos e atendam às normas e regulamentações ambientais vigentes. A adoção dessas práticas é essencial para a sustentabilidade dos recursos naturais e a viabilidade econômica dos empreendimentos. Os projetos devem ser apresentados para análise, acompanhados da Anotação de Responsabilidade Técnica (ART), conforme a [[lei-federal-6496-1977|Lei nº 6.496/77]], e devem incluir informações cadastrais, memoriais descritivos, cálculos técnicos e desenhos detalhados.
+**Anexo VIII, linha 3** {#anexo8_lin3} #art-anotacao 1. INTRODUÇÃO O presente documento estabelece diretrizes para a elaboração e apresentação de projetos de sistemas de controle de poluição ambiental em empreendimentos de irrigação. O objetivo é garantir que os projetos minimizem os impactos ambientais, promovam o uso sustentável dos recursos hídricos e atendam às normas e regulamentações ambientais vigentes. A adoção dessas práticas é essencial para a sustentabilidade dos recursos naturais e a viabilidade econômica dos empreendimentos. Os projetos devem ser apresentados para análise, acompanhados da Anotação de Responsabilidade Técnica (ART), conforme a [[lei-federal-6496-1977|Lei nº 6.496/77]], e devem incluir informações cadastrais, memoriais descritivos, cálculos técnicos e desenhos detalhados.
 
 **Anexo VIII, linha 4** {#anexo8_lin4} 2. OBJETIVOS
 
@@ -91,7 +91,7 @@ tags: [irrigacao, pca, conservacao-solo, monitoramento, recurso-hidrico, app, re
 
 **Anexo VIII, linha 39** {#anexo8_lin39} ● Flora e fauna local (espécies presentes e áreas sensíveis).
 
-**Anexo VIII, linha 40** {#anexo8_lin40} ● Áreas de preservação permanente (APPs) e reservas legais.
+**Anexo VIII, linha 40** {#anexo8_lin40} #app #reserva-legal ● Áreas de preservação permanente (APPs) e reservas legais.
 
 **Anexo VIII, linha 41** {#anexo8_lin41} 3.5.3. Meio Socioeconômico:
 
@@ -101,7 +101,7 @@ tags: [irrigacao, pca, conservacao-solo, monitoramento, recurso-hidrico, app, re
 
 **Anexo VIII, linha 44** {#anexo8_lin44} 3.6. Identificação dos Impactos Ambientais Descrição dos potenciais impactos ambientais associados à irrigação:
 
-**Anexo VIII, linha 45** {#anexo8_lin45} ● Contaminação de corpos hídricos por agroquímicos e fertilizantes.
+**Anexo VIII, linha 45** {#anexo8_lin45} #agrotoxico #fertilizante ● Contaminação de corpos hídricos por agroquímicos e fertilizantes.
 
 **Anexo VIII, linha 46** {#anexo8_lin46} ● Salinização e compactação do solo.
 
@@ -125,13 +125,13 @@ tags: [irrigacao, pca, conservacao-solo, monitoramento, recurso-hidrico, app, re
 
 **Anexo VIII, linha 56** {#anexo8_lin56} ● Instalação de barreiras vegetais para reduzir o escoamento superficial.
 
-**Anexo VIII, linha 57** {#anexo8_lin57} ● Construção de bacias de sedimentação e filtros para tratamento de efluentes.
+**Anexo VIII, linha 57** {#anexo8_lin57} #tratamento-efluente ● Construção de bacias de sedimentação e filtros para tratamento de efluentes.
 
 **Anexo VIII, linha 58** {#anexo8_lin58} ● Uso de biofiltros e sistemas de drenagem sustentável.
 
 **Anexo VIII, linha 59** {#anexo8_lin59} 3.7.3. Medidas Compensatórias:
 
-**Anexo VIII, linha 60** {#anexo8_lin60} ● Recuperação de áreas degradadas (revegetação com espécies nativas).
+**Anexo VIII, linha 60** {#anexo8_lin60} #recuperacao-ambiental ● Recuperação de áreas degradadas (revegetação com espécies nativas).
 
 **Anexo VIII, linha 61** {#anexo8_lin61} ● Programas de educação ambiental para trabalhadores e comunidade local.
 
@@ -155,7 +155,7 @@ tags: [irrigacao, pca, conservacao-solo, monitoramento, recurso-hidrico, app, re
 
 **Anexo VIII, linha 71** {#anexo8_lin71} ● Localização das estruturas em relação ao empreendimento.
 
-**Anexo VIII, linha 72** {#anexo8_lin72} 3.9. Plano de Monitoramento Ambiental
+**Anexo VIII, linha 72** {#anexo8_lin72} #monitoramento 3.9. Plano de Monitoramento Ambiental
 
 **Anexo VIII, linha 73** {#anexo8_lin73} ● Definição de parâmetros a serem monitorados (qualidade da água, solo, etc.).
 
@@ -209,7 +209,7 @@ tags: [irrigacao, pca, conservacao-solo, monitoramento, recurso-hidrico, app, re
 
 **Anexo VIII, linha 98** {#anexo8_lin98} 5. RESPONSABILIDADES
 
-**Anexo VIII, linha 99** {#anexo8_lin99} ● O responsável técnico pelo projeto deve assegurar que todas as informações fornecidas sejam verídicas e precisas.
+**Anexo VIII, linha 99** {#anexo8_lin99} #responsavel-tecnico ● O responsável técnico pelo projeto deve assegurar que todas as informações fornecidas sejam verídicas e precisas.
 
 **Anexo VIII, linha 100** {#anexo8_lin100} ● O empreendedor é responsável pela implementação e manutenção do sistema de controle de poluição, conforme proposto no projeto.
 

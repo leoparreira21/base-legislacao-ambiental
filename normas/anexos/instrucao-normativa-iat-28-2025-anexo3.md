@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: MCE
 atividades: [armazenamento-agrotoxico]
 modalidades: [lac, las, lasa, lasr, lp, lpa]
-tags: [diretriz-estudo, memorial-caracterizacao, armazenamento-agrotoxico, agrotoxico, tratamento-semente, art-anotacao, outorga, residuo-solido]
+tags: [app, art-anotacao, memorial-caracterizacao, outorga, residuo-solido, tratamento-semente]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), páginas 77 a 79
 ---
 
@@ -19,7 +19,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo III, linha 1** {#anexo3_lin1} #art-anotacao O MCE deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo III, linha 1** {#anexo3_lin1} #memorial-caracterizacao #art-anotacao O MCE deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 - **Anexo III, linha 2** {#anexo3_lin2} 1 INFORMAÇÕES CADASTRAIS
 - **Anexo III, linha 3** {#anexo3_lin3} a) Razão social;
 - **Anexo III, linha 4** {#anexo3_lin4} b) Nome Fantasia;
@@ -41,7 +41,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo III, linha 20** {#anexo3_lin20} j) Características do entorno (uso do solo, residências, áreas de interesse ambiental, etc.).
 - **Anexo III, linha 21** {#anexo3_lin21} 3 CROQUI DE LOCALIZAÇÃO DO EMPREENDIMENTO COM IMAGEM AÉREA E CONTENDO NO MÍNIMO
 - **Anexo III, linha 22** {#anexo3_lin22} a) Distância dos recursos hídricos (nascentes, olhos d’água, cursos d’água, etc.);
-- **Anexo III, linha 23** {#anexo3_lin23} b) Áreas de preservação permanente;
+- **Anexo III, linha 23** {#anexo3_lin23} #app b) Áreas de preservação permanente;
 - **Anexo III, linha 24** {#anexo3_lin24} c) Unidades de Conservação Federais, Estaduais e Municipais;
 - **Anexo III, linha 25** {#anexo3_lin25} d) Cobertura florestal;
 - **Anexo III, linha 26** {#anexo3_lin26} e) Vias de acesso principais e pontos de referências;

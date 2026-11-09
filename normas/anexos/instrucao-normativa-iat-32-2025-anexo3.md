@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [armazenamento-temporario-residuo]
 modalidades: [lp, lpa]
-tags: [diretriz-estudo, memorial-caracterizacao, armazenamento-residuo, acondicionamento, aglomerado-populacional, app, area-contaminada, art-anotacao, captacao, classificacao-residuo, corpo-hidrico, distancia-minima, efluente, esgoto-sanitario, georreferenciamento, gerenciamento-residuo, movimentacao-solo, nascente, odor, passivo-ambiental, porte, recurso-hidrico, reserva-legal, supressao-vegetacao, triagem, uso-solo]
+tags: [acondicionamento, aglomerado-populacional, app, armazenamento-residuo, art-anotacao, captacao, classificacao-residuo, corpo-hidrico, diretriz-estudo, efluente, esgoto-sanitario, georreferenciamento, gerenciamento-residuo, memorial-caracterizacao, movimentacao-solo, nascente, odor, recurso-hidrico, reserva-legal, supressao-vegetacao, triagem, uso-solo]
 fonte: PDF da IN IAT 32/2025, páginas 56 a 58
 ---
 
@@ -30,8 +30,8 @@ fonte: PDF da IN IAT 32/2025, páginas 56 a 58
 - **Anexo III, linha 9** {#anexo3_lin9} − E-mail.
 - **Anexo III, linha 10** {#anexo3_lin10} 2. CARACTERIZAÇÃO DA ÁREA
 - **Anexo III, linha 11** {#anexo3_lin11} − Área onde será implantada a atividade (área total, área utilizada e área livre);
-- **Anexo III, linha 12** {#anexo3_lin12} #porte #armazenamento-residuo − Área destinada ao armazenamento dos resíduos;
-- **Anexo III, linha 13** {#anexo3_lin13} #area-contaminada #passivo-ambiental − Informações do uso atual e pretérito da área objeto do empreendimento;
+- **Anexo III, linha 12** {#anexo3_lin12} #armazenamento-residuo − Área destinada ao armazenamento dos resíduos;
+- **Anexo III, linha 13** {#anexo3_lin13} #uso-solo − Informações do uso atual e pretérito da área objeto do empreendimento;
 - **Anexo III, linha 14** {#anexo3_lin14} #georreferenciamento − Coordenadas Geográficas em UTM SIRGAS 2000;
 - **Anexo III, linha 15** {#anexo3_lin15} #uso-solo − Uso e ocupação do solo;
 - **Anexo III, linha 16** {#anexo3_lin16} − Tipo e característica do solo;
@@ -43,11 +43,11 @@ fonte: PDF da IN IAT 32/2025, páginas 56 a 58
 - **Anexo III, linha 22** {#anexo3_lin22} 3. CROQUI DE LOCALIZAÇÃO DO EMPREENDIMENTO COM IMAGEM AÉREA E CONTENDO NO MÍNIMO:
 - **Anexo III, linha 23** {#anexo3_lin23} Deverá ser apresentado o croqui de localização do empreendimento com imagem aérea, contendo no mínimo:
 - **Anexo III, linha 24** {#anexo3_lin24} − Delimitação das instalações;
-- **Anexo III, linha 25** {#anexo3_lin25} #corpo-hidrico #distancia-minima − Distância dos corpos hídricos;
+- **Anexo III, linha 25** {#anexo3_lin25} #corpo-hidrico − Distância dos corpos hídricos;
 - **Anexo III, linha 26** {#anexo3_lin26} #app − Áreas de preservação permanente;
 - **Anexo III, linha 27** {#anexo3_lin27} #reserva-legal − Reserva Legal;
-- **Anexo III, linha 28** {#anexo3_lin28} #distancia-minima − Casas isoladas;
-- **Anexo III, linha 29** {#anexo3_lin29} #aglomerado-populacional #distancia-minima − Núcleos populacionais;
+- **Anexo III, linha 28** {#anexo3_lin28} − Casas isoladas;
+- **Anexo III, linha 29** {#anexo3_lin29} #aglomerado-populacional − Núcleos populacionais;
 - **Anexo III, linha 30** {#anexo3_lin30} − Cobertura florestal;
 - **Anexo III, linha 31** {#anexo3_lin31} − Vias de acesso principais.
 - **Anexo III, linha 32** {#anexo3_lin32} 4. CARACTERIZAÇÃO DO EMPREENDIMENTO

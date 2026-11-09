@@ -1,0 +1,5765 @@
+{
+  "versao": "proposta-1",
+  "escopo": "Organização inicial; não certifica revisão semântica de todas as ocorrências. Não consumida pelo motor atual.",
+  "grupos": [
+    "tema/agua",
+    "tema/efluente",
+    "tema/residuo",
+    "tema/ar",
+    "tema/flora-territorio",
+    "tema/radiacao",
+    "atividade",
+    "instrumento/licenciamento",
+    "instrumento/estudo-documento",
+    "instrumento/procedimento",
+    "tecnico/parametro-monitoramento",
+    "instituicao",
+    "controle-editorial",
+    "atividade/industrial-servicos",
+    "atividade/equipamento-insumo",
+    "tema/seguranca-saude",
+    "tema/gestao-politica"
+  ],
+  "aliases": {
+    "licenca-previa": "lp",
+    "licenca-instalacao": "li",
+    "licenca-operacao": "lo",
+    "termo-ajustamento-conduta": "tac",
+    "aplicabilidade": "ambito-aplicacao"
+  },
+  "nos": [
+    {
+      "id": "abastecimento-publico",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "abnt",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aciaria",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "acondicionamento",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "advertencia",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aeracao",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aeroporto",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "agencia-agua",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aglomerado-populacional",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "agricultura-familiar",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "agropecuaria",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "agrotoxico",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "agua-doce",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "agua-pluvial",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "agua-salina",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "agua-salobra",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "agua-subterranea",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aguasparana",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aid",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aii",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "alteracao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aluminio",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "alvara",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "amazonia-legal",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "ambito-aplicacao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "amep",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "amianto",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "amostragem",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "ampliacao",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "ana",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "analise-risco",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "analise-solo",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "anexo-pendente",
+      "grupo": "controle-editorial",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "animal-morto",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "anuencia",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "anuencia-previa",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "anvisa",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "apa",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "apicultura",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "apicum-salgado",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "app",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "apreensao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aprovacao-local",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aprovacao-tacita",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aproveitamento-energetico",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aproveitamento-hidreletrico",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aquicultura",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aquifero",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-construida",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-contaminada",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-contigua",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-cultivada",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-degradada",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-disposicao-final",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-drenagem",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-fragil",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-industrial",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-influencia",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-interdependente",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-inundavel",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-protecao-aquifero",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-restricao-controle",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-rural-consolidada",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-sensivel",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-umida",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-urbana",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-urbana-consolidada",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "area-verde-urbana",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "armazenamento-agrotoxico",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "armazenamento-graos",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "armazenamento-residuo",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "arquivamento-processo",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "art-anotacao",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "artesanal",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "arvore-isolada",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "asfalto",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "assentamento",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aterro-classe-a",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aterro-classe-i",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "aterro-sanitario",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "atividade-vinculada",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "atividades-diversas",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "ato-administrativo",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "att",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "atuacao-subsidiaria",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "atuacao-supletiva",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "audiencia-publica",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "auditoria",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "auto-infracao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "automonitoramento",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": "monitoramento",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "autoridade-envolvida",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "autorizacao-ambiental",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "autorizacao-construcao",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "autorizacao-florestal",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "autorizacao-operacao",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "averbacao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "avicultura",
+      "grupo": "atividade",
+      "pai": "agropecuaria",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "bacia-hidrografica",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "bagaco-cana",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "baixo-impacto-ambiental",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "baixo-potencial-poluidor",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "baixo-risco",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "balanco-massa",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "balneabilidade",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "barracao",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "bem-cultural",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "beneficiamento",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "biodiversidade",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "biogas",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "biomassa",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "biosseguridade",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "bovinocultura",
+      "grupo": "atividade",
+      "pai": "agropecuaria",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cadastro",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cafe",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cal-calcario",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "caldeira",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "camara-tecnica",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "camara-tecnica-mananciais",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cancelamento-licenca",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "capacidade-suporte",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "capacitacao",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "captacao",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "car",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "caracterizacao-agronomica",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "carga-poluidora",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "carvao-vegetal",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "casos-omissos",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "catador",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cavidade-natural",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cema",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "centro-distribuicao",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cepct",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cerh",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "certidao",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "certidao-municipal",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "certidao-negativa-debito",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "chamine",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "chumbo",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cianobacteria",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cimento",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "classe-1",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "classe-2",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "classe-3",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "classe-4",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "classe-5",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "classe-agua-reuso",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "classe-especial",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "classe-rejeito-radioativo",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "classe-risco-solo",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "classificacao-agente-biologico",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "classificacao-corpo-agua",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "classificacao-instalacao-radiativa",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "classificacao-residuo",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cloro-residual",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cnae",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cnen",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cnpj",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cntp",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cobertura-residuo",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cobranca-uso-agua",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "codigo-florestal",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "coeficiente-rendimento",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "coleta",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "coleta-seletiva",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "coletor",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "coliforme",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "combustivel",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "comercio",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "comissao-tripartite",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "comissionamento",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "comite-bacia",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "compactacao-solo",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "compartimentalizacao",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "compensacao-financeira",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "compensacao-reserva-legal",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "competencia",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "complementacao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "complementacao-taxa",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "compostagem",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "comunidade-tradicional",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "conama",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "concordancia-tacita",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "condicao-especial",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "condicao-referencia",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "condicionante",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "condominio",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "condutividade-eletrica",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "conflito-uso",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "conselho-classe",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "conselho-estadual-recursos-hidricos",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "conselho-meio-ambiente",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "conselho-nacional-dos-recursos-hidricos",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "conservacao-solo",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "consorcio-intermunicipal",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "consorcio-publico",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "construcao-civil",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "consulta-previa",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "consulta-publica",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "consumo-sustentavel",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "contabilizando-residuos",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "contaminacao-superficial",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "conteiner",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "contencao",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "conteudo-minimo",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "contratacao-terceiro",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "controle-ambiental",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "controle-origem-florestal",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "convenio",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "conversor-amonia",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cooperacao-institucional",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "coprocessamento",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "corpo-bombeiros",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "corpo-hidrico",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "corredor-ecologico",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "corretivo-acidez",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cortina-vegetal",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cov",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cpf",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cra",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cral",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "credito-rural",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "crime-ambiental",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "ctf",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "cubagem",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "curtume",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dano-ambiental",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dbo",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dcp",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dea",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "debito-ambiental",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "decaimento",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "decisao-stf",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "declaracao-adesao-compromisso",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "declaracao-baixo-risco",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "declaracao-veracidade",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "declividade",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "deferimento",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "defesa-civil",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "definicao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "degradacao-ambiental",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dejeto-animal",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "delegacao-atribuicao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "demolicao",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "densidade-colorimetrica",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "deposito-rejeito-radioativo",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "desmembramento",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "despesca",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dessedentacao-animal",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "destinacao-final",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "diagnostico-ambiental",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dila",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "diluicao",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dimensionamento",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dioxina-furano",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "direcao-vento",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "direito-transicao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "diretoria-patrimonio-natural",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "diretriz-estudo",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dispensa",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dispensa-licitacao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "disponibilidade-hidrica",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "disposicao-final",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "disposicao-solo",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "distancia-minima",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "distribuidor-agua-reuso",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "distrito-federal",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dlae",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dlam",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "documentacao",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dof",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dominialidade",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dominio-uniao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "dqo",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "drenagem",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "drenagem-urbana",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "ecotoxicidade",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "edificacao-armazenamento",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "edificacao-rural",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "educacao-ambiental",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "efluente",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "eia-rima",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "eiv",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "eletroeletronico",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "embalagem",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "embargo",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "emissao-atmosferica",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "emissao-evaporativa",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "emissao-fugitiva",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "emissao-pontual",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "emissario-submarino",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "emolumento",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "empreendimento-imobiliario",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "empresa-potencialmente-poluidora",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "encerramento",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "encerramento-parcial",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "energia-solar",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "enquadramento",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "ensaio-percolacao",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "enxofre-reduzido",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "epi",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "episodio-critico",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "equipamento-gerador-radiacao",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "ert",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "erva-mate",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "esgotamento-sanitario",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "esgoto-sanitario",
+      "grupo": "tema/efluente",
+      "pai": "efluente",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "especie-ameacada",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "especie-exotica",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "estado",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "estudo-ambiental",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "estudo-dispersao",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "eutrofizacao",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "evento-hidrologico-critico",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "exportacao-residuo",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fabricante",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fauna",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fca",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fds",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fertilizante",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fiscalizacao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fispq",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "flora",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "floresta-plantada",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fonte-existente",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fonte-fixa",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fonte-movel",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fonte-nao-selada",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fonte-poluicao",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fonte-radioativa",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fonte-selada",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "formas-jovens",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "forno-crematorio",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fosforo",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "frequencia-monitoramento",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "frigorifico",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "funai",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fundicao",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fundo-estadual-meio-ambiente",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "fundo-estadual-recursos-hidricos",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "galeria-pluvial",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "galvanoplastia",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "garantia-financeira",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "gas-natural",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "gee",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "geologia",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "georreferenciamento",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "geotecnia",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "geracao-calor",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "geracao-energia",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "gerador",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "gerenciamento-residuo",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "glossario-produto-madeira",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "grande-gerador",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "grupo-a",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "grupo-b",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "grupo-c",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "grupo-d",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "grupo-e",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "guia-tecnico",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "helminto",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "hospital",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "iat",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "ibama",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "identificacao-rejeito",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "imovel",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "impacto-ambiental",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "impacto-local",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "impermeabilizacao",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "importacao-residuo",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "incendio-florestal",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "incentivo",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "incentivo-reuso",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "incineracao",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "incluido",
+      "grupo": "controle-editorial",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "inconstitucional",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "indeferimento",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-alimenticia",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-bebidas",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-borracha",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-couro",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-eletrica",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-farmaceutica",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-fumo",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-grafica",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-madeira",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-material-transporte",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-mecanica",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-metalurgica",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-moveleira",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-plastico",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-quimica",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industria-textil",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "industrias-diversas",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "inexigibilidade",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "infiltracao",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "informacao-falsa",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "infracao-ambiental",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "infracao-sanitaria",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "injecao",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "inspecao-seguranca",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "instalacao-nuclear",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "instalacao-radiativa",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "interesse-social",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "inventario-emissoes",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "inventario-residuos",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "iphan",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "iqar",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "irrigacao",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "isencao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "isolamento-acustico",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "itr",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "jazida",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "jucepar",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "karst",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "laboratorio",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "laboratorio-acreditado",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": "laboratorio",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lac",
+      "grupo": "instrumento/licenciamento",
+      "pai": "licenca-ambiental",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lagoa-tratamento",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "laminacao",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lampada",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lancamento",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lancamento-indireto",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "las",
+      "grupo": "instrumento/licenciamento",
+      "pai": "licenca-ambiental",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lasa",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lasr",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "laticinio",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "laudo-analitico",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "laudo-conclusao-obra",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "laudo-tecnico",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lavagem-veiculo",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "ldm",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lencol-freatico",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lenha",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "li",
+      "grupo": "instrumento/licenciamento",
+      "pai": "licenca-ambiental",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lia",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "licenca-ambiental",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "licenca-sanitaria",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "licenca-vencida",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "licenciamento-ambiental",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "licenciamento-bifasico",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "licenciamento-federal",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "licenciamento-monofasico",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "licenciamento-municipal",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "licenciamento-previo",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "licenciamento-radiativo",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "licenciamento-trifasico",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "limite-contaminante",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "limite-emissao",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lir",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lixao",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lixiviado",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lme",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lo",
+      "grupo": "instrumento/licenciamento",
+      "pai": "licenca-ambiental",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "loa",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lodo",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lodo-esgoto",
+      "grupo": "tema/residuo",
+      "pai": "lodo",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "logistica-reversa",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lor",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "loteamento",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lp",
+      "grupo": "instrumento/licenciamento",
+      "pai": "licenca-ambiental",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lpa",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lqa",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "lqp",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "maltearia",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "manancial",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "mandioca",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "manejo-florestal",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "manifestacao-juridica",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "manual-tecnico",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "manutencao-reparacao",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "mapa-situacao",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "maricultura",
+      "grupo": "atividade",
+      "pai": "aquicultura",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "massa-referencia",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "mata-atlantica",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "materiais-sedimentaveis",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "material-particulado",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "material-radioativo-natural",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "mce",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "medicamento",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "medicina-nuclear",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "medida-cautelar",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "medida-compensatoria",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "medida-mitigadora",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "meio-ambiente",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "memorial-caracterizacao",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "mercurio",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "meta",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "metal-pesado",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "metodo-analise",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "microempresa",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "microrregiao",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "mineracao",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "minerais-nao-metalicos",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "ministerio-publico",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "modalidade",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "modulo-fiscal",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "monitoramento",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "monitoramento-continuo",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": "monitoramento",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "monitoramento-preventivo",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "motor-estacionario",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "motosserra",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "movimentacao-solo",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "mtr",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "multa",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "municipio",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "nascente",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "nitrogenio",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "nivel-dispensa",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "nox",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "numero-funcionarios",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "obra-civil",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "obra-emergencial",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "od",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "odor",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "oleo-combustivel",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "oleo-comestivel",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "oleo-lubrificante",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "oleo-soja",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "oleos-graxas",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "olfatometria",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "orgao-ambiental-capacitado",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "outorga",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "outorga-direito",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "outorga-previa",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "oxigenio-referencia",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "padrao-condicionamento",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "padrao-emissao",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "padrao-intermediario",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "padrao-lancamento",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "padrao-qualidade",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pae",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pagamento-servico-ambiental",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "papel-celulose",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "parcelamento-solo",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "parecer-tecnico",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "parque-urbano",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pase",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "passivo-ambiental",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pastagem",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "patio-caminhao",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "patio-container",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "patogeno",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pavimentacao",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pba",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pbca",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pca",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pcb",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pcpa",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pendencia-judicial",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pequeno-gerador",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "perfurocortante",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "periculosidade-ambiental",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pesca",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pesquisa",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pesquisa-mineral",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "petroleo",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pev",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pfnm",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pgr",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pgrcc",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pgrs",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pgrss",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pilha-bateria",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pintura",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "plano-diretor",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "plano-emergencia",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "plano-estadual-residuos",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "plano-gerencia-rejeito-radioativo",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "plano-gerenciamento-residuo-perigoso",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "plano-manejo",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "plano-nacional-residuos",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "plano-recuperacao",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "plano-recursos-hidricos",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "plano-regional",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "plano-saneamento",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "plano-suprimento-sustentavel",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "plataforma-petroleo",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pma",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pmgirs",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pneu",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pnma",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pnrs",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "poco",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "poder-publico",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "poluente-atmosferico",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "poluente-organico-persistente",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "poluicao",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "poluicao-sonora",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pop",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "portaria",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "porte",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "porte-excepcional",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "porto",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "posto-combustivel",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "potabilidade",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "potencial-poluidor",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pousio",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pra",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "prazo",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "prioridade",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "processo-administrativo",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "processo-termico",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "procuracao",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "producao-florestal",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "producao-mais-limpa",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "produto-perigoso",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "produtor-agua-reuso",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "proibicao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "projeto-agronomico",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "projeto-executivo",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "projeto-instalacao",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "pronar",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "prorrogacao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "prorrogacao-automatica",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "prorrogacao-prazo",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "protecao-radiologica",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "ptsi",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "publicacao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "publicacao-dioe",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "qualidade-ar",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "queima-ceu-aberto",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "questionario",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "quilombola",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "radiografia-industrial",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "radioisotopo",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "radiologia",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "radioterapia",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "raio-protecao",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "ranicultura",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "rap",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "ras",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "rca",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "rce",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "rdpa",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "recarga-artificial",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "reciclagem",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "recuperacao-ambiental",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "recuperacao-energetica",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "recurso-administrativo",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "recurso-hidrico",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "redacao-alterada",
+      "grupo": "controle-editorial",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "rede-distribuicao-reuso",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "rede-eletrica",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "rede-esgoto",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "refinaria",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "regiao-metropolitana",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "registro-operacional",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "regulamentacao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "regularizacao",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "regularizacao-fundiaria",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "reincidencia",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "rejeito",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "rejeito-radioativo",
+      "grupo": "tema/radiacao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "relatorio",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "relatorio-atendimento-condicionante",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "relatorio-caracterizacao-flora",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "relatorio-encerramento",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "remediacao",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "renovacao",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "renovacao-extemporanea",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "reposicao-florestal",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "requerimento",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "reserva-legal",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "reservatorio",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "residuo-agrossilvopastoril",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "residuo-construcao-civil",
+      "grupo": "tema/residuo",
+      "pai": "residuo-solido",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "residuo-domiciliar",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "residuo-industrial",
+      "grupo": "tema/residuo",
+      "pai": "residuo-solido",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "residuo-liquido",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "residuo-mineracao",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "residuo-nao-perigoso",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "residuo-perigoso",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "residuo-servico-saude",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "residuo-solido",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "residuo-solido-urbano",
+      "grupo": "tema/residuo",
+      "pai": "residuo-solido",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "residuo-terceiro",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "residuo-transporte",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "responsabilidade",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "responsavel-legal",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "responsavel-tecnico",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "restricao-temporaria",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "reuniao-tecnica-informativa",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "reuso-ambiental",
+      "grupo": "tema/efluente",
+      "pai": "reuso-efluente",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "reuso-direto-potavel",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "reuso-efluente",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "reuso-industrial",
+      "grupo": "tema/efluente",
+      "pai": "reuso-efluente",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "reuso-urbano",
+      "grupo": "tema/efluente",
+      "pai": "reuso-efluente",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "reutilizacao",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "revisao-norma",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "revogacao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "revogado",
+      "grupo": "controle-editorial",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "risco-ambiental",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "rlac",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "rlas",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "rlo",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "sancao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "saneamento",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "saneante-desinfestante",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "saude-ocupacional",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "saude-publica",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "sedest",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "segregacao",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "segrh",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "seguranca-barragem",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "seguranca-hidrica",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "seguranca-instalacao",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "seguranca-trabalho",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "selo-reuso",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "sema",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "serflor",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "servico-limpeza-urbana",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "servico-saude",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "servico-utilidade",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "servidao-ambiental",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "siderurgia",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "sinaflor",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "singreh",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "sinima",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "sinir",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "sinisa",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "sisnama",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "sistema-gerenciamento-riscos",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "sistema-informacao-recursos-hidricos",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "sistema-isolamento",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "situacao-emergencia",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "snvs",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "solvente",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "sondagem",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "sox",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "spie",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "subsistencia",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "substancia-cancerigena",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "substancia-explosiva",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "substancia-inflamavel",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "substancia-inorganica",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "substancia-toxica",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "substrato-plantas",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "sucroalcooleira",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "suderhsa",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "suinocultura",
+      "grupo": "atividade",
+      "pai": "agropecuaria",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "supressao-vegetacao",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "suspensao-atividade",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "suspensao-licenca",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "suspensao-outorga",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "suspensao-processo",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "tac",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "tanque-armazenamento",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "tanque-rede",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "taxa-ambiental",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "taxa-aplicacao",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "taxa-residuo",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "tcfa",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "tecnologia-controle",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "termo-compromisso",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "termo-encerramento",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "termo-referencia",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "termo-responsabilidade-solidaria",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "terra-indigena",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "terraplanagem",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "teste-queima",
+      "grupo": "tema/ar",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "textura-solo",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "tinta",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "tipologia",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "tombamento",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "topo-morro",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "transbordo",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "transferencia-titularidade",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "transicao",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "transporte",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "transporte-externo",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "transporte-interno",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "tratamento-efluente",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "tratamento-esgoto",
+      "grupo": "tema/efluente",
+      "pai": "tratamento-efluente",
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "tratamento-residuo",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "tratamento-semente",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "tratamento-superficie",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "tratamento-termico-residuo",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "triagem",
+      "grupo": "tema/residuo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "tubulacao",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "turbidez",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "turbina",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "turbina-gas",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "turismo",
+      "grupo": "atividade",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "uniao",
+      "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "unidade-conservacao",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "usina-asfalto",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "uso-agricola-efluente",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "uso-alternativo-solo",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "uso-habitacional",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "uso-insignificante",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "uso-proprio",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "uso-recurso-natural",
+      "grupo": "tema/gestao-politica",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "uso-solo",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "usuario-agua-reuso",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "utilidade-publica",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "validade",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "vaso-pressao",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "vazao",
+      "grupo": "tema/agua",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "vegetacao-nativa",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "veiculo",
+      "grupo": "atividade/equipamento-insumo",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "vereda",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "vetor",
+      "grupo": "tema/seguranca-saude",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "via-urbana",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "viabilidade-ambiental",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "viabilidade-locacional",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "vida-util",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "vidro",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "vigencia",
+      "grupo": "instrumento/procedimento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "vistoria",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "viveiro",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "vmp",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "voc",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "vrq",
+      "grupo": "tecnico/parametro-monitoramento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "xisto",
+      "grupo": "atividade/industrial-servicos",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "zona-amortecimento",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "zona-costeira",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "zona-mistura",
+      "grupo": "tema/efluente",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "zoneamento",
+      "grupo": "tema/flora-territorio",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    }
+  ]
+}

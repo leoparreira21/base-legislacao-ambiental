@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCPA
 atividades: [patio-caminhao, patio-container]
 modalidades: [li, lia]
-tags: [patio-caminhao, patio-container, pcpa, terraplanagem, diagnostico-ambiental, impacto-ambiental, medida-mitigadora, agua-pluvial, esgoto-sanitario, efluente, emissao-atmosferica, residuo-solido, impermeabilizacao, passivo-ambiental]
+tags: [agua-pluvial, art-anotacao, diagnostico-ambiental, efluente, emissao-atmosferica, esgoto-sanitario, impacto-ambiental, impermeabilizacao, medida-mitigadora, passivo-ambiental, patio-caminhao, patio-container, pcpa, pgr, produto-perigoso, residuo-solido, terraplanagem, tratamento-efluente, tratamento-esgoto]
 fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinado em 15/12/2025), páginas 63 a 72
 ---
 
@@ -19,7 +19,7 @@ fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinad
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo VI, linha 1** {#anexo6_lin1} O projeto de controle de poluição ambiental de Pátio/Estacionamentode Caminhões e/ou Pátio de Containers, deverá ser elaborado por técnico habilitadoe apresentados para análise do INSTITUTO ÁGUA E TERRA, acompanhado darespectiva Anotação de Responsabilidade Técnica – ART, emitida pelo conselho declasse competente, conforme as diretrizes listadas a seguir.
+- **Anexo VI, linha 1** {#anexo6_lin1} #pcpa #art-anotacao O projeto de controle de poluição ambiental de Pátio/Estacionamentode Caminhões e/ou Pátio de Containers, deverá ser elaborado por técnico habilitadoe apresentados para análise do INSTITUTO ÁGUA E TERRA, acompanhado darespectiva Anotação de Responsabilidade Técnica – ART, emitida pelo conselho declasse competente, conforme as diretrizes listadas a seguir.
 - **Anexo VI, linha 2** {#anexo6_lin2} 1. CARACTERIZAÇÃO DO EMPREENDIMENTO
 - **Anexo VI, linha 3** {#anexo6_lin3} 1.1. INFORMAÇÕES CADASTRAIS
 - **Anexo VI, linha 4** {#anexo6_lin4} a) razão social;
@@ -40,7 +40,7 @@ fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinad
 - **Anexo VI, linha 19** {#anexo6_lin19} b) pátio de estacionamento de máquinas e veículos;
 - **Anexo VI, linha 20** {#anexo6_lin20} c) vias de acesso existentes e áreas potenciais que possam exigir abertura de novos acessos.
 - **Anexo VI, linha 21** {#anexo6_lin21} 1.3.2. Quantificação da mão de obra a ser empregada na implantação e origem esperada dos trabalhadores.
-- **Anexo VI, linha 22** {#anexo6_lin22} 1.3.3. Obras de terraplanagem contendo:
+- **Anexo VI, linha 22** {#anexo6_lin22} #terraplanagem 1.3.3. Obras de terraplanagem contendo:
 - **Anexo VI, linha 23** {#anexo6_lin23} a) memorial justificativo da terraplanagem;
 - **Anexo VI, linha 24** {#anexo6_lin24} b) estimativa de volumes envolvidos na terraplanagem (volumes de corte e aterro), com indicação de potenciais áreas de empréstimo e disposição de material;
 - **Anexo VI, linha 25** {#anexo6_lin25} c) planta da implantação da terraplanagem.
@@ -59,7 +59,7 @@ fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinad
 - **Anexo VI, linha 38** {#anexo6_lin38} h) espécies de animais predominantes, quando aplicável;
 - **Anexo VI, linha 39** {#anexo6_lin39} i) caracterização da geomorfologia/relevo/permeabilidade do solo; e
 - **Anexo VI, linha 40** {#anexo6_lin40} j) indicação da existência de Unidades de Conservação Municipais, Estaduais e Federais na área do empreendimento ou de seu entorno.
-- **Anexo VI, linha 41** {#anexo6_lin41} 2.2. IMPACTOS AMBIENTAIS E MEDIDAS MITIGADORAS, DE CONTROLE OU DE COMPENSAÇÃO
+- **Anexo VI, linha 41** {#anexo6_lin41} #impacto-ambiental #medida-mitigadora 2.2. IMPACTOS AMBIENTAIS E MEDIDAS MITIGADORAS, DE CONTROLE OU DE COMPENSAÇÃO
 - **Anexo VI, linha 42** {#anexo6_lin42} Identificar os principais impactos que poderão ocorrer em função da implantação doempreendimento, contemplando no mínimo os impactos abaixo relacionados.
 - **Anexo VI, linha 43** {#anexo6_lin43} Apresentar Planos e Programas Ambientais contendo medidas preventivas,mitigadoras e/ou compensatórias, associadas a cada impacto negativo identificado eanalisado, relacionando-as com a regulamentação a ser atendida.
 - **Anexo VI, linha 44** {#anexo6_lin44} a) canalização de nascentes;
@@ -82,7 +82,7 @@ fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinad
 - **Anexo VI, linha 61** {#anexo6_lin61} Descrever sucintamente todos os processos de tratamento e de condicionamento daságuas empregadas, indicando os produtos químicos utilizados e os efluenteseventualmente gerados.
 - **Anexo VI, linha 62** {#anexo6_lin62} 3.2. ÁGUAS PLUVIAIS
 - **Anexo VI, linha 63** {#anexo6_lin63} Quando existirem áreas descobertas de processamento ou de estocagem de matériasprimas, produtos químicos e materiais auxiliares, deve-se prever sistema deprevenção para que não ocorra a contaminação das águas pluviais ou sistema detratamento.
-- **Anexo VI, linha 64** {#anexo6_lin64} 3.2.1. Descrição do Sistema de Captação, Condução e Disposição dasÁguas Pluviais.
+- **Anexo VI, linha 64** {#anexo6_lin64} #agua-pluvial 3.2.1. Descrição do Sistema de Captação, Condução e Disposição dasÁguas Pluviais.
 - **Anexo VI, linha 65** {#anexo6_lin65} Apresentar o sistema de drenagem pluvial, conforme for o caso, descrevendo os elementos constituintes, osdispositivos do sistema, inclusive os separadores de resíduos, os de dissipaçãodeenergia e os de contenção de cheia, bem como os materiais adotados e asespecificações de execução dos serviços.
 - **Anexo VI, linha 66** {#anexo6_lin66} 3.2.2. Dimensionamento
 - **Anexo VI, linha 67** {#anexo6_lin67} Apresentar memorial de cálculo esclarecendo os critérios adotados para o projeto e a planilha de cálculo de cada trecho, que traduzam o dimensionamento do cálculo hidráulico das galerias e seus dispositivos.
@@ -92,7 +92,7 @@ fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinad
 - **Anexo VI, linha 71** {#anexo6_lin71} 3.3.2. Disposição Final
 - **Anexo VI, linha 72** {#anexo6_lin72} Adotada para os Esgotos Sanitários (infiltração, lançamento em rede e/oulançamentoem corpos hídricos, etc).
 - **Anexo VI, linha 73** {#anexo6_lin73} 3.3.3. Dimensionamento do Sistema de Tratamento
-- **Anexo VI, linha 74** {#anexo6_lin74} Apresentar o dimensionamento completo e detalhado de todas as unidades detratamento de esgoto sanitário, especificando todos os parâmetros usados enecessários à sua compreensão.
+- **Anexo VI, linha 74** {#anexo6_lin74} #tratamento-esgoto Apresentar o dimensionamento completo e detalhado de todas as unidades detratamento de esgoto sanitário, especificando todos os parâmetros usados enecessários à sua compreensão.
 - **Anexo VI, linha 75** {#anexo6_lin75} O dimensionamento deve ser feito rigorosamente de acordo com as normasespecíficas da ABNT:
 - **Anexo VI, linha 76** {#anexo6_lin76} a) NBR 7.229 - referente ao projeto, construção e operação de sistemas de tanquessépticos;
 - **Anexo VI, linha 77** {#anexo6_lin77} b) NBR 13.969 - referente a projetos, operação e construção de tanques sépticos,unidades de tratamento complementar e disposição final dos efluentes líquidos;
@@ -113,7 +113,7 @@ fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinad
 - **Anexo VI, linha 92** {#anexo6_lin92} 3.4.5. Justificativa dos Sistemas de Tratamento
 - **Anexo VI, linha 93** {#anexo6_lin93} Justificar a escolha do tratamento proposto com base em tecnologia aplicada, característica dos efluentes, vazões e outros aspectos.
 - **Anexo VI, linha 94** {#anexo6_lin94} 3.4.6. Dimensionamento
-- **Anexo VI, linha 95** {#anexo6_lin95} Apresentar dimensionamento completo e detalhado de todas as unidades detratamento, especificando todos os parâmetros usados e necessários à sua perfeita compreensão.
+- **Anexo VI, linha 95** {#anexo6_lin95} #tratamento-efluente Apresentar dimensionamento completo e detalhado de todas as unidades detratamento, especificando todos os parâmetros usados e necessários à sua perfeita compreensão.
 - **Anexo VI, linha 96** {#anexo6_lin96} 3.4.7. Monitoramento
 - **Anexo VI, linha 97** {#anexo6_lin97} Devem ser indicados todos os controles a serem efetuados (físico-químicos,operacionais, etc.) e a frequência necessária, visando garantir o rendimento esperado.
 - **Anexo VI, linha 98** {#anexo6_lin98} Também devem ser relacionados os problemas que mais comumente possam ocorrere a respectiva solução.
@@ -125,10 +125,10 @@ fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinad
 - **Anexo VI, linha 104** {#anexo6_lin104} 3.5.2. Combustíveis
 - **Anexo VI, linha 105** {#anexo6_lin105} Especificar os combustíveis a serem utilizados (tipo e quantidade diária).
 - **Anexo VI, linha 106** {#anexo6_lin106} 3.5.3. Tratamento Adotado
-- **Anexo VI, linha 107** {#anexo6_lin107} Deverá ser apresentado o Plano de Controle de Poluição do Ar, especificando as medidas a serem tomadas para atender os padrões de emissão e de condicionamento e os padrões de qualidade do ar no entorno.
+- **Anexo VI, linha 107** {#anexo6_lin107} #emissao-atmosferica Deverá ser apresentado o Plano de Controle de Poluição do Ar, especificando as medidas a serem tomadas para atender os padrões de emissão e de condicionamento e os padrões de qualidade do ar no entorno.
 - **Anexo VI, linha 108** {#anexo6_lin108} 3.6. INFORMAÇÕES SOBRE RESÍDUOS SÓLIDOS
 - **Anexo VI, linha 109** {#anexo6_lin109} 3.6.1. Resíduos Gerados:
-- **Anexo VI, linha 110** {#anexo6_lin110} Apresentar relação completa dos resíduos sólidos, indicando sua origem, produção diária (peso e volume), característica (estado físico, composição química, peso específico), processamento (tipo de acondicionamento e de remoção) e destinação final.
+- **Anexo VI, linha 110** {#anexo6_lin110} #residuo-solido Apresentar relação completa dos resíduos sólidos, indicando sua origem, produção diária (peso e volume), característica (estado físico, composição química, peso específico), processamento (tipo de acondicionamento e de remoção) e destinação final.
 - **Anexo VI, linha 111** {#anexo6_lin111} 3.6.2. Disposição Final
 - **Anexo VI, linha 112** {#anexo6_lin112} Descrever o tipo de disposição final dos resíduos sólidos.
 - **Anexo VI, linha 113** {#anexo6_lin113} 3.6.3. Tratamento Adotado
@@ -136,14 +136,14 @@ fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinad
 - **Anexo VI, linha 115** {#anexo6_lin115} 3.6.4. Memorial de Cálculo
 - **Anexo VI, linha 116** {#anexo6_lin116} Apresentar o memorial de cálculo referente ao dimensionamento da solução adotada.
 - **Anexo VI, linha 117** {#anexo6_lin117} 3.7. INFORMAÇÕES SOBRE O SISTEMA DE IMPERMEABILIZAÇÃO:
-- **Anexo VI, linha 118** {#anexo6_lin118} Apresentar a descrição do sistema de impermeabilização adotado para o controle da infiltração das águas superficiais.
+- **Anexo VI, linha 118** {#anexo6_lin118} #impermeabilizacao Apresentar a descrição do sistema de impermeabilização adotado para o controle da infiltração das águas superficiais.
 - **Anexo VI, linha 119** {#anexo6_lin119} O grau de permeabilidade deverá atender ao disposto nesta Instrução Normativa, devendo ser comprovado através da determinação do Coeficiente de Permeabilidade do Solo (k) conforme dispõe as normas técnicas vigentes. Consideram-se os graus de permeabilidade de acordo com o Coeficiente de Permeabilidade abaixo:
 - **Anexo VI, linha 120** {#anexo6_lin120} - Permeabilidade baixa: 10⁻⁵m/s > k ≥ 10⁻⁷m/s
 - **Anexo VI, linha 121** {#anexo6_lin121} - Permeabilidade muito baixa: 10⁻⁷m/s > k ≥ 10⁻⁹m/s
 - **Anexo VI, linha 122** {#anexo6_lin122} - Praticamente impermeável: k > 10⁻⁹m/s
 - **Anexo VI, linha 123** {#anexo6_lin123} 3.8. OUTRAS INFORMAÇÕES:
-- **Anexo VI, linha 124** {#anexo6_lin124} a) em caso de armazenamento de produtos perigosos, tais como produtos tóxicos e inflamáveis, informar se existe Programa de Gerenciamento de Riscos Ambientais, conforme legislação vigente;
-- **Anexo VI, linha 125** {#anexo6_lin125} b) informar se existe passivo ambiental na área do empreendimento e medidas que serão adotadas para a sua eliminação e/ou controle.
+- **Anexo VI, linha 124** {#anexo6_lin124} #pgr #produto-perigoso a) em caso de armazenamento de produtos perigosos, tais como produtos tóxicos e inflamáveis, informar se existe Programa de Gerenciamento de Riscos Ambientais, conforme legislação vigente;
+- **Anexo VI, linha 125** {#anexo6_lin125} #passivo-ambiental b) informar se existe passivo ambiental na área do empreendimento e medidas que serão adotadas para a sua eliminação e/ou controle.
 - **Anexo VI, linha 126** {#anexo6_lin126} 4. CRONOGRAMA DE IMPLANTAÇÃO DO SISTEMA DE TRATAMENTO
 - **Anexo VI, linha 127** {#anexo6_lin127} 4.1 ESTIMATIVA DE CUSTOS
 - **Anexo VI, linha 128** {#anexo6_lin128} Apresentar estimativa real e detalhada do custo de implantação das unidades projetadas.

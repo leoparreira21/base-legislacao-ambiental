@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: PCPA e Projeto de Terraplanagem
 atividades: [industria]
 modalidades: [li, lia, lir]
-tags: [industria, pcpa, terraplanagem, efluente, emissao-atmosferica, residuo-solido, uso-agricola-efluente, classe-risco-solo, declividade, textura-solo]
+tags: [amostragem, analise-solo, app, art-anotacao, automonitoramento, caracterizacao-agronomica, classe-risco-solo, contencao, declividade, destinacao-final, disposicao-solo, drenagem, esgoto-sanitario, frequencia-monitoramento, lancamento, licenca-ambiental, padrao-emissao, passivo-ambiental, patogeno, pcpa, pgr, qualidade-ar, residuo-industrial, substancia-inorganica, supressao-vegetacao, taxa-aplicacao, terraplanagem, textura-solo, tratamento-efluente, tratamento-esgoto, uso-agricola-efluente, vazao]
 fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do PDF, com anexos)
 ---
 
@@ -19,8 +19,8 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo IX, linha 1** {#anexo9_lin1} A. PROJETO DE CONTROLE DE POLUIÇÃO AMBIENTAL
-- **Anexo IX, linha 2** {#anexo9_lin2} O Projeto de Controle de Poluição Ambiental deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo IX, linha 1** {#anexo9_lin1} #pcpa A. PROJETO DE CONTROLE DE POLUIÇÃO AMBIENTAL
+- **Anexo IX, linha 2** {#anexo9_lin2} #art-anotacao O Projeto de Controle de Poluição Ambiental deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 - **Anexo IX, linha 3** {#anexo9_lin3} I. MEMORIAL DESCRITIVO
 - **Anexo IX, linha 4** {#anexo9_lin4} 1. INFORMAÇÕES GERAIS
 - **Anexo IX, linha 5** {#anexo9_lin5} 1.1 INFORMAÇÕES CADASTRAIS
@@ -57,7 +57,7 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IX, linha 36** {#anexo9_lin36} j. Características do entorno (uso do solo, residências, áreas de interesse ambiental, etc.).
 - **Anexo IX, linha 37** {#anexo9_lin37} 1.5 CROQUI DE LOCALIZAÇÃO DO EMPREENDIMENTO COM IMAGEM AÉREA E CONTENDO NO MÍNIMO:
 - **Anexo IX, linha 38** {#anexo9_lin38} a. Distância dos recursos hídricos (nascentes, olhos d’água, cursos d’água, etc.);
-- **Anexo IX, linha 39** {#anexo9_lin39} b. Áreas de preservação permanente;
+- **Anexo IX, linha 39** {#anexo9_lin39} #app b. Áreas de preservação permanente;
 - **Anexo IX, linha 40** {#anexo9_lin40} c. Unidades de Conservação Federais, Estaduais e Municipais;
 - **Anexo IX, linha 41** {#anexo9_lin41} d. Cobertura florestal;
 - **Anexo IX, linha 42** {#anexo9_lin42} e. Vias de acesso principais e pontos de referências.
@@ -83,7 +83,7 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IX, linha 62** {#anexo9_lin62} a. Quando existirem áreas descobertas de processamento ou de estocagem de matérias primas, produtos químicos e materiais auxiliares, prever sistema de prevenção para a não contaminação das águas pluviais ou sistema de tratamento, caso necessário.
 - **Anexo IX, linha 63** {#anexo9_lin63} 4. INFORMAÇÕES SOBRE ESGOTOS SANITÁRIOS
 - **Anexo IX, linha 64** {#anexo9_lin64} 4.1 DESCRIÇÃO DO SISTEMA DE COLETA, TRATAMENTO, VAZÃO GERADA E DISPOSIÇÃO FINAL ADOTADA
-- **Anexo IX, linha 65** {#anexo9_lin65} a. Quando for previsto qualquer sistema de tratamento aplica-se o disposto no item II - 1, além de ser necessário informar a disposição final adotada para os esgotos sanitários.
+- **Anexo IX, linha 65** {#anexo9_lin65} #esgoto-sanitario a. Quando for previsto qualquer sistema de tratamento aplica-se o disposto no item II - 1, além de ser necessário informar a disposição final adotada para os esgotos sanitários.
 - **Anexo IX, linha 66** {#anexo9_lin66} 5. INFORMAÇÕES SOBRE OS EFLUENTES LÍQUIDOS INDUSTRIAIS
 - **Anexo IX, linha 67** {#anexo9_lin67} 5.1 BALANÇO HÍDRICO
 - **Anexo IX, linha 68** {#anexo9_lin68} a. Apresentar, através de diagrama de blocos, um balanço completo da água utilizada na indústria e efluentes gerados, inclusive das áreas de utilidades (purgas de caldeiras, purgas de sistemas de resfriamento, descargas de sistemas de tratamento de águas), indicando as vazões aduzidas das diversas fontes, as vazões utilizadas nas diversas operações, processos e usos, as perdas (parcelas evaporadas, incorporadas ao produto, etc.), as vazões dos efluentes gerados nas diversas operações e processos, indicando todos os circuitos fechados que porventura existam.
@@ -100,7 +100,7 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IX, linha 79** {#anexo9_lin79} 5.4 INFORMAÇÕES SOBRE A DISPOSIÇÃO FINAL DOS EFLUENTES LÍQUIDOS
 - **Anexo IX, linha 80** {#anexo9_lin80} #uso-agricola-efluente a. Informar a disposição final adotada para efluentes líquidos industriais: uso agrícola, lançamento em rede e/ou lançamento em corpos hídricos;
 - **Anexo IX, linha 81** {#anexo9_lin81} b. No caso de lançamento em corpos hídricos, indicar nome, classe (segundo legislação em vigor) e bacia hidrográfica. Mesmo no caso de uso agrícola informar corpos hídricos próximos e bacia hidrográfica.
-- **Anexo IX, linha 82** {#anexo9_lin82} c. No caso do efluente ser lançado em regime descontínuo ou em batelada, deverá ser prevista a implantação de pelo menos um tanque pulmão, para posterior lançamento no corpo hídrico, em regime de vazão constante, a qual deverá atender os critérios estabelecidos no artigo 34, da Resolução CONAMA nº 357/2005, bem como atenda a capacidade de diluição do corpo hídrico.
+- **Anexo IX, linha 82** {#anexo9_lin82} #lancamento c. No caso do efluente ser lançado em regime descontínuo ou em batelada, deverá ser prevista a implantação de pelo menos um tanque pulmão, para posterior lançamento no corpo hídrico, em regime de vazão constante, a qual deverá atender os critérios estabelecidos no artigo 34, da Resolução CONAMA nº 357/2005, bem como atenda a capacidade de diluição do corpo hídrico.
 - **Anexo IX, linha 83** {#anexo9_lin83} 6. INFORMAÇÕES SOBRE EMISSÕES GASOSAS
 - **Anexo IX, linha 84** {#anexo9_lin84} 6.1 FONTES DE POLUIÇÃO DO AR
 - **Anexo IX, linha 85** {#anexo9_lin85} a. Especificar detalhadamente todos os processos geradores de poluição do ar, tais como caldeiras, fornos, moinhos, secadores, etc., que emitam gases, vapores e/ou material particulado para a atmosfera, seja através de dutos, chaminés ou emissões fugitivas.
@@ -113,39 +113,39 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IX, linha 92** {#anexo9_lin92} 6.5 COMBUSTÍVEIS
 - **Anexo IX, linha 93** {#anexo9_lin93} a. Especificar os combustíveis a serem utilizados (tipo e quantidade diária, mensal e anual) por cada processo acima identificado.
 - **Anexo IX, linha 94** {#anexo9_lin94} 6.6 ENQUADRAMENTO
-- **Anexo IX, linha 95** {#anexo9_lin95} a. Especificar o enquadramento de cada processo e fonte de emissão atmosférica, em conformidade com o disposto na Resolução SEDEST 02/2025, ou outra que venha substituí-la. O enquadramento deverá contemplar a origem da emissão, padrões a serem monitorados, limites de emissões e frequência de automonitoramento e sistemas de controle a serem implementados.
+- **Anexo IX, linha 95** {#anexo9_lin95} #padrao-emissao #automonitoramento a. Especificar o enquadramento de cada processo e fonte de emissão atmosférica, em conformidade com o disposto na Resolução SEDEST 02/2025, ou outra que venha substituí-la. O enquadramento deverá contemplar a origem da emissão, padrões a serem monitorados, limites de emissões e frequência de automonitoramento e sistemas de controle a serem implementados.
 - **Anexo IX, linha 96** {#anexo9_lin96} 7. INFORMAÇÕES SOBRE RESÍDUOS SÓLIDOS INDUSTRIAIS
 - **Anexo IX, linha 97** {#anexo9_lin97} 7.1 RESÍDUOS GERADOS
-- **Anexo IX, linha 98** {#anexo9_lin98} a. Apresentar relação completa dos resíduos sólidos industriais, indicando no mínimo: (i) código IBAMA, (ii) Resíduos Específico, (iii) Origem do resíduo, (iv) Quantificação diária estimada, (v) Tratamento e destinação final.
+- **Anexo IX, linha 98** {#anexo9_lin98} #residuo-industrial a. Apresentar relação completa dos resíduos sólidos industriais, indicando no mínimo: (i) código IBAMA, (ii) Resíduos Específico, (iii) Origem do resíduo, (iv) Quantificação diária estimada, (v) Tratamento e destinação final.
 - **Anexo IX, linha 99** {#anexo9_lin99} 8. OUTRAS INFORMAÇÕES
-- **Anexo IX, linha 100** {#anexo9_lin100} a. Em caso de armazenamento de produtos perigosos, tais como produtos tóxicos, inflamáveis, informar se existe Programa de Gerenciamento de Riscos Ambientais.
-- **Anexo IX, linha 101** {#anexo9_lin101} b. Informar se existe passivo ambiental na área do empreendimento e medidas que estão sendo adotadas para sua eliminação e/ou controle.
+- **Anexo IX, linha 100** {#anexo9_lin100} #pgr a. Em caso de armazenamento de produtos perigosos, tais como produtos tóxicos, inflamáveis, informar se existe Programa de Gerenciamento de Riscos Ambientais.
+- **Anexo IX, linha 101** {#anexo9_lin101} #passivo-ambiental b. Informar se existe passivo ambiental na área do empreendimento e medidas que estão sendo adotadas para sua eliminação e/ou controle.
 - **Anexo IX, linha 102** {#anexo9_lin102} II. MEMORIAL TÉCNICO
 - **Anexo IX, linha 103** {#anexo9_lin103} 1. ESGOTO SANITÁRIO
 - **Anexo IX, linha 104** {#anexo9_lin104} 1.1 DIMENSIONAMENTO DO SISTEMA DE TRATAMENTO
-- **Anexo IX, linha 105** {#anexo9_lin105} a. Apresentar o dimensionamento completo e detalhado de todas as unidades de tratamento de esgoto sanitário, especificando todos os parâmetros usados e necessários à sua compreensão. O dimensionamento deve ser feito rigorosamente de acordo com as normas específicas da ABNT:
+- **Anexo IX, linha 105** {#anexo9_lin105} #tratamento-esgoto a. Apresentar o dimensionamento completo e detalhado de todas as unidades de tratamento de esgoto sanitário, especificando todos os parâmetros usados e necessários à sua compreensão. O dimensionamento deve ser feito rigorosamente de acordo com as normas específicas da ABNT:
 - **Anexo IX, linha 106** {#anexo9_lin106} i. NBR 7229 – Projeto, construção e operação de sistemas de tanques sépticos.
 - **Anexo IX, linha 107** {#anexo9_lin107} ii. NBR 13969 – Tanques sépticos. Unidades de tratamento complementar e disposição final dos efluentes líquidos – Projeto, operação e construção.
 - **Anexo IX, linha 108** {#anexo9_lin108} iii. NBR 12209 – Projeto de estações de tratamento de esgoto sanitário.
 - **Anexo IX, linha 109** {#anexo9_lin109} 2. EFLUENTES LÍQUIDOS INDUSTRIAIS
 - **Anexo IX, linha 110** {#anexo9_lin110} 2.1 DESCRIÇÃO DOS SISTEMAS DE TRATAMENTO
-- **Anexo IX, linha 111** {#anexo9_lin111} a. Os sistemas de tratamento propostos devem ser suficientemente descritos, com anexação de fluxogramas detalhados, onde constem todos os processos e operações empregadas.
+- **Anexo IX, linha 111** {#anexo9_lin111} #tratamento-efluente a. Os sistemas de tratamento propostos devem ser suficientemente descritos, com anexação de fluxogramas detalhados, onde constem todos os processos e operações empregadas.
 - **Anexo IX, linha 112** {#anexo9_lin112} 2.2 JUSTIFICATIVA DOS SISTEMAS DE TRATAMENTO
 - **Anexo IX, linha 113** {#anexo9_lin113} a. Justificar a escolha do tratamento proposto com base em tecnologia aplicada, característica dos efluentes, vazões e outros aspectos.
 - **Anexo IX, linha 114** {#anexo9_lin114} 2.3 DIMENSIONAMENTO
 - **Anexo IX, linha 115** {#anexo9_lin115} a. Apresentar dimensionamento completo e detalhado de todas as unidades de tratamento, especificando todos os parâmetros usados e necessários à sua perfeita compreensão;
-- **Anexo IX, linha 116** {#anexo9_lin116} b. Os canais ou tubulações de entrada ao sistema de tratamento, de recirculações e de lançamento final devem ser providos de sistemas de medição de vazão;
+- **Anexo IX, linha 116** {#anexo9_lin116} #vazao b. Os canais ou tubulações de entrada ao sistema de tratamento, de recirculações e de lançamento final devem ser providos de sistemas de medição de vazão;
 - **Anexo IX, linha 117** {#anexo9_lin117} c. No caso da existência de tanque de regularização de vazão ou (e) homogeneização (tanques de equalização), o dimensionamento deverá ser feito com base no período diário de funcionamento da indústria ou detalhadamente justificado em função do processo industrial;
 - **Anexo IX, linha 118** {#anexo9_lin118} #uso-agricola-efluente d. No caso específico de uso agrícola de efluentes líquidos industriais no solo, aplica-se o disposto no item 5;
 - **Anexo IX, linha 119** {#anexo9_lin119} e. No caso do projeto prever a implantação de lagoas de estabilização, deverá ser apresentado relatório de caracterização do solo.
 - **Anexo IX, linha 120** {#anexo9_lin120} 2.4 MONITORAMENTO
-- **Anexo IX, linha 121** {#anexo9_lin121} a. Devem ser indicados todos os controles a serem efetuados e a frequência necessária, visando garantir o rendimento esperado;
+- **Anexo IX, linha 121** {#anexo9_lin121} #frequencia-monitoramento a. Devem ser indicados todos os controles a serem efetuados e a frequência necessária, visando garantir o rendimento esperado;
 - **Anexo IX, linha 122** {#anexo9_lin122} b. Devem ser relacionados os problemas que mais comumente possam ocorrer e a respectiva solução;
 - **Anexo IX, linha 123** {#anexo9_lin123} c. Especificar se as análises laboratoriais serão realizadas na própria empresa ou por terceiros.
 - **Anexo IX, linha 124** {#anexo9_lin124} 2.5 CARACTERÍSTICAS DOS EFLUENTES FINAIS
 - **Anexo IX, linha 125** {#anexo9_lin125} a. Apresentar as características prováveis para os efluentes finais, cujos parâmetros devem ser os mesmos indicados para a caracterização qualitativa dos efluentes brutos.
 - **Anexo IX, linha 126** {#anexo9_lin126} 3. EMISSÕES ATMOSFÉRICAS
-- **Anexo IX, linha 127** {#anexo9_lin127} Deverão ser especificadas as medidas a serem tomadas para atender os padrões de emissão e de condicionamento e os padrões de qualidade do ar no entorno, ambos estabelecidos na Resolução SEDEST 02/2025, ou outra que venha substituí-la, contemplando, no mínimo, os itens abaixo.
+- **Anexo IX, linha 127** {#anexo9_lin127} #padrao-emissao #qualidade-ar Deverão ser especificadas as medidas a serem tomadas para atender os padrões de emissão e de condicionamento e os padrões de qualidade do ar no entorno, ambos estabelecidos na Resolução SEDEST 02/2025, ou outra que venha substituí-la, contemplando, no mínimo, os itens abaixo.
 - **Anexo IX, linha 128** {#anexo9_lin128} 3.1 DESCRIÇÃO DO(S) SISTEMA(S) TRATAMENTO(S) ADOTADO(S)
 - **Anexo IX, linha 129** {#anexo9_lin129} a. Os sistemas de tratamento propostos devem ser suficientemente descritos, com anexação de fluxogramas detalhados, onde constem todos os processos e operações empregadas.
 - **Anexo IX, linha 130** {#anexo9_lin130} 3.2 DIMENSIONAMENTO DO(S) SISTEMA(S)
@@ -161,12 +161,12 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IX, linha 140** {#anexo9_lin140} 4.2 MEMORIAL DE CÁLCULO
 - **Anexo IX, linha 141** {#anexo9_lin141} a. Apresentar o memorial de cálculo referente ao dimensionamento da solução adotada.
 - **Anexo IX, linha 142** {#anexo9_lin142} i. Caso a opção for queima dos resíduos, reportar-se ao item 3;
-- **Anexo IX, linha 143** {#anexo9_lin143} ii. No caso específico de disposição de resíduos sólidos no solo, aplicase o disposto no item 5.
+- **Anexo IX, linha 143** {#anexo9_lin143} #disposicao-solo ii. No caso específico de disposição de resíduos sólidos no solo, aplicase o disposto no item 5.
 - **Anexo IX, linha 144** {#anexo9_lin144} #uso-agricola-efluente 5. USO AGRÍCOLA DE EFLUENTES LÍQUIDOS E RESÍDUOS SÓLIDOS NO SOLO
 - **Anexo IX, linha 145** {#anexo9_lin145} #uso-agricola-efluente Considera-se disposição de efluentes líquidos e resíduos sólidos no solo para uso agrícola quando o despejo for aplicado no solo para fins agrícolas e florestais, como condicionador de solo, fertilizante ou corretivo, de modo a proporcionar efeitos benéficos para o solo e para as espécies nele cultivadas.
 - **Anexo IX, linha 146** {#anexo9_lin146} Os padrões do efluente deverá atender ao disposto em normativas específicas do IAT.
 - **Anexo IX, linha 147** {#anexo9_lin147} Os projetos que contemplem esse procedimento deverão conter, no mínimo, o seguinte:
-- **Anexo IX, linha 148** {#anexo9_lin148} a. Caracterização agronômica do efluente:
+- **Anexo IX, linha 148** {#anexo9_lin148} #caracterizacao-agronomica a. Caracterização agronômica do efluente:
 - **Anexo IX, linha 149** {#anexo9_lin149} i. Proposta de monitoramento do efluente, estabelecendo periodicidade mínima anual, contemplando os seguintes parâmetros:
 - **Anexo IX, linha 150** {#anexo9_lin150} • pH em água;
 - **Anexo IX, linha 151** {#anexo9_lin151} • Umidade % p/p;
@@ -186,7 +186,7 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IX, linha 165** {#anexo9_lin165} • Porcentagem de Sólidos % p/p;
 - **Anexo IX, linha 166** {#anexo9_lin166} • Sólidos Totais % p/p;
 - **Anexo IX, linha 167** {#anexo9_lin167} • Sólidos Voláteis % p/p.
-- **Anexo IX, linha 168** {#anexo9_lin168} ii. A determinação das substâncias inorgânicas do poderá ser dispensada desde que seja devidamente comprovada a ausência das mesmas pela origem dos resíduos tratados. Para a caracterização química do efluente, deverão ser determinadas as substâncias abaixo:
+- **Anexo IX, linha 168** {#anexo9_lin168} #substancia-inorganica ii. A determinação das substâncias inorgânicas do poderá ser dispensada desde que seja devidamente comprovada a ausência das mesmas pela origem dos resíduos tratados. Para a caracterização química do efluente, deverão ser determinadas as substâncias abaixo:
 - **Anexo IX, linha 169** {#anexo9_lin169} • Arsênio mg/kg;
 - **Anexo IX, linha 170** {#anexo9_lin170} • Cádmio mg/kg;
 - **Anexo IX, linha 171** {#anexo9_lin171} • Chumbo mg/kg;
@@ -201,7 +201,7 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IX, linha 180** {#anexo9_lin180} • Manganês mg/kg;
 - **Anexo IX, linha 181** {#anexo9_lin181} • Molibdênio mg/kg;
 - **Anexo IX, linha 182** {#anexo9_lin182} • Bário mg/kg.
-- **Anexo IX, linha 183** {#anexo9_lin183} iii. Para a caracterização do efluente quanto à presença de agentes patogênicos e indicadores bacteriológicos, deverão ser determinadas, e as concentrações de:
+- **Anexo IX, linha 183** {#anexo9_lin183} #patogeno iii. Para a caracterização do efluente quanto à presença de agentes patogênicos e indicadores bacteriológicos, deverão ser determinadas, e as concentrações de:
 - **Anexo IX, linha 184** {#anexo9_lin184} • Coliformes Termotolerantes NMP/g ST;
 - **Anexo IX, linha 185** {#anexo9_lin185} • Ovos Viáveis de Helmintos ovos/g de ST;
 - **Anexo IX, linha 186** {#anexo9_lin186} • Salmonella spp.
@@ -221,8 +221,8 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IX, linha 193** {#anexo9_lin193} o CLASSE I - Terras sem risco ambiental aparente – são terras sem limitações, ou seja, todos os fatores com grau de risco nulo, portanto, são terras que se manejadas adequadamente não correm risco de degradação ambiental com a disposição final do efluente no solo. Não apresentam desvios em relação ao solo ideal;
 - **Anexo IX, linha 194** {#anexo9_lin194} o CLASSE II - Terras de baixo risco ambiental - são terras com um ou mais fatores com grau de risco ligeiro, portanto, práticas simples de manejo do solo deverão ser utilizadas para reduzir o risco de degradação ambiental com a disposição final de efluente no solo. Apresentam desvios ligeiros em relação ao solo ideal;
 - **Anexo IX, linha 195** {#anexo9_lin195} o CLASSE III - Terras de médio risco ambiental - são terras com um ou mais fatores com grau de risco moderado, portanto, práticas complexas de manejo do solo deverão ser utilizadas para reduzir o risco de degradação ambiental com a disposição final de efluente no solo. Apresentam desvios moderados em relação ao solo ideal;
-- **Anexo IX, linha 196** {#anexo9_lin196} o CLASSE IV - Terras de alto risco ambiental – são terras com um ou mais fatores com grau de risco forte. Disposição final de efluente do solo somente em culturas perenes;
-- **Anexo IX, linha 197** {#anexo9_lin197} o CLASSE V - Terras inaptas – são terras com um ou mais fatores com grau de risco muito forte. Inaptas para disposição final de efluente no solo.
+- **Anexo IX, linha 196** {#anexo9_lin196} #classe-risco-solo o CLASSE IV - Terras de alto risco ambiental – são terras com um ou mais fatores com grau de risco forte. Disposição final de efluente do solo somente em culturas perenes;
+- **Anexo IX, linha 197** {#anexo9_lin197} #classe-risco-solo o CLASSE V - Terras inaptas – são terras com um ou mais fatores com grau de risco muito forte. Inaptas para disposição final de efluente no solo.
 - **Anexo IX, linha 198** {#anexo9_lin198} Figura 2 – Parâmetros de classificação de grau de risco de área de aplicação de efluente (imagem transcrita na Tabela 2 abaixo)
 - **Anexo IX, Tabela 2, cabeçalho** {#anexo9_tab2_cab} FATORES | GRAU DE RISCO | PARÂMETROS PARA CLASSIFICAÇÃO | CLASSE DE RISCO: I | II | III | IV | V (Figura 2, transcrita da imagem enviada pelo usuário)
 - **Anexo IX, Tabela 2, linha 1** {#anexo9_tab2_lin1} #classe-risco-solo #declividade FATORES: DECLIVE | GRAU DE RISCO: 0-NULO | PARÂMETROS PARA CLASSIFICAÇÃO: Plano (0 a 3%) | CLASSE DE RISCO — I: X | II: X | III: X | IV: X | V: X
@@ -259,15 +259,15 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IX, linha 201** {#anexo9_lin201} c. Caracterização do solo:
 - **Anexo IX, linha 202** {#anexo9_lin202} i. Tipo de solo: tipo de solo conforme o Sistema Brasileiro de Classificação de Solo da Embrapa (2018)4, podendo ser informado através das análises de solo realizadas in loco ou usando base de dados secundários;
 - **Anexo IX, linha 203** {#anexo9_lin203} ii. Composição granulométrica: teores de areia, silte e argila obtidos por meio de análise laboratorial com validade de, no máximo, 120 meses;
-- **Anexo IX, linha 204** {#anexo9_lin204} iii. Análise química do solo: deverá contemplar, minimamente, os valores de matéria orgânica (percentual de carbono), nitrogênio, fósforo, potássio, cálcio, magnésio, sódio, hidrogênio (H+), alumínio (Al+3), CTC efetiva e CTC total (T), pH, soma de bases (SB), saturação por bases (V%) e saturação por alumínio (m%);
+- **Anexo IX, linha 204** {#anexo9_lin204} #analise-solo iii. Análise química do solo: deverá contemplar, minimamente, os valores de matéria orgânica (percentual de carbono), nitrogênio, fósforo, potássio, cálcio, magnésio, sódio, hidrogênio (H+), alumínio (Al+3), CTC efetiva e CTC total (T), pH, soma de bases (SB), saturação por bases (V%) e saturação por alumínio (m%);
 - **Anexo IX, linha 205** {#anexo9_lin205} iv. Teste de infiltração de solo (Método do Duplo Anel).
 - **Anexo IX, linha 206** {#anexo9_lin206} d. Descrição técnica da metodologia de disposição de efluentes no solo:
 - **Anexo IX, linha 207** {#anexo9_lin207} i. Proposta de recomendação agronômica indicando, claramente, qual talhão e cultura serão objeto de adubação, que deverá abranger:
 - **Anexo IX, linha 208** {#anexo9_lin208} • Período de aplicação: definição da época do ano em que será realizada a adubação do solo, considerando, também, a indicação de adubação de base e/ou cobertura;
 - **Anexo IX, linha 209** {#anexo9_lin209} • Caracterização agronômica do produto: estimativa da composição nutricionais do efluente que embasem a recomendação agronômica;
-- **Anexo IX, linha 210** {#anexo9_lin210} • Taxa: recomendação técnica utilizando a demanda da cultura com base no Manual de Adubação e Calagem para o Estado do Paraná (2019) e os índices de precipitação do local, de forma que haja a aplicação considerando o nutriente limitante no solo, inclusive água, e a produtividade esperada para cada safra. As demandas nutricionais das culturas poderão ser complementadas com adubação mineral, conforme indicação do profissional legalmente habilitado;
+- **Anexo IX, linha 210** {#anexo9_lin210} #taxa-aplicacao • Taxa: recomendação técnica utilizando a demanda da cultura com base no Manual de Adubação e Calagem para o Estado do Paraná (2019) e os índices de precipitação do local, de forma que haja a aplicação considerando o nutriente limitante no solo, inclusive água, e a produtividade esperada para cada safra. As demandas nutricionais das culturas poderão ser complementadas com adubação mineral, conforme indicação do profissional legalmente habilitado;
 - **Anexo IX, linha 211** {#anexo9_lin211} • Técnica de aplicação: forma de aplicação do efluente (aspersão, superfície, gotejamento, etc);
-- **Anexo IX, linha 212** {#anexo9_lin212} • Frequência de monitoramento da área de aplicação: apresentar plano de amostragem de solo (número de pontos por talhão), que represente significância estatística, bem como os parâmetros a serem monitorados para fins de controle.
+- **Anexo IX, linha 212** {#anexo9_lin212} #frequencia-monitoramento #amostragem • Frequência de monitoramento da área de aplicação: apresentar plano de amostragem de solo (número de pontos por talhão), que represente significância estatística, bem como os parâmetros a serem monitorados para fins de controle.
 - **Anexo IX, linha 213** {#anexo9_lin213} 6. OPERAÇÃO
 - **Anexo IX, linha 214** {#anexo9_lin214} a. Apresentar manual de operação para as instalações de tratamento e controle de poluição ambiental suficientemente detalhado para permitir a partida e a futura operação do sistema;
 - **Anexo IX, linha 215** {#anexo9_lin215} b. Especificar dentro do organograma da Empresa, o Setor de encarregado da operação e manutenção do (s) sistema (s) de controle de poluição ambiental;
@@ -295,9 +295,9 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IX, linha 237** {#anexo9_lin237} a. Planta geral do sistema de tratamento;
 - **Anexo IX, linha 238** {#anexo9_lin238} b. Desenhos com dimensões e detalhamento dos diversos sistemas adotados.
 - **Anexo IX, linha 239** {#anexo9_lin239} V. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA
-- **Anexo IX, linha 240** {#anexo9_lin240} Anotação de Responsabilidade Técnica emitida pelo conselho de classe competente.
+- **Anexo IX, linha 240** {#anexo9_lin240} #art-anotacao Anotação de Responsabilidade Técnica emitida pelo conselho de classe competente.
 - **Anexo IX, linha 241** {#anexo9_lin241} B. PROJETO DE TERRAPLANAGEM
-- **Anexo IX, linha 242** {#anexo9_lin242} O Projeto de Terraplanagem deverá apresentar, de forma detalhada, as operações de movimentação de solo a serem executadas para implantação do empreendimento.
+- **Anexo IX, linha 242** {#anexo9_lin242} #terraplanagem O Projeto de Terraplanagem deverá apresentar, de forma detalhada, as operações de movimentação de solo a serem executadas para implantação do empreendimento.
 - **Anexo IX, linha 243** {#anexo9_lin243} 1. IDENTIFICAÇÃO DO EMPREENDEDOR
 - **Anexo IX, linha 244** {#anexo9_lin244} a. Nome;
 - **Anexo IX, linha 245** {#anexo9_lin245} b. Razão Social;
@@ -328,17 +328,17 @@ fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do 
 - **Anexo IX, linha 270** {#anexo9_lin270} viii. Cotas do terreno e do greide.
 - **Anexo IX, linha 271** {#anexo9_lin271} e. Além da planta indicada no item anterior, necessita-se da apresentação de memorial descritivo e de cálculo, para apresentação dos itens que serão apresentados em sequência;
 - **Anexo IX, linha 272** {#anexo9_lin272} f. Apresentar tabela com os cálculos e os volumes de corte e aterro, considerando todas as seções do tópico 4.2, informando de forma clara se haverá necessidade de retirada (bota-fora) ou empréstimo de solo do terreno;
-- **Anexo IX, linha 273** {#anexo9_lin273} g. Indicar a localização da área de bota-fora ou empréstimo, que deve ser devidamente licenciada, apresentando endereço completo e licença ambiental do local/empreendimento;
-- **Anexo IX, linha 274** {#anexo9_lin274} h. Detalhar as estruturas de contenção e drenagem que se fizerem necessárias a serem implantadas para garantir a estabilidade da obra, bem como para evitar quaisquer danos ou interferências tais como infiltrações, alagamentos e deslizamentos de solo, aos imóveis vizinhos, sistema viário ou bens públicos. Caso o projeto não apresente necessidade de tais dispositivos, apresentar justificativa técnica;
+- **Anexo IX, linha 273** {#anexo9_lin273} #licenca-ambiental g. Indicar a localização da área de bota-fora ou empréstimo, que deve ser devidamente licenciada, apresentando endereço completo e licença ambiental do local/empreendimento;
+- **Anexo IX, linha 274** {#anexo9_lin274} #contencao #drenagem h. Detalhar as estruturas de contenção e drenagem que se fizerem necessárias a serem implantadas para garantir a estabilidade da obra, bem como para evitar quaisquer danos ou interferências tais como infiltrações, alagamentos e deslizamentos de solo, aos imóveis vizinhos, sistema viário ou bens públicos. Caso o projeto não apresente necessidade de tais dispositivos, apresentar justificativa técnica;
 - **Anexo IX, linha 275** {#anexo9_lin275} i. Informar as medidas que se fizerem necessárias e a serem adotadas para evitar a formação de processos erosivos e de movimentação de massa na área ou em suas imediações, bem como para evitar a ocorrência e assoreamentos de sistemas de drenagem, corpos hídricos, lagos, lagoas, banhados, nascentes e outras estruturas. Caso o projeto não apresente necessidade de adoção de tais medidas, apresentar justificativa técnica;
 - **Anexo IX, linha 276** {#anexo9_lin276} j. Detalhar as medidas de segurança para vedação do terreno e adoção de medidas de segurança de forma a evitar despejos de resíduos clandestinos no local, tais como: tintas e solventes, materiais e solos contaminados, resíduos contendo amianto, gesso, isopor, tubos de PVC, vidros, papéis, papelão, madeira, pneus, sacos plásticos e lixo doméstico entre outros.
 - **Anexo IX, linha 277** {#anexo9_lin277} 4. RECOMENDAÇÕES/DETERMINAÇÕES A SEREM SEGUIDAS
 - **Anexo IX, linha 278** {#anexo9_lin278} a. É de inteira responsabilidade do proprietário do imóvel e de seu representante legal a vedação do terreno ou a adoção de medidas de segurança de forma a evitar despejos clandestinos de resíduos no local;
-- **Anexo IX, linha 279** {#anexo9_lin279} b. Deverão ser preservadas todas as árvores cujo corte não tenha sido autorizado;
+- **Anexo IX, linha 279** {#anexo9_lin279} #supressao-vegetacao b. Deverão ser preservadas todas as árvores cujo corte não tenha sido autorizado;
 - **Anexo IX, linha 280** {#anexo9_lin280} c. Deverá proceder a lavagem do rodado dos caminhões e equipamentos utilizados na movimentação de solo, de maneira adequada, para que não haja comprometimento das vias de trânsito;
-- **Anexo IX, linha 281** {#anexo9_lin281} d. Os resíduos excedentes da terraplanagem deverão ser destinados a local com aterro licenciado.
+- **Anexo IX, linha 281** {#anexo9_lin281} #destinacao-final d. Os resíduos excedentes da terraplanagem deverão ser destinados a local com aterro licenciado.
 - **Anexo IX, linha 282** {#anexo9_lin282} 5. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA
-- **Anexo IX, linha 283** {#anexo9_lin283} Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos e projetos apresentados, bem como da execução dos trabalhos, junto aos respectivos conselhos de classe.
+- **Anexo IX, linha 283** {#anexo9_lin283} #art-anotacao Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos e projetos apresentados, bem como da execução dos trabalhos, junto aos respectivos conselhos de classe.
 - **Anexo IX, linha 284** {#anexo9_lin284} 6. REFERÊNCIAS BIBLIOGRÁFICAS
 - **Anexo IX, linha 285** {#anexo9_lin285} Citar as referências consultadas, incluindo as páginas eletrônicas com data e hora do acesso, segundo as normas de publicação de trabalhos científicos da Associação Brasileira de Normas Técnicas-ABNT.
 - **Anexo IX, linha 286** {#anexo9_lin286} OBS: Todos os estudos e plantas deverão ser apresentados em meio digital, em arquivos formato PDF.

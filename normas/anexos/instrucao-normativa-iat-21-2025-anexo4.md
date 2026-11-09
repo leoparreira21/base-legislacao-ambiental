@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Projeto de Implantação Urbanística"
 atividades: [empreendimento-imobiliario]
 modalidades: [las, lasa, lp, lpa, li, lia]
-tags: ["app", "area-verde-urbana", "empreendimento-imobiliario", "parcelamento-solo"]
+tags: [app, area-inundavel, area-verde-urbana, distancia-minima, empreendimento-imobiliario, georreferenciamento, plano-recuperacao, responsavel-tecnico]
 fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; páginas 53–55."
 ---
 
@@ -14,13 +14,13 @@ fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 ## Texto do anexo
 
-- **Anexo IV, linha 1** {#anexo4_lin1} Apresentar, no Projeto de Implantação Urbanística, no mínimo:
+- **Anexo IV, linha 1** {#anexo4_lin1} #empreendimento-imobiliario Apresentar, no Projeto de Implantação Urbanística, no mínimo:
 
 - **Anexo IV, linha 2** {#anexo4_lin2} 1. QUADRO COM INFORMAÇÕES GERAIS
 
 - **Anexo IV, linha 3** {#anexo4_lin3} − Título do projeto: denominação completa do empreendimento;
 
-- **Anexo IV, linha 4** {#anexo4_lin4} − Responsável técnico: nome completo, número de registro profissional (CREA ou demais Conselhos de Classe) e assinatura do profissional responsável pela elaboração da planta;
+- **Anexo IV, linha 4** {#anexo4_lin4} #responsavel-tecnico − Responsável técnico: nome completo, número de registro profissional (CREA ou demais Conselhos de Classe) e assinatura do profissional responsável pela elaboração da planta;
 
 - **Anexo IV, linha 5** {#anexo4_lin5} − Localização: endereço completo do imóvel, incluindo número, rua, bairro, cidade e estado;
 
@@ -42,9 +42,9 @@ fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 - **Anexo IV, linha 14** {#anexo4_lin14} − Área das unidades: áreas de todas as unidades (lotes, casas, apartamentos, etc);
 
-- **Anexo IV, linha 15** {#anexo4_lin15} − Áreas de Preservação Permanente (APP): Área total de APP por lote ou sublote e total no imóvel;
+- **Anexo IV, linha 15** {#anexo4_lin15} #app − Áreas de Preservação Permanente (APP): Área total de APP por lote ou sublote e total no imóvel;
 
-- **Anexo IV, linha 16** {#anexo4_lin16} − Área Verde Urbana (AVU): Área total de Área Verde Urbana;
+- **Anexo IV, linha 16** {#anexo4_lin16} #area-verde-urbana − Área Verde Urbana (AVU): Área total de Área Verde Urbana;
 
 - **Anexo IV, linha 17** {#anexo4_lin17} − Numeração das Unidades: identificação numérica de cada unidade (lote, casa, apartamento, etc).
 
@@ -68,19 +68,19 @@ fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 - **Anexo IV, linha 27** {#anexo4_lin27} − Plantas de situação e localização;
 
-- **Anexo IV, linha 28** {#anexo4_lin28} − Coordenadas geográficas de todos os vértices do polígono do imóvel em coordenas geográficas UTM SIRGAS 2000;
+- **Anexo IV, linha 28** {#anexo4_lin28} #georreferenciamento − Coordenadas geográficas de todos os vértices do polígono do imóvel em coordenas geográficas UTM SIRGAS 2000;
 
 - **Anexo IV, linha 29** {#anexo4_lin29} − Representação das diretrizes viárias municipais, estaduais e federais, devidamente cotadas entre o eixo central e bordas;
 
 - **Anexo IV, linha 30** {#anexo4_lin30} − Traçados das vias, largura destas e tipo de pavimento;
 
-- **Anexo IV, linha 31** {#anexo4_lin31} − Áreas de Preservação Permanente (APP): delimitação e identificação de áreas de APP (nascentes, cursos d'água, matas ciliares, etc);
+- **Anexo IV, linha 31** {#anexo4_lin31} #app − Áreas de Preservação Permanente (APP): delimitação e identificação de áreas de APP (nascentes, cursos d'água, matas ciliares, etc);
 
-- **Anexo IV, linha 32** {#anexo4_lin32} − Área Verde Urbana (AVU): delimitação e quantificação da área de Área Verde Urbana em conformidade com a Instrução Normativa que estabelece critérios e procedimentos para autorização de supressão de vegetação nativa no Estado do Paraná.
+- **Anexo IV, linha 32** {#anexo4_lin32} #area-verde-urbana − Área Verde Urbana (AVU): delimitação e quantificação da área de Área Verde Urbana em conformidade com a Instrução Normativa que estabelece critérios e procedimentos para autorização de supressão de vegetação nativa no Estado do Paraná.
 
-- **Anexo IV, linha 33** {#anexo4_lin33} − APP e/ou AVU a serem recuperadas: Áreas objeto de PRAD (se houver), em conformidade com a [[portaria-iat-17-2025|Portaria IAT n° 17/2025]];
+- **Anexo IV, linha 33** {#anexo4_lin33} #plano-recuperacao − APP e/ou AVU a serem recuperadas: Áreas objeto de PRAD (se houver), em conformidade com a [[portaria-iat-17-2025|Portaria IAT n° 17/2025]];
 
-- **Anexo IV, linha 34** {#anexo4_lin34} − Áreas sujeitas a possíveis inundações/alagamentos: delimitação de áreas sujeitas a inundação, conforme cota de inundação apresentada na Manifestação da Diretoria de Saneamento Ambiental e Recursos Hídricos do Instituto Água e Terra (IAT);
+- **Anexo IV, linha 34** {#anexo4_lin34} #area-inundavel − Áreas sujeitas a possíveis inundações/alagamentos: delimitação de áreas sujeitas a inundação, conforme cota de inundação apresentada na Manifestação da Diretoria de Saneamento Ambiental e Recursos Hídricos do Instituto Água e Terra (IAT);
 
 - **Anexo IV, linha 35** {#anexo4_lin35} − Recursos Hídricos: identificação dos recursos hídricos, com indicação de suas larguras e respectivas de áreas de proteção;
 
@@ -92,11 +92,11 @@ fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 - **Anexo IV, linha 39** {#anexo4_lin39} − Configuração e dimensões dos lotes: desenho detalhado dos lotes, com medidas de frente, fundos e laterais, quando aplicável;
 
-- **Anexo IV, linha 40** {#anexo4_lin40} − Recuos frontais: distância mínima entre a fachada da edificação e a divisa frontal do lote;
+- **Anexo IV, linha 40** {#anexo4_lin40} #distancia-minima − Recuos frontais: distância mínima entre a fachada da edificação e a divisa frontal do lote;
 
-- **Anexo IV, linha 41** {#anexo4_lin41} − Recuos laterais: distância mínima entre a edificação e as divisas laterais do lote;
+- **Anexo IV, linha 41** {#anexo4_lin41} #distancia-minima − Recuos laterais: distância mínima entre a edificação e as divisas laterais do lote;
 
-- **Anexo IV, linha 42** {#anexo4_lin42} − Recuos de fundo: distância mínima entre a fachada posterior da edificação e a divisa de fundo do lote;
+- **Anexo IV, linha 42** {#anexo4_lin42} #distancia-minima − Recuos de fundo: distância mínima entre a fachada posterior da edificação e a divisa de fundo do lote;
 
 - **Anexo IV, linha 43** {#anexo4_lin43} − Altura das edificações: altura máxima permitida para as construções, em metros ou número de pavimentos;
 

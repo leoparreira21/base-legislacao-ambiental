@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Laudo Geológico-Geotécnico"
 atividades: [empreendimento-imobiliario]
 modalidades: [aa, las, lasa, lp, lpa]
-tags: ["agua-subterranea", "empreendimento-imobiliario", "geotecnia", "solo"]
+tags: [agua-subterranea, app, art-anotacao, ensaio-percolacao, geotecnia, karst, sondagem]
 fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; páginas 61–65."
 ---
 
@@ -14,7 +14,7 @@ fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 ## Texto do anexo
 
-- **Anexo VI, linha 1** {#anexo6_lin1} O presente Termo de Referência diz respeito ao Laudo Geológico-Geotécnico que deverá ser apresentado para os requerimentos de Licença Ambiental.
+- **Anexo VI, linha 1** {#anexo6_lin1} #geotecnia O presente Termo de Referência diz respeito ao Laudo Geológico-Geotécnico que deverá ser apresentado para os requerimentos de Licença Ambiental.
 
 - **Anexo VI, linha 2** {#anexo6_lin2} 1. INFORMAÇÕES GERAIS
 
@@ -38,7 +38,7 @@ fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 - **Anexo VI, linha 12** {#anexo6_lin12} 2. REQUISITOS PARA ELABORAÇÃO DO LAUDO
 
-- **Anexo VI, linha 13** {#anexo6_lin13} − Destaca-se que se o empreendimento estiver localizado na área de abrangência do Aquífero Karst, o Termo de Referência a ser seguido deverá ser solicitado ao órgão ambiental.
+- **Anexo VI, linha 13** {#anexo6_lin13} #karst − Destaca-se que se o empreendimento estiver localizado na área de abrangência do Aquífero Karst, o Termo de Referência a ser seguido deverá ser solicitado ao órgão ambiental.
 
 - **Anexo VI, linha 14** {#anexo6_lin14} − O Laudo geológico-geotécnico deverá conter, no mínimo, as seguintes informações:
 
@@ -54,7 +54,7 @@ fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 - **Anexo VI, linha 20** {#anexo6_lin20} − Tipologia e grau de compactação do solo para o uso proposto;
 
-- **Anexo VI, linha 21** {#anexo6_lin21} 2.3.2. Sondagem do terreno, que pode ser que pode ser sondagem a trado ou percussão, desde que cheguem a 5 metros. Os furos de sondagem devem estar distribuídos uniformemente na região que será ocupada, sendo a quantidade mínima apresentada abaixo:
+- **Anexo VI, linha 21** {#anexo6_lin21} #sondagem 2.3.2. Sondagem do terreno, que pode ser que pode ser sondagem a trado ou percussão, desde que cheguem a 5 metros. Os furos de sondagem devem estar distribuídos uniformemente na região que será ocupada, sendo a quantidade mínima apresentada abaixo:
 
 - **Anexo VI, linha 22** {#anexo6_lin22} o Mínimo 4 (quatro) furos para áreas de até 1 (um) hectare;
 
@@ -62,7 +62,7 @@ fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 - **Anexo VI, linha 24** {#anexo6_lin24} o O órgão ambiental poderá solicitar furos complementares para caracterização da área.
 
-- **Anexo VI, linha 25** {#anexo6_lin25} 2.3.3. Boletins de sondagens do terreno, com definição dos horizontes pedogenéticos e suas características físicas bem como definição da altura no nível do lençol freático, quando este ocorrer.
+- **Anexo VI, linha 25** {#anexo6_lin25} #agua-subterranea 2.3.3. Boletins de sondagens do terreno, com definição dos horizontes pedogenéticos e suas características físicas bem como definição da altura no nível do lençol freático, quando este ocorrer.
 
 - **Anexo VI, linha 26** {#anexo6_lin26} 2.3.4. Implicações sobre estabilidade do terreno e recomendações a serem executadas, em relação aos perfis de sondagem que foram obtidos no tópico anterior.
 
@@ -70,17 +70,17 @@ fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 - **Anexo VI, linha 28** {#anexo6_lin28} 2.4. Descrição e avaliação hidrogeológica local especificando as características físicas dos corpos hídricos superficiais no trecho em que se inserem na área do empreendimento (larguras média e máxima, superfície).
 
-- **Anexo VI, linha 29** {#anexo6_lin29} 2.4.1. Testes de percolação do solo (ensaios de infiltração), de acordo com a NBR 17076/2024, com apresentação dos resultados de cada ensaio (tempos de infiltração e taxa de percolação), indicação da profundidade da cava e locação dos pontos em planta. Informar a data e condições climáticas da época de realização dos testes. A NBR 6.484/2001 sugere 1 sondagem para cada 10.000 m². Os resultados devem ser interpretados sobre a possibilidade de três (03) ensaios para áreas com até um (01) ha; no mínimo, seis (06) ensaios para áreas entre um (01) ha e até cinco (05) ha. Para áreas acima de cinco (05) ha deverá ser acrescido um (01) ensaio para cada hectare a mais.
+- **Anexo VI, linha 29** {#anexo6_lin29} #ensaio-percolacao 2.4.1. Testes de percolação do solo (ensaios de infiltração), de acordo com a NBR 17076/2024, com apresentação dos resultados de cada ensaio (tempos de infiltração e taxa de percolação), indicação da profundidade da cava e locação dos pontos em planta. Informar a data e condições climáticas da época de realização dos testes. A NBR 6.484/2001 sugere 1 sondagem para cada 10.000 m². Os resultados devem ser interpretados sobre a possibilidade de três (03) ensaios para áreas com até um (01) ha; no mínimo, seis (06) ensaios para áreas entre um (01) ha e até cinco (05) ha. Para áreas acima de cinco (05) ha deverá ser acrescido um (01) ensaio para cada hectare a mais.
 
-- **Anexo VI, linha 30** {#anexo6_lin30} OBS 1: Caso o empreendimento seja atendido por rede pública coletora de esgotos, o teste acima estará dispensado.
+- **Anexo VI, linha 30** {#anexo6_lin30} #ensaio-percolacao OBS 1: Caso o empreendimento seja atendido por rede pública coletora de esgotos, o teste acima estará dispensado.
 
-- **Anexo VI, linha 31** {#anexo6_lin31} OBS 2: Caso o empreendimento seja atendido por rede coletora de esgotos com estação de tratamento coletiva no local, não necessitando de infiltração, o teste acima estará dispensado.
+- **Anexo VI, linha 31** {#anexo6_lin31} #ensaio-percolacao OBS 2: Caso o empreendimento seja atendido por rede coletora de esgotos com estação de tratamento coletiva no local, não necessitando de infiltração, o teste acima estará dispensado.
 
 - **Anexo VI, linha 32** {#anexo6_lin32} 2.4.2. Conclusão do profissional responsável pelo laudo sobre o uso da área, com identificação dos impactos ambientais que resultarão da implantação do empreendimento sobre o meio físico. Principalmente quando se tratarem de solos considerados friáveis e permeáveis, quando é de se esperar que possam acontecer processos erosivos e assoreamento de drenagens.
 
 - **Anexo VI, linha 33** {#anexo6_lin33} 3. ANEXOS
 
-- **Anexo VI, linha 34** {#anexo6_lin34} 3.1. Mapeamento, com identificação e caracterização das áreas de preservação permanente incidentes sobre o imóvel (banhados, cursos d’água, nascentes, reservatórios artificiais de água, lagos, lagoas, topos de morros e montanhas, dunas, locais de refúgio ou reprodução de aves migratórias ou da fauna ameaçada de extinção). Deverão ser apresentadas as coordenadas geográficas, com indicação da projeção geográfica, por exemplo UTM SIRGAS2000, das nascentes presentes no lote e nas regiões que as suas Áreas de Preservação Permanente atinjam o lote.
+- **Anexo VI, linha 34** {#anexo6_lin34} #app 3.1. Mapeamento, com identificação e caracterização das áreas de preservação permanente incidentes sobre o imóvel (banhados, cursos d’água, nascentes, reservatórios artificiais de água, lagos, lagoas, topos de morros e montanhas, dunas, locais de refúgio ou reprodução de aves migratórias ou da fauna ameaçada de extinção). Deverão ser apresentadas as coordenadas geográficas, com indicação da projeção geográfica, por exemplo UTM SIRGAS2000, das nascentes presentes no lote e nas regiões que as suas Áreas de Preservação Permanente atinjam o lote.
 
 - **Anexo VI, linha 35** {#anexo6_lin35} 3.2. Relatório Fotográfico de todos os ensaios, testes e sondagens realizados neste Laudo Geológico-geotécnico, com planta de localização das fotografias e suas respectivas coordenadas geográficas (indicar na planta qual projeção geográfica utilizada).
 
@@ -120,7 +120,7 @@ fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 - **Anexo VI, linha 53** {#anexo6_lin53} 4. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA - ART
 
-- **Anexo VI, linha 54** {#anexo6_lin54} Todos os documentos (laudos, testes, plantas, levantamentos, informações, etc.) devem ser encaminhados com assinatura do técnico responsável habilitado, constando o nome, qualificação, registro profissional, endereço e telefone para contato, com emissão de ART devidamente registrada no conselho de classe correspondente.
+- **Anexo VI, linha 54** {#anexo6_lin54} #art-anotacao Todos os documentos (laudos, testes, plantas, levantamentos, informações, etc.) devem ser encaminhados com assinatura do técnico responsável habilitado, constando o nome, qualificação, registro profissional, endereço e telefone para contato, com emissão de ART devidamente registrada no conselho de classe correspondente.
 
 - **Anexo VI, linha 55** {#anexo6_lin55} 5. REFERÊNCIAS BIBLIOGRÁFICAS
 

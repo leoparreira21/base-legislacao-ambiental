@@ -23,6 +23,7 @@ Como a página se comporta:
 A hierarquia vem do padrão do README: cabeçalhos ## a ###### e IDs LexML dos dispositivos.
 """
 import html
+import json
 import os
 import re
 import sys
@@ -716,14 +717,19 @@ code{font-size:.85em}
 
 JS = """
 (function(){
-  var btn=document.getElementById('alternar'), estado=0;
+  // O estado fica no próprio botão (data-estado): a página salva pelo navegador
+  // ("Salvar como") guarda o DOM já alterado, e um contador em variável voltava a 0
+  // enquanto o rótulo salvo dizia outra coisa (o 1º clique não fazia nada).
+  var btn=document.getElementById('alternar');
   var rotulos=['Expandir tudo','Recolher artigos','Recolher tudo'];
+  function estado(){var e=+btn.getAttribute('data-estado'); return e===1||e===2?e:0;}
+  btn.textContent=rotulos[estado()];
   btn.addEventListener('click',function(){
-    var todos=document.querySelectorAll('main details');
-    if(estado===0){todos.forEach(function(d){d.open=true;});}
-    else if(estado===1){todos.forEach(function(d){d.open=d.classList.contains('estrutura');});}
+    var e=estado(), todos=document.querySelectorAll('main details');
+    if(e===0){todos.forEach(function(d){d.open=true;});}
+    else if(e===1){todos.forEach(function(d){d.open=d.classList.contains('estrutura');});}
     else{todos.forEach(function(d){d.open=false;});}
-    estado=(estado+1)%3; btn.textContent=rotulos[estado];
+    e=(e+1)%3; btn.setAttribute('data-estado',e); btn.textContent=rotulos[e];
   });
   // abrir um artigo abre todos os dispositivos dele, com os textos
   function nivel(art,n){
@@ -733,8 +739,24 @@ JS = """
       b.classList.toggle('ativo', n<0 ? bn===max : bn===n);
     });
   }
+  // Refaz o layout de cada bloco recém-aberto no quadro seguinte. Alguns navegadores
+  // calculavam o espaço dos subitens antes de abri-los (sobravam vãos vazios até o
+  // usuário fechar e reabrir); display:none e de volta recria as caixas, como esse
+  // fechar/abrir, sem mudar o que está aberto.
+  var pendentes=[];
+  function reajustar(){
+    var lista=pendentes, x=window.scrollX, y=window.scrollY; pendentes=[];
+    lista.forEach(function(d){
+      for(var p=d.parentElement; p; p=p.parentElement){ if(lista.indexOf(p)>=0) return; }
+      d.style.display='none'; void d.offsetHeight; d.style.display=''; if(!d.getAttribute('style')) d.removeAttribute('style');
+    });
+    window.scrollTo(x,y);
+  }
   document.addEventListener('toggle',function(e){
-    var d=e.target; if(d.classList&&d.classList.contains('art')&&d.open) nivel(d,-1);
+    var d=e.target; if(!d.tagName||d.tagName!=='DETAILS'||!d.open) return;
+    if(d.classList.contains('art')) nivel(d,-1);
+    if(!pendentes.length) requestAnimationFrame(reajustar);
+    pendentes.push(d);
   },true);
   document.addEventListener('click',function(e){
     var b=e.target.closest&&e.target.closest('.niveis button'); if(!b) return;
@@ -789,6 +811,15 @@ def indice(itens):
 <p class="ementa">Consulta direta das normas, com dispositivos que abrem e fecham.</p></header>
 <ul>{lis}</ul></main></body></html>
 """
+
+
+def item_catalogo(arquivo, fm):
+    apelidos = re.findall(r'"([^"]+)"', fm.get('nomes_alternativos', ''))
+    ano = fm.get('ano', '')
+    return {'arquivo': arquivo, 'norma': fm.get('norma') or arquivo, 'tipo': fm.get('tipo', ''),
+            'esfera': fm.get('esfera', ''), 'orgao': fm.get('orgao', ''),
+            'ano': int(ano) if ano.isdigit() else None, 'ementa': fm.get('ementa', ''),
+            'situacao': fm.get('situacao', ''), 'apelidos': apelidos}
 
 
 def arquivos():
@@ -861,7 +892,7 @@ def main():
         anexos[f.stem] = (mae, f'anexo{numero_anexo(f.stem)}')
         por_mae.setdefault(mae, []).append((f, corpo))
 
-    itens = []
+    itens, catalogo = [], []
     for f in paginas:
         fm, corpo = ler_frontmatter(f.read_text(encoding='utf-8'))
         conv = Conversor(existentes, f.stem, f.parent, saida, anexos)
@@ -876,11 +907,18 @@ def main():
         (saida / f'{f.stem}.html').write_text(pagina(titulo_html, cabecalho, render(raiz), fm, getattr(raiz, 'id_titulo', None)), encoding='utf-8')
         if f.parent.name == 'normas':
             itens.append((f.stem, fm.get('norma') or f.stem, fm.get('ementa', '')))
+        if f.parent.name != 'comentarios':
+            catalogo.append(item_catalogo(f.stem, fm))
     # apaga páginas que não existem mais (normas que saíram da base, anexos agora dentro da norma)
     for velho in saida.glob('*.html'):
         if velho.stem not in existentes and velho.name != 'index.html':
             velho.unlink()
     (saida / 'index.html').write_text(indice(itens), encoding='utf-8')
+    # catálogo da biblioteca (site/biblioteca.html): uma entrada por página de norma.
+    # Em .js (não .json) para a biblioteca abrir também direto do disco (file://), onde fetch falha.
+    dados = json.dumps(sorted(catalogo, key=lambda c: c['arquivo']), ensure_ascii=False, indent=0)
+    (saida / 'catalogo.js').write_text(f'window.CATALOGO_NORMAS = {dados};\n', encoding='utf-8')
+    (saida / 'catalogo.json').unlink(missing_ok=True)
     print(f'{len(paginas)} páginas em {saida} ({len(anexos)} anexos dentro das normas)')
 
 

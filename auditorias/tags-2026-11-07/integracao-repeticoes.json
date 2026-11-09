@@ -1,0 +1,955 @@
+[
+  {
+    "sha256": "00255ccc25650dcc6190ab9425d50c99e23c3f3f149337aabfcb0b2310b21e37",
+    "texto": "O CRV é determinado pela relação entre o volume da tora processada e o volume obtido de lâminas, acrescido, quando for o caso, do volume obtido com produtos de aproveitamento, desde que devidamente comercializados. Deverá ser determinado por espécie pela média dos CRV determinados individualmente para cada tora.",
+    "decisoes_existentes": [
+      "normas/anexos/resolucao-conama-411-2009-anexo4.md#anexo4_lin59"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/resolucao-conama-411-2009-anexo6.md#anexo6_lin59"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "025fe534b028d41ec9f663d81a82c89513ef68c1e58e6809b163fb0fb4a6c467",
+    "texto": "Qualquer impacto que prospecte óbito de qualquer espécie animal deverá ser considerado “catastrófico” ou a nomenclatura que identifique a maior severidade.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo6.md#anexo6_lin81"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo9.md#anexo9_lin81"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "04204bf05249a6a68a3503a4bad5bed9dc863cbf6e8272b00faf9f0b5ef69600",
+    "texto": "− CNPJ e Inscrição Estadual (caso empresa), nome do responsável legal, nome da pessoa de contato, e-mail e número do telefone:",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-21-2025-anexo6.md#anexo6_lin11"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-21-2025-anexo10.md#anexo10_lin12",
+      "normas/anexos/instrucao-normativa-iat-21-2025-anexo11.md#anexo11_lin11",
+      "normas/anexos/instrucao-normativa-iat-21-2025-anexo5.md#anexo5_lin10",
+      "normas/anexos/instrucao-normativa-iat-21-2025-anexo8.md#anexo8_lin13",
+      "normas/anexos/instrucao-normativa-iat-21-2025-anexo9.md#anexo9_lin10"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "0b92bd85b4dbb0418230d9dacc7cc815c2b91ddef7dc61e6350396cec8a64432",
+    "texto": "o CLASSE V - Terras inaptas – são terras com um ou mais fatores com grau de risco muito forte. Inaptas para disposição final de efluente no solo.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md#anexo9_lin197"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-65-2025-anexo8.md#anexo8_lin137"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "0bc9a42a6a1e3151c0fea1a6c7d1c0d6ea68c92156fb9b11e1be5fa71256486e",
+    "texto": "e) Instalações administrativas e de apoio operacional da ETA, incluindo a Casa de Química e laboratório, com os respectivos controles ambientais (destinação e tratamento do esgoto, forma de acondicionamento dos resíduos sólidos e dos produtos químicos);",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin62"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo12.md#anexo12_lin27"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "0cfb0bc01bf0d5b4c6bb2938965dc785aab10dbbc98af31044b667440827f8f2",
+    "texto": "Elaboração de matriz de Levantamento de Aspectos e Impactos Ambientais, contemplando os seguintes parâmetros:",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo6.md#anexo6_lin70"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo9.md#anexo9_lin70"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "0e1150d73147a5160f6843596f285c3d13564887922f0b42188d08fe2fcd014a",
+    "texto": "O presente Termo de Referência tem o objetivo de determinar a abrangência, os procedimentos e os critérios mínimos para a elaboração do Relatório Ambiental Preliminar (RAP), instrumentos que subsidiarão o licenciamento ambiental para a atividade proposta.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md#anexo10_lin1"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-28-2026-anexo4.md#anexo4_lin1"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "1085b2a0a13560daf2a445ff9271054ae46def26328749eaf52ae92467859d9b",
+    "texto": "Apresentar relação completa dos resíduos sólidos, indicando sua origem, produção diária (peso e volume), característica (estado físico, composição química, peso específico), processamento (tipo de acondicionamento e de remoção) e destinação final.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md#anexo6_lin110"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/resolucao-sedest-39-2024-anexo3.md#anexo3_lin109"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "108c626fb267e7bf42b9eb3438439ac463bf8026d1977aa12da67f2cc9d45287",
+    "texto": "Identificar os principais impactos que poderão ocorrer em função das diversas ações previstas para a implantação e operação do empreendimento: conflitos de uso do solo e da água, interferência na infraestrutura e paisagem existente, interferência em Áreas de Preservação Permanente, supressão de cobertura vegetal, erosão e assoreamento, desapropriação entre outros, e as medidas mitigadoras ou compensatórias equivalentes.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin81",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md#anexo13_lin58"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin106",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo12.md#anexo12_lin45"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "115033b0bc123b7740fc3a8e14ec1efd245a2b1b14c77fea506f9afbcbd17daa",
+    "texto": "b) Processo, unidades de tratamento e nível de eficiência de remoção dos contaminantes da água bruta. A eficiência do sistema de tratamento deve ser tal que permita o atendimento aos padrões de potabilidade estabelecidos, e considere as restrições vinculadas à Outorga de captação;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin55"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo12.md#anexo12_lin20"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "119f7691fe66e3eaef554ba40ecf16a0830ae810f2a93d209b825c4d3535bf84",
+    "texto": "b) Descrição do sistema de tratamento adotado para os efluentes líquidos gerados na implantação e operação do empreendimento, acompanhado de dimensionamento das unidades que compõem o sistema;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin68",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md#anexo13_lin46"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin94",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo12.md#anexo12_lin33"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "11bf0ae759ec087d69911d365713f5d5bbc4bea29964d8be9a45dbdba5e54246",
+    "texto": "2.7. Informar quais as possíveis formas de disposição final do efluente a ser gerado pela implantação e operação do empreendimento (rede pública de coleta, lançamento em rede de drenagem, lançamento em corpo receptor, infiltração em solo, entre outros).",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-38-2025-anexo10-rap.md#anexo10_lin53"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-25-2025-anexo7.md#anexo7_lin52"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "137c2e68739f27353365bf703cba5e55ef68ef2538704413f447f904441b2890",
+    "texto": "b) Descrever e mapear, em planta planialtimétrica em escala adequada, a necessidade de cortes, aterros e drenagem para a implantação e operação do empreendimento, e localização de possíveis áreas de empréstimo e bota-fora;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin77"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin102",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo12.md#anexo12_lin41",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md#anexo13_lin54"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "18cee41f9d68c209b1a6c839c0466bfdf112b5896ecff81a75a357105c35ac98",
+    "texto": "Citar as referências consultadas, incluindo as páginas eletrônicas com data e hora do acesso, segundo as normas de publicação de trabalhos científicos da Associação Brasileira de Normas Técnicas – ABNT.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-21-2025-anexo6.md#anexo6_lin56",
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo6.md#anexo6_lin87"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-21-2025-anexo10.md#anexo10_lin36",
+      "normas/anexos/instrucao-normativa-iat-21-2025-anexo9.md#anexo9_lin88"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "20cd9d0b06dfcd57db1008fc3a9577b7a73e1fa44aebf8ddca64b632dd2a5af3",
+    "texto": "• Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais na área do empreendimento e no seu entorno.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md#anexo4_lin44"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md#anexo4_lin42",
+      "normas/anexos/instrucao-normativa-iat-38-2025-anexo4.md#anexo4_lin23"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "215bce7bad8e2518e2d97833d0722620a892319f6cb5e3be5dc0cbfcc9294add",
+    "texto": "Deve refletir os resultados das análises realizadas referentes às prováveis modificações em função da atividade, inclusive com as medidas mitigadoras, potencializadoras, de controle ou compensatórias propostas, de forma a concluir quanto à viabilidade ambiental ou não da atividade proposta.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin83"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin108",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo12.md#anexo12_lin47",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md#anexo13_lin60"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "2e80d0f4e5d26758beea215aecc7f2518e4efbab654693cb41230c06d5596153",
+    "texto": "c) Estimar a mão de obra necessária para implantação e operação do empreendimento. Em relação à operação, indicar ainda a qualificação técnica dos funcionários;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin78"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin103",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo12.md#anexo12_lin42",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md#anexo13_lin55"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "30481f687b6e6b1f2ad5d7b53a206b7fb1c19b6b509e1e307b0de24ea0ced5fb",
+    "texto": "d) Concentrações dos principais parâmetros utilizados para o dimensionamento do projeto da ETA nas águas do recurso hídrico (concentrações na entrada da ETA).",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin33"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin45",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo8.md#anexo8_lin33"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "32650b9c3349c41ddf0a2389604e198c7784676eef4b61fdcfc773dba0b6ab08",
+    "texto": "3.10 Ocorrência de Reserva Legal, seu estado de conservação e sua localização e distribuição; caso a Reserva Legal não tenha sido respeitada na área, indicar a área do imóvel que será destinada a Reserva Legal;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin46",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin58"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-32-2025-anexo4.md#anexo4_lin72",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo8.md#anexo8_lin57",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo9.md#anexo9_lin58"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "34f72e85cdd3b93d3ef18e4c3e8153c9f880e4310fc721374182870d4dea5434",
+    "texto": "• Informação a respeito de captação de água subterrânea ou superficial, com vazão estimada e a respectiva outorga prévia ou declaração de uso independente;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo6.md#anexo6_lin52"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo9.md#anexo9_lin52"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "373e205497a212f0a6f0d61cce2aeac595e9eff090bc431a8216ecb10c794439",
+    "texto": "• Caracterização e quantificação dos resíduos gerados nas etapas de construção civil e/ou instalação;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md#anexo4_lin57"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md#anexo4_lin54"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "3e64f8c4f846d057595f92ea11497d36aad1ac748d39d60d229633409eee421d",
+    "texto": "• cortes longitudinais e transversais, onde necessário, para melhor visualização dos elementos do sistema.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md#anexo4_lin75"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md#anexo4_lin81"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "40f26e7c5d417fbe29678c39cc668986d20e30f6059a223c2045da26b37de91d",
+    "texto": "O estudo técnico-científico deverá ser assinado por profissional legalmente habilitado com devida anotação de responsabilidade técnica e representante legal da empresa.",
+    "decisoes_existentes": [
+      "normas/anexos/resolucao-conama-411-2009-anexo4.md#anexo4_lin68"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/resolucao-conama-411-2009-anexo3.md#anexo3_lin46",
+      "normas/anexos/resolucao-conama-411-2009-anexo5.md#anexo5_lin44",
+      "normas/anexos/resolucao-conama-411-2009-anexo6.md#anexo6_lin68"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "47c0669e70d9e164ee1dfdcf77acb059bbee110e63b1a733742976af2e878d2a",
+    "texto": "Devem ser apresentadas a concepção e a metodologia de operação, justificando face às suas finalidades.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md#anexo4_lin20"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md#anexo4_lin20",
+      "normas/anexos/instrucao-normativa-iat-32-2025-anexo5.md#anexo5_lin20",
+      "normas/anexos/instrucao-normativa-iat-32-2025-anexo6.md#anexo6_lin20",
+      "normas/anexos/instrucao-normativa-iat-33-2025-anexo4.md#anexo4_lin21"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "4a9737614e168be5148ff27ba86108962c2e5b6966705e9524232775dda0d89f",
+    "texto": "Identificar os efluentes líquidos gerados na implantação e operação do empreendimento. Descrever os sistemas de controle ambiental associados aos efluentes líquidos, descrevendo as condições de coleta, armazenamento, tratamento e destinação final.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md#anexo4_lin50"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-32-2025-anexo5.md#anexo5_lin56",
+      "normas/anexos/instrucao-normativa-iat-32-2025-anexo6.md#anexo6_lin42"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "4ee963dc410726904b7bcf111f614944a51f1ef5d70dc2cd65ad6ecf94b39340",
+    "texto": "Apresentar roteiro para a realização de estudos técnico-científicos com vistas a alteração do coeficiente de rendimento volumétrico determinado pela presente Resolução, para a transformação de tora comercial em madeira laminada (lâminas).",
+    "decisoes_existentes": [
+      "normas/anexos/resolucao-conama-411-2009-anexo4.md#anexo4_lin4"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/resolucao-conama-411-2009-anexo6.md#anexo6_lin4"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "54d3a2d3cafc3b3fee7cd177e2ccefcdb970cf86a323f838eebfeb48a58a5ca9",
+    "texto": "As informações a serem abordadas neste item devem propiciar a caracterização da área afetada pelo empreendimento. Para a caracterização da área do empreendimento, deverão ser apresentadas, no mínimo, as informações abaixo",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin35"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin47"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "56e1f3f7971655eff5c214c5392735605c7c167dafd156b205e442431f689494",
+    "texto": "Após a análise e vistoria realizada, conclui–se que a obra foi executada conforme os padrões estabelecidos na legislação vigente e no projeto aprovado na licença de instalação. Portanto, a obra está apta para operação, respeitando todas as normas e regulamentações aplicáveis.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-24-2026-anexo9.md#anexo9_lin23"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-23-2026-anexo9.md#anexo9_lin23"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "5b648dae99acab2456059acaf41dc40b4452dc27db6f329cdc2cbb0d9f559fb4",
+    "texto": "Apresentar as conclusões do Relatório Ambiental Preliminar (RAP), com base nos resultados obtidos na avaliação dos impactos ambientais, devendo esclarecer, sob o aspecto ambiental, a viabilidade ou não do empreendimento.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo6.md#anexo6_lin83"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-21-2025-anexo9.md#anexo9_lin84",
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo9.md#anexo9_lin83"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "5ecef79c445ac178238f54b48d18187b45302a933d82e30b0a1cd294a97762c1",
+    "texto": "• Informação a respeito de lançamento de efluente em corpos hídricos, com vazão estimada e respectiva outorga prévia ou declaração de uso independente;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo6.md#anexo6_lin53"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo9.md#anexo9_lin53"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "615ae4c56b4817be6c0f50564d18fc4e76b62ba572d7bf123eb0d64c51aab069",
+    "texto": "Análise sobre a estrutura, sistemas de tratamentos de efluentes, resíduos sólidos, equipamentos instalados, drenagem pluvial, etc.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo4.md#anexo4_lin15"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo10.md#anexo10_lin15"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "67258010b5de395c2f33400e6c6ff0b0ffee91c6828c90406a67e3d92fbf8e86",
+    "texto": "• Descrição das formas de armazenamento e acondicionamento dos resíduos gerados nas etapas de construção e/ou instalação.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md#anexo4_lin59"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md#anexo4_lin56"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "6793ed456bb568a481a5d570fe22735abfd7fd9c6f1046f19e21839f3832ee9f",
+    "texto": "O Projeto de Controle de Poluição Ambiental deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo7.md#anexo7_lin1",
+      "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md#anexo9_lin2"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo8.md#anexo8_lin1",
+      "normas/anexos/instrucao-normativa-iat-28-2026-anexo5.md#anexo5_lin1",
+      "normas/anexos/instrucao-normativa-iat-65-2025-anexo8.md#anexo8_lin1"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "68f160df98568ba2329eb1d3b8395bde7f71e64c49c2fb91e31890703b2c1ca0",
+    "texto": "c) Descrição das áreas de armazenamento temporário de resíduos, de acordo com as ABNT e NBR 11174 e 12235.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin73",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md#anexo13_lin51"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin99",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo12.md#anexo12_lin38"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "6c323d77e818b525ca07246173144e2f7914248ecb214820612b2b52d6d07586",
+    "texto": "• Descrição da previsão de responsáveis e formas de transporte e destinação final dos resíduos gerados nas etapas de construção e/ou instalação.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md#anexo4_lin60"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md#anexo4_lin57"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "724aa1cd67d6671b495836027714832c36ac4d8b1fd52d87feb8732d05ed0045",
+    "texto": "• Fluxograma e descrição detalhada do processo: Apresentar uma descrição da atividade, bem como um fluxograma detalhado da operação, contendo todas as atividades realizadas no empreendimento.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md#anexo4_lin24"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md#anexo4_lin24"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "7431aa0979e899695df7a55a884df959d206a8b3edcb23b650141c7b6d635b6d",
+    "texto": "Apresentar a descrição do sistema de impermeabilização adotado para o controle da infiltração das águas superficiais.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md#anexo6_lin118"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/resolucao-sedest-39-2024-anexo3.md#anexo3_lin117"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "79dc3070f74b23e231d628ea121fb61c47e76e72820bf4e49c7da5fbd76b1aa1",
+    "texto": "3.12 Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-32-2025-anexo4.md#anexo4_lin74",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin48"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin60",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo8.md#anexo8_lin59",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo9.md#anexo9_lin60"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "7c0ed9ad4f4d0febda7d05f512239114aa75aefb21562748b24a12e643aedb38",
+    "texto": "4.2. Identificação dos impactos ambientais: identificar os principais impactos que poderão ocorrer em função da implantação e operação do empreendimento. Para cada impacto indicado, descrever as medidas mitigatórias, de controle ou de compensação correspondente.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md#anexo4_lin45"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md#anexo4_lin43",
+      "normas/anexos/instrucao-normativa-iat-32-2025-anexo5.md#anexo5_lin51"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "816386c43a1b189a4273805705221a9e557fab91bb588332dfc082e05486ef5a",
+    "texto": "Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos/projetos/laudos/relatórios apresentados, junto aos respectivos conselhos de classe.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo6.md#anexo6_lin85"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-21-2025-anexo9.md#anexo9_lin86",
+      "normas/instrucao-normativa-iat-21-2025.md#art11_cpt_inc18"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "8530d9eb64ac08401238bf72ffe71a36f758e9d3ee2f972508565a463ccfd18a",
+    "texto": "b) informar se existe passivo ambiental na área do empreendimento e medidas que serão adotadas para a sua eliminação e/ou controle.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md#anexo6_lin125"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/resolucao-sedest-39-2024-anexo3.md#anexo3_lin120"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "8bb0b757ea5b0a9c0438af6e078259461a624fe0403fa14afaafc014cc5ee291",
+    "texto": "• Descrição de previsão de segregação de resíduos na origem pelo gerador nas etapas de construção e/ou instalação;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md#anexo4_lin58"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md#anexo4_lin55"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "9610008ec653d053ce98e0cec892002429f61fdacf421e45b77b7db8d2a6c55f",
+    "texto": "- Área impermeabilizada e sistema de drenagem pluvial previsto, indicando as formas de tratamento e destinação final das águas incidentes nas áreas impermeabilizadas.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo3.md#anexo3_lin43",
+      "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md#anexo4_lin46"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo8.md#anexo8_lin66",
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo5.md#anexo5_lin47",
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo7.md#anexo7_lin68"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "964ef67146229209279df4cad16138b06933d1f9bd1f31fc31ae35bc3d719555",
+    "texto": "a) Fornecer a relação de produtos químicos manuseados em sua atividade e respectivas quantidades estocadas. Caso haja na instalação substancias em quantidades superiores às apresentadas na [[portaria-iap-159-2015|Portaria IAP 159/2015]], ou outra que venha a substituí-la, deverá possuir Programa de Gerenciamento de Risco;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md#anexo13_lin53"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo12.md#anexo12_lin40"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "995759627a97631048a7110ee5ac0f733b72648600e8ac33be5ce8bde86f479e",
+    "texto": "3.11 Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais na área do empreendimento e no seu entorno;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin47"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin59",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo8.md#anexo8_lin58",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo9.md#anexo9_lin59"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "9ee9d010a1e5433625d868268b90f8288e01b94bc65d777a96eb8330556f93ad",
+    "texto": "3.15 Demonstrar a compatibilidade do empreendimento com a legislação incidente: municipal, estadual e federal, em especial às áreas de interesse ambiental, mapeando as restrições à ocupação. Nesse item deverá ser abordada ainda a compatibilidade do sistema proposto frente ao Plano Municipal de Saneamento Básico, se houver.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin51"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin63",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo8.md#anexo8_lin62",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo9.md#anexo9_lin63"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "a1171645b25d171f0c33b393140da2e67d3bb1d1e39544807db4568d1e7ea044",
+    "texto": "O volume das toras deve ser determinado pelo método geométrico, ou seja, utilizando a equação de Smalian. Deverão ser utilizados para o cálculo a média dos diâmetros cruzados e a média dos comprimentos.",
+    "decisoes_existentes": [
+      "normas/anexos/resolucao-conama-411-2009-anexo4.md#anexo4_lin30"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/resolucao-conama-411-2009-anexo3.md#anexo3_lin29",
+      "normas/anexos/resolucao-conama-411-2009-anexo5.md#anexo5_lin30",
+      "normas/anexos/resolucao-conama-411-2009-anexo6.md#anexo6_lin29"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "a162ce41da19fd3dca75dac323ea07bf865d0cc864df43dec8ca63980b85a858",
+    "texto": "3.4. Informações referente à implantação: descrição das intervenções previstas para implantação do empreendimento, infraestrutura necessária (canteiro do obras), como terraplanagem e outros.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md#anexo4_lin30"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md#anexo4_lin29"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "a510bb4f09f700f803e2b0704dafb145d6a334253df7799e018c815f068ac340",
+    "texto": "Para que o CRV determinado seja representativo da espécie e respectivo produto, deverá ser determinado o tamanho ideal da amostra, admitindo-se um erro amostral de 10%. O número de toras estudado deve ser sempre igual ou superior ao número determinado para o tamanho ideal da amostra.",
+    "decisoes_existentes": [
+      "normas/anexos/resolucao-conama-411-2009-anexo4.md#anexo4_lin64"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/resolucao-conama-411-2009-anexo6.md#anexo6_lin64"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "aa912c35aec7deca0c48d687603e3ac7c1747d6496e2e4c08e2f7559dd26cb10",
+    "texto": "• Taxa: recomendação técnica utilizando a demanda da cultura com base no Manual de Adubação e Calagem para o Estado do Paraná (2019) e os índices de precipitação do local, de forma que haja a aplicação considerando o nutriente limitante no solo, inclusive água, e a produtividade esperada para cada safra. As demandas nutricionais das culturas poderão ser complementadas com adubação mineral, conforme indicação do profissional legalmente habilitado;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md#anexo9_lin210"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-65-2025-anexo8.md#anexo8_lin150"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "ae7d97e5cae127889b587af60afe2a7a872de4f1f99da8923a7a198647f9a195",
+    "texto": "3.13 Apresentar levantamento de reservas indígenas, área quilombola, monumentos naturais e dos bens tombados existentes na área de influência direta do empreendimento;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin49"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin61",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo8.md#anexo8_lin60",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo9.md#anexo9_lin61"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "affa3ba0dbd0245e79669809f8fb1c082b8d6c5112a23892e025f8b94dec41b0",
+    "texto": "a) Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural (em caso de imóvel rural);",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo6.md#anexo6_lin21"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo8.md#anexo8_lin35",
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo9.md#anexo9_lin21"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "b2166add93ce0166d4bcd012516f0ba7e11f395abd22d6f6e7e4b13242ac74ba",
+    "texto": "• Descritivo da obra a ser implantada e a descrição das intervenções necessárias, tais como necessidade de supressão de vegetação, escavações ou alterações de solo;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-33-2025-anexo3.md#anexo3_lin32"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo3.md#anexo3_lin30"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "b904ca57a0d1e6d6c255ea4867ca721b10e92a24ef364207d5a9d39878b12e97",
+    "texto": "Caracterização do entorno em um raio mínimo de 50 metros do empreendimento, contemplando o uso e ocupação do solo, e a existência de residências.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-25-2026-anexo2.md#anexo2_lin21"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-22-2026-anexo2.md#anexo2_lin21"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "b9300032e025056352e2d331acf57d15fb377320ce797ca129b7c9201d195f00",
+    "texto": "relacionadas, devendo as mesmas, quando couber, ser apresentadas em mapas, plantas georreferenciadas, em escala compatível, ou através de fotos datadas, fotos aéreas, imagem de satélite e outros materiais disponíveis, com legendas explicativas da área do empreendimento e do seu entorno:",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin36"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin48"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "bbdccb368eeb903ca0cb85e9bdf3ddb9e7f2c36117f62c9fdd216fffa5a043d6",
+    "texto": "Descrição do sistema de coleta, tratamento e destinação final dos efluentes sanitários gerados na implantação e operação do sistema. Apresentar dimensionamento em conformidade com as normas técnicas específicas da ABNT NBR 17076.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md#anexo4_lin52"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-32-2025-anexo5.md#anexo5_lin58",
+      "normas/anexos/instrucao-normativa-iat-32-2025-anexo6.md#anexo6_lin44"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "bc3f97f10b488652239690fdd6ee2c2b29e794fdc85065cd04a1c271eb448670",
+    "texto": "• Informações sobre os resíduos: origem, composição/gravimetria; quantidade diária e mensal a ser recebida, frequência e horário de recebimento",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md#anexo4_lin25"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md#anexo4_lin25"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "bc62196443ffb18f3a811c6ade411605602b43cdb78655f059bbaa1dd18f879d",
+    "texto": "Este laudo visa atestar a conclusão da obra em conformidade ambiental, conforme estabelecido no projeto aprovado, no processo de licenciamento ambiental, bem como em conformidade com as legislações vigentes pertinentes, incluindo medidas de mitigação e controle de impactos ambientais.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-23-2026-anexo9.md#anexo9_lin8",
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo4.md#anexo4_lin8"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-24-2026-anexo9.md#anexo9_lin8",
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo10.md#anexo10_lin8"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "bdcddce7a0d9051f0e347d032b86e5ddf7563f0b9f4d3557d12388256f83b711",
+    "texto": "b) Descrição das etapas de gerenciamento dos resíduos no local: segregação, coleta, acondicionamento, armazenamento, tratamento e destinação final;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin72",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin98",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo13.md#anexo13_lin50"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo12.md#anexo12_lin37"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "be3b4f540237aa80b966c145169fdefe6abe3d3315ed966cf5257156f45f4102",
+    "texto": "• Layout preliminar do empreendimento, inclusive com disponibilização de informações dos arquivos vetoriais;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo6.md#anexo6_lin48"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo9.md#anexo9_lin48"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "c6dea975badc8df4ba80240859b1a7254da8336cdf0e1073cb6cef7b4b8eb9ae",
+    "texto": "Sistema de tratamento de resíduos sólidos: por exemplo: Número de células e dimensões, no caso de compostagem ou detalhes de outro sistema proposto.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-23-2026-anexo9.md#anexo9_lin18"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-24-2026-anexo9.md#anexo9_lin18"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "c79263bb952e7ede55e5742626b0dacdd3a2cd506b487e63c29fdf1dae289c08",
+    "texto": "a) Capacidade nominal e capacidade máxima (é a vazão que a ETA pode produzir, mantido o efluente dentro dos padrões de potabilidade);",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin54"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo12.md#anexo12_lin19"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "c82852100bd0171215c74f01d2a8c2b75f77b58f567448107da3e82086098ee4",
+    "texto": "c) Relação completa dos produtos químicos manuseados em sua atividade e respectivas quantidades estocadas (inclusive em equipamentos de processo);",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo3.md#anexo3_lin33"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo8.md#anexo8_lin54",
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo5.md#anexo5_lin33"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "c8adf2741e6e29488aa45e81ef29e1ad932e551dacd5c78e0b5f2bcfdcaeff87",
+    "texto": "• Descrição do empreendimento e apresentação das suas características técnicas, detalhando todas as instalações previstas e inclusive unidades de apoio;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-33-2025-anexo3.md#anexo3_lin33"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo3.md#anexo3_lin31"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "de46e3cc851c64617153bedfcba41faafb9425348683aad4a92153afc259eb7c",
+    "texto": "3.14 Identificar as áreas passíveis de desapropriação para implantação do empreendimento. No caso de remoção de população, apresentar dimensionamento preliminar e caracterização econômica e social da população a ser removida, bem como indicação dos locais propostos para reassentamento;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo10.md#anexo10_lin50"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo11.md#anexo11_lin62",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo8.md#anexo8_lin61",
+      "normas/anexos/instrucao-normativa-iat-37-2025-anexo9.md#anexo9_lin62"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "df2d50719f2f12d144344d4222844640b8debbe7b2ab189fde5cb230d3cf1390",
+    "texto": "a. Descritivo das obras e intervenções previstas, tais como supressão de vegetação, intervenções em corpos hídricos, movimentação de terra, entre outros;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-25-2025-anexo4.md#anexo4_lin30",
+      "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md#anexo4_lin29"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md#anexo9_lin45"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "dfd022b3069aed0af01ac17fde8695f995b3a611895fbf8072a91358aef7ff63",
+    "texto": "o CLASSE IV - Terras de alto risco ambiental – são terras com um ou mais fatores com grau de risco forte. Disposição final de efluente do solo somente em culturas perenes;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-65-2025-anexo9.md#anexo9_lin196"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-65-2025-anexo8.md#anexo8_lin136"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "dff342941801c8430a9b5e800486b40509480ea9b3c51dd66eecf5b6054790d9",
+    "texto": "a) em caso de armazenamento de produtos perigosos, tais como produtos tóxicos e inflamáveis, informar se existe Programa de Gerenciamento de Riscos Ambientais, conforme legislação vigente;",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md#anexo6_lin124"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/resolucao-sedest-39-2024-anexo3.md#anexo3_lin119"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "e484a63729eb468cd0beb06d1f9cfebc2134ed2d4096370347d249b68983cae4",
+    "texto": "O PLANO DE CONTROLE AMBIENTAL deverá ser elaborado por técnico habilitado e apresentados para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md#anexo4_lin1"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo4.md#anexo4_lin1",
+      "normas/anexos/instrucao-normativa-iat-33-2025-anexo4.md#anexo4_lin1"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "e7edafb554e90b4b06fa1719801ea7d473afe6e9403d996724fb4529f9b86c1f",
+    "texto": "Deverá ser apresentado o Plano de Controle de Poluição do Ar, especificando as medidas a serem tomadas para atender os padrões de emissão e de condicionamento e os padrões de qualidade do ar no entorno.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-25-2025-anexo6.md#anexo6_lin107"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/resolucao-sedest-39-2024-anexo3.md#anexo3_lin106"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "e8d646bba24fffba99e08faa674438509e1907eb9ac7168f521c77ce8ed2c7c3",
+    "texto": "Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos/projetos/laudos/relatórios apresentados e dos responsáveis pela execução do empreendimento, junto aos respectivos conselhos de classe.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-21-2025-anexo10.md#anexo10_lin34"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/instrucao-normativa-iat-21-2025.md#art23_cpt_inc11",
+      "normas/instrucao-normativa-iat-27-2026.md#art37_cpt_inc9",
+      "normas/resolucao-sedest-48-2024.md#art18_cpt_inc11",
+      "normas/resolucao-sedest-48-2024.md#art20_cpt_inc13"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "eadb9f6ea76da31fd91a0160a45f751609e5a073f7f18c19c7930cd5ecd98f2b",
+    "texto": "Procedimentos para cada etapa de ocorrência de uma situação emergencial, considerando as atividades executadas e a capacitação dos profissionais existentes.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-25-2025-anexo9.md#anexo9_lin27"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo14.md#anexo14_lin22"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "eeb311704bad9ab103b8cb5342f3481adbd1ceb206159af29bb87616bee44d7f",
+    "texto": "Identificar as fontes de emissões atmosféricas. Descrever os sistemas de controle ambiental adotados, em especial quanto à ruídos e odores.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo4.md#anexo4_lin63"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-32-2025-anexo5.md#anexo5_lin69",
+      "normas/anexos/instrucao-normativa-iat-32-2025-anexo6.md#anexo6_lin55"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "f42c51f9b92e730c9e82ece2a79e9a7ccfcb4fa42e6121ad8d9443d1553c129d",
+    "texto": "• Projeção de impactos relacionados à qualidade do ar, com descritivo das possíveis fontes geradoras e suas características de funcionamento (potência nominal, horas de funcionamento, localização prevista, etc.)",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo6.md#anexo6_lin36"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo9.md#anexo9_lin36"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "f631aac463b5dc16a0fe6f1571c92323a094a236c9ce5fb93ede718ab540b4a8",
+    "texto": "A probabilidade de ocorrência de eventos deve levar em conta dados estatísticos ou, na ausência destes, conhecimento técnico de profissionais especializados no assunto, de forma que o Relatório Ambiental Preliminar deve ser realizado por equipe multidisciplinar.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo6.md#anexo6_lin80"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo9.md#anexo9_lin80"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "f78d1be168e90a5d649e4832ada30eaa767fe14a98e3a9938b06f1b4f009b954",
+    "texto": "• Citar possíveis fontes de contaminação ou alteração da qualidade da água resultante do processo do empreendimento.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo6.md#anexo6_lin54"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo9.md#anexo9_lin54"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "f83082874761e1b5ca796c08560dadd8be0af85313e1f40203d0baa1be76bfd6",
+    "texto": "O MCE deverá ser elaborado por técnico habilitado e apresentado para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-33-2025-anexo3.md#anexo3_lin1"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo3.md#anexo3_lin1",
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo3.md#anexo3_lin1",
+      "normas/anexos/instrucao-normativa-iat-32-2025-anexo3.md#anexo3_lin1"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "f93af79cc0249e06884ecf35b57a2f8ee0288be3832e3920db7ad853d92059bc",
+    "texto": "- Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-25-2025-anexo4.md#anexo4_lin38",
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo3.md#anexo3_lin41",
+      "normas/anexos/instrucao-normativa-iat-65-2025-anexo4.md#anexo4_lin39"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo8.md#anexo8_lin60",
+      "normas/anexos/instrucao-normativa-iat-28-2026-anexo5.md#anexo5_lin40",
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo5.md#anexo5_lin40",
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo7.md#anexo7_lin60"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "f96f85b3c1f56861d5fd3c410c60b3df0255c87fdbba278bfba7852e60a24ade",
+    "texto": "Deverá ser apresentado o croqui de localização do empreendimento com imagem aérea, contendo no mínimo:",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-33-2025-anexo3.md#anexo3_lin22"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-30-2025-anexo3.md#anexo3_lin21",
+      "normas/anexos/instrucao-normativa-iat-31-2025-anexo3.md#anexo3_lin22",
+      "normas/anexos/instrucao-normativa-iat-32-2025-anexo3.md#anexo3_lin23"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  },
+  {
+    "sha256": "ff1ebef22c934c0a9a67b282e5367a9254fee95f79dac5d22274b38c19e90bc6",
+    "texto": "a) Descritivo das obras e intervenções previstas, tais como supressão de vegetação, intervenções em corpos hídricos, movimentação de terra, entre outros.",
+    "decisoes_existentes": [
+      "normas/anexos/instrucao-normativa-iat-28-2025-anexo3.md#anexo3_lin29"
+    ],
+    "ocorrencias_a_conferir": [
+      "normas/anexos/instrucao-normativa-iat-41-2025-anexo5.md#anexo5_lin29"
+    ],
+    "aviso": "Identidade textual não prova aplicabilidade ou equivalência de tags; conferir norma-mãe, seção, remissões e vigência."
+  }
+]

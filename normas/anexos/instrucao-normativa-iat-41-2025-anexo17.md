@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Caracterização agronômica de resíduo / laudo de potencial agronômico
 atividades: [compostagem]
 modalidades: [aa]
-tags: [diretriz-estudo, caracterizacao-agronomica, compostagem, residuo-solido, classificacao-residuo, ibama, metal-pesado, limite-contaminante, patogeno, fertilizante, laudo-tecnico, laboratorio, responsavel-tecnico, indeferimento]
+tags: [art-anotacao, caracterizacao-agronomica, classificacao-residuo, compostagem, indeferimento, laudo-analitico, limite-contaminante, patogeno, responsavel-tecnico]
 fonte: PDF da IN IAT 41/2025 (in41.pdf), páginas 216 a 219
 ---
 
@@ -19,28 +19,28 @@ fonte: PDF da IN IAT 41/2025 (in41.pdf), páginas 216 a 219
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo XVII, linha 1** {#anexo17_lin1} #ibama #residuo-solido Inicialmente, informar a caracterização genérica do resíduo, conforme tabela abaixo.
+- **Anexo XVII, linha 1** {#anexo17_lin1} #classificacao-residuo Inicialmente, informar a caracterização genérica do resíduo, conforme tabela abaixo.
 
 **Tabela 1 – Caracterização genérica do resíduo (sem título no original)** {#anexo17_tab1}
 
-- **Anexo XVII, Tabela 1, linha 1** {#anexo17_tab1_lin1} #ibama Descrição do resíduo: *Ex.: Restos de produção* | Codificação ([[instrucao-normativa-ibama-13-2012|IN IBAMA 13/2012]]): *Ex.: 02 03 04* | Descrição conforme codificação IBAMA: *Ex.: Materiais impróprios para consumo ou processamento*
+- **Anexo XVII, Tabela 1, linha 1** {#anexo17_tab1_lin1} #classificacao-residuo Descrição do resíduo: *Ex.: Restos de produção* | Codificação ([[instrucao-normativa-ibama-13-2012|IN IBAMA 13/2012]]): *Ex.: 02 03 04* | Descrição conforme codificação IBAMA: *Ex.: Materiais impróprios para consumo ou processamento*
 
-- **Anexo XVII, linha 2** {#anexo17_lin2} #metal-pesado #limite-contaminante Proceder com a análise química da massa bruta do resíduo e realizar o comparativo aos parâmetros legais estabelecidos no [[instrucao-normativa-iat-41-2025#anexo12|ANEXO XII]] desta Instrução Normativa, utilizando a tabela abaixo como exemplo.
+- **Anexo XVII, linha 2** {#anexo17_lin2} #limite-contaminante Proceder com a análise química da massa bruta do resíduo e realizar o comparativo aos parâmetros legais estabelecidos no [[instrucao-normativa-iat-41-2025#anexo12|ANEXO XII]] desta Instrução Normativa, utilizando a tabela abaixo como exemplo.
 
 **Tabela 2 – Contaminantes inorgânicos e parâmetros físicos da massa bruta (sem título no original)** {#anexo17_tab2}
 
-- **Anexo XVII, Tabela 2, linha 1** {#anexo17_tab2_lin1} #metal-pesado Contaminantes Inorgânicos: Arsênio (As) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 41 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
-- **Anexo XVII, Tabela 2, linha 2** {#anexo17_tab2_lin2} #metal-pesado Contaminantes Inorgânicos: Bário (Ba) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 1300 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
-- **Anexo XVII, Tabela 2, linha 3** {#anexo17_tab2_lin3} #metal-pesado Contaminantes Inorgânicos: Cádmio (Cd) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 20 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
-- **Anexo XVII, Tabela 2, linha 4** {#anexo17_tab2_lin4} #metal-pesado Contaminantes Inorgânicos: Cobre (Cu) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 1000 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
-- **Anexo XVII, Tabela 2, linha 5** {#anexo17_tab2_lin5} #metal-pesado Contaminantes Inorgânicos: Cromo (Cr) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 1000 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
-- **Anexo XVII, Tabela 2, linha 6** {#anexo17_tab2_lin6} #metal-pesado Contaminantes Inorgânicos: Cromo Hexavalente (Cr<sup>+6</sup>) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 20 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
-- **Anexo XVII, Tabela 2, linha 7** {#anexo17_tab2_lin7} #metal-pesado Contaminantes Inorgânicos: Chumbo (Pb) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 300 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
-- **Anexo XVII, Tabela 2, linha 8** {#anexo17_tab2_lin8} #metal-pesado Contaminantes Inorgânicos: Mercúrio (Hg) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 16 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
-- **Anexo XVII, Tabela 2, linha 9** {#anexo17_tab2_lin9} #metal-pesado Contaminantes Inorgânicos: Molibdênio (Mo) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 50 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
-- **Anexo XVII, Tabela 2, linha 10** {#anexo17_tab2_lin10} #metal-pesado Contaminantes Inorgânicos: Níquel (Ni) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 420 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
-- **Anexo XVII, Tabela 2, linha 11** {#anexo17_tab2_lin11} #metal-pesado Contaminantes Inorgânicos: Selênio (Se) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 100 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
-- **Anexo XVII, Tabela 2, linha 12** {#anexo17_tab2_lin12} #metal-pesado Contaminantes Inorgânicos: Zinco (Zn) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 2500 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
+- **Anexo XVII, Tabela 2, linha 1** {#anexo17_tab2_lin1} #limite-contaminante Contaminantes Inorgânicos: Arsênio (As) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 41 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
+- **Anexo XVII, Tabela 2, linha 2** {#anexo17_tab2_lin2} #limite-contaminante Contaminantes Inorgânicos: Bário (Ba) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 1300 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
+- **Anexo XVII, Tabela 2, linha 3** {#anexo17_tab2_lin3} #limite-contaminante Contaminantes Inorgânicos: Cádmio (Cd) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 20 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
+- **Anexo XVII, Tabela 2, linha 4** {#anexo17_tab2_lin4} #limite-contaminante Contaminantes Inorgânicos: Cobre (Cu) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 1000 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
+- **Anexo XVII, Tabela 2, linha 5** {#anexo17_tab2_lin5} #limite-contaminante Contaminantes Inorgânicos: Cromo (Cr) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 1000 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
+- **Anexo XVII, Tabela 2, linha 6** {#anexo17_tab2_lin6} #limite-contaminante Contaminantes Inorgânicos: Cromo Hexavalente (Cr<sup>+6</sup>) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 20 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
+- **Anexo XVII, Tabela 2, linha 7** {#anexo17_tab2_lin7} #limite-contaminante Contaminantes Inorgânicos: Chumbo (Pb) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 300 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
+- **Anexo XVII, Tabela 2, linha 8** {#anexo17_tab2_lin8} #limite-contaminante Contaminantes Inorgânicos: Mercúrio (Hg) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 16 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
+- **Anexo XVII, Tabela 2, linha 9** {#anexo17_tab2_lin9} #limite-contaminante Contaminantes Inorgânicos: Molibdênio (Mo) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 50 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
+- **Anexo XVII, Tabela 2, linha 10** {#anexo17_tab2_lin10} #limite-contaminante Contaminantes Inorgânicos: Níquel (Ni) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 420 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
+- **Anexo XVII, Tabela 2, linha 11** {#anexo17_tab2_lin11} #limite-contaminante Contaminantes Inorgânicos: Selênio (Se) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 100 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
+- **Anexo XVII, Tabela 2, linha 12** {#anexo17_tab2_lin12} #limite-contaminante Contaminantes Inorgânicos: Zinco (Zn) | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 2500 mg.kg<sup>-1</sup> | Status: Conforme ou Não Conforme
 - **Anexo XVII, Tabela 2, linha 13** {#anexo17_tab2_lin13} Parâmetros Físicos: pH | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: 4 ≤ pH ≤ 12 | Status: Conforme ou Não Conforme
 - **Anexo XVII, Tabela 2, linha 14** {#anexo17_tab2_lin14} Parâmetros Físicos: Umidade | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: ≤ 90% | Status: Conforme ou Não Conforme
 
@@ -50,7 +50,7 @@ fonte: PDF da IN IAT 41/2025 (in41.pdf), páginas 216 a 219
 - **Anexo XVII, Tabela 3, linha 2** {#anexo17_tab3_lin2} #patogeno Contaminantes: *Salmonella sp.* | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: N.E. | Status: Conformidade dependente da apresentação de laudos quadrimestrais do produto, com valores dentro do estabelecido pelo [[instrucao-normativa-iat-41-2025#anexo13|ANEXO XIII]] desta Instrução Normativa
 - **Anexo XVII, Tabela 3, linha 3** {#anexo17_tab3_lin3} #patogeno Contaminantes: Ovos Viáveis de Helmintos | Valor Obtido em Análise: (em branco no original) | Valor Máx. Permitido: N.E. | Status: Conformidade dependente da apresentação de laudos quadrimestrais do produto, com valores dentro do estabelecido pelo [[instrucao-normativa-iat-41-2025#anexo13|ANEXO XIII]] desta Instrução Normativa
 
-- **Anexo XVII, linha 3** {#anexo17_lin3} #caracterizacao-agronomica #fertilizante Realizar a apresentação da análise agronômica da massa bruta do resíduo, informando os parâmetros de interesse. A tabela abaixo apresenta um exemplo contemplando os aspectos nutricionais mais comuns.
+- **Anexo XVII, linha 3** {#anexo17_lin3} #caracterizacao-agronomica Realizar a apresentação da análise agronômica da massa bruta do resíduo, informando os parâmetros de interesse. A tabela abaixo apresenta um exemplo contemplando os aspectos nutricionais mais comuns.
 
 **Tabela 4 – Parâmetros nutricionais da massa bruta (sem título no original)** {#anexo17_tab4}
 
@@ -75,11 +75,11 @@ fonte: PDF da IN IAT 41/2025 (in41.pdf), páginas 216 a 219
 - **Anexo XVII, linha 5** {#anexo17_lin5} DISCUSSÃO E CONCLUSÃO
 - **Anexo XVII, linha 6** {#anexo17_lin6} #caracterizacao-agronomica #compostagem Apresentar discussão técnica apresentando o comparativo do resíduo de interesse com resíduos consolidados no uso agrícola (ex.: cama de aviário, vinhaça, bagaço de cana-de-açúcar, restos alimentares, etc.) disponíveis na literatura nacional e internacional e concluir, de forma simples e objetiva, quais parâmetros do resíduo serão de interesse para o processo de compostagem (*ex.: o resíduo A possui o parâmetro X, sendo útil para manutenção da relação C/N do processo*)
 - **Anexo XVII, linha 7** {#anexo17_lin7} #indeferimento A apresentação de dados inconsistentes incorrerá no risco de indeferimento da autorização.
-- **Anexo XVII, linha 8** {#anexo17_lin8} #responsavel-tecnico #laudo-tecnico O profissional legalmente habilitado deverá informar seu registro no conselho de classe e assinar o laudo de caracterização, podendo ser assinatura de próprio punho, dispensada a anotação de responsabilidade técnica neste caso.
+- **Anexo XVII, linha 8** {#anexo17_lin8} #responsavel-tecnico #caracterizacao-agronomica #art-anotacao O profissional legalmente habilitado deverá informar seu registro no conselho de classe e assinar o laudo de caracterização, podendo ser assinatura de próprio punho, dispensada a anotação de responsabilidade técnica neste caso.
 - **Anexo XVII, linha 9** {#anexo17_lin9} REFERÊNCIAS
 - **Anexo XVII, linha 10** {#anexo17_lin10} Apresentar as referências de literatura utilizadas para embasar a discussão técnica.
 - **Anexo XVII, linha 11** {#anexo17_lin11} ANEXOS
-- **Anexo XVII, linha 12** {#anexo17_lin12} #laboratorio #laudo-tecnico Nos anexos, deverão constar os laudos laboratoriais que embasaram a caracterização, de forma legível. Anexar os arquivos com auxílio de ferramentas de junção de documentos em .pdf.
+- **Anexo XVII, linha 12** {#anexo17_lin12} #laudo-analitico Nos anexos, deverão constar os laudos laboratoriais que embasaram a caracterização, de forma legível. Anexar os arquivos com auxílio de ferramentas de junção de documentos em .pdf.
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

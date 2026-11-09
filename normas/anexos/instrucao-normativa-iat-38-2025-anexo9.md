@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: Projeto Agronômico
 atividades: [utilizacao-agricola-lodo-esgoto]
 modalidades: []
-tags: [lodo-esgoto, solo, responsabilidade-tecnica]
+tags: [analise-solo, autorizacao-ambiental, limite-contaminante, lodo-esgoto, projeto-agronomico, responsavel-tecnico, taxa-aplicacao]
 ---
 
 # ANEXO IX — Seção III — Do Termo de referência Para Elaboração Do Projeto Agronômico
@@ -15,7 +15,7 @@ Exigido em: [[instrucao-normativa-iat-38-2025#art83|Art. 83]], para toda aplica�
 
 ## Texto do anexo
 
-- **Anexo IX, Seção III, disposição 1** {#anexo9_lin1001} 1) Deverá conter cabeçalho com a numeração do projeto de forma sequencial, por ano e para cada UGL, identificação do lote de lodo e respectivo número da Autorização Ambiental (AA). Ex:
+- **Anexo IX, Seção III, disposição 1** {#anexo9_lin1001} #projeto-agronomico #lodo-esgoto #autorizacao-ambiental 1) Deverá conter cabeçalho com a numeração do projeto de forma sequencial, por ano e para cada UGL, identificação do lote de lodo e respectivo número da Autorização Ambiental (AA). Ex:
 
 - **Anexo IX, Seção III, disposição 2** {#anexo9_lin1002} Projeto Agronômico 01/2025 UGL XXXX - Município de XXXX Lote XXX – AA n°
 
@@ -33,11 +33,11 @@ Exigido em: [[instrucao-normativa-iat-38-2025#art83|Art. 83]], para toda aplica�
 
 - **Anexo IX, Seção III, disposição 9** {#anexo9_lin1009} - Informações do laudo de caracterização microbiológico;
 
-- **Anexo IX, Seção III, disposição 10** {#anexo9_lin1010} - Informações dos laudos de caracterização para substâncias inorgânicas e orgânicas, bem como a carga de aplicação ao solo;
+- **Anexo IX, Seção III, disposição 10** {#anexo9_lin1010} #limite-contaminante - Informações dos laudos de caracterização para substâncias inorgânicas e orgânicas, bem como a carga de aplicação ao solo;
 
 - **Anexo IX, Seção III, disposição 11** {#anexo9_lin1011} - Estabilidade.
 
-- **Anexo IX, Seção III, disposição 12** {#anexo9_lin1012} - Identificação do responsável técnico da UGL e respectiva assinatura.
+- **Anexo IX, Seção III, disposição 12** {#anexo9_lin1012} #responsavel-tecnico - Identificação do responsável técnico da UGL e respectiva assinatura.
 
 - **Anexo IX, Seção III, disposição 13** {#anexo9_lin1013} 4) Informações do produtor rural e da propriedade:
 
@@ -79,7 +79,7 @@ Exigido em: [[instrucao-normativa-iat-38-2025#art83|Art. 83]], para toda aplica�
 
 - **Anexo IX, Seção III, disposição 32** {#anexo9_lin1032} 6) Caracterização de fertilidade da área de aplicação e classificação de aptidão:
 
-- **Anexo IX, Seção III, disposição 33** {#anexo9_lin1033} - Análise básica de fertilidade e granulometria do solo da área de aplicação;
+- **Anexo IX, Seção III, disposição 33** {#anexo9_lin1033} #analise-solo - Análise básica de fertilidade e granulometria do solo da área de aplicação;
 
 - **Anexo IX, Seção III, disposição 34** {#anexo9_lin1034} - Classificação de aptidão;
 
@@ -87,9 +87,9 @@ Exigido em: [[instrucao-normativa-iat-38-2025#art83|Art. 83]], para toda aplica�
 
 - **Anexo IX, Seção III, disposição 36** {#anexo9_lin1036} 7) Recomendação agronômica da utilização do lodo e adubação complementar:
 
-- **Anexo IX, Seção III, disposição 37** {#anexo9_lin1037} - Apresentação do critério para definição da taxa de aplicação;
+- **Anexo IX, Seção III, disposição 37** {#anexo9_lin1037} #taxa-aplicacao - Apresentação do critério para definição da taxa de aplicação;
 
-- **Anexo IX, Seção III, disposição 38** {#anexo9_lin1038} - Taxa de aplicação, em Massa total e Sólidos Totais;
+- **Anexo IX, Seção III, disposição 38** {#anexo9_lin1038} #taxa-aplicacao - Taxa de aplicação, em Massa total e Sólidos Totais;
 
 - **Anexo IX, Seção III, disposição 39** {#anexo9_lin1039} - Quantidade equivalente de N, P e K presente no lodo:
 
@@ -99,7 +99,7 @@ Exigido em: [[instrucao-normativa-iat-38-2025#art83|Art. 83]], para toda aplica�
 
 - **Anexo IX, Seção III, disposição 42** {#anexo9_lin1042} - Benefício econômico da utilização do lodo com a substituição de insumos na adubação;
 
-- **Anexo IX, Seção III, disposição 43** {#anexo9_lin1043} - Identificação do agrônomo responsável técnico pela recomendação e respectiva assinatura.
+- **Anexo IX, Seção III, disposição 43** {#anexo9_lin1043} #responsavel-tecnico - Identificação do agrônomo responsável técnico pela recomendação e respectiva assinatura.
 
 - **Anexo IX, Seção III, disposição 44** {#anexo9_lin1044} 8) Exigências legais:
 
