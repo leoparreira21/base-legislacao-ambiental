@@ -9,6 +9,7 @@ normas/            um arquivo .md por norma
 normas/anexos/     anexos de diretrizes de estudos e termos de referência (tipo 2), um arquivo por anexo
 normas/comentarios/ comentários oficiais a uma norma (ex.: versão comentada da Anvisa), um arquivo por documento
 scripts/validar.py validação da base (rodar antes de cada commit)
+scripts/conversor_planalto/ conversor de PDF compilado (Planalto/Câmara) para o padrão da base
 html/              versão HTML de consulta de cada norma e catalogo.js (gerados por scripts/gerar_html.py; não editar à mão)
 biblioteca/        código-fonte da biblioteca (site/biblioteca.html): lista das normas com busca, filtros e leitor
 tags.md            lista das tags em uso (gerada pelo script)
@@ -21,6 +22,8 @@ licoes.md          armadilhas e contornos registrados pelos agentes (ver CLAUDE.
 ### Nome do arquivo
 `tipo-orgao/esfera-numero-ano.md`, tudo em minúsculas, sem acento e sem pontos no número.
 Exemplos: `lei-estadual-22252-2024`, `decreto-estadual-9541-2025`, `resolucao-cema-107-2020`, `lei-federal-12651-2012`, `lei-complementar-federal-140-2011`, `resolucao-conjunta-sedest-iat-6-2023`.
+
+Outros tipos (propostas de 09/11/2026, em uso): `constituicao-federal-1988` (`tipo: constituicao`, `numero: "s/n"`), `emenda-constitucional-federal-N-AAAA`, `emenda-constitucional-revisao-federal-N-AAAA`, `decreto-lei-federal-N-AAAA`, `medida-provisoria-N-AAAA`. Artigo com milhar ("Art. 1.015"): ID `art1015`, rótulo como no original.
 
 ### Frontmatter
 ```yaml
@@ -61,7 +64,7 @@ As relações são **recíprocas**: se A `altera` B, B tem A em `alterado_por`. 
 | Tabela no corpo de um artigo | `art14_tab1` | `**Art. 14, Tabela I**` |
 | Linha de tabela no corpo de um artigo | `art14_tab1_lin3` | `- **Art. 14, Tabela I, linha 3**` |
 
-Títulos, capítulos e seções usam `##`, `###`, `####` e `#####`; artigos usam `######`. Abaixo do cabeçalho de cada artigo vai uma linha `Tags:` com as tags do artigo inteiro.
+Títulos, capítulos e seções usam `##`, `###`, `####` e `#####`; artigos usam `######`. Em códigos com seis níveis (Parte, Livro, Título, Capítulo, Seção, Subseção), a Parte entra no título do seu primeiro Livro e Seção e Subseção ficam ambas em `#####`. Na Constituição, o ADCT fica no mesmo arquivo, sob `## ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS {#adct}`, com IDs prefixados (`adct_art1`, `adct_art2_par1`). Abaixo do cabeçalho de cada artigo vai uma linha `Tags:` com as tags do artigo inteiro.
 
 ### Links
 - Para outra norma: `[[lei-federal-12651-2012#art3|incisos VIII e IX do art. 3º da Lei 12.651/2012]]`

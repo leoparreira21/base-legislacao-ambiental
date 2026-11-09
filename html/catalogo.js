@@ -1,5 +1,16 @@
 window.CATALOGO_NORMAS = [
 {
+"arquivo": "constituicao-federal-1988",
+"norma": "Constituição Federal de 1988",
+"tipo": "constituicao",
+"esfera": "federal",
+"orgao": "Assembleia Nacional Constituinte",
+"ano": 1988,
+"ementa": "Constituição da República Federativa do Brasil (sem ementa no original).",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "decreto-estadual-12799-2026",
 "norma": "Decreto Estadual nº 12.799/2026",
 "tipo": "decreto",
@@ -440,6 +451,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "lei-federal-11326-2006",
+"norma": "Lei Federal nº 11.326/2006",
+"tipo": "lei",
+"esfera": "federal",
+"orgao": "Presidência da República",
+"ano": 2006,
+"ementa": "Estabelece as diretrizes para a formulação da Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "lei-federal-11428-2006",
 "norma": "Lei Federal nº 11.428/2006",
 "tipo": "lei",
@@ -466,6 +488,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "lei-federal-11977-2009",
+"norma": "Lei Federal nº 11.977/2009",
+"tipo": "lei",
+"esfera": "federal",
+"orgao": "Presidência da República",
+"ano": 2009,
+"ementa": "Dispõe sobre o Programa Minha Casa, Minha Vida - PMCMV e a regularização fundiária de assentamentos localizados em áreas urbanas; altera o Decreto-Lei nº 3.365, de 21 de junho de 1941, as Leis nºs 4.380, de 21 de agosto de 1964, 6.015, de 31 de dezembro de 1973, 8.036, de 11 de maio de 1990, e 10.257, de 10 de julho de 2001, e a Medida Provisória nº 2.197-43, de 24 de agosto de 2001; e dá outras providências.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "lei-federal-12305-2010",
 "norma": "Lei Federal nº 12.305/2010",
 "tipo": "lei",
@@ -484,6 +517,17 @@ window.CATALOGO_NORMAS = [
 "orgao": "Presidência da República",
 "ano": 2012,
 "ementa": "Dispõe sobre a proteção da vegetação nativa; altera as Leis nºs 6.938, de 31 de agosto de 1981, 9.393, de 19 de dezembro de 1996, e 11.428, de 22 de dezembro de 2006; revoga as Leis nºs 4.771, de 15 de setembro de 1965, e 7.754, de 14 de abril de 1989, e a Medida Provisória nº 2.166-67, de 24 de agosto de 2001; e dá outras providências.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "lei-federal-13105-2015",
+"norma": "Lei Federal nº 13.105/2015",
+"tipo": "lei",
+"esfera": "federal",
+"orgao": "Presidência da República",
+"ano": 2015,
+"ementa": "Código de Processo Civil.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -519,6 +563,28 @@ window.CATALOGO_NORMAS = [
 ]
 },
 {
+"arquivo": "lei-federal-4771-1965",
+"norma": "Lei Federal nº 4.771/1965",
+"tipo": "lei",
+"esfera": "federal",
+"orgao": "Presidência da República",
+"ano": 1965,
+"ementa": "Institui o novo Código Florestal.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "lei-federal-5869-1973",
+"norma": "Lei Federal nº 5.869/1973",
+"tipo": "lei",
+"esfera": "federal",
+"orgao": "Presidência da República",
+"ano": 1973,
+"ementa": "Institui o Código de Processo Civil.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
 "arquivo": "lei-federal-6938-1981",
 "norma": "Lei Federal nº 6.938/1981",
 "tipo": "lei",
@@ -532,6 +598,17 @@ window.CATALOGO_NORMAS = [
 "PNMA",
 "Lei da PNMA"
 ]
+},
+{
+"arquivo": "lei-federal-8847-1994",
+"norma": "Lei Federal nº 8.847/1994",
+"tipo": "lei",
+"esfera": "federal",
+"orgao": "Presidência da República",
+"ano": 1994,
+"ementa": "Dispõe sobre o Imposto sobre a Propriedade Territorial Rural (ITR) e dá outras providências.",
+"situacao": "vigente",
+"apelidos": []
 },
 {
 "arquivo": "lei-federal-9433-1997",

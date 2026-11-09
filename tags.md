@@ -13,7 +13,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#aeroporto` | 4 |
 | `#agencia-agua` | 1 |
 | `#aglomerado-populacional` | 15 |
-| `#agricultura-familiar` | 8 |
+| `#agricultura-familiar` | 9 |
 | `#agropecuaria` | 9 |
 | `#agrotoxico` | 13 |
 | `#agua-doce` | 1 |
@@ -179,7 +179,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#compartimentalizacao` | 1 |
 | `#compensacao-financeira` | 3 |
 | `#compensacao-reserva-legal` | 1 |
-| `#competencia` | 17 |
+| `#competencia` | 18 |
 | `#complementacao` | 13 |
 | `#complementacao-taxa` | 1 |
 | `#compostagem` | 16 |
@@ -284,7 +284,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#edificacao-rural` | 2 |
 | `#educacao-ambiental` | 7 |
 | `#efluente` | 50 |
-| `#eia-rima` | 19 |
+| `#eia-rima` | 20 |
 | `#eiv` | 1 |
 | `#eletroeletronico` | 2 |
 | `#embalagem` | 11 |
@@ -312,7 +312,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#esgoto-sanitario` | 20 |
 | `#especie-ameacada` | 7 |
 | `#especie-exotica` | 13 |
-| `#estado` | 9 |
+| `#estado` | 10 |
 | `#estudo-ambiental` | 15 |
 | `#estudo-dispersao` | 2 |
 | `#eutrofizacao` | 1 |
@@ -377,7 +377,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#incentivo` | 3 |
 | `#incentivo-reuso` | 2 |
 | `#incineracao` | 5 |
-| `#incluido` | 17 |
+| `#incluido` | 23 |
 | `#inconstitucional` | 1 |
 | `#indeferimento` | 5 |
 | `#industria` | 4 |
@@ -415,7 +415,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#irrigacao` | 8 |
 | `#isencao` | 8 |
 | `#isolamento-acustico` | 2 |
-| `#itr` | 1 |
+| `#itr` | 2 |
 | `#jazida` | 2 |
 | `#jucepar` | 1 |
 | `#karst` | 3 |
@@ -488,7 +488,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#medida-cautelar` | 1 |
 | `#medida-compensatoria` | 13 |
 | `#medida-mitigadora` | 24 |
-| `#meio-ambiente` | 3 |
+| `#meio-ambiente` | 4 |
 | `#memorial-caracterizacao` | 18 |
 | `#mercurio` | 3 |
 | `#meta` | 4 |
@@ -496,9 +496,9 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#metodo-analise` | 1 |
 | `#microempresa` | 4 |
 | `#microrregiao` | 3 |
-| `#mineracao` | 12 |
+| `#mineracao` | 13 |
 | `#minerais-nao-metalicos` | 6 |
-| `#ministerio-publico` | 6 |
+| `#ministerio-publico` | 7 |
 | `#modalidade` | 13 |
 | `#modulo-fiscal` | 1 |
 | `#monitoramento` | 37 |
@@ -509,7 +509,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#movimentacao-solo` | 13 |
 | `#mtr` | 9 |
 | `#multa` | 8 |
-| `#municipio` | 19 |
+| `#municipio` | 20 |
 | `#nascente` | 6 |
 | `#nitrogenio` | 2 |
 | `#nivel-dispensa` | 1 |
@@ -645,7 +645,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#recuperacao-energetica` | 2 |
 | `#recurso-administrativo` | 3 |
 | `#recurso-hidrico` | 24 |
-| `#redacao-alterada` | 17 |
+| `#redacao-alterada` | 23 |
 | `#rede-distribuicao-reuso` | 1 |
 | `#rede-eletrica` | 2 |
 | `#rede-esgoto` | 4 |
@@ -695,7 +695,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#reutilizacao` | 9 |
 | `#revisao-norma` | 1 |
 | `#revogacao` | 34 |
-| `#revogado` | 16 |
+| `#revogado` | 22 |
 | `#risco-ambiental` | 6 |
 | `#rlac` | 3 |
 | `#rlas` | 4 |
@@ -762,7 +762,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#termo-encerramento` | 1 |
 | `#termo-referencia` | 5 |
 | `#termo-responsabilidade-solidaria` | 1 |
-| `#terra-indigena` | 14 |
+| `#terra-indigena` | 15 |
 | `#terraplanagem` | 19 |
 | `#teste-queima` | 1 |
 | `#textura-solo` | 6 |
@@ -788,7 +788,7 @@ Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento,
 | `#turbina` | 1 |
 | `#turbina-gas` | 1 |
 | `#turismo` | 5 |
-| `#uniao` | 4 |
+| `#uniao` | 5 |
 | `#unidade-conservacao` | 43 |
 | `#usina-asfalto` | 1 |
 | `#uso-agricola-efluente` | 6 |

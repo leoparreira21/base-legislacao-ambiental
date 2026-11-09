@@ -93,8 +93,9 @@ def validar(normas):
         dup = [i for i, c in collections.Counter(ids[n]).items() if c > 1]
         if dup:
             erros.append(f"{n}: IDs duplicados {dup}")
-        for rot, i in re.findall(r"\*\*Art\. (\d+)(?:º|-[A-Z])?[^*]*\*\* \{#(art\d+)", corpo):
-            if "art" + rot != re.match(r"art\d+", i).group(0):
+        for rot, i in re.findall(r"\*\*Art\. (\d{1,3}(?:\.\d{3})+|\d+)(?:º|-[A-Z])?[^*]*\*\* \{#(art\d+)", corpo):
+            # artigos com milhar ("Art. 1.015", CPC) têm ID sem o ponto (art1015)
+            if "art" + rot.replace(".", "") != re.match(r"art\d+", i).group(0):
                 erros.append(f"{n}: rótulo 'Art. {rot}' com ID '{i}'")
         for i in sorted(set(re.findall(r"\[\[#([\w-]+)", corpo)) - set(ids[n])):
             erros.append(f"{n}: link interno quebrado [[#{i}]]")
