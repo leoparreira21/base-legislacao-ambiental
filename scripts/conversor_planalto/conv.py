@@ -123,7 +123,7 @@ def kinds_of(ann):
     return res
 
 # ---------------------------------------------------------------- reconhecimento
-RE_HEAD = re.compile(r'^(PARTE|LIVRO|T[IÍ]TULO|CAP[IÍ]TULO|SE[ÇC][ÃA]O|SUBSE[ÇC][ÃA]O|Se[çc][ãa]o|Subse[çc][ãa]o)\s+'
+RE_HEAD = re.compile(r'^(PARTE|LIVRO|T[IÍ]TULO|CAP[IÍ]TULO|Cap[íi]tulo|SE[ÇC][ÃA]O|SUBSE[ÇC][ÃA]O|Se[çc][ãa]o|Subse[çc][ãa]o)\s+'
                      r'([IVXLC]+(?:-[A-Z])?|[ÚU]NIC[OA]|GERAL|ESPECIAL|COMPLEMENTAR)\b\.?\s*[-–]?\s*(.*)$')
 RE_ART = re.compile(r'^Art\.?\s*(\d+(?:\.\d{3})?)\s*([º°o](?![a-zà-ú]))?((?:-|\.)[A-Za-z]{1,2}(?![a-zà-ú]))?\s*\.?\s*[-–]?\s*(.*)$')
 RE_ARTS = re.compile(r'^Arts?\.\s*(\d+)\s*[º°o]?\s*(a|e)\s*(\d+)\s*[º°o]?(-[A-Z])?\.?\s*(.*)$')
@@ -167,7 +167,20 @@ class Parser:
 
     def reg(s, node, parent):
         s.revtexto(node)
-        parent.kids.append(node)
+        pend = getattr(s, 'pend', None)
+        if pend and pend[0].id == node.id:
+            oldn, par, k = pend
+            s.pend = None
+            node.kids = oldn.kids + node.kids
+            if not hasattr(s, 'parents'): s.byid, s.parents = {}, {}
+            for kk in oldn.kids:
+                s.parents[kk.id] = [node]
+            if par is parent:
+                parent.kids.insert(k, node)
+            else:
+                parent.kids.append(node)
+        else:
+            parent.kids.append(node)
         if not hasattr(s, 'byid'): s.byid, s.parents = {}, {}
         s.byid[node.id] = node
         s.parents[node.id] = [parent]
@@ -181,6 +194,17 @@ class Parser:
     def newid(s, i):
         s.ids[i] += 1
         old = s.byid.get(i) if hasattr(s, 'byid') else None
+        if s.cfg.get('dup_ultima') and s.ids[i] > 1:
+            # lei revogada por inteiro e toda tachada (ex.: Lei 8.666/1993): não há como separar a redação anterior
+            # da última; cada nova entrada de mesmo número substitui a anterior (fica a última redação)
+            s.ids[i] -= 1
+            s.substituidos = getattr(s, 'substituidos', 0) + 1
+            if old is not None:
+                for par in s.parents.get(i, []):
+                    if old in par.kids:
+                        s.pend = (old, par, par.kids.index(old))
+                        par.kids.remove(old)
+            return i
         def vazio(n):
             return not n.text.strip() and not n.extra and all(vazio(k) for k in n.kids)
         if s.ids[i] > 1 and old is not None and vazio(old):
@@ -221,12 +245,25 @@ class Parser:
         lab = art_label(num, suf, ordc)
         a = N('art', ident, lab)
         a.num = num
+        herdados = []
+        if s.cfg.get('dup_ultima'):
+            for k in range(len(s.items) - 1, -1, -1):
+                it = s.items[k]
+                if it[0] == 'art' and it[1].id == ident:
+                    herdados = it[1].kids[1:]
+                    del s.items[k]
+                    break
         s.items.append(('art', a))
         s.art = a
         s.head_open = None
         c = N('cpt', s.newid(ident + '_cpt'), f'{s.label_prefix}{lab}, caput', text, anns)
         s.revtexto(c)
         a.kids.append(c)
+        if herdados:
+            a.kids += herdados
+            if not hasattr(s, 'parents'): s.byid, s.parents = {}, {}
+            for kk in herdados:
+                s.parents[kk.id] = [a]
         s.cur_par = c
         s.cur_inc = None
         s.cur_ali = None
@@ -247,7 +284,7 @@ class Parser:
             s.log.append('"S eção" no original, lido como "Seção"')
             t = 'Seção' + t[6:]
         # bloco citado (nova redação de outra norma), entre aspas
-        if s.art is not None and (getattr(s, 'in_quote', False) or re.match(r'^[“"]\s*(Art\.|§|[IVXLC]+\s*[-–]|[a-z]\)|\.{5})', t)):
+        if s.art is not None and (getattr(s, 'in_quote', False) or re.match(r'^[“"]\s*(Art\.|§|[IVXLC]+\s*[-–]|[a-z]\)|\.{5}|CAP[IÍ]TULO|T[IÍ]TULO|Se[çc][ãa]o)', t)):
             host = s.last
             novo = re.match(r'^[“"]\s*Art\.\s*([\d.]+[º°o]?(?:-[A-Z])?)', t)
             if not getattr(s, 'in_quote', False) or novo:

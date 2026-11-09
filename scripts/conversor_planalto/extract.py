@@ -36,6 +36,10 @@ def lines_of(doc):
     for pn, page in enumerate(doc):
         segs = segs_of(page)
         ws = [w for w in page.get_text('words') if not re.fullmatch(r'[\uf000-\uf8ff]+', w[4]) and w[3] > 32]
+        # rodap\u00e9 da impress\u00e3o do Safari/iOS (Quartz): "https://www.planalto.gov.br/... data, hora / P\u00e1gina X de Y"
+        rod = [w[1] for w in ws if w[1] > 0.85 * page.rect.height and re.match(r'^https?://(www\.)?planalto\.gov\.br', w[4])]
+        if rod:
+            ws = [w for w in ws if w[1] < min(rod) - 1]
         hs = sorted(w[3] - w[1] for w in ws) or [10]
         hmed = hs[len(hs) // 2]
         rows = []   # [y0, y1, words]

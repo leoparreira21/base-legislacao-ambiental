@@ -16,7 +16,7 @@ texto: "compilado (atualizado até a Lei nº 15.190/2025, conforme as anotaçõe
 nomes_alternativos: ["Lei de Crimes Ambientais", "Lei dos Crimes Ambientais", "Lei 9.605", "Lei 9.605/1998"]
 aplicacao: "Sanções penais e administrativas por condutas e atividades lesivas ao meio ambiente: aplicação da pena (arts. 6º a 24), apreensão (art. 25), ação e processo penal (arts. 26 a 28), crimes contra a fauna, a flora, a poluição, o ordenamento urbano e a administração ambiental (arts. 29 a 69-A), infração administrativa e suas sanções (arts. 70 a 76: advertência, multa, embargo, suspensão, apreensão), cooperação internacional (arts. 77 e 78) e disposições finais, com o termo de compromisso do art. 79-A. Os arts. 60 e 67 ligam a pena ao licenciamento ambiental."
 regulamenta: []
-regulamentado_por: []
+regulamentado_por: ["[[decreto-federal-6514-2008]]"]
 altera: []
 alterado_por: ["[[lei-federal-11284-2006]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12305-2010]]", "[[lei-federal-12408-2011]]", "[[lei-federal-13052-2014]]", "[[lei-federal-14064-2020]]", "[[lei-federal-14691-2023]]", "[[lei-federal-14944-2024]]", "[[lei-federal-15150-2025]]", "[[lei-federal-15190-2025]]", "[[lei-federal-15299-2025]]", "[[lei-federal-15355-2026]]", "[[lei-federal-9985-2000]]", "[[medida-provisoria-2163-41-2001]]"]
 revoga: []
