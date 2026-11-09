@@ -69,6 +69,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "decreto-federal-11080-2022",
+"norma": "Decreto Federal nº 11.080/2022",
+"tipo": "decreto",
+"esfera": "federal",
+"orgao": "Presidência da República",
+"ano": 2022,
+"ementa": "Altera o Decreto nº 6.514, de 22 de julho de 2008, para dispor sobre as infrações e sanções administrativas por condutas e atividades lesivas ao meio ambiente.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "decreto-federal-12688-2025",
 "norma": "Decreto Federal nº 12.688/2025",
 "tipo": "decreto",
@@ -76,6 +87,17 @@ window.CATALOGO_NORMAS = [
 "orgao": "Presidência da República",
 "ano": 2025,
 "ementa": "Regulamenta o art. 32, § 1º, e o art. 33, § 1º, da Lei nº 12.305, de 2 de agosto de 2010, e institui o sistema de logística reversa de embalagens de plástico.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "decreto-federal-6514-2008",
+"norma": "Decreto Federal nº 6.514/2008",
+"tipo": "decreto",
+"esfera": "federal",
+"orgao": "Presidência da República",
+"ano": 2008,
+"ementa": "Dispõe sobre as infrações e sanções administrativas ao meio ambiente, estabelece o processo administrativo federal para apuração destas infrações, e dá outras providências.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -440,6 +462,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "lei-federal-10257-2001",
+"norma": "Lei Federal nº 10.257/2001",
+"tipo": "lei",
+"esfera": "federal",
+"orgao": "Presidência da República",
+"ano": 2001,
+"ementa": "Regulamenta os arts. 182 e 183 da Constituição Federal, estabelece diretrizes gerais da política urbana e dá outras providências.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "lei-federal-11107-2005",
 "norma": "Lei Federal nº 11.107/2005",
 "tipo": "lei",
@@ -532,6 +565,28 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "lei-federal-13303-2016",
+"norma": "Lei Federal nº 13.303/2016",
+"tipo": "lei",
+"esfera": "federal",
+"orgao": "Presidência da República",
+"ano": 2016,
+"ementa": "Dispõe sobre o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "lei-federal-14133-2021",
+"norma": "Lei Federal nº 14.133/2021",
+"tipo": "lei",
+"esfera": "federal",
+"orgao": "Presidência da República",
+"ano": 2021,
+"ementa": "Lei de Licitações e Contratos Administrativos.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "lei-federal-15190-2025",
 "norma": "Lei Federal nº 15.190/2025",
 "tipo": "lei",
@@ -600,6 +655,28 @@ window.CATALOGO_NORMAS = [
 ]
 },
 {
+"arquivo": "lei-federal-8005-1990",
+"norma": "Lei Federal nº 8.005/1990",
+"tipo": "lei",
+"esfera": "federal",
+"orgao": "Congresso Nacional (promulgada pelo Presidente do Senado Federal)",
+"ano": 1990,
+"ementa": "Dispõe sobre a cobrança e a atualização dos créditos do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), e dá outras providências.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "lei-federal-8666-1993",
+"norma": "Lei Federal nº 8.666/1993",
+"tipo": "lei",
+"esfera": "federal",
+"orgao": "Presidência da República",
+"ano": 1993,
+"ementa": "Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e dá outras providências.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
 "arquivo": "lei-federal-8847-1994",
 "norma": "Lei Federal nº 8.847/1994",
 "tipo": "lei",
@@ -636,6 +713,17 @@ window.CATALOGO_NORMAS = [
 "Lei 9.605",
 "Lei 9.605/1998"
 ]
+},
+{
+"arquivo": "lei-federal-9784-1999",
+"norma": "Lei Federal nº 9.784/1999",
+"tipo": "lei",
+"esfera": "federal",
+"orgao": "Presidência da República",
+"ano": 1999,
+"ementa": "Regula o processo administrativo no âmbito da Administração Pública Federal.",
+"situacao": "vigente",
+"apelidos": []
 },
 {
 "arquivo": "lei-federal-9795-1999",

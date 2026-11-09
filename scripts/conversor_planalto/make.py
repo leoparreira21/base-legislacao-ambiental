@@ -27,8 +27,25 @@ def segmentos(toks):
         segs[-1].append(t)
     return segs
 
+def riscar(r, manter_anotacao=False):
+    """Marca o parágrafo como tachado (para o cfg corrigir a detecção). Com manter_anotacao, a anotação final
+    entre parênteses (ex.: "(Revogado pela ...)") fica sem tachado."""
+    r = dict(r)
+    t = r['t']
+    keep = ''
+    if manter_anotacao:
+        core, anns = split_annot(t)
+        if anns:
+            keep = ' '.join(f'({a})' for a in anns)
+            t = core
+    toks = ['~' + w for w in t.split()] + keep.split()
+    r['st'] = ' '.join(toks)
+    r['s'] = round(sum(1 for w in toks if w.startswith('~')) / max(1, len(toks)), 2)
+    return r
+
 def paragraphs(cfg):
     P = json.load(open(f"{SP}/{cfg['json']}.json"))
+    P = cfg.get('patch', lambda P: P)(P)
     out = []
     drop = []
     revog = []
@@ -36,7 +53,9 @@ def paragraphs(cfg):
     for i, r in enumerate(P):
         if r['s'] == 0 or i in cfg.get('forcar_manter', ()):
             out.append(r); continue
-        for toks in segmentos(r['st'].split(' ')):
+        # anotação "Vigência encerrada" (link do portal, sem tachado) colada a trecho tachado: é parte do tachado
+        st = re.sub(r'(~\S+) Vigência encerrada', r'\1 ~Vigência ~encerrada', r['st'])
+        for toks in segmentos(st.split(' ')):
             keep = ' '.join(t for t in toks if not t.startswith('~'))
             struck = ' '.join(t[1:] for t in toks if t.startswith('~'))
             if not struck:
@@ -44,7 +63,7 @@ def paragraphs(cfg):
             core, anns = split_annot(keep)
             resto = RE_MARK.sub('', core.strip()).strip(' -–.;:,')
             nst = sum(1 for t in toks if t.startswith('~'))
-            if resto and len(resto.split()) <= 2 and nst >= 8:
+            if resto and nst >= 8 and (len(resto.split()) <= 2 or all(re.fullmatch(r'(\d+[oº°]|[Nn][oº]s?|§|arts?\.?)[,.;:]?', w) for w in resto.split())):
                 parcial.append((i, 'sobra de tachado descartada', struck[:120], resto))
                 resto = ''
             if not resto:
@@ -98,6 +117,22 @@ def build(cfg):
         if cfg.get('pular') and cfg['pular'](t):
             continue
         pr.feed(t)
+    # entrada revogada (só rótulo e anotação) que repete o número de um dispositivo com texto: é de redação anterior
+    # já tachada (ex.: incisos do antigo parágrafo único); descartada
+    def vazio(n):
+        return not n.text.strip() and not n.extra and all(vazio(k) for k in n.kids)
+    def limpa(n):
+        ids = {k.id: k for k in n.kids}
+        novos = []
+        for k in n.kids:
+            m = re.match(r'^(.*)-dup\d+$', k.id)
+            if m and vazio(k) and m.group(1) in ids and not vazio(ids[m.group(1)]):
+                pr.log.append(f'revogado de redação anterior descartado: {k.id}'); continue
+            novos.append(k); limpa(k)
+        n.kids = novos
+    for it in pr.items:
+        if it[0] == 'art':
+            limpa(it[1])
     for it in pr.items:
         if it[0] == 'art':
             a = it[1]
@@ -138,7 +173,8 @@ def build(cfg):
             cfg['alterado_por_extra'] = sorted(set(cfg['alterado_por_extra']) | nomes)
         else:
             fmd[recip] = fm_list(sorted(atuais | nomes))
-    fmd['alterado_por'] = fm_list(sorted(set(alter) | set(cfg.get('alterado_por_extra', []))))
+    revpor = set(re.findall(r'\[\[([a-z0-9-]+)\]\]', fmd.get('revogado_por', '[]')))
+    fmd['alterado_por'] = fm_list(sorted((set(alter) | set(cfg.get('alterado_por_extra', []))) - revpor))   # quem revogou por inteiro fica só em revogado_por
     fmd['cita'] = fm_list(cita)
     alltags = sorted(t.lstrip('#') for t in rd.tags_usadas)
     fmd['tags'] = '[' + ', '.join(alltags) + ']'
