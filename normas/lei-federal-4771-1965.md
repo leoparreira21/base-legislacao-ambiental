@@ -15,7 +15,7 @@ apelido: Código Florestal de 1965 (revogado)
 situacao: revogada
 texto: compilado até a revogação (última alteração anotada: Lei nº 11.934/2009)
 regulamenta: []
-regulamentado_por: []
+regulamentado_por: ["[[resolucao-conama-303-2002]]"]
 altera: []
 alterado_por: ["[[lei-federal-11284-2006]]", "[[lei-federal-11428-2006]]", "[[lei-federal-11934-2009]]", "[[lei-federal-5868-1972]]", "[[lei-federal-5870-1973]]", "[[lei-federal-6535-1978]]", "[[lei-federal-7803-1989]]", "[[lei-federal-9985-2000]]", "[[medida-provisoria-2166-67-2001]]"]
 revoga: ["[[decreto-federal-23793-1934]]"]
@@ -676,3 +676,4 @@ Fonte: impressão em PDF do texto do Planalto ("L4771impressao", 11 páginas), e
 - Art. 26: alíneas "j" e "l" seguidas, sem "k" (alfabeto da época); mantidas.
 - Assinaturas: o PDF imprime os quatro nomes em sequência; separados um por linha.
 - Conferência automática do parser: sequência de alínea: art26_cpt_alil após art26_cpt_alij.
+
