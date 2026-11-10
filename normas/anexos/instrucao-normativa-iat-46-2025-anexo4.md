@@ -1,0 +1,419 @@
+---
+anexo: ANEXO IV
+titulo: "DIRETRIZES PARA ELABORAÇÃO E APRESENTAÇÃO DE PROJETOS DE CONTROLE DE POLUIÇÃO AMBIENTAL – PCPA E PROJETO DE TERRAPLANAGEM EM EMPREENDIMENTOS/ATIVIDADES INDUSTRIAIS"
+norma_mae: "[[instrucao-normativa-iat-46-2025]]"
+arquivo: instrucao-normativa-iat-46-2025-anexo4
+tipo_anexo: diretriz-estudo
+estudo: pcpa
+atividades: [fundicao-chumbo]
+modalidades: [li, lir]
+tags: [pcpa, fundicao-chumbo, terraplanagem, emissao-atmosferica, efluente, residuo-solido, agua-pluvial]
+fonte: PDF da IN IAT 46/2025 (eProtocolo nº 23.815.801-0), anexo integrante do arquivo assinado em 30/04/2025
+---
+
+# Instrução Normativa IAT nº 46/2025 – ANEXO IV {#instrucao-normativa-iat-46-2025-anexo4}
+
+> **DIRETRIZES PARA ELABORAÇÃO E APRESENTAÇÃO DE PROJETOS DE CONTROLE DE POLUIÇÃO AMBIENTAL – PCPA E PROJETO DE TERRAPLANAGEM EM EMPREENDIMENTOS/ATIVIDADES INDUSTRIAIS**  
+> Anexo de [[instrucao-normativa-iat-46-2025#anexo4|Instrução Normativa IAT nº 46/2025, ANEXO IV]].
+
+## Texto do anexo {#texto-anexo}
+
+- **Anexo IV, linha 1** {#anexo4_lin1} ANEXO IV
+- **Anexo IV, linha 2** {#anexo4_lin2} DIRETRIZES PARA ELABORAÇÃO E APRESENTAÇÃO DE PROJETOS DE CONTROLE DE POLUIÇÃO AMBIENTAL – PCPA E PROJETO DE TERRAPLANAGEM EM EMPREENDIMENTOS/ATIVIDADES INDUSTRIAIS
+- **Anexo IV, linha 3** {#anexo4_lin3} A. PROJETO DE CONTROLE DE POLUIÇÃO AMBIENTAL
+- **Anexo IV, linha 4** {#anexo4_lin4} O Projeto de Controle de Poluição Ambiental deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir. I.
+- **Anexo IV, linha 5** {#anexo4_lin5} MEMORIAL DESCRITIVO
+- **Anexo IV, linha 6** {#anexo4_lin6} 1. INFORMAÇÕES GERAIS
+- **Anexo IV, linha 7** {#anexo4_lin7} 1.1 INFORMAÇÕES CADASTRAIS
+- **Anexo IV, linha 8** {#anexo4_lin8} a. Razão social;
+- **Anexo IV, linha 9** {#anexo4_lin9} b. Nome Fantasia;
+- **Anexo IV, linha 10** {#anexo4_lin10} c. CNPJ e Inscrição Estadual;
+- **Anexo IV, linha 11** {#anexo4_lin11} d. Endereço completo da unidade a ser licenciada;
+- **Anexo IV, linha 12** {#anexo4_lin12} e. Endereço para correspondência;
+- **Anexo IV, linha 13** {#anexo4_lin13} f. Nome do responsável legal, telefone;
+- **Anexo IV, linha 14** {#anexo4_lin14} g. E-mail;
+- **Anexo IV, linha 15** {#anexo4_lin15} h. Número de funcionários; i.
+- **Anexo IV, linha 16** {#anexo4_lin16} Período de funcionamento.
+- **Anexo IV, linha 17** {#anexo4_lin17} 1.2 TIPO (NATUREZA) DO ESTABELECIMENTO INDUSTRIAL Indicar a tipologia do empreendimento e atividades a serem executadas conforme Classificação Nacional de Atividades Econômicas – CNAE.
+- **Anexo IV, linha 18** {#anexo4_lin18} 1.3 SITUAÇÃO DA INDÚSTRIA Indicar a situação atual do empreendimento (empreendimento novo, ampliação e(ou) reforma). Em caso de ampliação, apresentar o diagnóstico da situação atual do empreen-
+- **Anexo IV, linha 19** {#anexo4_lin19} dimento indicando as áreas e sistemas que passarão por modificações e melhorias.
+- **Anexo IV, linha 20** {#anexo4_lin20} 1.4 CARACTERIZAÇÃO DA ÁREA Apresentar a caracterização das áreas atuais do empreendimento, bem como das áreas previstas para as ampliações e(ou) reformas contendo no mínimo:
+- **Anexo IV, linha 21** {#anexo4_lin21} a. Para empreendimentos novos: i.
+- **Anexo IV, linha 22** {#anexo4_lin22} Área total;
+- **Anexo IV, linha 23** {#anexo4_lin23} ii.
+- **Anexo IV, linha 24** {#anexo4_lin24} Área a ser construída;
+- **Anexo IV, linha 25** {#anexo4_lin25} iii.
+- **Anexo IV, linha 26** {#anexo4_lin26} Área livre;
+- **Anexo IV, linha 27** {#anexo4_lin27} iv.
+- **Anexo IV, linha 28** {#anexo4_lin28} Áreas destinadas a ampliações futuras;
+- **Anexo IV, linha 29** {#anexo4_lin29} v.
+- **Anexo IV, linha 30** {#anexo4_lin30} Área destinada ao sistema de controle de poluição ambiental (central de resíduos sólidos, áreas de armazenamento temporário de resíduos, efluentes, estações de tratamento de efluentes e sistemas de controle de emissões atmosféricas);
+- **Anexo IV, linha 31** {#anexo4_lin31} b. Zoneamentos de acordo com as diretrizes municipais;
+- **Anexo IV, linha 32** {#anexo4_lin32} c. Coordenadas Geográficas em UTM;
+- **Anexo IV, linha 33** {#anexo4_lin33} d. Tipo e característica do solo;
+- **Anexo IV, linha 34** {#anexo4_lin34} e. Topografia;
+- **Anexo IV, linha 35** {#anexo4_lin35} f. Recursos Hídricos (nascentes, olhos d’água, cursos d’água, etc.);
+- **Anexo IV, linha 36** {#anexo4_lin36} g. Geologia/hidrogeologia/geotecnia;
+- **Anexo IV, linha 37** {#anexo4_lin37} h. Cobertura Vegetal; i.
+- **Anexo IV, linha 38** {#anexo4_lin38} Acessos (alternativas, condições de tráfego);
+- **Anexo IV, linha 39** {#anexo4_lin39} j.
+- **Anexo IV, linha 40** {#anexo4_lin40} Características do entorno (uso do solo, residências, áreas de interesse ambiental, etc.).
+- **Anexo IV, linha 41** {#anexo4_lin41} 1.5 CROQUI DE LOCALIZAÇÃO DO EMPREENDIMENTO COM IMAGEM AÉREA E CONTENDO NO MÍNIMO:
+- **Anexo IV, linha 42** {#anexo4_lin42} a. Distância dos recursos hídricos (nascentes, olhos d’água, cursos d’água, etc.);
+- **Anexo IV, linha 43** {#anexo4_lin43} b. Áreas de preservação permanente;
+- **Anexo IV, linha 44** {#anexo4_lin44} c. Unidades de Conservação Federais, Estaduais e Municipais;
+- **Anexo IV, linha 45** {#anexo4_lin45} d. Cobertura florestal;
+- **Anexo IV, linha 46** {#anexo4_lin46} e. Vias de acesso principais e pontos de referências.
+- **Anexo IV, linha 47** {#anexo4_lin47} f. Planta de implantação sobreposta ao mapa.
+- **Anexo IV, linha 48** {#anexo4_lin48} 1.6 CARACTERIZAÇÃO DAS OBRAS PREVISTAS
+- **Anexo IV, linha 49** {#anexo4_lin49} a. Descritivo das obras e intervenções previstas, tais como supressão de vegetação, intervenções em corpos hídricos, movimentação de terra, entre outros;
+- **Anexo IV, linha 50** {#anexo4_lin50} 1.7 CARACTERIZAÇÃO DA ATIVIDADE
+- **Anexo IV, linha 51** {#anexo4_lin51} a. Descritivo e fluxograma do processo industrial indicando no mínimo: i.
+- **Anexo IV, linha 52** {#anexo4_lin52} Todas as operações que compõem os processos ou linhas de produção;
+- **Anexo IV, linha 53** {#anexo4_lin53} ii.
+- **Anexo IV, linha 54** {#anexo4_lin54} Todos os pontos de introdução de água e vapor;
+- **Anexo IV, linha 55** {#anexo4_lin55} iii.
+- **Anexo IV, linha 56** {#anexo4_lin56} Todos os pontos de origem de efluentes líquidos, de emissões gasosas e resíduos sólidos.
+- **Anexo IV, linha 57** {#anexo4_lin57} b. Principais matérias primas e produtos a serem elaborados, quantitativo previsto e as formas de armazenamento e estocagem;
+- **Anexo IV, linha 58** {#anexo4_lin58} c. Relação completa dos produtos químicos manuseados em sua atividade e respectivas quantidades estocadas (inclusive em equipamentos de processo);
+- **Anexo IV, linha 59** {#anexo4_lin59} d. Principais instalações e unidades de apoio, tais como área industrial, pátio de estacionamento de veículos leves, pátio de estacionamento de veículos pesados, utilidades, estações de tratamento de água e efluentes, entre outros.
+- **Anexo IV, linha 60** {#anexo4_lin60} 2. INFORMAÇÕES SOBRE A ÁGUA UTILIZADA
+- **Anexo IV, linha 61** {#anexo4_lin61} 2.1 FONTES DE ABASTECIMENTO
+- **Anexo IV, linha 62** {#anexo4_lin62} a. Relacionar todas as fontes de abastecimento de água e suas utilizações (rio, ribeirão, lagoa, poços freáticos, poços produzidos, rede pública de abastecimento, etc.);
+- **Anexo IV, linha 63** {#anexo4_lin63} b. Indicar, para cada fonte, a vazão horária máxima a ser aduzida e utilizada e o período diário de adução e utilização.
+- **Anexo IV, linha 64** {#anexo4_lin64} 2.2 PROCESSOS DE TRATAMENTO
+- **Anexo IV, linha 65** {#anexo4_lin65} a. Descrever sucintamente todos os processos de tratamento e de condiciona-
+- **Anexo IV, linha 66** {#anexo4_lin66} mento de água empregadas, indicando os produtos químicos utilizados e os efluentes eventualmente gerados.
+- **Anexo IV, linha 67** {#anexo4_lin67} 3. INFORMAÇÕES SOBRE ÁGUAS PLUVIAIS
+- **Anexo IV, linha 68** {#anexo4_lin68} 3.1 DESCRIÇÃO DO SISTEMA DE CAPTAÇÃO, TRANSPORTE E DISPOSIÇÃO DAS ÁGUAS PLUVIAIS
+- **Anexo IV, linha 69** {#anexo4_lin69} a. Quando existirem áreas descobertas de processamento ou de estocagem de matérias primas, produtos químicos e materiais auxiliares, prever sistema de prevenção para a não contaminação das águas pluviais ou sistema de tratamento, caso necessário.
+- **Anexo IV, linha 70** {#anexo4_lin70} 4. INFORMAÇÕES SOBRE ESGOTOS SANITÁRIOS
+- **Anexo IV, linha 71** {#anexo4_lin71} 4.1 DESCRIÇÃO DO SISTEMA DE COLETA, TRATAMENTO, VAZÃO GERADA E DISPOSIÇÃO FINAL ADOTADA
+- **Anexo IV, linha 72** {#anexo4_lin72} a. Quando for previsto qualquer sistema de tratamento aplica-se o disposto no item II - 1, além de ser necessário informar a disposição final adotada para os esgotos sanitários.
+- **Anexo IV, linha 73** {#anexo4_lin73} 5. INFORMAÇÕES SOBRE OS EFLUENTES LÍQUIDOS INDUSTRIAIS
+- **Anexo IV, linha 74** {#anexo4_lin74} 5.1 BALANÇO HÍDRICO
+- **Anexo IV, linha 75** {#anexo4_lin75} a. Apresentar, através de diagrama de blocos, um balanço completo da água utilizada na indústria e efluentes gerados, inclusive das áreas de utilidades (purgas de caldeiras, purgas de sistemas de resfriamento, descargas de sistemas de tratamento de águas), indicando as vazões aduzidas das diversas fontes, as vazões utilizadas nas diversas operações, processos e usos, as perdas (parcelas evaporadas, incorporadas ao produto, etc.), as vazões dos efluentes gerados nas diversas operações e processos, indicando todos os circuitos fechados que porventura existam.
+- **Anexo IV, linha 76** {#anexo4_lin76} 5.2 INFORMAÇÕES QUANTITATIVAS
+- **Anexo IV, linha 77** {#anexo4_lin77} a. Fornecer dados de vazão, volume e periodicidade os quais devem ser fornecidos para cada efluente isoladamente;
+- **Anexo IV, linha 78** {#anexo4_lin78} b. No caso de efluentes descontínuos, indicar para cada efluente: a periodicidade das descargas, o volume descarregado de cada vez e a duração ou vazão da descarga;
+- **Anexo IV, linha 79** {#anexo4_lin79} c. No caso de efluentes contínuos de vazão constante, indicar para cada efluente: a vazão horária ou a vazão diária ou o período diário de descarga de efluente.
+- **Anexo IV, linha 80** {#anexo4_lin80} 5.3 INFORMAÇÕES QUALITATIVAS
+- **Anexo IV, linha 81** {#anexo4_lin81} a. Fornecer para cada efluente líquido, as características físico-químicas necessárias à sua perfeita caracterização, englobando, no mínimo, aquelas características objeto de limitações na legislação vigente aplicáveis ao despejo em questão;
+- **Anexo IV, linha 82** {#anexo4_lin82} b. No caso de indústria em operação deverão ser apresentados dados de amostragem dos efluentes da própria atividade, descrevendo o tipo de amostragem realizada;
+- **Anexo IV, linha 83** {#anexo4_lin83} c. No caso de indústria em implantação ou a ser implantada que seja filial de indústrias similares nacionais ou estrangeiras, apresentar como valores prováveis os valores reais dos efluentes das indústrias similares. Quando houver diferenças de processamento industrial que possam acarretar modificações nas características dos futuros efluentes, indicar estas modificações com base nas diferenças de processamento;
+- **Anexo IV, linha 84** {#anexo4_lin84} d. Para o caso de indústrias em implantação que não se enquadrem na situação anterior, fornecer, como valores prováveis, os valores da literatura, indicando as referências bibliográficas.
+- **Anexo IV, linha 85** {#anexo4_lin85} 5.4 INFORMAÇÕES SOBRE A DISPOSIÇÃO FINAL DOS EFLUENTES LÍQUIDOS
+- **Anexo IV, linha 86** {#anexo4_lin86} a. Informar a disposição final adotada para efluentes líquidos industriais: infiltração, lançamento em rede e/ou lançamento em corpos hídricos;
+- **Anexo IV, linha 87** {#anexo4_lin87} b. No caso de lançamento em corpos hídricos, indicar nome, classe (segundo legislação em vigor) e bacia hidrográfica. Mesmo no caso de infiltração informar corpos hídricos próximos e bacia hidrográfica.
+- **Anexo IV, linha 88** {#anexo4_lin88} c. No caso do efluente ser lançado em regime descontínuo ou em batelada, deverá ser prevista a implantação de pelo menos um tanque pulmão, para posterior lançamento no corpo hídrico, em regime de vazão constante, a qual deverá atender os critérios estabelecidos no artigo 34, da Resolução CONAMA 357/2005, bem como atenda a capacidade de diluição do corpo hídrico.
+- **Anexo IV, linha 89** {#anexo4_lin89} 6. INFORMAÇÕES SOBRE EMISSÕES GASOSAS
+- **Anexo IV, linha 90** {#anexo4_lin90} 6.1 FONTES DE POLUIÇÃO DO AR
+- **Anexo IV, linha 91** {#anexo4_lin91} a. Especificar detalhadamente todos os processos geradores de poluição do ar, tais como caldeiras, fornos, moinhos, secadores, etc., que emitam gases, vapores e/ou material particulado para a atmosfera, seja através de dutos, chaminés ou emissões fugitivas.
+- **Anexo IV, linha 92** {#anexo4_lin92} 6.2 PRODUÇÃO TÍPICA DOS PROCESSOS
+- **Anexo IV, linha 93** {#anexo4_lin93} a. Especificar para cada processo acima o período de funcionamento e as características técnicas de utilização e/ou operação dos mesmos, informando a capacidade de produção de cada um, através do volume de produção ou pelo consumo de matéria prima. Para os processos de queima deve ser adicionalmente informada a potência térmica nominal.
+- **Anexo IV, linha 94** {#anexo4_lin94} 6.3 TEMPO DE OPERAÇÃO DOS PROCESSOS
+- **Anexo IV, linha 95** {#anexo4_lin95} a. Especificar para cada processo acima o período de funcionamento previsto (diário, mensal e anual).
+- **Anexo IV, linha 96** {#anexo4_lin96} 6.4 CHAMINÉS
+- **Anexo IV, linha 97** {#anexo4_lin97} a. Especificar o número e altura das chaminés ou dutos, em conformidade com os critérios estabelecidos pelo Art. 8° da Resolução SEDEST 02/2025, ou outra que venha a substituí-la, indicando os equipamentos onde serão instaladas as mesmas.
+- **Anexo IV, linha 98** {#anexo4_lin98} 6.5 COMBUSTÍVEIS
+- **Anexo IV, linha 99** {#anexo4_lin99} a. Especificar os combustíveis a serem utilizados (tipo e quantidade diária, men-
+- **Anexo IV, linha 100** {#anexo4_lin100} sal e anual) por cada processo acima identificado.
+- **Anexo IV, linha 101** {#anexo4_lin101} 6.6 ENQUADRAMENTO
+- **Anexo IV, linha 102** {#anexo4_lin102} a. Especificar o enquadramento de cada processo e fonte de emissão atmosférica, em conformidade com o disposto na Resolução SEDEST 02/2025, ou outra que venha substituí-la. O enquadramento deverá contemplar a origem da emissão, padrões a serem monitorados, limites de emissões e frequência de automonitoramento e sistemas de controle a serem implementados.
+- **Anexo IV, linha 103** {#anexo4_lin103} 7. INFORMAÇÕES SOBRE RESÍDUOS SÓLIDOS INDUSTRIAIS
+- **Anexo IV, linha 104** {#anexo4_lin104} 7.1 RESÍDUOS GERADOS
+- **Anexo IV, linha 105** {#anexo4_lin105} a. Apresentar relação completa dos resíduos sólidos industriais, indicando no mínimo: (i) código IBAMA, (ii) Resíduos Específico, (iii) Origem do resíduo, (iv) Quantificação diária estimada, (v) Tratamento e destinação final.
+- **Anexo IV, linha 106** {#anexo4_lin106} 8. OUTRAS INFORMAÇÕES
+- **Anexo IV, linha 107** {#anexo4_lin107} a. Em caso de armazenamento de produtos perigosos, tais como produtos tóxicos, inflamáveis, informar se existe Programa de Gerenciamento de Riscos Ambientais.
+- **Anexo IV, linha 108** {#anexo4_lin108} b. Informar se existe passivo ambiental na área do empreendimento e medidas que estão sendo adotadas para sua eliminação e/ou controle.
+- **Anexo IV, linha 109** {#anexo4_lin109} II.
+- **Anexo IV, linha 110** {#anexo4_lin110} MEMORIAL TÉCNICO
+- **Anexo IV, linha 111** {#anexo4_lin111} 1. ESGOTO SANITÁRIO
+- **Anexo IV, linha 112** {#anexo4_lin112} 1.1 DIMENSIONAMENTO DO SISTEMA DE TRATAMENTO
+- **Anexo IV, linha 113** {#anexo4_lin113} a. Apresentar o dimensionamento completo e detalhado de todas as unidades de tratamento de esgoto sanitário, especificando todos os parâmetros usados e necessários à sua compreensão. O dimensionamento deve ser feito rigorosamente de acordo com as normas específicas da ABNT: i.
+- **Anexo IV, linha 114** {#anexo4_lin114} NBR 7229 – Projeto, construção e operação de sistemas de tanques sépticos.
+- **Anexo IV, linha 115** {#anexo4_lin115} ii.
+- **Anexo IV, linha 116** {#anexo4_lin116} NBR 13969 – Tanques sépticos. Unidades de tratamento complementar e
+- **Anexo IV, linha 117** {#anexo4_lin117} disposição final dos efluentes líquidos – Projeto, operação e construção. iii.
+- **Anexo IV, linha 118** {#anexo4_lin118} NBR 12209 – Projeto de estações de tratamento de esgoto sanitário.
+- **Anexo IV, linha 119** {#anexo4_lin119} 2. EFLUENTES LÍQUIDOS INDUSTRIAIS
+- **Anexo IV, linha 120** {#anexo4_lin120} 2.1 DESCRIÇÃO DOS SISTEMAS DE TRATAMENTO
+- **Anexo IV, linha 121** {#anexo4_lin121} a. Os sistemas de tratamento propostos devem ser suficientemente descritos, com anexação de fluxogramas detalhados, onde constem todos os processos e operações empregadas.
+- **Anexo IV, linha 122** {#anexo4_lin122} 2.2 JUSTIFICATIVA DOS SISTEMAS DE TRATAMENTO
+- **Anexo IV, linha 123** {#anexo4_lin123} a. Justificar a escolha do tratamento proposto com base em tecnologia aplicada, característica dos efluentes, vazões e outros aspectos.
+- **Anexo IV, linha 124** {#anexo4_lin124} 2.3 DIMENSIONAMENTO
+- **Anexo IV, linha 125** {#anexo4_lin125} a. Apresentar dimensionamento completo e detalhado de todas as unidades de tratamento, especificando todos os parâmetros usados e necessários à sua perfeita compreensão;
+- **Anexo IV, linha 126** {#anexo4_lin126} b. Os canais ou tubulações de entrada ao sistema de tratamento, de recirculações e de lançamento final devem ser providos de sistemas de medição de vazão;
+- **Anexo IV, linha 127** {#anexo4_lin127} c. No caso da existência de tanque de regularização de vazão ou (e) homogeneização (tanques de equalização), o dimensionamento deverá ser feito com base no período diário de funcionamento da indústria ou detalhadamente justificado em função do processo industrial;
+- **Anexo IV, linha 128** {#anexo4_lin128} d. No caso específico de infiltração de efluentes líquidos industriais no solo, aplica-se o disposto no item 5;
+- **Anexo IV, linha 129** {#anexo4_lin129} e. No caso do projeto prever a implantação de lagoas de estabilização, deverá ser apresentado relatório de caracterização do solo.
+- **Anexo IV, linha 130** {#anexo4_lin130} 2.4 MONITORAMENTO
+- **Anexo IV, linha 131** {#anexo4_lin131} a. Devem ser indicados todos os controles a serem efetuados e a frequência necessária, visando garantir o rendimento esperado;
+- **Anexo IV, linha 132** {#anexo4_lin132} b. Devem ser relacionados os problemas que mais comumente possam ocorrer e a respectiva solução;
+- **Anexo IV, linha 133** {#anexo4_lin133} c. Especificar se as análises laboratoriais serão realizadas na própria empresa ou por terceiros.
+- **Anexo IV, linha 134** {#anexo4_lin134} 2.5 CARACTERÍSTICAS DOS EFLUENTES FINAIS
+- **Anexo IV, linha 135** {#anexo4_lin135} a. Apresentar as características prováveis para os efluentes finais, cujos parâmetros devem ser os mesmos indicados para a caracterização qualitativa dos efluentes brutos.
+- **Anexo IV, linha 136** {#anexo4_lin136} 3. EMISSÕES ATMOSFÉRICAS Deverão ser especificadas as medidas a serem tomadas para atender os padrões de emissão e de condicionamento e os padrões de qualidade do ar no entorno, ambos estabelecidos na Resolução SEDEST 02/2025, ou outra que venha substituí-la, contemplando, no mínimo, os itens abaixo.
+- **Anexo IV, linha 137** {#anexo4_lin137} 3.1 DESCRIÇÃO DO(S) SISTEMA(S) TRATAMENTO(S) ADOTADO(S)
+- **Anexo IV, linha 138** {#anexo4_lin138} a. Os sistemas de tratamento propostos devem ser suficientemente descritos, com anexação de fluxogramas detalhados, onde constem todos os processos e operações empregadas.
+- **Anexo IV, linha 139** {#anexo4_lin139} 3.2 DIMENSIONAMENTO DO(S) SISTEMA(S)
+- **Anexo IV, linha 140** {#anexo4_lin140} a. Apresentar dimensionamento completo e detalhado de todas as unidades de tratamento, especificando todos os parâmetros usados e necessários à sua perfeita compreensão;
+- **Anexo IV, linha 141** {#anexo4_lin141} b. Apresentar o dimensionamento de dutos e chaminés, conforme parâmetros estabelecidos na Resolução SEDEST 02/2025, ou outra que venha substituíla.
+- **Anexo IV, linha 142** {#anexo4_lin142} 3.3 CARACTERÍSTICAS PROVÁVEIS DAS EMISSÕES ATMOSFÉRICAS EMITIDAS APÓS TRATAMENTO
+- **Anexo IV, linha 143** {#anexo4_lin143} a. Descrever os valores de parâmetros para emissões gasosas, após tratamen-
+- **Anexo IV, linha 144** {#anexo4_lin144} to, tais como Material Particulado, SOx, NOx, CO, entre outros.
+- **Anexo IV, linha 145** {#anexo4_lin145} 3.4 GARANTIA DA EFICIÊNCIA DO EQUIPAMENTO INSTALADO
+- **Anexo IV, linha 146** {#anexo4_lin146} a. Apresentar dados sobre a eficiência esperada para equipamentos de controle de emissões atmosféricas propostos.
+- **Anexo IV, linha 147** {#anexo4_lin147} 4. RESÍDUOS SÓLIDOS
+- **Anexo IV, linha 148** {#anexo4_lin148} 4.1 TRATAMENTO ADOTADO
+- **Anexo IV, linha 149** {#anexo4_lin149} a. Justificar a escolha do(s) tipo(s) de tratamento(s) adotado(s).
+- **Anexo IV, linha 150** {#anexo4_lin150} 4.2 MEMORIAL DE CÁLCULO
+- **Anexo IV, linha 151** {#anexo4_lin151} a. Apresentar o memorial de cálculo referente ao dimensionamento da solução adotada. i.
+- **Anexo IV, linha 152** {#anexo4_lin152} Caso a opção for queima dos resíduos, reportar-se ao item 3;
+- **Anexo IV, linha 153** {#anexo4_lin153} ii.
+- **Anexo IV, linha 154** {#anexo4_lin154} No caso específico de disposição de resíduos sólidos no solo, aplica-se o disposto no item 5.
+- **Anexo IV, linha 155** {#anexo4_lin155} 5. DISPOSIÇÃO DE EFLUENTES LÍQUIDOS E RESÍDUOS SÓLIDOS NO SOLO
+- **Anexo IV, linha 156** {#anexo4_lin156} 5.1 USO AGRÍCOLA Considera-se disposição de efluentes líquidos e resíduos sólidos no solo para uso agrícola quando o despejo for aplicado no solo para fins agrícolas e florestais, como condicionador, fertilizante ou corretivo, de modo a proporcionar efeitos benéficos para o solo e para as espécies nele cultivadas. Os projetos que contemplem esse procedimento deverão conter, no mínimo, o seguinte:
+- **Anexo IV, linha 157** {#anexo4_lin157} a. Caracterização agronômica do efluente: i.
+- **Anexo IV, linha 158** {#anexo4_lin158} Proposta de monitoramento do efluente, estabelecendo periodicidade mínima anual, contemplando os seguintes parâmetros: •
+- **Anexo IV, linha 159** {#anexo4_lin159} pH em água;
+- **Anexo IV, linha 160** {#anexo4_lin160} •
+- **Anexo IV, linha 161** {#anexo4_lin161} Umidade % p/p;
+- **Anexo IV, linha 162** {#anexo4_lin162} •
+- **Anexo IV, linha 163** {#anexo4_lin163} CTC;
+- **Anexo IV, linha 164** {#anexo4_lin164} •
+- **Anexo IV, linha 165** {#anexo4_lin165} Nitrogênio Total mg/kg;Óxido de Fósforo (P2O5) mg/kg;
+- **Anexo IV, linha 166** {#anexo4_lin166} •
+- **Anexo IV, linha 167** {#anexo4_lin167} Óxido de Potássio (K2O) mg/kg;
+- **Anexo IV, linha 168** {#anexo4_lin168} •
+- **Anexo IV, linha 169** {#anexo4_lin169} Carbono Orgânico Total % p/p;
+- **Anexo IV, linha 170** {#anexo4_lin170} •
+- **Anexo IV, linha 171** {#anexo4_lin171} Cálcio mg/kg;
+- **Anexo IV, linha 172** {#anexo4_lin172} •
+- **Anexo IV, linha 173** {#anexo4_lin173} Magnésio mg/kg;
+- **Anexo IV, linha 174** {#anexo4_lin174} •
+- **Anexo IV, linha 175** {#anexo4_lin175} Enxofre % p/p;
+- **Anexo IV, linha 176** {#anexo4_lin176} •
+- **Anexo IV, linha 177** {#anexo4_lin177} Óxido de Silício (SiO2) mg/kg;
+- **Anexo IV, linha 178** {#anexo4_lin178} •
+- **Anexo IV, linha 179** {#anexo4_lin179} Zinco mg/kg;
+- **Anexo IV, linha 180** {#anexo4_lin180} •
+- **Anexo IV, linha 181** {#anexo4_lin181} Cobre mg/kg;
+- **Anexo IV, linha 182** {#anexo4_lin182} •
+- **Anexo IV, linha 183** {#anexo4_lin183} Sódio mg/kg;
+- **Anexo IV, linha 184** {#anexo4_lin184} •
+- **Anexo IV, linha 185** {#anexo4_lin185} Alumínio mg/kg;
+- **Anexo IV, linha 186** {#anexo4_lin186} •
+- **Anexo IV, linha 187** {#anexo4_lin187} Porcentagem de Sólidos % p/p;
+- **Anexo IV, linha 188** {#anexo4_lin188} •
+- **Anexo IV, linha 189** {#anexo4_lin189} Sólidos Totais % p/p;
+- **Anexo IV, linha 190** {#anexo4_lin190} •
+- **Anexo IV, linha 191** {#anexo4_lin191} Sólidos Voláteis % p/p.
+- **Anexo IV, linha 192** {#anexo4_lin192} ii.
+- **Anexo IV, linha 193** {#anexo4_lin193} A determinação das substâncias inorgânicas do poderá ser dispensada desde que seja devidamente comprovada a ausência das mesmas pela origem dos resíduos tratados. Para a caracterização química do efluente, deverão ser determinadas as substâncias abaixo: •
+- **Anexo IV, linha 194** {#anexo4_lin194} Arsênio mg/kg;
+- **Anexo IV, linha 195** {#anexo4_lin195} •
+- **Anexo IV, linha 196** {#anexo4_lin196} Cádmio mg/kg;
+- **Anexo IV, linha 197** {#anexo4_lin197} •
+- **Anexo IV, linha 198** {#anexo4_lin198} Chumbo mg/kg;
+- **Anexo IV, linha 199** {#anexo4_lin199} •
+- **Anexo IV, linha 200** {#anexo4_lin200} Cromo mg/kg;
+- **Anexo IV, linha 201** {#anexo4_lin201} •
+- **Anexo IV, linha 202** {#anexo4_lin202} Cromo Hexavalente mg/kg;
+- **Anexo IV, linha 203** {#anexo4_lin203} •
+- **Anexo IV, linha 204** {#anexo4_lin204} Mercúrio mg/kg;
+- **Anexo IV, linha 205** {#anexo4_lin205} •
+- **Anexo IV, linha 206** {#anexo4_lin206} Níquel mg/kg;
+- **Anexo IV, linha 207** {#anexo4_lin207} •
+- **Anexo IV, linha 208** {#anexo4_lin208} Selênio mg/kg;
+- **Anexo IV, linha 209** {#anexo4_lin209} •
+- **Anexo IV, linha 210** {#anexo4_lin210} Boro mg/kg;
+- **Anexo IV, linha 211** {#anexo4_lin211} •
+- **Anexo IV, linha 212** {#anexo4_lin212} Cobalto mg/kg;
+- **Anexo IV, linha 213** {#anexo4_lin213} •
+- **Anexo IV, linha 214** {#anexo4_lin214} Ferro mg/kg;
+- **Anexo IV, linha 215** {#anexo4_lin215} •
+- **Anexo IV, linha 216** {#anexo4_lin216} Manganês mg/kg;
+- **Anexo IV, linha 217** {#anexo4_lin217} •
+- **Anexo IV, linha 218** {#anexo4_lin218} Molibdênio mg/kg;
+- **Anexo IV, linha 219** {#anexo4_lin219} •
+- **Anexo IV, linha 220** {#anexo4_lin220} Bário mg/kg.
+- **Anexo IV, linha 221** {#anexo4_lin221} iii.
+- **Anexo IV, linha 222** {#anexo4_lin222} Para a caracterização do efluente quanto à presença de agentes patogênicos e indicadores bacteriológicos, deverão ser determinadas, e as concentrações de: •
+- **Anexo IV, linha 223** {#anexo4_lin223} Coliformes Termotolerantes NMP/g ST;
+- **Anexo IV, linha 224** {#anexo4_lin224} •
+- **Anexo IV, linha 225** {#anexo4_lin225} Ovos Viáveis de Helmintos ovos/g de ST;
+- **Anexo IV, linha 226** {#anexo4_lin226} •
+- **Anexo IV, linha 227** {#anexo4_lin227} Salmonella spp.
+- **Anexo IV, linha 228** {#anexo4_lin228} b. Descrição geral do local: i.
+- **Anexo IV, linha 229** {#anexo4_lin229} Descrever as características gerais do local que contém a área destinada para a disposição do efluente, denominada “área propriamente dita”, contendo os seguintes dados: •
+- **Anexo IV, linha 230** {#anexo4_lin230} Relevo e declividade: informar a declividade média do local de plantio, considerando, para esta finalidade, a tabela abaixo:
+- **Anexo IV, linha 231** {#anexo4_lin231} Classe de Relevo
+- **Anexo IV, linha 232** {#anexo4_lin232} Declividade (%)
+- **Anexo IV, linha 233** {#anexo4_lin233} Plano
+- **Anexo IV, linha 234** {#anexo4_lin234} De 0 a 3
+- **Anexo IV, linha 235** {#anexo4_lin235} Suave Ondulado
+- **Anexo IV, linha 236** {#anexo4_lin236} De 3 a 8
+- **Anexo IV, linha 237** {#anexo4_lin237} Ondulado
+- **Anexo IV, linha 238** {#anexo4_lin238} De 8 a 20
+- **Anexo IV, linha 239** {#anexo4_lin239} Forte Ondulado
+- **Anexo IV, linha 240** {#anexo4_lin240} De 20 a 45
+- **Anexo IV, linha 241** {#anexo4_lin241} Montanhoso
+- **Anexo IV, linha 242** {#anexo4_lin242} De 45 a 75
+- **Anexo IV, linha 243** {#anexo4_lin243} Escarpado
+- **Anexo IV, linha 244** {#anexo4_lin244} Acima de 75
+- **Anexo IV, linha 245** {#anexo4_lin245} Esta informação deverá ser obtida mediante levantamento planialtimétrico ou, por meio de dados secundários satélites disponíveis em softwares GIS, desde que apresente a cota máxima e mínima do local e uma estimativa de declividade, cujos resultados devem constar em mapa georreferenciado em datum SIRGAS 2000, projeção UTM, na respectiva zona do local de deposição do material. •
+- **Anexo IV, linha 246** {#anexo4_lin246} Clima: clima predominante na região, podendo seguir a classificação de KÖPPEN e GEIGER (1936) usando a publicação de ALVARES et al. (2013)1. Estimativas de pluviosidade do local deverão ser descritas conforme valores médios dos últimos 5 anos, obtidos de estações meteorológicas mais próximas ao local de interesse, com dados utilizados
+- **Anexo IV, linha 247** {#anexo4_lin247} ALVARES, C. A.; STAPE, J. L.; SENTELHAS, P. C.; GONÇALVES, J. L. M.; SPAROVEK, G. Köppen’s climate classification map for Brazil. Meteorologische Zeitschrift, Vol. 22, N° 6, 711–728, 2013 doi.: https://doi.org/10.1127/09411
+- **Anexo IV, linha 248** {#anexo4_lin248} 2948/2013/0507
+- **Anexo IV, linha 249** {#anexo4_lin249} a partir das estações do Instituto Nacional de Meteorologia (INMET). Estes dados podem ser encontrados em: https://mapas.inmet.gov.br/. Na indisponibilidade dos dados, o elaborador do documento deverá fornecer uma caracterização genérica com base em publicações científicas ou conhecimento prévio, assumindo a responsabilidade pela veracidade das informações; •
+- **Anexo IV, linha 250** {#anexo4_lin250} Classificação do Risco Ambiental, conforme Souza et al., 2004: o CLASSE I - Terras sem risco ambiental aparente – são terras sem limitações, ou seja, todos os fatores com grau de risco nulo, portanto, são terras que se manejadas adequadamente não correm risco de degradação ambiental com a disposição final do efluente no solo. Não apresentam desvios em relação ao solo ideal; o CLASSE II - Terras de baixo risco ambiental - são terras com um ou mais fatores com grau de risco ligeiro, portanto, práticas simples de manejo do solo deverão ser utilizadas para reduzir o risco de degradação ambiental com a disposição final de efluente no solo. Apresentam desvios ligeiros em relação ao solo ideal; o CLASSE III - Terras de médio risco ambiental - são terras com um ou mais fatores com grau de risco moderado, portanto, práticas complexas de manejo do solo deverão ser utilizadas para reduzir o risco de degradação ambiental com a disposição final de efluente no solo. Apresentam desvios moderados em relação ao solo ideal; o CLASSE IV - Terras de alto risco ambiental – são terras com um ou mais fatores com grau de risco forte. Disposição final de efluente do solo somente em culturas perenes; o CLASSE V - Terras inaptas – são terras com um ou mais fatores com grau de risco muito forte. Inaptas para disposição final de efluente no solo.
+- **Anexo IV, linha 251** {#anexo4_lin251} Figura 1 – Parâmetros de classificação de grau de risco de área de aplicação de efluente
+- **Anexo IV, linha 252** {#anexo4_lin252} •
+- **Anexo IV, linha 253** {#anexo4_lin253} Dimensão: descrição dos talhões destinados ao uso do efluente, com respectiva identificação e tamanho (em hectares);
+- **Anexo IV, linha 254** {#anexo4_lin254} •
+- **Anexo IV, linha 255** {#anexo4_lin255} Croqui do local: mapa(s) de localização(ões) contemplando a delimitação da propriedade rural, talhões de aplicação do efluente, cursos d’água, áreas de reserva legal e preservação permanente, vias de acesso, poços de utilização de águas subterrâneas demarcados. Os mapas deverão estar georreferenciados, em datum SIRGAS 2000, projeção UTM, na respectiva zona. Os dados de delimitação da propriedade rural, reserva legal, áreas de preservação permanente deverão estar de acordo com a matrícula do imóvel e cadastro ambiental rural (CAR). Os poços de uso de água subterrânea deverão estar condizentes ao cadastro junto ao setor de outorga do Instituto Água e Terra.
+- **Anexo IV, linha 256** {#anexo4_lin256} c. Caracterização do solo: i.
+- **Anexo IV, linha 257** {#anexo4_lin257} Tipo de solo: tipo de solo conforme o Sistema Brasileiro de Classificação de Solo da Embrapa (2018)2, podendo ser informado através das análises de solo realizadas in loco ou usando base de dados secundários;
+- **Anexo IV, linha 258** {#anexo4_lin258} 2
+- **Anexo IV, linha 259** {#anexo4_lin259} Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA). Sistema Brasileiro de Classificações de Solos, 5ª ed., Brasília-DF, 355 p., 2018. Disponível em: https://www.embrapa.br/solos/busca-de-publicacoes/-
+- **Anexo IV, linha 260** {#anexo4_lin260} /publicacao/1094003/sistema-brasileiro-de-classificacao-de-solos?link=sibcs
+- **Anexo IV, linha 261** {#anexo4_lin261} ii.
+- **Anexo IV, linha 262** {#anexo4_lin262} Composição granulométrica: teores de areia, silte e argila obtidos por meio de análise laboratorial com validade de, no máximo, 120 meses;
+- **Anexo IV, linha 263** {#anexo4_lin263} iii.
+- **Anexo IV, linha 264** {#anexo4_lin264} Análise química do solo: deverá contemplar, minimamente, os valores de matéria orgânica (percentual de carbono), nitrogênio, fósforo, potássio, cálcio, magnésio, sódio, hidrogênio (H+), alumínio (Al+3), CTC efetiva e CTC total (T), pH, soma de bases (SB), saturação por bases (V%) e saturação por alumínio (m%);
+- **Anexo IV, linha 265** {#anexo4_lin265} iv.
+- **Anexo IV, linha 266** {#anexo4_lin266} Teste de infiltração de solo (Método do Duplo Anel).
+- **Anexo IV, linha 267** {#anexo4_lin267} d. Descrição técnica da metodologia de disposição de efluentes no solo: i.
+- **Anexo IV, linha 268** {#anexo4_lin268} Proposta de recomendação agronômica indicando, claramente, qual talhão e cultura serão objeto de adubação, que deverá abranger: •
+- **Anexo IV, linha 269** {#anexo4_lin269} Período de aplicação: definição da época do ano em que será realizada a adubação do solo, considerando, também, a indicação de adubação de base e/ou cobertura;
+- **Anexo IV, linha 270** {#anexo4_lin270} •
+- **Anexo IV, linha 271** {#anexo4_lin271} Caracterização agronômica do produto: estimativa da composição nutricionais do efluente que embasem a recomendação agronômica;
+- **Anexo IV, linha 272** {#anexo4_lin272} •
+- **Anexo IV, linha 273** {#anexo4_lin273} Taxa: recomendação técnica utilizando a demanda da cultura com base no Manual de Adubação e Calagem para o Estado do Paraná (2019) e os índices de precipitação do local, de forma que haja a aplicação considerando o nutriente limitante no solo, inclusive água, e a produtividade esperada para cada safra. As demandas nutricionais das culturas poderão ser complementadas com adubação mineral, conforme indicação do profissional legalmente habilitado;
+- **Anexo IV, linha 274** {#anexo4_lin274} •
+- **Anexo IV, linha 275** {#anexo4_lin275} Técnica de aplicação: forma de aplicação do efluente (aspersão, superfície, gotejamento, etc);
+- **Anexo IV, linha 276** {#anexo4_lin276} •
+- **Anexo IV, linha 277** {#anexo4_lin277} Frequência de monitoramento da área de aplicação: apresentar plano de amostragem de solo (número de pontos por talhão), que represente significância estatística, bem como os parâmetros a serem monitorados para fins de controle.
+- **Anexo IV, linha 278** {#anexo4_lin278} 5.2 INFILTRAÇÃO
+- **Anexo IV, linha 279** {#anexo4_lin279} Os projetos de disposição de efluentes líquidos industriais, após tratamento, no solo deverão conter, no mínimo, os seguintes dados:
+- **Anexo IV, linha 280** {#anexo4_lin280} a. Descrição geral da área: i.
+- **Anexo IV, linha 281** {#anexo4_lin281} Descrever as características gerais da área: relevo, clima, dimensões, declividade, recursos hídricos superficiais e utilização de águas subterrâneas;
+- **Anexo IV, linha 282** {#anexo4_lin282} ii.
+- **Anexo IV, linha 283** {#anexo4_lin283} Caracterização detalhada do(s) solo(s) e subsolo do local descrevendo os solos, realizar testes de infiltração padronizado, item 5.2, da Norma NBR 7229, caracterizar o lençol freático.
+- **Anexo IV, linha 284** {#anexo4_lin284} iii.
+- **Anexo IV, linha 285** {#anexo4_lin285} Descrição técnica da Metodologia de disposição apresentando o planejamento e o procedimento de aplicação;
+- **Anexo IV, linha 286** {#anexo4_lin286} iv.
+- **Anexo IV, linha 287** {#anexo4_lin287} Justificativa técnica do sistema proposto: •
+- **Anexo IV, linha 288** {#anexo4_lin288} Descrever e apresentar resultados dos testes e ensaios de tratabilidade executados ou referir-se a material bibliográfico reconhecido, quanto à adequação do efluente ao tratamento proposto. Isso para comprovar a atenuação dos poluentes antes de atingir os recursos hídricos, tanto superficiais como subterrâneos.
+- **Anexo IV, linha 289** {#anexo4_lin289} v.
+- **Anexo IV, linha 290** {#anexo4_lin290} Proposta de Monitoramento do sistema: •
+- **Anexo IV, linha 291** {#anexo4_lin291} Monitoramento do solo, aquífero freático, outros aquíferos e drenagem natural superficial. Locação dos pontos de amostragem e observação, equipamentos pontos de amostragem e observação, equipamentos, frequência e forma de amostragem e parâmetros a serem analisados.
+- **Anexo IV, linha 292** {#anexo4_lin292} 6. OPERAÇÃO
+- **Anexo IV, linha 293** {#anexo4_lin293} a. Apresentar manual de operação para as instalações de tratamento e controle de poluição ambiental suficientemente detalhado para permitir a partida e a futura operação do sistema;
+- **Anexo IV, linha 294** {#anexo4_lin294} b. Especificar dentro do organograma da Empresa, o Setor de encarregado da operação e manutenção do (s) sistema (s) de controle de poluição ambiental;
+- **Anexo IV, linha 295** {#anexo4_lin295} c. Especificar o número de funcionários especialmente contratadas para operação e manutenção do(s) sistema(s) de controle de poluição.
+- **Anexo IV, linha 296** {#anexo4_lin296} III.
+- **Anexo IV, linha 297** {#anexo4_lin297} CRONOGRAMA E ESTIMATIVA DE CUSTOS
+- **Anexo IV, linha 298** {#anexo4_lin298} 1. ESPECIFICAÇÃO DE EQUIPAMENTOS Apresentar as especificações detalhadas de todos os equipamentos.
+- **Anexo IV, linha 299** {#anexo4_lin299} 2. ESTIMATIVA DE CUSTOS Apresentar estimativa real e detalhada do custo de implantação das unidades projetadas.
+- **Anexo IV, linha 300** {#anexo4_lin300} 3. CRONOGRAMA DE IMPLANTAÇÃO DO SISTEMA DE TRATAMENTO Apresentar um cronograma detalhado e real para a execução das obras de implantação do sistema de tratamento.
+- **Anexo IV, linha 301** {#anexo4_lin301} IV.
+- **Anexo IV, linha 302** {#anexo4_lin302} DESENHOS
+- **Anexo IV, linha 303** {#anexo4_lin303} 1. DAS INFORMAÇÕES CADASTRAIS Apresentar um único desenho do qual constem a localização geográfica da indústria, principais acessos, vizinhos e corpos d’água existentes na região, incluindo mapa planialtimétrico.
+- **Anexo IV, linha 304** {#anexo4_lin304} 2. DAS INFORMAÇÕES SOBRE EFLUENTES LÍQUIDOS DA INDÚSTRIA Planta do sistema de esgotamento dos efluentes líquidos industriais e domésticos.
+- **Anexo IV, linha 305** {#anexo4_lin305} 3. DO PROJETO DO SISTEMA DE TRATAMENTO DE EFLUENTES LÍQUIDOS INDUSTRIAIS
+- **Anexo IV, linha 306** {#anexo4_lin306} a. Planta geral do sistema de tratamento, mostrando a localização dos medidores de vazão;
+- **Anexo IV, linha 307** {#anexo4_lin307} b. Perfil hidráulico do sistema de tratamento;
+- **Anexo IV, linha 308** {#anexo4_lin308} c. Desenhos com dimensões e detalhamento das diversas unidades do sistema de tratamento, inclusive medidor de vazão.
+- **Anexo IV, linha 309** {#anexo4_lin309} 4. DO PROJETO DO SISTEMA DE TRATAMENTO E CONTROLE DE EMISSÕES ATMOSFÉRICAS
+- **Anexo IV, linha 310** {#anexo4_lin310} a. Planta geral do sistema de tratamento e controle;
+- **Anexo IV, linha 311** {#anexo4_lin311} b. Desenhos com dimensões e detalhamento dos diversos sistemas adotados.
+- **Anexo IV, linha 312** {#anexo4_lin312} 5. DO PROJETO DO SISTEMA DE TRATAMENTO DOS RESÍDUOS SÓLIDOS
+- **Anexo IV, linha 313** {#anexo4_lin313} a. Planta geral do sistema de tratamento;
+- **Anexo IV, linha 314** {#anexo4_lin314} b. Desenhos com dimensões e detalhamento dos diversos sistemas adotados.
+- **Anexo IV, linha 315** {#anexo4_lin315} V.
+- **Anexo IV, linha 316** {#anexo4_lin316} ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA
+- **Anexo IV, linha 317** {#anexo4_lin317} Anotação de Responsabilidade Técnica emitida pelo conselho de classe competente.
+- **Anexo IV, linha 318** {#anexo4_lin318} B. PROJETO DE TERRAPLANAGEM
+- **Anexo IV, linha 319** {#anexo4_lin319} O Projeto de Terraplanagem deverá apresentar, de forma detalhada, as operações de movimentação de solo a serem executadas para implantação do empreendimento.
+- **Anexo IV, linha 320** {#anexo4_lin320} 1. IDENTIFICAÇÃO DO EMPREENDEDOR
+- **Anexo IV, linha 321** {#anexo4_lin321} a. Nome;
+- **Anexo IV, linha 322** {#anexo4_lin322} b. Razão Social;
+- **Anexo IV, linha 323** {#anexo4_lin323} c. Endereço completo;
+- **Anexo IV, linha 324** {#anexo4_lin324} d. CNPJ e Inscrição Estadual.
+- **Anexo IV, linha 325** {#anexo4_lin325} 2. IDENTIFICAÇÃO DA EMPRESA OU PROFISSIONAL RESPONSÁVEL PELA ELABORAÇÃO DO PROJETO
+- **Anexo IV, linha 326** {#anexo4_lin326} a. Razão social ou nome completo (caso profissional autônomo);
+- **Anexo IV, linha 327** {#anexo4_lin327} b. Endereço completo;
+- **Anexo IV, linha 328** {#anexo4_lin328} c. CNPJ e Inscrição Estadual (caso empresa), nome do responsável legal, nome da pessoa de contato, e-mail e número do telefone.
+- **Anexo IV, linha 329** {#anexo4_lin329} 3. CÁLCULOS E MEDIDAS DE CONTROLE
+- **Anexo IV, linha 330** {#anexo4_lin330} a. Apresentar detalhadamente os projetos executivos referentes a movimentação de solo a ser executada no terreno, e medidas de controle visando evitar processos erosivos e destinação inadequada de resíduos;
+- **Anexo IV, linha 331** {#anexo4_lin331} b. Deverão ser observadas as recomendações das normas técnicas brasileiras, bem como as Resoluções CONAMA nºs 302/2002, 303/2002 e 307/2002 na realização das obras e nos procedimentos de corte, nivelamento, transporte e destinação final de solos e material de escavação excedente;
+- **Anexo IV, linha 332** {#anexo4_lin332} c. Deverá ser apresentada planta, em escala adequada, com os seguintes elementos: i.
+- **Anexo IV, linha 333** {#anexo4_lin333} Curvas de nível do terreno de metro a metro;
+- **Anexo IV, linha 334** {#anexo4_lin334} ii.
+- **Anexo IV, linha 335** {#anexo4_lin335} Localização e identificação das seções utilizadas para os perfis de terraplanagem. Para o distanciamento mínimo das seções utilizadas, recomenda-se intervalos entre 10 a 20 metros para áreas de arruamentos e que não sofrerão intervenções de grande magnitude, e intervalos entre 5 a 10 metros em torno de áreas onde serão construídas as edificações. Além disso, deve-se considerar as seções em pontos de início e término de projeto, mudanças de traçado, mudanças relevantes em cota e/ou declividade do terreno, presença de obstáculos, pontos de cruzamento com outros elementos, além de outros pontos julgados como relevantes;
+- **Anexo IV, linha 336** {#anexo4_lin336} iii.
+- **Anexo IV, linha 337** {#anexo4_lin337} Hachuras, devidamente identificadas, das áreas que sofrerão corte e das áreas que serão submetidas a aterro;
+- **Anexo IV, linha 338** {#anexo4_lin338} iv.
+- **Anexo IV, linha 339** {#anexo4_lin339} Representação dos taludes em projeção horizontal;
+- **Anexo IV, linha 340** {#anexo4_lin340} v.
+- **Anexo IV, linha 341** {#anexo4_lin341} Representação de Cursos Hídricos, Áreas de Preservação Permanente, Área Verde Urbana e demais elementos que forem julgados como necessários, devidamente cotados;
+- **Anexo IV, linha 342** {#anexo4_lin342} vi.
+- **Anexo IV, linha 343** {#anexo4_lin343} Devidamente assinada por responsável técnico, que deverá estar em conformidade com a ART apresentada.
+- **Anexo IV, linha 344** {#anexo4_lin344} d. Apresentar os perfis de terraplanagem, que devem condizer com os que foram representados e identificados na planta do tópico (4.3). Nestes perfis devem constar: i.
+- **Anexo IV, linha 345** {#anexo4_lin345} Identificação de modo a localizá-las na planta do tópico 4.3;
+- **Anexo IV, linha 346** {#anexo4_lin346} ii.
+- **Anexo IV, linha 347** {#anexo4_lin347} Eixo longitudinal com cotas de altitude;
+- **Anexo IV, linha 348** {#anexo4_lin348} iii.
+- **Anexo IV, linha 349** {#anexo4_lin349} Eixo horizontal com cotas de distância entre estacas;
+- **Anexo IV, linha 350** {#anexo4_lin350} iv.
+- **Anexo IV, linha 351** {#anexo4_lin351} Áreas de corte e aterro devidamente hachuradas (de modo a diferenciar os dois tipos de movimentação);
+- **Anexo IV, linha 352** {#anexo4_lin352} v.
+- **Anexo IV, linha 353** {#anexo4_lin353} Volumes de cada região de corte ou aterro da seção;
+- **Anexo IV, linha 354** {#anexo4_lin354} vi.
+- **Anexo IV, linha 355** {#anexo4_lin355} Representação da linha de situação atual (terreno);
+- **Anexo IV, linha 356** {#anexo4_lin356} vii.
+- **Anexo IV, linha 357** {#anexo4_lin357} Representação da linha de situação pretendida (greide);
+- **Anexo IV, linha 358** {#anexo4_lin358} viii.
+- **Anexo IV, linha 359** {#anexo4_lin359} Cotas do terreno e do greide.
+- **Anexo IV, linha 360** {#anexo4_lin360} e. Além da planta indicada no item anterior, necessita-se da apresentação de memorial descritivo e de cálculo, para apresentação dos itens que serão apresentados em sequência;
+- **Anexo IV, linha 361** {#anexo4_lin361} f. Apresentar tabela com os cálculos e os volumes de corte e aterro, considerando todas as seções do tópico 4.2, informando de forma clara se haverá necessidade de retirada (bota-fora) ou empréstimo de solo do terreno;
+- **Anexo IV, linha 362** {#anexo4_lin362} g. Indicar a localização da área de bota-fora ou empréstimo, que deve ser devidamente licenciada, apresentando endereço completo e licença ambiental do local/empreendimento;
+- **Anexo IV, linha 363** {#anexo4_lin363} h. Detalhar as estruturas de contenção e drenagem que se fizerem necessárias a serem implantadas para garantir a estabilidade da obra, bem como para evitar quaisquer danos ou interferências tais como infiltrações, alagamentos e deslizamentos de solo, aos imóveis vizinhos, sistema viário ou bens públicos. Caso o projeto não apresente necessidade de tais dispositivos, apresentar justificativa técnica; i.
+- **Anexo IV, linha 364** {#anexo4_lin364} Informar as medidas que se fizerem necessárias e a serem adotadas para evitar a formação de processos erosivos e de movimentação de massa na área ou em suas imediações, bem como para evitar a ocorrência e assoreamentos de sistemas de drenagem, corpos hídricos, lagos, lagoas, banhados, nascentes e outras estruturas. Caso o projeto não apresente necessidade de adoção de tais medidas, apresentar justificativa técnica;
+- **Anexo IV, linha 365** {#anexo4_lin365} j.
+- **Anexo IV, linha 366** {#anexo4_lin366} Detalhar as medidas de segurança para vedação do terreno e adoção de medidas de segurança de forma a evitar despejos de resíduos clandestinos no local, tais como: tintas e solventes, materiais e solos contaminados, resíduos
+- **Anexo IV, linha 367** {#anexo4_lin367} contendo amianto, gesso, isopor, tubos de PVC, vidros, papéis, papelão, madeira, pneus, sacos plásticos e lixo doméstico entre outros.
+- **Anexo IV, linha 368** {#anexo4_lin368} 4. RECOMENDAÇÕES/DETERMINAÇÕES A SEREM SEGUIDAS
+- **Anexo IV, linha 369** {#anexo4_lin369} a. É de inteira responsabilidade do proprietário do imóvel e de seu representante legal a vedação do terreno ou a adoção de medidas de segurança de forma a evitar despejos clandestinos de resíduos no local;
+- **Anexo IV, linha 370** {#anexo4_lin370} b. Deverão ser preservadas todas as árvores cujo corte não tenha sido autorizado;
+- **Anexo IV, linha 371** {#anexo4_lin371} c. Deverá proceder a lavagem do rodado dos caminhões e equipamentos utilizados na movimentação de solo, de maneira adequada, para que não haja comprometimento das vias de trânsito;
+- **Anexo IV, linha 372** {#anexo4_lin372} d. Os resíduos excedentes da terraplanagem deverão ser destinados a local com aterro licenciado.
+- **Anexo IV, linha 373** {#anexo4_lin373} 5. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos e projetos apresentados, bem como da execução dos trabalhos, junto aos respectivos conselhos de classe.
+- **Anexo IV, linha 374** {#anexo4_lin374} 6. REFERÊNCIAS BIBLIOGRÁFICAS Citar as referências consultadas, incluindo as páginas eletrônicas com data e hora do acesso, segundo as normas de publicação de trabalhos científicos da Associação Brasileira de Normas Técnicas-ABNT. OBS: Todos os estudos e plantas deverão ser apresentados em meio digital, em arquivos formato PDF.
+
+## Síntese do conversor (não é texto normativo) {#sintese}
+
+> Síntese elaborada pelo conversor para apoiar a análise. Não substitui o texto do anexo; em caso de divergência, vale o texto.
+
+### O que o estudo deve conter
+
+- Memorial descritivo e informações cadastrais, processo industrial e fontes geradoras.
+- Projetos executivos dos sistemas de controle de efluentes, emissões atmosféricas, resíduos e águas pluviais, com dimensionamento e desenhos.
+- Projeto de terraplanagem, movimentação de solo, drenagem, estabilidade e medidas de prevenção e controle ambiental.
+
+### Modalidades e atividade
+
+- Aplica-se exclusivamente a empreendimentos e atividades de fundição de chumbo.
+- As modalidades listadas refletem as remissões documentais da norma-mãe; exigibilidade e fase devem ser confirmadas no artigo correspondente.
+
+### Referências técnicas e normativas
+
+- O documento deve observar as referências legais e técnicas citadas na própria transcrição e ser acompanhado da ART do profissional habilitado quando exigida.
+- Para PGRS, o anexo cita a Seção V da Lei Federal 12.305/2010; para emissões, efluentes e ruído, aplicam-se os padrões expressamente indicados no texto.
+
+## Notas de transcrição {#notas-transcricao}
+
+- Cabeçalhos, rodapés e paginação foram removidos; quebras meramente gráficas e palavras hifenizadas ao fim de linha foram reunidas.
+- Tabelas e quadros constantes do texto foram mantidos como linhas textuais; sua conferência visual deve acompanhar a revisão da norma-mãe.

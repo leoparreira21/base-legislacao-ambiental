@@ -1,0 +1,4469 @@
+---
+anexo: Roteiro IRARA conclusivo
+norma_mae: "[[instrucao-normativa-iat-4-2024]]"
+arquivo: instrucao-normativa-iat-4-2024-roteiro-irara
+tipo_anexo: procedimento-tecnico
+estudo: "Roteiro de Análise Perimetral de Imóvel Rural de Assentamento de Reforma Agrária"
+atividades: [assentamento-rural, cadastro-ambiental-rural]
+modalidades: [nenhuma]
+tags: [app, car, cobertura-solo, geoprocessamento, imovel-rural, incra, reserva-legal, sicar, sobreposicao, uso-restrito]
+fonte: "PDF Roteiro IRARA conclusivo, versão 1.0, de 02/10/2024, 140 páginas, fornecido pelo usuário"
+---
+
+# Roteiro de Análise Perimetral de Imóvel Rural de Assentamento de Reforma Agrária
+
+> Documento procedimental complementar à Instrução Normativa IAT nº 4/2024. Por ter 140 páginas e não ser termo de referência nem modelo, foi preservado integralmente em arquivo próprio como exceção editorial de tamanho; sua natureza é tipo 3.
+
+## Texto do roteiro
+- **Roteiro IRARA, linha 1** {#roteiro_irara_lin1} ROTEIRO DE ANÁLISE PERIMETRAL DE IMÓVEL RURAL DE
+- **Roteiro IRARA, linha 2** {#roteiro_irara_lin2} ASSENTAMENTO DE REFORMA AGRÁRIA
+- **Roteiro IRARA, linha 3** {#roteiro_irara_lin3} Execução técnica:
+- **Roteiro IRARA, linha 4** {#roteiro_irara_lin4} IAT/Simepar – Sicar 2-PR
+- **Roteiro IRARA, linha 5** {#roteiro_irara_lin5} OUT/2024
+- **Roteiro IRARA, linha 6** {#roteiro_irara_lin6} José Luiz Scroccaro
+- **Roteiro IRARA, linha 7** {#roteiro_irara_lin7} DIRETORIA DE LICENCIAMENTO E OUTORGA – DILIO
+- **Roteiro IRARA, linha 8** {#roteiro_irara_lin8} José Volnei Bisognin
+- **Roteiro IRARA, linha 9** {#roteiro_irara_lin9} GERÊNCIA DE LICENCIAMENTO – GELI
+- **Roteiro IRARA, linha 10** {#roteiro_irara_lin10} Ivonete Coelho da Silva Chaves
+- **Roteiro IRARA, linha 11** {#roteiro_irara_lin11} DIVISÃO DE LICENCIAMENTO DE FAUNA E FLORA
+- **Roteiro IRARA, linha 12** {#roteiro_irara_lin12} José Wilson Carvalho
+- **Roteiro IRARA, linha 13** {#roteiro_irara_lin13} SETOR CAR
+- **Roteiro IRARA, linha 14** {#roteiro_irara_lin14} Ayrton Luiz Torricillas Machado
+- **Roteiro IRARA, linha 15** {#roteiro_irara_lin15} EQUIPE TÉCNICA
+- **Roteiro IRARA, linha 16** {#roteiro_irara_lin16} Claudia Sonda – Engenheira Florestal, Dr.
+- **Roteiro IRARA, linha 17** {#roteiro_irara_lin17} Camila Oliveira Batista – Engenheira Florestal
+- **Roteiro IRARA, linha 18** {#roteiro_irara_lin18} Raquel Mendes Rodrigues- Geógrafa
+- **Roteiro IRARA, linha 19** {#roteiro_irara_lin19} Reinaldo Kaminski - Advogado
+- **Roteiro IRARA, linha 20** {#roteiro_irara_lin20} Vinícius Zequini Ruy - Engenheiro Florestal
+- **Roteiro IRARA, linha 21** {#roteiro_irara_lin21} SIMEPAR
+- **Roteiro IRARA, linha 22** {#roteiro_irara_lin22} Paulo de Tarso de Lara Pires
+- **Roteiro IRARA, linha 23** {#roteiro_irara_lin23} Diretoria de Inovação
+- **Roteiro IRARA, linha 24** {#roteiro_irara_lin24} Flavio Andre Cecchini Deppe
+- **Roteiro IRARA, linha 25** {#roteiro_irara_lin25} EQUIPE TÉCNICA
+- **Roteiro IRARA, linha 26** {#roteiro_irara_lin26} Marco Aurélio Paula – Engenheiro Agrimensor, Esp
+- **Roteiro IRARA, linha 27** {#roteiro_irara_lin27} INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA -INCRA/PR
+- **Roteiro IRARA, linha 28** {#roteiro_irara_lin28} Nilton Bezerra Guedes
+- **Roteiro IRARA, linha 29** {#roteiro_irara_lin29} Superintendente Regional
+- **Roteiro IRARA, linha 30** {#roteiro_irara_lin30} EQUIPE TÉCNICA
+- **Roteiro IRARA, linha 31** {#roteiro_irara_lin31} Cleomar Mariani - Engenheiro Agrônomo, Msc.
+- **Roteiro IRARA, linha 32** {#roteiro_irara_lin32} Ronilson Marques Campos – Engenheiro Agrônomo, Me.
+- **Roteiro IRARA, linha 33** {#roteiro_irara_lin33} Edevar Perin – Engenheiro Agrônomo, Msc.
+- **Roteiro IRARA, linha 34** {#roteiro_irara_lin34} VERSÕES
+- **Roteiro IRARA, linha 35** {#roteiro_irara_lin35} Responsável pelo documento: Instituto Água e Terra e Sistema de Tecnologia e Monitoramento Ambiental
+- **Roteiro IRARA, linha 36** {#roteiro_irara_lin36} do Paraná
+- **Roteiro IRARA, linha 37** {#roteiro_irara_lin37} Versão do arquivo: 1.0
+- **Roteiro IRARA, linha 38** {#roteiro_irara_lin38} Data: 02/10/2024
+- **Roteiro IRARA, linha 39** {#roteiro_irara_lin39} Sumário
+- **Roteiro IRARA, linha 40** {#roteiro_irara_lin40} 1.
+- **Roteiro IRARA, linha 41** {#roteiro_irara_lin41} 2.
+- **Roteiro IRARA, linha 42** {#roteiro_irara_lin42} INTRODUÇÃO ................................................................................................................ 10
+- **Roteiro IRARA, linha 43** {#roteiro_irara_lin43} IMÓVEIS RURAIS DE ASSENTAMENTOS DE REFORMA AGRÁRIA NO ESTADO DO PARANÁ
+- **Roteiro IRARA, linha 44** {#roteiro_irara_lin44} 3.
+- **Roteiro IRARA, linha 45** {#roteiro_irara_lin45} DOCUMENTOS COMPROBATÓRIOS NO SICAR .............................................................. 12
+- **Roteiro IRARA, linha 46** {#roteiro_irara_lin46} 4.
+- **Roteiro IRARA, linha 47** {#roteiro_irara_lin47} ANÁLISE TÉCNICA NO AMBIENTE DO SICAR NACIONAL................................................. 14
+- **Roteiro IRARA, linha 48** {#roteiro_irara_lin48} 4.1.
+- **Roteiro IRARA, linha 49** {#roteiro_irara_lin49} DOCUMENTOS ENVIADOS............................................................................................. 15
+- **Roteiro IRARA, linha 50** {#roteiro_irara_lin50} 4.2.
+- **Roteiro IRARA, linha 51** {#roteiro_irara_lin51} ANÁLISE DA FICHA DO IMÓVEL ..................................................................................... 16
+
+### 4.2.1. ABA DADOS DO IMÓVEL ............................................................................................... 17
+
+- **Roteiro IRARA, linha 53** {#roteiro_irara_lin53} 4.3.
+- **Roteiro IRARA, linha 54** {#roteiro_irara_lin54} SOBREPOSIÇÃO DO IR ................................................................................................... 17
+
+### 4.3.1. SOBREPOSIÇÃO COM OUTROS IRS ................................................................................ 17
+
+
+### 4.3.1.1. ABA ANÁLISE ENTRE ÀREA DECLARADA E A ÁREA VETORIZADA DO IMÓVEL ANALISADO
+
+
+### 4.3.1.2. ABA ANÁLISE DE SOBREPOSIÇÕES COM OUTROS IMÓVEIS RURAIS .............................. 19
+
+
+### 4.3.1.3. ABA ANÁLISE DE INCONSISTÊNCIAS ADICIONAIS E/OU TEMAS COMPLEMENTARES ..... 21
+
+
+### 4.3.2. SOBREPOSIÇÃO COM TERRAS INDÍGENAS..................................................................... 21
+
+
+### 4.3.3. SOBREPOSIÇÃO COM UNIDADES DE CONSERVAÇÃO .................................................... 22
+
+
+### 4.3.3.1 UNIDADES DE CONSERVAÇÃO DE USO SUSTENTÁVEL................................................... 23
+
+
+### 4.3.4. SOBREPOSIÇÃO COM ÁREAS EMBARGADAS ................................................................. 24
+
+
+### 4.3.5. SOBREPOSIÇÃO COM TERRITÓRIOS DE POVOS E COMUNIDADES TRADICIONAIS (PCT) 25
+
+- **Roteiro IRARA, linha 64** {#roteiro_irara_lin64} 4.4.
+- **Roteiro IRARA, linha 65** {#roteiro_irara_lin65} COBERTURA DO SOLO ................................................................................................... 26
+- **Roteiro IRARA, linha 66** {#roteiro_irara_lin66} 4.4.1
+- **Roteiro IRARA, linha 67** {#roteiro_irara_lin67} ABA CLASSIFICAÇÃO DO TÉCNICO ................................................................................. 28
+- **Roteiro IRARA, linha 68** {#roteiro_irara_lin68} 4.4.2
+- **Roteiro IRARA, linha 69** {#roteiro_irara_lin69} ABA ANÁLISE DA COBERTURA DO SOLO EM REMANESCENTE DE VEGETAÇÃO NATIVA
+- **Roteiro IRARA, linha 70** {#roteiro_irara_lin70} VETORIZADA PELO CADASTRANTE ............................................................................................... 29
+- **Roteiro IRARA, linha 71** {#roteiro_irara_lin71} 4.4.3
+- **Roteiro IRARA, linha 72** {#roteiro_irara_lin72} ABA ANÁLISE DA COBERTURA DA ÁREA CONSOLIDADA VETORIZADA PELO
+- **Roteiro IRARA, linha 73** {#roteiro_irara_lin73} CADASTRANTE ............................................................................................................................. 35
+- **Roteiro IRARA, linha 74** {#roteiro_irara_lin74} 4.4.4
+- **Roteiro IRARA, linha 75** {#roteiro_irara_lin75} ABA ANÁLISE DA ÁREA DE POUSIO VETORIZADA PELO CADASTRANTE ......................... 41
+- **Roteiro IRARA, linha 76** {#roteiro_irara_lin76} 4.4.5
+- **Roteiro IRARA, linha 77** {#roteiro_irara_lin77} ABA ANÁLISE DA COBERTURA DA ÁREA ANTROPIZADA NÃO CONSOLIDADA (AA)
+- **Roteiro IRARA, linha 78** {#roteiro_irara_lin78} VETORIZADA PELO CADASTRANTE ............................................................................................... 46
+- **Roteiro IRARA, linha 79** {#roteiro_irara_lin79} 4.4.6
+- **Roteiro IRARA, linha 80** {#roteiro_irara_lin80} ABA ANÁLISE DE INCONSISTÊNCIAS ADICIONAIS E/OU TEMAS COMPLEMENTARES ..... 50
+- **Roteiro IRARA, linha 81** {#roteiro_irara_lin81} 4.4.7
+- **Roteiro IRARA, linha 82** {#roteiro_irara_lin82} ABA OBSERVAÇÃO ........................................................................................................ 53
+- **Roteiro IRARA, linha 83** {#roteiro_irara_lin83} 4.5.
+- **Roteiro IRARA, linha 84** {#roteiro_irara_lin84} SERVIDÃO ADMINISTRATIVA ......................................................................................... 53
+- **Roteiro IRARA, linha 85** {#roteiro_irara_lin85} 4.5.1
+- **Roteiro IRARA, linha 86** {#roteiro_irara_lin86} INFRAESTRUTURA E UTILIDADE PÚBLICA ...................................................................... 55
+
+### 4.5.1.1 ABA CLASSIFICAÇÃO DO TÉCNICO ................................................................................. 55
+
+
+### 4.5.1.2 ABA ANÁLISE DE INFRAESTRUTURA/UTILIDADE PÚBLICA.............................................. 56
+
+- **Roteiro IRARA, linha 89** {#roteiro_irara_lin89} 4.5.2
+- **Roteiro IRARA, linha 90** {#roteiro_irara_lin90} RESERVATÓRIO PARA ABASTECIMENTO OU GERAÇÃO DE ENERGIA ............................. 59
+
+### 4.5.2.1 ABA CLASSIFICAÇÃO DO TÉCNICO ................................................................................. 60
+
+
+### 4.5.2.2 ABA RESERVATÓRIO PARA ABASTECIMENTO OU GERAÇÃO DE ENERGIA...................... 60
+
+
+### 4.5.2.3 ABA ANÁLISE DE INCONSISTÊNCIAS ADICIONAIS E/OU TEMAS COMPLEMENTARES ..... 61
+
+- **Roteiro IRARA, linha 94** {#roteiro_irara_lin94} 4.6.
+- **Roteiro IRARA, linha 95** {#roteiro_irara_lin95} ÁREA DE PRESERVAÇÃO PERMANENTE ......................................................................... 62
+- **Roteiro IRARA, linha 96** {#roteiro_irara_lin96} 4.6.1
+- **Roteiro IRARA, linha 97** {#roteiro_irara_lin97} APP HIDROGRAFIA ........................................................................................................ 63
+
+### 4.6.1.1 ABA ANÁLISE DE APP EM FUNÇÃO DE HIDROGRAFIA VETORIZADA PELO CADASTRANTE
+
+
+### 4.6.1.2 ABA ANÁLISE DE APP EM FUNÇÃO DE HIDROGRAFIA NÃO VETORIZADA PELO
+
+- **Roteiro IRARA, linha 100** {#roteiro_irara_lin100} CADASTRANTE ............................................................................................................................. 69
+
+### 4.6.1.3 ABA ANÁLISE DE COBERTURA DO SOLO NA APP EM FUNÇÃO DE HIDROGRAFIA
+
+- **Roteiro IRARA, linha 102** {#roteiro_irara_lin102} VETORIZADA PELO CADASTRANTE ............................................................................................... 71
+
+### 4.6.1.4 ABA ANÁLISE DE INCONSISTÊNCIAS ADICIONAIS E/OU TEMAS COMPLEMENTARES ..... 73
+
+
+### 4.6.1.5 ABA OBSERVAÇÃO ........................................................................................................ 74
+
+- **Roteiro IRARA, linha 105** {#roteiro_irara_lin105} 4.6.2
+- **Roteiro IRARA, linha 106** {#roteiro_irara_lin106} APP RELEVO .................................................................................................................. 75
+
+### 4.6.2.1 ABA ANÁLISE DE APP EM FUNÇÃO DE RELEVO VETORIZADA PELO CADASTRANTE ....... 76
+
+
+### 4.6.2.2 ABA ANÁLISE DE APP EM FUNÇÃO DE RELEVO NÃO VETORIZADO PELO CADASTRANTE
+
+
+### 4.6.2.3 ABA ANÁLISE DE COBERTURA DO SOLO NA APP EM FUNÇÃO DE RELEVO VETORIZADO
+
+- **Roteiro IRARA, linha 110** {#roteiro_irara_lin110} PELO CADASTRANTE .................................................................................................................... 79
+
+### 4.6.2.4 ABA ANÁLISE DE INCONSISTÊNCIAS ADICIONAIS E/OU TEMAS COMPLEMENTARES ..... 79
+
+
+### 4.6.2.5 ABA OBSERVAÇÃO ........................................................................................................ 80
+
+- **Roteiro IRARA, linha 113** {#roteiro_irara_lin113} 4.6.3
+- **Roteiro IRARA, linha 114** {#roteiro_irara_lin114} USO RESTRITO............................................................................................................... 81
+
+### 4.6.3.1 ABA ANÁLISE DA ÁREA DE USO RESTRITO VETORIZADA PELO CADASTRANTE ............... 81
+
+
+### 4.6.3.2 ABA ANÁLISE DA ÁREA DE USO RESTRITO NÃO VETORIZADA PELO CADASTRANTE....... 83
+
+
+### 4.6.3.3 ABA ANÁLISE DE SOBREPOSIÇÃO DE USO RESTRITO COM APPS EM FUNÇÃO DA
+
+- **Roteiro IRARA, linha 118** {#roteiro_irara_lin118} VETORIZAÇÃO DO CADASTRANTE ................................................................................................ 85
+
+### 4.6.3.4 ABA ANÁLISE DE COBERTURA DO SOLO NA ÁREA DE USO RESTRITO EM FUNÇÃO DA
+
+- **Roteiro IRARA, linha 120** {#roteiro_irara_lin120} VETORIZAÇÃO DO CADASTRANTE ................................................................................................ 85
+
+### 4.6.3.5 ABA ANÁLISE DE INCONSISTÊNCIAS ADICIONAIS E/OU TEMAS COMPLEMENTARES ..... 86
+
+
+### 4.6.3.6 ABA OBSERVAÇÃO ........................................................................................................ 87
+
+- **Roteiro IRARA, linha 123** {#roteiro_irara_lin123} 4.6.4
+- **Roteiro IRARA, linha 124** {#roteiro_irara_lin124} OUTRAS APPS................................................................................................................ 88
+
+### 4.6.4.1 ABA ANÁLISEDE APP VETORIZADA PELO CADASTRANTE ............................................... 88
+
+
+### 4.6.4.2 ABA ANÁLISEDE APP NÃO VETORIZADA PELO CADASTRANTE ....................................... 89
+
+
+### 4.6.4.3 ABA ANÁLISE DE COBERTURA DO SOLO NAS APP SEM FUNÇÃO DA VETORIZAÇÃO DO
+
+- **Roteiro IRARA, linha 128** {#roteiro_irara_lin128} CADASTRANTE ............................................................................................................................. 89
+
+### 4.6.4.4 ABA ANÁLISE DE INCONSISTÊNCIAS ADICIONAIS E/OU TEMAS COMPLEMENTARES ..... 90
+
+
+### 4.6.4.5 ABA OBSERVAÇÃO ........................................................................................................ 91
+
+- **Roteiro IRARA, linha 131** {#roteiro_irara_lin131} 4.7.
+- **Roteiro IRARA, linha 132** {#roteiro_irara_lin132} RESERVA LEGAL............................................................................................................. 92
+- **Roteiro IRARA, linha 133** {#roteiro_irara_lin133} 4.7.1
+- **Roteiro IRARA, linha 134** {#roteiro_irara_lin134} PARÂMETROS QUE O TÉCNICO DEVERÁ OBSERVAR PARA TODOS OS IRARA................. 93
+- **Roteiro IRARA, linha 135** {#roteiro_irara_lin135} 4.7.2
+- **Roteiro IRARA, linha 136** {#roteiro_irara_lin136} PARÂMETROS QUE O TÉCNICO DEVERÁ OBSERVAR NOS IMÓVEIS QUE POSSUEM
+- **Roteiro IRARA, linha 137** {#roteiro_irara_lin137} PLANO DE MANEJO FLORESTAL ................................................................................................... 95
+- **Roteiro IRARA, linha 138** {#roteiro_irara_lin138} 4.7.3
+- **Roteiro IRARA, linha 139** {#roteiro_irara_lin139} PARÂMETROS QUE O TÉCNICO DEVERÁ OBSERVAR NOS IMÓVEIS QUE POSSUEM
+- **Roteiro IRARA, linha 140** {#roteiro_irara_lin140} AVERBAÇÃO DE RESERVA LEGAL.................................................................................................. 96
+- **Roteiro IRARA, linha 141** {#roteiro_irara_lin141} 4.7.4
+- **Roteiro IRARA, linha 142** {#roteiro_irara_lin142} PARÂMETROS QUE O TÉCNICO DEVERÁ OBSERVAR REFERENTE À COMPENSAÇÃO DE
+- **Roteiro IRARA, linha 143** {#roteiro_irara_lin143} RESERVA LEGAL ........................................................................................................................... 98
+- **Roteiro IRARA, linha 144** {#roteiro_irara_lin144} 4.7.5
+- **Roteiro IRARA, linha 145** {#roteiro_irara_lin145} RESERVA LEGAL AVERBADA (RLA), RESERVA LEGAL APROVADA E NÃO AVERBADA
+- **Roteiro IRARA, linha 146** {#roteiro_irara_lin146} (RLANA) 101
+- **Roteiro IRARA, linha 147** {#roteiro_irara_lin147} 4.7.6
+- **Roteiro IRARA, linha 148** {#roteiro_irara_lin148} ÁREA DE RL EXIGIDA POR LEI....................................................................................... 101
+
+### 4.7.6.1 ABA ANÁLISE DO CÔMPUTO DA APP NO PERCENTUAL DE RL ..................................... 101
+
+
+### 4.7.6.2 ABA BALANÇO DO PASSIVO OU EXCEDENTE DE RESERVA LEGAL DENTRO DO IR ........ 102
+
+
+### 4.7.6.3 APLICAÇÃO DO ARTIGO 67 DA LEI Nº 12.651/2012..................................................... 103
+
+
+### 4.7.6.4 ABA ANÁLISE DE DECLARAÇÕES DE COMPENSAÇÃO DE RESERVA LEGAL ................... 105
+
+
+### 4.7.6.4.1 COMPENSAÇÃO AMBIENTAL POR SERVIDÃO AMBIENTAL: ......................................... 106
+
+
+### 4.7.6.4.2 ABA ANÁLISE DE INCONSISTÊNCIAS ADICIONAIS E/OU TEMAS COMPLEMENTARES ... 110
+
+
+### 4.7.6.5 REMANESCENTE DE VEGETAÇÃO NATIVA NÃO DECLARADO COMO RESERVA LEGAL . 111
+
+
+### 4.7.6.6 RESERVA LEGAL NÃO VETORIZADA ............................................................................. 111
+
+
+### 4.7.6.7 LOCALIZAÇÃO E COBERTURA DO SOLO ....................................................................... 112
+
+
+### 4.7.6.8 ABA ANÁLISE DA LOCALIZAÇÃO DA RESERVA LEGAL ................................................... 112
+
+
+### 4.7.6.9 ABA ANÁLISE DO USO E COBERTURA DO SOLO NA RL................................................. 113
+
+
+### 4.7.6.10 ABA APROVAÇÃO DA LOCALIZAÇÃO DA RESERVALEGAL ............................................. 115
+
+
+### 4.7.6.11 ABA ANÁLISE DE INCONSISTÊNCIAS ADICIONAIS E/OU TEMAS COMPLEMENTARES ... 116
+
+
+### 4.7.6.12 ABA OBSERVAÇÃO ...................................................................................................... 117
+
+- **Roteiro IRARA, linha 163** {#roteiro_irara_lin163} 4.8.
+- **Roteiro IRARA, linha 164** {#roteiro_irara_lin164} REGULARIDADE IR ....................................................................................................... 118
+- **Roteiro IRARA, linha 165** {#roteiro_irara_lin165} 4.8.1
+- **Roteiro IRARA, linha 166** {#roteiro_irara_lin166} ABA ÁREAS FORA DA APP, RL E USO RESTRITO............................................................ 118
+- **Roteiro IRARA, linha 167** {#roteiro_irara_lin167} 4.8.2
+- **Roteiro IRARA, linha 168** {#roteiro_irara_lin168} ABA ÁREAS DE USO RESTRITO ..................................................................................... 119
+- **Roteiro IRARA, linha 169** {#roteiro_irara_lin169} 4.8.3
+- **Roteiro IRARA, linha 170** {#roteiro_irara_lin170} ABA ÁREAS DE PRESERVAÇÃO PERMANENTE.............................................................. 119
+- **Roteiro IRARA, linha 171** {#roteiro_irara_lin171} 4.8.4
+- **Roteiro IRARA, linha 172** {#roteiro_irara_lin172} ABA ÁREAS EM RESERVA LEGAL .................................................................................. 120
+- **Roteiro IRARA, linha 173** {#roteiro_irara_lin173} 4.8.5
+- **Roteiro IRARA, linha 174** {#roteiro_irara_lin174} ABA BALANÇO DO PASSIVO OU EXCEDENTE DE RESERVA LEGAL ................................ 120
+- **Roteiro IRARA, linha 175** {#roteiro_irara_lin175} 4.8.6
+- **Roteiro IRARA, linha 176** {#roteiro_irara_lin176} ABA ANÁLISE DAS INFORMAÇÕES PRESTADAS NO CADASTRO.................................... 120
+- **Roteiro IRARA, linha 177** {#roteiro_irara_lin177} ANEXO I – BRACATINGAL (MIMOSASCABRELLA) ........................................................................ 122
+- **Roteiro IRARA, linha 178** {#roteiro_irara_lin178} ANEXO II – PISCICULTURA .......................................................................................................... 124
+- **Roteiro IRARA, linha 179** {#roteiro_irara_lin179} ANEXO III – MUNICÍPIO DE ABRANGÊNCIA DOS VINTE E UM REGIONAIS DO IAT....................... 126
+- **Roteiro IRARA, linha 180** {#roteiro_irara_lin180} ANEXO IV – PORTARIA Nº15/2021 ............................................................................................. 130
+- **Roteiro IRARA, linha 181** {#roteiro_irara_lin181} ANEXO V – RESOLUÇÃO SEDEST Nº 18/2020 ............................................................................. 132
+- **Roteiro IRARA, linha 182** {#roteiro_irara_lin182} ANEXO VI – RESOLUÇÃO SEDEST Nº 33/2020 ............................................................................ 135
+- **Roteiro IRARA, linha 183** {#roteiro_irara_lin183} LISTA DE FIGURAS
+- **Roteiro IRARA, linha 184** {#roteiro_irara_lin184} Figura 1. Aba Documentos Enviados....................................................................................................... 16
+- **Roteiro IRARA, linha 185** {#roteiro_irara_lin185} Figura 2. Divergência entre área declarada e área vetorizada. .............................................................. 18
+- **Roteiro IRARA, linha 186** {#roteiro_irara_lin186} Figura 3. Aba Análise de sobreposições com outros imóveis rurais ....................................................... 20
+- **Roteiro IRARA, linha 187** {#roteiro_irara_lin187} Figura 4. Exemplo de sobreposição com outros IRs ............................................................................... 20
+- **Roteiro IRARA, linha 188** {#roteiro_irara_lin188} Figura 5. Sobreposição do imóvel com terras indígenas ........................................................................ 22
+- **Roteiro IRARA, linha 189** {#roteiro_irara_lin189} Figura 6. Sobreposição com UC de Uso Sustentável ............................................................................... 23
+- **Roteiro IRARA, linha 190** {#roteiro_irara_lin190} Figura 7. Área embargada identificada pelo GeoSicar ............................................................................ 24
+- **Roteiro IRARA, linha 191** {#roteiro_irara_lin191} Figura 8. Aba Análise de sobreposições com áreas embargadas ............................................................ 25
+- **Roteiro IRARA, linha 192** {#roteiro_irara_lin192} Figura 9. Classificação do técnico............................................................................................................ 29
+- **Roteiro IRARA, linha 193** {#roteiro_irara_lin193} Figura 10. GeoSICAR ................................................................................................................................ 30
+- **Roteiro IRARA, linha 194** {#roteiro_irara_lin194} Figura 12. Desconsiderando a inconsistência ......................................................................................... 31
+- **Roteiro IRARA, linha 195** {#roteiro_irara_lin195} Figura 11. À esquerda, declaração do proprietário no SICAR; à direita, verificação no GoogleEarth .... 30
+- **Roteiro IRARA, linha 196** {#roteiro_irara_lin196} Figura 13. Retirar marcações dos polígonos das classes desejadas para desconsiderar as inconsistências.
+- **Roteiro IRARA, linha 197** {#roteiro_irara_lin197} ................................................................................................................................................................. 31
+- **Roteiro IRARA, linha 198** {#roteiro_irara_lin198} Figura 14. Exemplo da análise de AC declarada como RVN .................................................................... 32
+- **Roteiro IRARA, linha 199** {#roteiro_irara_lin199} Figura 15. Exemplo de análise de AA classificada como RVN ................................................................. 33
+- **Roteiro IRARA, linha 200** {#roteiro_irara_lin200} Figura 16. GeoSICAR ................................................................................................................................ 36
+- **Roteiro IRARA, linha 201** {#roteiro_irara_lin201} Figura 17. Desconsiderar a inconsistência inserida automaticamente pelo sistema ............................. 36
+- **Roteiro IRARA, linha 202** {#roteiro_irara_lin202} Figura 18. Exemplo de análise de RVN em AC ........................................................................................ 37
+- **Roteiro IRARA, linha 203** {#roteiro_irara_lin203} Figura 19. ÁreaAntropizadaNãoConsolidadadeclaradacomoÁreaConsolidada ...................................... 38
+- **Roteiro IRARA, linha 204** {#roteiro_irara_lin204} Figura 20. RVN declarada como Área de Pousio ..................................................................................... 43
+- **Roteiro IRARA, linha 205** {#roteiro_irara_lin205} Figura 21. Área Antropizada Não Consolidada declarada como Área de Pousio ................................... 44
+- **Roteiro IRARA, linha 206** {#roteiro_irara_lin206} Figura 22. Ausência de vetorização da classe de Remanescente de Vegetação Nativa. ........................ 47
+- **Roteiro IRARA, linha 207** {#roteiro_irara_lin207} Figura 23. Formatação da inconsistência a ser enviada para o proprietário para os casos da Situação 01.
+- **Roteiro IRARA, linha 208** {#roteiro_irara_lin208} ................................................................................................................................................................. 48
+- **Roteiro IRARA, linha 209** {#roteiro_irara_lin209} Figura 24. Documentos necessários para regularização de Áreas Antropizadas Não Consolidadas (AA)
+- **Roteiro IRARA, linha 210** {#roteiro_irara_lin210} declaradas no imóvel............................................................................................................................... 48
+- **Roteiro IRARA, linha 211** {#roteiro_irara_lin211} Figura 25. Edição da justificativa de desconsideração da inconsistência ............................................... 49
+- **Roteiro IRARA, linha 212** {#roteiro_irara_lin212} Figura 26. Espaços entre as classes de cobertura do solo ...................................................................... 49
+- **Roteiro IRARA, linha 213** {#roteiro_irara_lin213} Figura 27. . Edição da inconsistência de retificação dos espaços vazios classificados erroneamente como
+- **Roteiro IRARA, linha 214** {#roteiro_irara_lin214} AA na etapa de uso e cobertura do solo ................................................................................................. 50
+- **Roteiro IRARA, linha 215** {#roteiro_irara_lin215} Figura 28. Edição da inconsistência adiciona de sugestão do técnico para áreas de RVN ..................... 51
+- **Roteiro IRARA, linha 216** {#roteiro_irara_lin216} Figura 29. Edição da inconsistência adiciona de Sugestão do técnico para área Consolidada............... 52
+- **Roteiro IRARA, linha 217** {#roteiro_irara_lin217} Figura 30. Deslocamento de Geometria. O erro ocorre tanto na imagem Rapidye (dentro do sistema)
+- **Roteiro IRARA, linha 218** {#roteiro_irara_lin218} quanto no Google Earth (análise externa). ............................................................................................. 53
+- **Roteiro IRARA, linha 219** {#roteiro_irara_lin219} Figura 31. Detalhes do Imóvel abaGeo ................................................................................................... 55
+- **Roteiro IRARA, linha 220** {#roteiro_irara_lin220} Figura 32. Classificação do técnico .......................................................................................................... 56
+- **Roteiro IRARA, linha 221** {#roteiro_irara_lin221} Figura 33. Declaração inconsistente com a realidade do imóvel............................................................ 57
+- **Roteiro IRARA, linha 222** {#roteiro_irara_lin222} Figura 34. Solicitação da documentação comprobatória de área de Servidão Administrativa .............. 58
+- **Roteiro IRARA, linha 223** {#roteiro_irara_lin223} Figura 35. Vetorização inconsistente com a realidade do imóvel .......................................................... 59
+- **Roteiro IRARA, linha 224** {#roteiro_irara_lin224} Figura 36. APP no entorno de reservatório artificial decorrente de barramento .................................. 60
+- **Roteiro IRARA, linha 225** {#roteiro_irara_lin225} Figura 37. Aba de análise do Reservatório para abastecimento ou geração de energia no CAR ........... 60
+- **Roteiro IRARA, linha 226** {#roteiro_irara_lin226} Figura 38. APP Hidrografia conformeaLei nº 12.651/2012 ..................................................................... 67
+- **Roteiro IRARA, linha 227** {#roteiro_irara_lin227} Figura 39. Aba Análise da APP em função da hidrografia vetorizada pelo cadastrante ......................... 68
+- **Roteiro IRARA, linha 228** {#roteiro_irara_lin228} Figura 40. Classe de APP hidrografia inadequada. Nesse caso, o proprietário/possuidor declarou um
+- **Roteiro IRARA, linha 229** {#roteiro_irara_lin229} curso d´água de até 10 metros, sendo que o correto seria a classe de 10 a 50metros .......................... 68
+- **Roteiro IRARA, linha 230** {#roteiro_irara_lin230} Figura 41. Curso d´água deslocada em relação à realidade do imóvel ................................................... 68
+- **Roteiro IRARA, linha 231** {#roteiro_irara_lin231} Figura 42. Tanques/viveiros não declarados no CAR .............................................................................. 69
+- **Roteiro IRARA, linha 232** {#roteiro_irara_lin232} Figura 43. Adicionar Inconsistencia......................................................................................................... 69
+- **Roteiro IRARA, linha 233** {#roteiro_irara_lin233} Figura 44. Hidrografia não vetorizada pelo cadastrante......................................................................... 70
+- **Roteiro IRARA, linha 234** {#roteiro_irara_lin234} Figura 45. À esquerda, curso d´água constante na base cartográfica de hidrografia do Estado do Paraná.
+- **Roteiro IRARA, linha 235** {#roteiro_irara_lin235} À direita, verificação da inexistência do curso d´água no Google Earth ................................................. 71
+- **Roteiro IRARA, linha 236** {#roteiro_irara_lin236} Figura 46. Ficha do imóvel quanto a adesão ao Programa de Regularização Ambiental ....................... 71
+- **Roteiro IRARA, linha 237** {#roteiro_irara_lin237} Figura 47. Quadro Resumo da APP Hidrografia quanto a adesão ao PRA e áreas a recompor .............. 72
+- **Roteiro IRARA, linha 238** {#roteiro_irara_lin238} Figura 48. Cobertura do Solo na APP ...................................................................................................... 72
+- **Roteiro IRARA, linha 239** {#roteiro_irara_lin239} Figura 49. APP Relevo conforme a Lei nº 12.651/2012 .......................................................................... 75
+- **Roteiro IRARA, linha 240** {#roteiro_irara_lin240} Figura 50. APP Borda de Chapada conforme a Lei nº 12.651/2012........................................................ 76
+- **Roteiro IRARA, linha 241** {#roteiro_irara_lin241} Figura 51. Base de dados de APP Relevo-GEOSICAR ............................................................................... 77
+- **Roteiro IRARA, linha 242** {#roteiro_irara_lin242} Figura 52. Aba Análise da APP em função de relevo não vetorizado pelo cadastrante ......................... 77
+- **Roteiro IRARA, linha 243** {#roteiro_irara_lin243} Figura 53. Adição da inconsistência de área de APP Relevo não vetorizada pelo cadastrante .............. 78
+- **Roteiro IRARA, linha 244** {#roteiro_irara_lin244} Figura 54. Uso Restrito em conformidade com a Lei nº 12.651/2012 .................................................... 81
+- **Roteiro IRARA, linha 245** {#roteiro_irara_lin245} Figura 55. Mapa de Uso Restrito do GEOSICAR ...................................................................................... 82
+- **Roteiro IRARA, linha 246** {#roteiro_irara_lin246} Figura 56. Inserção de inconsistência na plataforma SICAR ................................................................... 82
+- **Roteiro IRARA, linha 247** {#roteiro_irara_lin247} Figura 57. UR inexistente ........................................................................................................................ 83
+- **Roteiro IRARA, linha 248** {#roteiro_irara_lin248} Figura 58. Adicionar inconsistencia ......................................................................................................... 83
+- **Roteiro IRARA, linha 249** {#roteiro_irara_lin249} Figura 59. APP Uso Restrito não vetorizado pelo cadastrante ............................................................... 84
+- **Roteiro IRARA, linha 250** {#roteiro_irara_lin250} Figura 60. SituaçãodaRLparaimóveisaté 04MF ....................................................................................... 94
+- **Roteiro IRARA, linha 251** {#roteiro_irara_lin251} Figura 61. Exemplo de Reserva Legal Averbada em Matrícula ............................................................... 98
+- **Roteiro IRARA, linha 252** {#roteiro_irara_lin252} Figura 62. APP computada como RL ..................................................................................................... 102
+- **Roteiro IRARA, linha 253** {#roteiro_irara_lin253} Figura 63. Informações da aba "Balanço do passivo ou excedente de Reserva Legal dentro do IR" ... 103
+- **Roteiro IRARA, linha 254** {#roteiro_irara_lin254} Figura 64. Aplicação do art. 67, da Lei nº 12.651/2012 ........................................................................ 104
+- **Roteiro IRARA, linha 255** {#roteiro_irara_lin255} Figura 65. Aba Balanço do passivo ou excedente de Reserva Legal dentro do IR ................................ 110
+- **Roteiro IRARA, linha 256** {#roteiro_irara_lin256} Figura 66. Aba Análise de inconsistências adicionais e/ou temas complementares ............................ 110
+- **Roteiro IRARA, linha 257** {#roteiro_irara_lin257} Figura 67. Vetorização de RVN não declarado como RL ....................................................................... 111
+- **Roteiro IRARA, linha 258** {#roteiro_irara_lin258} Figura 68. Aba Análise do uso e cobertura do solo na RL ..................................................................... 114
+- **Roteiro IRARA, linha 259** {#roteiro_irara_lin259} Figura 69. AbaAprovaçãodalocalizaçãodaReservaLegal ....................................................................... 115
+- **Roteiro IRARA, linha 260** {#roteiro_irara_lin260} Figura 70. Não aprovação da localização da Reserva Legal .................................................................. 116
+- **Roteiro IRARA, linha 261** {#roteiro_irara_lin261} Figura 71. Informações declaradas pelo proprietário ........................................................................... 117
+- **Roteiro IRARA, linha 262** {#roteiro_irara_lin262} Figura 72. Aba Observação.................................................................................................................... 118
+- **Roteiro IRARA, linha 263** {#roteiro_irara_lin263} Figura 73. Memória de cálculo para áreas de uso restrito ................................................................... 119
+- **Roteiro IRARA, linha 264** {#roteiro_irara_lin264} Figura 74. Memória de cálculo para áreas de preservação permanente ............................................. 120
+- **Roteiro IRARA, linha 265** {#roteiro_irara_lin265} Figura 75. Memória de cálculo para áreas de reserva legal ................................................................. 120
+- **Roteiro IRARA, linha 266** {#roteiro_irara_lin266} Figura 76. Memória de cálculo referente ao passivo/excedente de reserva legal ............................... 120
+- **Roteiro IRARA, linha 267** {#roteiro_irara_lin267} Figura 77. Análise das informações prestadas no cadastro .................................................................. 121
+- **Roteiro IRARA, linha 268** {#roteiro_irara_lin268} Figura 78. Municípios com Bracatinga no Estado do Paraná ................................................................ 122
+- **Roteiro IRARA, linha 269** {#roteiro_irara_lin269} LISTA DE QUADROS
+- **Roteiro IRARA, linha 270** {#roteiro_irara_lin270} Quadro 1. Quantitativo de imóveis rurais de reforma agrária (Fonte:INCRA 10/11/2023). .................. 11
+- **Roteiro IRARA, linha 271** {#roteiro_irara_lin271} Quadro 2. Limites de tolerância com UCs ............................................................................................... 22
+- **Roteiro IRARA, linha 272** {#roteiro_irara_lin272} Quadro 3. Limites de tolerância previstos para a servidão administrativa ............................................ 54
+- **Roteiro IRARA, linha 273** {#roteiro_irara_lin273} Quadro 4. Áreas de Preservação Permanente (APP) e necessidades de recuperação em áreas rurais de
+- **Roteiro IRARA, linha 274** {#roteiro_irara_lin274} uso consolidado em APP, conforme a Lei nº 12.651/2012 ..................................................................... 66
+- **Roteiro IRARA, linha 275** {#roteiro_irara_lin275} Quadro 5. Fonte: Sttenbock et al. (2011). Diferenças estruturais de Bracatingais e Vegetação Secundária
+- **Roteiro IRARA, linha 276** {#roteiro_irara_lin276} ............................................................................................................................................................... 122
+
+### 1. INTRODUÇÃO
+
+- **Roteiro IRARA, linha 278** {#roteiro_irara_lin278} O presente documento foi elaborado pelo Instituto Água e Terra (IAT) e Sistema de
+- **Roteiro IRARA, linha 279** {#roteiro_irara_lin279} Tecnologia e Monitoramento Ambiental do Paraná (SIMEPAR) com o objetivo de estabelecer um
+- **Roteiro IRARA, linha 280** {#roteiro_irara_lin280} roteiro de análise específico para Imóvel Rural de Assentamento de Reforma Agrária (IRARA).
+- **Roteiro IRARA, linha 281** {#roteiro_irara_lin281} O objetivo principal é orientar os analistas e os gerentes operacionais na padronização
+- **Roteiro IRARA, linha 282** {#roteiro_irara_lin282} de ações quanto à análise do CAR para os imóveis rurais de assentamentos de reforma agrária
+- **Roteiro IRARA, linha 283** {#roteiro_irara_lin283} que são considerados como IR de até 04MF, de acordo com artigo 2º da IN02 MMA/2014.
+- **Roteiro IRARA, linha 284** {#roteiro_irara_lin284} Este documento reúne uma série de procedimentos e ações que foram aperfeiçoados
+- **Roteiro IRARA, linha 285** {#roteiro_irara_lin285} visando definir um padrão de análise eficiente que será adotado pelas equipes de análise. Além
+- **Roteiro IRARA, linha 286** {#roteiro_irara_lin286} disso, apresentou-se a base legal para cada etapa da análisedos imóveisaté 04 MF, que é como
+- **Roteiro IRARA, linha 287** {#roteiro_irara_lin287} são considerados os imóveis rurais de assentamentos de reforma agrária.
+
+### 2. IMÓVEIS RURAIS DE ASSENTAMENTOS DE REFORMA AGRÁRIA NO
+
+- **Roteiro IRARA, linha 289** {#roteiro_irara_lin289} ESTADO DO PARANÁ
+- **Roteiro IRARA, linha 290** {#roteiro_irara_lin290} O conceito de imóvel rural para fins do CAR é definido pela IN 02 MMA/2014 que diz o
+- **Roteiro IRARA, linha 291** {#roteiro_irara_lin291} seguinte:
+- **Roteiro IRARA, linha 292** {#roteiro_irara_lin292} “Art.2oParaos efeitos desta Instrução Normativa, entende-se por:
+- **Roteiro IRARA, linha 293** {#roteiro_irara_lin293} I) imóvel rural: o prédio rústico de área contínua, qualquer que seja sua localização,
+- **Roteiro IRARA, linha 294** {#roteiro_irara_lin294} que se destine ou possa se destinar à exploração agrícola, pecuária, extrativa
+- **Roteiro IRARA, linha 295** {#roteiro_irara_lin295} vegetal, florestal ou agroindustrial, conforme disposto no inciso I do art. 4o da Lei
+- **Roteiro IRARA, linha 296** {#roteiro_irara_lin296} no 8.629, de 25 de fevereiro de 1993, podendo ser caracterizado como:
+- **Roteiro IRARA, linha 297** {#roteiro_irara_lin297} a)
+- **Roteiro IRARA, linha 298** {#roteiro_irara_lin298} pequena propriedade ou posse: com área de até 4 (quatro) módulos fiscais,
+- **Roteiro IRARA, linha 299** {#roteiro_irara_lin299} incluindo aquelas descritas nos termos do inciso V1 do art. 3odaLei no 12.651, de
+- **Roteiro IRARA, linha 300** {#roteiro_irara_lin300} 2012 (nesse art. foi definido que os assentamentos rurais são considerados como
+- **Roteiro IRARA, linha 301** {#roteiro_irara_lin301} imóveis rurais até quatro módulos fiscais (grifo nosso)
+- **Roteiro IRARA, linha 302** {#roteiro_irara_lin302} Conforme dados do SICAR Nacional, o Estado do Paraná possui 327 imóveis rurais de
+- **Roteiro IRARA, linha 303** {#roteiro_irara_lin303} reforma agrária com inscrição no CAR. até outubro de 2023. A tabela 02 demonstra o quantitativo
+- **Roteiro IRARA, linha 304** {#roteiro_irara_lin304} de imóveis rurais de reforma agrária distribuídos entre 20 (vinte) regionais do IAT.
+- **Roteiro IRARA, linha 305** {#roteiro_irara_lin305} 1Lei 12.651/12 Art. 3.V - pequena propriedade ou posse rural familiar: aquela explorada mediante o
+- **Roteiro IRARA, linha 306** {#roteiro_irara_lin306} trabalho pessoal do agricultor familiar e em- preendedor familiar rural, incluindo os assentamentos e
+- **Roteiro IRARA, linha 307** {#roteiro_irara_lin307} projetos de reforma agrária, e que atenda ao disposto no art. 3o da Lei no 11 . 3 2 6 , de 24 de julho de
+- **Roteiro IRARA, linha 308** {#roteiro_irara_lin308} 2006;
+- **Roteiro IRARA, linha 309** {#roteiro_irara_lin309} Quadro 1. Quantitativo de imóveis rurais de reforma agrária (Fonte:INCRA 10/11/2023).
+- **Roteiro IRARA, linha 310** {#roteiro_irara_lin310} Regional
+- **Roteiro IRARA, linha 311** {#roteiro_irara_lin311} Total
+- **Roteiro IRARA, linha 312** {#roteiro_irara_lin312} Litoral
+- **Roteiro IRARA, linha 313** {#roteiro_irara_lin313} Ponta Grossa
+- **Roteiro IRARA, linha 314** {#roteiro_irara_lin314} União da Vitória
+- **Roteiro IRARA, linha 315** {#roteiro_irara_lin315} Toledo
+- **Roteiro IRARA, linha 316** {#roteiro_irara_lin316} Pitanga
+- **Roteiro IRARA, linha 317** {#roteiro_irara_lin317} Irati
+- **Roteiro IRARA, linha 318** {#roteiro_irara_lin318} Cascavel
+- **Roteiro IRARA, linha 319** {#roteiro_irara_lin319} Curitiba
+- **Roteiro IRARA, linha 320** {#roteiro_irara_lin320} Pato Branco
+- **Roteiro IRARA, linha 321** {#roteiro_irara_lin321} Guarapuava
+- **Roteiro IRARA, linha 322** {#roteiro_irara_lin322} Cornélio Procópio
+- **Roteiro IRARA, linha 323** {#roteiro_irara_lin323} Foz do Iguaçu
+- **Roteiro IRARA, linha 324** {#roteiro_irara_lin324} Ivaiporã
+- **Roteiro IRARA, linha 325** {#roteiro_irara_lin325} Campo Mourão
+- **Roteiro IRARA, linha 326** {#roteiro_irara_lin326} Jacarezinho
+- **Roteiro IRARA, linha 327** {#roteiro_irara_lin327} Londrina
+- **Roteiro IRARA, linha 328** {#roteiro_irara_lin328} Umuarama
+- **Roteiro IRARA, linha 329** {#roteiro_irara_lin329} Francisco Beltrão
+- **Roteiro IRARA, linha 330** {#roteiro_irara_lin330} Paranavaí
+- **Roteiro IRARA, linha 331** {#roteiro_irara_lin331} Maringá
+- **Roteiro IRARA, linha 332** {#roteiro_irara_lin332} Total
+- **Roteiro IRARA, linha 333** {#roteiro_irara_lin333} Os imóveis rurais de assentamentos de reforma agrária são classificados conforme as
+- **Roteiro IRARA, linha 334** {#roteiro_irara_lin334} seguintes categorias:
+- **Roteiro IRARA, linha 335** {#roteiro_irara_lin335} • Assentamentos rurais criados até 22 de julho de 2008, COM PERÍMETRO
+- **Roteiro IRARA, linha 336** {#roteiro_irara_lin336} CERTIFICADO
+- **Roteiro IRARA, linha 337** {#roteiro_irara_lin337} • Assentamentos rurais criados após 22 de julho de 2008, com PERÍMETRO
+- **Roteiro IRARA, linha 338** {#roteiro_irara_lin338} CERTIFICADO
+- **Roteiro IRARA, linha 339** {#roteiro_irara_lin339} • Assentamentos rurais criados até 22 de julho de 2008 , sem PERÍMETRO
+- **Roteiro IRARA, linha 340** {#roteiro_irara_lin340} CERTIFICADO
+- **Roteiro IRARA, linha 341** {#roteiro_irara_lin341} • Assentamentos rurais criados após 22 de julho de 2008, sem PERÍMETRO
+- **Roteiro IRARA, linha 342** {#roteiro_irara_lin342} CERTIFICADO
+- **Roteiro IRARA, linha 343** {#roteiro_irara_lin343} A análise de imóvel rural de assentamento de reforma agrária ocorrerá em duas
+- **Roteiro IRARA, linha 344** {#roteiro_irara_lin344} etapas:
+- **Roteiro IRARA, linha 345** {#roteiro_irara_lin345} a) Análise Perimetral, que consiste na análise total da gleba onde o assentamento
+- **Roteiro IRARA, linha 346** {#roteiro_irara_lin346} está instalado;
+- **Roteiro IRARA, linha 347** {#roteiro_irara_lin347} b) Análise dos lotes individuais de cada assentamento.
+- **Roteiro IRARA, linha 348** {#roteiro_irara_lin348} A análise perimetral seguirá o previsto no Capítulo IV, Seção I, artigos 52 a 57 da IN 02
+- **Roteiro IRARA, linha 349** {#roteiro_irara_lin349} MMA/2014.A análise dos lotes individuais poderá ocorrer simultaneamente com a análise
+- **Roteiro IRARA, linha 350** {#roteiro_irara_lin350} perimetral na medida em que o INCRA faça a individualização dos lotes dentro de um IRARA A
+- **Roteiro IRARA, linha 351** {#roteiro_irara_lin351} individualização dos lotes é realizada por meio de um módulo específico, desenvolvido pelo
+- **Roteiro IRARA, linha 352** {#roteiro_irara_lin352} INCRA, denominado Módulo LOTE CAR.
+- **Roteiro IRARA, linha 353** {#roteiro_irara_lin353} Esse roteiro define os procedimentos para as análises perimetrais, de cada assentamento
+- **Roteiro IRARA, linha 354** {#roteiro_irara_lin354} rural. Na medida que o INCRA individualize os lotes, será realizada a análise individual com base
+- **Roteiro IRARA, linha 355** {#roteiro_irara_lin355} na Instrução Normativa 05/20232.
+
+### 3. DOCUMENTOS COMPROBATÓRIOS NO SICAR
+
+- **Roteiro IRARA, linha 357** {#roteiro_irara_lin357} A inscrição no CAR faz parte do primeiro passo no processo de regularização ambiental
+- **Roteiro IRARA, linha 358** {#roteiro_irara_lin358} de um imóvel rural. Posteriormente, os dados declarados são analisados para que a veracidade
+- **Roteiro IRARA, linha 359** {#roteiro_irara_lin359} possa ser comprovada quanto aos dados dos proprietários ou possuidor rural, aos documentos
+- **Roteiro IRARA, linha 360** {#roteiro_irara_lin360} de comprovação de propriedade ou posse, às informações georreferenciadas do perímetro do
+- **Roteiro IRARA, linha 361** {#roteiro_irara_lin361} imóvel, ao uso e cobertura do solo, às áreas de preservação permanente, uso restrito e reserva
+- **Roteiro IRARA, linha 362** {#roteiro_irara_lin362} legal.
+- **Roteiro IRARA, linha 363** {#roteiro_irara_lin363} Após a inscrição no SICAR (Sistema Nacional de Cadastro Ambiental Rural), é
+- **Roteiro IRARA, linha 364** {#roteiro_irara_lin364} facultado ao gerente operacional (GO) ou ao assistente administrativo a vinculação a um dos
+- **Roteiro IRARA, linha 365** {#roteiro_irara_lin365} analistas técnicos.
+- **Roteiro IRARA, linha 366** {#roteiro_irara_lin366} A partir daí, inicia-se o processo de análise. O técnico realiza, então, uma verificação
+- **Roteiro IRARA, linha 367** {#roteiro_irara_lin367} preliminar solicitando ao INCRA os documentos que comprovem a veracidade das informações
+- **Roteiro IRARA, linha 368** {#roteiro_irara_lin368} declaradas. Contudo, antes de seguir para o INCRA, o processo passa pela validação da análise
+- **Roteiro IRARA, linha 369** {#roteiro_irara_lin369} pelo GO, que deverá notificar o INCRA. Este, ao ser notificado, deverá anexar os documentos,
+- **Roteiro IRARA, linha 370** {#roteiro_irara_lin370} realizar as retificações indicadas no parecer técnico ou justificar a não entrega do
+- **Roteiro IRARA, linha 371** {#roteiro_irara_lin371} documento/retificações solicitadas na primeira análise. Após o processo de retificação e o seu
+- **Roteiro IRARA, linha 372** {#roteiro_irara_lin372} encaminhamento juntamente com a documentação pela Central do Proprietário/Possuidor, o
+- **Roteiro IRARA, linha 373** {#roteiro_irara_lin373} processo retorna automaticamente para o técnico que verificará se as informações declaradas
+- **Roteiro IRARA, linha 374** {#roteiro_irara_lin374} coincidem com as informações da documentação enviada.
+- **Roteiro IRARA, linha 375** {#roteiro_irara_lin375} Os seguintes documentos podem ser solicitados:
+- **Roteiro IRARA, linha 376** {#roteiro_irara_lin376} a) CNPJ – Cadastro Nacional de Pessoa Jurídica: Expedido pela Receita Federal e
+- **Roteiro IRARA, linha 377** {#roteiro_irara_lin377} que tem por objetivo comprovar a existência, finalidade e regularidade de
+- **Roteiro IRARA, linha 378** {#roteiro_irara_lin378} uma Sociedade ou Empresa no território nacional;
+- **Roteiro IRARA, linha 379** {#roteiro_irara_lin379} b) Certidão de Registro: Expedido pelo Cartório de Registro de Imóveis da
+- **Roteiro IRARA, linha 380** {#roteiro_irara_lin380} comarca em que o imóvel está localizado. Objetiva ser um documento que
+- **Roteiro IRARA, linha 381** {#roteiro_irara_lin381} demonstra a origem do bem, suas características, localização, proprietários e
+- **Roteiro IRARA, linha 382** {#roteiro_irara_lin382} as operações realizadas (compra, venda, alienações fiduciárias) ao longo do
+- **Roteiro IRARA, linha 383** {#roteiro_irara_lin383} tempo;
+- **Roteiro IRARA, linha 384** {#roteiro_irara_lin384} 2A IN 05 IAT/2023 dispõe sobre os critérios e procedimentos administrativos para a análise
+- **Roteiro IRARA, linha 385** {#roteiro_irara_lin385} individualizada e validação dos cadastros inseridos no Sistema Nacional de Cadastro Ambiental RuralSICAR. É parte integrante dessa IN a Orientação TécnicaNº 03, DE 01 DE SETEMBRO DE 2023 que
+- **Roteiro IRARA, linha 386** {#roteiro_irara_lin386} dispõe sobre os roteiros de análise dos Cadastros Ambientais Rurais-CAR inscritos no Sistema de
+- **Roteiro IRARA, linha 387** {#roteiro_irara_lin387} Cadastro Ambiental Rural-SICAR
+- **Roteiro IRARA, linha 388** {#roteiro_irara_lin388} c) Imissão de Posse: É um título de domínio de um bem que pode ser feito antes
+- **Roteiro IRARA, linha 389** {#roteiro_irara_lin389} da etapa de Registro de Imóveis por particulares de forma extrajudicial ou
+- **Roteiro IRARA, linha 390** {#roteiro_irara_lin390} mediante ato judicial em que o proprietário não detém a posse do bem;
+- **Roteiro IRARA, linha 391** {#roteiro_irara_lin391} d) Termo de Compromisso de Reserva Legal: É um acordo firmado entre o poder
+- **Roteiro IRARA, linha 392** {#roteiro_irara_lin392} público e o proprietário do IR para sacramentar as exigências legais da época
+- **Roteiro IRARA, linha 393** {#roteiro_irara_lin393} em que o acordo foi firmado relativas à preservação e recuperação da Reserva
+- **Roteiro IRARA, linha 394** {#roteiro_irara_lin394} Legal. Em alguns casos, ocorreu a averbação no Registro de Imóveis, em
+- **Roteiro IRARA, linha 395** {#roteiro_irara_lin395} outros somente foram documentados no órgão ambiental competente.
+- **Roteiro IRARA, linha 396** {#roteiro_irara_lin396} e) CCIR/SNCR: Os imóveis Rurais, em conformidade documental, possuem um
+- **Roteiro IRARA, linha 397** {#roteiro_irara_lin397} cadastro vinculado ao INCRA denominado Certificado de Cadastro de Imóveis
+- **Roteiro IRARA, linha 398** {#roteiro_irara_lin398} Rurais, que é gerido pela autarquia fundiária (INCRA) em parceria com o
+- **Roteiro IRARA, linha 399** {#roteiro_irara_lin399} SERPRO, e serve como apoio à validação das informações do IR em análise;
+- **Roteiro IRARA, linha 400** {#roteiro_irara_lin400} f) Anotação de Responsabilidade Técnica – ART: Comprovação de que o
+- **Roteiro IRARA, linha 401** {#roteiro_irara_lin401} proprietário contratou um profissional técnico especializado para a execução
+- **Roteiro IRARA, linha 402** {#roteiro_irara_lin402} dos levantamentos em campo e produção das peças técnicas necessárias para
+- **Roteiro IRARA, linha 403** {#roteiro_irara_lin403} a regularização e conformidade fundiária e ambiental do imóvel. Esse
+- **Roteiro IRARA, linha 404** {#roteiro_irara_lin404} profissional é corresponsável pelas informações prestadas;
+- **Roteiro IRARA, linha 405** {#roteiro_irara_lin405} g) Laudo Técnico: para o SICAR, é um documento técnico elaborado por
+- **Roteiro IRARA, linha 406** {#roteiro_irara_lin406} profissional devidamente habilitado para dirimir quaisquer dúvidas de
+- **Roteiro IRARA, linha 407** {#roteiro_irara_lin407} interpretação dos dados declarados ou contestados pelo declarante durante
+- **Roteiro IRARA, linha 408** {#roteiro_irara_lin408} o processo de análise;
+- **Roteiro IRARA, linha 409** {#roteiro_irara_lin409} h) Auto de Infração Ambiental: O técnico deverá solicitar esse documento
+- **Roteiro IRARA, linha 410** {#roteiro_irara_lin410} quando observar que o IRARA em análise possui indícios de Áreas Antropizadas
+- **Roteiro IRARA, linha 411** {#roteiro_irara_lin411} Não Consolidadas (AA).
+- **Roteiro IRARA, linha 412** {#roteiro_irara_lin412} i) Autorização de supressão da vegetação (ASV) ou Autorização de uso
+- **Roteiro IRARA, linha 413** {#roteiro_irara_lin413} alternativo do solo (AUAS): É o documento que autoriza a execução de corte,
+- **Roteiro IRARA, linha 414** {#roteiro_irara_lin414} supressão ou aproveitamento de material lenhoso de vegetação nativa
+- **Roteiro IRARA, linha 415** {#roteiro_irara_lin415} expedido pelo IAT através do SINAFLOR. O técnico deverá solicitar esse
+- **Roteiro IRARA, linha 416** {#roteiro_irara_lin416} documento quando observar que o imóvel em análise possui indícios de Áreas
+- **Roteiro IRARA, linha 417** {#roteiro_irara_lin417} Antropizadas Não Consolidadas (AA).
+- **Roteiro IRARA, linha 418** {#roteiro_irara_lin418} j) Boletim de Ocorrência Policial registrado: documento denunciando ao
+- **Roteiro IRARA, linha 419** {#roteiro_irara_lin419} corrência de dano ambiental realizado em área de sua propriedade, cometida
+- **Roteiro IRARA, linha 420** {#roteiro_irara_lin420} por terceiros, identificados ou não.
+- **Roteiro IRARA, linha 421** {#roteiro_irara_lin421} k) Termo de anuência do INCRA: Documento em que consta a faixa de servidão
+- **Roteiro IRARA, linha 422** {#roteiro_irara_lin422} administrativa firmada entre empreendedor e o INCRA do imóvel.
+- **Roteiro IRARA, linha 423** {#roteiro_irara_lin423} l) Licenciamento ambiental: Ato administrativo pelo qual o órgão ambiental
+- **Roteiro IRARA, linha 424** {#roteiro_irara_lin424} competente estabelece as condições, restrições e medidas de controle
+- **Roteiro IRARA, linha 425** {#roteiro_irara_lin425} ambiental que deverão ser obedecidas pelo beneficiário/INCRA, pessoa física
+- **Roteiro IRARA, linha 426** {#roteiro_irara_lin426} ou jurídica, para localizar, instalar, ampliar e operar empreendimentos ou
+- **Roteiro IRARA, linha 427** {#roteiro_irara_lin427} atividades utilizadoras de recursos ambientais consideradas efetivas ou
+- **Roteiro IRARA, linha 428** {#roteiro_irara_lin428} potencialmente poluidoras ou daquelas que, sob qualquer forma, possam vir
+- **Roteiro IRARA, linha 429** {#roteiro_irara_lin429} a causar degradação e/ou modificação ambiental, considerando as
+- **Roteiro IRARA, linha 430** {#roteiro_irara_lin430} disposições legais e regulamentares e as normas técnicas aplicáveis ao caso.
+- **Roteiro IRARA, linha 431** {#roteiro_irara_lin431} m) Projeto técnico de pousio: Documento que comprova a prática deinterrupção
+- **Roteiro IRARA, linha 432** {#roteiro_irara_lin432} temporária das atividades ou usos agrícolas, pecuários ou silviculturais, por
+- **Roteiro IRARA, linha 433** {#roteiro_irara_lin433} no máximo cinco anos, para possibilitar a recuperação da capacidade de uso
+- **Roteiro IRARA, linha 434** {#roteiro_irara_lin434} ou da estrutura físicado solo.
+- **Roteiro IRARA, linha 435** {#roteiro_irara_lin435} n) Projeto de recuperação de áreas degradadas (PRAD): Instrumento de
+- **Roteiro IRARA, linha 436** {#roteiro_irara_lin436} planejamento das ações necessárias visando à recuperação da vegetação
+- **Roteiro IRARA, linha 437** {#roteiro_irara_lin437} nativa, o qual deve apresentar o diagnóstico ambiental da área degradada ou
+- **Roteiro IRARA, linha 438** {#roteiro_irara_lin438} alterada, os métodos e técnicas a serem utilizados e prever cronograma de
+- **Roteiro IRARA, linha 439** {#roteiro_irara_lin439} implantação e monitoramento das ações.
+- **Roteiro IRARA, linha 440** {#roteiro_irara_lin440} o) Termo de Compromisso (TC): Instrumento pelo qual são estabelecidas as
+- **Roteiro IRARA, linha 441** {#roteiro_irara_lin441} obrigações a serem cumpridas pelo infrator, visando o ajuste de sua conduta
+- **Roteiro IRARA, linha 442** {#roteiro_irara_lin442} legal quando a reparação dos danos decorrentes da infração for obrigatória.
+- **Roteiro IRARA, linha 443** {#roteiro_irara_lin443} p) Termo de Ajustamento de Conduta (TAC): Instrumento que tem por finalidade
+- **Roteiro IRARA, linha 444** {#roteiro_irara_lin444} estabelecer obrigações do compromissário, em decorrência de sua
+- **Roteiro IRARA, linha 445** {#roteiro_irara_lin445} responsabilidade civil, de forma a ajustar a sua conduta às exigências legais,
+- **Roteiro IRARA, linha 446** {#roteiro_irara_lin446} mediante cominações, que terá eficácia de título executivo extrajudicial.
+
+### 4. ANÁLISE TÉCNICA NO AMBIENTE DO SICAR NACIONAL
+
+- **Roteiro IRARA, linha 448** {#roteiro_irara_lin448} Neste tópico serão abordados os direcionamentos para a análise realizada pela equipe
+- **Roteiro IRARA, linha 449** {#roteiro_irara_lin449} técnica, conforme as etapas de análise e abas disponibilizadas pelo sistema do SICAR Nacional.
+- **Roteiro IRARA, linha 450** {#roteiro_irara_lin450} A análise no ambiente SICAR Nacional consiste na análise da ficha do imóvel e análise
+- **Roteiro IRARA, linha 451** {#roteiro_irara_lin451} Geo.
+- **Roteiro IRARA, linha 452** {#roteiro_irara_lin452} Para imóveis de assentamentos da reforma agrária – IRARAs - a análise da ficha do
+- **Roteiro IRARA, linha 453** {#roteiro_irara_lin453} imóvel será realizada com objetivo de identificar e informar ao INCRA as inconsistências
+- **Roteiro IRARA, linha 454** {#roteiro_irara_lin454} identificadas. A análise completa da ficha do imóvel somente ocorrerá após as individualizações
+- **Roteiro IRARA, linha 455** {#roteiro_irara_lin455} dos lotes por meio do LOTE CAR.
+- **Roteiro IRARA, linha 456** {#roteiro_irara_lin456} A análise da etapa GEO é subdividida em: sobreposição do IR, cobertura do solo,
+- **Roteiro IRARA, linha 457** {#roteiro_irara_lin457} servidão administrativa, área de preservação permanente, reserva legal e regularidade do
+- **Roteiro IRARA, linha 458** {#roteiro_irara_lin458} imóvel.
+- **Roteiro IRARA, linha 459** {#roteiro_irara_lin459} Para efeitos de IRARA, os imóveis onde forem identificados embargos, serão remetidos
+- **Roteiro IRARA, linha 460** {#roteiro_irara_lin460} ao INCRA, para que durante a análise do Lote CAR os passivos sejam apurados individualmente
+- **Roteiro IRARA, linha 461** {#roteiro_irara_lin461} junto ao ocupante. Até que o Lote CAR seja efetivado, as coordenadas da infração serão
+- **Roteiro IRARA, linha 462** {#roteiro_irara_lin462} remetidas ao INCRA para identificação do ocupante.
+- **Roteiro IRARA, linha 463** {#roteiro_irara_lin463} O técnico deverá considerar algumas situações:
+- **Roteiro IRARA, linha 464** {#roteiro_irara_lin464} •
+- **Roteiro IRARA, linha 465** {#roteiro_irara_lin465} Caso a aba de sobreposição do IRARA não tenha inconsistências, o técnico
+- **Roteiro IRARA, linha 466** {#roteiro_irara_lin466} poderá prosseguir com a análise;
+- **Roteiro IRARA, linha 467** {#roteiro_irara_lin467} •
+- **Roteiro IRARA, linha 468** {#roteiro_irara_lin468} Caso a aba de sobreposição do IRARA tenha inconsistências com outros
+- **Roteiro IRARA, linha 469** {#roteiro_irara_lin469} imóveis rurais, o técnico deverá manter/adicionar as inconsistências
+- **Roteiro IRARA, linha 470** {#roteiro_irara_lin470} pertinentes e finalizar a análise, encaminhando-a ao Gerente Operacional;
+- **Roteiro IRARA, linha 471** {#roteiro_irara_lin471} •
+- **Roteiro IRARA, linha 472** {#roteiro_irara_lin472} Nos cadastros que contenham sobreposições com Terras Indígenas e
+- **Roteiro IRARA, linha 473** {#roteiro_irara_lin473} territórios quilombolas titulados não há tolerância de sobreposição e o técnico
+- **Roteiro IRARA, linha 474** {#roteiro_irara_lin474} deverá solicitar a retificação do cadastro para eliminar a sobreposição
+- **Roteiro IRARA, linha 475** {#roteiro_irara_lin475} •
+- **Roteiro IRARA, linha 476** {#roteiro_irara_lin476} Os processos que não contenham inconsistências na aba de Cobertura do Solo
+- **Roteiro IRARA, linha 477** {#roteiro_irara_lin477} poderão prosseguir com a análise para as demais etapas;
+- **Roteiro IRARA, linha 478** {#roteiro_irara_lin478} •
+- **Roteiro IRARA, linha 479** {#roteiro_irara_lin479} Os processos que contenham inconsistências na aba de Cobertura do Solo de
+- **Roteiro IRARA, linha 480** {#roteiro_irara_lin480} verão ter a análise finalizada nessa etapa.
+
+### 4.1. Documentos Enviados
+
+- **Roteiro IRARA, linha 482** {#roteiro_irara_lin482} Na aba Documentos Enviados, o técnico poderá verificar se o cadastro retornou da
+- **Roteiro IRARA, linha 483** {#roteiro_irara_lin483} retificação (ou seja, o imóvel já foi analisado pelo menos uma vez por análise de equipe ou
+- **Roteiro IRARA, linha 484** {#roteiro_irara_lin484} expedita). Além disso, deverá consultar todos os documentos encaminhados pelo
+- **Roteiro IRARA, linha 485** {#roteiro_irara_lin485} proprietário/possuidor. Estes documentos devem comprovar a veracidade das informações
+- **Roteiro IRARA, linha 486** {#roteiro_irara_lin486} declaradas no CAR. Assim, o técnico deverá realizar o download de toda a documentação
+- **Roteiro IRARA, linha 487** {#roteiro_irara_lin487} submetida pelo cadastrante e verificar se elas correspondem àquelas solicitadas na análise
+- **Roteiro IRARA, linha 488** {#roteiro_irara_lin488} anterior, se estão legíveis ou corrompidas. Caso se verifique qualquer uma dessas situações, o
+- **Roteiro IRARA, linha 489** {#roteiro_irara_lin489} técnico deverá adicionar uma inconsistência. Do contrário, poderá prosseguir para a aba da
+- **Roteiro IRARA, linha 490** {#roteiro_irara_lin490} Análise da Ficha do Imóvel.
+- **Roteiro IRARA, linha 491** {#roteiro_irara_lin491} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 492** {#roteiro_irara_lin492} abrirá e o técnico deverá selecionar o tipo de inconsistência. Em seguida, clicar em adicionar e
+- **Roteiro IRARA, linha 493** {#roteiro_irara_lin493} concluir a análise.
+- **Roteiro IRARA, linha 494** {#roteiro_irara_lin494} Figura 1. Aba Documentos Enviados
+
+### 4.2. Análise da Ficha do Imóvel
+
+- **Roteiro IRARA, linha 496** {#roteiro_irara_lin496} A análise documental tem por objetivo verificar a veracidade das informações
+- **Roteiro IRARA, linha 497** {#roteiro_irara_lin497} declaradas no CAR. A análise da ficha do imóvel consiste na validação das informações
+- **Roteiro IRARA, linha 498** {#roteiro_irara_lin498} referentes aos proprietários/possuidores e ao regime da propriedade.
+- **Roteiro IRARA, linha 499** {#roteiro_irara_lin499} Conforme os arts. 13 e 14 da Instrução Normativa nº02/2014, do Ministério do Meio
+- **Roteiro IRARA, linha 500** {#roteiro_irara_lin500} Ambiente, o CAR deverá conter as seguintes informações:
+- **Roteiro IRARA, linha 501** {#roteiro_irara_lin501} “Art. 13. A inscrição e o registro do imóvel rural no CAR é gratuita e deverá
+- **Roteiro IRARA, linha 502** {#roteiro_irara_lin502} conter, conforme disposto no art. 5o do Decreto no 7.830, de 2012, as
+- **Roteiro IRARA, linha 503** {#roteiro_irara_lin503} seguintes informações:
+- **Roteiro IRARA, linha 504** {#roteiro_irara_lin504} I-II- Comprovação da propriedade ou posse rural; e
+- **Roteiro IRARA, linha 505** {#roteiro_irara_lin505} III-planta georreferenciada da área do imóvel, contendo a indicação das
+- **Roteiro IRARA, linha 506** {#roteiro_irara_lin506} coordenadas geográficas com pelo menos um ponto de amarração do
+- **Roteiro IRARA, linha 507** {#roteiro_irara_lin507} perímetro do imóvel e o perímetro das áreas de servidão administrativa, e a
+- **Roteiro IRARA, linha 508** {#roteiro_irara_lin508} informação da localização das áreas de remanescentes de vegetação nativa,
+- **Roteiro IRARA, linha 509** {#roteiro_irara_lin509} das Áreas de Preservação Permanente, das áreas de uso restrito, das áreas
+- **Roteiro IRARA, linha 510** {#roteiro_irara_lin510} consolidadas e, caso existente, a localização da Reserva Legal.
+- **Roteiro IRARA, linha 511** {#roteiro_irara_lin511} Art. 14. A inscrição no CAR da pequena propriedade ou posse rural familiar,
+- **Roteiro IRARA, linha 512** {#roteiro_irara_lin512} que desenvolva atividades agrossilvipastoris, bem como das terras indígenas
+- **Roteiro IRARA, linha 513** {#roteiro_irara_lin513} demarcadas e das demais áreas tituladas de povos e comunidades
+- **Roteiro IRARA, linha 514** {#roteiro_irara_lin514} tradicionais, que façam uso coletivo do seu território, conforme previsão do
+- **Roteiro IRARA, linha 515** {#roteiro_irara_lin515} § 3o do art. 8º do Decreto no 7.830, de 2012, deverão conter as seguintes
+- **Roteiro IRARA, linha 516** {#roteiro_irara_lin516} informações simplificadas:
+- **Roteiro IRARA, linha 517** {#roteiro_irara_lin517} I - II- comprovação da propriedade ou posse rural; e
+- **Roteiro IRARA, linha 518** {#roteiro_irara_lin518} A análise documental referente aos beneficiários/ocupantes do IRARA será realizada
+- **Roteiro IRARA, linha 519** {#roteiro_irara_lin519} somente por meio do módulo LOTE CAR que se destina à análise dos lotes individuais de cada
+- **Roteiro IRARA, linha 520** {#roteiro_irara_lin520} assentamento rural.
+- **Roteiro IRARA, linha 521** {#roteiro_irara_lin521} O documento para comprova o domínio de IRARA é a imissão na posse pelo INCRA,
+- **Roteiro IRARA, linha 522** {#roteiro_irara_lin522} que consta na matrícula do IRARA.
+- **Roteiro IRARA, linha 523** {#roteiro_irara_lin523} •
+- **Roteiro IRARA, linha 524** {#roteiro_irara_lin524} Certidão de registro ou matrícula – Documento lavrado em Cartório de Registro
+- **Roteiro IRARA, linha 525** {#roteiro_irara_lin525} de imóveis, contendo a origem do imóvel, descrição, proprietários e atos diversos
+- **Roteiro IRARA, linha 526** {#roteiro_irara_lin526} ligados, através de averbações.
+- **Roteiro IRARA, linha 527** {#roteiro_irara_lin527} • Imissão de Posse: É um título de posse de um bem imóvel, emitido pelo Poder
+- **Roteiro IRARA, linha 528** {#roteiro_irara_lin528} Judiciário, que é realizado antes da etapa de Registro de Imóveis, para fins de
+- **Roteiro IRARA, linha 529** {#roteiro_irara_lin529} inicio das ações de reforma agrária no local
+- **Roteiro IRARA, linha 530** {#roteiro_irara_lin530} A análise da documentação do imóvel consiste em verificar as seguintes situações:
+- **Roteiro IRARA, linha 531** {#roteiro_irara_lin531} a) Área declarada, denominação, número do documento, código SNCR,
+- **Roteiro IRARA, linha 532** {#roteiro_irara_lin532} NIRF, data do documento, e se o município condiz com a documentação
+- **Roteiro IRARA, linha 533** {#roteiro_irara_lin533} comprobatória;
+
+### 4.2.1. Aba Dados do Imóvel
+
+- **Roteiro IRARA, linha 535** {#roteiro_irara_lin535} Para o INCRA será analisado os dados gerais do assentamento, que constam na
+- **Roteiro IRARA, linha 536** {#roteiro_irara_lin536} documentação apresentada
+
+### 4.3. Sobreposição do IR
+
+- **Roteiro IRARA, linha 538** {#roteiro_irara_lin538} Nesta etapa, o técnico deverá verificar se há imóveis limítrofes pertencentes ao mesmo
+- **Roteiro IRARA, linha 539** {#roteiro_irara_lin539} CPF/CNPJ, assim como identificar se há sobreposições do imóvel rural de assentamento de reforma
+- **Roteiro IRARA, linha 540** {#roteiro_irara_lin540} agrária analisado com outros imóveis rurais já declarados no CAR; terras indígenas homologadas
+- **Roteiro IRARA, linha 541** {#roteiro_irara_lin541} e inseridas na base de dados da Fundação Nacional do Índio (FUNAI); unidades de conservação
+- **Roteiro IRARA, linha 542** {#roteiro_irara_lin542} constantes na base de dados doCadastro Nacional de Unidades de Conservação/Ministério do
+- **Roteiro IRARA, linha 543** {#roteiro_irara_lin543} Meio Ambiente (CNUC/MMA); áreas embargadas por órgãos de fiscalização ambiental; territórios
+- **Roteiro IRARA, linha 544** {#roteiro_irara_lin544} tradicionais de Povos e Comunidades Tradicionais, entre outras sobreposições.
+- **Roteiro IRARA, linha 545** {#roteiro_irara_lin545} Os limites de tolerância adotados para análise da sobreposição do imóvel em análise
+- **Roteiro IRARA, linha 546** {#roteiro_irara_lin546} com outros imóveis rurais, terras indígenas, unidades de conservação e áreas embargadas foram
+- **Roteiro IRARA, linha 547** {#roteiro_irara_lin547} estabelecidos pelo Ministério do Meio Ambiente, através do Serviço Florestal Brasileiro, conforme
+- **Roteiro IRARA, linha 548** {#roteiro_irara_lin548} Comunicado SICAR Nº 08/2017 – DFI/SFB.
+
+### 4.3.1. Sobreposição com Outros IRs
+
+- **Roteiro IRARA, linha 550** {#roteiro_irara_lin550} Nesta etapa é verificada a sobreposição do imóvel rural em análise com os demais
+- **Roteiro IRARA, linha 551** {#roteiro_irara_lin551} imóveis rurais cadastrados nos istema. Os seguintes ícones auxiliam na análise técnica:
+- **Roteiro IRARA, linha 552** {#roteiro_irara_lin552} - Indicativo de que o item em análise ultrapassa o limite de tolerância definido
+- **Roteiro IRARA, linha 553** {#roteiro_irara_lin553} para aquele item;
+- **Roteiro IRARA, linha 554** {#roteiro_irara_lin554} - Indicativo de que o item em análise possui sobreposições, mas que está dentro
+- **Roteiro IRARA, linha 555** {#roteiro_irara_lin555} do limite de tolerância;
+- **Roteiro IRARA, linha 556** {#roteiro_irara_lin556} - Indicativo de que o sistema não encontrou divergências no item analisado.
+
+### 4.3.1.1. Aba Análise entre àrea declarada e a área vetorizada do imóvel
+
+- **Roteiro IRARA, linha 558** {#roteiro_irara_lin558} analisado
+- **Roteiro IRARA, linha 559** {#roteiro_irara_lin559} O técnico deverá verificar se há divergências entre as áreas declaradas e vetorizadas,
+- **Roteiro IRARA, linha 560** {#roteiro_irara_lin560} pois podem ocorrer inconsistências entre o tamanho declarado na aba da ficha do imóvel e as
+- **Roteiro IRARA, linha 561** {#roteiro_irara_lin561} informações georreferenciadas, com aumento ou diminuição da área. O sistema considera como
+- **Roteiro IRARA, linha 562** {#roteiro_irara_lin562} limite de tolerância uma divergência de até 5%, independentemente do tamanho do imóvel rural
+- **Roteiro IRARA, linha 563** {#roteiro_irara_lin563} analisado e do número de módulos fiscais.
+- **Roteiro IRARA, linha 564** {#roteiro_irara_lin564} Procedimento: Caso a divergência entre a área declarada e área vetorizada excedam o limite
+- **Roteiro IRARA, linha 565** {#roteiro_irara_lin565} de tolerância de 5%, o técnico deverá manter a inconsistência automática adicionada pelo
+- **Roteiro IRARA, linha 566** {#roteiro_irara_lin566} sistema. Para situações que não excedam o limite de tolerância, nenhuma inconsistência deverá
+- **Roteiro IRARA, linha 567** {#roteiro_irara_lin567} ser adicionada.
+- **Roteiro IRARA, linha 568** {#roteiro_irara_lin568} Figura 2. Divergência entre área declarada e área vetorizada.
+- **Roteiro IRARA, linha 569** {#roteiro_irara_lin569} Para os IRARAS que possuam a certificação de Imóveis Rurais do INCRA e os
+- **Roteiro IRARA, linha 570** {#roteiro_irara_lin570} perímetros entre este e o CAR não forem exatamente coincidentes, além de terem a sua
+- **Roteiro IRARA, linha 571** {#roteiro_irara_lin571} comprovação realizada pelo registro de imóveis, solicitar a alteração dos dados cadastrais do
+- **Roteiro IRARA, linha 572** {#roteiro_irara_lin572} SICAR para que os limites declarados sejam coincidentes nas duas plataformas.
+- **Roteiro IRARA, linha 573** {#roteiro_irara_lin573} Para adicionar/remover inconsistências, o técnico deverá considerar as seguintes
+- **Roteiro IRARA, linha 574** {#roteiro_irara_lin574} situações
+- **Roteiro IRARA, linha 575** {#roteiro_irara_lin575} A. Quando o IRARA em análise possuir o número de certificação fundiária
+- **Roteiro IRARA, linha 576** {#roteiro_irara_lin576} declarada pelo INCRA, o técnico deverá consultar esse código no site
+- **Roteiro IRARA, linha 577** {#roteiro_irara_lin577} certificacao.incra.gov.br/,
+- **Roteiro IRARA, linha 578** {#roteiro_irara_lin578} a fim
+- **Roteiro IRARA, linha 579** {#roteiro_irara_lin579} de verificar se as
+- **Roteiro IRARA, linha 580** {#roteiro_irara_lin580} informações são
+- **Roteiro IRARA, linha 581** {#roteiro_irara_lin581} correspondentes. Após a consulta e identificadas inconsistências relacionadas
+- **Roteiro IRARA, linha 582** {#roteiro_irara_lin582} ao código de certificação fundiária declarada no sistema, o técnico deverá
+- **Roteiro IRARA, linha 583** {#roteiro_irara_lin583} adicionar uma inconsistência solicitando que o proprietário retifique seu
+- **Roteiro IRARA, linha 584** {#roteiro_irara_lin584} cadastro e/ou apresente esclarecimentos das informações declaradas.
+- **Roteiro IRARA, linha 585** {#roteiro_irara_lin585} B. Quando o técnico observar que o IRARA em análise possui o número de
+- **Roteiro IRARA, linha 586** {#roteiro_irara_lin586} certificação fundiária, mas que não foi declarado na etapa “Documentação” do
+- **Roteiro IRARA, linha 587** {#roteiro_irara_lin587} Módulo de Cadastro, não será necessário solicitar a retificação do cadastro
+- **Roteiro IRARA, linha 588** {#roteiro_irara_lin588} para incluir este código, desde que as informações declaradas estejam em
+- **Roteiro IRARA, linha 589** {#roteiro_irara_lin589} conformidade com a certificação do INCRA (vetorização conforme a
+- **Roteiro IRARA, linha 590** {#roteiro_irara_lin590} certificação).
+- **Roteiro IRARA, linha 591** {#roteiro_irara_lin591} C. Elaborar instrução para solicitar vinculação ao GO para analise da propriedade
+- **Roteiro IRARA, linha 592** {#roteiro_irara_lin592} sobreposta.
+
+### 4.3.1.2. Aba Análise de sobreposições com outros imóveis rurais
+
+- **Roteiro IRARA, linha 594** {#roteiro_irara_lin594} O limite de tolerância de sobreposição de IR com IRARA declarados no CAR é de no
+- **Roteiro IRARA, linha 595** {#roteiro_irara_lin595} máximo 3% da área total, independente do tamanho do IR sobreposto. O técnico deverá
+- **Roteiro IRARA, linha 596** {#roteiro_irara_lin596} considerar as seguintes situações:
+- **Roteiro IRARA, linha 597** {#roteiro_irara_lin597} Situação 01: O técnico deverá verificar se o somatório de sobreposição em relação ao IRARA
+- **Roteiro IRARA, linha 598** {#roteiro_irara_lin598} em análise excedeu o limite de tolerância estabelecido pelo sistema. Além disso, deverá atentar
+- **Roteiro IRARA, linha 599** {#roteiro_irara_lin599} para a adição/remoção de inconsistências nessa aba, visto que esta ação só tem efeito sobre o
+- **Roteiro IRARA, linha 600** {#roteiro_irara_lin600} Parecer Técnico do imóvel rural que está em análise. A adição/remoção da inconsistência dos
+- **Roteiro IRARA, linha 601** {#roteiro_irara_lin601} imóveis sobrepostos depende da análise desses cadastros.
+- **Roteiro IRARA, linha 602** {#roteiro_irara_lin602} Procedimento: Na etapa “Análise do somatório de sobreposição do imóvel analisado”, caso a
+- **Roteiro IRARA, linha 603** {#roteiro_irara_lin603} sobreposição exceda o limite de tolerância, o técnico deverá manter a inconsistência automática
+- **Roteiro IRARA, linha 604** {#roteiro_irara_lin604} adicionada pelo sistema. Além disso, em “Análise dos imóveis rurais sobrepostos”, o técnico
+- **Roteiro IRARA, linha 605** {#roteiro_irara_lin605} deverá verificar, para cada imóvel da lista, se a área de conflito está em conformidade com os
+- **Roteiro IRARA, linha 606** {#roteiro_irara_lin606} limites de tolerância estabelecidos (relação entre a área de conflito x módulo fiscal). Caso não
+- **Roteiro IRARA, linha 607** {#roteiro_irara_lin607} se enquadre nos parâmetros estabelecidos, o técnico deverá adicionar uma inconsistência.
+- **Roteiro IRARA, linha 608** {#roteiro_irara_lin608} Figura 3. Aba Análise de sobreposições com outros imóveis rurais
+- **Roteiro IRARA, linha 609** {#roteiro_irara_lin609} Adicionar observação: “Detectou-se sobreposição com outro(s) IR(s). Para que seja dada
+- **Roteiro IRARA, linha 610** {#roteiro_irara_lin610} continuidade à análise, é imperativo solucionar essa questão entre o(s) imóvel(is) sobrepostos.
+- **Roteiro IRARA, linha 611** {#roteiro_irara_lin611} Figura 4. Exemplo de sobreposição com outros IRs
+- **Roteiro IRARA, linha 612** {#roteiro_irara_lin612} Solicitação de documentos: Selecionar as opções Planta Georreferenciada, Nº de Certificação
+- **Roteiro IRARA, linha 613** {#roteiro_irara_lin613} do Incra, Anotação de Responsabilidade Técnica (ART).
+- **Roteiro IRARA, linha 614** {#roteiro_irara_lin614} O técnico deverá verificar os imóveis que estão sobrepostos acima do limite de tolerância com o
+- **Roteiro IRARA, linha 615** {#roteiro_irara_lin615} imóvel em análise e informar ao GO que deverá verificar a possibilidade e pertinência de vinculálos para que sejam analisados sem conjunto ou de proceder a desvinculação do CAR em análise.
+- **Roteiro IRARA, linha 616** {#roteiro_irara_lin616} Situação 02: O técnico deverá ficar atento aos processos que retornam da retificação e
+- **Roteiro IRARA, linha 617** {#roteiro_irara_lin617} apresentam a documentação comprobatória do INCRA. Caso ocorra a sobreposição do IRARA
+- **Roteiro IRARA, linha 618** {#roteiro_irara_lin618} com outros imóveis rurais e a documentação comprobatória (CCIR do INCRA, o qual está
+- **Roteiro IRARA, linha 619** {#roteiro_irara_lin619} vinculado ao mapa georreferenciado) condiz com a declaração realizada no CAR, o técnico
+- **Roteiro IRARA, linha 620** {#roteiro_irara_lin620} deverá parar a análise e informar a situação ao GO, visto que será necessário checar a situação
+- **Roteiro IRARA, linha 621** {#roteiro_irara_lin621} dos imóveis vizinhos e, portanto, o GO deverá verificar a possibilidade de vinculá-los para a
+- **Roteiro IRARA, linha 622** {#roteiro_irara_lin622} análise em conjunto. Neste caso, devem ser notificados tanto o proprietário quanto o incra sobre
+- **Roteiro IRARA, linha 623** {#roteiro_irara_lin623} se os dados cadastrados dos perímetros são certificados.
+
+### 4.3.1.3. Aba
+
+- **Roteiro IRARA, linha 625** {#roteiro_irara_lin625} Análise
+- **Roteiro IRARA, linha 626** {#roteiro_irara_lin626} de
+- **Roteiro IRARA, linha 627** {#roteiro_irara_lin627} inconsistências
+- **Roteiro IRARA, linha 628** {#roteiro_irara_lin628} adicionais
+- **Roteiro IRARA, linha 629** {#roteiro_irara_lin629} e/ou
+- **Roteiro IRARA, linha 630** {#roteiro_irara_lin630} temas
+- **Roteiro IRARA, linha 631** {#roteiro_irara_lin631} complementares
+- **Roteiro IRARA, linha 632** {#roteiro_irara_lin632} Ao avaliar os imóveis rurais certificados pelo INCRA, o técnico deverá verificar se o
+- **Roteiro IRARA, linha 633** {#roteiro_irara_lin633} perímetro do imóvel rural vetorizado pelo cadastrante corresponde ao mesmo arquivo vetorial da
+- **Roteiro IRARA, linha 634** {#roteiro_irara_lin634} base de dados do SIGEF/INCRA. Este erro é bastante comum e, caso existam divergências,
+- **Roteiro IRARA, linha 635** {#roteiro_irara_lin635} deverá ser adicionada uma inconsistência.
+- **Roteiro IRARA, linha 636** {#roteiro_irara_lin636} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 637** {#roteiro_irara_lin637} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 638** {#roteiro_irara_lin638} Adicionar observação: “Em consulta à documentação dos imóveis rurais na base de dados do
+- **Roteiro IRARA, linha 639** {#roteiro_irara_lin639} SIGEF/INCRA, há indícios de que não foi utilizado o arquivo vetorial georreferenciado para
+- **Roteiro IRARA, linha 640** {#roteiro_irara_lin640} delimitação do imóvel rural no Módulo de Cadastro do CAR. Apresente esclarecimentos sobre
+- **Roteiro IRARA, linha 641** {#roteiro_irara_lin641} as informações declaradas e/ou retifique seu cadastro conforme as informações do art.13 da
+- **Roteiro IRARA, linha 642** {#roteiro_irara_lin642} Instrução Normativa nº02/2014 do Ministério do Meio Ambiente.”
+
+### 4.3.2. Sobreposição com Terras Indígenas
+
+- **Roteiro IRARA, linha 644** {#roteiro_irara_lin644} Conforme o art.59 da INMMAnº02/2014, “consideram-secomoinscritas no CAR as
+- **Roteiro IRARA, linha 645** {#roteiro_irara_lin645} terras indígenas que compõem a base de dados do SICAR indicadas pela Fundação Nacional
+- **Roteiro IRARA, linha 646** {#roteiro_irara_lin646} do Índio – FUNAI” (TI).
+- **Roteiro IRARA, linha 647** {#roteiro_irara_lin647} Em relação à análise das informações declaradas no CAR, o art. 43 menciona que a
+- **Roteiro IRARA, linha 648** {#roteiro_irara_lin648} seguinte avaliação deve ser feita pelo órgão ambiental competente:
+- **Roteiro IRARA, linha 649** {#roteiro_irara_lin649} IX - Sobreposição parcial ou total de área do imóvel rural com Terras
+- **Roteiro IRARA, linha 650** {#roteiro_irara_lin650} Indígenas.
+- **Roteiro IRARA, linha 651** {#roteiro_irara_lin651} A sobreposição do imóvel rural em análise com terras indígenas é fator impeditivo para
+- **Roteiro IRARA, linha 652** {#roteiro_irara_lin652} a continuidade da análise, visto que o limite de tolerância de sobreposição correspondea 0%.
+- **Roteiro IRARA, linha 653** {#roteiro_irara_lin653} Portanto, caso o técnico verifique que o sistema identificou a sobreposição do IRARA
+- **Roteiro IRARA, linha 654** {#roteiro_irara_lin654} com TI, deverá inserir/manter a inconsistência, para que o gerente operacional notifique o INCRA
+- **Roteiro IRARA, linha 655** {#roteiro_irara_lin655} para regularizar a situação em um prazo de 90 dias, sendo que, findo o prazo, estará sujeito ao
+- **Roteiro IRARA, linha 656** {#roteiro_irara_lin656} cancelamento do CAR.
+- **Roteiro IRARA, linha 657** {#roteiro_irara_lin657} Figura 5. Sobreposição do imóvel com terras indígenas
+- **Roteiro IRARA, linha 658** {#roteiro_irara_lin658} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 659** {#roteiro_irara_lin659} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 660** {#roteiro_irara_lin660} Adicionar observação: “Constatou-se sobreposição do IRARA com terras indígenas
+- **Roteiro IRARA, linha 661** {#roteiro_irara_lin661} homologadas pela Fundação Nacional do Índio (FUNAI). A sobreposição com terra indígena é
+- **Roteiro IRARA, linha 662** {#roteiro_irara_lin662} causa impeditiva para continuidade da validação das informações declaradas no CAR. Apresente
+- **Roteiro IRARA, linha 663** {#roteiro_irara_lin663} esclarecimentos das informações declaradas e/ou retifique seu cadastro conforme consta na
+- **Roteiro IRARA, linha 664** {#roteiro_irara_lin664} Instrução Normativa do Ministério do Meio Ambiente n°02/2014. Informamos que o cadastro do
+- **Roteiro IRARA, linha 665** {#roteiro_irara_lin665} imóvel sobreposto ficará na situação Pendente e, se não atendido no prazo estabelecido, será
+- **Roteiro IRARA, linha 666** {#roteiro_irara_lin666} cancelado”.
+- **Roteiro IRARA, linha 667** {#roteiro_irara_lin667} Solicitação de documentos: Selecionar as opções Planta Georreferenciada, Nº de Certificação
+- **Roteiro IRARA, linha 668** {#roteiro_irara_lin668} do INCRA e Anotação de Responsabilidade Técnica (ART).
+
+### 4.3.3. Sobreposição com Unidades de Conservação
+
+- **Roteiro IRARA, linha 670** {#roteiro_irara_lin670} Os limites de tolerância, referente à análise da sobreposição do IRARA com unidades
+- **Roteiro IRARA, linha 671** {#roteiro_irara_lin671} de conservação, variam conforme o número de módulos fiscais (Quadro1).
+- **Roteiro IRARA, linha 672** {#roteiro_irara_lin672} Quadro 2. Limites de tolerância com UCs
+- **Roteiro IRARA, linha 673** {#roteiro_irara_lin673} Módulos Fiscais (MF)
+- **Roteiro IRARA, linha 674** {#roteiro_irara_lin674} % de Sobreposição
+- **Roteiro IRARA, linha 675** {#roteiro_irara_lin675} Área>15MF
+- **Roteiro IRARA, linha 676** {#roteiro_irara_lin676} 3%
+- **Roteiro IRARA, linha 677** {#roteiro_irara_lin677} Área>4 MFe <=15MF
+- **Roteiro IRARA, linha 678** {#roteiro_irara_lin678} 5%
+- **Roteiro IRARA, linha 679** {#roteiro_irara_lin679} Área<=4 MF
+- **Roteiro IRARA, linha 680** {#roteiro_irara_lin680} 10%
+- **Roteiro IRARA, linha 681** {#roteiro_irara_lin681} As unidades de conservação são classificadas em: UC de Proteção Integral (UC PI) e
+- **Roteiro IRARA, linha 682** {#roteiro_irara_lin682} UC de Uso Sustentável (UC US). Além disso, também são caracterizadas por meio de sua
+- **Roteiro IRARA, linha 683** {#roteiro_irara_lin683} dominialidade, subdividida em Pública e Privada.
+
+### 4.3.3.1 Unidades de Conservação de Uso Sustentável
+
+- **Roteiro IRARA, linha 685** {#roteiro_irara_lin685} Situação 01: Nos casos em que o técnico constatar sobreposição com Unidades de
+- **Roteiro IRARA, linha 686** {#roteiro_irara_lin686} Conservação de Uso Sustentável de domínio privado, independentemente dos limites de
+- **Roteiro IRARA, linha 687** {#roteiro_irara_lin687} tolerância, deverá desconsiderar a inconsistência automática adicionada pelo sistema, salvo se
+- **Roteiro IRARA, linha 688** {#roteiro_irara_lin688} a UC corresponder integralmente a território tradicional (Área Especial de Uso Regulamentado –
+- **Roteiro IRARA, linha 689** {#roteiro_irara_lin689} Aresur). Neste caso, a análise deverá seguir os trâmites definidos no item4.3.3.3.
+- **Roteiro IRARA, linha 690** {#roteiro_irara_lin690} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 691** {#roteiro_irara_lin691} abrirá e o técnico deverá clicar em “Desconsiderar Inconsistência”.
+- **Roteiro IRARA, linha 692** {#roteiro_irara_lin692} Justificativa: “O imóvel rural apresentou sobreposição com Unidade de Conservação de Uso
+- **Roteiro IRARA, linha 693** {#roteiro_irara_lin693} Sustentável de domínio privado e, por isso, a inconsistência automática foi desconsiderada.”
+- **Roteiro IRARA, linha 694** {#roteiro_irara_lin694} Figura 6. Sobreposição com UC de Uso Sustentável
+- **Roteiro IRARA, linha 695** {#roteiro_irara_lin695} Situação 02: Nos casos em que o técnico constatar que a sobreposição ultrapassa o limite de
+- **Roteiro IRARA, linha 696** {#roteiro_irara_lin696} tolerância e a UC for classificada como Unidade de Conservação de Uso Sustentável de domínio
+- **Roteiro IRARA, linha 697** {#roteiro_irara_lin697} público, o técnico deverá manter a inconsistência adicionada pelo sistema, sendo que o cadastro
+- **Roteiro IRARA, linha 698** {#roteiro_irara_lin698} deverá permanecer na condição “Pendente”.
+- **Roteiro IRARA, linha 699** {#roteiro_irara_lin699} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 700** {#roteiro_irara_lin700} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 701** {#roteiro_irara_lin701} Adicionar observação: “Constatou-se sobreposição do IRARA com Unidades de Conservação
+- **Roteiro IRARA, linha 702** {#roteiro_irara_lin702} de Uso Sustentável de domínio público. Retifique seu cadastro e/ou apresente esclarecimentos
+- **Roteiro IRARA, linha 703** {#roteiro_irara_lin703} sobre as informações declaradas, conforme consta na Instrução Normativa do Ministério do Meio
+- **Roteiro IRARA, linha 704** {#roteiro_irara_lin704} Ambiente nº02/2014 e Portaria MAPA nº 121/21. Informamos que o cadastro do IRARA
+- **Roteiro IRARA, linha 705** {#roteiro_irara_lin705} sobreposto ficará pendente até que se atenda a presente notificação”.
+- **Roteiro IRARA, linha 706** {#roteiro_irara_lin706} Solicitação de documentos: Selecionar as opções Memorial Descritivo, Nº de
+- **Roteiro IRARA, linha 707** {#roteiro_irara_lin707} Certificação do INCRA, Planta Georreferenciada e ART.
+
+### 4.3.4. Sobreposição com Áreas Embargadas
+
+- **Roteiro IRARA, linha 709** {#roteiro_irara_lin709} Em relação à análise das informações declaradas no CAR, o art. 43 da IN MMA nº
+- **Roteiro IRARA, linha 710** {#roteiro_irara_lin710} 02/2014 menciona que a seguinte avaliação deverá ser feita pelo órgão ambiental competente:
+- **Roteiro IRARA, linha 711** {#roteiro_irara_lin711} X - Sobreposição do imóvel rural com áreas embargadas, pelo órgão
+- **Roteiro IRARA, linha 712** {#roteiro_irara_lin712} ambiental competente[...]
+- **Roteiro IRARA, linha 713** {#roteiro_irara_lin713} O técnico deverá verificar se há embargos expedidos pelos órgãos oficiais de
+- **Roteiro IRARA, linha 714** {#roteiro_irara_lin714} fiscalização ambiental no CAR em análise. Além disso, também deverá realizar uma consulta ao
+- **Roteiro IRARA, linha 715** {#roteiro_irara_lin715} GeoSicar a fim de verificar se algum polígono de área embargada incide sobre o IRARA.
+- **Roteiro IRARA, linha 716** {#roteiro_irara_lin716} Figura 7. Área embargada identificada pelo GeoSicar
+- **Roteiro IRARA, linha 717** {#roteiro_irara_lin717} Figura 18. Área embargada identificada pelo GeoSicar
+- **Roteiro IRARA, linha 718** {#roteiro_irara_lin718} OBSERVAÇÃO: Com base na Resolução do Conselho Monetário Nacional – CMN nº 5.158 de
+- **Roteiro IRARA, linha 719** {#roteiro_irara_lin719} 24 de julho de 2024, que adiciona ao artigo 1º, sessão 9, cápitulo II, o *8A, que trata do Manual
+- **Roteiro IRARA, linha 720** {#roteiro_irara_lin720} do Crédito Rural – MCR 2-9, os embargos do Cadastro de autuações ambientais e embargos do
+- **Roteiro IRARA, linha 721** {#roteiro_irara_lin721} IBAMA, não terão alcance sobre a área integral do IRARA, mas apenas sobre a área embargada
+- **Roteiro IRARA, linha 722** {#roteiro_irara_lin722} e sobre o proponente responsável pelo embargo no respectivo lote.
+- **Roteiro IRARA, linha 723** {#roteiro_irara_lin723} Excepcionalmente para fins de crédito agrícola, o CAR do IRARA sobreposto a perímetro
+- **Roteiro IRARA, linha 724** {#roteiro_irara_lin724} embargado do IBAMA será vinculado para análise, desconsiderando temporariamente a
+- **Roteiro IRARA, linha 725** {#roteiro_irara_lin725} pendência, visando permitir que os demais lotes não infratores, dentro do mesmo assentamento,
+- **Roteiro IRARA, linha 726** {#roteiro_irara_lin726} não sejam prejudicados no acesso ao crédito e estabelecendo um prazo de 90 dias para que o
+- **Roteiro IRARA, linha 727** {#roteiro_irara_lin727} INCRA/ocupante do lote promovam a regularização ambiental e enviem os documentos
+- **Roteiro IRARA, linha 728** {#roteiro_irara_lin728} comprobatórios (PRADA e/ou Termo de Compromisso). Caso este envio não aconteça no prazo
+- **Roteiro IRARA, linha 729** {#roteiro_irara_lin729} determinado, o CAR voltará a situação “pendente”
+- **Roteiro IRARA, linha 730** {#roteiro_irara_lin730} Situação 01: Nos casos em que o técnico verifique que o embargo expedido pelo órgão
+- **Roteiro IRARA, linha 731** {#roteiro_irara_lin731} ambiental incide em um LOTE do IRARA, ele deverá notificar o INCRA, para apresentação dos
+- **Roteiro IRARA, linha 732** {#roteiro_irara_lin732} documentos comprobatórios do processo de regularização ambiental
+- **Roteiro IRARA, linha 733** {#roteiro_irara_lin733} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 734** {#roteiro_irara_lin734} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 735** {#roteiro_irara_lin735} Adicionar observação:“Constatou-se que o imóvel em análise possui embargo expedido pelo
+- **Roteiro IRARA, linha 736** {#roteiro_irara_lin736} órgão ambiental. Retifique seu cadastro e/ou apresente esclarecimentos sobre as informações
+- **Roteiro IRARA, linha 737** {#roteiro_irara_lin737} declaradas. Informamos que o cadastro do imóvel sobreposto ficará na situação Pendente.”
+- **Roteiro IRARA, linha 738** {#roteiro_irara_lin738} Documentos solicitados: PRADA e/ou Termo de Compromisso
+- **Roteiro IRARA, linha 739** {#roteiro_irara_lin739} Figura 8. Aba Análise de sobreposições com áreas embargadas
+
+### 4.3.5. Sobreposição com territórios de povos e comunidades tradicionais (PCT)
+
+- **Roteiro IRARA, linha 741** {#roteiro_irara_lin741} Mediante Consulta Livre, Prévia e Informada, no âmbito da inscrição do CAR PCT no
+- **Roteiro IRARA, linha 742** {#roteiro_irara_lin742} SICAR executado pelo IAP/IAT, em 2019 e 2020, foram realizadosos Cadastros Ambientais
+- **Roteiro IRARA, linha 743** {#roteiro_irara_lin743} Rurais dos territórios tradicionais de segmentos das comunidades tradicionais, identificadas até
+- **Roteiro IRARA, linha 744** {#roteiro_irara_lin744} então. Esses territórios não possuem regularização fundiária, à luz de Terras Indígenas e Terras
+- **Roteiro IRARA, linha 745** {#roteiro_irara_lin745} Quilombolas regularizadas, dessa forma os territórios cadastrados permitem sobreposições com
+- **Roteiro IRARA, linha 746** {#roteiro_irara_lin746} outros imóveis rurais.
+- **Roteiro IRARA, linha 747** {#roteiro_irara_lin747} Ao detectar sobreposição de um IRARA com qualquer território de PCT, não
+- **Roteiro IRARA, linha 748** {#roteiro_irara_lin748} regularizado, inserir uma inconsistência informando que se trata de um território cujo manejo é
+- **Roteiro IRARA, linha 749** {#roteiro_irara_lin749} tradicional e que havendo regras próprias, em cada território, as mesmas deverão ser
+- **Roteiro IRARA, linha 750** {#roteiro_irara_lin750} respeitadas.
+- **Roteiro IRARA, linha 751** {#roteiro_irara_lin751} A sobreposição do imóvel rural em análise com territórios tradicionais titulados é fator
+- **Roteiro IRARA, linha 752** {#roteiro_irara_lin752} impeditivo para a continuidade da análise, visto que o limite de tolerância de sobreposição
+- **Roteiro IRARA, linha 753** {#roteiro_irara_lin753} corresponde a 0%.
+- **Roteiro IRARA, linha 754** {#roteiro_irara_lin754} Portanto, caso o técnico verifique que o sistema identificou a sobreposição do IRARA
+- **Roteiro IRARA, linha 755** {#roteiro_irara_lin755} com PCT titulado, deverá inserir/manter a inconsistência, para que o gerente operacional
+- **Roteiro IRARA, linha 756** {#roteiro_irara_lin756} notifique o INCRA para regularizar a situação em um prazo de 90 dias, sendo que, findo o prazo,
+- **Roteiro IRARA, linha 757** {#roteiro_irara_lin757} estará sujeito ao cancelamento do CAR.
+
+### 4.4. Cobertura do Solo
+
+- **Roteiro IRARA, linha 759** {#roteiro_irara_lin759} A base legal para a caracterização das áreas de Remanescente de Vegetação Nativa
+- **Roteiro IRARA, linha 760** {#roteiro_irara_lin760} consiste em:
+- **Roteiro IRARA, linha 761** {#roteiro_irara_lin761} ▪ Lei nº 11.428/2006- Dispõe sobre a utilização e proteção da vegetação
+- **Roteiro IRARA, linha 762** {#roteiro_irara_lin762} nativa do Bioma Mata Atlântica.
+- **Roteiro IRARA, linha 763** {#roteiro_irara_lin763} ▪ Decreto Federal nº 6.660/2008 - Regulamenta dispositivos da
+- **Roteiro IRARA, linha 764** {#roteiro_irara_lin764} Lein°11.428, de 22/12/2006, que dispõe sobre a utilização e proteção da
+- **Roteiro IRARA, linha 765** {#roteiro_irara_lin765} vegetação nativa do Bioma Mata Atlântica.
+- **Roteiro IRARA, linha 766** {#roteiro_irara_lin766} ▪ Resolução CONAMA nº10/1993- Estabelece os parâmetros básicos
+- **Roteiro IRARA, linha 767** {#roteiro_irara_lin767} para análise dos estágios de sucessão de Mata Atlântica.
+- **Roteiro IRARA, linha 768** {#roteiro_irara_lin768} ▪ Resolução CONAMA nº 002/1994 - Define formações vegetais
+- **Roteiro IRARA, linha 769** {#roteiro_irara_lin769} primárias e estágios sucessionais de vegetação secundária com a
+- **Roteiro IRARA, linha 770** {#roteiro_irara_lin770} finalidade de orientar os procedimentos de licenciamento de exploração
+- **Roteiro IRARA, linha 771** {#roteiro_irara_lin771} da vegetação nativa no Estadodo Paraná.
+- **Roteiro IRARA, linha 772** {#roteiro_irara_lin772} ▪ Resolução CONAMA nº 388/2007 - Dispõe sobre a convalidação das
+- **Roteiro IRARA, linha 773** {#roteiro_irara_lin773} resoluções que definem a vegetação primária e secundária nos estágios
+- **Roteiro IRARA, linha 774** {#roteiro_irara_lin774} inicial, médio e avançado de regeneração da Mata Atlântica para fins do
+- **Roteiro IRARA, linha 775** {#roteiro_irara_lin775} disposto no art. 4º, § 1°, da Lei n° 11.428, de 22/12/2006.
+- **Roteiro IRARA, linha 776** {#roteiro_irara_lin776} • ResoluçãoCONAMAnº423/2010 – Dispõe sobre parâmetros básicos
+- **Roteiro IRARA, linha 777** {#roteiro_irara_lin777} para identificação e análise da vegetação primária e dos estágios
+- **Roteiro IRARA, linha 778** {#roteiro_irara_lin778} sucessionais da vegetação secundária nos Campos de Altitude associados
+- **Roteiro IRARA, linha 779** {#roteiro_irara_lin779} ou abrangidos pela Mata Atlântica.
+- **Roteiro IRARA, linha 780** {#roteiro_irara_lin780} A fim de realizar a análise da cobertura do solo declarada pelo INCRA, o técnico deverá
+- **Roteiro IRARA, linha 781** {#roteiro_irara_lin781} seguir alguns parâmetros como os limites de tolerância estabelecidos pelo sistema SICAR e a
+- **Roteiro IRARA, linha 782** {#roteiro_irara_lin782} base legal. Para imóveis rurais com área ≤ 4 MF, o limite de tolerância para sobreposição do
+- **Roteiro IRARA, linha 783** {#roteiro_irara_lin783} IRARA com outros imóveis rurais declarados no CAR estabelecido pelo sistema é de 10%.
+- **Roteiro IRARA, linha 784** {#roteiro_irara_lin784} Para melhor caracterização e identificação dos Remanescentes de Vegetação Nativa,
+- **Roteiro IRARA, linha 785** {#roteiro_irara_lin785} o técnico deverá considerar as seguintes definições:
+- **Roteiro IRARA, linha 786** {#roteiro_irara_lin786} •
+- **Roteiro IRARA, linha 787** {#roteiro_irara_lin787} Vegetação Primária – vegetação de máxima expressão local, com grande
+- **Roteiro IRARA, linha 788** {#roteiro_irara_lin788} diversidade biológica, sendo os efeitos das ações antrópicas mínimas a ponto de
+- **Roteiro IRARA, linha 789** {#roteiro_irara_lin789} não afetar significativamente suas características originais de estrutura e de
+- **Roteiro IRARA, linha 790** {#roteiro_irara_lin790} espécies;
+- **Roteiro IRARA, linha 791** {#roteiro_irara_lin791} •
+- **Roteiro IRARA, linha 792** {#roteiro_irara_lin792} Vegetação Secundária ou em Regeneração - vegetação resultante dos processos
+- **Roteiro IRARA, linha 793** {#roteiro_irara_lin793} naturais de sucessão após supressão total ou parcial da vegetação primária por
+- **Roteiro IRARA, linha 794** {#roteiro_irara_lin794} ações antrópicas ou causas naturais, podendo ocorrer árvores remanescentes
+- **Roteiro IRARA, linha 795** {#roteiro_irara_lin795} davegetação primária;
+- **Roteiro IRARA, linha 796** {#roteiro_irara_lin796} •
+- **Roteiro IRARA, linha 797** {#roteiro_irara_lin797} Área úmida – é o segmento de paisagem contido em planícies de inundação,
+- **Roteiro IRARA, linha 798** {#roteiro_irara_lin798} coberto de forma permanente ou periódica por águas marinhas e costeiras
+- **Roteiro IRARA, linha 799** {#roteiro_irara_lin799} fluviais, continentais e artificiais, formando complexos ecossistemas, constituído
+- **Roteiro IRARA, linha 800** {#roteiro_irara_lin800} predominantemente por solos hidromórficos e, em menor expressão, por
+- **Roteiro IRARA, linha 801** {#roteiro_irara_lin801} solossemi-hidromórficos. As áreas úmidas abrigam uma enorme variedade de
+- **Roteiro IRARA, linha 802** {#roteiro_irara_lin802} espécies endêmicas, mas, também, periodicamente, espécies terrestres
+- **Roteiro IRARA, linha 803** {#roteiro_irara_lin803} e
+- **Roteiro IRARA, linha 804** {#roteiro_irara_lin804} de águas profundas e, portanto, contribuem substancialmente para a
+- **Roteiro IRARA, linha 805** {#roteiro_irara_lin805} biodiversidade ambiental. Além disso, têm papel importante no ciclo hidrológico,
+- **Roteiro IRARA, linha 806** {#roteiro_irara_lin806} ampliando a capacidade de retenção de água da região onde se localiza,
+- **Roteiro IRARA, linha 807** {#roteiro_irara_lin807} promovendo
+- **Roteiro IRARA, linha 808** {#roteiro_irara_lin808} o
+- **Roteiro IRARA, linha 809** {#roteiro_irara_lin809} múltiplo
+- **Roteiro IRARA, linha 810** {#roteiro_irara_lin810} uso
+- **Roteiro IRARA, linha 811** {#roteiro_irara_lin811} das
+- **Roteiro IRARA, linha 812** {#roteiro_irara_lin812} águas
+- **Roteiro IRARA, linha 813** {#roteiro_irara_lin813} pelos
+- **Roteiro IRARA, linha 814** {#roteiro_irara_lin814} seres
+- **Roteiro IRARA, linha 815** {#roteiro_irara_lin815} humanos
+- **Roteiro IRARA, linha 816** {#roteiro_irara_lin816} (https://www.wwf.org.br/natureza_brasileira/questoes_ambientais/areas_umidas/
+- **Roteiro IRARA, linha 817** {#roteiro_irara_lin817} ).
+- **Roteiro IRARA, linha 818** {#roteiro_irara_lin818} •
+- **Roteiro IRARA, linha 819** {#roteiro_irara_lin819} De acordo com a Convenção de Ramsar, as zonas úmidas são áreas de pântano,
+- **Roteiro IRARA, linha 820** {#roteiro_irara_lin820} charco, turfa ou água, natural ou artificial, permanente ou temporária, com água
+- **Roteiro IRARA, linha 821** {#roteiro_irara_lin821} estagnada ou corrente, doce, salobra ou salgada, incluindo áreas de água
+- **Roteiro IRARA, linha 822** {#roteiro_irara_lin822} marítima
+- **Roteiro IRARA, linha 823** {#roteiro_irara_lin823} com
+- **Roteiro IRARA, linha 824** {#roteiro_irara_lin824} menos
+- **Roteiro IRARA, linha 825** {#roteiro_irara_lin825} de
+- **Roteiro IRARA, linha 826** {#roteiro_irara_lin826} seis
+- **Roteiro IRARA, linha 827** {#roteiro_irara_lin827} metros
+- **Roteiro IRARA, linha 828** {#roteiro_irara_lin828} de
+- **Roteiro IRARA, linha 829** {#roteiro_irara_lin829} profundidade
+- **Roteiro IRARA, linha 830** {#roteiro_irara_lin830} na
+- **Roteiro IRARA, linha 831** {#roteiro_irara_lin831} maré
+- **Roteiro IRARA, linha 832** {#roteiro_irara_lin832} baixa.(https://antigo.mma.gov.br/biodiversidade/biodiversidade-aquatica/zonasumidas-convencao-de-ramsar.html).
+- **Roteiro IRARA, linha 833** {#roteiro_irara_lin833} •
+- **Roteiro IRARA, linha 834** {#roteiro_irara_lin834} “ÁreasÚmidas são ecossistemas na interface entre ambientes terrestres e
+- **Roteiro IRARA, linha 835** {#roteiro_irara_lin835} aquáticos, continentais ou costeiros, naturais ou artificiais, permanente ou
+- **Roteiro IRARA, linha 836** {#roteiro_irara_lin836} periodicamente inundados ou com solos encharcados. As águas podem ser
+- **Roteiro IRARA, linha 837** {#roteiro_irara_lin837} doces, salobras ou salgadas, com comunidades de plantas e animais adaptados
+- **Roteiro IRARA, linha 838** {#roteiro_irara_lin838} à
+- **Roteiro IRARA, linha 839** {#roteiro_irara_lin839} sua
+- **Roteiro IRARA, linha 840** {#roteiro_irara_lin840} dinâmica
+- **Roteiro IRARA, linha 841** {#roteiro_irara_lin841} hídrica”
+- **Roteiro IRARA, linha 842** {#roteiro_irara_lin842} (adaptado
+- **Roteiro IRARA, linha 843** {#roteiro_irara_lin843} de
+- **Roteiro IRARA, linha 844** {#roteiro_irara_lin844} Junk
+- **Roteiro IRARA, linha 845** {#roteiro_irara_lin845} e
+- **Roteiro IRARA, linha 846** {#roteiro_irara_lin846} colaboradores,
+- **Roteiro IRARA, linha 847** {#roteiro_irara_lin847} 20131).(https://antigo.mma.gov.br/biodiversidade/biodiversidade-aquatica/zonasumidas-convencao-de-ramsar.html).
+- **Roteiro IRARA, linha 848** {#roteiro_irara_lin848} Os IRARAS inseridos na região de ocorrência dos Campos Naturais serão analisados
+- **Roteiro IRARA, linha 849** {#roteiro_irara_lin849} à luz das bases cartográficas disponíveis.
+- **Roteiro IRARA, linha 850** {#roteiro_irara_lin850} Nas situações em que ocorra dúvida quanto a presença de Campos Naturais o técnico
+- **Roteiro IRARA, linha 851** {#roteiro_irara_lin851} deverá adicionar uma inconsistência solicitando a apresentação de Informação Técnica
+- **Roteiro IRARA, linha 852** {#roteiro_irara_lin852} evidenciando ou não a existência de Campos Naturais.
+- **Roteiro IRARA, linha 853** {#roteiro_irara_lin853} Justificativa: “Observaram-se indícios de áreas de campos naturais sobrepostas a áreas
+- **Roteiro IRARA, linha 854** {#roteiro_irara_lin854} consolidadas. “Solicita-se Informação Técnica do INCRA sobre a presença/ausência de
+- **Roteiro IRARA, linha 855** {#roteiro_irara_lin855} Campos Naturais.”
+- **Roteiro IRARA, linha 856** {#roteiro_irara_lin856} Por fim, o plano de manejo florestal sustentável (PMFS) objetiva maximizar a produção
+- **Roteiro IRARA, linha 857** {#roteiro_irara_lin857} florestal sem causar danos. Conforme o art.1-A, da Lei n.12.651/2012:
+- **Roteiro IRARA, linha 858** {#roteiro_irara_lin858} VII - manejo sustentável: administração da vegetação natural para a obtenção
+- **Roteiro IRARA, linha 859** {#roteiro_irara_lin859} de benefícios econômicos, sociais e ambientais, respeitando-se os mecanismos
+- **Roteiro IRARA, linha 860** {#roteiro_irara_lin860} de sustentação do ecossistema objeto do manejo e considerando-se,
+- **Roteiro IRARA, linha 861** {#roteiro_irara_lin861} cumulativa ou alternativamente, a utilização de múltiplas espécies
+- **Roteiro IRARA, linha 862** {#roteiro_irara_lin862} madeireiras ou não, de múltiplos produtos e subprodutos da flora, bem como
+- **Roteiro IRARA, linha 863** {#roteiro_irara_lin863} a utilização de outros bens e serviços;
+- **Roteiro IRARA, linha 864** {#roteiro_irara_lin864} Caso o técnico observe, na matrícula, que há averbação de plano de manejo florestal
+- **Roteiro IRARA, linha 865** {#roteiro_irara_lin865} junto ao IBAMA ou IBDF, deverá solicitar a planta georreferenciada, com a localização do plano
+- **Roteiro IRARA, linha 866** {#roteiro_irara_lin866} de manejo.
+- **Roteiro IRARA, linha 867** {#roteiro_irara_lin867} Solicitação de documentos: Selecionar a opção Planta Georreferenciada.
+
+### 4.4.1 Aba Classificação do técnico
+
+- **Roteiro IRARA, linha 869** {#roteiro_irara_lin869} O técnico, a fim de auxiliar o proprietário/possuidor, poderá vetorizar a cobertura do
+- **Roteiro IRARA, linha 870** {#roteiro_irara_lin870} solo e enviar essa classificação por meio da Central do Proprietário/Possuidor. Para tanto, será
+- **Roteiro IRARA, linha 871** {#roteiro_irara_lin871} necessário habilitar a opção “enviar arquivo vetorial ao INCRA”, conforme imagem abaixo.
+- **Roteiro IRARA, linha 872** {#roteiro_irara_lin872} Figura 9. Classificação do técnico
+
+### 4.4.2 Aba Análise da Cobertura do Solo em Remanescente de Vegetação Nativa
+
+- **Roteiro IRARA, linha 874** {#roteiro_irara_lin874} vetorizada pelo cadastrante
+- **Roteiro IRARA, linha 875** {#roteiro_irara_lin875} Para a análise dos Remanescentes de Vegetação Nativa declarados pelo
+- **Roteiro IRARA, linha 876** {#roteiro_irara_lin876} proprietário/possuidor, serão consideradas as formações florestais nativas primárias ou
+- **Roteiro IRARA, linha 877** {#roteiro_irara_lin877} secundárias em quaisquer estágios sucessionais (inicial,médio ou avançado) e ecossistemas
+- **Roteiro IRARA, linha 878** {#roteiro_irara_lin878} associados: Floresta Ombrófila Densa; Floresta Ombrófila Mista, também denominada de Mata
+- **Roteiro IRARA, linha 879** {#roteiro_irara_lin879} de Araucárias; Floresta Estacional Semidecidual; campos; cerrados; áreas úmidas; áreas das
+- **Roteiro IRARA, linha 880** {#roteiro_irara_lin880} formações pioneiras, conhecidas como manguezais, restingas, campos salinose áreas aluviais;
+- **Roteiro IRARA, linha 881** {#roteiro_irara_lin881} refúgios vegetacionais; campos de altitude; áreas de tensão ecológica; brejos interioranos e
+- **Roteiro IRARA, linha 882** {#roteiro_irara_lin882} encraves florestais, representados por disjunções de Floresta Ombrófila Densa, Floresta
+- **Roteiro IRARA, linha 883** {#roteiro_irara_lin883} Estacional Semidecidual; áreas de estepe, savana e savana-estépica; e vegetação nativa das
+- **Roteiro IRARA, linha 884** {#roteiro_irara_lin884} ilhas costeiras e oceânicas.
+- **Roteiro IRARA, linha 885** {#roteiro_irara_lin885} O
+- **Roteiro IRARA, linha 886** {#roteiro_irara_lin886} técnico
+- **Roteiro IRARA, linha 887** {#roteiro_irara_lin887} deverá
+- **Roteiro IRARA, linha 888** {#roteiro_irara_lin888} utilizar
+- **Roteiro IRARA, linha 889** {#roteiro_irara_lin889} o
+- **Roteiro IRARA, linha 890** {#roteiro_irara_lin890} banco
+- **Roteiro IRARA, linha 891** {#roteiro_irara_lin891} de
+- **Roteiro IRARA, linha 892** {#roteiro_irara_lin892} dados
+- **Roteiro IRARA, linha 893** {#roteiro_irara_lin893} disponível
+- **Roteiro IRARA, linha 894** {#roteiro_irara_lin894} no
+- **Roteiro IRARA, linha 895** {#roteiro_irara_lin895} endereço
+- **Roteiro IRARA, linha 896** {#roteiro_irara_lin896} http://simepar.br/geosicarpr/ (GeoSICAR) e verificar se há divergências nas áreas de
+- **Roteiro IRARA, linha 897** {#roteiro_irara_lin897} Remanescente de Vegetação Nativa (RVN) vetorizadas pelo cadastrante. O técnico também
+- **Roteiro IRARA, linha 898** {#roteiro_irara_lin898} poderá utilizar o Google Earth e as plataformas do MAP BIOMAS, BRASIL MAIS , observando
+- **Roteiro IRARA, linha 899** {#roteiro_irara_lin899} a análise temporal do imóvel em análise, principalmente para identificar possíveis
+- **Roteiro IRARA, linha 900** {#roteiro_irara_lin900} desmatamentos ocorridos após 22/07/2008.
+- **Roteiro IRARA, linha 901** {#roteiro_irara_lin901} Figura 10. GeoSICAR
+- **Roteiro IRARA, linha 902** {#roteiro_irara_lin902} Para auxiliar o proprietário/possuidor no atendimento da notificação, o técnico poderá
+- **Roteiro IRARA, linha 903** {#roteiro_irara_lin903} adicionar marcadores/polígonos sempre que necessário, a fim de indicar a localização das
+- **Roteiro IRARA, linha 904** {#roteiro_irara_lin904} áreas em que foram identificadas divergências nas classes de cobertura do solo vetorizadas
+- **Roteiro IRARA, linha 905** {#roteiro_irara_lin905} pelo cadastrante.
+- **Roteiro IRARA, linha 906** {#roteiro_irara_lin906} O técnico deverá considerar as seguintes situações na análise dos Remanescentes
+- **Roteiro IRARA, linha 907** {#roteiro_irara_lin907} de Vegetação Nativa:
+- **Roteiro IRARA, linha 908** {#roteiro_irara_lin908} Situação 01: Caso o técnico verifique que a classificação realizada pelo INCRA está correta,
+- **Roteiro IRARA, linha 909** {#roteiro_irara_lin909} mas o sistema inseriu uma inconsistência automática, deverá desconsiderar essa
+- **Roteiro IRARA, linha 910** {#roteiro_irara_lin910} inconsistência.
+- **Roteiro IRARA, linha 911** {#roteiro_irara_lin911} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 912** {#roteiro_irara_lin912} abrirá e o técnico deverá clicar em “Desconsiderar Inconsistência”.
+- **Roteiro IRARA, linha 913** {#roteiro_irara_lin913} Justificativa: “Observou-se que a área de Remanescente de Vegetação Nativa foi vetorizada
+- **Roteiro IRARA, linha 914** {#roteiro_irara_lin914} corretamente pelo proprietário/possuidor. As divergências detectadas em relação à
+- **Roteiro IRARA, linha 915** {#roteiro_irara_lin915} classificação automática do CAR não condizem com a realidade do imóvel rural e, portanto, a
+- **Roteiro IRARA, linha 916** {#roteiro_irara_lin916} inconsistência automática foi desconsiderada.”
+- **Roteiro IRARA, linha 917** {#roteiro_irara_lin917} Figura 11. À esquerda, declaração do proprietário no SICAR; à direita, verificação no GoogleEarth
+- **Roteiro IRARA, linha 918** {#roteiro_irara_lin918} Figura 12. Desconsiderando a inconsistência
+- **Roteiro IRARA, linha 919** {#roteiro_irara_lin919} O técnico deverá então desmarcar as caixas para retirar as inconsistências
+- **Roteiro IRARA, linha 920** {#roteiro_irara_lin920} identificadas de forma incorreta pelo sistema. Clicar em Desconsiderar Inconsistência e adicionar
+- **Roteiro IRARA, linha 921** {#roteiro_irara_lin921} a Justificativa.
+- **Roteiro IRARA, linha 922** {#roteiro_irara_lin922} Figura 13. Retirar marcações dos polígonos das classes desejadas para desconsiderar as
+- **Roteiro IRARA, linha 923** {#roteiro_irara_lin923} inconsistências.
+- **Roteiro IRARA, linha 924** {#roteiro_irara_lin924} Este mesmo procedimento repete-se para as demais classes de cobertura do solo,
+- **Roteiro IRARA, linha 925** {#roteiro_irara_lin925} áreas antropizadas não consolidadas e áreas consolidadas. Caso todas as inconsistências sejam
+- **Roteiro IRARA, linha 926** {#roteiro_irara_lin926} desconsideradas, pode-se inserir a seguinte justificativa:
+- **Roteiro IRARA, linha 927** {#roteiro_irara_lin927} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 928** {#roteiro_irara_lin928} abrirá e o técnico deverá clicar em “Desconsiderar Inconsistência”.
+- **Roteiro IRARA, linha 929** {#roteiro_irara_lin929} Justificativa: “As divergências detectadas em relação à classificação automática do CAR não
+- **Roteiro IRARA, linha 930** {#roteiro_irara_lin930} condizem com a realidade do imóvel rural e, portanto, a inconsistência automática foi
+- **Roteiro IRARA, linha 931** {#roteiro_irara_lin931} desconsiderada.”
+- **Roteiro IRARA, linha 932** {#roteiro_irara_lin932} Situação 02: Caso o técnico identifique que houve supressão da vegetação nativa anterior a
+- **Roteiro IRARA, linha 933** {#roteiro_irara_lin933} 22/07/2008, em área declarada como RVN pelo INCRA, deverá adicionar/manter os polígonos
+- **Roteiro IRARA, linha 934** {#roteiro_irara_lin934} marcados sobre as áreas que o sistema considerou como consolidadas (AC), gerando
+- **Roteiro IRARA, linha 935** {#roteiro_irara_lin935} inconsistência. Nestes casos, deve-se inserir uma observação.
+- **Roteiro IRARA, linha 936** {#roteiro_irara_lin936} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 937** {#roteiro_irara_lin937} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 938** {#roteiro_irara_lin938} Adicionar observação: “Constatou-se que a área vetorizada como Remanescente de
+- **Roteiro IRARA, linha 939** {#roteiro_irara_lin939} Vegetação Nativa, nas coordenadas informadas, possui indícios de supressão anterior a
+- **Roteiro IRARA, linha 940** {#roteiro_irara_lin940} 22/07/2008 e, portanto, deve ser classificada como Área Consolidada (AC). Retifique seu
+- **Roteiro IRARA, linha 941** {#roteiro_irara_lin941} cadastro vetorizando corretamente as áreas de vegetação nativa do imóvel, conforme a situação
+- **Roteiro IRARA, linha 942** {#roteiro_irara_lin942} atual do imóvel, e/ou apresente esclarecimentos sobre as informações declaradas.”
+- **Roteiro IRARA, linha 943** {#roteiro_irara_lin943} Figura 14. Exemplo da análise de AC declarada como RVN
+- **Roteiro IRARA, linha 944** {#roteiro_irara_lin944} Situação 03: Caso o técnico identifique, na declaração de RVN do INCRA, que houve supressão
+- **Roteiro IRARA, linha 945** {#roteiro_irara_lin945} da vegetação nativa após 22/07/2008, deverá adicionar/manter os polígonos marcados sobre
+- **Roteiro IRARA, linha 946** {#roteiro_irara_lin946} estas áreas, visto que essa área deverá ser classificada como “Área Antropizada não
+- **Roteiro IRARA, linha 947** {#roteiro_irara_lin947} Consolidada”.
+- **Roteiro IRARA, linha 948** {#roteiro_irara_lin948} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 949** {#roteiro_irara_lin949} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 950** {#roteiro_irara_lin950} Adicionar observação: “Constatou-se que a área vetorizada como Remanescente de
+- **Roteiro IRARA, linha 951** {#roteiro_irara_lin951} Vegetação Nativa (RVN), nas coordenadas informadas, possui indícios de supressão após
+- **Roteiro IRARA, linha 952** {#roteiro_irara_lin952} 22/07/2008. Solicita-se ao INCRA que identifique o ocupante responsável, para que o mesmo,
+- **Roteiro IRARA, linha 953** {#roteiro_irara_lin953} solidariamente ao INCRA, preste os esclarecimentos no atendimento da notificação.
+- **Roteiro IRARA, linha 954** {#roteiro_irara_lin954} Conforme o art. 3º, da Instrução Normativa nº02/2014, do Ministério do Meio Ambiente, as áreas
+- **Roteiro IRARA, linha 955** {#roteiro_irara_lin955} de RVN existentes após 22/07/2008 não perderão esta classificação nos casos de incêndio,
+- **Roteiro IRARA, linha 956** {#roteiro_irara_lin956} desmatamento ou qualquer outro tipo de intervenção não autorizada ou licenciada. Apresente a
+- **Roteiro IRARA, linha 957** {#roteiro_irara_lin957} documentação comprobatória referente à Autorização de supressão da vegetação (ASV) ou
+- **Roteiro IRARA, linha 958** {#roteiro_irara_lin958} Autorização de uso alternativo do solo (AUAS); ou Auto de Infração Ambiental (AIA) como “termo
+- **Roteiro IRARA, linha 959** {#roteiro_irara_lin959} de embargo” emitido ou regularizado mediante termo de compromisso de reparação do dano
+- **Roteiro IRARA, linha 960** {#roteiro_irara_lin960} causado, ou o projeto de recuperação de áreas degradadas (PRAD); ou Boletim de Ocorrência
+- **Roteiro IRARA, linha 961** {#roteiro_irara_lin961} Policial registrado, denunciando a ocorrência de dano ambiental realizado em área de sua
+- **Roteiro IRARA, linha 962** {#roteiro_irara_lin962} propriedade, cometida por terceiros, identificados ou não e retifique seu cadastro corrigindo as
+- **Roteiro IRARA, linha 963** {#roteiro_irara_lin963} informações conforme a situação atual do imóvel.”
+- **Roteiro IRARA, linha 964** {#roteiro_irara_lin964} Atenção: Para adicionar uma área classificada como Área Antropizada NãoConsolidada (AA),
+- **Roteiro IRARA, linha 965** {#roteiro_irara_lin965} nenhuma feição deverá ser preenchida sobre a imagem. Desta forma, o sistema entenderá que
+- **Roteiro IRARA, linha 966** {#roteiro_irara_lin966} se trata de uma AA.”
+- **Roteiro IRARA, linha 967** {#roteiro_irara_lin967} Solicitação de documentos: Selecionar as opções Autorização de supressão da vegetação
+- **Roteiro IRARA, linha 968** {#roteiro_irara_lin968} (ASV) ou Autorização de uso alternativo do solo (AUAS), Auto de Infração Ambiental (AIA), ou
+- **Roteiro IRARA, linha 969** {#roteiro_irara_lin969} Boletim de Ocorrência policial registrado, termo de compromisso ou PRAD.
+- **Roteiro IRARA, linha 970** {#roteiro_irara_lin970} Figura 15. Exemplo de análise de AA classificada como RVN
+- **Roteiro IRARA, linha 971** {#roteiro_irara_lin971} Situação 04: Caso o técnico tenha indicado, na primeira análise, que o imóvel possui área
+- **Roteiro IRARA, linha 972** {#roteiro_irara_lin972} antropizada não consolidada, solicitando os respectivos documentos, mas o proprietário não os
+- **Roteiro IRARA, linha 973** {#roteiro_irara_lin973} apresentou, não declarou a AA, e também não contestou o parecer anterior, deverá manter a
+- **Roteiro IRARA, linha 974** {#roteiro_irara_lin974} inconsistência.
+- **Roteiro IRARA, linha 975** {#roteiro_irara_lin975} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 976** {#roteiro_irara_lin976} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 977** {#roteiro_irara_lin977} Adicionar observação: “Constatou-se que a área vetorizada como Remanescente de
+- **Roteiro IRARA, linha 978** {#roteiro_irara_lin978} Vegetação Nativa, nas coordenadas informadas, possui indícios de supressão após 22/07/2008.
+- **Roteiro IRARA, linha 979** {#roteiro_irara_lin979} Conforme o art.3°, da Instrução Normativa n° 02/2014, do Ministério do Meio Ambiente, os
+- **Roteiro IRARA, linha 980** {#roteiro_irara_lin980} Remanescentes de Vegetação Nativa, existentes após 22/07/2008 não perderão esta
+- **Roteiro IRARA, linha 981** {#roteiro_irara_lin981} classificação nos casos de incêndio, desmatamento ou qualquer outro tipo de intervenção não
+- **Roteiro IRARA, linha 982** {#roteiro_irara_lin982} autorizada ou não licenciada. No parecer (protocolo DATA) solicitaram-se os documentos
+- **Roteiro IRARA, linha 983** {#roteiro_irara_lin983} referentes à Autorização de supressão da vegetação (ASV) ou Autorização de uso alternativo do
+- **Roteiro IRARA, linha 984** {#roteiro_irara_lin984} solo (AUAS), Auto de Infração Ambiental (AIA) como “termo de embargo” emitido ou regularizado
+- **Roteiro IRARA, linha 985** {#roteiro_irara_lin985} mediante termo de compromisso de reparação do dano causado, ou o projeto de recuperação
+- **Roteiro IRARA, linha 986** {#roteiro_irara_lin986} de áreas degradadas (PRAD) ou Boletim de Ocorrência Policial registrado, denunciando ao
+- **Roteiro IRARA, linha 987** {#roteiro_irara_lin987} corrência de dano ambiental realizado em área de sua propriedade, cometida por terceiros,
+- **Roteiro IRARA, linha 988** {#roteiro_irara_lin988} identificados ou não. Na presente análise,o proprietário/cadastrante não justificou e/ou não
+- **Roteiro IRARA, linha 989** {#roteiro_irara_lin989} apresentou os documentos solicitados. Retifique seu cadastro vetorizando corretamente a aba
+- **Roteiro IRARA, linha 990** {#roteiro_irara_lin990} de cobertura do solo indicando a área de Remanescente de Vegetação Nativa, área consolidada
+- **Roteiro IRARA, linha 991** {#roteiro_irara_lin991} e área de pousio. Nenhuma feição deve ser vetorizada sobre as áreas classificadas como Áreas
+- **Roteiro IRARA, linha 992** {#roteiro_irara_lin992} Antropizadas Não Consolidadas indicadas nesse parecer ou no anterior. Desta maneira, sem a
+- **Roteiro IRARA, linha 993** {#roteiro_irara_lin993} classificação da área que não possui mais vegetação nativa pelo declarante, automaticamente o
+- **Roteiro IRARA, linha 994** {#roteiro_irara_lin994} SICAR apontará tal área como antropizada não consolidada.”
+- **Roteiro IRARA, linha 995** {#roteiro_irara_lin995} Situação 05: Caso o INCRA conteste a área antropizada indicada no parecer técnico e não
+- **Roteiro IRARA, linha 996** {#roteiro_irara_lin996} retifique o cadastro, o técnico deverá solicitar o laudo técnico. Para dar prosseguimento na
+- **Roteiro IRARA, linha 997** {#roteiro_irara_lin997} análise, tal laudo deverá ser objeto de análise pelo GO. Assim, o técnico deverá seguir os
+- **Roteiro IRARA, linha 998** {#roteiro_irara_lin998} seguintes passos:
+- **Roteiro IRARA, linha 999** {#roteiro_irara_lin999} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1000** {#roteiro_irara_lin1000} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1001** {#roteiro_irara_lin1001} Adicionar observação: “No parecer (protocolo DATA) apontaram-se indícios de supressão de
+- **Roteiro IRARA, linha 1002** {#roteiro_irara_lin1002} vegetação nativa ocorridos após 22/07/2008 e solicitaram-se os documentos referentes à
+- **Roteiro IRARA, linha 1003** {#roteiro_irara_lin1003} Autorização de supressão da vegetação (ASV) ou Autorização de uso alternativo do solo
+- **Roteiro IRARA, linha 1004** {#roteiro_irara_lin1004} (AUAS), Auto de Infração Ambiental (AIA) como “termo de embargo” emitido ou regularizado
+- **Roteiro IRARA, linha 1005** {#roteiro_irara_lin1005} mediante termo de compromisso de recuperação do dano causado, ou o projeto de recuperação
+- **Roteiro IRARA, linha 1006** {#roteiro_irara_lin1006} de áreas degradadas (PRAD) ou Boletim de Ocorrência Policial registrado, denunciando a
+- **Roteiro IRARA, linha 1007** {#roteiro_irara_lin1007} ocorrência de dano ambiental realizado em área de sua propriedade, cometida por terceiros,
+- **Roteiro IRARA, linha 1008** {#roteiro_irara_lin1008} identificados ou não. Na presente análise,o proprietário/possuidor justificou que não ocorreu o
+- **Roteiro IRARA, linha 1009** {#roteiro_irara_lin1009} desmate da área após o marco temporal. Solicita-se o laudo técnico de caracterização ambiental
+- **Roteiro IRARA, linha 1010** {#roteiro_irara_lin1010} da área, com a inserção de imagens de satélite temporais (2008, 2012 e do ano atual), assinado
+- **Roteiro IRARA, linha 1011** {#roteiro_irara_lin1011} por profissional competente e a respectiva ART, para fins de validação da área. O modelo do
+- **Roteiro IRARA, linha 1012** {#roteiro_irara_lin1012} laudo técnico pode ser obtido no sitedo IAT (http://www.iat.pr.gov.br/Pagina/CadastroAmbiental-Rural-CAR – Pasta “Documentos” – “Modelo de Laudo Técnico SICAR).”
+- **Roteiro IRARA, linha 1013** {#roteiro_irara_lin1013} Solicitação de documentos: Selecionar a opção LaudoTécnico.
+- **Roteiro IRARA, linha 1014** {#roteiro_irara_lin1014} Em “protocoloDATA”, o técnico deverá inserir o número do protocolo da notificação a que a
+- **Roteiro IRARA, linha 1015** {#roteiro_irara_lin1015} inconsistência se refere.
+- **Roteiro IRARA, linha 1016** {#roteiro_irara_lin1016} Situação 06: Caso o técnico tenha solicitado, em análises anteriores, o Auto de Infração
+- **Roteiro IRARA, linha 1017** {#roteiro_irara_lin1017} Ambiental (AIA), com o termo de embargo emitido ou regularizado mediante termo de
+- **Roteiro IRARA, linha 1018** {#roteiro_irara_lin1018} compromisso de recuperação do dano causado, ou o projeto de recuperação de áreas
+- **Roteiro IRARA, linha 1019** {#roteiro_irara_lin1019} degradadas (PRAD) e o INCRA tenha encaminhado apenas o AIA, sem enviar o Termo de
+- **Roteiro IRARA, linha 1020** {#roteiro_irara_lin1020} Compromisso ou o PRAD, o técnico deverá adicionar uma nova inconsistência.
+- **Roteiro IRARA, linha 1021** {#roteiro_irara_lin1021} Procedimento: Iniciara a nálise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1022** {#roteiro_irara_lin1022} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1023** {#roteiro_irara_lin1023} Adicionar observação: “Constatou-se que a área vetorizada como Área de Pousio, nas
+- **Roteiro IRARA, linha 1024** {#roteiro_irara_lin1024} coordenadas informadas, possui indícios de supressão após 22/07/2008. Conformeo art.3°, da
+- **Roteiro IRARA, linha 1025** {#roteiro_irara_lin1025} Instrução Normativa n°02/2014, doMinistériodo Meio Ambiente, os Remanescentes de
+- **Roteiro IRARA, linha 1026** {#roteiro_irara_lin1026} Vegetação Nativa, existentes após 22/07/2008 não perderão esta classificação nos casos de
+- **Roteiro IRARA, linha 1027** {#roteiro_irara_lin1027} incêndio, desmatamento ou qualquer outro tipo de intervenção não autorizada ou não licenciada.
+- **Roteiro IRARA, linha 1028** {#roteiro_irara_lin1028} No parecer (protocoloDATA) solicitaram-se os documentos referentes à Autorização de
+- **Roteiro IRARA, linha 1029** {#roteiro_irara_lin1029} supressão da vegetação (ASV) ou Autorização deuso alternativo do solo (AUAS), Auto de
+- **Roteiro IRARA, linha 1030** {#roteiro_irara_lin1030} Infração Ambiental (AIA) com o “termo de embargo” emitido ou regularizado mediante termo de
+- **Roteiro IRARA, linha 1031** {#roteiro_irara_lin1031} compromisso de reparação do dano causado, ou o projeto de recuperação de áreas degradadas
+- **Roteiro IRARA, linha 1032** {#roteiro_irara_lin1032} (PRAD) ou Boletim de Ocorrência Policial registrado, denunciando a ocorrência de dano
+- **Roteiro IRARA, linha 1033** {#roteiro_irara_lin1033} ambiental realizado em área de sua propriedade, cometida por terceiros, identificados ou não. Na
+- **Roteiro IRARA, linha 1034** {#roteiro_irara_lin1034} presente análise, observou-se que o proprietário/possuidor encaminhou o AIA, mas não
+- **Roteiro IRARA, linha 1035** {#roteiro_irara_lin1035} apresentou oTermo de Compromisso ou o PRAD. Apresente esclarecimentos sobre as
+- **Roteiro IRARA, linha 1036** {#roteiro_irara_lin1036} informações Declaradas e/ou retifique seu cadastro, encaminhando os documentos solicitados
+- **Roteiro IRARA, linha 1037** {#roteiro_irara_lin1037} (TC ouoPRAD)”.
+- **Roteiro IRARA, linha 1038** {#roteiro_irara_lin1038} Solicitação de documentos: Selecionar a opção Termo de Compromisso (TC) e o
+- **Roteiro IRARA, linha 1039** {#roteiro_irara_lin1039} Projeto de Recuperação de Áreas Degradadas(PRAD).
+- **Roteiro IRARA, linha 1040** {#roteiro_irara_lin1040} Em “protocoloDATA”, o técnico deverá inserir o número do protocolo da notificação a
+- **Roteiro IRARA, linha 1041** {#roteiro_irara_lin1041} que a inconsistência se refere.
+- **Roteiro IRARA, linha 1042** {#roteiro_irara_lin1042} Situação 07: Caso o técnico verifique, na retificação do cadastro, que o imóvel possui plano de
+- **Roteiro IRARA, linha 1043** {#roteiro_irara_lin1043} manejo florestal localizado em área de remanescente de vegetação nativa, não necessitará
+- **Roteiro IRARA, linha 1044** {#roteiro_irara_lin1044} inserir nenhuma inconsistência. No entanto, deverá ficar atento se essa área foi declarada como
+- **Roteiro IRARA, linha 1045** {#roteiro_irara_lin1045} reserva legal, vide item 4.7.2.
+
+### 4.4.3 Aba Análise da Cobertura da Área Consolidada vetorizada pelo Cadastrante
+
+- **Roteiro IRARA, linha 1047** {#roteiro_irara_lin1047} Conforme o art. 3º, inc. IV, da Lei nº 12.651/2012, entende-se por área rural
+- **Roteiro IRARA, linha 1048** {#roteiro_irara_lin1048} consolidada do imóvel rural, a área com ocupação antrópica preexistentea 22/07/2008, com
+- **Roteiro IRARA, linha 1049** {#roteiro_irara_lin1049} edificações, benfeitorias ou atividades agrossilvipastoris, admitida, neste último caso,a adoção
+- **Roteiro IRARA, linha 1050** {#roteiro_irara_lin1050} do regime de pousio.
+- **Roteiro IRARA, linha 1051** {#roteiro_irara_lin1051} O
+- **Roteiro IRARA, linha 1052** {#roteiro_irara_lin1052} técnico
+- **Roteiro IRARA, linha 1053** {#roteiro_irara_lin1053} deverá
+- **Roteiro IRARA, linha 1054** {#roteiro_irara_lin1054} utilizar
+- **Roteiro IRARA, linha 1055** {#roteiro_irara_lin1055} o
+- **Roteiro IRARA, linha 1056** {#roteiro_irara_lin1056} banco
+- **Roteiro IRARA, linha 1057** {#roteiro_irara_lin1057} de
+- **Roteiro IRARA, linha 1058** {#roteiro_irara_lin1058} dados
+- **Roteiro IRARA, linha 1059** {#roteiro_irara_lin1059} disponível
+- **Roteiro IRARA, linha 1060** {#roteiro_irara_lin1060} no
+- **Roteiro IRARA, linha 1061** {#roteiro_irara_lin1061} endereço
+- **Roteiro IRARA, linha 1062** {#roteiro_irara_lin1062} http://simepar.br/geosicarpr/ (GeoSICAR) e verificar se há divergências nas áreas consolidadas
+- **Roteiro IRARA, linha 1063** {#roteiro_irara_lin1063} (AC) vetorizadas pelo cadastrante. O técnico também poderá utilizar o Google Earth e as
+- **Roteiro IRARA, linha 1064** {#roteiro_irara_lin1064} plataformas do MAP BIOMAS e BRASIL MAIS, observando a análise temporal do imóvel em
+- **Roteiro IRARA, linha 1065** {#roteiro_irara_lin1065} análise, principalmente para identificar possíveis desmatamentos ocorridos após 22/07/2008.
+- **Roteiro IRARA, linha 1066** {#roteiro_irara_lin1066} Figura 16. GeoSICAR
+- **Roteiro IRARA, linha 1067** {#roteiro_irara_lin1067} Para auxiliar o proprietário/possuidor no atendimento da notificação, o técnico poderá
+- **Roteiro IRARA, linha 1068** {#roteiro_irara_lin1068} adicionar marcadores/polígonos sempre que necessário, a fim de indicar a localização das
+- **Roteiro IRARA, linha 1069** {#roteiro_irara_lin1069} áreas em que foram identificadas divergências nas classes de cobertura do solo vetorizadas
+- **Roteiro IRARA, linha 1070** {#roteiro_irara_lin1070} pelo cadastrante.
+- **Roteiro IRARA, linha 1071** {#roteiro_irara_lin1071} O técnico deverá considerar as seguintes situações na análise das áreas
+- **Roteiro IRARA, linha 1072** {#roteiro_irara_lin1072} consolidadas:
+- **Roteiro IRARA, linha 1073** {#roteiro_irara_lin1073} Situação 01: Caso o técnico verifique que aclassificação realizada pelo INCRA está correta,
+- **Roteiro IRARA, linha 1074** {#roteiro_irara_lin1074} mas o sistema inseriu uma inconsistência automática, deverá desconsiderar essa
+- **Roteiro IRARA, linha 1075** {#roteiro_irara_lin1075} inconsistência.
+- **Roteiro IRARA, linha 1076** {#roteiro_irara_lin1076} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1077** {#roteiro_irara_lin1077} abrirá e o técnico deverá clicar em “Desconsiderar Inconsistência”.
+- **Roteiro IRARA, linha 1078** {#roteiro_irara_lin1078} Justificativa: “Observou-se que a área consolidada foi vetorizada corretamente pelo
+- **Roteiro IRARA, linha 1079** {#roteiro_irara_lin1079} proprietário/possuidor. As divergências detectadas em relação à classificação automática do
+- **Roteiro IRARA, linha 1080** {#roteiro_irara_lin1080} CAR não condizem com a realidade do imóvel rural e, portanto, a inconsistência automática foi
+- **Roteiro IRARA, linha 1081** {#roteiro_irara_lin1081} desconsiderada.”
+- **Roteiro IRARA, linha 1082** {#roteiro_irara_lin1082} Figura 17. Desconsiderar a inconsistência inserida automaticamente pelo sistema
+- **Roteiro IRARA, linha 1083** {#roteiro_irara_lin1083} Situação 02: Caso o técnico identifique, na declaração de área consolidada realizada pelo
+- **Roteiro IRARA, linha 1084** {#roteiro_irara_lin1084} INCRA, áreas de Remanescente de Vegetação Nativa deverá adicionar/manter uma
+- **Roteiro IRARA, linha 1085** {#roteiro_irara_lin1085} inconsistência.
+- **Roteiro IRARA, linha 1086** {#roteiro_irara_lin1086} Procedimento: Iniciara a nálise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1087** {#roteiro_irara_lin1087} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1088** {#roteiro_irara_lin1088} Adicionar observação: “Há indícios de áreas de Remanescente de Vegetação Nativa (RVN)
+- **Roteiro IRARA, linha 1089** {#roteiro_irara_lin1089} declaradas como área consolidada (AC) dentro do imóvel rural. Conforme o art. 3º, inciso IV, da
+- **Roteiro IRARA, linha 1090** {#roteiro_irara_lin1090} Lei nº 12.651/2012, entende-se por área rural consolidada do imóvel rural a área com ocupação
+- **Roteiro IRARA, linha 1091** {#roteiro_irara_lin1091} antrópica
+- **Roteiro IRARA, linha 1092** {#roteiro_irara_lin1092} preexistente
+- **Roteiro IRARA, linha 1093** {#roteiro_irara_lin1093} a
+- **Roteiro IRARA, linha 1094** {#roteiro_irara_lin1094} 22/07/2008,
+- **Roteiro IRARA, linha 1095** {#roteiro_irara_lin1095} com
+- **Roteiro IRARA, linha 1096** {#roteiro_irara_lin1096} edificações,
+- **Roteiro IRARA, linha 1097** {#roteiro_irara_lin1097} benfeitorias
+- **Roteiro IRARA, linha 1098** {#roteiro_irara_lin1098} ou
+- **Roteiro IRARA, linha 1099** {#roteiro_irara_lin1099} atividades
+- **Roteiro IRARA, linha 1100** {#roteiro_irara_lin1100} agrossilvipastoris, admitida, neste último caso, a adoção do regime de pousio. Retifique seu
+- **Roteiro IRARA, linha 1101** {#roteiro_irara_lin1101} cadastro vetorizando corretamente as áreas de Remanescente de Vegetação Nativa conforme
+- **Roteiro IRARA, linha 1102** {#roteiro_irara_lin1102} a situação atual do imóvel, e/ou apresente esclarecimentos sobre as informações declaradas.”
+- **Roteiro IRARA, linha 1103** {#roteiro_irara_lin1103} Figura 18. Exemplo de análise de RVN em AC
+- **Roteiro IRARA, linha 1104** {#roteiro_irara_lin1104} Situação 03: Caso o técnico identifique, na declaração de área consolidada realizada pelo
+- **Roteiro IRARA, linha 1105** {#roteiro_irara_lin1105} INCRA, que houve supressão da vegetação nativa após 22/07/2008, deverá adicionar/manter os
+- **Roteiro IRARA, linha 1106** {#roteiro_irara_lin1106} polígonos marcados sobre estas áreas, visto que a área deverá ser classificada como “Área
+- **Roteiro IRARA, linha 1107** {#roteiro_irara_lin1107} Antropizada não Consolidada”.
+- **Roteiro IRARA, linha 1108** {#roteiro_irara_lin1108} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1109** {#roteiro_irara_lin1109} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1110** {#roteiro_irara_lin1110} Adicionar observação: “Constatou-se que a área vetorizada como Área Consolidada, nas
+- **Roteiro IRARA, linha 1111** {#roteiro_irara_lin1111} coordenadas informadas, possui indícios de supressão após 22/07/2008. Conforme o art.3º, da
+- **Roteiro IRARA, linha 1112** {#roteiro_irara_lin1112} Instrução Normativa nº02/2014, do Ministériodo Meio Ambiente, as áreas de vegetação nativa
+- **Roteiro IRARA, linha 1113** {#roteiro_irara_lin1113} existentes após 22/07/2008 não perderão esta classificação nos casos de incêndio,
+- **Roteiro IRARA, linha 1114** {#roteiro_irara_lin1114} desmatamento ou qualquer outro tipo de intervenção não autorizada ou licenciada. Apresente a
+- **Roteiro IRARA, linha 1115** {#roteiro_irara_lin1115} documentação comprobatória referente à Autorização de supressão da vegetação (ASV) ou
+- **Roteiro IRARA, linha 1116** {#roteiro_irara_lin1116} Autorização de uso alternativo do solo (AUAS), Auto de Infração Ambiental (AIA) com o “termo
+- **Roteiro IRARA, linha 1117** {#roteiro_irara_lin1117} de embargo” emitido ou regularizado mediante termo de compromisso de reparação do dano
+- **Roteiro IRARA, linha 1118** {#roteiro_irara_lin1118} causado, ou o projeto de recuperação de áreas degradadas (PRAD) ou Boletim de Ocorrência
+- **Roteiro IRARA, linha 1119** {#roteiro_irara_lin1119} Policial registrado, denunciando a ocorrência de dano ambiental realizado em área de sua
+- **Roteiro IRARA, linha 1120** {#roteiro_irara_lin1120} propriedade, cometida por terceiros, identificados ou não; e/ou retifique seu cadastro corrigindo
+- **Roteiro IRARA, linha 1121** {#roteiro_irara_lin1121} as informações conforme a situação atual do imóvel.
+- **Roteiro IRARA, linha 1122** {#roteiro_irara_lin1122} Atenção: Para adicionar uma área classificada como Área Antropizada Não Consolidada (AA),
+- **Roteiro IRARA, linha 1123** {#roteiro_irara_lin1123} nenhuma feição deverá ser preenchida sobre a imagem. Desta forma, o sistema entenderá que
+- **Roteiro IRARA, linha 1124** {#roteiro_irara_lin1124} se trata de uma AA.”
+- **Roteiro IRARA, linha 1125** {#roteiro_irara_lin1125} Solicitação de documentos: Selecionar as opções Autorização de supressão da vegetação
+- **Roteiro IRARA, linha 1126** {#roteiro_irara_lin1126} (ASV) ou Autorização de uso alternativo do solo (AUAS), Auto de Infração Ambiental (AIA), ou
+- **Roteiro IRARA, linha 1127** {#roteiro_irara_lin1127} Boletim de Ocorrência policial registrada, termo de compromisso ou PRAD.
+- **Roteiro IRARA, linha 1128** {#roteiro_irara_lin1128} Figura 19. ÁreaAntropizadaNãoConsolidadadeclaradacomoÁreaConsolidada
+- **Roteiro IRARA, linha 1129** {#roteiro_irara_lin1129} Situação 04: Caso o técnico tenha indicado, na primeira análise, que o imóvel possui área
+- **Roteiro IRARA, linha 1130** {#roteiro_irara_lin1130} antropizada não consolidada, solicitando os respectivos documentos, mas o INCRA não os
+- **Roteiro IRARA, linha 1131** {#roteiro_irara_lin1131} apresentou, não declarou a AA e também não contestou o parecer anterior, deverá manter a
+- **Roteiro IRARA, linha 1132** {#roteiro_irara_lin1132} inconsistência.
+- **Roteiro IRARA, linha 1133** {#roteiro_irara_lin1133} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1134** {#roteiro_irara_lin1134} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1135** {#roteiro_irara_lin1135} Adicionar observação: “Constatou-se que a área vetorizada como Área Consolidada, nas
+- **Roteiro IRARA, linha 1136** {#roteiro_irara_lin1136} coordenadas informadas, possui indícios de supressão após 22/07/2008. Conforme o art.3°, da
+- **Roteiro IRARA, linha 1137** {#roteiro_irara_lin1137} Instrução Normativa n°02/2014, do Ministério do Meio Ambiente, os Remanescentes de
+- **Roteiro IRARA, linha 1138** {#roteiro_irara_lin1138} Vegetação Nativa existentes após 22/07/2008 não perderão esta classificação nos casos de
+- **Roteiro IRARA, linha 1139** {#roteiro_irara_lin1139} incêndio, desmatamento ou qualquer outro tipo de intervenção não autorizada ou não licenciada.
+- **Roteiro IRARA, linha 1140** {#roteiro_irara_lin1140} No parecer (protocoloDATA) solicitaram-se os documentos referentes à Autorização de
+- **Roteiro IRARA, linha 1141** {#roteiro_irara_lin1141} supressão da vegetação (ASV) ou Autorização de uso alternativo do solo (AUAS), Auto de
+- **Roteiro IRARA, linha 1142** {#roteiro_irara_lin1142} Infração Ambiental (AIA) com o “termo de embargo” emitido ou regularizado mediante termo de
+- **Roteiro IRARA, linha 1143** {#roteiro_irara_lin1143} compromisso de reparação do dano causado, ou o projeto de recuperação de áreas degradadas
+- **Roteiro IRARA, linha 1144** {#roteiro_irara_lin1144} (PRAD) ou Boletim de Ocorrência Policial registrado, denunciando a ocorrência de dano
+- **Roteiro IRARA, linha 1145** {#roteiro_irara_lin1145} ambiental realizado em área de sua propriedade, cometida por terceiros, identificados ou não.
+- **Roteiro IRARA, linha 1146** {#roteiro_irara_lin1146} Na presente análise, o proprietário/cadastrante justificou que o imóvel não possui tais
+- **Roteiro IRARA, linha 1147** {#roteiro_irara_lin1147} documentos. Retifique seu cadastro vetorizando corretamente a aba de cobertura do solo
+- **Roteiro IRARA, linha 1148** {#roteiro_irara_lin1148} indicando a área de Remanescente de Vegetação Nativa, área consolidada e área de pousio.
+- **Roteiro IRARA, linha 1149** {#roteiro_irara_lin1149} Nenhuma feição deve ser vetorizada sobre as áreas classificadas como Áreas Antropizadas Não
+- **Roteiro IRARA, linha 1150** {#roteiro_irara_lin1150} Consolidadas indicadas nesse parecer ou no anterior.”
+- **Roteiro IRARA, linha 1151** {#roteiro_irara_lin1151} Situação 05: Caso o INCRA conteste a área antropizada indicada no parecer técnico e não
+- **Roteiro IRARA, linha 1152** {#roteiro_irara_lin1152} retifique o cadastro, o técnico deverá solicitar o laudotécnico. Para dar prosseguimento na
+- **Roteiro IRARA, linha 1153** {#roteiro_irara_lin1153} análise, tal laudo deverá ser objeto de análise pelo GO. Assim, o técnico deverá seguir os
+- **Roteiro IRARA, linha 1154** {#roteiro_irara_lin1154} seguintes passos:
+- **Roteiro IRARA, linha 1155** {#roteiro_irara_lin1155} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1156** {#roteiro_irara_lin1156} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1157** {#roteiro_irara_lin1157} Adicionar observação: “No parecer (protocolo DATA) apontaram-se indícios de supressão de
+- **Roteiro IRARA, linha 1158** {#roteiro_irara_lin1158} vegetação nativa ocorridos após 22/07/2008 e solicitaram-se os documentos referentes à
+- **Roteiro IRARA, linha 1159** {#roteiro_irara_lin1159} Autorização de supressão da vegetação (ASV) ou Autorização de uso alternativo do solo (AUAS),
+- **Roteiro IRARA, linha 1160** {#roteiro_irara_lin1160} Auto de Infração Ambiental (AIA) como “termo de embargo” emitido ou regularizado mediante
+- **Roteiro IRARA, linha 1161** {#roteiro_irara_lin1161} termo de compromisso de recuperação do dano causado, ou o projeto de recuperação de áreas
+- **Roteiro IRARA, linha 1162** {#roteiro_irara_lin1162} degradadas (PRAD) ou Boletim de Ocorrência Policial registrado, denunciando a ocorrência de
+- **Roteiro IRARA, linha 1163** {#roteiro_irara_lin1163} dano ambiental realizado em área de sua propriedade, cometida por terceiros, identificados ou
+- **Roteiro IRARA, linha 1164** {#roteiro_irara_lin1164} não. Na presente análise, o proprietário/possuidor justificou que não ocorreu o desmate da área
+- **Roteiro IRARA, linha 1165** {#roteiro_irara_lin1165} após o
+- **Roteiro IRARA, linha 1166** {#roteiro_irara_lin1166} marco temporal. Solicita-se o laudo técnico de caracterização ambiental da área, com a inserção
+- **Roteiro IRARA, linha 1167** {#roteiro_irara_lin1167} de imagens de satélite temporais (2008, 2012 e do ano atual), assinado por profissional
+- **Roteiro IRARA, linha 1168** {#roteiro_irara_lin1168} competente e a respectiva ART, para fins de validação da área. O modelo do laudo técnico pode
+- **Roteiro IRARA, linha 1169** {#roteiro_irara_lin1169} ser obtido no site do IAT ((http://www.iat.pr.gov.br/Pagina/Cadastro-Ambiental-Rural-CAR –
+- **Roteiro IRARA, linha 1170** {#roteiro_irara_lin1170} Pasta “Documentos” – “Modelo de LaudoTécnicoSICAR).”
+- **Roteiro IRARA, linha 1171** {#roteiro_irara_lin1171} Solicitação de documentos: Selecionar a opção Laudo Técnico.
+- **Roteiro IRARA, linha 1172** {#roteiro_irara_lin1172} Em “protocoloDATA”, o técnico deverá inserir o número do protocolo da notificação a que a
+- **Roteiro IRARA, linha 1173** {#roteiro_irara_lin1173} inconsistência se refere.
+- **Roteiro IRARA, linha 1174** {#roteiro_irara_lin1174} Situação 06: Caso o técnico tenha solicitado, em análises anteriores, o Auto de Infração
+- **Roteiro IRARA, linha 1175** {#roteiro_irara_lin1175} Ambiental (AIA), com o termo de embargo emitido ou regularizado mediante termo de
+- **Roteiro IRARA, linha 1176** {#roteiro_irara_lin1176} compromisso de reparação do dano causado ou o projeto de recuperação de áreas degradadas
+- **Roteiro IRARA, linha 1177** {#roteiro_irara_lin1177} (PRAD) e o INCRA tenha encaminhado apenas o AIA, sem enviar o Termo de Compromisso ou
+- **Roteiro IRARA, linha 1178** {#roteiro_irara_lin1178} o PRAD, o técnico deverá adicionar uma nova inconsistência.
+- **Roteiro IRARA, linha 1179** {#roteiro_irara_lin1179} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1180** {#roteiro_irara_lin1180} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1181** {#roteiro_irara_lin1181} Adicionar observação: “Constatou-se que a área vetorizada como Área Consolidada, nas
+- **Roteiro IRARA, linha 1182** {#roteiro_irara_lin1182} coordenadas informadas, possui indícios de supressão após 22/07/2008. Conforme o art.3°, da
+- **Roteiro IRARA, linha 1183** {#roteiro_irara_lin1183} Instrução Normativa n° 02/2014, do Ministériodo Meio Ambiente, os Remanescentes de
+- **Roteiro IRARA, linha 1184** {#roteiro_irara_lin1184} Vegetação Nativa, existentes após 22/07/2008 não perderão esta classificação nos casos de
+- **Roteiro IRARA, linha 1185** {#roteiro_irara_lin1185} incêndio, desmatamento ou qualquer outro tipo de intervenção não autorizada ou não licenciada.
+- **Roteiro IRARA, linha 1186** {#roteiro_irara_lin1186} No parecer (protocoloDATA) solicitaram-se os documentos referentes à Autorização de
+- **Roteiro IRARA, linha 1187** {#roteiro_irara_lin1187} supressão da vegetação (ASV) ou Autorização de uso alternativo do solo (AUAS), Auto de
+- **Roteiro IRARA, linha 1188** {#roteiro_irara_lin1188} Infração Ambiental (AIA) com o “termo de embargo” emitido ou regularizado mediante termo de
+- **Roteiro IRARA, linha 1189** {#roteiro_irara_lin1189} compromisso de reparação do dano causado, ou o projeto de recuperação de áreas degradadas
+- **Roteiro IRARA, linha 1190** {#roteiro_irara_lin1190} (PRAD) ou Boletim de Ocorrência Policial registrado, denunciando a ocorrência
+- **Roteiro IRARA, linha 1191** {#roteiro_irara_lin1191} de dano ambiental realizado em área de sua propriedade, cometida por terceiros, identificados
+- **Roteiro IRARA, linha 1192** {#roteiro_irara_lin1192} ou não. Na presente análise, observou-se que o proprietário/possuidor encaminhou o AIA, mas
+- **Roteiro IRARA, linha 1193** {#roteiro_irara_lin1193} não apresentou o Termo de Compromisso ou o PRAD. Apresente esclarecimentos sobre as
+- **Roteiro IRARA, linha 1194** {#roteiro_irara_lin1194} informações declaradas e/ou retifique seu cadastro, encaminhando os documentos solicitados
+- **Roteiro IRARA, linha 1195** {#roteiro_irara_lin1195} (TC ou o PRAD)”.
+- **Roteiro IRARA, linha 1196** {#roteiro_irara_lin1196} Solicitação de documentos: Selecionar a opção Termo de Compromisso (TC) e o
+- **Roteiro IRARA, linha 1197** {#roteiro_irara_lin1197} Projeto de Recuperação de Áreas Degradadas (PRAD).
+- **Roteiro IRARA, linha 1198** {#roteiro_irara_lin1198} Em “protocoloDATA”, o técnico deverá inserir o número do protocolo da notificação a que a
+- **Roteiro IRARA, linha 1199** {#roteiro_irara_lin1199} inconsistência se refere.
+- **Roteiro IRARA, linha 1200** {#roteiro_irara_lin1200} Situação 07: Caso o técnico identifique que houve supressão da vegetação nativa anterior a
+- **Roteiro IRARA, linha 1201** {#roteiro_irara_lin1201} 22/07/2008, mas que houve abandono da área por um período superior a 03 anos (sem atividade
+- **Roteiro IRARA, linha 1202** {#roteiro_irara_lin1202} na referida área), deverá adicionar/manter os polígonos marcados sobre estas áreas, visto que
+- **Roteiro IRARA, linha 1203** {#roteiro_irara_lin1203} essa área deverá ser classificada como RVN. O Decreto nº 7.830/2012, incisoVII, define área
+- **Roteiro IRARA, linha 1204** {#roteiro_irara_lin1204} abandonada como o “espaço de produção convertido para uso alternativo do solo sem nenhuma
+- **Roteiro IRARA, linha 1205** {#roteiro_irara_lin1205} exploração produtiva há pelo menos trinta e seis meses e não formalmente caracterizado como
+- **Roteiro IRARA, linha 1206** {#roteiro_irara_lin1206} área de pousio.”
+- **Roteiro IRARA, linha 1207** {#roteiro_irara_lin1207} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1208** {#roteiro_irara_lin1208} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1209** {#roteiro_irara_lin1209} Adicionar observação: “Constatou-se que a área vetorizada como Área Consolidada, nas
+- **Roteiro IRARA, linha 1210** {#roteiro_irara_lin1210} coordenadas informadas, possui indícios de abandono. Conforme o inciso VII, do Decreto
+- **Roteiro IRARA, linha 1211** {#roteiro_irara_lin1211} n°7830/2012, entende-se por área abandonada o espaço de produção convertido para o uso
+- **Roteiro IRARA, linha 1212** {#roteiro_irara_lin1212} alternativo do solo sem nenhuma exploração produtiva há pelo menos trinta e seis meses e não
+- **Roteiro IRARA, linha 1213** {#roteiro_irara_lin1213} formalmente caracterizado como área de pousio. Como a área apresenta estágio inicial de
+- **Roteiro IRARA, linha 1214** {#roteiro_irara_lin1214} regeneração, esta deve ser vetorizada como Remanescente de Vegetação Nativa (RVN).
+- **Roteiro IRARA, linha 1215** {#roteiro_irara_lin1215} Retifique seu cadastro vetorizando corretamente as áreas de RVN, conforme a situação atual do
+- **Roteiro IRARA, linha 1216** {#roteiro_irara_lin1216} imóvel, e/ou apresente esclarecimentos sobre as informações declaradas.”
+- **Roteiro IRARA, linha 1217** {#roteiro_irara_lin1217} Situação 08: O técnico deverá ficar atento às áreas que possuem Bracatingais. Essas áreas,
+- **Roteiro IRARA, linha 1218** {#roteiro_irara_lin1218} quando anteriores a 22/07/2008, devem ser classificadas como áreas consolidadas. No entanto,
+- **Roteiro IRARA, linha 1219** {#roteiro_irara_lin1219} caso o técnico constate que o bracatingal é anterior a 22/07/2008 e houve a conversão destas
+- **Roteiro IRARA, linha 1220** {#roteiro_irara_lin1220} áreas para outros usos do solo entre os anos de 2011 e 2012, deverá adicionar/manter os
+- **Roteiro IRARA, linha 1221** {#roteiro_irara_lin1221} polígonos marcados sobre estas áreas.
+- **Roteiro IRARA, linha 1222** {#roteiro_irara_lin1222} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1223** {#roteiro_irara_lin1223} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1224** {#roteiro_irara_lin1224} Adicionar observação: “Constatou-se a conversão para outro tipo de uso do solo em áreas de
+- **Roteiro IRARA, linha 1225** {#roteiro_irara_lin1225} Bracatingais, no imóvel rural. Conforme Resolução Conjunta SEMA/IBAMA/IAP nº 001/2007 e
+- **Roteiro IRARA, linha 1226** {#roteiro_irara_lin1226} Portaria IAP nº 198/2017, área com bracatingal puro não poderá ser convertida, exceto em caso
+- **Roteiro IRARA, linha 1227** {#roteiro_irara_lin1227} previsto na legislação específica, devendo ser mantida na mesma área do imóvel de forma a
+- **Roteiro IRARA, linha 1228** {#roteiro_irara_lin1228} garantir a perpetuidade da espécie, ou seja, quando o povoamento atingir a idade ideal é feito o
+- **Roteiro IRARA, linha 1229** {#roteiro_irara_lin1229} corte e, em seguida a mesma área é conduzida para a regeneração e produção para um novo
+- **Roteiro IRARA, linha 1230** {#roteiro_irara_lin1230} ciclo da espécie. Apresente esclarecimentos e documentação comprobatória sobre as
+- **Roteiro IRARA, linha 1231** {#roteiro_irara_lin1231} conversões no uso do solo identificadas.”
+- **Roteiro IRARA, linha 1232** {#roteiro_irara_lin1232} Solicitação de documentos: Selecionar as opções Autorização de supressão da vegetação
+- **Roteiro IRARA, linha 1233** {#roteiro_irara_lin1233} (ASV) ou Autorização de uso alternativo do solo (AUAS), Auto de Infração Ambiental (AIA) ou
+- **Roteiro IRARA, linha 1234** {#roteiro_irara_lin1234} Boletim de Ocorrência policial registrado.
+- **Roteiro IRARA, linha 1235** {#roteiro_irara_lin1235} Para mais detalhes sobre a análise de bracatingais, consultar o ANEXO I –
+- **Roteiro IRARA, linha 1236** {#roteiro_irara_lin1236} BRACATINGAL (Mimosa scabrella).
+- **Roteiro IRARA, linha 1237** {#roteiro_irara_lin1237} Situação 09: Caso o técnico verifique, na retificação do cadastro, que o imóvel possui plano de
+- **Roteiro IRARA, linha 1238** {#roteiro_irara_lin1238} manejo florestal localizado em área consolidada, deverá adicionar/manter uma inconsistência.
+- **Roteiro IRARA, linha 1239** {#roteiro_irara_lin1239} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1240** {#roteiro_irara_lin1240} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1241** {#roteiro_irara_lin1241} Adicionar observação: “Constatou-se que o imóvel em análise possui plano de manejo florestal
+- **Roteiro IRARA, linha 1242** {#roteiro_irara_lin1242} localizado em área consolidada. Regularize a situação junto ao IBAMA, apresente o Termo de
+- **Roteiro IRARA, linha 1243** {#roteiro_irara_lin1243} Ajustamento de Conduta ou outro documento que certifique que a situação está regular”.
+- **Roteiro IRARA, linha 1244** {#roteiro_irara_lin1244} Solicitação de documentos: Selecionar a opção Termo de Ajustamento de Conduta.
+
+### 4.4.4 Aba Análise da Área de Pousio vetorizada pelo cadastrante
+
+- **Roteiro IRARA, linha 1246** {#roteiro_irara_lin1246} Conforme o art. 2°, § XXIV, da Lei n° 12.651/2012, o pousio pode ser definido como a
+- **Roteiro IRARA, linha 1247** {#roteiro_irara_lin1247} prática de interrupção temporária de atividades ou usos agrícolas, pecuárias ou silviculturais, por
+- **Roteiro IRARA, linha 1248** {#roteiro_irara_lin1248} no máximo 5 (cinco) anos, para possibilitar a recuperação da capacidade de uso ou da estrutura
+- **Roteiro IRARA, linha 1249** {#roteiro_irara_lin1249} física do solo.
+- **Roteiro IRARA, linha 1250** {#roteiro_irara_lin1250} O
+- **Roteiro IRARA, linha 1251** {#roteiro_irara_lin1251} técnico
+- **Roteiro IRARA, linha 1252** {#roteiro_irara_lin1252} deverá
+- **Roteiro IRARA, linha 1253** {#roteiro_irara_lin1253} utilizar
+- **Roteiro IRARA, linha 1254** {#roteiro_irara_lin1254} o
+- **Roteiro IRARA, linha 1255** {#roteiro_irara_lin1255} banco
+- **Roteiro IRARA, linha 1256** {#roteiro_irara_lin1256} de
+- **Roteiro IRARA, linha 1257** {#roteiro_irara_lin1257} dados
+- **Roteiro IRARA, linha 1258** {#roteiro_irara_lin1258} disponível
+- **Roteiro IRARA, linha 1259** {#roteiro_irara_lin1259} no
+- **Roteiro IRARA, linha 1260** {#roteiro_irara_lin1260} endereço
+- **Roteiro IRARA, linha 1261** {#roteiro_irara_lin1261} http://simepar.br/geosicarpr/ (GeoSICAR) e as plataformas do MAP BIOMAS, BRASIL MAIS e
+- **Roteiro IRARA, linha 1262** {#roteiro_irara_lin1262} verificar se há divergências nas áreas de pousio vetorizadas pelo cadastrante. O técnico
+- **Roteiro IRARA, linha 1263** {#roteiro_irara_lin1263} também poderá utilizar o Google Earth, observando a análise temporal do imóvel em análise,
+- **Roteiro IRARA, linha 1264** {#roteiro_irara_lin1264} principalmente para identificar possíveis desmatamentos ocorridos após 22/07/2008.
+- **Roteiro IRARA, linha 1265** {#roteiro_irara_lin1265} Para auxiliar o INCRA no atendimento da notificação, o técnico poderá adicionar
+- **Roteiro IRARA, linha 1266** {#roteiro_irara_lin1266} marcadores/polígonos sempre que necessário, a fim de indicar a localização das áreas em que
+- **Roteiro IRARA, linha 1267** {#roteiro_irara_lin1267} foram identificadas divergências nas classes de cobertura do solo vetorizadas pelo cadastrante.
+- **Roteiro IRARA, linha 1268** {#roteiro_irara_lin1268} O técnico deverá considerar as seguintes situações na análise das áreas de pousio:
+- **Roteiro IRARA, linha 1269** {#roteiro_irara_lin1269} Situação 01: Caso o técnico identifique que o período de interrupção das atividades ou usos
+- **Roteiro IRARA, linha 1270** {#roteiro_irara_lin1270} agrícolas ultrapassou 05 anos e a área possui características de Remanescente de Vegetação
+- **Roteiro IRARA, linha 1271** {#roteiro_irara_lin1271} Nativa em regeneração, deverá adicionar/manter os polígonos marcados sobre estas áreas.
+- **Roteiro IRARA, linha 1272** {#roteiro_irara_lin1272} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1273** {#roteiro_irara_lin1273} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1274** {#roteiro_irara_lin1274} Adicionar observação: “Constatou-se que a área vetorizada como Pousio, nas coordenadas
+- **Roteiro IRARA, linha 1275** {#roteiro_irara_lin1275} informadas, possui indícios de interrupção das atividades e usos agrícolas por período superior
+- **Roteiro IRARA, linha 1276** {#roteiro_irara_lin1276} a 05 anos, apresentando características de estágio inicial de regeneração e, portanto, deve ser
+- **Roteiro IRARA, linha 1277** {#roteiro_irara_lin1277} vetorizado como Remanescente de Vegetação Nativa (RVN). Retifique seu cadastro corrigindo
+- **Roteiro IRARA, linha 1278** {#roteiro_irara_lin1278} a cobertura do solo, conforme a situação atual do imóvel, e/ou apresente esclarecimentos sobre
+- **Roteiro IRARA, linha 1279** {#roteiro_irara_lin1279} as informações declaradas.”
+- **Roteiro IRARA, linha 1280** {#roteiro_irara_lin1280} Solicitação de documentos: Selecionar as opções Projeto Técnico de Pousio e DAP para
+- **Roteiro IRARA, linha 1281** {#roteiro_irara_lin1281} agricultor familiar e matendimento ao art.55, da Lei nº 12.651/2012 3.
+- **Roteiro IRARA, linha 1282** {#roteiro_irara_lin1282} Situação 02: Caso o técnico observe que a área declarada como Pousio consiste, na realidade,
+- **Roteiro IRARA, linha 1283** {#roteiro_irara_lin1283} em Remanescente de Vegetação Nativa, deverá adicionar/manter os polígonos marcados
+- **Roteiro IRARA, linha 1284** {#roteiro_irara_lin1284} sobre estas áreas.
+- **Roteiro IRARA, linha 1285** {#roteiro_irara_lin1285} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1286** {#roteiro_irara_lin1286} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1287** {#roteiro_irara_lin1287} Adicionar observação: “Constatou-se que a área declarada como Pousio, nas coordenadas
+- **Roteiro IRARA, linha 1288** {#roteiro_irara_lin1288} informadas, consiste, na realidade, em Remanescente de Vegetação Nativa. Conforme previsto
+- **Roteiro IRARA, linha 1289** {#roteiro_irara_lin1289} no art.19, da Instrução Normativa n° 02/2014, do Ministério do Meio Ambiente, a localização e a
+- **Roteiro IRARA, linha 1290** {#roteiro_irara_lin1290} delimitação sobre imagens georreferenciadas de áreas de Remanescentes de Vegetação Nativa
+- **Roteiro IRARA, linha 1291** {#roteiro_irara_lin1291} deverão ser indicadas sobre toda a área do imóvel rural. Apresente esclarecimentos sobre as
+- **Roteiro IRARA, linha 1292** {#roteiro_irara_lin1292} informações declaradas e/ou retifique seu cadastro vetorizando corretamente, na aba “Cobertura
+- **Roteiro IRARA, linha 1293** {#roteiro_irara_lin1293} do Solo”, toda a área de Remanescente de Vegetação Nativa existente no imóvel rural,inclusive
+- **Roteiro IRARA, linha 1294** {#roteiro_irara_lin1294} àquelas sobrepostas as Áreas de Preservação Permanente, Áreas de uso restrito e/ou Áreas de
+- **Roteiro IRARA, linha 1295** {#roteiro_irara_lin1295} Reserva Legal.”
+- **Roteiro IRARA, linha 1296** {#roteiro_irara_lin1296} Solicitação de documentos: Selecionar a opção “Projeto Técnico de Pousio.”
+- **Roteiro IRARA, linha 1297** {#roteiro_irara_lin1297} Art. 55. A inscrição no CAR dos imóveis a que se refere o inciso V do art. 3º observará procedimento simplificado
+- **Roteiro IRARA, linha 1298** {#roteiro_irara_lin1298} no qual será obrigatória apenas a apresentação dos documentos mencionados nos incisos IeII do §1º do art.29 e
+- **Roteiro IRARA, linha 1299** {#roteiro_irara_lin1299} de croqui indicando o perímetro do imóvel, as Áreas de Preservação Permanente e os remanescentes que formam
+- **Roteiro IRARA, linha 1300** {#roteiro_irara_lin1300} a Reserva Legal.
+- **Roteiro IRARA, linha 1301** {#roteiro_irara_lin1301} Figura 20. RVN declarada como Área de Pousio
+- **Roteiro IRARA, linha 1302** {#roteiro_irara_lin1302} Situação 03: Caso o técnico identifique que houve supressão da vegetação nativa após
+- **Roteiro IRARA, linha 1303** {#roteiro_irara_lin1303} 22/07/2008, deverá adicionar/manter os polígonos marcados sobre estas áreas, visto que essas
+- **Roteiro IRARA, linha 1304** {#roteiro_irara_lin1304} áreas devem ser classificadas como Áreas Antropizadas Não Consolidadas(AA).
+- **Roteiro IRARA, linha 1305** {#roteiro_irara_lin1305} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1306** {#roteiro_irara_lin1306} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1307** {#roteiro_irara_lin1307} Adicionar observação: “Observou-se que a área vetorizada como Pousio, nas coordenadas
+- **Roteiro IRARA, linha 1308** {#roteiro_irara_lin1308} informadas, possui indícios de supressão após 22/07/2008. Retifique seu cadastro corrigindo as
+- **Roteiro IRARA, linha 1309** {#roteiro_irara_lin1309} informações, conforme a situação atual do imóvel, apresente esclarecimentos sobre as áreas de
+- **Roteiro IRARA, linha 1310** {#roteiro_irara_lin1310} pousio declaradas e a documentação comprobatória referente à Autorização de supressão da
+- **Roteiro IRARA, linha 1311** {#roteiro_irara_lin1311} vegetação (ASV) ou Autorização de uso alternativo do solo (AUAS), Auto de Infração Ambiental
+- **Roteiro IRARA, linha 1312** {#roteiro_irara_lin1312} (AIA) com o “termo de embargo” emitido ou regularizado mediante termo de compromisso de
+- **Roteiro IRARA, linha 1313** {#roteiro_irara_lin1313} reparação do dano causado, ou o projeto de recuperação de áreas degradadas (PRAD) ou
+- **Roteiro IRARA, linha 1314** {#roteiro_irara_lin1314} Boletim de Ocorrência Policial registrado, denunciando a ocorrência de dano ambiental realizado
+- **Roteiro IRARA, linha 1315** {#roteiro_irara_lin1315} em área de sua propriedade, cometida por terceiros, identificados ou não”.
+- **Roteiro IRARA, linha 1316** {#roteiro_irara_lin1316} Solicitação de documentos: Selecionar as opções Projeto Técnico de Pousio, Autorização de
+- **Roteiro IRARA, linha 1317** {#roteiro_irara_lin1317} supressão da vegetação (ASV) ou Autorização de uso alternativo do solo (AUAS), Boletim de
+- **Roteiro IRARA, linha 1318** {#roteiro_irara_lin1318} Ocorrência policial ou Auto de Infração Ambiental, termo de compromisso ou PRAD. Além disso,
+- **Roteiro IRARA, linha 1319** {#roteiro_irara_lin1319} é possível solicitar o Laudo técnico.
+- **Roteiro IRARA, linha 1320** {#roteiro_irara_lin1320} Figura 21. Área Antropizada Não Consolidada declarada como Área de Pousio
+- **Roteiro IRARA, linha 1321** {#roteiro_irara_lin1321} Situação 04: Caso o INCRA conteste a área antropizada indicada no parecer técnico e não
+- **Roteiro IRARA, linha 1322** {#roteiro_irara_lin1322} retifique o cadastro, o técnico deverá solicitar o laudo técnico. Para dar prosseguimento na
+- **Roteiro IRARA, linha 1323** {#roteiro_irara_lin1323} análise, tal laudo deverá ser objeto de análise pelo GO. Assim, o técnico deverá seguir os
+- **Roteiro IRARA, linha 1324** {#roteiro_irara_lin1324} seguintes passos:
+- **Roteiro IRARA, linha 1325** {#roteiro_irara_lin1325} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1326** {#roteiro_irara_lin1326} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1327** {#roteiro_irara_lin1327} Adicionar observação: “No parecer (protocolo DATA) apontaram-se indícios de supressão de
+- **Roteiro IRARA, linha 1328** {#roteiro_irara_lin1328} vegetação nativa ocorridos após 22/07/2008 e solicitaram-se os documentos referentes à
+- **Roteiro IRARA, linha 1329** {#roteiro_irara_lin1329} Autorização de supressão da vegetação (ASV) ou Autorização de uso alternativo do solo (AUAS),
+- **Roteiro IRARA, linha 1330** {#roteiro_irara_lin1330} Auto de Infração Ambiental (AIA) como “termo de embargo” emitido ou regularizado mediante
+- **Roteiro IRARA, linha 1331** {#roteiro_irara_lin1331} termo de compromisso de reparação do dano causado, ou o projeto de recuperação de áreas
+- **Roteiro IRARA, linha 1332** {#roteiro_irara_lin1332} degradadas (PRAD) ou Boletim de Ocorrência Policial registrado, denunciando a ocorrência de
+- **Roteiro IRARA, linha 1333** {#roteiro_irara_lin1333} dano ambiental realizado em área de sua propriedade, cometida por terceiros, identificados ou
+- **Roteiro IRARA, linha 1334** {#roteiro_irara_lin1334} não. Na presente análise,o proprietário/possuidor justificou que não ocorreu o desmate da área
+- **Roteiro IRARA, linha 1335** {#roteiro_irara_lin1335} após o marco temporal. Solicita-se o laudo técnico de caracterização ambiental da área, com a
+- **Roteiro IRARA, linha 1336** {#roteiro_irara_lin1336} inserção de imagens de satélite temporais (2008, 2012 e do ano atual), assinado por profissional
+- **Roteiro IRARA, linha 1337** {#roteiro_irara_lin1337} competente e a respectiva ART, para fins de validação da área. O modelo do laudo técnico pode
+- **Roteiro IRARA, linha 1338** {#roteiro_irara_lin1338} ser obtido no site do IAT ((http://www.iat.pr.gov.br/Pagina/Cadastro-Ambiental-Rural-CAR–
+- **Roteiro IRARA, linha 1339** {#roteiro_irara_lin1339} Pasta “Documentos” – “Modelo de Laudo Técnico SICAR).”
+- **Roteiro IRARA, linha 1340** {#roteiro_irara_lin1340} Solicitação de documentos: Selecionar a opção Laudo Técnico.
+- **Roteiro IRARA, linha 1341** {#roteiro_irara_lin1341} Em “protocoloDATA”, o técnico deverá inserir o número do protocolo da notificação a que a
+- **Roteiro IRARA, linha 1342** {#roteiro_irara_lin1342} inconsistência se refere.
+- **Roteiro IRARA, linha 1343** {#roteiro_irara_lin1343} Situação 05: Caso o técnico tenha solicitado, em análises anteriores, o Auto de Infração
+- **Roteiro IRARA, linha 1344** {#roteiro_irara_lin1344} Ambiental (AIA), com o termo de embargo emitido ou regularizado mediante termo de
+- **Roteiro IRARA, linha 1345** {#roteiro_irara_lin1345} compromisso de reparação do dano causado ou o projeto de recuperação de áreas degradadas
+- **Roteiro IRARA, linha 1346** {#roteiro_irara_lin1346} (PRAD) e o proprietário/possuidor tenha encaminhado apenas o AIA, sem enviar o Termo de
+- **Roteiro IRARA, linha 1347** {#roteiro_irara_lin1347} Compromisso ou o PRAD, o técnico deverá adicionar uma nova inconsistência.
+- **Roteiro IRARA, linha 1348** {#roteiro_irara_lin1348} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1349** {#roteiro_irara_lin1349} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1350** {#roteiro_irara_lin1350} Adicionar observação: “Constatou-se que a área vetorizada como Área de Pousio, nas
+- **Roteiro IRARA, linha 1351** {#roteiro_irara_lin1351} coordenadas informadas, possui indícios de supressão após 22/07/2008. Conforme o art. 3°, da
+- **Roteiro IRARA, linha 1352** {#roteiro_irara_lin1352} Instrução Normativa n° 02/2014, do Ministériodo Meio Ambiente, os Remanescentes de
+- **Roteiro IRARA, linha 1353** {#roteiro_irara_lin1353} Vegetação Nativa, existentes após 22/07/2008 não perderão esta classificação nos casos de
+- **Roteiro IRARA, linha 1354** {#roteiro_irara_lin1354} incêndio, desmatamento ou qualquer outro tipo de intervenção não autorizada ou não licenciada.
+- **Roteiro IRARA, linha 1355** {#roteiro_irara_lin1355} No parecer (protocoloDATA) solicitaram-se os documentos referentes à Autorização de
+- **Roteiro IRARA, linha 1356** {#roteiro_irara_lin1356} supressão da vegetação (ASV) ou Autorização de uso alternativo do solo (AUAS), Auto de
+- **Roteiro IRARA, linha 1357** {#roteiro_irara_lin1357} Infração Ambiental (AIA) com o “termo de embargo” emitido ou regularizado mediante termo de
+- **Roteiro IRARA, linha 1358** {#roteiro_irara_lin1358} compromisso de reparação do dano causado, ou o projeto de recuperação de áreas degradadas
+- **Roteiro IRARA, linha 1359** {#roteiro_irara_lin1359} (PRAD) ou Boletim de Ocorrência Policial registrado, denunciando a ocorrência de dano
+- **Roteiro IRARA, linha 1360** {#roteiro_irara_lin1360} ambiental realizado em área de sua propriedade, cometida por terceiros, identificados ou não.
+- **Roteiro IRARA, linha 1361** {#roteiro_irara_lin1361} Na presente análise, observou-se que o proprietário/possuidor encaminhou o AIA, mas não
+- **Roteiro IRARA, linha 1362** {#roteiro_irara_lin1362} apresentou o Termo de Compromisso ou o PRAD. Apresente esclarecimentos sobre as
+- **Roteiro IRARA, linha 1363** {#roteiro_irara_lin1363} informações declarada se/ou retifique seu cadastro, encaminhando os documentos solicitados
+- **Roteiro IRARA, linha 1364** {#roteiro_irara_lin1364} (TC ouoPRAD)”.
+- **Roteiro IRARA, linha 1365** {#roteiro_irara_lin1365} Solicitação de documentos: Selecionar a opção Termo de Compromisso (TC) e o
+- **Roteiro IRARA, linha 1366** {#roteiro_irara_lin1366} Projeto de Recuperação de Áreas Degradadas(PRAD).
+- **Roteiro IRARA, linha 1367** {#roteiro_irara_lin1367} Em “protocoloDATA”, o técnico deverá inserir o número do protocolo da notificação a que a
+- **Roteiro IRARA, linha 1368** {#roteiro_irara_lin1368} inconsistência se refere.
+- **Roteiro IRARA, linha 1369** {#roteiro_irara_lin1369} Situação 06: Caso o técnico identifique que a área vetorizada como Pousio possui
+- **Roteiro IRARA, linha 1370** {#roteiro_irara_lin1370} características de área consolidada, nenhum polígono deve ser desmarcado, visto que é
+- **Roteiro IRARA, linha 1371** {#roteiro_irara_lin1371} permitida a sobreposição entre essas classes. Neste caso, o técnico poderá prosseguir com a
+- **Roteiro IRARA, linha 1372** {#roteiro_irara_lin1372} análise.
+- **Roteiro IRARA, linha 1373** {#roteiro_irara_lin1373} Solicitação de documentos: Selecionar a opção Projeto Técnico de Pousio.
+- **Roteiro IRARA, linha 1374** {#roteiro_irara_lin1374} Figura 34. Exemplo de análise de Área Consolidada declarada como Área de Pousio
+
+### 4.4.5 Aba Análise da Cobertura da Área Antropizada Não Consolidada (AA)
+
+- **Roteiro IRARA, linha 1376** {#roteiro_irara_lin1376} vetorizada pelo cadastrante
+- **Roteiro IRARA, linha 1377** {#roteiro_irara_lin1377} Conforme descrito na Instrução Normativa nº 02/2014, art. 2º, inciso VI, do Ministério
+- **Roteiro IRARA, linha 1378** {#roteiro_irara_lin1378} do Meio Ambiente, entende-se por Área Antropizada Não Consolidada as áreas degradadas ou
+- **Roteiro IRARA, linha 1379** {#roteiro_irara_lin1379} alteradas de que tratam, respectivamente, os incisos V e VI doart. 2ºdo Decreto nº 7.830/2012:
+- **Roteiro IRARA, linha 1380** {#roteiro_irara_lin1380} V -área degradada-área que se encontra alterada em função de impacto
+- **Roteiro IRARA, linha 1381** {#roteiro_irara_lin1381} antrópico, sem capacidade de regeneração natural;
+- **Roteiro IRARA, linha 1382** {#roteiro_irara_lin1382} VI -área alterada-área que após o impacto ainda mantém capacidade de
+- **Roteiro IRARA, linha 1383** {#roteiro_irara_lin1383} regeneração natural.
+- **Roteiro IRARA, linha 1384** {#roteiro_irara_lin1384} No Módulo de Cadastro do CAR, as áreas do imóvel rural caracterizadas como Áreas
+- **Roteiro IRARA, linha 1385** {#roteiro_irara_lin1385} Antropizadas Não Consolidadas (AA), ou seja, àquelas em que houve supressão após
+- **Roteiro IRARA, linha 1386** {#roteiro_irara_lin1386} 22/07/2008, não devem ser vetorizadas sobre a imagem, assim o sistema reconhece que as
+- **Roteiro IRARA, linha 1387** {#roteiro_irara_lin1387} áreas que não se sobrepõem a nenhuma vetorização (RVN, AC ou Área de Pousio) sejam AA.
+- **Roteiro IRARA, linha 1388** {#roteiro_irara_lin1388} No entanto, no Módulo de Análisedo CAR, o técnico pode visualizar e analisar estas áreas dentro
+- **Roteiro IRARA, linha 1389** {#roteiro_irara_lin1389} do imóvel rural.
+- **Roteiro IRARA, linha 1390** {#roteiro_irara_lin1390} Procedimento: O técnico deveráu tilizar o banco de dados disponível no endereço
+- **Roteiro IRARA, linha 1391** {#roteiro_irara_lin1391} www.simepar.br/geosicarpr e as plataformas do MAP BIOMAS, BRASIL MAIS e verificar se há
+- **Roteiro IRARA, linha 1392** {#roteiro_irara_lin1392} divergências nas Áreas Antropizadas Não Consolidadas (AA) dentro do imóvel rural. O técnico
+- **Roteiro IRARA, linha 1393** {#roteiro_irara_lin1393} também deverá se atentar para a dinâmica temporal das imagens de satélite (GoogleEarth), a
+- **Roteiro IRARA, linha 1394** {#roteiro_irara_lin1394} fim de identificar possíveis desmatamentos e possíveis vetorizações incorretas.
+- **Roteiro IRARA, linha 1395** {#roteiro_irara_lin1395} Para auxiliar o proprietário/possuidor no atendimento da notificação, o técnico poderá
+- **Roteiro IRARA, linha 1396** {#roteiro_irara_lin1396} adicionar marcadores/polígonos sempre que necessário, afim de indicar a localização das áreas
+- **Roteiro IRARA, linha 1397** {#roteiro_irara_lin1397} em que foram identificadas divergências nas classes de cobertura do solo vetorizadas pelo
+- **Roteiro IRARA, linha 1398** {#roteiro_irara_lin1398} cadastrante.
+- **Roteiro IRARA, linha 1399** {#roteiro_irara_lin1399} O técnico deverá considerar as seguintes situações na análise dasÁreasAntropizadas
+- **Roteiro IRARA, linha 1400** {#roteiro_irara_lin1400} Não Consolidadas (AA):
+- **Roteiro IRARA, linha 1401** {#roteiro_irara_lin1401} Situação 01: Caso o técnico identifique que as Áreas Antropizadas Não Consolidadas (AA)
+- **Roteiro IRARA, linha 1402** {#roteiro_irara_lin1402} sobrepõem Remanescentes de Vegetação Nativa (RVN), deverá adicionar/manter os polígonos
+- **Roteiro IRARA, linha 1403** {#roteiro_irara_lin1403} marcados sobre estas áreas. Esta condição pode ocorrer, por exemplo, quando o RVN não é
+- **Roteiro IRARA, linha 1404** {#roteiro_irara_lin1404} vetorizado nas áreas que sobrepõem Áreas de Preservação Permanente e/ou quando as áreas
+- **Roteiro IRARA, linha 1405** {#roteiro_irara_lin1405} de vegetação são vetorizadas apenas na aba “Reserva Legal” do Módulo de Cadastrodo CAR.
+- **Roteiro IRARA, linha 1406** {#roteiro_irara_lin1406} Figura 22. Ausência de vetorização da classe de Remanescente de Vegetação Nativa.
+- **Roteiro IRARA, linha 1407** {#roteiro_irara_lin1407} A ausência desta vetorização na aba “Cobertura do Solo” condiciona em um passivo
+- **Roteiro IRARA, linha 1408** {#roteiro_irara_lin1408} ambiental incorreto, indicando que essas áreas deverão ser recompostas, quando na verdade
+- **Roteiro IRARA, linha 1409** {#roteiro_irara_lin1409} não há necessidade, pois, existe vegetação, mas ela deixou de ser classificada.
+- **Roteiro IRARA, linha 1410** {#roteiro_irara_lin1410} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1411** {#roteiro_irara_lin1411} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1412** {#roteiro_irara_lin1412} Adicionar
+- **Roteiro IRARA, linha 1413** {#roteiro_irara_lin1413} observação:
+- **Roteiro IRARA, linha 1414** {#roteiro_irara_lin1414} “Prezado
+- **Roteiro IRARA, linha 1415** {#roteiro_irara_lin1415} Cadastrante,
+- **Roteiro IRARA, linha 1416** {#roteiro_irara_lin1416} existem
+- **Roteiro IRARA, linha 1417** {#roteiro_irara_lin1417} indícios
+- **Roteiro IRARA, linha 1418** {#roteiro_irara_lin1418} de
+- **Roteiro IRARA, linha 1419** {#roteiro_irara_lin1419} polígonos
+- **Roteiro IRARA, linha 1420** {#roteiro_irara_lin1420} de
+- **Roteiro IRARA, linha 1421** {#roteiro_irara_lin1421} Remanescentes de Vegetação Nativa não vetorizados que necessitam ser declarados
+- **Roteiro IRARA, linha 1422** {#roteiro_irara_lin1422} corretamente no mapa de sua propriedade, na aba “Cobertura do Solo”, no Módulo de Cadastro
+- **Roteiro IRARA, linha 1423** {#roteiro_irara_lin1423} do CAR. Atente-se a *Recomendação* dessa inconsistência para prosseguir com a retificação.”
+- **Roteiro IRARA, linha 1424** {#roteiro_irara_lin1424} Situação 02: Caso o técnico identifique que o cadastrante vetorizou corretamente as Áreas
+- **Roteiro IRARA, linha 1425** {#roteiro_irara_lin1425} Antropizadas Não Consolidadas (AA) existentes, deverá adicionar/manter uma inconsistência.
+- **Roteiro IRARA, linha 1426** {#roteiro_irara_lin1426} Figura 23. Formatação da inconsistência a ser enviada para o proprietário para os casos da Situação
+- **Roteiro IRARA, linha 1427** {#roteiro_irara_lin1427} 01.
+- **Roteiro IRARA, linha 1428** {#roteiro_irara_lin1428} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1429** {#roteiro_irara_lin1429} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1430** {#roteiro_irara_lin1430} Adicionar observação: “Prezado Cadastrante, existem indícios de Áreas Antropizadas Não
+- **Roteiro IRARA, linha 1431** {#roteiro_irara_lin1431} Consolidadas (AA) existentes no imóvel rural, em que pode ter ocorrido uma retirada de
+- **Roteiro IRARA, linha 1432** {#roteiro_irara_lin1432} Cobertura
+- **Roteiro IRARA, linha 1433** {#roteiro_irara_lin1433} Florestal.
+- **Roteiro IRARA, linha 1434** {#roteiro_irara_lin1434} Apresente
+- **Roteiro IRARA, linha 1435** {#roteiro_irara_lin1435} esclarecimentos
+- **Roteiro IRARA, linha 1436** {#roteiro_irara_lin1436} sobre
+- **Roteiro IRARA, linha 1437** {#roteiro_irara_lin1437} as
+- **Roteiro IRARA, linha 1438** {#roteiro_irara_lin1438} informações
+- **Roteiro IRARA, linha 1439** {#roteiro_irara_lin1439} declaradas,
+- **Roteiro IRARA, linha 1440** {#roteiro_irara_lin1440} encaminhando a documentação comprobatória referente à Autorização de supressão da
+- **Roteiro IRARA, linha 1441** {#roteiro_irara_lin1441} vegetação (ASV) ou Autorização de uso alternativo do solo(AUAS), Auto de Infração Ambiental
+- **Roteiro IRARA, linha 1442** {#roteiro_irara_lin1442} (AIA) como “termo de embargo” emitido ou regularizado mediante termo de compromisso de
+- **Roteiro IRARA, linha 1443** {#roteiro_irara_lin1443} recuperação do dano causado, ou o projeto de recuperação de áreas degradadas (PRAD) ou
+- **Roteiro IRARA, linha 1444** {#roteiro_irara_lin1444} Boletim de Ocorrência Policial registrado, denunciando a ocorrência de dano ambiental realizado
+- **Roteiro IRARA, linha 1445** {#roteiro_irara_lin1445} em área de sua propriedade, cometida por terceiros, identificados ou não”;
+- **Roteiro IRARA, linha 1446** {#roteiro_irara_lin1446} Solicitação de documentos: Selecionar as opções Autorização de supressão da vegetação
+- **Roteiro IRARA, linha 1447** {#roteiro_irara_lin1447} (ASV) ou Autorização de uso alternativo do solo (AUAS), Auto de Infração Ambiental (AIA), ou
+- **Roteiro IRARA, linha 1448** {#roteiro_irara_lin1448} Boletim de Ocorrência policial registrado, termo de compromisso ou PRAD.
+- **Roteiro IRARA, linha 1449** {#roteiro_irara_lin1449} Figura 24. Documentos necessários para regularização de Áreas Antropizadas Não Consolidadas (AA)
+- **Roteiro IRARA, linha 1450** {#roteiro_irara_lin1450} declaradas no imóvel.
+- **Roteiro IRARA, linha 1451** {#roteiro_irara_lin1451} Situação 03: Caso o técnico identifique que as Áreas Antropizadas Não Consolidadas (AA) foram
+- **Roteiro IRARA, linha 1452** {#roteiro_irara_lin1452} indicadas corretamente pelo cadastrante, mas uma inconsistência automática foi adicionada pelo
+- **Roteiro IRARA, linha 1453** {#roteiro_irara_lin1453} sistema, esta deve ser desconsiderada. Nesses casos, o proprietário, além de declarar
+- **Roteiro IRARA, linha 1454** {#roteiro_irara_lin1454} corretamente as respectivas áreas, apresentou a documentação comprobatória ou justificou que
+- **Roteiro IRARA, linha 1455** {#roteiro_irara_lin1455} não a possui.
+- **Roteiro IRARA, linha 1456** {#roteiro_irara_lin1456} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1457** {#roteiro_irara_lin1457} abrirá e o técnico deverá clicar em “Desconsiderar Inconsistência”.
+- **Roteiro IRARA, linha 1458** {#roteiro_irara_lin1458} Justificativa: “Observou-se que a Área Antropizada Não Consolidada (AA) foi indicada
+- **Roteiro IRARA, linha 1459** {#roteiro_irara_lin1459} corretamente pelo cadastrante. As divergências detectada sem relação à classificação
+- **Roteiro IRARA, linha 1460** {#roteiro_irara_lin1460} automática do CAR não representam a realidade do imóvel rural, por isso, a inconsistência
+- **Roteiro IRARA, linha 1461** {#roteiro_irara_lin1461} automática foi desconsiderada.”
+- **Roteiro IRARA, linha 1462** {#roteiro_irara_lin1462} Ressalta-se que essa justificativa não aparecerá no parecer técnico. A inconsistência
+- **Roteiro IRARA, linha 1463** {#roteiro_irara_lin1463} apenas será desconsiderada.
+- **Roteiro IRARA, linha 1464** {#roteiro_irara_lin1464} Figura 25. Edição da justificativa de desconsideração da inconsistência
+- **Roteiro IRARA, linha 1465** {#roteiro_irara_lin1465} Situação 04: Caso o técnico identifique na imagem fragmentos classificados como Área
+- **Roteiro IRARA, linha 1466** {#roteiro_irara_lin1466} Antropizada Não Consolidada (AA) que correspondam a descontinuidades (“espaços vazios”)
+- **Roteiro IRARA, linha 1467** {#roteiro_irara_lin1467} entre as classes de cobertura do solo (RVN, AC ou Área de Pousio) vetorizadas pelo cadastrante
+- **Roteiro IRARA, linha 1468** {#roteiro_irara_lin1468} e que o somatório dessas áreas não ultrapasse uma área de 10% em relação à área do imóvel,
+- **Roteiro IRARA, linha 1469** {#roteiro_irara_lin1469} a inconsistência deverá ser desconsiderada.
+- **Roteiro IRARA, linha 1470** {#roteiro_irara_lin1470} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1471** {#roteiro_irara_lin1471} abrirá e o técnico deverá clicar em “Desconsiderar Inconsistência”.
+- **Roteiro IRARA, linha 1472** {#roteiro_irara_lin1472} Justificativa: “As Áreas Antropizadas Não Consolidadas (AA) identificadas pelo sistema
+- **Roteiro IRARA, linha 1473** {#roteiro_irara_lin1473} correspondem a descontinuidades entre as classes de cobertura do solo vetorizadas pelo
+- **Roteiro IRARA, linha 1474** {#roteiro_irara_lin1474} cadastrante. Portanto, a inconsistência automática foi desconsiderada”.
+- **Roteiro IRARA, linha 1475** {#roteiro_irara_lin1475} Figura 26. Espaços entre as classes de cobertura do solo
+- **Roteiro IRARA, linha 1476** {#roteiro_irara_lin1476} Situação 05: Caso o quantitativo de fragmentos de Área Antropizada Não Consolidada (AA)
+- **Roteiro IRARA, linha 1477** {#roteiro_irara_lin1477} existentes no imóvel seja significativo, ou seja, maior do que 10% em relação à àrea do imóvel,
+- **Roteiro IRARA, linha 1478** {#roteiro_irara_lin1478} o técnico deverá encaminhar uma observação ao proprietário solicitando que seja retificado a
+- **Roteiro IRARA, linha 1479** {#roteiro_irara_lin1479} classificação das feições de uso e cobertura do solo, atentando-se aos espaços vazios entre uma
+- **Roteiro IRARA, linha 1480** {#roteiro_irara_lin1480} classe e outra.
+- **Roteiro IRARA, linha 1481** {#roteiro_irara_lin1481} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1482** {#roteiro_irara_lin1482} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1483** {#roteiro_irara_lin1483} Adicionar observação: “As descontinuidades existentes entre as classes de uso e cobertura do
+- **Roteiro IRARA, linha 1484** {#roteiro_irara_lin1484} solo (RVN e AC) vetorizadas pelo proprietário/cadastrante geraram espaços vazios que são
+- **Roteiro IRARA, linha 1485** {#roteiro_irara_lin1485} automaticamente enquadradas pelo sistema na classe de “Áreas Antropizadas Não
+- **Roteiro IRARA, linha 1486** {#roteiro_irara_lin1486} Consolidadas” (AA). Por definição, a classe de AA refere-se a áreas que sofreram supressão de
+- **Roteiro IRARA, linha 1487** {#roteiro_irara_lin1487} vegetação após 22/07/2008. Se estes espaços vazios não se enquadram nesta categoria, o
+- **Roteiro IRARA, linha 1488** {#roteiro_irara_lin1488} proprietário deverá retificar as classes de uso do solo atentando-se às descontinuidades entre
+- **Roteiro IRARA, linha 1489** {#roteiro_irara_lin1489} uma classe e outra. Se pertinente, utilize a sugestão devetorização/classificação elaborada e
+- **Roteiro IRARA, linha 1490** {#roteiro_irara_lin1490} enviada pelo técnico via central do proprietário OU apresente esclarecimentos sobre as
+- **Roteiro IRARA, linha 1491** {#roteiro_irara_lin1491} informações declaradas.”
+- **Roteiro IRARA, linha 1492** {#roteiro_irara_lin1492} Figura 27. . Edição da inconsistência de retificação dos espaços vazios classificados erroneamente como
+- **Roteiro IRARA, linha 1493** {#roteiro_irara_lin1493} AA na etapa de uso e cobertura do solo
+
+### 4.4.6 Aba Análise de inconsistências adicionais e/ou temas complementares
+
+- **Roteiro IRARA, linha 1495** {#roteiro_irara_lin1495} Nesse campo é possível inserir inconsistências que não puderam ser adicionadas nas
+- **Roteiro IRARA, linha 1496** {#roteiro_irara_lin1496} abas anteriores da etapa de cobertura e uso do solo, geralmente devido à esta aba comportar
+- **Roteiro IRARA, linha 1497** {#roteiro_irara_lin1497} mais de uma inconsistência. O técnico deverá considerar as seguintes situações, além de outras
+- **Roteiro IRARA, linha 1498** {#roteiro_irara_lin1498} que poderão surgir:
+- **Roteiro IRARA, linha 1499** {#roteiro_irara_lin1499} Situação 01: Caso o técnico identifique que o Remanescente de Vegetação Nativa (RVN)
+- **Roteiro IRARA, linha 1500** {#roteiro_irara_lin1500} declarado ou não (quando existe RVN no imóvel, mas não é vetorizado) pelo cadastrante não
+- **Roteiro IRARA, linha 1501** {#roteiro_irara_lin1501} condiz com a realidade do imóvel e que ira realizar uma vetorização afim de auxiliar o
+- **Roteiro IRARA, linha 1502** {#roteiro_irara_lin1502} proprietário/possuidor, deverá adicionar uma inconsistência.
+- **Roteiro IRARA, linha 1503** {#roteiro_irara_lin1503} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência.
+- **Roteiro IRARA, linha 1504** {#roteiro_irara_lin1504} Pendência/Inconsistência: “Constatou-se, através da análise temporal utilizando imagens de
+- **Roteiro IRARA, linha 1505** {#roteiro_irara_lin1505} satélite, que existe divergência entre o Remanescente de Vegetação Nativa (RVN) declarado ou
+- **Roteiro IRARA, linha 1506** {#roteiro_irara_lin1506} não e a realidade do imóvel. Posto isso, realizou-se uma sugestão de classificação das feições
+- **Roteiro IRARA, linha 1507** {#roteiro_irara_lin1507} na cobertura do solo para orientar que nesses locais existem Remanescente de Vegetação
+- **Roteiro IRARA, linha 1508** {#roteiro_irara_lin1508} Nativa e não outros tipos de usos (AC, AA ou Área de Pousio ou Área), conforme declarado”.
+- **Roteiro IRARA, linha 1509** {#roteiro_irara_lin1509} Recomendação: “Caso concorde com a vetorização realizada pelo técnico, retifique seu
+- **Roteiro IRARA, linha 1510** {#roteiro_irara_lin1510} cadastro corrigindo essas áreas conforme o arquivo vetorial enviado por meio da Central do
+- **Roteiro IRARA, linha 1511** {#roteiro_irara_lin1511} Proprietário/Possuidor. Do contrário, apresente esclarecimentos sobre as informações
+- **Roteiro IRARA, linha 1512** {#roteiro_irara_lin1512} declaradas.”
+- **Roteiro IRARA, linha 1513** {#roteiro_irara_lin1513} Atendimento: Selecionar a opção “Retificação.”
+- **Roteiro IRARA, linha 1514** {#roteiro_irara_lin1514} Figura 28. Edição da inconsistência adiciona de sugestão do técnico para áreas de RVN
+- **Roteiro IRARA, linha 1515** {#roteiro_irara_lin1515} Situação 02: Caso o técnico identifique que a Área Consolidada (AC) ou não (quando existe AC
+- **Roteiro IRARA, linha 1516** {#roteiro_irara_lin1516} no imóvel, mas não é vetorizada) declarada pelo cadastrante não condiz com a realidade do
+- **Roteiro IRARA, linha 1517** {#roteiro_irara_lin1517} imóvel e decida realizar uma vetorização afim de auxiliar o proprietário/possuidor, deverá
+- **Roteiro IRARA, linha 1518** {#roteiro_irara_lin1518} adicionar uma inconsistência.
+- **Roteiro IRARA, linha 1519** {#roteiro_irara_lin1519} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência.
+- **Roteiro IRARA, linha 1520** {#roteiro_irara_lin1520} Pendência/Inconsistência: “Constatou-se, através da análise temporal utilizando imagens de
+- **Roteiro IRARA, linha 1521** {#roteiro_irara_lin1521} satélite, que existe divergência entre a Área Consolidada declarada ou não e a realidade do
+- **Roteiro IRARA, linha 1522** {#roteiro_irara_lin1522} imóvel. Posto isso, realizou-se uma sugestão de classificação das feições na cobertura do solo
+- **Roteiro IRARA, linha 1523** {#roteiro_irara_lin1523} para orientar que nesses locais existem Áreas Consolidadas e não outros tipos de usos (RVN,
+- **Roteiro IRARA, linha 1524** {#roteiro_irara_lin1524} AA ou Áreas de Pousio), conforme declarado.”
+- **Roteiro IRARA, linha 1525** {#roteiro_irara_lin1525} Recomendação: “Caso concorde com a vetorização realizada pelo técnico, retifique seu
+- **Roteiro IRARA, linha 1526** {#roteiro_irara_lin1526} cadastro corrigindo essas áreas conforme o arquivo vetorial enviado por meio da Central do
+- **Roteiro IRARA, linha 1527** {#roteiro_irara_lin1527} Proprietário/Possuidor. Do contrário, a presente esclarecimentos sobre as informações
+- **Roteiro IRARA, linha 1528** {#roteiro_irara_lin1528} declaradas.”
+- **Roteiro IRARA, linha 1529** {#roteiro_irara_lin1529} Atendimento: Selecionar a opção “Retificação.”
+- **Roteiro IRARA, linha 1530** {#roteiro_irara_lin1530} Figura 29. Edição da inconsistência adiciona de Sugestão do técnico para área Consolidada
+- **Roteiro IRARA, linha 1531** {#roteiro_irara_lin1531} Situação 03: Caso o técnico verifique processos erosivos, deverá adicionar/manter uma
+- **Roteiro IRARA, linha 1532** {#roteiro_irara_lin1532} inconsistência.
+- **Roteiro IRARA, linha 1533** {#roteiro_irara_lin1533} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência.
+- **Roteiro IRARA, linha 1534** {#roteiro_irara_lin1534} Pendência / Inconsistência: “Observou-se que a cobertura do solo possui indícios de ausência
+- **Roteiro IRARA, linha 1535** {#roteiro_irara_lin1535} de boas práticas agrícolas e falta de planejamento de uso adequado do solo, o que contraria o
+- **Roteiro IRARA, linha 1536** {#roteiro_irara_lin1536} art. 11, da Lei nº 12.651/2012. Conforme o art.3º, §1º, Lei Estadual nº 8.014/1984, entende-se
+- **Roteiro IRARA, linha 1537** {#roteiro_irara_lin1537} por uso adequado a adoção de um conjunto de práticas e procedimentos que visem à
+- **Roteiro IRARA, linha 1538** {#roteiro_irara_lin1538} conservação, ao melhoramento e à conservação do solo, atendendo a função socioeconômica
+- **Roteiro IRARA, linha 1539** {#roteiro_irara_lin1539} da propriedade.”
+- **Roteiro IRARA, linha 1540** {#roteiro_irara_lin1540} Recomendação: “Apresente esclarecimentos sobre as informações declaradas.”
+- **Roteiro IRARA, linha 1541** {#roteiro_irara_lin1541} Atendimento: Selecionar a opção “Retificação.”
+- **Roteiro IRARA, linha 1542** {#roteiro_irara_lin1542} O técnico, nesses casos, deverá encaminhar o processo ao GO, informando-o sobre a
+- **Roteiro IRARA, linha 1543** {#roteiro_irara_lin1543} situação observada. Assim, o GO poderá encaminhar o processo à Secretaria de Estado da
+- **Roteiro IRARA, linha 1544** {#roteiro_irara_lin1544} Agricultura e do Abastecimento (SEAB)/Instituto de Desenvolvimento Rural (IDR) para a tomada
+- **Roteiro IRARA, linha 1545** {#roteiro_irara_lin1545} de providências quanto ao descumprimento da Lei nº 8.014/1984.
+
+### 4.4.7 Aba Observação
+
+- **Roteiro IRARA, linha 1547** {#roteiro_irara_lin1547} Situação 01: Caso o técnico observe que a geometria das classes de uso e cobertura do solo
+- **Roteiro IRARA, linha 1548** {#roteiro_irara_lin1548} (RVN, AC, AA e Pousio) esteja deslocada na imagem disponível no CAR e externamente em
+- **Roteiro IRARA, linha 1549** {#roteiro_irara_lin1549} outros SIGs, deverá inserir o seguinte texto na aba Observação:
+- **Roteiro IRARA, linha 1550** {#roteiro_irara_lin1550} “Solicita-se a verificação do georreferenciamento das feições de uso e cobertura declarados no
+- **Roteiro IRARA, linha 1551** {#roteiro_irara_lin1551} ambiente Sicar. Há indícios de que a geometria vetorizada esteja incoerente com as
+- **Roteiro IRARA, linha 1552** {#roteiro_irara_lin1552} demarcações (rios, estradas, outros imóveis rurais) observados na imagem disponibilizada na
+- **Roteiro IRARA, linha 1553** {#roteiro_irara_lin1553} plataforma Sicar (imagem RapidEye) e também no acervo de imagens do Google Earth. Essa
+- **Roteiro IRARA, linha 1554** {#roteiro_irara_lin1554} inconformidade gera sobreposição do imóvel analisado como utros imóveis rurais vizinhos e/ou
+- **Roteiro IRARA, linha 1555** {#roteiro_irara_lin1555} deslocamentos das classes de uso e cobertura do solo que foram declaradas.
+- **Roteiro IRARA, linha 1556** {#roteiro_irara_lin1556} Figura 30. Deslocamento de Geometria. O erro ocorre tanto na imagem Rapidye (dentro do sistema)
+- **Roteiro IRARA, linha 1557** {#roteiro_irara_lin1557} quanto no Google Earth (análise externa).
+
+### 4.5. Servidão Administrativa
+
+- **Roteiro IRARA, linha 1559** {#roteiro_irara_lin1559} Conforme a Instrução Normativa nº 02/2014, art. 2º, V, as áreas de servidão
+- **Roteiro IRARA, linha 1560** {#roteiro_irara_lin1560} administrativa são áreas de utilidade de clarada pelo Poder Público que afetam os imóveis rurais.
+- **Roteiro IRARA, linha 1561** {#roteiro_irara_lin1561} A localização e a delimitação dessas áreas deverão obedecer a caracterização descrita no art.
+- **Roteiro IRARA, linha 1562** {#roteiro_irara_lin1562} 3º, incisos VIII, IX e X e o art. 5º daLeinº12.651/2012.
+- **Roteiro IRARA, linha 1563** {#roteiro_irara_lin1563} Segundooart.3º,da Leinº12.651/2012:
+- **Roteiro IRARA, linha 1564** {#roteiro_irara_lin1564} Art. 3º Para os efeitos desta Lei, entende-se por:
+- **Roteiro IRARA, linha 1565** {#roteiro_irara_lin1565} VIII – utilidade pública: (Vide ADC Nº 42) (Vide ADIN Nº 4.903)
+- **Roteiro IRARA, linha 1566** {#roteiro_irara_lin1566} a)
+- **Roteiro IRARA, linha 1567** {#roteiro_irara_lin1567} as atividades de segurança nacional e proteção sanitária;
+- **Roteiro IRARA, linha 1568** {#roteiro_irara_lin1568} b)
+- **Roteiro IRARA, linha 1569** {#roteiro_irara_lin1569} as obras de infraestrutura destinadas às concessões e aos serviços
+- **Roteiro IRARA, linha 1570** {#roteiro_irara_lin1570} públicos de transporte, sistema viário, inclusive aquele necessário aos
+- **Roteiro IRARA, linha 1571** {#roteiro_irara_lin1571} parcelamentos de solo urbano aprovados pelos Municípios, saneamento,
+- **Roteiro IRARA, linha 1572** {#roteiro_irara_lin1572} energia, telecomunicações, radiodifusão, bem como mineração, exceto,
+- **Roteiro IRARA, linha 1573** {#roteiro_irara_lin1573} neste último caso, a extração de areia, argila, saibro e cascalho;
+- **Roteiro IRARA, linha 1574** {#roteiro_irara_lin1574} c)
+- **Roteiro IRARA, linha 1575** {#roteiro_irara_lin1575} atividades e obras de defesa civil;
+- **Roteiro IRARA, linha 1576** {#roteiro_irara_lin1576} d)
+- **Roteiro IRARA, linha 1577** {#roteiro_irara_lin1577} atividades que comprovadamente proporcionem melhorias na
+- **Roteiro IRARA, linha 1578** {#roteiro_irara_lin1578} proteção das funções ambientais referidas no inciso II deste artigo;
+- **Roteiro IRARA, linha 1579** {#roteiro_irara_lin1579} e)
+- **Roteiro IRARA, linha 1580** {#roteiro_irara_lin1580} outras atividades similares devidamente caracterizadas e motivadas
+- **Roteiro IRARA, linha 1581** {#roteiro_irara_lin1581} em procedimento administrativo próprio, quando inexistir alternativa técnica
+- **Roteiro IRARA, linha 1582** {#roteiro_irara_lin1582} e locacional ao empreendimento proposto, definida sem a todo Chefe do
+- **Roteiro IRARA, linha 1583** {#roteiro_irara_lin1583} Poder Executivo federal;
+- **Roteiro IRARA, linha 1584** {#roteiro_irara_lin1584} Já o art. 5º dispõe o seguinte:
+- **Roteiro IRARA, linha 1585** {#roteiro_irara_lin1585} Art. 5º Na implantação de reservatório d’água artificial destinado a geração
+- **Roteiro IRARA, linha 1586** {#roteiro_irara_lin1586} de energia ou abastecimento público, é obrigatória a aquisição,
+- **Roteiro IRARA, linha 1587** {#roteiro_irara_lin1587} desapropriação ou instituição de servidão administrativa pelo empreendedor
+- **Roteiro IRARA, linha 1588** {#roteiro_irara_lin1588} das Áreas de Preservação Permanente criadas em seu entorno, conforme
+- **Roteiro IRARA, linha 1589** {#roteiro_irara_lin1589} estabelecido no licenciamento ambiental,observando-se a faixa mínima de 30
+- **Roteiro IRARA, linha 1590** {#roteiro_irara_lin1590} (trinta) metros e máxima de 100(cem) metros em área rural, e a faixa mínima
+- **Roteiro IRARA, linha 1591** {#roteiro_irara_lin1591} de 15 (quinze) metros emáxima de 30 (trinta) metro sem área urbana.
+- **Roteiro IRARA, linha 1592** {#roteiro_irara_lin1592} (Redação dada pela Leinº 12.727, de 2012).(Vide ADC Nº 42)
+- **Roteiro IRARA, linha 1593** {#roteiro_irara_lin1593} (Vide
+- **Roteiro IRARA, linha 1594** {#roteiro_irara_lin1594} ADIN Nº4.903)
+- **Roteiro IRARA, linha 1595** {#roteiro_irara_lin1595} As áreas de servidão administrativa devem ser desconsideradas do cálculo da área de
+- **Roteiro IRARA, linha 1596** {#roteiro_irara_lin1596} Reserva Legal, conforme demonstra o art. 23, I, da IN MMAnº 02/2014.
+- **Roteiro IRARA, linha 1597** {#roteiro_irara_lin1597} Art.23. A localização e a delimitação sobre imagens georreferenciadas de
+- **Roteiro IRARA, linha 1598** {#roteiro_irara_lin1598} áreas de Reserva Legal, solicitadas no inciso III dos arts. 13 e 14, desta
+- **Roteiro IRARA, linha 1599** {#roteiro_irara_lin1599} Instrução Normativa, deverão observar, além do disposto nos arts. 14 e 18 da
+- **Roteiro IRARA, linha 1600** {#roteiro_irara_lin1600} Lei no 12.651, de2012, os seguintes critérios:
+- **Roteiro IRARA, linha 1601** {#roteiro_irara_lin1601} I - o cálculo da área de Reserva Legal dos imóveis que apresentem as áreas de
+- **Roteiro IRARA, linha 1602** {#roteiro_irara_lin1602} servidão administrativa, será o resultado da exclusão dessas do somatório da
+- **Roteiro IRARA, linha 1603** {#roteiro_irara_lin1603} área total do imóvel rural;
+- **Roteiro IRARA, linha 1604** {#roteiro_irara_lin1604} Ressalta-se que a servidão administrativa declarada pelo proprietário/possuidor é
+- **Roteiro IRARA, linha 1605** {#roteiro_irara_lin1605} desconsiderada automaticamente pelo sistema para fins do cálculo da área da reserva legal (ou
+- **Roteiro IRARA, linha 1606** {#roteiro_irara_lin1606} seja, o sistema realiza o cálculo de RL com base na área líquida do imóvel). Portanto, é
+- **Roteiro IRARA, linha 1607** {#roteiro_irara_lin1607} imprescindível que o técnico verifique a fidedignidade dessas informações através da análise de
+- **Roteiro IRARA, linha 1608** {#roteiro_irara_lin1608} imagens de satélite e base documental.
+- **Roteiro IRARA, linha 1609** {#roteiro_irara_lin1609} A documentação referente à comprovação das áreas de Servidão Administrativa
+- **Roteiro IRARA, linha 1610** {#roteiro_irara_lin1610} somente deverá ser solicitada caso o técnico observe que a área declarada pelo
+- **Roteiro IRARA, linha 1611** {#roteiro_irara_lin1611} proprietário/possuidor excede os limites de tolerância, conformeQuadro3.
+- **Roteiro IRARA, linha 1612** {#roteiro_irara_lin1612} Quadro 3. Limites de tolerância previstos para a servidão administrativa
+- **Roteiro IRARA, linha 1613** {#roteiro_irara_lin1613} Módulos Fiscais (MF)
+- **Roteiro IRARA, linha 1614** {#roteiro_irara_lin1614} % deTolerância
+- **Roteiro IRARA, linha 1615** {#roteiro_irara_lin1615} Área>15MF
+- **Roteiro IRARA, linha 1616** {#roteiro_irara_lin1616} 1%
+- **Roteiro IRARA, linha 1617** {#roteiro_irara_lin1617} Área>4 MFe <=15MF
+- **Roteiro IRARA, linha 1618** {#roteiro_irara_lin1618} 2%
+- **Roteiro IRARA, linha 1619** {#roteiro_irara_lin1619} Área<=4MF
+- **Roteiro IRARA, linha 1620** {#roteiro_irara_lin1620} 5%
+- **Roteiro IRARA, linha 1621** {#roteiro_irara_lin1621} O técnico deverá realizar o cálculo sobre a área bruta do imóvel. Tal informação poderá
+- **Roteiro IRARA, linha 1622** {#roteiro_irara_lin1622} ser obtida diretamente na aba Geo em Detalhes do imóvel, conforme figura abaixo:
+- **Roteiro IRARA, linha 1623** {#roteiro_irara_lin1623} Figura 31. Detalhes do Imóvel abaGeo
+- **Roteiro IRARA, linha 1624** {#roteiro_irara_lin1624} Após o cálculo, caso o técnico verifique que o resultado excede o limite de tolerância,
+- **Roteiro IRARA, linha 1625** {#roteiro_irara_lin1625} a matrícula do imóvel (certidão de registro, escritura, etc) deverá ser solicitada, visto que as áreas
+- **Roteiro IRARA, linha 1626** {#roteiro_irara_lin1626} de servidão administrativa geralmente estão averbadas no documento.
+
+### 4.5.1 Infraestrutura e utilidade pública
+
+- **Roteiro IRARA, linha 1628** {#roteiro_irara_lin1628} O técnico deverá analisar a declaração realizada pelo proprietário/possuidor. São
+- **Roteiro IRARA, linha 1629** {#roteiro_irara_lin1629} consideradas como servidão administrativa de infraestrutura/utilidade pública: linhas de
+- **Roteiro IRARA, linha 1630** {#roteiro_irara_lin1630} transmissão, rodovias, ferrovias, entre outros e as estradas vicinais, apenas quando criam
+- **Roteiro IRARA, linha 1631** {#roteiro_irara_lin1631} acessibilidade entre os lotes e/ou imóveis rurais, não indicando o seu uso individual.
+- **Roteiro IRARA, linha 1632** {#roteiro_irara_lin1632} 4.5.1.1
+- **Roteiro IRARA, linha 1633** {#roteiro_irara_lin1633} Aba Classificação do técnico
+- **Roteiro IRARA, linha 1634** {#roteiro_irara_lin1634} O técnico, a fim de auxiliar o proprietário/possuidor, poderá vetorizar a servidão
+- **Roteiro IRARA, linha 1635** {#roteiro_irara_lin1635} administrativa e enviar essa classificação através da Central do proprietário/possuidor. Para
+- **Roteiro IRARA, linha 1636** {#roteiro_irara_lin1636} tanto, será necessário habilitar a opção “enviar arquivo vetorial ao proprietário/possuidor”,
+- **Roteiro IRARA, linha 1637** {#roteiro_irara_lin1637} conforme imagem abaixo.
+- **Roteiro IRARA, linha 1638** {#roteiro_irara_lin1638} Figura 32. Classificação do técnico
+- **Roteiro IRARA, linha 1639** {#roteiro_irara_lin1639} 4.5.1.2
+- **Roteiro IRARA, linha 1640** {#roteiro_irara_lin1640} Aba Análise de infraestrutura/Utilidade pública
+- **Roteiro IRARA, linha 1641** {#roteiro_irara_lin1641} A análise desta aba consiste em verificar se a declaração do proprietário/possuidor é
+- **Roteiro IRARA, linha 1642** {#roteiro_irara_lin1642} fidedigna à realidade do imóvel. Neste sentido, as seguintes situações podem ocorrer:
+- **Roteiro IRARA, linha 1643** {#roteiro_irara_lin1643} Situação 01: Caso o técnico verifique que a área declarada não condiz com a realidade, deverá
+- **Roteiro IRARA, linha 1644** {#roteiro_irara_lin1644} verificar em qual tipo de inconsistência ela se enquadra:
+- **Roteiro IRARA, linha 1645** {#roteiro_irara_lin1645} • Vetorização inconsistente com a documentação;
+- **Roteiro IRARA, linha 1646** {#roteiro_irara_lin1646} • Vetorização inconsistente com a realidade do imóvel;
+- **Roteiro IRARA, linha 1647** {#roteiro_irara_lin1647} • Deslocamento;
+- **Roteiro IRARA, linha 1648** {#roteiro_irara_lin1648} • Classe de servidão administrativa inadequada.
+- **Roteiro IRARA, linha 1649** {#roteiro_irara_lin1649} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1650** {#roteiro_irara_lin1650} abrirá e o técnico deverá selecionar o tipo de inconsistência em que o polígono se enquadra.
+- **Roteiro IRARA, linha 1651** {#roteiro_irara_lin1651} Figura 33. Declaração inconsistente com a realidade do imóvel
+- **Roteiro IRARA, linha 1652** {#roteiro_irara_lin1652} Situação 02: Caso o técnico verifique que a área declarada excede os limites de tolerância, duas
+- **Roteiro IRARA, linha 1653** {#roteiro_irara_lin1653} situações podem ocorrer:
+- **Roteiro IRARA, linha 1654** {#roteiro_irara_lin1654} Situação 02.a: Aárea excede o limite de tolerância e está representada de forma fidedigna à
+- **Roteiro IRARA, linha 1655** {#roteiro_irara_lin1655} realidade do imóvel. Nesses casos, o técnico deverá prosseguir com a análise solicitando a
+- **Roteiro IRARA, linha 1656** {#roteiro_irara_lin1656} documentação comprobatória e, para melhor esclarecimento do motivo da solicitação da
+- **Roteiro IRARA, linha 1657** {#roteiro_irara_lin1657} documentação, poderá inserir um texto complementar na aba “Observação”:
+- **Roteiro IRARA, linha 1658** {#roteiro_irara_lin1658} “Para que as áreas declaradas como servidão administrativa possam ser desconsideradas do
+- **Roteiro IRARA, linha 1659** {#roteiro_irara_lin1659} cálculo da área de reserva legal, é necessário a comprovação de alguns atributos, tais como a
+- **Roteiro IRARA, linha 1660** {#roteiro_irara_lin1660} área e comprimento que afetam o imóvel. Esses atributos podem ser comprovados na própria
+- **Roteiro IRARA, linha 1661** {#roteiro_irara_lin1661} matrícula, caso tenha ocorrido a averbação em cartório, ou com o Termo de Anuência do
+- **Roteiro IRARA, linha 1662** {#roteiro_irara_lin1662} Proprietário/Possuidor. Este último documento (termo de anuência) não se refere à anuência
+- **Roteiro IRARA, linha 1663** {#roteiro_irara_lin1663} entre os proprietários que fazem limite com o imóvel em análise (para fins de
+- **Roteiro IRARA, linha 1664** {#roteiro_irara_lin1664} georreferenciamento), mas ao acordo realizado entre o empreendedor e o proprietário/possuidor
+- **Roteiro IRARA, linha 1665** {#roteiro_irara_lin1665} do imóvel. Caso não haja documento comprobatório, o proprietário deverá efetuar a retificação
+- **Roteiro IRARA, linha 1666** {#roteiro_irara_lin1666} do cadastro, adicionando as áreas em questão como Áreas Consolidadas na etapa de "cobertura
+- **Roteiro IRARA, linha 1667** {#roteiro_irara_lin1667} do solo".
+- **Roteiro IRARA, linha 1668** {#roteiro_irara_lin1668} Solicitação de documentos: Selecionar a opção Comprovante de propriedade/posse e/ou
+- **Roteiro IRARA, linha 1669** {#roteiro_irara_lin1669} termo de anuência do proprietário/possuidor, conforme a figura a seguir.
+- **Roteiro IRARA, linha 1670** {#roteiro_irara_lin1670} Figura 34. Solicitação da documentação comprobatória de área de Servidão Administrativa
+- **Roteiro IRARA, linha 1671** {#roteiro_irara_lin1671} Situação 02.b: A área excede o limite de tolerância e não condiz com a realidade do imóvel.
+- **Roteiro IRARA, linha 1672** {#roteiro_irara_lin1672} Nesses casos, o técnico deverá adicionar/manter uma inconsistência.
+- **Roteiro IRARA, linha 1673** {#roteiro_irara_lin1673} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 1674** {#roteiro_irara_lin1674} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 1675** {#roteiro_irara_lin1675} Adicionar observação: “Para que áreas de Infraestrutura e Utilidade Pública/Área de Servidão
+- **Roteiro IRARA, linha 1676** {#roteiro_irara_lin1676} Administrativa sejam desconsideradas no cálculo da área de Reserva Legal (art.23, da Instrução
+- **Roteiro IRARA, linha 1677** {#roteiro_irara_lin1677} Normativa nº 02/2014, do Ministério do Meio Ambiente), o proprietário/possuidor deve comprovar
+- **Roteiro IRARA, linha 1678** {#roteiro_irara_lin1678} sua legitimidade por meio da certidão de registro atualizada do imóvel rural ou Termo de Anuência
+- **Roteiro IRARA, linha 1679** {#roteiro_irara_lin1679} do Proprietário. Este último documento (termodeanuência) não se refere à anuência entre os
+- **Roteiro IRARA, linha 1680** {#roteiro_irara_lin1680} proprietários que fazem limite com o imóvel em análise (para fins de georreferenciamento), mas ao
+- **Roteiro IRARA, linha 1681** {#roteiro_irara_lin1681} acordo realizado entre o empreendedor e o proprietário/possuidor do imóvel. Caso não haja
+- **Roteiro IRARA, linha 1682** {#roteiro_irara_lin1682} documento comprobatório, o proprietário deverá efetuar a retificação do cadastro, adicionando as
+- **Roteiro IRARA, linha 1683** {#roteiro_irara_lin1683} áreas em questão como Área Consolidada na etapa de "cobertura do solo".
+- **Roteiro IRARA, linha 1684** {#roteiro_irara_lin1684} Figura 35. Vetorização inconsistente com a realidade do imóvel
+- **Roteiro IRARA, linha 1685** {#roteiro_irara_lin1685} Situação 03: Caso o técnico verifique que a área declarada não excede os limites de tolerância
+- **Roteiro IRARA, linha 1686** {#roteiro_irara_lin1686} e condiz com a realidade do imóvel, poderá prosseguir com a análise sem a solicitação do
+- **Roteiro IRARA, linha 1687** {#roteiro_irara_lin1687} documento comprobatório. Nesse caso, o próprio sistema realiza o cálculo da área líquida do
+- **Roteiro IRARA, linha 1688** {#roteiro_irara_lin1688} imóvel para fins de reserva legal.
+
+### 4.5.2 Reservatório para abastecimento ou geração de energia
+
+- **Roteiro IRARA, linha 1690** {#roteiro_irara_lin1690} O técnico deverá verificar se há reservatório para abastecimento ou geração de energia
+- **Roteiro IRARA, linha 1691** {#roteiro_irara_lin1691} no imóvel rural em análise, independentemente se estes foram ou não vetorizados pelo
+- **Roteiro IRARA, linha 1692** {#roteiro_irara_lin1692} cadastrante.
+- **Roteiro IRARA, linha 1693** {#roteiro_irara_lin1693} Segundo Art. 5º, da Lei nº 12.651/2012, na implantação de reservatório d'água artificial
+- **Roteiro IRARA, linha 1694** {#roteiro_irara_lin1694} destinado à geração de energia ou abastecimento público é obrigatória a aquisição,
+- **Roteiro IRARA, linha 1695** {#roteiro_irara_lin1695} desapropriação ou instituição de servidão administrativa pelo empreendedor das Áreas de
+- **Roteiro IRARA, linha 1696** {#roteiro_irara_lin1696} Preservação Permanente criadas em seu entorno, conforme estabelecido no licenciamento
+- **Roteiro IRARA, linha 1697** {#roteiro_irara_lin1697} ambiental, observando-se a faixa mínima de 30 (trinta) metros e máxima de 100 (cem) metros
+- **Roteiro IRARA, linha 1698** {#roteiro_irara_lin1698} em área rural.
+- **Roteiro IRARA, linha 1699** {#roteiro_irara_lin1699} Atenção! Esta condição é válida para imóveis rurais localizados próximos aos reservatórios mais
+- **Roteiro IRARA, linha 1700** {#roteiro_irara_lin1700} antigos. Todos os mais recentes são desapropriados/adquiridos pelo empreendedor. Não há
+- **Roteiro IRARA, linha 1701** {#roteiro_irara_lin1701} mais a instituição de servidão administrativa.
+- **Roteiro IRARA, linha 1702** {#roteiro_irara_lin1702} Figura 36. APP no entorno de reservatório artificial decorrente de barramento
+- **Roteiro IRARA, linha 1703** {#roteiro_irara_lin1703} Para os casos de confirmação da servidão, deverá ser solicitada a documentação
+- **Roteiro IRARA, linha 1704** {#roteiro_irara_lin1704} comprobatória que conste a faixa de APP. Os documentos podem ser os referentes ao
+- **Roteiro IRARA, linha 1705** {#roteiro_irara_lin1705} licenciamento ambiental ou à matrícula do imóvel.
+- **Roteiro IRARA, linha 1706** {#roteiro_irara_lin1706} Figura 37. Aba de análise do Reservatório para abastecimento ou geração de energia no CAR
+- **Roteiro IRARA, linha 1707** {#roteiro_irara_lin1707} 4.5.2.1
+- **Roteiro IRARA, linha 1708** {#roteiro_irara_lin1708} Aba Classificação do técnico
+- **Roteiro IRARA, linha 1709** {#roteiro_irara_lin1709} O técnico, a fim de auxiliar o INCRA, poderá vetorizar a servidão administrativa e enviar
+- **Roteiro IRARA, linha 1710** {#roteiro_irara_lin1710} essa classificação através da Central do Instituto. Para tanto, será necessário habilitar a opção
+- **Roteiro IRARA, linha 1711** {#roteiro_irara_lin1711} “enviar arquivo vetorial ao INCRA”.
+- **Roteiro IRARA, linha 1712** {#roteiro_irara_lin1712} 4.5.2.2
+- **Roteiro IRARA, linha 1713** {#roteiro_irara_lin1713} Aba Reservatório para abastecimento ou Geração de energia
+- **Roteiro IRARA, linha 1714** {#roteiro_irara_lin1714} Situação 01: Caso o técnico identifique a existência de reservatórios para abastecimento ou
+- **Roteiro IRARA, linha 1715** {#roteiro_irara_lin1715} geração de energia vetorizados pelo cadastrante, deverá seguir os passos a seguir.
+- **Roteiro IRARA, linha 1716** {#roteiro_irara_lin1716} Procedimento: Na aba “Solicitação de Documentos”, selecionar a documentação que permita
+- **Roteiro IRARA, linha 1717** {#roteiro_irara_lin1717} ao proprietário/possuidor comprovar a criação da área de servidão administrativa, por meio de
+- **Roteiro IRARA, linha 1718** {#roteiro_irara_lin1718} averbação na Matrícula do Imóvel, Decreto, Termo de Criação, entre outros documentos.
+- **Roteiro IRARA, linha 1719** {#roteiro_irara_lin1719} Na aba “Observação”, inserir o seguinte texto:
+- **Roteiro IRARA, linha 1720** {#roteiro_irara_lin1720} “Apresente a documentação comprobatória das áreas de servidão administrativa vetorizadas
+- **Roteiro IRARA, linha 1721** {#roteiro_irara_lin1721} como reservatório para abastecimento ou geração de energia.”
+- **Roteiro IRARA, linha 1722** {#roteiro_irara_lin1722} 4.5.2.3
+- **Roteiro IRARA, linha 1723** {#roteiro_irara_lin1723} Aba Análise de inconsistências adicionais e/ou temas complementares
+- **Roteiro IRARA, linha 1724** {#roteiro_irara_lin1724} Situação 01: Caso o técnico identifique a existência de reservatórios para abastecimento ou
+- **Roteiro IRARA, linha 1725** {#roteiro_irara_lin1725} geração de energia que não foram vetorizados pelo cadastrante, deverá realizar a classificação
+- **Roteiro IRARA, linha 1726** {#roteiro_irara_lin1726} da
+- **Roteiro IRARA, linha 1727** {#roteiro_irara_lin1727} área
+- **Roteiro IRARA, linha 1728** {#roteiro_irara_lin1728} de
+- **Roteiro IRARA, linha 1729** {#roteiro_irara_lin1729} servidão
+- **Roteiro IRARA, linha 1730** {#roteiro_irara_lin1730} administrativa
+- **Roteiro IRARA, linha 1731** {#roteiro_irara_lin1731} e
+- **Roteiro IRARA, linha 1732** {#roteiro_irara_lin1732} encaminhá-la
+- **Roteiro IRARA, linha 1733** {#roteiro_irara_lin1733} (arquivo
+- **Roteiro IRARA, linha 1734** {#roteiro_irara_lin1734} vetorial)
+- **Roteiro IRARA, linha 1735** {#roteiro_irara_lin1735} ao
+- **Roteiro IRARA, linha 1736** {#roteiro_irara_lin1736} proprietário/possuidor.Paratanto, será necessário adicionar uma nova inconsistência.
+- **Roteiro IRARA, linha 1737** {#roteiro_irara_lin1737} Procedimento: Com auxílio de um software SIG (QGIS/ArcGIS) e baseando-se nas informações
+- **Roteiro IRARA, linha 1738** {#roteiro_irara_lin1738} já existentes sobre as áreas de Servidão da plataforma GeoSICAR e as plataformas do MAP
+- **Roteiro IRARA, linha 1739** {#roteiro_irara_lin1739} BIOMAS, BRASIL MAIS, o técnico irá elaborar a sugestão de classificação em formato shapefile.
+- **Roteiro IRARA, linha 1740** {#roteiro_irara_lin1740} Para que o SICAR consiga “ler” adequadamente este arquivo, é necessário realizara
+- **Roteiro IRARA, linha 1741** {#roteiro_irara_lin1741} compactação selecionando apenas os formatos .dbf, .shp, .shxe.prj.
+- **Roteiro IRARA, linha 1742** {#roteiro_irara_lin1742} Na aba “Análise de inconsistências adicionais e/ou temas complementares”, selecione a opção
+- **Roteiro IRARA, linha 1743** {#roteiro_irara_lin1743} “analisar” para iniciar. Marque a opção “incluir vetorização” para habilitar a imagem de satélite
+- **Roteiro IRARA, linha 1744** {#roteiro_irara_lin1744} em que será adicionado o arquivo de classificação. Selecione a opção “Importar arquivo vetorial”
+- **Roteiro IRARA, linha 1745** {#roteiro_irara_lin1745} no canto superior esquerdo da imagem, localize e selecione o arquivo da classificação salvo no
+- **Roteiro IRARA, linha 1746** {#roteiro_irara_lin1746} computador. Se elaborado corretamente, o arquivo se abrirá sobre a imagem. A seguir preencha
+- **Roteiro IRARA, linha 1747** {#roteiro_irara_lin1747} os campos “Pendência/Inconsistência” e “Recomendação” com os textos a seguir:
+- **Roteiro IRARA, linha 1748** {#roteiro_irara_lin1748} Pendência / Inconsistência: “Há indícios de reservatórios para abastecimento ou
+- **Roteiro IRARA, linha 1749** {#roteiro_irara_lin1749} geração de energia, localizados dentro do imóvel rural, que não foram vetorizados como áreas
+- **Roteiro IRARA, linha 1750** {#roteiro_irara_lin1750} de servidão administrativa, no Módulo de Cadastro doCAR. A identificação destas áreas é
+- **Roteiro IRARA, linha 1751** {#roteiro_irara_lin1751} fundamental para obter o cálculo da área líquida do imóvel rural, sendo parâmetro de referência
+- **Roteiro IRARA, linha 1752** {#roteiro_irara_lin1752} para definição da área mínima de Reserva Legal exigida pelo art. 12 da Lei n° 12.651/2012. Caso
+- **Roteiro IRARA, linha 1753** {#roteiro_irara_lin1753} contrário, apresente esclarecimentos sobre as informações declaradas.”
+- **Roteiro IRARA, linha 1754** {#roteiro_irara_lin1754} Recomendação: “Retifique seu cadastro vetorizando as áreas de servidão administrativa e apresente
+- **Roteiro IRARA, linha 1755** {#roteiro_irara_lin1755} a documentação comprobatória.”
+- **Roteiro IRARA, linha 1756** {#roteiro_irara_lin1756} Atendimento: Selecionar a opção Retificação.
+- **Roteiro IRARA, linha 1757** {#roteiro_irara_lin1757} Solicitação de documentos: a Comprovante de propriedade/posse e/ou
+- **Roteiro IRARA, linha 1758** {#roteiro_irara_lin1758} licenciamento ambiental.
+- **Roteiro IRARA, linha 1759** {#roteiro_irara_lin1759} Ressalta-se que as áreas de servidão somente poderão ser descontadas do cálculo da
+- **Roteiro IRARA, linha 1760** {#roteiro_irara_lin1760} área de RL após o envio da documentação e verificação das informações pelo analista.
+
+### 4.6. Área de Preservação Permanente
+
+- **Roteiro IRARA, linha 1762** {#roteiro_irara_lin1762} A Lei nº 12.651/2012, art. 3º, inciso II, define as Áreas de Preservação Permanente
+- **Roteiro IRARA, linha 1763** {#roteiro_irara_lin1763} como:
+- **Roteiro IRARA, linha 1764** {#roteiro_irara_lin1764} Art. 3º Para os efeitos desta Lei, entende-se por:
+- **Roteiro IRARA, linha 1765** {#roteiro_irara_lin1765} II - Área de Preservação Permanente - APP: área protegida, coberta ou não
+- **Roteiro IRARA, linha 1766** {#roteiro_irara_lin1766} por vegetação nativa, com a função ambiental de preservar os recursos
+- **Roteiro IRARA, linha 1767** {#roteiro_irara_lin1767} hídricos, a paisagem, a estabilidade geológica e a biodiversidade, facilitar o
+- **Roteiro IRARA, linha 1768** {#roteiro_irara_lin1768} fluxo gênico de fauna e flora, proteger o solo e assegurar o bem-estar das
+- **Roteiro IRARA, linha 1769** {#roteiro_irara_lin1769} populações humanas;
+- **Roteiro IRARA, linha 1770** {#roteiro_irara_lin1770} Segundo a IN MMA 02/2014:
+- **Roteiro IRARA, linha 1771** {#roteiro_irara_lin1771} CAPÍTULO IV REGIMES ESPECIAIS SIMPLIFICADOS DO CAR
+- **Roteiro IRARA, linha 1772** {#roteiro_irara_lin1772} Seção I - Dos Assentamentos de Reforma Agrária
+- **Roteiro IRARA, linha 1773** {#roteiro_irara_lin1773} Art. 52. Será de responsabilidade do órgão fundiário competente a inscrição
+- **Roteiro IRARA, linha 1774** {#roteiro_irara_lin1774} no CAR dos assentamentos de Reforma Agrária.
+- **Roteiro IRARA, linha 1775** {#roteiro_irara_lin1775} Art. 53. A inscrição dos assentamentos de Reforma Agrária no Cadastro
+- **Roteiro IRARA, linha 1776** {#roteiro_irara_lin1776} Ambiental Rural darse-á, inicialmente, por meio do registro do seu perímetro
+- **Roteiro IRARA, linha 1777** {#roteiro_irara_lin1777} e posteriormente por meio da individualização dos lotes, quando couber, sem
+- **Roteiro IRARA, linha 1778** {#roteiro_irara_lin1778} prejuízo das demais informações previstas no Capítulo III desta Instrução
+- **Roteiro IRARA, linha 1779** {#roteiro_irara_lin1779} Normativa.
+- **Roteiro IRARA, linha 1780** {#roteiro_irara_lin1780} §1o Quando do registro do perímetro o órgão fundiário informará, por meio
+- **Roteiro IRARA, linha 1781** {#roteiro_irara_lin1781} de planilha digital, a relação de beneficiários do assentamento de reforma
+- **Roteiro IRARA, linha 1782** {#roteiro_irara_lin1782} agrária objeto de registro no CAR.
+- **Roteiro IRARA, linha 1783** {#roteiro_irara_lin1783} § 2o Quando da inscrição individualizada dos lotes contidos nos
+- **Roteiro IRARA, linha 1784** {#roteiro_irara_lin1784} assentamentos de Reforma Agrária, os assentados poderão contar com o
+- **Roteiro IRARA, linha 1785** {#roteiro_irara_lin1785} apoio do órgão fundiário competente, para proceder os respectivos cadastros
+- **Roteiro IRARA, linha 1786** {#roteiro_irara_lin1786} no CAR, nos termos do art. 8°do Decreto no7.830, de 2012.
+- **Roteiro IRARA, linha 1787** {#roteiro_irara_lin1787} § 3° Para inscrição dos assentamentos de Reforma Agrária no Cadastro
+- **Roteiro IRARA, linha 1788** {#roteiro_irara_lin1788} Ambiental Ruraldeverá ser utilizado, preferencialmente, o aplicativo
+- **Roteiro IRARA, linha 1789** {#roteiro_irara_lin1789} destinado a imóvel rural de assentamentos da reforma agrária a ser
+- **Roteiro IRARA, linha 1790** {#roteiro_irara_lin1790} disponibilizado pelo Ministério do Meio Ambiente.
+- **Roteiro IRARA, linha 1791** {#roteiro_irara_lin1791} § 4o A relação de beneficiários do assentamento, poderá sofrer alterações,
+- **Roteiro IRARA, linha 1792** {#roteiro_irara_lin1792} inclusões eexclusões dentro do CAR e a incompletude da lista não impedirá a
+- **Roteiro IRARA, linha 1793** {#roteiro_irara_lin1793} inclusão do assentamento no sistema.
+- **Roteiro IRARA, linha 1794** {#roteiro_irara_lin1794} Art. 54. Para os assentamentos de reforma agrária o registro das informações
+- **Roteiro IRARA, linha 1795** {#roteiro_irara_lin1795} ambientais obedecerá aos seguintes critérios:
+- **Roteiro IRARA, linha 1796** {#roteiro_irara_lin1796} I - para os assentamentos criados até 22 de julho de 2008, a Reserva Legal
+- **Roteiro IRARA, linha 1797** {#roteiro_irara_lin1797} será constituída com a área ocupada com a vegetação nativa existente em 22
+- **Roteiro IRARA, linha 1798** {#roteiro_irara_lin1798} de julho de 2008.
+- **Roteiro IRARA, linha 1799** {#roteiro_irara_lin1799} II - para os assentamentos criados após 22 de julho de 2008, a Reserva Legal
+- **Roteiro IRARA, linha 1800** {#roteiro_irara_lin1800} será constituída pelos percentuais definidos no art.12 da Lei nº 12.651, de
+- **Roteiro IRARA, linha 1801** {#roteiro_irara_lin1801} 2012;
+- **Roteiro IRARA, linha 1802** {#roteiro_irara_lin1802} III - para o cadastramento do perímetro do assentamento de reforma agrária
+- **Roteiro IRARA, linha 1803** {#roteiro_irara_lin1803} ou paraassentamentos onde não existe a individualização dos lotes, o cálculo
+- **Roteiro IRARA, linha 1804** {#roteiro_irara_lin1804} da faixa marginal de recomposição de Áreas de Preservação Permanente ao
+- **Roteiro IRARA, linha 1805** {#roteiro_irara_lin1805} longo ou no entorno de cursos d’água, lagos e lagoas naturaisdar-se-á em
+- **Roteiro IRARA, linha 1806** {#roteiro_irara_lin1806} função da fração ideal média do assentamento.
+- **Roteiro IRARA, linha 1807** {#roteiro_irara_lin1807} § 1o A fração ideal média do assentamento será o resultado da divisão da
+- **Roteiro IRARA, linha 1808** {#roteiro_irara_lin1808} área total do assentamento pelo número total unidades familiares, previsto
+- **Roteiro IRARA, linha 1809** {#roteiro_irara_lin1809} no ato de criação do assentamento.
+- **Roteiro IRARA, linha 1810** {#roteiro_irara_lin1810} § 2o Quando ocorrer a individualização dos lotes em assentamentos e for
+- **Roteiro IRARA, linha 1811** {#roteiro_irara_lin1811} identificada diferença entre a faixa de recomposição de APP, calculado de
+- **Roteiro IRARA, linha 1812** {#roteiro_irara_lin1812} acordo com o estabelecido no inciso III, deverá o detentor do lote recuperar
+- **Roteiro IRARA, linha 1813** {#roteiro_irara_lin1813} a faixa suplementar, calculada segundo os arts. 61-A e 61-C.
+- **Roteiro IRARA, linha 1814** {#roteiro_irara_lin1814} Art. 55. Após o registro das informações ambientais do perímetro do
+- **Roteiro IRARA, linha 1815** {#roteiro_irara_lin1815} assentamento, a individualização das informações ambientais dos lotes
+- **Roteiro IRARA, linha 1816** {#roteiro_irara_lin1816} poderá ser obtida por meio do cruzamento do polígono do lote com o
+- **Roteiro IRARA, linha 1817** {#roteiro_irara_lin1817} perímetro do assentamento.
+- **Roteiro IRARA, linha 1818** {#roteiro_irara_lin1818} Art. 56. Quando identificado o passivo ambiental em assentamentos,
+- **Roteiro IRARA, linha 1819** {#roteiro_irara_lin1819} referente às áreas de Reserva Legal, de Preservação Permanente e de Uso
+- **Roteiro IRARA, linha 1820** {#roteiro_irara_lin1820} Restrito, o cumprimento dos dispositivos da Lei no12.651, de 2012, será feito
+- **Roteiro IRARA, linha 1821** {#roteiro_irara_lin1821} mediante adesão ao PRA.
+- **Roteiro IRARA, linha 1822** {#roteiro_irara_lin1822} § 1o Caberá ao órgão fundiário competente cumprir solidariamente com os
+- **Roteiro IRARA, linha 1823** {#roteiro_irara_lin1823} assentados o disposto no caput quando as áreas de Reserva Legal nos
+- **Roteiro IRARA, linha 1824** {#roteiro_irara_lin1824} projetos de assentamentos de reforma agráriaforem coletivas.
+- **Roteiro IRARA, linha 1825** {#roteiro_irara_lin1825} § 2o Quando a área de Reserva Legal for localizada no interior do lote, o
+- **Roteiro IRARA, linha 1826** {#roteiro_irara_lin1826} assentado deverá, com apoio do órgão fundiário competente, cumprir o
+- **Roteiro IRARA, linha 1827** {#roteiro_irara_lin1827} disposto no caput.
+- **Roteiro IRARA, linha 1828** {#roteiro_irara_lin1828} Art. 57. Para a regularização do passivo de que trata o artigo anterior, a
+- **Roteiro IRARA, linha 1829** {#roteiro_irara_lin1829} assinatura do termode compromisso com o órgão ambiental competente
+- **Roteiro IRARA, linha 1830** {#roteiro_irara_lin1830} para a adesão ao Programa de Regularização Ambiental-PRA dar-se-á de
+- **Roteiro IRARA, linha 1831** {#roteiro_irara_lin1831} forma solidária pelo beneficiário e o órgão fundiário competente.
+
+### 4.6.1 APP Hidrografia
+
+- **Roteiro IRARA, linha 1833** {#roteiro_irara_lin1833} O artigo 4º, da Lei nº 12.651/2012, define os parâmetros das áreas de preservação
+- **Roteiro IRARA, linha 1834** {#roteiro_irara_lin1834} permanente em zonas rurais e urbanas, conforme a largura do curso d´água:
+- **Roteiro IRARA, linha 1835** {#roteiro_irara_lin1835} Art. 4º Considera-se Área de Preservação Permanente, em zonas rurais ou
+- **Roteiro IRARA, linha 1836** {#roteiro_irara_lin1836} urbanas, para os efeitos desta Lei:
+- **Roteiro IRARA, linha 1837** {#roteiro_irara_lin1837} - as faixas marginais de qualquer curso d’água natural perene e intermitente,
+- **Roteiro IRARA, linha 1838** {#roteiro_irara_lin1838} excluídos os efêmeros, desde a borda da calha do leito regular,em largura
+- **Roteiro IRARA, linha 1839** {#roteiro_irara_lin1839} mínima de: (IncluídopelaLeinº12.727,de2012). (Vide ADINNº4.903)
+- **Roteiro IRARA, linha 1840** {#roteiro_irara_lin1840} • 30 (trinta) metros, para os cursos d’água de menos de 10 (dez)
+- **Roteiro IRARA, linha 1841** {#roteiro_irara_lin1841} metros de largura;
+- **Roteiro IRARA, linha 1842** {#roteiro_irara_lin1842} • 50 (cinquenta) metros, para os cursos d’água que tenham de 10 (dez)
+- **Roteiro IRARA, linha 1843** {#roteiro_irara_lin1843} a 50 (cinquenta) metros de largura;
+- **Roteiro IRARA, linha 1844** {#roteiro_irara_lin1844} • 100 (cem) metros, para os cursos d’água que tenham de 50
+- **Roteiro IRARA, linha 1845** {#roteiro_irara_lin1845} (cinquenta) a 200 (duzentos) metros de largura;
+- **Roteiro IRARA, linha 1846** {#roteiro_irara_lin1846} • 200 (duzentos) metros, para os cursos d’água que tenham de 200
+- **Roteiro IRARA, linha 1847** {#roteiro_irara_lin1847} (duzentos)a600 (seiscentos)metros de largura;
+- **Roteiro IRARA, linha 1848** {#roteiro_irara_lin1848} • 500 (quinhentos) metros, para os cursos d’água que tenham largura
+- **Roteiro IRARA, linha 1849** {#roteiro_irara_lin1849} superior a 600 (seiscentos) metros;
+- **Roteiro IRARA, linha 1850** {#roteiro_irara_lin1850} • - as áreas no entorno dos lagos e lagoas naturais, em faixa com
+- **Roteiro IRARA, linha 1851** {#roteiro_irara_lin1851} largura mínima de:
+- **Roteiro IRARA, linha 1852** {#roteiro_irara_lin1852} •
+- **Roteiro IRARA, linha 1853** {#roteiro_irara_lin1853} 100 (cem) metros, em zonas rurais, exceto para o corpo d’água com
+- **Roteiro IRARA, linha 1854** {#roteiro_irara_lin1854} até 20 (vinte) hectares de superfície, cuja faixa marginal será de 50
+- **Roteiro IRARA, linha 1855** {#roteiro_irara_lin1855} (cinquenta)metros;
+- **Roteiro IRARA, linha 1856** {#roteiro_irara_lin1856} • 30 (trinta) metros, em zonas urbanas;
+- **Roteiro IRARA, linha 1857** {#roteiro_irara_lin1857} • As áreas no entorno dos reservatórios d’água artificiais, decorrentes
+- **Roteiro IRARA, linha 1858** {#roteiro_irara_lin1858} de barramento ou represamento de cursos d’água naturais, na faixa
+- **Roteiro IRARA, linha 1859** {#roteiro_irara_lin1859} definida na licença ambiental do empreendimento;
+- **Roteiro IRARA, linha 1860** {#roteiro_irara_lin1860} (Incluído
+- **Roteiro IRARA, linha 1861** {#roteiro_irara_lin1861} pela Lei nº 12.727, de 2012).
+- **Roteiro IRARA, linha 1862** {#roteiro_irara_lin1862} (VideADC Nº42) (Vide
+- **Roteiro IRARA, linha 1863** {#roteiro_irara_lin1863} ADINNº4.903)
+- **Roteiro IRARA, linha 1864** {#roteiro_irara_lin1864} §1ºNãoseráexigidaÁreadePreservaçãoPermanentenoentornodereservatório
+- **Roteiro IRARA, linha 1865** {#roteiro_irara_lin1865} s artificiais de água que não decorram de barramento ou represamento de
+- **Roteiro IRARA, linha 1866** {#roteiro_irara_lin1866} cursos d’água naturais.
+- **Roteiro IRARA, linha 1867** {#roteiro_irara_lin1867} (Redação dada pela Lei nº 12.727,
+- **Roteiro IRARA, linha 1868** {#roteiro_irara_lin1868} de 2012). (VideADCNº42) (Vide ADINNº4.903)
+- **Roteiro IRARA, linha 1869** {#roteiro_irara_lin1869} § 4º Nas acumulações naturais ou artificiais de água com superfície inferior a
+- **Roteiro IRARA, linha 1870** {#roteiro_irara_lin1870} 1 (um) hectare, fica dispensada a reserva da faixa de proteção prevista nos
+- **Roteiro IRARA, linha 1871** {#roteiro_irara_lin1871} incisos II e III do caput, vedada nova supressão de áreas de vegetação nativa,
+- **Roteiro IRARA, linha 1872** {#roteiro_irara_lin1872} salvo autorização do órgão ambiental competente do Sistema Nacional do
+- **Roteiro IRARA, linha 1873** {#roteiro_irara_lin1873} Meio Ambiente - Sisnama. (Redação dada pela Lei nº 12.727, de 2012).
+- **Roteiro IRARA, linha 1874** {#roteiro_irara_lin1874} (VideADC Nº42) (VideADINNº4.903)
+- **Roteiro IRARA, linha 1875** {#roteiro_irara_lin1875} § 5º É admitido, para a pequena propriedade ou posse rural familiar, de que
+- **Roteiro IRARA, linha 1876** {#roteiro_irara_lin1876} trata o inciso V do art. 3º desta Lei, o plantio de culturas temporárias e
+- **Roteiro IRARA, linha 1877** {#roteiro_irara_lin1877} sazonais de vazante de ciclo curto na faixa de terra que fica exposta no
+- **Roteiro IRARA, linha 1878** {#roteiro_irara_lin1878} período de vazante dos rios ou lagos, desde que não implique supressão de
+- **Roteiro IRARA, linha 1879** {#roteiro_irara_lin1879} novas áreas de vegetação nativa, seja conservada a qualidade da água e do
+- **Roteiro IRARA, linha 1880** {#roteiro_irara_lin1880} solo e seja protegida a fauna silvestre. (Vide ADCNº42) (Vide
+- **Roteiro IRARA, linha 1881** {#roteiro_irara_lin1881} ADINNº
+- **Roteiro IRARA, linha 1882** {#roteiro_irara_lin1882} 4.903)
+- **Roteiro IRARA, linha 1883** {#roteiro_irara_lin1883} § 6º Nos imóveis rurais com até 15 (quinze) módulos fiscais, é admitida, nas
+- **Roteiro IRARA, linha 1884** {#roteiro_irara_lin1884} áreas de que tratam os incisos I e II do caput deste artigo, a prática da
+- **Roteiro IRARA, linha 1885** {#roteiro_irara_lin1885} aquicultura e a infraestrutura física diretamente a ela associada, desde
+- **Roteiro IRARA, linha 1886** {#roteiro_irara_lin1886} que:(Vide ADC Nº 42)(Vide ADIN Nº 4.903)
+- **Roteiro IRARA, linha 1887** {#roteiro_irara_lin1887} - Sejam adotadas práticas sustentáveis de manejo de solo e água e de
+- **Roteiro IRARA, linha 1888** {#roteiro_irara_lin1888} recursos hídricos, garantindo sua qualidade e quantidade, de acordo com
+- **Roteiro IRARA, linha 1889** {#roteiro_irara_lin1889} norma dos Conselhos Estaduaisde Meio Ambiente;
+- **Roteiro IRARA, linha 1890** {#roteiro_irara_lin1890} - Esteja de acordo com os respectivos planos de bacia ou planos de gestão de
+- **Roteiro IRARA, linha 1891** {#roteiro_irara_lin1891} recursos hídricos;
+- **Roteiro IRARA, linha 1892** {#roteiro_irara_lin1892} - Seja realizado o licenciamento pelo órgão ambiental competente;
+- **Roteiro IRARA, linha 1893** {#roteiro_irara_lin1893} IV- O imóvel esteja inscrito no Cadastro Ambiental Rural-CAR.
+- **Roteiro IRARA, linha 1894** {#roteiro_irara_lin1894} V– não implique novas supressões de vegetação nativa. (Incluído pela Lei nº
+- **Roteiro IRARA, linha 1895** {#roteiro_irara_lin1895} 12.727,de2012).
+- **Roteiro IRARA, linha 1896** {#roteiro_irara_lin1896} Além disso, é importante destacar o art.61-A da norma citada, das disposições
+- **Roteiro IRARA, linha 1897** {#roteiro_irara_lin1897} transitórias do Código Florestal, que trata das áreas consolidada sem APP (regrada escadinha).
+- **Roteiro IRARA, linha 1898** {#roteiro_irara_lin1898} Art.61-A. Nas Áreas de Preservação Permanente, é autorizada,
+- **Roteiro IRARA, linha 1899** {#roteiro_irara_lin1899} exclusivamente, a continuidade das atividades agrossilvipastoris, de
+- **Roteiro IRARA, linha 1900** {#roteiro_irara_lin1900} ecoturismo e de turismo rural em áreas rurais consolidadas até 22 dejulho
+- **Roteiro IRARA, linha 1901** {#roteiro_irara_lin1901} de2008.
+- **Roteiro IRARA, linha 1902** {#roteiro_irara_lin1902} § 1º Para os imóveis rurais com área de até 1 (um) módulo fiscal que possuam
+- **Roteiro IRARA, linha 1903** {#roteiro_irara_lin1903} áreas consolidadas em Áreas de Preservação Permanente ao longo de cursos
+- **Roteiro IRARA, linha 1904** {#roteiro_irara_lin1904} d’água naturais, será obrigatória a recomposição das respectivas faixas
+- **Roteiro IRARA, linha 1905** {#roteiro_irara_lin1905} marginais em 5 (cinco) metros, contados da borda da calha do leito regular,
+- **Roteiro IRARA, linha 1906** {#roteiro_irara_lin1906} independentemente da largura do curso d´água.
+- **Roteiro IRARA, linha 1907** {#roteiro_irara_lin1907} §2ºParaos imóveisrurais comáreasuperiora 1 (um) módulo fiscal e de até 2
+- **Roteiro IRARA, linha 1908** {#roteiro_irara_lin1908} (dois) módulos fiscais que possuam áreas consolidadas em Áreas de
+- **Roteiro IRARA, linha 1909** {#roteiro_irara_lin1909} Preservação Permanente ao longo de cursos d’água naturais, será obrigatória a
+- **Roteiro IRARA, linha 1910** {#roteiro_irara_lin1910} recomposição das respectivas faixas marginais em 8 (oito) metros, contados
+- **Roteiro IRARA, linha 1911** {#roteiro_irara_lin1911} da borda da calha do leito regular, independentemente da largura do curso
+- **Roteiro IRARA, linha 1912** {#roteiro_irara_lin1912} d´água.
+- **Roteiro IRARA, linha 1913** {#roteiro_irara_lin1913} §3º Para os imóveis rurais com área superior a 2 (dois) módulos fiscais e de
+- **Roteiro IRARA, linha 1914** {#roteiro_irara_lin1914} até 4 (quatro) módulos fiscais que possuam áreas consolidada sem Áreas de
+- **Roteiro IRARA, linha 1915** {#roteiro_irara_lin1915} Preservação Permanente ao longo de cursos d’água naturais, será obrigatória
+- **Roteiro IRARA, linha 1916** {#roteiro_irara_lin1916} a recomposição das respectivas faixas marginais em 15 (quinze) metros,
+- **Roteiro IRARA, linha 1917** {#roteiro_irara_lin1917} contados da borda da calha do leito regular, independentemente da largura
+- **Roteiro IRARA, linha 1918** {#roteiro_irara_lin1918} do curso d’água.
+- **Roteiro IRARA, linha 1919** {#roteiro_irara_lin1919} § 4º Para os imóveis rurais com área superior a 4 (quatro) módulos fiscais que
+- **Roteiro IRARA, linha 1920** {#roteiro_irara_lin1920} possuam áreas consolidadas em Áreas de Preservação Permanente ao longo
+- **Roteiro IRARA, linha 1921** {#roteiro_irara_lin1921} de cursos d’água naturais, será obrigatória a recomposição das respectivas
+- **Roteiro IRARA, linha 1922** {#roteiro_irara_lin1922} faixas marginais:
+- **Roteiro IRARA, linha 1923** {#roteiro_irara_lin1923} I -(VETADO); e
+- **Roteiro IRARA, linha 1924** {#roteiro_irara_lin1924} II - Nos demais casos, conforme determinação do PRA, observado o mínimo
+- **Roteiro IRARA, linha 1925** {#roteiro_irara_lin1925} de 20 (vinte) e o máximo de 100 (cem) metros, contados da borda da calha
+- **Roteiro IRARA, linha 1926** {#roteiro_irara_lin1926} do leito regular.
+- **Roteiro IRARA, linha 1927** {#roteiro_irara_lin1927} §5º Nos casos de áreas rurais consolidada sem Áreas de Preservação
+- **Roteiro IRARA, linha 1928** {#roteiro_irara_lin1928} Permanente no entorno de nascentes e olhos d’água perenes, será admitida
+- **Roteiro IRARA, linha 1929** {#roteiro_irara_lin1929} a manutenção de atividades agrossilvipastoris, de ecoturismo ou de turismo
+- **Roteiro IRARA, linha 1930** {#roteiro_irara_lin1930} rural, sendo obrigatória a recomposição do raio mínimo de 15 (quinze)
+- **Roteiro IRARA, linha 1931** {#roteiro_irara_lin1931} metros.
+- **Roteiro IRARA, linha 1932** {#roteiro_irara_lin1932} §6º Para os imóveis rurais que possuam áreas consolidadas em Áreas de
+- **Roteiro IRARA, linha 1933** {#roteiro_irara_lin1933} Preservação Permanente no entorno de lagos e lagoas naturais, será admitida
+- **Roteiro IRARA, linha 1934** {#roteiro_irara_lin1934} a manutenção de atividades agrossilvipastoris, de ecoturismo ou de turismo
+- **Roteiro IRARA, linha 1935** {#roteiro_irara_lin1935} rural, sendo obrigatória a recomposição de faixa marginal com largura
+- **Roteiro IRARA, linha 1936** {#roteiro_irara_lin1936} mínima de:
+- **Roteiro IRARA, linha 1937** {#roteiro_irara_lin1937} I - 5 (cinco) metros, para imóveis rurais com área de até 1 (um) módulo fiscal;
+- **Roteiro IRARA, linha 1938** {#roteiro_irara_lin1938} II - 8 (oito) metros, para imóveis rurais com área superior a 1 (um) módulo
+- **Roteiro IRARA, linha 1939** {#roteiro_irara_lin1939} fiscal e de até 2 (dois) módulos fiscais;
+- **Roteiro IRARA, linha 1940** {#roteiro_irara_lin1940} III -15 (quinze) metros, para imóveis rurais com área superior a 2 (dois)
+- **Roteiro IRARA, linha 1941** {#roteiro_irara_lin1941} módulos fiscais e de até 4 (quatro) módulos fiscais; e (Incluído pela Leinº
+- **Roteiro IRARA, linha 1942** {#roteiro_irara_lin1942} 12.727, de 2012).
+- **Roteiro IRARA, linha 1943** {#roteiro_irara_lin1943} IV - 30 (trinta) metros, para imóveis rurais com área superior a 4 (quatro)
+- **Roteiro IRARA, linha 1944** {#roteiro_irara_lin1944} módulos fiscais. (Incluído pela Lei nº 12.727, de 2012).
+- **Roteiro IRARA, linha 1945** {#roteiro_irara_lin1945} §8º Será considerada, para os fins do disposto no caput e nos §§1º a 7º, a área
+- **Roteiro IRARA, linha 1946** {#roteiro_irara_lin1946} detida pelo imóvel rural em 22 de julho de 2008. (IncluídopelaLeinº12.727, de
+- **Roteiro IRARA, linha 1947** {#roteiro_irara_lin1947} 2012).
+- **Roteiro IRARA, linha 1948** {#roteiro_irara_lin1948} §9º A existência das situações previstas no caput deverá ser informada no
+- **Roteiro IRARA, linha 1949** {#roteiro_irara_lin1949} CAR para fins de monitoramento, sendo exigida, nesses casos, a adoção de
+- **Roteiro IRARA, linha 1950** {#roteiro_irara_lin1950} técnicas de conservação do solo e da água que visem à mitigação dos eventuais
+- **Roteiro IRARA, linha 1951** {#roteiro_irara_lin1951} impactos. (Incluído pela Lei nº 12.727,de 2012).
+- **Roteiro IRARA, linha 1952** {#roteiro_irara_lin1952} §10. Antes mesmo da disponibilização do CAR, no caso das intervenções já
+- **Roteiro IRARA, linha 1953** {#roteiro_irara_lin1953} existentes, é o proprietário ou possuidor rural responsável pela conservação
+- **Roteiro IRARA, linha 1954** {#roteiro_irara_lin1954} do solo e da água, por meio de adoção de boas práticas agronômicas.(Incluído
+- **Roteiro IRARA, linha 1955** {#roteiro_irara_lin1955} pela Lei nº 12.727, de 2012).
+- **Roteiro IRARA, linha 1956** {#roteiro_irara_lin1956} §11. A realização das atividades previstas no caput observará critérios
+- **Roteiro IRARA, linha 1957** {#roteiro_irara_lin1957} técnicos de conservação do solo e da água indicados no PRA previsto nesta
+- **Roteiro IRARA, linha 1958** {#roteiro_irara_lin1958} Lei, sendo vedada a conversão de novas áreas para uso alternativo do solo
+- **Roteiro IRARA, linha 1959** {#roteiro_irara_lin1959} nesses locais. (Incluído pela Lei nº 12.727, de2012).
+- **Roteiro IRARA, linha 1960** {#roteiro_irara_lin1960} Quadro 4. Áreas de Preservação Permanente (APP) e necessidades de recuperação em áreas rurais de
+- **Roteiro IRARA, linha 1961** {#roteiro_irara_lin1961} uso consolidado em APP, conforme a Lei nº 12.651/2012
+- **Roteiro IRARA, linha 1962** {#roteiro_irara_lin1962} Natureza da APP
+- **Roteiro IRARA, linha 1963** {#roteiro_irara_lin1963} Parâmetro de classificação
+- **Roteiro IRARA, linha 1964** {#roteiro_irara_lin1964} (áreadoimóvel em22/07/2008)
+- **Roteiro IRARA, linha 1965** {#roteiro_irara_lin1965} APP (Art.4º)
+- **Roteiro IRARA, linha 1966** {#roteiro_irara_lin1966} <1MóduloFiscal (MF)
+- **Roteiro IRARA, linha 1967** {#roteiro_irara_lin1967} 1 a 2 MF
+- **Roteiro IRARA, linha 1968** {#roteiro_irara_lin1968} > 2 até4 MF
+- **Roteiro IRARA, linha 1969** {#roteiro_irara_lin1969} Curso d’água natural
+- **Roteiro IRARA, linha 1970** {#roteiro_irara_lin1970} Variável conforme
+- **Roteiro IRARA, linha 1971** {#roteiro_irara_lin1971} largura do curso
+- **Roteiro IRARA, linha 1972** {#roteiro_irara_lin1972} d’água natural
+- **Roteiro IRARA, linha 1973** {#roteiro_irara_lin1973} > 4 MF
+- **Roteiro IRARA, linha 1974** {#roteiro_irara_lin1974} Entorno de nascentes e
+- **Roteiro IRARA, linha 1975** {#roteiro_irara_lin1975} olhos d'água perenes
+- **Roteiro IRARA, linha 1976** {#roteiro_irara_lin1976} Veredas
+- **Roteiro IRARA, linha 1977** {#roteiro_irara_lin1977} Entorno de lagos e
+- **Roteiro IRARA, linha 1978** {#roteiro_irara_lin1978} lagoas naturais
+- **Roteiro IRARA, linha 1979** {#roteiro_irara_lin1979} Todos os estabelecimentos
+- **Roteiro IRARA, linha 1980** {#roteiro_irara_lin1980} Até 4MF
+- **Roteiro IRARA, linha 1981** {#roteiro_irara_lin1981} Acimade4 MF
+- **Roteiro IRARA, linha 1982** {#roteiro_irara_lin1982} Até 20 ha de superfície, em zonas
+- **Roteiro IRARA, linha 1983** {#roteiro_irara_lin1983} rurais
+- **Roteiro IRARA, linha 1984** {#roteiro_irara_lin1984} Entorno
+- **Roteiro IRARA, linha 1985** {#roteiro_irara_lin1985} das
+- **Roteiro IRARA, linha 1986** {#roteiro_irara_lin1986} acumulações naturais
+- **Roteiro IRARA, linha 1987** {#roteiro_irara_lin1987} ou artificiais de água
+- **Roteiro IRARA, linha 1988** {#roteiro_irara_lin1988} Raio mínimo
+- **Roteiro IRARA, linha 1989** {#roteiro_irara_lin1989} de15 m
+- **Roteiro IRARA, linha 1990** {#roteiro_irara_lin1990} Raio mínimo de 50m
+- **Roteiro IRARA, linha 1991** {#roteiro_irara_lin1991} Raio mínimo de 50m
+- **Roteiro IRARA, linha 1992** {#roteiro_irara_lin1992} Raio de30m
+- **Roteiro IRARA, linha 1993** {#roteiro_irara_lin1993} Raio de50m
+- **Roteiro IRARA, linha 1994** {#roteiro_irara_lin1994} 50m
+- **Roteiro IRARA, linha 1995** {#roteiro_irara_lin1995} Acimade20hadesuperfícieemzonasr
+- **Roteiro IRARA, linha 1996** {#roteiro_irara_lin1996} urais
+- **Roteiro IRARA, linha 1997** {#roteiro_irara_lin1997} 100m
+- **Roteiro IRARA, linha 1998** {#roteiro_irara_lin1998} Zonas urbanas
+- **Roteiro IRARA, linha 1999** {#roteiro_irara_lin1999} 30m
+- **Roteiro IRARA, linha 2000** {#roteiro_irara_lin2000} < 1 MF
+- **Roteiro IRARA, linha 2001** {#roteiro_irara_lin2001} 5m
+- **Roteiro IRARA, linha 2002** {#roteiro_irara_lin2002} 1 a 2 MF
+- **Roteiro IRARA, linha 2003** {#roteiro_irara_lin2003} 8m
+- **Roteiro IRARA, linha 2004** {#roteiro_irara_lin2004} > 2 até4 MF
+- **Roteiro IRARA, linha 2005** {#roteiro_irara_lin2005} 15m
+- **Roteiro IRARA, linha 2006** {#roteiro_irara_lin2006} > 4 MF
+- **Roteiro IRARA, linha 2007** {#roteiro_irara_lin2007} 30m
+- **Roteiro IRARA, linha 2008** {#roteiro_irara_lin2008} Até20hadesuperfície
+- **Roteiro IRARA, linha 2009** {#roteiro_irara_lin2009} Entorno
+- **Roteiro IRARA, linha 2010** {#roteiro_irara_lin2010} de
+- **Roteiro IRARA, linha 2011** {#roteiro_irara_lin2011} reservatórios artificiais
+- **Roteiro IRARA, linha 2012** {#roteiro_irara_lin2012} em
+- **Roteiro IRARA, linha 2013** {#roteiro_irara_lin2013} áreas
+- **Roteiro IRARA, linha 2014** {#roteiro_irara_lin2014} rurais
+- **Roteiro IRARA, linha 2015** {#roteiro_irara_lin2015} provenientes
+- **Roteiro IRARA, linha 2016** {#roteiro_irara_lin2016} de
+- **Roteiro IRARA, linha 2017** {#roteiro_irara_lin2017} barramento
+- **Roteiro IRARA, linha 2018** {#roteiro_irara_lin2018} ou
+- **Roteiro IRARA, linha 2019** {#roteiro_irara_lin2019} represamento de curso
+- **Roteiro IRARA, linha 2020** {#roteiro_irara_lin2020} d’água
+- **Roteiro IRARA, linha 2021** {#roteiro_irara_lin2021} Faixa
+- **Roteiro IRARA, linha 2022** {#roteiro_irara_lin2022} a
+- **Roteiro IRARA, linha 2023** {#roteiro_irara_lin2023} ser
+- **Roteiro IRARA, linha 2024** {#roteiro_irara_lin2024} recuperada
+- **Roteiro IRARA, linha 2025** {#roteiro_irara_lin2025} e
+- **Roteiro IRARA, linha 2026** {#roteiro_irara_lin2026} preservada nos casos
+- **Roteiro IRARA, linha 2027** {#roteiro_irara_lin2027} de
+- **Roteiro IRARA, linha 2028** {#roteiro_irara_lin2028} áreas
+- **Roteiro IRARA, linha 2029** {#roteiro_irara_lin2029} consolidadas (Art.61A)4
+- **Roteiro IRARA, linha 2030** {#roteiro_irara_lin2030} 5 m, independente da
+- **Roteiro IRARA, linha 2031** {#roteiro_irara_lin2031} largura do rio
+- **Roteiro IRARA, linha 2032** {#roteiro_irara_lin2032} 8 m, independente da
+- **Roteiro IRARA, linha 2033** {#roteiro_irara_lin2033} largura do rio
+- **Roteiro IRARA, linha 2034** {#roteiro_irara_lin2034} 15m, independente
+- **Roteiro IRARA, linha 2035** {#roteiro_irara_lin2035} da largura do rio
+- **Roteiro IRARA, linha 2036** {#roteiro_irara_lin2036} Mínimo 20 m e máximo
+- **Roteiro IRARA, linha 2037** {#roteiro_irara_lin2037} 100 m, conforme PRA
+- **Roteiro IRARA, linha 2038** {#roteiro_irara_lin2038} (Programa
+- **Roteiro IRARA, linha 2039** {#roteiro_irara_lin2039} de
+- **Roteiro IRARA, linha 2040** {#roteiro_irara_lin2040} Regularização
+- **Roteiro IRARA, linha 2041** {#roteiro_irara_lin2041} Ambiental)
+- **Roteiro IRARA, linha 2042** {#roteiro_irara_lin2042} Área rural
+- **Roteiro IRARA, linha 2043** {#roteiro_irara_lin2043} Área urbana
+- **Roteiro IRARA, linha 2044** {#roteiro_irara_lin2044} Geração de energia ou abastecimento
+- **Roteiro IRARA, linha 2045** {#roteiro_irara_lin2045} público contratos de concessão ou
+- **Roteiro IRARA, linha 2046** {#roteiro_irara_lin2046} autorização
+- **Roteiro IRARA, linha 2047** {#roteiro_irara_lin2047} assinados
+- **Roteiro IRARA, linha 2048** {#roteiro_irara_lin2048} anteriormente
+- **Roteiro IRARA, linha 2049** {#roteiro_irara_lin2049} à
+- **Roteiro IRARA, linha 2050** {#roteiro_irara_lin2050} MP2.166-67, de24/8/2001
+- **Roteiro IRARA, linha 2051** {#roteiro_irara_lin2051} Superfície<1ha
+- **Roteiro IRARA, linha 2052** {#roteiro_irara_lin2052} 15m
+- **Roteiro IRARA, linha 2053** {#roteiro_irara_lin2053} Cf. licença
+- **Roteiro IRARA, linha 2054** {#roteiro_irara_lin2054} ambiental mínimo
+- **Roteiro IRARA, linha 2055** {#roteiro_irara_lin2055} 30 e máximo 100m
+- **Roteiro IRARA, linha 2056** {#roteiro_irara_lin2056} Cf. licença
+- **Roteiro IRARA, linha 2057** {#roteiro_irara_lin2057} ambiental mínimo
+- **Roteiro IRARA, linha 2058** {#roteiro_irara_lin2058} 15 e máximo 30m
+- **Roteiro IRARA, linha 2059** {#roteiro_irara_lin2059} Art.
+- **Roteiro IRARA, linha 2060** {#roteiro_irara_lin2060} distânciaentre nível
+- **Roteiro IRARA, linha 2061** {#roteiro_irara_lin2061} máx.
+- **Roteiro IRARA, linha 2062** {#roteiro_irara_lin2062} operativo
+- **Roteiro IRARA, linha 2063** {#roteiro_irara_lin2063} normal e
+- **Roteiro IRARA, linha 2064** {#roteiro_irara_lin2064} cota
+- **Roteiro IRARA, linha 2065** {#roteiro_irara_lin2065} máxima
+- **Roteiro IRARA, linha 2066** {#roteiro_irara_lin2066} máximo rum
+- **Roteiro IRARA, linha 2067** {#roteiro_irara_lin2067} Dispensada
+- **Roteiro IRARA, linha 2068** {#roteiro_irara_lin2068} APP
+- **Roteiro IRARA, linha 2069** {#roteiro_irara_lin2069} (vedada
+- **Roteiro IRARA, linha 2070** {#roteiro_irara_lin2070} nova
+- **Roteiro IRARA, linha 2071** {#roteiro_irara_lin2071} supressão de áreas
+- **Roteiro IRARA, linha 2072** {#roteiro_irara_lin2072} de
+- **Roteiro IRARA, linha 2073** {#roteiro_irara_lin2073} vegetação
+- **Roteiro IRARA, linha 2074** {#roteiro_irara_lin2074} nativa)
+- **Roteiro IRARA, linha 2075** {#roteiro_irara_lin2075} Art. 61-B. A exigência de recomposição, somadas todas as APPs do imóvel, não ultrapassará: I –
+- **Roteiro IRARA, linha 2076** {#roteiro_irara_lin2076} 10% da área total do imóvel com área de até 2 MF; e II – 20% da área total do imóvel com área superior a
+- **Roteiro IRARA, linha 2077** {#roteiro_irara_lin2077} 2 e até 4 MF. Art. 61-C. Para os assentamentos do Programa de Reforma Agrária valerão os limites de cada
+- **Roteiro IRARA, linha 2078** {#roteiro_irara_lin2078} área demarcada individualmente. Art. 4. § 1º. Nãoserá exigida APP no entorno de reservatórios artificiais de
+- **Roteiro IRARA, linha 2079** {#roteiro_irara_lin2079} água que não decorram de barramento ou represamento de cursos d´água naturais.
+- **Roteiro IRARA, linha 2080** {#roteiro_irara_lin2080} Figura 38. APP Hidrografia conformeaLei nº 12.651/2012
+- **Roteiro IRARA, linha 2081** {#roteiro_irara_lin2081} A existência de áreas consolidadas em APP é informada no CAR para fins de
+- **Roteiro IRARA, linha 2082** {#roteiro_irara_lin2082} monitoramento, sendo exigida a adoção de técnicas de conservação do solo e da água que visem
+- **Roteiro IRARA, linha 2083** {#roteiro_irara_lin2083} à mitigação dos eventuais impactos.
+- **Roteiro IRARA, linha 2084** {#roteiro_irara_lin2084} Conforme a Lei Estadual nº 8.014/1984, art. 3º, §1º, o uso adequado do solo
+- **Roteiro IRARA, linha 2085** {#roteiro_irara_lin2085} corresponde a adoção de um conjunto de práticas e procedimentos que visem à conservação,
+- **Roteiro IRARA, linha 2086** {#roteiro_irara_lin2086} ao melhoramento e à conservação do solo, atendendo a função socioeconômica da propriedade.
+- **Roteiro IRARA, linha 2087** {#roteiro_irara_lin2087} 4.6.1.1
+- **Roteiro IRARA, linha 2088** {#roteiro_irara_lin2088} cadastrante
+- **Roteiro IRARA, linha 2089** {#roteiro_irara_lin2089} Aba Análise de APP em função de hidrografia vetorizada pelo
+- **Roteiro IRARA, linha 2090** {#roteiro_irara_lin2090} O técnico deverá verificar se há inconsistências nas áreas vetorizadas pelo cadastrante
+- **Roteiro IRARA, linha 2091** {#roteiro_irara_lin2091} referente à hidrografia do imóvel rural. Para tanto, deverá utilizar a base cartográfica disponível
+- **Roteiro IRARA, linha 2092** {#roteiro_irara_lin2092} no GeoSICAR e atentar-se para a largura do rio, existência de deslocamentos e para hidrografias
+- **Roteiro IRARA, linha 2093** {#roteiro_irara_lin2093} inexistentes.
+- **Roteiro IRARA, linha 2094** {#roteiro_irara_lin2094} Figura 39. Aba Análise da APP em função da hidrografia vetorizada pelo cadastrante
+- **Roteiro IRARA, linha 2095** {#roteiro_irara_lin2095} O técnico deverá selecionar o tipo de inconsistência relacionada às hidrografias vetorizadas
+- **Roteiro IRARA, linha 2096** {#roteiro_irara_lin2096} pelo cadastrante, conforme as seguintes situações:
+- **Roteiro IRARA, linha 2097** {#roteiro_irara_lin2097} Situação 01: Caso o técnico verifique que a largura do curso d’água difere da classe de
+- **Roteiro IRARA, linha 2098** {#roteiro_irara_lin2098} hidrografia selecionada e vetorizada pelo cadastrante, deverá adicionar uma inconsistência,
+- **Roteiro IRARA, linha 2099** {#roteiro_irara_lin2099} selecionando a opção “Classe de APP hidrografia inadequada”. Além disso, deverá incluir
+- **Roteiro IRARA, linha 2100** {#roteiro_irara_lin2100} marcadores para indicar as áreas em que as inconsistências foram identificadas.
+- **Roteiro IRARA, linha 2101** {#roteiro_irara_lin2101} Figura 40. Classe de APP hidrografia inadequada. Nesse caso, o proprietário/possuidor declarou um
+- **Roteiro IRARA, linha 2102** {#roteiro_irara_lin2102} curso d´água de até 10 metros, sendo que o correto seria a classe de 10 a 50metros
+- **Roteiro IRARA, linha 2103** {#roteiro_irara_lin2103} Situação 02: Caso o técnico verifique que há deslocamentos em relação à localização das
+- **Roteiro IRARA, linha 2104** {#roteiro_irara_lin2104} hidrografias nas imagens de satélite, deverá adicionar um a inconsistência, selecionando a
+- **Roteiro IRARA, linha 2105** {#roteiro_irara_lin2105} opção “Deslocamento”. Além disso, o técnico deverá incluir marcadores para indicar as áreas
+- **Roteiro IRARA, linha 2106** {#roteiro_irara_lin2106} em que as inconsistências foram identificadas.
+- **Roteiro IRARA, linha 2107** {#roteiro_irara_lin2107} Figura 41. Curso d´água deslocada em relação à realidade do imóvel
+- **Roteiro IRARA, linha 2108** {#roteiro_irara_lin2108} Situação 03: Caso o técnico verifique que a hidrografia vetorizada não existe no imóvel rural,
+- **Roteiro IRARA, linha 2109** {#roteiro_irara_lin2109} deverá adicionar uma inconsistência, selecionando a opção “Hidrografia inexistente”. Além disso,
+- **Roteiro IRARA, linha 2110** {#roteiro_irara_lin2110} o técnico deverá incluir marcadores para indicar as áreas em que as inconsistências foram
+- **Roteiro IRARA, linha 2111** {#roteiro_irara_lin2111} identificadas.
+- **Roteiro IRARA, linha 2112** {#roteiro_irara_lin2112} Situação 04: O técnico deverá ficar atento aos imóveis que possuem tanques/viveiros de
+- **Roteiro IRARA, linha 2113** {#roteiro_irara_lin2113} piscicultura. Nos imóveis com mais de 01 tanque/viveiro e que estejam a uma distância inferior
+- **Roteiro IRARA, linha 2114** {#roteiro_irara_lin2114} a 30 metros, deverá ser considerado o somatório das superfícies (lâminas d´água). Além disso,
+- **Roteiro IRARA, linha 2115** {#roteiro_irara_lin2115} verificada a existência de tanques, açudes, viveiros, pequenos reservatórios destinados à
+- **Roteiro IRARA, linha 2116** {#roteiro_irara_lin2116} produção de peixes cuja lâmina d’água seja superior a 20.000 m 2, deverá ser solicitado o
+- **Roteiro IRARA, linha 2117** {#roteiro_irara_lin2117} Licenciamento Ambiental.
+- **Roteiro IRARA, linha 2118** {#roteiro_irara_lin2118} Figura 42. Tanques/viveiros não declarados no CAR
+- **Roteiro IRARA, linha 2119** {#roteiro_irara_lin2119} 4.6.1.2
+- **Roteiro IRARA, linha 2120** {#roteiro_irara_lin2120} cadastrante
+- **Roteiro IRARA, linha 2121** {#roteiro_irara_lin2121} Aba Análise de APP em função de hidrografia não vetorizada pelo
+- **Roteiro IRARA, linha 2122** {#roteiro_irara_lin2122} O técnico deverá verificar, por meio da base cartográfica disponibilizada no GeoSICAR,
+- **Roteiro IRARA, linha 2123** {#roteiro_irara_lin2123} se existe alguma hidrografia que não foi declarada pelo proprietário/possuidor. Caso exista,
+- **Roteiro IRARA, linha 2124** {#roteiro_irara_lin2124} deverá adicionar uma inconsistência.
+- **Roteiro IRARA, linha 2125** {#roteiro_irara_lin2125} Figura 43. Adicionar Inconsistencia
+- **Roteiro IRARA, linha 2126** {#roteiro_irara_lin2126} Figura 59. Adicionar uma inconsistência
+- **Roteiro IRARA, linha 2127** {#roteiro_irara_lin2127} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 2128** {#roteiro_irara_lin2128} abrirá e o técnico deverá selecionar a classe correspondente à hidrografia que não foi vetorizada
+- **Roteiro IRARA, linha 2129** {#roteiro_irara_lin2129} (
+- **Roteiro IRARA, linha 2130** {#roteiro_irara_lin2130} ). Em seguida, adicionar os marcadores
+- **Roteiro IRARA, linha 2131** {#roteiro_irara_lin2131} sobre a área correspondente (
+- **Roteiro IRARA, linha 2132** {#roteiro_irara_lin2132} ) e habilitar a caixa “Enviar arquivo vetorial ao
+- **Roteiro IRARA, linha 2133** {#roteiro_irara_lin2133} proprietário/possuidor”. Os pontos adicionados são enumerados e podem ser vistos em
+- **Roteiro IRARA, linha 2134** {#roteiro_irara_lin2134} “Geometria vetorizada”. Por fim, o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 2135** {#roteiro_irara_lin2135} Adicionar observação: “Há indícios de hidrografias que não foram declaradas dentro ou no
+- **Roteiro IRARA, linha 2136** {#roteiro_irara_lin2136} limite do imóvel rural. Retifique seu cadastro inserindo as áreas conforme indicado neste parecer.
+- **Roteiro IRARA, linha 2137** {#roteiro_irara_lin2137} Caso não concorde com a indicação técnica, apresente o Laudo Técnico ou fotografia da área
+- **Roteiro IRARA, linha 2138** {#roteiro_irara_lin2138} com declaração de um técnico de instituição oficial, de qualquer das esferas administrativas,
+- **Roteiro IRARA, linha 2139** {#roteiro_irara_lin2139} envolvida com assistência técnica, pesquisa ou academia, atestando a inexistência das
+- **Roteiro IRARA, linha 2140** {#roteiro_irara_lin2140} hidrografias no imóvel rural. O modelo do laudo técnico pode ser obtido no site do IAT
+- **Roteiro IRARA, linha 2141** {#roteiro_irara_lin2141} (http://www.iat.pr.gov.br/Pagina/Cadastro-Ambiental-Rural-CAR
+- **Roteiro IRARA, linha 2142** {#roteiro_irara_lin2142} –
+- **Roteiro IRARA, linha 2143** {#roteiro_irara_lin2143} Pasta
+- **Roteiro IRARA, linha 2144** {#roteiro_irara_lin2144} “Documentos”
+- **Roteiro IRARA, linha 2145** {#roteiro_irara_lin2145} –
+- **Roteiro IRARA, linha 2146** {#roteiro_irara_lin2146} “Modelo de Laudo Técnico SICAR).”
+- **Roteiro IRARA, linha 2147** {#roteiro_irara_lin2147} Solicitação de documentos: Selecionar as opções Laudo Técnico e a ART.
+- **Roteiro IRARA, linha 2148** {#roteiro_irara_lin2148} Figura 44. Hidrografia não vetorizada pelo cadastrante
+- **Roteiro IRARA, linha 2149** {#roteiro_irara_lin2149} O técnico também poderá optar por adicionar um arquivo vetorial (shapefile
+- **Roteiro IRARA, linha 2150** {#roteiro_irara_lin2150} compactado com os formatos dbf, .shp, .shxe. prj)-
+- **Roteiro IRARA, linha 2151** {#roteiro_irara_lin2151} com a identificação dos polígonos
+- **Roteiro IRARA, linha 2152** {#roteiro_irara_lin2152} referentes às hidrografias não vetorizadas pelo cadastrante, seguindo os mesmos passos
+- **Roteiro IRARA, linha 2153** {#roteiro_irara_lin2153} descritos acima.
+- **Roteiro IRARA, linha 2154** {#roteiro_irara_lin2154} Ressalta-se que os cursos d´água que foram suprimidos até 22/07/2008 não devem
+- **Roteiro IRARA, linha 2155** {#roteiro_irara_lin2155} ser vetorizados pelo cadastrante. Nesses casos, o curso d´água existe na base cartográfica,
+- **Roteiro IRARA, linha 2156** {#roteiro_irara_lin2156} disponível no GeoSICAR, porém, por meio da análise temporal das imagens de satélite, é
+- **Roteiro IRARA, linha 2157** {#roteiro_irara_lin2157} perceptível que não existe no terreno (foi suprimido).
+- **Roteiro IRARA, linha 2158** {#roteiro_irara_lin2158} Figura 45. À esquerda, curso d´água constante na base cartográfica de hidrografia do Estado do Paraná.
+- **Roteiro IRARA, linha 2159** {#roteiro_irara_lin2159} À direita, verificação da inexistência do curso d´água no Google Earth
+- **Roteiro IRARA, linha 2160** {#roteiro_irara_lin2160} 4.6.1.3
+- **Roteiro IRARA, linha 2161** {#roteiro_irara_lin2161} Aba Análise de cobertura do solo na APP em função de hidrografia
+- **Roteiro IRARA, linha 2162** {#roteiro_irara_lin2162} vetorizada pelo cadastrante
+- **Roteiro IRARA, linha 2163** {#roteiro_irara_lin2163} Na APP Hidrografia, o técnico deverá verificar se o proprietário/possuidor aderiu ao
+- **Roteiro IRARA, linha 2164** {#roteiro_irara_lin2164} Programa de Regularização Ambiental (PRA). O técnico poderá observar a resposta no quadro
+- **Roteiro IRARA, linha 2165** {#roteiro_irara_lin2165} resumo da APP e também na Aba “Detalhes do Imóvel”, entrando em “Informações”.
+- **Roteiro IRARA, linha 2166** {#roteiro_irara_lin2166} Figura 46. Ficha do imóvel quanto a adesão ao Programa de Regularização Ambiental
+- **Roteiro IRARA, linha 2167** {#roteiro_irara_lin2167} Caso o proprietário/possuidor tenha respondido “Sim” à adesão ao PRA, um dos
+- **Roteiro IRARA, linha 2168** {#roteiro_irara_lin2168} benefícios previsto em lei é a possibilidade de recompor a área de APP de feições hidrográficas
+- **Roteiro IRARA, linha 2169** {#roteiro_irara_lin2169} conforme a “Regra da Escadinha”. Caso tenha respondido “Não” à adesão ao PRA, o sistema
+- **Roteiro IRARA, linha 2170** {#roteiro_irara_lin2170} automaticamente irá calcular a área a recompor conforme estabelecido no art. 4º, da Lei nº
+- **Roteiro IRARA, linha 2171** {#roteiro_irara_lin2171} 12.651/2012.
+- **Roteiro IRARA, linha 2172** {#roteiro_irara_lin2172} Figura 47. Quadro Resumo da APP Hidrografia quanto a adesão ao PRA e áreas a recompor
+- **Roteiro IRARA, linha 2173** {#roteiro_irara_lin2173} O técnico deverá avaliar a cobertura do solo nos polígonos de APP em função da
+- **Roteiro IRARA, linha 2174** {#roteiro_irara_lin2174} hidrografia vetorizada pelo cadastrante a fim de adicionar/manter inconsistências, indicando ao
+- **Roteiro IRARA, linha 2175** {#roteiro_irara_lin2175} proprietário/possuidor as áreas passíveis de regularização ambiental dentro do imóvel. Para os
+- **Roteiro IRARA, linha 2176** {#roteiro_irara_lin2176} polígonos de APP sobrepostos à área antropizada não consolidada, a recomposição deverá
+- **Roteiro IRARA, linha 2177** {#roteiro_irara_lin2177} ocorrer em sua totalidade; já àqueles sobrepostos à área consolidada, a faixa de recomposição
+- **Roteiro IRARA, linha 2178** {#roteiro_irara_lin2178} será conforme descrito no art.61-AdaLein°12.651/2012.
+- **Roteiro IRARA, linha 2179** {#roteiro_irara_lin2179} Nesta etapa da análise, o técnico também deverá se atentar para que não existam
+- **Roteiro IRARA, linha 2180** {#roteiro_irara_lin2180} inconsistências relacionadas à aba “Cobertura do Solo”. Isso garante que a identificação das
+- **Roteiro IRARA, linha 2181** {#roteiro_irara_lin2181} áreas antropizadas não consolidadas e/ou áreas consolidadas pendentes de recomposição
+- **Roteiro IRARA, linha 2182** {#roteiro_irara_lin2182} dentro das faixas de APP estejam corretas.
+- **Roteiro IRARA, linha 2183** {#roteiro_irara_lin2183} Figura 48. Cobertura do Solo na APP
+- **Roteiro IRARA, linha 2184** {#roteiro_irara_lin2184} Para adicionar/manter inconsistências em relação à cobertura do solo nos polígonos
+- **Roteiro IRARA, linha 2185** {#roteiro_irara_lin2185} de APP em função da hidrografia vetorizada pelo cadastrante, o técnico deverá considerar as
+- **Roteiro IRARA, linha 2186** {#roteiro_irara_lin2186} seguintes situações:
+- **Roteiro IRARA, linha 2187** {#roteiro_irara_lin2187} Situação 01: Caso o técnico verifique que há Área Antropizada Não Consolidada a recompor na
+- **Roteiro IRARA, linha 2188** {#roteiro_irara_lin2188} APP, a manutenção da inconsistência automática dependerá da análise do técnico, o qual deverá
+- **Roteiro IRARA, linha 2189** {#roteiro_irara_lin2189} verificar se o quantitativo é significativo, ou seja, maior do que 10%, no caso de IR’s até 4 MF.
+- **Roteiro IRARA, linha 2190** {#roteiro_irara_lin2190} Ressalta-seque, em muitos casos, essa inconsistência ocorre devido a espaços entre as
+- **Roteiro IRARA, linha 2191** {#roteiro_irara_lin2191} vetorizações das classes de cobertura do solo. Nesses casos, a inconsistência deverá ser
+- **Roteiro IRARA, linha 2192** {#roteiro_irara_lin2192} desconsiderada.
+- **Roteiro IRARA, linha 2193** {#roteiro_irara_lin2193} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 2194** {#roteiro_irara_lin2194} abrirá e o técnico deverá clicar em “Desconsiderar Inconsistência”.
+- **Roteiro IRARA, linha 2195** {#roteiro_irara_lin2195} Justificativa:
+- **Roteiro IRARA, linha 2196** {#roteiro_irara_lin2196} “Observou-se
+- **Roteiro IRARA, linha 2197** {#roteiro_irara_lin2197} que
+- **Roteiro IRARA, linha 2198** {#roteiro_irara_lin2198} a
+- **Roteiro IRARA, linha 2199** {#roteiro_irara_lin2199} Área
+- **Roteiro IRARA, linha 2200** {#roteiro_irara_lin2200} Antropizada
+- **Roteiro IRARA, linha 2201** {#roteiro_irara_lin2201} Não
+- **Roteiro IRARA, linha 2202** {#roteiro_irara_lin2202} Consolidada
+- **Roteiro IRARA, linha 2203** {#roteiro_irara_lin2203} apontada
+- **Roteiro IRARA, linha 2204** {#roteiro_irara_lin2204} automaticamente pelo sistema consiste em erro de vetorização na etapa de cobertura do solo.”
+- **Roteiro IRARA, linha 2205** {#roteiro_irara_lin2205} Situação 02: Caso o técnico verifique que há área consolidada a recompor, conforme o art. 61A da Lei n° 12.651/2012, deverá adicionar uma inconsistência. Esta adição também dependerá
+- **Roteiro IRARA, linha 2206** {#roteiro_irara_lin2206} da análise do técnico, que deverá verificar se o quantitativo da área de recomposição é menor
+- **Roteiro IRARA, linha 2207** {#roteiro_irara_lin2207} do que 10% no caso de IR’s até 4MF. Nesses casos, a inconsistência deverá ser desconsiderada.
+- **Roteiro IRARA, linha 2208** {#roteiro_irara_lin2208} Situação 03: Caso o técnico verifique que há área consolidada a recompor ou Vegetação Nativa
+- **Roteiro IRARA, linha 2209** {#roteiro_irara_lin2209} declarada erroneamente como Área de Uso Consolidado e
+- **Roteiro IRARA, linha 2210** {#roteiro_irara_lin2210} houver divergência entre a interpretação do técnico e a declaração prestada, deverá solicitar o
+- **Roteiro IRARA, linha 2211** {#roteiro_irara_lin2211} Laudo Técnico.
+- **Roteiro IRARA, linha 2212** {#roteiro_irara_lin2212} Observação para o Técnico: Caso a cobertura do solo na APP de Hidrografia apresente
+- **Roteiro IRARA, linha 2213** {#roteiro_irara_lin2213} sobreposição com bracatingais, poderá ocorrer a continuidade da ativida de manejo de
+- **Roteiro IRARA, linha 2214** {#roteiro_irara_lin2214} bracatingal nas áreas consolidadas, conforme artigo 61-A da Lei nº 12.651/2012. Para mais
+- **Roteiro IRARA, linha 2215** {#roteiro_irara_lin2215} detalhes
+- **Roteiro IRARA, linha 2216** {#roteiro_irara_lin2216} sobre
+- **Roteiro IRARA, linha 2217** {#roteiro_irara_lin2217} a
+- **Roteiro IRARA, linha 2218** {#roteiro_irara_lin2218} análise
+- **Roteiro IRARA, linha 2219** {#roteiro_irara_lin2219} de
+- **Roteiro IRARA, linha 2220** {#roteiro_irara_lin2220} bracatingais,
+- **Roteiro IRARA, linha 2221** {#roteiro_irara_lin2221} consultar
+- **Roteiro IRARA, linha 2222** {#roteiro_irara_lin2222} ANEXO
+- **Roteiro IRARA, linha 2223** {#roteiro_irara_lin2223} I
+- **Roteiro IRARA, linha 2224** {#roteiro_irara_lin2224} –
+- **Roteiro IRARA, linha 2225** {#roteiro_irara_lin2225} BRACATINGAL
+- **Roteiro IRARA, linha 2226** {#roteiro_irara_lin2226} (Mimosascabrella).
+- **Roteiro IRARA, linha 2227** {#roteiro_irara_lin2227} 4.6.1.4
+- **Roteiro IRARA, linha 2228** {#roteiro_irara_lin2228} Aba
+- **Roteiro IRARA, linha 2229** {#roteiro_irara_lin2229} complementares
+- **Roteiro IRARA, linha 2230** {#roteiro_irara_lin2230} Análise
+- **Roteiro IRARA, linha 2231** {#roteiro_irara_lin2231} de
+- **Roteiro IRARA, linha 2232** {#roteiro_irara_lin2232} inconsistências
+- **Roteiro IRARA, linha 2233** {#roteiro_irara_lin2233} adicionais
+- **Roteiro IRARA, linha 2234** {#roteiro_irara_lin2234} e/ou
+- **Roteiro IRARA, linha 2235** {#roteiro_irara_lin2235} temas
+- **Roteiro IRARA, linha 2236** {#roteiro_irara_lin2236} Nesse campo inserem-se inconsistências que não puderam ser adicionadas nas abas
+- **Roteiro IRARA, linha 2237** {#roteiro_irara_lin2237} anteriores e/ou que o técnico avaliar ser necessário.
+- **Roteiro IRARA, linha 2238** {#roteiro_irara_lin2238} Situação 01: Caso o técnico observe indícios de processos erosivos na APP de uso consolidado,
+- **Roteiro IRARA, linha 2239** {#roteiro_irara_lin2239} deverá adicionar/manter uma inconsistência.
+- **Roteiro IRARA, linha 2240** {#roteiro_irara_lin2240} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência.
+- **Roteiro IRARA, linha 2241** {#roteiro_irara_lin2241} Pendência / Inconsistência: “Observou-se que a área declarada como área consolidada em
+- **Roteiro IRARA, linha 2242** {#roteiro_irara_lin2242} APP apresenta indícios de ausência de boas práticas agrícolas e falta de planejamento de uso
+- **Roteiro IRARA, linha 2243** {#roteiro_irara_lin2243} adequado do solo. Conforme determina o art. 61-A § 9º da Lei nº 12.651/2012, a existência das
+- **Roteiro IRARA, linha 2244** {#roteiro_irara_lin2244} áreas consolidadas em APP é informada no CAR para fins de monitoramento, sendo exigida,
+- **Roteiro IRARA, linha 2245** {#roteiro_irara_lin2245} nesses casos, a adoção de técnicas de conservação do solo e da água que visem à mitigação
+- **Roteiro IRARA, linha 2246** {#roteiro_irara_lin2246} dos eventuais impactos. O §10º do mesmo artigo orientou que antes mesmo da disponibilização
+- **Roteiro IRARA, linha 2247** {#roteiro_irara_lin2247} do CAR, no caso de intervenções já existentes, é o proprietário/possuidor rural responsável pela
+- **Roteiro IRARA, linha 2248** {#roteiro_irara_lin2248} conservação do solo e da água, por meio de adoção de boas práticas agronômicas. Conforme o
+- **Roteiro IRARA, linha 2249** {#roteiro_irara_lin2249} art. 3º, § 1º Lei Estadual nº 8.014/1984, entende-se por uso adequado a adoção de um conjunto
+- **Roteiro IRARA, linha 2250** {#roteiro_irara_lin2250} de práticas e procedimentos que visem à conservação, ao melhoramento e à conservação do
+- **Roteiro IRARA, linha 2251** {#roteiro_irara_lin2251} solo, atendendo a função socioeconômica da propriedade”.
+- **Roteiro IRARA, linha 2252** {#roteiro_irara_lin2252} Recomendação: “Apresente esclarecimentos sobre as informações declaradas.”
+- **Roteiro IRARA, linha 2253** {#roteiro_irara_lin2253} Atendimento: Selecionar a opção “Retificação.”
+- **Roteiro IRARA, linha 2254** {#roteiro_irara_lin2254} Ressalta-se que, nesses casos, ot écnico deverá encaminhar o processo ao GO,
+- **Roteiro IRARA, linha 2255** {#roteiro_irara_lin2255} informando-o sobre a situação observada. Assim, o GO poderá encaminhar o processo ao
+- **Roteiro IRARA, linha 2256** {#roteiro_irara_lin2256} SEAB/IDR para a tomada de providências quanto ao descumprimento da Lei nº 8.014/1984.
+- **Roteiro IRARA, linha 2257** {#roteiro_irara_lin2257} 4.6.1.5
+- **Roteiro IRARA, linha 2258** {#roteiro_irara_lin2258} Aba Observação
+- **Roteiro IRARA, linha 2259** {#roteiro_irara_lin2259} Ao finalizar a análise de todos os itens da aba APP Hidrografia, o técnico deverá
+- **Roteiro IRARA, linha 2260** {#roteiro_irara_lin2260} observar se existem áreas de APP Hidrografia passíveis de regularização ambiental
+- **Roteiro IRARA, linha 2261** {#roteiro_irara_lin2261} (recomposição da área consolidada e/ou Área Antropizada Não Consolidada apontadas na
+- **Roteiro IRARA, linha 2262** {#roteiro_irara_lin2262} análise da cobertura do solo em função da APP vetorizado pelo cadastrante). No ícone “Detalhes
+- **Roteiro IRARA, linha 2263** {#roteiro_irara_lin2263} do Imóvel”, o técnico deverá verificar, em “Informação”, se o proprietário realizou a adesão ao
+- **Roteiro IRARA, linha 2264** {#roteiro_irara_lin2264} Programa de Regularização Ambiental-PRA. Caso a resposta seja “Não”, na aba “Observação”,
+- **Roteiro IRARA, linha 2265** {#roteiro_irara_lin2265} o técnico deverá adicionar o seguinte texto:
+- **Roteiro IRARA, linha 2266** {#roteiro_irara_lin2266} “O Programa de Regularização Ambiental -PRA é destinado à regularização do passivo
+- **Roteiro IRARA, linha 2267** {#roteiro_irara_lin2267} ambiental referente à supressão de vegetação nativa ocorrida até 22/07/2008, em Áreas de
+- **Roteiro IRARA, linha 2268** {#roteiro_irara_lin2268} Preservação Permanente, Reserva Legal e/ou Áreas de Uso Restrito. Conforme o art. 4° do
+- **Roteiro IRARA, linha 2269** {#roteiro_irara_lin2269} Decreto n° 8.235/2014, os programas de regularização ambiental serão implantados pelos
+- **Roteiro IRARA, linha 2270** {#roteiro_irara_lin2270} Estados e pelo Distrito Federal, observados os seguintes requisitos:
+- **Roteiro IRARA, linha 2271** {#roteiro_irara_lin2271} I.
+- **Roteiro IRARA, linha 2272** {#roteiro_irara_lin2272} - Termo de compromisso, com eficácia de título executivo extrajudicial;
+- **Roteiro IRARA, linha 2273** {#roteiro_irara_lin2273} II.
+- **Roteiro IRARA, linha 2274** {#roteiro_irara_lin2274} - Mecanismos de controle e acompanhamento da recomposição, recuperação,
+- **Roteiro IRARA, linha 2275** {#roteiro_irara_lin2275} regeneração ou compensação e de integração das informações no Sicar; e
+- **Roteiro IRARA, linha 2276** {#roteiro_irara_lin2276} III - mecanismos de acompanhamento da suspensão e extinção da punibilidade das infrações de
+- **Roteiro IRARA, linha 2277** {#roteiro_irara_lin2277} que tratam o § 4º do art. 59 e o art. 60 da Lei n° 12.651/2012, que incluam informações sobre o
+- **Roteiro IRARA, linha 2278** {#roteiro_irara_lin2278} cumprimento das obrigações firmadas para a suspensão e o encerramento dos processos
+- **Roteiro IRARA, linha 2279** {#roteiro_irara_lin2279} administrativo e criminal.
+- **Roteiro IRARA, linha 2280** {#roteiro_irara_lin2280} Conforme a Lei nº 14.595/2023, terão direito à adesão ao PRA os proprietários e possuidores
+- **Roteiro IRARA, linha 2281** {#roteiro_irara_lin2281} dos imóveis rurais com área acima de 04 (quatro) módulos fiscais que os inscreverem no CAR
+- **Roteiro IRARA, linha 2282** {#roteiro_irara_lin2282} até 31 de dezembro de 2023, bem como os proprietários e possuidores dos imóveis rurais com
+- **Roteiro IRARA, linha 2283** {#roteiro_irara_lin2283} área de até 04 (quatro) módulos fiscais ou que atendam ao disposto no art. 3º da Lei nº
+- **Roteiro IRARA, linha 2284** {#roteiro_irara_lin2284} 11.326/2006, que os inscreverem no CAR atéo dia31 de dezembrode 2025.
+- **Roteiro IRARA, linha 2285** {#roteiro_irara_lin2285} Ressalta-se que a inscrição do imóvel no CAR é condição obrigatória para adesão ao PRA. O
+- **Roteiro IRARA, linha 2286** {#roteiro_irara_lin2286} INCRA deverá requerer adesão ao PRA no prazo de 01 (ano), contado da notificação pelo órgão
+- **Roteiro IRARA, linha 2287** {#roteiro_irara_lin2287} ambiental. Caso deseje utilizar destes benefícios, retifique seu cadastro e, na etapa
+- **Roteiro IRARA, linha 2288** {#roteiro_irara_lin2288} ‘Informações’, indique a sua intenção de aderir ao Programa de Regularização Ambiental”.
+
+### 4.6.2 APP Relevo
+
+- **Roteiro IRARA, linha 2290** {#roteiro_irara_lin2290} Conforme a Lei nº 12.651/2012:
+- **Roteiro IRARA, linha 2291** {#roteiro_irara_lin2291} Art. 4º Considera-se Área de Preservação Permanente, em zonas rurais ou
+- **Roteiro IRARA, linha 2292** {#roteiro_irara_lin2292} urbanas, para os efeitos desta Lei: [...] V - as encostas ou partes destas com
+- **Roteiro IRARA, linha 2293** {#roteiro_irara_lin2293} declividade superior a 45º, equivalente a 100% (cem por cento) na linha de maior
+- **Roteiro IRARA, linha 2294** {#roteiro_irara_lin2294} declive;
+- **Roteiro IRARA, linha 2295** {#roteiro_irara_lin2295} VIII - as bordas dos tabuleiros ou chapadas, até a linha de ruptura do relevo,
+- **Roteiro IRARA, linha 2296** {#roteiro_irara_lin2296} em faixa nunca inferior a 100 (cem) metros em projeções horizontais;
+- **Roteiro IRARA, linha 2297** {#roteiro_irara_lin2297} IX - no topo de morros, montes, montanhas e serras, com altura mínimade 100
+- **Roteiro IRARA, linha 2298** {#roteiro_irara_lin2298} (cem) metros e inclinação média maior que 25º, as áreas delimitadas a partir
+- **Roteiro IRARA, linha 2299** {#roteiro_irara_lin2299} da curva de nível correspondente a 2/3 (dois terços)da altura mínima da
+- **Roteiro IRARA, linha 2300** {#roteiro_irara_lin2300} elevação sempre em relação à base, sendo esta definida pelo plano horizontal
+- **Roteiro IRARA, linha 2301** {#roteiro_irara_lin2301} determinado por planície ou espelho d’água adjacente ou, nos relevos
+- **Roteiro IRARA, linha 2302** {#roteiro_irara_lin2302} ondulados, pela cota do ponto de sela mais próximo da elevação;
+- **Roteiro IRARA, linha 2303** {#roteiro_irara_lin2303} X – as áreas em altitude superior a 1.800 (mil e oitocentos) metros, qualquer
+- **Roteiro IRARA, linha 2304** {#roteiro_irara_lin2304} que seja a vegetação;
+- **Roteiro IRARA, linha 2305** {#roteiro_irara_lin2305} Figura 49. APP Relevo conforme a Lei nº 12.651/2012
+- **Roteiro IRARA, linha 2306** {#roteiro_irara_lin2306} Figura 50. APP Borda de Chapada conforme a Lei nº 12.651/2012
+- **Roteiro IRARA, linha 2307** {#roteiro_irara_lin2307} 4.6.2.1
+- **Roteiro IRARA, linha 2308** {#roteiro_irara_lin2308} Aba Análise de APP em função de relevo vetorizada pelo
+- **Roteiro IRARA, linha 2309** {#roteiro_irara_lin2309} cadastrante
+- **Roteiro IRARA, linha 2310** {#roteiro_irara_lin2310} Nesta etapa, deve-se verificar as seguintes situações:
+- **Roteiro IRARA, linha 2311** {#roteiro_irara_lin2311} •
+- **Roteiro IRARA, linha 2312** {#roteiro_irara_lin2312} Classe de APP de relevo inadequada: Quando se detecta que a classe de relevo
+- **Roteiro IRARA, linha 2313** {#roteiro_irara_lin2313} declarada não condiz com a realidade de campo. Exemplo: O proprietário
+- **Roteiro IRARA, linha 2314** {#roteiro_irara_lin2314} declarou a existência de relevo com inclinação maior de 45º e, após a análise,
+- **Roteiro IRARA, linha 2315** {#roteiro_irara_lin2315} otécnico identificou que a classe adequada ao relevo seria menor que 25º.
+- **Roteiro IRARA, linha 2316** {#roteiro_irara_lin2316} •
+- **Roteiro IRARA, linha 2317** {#roteiro_irara_lin2317} Deslocamento: Quando se detecta que a vetorização no sistema não condiz com
+- **Roteiro IRARA, linha 2318** {#roteiro_irara_lin2318} a localização da realidade de campo. Exemplo: O técnico verificou que o relevo
+- **Roteiro IRARA, linha 2319** {#roteiro_irara_lin2319} vetorizado está deslocado em relação à imagem de satélite. Este erro é comum
+- **Roteiro IRARA, linha 2320** {#roteiro_irara_lin2320} devido à utilização de diferentes insumos e/ou ferramentas para a vetorização do
+- **Roteiro IRARA, linha 2321** {#roteiro_irara_lin2321} relevo.
+- **Roteiro IRARA, linha 2322** {#roteiro_irara_lin2322} •
+- **Roteiro IRARA, linha 2323** {#roteiro_irara_lin2323} Relevo inexistente: Quando se detecta que o polígono de relevo vetorizado não
+- **Roteiro IRARA, linha 2324** {#roteiro_irara_lin2324} existe em relação à realidade do imóvel. Exemplo: O cadastrante declarou existir
+- **Roteiro IRARA, linha 2325** {#roteiro_irara_lin2325} uma chapada no imóvel que não existe.
+- **Roteiro IRARA, linha 2326** {#roteiro_irara_lin2326} O técnico deverá verificar se há inconsistências nas áreas vetorizadas pelo cadastrante
+- **Roteiro IRARA, linha 2327** {#roteiro_irara_lin2327} referente às áreas de relevo do imóvel rural. Paratanto, deverá utilizar a base cartográfica
+- **Roteiro IRARA, linha 2328** {#roteiro_irara_lin2328} disponível e se atentar para a classe de APP declarada, a existência de deslocamento se relevos
+- **Roteiro IRARA, linha 2329** {#roteiro_irara_lin2329} inexistentes.
+- **Roteiro IRARA, linha 2330** {#roteiro_irara_lin2330} O técnico deverá selecionar o tipo de inconsistência relacionada às áreas de relevo
+- **Roteiro IRARA, linha 2331** {#roteiro_irara_lin2331} vetorizadas pelo cadastrante, conforme as seguintes situações:
+- **Roteiro IRARA, linha 2332** {#roteiro_irara_lin2332} Situação 01: Caso o técnico verifique que a classe de APP de relevo selecionada pelo
+- **Roteiro IRARA, linha 2333** {#roteiro_irara_lin2333} cadastrante difere da realidade do imóvel rural, deverá adicionar uma inconsistência,
+- **Roteiro IRARA, linha 2334** {#roteiro_irara_lin2334} selecionando a opção “Classe de APP de relevo inadequada”. Além disso, o técnico deverá
+- **Roteiro IRARA, linha 2335** {#roteiro_irara_lin2335} incluir marcadores para indicar as áreas em que as inconsistências foram identificadas.
+- **Roteiro IRARA, linha 2336** {#roteiro_irara_lin2336} Situação 02: Caso o técnico verifique que há deslocamentos em relação à localização das APP
+- **Roteiro IRARA, linha 2337** {#roteiro_irara_lin2337} de relevo nas imagens de satélite, deverá adicionar uma inconsistência, selecionando a opção
+- **Roteiro IRARA, linha 2338** {#roteiro_irara_lin2338} “Deslocamento”. Além disso, o técnico deverá incluir marcadores para indicar as áreas em que
+- **Roteiro IRARA, linha 2339** {#roteiro_irara_lin2339} as inconsistências foram identificadas.
+- **Roteiro IRARA, linha 2340** {#roteiro_irara_lin2340} Situação 03: Caso o técnico verifique que a área de relevo vetorizada não existe no imóvel rural,
+- **Roteiro IRARA, linha 2341** {#roteiro_irara_lin2341} deverá adicionar uma inconsistência selecionando a opção “APP de relevo inexistente”. Além
+- **Roteiro IRARA, linha 2342** {#roteiro_irara_lin2342} disso, o técnico deverá incluir marcadores para indicar as áreas em que as inconsistências foram
+- **Roteiro IRARA, linha 2343** {#roteiro_irara_lin2343} identificadas.
+- **Roteiro IRARA, linha 2344** {#roteiro_irara_lin2344} 4.6.2.2
+- **Roteiro IRARA, linha 2345** {#roteiro_irara_lin2345} Aba Análise de APP em função de relevo não vetorizado pelo
+- **Roteiro IRARA, linha 2346** {#roteiro_irara_lin2346} cadastrante
+- **Roteiro IRARA, linha 2347** {#roteiro_irara_lin2347} O técnico deverá utilizar a base de dados complementar disponível no GeoSICAR e se
+- **Roteiro IRARA, linha 2348** {#roteiro_irara_lin2348} atentar para a identificação de possíveis APPs de relevo que não foram vetorizadas pelo
+- **Roteiro IRARA, linha 2349** {#roteiro_irara_lin2349} cadastrante.
+- **Roteiro IRARA, linha 2350** {#roteiro_irara_lin2350} Figura 51. Base de dados de APP Relevo-GEOSICAR
+- **Roteiro IRARA, linha 2351** {#roteiro_irara_lin2351} Figura 52. Aba Análise da APP em função de relevo não vetorizado pelo cadastrante
+- **Roteiro IRARA, linha 2352** {#roteiro_irara_lin2352} Nesses casos, o técnico deverá adicionar uma inconsistência, selecionando a classe
+- **Roteiro IRARA, linha 2353** {#roteiro_irara_lin2353} da APP de relevo (área de declividade maior que 45graus, área de topo de morro e borda de
+- **Roteiro IRARA, linha 2354** {#roteiro_irara_lin2354} chapada). Além disso, deverá inserir marcadores e/ou polígonos para indicar a localização de
+- **Roteiro IRARA, linha 2355** {#roteiro_irara_lin2355} tais áreas.
+- **Roteiro IRARA, linha 2356** {#roteiro_irara_lin2356} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 2357** {#roteiro_irara_lin2357} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 2358** {#roteiro_irara_lin2358} Adicionar observação: “Há indícios de Áreas de Preservação Permanente de relevo que não
+- **Roteiro IRARA, linha 2359** {#roteiro_irara_lin2359} foram vetorizadas dentro do imóvel rural. Retifique seu cadastro inserindo as áreas conforme
+- **Roteiro IRARA, linha 2360** {#roteiro_irara_lin2360} indicado. Caso não concorde com a indicação técnica, apresente o Laudo Técnico ou fotografia
+- **Roteiro IRARA, linha 2361** {#roteiro_irara_lin2361} da área com declaração de um técnico de instituição oficial, de qualquer das esferas
+- **Roteiro IRARA, linha 2362** {#roteiro_irara_lin2362} administrativas, envolvida com assistência técnica, pesquisa ou academia, atestando a
+- **Roteiro IRARA, linha 2363** {#roteiro_irara_lin2363} inexistência das APPs de relevo no imóvel rural. O modelo do laudo técnico pode ser obtido no
+- **Roteiro IRARA, linha 2364** {#roteiro_irara_lin2364} site
+- **Roteiro IRARA, linha 2365** {#roteiro_irara_lin2365} do
+- **Roteiro IRARA, linha 2366** {#roteiro_irara_lin2366} IAT(http://www.iat.pr.gov.br/Pagina/Cadastro-Ambiental-Rural-CAR–Pasta
+- **Roteiro IRARA, linha 2367** {#roteiro_irara_lin2367} “Documentos”–“Modelo de Laudo Técnico SICAR).”
+- **Roteiro IRARA, linha 2368** {#roteiro_irara_lin2368} Solicitação de documentos: Selecionar as opções Laudo Técnico e ART.
+- **Roteiro IRARA, linha 2369** {#roteiro_irara_lin2369} Figura 53. Adição da inconsistência de área de APP Relevo não vetorizada pelo cadastrante
+- **Roteiro IRARA, linha 2370** {#roteiro_irara_lin2370} 4.6.2.3
+- **Roteiro IRARA, linha 2371** {#roteiro_irara_lin2371} Aba Análise de cobertura do solo na APP em função de relevo
+- **Roteiro IRARA, linha 2372** {#roteiro_irara_lin2372} vetorizado pelo cadastrante
+- **Roteiro IRARA, linha 2373** {#roteiro_irara_lin2373} Nesta etapa, o técnico deverá ter certeza de que não há inconsistências na etapa de
+- **Roteiro IRARA, linha 2374** {#roteiro_irara_lin2374} Cobertura do Solo. Ao comparar as áreas de relevo vetorizadas pelo proprietário/possuidor com
+- **Roteiro IRARA, linha 2375** {#roteiro_irara_lin2375} os polígonos de uso do solo, o sistema irá identificar as áreas consolidadas e antropizadas não
+- **Roteiro IRARA, linha 2376** {#roteiro_irara_lin2376} consolidadas. A relação dessas áreas será demonstrada na aba de cobertura do solo na APP
+- **Roteiro IRARA, linha 2377** {#roteiro_irara_lin2377} em função de relevo vetorizado pelo cadastrante, com o indicativo do total de sobreposição.
+- **Roteiro IRARA, linha 2378** {#roteiro_irara_lin2378} O técnico deverá considerar as seguintes situações:
+- **Roteiro IRARA, linha 2379** {#roteiro_irara_lin2379} Situação 01: Caso o técnico verifique que o sistema identificou e adicionou uma inconsistência
+- **Roteiro IRARA, linha 2380** {#roteiro_irara_lin2380} referente à sobreposição do polígono de relevo com área antropizada não consolidada, deverá
+- **Roteiro IRARA, linha 2381** {#roteiro_irara_lin2381} observar se essas áreas identificadas são erros de vetorização ocasionados na etapa de
+- **Roteiro IRARA, linha 2382** {#roteiro_irara_lin2382} “Cobertura do Solo”. Tais erros ocorrem devido a espaços entre as classes de cobertura do solo
+- **Roteiro IRARA, linha 2383** {#roteiro_irara_lin2383} e o sistema os classifica automaticamente como área antropizada não consolidada. Caso esse
+- **Roteiro IRARA, linha 2384** {#roteiro_irara_lin2384} seja o caso, o técnico poderá desconsiderara inconsistência.
+- **Roteiro IRARA, linha 2385** {#roteiro_irara_lin2385} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 2386** {#roteiro_irara_lin2386} abrirá e o técnico deverá clicar em “Desconsiderar Inconsistência”.
+- **Roteiro IRARA, linha 2387** {#roteiro_irara_lin2387} Justificativa: “Observou-se que a área antropizada não consolidada apontada automaticamente
+- **Roteiro IRARA, linha 2388** {#roteiro_irara_lin2388} pelo sistema consiste em erro de vetorização na etapa de cobertura do solo.”
+- **Roteiro IRARA, linha 2389** {#roteiro_irara_lin2389} Situação 02: Caso o técnico verifique que o sistema identificou a sobreposição dos polígonos
+- **Roteiro IRARA, linha 2390** {#roteiro_irara_lin2390} de relevo vetorizado pelo cadastrante com áreas consolidadas e/ou áreasantropizadas não
+- **Roteiro IRARA, linha 2391** {#roteiro_irara_lin2391} consolidadas (que não seja o caso da situação 01). Nesse caso, o técnico deverá verificar se o
+- **Roteiro IRARA, linha 2392** {#roteiro_irara_lin2392} quantitativo da área de recomposição é significativo (superior a 10% em relação à área do imóvel)
+- **Roteiro IRARA, linha 2393** {#roteiro_irara_lin2393} e adicionar a inconsistência, conforme o caso. Percebendo que essas áreas não são
+- **Roteiro IRARA, linha 2394** {#roteiro_irara_lin2394} significativas (menores do que 10% em relação à área do imóvel), deverá prosseguir com a
+- **Roteiro IRARA, linha 2395** {#roteiro_irara_lin2395} análise sem adicionar inconsistências nessa aba.
+- **Roteiro IRARA, linha 2396** {#roteiro_irara_lin2396} 4.6.2.4
+- **Roteiro IRARA, linha 2397** {#roteiro_irara_lin2397} Aba
+- **Roteiro IRARA, linha 2398** {#roteiro_irara_lin2398} Análise
+- **Roteiro IRARA, linha 2399** {#roteiro_irara_lin2399} de
+- **Roteiro IRARA, linha 2400** {#roteiro_irara_lin2400} inconsistências
+- **Roteiro IRARA, linha 2401** {#roteiro_irara_lin2401} adicionais
+- **Roteiro IRARA, linha 2402** {#roteiro_irara_lin2402} e/ou
+- **Roteiro IRARA, linha 2403** {#roteiro_irara_lin2403} temas
+- **Roteiro IRARA, linha 2404** {#roteiro_irara_lin2404} complementares
+- **Roteiro IRARA, linha 2405** {#roteiro_irara_lin2405} Nesse campo inserem-se inconsistências que não puderam ser adicionadas nas abas
+- **Roteiro IRARA, linha 2406** {#roteiro_irara_lin2406} anteriores e/ou que o técnico julga ser necessário.
+- **Roteiro IRARA, linha 2407** {#roteiro_irara_lin2407} Situação 01: Caso o técnico observe indícios de processos erosivos na APP relevo, deverá
+- **Roteiro IRARA, linha 2408** {#roteiro_irara_lin2408} adicionar/manter uma inconsistência.
+- **Roteiro IRARA, linha 2409** {#roteiro_irara_lin2409} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência.
+- **Roteiro IRARA, linha 2410** {#roteiro_irara_lin2410} Pendência / Inconsistência: “Observou-se que a área declarada como APP relevo possui
+- **Roteiro IRARA, linha 2411** {#roteiro_irara_lin2411} indícios de ausência de boas práticas agrícolas e falta de planejamento de uso adequado do
+- **Roteiro IRARA, linha 2412** {#roteiro_irara_lin2412} solo. Conforme o art.3º, §1º Lei Estadual nº 8.014/1984, entende-se por uso adequado a adoção
+- **Roteiro IRARA, linha 2413** {#roteiro_irara_lin2413} de um conjunto de práticase procedimentos que visem à conservação, ao melhoramento e à
+- **Roteiro IRARA, linha 2414** {#roteiro_irara_lin2414} conservação do solo, atendendo a função socioeconômica da propriedade”.
+- **Roteiro IRARA, linha 2415** {#roteiro_irara_lin2415} Recomendação: “Apresente esclarecimentos sobre as informações declaradas.”
+- **Roteiro IRARA, linha 2416** {#roteiro_irara_lin2416} Atendimento: Selecionar a opção “Retificação.”
+- **Roteiro IRARA, linha 2417** {#roteiro_irara_lin2417} Ressalta-se que, nesses casos, o técnico deverá encaminhar o processo ao GO,
+- **Roteiro IRARA, linha 2418** {#roteiro_irara_lin2418} informando-o sobre a situação observada. Assim, o GO poderá encaminhar o processo ao
+- **Roteiro IRARA, linha 2419** {#roteiro_irara_lin2419} SEAB/IDR para a tomada de providências quanto ao descumprimento da Lei nº 8.014/1984.
+- **Roteiro IRARA, linha 2420** {#roteiro_irara_lin2420} Aba Observação
+- **Roteiro IRARA, linha 2421** {#roteiro_irara_lin2421} 4.6.2.5
+- **Roteiro IRARA, linha 2422** {#roteiro_irara_lin2422} Ao finalizar a análise de todos os itens da aba APP Relevo, o técnico deverá observar
+- **Roteiro IRARA, linha 2423** {#roteiro_irara_lin2423} se existem áreas de APP Relevo passíveis de regularização ambiental (recomposição da área
+- **Roteiro IRARA, linha 2424** {#roteiro_irara_lin2424} consolidada e/ou área antropizada não consolidada apontadas na análise da cobertura do solo
+- **Roteiro IRARA, linha 2425** {#roteiro_irara_lin2425} em função da APP vetorizado pelo cadastrante). No ícone “Detalhes do Imóvel”, o técnico deverá
+- **Roteiro IRARA, linha 2426** {#roteiro_irara_lin2426} verificar, em “Informação”, se o proprietário realizou a adesão ao Programa de Regularização
+- **Roteiro IRARA, linha 2427** {#roteiro_irara_lin2427} Ambiental. Caso a resposta seja “Não”, na aba “Observação”, o técnico deverá adicionar o
+- **Roteiro IRARA, linha 2428** {#roteiro_irara_lin2428} seguinte texto:
+- **Roteiro IRARA, linha 2429** {#roteiro_irara_lin2429} “O Programa de Regularização Ambiental - PRA é destinado à regularização do passivo
+- **Roteiro IRARA, linha 2430** {#roteiro_irara_lin2430} ambiental referente à supressão de vegetação nativa ocorrida até 22/07/2008, em Áreas de
+- **Roteiro IRARA, linha 2431** {#roteiro_irara_lin2431} Preservação Permanente, Reserva Legal e/ou Áreas de Uso Restrito. Conforme o art. 4° do
+- **Roteiro IRARA, linha 2432** {#roteiro_irara_lin2432} Decreto n° 8.235/2014, os programas de regularização ambiental serão implantados pelos
+- **Roteiro IRARA, linha 2433** {#roteiro_irara_lin2433} Estados e pelo Distrito Federal, observados os seguintes requisitos:
+- **Roteiro IRARA, linha 2434** {#roteiro_irara_lin2434} I.
+- **Roteiro IRARA, linha 2435** {#roteiro_irara_lin2435} - Termo de compromisso, com eficácia de título executivo extrajudicial;
+- **Roteiro IRARA, linha 2436** {#roteiro_irara_lin2436} II.
+- **Roteiro IRARA, linha 2437** {#roteiro_irara_lin2437} - Mecanismos de controle e acompanhamento da recomposição, recuperação,
+- **Roteiro IRARA, linha 2438** {#roteiro_irara_lin2438} regeneração ou compensação e de integração das informações no Sicar; e
+- **Roteiro IRARA, linha 2439** {#roteiro_irara_lin2439} III.
+- **Roteiro IRARA, linha 2440** {#roteiro_irara_lin2440} - Mecanismos de acompanhamento da suspensão e extinção da punibilidade
+- **Roteiro IRARA, linha 2441** {#roteiro_irara_lin2441} das infrações de que tratam o § 4º do art. 59 e o art. 60 da Lei n° 12.651/2012,
+- **Roteiro IRARA, linha 2442** {#roteiro_irara_lin2442} que incluam informações sobre o cumprimento das obrigações firmadas para
+- **Roteiro IRARA, linha 2443** {#roteiro_irara_lin2443} a suspensão e o encerramento dos processos administrativo e criminal.
+- **Roteiro IRARA, linha 2444** {#roteiro_irara_lin2444} Conforme a Lei nº 14.595/2023, terão direito à adesão ao PRA os proprietários e
+- **Roteiro IRARA, linha 2445** {#roteiro_irara_lin2445} possuidores dos imóveis rurais com área acima de 04 (quatro) módulos fiscais que os
+- **Roteiro IRARA, linha 2446** {#roteiro_irara_lin2446} inscreverem no CAR até 31 de dezembro de 2023, bem como os proprietários e possuidores dos
+- **Roteiro IRARA, linha 2447** {#roteiro_irara_lin2447} imóveis rurais com área de até 04 (quatro) módulos fiscais ou que atendam ao disposto no art.
+- **Roteiro IRARA, linha 2448** {#roteiro_irara_lin2448} 3º da Lei nº 11.326/2006, que os inscreverem no CAR até o dia31 de dezembro de 2025.
+- **Roteiro IRARA, linha 2449** {#roteiro_irara_lin2449} Ressalta-se que a inscrição do imóvel no CAR é condição obrigatória para adesão ao PRA. O
+- **Roteiro IRARA, linha 2450** {#roteiro_irara_lin2450} proprietário/possuidor deverá requerer adesão ao PRA no prazo de 01 (ano), contado da
+- **Roteiro IRARA, linha 2451** {#roteiro_irara_lin2451} notificação pelo órgão ambiental. Caso deseje utilizar destes benefícios, retifique seu cadastro
+- **Roteiro IRARA, linha 2452** {#roteiro_irara_lin2452} e, na etapa ‘Informações’, indique a sua intenção de aderir ao Programa de Regularização
+- **Roteiro IRARA, linha 2453** {#roteiro_irara_lin2453} Ambiental”.
+
+### 4.6.3 Uso Restrito
+
+- **Roteiro IRARA, linha 2455** {#roteiro_irara_lin2455} São consideradas áreas mais sensíveis, onde é imprescindível a adoção de boas
+- **Roteiro IRARA, linha 2456** {#roteiro_irara_lin2456} práticas agropecuárias e florestais. São os pantanais, as planícies pantaneiras e áreas com
+- **Roteiro IRARA, linha 2457** {#roteiro_irara_lin2457} inclinação entre 25º e 45º, de acordo com a Lei nº 12.651/2012:
+- **Roteiro IRARA, linha 2458** {#roteiro_irara_lin2458} Art. 10. Nos pantanais e planícies pantaneiras, é permitida a exploração
+- **Roteiro IRARA, linha 2459** {#roteiro_irara_lin2459} ecologicamente sustentável, devendo-se considerar as recomendações
+- **Roteiro IRARA, linha 2460** {#roteiro_irara_lin2460} técnicas dos órgãos oficiais de pesquisa, ficando novas supressões de
+- **Roteiro IRARA, linha 2461** {#roteiro_irara_lin2461} vegetação nativa para uso alternativo do solo condicionadas à autorização do
+- **Roteiro IRARA, linha 2462** {#roteiro_irara_lin2462} órgão estadual do meio ambiente, com base nas recomendações
+- **Roteiro IRARA, linha 2463** {#roteiro_irara_lin2463} mencionadas neste artigo. (Redação dada pela Lei nº 12.727/2012).
+- **Roteiro IRARA, linha 2464** {#roteiro_irara_lin2464} Art. 11. Em áreas de inclinação entre 25º e 45º, serão permitidos o manejo
+- **Roteiro IRARA, linha 2465** {#roteiro_irara_lin2465} florestal sustentável e o exercício de atividades agrossilvipastoris, bem como
+- **Roteiro IRARA, linha 2466** {#roteiro_irara_lin2466} a manutenção da infraestrutura física associada ao desenvolvimento das
+- **Roteiro IRARA, linha 2467** {#roteiro_irara_lin2467} atividades, observadas boas práticas agronômicas, sendo vedada a conversão
+- **Roteiro IRARA, linha 2468** {#roteiro_irara_lin2468} de novas áreas, excetuadas as hipóteses de utilidade pública e
+- **Roteiro IRARA, linha 2469** {#roteiro_irara_lin2469} interessesocial.(Vide ADINNº4.903)
+- **Roteiro IRARA, linha 2470** {#roteiro_irara_lin2470} Figura 54. Uso Restrito em conformidade com a Lei nº 12.651/2012
+- **Roteiro IRARA, linha 2471** {#roteiro_irara_lin2471} 4.6.3.1
+- **Roteiro IRARA, linha 2472** {#roteiro_irara_lin2472} Aba Análise da área de uso restrito vetorizada pelo cadastrante
+- **Roteiro IRARA, linha 2473** {#roteiro_irara_lin2473} O técnico deverá verificar se há inconsistências nas áreas vetorizadas pelo cadastrante
+- **Roteiro IRARA, linha 2474** {#roteiro_irara_lin2474} referentes às áreas de Uso Restrito do imóvel rural. Para tanto, deverá utilizar o banco de dados
+- **Roteiro IRARA, linha 2475** {#roteiro_irara_lin2475} disponível no endereço www.simepar.br/geosicarpr e se atentar para a classe de uso restrito
+- **Roteiro IRARA, linha 2476** {#roteiro_irara_lin2476} declarada, a existência de deslocamento se áreas inexistentes.
+- **Roteiro IRARA, linha 2477** {#roteiro_irara_lin2477} Além disso, poderá adicionar marcadores/polígonos sempre que necessário, a fim de
+- **Roteiro IRARA, linha 2478** {#roteiro_irara_lin2478} indicar a localização das áreas em que foram identificadas divergências em relação àrealidade
+- **Roteiro IRARA, linha 2479** {#roteiro_irara_lin2479} do imóvel.
+- **Roteiro IRARA, linha 2480** {#roteiro_irara_lin2480} Figura 55. Mapa de Uso Restrito do GEOSICAR
+- **Roteiro IRARA, linha 2481** {#roteiro_irara_lin2481} O técnico deverá selecionar o tipo de inconsistência relacionada às áreas de Uso
+- **Roteiro IRARA, linha 2482** {#roteiro_irara_lin2482} Restrito vetorizadas pelo cadastrante, conforme as seguintes situações:
+- **Roteiro IRARA, linha 2483** {#roteiro_irara_lin2483} Situação 01: Caso o técnico verifique que a classe de Uso Restrito selecionada pelo cadastrante
+- **Roteiro IRARA, linha 2484** {#roteiro_irara_lin2484} difere da realidade do imóvel rural, deverá adicionar uma inconsistência, selecionando a opção
+- **Roteiro IRARA, linha 2485** {#roteiro_irara_lin2485} “Classe de uso restrito inadequada”. Além disso, o técnico deverá incluir marcadores para indicar
+- **Roteiro IRARA, linha 2486** {#roteiro_irara_lin2486} as áreas em que as inconsistências foram identificadas.
+- **Roteiro IRARA, linha 2487** {#roteiro_irara_lin2487} Figura 56. Inserção de inconsistência na plataforma SICAR
+- **Roteiro IRARA, linha 2488** {#roteiro_irara_lin2488} Situação 02: Caso o técnico verifique que há deslocamentos em relação à localização das áreas
+- **Roteiro IRARA, linha 2489** {#roteiro_irara_lin2489} de uso restrito nas imagens de satélite, deverá adicionar uma inconsistência, selecionando a
+- **Roteiro IRARA, linha 2490** {#roteiro_irara_lin2490} opção “Deslocamento”. Além disso, o técnico deverá incluir marcadores para indicar as áreas em
+- **Roteiro IRARA, linha 2491** {#roteiro_irara_lin2491} que as inconsistências foram identificadas.
+- **Roteiro IRARA, linha 2492** {#roteiro_irara_lin2492} Situação 03: Caso o técnico verifique que a área de uso restrito vetorizada não existe no imóvel
+- **Roteiro IRARA, linha 2493** {#roteiro_irara_lin2493} rural, deverá adicionar uma inconsistência, selecionando a opção “Área de uso restrito
+- **Roteiro IRARA, linha 2494** {#roteiro_irara_lin2494} inexistente”. Além disso, o técnico deverá incluir marcadores para indicar as áreas em que as
+- **Roteiro IRARA, linha 2495** {#roteiro_irara_lin2495} inconsistências foram identificadas.
+- **Roteiro IRARA, linha 2496** {#roteiro_irara_lin2496} Figura 57. UR inexistente
+- **Roteiro IRARA, linha 2497** {#roteiro_irara_lin2497} 4.6.3.2
+- **Roteiro IRARA, linha 2498** {#roteiro_irara_lin2498} Aba Análise da área de uso restrito não vetorizada pelo cadastrante
+- **Roteiro IRARA, linha 2499** {#roteiro_irara_lin2499} O técnico deverá verificar, por meio da base cartográfica disponibilizada no GeoSICAR,
+- **Roteiro IRARA, linha 2500** {#roteiro_irara_lin2500} se existe alguma área de uso restrito que não foi declarada pelo proprietário/possuidor. Caso
+- **Roteiro IRARA, linha 2501** {#roteiro_irara_lin2501} exista, o técnico deverá adicionar uma inconsistência.
+- **Roteiro IRARA, linha 2502** {#roteiro_irara_lin2502} Figura 58. Adicionar inconsistencia
+- **Roteiro IRARA, linha 2503** {#roteiro_irara_lin2503} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 2504** {#roteiro_irara_lin2504} abrirá e o técnico deverá selecionar a classe correspondente a uso restrito que não foi vetorizada
+- **Roteiro IRARA, linha 2505** {#roteiro_irara_lin2505} (
+- **Roteiro IRARA, linha 2506** {#roteiro_irara_lin2506} ). Em seguida, adicionar os marcadores sobre a área correspondente (
+- **Roteiro IRARA, linha 2507** {#roteiro_irara_lin2507} ) e habilitar a
+- **Roteiro IRARA, linha 2508** {#roteiro_irara_lin2508} caixa “Enviar arquivo vetorial ao proprietário/possuidor”. Os pontos adicionados são enumerados
+- **Roteiro IRARA, linha 2509** {#roteiro_irara_lin2509} e podem ser vistos em “Geometria vetorizada”. Por fim, o técnico deverá adicionar uma
+- **Roteiro IRARA, linha 2510** {#roteiro_irara_lin2510} observação.
+- **Roteiro IRARA, linha 2511** {#roteiro_irara_lin2511} Adicionar observação: “Há indícios de áreas de uso restrito que não foram declaradas dentro
+- **Roteiro IRARA, linha 2512** {#roteiro_irara_lin2512} do imóvel rural. Retifique seu cadastro inserindo as áreas conforme indicado neste parecer. Caso
+- **Roteiro IRARA, linha 2513** {#roteiro_irara_lin2513} não concorde com a indicação técnica,apresente o Laudo Técnico que comprove a inexistência
+- **Roteiro IRARA, linha 2514** {#roteiro_irara_lin2514} das áreas de uso restrito no imóvel rural. O modelo do laudo técnico pode ser obtido no site do
+- **Roteiro IRARA, linha 2515** {#roteiro_irara_lin2515} IAT (http://www.iat.pr.gov.br/Pagina/Cadastro-Ambiental-Rural-CAR–Pasta “Documentos” –
+- **Roteiro IRARA, linha 2516** {#roteiro_irara_lin2516} “Modelo de Laudo Técnico SICAR).”
+- **Roteiro IRARA, linha 2517** {#roteiro_irara_lin2517} Solicitação de documentos: Selecionar as opções Laudo Técnico e a ART.
+- **Roteiro IRARA, linha 2518** {#roteiro_irara_lin2518} Figura 59. APP Uso Restrito não vetorizado pelo cadastrante
+- **Roteiro IRARA, linha 2519** {#roteiro_irara_lin2519} O técnico também poderá optar por adicionar um arquivo vetorial (shapefile
+- **Roteiro IRARA, linha 2520** {#roteiro_irara_lin2520} compactado com os formatos dbf, .shp, .shxe.prj)-
+- **Roteiro IRARA, linha 2521** {#roteiro_irara_lin2521} com a identificação dos polígonos
+- **Roteiro IRARA, linha 2522** {#roteiro_irara_lin2522} referentes às áreas de uso restrito não vetorizadas pelo cadastrante, seguindo os mesmos
+- **Roteiro IRARA, linha 2523** {#roteiro_irara_lin2523} passos descritos acima.
+- **Roteiro IRARA, linha 2524** {#roteiro_irara_lin2524} 4.6.3.3
+- **Roteiro IRARA, linha 2525** {#roteiro_irara_lin2525} Aba Análise de sobreposição de uso restrito com APPs em função
+- **Roteiro IRARA, linha 2526** {#roteiro_irara_lin2526} da vetorização do cadastrante
+- **Roteiro IRARA, linha 2527** {#roteiro_irara_lin2527} O técnico deverá observar possíveis sobreposições de áreas de uso restrito declarados
+- **Roteiro IRARA, linha 2528** {#roteiro_irara_lin2528} em relação às demais APP vetorizadas (classes de APP relevo e hidrografia). Ao ser detectado
+- **Roteiro IRARA, linha 2529** {#roteiro_irara_lin2529} a sobreposição de áreas de uso restrito, o sistema exibirá, por meio de uma tabela, a identificação
+- **Roteiro IRARA, linha 2530** {#roteiro_irara_lin2530} da topografia de Uso Restrito e a topografia de APP, indicando o tamanho da área em que
+- **Roteiro IRARA, linha 2531** {#roteiro_irara_lin2531} ocorreu o conflito/sobreposição.
+- **Roteiro IRARA, linha 2532** {#roteiro_irara_lin2532} O técnico deverá manter a inconsistência adicionada automaticamente pelo sistema e
+- **Roteiro IRARA, linha 2533** {#roteiro_irara_lin2533} deverá inserir marcadores para identificar as áreas em que ocorreu a sobreposição.
+- **Roteiro IRARA, linha 2534** {#roteiro_irara_lin2534} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 2535** {#roteiro_irara_lin2535} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 2536** {#roteiro_irara_lin2536} Adicionar observação: “Há indícios de sobreposição de áreas de uso restrito com áreas de
+- **Roteiro IRARA, linha 2537** {#roteiro_irara_lin2537} preservação permanente (APP hidrografia e/ou relevo). Apresente esclarecimentos sobre as
+- **Roteiro IRARA, linha 2538** {#roteiro_irara_lin2538} informações declaradas e/ou retifique seu cadastro informando corretamente as áreas de uso
+- **Roteiro IRARA, linha 2539** {#roteiro_irara_lin2539} restrito, conforme a realidade do imóvel.”
+- **Roteiro IRARA, linha 2540** {#roteiro_irara_lin2540} Solicitação de documentos: Selecionar as opções Laudo Técnico e ART.
+- **Roteiro IRARA, linha 2541** {#roteiro_irara_lin2541} 4.6.3.4
+- **Roteiro IRARA, linha 2542** {#roteiro_irara_lin2542} Aba Análise de cobertura do solo na área de uso restrito em função
+- **Roteiro IRARA, linha 2543** {#roteiro_irara_lin2543} da vetorização do cadastrante
+- **Roteiro IRARA, linha 2544** {#roteiro_irara_lin2544} O técnico deverá avaliar a cobertura do solo nos polígonos de uso restrito vetorizados
+- **Roteiro IRARA, linha 2545** {#roteiro_irara_lin2545} pelo cadastrante a fim de adicionar/manter inconsistências, indicando ao proprietário/possuidor
+- **Roteiro IRARA, linha 2546** {#roteiro_irara_lin2546} as áreas passíveis de regularização
+- **Roteiro IRARA, linha 2547** {#roteiro_irara_lin2547} ambiental dentro do imóvel. Para os polígonos de uso restrito sobrepostos à área consolidada
+- **Roteiro IRARA, linha 2548** {#roteiro_irara_lin2548} e/ou área antropizada não consolidada, a recomposição deverá ocorrer em sua totalidade.
+- **Roteiro IRARA, linha 2549** {#roteiro_irara_lin2549} Nesta etapa da análise, o técnico também deverá se atentar para que não existam
+- **Roteiro IRARA, linha 2550** {#roteiro_irara_lin2550} inconsistências relacionadas à aba “Cobertura do Solo”. Isso garante que a identificação das
+- **Roteiro IRARA, linha 2551** {#roteiro_irara_lin2551} Áreas Antropizadas Não Consolidadas e/ou áreas consolidadas pendentes de recomposição
+- **Roteiro IRARA, linha 2552** {#roteiro_irara_lin2552} dentro das faixas de uso restrito estejam corretas.
+- **Roteiro IRARA, linha 2553** {#roteiro_irara_lin2553} Para adicionar/manter inconsistências em relação à cobertura do solo nos polígonos
+- **Roteiro IRARA, linha 2554** {#roteiro_irara_lin2554} de uso restrito vetorizados pelo cadastrante, o técnico deverá considerar as seguintes situações:
+- **Roteiro IRARA, linha 2555** {#roteiro_irara_lin2555} Situação 01: Caso o técnico verifique que o sistema identificou e adicionou uma inconsistência
+- **Roteiro IRARA, linha 2556** {#roteiro_irara_lin2556} referente à sobreposição do polígono de uso restrito com área antropizada não consolidada,
+- **Roteiro IRARA, linha 2557** {#roteiro_irara_lin2557} deverá observar se essas áreas identificadas são erros de vetorização ocasionados na etapa de
+- **Roteiro IRARA, linha 2558** {#roteiro_irara_lin2558} “Cobertura do Solo”. Tais erros ocorrem devido a espaços entre as classes de cobertura do solo
+- **Roteiro IRARA, linha 2559** {#roteiro_irara_lin2559} e o sistema os classifica automaticamente como área antropizada não consolidada. Caso esse
+- **Roteiro IRARA, linha 2560** {#roteiro_irara_lin2560} seja o caso, o técnico poderá desconsiderar a inconsistência.
+- **Roteiro IRARA, linha 2561** {#roteiro_irara_lin2561} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 2562** {#roteiro_irara_lin2562} abrirá e o técnico deverá clicar em “Desconsiderar Inconsistência”.
+- **Roteiro IRARA, linha 2563** {#roteiro_irara_lin2563} Justificativa:
+- **Roteiro IRARA, linha 2564** {#roteiro_irara_lin2564} “Observou-se
+- **Roteiro IRARA, linha 2565** {#roteiro_irara_lin2565} que
+- **Roteiro IRARA, linha 2566** {#roteiro_irara_lin2566} a
+- **Roteiro IRARA, linha 2567** {#roteiro_irara_lin2567} Área
+- **Roteiro IRARA, linha 2568** {#roteiro_irara_lin2568} Antropizada
+- **Roteiro IRARA, linha 2569** {#roteiro_irara_lin2569} Não
+- **Roteiro IRARA, linha 2570** {#roteiro_irara_lin2570} Consolidada
+- **Roteiro IRARA, linha 2571** {#roteiro_irara_lin2571} apontada
+- **Roteiro IRARA, linha 2572** {#roteiro_irara_lin2572} automaticamente pelo sistema consiste em erro de vetorização na etapa de cobertura do solo.”
+- **Roteiro IRARA, linha 2573** {#roteiro_irara_lin2573} Situação 02: Caso o técnico verifique que ocorreu a sobreposição do polígono de uso restrito
+- **Roteiro IRARA, linha 2574** {#roteiro_irara_lin2574} com
+- **Roteiro IRARA, linha 2575** {#roteiro_irara_lin2575} Área
+- **Roteiro IRARA, linha 2576** {#roteiro_irara_lin2576} Antropizada
+- **Roteiro IRARA, linha 2577** {#roteiro_irara_lin2577} Não
+- **Roteiro IRARA, linha 2578** {#roteiro_irara_lin2578} Consolidada
+- **Roteiro IRARA, linha 2579** {#roteiro_irara_lin2579} (desmatamento
+- **Roteiro IRARA, linha 2580** {#roteiro_irara_lin2580} após
+- **Roteiro IRARA, linha 2581** {#roteiro_irara_lin2581} 22/07/2008),
+- **Roteiro IRARA, linha 2582** {#roteiro_irara_lin2582} deverá
+- **Roteiro IRARA, linha 2583** {#roteiro_irara_lin2583} adicionar/manter uma inconsistência.
+- **Roteiro IRARA, linha 2584** {#roteiro_irara_lin2584} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 2585** {#roteiro_irara_lin2585} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 2586** {#roteiro_irara_lin2586} Adicionar observação: “Observou-se que a área declarada como uso restrito incide sobre uma
+- **Roteiro IRARA, linha 2587** {#roteiro_irara_lin2587} Área Antropizada Não Consolidada e que, portanto, ocorreu o desmatamento após o marco de
+- **Roteiro IRARA, linha 2588** {#roteiro_irara_lin2588} 22/07/2008. O proprietário poderá regularizar a situação adotando as seguintes alternativas,
+- **Roteiro IRARA, linha 2589** {#roteiro_irara_lin2589} isolada ou conjuntamente: recompor a área de uso restrito e/ou permitirar e generação natural
+- **Roteiro IRARA, linha 2590** {#roteiro_irara_lin2590} da vegetação. Em qualquer caso, o proprietário/possuidor poderá apresentar o projeto de
+- **Roteiro IRARA, linha 2591** {#roteiro_irara_lin2591} recuperação de áreas degradadas (PRAD), no Módulo de Regularização Ambiental (MRA).”
+- **Roteiro IRARA, linha 2592** {#roteiro_irara_lin2592} Situação 03: Caso o técnico verifique que há área consolidada a recompor na área de uso
+- **Roteiro IRARA, linha 2593** {#roteiro_irara_lin2593} restrito, deverá adicionar uma inconsistência. Esta adição também dependerá da análise do
+- **Roteiro IRARA, linha 2594** {#roteiro_irara_lin2594} técnico, que deverá verificar se o quantitativo da área de recomposição é significativo (maior do
+- **Roteiro IRARA, linha 2595** {#roteiro_irara_lin2595} que 10% em relaçãoà área do imóvel).
+- **Roteiro IRARA, linha 2596** {#roteiro_irara_lin2596} 4.6.3.5
+- **Roteiro IRARA, linha 2597** {#roteiro_irara_lin2597} Aba
+- **Roteiro IRARA, linha 2598** {#roteiro_irara_lin2598} Análise
+- **Roteiro IRARA, linha 2599** {#roteiro_irara_lin2599} de
+- **Roteiro IRARA, linha 2600** {#roteiro_irara_lin2600} inconsistências
+- **Roteiro IRARA, linha 2601** {#roteiro_irara_lin2601} adicionais
+- **Roteiro IRARA, linha 2602** {#roteiro_irara_lin2602} e/ou
+- **Roteiro IRARA, linha 2603** {#roteiro_irara_lin2603} temas
+- **Roteiro IRARA, linha 2604** {#roteiro_irara_lin2604} complementares
+- **Roteiro IRARA, linha 2605** {#roteiro_irara_lin2605} Nesse campo inserem-se inconsistências que não puderam ser adicionadas nas abas
+- **Roteiro IRARA, linha 2606** {#roteiro_irara_lin2606} anteriores e/ou que o técnico julga ser necessário.
+- **Roteiro IRARA, linha 2607** {#roteiro_irara_lin2607} Situação 01: Caso o técnico verifique que há área consolidada a recompor na área de uso de
+- **Roteiro IRARA, linha 2608** {#roteiro_irara_lin2608} restrito, sendo detectado processos erosivos, deverá adicionar/manter uma inconsistência.
+- **Roteiro IRARA, linha 2609** {#roteiro_irara_lin2609} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência.
+- **Roteiro IRARA, linha 2610** {#roteiro_irara_lin2610} Pendência / Inconsistência: “Observou-se que a área declarada como uso restrito possui
+- **Roteiro IRARA, linha 2611** {#roteiro_irara_lin2611} indícios de ausência de boas práticas agrícolas e falta de planejamento de uso adequado do
+- **Roteiro IRARA, linha 2612** {#roteiro_irara_lin2612} solo, o que contraria o art. 11, da Lei nº12.651/2012. Conforme o art. 3º, § 1º,Lei Estadual nº
+- **Roteiro IRARA, linha 2613** {#roteiro_irara_lin2613} 8.014/1984,
+- **Roteiro IRARA, linha 2614** {#roteiro_irara_lin2614} entende-
+- **Roteiro IRARA, linha 2615** {#roteiro_irara_lin2615} seporusoadequadoaadoçãodeumconjuntodepráticaseprocedimentosquevisem à conservação,
+- **Roteiro IRARA, linha 2616** {#roteiro_irara_lin2616} ao melhoramento e à conservação do solo, atendendo a função socioeconômica da propriedade.”
+- **Roteiro IRARA, linha 2617** {#roteiro_irara_lin2617} Recomendação: “Apresente esclarecimentos sobre as informações declaradas.”
+- **Roteiro IRARA, linha 2618** {#roteiro_irara_lin2618} Atendimento: Selecionar a opção “Retificação.”
+- **Roteiro IRARA, linha 2619** {#roteiro_irara_lin2619} O técnico, nesses casos, deverá encaminhar o processo ao GO, informando-o sobre a
+- **Roteiro IRARA, linha 2620** {#roteiro_irara_lin2620} situação observada. Assim, o GO poderá encaminhar o processo ao SEAB/IDR para a tomada
+- **Roteiro IRARA, linha 2621** {#roteiro_irara_lin2621} de providências quanto ao descumprimento da Lei nº 8.014/1984.
+- **Roteiro IRARA, linha 2622** {#roteiro_irara_lin2622} Aba Observação
+- **Roteiro IRARA, linha 2623** {#roteiro_irara_lin2623} 4.6.3.6
+- **Roteiro IRARA, linha 2624** {#roteiro_irara_lin2624} Ao finalizar a análise de todos os itens da aba Uso Restrito, o técnico deverá observar
+- **Roteiro IRARA, linha 2625** {#roteiro_irara_lin2625} se existem AUR passíveis de regularização ambiental (recomposição da área consolidada e/ou
+- **Roteiro IRARA, linha 2626** {#roteiro_irara_lin2626} Área Antropizada Não Consolidada apontadas na análise da cobertura do solo em função da
+- **Roteiro IRARA, linha 2627** {#roteiro_irara_lin2627} APP vetorizado pelo cadastrante).
+- **Roteiro IRARA, linha 2628** {#roteiro_irara_lin2628} No ícone “Detalhes do Imóvel”, o técnico deverá verificar, em “Informação”, se o
+- **Roteiro IRARA, linha 2629** {#roteiro_irara_lin2629} proprietário realizou a adesão ao Programade Regularização Ambiental. Caso a resposta seja
+- **Roteiro IRARA, linha 2630** {#roteiro_irara_lin2630} “Não”, na aba “Observação”, o técnico deverá adicionar o seguinte texto:
+- **Roteiro IRARA, linha 2631** {#roteiro_irara_lin2631} “O Programa de Regularização Ambiental-PRA é destinado à regularização do passivo
+- **Roteiro IRARA, linha 2632** {#roteiro_irara_lin2632} ambiental referente à supressão de vegetação nativa ocorrida até 22/07/2008, em Áreas de
+- **Roteiro IRARA, linha 2633** {#roteiro_irara_lin2633} Preservação Permanente, Reserva Legal e/ou Áreas de Uso Restrito. Conforme o art. 4° do
+- **Roteiro IRARA, linha 2634** {#roteiro_irara_lin2634} Decreto n° 8.235/2014, os programas de regularização ambiental serão implantados pelos
+- **Roteiro IRARA, linha 2635** {#roteiro_irara_lin2635} Estados e pelo Distrito Federal, observados os seguintes requisitos:
+- **Roteiro IRARA, linha 2636** {#roteiro_irara_lin2636} I.
+- **Roteiro IRARA, linha 2637** {#roteiro_irara_lin2637} - Termo de compromisso, com eficácia de título executivo extrajudicial;
+- **Roteiro IRARA, linha 2638** {#roteiro_irara_lin2638} II.
+- **Roteiro IRARA, linha 2639** {#roteiro_irara_lin2639} -Mecanismos de controle e acompanhamento da recomposição, recuperação,
+- **Roteiro IRARA, linha 2640** {#roteiro_irara_lin2640} regeneração ou compensação e de integração das informações no Sicar; e
+- **Roteiro IRARA, linha 2641** {#roteiro_irara_lin2641} III.
+- **Roteiro IRARA, linha 2642** {#roteiro_irara_lin2642} - Mecanismos de acompanhamento da suspensão e extinção da punibilidade
+- **Roteiro IRARA, linha 2643** {#roteiro_irara_lin2643} das infrações de que tratam o § 4º do art. 59 e o art. 60 da Lei n° 12.651/2012,
+- **Roteiro IRARA, linha 2644** {#roteiro_irara_lin2644} que incluam informações sobre o cumprimento das obrigações firmadas para
+- **Roteiro IRARA, linha 2645** {#roteiro_irara_lin2645} a suspensão e o encerramento dos processos administrativo e criminal.
+- **Roteiro IRARA, linha 2646** {#roteiro_irara_lin2646} Conforme a Lei nº 14.595/2023, terão direito à adesão ao PRA os proprietários e possuidores
+- **Roteiro IRARA, linha 2647** {#roteiro_irara_lin2647} dos imóveis rurais com área acima de 04 (quatro) módulos fiscais que os inscreverem no CAR
+- **Roteiro IRARA, linha 2648** {#roteiro_irara_lin2648} até 31 de dezembro de 2023, bem como os proprietários e possuidores dos imóveis rurais com
+- **Roteiro IRARA, linha 2649** {#roteiro_irara_lin2649} área de até 04 (quatro) módulos fiscais ou que atendam ao disposto no art. 3º da Lei nº
+- **Roteiro IRARA, linha 2650** {#roteiro_irara_lin2650} 11.326/2006, que os inscreverem no CAR até o dia 31 de dezembrode 2025.
+- **Roteiro IRARA, linha 2651** {#roteiro_irara_lin2651} Ressalta-se que a inscrição do imóvel no CAR é condição obrigatória para adesão ao PRA. O
+- **Roteiro IRARA, linha 2652** {#roteiro_irara_lin2652} proprietário/possuidor deverá requerer adesão ao PRA no prazo de 01 (ano), contado da
+- **Roteiro IRARA, linha 2653** {#roteiro_irara_lin2653} notificação pelo órgão ambiental. Caso deseje utilizar destes benefícios, retifique seu cadastro
+- **Roteiro IRARA, linha 2654** {#roteiro_irara_lin2654} e, na etapa ‘Informações’, indique a sua intenção de aderir ao Programa de Regularização
+- **Roteiro IRARA, linha 2655** {#roteiro_irara_lin2655} Ambiental”.
+
+### 4.6.4 Outras APPs
+
+- **Roteiro IRARA, linha 2657** {#roteiro_irara_lin2657} As áreas de manguezais e restinga estão definidas no art. 3º, incisos XIII e XVI, da
+- **Roteiro IRARA, linha 2658** {#roteiro_irara_lin2658} Lei nº 12.651/2012:
+- **Roteiro IRARA, linha 2659** {#roteiro_irara_lin2659} Art.3ºPara os efeitos desta Lei, entende-se por:
+- **Roteiro IRARA, linha 2660** {#roteiro_irara_lin2660} XIII – manguezal: ecossistema litorâneo que ocorre em terrenos baixos,
+- **Roteiro IRARA, linha 2661** {#roteiro_irara_lin2661} sujeitos à ação das marés, formado por vasas lodosas recentes ou arenosas,
+- **Roteiro IRARA, linha 2662** {#roteiro_irara_lin2662} às quais se associa, predominantemente, a vegetação natural conhecida
+- **Roteiro IRARA, linha 2663** {#roteiro_irara_lin2663} como mangue, com influência fluviomarinha, típica de solos limosos de
+- **Roteiro IRARA, linha 2664** {#roteiro_irara_lin2664} regiões estuarinas e com dispersão descontínua ao longo da costa brasileira,
+- **Roteiro IRARA, linha 2665** {#roteiro_irara_lin2665} entre os Estados do Amapá e de Santa Catarina;
+- **Roteiro IRARA, linha 2666** {#roteiro_irara_lin2666} XVI - restinga: depósito arenoso paralelo à linha da costa, de forma
+- **Roteiro IRARA, linha 2667** {#roteiro_irara_lin2667} geralmente alongada, produzido por processos de sedimentação, onde se
+- **Roteiro IRARA, linha 2668** {#roteiro_irara_lin2668} encontram diferentes comunidades que recebem influência marinha, com
+- **Roteiro IRARA, linha 2669** {#roteiro_irara_lin2669} cobertura vegetal em mosaico, encontrada em praias, cordões arenosos,
+- **Roteiro IRARA, linha 2670** {#roteiro_irara_lin2670} dunas e depressões, apresentando, de acordo com o estágio sucessional,
+- **Roteiro IRARA, linha 2671** {#roteiro_irara_lin2671} estrato herbáceo, arbustivo e arbóreo, este último mais interiorizado;
+- **Roteiro IRARA, linha 2672** {#roteiro_irara_lin2672} O art. 4º, VII, da referida Lei, considera como área de preservação permanente toda a
+- **Roteiro IRARA, linha 2673** {#roteiro_irara_lin2673} extensão do manguezal; e para as restingas, as fixadoras de dunas ou estabilizadoras de
+- **Roteiro IRARA, linha 2674** {#roteiro_irara_lin2674} mangues.
+- **Roteiro IRARA, linha 2675** {#roteiro_irara_lin2675} 4.6.4.1
+- **Roteiro IRARA, linha 2676** {#roteiro_irara_lin2676} Aba Análisede APP vetorizada pelo cadastrante
+- **Roteiro IRARA, linha 2677** {#roteiro_irara_lin2677} O técnico deverá verificar se há inconsistências nas áreas vetorizadas pelo cadastrante
+- **Roteiro IRARA, linha 2678** {#roteiro_irara_lin2678} como manguezais e/ou restingas. Para tanto, poderá utilizar abase cartográfica disponível no
+- **Roteiro IRARA, linha 2679** {#roteiro_irara_lin2679} GeoSICAR. Além disso, para a análise dessa aba, o técnico deverá ficar atento à classe de APP
+- **Roteiro IRARA, linha 2680** {#roteiro_irara_lin2680} declarada, à existência de deslocamentos e às APPs inexistentes.
+- **Roteiro IRARA, linha 2681** {#roteiro_irara_lin2681} O técnico deverá observar as seguintes situações:
+- **Roteiro IRARA, linha 2682** {#roteiro_irara_lin2682} Situação 01: O técnico verifica que a classe de APP selecionada (manguezal/restinga) difere da
+- **Roteiro IRARA, linha 2683** {#roteiro_irara_lin2683} realidade do imóvel. Nesses casos, deverá adicionar uma inconsistência, selecionando a opção
+- **Roteiro IRARA, linha 2684** {#roteiro_irara_lin2684} “Classe de APP inadequada”. Além disso, deverá incluir marcadores para indicar as áreas em
+- **Roteiro IRARA, linha 2685** {#roteiro_irara_lin2685} que essas inconsistências foram identificadas e enviar a imagem na notificação/mensagem para
+- **Roteiro IRARA, linha 2686** {#roteiro_irara_lin2686} auxiliar o proprietário/possuidor no atendimento da notificação.
+- **Roteiro IRARA, linha 2687** {#roteiro_irara_lin2687} Situação 02: O técnico verifica que há deslocamentos em relação à localização das restingas
+- **Roteiro IRARA, linha 2688** {#roteiro_irara_lin2688} e/ou manguezais nas imagens de satélite. Nesses casos, deverá adicionar uma inconsistência,
+- **Roteiro IRARA, linha 2689** {#roteiro_irara_lin2689} selecionando a opção “Deslocamento”. Além disso, deverá incluir marcadores para indicar as
+- **Roteiro IRARA, linha 2690** {#roteiro_irara_lin2690} áreas
+- **Roteiro IRARA, linha 2691** {#roteiro_irara_lin2691} em
+- **Roteiro IRARA, linha 2692** {#roteiro_irara_lin2692} que essas
+- **Roteiro IRARA, linha 2693** {#roteiro_irara_lin2693} inconsistências
+- **Roteiro IRARA, linha 2694** {#roteiro_irara_lin2694} foram
+- **Roteiro IRARA, linha 2695** {#roteiro_irara_lin2695} identificadas
+- **Roteiro IRARA, linha 2696** {#roteiro_irara_lin2696} e
+- **Roteiro IRARA, linha 2697** {#roteiro_irara_lin2697} enviar
+- **Roteiro IRARA, linha 2698** {#roteiro_irara_lin2698} a
+- **Roteiro IRARA, linha 2699** {#roteiro_irara_lin2699} imagem
+- **Roteiro IRARA, linha 2700** {#roteiro_irara_lin2700} na
+- **Roteiro IRARA, linha 2701** {#roteiro_irara_lin2701} notificação/mensagem para auxiliar o proprietário/possuidor no atendimento da notificação.
+- **Roteiro IRARA, linha 2702** {#roteiro_irara_lin2702} Situação 03: O técnico verifica que a área de restinga e/ou manguezal é não existente. Nesses
+- **Roteiro IRARA, linha 2703** {#roteiro_irara_lin2703} casos, deverá adicionar uma inconsistência, selecionando a opção “APP de restinga, manguezal
+- **Roteiro IRARA, linha 2704** {#roteiro_irara_lin2704} ou vereda inexistente”. Além disso, deverá incluir marcadores para indicar as áreas em que essas
+- **Roteiro IRARA, linha 2705** {#roteiro_irara_lin2705} inconsistências foram identificadas e enviar a imagem na notificação/mensagem para auxiliar o
+- **Roteiro IRARA, linha 2706** {#roteiro_irara_lin2706} proprietário/possuidor no atendimento da notificação.:
+- **Roteiro IRARA, linha 2707** {#roteiro_irara_lin2707} 4.6.4.2
+- **Roteiro IRARA, linha 2708** {#roteiro_irara_lin2708} Aba Análisede APP não vetorizada pelo cadastrante
+- **Roteiro IRARA, linha 2709** {#roteiro_irara_lin2709} O técnico deverá verificar, por meio da base cartográfica disponibilizada no GeoSICAR,
+- **Roteiro IRARA, linha 2710** {#roteiro_irara_lin2710} se existem áreas de restingas e/ou manguezais que não foram declaradas pelo
+- **Roteiro IRARA, linha 2711** {#roteiro_irara_lin2711} proprietário/possuidor. Caso exista, o técnico deverá adicionar uma inconsistência.
+- **Roteiro IRARA, linha 2712** {#roteiro_irara_lin2712} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 2713** {#roteiro_irara_lin2713} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 2714** {#roteiro_irara_lin2714} Adicionar observação: “Há indícios de áreas de restingas fixadoras de dunas ou estabilizadoras
+- **Roteiro IRARA, linha 2715** {#roteiro_irara_lin2715} de mangues e/ou manguezais que não foram declaradas no limite do imóvel rural. Retifique seu
+- **Roteiro IRARA, linha 2716** {#roteiro_irara_lin2716} cadastro inserindo as áreas conforme indicado neste parecer. Caso não concorde com a
+- **Roteiro IRARA, linha 2717** {#roteiro_irara_lin2717} indicação técnica, apresente o Laudo Técnico que comprove a inexistência dessas áreas no
+- **Roteiro IRARA, linha 2718** {#roteiro_irara_lin2718} imóvel
+- **Roteiro IRARA, linha 2719** {#roteiro_irara_lin2719} rural.
+- **Roteiro IRARA, linha 2720** {#roteiro_irara_lin2720} O
+- **Roteiro IRARA, linha 2721** {#roteiro_irara_lin2721} modelo
+- **Roteiro IRARA, linha 2722** {#roteiro_irara_lin2722} do
+- **Roteiro IRARA, linha 2723** {#roteiro_irara_lin2723} laudo
+- **Roteiro IRARA, linha 2724** {#roteiro_irara_lin2724} técnico
+- **Roteiro IRARA, linha 2725** {#roteiro_irara_lin2725} pode
+- **Roteiro IRARA, linha 2726** {#roteiro_irara_lin2726} ser
+- **Roteiro IRARA, linha 2727** {#roteiro_irara_lin2727} obtido
+- **Roteiro IRARA, linha 2728** {#roteiro_irara_lin2728} no
+- **Roteiro IRARA, linha 2729** {#roteiro_irara_lin2729} site
+- **Roteiro IRARA, linha 2730** {#roteiro_irara_lin2730} do
+- **Roteiro IRARA, linha 2731** {#roteiro_irara_lin2731} IAT
+- **Roteiro IRARA, linha 2732** {#roteiro_irara_lin2732} (http://www.iat.pr.gov.br/Pagina/Cadastro-Ambiental-Rural-CAR – Pasta “Documentos” –
+- **Roteiro IRARA, linha 2733** {#roteiro_irara_lin2733} “Modelo de Laudo Técnico SICAR).”
+- **Roteiro IRARA, linha 2734** {#roteiro_irara_lin2734} Solicitação de documentos: Selecionar as opções Laudo Técnico e a ART.
+- **Roteiro IRARA, linha 2735** {#roteiro_irara_lin2735} O técnico também poderá optar por enviar um arquivo vetorial em formato shapefile
+- **Roteiro IRARA, linha 2736** {#roteiro_irara_lin2736} (compactado com os formatos dbf, .shp, .shx e .prj) com a identificação das áreas de restingas
+- **Roteiro IRARA, linha 2737** {#roteiro_irara_lin2737} e/ou manguezais. Para tal, basta selecionar o primeiro item do canto superior esquerdo. Se os
+- **Roteiro IRARA, linha 2738** {#roteiro_irara_lin2738} arquivos estiverem devidamente compactados, eles se apresentaram na imagem.
+- **Roteiro IRARA, linha 2739** {#roteiro_irara_lin2739} 4.6.4.3
+- **Roteiro IRARA, linha 2740** {#roteiro_irara_lin2740} Aba Análise de cobertura do solo nas APP sem função da vetorização
+- **Roteiro IRARA, linha 2741** {#roteiro_irara_lin2741} do cadastrante
+- **Roteiro IRARA, linha 2742** {#roteiro_irara_lin2742} O técnico deverá avaliar a cobertura do solo nos polígonos de manguezais e restingas
+- **Roteiro IRARA, linha 2743** {#roteiro_irara_lin2743} fixadoras de dunas ou estabilizadoras de mangues vetorizados pelo proprietário/possuidor afim
+- **Roteiro IRARA, linha 2744** {#roteiro_irara_lin2744} de adicionar/manter inconsistências, indicando ao proprietário as áreas passíveis de
+- **Roteiro IRARA, linha 2745** {#roteiro_irara_lin2745} regularização ambiental dentro do imóvel.
+- **Roteiro IRARA, linha 2746** {#roteiro_irara_lin2746} Primeiramente o técnico deverá se atentar para que não existam inconsistências
+- **Roteiro IRARA, linha 2747** {#roteiro_irara_lin2747} relacionadas a aba “Cobertura do Solo”, ou seja, a classificação correta da cobertura do solo irá
+- **Roteiro IRARA, linha 2748** {#roteiro_irara_lin2748} definir como proceder nessa etapa de análise. Isso garante que a análise das Áreas Antropizadas
+- **Roteiro IRARA, linha 2749** {#roteiro_irara_lin2749} Não Consolidadas e/ou Áreas Consolidadas pendentes de recomposição dentro das faixas de
+- **Roteiro IRARA, linha 2750** {#roteiro_irara_lin2750} APP esteja correta.
+- **Roteiro IRARA, linha 2751** {#roteiro_irara_lin2751} Para os polígonos de APP sobrepostos à área antropizada não consolidada (AA), a
+- **Roteiro IRARA, linha 2752** {#roteiro_irara_lin2752} recomposição deve ocorrer em sua totalidade, enquanto àqueles sobrepostos à Área
+- **Roteiro IRARA, linha 2753** {#roteiro_irara_lin2753} Consolidada (AC), a faixa de recomposição será conforme descrito no art. 61-A da Lei n°
+- **Roteiro IRARA, linha 2754** {#roteiro_irara_lin2754} 12.651/2012.
+- **Roteiro IRARA, linha 2755** {#roteiro_irara_lin2755} Para adicionar/manter inconsistências em relação à cobertura do solo nos polígonos de
+- **Roteiro IRARA, linha 2756** {#roteiro_irara_lin2756} APP vetorizadas pelo cadastrante, o técnico deverá considerar as seguintes situações:
+- **Roteiro IRARA, linha 2757** {#roteiro_irara_lin2757} Situação 01: Quando se verificar que há Área Antropizada Não Consolidada (AA) a recompor
+- **Roteiro IRARA, linha 2758** {#roteiro_irara_lin2758} nos polígonos de manguezais e restingas fixadoras de dunas ou estabilizadoras de mangues, a
+- **Roteiro IRARA, linha 2759** {#roteiro_irara_lin2759} manutenção da inconsistência automática dependerá da análise do técnico. Isso ocorre porque
+- **Roteiro IRARA, linha 2760** {#roteiro_irara_lin2760} esses fragmentos de AA que estão se sobrepondo podem ter sido ocasionados na etapa de
+- **Roteiro IRARA, linha 2761** {#roteiro_irara_lin2761} “Cobertura do Solo” em um erro no processo de classificação, gerando “espaços vazios” entre
+- **Roteiro IRARA, linha 2762** {#roteiro_irara_lin2762} uma classe e outra. Caso seja esse o contexto e desde que o quantitativo desses fragmentos de
+- **Roteiro IRARA, linha 2763** {#roteiro_irara_lin2763} AA estejam dentro dos limites de tolerância estabelecidos no quadro 06, o técnico poderá
+- **Roteiro IRARA, linha 2764** {#roteiro_irara_lin2764} desconsiderar a inconsistência.
+- **Roteiro IRARA, linha 2765** {#roteiro_irara_lin2765} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 2766** {#roteiro_irara_lin2766} abrirá e o técnico deverá clicar em “Desconsiderar Inconsistência”.
+- **Roteiro IRARA, linha 2767** {#roteiro_irara_lin2767} Justificativa: “Observou-se que a Área Antropizada Não Consolidada (AA), apontada
+- **Roteiro IRARA, linha 2768** {#roteiro_irara_lin2768} automaticamente pelo sistema, consiste em erro de vetorização na etapa de cobertura do solo.”
+- **Roteiro IRARA, linha 2769** {#roteiro_irara_lin2769} Situação 02: Quando se verificar que há área consolidada (AC), conforme o art. 61-A da Lei n°
+- **Roteiro IRARA, linha 2770** {#roteiro_irara_lin2770} 12.651/2012, ou área antropizada não consolidada (AA) que não seja o caso da Situação 01 a
+- **Roteiro IRARA, linha 2771** {#roteiro_irara_lin2771} recompor nos polígonos de manguezais e restingas fixadoras de dunas ou estabilizadoras de
+- **Roteiro IRARA, linha 2772** {#roteiro_irara_lin2772} mangues, a inconsistência deverá ser mantida, pois estas áreas são significativas e devem ser
+- **Roteiro IRARA, linha 2773** {#roteiro_irara_lin2773} recompostas.
+- **Roteiro IRARA, linha 2774** {#roteiro_irara_lin2774} Situação 03: Caso o técnico verifique que há área de Remanescente de Vegetação Nativa (RVN)
+- **Roteiro IRARA, linha 2775** {#roteiro_irara_lin2775} declarada erroneamente como Área de Uso Consolidado sobrepondo às áreas de manguezais
+- **Roteiro IRARA, linha 2776** {#roteiro_irara_lin2776} e restingas fixadoras de dunas ou estabilizadoras de mangues, o que irá interferir
+- **Roteiro IRARA, linha 2777** {#roteiro_irara_lin2777} significativamente nas áreas de APP, deverá solicitar Laudo Técnico.
+- **Roteiro IRARA, linha 2778** {#roteiro_irara_lin2778} Solicitação de documentos: Selecionar as opções Laudo Técnico e ART.
+- **Roteiro IRARA, linha 2779** {#roteiro_irara_lin2779} 4.6.4.4
+- **Roteiro IRARA, linha 2780** {#roteiro_irara_lin2780} Aba Análise de inconsistências adicionais e/ou temas complementares
+- **Roteiro IRARA, linha 2781** {#roteiro_irara_lin2781} Nesse campo inserem-se inconsistências que não puderam ser adicionadas nas abas
+- **Roteiro IRARA, linha 2782** {#roteiro_irara_lin2782} anterior e se/ou que o técnico julgue ser necessário.
+- **Roteiro IRARA, linha 2783** {#roteiro_irara_lin2783} Situação 01: Caso o técnico verifique que há área consolidada a recompor em outras APPs,
+- **Roteiro IRARA, linha 2784** {#roteiro_irara_lin2784} sendo detectado processos erosivos, deverá adicionar/manter uma inconsistência.
+- **Roteiro IRARA, linha 2785** {#roteiro_irara_lin2785} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência.
+- **Roteiro IRARA, linha 2786** {#roteiro_irara_lin2786} Pendência / Inconsistência: “Observou-se que a área declarada como outras APPs possui
+- **Roteiro IRARA, linha 2787** {#roteiro_irara_lin2787} indícios de ausência de boas práticas agrícolas e falta de planejamento de uso adequado do
+- **Roteiro IRARA, linha 2788** {#roteiro_irara_lin2788} solo. Conforme o art. 3º, §1º Lei Estadual nº 8.014/1984, entende-se por uso adequado a adoção
+- **Roteiro IRARA, linha 2789** {#roteiro_irara_lin2789} de um conjunto de práticas e procedimentos que visem à conservação, ao melhoramento e à
+- **Roteiro IRARA, linha 2790** {#roteiro_irara_lin2790} conservação do solo, atendendo a função socioeconômica da propriedade.”
+- **Roteiro IRARA, linha 2791** {#roteiro_irara_lin2791} Recomendação: “Apresente esclarecimentos sobre as informações declaradas.”
+- **Roteiro IRARA, linha 2792** {#roteiro_irara_lin2792} Atendimento: Selecionar a opção “Retificação.”
+- **Roteiro IRARA, linha 2793** {#roteiro_irara_lin2793} O técnico, nesses casos, deverá encaminhar o processo ao GO, informando-o sobre a
+- **Roteiro IRARA, linha 2794** {#roteiro_irara_lin2794} situação observada. Assim, o GO poderá encaminhar o processo ao SEAB/IDR para a tomada
+- **Roteiro IRARA, linha 2795** {#roteiro_irara_lin2795} de providências quanto ao descumprimento da Lei nº 8.014/1984.
+- **Roteiro IRARA, linha 2796** {#roteiro_irara_lin2796} 4.6.4.5
+- **Roteiro IRARA, linha 2797** {#roteiro_irara_lin2797} Aba Observação
+- **Roteiro IRARA, linha 2798** {#roteiro_irara_lin2798} Ao finalizar a análise de todos os itens da aba “Outras APPs”, o técnico deverá observar
+- **Roteiro IRARA, linha 2799** {#roteiro_irara_lin2799} se existem áreas passíveis de regularização ambiental (recomposição da área consolidada (AC)
+- **Roteiro IRARA, linha 2800** {#roteiro_irara_lin2800} e/ou Área Antropizada Não Consolidada (AA) apontadas na aba Análise da cobertura do solo em
+- **Roteiro IRARA, linha 2801** {#roteiro_irara_lin2801} função da APP vetorizado pelo cadastrante). Também nessa aba, o técnico deverá verificar se o
+- **Roteiro IRARA, linha 2802** {#roteiro_irara_lin2802} proprietário realizou a adesão ao Programa de Regularização Ambiental (PRA). Caso a resposta
+- **Roteiro IRARA, linha 2803** {#roteiro_irara_lin2803} seja “Não”, o texto a seguir deverá ser inserido na aba “Observação”:
+- **Roteiro IRARA, linha 2804** {#roteiro_irara_lin2804} “O Programa de Regularização Ambiental - PRA é destinado à regularização do passivo
+- **Roteiro IRARA, linha 2805** {#roteiro_irara_lin2805} ambiental referente à supressão de vegetação nativa ocorrida até 22/07/2008, em Áreas de
+- **Roteiro IRARA, linha 2806** {#roteiro_irara_lin2806} Preservação Permanente, Reserva Legal e/ou Áreas de Uso Restrito. Conforme o art. 4° do
+- **Roteiro IRARA, linha 2807** {#roteiro_irara_lin2807} Decreto n° 8.235/2014, os programas de regularização ambiental serão implantados pelos
+- **Roteiro IRARA, linha 2808** {#roteiro_irara_lin2808} Estados e pelo Distrito Federal, observados os seguintes requisitos:
+- **Roteiro IRARA, linha 2809** {#roteiro_irara_lin2809} •
+- **Roteiro IRARA, linha 2810** {#roteiro_irara_lin2810} - Termo de compromisso, com eficácia de título executivo extrajudicial;
+- **Roteiro IRARA, linha 2811** {#roteiro_irara_lin2811} •
+- **Roteiro IRARA, linha 2812** {#roteiro_irara_lin2812} - Mecanismos de controle e acompanhamento da recomposição, recuperação,
+- **Roteiro IRARA, linha 2813** {#roteiro_irara_lin2813} regeneração ou compensação e de integração das informações no Sicar; e
+- **Roteiro IRARA, linha 2814** {#roteiro_irara_lin2814} •
+- **Roteiro IRARA, linha 2815** {#roteiro_irara_lin2815} - Mecanismos de acompanhamento da suspensão e extinção da punibilidadedas
+- **Roteiro IRARA, linha 2816** {#roteiro_irara_lin2816} infrações de que tratam o § 4º do art. 59 e o art. 60 da Lei n° 12.651/2012, que
+- **Roteiro IRARA, linha 2817** {#roteiro_irara_lin2817} incluam informações sobre o cumprimento das obrigações firmadas para a
+- **Roteiro IRARA, linha 2818** {#roteiro_irara_lin2818} suspensão e o encerramento dos processos administrativo e criminal.
+- **Roteiro IRARA, linha 2819** {#roteiro_irara_lin2819} Conforme a Lei nº 14.595/2023, terão direito à adesão ao PRA os proprietários e possuidores
+- **Roteiro IRARA, linha 2820** {#roteiro_irara_lin2820} dos imóveis rurais com área acima de 04 (quatro) módulos fiscais que os inscreverem no CAR
+- **Roteiro IRARA, linha 2821** {#roteiro_irara_lin2821} até 31 de dezembro de 2023, bem como os proprietários e possuidores dos imóveis rurais com
+- **Roteiro IRARA, linha 2822** {#roteiro_irara_lin2822} área de até 04 (quatro)módulos fiscais ou que atendam ao disposto no art. 3º da Lei nº
+- **Roteiro IRARA, linha 2823** {#roteiro_irara_lin2823} 11.326/2006, que os inscreverem no CAR até o dia 31 de dezembrode 2025.
+- **Roteiro IRARA, linha 2824** {#roteiro_irara_lin2824} Ressalta-se que a inscrição do imóvel no CAR é condição obrigatória para adesão ao PRA. O
+- **Roteiro IRARA, linha 2825** {#roteiro_irara_lin2825} proprietário/possuidor deverá requerer adesão ao PRA no prazo de 01 (ano), contado da
+- **Roteiro IRARA, linha 2826** {#roteiro_irara_lin2826} notificação pelo órgão ambiental. Caso deseje utilizar destes benefícios, retifique seu cadastro
+- **Roteiro IRARA, linha 2827** {#roteiro_irara_lin2827} e, na etapa ‘Informações’, indique a sua intenção de aderir ao Programa de Regularização
+- **Roteiro IRARA, linha 2828** {#roteiro_irara_lin2828} Ambiental”.
+
+### 4.7. Reserva Legal
+
+- **Roteiro IRARA, linha 2830** {#roteiro_irara_lin2830} A Lei nº 12.651/2012, art. 3º, conceitua reserva legal como:
+- **Roteiro IRARA, linha 2831** {#roteiro_irara_lin2831} Art. 3º Para os efeitos desta Lei, entende-se por:
+- **Roteiro IRARA, linha 2832** {#roteiro_irara_lin2832} III - Reserva Legal: área localizada no interior de uma propriedade ou posse
+- **Roteiro IRARA, linha 2833** {#roteiro_irara_lin2833} rural, delimitada nos termos do art. 12, com a função de assegurar o uso
+- **Roteiro IRARA, linha 2834** {#roteiro_irara_lin2834} econômico de modo sustentável dos recursos naturaisdo imóvel rural, auxiliar
+- **Roteiro IRARA, linha 2835** {#roteiro_irara_lin2835} a conservação e a reabilitação dos processos ecológicos e promover a
+- **Roteiro IRARA, linha 2836** {#roteiro_irara_lin2836} conservação da biodiversidade, bem como o abrigo e a proteção de fauna
+- **Roteiro IRARA, linha 2837** {#roteiro_irara_lin2837} silvestre e da flora nativa.
+- **Roteiro IRARA, linha 2838** {#roteiro_irara_lin2838} Já o art. 12 da referida lei retrata a obrigatoriedade da constituição das áreas de reserva
+- **Roteiro IRARA, linha 2839** {#roteiro_irara_lin2839} legal, conforme disposto abaixo:
+- **Roteiro IRARA, linha 2840** {#roteiro_irara_lin2840} Art. 12. Todo imóvel rural deve manter área com cobertura de vegetação
+- **Roteiro IRARA, linha 2841** {#roteiro_irara_lin2841} nativa, at ítulo de Reserva Legal, sem prejuízo da aplicação das normas sobre
+- **Roteiro IRARA, linha 2842** {#roteiro_irara_lin2842} as Áreas de Preservação Permanente, observados os seguintes percentuais
+- **Roteiro IRARA, linha 2843** {#roteiro_irara_lin2843} mínimos em relação à área do imóvel, excetuados os casos previstos no art.
+- **Roteiro IRARA, linha 2844** {#roteiro_irara_lin2844} 68 desta Lei:
+- **Roteiro IRARA, linha 2845** {#roteiro_irara_lin2845} II – Localizado nas demais regiões do País: 20% (vinte porcento).
+- **Roteiro IRARA, linha 2846** {#roteiro_irara_lin2846} § 1º Em caso de fracionamento do imóvel rural, a qualquer título, inclusive
+- **Roteiro IRARA, linha 2847** {#roteiro_irara_lin2847} para assentamentos pelo Programa de Reforma Agrária, será considerada,
+- **Roteiro IRARA, linha 2848** {#roteiro_irara_lin2848} para fins do disposto do caput, a área do imóvel antes do fracionamento.
+- **Roteiro IRARA, linha 2849** {#roteiro_irara_lin2849} O art. 18, por sua vez, trata da análise das áreas de reserva legal pelo órgão ambiental
+- **Roteiro IRARA, linha 2850** {#roteiro_irara_lin2850} e da transferência da responsabilidade em caso de venda/desmembramento da área do imóvel.
+- **Roteiro IRARA, linha 2851** {#roteiro_irara_lin2851} Art. 18. A área de Reserva Legal deverá ser registrada no órgão ambiental
+- **Roteiro IRARA, linha 2852** {#roteiro_irara_lin2852} competente por meio de inscrição no CAR de que trata o art. 29, sendo
+- **Roteiro IRARA, linha 2853** {#roteiro_irara_lin2853} vedada a alteração de sua destinação, nos casos de transmissão, a qualquer
+- **Roteiro IRARA, linha 2854** {#roteiro_irara_lin2854} título, ou de desmembramento, com as exceções previstas nesta Lei.
+- **Roteiro IRARA, linha 2855** {#roteiro_irara_lin2855} § 1º A inscrição da Reserva Legal no CAR será feita mediante a apresentação
+- **Roteiro IRARA, linha 2856** {#roteiro_irara_lin2856} de planta e memorial descritivo, contendo a indicação das coordenadas
+- **Roteiro IRARA, linha 2857** {#roteiro_irara_lin2857} geográficas com pelo menos um ponto de amarração, conforme a todo Chefe
+- **Roteiro IRARA, linha 2858** {#roteiro_irara_lin2858} do Poder Executivo.
+- **Roteiro IRARA, linha 2859** {#roteiro_irara_lin2859} (...)§ 4º O registro da Reserva Legal no CAR desobriga a averbação no Cartório
+- **Roteiro IRARA, linha 2860** {#roteiro_irara_lin2860} de Registro de Imóveis, sendo que, no período entre a data da publicação
+- **Roteiro IRARA, linha 2861** {#roteiro_irara_lin2861} desta Lei e o registro no CAR, o proprietário ou possuidor rural que desejar
+- **Roteiro IRARA, linha 2862** {#roteiro_irara_lin2862} fazer a averbação terá direito à gratuidade deste ato.
+- **Roteiro IRARA, linha 2863** {#roteiro_irara_lin2863} (Redação
+- **Roteiro IRARA, linha 2864** {#roteiro_irara_lin2864} dada
+- **Roteiro IRARA, linha 2865** {#roteiro_irara_lin2865} pela Lei nº 12.727, de 2012).
+
+### 4.7.1 Parâmetros que o técnico deverá observar para todos os IRARA
+
+- **Roteiro IRARA, linha 2867** {#roteiro_irara_lin2867} O capítulo XIII da Lei nº 12.651/2012 trata das disposições transitórias, que são
+- **Roteiro IRARA, linha 2868** {#roteiro_irara_lin2868} comandos que exigem disciplina especial em face de um novo regime jurídico proposto. O art.
+- **Roteiro IRARA, linha 2869** {#roteiro_irara_lin2869} 67 da referida lei trouxe um novo fundamento, não previsto no Código Florestal antigo (Lei nº
+- **Roteiro IRARA, linha 2870** {#roteiro_irara_lin2870} 4.771/1965), que diz o seguinte:
+- **Roteiro IRARA, linha 2871** {#roteiro_irara_lin2871} Art. 67: Nos imóveis rurais que detinham, em 22 de julho de 2008, área de até
+- **Roteiro IRARA, linha 2872** {#roteiro_irara_lin2872} 4 (quatro) módulos fiscais e que possuam Remanescente de Vegetação Nativa
+- **Roteiro IRARA, linha 2873** {#roteiro_irara_lin2873} em percentuais inferiores ao previsto no art. 12, a Reserva Legal será
+- **Roteiro IRARA, linha 2874** {#roteiro_irara_lin2874} constituída com a área ocupada com a vegetação nativa existente em 22 de
+- **Roteiro IRARA, linha 2875** {#roteiro_irara_lin2875} julho de 2008, vedadas novas conversões para uso alternativo do solo.
+- **Roteiro IRARA, linha 2876** {#roteiro_irara_lin2876} Destaca-se que para os IRARAs há uma distinção em relação ao percentual
+- **Roteiro IRARA, linha 2877** {#roteiro_irara_lin2877} mínimo exigido de RL, que segundo a IN MMA 02/2014 estabeleceu o seguinte:
+- **Roteiro IRARA, linha 2878** {#roteiro_irara_lin2878} Art. 54. Para os assentamentos de reforma agrária o registro das informações
+- **Roteiro IRARA, linha 2879** {#roteiro_irara_lin2879} ambientais obedecerá aos seguintes critérios:
+- **Roteiro IRARA, linha 2880** {#roteiro_irara_lin2880} I - Para os assentamentos criados até 22 de julho de 2008, a Reserva Legal
+- **Roteiro IRARA, linha 2881** {#roteiro_irara_lin2881} será constituída com a área ocupada com a vegetação nativa existente em 22
+- **Roteiro IRARA, linha 2882** {#roteiro_irara_lin2882} de julho de 2008.
+- **Roteiro IRARA, linha 2883** {#roteiro_irara_lin2883} II - Para os assentamentos criados após 22 de julho de 2008, a Reserva Legal
+- **Roteiro IRARA, linha 2884** {#roteiro_irara_lin2884} será constituída pelos percentuais definidos no art.12 da Lei nº 12.651, de
+- **Roteiro IRARA, linha 2885** {#roteiro_irara_lin2885} 2012;
+- **Roteiro IRARA, linha 2886** {#roteiro_irara_lin2886} Dessa forma, o técnico deverá solicitar a matrícula do IRARA para verificar a data
+- **Roteiro IRARA, linha 2887** {#roteiro_irara_lin2887} de criação do assentamento.
+- **Roteiro IRARA, linha 2888** {#roteiro_irara_lin2888} Imóvel não possuía RVN
+- **Roteiro IRARA, linha 2889** {#roteiro_irara_lin2889} Imóvel possuía RVN,
+- **Roteiro IRARA, linha 2890** {#roteiro_irara_lin2890} masinferiora20%doexigidoem
+- **Roteiro IRARA, linha 2891** {#roteiro_irara_lin2891} lei
+- **Roteiro IRARA, linha 2892** {#roteiro_irara_lin2892} Não há necessidade de declarar
+- **Roteiro IRARA, linha 2893** {#roteiro_irara_lin2893} a RL e também não há
+- **Roteiro IRARA, linha 2894** {#roteiro_irara_lin2894} necessidade de recompor a RL
+- **Roteiro IRARA, linha 2895** {#roteiro_irara_lin2895} A área de RVN deverá ser
+- **Roteiro IRARA, linha 2896** {#roteiro_irara_lin2896} declarada como RL. Não há
+- **Roteiro IRARA, linha 2897** {#roteiro_irara_lin2897} necessidade de recomposição
+- **Roteiro IRARA, linha 2898** {#roteiro_irara_lin2898} do % que faltar para atingir os
+- **Roteiro IRARA, linha 2899** {#roteiro_irara_lin2899} 20%.
+- **Roteiro IRARA, linha 2900** {#roteiro_irara_lin2900} Se a área recomposta for de até
+- **Roteiro IRARA, linha 2901** {#roteiro_irara_lin2901} 20%: não poderá ceder a RVN.
+- **Roteiro IRARA, linha 2902** {#roteiro_irara_lin2902} RL para IRARA inscritos até
+- **Roteiro IRARA, linha 2903** {#roteiro_irara_lin2903} 22/07/2008
+- **Roteiro IRARA, linha 2904** {#roteiro_irara_lin2904} Imóvel não possuía RVN ou
+- **Roteiro IRARA, linha 2905** {#roteiro_irara_lin2905} possuía em % inferior a 20%e
+- **Roteiro IRARA, linha 2906** {#roteiro_irara_lin2906} houve a recomposição da
+- **Roteiro IRARA, linha 2907** {#roteiro_irara_lin2907} vegetação
+- **Roteiro IRARA, linha 2908** {#roteiro_irara_lin2908} Se a área recomposta exceder
+- **Roteiro IRARA, linha 2909** {#roteiro_irara_lin2909} 20%: até o limite de20% será
+- **Roteiro IRARA, linha 2910** {#roteiro_irara_lin2910} considerada RL do imóvel. O
+- **Roteiro IRARA, linha 2911** {#roteiro_irara_lin2911} que exceder os20%poderá ser
+- **Roteiro IRARA, linha 2912** {#roteiro_irara_lin2912} cedido.
+- **Roteiro IRARA, linha 2913** {#roteiro_irara_lin2913} Imóvel possuía mais de 20%
+- **Roteiro IRARA, linha 2914** {#roteiro_irara_lin2914} Deverá declarar como RL a
+- **Roteiro IRARA, linha 2915** {#roteiro_irara_lin2915} área de 20%. O que exceder
+- **Roteiro IRARA, linha 2916** {#roteiro_irara_lin2916} poderá ser cedido.
+- **Roteiro IRARA, linha 2917** {#roteiro_irara_lin2917} Da área de RVN
+- **Roteiro IRARA, linha 2918** {#roteiro_irara_lin2918} Imóvel em que ocorreu a
+- **Roteiro IRARA, linha 2919** {#roteiro_irara_lin2919} supressão da RVN após 2008
+- **Roteiro IRARA, linha 2920** {#roteiro_irara_lin2920} posteriormente
+- **Roteiro IRARA, linha 2921** {#roteiro_irara_lin2921} 2008(independentementedo
+- **Roteiro IRARA, linha 2922** {#roteiro_irara_lin2922} a
+- **Roteiro IRARA, linha 2923** {#roteiro_irara_lin2923} O proprietário estará em
+- **Roteiro IRARA, linha 2924** {#roteiro_irara_lin2924} situação irregular. Deverá
+- **Roteiro IRARA, linha 2925** {#roteiro_irara_lin2925} adotar os trâmites padrões
+- **Roteiro IRARA, linha 2926** {#roteiro_irara_lin2926} de inconsistência de AA
+- **Roteiro IRARA, linha 2927** {#roteiro_irara_lin2927} Figura 60. SituaçãodaRLparaimóveisaté 04MF
+
+### 4.7.2 Parâmetros que o técnico deverá observar nos imóveis que possuem plano
+
+- **Roteiro IRARA, linha 2929** {#roteiro_irara_lin2929} de manejo florestal
+- **Roteiro IRARA, linha 2930** {#roteiro_irara_lin2930} Os artigos 20 a 24 da Lei 12.651/2012 estabelecem parâmetros para exploração
+- **Roteiro IRARA, linha 2931** {#roteiro_irara_lin2931} florestal como uso em propósito comercial e coleta de produtos florestais, regulamentando
+- **Roteiro IRARA, linha 2932** {#roteiro_irara_lin2932} também as diretrizes e dando orientações, sempre se atentando ao manejo de forma sustentável.
+- **Roteiro IRARA, linha 2933** {#roteiro_irara_lin2933} Art. 20. No manejo sustentável da vegetação florestal da Reserva Legal, serão
+- **Roteiro IRARA, linha 2934** {#roteiro_irara_lin2934} adotadas práticas de exploraçãos eletiva nas modalidades de manejo
+- **Roteiro IRARA, linha 2935** {#roteiro_irara_lin2935} sustentável sem propósito comercial para consumo na proprieda de e
+- **Roteiro IRARA, linha 2936** {#roteiro_irara_lin2936} manejo sustentável para exploração florestal com propósito comercial.
+- **Roteiro IRARA, linha 2937** {#roteiro_irara_lin2937} Art. 21. É livre a coleta de produtos florestais não madeireiros, tais como
+- **Roteiro IRARA, linha 2938** {#roteiro_irara_lin2938} frutos, cipós, folhas e sementes, devendo-se observar:
+- **Roteiro IRARA, linha 2939** {#roteiro_irara_lin2939} I - os períodos de coleta e volumes fixados em regulamentos específicos,
+- **Roteiro IRARA, linha 2940** {#roteiro_irara_lin2940} quando houver;
+- **Roteiro IRARA, linha 2941** {#roteiro_irara_lin2941} II - a época de maturação dos frutos e sementes;
+- **Roteiro IRARA, linha 2942** {#roteiro_irara_lin2942} III - técnicas que não coloquem em risco a sobrevivência de indivíduos e da
+- **Roteiro IRARA, linha 2943** {#roteiro_irara_lin2943} espécie coletada no caso de coleta de flores, folhas, cascas, óleos, resinas,
+- **Roteiro IRARA, linha 2944** {#roteiro_irara_lin2944} cipós, bulbos, bambus e raízes.
+- **Roteiro IRARA, linha 2945** {#roteiro_irara_lin2945} Art. 22. O manejo florestal sustentável da vegetação da Reserva Legal com
+- **Roteiro IRARA, linha 2946** {#roteiro_irara_lin2946} propósito comercial depende de autorização do órgão competente e deverá
+- **Roteiro IRARA, linha 2947** {#roteiro_irara_lin2947} atender as seguintes diretrizes e orientações:
+- **Roteiro IRARA, linha 2948** {#roteiro_irara_lin2948} I -não descaracterizar a cobertura vegetal e não prejudicar a conservação da
+- **Roteiro IRARA, linha 2949** {#roteiro_irara_lin2949} vegetação nativa da área;
+- **Roteiro IRARA, linha 2950** {#roteiro_irara_lin2950} II - assegurar a manutenção da diversidade das espécies;
+- **Roteiro IRARA, linha 2951** {#roteiro_irara_lin2951} III - conduzir o manejo de espécies exóticas com a adoção de medidas que
+- **Roteiro IRARA, linha 2952** {#roteiro_irara_lin2952} favoreçam a regeneração de espécies nativas.
+- **Roteiro IRARA, linha 2953** {#roteiro_irara_lin2953} Art. 23. O manejo sustentável para exploração florestal eventual sem
+- **Roteiro IRARA, linha 2954** {#roteiro_irara_lin2954} propósito comercial, para consumo no próprio imóvel, independe de
+- **Roteiro IRARA, linha 2955** {#roteiro_irara_lin2955} autorização dos órgãos competentes, devendo apenas ser declarados
+- **Roteiro IRARA, linha 2956** {#roteiro_irara_lin2956} previamente ao órgão ambiental a motivação da exploração e o volume
+- **Roteiro IRARA, linha 2957** {#roteiro_irara_lin2957} explorado, limitada a exploração anual a 20 (vinte) metros cúbicos.
+- **Roteiro IRARA, linha 2958** {#roteiro_irara_lin2958} Art. 24. No manejo florestal nas áreas fora de Reserva Legal, aplica-se
+- **Roteiro IRARA, linha 2959** {#roteiro_irara_lin2959} igualmente o disposto nos arts. 21, 22 e 23.
+- **Roteiro IRARA, linha 2960** {#roteiro_irara_lin2960} O técnico, ao verificar que a área declarada como reserva legal coincide com a área do
+- **Roteiro IRARA, linha 2961** {#roteiro_irara_lin2961} plano de manejo florestal, deverá inserir o seguinte texto na aba “Observação”:
+- **Roteiro IRARA, linha 2962** {#roteiro_irara_lin2962} Observação: “Constatou-se que a área indicada como reserva legal coincide com a área
+- **Roteiro IRARA, linha 2963** {#roteiro_irara_lin2963} indicada no plano de manejo florestal. Conforme o art. 20, da Lei n.12651/2012, o
+- **Roteiro IRARA, linha 2964** {#roteiro_irara_lin2964} proprietário/possuidor não poderá promover a descaracterização da cobertura vegetal e nem
+- **Roteiro IRARA, linha 2965** {#roteiro_irara_lin2965} prejudicar a conservação da vegetação nativa dessa área”.
+
+### 4.7.3 Parâmetros que o técnico deverá observar nos imóveis que possuem
+
+- **Roteiro IRARA, linha 2967** {#roteiro_irara_lin2967} averbação de reserva legal
+- **Roteiro IRARA, linha 2968** {#roteiro_irara_lin2968} A primeira fase da análise da reserva legal consiste na verificação quanto a uma
+- **Roteiro IRARA, linha 2969** {#roteiro_irara_lin2969} possível averbação em matrícula. Portanto, faz-se necessário o entendimento quanto a Reserva
+- **Roteiro IRARA, linha 2970** {#roteiro_irara_lin2970} Legal Averbada e Reserva Legal Aprovada e não Averbada:
+- **Roteiro IRARA, linha 2971** {#roteiro_irara_lin2971} •
+- **Roteiro IRARA, linha 2972** {#roteiro_irara_lin2972} Reserva Legal Averbada (RLA): Área de reserva legal constituída anteriormente
+- **Roteiro IRARA, linha 2973** {#roteiro_irara_lin2973} à Lei nº 12.651/2012, aprovada pelo órgão ambiental competente e que consta na
+- **Roteiro IRARA, linha 2974** {#roteiro_irara_lin2974} documentação do imóvel rural ou no registro de outro imóvel, nos casos de
+- **Roteiro IRARA, linha 2975** {#roteiro_irara_lin2975} compensação.
+- **Roteiro IRARA, linha 2976** {#roteiro_irara_lin2976} •
+- **Roteiro IRARA, linha 2977** {#roteiro_irara_lin2977} Reserva Legal Aprovada e Não Averbada (RLANA): Área de reserva legal
+- **Roteiro IRARA, linha 2978** {#roteiro_irara_lin2978} constituída anteriormente à Lei 12.651/2012 e aprovada pelo órgão ambiental
+- **Roteiro IRARA, linha 2979** {#roteiro_irara_lin2979} competente, porém sem registro na documentação do imóvel rural
+- **Roteiro IRARA, linha 2980** {#roteiro_irara_lin2980} No Estado do Paraná, o Decreto Estadual nº 387/1999 estabeleceu o Sistema de
+- **Roteiro IRARA, linha 2981** {#roteiro_irara_lin2981} Manutenção, Recuperação e Proteção da Floresta Legal e Áreas de Preservação Permanente
+- **Roteiro IRARA, linha 2982** {#roteiro_irara_lin2982} (Sisleg) que permitia aos proprietários de imóveis rurais assinar um termo de compromisso de
+- **Roteiro IRARA, linha 2983** {#roteiro_irara_lin2983} recomposição das áreas de reserva legal perante o órgão ambiental. Nesse sistema, exigia-se,
+- **Roteiro IRARA, linha 2984** {#roteiro_irara_lin2984} no mínimo, 20% deárea de reserva legal, não sendo possível a junção com áreas de preservação
+- **Roteiro IRARA, linha 2985** {#roteiro_irara_lin2985} permanente, salvo em determinados períodos e condições excepcionais.
+- **Roteiro IRARA, linha 2986** {#roteiro_irara_lin2986} Atualmente, as Resoluções SEDEST nº 18 e 33/2020 (ANEXO V –RESOLUÇÃO
+- **Roteiro IRARA, linha 2987** {#roteiro_irara_lin2987} SEDEST Nº 18/2020e ANEXO V – RESOLUÇÃO SEDEST Nº 33/2020) estabelecem os
+- **Roteiro IRARA, linha 2988** {#roteiro_irara_lin2988} requisitos para a baixa dos Termos de Compromisso de imóveis com área até 4 módulos
+- **Roteiro IRARA, linha 2989** {#roteiro_irara_lin2989} fiscais assinados à luz do Sisleg. Essa baixa permite que os imóveis rurais estabeleçam a
+- **Roteiro IRARA, linha 2990** {#roteiro_irara_lin2990} sua regularização ambiental baseados na Lei nº 12.651/2012 e na Lei Estadual nº 18.295/2014.
+- **Roteiro IRARA, linha 2991** {#roteiro_irara_lin2991} Art. 1º Estabelecer procedimentos para baixa da averbação dos Termos de
+- **Roteiro IRARA, linha 2992** {#roteiro_irara_lin2992} Compromisso ou instrumentos similares de imóveis rurais de até quatro
+- **Roteiro IRARA, linha 2993** {#roteiro_irara_lin2993} módulos fiscais, em conformidade com o § 1º do art. 36 da Lei 18.295 de 10
+- **Roteiro IRARA, linha 2994** {#roteiro_irara_lin2994} de novembro de 2014.
+- **Roteiro IRARA, linha 2995** {#roteiro_irara_lin2995} Art. 3º Os imóveis rurais até quatro módulos fiscais que possuam Termos de
+- **Roteiro IRARA, linha 2996** {#roteiro_irara_lin2996} Compromisso ou instrumentos similares que tenham sido firmados conforme
+- **Roteiro IRARA, linha 2997** {#roteiro_irara_lin2997} exigências da Lei Federal 4.771/1965 serão adequadas a Lei Estadual nº
+- **Roteiro IRARA, linha 2998** {#roteiro_irara_lin2998} 18.295/2014.
+- **Roteiro IRARA, linha 2999** {#roteiro_irara_lin2999} § 1º Os imóveis rurais com matrícula averbada de áreas de Reserva Legal
+- **Roteiro IRARA, linha 3000** {#roteiro_irara_lin3000} cedidas ou recebidas de terceiros não serão passiveis da baixa
+- **Roteiro IRARA, linha 3001** {#roteiro_irara_lin3001} de averbação, da respectiva cessão, sem a devida análise do CAR pelo órgão
+- **Roteiro IRARA, linha 3002** {#roteiro_irara_lin3002} ambiental.
+- **Roteiro IRARA, linha 3003** {#roteiro_irara_lin3003} § 2º O cancelamento do Termo de Compromisso e a respectiva baixada
+- **Roteiro IRARA, linha 3004** {#roteiro_irara_lin3004} averbação, não exime o proprietário, de realizar, após a análise do CAR pelo
+- **Roteiro IRARA, linha 3005** {#roteiro_irara_lin3005} órgão Ambiental, a regularização que se fizer necessária, mediante a
+- **Roteiro IRARA, linha 3006** {#roteiro_irara_lin3006} assinatura do Termo de Compromisso de Adesão ao PRA.
+- **Roteiro IRARA, linha 3007** {#roteiro_irara_lin3007} Art. 4º Após a inscrição no CAR, mediante apresentação do CAR na situação
+- **Roteiro IRARA, linha 3008** {#roteiro_irara_lin3008} ATIVO, os imóveis rurais com área de até quatro módulos fiscais poderão
+- **Roteiro IRARA, linha 3009** {#roteiro_irara_lin3009} requerer ao cartório a baixa da averbação da matrícula, em cumprimento ao
+- **Roteiro IRARA, linha 3010** {#roteiro_irara_lin3010} §
+- **Roteiro IRARA, linha 3011** {#roteiro_irara_lin3011} 1º
+- **Roteiro IRARA, linha 3012** {#roteiro_irara_lin3012} do
+- **Roteiro IRARA, linha 3013** {#roteiro_irara_lin3013} art.
+- **Roteiro IRARA, linha 3014** {#roteiro_irara_lin3014} da
+- **Roteiro IRARA, linha 3015** {#roteiro_irara_lin3015} Lei
+- **Roteiro IRARA, linha 3016** {#roteiro_irara_lin3016} Estadual
+- **Roteiro IRARA, linha 3017** {#roteiro_irara_lin3017} 18.295/2014.
+- **Roteiro IRARA, linha 3018** {#roteiro_irara_lin3018} ODemonstrativonasituaçãodeCARAtivoenacondiçãodeCARAnalisado, é o
+- **Roteiro IRARA, linha 3019** {#roteiro_irara_lin3019} documento que complementa a documentação para abaixa da averbação dos
+- **Roteiro IRARA, linha 3020** {#roteiro_irara_lin3020} Termos de Compromissos de Reserva Legal abaixo de 04 módulos fiscais,
+- **Roteiro IRARA, linha 3021** {#roteiro_irara_lin3021} sendo este o documento que representa o CAR ativo, analisado e
+- **Roteiro IRARA, linha 3022** {#roteiro_irara_lin3022} homologado, para os fins desta Resolução. (Redação dada pela Resolução 33
+- **Roteiro IRARA, linha 3023** {#roteiro_irara_lin3023} de 12/05/2020)
+- **Roteiro IRARA, linha 3024** {#roteiro_irara_lin3024} O técnico, ao analisar a documentação do imóvel anexada ao CAR (após a
+- **Roteiro IRARA, linha 3025** {#roteiro_irara_lin3025} notificação/retificação), deverá observar se consta qualquer termo de averbação/compensação
+- **Roteiro IRARA, linha 3026** {#roteiro_irara_lin3026} de reserva legal. Em casos afirmativos, deverá observar se foi feita a adesão ao PRA, que
+- **Roteiro IRARA, linha 3027** {#roteiro_irara_lin3027} facultará a possibilidade de revisão do Termo de Compromisso firmado com o órgão ambiental,
+- **Roteiro IRARA, linha 3028** {#roteiro_irara_lin3028} consoante a Portaria IAT 15/2021, que dispõe:
+- **Roteiro IRARA, linha 3029** {#roteiro_irara_lin3029} Art. 1º Os proprietários e possuidores de imóveis rurais que realizaram a
+- **Roteiro IRARA, linha 3030** {#roteiro_irara_lin3030} inscrição no CAR até 31 de dezembro de 2020 poderão aderir ao PRA
+- **Roteiro IRARA, linha 3031** {#roteiro_irara_lin3031} (Programa de Regularização Ambiental) em até 2 (dois) anos, observado o
+- **Roteiro IRARA, linha 3032** {#roteiro_irara_lin3032} disposto no § 4º do art. 29 e §2º do Art. 59 da Lei Federal 12651/2012
+- **Roteiro IRARA, linha 3033** {#roteiro_irara_lin3033} (CódigoFlorestal).
+- **Roteiro IRARA, linha 3034** {#roteiro_irara_lin3034} § 1º Caso a adesão ao PRA não tenha ocorrido no ato da inscrição no CAR, o
+- **Roteiro IRARA, linha 3035** {#roteiro_irara_lin3035} proprietário ou possuidor de imóvel rural poderá fazê-lo no prazo assinalado
+- **Roteiro IRARA, linha 3036** {#roteiro_irara_lin3036} no § 4º do art. 29 e § 2º do Art. 59 da Lei Federal 12651/2012
+- **Roteiro IRARA, linha 3037** {#roteiro_irara_lin3037} (CódigoFlorestal), mediante retificação do CAR.
+- **Roteiro IRARA, linha 3038** {#roteiro_irara_lin3038} § 2º Revisão, cancelamento ou regularização de Termos de Compromisso ou
+- **Roteiro IRARA, linha 3039** {#roteiro_irara_lin3039} instrumentos similares que tenham sido firmados conforme exigências da Lei
+- **Roteiro IRARA, linha 3040** {#roteiro_irara_lin3040} Federal 4771/1965, deverão ser realizadas após a análise do CAR pelo órgão
+- **Roteiro IRARA, linha 3041** {#roteiro_irara_lin3041} ambiental, mediante assinatura de Termo de Adesão ao PRA com as
+- **Roteiro IRARA, linha 3042** {#roteiro_irara_lin3042} regularizações que se fizerem necessárias, independentemente de
+- **Roteiro IRARA, linha 3043** {#roteiro_irara_lin3043} requerimento específico por parte do proprietário ou possuidor.
+- **Roteiro IRARA, linha 3044** {#roteiro_irara_lin3044} A Lei nº 14.595/2023 alterou o prazo de adesão ao PRA estabelecido no artigo 29, §4 na
+- **Roteiro IRARA, linha 3045** {#roteiro_irara_lin3045} Lei 12651/12, estabelecendo o seguinte:
+- **Roteiro IRARA, linha 3046** {#roteiro_irara_lin3046} § 4º Terão direito à adesão ao PRA, de que trata o art. 59 desta Lei, os
+- **Roteiro IRARA, linha 3047** {#roteiro_irara_lin3047} proprietários e possuidores dos imóveis rurais com área acima de 4 (quatro)
+- **Roteiro IRARA, linha 3048** {#roteiro_irara_lin3048} módulos fiscais que os inscreverem no CAR até o dia 31 de dezembro de 2023,
+- **Roteiro IRARA, linha 3049** {#roteiro_irara_lin3049} bem como os proprietários e possuidores dos imóveis rurais com área de até
+- **Roteiro IRARA, linha 3050** {#roteiro_irara_lin3050} 4 (quatro) módulos fiscais ou que atendam ao disposto no art. 3º da Lei nº
+- **Roteiro IRARA, linha 3051** {#roteiro_irara_lin3051} 11.326, de 24 de julho de 2006, que os inscreverem no CAR até o dia 31 de
+- **Roteiro IRARA, linha 3052** {#roteiro_irara_lin3052} dezembro de 2025.” (NR)
+- **Roteiro IRARA, linha 3053** {#roteiro_irara_lin3053} Conforme o normativo legal, terão direito à adesão ao PRA os proprietários e
+- **Roteiro IRARA, linha 3054** {#roteiro_irara_lin3054} possuidores dos imóveis rurais com área acima de 04 (quatro) módulos fiscais que os
+- **Roteiro IRARA, linha 3055** {#roteiro_irara_lin3055} inscreverem no CAR até 31 de dezembro de 2023, bem como os proprietários e possuidores dos
+- **Roteiro IRARA, linha 3056** {#roteiro_irara_lin3056} imóveis rurais com área de até 04 (quatro) módulos fiscais ou que atendam ao disposto no art.3º
+- **Roteiro IRARA, linha 3057** {#roteiro_irara_lin3057} da Lei nº11.326/2006, que os inscreverem no CAR até o dia 31 de dezembro de 2025. Além
+- **Roteiro IRARA, linha 3058** {#roteiro_irara_lin3058} disso, a inscrição do imóvel no CAR é condição obrigatória para adesão ao PRA, sendo que o
+- **Roteiro IRARA, linha 3059** {#roteiro_irara_lin3059} proprietário/possuidor deverá requerer adesão ao programa no prazo de 01 (ano), contado da
+- **Roteiro IRARA, linha 3060** {#roteiro_irara_lin3060} notificação pelo órgão ambiental.
+- **Roteiro IRARA, linha 3061** {#roteiro_irara_lin3061} § 3º A adesão ao PRA é a manifestação necessária no momento da inscrição
+- **Roteiro IRARA, linha 3062** {#roteiro_irara_lin3062} ou retificação do CAR para requerimento da revisão dos Termos de
+- **Roteiro IRARA, linha 3063** {#roteiro_irara_lin3063} Compromisso firmados sob a égide da Lei 4771/1965.
+- **Roteiro IRARA, linha 3064** {#roteiro_irara_lin3064} Figura 61. Exemplo de Reserva Legal Averbada em Matrícula
+- **Roteiro IRARA, linha 3065** {#roteiro_irara_lin3065} 4.7.4
+- **Roteiro IRARA, linha 3066** {#roteiro_irara_lin3066} Parâmetros que o técnico deverá observar referente à compensação de
+- **Roteiro IRARA, linha 3067** {#roteiro_irara_lin3067} reserva legal
+- **Roteiro IRARA, linha 3068** {#roteiro_irara_lin3068} Os IRARA criados pelo INCRA após 22 de Julho de 2008, que detinham RVN, com
+- **Roteiro IRARA, linha 3069** {#roteiro_irara_lin3069} extensão inferior ao disposto no art. 12 da Lei 12.651/2012 até 22 julho de 2008, poderão
+- **Roteiro IRARA, linha 3070** {#roteiro_irara_lin3070} regularizar a RL independente de adesão ao PRA, como estabelece o art. 66 da Lei nº
+- **Roteiro IRARA, linha 3071** {#roteiro_irara_lin3071} 12.651/2012:
+- **Roteiro IRARA, linha 3072** {#roteiro_irara_lin3072} Art. 66. O proprietário ou possuidor de imóvel rural que detinha, em 22 de
+- **Roteiro IRARA, linha 3073** {#roteiro_irara_lin3073} julho de 2008, área de Reserva Legal em extensão inferior ao estabelecido no
+- **Roteiro IRARA, linha 3074** {#roteiro_irara_lin3074} art. 12, poderá regularizar sua situação, independentemente da adesão ao
+- **Roteiro IRARA, linha 3075** {#roteiro_irara_lin3075} PRA, adotando as seguintes alternativas, isolada ou conjuntamente:
+- **Roteiro IRARA, linha 3076** {#roteiro_irara_lin3076} I - Recompor a Reserva Legal;
+- **Roteiro IRARA, linha 3077** {#roteiro_irara_lin3077} II - Permitir a regeneração natural da vegetação na área de Reserva Legal;
+- **Roteiro IRARA, linha 3078** {#roteiro_irara_lin3078} III – compensar a Reserva Legal.
+- **Roteiro IRARA, linha 3079** {#roteiro_irara_lin3079} § 5º A compensação de que trata o inciso III do caput deverá ser precedida
+- **Roteiro IRARA, linha 3080** {#roteiro_irara_lin3080} pela inscrição da propriedade no CAR e poderá ser feita mediante:
+- **Roteiro IRARA, linha 3081** {#roteiro_irara_lin3081} I - Aquisição de Cota de Reserva Ambiental - CRA;
+- **Roteiro IRARA, linha 3082** {#roteiro_irara_lin3082} II - Arrendamento de área sob regime de servidão ambiental ou Reserva Legal;
+- **Roteiro IRARA, linha 3083** {#roteiro_irara_lin3083} III - doação ao poder público de área localizada no interior de Unidade de
+- **Roteiro IRARA, linha 3084** {#roteiro_irara_lin3084} Conservação de domínio público pendente de regularização fundiária;
+- **Roteiro IRARA, linha 3085** {#roteiro_irara_lin3085} IV - Cadastramento de outra área equivalente e excedente à Reserva Legal,
+- **Roteiro IRARA, linha 3086** {#roteiro_irara_lin3086} em imóvel de mesma titularidade ou adquirida em imóvel de terceiro, com
+- **Roteiro IRARA, linha 3087** {#roteiro_irara_lin3087} vegetação nativa estabelecida, em regeneração ou recomposição, desde que
+- **Roteiro IRARA, linha 3088** {#roteiro_irara_lin3088} localizada no mesmo bioma.
+- **Roteiro IRARA, linha 3089** {#roteiro_irara_lin3089} § 6º As áreas a serem utilizadas para compensação na forma do § 5º deverão:
+- **Roteiro IRARA, linha 3090** {#roteiro_irara_lin3090} I - Ser equivalentes em extensão à área da Reserva Legal a ser compensada;
+- **Roteiro IRARA, linha 3091** {#roteiro_irara_lin3091} II - Estar localizadas no mesmo bioma da área de Reserva Legal a ser
+- **Roteiro IRARA, linha 3092** {#roteiro_irara_lin3092} compensada;
+- **Roteiro IRARA, linha 3093** {#roteiro_irara_lin3093} III - Se fora do Estado, estar localizadas em áreas identificadas como
+- **Roteiro IRARA, linha 3094** {#roteiro_irara_lin3094} prioritárias pela União ou pelos Estados.
+- **Roteiro IRARA, linha 3095** {#roteiro_irara_lin3095} § 7º A definição de áreas prioritárias de que trata o § 6º buscará favorecer,
+- **Roteiro IRARA, linha 3096** {#roteiro_irara_lin3096} entre outros, a recuperação de bacias hidrográficas excessivamente
+- **Roteiro IRARA, linha 3097** {#roteiro_irara_lin3097} desmatadas, a criação de corredores ecológicos, a conservação de grandes
+- **Roteiro IRARA, linha 3098** {#roteiro_irara_lin3098} áreas protegidas e a conservação ou recuperação de ecossistemas ou
+- **Roteiro IRARA, linha 3099** {#roteiro_irara_lin3099} espécies ameaçadas.
+- **Roteiro IRARA, linha 3100** {#roteiro_irara_lin3100} § 8º Quando se tratar de imóveis públicos, a compensação de que trata o
+- **Roteiro IRARA, linha 3101** {#roteiro_irara_lin3101} inciso III do caput poderá ser feita mediante concessão de direito real de uso
+- **Roteiro IRARA, linha 3102** {#roteiro_irara_lin3102} ou doação, por parte da pessoa jurídica de direito público proprietária de
+- **Roteiro IRARA, linha 3103** {#roteiro_irara_lin3103} imóvel rural que não detém Reserva Legal em extensão suficiente, ao órgão
+- **Roteiro IRARA, linha 3104** {#roteiro_irara_lin3104} público responsável pela Unidade de Conservaçãode área localizada no
+- **Roteiro IRARA, linha 3105** {#roteiro_irara_lin3105} interior de Unidade de Conservação de domínio público, a ser criada ou
+- **Roteiro IRARA, linha 3106** {#roteiro_irara_lin3106} pendente de regularização fundiária.
+- **Roteiro IRARA, linha 3107** {#roteiro_irara_lin3107} § 9º As medidas de compensação previstas neste artigo não poderão ser
+- **Roteiro IRARA, linha 3108** {#roteiro_irara_lin3108} utilizadas como forma de viabilizar a conversão de novas áreas para uso
+- **Roteiro IRARA, linha 3109** {#roteiro_irara_lin3109} alternativo do solo.
+- **Roteiro IRARA, linha 3110** {#roteiro_irara_lin3110} O art. 78, por sua vez, trata da servidão ambiental:
+- **Roteiro IRARA, linha 3111** {#roteiro_irara_lin3111} Art. 78. O art. 9º-A da Lei nº 6.938, de 31 de agosto de 1981, passa a vigorar
+- **Roteiro IRARA, linha 3112** {#roteiro_irara_lin3112} com a seguinte redação:
+- **Roteiro IRARA, linha 3113** {#roteiro_irara_lin3113} “Art. 9º-A. O proprietário ou possuidor de imóvel, pessoa natural ou jurídica,
+- **Roteiro IRARA, linha 3114** {#roteiro_irara_lin3114} pode, por instrumento público ou particular ou por termo administrativo
+- **Roteiro IRARA, linha 3115** {#roteiro_irara_lin3115} firmado perante órgão integrante do Sisnama, limitar o uso de toda a sua
+- **Roteiro IRARA, linha 3116** {#roteiro_irara_lin3116} propriedade ou de parte dela para preservar, conservar ou recuperar os
+- **Roteiro IRARA, linha 3117** {#roteiro_irara_lin3117} recursos ambientais existentes, instituindo servidão ambiental.
+- **Roteiro IRARA, linha 3118** {#roteiro_irara_lin3118} § 1º O instrumento ou termo de instituição da servidão ambiental deve
+- **Roteiro IRARA, linha 3119** {#roteiro_irara_lin3119} incluir, no mínimo, os seguintes itens:
+- **Roteiro IRARA, linha 3120** {#roteiro_irara_lin3120} I - Memorial descritivo da área da servidão ambiental, contendo pelo menos
+- **Roteiro IRARA, linha 3121** {#roteiro_irara_lin3121} um ponto de amarração georreferenciado;
+- **Roteiro IRARA, linha 3122** {#roteiro_irara_lin3122} II - Objeto da servidão ambiental;
+- **Roteiro IRARA, linha 3123** {#roteiro_irara_lin3123} III - direitos e deveres do proprietário ou possuidor instituidor;
+- **Roteiro IRARA, linha 3124** {#roteiro_irara_lin3124} IV - Prazo durante o qual a área permanecerá como servidão ambiental.
+- **Roteiro IRARA, linha 3125** {#roteiro_irara_lin3125} § 2º A servidão ambiental não se aplica às Áreas de Preservação Permanente
+- **Roteiro IRARA, linha 3126** {#roteiro_irara_lin3126} e à Reserva Legal mínima exigida.
+- **Roteiro IRARA, linha 3127** {#roteiro_irara_lin3127} § 3º A restrição ao uso ou à exploração da vegetação da área sob servidão
+- **Roteiro IRARA, linha 3128** {#roteiro_irara_lin3128} ambiental deve ser, no mínimo, a mesma estabelecida para a Reserva Legal.
+- **Roteiro IRARA, linha 3129** {#roteiro_irara_lin3129} § 4º Devem ser objeto de averbação na matrícula do imóvel no registro de
+- **Roteiro IRARA, linha 3130** {#roteiro_irara_lin3130} imóveis competente:
+- **Roteiro IRARA, linha 3131** {#roteiro_irara_lin3131} I - O instrumento ou termo de instituição da servidão ambiental;
+- **Roteiro IRARA, linha 3132** {#roteiro_irara_lin3132} II - O contrato de alienação, cessão ou transferência da servidão ambiental.
+- **Roteiro IRARA, linha 3133** {#roteiro_irara_lin3133} § 5º Na hipótese de compensação de Reserva Legal, a servidão ambiental
+- **Roteiro IRARA, linha 3134** {#roteiro_irara_lin3134} deve ser averbada na matrícula de todos os imóveis envolvidos.
+- **Roteiro IRARA, linha 3135** {#roteiro_irara_lin3135} § 6º É vedada, durante o prazo de vigência da servidão ambiental, a alteração
+- **Roteiro IRARA, linha 3136** {#roteiro_irara_lin3136} da destinação da área, nos casos de transmissão do imóvel a qualquer título,
+- **Roteiro IRARA, linha 3137** {#roteiro_irara_lin3137} de desmembramento ou de retificação dos limites do imóvel.
+- **Roteiro IRARA, linha 3138** {#roteiro_irara_lin3138} §7ºAsáreasquetenhamsidoinstituídasnaformadeservidãoflorestal,
+- **Roteiro IRARA, linha 3139** {#roteiro_irara_lin3139} nos
+- **Roteiro IRARA, linha 3140** {#roteiro_irara_lin3140} termos do art. 44-A da Lei nº 4.771, de 15 de setembrode 1965, passam a ser
+- **Roteiro IRARA, linha 3141** {#roteiro_irara_lin3141} consideradas, pelo efeito desta Lei, como de servidão ambiental.” (NR)
+- **Roteiro IRARA, linha 3142** {#roteiro_irara_lin3142} Por fim, o art. 81 trata do excedente de vegetação nativa que poderá, a critério do
+- **Roteiro IRARA, linha 3143** {#roteiro_irara_lin3143} proprietário, ser destinada à compensação de reserva legal.
+- **Roteiro IRARA, linha 3144** {#roteiro_irara_lin3144} Art. 81. O caput do art. 35 da Lei nº 11.428, de 22 de dezembro de 2006, passa
+- **Roteiro IRARA, linha 3145** {#roteiro_irara_lin3145} a vigorar com a seguinte redação:
+- **Roteiro IRARA, linha 3146** {#roteiro_irara_lin3146} “Art. 35.A conservação, em imóvel rural ou urbano, da vegetação primária ou
+- **Roteiro IRARA, linha 3147** {#roteiro_irara_lin3147} da vegetação secundária em qualquer estágio de regeneração do Bioma Mata
+- **Roteiro IRARA, linha 3148** {#roteiro_irara_lin3148} Atlântica cumpre função social e é de interesse público, podendo, a critério
+- **Roteiro IRARA, linha 3149** {#roteiro_irara_lin3149} do proprietário, as áreas sujeitas à restrição de que trata esta Lei ser
+- **Roteiro IRARA, linha 3150** {#roteiro_irara_lin3150} computadas para efeito da Reserva Legal e seu excedente utilizado para fins de
+- **Roteiro IRARA, linha 3151** {#roteiro_irara_lin3151} compensação ambiental ou instituição de Cota de Reserva Ambiental-CRA.
+- **Roteiro IRARA, linha 3152** {#roteiro_irara_lin3152} Reconhece-se que a lei permite que quem dispõe de excedente de vegetação nativa
+- **Roteiro IRARA, linha 3153** {#roteiro_irara_lin3153} grave seu excedente, averbando-o na matrícula do imóvel. Porém, ressalta-se que antes da
+- **Roteiro IRARA, linha 3154** {#roteiro_irara_lin3154} análise do CAR do imóvel objeto de servidão não é possível afirmar qual é o excedente a ser
+- **Roteiro IRARA, linha 3155** {#roteiro_irara_lin3155} disponibilizado. Da mesma forma, antes da análise do CAR do imóvel com passivo ambiental
+- **Roteiro IRARA, linha 3156** {#roteiro_irara_lin3156} não é possível mensurar qual é o montante faltante, tampouco se há restrições de localização
+- **Roteiro IRARA, linha 3157** {#roteiro_irara_lin3157} e/ou outras premissas específicas que devem ser analisadas com relação ao imóvel que deverá
+- **Roteiro IRARA, linha 3158** {#roteiro_irara_lin3158} ceder a RL.
+- **Roteiro IRARA, linha 3159** {#roteiro_irara_lin3159} A IN IAT nº 01/2020 dispõe sobre os procedimentos e critérios técnicos a serem
+- **Roteiro IRARA, linha 3160** {#roteiro_irara_lin3160} adotados para a compensação da reserva legal nas modalidades de servidão ambiental,
+- **Roteiro IRARA, linha 3161** {#roteiro_irara_lin3161} cadastramento de área equivalente e excedente e doação da área no interior de unidade de
+- **Roteiro IRARA, linha 3162** {#roteiro_irara_lin3162} conservação. O técnico, portanto, deverá seguir as instruções constantes nesta portaria, que diz:
+- **Roteiro IRARA, linha 3163** {#roteiro_irara_lin3163} Art. 3º. A aprovação definitiva da compensação da Reserva Legal, integral ou
+- **Roteiro IRARA, linha 3164** {#roteiro_irara_lin3164} complementar à área existente a fim de atingir a área mínima de Reserva
+- **Roteiro IRARA, linha 3165** {#roteiro_irara_lin3165} Legal exigida pela Lei Federal nº 12.651/2012, por quaisquer das formas
+- **Roteiro IRARA, linha 3166** {#roteiro_irara_lin3166} definidas na legislação estará condicionada, cumulativamente, aos seguintes
+- **Roteiro IRARA, linha 3167** {#roteiro_irara_lin3167} requisitos:
+- **Roteiro IRARA, linha 3168** {#roteiro_irara_lin3168} I-
+- **Roteiro IRARA, linha 3169** {#roteiro_irara_lin3169} Ter o CAR analisado e validado até a etapa de regularidade ambiental,
+- **Roteiro IRARA, linha 3170** {#roteiro_irara_lin3170} tanto do imóvel receptor como do imóvel cedente;
+- **Roteiro IRARA, linha 3171** {#roteiro_irara_lin3171} II-
+- **Roteiro IRARA, linha 3172** {#roteiro_irara_lin3172} Todas as áreas no interior do imóvel receptor cobertas com vegetação
+- **Roteiro IRARA, linha 3173** {#roteiro_irara_lin3173} nativa ou em regeneração sejam incluídas na Reserva Legal;
+- **Roteiro IRARA, linha 3174** {#roteiro_irara_lin3174} III- Não tenha ocorrido supressão irregular de vegetação nativa no interior
+- **Roteiro IRARA, linha 3175** {#roteiro_irara_lin3175} do imóvel após 22 de julho de 2008.
+- **Roteiro IRARA, linha 3176** {#roteiro_irara_lin3176} Art. 4º. É vedada a alteração da destinação da área, durante vigência de
+- **Roteiro IRARA, linha 3177** {#roteiro_irara_lin3177} servidão ou de cadastramento, nos casos de transmissão do imóvel a
+- **Roteiro IRARA, linha 3178** {#roteiro_irara_lin3178} qualquer título, de desmembramento ou de retificação dos limites do imóvel.
+- **Roteiro IRARA, linha 3179** {#roteiro_irara_lin3179} Art. 07. Entende-se como concluído o procedimento após a aprovação por
+- **Roteiro IRARA, linha 3180** {#roteiro_irara_lin3180} este instituto, da compensação realizada no SICAR, formalizada através da
+- **Roteiro IRARA, linha 3181** {#roteiro_irara_lin3181} assinatura do Termo de Compromisso, bem como apresentada a averbação
+- **Roteiro IRARA, linha 3182** {#roteiro_irara_lin3182} na matrícula dos imóveis ou a anuência do Instituto Água e Terra nos casos
+- **Roteiro IRARA, linha 3183** {#roteiro_irara_lin3183} imobiliários excepcionais conforme parágrafo único do art. 12 da presente
+- **Roteiro IRARA, linha 3184** {#roteiro_irara_lin3184} Instrução Normativa.
+- **Roteiro IRARA, linha 3185** {#roteiro_irara_lin3185} Em relação a casos de desmatamento de áreas cedidas para fins de compensação, o
+- **Roteiro IRARA, linha 3186** {#roteiro_irara_lin3186} art. 5º da IN 01/2020 diz:
+- **Roteiro IRARA, linha 3187** {#roteiro_irara_lin3187} Art. 05. A área cedida a título de compensação de Reserva Legal seguirá o
+- **Roteiro IRARA, linha 3188** {#roteiro_irara_lin3188} regime de proteção da Reserva Legal previsto no art. 17
+- **Roteiro IRARA, linha 3189** {#roteiro_irara_lin3189} daLeiFederalnº12.651/2012enesteregulamento.
+- **Roteiro IRARA, linha 3190** {#roteiro_irara_lin3190} § 1º. No caso de desmatamento ou degradação da área através de
+- **Roteiro IRARA, linha 3191** {#roteiro_irara_lin3191} compensação de Reserva Legal, o proprietário do imóvel rural cedente deverá
+- **Roteiro IRARA, linha 3192** {#roteiro_irara_lin3192} oficializar o Instituto Água e Terra e promover a sua recomposição, em prazo
+- **Roteiro IRARA, linha 3193** {#roteiro_irara_lin3193} a ser estabelecido pelo Instituto Água e Terra.
+- **Roteiro IRARA, linha 3194** {#roteiro_irara_lin3194} § 2º. Verificada a infração ambiental decorrente do desmatamento,
+- **Roteiro IRARA, linha 3195** {#roteiro_irara_lin3195} solidariamente o adquirente e o proprietário rural do imóvel cedente estarão
+- **Roteiro IRARA, linha 3196** {#roteiro_irara_lin3196} sujeitos
+- **Roteiro IRARA, linha 3197** {#roteiro_irara_lin3197} às
+- **Roteiro IRARA, linha 3198** {#roteiro_irara_lin3198} sanções
+- **Roteiro IRARA, linha 3199** {#roteiro_irara_lin3199} e
+- **Roteiro IRARA, linha 3200** {#roteiro_irara_lin3200} infrações
+- **Roteiro IRARA, linha 3201** {#roteiro_irara_lin3201} administrativas
+- **Roteiro IRARA, linha 3202** {#roteiro_irara_lin3202} ambientaisprevistasnoart.51doDecreto6.514/2008.
+- **Roteiro IRARA, linha 3203** {#roteiro_irara_lin3203} § 3º. A área de Reserva Legal com excedente compensado, em nenhuma
+- **Roteiro IRARA, linha 3204** {#roteiro_irara_lin3204} hipótese poderá ter sua destinação alterada.
+
+### 4.7.5 Reserva Legal Averbada (RLA), Reserva Legal Aprovada e Não Averbada
+
+- **Roteiro IRARA, linha 3206** {#roteiro_irara_lin3206} (RLANA)
+- **Roteiro IRARA, linha 3207** {#roteiro_irara_lin3207} Esta seção não é mais cabível para os IRARA, visto que o INCRA já protocolou pedido
+- **Roteiro IRARA, linha 3208** {#roteiro_irara_lin3208} de baixa de RL averbada de todos os PA, conforme Protocolo 21024593-6.
+- **Roteiro IRARA, linha 3209** {#roteiro_irara_lin3209} Os criados após a data desta publicação, poderão ter seu pedido de baixa protocolados
+- **Roteiro IRARA, linha 3210** {#roteiro_irara_lin3210} posteriormente.
+
+### 4.7.6 Área de RL Exigida por Lei
+
+- **Roteiro IRARA, linha 3212** {#roteiro_irara_lin3212} Nesta seção, o técnico deverá verificar se as informações referentes à reserva legal
+- **Roteiro IRARA, linha 3213** {#roteiro_irara_lin3213} estão em conformidade com a Lei nº 12.651/2012.
+
+### 4.7.6.1 Aba Análise do cômputo da APP no percentual de RL
+
+- **Roteiro IRARA, linha 3215** {#roteiro_irara_lin3215} A Lei nº 12.651/2012 permite o cômputo das áreas de preservação permanente no
+- **Roteiro IRARA, linha 3216** {#roteiro_irara_lin3216} cálculo da RL (averbada ou proposta), abrangendo a regeneração, a recomposição e a
+- **Roteiro IRARA, linha 3217** {#roteiro_irara_lin3217} compensação, observada as condições do art. 15. O sistema realiza o cálculo da quantidade de
+- **Roteiro IRARA, linha 3218** {#roteiro_irara_lin3218} áreas de preservação permanente computadas como reserva legal.
+- **Roteiro IRARA, linha 3219** {#roteiro_irara_lin3219} Art.15. Será admitido o cômputo das Áreas de Preservação Permanente no
+- **Roteiro IRARA, linha 3220** {#roteiro_irara_lin3220} cálculo do percentual da Reserva Legal do imóvel,desde que:
+- **Roteiro IRARA, linha 3221** {#roteiro_irara_lin3221} (Vide
+- **Roteiro IRARA, linha 3222** {#roteiro_irara_lin3222} ADCNº42) (VideADINNº4.901)
+- **Roteiro IRARA, linha 3223** {#roteiro_irara_lin3223} I - o benefício previsto neste artigo não implique a conversão de novas áreas
+- **Roteiro IRARA, linha 3224** {#roteiro_irara_lin3224} para o uso alternativo do solo;
+- **Roteiro IRARA, linha 3225** {#roteiro_irara_lin3225} II - a área a ser computada esteja conservada ou em processo de recuperação,
+- **Roteiro IRARA, linha 3226** {#roteiro_irara_lin3226} conforme comprovação do proprietário ao órgão estadual integrante do
+- **Roteiro IRARA, linha 3227** {#roteiro_irara_lin3227} Sisnama; e
+- **Roteiro IRARA, linha 3228** {#roteiro_irara_lin3228} III - o proprietário ou possuidor tenha requerido inclusão do imóvel no
+- **Roteiro IRARA, linha 3229** {#roteiro_irara_lin3229} Cadastro Ambiental Rural - CAR, nos termos desta Lei.
+- **Roteiro IRARA, linha 3230** {#roteiro_irara_lin3230} O técnico, ao identificar que ocorreu a junção das APPs com a RL, deverá inserir um
+- **Roteiro IRARA, linha 3231** {#roteiro_irara_lin3231} alerta para o proprietário possuidor.
+- **Roteiro IRARA, linha 3232** {#roteiro_irara_lin3232} Procedimento: No ícone “Ação”-
+- **Roteiro IRARA, linha 3233** {#roteiro_irara_lin3233} ,o técnico deverá inserir o seguinte texto:
+- **Roteiro IRARA, linha 3234** {#roteiro_irara_lin3234} “Em função do cômputo de Área de Preservação Permanente (APP) no cálculo do percentual da
+- **Roteiro IRARA, linha 3235** {#roteiro_irara_lin3235} Reserva Legal (RL), os Remanescentes de Vegetação Nativa(RVN) existentes no imóvel não
+- **Roteiro IRARA, linha 3236** {#roteiro_irara_lin3236} poderão ser desmatados e convertidos em novas áreas para uso alternativo do solo. Caso deseje
+- **Roteiro IRARA, linha 3237** {#roteiro_irara_lin3237} converter remanescentes de vegetação no imóvel, retifique o CAR, excluindo as sobreposições
+- **Roteiro IRARA, linha 3238** {#roteiro_irara_lin3238} de APP em áreas de RL.”
+- **Roteiro IRARA, linha 3239** {#roteiro_irara_lin3239} Ressalta-se que a Lei nº 12.651/2012 permite a junção das áreas de preservação
+- **Roteiro IRARA, linha 3240** {#roteiro_irara_lin3240} permanente para a constituição das áreas de reserva legal. Portanto, essa mensagem é apenas
+- **Roteiro IRARA, linha 3241** {#roteiro_irara_lin3241} um alerta ao proprietário/possuidor.
+- **Roteiro IRARA, linha 3242** {#roteiro_irara_lin3242} Figura 62. APP computada como RL
+
+### 4.7.6.2 Aba Balanço do passivo ou excedente de Reserva Legal dentro do IR
+
+- **Roteiro IRARA, linha 3244** {#roteiro_irara_lin3244} O técnico deverá verificar a listagem das informações e memórias de cálculo exibidas
+- **Roteiro IRARA, linha 3245** {#roteiro_irara_lin3245} pelo sistema no item “Balanço do passivo ou excedente de Reserva Legal dentro do IR”.
+- **Roteiro IRARA, linha 3246** {#roteiro_irara_lin3246} Figura 63. Informações da aba "Balanço do passivo ou excedente de Reserva Legal dentro do IR"
+- **Roteiro IRARA, linha 3247** {#roteiro_irara_lin3247} O sistema irá calcular a área de reserva legal automaticamente com base na geometria
+- **Roteiro IRARA, linha 3248** {#roteiro_irara_lin3248} declarada pelo proprietário, sendo este cálculo realizado em função do limite declarado, e não
+- **Roteiro IRARA, linha 3249** {#roteiro_irara_lin3249} sobre a soma documental da propriedade. O sistema exibirá, então, o resultado calculado do
+- **Roteiro IRARA, linha 3250** {#roteiro_irara_lin3250} passivo ou excedente de Reserva Legal do imóvel rural.
+- **Roteiro IRARA, linha 3251** {#roteiro_irara_lin3251} O técnico deverá analisar o imóvel conforme a aplicação do artigo 12 e 67 da Lei nº
+- **Roteiro IRARA, linha 3252** {#roteiro_irara_lin3252} 12.651/2012.
+
+### 4.7.6.3 Aplicação do Artigo 67 da Lei nº 12.651/2012
+
+- **Roteiro IRARA, linha 3254** {#roteiro_irara_lin3254} Para o cálculo da área de Reserva Legal conforme o art.67, da Lei nº 12.651/2012, o
+- **Roteiro IRARA, linha 3255** {#roteiro_irara_lin3255} técnico deverá considerar a seguinte definição:
+- **Roteiro IRARA, linha 3256** {#roteiro_irara_lin3256} Art. 67. Nos imóveis rurais que detinham, em 22 de julho de 2008, área de até
+- **Roteiro IRARA, linha 3257** {#roteiro_irara_lin3257} 4 (quatro) módulos fiscais e que possuam remanescente de vegetação nativa
+- **Roteiro IRARA, linha 3258** {#roteiro_irara_lin3258} em percentuais inferiores ao previsto no art. 12, aReserva Legal será
+- **Roteiro IRARA, linha 3259** {#roteiro_irara_lin3259} constituída com a área ocupada com a vegetação nativa existente em 22 de
+- **Roteiro IRARA, linha 3260** {#roteiro_irara_lin3260} julho de 2008, vedadas novas conversões para uso alternativo do solo. (Vide
+- **Roteiro IRARA, linha 3261** {#roteiro_irara_lin3261} ADC Nº 42)(Vide ADIN Nº4.901)(Vide ADINNº4.902)
+- **Roteiro IRARA, linha 3262** {#roteiro_irara_lin3262} Para avaliar a aplicação do art. 67 nos IRARA, o técnico deverá se atentar para a data
+- **Roteiro IRARA, linha 3263** {#roteiro_irara_lin3263} de criação do assentamento. Para tanto, caso seja necessário, o técnico poderá solicitar a
+- **Roteiro IRARA, linha 3264** {#roteiro_irara_lin3264} matrícula do imóvel.
+- **Roteiro IRARA, linha 3265** {#roteiro_irara_lin3265} Para responder à questão “Se aplica ao imóvel o Artigo 67 da Lei nº 12.651/2012?”, o
+- **Roteiro IRARA, linha 3266** {#roteiro_irara_lin3266} técnico deverá verificar as seguintes situações:
+- **Roteiro IRARA, linha 3267** {#roteiro_irara_lin3267} Figura 64. Aplicação do art. 67, da Lei nº 12.651/2012
+- **Roteiro IRARA, linha 3268** {#roteiro_irara_lin3268} Situação 01: Caso o imóvel rural atenda aos requisitos do art. 67, da Lei nº12.651/2012, o
+- **Roteiro IRARA, linha 3269** {#roteiro_irara_lin3269} técnico deverá responder “Sim”. Neste caso, a área de reserva legal mínima exigida por lei será
+- **Roteiro IRARA, linha 3270** {#roteiro_irara_lin3270} equivalente à área de remanescente de vegetação nativa existente/inexistente no imóvel rural
+- **Roteiro IRARA, linha 3271** {#roteiro_irara_lin3271} em 22/07/2008.
+- **Roteiro IRARA, linha 3272** {#roteiro_irara_lin3272} Situação 02: Caso tenha ocorrido o desmatamento após 22/07/2008 (área antropizada não
+- **Roteiro IRARA, linha 3273** {#roteiro_irara_lin3273} consolidada) e não atenda aos requisitos do art. 67, da Lei nº12.651/2012, o técnico deverá
+- **Roteiro IRARA, linha 3274** {#roteiro_irara_lin3274} responder “Não”. Neste caso, a área de reserva legal mínima exigida por lei será calculada
+- **Roteiro IRARA, linha 3275** {#roteiro_irara_lin3275} considerando o percentual de 20%, estabelecido no art.12 da referida lei.
+- **Roteiro IRARA, linha 3276** {#roteiro_irara_lin3276} Situação 03: Caso tenha ocorrido o desmatamento após 22/07/2008 (área antropizada não
+- **Roteiro IRARA, linha 3277** {#roteiro_irara_lin3277} consolidada), mas o imóvel se enquadra nos requisitos do art. 67, da Lei nº 12.651/2012, o
+- **Roteiro IRARA, linha 3278** {#roteiro_irara_lin3278} técnico deverá responder “Sim”. Neste caso, a área de reserva legal mínima exigida por lei será
+- **Roteiro IRARA, linha 3279** {#roteiro_irara_lin3279} equivalente à área de remanescente de vegetação nativa existente/inexistente no imóvel rural
+- **Roteiro IRARA, linha 3280** {#roteiro_irara_lin3280} em 22/07/2008. No entanto, o proprietário/possuidor será obrigado a recompor toda a área
+- **Roteiro IRARA, linha 3281** {#roteiro_irara_lin3281} antropizada não consolidada.
+- **Roteiro IRARA, linha 3282** {#roteiro_irara_lin3282} Situação04: Caso o técnico observe que existe declaração incidental de inconstitucionalidade
+- **Roteiro IRARA, linha 3283** {#roteiro_irara_lin3283} ou decisão judicial que estabeleça a não aplicação do art.67, da Lei n. 12.651/2012, deverá
+- **Roteiro IRARA, linha 3284** {#roteiro_irara_lin3284} responder “Não”. Nesse caso, a área da reserva legal mínima exigida por lei será calculada
+- **Roteiro IRARA, linha 3285** {#roteiro_irara_lin3285} considerando o percentual de 20%, estabelecido no art. 12 da norma.
+
+### 4.7.6.4 Aba Análise de declarações de compensação de Reserva Legal
+
+- **Roteiro IRARA, linha 3287** {#roteiro_irara_lin3287} As seguintes situações podem ocorrem na análise da aba de compensação
+- **Roteiro IRARA, linha 3288** {#roteiro_irara_lin3288} ambiental:
+- **Roteiro IRARA, linha 3289** {#roteiro_irara_lin3289} •
+- **Roteiro IRARA, linha 3290** {#roteiro_irara_lin3290} Compensação ambiental por servidão ambiental.
+- **Roteiro IRARA, linha 3291** {#roteiro_irara_lin3291} •
+- **Roteiro IRARA, linha 3292** {#roteiro_irara_lin3292} Compensação na forma de cadastramento de área equivalente e excedente;
+- **Roteiro IRARA, linha 3293** {#roteiro_irara_lin3293} •
+- **Roteiro IRARA, linha 3294** {#roteiro_irara_lin3294} Compensação ambiental no Parque Nacional da Ilha Grande, anterior à Lei nº
+- **Roteiro IRARA, linha 3295** {#roteiro_irara_lin3295} 12.651/2012.
+- **Roteiro IRARA, linha 3296** {#roteiro_irara_lin3296} O técnico deverá observar se o imóvel analisado declarou a compensação das áreas
+- **Roteiro IRARA, linha 3297** {#roteiro_irara_lin3297} de RL em outro imóvel rural ou se cedeu parte de seu Remanescente de Vegetação Nativa para
+- **Roteiro IRARA, linha 3298** {#roteiro_irara_lin3298} outros imóveis realizarem a compensação dentro do seu imóvel.
+- **Roteiro IRARA, linha 3299** {#roteiro_irara_lin3299} Ao verificar que ocorreu a compensação em outro imóvel, o técnico deverá observar
+- **Roteiro IRARA, linha 3300** {#roteiro_irara_lin3300} duas situações:
+- **Roteiro IRARA, linha 3301** {#roteiro_irara_lin3301} Situação 01: Se a compensação for posterior à revogação do Sisleg, o técnico deverá inserir
+- **Roteiro IRARA, linha 3302** {#roteiro_irara_lin3302} uma inconsistência adicional, informando ao proprietário/possuidor que o imóvel se enquadra
+- **Roteiro IRARA, linha 3303** {#roteiro_irara_lin3303} nos requisitos do art. 67, da Lei nº 12.651/2012 e, portanto, o remanescente de vegetação nativa
+- **Roteiro IRARA, linha 3304** {#roteiro_irara_lin3304} a ser considerado é àquele existente em 22/07/2008.
+- **Roteiro IRARA, linha 3305** {#roteiro_irara_lin3305} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 3306** {#roteiro_irara_lin3306} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 3307** {#roteiro_irara_lin3307} Adicionar observação: “Observou-se que foi declarado que o imóvel compensou área de
+- **Roteiro IRARA, linha 3308** {#roteiro_irara_lin3308} reserva legal em outro imóvel rural após à revogação do Sisleg. Conforme o art. 67, da Lei nº
+- **Roteiro IRARA, linha 3309** {#roteiro_irara_lin3309} 12.651/2012, nos imóveis rurais que detinham, em 22/07/2008, área de até 04 (quatro) módulos
+- **Roteiro IRARA, linha 3310** {#roteiro_irara_lin3310} fiscais e que possuam remanescente de vegetação nativa em percentuais inferiores ao previsto
+- **Roteiro IRARA, linha 3311** {#roteiro_irara_lin3311} no art.12, a Reserva Legal será constituída com a área ocupada com a vegetação nativa
+- **Roteiro IRARA, linha 3312** {#roteiro_irara_lin3312} existente em 22/07/2008, vedadas novas conversões para uso alternativo do solo. Portanto, caso
+- **Roteiro IRARA, linha 3313** {#roteiro_irara_lin3313} o imóvel rural se enquadre nos requisitos do art.67, retifique seu cadastro indicando as áreas de
+- **Roteiro IRARA, linha 3314** {#roteiro_irara_lin3314} reserva legal como remanescente de vegetação nativa existente em 22/07/2008 ou apresente
+- **Roteiro IRARA, linha 3315** {#roteiro_irara_lin3315} esclarecimentos sobre as informações declaradas”.
+- **Roteiro IRARA, linha 3316** {#roteiro_irara_lin3316} Situação 02: Se a compensação for anterior à revogação do Sisleg, o técnico deverá solicitar ao
+- **Roteiro IRARA, linha 3317** {#roteiro_irara_lin3317} GO que vincule o imóvel cedente para verificação das informações.
+- **Roteiro IRARA, linha 3318** {#roteiro_irara_lin3318} O gerente operacional, antes de fazer a vinculação do imóvel cedente, deverá observar
+- **Roteiro IRARA, linha 3319** {#roteiro_irara_lin3319} se existem outras cessões de compensação de reserva legal para outros imóveis rurais e verificar
+- **Roteiro IRARA, linha 3320** {#roteiro_irara_lin3320} a pertinência de também vinculá-los, para que se possa realizar uma análise conjunta de todas
+- **Roteiro IRARA, linha 3321** {#roteiro_irara_lin3321} essas compensações. O GO deverá levar em consideração, para decidir pela vinculação, as
+- **Roteiro IRARA, linha 3322** {#roteiro_irara_lin3322} sobreposições entre imóveis rurais tanto no imóvel cedente como nos outros imóveis
+- **Roteiro IRARA, linha 3323** {#roteiro_irara_lin3323} receptores.
+- **Roteiro IRARA, linha 3324** {#roteiro_irara_lin3324} Caso o GO decida por não vincular o imóvel cedente, deverá desvincular o CAR em
+- **Roteiro IRARA, linha 3325** {#roteiro_irara_lin3325} análise (receptor) em função das muitas sobreposições entre imóveis rurais, que inviabilizem a
+- **Roteiro IRARA, linha 3326** {#roteiro_irara_lin3326} continuidade da análise.
+- **Roteiro IRARA, linha 3327** {#roteiro_irara_lin3327} Se o GO decidir por vincular o imóvel cedente, também deverá vincular todos os outros
+- **Roteiro IRARA, linha 3328** {#roteiro_irara_lin3328} imóveis que estiverem recebendo a compensação nesse imóvel (cedente), para que sejam feitas
+- **Roteiro IRARA, linha 3329** {#roteiro_irara_lin3329} as análises de forma conjunta. O objetivo consiste em verificar se o imóvel cedente possui
+- **Roteiro IRARA, linha 3330** {#roteiro_irara_lin3330} remanescente de vegetação nativa para compor a sua própria reserva legal, além de verificar se
+- **Roteiro IRARA, linha 3331** {#roteiro_irara_lin3331} o excedente disponibilizado está corretamente declarado e em conformidade com a realidade do
+- **Roteiro IRARA, linha 3332** {#roteiro_irara_lin3332} imóvel.
+- **Roteiro IRARA, linha 3333** {#roteiro_irara_lin3333} O GO terá que verificar, na ficha do imóvel cedente, as averbações de compensações
+- **Roteiro IRARA, linha 3334** {#roteiro_irara_lin3334} ambientais declaradas e vincular esses demais cadastros ao técnico que está realizando a
+- **Roteiro IRARA, linha 3335** {#roteiro_irara_lin3335} análise do imóvel receptor.
+- **Roteiro IRARA, linha 3336** {#roteiro_irara_lin3336} Caso o proprietário do imóvel cedente não tenha declarado outras compensações
+- **Roteiro IRARA, linha 3337** {#roteiro_irara_lin3337} ambientais realizadas no seu imóvel e o técnico, ao realizar a análise desse cadastro, identificar
+- **Roteiro IRARA, linha 3338** {#roteiro_irara_lin3338} na matrícula averbações de compensação de reserva legal deverá informar ao GO os outros
+- **Roteiro IRARA, linha 3339** {#roteiro_irara_lin3339} cadastros de imóveis receptores e solicitar a(s) vinculação(ões). Novamente, o GO deverá
+- **Roteiro IRARA, linha 3340** {#roteiro_irara_lin3340} observar a pertinênciada vinculação desses demais cadastros, sempre levando em consideração
+- **Roteiro IRARA, linha 3341** {#roteiro_irara_lin3341} o número de sobreposições entre imóveis rurais nos imóveis receptores que possam inviabilizar
+- **Roteiro IRARA, linha 3342** {#roteiro_irara_lin3342} a continuidade da análise. Nesse caso, o GO poderá optar pela desvinculação dos cadastros
+- **Roteiro IRARA, linha 3343** {#roteiro_irara_lin3343} que já estiver em análise.
+- **Roteiro IRARA, linha 3344** {#roteiro_irara_lin3344} 4.7.6.4.1
+- **Roteiro IRARA, linha 3345** {#roteiro_irara_lin3345} Compensação ambiental por servidão ambiental:
+- **Roteiro IRARA, linha 3346** {#roteiro_irara_lin3346} O técnico deverá observar os seguintes parâmetros estabelecidos na INIAT 01/2020:
+- **Roteiro IRARA, linha 3347** {#roteiro_irara_lin3347} •
+- **Roteiro IRARA, linha 3348** {#roteiro_irara_lin3348} A servidão ambiental não se aplica às Áreas de Preservação Permanente-APP e
+- **Roteiro IRARA, linha 3349** {#roteiro_irara_lin3349} à Reserva Legal mínima exigida.
+- **Roteiro IRARA, linha 3350** {#roteiro_irara_lin3350} •
+- **Roteiro IRARA, linha 3351** {#roteiro_irara_lin3351} A área de Reserva Legal averbada, com vegetação nativa e excedente ao mínimo
+- **Roteiro IRARA, linha 3352** {#roteiro_irara_lin3352} exigido, poderá ser utilizada como servidão ambiental.
+- **Roteiro IRARA, linha 3353** {#roteiro_irara_lin3353} •
+- **Roteiro IRARA, linha 3354** {#roteiro_irara_lin3354} Em eventuais suspensões ou interrupções do contrato de servidão,o proprietário
+- **Roteiro IRARA, linha 3355** {#roteiro_irara_lin3355} da área compensada terá o prazo de 03 (três) meses para apresentação de nova
+- **Roteiro IRARA, linha 3356** {#roteiro_irara_lin3356} proposta de regularização da Reserva Legal.
+- **Roteiro IRARA, linha 3357** {#roteiro_irara_lin3357} •
+- **Roteiro IRARA, linha 3358** {#roteiro_irara_lin3358} A servidão ambiental poderá ser onerosa ou gratuita, temporária ou perpétua.
+- **Roteiro IRARA, linha 3359** {#roteiro_irara_lin3359} •
+- **Roteiro IRARA, linha 3360** {#roteiro_irara_lin3360} A servidão ambiental perpétua e quivale, para fins creditícios, tributários e de
+- **Roteiro IRARA, linha 3361** {#roteiro_irara_lin3361} acesso aos recursos de fundos públicos, à Reserva Particular do Patrimônio
+- **Roteiro IRARA, linha 3362** {#roteiro_irara_lin3362} Natural - RPPN, definida no art. 21 da Lei Federal nº 9.985, de 18/07/2000.
+- **Roteiro IRARA, linha 3363** {#roteiro_irara_lin3363} Ao verificar que ocorreu a compensação em outro imóvel, o técnico deverá observar duas
+- **Roteiro IRARA, linha 3364** {#roteiro_irara_lin3364} situações:
+- **Roteiro IRARA, linha 3365** {#roteiro_irara_lin3365} Situação 01: Se a compensação for posterior à revogação do Sisleg, o técnico deverá inserir
+- **Roteiro IRARA, linha 3366** {#roteiro_irara_lin3366} uma inconsistência adicional, informando ao proprietário/possuidor que o imóvel se enquadra
+- **Roteiro IRARA, linha 3367** {#roteiro_irara_lin3367} nos requisitos do art. 67, da Lei nº 12.651/2012 e, portanto, o remanescente de vegetação nativa
+- **Roteiro IRARA, linha 3368** {#roteiro_irara_lin3368} a ser considerado é àquele existente em 22/07/2008.
+- **Roteiro IRARA, linha 3369** {#roteiro_irara_lin3369} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 3370** {#roteiro_irara_lin3370} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 3371** {#roteiro_irara_lin3371} Adicionar observação: “Observou-se que foi declarado que o imóvel compensou área de
+- **Roteiro IRARA, linha 3372** {#roteiro_irara_lin3372} reserva legal em outro imóvel rural após à revogação do Sisleg. Conforme o art. 67, da Lei nº
+- **Roteiro IRARA, linha 3373** {#roteiro_irara_lin3373} 12.651/2012, nos imóveis rurais que detinham, em 22/07/2008, área de até 04 (quatro) módulos
+- **Roteiro IRARA, linha 3374** {#roteiro_irara_lin3374} fiscais e que possuam remanescente de vegetação nativa em percentuais inferiores ao previsto
+- **Roteiro IRARA, linha 3375** {#roteiro_irara_lin3375} no art. 12, a Reserva Legal será constituída coma área ocupada com a vegetação nativa
+- **Roteiro IRARA, linha 3376** {#roteiro_irara_lin3376} existente em 22/07/2008, vedadas novas conversões para uso alternativo do solo. Portanto, caso
+- **Roteiro IRARA, linha 3377** {#roteiro_irara_lin3377} o imóvel rural se enquadre nos requisitos do art. 67, retifique seu cadastro indicando as áreas de
+- **Roteiro IRARA, linha 3378** {#roteiro_irara_lin3378} reserva legal como remanescente de vegetação nativa existente em 22/07/2008 ou apresente
+- **Roteiro IRARA, linha 3379** {#roteiro_irara_lin3379} esclarecimentos sobre as informações declaradas”.
+- **Roteiro IRARA, linha 3380** {#roteiro_irara_lin3380} Situação 02: Se a compensação for anterior à revogação do Sisleg, o técnico deverá solicitar ao
+- **Roteiro IRARA, linha 3381** {#roteiro_irara_lin3381} GO que vincule o imóvel cedente para verificação das informações.
+- **Roteiro IRARA, linha 3382** {#roteiro_irara_lin3382} O GO, antes de fazer a vinculação do imóvel cedente, deverá atentar para o que está
+- **Roteiro IRARA, linha 3383** {#roteiro_irara_lin3383} no item 4.7.6.4.
+- **Roteiro IRARA, linha 3384** {#roteiro_irara_lin3384} Portanto, o técnico deverá verificar as seguintes situações:
+- **Roteiro IRARA, linha 3385** {#roteiro_irara_lin3385} Situação 03: A compensação é da época do Sisleg e está sendo analisado pela primeira vez.
+- **Roteiro IRARA, linha 3386** {#roteiro_irara_lin3386} Ao constatar que o proprietário/possuidor declarou que realizou a compensação em outro imóvel,
+- **Roteiro IRARA, linha 3387** {#roteiro_irara_lin3387} o técnico deverá:
+- **Roteiro IRARA, linha 3388** {#roteiro_irara_lin3388} Procedimento para análise do imóvel receptor: Inserir/manter uma inconsistência. Para tanto,
+- **Roteiro IRARA, linha 3389** {#roteiro_irara_lin3389} deverá iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se abrirá e
+- **Roteiro IRARA, linha 3390** {#roteiro_irara_lin3390} o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 3391** {#roteiro_irara_lin3391} Adicionar observação: “Observou-se que o imóvel em análise declarou realizar compensação
+- **Roteiro IRARA, linha 3392** {#roteiro_irara_lin3392} ambiental em outro imóvel rural. São deveres do detentor da servidão ambiental, entre outras
+- **Roteiro IRARA, linha 3393** {#roteiro_irara_lin3393} obrigações estipuladas em contrato: monitorar periodicamente a propriedade para verificar se a
+- **Roteiro IRARA, linha 3394** {#roteiro_irara_lin3394} servidão ambiental está sendo mantida; prestar informações necessárias a quaisquer
+- **Roteiro IRARA, linha 3395** {#roteiro_irara_lin3395} interessados na aquisição ou aos sucessores da propriedade; determinar a previsão legal para
+- **Roteiro IRARA, linha 3396** {#roteiro_irara_lin3396} garantir o seu cumprimento, inclusive medidas judiciais necessárias, em caso de
+- **Roteiro IRARA, linha 3397** {#roteiro_irara_lin3397} descumprimento; e estabelecer o prazo durante o qual a área permanecerá como servidão
+- **Roteiro IRARA, linha 3398** {#roteiro_irara_lin3398} ambiental. Apresente informações sobre as informações declaradas e/ou apresente os
+- **Roteiro IRARA, linha 3399** {#roteiro_irara_lin3399} documentos de identificação das partes envolvidas (RG, CPF e CNPJ do imóvel receptor e do
+- **Roteiro IRARA, linha 3400** {#roteiro_irara_lin3400} imóvel cedente) e matrícula atualizada dos imóveis (com até 90 dias de emissão).”
+- **Roteiro IRARA, linha 3401** {#roteiro_irara_lin3401} Solicitação de documentos: Selecionar as opções RG, CPF, CNPJ, matrícula
+- **Roteiro IRARA, linha 3402** {#roteiro_irara_lin3402} atualizada (verificar qual é o tipo de documento declarado).
+- **Roteiro IRARA, linha 3403** {#roteiro_irara_lin3403} Após o imóvel cedente ter sido analisado e o proprietário/possuidor (docedente) ter
+- **Roteiro IRARA, linha 3404** {#roteiro_irara_lin3404} prestado todas as informações requeridas, pode ocorrer a situação04:
+- **Roteiro IRARA, linha 3405** {#roteiro_irara_lin3405} Situação 04: O imóvel cedente possui excedente de remanescente de vegetação nativa além
+- **Roteiro IRARA, linha 3406** {#roteiro_irara_lin3406} da já disponibilizada na(s) compensação(ões) da época do SISLEG e poderá disponibilizá-la
+- **Roteiro IRARA, linha 3407** {#roteiro_irara_lin3407} para a compensação de outros imóveis rurais. Em situação diversa, o técnico poderá verificar
+- **Roteiro IRARA, linha 3408** {#roteiro_irara_lin3408} que o imóvel cedente não possui excedente de RVN, para a compensação já aprovada na época
+- **Roteiro IRARA, linha 3409** {#roteiro_irara_lin3409} do SISLEG. Nesses casos, deverá parar a análise e informar a situação ao GO para os
+- **Roteiro IRARA, linha 3410** {#roteiro_irara_lin3410} procedimentos previstos em lei.
+- **Roteiro IRARA, linha 3411** {#roteiro_irara_lin3411} O proprietário do imóvel rural, pessoa física ou jurídica, poderá cadastrar imóvel de
+- **Roteiro IRARA, linha 3412** {#roteiro_irara_lin3412} mesma titularidade, a fim de compensar o déficit de RL. O técnico deverá observar os seguintes
+- **Roteiro IRARA, linha 3413** {#roteiro_irara_lin3413} quesitos:
+- **Roteiro IRARA, linha 3414** {#roteiro_irara_lin3414} • A compensação por cadastramento de área é realizada diretamente no
+- **Roteiro IRARA, linha 3415** {#roteiro_irara_lin3415} SICAR, sendo que a proposta de cadastramento é realizada no PRA.
+- **Roteiro IRARA, linha 3416** {#roteiro_irara_lin3416} • Admite-se a compensação da RL com vegetação em estado de
+- **Roteiro IRARA, linha 3417** {#roteiro_irara_lin3417} regeneração, recomposição e em recuperação.
+- **Roteiro IRARA, linha 3418** {#roteiro_irara_lin3418} • A aprovação definitiva das compensações realizadas no âmbito do PRA,
+- **Roteiro IRARA, linha 3419** {#roteiro_irara_lin3419} ocorrerão com a certificação do IAT, o cumprimento das condições
+- **Roteiro IRARA, linha 3420** {#roteiro_irara_lin3420} estabelecidas no Termo de Compromisso.
+- **Roteiro IRARA, linha 3421** {#roteiro_irara_lin3421} O técnico deverá verificar se essa compensação é anterior à revogação do Sisleg ou
+- **Roteiro IRARA, linha 3422** {#roteiro_irara_lin3422} se é posterior.
+- **Roteiro IRARA, linha 3423** {#roteiro_irara_lin3423} Situação 01: Se a compensação for posterior à revogação do Sisleg, o técnico deverá inserir
+- **Roteiro IRARA, linha 3424** {#roteiro_irara_lin3424} uma inconsistência, informando ao proprietário/possuidor que o imóvel se enquadra nos
+- **Roteiro IRARA, linha 3425** {#roteiro_irara_lin3425} requisitos do art. 67, da Lei nº 12.651/2012 e, portanto, o remanescente de vegetação nativa a
+- **Roteiro IRARA, linha 3426** {#roteiro_irara_lin3426} ser considerado é àquele existente em22/07/2008.
+- **Roteiro IRARA, linha 3427** {#roteiro_irara_lin3427} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 3428** {#roteiro_irara_lin3428} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 3429** {#roteiro_irara_lin3429} Adicionar observação:“Observou-se que foi declarado que o imóvel compensou àrea de
+- **Roteiro IRARA, linha 3430** {#roteiro_irara_lin3430} reserva legal em outro imóvel de mesma titularidade após à revogação do Sisleg. Conforme o
+- **Roteiro IRARA, linha 3431** {#roteiro_irara_lin3431} art. 67, da Lei nº 12.651/2012, nos imóveis rurais que detinham, em 22/07/2008, área de até 04
+- **Roteiro IRARA, linha 3432** {#roteiro_irara_lin3432} (quatro) módulos fiscais e que possuam remanescente de vegetação nativa em percentuais
+- **Roteiro IRARA, linha 3433** {#roteiro_irara_lin3433} inferiores ao previsto no art. 12, a Reserva Legal será constituída coma área ocupada com a
+- **Roteiro IRARA, linha 3434** {#roteiro_irara_lin3434} vegetação nativa existente em 22/07/2008, vedadas novas conversões para uso alternativo do
+- **Roteiro IRARA, linha 3435** {#roteiro_irara_lin3435} solo. Portanto, caso o imóvel rural se enquadre nos requisitos do art. 67, retifique seu cadastro
+- **Roteiro IRARA, linha 3436** {#roteiro_irara_lin3436} indicando as áreas de reserva legal como remanescente de vegetação nativa existente em
+- **Roteiro IRARA, linha 3437** {#roteiro_irara_lin3437} 22/07/2008 ou apresente esclarecimentos sobre as informações declaradas”.
+- **Roteiro IRARA, linha 3438** {#roteiro_irara_lin3438} Situação 02: Se a compensação for anterior à revogação do Sisleg, o técnico deverá solicitar ao
+- **Roteiro IRARA, linha 3439** {#roteiro_irara_lin3439} GO que vincule o imóvel cedente para verificação das informações.
+- **Roteiro IRARA, linha 3440** {#roteiro_irara_lin3440} O GO, antes de fazer a vinculação do imóvel cedente, deverá atentar para o que está
+- **Roteiro IRARA, linha 3441** {#roteiro_irara_lin3441} no item 4.7.6.4.
+- **Roteiro IRARA, linha 3442** {#roteiro_irara_lin3442} Portanto, o técnico deverá verificar as seguintes situações:
+- **Roteiro IRARA, linha 3443** {#roteiro_irara_lin3443} Situação 03: A compensação é da época do Sisleg e está sendo analisado pela primeira vez.
+- **Roteiro IRARA, linha 3444** {#roteiro_irara_lin3444} Ao constatar que o proprietário/possuidor declarou que realiza a compensação em outro imóvel
+- **Roteiro IRARA, linha 3445** {#roteiro_irara_lin3445} de mesma titularidade, o técnico deverá:
+- **Roteiro IRARA, linha 3446** {#roteiro_irara_lin3446} Procedimento para análise do imóvel receptor: Iniciar a análise da aba e clicar
+- **Roteiro IRARA, linha 3447** {#roteiro_irara_lin3447} no ícone de inconsistência. Uma nova janela se abrirá e o técnico deverá adicionar uma
+- **Roteiro IRARA, linha 3448** {#roteiro_irara_lin3448} observação.
+- **Roteiro IRARA, linha 3449** {#roteiro_irara_lin3449} Adicionar observação: “Observou-se que o imóvel em análise declarou realizar compensação
+- **Roteiro IRARA, linha 3450** {#roteiro_irara_lin3450} ambiental em outro imóvel rural da mesma titularidade. Apresenteos documentos de identificação
+- **Roteiro IRARA, linha 3451** {#roteiro_irara_lin3451} das partes envolvidas (RG, CPF e/ou CNPJ) e matrícula atualizada dos imóveis (com até 90 dias
+- **Roteiro IRARA, linha 3452** {#roteiro_irara_lin3452} de emissão).”
+- **Roteiro IRARA, linha 3453** {#roteiro_irara_lin3453} Solicitação de documentos: Selecionar as opções RG, CPF, CNPJ, matrícula
+- **Roteiro IRARA, linha 3454** {#roteiro_irara_lin3454} atualizada (verificar qual é o tipo de documento declarado).
+- **Roteiro IRARA, linha 3455** {#roteiro_irara_lin3455} Procedimento para análise do imóvel cedente: Iniciar a análise da aba e clicar no
+- **Roteiro IRARA, linha 3456** {#roteiro_irara_lin3456} ícone de inconsistência. Uma nova janela se abrirá e o técnico deverá adicionar uma
+- **Roteiro IRARA, linha 3457** {#roteiro_irara_lin3457} observação.
+- **Roteiro IRARA, linha 3458** {#roteiro_irara_lin3458} Adicionar observação: “Observou-se que o imóvel em análise disponibiliza o excedente de
+- **Roteiro IRARA, linha 3459** {#roteiro_irara_lin3459} vegetação nativa para fins de compensação ambiental em imóvel de mesma titularidade.
+- **Roteiro IRARA, linha 3460** {#roteiro_irara_lin3460} Apresente os documentos de identificação (RG, CPF e/ou CNPJ) e a matrícula atualizada dos
+- **Roteiro IRARA, linha 3461** {#roteiro_irara_lin3461} imóveis (com até 90 dias de emissão).”
+- **Roteiro IRARA, linha 3462** {#roteiro_irara_lin3462} Solicitação de documentos: Selecionar as opções RG, CPF, CNPJ, matrícula
+- **Roteiro IRARA, linha 3463** {#roteiro_irara_lin3463} atualizada (verificar qual é o tipo de documento declarado).
+- **Roteiro IRARA, linha 3464** {#roteiro_irara_lin3464} Após o imóvel cedente ter sido analisado e o proprietário ter prestado todas as
+- **Roteiro IRARA, linha 3465** {#roteiro_irara_lin3465} informações requeridas, pode ocorrer a situação 04:
+- **Roteiro IRARA, linha 3466** {#roteiro_irara_lin3466} Situação 04: O imóvel cedente de mesma titularidade possui excedente de remanescente de
+- **Roteiro IRARA, linha 3467** {#roteiro_irara_lin3467} vegetação nativa além da já disponibilizada na(s) compensação(ões) da época do SISLEG e
+- **Roteiro IRARA, linha 3468** {#roteiro_irara_lin3468} poderá disponibilizá-la para a compensação de outros imóveis rurais.
+- **Roteiro IRARA, linha 3469** {#roteiro_irara_lin3469} Caso o técnico verifique que o imóvel cedente não possui excedente de RVN, para a
+- **Roteiro IRARA, linha 3470** {#roteiro_irara_lin3470} compensação já aprovada da época do SISLEG, deverá parar a análise e informar a situação ao
+- **Roteiro IRARA, linha 3471** {#roteiro_irara_lin3471} GO para os procedimentos previstos em lei.
+- **Roteiro IRARA, linha 3472** {#roteiro_irara_lin3472} 4.7.6.4.2
+- **Roteiro IRARA, linha 3473** {#roteiro_irara_lin3473} Aba Análise de inconsistências adicionais e/ou temas
+- **Roteiro IRARA, linha 3474** {#roteiro_irara_lin3474} complementares
+- **Roteiro IRARA, linha 3475** {#roteiro_irara_lin3475} Optou-se por inserir as inconsistências referentes à delimitação de reserva legal nessa
+- **Roteiro IRARA, linha 3476** {#roteiro_irara_lin3476} aba. Assim, o técnico deverá considerar as seguintes situações:
+- **Roteiro IRARA, linha 3477** {#roteiro_irara_lin3477} •
+- **Roteiro IRARA, linha 3478** {#roteiro_irara_lin3478} Remanescente de Vegetação Nativa não declarado como reserva legal;
+- **Roteiro IRARA, linha 3479** {#roteiro_irara_lin3479} •
+- **Roteiro IRARA, linha 3480** {#roteiro_irara_lin3480} Reserva legal não vetorizada;
+- **Roteiro IRARA, linha 3481** {#roteiro_irara_lin3481} •
+- **Roteiro IRARA, linha 3482** {#roteiro_irara_lin3482} Indicativo de déficit de reserva legal;
+- **Roteiro IRARA, linha 3483** {#roteiro_irara_lin3483} •
+- **Roteiro IRARA, linha 3484** {#roteiro_irara_lin3484} Indicativo de déficit de reserva legal após a retificação do proprietário (após o
+- **Roteiro IRARA, linha 3485** {#roteiro_irara_lin3485} ocorrido em “c”).
+- **Roteiro IRARA, linha 3486** {#roteiro_irara_lin3486} Caso seja a primeira análise, o técnico não deverá marcar o item “Balanço do passivo
+- **Roteiro IRARA, linha 3487** {#roteiro_irara_lin3487} ou excedente de Reserva Legal dentro do IR” como “Item verificado”. Somente deverá adicionar
+- **Roteiro IRARA, linha 3488** {#roteiro_irara_lin3488} uma inconsistência caso ocorra algum dos casos citados nas alíneas anteriores.
+- **Roteiro IRARA, linha 3489** {#roteiro_irara_lin3489} Figura 65. Aba Balanço do passivo ou excedente de Reserva Legal dentro do IR
+- **Roteiro IRARA, linha 3490** {#roteiro_irara_lin3490} Figura 66. Aba Análise de inconsistências adicionais e/ou temas complementares
+
+### 4.7.6.5 Remanescente de Vegetação Nativa não declarado como reserva legal
+
+- **Roteiro IRARA, linha 3492** {#roteiro_irara_lin3492} Caso o técnico verifique que a área de reserva legal declarada não atinge 20% da área
+- **Roteiro IRARA, linha 3493** {#roteiro_irara_lin3493} do IR e que existem áreas de Remanescente de Vegetação Nativa declaradas na etapa de
+- **Roteiro IRARA, linha 3494** {#roteiro_irara_lin3494} “Cobertura do Solo”, mas que não foram incluídas na área de reserva legal, deverá adicionar
+- **Roteiro IRARA, linha 3495** {#roteiro_irara_lin3495} uma inconsistência.
+- **Roteiro IRARA, linha 3496** {#roteiro_irara_lin3496} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 3497** {#roteiro_irara_lin3497} abrirá e o técnico deverá adicionar uma observação.
+- **Roteiro IRARA, linha 3498** {#roteiro_irara_lin3498} Pendência Inconsistência: “Há indícios de que o imóvel rural possui áreas de Remanescente
+- **Roteiro IRARA, linha 3499** {#roteiro_irara_lin3499} de Vegetação Nativa que foram vetorizadas na Etapa Geo, na aba “Cobertura do Solo”, mas não
+- **Roteiro IRARA, linha 3500** {#roteiro_irara_lin3500} foram incluídas na aba “Reserva Legal”.
+- **Roteiro IRARA, linha 3501** {#roteiro_irara_lin3501} Recomendação: “Retifique seu cadastro vetorizando a Reserva Legal (Reserva Legal Averbada,
+- **Roteiro IRARA, linha 3502** {#roteiro_irara_lin3502} Reserva Legal Aprovada e Não Averbada e/ou Reserva Legal Proposta) sobre as áreas de
+- **Roteiro IRARA, linha 3503** {#roteiro_irara_lin3503} Remanescente de Vegetação Nativa do imóvel rural e/ou apresente esclarecimentos sobre as
+- **Roteiro IRARA, linha 3504** {#roteiro_irara_lin3504} informações declaradas.”
+- **Roteiro IRARA, linha 3505** {#roteiro_irara_lin3505} Atendimento: Selecionar a opção Retificação.
+- **Roteiro IRARA, linha 3506** {#roteiro_irara_lin3506} O técnico, caso deseje, também poderá realizar a vetorização dessas áreas para o
+- **Roteiro IRARA, linha 3507** {#roteiro_irara_lin3507} proprietário/possuidor. Nesses casos, deverá marcar a opção“Incluir vetorização”, realizar a
+- **Roteiro IRARA, linha 3508** {#roteiro_irara_lin3508} vetorização das áreas de vegetação nativa e habilitar a opção “Enviar arquivo vetorial ao
+- **Roteiro IRARA, linha 3509** {#roteiro_irara_lin3509} proprietário/possuidor.”
+- **Roteiro IRARA, linha 3510** {#roteiro_irara_lin3510} Figura 67. Vetorização de RVN não declarado como RL
+
+### 4.7.6.6 Reserva legal não vetorizada
+
+- **Roteiro IRARA, linha 3512** {#roteiro_irara_lin3512} Caso o técnico verifique que o proprietário/possuidor não declarou a área de reserva
+- **Roteiro IRARA, linha 3513** {#roteiro_irara_lin3513} legal, mas que possuía RVN em 22/07/2008, deverá inserir uma inconsistência.
+- **Roteiro IRARA, linha 3514** {#roteiro_irara_lin3514} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 3515** {#roteiro_irara_lin3515} abrirá e o técnico deverá adicionar umao bservação.
+- **Roteiro IRARA, linha 3516** {#roteiro_irara_lin3516} Pendência/Inconsistência: “Constatou-se que a área de Reserva Legal Proposta não
+- **Roteiro IRARA, linha 3517** {#roteiro_irara_lin3517} foi vetorizada na Etapa Geo, na aba “Reserva Legal”.
+- **Roteiro IRARA, linha 3518** {#roteiro_irara_lin3518} Recomendação: “Retifique seu cadastro vetorizando a Reserva Legal (Reserva Legal Averbada,
+- **Roteiro IRARA, linha 3519** {#roteiro_irara_lin3519} Reserva Legal Aprovada e Não Averbada e/ou Reserva Legal Proposta) sobre as áreas de
+- **Roteiro IRARA, linha 3520** {#roteiro_irara_lin3520} Remanescente de Vegetação Nativa do imóvel rural e/ou apresente esclarecimentos sobre as
+- **Roteiro IRARA, linha 3521** {#roteiro_irara_lin3521} informações declaradas.”
+- **Roteiro IRARA, linha 3522** {#roteiro_irara_lin3522} Atendimento: Selecionar a opção Retificação.
+
+### 4.7.6.7 Localização e Cobertura do Solo
+
+- **Roteiro IRARA, linha 3524** {#roteiro_irara_lin3524} Nessa seção, verifica-se se a localização e o uso e cobertura do solo das áreas
+- **Roteiro IRARA, linha 3525** {#roteiro_irara_lin3525} delimitadas como reserva legal estão em conformidade com a Lei nº12.651/2012.
+
+### 4.7.6.8 Aba Análise da localização da Reserva Legal
+
+- **Roteiro IRARA, linha 3527** {#roteiro_irara_lin3527} O art. 14, da Lei nº 12.651/2012, define os critérios para a definição da reserva legal:
+- **Roteiro IRARA, linha 3528** {#roteiro_irara_lin3528} Art. 14. A localização da área de Reserva Legal no imóvel rural deverá levar
+- **Roteiro IRARA, linha 3529** {#roteiro_irara_lin3529} em consideração os seguintes estudos e critérios:
+- **Roteiro IRARA, linha 3530** {#roteiro_irara_lin3530} I - o plano de bacia hidrográfica;
+- **Roteiro IRARA, linha 3531** {#roteiro_irara_lin3531} II - o Zoneamento Ecológico-Econômico
+- **Roteiro IRARA, linha 3532** {#roteiro_irara_lin3532} III - a formação de corredores ecológicos com outra Reserva Legal, com Área
+- **Roteiro IRARA, linha 3533** {#roteiro_irara_lin3533} de Preservação Permanente, com Unidade de Conservação ou com outra área
+- **Roteiro IRARA, linha 3534** {#roteiro_irara_lin3534} legalmente protegida;
+- **Roteiro IRARA, linha 3535** {#roteiro_irara_lin3535} IV – as áreas de maior importância para a conservação da biodiversidade; e
+- **Roteiro IRARA, linha 3536** {#roteiro_irara_lin3536} V - as áreas de maior fragilidade ambiental.
+- **Roteiro IRARA, linha 3537** {#roteiro_irara_lin3537} § 1° O órgão estadual integrante do Sisnama ou instituição por ele habilitada
+- **Roteiro IRARA, linha 3538** {#roteiro_irara_lin3538} deverá aprovar a localização da Reserva Legal após a inclusão do imóvel no
+- **Roteiro IRARA, linha 3539** {#roteiro_irara_lin3539} CAR[...].”
+- **Roteiro IRARA, linha 3540** {#roteiro_irara_lin3540} Ressalta-se que o Estadodo Paraná não possui informações referentes ao Zoneamento
+- **Roteiro IRARA, linha 3541** {#roteiro_irara_lin3541} Ecológico-Econômico- ZEE(somente possui para o ZEE-Litoral), plano de bacia hidrográfica
+- **Roteiro IRARA, linha 3542** {#roteiro_irara_lin3542} (somente possui para algumas bacias hidrográficas) e áreas de maior fragilidade ambiental.
+- **Roteiro IRARA, linha 3543** {#roteiro_irara_lin3543} Nesses casos, o técnico deverá, ao iniciar a análise da aba, selecionar a opção “Não se aplica”
+- **Roteiro IRARA, linha 3544** {#roteiro_irara_lin3544} e inserir o seguinte texto:
+- **Roteiro IRARA, linha 3545** {#roteiro_irara_lin3545} ZEE: “Até o atual momento, não há informações sobre o Zoneamento Ecológico-Econômico para
+- **Roteiro IRARA, linha 3546** {#roteiro_irara_lin3546} a região no qual o imóvel está localizado.”
+- **Roteiro IRARA, linha 3547** {#roteiro_irara_lin3547} Plano de Bacia Hidrográfica: “Até o atual momento, não há informações sobre o Plano de Bacia
+- **Roteiro IRARA, linha 3548** {#roteiro_irara_lin3548} Hidrográfica no qual o imóvel está localizado.”
+- **Roteiro IRARA, linha 3549** {#roteiro_irara_lin3549} Área de Maior Fragilidade Ambiental: “Até o atual momento, não há informações
+- **Roteiro IRARA, linha 3550** {#roteiro_irara_lin3550} sobre as áreas de maior fragilidade ambiental no qual o imóvel está localizado.”
+- **Roteiro IRARA, linha 3551** {#roteiro_irara_lin3551} Para avaliar o critério “Área de maior importância de conservação da biodiversidade”,
+- **Roteiro IRARA, linha 3552** {#roteiro_irara_lin3552} o técnico deverá consultar a base cartográfica referente às áreas estratégicas para conservação
+- **Roteiro IRARA, linha 3553** {#roteiro_irara_lin3553} e restauração do Paraná, disponível no Geo SICAR. Caso o técnico verifique que a localização
+- **Roteiro IRARA, linha 3554** {#roteiro_irara_lin3554} da RL está de acordo com esse critério, deverá selecionar a opção “De acordo” -
+- **Roteiro IRARA, linha 3555** {#roteiro_irara_lin3555} . Por fim, o
+- **Roteiro IRARA, linha 3556** {#roteiro_irara_lin3556} técnico também deverá selecionar a opção “De acordo” para as áreas de “Formação do Corredor
+- **Roteiro IRARA, linha 3557** {#roteiro_irara_lin3557} Ecológico”.
+
+### 4.7.6.9 Aba Análise do uso e cobertura do solo na RL
+
+- **Roteiro IRARA, linha 3559** {#roteiro_irara_lin3559} As áreas de Reserva Legal no CAR podem ser declaradas de três
+- **Roteiro IRARA, linha 3560** {#roteiro_irara_lin3560} formas:
+- **Roteiro IRARA, linha 3561** {#roteiro_irara_lin3561} • Reserva legal averbada;
+- **Roteiro IRARA, linha 3562** {#roteiro_irara_lin3562} • Reserva legal aprovada e não averbada;
+- **Roteiro IRARA, linha 3563** {#roteiro_irara_lin3563} • Reserva legal proposta.
+- **Roteiro IRARA, linha 3564** {#roteiro_irara_lin3564} Neste item, as informações referentes às áreas de Reserva legal serão correlacionadas
+- **Roteiro IRARA, linha 3565** {#roteiro_irara_lin3565} com as áreas classificadas de uso e cobertura do solo de maneira a verificar se há necessidade
+- **Roteiro IRARA, linha 3566** {#roteiro_irara_lin3566} de recompor ou não as áreas declaradas de RL, caso seja detectada supressão da RVN após
+- **Roteiro IRARA, linha 3567** {#roteiro_irara_lin3567} 22/07/2008. Quando não houver nenhuma informação declarada, significa que o proprietário não
+- **Roteiro IRARA, linha 3568** {#roteiro_irara_lin3568} declarou a Reserva Legal inviabilizando, portanto, a comparação com as classes de uso e
+- **Roteiro IRARA, linha 3569** {#roteiro_irara_lin3569} cobertura do solo.
+- **Roteiro IRARA, linha 3570** {#roteiro_irara_lin3570} Figura 68. Aba Análise do uso e cobertura do solo na RL
+- **Roteiro IRARA, linha 3571** {#roteiro_irara_lin3571} O técnico deverá avaliar a cobertura do solo nos polígonos de Reserva Legal Averbada,
+- **Roteiro IRARA, linha 3572** {#roteiro_irara_lin3572} Reserva Legal Aprovada e Não Averbada e Reserva Legal Proposta vetorizadas a fim de
+- **Roteiro IRARA, linha 3573** {#roteiro_irara_lin3573} adicionar/manter inconsistências, indicando ao proprietário/possuidor as áreas passíveis de
+- **Roteiro IRARA, linha 3574** {#roteiro_irara_lin3574} regularização ambiental dentro do imóvel. Nesta etapa da análise, o técnico também deverá
+- **Roteiro IRARA, linha 3575** {#roteiro_irara_lin3575} atestar que não existam inconsistências relacionadas à aba “Cobertura do Solo”. Isso garante
+- **Roteiro IRARA, linha 3576** {#roteiro_irara_lin3576} que a identificação das Áreas Antropizadas Não Consolidadas.
+- **Roteiro IRARA, linha 3577** {#roteiro_irara_lin3577} Para adicionar/manter inconsistências em relação à recomposição das Áreas
+- **Roteiro IRARA, linha 3578** {#roteiro_irara_lin3578} Antropizadas Não Consolidadas em que há sobreposição com as áreas de Reserva Legal
+- **Roteiro IRARA, linha 3579** {#roteiro_irara_lin3579} vetorizadas pelo cadastrante, o técnico deverá considerar as seguintes situações:
+- **Roteiro IRARA, linha 3580** {#roteiro_irara_lin3580} Situação 01: Caso o técnico verifique que há sobreposição de Área Antropizada Não
+- **Roteiro IRARA, linha 3581** {#roteiro_irara_lin3581} Consolidada (AA) com as áreas de Reserva Legal vetorizadas pelo cadastrante, a manutenção
+- **Roteiro IRARA, linha 3582** {#roteiro_irara_lin3582} da inconsistência automática dependerá da análise do técnico, o qual deverá verificar se são
+- **Roteiro IRARA, linha 3583** {#roteiro_irara_lin3583} erros de vetorização ocasionados na etapa de “Cobertura do Solo”. Tais erros ocorrem devido
+- **Roteiro IRARA, linha 3584** {#roteiro_irara_lin3584} a espaços entre as classes de cobertura do solo e o sistema os classifica automaticamente
+- **Roteiro IRARA, linha 3585** {#roteiro_irara_lin3585} como área antropizada não consolidada. Caso esse seja ocaso,o técnico poderá desconsiderar
+- **Roteiro IRARA, linha 3586** {#roteiro_irara_lin3586} a inconsistência.
+- **Roteiro IRARA, linha 3587** {#roteiro_irara_lin3587} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 3588** {#roteiro_irara_lin3588} abrirá e o técnico deverá clicar em “Desconsiderar Inconsistência”.
+- **Roteiro IRARA, linha 3589** {#roteiro_irara_lin3589} Justificativa:
+- **Roteiro IRARA, linha 3590** {#roteiro_irara_lin3590} “Observou-se
+- **Roteiro IRARA, linha 3591** {#roteiro_irara_lin3591} que
+- **Roteiro IRARA, linha 3592** {#roteiro_irara_lin3592} a
+- **Roteiro IRARA, linha 3593** {#roteiro_irara_lin3593} Área
+- **Roteiro IRARA, linha 3594** {#roteiro_irara_lin3594} Antropizada
+- **Roteiro IRARA, linha 3595** {#roteiro_irara_lin3595} Não
+- **Roteiro IRARA, linha 3596** {#roteiro_irara_lin3596} Consolidada
+- **Roteiro IRARA, linha 3597** {#roteiro_irara_lin3597} apontada
+- **Roteiro IRARA, linha 3598** {#roteiro_irara_lin3598} automaticamente pelo sistema consiste em erro de vetorização na etapa de cobertura do solo.
+- **Roteiro IRARA, linha 3599** {#roteiro_irara_lin3599} Portanto, essa inconsistência será desconsiderada.”
+- **Roteiro IRARA, linha 3600** {#roteiro_irara_lin3600} Situação 02: Caso o técnico verifique que há sobreposição de Área Antropizada Não
+- **Roteiro IRARA, linha 3601** {#roteiro_irara_lin3601} Consolidada (AA) com as áreas de Reserva Legal vetorizadas pelo cadastrante, que não se
+- **Roteiro IRARA, linha 3602** {#roteiro_irara_lin3602} enquadre na Situação 01, o técnico deverá manter/adicionar uma inconsistência sobre os
+- **Roteiro IRARA, linha 3603** {#roteiro_irara_lin3603} polígonos de AA identificados pelo sistema.
+
+### 4.7.6.10 Aba Aprovação da localização da ReservaLegal
+
+- **Roteiro IRARA, linha 3605** {#roteiro_irara_lin3605} Para aprovar a localização da Reserva Legal, o técnico deverá considerar a adequação
+- **Roteiro IRARA, linha 3606** {#roteiro_irara_lin3606} aos critérios previstos no art.14, da Lei nº12.651/2012, a IN IAT 01/2020, a IN IAT 04/2020, a
+- **Roteiro IRARA, linha 3607** {#roteiro_irara_lin3607} análise do cômputo de APP no cálculo da RL e a cobertura do solo nas áreas de Reserva Legal
+- **Roteiro IRARA, linha 3608** {#roteiro_irara_lin3608} vetorizadas pelo cadastrante.
+- **Roteiro IRARA, linha 3609** {#roteiro_irara_lin3609} Figura 69. AbaAprovaçãodalocalizaçãodaReservaLegal
+- **Roteiro IRARA, linha 3610** {#roteiro_irara_lin3610} As seguintes situações podem ocorrer:
+- **Roteiro IRARA, linha 3611** {#roteiro_irara_lin3611} Situação 01: A área declarada de reserva legal averbada e/ou reserva legal aprovada e não
+- **Roteiro IRARA, linha 3612** {#roteiro_irara_lin3612} averbada ou a reserva legal proposta possui remanescente de vegetação nativa igual ou superior
+- **Roteiro IRARA, linha 3613** {#roteiro_irara_lin3613} a 20%.
+- **Roteiro IRARA, linha 3614** {#roteiro_irara_lin3614} Procedimento: Verificar na aba “Balanço do passivo ou excedente de reserva legal dentro do
+- **Roteiro IRARA, linha 3615** {#roteiro_irara_lin3615} IR” se a área de RL declarada é maior ou igual a 20%. Alémdisso, verificar, na aba “Análise do
+- **Roteiro IRARA, linha 3616** {#roteiro_irara_lin3616} uso e cobertura do solo na RL”, se o sistema apontou alguma sobreposição com área antropizada
+- **Roteiro IRARA, linha 3617** {#roteiro_irara_lin3617} não consolidada. Nos casos em que não exista passivo de RL e a área declarada possua
+- **Roteiro IRARA, linha 3618** {#roteiro_irara_lin3618} somente remanescente de vegetação nativa, o técnico deverá aprovar a localização da RL.
+- **Roteiro IRARA, linha 3619** {#roteiro_irara_lin3619} Situação 02: A área declarada de reserva legal averbada e/ou reserva legal aprovada e não
+- **Roteiro IRARA, linha 3620** {#roteiro_irara_lin3620} averbada ou a reserva legal proposta possui sobreposição com área antropizada não
+- **Roteiro IRARA, linha 3621** {#roteiro_irara_lin3621} consolidada. O técnico deverá verificar, na aba “Análise do uso e cobertura do solo na RL”, se o
+- **Roteiro IRARA, linha 3622** {#roteiro_irara_lin3622} sistema apontou alguma sobreposição com área antropizada não consolidada. Em casos
+- **Roteiro IRARA, linha 3623** {#roteiro_irara_lin3623} afirmativos, o técnico deverá verificar o somatório dessas áreas e inserir uma inconsistência
+- **Roteiro IRARA, linha 3624** {#roteiro_irara_lin3624} adicional.
+- **Roteiro IRARA, linha 3625** {#roteiro_irara_lin3625} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência.
+- **Roteiro IRARA, linha 3626** {#roteiro_irara_lin3626} Pendência/Inconsistência: “Identificou-se que a área declarada como reserva legal(RLA ou
+- **Roteiro IRARA, linha 3627** {#roteiro_irara_lin3627} RLANA) possui sobreposição com área antropizada não consolidada”.
+- **Roteiro IRARA, linha 3628** {#roteiro_irara_lin3628} Recomendação: “Deverá ser apresentado um PRAD, no módulo MRA, que contemple a
+- **Roteiro IRARA, linha 3629** {#roteiro_irara_lin3629} recuperação dessa área, o qual será analisado e aprovado pelo IAT para que seja firmado termo
+- **Roteiro IRARA, linha 3630** {#roteiro_irara_lin3630} de compromisso de recuperação da área. O PRAD poderá constar ou não do PRA”.
+- **Roteiro IRARA, linha 3631** {#roteiro_irara_lin3631} Atendimento: Selecionar a opção Regularização Ambiental (Leinº12.651/2012).
+- **Roteiro IRARA, linha 3632** {#roteiro_irara_lin3632} Caso o técnico identifique inconsistências nas áreas de Reserva Legal vetorizadas
+- **Roteiro IRARA, linha 3633** {#roteiro_irara_lin3633} pelo cadastrante, é recomendável que a localização da Reserva Legal não seja aprovada.
+- **Roteiro IRARA, linha 3634** {#roteiro_irara_lin3634} Figura 70. Não aprovação da localização da Reserva Legal
+- **Roteiro IRARA, linha 3635** {#roteiro_irara_lin3635} Situação 03: A área declarada de reserva legal averbada e/ou reserva legal aprovada e não
+- **Roteiro IRARA, linha 3636** {#roteiro_irara_lin3636} averbada possui sobreposição com área consolidada. O técnico deverá verificar, na aba “Análise
+- **Roteiro IRARA, linha 3637** {#roteiro_irara_lin3637} do uso e cobertura do solo na RL”,se o sistema apontou alguma sobreposição com área
+- **Roteiro IRARA, linha 3638** {#roteiro_irara_lin3638} consolidada. Em casos afirmativos, o técnico deverá verificar o somatório dessas áreas e inserir
+- **Roteiro IRARA, linha 3639** {#roteiro_irara_lin3639} uma inconsistência adicional.
+- **Roteiro IRARA, linha 3640** {#roteiro_irara_lin3640} Procedimento:Iniciar a análise da aba e clicar no ícone de inconsistência.
+- **Roteiro IRARA, linha 3641** {#roteiro_irara_lin3641} Pendência/Inconsistência:“Identificou-se que a área declarada como reserva legal (RLA ou
+- **Roteiro IRARA, linha 3642** {#roteiro_irara_lin3642} RLANA) possui XXX há de sobreposição com área consolidada”.
+- **Roteiro IRARA, linha 3643** {#roteiro_irara_lin3643} Recomendação: “De acordo com o art 4º da Resolução SEDEST 18/2020, osimóveis rurais com
+- **Roteiro IRARA, linha 3644** {#roteiro_irara_lin3644} área de até quatro módulos fiscais poderão requerer aocartório a baixa da averbação da
+- **Roteiro IRARA, linha 3645** {#roteiro_irara_lin3645} matrícula, em cumprimento ao § 1º do art. 36 da Lei Estadual 18.295/2014. O Demonstrativo na
+- **Roteiro IRARA, linha 3646** {#roteiro_irara_lin3646} situação de CAR Ativo e na condição de CAR Analisado, é o documento que complementa a
+- **Roteiro IRARA, linha 3647** {#roteiro_irara_lin3647} documentação para a baixa da averbação dos Termos de Compromissos de Reserva Legal até
+- **Roteiro IRARA, linha 3648** {#roteiro_irara_lin3648} 04 módulos fiscais, sendo este o documento que representa o CAR ativo,analisado e
+- **Roteiro IRARA, linha 3649** {#roteiro_irara_lin3649} homologado. Nesses casos, o imóvel rural, em todos os seus aspectos, passa a ser regido pela
+- **Roteiro IRARA, linha 3650** {#roteiro_irara_lin3650} Lei nº 12.651/2012, inclusive para fins de reservalegal”.
+- **Roteiro IRARA, linha 3651** {#roteiro_irara_lin3651} Atendimento:
+- **Roteiro IRARA, linha 3652** {#roteiro_irara_lin3652} Selecionar a opção Regularização Ambiental (Lei nº12.651/2012).
+
+### 4.7.6.11 Aba Análise de inconsistências adicionais e/ou temas complementares
+
+- **Roteiro IRARA, linha 3654** {#roteiro_irara_lin3654} Nesse campo, inserem-se inconsistências que não puderam ser adicionadas nas abas
+- **Roteiro IRARA, linha 3655** {#roteiro_irara_lin3655} anteriores e/ou que o técnico julga ser necessário.
+
+### 4.7.6.12 Aba Observação
+
+- **Roteiro IRARA, linha 3657** {#roteiro_irara_lin3657} Ao finalizar a análise de todos os itens, o técnico deverá observar se existem áreas de
+- **Roteiro IRARA, linha 3658** {#roteiro_irara_lin3658} Reserva Legal Averbada, Reserva Legal Aprovada e não Averbada e/ou Reserva Legal Proposta
+- **Roteiro IRARA, linha 3659** {#roteiro_irara_lin3659} passíveis de regularização ambiental (recomposição de área antropizada não consolidada). No
+- **Roteiro IRARA, linha 3660** {#roteiro_irara_lin3660} ícone de acesso rápido “Detalhes do Imóvel”, o técnico deverá verificar, no campo “Informação”,
+- **Roteiro IRARA, linha 3661** {#roteiro_irara_lin3661} se há interesse do proprietário/possuidor em aderir ao Programa de Regularização Ambiental
+- **Roteiro IRARA, linha 3662** {#roteiro_irara_lin3662} (PRA).
+- **Roteiro IRARA, linha 3663** {#roteiro_irara_lin3663} Figura 71. Informações declaradas pelo proprietário
+- **Roteiro IRARA, linha 3664** {#roteiro_irara_lin3664} Caso o imóvel possua necessidade de recomposição de áreas de APP,de uso restrito e/ou
+- **Roteiro IRARA, linha 3665** {#roteiro_irara_lin3665} regularização de RL (áreas antropizadas não consolidadas) e o proprietário respondeu “Não”
+- **Roteiro IRARA, linha 3666** {#roteiro_irara_lin3666} para a pergunta “Deseja aderir ao Programa de Regularização Ambiental – PRA?”, o técnico
+- **Roteiro IRARA, linha 3667** {#roteiro_irara_lin3667} deverá inserir o seguinte texto na aba “Observação”:
+- **Roteiro IRARA, linha 3668** {#roteiro_irara_lin3668} “O Programa de Regularização Ambiental – PRA é destinado à regularização do passivo
+- **Roteiro IRARA, linha 3669** {#roteiro_irara_lin3669} ambiental referente à supressão de vegetação nativa ocorrida até 22/07/2008, em Áreas de
+- **Roteiro IRARA, linha 3670** {#roteiro_irara_lin3670} Preservação Permanente, Reserva Legal e/ou Áreas de Uso Restrito. Conforme o art. 4° do
+- **Roteiro IRARA, linha 3671** {#roteiro_irara_lin3671} Decreto n° 8.235/2014, e será de resposabilidade do ocupante do Lote, os programas de
+- **Roteiro IRARA, linha 3672** {#roteiro_irara_lin3672} regularização ambiental serão implantados pelos Estados e pelo Distrito Federal, observados os
+- **Roteiro IRARA, linha 3673** {#roteiro_irara_lin3673} seguintes requisitos:
+- **Roteiro IRARA, linha 3674** {#roteiro_irara_lin3674} •
+- **Roteiro IRARA, linha 3675** {#roteiro_irara_lin3675} - Termo de compromisso, com eficácia de título executivo extrajudicial;
+- **Roteiro IRARA, linha 3676** {#roteiro_irara_lin3676} •
+- **Roteiro IRARA, linha 3677** {#roteiro_irara_lin3677} - Mecanismos de controle e acompanhamento da recomposição, recuperação,
+- **Roteiro IRARA, linha 3678** {#roteiro_irara_lin3678} regeneração ou compensação e de integração das informações no Sicar; e
+- **Roteiro IRARA, linha 3679** {#roteiro_irara_lin3679} •
+- **Roteiro IRARA, linha 3680** {#roteiro_irara_lin3680} - mecanismos de acompanhamento da suspensão e extinção da punibilidade das
+- **Roteiro IRARA, linha 3681** {#roteiro_irara_lin3681} infrações de que tratam o § 4º do art. 59 e o art. 60 da Lei n° 12.651/2012, que
+- **Roteiro IRARA, linha 3682** {#roteiro_irara_lin3682} incluam informações sobre o cumprimento das obrigações firmadas para a
+- **Roteiro IRARA, linha 3683** {#roteiro_irara_lin3683} suspensão e o encerramento dos processos administrativo e criminal.
+- **Roteiro IRARA, linha 3684** {#roteiro_irara_lin3684} Conforme o § 4º do art. 29 Lei nº14.595/2023, terão direito à adesão ao PRA os proprietários e
+- **Roteiro IRARA, linha 3685** {#roteiro_irara_lin3685} possuidores dos imóveis rurais com área acima de 04 (quatro) módulos fiscais que os
+- **Roteiro IRARA, linha 3686** {#roteiro_irara_lin3686} inscreverem no CAR até 31 de dezembro de 2023, bem como os proprietários e possuidores dos
+- **Roteiro IRARA, linha 3687** {#roteiro_irara_lin3687} imóveis rurais com área de até 04 (quatro) módulos fiscais ou que atendam ao disposto no art.
+- **Roteiro IRARA, linha 3688** {#roteiro_irara_lin3688} 3º da Lei nº 11.326/2006, que os inscreverem no CAR até o dia 31 de dezembro de 2025.
+- **Roteiro IRARA, linha 3689** {#roteiro_irara_lin3689} Ressalta-se que a inscrição do imóvel no CAR é condição obrigatória para a desão ao PRA. O
+- **Roteiro IRARA, linha 3690** {#roteiro_irara_lin3690} proprietário/possuidor deverá requerer adesão ao PRA no prazo de 01 (ano), contado da
+- **Roteiro IRARA, linha 3691** {#roteiro_irara_lin3691} notificação pelo órgão ambiental. Caso deseje utilizar destes benefícios, retifique seu cadastro
+- **Roteiro IRARA, linha 3692** {#roteiro_irara_lin3692} e, na etapa ‘Informações’, indique a sua intenção de aderir ao Programa de Regularização
+- **Roteiro IRARA, linha 3693** {#roteiro_irara_lin3693} Ambiental”.
+- **Roteiro IRARA, linha 3694** {#roteiro_irara_lin3694} Figura 72. Aba Observação
+
+### 4.8. Regularidade IR
+
+- **Roteiro IRARA, linha 3696** {#roteiro_irara_lin3696} Nesta seção, o sistema informa oquantitativo de Áreas Antropizadas Não Consolidadas
+- **Roteiro IRARA, linha 3697** {#roteiro_irara_lin3697} que estão fora das áreas de preservação permanente, uso restrito e reserva legal. Além disso, o
+- **Roteiro IRARA, linha 3698** {#roteiro_irara_lin3698} sistema apresenta uma memória de cálculo para essas respectivas áreas. Por fim, é possível
+- **Roteiro IRARA, linha 3699** {#roteiro_irara_lin3699} adicionar inconsistências referentes ao excedente/passivo de Remanescente de Vegetação
+- **Roteiro IRARA, linha 3700** {#roteiro_irara_lin3700} Nativa para a constituição da reserva legal, conforme a resposta declarada pelo
+- **Roteiro IRARA, linha 3701** {#roteiro_irara_lin3701} proprietário/possuidor.
+
+### 4.8.1 Aba Áreas fora da APP, RL e Uso Restrito
+
+- **Roteiro IRARA, linha 3703** {#roteiro_irara_lin3703} O técnico deverá verificar se há Áreas Antropizadas Não Consolidadas fora das Áreas
+- **Roteiro IRARA, linha 3704** {#roteiro_irara_lin3704} de Preservação Permanente, Reserva Legal e Uso Restrito, sendo obrigatória a sua
+- **Roteiro IRARA, linha 3705** {#roteiro_irara_lin3705} recomposição. Caso sejam identificadas Áreas Antropizadas Não Consolidadas fora das APP,
+- **Roteiro IRARA, linha 3706** {#roteiro_irara_lin3706} RL e UR (Áreas de Preservação Permanente, Reserva Legal e Uso Restrito), a inconsistência
+- **Roteiro IRARA, linha 3707** {#roteiro_irara_lin3707} automática deverá ser mantida. No entanto, o técnico deverá observar se essas áreas
+- **Roteiro IRARA, linha 3708** {#roteiro_irara_lin3708} identificadas são erros de vetorização ocasionados na etapa de “Cobertura do Solo”. Tais erros
+- **Roteiro IRARA, linha 3709** {#roteiro_irara_lin3709} ocorrem devido a espaços entre as classes de cobertura do solo e o sistema os classifica
+- **Roteiro IRARA, linha 3710** {#roteiro_irara_lin3710} automaticamente como área antropizada não consolidada. Caso esse seja o caso, o técnico
+- **Roteiro IRARA, linha 3711** {#roteiro_irara_lin3711} poderá desconsiderar a inconsistência.
+- **Roteiro IRARA, linha 3712** {#roteiro_irara_lin3712} Procedimento: Iniciar a análise da aba e clicar no ícone de inconsistência. Uma nova janela se
+- **Roteiro IRARA, linha 3713** {#roteiro_irara_lin3713} abrirá e o técnico deverá clicar em “Desconsiderar Inconsistência”.
+- **Roteiro IRARA, linha 3714** {#roteiro_irara_lin3714} Justificativa:
+- **Roteiro IRARA, linha 3715** {#roteiro_irara_lin3715} “Observou-se
+- **Roteiro IRARA, linha 3716** {#roteiro_irara_lin3716} que
+- **Roteiro IRARA, linha 3717** {#roteiro_irara_lin3717} a
+- **Roteiro IRARA, linha 3718** {#roteiro_irara_lin3718} Área
+- **Roteiro IRARA, linha 3719** {#roteiro_irara_lin3719} Antropizada
+- **Roteiro IRARA, linha 3720** {#roteiro_irara_lin3720} Não
+- **Roteiro IRARA, linha 3721** {#roteiro_irara_lin3721} Consolidada
+- **Roteiro IRARA, linha 3722** {#roteiro_irara_lin3722} apontada
+- **Roteiro IRARA, linha 3723** {#roteiro_irara_lin3723} automaticamente pelo sistema consiste em erro de vetorização na etapa de cobertura do solo.
+- **Roteiro IRARA, linha 3724** {#roteiro_irara_lin3724} Portanto, essa inconsistência será desconsiderada.”
+- **Roteiro IRARA, linha 3725** {#roteiro_irara_lin3725} Observação para o Técnico: Caso sejam identificados bracatingais fora da APP e RL, será
+- **Roteiro IRARA, linha 3726** {#roteiro_irara_lin3726} possível a continuidade do manejo do bracatingal conforme legislação vigente. Para mais
+- **Roteiro IRARA, linha 3727** {#roteiro_irara_lin3727} detalhes sobre a a nálise de bracatingais, consultar ANEXO I– BRACATINGAL (Mimosa
+- **Roteiro IRARA, linha 3728** {#roteiro_irara_lin3728} scabrella)
+
+### 4.8.2 Aba Áreas de Uso Restrito
+
+- **Roteiro IRARA, linha 3730** {#roteiro_irara_lin3730} Nesta aba, o sistema apresenta a memória de cálculo referente às áreas de uso restrito.
+- **Roteiro IRARA, linha 3731** {#roteiro_irara_lin3731} São demonstradas o total de AURs declaradas e o total a recompor (se houver). Caso apareça
+- **Roteiro IRARA, linha 3732** {#roteiro_irara_lin3732} “Nenhuma informação disponível”, significa que nenhuma declaração referente ao uso restrito foi
+- **Roteiro IRARA, linha 3733** {#roteiro_irara_lin3733} realizada.
+- **Roteiro IRARA, linha 3734** {#roteiro_irara_lin3734} Figura 73. Memória de cálculo para áreas de uso restrito
+
+### 4.8.3 Aba Áreas de Preservação Permanente
+
+- **Roteiro IRARA, linha 3736** {#roteiro_irara_lin3736} Nesta aba, o sistema apresenta a memória de cálculo referente às áreas de
+- **Roteiro IRARA, linha 3737** {#roteiro_irara_lin3737} preservação permanente de hidrografia. São demonstradas o total das APPs declaradas e o total
+- **Roteiro IRARA, linha 3738** {#roteiro_irara_lin3738} a recompor (se houver). Caso apareça “Nenhuma informação disponível”, significa que nenhuma
+- **Roteiro IRARA, linha 3739** {#roteiro_irara_lin3739} declaração referente à APP foi realizada.
+- **Roteiro IRARA, linha 3740** {#roteiro_irara_lin3740} Figura 74. Memória de cálculo para áreas de preservação permanente
+
+### 4.8.4 Aba Áreas em Reserva Legal
+
+- **Roteiro IRARA, linha 3742** {#roteiro_irara_lin3742} Nesta aba, o sistema apresenta a memória de cálculo referente às áreas de reserva
+- **Roteiro IRARA, linha 3743** {#roteiro_irara_lin3743} legal. São demonstradas o total da RL declarada e o total a recompor (se houver). Caso apareça
+- **Roteiro IRARA, linha 3744** {#roteiro_irara_lin3744} “Nenhuma informação disponível”, significa que nenhuma declaração referente à RL foi
+- **Roteiro IRARA, linha 3745** {#roteiro_irara_lin3745} realizada.
+- **Roteiro IRARA, linha 3746** {#roteiro_irara_lin3746} Figura 75. Memória de cálculo para áreas de reserva legal
+
+### 4.8.5 Aba Balanço do passivo ou excedente de reserva legal
+
+- **Roteiro IRARA, linha 3748** {#roteiro_irara_lin3748} Nesta aba, o sistema apresenta a memória de cálculo referente ao passivo/excedente
+- **Roteiro IRARA, linha 3749** {#roteiro_irara_lin3749} de reserva legal. São demonstradas a área líquida do imóvel (basedo cálculo da Rl mínima), a
+- **Roteiro IRARA, linha 3750** {#roteiro_irara_lin3750} RL mínima exigida pela Lei nº 12.651/2012, a área declarada, as áreas compensadas no IR ou
+- **Roteiro IRARA, linha 3751** {#roteiro_irara_lin3751} em outro IR e o excedente/passivo. Caso apareça “Nenhuma informação disponível”, significa
+- **Roteiro IRARA, linha 3752** {#roteiro_irara_lin3752} que nenhuma declaração referente à RL foi realizada.
+- **Roteiro IRARA, linha 3753** {#roteiro_irara_lin3753} Figura 76. Memória de cálculo referente ao passivo/excedente de reserva legal
+
+### 4.8.6 Aba Análise das informações prestadas no cadastro
+
+- **Roteiro IRARA, linha 3755** {#roteiro_irara_lin3755} Ao realizar o cadastro no Módulo de Cadastro do CAR, o proprietário/possuidor deverá
+- **Roteiro IRARA, linha 3756** {#roteiro_irara_lin3756} responder se o imóvel possui excedente/déficit de Remanescente de Vegetação Nativa para fins
+- **Roteiro IRARA, linha 3757** {#roteiro_irara_lin3757} de constituição da reserva legal.
+- **Roteiro IRARA, linha 3758** {#roteiro_irara_lin3758} Figura 77. Análise das informações prestadas no cadastro
+- **Roteiro IRARA, linha 3759** {#roteiro_irara_lin3759} Caso o técnico verifique que a resposta declarada não condiz com a realidade do
+- **Roteiro IRARA, linha 3760** {#roteiro_irara_lin3760} imóvel, deverá adicionar uma inconsistência através do ícone
+- **Roteiro IRARA, linha 3761** {#roteiro_irara_lin3761} ANEXO I – BRACATINGAL (Mimosascabrella)
+- **Roteiro IRARA, linha 3762** {#roteiro_irara_lin3762} Base Legal:
+- **Roteiro IRARA, linha 3763** {#roteiro_irara_lin3763} • Resolução Conjunta IBAMA/SEMA/IAPNº001_2007;
+- **Roteiro IRARA, linha 3764** {#roteiro_irara_lin3764} ▪ PortariaIAPN°198_2017.
+- **Roteiro IRARA, linha 3765** {#roteiro_irara_lin3765} Figura 78. Municípios com Bracatinga no Estado do Paraná
+- **Roteiro IRARA, linha 3766** {#roteiro_irara_lin3766} Quadro 5. Fonte: Sttenbock et al. (2011). Diferenças estruturais de Bracatingais e Vegetação Secundária
+- **Roteiro IRARA, linha 3767** {#roteiro_irara_lin3767} Bracatingal
+- **Roteiro IRARA, linha 3768** {#roteiro_irara_lin3768} VegetaçãoSecundária
+- **Roteiro IRARA, linha 3769** {#roteiro_irara_lin3769} Densidade superior a 30.000 indivíduos/ha
+- **Roteiro IRARA, linha 3770** {#roteiro_irara_lin3770} Densidade média de 8.000 indivíduos/ha em
+- **Roteiro IRARA, linha 3771** {#roteiro_irara_lin3771} (1-4anos)
+- **Roteiro IRARA, linha 3772** {#roteiro_irara_lin3772} formação(1-4anos)
+- **Roteiro IRARA, linha 3773** {#roteiro_irara_lin3773} Bracatinga representa 80% dos indivíduos
+- **Roteiro IRARA, linha 3774** {#roteiro_irara_lin3774} Bracatinga nunca superiora 18% em
+- **Roteiro IRARA, linha 3775** {#roteiro_irara_lin3775} em bracatingais 1-8 anos
+- **Roteiro IRARA, linha 3776** {#roteiro_irara_lin3776} vegetação secundária 1-16 anos
+- **Roteiro IRARA, linha 3777** {#roteiro_irara_lin3777} Densidade reduzida ao longo do tempo,
+- **Roteiro IRARA, linha 3778** {#roteiro_irara_lin3778} Densidade total de 5.000 – 8.000
+- **Roteiro IRARA, linha 3779** {#roteiro_irara_lin3779} atingindo apenas 2,5% do total inicial de
+- **Roteiro IRARA, linha 3780** {#roteiro_irara_lin3780} indivíduos/ha ao longo do processo
+- **Roteiro IRARA, linha 3781** {#roteiro_irara_lin3781} indivíduos (17-20anos)
+- **Roteiro IRARA, linha 3782** {#roteiro_irara_lin3782} sucessional(1-20anos)
+- **Roteiro IRARA, linha 3783** {#roteiro_irara_lin3783} Reduzido nº de outras espécies,
+- **Roteiro IRARA, linha 3784** {#roteiro_irara_lin3784} Maior diversidade de outras espécies (23
+- **Roteiro IRARA, linha 3785** {#roteiro_irara_lin3785} normalmente5espéciespioneiras
+- **Roteiro IRARA, linha 3786** {#roteiro_irara_lin3786} espécies)
+- **Roteiro IRARA, linha 3787** {#roteiro_irara_lin3787} Análise dos Bracatingais:
+- **Roteiro IRARA, linha 3788** {#roteiro_irara_lin3788} a) Considerar como reflorestamento de espécie nativa = Uso consolidado
+- **Roteiro IRARA, linha 3789** {#roteiro_irara_lin3789} (anteriora22/07/2008);
+- **Roteiro IRARA, linha 3790** {#roteiro_irara_lin3790} b) Conforme Resolução Conjunta SEMA/IBAMA/IAP nº 001/2007 e Portaria
+- **Roteiro IRARA, linha 3791** {#roteiro_irara_lin3791} IAP nº 198/2017, área com bracatinga lpuro não poderá ser convertida,
+- **Roteiro IRARA, linha 3792** {#roteiro_irara_lin3792} exceto caso previsto em legislação específica, devendo ser mantida na
+- **Roteiro IRARA, linha 3793** {#roteiro_irara_lin3793} mesma área do imóvel, de forma a garantir a perpe tuidade da espécie, ou
+- **Roteiro IRARA, linha 3794** {#roteiro_irara_lin3794} seja, quando o povoamento atingir a idade ideal é feito o corte e, em
+- **Roteiro IRARA, linha 3795** {#roteiro_irara_lin3795} seguida, a mesma área é conduzida para a regeneração e produção para
+- **Roteiro IRARA, linha 3796** {#roteiro_irara_lin3796} um novo ciclo da espécie;
+- **Roteiro IRARA, linha 3797** {#roteiro_irara_lin3797} c) Entende-se como Conversão o ato de retirada sob a forma de corte raso de
+- **Roteiro IRARA, linha 3798** {#roteiro_irara_lin3798} toda vegetação arbórea de uma área e, em seguida, efetuada o plantio
+- **Roteiro IRARA, linha 3799** {#roteiro_irara_lin3799} nesta mesma área com agricultura, pastagem ou silvicultura e que para
+- **Roteiro IRARA, linha 3800** {#roteiro_irara_lin3800} este caso deverá haver a cobrança da reposição florestal pelo volume
+- **Roteiro IRARA, linha 3801** {#roteiro_irara_lin3801} cortado;
+- **Roteiro IRARA, linha 3802** {#roteiro_irara_lin3802} d) São considerados Bracatingais puros as áreas em que ocorre a espécie na
+- **Roteiro IRARA, linha 3803** {#roteiro_irara_lin3803} proporção mínima de 80% dos indivíduos florestais que compõem a
+- **Roteiro IRARA, linha 3804** {#roteiro_irara_lin3804} unidade de área com a espécie bracatinga e os 20% restantes de outras
+- **Roteiro IRARA, linha 3805** {#roteiro_irara_lin3805} espécies sucessoras do estágio inicial;
+- **Roteiro IRARA, linha 3806** {#roteiro_irara_lin3806} e) Não se enquadram na definição de Bracatingal puro aquelas áreas
+- **Roteiro IRARA, linha 3807** {#roteiro_irara_lin3807} submetidas a intervenções antrópicas não autorizadas ou não licenciadas
+- **Roteiro IRARA, linha 3808** {#roteiro_irara_lin3808} ou submetidas ao fogo ou a intempéries climáticas, mesmo que
+- **Roteiro IRARA, linha 3809** {#roteiro_irara_lin3809} apresentem predominância da espécie bracatinga (MimosaScabrella),
+- **Roteiro IRARA, linha 3810** {#roteiro_irara_lin3810} não sendo passíveis de autorização para intervenções;
+- **Roteiro IRARA, linha 3811** {#roteiro_irara_lin3811} ANEXO II – PISCICULTURA
+- **Roteiro IRARA, linha 3812** {#roteiro_irara_lin3812} Base Legal:
+- **Roteiro IRARA, linha 3813** {#roteiro_irara_lin3813} • Resolução Conjunta IBAMA/SEMA/IAP 02, de 16/12/2008-Estabelece
+- **Roteiro IRARA, linha 3814** {#roteiro_irara_lin3814} normas e procedimentos para regularização ambiental de tanques,
+- **Roteiro IRARA, linha 3815** {#roteiro_irara_lin3815} viveiros, açudes, pequenos reservatórios e lagoas destinados para
+- **Roteiro IRARA, linha 3816** {#roteiro_irara_lin3816} produção de peixes em águas continentais no Estado do Paraná;
+- **Roteiro IRARA, linha 3817** {#roteiro_irara_lin3817} • Portaria IAP 02, de 14/01/2009 - Prorroga o prazo para regularização dos
+- **Roteiro IRARA, linha 3818** {#roteiro_irara_lin3818} viveiros de produção de peixes no Estado do Paraná;
+- **Roteiro IRARA, linha 3819** {#roteiro_irara_lin3819} • Resolução CONAMA 413, de 26/06/2009 – Dispõe sobre o licenciamento
+- **Roteiro IRARA, linha 3820** {#roteiro_irara_lin3820} ambiental da aquicultura, e dá outras providências
+- **Roteiro IRARA, linha 3821** {#roteiro_irara_lin3821} • Lei 11.959, de 29/06/2009 - Dispõe sobre a Política Nacional de
+- **Roteiro IRARA, linha 3822** {#roteiro_irara_lin3822} Desenvolvimento Sustentável da Aquicultura e da Pesca, regula as
+- **Roteiro IRARA, linha 3823** {#roteiro_irara_lin3823} atividades pesqueiras, revoga a Lei nº 7.679, de 23/12/1988, e dispositivos
+- **Roteiro IRARA, linha 3824** {#roteiro_irara_lin3824} do Decreto-Lei nº 221, de 28/02/1967, e dá outras providências.
+- **Roteiro IRARA, linha 3825** {#roteiro_irara_lin3825} • Resolução SEDEST 42, de 30/08/2021 – Estabelece normas, critérios e
+- **Roteiro IRARA, linha 3826** {#roteiro_irara_lin3826} diretrizes para o licenciamento ambiental e a outorga de uso de recursos
+- **Roteiro IRARA, linha 3827** {#roteiro_irara_lin3827} hídricos de empreendimentos e atividades de aquicultura e maricultura.
+- **Roteiro IRARA, linha 3828** {#roteiro_irara_lin3828} Análise da Piscicultura:
+- **Roteiro IRARA, linha 3829** {#roteiro_irara_lin3829} Para a análise da piscicultura, é necessário o entendimento dos seguintes tópicos:
+- **Roteiro IRARA, linha 3830** {#roteiro_irara_lin3830} a) Para tanques/viveiro de até 20.000m2 = DLAE (Dispensa de Licenciamento)
+- **Roteiro IRARA, linha 3831** {#roteiro_irara_lin3831} (Anexo I, quadro V da Resolução SEDEST 42/2021);
+- **Roteiro IRARA, linha 3832** {#roteiro_irara_lin3832} b) Paratanques/viveirosacimade20.000m2=LicenciamentoAmbiental = LP, LI,
+- **Roteiro IRARA, linha 3833** {#roteiro_irara_lin3833} LO, LAS, LOR, LASR (Anexo I, quadro V daResoluçãoSEDEST42/2021);
+- **Roteiro IRARA, linha 3834** {#roteiro_irara_lin3834} c) APP de tanques e viveiros oriundos de barramento de curso d’água
+- **Roteiro IRARA, linha 3835** {#roteiro_irara_lin3835} = isentos até 10.000 m2 (Parágrafo 4º do art. 4º da Lei 12.651/12);
+- **Roteiro IRARA, linha 3836** {#roteiro_irara_lin3836} d) Não há APP para tanques e viveiros sem barramento de cursod’água
+- **Roteiro IRARA, linha 3837** {#roteiro_irara_lin3837} (Parágrafo 1º do art. 4º da Lei 12.651/12).
+- **Roteiro IRARA, linha 3838** {#roteiro_irara_lin3838} ANEXO III – MUNICÍPIO DE ABRANGÊNCIA DOS VINTE E UM
+- **Roteiro IRARA, linha 3839** {#roteiro_irara_lin3839} REGIONAIS DO IAT
+- **Roteiro IRARA, linha 3840** {#roteiro_irara_lin3840} Escritório Regional de Curitiba – ERCBA:
+- **Roteiro IRARA, linha 3841** {#roteiro_irara_lin3841} Municípios de abrangência: Curitiba, Adrianópolis, Agudos do Sul, Almirante Tamandaré,
+- **Roteiro IRARA, linha 3842** {#roteiro_irara_lin3842} Araucária, Balsa Nova, Bocaiúva do Sul, Campina Grande do Sul, Campo Largo, Campo Magro,
+- **Roteiro IRARA, linha 3843** {#roteiro_irara_lin3843} Campo do Tenente, Cerro Azul, Colombo, Contenda, Dr.Ulysses, Fazenda Rio Grande,
+- **Roteiro IRARA, linha 3844** {#roteiro_irara_lin3844} Itaperuçu, Lapa, Mandirituba, Piên, Pinhais, Piraquara, Quatro Barras, Quitandinha, Rio Branco
+- **Roteiro IRARA, linha 3845** {#roteiro_irara_lin3845} do Sul, Rio Negro, São José dos Pinhais, Tijucas do Sul e Tunasdo Paraná.
+- **Roteiro IRARA, linha 3846** {#roteiro_irara_lin3846} Escritório Regional de Campo Mourão – ERCMO:
+- **Roteiro IRARA, linha 3847** {#roteiro_irara_lin3847} Municípios de abrangência: Campo Mourão, Altamira do Paraná, Araruna, Barbosa Ferraz, Boa
+- **Roteiro IRARA, linha 3848** {#roteiro_irara_lin3848} Esperança, Campina da Lagoa, Corumbataí do Sul, Engenheiro Beltrão, Farol, Fênix, Goioerê,
+- **Roteiro IRARA, linha 3849** {#roteiro_irara_lin3849} Iretama, Janiópolis, Juranda, Luiziana, Mamborê, Moreira Sales, Nova Cantú, Peabirú, Quarto
+- **Roteiro IRARA, linha 3850** {#roteiro_irara_lin3850} Centenário, Quinta Do Sol, Rancho Alegre Do Oeste, Roncador e Ubiratã.
+- **Roteiro IRARA, linha 3851** {#roteiro_irara_lin3851} Escritório Regional de Cascavel – ERCAS:
+- **Roteiro IRARA, linha 3852** {#roteiro_irara_lin3852} Municípios de abrangência: Cascavel, Anahy, Boa Vista da Aparecida, Braganey, Cafelândia,
+- **Roteiro IRARA, linha 3853** {#roteiro_irara_lin3853} Campo Bonito, Capitão Leônidas Marques, Catanduvas, Corbélia, Diamante Do Sul, Guaraniaçu,
+- **Roteiro IRARA, linha 3854** {#roteiro_irara_lin3854} Ibema, Iguatú, Lindoeste, Santa Lúcia, Santa Tereza do Oeste, Três Barras do Paraná, Céu Azul
+- **Roteiro IRARA, linha 3855** {#roteiro_irara_lin3855} e Vera Cruz do Oeste.
+- **Roteiro IRARA, linha 3856** {#roteiro_irara_lin3856} Escritório Regional de Cianorte – ERCIA:
+- **Roteiro IRARA, linha 3857** {#roteiro_irara_lin3857} Municípios de abrangência: Cianorte, Cidade Gaúcha, Guaporema, Indianópolis, Japurá,
+- **Roteiro IRARA, linha 3858** {#roteiro_irara_lin3858} Jussara, Rondon, São Manoel do Paraná, São Tomé, Tapejara, Terra Boa eTuneiras do Oeste.
+- **Roteiro IRARA, linha 3859** {#roteiro_irara_lin3859} Escritório Regional de Cornélio Procópio – ERCOP:
+- **Roteiro IRARA, linha 3860** {#roteiro_irara_lin3860} Municípios de abrangência: Cornélio Procópio, Abatiá, Andirá, Assaí, Bandeirantes,
+- **Roteiro IRARA, linha 3861** {#roteiro_irara_lin3861} Congonhinhas, Itambaracá, Jataizinho, Leópolis, Nova América Da Colina, Nova Fátima, Nova
+- **Roteiro IRARA, linha 3862** {#roteiro_irara_lin3862} Santa Bárbara, Rancho Alegre, Ribeirão do Pinhal, Santa Amélia, Santa Cecília do Pavão, Santa
+- **Roteiro IRARA, linha 3863** {#roteiro_irara_lin3863} Mariana, Santo Antônio do Paraíso, São Jerônimo da Serra, São Sebastião da Amoreira,
+- **Roteiro IRARA, linha 3864** {#roteiro_irara_lin3864} Sapopema, Sertaneja e Uraí.
+- **Roteiro IRARA, linha 3865** {#roteiro_irara_lin3865} Escritório Regional de Foz do Iguaçu – ERFOZ:
+- **Roteiro IRARA, linha 3866** {#roteiro_irara_lin3866} Municípios de abrangência: Foz do Iguaçu, Itaipulândia, Matelândia, Medianeira, Missal,
+- **Roteiro IRARA, linha 3867** {#roteiro_irara_lin3867} Ramilândia, Santa Terezinha do Itaipú, Serranópolis do Iguaçu e São Miguel do Iguaçu.
+- **Roteiro IRARA, linha 3868** {#roteiro_irara_lin3868} Escritório Regional de Francisco Beltrão – ERBEL:
+- **Roteiro IRARA, linha 3869** {#roteiro_irara_lin3869} Municípios de abrangência: Francisco Beltrão, Ampére, Barracão, Bela Vista da Caroba, Boa
+- **Roteiro IRARA, linha 3870** {#roteiro_irara_lin3870} Esperança do Iguaçu, Bom Jesus do Sul, Capanema, Cruzeiro do Iguaçu, Dois Vizinhos, Enéas
+- **Roteiro IRARA, linha 3871** {#roteiro_irara_lin3871} Marques, Flor da Serra do Sul, Manfrinópolis, Marmeleiro, Nova Esperança do Sudoeste, Nova
+- **Roteiro IRARA, linha 3872** {#roteiro_irara_lin3872} Prata do Iguaçu, Pérola do Oeste, Pinhal de São Bento, Planalto, Pranchita, Realeza,
+- **Roteiro IRARA, linha 3873** {#roteiro_irara_lin3873} Renascença, Salgado Filho, Salto do Lontra, Santa Izabel do Oeste, Santo Antônio do Sudoeste,
+- **Roteiro IRARA, linha 3874** {#roteiro_irara_lin3874} São Jorgedo Oeste e Verê.
+- **Roteiro IRARA, linha 3875** {#roteiro_irara_lin3875} Escritório Regional de Guarapuava – ERGUA:
+- **Roteiro IRARA, linha 3876** {#roteiro_irara_lin3876} Municípios de abrangência: Guarapuava, Campina do Simão, Candói, Cantagalo, Espigão Alto
+- **Roteiro IRARA, linha 3877** {#roteiro_irara_lin3877} Do Iguaçu, Foz do Jordão, Goioxim, Laranjeiras do Sul, Marquinho, Pinhão, Porto Barreiro,
+- **Roteiro IRARA, linha 3878** {#roteiro_irara_lin3878} Prudentópolis, Quedas do Iguaçu, Reserva do Iguaçu, Turvo, Virmond, Nova Laranjeiras e Rio
+- **Roteiro IRARA, linha 3879** {#roteiro_irara_lin3879} Bonito do Iguaçu.
+- **Roteiro IRARA, linha 3880** {#roteiro_irara_lin3880} Escritório Regional de Irati – ERIRA:
+- **Roteiro IRARA, linha 3881** {#roteiro_irara_lin3881} Municípios de abrangência: Irati, Fernandes Pinheiro, Guamiranga, Imbituva, Mallet, Rebouças,
+- **Roteiro IRARA, linha 3882** {#roteiro_irara_lin3882} Rio Azul, Teixeira Soares e Inácio Martins.
+- **Roteiro IRARA, linha 3883** {#roteiro_irara_lin3883} Escritório Regional de Ivaiporã – ERIVA:
+- **Roteiro IRARA, linha 3884** {#roteiro_irara_lin3884} Municípios de abrangência: Ivaiporã, Ariranha Do Ivaí, Arapuã, Borrazópolis,Cândido de Abreu,
+- **Roteiro IRARA, linha 3885** {#roteiro_irara_lin3885} Cruzmaltina, Faxinal, Godoy Moreira, Grandes Rios, Jardim Alegre, Kaloré, Lidianópolis,
+- **Roteiro IRARA, linha 3886** {#roteiro_irara_lin3886} Lunardelli, Manoel Ribas, Marilândia do Sul, Marumbi, Mauá da Serra, Novo Itacolomi, Rio Bom,
+- **Roteiro IRARA, linha 3887** {#roteiro_irara_lin3887} Rio Branco do Ivaí, Rosário do Ivaí, São João do Ivaí e São Pedro do Ivaí.
+- **Roteiro IRARA, linha 3888** {#roteiro_irara_lin3888} Escritório Regional de Jacarezinho – ERJAC:
+- **Roteiro IRARA, linha 3889** {#roteiro_irara_lin3889} Municípios de abrangência: Jacarezinho, Barra do Jacaré, Cambará, Carlópolis, Conselheiro
+- **Roteiro IRARA, linha 3890** {#roteiro_irara_lin3890} Mayrinck, Curiúva, Figueira, Guapirama, Ibaiti, Jaboti, Japira, Joaquim Távora, Jundiaí do Sul,
+- **Roteiro IRARA, linha 3891** {#roteiro_irara_lin3891} Pinhalão, Quatiguá, Ribeirão Claro, Salto do Itararé, Santana do Itararé, Santo Antonio da
+- **Roteiro IRARA, linha 3892** {#roteiro_irara_lin3892} Platina, São José da Boa Vista, Siqueira Campos, Tomazina e Wenceslau Braz.
+- **Roteiro IRARA, linha 3893** {#roteiro_irara_lin3893} Escritório Regional de Londrina – ERLON:
+- **Roteiro IRARA, linha 3894** {#roteiro_irara_lin3894} Municípios de abrangência: Londrina, Alvorada do Sul, Apucarana, Arapongas, Bela Vista do
+- **Roteiro IRARA, linha 3895** {#roteiro_irara_lin3895} Paraíso, Bom Sucesso, Cafeara, Califórnia, Cambé, Centenário do Sul, Florestópolis, Guaraci,
+- **Roteiro IRARA, linha 3896** {#roteiro_irara_lin3896} Ibiporã, Jaguapitã, Jandaia do Sul, Lupionópolis, Miraselva, Pitangueiras, Porecatú, Prado
+- **Roteiro IRARA, linha 3897** {#roteiro_irara_lin3897} Ferreira, Primeiro de Maio, Rolândia, Sabáudia, Sertanópolis, Tamarana e Cambira.
+- **Roteiro IRARA, linha 3898** {#roteiro_irara_lin3898} Escritório Regional de Maringá – ERMAG:
+- **Roteiro IRARA, linha 3899** {#roteiro_irara_lin3899} Municípios de abrangência: Maringá, Ângulo, Astorga, Atalaia, Colorado, Doutor Camargo,
+- **Roteiro IRARA, linha 3900** {#roteiro_irara_lin3900} Floraí, Floresta, Flórida, Iguaraçu, Itaguajé, Itambé, Ivatuba, Lobato, Mandaguari, Mandaguaçu,
+- **Roteiro IRARA, linha 3901** {#roteiro_irara_lin3901} Marialva, Munhoz de Mello, Nossa Senhora Das Graças, Nova Esperança, Ourizona, Paiçandú,
+- **Roteiro IRARA, linha 3902** {#roteiro_irara_lin3902} Presidente Castelo Branco, Santa Fé, Santa Inês, Santo Inácio, São Jorge do Ivaí, Sarandi e
+- **Roteiro IRARA, linha 3903** {#roteiro_irara_lin3903} Uniflor.
+- **Roteiro IRARA, linha 3904** {#roteiro_irara_lin3904} Escritório Regional de Paranaguá – ERLIT / Gerência Regional da Bacia
+- **Roteiro IRARA, linha 3905** {#roteiro_irara_lin3905} Litorânea (GERLIT):
+- **Roteiro IRARA, linha 3906** {#roteiro_irara_lin3906} Municípios de abrangência: Paranaguá, Antonina, Guaraqueçaba, Guaratuba, Matinhos,
+- **Roteiro IRARA, linha 3907** {#roteiro_irara_lin3907} Morretes e Pontal do Paraná.
+- **Roteiro IRARA, linha 3908** {#roteiro_irara_lin3908} Escritório Regional de Paranavaí – ERPVI:
+- **Roteiro IRARA, linha 3909** {#roteiro_irara_lin3909} Municípios de abrangência: Paranavaí, Alto Paraná, Amaporã, Cruzeiro do Sul, Diamante do
+- **Roteiro IRARA, linha 3910** {#roteiro_irara_lin3910} Norte, Guairaçá, Inajá, Itaúna do Sul, Jardim Olinda, Loanda, Marilena, Mirador, Nova Aliança do
+- **Roteiro IRARA, linha 3911** {#roteiro_irara_lin3911} Ivaí,Nova Londrina, Paraíso do Norte, Paranacity, Paranapoema, Planaltina do Paraná, Porto
+- **Roteiro IRARA, linha 3912** {#roteiro_irara_lin3912} Rico, Querência do Norte, Santa Cruz do Monte Castelo, Santa Isabel do Ivaí, Santa Mônica,
+- **Roteiro IRARA, linha 3913** {#roteiro_irara_lin3913} Santo Antônio do Caiuá, São Carlos do Ivaí, São João do Caiuá, São Pedro do Paraná,
+- **Roteiro IRARA, linha 3914** {#roteiro_irara_lin3914} Tamboara eTerra Rica.
+- **Roteiro IRARA, linha 3915** {#roteiro_irara_lin3915} Escritório Regional de Pato Branco – ERPAB:
+- **Roteiro IRARA, linha 3916** {#roteiro_irara_lin3916} Municípios de abrangência: Pato Branco, Bom Sucesso do Sul, Chopinzinho, Clevelândia,
+- **Roteiro IRARA, linha 3917** {#roteiro_irara_lin3917} Coronel Domingos Soares, Coronel Vivida, Honório Serpa, Itapejara do Oeste, Mangueirinha,
+- **Roteiro IRARA, linha 3918** {#roteiro_irara_lin3918} Mariópolis, Palmas, Saudade do Iguaçu, São João, Sulina e Vitorino.
+- **Roteiro IRARA, linha 3919** {#roteiro_irara_lin3919} Escritório Regional de Pitanga – ERPIT:
+- **Roteiro IRARA, linha 3920** {#roteiro_irara_lin3920} Municípios de abrangência: Pitanga, Boa Ventura do São Roque, Mato Rico, Nova Tebas,
+- **Roteiro IRARA, linha 3921** {#roteiro_irara_lin3921} Laranjal, Palmital e Santa Maria do Oeste.
+- **Roteiro IRARA, linha 3922** {#roteiro_irara_lin3922} Escritório Regional de Ponta Grossa – ERPGO:
+- **Roteiro IRARA, linha 3923** {#roteiro_irara_lin3923} Municípios de abrangência: Ponta Grossa, Arapoti, Carambeí, Castro, Imbaú, Ipiranga, Ivaí,
+- **Roteiro IRARA, linha 3924** {#roteiro_irara_lin3924} Jaguariaíva, Ortigueira, Palmeira, Piraí do Sul, Porto Amazonas, Reserva, São João do Triunfo,
+- **Roteiro IRARA, linha 3925** {#roteiro_irara_lin3925} Sengés, Telêmaco Borba, Ventania e Tibagi.
+- **Roteiro IRARA, linha 3926** {#roteiro_irara_lin3926} Escritório Regional de Toledo – ERTOL:
+- **Roteiro IRARA, linha 3927** {#roteiro_irara_lin3927} Municípios de abrangência: Toledo, Assis Chateaubriand, Diamante do Oeste,Entre Rios do
+- **Roteiro IRARA, linha 3928** {#roteiro_irara_lin3928} Oeste, Formosa do Oeste, Guaíra, Iracema do Oeste, Jesuítas,Marechal Cândido Rondon,
+- **Roteiro IRARA, linha 3929** {#roteiro_irara_lin3929} Maripá, Mercedes, Nova Aurora, Nova Santa Rosa,Ouro Verde do Oeste, Palotina, Pato
+- **Roteiro IRARA, linha 3930** {#roteiro_irara_lin3930} Bragado, Quatro Pontes, Santa Helena, São José das Palmeiras, São Pedro do Iguaçu, Terra
+- **Roteiro IRARA, linha 3931** {#roteiro_irara_lin3931} Roxa e Tupãssi.
+- **Roteiro IRARA, linha 3932** {#roteiro_irara_lin3932} Escritório Regional de Umuarama – ERUMU:
+- **Roteiro IRARA, linha 3933** {#roteiro_irara_lin3933} Municípios de abrangência: Umuarama, Alto Piquiri, Altônia, Brasilândia do Sul,Cafezal do Sul,
+- **Roteiro IRARA, linha 3934** {#roteiro_irara_lin3934} Cruzeiro do Oeste,Douradina, Esperança Nova, Francisco Alves, Icaraíma, Iporã, Ivaté, Maria
+- **Roteiro IRARA, linha 3935** {#roteiro_irara_lin3935} Helena, Mariluz, Nova Olímpia, Perobal,Pérola,SãoJorge doPatrocínio,Tapira, VilaAltaeXambrê.
+- **Roteiro IRARA, linha 3936** {#roteiro_irara_lin3936} Escritório Regional de União da Vitória – ERUVI:
+- **Roteiro IRARA, linha 3937** {#roteiro_irara_lin3937} Municípios de abrangência: União da Vitória, Antônio Olinto, Bituruna, Cruz Machado, General
+- **Roteiro IRARA, linha 3938** {#roteiro_irara_lin3938} Carneiro, Paula Freitas, Paulo Frontin, Porto Vitória e São Mateus do Sul.
+- **Roteiro IRARA, linha 3939** {#roteiro_irara_lin3939} ANEXO IV – PORTARIA Nº15/2021
+- **Roteiro IRARA, linha 3940** {#roteiro_irara_lin3940} PORTARIA N.º 015, DE 14/01/2021
+- **Roteiro IRARA, linha 3941** {#roteiro_irara_lin3941} “O Diretor Presidente do Instituto Água e Terra, nomeado pelo Decreto Estadual nº 3.820, de
+- **Roteiro IRARA, linha 3942** {#roteiro_irara_lin3942} 10/01/2020, no uso de suas atribuições que lhe são conferidas pela Lei Estadual nº 10.066, de
+- **Roteiro IRARA, linha 3943** {#roteiro_irara_lin3943} 27 de julho de 1992, Lei Estadual nº 20.070, de18/12/2019, Decreto Estadual nº 3.813, de
+- **Roteiro IRARA, linha 3944** {#roteiro_irara_lin3944} 09/01/2020 e Decreto Estadual n º4.696, de 27/07/2016,
+- **Roteiro IRARA, linha 3945** {#roteiro_irara_lin3945} • Considerando o § 4º do Art. 29 da Lei Federal 12651/2012 (CódigoFlorestal)
+- **Roteiro IRARA, linha 3946** {#roteiro_irara_lin3946} que estabelece que “os proprietários e possuidores dos imóveis rurais que
+- **Roteiro IRARA, linha 3947** {#roteiro_irara_lin3947} os inscreverem no CAR até o dia 31 de dezembro de 2020 terão direito à
+- **Roteiro IRARA, linha 3948** {#roteiro_irara_lin3948} adesão ao Programa de Regularização Ambiental (PRA), de que trata o art.
+- **Roteiro IRARA, linha 3949** {#roteiro_irara_lin3949} 59 desta Lei5”.
+- **Roteiro IRARA, linha 3950** {#roteiro_irara_lin3950} • Considerando o § 2º do Art. 59 da Lei Federal 12651/2012 (CódigoFlorestal)
+- **Roteiro IRARA, linha 3951** {#roteiro_irara_lin3951} que determina que “a inscrição do imóvel rural no CAR é condição
+- **Roteiro IRARA, linha 3952** {#roteiro_irara_lin3952} obrigatória para a adesão ao PRA, que deve ser requerida em até 2 (dois)
+- **Roteiro IRARA, linha 3953** {#roteiro_irara_lin3953} anos, observado o disposto no § 4º do art. 29 desta Lei6”.
+- **Roteiro IRARA, linha 3954** {#roteiro_irara_lin3954} • Considerando o Art. 5º da Resolução SEDEST 18/2020 que consigna que “os
+- **Roteiro IRARA, linha 3955** {#roteiro_irara_lin3955} pedidos de revisão protocolados no órgão ambiental antes da entrada em
+- **Roteiro IRARA, linha 3956** {#roteiro_irara_lin3956} vigor da presente Resolução, para Imóveis até quatro módulos fiscais,
+- **Roteiro IRARA, linha 3957** {#roteiro_irara_lin3957} serão arquivados, preservando o direito de acesso à informação destes
+- **Roteiro IRARA, linha 3958** {#roteiro_irara_lin3958} documentos.”
+- **Roteiro IRARA, linha 3959** {#roteiro_irara_lin3959} • Considerando o Parecer Jurídico nº 28/2020 da Procuradoria Geraldo
+- **Roteiro IRARA, linha 3960** {#roteiro_irara_lin3960} Estado do Paraná.
+- **Roteiro IRARA, linha 3961** {#roteiro_irara_lin3961} ____________________________
+
+### 5 A Lei nº 14.595/2023 alterou o prazo de adesão ao PRA. Conforme o normativo legal, terão direito
+
+- **Roteiro IRARA, linha 3963** {#roteiro_irara_lin3963} à adesão ao PRA os proprietários e possuidores dos imóveis rurais com área acima de 04 (quatro) módulos
+- **Roteiro IRARA, linha 3964** {#roteiro_irara_lin3964} fiscais que os inscreverem no CAR até 31 de dezembro de 2023, bem como os proprietários e possuidores
+- **Roteiro IRARA, linha 3965** {#roteiro_irara_lin3965} dos imóveis rurais com área de até 04 (quatro) módulos fiscais ou que atendam ao disposto no art. 3º da
+- **Roteiro IRARA, linha 3966** {#roteiro_irara_lin3966} Lei nº 11.326/2006, que os inscreverem no CAR até o dia 31 de dezembro de 2025.
+- **Roteiro IRARA, linha 3967** {#roteiro_irara_lin3967} 6A Lei nº 14.595/2023 alterou o prazo de requisição ao PRA. Conforme o normativo legal, a
+- **Roteiro IRARA, linha 3968** {#roteiro_irara_lin3968} inscrição do imóvel no CAR é condição obrigatória para adesão ao PRA, sendo que o
+- **Roteiro IRARA, linha 3969** {#roteiro_irara_lin3969} proprietário/possuidor deverá requerer adesão ao programa no prazo de 01 (ano), contado da notificação
+- **Roteiro IRARA, linha 3970** {#roteiro_irara_lin3970} pelo órgão ambiental.
+- **Roteiro IRARA, linha 3971** {#roteiro_irara_lin3971} Art.1º. Os proprietáriose possuidores de imóveis rurais que realizaram a inscrição no CAR até 31
+- **Roteiro IRARA, linha 3972** {#roteiro_irara_lin3972} de dezembro de 2020, poderão aderir ao PRA (Programa de Regularização Ambiental) em até 2
+- **Roteiro IRARA, linha 3973** {#roteiro_irara_lin3973} (dois) anos, observado o disposto no § 4º do art. 29 e § 2º do Art. 59 da Lei Federal 12651/2012
+- **Roteiro IRARA, linha 3974** {#roteiro_irara_lin3974} (CódigoFlorestal).
+- **Roteiro IRARA, linha 3975** {#roteiro_irara_lin3975} § 1º Caso a adesão ao PRA não tenha ocorrido no ato da inscrição no CAR, o proprietário ou
+- **Roteiro IRARA, linha 3976** {#roteiro_irara_lin3976} possuidor de imóvel rural poderá fazê-lo no prazo assinalado no
+- **Roteiro IRARA, linha 3977** {#roteiro_irara_lin3977} § 4º do art. 29 e § 2º do Art. 59 da Lei Federal 12651/2012 (Código Florestal), mediante retificação
+- **Roteiro IRARA, linha 3978** {#roteiro_irara_lin3978} do CAR.
+- **Roteiro IRARA, linha 3979** {#roteiro_irara_lin3979} § 2º Revisão, cancelamento ou regularização de Termos de Compromisso ou instrumentos
+- **Roteiro IRARA, linha 3980** {#roteiro_irara_lin3980} similares que tenham sido firmados conforme exigências da LeiFederal 4771/1965, deverão ser
+- **Roteiro IRARA, linha 3981** {#roteiro_irara_lin3981} realizadas após a análise do CAR pelo órgão ambiental, mediante assinatura do Termo de
+- **Roteiro IRARA, linha 3982** {#roteiro_irara_lin3982} Adesão ao PRA com as regularizações que se fizerem necessárias, independente de
+- **Roteiro IRARA, linha 3983** {#roteiro_irara_lin3983} requerimento específico por parte do proprietário ou possuidor.
+- **Roteiro IRARA, linha 3984** {#roteiro_irara_lin3984} § 3º Aadesão ao PRA é a manifestação necessária no momento da inscrição ou retificação do
+- **Roteiro IRARA, linha 3985** {#roteiro_irara_lin3985} CAR para requerimento da revisão dos Termos de Compromisso firmados sob a égide da Lei
+- **Roteiro IRARA, linha 3986** {#roteiro_irara_lin3986} 4771/65.
+- **Roteiro IRARA, linha 3987** {#roteiro_irara_lin3987} Art. 2º. Esta portaria entra em vigor na data da sua publicação.
+- **Roteiro IRARA, linha 3988** {#roteiro_irara_lin3988} ANEXO V – RESOLUÇÃO SEDEST Nº 18/2020
+- **Roteiro IRARA, linha 3989** {#roteiro_irara_lin3989} Súmula: Estabelece procedimentos para baixa da averbação dos Termos de Compromisso de
+- **Roteiro IRARA, linha 3990** {#roteiro_irara_lin3990} acordo com as disposições da Lei Estadual nº 18.295/2014.
+- **Roteiro IRARA, linha 3991** {#roteiro_irara_lin3991} O SECRETÁRIO DE ESTADO DO DESENVOLVIMENTO SUSTENTÁVEL E
+- **Roteiro IRARA, linha 3992** {#roteiro_irara_lin3992} DO TURISMO, designado pelo Decreto Estadual n. º 1440, de 23 de maio de2019, no uso das
+- **Roteiro IRARA, linha 3993** {#roteiro_irara_lin3993} atribuições que lhe são conferidas pela Lei Estadual nº Lei nº 19.848, de 3 de maio de 2019 e
+- **Roteiro IRARA, linha 3994** {#roteiro_irara_lin3994} Lei n° 10.066, de 27 de julho de 1992, e
+- **Roteiro IRARA, linha 3995** {#roteiro_irara_lin3995} CONSIDERANDO a Lei Federal n. º12.651, de 25 de maio de 2012, que dispõe sobre a proteção
+- **Roteiro IRARA, linha 3996** {#roteiro_irara_lin3996} da vegetação nativa brasileira; CONSIDERANDO a Lei Estadual n.º 18.295, de 10 de novembro
+- **Roteiro IRARA, linha 3997** {#roteiro_irara_lin3997} de 2014, que institui o Programa de Regularização Ambiental no Estado do Paraná e que trata
+- **Roteiro IRARA, linha 3998** {#roteiro_irara_lin3998} da proteção e regularização da Reserva Legal e,
+- **Roteiro IRARA, linha 3999** {#roteiro_irara_lin3999} CONSIDERANDO o inciso XVI, art. 4º da Lei 19.848, de 03 de maio de 2019 que estabelece
+- **Roteiro IRARA, linha 4000** {#roteiro_irara_lin4000} competências para os Secretários de Estado para propor, planejar, coordenar e sugerir a adoção
+- **Roteiro IRARA, linha 4001** {#roteiro_irara_lin4001} de medidas de desburocratização e eficiência na gestão CONSIDERANDO o § 2º do artigo 3º
+- **Roteiro IRARA, linha 4002** {#roteiro_irara_lin4002} da Lei 19.857, de 29 de maio de2019, que institui o Programa de Integridade e Compliance da
+- **Roteiro IRARA, linha 4003** {#roteiro_irara_lin4003} Administração Pública Estadual, cujo os mecanismos visam proteger o órgão e a entidade, bem
+- **Roteiro IRARA, linha 4004** {#roteiro_irara_lin4004} como impor aos agentes públicos e políticos com o compromisso com a ética, o respeito a
+- **Roteiro IRARA, linha 4005** {#roteiro_irara_lin4005} integridade e a eficiência na prestação do serviço público;
+- **Roteiro IRARA, linha 4006** {#roteiro_irara_lin4006} CONSIDERANDO o Decreto Estadual nº 2.432 de 15 de agosto de 2019, quecriou o Comitê
+- **Roteiro IRARA, linha 4007** {#roteiro_irara_lin4007} Permanente de Desburocratização, com o objetivo de identificar os principais entraves
+- **Roteiro IRARA, linha 4008** {#roteiro_irara_lin4008} burocráticos para categoria empresarial no Estado do Paraná e trabalha em funções de soluções
+- **Roteiro IRARA, linha 4009** {#roteiro_irara_lin4009} melhorando o ambiente de negócios;
+- **Roteiro IRARA, linha 4010** {#roteiro_irara_lin4010} CONSISERANDO o Plano de Ação “Descomplica” da SEDEST, aprovado pelo Comitê
+- **Roteiro IRARA, linha 4011** {#roteiro_irara_lin4011} Permanente de Desburocratização, cujo objetivo é a simplificação dos procedimentos de
+- **Roteiro IRARA, linha 4012** {#roteiro_irara_lin4012} licenciamento;
+- **Roteiro IRARA, linha 4013** {#roteiro_irara_lin4013} RESOLVE:
+- **Roteiro IRARA, linha 4014** {#roteiro_irara_lin4014} Art. 1º Estabelecer procedimentos para baixa da averbação dos Termos de Compromisso ou
+- **Roteiro IRARA, linha 4015** {#roteiro_irara_lin4015} instrumentos similares de imóveis rurais de até quatro módulos fiscais, em conformidade com o
+- **Roteiro IRARA, linha 4016** {#roteiro_irara_lin4016} § 1º do art. 36 da Lei 18.295 de 10 de novembro de 2014.
+- **Roteiro IRARA, linha 4017** {#roteiro_irara_lin4017} Art. 2º Para fins desta Resolução consideram-se as seguintes definições:
+- **Roteiro IRARA, linha 4018** {#roteiro_irara_lin4018} I- Termo de Compromisso de Adesão ao PRA: Título executivo extrajudicial de adesão
+- **Roteiro IRARA, linha 4019** {#roteiro_irara_lin4019} ao Programa de Regularização Ambiental, que será assinado com o órgão ambiental
+- **Roteiro IRARA, linha 4020** {#roteiro_irara_lin4020} competente após análise do CAR;
+- **Roteiro IRARA, linha 4021** {#roteiro_irara_lin4021} II- Termos de Compromisso: Termos de Compromisso ou instrumentos similares para a
+- **Roteiro IRARA, linha 4022** {#roteiro_irara_lin4022} regularização ambiental dos imóveis de até quatro módulos fiscais, referentes as Áreas
+- **Roteiro IRARA, linha 4023** {#roteiro_irara_lin4023} de Preservação Permanente, de Reserva Legal e de Uso Restrito, firmados com base na
+- **Roteiro IRARA, linha 4024** {#roteiro_irara_lin4024} Lei Federal nº 4.771, de 1965.
+- **Roteiro IRARA, linha 4025** {#roteiro_irara_lin4025} Art. 3º Os imóveis rurais até quatro módulos fiscais que possuam Termos de Compromisso ou
+- **Roteiro IRARA, linha 4026** {#roteiro_irara_lin4026} instrumentos similares que tenham sido firmados conforme exigências da Lei Federal 4.771/1965
+- **Roteiro IRARA, linha 4027** {#roteiro_irara_lin4027} serão adequadas a Lei Estadual nº 18.295/2014.
+- **Roteiro IRARA, linha 4028** {#roteiro_irara_lin4028} § 1º Os imóveis rurais com matrícula averbada de áreas de Reserva Legal cedidas ou recebidas
+- **Roteiro IRARA, linha 4029** {#roteiro_irara_lin4029} de terceiros não serão passiveis da baixa de averbação, da respectiva cessão, sem a devida
+- **Roteiro IRARA, linha 4030** {#roteiro_irara_lin4030} análise do CAR pelo órgão ambiental.
+- **Roteiro IRARA, linha 4031** {#roteiro_irara_lin4031} § 2ºO cancelamento do Termo de Compromisso e a respectiva baixa da averbação, não exime
+- **Roteiro IRARA, linha 4032** {#roteiro_irara_lin4032} o proprietário, de realizar, após a análise do CAR pelo órgão Ambiental, a regularização que se
+- **Roteiro IRARA, linha 4033** {#roteiro_irara_lin4033} fizer necessária, mediante aassinatura do Termode Compromisso de Adesão aoPRA.
+- **Roteiro IRARA, linha 4034** {#roteiro_irara_lin4034} Art. 4º Após a inscrição no CAR, mediante apresentação do CAR na situação ATIVO, os imóveis
+- **Roteiro IRARA, linha 4035** {#roteiro_irara_lin4035} rurais com área de até quatro módulos fiscais poderão requerer ao cartório a baixa da averbação
+- **Roteiro IRARA, linha 4036** {#roteiro_irara_lin4036} da matrícula, em cumprimento ao § 1º do art. 36 da Lei Estadual 18.295/2014. O Demonstrativo
+- **Roteiro IRARA, linha 4037** {#roteiro_irara_lin4037} na situação de CAR Ativo e na condição de CAR Analisado, é o documento que complementa a
+- **Roteiro IRARA, linha 4038** {#roteiro_irara_lin4038} documentação para a baixa da averbação dos Termos de Compromissos de Reserva Legal abaixo
+- **Roteiro IRARA, linha 4039** {#roteiro_irara_lin4039} de 04 módulos fiscais, sendo este o documento que representa o CAR ativo, analisado e
+- **Roteiro IRARA, linha 4040** {#roteiro_irara_lin4040} homologado, para os fins desta Resolução.(Redação dada pela Resolução 33 de 12/05/2020)
+- **Roteiro IRARA, linha 4041** {#roteiro_irara_lin4041} Parágrafo único. O CAR na situação ATIVO se comprova através do documento oficial
+- **Roteiro IRARA, linha 4042** {#roteiro_irara_lin4042} “demonstrativo
+- **Roteiro IRARA, linha 4043** {#roteiro_irara_lin4043} do
+- **Roteiro IRARA, linha 4044** {#roteiro_irara_lin4044} CAR”
+- **Roteiro IRARA, linha 4045** {#roteiro_irara_lin4045} podendo
+- **Roteiro IRARA, linha 4046** {#roteiro_irara_lin4046} ser
+- **Roteiro IRARA, linha 4047** {#roteiro_irara_lin4047} emitido
+- **Roteiro IRARA, linha 4048** {#roteiro_irara_lin4048} em
+- **Roteiro IRARA, linha 4049** {#roteiro_irara_lin4049} endereço
+- **Roteiro IRARA, linha 4050** {#roteiro_irara_lin4050} eletrônico
+- **Roteiro IRARA, linha 4051** {#roteiro_irara_lin4051} htt://www.car.gov.br/consulta. Parágrafo único. O CAR na situação ATIVO se comprova através
+- **Roteiro IRARA, linha 4052** {#roteiro_irara_lin4052} do documento oficial “demonstrativo do CAR” podendo ser emitido em endereço eletrônico
+- **Roteiro IRARA, linha 4053** {#roteiro_irara_lin4053} htt://www.car.gov.br /consulta. Em relação ao documento citado no caput deste artigo, o mesmo
+- **Roteiro IRARA, linha 4054** {#roteiro_irara_lin4054} pode ser, inclusive, retirado junto ao registro imobiliário, em tempo real, acessando
+- **Roteiro IRARA, linha 4055** {#roteiro_irara_lin4055} http://www.car.gov.br/#/consultar.(Redação dada pela Resolução 33 de 12/05/2020)
+- **Roteiro IRARA, linha 4056** {#roteiro_irara_lin4056} Art. 5ºOs Pedidos de Revisão protocolados no órgão ambiental antes da entrada em vigor da
+- **Roteiro IRARA, linha 4057** {#roteiro_irara_lin4057} presente Resolução, para imóveis de até quatro módulos fiscais, serão arquivados, preservando
+- **Roteiro IRARA, linha 4058** {#roteiro_irara_lin4058} o direito de acesso à informação destes documentos.
+- **Roteiro IRARA, linha 4059** {#roteiro_irara_lin4059} Art. 6º A baixa da averbação dos Termos de Compromisso não se aplica para imóveis urbanos,
+- **Roteiro IRARA, linha 4060** {#roteiro_irara_lin4060} os quais terão procedimentos definidos em legislação específica.
+- **Roteiro IRARA, linha 4061** {#roteiro_irara_lin4061} Art. 7º As hipóteses de revisão dos Termos de Compromisso para a dequação ao disposto na
+- **Roteiro IRARA, linha 4062** {#roteiro_irara_lin4062} Lei 12.651/2012 para compensação, readequação, retificação e realocação da Reserva Legal e
+- **Roteiro IRARA, linha 4063** {#roteiro_irara_lin4063} readequação das áreas de preservação permanente, serão objeto de regulamentação pelo órgão
+- **Roteiro IRARA, linha 4064** {#roteiro_irara_lin4064} ambiental.
+- **Roteiro IRARA, linha 4065** {#roteiro_irara_lin4065} Art. 8º Esta Resolução entra em vigor na data de sua publicação.
+- **Roteiro IRARA, linha 4066** {#roteiro_irara_lin4066} Curitiba, 05 de marçode 2020
+- **Roteiro IRARA, linha 4067** {#roteiro_irara_lin4067} MARCIONUNES Secretário de Estado do Desenvolvimento Sustentáveledo Turismo
+- **Roteiro IRARA, linha 4068** {#roteiro_irara_lin4068} SEDEST
+- **Roteiro IRARA, linha 4069** {#roteiro_irara_lin4069} ANEXO VI – RESOLUÇÃO SEDEST Nº 33/2020
+- **Roteiro IRARA, linha 4070** {#roteiro_irara_lin4070} Súmula: Acrescenta ao art. 4º. Da Resolução SEDEST n.º 018/2020, documentação
+- **Roteiro IRARA, linha 4071** {#roteiro_irara_lin4071} complementar para a baixa da averbação dos Termos de Compromissos de Reserva Legal de
+- **Roteiro IRARA, linha 4072** {#roteiro_irara_lin4072} imóveis abaixo de 04 módulos fiscais, junto ao cartório de registro de móveis.
+- **Roteiro IRARA, linha 4073** {#roteiro_irara_lin4073} O SECRETÁRIO DE ESTADO DO DESENVOLVIMENTO SUSTENTÁVEL E
+- **Roteiro IRARA, linha 4074** {#roteiro_irara_lin4074} DO TURISMO, designado pelo Decreto Estadual n. º 1440, de 23 de maio de2019, no uso das
+- **Roteiro IRARA, linha 4075** {#roteiro_irara_lin4075} atribuições que lhe são conferidas pela Lei Estadual nº Lei nº 19.848, de 3 de maio de 2019 e
+- **Roteiro IRARA, linha 4076** {#roteiro_irara_lin4076} Lei n°10.066, de 27 de julho de 1992, e
+- **Roteiro IRARA, linha 4077** {#roteiro_irara_lin4077} Considerando que o CAR foi criado pela Lei nº 12.651/2012, no âmbito do Sistema Nacional de
+- **Roteiro IRARA, linha 4078** {#roteiro_irara_lin4078} Informação sobre Meio Ambiente-SINIMA, e regulamentado pela Instrução Normativa MMA nº 2,
+- **Roteiro IRARA, linha 4079** {#roteiro_irara_lin4079} de 5 de maio de 2014, e restou definido que o Cadastro Ambiental Rural – CAR é um registro
+- **Roteiro IRARA, linha 4080** {#roteiro_irara_lin4080} público eletrônico de âmbito nacional, obrigatório para todos os imóveis rurais, com a finalidade
+- **Roteiro IRARA, linha 4081** {#roteiro_irara_lin4081} de integrar as informações ambientais das propriedades e posses rurais referentes às Áreas de
+- **Roteiro IRARA, linha 4082** {#roteiro_irara_lin4082} Preservação Permanente - APP, de uso restrito, de Reserva Legal, de remanescentes de
+- **Roteiro IRARA, linha 4083** {#roteiro_irara_lin4083} florestas e demais formas de vegetação nativa, e das áreas consolidadas, compondo base de
+- **Roteiro IRARA, linha 4084** {#roteiro_irara_lin4084} dados para controle, monitoramento, planejamento ambiental e econômico e combate ao
+- **Roteiro IRARA, linha 4085** {#roteiro_irara_lin4085} desmatamento.
+- **Roteiro IRARA, linha 4086** {#roteiro_irara_lin4086} Considerando que para a inscrição no CAR foi editado o Decreto n° 7.830/2012 que dispõe
+- **Roteiro IRARA, linha 4087** {#roteiro_irara_lin4087} sobre o Sistema Nacional de Cadastro Ambiental Rural – SICAR definido como sistema
+- **Roteiro IRARA, linha 4088** {#roteiro_irara_lin4088} eletrônico de âmbito nacional, destinado à integração e ao gerenciamento de informações
+- **Roteiro IRARA, linha 4089** {#roteiro_irara_lin4089} ambientais dos imóveis rurais de todo o País, sistema que o Estadodo Paraná aderiu;
+- **Roteiro IRARA, linha 4090** {#roteiro_irara_lin4090} Considerando a Instrução Normativa 02/MMA (IN-02/MMA) de 06 de maio de 2014, que
+- **Roteiro IRARA, linha 4091** {#roteiro_irara_lin4091} estabeleceu procedimentos a serem adotados para a inscrição, registro, análise e demonstração
+- **Roteiro IRARA, linha 4092** {#roteiro_irara_lin4092} das informações ambientais sobre os imóveis rurais no Cadastro Ambiental Rural-CAR e que
+- **Roteiro IRARA, linha 4093** {#roteiro_irara_lin4093} com a inscrição no CAR o sistema registra as declarações e emite recibo de inscrição do CAR,
+- **Roteiro IRARA, linha 4094** {#roteiro_irara_lin4094} Considerando que a mesma normativa (IN-02/MMA) estabeleceu em seu art.
+- **Roteiro IRARA, linha 4095** {#roteiro_irara_lin4095} 43. que o SICAR poderá dispor de mecanismo de análise automática das informações de claradas;
+- **Roteiro IRARA, linha 4096** {#roteiro_irara_lin4096} Considerando também que o art. 49. (IN-02/MMA) dispõe que o SICAR disponibilizará
+- **Roteiro IRARA, linha 4097** {#roteiro_irara_lin4097} de DEMONSTRATIVO da situação das informações declaradas no CAR,
+- **Roteiro IRARA, linha 4098** {#roteiro_irara_lin4098} relativas às Áreas de Preservação Permanente, de uso restrito e de Reserva Legal, para
+- **Roteiro IRARA, linha 4099** {#roteiro_irara_lin4099} os fins do disposto no inciso II do caput do art.3.ºdo Decreton.º7.830, de 2012.
+- **Roteiro IRARA, linha 4100** {#roteiro_irara_lin4100} Considerando ainda o art.51. (IN-02/MMA) dispõe que o DEMONSTRATIVO
+- **Roteiro IRARA, linha 4101** {#roteiro_irara_lin4101} poderá apresentar as situações relativas ao cadastro do imóvel rural na forma de ativo,
+- **Roteiro IRARA, linha 4102** {#roteiro_irara_lin4102} pendente, suspenso ou cancelado e, em relação ao CAR ativo dispõe: I -ativo: a) após
+- **Roteiro IRARA, linha 4103** {#roteiro_irara_lin4103} concluída a inscrição no CAR; b) enquanto estiverem sendo cumpridas as obrigações de
+- **Roteiro IRARA, linha 4104** {#roteiro_irara_lin4104} atualização das informações, conforme § 3.º do art. 6.º do Decreto no 7.830,de2012,
+- **Roteiro IRARA, linha 4105** {#roteiro_irara_lin4105} decorrente da análise; ec) quando analisadas as informações declaradas no
+- **Roteiro IRARA, linha 4106** {#roteiro_irara_lin4106} CAR e constatada a regularidade das informações relacionadas às APP’s,
+- **Roteiro IRARA, linha 4107** {#roteiro_irara_lin4107} áreas de uso restrito e RL.
+- **Roteiro IRARA, linha 4108** {#roteiro_irara_lin4108} Considerando que o SICAR dispõe de informações referentes à SITUAÇÃO e à CONDIÇÃO de
+- **Roteiro IRARA, linha 4109** {#roteiro_irara_lin4109} um CAR;
+- **Roteiro IRARA, linha 4110** {#roteiro_irara_lin4110} Considerando o § 1.º do art. 36 da Lei 18295/2014 que dispõe que as propriedades ou posses
+- **Roteiro IRARA, linha 4111** {#roteiro_irara_lin4111} com área abaixo de quatro (04) módulos fiscais que tenham averbado reserva legal em áreas
+- **Roteiro IRARA, linha 4112** {#roteiro_irara_lin4112} desprovidas de vegetação ou termos de compromisso nos moldes da Lei Federal nº 4.771, de
+- **Roteiro IRARA, linha 4113** {#roteiro_irara_lin4113} 15 de setembro de 1965, e que se enquadrem no perfil de dispensa de regeneração,
+- **Roteiro IRARA, linha 4114** {#roteiro_irara_lin4114} recomposição ou compensação de reserva legal, depois de se inscreverem no CAR, poderão
+- **Roteiro IRARA, linha 4115** {#roteiro_irara_lin4115} requerer baixa na averbação.
+- **Roteiro IRARA, linha 4116** {#roteiro_irara_lin4116} Considerando o Decreto 11.515 de 29 de abril de 2018 que regulamenta a Lei18295/2014 em
+- **Roteiro IRARA, linha 4117** {#roteiro_irara_lin4117} seu Art. 14. que dispõe: “Art. 14 A revisão de Termos de Compromisso ou instrumentos similares
+- **Roteiro IRARA, linha 4118** {#roteiro_irara_lin4118} para a regularização ambiental do imóvel rural referentes as Áreas de Preservação Permanente,
+- **Roteiro IRARA, linha 4119** {#roteiro_irara_lin4119} de Reserva Legal e de Uso Restrito, firmados sob a vigência da Lei Federal nº 4.771, de
+- **Roteiro IRARA, linha 4120** {#roteiro_irara_lin4120} 1965,deverá ser requerida diretamente ao órgão ambiental durante a vigência do prazo de adesão
+- **Roteiro IRARA, linha 4121** {#roteiro_irara_lin4121} ao PRA. ..........
+- **Roteiro IRARA, linha 4122** {#roteiro_irara_lin4122} 3.° Para áreas rurais de até quatro módulos fiscais que, em virtude da Lei Federal nº
+- **Roteiro IRARA, linha 4123** {#roteiro_irara_lin4123} 12.651, de 2012, não necessitem de qualquer regularização após a análise
+- **Roteiro IRARA, linha 4124** {#roteiro_irara_lin4124} pelo órgão ambiental, a apresentação do CAR, será suficiente para o cancelamento
+- **Roteiro IRARA, linha 4125** {#roteiro_irara_lin4125} da averbação do Termo.” e,
+- **Roteiro IRARA, linha 4126** {#roteiro_irara_lin4126} “Art. 44. As propriedades ou posses com área de até 4 (quatro) módulos fiscais que
+- **Roteiro IRARA, linha 4127** {#roteiro_irara_lin4127} tenham averbado Reserva Legal em áreas desprovidas de vegetação ou termos de
+- **Roteiro IRARA, linha 4128** {#roteiro_irara_lin4128} compromisso nos moldes da Lei Federal nº 4.771, de 1965 e que se enquadrem no perfil
+- **Roteiro IRARA, linha 4129** {#roteiro_irara_lin4129} de dispensa de regeneração, recomposição ou compensação de Reserva Legal, como
+- **Roteiro IRARA, linha 4130** {#roteiro_irara_lin4130} CAR ativo, poderão requerer o cancelamento da averbação após a análise
+- **Roteiro IRARA, linha 4131** {#roteiro_irara_lin4131} pelo órgão ambiental, nos termos do § 2º do art. 9º deste Decreto.
+- **Roteiro IRARA, linha 4132** {#roteiro_irara_lin4132} Considerando que em nenhuma norma relacionada ao Cadastro Ambiental Rural trata de CAR
+- **Roteiro IRARA, linha 4133** {#roteiro_irara_lin4133} homologado, e sequer está previsto no Sistema do SICAR,sendo, portanto, até o presente
+- **Roteiro IRARA, linha 4134** {#roteiro_irara_lin4134} momento uma condição inexistente perante o sistema;
+- **Roteiro IRARA, linha 4135** {#roteiro_irara_lin4135} Considerando o Parecer Jurídico Normativo n.º 04/2020/PGE, emitido posterior a edição da
+- **Roteiro IRARA, linha 4136** {#roteiro_irara_lin4136} Resolução SEDEST 18/2020, que indicou para a baixa da averbaçãodos Termos de
+- **Roteiro IRARA, linha 4137** {#roteiro_irara_lin4137} Compromissos de Reserva Legal a condição é: CAR Ativo, analisado e homologado;
+- **Roteiro IRARA, linha 4138** {#roteiro_irara_lin4138} Considerando a inexistência do termo homologado no SICAR, sistema adotado pelo Estado do
+- **Roteiro IRARA, linha 4139** {#roteiro_irara_lin4139} Paraná, faz-se necessário estabelecer uma definição para este termo, para os efeitos desta
+- **Roteiro IRARA, linha 4140** {#roteiro_irara_lin4140} resolução;
+- **Roteiro IRARA, linha 4141** {#roteiro_irara_lin4141} Considerando que estamos tratando de uma peculiaridade existente no Estadodo Paraná,
+- **Roteiro IRARA, linha 4142** {#roteiro_irara_lin4142} anterior a Lei 12.651/2012, que trata da averbação da Reserva Legal junto as matriculas
+- **Roteiro IRARA, linha 4143** {#roteiro_irara_lin4143} imobiliárias de imóveis rurais.
+- **Roteiro IRARA, linha 4144** {#roteiro_irara_lin4144} RESOLVE:
+- **Roteiro IRARA, linha 4145** {#roteiro_irara_lin4145} 1º Acrescentar ao art.4.º da Resolução SEDEST n.º 018/2020, documentaçãocomplementar a
+- **Roteiro IRARA, linha 4146** {#roteiro_irara_lin4146} ser apresentada para a baixa da averbação dos Termos de Compromissos de Reserva Legal de
+- **Roteiro IRARA, linha 4147** {#roteiro_irara_lin4147} imóveis abaixo de 04 módulos fiscais, junto ao cartório de registro de móveis.
+- **Roteiro IRARA, linha 4148** {#roteiro_irara_lin4148} 2º Para efeito desta Resolução, considera-se:
+- **Roteiro IRARA, linha 4149** {#roteiro_irara_lin4149} I CAR - Cadastro Ambiental Rural - CAR, no âmbito do Sistema Nacional de Informação
+- **Roteiro IRARA, linha 4150** {#roteiro_irara_lin4150} sobre Meio Ambiente-SINIMA, registro público eletrônico de âmbito nacional,
+- **Roteiro IRARA, linha 4151** {#roteiro_irara_lin4151} obrigatório para todos os imóveis rurais, com a finalidade de integraras informações
+- **Roteiro IRARA, linha 4152** {#roteiro_irara_lin4152} ambientais das propriedades e posses rurais, compondo base de dados para controle,
+- **Roteiro IRARA, linha 4153** {#roteiro_irara_lin4153} monitoramento, planejamento ambiental e econômico e combate ao desmatamento;
+- **Roteiro IRARA, linha 4154** {#roteiro_irara_lin4154} II SICAR – Sistema de Cadastro Ambiental Rural – SICAR -sistema eletrônico de âmbito
+- **Roteiro IRARA, linha 4155** {#roteiro_irara_lin4155} nacional destinado ao gerenciamento de informações ambientais dos imóveis rurais,
+- **Roteiro IRARA, linha 4156** {#roteiro_irara_lin4156} que dispõe de informações referentes a SITUAÇÃO e a CONDIÇÃO de um CAR;
+- **Roteiro IRARA, linha 4157** {#roteiro_irara_lin4157} III SITUAÇÃO de um CAR - é o “status” em que o CAR declarado se encontra logo que é
+- **Roteiro IRARA, linha 4158** {#roteiro_irara_lin4158} recebido pelo sistema e pode estar Ativo, Pendente, Suspenso ou Cancelado;
+- **Roteiro IRARA, linha 4159** {#roteiro_irara_lin4159} IV CONDIÇÃO de um CAR – refere-se à fase do processo de análise do cadastro que pode
+- **Roteiro IRARA, linha 4160** {#roteiro_irara_lin4160} estar
+- **Roteiro IRARA, linha 4161** {#roteiro_irara_lin4161} na
+- **Roteiro IRARA, linha 4162** {#roteiro_irara_lin4162} condição
+- **Roteiro IRARA, linha 4163** {#roteiro_irara_lin4163} de:
+- **Roteiro IRARA, linha 4164** {#roteiro_irara_lin4164} aguardando
+- **Roteiro IRARA, linha 4165** {#roteiro_irara_lin4165} análise;
+- **Roteiro IRARA, linha 4166** {#roteiro_irara_lin4166} pendências/aguardando
+- **Roteiro IRARA, linha 4167** {#roteiro_irara_lin4167} apresentação
+- **Roteiro IRARA, linha 4168** {#roteiro_irara_lin4168} de
+- **Roteiro IRARA, linha 4169** {#roteiro_irara_lin4169} pendências/aguardando
+- **Roteiro IRARA, linha 4170** {#roteiro_irara_lin4170} atendimento
+- **Roteiro IRARA, linha 4171** {#roteiro_irara_lin4171} a
+- **Roteiro IRARA, linha 4172** {#roteiro_irara_lin4172} em
+- **Roteiro IRARA, linha 4173** {#roteiro_irara_lin4173} análise;
+- **Roteiro IRARA, linha 4174** {#roteiro_irara_lin4174} documentos;
+- **Roteiro IRARA, linha 4175** {#roteiro_irara_lin4175} outras
+- **Roteiro IRARA, linha 4176** {#roteiro_irara_lin4176} restrições;
+- **Roteiro IRARA, linha 4177** {#roteiro_irara_lin4177} analisado
+- **Roteiro IRARA, linha 4178** {#roteiro_irara_lin4178} com
+- **Roteiro IRARA, linha 4179** {#roteiro_irara_lin4179} analisado
+- **Roteiro IRARA, linha 4180** {#roteiro_irara_lin4180} com
+- **Roteiro IRARA, linha 4181** {#roteiro_irara_lin4181} analisado
+- **Roteiro IRARA, linha 4182** {#roteiro_irara_lin4182} com
+- **Roteiro IRARA, linha 4183** {#roteiro_irara_lin4183} pendências/aguardando retificação; analisado pelo filtro automático/sem pendências;
+- **Roteiro IRARA, linha 4184** {#roteiro_irara_lin4184} analisado
+- **Roteiro IRARA, linha 4185** {#roteiro_irara_lin4185} sem
+- **Roteiro IRARA, linha 4186** {#roteiro_irara_lin4186} pendências/passível
+- **Roteiro IRARA, linha 4187** {#roteiro_irara_lin4187} de
+- **Roteiro IRARA, linha 4188** {#roteiro_irara_lin4188} nova
+- **Roteiro IRARA, linha 4189** {#roteiro_irara_lin4189} análise;
+- **Roteiro IRARA, linha 4190** {#roteiro_irara_lin4190} analisado/aguardando
+- **Roteiro IRARA, linha 4191** {#roteiro_irara_lin4191} regularização ambiental (Lei 12.651/12);
+- **Roteiro IRARA, linha 4192** {#roteiro_irara_lin4192} V CAR Ativo - refere-se ao CAR que foi recebido pelo SICAR e está regular enquanto
+- **Roteiro IRARA, linha 4193** {#roteiro_irara_lin4193} estiverem sendo cumpridas as obrigações de atualização das informações cadastradas,
+- **Roteiro IRARA, linha 4194** {#roteiro_irara_lin4194} equando constatada, após análise a regularidade das informações relacionadas às áreas
+- **Roteiro IRARA, linha 4195** {#roteiro_irara_lin4195} de APP, de uso restrito, de RL e de remanescentes de vegetação nativa.
+- **Roteiro IRARA, linha 4196** {#roteiro_irara_lin4196} VI CARA nalisado – qualquer condição de analisado ou em análise pelo sistema/SICAR e
+- **Roteiro IRARA, linha 4197** {#roteiro_irara_lin4197} com adesão ao PRA se for o caso;
+- **Roteiro IRARA, linha 4198** {#roteiro_irara_lin4198} VII HOMOLOGADO – CAR Ativo e nas condições de CAR Analisado, cujas informações
+- **Roteiro IRARA, linha 4199** {#roteiro_irara_lin4199} declaradas passam pelo processo de análise SICAR;
+- **Roteiro IRARA, linha 4200** {#roteiro_irara_lin4200} 3º Realizado o registro no CAR e identificadas as condições previstas no inciso VI do art. 2.º
+- **Roteiro IRARA, linha 4201** {#roteiro_irara_lin4201} desta Resolução, o CAR será considerado homologado para efeitos desta Resolução. único O
+- **Roteiro IRARA, linha 4202** {#roteiro_irara_lin4202} documento que atesta a homologação estabelecida no caput deste artigo é o Demonstrativo na
+- **Roteiro IRARA, linha 4203** {#roteiro_irara_lin4203} situação de CAR Ativo na condição de CAR Analisado, conceituado pelo art. 2.º desta Resolução.
+- **Roteiro IRARA, linha 4204** {#roteiro_irara_lin4204} 4º O Demonstrativo na situação de CAR Ativo e na condição de CAR Analisado, é o documento
+- **Roteiro IRARA, linha 4205** {#roteiro_irara_lin4205} que complementa a documentação para a baixa da averbação dos Termos de Compromissos
+- **Roteiro IRARA, linha 4206** {#roteiro_irara_lin4206} de Reserva Legal abaixo de 04 módulos fiscais,sendo este o documento que representa o CAR
+- **Roteiro IRARA, linha 4207** {#roteiro_irara_lin4207} ativo, analisado e homologado, para os fins desta Resolução.
+- **Roteiro IRARA, linha 4208** {#roteiro_irara_lin4208} único Em relação ao documento citado no caput deste artigo, o mesmo pode ser, inclusive,
+- **Roteiro IRARA, linha 4209** {#roteiro_irara_lin4209} retirado junto ao registro imobiliário, em tempo real, acessando http://www.car.gov.br/#/consultar.
+- **Roteiro IRARA, linha 4210** {#roteiro_irara_lin4210} 5º Esta Resolução entra em vigor na data de sua publicação.
+- **Roteiro IRARA, linha 4211** {#roteiro_irara_lin4211} Curitiba, 11 de maio de 2020.
+- **Roteiro IRARA, linha 4212** {#roteiro_irara_lin4212} MARCIO NUNES
+- **Roteiro IRARA, linha 4213** {#roteiro_irara_lin4213} Secretário de Estado do Desenvolvimento Sustentável e do Turismo - SEDEST
+- **Roteiro IRARA, linha 4214** {#roteiro_irara_lin4214} 348a
+- **Roteiro IRARA, linha 4215** {#roteiro_irara_lin4215} Documento: ROTEIROIRARA_CONCLUSIVO.pdf.
+- **Roteiro IRARA, linha 4216** {#roteiro_irara_lin4216} 3f9dcae8c11fb12df4031c7012035f62.
+
+
+## Síntese do conversor (não é texto normativo)
+
+O roteiro orienta a análise do CAR de imóveis rurais de assentamentos de reforma agrária no SICAR, abrangendo documentos comprobatórios, sobreposições, cobertura do solo, servidões administrativas, APP, áreas de uso restrito, Reserva Legal e regularidade do imóvel.
+
+## Checklist operacional
+
+- Conferir a documentação do assentamento e dos beneficiários no SICAR.
+- Verificar divergências perimetrais e sobreposições com imóveis, terras indígenas, unidades de conservação, áreas embargadas e territórios tradicionais.
+- Classificar cobertura do solo, áreas consolidadas, pousio e áreas antropizadas não consolidadas.
+- Avaliar APP, áreas de uso restrito e Reserva Legal, inclusive passivos, excedentes e compensações.
+- Registrar inconsistências, observações e conclusão da análise conforme as telas e regras descritas no roteiro.
+
+## Notas de transcrição
+
+- Cabeçalhos, rodapés, paginação e assinaturas eletrônicas repetidas foram removidos.
+- O texto foi preservado na ordem de extração do PDF; elementos exclusivamente gráficos permanecem descritos pelas respectivas legendas.
