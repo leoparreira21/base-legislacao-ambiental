@@ -434,6 +434,24 @@
    "embalagem plastica",
    "embalagens plasticas",
    "logistica reversa"
-  ]
+  ],
+  "resolucao-conama-302-2002": ["reservatorio artificial", "app de reservatorio", "area de preservacao permanente de reservatorio", "hidreletrica"],
+  "resolucao-conama-378-2006": ["supressao de vegetacao", "desmatamento", "licenciamento florestal", "autorizacao de supressao", "impacto ambiental regional"],
+  "resolucao-conama-416-2009": ["pneu", "pneu inservivel", "pneus inserviveis", "reciclagem de pneus", "destinacao de pneus"],
+  "resolucao-conama-458-2013": ["assentamento de reforma agraria", "assentamento rural", "incra", "reforma agraria"],
+  "portaria-iap-232-1998": ["rppn", "reserva particular do patrimonio natural", "unidade de conservacao"],
+  "portaria-iap-96-2007": ["reposicao florestal", "especie exotica", "silvicultura", "materia prima florestal", "plano de corte"],
+  "portaria-iap-224-2007": ["residuo solido", "gerenciamento de residuos", "coprocessamento", "incineracao", "autorizacao ambiental de residuos"],
+  "portaria-iap-1-2008": ["emissao atmosferica", "automonitoramento de emissoes atmosfericas", "chamine", "fonte fixa"],
+  "portaria-iap-256-2011": ["corte de especies nativas plantadas", "floresta plantada", "especie nativa plantada", "autorizacao florestal"],
+  "portaria-iap-256-2013": ["declaracao de carga poluidora", "dcp", "automonitoramento de efluentes", "efluente liquido", "carga poluidora"],
+  "portaria-iap-59-2015": ["especie exotica invasora", "especie exotica", "fauna exotica", "flora exotica"],
+  "portaria-iat-143-2021": ["poco tubular", "pocos tubulares", "agua subterranea", "hidrogeologia", "perfuracao de poco"],
+  "portaria-iat-204-2020": ["carvao vegetal", "forno de carvao", "producao de carvao"],
+  "resolucao-sedest-17-2020": ["bovinocultura", "bovinocultura de leite", "bovinocultura de corte", "pecuaria bovina"],
+  "resolucao-sedest-18-2020": ["termo de compromisso", "baixa de averbacao", "averbacao de reserva legal", "reserva legal"],
+  "resolucao-sedest-42-2020": ["termo de compromisso", "revisao de termo de compromisso", "reserva legal", "compensacao de reserva legal", "programa de regularizacao ambiental"],
+  "resolucao-sedest-8-2022": ["termeletrica", "usina termeletrica", "gas natural", "gerador modular"],
+  "resolucao-conjunta-sedest-iat-9-2022": ["novas tecnologias de residuos", "aproveitamento energetico de residuos", "projeto lixo 5.0", "gaseificacao", "pirolise", "biodigestao", "rota tecnologica"]
  }
 }

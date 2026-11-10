@@ -102,6 +102,28 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "instrucao-normativa-iap-1-2019",
+"norma": "Instrução Normativa IAP nº 1/2019",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná - IAP",
+"ano": 2019,
+"ementa": "Estabelece procedimentos administrativos para a lavratura e a tramitação de Autos de Infração Ambiental no sistema e-Protocolo.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-1-2020",
+"norma": "Instrução Normativa IAT nº 1/2020",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2020,
+"ementa": "Dispõe sobre procedimentos e critérios técnicos para compensação, realocação, readequação e retificação de Reserva Legal.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
 "arquivo": "instrucao-normativa-iat-11-2026",
 "norma": "Instrução Normativa IAT nº 11/2026",
 "tipo": "instrucao-normativa",
@@ -109,6 +131,149 @@ window.CATALOGO_NORMAS = [
 "orgao": "Instituto Água e Terra - IAT",
 "ano": 2026,
 "ementa": "Estabelece parâmetros para classificação das atividades econômicas consideradas de Baixo Risco Ambiental, associado aos atos administrativos expedidos para o licenciamento ambiental no Estado do Paraná e dá outras providências.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-12-2025",
+"norma": "Instrução Normativa IAT nº 12/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Isenta a matéria-prima florestal exótica da obrigatoriedade de reposição florestal e da prévia aprovação para exploração e transporte, regulamenta o corte de espécies exóticas arbóreas em perímetro urbano e dá outras providências.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-13-2025",
+"norma": "Instrução Normativa IAT nº 13/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece critérios para a exigência de Estudo de Impacto Ambiental (EIA) e Relatório de Impacto Ambiental (RIMA) nos licenciamentos ambientais de projetos agropecuários e plantios florestais de espécies exóticas que contemplem áreas incultas, nos termos que especifica.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-13-2026",
+"norma": "Instrução Normativa IAT nº 13/2026",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2026,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos, para o licenciamento ambiental de Estações Comerciais Emissoras de Campos Eletromagnéticos no território do Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-14-2025",
+"norma": "Instrução Normativa IAT nº 14/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece procedimentos administrativos para retirada de Espécies Exóticas em Áreas de Preservação Permanente - APP.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-14-2026",
+"norma": "Instrução Normativa IAT nº 14/2026",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2026,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos, para o licenciamento ambiental de Unidade de Gerenciamento de Lodo (UGL) e para o uso agrícola de lodo de esgoto higienizado e produtos derivados processados no estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-15-2025",
+"norma": "Instrução Normativa IAT nº 15/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece critérios e procedimentos para elaboração, análise, aprovação emonitoramento do Plano de Resgate da Flora – PRF, decorrentes de autorização de supressão de vegetação nativa no estado do Paraná, nos termos que especifica.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-16-2025",
+"norma": "Instrução Normativa IAT nº 16/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece as diretrizes para compensação ambiental, no cumprimento do disposto no art. 17 da Lei Federal nº 11.428, de 22 de dezembro de 2006, regulamentada pelo Decreto nº 6.660, de 21 de novembro de 2008, decorrente de supressão de vegetação nativa pertencente ao Bioma Mata Atlântica e seus ecossistemas associados, no Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-17-2025",
+"norma": "Instrução Normativa IAT nº 17/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos para o licenciamento ambiental de empreendimentos habitacionais de interesse social em área urbana, executados por companhias municipais ou estaduais no território paranaense.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-18-2025",
+"norma": "Instrução Normativa IAT nº 18/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos, para o licenciamento ambiental de Sistemas de Distribuição de Gás Canalizado e Sistemas de Transporte de Gás Canalizado, no âmbito do Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-19-2025",
+"norma": "Instrução Normativa IAT nº 19/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece critérios e procedimentos para instalações necessárias à drenagem de água pluvial em Áreas de Preservação Permanente, no Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-2-2021",
+"norma": "Instrução Normativa IAT nº 2/2021",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2021,
+"ementa": "Determina regras e procedimentos para o trâmite dos processos administrativos de Auto de Infração Ambiental no âmbito do Instituto Água e Terra",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-2-2024",
+"norma": "Instrução Normativa IAT nº 2/2024",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2024,
+"ementa": "Regulamenta procedimentos para conversão de multas ambientais no Estado do Paraná, aplicadas pelo Instituto Água e Terra.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-20-2025",
+"norma": "Instrução Normativa IAT nº 20/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos, para o licenciamento ambiental de empreendimentos de geração de energia elétrica a partir de fonte solar, no âmbito do Estado do Paraná.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -124,6 +289,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "instrucao-normativa-iat-22-2025",
+"norma": "Instrução Normativa IAT nº 22/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos, para o licenciamento ambiental de empreendimentos de geração de energia elétrica a partir de fonte eólica, no âmbito do Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "instrucao-normativa-iat-22-2026",
 "norma": "Instrução Normativa IAT nº 22/2026",
 "tipo": "instrucao-normativa",
@@ -135,6 +311,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "instrucao-normativa-iat-23-2025",
+"norma": "Instrução Normativa IAT nº 23/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos, para o licenciamento ambiental de aeroportos e aeródromos públicos e privados, civis ou militares.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "instrucao-normativa-iat-23-2026",
 "norma": "Instrução Normativa IAT nº 23/2026",
 "tipo": "instrucao-normativa",
@@ -142,6 +329,17 @@ window.CATALOGO_NORMAS = [
 "orgao": "Instituto Água e Terra - IAT",
 "ano": 2026,
 "ementa": "Estabelece definições, critérios, diretrizes e procedimentos, para o licenciamento ambiental de empreendimentos de Bovinocultura no estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-24-2025",
+"norma": "Instrução Normativa IAT nº 24/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos para licenciamento ambiental de biodigestores com aproveitamento energético de biogás no âmbito do Estado do Paraná.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -190,6 +388,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "instrucao-normativa-iat-27-2025",
+"norma": "Instrução Normativa IAT nº 27/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece definições, critérios, diretrizes e os procedimentos para o uso de serraria móvel no Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "instrucao-normativa-iat-27-2026",
 "norma": "Instrução Normativa IAT nº 27/2026",
 "tipo": "instrucao-normativa",
@@ -223,6 +432,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "instrucao-normativa-iat-29-2025",
+"norma": "Instrução Normativa IAT nº 29/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece definições, critérios, diretrizes e os procedimentos para controle e requerimentos de supressão de espécies nativas plantadas.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "instrucao-normativa-iat-29-2026",
 "norma": "Instrução Normativa IAT nº 29/2026",
 "tipo": "instrucao-normativa",
@@ -234,6 +454,28 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "instrucao-normativa-iat-3-2020",
+"norma": "Instrução Normativa IAT nº 3/2020",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2020,
+"ementa": "Dispõe sobre procedimentos e critérios técnicos para restauração de Reserva Legal, Área de Preservação Permanente e Áreas de Uso Restrito no âmbito do Programa de Regularização Ambiental.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-3-2024",
+"norma": "Instrução Normativa IAT nº 3/2024",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2024,
+"ementa": "Dispõe sobre os procedimentos a serem observados pelas Gerências Regionais de Bacia Hidrográfica/Núcleos Locais do Instituto Água e Terra-IAT, acerca das anuências de atividades agropecuárias nas Áreas de Proteção Ambiental - APAs Estaduais, para fins de financiamento rural.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "instrucao-normativa-iat-30-2025",
 "norma": "Instrução Normativa IAT nº 30/2025",
 "tipo": "instrucao-normativa",
@@ -241,6 +483,17 @@ window.CATALOGO_NORMAS = [
 "orgao": "Instituto Água e Terra - IAT",
 "ano": 2025,
 "ementa": "Estabelece definições, critérios, diretrizes e procedimentos para o licenciamento ambiental de Unidades de Transbordo de Resíduos Sólidos Urbanos no estado Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-30-2026",
+"norma": "Instrução Normativa IAT nº 30/2026",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2026,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos para o licenciamento ambiental de empreendimentos náuticos e de estruturas náuticas isoladas localizados nas margens e nas águas interiores e costeira do Estado do Paraná.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -278,6 +531,50 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "instrucao-normativa-iat-33-2026",
+"norma": "Instrução Normativa IAT nº 33/2026",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2026,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos, para o licenciamento ambiental de empreendimentos minerários.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-34-2026",
+"norma": "Instrução Normativa IAT nº 34/2026",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2026,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos, para o licenciamento ambiental de sistemas de transmissão, distribuição e subestação de energia elétrica, no âmbito do Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-35-2026",
+"norma": "Instrução Normativa IAT nº 35/2026",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2026,
+"ementa": "Disciplina os procedimentos administrativos e os critérios técnicos para o licenciamento ambiental, a outorga de intervenção em recursos hídricos e a definição da Faixa Marginal Não Edificável de Drenagem (FNED), aplicáveis às intervenções de canalização de cursos d'água, cuja autorização é admitida exclusivamente em caráter excepcional, em Áreas Urbanas Consolidadas (AUC) no Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-36-2026",
+"norma": "Instrução Normativa IAT nº 36/2026",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2026,
+"ementa": "Estabelece critérios e procedimentos relativos à Reserva Legal, à sua transformação em Área Verde Urbana e às hipóteses de regularização e compensação para imóveis localizados em área urbana ou de expansão urbana.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "instrucao-normativa-iat-37-2025",
 "norma": "Instrução Normativa IAT nº 37/2025",
 "tipo": "instrucao-normativa",
@@ -300,6 +597,28 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "instrucao-normativa-iat-4-2024",
+"norma": "Instrução Normativa IAT nº 4/2024",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2024,
+"ementa": "Dispõe sobre os critérios e procedimentos administrativos para a análise perimetral dos imóveis rurais de assentamentos de reforma agrária inseridos no Sistema Nacional de Cadastro Ambiental Rural- SICAR.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-4-2025",
+"norma": "Instrução Normativa IAT nº 4/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos de licenciamento ambiental para movimentação de solo no território do Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "instrucao-normativa-iat-41-2025",
 "norma": "Instrução Normativa IAT nº 41/2025",
 "tipo": "instrucao-normativa",
@@ -307,6 +626,116 @@ window.CATALOGO_NORMAS = [
 "orgao": "Instituto Água e Terra - IAT",
 "ano": 2025,
 "ementa": "Estabelece definições, critérios, diretrizes e procedimentos, para o licenciamento ambiental de compostagem de resíduos sólidos e o uso do produto gerado.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-44-2025",
+"norma": "Instrução Normativa IAT nº 44/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos, para o licenciamento ambiental de empreendimentos de portos públicos e terminais, públicos ou privados, no Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-46-2025",
+"norma": "Instrução Normativa IAT nº 46/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos, para o licenciamento ambiental de Empreendimentos com fundição de chumbo.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-5-2023",
+"norma": "Instrução Normativa IAT nº 5/2023",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2023,
+"ementa": "Dispõe sobre os critérios e procedimentos administrativos para a análise individualizada e validação dos cadastros inseridos no Sistema Nacional de Cadastro Ambiental Rural-SICAR.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-5-2024",
+"norma": "Instrução Normativa IAT nº 5/2024",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2024,
+"ementa": "Estabelece procedimentos do Instituto Água e Terra - IAT para análise de projetos de Regularização Fundiária Urbana, localizados parcial ou integralmente em Área de Preservação Permanente.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-50-2025",
+"norma": "Instrução Normativa IAT nº 50/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece regras e procedimentos para o trâmite dos processos administrativos de infrações, condutas e atividades lesivas ao meio ambiente no âmbito do Instituto Água e Terra.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-52-2025",
+"norma": "Instrução Normativa IAT nº 52/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece definições, requisitos, critérios, diretrizes e procedimentos para o Licenciamento Ambiental de empreendimentos viários rurais no território do Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-53-2025",
+"norma": "Instrução Normativa IAT nº 53/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Dispõe sobre procedimentos e critérios técnicos a serem adotados para a compensação de Reserva Legal nas modalidades de Servidão Ambiental, Cadastramento de Área Equivalente, e doação de área no interior de Unidade de Conservação Estadual.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-54-2025",
+"norma": "Instrução Normativa IAT nº 54/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Dispõe sobre procedimentos e critérios técnicos a serem adotados para realocação de Reserva Legal, para fins de licenciamento ambiental de empreendimentos de utilidade pública e/ou interesse social.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-6-2023",
+"norma": "Instrução Normativa IAT nº 6/2023",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2023,
+"ementa": "Estabelece os critérios e parâmetros para Usos Insignificantes de Outorga, Intervenções Insignificantes e Usos e Intervenções Não Outorgáveis, com obrigatoriedade de cadastramento ou não.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-6-2025",
+"norma": "Instrução Normativa IAT nº 6/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece critérios, procedimentos, trâmites administrativos e premissas para o Licenciamento Ambiental de mantenedores, criadouros científicos, criadouros conservacionistas, jardins zoológicos, Centro de Apoio à Fauna Silvestre – CAFS, Centro de Triagem e Reabilitação de Animais Silvestres – CETAS ou CETRAS, e Centro de Reabilitação de Animais Silvestres – CRAS, de fauna silvestre nativa e/ou exótica em condição ex situ.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -322,6 +751,50 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "instrucao-normativa-iat-60-2025",
+"norma": "Instrução Normativa IAT nº 60/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos para o licenciamento ambiental de empreendimentos e atividades de ensino no Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-61-2025",
+"norma": "Instrução Normativa IAT nº 61/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Dispõe sobre os procedimentos para o cancelamento administrativo do Cadastro Ambiental Rural – CAR.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-63-2025",
+"norma": "Instrução Normativa IAT nº 63/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece condições mínimas, modelos apropriados e procedimentos para a instalação e a operação de equipamentos medidores de vazões e volumes de água captados/derivados e lançados, relacionados com outorgas de direito de uso de recursos hídricos ou declaração de uso insignificante de domínio do Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-64-2025",
+"norma": "Instrução Normativa IAT nº 64/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos para o licenciamento ambiental de intervenções de baixo impacto ambiental em Áreas de Preservação Permanente (APPs), nos entornos de reservatórios artificiais destinados à geração de energia ou abastecimento público, decorrentes de barramento ou represamento de cursos d’água naturais, e; regulamenta a elaboração do Plano Ambiental de Conservação e Uso do Entorno de Reservatórios Artificiais (PACUERA).",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "instrucao-normativa-iat-65-2025",
 "norma": "Instrução Normativa IAT nº 65/2025",
 "tipo": "instrucao-normativa",
@@ -329,6 +802,39 @@ window.CATALOGO_NORMAS = [
 "orgao": "Instituto Água e Terra - IAT",
 "ano": 2025,
 "ementa": "Estabelece definições, critérios, diretrizes e procedimentos, para o licenciamento ambiental de Empreendimentos Industriais.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-66-2025",
+"norma": "Instrução Normativa IAT nº 66/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Dispensa do licenciamento e autorização ambiental as atividades de coleta, transporte e armazenamento temporário de saneantes desinfestantes domissanitários vencidos ou não utilizados, de uso restrito e de suas embalagens pós-consumo, destinados ao combate, à prevenção e ao controle de vetores transmissores de doenças de relevância para a saúde pública.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-8-2025",
+"norma": "Instrução Normativa IAT nº 8/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece critérios e procedimentos para disciplinar e padronizar os procedimentos sobre a reposição florestal e o consumo de matéria-prima florestal, e dá outras providências.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "instrucao-normativa-iat-9-2025",
+"norma": "Instrução Normativa IAT nº 9/2025",
+"tipo": "instrucao-normativa",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra - IAT",
+"ano": 2025,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos, para o licenciamento ambiental de unidades de geração de energia elétrica a partir de potencial hidráulico, no âmbito do Estado do Paraná.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -808,6 +1314,28 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "portaria-iap-1-2008",
+"norma": "Portaria IAP nº 1/2008",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2008,
+"ementa": "Aprova e determina o cumprimento da Instrução Normativa nº 01/2008 DEPAM/IAP, com as diretrizes para apresentação de relatórios de automonitoramento de emissões atmosféricas (ementa do conversor; a Portaria não tem ementa própria).",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iap-157-2011",
+"norma": "Portaria IAP nº 157/2011",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2011,
+"ementa": "Procedimento administrativo de apuração dos autos de infração ambientais lavrados (ementa do conversor; a Portaria não tem ementa própria).",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "portaria-iap-159-2015",
 "norma": "Portaria IAP nº 159/2015",
 "tipo": "portaria",
@@ -815,6 +1343,50 @@ window.CATALOGO_NORMAS = [
 "orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
 "ano": 2015,
 "ementa": "Estabelece critérios e procedimentos para a apresentação de Programa de Gerenciamento de Riscos – PGR em processos de licenciamento ambiental de atividades consideradas de risco.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iap-224-2007",
+"norma": "Portaria IAP nº 224/2007",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2007,
+"ementa": "Estabelece os critérios para exigência e emissão de Autorizações Ambientais para as Atividades de Gerenciamento de Resíduos Sólidos.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iap-232-1998",
+"norma": "Portaria IAP nº 232/1998",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 1998,
+"ementa": "Disciplina o reconhecimento de Reserva Particular do Patrimônio Natural – RPPN no Estado do Paraná (ementa do conversor; a Portaria não tem ementa própria).",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iap-256-2011",
+"norma": "Portaria IAP nº 256/2011",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2011,
+"ementa": "Estabelece os procedimentos administrativos para o Corte de espécies nativas plantadas com recursos próprios.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iap-256-2013",
+"norma": "Portaria IAP nº 256/2013",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2013,
+"ementa": "Aprova e estabelece os critérios e exigências para a apresentação da DECLARAÇÃO DE CARGA POLUIDORA, através do SISTEMA DE AUTOMONITORAMENTO de Atividades Poluidoras no Paraná e determina seu cumprimento.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -832,6 +1404,50 @@ window.CATALOGO_NORMAS = [
 "Instrução Normativa IAP 003/2006",
 "Portaria IAP 026/2006"
 ]
+},
+{
+"arquivo": "portaria-iap-59-2015",
+"norma": "Portaria IAP nº 59/2015",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2015,
+"ementa": "Reconhece a Lista Oficial de Espécies Exóticas Invasoras para o Estado do Paraná, estabelece normas de controle e dá outras providências.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iap-96-2007",
+"norma": "Portaria IAP nº 96/2007",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2007,
+"ementa": "Isenta a matéria prima florestal exótica da obrigatoriedade de reposição florestal, da prévia aprovação para exploração e transporte e dá outras providências.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iat-143-2021",
+"norma": "Portaria IAT nº 143/2021",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra – IAT",
+"ano": 2021,
+"ementa": "Estabelece o Sistema de Cadastramento de Empresas e de Profissionais Autônomos que atuam na área de hidrogeologia e da construção de poços tubulares (ementa do conversor).",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iat-204-2020",
+"norma": "Portaria IAT nº 204/2020",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra – IAT",
+"ano": 2020,
+"ementa": "Estabelece normas e procedimentos para licenciamento ambiental para produção e transporte de carvão vegetal de origem de espécies nativas e exóticas.",
+"situacao": "vigente",
+"apelidos": []
 },
 {
 "arquivo": "portaria-iat-354-2020",
@@ -893,6 +1509,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "resolucao-conama-1-1986",
+"norma": "Resolução CONAMA nº 1/1986",
+"tipo": "resolucao",
+"esfera": "federal",
+"orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
+"ano": 1986,
+"ementa": "Dispõe sobre critérios básicos e diretrizes gerais para a avaliação de impacto ambiental",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "resolucao-conama-237-1997",
 "norma": "Resolução CONAMA nº 237/1997",
 "tipo": "resolucao",
@@ -900,6 +1527,17 @@ window.CATALOGO_NORMAS = [
 "orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
 "ano": 1997,
 "ementa": "Dispõe sobre a revisão e complementação dos procedimentos e critérios utilizados para o licenciamento ambiental.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-conama-302-2002",
+"norma": "Resolução CONAMA nº 302/2002",
+"tipo": "resolucao",
+"esfera": "federal",
+"orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
+"ano": 2002,
+"ementa": "Dispõe sobre os parâmetros, definições e limites de Áreas de Preservação Permanente de reservatórios artificiais e o regime de uso do entorno.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -933,6 +1571,17 @@ window.CATALOGO_NORMAS = [
 "orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
 "ano": 2005,
 "ementa": "Dispõe sobre o tratamento e a disposição final dos resíduos dos serviços de saúde e dá outras providências.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-conama-378-2006",
+"norma": "Resolução CONAMA nº 378/2006",
+"tipo": "resolucao",
+"esfera": "federal",
+"orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
+"ano": 2006,
+"ementa": "Define os empreendimentos potencialmente causadores de impacto ambiental nacional ou regional para fins do disposto no inciso III, § 1o, art. 19 da Lei no 4.771, de 15 de setembro de 1965, e dá outras providências.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -973,6 +1622,20 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "resolucao-conama-416-2009",
+"norma": "Resolução CONAMA nº 416/2009",
+"tipo": "resolucao",
+"esfera": "federal",
+"orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
+"ano": 2009,
+"ementa": "Dispõe sobre a prevenção à degradação ambiental causada por pneus inservíveis e sua destinação ambientalmente adequada, e dá outras providências.",
+"situacao": "vigente",
+"apelidos": [
+"Pneus inservíveis",
+"CONAMA 416"
+]
+},
+{
 "arquivo": "resolucao-conama-430-2011",
 "norma": "Resolução CONAMA nº 430/2011",
 "tipo": "resolucao",
@@ -980,6 +1643,17 @@ window.CATALOGO_NORMAS = [
 "orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
 "ano": 2011,
 "ementa": "Dispõe sobre as condições e padrões de lançamento de efluentes, complementa e altera a Resolução nº 357, de 17 de março de 2005, do Conselho Nacional do Meio Ambiente-CONAMA.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-conama-458-2013",
+"norma": "Resolução CONAMA nº 458/2013",
+"tipo": "resolucao",
+"esfera": "federal",
+"orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
+"ano": 2013,
+"ementa": "Estabelece procedimentos para o licenciamento ambiental em assentamento de reforma agrária, e dá outras providências.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -996,6 +1670,39 @@ window.CATALOGO_NORMAS = [
 "Padrões nacionais de qualidade do ar",
 "CONAMA 506"
 ]
+},
+{
+"arquivo": "resolucao-conjunta-sedest-iat-9-2022",
+"norma": "Resolução Conjunta SEDEST/IAT nº 9/2022",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável – SEDEST e Instituto Água e Terra – IAT",
+"ano": 2022,
+"ementa": "Dispõe sobre incentivos ao aproveitamento energético de resíduos sólidos por rotas biológicas ou térmicas, buscando priorizar a hierarquia apresentada na PNRS de não-geração, redução, reutilização e reciclagem, bem como incentivos e apoio à pesquisa, desenvolvimento e inovação realizados por órgãos públicos, pela academia e sociedade civil organizada em temas relacionados a rotas tecnológicas de tratamento.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-17-2020",
+"norma": "Resolução SEDEST nº 17/2020",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo – SEDEST",
+"ano": 2020,
+"ementa": "Altera o porte micro e mínimo de empreendimentos de bovinocultura constante no Art. 5º e 7º da Resolução SEDEST 055/2019.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-18-2020",
+"norma": "Resolução SEDEST nº 18/2020",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo – SEDEST",
+"ano": 2020,
+"ementa": "Estabelece procedimentos para baixa da averbação dos Termos de Compromisso de acordo com as disposições da Lei Estadual nº 18.295/2014.",
+"situacao": "vigente",
+"apelidos": []
 },
 {
 "arquivo": "resolucao-sedest-2-2025",
@@ -1020,6 +1727,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "resolucao-sedest-42-2020",
+"norma": "Resolução SEDEST nº 42/2020",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo – SEDEST",
+"ano": 2020,
+"ementa": "Estabelece os requisitos para revisão dos Termos de Compromisso de imóveis com área acima de 4 (quatro) módulos fiscais, seguindo os parâmetros da Lei Federal 12.651/2012 e Lei Estadual nº 18.295/2014.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "resolucao-sedest-48-2024",
 "norma": "Resolução SEDEST nº 48/2024",
 "tipo": "resolucao",
@@ -1038,6 +1756,17 @@ window.CATALOGO_NORMAS = [
 "orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo - SEDEST",
 "ano": 2022,
 "ementa": "Dispõe sobre a dispensa de licenciamento e autorização ambiental às atividades de coleta, transporte e armazenamento temporário de saneantes desinfestantes domissanitários vencidos ou não utilizados, de uso restrito e de suas embalagens pós-consumo, destinados ao combate, à prevenção e ao controle vetores transmissores de doenças de relevância para a saúde pública, tais como dengue, chikungunya, zika, febre amarela urbana, doença de chagas, malária e leishmanioses, dentre outras.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-8-2022",
+"norma": "Resolução SEDEST nº 8/2022",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo – SEDEST",
+"ano": 2022,
+"ementa": "Estabelece critérios e procedimentos para o licenciamento ambiental simplificado de usinas termelétricas a gás natural para geração de energia através de geradores modulares.",
 "situacao": "revogada",
 "apelidos": []
 }
