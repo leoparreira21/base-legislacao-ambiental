@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RDPA
 atividades: [empreendimento-imobiliario]
 modalidades: [li, lia]
-tags: ["app", "area-verde-urbana", "empreendimento-imobiliario", "impacto-ambiental", "pgrcc", "prad", "rdpa", "residuo-construcao-civil", "terraplanagem"]
+tags: [app, area-verde-urbana, art-anotacao, drenagem, medida-compensatoria, medida-mitigadora, pgrcc, plano-recuperacao, rdpa, terraplanagem]
 fonte: "PDF IN 21 2025.pdf enviado pelo usuário, páginas 93 a 95"
 ---
 
@@ -18,7 +18,7 @@ fonte: "PDF IN 21 2025.pdf enviado pelo usuário, páginas 93 a 95"
 ## Texto do anexo {#texto-anexo}
 
 - **Anexo X, linha 1** {#anexo10_lin1} ANEXO IX TERMO DE REFERÊNCIA RELATÓRIO DE DETALHAMENTO DOS PROGRAMAS AMBIENTAIS - RDPA
-- **Anexo X, linha 2** {#anexo10_lin2} O Relatório de Detalhamento dos Programas Ambientais - RDPA deverá apresentar, de forma detalhada, os programas ambientais e todas as medidas de controle dos impactos ambientais que foram propostas no RAP e que deverão ser executadas no empreendimento. O RDPA é uma exigência legal dos órgãos ambientais para a obtenção da Licença de Instalação (LI) do empreendimento.
+- **Anexo X, linha 2** {#anexo10_lin2} #rdpa O Relatório de Detalhamento dos Programas Ambientais - RDPA deverá apresentar, de forma detalhada, os programas ambientais e todas as medidas de controle dos impactos ambientais que foram propostas no RAP e que deverão ser executadas no empreendimento. O RDPA é uma exigência legal dos órgãos ambientais para a obtenção da Licença de Instalação (LI) do empreendimento.
 - **Anexo X, linha 3** {#anexo10_lin3} Abordar detalhadamente todos os planos, projetos, programas e subprogramas ambientais apresentados no RAP, separados por meio abrangido, bem como as medidas mitigadoras, de controle e monitoramento ambiental que devem ser executadas durante a fase de instalação e operação (quando aplicável).
 - **Anexo X, linha 4** {#anexo10_lin4} 1. IDENTIFICAÇÃO DO EMPREENDEDOR
 - **Anexo X, linha 5** {#anexo10_lin5} − Nome:
@@ -39,18 +39,18 @@ fonte: "PDF IN 21 2025.pdf enviado pelo usuário, páginas 93 a 95"
 - **Anexo X, linha 20** {#anexo10_lin20} o Construções de Barracões.
 - **Anexo X, linha 21** {#anexo10_lin21} 4. PLANOS, PROJETOS, LAUDOS E ESTUDOS ESPECÍFICOS
 - **Anexo X, linha 22** {#anexo10_lin22} 4.1. Apresentar os planos/projetos/laudos/estudos necessários à implantação e controle ambiental do empreendimento, que devem abordar, no mínimo, os seguintes aspectos:
-- **Anexo X, linha 23** {#anexo10_lin23} 4.1.1. Projeto de Terraplanagem conforme [[instrucao-normativa-iat-21-2025#anexo4|Anexo IV]] desta resolução.
-- **Anexo X, linha 24** {#anexo10_lin24} 4.1.2. Projeto de Gerenciamento de Resíduos da Construção Civil - PGRCC, quando o empreendimento possuir mais de 3.000 m² de área construída e/ou 600 m² de demolição, conforme Termo de Referência ([[instrucao-normativa-iat-21-2025#anexo10|Anexo X]]) e [[resolucao-conama-307-2002|Resolução CONAMA 307/2002]];
-- **Anexo X, linha 25** {#anexo10_lin25} 4.1.3. Projeto de Drenagem Superficial conforme [[instrucao-normativa-iat-21-2025#anexo7|Anexo VII]] desta resolução.
-- **Anexo X, linha 26** {#anexo10_lin26} 4.1.4. Plano de manutenção de áreas de preservação permanente e áreas verdes existentes no empreendimento;
-- **Anexo X, linha 27** {#anexo10_lin27} 4.1.5. Projeto de recuperação de áreas degradadas e/ou processos erosivos acentuados, conforme [[portaria-iat-17-2025|Portaria IAT n° 17/2025]], se aplicável.
+- **Anexo X, linha 23** {#anexo10_lin23} #terraplanagem 4.1.1. Projeto de Terraplanagem conforme [[instrucao-normativa-iat-21-2025#anexo4|Anexo IV]] desta resolução.
+- **Anexo X, linha 24** {#anexo10_lin24} #pgrcc 4.1.2. Projeto de Gerenciamento de Resíduos da Construção Civil - PGRCC, quando o empreendimento possuir mais de 3.000 m² de área construída e/ou 600 m² de demolição, conforme Termo de Referência ([[instrucao-normativa-iat-21-2025#anexo10|Anexo X]]) e [[resolucao-conama-307-2002|Resolução CONAMA 307/2002]];
+- **Anexo X, linha 25** {#anexo10_lin25} #drenagem 4.1.3. Projeto de Drenagem Superficial conforme [[instrucao-normativa-iat-21-2025#anexo7|Anexo VII]] desta resolução.
+- **Anexo X, linha 26** {#anexo10_lin26} #app #area-verde-urbana 4.1.4. Plano de manutenção de áreas de preservação permanente e áreas verdes existentes no empreendimento;
+- **Anexo X, linha 27** {#anexo10_lin27} #plano-recuperacao 4.1.5. Projeto de recuperação de áreas degradadas e/ou processos erosivos acentuados, conforme [[portaria-iat-17-2025|Portaria IAT n° 17/2025]], se aplicável.
 - **Anexo X, linha 28** {#anexo10_lin28} 4.1.6. Projeto de arborização com indicação das espécies a serem utilizadas na arborização do sistema viário e espaços públicos de recreação;
 - **Anexo X, linha 29** {#anexo10_lin29} 5. EXECUÇÃO DAS MEDIDAS MITIGADORAS E COMPENSATÓRIAS
-- **Anexo X, linha 30** {#anexo10_lin30} Deverá apresentar, detalhadamente, os projetos executivos referentes ao controle ambiental das ações abordadas no item 4, das medidas mitigadoras e compensatórias, bem como os programas ambientais propostos no RAP.
+- **Anexo X, linha 30** {#anexo10_lin30} #medida-mitigadora #medida-compensatoria Deverá apresentar, detalhadamente, os projetos executivos referentes ao controle ambiental das ações abordadas no item 4, das medidas mitigadoras e compensatórias, bem como os programas ambientais propostos no RAP.
 - **Anexo X, linha 31** {#anexo10_lin31} 6. CONCLUSÕES
 - **Anexo X, linha 32** {#anexo10_lin32} Apresentar as conclusões do Relatório de Detalhamento de Programas Ambientais (RDPA), com base nos planos, projetos, laudos e estudos apresentados, bem como os resultados obtidos na avaliação dos impactos ambientais e medidas mitigadoras e compensatórias propostos no RAP.
 - **Anexo X, linha 33** {#anexo10_lin33} 7. ANOTAÇÕES DE RESPONSABILIDADE TÉCNICA
-- **Anexo X, linha 34** {#anexo10_lin34} Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos/projetos/laudos/relatórios apresentados e dos responsáveis pela execução do empreendimento, junto aos respectivos conselhos de classe.
+- **Anexo X, linha 34** {#anexo10_lin34} #art-anotacao Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos/projetos/laudos/relatórios apresentados e dos responsáveis pela execução do empreendimento, junto aos respectivos conselhos de classe.
 - **Anexo X, linha 35** {#anexo10_lin35} 8. REFERÊNCIAS BIBLIOGRÁFICAS
 - **Anexo X, linha 36** {#anexo10_lin36} Citar as referências consultadas, incluindo as páginas eletrônicas com data e hora do acesso, segundo as normas de publicação de trabalhos científicos da Associação Brasileira de Normas Técnicas – ABNT.
 - **Anexo X, linha 37** {#anexo10_lin37} OBS: Todos os estudos e plantas deverão ser apresentados em meio digital, em arquivos formato PDF.

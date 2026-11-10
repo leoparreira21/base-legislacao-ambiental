@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Memorial de Caracterização de Empreendimento (MCE)"
 atividades: [posto-revendedor, ponto-abastecimento, instalacao-sistema-retalhista, posto-flutuante, base-distribuicao]
 modalidades: [lp, lpa, lir, lor]
-tags: [mce, posto-combustivel, combustivel, caracterizacao-empreendimento, recursos-hidricos, residuo-solido, emissao-atmosferica]
+tags: [agua-pluvial, app, art-anotacao, combustivel, emissao-atmosferica, impermeabilizacao, memorial-caracterizacao, outorga-previa, residuo-solido, tanque-armazenamento, tratamento-efluente, unidade-conservacao]
 fonte: "PDF IN 28 2026.pdf, Instituto Água e Terra, enviado pelo usuário; páginas impressas 85–87."
 ---
 
@@ -14,7 +14,7 @@ fonte: "PDF IN 28 2026.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 ## Texto do anexo
 
-- **Anexo III, linha 1** {#anexo3_lin1} O MCE deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo III, linha 1** {#anexo3_lin1} #memorial-caracterizacao #art-anotacao O MCE deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 
 ### 1. INFORMAÇÕES CADASTRAIS
 
@@ -42,8 +42,8 @@ fonte: "PDF IN 28 2026.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 ### 3. CROQUI DE LOCALIZAÇÃO DO EMPREENDIMENTO COM IMAGEM AÉREA E CONTENDO NO MÍNIMO:
 
 - **Anexo III, linha 19** {#anexo3_lin19} a) Distância dos recursos hídricos (nascentes, olhos-d’água, cursos d’água, etc.);
-- **Anexo III, linha 20** {#anexo3_lin20} b) Áreas de preservação permanente;
-- **Anexo III, linha 21** {#anexo3_lin21} c) Unidades de Conservação Federais, Estaduais e Municipais;
+- **Anexo III, linha 20** {#anexo3_lin20} #app b) Áreas de preservação permanente;
+- **Anexo III, linha 21** {#anexo3_lin21} #unidade-conservacao c) Unidades de Conservação Federais, Estaduais e Municipais;
 - **Anexo III, linha 22** {#anexo3_lin22} d) Cobertura florestal;
 - **Anexo III, linha 23** {#anexo3_lin23} e) Vias de acesso principais e pontos de referências.
 - **Anexo III, linha 24** {#anexo3_lin24} f) Planta de implantação sobreposta ao mapa
@@ -55,7 +55,7 @@ fonte: "PDF IN 28 2026.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 ### 5. CARACTERIZAÇÃO DA ATIVIDADE
 
 - **Anexo III, linha 26** {#anexo3_lin26} a) Descritivo e fluxograma da atividade;
-- **Anexo III, linha 27** {#anexo3_lin27} b) Memorial descritivo do SASC ou SAAC;
+- **Anexo III, linha 27** {#anexo3_lin27} #tanque-armazenamento #combustivel b) Memorial descritivo do SASC ou SAAC;
 - **Anexo III, linha 28** {#anexo3_lin28} c) Principais instalações e unidades de apoio, tais como pátio de estacionamento, loja de conveniência, área de troca de óleo, áreas de lavagem, casa de bombas, estações de tratamento de água e efluentes, entre outros.
 
 ### 6. ASPECTOS AMBIENTAIS
@@ -65,22 +65,22 @@ fonte: "PDF IN 28 2026.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 - **Anexo III, linha 29** {#anexo3_lin29} i. Balanço hídrico previsto de utilização de água indicando no mínimo:
 - **Anexo III, linha 30** {#anexo3_lin30} Fontes de captação de água;
 - **Anexo III, linha 31** {#anexo3_lin31} Vazões utilizadas;
-- **Anexo III, linha 32** {#anexo3_lin32} Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.
+- **Anexo III, linha 32** {#anexo3_lin32} #outorga-previa Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.
 - **Anexo III, linha 33** {#anexo3_lin33} ii. Balanço hídrico previsto da geração de efluentes líquidos indicando o mínimo:
 - **Anexo III, linha 34** {#anexo3_lin34} Fontes de geração de efluentes líquidos (sanitário, abastecimento, lavagem, equipamentos e instalações, entre outros);
 - **Anexo III, linha 35** {#anexo3_lin35} Vazões previstas de cada fonte identificada;
-- **Anexo III, linha 36** {#anexo3_lin36} Proposta do sistema de tratamento previsto;
+- **Anexo III, linha 36** {#anexo3_lin36} #tratamento-efluente Proposta do sistema de tratamento previsto;
 - **Anexo III, linha 37** {#anexo3_lin37} Destinação final dos efluentes gerados.
 - **Anexo III, linha 38** {#anexo3_lin38} iii. Drenagem pluvial
-- **Anexo III, linha 39** {#anexo3_lin39} Área impermeabilizada e sistema de drenagem pluvial previsto, indicando as formas de tratamento e destinação final das águas incidentes nas áreas impermeabilizadas.
+- **Anexo III, linha 39** {#anexo3_lin39} #agua-pluvial #impermeabilizacao Área impermeabilizada e sistema de drenagem pluvial previsto, indicando as formas de tratamento e destinação final das águas incidentes nas áreas impermeabilizadas.
 
 #### b. Resíduos Sólidos:
 
-- **Anexo III, linha 40** {#anexo3_lin40} i. Estimativa da geração de resíduos sólidos indicando no mínimo: (i) código IBAMA, (ii) Resíduos Específico, (iii) Origem do resíduo, (iv) Quantificação diária estimada, (v) Tratamento e destinação final.
+- **Anexo III, linha 40** {#anexo3_lin40} #residuo-solido i. Estimativa da geração de resíduos sólidos indicando no mínimo: (i) código IBAMA, (ii) Resíduos Específico, (iii) Origem do resíduo, (iv) Quantificação diária estimada, (v) Tratamento e destinação final.
 
 #### c. Emissões atmosféricas e sistemas de controle.
 
-- **Anexo III, linha 41** {#anexo3_lin41} i. Fontes de geração de emissões atmosféricas e sistemas de tratamento propostos.
+- **Anexo III, linha 41** {#anexo3_lin41} #emissao-atmosferica i. Fontes de geração de emissões atmosféricas e sistemas de tratamento propostos.
 
 ## Síntese do conversor (não é texto normativo)
 

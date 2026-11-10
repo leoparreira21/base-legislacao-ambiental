@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [compostagem]
 modalidades: [las, li, lasa, lia, lasr]
-tags: [pca, compostagem, art-anotacao, cnae, ampliacao, diagnostico-ambiental, zoneamento, georreferenciamento, recurso-hidrico, geologia, uso-solo, mapa-situacao, car, area-influencia, unidade-conservacao, manancial, corpo-hidrico, app, reserva-legal, supressao-vegetacao, movimentacao-solo, outorga-previa, efluente, tratamento-efluente, lancamento, reuso-efluente, agua-pluvial, residuo-solido, armazenamento-residuo, residuo-perigoso, emissao-atmosferica, emissao-fugitiva, padrao-emissao]
+tags: [agua-pluvial, ampliacao, app, area-influencia, armazenamento-residuo, art-anotacao, car, cnae, compostagem, corpo-hidrico, diagnostico-ambiental, efluente, emissao-atmosferica, emissao-fugitiva, geologia, georreferenciamento, lancamento, manancial, mapa-situacao, movimentacao-solo, outorga-previa, padrao-emissao, pca, recurso-hidrico, reserva-legal, residuo-perigoso, residuo-solido, reuso-efluente, supressao-vegetacao, tratamento-efluente, unidade-conservacao, uso-solo, zoneamento]
 fonte: PDF da IN IAT 41/2025, páginas 80 a 84
 ---
 
@@ -19,7 +19,7 @@ fonte: PDF da IN IAT 41/2025, páginas 80 a 84
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo VII, linha 1** {#anexo7_lin1} #art-anotacao O Projeto de Controle de Poluição Ambiental deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo VII, linha 1** {#anexo7_lin1} #pca #art-anotacao O Projeto de Controle de Poluição Ambiental deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 - **Anexo VII, linha 2** {#anexo7_lin2} 1. INFORMAÇÕES CADASTRAIS
 - **Anexo VII, linha 3** {#anexo7_lin3} • Razão social;
 - **Anexo VII, linha 4** {#anexo7_lin4} • Nome Fantasia;
@@ -32,7 +32,7 @@ fonte: PDF da IN IAT 41/2025, páginas 80 a 84
 - **Anexo VII, linha 11** {#anexo7_lin11} • Período de funcionamento.
 - **Anexo VII, linha 12** {#anexo7_lin12} 2. TIPO (NATUREZA) DO ESTABELECIMENTO
 - **Anexo VII, linha 13** {#anexo7_lin13} #cnae Indicar a tipologia do empreendimento e atividades a serem executadas conforme Classificação Nacional de Atividades Econômicas – CNAE.
-- **Anexo VII, linha 14** {#anexo7_lin14} #ampliacao 3. SITUAÇÃO DO EMPREENDIMENTO
+- **Anexo VII, linha 14** {#anexo7_lin14} 3. SITUAÇÃO DO EMPREENDIMENTO
 - **Anexo VII, linha 15** {#anexo7_lin15} Indicar a situação atual do empreendimento (empreendimento novo, ampliação e/ou reforma).
 - **Anexo VII, linha 16** {#anexo7_lin16} #ampliacao #diagnostico-ambiental Em caso de ampliação, apresentar o diagnóstico da situação atual do empreendimento indicando as áreas e sistemas que passarão por modificações e melhorias.
 - **Anexo VII, linha 17** {#anexo7_lin17} 4. CARACTERIZAÇÃO DA ÁREA

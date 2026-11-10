@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [suinocultura]
 modalidades: [las, li, lasa, lia, lasr, lir]
-tags: [diretriz-estudo, pca, pcpa, suinocultura, art-anotacao, responsavel-tecnico, cnpj, captacao, corpo-hidrico, lancamento, vazao, bacia-hidrografica, area-construida, porte, impacto-ambiental, medida-mitigadora, terraplanagem, supressao-vegetacao, nascente, ampliacao, tratamento-efluente, agua-pluvial, vetor, residuo-solido, animal-morto, destinacao-final, tratamento-residuo, dimensionamento, dejeto-animal, uso-agricola-efluente]
+tags: [agua-pluvial, ampliacao, animal-morto, area-construida, art-anotacao, bacia-hidrografica, captacao, cnpj, corpo-hidrico, dejeto-animal, dimensionamento, diretriz-estudo, disposicao-final, lancamento, medida-mitigadora, nascente, pca, pcpa, porte, residuo-solido, responsavel-tecnico, suinocultura, supressao-vegetacao, terraplanagem, tratamento-efluente, tratamento-residuo, uso-agricola-efluente, vazao, vetor]
 fonte: PDF da IN IAT 24/2026 (eProtocolo 23.753.432-8), páginas 75 a 78 (fls. 251 a 254)
 ---
 
@@ -19,7 +19,7 @@ fonte: PDF da IN IAT 24/2026 (eProtocolo 23.753.432-8), páginas 75 a 78 (fls. 2
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo VIII, linha 1** {#anexo8_lin1} #art-anotacao #responsavel-tecnico Os Projetos de instalações destinadas ao controle de poluição ambiental em atividades agropecuárias deverão ser apresentados para análise, acompanhados da respectiva **Anotação de Responsabilidade Técnica – ART**, conforme dispõe a **[[lei-federal-6496-1977|Lei nº 6.496/77]]**.
+- **Anexo VIII, linha 1** {#anexo8_lin1} #art-anotacao Os Projetos de instalações destinadas ao controle de poluição ambiental em atividades agropecuárias deverão ser apresentados para análise, acompanhados da respectiva **Anotação de Responsabilidade Técnica – ART**, conforme dispõe a **[[lei-federal-6496-1977|Lei nº 6.496/77]]**.
 - **Anexo VIII, linha 2** {#anexo8_lin2} Os Projetos devem apresentar dados sobre as informações cadastrais, memoriais descritivos de cálculo e desenhos.
 - **Anexo VIII, linha 3** {#anexo8_lin3} 1. INFORMAÇÕES CADASTRAIS
 - **Anexo VIII, linha 4** {#anexo8_lin4} 1.1 INFORMAÇÕES CADASTRAIS
@@ -40,7 +40,7 @@ fonte: PDF da IN IAT 24/2026 (eProtocolo 23.753.432-8), páginas 75 a 78 (fls. 2
 - **Anexo VIII, linha 19** {#anexo8_lin19} #suinocultura ● Descrição do regime e sistema de criação do empreendimento;
 - **Anexo VIII, linha 20** {#anexo8_lin20} #suinocultura #porte ● Quantificação do plantel por sistema de criação existente e a capacidade máxima instalada.
 - **Anexo VIII, linha 21** {#anexo8_lin21} #suinocultura ● Apresentar a relação dos animais produzidos, por categoria, mensal e anualmente. Informar a empresa de integração, se for o caso.
-- **Anexo VIII, linha 22** {#anexo8_lin22} #impacto-ambiental #medida-mitigadora #terraplanagem #supressao-vegetacao #nascente ● Diagnóstico e medidas mitigadoras dos impactos ambientais decorrentes da implantação do empreendimento, como por exemplo: obras de terraplenagem, corte de vegetação, proteção de nascentes, obras de drenagem, entre outros.
+- **Anexo VIII, linha 22** {#anexo8_lin22} #medida-mitigadora #terraplanagem #supressao-vegetacao #nascente ● Diagnóstico e medidas mitigadoras dos impactos ambientais decorrentes da implantação do empreendimento, como por exemplo: obras de terraplenagem, corte de vegetação, proteção de nascentes, obras de drenagem, entre outros.
 - **Anexo VIII, linha 23** {#anexo8_lin23} #ampliacao 1.6 AMPLIAÇÕES PREVISTAS
 - **Anexo VIII, linha 24** {#anexo8_lin24} #tratamento-efluente 2. SISTEMA DE TRATAMENTO DE EFLUENTES LÍQUIDOS
 - **Anexo VIII, linha 25** {#anexo8_lin25} #agua-pluvial ● Descrição do sistema de captação e disposição de águas pluviais.
@@ -49,8 +49,8 @@ fonte: PDF da IN IAT 24/2026 (eProtocolo 23.753.432-8), páginas 75 a 78 (fls. 2
 - **Anexo VIII, linha 28** {#anexo8_lin28} #residuo-solido 4. RESÍDUOS SÓLIDOS
 - **Anexo VIII, linha 29** {#anexo8_lin29} #residuo-solido 4.1 INFORMAÇÕES SOBRE OS RESÍDUOS SÓLIDOS
 - **Anexo VIII, linha 30** {#anexo8_lin30} #residuo-solido #animal-morto Especificar os resíduos sólidos gerados pelo empreendimento, quantidade e forma de coleta. Incluir animais mortos.
-- **Anexo VIII, linha 31** {#anexo8_lin31} #destinacao-final 4.2 INFORMAÇÕES SOBRE DISPOSIÇÃO FINAL
-- **Anexo VIII, linha 32** {#anexo8_lin32} #destinacao-final Descrever o(s) tipo(s) de disposição final de resíduos sólidos.
+- **Anexo VIII, linha 31** {#anexo8_lin31} #disposicao-final 4.2 INFORMAÇÕES SOBRE DISPOSIÇÃO FINAL
+- **Anexo VIII, linha 32** {#anexo8_lin32} #disposicao-final Descrever o(s) tipo(s) de disposição final de resíduos sólidos.
 - **Anexo VIII, linha 33** {#anexo8_lin33} #tratamento-residuo 4.3 TRATAMENTO ADOTADO
 - **Anexo VIII, linha 34** {#anexo8_lin34} #tratamento-residuo Justificar a escolha do(s) tipo(s) de tratamento(s) adotado(s).
 - **Anexo VIII, linha 35** {#anexo8_lin35} #dimensionamento 4.4 MEMORIAL DE CÁLCULO

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [abastecimento-agua]
 modalidades: [las, li]
-tags: [agua-doce, art-anotacao, controle-ambiental, efluente, licenciamento-ambiental, pca, recurso-hidrico, residuo-solido, saneamento]
+tags: [abastecimento-publico, app, art-anotacao, diagnostico-ambiental, gerenciamento-residuo, lodo, outorga, pca, pgr, potabilidade, reserva-legal, tratamento-efluente]
 fonte: "PDF da IN IAT 37/2025 enviado pelo usuário, páginas 93 a 98"
 ---
 
@@ -18,8 +18,8 @@ fonte: "PDF da IN IAT 37/2025 enviado pelo usuário, páginas 93 a 98"
 ## Texto do anexo {#texto-anexo}
 
 - **Anexo X, linha 1** {#anexo10_lin1} ANEXO X
-- **Anexo X, linha 2** {#anexo10_lin2} TERMO DE REFERÊNCIA DE PLANO DE CONTROLE AMBIENTAL (PCA) PARA SISTEMA DE ABASTECIMENTO DE ÁGUA (SAA)
-- **Anexo X, linha 3** {#anexo10_lin3} O Plano de Controle Ambiental para SAA deverá ser elaborado por técnico habilitado, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme dispõe a [[lei-federal-6496-1977|Lei nº 6.496/77]]].
+- **Anexo X, linha 2** {#anexo10_lin2} #pca #abastecimento-publico TERMO DE REFERÊNCIA DE PLANO DE CONTROLE AMBIENTAL (PCA) PARA SISTEMA DE ABASTECIMENTO DE ÁGUA (SAA)
+- **Anexo X, linha 3** {#anexo10_lin3} #art-anotacao O Plano de Controle Ambiental para SAA deverá ser elaborado por técnico habilitado, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme dispõe a [[lei-federal-6496-1977|Lei nº 6.496/77]]].
 - **Anexo X, linha 4** {#anexo10_lin4} 1. INFORMAÇÕES CADASTRAIS
 - **Anexo X, linha 5** {#anexo10_lin5} 1.1 Identificação do empreendedor:
 - **Anexo X, linha 6** {#anexo10_lin6} a) Nome:
@@ -41,7 +41,7 @@ fonte: "PDF da IN IAT 37/2025 enviado pelo usuário, páginas 93 a 98"
 - **Anexo X, linha 22** {#anexo10_lin22} c) Bairros a serem atendidos;
 - **Anexo X, linha 23** {#anexo10_lin23} d) Horizonte de alcance do projeto, em anos;
 - **Anexo X, linha 24** {#anexo10_lin24} e) Vazão de fim de plano da ETA, em L/s;
-- **Anexo X, linha 25** {#anexo10_lin25} f) Vazão outorgada de captação de água, em L/s;
+- **Anexo X, linha 25** {#anexo10_lin25} #outorga f) Vazão outorgada de captação de água, em L/s;
 - **Anexo X, linha 26** {#anexo10_lin26} g) População de fim de plano;
 - **Anexo X, linha 27** {#anexo10_lin27} h) Coordenadas do ponto de captação em UTM SIRGAS 2000.
 - **Anexo X, linha 28** {#anexo10_lin28} 2.2 Apresentar a estimativa das populações (residente e flutuante) atendida (início de plano) e atendível (alcance do projeto), e vazões correspondentes para tratamento, ano a ano, até a população e vazão de saturação de fim de plano.
@@ -50,7 +50,7 @@ fonte: "PDF da IN IAT 37/2025 enviado pelo usuário, páginas 93 a 98"
 - **Anexo X, linha 31** {#anexo10_lin31} b) Coordenadas do ponto de captação em UTM SIRGAS2000;
 - **Anexo X, linha 32** {#anexo10_lin32} c) Vazão outorgável de adução;
 - **Anexo X, linha 33** {#anexo10_lin33} d) Concentrações dos principais parâmetros utilizados para o dimensionamento do projeto da ETA nas águas do recurso hídrico (concentrações na entrada da ETA).
-- **Anexo X, linha 34** {#anexo10_lin34} 3. DIAGNÓSTICO AMBIENTAL DA ÁREA DO EMPREENDIMENTO
+- **Anexo X, linha 34** {#anexo10_lin34} #diagnostico-ambiental 3. DIAGNÓSTICO AMBIENTAL DA ÁREA DO EMPREENDIMENTO
 - **Anexo X, linha 35** {#anexo10_lin35} As informações a serem abordadas neste item devem propiciar a caracterização da área afetada pelo empreendimento. Para a caracterização da área do empreendimento, deverão ser apresentadas, no mínimo, as informações abaixo
 - **Anexo X, linha 36** {#anexo10_lin36} relacionadas, devendo as mesmas, quando couber, ser apresentadas em mapas, plantas georreferenciadas, em escala compatível, ou através de fotos datadas, fotos aéreas, imagem de satélite e outros materiais disponíveis, com legendas explicativas da área do empreendimento e do seu entorno:
 - **Anexo X, linha 37** {#anexo10_lin37} 3.1 Uso e ocupação do solo;
@@ -61,8 +61,8 @@ fonte: "PDF da IN IAT 37/2025 enviado pelo usuário, páginas 93 a 98"
 - **Anexo X, linha 42** {#anexo10_lin42} 3.6 Suscetibilidade do terreno à erosão;
 - **Anexo X, linha 43** {#anexo10_lin43} 3.7 Caracterização da geomorfologia/relevo;
 - **Anexo X, linha 44** {#anexo10_lin44} 3.8 Caracterizar a cobertura vegetal na área de intervenção do empreendimento;
-- **Anexo X, linha 45** {#anexo10_lin45} 3.9 Existência de Áreas de Preservação Permanente;
-- **Anexo X, linha 46** {#anexo10_lin46} 3.10 Ocorrência de Reserva Legal, seu estado de conservação e sua localização e distribuição; caso a Reserva Legal não tenha sido respeitada na área, indicar a área do imóvel que será destinada a Reserva Legal;
+- **Anexo X, linha 45** {#anexo10_lin45} #app 3.9 Existência de Áreas de Preservação Permanente;
+- **Anexo X, linha 46** {#anexo10_lin46} #reserva-legal 3.10 Ocorrência de Reserva Legal, seu estado de conservação e sua localização e distribuição; caso a Reserva Legal não tenha sido respeitada na área, indicar a área do imóvel que será destinada a Reserva Legal;
 - **Anexo X, linha 47** {#anexo10_lin47} 3.11 Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais na área do empreendimento e no seu entorno;
 - **Anexo X, linha 48** {#anexo10_lin48} 3.12 Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;
 - **Anexo X, linha 49** {#anexo10_lin49} 3.13 Apresentar levantamento de reservas indígenas, área quilombola, monumentos naturais e dos bens tombados existentes na área de influência direta do empreendimento;
@@ -71,28 +71,28 @@ fonte: "PDF da IN IAT 37/2025 enviado pelo usuário, páginas 93 a 98"
 - **Anexo X, linha 52** {#anexo10_lin52} 4. PROJETO BÁSICO DA ESTAÇÃO DE TRATAMENTO DE ÁGUA
 - **Anexo X, linha 53** {#anexo10_lin53} 4.1 Apresentar os dados de projeto da Estação de Tratamento de Água (ETA), observando a NBR 12216:
 - **Anexo X, linha 54** {#anexo10_lin54} a) Capacidade nominal e capacidade máxima (é a vazão que a ETA pode produzir, mantido o efluente dentro dos padrões de potabilidade);
-- **Anexo X, linha 55** {#anexo10_lin55} b) Processo, unidades de tratamento e nível de eficiência de remoção dos contaminantes da água bruta. A eficiência do sistema de tratamento deve ser tal que permita o atendimento aos padrões de potabilidade estabelecidos, e considere as restrições vinculadas à Outorga de captação;
+- **Anexo X, linha 55** {#anexo10_lin55} #potabilidade b) Processo, unidades de tratamento e nível de eficiência de remoção dos contaminantes da água bruta. A eficiência do sistema de tratamento deve ser tal que permita o atendimento aos padrões de potabilidade estabelecidos, e considere as restrições vinculadas à Outorga de captação;
 - **Anexo X, linha 56** {#anexo10_lin56} c) Período de funcionamento da ETA.
 - **Anexo X, linha 57** {#anexo10_lin57} 4.2 Apresentar em planta em escala adequada, devidamente legendada, e em memorial descritivo (observando NBR 12.216):
 - **Anexo X, linha 58** {#anexo10_lin58} a) Sistemas de captação e adução, desde o manancial até a ETA;
 - **Anexo X, linha 59** {#anexo10_lin59} b) Layout geral da ETA;
 - **Anexo X, linha 60** {#anexo10_lin60} c) Unidades de tratamento da ETA;
-- **Anexo X, linha 61** {#anexo10_lin61} d) Sistema de tratamento e forma de disposição final adequada ao lodo gerado pela ETA;
+- **Anexo X, linha 61** {#anexo10_lin61} #lodo d) Sistema de tratamento e forma de disposição final adequada ao lodo gerado pela ETA;
 - **Anexo X, linha 62** {#anexo10_lin62} e) Instalações administrativas e de apoio operacional da ETA, incluindo a Casa de Química e laboratório, com os respectivos controles ambientais (destinação e tratamento do esgoto, forma de acondicionamento dos resíduos sólidos e dos produtos químicos);
 - **Anexo X, linha 63** {#anexo10_lin63} f) Sistemas de armazenamento, preparo e dosagem de produtos químicos;
 - **Anexo X, linha 64** {#anexo10_lin64} g) Sistema de drenagem pluvial.
 - **Anexo X, linha 65** {#anexo10_lin65} 5. PROJETO SISTEMAS DE CONTROLE AMBIENTAL
 - **Anexo X, linha 66** {#anexo10_lin66} 5.1 Informações sobre Efluentes Líquidos:
 - **Anexo X, linha 67** {#anexo10_lin67} a) Caracterização dos efluentes líquidos gerados na implantação e operação do empreendimento;
-- **Anexo X, linha 68** {#anexo10_lin68} b) Descrição do sistema de tratamento adotado para os efluentes líquidos gerados na implantação e operação do empreendimento, acompanhado de dimensionamento das unidades que compõem o sistema;
+- **Anexo X, linha 68** {#anexo10_lin68} #tratamento-efluente b) Descrição do sistema de tratamento adotado para os efluentes líquidos gerados na implantação e operação do empreendimento, acompanhado de dimensionamento das unidades que compõem o sistema;
 - **Anexo X, linha 69** {#anexo10_lin69} c) Descrição dos dispositivos de drenagem pluvial.
 - **Anexo X, linha 70** {#anexo10_lin70} 5.2 Informações sobre Resíduos Sólidos
 - **Anexo X, linha 71** {#anexo10_lin71} a) Identificação dos resíduos sólidos gerados durante a operação do empreendimento;
-- **Anexo X, linha 72** {#anexo10_lin72} b) Descrição das etapas de gerenciamento dos resíduos no local: segregação, coleta, acondicionamento, armazenamento, tratamento e destinação final;
+- **Anexo X, linha 72** {#anexo10_lin72} #gerenciamento-residuo b) Descrição das etapas de gerenciamento dos resíduos no local: segregação, coleta, acondicionamento, armazenamento, tratamento e destinação final;
 - **Anexo X, linha 73** {#anexo10_lin73} c) Descrição das áreas de armazenamento temporário de resíduos, de acordo com as ABNT e NBR 11174 e 12235.
 - **Anexo X, linha 74** {#anexo10_lin74} 5.3 Informações das Atividades de apoio
 - **Anexo X, linha 75** {#anexo10_lin75} a) Fornecer a relação de produtos químicos manuseados em sua atividade e respectivas quantidades estocadas. Caso haja na instalação substancias em quantidades superiores às apresentadas na [[portaria-iap-159-2015|Portaria IAP 159/2015]]], ou outra
-- **Anexo X, linha 76** {#anexo10_lin76} que venha a substituí-la, deverá possuir Programa de Gerenciamento de Risco;
+- **Anexo X, linha 76** {#anexo10_lin76} #pgr que venha a substituí-la, deverá possuir Programa de Gerenciamento de Risco;
 - **Anexo X, linha 77** {#anexo10_lin77} b) Descrever e mapear, em planta planialtimétrica em escala adequada, a necessidade de cortes, aterros e drenagem para a implantação e operação do empreendimento, e localização de possíveis áreas de empréstimo e bota-fora;
 - **Anexo X, linha 78** {#anexo10_lin78} c) Estimar a mão de obra necessária para implantação e operação do empreendimento. Em relação à operação, indicar ainda a qualificação técnica dos funcionários;
 - **Anexo X, linha 79** {#anexo10_lin79} d) Cronograma de implantação.

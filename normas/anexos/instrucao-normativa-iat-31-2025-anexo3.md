@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [triagem-residuo-reciclavel]
 modalidades: [lp, lpa]
-tags: [diretriz-estudo, memorial-caracterizacao, triagem, acondicionamento, aglomerado-populacional, app, area-contaminada, art-anotacao, captacao, corpo-hidrico, distancia-minima, efluente, esgoto-sanitario, georreferenciamento, odor, porte, recurso-hidrico, reserva-legal, supressao-vegetacao, uso-solo]
+tags: [acondicionamento, aglomerado-populacional, app, art-anotacao, captacao, corpo-hidrico, efluente, esgoto-sanitario, georreferenciamento, odor, porte, recurso-hidrico, reserva-legal, supressao-vegetacao, triagem, uso-solo]
 fonte: PDF da IN IAT 31/2025, páginas 52 a 54
 ---
 
@@ -30,7 +30,7 @@ fonte: PDF da IN IAT 31/2025, páginas 52 a 54
 - **Anexo III, linha 9** {#anexo3_lin9} − E-mail.
 - **Anexo III, linha 10** {#anexo3_lin10} 2. CARACTERIZAÇÃO DA ÁREA
 - **Anexo III, linha 11** {#anexo3_lin11} #porte − Área onde será implantada a atividade (área total, área utilizada e área livre);
-- **Anexo III, linha 12** {#anexo3_lin12} #area-contaminada − Informações do uso atual e pretérito da área objeto do empreendimento;
+- **Anexo III, linha 12** {#anexo3_lin12} #uso-solo − Informações do uso atual e pretérito da área objeto do empreendimento;
 - **Anexo III, linha 13** {#anexo3_lin13} #georreferenciamento − Coordenadas Geográficas em UTM SIRGAS 2000;
 - **Anexo III, linha 14** {#anexo3_lin14} #uso-solo − Uso e ocupação do solo;
 - **Anexo III, linha 15** {#anexo3_lin15} − Tipo e característica do solo;
@@ -42,11 +42,11 @@ fonte: PDF da IN IAT 31/2025, páginas 52 a 54
 - **Anexo III, linha 21** {#anexo3_lin21} 3. CROQUI DE LOCALIZAÇÃO DO EMPREENDIMENTO COM IMAGEM AÉREA E CONTENDO NO MÍNIMO:
 - **Anexo III, linha 22** {#anexo3_lin22} Deverá ser apresentado o croqui de localização do empreendimento com imagem aérea, contendo no mínimo:
 - **Anexo III, linha 23** {#anexo3_lin23} − Delimitação das instalações;
-- **Anexo III, linha 24** {#anexo3_lin24} #corpo-hidrico #distancia-minima − Distância dos corpos hídricos;
+- **Anexo III, linha 24** {#anexo3_lin24} #corpo-hidrico − Distância dos corpos hídricos;
 - **Anexo III, linha 25** {#anexo3_lin25} #app − Áreas de preservação permanente;
 - **Anexo III, linha 26** {#anexo3_lin26} #reserva-legal − Reserva Legal;
-- **Anexo III, linha 27** {#anexo3_lin27} #distancia-minima − Casas isoladas;
-- **Anexo III, linha 28** {#anexo3_lin28} #aglomerado-populacional #distancia-minima − Núcleos populacionais;
+- **Anexo III, linha 27** {#anexo3_lin27} − Casas isoladas;
+- **Anexo III, linha 28** {#anexo3_lin28} #aglomerado-populacional − Núcleos populacionais;
 - **Anexo III, linha 29** {#anexo3_lin29} − Cobertura florestal;
 - **Anexo III, linha 30** {#anexo3_lin30} − Vias de acesso principais.
 - **Anexo III, linha 31** {#anexo3_lin31} 4. CARACTERIZAÇÃO DO EMPREENDIMENTO

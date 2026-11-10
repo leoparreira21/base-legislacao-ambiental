@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Plano de Gerenciamento da Utilização Agrícola do Lodo de Esgoto
 atividades: [gerenciamento-lodo]
 modalidades: [las, li, rlas, rlo, lasa, lia, lasr, lir, lor]
-tags: [diretriz-estudo, lodo, art-anotacao, uso-agricola, monitoramento]
+tags: [amostragem, analise-solo, armazenamento-residuo, art-anotacao, caracterizacao-agronomica, conservacao-solo, lodo-esgoto, metal-pesado, monitoramento, taxa-aplicacao]
 fonte: "PDF da IN IAT 38/2025, páginas 80 a 81, fornecido pelo usuário: IN 38 2025.pdf"
 ---
 
@@ -18,7 +18,7 @@ fonte: "PDF da IN IAT 38/2025, páginas 80 a 81, fornecido pelo usuário: IN 38 
 
 ## Texto do anexo
 
-- **Anexo V, linha 1** {#anexo5_lin1} O Plano de Gerenciamento de Utilização Agrícola de Lodo de Esgoto, deverá ser elaborado por técnico habilitado e apresentado para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo V, linha 1** {#anexo5_lin1} #lodo-esgoto #art-anotacao O Plano de Gerenciamento de Utilização Agrícola de Lodo de Esgoto, deverá ser elaborado por técnico habilitado e apresentado para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 
 - **Anexo V, linha 2** {#anexo5_lin2} 1. DIAGNÓSTICO
 
@@ -38,13 +38,13 @@ fonte: "PDF da IN IAT 38/2025, páginas 80 a 81, fornecido pelo usuário: IN 38 
 
 - **Anexo V, linha 10** {#anexo5_lin10} • Processamento do Lodo de Esgoto
 
-- **Anexo V, linha 11** {#anexo5_lin11} • Descrição da Área de Armazenamento de Lodo de Esgoto
+- **Anexo V, linha 11** {#anexo5_lin11} #armazenamento-residuo • Descrição da Área de Armazenamento de Lodo de Esgoto
 
 - **Anexo V, linha 12** {#anexo5_lin12} 2. PROCESSO DE HIGIENIZAÇÃO E CONTROLE DE QUALIDADE DO LODO HIGIENIZADO
 
 - **Anexo V, linha 13** {#anexo5_lin13} 2.1. DESCRIÇÃO DO PROCESSO DE HIGIENIZAÇÃO
 
-- **Anexo V, linha 14** {#anexo5_lin14} 2.2. CARACTERÍSTICAS AGRONÔMICAS
+- **Anexo V, linha 14** {#anexo5_lin14} #caracterizacao-agronomica 2.2. CARACTERÍSTICAS AGRONÔMICAS
 
 - **Anexo V, linha 15** {#anexo5_lin15} 2.3. CARACTERÍSTICAS SANITÁRIAS
 
@@ -76,7 +76,7 @@ fonte: "PDF da IN IAT 38/2025, páginas 80 a 81, fornecido pelo usuário: IN 38 
 
 - **Anexo V, linha 29** {#anexo5_lin29} 4.1. QUANTIDADE DE LODO PRODUZIDO NA UGL
 
-- **Anexo V, linha 30** {#anexo5_lin30} 4.2. RESTRIÇÕES E USOS POTENCIAIS DO LODO DE ESGOTO NA AGRICULTURA
+- **Anexo V, linha 30** {#anexo5_lin30} #lodo-esgoto 4.2. RESTRIÇÕES E USOS POTENCIAIS DO LODO DE ESGOTO NA AGRICULTURA
 
 - **Anexo V, linha 31** {#anexo5_lin31} 4.3. USUÁRIOS POTENCIAIS
 
@@ -94,11 +94,11 @@ fonte: "PDF da IN IAT 38/2025, páginas 80 a 81, fornecido pelo usuário: IN 38 
 
 - **Anexo V, linha 38** {#anexo5_lin38} 5.2. ESTRUTURA DA RECOMENDAÇÃO AGRONÔMICA
 
-- **Anexo V, linha 39** {#anexo5_lin39} 5.3. AMOSTRAGEM E ANÁLISE DE SOLO
+- **Anexo V, linha 39** {#anexo5_lin39} #analise-solo #amostragem 5.3. AMOSTRAGEM E ANÁLISE DE SOLO
 
-- **Anexo V, linha 40** {#anexo5_lin40} 5.4. TAXA DE APLICAÇÃO DE LODO E ADUBAÇÃO COMPLEMENTAR
+- **Anexo V, linha 40** {#anexo5_lin40} #taxa-aplicacao 5.4. TAXA DE APLICAÇÃO DE LODO E ADUBAÇÃO COMPLEMENTAR
 
-- **Anexo V, linha 41** {#anexo5_lin41} 5.5. PRÁTICAS DE MANEJO E CONSERVAÇÃO DO SOLO
+- **Anexo V, linha 41** {#anexo5_lin41} #conservacao-solo 5.5. PRÁTICAS DE MANEJO E CONSERVAÇÃO DO SOLO
 
 - **Anexo V, linha 42** {#anexo5_lin42} 5.6. APLICAÇÃO E INCORPORAÇÃO DO LODO DE ESGOTO HIGIENIZADO NO SOLO
 
@@ -106,11 +106,11 @@ fonte: "PDF da IN IAT 38/2025, páginas 80 a 81, fornecido pelo usuário: IN 38 
 
 - **Anexo V, linha 44** {#anexo5_lin44} 6. MONITORAMENTO
 
-- **Anexo V, linha 45** {#anexo5_lin45} 6.1. MONITORAMENTO AMBIENTAL
+- **Anexo V, linha 45** {#anexo5_lin45} #monitoramento 6.1. MONITORAMENTO AMBIENTAL
 
 - **Anexo V, linha 46** {#anexo5_lin46} • Monitoramento da Fertilidade do Solo
 
-- **Anexo V, linha 47** {#anexo5_lin47} • Monitoramento do Acúmulo de Metais Pesados
+- **Anexo V, linha 47** {#anexo5_lin47} #metal-pesado • Monitoramento do Acúmulo de Metais Pesados
 
 - **Anexo V, linha 48** {#anexo5_lin48} • Monitoramento de Substâncias Orgânicas
 

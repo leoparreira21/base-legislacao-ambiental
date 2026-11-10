@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [bovinocultura]
 modalidades: [dlam, lac, lp, lasr, lir]
-tags: ["bovinocultura", "memorial-caracterizacao", "dejeto-animal", "uso-agricola-efluente", "uso-solo", "efluente", "emissao-atmosferica", "app", "reserva-legal"]
+tags: [analise-solo, app, classe-risco-solo, dejeto-animal, efluente, emissao-atmosferica, memorial-caracterizacao, projeto-agronomico, reserva-legal, taxa-aplicacao, uso-solo]
 fonte: "PDF IN 23 2026.pdf fornecido pelo usuário, páginas 61–63 de 81 (folhas 252–254 do eProtocolo)."
 ---
 
@@ -21,7 +21,7 @@ fonte: "PDF IN 23 2026.pdf fornecido pelo usuário, páginas 61–63 de 81 (folh
 
 - **Anexo II, linha 2** {#anexo2_lin2} TERMO DE REFERÊNCIA PARA ELABORAÇÃO DO MEMORIAL DE CARACTERIZAÇÃO DO EMPREENDIMENTO – MCE
 
-- **Anexo II, linha 3** {#anexo2_lin3} O Memorial de Caracterização do Empreendimento – MCE deverá ser elaborado e assinado pelo responsável pelas informações prestadas, o qual deverá ser o mesmo responsável declarado no [[instrucao-normativa-iat-23-2026#anexo5|Anexo V]].
+- **Anexo II, linha 3** {#anexo2_lin3} #memorial-caracterizacao O Memorial de Caracterização do Empreendimento – MCE deverá ser elaborado e assinado pelo responsável pelas informações prestadas, o qual deverá ser o mesmo responsável declarado no [[instrucao-normativa-iat-23-2026#anexo5|Anexo V]].
 
 - **Anexo II, linha 4** {#anexo2_lin4} I. INFORMAÇÕES CADASTRAIS
 
@@ -45,19 +45,19 @@ fonte: "PDF IN 23 2026.pdf fornecido pelo usuário, páginas 61–63 de 81 (folh
 
 - **Anexo II, linha 14** {#anexo2_lin14} ● Estruturas físicas;
 
-- **Anexo II, linha 15** {#anexo2_lin15} ● Locais de concentração de dejetos, se houver.
+- **Anexo II, linha 15** {#anexo2_lin15} #dejeto-animal ● Locais de concentração de dejetos, se houver.
 
 - **Anexo II, linha 16** {#anexo2_lin16} ● Corpos hídricos;
 
-- **Anexo II, linha 17** {#anexo2_lin17} ● Áreas de preservação permanente;
+- **Anexo II, linha 17** {#anexo2_lin17} #app ● Áreas de preservação permanente;
 
-- **Anexo II, linha 18** {#anexo2_lin18} ● Áreas de Reserva Legal e maciços florestais remanescentes;
+- **Anexo II, linha 18** {#anexo2_lin18} #reserva-legal ● Áreas de Reserva Legal e maciços florestais remanescentes;
 
 - **Anexo II, linha 19** {#anexo2_lin19} ● Vias de acesso principais;
 
 - **Anexo II, linha 20** {#anexo2_lin20} ● Pontos de referência.
 
-- **Anexo II, linha 21** {#anexo2_lin21} ● Caracterização do entorno em um raio mínimo de 50 metros do empreendimento, contemplando o uso e ocupação do solo, e a existência de residências.
+- **Anexo II, linha 21** {#anexo2_lin21} #uso-solo ● Caracterização do entorno em um raio mínimo de 50 metros do empreendimento, contemplando o uso e ocupação do solo, e a existência de residências.
 
 - **Anexo II, linha 22** {#anexo2_lin22} IV. CARACTERIZAÇÃO DO EMPREENDIMENTO
 
@@ -73,7 +73,7 @@ fonte: "PDF IN 23 2026.pdf fornecido pelo usuário, páginas 61–63 de 81 (folh
 
 - **Anexo II, linha 28** {#anexo2_lin28} V. INFORMAÇÕES SOBRE POLUENTES
 
-- **Anexo II, linha 29** {#anexo2_lin29} a) Efluentes líquidos do processo (dejetos animais, águas de lavagem de equipamentos, etc)
+- **Anexo II, linha 29** {#anexo2_lin29} #efluente #dejeto-animal a) Efluentes líquidos do processo (dejetos animais, águas de lavagem de equipamentos, etc)
 
 - **Anexo II, linha 30** {#anexo2_lin30} • Geração, tratamento e destinação final;
 
@@ -85,7 +85,7 @@ fonte: "PDF IN 23 2026.pdf fornecido pelo usuário, páginas 61–63 de 81 (folh
 
 - **Anexo II, linha 34** {#anexo2_lin34} • Geração, tratamento e destinação final.
 
-- **Anexo II, linha 35** {#anexo2_lin35} d) Emissões atmosféricas, (no caso de uso de geradores a combustível) e sistemas de controle, quando houver;
+- **Anexo II, linha 35** {#anexo2_lin35} #emissao-atmosferica d) Emissões atmosféricas, (no caso de uso de geradores a combustível) e sistemas de controle, quando houver;
 
 - **Anexo II, linha 36** {#anexo2_lin36} e) Sistema de abastecimento de água (fonte, usos e volume de captação).
 
@@ -93,13 +93,13 @@ fonte: "PDF IN 23 2026.pdf fornecido pelo usuário, páginas 61–63 de 81 (folh
 
 - **Anexo II, linha 38** {#anexo2_lin38} a) Descrever as características gerais da área destinada para a disposição dos dejetos.
 
-- **Anexo II, linha 39** {#anexo2_lin39} • A escolha da área para disposição dos dejetos de bovinos deve considerar os aspectos ambientais das terras, sua classe de risco ambiental e as características físico–químicas do solo. A definição de áreas aptas deverá seguir os critérios estabelecidos no [[instrucao-normativa-iat-23-2026#anexo10|ANEXO X]].
+- **Anexo II, linha 39** {#anexo2_lin39} #dejeto-animal #classe-risco-solo • A escolha da área para disposição dos dejetos de bovinos deve considerar os aspectos ambientais das terras, sua classe de risco ambiental e as características físico–químicas do solo. A definição de áreas aptas deverá seguir os critérios estabelecidos no [[instrucao-normativa-iat-23-2026#anexo10|ANEXO X]].
 
 - **Anexo II, linha 40** {#anexo2_lin40} b) Caracterização do solo
 
 - **Anexo II, linha 41** {#anexo2_lin41} •  Tipo de solo;
 
-- **Anexo II, linha 42** {#anexo2_lin42} • Análise de solo – análise de rotina de fertilidade e granulometria
+- **Anexo II, linha 42** {#anexo2_lin42} #analise-solo • Análise de solo – análise de rotina de fertilidade e granulometria
 
 - **Anexo II, linha 43** {#anexo2_lin43} c) Descrição técnica da metodologia de disposição de dejetos no solo
 
@@ -107,7 +107,7 @@ fonte: "PDF IN 23 2026.pdf fornecido pelo usuário, páginas 61–63 de 81 (folh
 
 - **Anexo II, linha 45** {#anexo2_lin45} •  Procedimento de aplicação: Época de aplicação, forma de aplicação, culturas, frequência, técnica de aplicação;
 
-- **Anexo II, linha 46** {#anexo2_lin46} •  Taxa de aplicação deverá ser definida conforme o [[instrucao-normativa-iat-23-2026#anexo10|Anexo X]], podendo ser utilizado o software disponível em www.sgadubo.com.br para a elaboração do respectivo projeto agronômico.
+- **Anexo II, linha 46** {#anexo2_lin46} #taxa-aplicacao #projeto-agronomico •  Taxa de aplicação deverá ser definida conforme o [[instrucao-normativa-iat-23-2026#anexo10|Anexo X]], podendo ser utilizado o software disponível em www.sgadubo.com.br para a elaboração do respectivo projeto agronômico.
 
 ## Síntese do conversor (não é texto normativo)
 

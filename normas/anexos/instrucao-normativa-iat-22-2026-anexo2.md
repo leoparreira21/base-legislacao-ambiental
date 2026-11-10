@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [irrigacao]
 modalidades: [dlam, lac, lp, lpa]
-tags: [irrigacao, mce, recurso-hidrico, car, app, reserva-legal]
+tags: [app, captacao, car, conservacao-solo, irrigacao, mce, memorial-caracterizacao, recurso-hidrico, reserva-legal, vazao]
 ---
 
 # ANEXO II
@@ -15,7 +15,7 @@ tags: [irrigacao, mce, recurso-hidrico, car, app, reserva-legal]
 
 **Anexo 2, linha 1** {#anexo2_lin1} ANEXO II
 
-**Anexo 2, linha 2** {#anexo2_lin2} TERMO DE REFERÊNCIA PARA ELABORAÇÃO E APRESENTAÇÃO DO MEMORIAL DE CARACTERIZAÇÃO DO EMPREENDIMENTO (MCE)
+**Anexo 2, linha 2** {#anexo2_lin2} #memorial-caracterizacao #irrigacao TERMO DE REFERÊNCIA PARA ELABORAÇÃO E APRESENTAÇÃO DO MEMORIAL DE CARACTERIZAÇÃO DO EMPREENDIMENTO (MCE)
 
 **Anexo 2, linha 3** {#anexo2_lin3} O Memorial de Caracterização do Empreendimento – MCE deverá ser elaborado e assinado pelo responsável pelas informações prestadas, o qual deverá ser o mesmo responsável declarado no [[instrucao-normativa-iat-22-2026#anexo5|Anexo V]].
 
@@ -33,7 +33,7 @@ tags: [irrigacao, mce, recurso-hidrico, car, app, reserva-legal]
 
 **Anexo 2, linha 10** {#anexo2_lin10} 2. CARACTERIZAÇÃO DA ÁREA
 
-**Anexo 2, linha 11** {#anexo2_lin11} Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural;
+**Anexo 2, linha 11** {#anexo2_lin11} #car Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural;
 
 **Anexo 2, linha 12** {#anexo2_lin12} Área onde será implantada a atividade (área total, área construída e área livre);
 
@@ -45,9 +45,9 @@ tags: [irrigacao, mce, recurso-hidrico, car, app, reserva-legal]
 
 **Anexo 2, linha 16** {#anexo2_lin16} Corpos hídricos;
 
-**Anexo 2, linha 17** {#anexo2_lin17} Áreas de preservação permanente;
+**Anexo 2, linha 17** {#anexo2_lin17} #app Áreas de preservação permanente;
 
-**Anexo 2, linha 18** {#anexo2_lin18} Áreas de Reserva Legal e maciços florestais remanescentes;
+**Anexo 2, linha 18** {#anexo2_lin18} #reserva-legal Áreas de Reserva Legal e maciços florestais remanescentes;
 
 **Anexo 2, linha 19** {#anexo2_lin19} Vias de acesso principais;
 
@@ -65,7 +65,7 @@ tags: [irrigacao, mce, recurso-hidrico, car, app, reserva-legal]
 
 **Anexo 2, linha 26** {#anexo2_lin26} Fonte hídrica utilizada (rios, lagos, aquíferos, barragens etc.);
 
-**Anexo 2, linha 27** {#anexo2_lin27} Vazão captada e demanda hídrica estimada;
+**Anexo 2, linha 27** {#anexo2_lin27} #captacao #vazao Vazão captada e demanda hídrica estimada;
 
 **Anexo 2, linha 28** {#anexo2_lin28} Infraestrutura associada ao sistema, incluindo canais, reservatórios, sistema de recalque e redes de distribuição;
 
@@ -75,7 +75,7 @@ tags: [irrigacao, mce, recurso-hidrico, car, app, reserva-legal]
 
 **Anexo 2, linha 31** {#anexo2_lin31} Medidas de mitigação e controle ambiental dos potenciais impactos.
 
-**Anexo 2, linha 32** {#anexo2_lin32} 5. Projeto de Irrigação
+**Anexo 2, linha 32** {#anexo2_lin32} #irrigacao 5. Projeto de Irrigação
 
 **Anexo 2, linha 33** {#anexo2_lin33} Tipo de sistema de irrigação (aspersão fixa, gotejamento, microaspersão, pivô central etc.), incluindo, quando aplicável, percentual de solo molhado e bulbo úmido;
 
@@ -99,7 +99,7 @@ tags: [irrigacao, mce, recurso-hidrico, car, app, reserva-legal]
 
 **Anexo 2, linha 43** {#anexo2_lin43} Ferramentas de manejo da irrigação;
 
-**Anexo 2, linha 44** {#anexo2_lin44} Medidas de conservação do solo e água.
+**Anexo 2, linha 44** {#anexo2_lin44} #conservacao-solo Medidas de conservação do solo e água.
 
 ## Síntese do conversor (não é texto normativo)
 

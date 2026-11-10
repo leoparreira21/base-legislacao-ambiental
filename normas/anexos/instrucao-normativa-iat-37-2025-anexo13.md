@@ -6,14 +6,14 @@ tipo_anexo: termo-referencia
 estudo: PCPA
 atividades: [esgotamento-sanitario, saneamento]
 modalidades: [li]
-tags: [saneamento, esgotamento-sanitario, pcpa, ete, efluente-liquido, residuo-solido]
+tags: [agua-pluvial, armazenamento-residuo, art-anotacao, esgotamento-sanitario, gerenciamento-residuo, impacto-ambiental, lodo-esgoto, medida-mitigadora, pcpa, pgr, tratamento-efluente, tratamento-esgoto, vazao]
 fonte: "IN IAT nº 37/2025, Anexo XIII, PDF fornecido, pp. 111–115."
 ---
 
 ## Texto do anexo
 
-- **Anexo XIII, linha 1** {#anexo13_lin1} TERMO DE REFERÊNCIA PARA PROJETO DE CONTROLE DA POLUIÇÃO (PCPA) PARA SISTEMA DE ESGOTAMENTO SANITÁRIO (SES)
-- **Anexo XIII, linha 2** {#anexo13_lin2} O Projeto de Controle da Poluição Ambiental para SES deverá ser elaborado por técnico habilitado, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme dispõe a [[lei-federal-6496-1977|Lei no 6.496/77]].
+- **Anexo XIII, linha 1** {#anexo13_lin1} #pcpa #esgotamento-sanitario TERMO DE REFERÊNCIA PARA PROJETO DE CONTROLE DA POLUIÇÃO (PCPA) PARA SISTEMA DE ESGOTAMENTO SANITÁRIO (SES)
+- **Anexo XIII, linha 2** {#anexo13_lin2} #art-anotacao O Projeto de Controle da Poluição Ambiental para SES deverá ser elaborado por técnico habilitado, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme dispõe a [[lei-federal-6496-1977|Lei no 6.496/77]].
 - **Anexo XIII, linha 3** {#anexo13_lin3} 1. INFORMAÇÕES CADASTRAIS
 - **Anexo XIII, linha 4** {#anexo13_lin4} 1.1 Identificação do empreendedor:
 - **Anexo XIII, linha 5** {#anexo13_lin5} a) Nome:
@@ -31,15 +31,15 @@ fonte: "IN IAT nº 37/2025, Anexo XIII, PDF fornecido, pp. 111–115."
 - **Anexo XIII, linha 17** {#anexo13_lin17} 2. PROJETO BÁSICO DO SISTEMA DE ESGOTAMENTO SANITÁRIO
 - **Anexo XIII, linha 18** {#anexo13_lin18} 2.1 Descrição do sistema de esgotos sanitários, desde a rede coletora de esgotos, coletores tronco, interceptores, eventuais estações elevatórias e linhas de recalque, emissários, ETE e emissário final Estação de Tratamento de Esgoto;
 - **Anexo XIII, linha 19** {#anexo13_lin19} 2.2 Delimitação das bacias de esgotamento cujas contribuições serão encaminhadas para a ETE;
-- **Anexo XIII, linha 20** {#anexo13_lin20} 2.3 Apresentar a estimativa das populações (residente e flutuante) atendida (início de plano) e de alcance do projeto (fim de plano), e vazões correspondentes para tratamento, ano a ano, até a população e vazão de saturação de fim de plano. A estimativa das populações e sua distribuição espacial devem ser feitas com base em dados censitários, informações locais e regionais;
+- **Anexo XIII, linha 20** {#anexo13_lin20} #vazao 2.3 Apresentar a estimativa das populações (residente e flutuante) atendida (início de plano) e de alcance do projeto (fim de plano), e vazões correspondentes para tratamento, ano a ano, até a população e vazão de saturação de fim de plano. A estimativa das populações e sua distribuição espacial devem ser feitas com base em dados censitários, informações locais e regionais;
 - **Anexo XIII, linha 21** {#anexo13_lin21} 2.4 Apresentação das características dos esgotos sanitários: Caracterizar qualitativamente os esgotos a serem tratados na ETE projetada, indicando suas principais características. No caso de recebimento de efluentes das fontes industriais deverão ser devidamente identificados e caracterizados quantitativa e qualitativamente;
 - **Anexo XIII, linha 22** {#anexo13_lin22} 2.5 Identificação e caracterização do corpo receptor;
-- **Anexo XIII, linha 23** {#anexo13_lin23} 2.6 Da Estação de Tratamento de Esgoto. Apresentar os dados de projeto da Estação de Tratamento de Esgoto (ETE), observando a NBR 12209;
+- **Anexo XIII, linha 23** {#anexo13_lin23} #tratamento-esgoto 2.6 Da Estação de Tratamento de Esgoto. Apresentar os dados de projeto da Estação de Tratamento de Esgoto (ETE), observando a NBR 12209;
 - **Anexo XIII, linha 24** {#anexo13_lin24} − Levantamento topográfico e planialtimétrico;
 - **Anexo XIII, linha 25** {#anexo13_lin25} − Apresentação de sondagens preliminares, reconhecimento da natureza do terreno e do nível do lençol freático da área selecionada para implantação da ETE;
 - **Anexo XIII, linha 26** {#anexo13_lin26} − Sistema de tratamento proposto;
 - **Anexo XIII, linha 27** {#anexo13_lin27} − Dimensionamento de todas as unidades do sistema de tratamento, indicando os níveis de eficiência de remoção, bem como as características esperadas para o efluente final;
-- **Anexo XIII, linha 28** {#anexo13_lin28} − Gerenciamento do lodo gerado no tratamento (adensamento, estabilização, condicionamento, desaguamento, higienização e disposição final) e demais resíduos sólidos.
+- **Anexo XIII, linha 28** {#anexo13_lin28} #lodo-esgoto − Gerenciamento do lodo gerado no tratamento (adensamento, estabilização, condicionamento, desaguamento, higienização e disposição final) e demais resíduos sólidos.
 - **Anexo XIII, linha 29** {#anexo13_lin29} 2.5 Da Estação Elevatória de Esgoto e Linha de Recalque. Apresentar os dados de projeto da EEE, observando a NBR 12208:
 - **Anexo XIII, linha 30** {#anexo13_lin30} − Período de alcance do projeto;
 - **Anexo XIII, linha 31** {#anexo13_lin31} − População de alcance;
@@ -57,19 +57,19 @@ fonte: "IN IAT nº 37/2025, Anexo XIII, PDF fornecido, pp. 111–115."
 - **Anexo XIII, linha 43** {#anexo13_lin43} 3. PROJETO SISTEMAS DE CONTROLE AMBIENTAL
 - **Anexo XIII, linha 44** {#anexo13_lin44} 3.1 Informações sobre Efluentes Líquidos:
 - **Anexo XIII, linha 45** {#anexo13_lin45} a) Caracterização dos efluentes líquidos gerados na implantação e operação do empreendimento;
-- **Anexo XIII, linha 46** {#anexo13_lin46} b) Descrição do sistema de tratamento adotado para os efluentes líquidos gerados na implantação e operação do empreendimento, acompanhado de dimensionamento das unidades que compõem o sistema;
-- **Anexo XIII, linha 47** {#anexo13_lin47} c) Descrição dos dispositivos de drenagem pluvial.
+- **Anexo XIII, linha 46** {#anexo13_lin46} #tratamento-efluente b) Descrição do sistema de tratamento adotado para os efluentes líquidos gerados na implantação e operação do empreendimento, acompanhado de dimensionamento das unidades que compõem o sistema;
+- **Anexo XIII, linha 47** {#anexo13_lin47} #agua-pluvial c) Descrição dos dispositivos de drenagem pluvial.
 - **Anexo XIII, linha 48** {#anexo13_lin48} 3.2 Informações sobre Resíduos Sólidos
 - **Anexo XIII, linha 49** {#anexo13_lin49} a) Identificação dos resíduos sólidos gerados durante a operação do empreendimento;
-- **Anexo XIII, linha 50** {#anexo13_lin50} b) Descrição das etapas de gerenciamento dos resíduos no local: segregação, coleta, acondicionamento, armazenamento, tratamento e destinação final;
-- **Anexo XIII, linha 51** {#anexo13_lin51} c) Descrição das áreas de armazenamento temporário de resíduos, de acordo com as ABNT e NBR 11174 e 12235.
+- **Anexo XIII, linha 50** {#anexo13_lin50} #gerenciamento-residuo b) Descrição das etapas de gerenciamento dos resíduos no local: segregação, coleta, acondicionamento, armazenamento, tratamento e destinação final;
+- **Anexo XIII, linha 51** {#anexo13_lin51} #armazenamento-residuo c) Descrição das áreas de armazenamento temporário de resíduos, de acordo com as ABNT e NBR 11174 e 12235.
 - **Anexo XIII, linha 52** {#anexo13_lin52} 3.3 Informações das Atividades de apoio
-- **Anexo XIII, linha 53** {#anexo13_lin53} a) Fornecer a relação de produtos químicos manuseados em sua atividade e respectivas quantidades estocadas. Caso haja na instalação substancias em quantidades superiores às apresentadas na [[portaria-iap-159-2015|Portaria IAP 159/2015]], ou outra que venha a substituí-la, deverá possuir Programa de Gerenciamento de Risco;
+- **Anexo XIII, linha 53** {#anexo13_lin53} #pgr a) Fornecer a relação de produtos químicos manuseados em sua atividade e respectivas quantidades estocadas. Caso haja na instalação substancias em quantidades superiores às apresentadas na [[portaria-iap-159-2015|Portaria IAP 159/2015]], ou outra que venha a substituí-la, deverá possuir Programa de Gerenciamento de Risco;
 - **Anexo XIII, linha 54** {#anexo13_lin54} b) Descrever e mapear, em planta planialtimétrica em escala adequada, a necessidade de cortes, aterros e drenagem para a implantação e operação do empreendimento, e localização de possíveis áreas de empréstimo e bota-fora;
 - **Anexo XIII, linha 55** {#anexo13_lin55} c) Estimar a mão de obra necessária para implantação e operação do empreendimento. Em relação à operação, indicar ainda a qualificação técnica dos funcionários;
 - **Anexo XIII, linha 56** {#anexo13_lin56} d) Cronograma de implantação.
 - **Anexo XIII, linha 57** {#anexo13_lin57} 4. IMPACTOS AMBIENTAIS E MEDIDAS MITIGADORAS OU COMPENSATÓRIAS
-- **Anexo XIII, linha 58** {#anexo13_lin58} Identificar os principais impactos que poderão ocorrer em função das diversas ações previstas para a implantação e operação do empreendimento: conflitos de uso do solo e da água, interferência na infraestrutura e paisagem existente, interferência em Áreas de Preservação Permanente, supressão de cobertura vegetal, erosão e assoreamento, desapropriação entre outros, e as medidas mitigadoras ou compensatórias equivalentes.
+- **Anexo XIII, linha 58** {#anexo13_lin58} #impacto-ambiental #medida-mitigadora Identificar os principais impactos que poderão ocorrer em função das diversas ações previstas para a implantação e operação do empreendimento: conflitos de uso do solo e da água, interferência na infraestrutura e paisagem existente, interferência em Áreas de Preservação Permanente, supressão de cobertura vegetal, erosão e assoreamento, desapropriação entre outros, e as medidas mitigadoras ou compensatórias equivalentes.
 - **Anexo XIII, linha 59** {#anexo13_lin59} 5. CONCLUSÃO
 - **Anexo XIII, linha 60** {#anexo13_lin60} Deve refletir os resultados das análises realizadas referentes às prováveis modificações em função da atividade, inclusive com as medidas mitigadoras, potencializadoras, de controle ou compensatórias propostas, de forma a concluir quanto à viabilidade ambiental ou não da atividade proposta.
 

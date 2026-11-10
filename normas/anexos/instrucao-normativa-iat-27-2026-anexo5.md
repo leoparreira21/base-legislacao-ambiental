@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Projeto Técnico Ambiental de Aquicultura"
 atividades: [aquicultura, maricultura]
 modalidades: [lac, las, lp, li, lasa, lpa, lia, lasr, lir]
-tags: [aquicultura, maricultura, estudo-ambiental, monitoramento, app, porte]
+tags: [app, aquicultura, impacto-ambiental, medida-compensatoria, medida-mitigadora, monitoramento, porte, responsavel-tecnico]
 fonte: "PDF IN 27 2026.pdf, Instituto Água e Terra, enviado pelo usuário; páginas 75, 76."
 ---
 
@@ -14,11 +14,11 @@ fonte: "PDF IN 27 2026.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 ## Texto do anexo
 
-- **Anexo V, linha 1** {#anexo5_lin1} 1 - Identificação do empreendedor e do responsável técnico do empreendimento;
+- **Anexo V, linha 1** {#anexo5_lin1} #aquicultura #responsavel-tecnico 1 - Identificação do empreendedor e do responsável técnico do empreendimento;
 
 - **Anexo V, linha 2** {#anexo5_lin2} 2 - Localização do empreendimento a ser instalado/ou e funcionamento;
 
-- **Anexo V, linha 3** {#anexo5_lin3} 2.1 - Para empreendimentos de médio e grande porte: planta de localização do empreendimento, delimitando sua poligonal em Coordenadas Geográficas (admitido erro de até 30 m), com indicação de APP, Corpos Hídricos e Acessos.
+- **Anexo V, linha 3** {#anexo5_lin3} #app #porte 2.1 - Para empreendimentos de médio e grande porte: planta de localização do empreendimento, delimitando sua poligonal em Coordenadas Geográficas (admitido erro de até 30 m), com indicação de APP, Corpos Hídricos e Acessos.
 
 - **Anexo V, linha 4** {#anexo5_lin4} 3 - Características técnicas do empreendimento (descrever todo manejo produtivo):
 
@@ -38,15 +38,15 @@ fonte: "PDF IN 27 2026.pdf, Instituto Água e Terra, enviado pelo usuário; pág
 
 - **Anexo V, linha 12** {#anexo5_lin12} 5 - Impactos ambientais:
 
-- **Anexo V, linha 13** {#anexo5_lin13} 5.1 - Para empreendimentos de pequeno porte descrever os potenciais impactos ambientais gerados pelo empreendimento, indicando as respectivas medidas mitigadoras e compensatórias;
+- **Anexo V, linha 13** {#anexo5_lin13} #impacto-ambiental 5.1 - Para empreendimentos de pequeno porte descrever os potenciais impactos ambientais gerados pelo empreendimento, indicando as respectivas medidas mitigadoras e compensatórias;
 
 - **Anexo V, linha 14** {#anexo5_lin14} 5.2 - Para empreendimentos de médio e grande porte:
 
 - **Anexo V, linha 15** {#anexo5_lin15} 5.2.1 - Identificar e avaliar os impactos ambientais nas fases de instalação, operação e desativação do empreendimento, dentre outros;
 
-- **Anexo V, linha 16** {#anexo5_lin16} 6 - Medidas Mitigadoras e compensatórias: com base na avaliação dos possíveis impactos ambientais do empreendimento deverão ser propostas as medidas que venham a minimizá-los, maximizá-los, compensá-los ou eliminá-los, podendo ser consubstanciadas em Programas Ambientais;
+- **Anexo V, linha 16** {#anexo5_lin16} #medida-mitigadora #medida-compensatoria 6 - Medidas Mitigadoras e compensatórias: com base na avaliação dos possíveis impactos ambientais do empreendimento deverão ser propostas as medidas que venham a minimizá-los, maximizá-los, compensá-los ou eliminá-los, podendo ser consubstanciadas em Programas Ambientais;
 
-- **Anexo V, linha 17** {#anexo5_lin17} 7 - Programa de monitoramento ambiental;
+- **Anexo V, linha 17** {#anexo5_lin17} #monitoramento 7 - Programa de monitoramento ambiental;
 
 - **Anexo V, linha 18** {#anexo5_lin18} 8 - Anexar ao Projeto Técnico pelo menos quatro fotografias do local do empreendimento que permitam uma visão ampla das suas condições.
 

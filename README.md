@@ -9,6 +9,9 @@ normas/            um arquivo .md por norma
 normas/anexos/     anexos de diretrizes de estudos e termos de referência (tipo 2), um arquivo por anexo
 normas/comentarios/ comentários oficiais a uma norma (ex.: versão comentada da Anvisa), um arquivo por documento
 scripts/validar.py validação da base (rodar antes de cada commit)
+scripts/conversor_planalto/ conversor de PDF compilado (Planalto/Câmara) para o padrão da base
+html/              versão HTML de consulta de cada norma e catalogo.js (gerados por scripts/gerar_html.py; não editar à mão)
+biblioteca/        código-fonte da biblioteca (site/biblioteca.html): lista das normas com busca, filtros e leitor
 tags.md            lista das tags em uso (gerada pelo script)
 glossario.md       termos técnicos já pesquisados, com fonte (reaproveitado pelos agentes)
 licoes.md          armadilhas e contornos registrados pelos agentes (ver CLAUDE.md)
@@ -19,6 +22,8 @@ licoes.md          armadilhas e contornos registrados pelos agentes (ver CLAUDE.
 ### Nome do arquivo
 `tipo-orgao/esfera-numero-ano.md`, tudo em minúsculas, sem acento e sem pontos no número.
 Exemplos: `lei-estadual-22252-2024`, `decreto-estadual-9541-2025`, `resolucao-cema-107-2020`, `lei-federal-12651-2012`, `lei-complementar-federal-140-2011`, `resolucao-conjunta-sedest-iat-6-2023`.
+
+Outros tipos (propostas de 09/11/2026, em uso): `constituicao-federal-1988` (`tipo: constituicao`, `numero: "s/n"`), `emenda-constitucional-federal-N-AAAA`, `emenda-constitucional-revisao-federal-N-AAAA`, `decreto-lei-federal-N-AAAA`, `medida-provisoria-N-AAAA`. Artigo com milhar ("Art. 1.015"): ID `art1015`, rótulo como no original.
 
 ### Frontmatter
 ```yaml
@@ -59,7 +64,7 @@ As relações são **recíprocas**: se A `altera` B, B tem A em `alterado_por`. 
 | Tabela no corpo de um artigo | `art14_tab1` | `**Art. 14, Tabela I**` |
 | Linha de tabela no corpo de um artigo | `art14_tab1_lin3` | `- **Art. 14, Tabela I, linha 3**` |
 
-Títulos, capítulos e seções usam `##`, `###`, `####` e `#####`; artigos usam `######`. Abaixo do cabeçalho de cada artigo vai uma linha `Tags:` com as tags do artigo inteiro.
+Títulos, capítulos e seções usam `##`, `###`, `####` e `#####`; artigos usam `######`. Em códigos com seis níveis (Parte, Livro, Título, Capítulo, Seção, Subseção), a Parte entra no título do seu primeiro Livro e Seção e Subseção ficam ambas em `#####`. Na Constituição, o ADCT fica no mesmo arquivo, sob `## ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS {#adct}`, com IDs prefixados (`adct_art1`, `adct_art2_par1`). Abaixo do cabeçalho de cada artigo vai uma linha `Tags:` com as tags do artigo inteiro.
 
 ### Links
 - Para outra norma: `[[lei-federal-12651-2012#art3|incisos VIII e IX do art. 3º da Lei 12.651/2012]]`
@@ -172,6 +177,26 @@ python scripts/validar.py --tags                   # atualiza tags.md
 python scripts/validar.py --afetados NOME-DA-NORMA # outras normas que apontam para dispositivos revogados ou alterados
 ```
 
+## Consulta em HTML (dispositivos com recolher/expandir)
+
+`python scripts/gerar_html.py` grava em `html/` uma página por norma (e por comentário), mais `html/index.html` com a lista e `html/catalogo.js` (metadados de cada norma, para a biblioteca). Cada página é um arquivo único, abre direto no navegador e também é publicada no site (`/html/`).
+
+A biblioteca (`site/biblioteca.html`, publicada em `/biblioteca.html`) reúne as páginas: lista das normas com busca (número, nome, apelido, órgão, ementa), filtros por esfera, situação e tipo, e leitor do texto ao lado. Ela lê `html/catalogo.js`, então norma nova aparece nela assim que `html/` é regerado; o comentário da RDC 222 fica de fora. Fonte e instruções de recompilação em `biblioteca/README.md`.
+
+- O botão "Expandir tudo / Recolher artigos / Recolher tudo" guarda o estado no atributo `data-estado` do próprio botão, para continuar certo numa cópia salva pelo navegador ("Salvar como → Página completa", que grava o DOM já alterado). Cópias em MHTML ("Página da Web, arquivo único") não rodam scripts no Chrome: nelas só os títulos abrem e fecham.
+
+- A página da norma traz o corpo e os anexos, na ordem da publicação. O texto de cada anexo em `normas/anexos/` (ligado pelo campo `norma_mae`) entra sob o título `ANEXO N {#anexoN}` da norma-mãe; a seção "Texto do anexo" é desfeita e a síntese e as notas do anexo ficam como subseções (IDs `anexoN-sintese`, `anexoN-notas-transcricao`). Links `[[arquivo-do-anexo#id]]` apontam para a página da norma-mãe. Todo título "ANEXO…" fica no nível da norma (ou sob o grupo "ANEXOS"), nunca dentro do último capítulo.
+- Os arquivos Markdown continuam separados (o padrão de anexos não muda); a junção é só no HTML.
+- Tabelas: as linhas `**…, Tabela T, linha M** {#…_tabT_linM} Coluna: valor | Coluna: valor` voltam a ser uma `<table>` com o formato da publicação: cabeçalho tirado das chaves (chave `Grupo — Sub` vira cabeçalho em níveis, com colspan), subcabeçalho quando só a primeira coluna muda de nome (ex.: PARÂMETROS → PARÂMETROS INORGÂNICOS), linhas que a conversão separou reunidas (mesmos valores nas colunas comuns), células iguais seguidas nas primeiras colunas mescladas, linha sem chaves (nota, item excluído) em largura inteira, `_tabT_cab` só usado se as linhas não trouxerem as colunas e `_tabT_obs` como linha final. Cada linha mantém o ID (no `<tr>` ou, se reunida, no `<td>`), então os links continuam chegando nela. Linhas de anexo comuns (`anexoN_linM`) não viram tabela.
+
+- Ao abrir: só o título, a ementa e os índices do primeiro nível (títulos ou capítulos; sem capítulos, os artigos; seções editoriais como "Notas de transcrição" aparecem como índices à parte).
+- Clicar num índice abre os índices ligados: capítulo → seções → artigos. Clicar num artigo abre tudo dele, já com os textos: caput, parágrafos, incisos, alíneas e itens. Nas NRs, os itens numerados seguem a numeração (13.1.3 → 13.1.3.1). Linhas de anexo aparecem direto ao abrir o anexo.
+- Cada artigo tem o seletor "Abrir até:": "Índices" fecha os dispositivos e deixa só os índices; os botões seguintes abrem o texto até aquele nível (ex.: "incisos e §§", "alíneas"). Os dispositivos continuam abrindo e fechando um a um.
+- Botão: "Expandir tudo" → "Recolher artigos" (só os índices de artigos, com a estrutura aberta) → "Recolher tudo" (volta aos capítulos).
+- `pagina.html#art3_cpt_inc7` abre o caminho até o dispositivo e o destaca; os links `[[norma#id]]` viram links entre as páginas, e norma fora da base fica sublinhada em pontilhado.
+
+A hierarquia sai dos cabeçalhos e dos IDs LexML, então nada muda no padrão das normas. **Depois de incluir ou alterar uma norma, rode o script e faça commit de `html/` junto.**
+
 ## Consulta e auditoria de recuperação
 
 - [Prompt do agente (v2)](consultas/prompt-agente.md): fonte exclusiva, matriz temática, datas, condições, ressalvas e resposta A–E. A seção 3.1 traz a diretriz de prevalência do limite mais restritivo para parâmetros de controle ambiental (menor limite superior, maior limite inferior), com definição, procedimento e exemplo.
@@ -200,3 +225,18 @@ Página estática publicada pelo GitHub Pages a cada push na `main` (`.github/wo
 Blocos de busca: o texto vira blocos de palavras (sem palavras genéricas da lista `GENERICO` de `site/motor.js`, como «norma», «atividade», «recurso»), somados aos sinônimos. Em seguida, cada tag da base cujas palavras estão todas na busca vira um bloco e absorve os blocos de palavras que cobre («resíduos de serviços de saúde» → `#residuo-servico-saude`). Trecho marcado com a tag conta o bloco inteiro, com peso maior; trecho sem a tag ainda conta pelas palavras. Sem tag correspondente, a busca fica só com as palavras. Tag contida em outra maior fica de fora, e tag de uma só palavra genérica (`#saude`) não vira bloco. As tags não mudam quais normas são admitidas, só a ordem dos trechos e das normas.
 
 Critério de admissão (fixo, não afrouxa quando há poucos resultados): (1) norma setorial só pelo âmbito; (2) norma transversal pela ementa; (3) qualquer norma cuja lista de enquadramento cite o código CNAE escolhido na triagem, o termo de enquadramento da CNAE (núcleo da atividade ou nome da divisão) ou todos os termos buscados. Resultado vazio indica lacuna da base ou da legislação.
+
+## Proposta de organização das tags (em revisão)
+
+A proposta de taxonomia facetada está em `consultas/taxonomia-tags.proposta.json`,
+com [relatório, cobertura e limitações](auditorias/tags-2026-11-07/relatorio.md).
+Ela não é consumida pelo motor atual. Grupos são ramos de navegação; `pai` representa
+termo mais amplo e `aliases` normaliza grafias equivalentes. A classificação das
+ocorrências continua exigindo leitura do dispositivo e de seu contexto.
+Valide a consistência da proposta com `python scripts/auditar_taxonomia_tags.py`.
+
+A [continuidade da revisão semântica](auditorias/tags-2026-11-07/continuidade-2026-11-08.md)
+registra decisões e pendências. `python scripts/integrar_revisao_tags.py` confere as
+decisões contra os arquivos atuais e gera um grafo de revisão compatível com o
+formato de extração do Graphify. `--tag TAG --limite 5` recupera só os dispositivos
+relevantes do grafo; identidade textual nunca aplica uma decisão automaticamente.

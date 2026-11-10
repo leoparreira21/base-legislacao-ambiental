@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [triagem-residuo-reciclavel]
 modalidades: [las, lasa, lasr, li, lia, lir]
-tags: [diretriz-estudo, pca, acondicionamento, agua-pluvial, app, armazenamento-residuo, art-anotacao, bem-cultural, captacao, cnpj, cobertura-residuo, conservacao-solo, controle-ambiental, corpo-hidrico, cpf, destinacao-final, diagnostico-ambiental, dimensionamento, efluente, emissao-atmosferica, esgoto-sanitario, especie-exotica, fauna, geologia, gerenciamento-residuo, impacto-ambiental, iphan, medida-compensatoria, medida-mitigadora, movimentacao-solo, obra-civil, odor, passivo-ambiental, poluicao-sonora, reciclagem, reserva-legal, residuo-construcao-civil, residuo-solido, responsavel-legal, responsavel-tecnico, segregacao, sistema-isolamento, terraplanagem, transporte, tratamento-efluente, tratamento-esgoto, triagem, unidade-conservacao, uso-solo, vegetacao-nativa]
+tags: [acondicionamento, agua-pluvial, app, armazenamento-residuo, art-anotacao, bem-cultural, captacao, cobertura-residuo, conservacao-solo, controle-ambiental, corpo-hidrico, destinacao-final, diagnostico-ambiental, dimensionamento, efluente, emissao-atmosferica, esgoto-sanitario, especie-exotica, fauna, geologia, gerenciamento-residuo, impacto-ambiental, medida-compensatoria, medida-mitigadora, nascente, odor, poluicao-sonora, reserva-legal, residuo-construcao-civil, residuo-solido, responsavel-legal, responsavel-tecnico, segregacao, sistema-isolamento, terraplanagem, transporte, tratamento-efluente, tratamento-esgoto, triagem, unidade-conservacao, uso-solo, vegetacao-nativa]
 fonte: PDF da IN IAT 31/2025 (82c2ed80-IN_312025.pdf), páginas 55 a 59
 ---
 
@@ -22,20 +22,20 @@ fonte: PDF da IN IAT 31/2025 (82c2ed80-IN_312025.pdf), páginas 55 a 59
 - **Anexo IV, linha 1** {#anexo4_lin1} #art-anotacao #responsavel-tecnico O PLANO DE CONTROLE AMBIENTAL deverá ser elaborado por técnico habilitado e apresentados para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 - **Anexo IV, linha 2** {#anexo4_lin2} 1. DADOS CADASTRAIS
 - **Anexo IV, linha 3** {#anexo4_lin3} • Razão social;
-- **Anexo IV, linha 4** {#anexo4_lin4} #cnpj • CNPJ;
+- **Anexo IV, linha 4** {#anexo4_lin4} • CNPJ;
 - **Anexo IV, linha 5** {#anexo4_lin5} • Endereço;
 - **Anexo IV, linha 6** {#anexo4_lin6} #responsavel-legal • Nome do representante legal;
-- **Anexo IV, linha 7** {#anexo4_lin7} #responsavel-legal • Telefone do representante legal;
-- **Anexo IV, linha 8** {#anexo4_lin8} #responsavel-legal • E-mail do representante legal;
+- **Anexo IV, linha 7** {#anexo4_lin7} • Telefone do representante legal;
+- **Anexo IV, linha 8** {#anexo4_lin8} • E-mail do representante legal;
 - **Anexo IV, linha 9** {#anexo4_lin9} • Pessoa para contato;
 - **Anexo IV, linha 10** {#anexo4_lin10} • Telefone da pessoa para contato;
 - **Anexo IV, linha 11** {#anexo4_lin11} • E-mail da pessoa para contato.
 - **Anexo IV, linha 12** {#anexo4_lin12} #responsavel-tecnico 2. DADOS DO RESPOSNÁVEL TÉCNICO PELO PCA
-- **Anexo IV, linha 13** {#anexo4_lin13} #responsavel-tecnico • Nome do responsável
+- **Anexo IV, linha 13** {#anexo4_lin13} • Nome do responsável
 - **Anexo IV, linha 14** {#anexo4_lin14} • Razão social
-- **Anexo IV, linha 15** {#anexo4_lin15} #cpf #cnpj • CPF ou CNPJ
+- **Anexo IV, linha 15** {#anexo4_lin15} • CPF ou CNPJ
 - **Anexo IV, linha 16** {#anexo4_lin16} • Endereço;
-- **Anexo IV, linha 17** {#anexo4_lin17} #art-anotacao #responsavel-tecnico • Anotação de Responsabilidade Técnica – ART
+- **Anexo IV, linha 17** {#anexo4_lin17} #art-anotacao • Anotação de Responsabilidade Técnica – ART
 - **Anexo IV, linha 18** {#anexo4_lin18} 3. DESCRIÇÃO DA ATIVIDADE/EMPREENDIMENTO
 - **Anexo IV, linha 19** {#anexo4_lin19} 3.1. Concepção e justificativa de projeto
 - **Anexo IV, linha 20** {#anexo4_lin20} Devem ser apresentadas a concepção e a metodologia de operação, justificando face às suas finalidades.
@@ -43,24 +43,24 @@ fonte: PDF da IN IAT 31/2025 (82c2ed80-IN_312025.pdf), páginas 55 a 59
 - **Anexo IV, linha 22** {#anexo4_lin22} Devem ser apresentadas as seguintes informações sobre a área total do projeto: área total, área utilizada e área livre.
 - **Anexo IV, linha 23** {#anexo4_lin23} 3.3. Caracterização do empreendimento
 - **Anexo IV, linha 24** {#anexo4_lin24} • Fluxograma e descrição detalhada do processo: Apresentar uma descrição da atividade, bem como um fluxograma detalhado da operação, contendo todas as atividades realizadas no empreendimento.
-- **Anexo IV, linha 25** {#anexo4_lin25} #triagem #reciclagem • Informações sobre os resíduos: origem, composição/gravimetria; quantidade diária e mensal a ser recebida, frequência e horário de recebimento
-- **Anexo IV, linha 26** {#anexo4_lin26} #triagem #segregacao #acondicionamento • Triagem dos resíduos: descrever a forma de triagem, equipamento e instalações utilizadas no processo, forma de acondicionamento dos materiais triados.
+- **Anexo IV, linha 25** {#anexo4_lin25} #triagem • Informações sobre os resíduos: origem, composição/gravimetria; quantidade diária e mensal a ser recebida, frequência e horário de recebimento
+- **Anexo IV, linha 26** {#anexo4_lin26} #triagem #acondicionamento • Triagem dos resíduos: descrever a forma de triagem, equipamento e instalações utilizadas no processo, forma de acondicionamento dos materiais triados.
 - **Anexo IV, linha 27** {#anexo4_lin27} #armazenamento-residuo • Capacidade estática do empreendimento;
 - **Anexo IV, linha 28** {#anexo4_lin28} • Instalações de apoio;
 - **Anexo IV, linha 29** {#anexo4_lin29} #sistema-isolamento • Acessos e isolamento da área.
-- **Anexo IV, linha 30** {#anexo4_lin30} #obra-civil #terraplanagem 3.4. Informações referente à implantação: descrição das intervenções previstas para implantação do empreendimento, infraestrutura necessária (canteiro do obras), como terraplanagem e outros.
+- **Anexo IV, linha 30** {#anexo4_lin30} #terraplanagem 3.4. Informações referente à implantação: descrição das intervenções previstas para implantação do empreendimento, infraestrutura necessária (canteiro do obras), como terraplanagem e outros.
 - **Anexo IV, linha 31** {#anexo4_lin31} #diagnostico-ambiental 4. DIAGNÓSTICO AMBIENTAL
 - **Anexo IV, linha 32** {#anexo4_lin32} 4.1. Caracterização da área
 - **Anexo IV, linha 33** {#anexo4_lin33} #uso-solo • Uso e ocupação do solo;
-- **Anexo IV, linha 34** {#anexo4_lin34} #uso-solo #passivo-ambiental • Uso atual e pretérito da área;
+- **Anexo IV, linha 34** {#anexo4_lin34} #uso-solo • Uso atual e pretérito da área;
 - **Anexo IV, linha 35** {#anexo4_lin35} #corpo-hidrico • Corpos hídricos existentes na área;
-- **Anexo IV, linha 36** {#anexo4_lin36} #corpo-hidrico #app • Existência de nascentes e olhos d’água;
+- **Anexo IV, linha 36** {#anexo4_lin36} #nascente • Existência de nascentes e olhos d’água;
 - **Anexo IV, linha 37** {#anexo4_lin37} #conservacao-solo • Suscetibilidade do terreno à erosão;
 - **Anexo IV, linha 38** {#anexo4_lin38} #vegetacao-nativa #especie-exotica • Existência de cobertura florestal informando áreas de vegetação nativa e exótica;
 - **Anexo IV, linha 39** {#anexo4_lin39} #app • Existência de áreas de preservação permanente;
 - **Anexo IV, linha 40** {#anexo4_lin40} #reserva-legal • Ocorrência de Reserva Legal;
 - **Anexo IV, linha 41** {#anexo4_lin41} #fauna • Espécies de animais predominantes, quando aplicável;
-- **Anexo IV, linha 42** {#anexo4_lin42} #iphan #bem-cultural • Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;
+- **Anexo IV, linha 42** {#anexo4_lin42} #bem-cultural • Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;
 - **Anexo IV, linha 43** {#anexo4_lin43} #geologia • Caracterização da geomorfologia/relevo;
 - **Anexo IV, linha 44** {#anexo4_lin44} #unidade-conservacao • Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais na área do empreendimento e no seu entorno.
 - **Anexo IV, linha 45** {#anexo4_lin45} #impacto-ambiental #medida-mitigadora #medida-compensatoria 4.2. Identificação dos impactos ambientais: identificar os principais impactos que poderão ocorrer em função da implantação e operação do empreendimento. Para cada impacto indicado, descrever as medidas mitigatórias, de controle ou de compensação correspondente.
@@ -82,8 +82,8 @@ fonte: PDF da IN IAT 31/2025 (82c2ed80-IN_312025.pdf), páginas 55 a 59
 - **Anexo IV, linha 61** {#anexo4_lin61} #residuo-construcao-civil #destinacao-final • A destinação final dos resíduos gerados na etapa de implantação deverá ocorrer conforme [[resolucao-conama-307-2002#art10|Art. 10 da Resolução CONAMA nº 307, de 05 de julho de 2002]].
 - **Anexo IV, linha 62** {#anexo4_lin62} #emissao-atmosferica 5.6. Emissões Atmosféricas
 - **Anexo IV, linha 63** {#anexo4_lin63} #emissao-atmosferica #poluicao-sonora #odor Identificar as fontes de emissões atmosféricas. Descrever os sistemas de controle ambiental adotados, em especial quanto à ruídos e odores.
-- **Anexo IV, linha 64** {#anexo4_lin64} #movimentacao-solo #terraplanagem 5.7. Movimentação de solo
-- **Anexo IV, linha 65** {#anexo4_lin65} #movimentacao-solo #terraplanagem Caso necessário, apresentar projeto de terraplenagem
+- **Anexo IV, linha 64** {#anexo4_lin64} #terraplanagem 5.7. Movimentação de solo
+- **Anexo IV, linha 65** {#anexo4_lin65} #terraplanagem Caso necessário, apresentar projeto de terraplenagem
 - **Anexo IV, linha 66** {#anexo4_lin66} 6. REPRESENTAÇÃO GRÁFICA
 - **Anexo IV, linha 67** {#anexo4_lin67} 6.1. Planta da concepção geral
 - **Anexo IV, linha 68** {#anexo4_lin68} #triagem 6.2. Planta com detalhes da Unidade de Triagem de Resíduos Sólidos Recicláveis e reutilizáveis

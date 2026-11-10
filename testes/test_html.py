@@ -1,0 +1,200 @@
+"""Testes do gerador das páginas HTML de consulta (scripts/gerar_html.py)."""
+import re
+import sys
+import tempfile
+import unittest
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / 'scripts'))
+import gerar_html as g  # noqa: E402
+
+MD = """---
+norma: Lei Teste nº 1/2026
+ementa: "Ementa de teste."
+situacao: vigente
+---
+
+# Lei Teste nº 1/2026 {#lei-teste-1-2026}
+
+> **Ementa:** Ementa de teste.
+
+## CAPÍTULO I – GERAL
+
+### Seção I – Primeira
+
+###### Art. 1º {#art1}
+Tags: #teste
+
+**Art. 1º, caput** {#art1_cpt} #teste Texto do caput, ver [[outra-norma#art2|art. 2º]]:
+- **Art. 1º, caput, inciso I** {#art1_cpt_inc1} primeiro;
+  - **Art. 1º, caput, inciso I, alínea "a"** {#art1_cpt_inc1_alia} alínea a;
+
+**Art. 1º, parágrafo único** {#art1_par1u} Parágrafo.
+
+## Notas de transcrição {#notas-transcricao}
+
+Nota livre.
+
+**Fecho** {#fecho} Brasília, 2026.
+"""
+
+
+def arvore():
+    fm, corpo = g.ler_frontmatter(MD)
+    conv = g.Conversor({'outra-norma'}, 'lei-teste-1-2026', Path('.'), Path('.'))
+    titulo, cab, raiz = g.montar(corpo, conv)
+    g.marcar_pais(raiz)
+    return fm, titulo, cab, raiz
+
+
+class TestGerarHtml(unittest.TestCase):
+    def test_hierarquia(self):
+        _, titulo, cab, raiz = arvore()
+        self.assertEqual(titulo, 'Lei Teste nº 1/2026 {#lei-teste-1-2026}'.split(' {')[0])
+        self.assertIn('Ementa de teste', cab[0])
+        cap, notas, fecho = raiz.filhos()
+        self.assertEqual((cap.tipo, notas.tipo, fecho.id), ('sec', 'sec', 'fecho'))
+        secao = cap.filhos()[0]
+        art = secao.filhos()[0]
+        self.assertEqual(art.id, 'art1')
+        cpt, par = art.filhos()
+        self.assertEqual((cpt.tipo, par.id), ('cpt', 'art1_par1u'))
+        inc = cpt.filhos()[0]
+        self.assertEqual(inc.filhos()[0].id, 'art1_cpt_inc1_alia')
+        self.assertTrue(cap.tem_artigo())
+        self.assertFalse(notas.tem_artigo())
+
+    def test_render(self):
+        _, _, _, raiz = arvore()
+        h = g.render(raiz)
+        self.assertIn('<details class="sec estrutura n2"', h)
+        self.assertIn('<details class="sec extra n2" id="notas-transcricao"', h)
+        self.assertIn('<div class="cpt" id="art1_cpt">', h)
+        self.assertIn('<summary title="Art. 1º, caput, inciso I">I</summary>', h)
+        self.assertIn('<summary title="Art. 1º, caput, inciso I, alínea &quot;a&quot;">a)</summary>', h)
+        self.assertIn('<a href="outra-norma.html#art2">art. 2º</a>', h)
+        self.assertNotIn('#teste', h)
+
+    def test_niveis_do_artigo(self):
+        _, _, _, raiz = arvore()
+        art = raiz.filhos()[0].filhos()[0].filhos()[0]
+        self.assertEqual(g.niveis_do_artigo(art), [['incisos', '§§'], ['alíneas']])
+        h = g.render(raiz)
+        self.assertIn('data-nivel="2" class="ativo"', h)
+        self.assertIn('id="art1_cpt_inc1_alia" data-p="2"', h)
+
+    def test_ancestrais_nr(self):
+        self.assertEqual(list(g.ancestrais('ite13-1-3-1')), ['ite13-1-3', 'ite13-1', 'ite13'])
+        self.assertEqual(list(g.ancestrais('art5_par2_inc3')), ['art5_par2', 'art5'])
+
+
+class TestTabelas(unittest.TestCase):
+    MD = """# Lei T {#lei-t}
+
+###### Art. 1º {#art1}
+
+**Art. 1º, caput** {#art1_cpt} Conforme a tabela.
+
+**Art. 1º, Tabela 1** {#art1_tab1} TABELA 1
+
+- **Art. 1º, Tabela 1, linha 1** {#art1_tab1_lin1} Porte: Micro | Área (ha): até 10 | Método — Aspersão: DLAM
+- **Art. 1º, Tabela 1, linha 2** {#art1_tab1_lin2} Porte: Micro | Área (ha): até 10 | Método — Localizada: LAC
+- **Art. 1º, Tabela 1, linha 3** {#art1_tab1_lin3} Porte: Pequeno | Área (ha): 10 a 100 | Método — Aspersão: LAS | Método — Localizada: LAS
+- **Art. 1º, Tabela 1, linha 4** {#art1_tab1_lin4} PARÂMETROS: X | Área (ha): 1 | Método — Aspersão: a | Método — Localizada: b
+- **Art. 1º, Tabela 1, linha 5** {#art1_tab1_lin5} PARÂMETROS: X | Área (ha): 2 | Método — Aspersão: c | Método — Localizada: d
+- **Art. 1º, Tabela 1, linha 6** {#art1_tab1_lin6} #revogado *(Excluído pela [[lei-x#art2\\|Lei X]])*
+"""
+
+    def test_tabela_reconstruida(self):
+        conv = g.Conversor({'lei-x'}, 'lei-t', Path('.'), Path('.'))
+        _, _, raiz = g.montar(self.MD, conv)
+        h = g.render(raiz)
+        self.assertEqual(h.count('<table>'), 1)
+        self.assertIn('<th colspan="2">Método</th>', h)              # cabeçalho em dois níveis
+        self.assertIn('<th rowspan="2">Porte</th>', h)
+        self.assertIn('<td id="art1_tab1_lin2">LAC</td>', h)          # linhas separadas pela conversão, reunidas
+        self.assertNotIn('<tr id="art1_tab1_lin2"', h)
+        self.assertIn('<th rowspan="2">PARÂMETROS</th>', h)                     # subcabeçalho (primeira coluna muda)
+        self.assertIn('<td rowspan="2">X</td>', h)                    # células iguais mescladas
+        self.assertIn('<tr id="art1_tab1_lin6" class="revogado"', h)
+        self.assertIn('<a href="lei-x.html#art2">Lei X</a>', h)
+        self.assertNotIn('Porte: Micro', h)
+
+    def test_linha_de_anexo_comum_nao_vira_tabela(self):
+        conv = g.Conversor(set(), 'x', Path('.'), Path('.'))
+        _, _, raiz = g.montar('### ANEXO I {#anexo1}\n\n- **Anexo I, linha 1** {#anexo1_lin1} Nome: Fulano | Cargo: X\n', conv)
+        self.assertNotIn('<table>', g.render(raiz))
+
+
+class TestLinksDaBase(unittest.TestCase):
+    def test_todos_os_links_chegam_ao_destino(self):
+        """Gera a base inteira e confere que cada link aponta para página e dispositivo existentes."""
+        with tempfile.TemporaryDirectory() as pasta:
+            argv = sys.argv
+            sys.argv = ['gerar_html.py', pasta]
+            try:
+                g.main()
+            finally:
+                sys.argv = argv
+            paginas = {f.name: f.read_text(encoding='utf-8') for f in Path(pasta).glob('*.html')}
+            ids = {n: set(re.findall(r' id="([^"]+)"', t)) for n, t in paginas.items()}
+            quebrados = []
+            for nome, texto in paginas.items():
+                for pag, frag in re.findall(r'<a href="([^"#:]+\.html)(?:#([^"]*))?"', texto):
+                    if pag not in ids or (frag and frag not in ids[pag]):
+                        quebrados.append((nome, pag, frag))
+                for frag in re.findall(r'<a href="#([^"]+)"', texto):
+                    if frag not in ids[nome]:
+                        quebrados.append((nome, '', frag))
+                self.assertNotRegex(texto, r'\{#[a-z0-9_-]+\}', f'ID cru no texto de {nome}')
+            self.assertEqual(quebrados, [])
+
+
+class TestAnexosNaNorma(unittest.TestCase):
+    def test_anexo_entra_no_titulo_da_norma_mae(self):
+        mae_md = """# Lei X {#lei-x}
+
+## CAPÍTULO I – GERAL
+
+###### Art. 1º {#art1}
+
+**Art. 1º, caput** {#art1_cpt} Ver [[lei-x-anexo2|Anexo II]].
+
+### ANEXO II – Termo {#anexo2}
+[[lei-x-anexo2|Texto do Anexo II]]
+
+## Notas de transcrição {#notas-transcricao}
+"""
+        anexo_md = """# ANEXO II — Termo
+
+## Texto do anexo {#texto-anexo}
+
+Introdução do termo.
+
+### 1. ITEM {#anexo2_sec1}
+
+- **Anexo II, linha 2** {#anexo2_lin2} Conteúdo.
+
+## Notas de transcrição {#notas-transcricao}
+
+Nota do anexo.
+"""
+        anexos = {'lei-x-anexo2': ('lei-x', 'anexo2')}
+        conv = g.Conversor({'lei-x'}, 'lei-x', Path('.'), Path('.'), anexos)
+        _, _, raiz = g.montar(mae_md, conv)
+        conv_a = g.Conversor({'lei-x'}, 'lei-x-anexo2', Path('.'), Path('.'), anexos)
+        _, _, raiz_a = g.montar(anexo_md, conv_a)
+        g.encaixar_anexo(raiz, 'lei-x', 'anexo2', raiz_a)
+        cap, anexo, notas = raiz.filhos()          # o ANEXO não fica dentro do capítulo
+        self.assertEqual((anexo.id, notas.id), ('anexo2', 'notas-transcricao'))
+        h = g.render(raiz)
+        self.assertIn('<a href="lei-x.html#anexo2">Anexo II</a>', h)
+        self.assertNotIn('Texto do Anexo II', h)
+        self.assertNotIn('Texto do anexo', h)
+        self.assertIn('id="anexo2-notas-transcricao"', h)
+        self.assertLess(h.index('Introdução do termo'), h.index('id="anexo2_lin2"'))
+        self.assertIn('class="sec anexo n3" id="anexo2"', h)
+
+
+if __name__ == '__main__':
+    unittest.main()

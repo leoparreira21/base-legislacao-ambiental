@@ -6,13 +6,13 @@ tipo_anexo: termo-referencia
 estudo: PCAS
 atividades: [empreendimento-imobiliario]
 modalidades: [las, lasa]
-tags: ["art-anotacao", "controle-ambiental", "ctf", "empreendimento-imobiliario", "impacto-ambiental", "las", "lasa", "medida-mitigadora", "monitoramento", "movimentacao-solo", "poluicao-sonora", "residuo-construcao-civil", "responsavel-tecnico", "termo-referencia", "vegetacao-nativa"]
+tags: [art-anotacao, controle-ambiental, impacto-ambiental, las, medida-mitigadora, monitoramento]
 ---
 ## Texto do anexo
 
 - **Anexo XIII, linha 1** {#anexo13_lin1} ANEXO XIII PLANO DE CONTROLE AMBIENTAL SIMPLIFICADO - PCAS
 
-- **Anexo XIII, linha 2** {#anexo13_lin2} O Plano de Controle Ambiental Simplificado-PCAS deve ser apresentado para o pedido da Licença Ambiental Simplificada - LAS tipo 3.
+- **Anexo XIII, linha 2** {#anexo13_lin2} #controle-ambiental #las O Plano de Controle Ambiental Simplificado-PCAS deve ser apresentado para o pedido da Licença Ambiental Simplificada - LAS tipo 3.
 
 - **Anexo XIII, linha 3** {#anexo13_lin3} 1. INFORMAÇÕES GERAIS
 
@@ -28,7 +28,7 @@ tags: ["art-anotacao", "controle-ambiental", "ctf", "empreendimento-imobiliario"
 
 - **Anexo XIII, linha 9** {#anexo13_lin9} − Pessoa de contato (nome completo, Cadastro Técnico Federal, endereço, telefone e e-mail);
 
-- **Anexo XIII, linha 10** {#anexo13_lin10} − Anotação de Responsabilidade Técnica - ART do responsável ou da empresa.
+- **Anexo XIII, linha 10** {#anexo13_lin10} #art-anotacao − Anotação de Responsabilidade Técnica - ART do responsável ou da empresa.
 
 - **Anexo XIII, linha 11** {#anexo13_lin11} 1.2. Dados da equipe técnica multidisciplinar (se aplicável):
 
@@ -48,11 +48,11 @@ tags: ["art-anotacao", "controle-ambiental", "ctf", "empreendimento-imobiliario"
 
 - **Anexo XIII, linha 19** {#anexo13_lin19} − Identificação do empreendimento;
 
-- **Anexo XIII, linha 20** {#anexo13_lin20} − Descrição dos impactos/interferências para as fases de implantação e operação do empreendimento, abordando aspectos negativos e positivos;
+- **Anexo XIII, linha 20** {#anexo13_lin20} #impacto-ambiental − Descrição dos impactos/interferências para as fases de implantação e operação do empreendimento, abordando aspectos negativos e positivos;
 
-- **Anexo XIII, linha 21** {#anexo13_lin21} − Indicação e descrição das medidas mitigadoras, de monitoramento e de controle ambiental propostas, referentes a ruídos, destinação de resíduos, movimentação de solo, impactos à vegetação, obras diversas, impactos à vizinhança, dentre outros de acordo com as necessidades e características do empreendimento;
+- **Anexo XIII, linha 21** {#anexo13_lin21} #medida-mitigadora #monitoramento #controle-ambiental − Indicação e descrição das medidas mitigadoras, de monitoramento e de controle ambiental propostas, referentes a ruídos, destinação de resíduos, movimentação de solo, impactos à vegetação, obras diversas, impactos à vizinhança, dentre outros de acordo com as necessidades e características do empreendimento;
 
-- **Anexo XIII, linha 22** {#anexo13_lin22} − Descrição do método de registro que comprove o controle dos impactos/interferências (fotos, relatórios, fichas de registro, comprovante de transporte de resíduos - CTR, documentos fiscais, etc.) e sua periodicidade de medição;
+- **Anexo XIII, linha 22** {#anexo13_lin22} #monitoramento − Descrição do método de registro que comprove o controle dos impactos/interferências (fotos, relatórios, fichas de registro, comprovante de transporte de resíduos - CTR, documentos fiscais, etc.) e sua periodicidade de medição;
 
 - **Anexo XIII, linha 23** {#anexo13_lin23} − O PCAS poderá servir de subsídio para a elaboração do Relatório Final da Obra, que deverá ser apresentado ao término da implantação do empreendimento;
 

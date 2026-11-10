@@ -1,0 +1,25 @@
+{
+  "arquivo": "normas/decreto-estadual-12799-2026.md",
+  "cobertura": "Leitura integral dos arts. 1–5, três blocos de nova redação, ementa e notas. Tags restantes preservadas por representarem objetos explícitos. Sem certificação externa de vigência. Remissões foram preservadas.",
+  "decisoes": [
+    {
+      "arquivo": "normas/decreto-estadual-12799-2026.md",
+      "id": "art5",
+      "antes": [
+        "certidao-municipal",
+        "artesanal",
+        "agricultura-familiar",
+        "dlam"
+      ],
+      "depois": [
+        "revogacao",
+        "certidao-municipal",
+        "artesanal",
+        "agricultura-familiar",
+        "dlam"
+      ],
+      "evidencia": "###### Art. 5º {#art5}\nTags: #revogacao #certidao-municipal #artesanal #agricultura-familiar #dlam\n\n**Art. 5º, caput** {#art5_cpt} Revoga os seguintes dispositivos do [[decreto-estadual-9541-2025|Decreto nº 9.541, de 10 de abril de 2025]]:\n- **Art. 5º, caput, inciso I** {#art5_cpt_inc1} #certidao-municipal o [[decreto-estadual-9541-2025#art13_cpt_inc4|inciso IV do caput do art. 13]];\n- **Art. 5º, caput, inciso II** {#art5_cpt_inc2} #certidao-municipal o [[decreto-estadual-9541-2025#art13_par1|§1º do art. 13]];\n- **Art. 5º, caput, inciso III** {#art5_cpt_inc3} #certidao-municipal o [[decreto-estadual-9541-2025#art13_par2|§2º do art. 13]];\n- **Art. 5º, caput, inciso IV** {#art5_cpt_inc4} #artesanal o [[decreto-estadual-9541-2025#art56_cpt_inc3|inciso III do art. 56]];\n- **Art. 5º, caput, inciso V** {#art5_cpt_inc5} #agricultura-familiar o [[decreto-estadual-9541-2025#art56_par1|§ 1º do art. 56]].\n\n---\n\n**Fecho** {#fecho} Curitiba, em 26 de fevereiro de 2026, 205° da Independência e 138° da República.\n\n- Carlos Massa Ratinho Junior – Governador do Estado\n- João Carlos Ortega – Chefe da Casa Civil\n- Rafael Greca de Macedo – Secretário de Estado do Desenvolvimento Sustentável\n\n---\n\n## N",
+      "justificativa": "Revogação expressa de dispositivos; faltava classificar a função jurídica do artigo. Não usar revogado no ato revogador."
+    }
+  ]
+}
