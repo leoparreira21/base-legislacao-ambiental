@@ -1,44 +1,240 @@
 {
  "_leia": "Âmbito das normas setoriais para a busca do site. Uma norma listada aqui só aparece se a atividade ou a busca citar uma destas expressões (sem acento). Normas fora desta lista são tratadas como transversais: entram quando a ementa cita um termo da busca. Anexos herdam o âmbito da norma-mãe. Ao incluir uma norma setorial na base, acrescente-a aqui.",
  "ambitos": {
-  "instrucao-normativa-iat-1-2020": ["reserva legal", "compensacao de reserva legal", "servidao ambiental", "unidade de conservacao"],
-  "instrucao-normativa-iat-3-2020": ["restauracao ecologica", "recomposicao de vegetacao", "reserva legal", "app", "area de uso restrito", "programa de regularizacao ambiental"],
-  "instrucao-normativa-iat-3-2024": ["atividade agropecuaria", "agropecuaria", "apa escarpa devoniana", "escarpa devoniana"],
-  "instrucao-normativa-iat-4-2024": ["assentamento de reforma agraria", "assentamento rural", "incra", "cadastro ambiental rural", "car"],
-  "instrucao-normativa-iat-5-2024": ["regularizacao fundiaria urbana", "reurb", "app urbana"],
-  "instrucao-normativa-iat-5-2023": ["cadastro ambiental rural", "car", "imovel rural", "sicar"],
-  "instrucao-normativa-iat-6-2023": ["uso insignificante", "intervencao insignificante", "outorga", "captacao superficial", "captacao subterranea", "lancamento de efluente"],
-  "instrucao-normativa-iat-6-2025": ["zoologico", "mantenedor de fauna", "criadouro de fauna", "caf", "cetas", "cetras", "cras"],
-  "instrucao-normativa-iat-9-2025": ["hidreletrica", "empreendimento hidreletrico", "geracao hidreletrica", "pch", "cgh", "uhe"],
-  "instrucao-normativa-iat-13-2026": ["estacao de telecomunicacao", "antena", "campo eletromagnetico", "telecomunicacao"],
-  "instrucao-normativa-iat-14-2025": ["especie exotica", "retirada de exotica", "app"],
-  "instrucao-normativa-iat-14-2026": ["lodo", "lodo de esgoto", "biossolido", "ugl", "unidade de gerenciamento de lodo"],
-  "instrucao-normativa-iat-15-2025": ["resgate de flora", "plano de resgate da flora", "prf", "supressao de vegetacao"],
-  "instrucao-normativa-iat-16-2025": ["compensacao florestal", "compensacao por supressao", "mata atlantica", "supressao de vegetacao"],
-  "instrucao-normativa-iat-17-2025": ["habitacao de interesse social", "empreendimento habitacional", "moradia popular"],
-  "instrucao-normativa-iat-18-2025": ["gas canalizado", "rede de gas", "distribuicao de gas"],
-  "instrucao-normativa-iat-19-2025": ["drenagem de agua pluvial", "drenagem pluvial", "app"],
-  "instrucao-normativa-iat-20-2025": ["energia solar", "geracao solar", "usina fotovoltaica", "fotovoltaica"],
-  "instrucao-normativa-iat-22-2025": ["energia eolica", "geracao eolica", "parque eolico", "aerogerador"],
-  "instrucao-normativa-iat-23-2025": ["aerodromo", "aeroporto", "pista de pouso"],
-  "instrucao-normativa-iat-24-2025": ["biodigestor", "biogas", "biometano", "digestao anaerobia"],
-  "instrucao-normativa-iat-29-2025": ["floresta plantada", "especie nativa plantada", "araucaria plantada", "supressao de floresta plantada"],
-  "instrucao-normativa-iat-30-2026": ["estrutura nautica", "empreendimento nautico", "marina", "atracadouro", "trapiche", "pier"],
-  "instrucao-normativa-iat-33-2026": ["mineracao", "atividade mineraria", "lavra", "extracao mineral", "pesquisa mineral"],
-  "instrucao-normativa-iat-34-2026": ["transmissao de energia", "distribuicao de energia", "subestacao", "linha de transmissao"],
-  "instrucao-normativa-iat-35-2026": ["canalizacao", "curso de agua", "faixa marginal nao edificavel", "fned", "area urbana consolidada"],
-  "instrucao-normativa-iat-36-2026": ["area verde urbana", "reserva legal", "realocacao de reserva legal", "regularizacao fundiaria urbana"],
-  "instrucao-normativa-iat-4-2025": ["terraplanagem", "movimentacao de solo", "corte e aterro"],
-  "instrucao-normativa-iat-44-2025": ["porto", "terminal portuario", "terminal publico", "terminal privado"],
-  "instrucao-normativa-iat-46-2025": ["fundicao de chumbo", "chumbo", "industria metalurgica"],
-  "instrucao-normativa-iat-52-2025": ["estrada rural", "via rural", "obra viaria rural"],
-  "instrucao-normativa-iat-53-2025": ["compensacao de reserva legal", "servidao ambiental", "cota de reserva ambiental", "cra"],
-  "instrucao-normativa-iat-54-2025": ["realocacao de reserva legal", "reserva legal"],
-  "instrucao-normativa-iat-60-2025": ["instituicao de ensino", "atividade de ensino", "escola", "universidade", "campus"],
-  "instrucao-normativa-iat-61-2025": ["cancelamento do car", "cadastro ambiental rural", "car", "imovel rural"],
-  "instrucao-normativa-iat-63-2025": ["medidor de vazao", "medicao de vazao", "captacao de agua", "outorga"],
-  "instrucao-normativa-iat-64-2025": ["pacuera", "reservatorio artificial", "entorno de reservatorio", "app de reservatorio"],
-  "instrucao-normativa-iat-66-2025": ["saneante", "desinfestante", "domissanitario", "controle de vetores", "armazenamento temporario"],
+  "instrucao-normativa-iat-1-2020": [
+   "reserva legal",
+   "compensacao de reserva legal",
+   "servidao ambiental",
+   "unidade de conservacao"
+  ],
+  "instrucao-normativa-iat-3-2020": [
+   "restauracao ecologica",
+   "recomposicao de vegetacao",
+   "reserva legal",
+   "app",
+   "area de uso restrito",
+   "programa de regularizacao ambiental"
+  ],
+  "instrucao-normativa-iat-3-2024": [
+   "atividade agropecuaria",
+   "agropecuaria",
+   "apa escarpa devoniana",
+   "escarpa devoniana"
+  ],
+  "instrucao-normativa-iat-4-2024": [
+   "assentamento de reforma agraria",
+   "assentamento rural",
+   "incra",
+   "cadastro ambiental rural",
+   "car"
+  ],
+  "instrucao-normativa-iat-5-2024": [
+   "regularizacao fundiaria urbana",
+   "reurb",
+   "app urbana"
+  ],
+  "instrucao-normativa-iat-5-2023": [
+   "cadastro ambiental rural",
+   "car",
+   "imovel rural",
+   "sicar"
+  ],
+  "instrucao-normativa-iat-6-2023": [
+   "uso insignificante",
+   "intervencao insignificante",
+   "outorga",
+   "captacao superficial",
+   "captacao subterranea",
+   "lancamento de efluente"
+  ],
+  "instrucao-normativa-iat-6-2025": [
+   "zoologico",
+   "mantenedor de fauna",
+   "criadouro de fauna",
+   "caf",
+   "cetas",
+   "cetras",
+   "cras"
+  ],
+  "instrucao-normativa-iat-9-2025": [
+   "hidreletrica",
+   "empreendimento hidreletrico",
+   "geracao hidreletrica",
+   "pch",
+   "cgh",
+   "uhe"
+  ],
+  "instrucao-normativa-iat-13-2026": [
+   "estacao de telecomunicacao",
+   "antena",
+   "campo eletromagnetico",
+   "telecomunicacao"
+  ],
+  "instrucao-normativa-iat-14-2025": [
+   "especie exotica",
+   "retirada de exotica",
+   "app"
+  ],
+  "instrucao-normativa-iat-14-2026": [
+   "lodo",
+   "lodo de esgoto",
+   "biossolido",
+   "ugl",
+   "unidade de gerenciamento de lodo"
+  ],
+  "instrucao-normativa-iat-15-2025": [
+   "resgate de flora",
+   "plano de resgate da flora",
+   "prf",
+   "supressao de vegetacao"
+  ],
+  "instrucao-normativa-iat-16-2025": [
+   "compensacao florestal",
+   "compensacao por supressao",
+   "mata atlantica",
+   "supressao de vegetacao"
+  ],
+  "instrucao-normativa-iat-17-2025": [
+   "habitacao de interesse social",
+   "empreendimento habitacional",
+   "moradia popular"
+  ],
+  "instrucao-normativa-iat-18-2025": [
+   "gas canalizado",
+   "rede de gas",
+   "distribuicao de gas"
+  ],
+  "instrucao-normativa-iat-19-2025": [
+   "drenagem de agua pluvial",
+   "drenagem pluvial",
+   "app"
+  ],
+  "instrucao-normativa-iat-20-2025": [
+   "energia solar",
+   "geracao solar",
+   "usina fotovoltaica",
+   "fotovoltaica"
+  ],
+  "instrucao-normativa-iat-22-2025": [
+   "energia eolica",
+   "geracao eolica",
+   "parque eolico",
+   "aerogerador"
+  ],
+  "instrucao-normativa-iat-23-2025": [
+   "aerodromo",
+   "aeroporto",
+   "pista de pouso"
+  ],
+  "instrucao-normativa-iat-24-2025": [
+   "biodigestor",
+   "biogas",
+   "biometano",
+   "digestao anaerobia"
+  ],
+  "instrucao-normativa-iat-29-2025": [
+   "floresta plantada",
+   "especie nativa plantada",
+   "araucaria plantada",
+   "supressao de floresta plantada"
+  ],
+  "instrucao-normativa-iat-30-2026": [
+   "estrutura nautica",
+   "empreendimento nautico",
+   "marina",
+   "atracadouro",
+   "trapiche",
+   "pier"
+  ],
+  "instrucao-normativa-iat-33-2026": [
+   "mineracao",
+   "atividade mineraria",
+   "lavra",
+   "extracao mineral",
+   "pesquisa mineral"
+  ],
+  "instrucao-normativa-iat-34-2026": [
+   "transmissao de energia",
+   "distribuicao de energia",
+   "subestacao",
+   "linha de transmissao"
+  ],
+  "instrucao-normativa-iat-35-2026": [
+   "canalizacao",
+   "curso de agua",
+   "faixa marginal nao edificavel",
+   "fned",
+   "area urbana consolidada"
+  ],
+  "instrucao-normativa-iat-36-2026": [
+   "area verde urbana",
+   "reserva legal",
+   "realocacao de reserva legal",
+   "regularizacao fundiaria urbana"
+  ],
+  "instrucao-normativa-iat-4-2025": [
+   "terraplanagem",
+   "movimentacao de solo",
+   "corte e aterro"
+  ],
+  "instrucao-normativa-iat-44-2025": [
+   "porto",
+   "terminal portuario",
+   "terminal publico",
+   "terminal privado"
+  ],
+  "instrucao-normativa-iat-46-2025": [
+   "fundicao de chumbo",
+   "chumbo",
+   "industria metalurgica"
+  ],
+  "instrucao-normativa-iat-52-2025": [
+   "estrada rural",
+   "via rural",
+   "obra viaria rural"
+  ],
+  "instrucao-normativa-iat-53-2025": [
+   "compensacao de reserva legal",
+   "servidao ambiental",
+   "cota de reserva ambiental",
+   "cra"
+  ],
+  "instrucao-normativa-iat-54-2025": [
+   "realocacao de reserva legal",
+   "reserva legal"
+  ],
+  "instrucao-normativa-iat-60-2025": [
+   "instituicao de ensino",
+   "atividade de ensino",
+   "escola",
+   "universidade",
+   "campus"
+  ],
+  "instrucao-normativa-iat-61-2025": [
+   "cancelamento do car",
+   "cadastro ambiental rural",
+   "car",
+   "imovel rural"
+  ],
+  "instrucao-normativa-iat-63-2025": [
+   "medidor de vazao",
+   "medicao de vazao",
+   "captacao de agua",
+   "outorga"
+  ],
+  "instrucao-normativa-iat-64-2025": [
+   "pacuera",
+   "reservatorio artificial",
+   "entorno de reservatorio",
+   "app de reservatorio"
+  ],
+  "instrucao-normativa-iat-66-2025": [
+   "saneante",
+   "desinfestante",
+   "domissanitario",
+   "controle de vetores",
+   "armazenamento temporario"
+  ],
   "instrucao-normativa-iat-8-2025": [
    "reposicao florestal",
    "materia prima florestal",
@@ -453,5 +649,95 @@
   "resolucao-sedest-42-2020": ["termo de compromisso", "revisao de termo de compromisso", "reserva legal", "compensacao de reserva legal", "programa de regularizacao ambiental"],
   "resolucao-sedest-8-2022": ["termeletrica", "usina termeletrica", "gas natural", "gerador modular"],
   "resolucao-conjunta-sedest-iat-9-2022": ["novas tecnologias de residuos", "aproveitamento energetico de residuos", "projeto lixo 5.0", "gaseificacao", "pirolise", "biodigestao", "rota tecnologica"]
+  "resolucao-conama-279-2001": [
+   "empreendimento eletrico",
+   "energia eletrica",
+   "hidreletrica",
+   "termeletrica",
+   "energia eolica",
+   "transmissao de energia"
+  ],
+  "resolucao-conama-1a-1986": [
+   "transporte produto perigoso",
+   "transporte de produtos perigosos",
+   "carga perigosa"
+  ],
+  "portaria-iat-224-2020": [
+   "gerenciamento de risco",
+   "pgr",
+   "substancia perigosa",
+   "risco de acidente"
+  ],
+  "portaria-iat-86-2023": [
+   "drone",
+   "aeromodelismo",
+   "unidade de conservacao"
+  ],
+  "portaria-iat-116-2023": [
+   "embalagem agrotoxico",
+   "embalagem de agrotoxico",
+   "triplice lavagem",
+   "logistica reversa agrotoxico"
+  ],
+  "portaria-iap-40-2010": [
+   "mineracao",
+   "extracao de areia",
+   "extracao de argila",
+   "saibro",
+   "cascalho"
+  ],
+  "resolucao-conama-377-2006": [
+   "esgotamento sanitario",
+   "tratamento de esgoto",
+   "estacao de tratamento de esgoto",
+   "emissario de esgoto",
+   "interceptor de esgoto"
+  ],
+  "portaria-iap-304-2013": [
+   "agropecuaria",
+   "agricultura",
+   "apicultura",
+   "armazenamento de graos",
+   "silo",
+   "floresta plantada",
+   "pastagem",
+   "piscicultura"
+  ],
+  "portaria-iat-33-2022": [
+   "residuo inflamavel",
+   "recuperacao energetica",
+   "aproveitamento energetico",
+   "aterro industrial",
+   "borra oleosa",
+   "solvente"
+  ],
+  "portaria-iat-130-2020": [
+   "uso insignificante",
+   "outorga",
+   "captacao",
+   "lancamento de efluente",
+   "barramento",
+   "aquicultura"
+  ],
+  "portaria-iat-125-2022": [
+   "outorga",
+   "anuencia previa",
+   "uso independente de outorga",
+   "recurso hidrico"
+  ],
+  "resolucao-sedest-33-2020": [
+   "cadastro ambiental rural",
+   "car",
+   "reserva legal",
+   "averbacao",
+   "modulo fiscal"
+  ],
+  "resolucao-conama-388-2007": [
+   "mata atlantica",
+   "vegetacao primaria",
+   "vegetacao secundaria",
+   "estagio sucessional",
+   "estagio de regeneracao"
+  ]
  }
 }

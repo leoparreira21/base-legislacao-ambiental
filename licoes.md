@@ -301,3 +301,12 @@ Ajustes sugeridos para as habilidades que ficam fora do repositório. Remova o i
 ## Biblioteca no Cloudflare
 
 - 2026-11-09, publicação da biblioteca no Cloudflare: `wrangler pages project create` + `pages deploy` (Wrangler 4.158) não cria mais projeto Pages; vira um Worker só de arquivos estáticos (`*.workers.dev`), e o Wrangler grava um `wrangler.jsonc` e uma pasta `.wrangler/` no diretório atual. Com assets, `/biblioteca.html` redireciona (307) para `/biblioteca`. Conectar o repositório pelo painel (Workers Builds) não basta: sem `wrangler.jsonc` e comando de build no repositório, nada é montado. A API de Builds também não aceita o token OAuth do `wrangler login` (`Authentication error [code: 10000]`). Fazer: montar a pasta com `python scripts/montar_biblioteca.py`, publicar com `npx wrangler@4 deploy --config cloudflare/biblioteca/wrangler.jsonc` e deixar a publicação automática para o workflow `implantar-biblioteca.yml` (push no `main`), com os mesmos segredos do Worker da API. Se a conexão Git do painel continuar ligada no Worker `biblioteca-legislacao-ambiental`, desligá-la, para não haver dois deploys por push.
+
+
+## Lote de 10/11/2026 — 20 PDFs das Fontes
+
+- O texto retornado por leitura de PDF pode não trazer imagens mesmo com pedido de páginas. A Portaria IAT 116/2023 ficou com conferência visual do quadro pendente; não afirmar validação visual com base só no texto.
+- Ambiente Windows desta sessão sem resolução DNS no shell: clonagem Git e helper de transferência falharam. Arquivos do repositório foram recuperados pela integração GitHub, fixados no commit e523dc48eacc26bc39457c36c7c9b77f897d10ad. Não tratar a cópia como clone completo nem executar push nela.
+- CONAMA 6/1986 usa itens I/II, não artigos. Manter itens e os oito títulos de modelos; não inventar artigos nem anexos. CONAMA 1-A/1986 é distinta da CONAMA 1/1986.
+- Portaria IAT 224/2020 cita Anexo I próprio, ausente no PDF de uma página. Não importar por inferência o Anexo 1 da IAP 159/2015.
+- SEDEST 69/2022 já estava na base, revogada pelo Decreto 9.541/2025. Texto dos dispositivos e preâmbulo conferido contra o PDF: 1.080 palavras sem diferenças; arquivo mantido.

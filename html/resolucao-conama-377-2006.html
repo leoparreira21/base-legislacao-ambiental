@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Resolução CONAMA nº 377/2006</title>
+<style>
+:root{--fundo:#fbfaf7;--texto:#1f2328;--suave:#6a6f76;--linha:#e3e0d8;--realce:#1d5f8a;--realce-fundo:#e8f1f7;--revogado:#9a9a9a;--marca:#fff3c4}
+@media (prefers-color-scheme:dark){:root{--fundo:#16181b;--texto:#e4e4e2;--suave:#9aa0a6;--linha:#30343a;--realce:#7cb8e0;--realce-fundo:#1c2a35;--revogado:#777;--marca:#4a4120}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--fundo);color:var(--texto);font:16px/1.6 Georgia,"Times New Roman",serif}
+main{max-width:860px;margin:0 auto;padding:24px 16px 80px}
+header h1{font-size:1.5rem;line-height:1.3;margin:0 0 12px}
+header .ementa{color:var(--suave);font-style:italic;margin:0 0 6px}
+.situacao{display:inline-block;font:600 .75rem system-ui,sans-serif;text-transform:uppercase;letter-spacing:.05em;color:#fff;background:#a33;border-radius:4px;padding:2px 8px;margin-bottom:8px}
+.barra{position:sticky;top:0;z-index:2;background:var(--fundo);padding:10px 0;margin:12px 0 8px;border-bottom:1px solid var(--linha);display:flex;gap:12px;align-items:center}
+.barra button{font:600 .9rem system-ui,sans-serif;padding:8px 16px;border-radius:6px;border:1px solid var(--realce);background:var(--realce);color:var(--fundo);cursor:pointer;min-width:160px}
+.barra a{font:.85rem system-ui,sans-serif;color:var(--suave)}
+details{margin:2px 0}
+summary{cursor:pointer;list-style:none;padding:3px 6px;border-radius:4px;font-family:system-ui,sans-serif}
+summary::-webkit-details-marker{display:none}
+summary::before{content:"";display:inline-block;width:0;height:0;border-style:solid;border-width:5px 0 5px 7px;border-color:transparent transparent transparent var(--suave);margin:0 .5em 1px .1em;transition:transform .15s}
+details[open]>summary::before{transform:rotate(90deg)}
+summary:hover{background:var(--realce-fundo)}
+.corpo{margin-left:1.1em;padding-left:10px;border-left:1px solid var(--linha)}
+.sec>summary{font-weight:700;text-transform:none}
+.sec.n2>summary{font-size:1.05rem}
+.sec.extra>summary{font-weight:500;color:var(--suave)}
+.sec.anexo>summary{font-weight:700;color:var(--texto)}
+.art>summary{font-weight:600;color:var(--realce)}
+.disp>summary{display:inline-block;font-size:.92rem;color:var(--realce)}
+.disp[open]>summary{float:left;margin-right:6px;line-height:1.6;padding-top:0;padding-bottom:0}
+.disp[open]>.corpo{margin-left:0;padding-left:0;border-left:none;display:flow-root}
+.disp[open]>.corpo>.texto:first-child{margin-top:0}
+.disp[open]>.corpo>details{margin-left:1.6em}
+p{margin:4px 0}
+.texto{margin:2px 0 6px}
+.lin{margin:3px 0}
+.nota{font:.8rem/1.4 system-ui,sans-serif;color:var(--suave);margin:6px 0}
+.item{padding-left:1em}
+.item.r1{padding-left:2em}.item.r2{padding-left:3em}.item.r3{padding-left:4em}.item.r4{padding-left:5em}
+.revogado>summary,.revogado .texto{color:var(--revogado)}
+del{color:var(--revogado)}
+blockquote{margin:6px 0;padding:4px 12px;border-left:3px solid var(--linha);color:var(--suave)}
+a{color:var(--realce)}
+.pendente{border-bottom:1px dotted var(--suave)}
+.extra{font-weight:400;font-size:.85rem}
+.tabela{overflow-x:auto;margin:8px 0}
+table{border-collapse:collapse;font:.85rem/1.4 system-ui,sans-serif}
+th,td{border:1px solid var(--linha);padding:4px 8px;vertical-align:top;text-align:left}
+th{background:var(--realce-fundo);font-weight:600}
+tr.revogado td{color:var(--revogado);text-decoration:line-through}
+td.alvo,tr.alvo td{background:var(--marca)}
+img{max-width:100%;height:auto}
+code{font-size:.85em}
+.alvo{background:var(--marca);border-radius:4px}
+.niveis{display:flex;flex-wrap:wrap;gap:4px;align-items:center;margin:4px 0 8px;font:.78rem system-ui,sans-serif;color:var(--suave)}
+.niveis span{margin-right:2px}
+.niveis button{font:inherit;padding:2px 8px;border-radius:10px;border:1px solid var(--linha);background:transparent;color:var(--suave);cursor:pointer}
+.niveis button:hover{border-color:var(--realce);color:var(--realce)}
+.niveis button.ativo{background:var(--realce-fundo);border-color:var(--realce);color:var(--realce);font-weight:600}
+</style>
+</head>
+<body>
+<main>
+<header><h1>Resolução CONAMA nº 377/2006</h1><p class="ementa">Dispõe sobre licenciamento ambiental simplificado de Sistemas de Esgotamento Sanitário.</p><p class="ementa">O CONSELHO NACIONAL DO MEIO AMBIENTE - CONAMA, no uso das competências que lhe são conferidas pela <a href="lei-federal-6938-1981.html">Lei no 6.938, de 31 de agosto de 1981</a>, regulamentada pelo <span class="pendente" title="Norma ainda não incluída na base: decreto-federal-99274-1990">Decreto no 99.274, de 6 de junho de 1990</span>, e tendo em vista o disposto em seu Regimento Interno, anexo à <span class="pendente" title="Norma ainda não incluída na base: portaria-mma-168-2005">Portaria no 168, de 10 de junho de 2005</span>, e</p><p class="ementa">Considerando os termos do art. 12, § 1o, da Resolução CONAMA no <a href="resolucao-conama-237-1997.html">237, de 19 de dezembro de 1997</a>, que prevê a possibilidade de estabelecer procedimentos específicos para o licenciamento ambiental simplificado observadas a natureza, características e peculiaridades da atividade de pequeno impacto ambiental;</p><p class="ementa">Considerando que as obras de saneamento estão diretamente vinculadas à saúde pública e ao caráter mitigador da atividade de tratamento de esgotos sanitários;</p><p class="ementa">Considerando a atual situação dos recursos hídricos no país, cuja carga poluidora é, em grande parte, proveniente de lançamento de esgotos domésticos sem prévio tratamento;</p><p class="ementa">Considerando a necessidade de integrar os procedimentos dos instrumentos da <a href="lei-federal-6938-1981.html">Lei no 6.938, de 31 de agosto de 1981</a>, que institui a Política Nacional de Meio Ambiente e a Lei no <a href="lei-federal-9433-1997.html">9.433, de 8 de janeiro de 1997</a>, que institui a Política Nacional de Recursos Hídricos, resolve:</p></header>
+<div class="barra"><button id="alternar" type="button">Expandir tudo</button><a href="index.html">Todas as normas</a></div>
+<details class="art" id="art1"><summary>Art. 1º</summary><div class="corpo"><div class="niveis" role="group" aria-label="Níveis do artigo"><span>Abrir até:</span><button type="button" data-nivel="0" title="Só os índices do caput e dos parágrafos">Índices</button><button type="button" data-nivel="1" class="ativo" title="Abre o texto até: §§">§§</button></div><div class="cpt" id="art1_cpt"><p class="texto">Ficam sujeitos a procedimentos simplificados de licenciamento ambiental as unidades de transporte e de tratamento de esgoto sanitário, separada ou conjuntamente, de pequeno e médio porte.</p></div><details class="disp" id="art1_par1u" data-p="1"><summary title="Art. 1º, parágrafo único">Parágrafo único</summary><div class="corpo"><p class="texto">Os procedimentos simplificados referenciados no <a href="#art1_cpt">caput</a> deste artigo não se aplicam aos empreendimentos situados em áreas declaradas pelo órgão competente como ambientalmente sensíveis.</p></div></details></div></details><details class="art" id="art2"><summary>Art. 2º</summary><div class="corpo"><div class="niveis" role="group" aria-label="Níveis do artigo"><span>Abrir até:</span><button type="button" data-nivel="0" title="Só os índices do caput e dos parágrafos">Índices</button><button type="button" data-nivel="1" class="ativo" title="Abre o texto até: incisos">incisos</button></div><div class="cpt" id="art2_cpt"><p class="texto">Para fins desta Resolução, considera-se:</p><details class="disp" id="art2_cpt_inc1" data-p="1"><summary title="Art. 2º, caput, inciso I">I</summary><div class="corpo"><p class="texto">unidades de transporte de esgoto de pequeno porte: interceptores, emissários e respectivas estações elevatórias de esgoto com vazão nominal de projeto menor ou igual a 200 l/s;</p></div></details><details class="disp" id="art2_cpt_inc2" data-p="1"><summary title="Art. 2º, caput, inciso II">II</summary><div class="corpo"><p class="texto">unidades de tratamento de esgoto de pequeno porte: estação de tratamento de esgoto com vazão nominal de projeto menor ou igual a 50 l/s ou com capacidade para atendimento até 30.000 habitantes, a critério do órgão ambiental competente;</p></div></details><details class="disp" id="art2_cpt_inc3" data-p="1"><summary title="Art. 2º, caput, inciso III">III</summary><div class="corpo"><p class="texto">unidades de transporte de esgoto de médio porte: interceptores, emissários e estações elevatórias de esgoto com vazão nominal de projeto maior do que 200 l/s e menor ou igual a 1.000 l/s;</p></div></details><details class="disp" id="art2_cpt_inc4" data-p="1"><summary title="Art. 2º, caput, inciso IV">IV</summary><div class="corpo"><p class="texto">unidades de tratamento de esgoto de médio porte: estação de tratamento de esgoto com vazão nominal de projeto maior que 50 l/s e menor ou igual a 400 l/s ou com capacidade para atendimento superior a 30.000 e inferior a 250.000 habitantes, a critério do órgão ambiental competente;</p></div></details><details class="disp" id="art2_cpt_inc5" data-p="1"><summary title="Art. 2º, caput, inciso V">V</summary><div class="corpo"><p class="texto">sistema de esgotamento sanitário: as unidades de coleta, transporte e tratamento de esgoto sanitário; e</p></div></details><details class="disp" id="art2_cpt_inc6" data-p="1"><summary title="Art. 2º, caput, inciso VI">VI</summary><div class="corpo"><p class="texto">Licença Ambiental Única de Instalação e Operação - LIO ou ato administrativo equivalente: ato administrativo único que autoriza a implantação e operação de empreendimento.</p></div></details></div></div></details><details class="art" id="art3"><summary>Art. 3º</summary><div class="corpo"><div class="niveis" role="group" aria-label="Níveis do artigo"><span>Abrir até:</span><button type="button" data-nivel="0" title="Só os índices do caput e dos parágrafos">Índices</button><button type="button" data-nivel="1" class="ativo" title="Abre o texto até: incisos e §§">incisos e §§</button></div><div class="cpt" id="art3_cpt"><p class="texto">O empreendedor ao requerer o licenciamento simplificado, para as unidades de transporte e de tratamento de esgoto sanitário, de médio porte, apresentará estudo na forma definida pelo órgão ambiental competente, mediante termo de referência, contendo no mínimo:</p><details class="disp" id="art3_cpt_inc1" data-p="1"><summary title="Art. 3º, caput, inciso I">I</summary><div class="corpo"><p class="texto">informações gerais;</p></div></details><details class="disp" id="art3_cpt_inc2" data-p="1"><summary title="Art. 3º, caput, inciso II">II</summary><div class="corpo"><p class="texto">dados do responsável técnico;</p></div></details><details class="disp" id="art3_cpt_inc3" data-p="1"><summary title="Art. 3º, caput, inciso III">III</summary><div class="corpo"><p class="texto">descrição do projeto;</p></div></details><details class="disp" id="art3_cpt_inc4" data-p="1"><summary title="Art. 3º, caput, inciso IV">IV</summary><div class="corpo"><p class="texto">informações sobre a área do projeto;</p></div></details><details class="disp" id="art3_cpt_inc5" data-p="1"><summary title="Art. 3º, caput, inciso V">V</summary><div class="corpo"><p class="texto">caracterização da vegetação;</p></div></details><details class="disp" id="art3_cpt_inc6" data-p="1"><summary title="Art. 3º, caput, inciso VI">VI</summary><div class="corpo"><p class="texto">caracterização dos recursos hídricos;</p></div></details><details class="disp" id="art3_cpt_inc7" data-p="1"><summary title="Art. 3º, caput, inciso VII">VII</summary><div class="corpo"><p class="texto">caracterização do meio socioeconômico;</p></div></details><details class="disp" id="art3_cpt_inc8" data-p="1"><summary title="Art. 3º, caput, inciso VIII">VIII</summary><div class="corpo"><p class="texto">plano de monitoramento da unidade e do corpo receptor; e</p></div></details><details class="disp" id="art3_cpt_inc9" data-p="1"><summary title="Art. 3º, caput, inciso IX">IX</summary><div class="corpo"><p class="texto">medidas mitigadoras e compensatórias.</p></div></details></div><details class="disp" id="art3_par1u" data-p="1"><summary title="Art. 3º, parágrafo único">Parágrafo único</summary><div class="corpo"><p class="texto">As licenças prévia e de instalação poderão ser requeridas e, a critério do órgão ambiental, expedidas concomitantemente.</p></div></details></div></details><details class="art" id="art4"><summary>Art. 4º</summary><div class="corpo"><div class="niveis" role="group" aria-label="Níveis do artigo"><span>Abrir até:</span><button type="button" data-nivel="0" title="Só os índices do caput e dos parágrafos">Índices</button><button type="button" data-nivel="1" title="Abre o texto até: §§">§§</button><button type="button" data-nivel="2" class="ativo" title="Abre o texto até: incisos">incisos</button></div><div class="cpt" id="art4_cpt"><p class="texto">As unidades de transporte e de tratamento de esgoto de pequeno porte, ressalvadas as situadas em áreas ambientalmente sensíveis, ficam sujeitas, tão somente, à LIO ou ato administrativo equivalente, desde que regulamentado pelo conselho estadual do meio ambiente.</p></div><details class="disp" id="art4_par1" data-p="1"><summary title="Art. 4º, § 1º">§ 1º</summary><div class="corpo"><p class="texto">A LIO ou ato administrativo equivalente citados no <a href="#art4_cpt">caput</a> deste artigo serão requeridos mediante a apresentação dos seguintes documentos:</p><details class="disp" id="art4_par1_inc1" data-p="2"><summary title="Art. 4º, § 1º, inciso I">I</summary><div class="corpo"><p class="texto">informações gerais sobre o projeto e outras informações consideradas relevantes pelo órgão ambiental competente;</p></div></details><details class="disp" id="art4_par1_inc2" data-p="2"><summary title="Art. 4º, § 1º, inciso II">II</summary><div class="corpo"><p class="texto">declaração de responsabilidade civil e a respectiva Anotação de Responsabilidade Técnica - ART;</p></div></details><details class="disp" id="art4_par1_inc3" data-p="2"><summary title="Art. 4º, § 1º, inciso III">III</summary><div class="corpo"><p class="texto">autorização para supressão de vegetação, quando for o caso;</p></div></details><details class="disp" id="art4_par1_inc4" data-p="2"><summary title="Art. 4º, § 1º, inciso IV">IV</summary><div class="corpo"><p class="texto">Outorga de Direito de Uso de Recursos Hídricos para lançamento de efluentes; e</p></div></details><details class="disp" id="art4_par1_inc5" data-p="2"><summary title="Art. 4º, § 1º, inciso V">V</summary><div class="corpo"><p class="texto">localização em conformidade com instrumento de ordenamento territorial do município ou do Distrito Federal.</p></div></details></div></details><details class="disp" id="art4_par2" data-p="1"><summary title="Art. 4º, § 2º">§ 2º</summary><div class="corpo"><p class="texto">O prazo para a emissão da LIO ou do ato administrativo equivalente será no máximo de trinta dias a partir da data do protocolo de recebimento do pedido.</p></div></details></div></details><details class="art" id="art5"><summary>Art. 5º</summary><div class="corpo"><div class="cpt" id="art5_cpt"><p class="texto">Os órgãos ambientais definirão os critérios para o enquadramento de sistemas de esgotamento sanitário de pequeno e médio porte, de acordo com os parâmetros de vazão nominal ou população atendida.</p></div></div></details><details class="art" id="art6"><summary>Art. 6º</summary><div class="corpo"><div class="niveis" role="group" aria-label="Níveis do artigo"><span>Abrir até:</span><button type="button" data-nivel="0" title="Só os índices do caput e dos parágrafos">Índices</button><button type="button" data-nivel="1" title="Abre o texto até: §§">§§</button><button type="button" data-nivel="2" class="ativo" title="Abre o texto até: incisos">incisos</button></div><div class="cpt" id="art6_cpt"><p class="texto">Os órgãos ambientais responsáveis pelo processo de licenciamento ambiental simplificado terão o prazo de análise e decisão contado a partir da data do recebimento do pedido.</p></div><details class="disp" id="art6_par1" data-p="1"><summary title="Art. 6º, § 1º">§ 1º</summary><div class="corpo"><p class="texto">A concessão das licenças específicas deverá obedecer aos seguintes prazos máximos:</p><details class="disp" id="art6_par1_inc1" data-p="2"><summary title="Art. 6º, § 1º, inciso I">I</summary><div class="corpo"><p class="texto">noventa dias para Licença Prévia;</p></div></details><details class="disp" id="art6_par1_inc2" data-p="2"><summary title="Art. 6º, § 1º, inciso II">II</summary><div class="corpo"><p class="texto">noventa dias para Licença Prévia e de Instalação;</p></div></details><details class="disp" id="art6_par1_inc3" data-p="2"><summary title="Art. 6º, § 1º, inciso III">III</summary><div class="corpo"><p class="texto">noventa dias para Licença de Instalação; e</p></div></details><details class="disp" id="art6_par1_inc4" data-p="2"><summary title="Art. 6º, § 1º, inciso IV">IV</summary><div class="corpo"><p class="texto">sessenta dias para Licença de Operação.</p></div></details></div></details><details class="disp" id="art6_par2" data-p="1"><summary title="Art. 6º, § 2º">§ 2º</summary><div class="corpo"><p class="texto">A contagem dos prazos de que trata este artigo será interrompida na data de solicitação dos documentos, dados e informações complementares, reiniciando-se a partir da data do seu recebimento.</p></div></details><details class="disp" id="art6_par3" data-p="1"><summary title="Art. 6º, § 3º">§ 3º</summary><div class="corpo"><p class="texto">A suspensão do prazo de análise será de até trinta dias, podendo ser prorrogado pelo órgão ambiental, mediante solicitação fundamentada do empreendedor.</p></div></details><details class="disp" id="art6_par4" data-p="1"><summary title="Art. 6º, § 4º">§ 4º</summary><div class="corpo"><p class="texto">A não apresentação dos estudos complementares solicitados no prazo previsto no § 3° acarretará o arquivamento do processo de licenciamento.</p></div></details></div></details><details class="art" id="art7"><summary>Art. 7º</summary><div class="corpo"><div class="cpt" id="art7_cpt"><p class="texto">Os empreendimentos que se encontrarem em processo de licenciamento ambiental na data da publicação desta Resolução e que atenderem os requisitos nela previstos poderão ser enquadrados como licenciamento ambiental simplificado, ou a LIO, desde que requerido pelo empreendedor.</p></div></div></details><details class="art" id="art8"><summary>Art. 8º</summary><div class="corpo"><div class="cpt" id="art8_cpt"><p class="texto">Antes do inicio da operação, poderão ser realizados testes pré-operacionais, mediante ciência ao órgão ambiental competente.</p></div></div></details><details class="art" id="art9"><summary>Art. 9º</summary><div class="corpo"><div class="cpt" id="art9_cpt"><p class="texto">Esta Resolução entra em vigor na data de sua publicação.</p><p>MARINA SILVA - Presidente do Conselho</p></div></div></details><details class="sec extra n2"><summary>Notas de transcrição</summary><div class="corpo"><p class="item r0">Transcrição a partir do texto extraído do PDF fornecido. Cabeçalhos, rodapés e marcadores de página foram removidos; palavras partidas por mudança de linha/página foram reunidas. Grafia e redação originais preservadas.</p><p class="item r0">Art. 6º, § 2º: mantidos ‘interrompida’ e ‘reiniciando-se’; § 3º: mantida a expressão ‘suspensão’. Não harmonizados editorialmente.</p><p class="item r0">Sobrescritos de ordinais nos rótulos foram representados por º. Notas editoriais da coletânea foram separadas do texto normativo.</p></div></details>
+</main>
+<script>
+(function(){
+  // O estado fica no próprio botão (data-estado): a página salva pelo navegador
+  // ("Salvar como") guarda o DOM já alterado, e um contador em variável voltava a 0
+  // enquanto o rótulo salvo dizia outra coisa (o 1º clique não fazia nada).
+  var btn=document.getElementById('alternar');
+  var rotulos=['Expandir tudo','Recolher artigos','Recolher tudo'];
+  function estado(){var e=+btn.getAttribute('data-estado'); return e===1||e===2?e:0;}
+  btn.textContent=rotulos[estado()];
+  btn.addEventListener('click',function(){
+    var e=estado(), todos=document.querySelectorAll('main details');
+    if(e===0){todos.forEach(function(d){d.open=true;});}
+    else if(e===1){todos.forEach(function(d){d.open=d.classList.contains('estrutura');});}
+    else{todos.forEach(function(d){d.open=false;});}
+    e=(e+1)%3; btn.setAttribute('data-estado',e); btn.textContent=rotulos[e];
+  });
+  // abrir um artigo abre todos os dispositivos dele, com os textos
+  function nivel(art,n){
+    art.querySelectorAll('details.disp[data-p]').forEach(function(d){d.open=n<0||(+d.dataset.p)<=n;});
+    art.querySelectorAll('.niveis button').forEach(function(b){
+      var bn=+b.dataset.nivel, max=art.querySelectorAll('.niveis button').length-1;
+      b.classList.toggle('ativo', n<0 ? bn===max : bn===n);
+    });
+  }
+  // Refaz o layout de cada bloco recém-aberto no quadro seguinte. Alguns navegadores
+  // calculavam o espaço dos subitens antes de abri-los (sobravam vãos vazios até o
+  // usuário fechar e reabrir); display:none e de volta recria as caixas, como esse
+  // fechar/abrir, sem mudar o que está aberto.
+  var pendentes=[];
+  function reajustar(){
+    var lista=pendentes, x=window.scrollX, y=window.scrollY; pendentes=[];
+    lista.forEach(function(d){
+      for(var p=d.parentElement; p; p=p.parentElement){ if(lista.indexOf(p)>=0) return; }
+      d.style.display='none'; void d.offsetHeight; d.style.display=''; if(!d.getAttribute('style')) d.removeAttribute('style');
+    });
+    window.scrollTo(x,y);
+  }
+  document.addEventListener('toggle',function(e){
+    var d=e.target; if(!d.tagName||d.tagName!=='DETAILS'||!d.open) return;
+    if(d.classList.contains('art')) nivel(d,-1);
+    if(!pendentes.length) requestAnimationFrame(reajustar);
+    pendentes.push(d);
+  },true);
+  document.addEventListener('click',function(e){
+    var b=e.target.closest&&e.target.closest('.niveis button'); if(!b) return;
+    nivel(b.closest('details.art'),+b.dataset.nivel);
+  });
+  function irPara(){
+    var id=decodeURIComponent(location.hash.slice(1)); if(!id) return;
+    var el=document.getElementById(id); if(!el) return;
+    for(var p=el; p; p=p.parentElement){ if(p.tagName==='DETAILS') p.open=true; }
+    document.querySelectorAll('.alvo').forEach(function(e){e.classList.remove('alvo');});
+    el.classList.add('alvo'); el.scrollIntoView({block:'center'});
+  }
+  window.addEventListener('hashchange',irPara); irPara();
+})();
+</script>
+</body>
+</html>
