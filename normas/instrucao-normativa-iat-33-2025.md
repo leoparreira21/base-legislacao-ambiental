@@ -896,7 +896,7 @@ Pela hierarquia normativa, prevalece o decreto. A IN não foi alterada formalmen
 
 **Aterro de pequeno porte ([[#art3_cpt_inc2|art. 3º, II]], e [[#anexo1_tab1_lin1|Anexo I, Tabela 1, linha 1]]).** A IN define "aterro sanitário de pequeno porte" (até 20 t/dia) como na [[resolucao-conama-404-2008|Resolução CONAMA nº 404/2008]], citada no preâmbulo, que admite procedimento simplificado para esses aterros. Mas a Tabela 1 do Anexo I enquadra a faixa "Até 20" t/dia como porte **Grande**, com licenciamento trifásico (LP/RAP, LI/PCA e PBA, LO); a faixa "Acima de 20" é Excepcional (EIA/RIMA). A IN não usa a expressão "pequeno porte" em nenhum outro dispositivo.
 
-**Revogação expressa ([[#art69|art. 69]]).** A IN revoga a [[portaria-iap-260-2014|Portaria IAP nº 260, de 28 de novembro de 2014]], que não está na base; a relação foi registrada só no frontmatter (`revoga`). O artigo também revoga "demais disposições em contrário" (revogação tácita, sem indicar normas).
+**Revogação expressa ([[#art69|art. 69]]).** A IN revoga a [[portaria-iap-260-2014|Portaria IAP nº 260, de 28 de novembro de 2014]], agora na base com `situacao: revogada` e `revogado_por` apontando para esta IN; a relação também está no frontmatter (`revoga`). A IN cita a Portaria como de 28 de novembro de 2014; o texto impresso da Portaria traz "26 NOVEMBRO DE 2014". O artigo também revoga "demais disposições em contrário" (revogação tácita, sem indicar normas).
 
 **Efeitos retroativos ([[#art69|art. 69]]).** A IN tem data de 28 de abril de 2025, foi assinada digitalmente em 30/05/2025 e "entra em vigor na data de sua publicação, com efeitos a partir de 28 de abril de 2025". A data de publicação no DIOE não consta do PDF.
 

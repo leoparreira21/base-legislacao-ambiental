@@ -738,6 +738,144 @@
    "vegetacao secundaria",
    "estagio sucessional",
    "estagio de regeneracao"
+  ],
+  "portaria-iap-260-2014": [
+   "aterro sanitario"
+  ],
+  "resolucao-conama-273-2000": [
+   "posto revendedor",
+   "posto de combustivel",
+   "ponto abastecimento",
+   "instalacao sistema retalhista",
+   "trr",
+   "posto flutuante",
+   "base distribuicao combustivel",
+   "armazenamento combustivel",
+   "tanque subterraneo",
+   "tanque aereo",
+   "sasc",
+   "saac",
+   "area contaminada"
+  ],
+  "resolucao-conama-313-2002": [
+   "inventario de residuos",
+   "residuo industrial",
+   "residuos solidos industriais",
+   "bifenila policlorada",
+   "pcb"
+  ],
+  "resolucao-conama-420-2009": [
+   "area contaminada",
+   "solo contaminado",
+   "valor orientador",
+   "passivo ambiental",
+   "remediacao",
+   "qualidade do solo"
+  ],
+  "resolucao-sedest-10-2021": [
+   "cogeracao",
+   "cogeracao de energia"
+  ],
+  "resolucao-sedest-11-2021": [
+   "energia solar",
+   "geracao solar",
+   "usina fotovoltaica",
+   "fotovoltaica"
+  ],
+  "resolucao-sedest-12-2021": [
+   "gas canalizado",
+   "rede de gas",
+   "distribuicao de gas",
+   "transporte de gas",
+   "gasoduto"
+  ],
+  "resolucao-sedest-13-2021": [
+   "transmissao de energia",
+   "distribuicao de energia",
+   "subestacao",
+   "linha de transmissao"
+  ],
+  "resolucao-sedest-15-2020": [
+   "suinocultura",
+   "suino",
+   "granja de suinos",
+   "dejeto de suino"
+  ],
+  "resolucao-sedest-2-2020": [
+   "mineracao",
+   "atividade mineraria",
+   "lavra",
+   "extracao mineral",
+   "pesquisa mineral"
+  ],
+  "resolucao-sedest-3-2020": [
+   "posto revendedor",
+   "posto de combustivel",
+   "ponto abastecimento",
+   "instalacao sistema retalhista",
+   "trr",
+   "posto flutuante",
+   "base distribuicao combustivel",
+   "armazenamento combustivel",
+   "tanque subterraneo",
+   "tanque aereo",
+   "sasc",
+   "saac",
+   "area contaminada"
+  ],
+  "resolucao-sedest-30-2022": [
+   "empreendimento imobiliario",
+   "imobiliario",
+   "parcelamento solo",
+   "loteamento",
+   "desmembramento",
+   "condominio",
+   "barracao",
+   "barracoes",
+   "parque urbano"
+  ],
+  "resolucao-sedest-42-2021": [
+   "aquicultura",
+   "piscicultura",
+   "maricultura",
+   "ranicultura",
+   "ranario",
+   "ra touro",
+   "tanque rede",
+   "viveiro de peixe",
+   "cultivo de peixe",
+   "criacao de peixe",
+   "cultivo de ostra",
+   "cultivo de mexilhao",
+   "cultivo de vieira",
+   "algicultura",
+   "organismo aquatico"
+  ],
+  "resolucao-sedest-55-2019": [
+   "bovinocultura",
+   "bovino",
+   "criacao de gado",
+   "gado leiteiro",
+   "gado de corte",
+   "recria de novilha",
+   "confinamento bovino",
+   "compost barn",
+   "free stall",
+   "tie stall"
+  ],
+  "resolucao-sedest-7-2021": [
+   "energia eolica",
+   "geracao eolica",
+   "parque eolico",
+   "aerogerador"
+  ],
+  "resolucao-sedest-9-2021": [
+   "hidreletrica",
+   "empreendimento hidreletrico",
+   "geracao hidreletrica",
+   "pch",
+   "cgh",
+   "uhe"
   ]
  }
 }
