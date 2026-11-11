@@ -1314,6 +1314,28 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "portaria-iap-1-2008",
+"norma": "Portaria IAP nº 1/2008",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2008,
+"ementa": "Aprova e determina o cumprimento da Instrução Normativa nº 01/2008 DEPAM/IAP, com as diretrizes para apresentação de relatórios de automonitoramento de emissões atmosféricas (ementa do conversor; a Portaria não tem ementa própria).",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iap-157-2011",
+"norma": "Portaria IAP nº 157/2011",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2011,
+"ementa": "Procedimento administrativo de apuração dos autos de infração ambientais lavrados (ementa do conversor; a Portaria não tem ementa própria).",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "portaria-iap-159-2015",
 "norma": "Portaria IAP nº 159/2015",
 "tipo": "portaria",
@@ -1325,6 +1347,46 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "portaria-iap-224-2007",
+"norma": "Portaria IAP nº 224/2007",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2007,
+"ementa": "Estabelece os critérios para exigência e emissão de Autorizações Ambientais para as Atividades de Gerenciamento de Resíduos Sólidos.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iap-232-1998",
+"norma": "Portaria IAP nº 232/1998",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 1998,
+"ementa": "Disciplina o reconhecimento de Reserva Particular do Patrimônio Natural – RPPN no Estado do Paraná (ementa do conversor; a Portaria não tem ementa própria).",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iap-256-2011",
+"norma": "Portaria IAP nº 256/2011",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2011,
+"ementa": "Estabelece os procedimentos administrativos para o Corte de espécies nativas plantadas com recursos próprios.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iap-256-2013",
+"norma": "Portaria IAP nº 256/2013",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2013,
+"ementa": "Aprova e estabelece os critérios e exigências para a apresentação da DECLARAÇÃO DE CARGA POLUIDORA, através do SISTEMA DE AUTOMONITORAMENTO de Atividades Poluidoras no Paraná e determina seu cumprimento.",
 "arquivo": "portaria-iap-243-2009",
 "norma": "Portaria IAP nº 243/2009",
 "tipo": "portaria",
@@ -1351,6 +1413,13 @@ window.CATALOGO_NORMAS = [
 ]
 },
 {
+"arquivo": "portaria-iap-59-2015",
+"norma": "Portaria IAP nº 59/2015",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2015,
+"ementa": "Reconhece a Lista Oficial de Espécies Exóticas Invasoras para o Estado do Paraná, estabelece normas de controle e dá outras providências.",
 "arquivo": "portaria-iap-304-2013",
 "norma": "Portaria IAP nº 304/2013",
 "tipo": "portaria",
@@ -1362,6 +1431,24 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "portaria-iap-96-2007",
+"norma": "Portaria IAP nº 96/2007",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2007,
+"ementa": "Isenta a matéria prima florestal exótica da obrigatoriedade de reposição florestal, da prévia aprovação para exploração e transporte e dá outras providências.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iat-143-2021",
+"norma": "Portaria IAT nº 143/2021",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra – IAT",
+"ano": 2021,
+"ementa": "Estabelece o Sistema de Cadastramento de Empresas e de Profissionais Autônomos que atuam na área de hidrogeologia e da construção de poços tubulares (ementa do conversor).",
 "arquivo": "portaria-iap-40-2010",
 "norma": "Portaria IAP nº 40/2010",
 "tipo": "portaria",
@@ -1406,6 +1493,13 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "portaria-iat-204-2020",
+"norma": "Portaria IAT nº 204/2020",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra – IAT",
+"ano": 2020,
+"ementa": "Estabelece normas e procedimentos para licenciamento ambiental para produção e transporte de carvão vegetal de origem de espécies nativas e exóticas.",
 "arquivo": "portaria-iat-130-2020",
 "norma": "Portaria IAT nº 130/2020",
 "tipo": "portaria",
@@ -1520,6 +1614,13 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "resolucao-conama-1-1986",
+"norma": "Resolução CONAMA nº 1/1986",
+"tipo": "resolucao",
+"esfera": "federal",
+"orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
+"ano": 1986,
+"ementa": "Dispõe sobre critérios básicos e diretrizes gerais para a avaliação de impacto ambiental",
 "arquivo": "resolucao-conama-1-1988",
 "norma": "Resolução CONAMA nº 1/1988",
 "tipo": "resolucao",
@@ -1553,6 +1654,13 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "resolucao-conama-302-2002",
+"norma": "Resolução CONAMA nº 302/2002",
+"tipo": "resolucao",
+"esfera": "federal",
+"orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
+"ano": 2002,
+"ementa": "Dispõe sobre os parâmetros, definições e limites de Áreas de Preservação Permanente de reservatórios artificiais e o regime de uso do entorno.",
 "arquivo": "resolucao-conama-279-2001",
 "norma": "Resolução CONAMA nº 279/2001",
 "tipo": "resolucao",
@@ -1608,6 +1716,13 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "resolucao-conama-378-2006",
+"norma": "Resolução CONAMA nº 378/2006",
+"tipo": "resolucao",
+"esfera": "federal",
+"orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
+"ano": 2006,
+"ementa": "Define os empreendimentos potencialmente causadores de impacto ambiental nacional ou regional para fins do disposto no inciso III, § 1o, art. 19 da Lei no 4.771, de 15 de setembro de 1965, e dá outras providências.",
 "arquivo": "resolucao-conama-377-2006",
 "norma": "Resolução CONAMA nº 377/2006",
 "tipo": "resolucao",
@@ -1666,6 +1781,20 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "resolucao-conama-416-2009",
+"norma": "Resolução CONAMA nº 416/2009",
+"tipo": "resolucao",
+"esfera": "federal",
+"orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
+"ano": 2009,
+"ementa": "Dispõe sobre a prevenção à degradação ambiental causada por pneus inservíveis e sua destinação ambientalmente adequada, e dá outras providências.",
+"situacao": "vigente",
+"apelidos": [
+"Pneus inservíveis",
+"CONAMA 416"
+]
+},
+{
 "arquivo": "resolucao-conama-430-2011",
 "norma": "Resolução CONAMA nº 430/2011",
 "tipo": "resolucao",
@@ -1673,6 +1802,17 @@ window.CATALOGO_NORMAS = [
 "orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
 "ano": 2011,
 "ementa": "Dispõe sobre as condições e padrões de lançamento de efluentes, complementa e altera a Resolução nº 357, de 17 de março de 2005, do Conselho Nacional do Meio Ambiente-CONAMA.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-conama-458-2013",
+"norma": "Resolução CONAMA nº 458/2013",
+"tipo": "resolucao",
+"esfera": "federal",
+"orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
+"ano": 2013,
+"ementa": "Estabelece procedimentos para o licenciamento ambiental em assentamento de reforma agrária, e dá outras providências.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -1691,6 +1831,35 @@ window.CATALOGO_NORMAS = [
 ]
 },
 {
+"arquivo": "resolucao-conjunta-sedest-iat-9-2022",
+"norma": "Resolução Conjunta SEDEST/IAT nº 9/2022",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável – SEDEST e Instituto Água e Terra – IAT",
+"ano": 2022,
+"ementa": "Dispõe sobre incentivos ao aproveitamento energético de resíduos sólidos por rotas biológicas ou térmicas, buscando priorizar a hierarquia apresentada na PNRS de não-geração, redução, reutilização e reciclagem, bem como incentivos e apoio à pesquisa, desenvolvimento e inovação realizados por órgãos públicos, pela academia e sociedade civil organizada em temas relacionados a rotas tecnológicas de tratamento.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-17-2020",
+"norma": "Resolução SEDEST nº 17/2020",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo – SEDEST",
+"ano": 2020,
+"ementa": "Altera o porte micro e mínimo de empreendimentos de bovinocultura constante no Art. 5º e 7º da Resolução SEDEST 055/2019.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-18-2020",
+"norma": "Resolução SEDEST nº 18/2020",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo – SEDEST",
+"ano": 2020,
+"ementa": "Estabelece procedimentos para baixa da averbação dos Termos de Compromisso de acordo com as disposições da Lei Estadual nº 18.295/2014.",
 "arquivo": "resolucao-conama-6-1986",
 "norma": "Resolução CONAMA nº 6/1986",
 "tipo": "resolucao",
@@ -1735,6 +1904,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "resolucao-sedest-42-2020",
+"norma": "Resolução SEDEST nº 42/2020",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo – SEDEST",
+"ano": 2020,
+"ementa": "Estabelece os requisitos para revisão dos Termos de Compromisso de imóveis com área acima de 4 (quatro) módulos fiscais, seguindo os parâmetros da Lei Federal 12.651/2012 e Lei Estadual nº 18.295/2014.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "resolucao-sedest-48-2024",
 "norma": "Resolução SEDEST nº 48/2024",
 "tipo": "resolucao",
@@ -1753,6 +1933,17 @@ window.CATALOGO_NORMAS = [
 "orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo - SEDEST",
 "ano": 2022,
 "ementa": "Dispõe sobre a dispensa de licenciamento e autorização ambiental às atividades de coleta, transporte e armazenamento temporário de saneantes desinfestantes domissanitários vencidos ou não utilizados, de uso restrito e de suas embalagens pós-consumo, destinados ao combate, à prevenção e ao controle vetores transmissores de doenças de relevância para a saúde pública, tais como dengue, chikungunya, zika, febre amarela urbana, doença de chagas, malária e leishmanioses, dentre outras.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-8-2022",
+"norma": "Resolução SEDEST nº 8/2022",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo – SEDEST",
+"ano": 2022,
+"ementa": "Estabelece critérios e procedimentos para o licenciamento ambiental simplificado de usinas termelétricas a gás natural para geração de energia através de geradores modulares.",
 "situacao": "revogada",
 "apelidos": []
 }
