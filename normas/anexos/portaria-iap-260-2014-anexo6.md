@@ -1,0 +1,448 @@
+---
+anexo: ANEXO VI
+norma_mae: "[[portaria-iap-260-2014]]"
+arquivo: portaria-iap-260-2014-anexo6
+tipo_anexo: termo-referencia
+estudo: "Estudo de Impacto Ambiental e Relatório de Impacto Ambiental – EIA/RIMA"
+atividades: [aterro-sanitario]
+modalidades: [lp]
+tags: [eia-rima, termo-referencia, estudo-impacto-ambiental]
+fonte: "PDF impresso do portal Sistema de Informações Ambientais do IAP (texto da Portaria e Anexos I a XII)."
+---
+
+# ANEXO VI — Termo de Referência para elaboração de EIA/RIMA
+
+## Texto do anexo
+
+
+### I. INTRODUÇÃO
+- **Anexo VI, linha 1** {#anexo6_lin1} O Estudo de Impacto Ambiental deverá avaliar as alternativas de concepção, tecnológicas, de localização e
+- **Anexo VI, linha 2** {#anexo6_lin2} de técnicas construtivas previstas, justificando a alternativa adotada, sob os pontos de vista técnico,
+- **Anexo VI, linha 3** {#anexo6_lin3} ambiental e econômico.
+- **Anexo VI, linha 4** {#anexo6_lin4} Indicar os impactos gerados sobre a área de influência, em todas as etapas do empreendimento, desde a
+- **Anexo VI, linha 5** {#anexo6_lin5} execução de obras até a operação, incluindo as ações de manutenção e a desativação das instalações.
+- **Anexo VI, linha 6** {#anexo6_lin6} Indicar os impactos positivos e negativos; diretos e indiretos; primários e secundários; imediatos, de médio
+- **Anexo VI, linha 7** {#anexo6_lin7} e longo prazos; cíclicos, cumulativos e sinérgicos; locais e regionais; estratégicos, temporários e
+- **Anexo VI, linha 8** {#anexo6_lin8} permanentes; reversíveis e irreversíveis, bem como a sua distribuição social, para cada alternativa.
+- **Anexo VI, linha 9** {#anexo6_lin9} Avaliar a compatibilidade com a legislação ambiental federal, estadual e municipal aplicável ao
+- **Anexo VI, linha 10** {#anexo6_lin10} empreendimento e sua área de influência, com indicação das limitações administrativas impostas pelo
+- **Anexo VI, linha 11** {#anexo6_lin11} poder público.
+
+### II. FORMAÇÃO, QUALIFICAÇÃO E CAPACITAÇÃO TÉCNICA
+- **Anexo VI, linha 12** {#anexo6_lin12} Um Estudo Prévio de Impacto Ambiental pode ser elaborado por qualquer profissional e/ou equipe técnica
+- **Anexo VI, linha 13** {#anexo6_lin13} com qualificação e capacitação técnica compatível com as características do empreendimento / atividade,
+- **Anexo VI, linha 14** {#anexo6_lin14} desde que devidamente registrado e em dia com os respectivos Conselhos de Classe e Sindical
+- **Anexo VI, linha 15** {#anexo6_lin15} específicos.
+- **Anexo VI, linha 16** {#anexo6_lin16} No entanto, a elaboração de estudos e projetos técnicos especializados, detalhamento de tecnologias
+- **Anexo VI, linha 17** {#anexo6_lin17} específicas, especificação e compatibilização de equipamentos específicas para algumas etapas dos
+- **Anexo VI, linha 18** {#anexo6_lin18} processos produtivos, é prerrogativa de profissionais com formação técnica própria à atividade avaliada e
+- **Anexo VI, linha 19** {#anexo6_lin19} que estejam devidamente qualificados, capacitados e registrados no respectivo Conselho de Classe
+- **Anexo VI, linha 20** {#anexo6_lin20} Profissional.
+- **Anexo VI, linha 21** {#anexo6_lin21} Esses estudos e projetos técnicos especializados somente serão exigidos após potencial aprovação do
+- **Anexo VI, linha 22** {#anexo6_lin22} Estudo Prévio de Impacto Ambiental.
+- **Anexo VI, linha 23** {#anexo6_lin23} O profissional, com capacitação técnica compatível com as características do empreendimento / atividade
+- **Anexo VI, linha 24** {#anexo6_lin24} devem ter independência prevista em contrato celebrado com o empreendedor para elaboração do estudo
+- **Anexo VI, linha 25** {#anexo6_lin25} ambiental. Nesse contrato não pode ser estabelecido vínculo / condicionamento à concessão de
+- **Anexo VI, linha 26** {#anexo6_lin26} licenciamento ambiental.
+- **Anexo VI, linha 27** {#anexo6_lin27} O empreendedor deverá ter equipe técnica mínima multidisciplinar necessária para a abrangência de todos
+- **Anexo VI, linha 28** {#anexo6_lin28} os aspectos ambientais envolvidos no empreendimento.
+- **Anexo VI, linha 29** {#anexo6_lin29} Ainda quando se tratar de elaboração dos estudos, devem ser observados os seguintes pressupostos:
+- **Anexo VI, linha 30** {#anexo6_lin30} · As pessoas físicas e/ou jurídicas contratadas para a elaboração dos estudos ambientais devem estar
+- **Anexo VI, linha 31** {#anexo6_lin31} registradas no Cadastro Técnico Federal de Atividades e Instrumentos de Defesa do Meio Ambiente,
+- **Anexo VI, linha 32** {#anexo6_lin32} conforme Resolução CONAMA No. 001/88;
+- **Anexo VI, linha 33** {#anexo6_lin33} · Os estudos do meio antrópico, especialmente, devem ser realizados obrigatoriamente por antropólogos
+- **Anexo VI, linha 34** {#anexo6_lin34} e/ou sociólogos;
+- **Anexo VI, linha 35** {#anexo6_lin35} · Os nomes dos integrantes da equipe multidisciplinar devem ser apresentados acompanhados da categoria
+- **Anexo VI, linha 36** {#anexo6_lin36} profissional a qual pertence, respectivo registro, sua função na elaboração dos estudos, e a assinatura
+- **Anexo VI, linha 37** {#anexo6_lin37} original de todos os integrantes;
+- **Anexo VI, linha 38** {#anexo6_lin38} · Devem ser apresentados também, o nome do coordenador, com seu endereço, telefone, fax e cópia do
+- **Anexo VI, linha 39** {#anexo6_lin39} comprovante de inscrição no Cadastro Técnico Federal;
+- **Anexo VI, linha 40** {#anexo6_lin40} · O coordenador da equipe elaboradora deverá rubricar todas as páginas dos estudos;
+- **Anexo VI, linha 41** {#anexo6_lin41} · É obrigatória a apresentação de ART - Anotação de Responsabilidade Técnica ou documento similar de
+- **Anexo VI, linha 42** {#anexo6_lin42} Conselho de Classe respectivo, relativo à elaboração dos estudos, de acordo com Artigo 63, I e II, da
+- **Anexo VI, linha 43** {#anexo6_lin43} Resolução CEMA No. 065/2008;
+- **Anexo VI, linha 44** {#anexo6_lin44} · O empreendedor deve atender todas as exigências das Resoluções do CONAMA e das leis ambientais e
+- **Anexo VI, linha 45** {#anexo6_lin45} seus regulamentos e, as demais exigências contidas nos Termos de Referência para licenciamento
+- **Anexo VI, linha 46** {#anexo6_lin46} ambiental.
+
+### III. FORMATO DE APRESENTAÇÃO DO ESTUDO PRÉVIO DE IMPACTO AMBIENTAL
+- **Anexo VI, linha 47** {#anexo6_lin47} Deverão ser entregues:
+- **Anexo VI, linha 48** {#anexo6_lin48} § 2 (duas) cópias impressas, em meio físico (papel), sendo uma delas não encadernada para possibilitar
+- **Anexo VI, linha 49** {#anexo6_lin49} eventuais cópias fotostáticas;
+- **Anexo VI, linha 50** {#anexo6_lin50} § 3 (três) cópias em meio digital (CD), com os arquivos textos em formato DOC ou PDF e os mapas e
+- **Anexo VI, linha 51** {#anexo6_lin51} fotografias em formato PDF ou JPG ou JPEG, todos compatíveis com a plataforma Windows.
+
+### IV. ESTRUTURA BÁSICA DE UM ESTUDO DE IMPACTO AMBIENTAL
+- **Anexo VI, linha 52** {#anexo6_lin52} Os estudos e informações constantes de Estudo de Impacto Ambiental terão seqüência abaixo.
+- **Anexo VI, linha 53** {#anexo6_lin53} Informações Gerais
+- **Anexo VI, linha 54** {#anexo6_lin54} 1. Do Empreendedor
+- **Anexo VI, linha 55** {#anexo6_lin55} 1.1. Nome ou Razão Social;
+- **Anexo VI, linha 56** {#anexo6_lin56} 1.2. CNPJ/MF;
+- **Anexo VI, linha 57** {#anexo6_lin57} 1.3. Inscrição Estadual;
+- **Anexo VI, linha 58** {#anexo6_lin58} 1.4. Representantes legais (com CPF e endereço completo);
+- **Anexo VI, linha 59** {#anexo6_lin59} 1.5. Endereço completo (logradouro, número, bairro, Cidade, CEP, telefone, FAX e endereço eletrônico).
+- **Anexo VI, linha 60** {#anexo6_lin60} 2. Do Consultor / Empresa de Consultoria Ambiental
+- **Anexo VI, linha 61** {#anexo6_lin61} 2.1. Nome do responsável;
+- **Anexo VI, linha 62** {#anexo6_lin62} 2.2. Razão Social;
+- **Anexo VI, linha 63** {#anexo6_lin63} 2.3. CPF ou CNPJ/MF;
+- **Anexo VI, linha 64** {#anexo6_lin64} 2.4. Inscrição Estadual;
+- **Anexo VI, linha 65** {#anexo6_lin65} 2.5. Anotação de Responsabilidade Técnica – ART ou documento similar de Conselho de Classe respectivo;
+- **Anexo VI, linha 66** {#anexo6_lin66} 2.6. Número de registro do Conselho de Classe de todos os profissionais envolvidos;
+- **Anexo VI, linha 67** {#anexo6_lin67} 2.7. Número do Cadastro Técnico Federal do IBAMA;
+- **Anexo VI, linha 68** {#anexo6_lin68} 2.8. Endereço completo (logradouro, número, bairro, Cidade, CEP, telefone, FAX e endereço eletrônico);
+- **Anexo VI, linha 69** {#anexo6_lin69} 2.9. Dados da equipe técnica multidisciplinar elaboradora dos estudos, nome, área profissional, registro no
+- **Anexo VI, linha 70** {#anexo6_lin70} respectivo conselho de classe, número do Cadastro Técnico Federal do IBAMA e assinatura da equipe.
+- **Anexo VI, linha 71** {#anexo6_lin71} 3. Caracterização do Empreendimento
+- **Anexo VI, linha 72** {#anexo6_lin72} 3.1. Justificativa e Objetivos do Empreendimento contendo:
+- **Anexo VI, linha 73** {#anexo6_lin73} 3.1.1. A descrição do problema, incluindo diagnóstico da situação atual considerando aspectos como: tipo,
+- **Anexo VI, linha 74** {#anexo6_lin74} origem, quantidade de resíduos produzido, tratamento eventualmente dado aos resíduos e locais onde os
+- **Anexo VI, linha 75** {#anexo6_lin75} mesmos são dispostos;
+- **Anexo VI, linha 76** {#anexo6_lin76} 3.1.2. Descrição do empreendimento / atividade com o máximo de detalhamento possível, utilizando, se
+- **Anexo VI, linha 77** {#anexo6_lin77} possível for, ilustrações e/ou desenhos concepcionais;
+- **Anexo VI, linha 78** {#anexo6_lin78} 3.1.3. Síntese dos objetivos do empreendimento e justificativa em termos de sua importância no contexto
+- **Anexo VI, linha 79** {#anexo6_lin79} social da Região e dos Municípios de abrangência direta;
+- **Anexo VI, linha 80** {#anexo6_lin80} 3.1.4. Informações relacionadas ao modelo de gestão da disposição final (consorciada, individual, etc.);
+- **Anexo VI, linha 81** {#anexo6_lin81} 3.1.5. Os objetivos ambientais e sociais do empreendimento / atividade, compatibilidade com os sistemas
+- **Anexo VI, linha 82** {#anexo6_lin82} de limpeza urbana e disposição final de resíduos, existentes e planejados, e com os demais planos,
+- **Anexo VI, linha 83** {#anexo6_lin83} programas e projetos setoriais existentes ou previstos na área de influência do empreendimento, como por
+- **Anexo VI, linha 84** {#anexo6_lin84} exemplo, Planos de Gerenciamento de Resíduos ou Plano Diretor de Limpeza Urbana;
+- **Anexo VI, linha 85** {#anexo6_lin85} 3.1.6. Avaliação, enquadramento e compatibilização do empreendimento / atividade frente a zoneamento
+- **Anexo VI, linha 86** {#anexo6_lin86} agro-ecológico, se existente, e eventuais impactos de sua localização frente às diversas atividades
+- **Anexo VI, linha 87** {#anexo6_lin87} produtivas, inclusive aquelas de geração de energia elétrica, quando for o caso. Tal avaliação deve
+- **Anexo VI, linha 88** {#anexo6_lin88} abranger o empreendimento / atividade como um todo, assim como aqueles a ele associados;
+- **Anexo VI, linha 89** {#anexo6_lin89} 3.1.7. As tecnologias a serem empregadas, relacionando com outros empreendimentos / atividades
+- **Anexo VI, linha 90** {#anexo6_lin90} similares existentes em outras localidades.
+- **Anexo VI, linha 91** {#anexo6_lin91} 3.2. Localização do Empreendimento:
+- **Anexo VI, linha 92** {#anexo6_lin92} 3.2.1. Definição concreta e objetiva da área de influência direta do empreendimento / atividade;
+- **Anexo VI, linha 93** {#anexo6_lin93} 3.2.2. Apresentar as alternativas de concepção, de localização, tecnológica e construtiva estudadas,
+- **Anexo VI, linha 94** {#anexo6_lin94} justificando a alternativa escolhida e os parâmetros de projeto adotados, sob os aspectos técnico,
+- **Anexo VI, linha 95** {#anexo6_lin95} econômico e ambiental, e ainda sua compatibilidade com a Lei de Uso e Ocupação do Solo e demais
+- **Anexo VI, linha 96** {#anexo6_lin96} regulamentos municipais;
+- **Anexo VI, linha 97** {#anexo6_lin97} 3.2.3. Descrever e analisar, com o mesmo grau de profundidade e sob os mesmos critérios, as alternativas
+- **Anexo VI, linha 98** {#anexo6_lin98} locacionais e tecnológicas estudadas avaliando os aspectos técnicos, econômicos e ambientais envolvidos
+- **Anexo VI, linha 99** {#anexo6_lin99} (análise custo-benefício ampliada), ou seja, analisar as alternativas em termos de impactos ambientais,
+- **Anexo VI, linha 100** {#anexo6_lin100} requisitos em termos de custo de capital e operação, confiabilidade, adaptação às condições locais e
+- **Anexo VI, linha 101** {#anexo6_lin101} requisitos institucionais;
+- **Anexo VI, linha 102** {#anexo6_lin102} 3.2.4. Quantificar os custos e benefícios de cada alternativa incorporando os custos calculados para as
+- **Anexo VI, linha 103** {#anexo6_lin103} medidas mitigadoras propostas. Considerar inclusive a alternativa de não realização do projeto, a fim de
+- **Anexo VI, linha 104** {#anexo6_lin104} esclarecer as condições ambientais sem ele;
+- **Anexo VI, linha 105** {#anexo6_lin105} 3.2.5. Apresentar justificativa da escolha da alternativa preferencial para implantação do empreendimento
+- **Anexo VI, linha 106** {#anexo6_lin106} (proceder à apreciação sucinta de comparação das alternativas analisadas e, indicar qual, dentre elas,
+- **Anexo VI, linha 107** {#anexo6_lin107} constitui-se na opção mais adequada às prioridades de investimento a serem implementadas);
+- **Anexo VI, linha 108** {#anexo6_lin108} 3.2.6. Em se tratando de terras indígenas e / ou aproveitamento de recursos hídricos, pesquisa e lavra de
+- **Anexo VI, linha 109** {#anexo6_lin109} riquezas minerais, além daquelas áreas de interesse público da União, é imprescindível a autorização do
+- **Anexo VI, linha 110** {#anexo6_lin110} Legislativo Federal.
+- **Anexo VI, linha 111** {#anexo6_lin111} 3.3. Enquadramento Legal do Empreendimento contendo:
+- **Anexo VI, linha 112** {#anexo6_lin112} 3.3.1. Avaliação do conjunto de leis e regulamentos, nos diversos níveis (federal, estadual e municipal), que
+- **Anexo VI, linha 113** {#anexo6_lin113} regem os empreendimentos econômicos e a proteção ao meio ambiente na área de influência e que tenham
+- **Anexo VI, linha 114** {#anexo6_lin114} relação direta com a ação proposta, analisando as limitações por eles impostas, bem como as medidas
+- **Anexo VI, linha 115** {#anexo6_lin115} para promover compatibilidade porventura necessária.
+- **Anexo VI, linha 116** {#anexo6_lin116} 3.4. Descrição detalhada do Empreendimento contendo:
+- **Anexo VI, linha 117** {#anexo6_lin117} 3.4.1. A localização do projeto, em escala adequada, indicando na área de influência direta e sua
+- **Anexo VI, linha 118** {#anexo6_lin118} interatividade quanto a:
+- **Anexo VI, linha 119** {#anexo6_lin119} 3.4.1.1. uso e a ocupação atual do solo;
+- **Anexo VI, linha 120** {#anexo6_lin120} 3.4.1.2. setores, zonas ou bairros beneficiados pelo empreendimento /atividade;
+- **Anexo VI, linha 121** {#anexo6_lin121} 3.4.1.3. corpos d'água e seus usos; corpo receptor dos efluentes e o ponto de lançamento;
+- **Anexo VI, linha 122** {#anexo6_lin122} 3.4.1.4. a cobertura vegetal; os assentamentos populacionais, os equipamentos urbanos e de lazer;
+- **Anexo VI, linha 123** {#anexo6_lin123} 3.4.1.5. vias de acesso.
+- **Anexo VI, linha 124** {#anexo6_lin124} 3.4.2. Memorial Descritivo do empreendimento contendo, no mínimo, as seguintes informações:
+- **Anexo VI, linha 125** {#anexo6_lin125} 3.4.2.1. concepção, dimensionamento preliminar e características técnicas dos elementos do sistema de
+- **Anexo VI, linha 126** {#anexo6_lin126} tratamento e disposição final adotados;
+- **Anexo VI, linha 127** {#anexo6_lin127} 3.4.2.2. área e população atendidas, e período de alcance do empreendimento / atividade;
+- **Anexo VI, linha 128** {#anexo6_lin128} 3.4.2.3. descrição e cronograma detalhados das etapas de implantação;
+- **Anexo VI, linha 129** {#anexo6_lin129} 3.4.2.4. previsão de ampliação do sistema; descrição dos sistemas operacionais, identificando as entidades
+- **Anexo VI, linha 130** {#anexo6_lin130} responsáveis pela operação e manutenção do sistema;
+- **Anexo VI, linha 131** {#anexo6_lin131} 3.4.2.5. Geração quantitativa e qualitativa de resíduos gerados, de origem doméstica, industrial, e de
+- **Anexo VI, linha 132** {#anexo6_lin132} serviços de saúde, assim como a descrição do atual sistema de destinação final;
+- **Anexo VI, linha 133** {#anexo6_lin133} 3.4.2.6. Resíduos Sólidos - identificar as fontes de geração, estimativas quantitativas e seus respectivos
+- **Anexo VI, linha 134** {#anexo6_lin134} resíduos sólidos a serem gerados. Indicar os pontos de acondicionamento e estocagem dos resíduos
+- **Anexo VI, linha 135** {#anexo6_lin135} sólidos gerados ou a gerar, bem como os locais de disposição final. Caracterizar, sucintamente, os sistemas
+- **Anexo VI, linha 136** {#anexo6_lin136} de controle e os procedimentos associados às fontes identificadas, indicando as formas e locais de
+- **Anexo VI, linha 137** {#anexo6_lin137} disposição final de resíduos;
+- **Anexo VI, linha 138** {#anexo6_lin138} 3.4.2.7. descrição do tipo de tratamento dos efluentes líquidos gerados, informando, se for o caso, a
+- **Anexo VI, linha 139** {#anexo6_lin139} eficiência esperada e a caracterização da qualidade provável dos efluentes finais que serão lançados no
+- **Anexo VI, linha 140** {#anexo6_lin140} corpo receptor;
+- **Anexo VI, linha 141** {#anexo6_lin141} 3.4.2.8. medidas e equipamentos de controle de emissões atmosféricas, inclusive odores;
+- **Anexo VI, linha 142** {#anexo6_lin142} 3.4.2.9. estimativa dos custos de implantação.
+- **Anexo VI, linha 143** {#anexo6_lin143} 3.4.3. Para a destinação final dos resíduos, deverá ser apresentada a localização e caracterização das
+- **Anexo VI, linha 144** {#anexo6_lin144} áreas de jazidas do material de cobertura, em escala adequada, indicando:
+- **Anexo VI, linha 145** {#anexo6_lin145} 3.4.3.1. dimensão da área e cubagem da jazida;
+- **Anexo VI, linha 146** {#anexo6_lin146} 3.4.3.2. cobertura vegetal;
+- **Anexo VI, linha 147** {#anexo6_lin147} 3.4.3.3. corpos d'água e seus usos;
+- **Anexo VI, linha 148** {#anexo6_lin148} 3.4.3.4. caracterização do solo, apresentando ensaios de granulometria e compactação;
+- **Anexo VI, linha 149** {#anexo6_lin149} 3.4.3.5. vias de acesso.
+- **Anexo VI, linha 150** {#anexo6_lin150} 3.4.4. Apresentação das seguintes representações gráficas do sistema, em escala adequada:
+- **Anexo VI, linha 151** {#anexo6_lin151} 3.4.4.1. layout das instalações físicas, indicando a distribuição das áreas destinadas às diferentes unidades
+- **Anexo VI, linha 152** {#anexo6_lin152} e componentes do sistema, inclusive unidades de tratamento e valorização de resíduos, compostagem,
+- **Anexo VI, linha 153** {#anexo6_lin153} unidades de tratamento de efluentes líquidos e emissões atmosféricas, pátios de serviços e manobras,
+- **Anexo VI, linha 154** {#anexo6_lin154} faixas de proteção, áreas de preservação permanente, reserva legal, entre outras;
+- **Anexo VI, linha 155** {#anexo6_lin155} 3.4.4.2. localização dos sistemas de drenagem de gases, de percolados e de águas superficiais;
+- **Anexo VI, linha 156** {#anexo6_lin156} 3.4.4.3. localização das áreas previstas para ampliação ou implantação de unidades complementares ao
+- **Anexo VI, linha 157** {#anexo6_lin157} empreendimento / atividade.
+- **Anexo VI, linha 158** {#anexo6_lin158} 3.4.5. Apresentação das seguintes informações sobre a etapa de execução de obras:
+- **Anexo VI, linha 159** {#anexo6_lin159} 3.4.5.1. descrição das ações para limpeza do terreno, remoção da vegetação e movimentos de terra;
+- **Anexo VI, linha 160** {#anexo6_lin160} 3.4.5.2. localização e dimensionamento preliminar das atividades a serem desenvolvidas no canteiro de
+- **Anexo VI, linha 161** {#anexo6_lin161} obras (alojamentos, refeitórios, serralheria, depósitos, oficina mecânica, etc);
+- **Anexo VI, linha 162** {#anexo6_lin162} 3.4.5.3. descrição dos equipamentos e técnicas construtivas que serão empregadas na desativação e
+- **Anexo VI, linha 163** {#anexo6_lin163} recuperação das áreas de disposição a céu aberto, nos movimentos de terra, na edificação das unidades,
+- **Anexo VI, linha 164** {#anexo6_lin164} etc;
+- **Anexo VI, linha 165** {#anexo6_lin165} 3.4.5.4. origem e estimativa da mão de obra empregada;
+- **Anexo VI, linha 166** {#anexo6_lin166} 3.4.5.5. localização e caracterização das áreas de empréstimo e bota-fora
+- **Anexo VI, linha 167** {#anexo6_lin167} 3.4.6. Apresentação das seguintes informações sobre a etapa de operação:
+- **Anexo VI, linha 168** {#anexo6_lin168} 3.4.6.1. procedimentos operacionais da unidade de tratamento dos efluentes líquidos gerados (percolados);
+- **Anexo VI, linha 169** {#anexo6_lin169} 3.4.6.2. procedimentos operacionais do sistema de drenagem de gases dos aterros;
+- **Anexo VI, linha 170** {#anexo6_lin170} 3.4.6.3. procedimentos operacionais do sistema de controle das emissões atmosféricas de eventuais
+- **Anexo VI, linha 171** {#anexo6_lin171} unidades de incineração;
+- **Anexo VI, linha 172** {#anexo6_lin172} 3.4.6.4. procedimentos operacionais e programas de manutenção;
+- **Anexo VI, linha 173** {#anexo6_lin173} 3.4.6.5. qualificação e estimativa de mão-de-obra.
+- **Anexo VI, linha 174** {#anexo6_lin174} 4. Área de Influência
+- **Anexo VI, linha 175** {#anexo6_lin175} Definir, justificar e mapear, em escala adequada, a área a ser afetada pelo empreendimento / atividade,
+- **Anexo VI, linha 176** {#anexo6_lin176} considerando as bacias ou sub-bacias hidrográficas e a área atendida. Nesse enfoque, devem ser
+- **Anexo VI, linha 177** {#anexo6_lin177} considerados e avaliados:
+- **Anexo VI, linha 178** {#anexo6_lin178} 4.1. Os limites da área geográfica onde as alterações ambientais
+- **Anexo VI, linha 179** {#anexo6_lin179} podem e devem ser decorrentes do empreendimento / atividade;
+- **Anexo VI, linha 180** {#anexo6_lin180} 4.2. A área de influência destacando aquelas de incidência direta dos impactos, abrangendo os distintos
+- **Anexo VI, linha 181** {#anexo6_lin181} contornos para as diversas variáveis enfocadas;
+- **Anexo VI, linha 182** {#anexo6_lin182} 4.3. A área de influência e incidência dos impactos, devidamente definida e justificada, acompanhada de
+- **Anexo VI, linha 183** {#anexo6_lin183} mapeamento.
+- **Anexo VI, linha 184** {#anexo6_lin184} Para cada um dos fatores ambientais – meio físico, biótico e socioeconômico –deverá se definida e
+- **Anexo VI, linha 185** {#anexo6_lin185} caracterizada cada uma das áreas de abrangência específica, assim definidas:
+- **Anexo VI, linha 186** {#anexo6_lin186} Área Diretamente Afetada – área que sofre diretamente as intervenções de implantação e operação do
+- **Anexo VI, linha 187** {#anexo6_lin187} empreendimento
+- **Anexo VI, linha 188** {#anexo6_lin188} /atividade,
+- **Anexo VI, linha 189** {#anexo6_lin189} considerando
+- **Anexo VI, linha 190** {#anexo6_lin190} alterações
+- **Anexo VI, linha 191** {#anexo6_lin191} físicas,
+- **Anexo VI, linha 192** {#anexo6_lin192} biológicas,socioeconômicas
+- **Anexo VI, linha 193** {#anexo6_lin193} e
+- **Anexo VI, linha 194** {#anexo6_lin194} das
+- **Anexo VI, linha 195** {#anexo6_lin195} particularidades da atividade;
+- **Anexo VI, linha 196** {#anexo6_lin196} Área de Influência Direta – área sujeita aos impactos diretos da implantação e operação da atividade. A sua
+- **Anexo VI, linha 197** {#anexo6_lin197} delimitação deverá ser função das características sociais, econômicas, físicas e biológicas dos sistemas a
+- **Anexo VI, linha 198** {#anexo6_lin198} serem executados e das características da atividade;
+- **Anexo VI, linha 199** {#anexo6_lin199} Área de Influência Indireta – área real ou potencialmente ameaçada pelos impactos indiretos da
+- **Anexo VI, linha 200** {#anexo6_lin200} implantação e operação da atividade, abrangendo os ecossistemas e o sistema socioeconômico que podem
+- **Anexo VI, linha 201** {#anexo6_lin201} ser impactados por alterações ocorridas na área de influência da atividade.
+- **Anexo VI, linha 202** {#anexo6_lin202} 5. Diagnóstico Ambiental da Área Diretamente Afetada
+- **Anexo VI, linha 203** {#anexo6_lin203} O Estudo de Impacto Ambiental deverá caracterizar, de forma clara e objetiva, a área de influência direta e
+- **Anexo VI, linha 204** {#anexo6_lin204} indireta afetada pelo empreendimento / atividade, com a descrição da situação social, econômica e
+- **Anexo VI, linha 205** {#anexo6_lin205} ambiental da mesma frente à ação proposta. Recomenda-se o uso de mapas e fotos datadas, como
+- **Anexo VI, linha 206** {#anexo6_lin206} recursos ilustrativos, acompanhadas de legendas explicativas da área.
+- **Anexo VI, linha 207** {#anexo6_lin207} As informações a serem abordadas neste item, devem propiciar a elaboração de diagnóstico da área de
+- **Anexo VI, linha 208** {#anexo6_lin208} diretamente afetada pelo empreendimento atividade, refletindo as condições atuais dos meios: físico,
+- **Anexo VI, linha 209** {#anexo6_lin209} biológico e socioeconômico. A avaliação ambiental deve ser realizada considerando os efetivos e/ou
+- **Anexo VI, linha 210** {#anexo6_lin210} potenciais impactos, positivos e/ou negativos, que o empreendimento / atividade possa vir a provocar sobre
+- **Anexo VI, linha 211** {#anexo6_lin211} os meios citados anteriormente, resultando num diagnóstico integrado.
+- **Anexo VI, linha 212** {#anexo6_lin212} Para tanto, neste item deverão ser evidenciadas as principais características da área de influencia do
+- **Anexo VI, linha 213** {#anexo6_lin213} projeto relacionando-as com os meios físico, biológico e sócio-econômico, considerando, os seguintes
+- **Anexo VI, linha 214** {#anexo6_lin214} aspectos:
+- **Anexo VI, linha 215** {#anexo6_lin215} 5.1. Meio Físico
+- **Anexo VI, linha 216** {#anexo6_lin216} 5.1.1. O clima, especialmente quanto ao regime das chuvas e precipitação pluviométrica (médias anuais e
+- **Anexo VI, linha 217** {#anexo6_lin217} mensais; máximas e mínimas anuais), temperatura (média, mínima e máxima anual), velocidade e direção
+- **Anexo VI, linha 218** {#anexo6_lin218} dos ventos predominantes; e, evapotranspiração;
+- **Anexo VI, linha 219** {#anexo6_lin219} 5.1.2. As unidades geológico-geotécnicas que ocorrem na região com principais feições estruturais;
+- **Anexo VI, linha 220** {#anexo6_lin220} 5.1.3. A geomorfologia da área diretamente atingida pelo empreendimento / atividade, incluindo:
+- **Anexo VI, linha 221** {#anexo6_lin221} compartimentação geomorfológica e características das unidades que compõe o relevo (áreas de morros,
+- **Anexo VI, linha 222** {#anexo6_lin222} planícies, encostas);
+- **Anexo VI, linha 223** {#anexo6_lin223} 5.1.4. A topográfica, com levantamento planialtimétrico, em escala conveniente (1:500, 1:1.000 ou 1:2.000,
+- **Anexo VI, linha 224** {#anexo6_lin224} dependendo da superfície e porte do empreendimento), com curvas de nível de metro em metro e indicação
+- **Anexo VI, linha 225** {#anexo6_lin225} de todos os detalhes significativos do terreno e vizinhança (construções, poços, nascentes, etc.). Destacar
+- **Anexo VI, linha 226** {#anexo6_lin226} eventuais alterações positivas e/ou negativas;
+- **Anexo VI, linha 227** {#anexo6_lin227} 5.1.5. As dinâmicas do relevo (presença ou propensão à erosão acelerada e assoreamento, áreas sujeitas a
+- **Anexo VI, linha 228** {#anexo6_lin228} inundações, desmoronamentos, etc);
+- **Anexo VI, linha 229** {#anexo6_lin229} 5.1.6. As condições geológicas e geotécnicas da seqüência de base, quando se tratar de sistemas de
+- **Anexo VI, linha 230** {#anexo6_lin230} disposição final de resíduos, e a conseqüente caracterização das obras para impermeabilização da base,
+- **Anexo VI, linha 231** {#anexo6_lin231} coleta e tratamento de efluentes líquidos / chorume;
+- **Anexo VI, linha 232** {#anexo6_lin232} 5.1.7. A geologia do terreno, pelo menos quanto à estabilidade, permeabilidade, plasticidade e porosidade;
+- **Anexo VI, linha 233** {#anexo6_lin233} 5.1.8. Os tipos de solos predominantes na área de influência do empreendimento e identificação daqueles
+- **Anexo VI, linha 234** {#anexo6_lin234} com potencial de utilização como material de empréstimo, quando necessário;
+- **Anexo VI, linha 235** {#anexo6_lin235} 5.1.9. A bacia hidrográfica e sub-bacia(s) em que se insere o empreendimento;
+- **Anexo VI, linha 236** {#anexo6_lin236} 5.1.10. Os curso(s) d’água, poço(s) e outras coleções hídricas mais próximas;
+- **Anexo VI, linha 237** {#anexo6_lin237} 5.1.11. A alteração no enquadramento da bacia hidrográfica e dos corpos d’água a serem utilizados para
+- **Anexo VI, linha 238** {#anexo6_lin238} disposição de efluentes líquidos (conforme classificação na Legislação Estadual e na Resolução CONAMA
+- **Anexo VI, linha 239** {#anexo6_lin239} nº 357/2005);
+- **Anexo VI, linha 240** {#anexo6_lin240} 5.1.12. Os principais usos das águas à montante e a jusante do sistema de disposição final de resíduos
+- **Anexo VI, linha 241** {#anexo6_lin241} sólidos / líquidos;
+- **Anexo VI, linha 242** {#anexo6_lin242} 5.1.13. Os aqüíferos subterrâneos na área de influência com nível do lençol freático, localização de áreas
+- **Anexo VI, linha 243** {#anexo6_lin243} de recarga e, informações sobre a qualidade das águas dos mesmos,
+- **Anexo VI, linha 244** {#anexo6_lin244} 5.1.14. A qualidade da água do corpo receptor quanto às vazões máximas, médias e mínimas e aos
+- **Anexo VI, linha 245** {#anexo6_lin245} parâmetros físico-químicos;
+- **Anexo VI, linha 246** {#anexo6_lin246} 5.2. Meio Biótico
+- **Anexo VI, linha 247** {#anexo6_lin247} 5.2.1. A cobertura vegetal, considerando: extensão e distribuição das formações vegetais, identificação dos
+- **Anexo VI, linha 248** {#anexo6_lin248} diferentes estratos vegetais, ressaltando as Áreas de Preservação Permanente, as Unidades de
+- **Anexo VI, linha 249** {#anexo6_lin249} Conservação e as espécies raras ou ameaçadas de extinção, bem como as de interesse econômico e
+- **Anexo VI, linha 250** {#anexo6_lin250} científico, bem como a localização das áreas de ocorrência das mesmas;
+- **Anexo VI, linha 251** {#anexo6_lin251} 5.2.2. A descrição e caracterização da fauna associada considerando: identificação de espécies endêmicas,
+- **Anexo VI, linha 252** {#anexo6_lin252} raras, ameaçadas de extinção, de interesse econômico e científico, incluindo a fauna bentônica, bem como
+- **Anexo VI, linha 253** {#anexo6_lin253} a localização das áreas de ocorrência das mesmas, aspectos como hábitos alimentares, habitat (estrato
+- **Anexo VI, linha 254** {#anexo6_lin254} vegetal), sítios de nidificação e alimentação significativos, fontes de dessedentação e abrigos.
+- **Anexo VI, linha 255** {#anexo6_lin255} 5.2.3. A cobertura vegetal, mapeada em escala adequada, da área de influência do empreendimento
+- **Anexo VI, linha 256** {#anexo6_lin256} indicando formações vegetais, os diferentes estratos vegetais, as áreas de preservação permanente, as
+- **Anexo VI, linha 257** {#anexo6_lin257} unidades de conservação localizadas até 10 km da área do projeto.
+- **Anexo VI, linha 258** {#anexo6_lin258} Na realização dos estudos de campo que necessitem de coletas, capturas, transporte e manipulação de
+- **Anexo VI, linha 259** {#anexo6_lin259} materiais biológicos deverá ser observada a legislação ambiental pertinente, principalmente a necessidade
+- **Anexo VI, linha 260** {#anexo6_lin260} de autorização de captura, coleta e transporte de fauna emitida pelo IBAMA.
+- **Anexo VI, linha 261** {#anexo6_lin261} Após o diagnóstico da biota, deverão ser propostos, com as devidas justificativa técnicas, os bioindicadores,
+- **Anexo VI, linha 262** {#anexo6_lin262} ou seja, as espécies, ou grupos de espécies que poderão ser utilizados como indicadores de alterações da
+- **Anexo VI, linha 263** {#anexo6_lin263} qualidade ambiental em programas de monitoramento, na fase de operação.
+- **Anexo VI, linha 264** {#anexo6_lin264} 5.3. Meio Sócio econômico
+- **Anexo VI, linha 265** {#anexo6_lin265} 5.3.1. Caracterização geral do município no que se refere às condições sociais e econômicas da população,
+- **Anexo VI, linha 266** {#anexo6_lin266} principais atividades econômicas, serviços de infra-estrutura, equipamentos urbanos, sistemas viário e de
+- **Anexo VI, linha 267** {#anexo6_lin267} transportes;
+- **Anexo VI, linha 268** {#anexo6_lin268} 5.3.2. Delimitação, utilizando mapeamento em escala adequada, das áreas de expansão urbana, industrial
+- **Anexo VI, linha 269** {#anexo6_lin269} e turística e dos principais usos do solo: residencial, comercial, industrial, de recreação, turístico, agrícola,
+- **Anexo VI, linha 270** {#anexo6_lin270} pecuária e atividades extrativas, bem como dos equipamentos urbanos e elementos do patrimônio histórico,
+- **Anexo VI, linha 271** {#anexo6_lin271} arqueológico, paisagístico e cultural;
+- **Anexo VI, linha 272** {#anexo6_lin272} 5.3.3. Às áreas consideradas como de patrimônio cultural, áreas tombadas, inventariadas nos âmbitos
+- **Anexo VI, linha 273** {#anexo6_lin273} federal, estadual e municipal, bem como os sítios arqueológicos;
+- **Anexo VI, linha 274** {#anexo6_lin274} 5.3.4. As condições sociais e econômicas da população urbana e rural, indicando aquelas beneficiadas e
+- **Anexo VI, linha 275** {#anexo6_lin275} /ou prejudicadas pelo empreendimento / atividade;
+- **Anexo VI, linha 276** {#anexo6_lin276} 5.3.5. As relações de dependências entre a sociedade local e os recursos ambientais;
+- **Anexo VI, linha 277** {#anexo6_lin277} 5.3.6. A taxa de crescimento demográfico e vegetativo da população total, urbana e rural, e projeção para o
+- **Anexo VI, linha 278** {#anexo6_lin278} período de alcance do empreendimento / atividade;
+- **Anexo VI, linha 279** {#anexo6_lin279} 5.3.7. O dimensionamento preliminar e caracterização econômica e social da população a ser removida e
+- **Anexo VI, linha 280** {#anexo6_lin280} daquela a ser afetada pela desativação dos locais de disposição de resíduos a céu aberto, bem como
+- **Anexo VI, linha 281** {#anexo6_lin281} indicação dos locais propostos para reassentamento;
+- **Anexo VI, linha 282** {#anexo6_lin282} 5.3.8. As vias de acesso quanto às condições de pavimentação, conservação, sinalização e tráfego;
+- **Anexo VI, linha 283** {#anexo6_lin283} 5.3.9. As condições de saúde da população quanto às principais doenças endêmicas e sua área de
+- **Anexo VI, linha 284** {#anexo6_lin284} incidência.
+- **Anexo VI, linha 285** {#anexo6_lin285} 5.3.10. A situação fundiária (número estimado de famílias a serem desalojadas, número de propriedades a
+- **Anexo VI, linha 286** {#anexo6_lin286} serem desapropriadas, dentre outras);
+- **Anexo VI, linha 287** {#anexo6_lin287} 6. Identificação dos Impactos Ambientais
+- **Anexo VI, linha 288** {#anexo6_lin288} O Estudo Prévio de Impacto Ambiental de qualquer empreendimento ou atividade deve identificar e
+- **Anexo VI, linha 289** {#anexo6_lin289} descrever os prováveis impactos ambientais positivos e negativos; diretos e indiretos; primários e
+- **Anexo VI, linha 290** {#anexo6_lin290} secundários; imediatos, de médio e longo prazos; cíclicos, cumulativos e sinérgicos; locais e regionais;
+- **Anexo VI, linha 291** {#anexo6_lin291} estratégicos, temporários e permanentes; reversíveis e irreversíveis, bem como sua distribuição social, para
+- **Anexo VI, linha 292** {#anexo6_lin292} cada alternativa, nas fases de execução de obras e operação, sobre os meios físico, biótico e antrópico,
+- **Anexo VI, linha 293** {#anexo6_lin293} com ênfase em:
+- **Anexo VI, linha 294** {#anexo6_lin294} 6.1. Fase de execução de obras
+- **Anexo VI, linha 295** {#anexo6_lin295} 6.1.1. Impactos sobre a população, decorrentes da instalação das obras e das atividades desenvolvidas no
+- **Anexo VI, linha 296** {#anexo6_lin296} canteiro, em especial os incômodos provocados por ruídos, poluição do ar, vibrações sonoras e do solo, e
+- **Anexo VI, linha 297** {#anexo6_lin297} tráfego pesado;
+- **Anexo VI, linha 298** {#anexo6_lin298} 6.1.2. Impactos das interferências das obras nos sistemas de infra-estrutura e nos equipamentos urbanos;
+- **Anexo VI, linha 299** {#anexo6_lin299} 6.1.3. Impactos sobre o nível do lençol freático e a estabilidade dos solos;
+- **Anexo VI, linha 300** {#anexo6_lin300} 6.1.4. Impactos dos movimentos de terra nos corpos d'água, a jusante das obras, especialmente quanto ao
+- **Anexo VI, linha 301** {#anexo6_lin301} assoreamento;
+- **Anexo VI, linha 302** {#anexo6_lin302} 6.1.5. Impactos sociais, econômicos e culturais de eventuais desapropriação de imóveis e da remoção da
+- **Anexo VI, linha 303** {#anexo6_lin303} população;
+- **Anexo VI, linha 304** {#anexo6_lin304} 6.1.6. Impactos sociais, econômicos e culturais decorrentes do aumento temporário de contingente humano
+- **Anexo VI, linha 305** {#anexo6_lin305} no bairro, distrito, município e região.
+- **Anexo VI, linha 306** {#anexo6_lin306} 6.2. Fase de Operação
+- **Anexo VI, linha 307** {#anexo6_lin307} 6.2.1. Impactos sobre as condições de saúde da população atendida;
+- **Anexo VI, linha 308** {#anexo6_lin308} 6.2.2. Impactos na qualidade da água do corpo receptor;
+- **Anexo VI, linha 309** {#anexo6_lin309} 6.2.3. Impactos na qualidade das águas subterrâneas decorrentes de líquidos percolados;
+- **Anexo VI, linha 310** {#anexo6_lin310} 6.2.4. Impactos sobre a população, principalmente quanto a odores, proliferação de vetores, ruídos e
+- **Anexo VI, linha 311** {#anexo6_lin311} transporte de resíduos;
+- **Anexo VI, linha 312** {#anexo6_lin312} 6.2.5. Impactos da extração de material para cobertura nas jazidas selecionadas;
+- **Anexo VI, linha 313** {#anexo6_lin313} 6.2.6. Impactos na paisagem;
+- **Anexo VI, linha 314** {#anexo6_lin314} 6.2.7. Impactos sociais, econômicos e culturais decorrentes do aumento do contingente humano no bairro,
+- **Anexo VI, linha 315** {#anexo6_lin315} distrito,município e região.
+- **Anexo VI, linha 316** {#anexo6_lin316} Para cada impacto identificado, deve ser determinadas sua magnitude e importância, especificando os
+- **Anexo VI, linha 317** {#anexo6_lin317} indicadores de impacto adotados, os critérios, os métodos e as técnicas utilizadas.
+- **Anexo VI, linha 318** {#anexo6_lin318} Esses estudos devem trazer uma síntese conclusiva dos impactos ambientais mais significativos, positivos
+- **Anexo VI, linha 319** {#anexo6_lin319} e negativos, previstos em cada fase do empreendimento / atividade, incluindo o prognóstico da qualidade
+- **Anexo VI, linha 320** {#anexo6_lin320} ambiental na área de influência, nos casos de adoção da alternativa locacional e tecnológica selecionada, e
+- **Anexo VI, linha 321** {#anexo6_lin321} na hipótese de sua não implementação, determinando e justificando os horizontes de tempo considerados
+- **Anexo VI, linha 322** {#anexo6_lin322} 7. Estudo e Definição de Medidas Mitigadoras e Preventivas
+- **Anexo VI, linha 323** {#anexo6_lin323} Deverão ser descritas, com detalhes, as medidas, equipamentos ou procedimentos, de natureza preventiva
+- **Anexo VI, linha 324** {#anexo6_lin324} ou corretiva, que serão utilizados para evitar os impactos ambientais negativos sobre os fatores ambientais
+- **Anexo VI, linha 325** {#anexo6_lin325} físicos, bióticos e antrópicos, ou reduzir a sua magnitude, em cada fase do empreendimento, especificando
+- **Anexo VI, linha 326** {#anexo6_lin326} o seu custo e avaliando sua eficiência, com ênfase em:
+- **Anexo VI, linha 327** {#anexo6_lin327} 7.1. Medidas mitigadoras e/ou preventivas aplicáveis objetivamente à tipologia do empreendimento /
+- **Anexo VI, linha 328** {#anexo6_lin328} atividade em referência;
+- **Anexo VI, linha 329** {#anexo6_lin329} 7.2. Medidas de redução das interferências e incômodos das obras na população;
+- **Anexo VI, linha 330** {#anexo6_lin330} 7.3. Medidas de recuperação e recomposição paisagística das áreas de empréstimo e bota-fora, bem como
+- **Anexo VI, linha 331** {#anexo6_lin331} das áreas de jazidas de material de recobrimento;
+- **Anexo VI, linha 332** {#anexo6_lin332} 7.4. Medidas de controle de erosão, recuperação e recomposição paisagística dos taludes;
+- **Anexo VI, linha 333** {#anexo6_lin333} 7.5. Medidas de minimização dos impactos decorrentes de desapropriação de imóveis e remoção da
+- **Anexo VI, linha 334** {#anexo6_lin334} população;
+- **Anexo VI, linha 335** {#anexo6_lin335} 7.6. Medidas para garantir a qualidade da água no corpo receptor, especialmente as alternativas de
+- **Anexo VI, linha 336** {#anexo6_lin336} tratamento do percolado, avaliando sua eficiência em relação aos padrões de lançamento de efluentes
+- **Anexo VI, linha 337** {#anexo6_lin337} líquidos;
+- **Anexo VI, linha 338** {#anexo6_lin338} 7.7. Medidas de proteção da qualidade das águas subterrâneas;
+- **Anexo VI, linha 339** {#anexo6_lin339} 7.8. Medidas e/ou equipamentos para controle de emissões atmosféricas, inclusive odores;
+- **Anexo VI, linha 340** {#anexo6_lin340} 7.9. Medidas para prevenção e controle dos impactos associados à proliferação de vetores;
+- **Anexo VI, linha 341** {#anexo6_lin341} 7.10. Medidas para prevenção de riscos à saúde;
+- **Anexo VI, linha 342** {#anexo6_lin342} 7.11. Medidas e/ou dispositivos para prevenção de acidentes, especialmente nos casos de aterros,
+- **Anexo VI, linha 343** {#anexo6_lin343} incluindo faixas de segurança e do uso do solo no entorno do empreendimento;
+- **Anexo VI, linha 344** {#anexo6_lin344} 7.12. Medidas para redução dos impactos na paisagem.
+- **Anexo VI, linha 345** {#anexo6_lin345} 8. Plano de Acompanhamento e Monitoramento
+- **Anexo VI, linha 346** {#anexo6_lin346} O Estudo Prévio de Impacto Ambiental deve apresentar planos de acompanhamento e monitoramento de
+- **Anexo VI, linha 347** {#anexo6_lin347} impactos e medidas mitigadoras, incluindo:
+- **Anexo VI, linha 348** {#anexo6_lin348} 8.1. Acompanhamento fotográfico periódico do empreendimento, durante a fase de execução de obras,
+- **Anexo VI, linha 349** {#anexo6_lin349} indicando as condições do canteiro e da área de entorno;
+- **Anexo VI, linha 350** {#anexo6_lin350} 8.2. Acompanhamento fotográfico periódico dos projetos de recuperação e recomposição paisagística dos
+- **Anexo VI, linha 351** {#anexo6_lin351} taludes e das áreas de empréstimo e bota-fora;
+- **Anexo VI, linha 352** {#anexo6_lin352} 8.3. Acompanhamento dos programas de desapropriação de imóveis, remoção e reassentamento da
+- **Anexo VI, linha 353** {#anexo6_lin353} população;
+- **Anexo VI, linha 354** {#anexo6_lin354} 8.4. Monitoramento da qualidade das águas subterrâneas
+- **Anexo VI, linha 355** {#anexo6_lin355} 8.5. Monitoramento da qualidade do corpo receptor
+- **Anexo VI, linha 356** {#anexo6_lin356} 8.6. Monitoramento da qualidade do ar da área de influência do empreendimento.
+- **Anexo VI, linha 357** {#anexo6_lin357} 9. Conclusões
+- **Anexo VI, linha 358** {#anexo6_lin358} De forma sucinta, objetiva e amparada nas avaliações realizadas no decorrer do Estudo de Impacto
+- **Anexo VI, linha 359** {#anexo6_lin359} Ambiental apresentar conclusões que apontem pela viabilidade / inviabilidade ambiental do
+- **Anexo VI, linha 360** {#anexo6_lin360} empreendimento / atividade, sob os seguintes enfoques:
+- **Anexo VI, linha 361** {#anexo6_lin361} 9.1. Prováveis modificações ambientais na área de influência da atividade, sobre os meios físico, biótico e
+- **Anexo VI, linha 362** {#anexo6_lin362} socioeconômico decorrentes do empreendimento / atividade, considerando a adoção das medidas
+- **Anexo VI, linha 363** {#anexo6_lin363} mitigadoras e compensatórias propostas;
+- **Anexo VI, linha 364** {#anexo6_lin364} 9.2. Adequação ambiental do empreendimento / atividade, amparada nos diagnósticos e prognósticos
+- **Anexo VI, linha 365** {#anexo6_lin365} elaborados;
+- **Anexo VI, linha 366** {#anexo6_lin366} 9.3. Adequação técnica do empreendimento / atividade, demonstrada no prognóstico realizado;
+- **Anexo VI, linha 367** {#anexo6_lin367} 9.4. Adequação legal do empreendimento, demonstrada frente a legislação vigente, mormente aquela
+- **Anexo VI, linha 368** {#anexo6_lin368} específica para a tipologia da atividade avaliada;
+- **Anexo VI, linha 369** {#anexo6_lin369} 9.5. Adequação político-social, demonstrada pela compatibilidade do empreendimento / atividade com a
+- **Anexo VI, linha 370** {#anexo6_lin370} política ambiental do País e do Estado do Paraná;
+- **Anexo VI, linha 371** {#anexo6_lin371} 9.6. Benefícios sociais, econômicos e ambientais decorrentes do empreendimento / atividade;
+- **Anexo VI, linha 372** {#anexo6_lin372} 9.7. Avaliação do prognóstico realizado quanto à viabilidade ambiental do empreendimento / atividade.
+- **Anexo VI, linha 373** {#anexo6_lin373} Deverá ser elaborada como uma síntese que caracterize a área de influência de forma global, com o
+- **Anexo VI, linha 374** {#anexo6_lin374} objetivo de integrar as informações dos meios físicos, biótico e socioeconômico, fornecendo subsídios à
+- **Anexo VI, linha 375** {#anexo6_lin375} ampla identificação e avaliação dos impactos decorrentes da atividade, bem como a qualidade ambiental
+- **Anexo VI, linha 376** {#anexo6_lin376} futura da região.
+- **Anexo VI, linha 377** {#anexo6_lin377} Para isso, deverão ser caracterizadas as inter-relações existentes entre os meios físico-químico, bióticos, e
+- **Anexo VI, linha 378** {#anexo6_lin378} socioeconômico, apresentando as tendências evolutivas da visão dos cenários futuros, de forma
+- **Anexo VI, linha 379** {#anexo6_lin379} compreender a estrutura e da dinâmica ambiental da região, considerando as possibilidades de implantação
+- **Anexo VI, linha 380** {#anexo6_lin380} e de não execução do empreendimento / atividade.
+- **Anexo VI, linha 381** {#anexo6_lin381} 10. Referências Bibliográficas
+- **Anexo VI, linha 382** {#anexo6_lin382} Todas as referências bibliográficas utilizadas deverão ser mencionadas o texto e relacionadas em capítulo
+- **Anexo VI, linha 383** {#anexo6_lin383} próprio, contendo, no mínimo, as informações referentes a autor, título, origem, ano e demais dados que
+- **Anexo VI, linha 384** {#anexo6_lin384} permitam acesso à publicação.
+
+## Síntese do conversor (não é texto normativo)
+
+**a) Onde se aplica.** É o termo de referência do EIA/RIMA, apresentado com o pedido de **Licença Prévia (LP)**: o art. 2º, I, "h", exige "estudos preliminares, EIA/RIMA ou RAP", e a ART de quem os elaborou (alínea "i"). A Portaria não diz em que casos vale o EIA/RIMA e em que casos basta o RAP (Anexo VII); o critério é do IAP [interpretação]. O art. 4º limita a LP a 2 anos, sem renovação. Portaria revogada pela [[instrucao-normativa-iat-33-2025]].
+
+**b) O que o estudo deve conter** (por capítulo do termo de referência):
+- I. Introdução (linhas 1–11): avaliar alternativas de concepção, tecnologia, localização e técnicas construtivas, com a escolhida justificada (técnico, ambiental, econômico); impactos em todas as etapas (obras, operação, manutenção e desativação), classificados em positivos/negativos, diretos/indiretos, temporários/permanentes etc.; compatibilidade com a legislação federal, estadual e municipal.
+- II. Equipe (linhas 12–46): profissional ou equipe multidisciplinar registrada nos conselhos, independente do empreendedor (contrato sem vínculo com a concessão da licença); registro no CTF do IBAMA (CONAMA 1/1988); estudos do meio antrópico por antropólogos e/ou sociólogos; nomes, registros, funções e assinatura de todos, coordenador rubrica todas as páginas; ART (CEMA 65/2008, art. 63).
+- III. Formato (linhas 47–51): 2 vias impressas (uma não encadernada) e 3 cópias digitais (CD).
+- IV.1–2 Dados do empreendedor e do consultor (linhas 53–70).
+- IV.3 Caracterização do empreendimento (linhas 71–173): 3.1 justificativa, objetivos, modelo de gestão (consorciada ou individual), compatibilidade com planos de resíduos e zoneamento agroecológico (71–90); 3.2 localização e alternativas locacionais e tecnológicas, com análise custo-benefício e alternativa de não realização (91–110, que inclui autorização do Legislativo Federal em terras indígenas); 3.3 enquadramento legal (111–115); 3.4 descrição detalhada (116–173): mapas, memorial descritivo (dimensionamento, população atendida, resíduos, efluentes, emissões e odores, custos), jazidas de cobertura (com granulometria e compactação), layout e drenagens, obras (canteiro, empréstimo e bota-fora) e operação.
+- IV.4 Área de influência (linhas 174–201): ADA, AID e AII por meio (físico, biótico e socioeconômico), mapeadas e justificadas, considerando as bacias hidrográficas.
+- IV.5 Diagnóstico (linhas 202–286): meio físico (clima, geologia/geotecnia, geomorfologia, planialtimetria 1:500 a 1:2.000 com curvas de metro em metro, solos, hidrografia, enquadramento, aquíferos e qualidade do corpo receptor; 215–245); meio biótico (flora, fauna, UCs até 10 km, autorização de captura de fauna, bioindicadores para o monitoramento; 246–263); meio socioeconômico (população, uso do solo, patrimônio, saúde, situação fundiária; 264–286).
+- IV.6 Impactos (linhas 287–321): atributos de classificação, impactos das obras (6.1) e da operação (6.2), magnitude e importância com indicadores e métodos, prognóstico com e sem o projeto.
+- IV.7 Medidas mitigadoras e preventivas (linhas 322–344): com custo e eficiência.
+- IV.8 Monitoramento (linhas 345–356): fotográfico, reassentamento, águas subterrâneas, corpo receptor e ar.
+- IV.9 Conclusões (linhas 357–380) sobre viabilidade ambiental, técnica, legal e político-social, e IV.10 Referências (381–384).
+
+**c) Glossário** (fontes externas; não fazem parte da norma; detalhes em `glossario.md`).
+- Área de influência (ADA, AID, AII), alternativas locacionais, magnitude e importância, medidas mitigadoras: ver glossário (a CONAMA 1/1986 não está na base).
+- Atributos dos impactos (cumulativos, sinérgicos, reversíveis): [CONAMA 1/1986, art. 6º, II](https://www.normasbrasil.com.br/norma/resolucao-1-1986_94898.html).
+- Bioindicadores: [eCycle](https://www.ecycle.com.br/bioindicadores/).
+- Cadastro Técnico Federal e ART: ver glossário; [[resolucao-conama-1-1988]] (CTF).
+- Resolução CEMA 65/2008, art. 63: [interpretação do conversor; sem fonte web].
+- Autorização do Legislativo Federal: [[constituicao-federal-1988#art231_par3|CF, art. 231, § 3º]].
+- Crescimento vegetativo: [Governo do RS](https://estado.rs.gov.br/com-nascimentos-em-baixa-taxa-de-crescimento-vegetativo-do-rs-atinge-menor-patamar).
+- Fauna bentônica e zoneamento agroecológico: [interpretação do conversor; sem fonte web].
+- Chorume e percolado: [Toda Matéria](https://www.todamateria.com.br/chorume/). Classes dos corpos d'água: [[resolucao-conama-357-2005]]. Reassentamento, bota-fora/empréstimo, estágio sucessional, UC, planialtimetria, geomorfologia: ver glossário.
+- Autorização de captura de fauna: ver "Portaria IAT nº 12/2024" no glossário.
+
+**d) Observações do conversor sobre o original** (texto não corrigido):
+- Linhas 186–195 (definição de Área Diretamente Afetada) saíram quebradas em palavras soltas na extração do PDF; conferir no original.
+- O título do item 5 diz "Área Diretamente Afetada", mas o texto trata das áreas de influência direta e indireta; o item 3.2.1 pede a área de influência direta antes do capítulo 4.
+- A linha 12 usa "Estudo Prévio de Impacto Ambiental" para o EIA. A linha 171 prevê incineração em estudo de aterro. Erros: "deve ser determinadas" (316), "mencionadas o texto" (382), "de forma compreender" (379).
+- Não há capítulo próprio de programas ambientais (só o monitoramento do item 8); os programas são detalhados no PCA ou PBA (Anexo VIII, linhas 137–141).
+
+## Notas de transcrição
+
+- Texto extraído do PDF do portal; cabeçalhos e rodapés do portal foram removidos.
+- Quebras gráficas de linha foram unidas e hifenizações de fim de linha restauradas; grafia, capitalização e pontuação foram mantidas como no original.

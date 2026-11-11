@@ -11,6 +11,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "decreto-estadual-10285-2014",
+"norma": "Decreto Estadual nº 10.285/2014",
+"tipo": "decreto",
+"esfera": "estadual",
+"orgao": "Governo do Estado do Paraná",
+"ano": 2014,
+"ementa": "Dispõe sobre os procedimentos do Poder Executivo, que garante o acesso à informação, nos termos da legislação vigente.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "decreto-estadual-12799-2026",
 "norma": "Decreto Estadual nº 12.799/2026",
 "tipo": "decreto",
@@ -1369,6 +1380,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "portaria-iap-243-2009",
+"norma": "Portaria IAP nº 243/2009",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "",
+"ano": 2009,
+"ementa": "Documentação complementar para requerimento de Dispensa do Licenciamento Ambiental Estadual – DLAE (ementa descritiva do conversor).",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "portaria-iap-256-2011",
 "norma": "Portaria IAP nº 256/2011",
 "tipo": "portaria",
@@ -1387,13 +1409,6 @@ window.CATALOGO_NORMAS = [
 "orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
 "ano": 2013,
 "ementa": "Aprova e estabelece os critérios e exigências para a apresentação da DECLARAÇÃO DE CARGA POLUIDORA, através do SISTEMA DE AUTOMONITORAMENTO de Atividades Poluidoras no Paraná e determina seu cumprimento.",
-"arquivo": "portaria-iap-243-2009",
-"norma": "Portaria IAP nº 243/2009",
-"tipo": "portaria",
-"esfera": "estadual",
-"orgao": "",
-"ano": 2009,
-"ementa": "Documentação complementar para requerimento de Dispensa do Licenciamento Ambiental Estadual – DLAE (ementa descritiva do conversor).",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -1413,13 +1428,17 @@ window.CATALOGO_NORMAS = [
 ]
 },
 {
-"arquivo": "portaria-iap-59-2015",
-"norma": "Portaria IAP nº 59/2015",
+"arquivo": "portaria-iap-260-2014",
+"norma": "Portaria IAP nº 260/2014",
 "tipo": "portaria",
 "esfera": "estadual",
 "orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
-"ano": 2015,
-"ementa": "Reconhece a Lista Oficial de Espécies Exóticas Invasoras para o Estado do Paraná, estabelece normas de controle e dá outras providências.",
+"ano": 2014,
+"ementa": "Define os documentos, projetos e estudos ambientais, exigidos nas etapas de licenciamento ambiental de aterros sanitários no Estado do Paraná.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
 "arquivo": "portaria-iap-304-2013",
 "norma": "Portaria IAP nº 304/2013",
 "tipo": "portaria",
@@ -1431,24 +1450,6 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
-"arquivo": "portaria-iap-96-2007",
-"norma": "Portaria IAP nº 96/2007",
-"tipo": "portaria",
-"esfera": "estadual",
-"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
-"ano": 2007,
-"ementa": "Isenta a matéria prima florestal exótica da obrigatoriedade de reposição florestal, da prévia aprovação para exploração e transporte e dá outras providências.",
-"situacao": "revogada",
-"apelidos": []
-},
-{
-"arquivo": "portaria-iat-143-2021",
-"norma": "Portaria IAT nº 143/2021",
-"tipo": "portaria",
-"esfera": "estadual",
-"orgao": "Instituto Água e Terra – IAT",
-"ano": 2021,
-"ementa": "Estabelece o Sistema de Cadastramento de Empresas e de Profissionais Autônomos que atuam na área de hidrogeologia e da construção de poços tubulares (ementa do conversor).",
 "arquivo": "portaria-iap-40-2010",
 "norma": "Portaria IAP nº 40/2010",
 "tipo": "portaria",
@@ -1468,6 +1469,28 @@ window.CATALOGO_NORMAS = [
 "ano": 2010,
 "ementa": "Define critérios administrativos para Renovações de Licenciamentos Ambientais",
 "situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iap-59-2015",
+"norma": "Portaria IAP nº 59/2015",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2015,
+"ementa": "Reconhece a Lista Oficial de Espécies Exóticas Invasoras para o Estado do Paraná, estabelece normas de controle e dá outras providências.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iap-96-2007",
+"norma": "Portaria IAP nº 96/2007",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2007,
+"ementa": "Isenta a matéria prima florestal exótica da obrigatoriedade de reposição florestal, da prévia aprovação para exploração e transporte e dá outras providências.",
+"situacao": "revogada",
 "apelidos": []
 },
 {
@@ -1493,13 +1516,6 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
-"arquivo": "portaria-iat-204-2020",
-"norma": "Portaria IAT nº 204/2020",
-"tipo": "portaria",
-"esfera": "estadual",
-"orgao": "Instituto Água e Terra – IAT",
-"ano": 2020,
-"ementa": "Estabelece normas e procedimentos para licenciamento ambiental para produção e transporte de carvão vegetal de origem de espécies nativas e exóticas.",
 "arquivo": "portaria-iat-130-2020",
 "norma": "Portaria IAT nº 130/2020",
 "tipo": "portaria",
@@ -1507,6 +1523,28 @@ window.CATALOGO_NORMAS = [
 "orgao": "",
 "ano": 2020,
 "ementa": "Define usos de recursos hídricos considerados insignificantes e dispensados de outorga (ementa descritiva do conversor).",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iat-143-2021",
+"norma": "Portaria IAT nº 143/2021",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra – IAT",
+"ano": 2021,
+"ementa": "Estabelece o Sistema de Cadastramento de Empresas e de Profissionais Autônomos que atuam na área de hidrogeologia e da construção de poços tubulares (ementa do conversor).",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "portaria-iat-204-2020",
+"norma": "Portaria IAT nº 204/2020",
+"tipo": "portaria",
+"esfera": "estadual",
+"orgao": "Instituto Água e Terra – IAT",
+"ano": 2020,
+"ementa": "Estabelece normas e procedimentos para licenciamento ambiental para produção e transporte de carvão vegetal de origem de espécies nativas e exóticas.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -1621,6 +1659,10 @@ window.CATALOGO_NORMAS = [
 "orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
 "ano": 1986,
 "ementa": "Dispõe sobre critérios básicos e diretrizes gerais para a avaliação de impacto ambiental",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "resolucao-conama-1-1988",
 "norma": "Resolução CONAMA nº 1/1988",
 "tipo": "resolucao",
@@ -1654,13 +1696,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
-"arquivo": "resolucao-conama-302-2002",
-"norma": "Resolução CONAMA nº 302/2002",
+"arquivo": "resolucao-conama-273-2000",
+"norma": "Resolução CONAMA nº 273/2000",
 "tipo": "resolucao",
 "esfera": "federal",
-"orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
-"ano": 2002,
-"ementa": "Dispõe sobre os parâmetros, definições e limites de Áreas de Preservação Permanente de reservatórios artificiais e o regime de uso do entorno.",
+"orgao": "",
+"ano": 2000,
+"ementa": "Estabelece diretrizes para o licenciamento ambiental de postos de combustíveis e serviços e dispõe sobre a prevenção e controle da poluição.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "resolucao-conama-279-2001",
 "norma": "Resolução CONAMA nº 279/2001",
 "tipo": "resolucao",
@@ -1668,6 +1714,17 @@ window.CATALOGO_NORMAS = [
 "orgao": "",
 "ano": 2001,
 "ementa": "Estabelece procedimentos para o licenciamento ambiental simplificado de empreendimentos elétricos com pequeno potencial de impacto ambiental",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-conama-302-2002",
+"norma": "Resolução CONAMA nº 302/2002",
+"tipo": "resolucao",
+"esfera": "federal",
+"orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
+"ano": 2002,
+"ementa": "Dispõe sobre os parâmetros, definições e limites de Áreas de Preservação Permanente de reservatórios artificiais e o regime de uso do entorno.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -1694,6 +1751,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "resolucao-conama-313-2002",
+"norma": "Resolução CONAMA nº 313/2002",
+"tipo": "resolucao",
+"esfera": "federal",
+"orgao": "",
+"ano": 2002,
+"ementa": "Dispõe sobre o Inventário Nacional de Resíduos Sólidos Industriais.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "resolucao-conama-357-2005",
 "norma": "Resolução CONAMA nº 357/2005",
 "tipo": "resolucao",
@@ -1716,13 +1784,6 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
-"arquivo": "resolucao-conama-378-2006",
-"norma": "Resolução CONAMA nº 378/2006",
-"tipo": "resolucao",
-"esfera": "federal",
-"orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
-"ano": 2006,
-"ementa": "Define os empreendimentos potencialmente causadores de impacto ambiental nacional ou regional para fins do disposto no inciso III, § 1o, art. 19 da Lei no 4.771, de 15 de setembro de 1965, e dá outras providências.",
 "arquivo": "resolucao-conama-377-2006",
 "norma": "Resolução CONAMA nº 377/2006",
 "tipo": "resolucao",
@@ -1730,6 +1791,17 @@ window.CATALOGO_NORMAS = [
 "orgao": "",
 "ano": 2006,
 "ementa": "Dispõe sobre licenciamento ambiental simplificado de Sistemas de Esgotamento Sanitário.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-conama-378-2006",
+"norma": "Resolução CONAMA nº 378/2006",
+"tipo": "resolucao",
+"esfera": "federal",
+"orgao": "Conselho Nacional do Meio Ambiente – CONAMA",
+"ano": 2006,
+"ementa": "Define os empreendimentos potencialmente causadores de impacto ambiental nacional ou regional para fins do disposto no inciso III, § 1o, art. 19 da Lei no 4.771, de 15 de setembro de 1965, e dá outras providências.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -1795,6 +1867,17 @@ window.CATALOGO_NORMAS = [
 ]
 },
 {
+"arquivo": "resolucao-conama-420-2009",
+"norma": "Resolução CONAMA nº 420/2009",
+"tipo": "resolucao",
+"esfera": "federal",
+"orgao": "",
+"ano": 2009,
+"ementa": "Dispõe sobre critérios e valores orientadores de qualidade do solo quanto à presença de substâncias químicas e estabelece diretrizes para o gerenciamento ambiental de áreas contaminadas por essas substâncias em decorrência de atividades antrópicas.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "resolucao-conama-430-2011",
 "norma": "Resolução CONAMA nº 430/2011",
 "tipo": "resolucao",
@@ -1831,6 +1914,17 @@ window.CATALOGO_NORMAS = [
 ]
 },
 {
+"arquivo": "resolucao-conama-6-1986",
+"norma": "Resolução CONAMA nº 6/1986",
+"tipo": "resolucao",
+"esfera": "federal",
+"orgao": "",
+"ano": 1986,
+"ementa": "Dispõe sobre a aprovação de modelos para publicação de pedidos de licenciamento",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "resolucao-conjunta-sedest-iat-9-2022",
 "norma": "Resolução Conjunta SEDEST/IAT nº 9/2022",
 "tipo": "resolucao",
@@ -1839,6 +1933,61 @@ window.CATALOGO_NORMAS = [
 "ano": 2022,
 "ementa": "Dispõe sobre incentivos ao aproveitamento energético de resíduos sólidos por rotas biológicas ou térmicas, buscando priorizar a hierarquia apresentada na PNRS de não-geração, redução, reutilização e reciclagem, bem como incentivos e apoio à pesquisa, desenvolvimento e inovação realizados por órgãos públicos, pela academia e sociedade civil organizada em temas relacionados a rotas tecnológicas de tratamento.",
 "situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-10-2021",
+"norma": "Resolução SEDEST nº 10/2021",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo - SEDEST",
+"ano": 2021,
+"ementa": "Estabelece critérios para o licenciamento ambiental de empreendimentos de COGERAÇÃO DE ENERGIA no Estado do Paraná e dá outras providências.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-11-2021",
+"norma": "Resolução SEDEST nº 11/2021",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo - SEDEST",
+"ano": 2021,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos para licenciamento de empreendimentos de geração de energia elétrica a partir de fonte solar, no âmbito do Estado do Paraná.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-12-2021",
+"norma": "Resolução SEDEST nº 12/2021",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo - SEDEST",
+"ano": 2021,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos para o Licenciamento Ambiental de Sistemas de Distribuição de Gás Canalizado e Sistemas de Transporte de Gás Canalizado, no âmbito do Estado do Paraná.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-13-2021",
+"norma": "Resolução SEDEST nº 013/2021",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo - SEDEST",
+"ano": 2021,
+"ementa": "Estabelece definições, critérios, diretrizes procedimentos para o licenciamento ambiental de sistemas de transmissão, distribuição e subestação de energia elétrica, no âmbito do Estado do Paraná.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-15-2020",
+"norma": "Resolução SEDEST nº 15/2020",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo - SEDEST",
+"ano": 2020,
+"ementa": "Estabelece condições e critérios e adota outras providencias, para o licenciamento ambiental de Empreendimentos de Suinocultura no Estado do Paraná.",
+"situacao": "revogada",
 "apelidos": []
 },
 {
@@ -1860,14 +2009,18 @@ window.CATALOGO_NORMAS = [
 "orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo – SEDEST",
 "ano": 2020,
 "ementa": "Estabelece procedimentos para baixa da averbação dos Termos de Compromisso de acordo com as disposições da Lei Estadual nº 18.295/2014.",
-"arquivo": "resolucao-conama-6-1986",
-"norma": "Resolução CONAMA nº 6/1986",
-"tipo": "resolucao",
-"esfera": "federal",
-"orgao": "",
-"ano": 1986,
-"ementa": "Dispõe sobre a aprovação de modelos para publicação de pedidos de licenciamento",
 "situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-2-2020",
+"norma": "Resolução SEDEST nº 002/2020",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo - SEDEST",
+"ano": 2020,
+"ementa": "Estabelece requisitos, definições, critérios, diretrizes e procedimentos referentes ao licenciamento ambiental de empreendimentos minerários.",
+"situacao": "revogada",
 "apelidos": []
 },
 {
@@ -1878,6 +2031,28 @@ window.CATALOGO_NORMAS = [
 "orgao": "Secretaria de Estado do Desenvolvimento Sustentável - SEDEST",
 "ano": 2025,
 "ementa": "Define critérios para o Controle da Qualidade do Ar como um dos instrumentos básicos da gestão ambiental para proteção da saúde e bem estar da população e melhoria da qualidade de vida, com o objetivo de permitir o desenvolvimento econômico e social do Estado do Paraná de forma ambientalmente segura.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-3-2020",
+"norma": "Resolução SEDEST nº 03/2020",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo - SEDEST",
+"ano": 2020,
+"ementa": "Dispõe sobre o Licenciamento Ambiental, estabelece condições e critérios para Posto Revendedor, Posto de Abastecimento, Instalação de Sistema Retalhista de Combustível – TRR, Posto Flutuante, Base de Distribuição de Combustíveis e dá outras providências.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-30-2022",
+"norma": "Resolução SEDEST nº 30/2022",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo - SEDEST",
+"ano": 2022,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos para o licenciamento ambiental de empreendimentos imobiliários urbanos no território paranaense.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -1915,6 +2090,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "resolucao-sedest-42-2021",
+"norma": "Resolução SEDEST nº 042/2021",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo - SEDEST",
+"ano": 2021,
+"ementa": "Estabelece normas, critérios e diretrizes para o licenciamento ambiental e a outorga de uso de recursos hídricos de empreendimentos e atividades de aquicultura e maricultura.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
 "arquivo": "resolucao-sedest-48-2024",
 "norma": "Resolução SEDEST nº 48/2024",
 "tipo": "resolucao",
@@ -1922,6 +2108,17 @@ window.CATALOGO_NORMAS = [
 "orgao": "Secretaria de Estado do Desenvolvimento Sustentável - SEDEST",
 "ano": 2024,
 "ementa": "Estabelece normas, critérios e diretrizes para o licenciamento ambiental e a outorga de uso de recursos hídricos de empreendimentos e atividades de aquicultura e maricultura.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-55-2019",
+"norma": "Resolução SEDEST nº 055/2019",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo - SEDEST",
+"ano": 2019,
+"ementa": "Estabelece condições e critérios e dá outras providências, para o licenciamento ambiental de Empreendimentos de Bovinocultura no Estado do Paraná.",
 "situacao": "revogada",
 "apelidos": []
 },
@@ -1937,6 +2134,17 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "resolucao-sedest-7-2021",
+"norma": "Resolução SEDEST nº 07/2021",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo - SEDEST",
+"ano": 2021,
+"ementa": "Estabelece definições, critérios, diretrizes e procedimentos para licenciamento de empreendimentos de geração de energia elétrica a partir de fonte eólica, no âmbito do Estado do Paraná.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
 "arquivo": "resolucao-sedest-8-2022",
 "norma": "Resolução SEDEST nº 8/2022",
 "tipo": "resolucao",
@@ -1944,6 +2152,17 @@ window.CATALOGO_NORMAS = [
 "orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo – SEDEST",
 "ano": 2022,
 "ementa": "Estabelece critérios e procedimentos para o licenciamento ambiental simplificado de usinas termelétricas a gás natural para geração de energia através de geradores modulares.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-sedest-9-2021",
+"norma": "Resolução SEDEST nº 09/2021",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Desenvolvimento Sustentável e do Turismo - SEDEST",
+"ano": 2021,
+"ementa": "Estabelece definições, critérios, diretrizes procedimentos para licenciamento de unidades de geração de energia elétrica a partir de potencial hidráulico, no âmbito do Estado do Paraná.",
 "situacao": "revogada",
 "apelidos": []
 }
