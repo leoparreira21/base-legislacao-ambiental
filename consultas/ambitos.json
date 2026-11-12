@@ -876,6 +876,10 @@
    "pch",
    "cgh",
    "uhe"
-  ]
+  ],
+  "resolucao-cema-7-2001": ["petroleo", "derivados de petroleo", "refinaria", "duto", "terminal", "auditoria ambiental"],
+  "resolucao-cema-24-2002": ["chumbo", "fundicao de chumbo", "acumuladores", "bateria", "auditoria ambiental"],
+  "resolucao-conjunta-sema-sesa-2-2005": ["residuo de servico de saude", "pgrss", "servico de saude", "estabelecimento de saude"],
+  "resolucao-cema-129-2023": ["area contaminada", "contaminacao do solo", "agua subterranea", "passivo ambiental", "posto de combustivel"]
  }
 }

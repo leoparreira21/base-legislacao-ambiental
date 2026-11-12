@@ -1641,6 +1641,72 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "resolucao-cema-126-2023",
+"norma": "Resolução CEMA nº 126/2023",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2023,
+"ementa": "Estabelece limites para o parâmetro Escherichia coli, em águas naturais, no Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cema-129-2023",
+"norma": "Resolução CEMA nº 129/2023",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2023,
+"ementa": "Dispõe sobre procedimentos para Proteção da Qualidade do Solo e das Águas Subterrâneas e sobre o Gerenciamento de Áreas Contaminadas no Estado do Paraná, e dá outras providências.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cema-24-2002",
+"norma": "Resolução CEMA nº 24/2002",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2002,
+"ementa": "Obriga as empresas com atividade na área de manipulação de chumbo e seus derivados localizadas no Paraná a realizar auditoria ambiental independente em suas instalações industriais, e aprova as diretrizes para essas auditorias.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cema-7-2001",
+"norma": "Resolução CEMA nº 7/2001",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2001,
+"ementa": "Obriga as empresas com atividade na área de petróleo e derivados localizadas no Paraná a realizar auditoria ambiental independente em suas instalações industriais, marítimas e terrestres, e aprova as diretrizes para essas auditorias.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cerh-100-2016",
+"norma": "Resolução CERH/PR nº 100/2016",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual de Recursos Hídricos – CERH/PR",
+"ano": 2016,
+"ementa": "Aprova o enquadramento dos corpos de água superficiais na área de abrangência do Comitê da Bacia do Rio Tibagi, em classes, de acordo com os usos preponderantes.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cerh-102-2017",
+"norma": "Resolução CERH/PR nº 102/2017",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual de Recursos Hídricos – CERH/PR",
+"ano": 2017,
+"ementa": "Aprova o enquadramento dos corpos de água superficiais na área de abrangência do Comitê das Bacias dos rios Cinzas, Itararé, Paranapanema 1 e 2, em classes, de acordo com os usos preponderantes.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "resolucao-cerh-122-2023",
 "norma": "Resolução CERH nº 122/2023",
 "tipo": "resolucao",
@@ -1648,6 +1714,39 @@ window.CATALOGO_NORMAS = [
 "orgao": "Conselho Estadual de Recursos Hídricos – CERH/PR",
 "ano": 2023,
 "ementa": "Estabelece diretrizes e critérios gerais para reuso de água no Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cerh-50-2006",
+"norma": "Resolução CERH/PR nº 50/2006",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual de Recursos Hídricos – CERH/PR",
+"ano": 2006,
+"ementa": "Dispõe sobre critérios e normas gerais sobre a cobrança pelo direito de uso de recursos hídricos.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cerh-61-2009",
+"norma": "Resolução CERH/PR nº 61/2009",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual de Recursos Hídricos – CERH/PR",
+"ano": 2009,
+"ementa": "Aprova o Plano Estadual de Recursos Hídricos e dá outras providências.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cerh-9-2020",
+"norma": "Resolução CERH nº 9/2020",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual de Recursos Hídricos – CERH/PR",
+"ano": 2020,
+"ementa": "Estabelece diretrizes e critérios gerais para a definição de áreas críticas quanto ao uso de águas superficiais e subterrâneas de domínio do Estado do Paraná.",
 "situacao": "vigente",
 "apelidos": []
 },
@@ -1932,6 +2031,17 @@ window.CATALOGO_NORMAS = [
 "orgao": "Secretaria de Estado do Desenvolvimento Sustentável – SEDEST e Instituto Água e Terra – IAT",
 "ano": 2022,
 "ementa": "Dispõe sobre incentivos ao aproveitamento energético de resíduos sólidos por rotas biológicas ou térmicas, buscando priorizar a hierarquia apresentada na PNRS de não-geração, redução, reutilização e reciclagem, bem como incentivos e apoio à pesquisa, desenvolvimento e inovação realizados por órgãos públicos, pela academia e sociedade civil organizada em temas relacionados a rotas tecnológicas de tratamento.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-conjunta-sema-sesa-2-2005",
+"norma": "Resolução Conjunta SEMA/SESA nº 002/2005",
+"tipo": "resolucao-conjunta",
+"esfera": "estadual",
+"orgao": "Secretaria de Estado do Meio Ambiente e Recursos Hídricos – SEMA/PR; Secretaria de Estado da Saúde – SESA/PR",
+"ano": 2005,
+"ementa": "Estabelece diretrizes para a elaboração do Plano de Gerenciamento de Resíduos de Serviços de Saúde (PGRSS), simplificado para geradores de até 30 litros por semana e completo para os demais, e o trâmite do PGRSS no licenciamento ambiental.",
 "situacao": "vigente",
 "apelidos": []
 },

@@ -329,3 +329,13 @@ Ajustes sugeridos para as habilidades que ficam fora do repositório. Remova o i
 - 2026-11-10, ao incluir uma norma já citada como "fora da base" em outra (Portaria IAP 260/2014 na IN IAT 33/2025), atualizar a nota da citante ("não está na base") no mesmo commit.
 - 2026-11-10, subagentes (síntese e glossário dos anexos tipo 2): rodam em paralelo, mas escrevem no mesmo `glossario.md`; mandar cada um editar só os seus arquivos de anexo e conferir o `glossario.md` no fim para termos duplicados.
 - 2026-11-10, pesquisa web dos subagentes: o WebSearch devolve só títulos e links (cada definição pede um WebFetch com prompt dirigido) e a Wikipedia dá `PROVENANCE_REQUIRED` no WebFetch. Fazer: preferir fontes oficiais, universidades e legislação; termos sem fonte aberta ficam marcados "[interpretação do conversor; sem fonte web]".
+
+### Lote CERH/CEMA (2026-11): PDFs sem camada de texto confiável, tabelas sem título e subagentes
+- **Camada de texto quebrada** (CERH 61, CEMA 126): `pdftotext` devolve palavras partidas ou linhas faltando. Fazer: transcrever da imagem (`pdftoppm -r 150`, recorte ampliado nos pontos duvidosos) e conferir o resultado palavra a palavra com difflib contra o texto extraído, só para achar divergências.
+- **Tabelas de artigo sem título** (CEMA 126, arts. 4º–6º): numerar na ordem do documento (`art4_tab1`…), título descritivo "(sem título no original)", células mescladas repetidas em cada linha (`Destinação: … | Limite: …`), alíneas da mesma linha juntas na célula.
+- **Norma sem artigos** (Resolução Conjunta SEMA/SESA 2/2005, itens 1 a 7): usar `## Item N {#itemN}` e `itemN_cpt`, como na Resolução CONAMA 6/1986.
+- **Subseção** (CEMA 129): `#####` abaixo de Seção (`####`) e Capítulo (`###`).
+- **Anexo que é outra norma** (CERH 100 e 102 aprovam Deliberação/Resolução de comitê de bacia com tabelas de trechos de rios): volume alto; sem pedido expresso, a seção do anexo fica `#anexo-pendente` e o fato é informado ao usuário.
+- **Subagentes para anexos tipo 2**: mandar prompt completo (fonte, modelo de arquivo, o que não editar: glossario.md, README.md, licoes.md, ambitos.json, normas/*.md). Eles devolvem os termos novos e eu consolido; assim os agentes paralelos não colidem no glossário.
+- **ambitos.json**: o arquivo mistura entradas de uma linha e de várias; ao acrescentar, anexar texto ao final em vez de regravar com `json.dump`, para o diff não reformatar o arquivo inteiro.
+- **Cabeçalhos de página trocados**: a Resolução Conjunta 2/2005 imprime "001/2005" na página 2; registrar como erro do original, sem corrigir.
