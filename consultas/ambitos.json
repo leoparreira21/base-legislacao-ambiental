@@ -880,6 +880,11 @@
   "resolucao-cema-7-2001": ["petroleo", "derivados de petroleo", "refinaria", "duto", "terminal", "auditoria ambiental"],
   "resolucao-cema-24-2002": ["chumbo", "fundicao de chumbo", "acumuladores", "bateria", "auditoria ambiental"],
   "resolucao-conjunta-sema-sesa-2-2005": ["residuo de servico de saude", "pgrss", "servico de saude", "estabelecimento de saude"],
-  "resolucao-cema-129-2023": ["area contaminada", "contaminacao do solo", "agua subterranea", "passivo ambiental", "posto de combustivel"]
+  "resolucao-cema-129-2023": ["area contaminada", "contaminacao do solo", "agua subterranea", "passivo ambiental", "posto de combustivel"],
+  "resolucao-cema-76-2009": ["coprocessamento", "forno de cimento", "cimenteira", "clinquer", "substituicao de combustivel", "residuo energetico"],
+  "resolucao-cema-81-2010": ["ecotoxicidade", "efluente liquido", "teste ecotoxicologico", "lancamento de efluente", "corpo receptor"],
+  "resolucao-cema-89-2013": ["empreendimento rodoviario", "rodovia", "obra rodoviaria", "duplicacao de rodovia", "utilidade publica"],
+  "resolucao-cema-94-2014": ["aterro sanitario", "residuo solido urbano", "chorume", "disposicao final de residuo", "encerramento de aterro"],
+  "resolucao-cema-109-2021": ["gerenciamento de residuos solidos", "residuo solido", "uso agricola de residuo", "armazenamento temporario de residuo", "queima de residuo em caldeira"]
  }
 }

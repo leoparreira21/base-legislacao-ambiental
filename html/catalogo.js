@@ -1641,6 +1641,50 @@ window.CATALOGO_NORMAS = [
 "apelidos": []
 },
 {
+"arquivo": "resolucao-cema-107-2020",
+"norma": "Resolução CEMA nº 107/2020",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2020,
+"ementa": "Dispõe sobre o licenciamento ambiental, estabelece critérios e procedimentos a serem adotados para as atividades poluidoras, degradadoras e/ou modificadoras do meio ambiente e adota outras providências.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cema-109-2021",
+"norma": "Resolução CEMA nº 109/2021",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2021,
+"ementa": "Estabelece os critérios e procedimentos para o Gerenciamento de Resíduos Sólidos no Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cema-110-2021",
+"norma": "Resolução CEMA nº 110/2021",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2021,
+"ementa": "Estabelece critérios, procedimentos e tipologias de atividades, empreendimentos e obras que causem ou possam causar impacto ambiental de âmbito local.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cema-118-2022",
+"norma": "Resolução CEMA nº 118/2022",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2022,
+"ementa": "Defere o licenciamento, monitoramento e fiscalização ambiental para o Município de Londrina, com todas as tipologias constantes no Anexo I da Resolução CEMA 110/2021.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
 "arquivo": "resolucao-cema-126-2023",
 "norma": "Resolução CEMA nº 126/2023",
 "tipo": "resolucao",
@@ -1682,6 +1726,61 @@ window.CATALOGO_NORMAS = [
 "ano": 2001,
 "ementa": "Obriga as empresas com atividade na área de petróleo e derivados localizadas no Paraná a realizar auditoria ambiental independente em suas instalações industriais, marítimas e terrestres, e aprova as diretrizes para essas auditorias.",
 "situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cema-76-2009",
+"norma": "Resolução CEMA nº 76/2009",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2009,
+"ementa": "Estabelece a exigência e os critérios na solicitação e emissão de Autorizações Ambientais para coprocessamento de resíduos em fornos de cimento, com fins de substituição de matéria prima ou aproveitamento energético.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cema-81-2010",
+"norma": "Resolução CEMA nº 81/2010",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2010,
+"ementa": "Dispõe sobre Critérios e Padrões de ecotoxicidade para o Controle de Efluentes Líquidos lançados em águas superficiais no Estado do Paraná.",
+"situacao": "vigente",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cema-88-2013",
+"norma": "Resolução CEMA nº 88/2013",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2013,
+"ementa": "Estabelece critérios, procedimentos e tipologias para o licenciamento ambiental municipal de atividades, obras e empreendimentos que causem ou possam causar impacto de âmbito local e determina outras providências.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cema-89-2013",
+"norma": "Resolução CEMA nº 89/2013",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2013,
+"ementa": "Estabelece prazos de validade, diferenciados para o Licenciamento Ambiental de Empreendimentos Rodoviários considerados de utilidade pública, objetivando compatibilizar a natureza dos mesmos aos prazos de execução.",
+"situacao": "revogada",
+"apelidos": []
+},
+{
+"arquivo": "resolucao-cema-94-2014",
+"norma": "Resolução CEMA nº 94/2014",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2014,
+"ementa": "Estabelece diretrizes e critérios orientadores para o licenciamento e outorga, projeto, implantação, operação e encerramento de aterros sanitários, visando o controle da poluição, da contaminação e a minimização de seus impactos ambientais e dá outras providências.",
+"situacao": "revogada",
 "apelidos": []
 },
 {
