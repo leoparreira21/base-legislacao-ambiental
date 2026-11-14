@@ -123,6 +123,25 @@ export default function ConsultaSQL({ esferaDe, nomeDe, abrir, aberto, fechar }:
     (r) => (!esfera || esferaDe(r.legislacao_slug) === esfera) && (!tipo || r.dispositivo_tipo === tipo),
   )
 
+  // Uma norma pode repetir o mesmo texto em vários dispositivos (ex.: a lista de documentos
+  // da LI, LIA, LIR e LOR na IN IAT 28/2026). Esses resultados viram um cartão só, com o
+  // texto uma vez e a lista dos dispositivos onde ele aparece, na ordem de relevância.
+  const grupos: { chave: string; itens: Resultado[] }[] = []
+  const porChave = new Map<string, Resultado[]>()
+  visiveis.forEach((r) => {
+    const chave = r.legislacao_slug + '\u0000' + (r.dispositivo_texto ?? r.dispositivo_id_html ?? '').trim()
+    const g = porChave.get(chave)
+    if (g) g.push(r)
+    else {
+      const itens = [r]
+      porChave.set(chave, itens)
+      grupos.push({ chave, itens })
+    }
+  })
+
+  // da estrutura (Capítulo > Seção > Subseção) mostra o nível mais próximo do dispositivo
+  const nivel = (e: string | null) => (e ? e.split(' > ').pop() ?? e : '')
+
   const sel = 'h-8 rounded-md border bg-card px-2 text-xs text-foreground focus-visible:outline focus-visible:outline-2 focus-visible:outline-ring'
 
   return (
@@ -178,6 +197,7 @@ export default function ConsultaSQL({ esferaDe, nomeDe, abrir, aberto, fechar }:
         {res && (
           <p className="border-b px-4 py-1.5 text-[11px] font-semibold uppercase tracking-wider text-muted-foreground">
             {visiveis.length} de {res.length} dispositivo{res.length === 1 ? '' : 's'}
+            {grupos.length < visiveis.length ? ` · ${grupos.length} texto${grupos.length === 1 ? '' : 's'} diferentes` : ''}
             {res.length === 100 ? ' (os 100 mais relevantes)' : ''}
           </p>
         )}
@@ -191,34 +211,71 @@ export default function ConsultaSQL({ esferaDe, nomeDe, abrir, aberto, fechar }:
           </p>
         )}
         <ul>
-          {visiveis.map((r, i) => {
-            const ativo = aberto.arquivo === r.legislacao_slug && aberto.ancora === (r.dispositivo_id_html ?? '')
+          {grupos.map(({ chave, itens }) => {
+            const [r] = itens
+            const ativoEm = (x: Resultado) =>
+              aberto.arquivo === x.legislacao_slug && aberto.ancora === (x.dispositivo_id_html ?? '')
+            const revogado = (x: Resultado) =>
+              x.dispositivo_revogado ? (
+                <span className="rounded bg-destructive px-1 text-[10px] font-semibold uppercase text-destructive-foreground">Revogado</span>
+              ) : null
+            const titulo = (
+              <div className="serif text-[13px] font-semibold leading-snug">{nomeDe(r.legislacao_slug) ?? r.legislacao_nome}</div>
+            )
+            const texto = r.dispositivo_texto && (
+              <p className="mt-1 line-clamp-4 text-[13px] leading-snug text-foreground/85">{destacar(r.dispositivo_texto, feita)}</p>
+            )
+            if (itens.length === 1) {
+              return (
+                <li key={chave}>
+                  <button
+                    onClick={() => abrir(r.legislacao_slug, r.dispositivo_id_html ?? '')}
+                    className={`block w-full border-b border-l-[3px] px-4 py-2.5 text-left transition-colors ${
+                      ativoEm(r) ? 'border-l-primary bg-accent' : 'border-l-transparent hover:bg-muted'
+                    }`}
+                  >
+                    {titulo}
+                    <div className="mt-0.5 flex flex-wrap items-center gap-1.5 text-xs">
+                      {r.dispositivo_rotulo && <span className="font-medium text-primary">{r.dispositivo_rotulo}</span>}
+                      {revogado(r)}
+                    </div>
+                    {texto}
+                    {r.dispositivo_estrutura && (
+                      <p className="mt-1 truncate text-[11px] text-muted-foreground" title={r.dispositivo_estrutura}>
+                        {nivel(r.dispositivo_estrutura)}
+                      </p>
+                    )}
+                  </button>
+                </li>
+              )
+            }
             return (
-              <li key={i}>
-                <button
-                  onClick={() => abrir(r.legislacao_slug, r.dispositivo_id_html ?? '')}
-                  className={`block w-full border-b border-l-[3px] px-4 py-2.5 text-left transition-colors ${
-                    ativo ? 'border-l-primary bg-accent' : 'border-l-transparent hover:bg-muted'
-                  }`}
-                >
-                  <div className="serif text-[13px] font-semibold leading-snug">
-                    {nomeDe(r.legislacao_slug) ?? r.legislacao_nome}
-                  </div>
-                  <div className="mt-0.5 flex flex-wrap items-center gap-1.5 text-xs">
-                    {r.dispositivo_rotulo && <span className="font-medium text-primary">{r.dispositivo_rotulo}</span>}
-                    {r.dispositivo_revogado ? (
-                      <span className="rounded bg-destructive px-1 text-[10px] font-semibold uppercase text-destructive-foreground">Revogado</span>
-                    ) : null}
-                  </div>
-                  {r.dispositivo_texto && (
-                    <p className="mt-1 line-clamp-4 text-[13px] leading-snug text-foreground/85">
-                      {destacar(r.dispositivo_texto, feita)}
-                    </p>
-                  )}
-                  {r.dispositivo_estrutura && (
-                    <p className="mt-1 truncate text-[11px] text-muted-foreground">{r.dispositivo_estrutura}</p>
-                  )}
-                </button>
+              <li key={chave} className={`border-b border-l-[3px] px-4 py-2.5 ${itens.some(ativoEm) ? 'border-l-primary' : 'border-l-transparent'}`}>
+                {titulo}
+                {texto}
+                <p className="mt-1.5 text-[11px] font-semibold uppercase tracking-wider text-muted-foreground">
+                  Mesmo texto em {itens.length} dispositivos
+                </p>
+                <ul className="mt-1 space-y-0.5">
+                  {itens.map((x) => (
+                    <li key={x.dispositivo_id_html ?? x.dispositivo_rotulo}>
+                      <button
+                        onClick={() => abrir(x.legislacao_slug, x.dispositivo_id_html ?? '')}
+                        className={`block w-full rounded px-2 py-1 text-left transition-colors ${ativoEm(x) ? 'bg-accent' : 'hover:bg-muted'}`}
+                      >
+                        <span className="flex flex-wrap items-center gap-1.5 text-xs">
+                          <span className="font-medium text-primary">{x.dispositivo_rotulo}</span>
+                          {revogado(x)}
+                        </span>
+                        {x.dispositivo_estrutura && (
+                          <span className="block truncate text-[11px] text-muted-foreground" title={x.dispositivo_estrutura}>
+                            {nivel(x.dispositivo_estrutura)}
+                          </span>
+                        )}
+                      </button>
+                    </li>
+                  ))}
+                </ul>
               </li>
             )
           })}

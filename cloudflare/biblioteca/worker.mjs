@@ -15,8 +15,45 @@ const CAMPOS_BUSCA = `
   d.id_html     AS dispositivo_id_html,
   d.revogado    AS dispositivo_revogado`;
 
+// Rótulo completo do dispositivo. No D1, alíneas e itens de artigo vêm só com o próprio
+// nome ("alínea \"j\"", "item 2"), sem o artigo e o inciso; dispositivos diferentes com o
+// mesmo texto ficavam indistinguíveis na consulta. O caminho é refeito pelo id LexML
+// (art19_cpt_inc6_alij → Art. 19, caput, inciso VI, alínea "j").
+const ROMANOS = [[1000, 'M'], [900, 'CM'], [500, 'D'], [400, 'CD'], [100, 'C'], [90, 'XC'], [50, 'L'], [40, 'XL'], [10, 'X'], [9, 'IX'], [5, 'V'], [4, 'IV'], [1, 'I']];
+const romano = (n) => ROMANOS.reduce((s, [v, r]) => { while (n >= v) { s += r; n -= v; } return s; }, '');
+const ordinal = (n) => (Number(n) < 10 ? `${n}º` : String(n));
+
+function caminhoDoId(id) {
+  const partes = id.split('_');
+  partes.pop(); // o último é o próprio dispositivo, já nomeado no rótulo
+  const nomes = [];
+  for (let i = 0; i < partes.length; i++) {
+    const p = partes[i];
+    let m;
+    if (p === 'adct') nomes.push('ADCT');
+    else if ((m = p.match(/^art(\d+)(?:-([a-z]+))?$/))) nomes.push(`Art. ${ordinal(m[1])}${m[2] ? '-' + m[2].toUpperCase() : ''}`);
+    else if (p === 'cpt') nomes.push('caput');
+    else if (p === 'par' && partes[i + 1] === 'unico') { nomes.push('parágrafo único'); i++; }
+    else if (p === 'par1u') nomes.push('parágrafo único');
+    else if ((m = p.match(/^par(\d+)$/))) nomes.push(`§ ${ordinal(m[1])}`);
+    else if ((m = p.match(/^inc(\d+)(?:-[a-z]+)?$/))) nomes.push(`inciso ${romano(Number(m[1]))}`);
+    else if ((m = p.match(/^ali([a-z])(?:-[a-z]+)?$/))) nomes.push(`alínea "${m[1]}"`);
+    else if ((m = p.match(/^item(\d+)(?:-[a-z]+)?$/))) nomes.push(`item ${m[1]}`);
+    else if ((m = p.match(/^ite([\d-]+)$/))) nomes.push(`item ${m[1].replace(/-/g, '.')}`);
+    else return null; // forma desconhecida: fica o rótulo original
+  }
+  return nomes.join(', ');
+}
+
+export function rotuloCompleto(rotulo, id) {
+  if (!rotulo || !id || !/^(alínea|item )/.test(rotulo)) return rotulo;
+  const caminho = caminhoDoId(id);
+  return caminho ? `${caminho}, ${rotulo}` : rotulo;
+}
+
 const comLink = (r) => ({
   ...r,
+  dispositivo_rotulo: rotuloCompleto(r.dispositivo_rotulo, r.dispositivo_id_html),
   link: r.dispositivo_id_html ? `${r.legislacao_slug}.html#${r.dispositivo_id_html}` : `${r.legislacao_slug}.html`,
 });
 
@@ -69,7 +106,7 @@ async function api(request, env, url) {
       nome: p.nome, ementa: p.ementa, slug: p.slug, categoria: p.categoria,
       data_publicacao: p.data_publicacao, situacao: p.situacao,
       dispositivos: results.filter((r) => r.rotulo !== null).map((r) => ({
-        tipo: r.tipo, rotulo: r.rotulo, texto: r.texto, estrutura: r.estrutura,
+        tipo: r.tipo, rotulo: rotuloCompleto(r.rotulo, r.id_html), texto: r.texto, estrutura: r.estrutura,
         id_html: r.id_html, revogado: r.revogado, ordem: r.ordem,
         link: r.id_html ? `${r.slug}.html#${r.id_html}` : `${r.slug}.html`,
       })),
