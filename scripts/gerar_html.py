@@ -768,6 +768,9 @@ JS = """
     for(var p=el; p; p=p.parentElement){ if(p.tagName==='DETAILS') p.open=true; }
     document.querySelectorAll('.alvo').forEach(function(e){e.classList.remove('alvo');});
     el.classList.add('alvo'); el.scrollIntoView({block:'center'});
+    // abrir o artigo também abre os incisos dele (evento toggle, depois desta função),
+    // o que empurra o alvo para baixo: rola de novo quando tudo já abriu
+    setTimeout(function(){ requestAnimationFrame(function(){ el.scrollIntoView({block:'center'}); }); },0);
   }
   window.addEventListener('hashchange',irPara); irPara();
 })();
