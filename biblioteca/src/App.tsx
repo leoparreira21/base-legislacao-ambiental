@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { Input } from '@/components/ui/input'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
-import { ArrowLeft, ExternalLink, Search, TextSearch, X } from 'lucide-react'
+import { ArrowLeft, ArrowUp, ExternalLink, Search, TextSearch, X } from 'lucide-react'
 import ConsultaSQL, { apiDisponivel } from './ConsultaSQL'
 
 type Norma = {
@@ -156,6 +156,15 @@ export default function App() {
     setRecarga((r) => r + 1)
   }
 
+  // No celular a lista inteira rola (cabeçalho com busca e filtros incluso); depois de
+  // passar do cabeçalho aparece o botão de voltar ao topo.
+  const lista = useRef<HTMLElement>(null)
+  const [topo, setTopo] = useState(false)
+  const aoRolarLista = () => {
+    const el = lista.current
+    if (el) setTopo(el.scrollTop > 240 && !window.matchMedia('(min-width: 768px)').matches)
+  }
+
   const abrirDaConsulta = (arquivo: string, ancora: string) => {
     abrir(arquivo, ancora)
     if (!window.matchMedia('(min-width: 1280px)').matches) setPainel(false)
@@ -264,7 +273,9 @@ export default function App() {
     <div className="flex h-full flex-col md:flex-row">
       {/* Lista */}
       <aside
-        className={`${atual ? 'hidden md:flex' : 'flex'} min-h-0 flex-1 flex-col border-r md:w-[400px] md:flex-none lg:w-[440px]`}
+        ref={lista}
+        onScroll={aoRolarLista}
+        className={`${atual ? 'hidden md:flex' : 'flex'} min-h-0 flex-1 flex-col overflow-y-auto border-r md:w-[400px] md:flex-none md:overflow-hidden lg:w-[440px]`}
       >
         <header className="space-y-3 border-b px-4 pb-3 pt-4">
           <div className="flex items-baseline justify-between gap-2">
@@ -331,7 +342,7 @@ export default function App() {
           </div>
         </header>
 
-        <nav className="min-h-0 flex-1 overflow-y-auto" aria-label="Normas">
+        <nav className="md:min-h-0 md:flex-1 md:overflow-y-auto" aria-label="Normas">
           {erro && (
             <p className="p-4 text-sm text-destructive">
               Não foi possível carregar o catálogo ({erro}). Rode <code>python scripts/gerar_html.py</code>.
@@ -380,6 +391,17 @@ export default function App() {
           ))}
         </nav>
       </aside>
+
+      {topo && !atual && (
+        <button
+          onClick={() => lista.current?.scrollTo({ top: 0, behavior: 'smooth' })}
+          aria-label="Voltar ao topo"
+          className="fixed right-3 z-20 flex h-9 w-9 items-center justify-center rounded-full border bg-card text-primary shadow-md md:hidden"
+          style={{ top: 'calc(env(safe-area-inset-top, 0px) + 12px)' }}
+        >
+          <ArrowUp className="h-4 w-4" />
+        </button>
+      )}
 
       {/* Leitor */}
       <main className={`${atual ? 'flex' : 'hidden md:flex'} min-h-0 min-w-0 flex-1 flex-col`}>
