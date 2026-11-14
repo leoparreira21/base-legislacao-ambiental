@@ -74,6 +74,59 @@ async function buscar(env, q, { limit = 20, soVigentes = true, categoria, tipo }
   return { query: q, total: resultados.length, resultados };
 }
 
+// Busca agrupada por norma: cada norma aparece uma vez, com o número de dispositivos em
+// que a busca aparece e o dispositivo mais relevante (menor rank do FTS5) para abrir.
+async function buscarPorNorma(env, q, { limit = 100, soVigentes = true, tipo } = {}) {
+  let filtro = '';
+  const args = [q];
+  if (tipo) { filtro += ' AND d.tipo = ?'; args.push(tipo); }
+  if (soVigentes) filtro += ' AND d.revogado = 0';
+  args.push(limit);
+  const { results } = await env.DB.prepare(`
+    WITH hits AS (
+      SELECT d.legislacao_id, d.rotulo, d.tipo, d.texto, d.estrutura, d.id_html, d.revogado,
+             dispositivos_fts.rank AS r
+      FROM dispositivos_fts
+      JOIN dispositivos d ON d.id = dispositivos_fts.rowid
+      WHERE dispositivos_fts MATCH ?${filtro}
+    ), ord AS (
+      SELECT *, ROW_NUMBER() OVER (PARTITION BY legislacao_id ORDER BY r) AS pos,
+             COUNT(*) OVER (PARTITION BY legislacao_id) AS ocorrencias
+      FROM hits
+    )
+    SELECT l.nome AS legislacao_nome, l.slug AS legislacao_slug, l.ementa AS legislacao_ementa,
+           l.categoria AS legislacao_categoria, o.rotulo AS dispositivo_rotulo, o.tipo AS dispositivo_tipo,
+           o.texto AS dispositivo_texto, o.estrutura AS dispositivo_estrutura,
+           o.id_html AS dispositivo_id_html, o.revogado AS dispositivo_revogado, o.ocorrencias
+    FROM ord o
+    JOIN legislacoes l ON l.id = o.legislacao_id
+    WHERE o.pos = 1
+    ORDER BY o.r
+    LIMIT ?`).bind(...args).all();
+  const normas = results.map(comLink);
+  return {
+    query: q,
+    total_normas: normas.length,
+    total_dispositivos: normas.reduce((s, n) => s + n.ocorrencias, 0),
+    normas,
+  };
+}
+
+// Todos os dispositivos de uma norma que casam com a busca (lista do cartão da norma).
+async function buscarNaNorma(env, q, slug, { soVigentes = true, tipo } = {}) {
+  let sql = `SELECT ${CAMPOS_BUSCA}
+    FROM dispositivos_fts
+    JOIN dispositivos d ON d.id = dispositivos_fts.rowid
+    JOIN legislacoes l ON l.id = d.legislacao_id
+    WHERE dispositivos_fts MATCH ? AND l.slug = ?`;
+  const args = [q, slug];
+  if (tipo) { sql += ' AND d.tipo = ?'; args.push(tipo); }
+  if (soVigentes) sql += ' AND d.revogado = 0';
+  sql += ' ORDER BY d.ordem LIMIT 1000';
+  const { results } = await env.DB.prepare(sql).bind(...args).all();
+  return { query: q, slug, total: results.length, resultados: results.map(comLink) };
+}
+
 async function api(request, env, url) {
   if (url.pathname === '/api/buscar' && request.method === 'GET') {
     const q = url.searchParams.get('q');
@@ -82,7 +135,14 @@ async function api(request, env, url) {
     if (!q || q.trim().length < 3) {
       return Response.json({ erro: 'Parâmetro "q" deve ter no mínimo 3 caracteres' }, { status: 400 });
     }
-    return Response.json(await buscar(env, q, { limit, soVigentes }));
+    const tipo = url.searchParams.get('tipo') || undefined;
+    const slug = url.searchParams.get('slug');
+    // ?slug=: dispositivos de uma norma; ?agrupar=norma: uma linha por norma
+    if (slug) return Response.json(await buscarNaNorma(env, q, slug, { soVigentes, tipo }));
+    if (url.searchParams.get('agrupar') === 'norma') {
+      return Response.json(await buscarPorNorma(env, q, { limit: Math.min(parseInt(url.searchParams.get('limit') || '100', 10) || 100, 300), soVigentes, tipo }));
+    }
+    return Response.json(await buscar(env, q, { limit, soVigentes, tipo }));
   }
 
   if (url.pathname === '/api/buscar-avancado' && request.method === 'POST') {

@@ -18,8 +18,10 @@ type Resultado = {
   dispositivo_revogado: number
 }
 
+type PorNorma = Resultado & { ocorrencias: number }
+
 type Props = {
-  esferaDe: (slug: string) => string | undefined
+  esferaDe: (slug: string) => string | undefined // undefined: norma fora da biblioteca
   nomeDe: (slug: string) => string | undefined
   abrir: (slug: string, ancora: string) => void
   aberto: { arquivo: string; ancora: string }
@@ -86,16 +88,20 @@ export default function ConsultaSQL({ esferaDe, nomeDe, abrir, aberto, fechar }:
   const [esfera, setEsfera] = useState('')
   const [tipo, setTipo] = useState('')
   const [vigentes, setVigentes] = useState(true)
-  const [res, setRes] = useState<Resultado[] | null>(null)
+  const [res, setRes] = useState<PorNorma[] | null>(null)
   const [erro, setErro] = useState('')
   const [carregando, setCarregando] = useState(false)
+  const [abertos, setAbertos] = useState<Record<string, Resultado[] | 'carregando'>>({})
   const campo = useRef<HTMLInputElement>(null)
 
   useEffect(() => { if (fechar) campo.current?.focus() }, []) // só no painel sobreposto
 
-  const buscar = async (e?: React.FormEvent) => {
+  const parametros = (termo: string) => ({ q: termo, so_vigentes: String(vigentes), ...(tipo ? { tipo } : {}) })
+
+  // Uma linha por norma (agrupada no D1): o número de dispositivos em que a busca aparece
+  // e o dispositivo mais relevante. Os demais só são buscados ao abrir a lista da norma.
+  const buscar = async (e?: React.FormEvent, termo = q.trim()) => {
     e?.preventDefault()
-    const termo = q.trim()
     if (termo.length < 3) {
       setErro('Digite ao menos 3 letras.')
       setRes(null)
@@ -103,12 +109,13 @@ export default function ConsultaSQL({ esferaDe, nomeDe, abrir, aberto, fechar }:
     }
     setCarregando(true)
     setErro('')
+    setAbertos({})
     try {
-      const p = new URLSearchParams({ q: termo, limit: '100', so_vigentes: String(vigentes) })
+      const p = new URLSearchParams({ ...parametros(termo), agrupar: 'norma', limit: '300' })
       const r = await fetch('/api/buscar?' + p)
       const d = await r.json().catch(() => ({ erro: `Erro ${r.status} no servidor.` }))
       if (!r.ok || d.erro) throw new Error(d.erro || `Erro ${r.status} no servidor.`)
-      setRes(d.resultados as Resultado[])
+      setRes(d.normas as PorNorma[])
       setFeita(termo)
     } catch (err) {
       setErro((err as Error).message)
@@ -118,29 +125,86 @@ export default function ConsultaSQL({ esferaDe, nomeDe, abrir, aberto, fechar }:
     }
   }
 
-  // esfera e tipo de dispositivo filtram aqui, sobre os 100 mais relevantes
-  const visiveis = (res ?? []).filter(
-    (r) => (!esfera || esferaDe(r.legislacao_slug) === esfera) && (!tipo || r.dispositivo_tipo === tipo),
-  )
+  // tipo de dispositivo e "só vigentes" mudam a contagem: refaz a busca feita
+  useEffect(() => { if (feita) buscar(undefined, feita) }, [tipo, vigentes]) // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Uma norma pode repetir o mesmo texto em vários dispositivos (ex.: a lista de documentos
-  // da LI, LIA, LIR e LOR na IN IAT 28/2026). Esses resultados viram um cartão só, com o
-  // texto uma vez e a lista dos dispositivos onde ele aparece, na ordem de relevância.
-  const grupos: { chave: string; itens: Resultado[] }[] = []
-  const porChave = new Map<string, Resultado[]>()
-  visiveis.forEach((r) => {
-    const chave = r.legislacao_slug + '\u0000' + (r.dispositivo_texto ?? r.dispositivo_id_html ?? '').trim()
-    const g = porChave.get(chave)
-    if (g) g.push(r)
-    else {
-      const itens = [r]
-      porChave.set(chave, itens)
-      grupos.push({ chave, itens })
+  const alternarLista = async (slug: string) => {
+    if (abertos[slug]) {
+      const { [slug]: _, ...resto } = abertos
+      setAbertos(resto)
+      return
     }
+    setAbertos((a) => ({ ...a, [slug]: 'carregando' }))
+    try {
+      const r = await fetch('/api/buscar?' + new URLSearchParams({ ...parametros(feita), slug }))
+      const d = await r.json()
+      if (!r.ok || d.erro) throw new Error(d.erro)
+      setAbertos((a) => ({ ...a, [slug]: d.resultados as Resultado[] }))
+    } catch {
+      setAbertos((a) => { const { [slug]: _, ...resto } = a; return resto })
+      setErro('Não foi possível listar os dispositivos dessa norma.')
+    }
+  }
+
+  // esfera filtra aqui; normas que não estão na biblioteca (ex.: comentários) ficam de fora
+  const visiveis = (res ?? []).filter((r) => {
+    const e = esferaDe(r.legislacao_slug)
+    return e !== undefined && (!esfera || e === esfera)
   })
+  const totalDispositivos = visiveis.reduce((s, r) => s + r.ocorrencias, 0)
 
   // da estrutura (Capítulo > Seção > Subseção) mostra o nível mais próximo do dispositivo
   const nivel = (e: string | null) => (e ? e.split(' > ').pop() ?? e : '')
+
+  const ativoEm = (x: Resultado) => aberto.arquivo === x.legislacao_slug && aberto.ancora === (x.dispositivo_id_html ?? '')
+  const revogado = (x: Resultado) =>
+    x.dispositivo_revogado ? (
+      <span className="rounded bg-destructive px-1 text-[10px] font-semibold uppercase text-destructive-foreground">Revogado</span>
+    ) : null
+
+  // Lista dos dispositivos de uma norma; textos idênticos (ex.: a alínea "j" dos arts. 19,
+  // 34, 42 e 46 da IN IAT 28/2026) aparecem uma vez, com os dispositivos lado a lado.
+  const listaDaNorma = (itens: Resultado[]) => {
+    const grupos: Resultado[][] = []
+    const porTexto = new Map<string, Resultado[]>()
+    itens.forEach((r) => {
+      const chave = (r.dispositivo_texto ?? r.dispositivo_id_html ?? '').trim()
+      const g = porTexto.get(chave)
+      if (g) g.push(r)
+      else { const n = [r]; porTexto.set(chave, n); grupos.push(n) }
+    })
+    return (
+      <ul className="mt-1.5 space-y-1 border-l-2 pl-2">
+        {grupos.map((g) => (
+          <li key={g[0].dispositivo_id_html ?? g[0].dispositivo_rotulo}>
+            {g.length > 1 && g[0].dispositivo_texto && (
+              <p className="px-2 pt-1 text-[12px] leading-snug text-foreground/85">{destacar(g[0].dispositivo_texto, feita)}</p>
+            )}
+            {g.map((x) => (
+              <button
+                key={x.dispositivo_id_html ?? x.dispositivo_rotulo}
+                onClick={() => abrir(x.legislacao_slug, x.dispositivo_id_html ?? '')}
+                className={`block w-full rounded px-2 py-1 text-left transition-colors ${ativoEm(x) ? 'bg-accent' : 'hover:bg-muted'}`}
+              >
+                <span className="flex flex-wrap items-center gap-1.5 text-xs">
+                  <span className="font-medium text-primary">{x.dispositivo_rotulo}</span>
+                  {revogado(x)}
+                </span>
+                {g.length === 1 && x.dispositivo_texto && (
+                  <span className="mt-0.5 line-clamp-3 block text-[12px] leading-snug text-foreground/85">{destacar(x.dispositivo_texto, feita)}</span>
+                )}
+                {x.dispositivo_estrutura && (
+                  <span className="block truncate text-[11px] text-muted-foreground" title={x.dispositivo_estrutura}>
+                    {nivel(x.dispositivo_estrutura)}
+                  </span>
+                )}
+              </button>
+            ))}
+          </li>
+        ))}
+      </ul>
+    )
+  }
 
   const sel = 'h-8 rounded-md border bg-card px-2 text-xs text-foreground focus-visible:outline focus-visible:outline-2 focus-visible:outline-ring'
 
@@ -196,86 +260,61 @@ export default function ConsultaSQL({ esferaDe, nomeDe, abrir, aberto, fechar }:
         {erro && <p className="p-4 text-sm text-destructive">{erro}</p>}
         {res && (
           <p className="border-b px-4 py-1.5 text-[11px] font-semibold uppercase tracking-wider text-muted-foreground">
-            {visiveis.length} de {res.length} dispositivo{res.length === 1 ? '' : 's'}
-            {grupos.length < visiveis.length ? ` · ${grupos.length} texto${grupos.length === 1 ? '' : 's'} diferentes` : ''}
-            {res.length === 100 ? ' (os 100 mais relevantes)' : ''}
+            {visiveis.length} norma{visiveis.length === 1 ? '' : 's'} · {totalDispositivos} dispositivo{totalDispositivos === 1 ? '' : 's'}
           </p>
         )}
         {res && !visiveis.length && !erro && (
-          <p className="p-4 text-sm text-muted-foreground">Nenhum dispositivo com “{feita}” nesses filtros.</p>
+          <p className="p-4 text-sm text-muted-foreground">Nenhuma norma com “{feita}” nesses filtros.</p>
         )}
         {!res && !erro && (
           <p className="p-4 text-sm leading-relaxed text-muted-foreground">
-            Procura a expressão dentro de artigos, parágrafos, incisos e alíneas de todas as normas. Clique num resultado
-            para abrir a norma já no dispositivo.
+            Procura a expressão dentro de artigos, parágrafos, incisos e alíneas de todas as normas. Cada norma aparece uma
+            vez, com o número de dispositivos em que a expressão aparece. Clique para abrir a norma no trecho mais relevante.
           </p>
         )}
         <ul>
-          {grupos.map(({ chave, itens }) => {
-            const [r] = itens
-            const ativoEm = (x: Resultado) =>
-              aberto.arquivo === x.legislacao_slug && aberto.ancora === (x.dispositivo_id_html ?? '')
-            const revogado = (x: Resultado) =>
-              x.dispositivo_revogado ? (
-                <span className="rounded bg-destructive px-1 text-[10px] font-semibold uppercase text-destructive-foreground">Revogado</span>
-              ) : null
-            const titulo = (
-              <div className="serif text-[13px] font-semibold leading-snug">{nomeDe(r.legislacao_slug) ?? r.legislacao_nome}</div>
-            )
-            const texto = r.dispositivo_texto && (
-              <p className="mt-1 line-clamp-4 text-[13px] leading-snug text-foreground/85">{destacar(r.dispositivo_texto, feita)}</p>
-            )
-            if (itens.length === 1) {
-              return (
-                <li key={chave}>
-                  <button
-                    onClick={() => abrir(r.legislacao_slug, r.dispositivo_id_html ?? '')}
-                    className={`block w-full border-b border-l-[3px] px-4 py-2.5 text-left transition-colors ${
-                      ativoEm(r) ? 'border-l-primary bg-accent' : 'border-l-transparent hover:bg-muted'
-                    }`}
-                  >
-                    {titulo}
-                    <div className="mt-0.5 flex flex-wrap items-center gap-1.5 text-xs">
-                      {r.dispositivo_rotulo && <span className="font-medium text-primary">{r.dispositivo_rotulo}</span>}
-                      {revogado(r)}
-                    </div>
-                    {texto}
-                    {r.dispositivo_estrutura && (
-                      <p className="mt-1 truncate text-[11px] text-muted-foreground" title={r.dispositivo_estrutura}>
-                        {nivel(r.dispositivo_estrutura)}
-                      </p>
-                    )}
-                  </button>
-                </li>
-              )
-            }
+          {visiveis.map((r) => {
+            const lista = abertos[r.legislacao_slug]
             return (
-              <li key={chave} className={`border-b border-l-[3px] px-4 py-2.5 ${itens.some(ativoEm) ? 'border-l-primary' : 'border-l-transparent'}`}>
-                {titulo}
-                {texto}
-                <p className="mt-1.5 text-[11px] font-semibold uppercase tracking-wider text-muted-foreground">
-                  Mesmo texto em {itens.length} dispositivos
-                </p>
-                <ul className="mt-1 space-y-0.5">
-                  {itens.map((x) => (
-                    <li key={x.dispositivo_id_html ?? x.dispositivo_rotulo}>
-                      <button
-                        onClick={() => abrir(x.legislacao_slug, x.dispositivo_id_html ?? '')}
-                        className={`block w-full rounded px-2 py-1 text-left transition-colors ${ativoEm(x) ? 'bg-accent' : 'hover:bg-muted'}`}
-                      >
-                        <span className="flex flex-wrap items-center gap-1.5 text-xs">
-                          <span className="font-medium text-primary">{x.dispositivo_rotulo}</span>
-                          {revogado(x)}
-                        </span>
-                        {x.dispositivo_estrutura && (
-                          <span className="block truncate text-[11px] text-muted-foreground" title={x.dispositivo_estrutura}>
-                            {nivel(x.dispositivo_estrutura)}
-                          </span>
-                        )}
-                      </button>
-                    </li>
-                  ))}
-                </ul>
+              <li key={r.legislacao_slug} className={`border-b border-l-[3px] ${aberto.arquivo === r.legislacao_slug ? 'border-l-primary' : 'border-l-transparent'}`}>
+                <button
+                  onClick={() => abrir(r.legislacao_slug, r.dispositivo_id_html ?? '')}
+                  className={`block w-full px-4 pb-1.5 pt-2.5 text-left transition-colors ${ativoEm(r) ? 'bg-accent' : 'hover:bg-muted'}`}
+                >
+                  <div className="flex items-start justify-between gap-2">
+                    <span className="serif text-[13px] font-semibold leading-snug">{nomeDe(r.legislacao_slug) ?? r.legislacao_nome}</span>
+                    <span
+                      className="shrink-0 rounded-full bg-secondary px-2 py-0.5 text-[11px] font-semibold tabular-nums text-secondary-foreground"
+                      title="Dispositivos desta norma em que a busca aparece"
+                    >
+                      {r.ocorrencias} {r.ocorrencias === 1 ? 'ocorrência' : 'ocorrências'}
+                    </span>
+                  </div>
+                  <div className="mt-0.5 flex flex-wrap items-center gap-1.5 text-xs">
+                    {r.dispositivo_rotulo && <span className="font-medium text-primary">{r.dispositivo_rotulo}</span>}
+                    {revogado(r)}
+                  </div>
+                  {r.dispositivo_texto && (
+                    <p className="mt-1 line-clamp-3 text-[13px] leading-snug text-foreground/85">{destacar(r.dispositivo_texto, feita)}</p>
+                  )}
+                  {r.dispositivo_estrutura && (
+                    <p className="mt-1 truncate text-[11px] text-muted-foreground" title={r.dispositivo_estrutura}>
+                      {nivel(r.dispositivo_estrutura)}
+                    </p>
+                  )}
+                </button>
+                {r.ocorrencias > 1 && (
+                  <div className="px-4 pb-2">
+                    <button
+                      onClick={() => alternarLista(r.legislacao_slug)}
+                      aria-expanded={!!lista}
+                      className="text-xs font-medium text-primary underline-offset-2 hover:underline"
+                    >
+                      {lista === 'carregando' ? 'Carregando…' : lista ? 'Ocultar a lista' : `Ver os ${r.ocorrencias} dispositivos`}
+                    </button>
+                    {lista && lista !== 'carregando' && listaDaNorma(lista)}
+                  </div>
+                )}
               </li>
             )
           })}
