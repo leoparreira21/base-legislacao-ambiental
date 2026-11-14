@@ -613,6 +613,35 @@ def render_tabela(linhas, prof):
     return f'<div class="tabela"{id_tabela}><table><tbody>' + ''.join(linhas_html) + '</tbody></table></div>' + ''.join(depois)
 
 
+def render_conteudo_sec(conteudo):
+    """Capítulo/seção com artigos soltos E subdivisões (ex.: arts. 40 e 41 antes da Seção I):
+    os artigos soltos ganham um nível a mais de recuo, para ficarem alinhados aos artigos das
+    seções e não no mesmo nível dos títulos das seções."""
+    tem_sub = any(k == 'no' and c.tipo == 'sec' for k, c in conteudo)
+    tem_solto = any(k == 'no' and c.tipo == 'art' for k, c in conteudo)
+    if not (tem_sub and tem_solto):
+        return render_conteudo(conteudo, 0)
+    partes, trecho = [], []
+
+    def fecha():
+        if not trecho:
+            return
+        html_trecho = render_conteudo(trecho, 0)
+        if any(k == 'no' and c.tipo == 'art' for k, c in trecho):
+            html_trecho = f'<div class="corpo soltos">{html_trecho}</div>'
+        partes.append(html_trecho)
+        trecho.clear()
+
+    for k, c in conteudo:
+        if k == 'no' and c.tipo == 'sec':
+            fecha()
+            partes.append(render(c, 0))
+        else:
+            trecho.append((k, c))
+    fecha()
+    return ''.join(partes)
+
+
 def tem_art(no):
     return any(f.tipo == 'art' or (f.tipo == 'sec' and tem_art(f)) for f in no.filhos())
 
@@ -625,8 +654,8 @@ def render(no, prof=0):
         prof_filhos = prof + 1
     else:
         prof_filhos = prof
-    corpo = render_conteudo(no.conteudo, prof_filhos)
-    ida = f' id="{html.escape(no.id)}"' if no.id else ''
+    corpo = render_conteudo_sec(no.conteudo) if no.tipo == 'sec' else render_conteudo(no.conteudo, prof_filhos)
+    ida =f' id="{html.escape(no.id)}"' if no.id else ''
     rev = ' revogado' if no.revogado else ''
     if no.tipo == 'raiz':
         return corpo
