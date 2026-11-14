@@ -1,13 +1,25 @@
 {
-  // Biblioteca de normas: Worker só com arquivos estáticos (sem código).
-  // A pasta é montada por scripts/montar_biblioteca.py e publicada pelo
-  // workflow implantar-biblioteca.yml a cada push no main.
+  // Biblioteca de normas: arquivos estáticos + API de consulta no texto (D1).
+  // A pasta de arquivos é montada por scripts/montar_biblioteca.py e tudo é publicado
+  // pelo workflow implantar-biblioteca.yml a cada push no main. Publicar pelo painel
+  // ou por outro projeto com este mesmo nome substitui esta configuração.
   "name": "biblioteca-legislacao-ambiental",
+  "main": "worker.mjs",
   "compatibility_date": "2026-11-09",
   "workers_dev": true,
   "assets": {
-    "directory": "../../_biblioteca"
+    "directory": "../../_biblioteca",
+    "binding": "ASSETS",
+    // só /api passa pelo código; o resto sai direto dos arquivos
+    "run_worker_first": ["/api", "/api/*"]
   },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "legislacao-ambiental",
+      "database_id": "09f267c4-f669-4262-9c76-f60143ab4086"
+    }
+  ],
   "observability": {
     "enabled": true
   }

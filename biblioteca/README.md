@@ -20,3 +20,5 @@ pnpm exec html-inline dist/index.html > ../site/biblioteca.html
 Onde abrir:
 - site publicado: `/biblioteca.html` (o `gerar_site.py` copia a página, gera `html/` e as imagens dos anexos);
 - no repositório: abrir `site/biblioteca.html` direto no navegador (procura `../html/`).
+
+A faixa "Consulta no texto" (`src/ConsultaSQL.tsx`) chama `/api/buscar` do Worker `cloudflare/biblioteca/worker.mjs` (D1). Ela só aparece quando `/api` responde: coluna à direita a partir de 1280 px de largura, painel sobreposto (botão "Consulta no texto dos dispositivos") nas telas menores.

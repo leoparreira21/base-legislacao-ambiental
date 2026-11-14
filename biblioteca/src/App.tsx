@@ -2,7 +2,8 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { Input } from '@/components/ui/input'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
-import { ArrowLeft, ExternalLink, Search, X } from 'lucide-react'
+import { ArrowLeft, ExternalLink, Search, TextSearch, X } from 'lucide-react'
+import ConsultaSQL, { apiDisponivel } from './ConsultaSQL'
 
 type Norma = {
   arquivo: string
@@ -26,6 +27,7 @@ const PASTAS = ['html', '../html']
 let PASTA = PASTAS[0]
 
 const TIPOS: [string, string][] = [
+  ['constituicao', 'Constituição'],
   ['lei-complementar', 'Leis complementares'],
   ['lei', 'Leis'],
   ['decreto', 'Decretos'],
@@ -35,6 +37,7 @@ const TIPOS: [string, string][] = [
   ['portaria', 'Portarias'],
   ['norma-regulamentadora', 'Normas regulamentadoras'],
   ['norma-cnen', 'Normas CNEN'],
+  ['resolucao-conjunta', 'Resoluções conjuntas'],
 ]
 const nomeTipo = (t: string) => TIPOS.find(([k]) => k === t)?.[1] ?? t
 const ordemTipo = (t: string) => {
@@ -132,12 +135,30 @@ export default function App() {
     }
   }, [])
 
+  const [api, setApi] = useState(false)
+  const [painel, setPainel] = useState(false) // consulta no texto em telas menores que xl
+  useEffect(() => { apiDisponivel().then(setApi) }, [])
+
   const abrir = (arquivo: string, ancora = '') => {
     const novo = arquivo ? `#${arquivo}${ancora ? '/' + ancora : ''}` : ' '
     history.pushState(null, '', novo === ' ' ? location.pathname + location.search : novo)
+    // mesma norma já aberta no leitor: só leva ao dispositivo, sem recarregar
+    const win = quadro.current?.contentWindow
+    if (arquivo && ancora && arquivo === sel.arquivo && arquivo === pedido.arquivo && win) {
+      try {
+        win.location.hash = ancora
+        setSel({ arquivo, ancora })
+        return
+      } catch { /* recarrega abaixo */ }
+    }
     setSel({ arquivo, ancora })
     setPedido({ arquivo, ancora })
     setRecarga((r) => r + 1)
+  }
+
+  const abrirDaConsulta = (arquivo: string, ancora: string) => {
+    abrir(arquivo, ancora)
+    if (!window.matchMedia('(min-width: 1280px)').matches) setPainel(false)
   }
 
   const presentesTipos = useMemo(() => {
@@ -252,6 +273,11 @@ export default function App() {
               {normas ? `${filtradas.length} de ${normas.length}` : ''}
             </span>
           </div>
+          {api && (
+            <Button variant="outline" size="sm" className="w-full justify-start xl:hidden" onClick={() => setPainel(true)}>
+              <TextSearch className="h-4 w-4" /> Consulta no texto dos dispositivos
+            </Button>
+          )}
           <div className="relative">
             <Search className="pointer-events-none absolute left-2.5 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
             <Input
@@ -404,6 +430,22 @@ export default function App() {
           </div>
         )}
       </main>
+
+      {/* Consulta no texto (D1): coluna à direita em telas largas, painel sobreposto nas menores */}
+      {api && normas && (
+        <aside
+          aria-label="Consulta no texto"
+          className={`${painel ? 'fixed inset-0 z-30 flex md:left-auto md:w-[400px] md:shadow-2xl' : 'hidden'} min-h-0 flex-col border-l bg-background xl:static xl:z-auto xl:flex xl:w-[360px] xl:flex-none xl:shadow-none 2xl:w-[400px]`}
+        >
+          <ConsultaSQL
+            esferaDe={(s) => normas.find((n) => n.arquivo === s)?.esfera}
+            nomeDe={(s) => normas.find((n) => n.arquivo === s)?.norma}
+            abrir={abrirDaConsulta}
+            aberto={sel}
+            fechar={painel ? () => setPainel(false) : undefined}
+          />
+        </aside>
+      )}
     </div>
   )
 }
