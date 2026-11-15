@@ -22,7 +22,7 @@ alterado_por: ["[[lei-federal-11284-2006]]", "[[lei-federal-11428-2006]]", "[[le
 revoga: []
 revogado_por: []
 cita: ["[[decreto-federal-20923-1932]]", "[[decreto-federal-99274-1990]]", "[[lei-federal-12340-2010]]", "[[lei-federal-7797-1989]]", "[[lei-federal-9099-1995]]"]
-tags: [advertencia, apreensao, auto-infracao, bem-cultural, cooperacao-institucional, crime-ambiental, dano-ambiental, eia-rima, embargo, fauna, fiscalizacao, flora, incendio-florestal, incluido, licenciamento-ambiental, mineracao, multa, pesca, processo-administrativo, redacao-alterada, reincidencia, residuo-solido, revogado, sisnama, substancia-toxica, suspensao-atividade, termo-compromisso, unidade-conservacao, uso-solo]
+tags: [advertencia, apreensao, auto-infracao, bem-cultural, cooperacao-institucional, crime-ambiental, dano-ambiental, eia-rima, embargo, fauna, fiscalizacao, flora, incendio-florestal, incluido, licenciamento-ambiental, mineracao, multa, pesca, processo-administrativo, redacao-alterada, reincidencia, residuo-solido, revogado, sisnama, substancia-perigosa, suspensao-atividade, termo-compromisso, unidade-conservacao, uso-solo]
 fonte: "Planalto – texto compilado da Lei nº 9.605/1998 impresso do navegador (17 páginas), com as redações anteriores tachadas e as anotações do portal ('Este texto não substitui o publicado no DOU de 13.2.1998 e retificado em 17.2.1998'), enviado por Leo"
 ---
 

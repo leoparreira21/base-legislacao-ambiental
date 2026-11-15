@@ -29,7 +29,24 @@
     "abastecimento-agua": "abastecimento",
     "aii": "area-influencia",
     "aid": "area-influencia",
-    "area-de-disposicao-final": "area-disposicao-final"
+    "area-de-disposicao-final": "area-disposicao-final",
+    "tratamento-esgoto": "tratamento-efluente",
+    "tratamento-termico-residuo": "tratamento-residuo",
+    "transporte-externo": "transporte",
+    "transporte-interno": "transporte",
+    "substancia-cancerigena": "substancia-perigosa",
+    "substancia-toxica": "substancia-perigosa",
+    "substancia-inflamavel": "substancia-perigosa",
+    "substancia-explosiva": "substancia-perigosa",
+    "quilombola": "comunidade-tradicional",
+    "drenagem-urbana": "drenagem",
+    "area-drenagem": "drenagem",
+    "emissao-fugitiva": "emissao-atmosferica",
+    "fonte-nao-selada": "fonte-radioativa",
+    "fonte-selada": "fonte-radioativa",
+    "exportacao-residuo": "transporte-residuos",
+    "importacao-residuo": "transporte-residuos",
+    "residuo-transporte": "transporte-residuos"
   },
   "nos": [
     {
@@ -252,13 +269,6 @@
     {
       "id": "area-disposicao-final",
       "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "area-drenagem",
-      "grupo": "tema/agua",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1286,13 +1296,6 @@
       "anotavel": true
     },
     {
-      "id": "drenagem-urbana",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "edificacao-rural",
       "grupo": "atividade/equipamento-insumo",
       "pai": null,
@@ -1357,13 +1360,6 @@
     },
     {
       "id": "emissao-evaporativa",
-      "grupo": "tema/ar",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "emissao-fugitiva",
       "grupo": "tema/ar",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -1489,22 +1485,8 @@
       "anotavel": true
     },
     {
-      "id": "eutrofizacao",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "evento-hidrologico-critico",
       "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "exportacao-residuo",
-      "grupo": "tema/residuo",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1594,28 +1576,7 @@
       "anotavel": true
     },
     {
-      "id": "fonte-nao-selada",
-      "grupo": "tema/radiacao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "fonte-poluicao",
-      "grupo": "tema/gestao-politica",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "fonte-radioativa",
-      "grupo": "tema/radiacao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "fonte-selada",
       "grupo": "tema/radiacao",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -1783,13 +1744,6 @@
       "anotavel": true
     },
     {
-      "id": "identificacao-rejeito",
-      "grupo": "tema/radiacao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "imovel",
       "grupo": "tema/flora-territorio",
       "pai": null,
@@ -1813,13 +1767,6 @@
     {
       "id": "impermeabilizacao",
       "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "importacao-residuo",
-      "grupo": "tema/residuo",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -3533,13 +3480,6 @@
       "anotavel": true
     },
     {
-      "id": "quilombola",
-      "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "radiografia-industrial",
       "grupo": "tema/radiacao",
       "pai": null,
@@ -3862,13 +3802,6 @@
       "anotavel": true
     },
     {
-      "id": "residuo-transporte",
-      "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "responsavel-legal",
       "grupo": "instrumento/procedimento",
       "pai": null,
@@ -4004,13 +3937,6 @@
     {
       "id": "segrh",
       "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "seguranca-barragem",
-      "grupo": "tema/agua",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -4184,27 +4110,6 @@
       "anotavel": true
     },
     {
-      "id": "substancia-cancerigena",
-      "grupo": "tema/seguranca-saude",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "substancia-explosiva",
-      "grupo": "tema/seguranca-saude",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "substancia-inflamavel",
-      "grupo": "tema/seguranca-saude",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "substancia-inorganica",
       "grupo": "tecnico/parametro-monitoramento",
       "pai": null,
@@ -4212,7 +4117,7 @@
       "anotavel": true
     },
     {
-      "id": "substancia-toxica",
+      "id": "substancia-perigosa",
       "grupo": "tema/seguranca-saude",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -4312,13 +4217,6 @@
     {
       "id": "taxa-aplicacao",
       "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "taxa-residuo",
-      "grupo": "tema/residuo",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -4443,14 +4341,7 @@
       "anotavel": true
     },
     {
-      "id": "transporte-externo",
-      "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "transporte-interno",
+      "id": "transporte-residuos",
       "grupo": "tema/residuo",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -4460,13 +4351,6 @@
       "id": "tratamento-efluente",
       "grupo": "tema/efluente",
       "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "tratamento-esgoto",
-      "grupo": "tema/efluente",
-      "pai": "tratamento-efluente",
       "status": "proposta-de-organizacao",
       "anotavel": true
     },
@@ -4487,13 +4371,6 @@
     {
       "id": "tratamento-superficie",
       "grupo": "atividade/industrial-servicos",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "tratamento-termico-residuo",
-      "grupo": "tema/residuo",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true

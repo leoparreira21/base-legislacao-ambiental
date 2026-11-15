@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PGRS
 atividades: [compostagem]
 modalidades: [rlac, rlas, rlo, loa, lor]
-tags: [acondicionamento, armazenamento-residuo, autorizacao-ambiental, classificacao-residuo, cnpj, coleta-seletiva, compostagem, destinacao-final, gerenciamento-residuo, mtr, pgrs, reciclagem, rejeito, residuo-perigoso, responsavel-legal, responsavel-tecnico, segregacao, sinir, transporte-externo]
+tags: [acondicionamento, armazenamento-residuo, autorizacao-ambiental, classificacao-residuo, cnpj, coleta-seletiva, compostagem, destinacao-final, gerenciamento-residuo, mtr, pgrs, reciclagem, rejeito, residuo-perigoso, responsavel-legal, responsavel-tecnico, segregacao, sinir, transporte]
 fonte: PDF da IN IAT 41/2025 (work/in41.pdf), páginas 87 a 91
 ---
 

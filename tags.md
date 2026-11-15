@@ -41,7 +41,6 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#area-critica` | 1 |
 | `#area-degradada` | 9 |
 | `#area-disposicao-final` | 3 |
-| `#area-drenagem` | 1 |
 | `#area-fragil` | 7 |
 | `#area-influencia` | 18 |
 | `#area-inundavel` | 2 |
@@ -149,7 +148,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#compensacao-reserva-legal` | 3 |
 | `#compostagem` | 18 |
 | `#comprovante-destinacao` | 1 |
-| `#comunidade-tradicional` | 12 |
+| `#comunidade-tradicional` | 15 |
 | `#conclusao-obra` | 3 |
 | `#condicionante` | 68 |
 | `#condominio` | 3 |
@@ -220,10 +219,9 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#dominialidade` | 19 |
 | `#dominio-uniao` | 2 |
 | `#dragagem` | 1 |
-| `#drenagem` | 27 |
+| `#drenagem` | 31 |
 | `#drenagem-pluvial` | 3 |
 | `#drenagem-superficial` | 2 |
-| `#drenagem-urbana` | 3 |
 | `#edificacao-rural` | 2 |
 | `#educacao-ambiental` | 12 |
 | `#efluente` | 103 |
@@ -232,9 +230,8 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#eletroeletronico` | 2 |
 | `#embalagem` | 13 |
 | `#embargo` | 22 |
-| `#emissao-atmosferica` | 55 |
+| `#emissao-atmosferica` | 56 |
 | `#emissao-evaporativa` | 2 |
-| `#emissao-fugitiva` | 9 |
 | `#emissario-submarino` | 1 |
 | `#emolumento` | 1 |
 | `#empreendimento-imobiliario` | 10 |
@@ -268,10 +265,8 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#estudo-tecnico-preliminar` | 1 |
 | `#eta` | 1 |
 | `#etapas-licenciamento` | 1 |
-| `#eutrofizacao` | 1 |
 | `#evento-hidrologico-critico` | 3 |
 | `#expansao-urbana` | 1 |
-| `#exportacao-residuo` | 2 |
 | `#fabricante` | 5 |
 | `#fauna` | 58 |
 | `#fca` | 1 |
@@ -285,10 +280,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#fonte-existente` | 1 |
 | `#fonte-fixa` | 3 |
 | `#fonte-movel` | 1 |
-| `#fonte-nao-selada` | 1 |
-| `#fonte-poluicao` | 2 |
 | `#fonte-radioativa` | 1 |
-| `#fonte-selada` | 1 |
 | `#formas-jovens` | 1 |
 | `#forno-carvao` | 1 |
 | `#forno-crematorio` | 2 |
@@ -322,7 +314,6 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#hidrogeologia` | 2 |
 | `#hospital` | 1 |
 | `#identificacao` | 1 |
-| `#identificacao-rejeito` | 1 |
 | `#imovel` | 2 |
 | `#imovel-rural` | 1 |
 | `#imovel-urbano` | 1 |
@@ -332,7 +323,6 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#impacto-vizinhanca` | 1 |
 | `#impedimento-suspeicao` | 2 |
 | `#impermeabilizacao` | 24 |
-| `#importacao-residuo` | 7 |
 | `#improbidade-administrativa` | 1 |
 | `#incendio-florestal` | 2 |
 | `#incentivo` | 6 |
@@ -659,7 +649,6 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#qualificacao` | 1 |
 | `#queima-ceu-aberto` | 5 |
 | `#questionario` | 1 |
-| `#quilombola` | 8 |
 | `#radiacao-eletromagnetica` | 2 |
 | `#radiografia-industrial` | 1 |
 | `#radioisotopo` | 2 |
@@ -717,7 +706,6 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#residuo-solido` | 110 |
 | `#residuo-solido-urbano` | 20 |
 | `#residuo-terceiro` | 1 |
-| `#residuo-transporte` | 2 |
 | `#responsavel-legal` | 10 |
 | `#responsavel-tecnico` | 94 |
 | `#restauracao` | 2 |
@@ -744,7 +732,6 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#segregacao` | 13 |
 | `#segregacao-residuo` | 1 |
 | `#segrh` | 2 |
-| `#seguranca-barragem` | 1 |
 | `#seguranca-hidrica` | 2 |
 | `#seguranca-instalacao` | 7 |
 | `#seguranca-trabalho` | 4 |
@@ -776,11 +763,8 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#sondagem` | 2 |
 | `#sox` | 1 |
 | `#spie` | 1 |
-| `#substancia-cancerigena` | 1 |
-| `#substancia-explosiva` | 1 |
-| `#substancia-inflamavel` | 1 |
 | `#substancia-inorganica` | 2 |
-| `#substancia-toxica` | 3 |
+| `#substancia-perigosa` | 4 |
 | `#substituicao` | 1 |
 | `#substrato-plantas` | 2 |
 | `#sucroalcooleira` | 2 |
@@ -799,7 +783,6 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#taxa-ambiental` | 57 |
 | `#taxa-aplicacao` | 7 |
 | `#taxa-licenciamento` | 1 |
-| `#taxa-residuo` | 2 |
 | `#tcfa` | 4 |
 | `#tecnologia-controle` | 1 |
 | `#tecnologia-inovacao` | 1 |
@@ -824,19 +807,15 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#transicao` | 13 |
 | `#translocacao` | 2 |
 | `#transparencia` | 1 |
-| `#transporte` | 22 |
+| `#transporte` | 26 |
 | `#transporte-de-residuo` | 2 |
-| `#transporte-externo` | 6 |
 | `#transporte-florestal` | 3 |
-| `#transporte-interno` | 3 |
 | `#transporte-residuo` | 3 |
-| `#transporte-residuos` | 1 |
-| `#tratamento-efluente` | 30 |
-| `#tratamento-esgoto` | 13 |
-| `#tratamento-residuo` | 12 |
+| `#transporte-residuos` | 8 |
+| `#tratamento-efluente` | 37 |
+| `#tratamento-residuo` | 13 |
 | `#tratamento-semente` | 2 |
 | `#tratamento-superficie` | 2 |
-| `#tratamento-termico-residuo` | 1 |
 | `#treinamento` | 1 |
 | `#triagem` | 11 |
 | `#tubulacao` | 1 |

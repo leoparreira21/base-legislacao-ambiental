@@ -16,7 +16,7 @@ alterado_por: []
 revoga: ["[[portaria-iap-7-1998]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-1502-1992]]", "[[decreto-estadual-6674-2002]]", "[[decreto-estadual-77-2007]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-10233-1992]]", "[[lei-estadual-12493-1999]]", "[[resolucao-cema-50-2005]]"]
-tags: [armazenamento-residuo, autorizacao-ambiental, coprocessamento, dispensa, gerador, importacao-residuo, incineracao, laudo-analitico, parecer-tecnico, prazo, publicacao, relatorio, renovacao, residuo-perigoso, residuo-solido, taxa-ambiental, uso-agricola-efluente]
+tags: [armazenamento-residuo, autorizacao-ambiental, coprocessamento, dispensa, gerador, transporte-residuos, incineracao, laudo-analitico, parecer-tecnico, prazo, publicacao, relatorio, renovacao, residuo-perigoso, residuo-solido, taxa-ambiental, uso-agricola-efluente]
 fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (impressão em 4 páginas, com o aviso \"O texto abaixo não substitui o publicado no Diário Oficial\"), PDF enviado por Leo. Sem data e número do DIOE."
 ---
 

@@ -19,7 +19,7 @@ alterado_por: ["[[resolucao-conama-501-2021]]"]
 revoga: []
 revogado_por: []
 cita: ["[[decreto-federal-99274-1990]]", "[[lei-federal-6938-1981]]", "[[portaria-mma-168-2005]]", "[[resolucao-conama-5-1989]]", "[[resolucao-conama-501-2021]]", "[[resolucao-conama-8-1990]]", "[[resolucao-conama-436-2011]]"]
-tags: [bagaco-cana, caldeira, capacidade-suporte, chumbo, cimento, cov, emissao-atmosferica, emissao-fugitiva, ert, fertilizante, fonte-existente, fonte-fixa, gas-natural, geracao-calor, geracao-energia, industria-madeira, industria-metalurgica, industria-quimica, lenha, li, limite-emissao, lme, material-particulado, metodo-analise, minerais-nao-metalicos, monitoramento, monitoramento-continuo, nox, oleo-combustivel, oxigenio-referencia, papel-celulose, petroleo, pilha-bateria, qualidade-ar, refinaria, relatorio, renovacao, siderurgia, sox, tecnologia-controle, transicao, turbina-gas, vidro]
+tags: [bagaco-cana, caldeira, capacidade-suporte, chumbo, cimento, cov, emissao-atmosferica, ert, fertilizante, fonte-existente, fonte-fixa, gas-natural, geracao-calor, geracao-energia, industria-madeira, industria-metalurgica, industria-quimica, lenha, li, limite-emissao, lme, material-particulado, metodo-analise, minerais-nao-metalicos, monitoramento, monitoramento-continuo, nox, oleo-combustivel, oxigenio-referencia, papel-celulose, petroleo, pilha-bateria, qualidade-ar, refinaria, relatorio, renovacao, siderurgia, sox, tecnologia-controle, transicao, turbina-gas, vidro]
 fonte: "PDF do portal do CONAMA (texto redigitado, Word 365, sem as alterações de 2021), enviado por Leo; tabelas conferidas nas imagens das páginas"
 ---
 
