@@ -17,7 +17,7 @@ revoga: []
 revogado_por: []
 texto: compilado (atualizado até a Portaria MTE nº 342/2024)
 cita: ["[[norma-regulamentadora-federal-12-1978]]", "[[norma-regulamentadora-federal-4-1978]]", "[[norma-regulamentadora-federal-5-1978]]", "[[norma-regulamentadora-federal-6-1978]]", "[[norma-regulamentadora-federal-7-1978]]", "[[norma-regulamentadora-federal-9-1978]]", "[[portaria-mte-86-2005]]", "[[portaria-sit-197-2010]]"]
-tags: [agropecuaria, agrotoxico, ambito-aplicacao, armazenamento-graos, edificacao-rural, incluido, redacao-alterada, seguranca-instalacao, seguranca-trabalho, transporte]
+tags: [agropecuaria, agrotoxico, armazenamento-graos, edificacao-rural, incluido, redacao-alterada, seguranca-instalacao, seguranca-trabalho, transporte]
 fonte: "Ministério do Trabalho e Emprego, "NR 31 - Segurança e saúde no trabalho na agricultura, pecuária, silvicultura, exploração florestal e aquicultura" (texto atualizado em 2024, 81 páginas), enviado por Leo"
 ---
 

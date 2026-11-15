@@ -16,7 +16,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[lei-federal-6938-1981]]", "[[resolucao-conama-237-1997]]", "[[lei-federal-11445-2007]]", "[[lei-estadual-22252-2024]]", "[[decreto-estadual-9541-2025]]", "[[resolucao-conama-377-2006]]", "[[resolucao-conama-430-2011]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-11977-2022]]", "[[decreto-estadual-9415-2025]]", "[[lei-federal-6496-1977]]", "[[lei-federal-9605-1998]]", "[[decreto-federal-6514-2008]]", "[[lei-federal-12651-2012]]", "[[resolucao-conama-307-2002]]", "[[portaria-iap-256-2013]]", "[[resolucao-sedest-2-2025]]"]
-tags: [saneamento, licenciamento-ambiental, abastecimento-agua, esgotamento-sanitario]
+tags: [saneamento, licenciamento-ambiental, abastecimento, esgotamento-sanitario]
 fonte: "PDF fornecido pelo usuário: IN 37 2025.pdf (120 páginas)."
 texto: compilado (atualizado até 2025-04-28)
 ---

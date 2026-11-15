@@ -17,7 +17,7 @@ revoga: []
 revogado_por: []
 texto: compilado (atualizado até a Portaria MTP nº 4.219/2022)
 cita: ["[[norma-regulamentadora-federal-1-1978]]", "[[norma-regulamentadora-federal-15-1978]]"]
-tags: [ambito-aplicacao, caldeira, inspecao-seguranca, projeto-instalacao, seguranca-trabalho, spie, tanque-armazenamento, tubulacao, vaso-pressao]
+tags: [caldeira, inspecao-seguranca, projeto-instalacao, seguranca-trabalho, spie, tanque-armazenamento, tubulacao, vaso-pressao]
 fonte: "Ministério do Trabalho e Emprego, "NR 13 - Caldeiras, vasos de pressão, tubulações e tanques metálicos de armazenamento" (texto atualizado em 2023, 35 páginas; "Este texto não substitui o publicado no DOU"), enviado por Leo"
 ---
 

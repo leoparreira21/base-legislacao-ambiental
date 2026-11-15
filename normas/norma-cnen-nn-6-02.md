@@ -18,7 +18,7 @@ revogado_por: []
 texto: compilado (atualizado até a Resolução CNEN 293/2022)
 anexos: "tipo 3 (normativo, neste arquivo): I, II, III"
 cita: ["[[resolucao-cnen-112-2011]]", "[[norma-cnen-nn-3-01]]", "[[posicao-regulatoria-cnen-pr-3-01-001]]", "[[norma-cnen-nn-5-01]]", "[[norma-cnen-nn-2-06]]", "[[lei-federal-9605-1998]]", "[[instrucao-normativa-cnen-1-1994]]"]
-tags: [advertencia, ambito-aplicacao, classificacao-instalacao-radiativa, crime-ambiental, encerramento, fiscalizacao, fonte-nao-selada, fonte-radioativa, fonte-selada, impacto-ambiental, instalacao-nuclear, instalacao-radiativa, isencao, licenciamento-radiativo, logistica-reversa, medida-cautelar, mineracao, ministerio-publico, monitoramento, petroleo, plano-emergencia, prazo, protecao-radiologica, radiografia-industrial, radioisotopo, radiologia, radioterapia, rejeito-radioativo, renovacao, responsavel-tecnico, sancao, seguranca-instalacao, transporte, validade]
+tags: [advertencia, classificacao-instalacao-radiativa, crime-ambiental, encerramento, fiscalizacao, fonte-nao-selada, fonte-radioativa, fonte-selada, impacto-ambiental, instalacao-nuclear, instalacao-radiativa, isencao, licenciamento-radiativo, logistica-reversa, medida-cautelar, mineracao, ministerio-publico, monitoramento, petroleo, plano-emergencia, prazo, protecao-radiologica, radiografia-industrial, radioisotopo, radiologia, radioterapia, rejeito-radioativo, renovacao, responsavel-tecnico, sancao, seguranca-instalacao, transporte, validade]
 fonte: "CNEN, 'Norma CNEN NN 6.02 – Licenciamento de Instalações Radiativas', versão de março/2022 com a Resolução CNEN 293/22 (PDF do Word para Microsoft 365, 13 páginas), enviado por Leo"
 ---
 

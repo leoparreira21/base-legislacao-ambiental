@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RAP
 atividades: [abastecimento-agua]
 modalidades: [lp]
-tags: [diagnostico-ambiental, efluente, impacto-ambiental, rap, recurso-hidrico, saneamento, abastecimento-agua]
+tags: [diagnostico-ambiental, efluente, impacto-ambiental, rap, recurso-hidrico, saneamento, abastecimento]
 fonte: "PDF da IN IAT 37/2025 fornecido pelo usuário, páginas impressas 79–85 (PDF pp. 79–85)"
 ---
 

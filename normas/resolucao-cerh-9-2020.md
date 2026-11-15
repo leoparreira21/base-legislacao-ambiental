@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-9129-2010]]", "[[decreto-estadual-9130-2010]]", "[[lei-estadual-12726-1999]]", "[[lei-federal-11445-2007]]", "[[lei-federal-9433-1997]]", "[[resolucao-cerh-101-2017]]"]
-tags: [abastecimento-publico, agua-subterranea, alocacao-negociada, area-contaminada, area-critica, automonitoramento, cerh, classificacao-corpo-agua, cobranca-uso-agua, direito-transicao, enquadramento, ministerio-publico, outorga, poco, potabilidade, processo-administrativo, publicacao, recurso-hidrico, regularizacao, suspensao-outorga, valor-orientador, vazao]
+tags: [abastecimento, agua-subterranea, alocacao-negociada, area-contaminada, area-critica, automonitoramento, cerh, classificacao-corpo-agua, cobranca-uso-agua, direito-transicao, enquadramento, ministerio-publico, outorga, poco, potabilidade, processo-administrativo, publicacao, recurso-hidrico, regularizacao, suspensao-outorga, valor-orientador, vazao]
 fonte: "Impressão de página da internet em PDF (4 páginas), enviada por Leo; o cabeçalho traz a data de publicação no Diário Oficial e a advertência "Este texto não substitui o publicado no Diário Oficial do Estado". Texto conferido com o PDF."
 ---
 

@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-9415-2025]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-11977-2022]]", "[[lei-federal-6938-1981]]", "[[resolucao-conama-237-1997]]", "[[lei-estadual-22252-2024]]", "[[decreto-estadual-9541-2025]]", "[[lei-estadual-12726-1999]]", "[[decreto-estadual-9957-2014]]", "[[instrucao-normativa-iat-6-2023]]", "[[lei-federal-9605-1998]]", "[[decreto-federal-6514-2008]]", "[[constituicao-federal-1988]]"]
-tags: [abastecimento-publico, agua-subterranea, alteracao, captacao, casos-omissos, condicionante, dispensa, dlam, infracao-ambiental, lac, las, lasr, li, licenca-vencida, licenciamento-ambiental, licenciamento-monofasico, licenciamento-trifasico, lir, lo, lor, lp, outorga, outorga-direito, outorga-previa, poco, prazo, recurso-hidrico, regularizacao, renovacao, sancao, suspensao-processo, uso-insignificante, vazao]
+tags: [abastecimento, agua-subterranea, alteracao, captacao, casos-omissos, condicionante, dispensa, dlam, infracao-ambiental, lac, las, lasr, li, licenca-vencida, licenciamento-ambiental, licenciamento-monofasico, licenciamento-trifasico, lir, lo, lor, lp, outorga, outorga-direito, outorga-previa, poco, prazo, recurso-hidrico, regularizacao, renovacao, sancao, suspensao-processo, uso-insignificante, vazao]
 fonte: "PDF assinado digitalmente pelo Diretor-Presidente do IAT em 01/04/2026 (8 páginas, Word 2019), enviado por Leo"
 ---
 

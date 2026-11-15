@@ -4,8 +4,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 
 | Tag | Normas que usam |
 |---|---|
-| `#abastecimento-agua` | 4 |
-| `#abastecimento-publico` | 13 |
+| `#abastecimento` | 17 |
 | `#acondicionamento` | 24 |
 | `#advertencia` | 4 |
 | `#aecr` | 1 |
@@ -19,12 +18,9 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#agua-salina` | 2 |
 | `#agua-salobra` | 3 |
 | `#agua-subterranea` | 32 |
-| `#aid` | 2 |
-| `#aii` | 2 |
 | `#alocacao-negociada` | 1 |
 | `#alteracao` | 10 |
 | `#amazonia-legal` | 1 |
-| `#ambito-aplicacao` | 14 |
 | `#amep` | 1 |
 | `#ampliacao` | 37 |
 | `#ana` | 2 |
@@ -43,9 +39,8 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#area-contaminada` | 19 |
 | `#area-contigua` | 3 |
 | `#area-critica` | 1 |
-| `#area-de-disposicao-final` | 1 |
 | `#area-degradada` | 9 |
-| `#area-disposicao-final` | 2 |
+| `#area-disposicao-final` | 3 |
 | `#area-drenagem` | 1 |
 | `#area-fragil` | 7 |
 | `#area-influencia` | 18 |

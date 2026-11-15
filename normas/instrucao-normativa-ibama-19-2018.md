@@ -19,7 +19,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-ibama-1-2016]]", "[[instrucao-normativa-ibama-7-2018]]"]
 revogado_por: []
 cita: ["[[decreto-federal-8973-2017]]", "[[portaria-ibama-14-2017]]", "[[lei-federal-6938-1981]]", "[[decreto-federal-99274-1990]]", "[[lei-complementar-federal-140-2011]]", "[[resolucao-conama-1-1986]]", "[[resolucao-conama-237-1997]]", "[[instrucao-normativa-ibama-184-2008]]", "[[lei-complementar-federal-97-1999]]", "[[norma-cnen-ne-1-04]]", "[[norma-cnen-nn-4-01]]", "[[norma-cnen-nn-6-02]]", "[[norma-cnen-nn-8-01]]", "[[norma-cnen-nn-8-02]]", "[[nota-tecnica-cnen-drs-1-2016]]", "[[nota-tecnica-cnen-drs-1-2017]]"]
-tags: [alteracao, ambito-aplicacao, audiencia-publica, condicionante, deposito-rejeito-radioativo, dispensa, eia-rima, enquadramento, fca, impacto-ambiental, instalacao-nuclear, instalacao-radiativa, li, licenca-ambiental, licenciamento-federal, licenciamento-trifasico, lo, lp, mineracao, parecer-tecnico, pba, radioisotopo, radiologia, ras, regularizacao, rejeito-radioativo, sisnama, situacao-emergencia, vistoria]
+tags: [alteracao, audiencia-publica, condicionante, deposito-rejeito-radioativo, dispensa, eia-rima, enquadramento, fca, impacto-ambiental, instalacao-nuclear, instalacao-radiativa, li, licenca-ambiental, licenciamento-federal, licenciamento-trifasico, lo, lp, mineracao, parecer-tecnico, pba, radioisotopo, radiologia, ras, regularizacao, rejeito-radioativo, sisnama, situacao-emergencia, vistoria]
 fonte: "Reprodução do portal Verde Ghaia (SOGI), impressa do navegador em 20/10/2026 ('Microsoft: Print To PDF', 8 páginas, só imagem), com o anexo como captura de tela da página da Imprensa Nacional; enviada por Leo"
 ---
 

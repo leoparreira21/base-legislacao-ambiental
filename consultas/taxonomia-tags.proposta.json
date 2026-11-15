@@ -25,11 +25,15 @@
     "licenca-instalacao": "li",
     "licenca-operacao": "lo",
     "termo-ajustamento-conduta": "tac",
-    "aplicabilidade": "ambito-aplicacao"
+    "abastecimento-publico": "abastecimento",
+    "abastecimento-agua": "abastecimento",
+    "aii": "area-influencia",
+    "aid": "area-influencia",
+    "area-de-disposicao-final": "area-disposicao-final"
   },
   "nos": [
     {
-      "id": "abastecimento-publico",
+      "id": "abastecimento",
       "grupo": "atividade",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -113,20 +117,6 @@
       "anotavel": true
     },
     {
-      "id": "aid",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "aii",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "alteracao",
       "grupo": "instrumento/procedimento",
       "pai": null,
@@ -136,13 +126,6 @@
     {
       "id": "amazonia-legal",
       "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "ambito-aplicacao",
-      "grupo": "instrumento/procedimento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true

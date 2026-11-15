@@ -377,7 +377,6 @@ window.CATALOGO_NORMAS = [
 "apelidos": [],
 "temas": {
 "agrotoxico": "",
-"ambito-aplicacao": "",
 "area-contaminada": "",
 "catador": "",
 "coleta-seletiva": "",
@@ -452,7 +451,6 @@ window.CATALOGO_NORMAS = [
 "apelidos": [],
 "temas": {
 "agrotoxico": "",
-"ambito-aplicacao": "",
 "auditoria": "",
 "beneficiamento": "",
 "catador": "",
@@ -1970,7 +1968,7 @@ window.CATALOGO_NORMAS = [
 "situacao": "vigente",
 "apelidos": [],
 "temas": {
-"abastecimento-publico": "",
+"abastecimento": "",
 "agricultura-familiar": "",
 "agropecuaria": "",
 "ampliacao": "",
@@ -2310,12 +2308,10 @@ window.CATALOGO_NORMAS = [
 "situacao": "vigente",
 "apelidos": [],
 "temas": {
-"abastecimento-publico": "",
+"abastecimento": "",
 "agrotoxico": "",
-"aid": "",
-"aii": "",
-"area-drenagem": "",
 "area-influencia": "",
+"area-drenagem": "",
 "area-urbana": "",
 "bovinocultura": "",
 "captacao": "",
@@ -3059,7 +3055,7 @@ window.CATALOGO_NORMAS = [
 "temas": {
 "saneamento": "",
 "licenciamento-ambiental": "",
-"abastecimento-agua": "",
+"abastecimento": "",
 "esgotamento-sanitario": "",
 "esgoto sanitário": "art3_cpt_inc1",
 "estação de tratamento de esgoto - ete": "art3_cpt_inc2",
@@ -4178,7 +4174,7 @@ window.CATALOGO_NORMAS = [
 "situacao": "vigente",
 "apelidos": [],
 "temas": {
-"abastecimento-publico": "",
+"abastecimento": "",
 "agua-subterranea": "",
 "alteracao": "",
 "captacao": "",
@@ -4338,7 +4334,6 @@ window.CATALOGO_NORMAS = [
 "apelidos": [],
 "temas": {
 "alteracao": "",
-"ambito-aplicacao": "",
 "audiencia-publica": "",
 "condicionante": "",
 "deposito-rejeito-radioativo": "",
@@ -4510,7 +4505,7 @@ window.CATALOGO_NORMAS = [
 "SEGRH/PR"
 ],
 "temas": {
-"abastecimento-publico": "",
+"abastecimento": "",
 "agropecuaria": "",
 "agua-subterranea": "",
 "bacia-hidrografica": "",
@@ -4798,7 +4793,6 @@ window.CATALOGO_NORMAS = [
 "apelidos": [],
 "temas": {
 "alteracao": "",
-"ambito-aplicacao": "",
 "consorcio-publico": "",
 "convenio": "",
 "dispensa-licitacao": "",
@@ -4880,7 +4874,7 @@ window.CATALOGO_NORMAS = [
 "situacao": "vigente",
 "apelidos": [],
 "temas": {
-"abastecimento-publico": "",
+"abastecimento": "",
 "agua-pluvial": "",
 "agua-subterranea": "",
 "ana": "",
@@ -5319,15 +5313,12 @@ window.CATALOGO_NORMAS = [
 "Lei 15.190/2025"
 ],
 "temas": {
-"abastecimento-publico": "",
+"abastecimento": "",
 "agropecuaria": "",
-"aid": "",
-"aii": "",
+"area-influencia": "",
 "alteracao": "",
-"ambito-aplicacao": "",
 "anuencia": "",
 "apa": "",
-"area-influencia": "",
 "arquivamento-processo": "",
 "atuacao-supletiva": "",
 "audiencia-publica": "",
@@ -5807,7 +5798,6 @@ window.CATALOGO_NORMAS = [
 "apelidos": [],
 "temas": {
 "advertencia": "",
-"ambito-aplicacao": "",
 "classificacao-instalacao-radiativa": "",
 "crime-ambiental": "",
 "encerramento": "",
@@ -5854,7 +5844,6 @@ window.CATALOGO_NORMAS = [
 "apelidos": [],
 "temas": {
 "acondicionamento": "",
-"ambito-aplicacao": "",
 "armazenamento-residuo": "",
 "classificacao-residuo": "",
 "deposito-rejeito-radioativo": "",
@@ -5910,7 +5899,6 @@ window.CATALOGO_NORMAS = [
 "situacao": "vigente",
 "apelidos": [],
 "temas": {
-"ambito-aplicacao": "",
 "caldeira": "",
 "inspecao-seguranca": "",
 "projeto-instalacao": "",
@@ -5934,7 +5922,6 @@ window.CATALOGO_NORMAS = [
 "temas": {
 "agropecuaria": "",
 "agrotoxico": "",
-"ambito-aplicacao": "",
 "armazenamento-graos": "",
 "edificacao-rural": "",
 "incluido": "ite31-5-24_alij",
@@ -5955,7 +5942,6 @@ window.CATALOGO_NORMAS = [
 "situacao": "vigente",
 "apelidos": [],
 "temas": {
-"ambito-aplicacao": "",
 "gerenciamento-residuo": "",
 "manutencao-reparacao": "",
 "patogeno": "",
@@ -7196,7 +7182,7 @@ window.CATALOGO_NORMAS = [
 "situacao": "revogada",
 "apelidos": [],
 "temas": {
-"area-de-disposicao-final": "",
+"area-disposicao-final": "",
 "aterro-sanitario": "",
 "automonitoramento": "",
 "compostagem": "",
@@ -7261,7 +7247,6 @@ window.CATALOGO_NORMAS = [
 "apelidos": [],
 "temas": {
 "agua-subterranea": "",
-"ambito-aplicacao": "",
 "app": "",
 "aquicultura": "",
 "area-inundavel": "",
@@ -7340,7 +7325,7 @@ window.CATALOGO_NORMAS = [
 "situacao": "vigente",
 "apelidos": [],
 "temas": {
-"abastecimento-publico": "",
+"abastecimento": "",
 "agua-pluvial": "",
 "agua-subterranea": "",
 "captacao": "",
@@ -7390,7 +7375,7 @@ window.CATALOGO_NORMAS = [
 "situacao": "vigente",
 "apelidos": [],
 "temas": {
-"abastecimento-publico": "",
+"abastecimento": "",
 "agua-subterranea": "",
 "alocacao-negociada": "",
 "area-contaminada": "",
@@ -7753,7 +7738,7 @@ window.CATALOGO_NORMAS = [
 "situacao": "vigente",
 "apelidos": [],
 "temas": {
-"abastecimento-publico": "",
+"abastecimento": "",
 "agua-doce": "",
 "agua-salina": "",
 "agua-salobra": "",
@@ -7852,7 +7837,6 @@ window.CATALOGO_NORMAS = [
 "acondicionamento": "",
 "agua-pluvial": "",
 "agua-subterranea": "",
-"ambito-aplicacao": "",
 "animal-morto": "",
 "anvisa": "",
 "area-fragil": "",
@@ -7997,7 +7981,6 @@ window.CATALOGO_NORMAS = [
 "situacao": "vigente",
 "apelidos": [],
 "temas": {
-"ambito-aplicacao": "",
 "bagaco-cana": "",
 "caldeira": "",
 "capacidade-suporte": "",
@@ -8231,7 +8214,7 @@ window.CATALOGO_NORMAS = [
 "situacao": "vigente",
 "apelidos": [],
 "temas": {
-"abastecimento-publico": "",
+"abastecimento": "",
 "automonitoramento": "",
 "baixo-potencial-poluidor": "",
 "balneabilidade": "",
@@ -9233,7 +9216,7 @@ window.CATALOGO_NORMAS = [
 "situacao": "revogada",
 "apelidos": [],
 "temas": {
-"abastecimento-publico": "",
+"abastecimento": "",
 "agricultura-familiar": "",
 "ampliacao": "",
 "app": "",
@@ -9368,7 +9351,6 @@ window.CATALOGO_NORMAS = [
 "situacao": "revogada",
 "apelidos": [],
 "temas": {
-"ambito-aplicacao": "",
 "armazenamento-residuo": "",
 "autorizacao-ambiental": "",
 "destinacao-final": "",
