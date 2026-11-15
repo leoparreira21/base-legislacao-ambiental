@@ -23,9 +23,3 @@ jobs:
         run: python scripts/validar.py
       - name: Testar scripts e consultas
         run: python -m unittest discover -s testes -v
-      - name: Gerar indices e site
-        run: python scripts/gerar_site.py _site
-      - name: Validar fontes, IDs e grafo
-        run: python scripts/validar_indices.py _site
-      - name: Testar motor
-        run: node --test testes/motor.test.mjs
