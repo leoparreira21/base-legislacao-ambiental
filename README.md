@@ -76,6 +76,7 @@ Títulos, capítulos e seções usam `##`, `###`, `####` e `#####`; artigos usam
 - Formato: minúsculas, sem acento, singular, hífen entre palavras (`supressao-vegetacao`).
 - Reaproveite as tags de `tags.md` (gerado do frontmatter) antes de criar uma nova.
 - Para excluir tags de toda a base: `python scripts/excluir_tags.py --aplicar tag1 tag2` (frontmatter, taxonomia e `tags.md`; recusa as tags de controle). Sem `--aplicar`, só simula.
+- Para mesclar tags que representam a mesma coisa: `python scripts/excluir_tags.py --aplicar --mesclar destino origem1 origem2` (as origens viram o destino no frontmatter e aliases na taxonomia).
 - Exceção: as tags de controle `#revogado`, `#redacao-alterada`, `#incluido` e `#anexo-pendente` continuam no dispositivo, porque marcam a situação do texto (a página HTML acinzenta o revogado e `--afetados` acha remissões a dispositivos alterados). No artigo inteiro, elas vão numa linha `Tags:` logo abaixo do cabeçalho.
 
 ### Fidelidade ao texto

@@ -1,8 +1,10 @@
-"""Exclui tags temáticas de toda a base.
+"""Exclui ou mescla tags temáticas em toda a base.
 
 Uso:
   python scripts/excluir_tags.py tag1 tag2 ...            # simulação: mostra o que mudaria
   python scripts/excluir_tags.py --aplicar tag1 tag2 ...  # grava
+  python scripts/excluir_tags.py --mesclar DESTINO ORIGEM1 ORIGEM2 ...            # simulação da mescla
+  python scripts/excluir_tags.py --aplicar --mesclar DESTINO ORIGEM1 ORIGEM2 ...  # ORIGENs viram DESTINO
   python scripts/excluir_tags.py --dados                  # regrava docs/tags-editaveis.json (lista da página de exclusão)
   python scripts/excluir_tags.py --pagina SAIDA.html      # monta a página interativa de exclusão com os dados atuais
 
@@ -12,6 +14,9 @@ Onde a tag é apagada:
   - consultas/taxonomia-tags.proposta.json (o nó sai; os filhos passam ao pai dele; aliases para a tag saem);
   - tags.md (regerado pelo validar.py --tags).
 Depois rode `python scripts/validar.py` e `python scripts/gerar_html.py` (html/ e catálogo).
+Mesclar: cada ORIGEM é trocada por DESTINO no frontmatter (sem repetir) e no corpo; na taxonomia
+os nós das origens saem, os filhos passam para DESTINO e as origens viram aliases de DESTINO.
+DESTINO pode ser uma das tags, outra tag existente ou um nome novo (herda o nó da primeira origem).
 Tags de controle (#revogado, #redacao-alterada, #incluido, #anexo-pendente) não podem ser excluídas.
 """
 import glob
@@ -129,6 +134,61 @@ def excluir(alvo, aplicar):
     print(f'{len(alvo)} tag(s) {acao}: {mudados} arquivo(s) de normas, {removidos_tax} nó(s) da taxonomia.')
 
 
+FORMATO = re.compile(r'^[a-z0-9]+(-[a-z0-9]+)*$')
+
+
+def mesclar(destino, origens, aplicar):
+    mudados = 0
+    corpo_re = re.compile(r'(?<![\w/&{\[|#`])#(' + '|'.join(map(re.escape, sorted(origens))) + r')(?![\w-])')
+    for arq in arquivos():
+        orig = arq.read_text(encoding='utf-8')
+        fm, corpo = separar(orig)
+        atuais = tags_de(fm)
+        if any(t in origens for t in atuais):
+            novas = list(dict.fromkeys(destino if t in origens else t for t in atuais))
+            fm = FM_TAGS.sub(lambda m: 'tags: [' + ', '.join(novas) + ']', fm, count=1)
+        corpo = corpo_re.sub('#' + destino, corpo)
+        novo = fm + corpo
+        if novo != orig:
+            mudados += 1
+            if aplicar:
+                arq.write_text(novo, encoding='utf-8')
+    tax = json.loads(TAXONOMIA.read_text(encoding='utf-8'))
+    nos = {n['id']: n for n in tax['nos']}
+    if destino not in nos:
+        base = next((nos[o] for o in sorted(origens) if o in nos), None)
+        if base:
+            base = dict(base, id=destino)
+            tax['nos'].append(base)
+            nos[destino] = base
+    pai_de = {i: n.get('pai') for i, n in nos.items()}
+
+    def subir(p):
+        while p in origens or p == destino:
+            p = pai_de.get(p) if p != destino else None
+        return p
+
+    lista = []
+    for n in tax['nos']:
+        if n['id'] in origens:
+            continue
+        if n['id'] == destino:
+            if n.get('pai') in origens or n.get('pai') == destino:
+                n['pai'] = subir(n['pai'])
+        elif n.get('pai') in origens:
+            n['pai'] = destino
+        lista.append(n)
+    tax['nos'] = sorted(lista, key=lambda n: n['id'])
+    aliases = {a: (destino if t in origens else t) for a, t in tax['aliases'].items() if a != destino}
+    aliases.update({o: destino for o in origens})
+    tax['aliases'] = aliases
+    if aplicar:
+        TAXONOMIA.write_text(json.dumps(tax, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+        subprocess.run([sys.executable, 'scripts/validar.py', '--tags'], cwd=ROOT, check=True, capture_output=True)
+    acao = 'mescladas' if aplicar else 'seriam mescladas (simulação; use --aplicar)'
+    print(f'{len(origens)} tag(s) {acao} em #{destino}: {mudados} arquivo(s) de normas.')
+
+
 def main(args):
     if '--dados' in args:
         gerar_dados()
@@ -141,6 +201,30 @@ def main(args):
         print(f'página em {saida}')
         return 0
     aplicar = '--aplicar' in args
+    if '--mesclar' in args:
+        nomes = [a.strip().lstrip('#').strip(',') for a in args if not a.startswith('--')]
+        nomes = [a for a in nomes if a]
+        if len(nomes) < 2:
+            print('Use: --mesclar DESTINO ORIGEM1 [ORIGEM2 ...]')
+            return 1
+        destino, origens = nomes[0], set(nomes[1:]) - {nomes[0]}
+        if not FORMATO.match(destino):
+            print(f'Nome inválido para o destino: {destino} (minúsculas, sem acento, hífen entre palavras)')
+            return 1
+        if not origens:
+            print('Informe ao menos uma tag diferente do destino.')
+            return 1
+        if (origens | {destino}) & CONTROLE:
+            print(f'Tags de controle não podem ser mescladas: {sorted((origens | {destino}) & CONTROLE)}')
+            return 1
+        desconhecidas = origens - set(vocabulario())
+        if desconhecidas:
+            print(f'Tags que não existem na base: {sorted(desconhecidas)}')
+            return 1
+        mesclar(destino, origens, aplicar)
+        if aplicar:
+            gerar_dados()
+        return 0
     alvo = {a.strip().lstrip('#').strip(',') for a in args if not a.startswith('--')} - {''}
     if not alvo:
         print(__doc__)

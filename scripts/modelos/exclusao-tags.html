@@ -3,12 +3,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Exclusão de tags da base</title>
+<title>Edição de tags da base</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root {
-  /* Layout: barra de filtros fixa no topo, lista de tags em linhas densas, bandeja de seleção fixa no rodapé */
+  /* Layout: filtros fixos no topo, lista densa de tags, bandeja fixa no rodapé com a seleção e o pedido */
   --fundo: #f4f6f5;
   --papel: #ffffff;
   --tinta: #1b2420;
@@ -17,6 +17,8 @@
   --acento: #1f6b52;
   --perigo: #b3261e;
   --perigo-fundo: #fbeceb;
+  --mescla: #1f5f9e;
+  --mescla-fundo: #e8f0fa;
   --fonte: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
   --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
   color-scheme: light;
@@ -24,23 +26,23 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --fundo: #121715; --papel: #1a211e; --tinta: #e3ebe7; --suave: #95a59e; --linha: #2c3632;
-    --acento: #5fbf98; --perigo: #f2867e; --perigo-fundo: #3a1f1d; color-scheme: dark;
+    --acento: #5fbf98; --perigo: #f2867e; --perigo-fundo: #3a1f1d; --mescla: #7fb3ea; --mescla-fundo: #1b2a3b; color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --fundo: #121715; --papel: #1a211e; --tinta: #e3ebe7; --suave: #95a59e; --linha: #2c3632;
-  --acento: #5fbf98; --perigo: #f2867e; --perigo-fundo: #3a1f1d; color-scheme: dark;
+  --acento: #5fbf98; --perigo: #f2867e; --perigo-fundo: #3a1f1d; --mescla: #7fb3ea; --mescla-fundo: #1b2a3b; color-scheme: dark;
 }
 * { box-sizing: border-box; }
 html, body { margin: 0; }
-body { background: var(--fundo); color: var(--tinta); font: 15px/1.45 var(--fonte); padding-bottom: 170px; }
+body { background: var(--fundo); color: var(--tinta); font: 15px/1.45 var(--fonte); padding-bottom: 190px; }
 header { padding: 20px 16px 8px; max-width: 920px; margin: 0 auto; display: grid; gap: 4px; }
 h1 { font-size: 22px; font-weight: 600; margin: 0; text-wrap: balance; }
 .sub { color: var(--suave); font-size: 13.5px; }
-.sub code { font-family: var(--mono); font-size: 12.5px; }
+code { font-family: var(--mono); font-size: 12.5px; }
 .filtros { position: sticky; top: 0; z-index: 2; background: var(--fundo); border-bottom: 1px solid var(--linha); }
 .filtros .in { max-width: 920px; margin: 0 auto; padding: 10px 16px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
-input[type=search], select { font: inherit; color: var(--tinta); background: var(--papel); border: 1px solid var(--linha); border-radius: 6px; padding: 7px 10px; }
+input[type=search], input[type=text], select { font: inherit; color: var(--tinta); background: var(--papel); border: 1px solid var(--linha); border-radius: 6px; padding: 7px 10px; }
 input[type=search] { flex: 1 1 220px; min-width: 0; }
 select { flex: 0 1 auto; max-width: 100%; }
 .conta { color: var(--suave); font-size: 13px; font-variant-numeric: tabular-nums; }
@@ -49,32 +51,57 @@ ul.lista { list-style: none; margin: 0; padding: 0; background: var(--papel); bo
 li.tag { border-top: 1px solid var(--linha); }
 li.tag:first-child { border-top: 0; }
 .linha { display: grid; grid-template-columns: auto 1fr auto auto; gap: 10px; align-items: center; padding: 7px 10px; }
-li.marcada { background: var(--perigo-fundo); }
-li.marcada .nome { color: var(--perigo); text-decoration: line-through; }
-.nome { font-family: var(--mono); font-size: 14px; overflow-wrap: anywhere; cursor: pointer; }
+li.sel { box-shadow: inset 3px 0 0 var(--acento); }
+li.excluir { background: var(--perigo-fundo); }
+li.excluir .nome { color: var(--perigo); text-decoration: line-through; }
+li.mesclar { background: var(--mescla-fundo); }
+.nome { font-family: var(--mono); font-size: 14px; overflow-wrap: anywhere; cursor: pointer; display: flex; flex-wrap: wrap; gap: 6px; align-items: baseline; }
+.estado { font-family: var(--fonte); font-size: 12px; font-weight: 500; border-radius: 4px; padding: 0 6px; }
+.estado.ex { color: var(--perigo); border: 1px solid var(--perigo); }
+.estado.me { color: var(--mescla); border: 1px solid var(--mescla); }
 .grupo { font-size: 12px; color: var(--suave); border: 1px solid var(--linha); border-radius: 999px; padding: 1px 8px; white-space: nowrap; }
 .grupo.sem { border-style: dashed; }
 button.uso { font: inherit; font-size: 13px; font-variant-numeric: tabular-nums; color: var(--acento); background: none; border: 0; cursor: pointer; padding: 2px 4px; min-width: 64px; text-align: right; }
 button.uso:hover { text-decoration: underline; }
-input[type=checkbox] { width: 18px; height: 18px; accent-color: var(--perigo); margin: 0; }
+input[type=checkbox], input[type=radio] { width: 18px; height: 18px; accent-color: var(--acento); margin: 0; }
+input:disabled + label { opacity: .5; }
 .docs { margin: 0 10px 10px 38px; padding: 0; list-style: none; font-size: 13.5px; color: var(--suave); display: grid; gap: 2px; }
 :focus-visible { outline: 2px solid var(--acento); outline-offset: 2px; }
 .vazio { padding: 24px; text-align: center; color: var(--suave); }
-.bandeja { position: fixed; left: 0; right: 0; bottom: 0; z-index: 3; background: var(--papel); border-top: 2px solid var(--perigo); box-shadow: 0 -4px 16px rgba(0,0,0,.08); }
+.bandeja { position: fixed; left: 0; right: 0; bottom: 0; z-index: 3; background: var(--papel); border-top: 2px solid var(--acento); box-shadow: 0 -4px 16px rgba(0,0,0,.08); max-height: 75%; overflow-y: auto; }
 .bandeja .in { max-width: 920px; margin: 0 auto; padding: 10px 16px 12px; display: grid; gap: 8px; }
 .topo { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: space-between; }
 .topo strong { font-variant-numeric: tabular-nums; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; max-height: 64px; overflow-y: auto; }
-.chip { font: 13px var(--mono); color: var(--perigo); background: var(--perigo-fundo); border: 1px solid var(--perigo); border-radius: 999px; padding: 1px 4px 1px 9px; display: inline-flex; gap: 4px; align-items: center; }
-.chip button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; padding: 0 4px; }
+.chips:empty { display: none; }
+.chip { font: 13px var(--mono); color: var(--acento); border: 1px solid var(--acento); border-radius: 999px; padding: 1px 4px 1px 9px; display: inline-flex; gap: 4px; align-items: center; }
+.chip button, .op button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; padding: 0 4px; }
 .acoes { display: flex; gap: 8px; flex-wrap: wrap; }
 .btn { font: inherit; font-weight: 500; border-radius: 6px; padding: 7px 14px; cursor: pointer; border: 1px solid var(--linha); background: var(--papel); color: var(--tinta); }
-.btn.forte { background: var(--perigo); border-color: var(--perigo); color: #fff; }
+.btn.ex { color: var(--perigo); border-color: var(--perigo); }
+.btn.me { color: var(--mescla); border-color: var(--mescla); }
+.btn.forte { background: var(--acento); border-color: var(--acento); color: var(--papel); }
 .btn:disabled { opacity: .45; cursor: default; }
+.painel { border: 1px solid var(--mescla); background: var(--mescla-fundo); border-radius: 8px; padding: 10px; display: grid; gap: 8px; }
+.painel[hidden] { display: none; }
+.painel h2 { font-size: 14px; font-weight: 600; margin: 0; }
+.opcoes { display: grid; gap: 4px; max-height: 160px; overflow-y: auto; }
+.opcoes label { display: flex; gap: 8px; align-items: center; font: 13.5px var(--mono); }
+.opcoes small { font-family: var(--fonte); color: var(--suave); }
+.novo { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.novo input[type=text] { flex: 1 1 180px; min-width: 0; font-family: var(--mono); font-size: 13.5px; }
+.erro { color: var(--perigo); font-size: 13px; }
+.erro:empty { display: none; }
+details.pedido summary { cursor: pointer; font-size: 14px; }
+details.pedido summary strong { font-variant-numeric: tabular-nums; }
+.ops { list-style: none; margin: 6px 0 0; padding: 0; display: grid; gap: 4px; font: 13px var(--mono); }
+.op { display: flex; gap: 6px; align-items: baseline; justify-content: space-between; border-left: 3px solid var(--linha); padding-left: 8px; }
+.op.ex { border-color: var(--perigo); }
+.op.me { border-color: var(--mescla); }
+.op span { overflow-wrap: anywhere; }
 textarea { width: 100%; font: 12.5px/1.4 var(--mono); color: var(--tinta); background: var(--fundo); border: 1px solid var(--linha); border-radius: 6px; padding: 8px; resize: vertical; }
 .aviso { font-size: 13px; color: var(--acento); }
 .aviso:empty { display: none; }
-.dica { font-size: 12.5px; color: var(--suave); }
 @media (max-width: 480px) {
   .linha { grid-template-columns: auto 1fr auto; }
   .grupo { grid-column: 2 / 4; grid-row: 2; justify-self: start; }
@@ -84,13 +111,12 @@ textarea { width: 100%; font: 12.5px/1.4 var(--mono); color: var(--tinta); backg
 </head>
 <body>
 <header>
-  <h1>Exclusão de tags da base</h1>
-  <div class="sub">Tags temáticas do frontmatter de <code>base-legislacao-ambiental</code>. As de controle (#revogado, #redacao-alterada, #incluido, #anexo-pendente) não aparecem aqui. Dados do commit <code id="commit"></code>.</div>
-  <div class="sub">Marque as tags, toque em <strong>Copiar pedido</strong> e cole na conversa com o Claude: ele apaga cada tag do frontmatter de todas as normas, anexos e comentários, da taxonomia e do <code>tags.md</code>, regera o HTML e envia para o <code>main</code>.</div>
+  <h1>Edição de tags da base</h1>
+  <div class="sub">Tags temáticas do frontmatter de <code>base-legislacao-ambiental</code>, sem as de controle (#revogado, #redacao-alterada, #incluido, #anexo-pendente). Dados do commit <code id="commit"></code>.</div>
+  <div class="sub">Selecione tags e escolha <strong>Excluir</strong> ou <strong>Mesclar</strong>. Monte quantas operações quiser, depois toque em <strong>Copiar pedido</strong> e cole na conversa com o Claude: ele aplica tudo no frontmatter de normas, anexos e comentários, na taxonomia e no <code>tags.md</code>, regera o HTML e envia para o <code>main</code>.</div>
 </header>
 <div class="filtros"><div class="in">
-  <label for="busca" class="sr" hidden>Buscar tag</label>
-  <input type="search" id="busca" placeholder="Buscar tag, grupo ou norma…" autocomplete="off">
+  <input type="search" id="busca" placeholder="Buscar tag, grupo ou norma…" autocomplete="off" aria-label="Buscar">
   <select id="grupo" aria-label="Filtrar por grupo"></select>
   <select id="ordem" aria-label="Ordenar">
     <option value="nome">A–Z</option>
@@ -99,31 +125,62 @@ textarea { width: 100%; font: 12.5px/1.4 var(--mono); color: var(--tinta); backg
   </select>
   <select id="mostrar" aria-label="Mostrar">
     <option value="todas">Todas</option>
-    <option value="marcadas">Só marcadas</option>
-    <option value="livres">Só não marcadas</option>
+    <option value="sel">Só selecionadas</option>
+    <option value="pedido">Só as do pedido</option>
+    <option value="livres">Só fora do pedido</option>
   </select>
   <span class="conta" id="conta"></span>
 </div></div>
 <main><ul class="lista" id="lista"></ul></main>
 <div class="bandeja"><div class="in">
   <div class="topo">
-    <span><strong id="nsel">0</strong> tag(s) marcada(s) para excluir</span>
+    <span><strong id="nsel">0</strong> selecionada(s)</span>
     <div class="acoes">
-      <button class="btn" id="limpar" type="button">Desmarcar todas</button>
-      <button class="btn forte" id="copiar" type="button">Copiar pedido</button>
+      <button class="btn" id="limpar" type="button">Limpar seleção</button>
+      <button class="btn ex" id="bExcluir" type="button">Excluir</button>
+      <button class="btn me" id="bMesclar" type="button">Mesclar…</button>
     </div>
   </div>
   <div class="chips" id="chips"></div>
-  <textarea id="pedido" rows="2" readonly aria-label="Pedido de exclusão" hidden></textarea>
+  <form class="painel" id="painel" hidden>
+    <h2>Mesclar em qual tag?</h2>
+    <div class="opcoes" id="opcoes"></div>
+    <div class="novo">
+      <input type="radio" name="destino" id="d-novo" value="__novo__">
+      <label for="d-novo">Nome novo:</label>
+      <input type="text" id="novoNome" placeholder="ex.: residuo-solido" autocomplete="off" aria-label="Nome da tag nova">
+    </div>
+    <div class="erro" id="erro" role="alert"></div>
+    <div class="acoes">
+      <button class="btn me" type="submit">Incluir mescla no pedido</button>
+      <button class="btn" type="button" id="cancelar">Cancelar</button>
+    </div>
+  </form>
+  <details class="pedido" id="detPedido">
+    <summary>Pedido: <strong id="nEx">0</strong> exclusão(ões), <strong id="nMe">0</strong> mescla(s)</summary>
+    <ul class="ops" id="ops"></ul>
+  </details>
+  <div class="acoes">
+    <button class="btn forte" id="copiar" type="button">Copiar pedido</button>
+    <button class="btn" id="zerar" type="button">Esvaziar pedido</button>
+  </div>
+  <textarea id="pedido" rows="4" readonly aria-label="Texto do pedido" hidden></textarea>
   <div class="aviso" id="aviso" role="status"></div>
 </div></div>
 <script>
 const DADOS = /*DADOS*/null;
 const $ = id => document.getElementById(id);
-const CHAVE = 'exclusao-tags:' + DADOS.commit;
-let marcadas = new Set();
-try { marcadas = new Set(JSON.parse(localStorage.getItem(CHAVE) || '[]')); } catch (e) {}
-const tags = DADOS.tags.map(t => ({...t, busca: (t.tag + ' ' + t.grupo + ' ' + t.d.map(i => DADOS.docs[i][1]).join(' ')).normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()}));
+const CHAVE = 'edicao-tags:' + DADOS.commit;
+const FORMATO = /^[a-z0-9]+(-[a-z0-9]+)*$/;
+const CONTROLE = new Set(['revogado', 'redacao-alterada', 'incluido', 'anexo-pendente']);
+let sel = new Set(), excl = new Set(), mesclas = [];
+try {
+  const s = JSON.parse(localStorage.getItem(CHAVE) || '{}');
+  excl = new Set(s.excl || []); mesclas = s.mesclas || [];
+} catch (e) {}
+const semAcento = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+const tags = DADOS.tags.map(t => ({...t, busca: semAcento(t.tag + ' ' + t.grupo + ' ' + t.d.map(i => DADOS.docs[i][1]).join(' '))}));
+const porTag = new Map(tags.map(t => [t.tag, t]));
 const abertas = new Set();
 $('commit').textContent = DADOS.commit;
 
@@ -131,26 +188,36 @@ const grupos = [...new Set(tags.map(t => t.grupo.split('/')[0] || ''))].sort();
 $('grupo').innerHTML = '<option value="">Todos os grupos</option>' +
   grupos.map(g => `<option value="${g || '-'}">${g ? g.replace('-', ' ') : 'Sem grupo'}</option>`).join('');
 
-function salvar() { try { localStorage.setItem(CHAVE, JSON.stringify([...marcadas])); } catch (e) {} }
-const esc = s => s.replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function salvar() { try { localStorage.setItem(CHAVE, JSON.stringify({excl: [...excl], mesclas})); } catch (e) {} }
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+// Estado de cada tag no pedido
+function estado(t) {
+  if (excl.has(t)) return {c: 'excluir', txt: 'excluir', k: 'ex'};
+  for (const m of mesclas) {
+    if (m.origens.includes(t)) return {c: 'mesclar', txt: '→ #' + m.destino, k: 'me'};
+    if (m.destino === t) return {c: 'mesclar', txt: 'recebe mescla', k: 'me'};
+  }
+  return null;
+}
+const noPedido = t => !!estado(t);
 
 function visiveis() {
-  const q = $('busca').value.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim();
+  const q = semAcento($('busca').value).trim();
   const g = $('grupo').value, m = $('mostrar').value, o = $('ordem').value;
   let r = tags.filter(t => (!q || t.busca.includes(q))
     && (!g || (g === '-' ? !t.grupo : t.grupo.split('/')[0] === g))
-    && (m === 'todas' || (m === 'marcadas') === marcadas.has(t.tag)));
+    && (m === 'todas' || (m === 'sel' && sel.has(t.tag)) || (m === 'pedido' && noPedido(t.tag)) || (m === 'livres' && !noPedido(t.tag))));
   if (o === 'menos') r.sort((a, b) => a.d.length - b.d.length || a.tag.localeCompare(b.tag));
   if (o === 'mais') r.sort((a, b) => b.d.length - a.d.length || a.tag.localeCompare(b.tag));
   return r;
 }
 
 function linha(t) {
-  const on = marcadas.has(t.tag), id = 'c-' + t.tag;
-  const n = t.d.length;
-  let h = `<li class="tag${on ? ' marcada' : ''}" data-tag="${t.tag}"><div class="linha">
-    <input type="checkbox" id="${id}" ${on ? 'checked' : ''} aria-label="Marcar #${t.tag} para excluir">
-    <label class="nome" for="${id}">#${t.tag}</label>
+  const e = estado(t.tag), id = 'c-' + t.tag, n = t.d.length;
+  let h = `<li class="tag${sel.has(t.tag) ? ' sel' : ''}${e ? ' ' + e.c : ''}" data-tag="${t.tag}"><div class="linha">
+    <input type="checkbox" id="${id}" ${sel.has(t.tag) ? 'checked' : ''} ${e ? 'disabled' : ''} aria-label="Selecionar #${t.tag}">
+    <label class="nome" for="${id}">#${t.tag}${e ? ` <span class="estado ${e.k}">${esc(e.txt)}</span>` : ''}</label>
     <span class="grupo${t.grupo ? '' : ' sem'}">${t.grupo ? esc(t.grupo) : 'sem grupo'}</span>
     <button class="uso" type="button" aria-expanded="${abertas.has(t.tag)}">${n} ${n === 1 ? 'doc.' : 'docs.'}</button>
   </div>`;
@@ -165,36 +232,97 @@ function desenhar() {
   bandeja();
 }
 
+function textoPedido() {
+  const L = ['Pedido de edição de tags da base:'], C = [];
+  if (excl.size) {
+    const e = [...excl].sort();
+    L.push('Excluir: ' + e.map(t => '#' + t).join(', '));
+    C.push('python scripts/excluir_tags.py --aplicar ' + e.join(' '));
+  }
+  for (const m of mesclas) {
+    L.push(`Mesclar: ${m.origens.map(t => '#' + t).join(', ')} → #${m.destino}`);
+    C.push(`python scripts/excluir_tags.py --aplicar --mesclar ${m.destino} ${m.origens.join(' ')}`);
+  }
+  return L.concat('', C).join('\n');
+}
+
 function bandeja() {
-  const sel = [...marcadas].sort();
-  $('nsel').textContent = sel.length;
-  $('chips').innerHTML = sel.map(t => `<span class="chip">#${t}<button type="button" data-tira="${t}" aria-label="Desmarcar #${t}">×</button></span>`).join('');
-  $('pedido').value = sel.length ? `Excluir da base as tags: ${sel.map(t => '#' + t).join(', ')}\n(python scripts/excluir_tags.py --aplicar ${sel.join(' ')})` : '';
-  $('copiar').disabled = $('limpar').disabled = !sel.length;
+  const s = [...sel].sort();
+  $('nsel').textContent = s.length;
+  $('chips').innerHTML = s.map(t => `<span class="chip">#${t}<button type="button" data-tira="${t}" aria-label="Tirar #${t} da seleção">×</button></span>`).join('');
+  $('limpar').disabled = $('bExcluir').disabled = !s.length;
+  $('bMesclar').disabled = s.length < 1;
+  $('nEx').textContent = excl.size; $('nMe').textContent = mesclas.length;
+  const ops = [...excl].sort().map(t => `<li class="op ex"><span>excluir #${t}</span><button type="button" data-desfaz-ex="${t}" aria-label="Desfazer exclusão de #${t}">×</button></li>`)
+    .concat(mesclas.map((m, i) => `<li class="op me"><span>${m.origens.map(t => '#' + t).join(', ')} → #${m.destino}</span><button type="button" data-desfaz-me="${i}" aria-label="Desfazer mescla em #${m.destino}">×</button></li>`));
+  $('ops').innerHTML = ops.join('') || '<li class="op">Nada no pedido ainda.</li>';
+  const vazio = !excl.size && !mesclas.length;
+  $('copiar').disabled = $('zerar').disabled = vazio;
+  $('pedido').value = vazio ? '' : textoPedido();
+}
+
+function abrirMescla() {
+  const s = [...sel].sort((a, b) => porTag.get(b).d.length - porTag.get(a).d.length);
+  $('opcoes').innerHTML = s.map((t, i) => `<label><input type="radio" name="destino" value="${t}" ${i === 0 ? 'checked' : ''}> #${t} <small>${porTag.get(t).d.length} docs.</small></label>`).join('');
+  $('d-novo').checked = !s.length; $('novoNome').value = ''; $('erro').textContent = '';
+  $('painel').hidden = false;
+  $('painel').scrollIntoView({block: 'nearest'});
 }
 
 $('lista').addEventListener('change', e => {
   const li = e.target.closest('li.tag'); if (!li) return;
   const t = li.dataset.tag;
-  e.target.checked ? marcadas.add(t) : marcadas.delete(t);
-  li.classList.toggle('marcada', e.target.checked);
-  salvar(); bandeja();
+  e.target.checked ? sel.add(t) : sel.delete(t);
+  li.classList.toggle('sel', e.target.checked);
+  bandeja();
 });
 $('lista').addEventListener('click', e => {
   const b = e.target.closest('button.uso'); if (!b) return;
-  const t = b.closest('li.tag').dataset.tag;
+  const li = b.closest('li.tag'), t = li.dataset.tag;
   abertas.has(t) ? abertas.delete(t) : abertas.add(t);
-  const li = b.closest('li.tag'); li.outerHTML = linha(tags.find(x => x.tag === t));
+  li.outerHTML = linha(porTag.get(t));
 });
 $('chips').addEventListener('click', e => {
   const t = e.target.dataset.tira; if (!t) return;
-  marcadas.delete(t); salvar(); desenhar();
+  sel.delete(t); desenhar();
 });
-$('limpar').addEventListener('click', () => { marcadas.clear(); salvar(); desenhar(); });
+$('ops').addEventListener('click', e => {
+  const x = e.target.dataset.desfazEx, m = e.target.dataset.desfazMe;
+  if (x) excl.delete(x);
+  else if (m !== undefined) mesclas.splice(+m, 1);
+  else return;
+  salvar(); desenhar();
+});
+$('limpar').addEventListener('click', () => { sel.clear(); $('painel').hidden = true; desenhar(); });
+$('bExcluir').addEventListener('click', () => { sel.forEach(t => excl.add(t)); sel.clear(); $('painel').hidden = true; salvar(); desenhar(); });
+$('bMesclar').addEventListener('click', abrirMescla);
+$('cancelar').addEventListener('click', () => { $('painel').hidden = true; });
+$('novoNome').addEventListener('focus', () => { $('d-novo').checked = true; });
+$('painel').addEventListener('submit', e => {
+  e.preventDefault();
+  const esc_ = document.querySelector('input[name=destino]:checked');
+  let destino = esc_ ? esc_.value : '';
+  if (destino === '__novo__') destino = $('novoNome').value.trim().replace(/^#/, '');
+  const origens = [...sel].filter(t => t !== destino).sort();
+  let erro = '';
+  if (!destino) erro = 'Escolha a tag que vai ficar ou digite um nome novo.';
+  else if (!FORMATO.test(destino)) erro = 'Use minúsculas, sem acento, com hífen entre as palavras (ex.: residuo-solido).';
+  else if (CONTROLE.has(destino)) erro = 'Tags de controle não podem receber mescla.';
+  else if (!origens.length) erro = 'Selecione ao menos uma tag diferente da tag que vai ficar.';
+  else if (porTag.has(destino) && !sel.has(destino) && noPedido(destino)) erro = `#${destino} já está em outra operação do pedido.`;
+  if (erro) { $('erro').textContent = erro; return; }
+  const junta = mesclas.find(m => m.destino === destino);
+  if (junta) junta.origens = [...new Set(junta.origens.concat(origens))].sort();
+  else mesclas.push({destino, origens});
+  sel.clear(); $('painel').hidden = true; salvar(); desenhar();
+  $('aviso').textContent = `Mescla em #${destino} incluída no pedido.`;
+  setTimeout(() => { $('aviso').textContent = ''; }, 3000);
+});
+$('zerar').addEventListener('click', () => { excl.clear(); mesclas = []; salvar(); desenhar(); });
 $('copiar').addEventListener('click', async () => {
-  try { await navigator.clipboard.writeText($('pedido').value); $('aviso').textContent = 'Pedido copiado.'; }
+  try { await navigator.clipboard.writeText($('pedido').value); $('aviso').textContent = 'Pedido copiado. Cole na conversa com o Claude.'; }
   catch (e) { $('pedido').hidden = false; $('pedido').select(); $('aviso').textContent = 'Não consegui copiar: o texto está selecionado, copie manualmente.'; }
-  setTimeout(() => { $('aviso').textContent = ''; }, 4000);
+  setTimeout(() => { $('aviso').textContent = ''; }, 5000);
 });
 ['busca', 'grupo', 'ordem', 'mostrar'].forEach(id => $(id).addEventListener('input', desenhar));
 desenhar();
