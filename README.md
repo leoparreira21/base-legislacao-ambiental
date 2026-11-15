@@ -75,6 +75,7 @@ Títulos, capítulos e seções usam `##`, `###`, `####` e `#####`; artigos usam
 - As tags temáticas ficam **só no frontmatter** (`tags: [...]`, a tabela de propriedades do Obsidian). Nem o artigo nem o dispositivo levam tag temática; `python scripts/validar.py` dá erro se encontrar uma no corpo.
 - Formato: minúsculas, sem acento, singular, hífen entre palavras (`supressao-vegetacao`).
 - Reaproveite as tags de `tags.md` (gerado do frontmatter) antes de criar uma nova.
+- Para excluir tags de toda a base: `python scripts/excluir_tags.py --aplicar tag1 tag2` (frontmatter, taxonomia e `tags.md`; recusa as tags de controle). Sem `--aplicar`, só simula.
 - Exceção: as tags de controle `#revogado`, `#redacao-alterada`, `#incluido` e `#anexo-pendente` continuam no dispositivo, porque marcam a situação do texto (a página HTML acinzenta o revogado e `--afetados` acha remissões a dispositivos alterados). No artigo inteiro, elas vão numa linha `Tags:` logo abaixo do cabeçalho.
 
 ### Fidelidade ao texto

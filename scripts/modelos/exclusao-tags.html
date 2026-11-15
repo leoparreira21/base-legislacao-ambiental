@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Exclusão de tags da base</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  /* Layout: barra de filtros fixa no topo, lista de tags em linhas densas, bandeja de seleção fixa no rodapé */
+  --fundo: #f4f6f5;
+  --papel: #ffffff;
+  --tinta: #1b2420;
+  --suave: #5d6b65;
+  --linha: #dfe5e2;
+  --acento: #1f6b52;
+  --perigo: #b3261e;
+  --perigo-fundo: #fbeceb;
+  --fonte: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --fundo: #121715; --papel: #1a211e; --tinta: #e3ebe7; --suave: #95a59e; --linha: #2c3632;
+    --acento: #5fbf98; --perigo: #f2867e; --perigo-fundo: #3a1f1d; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --fundo: #121715; --papel: #1a211e; --tinta: #e3ebe7; --suave: #95a59e; --linha: #2c3632;
+  --acento: #5fbf98; --perigo: #f2867e; --perigo-fundo: #3a1f1d; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body { background: var(--fundo); color: var(--tinta); font: 15px/1.45 var(--fonte); padding-bottom: 170px; }
+header { padding: 20px 16px 8px; max-width: 920px; margin: 0 auto; display: grid; gap: 4px; }
+h1 { font-size: 22px; font-weight: 600; margin: 0; text-wrap: balance; }
+.sub { color: var(--suave); font-size: 13.5px; }
+.sub code { font-family: var(--mono); font-size: 12.5px; }
+.filtros { position: sticky; top: 0; z-index: 2; background: var(--fundo); border-bottom: 1px solid var(--linha); }
+.filtros .in { max-width: 920px; margin: 0 auto; padding: 10px 16px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+input[type=search], select { font: inherit; color: var(--tinta); background: var(--papel); border: 1px solid var(--linha); border-radius: 6px; padding: 7px 10px; }
+input[type=search] { flex: 1 1 220px; min-width: 0; }
+select { flex: 0 1 auto; max-width: 100%; }
+.conta { color: var(--suave); font-size: 13px; font-variant-numeric: tabular-nums; }
+main { max-width: 920px; margin: 0 auto; padding: 8px 16px; }
+ul.lista { list-style: none; margin: 0; padding: 0; background: var(--papel); border: 1px solid var(--linha); border-radius: 8px; }
+li.tag { border-top: 1px solid var(--linha); }
+li.tag:first-child { border-top: 0; }
+.linha { display: grid; grid-template-columns: auto 1fr auto auto; gap: 10px; align-items: center; padding: 7px 10px; }
+li.marcada { background: var(--perigo-fundo); }
+li.marcada .nome { color: var(--perigo); text-decoration: line-through; }
+.nome { font-family: var(--mono); font-size: 14px; overflow-wrap: anywhere; cursor: pointer; }
+.grupo { font-size: 12px; color: var(--suave); border: 1px solid var(--linha); border-radius: 999px; padding: 1px 8px; white-space: nowrap; }
+.grupo.sem { border-style: dashed; }
+button.uso { font: inherit; font-size: 13px; font-variant-numeric: tabular-nums; color: var(--acento); background: none; border: 0; cursor: pointer; padding: 2px 4px; min-width: 64px; text-align: right; }
+button.uso:hover { text-decoration: underline; }
+input[type=checkbox] { width: 18px; height: 18px; accent-color: var(--perigo); margin: 0; }
+.docs { margin: 0 10px 10px 38px; padding: 0; list-style: none; font-size: 13.5px; color: var(--suave); display: grid; gap: 2px; }
+:focus-visible { outline: 2px solid var(--acento); outline-offset: 2px; }
+.vazio { padding: 24px; text-align: center; color: var(--suave); }
+.bandeja { position: fixed; left: 0; right: 0; bottom: 0; z-index: 3; background: var(--papel); border-top: 2px solid var(--perigo); box-shadow: 0 -4px 16px rgba(0,0,0,.08); }
+.bandeja .in { max-width: 920px; margin: 0 auto; padding: 10px 16px 12px; display: grid; gap: 8px; }
+.topo { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: space-between; }
+.topo strong { font-variant-numeric: tabular-nums; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; max-height: 64px; overflow-y: auto; }
+.chip { font: 13px var(--mono); color: var(--perigo); background: var(--perigo-fundo); border: 1px solid var(--perigo); border-radius: 999px; padding: 1px 4px 1px 9px; display: inline-flex; gap: 4px; align-items: center; }
+.chip button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; padding: 0 4px; }
+.acoes { display: flex; gap: 8px; flex-wrap: wrap; }
+.btn { font: inherit; font-weight: 500; border-radius: 6px; padding: 7px 14px; cursor: pointer; border: 1px solid var(--linha); background: var(--papel); color: var(--tinta); }
+.btn.forte { background: var(--perigo); border-color: var(--perigo); color: #fff; }
+.btn:disabled { opacity: .45; cursor: default; }
+textarea { width: 100%; font: 12.5px/1.4 var(--mono); color: var(--tinta); background: var(--fundo); border: 1px solid var(--linha); border-radius: 6px; padding: 8px; resize: vertical; }
+.aviso { font-size: 13px; color: var(--acento); }
+.aviso:empty { display: none; }
+.dica { font-size: 12.5px; color: var(--suave); }
+@media (max-width: 480px) {
+  .linha { grid-template-columns: auto 1fr auto; }
+  .grupo { grid-column: 2 / 4; grid-row: 2; justify-self: start; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Exclusão de tags da base</h1>
+  <div class="sub">Tags temáticas do frontmatter de <code>base-legislacao-ambiental</code>. As de controle (#revogado, #redacao-alterada, #incluido, #anexo-pendente) não aparecem aqui. Dados do commit <code id="commit"></code>.</div>
+  <div class="sub">Marque as tags, toque em <strong>Copiar pedido</strong> e cole na conversa com o Claude: ele apaga cada tag do frontmatter de todas as normas, anexos e comentários, da taxonomia e do <code>tags.md</code>, regera o HTML e envia para o <code>main</code>.</div>
+</header>
+<div class="filtros"><div class="in">
+  <label for="busca" class="sr" hidden>Buscar tag</label>
+  <input type="search" id="busca" placeholder="Buscar tag, grupo ou norma…" autocomplete="off">
+  <select id="grupo" aria-label="Filtrar por grupo"></select>
+  <select id="ordem" aria-label="Ordenar">
+    <option value="nome">A–Z</option>
+    <option value="menos">Menos usadas primeiro</option>
+    <option value="mais">Mais usadas primeiro</option>
+  </select>
+  <select id="mostrar" aria-label="Mostrar">
+    <option value="todas">Todas</option>
+    <option value="marcadas">Só marcadas</option>
+    <option value="livres">Só não marcadas</option>
+  </select>
+  <span class="conta" id="conta"></span>
+</div></div>
+<main><ul class="lista" id="lista"></ul></main>
+<div class="bandeja"><div class="in">
+  <div class="topo">
+    <span><strong id="nsel">0</strong> tag(s) marcada(s) para excluir</span>
+    <div class="acoes">
+      <button class="btn" id="limpar" type="button">Desmarcar todas</button>
+      <button class="btn forte" id="copiar" type="button">Copiar pedido</button>
+    </div>
+  </div>
+  <div class="chips" id="chips"></div>
+  <textarea id="pedido" rows="2" readonly aria-label="Pedido de exclusão" hidden></textarea>
+  <div class="aviso" id="aviso" role="status"></div>
+</div></div>
+<script>
+const DADOS = /*DADOS*/null;
+const $ = id => document.getElementById(id);
+const CHAVE = 'exclusao-tags:' + DADOS.commit;
+let marcadas = new Set();
+try { marcadas = new Set(JSON.parse(localStorage.getItem(CHAVE) || '[]')); } catch (e) {}
+const tags = DADOS.tags.map(t => ({...t, busca: (t.tag + ' ' + t.grupo + ' ' + t.d.map(i => DADOS.docs[i][1]).join(' ')).normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()}));
+const abertas = new Set();
+$('commit').textContent = DADOS.commit;
+
+const grupos = [...new Set(tags.map(t => t.grupo.split('/')[0] || ''))].sort();
+$('grupo').innerHTML = '<option value="">Todos os grupos</option>' +
+  grupos.map(g => `<option value="${g || '-'}">${g ? g.replace('-', ' ') : 'Sem grupo'}</option>`).join('');
+
+function salvar() { try { localStorage.setItem(CHAVE, JSON.stringify([...marcadas])); } catch (e) {} }
+const esc = s => s.replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+function visiveis() {
+  const q = $('busca').value.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim();
+  const g = $('grupo').value, m = $('mostrar').value, o = $('ordem').value;
+  let r = tags.filter(t => (!q || t.busca.includes(q))
+    && (!g || (g === '-' ? !t.grupo : t.grupo.split('/')[0] === g))
+    && (m === 'todas' || (m === 'marcadas') === marcadas.has(t.tag)));
+  if (o === 'menos') r.sort((a, b) => a.d.length - b.d.length || a.tag.localeCompare(b.tag));
+  if (o === 'mais') r.sort((a, b) => b.d.length - a.d.length || a.tag.localeCompare(b.tag));
+  return r;
+}
+
+function linha(t) {
+  const on = marcadas.has(t.tag), id = 'c-' + t.tag;
+  const n = t.d.length;
+  let h = `<li class="tag${on ? ' marcada' : ''}" data-tag="${t.tag}"><div class="linha">
+    <input type="checkbox" id="${id}" ${on ? 'checked' : ''} aria-label="Marcar #${t.tag} para excluir">
+    <label class="nome" for="${id}">#${t.tag}</label>
+    <span class="grupo${t.grupo ? '' : ' sem'}">${t.grupo ? esc(t.grupo) : 'sem grupo'}</span>
+    <button class="uso" type="button" aria-expanded="${abertas.has(t.tag)}">${n} ${n === 1 ? 'doc.' : 'docs.'}</button>
+  </div>`;
+  if (abertas.has(t.tag)) h += '<ul class="docs">' + t.d.map(i => `<li>${esc(DADOS.docs[i][1])}</li>`).join('') + '</ul>';
+  return h + '</li>';
+}
+
+function desenhar() {
+  const r = visiveis();
+  $('lista').innerHTML = r.length ? r.map(linha).join('') : '<li class="vazio">Nenhuma tag com esse filtro.</li>';
+  $('conta').textContent = `${r.length} de ${tags.length} tags`;
+  bandeja();
+}
+
+function bandeja() {
+  const sel = [...marcadas].sort();
+  $('nsel').textContent = sel.length;
+  $('chips').innerHTML = sel.map(t => `<span class="chip">#${t}<button type="button" data-tira="${t}" aria-label="Desmarcar #${t}">×</button></span>`).join('');
+  $('pedido').value = sel.length ? `Excluir da base as tags: ${sel.map(t => '#' + t).join(', ')}\n(python scripts/excluir_tags.py --aplicar ${sel.join(' ')})` : '';
+  $('copiar').disabled = $('limpar').disabled = !sel.length;
+}
+
+$('lista').addEventListener('change', e => {
+  const li = e.target.closest('li.tag'); if (!li) return;
+  const t = li.dataset.tag;
+  e.target.checked ? marcadas.add(t) : marcadas.delete(t);
+  li.classList.toggle('marcada', e.target.checked);
+  salvar(); bandeja();
+});
+$('lista').addEventListener('click', e => {
+  const b = e.target.closest('button.uso'); if (!b) return;
+  const t = b.closest('li.tag').dataset.tag;
+  abertas.has(t) ? abertas.delete(t) : abertas.add(t);
+  const li = b.closest('li.tag'); li.outerHTML = linha(tags.find(x => x.tag === t));
+});
+$('chips').addEventListener('click', e => {
+  const t = e.target.dataset.tira; if (!t) return;
+  marcadas.delete(t); salvar(); desenhar();
+});
+$('limpar').addEventListener('click', () => { marcadas.clear(); salvar(); desenhar(); });
+$('copiar').addEventListener('click', async () => {
+  try { await navigator.clipboard.writeText($('pedido').value); $('aviso').textContent = 'Pedido copiado.'; }
+  catch (e) { $('pedido').hidden = false; $('pedido').select(); $('aviso').textContent = 'Não consegui copiar: o texto está selecionado, copie manualmente.'; }
+  setTimeout(() => { $('aviso').textContent = ''; }, 4000);
+});
+['busca', 'grupo', 'ordem', 'mostrar'].forEach(id => $(id).addEventListener('input', desenhar));
+desenhar();
+</script>
+</body>
+</html>
