@@ -19,16 +19,16 @@ fonte: "Res__SEDEST_48_2024_-_ANEXO_V.pdf (1 página), enviado por Leo"
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo V, linha 1** {#anexo5_lin1} #responsavel-tecnico 1. Identificação do empreendedor e do Responsável Técnico do empreendimento;
-- **Anexo V, linha 2** {#anexo5_lin2} #app #corpo-hidrico 2. Localização do empreendimento em Planta ou croqui de localização do empreendimento, com um ponto de Coordenada Geográfica (admitido erro de até 30m) central de referência, e indicação de APP, Corpos Hídricos e Acessos;
+- **Anexo V, linha 1** {#anexo5_lin1} 1. Identificação do empreendedor e do Responsável Técnico do empreendimento;
+- **Anexo V, linha 2** {#anexo5_lin2} 2. Localização do empreendimento em Planta ou croqui de localização do empreendimento, com um ponto de Coordenada Geográfica (admitido erro de até 30m) central de referência, e indicação de APP, Corpos Hídricos e Acessos;
 - **Anexo V, linha 3** {#anexo5_lin3} 3. Características técnicas do empreendimento (descrever todo processo produtivo e as instalações):
 - **Anexo V, linha 4** {#anexo5_lin4} 3.1. Descrição da distribuição e do número de estruturas de cultivos propostos;
 - **Anexo V, linha 5** {#anexo5_lin5} 3.2. Descrição do processo produtivo adotado;
-- **Anexo V, linha 6** {#anexo5_lin6} #especie-exotica 3.4. Métodos de controle da disseminação de espécies exóticas e alóctones, quando couber.
-- **Anexo V, linha 7** {#anexo5_lin7} #diagnostico-ambiental 4. Diagnóstico Ambiental.
-- **Anexo V, linha 8** {#anexo5_lin8} #dbo 4.1. Caracterização do meio físico abrangendo: (i) descrição da topografia do local; (ii) variáveis físico-químicas e biológicas: pH, temperatura, transparência, oxigênio dissolvido, fósforo total, compostos nitrogenados, DBO, coliformes termotolerantes; entre outros aspectos.
-- **Anexo V, linha 9** {#anexo5_lin9} #app 4.2. Descrição do meio biótico: identificação da ictiofauna; caracterização da flora do local e do entorno; indicação de intervenção em APP; entre outros aspectos.
-- **Anexo V, linha 10** {#anexo5_lin10} #impacto-ambiental #medida-mitigadora 4.3. Impactos ambientais: descrever os potenciais impactos ambientais gerados pelo empreendimento, indicando as respectivas medidas mitigadoras e prática de aquicultura.
+- **Anexo V, linha 6** {#anexo5_lin6} 3.4. Métodos de controle da disseminação de espécies exóticas e alóctones, quando couber.
+- **Anexo V, linha 7** {#anexo5_lin7} 4. Diagnóstico Ambiental.
+- **Anexo V, linha 8** {#anexo5_lin8} 4.1. Caracterização do meio físico abrangendo: (i) descrição da topografia do local; (ii) variáveis físico-químicas e biológicas: pH, temperatura, transparência, oxigênio dissolvido, fósforo total, compostos nitrogenados, DBO, coliformes termotolerantes; entre outros aspectos.
+- **Anexo V, linha 9** {#anexo5_lin9} 4.2. Descrição do meio biótico: identificação da ictiofauna; caracterização da flora do local e do entorno; indicação de intervenção em APP; entre outros aspectos.
+- **Anexo V, linha 10** {#anexo5_lin10} 4.3. Impactos ambientais: descrever os potenciais impactos ambientais gerados pelo empreendimento, indicando as respectivas medidas mitigadoras e prática de aquicultura.
 
 ## Síntese do conversor (não é texto normativo)
 

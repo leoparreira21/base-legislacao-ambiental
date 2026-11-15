@@ -20,7 +20,7 @@ fonte: PDF assinado da Resolução SEDEST nº 02/2025 (SEDEST), páginas 106 e 1
 ## Texto do anexo {#texto-anexo}
 
 - **Anexo VI, item 1, linha 1** {#anexo6_lin1} 1. Localização do empreendimento
-- **Anexo VI, item 1, linha 2** {#anexo6_lin2} #aglomerado-populacional #emissao-fugitiva Inserir imagem aérea com círculo de 500 metros de raio, a partir do ponto de principal fonte de emissões fugitivas do empreendimento, indicando a existência de aglomerados populacionais, indústrias e outras ocupações.
+- **Anexo VI, item 1, linha 2** {#anexo6_lin2} Inserir imagem aérea com círculo de 500 metros de raio, a partir do ponto de principal fonte de emissões fugitivas do empreendimento, indicando a existência de aglomerados populacionais, indústrias e outras ocupações.
 - **Anexo VI, item 2, linha 3** {#anexo6_lin3} 2. Definição da atividade
 - **Anexo VI, item 2, linha 4** {#anexo6_lin4} Caso o empreendimento atue apenas com transbordo (sem que haja processos como limpeza, secagem e beneficiamento dos grãos), deverá assinalar a opção "Transbordo".
 - **Anexo VI, item 2, linha 5** {#anexo6_lin5} ( ) Beneficiamento de Grãos
@@ -37,17 +37,17 @@ fonte: PDF assinado da Resolução SEDEST nº 02/2025 (SEDEST), páginas 106 e 1
 - **Anexo VI, Tabela 1, linha 4** {#anexo6_tab1_lin4} Cultura: Outros | Jan, Fev, Mar, Abri, Mai, Jun, Jul, Ago, Set, Out, Nov, Dez: (células em branco, a preencher)
 
 - **Anexo VI, item 4, linha 9** {#anexo6_lin9} 4. Medidas de contenção
-- **Anexo VI, item 4, linha 10** {#anexo6_lin10} #aglomerado-populacional Assinalar as medidas de contenção aplicadas na unidade, aplicáveis para unidades de beneficiamento de grãos ou, transbordo (item III), em distância inferior à 500 metros de aglomerado populacional.
-- **Anexo VI, item 4, linha 11** {#anexo6_lin11} #material-particulado ( ) I. Os secadores de grãos deverão contar com sistema de captação de partículas;
-- **Anexo VI, item 4, linha 12** {#anexo6_lin12} #material-particulado ( ) II. Os processos de pré-limpeza e limpeza de grãos deverão contar com sistemas de controle das emissões, tais como ciclones, multiciclones ou filtros;
-- **Anexo VI, item 4, linha 13** {#anexo6_lin13} #emissao-fugitiva ( ) III. As moegas deverão contar com sistemas de contenção das emissões fugitivas com a instalação de, no mínimo, cortinas ou na forma de módulos mecânicos de contenção;
-- **Anexo VI, item 4, linha 14** {#anexo6_lin14} #material-particulado ( ) IV. As vias internas deverão ser pavimentadas ou molhadas em frequência por sistema capaz de diminuir a geração e dispersão do pó;
+- **Anexo VI, item 4, linha 10** {#anexo6_lin10} Assinalar as medidas de contenção aplicadas na unidade, aplicáveis para unidades de beneficiamento de grãos ou, transbordo (item III), em distância inferior à 500 metros de aglomerado populacional.
+- **Anexo VI, item 4, linha 11** {#anexo6_lin11} ( ) I. Os secadores de grãos deverão contar com sistema de captação de partículas;
+- **Anexo VI, item 4, linha 12** {#anexo6_lin12} ( ) II. Os processos de pré-limpeza e limpeza de grãos deverão contar com sistemas de controle das emissões, tais como ciclones, multiciclones ou filtros;
+- **Anexo VI, item 4, linha 13** {#anexo6_lin13} ( ) III. As moegas deverão contar com sistemas de contenção das emissões fugitivas com a instalação de, no mínimo, cortinas ou na forma de módulos mecânicos de contenção;
+- **Anexo VI, item 4, linha 14** {#anexo6_lin14} ( ) IV. As vias internas deverão ser pavimentadas ou molhadas em frequência por sistema capaz de diminuir a geração e dispersão do pó;
 - **Anexo VI, item 4, linha 15** {#anexo6_lin15} ( ) V. Implantação de barreira vegetal ou artificial no entorno da área operacional;
 - **Anexo VI, item 4, linha 16** {#anexo6_lin16} ( ) VI. Deverão ser adotadas medidas para minimização das emissões na área de expedição;
 - **Anexo VI, item 4, linha 17** {#anexo6_lin17} ( ) VII. As correias transportadoras, que operarem a céu aberto, deverão contar com cobertura superior e nas laterais;
 - **Anexo VI, item 4, linha 18** {#anexo6_lin18} ( ) VIII. Devem ser implantados sistemas de controle de emissões atmosféricas nos pontos de carga e descarga dos equipamentos de transferência interna de produtos agrícolas.
 - **Anexo VI, item 5, linha 19** {#anexo6_lin19} 5. Registro fotográfico das medidas de contenção
-- **Anexo VI, item 6, linha 20** {#anexo6_lin20} #art-anotacao 6. Anotação de Responsabilidade Técnica emitida pelo conselho de classe competente
+- **Anexo VI, item 6, linha 20** {#anexo6_lin20} 6. Anotação de Responsabilidade Técnica emitida pelo conselho de classe competente
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

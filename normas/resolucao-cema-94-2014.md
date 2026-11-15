@@ -43,12 +43,10 @@ fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé tra
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #aterro-sanitario #licenciamento-ambiental #outorga
 
 **Art. 1º, caput** {#art1_cpt} Esta Resolução estabelece definições e critérios orientadores para o licenciamento e outorga, o projeto, a implantação, a operação, as melhorias e encerramento de aterros sanitários, visando o controle da poluição, da contaminação e a minimização de seus impactos ambientais.
 
 ###### Art. 2º {#art2}
-Tags: #definicao #aterro-sanitario
 
 **Art. 2º, caput** {#art2_cpt} Para os efeitos desta Resolução, entende-se por:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} aterro sanitário: técnica de disposição de resíduos sólidos urbanos no solo sem causar danos à saúde pública e à sua segurança, minimizando os impactos ambientais, método este que utiliza princípios de engenharia para confinar os resíduos sólidos à menor área possível e reduzi-los ao menor volume permissível, cobrindo-os com uma camada de terra na conclusão de cada jornada de trabalho, ou a intervalos menores, se for necessário;
@@ -85,12 +83,10 @@ Tags: #definicao #aterro-sanitario
 - **Art. 2º, caput, inciso XXXII** {#art2_cpt_inc32} Plano de Encerramento e Recuperação Ambiental da Área de Disposição Final de Resíduos Sólidos: projeto técnico que detalha a situação da área de disposição final dos resíduos sólidos e apresenta as propostas para encerramento e recuperação ambiental, no qual são definidos os procedimentos, integrados a um programa de monitoramento e controle ambiental.
 
 ###### Art. 3º {#art3}
-Tags: #aterro-sanitario #localizacao #licenciamento-ambiental
 
 **Art. 3º, caput** {#art3_cpt} Os aterros sanitários a serem implantados com disposição diária superior a 20 toneladas de resíduos sólidos urbanos deverão ser, obrigatoriamente, objeto de Estudo de Impacto Ambiental e respectivo Relatório de Impacto Ambiental.
 
 ###### Art. 4º {#art4}
-Tags: #aterro-sanitario #localizacao
 
 **Art. 4º, caput** {#art4_cpt} Os aterros sanitários a serem implantados com disposição diária de até 20 toneladas de resíduos sólidos urbanos, devem apresentar, por ocasião do requerimento de Licença Prévia, Relatório Ambiental Preliminar, dispensando-se a apresentação de Estudo de Impacto Ambiental e respectivo Relatório de Impacto Ambiental.
 
@@ -99,24 +95,20 @@ Tags: #aterro-sanitario #localizacao
 **Art. 4º, § 2º** {#art4_par2} A critério do órgão ambiental estadual, poderão ser admitidas soluções técnicas utilizadas para aterros sanitários de pequeno porte.
 
 ###### Art. 5º {#art5}
-Tags: #outorga #licenciamento-ambiental
 
 **Art. 5º, caput** {#art5_cpt} Os processos de outorga e de licenciamento ambiental deverão atender as etapas de outorga prévia, licença prévia, licença de instalação, outorga de direito, licença de operação, autorização ambiental para implementação de melhorias e autorização ambiental para encerramento e recuperação ambiental, determinadas pelo órgão ambiental estadual.
 
 ###### Art. 6º {#art6}
-Tags: #termo-de-referencia #estudo-ambiental
 
 **Art. 6º, caput** {#art6_cpt} Os documentos, estudos ambientais e termos de referência a serem exigidos nas etapas de licenciamento ambiental serão indicados por meio de Portaria específica do órgão ambiental estadual.
 
 ###### Art. 7º {#art7}
-Tags: #encerramento #area-de-disposicao-final
 
 **Art. 7º, caput** {#art7_cpt} Os responsáveis pelas áreas de disposição final de resíduos sólidos urbanos a serem encerradas, em processo de encerramento ou que já estejam encerradas, deverão obrigatoriamente protocolar requerimento de Autorização Ambiental para encerramento das atividades e recuperação ambiental da área.
 
 **Art. 7º, parágrafo único** {#art7_par1u} A Autorização Ambiental para encerramento e recuperação ambiental da área de disposição de resíduos sólidos a que se refere o caput, será concedida por prazo não superior a 05 (cinco) anos.
 
 ###### Art. 8º {#art8}
-Tags: #licenciamento-ambiental #aterro-sanitario
 
 **Art. 8º, caput** {#art8_cpt} Quando da necessidade de execução de melhorias no empreendimento que não estejam contempladas no licenciamento vigente e visando minimizar os impactos ambientais da atividade, deverá ser solicitada Autorização Ambiental para implementação dessas melhorias.
 
@@ -125,29 +117,24 @@ Tags: #licenciamento-ambiental #aterro-sanitario
 **Art. 8º, § 2º** {#art8_par2} Quando da solicitação de renovação da licença de operação – LO do empreendimento, as Autorizações Ambientais previstas no caput serão incorporadas a mesma, quando for o caso.
 
 ###### Art. 9º {#art9}
-Tags: #licenca-operacao #prazo #renovacao
 
 **Art. 9º, caput** {#art9_cpt} O prazo de validade da licença de operação, bem como sua renovação será de, no máximo, dois anos.
 
 ###### Art. 10 {#art10}
-Tags: #irregularidade #contaminacao
 
 **Art. 10, caput** {#art10_cpt} Caso seja constatada alguma irregularidade, contaminação, extrapolação do limite de algum parâmetro do monitoramento, ou quaisquer outras evidências de prováveis danos ao meio ambiente, o órgão ambiental deverá ser comunicado imediatamente.
 
 ###### Art. 11 {#art11}
-Tags: #licenca-instalacao #aterro-sanitario
 
 **Art. 11, caput** {#art11_cpt} Quando necessário à execução de obras e/ou implantação da atividade, deverá ser apresentada autorização para supressão de vegetação, conforme normas específicas.
 
 ###### Art. 12 {#art12}
-Tags: #aterro-sanitario #otimizacao
 
 **Art. 12, caput** {#art12_cpt} Para fins de otimização do uso de áreas e redução dos custos de implantação e operação dos sistemas de disposição final de resíduos sólidos, os municípios poderão implementá-los com a constituição de consórcios intermunicipais, de acordo com as normas fixadas pela Lei Complementar federal nº 140, de 08 de dezembro de 2011, e demais normas aplicáveis.
 
 **Art. 12, parágrafo único** {#art12_par1u} Para a inclusão de novos municípios no consórcio de aterros s existentes, o órgão ambiental definirá procedimento de licenciamento ambiental específico.
 
 ###### Art. 13 {#art13}
-Tags: #residuo-proibido #aterro-sanitario
 
 **Art. 13, caput** {#art13_cpt} Fica proibida a disposição de resíduos sólidos Classe I, conforme NBR 10004/2004, resíduos industriais, resíduos da construção civil e resíduos provenientes de atividades de mineração nas células e/ou trincheiras destinadas ao recebimento de resíduos sólidos urbanos.
 
@@ -156,14 +143,12 @@ Tags: #residuo-proibido #aterro-sanitario
 - **Art. 13, parágrafo único, inciso II** {#art13_par1u_inc2} resíduos de serviços de saúde do Grupo D, conforme [[resolucao-conama-358-2005|Resolução CONAMA nº 358/2005]].
 
 ###### Art. 14 {#art14}
-Tags: #compostagem #aterro-sanitario
 
 **Art. 14, caput** {#art14_cpt} A compostagem em aterro sanitário, proveniente de resíduos sólidos urbanos de coleta domiciliar, dependerá de licenciamento específico após o inicio da operação do aterro.
 
 **Art. 14, parágrafo único** {#art14_par1u} O licenciamento ambiental para as demais tecnologias de redução de carga orgânica será avaliado caso a caso, mediante validação do tratamento e destinação final dos resíduos a serem gerados no processo.
 
 ###### Art. 15 {#art15}
-Tags: #aterro-sanitario #requisito-tecnico
 
 **Art. 15, caput** {#art15_cpt} O aterro sanitário deverá:
 - **Art. 15, caput, alínea "a"** {#art15_cpt_alia} localizar-se fora da área de influência direta do manancial de abastecimento público;
@@ -177,7 +162,6 @@ Tags: #aterro-sanitario #requisito-tecnico
 - **Art. 15, caput, alínea "i"** {#art15_cpt_alii} ser projetado para uma vida útil superior a 15 anos.
 
 ###### Art. 16 {#art16}
-Tags: #aterro-sanitario #requisito-tecnico
 
 **Art. 16, caput** {#art16_cpt} O chorume gerado pelo aterro sanitário será tratado por:
 - **Art. 16, caput, alínea "a"** {#art16_cpt_alia} recirculação no próprio aterro;
@@ -187,29 +171,24 @@ Tags: #aterro-sanitario #requisito-tecnico
 - **Art. 16, caput, alínea "e"** {#art16_cpt_alie} demais tecnologias de tratamento validadas.
 
 ###### Art. 17 {#art17}
-Tags: #automonitoramento #aterro-sanitario
 
 **Art. 17, caput** {#art17_cpt} O automonitoramento ambiental de aterros sanitários deverá atender aos requisitos estabelecidos pelo do órgão ambiental estadual em Portaria específica. Parágrafo único. O órgão ambiental definirá a forma de apresentação dos dados e o procedimento de automonitoramento, com caracterização qualitativa e quantitativa dos efluentes tratados (chorume tratado), das águas subterrâneas e águas superficiais, baseado em amostragem representativa dos mesmos.
 
 ###### Art. 18 {#art18}
-Tags: #aterro-sanitario #proibicao
 
 **Art. 18, caput** {#art18_cpt} Fica proibida a emissão de licença ambiental para aterros sanitários em valas sem utilização de geomembrana ou sistemas de impermeabilização similares na lateral e no fundo.
 
 **Art. 18, parágrafo único** {#art18_par1u} Municípios que utilizem sistemas em valas para disposição de resíduos sólidos urbanos deverão readequá-los.
 
 ###### Art. 19 {#art19}
-Tags: #transporte-de-residuo #escopo
 
 **Art. 19, caput** {#art19_cpt} Esta Resolução não contempla as operações de transporte de resíduos sólidos e autorizações de supressão vegetal.
 
 ###### Art. 20 {#art20}
-Tags: #sancao
 
 **Art. 20, caput** {#art20_cpt} O descumprimento das disposições desta Resolução, dos termos das Licenças Ambientais e de eventual Termo de Ajustamento de Conduta, constituise em infração administrativa ambiental nos termos do artigo 70 de Lei Federal 9605, de 12 de fevereiro de 1998, sujeitando o infrator às sanções ali previstas, de conformidade com o estabelecido no seu decreto regulamentador – Decreto Federal 6514, de 22 de julho de 2008.
 
 ###### Art. 21 {#art21}
-Tags: #vigencia #revogacao
 
 **Art. 21, caput** {#art21_cpt} Esta Resolução entra em vigor na data da sua publicação, revogadas as disposições em contrário, em especial a Resolução Conjunta SEMA/IAP/ SUDERHSA nº 01/2006, a [[resolucao-cema-86-2013|Resolução CEMA n°86/2013]], a alínea a do Artigo 127 da [[resolucao-sema-31-1998|Resolução SEMA nº 31/1998]], bem como o disposto sobre aterros sanitários na Portaria IAP nº 019/2006.
 

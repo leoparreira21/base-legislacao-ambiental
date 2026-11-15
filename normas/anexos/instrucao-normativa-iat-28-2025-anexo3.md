@@ -19,7 +19,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo III, linha 1** {#anexo3_lin1} #memorial-caracterizacao #art-anotacao O MCE deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo III, linha 1** {#anexo3_lin1} O MCE deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 - **Anexo III, linha 2** {#anexo3_lin2} 1 INFORMAÇÕES CADASTRAIS
 - **Anexo III, linha 3** {#anexo3_lin3} a) Razão social;
 - **Anexo III, linha 4** {#anexo3_lin4} b) Nome Fantasia;
@@ -41,7 +41,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo III, linha 20** {#anexo3_lin20} j) Características do entorno (uso do solo, residências, áreas de interesse ambiental, etc.).
 - **Anexo III, linha 21** {#anexo3_lin21} 3 CROQUI DE LOCALIZAÇÃO DO EMPREENDIMENTO COM IMAGEM AÉREA E CONTENDO NO MÍNIMO
 - **Anexo III, linha 22** {#anexo3_lin22} a) Distância dos recursos hídricos (nascentes, olhos d’água, cursos d’água, etc.);
-- **Anexo III, linha 23** {#anexo3_lin23} #app b) Áreas de preservação permanente;
+- **Anexo III, linha 23** {#anexo3_lin23} b) Áreas de preservação permanente;
 - **Anexo III, linha 24** {#anexo3_lin24} c) Unidades de Conservação Federais, Estaduais e Municipais;
 - **Anexo III, linha 25** {#anexo3_lin25} d) Cobertura florestal;
 - **Anexo III, linha 26** {#anexo3_lin26} e) Vias de acesso principais e pontos de referências;
@@ -53,17 +53,17 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo III, linha 32** {#anexo3_lin32} b) Principais matérias primas e produtos a serem elaborados e quantitativo previsto;
 - **Anexo III, linha 33** {#anexo3_lin33} c) Relação completa dos produtos químicos manuseados em sua atividade e respectivas quantidades estocadas (inclusive em equipamentos de processo);
 - **Anexo III, linha 34** {#anexo3_lin34} d) Principais instalações e unidades de apoio, tais como pátio de estacionamento de veículos leves, pátio de estacionamento de veículos pesados, escritório administrativo, utilidades, etc;
-- **Anexo III, linha 35** {#anexo3_lin35} #tratamento-semente e) No caso de unidades de tratamento de sementes, informar o processo de tratamento (uso de inseticidas, fungicidas ou ambos), quais espécies de sementes serão tratadas, além do respectivo Registro Nacional de Sementes e Mudas – RENASEM da unidade.
+- **Anexo III, linha 35** {#anexo3_lin35} e) No caso de unidades de tratamento de sementes, informar o processo de tratamento (uso de inseticidas, fungicidas ou ambos), quais espécies de sementes serão tratadas, além do respectivo Registro Nacional de Sementes e Mudas – RENASEM da unidade.
 - **Anexo III, linha 36** {#anexo3_lin36} 6 ASPECTOS AMBIENTAIS
 - **Anexo III, linha 37** {#anexo3_lin37} a) Recursos hídricos
 - **Anexo III, linha 38** {#anexo3_lin38} i. Balanço hídrico previsto de utilização de água indicando no mínimo:
 - **Anexo III, linha 39** {#anexo3_lin39} - Fontes de captação de água;
 - **Anexo III, linha 40** {#anexo3_lin40} - Vazões utilizadas no consumo humano e demais atividades;
-- **Anexo III, linha 41** {#anexo3_lin41} #outorga - Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.
+- **Anexo III, linha 41** {#anexo3_lin41} - Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.
 - **Anexo III, linha 42** {#anexo3_lin42} ii. Drenagem pluvial
 - **Anexo III, linha 43** {#anexo3_lin43} - Área impermeabilizada e sistema de drenagem pluvial previsto, indicando as formas de tratamento e destinação final das águas incidentes nas áreas impermeabilizadas.
 - **Anexo III, linha 44** {#anexo3_lin44} b) Resíduos Sólidos:
-- **Anexo III, linha 45** {#anexo3_lin45} #residuo-solido i. Estimativa da geração de resíduos sólidos indicando no mínimo: (i) código IBAMA, (ii) Resíduos Específico, (iii) Origem do resíduo, (iv) Quantificação diária estimada, (v) Tratamento e destinação final.
+- **Anexo III, linha 45** {#anexo3_lin45} i. Estimativa da geração de resíduos sólidos indicando no mínimo: (i) código IBAMA, (ii) Resíduos Específico, (iii) Origem do resíduo, (iv) Quantificação diária estimada, (v) Tratamento e destinação final.
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

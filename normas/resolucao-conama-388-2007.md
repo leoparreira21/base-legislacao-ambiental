@@ -29,7 +29,6 @@ O CONSELHO NACIONAL DO MEIO AMBIENTE - CONAMA, tendo em vista as competências q
 
 ###### Art. 1º {#art1}
 
-Tags: #mata-atlantica #vegetacao-nativa #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Ficam convalidadas para fins do disposto no art. 4o § 1o da [[lei-federal-11428-2006|Lei no 11.428, de 22 de dezembro de 2006]] ad referendun do Plenário do CONAMA, as seguintes resoluções que dispõem sobre a vegetação primária e secundária nos estágios inicial, médio e avançado de regeneração da Mata Atlântica:
 
@@ -69,7 +68,6 @@ Tags: #mata-atlantica #vegetacao-nativa #licenciamento-ambiental
 
 ###### Art. 2º {#art2}
 
-Tags: #mata-atlantica #vegetacao-nativa
 
 **Art. 2º, caput** {#art2_cpt} Esta Resolução entra em vigor na data de sua publicação.
 

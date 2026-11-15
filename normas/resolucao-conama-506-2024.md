@@ -31,12 +31,10 @@ fonte: "PDF da impressão do Diário Oficial da União (Imprensa Nacional, 5 pá
 **Preâmbulo** {#preambulo} O CONSELHO NACIONAL DO MEIO AMBIENTE, no uso das competências que lhe são conferidas pela [[lei-federal-6938-1981|Lei nº 6.938, de 31 de agosto de 1981]], regulamentada pelo [[decreto-federal-99274-1990|Decreto nº 99.274, de 6 de julho de 1990]], e tendo em vista o que consta do Processo Administrativo nº 02000.010721/2023-58, resolve:
 
 ###### Art. 1º {#art1}
-Tags: #qualidade-ar #padrao-qualidade
 
 **Art. 1º, caput** {#art1_cpt} Esta Resolução estabelece padrões nacionais de qualidade do ar e fornece diretrizes para sua aplicação, visando à proteção da saúde e do meio ambiente.
 
 ###### Art. 2º {#art2}
-Tags: #qualidade-ar #padrao-qualidade #padrao-intermediario #poluente-atmosferico #episodio-critico #iqar
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução são adotadas as seguintes definições:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} poluente atmosférico: qualquer forma de matéria em quantidade, concentração, tempo ou outras características, que torne ou possa tornar o ar impróprio ou nocivo à saúde, inconveniente ao bem-estar público, danoso aos materiais, à fauna e flora ou prejudicial à segurança, ao uso e gozo da propriedade ou às atividades normais da comunidade;
@@ -50,7 +48,6 @@ Tags: #qualidade-ar #padrao-qualidade #padrao-intermediario #poluente-atmosferic
 - **Art. 2º, caput, inciso IX** {#art2_cpt_inc9} Índice de Qualidade do Ar - IQAr: valor utilizado para fins de comunicação e informação à população que relaciona as concentrações dos poluentes monitorados aos possíveis efeitos adversos à saúde.
 
 ###### Art. 3º {#art3}
-Tags: #qualidade-ar #padrao-qualidade #pronar #condicao-referencia
 
 **Art. 3º, caput** {#art3_cpt} Ficam estabelecidos os Padrões Nacionais de Qualidade do Ar, conforme [[#anexo1|Anexo I]], devidamente integrados ao Programa Nacional de Controle da Qualidade do Ar - Pronar, devendo ser adotados em todo o território nacional pelos órgãos e entidades integrantes do Sistema Nacional do Meio Ambiente - Sisnama.
 
@@ -65,7 +62,6 @@ Tags: #qualidade-ar #padrao-qualidade #pronar #condicao-referencia
 **Art. 3º, § 5º** {#art3_par5} Para poluentes não considerados nesta Resolução, o órgão ambiental competente poderá usar referências estabelecidas em legislações nacionais ou internacionais, pertinentes e mais recentes, para fins de acompanhamento e controle ambiental, mediante apresentação de justificativa técnica, de acordo com a especificidade de cada caso, assegurando-se a proteção da saúde e o bem-estar da população.
 
 ###### Art. 4º {#art4}
-Tags: #qualidade-ar #padrao-intermediario #vigencia #licenciamento-ambiental
 
 **Art. 4º, caput** {#art4_cpt} Os Padrões Nacionais de Qualidade do Ar definidos nesta Resolução serão adotados sequencialmente, em cinco etapas, conforme [[#anexo1|Anexo I]].
 
@@ -84,12 +80,10 @@ Tags: #qualidade-ar #padrao-intermediario #vigencia #licenciamento-ambiental
 **Art. 4º, § 7º** {#art4_par7} Caberá ao órgão ambiental competente o estabelecimento de critérios aplicáveis ao licenciamento ambiental, observando o atendimento do padrão de qualidade do ar em vigor.
 
 ###### Art. 5º {#art5}
-Tags: #qualidade-ar #monitoramento
 
 **Art. 5º, caput** {#art5_cpt} Para fins de verificação do atendimento aos padrões de qualidade do ar e demais fins legais, bem como para divulgação de informações da qualidade do ar relacionadas à saúde, deverão ser utilizados dados obtidos por meio de métodos de medição da qualidade do ar de referência ou métodos classificados como equivalentes, conforme indicado no Guia Técnico para o Monitoramento e a Avaliação da Qualidade do Ar, previsto no [[lei-federal-14850-2024#art7|art. 7º da Lei nº 14.850, de 2 de maio de 2024]].
 
 ###### Art. 6º {#art6}
-Tags: #qualidade-ar #relatorio #padrao-intermediario
 
 **Art. 6º, caput** {#art6_cpt} O Ministério do Meio Ambiente e Mudança do Clima deverá consolidar em relatório as informações disponibilizadas pelos órgãos ambientais estaduais e distrital referentes aos Relatórios de Avaliação da Qualidade do Ar e aos Planos de Gestão da Qualidade do Ar, previstos, respectivamente, no [[lei-federal-14850-2024#art7|art. 7º]] e no [[lei-federal-14850-2024#art13|art. 13 da Lei nº 14.850, de 2 de maio de 2024]], considerando os seguintes critérios:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} evolução da qualidade do ar em nível nacional;
@@ -106,7 +100,6 @@ Tags: #qualidade-ar #relatorio #padrao-intermediario
 **Art. 6º, § 4º** {#art6_par4} O Ministério do Meio Ambiente e Mudança do Clima deverá realizar seminário técnico, incluindo a participação dos setores representados na Câmara Técnica de Qualidade Ambiental do Conama para tomada de subsídios previamente à elaboração do relatório a que se refere o [[#art6_cpt|caput]].
 
 ###### Art. 7º {#art7}
-Tags: #qualidade-ar #iqar #guia-tecnico
 
 **Art. 7º, caput** {#art7_cpt} O Ministério do Meio Ambiente e Mudança do Clima, em conjunto com os órgãos ambientais estaduais e distrital, deverá atualizar e publicar o "Guia Técnico para Monitoramento e Avaliação da Qualidade do Ar" em até dezoito meses após a entrada em vigor desta Resolução.
 
@@ -122,7 +115,6 @@ Tags: #qualidade-ar #iqar #guia-tecnico
 **Art. 7º, § 4º** {#art7_par4} No caso de parâmetros não previstos nesta Resolução, cabe aos órgãos ambientais competentes a definição dos métodos de monitoramento, observando as diretrizes gerais do Guia Técnico.
 
 ###### Art. 8º {#art8}
-Tags: #qualidade-ar #iqar
 
 **Art. 8º, caput** {#art8_cpt} O Ministério do Meio Ambiente e Mudança do Clima e os órgãos ambientais estaduais e distrital deverão divulgar em tempo real, horário ou diário, conforme previsto no [[lei-federal-14850-2024#art18|art. 18 da Lei nº 14.850, de 2 de maio de 2024]], o Índice de Qualidade do Ar - IQAr, calculado de acordo com o [[#anexo1|Anexo I]]I desta Resolução.
 
@@ -135,24 +127,20 @@ Tags: #qualidade-ar #iqar
 **Art. 8º, § 4º** {#art8_par4} As demais faixas de concentração da Índice de Qualidade do Ar - IQAr serão definidas no Guia Técnico para o Monitoramento e a Avaliação da Qualidade do Ar.
 
 ###### Art. 9º {#art9}
-Tags: #qualidade-ar
 
 **Art. 9º, caput** {#art9_cpt} Deverão ser asseguradas condições que garantam aos cidadãos acesso às informações sobre a qualidade do ar, com vistas à melhoria da sua gestão e ao controle social.
 
 ###### Art. 10 {#art10}
-Tags: #pronar
 
 **Art. 10, caput** {#art10_cpt} O Ministério do Meio Ambiente e Mudança do Clima deverá enviar ao Conama proposta de revisão da [[resolucao-conama-5-1989|Resolução Conama nº 05, de 25 de Agosto de 1989]], que dispõe sobre o Programa Nacional de Controle da Qualidade do Ar - Pronar, em até cento e oitenta dias após a entrada em vigor desta Resolução.
 
 ###### Art. 11 {#art11}
-Tags: #revogacao #qualidade-ar
 
 **Art. 11, caput** {#art11_cpt} Ficam revogados:
 - **Art. 11, caput, inciso I** {#art11_cpt_inc1} [[resolucao-conama-491-2018#art1|os arts. 1º ao 8º]], [[resolucao-conama-491-2018#art12|os arts. 12 a 14]] e [[resolucao-conama-491-2018#anexo1|o Anexo I da Resolução Conama nº 491, de 19 de novembro de 2018]]; e
 - **Art. 11, caput, inciso II** {#art11_cpt_inc2} [[resolucao-conama-5-1989|os itens 2.2.1 e 2.3 da Resolução Conama nº 5, de 15 de junho de 1989]].
 
 ###### Art. 12 {#art12}
-Tags: #vigencia
 
 **Art. 12, caput** {#art12_cpt} Esta Resolução entra em vigor na data de sua publicação.
 
@@ -165,25 +153,25 @@ MARINA SILVA – Presidente do Conselho
 
 ### ANEXO I {#anexo1}
 
-- **Anexo I, linha 1** {#anexo1_lin1} #padrao-qualidade #qualidade-ar PADRÕES DE QUALIDADE DO AR
+- **Anexo I, linha 1** {#anexo1_lin1} PADRÕES DE QUALIDADE DO AR
 
 **Anexo I, Tabela 1 – Padrões de qualidade do ar (sem título no original)** {#anexo1_tab1}
 
-- **Anexo I, Tabela 1, linha 1** {#anexo1_tab1_lin1} #padrao-qualidade #qualidade-ar #padrao-intermediario Poluente Atmosférico: Material Particulado - MP10 | Período de Referência: 24 horas | PI-1 (μg/m³): 120 | PI-2 (μg/m³): 100 | PI-3 (μg/m³): 75 | PI-4 (μg/m³): 50 | PF (μg/m³): 45 | PF (ppm): -
-- **Anexo I, Tabela 1, linha 2** {#anexo1_tab1_lin2} #padrao-qualidade #qualidade-ar #padrao-intermediario Poluente Atmosférico: Material Particulado - MP10 | Período de Referência: Anual¹ | PI-1 (μg/m³): 40 | PI-2 (μg/m³): 35 | PI-3 (μg/m³): 30 | PI-4 (μg/m³): 20 | PF (μg/m³): 15 | PF (ppm): -
-- **Anexo I, Tabela 1, linha 3** {#anexo1_tab1_lin3} #padrao-qualidade #qualidade-ar #padrao-intermediario Poluente Atmosférico: Material Particulado - MP2,5 | Período de Referência: 24 horas | PI-1 (μg/m³): 60 | PI-2 (μg/m³): 50 | PI-3 (μg/m³): 37 | PI-4 (μg/m³): 25 | PF (μg/m³): 15 | PF (ppm): -
-- **Anexo I, Tabela 1, linha 4** {#anexo1_tab1_lin4} #padrao-qualidade #qualidade-ar #padrao-intermediario Poluente Atmosférico: Material Particulado - MP2,5 | Período de Referência: Anual¹ | PI-1 (μg/m³): 20 | PI-2 (μg/m³): 17 | PI-3 (μg/m³): 15 | PI-4 (μg/m³): 10 | PF (μg/m³): 5 | PF (ppm): -
-- **Anexo I, Tabela 1, linha 5** {#anexo1_tab1_lin5} #padrao-qualidade #qualidade-ar #padrao-intermediario Poluente Atmosférico: Dióxido de Enxofre - SO2 | Período de Referência: 24 horas | PI-1 (μg/m³): 125 | PI-2 (μg/m³): 50 | PI-3 (μg/m³): 40 | PI-4 (μg/m³): 40 | PF (μg/m³): 40 | PF (ppm): -
-- **Anexo I, Tabela 1, linha 6** {#anexo1_tab1_lin6} #padrao-qualidade #qualidade-ar #padrao-intermediario Poluente Atmosférico: Dióxido de Enxofre - SO2 | Período de Referência: Anual¹ | PI-1 (μg/m³): 40 | PI-2 (μg/m³): 30 | PI-3 (μg/m³): 20 | PI-4 (μg/m³): 20 | PF (μg/m³): 20 | PF (ppm): -
-- **Anexo I, Tabela 1, linha 7** {#anexo1_tab1_lin7} #padrao-qualidade #qualidade-ar #padrao-intermediario Poluente Atmosférico: Dióxido de Nitrogênio - NO2 | Período de Referência: 1 hora² | PI-1 (μg/m³): 260 | PI-2 (μg/m³): 240 | PI-3 (μg/m³): 220 | PI-4 (μg/m³): 200 | PF (μg/m³): 200 | PF (ppm): -
-- **Anexo I, Tabela 1, linha 8** {#anexo1_tab1_lin8} #padrao-qualidade #qualidade-ar #padrao-intermediario Poluente Atmosférico: Dióxido de Nitrogênio - NO2 | Período de Referência: Anual¹ | PI-1 (μg/m³): 60 | PI-2 (μg/m³): 50 | PI-3 (μg/m³): 45 | PI-4 (μg/m³): 40 | PF (μg/m³): 10 | PF (ppm): -
-- **Anexo I, Tabela 1, linha 9** {#anexo1_tab1_lin9} #padrao-qualidade #qualidade-ar #padrao-intermediario Poluente Atmosférico: Ozônio - O3 | Período de Referência: 8 horas ³ | PI-1 (μg/m³): 140 | PI-2 (μg/m³): 130 | PI-3 (μg/m³): 120 | PI-4 (μg/m³): 100 | PF (μg/m³): 100 | PF (ppm): -
-- **Anexo I, Tabela 1, linha 10** {#anexo1_tab1_lin10} #padrao-qualidade #qualidade-ar #padrao-intermediario Poluente Atmosférico: Fumaça | Período de Referência: 24 horas | PI-1 (μg/m³): 120 | PI-2 (μg/m³): 100 | PI-3 (μg/m³): 75 | PI-4 (μg/m³): 50 | PF (μg/m³): 45 | PF (ppm): -
-- **Anexo I, Tabela 1, linha 11** {#anexo1_tab1_lin11} #padrao-qualidade #qualidade-ar #padrao-intermediario Poluente Atmosférico: Fumaça | Período de Referência: Anual¹ | PI-1 (μg/m³): 40 | PI-2 (μg/m³): 35 | PI-3 (μg/m³): 30 | PI-4 (μg/m³): 20 | PF (μg/m³): 15 | PF (ppm): -
-- **Anexo I, Tabela 1, linha 12** {#anexo1_tab1_lin12} #padrao-qualidade #qualidade-ar #padrao-intermediario Poluente Atmosférico: Monóxido de Carbono - CO | Período de Referência: 8 horas ³ | PI-1 (μg/m³): - | PI-2 (μg/m³): - | PI-3 (μg/m³): - | PF (μg/m³): - | PF (ppm): 9
-- **Anexo I, Tabela 1, linha 13** {#anexo1_tab1_lin13} #padrao-qualidade #qualidade-ar #padrao-intermediario Poluente Atmosférico: Partículas Totais em Suspensão - PTS | Período de Referência: 24 horas | PI-1 (μg/m³): - | PI-2 (μg/m³): - | PI-3 (μg/m³): - | PF (μg/m³): 240 | PF (ppm): -
-- **Anexo I, Tabela 1, linha 14** {#anexo1_tab1_lin14} #padrao-qualidade #qualidade-ar #padrao-intermediario Poluente Atmosférico: Partículas Totais em Suspensão - PTS | Período de Referência: Anual⁴ | PI-1 (μg/m³): - | PI-2 (μg/m³): - | PI-3 (μg/m³): - | PF (μg/m³): 80 | PF (ppm): -
-- **Anexo I, Tabela 1, linha 15** {#anexo1_tab1_lin15} #padrao-qualidade #qualidade-ar #padrao-intermediario Poluente Atmosférico: Chumbo - Pb⁵ | Período de Referência: Anual¹ | PI-1 (μg/m³): - | PI-2 (μg/m³): - | PI-3 (μg/m³): - | PF (μg/m³): 0,5 | PF (ppm): -
+- **Anexo I, Tabela 1, linha 1** {#anexo1_tab1_lin1} Poluente Atmosférico: Material Particulado - MP10 | Período de Referência: 24 horas | PI-1 (μg/m³): 120 | PI-2 (μg/m³): 100 | PI-3 (μg/m³): 75 | PI-4 (μg/m³): 50 | PF (μg/m³): 45 | PF (ppm): -
+- **Anexo I, Tabela 1, linha 2** {#anexo1_tab1_lin2} Poluente Atmosférico: Material Particulado - MP10 | Período de Referência: Anual¹ | PI-1 (μg/m³): 40 | PI-2 (μg/m³): 35 | PI-3 (μg/m³): 30 | PI-4 (μg/m³): 20 | PF (μg/m³): 15 | PF (ppm): -
+- **Anexo I, Tabela 1, linha 3** {#anexo1_tab1_lin3} Poluente Atmosférico: Material Particulado - MP2,5 | Período de Referência: 24 horas | PI-1 (μg/m³): 60 | PI-2 (μg/m³): 50 | PI-3 (μg/m³): 37 | PI-4 (μg/m³): 25 | PF (μg/m³): 15 | PF (ppm): -
+- **Anexo I, Tabela 1, linha 4** {#anexo1_tab1_lin4} Poluente Atmosférico: Material Particulado - MP2,5 | Período de Referência: Anual¹ | PI-1 (μg/m³): 20 | PI-2 (μg/m³): 17 | PI-3 (μg/m³): 15 | PI-4 (μg/m³): 10 | PF (μg/m³): 5 | PF (ppm): -
+- **Anexo I, Tabela 1, linha 5** {#anexo1_tab1_lin5} Poluente Atmosférico: Dióxido de Enxofre - SO2 | Período de Referência: 24 horas | PI-1 (μg/m³): 125 | PI-2 (μg/m³): 50 | PI-3 (μg/m³): 40 | PI-4 (μg/m³): 40 | PF (μg/m³): 40 | PF (ppm): -
+- **Anexo I, Tabela 1, linha 6** {#anexo1_tab1_lin6} Poluente Atmosférico: Dióxido de Enxofre - SO2 | Período de Referência: Anual¹ | PI-1 (μg/m³): 40 | PI-2 (μg/m³): 30 | PI-3 (μg/m³): 20 | PI-4 (μg/m³): 20 | PF (μg/m³): 20 | PF (ppm): -
+- **Anexo I, Tabela 1, linha 7** {#anexo1_tab1_lin7} Poluente Atmosférico: Dióxido de Nitrogênio - NO2 | Período de Referência: 1 hora² | PI-1 (μg/m³): 260 | PI-2 (μg/m³): 240 | PI-3 (μg/m³): 220 | PI-4 (μg/m³): 200 | PF (μg/m³): 200 | PF (ppm): -
+- **Anexo I, Tabela 1, linha 8** {#anexo1_tab1_lin8} Poluente Atmosférico: Dióxido de Nitrogênio - NO2 | Período de Referência: Anual¹ | PI-1 (μg/m³): 60 | PI-2 (μg/m³): 50 | PI-3 (μg/m³): 45 | PI-4 (μg/m³): 40 | PF (μg/m³): 10 | PF (ppm): -
+- **Anexo I, Tabela 1, linha 9** {#anexo1_tab1_lin9} Poluente Atmosférico: Ozônio - O3 | Período de Referência: 8 horas ³ | PI-1 (μg/m³): 140 | PI-2 (μg/m³): 130 | PI-3 (μg/m³): 120 | PI-4 (μg/m³): 100 | PF (μg/m³): 100 | PF (ppm): -
+- **Anexo I, Tabela 1, linha 10** {#anexo1_tab1_lin10} Poluente Atmosférico: Fumaça | Período de Referência: 24 horas | PI-1 (μg/m³): 120 | PI-2 (μg/m³): 100 | PI-3 (μg/m³): 75 | PI-4 (μg/m³): 50 | PF (μg/m³): 45 | PF (ppm): -
+- **Anexo I, Tabela 1, linha 11** {#anexo1_tab1_lin11} Poluente Atmosférico: Fumaça | Período de Referência: Anual¹ | PI-1 (μg/m³): 40 | PI-2 (μg/m³): 35 | PI-3 (μg/m³): 30 | PI-4 (μg/m³): 20 | PF (μg/m³): 15 | PF (ppm): -
+- **Anexo I, Tabela 1, linha 12** {#anexo1_tab1_lin12} Poluente Atmosférico: Monóxido de Carbono - CO | Período de Referência: 8 horas ³ | PI-1 (μg/m³): - | PI-2 (μg/m³): - | PI-3 (μg/m³): - | PF (μg/m³): - | PF (ppm): 9
+- **Anexo I, Tabela 1, linha 13** {#anexo1_tab1_lin13} Poluente Atmosférico: Partículas Totais em Suspensão - PTS | Período de Referência: 24 horas | PI-1 (μg/m³): - | PI-2 (μg/m³): - | PI-3 (μg/m³): - | PF (μg/m³): 240 | PF (ppm): -
+- **Anexo I, Tabela 1, linha 14** {#anexo1_tab1_lin14} Poluente Atmosférico: Partículas Totais em Suspensão - PTS | Período de Referência: Anual⁴ | PI-1 (μg/m³): - | PI-2 (μg/m³): - | PI-3 (μg/m³): - | PF (μg/m³): 80 | PF (ppm): -
+- **Anexo I, Tabela 1, linha 15** {#anexo1_tab1_lin15} Poluente Atmosférico: Chumbo - Pb⁵ | Período de Referência: Anual¹ | PI-1 (μg/m³): - | PI-2 (μg/m³): - | PI-3 (μg/m³): - | PF (μg/m³): 0,5 | PF (ppm): -
 
 - **Anexo I, nota 1** {#anexo1_lin2} 1 - média aritmética anual
 - **Anexo I, nota 2** {#anexo1_lin3} 2 - máxima média horária obtida no dia
@@ -195,9 +183,9 @@ MARINA SILVA – Presidente do Conselho
 
 **Anexo II, Tabela 1 – Índice de Qualidade do Ar (sem título no original)** {#anexo2_tab1}
 
-- **Anexo II, Tabela 1, linha 1** {#anexo2_tab1_lin1} #iqar #qualidade-ar Qualidade: N1 - Boa | Índice: 0 - 40 | MP₁₀ (μg/m³, 24h): 0 - 45 | MP₂,₅ (μg/m³, 24h): 0 - 15 | O₃ (μg/m³, 8h): 0 - 100 | CO (ppm, 8h): 0 - 9 | NO₂ (μg/m³, 1h): 0 - 200 | SO₂ (μg/m³, 24h): 0 - 40
+- **Anexo II, Tabela 1, linha 1** {#anexo2_tab1_lin1} Qualidade: N1 - Boa | Índice: 0 - 40 | MP₁₀ (μg/m³, 24h): 0 - 45 | MP₂,₅ (μg/m³, 24h): 0 - 15 | O₃ (μg/m³, 8h): 0 - 100 | CO (ppm, 8h): 0 - 9 | NO₂ (μg/m³, 1h): 0 - 200 | SO₂ (μg/m³, 24h): 0 - 40
 
-- **Anexo II, Equação 1** {#anexo2_lin1} #iqar Equação 1 - Cálculo do Índice de Qualidade do Ar: IQAr = Iini + [(Ifin - Iini) / (Cfin - Cini)] × (C - Cini)
+- **Anexo II, Equação 1** {#anexo2_lin1} Equação 1 - Cálculo do Índice de Qualidade do Ar: IQAr = Iini + [(Ifin - Iini) / (Cfin - Cini)] × (C - Cini)
 - **Anexo II, Onde, Iini** {#anexo2_lin2} Iini = valor do índice que corresponde à concentração inicial da faixa.
 - **Anexo II, Onde, Ifin** {#anexo2_lin3} Ifin = valor do índice que corresponde à concentração final da faixa.
 - **Anexo II, Onde, Cini** {#anexo2_lin4} Cini = concentração inicial da faixa onde se localiza a concentração medida.

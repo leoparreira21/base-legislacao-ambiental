@@ -35,7 +35,6 @@ fonte: "Planalto – texto da Lei nº 15.190/2025 impresso do navegador (36 pág
 ## CAPÍTULO I – DISPOSIÇÕES PRELIMINARES
 
 ###### Art. 1º {#art1}
-Tags: #licenciamento-ambiental #ambito-aplicacao
 
 **Art. 1º, caput** {#art1_cpt} Esta Lei, denominada Lei Geral do Licenciamento Ambiental, estabelece normas gerais para o licenciamento de atividade ou de empreendimento utilizador de recursos ambientais, efetiva ou potencialmente poluidor ou capaz, sob qualquer forma, de causar degradação do meio ambiente, previsto no [[lei-federal-6938-1981#art10|art. 10 da Lei nº 6.938, de 31 de agosto de 1981]].
 
@@ -44,7 +43,6 @@ Tags: #licenciamento-ambiental #ambito-aplicacao
 **Art. 1º, § 2º** {#art1_par2} O licenciamento ambiental deve prezar pela participação pública, pela transparência, pela preponderância do interesse público, pela celeridade e economia processual, pela prevenção do dano ambiental, pelo desenvolvimento sustentável, pela análise dos impactos e, quando couber, dos riscos ambientais.
 
 ###### Art. 2º {#art2}
-Tags: #licenciamento-ambiental #cooperacao-institucional
 
 **Art. 2º, caput** {#art2_cpt} Observadas as disposições desta Lei, são diretrizes para o licenciamento ambiental:
 
@@ -56,57 +54,55 @@ Tags: #licenciamento-ambiental #cooperacao-institucional
 - **Art. 2º, caput, inciso VI** {#art2_cpt_inc6} a cooperação entre os entes federados, nos termos da [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 8 de dezembro de 2011]].
 
 ###### Art. 3º {#art3}
-Tags: #definicao #autorizacao-ambiental #las #lor #lasr
 Alterações: caput, incisos XXXVII, XXXVIII e XXXIX: incluídos pela [[lei-federal-15300-2025#art7_cpt_alt1|Lei nº 15.300, de 2025]]
 
 **Art. 3º, caput** {#art3_cpt} Para os efeitos desta Lei, entende-se por:
 
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} licenciamento ambiental: processo administrativo destinado a licenciar atividade ou empreendimento utilizador de recursos ambientais, efetiva ou potencialmente poluidor ou capaz, sob qualquer forma, de causar degradação do meio ambiente;
 - **Art. 3º, caput, inciso II** {#art3_cpt_inc2} autoridade licenciadora: órgão ou entidade da União, dos Estados, do Distrito Federal e dos Municípios, integrante do Sisnama, competente pelo licenciamento ambiental na forma da [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 8 de dezembro de 2011]], que detém o poder decisório e responde pela emissão, renovação, acompanhamento e fiscalização das respectivas licenças ambientais;
-- **Art. 3º, caput, inciso III** {#art3_cpt_inc3} #autoridade-envolvida autoridade envolvida: órgão ou entidade que, nos casos previstos na legislação, pode manifestar-se no licenciamento ambiental acerca dos impactos da atividade ou do empreendimento sobre as terras indígenas ou quilombolas, sobre o patrimônio cultural acautelado ou sobre as unidades de conservação da natureza;
-- **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} #condicionante condicionantes ambientais: medidas, condições ou restrições sob responsabilidade do empreendedor, estabelecidas no âmbito das licenças ambientais pela autoridade licenciadora, de modo a prevenir, a mitigar ou a compensar os impactos ambientais negativos identificados nos estudos ambientais, observados os requisitos estabelecidos nesta Lei;
-- **Art. 3º, caput, inciso V** {#art3_cpt_inc5} #audiencia-publica audiência pública: modalidade de participação no licenciamento ambiental, de forma presencial ou remota, aberta ao público em geral, na qual deve ser apresentado, em linguagem acessível, o conteúdo da proposta em avaliação e dos respectivos estudos, especialmente as características da atividade ou do empreendimento e de suas alternativas, os impactos ambientais e as medidas preventivas, mitigadoras e compensatórias, com o objetivo de dirimir dúvidas e de recolher críticas e sugestões;
-- **Art. 3º, caput, inciso VI** {#art3_cpt_inc6} #consulta-publica consulta pública: modalidade de participação remota no licenciamento ambiental, pela qual a autoridade licenciadora recebe contribuições, por escrito e em meio digital, de qualquer interessado;
+- **Art. 3º, caput, inciso III** {#art3_cpt_inc3} autoridade envolvida: órgão ou entidade que, nos casos previstos na legislação, pode manifestar-se no licenciamento ambiental acerca dos impactos da atividade ou do empreendimento sobre as terras indígenas ou quilombolas, sobre o patrimônio cultural acautelado ou sobre as unidades de conservação da natureza;
+- **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} condicionantes ambientais: medidas, condições ou restrições sob responsabilidade do empreendedor, estabelecidas no âmbito das licenças ambientais pela autoridade licenciadora, de modo a prevenir, a mitigar ou a compensar os impactos ambientais negativos identificados nos estudos ambientais, observados os requisitos estabelecidos nesta Lei;
+- **Art. 3º, caput, inciso V** {#art3_cpt_inc5} audiência pública: modalidade de participação no licenciamento ambiental, de forma presencial ou remota, aberta ao público em geral, na qual deve ser apresentado, em linguagem acessível, o conteúdo da proposta em avaliação e dos respectivos estudos, especialmente as características da atividade ou do empreendimento e de suas alternativas, os impactos ambientais e as medidas preventivas, mitigadoras e compensatórias, com o objetivo de dirimir dúvidas e de recolher críticas e sugestões;
+- **Art. 3º, caput, inciso VI** {#art3_cpt_inc6} consulta pública: modalidade de participação remota no licenciamento ambiental, pela qual a autoridade licenciadora recebe contribuições, por escrito e em meio digital, de qualquer interessado;
 - **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} reunião participativa: modalidade de participação no licenciamento ambiental, de forma presencial ou remota, pela qual a autoridade licenciadora solicita contribuições para auxiliá-la na tomada de decisões;
 - **Art. 3º, caput, inciso VIII** {#art3_cpt_inc8} tomada de subsídios técnicos: modalidade de participação presencial ou remota no licenciamento ambiental, pela qual a autoridade licenciadora solicita contribuições técnicas a especialistas convidados, com o objetivo de auxiliá-la na tomada de decisões;
 - **Art. 3º, caput, inciso IX** {#art3_cpt_inc9} empreendedor: pessoa física ou jurídica, de direito público ou privado, responsável por atividade ou por empreendimento utilizador de recursos ambientais, efetiva ou potencialmente poluidor ou capaz, sob qualquer forma, de causar degradação do meio ambiente;
-- **Art. 3º, caput, inciso X** {#art3_cpt_inc10} #impacto-ambiental impacto ambiental: alteração adversa ou benéfica no meio ambiente causada por empreendimento ou por atividade em sua área de influência, considerados os meios físico, biótico e socioeconômico;
-- **Art. 3º, caput, inciso XI** {#art3_cpt_inc11} #impacto-ambiental impactos ambientais diretos: impactos de primeira ordem causados pela atividade ou pelo empreendimento sujeito a licenciamento ambiental;
-- **Art. 3º, caput, inciso XII** {#art3_cpt_inc12} #impacto-ambiental impactos ambientais indiretos: impactos de segunda ordem em diante, derivados dos impactos diretos causados pela atividade ou pelo empreendimento sujeito ao licenciamento ambiental;
-- **Art. 3º, caput, inciso XIII** {#art3_cpt_inc13} #area-influencia Área Diretamente Afetada (ADA): área de intervenção direta da atividade ou do empreendimento, necessária para a sua construção, instalação, operação e, quando couber, ampliação e desativação;
-- **Art. 3º, caput, inciso XIV** {#art3_cpt_inc14} #area-influencia Área de Estudo (AE): área em que se presume a ocorrência de impacto ambiental para determinada tipologia de atividade ou de empreendimento utilizador de recursos ambientais, efetiva ou potencialmente poluidor ou capaz, sob qualquer forma, de causar degradação do meio ambiente;
-- **Art. 3º, caput, inciso XV** {#art3_cpt_inc15} #aid Área de Influência Direta (AID): área afetada pelos alcances geográficos dos impactos ambientais diretos causados pela atividade ou pelo empreendimento sujeito a licenciamento ambiental, conforme delimitação apontada no estudo ambiental e aprovada pela autoridade licenciadora;
-- **Art. 3º, caput, inciso XVI** {#art3_cpt_inc16} #aii Área de Influência Indireta (AII): área afetada pelos alcances geográficos dos impactos ambientais indiretos causados pela atividade ou pelo empreendimento sujeito a licenciamento ambiental, conforme delimitação apontada no estudo ambiental e aprovada pela autoridade licenciadora;
-- **Art. 3º, caput, inciso XVII** {#art3_cpt_inc17} #estudo-ambiental estudo ambiental: estudo ou relatório relativo aos impactos e, quando couber, aos riscos ambientais da atividade ou do empreendimento sujeito a licenciamento ambiental;
-- **Art. 3º, caput, inciso XVIII** {#art3_cpt_inc18} #eia-rima estudo prévio de impacto ambiental (EIA): estudo ambiental de atividade ou de empreendimento utilizador de recursos ambientais, efetiva ou potencialmente causador de significativa degradação do meio ambiente, realizado previamente à análise de sua viabilidade ambiental;
-- **Art. 3º, caput, inciso XIX** {#art3_cpt_inc19} #eia-rima Relatório de Impacto Ambiental (Rima): documento que reflete as conclusões do EIA, apresentado de forma objetiva e com informações em linguagem acessível ao público em geral, de modo que se possam entender as vantagens e as desvantagens da atividade ou do empreendimento, bem como as consequências ambientais de sua implantação;
-- **Art. 3º, caput, inciso XX** {#art3_cpt_inc20} #pba Plano Básico Ambiental (PBA): estudo apresentado, na fase de Licença de Instalação (LI), à autoridade licenciadora nos casos sujeitos à elaboração de EIA, que compreende o detalhamento dos programas, dos projetos e das ações de prevenção, mitigação, controle, monitoramento e compensação dos impactos ambientais negativos decorrentes da instalação e operação da atividade ou do empreendimento;
-- **Art. 3º, caput, inciso XXI** {#art3_cpt_inc21} #pca Plano de Controle Ambiental (PCA): estudo apresentado à autoridade licenciadora nas hipóteses previstas nesta Lei, que compreende o detalhamento dos programas, dos projetos e das ações de mitigação, controle, monitoramento e compensação dos impactos ambientais negativos;
-- **Art. 3º, caput, inciso XXII** {#art3_cpt_inc22} #rca Relatório de Controle Ambiental (RCA): estudo exigido nas hipóteses previstas nesta Lei, que contém dados e informações da atividade ou do empreendimento e do local em que se insere, identificação dos impactos ambientais e proposição de medidas mitigadoras, de controle e de monitoramento ambiental;
-- **Art. 3º, caput, inciso XXIII** {#art3_cpt_inc23} #rce Relatório de Caracterização do Empreendimento (RCE): documento a ser apresentado nas hipóteses previstas nesta Lei, que contém caracterização e informações técnicas sobre a instalação e a operação da atividade ou do empreendimento;
-- **Art. 3º, caput, inciso XXIV** {#art3_cpt_inc24} #termo-referencia Termo de Referência (TR): documento emitido pela autoridade licenciadora, que estabelece o escopo dos estudos a serem apresentados pelo empreendedor no licenciamento ambiental para avaliação dos impactos e, quando couber, dos riscos ambientais decorrentes da atividade ou do empreendimento;
-- **Art. 3º, caput, inciso XXV** {#art3_cpt_inc25} #licenca-ambiental licença ambiental: ato administrativo por meio do qual a autoridade licenciadora, consideradas as disposições legais e regulamentares e as normas técnicas aplicáveis ao caso, atesta a viabilidade da instalação, da ampliação e da operação de atividade ou de empreendimento sujeito a licenciamento ambiental e estabelece as condicionantes ambientais cabíveis;
-- **Art. 3º, caput, inciso XXVI** {#art3_cpt_inc26} #autorizacao-ambiental Licença Ambiental Especial (LAE): ato administrativo expedido pela autoridade licenciadora que estabelece condicionantes a ser observadas e cumpridas pelo empreendedor para localização, instalação e operação de atividade ou de empreendimento estratégico, ainda que utilizador de recursos ambientais, efetiva ou potencialmente causador de significativa degradação do meio ambiente;
-- **Art. 3º, caput, inciso XXVII** {#art3_cpt_inc27} #lac Licença Ambiental por Adesão e Compromisso (LAC): licença que atesta a viabilidade da instalação, da ampliação e da operação de atividade ou de empreendimento que observe as condições previstas nesta Lei, mediante declaração de adesão e compromisso do empreendedor com os requisitos preestabelecidos pela autoridade licenciadora;
-- **Art. 3º, caput, inciso XXVIII** {#art3_cpt_inc28} #las Licença Ambiental Única (LAU): licença que, em uma única etapa, atesta a viabilidade da instalação, da ampliação e da operação de atividade ou de empreendimento, aprova as ações de controle e monitoramento ambiental e estabelece condicionantes ambientais para a sua instalação e operação e, quando necessário, para a sua desativação;
-- **Art. 3º, caput, inciso XXIX** {#art3_cpt_inc29} #lp Licença Prévia (LP): licença que atesta, na fase de planejamento, a viabilidade ambiental de atividade ou de empreendimento quanto à sua concepção e localização, e estabelece requisitos e condicionantes ambientais;
-- **Art. 3º, caput, inciso XXX** {#art3_cpt_inc30} #li Licença de Instalação (LI): licença que permite a instalação de atividade ou de empreendimento, aprova os planos, os programas e os projetos de prevenção, de mitigação ou de compensação dos impactos ambientais negativos e estabelece condicionantes ambientais;
-- **Art. 3º, caput, inciso XXXI** {#art3_cpt_inc31} #lo Licença de Operação (LO): licença que permite a operação de atividade ou de empreendimento, aprova as ações de controle e monitoramento ambiental e estabelece condicionantes ambientais para a operação e, quando necessário, para a sua desativação;
-- **Art. 3º, caput, inciso XXXII** {#art3_cpt_inc32} #lor #lasr Licença de Operação Corretiva (LOC): licença que, observadas as condições previstas nesta Lei, regulariza atividade ou empreendimento que esteja operando sem licença ambiental, por meio da fixação de condicionantes que viabilizam sua continuidade em conformidade com as normas ambientais;
-- **Art. 3º, caput, inciso XXXIII** {#art3_cpt_inc33} #tipologia tipologia da atividade ou do empreendimento: produto da relação entre natureza da atividade ou do empreendimento com o seu porte e potencial poluidor;
-- **Art. 3º, caput, inciso XXXIV** {#art3_cpt_inc34} #cnae natureza da atividade ou do empreendimento: designação da atividade ou do empreendimento de acordo com os grupos de atividades econômicas adotados pela Classificação Nacional de Atividades Econômicas (CNAE);
-- **Art. 3º, caput, inciso XXXV** {#art3_cpt_inc35} #porte porte da atividade ou do empreendimento: dimensionamento da atividade ou do empreendimento com base em critérios preestabelecidos pelo ente federativo competente, respeitadas as atribuições previstas na [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 8 de dezembro de 2011]]; *(Promulgação partes vetadas)*
-- **Art. 3º, caput, inciso XXXVI** {#art3_cpt_inc36} #potencial-poluidor potencial poluidor da atividade ou do empreendimento: avaliação qualitativa ou quantitativa que mede a capacidade de a atividade ou de o empreendimento vir a causar impacto ambiental negativo, baseada em critérios preestabelecidos pelo ente federativo competente, respeitadas as atribuições previstas na [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 8 de dezembro de 2011]]. *(Promulgação partes vetadas)*
+- **Art. 3º, caput, inciso X** {#art3_cpt_inc10} impacto ambiental: alteração adversa ou benéfica no meio ambiente causada por empreendimento ou por atividade em sua área de influência, considerados os meios físico, biótico e socioeconômico;
+- **Art. 3º, caput, inciso XI** {#art3_cpt_inc11} impactos ambientais diretos: impactos de primeira ordem causados pela atividade ou pelo empreendimento sujeito a licenciamento ambiental;
+- **Art. 3º, caput, inciso XII** {#art3_cpt_inc12} impactos ambientais indiretos: impactos de segunda ordem em diante, derivados dos impactos diretos causados pela atividade ou pelo empreendimento sujeito ao licenciamento ambiental;
+- **Art. 3º, caput, inciso XIII** {#art3_cpt_inc13} Área Diretamente Afetada (ADA): área de intervenção direta da atividade ou do empreendimento, necessária para a sua construção, instalação, operação e, quando couber, ampliação e desativação;
+- **Art. 3º, caput, inciso XIV** {#art3_cpt_inc14} Área de Estudo (AE): área em que se presume a ocorrência de impacto ambiental para determinada tipologia de atividade ou de empreendimento utilizador de recursos ambientais, efetiva ou potencialmente poluidor ou capaz, sob qualquer forma, de causar degradação do meio ambiente;
+- **Art. 3º, caput, inciso XV** {#art3_cpt_inc15} Área de Influência Direta (AID): área afetada pelos alcances geográficos dos impactos ambientais diretos causados pela atividade ou pelo empreendimento sujeito a licenciamento ambiental, conforme delimitação apontada no estudo ambiental e aprovada pela autoridade licenciadora;
+- **Art. 3º, caput, inciso XVI** {#art3_cpt_inc16} Área de Influência Indireta (AII): área afetada pelos alcances geográficos dos impactos ambientais indiretos causados pela atividade ou pelo empreendimento sujeito a licenciamento ambiental, conforme delimitação apontada no estudo ambiental e aprovada pela autoridade licenciadora;
+- **Art. 3º, caput, inciso XVII** {#art3_cpt_inc17} estudo ambiental: estudo ou relatório relativo aos impactos e, quando couber, aos riscos ambientais da atividade ou do empreendimento sujeito a licenciamento ambiental;
+- **Art. 3º, caput, inciso XVIII** {#art3_cpt_inc18} estudo prévio de impacto ambiental (EIA): estudo ambiental de atividade ou de empreendimento utilizador de recursos ambientais, efetiva ou potencialmente causador de significativa degradação do meio ambiente, realizado previamente à análise de sua viabilidade ambiental;
+- **Art. 3º, caput, inciso XIX** {#art3_cpt_inc19} Relatório de Impacto Ambiental (Rima): documento que reflete as conclusões do EIA, apresentado de forma objetiva e com informações em linguagem acessível ao público em geral, de modo que se possam entender as vantagens e as desvantagens da atividade ou do empreendimento, bem como as consequências ambientais de sua implantação;
+- **Art. 3º, caput, inciso XX** {#art3_cpt_inc20} Plano Básico Ambiental (PBA): estudo apresentado, na fase de Licença de Instalação (LI), à autoridade licenciadora nos casos sujeitos à elaboração de EIA, que compreende o detalhamento dos programas, dos projetos e das ações de prevenção, mitigação, controle, monitoramento e compensação dos impactos ambientais negativos decorrentes da instalação e operação da atividade ou do empreendimento;
+- **Art. 3º, caput, inciso XXI** {#art3_cpt_inc21} Plano de Controle Ambiental (PCA): estudo apresentado à autoridade licenciadora nas hipóteses previstas nesta Lei, que compreende o detalhamento dos programas, dos projetos e das ações de mitigação, controle, monitoramento e compensação dos impactos ambientais negativos;
+- **Art. 3º, caput, inciso XXII** {#art3_cpt_inc22} Relatório de Controle Ambiental (RCA): estudo exigido nas hipóteses previstas nesta Lei, que contém dados e informações da atividade ou do empreendimento e do local em que se insere, identificação dos impactos ambientais e proposição de medidas mitigadoras, de controle e de monitoramento ambiental;
+- **Art. 3º, caput, inciso XXIII** {#art3_cpt_inc23} Relatório de Caracterização do Empreendimento (RCE): documento a ser apresentado nas hipóteses previstas nesta Lei, que contém caracterização e informações técnicas sobre a instalação e a operação da atividade ou do empreendimento;
+- **Art. 3º, caput, inciso XXIV** {#art3_cpt_inc24} Termo de Referência (TR): documento emitido pela autoridade licenciadora, que estabelece o escopo dos estudos a serem apresentados pelo empreendedor no licenciamento ambiental para avaliação dos impactos e, quando couber, dos riscos ambientais decorrentes da atividade ou do empreendimento;
+- **Art. 3º, caput, inciso XXV** {#art3_cpt_inc25} licença ambiental: ato administrativo por meio do qual a autoridade licenciadora, consideradas as disposições legais e regulamentares e as normas técnicas aplicáveis ao caso, atesta a viabilidade da instalação, da ampliação e da operação de atividade ou de empreendimento sujeito a licenciamento ambiental e estabelece as condicionantes ambientais cabíveis;
+- **Art. 3º, caput, inciso XXVI** {#art3_cpt_inc26} Licença Ambiental Especial (LAE): ato administrativo expedido pela autoridade licenciadora que estabelece condicionantes a ser observadas e cumpridas pelo empreendedor para localização, instalação e operação de atividade ou de empreendimento estratégico, ainda que utilizador de recursos ambientais, efetiva ou potencialmente causador de significativa degradação do meio ambiente;
+- **Art. 3º, caput, inciso XXVII** {#art3_cpt_inc27} Licença Ambiental por Adesão e Compromisso (LAC): licença que atesta a viabilidade da instalação, da ampliação e da operação de atividade ou de empreendimento que observe as condições previstas nesta Lei, mediante declaração de adesão e compromisso do empreendedor com os requisitos preestabelecidos pela autoridade licenciadora;
+- **Art. 3º, caput, inciso XXVIII** {#art3_cpt_inc28} Licença Ambiental Única (LAU): licença que, em uma única etapa, atesta a viabilidade da instalação, da ampliação e da operação de atividade ou de empreendimento, aprova as ações de controle e monitoramento ambiental e estabelece condicionantes ambientais para a sua instalação e operação e, quando necessário, para a sua desativação;
+- **Art. 3º, caput, inciso XXIX** {#art3_cpt_inc29} Licença Prévia (LP): licença que atesta, na fase de planejamento, a viabilidade ambiental de atividade ou de empreendimento quanto à sua concepção e localização, e estabelece requisitos e condicionantes ambientais;
+- **Art. 3º, caput, inciso XXX** {#art3_cpt_inc30} Licença de Instalação (LI): licença que permite a instalação de atividade ou de empreendimento, aprova os planos, os programas e os projetos de prevenção, de mitigação ou de compensação dos impactos ambientais negativos e estabelece condicionantes ambientais;
+- **Art. 3º, caput, inciso XXXI** {#art3_cpt_inc31} Licença de Operação (LO): licença que permite a operação de atividade ou de empreendimento, aprova as ações de controle e monitoramento ambiental e estabelece condicionantes ambientais para a operação e, quando necessário, para a sua desativação;
+- **Art. 3º, caput, inciso XXXII** {#art3_cpt_inc32} Licença de Operação Corretiva (LOC): licença que, observadas as condições previstas nesta Lei, regulariza atividade ou empreendimento que esteja operando sem licença ambiental, por meio da fixação de condicionantes que viabilizam sua continuidade em conformidade com as normas ambientais;
+- **Art. 3º, caput, inciso XXXIII** {#art3_cpt_inc33} tipologia da atividade ou do empreendimento: produto da relação entre natureza da atividade ou do empreendimento com o seu porte e potencial poluidor;
+- **Art. 3º, caput, inciso XXXIV** {#art3_cpt_inc34} natureza da atividade ou do empreendimento: designação da atividade ou do empreendimento de acordo com os grupos de atividades econômicas adotados pela Classificação Nacional de Atividades Econômicas (CNAE);
+- **Art. 3º, caput, inciso XXXV** {#art3_cpt_inc35} porte da atividade ou do empreendimento: dimensionamento da atividade ou do empreendimento com base em critérios preestabelecidos pelo ente federativo competente, respeitadas as atribuições previstas na [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 8 de dezembro de 2011]]; *(Promulgação partes vetadas)*
+- **Art. 3º, caput, inciso XXXVI** {#art3_cpt_inc36} potencial poluidor da atividade ou do empreendimento: avaliação qualitativa ou quantitativa que mede a capacidade de a atividade ou de o empreendimento vir a causar impacto ambiental negativo, baseada em critérios preestabelecidos pelo ente federativo competente, respeitadas as atribuições previstas na [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 8 de dezembro de 2011]]. *(Promulgação partes vetadas)*
 - **Art. 3º, caput, inciso XXXVII** {#art3_cpt_inc37} #incluido medida preventiva: medida adotada antes de uma ação ou evento que possa causar impacto ambiental negativo, buscando evitar que ele ocorra; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt1|Lei nº 15.300, de 2025]])*
-- **Art. 3º, caput, inciso XXXVIII** {#art3_cpt_inc38} #medida-mitigadora #incluido medida mitigadora: medida adotada com o objetivo de amenizar os efeitos esperados de uma ação ou evento que possa causar impacto ambiental negativo; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt1|Lei nº 15.300, de 2025]])*
-- **Art. 3º, caput, inciso XXXIX** {#art3_cpt_inc39} #medida-compensatoria #incluido medida compensatória: medida aplicada ao impacto concretizado mesmo após a aplicação das medidas preventivas e mitigadoras e que objetiva substituir um bem perdido, alterado ou descaracterizado por outro que seja entendido como equivalente ou que desempenhe função equivalente. *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt1|Lei nº 15.300, de 2025]])*
+- **Art. 3º, caput, inciso XXXVIII** {#art3_cpt_inc38} #incluido medida mitigadora: medida adotada com o objetivo de amenizar os efeitos esperados de uma ação ou evento que possa causar impacto ambiental negativo; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt1|Lei nº 15.300, de 2025]])*
+- **Art. 3º, caput, inciso XXXIX** {#art3_cpt_inc39} #incluido medida compensatória: medida aplicada ao impacto concretizado mesmo após a aplicação das medidas preventivas e mitigadoras e que objetiva substituir um bem perdido, alterado ou descaracterizado por outro que seja entendido como equivalente ou que desempenhe função equivalente. *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt1|Lei nº 15.300, de 2025]])*
 
 ## CAPÍTULO II – DO LICENCIAMENTO AMBIENTAL
 
 ### Seção I – Disposições Gerais
 
 ###### Art. 4º {#art4}
-Tags: #licenciamento-ambiental #tipologia #competencia #responsavel-tecnico #art-anotacao
 
 **Art. 4º, caput** {#art4_cpt} A construção, a instalação, a ampliação e a operação de atividade ou de empreendimento utilizador de recursos ambientais, efetiva ou potencialmente poluidor ou capaz, sob qualquer forma, de causar degradação do meio ambiente estão sujeitas a prévio licenciamento ambiental perante a autoridade licenciadora integrante do Sisnama, sem prejuízo das demais licenças, outorgas e autorizações cabíveis.
 
@@ -117,26 +113,25 @@ Tags: #licenciamento-ambiental #tipologia #competencia #responsavel-tecnico #art
 **Art. 4º, § 3º** {#art4_par3} A responsabilidade técnica pela atividade e pelo empreendimento de que trata o [[#art4_cpt|caput]] deste artigo será exercida por profissionais habilitados, de nível médio ou superior, com formação compatível com a tipologia, a complexidade e a área de conhecimento da atividade ou do empreendimento e obrigatório registro de sua condição e atuação em documento de responsabilidade técnica perante o respectivo conselho de fiscalização profissional.
 
 ###### Art. 5º {#art5}
-Tags: #licenca-ambiental #lp #li #lo #lac #licenciamento-bifasico #las #lor #lasr #autorizacao-ambiental
 
 **Art. 5º, caput** {#art5_cpt} O licenciamento ambiental pode resultar nos seguintes tipos de licença:
 
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} Licença Prévia (LP);
 - **Art. 5º, caput, inciso II** {#art5_cpt_inc2} Licença de Instalação (LI);
 - **Art. 5º, caput, inciso III** {#art5_cpt_inc3} Licença de Operação (LO);
-- **Art. 5º, caput, inciso IV** {#art5_cpt_inc4} #las Licença Ambiental Única (LAU);
+- **Art. 5º, caput, inciso IV** {#art5_cpt_inc4} Licença Ambiental Única (LAU);
 - **Art. 5º, caput, inciso V** {#art5_cpt_inc5} Licença por Adesão e Compromisso (LAC);
-- **Art. 5º, caput, inciso VI** {#art5_cpt_inc6} #lor #lasr Licença de Operação Corretiva (LOC);
-- **Art. 5º, caput, inciso VII** {#art5_cpt_inc7} #autorizacao-ambiental Licença Ambiental Especial (LAE).
+- **Art. 5º, caput, inciso VI** {#art5_cpt_inc6} Licença de Operação Corretiva (LOC);
+- **Art. 5º, caput, inciso VII** {#art5_cpt_inc7} Licença Ambiental Especial (LAE).
 
 **Art. 5º, § 1º** {#art5_par1} São requisitos para a emissão da licença ambiental:
 
-- **Art. 5º, § 1º, inciso I** {#art5_par1_inc1} #autorizacao-ambiental EIA ou demais estudos ambientais, conforme TR definido pela autoridade licenciadora, para a LP e a LAE;
+- **Art. 5º, § 1º, inciso I** {#art5_par1_inc1} EIA ou demais estudos ambientais, conforme TR definido pela autoridade licenciadora, para a LP e a LAE;
 - **Art. 5º, § 1º, inciso II** {#art5_par1_inc2} PBA, acompanhado dos elementos de projeto de engenharia e de relatório de cumprimento das condicionantes ambientais, conforme cronograma físico, para a LI;
 - **Art. 5º, § 1º, inciso III** {#art5_par1_inc3} relatório de cumprimento das condicionantes ambientais, conforme cronograma físico, para a LO;
-- **Art. 5º, § 1º, inciso IV** {#art5_par1_inc4} #las RCA, PCA e elementos técnicos da atividade ou do empreendimento, para a LAU;
+- **Art. 5º, § 1º, inciso IV** {#art5_par1_inc4} RCA, PCA e elementos técnicos da atividade ou do empreendimento, para a LAU;
 - **Art. 5º, § 1º, inciso V** {#art5_par1_inc5} RCE, para a LAC;
-- **Art. 5º, § 1º, inciso VI** {#art5_par1_inc6} #lor #lasr RCA e PCA, para a LOC, conforme procedimento previsto no art. [[#art26|26]] desta Lei.
+- **Art. 5º, § 1º, inciso VI** {#art5_par1_inc6} RCA e PCA, para a LOC, conforme procedimento previsto no art. [[#art26|26]] desta Lei.
 
 **Art. 5º, § 2º** {#art5_par2} Sem prejuízo das disposições desta Lei, tendo em vista a natureza, as características e as peculiaridades da atividade ou do empreendimento, podem ser definidas licenças específicas por ato normativo dos entes federativos competentes, de acordo com a [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 8 de dezembro de 2011]].
 
@@ -149,13 +144,12 @@ Tags: #licenca-ambiental #lp #li #lo #lac #licenciamento-bifasico #las #lor #las
 **Art. 5º, § 6º** {#art5_par6} As licenças ambientais podem, a critério da autoridade licenciadora, contemplar o objeto das autorizações de supressão de vegetação e de manejo de fauna, observada a legislação pertinente.
 
 ###### Art. 6º {#art6}
-Tags: #licenca-ambiental #validade #prazo #lp #li #lo #lac #las #lor #lasr #autorizacao-ambiental
 
 **Art. 6º, caput** {#art6_cpt} As licenças ambientais devem ser emitidas com a observância dos seguintes prazos de validade:
 
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} para a LP, no mínimo, 3 (três) anos e, no máximo, 6 (seis) anos, considerado o estabelecido pelo cronograma de elaboração dos planos, dos programas e dos projetos relativos à atividade ou ao empreendimento aprovado pela autoridade licenciadora;
 - **Art. 6º, caput, inciso II** {#art6_cpt_inc2} para a LI e a LP aglutinada à LI do procedimento bifásico (LP/LI), no mínimo, 3 (três) anos e, no máximo, 6 (seis) anos, considerado o estabelecido pelo cronograma de instalação da atividade ou do empreendimento aprovado pela autoridade licenciadora;
-- **Art. 6º, caput, inciso III** {#art6_cpt_inc3} #las #lor #lasr #autorizacao-ambiental para a LAU, a LO, a LI aglutinada à LO do procedimento bifásico (LI/LO), a LOC e a LAE, no mínimo, 5 (cinco) anos e, no máximo, 10 (dez) anos, considerados os planos de controle ambiental;
+- **Art. 6º, caput, inciso III** {#art6_cpt_inc3} para a LAU, a LO, a LI aglutinada à LO do procedimento bifásico (LI/LO), a LOC e a LAE, no mínimo, 5 (cinco) anos e, no máximo, 10 (dez) anos, considerados os planos de controle ambiental;
 - **Art. 6º, caput, inciso IV** {#art6_cpt_inc4} para a LAC, no mínimo, 5 (cinco) anos e, no máximo, 10 (dez) anos, consideradas as informações apresentadas no RCE.
 
 **Art. 6º, § 1º** {#art6_par1} Os prazos previstos no [[#art6_cpt_inc3|inciso III]] do [[#art6_cpt|caput]] deste artigo devem ser ajustados pela autoridade licenciadora se a atividade ou o empreendimento tiver tempo de finalização inferior a eles.
@@ -163,7 +157,6 @@ Tags: #licenca-ambiental #validade #prazo #lp #li #lo #lac #las #lor #lasr #auto
 **Art. 6º, § 2º** {#art6_par2} Os prazos máximos de validade das licenças referidas no [[#art6_cpt_inc3|inciso III]] do [[#art6_cpt|caput]] deste artigo devem ser estabelecidos pela autoridade licenciadora, de forma justificada, vedada a emissão de licenças por período indeterminado.
 
 ###### Art. 7º {#art7}
-Tags: #renovacao #prorrogacao-automatica #validade #licenca-ambiental #las
 
 **Art. 7º, caput** {#art7_cpt} Quando requerida a renovação da licença ambiental com antecedência mínima de 120 (cento e vinte) dias da expiração de seu prazo de validade, ficará este automaticamente prorrogado até a manifestação definitiva da autoridade licenciadora.
 
@@ -174,9 +167,9 @@ Tags: #renovacao #prorrogacao-automatica #validade #licenca-ambiental #las
 - **Art. 7º, § 2º, inciso I** {#art7_par2_inc1} a da LP é precedida de análise das condições que atestaram a viabilidade da atividade ou do empreendimento, determinando-se os devidos ajustes, se necessários;
 - **Art. 7º, § 2º, inciso II** {#art7_par2_inc2} a da LI e da LO é precedida de análise da efetividade das ações de controle e monitoramento adotadas, determinando-se os devidos ajustes, se necessários.
 
-**Art. 7º, § 3º** {#art7_par3} #las Na renovação da LAU, da LP/LI e da LI/LO, aplicam-se, no que couber, as disposições dos §§ [[#art7_par1|1º]] e [[#art7_par2|2º]] deste artigo.
+**Art. 7º, § 3º** {#art7_par3} Na renovação da LAU, da LP/LI e da LI/LO, aplicam-se, no que couber, as disposições dos §§ [[#art7_par1|1º]] e [[#art7_par2|2º]] deste artigo.
 
-**Art. 7º, § 4º** {#art7_par4} #prorrogacao-automatica #baixo-potencial-poluidor A licença ambiental de atividade ou de empreendimento caracterizado como de baixo ou médio potencial poluidor e pequeno ou médio porte, por ato próprio da autoridade licenciadora, pode ser renovada automaticamente, por igual período, sem a necessidade da análise prevista no § [[#art7_par2|2º]] deste artigo, a partir de declaração eletrônica do empreendedor que ateste o atendimento simultâneo das seguintes condições:
+**Art. 7º, § 4º** {#art7_par4} A licença ambiental de atividade ou de empreendimento caracterizado como de baixo ou médio potencial poluidor e pequeno ou médio porte, por ato próprio da autoridade licenciadora, pode ser renovada automaticamente, por igual período, sem a necessidade da análise prevista no § [[#art7_par2|2º]] deste artigo, a partir de declaração eletrônica do empreendedor que ateste o atendimento simultâneo das seguintes condições:
 
 - **Art. 7º, § 4º, inciso I** {#art7_par4_inc1} não tenham sido alterados as características e o porte da atividade ou do empreendimento;
 - **Art. 7º, § 4º, inciso II** {#art7_par4_inc2} não tenha sido alterada a legislação ambiental aplicável à atividade ou ao empreendimento;
@@ -187,7 +180,6 @@ Tags: #renovacao #prorrogacao-automatica #validade #licenca-ambiental #las
 **Art. 7º, § 6º** {#art7_par6} O atesto da condição prevista no [[#art7_par4_inc3|inciso III do § 4º]] deste artigo deverá ser acompanhado de relatório comprobatório do cumprimento das condicionantes, devidamente assinado por profissional habilitado.
 
 ###### Art. 8º {#art8}
-Tags: #dispensa #licenciamento-ambiental #obra-emergencial #logistica-reversa
 Alterações: § 4º: incluído pela [[lei-federal-15300-2025#art7_cpt_alt2|Lei nº 15.300, de 2025]]
 
 **Art. 8º, caput** {#art8_cpt} Não estão sujeitos a licenciamento ambiental as seguintes atividades ou empreendimentos:
@@ -195,11 +187,11 @@ Alterações: § 4º: incluído pela [[lei-federal-15300-2025#art7_cpt_alt2|Lei 
 - **Art. 8º, caput, inciso I** {#art8_cpt_inc1} de caráter militar previstos no preparo e no emprego das Forças Armadas, conforme disposto na [[lei-complementar-federal-97-1999|Lei Complementar nº 97, de 9 de junho de 1999]], nos termos de ato do Poder Executivo;
 - **Art. 8º, caput, inciso II** {#art8_cpt_inc2} não considerados como utilizadores de recursos ambientais, não potencial ou efetivamente poluidores ou incapazes, sob qualquer forma, de causar degradação do meio ambiente;
 - **Art. 8º, caput, inciso III** {#art8_cpt_inc3} não incluídos nas listas de atividades ou de empreendimentos sujeitos a licenciamento ambiental estabelecidas na forma do [[#art4_par1|§ 1º do art. 4º]] desta Lei, sem prejuízo das demais licenças, outorgas e autorizações cabíveis; *(Promulgação partes vetadas)*
-- **Art. 8º, caput, inciso IV** {#art8_cpt_inc4} #obra-emergencial obras e intervenções emergenciais de resposta a colapso de obras de infraestrutura, a acidentes ou a desastres;
-- **Art. 8º, caput, inciso V** {#art8_cpt_inc5} #obra-emergencial obras e intervenções urgentes que tenham como finalidade prevenir a ocorrência de dano ambiental iminente ou interromper situação que gere risco à vida;
-- **Art. 8º, caput, inciso VI** {#art8_cpt_inc6} #rede-eletrica obras de serviço público de distribuição de energia elétrica de até 138 kV (cento e trinta e oito quilovolts) realizadas em área urbana ou rural;
+- **Art. 8º, caput, inciso IV** {#art8_cpt_inc4} obras e intervenções emergenciais de resposta a colapso de obras de infraestrutura, a acidentes ou a desastres;
+- **Art. 8º, caput, inciso V** {#art8_cpt_inc5} obras e intervenções urgentes que tenham como finalidade prevenir a ocorrência de dano ambiental iminente ou interromper situação que gere risco à vida;
+- **Art. 8º, caput, inciso VI** {#art8_cpt_inc6} obras de serviço público de distribuição de energia elétrica de até 138 kV (cento e trinta e oito quilovolts) realizadas em área urbana ou rural;
 - **Art. 8º, caput, inciso VII** {#art8_cpt_inc7} serviços e obras direcionados à manutenção e ao melhoramento da infraestrutura em instalações preexistentes ou em faixas de domínio e de servidão, incluídas rodovias anteriormente pavimentadas e dragagens de manutenção; *(Promulgação partes vetadas)*
-- **Art. 8º, caput, inciso VIII** {#art8_cpt_inc8} #logistica-reversa pontos de entrega voluntária ou similares abrangidos por sistemas de logística reversa, nos termos da [[lei-federal-12305-2010|Lei nº 12.305, de 2 de agosto de 2010]];
+- **Art. 8º, caput, inciso VIII** {#art8_cpt_inc8} pontos de entrega voluntária ou similares abrangidos por sistemas de logística reversa, nos termos da [[lei-federal-12305-2010|Lei nº 12.305, de 2 de agosto de 2010]];
 - **Art. 8º, caput, inciso IX** {#art8_cpt_inc9} ecopontos e ecocentros, compreendidos como locais de entrega voluntária de resíduos de origem domiciliar ou equiparados, de forma segregada e ordenada em baias, caçambas e similares, com vistas à reciclagem e a outras formas de destinação final ambientalmente adequada.
 
 **Art. 8º, § 1º** {#art8_par1} A dispensa de licenciamento ambiental para as atividades de que tratam os incisos [[#art8_cpt_inc4|IV]] e [[#art8_cpt_inc5|V]] do [[#art8_cpt|caput]] deste artigo está condicionada à apresentação ao órgão ambiental competente de relatório das ações executadas, no prazo de 30 (trinta) dias, contado da data de conclusão de sua execução.
@@ -211,7 +203,6 @@ Alterações: § 4º: incluído pela [[lei-federal-15300-2025#art7_cpt_alt2|Lei 
 **Art. 8º, § 4º** {#art8_par4} #incluido As dragagens de manutenção de que trata o [[#art8_cpt_inc7|inciso VII]] do [[#art8_cpt|caput]] deste artigo contemplam as intervenções em canais de acesso e em bacias de evolução associados a instalações portuárias previamente licenciadas ou em hidrovias e vias naturalmente navegáveis, condicionados ao prévio levantamento batimétrico, incluídos os serviços de engenharia hidráulica destinados à limpeza, à desobstrução e ao manejo de sedimentos no fundo de corpos hídricos naturais ou artificiais, sem aumento da profundidade e da largura previamente existentes. *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt2|Lei nº 15.300, de 2025]])*
 
 ###### Art. 9º {#art9}
-Tags: #dispensa #agropecuaria #car #pra
 
 **Art. 9º, caput** {#art9_cpt} Quando atendido ao previsto neste artigo, não são sujeitos a licenciamento ambiental as seguintes atividades e empreendimentos:
 
@@ -222,8 +213,8 @@ Tags: #dispensa #agropecuaria #car #pra
 
 **Art. 9º, § 1º** {#art9_par1} O previsto no [[#art9_cpt|caput]] deste artigo aplica-se às propriedades e às posses rurais, desde que regulares ou em regularização, na forma da [[lei-federal-12651-2012|Lei nº 12.651, de 25 de maio de 2012]], considerando-se:
 
-- **Art. 9º, § 1º, inciso I** {#art9_par1_inc1} #car regular o imóvel com registro no Cadastro Ambiental Rural (CAR) homologado pelo órgão estadual competente, que não tenha déficit de vegetação em reserva legal ou área de preservação permanente; e
-- **Art. 9º, § 1º, inciso II** {#art9_par1_inc2} #pra em regularização o imóvel quando atendidas quaisquer das seguintes condições:
+- **Art. 9º, § 1º, inciso I** {#art9_par1_inc1} regular o imóvel com registro no Cadastro Ambiental Rural (CAR) homologado pelo órgão estadual competente, que não tenha déficit de vegetação em reserva legal ou área de preservação permanente; e
+- **Art. 9º, § 1º, inciso II** {#art9_par1_inc2} em regularização o imóvel quando atendidas quaisquer das seguintes condições:
   - **Art. 9º, § 1º, inciso II, alínea "a"** {#art9_par1_inc2_alia} tenha registro no CAR pendente de homologação; *(Promulgação partes vetadas)*
   - **Art. 9º, § 1º, inciso II, alínea "b"** {#art9_par1_inc2_alib} tenha ocorrido a adesão ao Programa de Regularização Ambiental (PRA), durante todo o período de cumprimento das obrigações nele assumidas; ou
   - **Art. 9º, § 1º, inciso II, alínea "c"** {#art9_par1_inc2_alic} tenha firmado com o órgão competente termo de compromisso próprio para a regularização de déficit de vegetação em reserva legal ou em área de preservação permanente, quando não for o caso de adesão ao PRA.
@@ -232,16 +223,15 @@ Tags: #dispensa #agropecuaria #car #pra
 
 **Art. 9º, § 3º** {#art9_par3} A não sujeição ao licenciamento ambiental de que trata este artigo não exime o empreendedor da obtenção, quando exigível, de licença ambiental, de autorização ou de instrumento congênere, para a supressão de vegetação nativa, para o uso de recursos hídricos ou para outras formas de utilização de recursos ambientais previstas em legislação específica.
 
-**Art. 9º, § 4º** {#art9_par4} #certidao As autoridades licenciadoras disponibilizarão, de forma gratuita e automática, nos seus sítios eletrônicos, bem como no subsistema de informações previsto no art. [[#art35|35]] desta Lei, certidão declaratória de não sujeição da atividade ou do empreendimento ao licenciamento ambiental.
+**Art. 9º, § 4º** {#art9_par4} As autoridades licenciadoras disponibilizarão, de forma gratuita e automática, nos seus sítios eletrônicos, bem como no subsistema de informações previsto no art. [[#art35|35]] desta Lei, certidão declaratória de não sujeição da atividade ou do empreendimento ao licenciamento ambiental.
 
 **Art. 9º, § 5º** {#art9_par5} As atividades e os empreendimentos de pecuária intensiva de médio porte poderão ser licenciados mediante procedimento simplificado na modalidade por adesão e compromisso, respeitado o disposto nos §§ [[#art9_par1|1º]], [[#art9_par2|2º]] e [[#art9_par3|3º]] deste artigo.
 
-**Art. 9º, § 6º** {#art9_par6} #car A inscrição no CAR não pode ser exigida como requisito para a licença de atividades ou de empreendimentos de infraestrutura de transportes e de energia que sejam instalados na propriedade ou na posse rural, mas que não tenham relação com as atividades referidas no [[#art9_cpt|caput]] deste artigo.
+**Art. 9º, § 6º** {#art9_par6} A inscrição no CAR não pode ser exigida como requisito para a licença de atividades ou de empreendimentos de infraestrutura de transportes e de energia que sejam instalados na propriedade ou na posse rural, mas que não tenham relação com as atividades referidas no [[#art9_cpt|caput]] deste artigo.
 
 **Art. 9º, § 7º** {#art9_par7} São de utilidade pública as barragens de pequeno porte, nos termos do [[#art4_par1|§ 1º do art. 4º]] desta Lei, para fins de irrigação. *(Promulgação partes vetadas)*
 
 ###### Art. 10 {#art10}
-Tags: #licenciamento-ambiental #dispensa #esgotamento-sanitario #abastecimento-publico #outorga #prioridade
 
 **Art. 10, caput** {#art10_cpt} A autoridade ambiental competente assegurará procedimentos simplificados e prioridade na análise para o licenciamento ambiental de projetos relacionados às atividades ou aos empreendimentos de abastecimento de água e esgotamento sanitário abrangidos pela [[lei-federal-11445-2007|Lei nº 11.445, de 5 de janeiro de 2007]] (Lei de Saneamento Básico), quando exigível, bem como relacionados à segurança energética nacional, desde que previstos e contratados no planejamento e nas políticas energéticas nacionais. *(Promulgação partes vetadas)*
 
@@ -256,14 +246,12 @@ Tags: #licenciamento-ambiental #dispensa #esgotamento-sanitario #abastecimento-p
 **Art. 10, § 5º** {#art10_par5} Aplica-se o disposto no caput e no § 1º às atividades e aos empreendimentos de saneamento básico abrangidos pela [[lei-federal-11445-2007|Lei nº 11.445, de 5 de janeiro de 2007]] (Lei de Saneamento Básico), após o atingimento das metas referidas no § [[#art10_par2|2º]] deste artigo.
 
 ###### Art. 11 {#art11}
-Tags: #lac #esgotamento-sanitario #abastecimento-publico
 
 **Art. 11, caput** {#art11_cpt} O licenciamento ambiental de serviços e obras direcionados à ampliação de capacidade e à pavimentação em instalações preexistentes ou em faixas de domínio e de servidão, bem como direcionados a atividades e a empreendimentos de abastecimento de água e esgotamento sanitário, será realizado mediante emissão da LAC, acompanhada de RCE, respeitado o disposto no [[#art22_cpt_inc1|inciso I do caput do art. 22]] desta Lei. *(Promulgação partes vetadas)*
 
 **Art. 11, parágrafo único** {#art11_par1u} O disposto no [[#art11_cpt|caput]] deste artigo aplica-se à ampliação ou à instalação de linhas de transmissão nas faixas de domínio das rodovias.
 
 ###### Art. 12 {#art12}
-Tags: #licenciamento-municipal #parcelamento-solo
 
 **Art. 12, caput** {#art12_cpt} No licenciamento ambiental de competência municipal ou distrital, a aprovação do projeto de atividade ou de empreendimento deve ocorrer mediante a emissão de licença urbanística e ambiental integrada nos seguintes casos:
 
@@ -271,12 +259,10 @@ Tags: #licenciamento-municipal #parcelamento-solo
 - **Art. 12, caput, inciso II** {#art12_cpt_inc2} parcelamento de solo urbano.
 
 ###### Art. 13 {#art13}
-Tags: #car #licenca-ambiental
 
-**Art. 13, caput** {#art13_cpt} #car A inscrição no CAR não pode ser exigida como requisito para a emissão de licença ambiental ou de autorização de supressão de vegetação para atividades ou empreendimentos de infraestrutura pública que sejam instalados na propriedade ou na posse rural, mas que não tenham relação com as atividades agropecuárias nela desenvolvidas.
+**Art. 13, caput** {#art13_cpt} A inscrição no CAR não pode ser exigida como requisito para a emissão de licença ambiental ou de autorização de supressão de vegetação para atividades ou empreendimentos de infraestrutura pública que sejam instalados na propriedade ou na posse rural, mas que não tenham relação com as atividades agropecuárias nela desenvolvidas.
 
 ###### Art. 14 {#art14}
-Tags: #condicionante #medida-mitigadora #medida-compensatoria
 
 **Art. 14, caput** {#art14_cpt} O gerenciamento dos impactos e a fixação de condicionantes das licenças ambientais devem atender à seguinte ordem de objetivos prioritários:
 
@@ -306,16 +292,14 @@ Tags: #condicionante #medida-mitigadora #medida-compensatoria
 **Art. 14, § 9º** {#art14_par9} O descumprimento de condicionantes da licença ambiental, sem a devida justificativa técnica, sujeita o empreendedor às sanções penais e administrativas, independentemente da obrigação de reparar os danos causados.
 
 ###### Art. 15 {#art15}
-Tags: #prioridade #prazo #renovacao #las
 
 **Art. 15, caput** {#art15_cpt} Caso sejam adotadas, pelo empreendedor, novas tecnologias, programas voluntários de gestão ambiental ou outras medidas que comprovadamente permitam alcançar resultados mais rigorosos do que os padrões e os critérios estabelecidos pela legislação ambiental, a autoridade licenciadora pode, mediante decisão motivada, estabelecer condições especiais no processo de licenciamento ambiental, incluídas:
 
 - **Art. 15, caput, inciso I** {#art15_cpt_inc1} priorização das análises, com a finalidade de reduzir prazos;
-- **Art. 15, caput, inciso II** {#art15_cpt_inc2} #las dilação de prazos de renovação da LO, da LI/LO ou da LAU em até 100% (cem por cento); ou
+- **Art. 15, caput, inciso II** {#art15_cpt_inc2} dilação de prazos de renovação da LO, da LI/LO ou da LAU em até 100% (cem por cento); ou
 - **Art. 15, caput, inciso III** {#art15_cpt_inc3} outras condições cabíveis, a critério da autoridade licenciadora.
 
 ###### Art. 16 {#art16}
-Tags: #suspensao-licenca #cancelamento-licenca #condicionante #las
 
 **Art. 16, caput** {#art16_cpt} A autoridade licenciadora pode, mediante decisão motivada, suspender ou cancelar a licença ambiental expedida, mantida a exigibilidade das condicionantes ambientais ainda necessárias após a suspensão ou o cancelamento, quando ocorrer:
 
@@ -330,7 +314,7 @@ Tags: #suspensao-licenca #cancelamento-licenca #condicionante #las
 - **Art. 16, § 1º, inciso III** {#art16_par1_inc3} quando ocorrerem modificações na atividade ou no empreendimento que impliquem majoração de impactos;
 - **Art. 16, § 1º, inciso IV** {#art16_par1_inc4} quando ocorrerem modificações na atividade ou no empreendimento que impliquem redução de impactos;
 - **Art. 16, § 1º, inciso V** {#art16_par1_inc5} quando caracterizada a não efetividade técnica;
-- **Art. 16, § 1º, inciso VI** {#art16_par1_inc6} #las na renovação da LO, da LI/LO ou da LAU, em razão de alterações na legislação ambiental, garantidos o direito adquirido e o ato jurídico perfeito.
+- **Art. 16, § 1º, inciso VI** {#art16_par1_inc6} na renovação da LO, da LI/LO ou da LAU, em razão de alterações na legislação ambiental, garantidos o direito adquirido e o ato jurídico perfeito.
 
 **Art. 16, § 2º** {#art16_par2} Alterada a condicionante ou negado o pedido de alteração, é cabível recurso no prazo de 30 (trinta) dias, a ser respondido no mesmo prazo.
 
@@ -341,14 +325,12 @@ Tags: #suspensao-licenca #cancelamento-licenca #condicionante #las
 **Art. 16, § 5º** {#art16_par5} Nas hipóteses previstas nos incisos [[#art16_cpt_inc2|II]] e [[#art16_cpt_inc3|III]] do [[#art16_cpt|caput]] deste artigo, a autoridade licenciadora poderá suspender a licença de forma cautelar, sem prévia manifestação do empreendedor, quando a urgência da medida se apresentar necessária.
 
 ###### Art. 17 {#art17}
-Tags: #licenciamento-ambiental #certidao-municipal #outorga
 
 **Art. 17, caput** {#art17_cpt} O licenciamento ambiental independe da emissão da certidão de uso, parcelamento e ocupação do solo urbano emitida pelos Municípios, bem como de autorizações e outorgas de órgãos não integrantes do Sisnama, sem prejuízo do atendimento, pelo empreendedor, da legislação aplicável a esses atos administrativos.
 
 ### Seção II – Dos Procedimentos
 
 ###### Art. 18 {#art18}
-Tags: #licenciamento-ambiental #licenciamento-trifasico #licenciamento-bifasico #lac #enquadramento #eia-rima #lor #lasr #autorizacao-ambiental
 
 **Art. 18, caput** {#art18_cpt} O licenciamento ambiental pode ocorrer:
 
@@ -357,8 +339,8 @@ Tags: #licenciamento-ambiental #licenciamento-trifasico #licenciamento-bifasico 
   - **Art. 18, caput, inciso II, alínea "a"** {#art18_cpt_inc2_alia} bifásica;
   - **Art. 18, caput, inciso II, alínea "b"** {#art18_cpt_inc2_alib} fase única; ou
   - **Art. 18, caput, inciso II, alínea "c"** {#art18_cpt_inc2_alic} por adesão e compromisso;
-- **Art. 18, caput, inciso III** {#art18_cpt_inc3} #lor #lasr pelo procedimento corretivo;
-- **Art. 18, caput, inciso IV** {#art18_cpt_inc4} #autorizacao-ambiental pelo procedimento especial para atividades ou empreendimentos estratégicos.
+- **Art. 18, caput, inciso III** {#art18_cpt_inc3} pelo procedimento corretivo;
+- **Art. 18, caput, inciso IV** {#art18_cpt_inc4} pelo procedimento especial para atividades ou empreendimentos estratégicos.
 
 **Art. 18, § 1º** {#art18_par1} Os procedimentos e as modalidades de licenciamento e os tipos de estudo ou de relatório ambiental a serem exigidos devem ser definidos pelas autoridades licenciadoras, no âmbito das competências definidas na [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 8 de dezembro de 2011]], por meio do enquadramento da atividade ou do empreendimento de acordo com os critérios de localização, natureza, porte e potencial poluidor. *(Promulgação partes vetadas)*
 
@@ -369,7 +351,6 @@ Tags: #licenciamento-ambiental #licenciamento-trifasico #licenciamento-bifasico 
 **Art. 18, § 4º** {#art18_par4} Não será exigido EIA/Rima quando a autoridade licenciadora considerar que a atividade ou o empreendimento não é potencialmente causador de significativa degradação do meio ambiente.
 
 ###### Art. 19 {#art19}
-Tags: #licenciamento-trifasico #eia-rima #lp #li #lo
 
 **Art. 19, caput** {#art19_cpt} O licenciamento ambiental ordinário pela modalidade trifásica envolve a emissão sequencial de LP, de LI e de LO.
 
@@ -378,7 +359,6 @@ Tags: #licenciamento-trifasico #eia-rima #lp #li #lo
 **Art. 19, § 2º** {#art19_par2} No caso de atividade ou de empreendimento potencialmente causador de significativa degradação do meio ambiente, o licenciamento trifásico requer a apresentação de EIA na fase de LP.
 
 ###### Art. 20 {#art20}
-Tags: #licenciamento-bifasico #eia-rima #lp #li #lo
 
 **Art. 20, caput** {#art20_cpt} O licenciamento ambiental simplificado pela modalidade bifásica consiste na aglutinação de duas licenças em uma única e pode ser aplicado nos casos em que as características da atividade ou do empreendimento sejam compatíveis com esse procedimento, conforme avaliação motivada da autoridade licenciadora.
 
@@ -391,14 +371,12 @@ Tags: #licenciamento-bifasico #eia-rima #lp #li #lo
 **Art. 20, § 4º** {#art20_par4} No licenciamento ambiental de novos empreendimentos ou atividades, na mesma área de influência direta de empreendimentos similares já licenciados, pode a autoridade licenciadora emitir LP aglutinada com a LI.
 
 ###### Art. 21 {#art21}
-Tags: #licenciamento-monofasico #las
 
-**Art. 21, caput** {#art21_cpt} #las O licenciamento ambiental simplificado pela modalidade em fase única consiste na avaliação da viabilidade ambiental e na autorização da instalação e da operação da atividade ou do empreendimento em uma única etapa, com a emissão da LAU.
+**Art. 21, caput** {#art21_cpt} O licenciamento ambiental simplificado pela modalidade em fase única consiste na avaliação da viabilidade ambiental e na autorização da instalação e da operação da atividade ou do empreendimento em uma única etapa, com a emissão da LAU.
 
 **Art. 21, parágrafo único** {#art21_par1u} A autoridade licenciadora deve definir o escopo do estudo ambiental que subsidia o licenciamento ambiental pelo procedimento em fase única.
 
 ###### Art. 22 {#art22}
-Tags: #lac #declaracao-adesao-compromisso #licenciamento-ambiental
 Alterações: caput, inciso III: revogado pela [[lei-federal-15300-2025#art9|Lei nº 15.300, de 2025]]; caput, inciso IV e alíneas "a" a "k": incluídos pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]]; § 6º: incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]]
 
 **Art. 22, caput** {#art22_cpt} O licenciamento ambiental simplificado pela modalidade por adesão e compromisso pode ocorrer se forem atendidas, cumulativamente, as seguintes condições: *(Promulgação partes vetadas)*
@@ -411,14 +389,14 @@ Alterações: caput, inciso III: revogado pela [[lei-federal-15300-2025#art9|Lei
   - **Art. 22, caput, inciso II, alínea "d"** {#art22_cpt_inc2_alid} as medidas de controle ambiental necessárias;
 - **Art. 22, caput, inciso III** {#art22_cpt_inc3} #revogado *(Revogado pela [[lei-federal-15300-2025#art9|Lei nº 15.300, de 2025]])*
 - **Art. 22, caput, inciso IV** {#art22_cpt_inc4} #incluido não incorrer nas hipóteses de atividades ou de empreendimentos: *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
-  - **Art. 22, caput, inciso IV, alínea "a"** {#art22_cpt_inc4_alia} #mineracao #incluido minerários, exceto exploração de areia, cascalho, brita e lavra de diamante por faiscação sem desmonte de talude; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
-  - **Art. 22, caput, inciso IV, alínea "b"** {#art22_cpt_inc4_alib} #supressao-vegetacao #incluido que demandem supressão de vegetação nativa que dependa de autorização específica, exceto o caso de corte de árvores isoladas; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
+  - **Art. 22, caput, inciso IV, alínea "a"** {#art22_cpt_inc4_alia} #incluido minerários, exceto exploração de areia, cascalho, brita e lavra de diamante por faiscação sem desmonte de talude; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
+  - **Art. 22, caput, inciso IV, alínea "b"** {#art22_cpt_inc4_alib} #incluido que demandem supressão de vegetação nativa que dependa de autorização específica, exceto o caso de corte de árvores isoladas; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
   - **Art. 22, caput, inciso IV, alínea "c"** {#art22_cpt_inc4_alic} #incluido que envolvam remoção ou realocação de população; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
   - **Art. 22, caput, inciso IV, alínea "d"** {#art22_cpt_inc4_alid} #incluido localizados em área declarada como contaminada, segundo as normas técnicas vigentes; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
-  - **Art. 22, caput, inciso IV, alínea "e"** {#art22_cpt_inc4_alie} #unidade-conservacao #incluido localizados no interior de unidades de conservação, exceto em Área de Proteção Ambiental (APA); *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
+  - **Art. 22, caput, inciso IV, alínea "e"** {#art22_cpt_inc4_alie} #incluido localizados no interior de unidades de conservação, exceto em Área de Proteção Ambiental (APA); *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
   - **Art. 22, caput, inciso IV, alínea "f"** {#art22_cpt_inc4_alif} #incluido localizados em áreas reconhecidas como Sítios Ramsar, nos termos da Convenção sobre Zonas Úmidas de Importância Internacional, especialmente como Habitat de Aves Aquáticas (Convenção de Ramsar); *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
   - **Art. 22, caput, inciso IV, alínea "g"** {#art22_cpt_inc4_alig} #incluido localizados em áreas de bens arqueológicos ou culturais acautelados; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
-  - **Art. 22, caput, inciso IV, alínea "h"** {#art22_cpt_inc4_alih} #terra-indigena #quilombola #incluido localizados em terras indígenas, territórios quilombolas e de comunidades tradicionais, exceto se realizados pela própria comunidade; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
+  - **Art. 22, caput, inciso IV, alínea "h"** {#art22_cpt_inc4_alih} #incluido localizados em terras indígenas, territórios quilombolas e de comunidades tradicionais, exceto se realizados pela própria comunidade; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
   - **Art. 22, caput, inciso IV, alínea "i"** {#art22_cpt_inc4_alii} #incluido localizados em áreas suscetíveis à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos, previstas no [[lei-federal-10257-2001#art42-a|art. 42-A da Lei nº 10.257, de 10 de julho de 2001]]; *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
   - **Art. 22, caput, inciso IV, alínea "j"** {#art22_cpt_inc4_alij} #incluido que tiveram ou venham a ter licença de instalação negada por incompatibilidade ambiental da área com o tipo de atividade; e *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
   - **Art. 22, caput, inciso IV, alínea "k"** {#art22_cpt_inc4_alik} #incluido localizados no mar territorial. *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
@@ -436,26 +414,23 @@ Alterações: caput, inciso III: revogado pela [[lei-federal-15300-2025#art9|Lei
 **Art. 22, § 6º** {#art22_par6} #incluido A LAC para a extração de recursos naturais deve prever o limite de exploração pelo titular da licença, respeitada a capacidade de suporte do meio ambiente. *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt3|Lei nº 15.300, de 2025]])*
 
 ###### Art. 23 {#art23}
-Tags: #licenciamento-ambiental #autorizacao-ambiental
 
-**Art. 23, caput** {#art23_cpt} #autorizacao-ambiental Ao procedimento especial para atividades ou empreendimentos estratégicos aplicam-se as disposições da Seção III deste Capítulo.
+**Art. 23, caput** {#art23_cpt} Ao procedimento especial para atividades ou empreendimentos estratégicos aplicam-se as disposições da Seção III deste Capítulo.
 
 ### Seção III – Do Licenciamento Ambiental Especial para Atividades ou Empreendimentos Estratégicos
 
 ###### Art. 24 {#art24}
-Tags: #licenciamento-ambiental #prioridade #aproveitamento-hidreletrico #autorizacao-ambiental
 Alterações: § 1º: incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]] (reproduz o antigo parágrafo único, renumerado); § 2º: incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]]; § 3º: incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]], com texto vetado
 
-**Art. 24, caput** {#art24_cpt} #autorizacao-ambiental O procedimento especial aplica-se a atividades ou a empreendimentos estratégicos, assim definidos em decreto mediante proposta bianual do Conselho de Governo, que dimensionará equipe técnica permanentemente dedicada à função.
+**Art. 24, caput** {#art24_cpt} O procedimento especial aplica-se a atividades ou a empreendimentos estratégicos, assim definidos em decreto mediante proposta bianual do Conselho de Governo, que dimensionará equipe técnica permanentemente dedicada à função.
 
 **Art. 24, § 1º** {#art24_par1} #incluido A autoridade licenciadora dará prioridade à análise e à decisão dos respectivos pedidos de licença ambiental das atividades ou dos empreendimentos definidos como estratégicos na forma do [[#art24_cpt|caput]] deste artigo. *(Incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]])*
 
-**Art. 24, § 2º** {#art24_par2} #autorizacao-ambiental #incluido O licenciamento ambiental especial deverá ser aplicado às usinas hidrelétricas, inclusive reversíveis, e seus reservatórios, em razão de seu caráter estratégico para a segurança hídrica e energética e estabilidade do Sistema Interligado Nacional (SIN) e para a matriz energética nacional. *(Incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]])*
+**Art. 24, § 2º** {#art24_par2} #incluido O licenciamento ambiental especial deverá ser aplicado às usinas hidrelétricas, inclusive reversíveis, e seus reservatórios, em razão de seu caráter estratégico para a segurança hídrica e energética e estabilidade do Sistema Interligado Nacional (SIN) e para a matriz energética nacional. *(Incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]])*
 
 **Art. 24, § 3º** {#art24_par3} (VETADO). *(Incluído pela [[lei-federal-15269-2025|Lei nº 15.269, de 2025]])*
 
 ###### Art. 25 {#art25}
-Tags: #prioridade #anuencia #autorizacao-ambiental
 
 **Art. 25, caput** {#art25_cpt} (VETADO):
 
@@ -466,44 +441,41 @@ Tags: #prioridade #anuencia #autorizacao-ambiental
 - **Art. 25, caput, inciso V** {#art25_cpt_inc5} (VETADO);
 - **Art. 25, caput, inciso VI** {#art25_cpt_inc6} (VETADO).
 
-**Art. 25, parágrafo único** {#art25_par1u} #autorizacao-ambiental Deverá ser priorizada, pelas entidades e órgãos públicos de qualquer esfera federativa, a emissão de anuências, de licenças, de autorizações, de certidões, de outorgas e de outros documentos necessários ao licenciamento ambiental especial.:
+**Art. 25, parágrafo único** {#art25_par1u} Deverá ser priorizada, pelas entidades e órgãos públicos de qualquer esfera federativa, a emissão de anuências, de licenças, de autorizações, de certidões, de outorgas e de outros documentos necessários ao licenciamento ambiental especial.:
 
 ### Seção IV – Da Regularização por Licença de Operação Corretiva
 
 ###### Art. 26 {#art26}
-Tags: #regularizacao #termo-compromisso #crime-ambiental #medida-compensatoria #lor #lasr
 
-**Art. 26, caput** {#art26_cpt} #lor #lasr O licenciamento ambiental corretivo destinado à regularização de atividade ou de empreendimento que, na data de publicação desta Lei, esteja operando sem licença ambiental válida ocorre pela expedição de LOC.
+**Art. 26, caput** {#art26_cpt} O licenciamento ambiental corretivo destinado à regularização de atividade ou de empreendimento que, na data de publicação desta Lei, esteja operando sem licença ambiental válida ocorre pela expedição de LOC.
 
-**Art. 26, § 1º** {#art26_par1} #lor #lasr O licenciamento ambiental corretivo poderá ser por adesão e compromisso, observado o disposto no art. [[#art22|22]] desta Lei. *(Promulgação partes vetadas)*
+**Art. 26, § 1º** {#art26_par1} O licenciamento ambiental corretivo poderá ser por adesão e compromisso, observado o disposto no art. [[#art22|22]] desta Lei. *(Promulgação partes vetadas)*
 
-**Art. 26, § 2º** {#art26_par2} #lor #lasr Na impossibilidade de a LOC ser emitida por adesão e compromisso, deve ser firmado, anteriormente à emissão da licença de operação corretiva, termo de compromisso entre a autoridade licenciadora e o empreendedor, coerente com o conteúdo do RCA e do PBA. *(Promulgação partes vetadas)*
+**Art. 26, § 2º** {#art26_par2} Na impossibilidade de a LOC ser emitida por adesão e compromisso, deve ser firmado, anteriormente à emissão da licença de operação corretiva, termo de compromisso entre a autoridade licenciadora e o empreendedor, coerente com o conteúdo do RCA e do PBA. *(Promulgação partes vetadas)*
 
-**Art. 26, § 3º** {#art26_par3} #lor #lasr O termo de compromisso referido no § [[#art26_par2|2º]] deste artigo deve estabelecer os critérios, os procedimentos e as responsabilidades de forma a promover o licenciamento ambiental corretivo. *(Promulgação partes vetadas)*
+**Art. 26, § 3º** {#art26_par3} O termo de compromisso referido no § [[#art26_par2|2º]] deste artigo deve estabelecer os critérios, os procedimentos e as responsabilidades de forma a promover o licenciamento ambiental corretivo. *(Promulgação partes vetadas)*
 
 **Art. 26, § 4º** {#art26_par4} No caso de atividade ou de empreendimento cujo início da operação tenha ocorrido quando a legislação em vigor exigia licenciamento ambiental, a autoridade licenciadora deve definir medidas compensatórias pelos impactos causados pela ausência de licença, caso existentes.
 
-**Art. 26, § 5º** {#art26_par5} #crime-ambiental #lor #lasr Quando solicitada a LOC espontaneamente, o cumprimento de todas as exigências necessárias à sua expedição extinguirá a punibilidade do crime previsto no [[lei-federal-9605-1998#art60|art. 60 da Lei nº 9.605, de 12 de fevereiro de 1998]] (Lei dos Crimes Ambientais), e ficarão suspensos, durante a vigência do termo de compromisso referido nos §§ [[#art26_par2|2º]] e [[#art26_par3|3º]] deste artigo, eventuais processos, cumprimentos de pena e prazos prescricionais. *(Promulgação partes vetadas)*
+**Art. 26, § 5º** {#art26_par5} Quando solicitada a LOC espontaneamente, o cumprimento de todas as exigências necessárias à sua expedição extinguirá a punibilidade do crime previsto no [[lei-federal-9605-1998#art60|art. 60 da Lei nº 9.605, de 12 de fevereiro de 1998]] (Lei dos Crimes Ambientais), e ficarão suspensos, durante a vigência do termo de compromisso referido nos §§ [[#art26_par2|2º]] e [[#art26_par3|3º]] deste artigo, eventuais processos, cumprimentos de pena e prazos prescricionais. *(Promulgação partes vetadas)*
 
-**Art. 26, § 6º** {#art26_par6} #lor #lasr A atividade ou o empreendimento que estiver com processo de licenciamento ambiental corretivo em curso na data de publicação desta Lei pode adequar-se às disposições desta Seção.
+**Art. 26, § 6º** {#art26_par6} A atividade ou o empreendimento que estiver com processo de licenciamento ambiental corretivo em curso na data de publicação desta Lei pode adequar-se às disposições desta Seção.
 
 **Art. 26, § 7º** {#art26_par7} Verificada a inviabilidade da regularização da atividade ou do empreendimento pela autoridade licenciadora em face das normas ambientais e de outras normas aplicáveis, ou pelos impactos ambientais verificados, deve-se determinar o descomissionamento da atividade ou do empreendimento ou outra medida cabível, bem como a recuperação ambiental da área impactada, sujeito o empreendedor às sanções penais e administrativas, independentemente da obrigação de reparar os danos causados.
 
 **Art. 26, § 8º** {#art26_par8} Nos procedimentos de regularização, a autoridade licenciadora considerará, no que couber, eventuais estudos e licenças expedidas para a atividade ou para o empreendimento.
 
-**Art. 26, § 9º** {#art26_par9} #lor #lasr A atividade ou o empreendimento que opere sem licença ambiental válida e que não se enquadre no disposto no [[#art26_cpt|caput]] deste artigo deverá ser licenciado pelo procedimento aplicável à sua tipologia, salvo deliberação da autoridade licenciadora competente quanto à possibilidade de utilização da LOC, mediante decisão justificada, hipótese em que não se aplica o disposto no § [[#art26_par5|5º]] deste artigo.
+**Art. 26, § 9º** {#art26_par9} A atividade ou o empreendimento que opere sem licença ambiental válida e que não se enquadre no disposto no [[#art26_cpt|caput]] deste artigo deverá ser licenciado pelo procedimento aplicável à sua tipologia, salvo deliberação da autoridade licenciadora competente quanto à possibilidade de utilização da LOC, mediante decisão justificada, hipótese em que não se aplica o disposto no § [[#art26_par5|5º]] deste artigo.
 
-**Art. 26, § 10** {#art26_par10} #lor #lasr Durante a vigência da LOC, o empreendedor deverá solicitar a emissão de LO, conforme os prazos e os procedimentos definidos pela autoridade licenciadora.
+**Art. 26, § 10** {#art26_par10} Durante a vigência da LOC, o empreendedor deverá solicitar a emissão de LO, conforme os prazos e os procedimentos definidos pela autoridade licenciadora.
 
 ###### Art. 27 {#art27}
-Tags: #regularizacao #utilidade-publica #lor #lasr
 
-**Art. 27, caput** {#art27_cpt} #lor #lasr O licenciamento ambiental corretivo destinado à regularização de atividade ou de empreendimento de utilidade pública que, na data de publicação desta Lei, esteja operando sem licença ambiental válida terá seu rito de regularização definido em regulamento próprio.
+**Art. 27, caput** {#art27_cpt} O licenciamento ambiental corretivo destinado à regularização de atividade ou de empreendimento de utilidade pública que, na data de publicação desta Lei, esteja operando sem licença ambiental válida terá seu rito de regularização definido em regulamento próprio.
 
 ### Seção V – Do EIA e dos demais Estudos Ambientais
 
 ###### Art. 28 {#art28}
-Tags: #estudo-ambiental #termo-referencia #eia-rima #consulta-publica
 
 **Art. 28, caput** {#art28_cpt} A autoridade licenciadora deve elaborar TR para o EIA e para os demais estudos ambientais, compatível com as diferentes tipologias de atividades ou de empreendimentos, ouvidas as autoridades envolvidas referidas no [[#art3_cpt_inc3|inciso III do caput do art. 3º]] desta Lei, quando couber.
 
@@ -526,7 +498,6 @@ Tags: #estudo-ambiental #termo-referencia #eia-rima #consulta-publica
 **Art. 28, § 9º** {#art28_par9} A definição do seu prazo de validade constitui elemento obrigatório de todo TR, inclusive os padronizados por tipologia.
 
 ###### Art. 29 {#art29}
-Tags: #eia-rima #conteudo-minimo #estudo-ambiental #area-influencia #analise-risco #medida-mitigadora
 
 **Art. 29, caput** {#art29_cpt} O EIA deve contemplar:
 
@@ -542,7 +513,6 @@ Tags: #eia-rima #conteudo-minimo #estudo-ambiental #area-influencia #analise-ris
 - **Art. 29, caput, inciso X** {#art29_cpt_inc10} conclusão sobre a viabilidade ambiental da atividade ou do empreendimento.
 
 ###### Art. 30 {#art30}
-Tags: #eia-rima #conteudo-minimo
 
 **Art. 30, caput** {#art30_cpt} Todo EIA deve gerar um Rima, com o seguinte conteúdo mínimo:
 
@@ -556,14 +526,12 @@ Tags: #eia-rima #conteudo-minimo
 - **Art. 30, caput, inciso VIII** {#art30_cpt_inc8} recomendação quanto à alternativa mais favorável e conclusão sobre a viabilidade ambiental da atividade ou do empreendimento.
 
 ###### Art. 31 {#art31}
-Tags: #estudo-ambiental #conteudo-minimo #analise-risco
 
 **Art. 31, caput** {#art31_cpt} Observadas as regras estabelecidas na forma do art. [[#art18|18]] desta Lei, a autoridade licenciadora deve definir o conteúdo mínimo dos estudos ambientais e dos documentos requeridos no âmbito do licenciamento ambiental de atividade ou de empreendimento não sujeito a EIA.
 
 **Art. 31, parágrafo único** {#art31_par1u} A autoridade licenciadora pode, motivadamente, estender a exigência de estudos e de medidas de gerenciamento de risco à atividade ou ao empreendimento não sujeito a EIA, quando estipulado nos termos do [[#art18_par1|§ 1º do art. 18]] desta Lei.
 
 ###### Art. 32 {#art32}
-Tags: #estudo-ambiental
 
 **Art. 32, caput** {#art32_cpt} No caso de atividades ou de empreendimentos localizados na mesma área de estudo, a autoridade licenciadora pode aceitar estudo ambiental para o conjunto e dispensar a elaboração de estudos específicos para cada atividade ou empreendimento, sem prejuízo das medidas de participação previstas na Seção VII deste Capítulo.
 
@@ -574,7 +542,6 @@ Tags: #estudo-ambiental
 **Art. 32, § 3º** {#art32_par3} As disposições deste artigo podem ser aplicadas a atividades ou a empreendimentos sob responsabilidade de autoridades licenciadoras distintas, desde que haja acordo de cooperação técnica firmado entre elas.
 
 ###### Art. 33 {#art33}
-Tags: #estudo-ambiental #diagnostico-ambiental
 Alterações: caput: redação dada pela [[lei-federal-15300-2025#art7_cpt_alt4|Lei nº 15.300, de 2025]]
 
 **Art. 33, caput** {#art33_cpt} #redacao-alterada Independentemente da titularidade de atividade ou de empreendimento sujeito a licenciamento ambiental, no caso de implantação na área de estudo de outro já licenciado, pode ser aproveitado o diagnóstico constante do estudo ambiental anterior, bem como os dados secundários validados e as informações oriundas de sistemas de monitoramento remoto, desde que adequados à realidade da nova atividade ou empreendimento e resguardado o sigilo das informações previsto em lei. *(Redação dada pela [[lei-federal-15300-2025#art7_cpt_alt4|Lei nº 15.300, de 2025]])*
@@ -584,7 +551,6 @@ Alterações: caput: redação dada pela [[lei-federal-15300-2025#art7_cpt_alt4|
 **Art. 33, § 2º** {#art33_par2} Cabe à autoridade licenciadora estabelecer os prazos de validade dos dados disponibilizados para fins do disposto neste artigo, os quais são renováveis por meio de decisão motivada.
 
 ###### Art. 34 {#art34}
-Tags: #responsavel-tecnico #cadastro #ctf #art-anotacao
 
 **Art. 34, caput** {#art34_cpt} A elaboração de estudos ambientais será atribuída à equipe habilitada nas respectivas áreas de atuação, com registro da sua condição e atuação em documento de responsabilidade técnica perante os respectivos conselhos de fiscalização profissional, e registrada no Cadastro Técnico Federal de Atividades e Instrumentos de Defesa Ambiental.
 
@@ -593,7 +559,6 @@ Tags: #responsavel-tecnico #cadastro #ctf #art-anotacao
 ### Seção VI – Da Integração e da Disponibilização de Informações
 
 ###### Art. 35 {#art35}
-Tags: #sinima #car #sinaflor
 
 **Art. 35, caput** {#art35_cpt} O Sinima deve conter subsistema que integre as informações sobre os licenciamentos ambientais realizados nos âmbitos federal, estadual, distrital e municipal, bem como as bases de dados mantidas pelas respectivas autoridades licenciadoras.
 
@@ -606,7 +571,6 @@ Tags: #sinima #car #sinaflor
 **Art. 35, § 4º** {#art35_par4} Fica estabelecido o prazo de 4 (quatro) anos, contado da data de entrada em vigor desta Lei, para a organização e o pleno funcionamento do subsistema previsto no [[#art35_cpt|caput]] deste artigo.
 
 ###### Art. 36 {#art36}
-Tags: #processo-administrativo
 Alterações: § 1º: redação dada pela [[lei-federal-15300-2025#art7_cpt_alt5|Lei nº 15.300, de 2025]] (antigo parágrafo único, renumerado); § 2º: incluído pela [[lei-federal-15300-2025#art7_cpt_alt5|Lei nº 15.300, de 2025]]
 
 **Art. 36, caput** {#art36_cpt} O licenciamento ambiental deve tramitar em meio eletrônico em todas as suas fases.
@@ -616,7 +580,6 @@ Alterações: § 1º: redação dada pela [[lei-federal-15300-2025#art7_cpt_alt5
 **Art. 36, § 2º** {#art36_par2} #incluido A tramitação dos processos em meio eletrônico deve promover a integração da autoridade licenciadora com as autoridades envolvidas, concentrando o fluxo de informações em sistema que ofereça uma interface unificada com o usuário. *(Incluído pela [[lei-federal-15300-2025#art7_cpt_alt5|Lei nº 15.300, de 2025]])*
 
 ###### Art. 37 {#art37}
-Tags: #publicacao
 
 **Art. 37, caput** {#art37_cpt} O procedimento de licenciamento é público, devendo a autoridade licenciadora disponibilizar, em seu sítio eletrônico, todos os pedidos de licenciamento recebidos, sua aprovação, rejeição ou renovação, eventuais recursos e decisões, com as respectivas fundamentações, bem como os estudos ambientais produzidos.
 
@@ -625,14 +588,12 @@ Tags: #publicacao
 **Art. 37, § 2º** {#art37_par2} Para aplicação do disposto no § [[#art37_par1|1º]] deste artigo, a autoridade licenciadora definirá os tipos de licenças e as respectivas informações a serem publicadas pelo empreendedor.
 
 ###### Art. 38 {#art38}
-Tags: #sinima #publicacao
 
 **Art. 38, caput** {#art38_cpt} O conteúdo do EIA e dos demais estudos e informações que integram o licenciamento ambiental é de natureza pública, passa a compor o acervo da autoridade licenciadora e deve ser incluído no Sinima, conforme estabelecido no art. [[#art35|35]] desta Lei.
 
 ### Seção VII – Da Participação Pública
 
 ###### Art. 39 {#art39}
-Tags: #consulta-publica #audiencia-publica
 
 **Art. 39, caput** {#art39_cpt} O licenciamento ambiental será aberto à participação pública, a qual pode ocorrer nas seguintes modalidades:
 
@@ -642,7 +603,6 @@ Tags: #consulta-publica #audiencia-publica
 - **Art. 39, caput, inciso IV** {#art39_cpt_inc4} audiência pública.
 
 ###### Art. 40 {#art40}
-Tags: #audiencia-publica #eia-rima
 
 **Art. 40, caput** {#art40_cpt} Será realizada pelo menos 1 (uma) audiência pública nos processos de licenciamento ambiental de atividades ou de empreendimentos sujeitos a EIA antes da decisão final sobre a emissão da LP.
 
@@ -653,7 +613,6 @@ Tags: #audiencia-publica #eia-rima
 **Art. 40, § 3º** {#art40_par3} A autoridade licenciadora pode, a seu juízo, utilizar qualquer dos demais mecanismos de participação pública previstos no art. [[#art39|39]] desta Lei para preparar a realização da audiência pública, dirimir dúvidas e recolher críticas e sugestões.
 
 ###### Art. 41 {#art41}
-Tags: #consulta-publica
 
 **Art. 41, caput** {#art41_cpt} A consulta pública prevista no [[#art39_cpt_inc1|inciso I do caput do art. 39]] desta Lei pode, a critério da autoridade licenciadora, ser utilizada em todas as modalidades de licenciamento previstas nesta Lei com o objetivo de colher subsídios, quando couber, para:
 
@@ -667,7 +626,6 @@ Tags: #consulta-publica
 ### Seção VIII – Da Participação das Autoridades Envolvidas
 
 ###### Art. 42 {#art42}
-Tags: #autoridade-envolvida
 
 **Art. 42, caput** {#art42_cpt} A participação das autoridades envolvidas definidas no [[#art3_cpt_inc3|inciso III do caput do art. 3º]] desta Lei nos processos de licenciamento ambiental observará as seguintes premissas:
 
@@ -678,7 +636,6 @@ Tags: #autoridade-envolvida
 - **Art. 42, caput, inciso V** {#art42_cpt_inc5} deve atender ao disposto no art. [[#art14|14]] desta Lei.
 
 ###### Art. 43 {#art43}
-Tags: #autoridade-envolvida #terra-indigena #quilombola #bem-cultural #unidade-conservacao #zona-amortecimento #apa #distancia-minima
 
 **Art. 43, caput** {#art43_cpt} Observadas as premissas estabelecidas no art. [[#art42|42]] desta Lei, a autoridade licenciadora encaminhará o TR para manifestação da respectiva autoridade envolvida nas seguintes situações:
 
@@ -698,7 +655,6 @@ Tags: #autoridade-envolvida #terra-indigena #quilombola #bem-cultural #unidade-c
 **Art. 43, § 2º** {#art43_par2} A ausência de manifestação da autoridade envolvida nos prazos previstos no § [[#art43_par1|1º]] deste artigo não obsta o andamento do licenciamento ambiental nem a expedição do TR definitivo, e o órgão licenciador deve utilizar o termo de referência padrão disponibilizado pela autoridade envolvida.
 
 ###### Art. 44 {#art44}
-Tags: #autoridade-envolvida #terra-indigena #quilombola #bem-cultural #unidade-conservacao #zona-amortecimento #apa #distancia-minima
 
 **Art. 44, caput** {#art44_cpt} Observadas as premissas estabelecidas no art. [[#art42|42]] desta Lei, a manifestação das autoridades envolvidas sobre o EIA/Rima e sobre os demais estudos, planos, programas e projetos ambientais relacionados à licença ambiental ocorrerá nas seguintes situações:
 
@@ -723,7 +679,7 @@ Tags: #autoridade-envolvida #terra-indigena #quilombola #bem-cultural #unidade-c
 
 **Art. 44, § 5º** {#art44_par5} Recebida a manifestação da autoridade envolvida fora do prazo estabelecido, ela será avaliada na fase em que estiver o processo de licenciamento ambiental.
 
-**Art. 44, § 6º** {#art44_par6} #autoridade-envolvida Observado o disposto nesta Lei, a manifestação das autoridades envolvidas, quando apresentada nos prazos estabelecidos, deve ser considerada pela autoridade licenciadora, mas não vincula sua decisão quanto ao estabelecimento de condicionantes e à emissão de licenças ambientais. *(Promulgação partes vetadas)*
+**Art. 44, § 6º** {#art44_par6} Observado o disposto nesta Lei, a manifestação das autoridades envolvidas, quando apresentada nos prazos estabelecidos, deve ser considerada pela autoridade licenciadora, mas não vincula sua decisão quanto ao estabelecimento de condicionantes e à emissão de licenças ambientais. *(Promulgação partes vetadas)*
 
 **Art. 44, § 7º** {#art44_par7} No caso de a manifestação da autoridade envolvida incluir propostas de condicionantes, elas devem estar acompanhadas de justificativa técnica que demonstre o atendimento ao disposto no art. [[#art14|14]] desta Lei, e, para aquelas que não atendam a esse requisito, a autoridade licenciadora pode solicitar à autoridade envolvida que justifique ou reconsidere a sua manifestação no prazo de 10 (dez) dias.
 
@@ -734,27 +690,24 @@ Tags: #autoridade-envolvida #terra-indigena #quilombola #bem-cultural #unidade-c
 **Art. 44, § 10** {#art44_par10} As áreas previstas nos incisos [[#art44_cpt_inc1|I]], [[#art44_cpt_inc2|II]] e [[#art44_cpt_inc3|III]] do [[#art44_cpt|caput]] deste artigo devem ser observadas ainda que maiores ou menores que as áreas de impacto presumido constantes do [[#anexo1|Anexo]] desta Lei.
 
 ###### Art. 45 {#art45}
-Tags: #autoridade-envolvida
 
 **Art. 45, caput** {#art45_cpt} Se houver superveniência das hipóteses previstas no [[#art44_cpt|caput do art. 44]] desta Lei, as autoridades envolvidas deverão apresentar manifestação na fase em que estiver o processo de licenciamento, sem prejuízo da sua validade e do seu prosseguimento.
 
 ###### Art. 46 {#art46}
-Tags: #autoridade-envolvida #terra-indigena #quilombola
 
 **Art. 46, caput** {#art46_cpt} As autoridades envolvidas e a autoridade licenciadora competente, nos termos da [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 8 de dezembro de 2011]], poderão, mediante instrumentos de cooperação institucional, dispor sobre procedimentos específicos para licenciamentos cujos empreendedores sejam indígenas ou quilombolas, quando as atividades forem realizadas dentro das respectivas terras indígenas ou quilombolas, observadas, em qualquer caso, as normas gerais para o licenciamento ambiental estabelecidas nesta Lei.
 
 ### Seção IX – Dos Prazos Administrativos
 
 ###### Art. 47 {#art47}
-Tags: #prazo #licenca-ambiental #atuacao-supletiva #las #lor #lasr #autorizacao-ambiental
 
 **Art. 47, caput** {#art47_cpt} O processo de licenciamento ambiental deve respeitar os seguintes prazos máximos de análise para emissão da licença, contados da entrega do estudo ambiental pertinente e das demais informações ou documentos requeridos na forma desta Lei:
 
 - **Art. 47, caput, inciso I** {#art47_cpt_inc1} 10 (dez) meses para a LP, quando o estudo ambiental exigido for o EIA;
 - **Art. 47, caput, inciso II** {#art47_cpt_inc2} 6 (seis) meses para a LP, para os casos dos demais estudos;
-- **Art. 47, caput, inciso III** {#art47_cpt_inc3} #las #lor #lasr 3 (três) meses para a LI, a LO, a LOC e a LAU; e
+- **Art. 47, caput, inciso III** {#art47_cpt_inc3} 3 (três) meses para a LI, a LO, a LOC e a LAU; e
 - **Art. 47, caput, inciso IV** {#art47_cpt_inc4} 4 (quatro) meses para as licenças pelo procedimento bifásico em que não se exija EIA;
-- **Art. 47, caput, inciso V** {#art47_cpt_inc5} #autorizacao-ambiental 12 (doze) meses para a LAE.
+- **Art. 47, caput, inciso V** {#art47_cpt_inc5} 12 (doze) meses para a LAE.
 
 **Art. 47, § 1º** {#art47_par1} Os prazos estipulados no [[#art47_cpt|caput]] deste artigo podem ser alterados em casos específicos, desde que formalmente solicitado pelo empreendedor e haja a concordância da autoridade licenciadora.
 
@@ -767,7 +720,6 @@ Tags: #prazo #licenca-ambiental #atuacao-supletiva #las #lor #lasr #autorizacao-
 **Art. 47, § 5º** {#art47_par5} Respeitados os prazos previstos neste artigo, a autoridade licenciadora deve definir em ato próprio os demais prazos do licenciamento ambiental.
 
 ###### Art. 48 {#art48}
-Tags: #complementacao #prazo #arquivamento-processo
 
 **Art. 48, caput** {#art48_cpt} As exigências de complementação oriundas da análise do licenciamento ambiental de atividade ou de empreendimento devem ser comunicadas pela autoridade licenciadora de uma única vez ao empreendedor, ressalvadas as exigências decorrentes de fatos novos, nos termos do [[lei-complementar-federal-140-2011#art14_par1|§ 1º do art. 14 da Lei Complementar nº 140, de 8 de dezembro de 2011]].
 
@@ -780,31 +732,26 @@ Tags: #complementacao #prazo #arquivamento-processo
 **Art. 48, § 4º** {#art48_par4} A exigência de complementação de informações, de documentos ou de estudos feita pela autoridade licenciadora suspende a contagem dos prazos previstos nos arts. [[#art43|43]], [[#art44|44]] e [[#art47|47]] desta Lei, que continuam a fluir após o seu atendimento integral pelo empreendedor.
 
 ###### Art. 49 {#art49}
-Tags: #arquivamento-processo
 
 **Art. 49, caput** {#art49_cpt} O processo de licenciamento ambiental que ficar sem movimentação durante 2 (dois) anos em razão de inércia não justificada do empreendedor pode ser arquivado, após notificação prévia.
 
 **Art. 49, parágrafo único** {#art49_par1u} Para o desarquivamento do processo, podem ser exigidos novos estudos ou a complementação dos anteriormente apresentados, bem como cobradas novas despesas relativas ao licenciamento ambiental.
 
 ###### Art. 50 {#art50}
-Tags: #competencia
 
 **Art. 50, caput** {#art50_cpt} Os demais entes federativos interessados podem manifestar-se perante a autoridade licenciadora responsável, de maneira não vinculante, respeitados os prazos e os procedimentos do licenciamento ambiental, nos termos do [[lei-complementar-federal-140-2011#art13_par1|§ 1º do art. 13 da Lei Complementar nº 140, de 8 de dezembro de 2011]], previamente à emissão da licença da atividade ou do empreendimento.
 
 ###### Art. 51 {#art51}
-Tags: #outorga #autorizacao-ambiental #prazo
 
 **Art. 51, caput** {#art51_cpt} As autorizações ou as outorgas a cargo de órgão ou entidade integrante do Sisnama que se fizerem necessárias para o pleno exercício da licença ambiental devem ser emitidas prévia ou concomitantemente a ela, respeitados os prazos máximos previstos nos arts. [[#art43|43]], [[#art44|44]] e [[#art47|47]] desta Lei.
 
 ###### Art. 52 {#art52}
-Tags: #transferencia-titularidade #prazo
 
 **Art. 52, caput** {#art52_cpt} Os pedidos de alteração de titularidade devem ser decididos pela autoridade licenciadora em até 30 (trinta) dias, não cabendo majoração de condicionantes ambientais quando essa alteração não provocar incremento dos impactos ambientais da atividade ou do empreendimento licenciado.
 
 ### Seção X – Das Despesas do Licenciamento Ambiental
 
 ###### Art. 53 {#art53}
-Tags: #taxa-ambiental
 
 **Art. 53, caput** {#art53_cpt} Correm a expensas do empreendedor as despesas relativas:
 
@@ -824,7 +771,6 @@ Tags: #taxa-ambiental
 ## CAPÍTULO III – DISPOSIÇÕES FINAIS
 
 ###### Art. 54 {#art54}
-Tags: #unidade-conservacao #estudo-ambiental
 
 **Art. 54, caput** {#art54_cpt} Quando exigidos pelo órgão licenciador, os estudos técnicos de atividade ou de empreendimento, relativos ao planejamento setorial que envolva a pesquisa, e os demais estudos técnicos e ambientais aplicáveis, podem ser realizados em quaisquer categorias de unidades de conservação, previstas na [[lei-federal-9985-2000|Lei nº 9.985, de 18 de julho de 2000]].
 
@@ -833,22 +779,18 @@ Tags: #unidade-conservacao #estudo-ambiental
 **Art. 54, § 2º** {#art54_par2} O órgão gestor da unidade de conservação será informado com 15 (quinze) dias de antecedência sobre as datas e os horários de realização dos estudos referidos no [[#art54_cpt|caput]] deste artigo, o seu conteúdo e a metodologia utilizada. *(Promulgação partes vetadas)*
 
 ###### Art. 55 {#art55}
-Tags: #processo-administrativo
 
 **Art. 55, caput** {#art55_cpt} As leis de processo administrativo dos entes federativos aplicam-se subsidiariamente aos atos administrativos disciplinados por esta Lei.
 
 ###### Art. 56 {#art56}
-Tags: #licenca-ambiental #alteracao
 
 **Art. 56, caput** {#art56_cpt} Após a entrada em vigor desta Lei, alterações no projeto original já licenciado e não previstas na licença que autorizou a operação da atividade ou do empreendimento devem ser analisadas no âmbito do processo de licenciamento ambiental existente e, caso viáveis, autorizadas por meio de retificação.
 
 ###### Art. 57 {#art57}
-Tags: #responsabilidade #infracao-ambiental #responsavel-tecnico
 
 **Art. 57, caput** {#art57_cpt} Os profissionais que subscrevem os estudos ambientais necessários ao processo de licenciamento ambiental e os empreendedores são responsáveis pelas informações apresentadas e sujeitam-se às sanções administrativas, civis e penais cabíveis.
 
 ###### Art. 58 {#art58}
-Tags: #responsabilidade #contratacao-terceiro
 
 **Art. 58, caput** {#art58_cpt} A pessoa física ou jurídica, pública ou privada, inclusive instituição de fomento, que contrate atividade ou empreendimento sujeito a licenciamento ambiental deve exigir a apresentação da correspondente licença ambiental, definida pela autoridade licenciadora integrante do Sisnama, não possuindo dever fiscalizatório da regularidade ambiental do contratado, sob pena de responsabilidade subsidiária, na medida e proporção de sua contribuição, quanto a danos ambientais decorrentes da execução da atividade ou do empreendimento. *(Promulgação partes vetadas)*
 
@@ -857,14 +799,12 @@ Tags: #responsabilidade #contratacao-terceiro
 **Art. 58, § 2º** {#art58_par2} Exigida a apresentação da licença ambiental nos termos deste artigo, os contratantes com atividades ou empreendimentos sujeitos a licenciamento ambiental e as instituições supervisionadas pelo Banco Central do Brasil não serão responsabilizados por eventuais danos ambientais ocorridos em razão da execução da atividade ou do empreendimento.
 
 ###### Art. 59 {#art59}
-Tags: #relatorio #licenciamento-ambiental
 
 **Art. 59, caput** {#art59_cpt} As autoridades licenciadoras elaborarão relatórios que contenham avaliação dos impactos prevenidos, minimizados e compensados, das boas práticas observadas e dos benefícios ambientais decorrentes dos processos de licenciamento ambiental, com base no desempenho ambiental das atividades e dos empreendimentos licenciados.
 
 **Art. 59, parágrafo único** {#art59_par1u} Para atendimento do disposto no [[#art59_cpt|caput]] deste artigo, as autoridades licenciadoras podem utilizar os instrumentos de participação pública previstos na Seção VII do Capítulo II desta Lei.
 
 ###### Art. 60 {#art60}
-Tags: #transicao #vigencia
 
 **Art. 60, caput** {#art60_cpt} Os procedimentos previstos nesta Lei aplicam-se a processos de licenciamento ambiental iniciados após a data de sua entrada em vigor.
 
@@ -874,7 +814,6 @@ Tags: #transicao #vigencia
 - **Art. 60, parágrafo único, inciso II** {#art60_par1u_inc2} os procedimentos e os prazos das etapas subsequentes às indicadas no inciso I deste parágrafo deverão atender ao disposto nesta Lei.
 
 ###### Art. 61 {#art61}
-Tags: #unidade-conservacao #medida-compensatoria
 
 **Art. 61, caput** {#art61_cpt} O [[lei-federal-9985-2000#art36_par3|§ 3º do art. 36 da Lei nº 9.985, de 18 de julho de 2000]], passa a vigorar com a seguinte redação: *(Promulgação partes vetadas)*
 
@@ -882,7 +821,6 @@ Tags: #unidade-conservacao #medida-compensatoria
 > Art. 36. [...] [[lei-federal-9985-2000#art36_par3|§ 3º]] Quando o empreendimento afetar unidade de conservação específica ou sua zona de amortecimento, a unidade afetada, mesmo que não pertencente ao Grupo de Proteção Integral, deverá ser uma das beneficiárias da compensação definida neste artigo. [...] (NR)
 
 ###### Art. 62 {#art62}
-Tags: #crime-ambiental
 
 **Art. 62, caput** {#art62_cpt} A [[lei-federal-9605-1998|Lei nº 9.605, de 12 de fevereiro de 1998]] (Lei dos Crimes Ambientais), passa a vigorar com as seguintes alterações:
 
@@ -899,7 +837,6 @@ Tags: #crime-ambiental
 > [[lei-federal-9605-1998#art67_par1u|Parágrafo único.]] (Revogado). (NR)
 
 ###### Art. 63 {#art63}
-Tags: #sisnama
 
 **Art. 63, caput** {#art63_cpt} O [[lei-federal-6938-1981#art6_cpt_inc1|inciso I do art. 6º da Lei nº 6.938, de 31 de agosto de 1981]], passa a vigorar com a seguinte redação:
 
@@ -907,12 +844,10 @@ Tags: #sisnama
 > Art. 6º [...] [[lei-federal-6938-1981#art6_cpt_inc1|I -]] órgão superior: o Conselho de Governo, com a função de assessorar o Presidente da República na formulação da política nacional e nas diretrizes governamentais para o meio ambiente e os recursos ambientais, inclusive de propor obras, serviços, projetos e atividades para a lista de empreendimentos estratégicos, para fins de licenciamento ambiental; [...] (NR)
 
 ###### Art. 64 {#art64}
-Tags: #licenciamento-ambiental
 
 **Art. 64, caput** {#art64_cpt} No âmbito do procedimento de licenciamento ambiental de atividades ou de empreendimentos de interesse nacional, caberá, pelo empreendedor, pedido de manifestação do órgão colegiado do licenciador a respeito do processo de licenciamento em andamento, na forma de regulamento.
 
 ###### Art. 65 {#art65}
-Tags: #fiscalizacao #competencia #auto-infracao
 
 **Art. 65, caput** {#art65_cpt} Quando o licenciamento ambiental tiver sido expedido pelo órgão ambiental competente, a atuação de órgãos ambientais de outros entes federativos observará o seguinte: *(Promulgação partes vetadas)*
 
@@ -922,7 +857,6 @@ Tags: #fiscalizacao #competencia #auto-infracao
 **Art. 65, parágrafo único** {#art65_par1u} Na ocorrência do previsto no [[#art65_cpt_inc2|inciso II]] do [[#art65_cpt|caput]] deste artigo, a manifestação do órgão ambiental licenciador fará cessar automaticamente os efeitos do auto de infração ou de outras medidas aplicadas pelo órgão ambiental não licenciador.
 
 ###### Art. 66 {#art66}
-Tags: #revogacao
 
 **Art. 66, caput** {#art66_cpt} Ficam revogados os seguintes dispositivos:
 
@@ -931,7 +865,6 @@ Tags: #revogacao
 - **Art. 66, caput, inciso III** {#art66_cpt_inc3} [[lei-federal-11428-2006#art14_par1|§§ 1º e 2º do art. 14 da Lei nº 11.428, de 22 de dezembro de 2006]]. *(Promulgação partes vetadas)*
 
 ###### Art. 67 {#art67}
-Tags: #vigencia
 
 **Art. 67, caput** {#art67_cpt} Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias de sua publicação oficial.
 
@@ -966,24 +899,24 @@ Tags: #vigencia
 
 > Tipo 3 (conteúdo normativo): distâncias máximas, em quilômetros, dentro das quais as autoridades envolvidas se manifestam sobre o TR e sobre o EIA/Rima ([[#art43_cpt_inc1|art. 43, I]], [[#art44_cpt_inc1|art. 44, I]] e [[#art44_par10|art. 44, § 10]]). O anexo não tem número no original (só "ANEXO"); o ID `anexo1` é do conversor. A tabela não tem título nem número no original: foi numerada como Tabela 1 (sem título no original). O cabeçalho "Distância (Km)" cobre as duas colunas e foi repetido em cada linha; a tabela passa da pág. 29 para a pág. 30 do PDF (a linha "PCH com reservatório" fica partida entre as páginas e foi unida).
 
-**Anexo, Tabela 1 (sem título no original), cabeçalho** {#anexo1_tab1} #distancia-minima #autoridade-envolvida Tipologia | Distância (Km): \*Bioma Amazônia | Distância (Km): Demais Regiões
+**Anexo, Tabela 1 (sem título no original), cabeçalho** {#anexo1_tab1} Tipologia | Distância (Km): \*Bioma Amazônia | Distância (Km): Demais Regiões
 
-- **Anexo, Tabela 1, linha 1** {#anexo1_tab1_lin1} #distancia-minima Tipologia: Implantação de Ferrovias | Distância (Km), \*Bioma Amazônia: 8 km | Distância (Km), Demais Regiões: 3 km
-- **Anexo, Tabela 1, linha 2** {#anexo1_tab1_lin2} #distancia-minima Tipologia: Duplicação de Ferrovias fora da faixa de domínio | Distância (Km), \*Bioma Amazônia: 3 km | Distância (Km), Demais Regiões: 2 km
-- **Anexo, Tabela 1, linha 3** {#anexo1_tab1_lin3} #distancia-minima Tipologia: Implantação de Dutos | Distância (Km), \*Bioma Amazônia: 8 km | Distância (Km), Demais Regiões: 5 km
-- **Anexo, Tabela 1, linha 4** {#anexo1_tab1_lin4} #distancia-minima #rede-eletrica Tipologia: Implantação de Linhas de Transmissão | Distância (Km), \*Bioma Amazônia: 5 km | Distância (Km), Demais Regiões: 3 km
-- **Anexo, Tabela 1, linha 5** {#anexo1_tab1_lin5} #distancia-minima Tipologia: Implantação de Rodovias | Distância (Km), \*Bioma Amazônia: 15 km | Distância (Km), Demais Regiões: 7 km
-- **Anexo, Tabela 1, linha 6** {#anexo1_tab1_lin6} #distancia-minima Tipologia: Duplicação de Rodovias fora da faixa de domínio | Distância (Km), \*Bioma Amazônia: 10 km | Distância (Km), Demais Regiões: 5 km
-- **Anexo, Tabela 1, linha 7** {#anexo1_tab1_lin7} #distancia-minima #geracao-energia Tipologia: Parques eólicos | Distância (Km), \*Bioma Amazônia: 5 km | Distância (Km), Demais Regiões: 3 km
-- **Anexo, Tabela 1, linha 8** {#anexo1_tab1_lin8} #distancia-minima #porto #mineracao #eia-rima Tipologia: Portos, Termoelétricas e Mineração sujeitos a EIA/Rima | Distância (Km), \*Bioma Amazônia: 8 km | Distância (Km), Demais Regiões: 5 km
-- **Anexo, Tabela 1, linha 9** {#anexo1_tab1_lin9} #distancia-minima #aproveitamento-hidreletrico Tipologia: Aproveitamentos Hidrelétricos - Usina Hidrelétrica de Energia (UHE) sem reservatório | Distância (Km), \*Bioma Amazônia: 8 km | Distância (Km), Demais Regiões: 5 km
-- **Anexo, Tabela 1, linha 10** {#anexo1_tab1_lin10} #distancia-minima #aproveitamento-hidreletrico Tipologia: Aproveitamentos Hidrelétricos - UHE com reservatório | Distância (Km), \*Bioma Amazônia: 30 km\*\* | Distância (Km), Demais Regiões: 15 km\*\*
-- **Anexo, Tabela 1, linha 11** {#anexo1_tab1_lin11} #distancia-minima #aproveitamento-hidreletrico Tipologia: Aproveitamentos Hidrelétricos - PCH sem reservatório | Distância (Km), \*Bioma Amazônia: 5 km | Distância (Km), Demais Regiões: 2 km
-- **Anexo, Tabela 1, linha 12** {#anexo1_tab1_lin12} #distancia-minima #aproveitamento-hidreletrico Tipologia: Aproveitamentos Hidrelétricos - PCH com reservatório | Distância (Km), \*Bioma Amazônia: 10 km\*\* | Distância (Km), Demais Regiões: 5 km\*\*
-- **Anexo, Tabela 1, linha 13** {#anexo1_tab1_lin13} #distancia-minima #aproveitamento-hidreletrico Tipologia: Aproveitamentos Hidrelétricos - Central Geradora Hidráulica (CGH) | Distância (Km), \*Bioma Amazônia: limítrofe à ADA | Distância (Km), Demais Regiões: limítrofe à ADA
-- **Anexo, Tabela 1, linha 14** {#anexo1_tab1_lin14} #distancia-minima #eia-rima Tipologia: Outras modalidades de atividades ou de empreendimentos, quando sujeitos a EIA | Distância (Km), \*Bioma Amazônia: 3 km | Distância (Km), Demais Regiões: 2 km
-- **Anexo, Tabela 1, linha 15** {#anexo1_tab1_lin15} #distancia-minima Tipologia: Outras modalidades de atividades ou empreendimentos, quando não sujeitos a EIA | Distância (Km), \*Bioma Amazônia: 2 km | Distância (Km), Demais Regiões: 1 km
-- **Anexo, Tabela 1, linha 16** {#anexo1_tab1_lin16} #distancia-minima #baixo-potencial-poluidor Tipologia: Outras modalidades de atividades, quando consideradas de baixo potencial poluidor | Distância (Km), \*Bioma Amazônia: limítrofe à ADA | Distância (Km), Demais Regiões: limítrofe à ADA
+- **Anexo, Tabela 1, linha 1** {#anexo1_tab1_lin1} Tipologia: Implantação de Ferrovias | Distância (Km), \*Bioma Amazônia: 8 km | Distância (Km), Demais Regiões: 3 km
+- **Anexo, Tabela 1, linha 2** {#anexo1_tab1_lin2} Tipologia: Duplicação de Ferrovias fora da faixa de domínio | Distância (Km), \*Bioma Amazônia: 3 km | Distância (Km), Demais Regiões: 2 km
+- **Anexo, Tabela 1, linha 3** {#anexo1_tab1_lin3} Tipologia: Implantação de Dutos | Distância (Km), \*Bioma Amazônia: 8 km | Distância (Km), Demais Regiões: 5 km
+- **Anexo, Tabela 1, linha 4** {#anexo1_tab1_lin4} Tipologia: Implantação de Linhas de Transmissão | Distância (Km), \*Bioma Amazônia: 5 km | Distância (Km), Demais Regiões: 3 km
+- **Anexo, Tabela 1, linha 5** {#anexo1_tab1_lin5} Tipologia: Implantação de Rodovias | Distância (Km), \*Bioma Amazônia: 15 km | Distância (Km), Demais Regiões: 7 km
+- **Anexo, Tabela 1, linha 6** {#anexo1_tab1_lin6} Tipologia: Duplicação de Rodovias fora da faixa de domínio | Distância (Km), \*Bioma Amazônia: 10 km | Distância (Km), Demais Regiões: 5 km
+- **Anexo, Tabela 1, linha 7** {#anexo1_tab1_lin7} Tipologia: Parques eólicos | Distância (Km), \*Bioma Amazônia: 5 km | Distância (Km), Demais Regiões: 3 km
+- **Anexo, Tabela 1, linha 8** {#anexo1_tab1_lin8} Tipologia: Portos, Termoelétricas e Mineração sujeitos a EIA/Rima | Distância (Km), \*Bioma Amazônia: 8 km | Distância (Km), Demais Regiões: 5 km
+- **Anexo, Tabela 1, linha 9** {#anexo1_tab1_lin9} Tipologia: Aproveitamentos Hidrelétricos - Usina Hidrelétrica de Energia (UHE) sem reservatório | Distância (Km), \*Bioma Amazônia: 8 km | Distância (Km), Demais Regiões: 5 km
+- **Anexo, Tabela 1, linha 10** {#anexo1_tab1_lin10} Tipologia: Aproveitamentos Hidrelétricos - UHE com reservatório | Distância (Km), \*Bioma Amazônia: 30 km\*\* | Distância (Km), Demais Regiões: 15 km\*\*
+- **Anexo, Tabela 1, linha 11** {#anexo1_tab1_lin11} Tipologia: Aproveitamentos Hidrelétricos - PCH sem reservatório | Distância (Km), \*Bioma Amazônia: 5 km | Distância (Km), Demais Regiões: 2 km
+- **Anexo, Tabela 1, linha 12** {#anexo1_tab1_lin12} Tipologia: Aproveitamentos Hidrelétricos - PCH com reservatório | Distância (Km), \*Bioma Amazônia: 10 km\*\* | Distância (Km), Demais Regiões: 5 km\*\*
+- **Anexo, Tabela 1, linha 13** {#anexo1_tab1_lin13} Tipologia: Aproveitamentos Hidrelétricos - Central Geradora Hidráulica (CGH) | Distância (Km), \*Bioma Amazônia: limítrofe à ADA | Distância (Km), Demais Regiões: limítrofe à ADA
+- **Anexo, Tabela 1, linha 14** {#anexo1_tab1_lin14} Tipologia: Outras modalidades de atividades ou de empreendimentos, quando sujeitos a EIA | Distância (Km), \*Bioma Amazônia: 3 km | Distância (Km), Demais Regiões: 2 km
+- **Anexo, Tabela 1, linha 15** {#anexo1_tab1_lin15} Tipologia: Outras modalidades de atividades ou empreendimentos, quando não sujeitos a EIA | Distância (Km), \*Bioma Amazônia: 2 km | Distância (Km), Demais Regiões: 1 km
+- **Anexo, Tabela 1, linha 16** {#anexo1_tab1_lin16} Tipologia: Outras modalidades de atividades, quando consideradas de baixo potencial poluidor | Distância (Km), \*Bioma Amazônia: limítrofe à ADA | Distância (Km), Demais Regiões: limítrofe à ADA
 - **Anexo, Tabela 1, observações** {#anexo1_tab1_obs} \* Conforme Mapa de Biomas do Brasil da Fundação Instituto Brasileiro de Geografia e Estatística (IBGE). | \*\* Medidos a partir do(s) eixo(s) do(s) barramento(s) e respectivo corpo central do(s) reservatório(s).
 
 ## Promulgação das partes vetadas {#promulgacao-partes-vetadas}

@@ -39,24 +39,21 @@ Considerando o [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 11 de
 RESOLVE
 
 ###### Art. 1º {#art1}
-Tags: #dispensa #pavimentacao #area-urbana #baixo-potencial-poluidor
 
 **Art. 1º, caput** {#art1_cpt} Dispensar de licenciamento ambiental a pavimentação urbana em função de seu baixo potencial poluidor/degradador do meio ambiente.
 
-**Art. 1º, parágrafo único** {#art1_par1u} #area-urbana A dispensa de licenciamento ambiental tratada nesta Instrução Normativa, corresponde a requerimentos para pavimentação em Zona Urbana, Zona Urbanizada ou Zona de Expansão Urbana do município.
+**Art. 1º, parágrafo único** {#art1_par1u} A dispensa de licenciamento ambiental tratada nesta Instrução Normativa, corresponde a requerimentos para pavimentação em Zona Urbana, Zona Urbanizada ou Zona de Expansão Urbana do município.
 
 ###### Art. 2º {#art2}
-Tags: #dlam #dispensa #pavimentacao #licenciamento-municipal
 
 **Art. 2º, caput** {#art2_cpt} O órgão licenciador, no exercício de sua competência de controle ambiental, expedirá a Declaração de Dispensa de Licenciamento Ambiental – DLAM, para as obras de pavimentação urbana.
 
-**Art. 2º, parágrafo único** {#art2_par1u} #licenciamento-municipal A Declaração de Dispensa de Licenciamento Ambiental – DLAM é concedida de forma automática para os empreendimentos e/ou atividades que são dispensados do licenciamento por parte do órgão licenciador competente em função de seu baixo potencial poluidor/degradador – conforme os critérios estabelecidos em normativas específicas, sem prejuízo ao Licenciamento Ambiental Municipal.
+**Art. 2º, parágrafo único** {#art2_par1u} A Declaração de Dispensa de Licenciamento Ambiental – DLAM é concedida de forma automática para os empreendimentos e/ou atividades que são dispensados do licenciamento por parte do órgão licenciador competente em função de seu baixo potencial poluidor/degradador – conforme os critérios estabelecidos em normativas específicas, sem prejuízo ao Licenciamento Ambiental Municipal.
 
 ###### Art. 3º {#art3}
-Tags: #definicao #area-urbana-consolidada #pavimentacao #via-urbana #licenciamento-ambiental
 
 **Art. 3º, caput** {#art3_cpt} Para fins desta Instrução Normativa consideram-se as seguintes definições:
-- **Art. 3º, caput, inciso I** {#art3_cpt_inc1} #area-urbana-consolidada área urbana consolidada: aquela que atende os seguintes critérios:
+- **Art. 3º, caput, inciso I** {#art3_cpt_inc1} área urbana consolidada: aquela que atende os seguintes critérios:
   - **Art. 3º, caput, inciso I, alínea "a"** {#art3_cpt_inc1_alia} estar incluída no perímetro urbano ou em zona urbana pelo plano diretor ou por lei municipal específica;
   - **Art. 3º, caput, inciso I, alínea "b"** {#art3_cpt_inc1_alib} dispor de sistema viário implantado;
   - **Art. 3º, caput, inciso I, alínea "c"** {#art3_cpt_inc1_alic} estar organizada em quadras e lotes predominantemente edificados;
@@ -72,113 +69,99 @@ Tags: #definicao #area-urbana-consolidada #pavimentacao #via-urbana #licenciamen
 - **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} manutenção: conjunto de operações destinadas a evitar a deterioração precoce da estrutura de vias urbanas e, por conseguinte, a necessidade de serviços de reconstrução. Inclui-se nessa definição, as atividades de manutenção corretiva rotineira e periódica;
 - **Art. 3º, caput, inciso V** {#art3_cpt_inc5} melhorias: conjunto de operações que acrescentam as rodovias (estradas) existentes características novas, sem modificar as existentes ex. colocação de bueiros, sarjas, bigodes, caixas de retenção para infiltração lenta da água no solo em estruturas adequadas;
 - **Art. 3º, caput, inciso VI** {#art3_cpt_inc6} operações rotineiras ou periódicas: operações que têm por objetivo evitar o surgimento ou agravamento de defeitos, bem como manter os componentes do empreendimento viário terrestre em boas condições de segurança e trafegabilidade;
-- **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} #pavimentacao #via-urbana pavimentação de via terrestre urbana: Obra destinada a aplicação de um revestimento sobre o leito da via urbana, com o objetivo de melhorar as condições de tráfego e aumentar a sua durabilidade. É uma estrutura construída após a terraplenagem e destinada, econômica e simultaneamente, em seu conjunto a resistir e distribuir ao subleito os esforções verticais oriundos dos veículos, melhorar as condições de rolamento quanto a comodidade e segurança, resistir aos esforços horizontais que nela atuam tornando mais durável a superfície de rolamento;
+- **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} pavimentação de via terrestre urbana: Obra destinada a aplicação de um revestimento sobre o leito da via urbana, com o objetivo de melhorar as condições de tráfego e aumentar a sua durabilidade. É uma estrutura construída após a terraplenagem e destinada, econômica e simultaneamente, em seu conjunto a resistir e distribuir ao subleito os esforções verticais oriundos dos veículos, melhorar as condições de rolamento quanto a comodidade e segurança, resistir aos esforços horizontais que nela atuam tornando mais durável a superfície de rolamento;
 - **Art. 3º, caput, inciso VIII** {#art3_cpt_inc8} revestimento primário de empreendimentos viários terrestres: camada granular, composta por agregados naturais e/ou artificiais, aplicada diretamente sobre o subleito compactado e regularizado em empreendimentos viários terrestres não pavimentados, com a função de assegurar condições satisfatórias de tráfego;
-- **Art. 3º, caput, inciso IX** {#art3_cpt_inc9} #via-urbana vias terrestres urbanas: espaços físicos destinados à circulação de veículos, pedestres e, em alguns casos, ciclistas, localizados dentro do perímetro urbano de uma cidade e que fazem parte da infraestrutura viária e têm papel fundamental na organização do trânsito e na mobilidade urbana.
+- **Art. 3º, caput, inciso IX** {#art3_cpt_inc9} vias terrestres urbanas: espaços físicos destinados à circulação de veículos, pedestres e, em alguns casos, ciclistas, localizados dentro do perímetro urbano de uma cidade e que fazem parte da infraestrutura viária e têm papel fundamental na organização do trânsito e na mobilidade urbana.
 
 ###### Art. 4º {#art4}
-Tags: #pavimentacao #terraplanagem #drenagem-urbana #asfalto
 
 **Art. 4º, caput** {#art4_cpt} Para fins desta Instrução Normativa, consideram-se obras de pavimentação urbana:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} instalação de lombadas;
 - **Art. 4º, caput, inciso II** {#art4_cpt_inc2} regularização, conformação e compactação do leito;
 - **Art. 4º, caput, inciso III** {#art4_cpt_inc3} escarificação, conformação e compactação do subleito;
-- **Art. 4º, caput, inciso IV** {#art4_cpt_inc4} #terraplanagem terraplanagem para nivelamento e preparação do terreno;
-- **Art. 4º, caput, inciso V** {#art4_cpt_inc5} #drenagem-urbana drenagem urbana, tais como, construção de sarjetas, bocas de lobo e redes de escoamento pluvial;
+- **Art. 4º, caput, inciso IV** {#art4_cpt_inc4} terraplanagem para nivelamento e preparação do terreno;
+- **Art. 4º, caput, inciso V** {#art4_cpt_inc5} drenagem urbana, tais como, construção de sarjetas, bocas de lobo e redes de escoamento pluvial;
 - **Art. 4º, caput, inciso VI** {#art4_cpt_inc6} base e sub-base (camadas estruturais abaixo do revestimento);
-- **Art. 4º, caput, inciso VII** {#art4_cpt_inc7} #asfalto revestimento através da aplicação do material de pavimentação tais como: recape asfáltico, misturas asfálticas (CBUQ - Concreto Betuminoso Usinado a Quente, PMF (Pré-Misturado a Frio), TSD (Tratamento Superficial Duplo ou Simples), Microrrevestimento Asfáltico), pedras irregulares, paralelepípedos, blocos de concreto intertravados e pavimento rígido de concreto;
+- **Art. 4º, caput, inciso VII** {#art4_cpt_inc7} revestimento através da aplicação do material de pavimentação tais como: recape asfáltico, misturas asfálticas (CBUQ - Concreto Betuminoso Usinado a Quente, PMF (Pré-Misturado a Frio), TSD (Tratamento Superficial Duplo ou Simples), Microrrevestimento Asfáltico), pedras irregulares, paralelepípedos, blocos de concreto intertravados e pavimento rígido de concreto;
 - **Art. 4º, caput, inciso VIII** {#art4_cpt_inc8} calçadas e acessibilidade;
 - **Art. 4º, caput, inciso IX** {#art4_cpt_inc9} sinalização;
 - **Art. 4º, caput, inciso X** {#art4_cpt_inc10} implantação de ciclovias, desde que não haja alteração do eixo do traçado original.
 
 ###### Art. 5º {#art5}
-Tags: #dispensa #pavimentacao #supressao-vegetacao #vegetacao-nativa #movimentacao-solo #area-fragil #reserva-legal #area-umida #unidade-conservacao #terra-indigena #quilombola #comunidade-tradicional #anuencia
 
 **Art. 5º, caput** {#art5_cpt} Para dispensa de Licenciamento Ambiental de obras de pavimentação urbana devem ser atendidos todos os critérios estabelecidos abaixo:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} não haver alteração do eixo do traçado original;
 - **Art. 5º, caput, inciso II** {#art5_cpt_inc2} sem abertura de novas vias urbanas;
-- **Art. 5º, caput, inciso III** {#art5_cpt_inc3} #supressao-vegetacao #vegetacao-nativa não haver supressão de vegetação nativa;
-- **Art. 5º, caput, inciso IV** {#art5_cpt_inc4} #movimentacao-solo executar movimentação de solo de até 10 m³ por metro linear;
-- **Art. 5º, caput, inciso V** {#art5_cpt_inc5} #area-fragil #reserva-legal #area-umida #unidade-conservacao não estejam localizados em áreas ambientalmente frágeis ou protegidas, tais como Reserva legal, Áreas Úmidas, Unidades de Conservação, entre outras;
-- **Art. 5º, caput, inciso VI** {#art5_cpt_inc6} #terra-indigena #quilombola #comunidade-tradicional não estejam localizados em áreas terras Indígenas, quilombolas e de comunidades tradicionais.
+- **Art. 5º, caput, inciso III** {#art5_cpt_inc3} não haver supressão de vegetação nativa;
+- **Art. 5º, caput, inciso IV** {#art5_cpt_inc4} executar movimentação de solo de até 10 m³ por metro linear;
+- **Art. 5º, caput, inciso V** {#art5_cpt_inc5} não estejam localizados em áreas ambientalmente frágeis ou protegidas, tais como Reserva legal, Áreas Úmidas, Unidades de Conservação, entre outras;
+- **Art. 5º, caput, inciso VI** {#art5_cpt_inc6} não estejam localizados em áreas terras Indígenas, quilombolas e de comunidades tradicionais.
 
-**Art. 5º, parágrafo único** {#art5_par1u} #area-urbana-consolidada #unidade-conservacao #anuencia Nos casos de obras de pavimentação em área urbana consolidada, situadas no interior de unidades de conservação de uso sustentável, fica dispensada a anuência ou manifestação do órgão gestor da unidade de conservação.
+**Art. 5º, parágrafo único** {#art5_par1u} Nos casos de obras de pavimentação em área urbana consolidada, situadas no interior de unidades de conservação de uso sustentável, fica dispensada a anuência ou manifestação do órgão gestor da unidade de conservação.
 
 ###### Art. 6º {#art6}
-Tags: #dispensa #enquadramento #licenciamento-ambiental
 
 **Art. 6º, caput** {#art6_cpt} Em caso de não atendimento de qualquer dos critérios estabelecidos no [[#art5|Art. 5º]], deve ser requerido o respectivo licenciamento ambiental de acordo com as normas específicas.
 
 ###### Art. 7º {#art7}
-Tags: #pavimentacao #atividade-vinculada #jazida #usina-asfalto
 
 **Art. 7º, caput** {#art7_cpt} As atividades relacionadas à execução de pavimentação urbana, que sejam potencialmente degradadoras do meio ambiente, tais como: áreas de empréstimo, aproveitamento de jazidas, áreas de disposição de solo excedente, acampamento, planta de britagem, usina de asfalto, e outros, deverão estar devidamente licenciadas, de acordo com as normas específicas.
 
 ###### Art. 8º {#art8}
-Tags: #app #autorizacao-ambiental
 
 **Art. 8º, caput** {#art8_cpt} Quando o projeto de pavimentação implicar na intervenção em área de preservação permanente – APP, será obrigatória a obtenção de Autorização Ambiental específica para tal fim.
 
 ###### Art. 9º {#art9}
-Tags: #recurso-hidrico #outorga #outorga-previa #uso-insignificante
 
 **Art. 9º, caput** {#art9_cpt} Em caso de obras relacionadas à execução de pavimentação urbana, que necessite de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação e/ou intervenções de obras), deverá ser solicitada a respectiva Portaria(s) de Outorga Prévia e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga.
 
 ###### Art. 10 {#art10}
-Tags: #dlam #requerimento #documentacao #cnpj #cpf #procuracao #certidao-municipal #uso-solo #utilidade-publica #georreferenciamento #embargo #declaracao-veracidade #unidade-conservacao #anuencia
 
 **Art. 10, caput** {#art10_cpt} Os requerimentos para obtenção da Declaração de Dispensa de Licenciamento Ambiental – DLAM, conforme [[#art5|Art. 5°]] da presente Instrução Normativa, devem ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 10, caput, inciso I** {#art10_cpt_inc1} para pessoa jurídica:
-  - **Art. 10, caput, inciso I, alínea "a"** {#art10_cpt_inc1_alia} #cnpj extrato do Cadastro Nacional de Pessoa Jurídica - CNPJ;
+  - **Art. 10, caput, inciso I, alínea "a"** {#art10_cpt_inc1_alia} extrato do Cadastro Nacional de Pessoa Jurídica - CNPJ;
   - **Art. 10, caput, inciso I, alínea "b"** {#art10_cpt_inc1_alib} cópia do Contrato Social ou Estatuto Social.
 - **Art. 10, caput, inciso II** {#art10_cpt_inc2} para pessoa física:
-  - **Art. 10, caput, inciso II, alínea "a"** {#art10_cpt_inc2_alia} #cpf cópia do Cadastro de Pessoa Física - CPF;
+  - **Art. 10, caput, inciso II, alínea "a"** {#art10_cpt_inc2_alia} cópia do Cadastro de Pessoa Física - CPF;
   - **Art. 10, caput, inciso II, alínea "b"** {#art10_cpt_inc2_alib} cópia do Registro Geral – RG.
 - **Art. 10, caput, inciso III** {#art10_cpt_inc3} para representante legal:
   - **Art. 10, caput, inciso III, alínea "a"** {#art10_cpt_inc3_alia} cópia do Cadastro de Pessoa Física - CPF do representante legal e do requerente;
   - **Art. 10, caput, inciso III, alínea "b"** {#art10_cpt_inc3_alib} cópia do Registro Geral - RG do representante legal e do requerente;
-  - **Art. 10, caput, inciso III, alínea "c"** {#art10_cpt_inc3_alic} #procuracao cópia do instrumento de procuração com firma reconhecida.
+  - **Art. 10, caput, inciso III, alínea "c"** {#art10_cpt_inc3_alic} cópia do instrumento de procuração com firma reconhecida.
 - **Art. 10, caput, inciso IV** {#art10_cpt_inc4} Ficha de Caracterização de Empreendimentos Viários Terrestres - FCA, conforme diretrizes do [[#anexo1|ANEXO I]];
-- **Art. 10, caput, inciso V** {#art10_cpt_inc5} #certidao-municipal #uso-solo certidão do município declarando que o local e o tipo de empreendimento e/ou atividade estão em conformidade com a legislação aplicável ao uso e ocupação do solo, bem como que atendam as demais exigências legais e administrativas perante o município, conforme diretrizes do [[#anexo2|ANEXO II]];
-- **Art. 10, caput, inciso VI** {#art10_cpt_inc6} #utilidade-publica #georreferenciamento para empreendimentos públicos, apresentar Decreto de Utilidade Pública (cópia do documento e arquivo vetorial georreferenciado do perímetro da área decretada);
+- **Art. 10, caput, inciso V** {#art10_cpt_inc5} certidão do município declarando que o local e o tipo de empreendimento e/ou atividade estão em conformidade com a legislação aplicável ao uso e ocupação do solo, bem como que atendam as demais exigências legais e administrativas perante o município, conforme diretrizes do [[#anexo2|ANEXO II]];
+- **Art. 10, caput, inciso VI** {#art10_cpt_inc6} para empreendimentos públicos, apresentar Decreto de Utilidade Pública (cópia do documento e arquivo vetorial georreferenciado do perímetro da área decretada);
 - **Art. 10, caput, inciso VII** {#art10_cpt_inc7} no caso de interferência direta em propriedades de terceiros, apresentar a ata da audiência pública com os proprietários lindeiros à estrada, com lista de presença (nome, contato, CPF e INCRA), com o objetivo de informar a pretensão de intervenções na estrada, contemplando a anuência dos mesmos.
-- **Art. 10, caput, inciso VIII** {#art10_cpt_inc8} #embargo Declaração do requerente informando que a área a ser licenciada não possui embargos, conforme diretrizes do [[#anexo3|ANEXO IV]];
-- **Art. 10, caput, inciso IX** {#art10_cpt_inc9} #declaracao-veracidade Declaração da veracidade das informações prestadas, conforme diretrizes do [[#anexo4|ANEXO V]];
-- **Art. 10, caput, inciso X** {#art10_cpt_inc10} #georreferenciamento croqui do empreendimento sobre imagem aérea atualizada, georreferenciado no datum SIRGAS 2000, com projeção UTM, e disponibilizado em arquivos vetoriais nos formatos .kml ou .kmz, representando o traçado do empreendimento viário rural;
-- **Art. 10, caput, inciso XI** {#art10_cpt_inc11} #unidade-conservacao #anuencia Anuência ou manifestação do órgão gestor da unidade de conservação de proteção integral, em casos de obras de pavimentação urbana a serem executadas em unidades de conservação.
+- **Art. 10, caput, inciso VIII** {#art10_cpt_inc8} Declaração do requerente informando que a área a ser licenciada não possui embargos, conforme diretrizes do [[#anexo3|ANEXO IV]];
+- **Art. 10, caput, inciso IX** {#art10_cpt_inc9} Declaração da veracidade das informações prestadas, conforme diretrizes do [[#anexo4|ANEXO V]];
+- **Art. 10, caput, inciso X** {#art10_cpt_inc10} croqui do empreendimento sobre imagem aérea atualizada, georreferenciado no datum SIRGAS 2000, com projeção UTM, e disponibilizado em arquivos vetoriais nos formatos .kml ou .kmz, representando o traçado do empreendimento viário rural;
+- **Art. 10, caput, inciso XI** {#art10_cpt_inc11} Anuência ou manifestação do órgão gestor da unidade de conservação de proteção integral, em casos de obras de pavimentação urbana a serem executadas em unidades de conservação.
 
 ###### Art. 11 {#art11}
-Tags: #dlam #validade #renovacao
 
 **Art. 11, caput** {#art11_cpt} O prazo de validade da Declaração de Dispensa de Licenciamento Ambiental – DLAM, será de 10 (dez) anos, podendo ser renovada a critério técnico do órgão ambiental competente;
 
 ###### Art. 12 {#art12}
-Tags: #complementacao #documentacao
 
 **Art. 12, caput** {#art12_cpt} O órgão ambiental competente poderá solicitar outros documentos e/ou informações complementares do requerente ou de outras instituições envolvidas no licenciamento ambiental em questão, caso haja necessidade.
 
 ###### Art. 13 {#art13}
-Tags: #pendencia-judicial #manifestacao-juridica #suspensao-processo #prazo
 
 **Art. 13, caput** {#art13_cpt} Constatada a existência de pendência judicial envolvendo o empreendedor, o empreendimento ou o imóvel, a decisão administrativa sobre a eventual suspensão do licenciamento será precedida de manifestação jurídica do órgão ambiental competente no prazo máximo de 30 (trinta) dias.
 
 ###### Art. 14 {#art14}
-Tags: #sancao #infracao-ambiental #dano-ambiental #recuperacao-ambiental
 
 **Art. 14, caput** {#art14_cpt} O não cumprimento do disposto nesta Instrução Normativa sujeitará os infratores às sanções previstas nas Leis Federais [[lei-federal-6938-1981|n.º 6.938 de 31 de agosto de 1981]], [[lei-federal-9605-1998|n.º 9.605 de 12 de fevereiro de 1998]], [[decreto-federal-6514-2008|Decreto Federal 6.514 de 06 de julho de 2008]] e demais instrumentos normativos pertinentes, sem prejuízo ao dever de recuperar os danos ambientais causados, na forma do [[constituicao-federal-1988#art225_par3|Art. 225, §3º, da Constituição Federal]], e do [[lei-federal-6938-1981#art14_par1|Art. 14, § 1°, da Lei Federal n. 6.938, de 1981]].
 
 ###### Art. 15 {#art15}
-Tags: #informacao-falsa #cancelamento-licenca #sancao
 
 **Art. 15, caput** {#art15_cpt} A constatação, a qualquer tempo, de informações e/ou documentos falsos implicará a nulidade da licença concedida, bem como seu cancelamento, pelo Instituto Água e Terra - IAT, sujeitando-se às sanções administrativas e penais, sem prejuízo da responsabilização civil.
 
 ###### Art. 16 {#art16}
-Tags: #casos-omissos
 
 **Art. 16, caput** {#art16_cpt} Os casos omissos ou situações não previstas nesta Instrução Normativa, serão analisados pelo Instituto Água e Terra - IAT e enquadrados na legislação ambiental vigente conforme as características particulares de cada empreendimento.
 
 ###### Art. 17 {#art17}
-Tags: #vigencia
 
 **Art. 17, caput** {#art17_cpt} Esta Instrução Normativa entra em vigor na data de sua publicação.
 

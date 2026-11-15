@@ -40,14 +40,12 @@ fonte: "Impressão de página da internet em PDF (10 páginas), enviada por Leo;
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #area-contaminada #solo #agua-subterranea #definicao
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer conceitos, premissas, requisitos, critérios, diretrizes e procedimentos administrativos a serem cumpridos para a proteção da qualidade do solo e da água subterrânea na hipótese de alterações prejudiciais ao meio ambiente, à saúde humana e a outros bens a serem protegidos, bem como para o Gerenciamento de Áreas Contaminadas.
 
 ### CAPÍTULO I – DAS DISPOSIÇÕES GERAIS
 
 ###### Art. 2º {#art2}
-Tags: #area-contaminada #solo #agua-subterranea #definicao
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução, adotam-se as definições:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} água subterrânea: água que ocorre abaixo da superfície, preenchendo os poros ou vazios intergranulares ou fraturas, falhas e fissuras;
@@ -106,7 +104,6 @@ Tags: #area-contaminada #solo #agua-subterranea #definicao
 - **Art. 2º, caput, inciso L** {#art2_cpt_inc50} valores de referência de qualidade - VRQ: concentração de determinada substância que define a qualidade natural do solo e da água subterrânea, determinado com base em interpretação estatística de análises físico-químicas de amostras coletadas.
 
 ###### Art. 3º {#art3}
-Tags: #area-contaminada #solo #agua-subterranea #definicao
 
 **Art. 3º, caput** {#art3_cpt} A proteção do solo deve ser preventiva, a fim de garantir a manutenção da sua funcionalidade ou, de maneira corretiva, com a finalidade de restaurar sua qualidade ou recuperá-la de forma compatível com os usos previstos.
 
@@ -121,7 +118,6 @@ Tags: #area-contaminada #solo #agua-subterranea #definicao
 - **Art. 3º, parágrafo único, inciso VIII** {#art3_par1u_inc8} armazenamento e ciclagem de nutrientes para as plantas e outros elementos;
 
 ###### Art. 4º {#art4}
-Tags: #area-contaminada #solo #agua-subterranea #definicao
 
 **Art. 4º, caput** {#art4_cpt} Para a proteção da qualidade do solo, das águas subterrâneas e Gerenciamento de Áreas Contaminadas, são estabelecidos como princípios:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} a manutenção da qualidade do solo e das águas subterrâneas;
@@ -134,7 +130,6 @@ Tags: #area-contaminada #solo #agua-subterranea #definicao
 - **Art. 4º, caput, inciso VIII** {#art4_cpt_inc8} a racionalidade e otimização de ações e custos.
 
 ###### Art. 5º {#art5}
-Tags: #area-contaminada #solo #agua-subterranea #definicao
 
 **Art. 5º, caput** {#art5_cpt} São instrumentos para a proteção da qualidade do solo, das águas subterrâneas e para o Gerenciamento de Áreas Contaminadas, dentre outros:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} os valores orientadores;
@@ -151,22 +146,18 @@ Tags: #area-contaminada #solo #agua-subterranea #definicao
 ### CAPÍTULO II – PREVENÇÃO E CONTROLE DA CONTAMINAÇÃO
 
 ###### Art. 6º {#art6}
-Tags: #qualidade-solo #valor-orientador #monitoramento #agua-subterranea #responsavel-tecnico
 
 **Art. 6º, caput** {#art6_cpt} Qualquer pessoa física ou jurídica que, por ação ou omissão, ocasione ou possa ocasionar a contaminação do solo, deve adotar, da maneira estabelecida no caput do Art. 3º desta Resolução, as providências necessárias para evitar alterações adversas e prejudiciais às funções estabelecidas em seu parágrafo único.
 
 ###### Art. 7º {#art7}
-Tags: #qualidade-solo #valor-orientador #monitoramento #agua-subterranea #responsavel-tecnico
 
 **Art. 7º, caput** {#art7_cpt} O órgão estadual do meio ambiente, o órgão municipal capacitado, bem como os demais órgãos ou entidades da Administração Pública direta ou indireta, no exercício das atividades de licenciamento e controle, devem exigir medidas dos empreendedores para a atuação de forma preventiva e corretiva, com o objetivo de evitar alterações adversas e prejudiciais às funções do solo e da qualidade da água subterrânea.
 
 ###### Art. 8º {#art8}
-Tags: #qualidade-solo #valor-orientador #monitoramento #agua-subterranea #responsavel-tecnico
 
 **Art. 8º, caput** {#art8_cpt} A avaliação da qualidade do solo e da água subterrânea, quanto a presença de contaminantes deve ser efetuada com base em valores orientadores de referência de qualidade (VRQ), de prevenção (VP), de investigação (VI) ou outros padrões legais aplicáveis e nas concentrações máximas aceitáveis (CMAs), calculadas para o local, quando necessário.
 
 ###### Art. 9º {#art9}
-Tags: #qualidade-solo #valor-orientador #monitoramento #agua-subterranea #responsavel-tecnico
 
 **Art. 9º, caput** {#art9_cpt} Os valores de referência de qualidade (VRQ) são utilizados para orientar a prevenção e controle das funções do solo e da qualidade da água subterrânea, podendo variar conforme a localização geográfica e o contexto regional.
 
@@ -177,7 +168,6 @@ Tags: #qualidade-solo #valor-orientador #monitoramento #agua-subterranea #respon
 **Art. 9º, § 3º** {#art9_par3} º Os valores de referência de qualidade (VRQ) das águas subterrâneas serão definidos pelo órgão competente, de acordo com a [[resolucao-conama-96-2008|Resolução CONAMA nº 96/2008]] ou outra que a venha substituir, publicados em portaria específica.
 
 ###### Art. 10 {#art10}
-Tags: #qualidade-solo #valor-orientador #monitoramento #agua-subterranea #responsavel-tecnico
 
 **Art. 10, caput** {#art10_cpt} Os valores de prevenção (VP) são utilizados para o controle e prevenção de introdução de substâncias no solo que possam promover alterações prejudiciais as suas funções e à qualidade da água subterrânea.
 
@@ -192,7 +182,6 @@ específica.
 **Art. 10, § 4º** {#art10_par4} º Os responsáveis legais pela introdução no solo de cargas poluentes procederão ao monitoramento dos impactos decorrentes de sua ação, independentemente da aprovação do órgão estadual do meio ambiente, que poderá, posteriormente, exigir complementações ou alterações das ações tomadas.
 
 ###### Art. 11 {#art11}
-Tags: #qualidade-solo #valor-orientador #monitoramento #agua-subterranea #responsavel-tecnico
 
 **Art. 11, caput** {#art11_cpt} Os valores de investigação são utilizados como referência de concentrações máximas para a introdução de substâncias poluentes no solo e na água.
 
@@ -203,7 +192,6 @@ Tags: #qualidade-solo #valor-orientador #monitoramento #agua-subterranea #respon
 **Art. 11, § 3º** {#art11_par3} º Sendo detectadas concentrações acima dos valores de investigação (VI) durante a realização do monitoramento preventivo da qualidade do solo e das águas subterrâneas, a área será classificada como área contaminada sob investigação (AC), ficando sujeita ao cumprimento das ações previstas no Capítulo III desta Resolução.
 
 ###### Art. 12 {#art12}
-Tags: #qualidade-solo #valor-orientador #monitoramento #agua-subterranea #responsavel-tecnico
 
 **Art. 12, caput** {#art12_cpt} O órgão ambiental exigirá do responsável legal pela atividade a ser licenciada com potencial de contaminação do solo, das águas subterrâneas e de outros bens a serem protegidos, a apresentação de um programa de monitoramento preventivo da área do empreendimento e de seu entorno, nos casos em que ocorra e que venha a ocorrer:
 - **Art. 12, caput, inciso I** {#art12_cpt_inc1} lançamento de efluentes ou disposição de resíduos no solo como forma de destinação final;
@@ -215,12 +203,10 @@ Tags: #qualidade-solo #valor-orientador #monitoramento #agua-subterranea #respon
 **Art. 12, parágrafo único** {#art12_par1u} O órgão ambiental poderá exigir a execução de um Programa de Monitoramento Preventivo da atividade com potencial de contaminação do solo e das águas subterrâneas, independentemente de se enquadrarem nas situações previstas no caput deste artigo.
 
 ###### Art. 13 {#art13}
-Tags: #qualidade-solo #valor-orientador #monitoramento #agua-subterranea #responsavel-tecnico
 
 **Art. 13, caput** {#art13_cpt} O programa de monitoramento preventivo deverá ser elaborado conforme diretrizes estabelecidas em portaria a ser publicada pelo órgão ambiental competente, observando os procedimentos estabelecidos em normas específicas.
 
 ###### Art. 14 {#art14}
-Tags: #qualidade-solo #valor-orientador #monitoramento #agua-subterranea #responsavel-tecnico
 
 **Art. 14, caput** {#art14_cpt} O Programa de Monitoramento Preventivo deve ser elaborado por responsável técnico devidamente habilitado, cuja execução será por ele acompanhada e independerá de prévia autorização do órgão ambiental.
 
@@ -231,12 +217,10 @@ Tags: #qualidade-solo #valor-orientador #monitoramento #agua-subterranea #respon
 #### Seção I – Do Gerenciamento de Áreas Contaminadas
 
 ###### Art. 15 {#art15}
-Tags: #area-contaminada #gerenciamento-area-contaminada #responsavel-tecnico
 
 **Art. 15, caput** {#art15_cpt} As diretrizes para o gerenciamento da contaminação do solo abrangem todos seus componentes sólidos, líquidos e gasosos.
 
 ###### Art. 16 {#art16}
-Tags: #area-contaminada #gerenciamento-area-contaminada #responsavel-tecnico
 
 **Art. 16, caput** {#art16_cpt} Quando a contaminação de uma área colocar em perigo a vida ou a integridade de seres vivos, a comunicação ao órgão ambiental e de saúde deve ser imediata, com a adoção, pelo responsável legal, das medidas necessárias de intervenção para sua reabilitação.
 
@@ -250,17 +234,14 @@ Tags: #area-contaminada #gerenciamento-area-contaminada #responsavel-tecnico
 **Art. 16, § 2º** {#art16_par2} º Não sendo tomadas as medidas de intervenção necessárias para eliminação do perigo pelo responsável legal, o Poder Público poderá fazê-lo, garantindo o direito de ressarcimento dos custos efetivamente despendidos, devidamente comprovados.
 
 ###### Art. 17 {#art17}
-Tags: #area-contaminada #gerenciamento-area-contaminada #responsavel-tecnico
 
 **Art. 17, caput** {#art17_cpt} O responsável técnico habilitado será responsabilizado legalmente, em qualquer etapa do Gerenciamento de Áreas Contaminadas, quando apresentar estudo total ou parcialmente falso ou enganoso, inclusive por omissão e podendo suas ações reverterem inclusive, no agravamento da situação ambiental da área.
 
 ###### Art. 18 {#art18}
-Tags: #area-contaminada #gerenciamento-area-contaminada #responsavel-tecnico
 
 **Art. 18, caput** {#art18_cpt} O responsável técnico tem o dever de relatar ao órgão ambiental todas as informações relevantes ao Gerenciamento de Áreas Contaminadas em que atua, por meio dos devidos instrumentos previstos na Seção III.
 
 ###### Art. 19 {#art19}
-Tags: #area-contaminada #gerenciamento-area-contaminada #responsavel-tecnico
 
 **Art. 19, caput** {#art19_cpt} O Gerenciamento de Áreas Contaminadas compreende as etapas de identificação, diagnóstico e intervenção, implantadas segundo o nível das informações ou riscos existentes em cada área.
 
@@ -277,7 +258,6 @@ Tags: #area-contaminada #gerenciamento-area-contaminada #responsavel-tecnico
 #### Seção II – Classificação de Áreas Contaminadas
 
 ###### Art. 20 {#art20}
-Tags: #area-contaminada #classificacao-area #iat
 
 **Art. 20, caput** {#art20_cpt} As áreas submetidas ao Gerenciamento de Áreas Contaminadas, classificam-se em:
 - **Art. 20, caput, inciso I** {#art20_cpt_inc1} área com potencial de contaminação (AP); toda área, terreno, local, instalação, edificação ou benfeitoria onde são, ou foram, desenvolvidas atividades poluidoras, que possam acumular quantidades ou concentrações de substância (s) que a tornem contaminada.
@@ -295,7 +275,6 @@ Tags: #area-contaminada #classificacao-area #iat
 - **Art. 20, caput, inciso VIII** {#art20_cpt_inc8} área reabilitada para uso declarado (AR): toda área, terreno, local, instalação, edificação ou benfeitoria anteriormente contaminada que, depois de submetida a medidas de intervenção, tem restabelecido o nível de risco aceitável para a saúde humana, permitindo o uso declarado.
 
 ###### Art. 21 {#art21}
-Tags: #area-contaminada #classificacao-area #iat
 
 **Art. 21, caput** {#art21_cpt} O órgão ambiental deverá ser notificado pelo responsável legal e/ou pelo responsável técnico caso sejam identificadas características que permitam classificar determinado local como área contaminada sob investigação (AC), bem como, em quaisquer mudanças de classificação da área a partir da sua identificação.
 
@@ -304,7 +283,6 @@ Tags: #area-contaminada #classificacao-area #iat
 ##### Subseção I – Da avaliação preliminar
 
 ###### Art. 22 {#art22}
-Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #prazo
 
 **Art. 22, caput** {#art22_cpt} Os responsáveis legais pelas áreas com potencial de contaminação deverão ser demandados pelo órgão ambiental competente a realizar avaliação preliminar destinada à identificação de indícios ou suspeitas de contaminação.
 
@@ -317,7 +295,6 @@ Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #pra
 ##### Subseção II – Da investigação confirmatória
 
 ###### Art. 23 {#art23}
-Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #prazo
 
 **Art. 23, caput** {#art23_cpt} O responsável legal por uma área suspeita de contaminação (AS), deve realizar investigação confirmatória.
 
@@ -328,26 +305,22 @@ Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #pra
 **Art. 23, § 3º** {#art23_par3} º Apresentando o resultado das análises químicas concentrações acima dos valores de investigação, a área será classificada como área contaminada sob investigação (AC).
 
 ###### Art. 24 {#art24}
-Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #prazo
 
 **Art. 24, caput** {#art24_cpt} Independente da solicitação do órgão ambiental competente, caso sejam detectados indícios ou suspeitas de que uma área esteja contaminada, o responsável legal, deverá imediatamente comunicar tal fato ao órgão ambiental e realizar a avaliação preliminar e investigação confirmatória.
 
 ##### Subseção III – Da investigação detalhada e avaliação de risco
 
 ###### Art. 25 {#art25}
-Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #prazo
 
 **Art. 25, caput** {#art25_cpt} O responsável legal por uma área contaminada sob investigação (AC) deve, obrigatoriamente, realizar a investigação detalhada, independentemente de determinação do órgão ambiental.
 
 **Art. 25, parágrafo único** {#art25_par1u} A investigação detalhada deve caracterizar a contaminação a partir da sua delimitação tridimensional, da quantificação das massas e concentrações de contaminantes, considerando as diferentes fases em que se encontram além da caracterização do meio físico, do transporte das substâncias contaminantes e sua evolução no tempo, de forma a fundamentar a aplicação da avaliação de risco na área sob investigação.
 
 ###### Art. 26 {#art26}
-Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #prazo
 
 **Art. 26, caput** {#art26_cpt} Quando forem constatadas presença de produtos ou substâncias em fase livre ou ainda em casos em que haja a necessidade de detalhamento da contaminação, o responsável legal deve realizar a investigação detalhada.
 
 ###### Art. 27 {#art27}
-Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #prazo
 
 **Art. 27, caput** {#art27_cpt} O responsável legal deve promover a avaliação de risco ao realizar a investigação detalhada, ou ainda quando forem alterados os cenários de exposição ou do uso e ocupação do solo em áreas afetadas por contaminação no solo e na água subterrânea.
 
@@ -358,7 +331,6 @@ Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #pra
 **Art. 27, § 3º** {#art27_par3} º As concentrações máximas aceitáveis (CMAs) para o local devem ser obtidas por meio das ferramentas utilizadas para a avaliação de risco para áreas contaminadas, desde que validadas pelo órgão ambiental.
 
 ###### Art. 28 {#art28}
-Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #prazo
 
 **Art. 28, caput** {#art28_cpt} Classificada determinada área como área contaminada com risco confirmado (ACR), o órgão ambiental deve:
 - **Art. 28, caput, inciso I** {#art28_cpt_inc1} comunicar à Secretaria Estadual de Saúde;
@@ -369,26 +341,22 @@ Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #pra
 - **Art. 28, caput, inciso VI** {#art28_cpt_inc6} exigir do responsável legal pela área a apresentação de Plano de Intervenção para o local.
 
 ###### Art. 29 {#art29}
-Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #prazo
 
 **Art. 29, caput** {#art29_cpt} Na área em que foi realizada a investigação detalhada e a avaliação de risco e não tenham sido constatadas quaisquer das situações indicadas no inciso V do Art. 20 dessa Resolução, a área será classificada como área em processo de monitoramento para encerramento (AME) e o responsável legal deverá realizar o monitoramento dos meios impactados por período a ser fixado pelo órgão ambiental, considerando as particularidades de cada caso.
 
 ##### Subseção IV – Da execução das etapas do GAC
 
 ###### Art. 30 {#art30}
-Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #prazo
 
 **Art. 30, caput** {#art30_cpt} Os responsáveis pela execução da avaliação preliminar, investigação confirmatória, investigação detalhada e avaliação de risco devem atender aos procedimentos estabelecidos em portaria própria ou, na sua ausência, devem ser observar as normas da Associação Brasileira de Normas Técnicas - ABNT.
 
 ###### Art. 31 {#art31}
-Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #prazo
 
 **Art. 31, caput** {#art31_cpt} A execução da investigação detalhada e avaliação de risco pelo responsável legal independerá da avaliação e aprovação pelo órgão ambiental da investigação confirmatória.
 
 **Art. 31, parágrafo único** {#art31_par1u} Se durante a avaliação dos resultados a que se refere o caput deste artigo ou em razão de fiscalização forem identificadas desconformidades que comprometam os objetivos da investigação detalhada e os resultados da avaliação de risco, o órgão ambiental pode exigir, a qualquer momento, as adequações necessárias.
 
 ###### Art. 32 {#art32}
-Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #prazo
 
 **Art. 32, caput** {#art32_cpt} Durante a execução das etapas de avaliação preliminar, investigação confirmatória, investigação detalhada e etapas complementares de investigação, devem ser empregados métodos e equipamentos adequados ao atendimento dos objetivos de cada etapa, compatíveis com os recursos ambientais a serem investigados, considerando as tecnologias disponíveis, o desenvolvimento científico no Gerenciamento de Áreas Contaminadas e as normas técnicas vigentes.
 
@@ -399,7 +367,6 @@ Tags: #area-contaminada #investigacao #avaliacao-risco #responsavel-tecnico #pra
 ##### Subseção I – Do Plano de Intervenção
 
 ###### Art. 33 {#art33}
-Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilitacao
 
 **Art. 33, caput** {#art33_cpt} O responsável legal pela área classificada como área contaminada com risco confirmado (ACR) deve apresentar Plano de Intervenção desenvolvido e executado sob responsabilidade de responsável técnico habilitado com estabelecimento de medidas de remediação para tratamento, para contenção ou isolamento, para medidas emergenciais, para medidas de controle institucional ou medidas de engenharia.
 
@@ -408,12 +375,10 @@ Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilita
 **Art. 33, § 2º** {#art33_par2} º O prazo estabelecido no § 1.º pode ser prorrogado, a critério do órgão ambiental, desde que devidamente justificado em requerimento protocolado e anexado no procedimento administrativo respectivo.
 
 ###### Art. 34 {#art34}
-Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilitacao
 
 **Art. 34, caput** {#art34_cpt} A tomada de decisão sobre as medidas de intervenção a serem adotadas em uma área contaminada com risco confirmado (ACR), será subsidiada pela avaliação de risco executada por responsável técnico designado pelo responsável legal, conforme Art. 27.
 
 ###### Art. 35 {#art35}
-Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilitacao
 
 **Art. 35, caput** {#art35_cpt} O Plano de Intervenção deve seguir as diretrizes estabelecidas em portaria específica a ser publicada pelo órgão estadual de meio ambiente, contemplando no mínimo:
 - **Art. 35, caput, inciso I** {#art35_cpt_inc1} controle ou eliminação das fontes de contaminação;
@@ -427,7 +392,6 @@ Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilita
 - **Art. 35, caput, inciso IX** {#art35_cpt_inc9} plano de comunicação de riscos.
 
 ###### Art. 36 {#art36}
-Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilitacao
 
 **Art. 36, caput** {#art36_cpt} O Plano de Intervenção deve sempre priorizar a adoção de medidas de remediação que promovam a remoção e redução de massa dos contaminantes.
 
@@ -442,7 +406,6 @@ Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilita
   - **Art. 36, § 3º, inciso I, alínea "c"** {#art36_par3_inc1_alic} medidas institucionais a serem renovadas ou adotadas no período, devidamente justificadas e com determinação de prazos.
 
 ###### Art. 37 {#art37}
-Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilitacao
 
 **Art. 37, caput** {#art37_cpt} A implementação do Plano de Intervenção não necessita de aprovação prévia do órgão ambiental, exceto para as áreas contaminadas em processo de reutilização (ACRu).
 
@@ -457,7 +420,6 @@ Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilita
 **Art. 37, parágrafo único** {#art37_par1u} O Plano de Intervenção pode ser alterado, com aprovação do órgão ambiental, em função dos resultados parciais decorrentes de sua implementação.
 
 ###### Art. 38 {#art38}
-Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilitacao
 
 **Art. 38, caput** {#art38_cpt} Após a execução do Plano de Intervenção, caso tenham sido implantadas e executadas as medidas adequadas e atingidas as metas de remediação, a área será classificada como Área em Processo de Monitoramento para Encerramento (AME).
 
@@ -470,7 +432,6 @@ Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilita
 ##### Subseção II – Da reabilitação da área
 
 ###### Art. 39 {#art39}
-Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilitacao
 
 **Art. 39, caput** {#art39_cpt} Encerrado o período de monitoramento a que se refere o Art. 38 desta Resolução e mantidas as concentrações dos contaminantes abaixo das metas de remediação, a área será classificada como área reabilitada para o uso declarado (AR).
 
@@ -479,7 +440,6 @@ Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilita
 **Art. 39, § 2º** {#art39_par2} º Na classificação a que se refere o caput deste artigo deve sempre ser respeitada a legislação de uso e ocupação do solo.
 
 ###### Art. 40 {#art40}
-Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilitacao
 
 **Art. 40, caput** {#art40_cpt} Classificada a área como área reabilitada para uso declarado (AR), conforme Art. 20 desta Resolução, o responsável legal deve solicitar ao órgão ambiental a emissão do Termo de Reabilitação para Uso Declarado.
 
@@ -488,12 +448,10 @@ Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilita
 ##### Subseção III – Das medidas de restrição
 
 ###### Art. 41 {#art41}
-Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilitacao
 
 **Art. 41, caput** {#art41_cpt} Quando estiverem previstas medidas de restrições de qualquer natureza, compete ao órgão ambiental comunicar o fato ao município e à Secretaria Estadual de Saúde.
 
 ###### Art. 42 {#art42}
-Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilitacao
 
 **Art. 42, caput** {#art42_cpt} No caso de estarem previstas medidas de restrição de captação de água superficial ou subterrânea, deverão ser mensurados os impactos financeiros decorrentes das medidas adotadas, através de método de valoração econômica de
 
@@ -502,7 +460,6 @@ recurso ambiental, considerando o uso direto, uso indireto, valor de opção e v
 **Art. 42, parágrafo único** {#art42_par1u} Quando as medidas de restrição de captação de água superficial ou subterrânea afetarem terceiros, deve ser garantido o acesso dos mesmos à água potável, em volume equivalente ao utilizado anteriormente, às custas do responsável legal pela contaminação.
 
 ###### Art. 43 {#art43}
-Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilitacao
 
 **Art. 43, caput** {#art43_cpt} O prazo para a conclusão das medidas de restrição para captação de água superficial ou subterrânea é de três anos, podendo ser renovada.
 
@@ -513,7 +470,6 @@ Tags: #area-contaminada #plano-intervencao #remediacao #monitoramento #reabilita
 #### Seção V – Da desativação de atividades potencialmente geradoras de áreas contaminadas
 
 ###### Art. 44 {#art44}
-Tags: #area-contaminada #desativacao #termo-encerramento #passivo-ambiental
 
 **Art. 44, caput** {#art44_cpt} Para a desativação de atividades potencialmente geradoras de áreas contaminadas, o responsável legal pelo empreendimento deve solicitar ao órgão ambiental competente, Autorização Ambiental, através de protocolo no sistema informatizado e dirigido ao Diretor Presidente, instruído com os seguintes documentos:
 - **Art. 44, caput, inciso I** {#art44_cpt_inc1} carteira de identidade do representante legal da empresa;
@@ -532,47 +488,40 @@ Tags: #area-contaminada #desativacao #termo-encerramento #passivo-ambiental
 - **Art. 44, caput, inciso VII** {#art44_cpt_inc7} estudo de identificação do passivo ambiental, conforme critérios estabelecidos nas seções III e IV da presente Resolução.
 
 ###### Art. 45 {#art45}
-Tags: #area-contaminada #desativacao #termo-encerramento #passivo-ambiental
 
 **Art. 45, caput** {#art45_cpt} Na condição em que a atividade objeto da desativação não tenha sido declarada como área contaminada sob investigação (AC) ou área contaminada com risco confirmado (ACR), analisada a documentação apresentada e aprovado o Plano de Desativação do Empreendimento, o órgão ambiental competente, emitirá Autorização Ambiental para a execução do Plano de Desativação do Empreendimento.
 
 **Art. 45, parágrafo único** {#art45_par1u} A emissão do Termo de Encerramento pelo órgão ambiental nos casos mencionados no caput, fica condicionada ao cumprimento do Art. 44 desta Resolução e à execução do Plano de Desativação, a ser comprovado em relatório de execução da desativação apresentado.
 
 ###### Art. 46 {#art46}
-Tags: #area-contaminada #desativacao #termo-encerramento #passivo-ambiental
 
 **Art. 46, caput** {#art46_cpt} Nos casos em que a classificação da área seja área contaminada sob investigação (AC), o órgão ambiental competente pode autorizar a execução do Plano de Desativação do Empreendimento, devendo responsável legal promover a execução das etapas de investigação detalhada e avaliação de risco, conforme estabelecido na seção III da presente Resolução.
 
 ###### Art. 47 {#art47}
-Tags: #area-contaminada #desativacao #termo-encerramento #passivo-ambiental
 
 **Art. 47, caput** {#art47_cpt} Classificada a área como área contaminada com risco confirmado (ACR), a emissão do Termo de Encerramento fica condicionada à execução dos planos de desativação e de intervenção e à obtenção do Termo de Reabilitação para o Uso Declarado, conforme a Subseção I e II da seção IV, desta Resolução.
 
 **Art. 47, parágrafo único** {#art47_par1u} Nos casos a que se refere o caput deste artigo, o Termo de Encerramento deve especificar as restrições eventualmente existentes para o uso imediato da área.
 
 ###### Art. 48 {#art48}
-Tags: #area-contaminada #desativacao #termo-encerramento #passivo-ambiental
 
 **Art. 48, caput** {#art48_cpt} Fica dispensada a apresentação dos estudos de identificação do passivo ambiental que se refere o Art. 44, inciso VII, para áreas com passivo ambiental conhecido, cujo processo de Gerenciamento de Áreas Contaminadas esteja em andamento.
 
 **Art. 48, parágrafo único** {#art48_par1u} É obrigação do responsável legal apresentar cronograma atualizado de continuidade do procedimento de Gerenciamento de Áreas Contaminadas e eventuais propostas de ajustes necessários para o encerramento da atividade.
 
 ###### Art. 49 {#art49}
-Tags: #area-contaminada #desativacao #termo-encerramento #passivo-ambiental
 
 **Art. 49, caput** {#art49_cpt} A emissão do Termo de Encerramento está condicionada ao término do processo de Gerenciamento de Áreas Contaminadas, com o cumprimento das disposições constantes desta Resolução.
 
 #### Seção VI – Do procedimento de reutilização
 
 ###### Art. 50 {#art50}
-Tags: #area-contaminada #reutilizacao #mudanca-uso
 
 **Art. 50, caput** {#art50_cpt} O procedimento de reutilização aplica-se quando há intenção de alterar o uso de uma área anteriormente ocupada ou utilizada por atividades potencialmente geradoras de áreas contaminadas.
 
 **Art. 50, parágrafo único** {#art50_par1u} O novo uso pretendido pode ser de qualquer natureza, desde que, no âmbito municipal, sejam atendidos o Plano Diretor e a regulamentação sobre uso do solo e com relação ao Gerenciamento de Áreas Contaminadas, sejam atingidas as condições de risco dentro dos níveis aceitáveis.
 
 ###### Art. 51 {#art51}
-Tags: #area-contaminada #reutilizacao #mudanca-uso
 
 **Art. 51, caput** {#art51_cpt} Para a reutilização de áreas com potencial de contaminação, o responsável legal deve solicitar Autorização Ambiental ao órgão estadual de meio ambiente, com requerimento protocolado no sistema informatizado mediante apresentação dos relatórios de avaliação preliminar e investigação confirmatória, conforme Art. 23 e 24 desta Resolução.
 
@@ -581,7 +530,6 @@ Tags: #area-contaminada #reutilizacao #mudanca-uso
 **Art. 51, § 2º** {#art51_par2} º Confirmada a contaminação na área, o requerimento de Autorização Ambiental deve atender ao disposto no Art. 52.
 
 ###### Art. 52 {#art52}
-Tags: #area-contaminada #reutilizacao #mudanca-uso
 
 **Art. 52, caput** {#art52_cpt} Para a reutilização das áreas classificadas como área contaminada sob investigação (AC), área contaminada em processo de monitoramento (AME), área contaminada sob processo de intervenção (ACI) ou área contaminada com risco confirmado (ACR), o responsável legal deve requerer Autorização Ambiental ao órgão estadual de meio ambiente, protocolada no sistema informatizado.
 
@@ -592,7 +540,6 @@ Tags: #area-contaminada #reutilizacao #mudanca-uso
 **Art. 52, § 3º** {#art52_par3} º Emitida a Autorização Ambiental para reutilização da área contaminada, a área passa a ser classificada como área contaminada em processo de reutilização (ACRu)
 
 ###### Art. 53 {#art53}
-Tags: #area-contaminada #reutilizacao #mudanca-uso
 
 **Art. 53, caput** {#art53_cpt} Para reutilização de uma área classificada como área reabilitada para uso declarado (AR), deve ser efetuada nova avaliação de risco para o uso pretendido, a ser submetida pelo responsável legal à aprovação do órgão ambiental, com a emissão de Autorização Ambiental.
 
@@ -603,7 +550,6 @@ Tags: #area-contaminada #reutilizacao #mudanca-uso
 #### Seção VII – Da averbação
 
 ###### Art. 54 {#art54}
-Tags: #area-contaminada #averbacao #cartorio
 
 **Art. 54, caput** {#art54_cpt} Conforme orientação do órgão ambiental, o responsável legal pelas áreas nas condições abaixo discriminadas, deve proceder a averbação da situação em que os imóveis se encontram nas respectivas matrículas imobiliárias:
 - **Art. 54, caput, inciso I** {#art54_cpt_inc1} área classificada como área contaminada sob investigação (AC), o Órgão Ambiental competente providenciará, junto ao Cartório de Registro de Imóveis, a realização da averbação da informação sobre a contaminação identificada na respectiva matrícula imobiliária;
@@ -611,26 +557,22 @@ Tags: #area-contaminada #averbacao #cartorio
 - **Art. 54, caput, inciso III** {#art54_cpt_inc3} área classificada como área reabilitada para o uso declarado (AR), o Órgão Ambiental competente determinará ao Responsável Legal que providencie, junto ao Cartório de Registro de Imóveis a averbação do conteúdo do Termo de Reabilitação para o Uso Declarado na respectiva matrícula imobiliária.
 
 ###### Art. 55 {#art55}
-Tags: #area-contaminada #averbacao #cartorio
 
 **Art. 55, caput** {#art55_cpt} O responsável legal tem um prazo de até 90 (noventa) dias para cumprir as exigências impostas pelo órgão ambiental quando da execução dos procedimentos de averbação junto ao Cartório de Registro de Imóveis da Comarca onde se insere o imóvel, para devida averbação da contaminação na matrícula do imóvel. Solicitações de prorrogação de prazo deverão ser requeridas mediante apresentação de justificativa ao órgão ambiental.
 
 ###### Art. 56 {#art56}
-Tags: #area-contaminada #averbacao #cartorio
 
 **Art. 56, caput** {#art56_cpt} Em caso da impossibilidade do Cartório de Registro de Imóveis proceder averbação na respectiva matrícula do imóvel, quer por motivos administrativos, judiciais ou extrajudiciais, a documentação pertinente deve ser encaminhada ao órgão ambiental.
 
 #### Seção VIII – Do cadastro de área contaminadas e reabilitadas
 
 ###### Art. 57 {#art57}
-Tags: #area-contaminada #cadastro #siacr
 
 **Art. 57, caput** {#art57_cpt} Caberá ao órgão estadual de meio ambiente estabelecer Sistema de Informações sobre Áreas Contaminadas e Reabilitadas do Paraná (SIACR-PR), constituído de informações georreferenciadas que sirvam de amparo à prevenção e controle da contaminação e ao Gerenciamento de Áreas Contaminadas.
 
 **Art. 57, parágrafo único** {#art57_par1u} A divulgação da relação das áreas constantes do Cadastro de Áreas Contaminadas e Reabilitadas, bem como das informações a elas associadas, será publicada na página do órgão ambiental na internet com atualização anual.
 
 ###### Art. 58 {#art58}
-Tags: #area-contaminada #cadastro #siacr
 
 **Art. 58, caput** {#art58_cpt} O Cadastro de Áreas Contaminadas e Reabilitadas é constituído por informações sobre os empreendimentos e atividades que se enquadram nas classificações previstas na Seção II desta Resolução.
 
@@ -641,40 +583,34 @@ Tags: #area-contaminada #cadastro #siacr
 **Art. 58, § 3º** {#art58_par3} º As informações levantadas pelo Cadastro de Áreas Contaminadas e Reabilitadas também devem estar dispostas espacialmente, por meio de um Sistema de Informações Geográficas a ser definido pelo órgão ambiental competente.
 
 ###### Art. 59 {#art59}
-Tags: #area-contaminada #cadastro #siacr
 
 **Art. 59, caput** {#art59_cpt} O cadastro de áreas contaminadas deve fornecer informações detalhadas que permitam identificar e localizar a área, conhecer a caracterização da contaminação e a etapa do Gerenciamento de Áreas Contaminadas em que se encontra, bem como medidas de intervenção já executadas, que tenham sido propostas ou estejam em curso, além de medidas institucionais e a data da última atualização das informações.
 
 ### CAPÍTULO IV – Da apresentação dos estudos
 
 ###### Art. 60 {#art60}
-Tags: #area-contaminada #cadastro #siacr
 
 **Art. 60, caput** {#art60_cpt} Todos os estudos ambientais previstos nesta Resolução devem estar acompanhados da devida Anotação de Responsabilidade Técnica - ART, bem como atender aos critérios e procedimentos estabelecidos pelo órgão ambiental estadual em Portarias específicas e normas técnicas vigentes.
 
 **Art. 60, parágrafo único** {#art60_par1u} A entrega dos estudos ambientais e outros documentos referentes Gerenciamento de Áreas Contaminadas, devem ser encaminhados ao órgão ambiental pelo sistema informatizado de protocolo.
 
 ###### Art. 61 {#art61}
-Tags: #area-contaminada #estudo-ambiental #laboratorio #prazo
 
 **Art. 61, caput** {#art61_cpt} O órgão ambiental pode exigir a apresentação de estudos vinculados ao Gerenciamento de Áreas Contaminadas a qualquer momento, quer por ocasião da obtenção ou renovação de Autorizações Ambientais ou em qualquer das fases de um licenciamento ambiental.
 
 **Art. 61, parágrafo único** {#art61_par1u} A prerrogativa do órgão ambiental em exigir a apresentação dos estudos referidos no caput, independe destes estarem ou não previstos na relação constante para obtenção de autorização ou licenciamento ambiental.
 
 ###### Art. 62 {#art62}
-Tags: #area-contaminada #estudo-ambiental #laboratorio #prazo
 
 **Art. 62, caput** {#art62_cpt} Estudos ambientais considerados incompletos ou que não atendam as diretrizes especificadas, ou ainda que sejam inadequados, devem ser corrigidos e reapresentados pelo empreendedor, conforme solicitação de complementação e de prazos fixados pelo órgão ambiental competente, de acordo com o Art. 57 da [[resolucao-cema-107-2020|Resolução CEMA n° 107, de 09 de setembro de 2020]].
 
 ###### Art. 63 {#art63}
-Tags: #area-contaminada #estudo-ambiental #laboratorio #prazo
 
 **Art. 63, caput** {#art63_cpt} O laboratório responsável pela execução e emissão de laudos referentes aos ensaios físico-químicos e biológicos de amostras retiradas de fontes de poluição ambiental e/ou matrizes ambientais, deve ter o Certificado de Cadastramento de Laboratório (CCL), concedido pelo órgão ambiental, conforme estabelecido na [[resolucao-cema-100-2017|Resolução CEMA n° 100, de 30 de junho de 2017]].
 
 **Art. 63, parágrafo único** {#art63_par1u} Não sendo a amostragem realizada pelo laboratório que executará os ensaios ambientais, a empresa executora da amostragem deve estar cadastrada pelo CCL, com base nos termos da NBR ISO/IEC 17.025:2017.
 
 ###### Art. 64 {#art64}
-Tags: #area-contaminada #estudo-ambiental #laboratorio #prazo
 
 **Art. 64, caput** {#art64_cpt} O prazo padrão para apresentação dos estudos previstos nas Seções III e IV pelo responsável legal ao órgão ambiental é de 90 (noventa) dias, a considerar do respectivo recebimento ou ciência da determinação do órgão ou a considerar a partir da constatação da necessidade de execução dos estudos conforme consta na mesma seção.
 
@@ -683,22 +619,18 @@ Tags: #area-contaminada #estudo-ambiental #laboratorio #prazo
 ### CAPÍTULO V – DISPOSIÇÕES FINAIS
 
 ###### Art. 65 {#art65}
-Tags: #area-contaminada #infracao #tac #municipio
 
 **Art. 65, caput** {#art65_cpt} Excepcionalmente e a critério do órgão ambiental, dentro das condições técnicas por ele determinadas, pode ser firmado com o responsável legal do empreendimento Termo de Ajustamento de Conduta - TAC, nos termos da legislação vigente.
 
 ###### Art. 66 {#art66}
-Tags: #area-contaminada #infracao #tac #municipio
 
 **Art. 66, caput** {#art66_cpt} O não cumprimento do disposto nesta Resolução constitui-se em infração administrativa, nos termos do Art. 70 da [[lei-federal-9605-1998|Lei Federal nº 9.605, de 12 de fevereiro de 1998]], e do seu Decreto Regulamentador n°6.514, de 22 de julho de 2008.
 
 ###### Art. 67 {#art67}
-Tags: #area-contaminada #infracao #tac #municipio
 
 **Art. 67, caput** {#art67_cpt} Os municípios deverão considerar os termos desta resolução quando da elaboração e aplicação dos seus planos diretores, atentando-se às fragilidades geológicas, geográficas e hidrogeológicas, tais como as áreas aquíferas.
 
 ###### Art. 68 {#art68}
-Tags: #vigencia
 
 **Art. 68, caput** {#art68_cpt} Esta Resolução entra em vigor na data de sua publicação.
 

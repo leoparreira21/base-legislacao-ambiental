@@ -30,16 +30,14 @@ fonte: "Diário Oficial da União, página do portal in.gov.br impressa em PDF (
 ## CAPÍTULO I – DISPOSIÇÕES PRELIMINARES
 
 ###### Art. 1º {#art1}
-Tags: #logistica-reversa #embalagem #industria-plastico #ambito-aplicacao #catador
 
 **Art. 1º, caput** {#art1_cpt} Este Decreto regulamenta o [[lei-federal-12305-2010#art32_par1|art. 32, § 1º]], e o [[lei-federal-12305-2010#art33_par1|art. 33, § 1º, da Lei nº 12.305, de 2 de agosto de 2010]], institui o sistema de logística reversa de embalagens de plástico a cargo dos fabricantes, dos importadores, dos distribuidores e dos comerciantes, que abrange todo o ciclo de vida do produto, e estabelece as normas e os critérios para a sua estruturação, a sua implementação e a sua operacionalização.
 
 **Art. 1º, § 1º** {#art1_par1} O disposto no caput abrange as embalagens primárias, secundárias e terciárias e os produtos de plástico equiparáveis.
 
-**Art. 1º, § 2º** {#art1_par2} #catador #prioridade O sistema de logística reversa de embalagens de plástico priorizará as cooperativas, as associações e outras formas de organização popular de catadoras e catadores de materiais reutilizáveis e recicláveis nas etapas da estruturação, da implementação e da operacionalização.
+**Art. 1º, § 2º** {#art1_par2} O sistema de logística reversa de embalagens de plástico priorizará as cooperativas, as associações e outras formas de organização popular de catadoras e catadores de materiais reutilizáveis e recicláveis nas etapas da estruturação, da implementação e da operacionalização.
 
 ###### Art. 2º {#art2}
-Tags: #ambito-aplicacao #embalagem #agrotoxico #oleo-lubrificante
 
 **Art. 2º, caput** {#art2_cpt} Não estão abrangidas por este Decreto:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} as embalagens de plástico de produtos regulamentados pelo [[decreto-federal-10240-2020|Decreto nº 10.240, de 12 de fevereiro de 2020]], e pelo [[decreto-federal-10388-2020|Decreto nº 10.388, de 5 de junho de 2020]], ou que sejam abrangidas por sistema de logística reversa de agrotóxicos, seus resíduos e suas embalagens, ou por sistema de logística reversa de óleos lubrificantes, seus resíduos e embalagens, que observarão o disposto em legislação específica sobre a matéria; e
@@ -48,12 +46,10 @@ Tags: #ambito-aplicacao #embalagem #agrotoxico #oleo-lubrificante
 ## CAPÍTULO II – DAS DEFINIÇÕES
 
 ###### Art. 3º {#art3}
-Tags: #definicao
 
 **Art. 3º, caput** {#art3_cpt} Aplicam-se a este Decreto, no que couber, as definições estabelecidas na [[lei-federal-12305-2010|Lei nº 12.305, de 2 de agosto de 2010]], e no [[decreto-federal-11413-2023|Decreto nº 11.413, 13 de fevereiro de 2023]].
 
 ###### Art. 4º {#art4}
-Tags: #definicao #embalagem #industria-plastico #reciclagem
 
 **Art. 4º, caput** {#art4_cpt} Para fins do disposto neste Decreto, consideram-se:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} produto de plástico equiparável - produto reciclável de plástico que pode ser igualado às embalagens de plástico, como pratos, copos e talheres, contidas na fração seca dos resíduos sólidos urbanos;
@@ -65,7 +61,6 @@ Tags: #definicao #embalagem #industria-plastico #reciclagem
 ## CAPÍTULO III – DOS OBJETIVOS
 
 ###### Art. 5º {#art5}
-Tags: #logistica-reversa #reciclagem #reutilizacao #catador #educacao-ambiental
 
 **Art. 5º, caput** {#art5_cpt} São objetivos do sistema de logística reversa de embalagens de plástico:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} aprimorar a implementação e a operacionalização da infraestrutura física e logística de recolhimento das embalagens de plástico colocadas no mercado;
@@ -80,7 +75,6 @@ Tags: #logistica-reversa #reciclagem #reutilizacao #catador #educacao-ambiental
 ## CAPÍTULO IV – DOS MODELOS DE OPERAÇÃO DO SISTEMA DE LOGÍSTICA REVERSA DE EMBALAGENS DE PLÁSTICO
 
 ###### Art. 6º {#art6}
-Tags: #logistica-reversa #relatorio #sinir
 
 **Art. 6º, caput** {#art6_cpt} Na constituição do sistema de logística reversa de embalagens de plástico, poderão ser adotados os seguintes modelos de operação:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} modelo individual - forma de implementação e operacionalização do sistema de logística reversa de forma direta por empresa não aderente ao modelo coletivo; e
@@ -88,15 +82,13 @@ Tags: #logistica-reversa #relatorio #sinir
 
 **Art. 6º, § 1º** {#art6_par1} As empresas que optarem pelo modelo individual deverão estruturar e operacionalizar o seu sistema de logística reversa de embalagens de plástico, mantidas as obrigações imputadas às entidades gestoras e respeitadas as metas estabelecidas neste Decreto na proporção da quantidade de embalagens que colocarem no mercado.
 
-**Art. 6º, § 2º** {#art6_par2} #relatorio #prazo Os responsáveis pelos modelos individuais e coletivos, informada a relação das empresas aderentes, apresentarão, até 30 de julho de cada ano, o relatório de resultados do ano anterior, conforme modelo disponível no sítio eletrônico do Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos - Sinir.
+**Art. 6º, § 2º** {#art6_par2} Os responsáveis pelos modelos individuais e coletivos, informada a relação das empresas aderentes, apresentarão, até 30 de julho de cada ano, o relatório de resultados do ano anterior, conforme modelo disponível no sítio eletrônico do Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos - Sinir.
 
 ###### Art. 7º {#art7}
-Tags: #logistica-reversa
 
 **Art. 7º, caput** {#art7_cpt} Para fins do disposto neste Decreto, as entidades gestoras são as pessoas jurídicas habilitadas pelo Ministério do Meio Ambiente e Mudança do Clima.
 
 ###### Art. 8º {#art8}
-Tags: #logistica-reversa #relatorio #sinir #auditoria #educacao-ambiental
 
 **Art. 8º, caput** {#art8_cpt} As obrigações estabelecidas neste Decreto para fabricantes, distribuidores, importadores e comerciantes são atribuídas também à entidade gestora, nos casos de modelo coletivo, à qual também compete:
 - **Art. 8º, caput, inciso I** {#art8_cpt_inc1} implementar e operacionalizar o sistema de logística reversa de embalagens de plástico e verificar a eficiência, a eficácia e a efetividade das ações sob sua responsabilidade, referente aos fabricantes, aos importadores, aos distribuidores ou aos comerciantes aderentes ao modelo coletivo e à evolução do cumprimento das metas previstas neste Decreto;
@@ -117,7 +109,7 @@ Tags: #logistica-reversa #relatorio #sinir #auditoria #educacao-ambiental
 
 **Art. 8º, § 6º** {#art8_par6} A entidade gestora deverá realizar, quando solicitada, auditoria amostral sobre fabricantes e importadores de embalagens de plástico e produtos comercializados em embalagens de plástico, no sistema de informações eletrônicas do tipo caixa-preta (black box), com o objetivo de verificar a qualidade e a veracidade das informações transmitidas sobre a quantidade das massas de embalagens colocadas no mercado pelas empresas aderentes ao modelo coletivo.
 
-**Art. 8º, § 7º** {#art8_par7} #sancao O não cumprimento do disposto neste Decreto poderá ensejar o cancelamento da habilitação da entidade gestora pelo Ministério do Meio Ambiente e Mudança do Clima e outras sanções aplicáveis.
+**Art. 8º, § 7º** {#art8_par7} O não cumprimento do disposto neste Decreto poderá ensejar o cancelamento da habilitação da entidade gestora pelo Ministério do Meio Ambiente e Mudança do Clima e outras sanções aplicáveis.
 
 **Art. 8º, § 8º** {#art8_par8} Na hipótese prevista no § 7º, a entidade gestora deverá sanar as irregularidades identificadas e comunicadas por meio de ofício do Ministério do Meio Ambiente e Mudança do Clima para prosseguir com as atividades de estruturação, implementação e de operacionalização de sistema de logística reversa de embalagens de plástico.
 
@@ -126,7 +118,6 @@ Tags: #logistica-reversa #relatorio #sinir #auditoria #educacao-ambiental
 ### Seção I – Disposições gerais
 
 ###### Art. 9º {#art9}
-Tags: #logistica-reversa #pev #coleta-seletiva #catador #triagem #beneficiamento
 
 **Art. 9º, caput** {#art9_cpt} Na implementação e na operacionalização do sistema de logística reversa de embalagens de plástico, poderão ser adotadas soluções integradas que contemplem, entre outras:
 - **Art. 9º, caput, inciso I** {#art9_cpt_inc1} os pontos de entrega voluntária;
@@ -142,7 +133,6 @@ Tags: #logistica-reversa #pev #coleta-seletiva #catador #triagem #beneficiamento
 ### Seção II – Da estruturação e da implementação
 
 ###### Art. 10 {#art10}
-Tags: #logistica-reversa #educacao-ambiental #pev #catador #monitoramento
 
 **Art. 10, caput** {#art10_cpt} A estruturação e a implementação do sistema de logística reversa de embalagens de plástico contemplarão:
 - **Art. 10, caput, inciso I** {#art10_cpt_inc1} a instituição de mecanismo financeiro pelos fabricantes, pelos importadores, pelos distribuidores, pelos comerciantes ou pelas entidades gestoras, para assegurar a sustentabilidade econômica da estruturação, da implementação e da operacionalização do sistema de logística reversa de embalagens de plástico;
@@ -154,12 +144,11 @@ Tags: #logistica-reversa #educacao-ambiental #pev #catador #monitoramento
 - **Art. 10, caput, inciso VII** {#art10_cpt_inc7} a reutilização ou a reciclagem das embalagens de plástico retornadas por meio do sistema de logística reversa de embalagens de plástico ou, quando esgotadas tais possibilidades, a adoção de destinação final ambientalmente adequada dos respectivos materiais;
 - **Art. 10, caput, inciso VIII** {#art10_cpt_inc8} o monitoramento e a avaliação do sistema de logística reversa de embalagens de plástico, conforme os critérios estabelecidos neste Decreto;
 - **Art. 10, caput, inciso IX** {#art10_cpt_inc9} o monitoramento e a avaliação do sistema de reciclagem de plásticos; e
-- **Art. 10, caput, inciso X** {#art10_cpt_inc10} #prazo a inserção de conteúdo reciclado em sistema de verificação que esteja em conformidade com os critérios estabelecidos em ato da Ministra de Estado do Meio Ambiente e Mudança do Clima, observado o prazo de noventa dias, contado da data de publicação deste Decreto.
+- **Art. 10, caput, inciso X** {#art10_cpt_inc10} a inserção de conteúdo reciclado em sistema de verificação que esteja em conformidade com os critérios estabelecidos em ato da Ministra de Estado do Meio Ambiente e Mudança do Clima, observado o prazo de noventa dias, contado da data de publicação deste Decreto.
 
 ### Seção III – Da operacionalização
 
 ###### Art. 11 {#art11}
-Tags: #logistica-reversa #transporte #pev #triagem #catador #beneficiamento #destinacao-final
 
 **Art. 11, caput** {#art11_cpt} A operacionalização do sistema de logística reversa de embalagens de plástico observará as atribuições estabelecidas no [[lei-federal-12305-2010#art33|art. 33, § 3º a § 6º, da Lei nº 12.305, de 2 de agosto de 2010]], e seguirá as seguintes etapas:
 - **Art. 11, caput, inciso I** {#art11_cpt_inc1} os fabricantes de embalagens de plástico e os fabricantes de produtos comercializados em embalagens de plástico deverão considerar aspectos de economia circular, como reciclabilidade e durabilidade, nas fases de concepção e produção do produto no planejamento do sistema de logística reversa;
@@ -176,22 +165,18 @@ Tags: #logistica-reversa #transporte #pev #triagem #catador #beneficiamento #des
 **Art. 11, § 3º** {#art11_par3} O procedimento de operacionalização do sistema de logística reversa de embalagens de plástico poderá ser realizado por meio de outros arranjos e etapas, desde que atendidas as metas quantitativas e os demais requisitos estabelecidos neste Decreto, nos termos do disposto no [[decreto-federal-11413-2023|Decreto nº 11.413, de 13 de fevereiro de 2023]], e no [[decreto-federal-11414-2023|Decreto nº 11.414, de 13 de fevereiro de 2023]].
 
 ###### Art. 12 {#art12}
-Tags: #logistica-reversa
 
 **Art. 12, caput** {#art12_cpt} Os importadores, os fabricantes, os distribuidores e os comerciantes aderentes ao modelo coletivo poderão comprovar o atendimento das metas de logística reversa por meio do CCRLR, do CERE e do Certificado de Massa Futura, observado o disposto no [[decreto-federal-11413-2023|Decreto nº 11.413, de 13 de fevereiro de 2023]].
 
 ###### Art. 13 {#art13}
-Tags: #logistica-reversa #incentivo
 
 **Art. 13, caput** {#art13_cpt} Os importadores, os fabricantes, os distribuidores e os comerciantes poderão estabelecer, a seu critério, incentivos econômicos para estimular a devolução das embalagens retornáveis por parte dos consumidores.
 
 ###### Art. 14 {#art14}
-Tags: #logistica-reversa #reciclagem #licenciamento-ambiental #sisnama
 
 **Art. 14, caput** {#art14_cpt} Os recicladores somente integrarão o sistema de logística reversa de embalagens de plástico se devidamente licenciados pelo órgão ambiental competente integrante do Sisnama, observados as demais condições e os padrões estabelecidos na legislação.
 
 ###### Art. 15 {#art15}
-Tags: #rejeito #disposicao-final #triagem #catador #sisnama #pmgirs
 
 **Art. 15, caput** {#art15_cpt} Os fabricantes e os importadores darão destinação ambientalmente adequada aos rejeitos resultantes da triagem e encaminharão para a disposição final, conforme o disposto no [[lei-federal-12305-2010#art33_par6|art. 33, § 6º, da Lei nº 12.305, de 2 de agosto de 2010]].
 
@@ -199,14 +184,13 @@ Tags: #rejeito #disposicao-final #triagem #catador #sisnama #pmgirs
 
 **Art. 15, § 2º** {#art15_par2} A obrigação de retirada dos rejeitos resultantes da triagem das embalagens de plásticos não poderá ser repassada às cooperativas, às associações ou a outras formas de organização popular de catadoras e catadores de materiais reutilizáveis e recicláveis, nem a qualquer outro tipo de operador do sistema de logística reversa, salvo se houver contratação específica para esse serviço pelos fabricantes ou importadores.
 
-**Art. 15, § 3º** {#art15_par3} #prazo Ato da Ministra de Estado do Meio Ambiente e Mudança do Clima, consultado o Comitê Interministerial para Inclusão Socioeconômica de Catadoras e Catadores de Materiais Reutilizáveis e Recicláveis - CIISC, estabelecerá os requisitos técnicos e os procedimentos operacionais sobre a retirada de rejeitos resultantes da triagem das embalagens de plástico para o cumprimento da obrigação prevista no § 2º, observado o prazo de noventa dias, contado da data de publicação deste Decreto.
+**Art. 15, § 3º** {#art15_par3} Ato da Ministra de Estado do Meio Ambiente e Mudança do Clima, consultado o Comitê Interministerial para Inclusão Socioeconômica de Catadoras e Catadores de Materiais Reutilizáveis e Recicláveis - CIISC, estabelecerá os requisitos técnicos e os procedimentos operacionais sobre a retirada de rejeitos resultantes da triagem das embalagens de plástico para o cumprimento da obrigação prevista no § 2º, observado o prazo de noventa dias, contado da data de publicação deste Decreto.
 
 ## CAPÍTULO VI – DAS OBRIGAÇÕES DOS FABRICANTES, DOS IMPORTADORES, DOS DISTRIBUIDORES, DOS COMERCIANTES E DOS CONSUMIDORES
 
 ### Seção I – Disposições gerais
 
 ###### Art. 16 {#art16}
-Tags: #logistica-reversa #responsabilidade #fabricante #comercio #mtr #catador #microempresa
 
 **Art. 16, caput** {#art16_cpt} Compete aos fabricantes, aos importadores, aos distribuidores e aos comerciantes de embalagens de plástico ou de produtos comercializados em embalagens de plástico, conforme as metas e as condições estabelecidas neste Decreto:
 - **Art. 16, caput, inciso I** {#art16_cpt_inc1} estruturar, implementar e operacionalizar o sistema de logística reversa de embalagens de plástico;
@@ -222,7 +206,6 @@ Tags: #logistica-reversa #responsabilidade #fabricante #comercio #mtr #catador #
 ### Seção II – Das obrigações comuns entre fabricantes de produtos comercializados em embalagens de plástico e fabricantes de embalagens de plástico
 
 ###### Art. 17 {#art17}
-Tags: #logistica-reversa #fabricante #educacao-ambiental #catador #transporte #reciclagem
 
 **Art. 17, caput** {#art17_cpt} São obrigações comuns entre fabricantes de produtos comercializados em embalagens de plástico e fabricantes de embalagens de plástico:
 - **Art. 17, caput, inciso I** {#art17_cpt_inc1} desenvolver e implementar planos de comunicação e de educação ambiental não formal, de acordo com as regras estabelecidas neste Decreto;
@@ -237,7 +220,6 @@ Tags: #logistica-reversa #fabricante #educacao-ambiental #catador #transporte #r
 ### Seção III – Das obrigações adicionais dos fabricantes de produtos comercializados em embalagens de plástico
 
 ###### Art. 18 {#art18}
-Tags: #logistica-reversa #fabricante #coleta #transporte #sinir #relatorio
 
 **Art. 18, caput** {#art18_cpt} São obrigações adicionais dos fabricantes de produtos comercializados em embalagens de plástico:
 - **Art. 18, caput, inciso I** {#art18_cpt_inc1} realizar, por meios próprios ou pela contratação de terceiros, a coleta para o beneficiamento, a reutilização ou a reciclagem das embalagens de plástico pós-consumo, de forma a melhorar sua reciclabilidade e retornabilidade;
@@ -249,7 +231,6 @@ Tags: #logistica-reversa #fabricante #coleta #transporte #sinir #relatorio
 ### Seção IV – Das obrigações adicionais dos fabricantes de embalagens de plástico
 
 ###### Art. 19 {#art19}
-Tags: #logistica-reversa #fabricante #sinir
 
 **Art. 19, caput** {#art19_cpt} São obrigações adicionais dos fabricantes de embalagens de plástico:
 - **Art. 19, caput, inciso I** {#art19_cpt_inc1} prestar apoio técnico aos demais agentes participantes do sistema sobre os aspectos operacionais de manuseio e logística de embalagens de plástico fabricadas sob sua responsabilidade;
@@ -260,7 +241,6 @@ Tags: #logistica-reversa #fabricante #sinir
 ### Seção V – Das obrigações dos importadores
 
 ###### Art. 20 {#art20}
-Tags: #logistica-reversa #relatorio
 
 **Art. 20, caput** {#art20_cpt} São obrigações dos importadores de embalagens de plástico ou de produtos comercializados em embalagens de plástico, no âmbito do sistema de logística reversa de embalagens de plástico, a serem cumpridas como requisito de conformidade para a importação e a comercialização das referidas embalagens ou produtos:
 - **Art. 20, caput, inciso I** {#art20_cpt_inc1} participar de um sistema de logística reversa, no caso de opção pelo modelo coletivo, ou estruturar, implementar e operacionalizar o sistema de logística reversa, no caso de modelo individual;
@@ -276,14 +256,12 @@ Tags: #logistica-reversa #relatorio
 **Art. 20, § 3º** {#art20_par3} As pessoas físicas que realizam importação para uso individual submetem-se às obrigações previstas no [[#art24|art. 24]].
 
 ###### Art. 21 {#art21}
-Tags: #logistica-reversa
 
 **Art. 21, caput** {#art21_cpt} As importações de que trata o [[#art20_cpt|art. 20, caput]], realizadas por importadores que não integrem entidade gestora, ficarão condicionadas à comprovação prévia do cumprimento da meta relacionada ao conteúdo mínimo reciclado incorporado às embalagens de plástico, na forma estabelecida pelas autoridades competentes.
 
 ### Seção VI – Das obrigações dos distribuidores
 
 ###### Art. 22 {#art22}
-Tags: #logistica-reversa #pev #catador #educacao-ambiental
 
 **Art. 22, caput** {#art22_cpt} São obrigações dos distribuidores:
 - **Art. 22, caput, inciso I** {#art22_cpt_inc1} informar os estabelecimentos varejistas que façam parte de sua cadeia de comercialização sobre o processo de operacionalização do sistema de logística reversa de embalagens de plástico;
@@ -298,7 +276,6 @@ Tags: #logistica-reversa #pev #catador #educacao-ambiental
 ### Seção VII – Das obrigações dos comerciantes
 
 ###### Art. 23 {#art23}
-Tags: #logistica-reversa #comercio #pev #catador #educacao-ambiental
 
 **Art. 23, caput** {#art23_cpt} São obrigações dos comerciantes:
 - **Art. 23, caput, inciso I** {#art23_cpt_inc1} orientar os consumidores a devolverem as embalagens de plástico vazias e limpas nos pontos de entrega voluntária e informar os benefícios ambientais do descarte adequado;
@@ -320,7 +297,6 @@ Tags: #logistica-reversa #comercio #pev #catador #educacao-ambiental
 ### Seção VIII – Das obrigações dos consumidores
 
 ###### Art. 24 {#art24}
-Tags: #logistica-reversa #pev #coleta-seletiva #catador
 
 **Art. 24, caput** {#art24_cpt} Caberá aos consumidores:
 - **Art. 24, caput, inciso I** {#art24_cpt_inc1} efetuar o descarte das embalagens de plástico nos pontos de entrega voluntária ou em outras formas de descarte devidamente estabelecidas, como na coleta seletiva ou na entrega direta para catadores individuais ou cooperativas, associações ou outras formas de organização popular de catadoras e catadores de materiais reutilizáveis e recicláveis, em cumprimento ao disposto nos art. 33, § 4º, e [[lei-federal-12305-2010#art35|art. 35 da Lei nº 12.305, de 2 agosto de 2010]], observados os requisitos técnicos estabelecidos para o sistema de logística reversa de embalagens de plástico;
@@ -330,7 +306,6 @@ Tags: #logistica-reversa #pev #coleta-seletiva #catador
 ## CAPÍTULO VII – DOS PLANOS DE COMUNICAÇÃO E DE EDUCAÇÃO AMBIENTAL
 
 ###### Art. 25 {#art25}
-Tags: #logistica-reversa #educacao-ambiental #pev #coleta-seletiva #catador
 
 **Art. 25, caput** {#art25_cpt} O plano de comunicação e de educação ambiental não formal tem por objetivo divulgar a implementação e a operacionalização do sistema de logística reversa de embalagens de plástico para os participantes envolvidos em suas etapas operacionais, em especial para os consumidores, por meio do estímulo ao descarte de embalagens de plástico nos pontos de entrega voluntária ou de coleta seletiva.
 
@@ -340,24 +315,20 @@ Tags: #logistica-reversa #educacao-ambiental #pev #coleta-seletiva #catador
 - **Art. 25, parágrafo único, inciso III** {#art25_par1u_inc3} priorizar a destinação das embalagens de plástico recicláveis para as cooperativas, as associações ou outras formas de organização popular de catadoras e catadores de materiais reutilizáveis e recicláveis.
 
 ###### Art. 26 {#art26}
-Tags: #educacao-ambiental #sinir #relatorio
 
 **Art. 26, caput** {#art26_cpt} O conteúdo mínimo e a implementação dos planos de comunicação e de educação ambiental, que integrarão o relatório de resultados do sistema de logística reversa de embalagens de plástico, serão disponibilizadas no sítio eletrônico do Sinir.
 
 ###### Art. 27 {#art27}
-Tags: #educacao-ambiental #sinir
 
 **Art. 27, caput** {#art27_cpt} Os planos de comunicação e de educação ambiental não formal deverão ser atualizados e disponibilizados no Sinir e nos sítios eletrônicos das entidades gestoras ou das empresas na internet, conforme o modelo adotado para divulgação das ações e dos resultados do sistema de logística reversa de embalagens de plástico.
 
 ###### Art. 28 {#art28}
-Tags: #educacao-ambiental #prazo
 
 **Art. 28, caput** {#art28_cpt} Os planos de comunicação e de educação ambiental não formal serão reavaliados pelos fabricantes de embalagens de plástico ou de produtos comercializados em embalagens de plástico ou pelos importadores, no modelo individual, ou pelas entidades gestoras, no modelo coletivo, pelo menos uma vez a cada dois anos.
 
 ## CAPÍTULO VIII – DA VIABILIDADE TÉCNICA E ECONÔMICA
 
 ###### Art. 29 {#art29}
-Tags: #logistica-reversa #pev #catador #reciclagem
 
 **Art. 29, caput** {#art29_cpt} A viabilidade técnica e econômica será considerada pelos fabricantes, pelos importadores, pelos distribuidores, pelos comerciantes ou pelas entidades gestoras, nos modelos individual ou coletivo, respectivamente, para a definição da localização dos pontos de entrega voluntária, da modalidade e da periodicidade das operações logísticas inerentes ao sistema de logística reversa de embalagens de plástico.
 
@@ -372,7 +343,6 @@ Tags: #logistica-reversa #pev #catador #reciclagem
 ## CAPÍTULO IX – DA PARTICIPAÇÃO DOS TITULARES E DOS CONCESSIONÁRIOS DOS SERVIÇOS PÚBLICOS DE LIMPEZA URBANA E DE MANEJO DE RESÍDUOS SÓLIDOS
 
 ###### Art. 30 {#art30}
-Tags: #logistica-reversa #servico-limpeza-urbana #municipio
 
 **Art. 30, caput** {#art30_cpt} No sistema de logística reversa de embalagens de plástico, os titulares e os concessionários dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos se encarregarão apenas de ações e atividades de responsabilidade dos fabricantes, dos importadores, dos distribuidores e dos comerciantes, nos termos do disposto no [[lei-federal-12305-2010#art33_par7|art. 33, § 7º, da Lei nº 12.305, de 2 de agosto de 2010]].
 
@@ -383,7 +353,6 @@ Tags: #logistica-reversa #servico-limpeza-urbana #municipio
 ## CAPÍTULO X – DAS METAS E DO CRONOGRAMA
 
 ###### Art. 31 {#art31}
-Tags: #logistica-reversa #meta
 
 **Art. 31, caput** {#art31_cpt} Ficam estabelecidos, na forma do [[#anexo1|Anexo I]], os percentuais mínimos regionais e nacional, em conformidade com o Plano Nacional de Resíduos Sólidos, como metas quantitativas para o índice de recuperação de embalagens de plástico relativamente à quantidade de embalagens de plástico, em massa, colocadas no mercado.
 
@@ -392,7 +361,6 @@ Tags: #logistica-reversa #meta
 **Art. 31, § 2º** {#art31_par2} A responsabilidade dos fabricantes, dos importadores, dos distribuidores ou dos comerciantes será apurada de forma proporcional à massa de plástico que cada um tenha colocado no mercado em cada região.
 
 ###### Art. 32 {#art32}
-Tags: #logistica-reversa #meta #reutilizacao #relatorio
 
 **Art. 32, caput** {#art32_cpt} Os fabricantes e os importadores deverão reportar a quantidade de embalagens de plástico retornáveis colocadas no mercado e a quantidade de embalagens reenvasadas no relatório de resultados.
 
@@ -404,10 +372,9 @@ Tags: #logistica-reversa #meta #reutilizacao #relatorio
 
 **Art. 32, § 4º** {#art32_par4} Fica estabelecido que, para cada 5% (cinco por cento) de embalagens retornáveis coletadas, será reduzida em 1% (um por cento) a meta de recuperação de embalagens de plástico para os fabricantes ou importadores, até o limite de 50% (cinquenta por cento) da meta.
 
-**Art. 32, § 5º** {#art32_par5} #reciclagem #destinacao-final As embalagens retornáveis cuja reutilização seja inviável deverão ser prensadas, enfardadas e enviadas para reciclagem ou destinação final ambientalmente adequada, nos termos do disposto no [[lei-federal-12305-2010#art9|art. 9º da Lei nº 12.305, de 2 de agosto de 2010]].
+**Art. 32, § 5º** {#art32_par5} As embalagens retornáveis cuja reutilização seja inviável deverão ser prensadas, enfardadas e enviadas para reciclagem ou destinação final ambientalmente adequada, nos termos do disposto no [[lei-federal-12305-2010#art9|art. 9º da Lei nº 12.305, de 2 de agosto de 2010]].
 
 ###### Art. 33 {#art33}
-Tags: #logistica-reversa #meta #reciclagem
 
 **Art. 33, caput** {#art33_cpt} Ficam estabelecidos, na forma do [[#anexo2|Anexo II]], os percentuais mínimos nacionais, em conformidade com o Plano Nacional de Resíduos Sólidos, como metas quantitativas para o índice de conteúdo reciclado incorporado às embalagens de plástico.
 
@@ -418,19 +385,16 @@ Tags: #logistica-reversa #meta #reciclagem
 **Art. 33, § 3º** {#art33_par3} As metas de conteúdo reciclado não se aplicam às embalagens que possuam regulamentação específica, inclusive de alimentos.
 
 ###### Art. 34 {#art34}
-Tags: #meta #prazo #vigencia
 
 **Art. 34, caput** {#art34_cpt} As metas de conteúdo reciclado serão obrigatórias a partir de:
 - **Art. 34, caput, inciso I** {#art34_cpt_inc1} janeiro de 2026, para as empresas de grande porte; e
 - **Art. 34, caput, inciso II** {#art34_cpt_inc2} julho de 2026, para as empresas de pequeno e de médio porte.
 
 ###### Art. 35 {#art35}
-Tags: #meta
 
 **Art. 35, caput** {#art35_cpt} Na hipótese de recuperação de plásticos em quantidade superior ou inferior às metas estabelecidas neste Decreto, a quantidade excedente ou insuficiente, em massa, poderá ser considerada para fins de cumprimento das metas do ano subsequente, hipótese em que será deduzida ou acrescida da referida meta, em massa.
 
 ###### Art. 36 {#art36}
-Tags: #logistica-reversa #pev #meta #prazo #municipio
 
 **Art. 36, caput** {#art36_cpt} Fica estabelecida a meta geográfica, de instalação de, no mínimo:
 - **Art. 36, caput, inciso I** {#art36_cpt_inc1} um ponto de entrega voluntária nos Municípios com população até dez mil habitantes; e
@@ -443,19 +407,16 @@ Tags: #logistica-reversa #pev #meta #prazo #municipio
 **Art. 36, § 3º** {#art36_par3} Até o prazo de que trata o § 1º, a logística reversa ocorrerá por meio de outros arranjos que garantam o cumprimento das metas estabelecidas neste Decreto.
 
 ###### Art. 37 {#art37}
-Tags: #reciclagem
 
 **Art. 37, caput** {#art37_cpt} A massa de embalagens de plástico restituídas ao ciclo produtivo pelo sistema de logística reversa de embalagens de plástico será verificada no momento de sua entrada na unidade industrial dos fabricantes de resina pós-consumo reciclada - PCR, e a quantidade a ser reportada abrangerá apenas a massa comprovadamente destinada.
 
 ###### Art. 38 {#art38}
-Tags: #meta
 
 **Art. 38, caput** {#art38_cpt} As empresas e as entidades gestoras atingirão as metas estabelecidas neste Decreto quando forem atendidos, cumulativamente, o índice de recuperação e o índice de conteúdo reciclado.
 
 ## CAPÍTULO XI – DO MONITORAMENTO E DA AVALIAÇÃO DO SISTEMA
 
 ###### Art. 39 {#art39}
-Tags: #relatorio #sinir #monitoramento
 
 **Art. 39, caput** {#art39_cpt} Os fabricantes, os importadores, os distribuidores ou os comerciantes, nos modelos individual ou coletivo, deverão apresentar relatório anual de resultados, conforme modelo padrão disponibilizado no sítio eletrônico do Sinir.
 
@@ -466,37 +427,30 @@ Tags: #relatorio #sinir #monitoramento
 ## CAPÍTULO XII – DISPOSIÇÕES FINAIS
 
 ###### Art. 40 {#art40}
-Tags: #sancao #infracao-ambiental
 
 **Art. 40, caput** {#art40_cpt} O descumprimento do disposto neste Decreto sujeita os participantes do sistema de logística reversa de embalagens de plástico à aplicação das sanções previstas em lei, em especial na [[lei-federal-9605-1998|Lei nº 9.605, de 12 de fevereiro de 1998]], em seus regulamentos e nas demais normas aplicáveis.
 
 ###### Art. 41 {#art41}
-Tags: #sinir
 
 **Art. 41, caput** {#art41_cpt} Os fabricantes, os importadores, os distribuidores, os comerciantes e as entidades gestoras que fornecerem ao Poder Público informações com sigilo comercial, industrial, financeiro ou de qualquer outro tipo previsto na legislação deverão indicar, de forma expressa e fundamentada, a existência de confidencialidade, a fim de que as referidas informações sejam resguardadas, nos termos do disposto no [[decreto-federal-10936-2022#art81_par2|art. 81, § 2º, do Decreto nº 10.936, de 12 de janeiro de 2022]].
 
 ###### Art. 42 {#art42}
-Tags: #mtr #reutilizacao #sinir
 
 **Art. 42, caput** {#art42_cpt} O lote de embalagens retornáveis encaminhado para a reutilização fica sujeito à emissão do MTR pelo Sinir, nos termos do disposto no [[decreto-federal-10936-2022#art15|art. 15 do Decreto n º 10.936, de 12 de janeiro de 2022]].
 
 ###### Art. 43 {#art43}
-Tags: #reciclagem #regulamentacao #prazo
 
 **Art. 43, caput** {#art43_cpt} Ato da Ministra de Estado do Meio Ambiente e Mudança do Clima disporá sobre as normas necessárias para o estabelecimento do índice de reciclabilidade das embalagens produzidas e comercializadas, no prazo de noventa dias, contado da data de publicação deste Decreto.
 
 ###### Art. 44 {#art44}
-Tags: #poder-publico
 
 **Art. 44, caput** {#art44_cpt} Deverá ser garantido ao Poder Público acesso, por meio de solicitação específica e justificada, aos dados de interesse mantidos nos sistemas de informações e monitoramento dos sistemas de logística reversa pertencentes às empresas, às entidades gestoras e às entidades representativas, observado o disposto na [[lei-federal-12527-2011|Lei nº 12.527, de 18 de novembro de 2011]], e na [[lei-federal-13709-2018|Lei nº 13.709, de 14 de agosto de 2018]].
 
 ###### Art. 45 {#art45}
-Tags: #cooperacao-institucional
 
 **Art. 45, caput** {#art45_cpt} O Ministério do Meio Ambiente e Mudança do Clima promoverá medidas de integração entre o disposto neste Decreto e os sistemas de logística reversa de embalagens de plástico implementados por outros entes, por meio de parcerias.
 
 ###### Art. 46 {#art46}
-Tags: #vigencia
 
 **Art. 46, caput** {#art46_cpt} Este Decreto entra em vigor na data de sua publicação.
 
@@ -512,7 +466,6 @@ Tags: #vigencia
 ## ANEXOS
 
 ### ANEXO I – PERCENTUAIS MÍNIMOS REGIONAIS E NACIONAL PARA O ÍNDICE DE RECUPERAÇÃO DE EMBALAGENS DE PLÁSTICO (META) {#anexo1}
-Tags: #logistica-reversa #meta #embalagem
 
 - **Anexo I, Tabela 1, linha 1** {#anexo1_tab1_lin1} ÍNDICE DE RECUPERAÇÃO (REGIÃO/ANO): Norte | 2026: 2,15% | 2027: 2,22% | 2028: 2,35% | 2029: 2,42% | 2030: 2,49% | 2031: 2,55% | 2032: 2,69% | 2033: 2,76% | 2034: 2,82% | 2035: 2,89% | 2036: 3,02%
 - **Anexo I, Tabela 1, linha 2** {#anexo1_tab1_lin2} ÍNDICE DE RECUPERAÇÃO (REGIÃO/ANO): Nordeste | 2026: 5,44% | 2027: 5,61% | 2028: 5,95% | 2029: 6,12% | 2030: 6,29% | 2031: 6,46% | 2032: 6,80% | 2033: 6,97% | 2034: 7,14% | 2035: 7,31% | 2036: 7,65%
@@ -522,7 +475,6 @@ Tags: #logistica-reversa #meta #embalagem
 - **Anexo I, Tabela 1, linha 6** {#anexo1_tab1_lin6} ÍNDICE DE RECUPERAÇÃO (REGIÃO/ANO): Brasil | 2026: 32,00% | 2027: 33,00% | 2028: 35,00% | 2029: 36,00% | 2030: 37,00% | 2031: 38,00% | 2032: 40,00% | 2033: 41,00% | 2034: 42,00% | 2035: 43,00% | 2036: 45,00%
 
 ### ANEXO II – PERCENTUAIS MÍNIMOS NACIONAIS PARA O ÍNDICE DE CONTEÚDO RECICLADO INCORPORADO ÀS EMBALAGENS DE PLÁSTICO (META) {#anexo2}
-Tags: #logistica-reversa #meta #embalagem #reciclagem
 
 - **Anexo II, Tabela 1, linha 1** {#anexo2_tab1_lin1} ÍNDICE DE CONTEÚDO RECICLADO (%): Brasil | 2026: 22 | 2027: 24 | 2028: 26 | 2029: 28 | 2030: 30 | 2031: 31 | 2032: 32 | 2033: 33 | 2034: 34 | 2035: 35 | 2036: 36 | 2037: 37 | 2038: 38 | 2039: 39 | 2040: 40
 

@@ -38,14 +38,12 @@ fonte: "Portal do CONAMA – PDF (Word 2013, 16 páginas, 'Este texto não subst
 Considerando a necessidade de estabelecer padrões de nomenclatura para os produtos e subprodutos florestais que possibilite a integração dos sistemas eletrônicos de controle, prevista na [[resolucao-conama-379-2006|Resolução do Conselho Nacional do Meio Ambiente-CONAMA nº 379, de 19 de outubro de 2006]], e ações de fiscalização em todo o território nacional, Considerando a necessidade de definir procedimentos mínimos para inspeção técnica em indústrias que utilizam insumos florestais de origem nativa, resolve:
 
 ###### Art. 1º {#art1}
-Tags: #industria-madeira #fiscalizacao #coeficiente-rendimento
 
 **Art. 1º, caput** {#art1_cpt} Esta Resolução tem como objeto definir procedimentos para inspeção de indústrias consumidoras ou transformadoras de produtos e subprodutos florestais madeireiros de origem nativa, bem como os respectivos padrões de nomenclatura e coeficientes de rendimento volumétricos, inclusive carvão vegetal e resíduos de serraria.
 
 **Art. 1º, parágrafo único** {#art1_par1u} A inspeção de que trata o [[#art1_cpt|caput]] deste artigo tem como objetivo comprovar as informações declaradas ao órgão ambiental competente.
 
 ###### Art. 2º {#art2}
-Tags: #fiscalizacao #ibama #sisnama
 
 **Art. 2º, caput** {#art2_cpt} O órgão ambiental deverá estabelecer rotina de inspeção a partir de critérios de malha definidos pelo órgão de meio ambiente ou por sorteio público.
 
@@ -54,7 +52,6 @@ Tags: #fiscalizacao #ibama #sisnama
 **Art. 2º, § 2º** {#art2_par2} O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis-IBAMA e os demais Órgãos do Sistema Nacional do Meio Ambiente-SISNAMA poderão estabelecer procedimentos para a realização do sorteio, tendo como base acordos de cooperação técnica firmados entre si.
 
 ###### Art. 3º {#art3}
-Tags: #fiscalizacao #prazo
 
 **Art. 3º, caput** {#art3_cpt} Para a realização da inspeção, os técnicos do órgão ambiental deverão levantar informações referentes ao período de análise estabelecido, conforme roteiro do [[#anexo1|Anexo I]] desta Resolução.
 
@@ -63,7 +60,6 @@ Tags: #fiscalizacao #prazo
 **Art. 3º, § 2º** {#art3_par2} O órgão ambiental estabelecerá ato específico para estabelecimento de prazos para apresentação dos documentos exigidos.
 
 ###### Art. 4º {#art4}
-Tags: #fiscalizacao #documentacao #industria-madeira
 
 **Art. 4º, caput** {#art4_cpt} O órgão ambiental, no que couber, poderá exigir das indústrias sob inspeção:
 
@@ -79,12 +75,10 @@ Tags: #fiscalizacao #documentacao #industria-madeira
 **Art. 4º, parágrafo único** {#art4_par1u} O órgão ambiental competente deverá realizar inspeção nos horários de funcionamento da empresa.
 
 ###### Art. 5º {#art5}
-Tags: #fiscalizacao
 
 **Art. 5º, caput** {#art5_cpt} Durante a inspeção, os técnicos do órgão ambiental deverão acompanhar todos os processos de conversão da madeira, lenha ou carvão.
 
 ###### Art. 6º {#art6}
-Tags: #coeficiente-rendimento #dof #diretriz-estudo #prazo #licenca-ambiental
 Alterações: a [[resolucao-conama-474-2016|Resolução CONAMA nº 474/2016]] alterou este artigo e revogou o § 3º (fora da base; texto abaixo é o original de 2009 — ver [[#relacao-normas-superiores|Relação com normas superiores]])
 
 **Art. 6º, caput** {#art6_cpt} A conversão de produtos ou subprodutos florestais por meio do processamento industrial deve ser informada no Sistema - DOF ou no sistema eletrônico estadual integrado, respeitando o coeficiente volumétrico de cada indústria.
@@ -93,11 +87,11 @@ Alterações: a [[resolucao-conama-474-2016|Resolução CONAMA nº 474/2016]] al
 
 **Art. 6º, § 2º** {#art6_par2} O prazo previsto no [[#art6_par1|§ 1º]] poderá ser prorrogado uma única vez por igual período, desde que devidamente justificado.
 
-**Art. 6º, § 3º** {#art6_par3} #diretriz-estudo Para coeficientes de rendimento inferiores ao previsto no [[#anexo2|Anexo II]], o empreendedor deverá apresentar estudo técnico conforme Termo de Referência simplificado ([[#anexo5|Anexos V e VI]]), com a adoção imediata pelo órgão ambiental competente.
+**Art. 6º, § 3º** {#art6_par3} Para coeficientes de rendimento inferiores ao previsto no [[#anexo2|Anexo II]], o empreendedor deverá apresentar estudo técnico conforme Termo de Referência simplificado ([[#anexo5|Anexos V e VI]]), com a adoção imediata pelo órgão ambiental competente.
 
 > Observação do conversor: este parágrafo e os Anexos V e VI foram revogados pelo art. 8º da [[resolucao-conama-474-2016|Resolução CONAMA nº 474/2016]], segundo o texto compilado consultado na pesquisa (a 474/2016 não está na base e o PDF não marca a revogação). O texto foi mantido até a 474/2016 entrar na base; aí ele será removido, ficando só rótulo, ID e `#revogado`.
 
-**Art. 6º, § 4º** {#art6_par4} #diretriz-estudo Para coeficientes de rendimento acima do previsto no [[#anexo2|anexo II]] o empreendedor deverá apresentar estudo técnico conforme Termo de Referência padrão ([[#anexo3|Anexos III e IV]]), com a adoção imediata pelo órgão ambiental competente.
+**Art. 6º, § 4º** {#art6_par4} Para coeficientes de rendimento acima do previsto no [[#anexo2|anexo II]] o empreendedor deverá apresentar estudo técnico conforme Termo de Referência padrão ([[#anexo3|Anexos III e IV]]), com a adoção imediata pelo órgão ambiental competente.
 
 **Art. 6º, § 5º** {#art6_par5} Para coeficientes de rendimento não previstos nesta Resolução, o órgão ambiental competente poderá estabelecer termo de referência específico para o estudo.
 
@@ -111,24 +105,21 @@ Alterações: a [[resolucao-conama-474-2016|Resolução CONAMA nº 474/2016]] al
 
 **Art. 6º, § 10** {#art6_par10} A conversão deve ser informada no sistema, no máximo em 5 dias úteis após a transformação, salvo motivo de força maior devidamente justificado.
 
-**Art. 6º, § 11** {#art6_par11} #licenca-ambiental A conversão de produtos e subprodutos, inclusive quando se der na área de exploração, será permitida somente para empreendedores devidamente licenciados para essa atividade.
+**Art. 6º, § 11** {#art6_par11} A conversão de produtos e subprodutos, inclusive quando se der na área de exploração, será permitida somente para empreendedores devidamente licenciados para essa atividade.
 
 **Art. 6º, § 12** {#art6_par12} A inspeção técnica deverá considerar o coeficiente de rendimento vigente à época da transformação, conforme indicado no sistema.
 
 ###### Art. 7º {#art7}
-Tags: #coeficiente-rendimento #sancao
 
 **Art. 7º, caput** {#art7_cpt} A comprovação dos coeficientes de rendimento volumétrico dar-se-á pela inspeção.
 
-**Art. 7º, parágrafo único** {#art7_par1u} #sancao Caso comprovado coeficiente de rendimento volumétrico distinto do utilizado pela empresa, considerado o intervalo de confiança estabelecido no estudo, o órgão ambiental competente aplicará as sanções previstas na legislação ambiental e promoverá a alteração do coeficiente conforme detectado na inspeção.
+**Art. 7º, parágrafo único** {#art7_par1u} Caso comprovado coeficiente de rendimento volumétrico distinto do utilizado pela empresa, considerado o intervalo de confiança estabelecido no estudo, o órgão ambiental competente aplicará as sanções previstas na legislação ambiental e promoverá a alteração do coeficiente conforme detectado na inspeção.
 
 ###### Art. 8º {#art8}
-Tags: #fiscalizacao
 
 **Art. 8º, caput** {#art8_cpt} O órgão ambiental competente promoverá capacitação de seus técnicos para realização das inspeções técnicas.
 
 ###### Art. 9º {#art9}
-Tags: #glossario-produto-madeira #ibama #sancao
 Alterações: a [[resolucao-conama-474-2016|Resolução CONAMA nº 474/2016]] alterou este artigo (fora da base; texto abaixo é o original de 2009)
 
 **Art. 9º, caput** {#art9_cpt} Os produtos e subprodutos florestais madeireiros cadastrados nos Sistemas eletrônicos de controle deverão observar o glossário de termos técnicos conforme [[#anexo7|anexo VII]].
@@ -139,24 +130,21 @@ Alterações: a [[resolucao-conama-474-2016|Resolução CONAMA nº 474/2016]] al
 
 **Art. 9º, § 3º** {#art9_par3} O órgão ambiental, em consonância com o setor empresarial, poderá subclassificar os produtos e subprodutos de acordo com o grau de beneficiamento, sem prejuízo da classificação estabelecida nesta Resolução.
 
-**Art. 9º, § 4º** {#art9_par4} #sancao No ato de fiscalização do órgão ambiental ou na inspeção técnica, os produtos classificados no sistema eletrônico de controle em desacordo com o glossário técnico estarão sujeitos às sanções previstas na legislação ambiental.
+**Art. 9º, § 4º** {#art9_par4} No ato de fiscalização do órgão ambiental ou na inspeção técnica, os produtos classificados no sistema eletrônico de controle em desacordo com o glossário técnico estarão sujeitos às sanções previstas na legislação ambiental.
 
 **Art. 9º, § 5º** {#art9_par5} As sanções previstas no [[#art9_par4|parágrafo anterior]] não se aplicam os casos de subclassificações.
 
 **Art. 9º, § 6º** {#art9_par6} O IBAMA, em conjunto com os órgãos ambientais competentes e o setor empresarial, estabelecerá definição para produtos e subprodutos não previstos no [[#anexo7|Anexo VII]] desta Resolução
 
 ###### Art. 10 {#art10}
-Tags: #cooperacao-institucional #ibama #sisnama
 
 **Art. 10, caput** {#art10_cpt} Poderão ser firmados Acordos de Cooperação Técnica entre o IBAMA e os demais órgãos integrantes do SISNAMA, na área de gestão florestal e fiscalização, com o objetivo de ações conjuntas, troca de informações, especialmente as relacionadas com o licenciamento ambiental dos empreendimentos e a fiscalização dos mesmos.
 
 ###### Art. 11 {#art11}
-Tags: #floresta-plantada
 
 **Art. 11, caput** {#art11_cpt} Esta Resolução não se aplica aos produtos e subprodutos florestais provenientes de plantios.
 
 ###### Art. 12 {#art12}
-Tags: #fiscalizacao
 
 **Art. 12, caput** {#art12_cpt} O órgão ambiental deverá elaborar manuais de inspeção a partir das diretrizes contidas nesta
 
@@ -178,15 +166,15 @@ Tags: #fiscalizacao
 - **Anexo I, item 1.1.1, linha 4** {#anexo1_lin4} - Condicionantes na Licença Ambiental;
 - **Anexo I, item 1.1.1, linha 5** {#anexo1_lin5} - Prazo de validade, objetivos e se contém rasura;- Data de início da operação;
 - **Anexo I, item 1.1.1, linha 6** {#anexo1_lin6} - Capacidade operacional instalada.
-- **Anexo I, item 1.2, linha 7** {#anexo1_lin7} #ctf 1.2 Cadastro Técnico Federal - CTF
-- **Anexo I, item 1.2.1, linha 8** {#anexo1_lin8} #ctf 1.2.1. Dados a serem observados
-- **Anexo I, item 1.2.1, linha 9** {#anexo1_lin9} #ctf - Relatório anual apresentado pela empresa;
-- **Anexo I, item 1.2.1, linha 10** {#anexo1_lin10} #ctf - Data de início da operação;
-- **Anexo I, item 1.2.1, linha 11** {#anexo1_lin11} #ctf - Capacidade operacional instalada;
-- **Anexo I, item 1.2.1, linha 12** {#anexo1_lin12} #ctf - Porte da empresa;
-- **Anexo I, item 1.2.1, linha 13** {#anexo1_lin13} #ctf - Volume consumido de matéria-prima florestal;
-- **Anexo I, item 1.2.1, linha 14** {#anexo1_lin14} #ctf - Quantidade de produto produzido;
-- **Anexo I, item 1.2.1, linha 15** {#anexo1_lin15} #ctf - Dados sobre produção do período de análise estabelecido;- Certificado de regularidade.
+- **Anexo I, item 1.2, linha 7** {#anexo1_lin7} 1.2 Cadastro Técnico Federal - CTF
+- **Anexo I, item 1.2.1, linha 8** {#anexo1_lin8} 1.2.1. Dados a serem observados
+- **Anexo I, item 1.2.1, linha 9** {#anexo1_lin9} - Relatório anual apresentado pela empresa;
+- **Anexo I, item 1.2.1, linha 10** {#anexo1_lin10} - Data de início da operação;
+- **Anexo I, item 1.2.1, linha 11** {#anexo1_lin11} - Capacidade operacional instalada;
+- **Anexo I, item 1.2.1, linha 12** {#anexo1_lin12} - Porte da empresa;
+- **Anexo I, item 1.2.1, linha 13** {#anexo1_lin13} - Volume consumido de matéria-prima florestal;
+- **Anexo I, item 1.2.1, linha 14** {#anexo1_lin14} - Quantidade de produto produzido;
+- **Anexo I, item 1.2.1, linha 15** {#anexo1_lin15} - Dados sobre produção do período de análise estabelecido;- Certificado de regularidade.
 - **Anexo I, item 1.3, linha 16** {#anexo1_lin16} 1.3 Sistema Eletrônico de Controle Florestal
 - **Anexo I, item 1.3.1, linha 17** {#anexo1_lin17} 1.3.1. Dados a serem observados no relatório de origem de produto florestal para o período de análise estabelecido.
 - **Anexo I, item 1.3.1, linha 18** {#anexo1_lin18} - Volume de entrada de produtos florestais (tora, lenha, carvão vegetal) no pátio da empresa;
@@ -208,20 +196,20 @@ Tags: #fiscalizacao
 - **Anexo I, item 2, linha 34** {#anexo1_lin34} - Verificar se o porte da empresa condiz com a produção da empresa para verificar se está compatível com descrito no CTF.
 - **Anexo I, item 3, linha 35** {#anexo1_lin35} 3. LEVANTAMENTO DE PÁTIO DE ESTOCAGEM DE PRODUTOS FLORESTAIS
 - **Anexo I, item 3.1, linha 36** {#anexo1_lin36} 3.1 Efetuar a Cubagem de lenha, carvão e de toda a madeira em toras do pátio da indústria por espécie.
-- **Anexo I, item 3.2, linha 37** {#anexo1_lin37} #cubagem 3.2 Fórmulas de cubagem de madeira em tora
-- **Anexo I, item 3.2, linha 38** {#anexo1_lin38} #cubagem O órgão ambiental deve adotar o método geométrico para cubagem de toras, utilizando a fórmula de Smalian.
-- **Anexo I, item 3.2, linha 39** {#anexo1_lin39} #cubagem Fórmula: V = [(d<sub>b</sub><sup>2</sup> . π/ 4) + (d<sub>t</sub><sup>2</sup> . π/ 4)] / 2 . L *ou* V = 0,7854 . [(D<sub>b</sub> + D<sub>t</sub>) / 2]<sup>2</sup> . L
-- **Anexo I, item 3.2, linha 40** {#anexo1_lin40} #cubagem Onde: V = volume em m3
-- **Anexo I, item 3.2, linha 41** {#anexo1_lin41} #cubagem L = Comprimento da tora em metro db = Diâmetro da base da tora em metro (obtido a partir da média do maior e menor diâmetro na seção - em cruz).
-- **Anexo I, item 3.2, linha 42** {#anexo1_lin42} #cubagem dt = Diâmetro do topo da tora em metro (obtido a partir da média do maior e menor diâmetro na seção - em cruz).
-- **Anexo I, item 3.2, linha 43** {#anexo1_lin43} #cubagem Observação: o volume será calculado com ou sem casca de acordo com o controle estabelecido pelo órgão ambiental competente.
+- **Anexo I, item 3.2, linha 37** {#anexo1_lin37} 3.2 Fórmulas de cubagem de madeira em tora
+- **Anexo I, item 3.2, linha 38** {#anexo1_lin38} O órgão ambiental deve adotar o método geométrico para cubagem de toras, utilizando a fórmula de Smalian.
+- **Anexo I, item 3.2, linha 39** {#anexo1_lin39} Fórmula: V = [(d<sub>b</sub><sup>2</sup> . π/ 4) + (d<sub>t</sub><sup>2</sup> . π/ 4)] / 2 . L *ou* V = 0,7854 . [(D<sub>b</sub> + D<sub>t</sub>) / 2]<sup>2</sup> . L
+- **Anexo I, item 3.2, linha 40** {#anexo1_lin40} Onde: V = volume em m3
+- **Anexo I, item 3.2, linha 41** {#anexo1_lin41} L = Comprimento da tora em metro db = Diâmetro da base da tora em metro (obtido a partir da média do maior e menor diâmetro na seção - em cruz).
+- **Anexo I, item 3.2, linha 42** {#anexo1_lin42} dt = Diâmetro do topo da tora em metro (obtido a partir da média do maior e menor diâmetro na seção - em cruz).
+- **Anexo I, item 3.2, linha 43** {#anexo1_lin43} Observação: o volume será calculado com ou sem casca de acordo com o controle estabelecido pelo órgão ambiental competente.
 - **Anexo I, item 3.3, linha 44** {#anexo1_lin44} 3.3 Medição individual de madeira serrada O órgão ambiental competente, em consonância com o setor empresarial, estabelecerá procedimentos de estocagem e medição de produtos florestais.
-- **Anexo I, item 3.4, linha 45** {#anexo1_lin45} #cubagem 3.4 Tolerância
-- **Anexo I, item 3.4, linha 46** {#anexo1_lin46} #cubagem O órgão ambiental competente admitirá variação no volume total de até 10% para mais ou para menos.
+- **Anexo I, item 3.4, linha 45** {#anexo1_lin45} 3.4 Tolerância
+- **Anexo I, item 3.4, linha 46** {#anexo1_lin46} O órgão ambiental competente admitirá variação no volume total de até 10% para mais ou para menos.
 - **Anexo I, item 4, linha 47** {#anexo1_lin47} 4. COEFICIENTE DE RENDIMENTO VOLUMÉTRICO
-- **Anexo I, item 4.1, linha 48** {#anexo1_lin48} #coeficiente-rendimento 4.1 Levantar no sistema de controle eletrônico os coeficientes de rendimento volumétrico adotados.
-- **Anexo I, item 4.2, linha 49** {#anexo1_lin49} #coeficiente-rendimento 4.2 Verificar se o coeficiente de rendimento volumétrico da empresa está de acordo com o estudo técnico apresentado, respeitado o intervalo de confiança.
-- **Anexo I, item 4.3, linha 50** {#anexo1_lin50} #coeficiente-rendimento 4.3 Levantar dados sobre a produção da indústria, de forma a confrontar com o coeficiente de rendimento para o produto em questão (ex: Estéreo de lenha consumido para cada milheiro de tijolos, mdc de carvão para cada tonelada de ferro gusa, etc.)
+- **Anexo I, item 4.1, linha 48** {#anexo1_lin48} 4.1 Levantar no sistema de controle eletrônico os coeficientes de rendimento volumétrico adotados.
+- **Anexo I, item 4.2, linha 49** {#anexo1_lin49} 4.2 Verificar se o coeficiente de rendimento volumétrico da empresa está de acordo com o estudo técnico apresentado, respeitado o intervalo de confiança.
+- **Anexo I, item 4.3, linha 50** {#anexo1_lin50} 4.3 Levantar dados sobre a produção da indústria, de forma a confrontar com o coeficiente de rendimento para o produto em questão (ex: Estéreo de lenha consumido para cada milheiro de tijolos, mdc de carvão para cada tonelada de ferro gusa, etc.)
 - **Anexo I, item 5, linha 51** {#anexo1_lin51} 5. LINHA DE PRODUÇÃO
 - **Anexo I, item 5, linha 52** {#anexo1_lin52} - Verificar se existe um controle da medição da entrada de produtos florestais (toras, lenha, carvão vegetal) no momento do desdobro/consumo e solicitar dados ou planilhas.
 - **Anexo I, item 5, linha 53** {#anexo1_lin53} - Verificar se existe um controle da medição da produção em relação ao desdobro da tora e solicitar dados ou planilhas.
@@ -238,12 +226,12 @@ Tags: #fiscalizacao
 
 **Anexo II, Tabela 1 (título)** {#anexo2_tab1} Coeficiente de Rendimento Volumétrico (CRV)
 
-- **Anexo II, Tabela 1, linha 1** {#anexo2_tab1_lin1} #coeficiente-rendimento #carvao-vegetal Matéria-prima: Lenha | Unid.: st | Produto: Carvão Vegetal | Unid.: MDC | CRV(%): 33,33
-- **Anexo II, Tabela 1, linha 2** {#anexo2_tab1_lin2} #coeficiente-rendimento #carvao-vegetal Matéria-prima: Resíduo de Serraria | Unid.: M3 | Produto: Carvão Vegetal de resíduo | Unid.: MDC | CRV(%): 50
-- **Anexo II, Tabela 1, linha 3** {#anexo2_tab1_lin3} #coeficiente-rendimento Matéria-prima: Tora/Torete | Unid.: M3 | Produto: Madeira Serrada | Unid.: M3 | CRV(%): 45
-- **Anexo II, Tabela 1, linha 4** {#anexo2_tab1_lin4} #coeficiente-rendimento #laminacao Matéria-prima: Tora/Torete | Unid.: M3 | Produto: Lâmina Faqueada | Unid.: M3 | CRV(%): 45
-- **Anexo II, Tabela 1, linha 5** {#anexo2_tab1_lin5} #coeficiente-rendimento #laminacao Matéria-prima: Tora/Torete | Unid.: M3 | Produto: Lâmina Torneada | Unid.: M3 | CRV(%): 55
-- **Anexo II, Tabela 1, linha 6** {#anexo2_tab1_lin6} #coeficiente-rendimento #carvao-vegetal Matéria-prima: Madeira em geral | Unid.: M3 | Produto: Carvão Vegetal | Unid.: MDC | CRV(%): 50
+- **Anexo II, Tabela 1, linha 1** {#anexo2_tab1_lin1} Matéria-prima: Lenha | Unid.: st | Produto: Carvão Vegetal | Unid.: MDC | CRV(%): 33,33
+- **Anexo II, Tabela 1, linha 2** {#anexo2_tab1_lin2} Matéria-prima: Resíduo de Serraria | Unid.: M3 | Produto: Carvão Vegetal de resíduo | Unid.: MDC | CRV(%): 50
+- **Anexo II, Tabela 1, linha 3** {#anexo2_tab1_lin3} Matéria-prima: Tora/Torete | Unid.: M3 | Produto: Madeira Serrada | Unid.: M3 | CRV(%): 45
+- **Anexo II, Tabela 1, linha 4** {#anexo2_tab1_lin4} Matéria-prima: Tora/Torete | Unid.: M3 | Produto: Lâmina Faqueada | Unid.: M3 | CRV(%): 45
+- **Anexo II, Tabela 1, linha 5** {#anexo2_tab1_lin5} Matéria-prima: Tora/Torete | Unid.: M3 | Produto: Lâmina Torneada | Unid.: M3 | CRV(%): 55
+- **Anexo II, Tabela 1, linha 6** {#anexo2_tab1_lin6} Matéria-prima: Madeira em geral | Unid.: M3 | Produto: Carvão Vegetal | Unid.: MDC | CRV(%): 50
 
 ### ANEXO III {#anexo3}
 
@@ -273,15 +261,15 @@ ROTEIRO PARA DETERMINAÇÃO DO COEFICIENTE DE RENDIMENTO VOLUMÉTRICO DE TORA CO
 
 **Anexo VII, título** {#anexo7_titulo} GLOSSÁRIO DE PRODUTOS DE MADEIRA
 
-- **Anexo VII, item 1** {#anexo7_lin1} #glossario-produto-madeira Termo: Carvão vegetal | Definição: Substância combustível, sólida, negra, resultante da carbonização da madeira (troncos, galhos, nós e raízes), podendo apresentar diversas formas e densidades.
-- **Anexo VII, item 2** {#anexo7_lin2} #glossario-produto-madeira Termo: Carvão vegetal de resíduo | Definição: Substância combustível, sólida, negra, resultante da carbonização de resíduo da industrialização da madeira, podendo apresentar diversas formas e densidades.
-- **Anexo VII, item 3** {#anexo7_lin3} #glossario-produto-madeira Termo: Escoramento | Definição: Peça de madeira, normalmente uma seção de tronco, fino e alongado, manuseável, também denominado espeque, esteio, estronca, ou vara, geralmente utilizados em obras e construções para escorar ou suster temporariamente andaimes, partes superiores, inclinadas, revestidas, obras de arrimo e apoio emergencial de edificações. | Dimensões usuais: Diâmetro da menor seção maior que 6 cm; Comprimento maior que 260 cm
-- **Anexo VII, item 4** {#anexo7_lin4} #glossario-produto-madeira Termo: Estaca | Definição: Peça alongada de diferentes tamanhos, geralmente uma seção de tronco que se crava no solo com finalidade estrutural para transmitir-lhe carga de uma construção, como parte de fundação, como marco referencial, como peça de sustentação e outros.
-- **Anexo VII, item 5** {#anexo7_lin5} #glossario-produto-madeira Termo: Lâmina Torneada | Definição: Denominação referente à lâmina de madeira ou fragmento chato e delgado obtido pelo método de processamento rotativo ou torneamento, resultante do giro contínuo da tora sobre mecanismo de corte.
-- **Anexo VII, item 6** {#anexo7_lin6} #glossario-produto-madeira Termo: Lâmina Faqueada | Definição: Denominação referente à lâmina de madeira ou fragmento chato e delgado, obtido pelo processamento da tora no sentido longitudinal ou rotacional por método de laminação contínua e repetitiva.
-- **Anexo VII, item 7** {#anexo7_lin7} #glossario-produto-madeira Termo: Lasca | Definição: Denominação referente à peça de madeira ou parte de tronco, obtida por rompimento no sentido longitudinal, forçado a partir de rachaduras e fendas na madeira, geralmente de dimensões que possibilitam manuseio e com dois lados formando um vértice e geralmente destinadas à utilização como estaca e mourão de cerca de arame. | Dimensões usuais: Comprimento acima de 220 cm; Espessuras variáveis
-- **Anexo VII, item 8** {#anexo7_lin8} #glossario-produto-madeira Termo: Lenha | Definição: Porção de galhos, raízes e troncos de árvores e nós de madeira, normalmente utilizados na queima direta ou produção de carvão vegetal.
-- **Anexo VII, item 9** {#anexo7_lin9} #glossario-produto-madeira Termo: Madeira serrada | Definição: É a que resulta diretamente do desdobro de toras ou toretes, constituída de peças cortadas longitudinalmente por meio de serra, independentemente de suas dimensões, de seção retangular ou quadrada. A madeira serrada será classificada de acordo com as seguintes dimensões: (ver [[#anexo7_tab1|Tabela 1]])
+- **Anexo VII, item 1** {#anexo7_lin1} Termo: Carvão vegetal | Definição: Substância combustível, sólida, negra, resultante da carbonização da madeira (troncos, galhos, nós e raízes), podendo apresentar diversas formas e densidades.
+- **Anexo VII, item 2** {#anexo7_lin2} Termo: Carvão vegetal de resíduo | Definição: Substância combustível, sólida, negra, resultante da carbonização de resíduo da industrialização da madeira, podendo apresentar diversas formas e densidades.
+- **Anexo VII, item 3** {#anexo7_lin3} Termo: Escoramento | Definição: Peça de madeira, normalmente uma seção de tronco, fino e alongado, manuseável, também denominado espeque, esteio, estronca, ou vara, geralmente utilizados em obras e construções para escorar ou suster temporariamente andaimes, partes superiores, inclinadas, revestidas, obras de arrimo e apoio emergencial de edificações. | Dimensões usuais: Diâmetro da menor seção maior que 6 cm; Comprimento maior que 260 cm
+- **Anexo VII, item 4** {#anexo7_lin4} Termo: Estaca | Definição: Peça alongada de diferentes tamanhos, geralmente uma seção de tronco que se crava no solo com finalidade estrutural para transmitir-lhe carga de uma construção, como parte de fundação, como marco referencial, como peça de sustentação e outros.
+- **Anexo VII, item 5** {#anexo7_lin5} Termo: Lâmina Torneada | Definição: Denominação referente à lâmina de madeira ou fragmento chato e delgado obtido pelo método de processamento rotativo ou torneamento, resultante do giro contínuo da tora sobre mecanismo de corte.
+- **Anexo VII, item 6** {#anexo7_lin6} Termo: Lâmina Faqueada | Definição: Denominação referente à lâmina de madeira ou fragmento chato e delgado, obtido pelo processamento da tora no sentido longitudinal ou rotacional por método de laminação contínua e repetitiva.
+- **Anexo VII, item 7** {#anexo7_lin7} Termo: Lasca | Definição: Denominação referente à peça de madeira ou parte de tronco, obtida por rompimento no sentido longitudinal, forçado a partir de rachaduras e fendas na madeira, geralmente de dimensões que possibilitam manuseio e com dois lados formando um vértice e geralmente destinadas à utilização como estaca e mourão de cerca de arame. | Dimensões usuais: Comprimento acima de 220 cm; Espessuras variáveis
+- **Anexo VII, item 8** {#anexo7_lin8} Termo: Lenha | Definição: Porção de galhos, raízes e troncos de árvores e nós de madeira, normalmente utilizados na queima direta ou produção de carvão vegetal.
+- **Anexo VII, item 9** {#anexo7_lin9} Termo: Madeira serrada | Definição: É a que resulta diretamente do desdobro de toras ou toretes, constituída de peças cortadas longitudinalmente por meio de serra, independentemente de suas dimensões, de seção retangular ou quadrada. A madeira serrada será classificada de acordo com as seguintes dimensões: (ver [[#anexo7_tab1|Tabela 1]])
 
   **Anexo VII, item 9, Tabela 1 (sem título no original): classificação da madeira serrada por dimensões** {#anexo7_tab1}
 
@@ -295,13 +283,13 @@ ROTEIRO PARA DETERMINAÇÃO DO COEFICIENTE DE RENDIMENTO VOLUMÉTRICO DE TORA CO
   - **Anexo VII, Tabela 1, linha 8** {#anexo7_tab1_lin8} Nome: Sarrafo | Espessura (cm): 2,0 - 4,0 | Largura (cm): 2,0 - 10,0
   - **Anexo VII, Tabela 1, linha 9** {#anexo7_tab1_lin9} Nome: Ripa | Espessura (cm): < 2,0 | Largura (cm): < 10,0
 
-- **Anexo VII, item 10** {#anexo7_lin10} #glossario-produto-madeira Termo: Mourão | Definição: Peça de madeira, geralmente parte de tronco, manuseável, normalmente resistente à degradação e forças mecânicas, utilizado como estaca tutorial agrícola, como esteio fincado firme para imobilização de animais de grande porte, como estrutura de sustentação de cerca de tábuas, de arames, de alambrados ou à beira de rios onde se prendem embarcações leves. | Dimensões usuais: Comprimentos acima de 220 cm; Diâmetros variáveis
-- **Anexo VII, item 11** {#anexo7_lin11} #glossario-produto-madeira Termo: Poste | Definição: Haste de madeira, ou parte de tronco, de uso cravado verticalmente no solo para servir de suporte a estruturas, transformadores e isoladores sobre os quais se apóiam cabos de eletricidade, telefônicos, telegráficos e outros, ou como suporte para lâmpadas.
-- **Anexo VII, item 12** {#anexo7_lin12} #glossario-produto-madeira Termo: Produto Acabado | Definição: Produto obtido após o processamento industrial da madeira que se encontra pronto para o uso final e não comporta qualquer transformação adicional.
-- **Anexo VII, item 13** {#anexo7_lin13} #glossario-produto-madeira Termo: Resíduo de serraria | Definição: Conjunto de peças residuais, em diversos formatos e tamanhos, resultante do processamento industrial da madeira.
-- **Anexo VII, item 14** {#anexo7_lin14} #glossario-produto-madeira Termo: Rolo Resto ou Rolete | Definição: Peça de madeira roliça, longa, cilíndrica e manuseável, resultante de laminação por torneamento de toras. | Dimensões usuais: Comprimento de 150 a 330 cm
-- **Anexo VII, item 15** {#anexo7_lin15} #glossario-produto-madeira Termo: Tora | Definição: Parte de uma árvore, seções do seu tronco ou sua principal parte, em formato roliço destinada ao processamento industrial.
-- **Anexo VII, item 16** {#anexo7_lin16} #glossario-produto-madeira Termo: Torete | Definição: Seções aproveitáveis da árvore originadas a partir da galhada, ou de seções da tora, destinadas à cadeia produtiva da madeira serrada.
+- **Anexo VII, item 10** {#anexo7_lin10} Termo: Mourão | Definição: Peça de madeira, geralmente parte de tronco, manuseável, normalmente resistente à degradação e forças mecânicas, utilizado como estaca tutorial agrícola, como esteio fincado firme para imobilização de animais de grande porte, como estrutura de sustentação de cerca de tábuas, de arames, de alambrados ou à beira de rios onde se prendem embarcações leves. | Dimensões usuais: Comprimentos acima de 220 cm; Diâmetros variáveis
+- **Anexo VII, item 11** {#anexo7_lin11} Termo: Poste | Definição: Haste de madeira, ou parte de tronco, de uso cravado verticalmente no solo para servir de suporte a estruturas, transformadores e isoladores sobre os quais se apóiam cabos de eletricidade, telefônicos, telegráficos e outros, ou como suporte para lâmpadas.
+- **Anexo VII, item 12** {#anexo7_lin12} Termo: Produto Acabado | Definição: Produto obtido após o processamento industrial da madeira que se encontra pronto para o uso final e não comporta qualquer transformação adicional.
+- **Anexo VII, item 13** {#anexo7_lin13} Termo: Resíduo de serraria | Definição: Conjunto de peças residuais, em diversos formatos e tamanhos, resultante do processamento industrial da madeira.
+- **Anexo VII, item 14** {#anexo7_lin14} Termo: Rolo Resto ou Rolete | Definição: Peça de madeira roliça, longa, cilíndrica e manuseável, resultante de laminação por torneamento de toras. | Dimensões usuais: Comprimento de 150 a 330 cm
+- **Anexo VII, item 15** {#anexo7_lin15} Termo: Tora | Definição: Parte de uma árvore, seções do seu tronco ou sua principal parte, em formato roliço destinada ao processamento industrial.
+- **Anexo VII, item 16** {#anexo7_lin16} Termo: Torete | Definição: Seções aproveitáveis da árvore originadas a partir da galhada, ou de seções da tora, destinadas à cadeia produtiva da madeira serrada.
 
 ---
 

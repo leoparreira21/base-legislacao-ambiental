@@ -44,14 +44,12 @@ CONSIDERANDO:
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #cogeracao #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer definições, critérios, diretrizes e procedimentos para o licenciamento ambiental de empreendimentos de COGERAÇÃO DE ENERGIA no estado do Paraná, através de caldeiras geradoras de vapor, utilizando como combustível principal biomassa.
 
 ## CAPÍTULO I – DAS DEFINIÇÕES {#cap1}
 
 ###### Art. 2º {#art2}
-Tags: #cogeracao #definicao #licenciamento-ambiental #residuo-solido #fiscalizacao #sancao
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução consideram-se as seguintes definições:
 
@@ -68,7 +66,6 @@ Tags: #cogeracao #definicao #licenciamento-ambiental #residuo-solido #fiscalizac
 ### Seção I – Dos Atos administrativos {#cap2_sec1}
 
 ###### Art. 3º {#art3}
-Tags: #licenciamento-ambiental #condicionante #cogeracao #las #dispensa #requerimento
 
 **Art. 3º, caput** {#art3_cpt} O Órgão Ambiental, no exercício de sua competência de controle ambiental, no âmbito do licenciamento ambiental de empreendimentos de cogeração de energia e no exercício de suas atribuições, expedirá os seguintes atos administrativos:
 
@@ -77,14 +74,12 @@ Tags: #licenciamento-ambiental #condicionante #cogeracao #las #dispensa #requeri
 - **Art. 3º, caput, inciso III** {#art3_cpt_inc3} Licença Ambiental Simplificada (LAS): aprova a localização e a concepção do empreendimento, atividade ou obra de pequeno porte e/ou que possua baixo potencial poluidor/degradador, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos, bem como autoriza sua instalação e operação de acordo com as especificações constantes dos requerimentos, planos, programas e/ou projetos aprovados, incluindo as medidas de controle ambiental e demais condicionantes determinadas pelo órgão ambiental competente;
 
 ###### Art. 4º {#art4}
-Tags: #documentacao #responsavel-tecnico
 
 **Art. 4º, caput** {#art4_cpt} Os atos administrativos listados no [[#art2|Art. 2º]] serão expedidos por meio do Sistema Automatizado do INSTITUTO ÁGUA E TERRA, mediante cadastramento do requerente como usuário ambiental, prestação das informações referente ao empreendimento e a apresentação da documentação solicitada.
 
 ### Seção II – Da Definição do Porte, Tipo de Licenciamento e de Estudo Ambiental {#cap2_sec2}
 
 ###### Art. 5º {#art5}
-Tags: #cogeracao #porte
 
 **Art. 5º, caput** {#art5_cpt} Para os efeitos desta Resolução, os empreendimentos de cogeração de energia serão licenciados de acordo com sua classificação e porte.
 
@@ -102,7 +97,6 @@ Tags: #cogeracao #porte
 - **Art. 5º, Tabela 2, linha 5** {#art5_tab2_lin5} Porte do empreendimento: Excepcional | Potência instalada (MW): acima de 400
 
 ###### Art. 6º {#art6}
-Tags: #cogeracao #licenciamento-ambiental #pbca
 
 **Art. 6º, caput** {#art6_cpt} Para a concessão do licenciamento ambiental de empreendimentos de cogeração de energia, considerar os critérios de licenciamento da tabela abaixo:
 
@@ -114,12 +108,10 @@ Tags: #cogeracao #licenciamento-ambiental #pbca
 (1) MCE - Memorial de Caracterização do Empreendimento ([[#anexo2|ANEXO II]]) (2) PBCA - Plano Básico de Controle Ambiental ([[#anexo3|ANEXO III]])
 
 ###### Art. 7º {#art7}
-Tags: #licenciamento-ambiental #cogeracao #requerimento
 
 **Art. 7º, caput** {#art7_cpt} Os requerimentos para o licenciamento ambiental de empreendimentos de cogeração de energia TIPO I estarão incorporados no licenciamento ambiental do empreendimento principal.
 
 ###### Art. 8º {#art8}
-Tags: #cogeracao #licenciamento-ambiental #lo #lor #renovacao #requerimento
 
 **Art. 8º, caput** {#art8_cpt} Os requerimentos para o licenciamento ambiental da atividade de cogeração de energia, classificados como empreendimentos do TIPO II, deverão ser protocolados no Sistema Automatizado do INSTITUTO ÁGUA E TERRA, por meio de solicitação da licença de acordo com o enquadramento do [[#art5|Art.5º]] da presente Resolução, desde que o empreendimento principal esteja devidamente licenciado.
 
@@ -130,7 +122,6 @@ Tags: #cogeracao #licenciamento-ambiental #lo #lor #renovacao #requerimento
 #### Subseção I – Da Declaração de Dispensa de Licenciamento Ambiental - DLAE {#cap2_sec3_subsec1}
 
 ###### Art. 9º {#art9}
-Tags: #dispensa #responsavel-tecnico #licenciamento-ambiental #cogeracao #las #lo
 
 **Art. 9º, caput** {#art9_cpt} A Declaração de Dispensa de Licenciamento Ambiental - DLAE é obrigatória para os empreendimentos de cogeração de energia elegíveis conforme [[#art5|Art. 5º]] e deverá ser requerida através do Sistema Automatizado do INSTITUTO ÁGUA E TERRA, instruídos na forma prevista abaixo:
 
@@ -139,19 +130,16 @@ Tags: #dispensa #responsavel-tecnico #licenciamento-ambiental #cogeracao #las #l
 - **Art. 9º, caput, inciso III** {#art9_cpt_inc3} cópia da Licença de Operação - LO ou da Licença Ambiental Simplificada - LAS do empreendimento principal.
 
 ###### Art. 10 {#art10}
-Tags: #cogeracao #licenciamento-ambiental #porte
 
 **Art. 10, caput** {#art10_cpt} Deverá ser solicitada a respectiva Licença Ambiental para qualquer alteração nas características do porte dos empreendimentos de cogeração de energia.
 
 ###### Art. 11 {#art11}
-Tags: #licenciamento-ambiental #dispensa
 
 **Art. 11, caput** {#art11_cpt} A Dispensa do Licenciamento Ambiental Estadual - DLAE não exime o empreendedor das exigências legais quanto à preservação do meio ambiente.
 
 #### Subseção II – Da Licença Ambiental por Adesão e Compromisso - LAC {#cap2_sec3_subsec2}
 
 ###### Art. 12 {#art12}
-Tags: #responsavel-tecnico #licenciamento-ambiental #cogeracao #las #lo #publicacao-dioe
 
 **Art. 12, caput** {#art12_cpt} A Licença Ambiental por Adesão e Compromisso - LAC, para os empreendimentos de cogeração de energia elegíveis conforme [[#art5|Art. 5º]], deverá ser requerida através do Sistema Automatizado do INSTITUTO ÁGUA E TERRA, instruídos na forma prevista abaixo:
 
@@ -169,7 +157,6 @@ Tags: #responsavel-tecnico #licenciamento-ambiental #cogeracao #las #lo #publica
 #### Subseção III – Da Licença Ambiental Simplificada – LAS {#cap2_sec3_subsec3}
 
 ###### Art. 13 {#art13}
-Tags: #las #responsavel-tecnico #licenciamento-ambiental #requerimento #publicacao-dioe #cogeracao
 
 **Art. 13, caput** {#art13_cpt} Os requerimentos de Licença Ambiental Simplificada – LAS, para os empreendimentos de cogeração de energia elegíveis conforme [[#art5|Art. 5º]] deverá ser requerida através do Sistema Automatizado do INSTITUTO ÁGUA E TERRA, instruídos na forma prevista abaixo:
 
@@ -184,21 +171,18 @@ Tags: #las #responsavel-tecnico #licenciamento-ambiental #requerimento #publicac
 - **Art. 13, caput, inciso IX** {#art13_cpt_inc9} recolhimento da taxa ambiental e, em caso de optar pela publicação no site do órgão ambiental, demais valores cabíveis referentes às publicações.
 
 ###### Art. 14 {#art14}
-Tags: #las #supressao-vegetacao #licenciamento-ambiental
 
 **Art. 14, caput** {#art14_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença Ambiental Simplificada – LAS somente poderá ser emitida acompanhada da respectiva Autorização Florestal.
 
 ### Seção IV – Da Regularização do Licenciamento Ambiental {#cap2_sec4}
 
 ###### Art. 15 {#art15}
-Tags: #cogeracao #responsavel-tecnico #enquadramento
 
 **Art. 15, caput** {#art15_cpt} Os empreendimentos que tenham a atividade de cogeração de energia em operação, antes da edição desta resolução, poderão se regularizar, por meio de solicitação da respectiva licença de acordo com o enquadramento do [[#art5|Art.5º]] da presente Resolução.
 
 ### Seção V – Dos prazos de Validade das Licenças {#cap2_sec5}
 
 ###### Art. 16 {#art16}
-Tags: #validade #prazo #licenciamento-ambiental #las #autorizacao-ambiental #dispensa
 
 **Art. 16, caput** {#art16_cpt} O órgão ambiental competente estabelecerá os prazos de validade para cada tipo de licença e autorização ambiental, especificando-os no respectivo documento, levando em consideração os seguintes aspectos:
 
@@ -209,7 +193,6 @@ Tags: #validade #prazo #licenciamento-ambiental #las #autorizacao-ambiental #dis
 ## CAPÍTULO III – DISPOSIÇÕES GERAIS {#cap3}
 
 ###### Art. 17 {#art17}
-Tags: #prazo #cogeracao #licenciamento-ambiental #requerimento
 
 **Art. 17, caput** {#art17_cpt} Constatada a existência de pendência judicial envolvendo o empreendedor, o empreendimento ou o imóvel, a decisão administrativa sobre a eventual suspensão do licenciamento será precedida de manifestação jurídica do órgão ambiental competente no prazo máximo de 30 (trinta) dias.
 
@@ -224,7 +207,6 @@ Tags: #prazo #cogeracao #licenciamento-ambiental #requerimento
 **Art. 19, caput** {#art19_cpt} Esta Resolução deverá ser reavaliada a cada 04 (quatro) anos ou a qualquer tempo, quando o órgão ambiental considerar necessário.
 
 ###### Art. 20 {#art20}
-Tags: #publicacao-dioe
 
 **Art. 20, caput** {#art20_cpt} Esta Resolução entrará em vigor na data de sua publicação
 
@@ -240,32 +222,26 @@ Tags: #publicacao-dioe
 > Tipos conforme as regras de anexos do README: **tipo 1** (modelos) só com o nome; **tipo 2** (termos de referência) em arquivo próprio. Não há anexo do tipo 3.
 
 ### ANEXO I – CERTIDÃO DO MUNICÍPIO QUANTO AO USO E OCUPAÇÃO DO SOLO {#anexo1}
-Tags: #certidao-municipal
 
 Modelo de certidão do município quanto ao uso e ocupação do solo. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art12_cpt_inc1|Art. 12, inciso I]], [[#art13_cpt_inc1|Art. 13, inciso I]].)*
 
 ### ANEXO II – TERMO DE REFERÊNCIA PARA ELABORAÇÃO DO MEMORIAL DE CARACTERIZAÇÃO DO EMPREENDIMENTO – MCE {#anexo2}
-Tags: #mce
 
 [[resolucao-sedest-10-2021-anexo2|Texto e análise técnica do Anexo II]] *(Tipo 2: diretriz de estudo, em arquivo próprio. Exigido em: [[#|]], [[#art9_cpt_inc2|Art. 9º, inciso II]], [[#art12_cpt_inc5|Art. 12, inciso V]], [[#art13_cpt_inc4|Art. 13, inciso IV]].)*
 
 ### ANEXO III – TERMO DE REFERÊNCIA PARA ELABORAÇÃO DO PLANO BÁSICO DE CONTROLE AMBIENTAL – PBCA {#anexo3}
-Tags: #pbca
 
 [[resolucao-sedest-10-2021-anexo3|Texto e análise técnica do Anexo III]] *(Tipo 2: diretriz de estudo, em arquivo próprio. Exigido em: [[#|]], [[#art13_cpt_inc5|Art. 13, inciso V]].)*
 
 ### ANEXO IV – DECLARAÇÃO DA VERACIDADE DAS INFORMAÇÕES PRESTADAS {#anexo4}
-Tags: #declaracao-veracidade
 
 Modelo de declaração da veracidade das informações prestadas. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art12_cpt_inc6|Art. 12, inciso VI]].)*
 
 ### ANEXO V – DECLARAÇÃO DO EMPREENDEDOR PELO LICENCIAMENTO POR ADESÃO E COMPROMISSO {#anexo5}
-Tags: #declaracao-adesao-compromisso
 
 Modelo de declaração do empreendedor pelo licenciamento por adesão e compromisso. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art12_cpt_inc7|Art. 12, inciso VII]].)*
 
 ### ANEXO VI – DECLARAÇÃO DO RESPONSÁVEL TÉCNICO PELO LICENCIAMENTO POR ADESÃO E COMPROMISSO {#anexo6}
-Tags: #declaracao-adesao-compromisso
 
 Modelo de declaração do responsável técnico pelo licenciamento por adesão e compromisso. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art12_cpt_inc8|Art. 12, inciso VIII]].)*
 

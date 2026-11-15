@@ -31,24 +31,20 @@ fonte: "Portal da legislação estadual (AEN, \"Este texto não substitui o publ
 **Preâmbulo** {#preambulo} O SECRETÁRIO DE ESTADO DO DESENVOLVIMENTO SUSTENTÁVEL E DO TURISMO, designado pelo Decreto Estadual n. º 1440, de 23 de maio de 2019, no uso das atribuições que lhe são conferidas pela Lei Estadual nº [[lei-estadual-19848-2019|Lei nº 19.848, de 3 de maio de 2019]]; Considerando a Política Nacional do Meio Ambiente ([[lei-federal-6938-1981|Lei nº 6938/1981]] ) que estabelece que atividades efetiva ou potencialmente poluidoras devem ser submetidas ao licenciamento ambiental. Considerando o disposto na [[lei-estadual-7109-1979|Lei Estadual nº 7.109, de 17 de janeiro de 1979]], na [[lei-estadual-11054-1995|Lei Estadual nº 11.054, de 11 de agosto de 1995]], na [[lei-estadual-10233-1992|Lei Estadual nº 10.233, de 28 de dezembro de 1992]], bem como o disposto, na [[lei-federal-6938-1981|Lei Federal nº 6.938, de 31 de agosto de 1981]] e no seu Regulamento aprovado pelo [[decreto-federal-99274-1990|Decreto Federal nº 99.274, de 06 de junho de 1990]], na [[lei-complementar-federal-140-2011|Lei Complementar 140, de 08 de dezembro de 2011]], na [[lei-federal-12651-2012|Lei Federal 12.651, de 25 de maio de 2012]], e demais normas pertinentes, em especial, as Resoluções do Conselho Nacional do Meio Ambiente - CONAMA nº 001, de 23 de janeiro de 1986; nº 009, de 03 de dezembro de 1987; e nº 237, de 19 de dezembro de 1997; Considerando o disposto na Resolução do Conselho Estadual do Meio Ambiente - CEMA 107/2020, de 09 de setembro de 2020, que dispõe sobre licenciamento ambiental, estabelece critérios e procedimentos a serem adotados para as atividades poluidoras, degradadoras e/ou modificadoras do meio ambiente e adota outras providências; Considerando a necessidade de ampliação da capacidade de geração de energia elétrica em função, principalmente, da atual situação de escassez hídrica; Considerando a necessidade de regulamentar os critérios e procedimentos para o licenciamento ambiental de geração de energia através de termelétricas, especificamente nos casos de geradores modulares; RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #las #termeletrica #gas-natural
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer critérios e procedimentos para o licenciamento ambiental simplificado de usinas termelétricas a gás natural para geração de energia através de geradores modulares.
 
 ###### Art. 2º {#art2}
-Tags: #definicao #termeletrica #gas-natural
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução, considera-se:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} Usinas termelétricas a gás natural: empreendimentos para geração de energia elétrica a partir do calor gerado na queima do gás natural (combustível) em uma câmara de combustão, produzindo um aumento rápido da pressão e volume no local. Estes gases sob alta temperatura são então direcionados para uma turbina, provocando o giro da mesma, e o movimento do eixo desta turbina permite a geração da energia elétrica.
 - **Art. 2º, caput, inciso II** {#art2_cpt_inc2} Geradores modulares: Geradores de energia elétrica instalados em contêineres com desenho modular, podendo serem instalados com um único gerador ou até uma planta de energia de vários megawatts.
 
 ###### Art. 3º {#art3}
-Tags: #las #termeletrica
 
 **Art. 3º, caput** {#art3_cpt} O licenciamento ambiental simplificado a que se refere o Art.1.º desta Resolução, se aplica aos empreendimentos termelétricos a gás natural para geração de energia elétrica, através de geradores modulares, até o total de 10 MW.
 
 ###### Art. 4º {#art4}
-Tags: #restricao-locacional #app #unidade-conservacao #area-umida #bem-cultural
 
 **Art. 4º, caput** {#art4_cpt} A presente Resolução não se aplica para empreendimentos que se enquadrem nas seguintes situações:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} localizados em Áreas de Preservação Permanente, de acordo com a legislação vigente;
@@ -60,12 +56,10 @@ Tags: #restricao-locacional #app #unidade-conservacao #area-umida #bem-cultural
 - **Art. 4º, caput, inciso VII** {#art4_cpt_inc7} localizados em áreas suscetíveis de ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos, conforme previstas no [[lei-federal-10257-2001#art42-a|Art. 42-A da Lei Federal 10.257/2001]].
 
 ###### Art. 5º {#art5}
-Tags: #las
 
 **Art. 5º, caput** {#art5_cpt} O licenciamento ambiental dos empreendimentos contemplados na presente resolução se dará através da modalidade de Licença Ambiental Simplificada – LAS.
 
 ###### Art. 6º {#art6}
-Tags: #las #documentacao #requerimento
 
 **Art. 6º, caput** {#art6_cpt} Os requerimentos de Licença Ambiental Simplificada – LAS, deverão ser protocolados através do Sistema de Gestão Ambiental - SGA, instruídos na forma prevista abaixo:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município (ANEXO I);
@@ -84,32 +78,26 @@ Tags: #las #documentacao #requerimento
 - **Art. 6º, caput, inciso XIII** {#art6_cpt_inc13} Arquivo digital contendo a delimitação da área de implantação da termelétrica;
 
 ###### Art. 7º {#art7}
-Tags: #autorizacao-florestal #supressao-vegetacao
 
 **Art. 7º, caput** {#art7_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença Ambiental Simplificada – LAS somente poderá ser emitida após emissão da respectiva Autorização Florestal.
 
 ###### Art. 8º {#art8}
-Tags: #requerimento #licenciamento-ambiental
 
 **Art. 8º, caput** {#art8_cpt} O requerimento do licenciamento do empreendimento deverá contemplar todas as unidades e elementos a serem instalados
 
 ###### Art. 9º {#art9}
-Tags: #eia-rima #termeletrica
 
 **Art. 9º, caput** {#art9_cpt} Esta Resolução não contempla os empreendimentos termelétricos com geração de eletricidade acima de 10 MW, cujo licenciamento ambiental está sujeito à apresentação de EIA/RIMA, conforme estabelecido na [[resolucao-conama-1-1986|Resolução CONAMA 01/86]].
 
 ###### Art. 10 {#art10}
-Tags: #area-antropizada #termeletrica
 
 **Art. 10, caput** {#art10_cpt} Esta Resolução aplica-se somente a empreendimentos alocados em áreas preferencialmente antropizadas e que disponham de ponto de conexão dos empreendimentos termelétricos a gás natural para geração de energia através de geradores modulares ao Sistema Elétrico Nacional.
 
 ###### Art. 11 {#art11}
-Tags: #las #validade
 
 **Art. 11, caput** {#art11_cpt} O prazo de validade da Licença Ambiental Simplificada – LAS, objeto da presente resolução será de até 10 (dez) anos.
 
 ###### Art. 12 {#art12}
-Tags: #efluente #padrao-lancamento
 
 **Art. 12, caput** {#art12_cpt} Os efluentes líquidos gerados poderão ser lançados, direta ou indiretamente no corpo receptor desde que obedeçam às condições e padrões estabelecidos na sequência, resguardadas outras exigências cabíveis:
 - **Art. 12, caput, inciso I** {#art12_cpt_inc1} pH entre 5 e 9;
@@ -123,32 +111,26 @@ Tags: #efluente #padrao-lancamento
 **Art. 12, parágrafo único** {#art12_par1u} Fica proibido o lançamento de efluentes líquidos, direta ou indiretamente, em corpos hídricos superficiais utilizados ou potencialmente identificados como mananciais de abastecimento público.
 
 ###### Art. 13 {#art13}
-Tags: #emissao-atmosferica #padrao-emissao
 
 **Art. 13, caput** {#art13_cpt} As emissões atmosféricas deverão atender os critérios e padrões de emissões atmosféricas estabelecidos na [[resolucao-sema-16-2014|Resolução SEMA Nº 016/2014]] ou outra que venha substituí-la
 
 ###### Art. 14 {#art14}
-Tags: #seguranca-instalacao
 
 **Art. 14, caput** {#art14_cpt} Devem ser previstas e implementadas medidas de segurança na instalaçã e operação do empreendimento.
 
 ###### Art. 15 {#art15}
-Tags: #orgao-interveniente
 
 **Art. 15, caput** {#art15_cpt} Quando da necessidade da manifestação de órgãos intervenientes externos ao órgão licenciador, tais como FUNAI, INCRA, IPHAN, ICMBio, CEPHA, DNIT, DER, entre outros, será seguido o procedimento conforme estabelece a [[resolucao-cema-107-2020|Resolução CEMA nº107/2020]].
 
 ###### Art. 16 {#art16}
-Tags: #pendencia-judicial #prazo
 
 **Art. 16, caput** {#art16_cpt} Constatada a existência de pendência judicial envolvendo o empreendedor, o empreendimento ou o imóvel, a decisão administrativa sobre a eventual suspensão do licenciamento será precedida de manifestação jurídica do órgão ambiental competente no prazo máximo de 30 (trinta) dias.
 
 ###### Art. 17 {#art17}
-Tags: #infracao-ambiental #estudo-ambiental
 
 **Art. 17, caput** {#art17_cpt} O empreendedor que no âmbito do licenciamento ambiental elaborar ou apresentar no licenciamento concessão florestal ou qualquer outro procedimento administrativo, estudo, laudo ou relatório ambiental total ou parcialmente falso ou enganoso, inclusive por omissão, será enquadrado conforme disposto na [[lei-federal-9605-1998|Lei Federal 9.605 de 12 de fevereiro de 1998]].
 
 ###### Art. 18 {#art18}
-Tags: #vigencia
 
 **Art. 18, caput** {#art18_cpt} A presente Resolução entrará em vigor na data de sua publicação.
 
@@ -165,12 +147,12 @@ Modelo de certidão do Município
 ### ANEXO II – TERMO DE REFERÊNCIA DO PLANO DE CONTROLE AMBIENTAL – PCA {#anexo2}
 
 *(Tipo 2: termo de referência; ausente do PDF enviado.)*
-Tags: #anexo-pendente #pca
+Tags: #anexo-pendente
 
 ### ANEXO III – TERMO DE REFERÊNCIA DO PLANO DE GERENCIAMENTO DE RESÍDUOS SÓLIDOS – PGRS {#anexo3}
 
 *(Tipo 2: termo de referência; ausente do PDF enviado.)*
-Tags: #anexo-pendente #pgrs
+Tags: #anexo-pendente
 
 
 ## Notas de transcrição {#notas-transcricao}

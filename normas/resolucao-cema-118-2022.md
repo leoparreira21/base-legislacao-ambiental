@@ -39,32 +39,26 @@ fonte: "Página do Diário Oficial do Estado em PDF (1 página), enviada por Leo
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #licenciamento-municipal #municipio-capacitado #londrina
 
 **Art. 1º, caput** {#art1_cpt} Deferir, nos termos da [[resolucao-cema-110-2021|Resolução CEMA 110/2021]], o licenciamento, monitoramento e fiscalização ambiental para o Município de Londrina, com todas as tipologias constantes no Anexo I da citada Resolução.
 
 ###### Art. 2º {#art2}
-Tags: #certificado-ambiental
 
 **Art. 2º, caput** {#art2_cpt} Expedir o Certificado Ambiental, conforme [[#art1|art. 1º]] da presente Resolução.
 
 ###### Art. 3º {#art3}
-Tags: #publicidade
 
 **Art. 3º, caput** {#art3_cpt} Dar conhecimento ao IAT, IBAMA, Câmaras Municipais e ao Ministério Público (Estadual e Federal), deste deferimento.
 
 ###### Art. 4º {#art4}
-Tags: #publicacao #certificado-ambiental
 
 **Art. 4º, caput** {#art4_cpt} Publicar no D.I.O.E, bem como no sítio eletrônico oficial do CEMA/SEDEST/IAT, a presente Resolução e o Certificado Ambiental.
 
 ###### Art. 5º {#art5}
-Tags: #licenciamento-municipal #iat
 
 **Art. 5º, caput** {#art5_cpt} Encaminhar o procedimento que deu origem a esta Resolução ao IAT, para a gestão e acompanhamento do licenciamento, monitoramento e fiscalização ambiental do Município de Londrina.
 
 ###### Art. 6º {#art6}
-Tags: #vigencia
 
 **Art. 6º, caput** {#art6_cpt} Esta Resolução entra em vigor na data de sua publicação.
 

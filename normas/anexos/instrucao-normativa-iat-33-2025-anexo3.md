@@ -19,7 +19,7 @@ fonte: PDF da IN IAT 33/2025, páginas 48 a 50
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo III, linha 1** {#anexo3_lin1} #art-anotacao O MCE deverá ser elaborado por técnico habilitado e apresentado para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo III, linha 1** {#anexo3_lin1} O MCE deverá ser elaborado por técnico habilitado e apresentado para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 - **Anexo III, linha 2** {#anexo3_lin2} 1. INFORMAÇÕES CADASTRAIS
 - **Anexo III, linha 3** {#anexo3_lin3} • Razão social;
 - **Anexo III, linha 4** {#anexo3_lin4} • Nome Fantasia;
@@ -30,30 +30,30 @@ fonte: PDF da IN IAT 33/2025, páginas 48 a 50
 - **Anexo III, linha 9** {#anexo3_lin9} • E-mail.
 - **Anexo III, linha 10** {#anexo3_lin10} 2. CARACTERIZAÇÃO DA ÁREA
 - **Anexo III, linha 11** {#anexo3_lin11} • Área onde será implantada a atividade (área total, área construída e área livre);
-- **Anexo III, linha 12** {#anexo3_lin12} #georreferenciamento • Coordenadas Geográficas em UTM no sistema de projeção DATUM SIRGAS 2000;
-- **Anexo III, linha 13** {#anexo3_lin13} #uso-solo • Uso e ocupação do solo;
+- **Anexo III, linha 12** {#anexo3_lin12} • Coordenadas Geográficas em UTM no sistema de projeção DATUM SIRGAS 2000;
+- **Anexo III, linha 13** {#anexo3_lin13} • Uso e ocupação do solo;
 - **Anexo III, linha 14** {#anexo3_lin14} • Tipo e característica do solo;
 - **Anexo III, linha 15** {#anexo3_lin15} • Topografia;
-- **Anexo III, linha 16** {#anexo3_lin16} #recurso-hidrico • Recursos Hídricos (nascentes, olhos d´água, cursos dá água, etc.);
+- **Anexo III, linha 16** {#anexo3_lin16} • Recursos Hídricos (nascentes, olhos d´água, cursos dá água, etc.);
 - **Anexo III, linha 17** {#anexo3_lin17} • Cobertura Vegetal;
-- **Anexo III, linha 18** {#anexo3_lin18} #unidade-conservacao #terra-indigena #comunidade-tradicional #bem-cultural #cavidade-natural #aeroporto #aglomerado-populacional #poco • Informar sobre a existência de unidades de conservação, áreas indígenas, áreas ocupadas por populações tradicionais, bens culturais acautelados, áreas com ocorrência de patrimônio espeleológico, aeródromos, núcleos habitacionais e poços de captação para abastecimento.
+- **Anexo III, linha 18** {#anexo3_lin18} • Informar sobre a existência de unidades de conservação, áreas indígenas, áreas ocupadas por populações tradicionais, bens culturais acautelados, áreas com ocorrência de patrimônio espeleológico, aeródromos, núcleos habitacionais e poços de captação para abastecimento.
 - **Anexo III, linha 19** {#anexo3_lin19} • Acessos (alternativas, condições de tráfego);
 - **Anexo III, linha 20** {#anexo3_lin20} • Características do entorno (uso do solo, residências, áreas de interesse ambiental, etc.)
 - **Anexo III, linha 21** {#anexo3_lin21} 3. CROQUI DE LOCALIZAÇÃO DO EMPREENDIMENTO COM IMAGEM AÉREA E CONTENDO NO MÍNIMO:
 - **Anexo III, linha 22** {#anexo3_lin22} Deverá ser apresentado o croqui de localização do empreendimento com imagem aérea, contendo no mínimo:
-- **Anexo III, linha 23** {#anexo3_lin23} #area-influencia • Identificação de ADA, AID e AII dos meios físico, biótico e socioeconômico;
-- **Anexo III, linha 24** {#anexo3_lin24} #corpo-hidrico • Distância dos corpos hídricos;
-- **Anexo III, linha 25** {#anexo3_lin25} #app • Áreas de Preservação Permanente ;
-- **Anexo III, linha 26** {#anexo3_lin26} #reserva-legal • Reserva Legal;
+- **Anexo III, linha 23** {#anexo3_lin23} • Identificação de ADA, AID e AII dos meios físico, biótico e socioeconômico;
+- **Anexo III, linha 24** {#anexo3_lin24} • Distância dos corpos hídricos;
+- **Anexo III, linha 25** {#anexo3_lin25} • Áreas de Preservação Permanente ;
+- **Anexo III, linha 26** {#anexo3_lin26} • Reserva Legal;
 - **Anexo III, linha 27** {#anexo3_lin27} • Casas isoladas;
-- **Anexo III, linha 28** {#anexo3_lin28} #aglomerado-populacional • Núcleos populacionais;
+- **Anexo III, linha 28** {#anexo3_lin28} • Núcleos populacionais;
 - **Anexo III, linha 29** {#anexo3_lin29} • Cobertura florestal;
 - **Anexo III, linha 30** {#anexo3_lin30} • Vias de acesso principais.
 - **Anexo III, linha 31** {#anexo3_lin31} 4. CARACTERIZAÇÃO DO EMPREENDIMENTO
-- **Anexo III, linha 32** {#anexo3_lin32} #supressao-vegetacao • Descritivo da obra a ser implantada e a descrição das intervenções necessárias, tais como necessidade de supressão de vegetação, escavações ou alterações de solo;
+- **Anexo III, linha 32** {#anexo3_lin32} • Descritivo da obra a ser implantada e a descrição das intervenções necessárias, tais como necessidade de supressão de vegetação, escavações ou alterações de solo;
 - **Anexo III, linha 33** {#anexo3_lin33} • Descrição do empreendimento e apresentação das suas características técnicas, detalhando todas as instalações previstas e inclusive unidades de apoio;
-- **Anexo III, linha 34** {#anexo3_lin34} #vida-util #porte • Descrever as características técnicas do empreendimento indicando: área do aterro, vida útil, população a ser atendida, capacidade operacional.
-- **Anexo III, linha 35** {#anexo3_lin35} #residuo-solido-urbano #vida-util • Informações sobre os resíduos a serem dispostos: tipologia, composição físico-gravimétrica, estimativa da quantidade mensal e total a ser disposta durante a vida útil do aterro, com dados de estimativas de volumes diários, volumes máximos e mínimos, considerando a taxa de crescimento populacional previstos para as áreas de abrangência do sistema de coleta pública, sazonalidade e demais eventos críticos
+- **Anexo III, linha 34** {#anexo3_lin34} • Descrever as características técnicas do empreendimento indicando: área do aterro, vida útil, população a ser atendida, capacidade operacional.
+- **Anexo III, linha 35** {#anexo3_lin35} • Informações sobre os resíduos a serem dispostos: tipologia, composição físico-gravimétrica, estimativa da quantidade mensal e total a ser disposta durante a vida útil do aterro, com dados de estimativas de volumes diários, volumes máximos e mínimos, considerando a taxa de crescimento populacional previstos para as áreas de abrangência do sistema de coleta pública, sazonalidade e demais eventos críticos
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

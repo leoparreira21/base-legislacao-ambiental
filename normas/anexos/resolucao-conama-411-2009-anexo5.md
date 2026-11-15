@@ -34,7 +34,7 @@ fonte: "PDF do portal do CONAMA (Word 2013, 16 páginas, 'Este texto não substi
 - **Anexo V, item 3.1.1.2, linha 11** {#anexo5_lin11} 3.1.1.2 Coordenadas geográficas
 - **Anexo V, item 3.1.1.3, linha 12** {#anexo5_lin12} 3.1.1.3 Endereço postal, telefone, fax e correio eletrônico
 - **Anexo V, item 3.1.1.4, linha 13** {#anexo5_lin13} 3.1.1.4 Nome e função de pessoa para contato
-- **Anexo V, item 3.1.1.5, linha 14** {#anexo5_lin14} #ibama 3.1.1.5 Registro no IBAMA
+- **Anexo V, item 3.1.1.5, linha 14** {#anexo5_lin14} 3.1.1.5 Registro no IBAMA
 - **Anexo V, item 3.1.2, linha 15** {#anexo5_lin15} 3.1.2 Equipamentos
 - **Anexo V, item 3.1.2, linha 16** {#anexo5_lin16} Relacionar os equipamentos (plataforma de toras, carro porta-toras, serra-de-fita, serra circular múltipla, serra circular, destopadeira, estufa, plaina e outros), e as respectivas quantidades, ano de fabricação, potência e outras especificações técnicas.
 - **Anexo V, item 3.1.3, linha 17** {#anexo5_lin17} 3.1.3 Produtos gerados
@@ -50,7 +50,7 @@ fonte: "PDF do portal do CONAMA (Word 2013, 16 páginas, 'Este texto não substi
 - **Anexo V, item 3.2.2.1, linha 27** {#anexo5_lin27} 3.2.2.1 Diâmetro: determinar os diâmetros cruzados (maior e menor), sem considerar a casca, nas duas extremidades da tora. As planilhas de cubagem de toras deverão apresentar os quatro valores de diâmetros determinados para cada tora, utilizando-se o metro(m) como unidade de medida.
 - **Anexo V, item 3.2.2.2, linha 28** {#anexo5_lin28} 3.2.2.2 Comprimento: determinar o maior e o menor comprimento da tora. Esses valores deverão constar das planilhas de cubagem apresentadas, utilizando-se o metro(m) como unidade de medida.
 - **Anexo V, item 3.2.3, linha 29** {#anexo5_lin29} 3.2.3 Determinação do volume da tora
-- **Anexo V, item 3.2.3, linha 30** {#anexo5_lin30} #cubagem O volume das toras deve ser determinado pelo método geométrico, ou seja, utilizando a equação de Smalian. Deverão ser utilizados para o cálculo a média dos diâmetros cruzados e a média dos comprimentos.
+- **Anexo V, item 3.2.3, linha 30** {#anexo5_lin30} O volume das toras deve ser determinado pelo método geométrico, ou seja, utilizando a equação de Smalian. Deverão ser utilizados para o cálculo a média dos diâmetros cruzados e a média dos comprimentos.
 - **Anexo V, item 3.3, linha 31** {#anexo5_lin31} 3.3 Determinação do volume de madeira serrada
 - **Anexo V, item 3.3, linha 32** {#anexo5_lin32} As informações sobre o volume de madeira serrada, obtidas a partir das toras processadas, deverão ser agrupadas em planilhas para cada uma das espécies estudadas. Essas planilhas deverão constar do anexo do relatório técnico-científico apresentado.
 - **Anexo V, item 3.3.1, linha 33** {#anexo5_lin33} 3.3.1 Dimensões das peças produzidas
@@ -62,9 +62,9 @@ fonte: "PDF do portal do CONAMA (Word 2013, 16 páginas, 'Este texto não substi
 - **Anexo V, item 3.4.1, linha 39** {#anexo5_lin39} 3.4.1 Dimensões e volume de produtos secundários ou de aproveitamento
 - **Anexo V, item 3.4.1, linha 40** {#anexo5_lin40} Para cada tora amostrada, relacionar as dimensões (comprimento, largura e espessura), volume e respectivas quantidades dos produtos de aproveitamento resultantes do processamento primário que não atendam às exigências do produto principal e cuja comercialização seja passível de comprovação.
 - **Anexo V, item 3.5, linha 41** {#anexo5_lin41} 3.5 Determinação do coeficiente de rendimento volumétrico ( CRV)
-- **Anexo V, item 3.5, linha 42** {#anexo5_lin42} #coeficiente-rendimento O CRV é determinado pela relação entre o volume da tora processada e o volume obtido de madeira serrada, acrescido, quando for o caso, do volume obtido com produtos de aproveitamento, desde que devidamente comercializados. Deverá ser determinado por espécie pela média dos CRV determinados individualmente para cada tora.
+- **Anexo V, item 3.5, linha 42** {#anexo5_lin42} O CRV é determinado pela relação entre o volume da tora processada e o volume obtido de madeira serrada, acrescido, quando for o caso, do volume obtido com produtos de aproveitamento, desde que devidamente comercializados. Deverá ser determinado por espécie pela média dos CRV determinados individualmente para cada tora.
 - **Anexo V, item 3.6, linha 43** {#anexo5_lin43} 3.6 Coordenação, supervisão e realização do trabalho
-- **Anexo V, item 3.6, linha 44** {#anexo5_lin44} #responsavel-tecnico #art-anotacao O estudo técnico-científico deverá ser assinado por profissional legalmente habilitado com devida anotação de responsabilidade técnica e representante legal da empresa.
+- **Anexo V, item 3.6, linha 44** {#anexo5_lin44} O estudo técnico-científico deverá ser assinado por profissional legalmente habilitado com devida anotação de responsabilidade técnica e representante legal da empresa.
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

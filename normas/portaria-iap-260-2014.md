@@ -32,12 +32,10 @@ fonte: "PDF impresso do portal Sistema de Informações Ambientais do IAP, com a
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #licenciamento-ambiental #aterro-sanitario
 
 **Art. 1º, caput** {#art1_cpt} Definir os documentos, projetos e estudos ambientais, exigidos nas etapas de licenciamento ambiental estadual, bem como apresentar os devidos termos de referência.
 
 ###### Art. 2º {#art2}
-Tags: #aterro-sanitario #requerimento #documentacao #lp #li #lo #autorizacao-ambiental
 
 **Art. 2º, caput** {#art2_cpt} Os requerimentos de licenciamento ambiental (Licença Prévia, Licença de Instalação, Licença de Operação e Autorização Ambiental) dirigidos ao Diretor Presidente do Instituto Ambiental do Paraná - IAP, serão protocolados, desde que instruídos na forma prevista abaixo:
 
@@ -112,39 +110,32 @@ Tags: #aterro-sanitario #requerimento #documentacao #lp #li #lo #autorizacao-amb
   - **Art. 2º, caput, inciso VII, alínea "h"** {#art2_cpt_inc7_alih} Comprovante de entrega dos Relatórios de Automonitoramento do Aterro Sanitário;
 
 ###### Art. 3º {#art3}
-Tags: #licenciamento-ambiental
 
 **Art. 3º, caput** {#art3_cpt} O IAP poderá solicitar outros documentos e/ou informações complementares do requerente ou de outras instituições envolvidas no licenciamento ambiental em questão, caso haja necessidade.
 
 ###### Art. 4º {#art4}
-Tags: #aterro-sanitario #validade #prazo #lp #li #lo
 
 **Art. 4º, caput** {#art4_cpt} O IAP estabelecerá os prazos de validade de cada tipo de licença e autorização ambiental, especificando-os no respectivo documento, levando em consideração os seguintes aspectos: · O prazo de validade da Licença Prévia (LP) será de, no máximo, 02 (dois) anos e não é passível de renovação. · O prazo de validade da Licença de Instalação (LI) será de, no máximo, 02 (dois) anos e poderá ser renovada, a critério do IAP. · O prazo de validade da Licença de Operação (LO) será de, no máximo, 02 (dois) anos e deverá ser renovada.
 
 ###### Art. 5º {#art5}
-Tags: #efluente-liquido #padrao-lancamento #outorga
 
 **Art. 5º, caput** {#art5_cpt} Para o lançamento de efluentes líquidos deverão ser atendidos os limites estabelecidos na Outorga Prévia ou Outorga de Direito de Uso, a ser emitida pelo órgão competente, no que se refere aos parâmetros DBO e DQO. Para os parâmetros abaixo listados, deverão ser atendidos os limites estabelecidos na [[resolucao-conama-430-2011|Resolução CONAMA 430 de 13 de maio de 2011]]. - pH - Vazão - Temperatura - Materiais Sedimentáveis - Sólidos suspensos totais - Regime de Lançamento - Materiais flutuantes - Óleos Minerais - Óleos vegetais e gorduras animais - Arsênio Total (As) - Bário total (Ba) - Boro total (B) - Cádmio total (Cd) - Chumbo total (Pb) - Cianeto total (CN) - Cianeto livre (CN) (destilável por ácidos fracos) - Cobre dissolvido (Cu) - Cromo hexavalente (Cr+6) - Cromo trivalente (Cr+3) - Estanho total (Sn) - Ferro dissolvido (Fe) - Fluoreto total (F) - Fósforo Total - Manganês dissolvido (Mn) - Mercúrio total (Hg) - Níquel total (Ni) - Nitrogênio amoniacal total (N) - Prata total (Ag) - Selênio total (Se) - Sulfeto (S) - Zinco total (Zn) - Benzeno - Clorofórmio - Dicloroeteno - Estireno - Etilbenzeno - Fenóis totais (C6H5OH) - Tetracloreto de carbono - Tricloroeteno - Tolueno - Xileno - Toxicidade (Daphnia magna, Vibrio fischeri, Scenedesmus subspicatus)
 
 ###### Art. 6º {#art6}
-Tags: #biogas #emissao-atmosferica
 
 **Art. 6º, caput** {#art6_cpt} No que se refere à emissões atmosféricas deverá, preferencialmente, ocorrer o aproveitamento energético do biogás gerado no aterro sanitário, e na impossibilidade desse aproveitamento deverá ser realizada sua queima, através da instalação e operação contínua de queimadores para conversão do metano.
 
 ###### Art. 7º {#art7}
-Tags: #automonitoramento
 
 **Art. 7º, caput** {#art7_cpt} O automonitoramento ambiental de aterros sanitários deverá atender aos requisitos estabelecidos pelo IAP em Portaria específica.
 
 **Art. 7º, parágrafo único** {#art7_par1u} O órgão ambiental definirá a forma de apresentação dos dados e o procedimento de automonitoramento, com caracterização qualitativa e quantitativa dos efluentes tratados (chorume tratado), das águas subterrâneas e águas superficiais, baseado em amostragem representativa dos mesmos.
 
 ###### Art. 8º {#art8}
-Tags: #publicacao-anexos
 
 **Art. 8º, caput** {#art8_cpt} Os anexos desta Portaria encontram-se disponíveis no site: WWW.iap.pr.gov.br.
 
 ###### Art. 9º {#art9}
-Tags: #vigencia
 
 **Art. 9º, caput** {#art9_cpt} Esta Portaria entrará em vigor na data de sua publicação.
 
@@ -160,62 +151,51 @@ Tags: #vigencia
 > Tipos conforme as regras de anexos do README: **tipo 1** (modelos) só com o nome; **tipo 2** (termos de referência e diretrizes de estudo) em arquivo próprio; o Anexo I é uma figura sem texto no PDF.
 
 ### ANEXO I – ETAPAS LICENCIAMENTO AMBIENTAL {#anexo1}
-Tags: #anexo-pendente #etapas-licenciamento
+Tags: #anexo-pendente
 
 Fluxograma das etapas do licenciamento ambiental (figura sem texto no PDF). *(Anexo não incluído no PDF enviado: pendente.)*
 
 ### ANEXO II – REQUERIMENTO DE LICENCIAMENTO AMBIENTAL – RLA {#anexo2}
-Tags: #requerimento-licenciamento
 
 Modelo de requerimento de licenciamento ambiental – RLA. *(Tipo 1: modelo, conteúdo não transcrito.)*
 
 ### ANEXO III – CADASTRO PARA TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS – CTD {#anexo3}
-Tags: #cadastro-disposicao-residuos
 
 Modelo de cadastro para tratamento e disposição final de resíduos – CTD. *(Tipo 1: modelo, conteúdo não transcrito.)*
 
 ### ANEXO IV – CERTIDÃO/ANUÊNCIA DO MUNICÍPIO {#anexo4}
-Tags: #certidao-municipal
 
 Modelo de certidão/anuência do município quanto ao uso e ocupação do solo. *(Tipo 1: modelo, conteúdo não transcrito.)*
 
 ### ANEXO V – MODELO PARA PUBLICAÇÃO DE REQUERIMENTO OU RECEBIMENTO DE LICENÇA AMBIENTAL {#anexo5}
-Tags: #publicacao-licenca
 
 Modelo para publicação de requerimento ou recebimento de licença ambiental em jornal local e Diário Oficial. *(Tipo 1: modelo, conteúdo não transcrito.)*
 
 ### ANEXO VI – TERMO DE REFERÊNCIA PARA ELABORAÇÃO DE EIA/RIMA {#anexo6}
-Tags: #eia-rima
 
 [[portaria-iap-260-2014-anexo6|Texto e análise técnica do Anexo VI]] *(Tipo 2: diretriz de estudo, em arquivo próprio.)*
 
 ### ANEXO VII – TERMO DE REFERÊNCIA PARA ELABORAÇÃO DE RAP {#anexo7}
-Tags: #rap
 
 [[portaria-iap-260-2014-anexo7|Texto e análise técnica do Anexo VII]] *(Tipo 2: diretriz de estudo, em arquivo próprio.)*
 
 ### ANEXO VIII – TERMO DE REFERÊNCIA PARA ELABORAÇÃO DE PCA {#anexo8}
-Tags: #pca
 
 [[portaria-iap-260-2014-anexo8|Texto e análise técnica do Anexo VIII]] *(Tipo 2: diretriz de estudo, em arquivo próprio.)*
 
 ### ANEXO IX – RELATÓRIO DA SITUAÇÃO ATUAL DE COLETA SELETIVA E PLANO DE AÇÃO {#anexo9}
-Tags: #coleta-seletiva
 
 [[portaria-iap-260-2014-anexo9|Texto e análise técnica do Anexo IX]] *(Tipo 2: diretriz de estudo, em arquivo próprio.)*
 
 ### ANEXO X – TERMO DE REFERÊNCIA PARA ELABORAÇÃO DO PLANO DE ENCERRAMENTO E RECUPERAÇÃO AMBIENTAL {#anexo10}
-Tags: #plano-encerramento
 
 [[portaria-iap-260-2014-anexo10|Texto e análise técnica do Anexo X]] *(Tipo 2: diretriz de estudo, em arquivo próprio.)*
 
 ### ANEXO XI – DECLARAÇÃO DA COMPANHIA DE ABASTECIMENTO DE ÁGUA PÚBLICA LOCAL {#anexo11}
-Tags: #declaracao-companhia-agua
 
 Modelo de declaração (parecer conclusivo) da Companhia de Abastecimento de Água Pública Local. *(Tipo 1: modelo, conteúdo não transcrito.)*
 
 ### ANEXO XII – DECLARAÇÃO DE INCLUSÃO DO ATERRO SANITÁRIO NO PLANO DE RESÍDUOS SÓLIDOS {#anexo12}
-Tags: #declaracao-plano-residuos
 
 Modelo de declaração do município de inclusão do aterro sanitário no plano municipal de gestão integrada de resíduos sólidos ou plano intermunicipal de resíduos sólidos. *(Tipo 1: modelo, conteúdo não transcrito.)*
 

@@ -38,19 +38,16 @@ fonte: "Planalto (Presidência da República – Casa Civil), impressão do nave
 ### Seção I – Das Disposições Gerais
 
 ###### Art. 1º {#art1}
-Tags:
 
 **Art. 1º, caput** {#art1_cpt} Este Capítulo dispõe sobre as condutas infracionais ao meio ambiente e suas respectivas sanções administrativas.
 
 ###### Art. 2º {#art2}
-Tags:
 
 **Art. 2º, caput** {#art2_cpt} Considera-se infração administrativa ambiental, toda ação ou omissão que viole as regras jurídicas de uso, gozo, promoção, proteção e recuperação do meio ambiente, conforme o disposto na Seção III deste Capítulo.
 
 **Art. 2º, parágrafo único** {#art2_par1u} O elenco constante da Seção III deste Capítulo não exclui a previsão de outras infrações previstas na legislação.
 
 ###### Art. 3º {#art3}
-Tags: #multa-diaria #multa #embargo #apreensao #demolicao #advertencia
 Alterações: [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (nova redação: caput); [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: inciso IV)
 
 **Art. 3º, caput** {#art3_cpt} #redacao-alterada O órgão ou a entidade ambiental, no exercício do seu poder de polícia ambiental, aplicará as seguintes sanções e medidas administrativas cautelares: *(Redação dada pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])*
@@ -70,7 +67,6 @@ Alterações: [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (nova r
 **Art. 3º, § 2º** {#art3_par2} A caracterização de negligência ou dolo será exigível nas hipóteses previstas nos incisos I e II do § 3o do art. 72 da [[lei-federal-9605-1998|Lei no 9.605, de 12 de fevereiro de 1998]].
 
 ###### Art. 4º {#art4}
-Tags: #auto-infracao
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput; incluído: § 1º, § 2º)
 
 **Art. 4º, caput** {#art4_cpt} #redacao-alterada O agente autuante, ao lavrar o auto de infração, indicará as sanções estabelecidas neste Decreto, observando: *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
@@ -85,7 +81,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 #### Subseção I – Da Advertência
 
 ###### Art. 5º {#art5}
-Tags: #multa #auto-infracao #advertencia #defesa-administrativa
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova redação: § 1º)
 
 **Art. 5º, caput** {#art5_cpt} A sanção de advertência poderá ser aplicada, mediante a lavratura de auto de infração, para as infrações administrativas de menor lesividade ao meio ambiente, garantidos a ampla defesa e o contraditório.
@@ -99,26 +94,22 @@ Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova r
 **Art. 5º, § 4º** {#art5_par4} Caso o autuado, por negligência ou dolo, deixe de sanar as irregularidades, o agente autuante certificará o ocorrido e aplicará a sanção de multa relativa à infração praticada, independentemente da advertência.
 
 ###### Art. 6º {#art6}
-Tags: #advertencia
 
 **Art. 6º, caput** {#art6_cpt} A sanção de advertência não excluirá a aplicação de outras sanções.
 
 ###### Art. 7º {#art7}
-Tags: #advertencia #defesa-administrativa
 
 **Art. 7º, caput** {#art7_cpt} Fica vedada a aplicação de nova sanção de advertência no período de três anos contados do julgamento da defesa da última advertência ou de outra penalidade aplicada.
 
 #### Subseção II – Das Multas
 
 ###### Art. 8º {#art8}
-Tags: #multa #recurso-administrativo
 
 **Art. 8º, caput** {#art8_cpt} A multa terá por base a unidade, hectare, metro cúbico, quilograma, metro de carvão-mdc, estéreo, metro quadrado, dúzia, estipe, cento, milheiros ou outra medida pertinente, de acordo com o objeto jurídico lesado.
 
 **Art. 8º, parágrafo único** {#art8_par1u} O órgão ou entidade ambiental poderá especificar a unidade de medida aplicável para cada espécie de recurso ambiental objeto da infração.
 
 ###### Art. 9º {#art9}
-Tags: #multa
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (incluído: § 1º, § 2º)
 
 **Art. 9º, caput** {#art9_cpt} O valor da multa de que trata este Decreto será corrigido, periodicamente, com base nos índices estabelecidos na legislação pertinente, sendo o mínimo de R$ 50,00 (cinqüenta reais) e o máximo de R$ 50.000.000,00 (cinqüenta milhões de reais).
@@ -128,7 +119,6 @@ Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (inclu�
 **Art. 9º, § 2º** {#art9_par2} #incluido O valor da multa ambiental consolidada não poderá exceder o limite previsto no caput, ressalvado o disposto no § 1º. *(Incluído pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 10 {#art10}
-Tags: #multa-diaria #multa #auto-infracao #defesa-administrativa #termo-compromisso
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: § 4º, § 5º, § 7º; incluído: § 8º); [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova redação: § 6º)
 
 **Art. 10, caput** {#art10_cpt} A multa diária será aplicada sempre que o cometimento da infração se prolongar no tempo.
@@ -150,7 +140,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 10, § 8º** {#art10_par8} #incluido A celebração de termo de compromisso de reparação ou cessação dos danos encerrará a contagem da multa diária. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 11 {#art11}
-Tags: #multa #auto-infracao #reincidencia
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova redação: caput, § 1º, § 2º, § 3º, § 4º, § 5º; revogado: § 3º, inciso I, § 3º, inciso II, § 3º, inciso III)
 
 **Art. 11, caput** {#art11_cpt} #redacao-alterada O cometimento de nova infração ambiental pelo mesmo infrator, no período de cinco anos, contado da data em que a decisão administrativa que o tenha condenado por infração anterior tenha se tornado definitiva, implicará: *(Redação dada pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
@@ -171,7 +160,6 @@ Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova r
 **Art. 11, § 5º** {#art11_par5} #redacao-alterada A adesão a uma das soluções legais previstas na alínea “b” do inciso II do § 1º do art. [[#art98-a|98-A]] não eximirá a contabilização da infração cometida para fins de aplicação do disposto neste artigo. *(Redação dada pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 12 {#art12}
-Tags: #multa #termo-compromisso
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: parágrafo único)
 
 **Art. 12, caput** {#art12_cpt} O pagamento de multa por infração ambiental imposta pelos Estados, Municípios, Distrito Federal ou Territórios substitui a aplicação de penalidade pecuniária pelo órgão federal, em decorrência do mesmo fato, respeitados os limites estabelecidos neste Decreto.
@@ -179,7 +167,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 12, parágrafo único** {#art12_par1u} #redacao-alterada Somente o efetivo pagamento da multa será considerado para efeito da substituição de que trata o caput, não sendo admitida para esta finalidade a celebração de termo de compromisso de ajustamento de conduta ou outra forma de compromisso de regularização da infração ou composição de dano, salvo se deste também participar o órgão ambiental federal. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 13 {#art13}
-Tags:
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: caput); [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (incluído: parágrafo único)
 
 **Art. 13, caput** {#art13_cpt} #redacao-alterada Reverterão ao Fundo Nacional do Meio Ambiente - FNMA cinquenta por cento dos valores arrecadados em pagamento de multas aplicadas pela União, podendo o referido percentual ser alterado, a critério dos órgãos arrecadadores. *(Redação dada pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -189,30 +176,25 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova r
 #### Subseção III – Das Demais Sanções Administrativas
 
 ###### Art. 14 {#art14}
-Tags: #apreensao #fauna #flora
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput)
 
 **Art. 14, caput** {#art14_cpt} #redacao-alterada A sanção de apreensão de animais, produtos e subprodutos da fauna e flora, produtos e subprodutos objeto da infração, instrumentos, petrechos, equipamentos ou veículos e embarcações de qualquer natureza utilizados na infração reger-se-á pelo disposto nas Seções II, IV e VI do Capítulo II deste Decreto. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 15 {#art15}
-Tags:
 
 **Art. 15, caput** {#art15_cpt} As sanções indicadas nos incisos V a IX do art. [[#art3|3o]] serão aplicadas quando o produto, a obra, a atividade ou o estabelecimento não estiverem obedecendo às determinações legais ou regulamentares.
 
 ###### Art. 15-A {#art15-a}
-Tags: #embargo
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (incluído: caput)
 
 **Art. 15-A, caput** {#art15-a_cpt} #incluido O embargo de obra ou atividade restringe-se aos locais onde efetivamente caracterizou-se a infração ambiental, não alcançando as demais atividades realizadas em áreas não embargadas da propriedade ou posse ou não correlacionadas com a infração. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 15-B {#art15-b}
-Tags: #embargo
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (incluído: caput)
 
 **Art. 15-B, caput** {#art15-b_cpt} #incluido A cessação das penalidades de suspensão e embargo dependerá de decisão da autoridade ambiental após a apresentação, por parte do autuado, de documentação que regularize a obra ou atividade. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 16 {#art16}
-Tags: #auto-infracao #embargo #flora #reserva-legal #app
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput; incluído: § 1º); [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (nova redação: § 2º)
 
 **Art. 16, caput** {#art16_cpt} #redacao-alterada No caso de áreas irregularmente desmatadas ou queimadas, o agente autuante embargará quaisquer obras ou atividades nelas localizadas ou desenvolvidas, excetuando as atividades de subsistência. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
@@ -222,7 +204,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 16, § 2º** {#art16_par2} #redacao-alterada Não se aplicará a medida administrativa cautelar de embargo de obra, de atividade, ou de área, nos casos em que a infração de que trata o caput se der fora da área de preservação permanente ou reserva legal, salvo quando se tratar de desmatamento ou queima não autorizada de vegetação nativa. *(Redação dada pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])*
 
 ###### Art. 16-A {#art16-a}
-Tags: #embargo #unidade-conservacao
 Alterações: [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (incluído: caput, inciso I, inciso II, inciso III, inciso IV, inciso V, inciso VI, § 1º, § 2º)
 
 **Art. 16-A, caput** {#art16-a_cpt} #incluido O órgão competente poderá embargar área que corresponda a conjunto de polígonos relativos ao mesmo tipo de infração ambiental, com o objetivo de: *(Incluído pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])*
@@ -238,13 +219,11 @@ Alterações: [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (inclu�
 **Art. 16-A, § 2º** {#art16-a_par2} #incluido A critério do órgão competente, os polígonos relativos ao mesmo tipo de infração ambiental poderão ser agrupados por bioma, unidade federativa, gleba, unidade de conservação, terra indígena, imóvel, região ou delimitação geográfica sob fiscalização. *(Incluído pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])*
 
 ###### Art. 17 {#art17}
-Tags: #embargo #flora
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput)
 
 **Art. 17, caput** {#art17_cpt} #redacao-alterada O embargo de área irregularmente explorada e objeto do Plano de Manejo Florestal Sustentável - PMFS não exonera seu detentor da execução de atividades de manutenção ou recuperação da floresta, na forma e prazos fixados no PMFS e no termo de responsabilidade de manutenção da floresta. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 18 {#art18}
-Tags: #auto-infracao #embargo #licenciamento-ambiental
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: inciso II; incluído: § 1º, § 2º)
 
 **Art. 18, caput** {#art18_cpt} O descumprimento total ou parcial de embargo, sem prejuízo do disposto no art. [[#art79|79]], ensejará a aplicação cumulativa das seguintes sanções:
@@ -256,7 +235,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 18, § 2º** {#art18_par2} #incluido A pedido do interessado, o órgão ambiental autuante emitirá certidão em que conste a atividade, a obra e a parte da área do imóvel que são objetos do embargo, conforme o caso. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 19 {#art19}
-Tags: #auto-infracao #demolicao #defesa-administrativa
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput; incluído: § 3º)
 
 **Art. 19, caput** {#art19_cpt} #redacao-alterada A sanção de demolição de obra poderá ser aplicada pela autoridade ambiental, após o contraditório e ampla defesa, quando: *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
@@ -270,7 +248,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 19, § 3º** {#art19_par3} #incluido Não será aplicada a penalidade de demolição quando, mediante laudo técnico, for comprovado que o desfazimento poderá trazer piores impactos ambientais que sua manutenção, caso em que a autoridade ambiental, mediante decisão fundamentada, deverá, sem prejuízo das demais sanções cabíveis, impor as medidas necessárias à cessação e mitigação do dano ambiental, observada a legislação em vigor. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 20 {#art20}
-Tags: #licenciamento-ambiental
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: inciso I, inciso II); [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (nova redação: § 1º, § 2º; incluído: § 2º, inciso I, § 2º, inciso II, § 3º)
 
 **Art. 20, caput** {#art20_cpt} As sanções restritivas de direito aplicáveis às pessoas físicas ou jurídicas são:
@@ -291,7 +268,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 ### Seção II – Dos Prazos Prescricionais
 
 ###### Art. 21 {#art21}
-Tags: #auto-infracao #prescricao
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: § 2º; incluído: § 4º)
 
 **Art. 21, caput** {#art21_cpt} Prescreve em cinco anos a ação da administração objetivando apurar a prática de infrações contra o meio ambiente, contada da data da prática do ato, ou, no caso de infração permanente ou continuada, do dia em que esta tiver cessado.
@@ -305,7 +281,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 21, § 4º** {#art21_par4} #incluido A prescrição da pretensão punitiva da administração não elide a obrigação de reparar o dano ambiental. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 22 {#art22}
-Tags: #auto-infracao #prescricao
 
 **Art. 22, caput** {#art22_cpt} Interrompe-se a prescrição:
 - **Art. 22, caput, inciso I** {#art22_cpt_inc1} pelo recebimento do auto de infração ou pela cientificação do infrator por qualquer outro meio, inclusive por edital;
@@ -315,7 +290,6 @@ Tags: #auto-infracao #prescricao
 **Art. 22, parágrafo único** {#art22_par1u} Considera-se ato inequívoco da administração, para o efeito do que dispõe o inciso II, aqueles que impliquem instrução do processo.
 
 ###### Art. 23 {#art23}
-Tags:
 
 **Art. 23, caput** {#art23_cpt} O disposto neste Capítulo não se aplica aos procedimentos relativos a Taxa de Controle e Fiscalização Ambiental de que trata o art. 17-B da [[lei-federal-6938-1981|Lei no 6.938, de 31 de agosto de 1981]].
 
@@ -324,7 +298,6 @@ Tags:
 #### Subseção I – Das Infrações Contra a Fauna
 
 ###### Art. 24 {#art24}
-Tags: #multa #fauna #flora #licenciamento-ambiental
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: inciso II, § 7º; incluído: § 8º, § 9º)
 
 **Art. 24, caput** {#art24_cpt} Matar, perseguir, caçar, apanhar, coletar, utilizar espécimes da fauna silvestre, nativos ou em rota migratória, sem a devida permissão, licença ou autorização da autoridade competente, ou em desacordo com a obtida: Multa de:
@@ -353,7 +326,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 24, § 9º** {#art24_par9} #incluido A autoridade julgadora poderá, considerando a natureza dos animais, em razão de seu pequeno porte, aplicar multa de R$ 500,00 (quinhentos reais) a R$ 100.000,00 (cem mil reais) quando a contagem individual for de difícil execução ou quando, nesta situação, ocorrendo a contagem individual, a multa final restar desproporcional em relação à gravidade da infração e a capacidade econômica do infrator. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 25 {#art25}
-Tags: #multa #fauna #licenciamento-ambiental
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput, inciso II, § 2º)
 
 **Art. 25, caput** {#art25_cpt} #redacao-alterada Introduzir espécime animal silvestre, nativo ou exótico, no País ou fora de sua área de distribuição natural, sem parecer técnico oficial favorável e licença expedida pela autoridade ambiental competente, quando exigível: *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])* Multa de R$ 2.000,00 (dois mil reais), com acréscimo por exemplar excedente de:
@@ -365,7 +337,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 25, § 2º** {#art25_par2} #redacao-alterada Incorre nas mesmas penas quem reintroduz na natureza espécime da fauna silvestre sem parecer técnico oficial favorável e licença expedida pela autoridade ambiental competente, quando exigível. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 26 {#art26}
-Tags: #multa #fauna
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: inciso II)
 
 **Art. 26, caput** {#art26_cpt} Exportar peles e couros de anfíbios e répteis em bruto, sem autorização da autoridade competente: Multa de R$ 2.000,00 (dois mil reais), com acréscimo de:
@@ -375,7 +346,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 26, parágrafo único** {#art26_par1u} Caso a quantidade ou espécie constatada no ato fiscalizatório esteja em desacordo com o autorizado pela autoridade ambiental competente, o agente autuante promoverá a autuação considerando a totalidade do objeto da fiscalização.
 
 ###### Art. 27 {#art27}
-Tags: #multa #fauna
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: inciso I, inciso II)
 
 **Art. 27, caput** {#art27_cpt} Praticar caça profissional no País: Multa de R$ 5.000,00 (cinco mil reais), com acréscimo de:
@@ -383,12 +353,10 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 - **Art. 27, caput, inciso II** {#art27_cpt_inc2} #redacao-alterada R$ 10.000,00 (dez mil reais), por indivíduo de espécie constante de listas oficiais de fauna brasileira ameaçada de extinção, inclusive da CITES. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 28 {#art28}
-Tags: #multa #fauna
 
 **Art. 28, caput** {#art28_cpt} Comercializar produtos, instrumentos e objetos que impliquem a caça, perseguição, destruição ou apanha de espécimes da fauna silvestre: Multa de R$ 1.000,00 (mil reais), com acréscimo de R$ 200,00 (duzentos reais), por unidade excedente.
 
 ###### Art. 29 {#art29}
-Tags: #multa #fauna #defesa-administrativa
 Alterações: [[decreto-federal-12877-2026|Decreto nº 12.877, de 2026]] (nova redação: ; incluído: § 1º, § 1º, inciso I, § 1º, inciso II, § 1º, inciso III, § 1º, inciso III, alínea "a", § 1º, inciso III, alínea "b", § 1º, inciso III, alínea "c", § 1º, inciso IV, § 1º, inciso V, § 1º, inciso VI, § 1º, inciso VII, § 1º, inciso VIII, § 1º, inciso IX, § 2º, § 3º, § 3º, inciso I, § 3º, inciso II, § 3º, inciso III, § 3º, inciso IV, § 3º, inciso V, § 4º)
 
 **Art. 29, caput** {#art29_cpt} Praticar ato de abuso, maus-tratos, ferir ou mutilar animais silvestres, domésticos ou domesticados, nativos ou exóticos: Multa de R$ 1.500,00 (mil e quinhentos reais) a R$ 50.000,00 (cinquenta mil reais) por indivíduo. *(Redação dada pelo [[decreto-federal-12877-2026|Decreto nº 12.877, de 2026]])*
@@ -419,36 +387,30 @@ Alterações: [[decreto-federal-12877-2026|Decreto nº 12.877, de 2026]] (nova r
 **Art. 29, § 4º** {#art29_par4} #incluido É vedada a dupla valoração da mesma circunstância para fins de agravamento ou majoração da sanção. *(Incluído pelo [[decreto-federal-12877-2026|Decreto nº 12.877, de 2026]])*
 
 ###### Art. 30 {#art30}
-Tags: #multa
 
 **Art. 30, caput** {#art30_cpt} Molestar de forma intencional qualquer espécie de cetáceo, pinípede ou sirênio em águas jurisdicionais brasileiras: Multa de R$ 2.500,00 (dois mil e quinhentos reais).
 
 ###### Art. 31 {#art31}
-Tags: #multa #fauna
 
 **Art. 31, caput** {#art31_cpt} Deixar, o jardim zoológico e os criadouros autorizados, de ter o livro de registro do acervo faunístico ou mantê-lo de forma irregular: Multa de R$ 500,00 a R$ 5.000,00 (mil reais).
 
 **Art. 31, parágrafo único** {#art31_par1u} Incorre na mesma multa quem deixa de manter registro de acervo faunístico e movimentação de plantel em sistemas informatizados de controle de fauna ou fornece dados inconsistentes ou fraudados.
 
 ###### Art. 32 {#art32}
-Tags: #multa #fauna
 
 **Art. 32, caput** {#art32_cpt} Deixar, o comerciante, de apresentar declaração de estoque e valores oriundos de comércio de animais silvestres: Multa de R$ 200,00 (duzentos reais) a R$ 10.000,00 (dez mil reais).
 
 ###### Art. 33 {#art33}
-Tags: #multa
 
 **Art. 33, caput** {#art33_cpt} Explorar ou fazer uso comercial de imagem de animal silvestre mantido irregularmente em cativeiro ou em situação de abuso ou maus-tratos: Multa de R$ 5.000,00 (cinco mil reais) a R$ 500.000,00 (quinhentos mil reais).
 
 **Art. 33, parágrafo único** {#art33_par1u} O disposto no caput não se aplica ao uso de imagem para fins jornalísticos, informativos, acadêmicos, de pesquisas científicas e educacionais.
 
 ###### Art. 34 {#art34}
-Tags: #multa
 
 **Art. 34, caput** {#art34_cpt} Causar degradação em viveiros, açudes ou estação de aqüicultura de domínio público: Multa de R$ 5.000,00 (cinco mil reais) a R$ 500.000,00 (quinhentos mil reais).
 
 ###### Art. 35 {#art35}
-Tags: #multa #pesca
 
 **Art. 35, caput** {#art35_cpt} Pescar em período ou local no qual a pesca seja proibida: Multa de R$ 700,00 (setecentos reais) a R$ 100.000,00 (cem mil reais), com acréscimo de R$ 20,00 (vinte reais), por quilo ou fração do produto da pescaria, ou por espécime quando se tratar de produto de pesca para uso ornamental.
 
@@ -461,19 +423,16 @@ Tags: #multa #pesca
 - **Art. 35, parágrafo único, inciso VI** {#art35_par1u_inc6} deixa de apresentar declaração de estoque.
 
 ###### Art. 36 {#art36}
-Tags: #multa #pesca
 
 **Art. 36, caput** {#art36_cpt} Pescar mediante a utilização de explosivos ou substâncias que, em contato com a água, produzam efeitos semelhantes, ou substâncias tóxicas, ou ainda, por outro meio proibido pela autoridade competente: Multa de R$ 700,00 (setecentos reais) a R$ 100.000,00 (cem mil reais), com acréscimo de R$ 20,00 (vinte reais), por quilo ou fração do produto da pescaria.
 
 ###### Art. 37 {#art37}
-Tags: #multa #pesca #licenciamento-ambiental
 
 **Art. 37, caput** {#art37_cpt} Exercer a pesca sem prévio cadastro, inscrição, autorização, licença, permissão ou registro do órgão competente, ou em desacordo com o obtido: Multa de R$ 300,00 (trezentos reais) a R$ 10.000,00 (dez mil reais), com acréscimo de R$ 20,00 (vinte reais) por quilo ou fração do produto da pesca, ou por espécime quando se tratar de produto de pesca para ornamentação.
 
 **Art. 37, parágrafo único** {#art37_par1u} Caso a quantidade ou espécie constatada no ato fiscalizatório esteja em desacordo com o autorizado pela autoridade ambiental competente, o agente autuante promoverá a autuação considerando a totalidade do objeto da fiscalização.
 
 ###### Art. 38 {#art38}
-Tags: #multa #pesca #licenciamento-ambiental
 
 **Art. 38, caput** {#art38_cpt} Importar ou exportar quaisquer espécies aquáticas, em qualquer estágio de desenvolvimento, bem como introduzir espécies nativas, exóticas ou não autóctones em águas jurisdicionais brasileiras, sem autorização ou licença do órgão competente, ou em desacordo com a obtida: Multa de R$ 3.000,00 (três mil reais) a R$ 50.000,00 (cinqüenta mil reais), com acréscimo de R$ 20,00 (vinte reais) por quilo ou fração do produto da pescaria, ou por espécime quando se tratar de espécies aquáticas, oriundas de produto de pesca para ornamentação.
 
@@ -482,7 +441,6 @@ Tags: #multa #pesca #licenciamento-ambiental
 **Art. 38, § 2º** {#art38_par2} A multa de que trata o caput será aplicada em dobro se houver dano ou destruição de recife de coral.
 
 ###### Art. 39 {#art39}
-Tags: #multa
 
 **Art. 39, caput** {#art39_cpt} Explorar campos naturais de invertebrados aquáticos e algas, bem como recifes de coral sem autorização do órgão ambiental competente ou em desacordo com a obtida: Multa de R$ 500,00 (quinhentos reais) a R$ 50.000,00 (cinqüenta mil reais), com acréscimo de R$ 20,00 (vinte reais) por quilo ou espécime do produto.
 
@@ -491,19 +449,16 @@ Tags: #multa
 - **Art. 39, parágrafo único, inciso II** {#art39_par1u_inc2} fundeia embarcações ou lança detritos de qualquer natureza sobre bancos de moluscos ou corais, devidamente demarcados em carta náutica.
 
 ###### Art. 40 {#art40}
-Tags: #pesca
 
 **Art. 40, caput** {#art40_cpt} A comercialização do produto da pesca de que trata esta Subseção agravará a penalidade da respectiva infração quando esta incidir sobre espécies sobreexplotadas ou ameaçadas de sobreexplotação, conforme regulamento do órgão ambiental competente, com o acréscimo de:
 - **Art. 40, caput, inciso I** {#art40_cpt_inc1} R$ 40,00 (quarenta reais) por quilo ou fração do produto da pesca de espécie constante das listas oficiais brasileiras de espécies ameaçadas de sobreexplotação; ou
 - **Art. 40, caput, inciso II** {#art40_cpt_inc2} R$ 60,00 (sessenta reais) por quilo ou fração do produto da pesca de espécie constante das listas oficiais brasileiras de espécies sobreexplotadas.
 
 ###### Art. 41 {#art41}
-Tags: #multa #pesca
 
 **Art. 41, caput** {#art41_cpt} Deixar, os comandantes de embarcações destinadas à pesca, de preencher e entregar, ao fim de cada viagem ou semanalmente, os mapas fornecidos pelo órgão competente: Multa: R$ 1.000,00 (mil reais).
 
 ###### Art. 42 {#art42}
-Tags: #fauna #flora #pesca
 
 **Art. 42, caput** {#art42_cpt} Para os efeitos deste Decreto, considera-se pesca todo ato tendente a extrair, retirar, coletar, apanhar, apreender ou capturar espécimes dos grupos dos peixes, crustáceos, moluscos aquáticos e vegetais hidróbios suscetíveis ou não de aproveitamento econômico, ressalvadas as espécies ameaçadas de extinção, constantes nas listas oficiais da fauna e da flora.
 
@@ -512,28 +467,23 @@ Tags: #fauna #flora #pesca
 #### Subseção II – Das Infrações Contra a Flora
 
 ###### Art. 43 {#art43}
-Tags: #multa #flora #app
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput)
 
 **Art. 43, caput** {#art43_cpt} #redacao-alterada Destruir ou danificar florestas ou demais formas de vegetação natural ou utilizá-las com infringência das normas de proteção em área considerada de preservação permanente, sem autorização do órgão competente, quando exigível, ou em desacordo com a obtida: *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])* Multa de R$ 5.000,00 (cinco mil reais) a R$ 50.000,00 (cinqüenta mil reais), por hectare ou fração.
 
 ###### Art. 44 {#art44}
-Tags: #multa #app
 
 **Art. 44, caput** {#art44_cpt} Cortar árvores em área considerada de preservação permanente ou cuja espécie seja especialmente protegida, sem permissão da autoridade competente: Multa de R$ 5.000,00 (cinco mil reais) a R$ 20.000,00 (vinte mil reais) por hectare ou fração, ou R$ 500,00 (quinhentos reais) por árvore, metro cúbico ou fração.
 
 ###### Art. 45 {#art45}
-Tags: #multa #flora #app
 
 **Art. 45, caput** {#art45_cpt} Extrair de florestas de domínio público ou áreas de preservação permanente, sem prévia autorização, pedra, areia, cal ou qualquer espécie de minerais: Multa simples de R$ 5.000,00 (cinco mil reais) a R$ 50.000,00 (cinqüenta mil reais) por hectare ou fração.
 
 ###### Art. 46 {#art46}
-Tags: #multa #flora #licenciamento-ambiental
 
 **Art. 46, caput** {#art46_cpt} Transformar madeira oriunda de floresta ou demais formas de vegetação nativa em carvão, para fins industriais, energéticos ou para qualquer outra exploração, econômica ou não, sem licença ou em desacordo com as determinações legais: Multa de R$ 500,00 (quinhentos reais), por metro cúbico de carvão-mdc.
 
 ###### Art. 47 {#art47}
-Tags: #multa #licenciamento-ambiental
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: § 3º; incluído: § 4º)
 
 **Art. 47, caput** {#art47_cpt} Receber ou adquirir, para fins comerciais ou industriais, madeira serrada ou em tora, lenha, carvão ou outros produtos de origem vegetal, sem exigir a exibição de licença do vendedor, outorgada pela autoridade competente, e sem munir-se da via que deverá acompanhar o produto até final beneficiamento: Multa de R$ 300,00 (trezentos reais) por unidade, estéreo, quilo, mdc ou metro cúbico aferido pelo método geométrico.
@@ -547,7 +497,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 47, § 4º** {#art47_par4} #incluido Para as demais infrações previstas neste artigo, o agente autuante promoverá a autuação considerando o volume integral de madeira, lenha, carvão ou outros produtos de origem vegetal que não guarde correspondência com aquele autorizado pela autoridade ambiental competente, em razão da quantidade ou espécie. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 48 {#art48}
-Tags: #multa #flora #reserva-legal #app #unidade-conservacao
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput, , parágrafo único)
 
 **Art. 48, caput** {#art48_cpt} #redacao-alterada Impedir ou dificultar a regeneração natural de florestas ou demais formas de vegetação nativa em unidades de conservação ou outras áreas especialmente protegidas, quando couber, área de preservação permanente, reserva legal ou demais locais cuja regeneração tenha sido indicada pela autoridade ambiental competente: *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])* Multa de R$ 5.000,00 (cinco mil reais), por hectare ou fração. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
@@ -555,7 +504,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 48, parágrafo único** {#art48_par1u} #redacao-alterada O disposto no caput não se aplica para o uso permitido das áreas de preservação permanente. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 49 {#art49}
-Tags: #multa #flora
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput)
 
 **Art. 49, caput** {#art49_cpt} #redacao-alterada Destruir ou danificar florestas ou qualquer tipo de vegetação nativa, objeto de especial preservação, não passíveis de autorização para exploração ou supressão: *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])* Multa de R$ 6.000,00 (seis mil reis) por hectare ou fração.
@@ -563,7 +511,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 49, parágrafo único** {#art49_par1u} A multa será acrescida de R$ 1.000,00 (mil reais) por hectare ou fração quando a situação prevista no caput se der em detrimento de vegetação primária ou secundária no estágio avançado ou médio de regeneração do bioma Mata Atlântica.
 
 ###### Art. 50 {#art50}
-Tags: #multa #flora #licenciamento-ambiental
 
 **Art. 50, caput** {#art50_cpt} Destruir ou danificar florestas ou qualquer tipo de vegetação nativa ou de espécies nativas plantadas, objeto de especial preservação, sem autorização ou licença da autoridade ambiental competente: Multa de R$ 5.000,00 (cinco mil reais) por hectare ou fração.
 
@@ -572,32 +519,27 @@ Tags: #multa #flora #licenciamento-ambiental
 **Art. 50, § 2º** {#art50_par2} Para os fins dispostos no art. [[#art49|49]] e no caput deste artigo, são consideradas de especial preservação as florestas e demais formas de vegetação nativa que tenham regime jurídico próprio e especial de conservação ou preservação definido pela legislação.
 
 ###### Art. 51 {#art51}
-Tags: #multa #flora #reserva-legal
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput)
 
 **Art. 51, caput** {#art51_cpt} #redacao-alterada Destruir, desmatar, danificar ou explorar floresta ou qualquer tipo de vegetação nativa ou de espécies nativas plantadas, em área de reserva legal ou servidão florestal, de domínio público ou privado, sem autorização prévia do órgão ambiental competente ou em desacordo com a concedida: *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])* Multa de R$ 5.000,00 (cinco mil reais) por hectare ou fração.
 
 ###### Art. 51-A {#art51-a}
-Tags: #multa #flora
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (incluído: caput, )
 
 **Art. 51-A, caput** {#art51-a_cpt} #incluido Executar manejo florestal sem autorização prévia do órgão ambiental competente, sem observar os requisitos técnicos estabelecidos em PMFS ou em desacordo com a autorização concedida: *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])* Multa de R$ 1.000,00 (mil reais) por hectare ou fração. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 52 {#art52}
-Tags: #multa #flora #reserva-legal
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: )
 
 **Art. 52, caput** {#art52_cpt} Desmatar, a corte raso, florestas ou demais formações nativas, fora da reserva legal, sem autorização da autoridade competente: Multa de R$ 1.000,00 (mil reais) por hectare ou fração. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 53 {#art53}
-Tags: #multa #flora #reserva-legal
 
 **Art. 53, caput** {#art53_cpt} Explorar ou danificar floresta ou qualquer tipo de vegetação nativa ou de espécies nativas plantadas, localizada fora de área de reserva legal averbada, de domínio público ou privado, sem aprovação prévia do órgão ambiental competente ou em desacordo com a concedida: Multa de R$ 300,00 (trezentos reais), por hectare ou fração, ou por unidade, estéreo, quilo, mdc ou metro cúbico.
 
 **Art. 53, parágrafo único** {#art53_par1u} Incide nas mesmas penas quem deixa de cumprir a reposição florestal obrigatória.
 
 ###### Art. 54 {#art54}
-Tags: #multa #embargo
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: parágrafo único)
 
 **Art. 54, caput** {#art54_cpt} Adquirir, intermediar, transportar ou comercializar produto ou subproduto de origem animal ou vegetal produzido sobre área objeto de embargo: Multa de R$ R$ 500,00 (quinhentos reais) por quilograma ou unidade.
@@ -605,13 +547,11 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 54, parágrafo único** {#art54_par1u} #redacao-alterada A aplicação do disposto neste artigo dependerá de prévia divulgação dos dados do imóvel rural, da área ou local embargado e do respectivo titular de que trata o § 1o do art. [[#art18|18]] e estará limitada à área onde efetivamente ocorreu o ilícito. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 54-A {#art54-a}
-Tags: #multa #unidade-conservacao
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (incluído: caput, )
 
 **Art. 54-A, caput** {#art54-a_cpt} #incluido Adquirir, intermediar, transportar ou comercializar produto ou subproduto de origem animal ou vegetal produzido sobre área objeto de desmatamento irregular, localizada no interior de unidade de conservação, após a sua criação: *(Incluído pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])* Multa de R$ 500,00 (quinhentos reais) por quilograma ou unidade. *(Incluído pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 55 {#art55}
-Tags: #multa-diaria #multa #auto-infracao #advertencia #reserva-legal #poluicao
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: , § 2º; incluído: § 3º, § 4º); [[decreto-federal-7029-2009|Decreto nº 7.029, de 2009]] (nova redação: § 1º; incluído: § 5º, § 6º)
 
 **Art. 55, caput** {#art55_cpt} Deixar de averbar a reserva legal: *(Vide [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])* *(Vide [[decreto-federal-7029-2009|Decreto nº 7.029, de 2009]])* *(Vide [[decreto-federal-7497-2011|Decreto nº 7.497, de 2011]])* *(Vide [[decreto-federal-7640-2011|Decreto nº 7.640, de 2011]])* *(Vide [[decreto-federal-7719-2012|Decreto nº 7.719, de 2012]])* Penalidade de advertência e multa diária de R$ 50,00 (cinqüenta reais) a R$ 500,00 (quinhentos reais) por hectare ou fração da área de reserva legal. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
@@ -629,46 +569,38 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 55, § 6º** {#art55_par6} #incluido No prazo a que se refere o § 5º, as sanções previstas neste artigo não serão aplicadas. *(Incluído pelo [[decreto-federal-7029-2009|Decreto nº 7.029, de 2009]])*
 
 ###### Art. 56 {#art56}
-Tags: #multa
 
 **Art. 56, caput** {#art56_cpt} Destruir, danificar, lesar ou maltratar, por qualquer modo ou meio, plantas de ornamentação de logradouros públicos ou em propriedade privada alheia: Multa de R$ 100,00 (cem reais) a R$1.000,00 (mil reais) por unidade ou metro quadrado.
 
 ###### Art. 57 {#art57}
-Tags: #multa #flora #licenciamento-ambiental
 
 **Art. 57, caput** {#art57_cpt} Comercializar, portar ou utilizar em floresta ou demais formas de vegetação, motosserra sem licença ou registro da autoridade ambiental competente: Multa de R$ 1.000,00 (mil reais), por unidade.
 
 ###### Art. 58 {#art58}
-Tags: #multa
 Alterações: [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (nova redação: )
 
 **Art. 58, caput** {#art58_cpt} Fazer uso de fogo em áreas agropastoris sem autorização do órgão competente ou em desacordo com a obtida: Multa de R$ 3.000,00 (três mil reais) por hectare ou fração. *(Redação dada pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])*
 
 ###### Art. 58-A {#art58-a}
-Tags: #multa #flora
 Alterações: [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (incluído: caput, )
 
 **Art. 58-A, caput** {#art58-a_cpt} #incluido Provocar incêndio em floresta ou qualquer forma de vegetação nativa: *(Incluído pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])* Multa de R$10.000,00 (dez mil reais) por hectare ou fração. *(Incluído pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])*
 
 ###### Art. 58-B {#art58-b}
-Tags: #multa #flora
 Alterações: [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (incluído: caput, )
 
 **Art. 58-B, caput** {#art58-b_cpt} #incluido Provocar incêndio em floresta cultivada: *(Incluído pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])* Multa de R$5.000,00 (cinco mil reais) por hectare ou fração. *(Incluído pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])*
 
 ###### Art. 58-C {#art58-c}
-Tags: #multa #flora
 Alterações: [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (incluído: caput, )
 
 **Art. 58-C, caput** {#art58-c_cpt} #incluido Deixar de implementar, o responsável pelo imóvel rural, as ações de prevenção e de combate aos incêndios florestais em sua propriedade de acordo com as normas estabelecidas pelo Comitê Nacional de Manejo Integrado do Fogo e pelos órgãos competentes do Sisnama: *(Incluído pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])* Multa de R$5.000,00 (cinco mil reais) a R$10.000.000,00 (dez milhões de reais). *(Incluído pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])*
 
 ###### Art. 59 {#art59}
-Tags: #multa #flora
 
 **Art. 59, caput** {#art59_cpt} Fabricar, vender, transportar ou soltar balões que possam provocar incêndios nas florestas e demais formas de vegetação, em áreas urbanas ou qualquer tipo de assentamento humano: Multa de R$ 1.000,00 (mil reais) a R$ 10.000,00 (dez mil reais), por unidade.
 
 ###### Art. 60 {#art60}
-Tags:
 Alterações: [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (nova redação: caput; incluído: inciso I, inciso II)
 
 **Art. 60, caput** {#art60_cpt} #redacao-alterada As sanções administrativas previstas nesta Subseção serão aplicadas em dobro quando: *(Redação dada pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])*
@@ -676,7 +608,6 @@ Alterações: [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (nova r
 - **Art. 60, caput, inciso II** {#art60_cpt_inc2} #incluido A infração afetar terra indígena. *(Incluído pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])*
 
 ###### Art. 60-A {#art60-a}
-Tags:
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (incluído: caput)
 
 **Art. 60-A, caput** {#art60-a_cpt} #incluido Nas hipóteses previstas nos arts. [[#art50|50]], [[#art51|51]], [[#art52|52]] e [[#art53|53]], em se tratando de espécies nativas plantadas, a autorização de corte poderá ser substituída pelo protocolo do pedido junto ao órgão ambiental competente, caso em que este será instado pelo agente de fiscalização a fazer as necessárias verificações quanto à real origem do material. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
@@ -684,14 +615,12 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (incluíd
 #### Subseção III – Das Infrações Relativas à Poluição e outras Infrações Ambientais
 
 ###### Art. 61 {#art61}
-Tags: #multa #fauna #poluicao
 
 **Art. 61, caput** {#art61_cpt} Causar poluição de qualquer natureza em níveis tais que resultem ou possam resultar em danos à saúde humana, ou que provoquem a mortandade de animais ou a destruição significativa da biodiversidade: Multa de R$ 5.000,00 (cinco mil reais) a R$ 50.000.000,00 (cinqüenta milhões de reais).
 
 **Art. 61, parágrafo único** {#art61_par1u} As multas e demais penalidades de que trata o caput serão aplicadas após laudo técnico elaborado pelo órgão ambiental competente, identificando a dimensão do dano decorrente da infração e em conformidade com a gradação do impacto.
 
 ###### Art. 62 {#art62}
-Tags: #multa #advertencia #conversao-multa #reincidencia #poluicao #residuo-solido
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: inciso II); [[decreto-federal-10936-2022|Decreto nº 10.936, de 2022]] (nova redação: inciso IX, inciso X, inciso XI, inciso XII, inciso XIII, inciso XIV, inciso XV, inciso XVI, inciso XVII, § 1º, § 2º, § 3º, § 4º, § 5º, § 6º)
 
 **Art. 62, caput** {#art62_cpt} Incorre nas mesmas multas do art. [[#art61|61]] quem:
@@ -726,14 +655,12 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 62, § 6º** {#art62_par6} #redacao-alterada As bacias de decantação de resíduos ou rejeitos industriais ou de mineração, devidamente licenciadas pelo órgão competente do Sisnama, não serão consideradas corpos hídricos para fins do disposto no inciso IX do caput. *(Redação dada pelo [[decreto-federal-10936-2022|Decreto nº 10.936, de 2022]])*
 
 ###### Art. 63 {#art63}
-Tags: #multa #licenciamento-ambiental
 
 **Art. 63, caput** {#art63_cpt} Executar pesquisa, lavra ou extração de minerais sem a competente autorização, permissão, concessão ou licença da autoridade ambiental competente ou em desacordo com a obtida: Multa de R$ 1.500,00 (mil e quinhentos reais) a R$ 3.000,00 (três mil reais), por hectare ou fração.
 
 **Art. 63, parágrafo único** {#art63_par1u} Incorre nas mesmas multas quem deixa de recuperar a área pesquisada ou explorada, nos termos da autorização, permissão, licença, concessão ou determinação do órgão ambiental competente.
 
 ###### Art. 64 {#art64}
-Tags: #multa
 
 **Art. 64, caput** {#art64_cpt} Produzir, processar, embalar, importar, exportar, comercializar, fornecer, transportar, armazenar, guardar, ter em depósito ou usar produto ou substância tóxica, perigosa ou nociva à saúde humana ou ao meio ambiente, em desacordo com as exigências estabelecidas em leis ou em seus regulamentos: Multa de R$ 500,00 (quinhentos reais) a R$ 2.000.000,00 (dois milhões de reais).
 
@@ -742,12 +669,10 @@ Tags: #multa
 **Art. 64, § 2º** {#art64_par2} Se o produto ou a substância for nuclear ou radioativa, a multa é aumentada ao quíntuplo.
 
 ###### Art. 65 {#art65}
-Tags: #multa #poluicao
 
 **Art. 65, caput** {#art65_cpt} Deixar, o fabricante de veículos ou motores, de cumprir os requisitos de garantia ao atendimento dos limites vigentes de emissão de poluentes atmosféricos e de ruído, durante os prazos e quilometragens previstos na legislação: Multa de R$ 100.000,00 (cem mil reais) a R$ 1.000.000,00 (um milhão de reais).
 
 ###### Art. 66 {#art66}
-Tags: #multa #unidade-conservacao #licenciamento-ambiental
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput, parágrafo único, inciso I)
 
 **Art. 66, caput** {#art66_cpt} #redacao-alterada Construir, reformar, ampliar, instalar ou fazer funcionar estabelecimentos, atividades, obras ou serviços utilizadores de recursos ambientais, considerados efetiva ou potencialmente poluidores, sem licença ou autorização dos órgãos ambientais competentes, em desacordo com a licença obtida ou contrariando as normas legais e regulamentos pertinentes: *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])* Multa de R$ 500,00 (quinhentos reais) a R$ 10.000.000,00 (dez milhões de reais).
@@ -757,23 +682,19 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 - **Art. 66, parágrafo único, inciso II** {#art66_par1u_inc2} deixa de atender a condicionantes estabelecidas na licença ambiental.
 
 ###### Art. 67 {#art67}
-Tags: #multa #fauna #flora
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput)
 
 **Art. 67, caput** {#art67_cpt} #redacao-alterada Disseminar doença ou praga ou espécies que possam causar dano à fauna, à flora ou aos ecossistemas: *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])* Multa de R$ 5.000,00 (cinco mil reais) a R$ 5.000.000,00 (cinco milhões de reais).
 
 ###### Art. 68 {#art68}
-Tags: #multa
 
 **Art. 68, caput** {#art68_cpt} Conduzir, permitir ou autorizar a condução de veículo automotor em desacordo com os limites e exigências ambientais previstos na legislação: Multa de R$ 1.000,00 (mil reais) a R$ 10.000,00 (dez mil reais).
 
 ###### Art. 69 {#art69}
-Tags: #multa #licenciamento-ambiental
 
 **Art. 69, caput** {#art69_cpt} Importar ou comercializar veículo automotor sem Licença para Uso da Configuração de Veículos ou Motor - LCVM expedida pela autoridade competente: Multa de R$ 1.000,00 (mil reais) a R$ 10.000.000,00 (dez milhões de reais) e correção de todas as unidades de veículo ou motor que sofrerem alterações.
 
 ###### Art. 70 {#art70}
-Tags: #multa
 
 **Art. 70, caput** {#art70_cpt} Importar pneu usado ou reformado em desacordo com a legislação: Multa de R$ 400,00 (quatrocentos reais), por unidade.
 
@@ -782,12 +703,10 @@ Tags: #multa
 **Art. 70, § 2º** {#art70_par2} Ficam isentas do pagamento da multa a que se refere este artigo as importações de pneumáticos reformados classificados nas NCM 4012.1100, 4012.1200, 4012.1300 e 4012.1900, procedentes dos Estados Partes do MERCOSUL, ao amparo do Acordo de Complementação Econômica no 18.
 
 ###### Art. 71 {#art71}
-Tags: #multa
 
 **Art. 71, caput** {#art71_cpt} Alterar ou promover a conversão de qualquer item em veículos ou motores novos ou usados que provoque alterações nos limites e exigências ambientais previstas na legislação: Multa de R$ 500,00 (quinhentos reais) a R$ 10.000,00 (dez mil reais), por veículo, e correção da irregularidade.
 
 ###### Art. 71-A {#art71-a}
-Tags: #multa #residuo-solido
 Alterações: [[decreto-federal-10936-2022|Decreto nº 10.936, de 2022]] (nova redação: caput, )
 
 **Art. 71-A, caput** {#art71-a_cpt} #redacao-alterada Importar resíduos sólidos perigosos e rejeitos, bem como resíduos sólidos cujas características causem dano ao meio ambiente, à saúde pública e animal e à sanidade vegetal, ainda que para tratamento, reforma, reúso, reutilização ou recuperação: *(Redação dada pelo [[decreto-federal-10936-2022|Decreto nº 10.936, de 2022]])* Multa de R$ 500,00 (quinhentos reais) a R$ 10.000.000,00 (dez milhões de reais). *(Redação dada pelo [[decreto-federal-10936-2022|Decreto nº 10.936, de 2022]])*
@@ -795,24 +714,20 @@ Alterações: [[decreto-federal-10936-2022|Decreto nº 10.936, de 2022]] (nova r
 #### Subseção IV – Das Infrações Contra o Ordenamento Urbano e o Patrimônio Cultural
 
 ###### Art. 72 {#art72}
-Tags: #multa
 
 **Art. 72, caput** {#art72_cpt} Destruir, inutilizar ou deteriorar:
 - **Art. 72, caput, inciso I** {#art72_cpt_inc1} bem especialmente protegido por lei, ato administrativo ou decisão judicial; ou
 - **Art. 72, caput, inciso II** {#art72_cpt_inc2} arquivo, registro, museu, biblioteca, pinacoteca, instalação científica ou similar protegido por lei, ato administrativo ou decisão judicial: Multa de R$ 10.000,00 (dez mil reais) a R$ 500.000,00 (quinhentos mil reais).
 
 ###### Art. 73 {#art73}
-Tags: #multa
 
 **Art. 73, caput** {#art73_cpt} Alterar o aspecto ou estrutura de edificação ou local especialmente protegido por lei, ato administrativo ou decisão judicial, em razão de seu valor paisagístico, ecológico, turístico, artístico, histórico, cultural, religioso, arqueológico, etnográfico ou monumental, sem autorização da autoridade competente ou em desacordo com a concedida: Multa de R$ 10.000,00 (dez mil reais) a R$ 200.000,00 (duzentos mil reais).
 
 ###### Art. 74 {#art74}
-Tags: #multa
 
 **Art. 74, caput** {#art74_cpt} Promover construção em solo não edificável, ou no seu entorno, assim considerado em razão de seu valor paisagístico, ecológico, artístico, turístico, histórico, cultural, religioso, arqueológico, etnográfico ou monumental, sem autorização da autoridade competente ou em desacordo com a concedida: Multa de R$ 10.000,00 (dez mil reais) a R$ 100.000,00 (cem mil reais).
 
 ###### Art. 75 {#art75}
-Tags: #multa
 
 **Art. 75, caput** {#art75_cpt} Pichar, grafitar ou por outro meio conspurcar edificação alheia ou monumento urbano: Multa de R$ 1.000,00 (mil reais) a R$ 50.000,00 (cinqüenta mil reais).
 
@@ -821,7 +736,6 @@ Tags: #multa
 #### Subseção V – Das Infrações Administrativas Contra a Administração Ambiental
 
 ###### Art. 76 {#art76}
-Tags: #multa
 
 **Art. 76, caput** {#art76_cpt} Deixar de inscrever-se no Cadastro Técnico Federal de que trata o art.17 da Lei 6.938, de 1981: Multa de:
 - **Art. 76, caput, inciso I** {#art76_cpt_inc1} R$ 50,00 (cinqüenta reais), se pessoa física;
@@ -831,18 +745,15 @@ Tags: #multa
 - **Art. 76, caput, inciso V** {#art76_cpt_inc5} R$ 9.000,00 (nove mil reais), se empresa de grande porte.
 
 ###### Art. 77 {#art77}
-Tags: #multa
 
 **Art. 77, caput** {#art77_cpt} Obstar ou dificultar a ação do Poder Público no exercício de atividades de fiscalização ambiental: Multa de R$ 500,00 (quinhentos reais) a R$ 100.000,00 (cem mil reais).
 
 ###### Art. 78 {#art78}
-Tags: #multa
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput)
 
 **Art. 78, caput** {#art78_cpt} #redacao-alterada Obstar ou dificultar a ação do órgão ambiental, ou de terceiro por ele encarregado, na coleta de dados para a execução de georreferenciamento de imóveis rurais para fins de fiscalização: *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])* Multa de R$ 100,00 (cem reais) a R$ 300,00 (trezentos reais) por hectare do imóvel.
 
 ###### Art. 79 {#art79}
-Tags: #multa #embargo
 Alterações: [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (nova redação: ; incluído: parágrafo único)
 
 **Art. 79, caput** {#art79_cpt} Descumprir embargo de obra ou atividade e suas respectivas áreas: Multa de R$ 10.000,00 (dez mil reais) a R$ 10.000.000,00 (dez milhões de reais). *(Redação dada pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])*
@@ -850,18 +761,15 @@ Alterações: [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (nova r
 **Art. 79, parágrafo único** {#art79_par1u} #incluido Incorre nas multas previstas no caput aquele que descumprir suspensão ou sanção restritiva de direitos. *(Incluído pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])*
 
 ###### Art. 80 {#art80}
-Tags: #multa
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput)
 
 **Art. 80, caput** {#art80_cpt} #redacao-alterada Deixar de atender a exigências legais ou regulamentares quando devidamente notificado pela autoridade ambiental competente no prazo concedido, visando à regularização, correção ou adoção de medidas de controle para cessar a degradação ambiental: *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])* Multa de R$ 1.000,00 (mil reais) a R$ 1.000.000,00 (um milhão de reais).
 
 ###### Art. 81 {#art81}
-Tags: #multa
 
 **Art. 81, caput** {#art81_cpt} Deixar de apresentar relatórios ou informações ambientais nos prazos exigidos pela legislação ou, quando aplicável, naquele determinado pela autoridade ambiental: Multa de R$ 1.000,00 (mil reais) a R$ 100.000,00 (cem mil reais).
 
 ###### Art. 82 {#art82}
-Tags: #multa #flora #licenciamento-ambiental
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (incluído: parágrafo único)
 
 **Art. 82, caput** {#art82_cpt} Elaborar ou apresentar informação, estudo, laudo ou relatório ambiental total ou parcialmente falso, enganoso ou omisso, seja nos sistemas oficiais de controle, seja no licenciamento, na concessão florestal ou em qualquer outro procedimento administrativo ambiental: Multa de R$ 1.500,00 (mil e quinhentos reais) a R$ 1.000.000,00 (um milhão de reais).
@@ -869,18 +777,15 @@ Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (inclu�
 **Art. 82, parágrafo único** {#art82_par1u} #incluido Quando a infração de que trata o caput envolver movimentação ou geração de crédito em sistema oficial de controle da origem de produtos florestais, a multa será acrescida de R$ 300,00 (trezentos reais) por unidade, estéreo, quilo, metro de carvão ou metro cúbico. *(Incluído pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 83 {#art83}
-Tags: #multa
 
 **Art. 83, caput** {#art83_cpt} Deixar de cumprir compensação ambiental determinada por lei, na forma e no prazo exigidos pela autoridade ambiental: Multa de R$ 10.000,00 (dez mil reais) a R$ 1.000.000,00 (um milhão de reais).
 
 ###### Art. 83-A {#art83-a}
-Tags: #multa #licenciamento-ambiental
 Alterações: [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (incluído: caput, )
 
 **Art. 83-A, caput** {#art83-a_cpt} #incluido Comprar, vender, intermediar, utilizar, produzir, armazenar, transportar, importar, exportar, financiar e fomentar produto, substância ou espécie animal ou vegetal sem autorização, licença ou permissão ambiental válida ou em desacordo com aquela concedida: *(Incluído pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])* Multa de R$ 100,00 (cem reais) a R$ 1.000,00 (mil reais) por quilograma, hectare ou unidade de medida compatível com a mensuração do objeto da infração. *(Incluído pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])*
 
 ###### Art. 83-B {#art83-b}
-Tags: #multa #prescricao
 Alterações: [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (incluído: caput, , parágrafo único)
 
 **Art. 83-B, caput** {#art83-b_cpt} #incluido Deixar de reparar, compensar ou indenizar dano ambiental, na forma e no prazo exigidos pela autoridade competente, ou implementar prestação em desacordo com a definida: *(Incluído pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])* Multa de R$ 10.000,00 (dez mil reais) a R$ 50.000.000,00 (cinquenta milhões de reais). *(Incluído pelo [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]])*
@@ -890,7 +795,6 @@ Alterações: [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (inclu�
 #### Subseção VI – Das Infrações Cometidas Exclusivamente em Unidades de Conservação
 
 ###### Art. 84 {#art84}
-Tags: #multa #fauna #flora #unidade-conservacao
 
 **Art. 84, caput** {#art84_cpt} Introduzir em unidade de conservação espécies alóctones: Multa de R$ 2.000,00 (dois mil reais) a R$ 100.000,00 (cem mil reais).
 
@@ -899,14 +803,12 @@ Tags: #multa #fauna #flora #unidade-conservacao
 **Art. 84, § 2º** {#art84_par2} Nas áreas particulares localizadas em refúgios de vida silvestre, monumentos naturais e reservas particulares do patrimônio natural podem ser criados animais domésticos e cultivadas plantas considerados compatíveis com as finalidades da unidade, de acordo com o que dispuser o seu plano de manejo.
 
 ###### Art. 85 {#art85}
-Tags: #multa #flora #unidade-conservacao
 
 **Art. 85, caput** {#art85_cpt} Violar as limitações administrativas provisórias impostas às atividades efetiva ou potencialmente causadoras de degradação ambiental nas áreas delimitadas para realização de estudos com vistas à criação de unidade de conservação: Multa de R$ 1.500,00 (mil e quinhentos reais) a R$ 1.000.000,00 (um milhão de reais).
 
 **Art. 85, parágrafo único** {#art85_par1u} Incorre nas mesmas multas quem explora a corte raso a floresta ou outras formas de vegetação nativa nas áreas definidas no caput.
 
 ###### Art. 86 {#art86}
-Tags: #multa #unidade-conservacao
 
 **Art. 86, caput** {#art86_cpt} Realizar pesquisa científica, envolvendo ou não coleta de material biológico, em unidade de conservação sem a devida autorização, quando esta for exigível: Multa de R$ 500,00 (quinhentos reais) a R$ 10.000,00 (dez mil reais).
 
@@ -915,7 +817,6 @@ Tags: #multa #unidade-conservacao
 **Art. 86, § 2º** {#art86_par2} Excetuam-se do disposto neste artigo as áreas de proteção ambiental e reservas particulares do patrimônio natural, quando as atividades de pesquisa científica não envolverem a coleta de material biológico.
 
 ###### Art. 87 {#art87}
-Tags: #multa #unidade-conservacao
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput)
 
 **Art. 87, caput** {#art87_cpt} #redacao-alterada Explorar comercialmente produtos ou subprodutos não madeireiros, ou ainda serviços obtidos ou desenvolvidos a partir de recursos naturais, biológicos, cênicos ou culturais em unidade de conservação sem autorização ou permissão do órgão gestor da unidade ou em desacordo com a obtida, quando esta for exigível: *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])* Multa de R$ 1.500,00 (mil e quinhentos reais) a R$ 100.000,00 (cem mil reais).
@@ -923,14 +824,12 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 87, parágrafo único** {#art87_par1u} Excetuam-se do disposto neste artigo as áreas de proteção ambiental e reservas particulares do patrimônio natural.
 
 ###### Art. 88 {#art88}
-Tags: #multa #unidade-conservacao
 
 **Art. 88, caput** {#art88_cpt} Explorar ou fazer uso comercial de imagem de unidade de conservação sem autorização do órgão gestor da unidade ou em desacordo com a recebida: Multa de R$ 5.000,00 (cinco mil reais) a R$ 2.000.000,00 (dois milhões de reais).
 
 **Art. 88, parágrafo único** {#art88_par1u} Excetuam-se do disposto neste artigo as áreas de proteção ambiental e reservas particulares do patrimônio natural.
 
 ###### Art. 89 {#art89}
-Tags: #multa #unidade-conservacao
 
 **Art. 89, caput** {#art89_cpt} Realizar liberação planejada ou cultivo de organismos geneticamente modificados em áreas de proteção ambiental, ou zonas de amortecimento das demais categorias de unidades de conservação, em desacordo com o estabelecido em seus respectivos planos de manejo, regulamentos ou recomendações da Comissão Técnica Nacional de Biossegurança - CTNBio: Multa de R$ 1.500,00 (mil e quinhentos reais) a R$ 1.000.000,00 (um milhão de reais).
 
@@ -941,25 +840,21 @@ Tags: #multa #unidade-conservacao
 **Art. 89, § 3º** {#art89_par3} O Poder Executivo estabelecerá os limites para o plantio de organismos geneticamente modificados nas áreas que circundam as unidades de conservação até que seja fixada sua zona de amortecimento e aprovado o seu respectivo plano de manejo.
 
 ###### Art. 90 {#art90}
-Tags: #multa #unidade-conservacao
 
 **Art. 90, caput** {#art90_cpt} Realizar quaisquer atividades ou adotar conduta em desacordo com os objetivos da unidade de conservação, o seu plano de manejo e regulamentos: Multa de R$ 500,00 (quinhentos reais) a R$ 10.000,00 (dez mil reais).
 
 ###### Art. 91 {#art91}
-Tags: #multa #unidade-conservacao
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput)
 
 **Art. 91, caput** {#art91_cpt} #redacao-alterada Causar dano à unidade de conservação: *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])* Multa de R$ 200,00 (duzentos reais) a R$ 100.000,00 (cem mil reais).
 
 ###### Art. 92 {#art92}
-Tags: #multa #flora #unidade-conservacao #pesca #licenciamento-ambiental
 
 **Art. 92, caput** {#art92_cpt} Penetrar em unidade de conservação conduzindo substâncias ou instrumentos próprios para caça, pesca ou para exploração de produtos ou subprodutos florestais e minerais, sem licença da autoridade competente, quando esta for exigível: Multa de R$ 1.000,00 (mil reais) a R$ 10.000,00 (dez mil reais).
 
 **Art. 92, parágrafo único** {#art92_par1u} Incorre nas mesmas multas quem penetrar em unidade de conservação cuja visitação pública ou permanência sejam vedadas pelas normas aplicáveis ou ocorram em desacordo com a licença da autoridade competente.
 
 ###### Art. 93 {#art93}
-Tags: #multa #unidade-conservacao
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova redação: caput)
 
 **Art. 93, caput** {#art93_cpt} #redacao-alterada As infrações previstas neste Decreto, quando afetarem ou forem cometidas em unidade de conservação ou em sua zona de amortecimento, terão os valores de suas respectivas multas aplicados em dobro, ressalvados os casos em que a determinação de aumento do valor da multa seja superior a este ou as hipóteses em que a unidade de conservação configure elementar do tipo. *(Redação dada pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
@@ -969,19 +864,16 @@ Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova r
 ### Seção I – Das Disposições Preliminares
 
 ###### Art. 94 {#art94}
-Tags:
 
 **Art. 94, caput** {#art94_cpt} Este Capítulo regula o processo administrativo federal para a apuração de infrações administrativas por condutas e atividades lesivas ao meio ambiente.
 
 **Art. 94, parágrafo único** {#art94_par1u} O objetivo deste Capítulo é dar unidade às normas legais esparsas que versam sobre procedimentos administrativos em matéria ambiental, bem como, nos termos do que dispõe o art. [[#art84|84]], inciso VI, alínea “a”, da Constituição, disciplinar as regras de funcionamento pelas quais a administração pública federal, de caráter ambiental, deverá pautar-se na condução do processo.
 
 ###### Art. 95 {#art95}
-Tags: #defesa-administrativa
 
 **Art. 95, caput** {#art95_cpt} O processo será orientado pelos princípios da legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência, bem como pelos critérios mencionados no parágrafo único do art. 2o da [[lei-federal-9784-1999|Lei no 9.784, de 29 de janeiro de 1999]].
 
 ###### Art. 95-A {#art95-a}
-Tags:
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: caput; revogado: § 3º)
 
 **Art. 95-A, caput** {#art95-a_cpt} #redacao-alterada A adesão a uma das soluções legais previstas no inciso II do § 5º do art. [[#art96|96]] será estimulada pela administração pública federal ambiental, com vistas a encerrar os processos administrativos federais relativos à apuração de infrações administrativas por condutas e atividades lesivas ao meio ambiente. *(Redação dada pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -989,7 +881,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova r
 **Art. 95-A, § 3º** {#art95-a_par3} #revogado *(Revogado pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 95-B {#art95-b}
-Tags: #multa
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: caput, § 1º, § 2º)
 
 **Art. 95-B, caput** {#art95-b_cpt} #redacao-alterada O procedimento para a adesão a uma das soluções legais previstas no inciso II do § 5º do art. [[#art96|96]] será estabelecido em regulamento do órgão ou da entidade ambiental responsável pela apuração da infração ambiental. *(Redação dada pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1001,7 +892,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova r
 ### Seção II – Da Autuação
 
 ###### Art. 96 {#art96}
-Tags: #multa #auto-infracao #embargo #conversao-multa #defesa-administrativa
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: § 1º, § 2º; incluído: § 1º, inciso I, § 1º, inciso II, § 1º, inciso III, § 1º, inciso IV, § 3º); [[decreto-federal-12189-2024|Decreto nº 12.189, de 2024]] (nova redação: § 4º); [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (incluído: § 5º); [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: § 5º, inciso I, § 5º, inciso II; incluído: § 5º, inciso II, alínea "a", § 5º, inciso II, alínea "b", § 5º, inciso II, alínea "c", § 6º, § 7º; revogado: § 5º, inciso III)
 
 **Art. 96, caput** {#art96_cpt} Constatada a ocorrência de infração administrativa ambiental, será lavrado auto de infração, do qual deverá ser dado ciência ao autuado, assegurando-se o contraditório e a ampla defesa.
@@ -1031,12 +921,10 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 96, § 7º** {#art96_par7} #incluido Os órgãos responsáveis pela autuação deverão manter base de dados pública de todos os autos de infração emitidos e disponibilizá-la à população via sítio oficial na Internet. *(Incluído pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 97 {#art97}
-Tags: #auto-infracao
 
 **Art. 97, caput** {#art97_cpt} O auto de infração deverá ser lavrado em impresso próprio, com a identificação do autuado, a descrição clara e objetiva das infrações administrativas constatadas e a indicação dos respectivos dispositivos legais e regulamentares infringidos, não devendo conter emendas ou rasuras que comprometam sua validade.
 
 ###### Art. 97-A {#art97-a}
-Tags:
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (revogado: caput, inciso I, inciso II, inciso III, § 1º, § 2º, § 3º, § 3º, inciso I, § 3º, inciso II, § 3º, inciso III, § 4º, § 5º, § 6º)
 
 **Art. 97-A, caput** {#art97-a_cpt} #revogado *(Revogado pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1060,7 +948,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (revoga
 **Art. 97-A, § 6º** {#art97-a_par6} #revogado *(Revogado pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 97-B {#art97-b}
-Tags: #multa #auto-infracao #recurso-administrativo
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: caput); [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (incluído: inciso I, inciso II, inciso III, parágrafo único)
 
 **Art. 97-B, caput** {#art97-b_cpt} #redacao-alterada O requerimento de adesão imediata a uma das soluções legais previstas no inciso II do § 5º do art. [[#art96|96]] conterá: *(Redação dada pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1071,7 +958,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova r
 **Art. 97-B, parágrafo único** {#art97-b_par1u} #incluido Na hipótese de autuação ambiental impugnada judicialmente, o autuado apresentará, no ato do requerimento de que trata o caput, cópia do protocolo do pedido de extinção do respectivo processo com resolução do mérito, dirigido ao juízo competente, com fundamento na alínea “c” do inciso III do caput do art. 487 da [[lei-federal-13105-2015|Lei nº 13.105, de 16 de março de 2015]] - Código de Processo Civil. *(Incluído pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 98 {#art98}
-Tags: #multa #auto-infracao
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova redação: caput, parágrafo único, inciso III, parágrafo único, inciso IV; incluído: parágrafo único, inciso V); [[decreto-federal-9760-2019|Decreto nº 9.760, de 2019]] (incluído: parágrafo único, parágrafo único, inciso I); [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: parágrafo único, inciso II)
 
 **Art. 98, caput** {#art98_cpt} #redacao-alterada O auto de infração, os eventuais termos de aplicação de medidas administrativas, o relatório de fiscalização e o documento de comprovação da ciência do autuado serão encaminhados ao setor competente para o processamento da autuação ambiental. *(Redação dada pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
@@ -1084,7 +970,6 @@ Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova r
 - **Art. 98, parágrafo único, inciso V** {#art98_par1u_inc5} #incluido outras informações consideradas relevantes. *(Incluído pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 98-A {#art98-a}
-Tags:
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (revogado: caput, § 1º, § 1º, inciso I, § 1º, inciso I, alínea "a", § 1º, inciso I, alínea "b", § 1º, inciso I, alínea "c", § 1º, inciso I, alínea "d", § 1º, inciso II, § 1º, inciso II, alínea "a", § 1º, inciso II, alínea "b", § 1º, inciso II, alínea "c", § 1º, inciso II, alínea "d", § 2º, § 4º); [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (revogado: § 3º)
 
 **Art. 98-A, caput** {#art98-a_cpt} #revogado *(Revogado pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1108,7 +993,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (revoga
 **Art. 98-A, § 4º** {#art98-a_par4} #revogado *(Revogado pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 98-B {#art98-b}
-Tags:
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (revogado: caput, § 1º, § 2º, § 3º, § 4º, § 4º, § 6º)
 
 **Art. 98-B, caput** {#art98-b_cpt} #revogado *(Revogado pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1124,7 +1008,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (revoga
 **Art. 98-B, § 6º** {#art98-b_par6} #revogado *(Revogado pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 98-C {#art98-c}
-Tags:
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (revogado: caput, inciso I, inciso II, inciso III, inciso IV, inciso IV, alínea "a", inciso IV, alínea "b", inciso V, inciso VI, § 1º, § 2º); [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (revogado: parágrafo único)
 
 **Art. 98-C, caput** {#art98-c_cpt} #revogado *(Revogado pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1144,7 +1027,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (revoga
 **Art. 98-C, parágrafo único** {#art98-c_par1u} #revogado *(Revogado pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 98-D {#art98-d}
-Tags:
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (revogado: caput, § 1º, § 2º, parágrafo único)
 
 **Art. 98-D, caput** {#art98-d_cpt} #revogado *(Revogado pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1156,13 +1038,11 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (revoga
 **Art. 98-D, parágrafo único** {#art98-d_par1u} #revogado *(Revogado pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 99 {#art99}
-Tags: #auto-infracao
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: caput)
 
 **Art. 99, caput** {#art99_cpt} #redacao-alterada O auto de infração que apresentar vício sanável poderá ser convalidado de ofício pela autoridade julgadora, mediante despacho saneador, devidamente justificado. *(Redação dada pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 100 {#art100}
-Tags: #auto-infracao #prescricao
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova redação: caput); [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (incluído: § 3º)
 
 **Art. 100, caput** {#art100_cpt} #redacao-alterada O auto de infração que apresentar vício insanável será declarado nulo pela autoridade julgadora. *(Redação dada pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
@@ -1174,7 +1054,6 @@ Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova r
 **Art. 100, § 3º** {#art100_par3} #incluido O erro no enquadramento legal da infração não implica vício insanável, podendo ser alterado pela autoridade julgadora mediante decisão fundamentada que retifique o auto de infração. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 101 {#art101}
-Tags: #embargo #apreensao #demolicao
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (incluído: § 4º)
 
 **Art. 101, caput** {#art101_cpt} Constatada a infração ambiental, o agente autuante, no uso do seu poder de polícia, poderá adotar as seguintes medidas administrativas: *(Vide ADPF 640)*
@@ -1194,7 +1073,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (incluíd
 **Art. 101, § 4º** {#art101_par4} #incluido O embargo de obra ou atividade restringe-se aos locais onde efetivamente caracterizou-se a infração ambiental, não alcançando as demais atividades realizadas em áreas não embargadas da propriedade ou posse ou não correlacionadas com a infração. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 102 {#art102}
-Tags: #apreensao #fauna
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (revogado: parágrafo único; incluído: § 1º, § 2º)
 
 **Art. 102, caput** {#art102_cpt} Os animais, produtos, subprodutos, instrumentos, petrechos, veículos de qualquer natureza referidos no inciso IV do art. 72 da [[lei-federal-9605-1998|Lei no 9.605, de 1998]], serão objeto da apreensão de que trata o inciso I do art. [[#art101|101]], salvo impossibilidade justificada. *(Vide ADPF 640)*
@@ -1206,7 +1084,6 @@ Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (revoga
 **Art. 102, § 2º** {#art102_par2} #incluido Na hipótese de o responsável pela infração administrativa ou o detentor ou o proprietário dos bens de que trata o caput ser indeterminado, desconhecido ou de domicílio indefinido, a notificação da lavratura do termo de apreensão será realizada por meio da publicação de seu extrato no Diário Oficial da União. *(Incluído pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 103 {#art103}
-Tags: #embargo #fauna #flora #app #unidade-conservacao
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (incluído: § 3º)
 
 **Art. 103, caput** {#art103_cpt} Os animais domésticos e exóticos serão apreendidos quando: *(Vide ADPF 640)*
@@ -1220,21 +1097,18 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (incluíd
 **Art. 103, § 3º** {#art103_par3} #incluido O disposto no caput não será aplicado quando a atividade tenha sido caracterizada como de baixo impacto e previamente autorizada, quando couber, nos termos da legislação em vigor. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 104 {#art104}
-Tags:
 
 **Art. 104, caput** {#art104_cpt} A autoridade ambiental, mediante decisão fundamentada em que se demonstre a existência de interesse público relevante, poderá autorizar o uso do bem apreendido nas hipóteses em que não haja outro meio disponível para a consecução da respectiva ação fiscalizatória.
 
 **Art. 104, parágrafo único** {#art104_par1u} Os veículos de qualquer natureza que forem apreendidos poderão ser utilizados pela administração ambiental para fazer o deslocamento do material apreendido até local adequado ou para promover a recomposição do dano ambiental.
 
 ###### Art. 105 {#art105}
-Tags: #apreensao
 
 **Art. 105, caput** {#art105_cpt} Os bens apreendidos deverão ficar sob a guarda do órgão ou entidade responsável pela fiscalização, podendo, excepcionalmente, ser confiados a fiel depositário, até o julgamento do processo administrativo.
 
 **Art. 105, parágrafo único** {#art105_par1u} Nos casos de anulação, cancelamento ou revogação da apreensão, o órgão ou a entidade ambiental responsável pela apreensão restituirá o bem no estado em que se encontra ou, na impossibilidade de fazê-lo, indenizará o proprietário pelo valor de avaliação consignado no termo de apreensão.
 
 ###### Art. 106 {#art106}
-Tags: #fauna
 
 **Art. 106, caput** {#art106_cpt} A critério da administração, o depósito de que trata o art. [[#art105|105]] poderá ser confiado:
 - **Art. 106, caput, inciso I** {#art106_cpt_inc1} a órgãos e entidades de caráter ambiental, beneficente, científico, cultural, educacional, hospitalar, penal e militar; ou
@@ -1247,7 +1121,6 @@ Tags: #fauna
 **Art. 106, § 3º** {#art106_par3} A entidade fiscalizadora poderá celebrar convênios ou acordos com os órgãos e entidades públicas para garantir, após a destinação final, o repasse de verbas de ressarcimento relativas aos custos do depósito.
 
 ###### Art. 107 {#art107}
-Tags: #apreensao #fauna
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: inciso I; incluído: § 5º)
 
 **Art. 107, caput** {#art107_cpt} Após a apreensão, a autoridade competente, levando-se em conta a natureza dos bens e animais apreendidos e considerando o risco de perecimento, procederá da seguinte forma:
@@ -1266,7 +1139,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 107, § 5º** {#art107_par5} #incluido A libertação dos animais da fauna silvestre em seu hábitat natural deverá observar os critérios técnicos previamente estabelecidos pelo órgão ou entidade ambiental competente. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 108 {#art108}
-Tags: #embargo
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput, § 1º)
 
 **Art. 108, caput** {#art108_cpt} #redacao-alterada O embargo de obra ou atividade e suas respectivas áreas tem por objetivo impedir a continuidade do dano ambiental, propiciar a regeneração do meio ambiente e dar viabilidade à recuperação da área degradada, devendo restringir-se exclusivamente ao local onde verificou-se a prática do ilícito. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
@@ -1276,17 +1148,14 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 108, § 2º** {#art108_par2} Nos casos em que o responsável pela infração administrativa ou o detentor do imóvel onde foi praticada a infração for indeterminado, desconhecido ou de domicílio indefinido, será realizada notificação da lavratura do termo de embargo mediante a publicação de seu extrato no Diário Oficial da União.
 
 ###### Art. 109 {#art109}
-Tags:
 
 **Art. 109, caput** {#art109_cpt} A suspensão de venda ou fabricação de produto constitui medida que visa a evitar a colocação no mercado de produtos e subprodutos oriundos de infração administrativa ao meio ambiente ou que tenha como objetivo interromper o uso contínuo de matéria-prima e subprodutos de origem ilegal.
 
 ###### Art. 110 {#art110}
-Tags:
 
 **Art. 110, caput** {#art110_cpt} A suspensão parcial ou total de atividades constitui medida que visa a impedir a continuidade de processos produtivos em desacordo com a legislação ambiental.
 
 ###### Art. 111 {#art111}
-Tags:
 
 **Art. 111, caput** {#art111_cpt} Os produtos, inclusive madeiras, subprodutos e instrumentos utilizados na prática da infração poderão ser destruídos ou inutilizados quando:
 - **Art. 111, caput, inciso I** {#art111_cpt_inc1} a medida for necessária para evitar o seu uso e aproveitamento indevidos nas situações em que o transporte e a guarda forem inviáveis em face das circunstâncias; ou
@@ -1295,7 +1164,6 @@ Tags:
 **Art. 111, parágrafo único** {#art111_par1u} O termo de destruição ou inutilização deverá ser instruído com elementos que identifiquem as condições anteriores e posteriores à ação, bem como a avaliação dos bens destruídos.
 
 ###### Art. 112 {#art112}
-Tags: #demolicao
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput, § 1º)
 
 **Art. 112, caput** {#art112_cpt} #redacao-alterada A demolição de obra, edificação ou construção não habitada e utilizada diretamente para a infração ambiental dar-se-á excepcionalmente no ato da fiscalização nos casos em que se constatar que a ausência da demolição importa em iminente risco de agravamento do dano ambiental ou de graves riscos à saúde. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
@@ -1309,7 +1177,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 ### Seção III – Da Defesa § 1º § 2º *(Revogado pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])* *(Revogado pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 113 {#art113}
-Tags: #multa #auto-infracao #defesa-administrativa
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: caput; incluído: parágrafo único)
 
 **Art. 113, caput** {#art113_cpt} #redacao-alterada O autuado poderá, no prazo de vinte dias, contado da data da ciência da autuação, oferecer defesa ou impugnação contra o auto de infração. *(Redação dada pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1317,19 +1184,16 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova r
 **Art. 113, parágrafo único** {#art113_par1u} #incluido O desconto de trinta por cento de que tratam o § 2º do art. 3º e o art. 4º da [[lei-federal-8005-1990|Lei nº 8.005, de 22 de março de 1990]], será aplicado na hipótese de o autuado optar pelo pagamento da multa à vista. *(Incluído pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 114 {#art114}
-Tags: #defesa-administrativa
 
 **Art. 114, caput** {#art114_cpt} A defesa poderá ser protocolizada em qualquer unidade administrativa do órgão ambiental que promoveu a autuação, que o encaminhará imediatamente à unidade responsável.
 
 ###### Art. 115 {#art115}
-Tags: #auto-infracao #defesa-administrativa
 
 **Art. 115, caput** {#art115_cpt} A defesa será formulada por escrito e deverá conter os fatos e fundamentos jurídicos que contrariem o disposto no auto de infração e termos que o acompanham, bem como a especificação das provas que o autuado pretende produzir a seu favor, devidamente justificadas.
 
 **Art. 115, parágrafo único** {#art115_par1u} Requerimentos formulados fora do prazo de defesa não serão conhecidos, podendo ser desentranhados dos autos conforme decisão da autoridade ambiental competente.
 
 ###### Art. 116 {#art116}
-Tags: #defesa-administrativa
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: caput, parágrafo único)
 
 **Art. 116, caput** {#art116_cpt} #redacao-alterada O autuado poderá ser representado por advogado ou procurador legalmente constituído, e deverá anexar à defesa o respectivo instrumento de procuração. *(Redação dada pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1337,7 +1201,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova r
 **Art. 116, parágrafo único** {#art116_par1u} #redacao-alterada O autuado poderá requerer prazo de até quinze dias para a juntada do instrumento a que se refere o caput. *(Redação dada pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 117 {#art117}
-Tags: #defesa-administrativa
 
 **Art. 117, caput** {#art117_cpt} A defesa não será conhecida quando apresentada:
 - **Art. 117, caput, inciso I** {#art117_cpt_inc1} fora do prazo;
@@ -1347,7 +1210,6 @@ Tags: #defesa-administrativa
 ### Seção IV – Da Instrução e Julgamento
 
 ###### Art. 118 {#art118}
-Tags:
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (revogado: § 1º, § 2º, § 3º)
 
 **Art. 118, caput** {#art118_cpt} Ao autuado caberá a prova dos fatos que tenha alegado, sem prejuízo do dever atribuído à autoridade julgadora para instrução do processo.
@@ -1359,25 +1221,21 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (revoga
 **Art. 118, § 3º** {#art118_par3} #revogado *(Revogado pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 119 {#art119}
-Tags:
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: caput)
 
 **Art. 119, caput** {#art119_cpt} #redacao-alterada A autoridade julgadora poderá requisitar a produção de provas necessárias à sua convicção e parecer técnico ou contradita do agente autuante, especificado o objeto a ser esclarecido. *(Redação dada pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 120 {#art120}
-Tags:
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova redação: caput)
 
 **Art. 120, caput** {#art120_cpt} #redacao-alterada As provas ilícitas, impertinentes, desnecessárias ou protelatórias propostas pelo autuado serão recusadas por meio de decisão fundamentada. *(Redação dada pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 121 {#art121}
-Tags:
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput)
 
 **Art. 121, caput** {#art121_cpt} #redacao-alterada O órgão da Procuradoria-Geral Federal, quando houver controvérsia jurídica, emitirá parecer fundamentado para a motivação da decisão da autoridade julgadora. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 122 {#art122}
-Tags: #defesa-administrativa
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (revogado: parágrafo único, parágrafo único, inciso I, parágrafo único, inciso II, parágrafo único, inciso III; nova redação: § 1º, § 2º; incluído: § 2º, inciso I, § 2º, inciso II, § 2º, inciso III)
 
 **Art. 122, caput** {#art122_cpt} Encerrada a instrução, o autuado terá o direito de manifestar-se em alegações finais, no prazo máximo de dez dias.
@@ -1395,7 +1253,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (revoga
 - **Art. 122, § 2º, inciso III** {#art122_par2_inc3} #incluido outro meio válido. *(Incluído pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 123 {#art123}
-Tags: #multa
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput); [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova redação: parágrafo único; incluído: parágrafo único, inciso I, parágrafo único, inciso II, parágrafo único, inciso III)
 
 **Art. 123, caput** {#art123_cpt} #redacao-alterada A decisão da autoridade julgadora não se vincula às sanções aplicadas pelo agente autuante, ou ao valor da multa, podendo, em decisão motivada, de ofício ou a requerimento do interessado, minorar, manter ou majorar o seu valor, respeitados os limites estabelecidos na legislação ambiental vigente. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
@@ -1406,7 +1263,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 - **Art. 123, parágrafo único, inciso III** {#art123_par1u_inc3} #incluido por outro meio válido que assegure a certeza da ciência. *(Incluído pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 124 {#art124}
-Tags: #auto-infracao #defesa-administrativa
 
 **Art. 124, caput** {#art124_cpt} Oferecida ou não a defesa, a autoridade julgadora, no prazo de trinta dias, julgará o auto de infração, decidindo sobre a aplicação das penalidades.
 
@@ -1417,14 +1273,12 @@ Tags: #auto-infracao #defesa-administrativa
 **Art. 124, § 3º** {#art124_par3} O órgão ou entidade ambiental competente indicará, em ato próprio, a autoridade administrativa responsável pelo julgamento da defesa, observando-se o disposto no art. 17 da [[lei-federal-9784-1999|Lei no 9.784, de 1999]].
 
 ###### Art. 125 {#art125}
-Tags:
 
 **Art. 125, caput** {#art125_cpt} A decisão deverá ser motivada, com a indicação dos fatos e fundamentos jurídicos em que se baseia.
 
 **Art. 125, parágrafo único** {#art125_par1u} A motivação deve ser explícita, clara e congruente, podendo consistir em declaração de concordância com fundamentos de anteriores pareceres, informações ou decisões, que, neste caso, serão parte integrante do ato decisório.
 
 ###### Art. 126 {#art126}
-Tags: #multa #auto-infracao #recurso-administrativo
 
 **Art. 126, caput** {#art126_cpt} Julgado o auto de infração, o autuado será notificado por via postal com aviso de recebimento ou outro meio válido que assegure a certeza de sua ciência para pagar a multa no prazo de cinco dias, a partir do recebimento da notificação, ou para apresentar recurso.
 
@@ -1433,7 +1287,6 @@ Tags: #multa #auto-infracao #recurso-administrativo
 ### Seção V – Dos Recursos
 
 ###### Art. 127 {#art127}
-Tags: #recurso-administrativo
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput; incluído: § 2º); [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova redação: § 1º; incluído: § 3º)
 
 **Art. 127, caput** {#art127_cpt} #redacao-alterada Da decisão proferida pela autoridade julgadora caberá recurso no prazo de vinte dias. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
@@ -1445,7 +1298,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 127, § 3º** {#art127_par3} #incluido O autuado poderá exercer, no prazo a que se refere o caput, a faculdade prevista no § 2º do art. [[#art148|148]], o que caracterizará a renúncia ao direito de recorrer. *(Incluído pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 127-A {#art127-a}
-Tags: #recurso-administrativo
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova redação: caput); [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (incluído: parágrafo único)
 
 **Art. 127-A, caput** {#art127-a_cpt} #redacao-alterada O julgamento proferido em primeira instância estará sujeito ao reexame necessário nas hipóteses estabelecidas em regulamento do órgão ou da entidade ambiental competente. *(Redação dada pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
@@ -1453,7 +1305,6 @@ Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova r
 **Art. 127-A, parágrafo único** {#art127-a_par1u} #incluido O recurso de ofício será interposto mediante declaração na própria decisão. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 128 {#art128}
-Tags: #multa #recurso-administrativo
 
 **Art. 128, caput** {#art128_cpt} O recurso interposto na forma prevista no art. [[#art127|127]] não terá efeito suspensivo.
 
@@ -1462,7 +1313,6 @@ Tags: #multa #recurso-administrativo
 **Art. 128, § 2º** {#art128_par2} Quando se tratar de penalidade de multa, o recurso de que trata o art. [[#art127|127]] terá efeito suspensivo quanto a esta penalidade.
 
 ###### Art. 129 {#art129}
-Tags: #recurso-administrativo
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova redação: caput; revogado: § 1º, § 2º)
 
 **Art. 129, caput** {#art129_cpt} #redacao-alterada A autoridade responsável pelo julgamento do recurso poderá confirmar, modificar, anular ou revogar, total ou parcialmente, a decisão recorrida. *(Redação dada pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
@@ -1472,7 +1322,6 @@ Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova r
 **Art. 129, § 2º** {#art129_par2} #revogado *(Revogado pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 130 {#art130}
-Tags:
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (revogado: caput, § 1º, § 2º, § 3º, § 4º, § 5º); [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (incluído: § 4º)
 
 **Art. 130, caput** {#art130_cpt} #revogado *(Revogado pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
@@ -1488,7 +1337,6 @@ Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (revoga
 **Art. 130, § 5º** {#art130_par5} #revogado *(Revogado pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 131 {#art131}
-Tags: #recurso-administrativo
 
 **Art. 131, caput** {#art131_cpt} O recurso não será conhecido quando interposto:
 - **Art. 131, caput, inciso I** {#art131_cpt_inc1} fora do prazo;
@@ -1496,13 +1344,11 @@ Tags: #recurso-administrativo
 - **Art. 131, caput, inciso III** {#art131_cpt_inc3} por quem não seja legitimado.
 
 ###### Art. 132 {#art132}
-Tags:
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (revogado: caput)
 
 **Art. 132, caput** {#art132_cpt} #revogado *(Revogado pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 133 {#art133}
-Tags:
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (revogado: caput, parágrafo único)
 
 **Art. 133, caput** {#art133_cpt} #revogado *(Revogado pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
@@ -1512,7 +1358,6 @@ Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (revoga
 ### Seção VI – Do Procedimento Relativo à Destinação dos Bens e Animais Apreendidos
 
 ###### Art. 134 {#art134}
-Tags: #auto-infracao #fauna
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: inciso II; incluído: inciso VII)
 
 **Art. 134, caput** {#art134_cpt} Após decisão que confirme o auto de infração, os bens e animais apreendidos que ainda não tenham sido objeto da destinação prevista no art. [[#art107|107]], não mais retornarão ao infrator, devendo ser destinados da seguinte forma:
@@ -1525,7 +1370,6 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 - **Art. 134, caput, inciso VII** {#art134_cpt_inc7} #incluido os animais da fauna silvestre serão libertados em seu hábitat ou entregues a jardins zoológicos, fundações, centros de triagem, criadouros regulares ou entidades assemelhadas, desde que fiquem sob a responsabilidade de técnicos habilitados. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 135 {#art135}
-Tags: #fauna
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput)
 
 **Art. 135, caput** {#art135_cpt} #redacao-alterada Os bens apreendidos poderão ser doados pela autoridade competente para órgãos e entidades públicas de caráter científico, cultural, educacional, hospitalar, penal, militar e social, bem como para outras entidades sem fins lucrativos de caráter beneficente. *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
@@ -1533,19 +1377,16 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 135, parágrafo único** {#art135_par1u} Os produtos da fauna não perecíveis serão destruídos ou doados a instituições científicas, culturais ou educacionais.
 
 ###### Art. 136 {#art136}
-Tags: #apreensao
 
 **Art. 136, caput** {#art136_cpt} Tratando-se de apreensão de substâncias ou produtos tóxicos, perigosos ou nocivos à saúde humana ou ao meio ambiente, as medidas a serem adotadas, inclusive a destruição, serão determinadas pelo órgão competente e correrão a expensas do infrator.
 
 ###### Art. 137 {#art137}
-Tags: #fauna
 
 **Art. 137, caput** {#art137_cpt} O termo de doação de bens apreendidos vedará a transferência a terceiros, a qualquer título, dos animais, produtos, subprodutos, instrumentos, petrechos, equipamentos, veículos e embarcações doados.
 
 **Art. 137, parágrafo único** {#art137_par1u} A autoridade ambiental poderá autorizar a transferência dos bens doados quando tal medida for considerada mais adequada à execução dos fins institucionais dos beneficiários.
 
 ###### Art. 138 {#art138}
-Tags:
 
 **Art. 138, caput** {#art138_cpt} Os bens sujeitos à venda serão submetidos a leilão, nos termos do § 5o do art. 22 da [[lei-federal-8666-1993|Lei no 8.666, de 21 de junho de 1993]].
 
@@ -1554,7 +1395,6 @@ Tags:
 ### Seção VII – Do Procedimento de Conversão de Multa Simples em Serviços de Preservação, Melhoria e Recuperação da Qualidade do Meio Ambiente
 
 ###### Art. 139 {#art139}
-Tags: #multa #conversao-multa
 Alterações: [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]] (nova redação: caput); [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova redação: parágrafo único)
 
 **Art. 139, caput** {#art139_cpt} #redacao-alterada Fica instituído o Programa de Conversão de Multas Ambientais emitidas por órgãos e entidades da União integrantes do Sistema Nacional do Meio Ambiente - Sisnama. *(Redação dada pelo [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]])*
@@ -1562,7 +1402,6 @@ Alterações: [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]] (nova red
 **Art. 139, parágrafo único** {#art139_par1u} #redacao-alterada A autoridade competente, nos termos do disposto no § 4º do art. 72 da [[lei-federal-9605-1998|Lei nº 9.605, de 1998]], poderá converter a multa simples em serviços de preservação, de melhoria e de recuperação da qualidade do meio ambiente, exceto as multas decorrentes de infrações ambientais que tenham provocado morte humana e outras hipóteses previstas em regulamento do órgão ou da entidade ambiental responsável pela apuração da infração ambiental. *(Redação dada pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 140 {#art140}
-Tags: #conversao-multa #fauna #flora #unidade-conservacao
 Alterações: [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]] (nova redação: caput, inciso I, inciso II, inciso III, inciso IV; incluído: inciso I, alínea "a", inciso V, § 1º, § 2º); [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (nova redação: inciso I, alínea "b", inciso I, alínea "c", inciso I, alínea "d", inciso IX; incluído: inciso I, alínea "e"); [[decreto-federal-9760-2019|Decreto nº 9.760, de 2019]] (nova redação: inciso VI, inciso VII; incluído: inciso VIII, inciso X; revogado: parágrafo único)
 
 **Art. 140, caput** {#art140_cpt} #redacao-alterada São considerados serviços de preservação, melhoria e recuperação da qualidade do meio ambiente, as ações, as atividades e as obras incluídas em projetos com, no mínimo, um dos seguintes objetivos: *(Redação dada pelo [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]])*
@@ -1589,13 +1428,11 @@ Alterações: [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]] (nova red
 **Art. 140, parágrafo único** {#art140_par1u} #revogado *(Revogado pelo [[decreto-federal-9760-2019|Decreto nº 9.760, de 2019]])* *(Vigência)*
 
 ###### Art. 140-A {#art140-a}
-Tags:
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (revogado: caput)
 
 **Art. 140-A, caput** {#art140-a_cpt} #revogado *(Revogado pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 140-B {#art140-b}
-Tags:
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (incluído: caput, parágrafo único)
 
 **Art. 140-B, caput** {#art140-b_cpt} #incluido Os órgãos federais de que trata esta Seção poderão realizar chamamentos públicos para selecionar projetos apresentados por órgãos e entidades, públicas ou privadas sem fins lucrativos, para a execução dos serviços de que trata o art. [[#art140|140]], em áreas públicas ou privadas. *(Incluído pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1603,7 +1440,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (inclu�
 **Art. 140-B, parágrafo único** {#art140-b_par1u} #incluido Os chamamentos públicos previstos no caput poderão ser realizados de forma conjunta pelos órgãos federais de que trata esta Seção. *(Incluído pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 141 {#art141}
-Tags: #multa #conversao-multa
 Alterações: [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]] (nova redação: caput); [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (revogado: inciso I, inciso II, inciso III)
 
 **Art. 141, caput** {#art141_cpt} #redacao-alterada Não caberá conversão de multa para reparação de danos decorrentes das próprias infrações. *(Redação dada pelo [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]])*
@@ -1612,7 +1448,6 @@ Alterações: [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]] (nova red
 - **Art. 141, caput, inciso III** {#art141_cpt_inc3} #revogado *(Revogado pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 142 {#art142}
-Tags: #multa #conversao-multa #defesa-administrativa
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: caput; revogado: § 4º, § 5º)
 
 **Art. 142, caput** {#art142_cpt} #redacao-alterada O autuado poderá requerer a conversão de multa de que trata esta Seção até o momento da sua manifestação em alegações finais, na forma estabelecida no art. [[#art122|122]]. *(Redação dada pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1622,7 +1457,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova r
 **Art. 142, § 5º** {#art142_par5} #revogado *(Revogado pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 142-A {#art142-a}
-Tags: #multa #conversao-multa
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: caput, inciso I, inciso II, § 1º, § 2º, § 3º)
 
 **Art. 142-A, caput** {#art142-a_cpt} #redacao-alterada O autuado, ao pleitear a conversão de multa, deverá optar pela: *(Redação dada pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1636,7 +1470,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova r
 **Art. 142-A, § 3º** {#art142-a_par3} #redacao-alterada Ato normativo próprio do órgão ou da entidade ambiental responsável pela apuração da infração ambiental detalhará as regras para operacionalização da conversão de multa direta e indireta. *(Redação dada pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 143 {#art143}
-Tags: #multa #conversao-multa #defesa-administrativa
 Alterações: [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]] (nova redação: caput, § 1º); [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: § 2º, § 2º, inciso I, § 2º, inciso II, § 2º, inciso III, § 7º; incluído: § 2º, inciso IV, § 3º-A, § 4º-A, § 5º-A, § 6º-A); [[decreto-federal-9760-2019|Decreto nº 9.760, de 2019]] (revogado: § 3º, § 4º, § 5º, § 6º)
 
 **Art. 143, caput** {#art143_cpt} #redacao-alterada O valor dos custos dos serviços de preservação, conservação, melhoria e recuperação da qualidade do meio ambiente será igual ou superior ao valor da multa convertida. *(Redação dada pelo [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]])*
@@ -1668,7 +1501,6 @@ Alterações: [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]] (nova red
 **Art. 143, § 7º** {#art143_par7} #redacao-alterada O valor resultante do desconto não poderá ser inferior ao valor mínimo legal aplicável à infração. *(Redação dada pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 144 {#art144}
-Tags:
 Alterações: [[decreto-federal-9760-2019|Decreto nº 9.760, de 2019]] (revogado: caput, § 1º, § 2º, § 3º)
 
 **Art. 144, caput** {#art144_cpt} #revogado *(Revogado pelo [[decreto-federal-9760-2019|Decreto nº 9.760, de 2019]])* *(Vigência)*
@@ -1680,7 +1512,6 @@ Alterações: [[decreto-federal-9760-2019|Decreto nº 9.760, de 2019]] (revogado
 **Art. 144, § 3º** {#art144_par3} #revogado *(Revogado pelo [[decreto-federal-9760-2019|Decreto nº 9.760, de 2019]])* *(Vigência)*
 
 ###### Art. 144-A {#art144-a}
-Tags: #multa #conversao-multa
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (incluído: caput, § 1º, § 2º, § 3º)
 
 **Art. 144-A, caput** {#art144-a_cpt} #incluido O requerimento de conversão de multa na modalidade prevista no inciso I do caput do art. [[#art142-a|142-A]] será instruído com o projeto, conforme as diretrizes estabelecidas pelo órgão federal emissor da multa. *(Incluído pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1692,7 +1523,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (inclu�
 **Art. 144-A, § 3º** {#art144-a_par3} #incluido O não atendimento por parte do autuado das situações previstas neste artigo implicará o indeferimento do pedido de conversão de multa. *(Incluído pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 145 {#art145}
-Tags: #multa #auto-infracao #conversao-multa #recurso-administrativo #termo-compromisso
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: caput, § 1º, § 2º, § 3º, § 4º); [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]] (revogado: § 4º, inciso I, § 4º, inciso II, § 4º, inciso III, § 4º, inciso IV, § 4º, inciso V)
 
 **Art. 145, caput** {#art145_cpt} #redacao-alterada A autoridade julgadora deverá, em decisão única, julgar o auto de infração e o pedido de conversão da multa por ocasião do julgamento do auto de infração. *(Redação dada pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1711,7 +1541,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova r
 - **Art. 145, § 4º, inciso V** {#art145_par4_inc5} #revogado *(Revogado pelo [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]])*
 
 ###### Art. 146 {#art146}
-Tags: #multa #auto-infracao #conversao-multa #termo-compromisso
 Alterações: [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]] (nova redação: caput, § 1º, § 2º, § 4º, § 5º, § 6º; incluído: § 1º, inciso I, § 1º, inciso II, § 1º, inciso III, § 1º, inciso IV, § 1º, inciso V, § 1º, inciso VII, § 2º, inciso I, § 2º, inciso II, § 2º, inciso III, § 2º, inciso IV, § 7º, § 8º, § 8º, inciso I, § 8º, inciso II); [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: § 1º, inciso VI; incluído: § 3º-A, § 3º-A, inciso I, § 3º-A, inciso II, § 3º-A, inciso III, § 3º-A, inciso IV, § 3º-A, inciso V, § 10); [[decreto-federal-9760-2019|Decreto nº 9.760, de 2019]] (revogado: § 3º, § 3º, inciso I, § 3º, inciso II, § 3º, inciso III, § 3º, inciso IV, § 3º, inciso V, § 9º)
 
 **Art. 146, caput** {#art146_cpt} #redacao-alterada Na hipótese de decisão favorável ao pedido, as partes celebrarão termo de compromisso, que estabelecerá os termos da vinculação do autuado ao objeto da conversão de multa pelo prazo de execução do projeto aprovado ou de sua cota-parte no projeto escolhido pelo órgão federal emissor da multa. *(Redação dada pelo [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]])*
@@ -1762,7 +1591,6 @@ Alterações: [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]] (nova red
 **Art. 146, § 10** {#art146_par10} #incluido Os recursos depositados pelo autuado na conta garantia referida no inciso I do § 3º-A estão vinculados ao projeto e assegurarão o cumprimento da sua obrigação de prestar os serviços de preservação, de melhoria e de recuperação da qualidade do meio ambiente. *(Incluído pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 147 {#art147}
-Tags:
 Alterações: [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]] (nova redação: caput); [[decreto-federal-9760-2019|Decreto nº 9.760, de 2019]] (revogado: § 1º, § 2º, § 3º, § 4º, § 5º); [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (revogado: § 5º, inciso I, § 5º, inciso II, parágrafo único)
 
 **Art. 147, caput** {#art147_cpt} #redacao-alterada Os extratos dos termos de compromisso celebrados serão publicados no Diário Oficial da União. *(Redação dada pelo [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]])*
@@ -1782,7 +1610,6 @@ Alterações: [[decreto-federal-9179-2017|Decreto nº 9.179, de 2017]] (nova red
 **Art. 147, parágrafo único** {#art147_par1u} #revogado *(Revogado pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 148 {#art148}
-Tags: #multa #conversao-multa
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova redação: caput, § 1º, § 2º, § 3º; incluído: § 4º, § 5º)
 
 **Art. 148, caput** {#art148_cpt} #redacao-alterada O órgão federal emissor da multa definirá as diretrizes e os critérios para os projetos a que se refere esta Seção e a forma de acompanhamento e de fiscalização da execução dos serviços prestados em decorrência das multas a serem convertidas. *(Redação dada pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1798,7 +1625,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (nova r
 **Art. 148, § 5º** {#art148_par5} #incluido Os órgãos federais emissores de multa poderão estruturar, conjuntamente, câmaras regionais ou estaduais ou grupos de trabalho conforme referido no § 3º. *(Incluído pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
 
 ###### Art. 148-A {#art148-a}
-Tags: #multa #conversao-multa
 Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (incluído: caput)
 
 **Art. 148-A, caput** {#art148-a_cpt} #incluido Ao autuado que, sob a égide de regime jurídico anterior, tenha pleiteado tempestivamente a conversão da multa, é garantida a adequação aos termos deste Decreto. *(Incluído pelo [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]])*
@@ -1806,7 +1632,6 @@ Alterações: [[decreto-federal-11373-2023|Decreto nº 11.373, de 2023]] (inclu�
 ## CAPÍTULO III – DAS DISPOSIÇÕES FINAIS
 
 ###### Art. 149 {#art149}
-Tags: #recurso-administrativo
 Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova redação: caput; incluído: parágrafo único)
 
 **Art. 149, caput** {#art149_cpt} #redacao-alterada Os órgãos ambientais integrantes do Sistema Nacional do Meio Ambiente - SISNAMA ficam obrigados a dar, trimestralmente, publicidade das sanções administrativas aplicadas com fundamento neste Decreto: *(Redação dada pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
@@ -1816,35 +1641,29 @@ Alterações: [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]] (nova red
 **Art. 149, parágrafo único** {#art149_par1u} #incluido Quando da publicação das listas, nos termos do caput, o órgão ambiental deverá, obrigatoriamente, informar se os processos estão julgados em definitivo ou encontram-se pendentes de julgamento ou recurso. *(Incluído pelo [[decreto-federal-6686-2008|Decreto nº 6.686, de 2008]])*
 
 ###### Art. 149-A {#art149-a}
-Tags:
 Alterações: [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]] (incluído: caput)
 
 **Art. 149-A, caput** {#art149-a_cpt} #incluido O disposto no art. 11 aplica-se aos autos de infração lavrados a partir da entrada em vigor do [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]]. *(Incluído pelo [[decreto-federal-11080-2022|Decreto nº 11.080, de 2022]])*
 
 ###### Art. 150 {#art150}
-Tags:
 
 **Art. 150, caput** {#art150_cpt} Nos termos do que dispõe o § 1o do art. 70 da [[lei-federal-9605-1998|Lei no 9.605, de 1998]], este Decreto se aplica, no que couber, à Capitania dos Portos do Comando da Marinha.
 
 ###### Art. 150-A {#art150-a}
-Tags:
 Alterações: [[decreto-federal-9760-2019|Decreto nº 9.760, de 2019]] (incluído: caput)
 
 **Art. 150-A, caput** {#art150-a_cpt} #incluido Os prazos de que trata este Decreto contam-se na forma do disposto no caput do art. 66 da [[lei-federal-9784-1999|Lei nº 9.784, de 1999]] . *(Incluído pelo [[decreto-federal-9760-2019|Decreto nº 9.760, de 2019]])* *(Vigência)*
 
 ###### Art. 151 {#art151}
-Tags:
 
 **Art. 151, caput** {#art151_cpt} Os órgãos e entidades ambientais federais competentes estabelecerão, por meio de instrução normativa, os procedimentos administrativos complementares relativos à execução deste Decreto.
 
 ###### Art. 152 {#art152}
-Tags:
 Alterações: [[decreto-federal-7719-2012|Decreto nº 7.719, de 2012]] (nova redação: caput)
 
 **Art. 152, caput** {#art152_cpt} #redacao-alterada O disposto no art. [[#art55|55]] entrará em vigor em 11 de junho de 2012. *(Redação dada pelo [[decreto-federal-7719-2012|Decreto nº 7.719, de 2012]])*
 
 ###### Art. 152-A {#art152-a}
-Tags: #embargo #flora #reserva-legal
 Alterações: [[decreto-federal-6695-2008|Decreto nº 6.695, de 2008]] (nova redação: caput; incluído: parágrafo único)
 
 **Art. 152-A, caput** {#art152-a_cpt} #redacao-alterada Os embargos impostos em decorrência da ocupação irregular de áreas de reserva legal não averbadas e cuja vegetação nativa tenha sido suprimida até 21 de dezembro de 2007, serão suspensos até 11 de dezembro de 2009, mediante o protocolo pelo interessado de pedido de regularização da reserva legal junto ao órgão ambiental competente. *(Redação dada pelo [[decreto-federal-6695-2008|Decreto nº 6.695, de 2008]])*
@@ -1852,12 +1671,10 @@ Alterações: [[decreto-federal-6695-2008|Decreto nº 6.695, de 2008]] (nova red
 **Art. 152-A, parágrafo único** {#art152-a_par1u} #incluido O disposto no caput não se aplica a desmatamentos irregulares ocorridos no Bioma Amazônia. *(Incluído pelo [[decreto-federal-6695-2008|Decreto nº 6.695, de 2008]])*
 
 ###### Art. 153 {#art153}
-Tags:
 
 **Art. 153, caput** {#art153_cpt} Ficam revogados os Decretos nos [[decreto-federal-3179-1999|3.179, de 21 de setembro de 1999]], [[decreto-federal-3919-2001|3.919, de 14 de setembro de 2001]], [[decreto-federal-4592-2003|4.592, de 11 de fevereiro de 2003]], [[decreto-federal-5523-2005|5.523, de 25 de agosto de 2005]], os [[decreto-federal-5975-2006#art26|arts. 26]] e [[decreto-federal-5975-2006#art27|27 do Decreto nº 5.975, de 30 de novembro de 2006]], e os [[decreto-federal-6321-2007#art12|arts. 12]] e [[decreto-federal-6321-2007#art13|13 do Decreto nº 6.321, de 21 de dezembro de 2007]].
 
 ###### Art. 154 {#art154}
-Tags:
 
 **Art. 154, caput** {#art154_cpt} Este Decreto entra em vigor na data de sua publicação.
 

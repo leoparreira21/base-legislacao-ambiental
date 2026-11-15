@@ -29,7 +29,6 @@ O Diretor Presidente do Instituto Ambiental Do Paraná – IAP, designado pelo [
 
 ###### Art. 1º {#art1}
 
-Tags: #dispensa #agropecuaria #licenciamento-ambiental #vegetacao-nativa #armazenamento-residuo
 
 **Art. 1º, caput** {#art1_cpt} Dispensar do Licenciamento Ambiental Estadual as atividades listadas abaixo:
 
@@ -75,19 +74,16 @@ Tags: #dispensa #agropecuaria #licenciamento-ambiental #vegetacao-nativa #armaze
 
 ###### Art. 2º {#art2}
 
-Tags: #dispensa #agropecuaria #licenciamento-ambiental
 
 **Art. 2º, caput** {#art2_cpt} As atividades listadas no Art. 1º estão automaticamente dispensadas do licenciamento ambiental estadual, não sendo necessário o requerimento da declaração DLAE – Dispensa de Licenciamento Ambiental Estadual, pelo interessado, tampouco a sua emissão pelo IAP.
 
 ###### Art. 3º {#art3}
 
-Tags: #dispensa #agropecuaria #licenciamento-ambiental
 
 **Art. 3º, caput** {#art3_cpt} A dispensa do Licenciamento Ambiental Estadual não exime o dispensado das exigências legais quanto a preservação do meio ambiente .
 
 ###### Art. 4º {#art4}
 
-Tags: #dispensa #agropecuaria
 
 **Art. 4º, caput** {#art4_cpt} A presente Portaria entrará em vigor na data de sua publicação, ficando revogada a [[portaria-iap-90-2011|Portaria IAP 090/2011]].
 

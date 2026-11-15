@@ -34,12 +34,10 @@ fonte: "PDF de 1 página (corpo, com cabeçalho do Diário Oficial) e PDF de 35 
 - **Considerando 2** {#preambulo_cons2} Considerando a Resolução nº 01 CBH-Norte Pioneiro, de 9 de maio de 2017, que aprova proposição de atualização do enquadramento dos rios das Bacias do Cinzas, Itararé, Paranapanema 1 e 2, resolve:
 
 ###### Art. 1º {#art1}
-Tags: #enquadramento #classificacao-corpo-agua #comite-bacia #bacia-cinzas-itarare-paranapanema #cerh
 
 **Art. 1º, caput** {#art1_cpt} Aprovar o enquadramento dos corpos de água superficiais na área de abrangência do Comitê das Bacias dos rios Cinzas, Itararé, Paranapanema 1 e 2, em classes, de acordo com os usos preponderantes, nos termos da Resolução nº 01 CBH-Norte Pioneiro, de 9 de maio de 2017e Anexos I, II e III.
 
 ###### Art. 2º {#art2}
-Tags: #vigencia #revogacao
 
 **Art. 2º, caput** {#art2_cpt} Esta Resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 

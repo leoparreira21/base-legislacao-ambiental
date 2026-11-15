@@ -3,12 +3,13 @@
 
 Uso:
   python scripts/validar.py                 # valida todas as normas
-  python scripts/validar.py --tags          # regrava tags.md com todas as tags em uso
+  python scripts/validar.py --tags          # regrava tags.md com as tags do frontmatter
   python scripts/validar.py --afetados NORMA
         # lista, em outras normas, os links que apontam para dispositivos
         # revogados ou alterados da NORMA (ex.: decreto-estadual-9541-2025)
 
 Verificações (erro = código de saída 1):
+  - nenhuma tag temática no corpo (só #revogado, #redacao-alterada, #incluido, #anexo-pendente)
   - frontmatter com os campos obrigatórios e 'situacao' válida (normas/, normas/anexos/ e normas/comentarios/)
   - comentários oficiais (normas/comentarios/): cada ID "X_coment" corresponde a um dispositivo X da norma_mae
   - nome do arquivo igual ao campo 'arquivo'
@@ -28,6 +29,11 @@ OBRIGATORIOS = ["norma", "arquivo", "tipo", "esfera", "numero", "ano", "ementa",
 OBRIGATORIOS_ANEXO = ["anexo", "norma_mae", "arquivo", "tipo_anexo", "estudo", "atividades", "modalidades", "tags"]
 OBRIGATORIOS_COMENT = ["documento", "norma_mae", "arquivo", "tipo_documento", "autor", "data", "natureza", "tags", "fonte"]
 SITUACOES = {"vigente", "revogada"}
+
+
+# Tags temáticas ficam só no frontmatter; no corpo, só as de controle.
+TAGS_CONTROLE = {"revogado", "redacao-alterada", "incluido", "anexo-pendente"}
+TAG_CORPO = re.compile(r"(?<![\w/&|#`])#([a-z0-9][a-z0-9-]*)(?![\w-])")
 
 
 def carregar():
@@ -90,6 +96,9 @@ def validar(normas):
             erros.append(f"{n}: campo 'arquivo' ({fm['arquivo']}) difere do nome do arquivo")
         if fm.get("situacao") and fm["situacao"] not in SITUACOES:
             erros.append(f"{n}: situacao '{fm['situacao']}' inválida (use {sorted(SITUACOES)})")
+        tematicas = sorted(set(TAG_CORPO.findall(re.sub(r"\{#[^}]+\}|\[\[[^\]]*\]\]|`[^`]*`|\]\([^)]*\)", "", corpo))) - TAGS_CONTROLE)
+        if tematicas:
+            erros.append(f"{n}: tags no corpo {tematicas[:5]}; tags temáticas ficam só no frontmatter")
         dup = [i for i, c in collections.Counter(ids[n]).items() if c > 1]
         if dup:
             erros.append(f"{n}: IDs duplicados {dup}")
@@ -138,12 +147,16 @@ def afetados(normas, alvo):
         print("Nenhuma outra norma aponta para dispositivos revogados/alterados de", alvo)
 
 
+def tags_fm(fm):
+    return [t.strip().strip("\"'") for t in (fm.get("tags") or "").strip("[]").split(",") if t.strip()]
+
+
 def gerar_tags(normas):
+    # As tags ficam só no frontmatter (tabela de propriedades); o corpo não leva tags temáticas.
     uso = collections.Counter()
     for d in normas.values():
-        limpo = re.sub(r"\{#[^}]+\}|\[\[[^\]]*\]\]|`[^`]*`", "", d["corpo"])
-        uso.update(set(re.findall(r"(?<![\w/])#([a-z][a-z0-9-]*)", limpo)))
-    linhas = ["# Tags da base", "", "Gerado por `python scripts/validar.py --tags`. Formato: minúsculas, sem acento, singular, hífen entre palavras.", "",
+        uso.update(set(tags_fm(d["fm"])))
+    linhas = ["# Tags da base", "", "Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontmatter. Formato: minúsculas, sem acento, singular, hífen entre palavras.", "",
               "| Tag | Normas que usam |", "|---|---|"]
     linhas += [f"| `#{t}` | {c} |" for t, c in sorted(uso.items())]
     open(os.path.join(RAIZ, "tags.md"), "w", encoding="utf-8").write("\n".join(linhas) + "\n")

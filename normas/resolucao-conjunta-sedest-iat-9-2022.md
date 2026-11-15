@@ -31,7 +31,6 @@ fonte: "Portal da legislação estadual (AEN, \"Este texto não substitui o publ
 **Preâmbulo** {#preambulo} O SECRETÁRIO DE ESTADO DO DESENVOLVIMENTO SUSTENTÁVEL E DO TURISMO - SEDEST, nomeado pelo [[decreto-estadual-10613-2022|Decreto Estadual nº 10.613, de 30 de março de 2022]], no uso das atribuições que lhe são conferidas pela [[lei-estadual-19848-2019|Lei nº 19.848, de 03 de maio de 2019]]; O DIRETOR PRESIDENTE DO INSTITUTO DE ÁGUA E TERRA - IAT, nomeado pelo [[decreto-estadual-10700-2022|Decreto Estadual nº 10.700, de 05 de abril de 2022]], no uso de suas atribuições que lhe são conferidas pela [[lei-estadual-10066-1992|Lei Estadual nº 10.066, de 27 de julho de 1992]], [[lei-estadual-20070-2019|Lei Estadual nº 20.070, de 18 de dezembro de 2019]] e [[decreto-estadual-3813-2020|Decreto nº 3.813, de 09 de janeiro de 2020]]; Considerando o disposto no art. 225 da Constituição Federal, de 05 de outubro de 1988, que estabelece que todos têm direito ao meio ambiente ecologicamente equilibrado, bem de uso comum do povo e essencial à sadia qualidade de vida, impondo-se ao Poder Público e à coletividade o dever de defendê-lo e preservá-lo para as presentes e futuras gerações; Considerando a [[lei-federal-10973-2004|Lei Federal nº 10.973, de 02 de dezembro de 2004]], que dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica no ambiente produtivo, de modo a buscar o avanço tecnológico junto ao desenvolvimento sustentável; Considerando a [[lei-federal-12305-2010|Lei Federal nº 12.305, de 02 de agosto de 2010]], que institui a Política Nacional de Resíduos Sólidos PNRS e sua regulamentação por meio do [[decreto-federal-7404-2010|Decreto Federal nº 7.404, de 23 de dezembro de 2010]] e do [[decreto-federal-10936-2022|Decreto Federal nº 10.936, de 12 de janeiro de 2022]], que regulamentam a [[lei-federal-12305-2010|Lei nº 12.305, de 2 de agosto de 2010]], que institui a Política Nacional de Resíduos Sólidos; Considerando a [[lei-estadual-12493-1999|Lei Estadual n° 12.493, de 22 de janeiro de 1999]], que estabelece princípios, procedimentos, normas e critérios referentes a geração, acondicionamento, armazenamento, coleta, transporte, gestão, tratamento e destinação final dos resíduos sólidos no Estado do Paraná, visando controle da poluição, da contaminação e a minimização de seus impactos ambientais e adota outras providências; Considerando os Arts. 200 a 205 da Constituição do Estado do Paraná e a [[lei-estadual-20541-2021|Lei Estadual nº 20.541, de 20 de abril de 2021]], bem como a necessidade de aprimoramento na gestão e no tratamento de resíduos sólidos no Estado do Paraná; Considerando a [[lei-estadual-19261-2017|Lei Estadual nº 19.261, de 8 de dezembro de 2017]] e a política estadual de resíduos sólidos implementada no Estado do Paraná; Considerando a [[lei-estadual-20607-2021|Lei Estadual n° 20.607, de 10 de junho de 2021]], que dispõe sobre o Plano Estadual de Resíduos Sólidos do Estado do Paraná - PERS/PR e dá outras providências; Considerando a Agenda 2030, de 25 de setembro de 2015, que contempla os Objetivos do Desenvolvimento Sustentável ODS, baseados nas dimensões do desenvolvimento sustentável - econômica, social, ambiental e institucional - de forma integrada, indivisível e transversal para o atingimento das metas associadas; e, Considerando o Decreto n° 8.937, de 04 de outubro de 2021, que dispõe sobre a adesão do Estado do Paraná as campanhas “Race to Zero” e “Race to Resilience, campanhas globais da Organização das Nações Unidas – ONU, que visa a redução e mitigação das emissões de gases de efeito estufa e à resiliência climática até 2050; RESOLVEM:
 
 ###### Art. 1º {#art1}
-Tags: #residuo-solido #tecnologia-inovacao #pers
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer critérios e procedimentos para estudos e reconhecimento de novas tecnologias na gestão de resíduos sólidos no Estado do Paraná.
 **Art. 1º, parágrafo único** {#art1_par1u} Os incentivos ao aproveitamento energético de resíduos sólidos por rotas biológicas ou térmicas, bem como os incentivos e apoio a pesquisa, desenvolvimento e inovação nos temas relacionados às rotas tecnológicas de tratamento são estratégias da [[lei-estadual-20607-2021|Lei Estadual n° 20.607/21]], que dispõe sobre o Plano Estadual de Resíduos Sólidos do Estado do Paraná - PERS/PR e visa à criação de incentivos e o fomento a projetos, pesquisas e inovações tecnológicas sustentáveis na gestão de resíduos sólidos no Estado do Paraná, ações as quais serão implementadas por meio do nome fantasia “ PROJETO LIXO 5.0”.
@@ -40,7 +39,6 @@ Tags: #residuo-solido #tecnologia-inovacao #pers
 
 
 ###### Art. 2º {#art2}
-Tags: #definicao #residuo-solido
 
 **Art. 2º, caput** {#art2_cpt} Para os efeitos desta Resolução, entende-se por:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} Agência de fomento: órgão ou instituição de natureza pública ou privada que tenha entre os seus objetivos o financiamento de ações que visem a estimular e promover o desenvolvimento da ciência, da tecnologia e da inovação;
@@ -82,7 +80,6 @@ Tags: #definicao #residuo-solido
 
 
 ###### Art. 3º {#art3}
-Tags: #residuo-solido #tecnologia-inovacao
 
 **Art. 3º, caput** {#art3_cpt} São princípios e objetivos do “PROJETO LIXO 5.0”:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} Difundir novas tecnologias na gestão de resíduos sólidos, voltados preferencialmente, aos municípios de pequeno e médio porte, visando: a adequação da gestão desses resíduos e, prioritariamente à extinção de lixões e aterros controlados, com base nas informações mais atualizadas e publicadas no Sistema Nacional de Informações sobre Saneamento Básico - SNIS;
@@ -101,7 +98,6 @@ Tags: #residuo-solido #tecnologia-inovacao
 
 
 ###### Art. 4º {#art4}
-Tags: #residuo-solido #tecnologia-inovacao #autorizacao-ambiental
 
 **Art. 4º, caput** {#art4_cpt} Na aplicação do disposto nesta Resolução, serão observadas as seguintes diretrizes:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} A SEDEST e o IAT poderão promover inovação colaborativa no serviço público de resíduos sólidos, voltados à solução de problemas concretos relacionados à gestão destes, dentro do escopo do “PROJETO LIXO 5.0”, por meio do recebimento ou concursos de projetos, seja por edital de chamamento público ou não;
@@ -125,7 +121,6 @@ Tags: #residuo-solido #tecnologia-inovacao #autorizacao-ambiental
 
 
 ###### Art. 5º {#art5}
-Tags: #comite #residuo-solido
 
 **Art. 5º, caput** {#art5_cpt} O Comitê do “PROJETO LIXO 5.0”, visando a deliberação, gestão e avaliação dos requerimentos de projetos, será formado por:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} Três (03) membros da Diretoria de Economia Sustentável da Secretaria de Estado do Desenvolvimento Sustentável SEDEST; #redacao-alterada *(Redação dada pela Resolução 1 de 18/01/2024)*
@@ -135,7 +130,6 @@ Tags: #comite #residuo-solido
 **Art. 5º, § 2º** {#art5_par2} Em caso de empate na votação para deliberações ou avaliações, caberá ao coordenador do Comitê, vinculado à DIPAM/SEDEST, nomeado por Resolução, o poder de decisão.
 
 ###### Art. 6º {#art6}
-Tags: #comite #impedimento-suspeicao
 
 **Art. 6º, caput** {#art6_cpt} Os membros do Comitê do “PROJETO LIXO 5.0” não podem ter qualquer tipo de grau de parentesco com os indivíduos participantes proponentes do projeto.
 
@@ -143,12 +137,10 @@ Tags: #comite #impedimento-suspeicao
 
 
 ###### Art. 7º {#art7}
-Tags: #licenciamento-ambiental #residuo-solido
 
 **Art. 7º, caput** {#art7_cpt} Os projetos, pesquisas e inovações tecnológicas sustentáveis na gestão de resíduos sólidos deverão ser objeto de licenciamento ambiental.
 
 ###### Art. 8º {#art8}
-Tags: #autorizacao-ambiental #documentacao #residuo-solido #teste-tecnologia
 
 **Art. 8º, caput** {#art8_cpt} Para os projetos, pesquisas e inovações tecnológicas sustentáveis na gestão de resíduos sólidos que visem à realização de testes, deverá ser requerida Autorização Ambiental a ser instruída com a seguinte documentação:
 - **Art. 8º, caput, inciso I** {#art8_cpt_inc1} Requerimento de Licenciamento Ambiental;
@@ -164,12 +156,10 @@ Tags: #autorizacao-ambiental #documentacao #residuo-solido #teste-tecnologia
 **Art. 8º, parágrafo único** {#art8_par1u} Serão passíveis de realização de testes os projetos, pesquisas e inovações a que se refere o caput deste artigo, com capacidade de tratamento de até 50 t/dia de resíduos.
 
 ###### Art. 9º {#art9}
-Tags: #autorizacao-ambiental #validade
 
 **Art. 9º, caput** {#art9_cpt} As Autorizações Ambientais deverão ser expedidas com prazo de validade, conforme cronograma apresentado não superior à 24 (vinte e quatro) meses, não prorrogável, de acordo com a [[resolucao-cema-107-2020|Resolução CEMA 107/2020]].
 
 ###### Art. 10 {#art10}
-Tags: #licenciamento-ambiental #residuo-solido
 
 **Art. 10, caput** {#art10_cpt} Em sendo aprovado o Relatório de Teste de Tecnologia - RTT, o empreendimento deverá ser submetido ao processo de licenciamento ambiental, de acordo com as regulamentações do Estado do Paraná.
 
@@ -177,7 +167,6 @@ Tags: #licenciamento-ambiental #residuo-solido
 
 
 ###### Art. 11 {#art11}
-Tags: #tecnologia-inovacao #incentivo
 
 **Art. 11, caput** {#art11_cpt} São instrumentos de estímulo à inovação do “PROJETO LIXO 5.0” na gestão de resíduos sólidos, quando aplicáveis em cada caso desta Resolução:
 - **Art. 11, caput, inciso I** {#art11_cpt_inc1} A constituição de parcerias estratégicas e desenvolvimento de projetos de cooperação entre ICT e empresas e entre empresas, em atividades de pesquisa e desenvolvimento, que tenham por objetivo a geração de produtos, serviços e processos inovadores voltados para as diferentes rotas tecnológicas descritas nesta Resolução;
@@ -189,12 +178,10 @@ Tags: #tecnologia-inovacao #incentivo
 
 
 ###### Art. 12 {#art12}
-Tags: #casos-omissos
 
 **Art. 12, caput** {#art12_cpt} Demais casos omissos ou não previstos nesta Resolução terão como referência a [[lei-federal-10973-2004|Lei Federal nº 10.973, de 2 de dezembro de 2004]], [[decreto-federal-9283-2018|Decreto Federal nº 9.283, de 7 de fevereiro de 2018]] e [[lei-estadual-20541-2021|Lei Estadual nº 20.541, de 20 de abril de 2021]].
 
 ###### Art. 13 {#art13}
-Tags: #vigencia
 
 **Art. 13, caput** {#art13_cpt} Esta Lei entra em vigor na data de sua publicação.
 
@@ -207,17 +194,17 @@ Tags: #vigencia
 ### APÊNDICE I {#apendice1}
 
 Diretrizes do Memorial Descritivo (art. 8º, III). *(Tipo 2: diretriz de estudo; ausente do PDF enviado.)*
-Tags: #anexo-pendente #residuo-solido
+Tags: #anexo-pendente
 
 ### APÊNDICE II {#apendice2}
 
 Diretrizes do Plano de Teste de Queima (art. 8º, V). *(Tipo 2: diretriz de estudo; ausente do PDF enviado.)*
-Tags: #anexo-pendente #residuo-solido
+Tags: #anexo-pendente
 
 ### APÊNDICE III {#apendice3}
 
 Diretrizes do Relatório de Teste de Tecnologia – RTT (art. 8º, IX). *(Tipo 2: diretriz de estudo; ausente do PDF enviado.)*
-Tags: #anexo-pendente #residuo-solido
+Tags: #anexo-pendente
 
 
 ## Notas de transcrição {#notas-transcricao}

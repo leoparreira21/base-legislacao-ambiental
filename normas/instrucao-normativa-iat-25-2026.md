@@ -33,7 +33,6 @@ RESOLVE
 
 ###### Art. 1º {#art1}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer requisitos, critérios, diretrizes e procedimentos para o Licenciamento Ambiental de empreendimentos de Avicultura com aproveitamento econômico.
 
@@ -41,7 +40,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 2º {#art2}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 2º, caput** {#art2_cpt} Para fins desta Instrução Normativa, os empreendimentos de avicultura serão classificados de acordo com a tipologia, sistema de criação e porte:
 
@@ -60,7 +58,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 3º {#art3}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 3º, caput** {#art3_cpt} Esta instrução Normativa se aplica às atividades de avicultura comercial, como granjas, postura comercial, recria de matrizes, postura de ovos férteis e avicultura de corte.
 **Art. 3º, § 1º** {#art3_par1} Esta Instrução Normativa não se aplica aos empreendimentos de avicultura de subsistência cuja área construída seja igual ou inferior a 50 m², os quais são isentos de licenciamento ambiental.
@@ -70,7 +67,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 4º {#art4}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 4º, caput** {#art4_cpt} Para fins desta Instrução Normativa consideram–se as seguintes definições:
 
@@ -99,7 +95,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 5º {#art5}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 5º, caput** {#art5_cpt} O órgão licenciador competente, no exercício de sua competência de controle ambiental, expedirá, para fins de licenciamento ambiental de empreendimentos de avicultura os seguintes atos administrativos:
 
@@ -155,7 +150,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 6º {#art6}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 6º, caput** {#art6_cpt} Para fins desta Instrução Normativa constituem modalidades de licenciamento ambiental:
 
@@ -191,7 +185,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 7º {#art7}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 7º, caput** {#art7_cpt} Os empreendimentos de avicultura serão classificados de acordo com a tipologia, sistema de criação e porte:
 
@@ -213,22 +206,18 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 8º {#art8}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 8º, caput** {#art8_cpt} Para a concessão do licenciamento ambiental de empreendimentos de avicultura, devem ser considerados os critérios de licenciamento estabelecidos nas tabelas constantes do ANEXO I.
 ###### Art. 9º {#art9}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 9º, caput** {#art9_cpt} Ficam passíveis de Dispensa de Licenciamento Ambiental os portes estabelecidos nas tabelas constantes do ANEXO I, que atendam aos critérios estabelecidos no [[decreto-estadual-9541-2025|Decreto Estadual n° 9.541]], de 10 de abril de 2025.
 ###### Art. 10º {#art10}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 10º, caput** {#art10_cpt} Ficam passíveis de Licenciamento Ambiental por Adesão e Compromisso, os portes estabelecidos nas tabelas constantes do ANEXO I desde que atendidos os critérios estabelecidos no [[decreto-estadual-9541-2025|Decreto Estadual n° 9.541]], de 10 de abril de 2025.
 ###### Art. 11º {#art11}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 11º, caput** {#art11_cpt} Havendo qualquer alteração nas características do porte nos empreendimentos e/ou atividades que implique na mudança da modalidade de licenciamento, deverá ser requerido novo procedimento de licenciamento ambiental pelo empreendedor.
 
@@ -239,7 +228,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 12º {#art12}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 12º, caput** {#art12_cpt} Os requerimentos para Declaração de Dispensa de Licenciamento Ambiental – DLAM, devem ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -295,12 +283,10 @@ Tags: #avicultura #licenciamento-ambiental
 Parágrafo único. A efetiva operação do empreendimento deve ser condicionada à emissão da(s) respectiva(s) Portaria(s) de Outorga de Direito e/ou Declaração(ões) de Uso Independente ou Declaração(ões) de Uso Insignificante de Outorga de Uso de Recursos Hídricos, se aplicável.
 ###### Art. 13º {#art13}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 13º, caput** {#art13_cpt} Deverá ser solicitada à respectiva Licença Ambiental para qualquer alteração nas características do porte do empreendimento.
 ###### Art. 14º {#art14}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 14º, caput** {#art14_cpt} A Dispensa do Licenciamento Ambiental – DLAM não exime das exigências legais quanto à preservação do meio ambiente.
 
@@ -308,7 +294,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 15º {#art15}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 15º, caput** {#art15_cpt} A Licença Ambiental por Adesão e Compromisso – LAC, deverá ser requerida por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -382,7 +367,6 @@ Parágrafo único. A efetiva operação do empreendimento deve ser condicionada 
 
 ###### Art. 16º {#art16}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 16º, caput** {#art16_cpt} Os requerimentos para Licença Ambiental Simplificada – LAS deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -470,7 +454,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 17º {#art17}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 17º, caput** {#art17_cpt} A operação do empreendimento está condicionada a apresentação dos seguintes documentos:
 
@@ -481,7 +464,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 18º {#art18}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 18º, caput** {#art18_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença Ambiental Simplificada – LAS somente poderá ser emitida acompanhada da respectiva Autorização Florestal e Autorização Ambiental referente à fauna, emitidas pelo órgão ambiental.
 Parágrafo único. A LAS contemplará as condicionantes estabelecidas na Autorização Florestal e da Autorização Ambiental – AA referente à fauna.
@@ -490,7 +472,6 @@ Parágrafo único. A LAS contemplará as condicionantes estabelecidas na Autoriz
 
 ###### Art. 19º {#art19}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 19º, caput** {#art19_cpt} Os empreendimentos definidos no CAPÍTULO IV dessa instrução, que necessitam de Licenças Prévia, de Instalação e de Operação, deverão requerê- las sucessivamente.
 Parágrafo único. Este procedimento se aplica à novos empreendimentos.
@@ -499,7 +480,6 @@ Parágrafo único. Este procedimento se aplica à novos empreendimentos.
 
 ###### Art. 20º {#art20}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 20º, caput** {#art20_cpt} Os requerimentos para Licença Prévia – LP, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -575,12 +555,10 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 21º {#art21}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 21º, caput** {#art21_cpt} Nos procedimentos de Licença Prévia – LP, quando necessária a supressão de vegetação, esta somente poderá ser emitida após a manifestação sobre a tipologia florestal e sua viabilidade de supressão, visando análise integrada do licenciamento.
 ###### Art. 22º {#art22}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 22º, caput** {#art22_cpt} A Licença Prévia não possibilita renovação, apenas prorrogação desde que não tenha sido concedido o prazo máximo.
 
@@ -588,7 +566,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 23º {#art23}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 23º, caput** {#art23_cpt} Os requerimentos para Licença de Instalação – LI, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -620,7 +597,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 24º {#art24}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 24º, caput** {#art24_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença de Instalação – LI, somente poderá ser emitida acompanhada da respectiva Autorização Florestal e Autorização Ambiental referente à fauna, emitidas pelo órgão ambiental.
 Parágrafo único. A LI contemplará as condicionantes estabelecidas na Autorização Florestal e da Autorização Ambiental – AA referente à fauna.
@@ -629,7 +605,6 @@ Parágrafo único. A LI contemplará as condicionantes estabelecidas na Autoriza
 
 ###### Art. 25º {#art25}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 25º, caput** {#art25_cpt} Os requerimentos para Licença De Operação – LO, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -676,7 +651,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 26º {#art26}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 26º, caput** {#art26_cpt} O órgão ambiental competente estabelecerá os prazos de validade para cada tipo de licença e autorização ambiental, especificando-os no respectivo documento, levando em consideração os seguintes aspectos:
 
@@ -720,12 +694,10 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 27º {#art27}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 27º, caput** {#art27_cpt} A Renovação do Licenciamento Ambiental se aplica à Licença Ambiental por Adesão e Compromisso, à Licença Ambiental Simplificada e à Licença de Operação.
 ###### Art. 28º {#art28}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 28º, caput** {#art28_cpt} A Prorrogação do Licenciamento Ambiental se aplica à Licença Prévia, Licença Prévia de Ampliação, Licença de Instalação, Licença de Instalação de Ampliação e Licença de Instalação de Regularização desde que:
 
@@ -742,7 +714,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 29º {#art29}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 29º, caput** {#art29_cpt} Os requerimentos para Renovação de Licença Ambiental por Adesão e Compromisso – LAC deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -836,7 +807,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 30º {#art30}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 30º, caput** {#art30_cpt} Os requerimentos para Renovação da Licença Ambiental Simplificada – LAS, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -904,7 +874,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 31º {#art31}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 31º, caput** {#art31_cpt} Os requerimentos para Renovação de Licença de Operação – RLO, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -972,13 +941,11 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 32º {#art32}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 32º, caput** {#art32_cpt} Para as ampliações e/ou alterações definitivas nos empreendimentos e/ou atividades detentoras de Licença de Operação – LO ou de Licença Ambiental Simplificada – LAS e que acarretem em impactos ambientais na sua instalação e operação, bem como caracterizem aumento de potencial poluidor/degradador do meio ambiente, deve ser requerido o licenciamento específico, trifásico ou bifásico, para a parte ampliada ou alterada.
 Parágrafo único. No caso de obras e/ou alterações que não acarretem em impactos ambientais na sua instalação e operação, tampouco aumento do potencial poluidor/degradador do meio ambiente, poderá ser requerida Autorização Ambiental.
 ###### Art. 33º {#art33}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 33º, caput** {#art33_cpt} As informações prestadas nos requerimentos de licenciamento de ampliação deverão contemplar o empreendimento em operação, bem como ampliação prevista.
 
@@ -986,12 +953,10 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 34º {#art34}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 34º, caput** {#art34_cpt} A Licença Ambiental Simplificada de Ampliação – LASA aprova a localização e a concepção de ampliações ou alterações definitivas nos empreendimentos e/ou atividades detentoras de Licença Ambiental Simplificada – LAS, somente nos casos em que a somatória do porte da estrutura existente acrescida da estrutura a ser licenciada não ultrapasse o limite estabelecido para a referida licença em normas específicas, caso contrário estará sujeito à Licença Prévia de Ampliação – LPA.
 ###### Art. 35º {#art35}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 35º, caput** {#art35_cpt} Os requerimentos para Licença Ambiental Simplificada de Ampliação– LASA, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -1085,7 +1050,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 17º (repetido no original) {#art17-a}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 17º, caput** {#art17-a_cpt} A operação da estrutura ampliada do empreendimento está condicionada a apresentação dos seguintes documentos:
 
@@ -1096,7 +1060,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 36º {#art36}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 36º, caput** {#art36_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença Ambiental Simplificada de Ampliação - LASA somente poderá ser emitida acompanhada da respectiva Autorização Florestal e Autorização Ambiental referente à fauna, emitidas pelo órgão ambiental.
 Parágrafo único. A LASA contemplará as condicionantes estabelecidas na Autorização Florestal e da Autorização Ambiental - AA referente à fauna.
@@ -1105,12 +1068,10 @@ Parágrafo único. A LASA contemplará as condicionantes estabelecidas na Autori
 
 ###### Art. 37º {#art37}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 37º, caput** {#art37_cpt} A Licença Prévia de Ampliação - LPA se aplica para empreendimentos e/ou atividades detentoras de Licença Ambiental Simplificada – LAS Licença de Operação – LO.
 ###### Art. 38º {#art38}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 38º, caput** {#art38_cpt} Os requerimentos para Licença Prévia de Ampliação – LPA, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -1201,12 +1162,10 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 39º {#art39}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 39º, caput** {#art39_cpt} Nos procedimentos de Licença Prévia de Ampliação - LPA, quando necessária a supressão de vegetação, esta somente poderá ser emitida após a manifestação sobre a tipologia florestal e sua viabilidade de supressão, visando análise integrada do licenciamento.
 ###### Art. 40º {#art40}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 40º, caput** {#art40_cpt} A Licença Prévia de Ampliação não possibilita renovação, apenas prorrogação desde que não tenha sido concedido o prazo máximo.
 
@@ -1214,12 +1173,10 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 41º {#art41}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 41º, caput** {#art41_cpt} A Licença de Instalação de Ampliação – LIA se aplica exclusivamente para os empreendimentos e/ou atividades detentores de Licença Prévia de Ampliação – LPA.
 ###### Art. 42º {#art42}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 42º, caput** {#art42_cpt} Os requerimentos para Licença de Instalação de Ampliação – LIA, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -1254,7 +1211,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 43º {#art43}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 43º, caput** {#art43_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença de Instalação de Ampliação - LIA, somente poderá ser emitida acompanhada da respectiva Autorização Florestal e Autorização Ambiental referente à fauna, emitidas pelo órgão ambiental.
 Parágrafo único. A LIA contemplará as condicionantes estabelecidas na Autorização Florestal e da Autorização Ambiental - AA referente à fauna.
@@ -1263,12 +1219,10 @@ Parágrafo único. A LIA contemplará as condicionantes estabelecidas na Autoriz
 
 ###### Art. 44º {#art44}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 44º, caput** {#art44_cpt} A Licença de Operação se aplica exclusivamente para os empreendimentos e/ou atividades detentores de Licença Prévia de Ampliação – LPA, no caso de licenciamento bifásico, ou de Licença de Instalação de Ampliação – LIA, no caso de licenciamento bifásico.
 ###### Art. 45º {#art45}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 45º, caput** {#art45_cpt} Os requerimentos para Licença de Operação de Ampliação – LOA, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -1318,12 +1272,10 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 46º {#art46}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 46º, caput** {#art46_cpt} Para melhorias em sistemas de tratamento, destinação final de animais mortos ou execução de obras diversas, deverá ser solicitada uma Autorização Ambiental específica, desde que não haja alteração no porte do empreendimento, diversificação da atividade, aumento do potencial poluidor ou qualquer mudança que implique na alteração da modalidade de licenciamento.
 ###### Art. 47º {#art47}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 47º, caput** {#art47_cpt} A Autorização Ambiental – AA, deverá ser requerida por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -1381,7 +1333,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 48º {#art48}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 48º, caput** {#art48_cpt} A Regularização do licenciamento ambiental de empreendimentos e/ou atividades potencialmente poluidoras/degradadoras, do meio ambiente, em instalação ou em operação, deverá ser requerida nos seguintes casos:
 
@@ -1398,7 +1349,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 49º {#art49}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 49º, caput** {#art49_cpt} As licenças de regularização somente serão emitidas quando houver viabilidade locacional, técnica e jurídica do empreendimento e/ou atividade.
 
@@ -1412,12 +1362,10 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 50º {#art50}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 50º, caput** {#art50_cpt} A Licença de Regularização estará condicionada à realização de vistoria por técnico habilitado.
 ###### Art. 51º {#art51}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 51º, caput** {#art51_cpt} O estudo ambiental e documentos complementares a serem apresentados serão definidos pelo IAT, com base na relação entre o potencial poluidor/degradador, o porte e a localização do empreendimento e/ou atividade.
 
@@ -1425,7 +1373,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 52º {#art52}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 52º, caput** {#art52_cpt} Os requerimentos para Licença Ambiental Simplificada de Regularização – LASR, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo.
 
@@ -1508,7 +1455,6 @@ Parágrafo único. A Licença Ambiental Simplificada de Regularização – LASR
 
 ###### Art. 53º {#art53}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 53º, caput** {#art53_cpt} A Licença de Instalação de Regularização – LIR se aplica para os empreendimentos e/ou atividades sem a respectiva LI, mesmo que tenha obtido a LP, pois esta não autoriza início das obras.
 
@@ -1587,12 +1533,10 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 54º {#art54}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 54º, caput** {#art54_cpt} A Licença de Operação de Regularização - LOR se aplica para os empreendimentos e/ou atividades sem a respectiva LO, mesmo que tenha obtido a LI, pois esta não autoriza início de operação.
 ###### Art. 55º {#art55}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 55º, caput** {#art55_cpt} Os requerimentos para Licença de Operação de Regularização – LOR, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -1687,12 +1631,10 @@ Parágrafo único. A Licença de Operação de Regularização – LOR somente p
 
 ###### Art. 56º {#art56}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 56º, caput** {#art56_cpt} As propriedades avícolas deverão obrigatoriamente implantar medidas para controle do consumo de água, como instalação de hidrômetros, redução do consumo de água de limpeza, reuso de água e evitar a entrada de água da chuva nas instalações.
 ###### Art. 57º {#art57}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 57º, caput** {#art57_cpt} Os efluentes líquidos gerados pela atividade de avicultura poderão ser lançados, direta ou indiretamente no corpo receptor, desde que atenda as seguintes condições:
 
@@ -1722,7 +1664,6 @@ Parágrafo único. Os padrões poderão ser mais restritivos em função da disp
 
 ###### Art. 58º {#art58}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 58º, caput** {#art58_cpt} Para uso agrícola dos resíduos, devem ser considerados os seguintes aspectos:
 
@@ -1736,7 +1677,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 59º {#art59}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 59º, caput** {#art59_cpt} Os animais mortos deverão ser dispostos adequadamente, utilizando tecnologias de disposição específicas estabelecidas pelos órgãos competentes e atendendo a [[portaria-iap-gp-106-2018|Portaria IAP/GP nº 106]], de 30 de maio de 2018.
 
@@ -1744,7 +1684,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 60º {#art60}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 60º, caput** {#art60_cpt} As emissões atmosféricas deverão atender os critérios e padrões de emissões atmosféricas estabelecidos na [[resolucao-sedest-2-2025|Resolução SEDEST Nº 02]]/2025 ou outra que venha substituí-la.
 Parágrafo único. Ficam dispensados de automonitoramento de emissões atmosféricas as fontes de geração de calor com potência térmica nominal inferior a 10MW, utilizadas exclusivamente para aquecimento de ambiente, conforme estabelecido na [[resolucao-sedest-2-2025|Resolução SEDEST nº 02]], de 16 de janeiro de 2025 ou outra que vier a substituí-la.
@@ -1753,7 +1692,6 @@ Parágrafo único. Ficam dispensados de automonitoramento de emissões atmosfér
 
 ###### Art. 61º {#art61}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 61º, caput** {#art61_cpt} A implantação de empreendimentos de avicultura quanto à localização, deverá atender, no mínimo, os seguintes critérios:
 
@@ -1784,7 +1722,6 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 62º {#art62}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 62º, caput** {#art62_cpt} No caso do empreendimento de avicultura estar localizado em área de manancial, deverá solicitar manifestação da Diretoria de Saneamento Ambiental e Recursos Hídricos – DISAR do IAT e quando se tratar da Região Metropolitana de Curitiba deverá solicitar manifestação da Agência de Assuntos Metropolitanos do Paraná – AMEP.
 
@@ -1792,57 +1729,46 @@ Tags: #avicultura #licenciamento-ambiental
 
 ###### Art. 63º {#art63}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 63º, caput** {#art63_cpt} A implantação de dois ou mais empreendimentos de avicultura na mesma matrícula do imóvel deverá ser licenciado como um único empreendimento, devendo os interessados constituir condomínio.
 ###### Art. 64º {#art64}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 64º, caput** {#art64_cpt} Para fins de isenção da taxa ambiental, deverá ser solicitada declaração emitida pelo Instituto de Desenvolvimento Rural do Paraná – IDR-Paraná, Sindicatos Rurais ou ainda a Declaração de Aptidão do PRONAF - DAP.
 ###### Art. 65º {#art65}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 65º, caput** {#art65_cpt} Os casos omissos em relação ao licenciamento de empreendimentos de avicultura, quanto ao porte e potencial poluidor, serão definidos pelo órgão ambiental.
 ###### Art. 66º {#art66}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 66º, caput** {#art66_cpt} Caso haja necessidade, o órgão ambiental competente solicitará, a qualquer momento, outros documentos e/ou informações complementares do requerente ou de outras instituições envolvidas no licenciamento ambiental em questão, assim como, anotação ou registro de responsabilidade técnica pela implantação e conclusão de eventuais estudos ambientais.
 ###### Art. 67º {#art67}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 67º, caput** {#art67_cpt} A concessão da Licença Ambiental não substitui alvarás e/ou certidões de qualquer natureza que possam ser exigidos pela legislação federal, estadual ou municipal.
 ###### Art. 68º {#art68}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 68º, caput** {#art68_cpt} O órgão ambiental competente poderá complementar os critérios estabelecidos na presente Instrução Normativa de acordo com o desenvolvimento científico e tecnológico e a necessidade de preservação ambiental.
 ###### Art. 69º {#art69}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 69º, caput** {#art69_cpt} Quando da necessidade da manifestação de órgãos intervenientes externos ao órgão licenciador, tais como FUNAI, INCRA, IPHAN, ICMBio, CEPHA, DNIT, DER, entre outros, será seguido o procedimento conforme estabelece o Art. 126 do [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541]], de 10 de abril de 2025.
 ###### Art. 70º {#art70}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 70º, caput** {#art70_cpt} Os estudos ambientais deverão estar devidamente acompanhados de Anotação de Responsabilidade Técnica – ART, exceto nos casos informados explicitamente nesta Instrução Normativa.
 ###### Art. 71º {#art71}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 71º, caput** {#art71_cpt} Constatada a existência de pendência judicial envolvendo o empreendedor, o empreendimento ou o imóvel, a decisão administrativa sobre a eventual suspensão do licenciamento será precedida de manifestação jurídica do órgão ambiental competente.
 ###### Art. 72º {#art72}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 72º, caput** {#art72_cpt} O não cumprimento do disposto nesta Instrução Normativa sujeitará o(s) infrator(es) às sanções previstas na [[lei-federal-9605-1998|Lei nº 9.605]], de 12 de fevereiro de 1998 e seus decretos regulamentadores, sem prejuízo do dever de recuperar os danos ambientais causados, na forma do §3º, Art. 225 da Constituição Federal, e do § 1°, Art. 14 da [[lei-federal-6938-1981|Lei Federal nº 6.938]], de 31 de agosto de 1981.
 ###### Art. 73º {#art73}
 
-Tags: #avicultura #licenciamento-ambiental
 
 **Art. 73º, caput** {#art73_cpt} Esta Instrução Normativa entra em vigor na data de sua publicação, tornando sem efeito a [[instrucao-normativa-iat-36-2025|Instrução Normativa nº 36]], de 28 de abril de 2025. Curitiba, 14 de agosto de 2026. JOSÉ VOLNEI BISOGNIN Diretor–Presidente do Instituto Água e Terra
 

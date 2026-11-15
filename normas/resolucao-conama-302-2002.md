@@ -31,12 +31,10 @@ fonte: "PDF da publicação Resoluções do CONAMA (Áreas protegidas – Áreas
 **Preâmbulo** {#preambulo} O CONSELHO NACIONAL DO MEIO AMBIENTE-CONAMA, no uso das competências que lhe são conferidas pela [[lei-federal-6938-1981|Lei nº 6.938, de 31 de agosto de 1981]], regulamentada pelo [[decreto-federal-99274-1990|Decreto no 99.274, de 6 de junho de 1990]], e tendo em vista o disposto nas Leis nos 4.771, de 15 de setembro de 1965, 9.433, de 8 de janeiro de 1997, e no seu Regimento Interno, e Considerando que a função sócio-ambiental da propriedade prevista nos arts. 5o, inciso XXIII, 170, inciso VI, 182, § 2o, 186, inciso II e 225 da Constituição, os princípios da prevenção, da precaução e do poluidor-pagador; Considerando a necessidade de regulamentar o [[lei-federal-4771-1965#art2|art. 2o da Lei nº 4.771, de 1965]], no que concerne às Áreas de Preservação Permanente no entorno dos reservatórios artificiais; Considerando as responsabilidades assumidas pelo Brasil por força da Convenção da Biodiversidade, de 1992, da Convenção de Ramsar, de 1971 e da Convenção de Washington, de 1940, bem como os compromissos derivados da Declaração do Rio de Janeiro, de 1992; Considerando que as Áreas de Preservação Permanente e outros espaços territoriais especialmente protegidos, como instrumento de relevante interesse ambiental, integram o desenvolvimento sustentável, objetivo das presentes e futuras gerações; Considerando a função ambiental das Áreas de Preservação Permanente de preservar os recursos hídricos, a paisagem, a estabilidade geológica, a biodiversidade, o fluxo gênico de fauna e flora, proteger o solo e assegurar o bem estar das populações humanas, resolve:
 
 ###### Art. 1º {#art1}
-Tags: #app #reservatorio #plano-manejo
 
 **Art. 1º, caput** {#art1_cpt} Constitui objeto da presente Resolução o estabelecimento de parâmetros, definições e limites para as Áreas de Preservação Permanente de reservatório artificial e a instituição da elaboração obrigatória de plano ambiental de conservação e uso do seu entorno.
 
 ###### Art. 2º {#art2}
-Tags: #definicao #reservatorio #app #area-urbana-consolidada
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução são adotadas as seguintes definições:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} Reservatório artificial: acumulação não natural de água destinada a quaisquer de seus múltiplos usos;
@@ -55,7 +53,6 @@ Tags: #definicao #reservatorio #app #area-urbana-consolidada
   - **Art. 2º, caput, inciso V, alínea "c"** {#art2_cpt_inc5_alic} densidade demográfica superior a cinco mil habitantes por km2.
 
 ###### Art. 3º {#art3}
-Tags: #app #reservatorio #distancia-minima
 
 **Art. 3º, caput** {#art3_cpt} Constitui Área de Preservação Permanente a área com largura mínima, em projeção horizontal, no entorno dos reservatórios artificiais, medida a partir do nível máximo normal de:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} trinta metros para os reservatórios artificiais situados em áreas urbanas consolidadas e cem metros para áreas rurais;
@@ -78,7 +75,6 @@ Tags: #app #reservatorio #distancia-minima
 **Art. 3º, § 6º** {#art3_par6} Não se aplicam as disposições deste artigo às acumulações artificiais de água, inferiores a cinco hectares de superfície, desde que não resultantes do barramento ou represamento de cursos d`água e não localizadas em Área de Preservação Permanente, à exceção daquelas destinadas ao abastecimento público.
 
 ###### Art. 4º {#art4}
-Tags: #reservatorio #consulta-publica #licenciamento-ambiental #comite-bacia
 
 **Art. 4º, caput** {#art4_cpt} O empreendedor, no âmbito do procedimento de licenciamento ambiental, deve elaborar o plano ambiental de conservação e uso do entorno de reservatório artificial em conformidade com o termo de referência expedido pelo órgão ambiental competente, para os reservatórios artificiais destinados à geração de energia e abastecimento público.
 **Art. 4º, § 1º** {#art4_par1} Cabe ao órgão ambiental competente aprovar o plano ambiental de conservação e uso do entorno dos reservatórios artificiais, considerando o plano de recursos hídricos, quando houver, sem prejuízo do procedimento de licenciamento ambiental.
@@ -88,13 +84,11 @@ Tags: #reservatorio #consulta-publica #licenciamento-ambiental #comite-bacia
 **Art. 4º, § 5º** {#art4_par5} As áreas previstas no parágrafo anterior somente poderão ser ocupadas respeitadas a legislação municipal, estadual e federal, e desde que a ocupação esteja devidamente licenciada pelo órgão ambiental competente.
 
 ###### Art. 5º {#art5}
-Tags: #direito-transicao #reservatorio #app
 
 **Art. 5º, caput** {#art5_cpt} Aos empreendimentos objeto de processo de privatização, até a data de publicação desta Resolução, aplicam-se as exigências ambientais vigentes à época da privatização, inclusive os cem metros mínimos de Área de Preservação Permanente.
 **Art. 5º, parágrafo único** {#art5_par1u} Aos empreendimentos que dispõem de licença de operação aplicamse as exigências nela contidas.
 
 ###### Art. 6º {#art6}
-Tags: #vigencia #licenciamento-ambiental
 
 **Art. 6º, caput** {#art6_cpt} Esta Resolução entra em vigor na data de sua publicação, incidindo, inclusive, sobre os processos de licenciamento ambiental em andamento.
 

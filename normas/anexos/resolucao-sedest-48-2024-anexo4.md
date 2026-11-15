@@ -19,23 +19,23 @@ fonte: "Res__SEDEST_48_2024_-_ANEXO_IV.pdf (1 página), enviado por Leo"
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo IV, linha 1** {#anexo4_lin1} #responsavel-tecnico 1. Identificação do empreendedor e do responsável técnico do empreendimento;
+- **Anexo IV, linha 1** {#anexo4_lin1} 1. Identificação do empreendedor e do responsável técnico do empreendimento;
 - **Anexo IV, linha 2** {#anexo4_lin2} 2. Localização do empreendimento a ser instalado/ou e funcionamento;
-- **Anexo IV, linha 3** {#anexo4_lin3} #app #corpo-hidrico 2.1. Para empreendimentos de médio e grande porte: planta de localização do empreendimento, delimitando sua poligonal em Coordenadas Geográficas (admitido erro de até 30 m), com indicação de APP, Corpos Hídricos e Acessos;
-- **Anexo IV, linha 4** {#anexo4_lin4} #aquicultura 3. Características técnicas do empreendimento (descrever todo manejo produtivo):
+- **Anexo IV, linha 3** {#anexo4_lin3} 2.1. Para empreendimentos de médio e grande porte: planta de localização do empreendimento, delimitando sua poligonal em Coordenadas Geográficas (admitido erro de até 30 m), com indicação de APP, Corpos Hídricos e Acessos;
+- **Anexo IV, linha 4** {#anexo4_lin4} 3. Características técnicas do empreendimento (descrever todo manejo produtivo):
 - **Anexo IV, linha 5** {#anexo4_lin5} 3.1. Descrição e justificativa da distribuição e do número de estruturas de cultivos propostos;
 - **Anexo IV, linha 6** {#anexo4_lin6} 3.2. Descrição do processo produtivo adotado;
-- **Anexo IV, linha 7** {#anexo4_lin7} #especie-exotica 3.3. Métodos de controle da disseminação dos espécimes mantidos sob cultivo, quando couber.
+- **Anexo IV, linha 7** {#anexo4_lin7} 3.3. Métodos de controle da disseminação dos espécimes mantidos sob cultivo, quando couber.
 - **Anexo IV, linha 8** {#anexo4_lin8} 4. Descrições da infraestrutura associada a ser utilizada pelos produtores:
 - **Anexo IV, linha 9** {#anexo4_lin9} 4.1. vias de acesso;
 - **Anexo IV, linha 10** {#anexo4_lin10} 4.2. construções de apoio;
 - **Anexo IV, linha 11** {#anexo4_lin11} 4.3. depósitos de armazenamento de insumos e da produção, entre outros;
-- **Anexo IV, linha 12** {#anexo4_lin12} #impacto-ambiental 5. Impactos ambientais:
-- **Anexo IV, linha 13** {#anexo4_lin13} #impacto-ambiental #medida-mitigadora 5.1. Para empreendimentos de pequeno porte descrever os potenciais impactos ambientais gerados pelo empreendimento, indicando as respectivas medidas mitigadoras e compensatórias;
-- **Anexo IV, linha 14** {#anexo4_lin14} #impacto-ambiental 5.2. Para empreendimentos de médio e grande porte
-- **Anexo IV, linha 15** {#anexo4_lin15} #impacto-ambiental I - Identificar e avaliar os impactos ambientais nas fases de instalação, operação e desativação do empreendimento, dentre outros;
-- **Anexo IV, linha 16** {#anexo4_lin16} #medida-mitigadora 6. Medidas Mitigadoras e compensatórias: com base na avaliação dos possíveis impactos ambientais do empreendimento deverão ser propostas as medidas que venham a minimizá-los, maximizá-los, compensá-los ou eliminá-los, podendo ser consubstanciadas em Programas Ambientais;
-- **Anexo IV, linha 17** {#anexo4_lin17} #monitoramento 7. Programa de monitoramento ambiental;
+- **Anexo IV, linha 12** {#anexo4_lin12} 5. Impactos ambientais:
+- **Anexo IV, linha 13** {#anexo4_lin13} 5.1. Para empreendimentos de pequeno porte descrever os potenciais impactos ambientais gerados pelo empreendimento, indicando as respectivas medidas mitigadoras e compensatórias;
+- **Anexo IV, linha 14** {#anexo4_lin14} 5.2. Para empreendimentos de médio e grande porte
+- **Anexo IV, linha 15** {#anexo4_lin15} I - Identificar e avaliar os impactos ambientais nas fases de instalação, operação e desativação do empreendimento, dentre outros;
+- **Anexo IV, linha 16** {#anexo4_lin16} 6. Medidas Mitigadoras e compensatórias: com base na avaliação dos possíveis impactos ambientais do empreendimento deverão ser propostas as medidas que venham a minimizá-los, maximizá-los, compensá-los ou eliminá-los, podendo ser consubstanciadas em Programas Ambientais;
+- **Anexo IV, linha 17** {#anexo4_lin17} 7. Programa de monitoramento ambiental;
 - **Anexo IV, linha 18** {#anexo4_lin18} 8. Anexar ao Projeto Técnico pelo menos quatro fotografias do local do empreendimento que permitam uma visão ampla das suas condições.
 
 ## Síntese do conversor (não é texto normativo)

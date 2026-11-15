@@ -30,7 +30,7 @@ fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinad
 - **Anexo V, linha 9** {#anexo5_lin9} g. Pessoa para contato;
 - **Anexo V, linha 10** {#anexo5_lin10} h. Telefone da pessoa para contato;
 - **Anexo V, linha 11** {#anexo5_lin11} i. E-mail da pessoa para contato.
-- **Anexo V, linha 12** {#anexo5_lin12} #diagnostico-ambiental II. DIAGNÓSTICO AMBIENTAL DA ÁREA DO EMPREENDIMENTO
+- **Anexo V, linha 12** {#anexo5_lin12} II. DIAGNÓSTICO AMBIENTAL DA ÁREA DO EMPREENDIMENTO
 - **Anexo V, linha 13** {#anexo5_lin13} 1. CARACTERIZAÇÃO DA ÁREA
 - **Anexo V, linha 14** {#anexo5_lin14} Para a caracterização da área do empreendimento, deverão ser apresentadas, no mínimo, as informações abaixo relacionadas, devendo as mesmas, quando couber, serem apresentadas em mapas, plantas georreferenciadas, em escala compatível, ou através de fotos datadas, fotos aéreas, imagem de satélite e outros materiais disponíveis, com legendas explicativas da área do empreendimento e do seu entorno:
 - **Anexo V, linha 15** {#anexo5_lin15} a. Uso e ocupação do solo
@@ -44,9 +44,9 @@ fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinad
 - **Anexo V, linha 23** {#anexo5_lin23} i. Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;
 - **Anexo V, linha 24** {#anexo5_lin24} j. Caracterização da geomorfologia/relevo/permeabilidade do solo;
 - **Anexo V, linha 25** {#anexo5_lin25} k. Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais na área do empreendimento e no seu entorno;
-- **Anexo V, linha 26** {#anexo5_lin26} #impacto-ambiental #medida-mitigadora 2. IMPACTOS AMBIENTAIS E MEDIDAS MITIGADORAS, DE CONTROLE OU DE COMPENSAÇÃO
+- **Anexo V, linha 26** {#anexo5_lin26} 2. IMPACTOS AMBIENTAIS E MEDIDAS MITIGADORAS, DE CONTROLE OU DE COMPENSAÇÃO
 - **Anexo V, linha 27** {#anexo5_lin27} Identificar os principais impactos que poderão ocorrer em função da implantação do empreendimento, contemplando no mínimo os impactos abaixo. Para cada impacto indicado, descrever as medidas mitigatórias, de controle ou de compensação correspondente.
-- **Anexo V, linha 28** {#anexo5_lin28} #terraplanagem a. Obras de terraplanagem, indicando volumes de corte e aterro, planta da implantação da terraplanagem e o memorial justificativo da terraplanagem;
+- **Anexo V, linha 28** {#anexo5_lin28} a. Obras de terraplanagem, indicando volumes de corte e aterro, planta da implantação da terraplanagem e o memorial justificativo da terraplanagem;
 - **Anexo V, linha 29** {#anexo5_lin29} b. Sistema de drenagem de águas pluviais.
 - **Anexo V, linha 30** {#anexo5_lin30} c. Obras de drenagem, indicando os detalhes dos dispositivos de drenagem pluvial (boca de lobo, caixa de ligação, poço de visita, etc.) deverão ser apresentados em escala adequada.
 - **Anexo V, linha 31** {#anexo5_lin31} d. Canalização de nascentes;
@@ -59,11 +59,11 @@ fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinad
 - **Anexo V, linha 38** {#anexo5_lin38} 1. INFORMAÇÕES SOBRE POLUIÇÃO HÍDRICA
 - **Anexo V, linha 39** {#anexo5_lin39} a. Fonte(s) de abastecimento de água;
 - **Anexo V, linha 40** {#anexo5_lin40} b. Corpo receptor;
-- **Anexo V, linha 41** {#anexo5_lin41} #efluente 2. INFORMAÇÕES SOBRE EFLUENTES LÍQUIDOS
+- **Anexo V, linha 41** {#anexo5_lin41} 2. INFORMAÇÕES SOBRE EFLUENTES LÍQUIDOS
 - **Anexo V, linha 42** {#anexo5_lin42} a. Descrição do sistema de captação e disposição de águas de drenagem pluvial;
 - **Anexo V, linha 43** {#anexo5_lin43} b. Informações sobre a quantidade e qualidade (caracterização) dos efluentes líquidos gerados na atividade, inclusive daqueles gerados em lavagem de pisos, equipamentos e de oficinas, se for o caso.
 - **Anexo V, linha 44** {#anexo5_lin44} 3. PROJETO DO SISTEMA DE TRATAMENTO DE EFLUENTES LÍQUIDOS
-- **Anexo V, linha 45** {#anexo5_lin45} #esgoto-sanitario 3.1. ESGOTO SANITÁRIO
+- **Anexo V, linha 45** {#anexo5_lin45} 3.1. ESGOTO SANITÁRIO
 - **Anexo V, linha 46** {#anexo5_lin46} a. Descrição do (s) sistema (s) de tratamento (s) adotado (s) para o tratamento do esgoto sanitário;
 - **Anexo V, linha 47** {#anexo5_lin47} b. Dimensionamento (memorial de cálculo) das unidades que compõem o sistema.
 - **Anexo V, linha 48** {#anexo5_lin48} 3.2. EFLUENTES LÍQUIDOS GERADOS NA ATIVIDADE
@@ -71,18 +71,18 @@ fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinad
 - **Anexo V, linha 50** {#anexo5_lin50} b. Justificativa do sistema adotado;
 - **Anexo V, linha 51** {#anexo5_lin51} c. Dimensionamento (memorial de cálculo) das unidades que compõem o sistema;
 - **Anexo V, linha 52** {#anexo5_lin52} d. Caracterização do corpo receptor, quando lançado em corpo hídrico.
-- **Anexo V, linha 53** {#anexo5_lin53} #impermeabilizacao 4. PROJETO DO SISTEMA DE IMPERMEABILIZAÇÃO
+- **Anexo V, linha 53** {#anexo5_lin53} 4. PROJETO DO SISTEMA DE IMPERMEABILIZAÇÃO
 - **Anexo V, linha 54** {#anexo5_lin54} a. Descrição do sistema de impermeabilização adotado para o controle da infiltração das águas superficiais;
 - **Anexo V, linha 55** {#anexo5_lin55} b. O grau de permeabilidade deverá ser comprovado através da determinação do Coeficiente de Permeabilidade do Solo (k) conforme dispõe as normas técnicas vigentes.
 - **Anexo V, linha 56** {#anexo5_lin56} c. Justificativa técnica do sistema adotado que comprove a impermeabilidade;
 - **Anexo V, linha 57** {#anexo5_lin57} d. Dimensionamento (memorial de cálculo) das unidades que compõem o sistema.
-- **Anexo V, linha 58** {#anexo5_lin58} #agua-pluvial 5. PROJETO DOS SISTEMAS DE DRENAGEM DE ÁGUA PLUVIAL
+- **Anexo V, linha 58** {#anexo5_lin58} 5. PROJETO DOS SISTEMAS DE DRENAGEM DE ÁGUA PLUVIAL
 - **Anexo V, linha 59** {#anexo5_lin59} a. Descrição dos sistemas de drenagem e contenção adotados para o controle de arraste de potenciais contaminantes;
 - **Anexo V, linha 60** {#anexo5_lin60} b. Planta geral dos sistemas de drenagem, com cortes e detalhes, dimensões e especificações, contendo no mínimo: memorial descritivo, definição do sistema adotado e seus elementos constituintes, os materiais e as especificações de execução dos serviços; o memorial de cálculo que deverá elucidar os critérios adotados para o projeto; a planilha de cálculo que deverá trazer os dados, em cada trecho, que traduzam o dimensionamento do cálculo hidráulico das galerias e dos seus dispositivos.
 - **Anexo V, linha 61** {#anexo5_lin61} c. Planta geral dos sistemas de drenagem, com cortes e detalhes, dimensões e especificações, contendo: o memorial descritivo que deverá esclarecer a situação geral da obra, definir o sistema adotado e seus elementos constituintes, os materiais e as especificações de execução dos serviços; o memorial de cálculo que deverá elucidar os critérios adotados para o projeto; a planilha de cálculo que deverá trazer os dados, em cada trecho, que traduzam o dimensionamento do cálculo hidráulico das galerias e dos seus dispositivos.
-- **Anexo V, linha 62** {#anexo5_lin62} #emissao-atmosferica 6. INFORMAÇÕES SOBRE EMISSÕES ATMOSFÉRICAS
+- **Anexo V, linha 62** {#anexo5_lin62} 6. INFORMAÇÕES SOBRE EMISSÕES ATMOSFÉRICAS
 - **Anexo V, linha 63** {#anexo5_lin63} Deverão ser apresentadas as medidas de controle a serem com relação as emissões geradas na movimentação de caminhões, especificando as medidas a serem tomadas para atender os padrões de emissão e os padrões de qualidade do ar no entorno, ambos estabelecidos na legislação vigente.
-- **Anexo V, linha 64** {#anexo5_lin64} #pgrs #residuo-solido 7. PLANO DE GERENCIAMENTO DE RESÍDUOS SÓLIDOS - PGRS
+- **Anexo V, linha 64** {#anexo5_lin64} 7. PLANO DE GERENCIAMENTO DE RESÍDUOS SÓLIDOS - PGRS
 - **Anexo V, linha 65** {#anexo5_lin65} 7.1. IDENTIFICAÇÃO DOS RESÍDUOS QUE SERÃO GERADOS
 - **Anexo V, linha 66** {#anexo5_lin66} Informar em formato de tabela os resíduos gerados pela atividade, descrição do resíduo, estado físico, classificação e código, com base na Norma NBR 10.004 – Classificação de Resíduos Sólidos, ponto de geração e quantidade mensal de geração.
 

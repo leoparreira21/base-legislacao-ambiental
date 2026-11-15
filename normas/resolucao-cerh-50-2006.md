@@ -34,26 +34,22 @@ fonte: "PDF de 6 páginas, em papel timbrado da Secretaria de Estado do Meio Amb
 resolve:
 
 ###### Art. 1º {#art1}
-Tags: #cobranca-uso-agua #suderhsa #comite-bacia #prazo
 
 **Art. 1º, caput** {#art1_cpt} Caberá à Superintendência de Desenvolvimento de Recursos Hídricos e Saneamento Ambiental – SUDERHSA, no prazo de até cinco anos contados a partir da data de publicação desta Resolução, o estabelecimento da escala de valores a serem adotados para os fatores FI a FV utilizados no cálculo do coeficiente regional – Kr, bem como a sugestão dos pesos PI a PV correspondentes a cada fator, em atendimento aos [[decreto-estadual-5361-2002#art19|§§ 6°, 7° e 8°, do art. 19, Capítulo V do Decreto n° 5.361/02]].
 
 **Art. 1º, parágrafo único** {#art1_par1u} Até o estabelecimento dos valores do coeficiente regional de que trata o [[#art1_cpt|caput deste artigo]], propõe-se aos Comitês de Bacia Hidrográfica que o valor a ser utilizado seja de Kr = 1.
 
 ###### Art. 2º {#art2}
-Tags: #cobranca-uso-agua #suderhsa #comite-bacia #prazo
 
 **Art. 2º, caput** {#art2_cpt} Caberá à SUDERHSA, no prazo de até cinco anos contados a partir da data de publicação desta Resolução, elaborar estudos que subsidiarão os respectivos Comitês de Bacias no que se refere à determinação dos valores, ou escala de variação do Coeficiente Sazonal – Ks, em atendimento ao disposto no [[decreto-estadual-5361-2002#art19_par9|§ 9o do art. 19, Capítulo V do Decreto n° 5.361/02]].
 
 **Art. 2º, parágrafo único** {#art2_par1u} Até o estabelecimento dos valores do coeficiente sazonal de que trata o [[#art1_cpt|caput deste artigo]], propõe-se aos Comitês de Bacia Hidrográfica que o valor a ser utilizado seja de Ks = 1.
 
 ###### Art. 3º {#art3}
-Tags: #cobranca-uso-agua #suderhsa #cerh #efluente #esgoto-sanitario #prazo
 
 **Art. 3º, caput** {#art3_cpt} Caberá à SUDERHSA, no prazo de dois anos contados a partir da data de publicação desta Resolução, apresentação de proposta ao Conselho Estadual de Recursos Hídricos visando a definição de critérios de cobrança relativa aos efluentes gerados em áreas não atendidas com coleta e tratamento de esgoto doméstico.
 
 ###### Art. 4º {#art4}
-Tags: #cobranca-uso-agua #captacao #abastecimento-publico #comite-bacia #vazao
 
 **Art. 4º, caput** {#art4_cpt} Os quantitativos referentes à parcela de volume consumido na fórmula do cálculo dos valores de cobrança correspondentes a derivações ou captação de parcela de água existente em um corpo hídrico superficial para consumo final estabelecido no [[decreto-estadual-5361-2002#art19_cpt_inc1|inciso I, do art.19, Capítulo V, do Decreto n°5.361/02]], serão:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} abastecimento público:
@@ -92,7 +88,6 @@ Tags: #cobranca-uso-agua #captacao #abastecimento-publico #comite-bacia #vazao
     Vcp = Volume Captado.
 
 ###### Art. 5º {#art5}
-Tags: #cobranca-uso-agua #agua-subterranea #captacao #abastecimento-publico #comite-bacia
 
 **Art. 5º, caput** {#art5_cpt} Os quantitativos referentes à parcela de volume consumido na fórmula do cálculo dos valores de cobrança referentes à extração de água de aqüíferos subterrâneos para consumo final, serão:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} abastecimento público:
@@ -141,12 +136,10 @@ Tags: #cobranca-uso-agua #agua-subterranea #captacao #abastecimento-publico #com
     Vcp = Volume Captado.
 
 ###### Art. 6º {#art6}
-Tags: #cobranca-uso-agua #lancamento #efluente
 
 **Art. 6º, caput** {#art6_cpt} Para lançamento em corpo hídrico, de esgotos e demais resíduos líquidos ou gasosos, coletados ou não, com o fim de sua diluição, transporte ou disposição final deverão ser utilizadas as fórmulas e os parâmetros apresentados no [[decreto-estadual-5361-2002#art19_cpt_inc3|inciso III, artigo 19, capítulo V do Decreto 5361, de 26 de fevereiro de 2002]].
 
 ###### Art. 7º {#art7}
-Tags: #cobranca-uso-agua #incentivo #incentivo-reuso #agua-pluvial #suderhsa #comite-bacia
 
 **Art. 7º, caput** {#art7_cpt} A título de incentivo, serão aceitos como bonificação do pagamento da cobrança pelo direito de uso dos recursos hídricos, parte dos custos das benfeitorias e equipamentos, efetivamente destinados:
 - **Art. 7º, caput, inciso I** {#art7_cpt_inc1} à captação, armazenamento e uso das águas de chuva;
@@ -156,7 +149,6 @@ Tags: #cobranca-uso-agua #incentivo #incentivo-reuso #agua-pluvial #suderhsa #co
 **Art. 7º, parágrafo único** {#art7_par1u} A SUDERHSA, ouvindo os respectivos Comitês de Bacia Hidrográfica, apresentará ao CERH, critérios de bonificação referentes às práticas constantes do caput deste artigo.
 
 ###### Art. 8º {#art8}
-Tags: #cobranca-uso-agua #divida-ativa #multa #suspensao-outorga #outorga
 
 **Art. 8º, caput** {#art8_cpt} O não pagamento dos débitos decorrentes da cobrança pelo direito de uso de recursos hídricos, até o término do prazo para o seu recolhimento, sujeitará os respectivos responsáveis:
 - **Art. 8º, caput, inciso I** {#art8_cpt_inc1} à cobrança amigável do débito, acrescido de multa de 5% (cinco por cento) e de juros de 1% ao mês, a título de mora;
@@ -164,12 +156,10 @@ Tags: #cobranca-uso-agua #divida-ativa #multa #suspensao-outorga #outorga
 - **Art. 8º, caput, inciso III** {#art8_cpt_inc3} à suspensão e à revogação da outorga, independentemente da cobrança do débito, nos termos do [[decreto-estadual-4646-2001#art34_cpt_inc5|Artigo. 34, Inciso V, do Decreto Estadual n°4.646/01]].
 
 ###### Art. 9º {#art9}
-Tags: #cobranca-uso-agua #multa #fundo-estadual-recursos-hidricos #comite-bacia
 
 **Art. 9º, caput** {#art9_cpt} O valor decorrente da aplicação de multas, oriundo da inadimplência do pagamento da cobrança será destinado à respectiva sub conta do Comitê de Bacias junto ao Fundo Estadual de Recursos Hídricos - FRHI.
 
 ###### Art. 10 {#art10}
-Tags: #cobranca-uso-agua #abastecimento-publico #cerh
 
 **Art. 10, caput** {#art10_cpt} O Conselho Estadual de Recursos Hídricos determina ao outorgado que, se houver repasse dos valores de cobrança pelo uso de recursos hídricos aos consumidores finais de serviços de abastecimento público, os consumidores de baixa renda recebam algum tipo de benefício.
 
@@ -178,7 +168,6 @@ Tags: #cobranca-uso-agua #abastecimento-publico #cerh
 - **Art. 10, parágrafo único, inciso II** {#art10_par1u_inc2} nos municípios onde a estrutura tarifária não contemple a “tarifa social” ou equivalente, àqueles que estiverem inscritos nos cadastros institucionalmente estabelecidos dos programas sociais dos Governos Municipal, Estadual ou Federal.
 
 ###### Art. 11 {#art11}
-Tags: #vigencia
 
 **Art. 11, caput** {#art11_cpt} Esta Resolução entrará em vigor na data de sua publicação, revogadas as disposições em contrário,
 

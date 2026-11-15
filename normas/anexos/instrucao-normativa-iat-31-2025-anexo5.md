@@ -19,19 +19,19 @@ fonte: PDF da IN IAT 31/2025, página 60
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo V, linha 1** {#anexo5_lin1} #renovacao #regularizacao Este relatório deverá ser entregue na ocasião da renovação de licença ambiental simplificada, na renovação da licença de operação e na ocasião da regularização do licenciamento. Deverá contemplar todo o período de vigência da licença anterior e deverá ter as informações apresentadas por ano de operação.
+- **Anexo V, linha 1** {#anexo5_lin1} Este relatório deverá ser entregue na ocasião da renovação de licença ambiental simplificada, na renovação da licença de operação e na ocasião da regularização do licenciamento. Deverá contemplar todo o período de vigência da licença anterior e deverá ter as informações apresentadas por ano de operação.
 - **Anexo V, linha 2** {#anexo5_lin2} O Relatório deve conter as seguintes informações:
 - **Anexo V, linha 3** {#anexo5_lin3} • Período de referência do documento;
-- **Anexo V, linha 4** {#anexo5_lin4} #ampliacao • Informações sobre a perspectiva de reformas e ampliações no empreendimento;
-- **Anexo V, linha 5** {#anexo5_lin5} #vetor • Medidas adotadas para controle de vetores;
-- **Anexo V, linha 6** {#anexo5_lin6} #controle-ambiental • Medidas adotadas para controle ambiental;
-- **Anexo V, linha 7** {#anexo5_lin7} #reciclagem • Identificar os resíduos recolhidos pelo empreendimento, suas quantidades, características, geradores e pontos de coleta;
-- **Anexo V, linha 8** {#anexo5_lin8} #triagem • Descrever o processo de manuseio e triagem dos resíduos, especificando o local de armazenamento temporário e equipamentos utilizados;
-- **Anexo V, linha 9** {#anexo5_lin9} #rejeito • Preencher a seguinte tabela, com os dados referentes aos resíduos já separados e possíveis rejeitos do processo:
+- **Anexo V, linha 4** {#anexo5_lin4} • Informações sobre a perspectiva de reformas e ampliações no empreendimento;
+- **Anexo V, linha 5** {#anexo5_lin5} • Medidas adotadas para controle de vetores;
+- **Anexo V, linha 6** {#anexo5_lin6} • Medidas adotadas para controle ambiental;
+- **Anexo V, linha 7** {#anexo5_lin7} • Identificar os resíduos recolhidos pelo empreendimento, suas quantidades, características, geradores e pontos de coleta;
+- **Anexo V, linha 8** {#anexo5_lin8} • Descrever o processo de manuseio e triagem dos resíduos, especificando o local de armazenamento temporário e equipamentos utilizados;
+- **Anexo V, linha 9** {#anexo5_lin9} • Preencher a seguinte tabela, com os dados referentes aos resíduos já separados e possíveis rejeitos do processo:
 
 **Anexo V, Tabela 1** {#anexo5_tab1} Quadro mensal dos resíduos separados e rejeitos, com transporte e destinação final (sem título no original)
 
-- **Anexo V, Tabela 1, cabeçalho** {#anexo5_tab1_cab} #transporte #destinacao-final Período | Resíduo | Quantidade (ton/mês) | Empreendimento responsável pelo transporte | Empreendimento responsável pela destinação final
+- **Anexo V, Tabela 1, cabeçalho** {#anexo5_tab1_cab} Período | Resíduo | Quantidade (ton/mês) | Empreendimento responsável pelo transporte | Empreendimento responsável pela destinação final
 - **Anexo V, Tabela 1, linha 1** {#anexo5_tab1_lin1} Período: Janeiro | Resíduo, Quantidade (ton/mês), Empreendimento responsável pelo transporte, Empreendimento responsável pela destinação final: (células em branco, a preencher)
 - **Anexo V, Tabela 1, linha 2** {#anexo5_tab1_lin2} Período: Fevereiro | Resíduo, Quantidade (ton/mês), Empreendimento responsável pelo transporte, Empreendimento responsável pela destinação final: (células em branco, a preencher)
 - **Anexo V, Tabela 1, linha 3** {#anexo5_tab1_lin3} Período: Março | Resíduo, Quantidade (ton/mês), Empreendimento responsável pelo transporte, Empreendimento responsável pela destinação final: (células em branco, a preencher)

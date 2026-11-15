@@ -58,14 +58,12 @@ Considerando a necessidade de revisão da [[resolucao-sedest-68-2019|[[resolucao
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #empreendimento-imobiliario #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer definições, critérios, diretrizes e procedimentos para o licenciamento ambiental de empreendimentos imobiliários, localizados em área urbana.
 
 ## CAPÍTULO I – DAS DEFINIÇÕES {#cap1}
 
 ###### Art. 2º {#art2}
-Tags: #empreendimento-imobiliario #condominio #definicao #loteamento
 
 **Art. 2º, caput** {#art2_cpt} Para fins desta Resolução consideram-se empreendimentos imobiliários:
 
@@ -74,7 +72,6 @@ Tags: #empreendimento-imobiliario #condominio #definicao #loteamento
 - **Art. 2º, caput, inciso III** {#art2_cpt_inc3} Conjuntos Habitacionais.
 
 ###### Art. 3º {#art3}
-Tags: #condominio #rap #loteamento #eia-rima #ampliacao #pca
 
 **Art. 3º, caput** {#art3_cpt} Para fins desta Resolução consideram-se as seguintes definições:
 
@@ -95,7 +92,6 @@ Tags: #condominio #rap #loteamento #eia-rima #ampliacao #pca
 ### Seção I – Dos Atos Administrativos {#cap2_sec1}
 
 ###### Art. 4º {#art4}
-Tags: #licenciamento-ambiental #condicionante #las #lp #li #lo
 
 **Art. 4º, caput** {#art4_cpt} O órgão licenciador, no exercício de sua competência ambiental, expedirá os seguintes atos administrativos:
 
@@ -115,7 +111,6 @@ Tags: #licenciamento-ambiental #condicionante #las #lp #li #lo
 ### Seção II – Da Definição da Modalidade de Licenciamento Ambiental {#cap2_sec2}
 
 ###### Art. 5º {#art5}
-Tags: #empreendimento-imobiliario
 
 **Art. 5º, caput** {#art5_cpt} Para os efeitos desta Resolução, os empreendimentos imobiliários serão licenciados de acordo com a sua finalidade, características da obra, localização do imóvel e outros aspectos de relevância socioambiental, conforme tabela abaixo:
 
@@ -135,19 +130,16 @@ Tags: #empreendimento-imobiliario
 #### Subseção I – Da Declaração de Inexigibilidade de Licença Ambiental – DILA {#cap2_sec3_subsec1}
 
 ###### Art. 6º {#art6}
-Tags: #licenciamento-ambiental
 
 **Art. 6º, caput** {#art6_cpt} A Declaração de Inexigibilidade de Licença Ambiental – DILA, se necessário, deverá ser requerida através do SGA.
 
 ###### Art. 7º {#art7}
-Tags: #licenciamento-ambiental
 
 **Art. 7º, caput** {#art7_cpt} A inexigibilidade do licenciamento ambiental estadual não exime o interessado das exigências legais quanto à preservação do meio ambiente, bem como obtenção de alvarás e atendimento a outras exigências federais e/ou municipais.
 
 #### Subseção II – Da Declaração de Dispensa de Licenciamento Ambiental – DLAE {#cap2_sec3_subsec2}
 
 ###### Art. 8º {#art8}
-Tags: #dispensa #licenciamento-ambiental #empreendimento-imobiliario #responsavel-tecnico
 
 **Art. 8º, caput** {#art8_cpt} A Declaração de Dispensa de Licenciamento Ambiental – DLAE, se necessário, deverá ser requerida através do SGA, instruída na forma prevista abaixo:
 
@@ -155,14 +147,12 @@ Tags: #dispensa #licenciamento-ambiental #empreendimento-imobiliario #responsave
 - **Art. 8º, caput, inciso II** {#art8_cpt_inc2} Memorial Descritivo do empreendimento, acompanhado de plantas, fotos, imagens de satélite, mapas.
 
 ###### Art. 9º {#art9}
-Tags: #licenciamento-ambiental
 
 **Art. 9º, caput** {#art9_cpt} A dispensa do licenciamento ambiental estadual não exime o interessado das exigências legais quanto à preservação do meio ambiente, bem como obtenção de alvarás e atendimento a outras exigências federais e/ou municipais
 
 #### Subseção III – Da Licença Ambiental por Adesão e Compromisso - LAC {#cap2_sec3_subsec3}
 
 ###### Art. 10 {#art10}
-Tags: #licenciamento-ambiental #responsavel-tecnico #publicacao-dioe #taxa-ambiental #requerimento #empreendimento-imobiliario
 
 **Art. 10, caput** {#art10_cpt} Os requerimentos para Licença Ambiental por Adesão e Compromisso - LAC, deverão ser realizados através do SGA, instruídos na forma prevista abaixo:
 
@@ -186,7 +176,6 @@ Tags: #licenciamento-ambiental #responsavel-tecnico #publicacao-dioe #taxa-ambie
 #### Subseção IV – Da Licença Ambiental Simplificada – LAS {#cap2_sec3_subsec4}
 
 ###### Art. 11 {#art11}
-Tags: #las #anuencia #licenciamento-ambiental #publicacao-dioe #iphan #drenagem-pluvial
 
 **Art. 11, caput** {#art11_cpt} Os requerimentos para Licença Ambiental Simplificada - LAS, deverão ser realizados através do SGA, instruído na forma prevista abaixo:
 
@@ -228,7 +217,6 @@ Tags: #las #anuencia #licenciamento-ambiental #publicacao-dioe #iphan #drenagem-
 #### Subseção V – Das Licenças Prévia - LP, de Instalação - LI e de Operação - LO {#cap2_sec3_subsec5}
 
 ###### Art. 12 {#art12}
-Tags: #lp #anuencia #publicacao-dioe #iphan #empreendimento-imobiliario #requerimento
 
 **Art. 12, caput** {#art12_cpt} Os requerimentos para LICENÇA PRÉVIA - LP, deverão ser realizados através do SGA, instruídos na forma prevista abaixo:
 
@@ -259,7 +247,6 @@ Tags: #lp #anuencia #publicacao-dioe #iphan #empreendimento-imobiliario #requeri
   - **Art. 12, caput, inciso XVI, alínea "i"** {#art12_cpt_inc16_alii} Anuência Prévia ou manifestação do Departamento de Estradas de Rodagem-DER ou concessionária de rodovias, para empreendimentos marginais às rodovias ou situados a menos de cem metros do eixo de rodovia estadual, tendo em vista questões de acesso e vias marginais.
 
 ###### Art. 13 {#art13}
-Tags: #lp #supressao-vegetacao
 
 **Art. 13, caput** {#art13_cpt} Nos procedimentos de Licença Prévia - LP, quando necessária a supressão de vegetação, deverá obrigatoriamente ser solicitada a avaliação da tipologia florestal, visando análise integrada do licenciamento.
 
@@ -272,7 +259,6 @@ Tags: #lp #supressao-vegetacao
 **Art. 14, caput** {#art14_cpt} Quando aplicável, para o pedido de Autorização Florestal em procedimento próprio, deverá ser apresentado o Laudo Florestal, conforme Termo de Referência ([[#anexo5|Anexo V]]).
 
 ###### Art. 15 {#art15}
-Tags: #li #publicacao-dioe #drenagem-pluvial #lp #taxa-ambiental #requerimento
 
 **Art. 15, caput** {#art15_cpt} Os requerimentos para LICENÇA DE INSTALAÇÃO - LI, deverão ser realizados através do SGA, instruído na forma prevista abaixo:
 
@@ -293,7 +279,6 @@ Tags: #li #publicacao-dioe #drenagem-pluvial #lp #taxa-ambiental #requerimento
 - **Art. 15, caput, inciso XV** {#art15_cpt_inc15} Quando da emissão da Licença de Instalação deverá o órgão licenciador carimbar e vistar as plantas finais de implantação urbanística com estatística, de terraplenagem, do arruamento, do projeto da rede de drenagem (galerias pluviais), do projeto do sistema de tratamento de esgoto individual ou coletivo (este último quando couber), aprovados no procedimento de licenciamento, constando o número da Licença de Instalação e do protocolo do procedimento de licenciamento.
 
 ###### Art. 16 {#art16}
-Tags: #lo #publicacao-dioe #li #taxa-ambiental #requerimento #outorga
 
 **Art. 16, caput** {#art16_cpt} Os requerimentos para LICENÇA DE OPERAÇÃO - LO, deverão ser realizados através do SGA, instruído na forma prevista abaixo:
 
@@ -309,7 +294,6 @@ Tags: #lo #publicacao-dioe #li #taxa-ambiental #requerimento #outorga
 #### Subseção VI – Autorização Ambiental para Desmembramento em Área Urbana {#cap2_sec3_subsec6}
 
 ###### Art. 17 {#art17}
-Tags: #autorizacao-ambiental #empreendimento-imobiliario #requerimento #anuencia #taxa-ambiental #publicacao-dioe
 
 **Art. 17, caput** {#art17_cpt} Os requerimentos para Autorização Ambiental para Desmembramento deverão ser realizados através do sistema informatizado do IAT, instruído na forma prevista abaixo:
 
@@ -338,14 +322,12 @@ Tags: #autorizacao-ambiental #empreendimento-imobiliario #requerimento #anuencia
 #### Subseção VI – Da Regularização do Licenciamento Ambiental {#cap2_sec3_subsec6-2}
 
 ###### Art. 18 {#art18}
-Tags: #licenciamento-ambiental #responsavel-tecnico #enquadramento
 
 **Art. 18, caput** {#art18_cpt} Os empreendimentos sem licenciamento ambiental, antes da edição desta resolução, poderão se regularizar, por meio de solicitação da respectiva licença de acordo com o enquadramento do [[#art5|Art.5º]] da presente Resolução.
 
 ### Seção IV – Dos Estudos Ambientais {#cap2_sec4}
 
 ###### Art. 19 {#art19}
-Tags: #empreendimento-imobiliario #eia-rima #licenciamento-ambiental #las #lp #dispensa
 
 **Art. 19, caput** {#art19_cpt} Os estudos ambientais serão exigidos no licenciamento ambiental de empreendimentos imobiliários cujas características não os enquadre em DLAE, LAC e LAS de acordo com o seguinte:
 
@@ -355,14 +337,12 @@ Tags: #empreendimento-imobiliario #eia-rima #licenciamento-ambiental #las #lp #d
 - **Art. 19, caput, inciso II** {#art19_cpt_inc2} Para empreendimentos imobiliários com área acima de 100,0 ha, de acordo com o previsto na [[resolucao-conama-1-1986|Resolução CONAMA 001/1986]] e [[resolucao-cema-107-2020|Resolução CEMA 107/2020]] [[#art9|artigo 9]], incisos XXIIIV e XXIV, ou outra a que vier a substituí-la, será exigida antes da emissão da Licença Prévia a apresentação de Estudo de Impacto Ambiental - EIA e respectivo Relatório de Impacto Ambiental - RIMA, conforme Termo de Referência a ser fornecido pelo órgão licenciador.
 
 ###### Art. 20 {#art20}
-Tags: #outorga
 
 **Art. 20, caput** {#art20_cpt} No caso de imóveis com área entre 50 e 100 ha, a análise deverá ser executada por equipe multidisciplinar instituída pela Diretoria de Licenciamento e Outorga, com no mínimo 03 (três) participantes. Constituída por profissionais com habilitação técnica compatível com o empreendimento.
 
 ### Seção V – Dos prazos de Validade das Licenças {#cap2_sec5}
 
 ###### Art. 21 {#art21}
-Tags: #prazo #validade #licenciamento-ambiental #las #lp #li
 
 **Art. 21, caput** {#art21_cpt} O órgão ambiental competente estabelecerá os prazos de validade para cada tipo de licença e autorização ambiental, especificando-os no respectivo documento, levando em consideração os seguintes aspectos:
 
@@ -381,14 +361,12 @@ Tags: #prazo #validade #licenciamento-ambiental #las #lp #li
 ### Seção I – Aspectos Técnicos e Legais {#cap3_sec1}
 
 ###### Art. 22 {#art22}
-Tags: #licenciamento-ambiental #responsavel-tecnico #condicionante
 
 **Art. 22, caput** {#art22_cpt} Todas as informações referentes a engenharia e arquitetura deverão ser prestadas por profissional devidamente habilitado, mediante a emissão de Anotação de Responsabilidade Técnica junto ao respectivo conselho de classe, atestando as condicionantes acima especificadas.
 
 **Art. 22, parágrafo único** {#art22_par1u} No caso de alteração da razão social ou dos estatutos da empresa, a regularização do licenciamento ambiental deverá ser atendida conforme previsto na [[resolucao-cema-107-2020|Resolução CEMA 107/2020]], ou outra a que vier a substituí-la.
 
 ###### Art. 23 {#art23}
-Tags: #certidao-municipal
 
 **Art. 23, caput** {#art23_cpt} Somente será admitido o parcelamento do solo para fins urbanos em zonas urbanas, de expansão urbana ou de urbanização específica, assim definidas pelo Plano Diretor Municipal, ou aprovadas por Lei Municipal de Uso e Ocupação do Solo Urbano, não sendo permitido o parcelamento do solo:
 
@@ -399,7 +377,6 @@ Tags: #certidao-municipal
 - **Art. 23, caput, inciso V** {#art23_cpt_inc5} Em áreas de preservação ecológica ou naquelas onde a poluição impeça condições sanitárias suportáveis, até a sua correção.
 
 ###### Art. 24 {#art24}
-Tags: #licenciamento-ambiental #las #lp #li #licenciamento-trifasico
 
 **Art. 24, caput** {#art24_cpt} Para o licenciamento ambiental de novos empreendimentos destinados à construção de habitações de Interesse Social, deverá ser seguido o procedimento estabelecido na [[resolucao-conama-412-2009|Resolução CONAMA nº 412, de 13 de maio de 2009]] e alterações posteriores.
 
@@ -408,7 +385,6 @@ Tags: #licenciamento-ambiental #las #lp #li #licenciamento-trifasico
 **Art. 24, § 2º** {#art24_par2} Os critérios específicos para o Licenciamento Ambiental de empreendimentos habitacionais considerados de interesse social em área urbana, destinados ao atendimento da população definida como de baixa renda, nas modalidades Licença Prévia - LP, Licença de Instalação - LI e Licença Ambiental Simplificada - LAS, estão estabelecidos na [[portaria-iap-216-2018|Portaria IAP n°216/2018]] ou outra que vier a substituí-la.
 
 ###### Art. 25 {#art25}
-Tags: #prazo
 
 **Art. 25, caput** {#art25_cpt} Nos casos de necessidade de realização de audiências públicas, deverão ser observadas as disposições contidas nas Resoluções do [[resolucao-conama-9-1987|CONAMA nº 09, de 03 de dezembro de 1987]] e na [[resolucao-cema-107-2020|Resolução CEMA n.º 107 de 09 de setembro de 2020]].
 
@@ -419,7 +395,6 @@ Tags: #prazo
 **Art. 26, caput** {#art26_cpt} Caso o empreendimento se localize em Área de Proteção Ambiental - APA legalmente instituída, o órgão licenciador deverá submeter o procedimento de licenciamento a Câmara de Apoio Técnico - CAT ou similar, da APA, para avaliação e manifestação.
 
 ###### Art. 27 {#art27}
-Tags: #reserva-legal #supressao-vegetacao #responsavel-tecnico #certidao-municipal
 
 **Art. 27, caput** {#art27_cpt} A inserção do imóvel rural em perímetro urbano definido mediante lei municipal não desobriga o proprietário ou posseiro da manutenção da área de Reserva Legal, que só será extinta concomitantemente ao registro do parcelamento do solo para fins urbanos aprovado segundo a legislação específica e consoante as diretrizes do plano diretor de que trata o § 1º do Art. 182 da Constituição Federal.
 
@@ -430,7 +405,6 @@ Tags: #reserva-legal #supressao-vegetacao #responsavel-tecnico #certidao-municip
 **Art. 27, § 3º** {#art27_par3} Para os imóveis com área inferior a 04 (quatro) módulos fiscais, com ou sem remanescente de vegetação nativa, a Reserva Legal será constituída em conformidade com o estabelecido pelo Plano Diretor do Município ou Lei de Uso e Ocupação do Solo Urbano.
 
 ###### Art. 28 {#art28}
-Tags: #licenciamento-ambiental #responsavel-tecnico #definicao
 
 **Art. 28, caput** {#art28_cpt} Caso seja constatada e comprovada alguma irregularidade intencional do responsável técnico pela elaboração de um ou mais estudos técnicos previstos nesta Resolução, ou apresentar no procedimento de licenciamento, estudo, laudo ou relatório ambiental, total ou parcialmente falso ou enganoso, inclusive por omissão, denúncia será encaminhada ao respectivo Conselho de Classe para as devidas providências, sendo automaticamente suspenso o trâmite do procedimento de licenciamento ambiental até os devidos esclarecimentos, sem prejuízo das apurações de responsabilidade civil e criminal.
 
@@ -439,7 +413,6 @@ Tags: #licenciamento-ambiental #responsavel-tecnico #definicao
 **Art. 28, § 2º** {#art28_par2} As situações contempladas acima são passíveis de autuação e demais sanções, conforme Artigo 69-A da [[lei-federal-9605-1998|Lei Federal 9.605, de 12 de fevereiro de 1998]].
 
 ###### Art. 29 {#art29}
-Tags: #fiscalizacao #monitoramento
 
 **Art. 29, caput** {#art29_cpt} A fiscalização e o monitoramento dos sistemas individuais de tratamento de esgoto serão de responsabilidade do poder público municipal, conforme legislação vigente, podendo ocorrer em parceria com o órgão ambiental licenciador.
 
@@ -454,24 +427,20 @@ Tags: #fiscalizacao #monitoramento
 **Art. 31, caput** {#art31_cpt} Quando não existir viabilidade para atendimento do empreendimento através de rede coletora de esgoto da concessionária, deverão ser implantadas tecnologias viáveis e seguras de tratamento, sejam individuais ou coletivas, com base nas informações apresentadas no Laudo Geológico Geotécnico, conforme Termo de Referência ([[#anexo4|Anexo IV]]).
 
 ###### Art. 32 {#art32}
-Tags: #karst
 
 **Art. 32, caput** {#art32_cpt} Não serão permitidos sistemas de infiltração de esgoto sanitário no solo em empreendimentos localizados na área de abrangência do Aquífero Karst ([[#anexo2|Anexo II]]).
 
 ###### Art. 33 {#art33}
-Tags: #taxa-ambiental #recurso-hidrico
 
 **Art. 33, caput** {#art33_cpt} A viabilidade e o dimensionamento dos sistemas individuais de tratamento de esgoto sanitário deverão estar fundamentados nas informações apresentadas no laudo geológico-geotécnico, conforme termo de referência [[#anexo4|ANEXO IV]], com ênfase nos aspectos hidrogeológicos do local, na direção do fluxo da água subterrânea, no nível freático e na taxa de percolação (ensaios de infiltração), observadas as disposições das NBR 7.229/1993 e 13.969/1997.
 
 ## CAPÍTULO IV – DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS {#cap4}
 
 ###### Art. 34 {#art34}
-Tags: #publicacao-dioe
 
 **Art. 34, caput** {#art34_cpt} Esta Resolução se aplica aos procedimentos de licenciamento ambientais protocolados junto ao órgão licenciador a partir da data de sua publicação.
 
 ###### Art. 35 {#art35}
-Tags: #revogacao #publicacao-dioe
 
 **Art. 35, caput** {#art35_cpt} Esta Resolução entrará em vigor na data de sua publicação, revogada a [[resolucao-sedest-68-2019|Resolução SEDEST nº 068/2019]].
 
@@ -487,67 +456,55 @@ Tags: #revogacao #publicacao-dioe
 > Tipos conforme as regras de anexos do README: **tipo 1** (modelos) só com o nome; **tipo 2** (termos de referência) em arquivo próprio; o Anexo II (mapa) é figura sem texto no PDF.
 
 ### ANEXO I – MODELO DE CERTIDÃO DO MUNICÍPIO QUANTO AO USO E OCUPAÇÃO DO SOLO {#anexo1}
-Tags: #certidao-municipal
 
 Modelo de certidão do município quanto ao uso e ocupação do solo. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art10_cpt_inc1|Art. 10, inciso I]], [[#art11_cpt_inc6|Art. 11, inciso VI]], [[#art12_cpt_inc7|Art. 12, inciso VII]], [[#art17_cpt_inc5|Art. 17, inciso V]].)*
 
 ### ANEXO II – MAPA BASE – KARST {#anexo2}
-Tags: #anexo-pendente #karst
+Tags: #anexo-pendente
 
 Mapa base da região cárstica do Estado (figura, sem texto no PDF). *(Anexo não incluído no PDF enviado: pendente. Exigido em: [[#art32_cpt|Art. 32]].)*
 
 ### ANEXO III – TERMO DE REFERÊNCIA – PROJETO BÁSICO DE TERRAPLENAGEM {#anexo3}
-Tags: #terraplenagem
 
 [[resolucao-sedest-30-2022-anexo3|Texto e análise técnica do Anexo III]] *(Tipo 2: diretriz de estudo, em arquivo próprio. Exigido em: [[#art11_cpt_inc11_alid|Art. 11, inciso XI, alínea "d"]], [[#art15_cpt_inc13|Art. 15, inciso XIII]].)*
 
 ### ANEXO IV – TERMO DE REFERÊNCIA – LAUDO GEOLÓGICO-GEOTÉCNICO {#anexo4}
-Tags: #laudo-geotecnico
 
 [[resolucao-sedest-30-2022-anexo4|Texto e análise técnica do Anexo IV]] *(Tipo 2: diretriz de estudo, em arquivo próprio. Exigido em: [[#art10_cpt_inc10|Art. 10, inciso X]], [[#art11_cpt_inc11_alie|Art. 11, inciso XI, alínea "e"]], [[#art12_cpt_inc14|Art. 12, inciso XIV]], [[#art31_cpt|Art. 31]], [[#art33_cpt|Art. 33]].)*
 
 ### ANEXO V – TERMO DE REFERÊNCIA – LAUDO FLORESTAL {#anexo5}
-Tags: #laudo-florestal
 
 [[resolucao-sedest-30-2022-anexo5|Texto e análise técnica do Anexo V]] *(Tipo 2: diretriz de estudo, em arquivo próprio. Exigido em: [[#art14_cpt|Art. 14]].)*
 
 ### ANEXO VI – TERMO DE REFERÊNCIA – PROJETO DE DRENAGEM SUPERFICIAL {#anexo6}
-Tags: #drenagem-superficial
 
 [[resolucao-sedest-30-2022-anexo6|Texto e análise técnica do Anexo VI]] *(Tipo 2: diretriz de estudo, em arquivo próprio. Exigido em: [[#art11_cpt_inc11_alig|Art. 11, inciso XI, alínea "g"]], [[#art15_cpt_inc10|Art. 15, inciso X]].)*
 
 ### ANEXO VII – TERMO DE REFERÊNCIA – RELATÓRIO AMBIENTAL PRELIMINAR – RAP {#anexo7}
-Tags: #rap
 
 [[resolucao-sedest-30-2022-anexo7|Texto e análise técnica do Anexo VII]] *(Tipo 2: diretriz de estudo, em arquivo próprio. Exigido em: [[#art12_cpt_inc10|Art. 12, inciso X]], [[#art19_cpt_inc1_alia|Art. 19, inciso I, alínea "a"]].)*
 
 ### ANEXO VIII – TERMO DE REFERÊNCIA – RELATÓRIO DE DETALHAMENTO DOS PROGRAMAS AMBIENTAIS – RDPA {#anexo8}
-Tags: #rdpa
 
 [[resolucao-sedest-30-2022-anexo8|Texto e análise técnica do Anexo VIII]] *(Tipo 2: diretriz de estudo, em arquivo próprio. Exigido em: [[#art15_cpt_inc7|Art. 15, inciso VII]], [[#art19_cpt_inc1_alib|Art. 19, inciso I, alínea "b"]].)*
 
 ### ANEXO IX – TERMO DE REFERÊNCIA – PROJETO SIMPLIFICADO DE GERENCIAMENTO DE RESÍDUOS DA CONSTRUÇÃO CIVIL – PGRCC {#anexo9}
-Tags: #pgrcc
 
 [[resolucao-sedest-30-2022-anexo9|Texto e análise técnica do Anexo IX]] *(Tipo 2: diretriz de estudo, em arquivo próprio. Exigido em: [[#art11_cpt_inc11_alif|Art. 11, inciso XI, alínea "f"]], [[#art15_cpt_inc8|Art. 15, inciso VIII]].)*
 
 ### ANEXO X – RELATÓRIO DE GERENCIAMENTO DE RESÍDUOS DA CONSTRUÇÃO CIVIL {#anexo10}
-Tags: #relatorio-pgrcc
 
 Modelo de relatório de gerenciamento de resíduos da construção civil. *(Tipo 1: modelo, conteúdo não transcrito.)*
 
 ### ANEXO XI – DECLARAÇÃO DA VERACIDADE DAS INFORMAÇÕES PRESTADAS {#anexo11}
-Tags: #declaracao-veracidade
 
 Modelo de declaração da veracidade das informações prestadas. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art10_cpt_inc12|Art. 10, inciso XII]], [[#art16_cpt_inc7|Art. 16, inciso VII]].)*
 
 ### ANEXO XII – DECLARAÇÃO DO EMPREENDEDOR PELO LICENCIAMENTO POR ADESÃO E COMPROMISSO {#anexo12}
-Tags: #declaracao-adesao-compromisso
 
 Modelo de declaração do empreendedor pelo licenciamento por adesão e compromisso. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art10_cpt_inc13|Art. 10, inciso XIII]].)*
 
 ### ANEXO XIII – DECLARAÇÃO DO RESPONSÁVEL TÉCNICO PELO LICENCIAMENTO POR ADESÃO E COMPROMISSO {#anexo13}
-Tags: #declaracao-adesao-compromisso
 
 Modelo de declaração do responsável técnico pelo licenciamento por adesão e compromisso. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art10_cpt_inc14|Art. 10, inciso XIV]].)*
 

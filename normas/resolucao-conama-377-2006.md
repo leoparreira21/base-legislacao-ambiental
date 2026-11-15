@@ -37,7 +37,6 @@ Considerando a necessidade de integrar os procedimentos dos instrumentos da [[le
 
 ###### Art. 1º {#art1}
 
-Tags: #esgotamento-sanitario #licenciamento-ambiental #efluente
 
 **Art. 1º, caput** {#art1_cpt} Ficam sujeitos a procedimentos simplificados de licenciamento ambiental as unidades de transporte e de tratamento de esgoto sanitário, separada ou conjuntamente, de pequeno e médio porte.
 
@@ -45,7 +44,6 @@ Tags: #esgotamento-sanitario #licenciamento-ambiental #efluente
 
 ###### Art. 2º {#art2}
 
-Tags: #esgotamento-sanitario #licenciamento-ambiental #efluente
 
 **Art. 2º, caput** {#art2_cpt} Para fins desta Resolução, considera-se:
 
@@ -63,7 +61,6 @@ Tags: #esgotamento-sanitario #licenciamento-ambiental #efluente
 
 ###### Art. 3º {#art3}
 
-Tags: #esgotamento-sanitario #licenciamento-ambiental #recurso-hidrico #efluente #vegetacao-nativa #documentacao
 
 **Art. 3º, caput** {#art3_cpt} O empreendedor ao requerer o licenciamento simplificado, para as unidades de transporte e de tratamento de esgoto sanitário, de médio porte, apresentará estudo na forma definida pelo órgão ambiental competente, mediante termo de referência, contendo no mínimo:
 
@@ -89,7 +86,6 @@ Tags: #esgotamento-sanitario #licenciamento-ambiental #recurso-hidrico #efluente
 
 ###### Art. 4º {#art4}
 
-Tags: #esgotamento-sanitario #licenciamento-ambiental #outorga #prazo #recurso-hidrico #efluente #vegetacao-nativa #documentacao
 
 **Art. 4º, caput** {#art4_cpt} As unidades de transporte e de tratamento de esgoto de pequeno porte, ressalvadas as situadas em áreas ambientalmente sensíveis, ficam sujeitas, tão somente, à LIO ou ato administrativo equivalente, desde que regulamentado pelo conselho estadual do meio ambiente.
 
@@ -109,13 +105,11 @@ Tags: #esgotamento-sanitario #licenciamento-ambiental #outorga #prazo #recurso-h
 
 ###### Art. 5º {#art5}
 
-Tags: #esgotamento-sanitario #licenciamento-ambiental
 
 **Art. 5º, caput** {#art5_cpt} Os órgãos ambientais definirão os critérios para o enquadramento de sistemas de esgotamento sanitário de pequeno e médio porte, de acordo com os parâmetros de vazão nominal ou população atendida.
 
 ###### Art. 6º {#art6}
 
-Tags: #esgotamento-sanitario #licenciamento-ambiental #prazo #documentacao #lp #li #lo
 
 **Art. 6º, caput** {#art6_cpt} Os órgãos ambientais responsáveis pelo processo de licenciamento ambiental simplificado terão o prazo de análise e decisão contado a partir da data do recebimento do pedido.
 
@@ -137,19 +131,16 @@ Tags: #esgotamento-sanitario #licenciamento-ambiental #prazo #documentacao #lp #
 
 ###### Art. 7º {#art7}
 
-Tags: #esgotamento-sanitario #licenciamento-ambiental
 
 **Art. 7º, caput** {#art7_cpt} Os empreendimentos que se encontrarem em processo de licenciamento ambiental na data da publicação desta Resolução e que atenderem os requisitos nela previstos poderão ser enquadrados como licenciamento ambiental simplificado, ou a LIO, desde que requerido pelo empreendedor.
 
 ###### Art. 8º {#art8}
 
-Tags: #esgotamento-sanitario #licenciamento-ambiental
 
 **Art. 8º, caput** {#art8_cpt} Antes do inicio da operação, poderão ser realizados testes pré-operacionais, mediante ciência ao órgão ambiental competente.
 
 ###### Art. 9º {#art9}
 
-Tags: #esgotamento-sanitario #licenciamento-ambiental
 
 **Art. 9º, caput** {#art9_cpt} Esta Resolução entra em vigor na data de sua publicação.
 

@@ -35,37 +35,30 @@ fonte: "PDF de 18 páginas enviado por Leo (corpo nas pp. 1–2; Anexos I e II c
 RESOLVEM:
 
 ## Item 1 {#item1}
-Tags: #pgrss #residuo-servico-saude #gerador
 
 **Item 1** {#item1_cpt} Estabelecer diretrizes, conforme anexo, para elaboração de Plano Simplificado de Gerenciamento de Resíduos de Serviços de Saúde para Geradores de até 30 litros por semana, excluídos os estabelecimentos que gerem resíduos quimioterápicos e radioativos;
 
 ## Item 2 {#item2}
-Tags: #pgrss #residuo-servico-saude #gerador
 
 **Item 2** {#item2_cpt} Estabelecer diretrizes, conforme anexo, para elaboração de Plano de Gerenciamento de Resíduos de Serviços de Saúde para Geradores acima de 30 litros por semana, incluídos neste os estabelecimentos que gerem resíduos quimioterápicos e radioativos.
 
 ## Item 3 {#item3}
-Tags: #pgrss #licenciamento-ambiental #requerimento #vigilancia-sanitaria
 
 **Item 3** {#item3_cpt} Os estabelecimentos geradores de resíduos de serviços de saúde em operação, devem, primeiramente, protocolar o PGRSS ao órgão da saúde para manifestação definitiva dentro da sua esfera de competência, sendo que após esta manifestação deverá ser protocolado junto com o requerimento do licenciamento ambiental ao órgão ambiental competente, junto com os demais documentos necessários à instrução do procedimento para análise e conclusão do licenciamento solicitado.
 
 ## Item 4 {#item4}
-Tags: #pgrss #licenciamento-ambiental #residuo-servico-saude
 
 **Item 4** {#item4_cpt} O licenciamento ambiental para os estabelecimentos geradores de resíduos de serviços de saúde a serem implantados, obedecerá aos trâmites previstos na [[resolucao-sema-31-1998|Resolução 031/98 – SEMA]] e [[resolucao-conama-358-2005|Resolução 358/05 CONAMA]].
 
 ## Item 5 {#item5}
-Tags: #pgrss #responsavel-tecnico
 
 **Item 5** {#item5_cpt} Convocar, se preciso for, para esclarecimentos adicionais durante a análise do PGRSS, os responsáveis técnicos por sua elaboração, gerenciamento e execução, bem como o estabelecimento gerador.
 
 ## Item 6 {#item6}
-Tags: #pgrss
 
 **Item 6** {#item6_cpt} Anexar a esta Resolução o Plano Simplificado para gerenciamento de resíduos sólidos.
 
 ## Item 7 {#item7}
-Tags: #vigencia
 
 **Item 7** {#item7_cpt} Esta Resolução entrará em vigor na data da sua publicação.
 

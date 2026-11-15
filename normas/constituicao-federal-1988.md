@@ -36,7 +36,6 @@ fonte: "Planalto (Presidência da República – Casa Civil), impressão do nave
 ## TÍTULO I – DOS PRINCÍPIOS FUNDAMENTAIS
 
 ###### Art. 1º {#art1}
-Tags:
 
 **Art. 1º, caput** {#art1_cpt} A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos:
 - **Art. 1º, caput, inciso I** {#art1_cpt_inc1} a soberania;
@@ -48,12 +47,10 @@ Tags:
 **Art. 1º, parágrafo único** {#art1_par1u} Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição.
 
 ###### Art. 2º {#art2}
-Tags:
 
 **Art. 2º, caput** {#art2_cpt} São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.
 
 ###### Art. 3º {#art3}
-Tags:
 
 **Art. 3º, caput** {#art3_cpt} Constituem objetivos fundamentais da República Federativa do Brasil:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} construir uma sociedade livre, justa e solidária;
@@ -62,7 +59,6 @@ Tags:
 - **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.
 
 ###### Art. 4º {#art4}
-Tags:
 
 **Art. 4º, caput** {#art4_cpt} A República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} independência nacional;
@@ -83,7 +79,6 @@ Tags:
 ### CAPÍTULO I – DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS
 
 ###### Art. 5º {#art5}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (incluído: inciso LXXVIII, § 3º, § 4º); [[emenda-constitucional-federal-115-2022|Emenda Constitucional nº 115, de 2022]] (incluído: inciso LXXIX)
 
 **Art. 5º, caput** {#art5_cpt} Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
@@ -202,7 +197,6 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 ### CAPÍTULO II – DOS DIREITOS SOCIAIS
 
 ###### Art. 6º {#art6}
-Tags:
 Alterações: [[emenda-constitucional-federal-90-2015|Emenda Constitucional nº 90, de 2015]] (nova redação: caput); [[emenda-constitucional-federal-114-2021|Emenda Constitucional nº 114, de 2021]] (incluído: parágrafo único)
 
 **Art. 6º, caput** {#art6_cpt} #redacao-alterada São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição. *(Redação dada pela [[emenda-constitucional-federal-90-2015|Emenda Constitucional nº 90, de 2015]])*
@@ -210,7 +204,6 @@ Alterações: [[emenda-constitucional-federal-90-2015|Emenda Constitucional nº 
 **Art. 6º, parágrafo único** {#art6_par1u} #incluido Todo brasileiro em situação de vulnerabilidade social terá direito a uma renda básica familiar, garantida pelo poder público em programa permanente de transferência de renda, cujas normas e requisitos de acesso serão determinados em lei, observada a legislação fiscal e orçamentária. *(Incluído pela [[emenda-constitucional-federal-114-2021|Emenda Constitucional nº 114, de 2021]])* *(Vide [[lei-federal-14601-2023|Lei nº 14.601, de 2023]])*
 
 ###### Art. 7º {#art7}
-Tags:
 Alterações: [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]] (nova redação: inciso XII, inciso XXXIII); [[emenda-constitucional-federal-141-2026|Emenda Constitucional nº 141, de 2026]] (nova redação: inciso XIII, § 1º; incluído: § 2º, § 3º); [[emenda-constitucional-federal-53-2006|Emenda Constitucional nº 53, de 2006]] (nova redação: inciso XXV); [[emenda-constitucional-federal-28-2000|Emenda Constitucional nº 28, de 2000]] (nova redação: inciso XXIX, inciso XXIX, alínea "a", inciso XXIX, alínea "b")
 
 **Art. 7º, caput** {#art7_cpt} São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:
@@ -258,7 +251,6 @@ Alterações: [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 
 **Art. 7º, § 3º** {#art7_par3} #incluido Lei poderá dispor sobre hipóteses e condições em que a duração do trabalho e os dias de repouso semanal remunerado poderão observar regimes diferenciados, respeitados os limites previstos nos incisos XIII, XIV e XV do caput deste artigo. *(Incluído pela [[emenda-constitucional-federal-141-2026|Emenda Constitucional nº 141, de 2026]])*
 
 ###### Art. 8º {#art8}
-Tags:
 
 **Art. 8º, caput** {#art8_cpt} É livre a associação profissional ou sindical, observado o seguinte:
 - **Art. 8º, caput, inciso I** {#art8_cpt_inc1} a lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente, vedadas ao Poder Público a interferência e a intervenção na organização sindical;
@@ -273,7 +265,6 @@ Tags:
 **Art. 8º, parágrafo único** {#art8_par1u} As disposições deste artigo aplicam-se à organização de sindicatos rurais e de colônias de pescadores, atendidas as condições que a lei estabelecer.
 
 ###### Art. 9º {#art9}
-Tags:
 
 **Art. 9º, caput** {#art9_cpt} É assegurado o direito de greve, competindo aos trabalhadores decidir sobre a oportunidade de exercê-lo e sobre os interesses que devam por meio dele defender.
 
@@ -282,19 +273,16 @@ Tags:
 **Art. 9º, § 2º** {#art9_par2} Os abusos cometidos sujeitam os responsáveis às penas da lei.
 
 ###### Art. 10 {#art10}
-Tags:
 
 **Art. 10, caput** {#art10_cpt} É assegurada a participação dos trabalhadores e empregadores nos colegiados dos órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão e deliberação.
 
 ###### Art. 11 {#art11}
-Tags:
 
 **Art. 11, caput** {#art11_cpt} Nas empresas de mais de duzentos empregados, é assegurada a eleição de um representante destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores.
 
 ### CAPÍTULO III – DA NACIONALIDADE
 
 ###### Art. 12 {#art12}
-Tags:
 Alterações: [[emenda-constitucional-federal-54-2007|Emenda Constitucional nº 54, de 2007]] (nova redação: inciso I, alínea "c"); [[emenda-constitucional-revisao-federal-3-1994|Emenda Constitucional de Revisão nº 3, de 1994]] (nova redação: inciso II, alínea "b", § 1º); [[emenda-constitucional-federal-23-1999|Emenda Constitucional nº 23, de 1999]] (incluído: § 3º, inciso VII); [[emenda-constitucional-federal-131-2023|Emenda Constitucional nº 131, de 2023]] (nova redação: § 4º, inciso I, § 4º, inciso II, § 4º, inciso II, alínea "a", § 4º, inciso II, alínea "b"; incluído: § 5º)
 
 **Art. 12, caput** {#art12_cpt} São brasileiros:
@@ -328,7 +316,6 @@ Alterações: [[emenda-constitucional-federal-54-2007|Emenda Constitucional nº 
 **Art. 12, § 5º** {#art12_par5} #incluido A renúncia da nacionalidade, nos termos do inciso II do § 4º deste artigo, não impede o interessado de readquirir sua nacionalidade brasileira originária, nos termos da lei. *(Incluído pela [[emenda-constitucional-federal-131-2023|Emenda Constitucional nº 131, de 2023]])*
 
 ###### Art. 13 {#art13}
-Tags:
 
 **Art. 13, caput** {#art13_cpt} A língua portuguesa é o idioma oficial da República Federativa do Brasil.
 
@@ -339,7 +326,6 @@ Tags:
 ### CAPÍTULO IV – DOS DIREITOS POLÍTICOS
 
 ###### Art. 14 {#art14}
-Tags:
 Alterações: [[emenda-constitucional-federal-16-1997|Emenda Constitucional nº 16, de 1997]] (nova redação: § 5º); [[emenda-constitucional-revisao-federal-4-1994|Emenda Constitucional de Revisão nº 4, de 1994]] (nova redação: § 9º); [[emenda-constitucional-federal-111-2021|Emenda Constitucional nº 111, de 2021]] (incluído: § 12, § 13)
 
 **Art. 14, caput** {#art14_cpt} A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante:
@@ -391,7 +377,6 @@ Alterações: [[emenda-constitucional-federal-16-1997|Emenda Constitucional nº 
 **Art. 14, § 13** {#art14_par13} #incluido As manifestações favoráveis e contrárias às questões submetidas às consultas populares nos termos do § 12 ocorrerão durante as campanhas eleitorais, sem a utilização de propaganda gratuita no rádio e na televisão. *(Incluído pela [[emenda-constitucional-federal-111-2021|Emenda Constitucional nº 111, de 2021]])*
 
 ###### Art. 15 {#art15}
-Tags:
 
 **Art. 15, caput** {#art15_cpt} É vedada a cassação de direitos políticos, cuja perda ou suspensão só se dará nos casos de:
 - **Art. 15, caput, inciso I** {#art15_cpt_inc1} cancelamento da naturalização por sentença transitada em julgado;
@@ -401,7 +386,6 @@ Tags:
 - **Art. 15, caput, inciso V** {#art15_cpt_inc5} improbidade administrativa, nos termos do art. [[#art37|37]], § 4º.
 
 ###### Art. 16 {#art16}
-Tags:
 Alterações: [[emenda-constitucional-federal-4-1993|Emenda Constitucional nº 4, de 1993]] (nova redação: caput)
 
 **Art. 16, caput** {#art16_cpt} #redacao-alterada A lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até um ano da data de sua vigência. *(Redação dada pela [[emenda-constitucional-federal-4-1993|Emenda Constitucional nº 4, de 1993]])*
@@ -409,7 +393,6 @@ Alterações: [[emenda-constitucional-federal-4-1993|Emenda Constitucional nº 4
 ### CAPÍTULO V – DOS PARTIDOS POLÍTICOS
 
 ###### Art. 17 {#art17}
-Tags:
 Alterações: [[emenda-constitucional-federal-97-2017|Emenda Constitucional nº 97, de 2017]] (nova redação: § 1º, § 3º; incluído: § 3º, inciso I, § 3º, inciso II, § 5º); [[emenda-constitucional-federal-111-2021|Emenda Constitucional nº 111, de 2021]] (incluído: § 6º); [[emenda-constitucional-federal-117-2022|Emenda Constitucional nº 117, de 2022]] (incluído: § 7º, § 8º); [[emenda-constitucional-federal-133-2024|Emenda Constitucional nº 133, de 2024]] (incluído: § 9º)
 
 **Art. 17, caput** {#art17_cpt} É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana e observados os seguintes preceitos: *(Regulamento)*
@@ -443,7 +426,6 @@ Alterações: [[emenda-constitucional-federal-97-2017|Emenda Constitucional nº 
 ### CAPÍTULO I – DA ORGANIZAÇÃO POLÍTICO-ADMINISTRATIVA
 
 ###### Art. 18 {#art18}
-Tags:
 
 **Art. 18, caput** {#art18_cpt} A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos termos desta Constituição.
 
@@ -456,7 +438,6 @@ Tags:
 **Art. 18, § 4º** {#art18_par4} A criação, a incorporação, a fusão e o desmembramento de Municípios, far-se-ão por lei estadual, dentro do período determinado por Lei Complementar Federal, e dependerão de consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei. (Redação dada pela [[emenda-constitucional-federal-15-1996|Emenda Constitucional nº 15, de 1996]]) Vide art. [[#art96|96]] - ADCT *(Vide [[lei-complementar-federal-230-2026|Lei Complementar nº 230, de 2026]])*
 
 ###### Art. 19 {#art19}
-Tags:
 
 **Art. 19, caput** {#art19_cpt} É vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
 - **Art. 19, caput, inciso I** {#art19_cpt_inc1} estabelecer cultos religiosos ou igrejas, subvencioná-los, embaraçar-lhes o funcionamento ou manter com eles ou seus representantes relações de dependência ou aliança, ressalvada, na forma da lei, a colaboração de interesse público;
@@ -466,7 +447,6 @@ Tags:
 ### CAPÍTULO II – DA UNIÃO
 
 ###### Art. 20 {#art20}
-Tags: #uniao
 Alterações: [[emenda-constitucional-federal-46-2005|Emenda Constitucional nº 46, de 2005]] (nova redação: inciso IV); [[emenda-constitucional-federal-102-2019|Emenda Constitucional nº 102, de 2019]] (nova redação: § 1º)
 
 **Art. 20, caput** {#art20_cpt} São bens da União:
@@ -487,7 +467,6 @@ Alterações: [[emenda-constitucional-federal-46-2005|Emenda Constitucional nº 
 **Art. 20, § 2º** {#art20_par2} A faixa de até cento e cinqüenta quilômetros de largura, ao longo das fronteiras terrestres, designada como faixa de fronteira, é considerada fundamental para defesa do território nacional, e sua ocupação e utilização serão reguladas em lei.
 
 ###### Art. 21 {#art21}
-Tags:
 Alterações: [[emenda-constitucional-federal-8-1995|Emenda Constitucional nº 8, de 15/08/95]] (nova redação: inciso XI, inciso XII, alínea "a"); [[emenda-constitucional-federal-69-2012|Emenda Constitucional nº 69, de 2012]] (nova redação: inciso XIII); [[emenda-constitucional-federal-104-2019|Emenda Constitucional nº 104, de 2019]] (nova redação: inciso XIV); [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: inciso XXII); [[emenda-constitucional-federal-118-2022|Emenda Constitucional nº 118, de 2022]] (nova redação: inciso XXIII, alínea "b", inciso XXIII, alínea "c"); [[emenda-constitucional-federal-49-2006|Emenda Constitucional nº 49, de 2006]] (incluído: inciso XXIII, alínea "d"); [[emenda-constitucional-federal-115-2022|Emenda Constitucional nº 115, de 2022]] (incluído: inciso XXVI)
 
 **Art. 21, caput** {#art21_cpt} Compete à União:
@@ -529,7 +508,6 @@ Alterações: [[emenda-constitucional-federal-8-1995|Emenda Constitucional nº 8
 - **Art. 21, caput, inciso XXVI** {#art21_cpt_inc26} #incluido organizar e fiscalizar a proteção e o tratamento de dados pessoais, nos termos da lei. *(Incluído pela [[emenda-constitucional-federal-115-2022|Emenda Constitucional nº 115, de 2022]])*
 
 ###### Art. 22 {#art22}
-Tags:
 Alterações: [[emenda-constitucional-federal-69-2012|Emenda Constitucional nº 69, de 2012]] (nova redação: inciso XVII); [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (nova redação: inciso XXI); [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: inciso XXVII); [[emenda-constitucional-federal-115-2022|Emenda Constitucional nº 115, de 2022]] (incluído: inciso XXX)
 
 **Art. 22, caput** {#art22_cpt} Compete privativamente à União legislar sobre:
@@ -567,7 +545,6 @@ Alterações: [[emenda-constitucional-federal-69-2012|Emenda Constitucional nº 
 **Art. 22, parágrafo único** {#art22_par1u} Lei complementar poderá autorizar os Estados a legislar sobre questões específicas das matérias relacionadas neste artigo.
 
 ###### Art. 23 {#art23}
-Tags: #competencia
 Alterações: [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]] (nova redação: inciso V); [[emenda-constitucional-federal-53-2006|Emenda Constitucional nº 53, de 2006]] (nova redação: parágrafo único)
 
 **Art. 23, caput** {#art23_cpt} É competência comum da União, dos Estados, do Distrito Federal e dos Municípios:
@@ -587,7 +564,6 @@ Alterações: [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 
 **Art. 23, parágrafo único** {#art23_par1u} #redacao-alterada Leis complementares fixarão normas para a cooperação entre a União e os Estados, o Distrito Federal e os Municípios, tendo em vista o equilíbrio do desenvolvimento e do bem-estar em âmbito nacional. *(Redação dada pela [[emenda-constitucional-federal-53-2006|Emenda Constitucional nº 53, de 2006]])*
 
 ###### Art. 24 {#art24}
-Tags: #competencia
 Alterações: [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]] (nova redação: inciso IX)
 
 **Art. 24, caput** {#art24_cpt} Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre:
@@ -619,7 +595,6 @@ Alterações: [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 
 ### CAPÍTULO III – DOS ESTADOS FEDERADOS
 
 ###### Art. 25 {#art25}
-Tags:
 Alterações: [[emenda-constitucional-federal-5-1995|Emenda Constitucional nº 5, de 1995]] (nova redação: § 2º)
 
 **Art. 25, caput** {#art25_cpt} Os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios desta Constituição.
@@ -631,7 +606,6 @@ Alterações: [[emenda-constitucional-federal-5-1995|Emenda Constitucional nº 5
 **Art. 25, § 3º** {#art25_par3} Os Estados poderão, mediante lei complementar, instituir regiões metropolitanas, aglomerações urbanas e microrregiões, constituídas por agrupamentos de municípios limítrofes, para integrar a organização, o planejamento e a execução de funções públicas de interesse comum.
 
 ###### Art. 26 {#art26}
-Tags: #estado
 
 **Art. 26, caput** {#art26_cpt} Incluem-se entre os bens dos Estados:
 - **Art. 26, caput, inciso I** {#art26_cpt_inc1} as águas superficiais ou subterrâneas, fluentes, emergentes e em depósito, ressalvadas, neste caso, na forma da lei, as decorrentes de obras da União;
@@ -640,7 +614,6 @@ Tags: #estado
 - **Art. 26, caput, inciso IV** {#art26_cpt_inc4} as terras devolutas não compreendidas entre as da União.
 
 ###### Art. 27 {#art27}
-Tags:
 Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: § 2º)
 
 **Art. 27, caput** {#art27_cpt} O número de Deputados à Assembléia Legislativa corresponderá ao triplo da representação do Estado na Câmara dos Deputados e, atingido o número de trinta e seis, será acrescido de tantos quantos forem os Deputados Federais acima de doze.
@@ -654,7 +627,6 @@ Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 
 **Art. 27, § 4º** {#art27_par4} A lei disporá sobre a iniciativa popular no processo legislativo estadual.
 
 ###### Art. 28 {#art28}
-Tags:
 Alterações: [[emenda-constitucional-federal-111-2021|Emenda Constitucional nº 111, de 2021]] (nova redação: caput); [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (renumerado: § 1º; incluído: § 2º)
 
 **Art. 28, caput** {#art28_cpt} #redacao-alterada A eleição do Governador e do Vice-Governador de Estado, para mandato de 4 (quatro) anos, realizar-se-á no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver, do ano anterior ao do término do mandato de seus antecessores, e a posse ocorrerá em 6 de janeiro do ano subsequente, observado, quanto ao mais, o disposto no art. [[#art77|77]] desta Constituição. *(Redação dada pela [[emenda-constitucional-federal-111-2021|Emenda Constitucional nº 111, de 2021]])*
@@ -666,7 +638,6 @@ Alterações: [[emenda-constitucional-federal-111-2021|Emenda Constitucional nº
 ### CAPÍTULO IV – DOS MUNICÍPIOS
 
 ###### Art. 29 {#art29}
-Tags:
 Alterações: [[emenda-constitucional-federal-16-1997|Emenda Constitucional nº 16, de 1997]] (nova redação: inciso II); [[emenda-constitucional-federal-25-2000|Emenda Constitucional nº 25, de 2000]] (nova redação: inciso VI; incluído: inciso VI, alínea "a", inciso VI, alínea "b", inciso VI, alínea "c", inciso VI, alínea "d", inciso VI, alínea "e", inciso VI, alínea "f"); [[emenda-constitucional-federal-1-1992|Emenda Constitucional nº 1, de 1992]] (incluído: inciso VII; renumerado: inciso VIII, inciso IX, inciso X, inciso XI, inciso XII, inciso XIII, inciso XIV)
 
 **Art. 29, caput** {#art29_cpt} O Município reger-se-á por lei orgânica, votada em dois turnos, com o interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, que a promulgará, atendidos os princípios estabelecidos nesta Constituição, na Constituição do respectivo Estado e os seguintes preceitos:
@@ -716,7 +687,6 @@ Alterações: [[emenda-constitucional-federal-16-1997|Emenda Constitucional nº 
 - **Art. 29, caput, inciso XIV** {#art29_cpt_inc14} perda do mandato do Prefeito, nos termos do art. [[#art28|28]], parágrafo único . *(Renumerado do inciso XII, pela [[emenda-constitucional-federal-1-1992|Emenda Constitucional nº 1, de 1992]])*
 
 ###### Art. 29-A {#art29-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (nova redação: caput); [[emenda-constitucional-federal-25-2000|Emenda Constitucional nº 25, de 2000]] (incluído: § 1º, § 2º, § 2º, inciso I, § 2º, inciso II, § 2º, inciso III, § 3º)
 
 **Art. 29-A, caput** {#art29-a_cpt} #redacao-alterada O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e os demais gastos com pessoal inativo e pensionistas, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no § 5º do art. [[#art153|153]] e nos arts. [[#art158|158]] e [[#art159|159]] desta Constituição, efetivamente realizado no exercício anterior: *(Redação dada pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])* *(Vigência)*
@@ -737,7 +707,6 @@ Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº
 **Art. 29-A, § 3º** {#art29-a_par3} #incluido Constitui crime de responsabilidade do Presidente da Câmara Municipal o desrespeito ao § 1o deste artigo. *(Incluído pela [[emenda-constitucional-federal-25-2000|Emenda Constitucional nº 25, de 2000]])*
 
 ###### Art. 30 {#art30}
-Tags: #municipio
 Alterações: [[emenda-constitucional-federal-53-2006|Emenda Constitucional nº 53, de 2006]] (nova redação: inciso VI)
 
 **Art. 30, caput** {#art30_cpt} Compete aos Municípios:
@@ -752,7 +721,6 @@ Alterações: [[emenda-constitucional-federal-53-2006|Emenda Constitucional nº 
 - **Art. 30, caput, inciso IX** {#art30_cpt_inc9} promover a proteção do patrimônio histórico-cultural local, observada a legislação e a ação fiscalizadora federal e estadual.
 
 ###### Art. 31 {#art31}
-Tags:
 Alterações: [[emenda-constitucional-federal-139-2026|Emenda Constitucional nº 139, de 2026]] (nova redação: § 1º)
 
 **Art. 31, caput** {#art31_cpt} A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, na forma da lei.
@@ -770,7 +738,6 @@ Alterações: [[emenda-constitucional-federal-139-2026|Emenda Constitucional nº
 #### SEÇÃO I – DO DISTRITO FEDERAL
 
 ###### Art. 32 {#art32}
-Tags:
 Alterações: [[emenda-constitucional-federal-104-2019|Emenda Constitucional nº 104, de 2019]] (nova redação: § 4º)
 
 **Art. 32, caput** {#art32_cpt} O Distrito Federal, vedada sua divisão em Municípios, reger- se-á por lei orgânica, votada em dois turnos com interstício mínimo de dez dias, e aprovada por dois terços da Câmara Legislativa, que a promulgará, atendidos os princípios estabelecidos nesta Constituição.
@@ -786,7 +753,6 @@ Alterações: [[emenda-constitucional-federal-104-2019|Emenda Constitucional nº
 #### SEÇÃO II – DOS TERRITÓRIOS
 
 ###### Art. 33 {#art33}
-Tags:
 
 **Art. 33, caput** {#art33_cpt} A lei disporá sobre a organização administrativa e judiciária dos Territórios.
 
@@ -799,7 +765,6 @@ Tags:
 ### CAPÍTULO VI – DA INTERVENÇÃO
 
 ###### Art. 34 {#art34}
-Tags:
 Alterações: [[emenda-constitucional-federal-29-2000|Emenda Constitucional nº 29, de 2000]] (nova redação: inciso VII, alínea "e")
 
 **Art. 34, caput** {#art34_cpt} A União não intervirá nos Estados nem no Distrito Federal, exceto para:
@@ -819,7 +784,6 @@ Alterações: [[emenda-constitucional-federal-29-2000|Emenda Constitucional nº 
   - **Art. 34, caput, inciso VII, alínea "e"** {#art34_cpt_inc7_alie} #redacao-alterada aplicação do mínimo exigido da receita resultante de impostos estaduais, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino e nas ações e serviços públicos de saúde. *(Redação dada pela [[emenda-constitucional-federal-29-2000|Emenda Constitucional nº 29, de 2000]])*
 
 ###### Art. 35 {#art35}
-Tags:
 Alterações: [[emenda-constitucional-federal-29-2000|Emenda Constitucional nº 29, de 2000]] (nova redação: inciso III)
 
 **Art. 35, caput** {#art35_cpt} O Estado não intervirá em seus Municípios, nem a União nos Municípios localizados em Território Federal, exceto quando:
@@ -829,7 +793,6 @@ Alterações: [[emenda-constitucional-federal-29-2000|Emenda Constitucional nº 
 - **Art. 35, caput, inciso IV** {#art35_cpt_inc4} o Tribunal de Justiça der provimento a representação para assegurar a observância de princípios indicados na Constituição Estadual, ou para prover a execução de lei, de ordem ou de decisão judicial.
 
 ###### Art. 36 {#art36}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (nova redação: inciso III; revogado: inciso IV)
 
 **Art. 36, caput** {#art36_cpt} A decretação da intervenção dependerá:
@@ -851,7 +814,6 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 #### SEÇÃO I – DISPOSIÇÕES GERAIS
 
 ###### Art. 37 {#art37}
-Tags:
 Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: caput, inciso I, inciso II, inciso V, inciso VII, inciso X, inciso XIII, inciso XIV, inciso XV, inciso XVI, inciso XVI, alínea "a", inciso XVII, inciso XIX, § 3º; incluído: § 3º, inciso I, § 3º, inciso II, § 3º, inciso III, § 7º, § 8º, § 8º, inciso I, § 8º, inciso II, § 8º, inciso III, § 9º); [[emenda-constitucional-federal-41-2003|Emenda Constitucional nº 41, 19.12.2003]] (nova redação: inciso XI); [[emenda-constitucional-federal-138-2025|Emenda Constitucional nº 138, de 2025]] (nova redação: inciso XVI, alínea "b"); [[emenda-constitucional-federal-34-2001|Emenda Constitucional nº 34, de 2001]] (nova redação: inciso XVI, alínea "c"); [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (incluído: inciso XXII); [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]] (incluído: § 10); [[emenda-constitucional-federal-135-2024|Emenda Constitucional nº 135, de 2024]] (nova redação: § 11); [[emenda-constitucional-federal-47-2005|Emenda Constitucional nº 47, de 2005]] (incluído: § 12); [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (incluído: § 13, § 14, § 15); [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (incluído: § 16)
 
 **Art. 37, caput** {#art37_cpt} #redacao-alterada A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte: *(Redação dada pela [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]])*
@@ -920,7 +882,6 @@ Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 
 **Art. 37, § 16** {#art37_par16} #incluido Os órgãos e entidades da administração pública, individual ou conjuntamente, devem realizar avaliação das políticas públicas, inclusive com divulgação do objeto a ser avaliado e dos resultados alcançados, na forma da lei. *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
 
 ###### Art. 38 {#art38}
-Tags:
 Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: caput); [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (nova redação: inciso V)
 
 **Art. 38, caput** {#art38_cpt} #redacao-alterada Ao servidor público da administração direta, autárquica e fundacional, no exercício de mandato eletivo, aplicam-se as seguintes disposições: *(Redação dada pela [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]])*
@@ -933,7 +894,6 @@ Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 
 #### SEÇÃO II – DOS SERVIDORES PÚBLICOS *(Redação dada pela [[emenda-constitucional-federal-18-1998|Emenda Constitucional nº 18, de 1998]])*
 
 ###### Art. 39 {#art39}
-Tags:
 Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: caput, § 1º, § 2º; incluído: § 1º, inciso I, § 1º, inciso II, § 1º, inciso III, § 3º, § 4º, § 5º, § 6º, § 7º, § 8º); [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (incluído: § 9º)
 
 **Art. 39, caput** {#art39_cpt} #redacao-alterada A União, os Estados, o Distrito Federal e os Municípios instituirão conselho de política de administração e remuneração de pessoal, integrado por servidores designados pelos respectivos Poderes. *(Redação dada pela [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]])* *(Vide ADI nº 2.135)*
@@ -960,7 +920,6 @@ Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 
 **Art. 39, § 9º** {#art39_par9} #incluido É vedada a incorporação de vantagens de caráter temporário ou vinculadas ao exercício de função de confiança ou de cargo em comissão à remuneração do cargo efetivo. *(Incluído pela [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]])*
 
 ###### Art. 40 {#art40}
-Tags:
 Alterações: [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (nova redação: caput, § 1º, § 1º, inciso I, § 1º, inciso III, § 2º, § 3º, § 5º, § 6º, § 7º, § 9º, § 12, § 13, § 14, § 15, § 19, § 20, § 21; incluído: § 4º-A, § 4º-B, § 4º-C, § 22, § 22, inciso I, § 22, inciso II, § 22, inciso III, § 22, inciso IV, § 22, inciso V, § 22, inciso VI, § 22, inciso VII, § 22, inciso VIII, § 22, inciso IX, § 22, inciso X); [[emenda-constitucional-federal-88-2015|Emenda Constitucional nº 88, de 2015]] (nova redação: § 1º, inciso II); [[emenda-constitucional-federal-140-2026|Emenda Constitucional nº 140, de 2026]] (nova redação: § 4º; incluído: § 5º-A); [[emenda-constitucional-federal-41-2003|Emenda Constitucional nº 41, 19.12.2003]] (nova redação: § 8º; incluído: § 17, § 18); [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 15/12/98]] (incluído: § 10, § 11, § 16)
 
 **Art. 40, caput** {#art40_cpt} #redacao-alterada O regime próprio de previdência social dos servidores titulares de cargos efetivos terá caráter contributivo e solidário, mediante contribuição do respectivo ente federativo, de servidores ativos, de aposentados e de pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial. *(Redação dada pela [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]])*
@@ -1031,7 +990,6 @@ Alterações: [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº
 - **Art. 40, § 22, inciso X** {#art40_par22_inc10} #incluido parâmetros para apuração da base de cálculo e definição de alíquota de contribuições ordinárias e extraordinárias. *(Incluído pela [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]])*
 
 ###### Art. 41 {#art41}
-Tags:
 Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: caput, § 1º, § 2º, § 3º; incluído: § 1º, inciso I, § 1º, inciso II, § 1º, inciso III, § 4º)
 
 **Art. 41, caput** {#art41_cpt} #redacao-alterada São estáveis após três anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público. *(Redação dada pela [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]])*
@@ -1050,7 +1008,6 @@ Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 
 #### SEÇÃO III – DOS MILITARES DOS ESTADOS, DO DISTRITO FEDERAL E DOS TERRITÓRIOS *(Redação dada pela [[emenda-constitucional-federal-18-1998|Emenda Constitucional nº 18, de 1998]])*
 
 ###### Art. 42 {#art42}
-Tags:
 Alterações: [[emenda-constitucional-federal-18-1998|Emenda Constitucional nº 18, de 1998]] (nova redação: caput); [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 15/12/98]] (nova redação: § 1º); [[emenda-constitucional-federal-41-2003|Emenda Constitucional nº 41, 19.12.2003]] (nova redação: § 2º); [[emenda-constitucional-federal-101-2019|Emenda Constitucional nº 101, de 2019]] (incluído: § 3º)
 
 **Art. 42, caput** {#art42_cpt} #redacao-alterada Os membros das Polícias Militares e Corpos de Bombeiros Militares, instituições organizadas com base na hierarquia e disciplina, são militares dos Estados, do Distrito Federal e dos Territórios. *(Redação dada pela [[emenda-constitucional-federal-18-1998|Emenda Constitucional nº 18, de 1998]])*
@@ -1064,7 +1021,6 @@ Alterações: [[emenda-constitucional-federal-18-1998|Emenda Constitucional nº 
 #### SEÇÃO IV – DAS REGIÕES
 
 ###### Art. 43 {#art43}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: § 4º)
 
 **Art. 43, caput** {#art43_cpt} Para efeitos administrativos, a União poderá articular sua ação em um mesmo complexo geoeconômico e social, visando a seu desenvolvimento e à redução das desigualdades regionais.
@@ -1090,14 +1046,12 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 #### SEÇÃO I – DO CONGRESSO NACIONAL
 
 ###### Art. 44 {#art44}
-Tags:
 
 **Art. 44, caput** {#art44_cpt} O Poder Legislativo é exercido pelo Congresso Nacional, que se compõe da Câmara dos Deputados e do Senado Federal.
 
 **Art. 44, parágrafo único** {#art44_par1u} Cada legislatura terá a duração de quatro anos.
 
 ###### Art. 45 {#art45}
-Tags:
 
 **Art. 45, caput** {#art45_cpt} A Câmara dos Deputados compõe-se de representantes do povo, eleitos, pelo sistema proporcional, em cada Estado, em cada Território e no Distrito Federal.
 
@@ -1106,7 +1060,6 @@ Tags:
 **Art. 45, § 2º** {#art45_par2} Cada Território elegerá quatro Deputados.
 
 ###### Art. 46 {#art46}
-Tags:
 
 **Art. 46, caput** {#art46_cpt} O Senado Federal compõe-se de representantes dos Estados e do Distrito Federal, eleitos segundo o princípio majoritário.
 
@@ -1117,14 +1070,12 @@ Tags:
 **Art. 46, § 3º** {#art46_par3} Cada Senador será eleito com dois suplentes.
 
 ###### Art. 47 {#art47}
-Tags:
 
 **Art. 47, caput** {#art47_cpt} Salvo disposição constitucional em contrário, as deliberações de cada Casa e de suas Comissões serão tomadas por maioria dos votos, presente a maioria absoluta de seus membros.
 
 #### SEÇÃO II – DAS ATRIBUIÇÕES DO CONGRESSO NACIONAL
 
 ###### Art. 48 {#art48}
-Tags:
 Alterações: [[emenda-constitucional-federal-69-2012|Emenda Constitucional nº 69, de 2012]] (nova redação: inciso IX); [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 32, de 2001]] (nova redação: inciso X, inciso XI); [[emenda-constitucional-federal-41-2003|Emenda Constitucional nº 41, 19.12.2003]] (nova redação: inciso XV)
 
 **Art. 48, caput** {#art48_cpt} Cabe ao Congresso Nacional, com a sanção do Presidente da República, não exigida esta para o especificado nos arts. [[#art49|49]], [[#art51|51]] e [[#art52|52]], dispor sobre todas as matérias de competência da União, especialmente sobre:
@@ -1145,7 +1096,6 @@ Alterações: [[emenda-constitucional-federal-69-2012|Emenda Constitucional nº 
 - **Art. 48, caput, inciso XV** {#art48_cpt_inc15} #redacao-alterada fixação do subsídio dos Ministros do Supremo Tribunal Federal, observado o que dispõem os arts. [[#art39|39]], § 4º; 150, II; 153, III; e 153, § 2º, I. *(Redação dada pela [[emenda-constitucional-federal-41-2003|Emenda Constitucional nº 41, 19.12.2003]])*
 
 ###### Art. 49 {#art49}
-Tags:
 Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: inciso VII, inciso VIII); [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (incluído: inciso XVIII)
 
 **Art. 49, caput** {#art49_cpt} É da competência exclusiva do Congresso Nacional:
@@ -1169,7 +1119,6 @@ Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 
 - **Art. 49, caput, inciso XVIII** {#art49_cpt_inc18} #incluido decretar o estado de calamidade pública de âmbito nacional previsto nos arts. [[#art167-b|167-B]], [[#art167-c|167-C]], [[#art167-d|167-D]], [[#art167-e|167-E]], [[#art167-f|167-F]] e [[#art167-g|167-G]] desta Constituição. *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
 
 ###### Art. 50 {#art50}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (nova redação: caput); [[emenda-constitucional-revisao-federal-2-1994|Emenda Constitucional de Revisão nº 2, de 1994]] (nova redação: § 2º)
 
 **Art. 50, caput** {#art50_cpt} #redacao-alterada A Câmara dos Deputados e o Senado Federal, ou qualquer de suas Comissões, poderão convocar Ministro de Estado, quaisquer titulares de órgãos diretamente subordinados à Presidência da República ou o Presidente do Comitê Gestor do Imposto sobre Bens e Serviços para prestarem, pessoalmente, informações sobre assunto previamente determinado, importando crime de responsabilidade a ausência sem justificação adequada. *(Redação dada pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -1181,7 +1130,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 #### SEÇÃO III – DA CÂMARA DOS DEPUTADOS
 
 ###### Art. 51 {#art51}
-Tags:
 Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: inciso IV)
 
 **Art. 51, caput** {#art51_cpt} Compete privativamente à Câmara dos Deputados:
@@ -1194,7 +1142,6 @@ Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 
 #### SEÇÃO IV – DO SENADO FEDERAL
 
 ###### Art. 52 {#art52}
-Tags:
 Alterações: [[emenda-constitucional-federal-23-1999|Emenda Constitucional nº 23, de 1999]] (nova redação: inciso I); [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (nova redação: inciso II); [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: inciso XIII); [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (incluído: inciso XV)
 
 **Art. 52, caput** {#art52_cpt} Compete privativamente ao Senado Federal:
@@ -1225,7 +1172,6 @@ Alterações: [[emenda-constitucional-federal-23-1999|Emenda Constitucional nº 
 #### SEÇÃO V – DOS DEPUTADOS E DOS SENADORES
 
 ###### Art. 53 {#art53}
-Tags:
 Alterações: [[emenda-constitucional-federal-35-2001|Emenda Constitucional nº 35, de 2001]] (nova redação: caput, § 1º, § 2º, § 3º, § 4º, § 5º, § 6º, § 7º; incluído: § 8º)
 
 **Art. 53, caput** {#art53_cpt} #redacao-alterada Os Deputados e Senadores são invioláveis, civil e penalmente, por quaisquer de suas opiniões, palavras e votos. *(Redação dada pela [[emenda-constitucional-federal-35-2001|Emenda Constitucional nº 35, de 2001]])*
@@ -1247,7 +1193,6 @@ Alterações: [[emenda-constitucional-federal-35-2001|Emenda Constitucional nº 
 **Art. 53, § 8º** {#art53_par8} #incluido As imunidades de Deputados ou Senadores subsistirão durante o estado de sítio, só podendo ser suspensas mediante o voto de dois terços dos membros da Casa respectiva, nos casos de atos praticados fora do recinto do Congresso Nacional, que sejam incompatíveis com a execução da medida. *(Incluído pela [[emenda-constitucional-federal-35-2001|Emenda Constitucional nº 35, de 2001]])*
 
 ###### Art. 54 {#art54}
-Tags:
 
 **Art. 54, caput** {#art54_cpt} Os Deputados e Senadores não poderão:
 - **Art. 54, caput, inciso I** {#art54_cpt_inc1} desde a expedição do diploma:
@@ -1260,7 +1205,6 @@ Tags:
   - **Art. 54, caput, inciso II, alínea "d"** {#art54_cpt_inc2_alid} ser titulares de mais de um cargo ou mandato público eletivo.
 
 ###### Art. 55 {#art55}
-Tags:
 Alterações: [[emenda-constitucional-federal-76-2013|Emenda Constitucional nº 76, de 2013]] (nova redação: § 2º); [[emenda-constitucional-revisao-federal-6-1994|Emenda Constitucional de Revisão nº 6, de 1994]] (incluído: § 4º)
 
 **Art. 55, caput** {#art55_cpt} Perderá o mandato o Deputado ou Senador:
@@ -1280,7 +1224,6 @@ Alterações: [[emenda-constitucional-federal-76-2013|Emenda Constitucional nº 
 **Art. 55, § 4º** {#art55_par4} #incluido A renúncia de parlamentar submetido a processo que vise ou possa levar à perda do mandato, nos termos deste artigo, terá seus efeitos suspensos até as deliberações finais de que tratam os §§ 2º e 3º. *(Incluído pela [[emenda-constitucional-revisao-federal-6-1994|Emenda Constitucional de Revisão nº 6, de 1994]])*
 
 ###### Art. 56 {#art56}
-Tags:
 
 **Art. 56, caput** {#art56_cpt} Não perderá o mandato o Deputado ou Senador:
 - **Art. 56, caput, inciso I** {#art56_cpt_inc1} investido no cargo de Ministro de Estado, Governador de Território, Secretário de Estado, do Distrito Federal, de Território, de Prefeitura de Capital ou chefe de missão diplomática temporária;
@@ -1295,7 +1238,6 @@ Tags:
 #### SEÇÃO VI – DAS REUNIÕES
 
 ###### Art. 57 {#art57}
-Tags:
 Alterações: [[emenda-constitucional-federal-50-2006|Emenda Constitucional nº 50, de 2006]] (nova redação: caput, § 4º, § 6º, § 6º, inciso II, § 7º); [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 32, de 2001]] (incluído: § 8º)
 
 **Art. 57, caput** {#art57_cpt} #redacao-alterada O Congresso Nacional reunir-se-á, anualmente, na Capital Federal, de 2 de fevereiro a 17 de julho e de 1º de agosto a 22 de dezembro. *(Redação dada pela [[emenda-constitucional-federal-50-2006|Emenda Constitucional nº 50, de 2006]])*
@@ -1325,7 +1267,6 @@ Alterações: [[emenda-constitucional-federal-50-2006|Emenda Constitucional nº 
 #### SEÇÃO VII – DAS COMISSÕES
 
 ###### Art. 58 {#art58}
-Tags:
 
 **Art. 58, caput** {#art58_cpt} O Congresso Nacional e suas Casas terão comissões permanentes e temporárias, constituídas na forma e com as atribuições previstas no respectivo regimento ou no ato de que resultar sua criação.
 
@@ -1348,7 +1289,6 @@ Tags:
 ##### SUBSEÇÃO I – DISPOSIÇÃO GERAL
 
 ###### Art. 59 {#art59}
-Tags:
 
 **Art. 59, caput** {#art59_cpt} O processo legislativo compreende a elaboração de:
 - **Art. 59, caput, inciso I** {#art59_cpt_inc1} emendas à Constituição;
@@ -1364,7 +1304,6 @@ Tags:
 ##### SUBSEÇÃO II – DA EMENDA À CONSTITUIÇÃO
 
 ###### Art. 60 {#art60}
-Tags:
 
 **Art. 60, caput** {#art60_cpt} A Constituição poderá ser emendada mediante proposta:
 - **Art. 60, caput, inciso I** {#art60_cpt_inc1} de um terço, no mínimo, dos membros da Câmara dos Deputados ou do Senado Federal;
@@ -1388,7 +1327,6 @@ Tags:
 ##### SUBSEÇÃO III – DAS LEIS
 
 ###### Art. 61 {#art61}
-Tags:
 Alterações: [[emenda-constitucional-federal-18-1998|Emenda Constitucional nº 18, de 1998]] (nova redação: § 1º, inciso II, alínea "c"; incluído: § 1º, inciso II, alínea "f"); [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 32, de 2001]] (nova redação: § 1º, inciso II, alínea "e")
 
 **Art. 61, caput** {#art61_cpt} A iniciativa das leis complementares e ordinárias cabe a qualquer membro ou Comissão da Câmara dos Deputados, do Senado Federal ou do Congresso Nacional, ao Presidente da República, ao Supremo Tribunal Federal, aos Tribunais Superiores, ao Procurador-Geral da República e aos cidadãos, na forma e nos casos previstos nesta Constituição.
@@ -1406,7 +1344,6 @@ Alterações: [[emenda-constitucional-federal-18-1998|Emenda Constitucional nº 
 **Art. 61, § 2º** {#art61_par2} A iniciativa popular pode ser exercida pela apresentação à Câmara dos Deputados de projeto de lei subscrito por, no mínimo, um por cento do eleitorado nacional, distribuído pelo menos por cinco Estados, com não menos de três décimos por cento dos eleitores de cada um deles.
 
 ###### Art. 62 {#art62}
-Tags:
 Alterações: [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 32, de 2001]] (nova redação: caput; incluído: § 1º, § 1º, inciso I, § 1º, inciso I, alínea "a", § 1º, inciso I, alínea "b", § 1º, inciso I, alínea "c", § 1º, inciso I, alínea "d", § 1º, inciso II, § 1º, inciso III, § 1º, inciso IV, § 2º, § 3º, § 4º, § 5º, § 6º, § 7º, § 8º, § 9º, § 10, § 11, § 12)
 
 **Art. 62, caput** {#art62_cpt} #redacao-alterada Em caso de relevância e urgência, o Presidente da República poderá adotar medidas provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional. *(Redação dada pela [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 32, de 2001]])*
@@ -1444,14 +1381,12 @@ Alterações: [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 
 **Art. 62, § 12** {#art62_par12} #incluido Aprovado projeto de lei de conversão alterando o texto original da medida provisória, esta manter-se-á integralmente em vigor até que seja sancionado ou vetado o projeto. *(Incluído pela [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 32, de 2001]])*
 
 ###### Art. 63 {#art63}
-Tags:
 
 **Art. 63, caput** {#art63_cpt} Não será admitido aumento da despesa prevista:
 - **Art. 63, caput, inciso I** {#art63_cpt_inc1} nos projetos de iniciativa exclusiva do Presidente da República, ressalvado o disposto no art. [[#art166|166]], § 3º e § 4º;
 - **Art. 63, caput, inciso II** {#art63_cpt_inc2} nos projetos sobre organização dos serviços administrativos da Câmara dos Deputados, do Senado Federal, dos Tribunais Federais e do Ministério Público.
 
 ###### Art. 64 {#art64}
-Tags:
 Alterações: [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 32, de 2001]] (nova redação: § 2º)
 
 **Art. 64, caput** {#art64_cpt} A discussão e votação dos projetos de lei de iniciativa do Presidente da República, do Supremo Tribunal Federal e dos Tribunais Superiores terão início na Câmara dos Deputados.
@@ -1465,14 +1400,12 @@ Alterações: [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 
 **Art. 64, § 4º** {#art64_par4} Os prazos do § 2º não correm nos períodos de recesso do Congresso Nacional, nem se aplicam aos projetos de código.
 
 ###### Art. 65 {#art65}
-Tags:
 
 **Art. 65, caput** {#art65_cpt} O projeto de lei aprovado por uma Casa será revisto pela outra, em um só turno de discussão e votação, e enviado à sanção ou promulgação, se a Casa revisora o aprovar, ou arquivado, se o rejeitar.
 
 **Art. 65, parágrafo único** {#art65_par1u} Sendo o projeto emendado, voltará à Casa iniciadora.
 
 ###### Art. 66 {#art66}
-Tags:
 Alterações: [[emenda-constitucional-federal-76-2013|Emenda Constitucional nº 76, de 2013]] (nova redação: § 4º); [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 32, de 2001]] (nova redação: § 6º)
 
 **Art. 66, caput** {#art66_cpt} A Casa na qual tenha sido concluída a votação enviará o projeto de lei ao Presidente da República, que, aquiescendo, o sancionará.
@@ -1492,12 +1425,10 @@ Alterações: [[emenda-constitucional-federal-76-2013|Emenda Constitucional nº 
 **Art. 66, § 7º** {#art66_par7} Se a lei não for promulgada dentro de quarenta e oito horas pelo Presidente da República, nos casos dos § 3º e § 5º, o Presidente do Senado a promulgará, e, se este não o fizer em igual prazo, caberá ao Vice-Presidente do Senado fazê-lo.
 
 ###### Art. 67 {#art67}
-Tags:
 
 **Art. 67, caput** {#art67_cpt} A matéria constante de projeto de lei rejeitado somente poderá constituir objeto de novo projeto, na mesma sessão legislativa, mediante proposta da maioria absoluta dos membros de qualquer das Casas do Congresso Nacional.
 
 ###### Art. 68 {#art68}
-Tags:
 
 **Art. 68, caput** {#art68_cpt} As leis delegadas serão elaboradas pelo Presidente da República, que deverá solicitar a delegação ao Congresso Nacional.
 
@@ -1511,14 +1442,12 @@ Tags:
 **Art. 68, § 3º** {#art68_par3} Se a resolução determinar a apreciação do projeto pelo Congresso Nacional, este a fará em votação única, vedada qualquer emenda.
 
 ###### Art. 69 {#art69}
-Tags:
 
 **Art. 69, caput** {#art69_cpt} As leis complementares serão aprovadas por maioria absoluta.
 
 #### SEÇÃO IX – DA FISCALIZAÇÃO CONTÁBIL, FINANCEIRA E ORÇAMENTÁRIA
 
 ###### Art. 70 {#art70}
-Tags:
 Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: parágrafo único)
 
 **Art. 70, caput** {#art70_cpt} A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder.
@@ -1526,7 +1455,6 @@ Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 
 **Art. 70, parágrafo único** {#art70_par1u} #redacao-alterada Prestará contas qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária. *(Redação dada pela [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]])*
 
 ###### Art. 71 {#art71}
-Tags:
 
 **Art. 71, caput** {#art71_cpt} O controle externo, a cargo do Congresso Nacional, será exercido com o auxílio do Tribunal de Contas da União, ao qual compete:
 - **Art. 71, caput, inciso I** {#art71_cpt_inc1} apreciar as contas prestadas anualmente pelo Presidente da República, mediante parecer prévio que deverá ser elaborado em sessenta dias a contar de seu recebimento;
@@ -1550,7 +1478,6 @@ Tags:
 **Art. 71, § 4º** {#art71_par4} O Tribunal encaminhará ao Congresso Nacional, trimestral e anualmente, relatório de suas atividades.
 
 ###### Art. 72 {#art72}
-Tags:
 
 **Art. 72, caput** {#art72_cpt} A Comissão mista permanente a que se refere o art. [[#art166|166]], §1º, diante de indícios de despesas não autorizadas, ainda que sob a forma de investimentos não programados ou de subsídios não aprovados, poderá solicitar à autoridade governamental responsável que, no prazo de cinco dias, preste os esclarecimentos necessários.
 
@@ -1559,7 +1486,6 @@ Tags:
 **Art. 72, § 2º** {#art72_par2} Entendendo o Tribunal irregular a despesa, a Comissão, se julgar que o gasto possa causar dano irreparável ou grave lesão à economia pública, proporá ao Congresso Nacional sua sustação.
 
 ###### Art. 73 {#art73}
-Tags:
 Alterações: [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº 122, de 2022]] (nova redação: § 1º, inciso I); [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]] (nova redação: § 3º)
 
 **Art. 73, caput** {#art73_cpt} O Tribunal de Contas da União, integrado por nove Ministros, tem sede no Distrito Federal, quadro próprio de pessoal e jurisdição em todo o território nacional, exercendo, no que couber, as atribuições previstas no art. [[#art96|96]].
@@ -1579,7 +1505,6 @@ Alterações: [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº
 **Art. 73, § 4º** {#art73_par4} O auditor, quando em substituição a Ministro, terá as mesmas garantias e impedimentos do titular e, quando no exercício das demais atribuições da judicatura, as de juiz de Tribunal Regional Federal.
 
 ###### Art. 74 {#art74}
-Tags:
 
 **Art. 74, caput** {#art74_cpt} Os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno com a finalidade de:
 - **Art. 74, caput, inciso I** {#art74_cpt_inc1} avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e dos orçamentos da União;
@@ -1592,7 +1517,6 @@ Tags:
 **Art. 74, § 2º** {#art74_par2} Qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União.
 
 ###### Art. 75 {#art75}
-Tags:
 Alterações: [[emenda-constitucional-federal-139-2026|Emenda Constitucional nº 139, de 2026]] (nova redação: caput)
 
 **Art. 75, caput** {#art75_cpt} #redacao-alterada Os Tribunais de Contas são instituições permanentes, essenciais ao exercício do controle externo, e as normas estabelecidas nesta Seção aplicam-se, no que couber, à organização, composição e fiscalização dos Tribunais de Contas dos Estados e do Distrito Federal, bem como dos Tribunais e Conselhos de Contas dos Municípios, vedada sua extinção, criação ou instalação. *(Redação dada pela [[emenda-constitucional-federal-139-2026|Emenda Constitucional nº 139, de 2026]])*
@@ -1604,12 +1528,10 @@ Alterações: [[emenda-constitucional-federal-139-2026|Emenda Constitucional nº
 #### SEÇÃO I – DO PRESIDENTE E DO VICE-PRESIDENTE DA REPÚBLICA
 
 ###### Art. 76 {#art76}
-Tags:
 
 **Art. 76, caput** {#art76_cpt} O Poder Executivo é exercido pelo Presidente da República, auxiliado pelos Ministros de Estado.
 
 ###### Art. 77 {#art77}
-Tags:
 Alterações: [[emenda-constitucional-federal-16-1997|Emenda Constitucional nº 16, de 1997]] (nova redação: caput)
 
 **Art. 77, caput** {#art77_cpt} #redacao-alterada A eleição do Presidente e do Vice-Presidente da República realizar-se-á, simultaneamente, no primeiro domingo de outubro, em primeiro turno, e no último domingo de outubro, em segundo turno, se houver, do ano anterior ao do término do mandato presidencial vigente. *(Redação dada pela [[emenda-constitucional-federal-16-1997|Emenda Constitucional nº 16, de 1997]])*
@@ -1625,26 +1547,22 @@ Alterações: [[emenda-constitucional-federal-16-1997|Emenda Constitucional nº 
 **Art. 77, § 5º** {#art77_par5} Se, na hipótese dos parágrafos anteriores, remanescer, em segundo lugar, mais de um candidato com a mesma votação, qualificar-se-á o mais idoso.
 
 ###### Art. 78 {#art78}
-Tags:
 
 **Art. 78, caput** {#art78_cpt} O Presidente e o Vice-Presidente da República tomarão posse em sessão do Congresso Nacional, prestando o compromisso de manter, defender e cumprir a Constituição, observar as leis, promover o bem geral do povo brasileiro, sustentar a união, a integridade e a independência do Brasil.
 
 **Art. 78, parágrafo único** {#art78_par1u} Se, decorridos dez dias da data fixada para a posse, o Presidente ou o Vice-Presidente, salvo motivo de força maior, não tiver assumido o cargo, este será declarado vago.
 
 ###### Art. 79 {#art79}
-Tags:
 
 **Art. 79, caput** {#art79_cpt} Substituirá o Presidente, no caso de impedimento, e suceder-lhe-á, no de vaga, o Vice-Presidente.
 
 **Art. 79, parágrafo único** {#art79_par1u} O Vice-Presidente da República, além de outras atribuições que lhe forem conferidas por lei complementar, auxiliará o Presidente, sempre que por ele convocado para missões especiais.
 
 ###### Art. 80 {#art80}
-Tags:
 
 **Art. 80, caput** {#art80_cpt} Em caso de impedimento do Presidente e do Vice-Presidente, ou vacância dos respectivos cargos, serão sucessivamente chamados ao exercício da Presidência o Presidente da Câmara dos Deputados, o do Senado Federal e o do Supremo Tribunal Federal.
 
 ###### Art. 81 {#art81}
-Tags:
 
 **Art. 81, caput** {#art81_cpt} Vagando os cargos de Presidente e Vice-Presidente da República, far-se-á eleição noventa dias depois de aberta a última vaga.
 
@@ -1653,20 +1571,17 @@ Tags:
 **Art. 81, § 2º** {#art81_par2} Em qualquer dos casos, os eleitos deverão completar o período de seus antecessores.
 
 ###### Art. 82 {#art82}
-Tags:
 Alterações: [[emenda-constitucional-federal-111-2021|Emenda Constitucional nº 111, de 2021]] (nova redação: caput)
 
 **Art. 82, caput** {#art82_cpt} #redacao-alterada O mandato do Presidente da República é de 4 (quatro) anos e terá início em 5 de janeiro do ano seguinte ao de sua eleição. *(Redação dada pela [[emenda-constitucional-federal-111-2021|Emenda Constitucional nº 111, de 2021]])*
 
 ###### Art. 83 {#art83}
-Tags:
 
 **Art. 83, caput** {#art83_cpt} O Presidente e o Vice-Presidente da República não poderão, sem licença do Congresso Nacional, ausentar-se do País por período superior a quinze dias, sob pena de perda do cargo.
 
 #### SEÇÃO II – DAS ATRIBUIÇÕES DO PRESIDENTE DA REPÚBLICA
 
 ###### Art. 84 {#art84}
-Tags:
 Alterações: [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 32, de 2001]] (nova redação: inciso VI; incluído: inciso VI, alínea "a", inciso VI, alínea "b"); [[emenda-constitucional-federal-23-1999|Emenda Constitucional nº 23, de 1999]] (nova redação: inciso XIII); [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (incluído: inciso XXVIII)
 
 **Art. 84, caput** {#art84_cpt} Compete privativamente ao Presidente da República:
@@ -1706,7 +1621,6 @@ Alterações: [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 
 #### SEÇÃO III – DA RESPONSABILIDADE DO PRESIDENTE DA REPÚBLICA
 
 ###### Art. 85 {#art85}
-Tags:
 
 **Art. 85, caput** {#art85_cpt} São crimes de responsabilidade os atos do Presidente da República que atentem contra a Constituição Federal e, especialmente, contra:
 - **Art. 85, caput, inciso I** {#art85_cpt_inc1} a existência da União;
@@ -1720,7 +1634,6 @@ Tags:
 **Art. 85, parágrafo único** {#art85_par1u} Esses crimes serão definidos em lei especial, que estabelecerá as normas de processo e julgamento.
 
 ###### Art. 86 {#art86}
-Tags:
 
 **Art. 86, caput** {#art86_cpt} Admitida a acusação contra o Presidente da República, por dois terços da Câmara dos Deputados, será ele submetido a julgamento perante o Supremo Tribunal Federal, nas infrações penais comuns, ou perante o Senado Federal, nos crimes de responsabilidade.
 
@@ -1737,7 +1650,6 @@ Tags:
 #### SEÇÃO IV – DOS MINISTROS DE ESTADO
 
 ###### Art. 87 {#art87}
-Tags:
 
 **Art. 87, caput** {#art87_cpt} Os Ministros de Estado serão escolhidos dentre brasileiros maiores de vinte e um anos e no exercício dos direitos políticos.
 
@@ -1748,7 +1660,6 @@ Tags:
 - **Art. 87, parágrafo único, inciso IV** {#art87_par1u_inc4} praticar os atos pertinentes às atribuições que lhe forem outorgadas ou delegadas pelo Presidente da República.
 
 ###### Art. 88 {#art88}
-Tags:
 Alterações: [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 32, de 2001]] (nova redação: caput)
 
 **Art. 88, caput** {#art88_cpt} #redacao-alterada A lei disporá sobre a criação e extinção de Ministérios e órgãos da administração pública. *(Redação dada pela [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 32, de 2001]])*
@@ -1758,7 +1669,6 @@ Alterações: [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 
 ##### SUBSEÇÃO I – DO CONSELHO DA REPÚBLICA
 
 ###### Art. 89 {#art89}
-Tags:
 
 **Art. 89, caput** {#art89_cpt} O Conselho da República é órgão superior de consulta do Presidente da República, e dele participam:
 - **Art. 89, caput, inciso I** {#art89_cpt_inc1} o Vice-Presidente da República;
@@ -1770,7 +1680,6 @@ Tags:
 - **Art. 89, caput, inciso VII** {#art89_cpt_inc7} seis cidadãos brasileiros natos, com mais de trinta e cinco anos de idade, sendo dois nomeados pelo Presidente da República, dois eleitos pelo Senado Federal e dois eleitos pela Câmara dos Deputados, todos com mandato de três anos, vedada a recondução.
 
 ###### Art. 90 {#art90}
-Tags:
 
 **Art. 90, caput** {#art90_cpt} Compete ao Conselho da República pronunciar-se sobre:
 - **Art. 90, caput, inciso I** {#art90_cpt_inc1} intervenção federal, estado de defesa e estado de sítio;
@@ -1783,7 +1692,6 @@ Tags:
 ##### SUBSEÇÃO II – DO CONSELHO DE DEFESA NACIONAL
 
 ###### Art. 91 {#art91}
-Tags:
 Alterações: [[emenda-constitucional-federal-23-1999|Emenda Constitucional nº 23, de 1999]] (nova redação: inciso V; incluído: inciso VIII)
 
 **Art. 91, caput** {#art91_cpt} O Conselho de Defesa Nacional é órgão de consulta do Presidente da República nos assuntos relacionados com a soberania nacional e a defesa do Estado democrático, e dele participam como membros natos:
@@ -1809,7 +1717,6 @@ Alterações: [[emenda-constitucional-federal-23-1999|Emenda Constitucional nº 
 #### SEÇÃO I – DISPOSIÇÕES GERAIS
 
 ###### Art. 92 {#art92}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (incluído: inciso I-A, § 1º, § 2º); [[emenda-constitucional-federal-92-2016|Emenda Constitucional nº 92, de 2016]] (incluído: inciso II-A)
 
 **Art. 92, caput** {#art92_cpt} São órgãos do Poder Judiciário:
@@ -1828,7 +1735,6 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 **Art. 92, § 2º** {#art92_par2} #incluido O Supremo Tribunal Federal e os Tribunais Superiores têm jurisdição em todo o território nacional. *(Incluído pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 93 {#art93}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (nova redação: inciso I, inciso II, alínea "c", inciso II, alínea "d", inciso III, inciso IV, inciso VII, inciso IX, inciso X, inciso XI; incluído: inciso II, alínea "e", inciso XII, inciso XIII, inciso XIV, inciso XV); [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: inciso V); [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]] (nova redação: inciso VI); [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (nova redação: inciso VIII); [[emenda-constitucional-federal-130-2023|Emenda Constitucional nº 130, de 2023]] (nova redação: inciso VIII-A; incluído: inciso VIII-B)
 
 **Art. 93, caput** {#art93_cpt} Lei complementar, de iniciativa do Supremo Tribunal Federal, disporá sobre o Estatuto da Magistratura, observados os seguintes princípios:
@@ -1856,14 +1762,12 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 - **Art. 93, caput, inciso XV** {#art93_cpt_inc15} #incluido a distribuição de processos será imediata, em todos os graus de jurisdição. *(Incluído pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 94 {#art94}
-Tags:
 
 **Art. 94, caput** {#art94_cpt} Um quinto dos lugares dos Tribunais Regionais Federais, dos Tribunais dos Estados, e do Distrito Federal e Territórios será composto de membros, do Ministério Público, com mais de dez anos de carreira, e de advogados de notório saber jurídico e de reputação ilibada, com mais de dez anos de efetiva atividade profissional, indicados em lista sêxtupla pelos órgãos de representação das respectivas classes.
 
 **Art. 94, parágrafo único** {#art94_par1u} Recebidas as indicações, o tribunal formará lista tríplice, enviando-a ao Poder Executivo, que, nos vinte dias subseqüentes, escolherá um de seus integrantes para nomeação.
 
 ###### Art. 95 {#art95}
-Tags:
 Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: inciso III); [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (incluído: parágrafo único, inciso IV, parágrafo único, inciso V)
 
 **Art. 95, caput** {#art95_cpt} Os juízes gozam das seguintes garantias:
@@ -1879,7 +1783,6 @@ Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 
 - **Art. 95, parágrafo único, inciso V** {#art95_par1u_inc5} #incluido exercer a advocacia no juízo ou tribunal do qual se afastou, antes de decorridos três anos do afastamento do cargo por aposentadoria ou exoneração. *(Incluído pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 96 {#art96}
-Tags:
 Alterações: [[emenda-constitucional-federal-41-2003|Emenda Constitucional nº 41, 19.12.2003]] (nova redação: inciso II, alínea "b"); [[emenda-constitucional-federal-134-2024|Emenda Constitucional nº 134, de 2024]] (incluído: parágrafo único)
 
 **Art. 96, caput** {#art96_cpt} Compete privativamente:
@@ -1900,12 +1803,10 @@ Alterações: [[emenda-constitucional-federal-41-2003|Emenda Constitucional nº 
 **Art. 96, parágrafo único** {#art96_par1u} #incluido Nos Tribunais de Justiça compostos de mais de 170 (cento e setenta) desembargadores em efetivo exercício, a eleição para os cargos diretivos, de que trata a alínea "a" do inciso I do caput deste artigo, será realizada entre os membros do tribunal pleno, por maioria absoluta e por voto direto e secreto, para um mandato de 2 (dois) anos, vedada mais de 1 (uma) recondução sucessiva. *(Incluído pela [[emenda-constitucional-federal-134-2024|Emenda Constitucional nº 134, de 2024]])*
 
 ###### Art. 97 {#art97}
-Tags:
 
 **Art. 97, caput** {#art97_cpt} Somente pelo voto da maioria absoluta de seus membros ou dos membros do respectivo órgão especial poderão os tribunais declarar a inconstitucionalidade de lei ou ato normativo do Poder Público. *(Vide [[lei-federal-13105-2015|Lei nº 13.105, de 2015]])* *(Vigência)*
 
 ###### Art. 98 {#art98}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (renumerado: § 1º; incluído: § 2º)
 
 **Art. 98, caput** {#art98_cpt} A União, no Distrito Federal e nos Territórios, e os Estados criarão:
@@ -1917,7 +1818,6 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 **Art. 98, § 2º** {#art98_par2} #incluido As custas e emolumentos serão destinados exclusivamente ao custeio dos serviços afetos às atividades específicas da Justiça. *(Incluído pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 99 {#art99}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (incluído: § 3º, § 4º, § 5º)
 
 **Art. 99, caput** {#art99_cpt} Ao Poder Judiciário é assegurada autonomia administrativa e financeira.
@@ -1935,7 +1835,6 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 **Art. 99, § 5º** {#art99_par5} #incluido Durante a execução orçamentária do exercício, não poderá haver a realização de despesas ou a assunção de obrigações que extrapolem os limites estabelecidos na lei de diretrizes orçamentárias, exceto se previamente autorizadas, mediante a abertura de créditos suplementares ou especiais. *(Incluído pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 100 {#art100}
-Tags:
 Alterações: [[emenda-constitucional-federal-62-2009|Emenda Constitucional nº 62, de 2009]] (nova redação: caput, § 3º, § 4º, § 6º; incluído: § 7º, § 8º, § 10, § 12, § 13, § 15, § 16); [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]] (nova redação: § 1º, § 5º; incluído: § 19-A, § 23, § 23, inciso I, § 23, inciso II, § 23, inciso III, § 23, inciso IV, § 23, inciso V, § 23, inciso VI, § 23, inciso VII, § 23, inciso VIII, § 23, inciso IX, § 24, § 25, § 26, § 27, § 27, inciso I, § 27, inciso II, § 27, inciso III, § 27, inciso IV, § 28, § 29, § 30); [[emenda-constitucional-federal-94-2016|Emenda Constitucional nº 94, de 2016]] (nova redação: § 2º; incluído: § 17, § 18, § 18, inciso I, § 18, inciso II, § 18, inciso III, § 19, § 20); [[emenda-constitucional-federal-113-2021|Emenda Constitucional nº 113, de 2021]] (nova redação: § 9º, § 11, § 14; incluído: § 11, inciso I, § 11, inciso II, § 11, inciso III, § 11, inciso IV, § 11, inciso V, § 21, § 21, inciso I, § 21, inciso II, § 21, inciso III, § 21, inciso IV, § 22, § 22, inciso I, § 22, inciso II)
 
 **Art. 100, caput** {#art100_cpt} #redacao-alterada Os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim. *(Redação dada pela [[emenda-constitucional-federal-62-2009|Emenda Constitucional nº 62, de 2009]])* *(Vide [[emenda-constitucional-federal-62-2009|Emenda Constitucional nº 62, de 2009]])* *(Vide ADI 4425)*
@@ -2032,7 +1931,6 @@ Alterações: [[emenda-constitucional-federal-62-2009|Emenda Constitucional nº 
 #### SEÇÃO II – DO SUPREMO TRIBUNAL FEDERAL
 
 ###### Art. 101 {#art101}
-Tags:
 Alterações: [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº 122, de 2022]] (nova redação: caput)
 
 **Art. 101, caput** {#art101_cpt} #redacao-alterada O Supremo Tribunal Federal compõe-se de onze Ministros, escolhidos dentre cidadãos com mais de trinta e cinco e menos de setenta anos de idade, de notável saber jurídico e reputação ilibada. *(Redação dada pela [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº 122, de 2022]])*
@@ -2040,7 +1938,6 @@ Alterações: [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº
 **Art. 101, parágrafo único** {#art101_par1u} Os Ministros do Supremo Tribunal Federal serão nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do Senado Federal.
 
 ###### Art. 102 {#art102}
-Tags:
 Alterações: [[emenda-constitucional-federal-3-1993|Emenda Constitucional nº 3, de 1993]] (nova redação: inciso I, alínea "a"; renumerado: § 1º); [[emenda-constitucional-federal-23-1999|Emenda Constitucional nº 23, de 1999]] (nova redação: inciso I, alínea "c"); [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (revogado: inciso I, alínea "h"; incluído: inciso I, alínea "r", inciso III, alínea "d", § 3º; nova redação: § 2º); [[emenda-constitucional-federal-22-1999|Emenda Constitucional nº 22, de 1999]] (nova redação: inciso I, alínea "i")
 
 **Art. 102, caput** {#art102_cpt} Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
@@ -2078,7 +1975,6 @@ Alterações: [[emenda-constitucional-federal-3-1993|Emenda Constitucional nº 3
 **Art. 102, § 3º** {#art102_par3} #incluido No recurso extraordinário o recorrente deverá demonstrar a repercussão geral das questões constitucionais discutidas no caso, nos termos da lei, a fim de que o Tribunal examine a admissão do recurso, somente podendo recusá-lo pela manifestação de dois terços de seus membros. *(Incluída pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 103 {#art103}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (nova redação: caput, inciso IV, inciso V; revogado: § 4º)
 
 **Art. 103, caput** {#art103_cpt} #redacao-alterada Podem propor a ação direta de inconstitucionalidade e a ação declaratória de constitucionalidade: *(Redação dada pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])* *(Vide [[lei-federal-13105-2015|Lei nº 13.105, de 2015]])* *(Vigência)*
@@ -2101,7 +1997,6 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 **Art. 103, § 4º** {#art103_par4} #revogado *(Revogado pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 103-A {#art103-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (incluído: caput, § 1º, § 2º, § 3º)
 
 **Art. 103-A, caput** {#art103-a_cpt} #incluido O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei. *(Incluído pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])* *(Vide [[lei-federal-11417-2006|Lei nº 11.417, de 2006]])*
@@ -2113,7 +2008,6 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 **Art. 103-A, § 3º** {#art103-a_par3} #incluido Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso. *(Incluído pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 103-B {#art103-b}
-Tags:
 Alterações: [[emenda-constitucional-federal-61-2009|Emenda Constitucional nº 61, de 2009]] (nova redação: caput, inciso I, § 1º, § 2º); [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (incluído: inciso II, inciso III, inciso IV, inciso V, inciso VI, inciso VII, inciso VIII, inciso IX, inciso X, inciso XI, inciso XII, inciso XIII, § 3º, § 4º, § 4º, inciso I, § 4º, inciso II, § 4º, inciso IV, § 4º, inciso V, § 4º, inciso VI, § 4º, inciso VII, § 5º, § 5º, inciso I, § 5º, inciso II, § 5º, inciso III, § 6º, § 7º); [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (nova redação: § 4º, inciso III)
 
 **Art. 103-B, caput** {#art103-b_cpt} #redacao-alterada O Conselho Nacional de Justiça compõe-se de 15 (quinze) membros com mandato de 2 (dois) anos, admitida 1 (uma) recondução, sendo: *(Redação dada pela [[emenda-constitucional-federal-61-2009|Emenda Constitucional nº 61, de 2009]])*
@@ -2158,7 +2052,6 @@ Alterações: [[emenda-constitucional-federal-61-2009|Emenda Constitucional nº 
 #### SEÇÃO III – DO SUPERIOR TRIBUNAL DE JUSTIÇA
 
 ###### Art. 104 {#art104}
-Tags:
 Alterações: [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº 122, de 2022]] (nova redação: parágrafo único)
 
 **Art. 104, caput** {#art104_cpt} O Superior Tribunal de Justiça compõe-se de, no mínimo, trinta e três Ministros.
@@ -2168,7 +2061,6 @@ Alterações: [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº
 - **Art. 104, parágrafo único, inciso II** {#art104_par1u_inc2} um terço, em partes iguais, dentre advogados e membros do Ministério Público Federal, Estadual, do Distrito Federal e Territórios, alternadamente, indicados na forma do art. [[#art94|94]].
 
 ###### Art. 105 {#art105}
-Tags:
 Alterações: [[emenda-constitucional-federal-23-1999|Emenda Constitucional nº 23, de 1999]] (nova redação: inciso I, alínea "b", inciso I, alínea "c"); [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (incluído: inciso I, alínea "i", § 1º, inciso I, § 1º, inciso II; nova redação: inciso III, alínea "b"); [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: inciso I, alínea "j"); [[emenda-constitucional-federal-125-2022|Emenda Constitucional nº 125, de 2022]] (incluído: § 2º, § 3º, § 3º, inciso I, § 3º, inciso II, § 3º, inciso III, § 3º, inciso IV, § 3º, inciso V, § 3º, inciso VI)
 
 **Art. 105, caput** {#art105_cpt} Compete ao Superior Tribunal de Justiça:
@@ -2209,14 +2101,12 @@ Alterações: [[emenda-constitucional-federal-23-1999|Emenda Constitucional nº 
 #### SEÇÃO IV – DOS TRIBUNAIS REGIONAIS FEDERAIS E DOS JUÍZES FEDERAIS
 
 ###### Art. 106 {#art106}
-Tags:
 
 **Art. 106, caput** {#art106_cpt} São órgãos da Justiça Federal:
 - **Art. 106, caput, inciso I** {#art106_cpt_inc1} os Tribunais Regionais Federais;
 - **Art. 106, caput, inciso II** {#art106_cpt_inc2} os Juízes Federais.
 
 ###### Art. 107 {#art107}
-Tags:
 Alterações: [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº 122, de 2022]] (nova redação: caput); [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (renumerado: § 1º; incluído: § 2º, § 3º)
 
 **Art. 107, caput** {#art107_cpt} #redacao-alterada Os Tribunais Regionais Federais compõem-se de, no mínimo, sete juízes, recrutados, quando possível, na respectiva região e nomeados pelo Presidente da República dentre brasileiros com mais de trinta e menos de setenta anos de idade, sendo: *(Redação dada pela [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº 122, de 2022]])*
@@ -2230,7 +2120,6 @@ Alterações: [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº
 **Art. 107, § 3º** {#art107_par3} #incluido Os Tribunais Regionais Federais poderão funcionar descentralizadamente, constituindo Câmaras regionais, a fim de assegurar o pleno acesso do jurisdicionado à justiça em todas as fases do processo. *(Incluído pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 108 {#art108}
-Tags:
 
 **Art. 108, caput** {#art108_cpt} Compete aos Tribunais Regionais Federais:
 - **Art. 108, caput, inciso I** {#art108_cpt_inc1} processar e julgar, originariamente:
@@ -2242,7 +2131,6 @@ Tags:
 - **Art. 108, caput, inciso II** {#art108_cpt_inc2} julgar, em grau de recurso, as causas decididas pelos juízes federais e pelos juízes estaduais no exercício da competência federal da área de sua jurisdição.
 
 ###### Art. 109 {#art109}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (incluído: inciso V-A, § 5º); [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (nova redação: § 3º)
 
 **Art. 109, caput** {#art109_cpt} Aos juízes federais compete processar e julgar:
@@ -2270,7 +2158,6 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 **Art. 109, § 5º** {#art109_par5} #incluido Nas hipóteses de grave violação de direitos humanos, o Procurador-Geral da República, com a finalidade de assegurar o cumprimento de obrigações decorrentes de tratados internacionais de direitos humanos dos quais o Brasil seja parte, poderá suscitar, perante o Superior Tribunal de Justiça, em qualquer fase do inquérito ou processo, incidente de deslocamento de competência para a Justiça Federal. *(Incluído pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 110 {#art110}
-Tags:
 
 **Art. 110, caput** {#art110_cpt} Cada Estado, bem como o Distrito Federal, constituirá uma seção judiciária que terá por sede a respectiva Capital, e varas localizadas segundo o estabelecido em lei.
 
@@ -2279,7 +2166,6 @@ Tags:
 #### SEÇÃO V – DO TRIBUNAL SUPERIOR DO TRABALHO, DOS TRIBUNAIS REGIONAIS DO TRABALHO E DOS JUÍZES DO TRABALHO *(Redação dada pela [[emenda-constitucional-federal-92-2016|Emenda Constitucional nº 92, de 2016]])*
 
 ###### Art. 111 {#art111}
-Tags:
 Alterações: [[emenda-constitucional-federal-24-1999|Emenda Constitucional nº 24, de 1999]] (nova redação: inciso III); [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (revogado: § 1º, § 2º, § 3º)
 
 **Art. 111, caput** {#art111_cpt} São órgãos da Justiça do Trabalho:
@@ -2294,7 +2180,6 @@ Alterações: [[emenda-constitucional-federal-24-1999|Emenda Constitucional nº 
 **Art. 111, § 3º** {#art111_par3} #revogado *(Revogado pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 111-A {#art111-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº 122, de 2022]] (nova redação: caput); [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (incluído: inciso I, inciso II, § 1º, § 2º, § 2º, inciso I, § 2º, inciso II); [[emenda-constitucional-federal-92-2016|Emenda Constitucional nº 92, de 2016]] (incluído: § 3º)
 
 **Art. 111-A, caput** {#art111-a_cpt} #redacao-alterada O Tribunal Superior do Trabalho compõe-se de vinte e sete Ministros, escolhidos dentre brasileiros com mais de trinta e cinco e menos de setenta anos de idade, de notável saber jurídico e reputação ilibada, nomeados pelo Presidente da República após aprovação pela maioria absoluta do Senado Federal, sendo: *(Redação dada pela [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº 122, de 2022]])*
@@ -2310,19 +2195,16 @@ Alterações: [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº
 **Art. 111-A, § 3º** {#art111-a_par3} #incluido Compete ao Tribunal Superior do Trabalho processar e julgar, originariamente, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões. *(Incluído pela [[emenda-constitucional-federal-92-2016|Emenda Constitucional nº 92, de 2016]])*
 
 ###### Art. 112 {#art112}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (nova redação: caput)
 
 **Art. 112, caput** {#art112_cpt} #redacao-alterada A lei criará varas da Justiça do Trabalho, podendo, nas comarcas não abrangidas por sua jurisdição, atribuí-la aos juízes de direito, com recurso para o respectivo Tribunal Regional do Trabalho. *(Redação dada pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 113 {#art113}
-Tags:
 Alterações: [[emenda-constitucional-federal-24-1999|Emenda Constitucional nº 24, de 1999]] (nova redação: caput)
 
 **Art. 113, caput** {#art113_cpt} #redacao-alterada A lei disporá sobre a constituição, investidura, jurisdição, competência, garantias e condições de exercício dos órgãos da Justiça do Trabalho. *(Redação dada pela [[emenda-constitucional-federal-24-1999|Emenda Constitucional nº 24, de 1999]])*
 
 ###### Art. 114 {#art114}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (nova redação: caput, § 2º, § 3º; incluído: inciso I, inciso II, inciso III, inciso IV, inciso V, inciso VI, inciso VII, inciso VIII, inciso IX)
 
 **Art. 114, caput** {#art114_cpt} #redacao-alterada Compete à Justiça do Trabalho processar e julgar: *(Redação dada pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])* *(Vide ADIN 3392)* *(Vide ADIN 3432)*
@@ -2343,7 +2225,6 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 **Art. 114, § 3º** {#art114_par3} #redacao-alterada Em caso de greve em atividade essencial, com possibilidade de lesão do interesse público, o Ministério Público do Trabalho poderá ajuizar dissídio coletivo, competindo à Justiça do Trabalho decidir o conflito. *(Redação dada pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])* *(Vide ADI nº 3423)* *(Vide ADI nº 3431)* *(Vide ADI nº 3520)* *(Vide ADIN 3392)* *(Vide ADIN 3432)*
 
 ###### Art. 115 {#art115}
-Tags:
 Alterações: [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº 122, de 2022]] (nova redação: caput); [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (nova redação: inciso I, inciso II; incluído: § 1º, § 2º)
 
 **Art. 115, caput** {#art115_cpt} #redacao-alterada Os Tribunais Regionais do Trabalho compõem-se de, no mínimo, sete juízes, recrutados, quando possível, na respectiva região e nomeados pelo Presidente da República dentre brasileiros com mais de trinta e menos de setenta anos de idade, sendo: *(Redação dada pela [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº 122, de 2022]])*
@@ -2355,7 +2236,6 @@ Alterações: [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº
 **Art. 115, § 2º** {#art115_par2} #incluido Os Tribunais Regionais do Trabalho poderão funcionar descentralizadamente, constituindo Câmaras regionais, a fim de assegurar o pleno acesso do jurisdicionado à justiça em todas as fases do processo. *(Incluído pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 116 {#art116}
-Tags:
 Alterações: [[emenda-constitucional-federal-24-1999|Emenda Constitucional nº 24, de 1999]] (nova redação: caput; revogado: parágrafo único)
 
 **Art. 116, caput** {#art116_cpt} #redacao-alterada Nas Varas do Trabalho, a jurisdição será exercida por um juiz singular. *(Redação dada pela [[emenda-constitucional-federal-24-1999|Emenda Constitucional nº 24, de 1999]])*
@@ -2363,7 +2243,6 @@ Alterações: [[emenda-constitucional-federal-24-1999|Emenda Constitucional nº 
 **Art. 116, parágrafo único** {#art116_par1u} #revogado *(Revogado pela [[emenda-constitucional-federal-24-1999|Emenda Constitucional nº 24, de 1999]])*
 
 ###### Art. 117 {#art117}
-Tags:
 Alterações: [[emenda-constitucional-federal-24-1999|Emenda Constitucional nº 24, de 1999]] (revogado: caput, parágrafo único)
 
 **Art. 117, caput** {#art117_cpt} #revogado *(Revogado pela [[emenda-constitucional-federal-24-1999|Emenda Constitucional nº 24, de 1999]])*
@@ -2373,7 +2252,6 @@ Alterações: [[emenda-constitucional-federal-24-1999|Emenda Constitucional nº 
 #### SEÇÃO VI – DOS TRIBUNAIS E JUÍZES ELEITORAIS
 
 ###### Art. 118 {#art118}
-Tags:
 
 **Art. 118, caput** {#art118_cpt} São órgãos da Justiça Eleitoral:
 - **Art. 118, caput, inciso I** {#art118_cpt_inc1} o Tribunal Superior Eleitoral;
@@ -2382,7 +2260,6 @@ Tags:
 - **Art. 118, caput, inciso IV** {#art118_cpt_inc4} as Juntas Eleitorais.
 
 ###### Art. 119 {#art119}
-Tags:
 
 **Art. 119, caput** {#art119_cpt} O Tribunal Superior Eleitoral compor-se-á, no mínimo, de sete membros, escolhidos:
 - **Art. 119, caput, inciso I** {#art119_cpt_inc1} mediante eleição, pelo voto secreto:
@@ -2393,7 +2270,6 @@ Tags:
 **Art. 119, parágrafo único** {#art119_par1u} O Tribunal Superior Eleitoral elegerá seu Presidente e o Vice-Presidente dentre os Ministros do Supremo Tribunal Federal, e o Corregedor Eleitoral dentre os Ministros do Superior Tribunal de Justiça.
 
 ###### Art. 120 {#art120}
-Tags:
 
 **Art. 120, caput** {#art120_cpt} Haverá um Tribunal Regional Eleitoral na Capital de cada Estado e no Distrito Federal.
 
@@ -2407,7 +2283,6 @@ Tags:
 **Art. 120, § 2º** {#art120_par2} O Tribunal Regional Eleitoral elegerá seu Presidente e o Vice-Presidente- dentre os desembargadores.
 
 ###### Art. 121 {#art121}
-Tags:
 
 **Art. 121, caput** {#art121_cpt} Lei complementar disporá sobre a organização e competência dos tribunais, dos juízes de direito e das juntas eleitorais.
 
@@ -2427,14 +2302,12 @@ Tags:
 #### SEÇÃO VII – DOS TRIBUNAIS E JUÍZES MILITARES
 
 ###### Art. 122 {#art122}
-Tags:
 
 **Art. 122, caput** {#art122_cpt} São órgãos da Justiça Militar:
 - **Art. 122, caput, inciso I** {#art122_cpt_inc1} o Superior Tribunal Militar;
 - **Art. 122, caput, inciso II** {#art122_cpt_inc2} os Tribunais e Juízes Militares instituídos por lei.
 
 ###### Art. 123 {#art123}
-Tags:
 Alterações: [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº 122, de 2022]] (nova redação: parágrafo único)
 
 **Art. 123, caput** {#art123_cpt} O Superior Tribunal Militar compor-se-á de quinze Ministros vitalícios, nomeados pelo Presidente da República, depois de aprovada a indicação pelo Senado Federal, sendo três dentre oficiais-generais da Marinha, quatro dentre oficiais-generais do Exército, três dentre oficiais-generais da Aeronáutica, todos da ativa e do posto mais elevado da carreira, e cinco dentre civis.
@@ -2444,7 +2317,6 @@ Alterações: [[emenda-constitucional-federal-122-2022|Emenda Constitucional nº
 - **Art. 123, parágrafo único, inciso II** {#art123_par1u_inc2} dois, por escolha paritária, dentre juízes auditores e membros do Ministério Público da Justiça Militar.
 
 ###### Art. 124 {#art124}
-Tags:
 
 **Art. 124, caput** {#art124_cpt} À Justiça Militar compete processar e julgar os crimes militares definidos em lei.
 
@@ -2453,7 +2325,6 @@ Tags:
 #### SEÇÃO VIII – DOS TRIBUNAIS E JUÍZES DOS ESTADOS
 
 ###### Art. 125 {#art125}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (nova redação: § 3º, § 4º; incluído: § 5º, § 6º, § 7º)
 
 **Art. 125, caput** {#art125_cpt} Os Estados organizarão sua Justiça, observados os princípios estabelecidos nesta Constituição.
@@ -2473,7 +2344,6 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 **Art. 125, § 7º** {#art125_par7} #incluido O Tribunal de Justiça instalará a justiça itinerante, com a realização de audiências e demais funções da atividade jurisdicional, nos limites territoriais da respectiva jurisdição, servindo-se de equipamentos públicos e comunitários. *(Incluído pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 126 {#art126}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (nova redação: caput)
 
 **Art. 126, caput** {#art126_cpt} #redacao-alterada Para dirimir conflitos fundiários, o Tribunal de Justiça proporá a criação de varas especializadas, com competência exclusiva para questões agrárias. *(Redação dada pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
@@ -2485,7 +2355,6 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 #### SEÇÃO I – DO MINISTÉRIO PÚBLICO
 
 ###### Art. 127 {#art127}
-Tags:
 Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: § 2º); [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (incluído: § 4º, § 5º, § 6º)
 
 **Art. 127, caput** {#art127_cpt} O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis.
@@ -2503,7 +2372,6 @@ Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 
 **Art. 127, § 6º** {#art127_par6} #incluido Durante a execução orçamentária do exercício, não poderá haver a realização de despesas ou a assunção de obrigações que extrapolem os limites estabelecidos na lei de diretrizes orçamentárias, exceto se previamente autorizadas, mediante a abertura de créditos suplementares ou especiais. *(Incluído pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 128 {#art128}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (nova redação: § 5º, inciso I, alínea "b", § 5º, inciso II, alínea "e"; incluído: § 5º, inciso II, alínea "f", § 6º); [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: § 5º, inciso I, alínea "c")
 
 **Art. 128, caput** {#art128_cpt} O Ministério Público abrange:
@@ -2538,13 +2406,12 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 **Art. 128, § 6º** {#art128_par6} #incluido Aplica-se aos membros do Ministério Público o disposto no art. [[#art95|95]], parágrafo único, V. *(Incluído pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 129 {#art129}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (nova redação: § 2º, § 3º, § 4º; incluído: § 5º)
 
 **Art. 129, caput** {#art129_cpt} São funções institucionais do Ministério Público:
 - **Art. 129, caput, inciso I** {#art129_cpt_inc1} promover, privativamente, a ação penal pública, na forma da lei;
 - **Art. 129, caput, inciso II** {#art129_cpt_inc2} zelar pelo efetivo respeito dos Poderes Públicos e dos serviços de relevância pública aos direitos assegurados nesta Constituição, promovendo as medidas necessárias a sua garantia;
-- **Art. 129, caput, inciso III** {#art129_cpt_inc3} #ministerio-publico promover o inquérito civil e a ação civil pública, para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos;
+- **Art. 129, caput, inciso III** {#art129_cpt_inc3} promover o inquérito civil e a ação civil pública, para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos;
 - **Art. 129, caput, inciso IV** {#art129_cpt_inc4} promover a ação de inconstitucionalidade ou representação para fins de intervenção da União e dos Estados, nos casos previstos nesta Constituição;
 - **Art. 129, caput, inciso V** {#art129_cpt_inc5} defender judicialmente os direitos e interesses das populações indígenas;
 - **Art. 129, caput, inciso VI** {#art129_cpt_inc6} expedir notificações nos procedimentos administrativos de sua competência, requisitando informações e documentos para instruí-los, na forma da lei complementar respectiva;
@@ -2563,12 +2430,10 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 **Art. 129, § 5º** {#art129_par5} #incluido A distribuição de processos no Ministério Público será imediata. *(Incluído pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
 
 ###### Art. 130 {#art130}
-Tags:
 
 **Art. 130, caput** {#art130_cpt} Aos membros do Ministério Público junto aos Tribunais de Contas aplicam-se as disposições desta seção pertinentes a direitos, vedações e forma de investidura.
 
 ###### Art. 130-A {#art130-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (incluído: caput, inciso I, inciso II, inciso III, inciso IV, inciso V, inciso VI, § 1º, § 2º, § 2º, inciso I, § 2º, inciso II, § 2º, inciso IV, § 2º, inciso V, § 3º, § 3º, inciso I, § 3º, inciso II, § 3º, inciso III, § 4º, § 5º); [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (nova redação: § 2º, inciso III)
 
 **Art. 130-A, caput** {#art130-a_cpt} #incluido O Conselho Nacional do Ministério Público compõe-se de quatorze membros nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do Senado Federal, para um mandato de dois anos, admitida uma recondução, sendo: *(Incluído pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
@@ -2600,7 +2465,6 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 #### SEÇÃO II – DA ADVOCACIA PÚBLICA *(Redação dada pela [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]])*
 
 ###### Art. 131 {#art131}
-Tags:
 
 **Art. 131, caput** {#art131_cpt} A Advocacia-Geral da União é a instituição que, diretamente ou através de órgão vinculado, representa a União, judicial e extrajudicialmente, cabendo-lhe, nos termos da lei complementar que dispuser sobre sua organização e funcionamento, as atividades de consultoria e assessoramento jurídico do Poder Executivo.
 
@@ -2611,7 +2475,6 @@ Tags:
 **Art. 131, § 3º** {#art131_par3} Na execução da dívida ativa de natureza tributária, a representação da União cabe à Procuradoria-Geral da Fazenda Nacional, observado o disposto em lei.
 
 ###### Art. 132 {#art132}
-Tags:
 Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: caput; incluído: parágrafo único)
 
 **Art. 132, caput** {#art132_cpt} #redacao-alterada Os Procuradores dos Estados e do Distrito Federal, organizados em carreira, na qual o ingresso dependerá de concurso público de provas e títulos, com a participação da Ordem dos Advogados do Brasil em todas as suas fases, exercerão a representação judicial e a consultoria jurídica das respectivas unidades federadas. *(Redação dada pela [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]])*
@@ -2621,14 +2484,12 @@ Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 
 #### SEÇÃO III – DA ADVOCACIA *(Redação dada pela [[emenda-constitucional-federal-80-2014|Emenda Constitucional nº 80, de 2014]])*
 
 ###### Art. 133 {#art133}
-Tags:
 
 **Art. 133, caput** {#art133_cpt} O advogado é indispensável à administração da justiça, sendo inviolável por seus atos e manifestações no exercício da profissão, nos limites da lei.
 
 #### SEÇÃO IV – DA DEFENSORIA PÚBLICA *(Redação dada pela [[emenda-constitucional-federal-80-2014|Emenda Constitucional nº 80, de 2014]])*
 
 ###### Art. 134 {#art134}
-Tags:
 Alterações: [[emenda-constitucional-federal-80-2014|Emenda Constitucional nº 80, de 2014]] (nova redação: caput; incluído: § 4º); [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (renumerado: § 1º; incluído: § 2º); [[emenda-constitucional-federal-74-2013|Emenda Constitucional nº 74, de 2013]] (incluído: § 3º)
 
 **Art. 134, caput** {#art134_cpt} #redacao-alterada A Defensoria Pública é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe, como expressão e instrumento do regime democrático, fundamentalmente, a orientação jurídica, a promoção dos direitos humanos e a defesa, em todos os graus, judicial e extrajudicial, dos direitos individuais e coletivos, de forma integral e gratuita, aos necessitados, na forma do inciso LXXIV do art. [[#art5|5º]] desta Constituição Federal . *(Redação dada pela [[emenda-constitucional-federal-80-2014|Emenda Constitucional nº 80, de 2014]])*
@@ -2642,7 +2503,6 @@ Alterações: [[emenda-constitucional-federal-80-2014|Emenda Constitucional nº 
 **Art. 134, § 4º** {#art134_par4} #incluido São princípios institucionais da Defensoria Pública a unidade, a indivisibilidade e a independência funcional, aplicando-se também, no que couber, o disposto no art. [[#art93|93]] e no inciso II do art. [[#art96|96]] desta Constituição Federal. *(Incluído pela [[emenda-constitucional-federal-80-2014|Emenda Constitucional nº 80, de 2014]])*
 
 ###### Art. 135 {#art135}
-Tags:
 Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: caput)
 
 **Art. 135, caput** {#art135_cpt} #redacao-alterada Os servidores integrantes das carreiras disciplinadas nas Seções II e III deste Capítulo serão remunerados na forma do art. [[#art39|39]], § 4º. *(Redação dada pela [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]])*
@@ -2654,7 +2514,6 @@ Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 
 #### SEÇÃO I – DO ESTADO DE DEFESA
 
 ###### Art. 136 {#art136}
-Tags:
 
 **Art. 136, caput** {#art136_cpt} O Presidente da República pode, ouvidos o Conselho da República e o Conselho de Defesa Nacional, decretar estado de defesa para preservar ou prontamente restabelecer, em locais restritos e determinados, a ordem pública ou a paz social ameaçadas por grave e iminente instabilidade institucional ou atingidas por calamidades de grandes proporções na natureza.
 
@@ -2684,7 +2543,6 @@ Tags:
 #### SEÇÃO II – DO ESTADO DE SÍTIO
 
 ###### Art. 137 {#art137}
-Tags:
 
 **Art. 137, caput** {#art137_cpt} O Presidente da República pode, ouvidos o Conselho da República e o Conselho de Defesa Nacional, solicitar ao Congresso Nacional autorização para decretar o estado de sítio nos casos de:
 - **Art. 137, caput, inciso I** {#art137_cpt_inc1} comoção grave de repercussão nacional ou ocorrência de fatos que comprovem a ineficácia de medida tomada durante o estado de defesa;
@@ -2693,7 +2551,6 @@ Tags:
 **Art. 137, parágrafo único** {#art137_par1u} O Presidente da República, ao solicitar autorização para decretar o estado de sítio ou sua prorrogação, relatará os motivos determinantes do pedido, devendo o Congresso Nacional decidir por maioria absoluta.
 
 ###### Art. 138 {#art138}
-Tags:
 
 **Art. 138, caput** {#art138_cpt} O decreto do estado de sítio indicará sua duração, as normas necessárias a sua execução e as garantias constitucionais que ficarão suspensas, e, depois de publicado, o Presidente da República designará o executor das medidas específicas e as áreas abrangidas.
 
@@ -2704,7 +2561,6 @@ Tags:
 **Art. 138, § 3º** {#art138_par3} O Congresso Nacional permanecerá em funcionamento até o término das medidas coercitivas.
 
 ###### Art. 139 {#art139}
-Tags:
 
 **Art. 139, caput** {#art139_cpt} Na vigência do estado de sítio decretado com fundamento no art. [[#art137|137]], I, só poderão ser tomadas contra as pessoas as seguintes medidas:
 - **Art. 139, caput, inciso I** {#art139_cpt_inc1} obrigação de permanência em localidade determinada;
@@ -2720,12 +2576,10 @@ Tags:
 #### SEÇÃO III – DISPOSIÇÕES GERAIS
 
 ###### Art. 140 {#art140}
-Tags:
 
 **Art. 140, caput** {#art140_cpt} A Mesa do Congresso Nacional, ouvidos os líderes partidários, designará Comissão composta de cinco de seus membros para acompanhar e fiscalizar a execução das medidas referentes ao estado de defesa e ao estado de sítio.
 
 ###### Art. 141 {#art141}
-Tags:
 
 **Art. 141, caput** {#art141_cpt} Cessado o estado de defesa ou o estado de sítio, cessarão também seus efeitos, sem prejuízo da responsabilidade pelos ilícitos cometidos por seus executores ou agentes.
 
@@ -2734,7 +2588,6 @@ Tags:
 ### CAPÍTULO II – DAS FORÇAS ARMADAS
 
 ###### Art. 142 {#art142}
-Tags:
 Alterações: [[emenda-constitucional-federal-18-1998|Emenda Constitucional nº 18, de 1998]] (incluído: § 3º, § 3º, inciso I, § 3º, inciso IV, § 3º, inciso V, § 3º, inciso VI, § 3º, inciso VII, § 3º, inciso X); [[emenda-constitucional-federal-77-2014|Emenda Constitucional nº 77, de 2014]] (nova redação: § 3º, inciso II, § 3º, inciso III, § 3º, inciso VIII); [[emenda-constitucional-federal-41-2003|Emenda Constitucional nº 41, de 19.12.2003]] (revogado: § 3º, inciso IX)
 
 **Art. 142, caput** {#art142_cpt} As Forças Armadas, constituídas pela Marinha, pelo Exército e pela Aeronáutica, são instituições nacionais permanentes e regulares, organizadas com base na hierarquia e na disciplina, sob a autoridade suprema do Presidente da República, e destinam-se à defesa da Pátria, à garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem.
@@ -2756,7 +2609,6 @@ Alterações: [[emenda-constitucional-federal-18-1998|Emenda Constitucional nº 
 - **Art. 142, § 3º, inciso X** {#art142_par3_inc10} #incluido a lei disporá sobre o ingresso nas Forças Armadas, os limites de idade, a estabilidade e outras condições de transferência do militar para a inatividade, os direitos, os deveres, a remuneração, as prerrogativas e outras situações especiais dos militares, consideradas as peculiaridades de suas atividades, inclusive aquelas cumpridas por força de compromissos internacionais e de guerra. *(Incluído pela [[emenda-constitucional-federal-18-1998|Emenda Constitucional nº 18, de 1998]])*
 
 ###### Art. 143 {#art143}
-Tags:
 
 **Art. 143, caput** {#art143_cpt} O serviço militar é obrigatório nos termos da lei.
 
@@ -2767,7 +2619,6 @@ Tags:
 ### CAPÍTULO III – DA SEGURANÇA PÚBLICA
 
 ###### Art. 144 {#art144}
-Tags:
 Alterações: [[emenda-constitucional-federal-104-2019|Emenda Constitucional nº 104, de 2019]] (nova redação: inciso VI, § 5º-A, § 6º); [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: § 1º, § 1º, inciso III, § 2º, § 3º; incluído: § 9º); [[emenda-constitucional-federal-82-2014|Emenda Constitucional nº 82, de 2014]] (incluído: § 10, § 10, inciso I, § 10, inciso II)
 
 **Art. 144, caput** {#art144_cpt} A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, através dos seguintes órgãos:
@@ -2813,7 +2664,6 @@ Alterações: [[emenda-constitucional-federal-104-2019|Emenda Constitucional nº
 #### SEÇÃO I – DOS PRINCÍPIOS GERAIS
 
 ###### Art. 145 {#art145}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: § 3º, § 4º)
 
 **Art. 145, caput** {#art145_cpt} A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes tributos:
@@ -2830,7 +2680,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **Art. 145, § 4º** {#art145_par4} #incluido As alterações na legislação tributária buscarão atenuar efeitos regressivos. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 146 {#art146}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (nova redação: inciso III, alínea "c", inciso III, alínea "d"; incluído: § 1º, § 1º, inciso I, § 1º, inciso II, § 1º, inciso III, § 1º, inciso IV, § 2º, § 3º, § 3º, inciso I, § 3º, inciso II)
 
 **Art. 146, caput** {#art146_cpt} Cabe à lei complementar:
@@ -2855,18 +2704,15 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 - **Art. 146, § 3º, inciso II** {#art146_par3_inc2} #incluido será permitida a apropriação de créditos dos tributos previstos nos arts. [[#art156-a|156-A]] e [[#art195|195]], V, pelo adquirente não optante pelo regime único de que trata o § 1º de bens materiais ou imateriais, inclusive direitos, e de serviços do optante, em montante equivalente ao cobrado por meio do regime único. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 146-A {#art146-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (incluído: caput)
 
 **Art. 146-A, caput** {#art146-a_cpt} #incluido Lei complementar poderá estabelecer critérios especiais de tributação, com o objetivo de prevenir desequilíbrios da concorrência, sem prejuízo da competência de a União, por lei, estabelecer normas de igual objetivo. *(Incluído pela [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]])*
 
 ###### Art. 147 {#art147}
-Tags:
 
 **Art. 147, caput** {#art147_cpt} Competem à União, em Território Federal, os impostos estaduais e, se o Território não for dividido em Municípios, cumulativamente, os impostos municipais; ao Distrito Federal cabem os impostos municipais.
 
 ###### Art. 148 {#art148}
-Tags:
 
 **Art. 148, caput** {#art148_cpt} A União, mediante lei complementar, poderá instituir empréstimos compulsórios:
 - **Art. 148, caput, inciso I** {#art148_cpt_inc1} para atender a despesas extraordinárias, decorrentes de calamidade pública, de guerra externa ou sua iminência;
@@ -2875,7 +2721,6 @@ Tags:
 **Art. 148, parágrafo único** {#art148_par1u} A aplicação dos recursos provenientes de empréstimo compulsório será vinculada à despesa que fundamentou sua instituição.
 
 ###### Art. 149 {#art149}
-Tags:
 Alterações: [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (nova redação: § 1º; incluído: § 1º-A, § 1º-B, § 1º-C); [[emenda-constitucional-federal-33-2001|Emenda Constitucional nº 33, de 2001]] (incluído: § 2º, § 2º, inciso I, § 2º, inciso III, § 2º, inciso III, alínea "a", § 2º, inciso III, alínea "b", § 3º, § 4º); [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (nova redação: § 2º, inciso II)
 
 **Art. 149, caput** {#art149_cpt} Compete exclusivamente à União instituir contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts. [[#art146|146]], III, e 150, I e III, e sem prejuízo do previsto no art. [[#art195|195]], § 6º, relativamente às contribuições a que alude o dispositivo.
@@ -2900,7 +2745,6 @@ Alterações: [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº
 **Art. 149, § 4º** {#art149_par4} #incluido A lei definirá as hipóteses em que as contribuições incidirão uma única vez. *(Incluído pela [[emenda-constitucional-federal-33-2001|Emenda Constitucional nº 33, de 2001]])*
 
 ###### Art. 149-A {#art149-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (nova redação: caput); [[emenda-constitucional-federal-39-2002|Emenda Constitucional nº 39, de 2002]] (incluído: parágrafo único)
 
 **Art. 149-A, caput** {#art149-a_cpt} #redacao-alterada Os Municípios e o Distrito Federal poderão instituir contribuição, na forma das respectivas leis, para o custeio, a expansão e a melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e preservação de logradouros públicos, observado o disposto no art. [[#art150|150]], I e III. *(Redação dada pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -2908,7 +2752,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **Art. 149-A, parágrafo único** {#art149-a_par1u} #incluido É facultada a cobrança da contribuição a que se refere o caput, na fatura de consumo de energia elétrica. *(Incluído pela [[emenda-constitucional-federal-39-2002|Emenda Constitucional nº 39, de 2002]])*
 
 ###### Art. 149-B {#art149-b}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, inciso I, inciso II, inciso III, inciso IV, parágrafo único)
 
 **Art. 149-B, caput** {#art149-b_cpt} #incluido Os tributos previstos nos arts. [[#art156-a|156-A]] e [[#art195|195]], V, observarão as mesmas regras em relação a: *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -2920,7 +2763,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **Art. 149-B, parágrafo único** {#art149-b_par1u} #incluido Os tributos de que trata o caput observarão as imunidades previstas no art. [[#art150|150]], VI, não se aplicando a ambos os tributos o disposto no art. [[#art195|195]], § 7º. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 149-C {#art149-c}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, § 1º, § 2º, § 3º)
 
 **Art. 149-C, caput** {#art149-c_cpt} #incluido O produto da arrecadação do imposto previsto no art. [[#art156-a|156-A]] e da contribuição prevista no art. [[#art195|195]], V, incidentes sobre operações contratadas pela administração pública direta, por autarquias e por fundações públicas, inclusive suas importações, será integralmente destinado ao ente federativo contratante, mediante redução a zero das alíquotas do imposto e da contribuição devidos aos demais entes e equivalente elevação da alíquota do tributo devido ao ente contratante. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -2934,7 +2776,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 #### SEÇÃO II – DAS LIMITAÇÕES DO PODER DE TRIBUTAR
 
 ###### Art. 150 {#art150}
-Tags:
 Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (incluído: inciso III, alínea "c"; nova redação: § 1º); [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (nova redação: inciso VI, alínea "b", § 2º); [[emenda-constitucional-federal-75-2013|Emenda Constitucional nº 75, de 15.10.2013]] (incluído: inciso VI, alínea "e"); [[emenda-constitucional-federal-3-1993|Emenda Constitucional nº 3, de 1993]] (nova redação: § 6º; incluído: § 7º)
 
 **Art. 150, caput** {#art150_cpt} Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
@@ -2968,7 +2809,6 @@ Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 
 **Art. 150, § 7º** {#art150_par7} #incluido A lei poderá atribuir a sujeito passivo de obrigação tributária a condição de responsável pelo pagamento de imposto ou contribuição, cujo fato gerador deva ocorrer posteriormente, assegurada a imediata e preferencial restituição da quantia paga, caso não se realize o fato gerador presumido. *(Incluído pela [[emenda-constitucional-federal-3-1993|Emenda Constitucional nº 3, de 1993]])*
 
 ###### Art. 151 {#art151}
-Tags:
 
 **Art. 151, caput** {#art151_cpt} É vedado à União:
 - **Art. 151, caput, inciso I** {#art151_cpt_inc1} instituir tributo que não seja uniforme em todo o território nacional ou que implique distinção ou preferência em relação a Estado, ao Distrito Federal ou a Município, em detrimento de outro, admitida a concessão de incentivos fiscais destinados a promover o equilíbrio do desenvolvimento sócio-econômico entre as diferentes regiões do País;
@@ -2976,14 +2816,12 @@ Tags:
 - **Art. 151, caput, inciso III** {#art151_cpt_inc3} instituir isenções de tributos da competência dos Estados, do Distrito Federal ou dos Municípios.
 
 ###### Art. 152 {#art152}
-Tags:
 
 **Art. 152, caput** {#art152_cpt} É vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino.
 
 #### SEÇÃO III – DOS IMPOSTOS DA UNIÃO
 
 ###### Art. 153 {#art153}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: inciso VIII, § 6º, § 6º, inciso I, § 6º, inciso II, § 6º, inciso III, § 6º, inciso IV, § 6º, inciso V, § 6º, inciso VI, § 6º, inciso VII); [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]] (revogado: § 2º, inciso II); [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (incluído: § 3º, inciso IV, § 4º, inciso I, § 4º, inciso II, § 4º, inciso III; nova redação: § 4º)
 
 **Art. 153, caput** {#art153_cpt} Compete à União instituir impostos sobre:
@@ -3027,7 +2865,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 - **Art. 153, § 6º, inciso VII** {#art153_par6_inc7} #incluido na extração, o imposto será cobrado independentemente da destinação, caso em que a alíquota máxima corresponderá a 1% (um por cento) do valor de mercado do produto. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 154 {#art154}
-Tags:
 
 **Art. 154, caput** {#art154_cpt} A União poderá instituir:
 - **Art. 154, caput, inciso I** {#art154_cpt_inc1} mediante lei complementar, impostos não previstos no artigo anterior, desde que sejam não-cumulativos e não tenham fato gerador ou base de cálculo próprios dos discriminados nesta Constituição;
@@ -3036,7 +2873,6 @@ Tags:
 #### SEÇÃO IV – DOS IMPOSTOS DOS ESTADOS E DO DISTRITO FEDERAL
 
 ###### Art. 155 {#art155}
-Tags:
 Alterações: [[emenda-constitucional-federal-3-1993|Emenda Constitucional nº 3, de 1993]] (nova redação: caput, inciso I, inciso II, inciso III, § 1º, § 2º); [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (nova redação: § 1º, inciso II, § 3º, § 6º, inciso II; incluído: § 1º, inciso VI, § 1º, inciso VII, § 6º, inciso III, § 6º, inciso III, alínea "a", § 6º, inciso III, alínea "b", § 6º, inciso III, alínea "c", § 6º, inciso III, alínea "d"); [[emenda-constitucional-federal-87-2015|Emenda Constitucional nº 87, de 2015]] (nova redação: § 2º, inciso VII, § 2º, inciso VII, alínea "a", § 2º, inciso VII, alínea "b", § 2º, inciso VIII; incluído: § 2º, inciso VIII, alínea "a", § 2º, inciso VIII, alínea "b"); [[emenda-constitucional-federal-33-2001|Emenda Constitucional nº 33, de 2001]] (nova redação: § 2º, inciso IX, alínea "a"; incluído: § 2º, inciso XII, alínea "h", § 2º, inciso XII, alínea "i", § 4º, § 4º, inciso I, § 4º, inciso II, § 4º, inciso III, § 4º, inciso IV, § 4º, inciso IV, alínea "a", § 4º, inciso IV, alínea "b", § 4º, inciso IV, alínea "c", § 5º); [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (nova redação: § 2º, inciso X, alínea "a"; incluído: § 2º, inciso X, alínea "d", § 6º, § 6º, inciso I); [[emenda-constitucional-federal-137-2025|Emenda Constitucional nº 137, de 2025]] (incluído: § 6º, inciso III, alínea "e")
 
 **Art. 155, caput** {#art155_cpt} #redacao-alterada Compete aos Estados e ao Distrito Federal instituir impostos sobre: *(Redação dada pela [[emenda-constitucional-federal-3-1993|Emenda Constitucional nº 3, de 1993]])*
@@ -3118,7 +2954,6 @@ Alterações: [[emenda-constitucional-federal-3-1993|Emenda Constitucional nº 3
 #### SEÇÃO V – DOS IMPOSTOS DOS MUNICÍPIOS
 
 ###### Art. 156 {#art156}
-Tags:
 Alterações: [[emenda-constitucional-federal-3-1993|Emenda Constitucional nº 3, de 1993]] (nova redação: inciso III; revogado: inciso IV, § 4º, § 4º, inciso I, § 4º, inciso II; incluído: § 3º, inciso II, § 3º, inciso III); [[emenda-constitucional-federal-29-2000|Emenda Constitucional nº 29, de 2000]] (nova redação: § 1º; incluído: § 1º, inciso I, § 1º, inciso II); [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: § 1º, inciso III); [[emenda-constitucional-federal-116-2022|Emenda Constitucional nº 116, de 2022]] (incluído: § 1º-A); [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 37, de 2002]] (nova redação: § 3º, § 3º, inciso I)
 
 **Art. 156, caput** {#art156_cpt} Compete aos Municípios instituir impostos sobre:
@@ -3150,7 +2985,6 @@ Alterações: [[emenda-constitucional-federal-3-1993|Emenda Constitucional nº 3
 #### Seção V-A – Do Imposto de Competência Compartilhada entre Estados,Distrito Federal e Municípios *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 156-A {#art156-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, § 1º, § 1º, inciso I, § 1º, inciso II, § 1º, inciso III, § 1º, inciso IV, § 1º, inciso V, § 1º, inciso VI, § 1º, inciso VII, § 1º, inciso VIII, § 1º, inciso IX, § 1º, inciso X, § 1º, inciso XI, § 1º, inciso XII, § 1º, inciso XIII, § 2º, § 3º, § 4º, § 4º, inciso I, § 4º, inciso II, § 5º, § 5º, inciso I, § 5º, inciso I, alínea "a", § 5º, inciso I, alínea "b", § 5º, inciso I, alínea "c", § 5º, inciso II, § 5º, inciso II, alínea "a", § 5º, inciso II, alínea "b", § 5º, inciso III, § 5º, inciso IV, § 5º, inciso V, § 5º, inciso V, alínea "a", § 5º, inciso V, alínea "b", § 5º, inciso V, alínea "c", § 5º, inciso VI, § 5º, inciso VII, § 5º, inciso VIII, § 5º, inciso IX, § 6º, § 6º, inciso I, § 6º, inciso I, alínea "a", § 6º, inciso I, alínea "b", § 6º, inciso I, alínea "c", § 6º, inciso II, § 6º, inciso II, alínea "a", § 6º, inciso II, alínea "b", § 6º, inciso III, § 6º, inciso III, alínea "a", § 6º, inciso III, alínea "b", § 6º, inciso IV, § 6º, inciso V, § 6º, inciso VI, § 7º, § 7º, inciso I, § 7º, inciso II, § 8º, § 9º, § 9º, inciso I, § 9º, inciso II, § 10, § 11, § 12, § 13)
 
 **Art. 156-A, caput** {#art156-a_cpt} #incluido Lei complementar instituirá imposto sobre bens e serviços de competência compartilhada entre Estados, Distrito Federal e Municípios. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -3231,7 +3065,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **Art. 156-A, § 13** {#art156-a_par13} #incluido A devolução de que trata o § 5º, VIII, será obrigatória nas operações de fornecimento de energia elétrica e de gás liquefeito de petróleo ao consumidor de baixa renda, podendo a lei complementar determinar que seja calculada e concedida no momento da cobrança da operação. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 156-B {#art156-b}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, inciso I, inciso II, inciso III, § 1º, § 2º, § 2º, inciso I, § 2º, inciso II, § 2º, inciso III, § 2º, inciso IV, § 2º, inciso V, § 2º, inciso VI, § 2º, inciso VII, § 3º, § 3º, inciso I, § 3º, inciso II, § 3º, inciso II, alínea "a", § 3º, inciso II, alínea "b", § 4º, § 4º, inciso I, § 4º, inciso I, alínea "a", § 4º, inciso I, alínea "b", § 4º, inciso II, § 5º, § 6º, § 7º, § 8º)
 
 **Art. 156-B, caput** {#art156-b_cpt} #incluido Os Estados, o Distrito Federal e os Municípios exercerão de forma integrada, exclusivamente por meio do Comitê Gestor do Imposto sobre Bens e Serviços, nos termos e limites estabelecidos nesta Constituição e em lei complementar, as seguintes competências administrativas relativas ao imposto de que trata o art. [[#art156-a|156-A]]: *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -3273,14 +3106,12 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 #### SEÇÃO VI – DA REPARTIÇÃO DAS RECEITAS TRIBUTÁRIAS
 
 ###### Art. 157 {#art157}
-Tags:
 
 **Art. 157, caput** {#art157_cpt} Pertencem aos Estados e ao Distrito Federal:
 - **Art. 157, caput, inciso I** {#art157_cpt_inc1} o produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas fundações que instituírem e mantiverem;
 - **Art. 157, caput, inciso II** {#art157_cpt_inc2} vinte por cento do produto da arrecadação do imposto que a União instituir no exercício da competência que lhe é atribuída pelo art. [[#art154|154]], I.
 
 ###### Art. 158 {#art158}
-Tags:
 Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (nova redação: inciso II); [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (nova redação: inciso III, inciso IV; incluído: inciso IV, alínea "a", inciso IV, alínea "b", § 1º, § 2º, § 2º, inciso I, § 2º, inciso II, § 2º, inciso III, § 2º, inciso IV); [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]] (nova redação: § 1º, inciso I, § 1º, inciso II)
 
 **Art. 158, caput** {#art158_cpt} Pertencem aos Municípios:
@@ -3302,7 +3133,6 @@ Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 
 - **Art. 158, § 2º, inciso IV** {#art158_par2_inc4} #incluido 5% (cinco por cento) em montantes iguais para todos os Municípios do Estado. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 159 {#art159}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (nova redação: inciso I, inciso II, inciso III, § 3º); [[emenda-constitucional-federal-55-2007|Emenda Constitucional nº 55, de 2007]] (incluído: inciso I, alínea "d"); [[emenda-constitucional-federal-84-2014|Emenda Constitucional nº 84, de 2014]] (incluído: inciso I, alínea "e"); [[emenda-constitucional-federal-112-2021|Emenda Constitucional nº 112, de 2021]] (incluído: inciso I, alínea "f"); [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (incluído: § 4º)
 
 **Art. 159, caput** {#art159_cpt} A União entregará: *(Vide [[emenda-constitucional-federal-55-2007|Emenda Constitucional nº 55, de 2007]])*
@@ -3325,7 +3155,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **Art. 159, § 4º** {#art159_par4} #incluido Do montante de recursos de que trata o inciso III que cabe a cada Estado, vinte e cinco por cento serão destinados aos seus Municípios, na forma da lei a que se refere o mencionado inciso. *(Incluído pela [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]])*
 
 ###### Art. 159-A {#art159-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, inciso I, inciso II, inciso III, § 1º, § 2º, § 3º, § 4º, § 4º, inciso I, § 4º, inciso II, § 5º)
 
 **Art. 159-A, caput** {#art159-a_cpt} #incluido Fica instituído o Fundo Nacional de Desenvolvimento Regional, com o objetivo de reduzir as desigualdades regionais e sociais, nos termos do art. [[#art3|3º]], III, mediante a entrega de recursos da União aos Estados e ao Distrito Federal para: *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -3346,7 +3175,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **Art. 159-A, § 5º** {#art159-a_par5} #incluido O Tribunal de Contas da União será o órgão responsável por regulamentar e calcular os coeficientes individuais de participação de que trata o § 4º. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 160 {#art160}
-Tags:
 Alterações: [[emenda-constitucional-federal-113-2021|Emenda Constitucional nº 113, de 2021]] (renumerado: § 1º; incluído: § 2º); [[emenda-constitucional-federal-29-2000|Emenda Constitucional nº 29, de 2000]] (incluído: § 1º, inciso I, § 1º, inciso II)
 
 **Art. 160, caput** {#art160_cpt} É vedada a retenção ou qualquer restrição à entrega e ao emprego dos recursos atribuídos, nesta seção, aos Estados, ao Distrito Federal e aos Municípios, neles compreendidos adicionais e acréscimos relativos a impostos.
@@ -3358,7 +3186,6 @@ Alterações: [[emenda-constitucional-federal-113-2021|Emenda Constitucional nº
 **Art. 160, § 2º** {#art160_par2} #incluido Os contratos, os acordos, os ajustes, os convênios, os parcelamentos ou as renegociações de débitos de qualquer espécie, inclusive tributários, firmados pela União com os entes federativos conterão cláusulas para autorizar a dedução dos valores devidos dos montantes a serem repassados relacionados às respectivas cotas nos Fundos de Participação ou aos precatórios federais. *(Incluído pela [[emenda-constitucional-federal-113-2021|Emenda Constitucional nº 113, de 2021]])*
 
 ###### Art. 161 {#art161}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (nova redação: inciso I)
 
 **Art. 161, caput** {#art161_cpt} Cabe à lei complementar:
@@ -3369,7 +3196,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **Art. 161, parágrafo único** {#art161_par1u} O Tribunal de Contas da União efetuará o cálculo das quotas referentes aos fundos de participação a que alude o inciso II.
 
 ###### Art. 162 {#art162}
-Tags:
 
 **Art. 162, caput** {#art162_cpt} A União, os Estados, o Distrito Federal e os Municípios divulgarão, até o último dia do mês subseqüente ao da arrecadação, os montantes de cada um dos tributos arrecadados, os recursos recebidos, os valores de origem tributária entregues e a entregar e a expressão numérica dos critérios de rateio.
 
@@ -3380,7 +3206,6 @@ Tags:
 #### SEÇÃO I – NORMAS GERAIS
 
 ###### Art. 163 {#art163}
-Tags:
 Alterações: [[emenda-constitucional-federal-40-2003|Emenda Constitucional nº 40, de 2003]] (nova redação: inciso V); [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (incluído: inciso VIII, inciso VIII, alínea "a", inciso VIII, alínea "b", inciso VIII, alínea "c", inciso VIII, alínea "d", inciso VIII, alínea "e", parágrafo único); [[emenda-constitucional-federal-135-2024|Emenda Constitucional nº 135, de 2024]] (incluído: inciso IX)
 
 **Art. 163, caput** {#art163_cpt} Lei complementar disporá sobre:
@@ -3402,13 +3227,11 @@ Alterações: [[emenda-constitucional-federal-40-2003|Emenda Constitucional nº 
 **Art. 163, parágrafo único** {#art163_par1u} #incluido A lei complementar de que trata o inciso VIII do caput deste artigo pode autorizar a aplicação das vedações previstas no art. [[#art167-a|167-A]] desta Constituição. *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
 
 ###### Art. 163-A {#art163-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]] (incluído: caput)
 
 **Art. 163-A, caput** {#art163-a_cpt} #incluido A União, os Estados, o Distrito Federal e os Municípios disponibilizarão suas informações e dados contábeis, orçamentários e fiscais, conforme periodicidade, formato e sistema estabelecidos pelo órgão central de contabilidade da União, de forma a garantir a rastreabilidade, a comparabilidade e a publicidade dos dados coletados, os quais deverão ser divulgados em meio eletrônico de amplo acesso público. *(Incluído pela [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]])*
 
 ###### Art. 164 {#art164}
-Tags:
 
 **Art. 164, caput** {#art164_cpt} A competência da União para emitir moeda será exercida exclusivamente pelo banco central.
 
@@ -3419,7 +3242,6 @@ Tags:
 **Art. 164, § 3º** {#art164_par3} As disponibilidades de caixa da União serão depositadas no banco central; as dos Estados, do Distrito Federal, dos Municípios e dos órgãos ou entidades do Poder Público e das empresas por ele controladas, em instituições financeiras oficiais, ressalvados os casos previstos em lei.
 
 ###### Art. 164-A {#art164-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (incluído: caput, parágrafo único)
 
 **Art. 164-A, caput** {#art164-a_cpt} #incluido A União, os Estados, o Distrito Federal e os Municípios devem conduzir suas políticas fiscais de forma a manter a dívida pública em níveis sustentáveis, na forma da lei complementar referida no inciso VIII do caput do art. [[#art163|163]] desta Constituição. *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
@@ -3429,7 +3251,6 @@ Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº
 #### SEÇÃO II – DOS ORÇAMENTOS
 
 ###### Art. 165 {#art165}
-Tags:
 Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (nova redação: § 2º; incluído: § 16); [[emenda-constitucional-federal-100-2019|Emenda Constitucional nº 100, de 2019]] (nova redação: § 9º, inciso III; incluído: § 10); [[emenda-constitucional-federal-102-2019|Emenda Constitucional nº 102, de 2019]] (incluído: § 11, § 12, § 13, § 14, § 15); [[emenda-constitucional-federal-135-2024|Emenda Constitucional nº 135, de 2024]] (incluído: § 17); [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]] (incluído: § 18, § 19, § 20, § 21, § 22)
 
 **Art. 165, caput** {#art165_cpt} Leis de iniciativa do Poder Executivo estabelecerão:
@@ -3491,7 +3312,6 @@ Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº
 **Art. 165, § 22** {#art165_par22} #incluido Para o exercício financeiro de 2026, não será computado na meta de resultado primário estabelecida na lei de diretrizes orçamentárias o valor excedente ao limite de que trata o art. [[#adct_art107-a|107-A]] do Ato das Disposições Constitucionais Transitórias. *(Incluído pela [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]])*
 
 ###### Art. 166 {#art166}
-Tags:
 Alterações: [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]] (nova redação: § 9º, § 11, § 17, § 19; incluído: § 9º-A); [[emenda-constitucional-federal-86-2015|Emenda Constitucional nº 86, de 2015]] (incluído: § 10); [[emenda-constitucional-federal-100-2019|Emenda Constitucional nº 100, de 2019]] (nova redação: § 12, § 13, § 14, § 14, inciso I, § 14, inciso II, § 14, inciso III, § 14, inciso IV, § 15, § 16, § 18; incluído: § 20)
 
 **Art. 166, caput** {#art166_cpt} Os projetos de lei relativos ao plano plurianual, às diretrizes orçamentárias, ao orçamento anual e aos créditos adicionais serão apreciados pelas duas Casas do Congresso Nacional, na forma do regimento comum.
@@ -3553,7 +3373,6 @@ Alterações: [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº
 **Art. 166, § 20** {#art166_par20} #incluido As programações de que trata o § 12 deste artigo, quando versarem sobre o início de investimentos com duração de mais de 1 (um) exercício financeiro ou cuja execução já tenha sido iniciada, deverão ser objeto de emenda pela mesma bancada estadual, a cada exercício, até a conclusão da obra ou do empreendimento. *(Incluído pela [[emenda-constitucional-federal-100-2019|Emenda Constitucional nº 100, de 2019]])* *(Produção de efeito)* *(Vide ADI 7697)*
 
 ###### Art. 166-A {#art166-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-105-2019|Emenda Constitucional nº 105, de 2019]] (incluído: caput, inciso I, inciso II, § 1º, § 1º, inciso I, § 1º, inciso II, § 2º, § 2º, inciso I, § 2º, inciso II, § 2º, inciso III, § 3º, § 4º, § 4º, inciso I, § 4º, inciso II, § 5º)
 
 **Art. 166-A, caput** {#art166-a_cpt} #incluido As emendas individuais impositivas apresentadas ao projeto de lei orçamentária anual poderão alocar recursos a Estados, ao Distrito Federal e a Municípios por meio de: *(Incluído pela [[emenda-constitucional-federal-105-2019|Emenda Constitucional nº 105, de 2019]])* *(Vide ADI 7697)*
@@ -3578,7 +3397,6 @@ Alterações: [[emenda-constitucional-federal-105-2019|Emenda Constitucional nº
 **Art. 166-A, § 5º** {#art166-a_par5} #incluido Pelo menos 70% (setenta por cento) das transferências especiais de que trata o inciso I do caput deste artigo deverão ser aplicadas em despesas de capital, observada a restrição a que se refere o inciso II do § 1º deste artigo. *(Incluído pela [[emenda-constitucional-federal-105-2019|Emenda Constitucional nº 105, de 2019]])*
 
 ###### Art. 167 {#art167}
-Tags:
 Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (nova redação: inciso IV); [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (incluído: inciso X); [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]] (incluído: inciso XI); [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (incluído: inciso XII, inciso XIII); [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (incluído: inciso XIV, § 6º); [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (nova redação: § 4º); [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]] (incluído: § 5º); [[emenda-constitucional-federal-128-2022|Emenda Constitucional nº 128, de 2022]] (incluído: § 7º)
 
 **Art. 167, caput** {#art167_cpt} São vedados:
@@ -3612,7 +3430,6 @@ Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 
 **Art. 167, § 7º** {#art167_par7} #incluido A lei não imporá nem transferirá qualquer encargo financeiro decorrente da prestação de serviço público, inclusive despesas de pessoal e seus encargos, para a União, os Estados, o Distrito Federal ou os Municípios, sem a previsão de fonte orçamentária e financeira necessária à realização da despesa ou sem a previsão da correspondente transferência de recursos financeiros necessários ao seu custeio, ressalvadas as obrigações assumidas espontaneamente pelos entes federados e aquelas decorrentes da fixação do salário mínimo, na forma do inciso IV do caput do art. [[#art7|7º]] desta Constituição. *(Incluído pela [[emenda-constitucional-federal-128-2022|Emenda Constitucional nº 128, de 2022]])*
 
 ###### Art. 167-A {#art167-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (incluído: caput, inciso I, inciso II, inciso III, inciso IV, inciso IV, alínea "a", inciso IV, alínea "b", inciso IV, alínea "c", inciso IV, alínea "d", inciso V, inciso VI, inciso VII, inciso VIII, inciso IX, inciso X, § 1º, § 2º, § 3º, § 3º, inciso I, § 3º, inciso II, § 3º, inciso III, § 4º, § 5º, § 5º, inciso I, § 5º, inciso II, § 6º, § 6º, inciso I, § 6º, inciso II)
 
 **Art. 167-A, caput** {#art167-a_cpt} #incluido Apurado que, no período de 12 (doze) meses, a relação entre despesas correntes e receitas correntes supera 95% (noventa e cinco por cento), no âmbito dos Estados, do Distrito Federal e dos Municípios, é facultado aos Poderes Executivo, Legislativo e Judiciário, ao Ministério Público, ao Tribunal de Contas e à Defensoria Pública do ente, enquanto permanecer a situação, aplicar o mecanismo de ajuste fiscal de vedação da: *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
@@ -3651,19 +3468,16 @@ Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº
 - **Art. 167-A, § 6º, inciso II** {#art167-a_par6_inc2} #incluido a tomada de operação de crédito por parte do ente envolvido com outro ente da Federação, diretamente ou por intermédio de seus fundos, autarquias, fundações ou empresas estatais dependentes, ainda que sob a forma de novação, refinanciamento ou postergação de dívida contraída anteriormente, ressalvados os financiamentos destinados a projetos específicos celebrados na forma de operações típicas das agências financeiras oficiais de fomento. *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
 
 ###### Art. 167-B {#art167-b}
-Tags:
 Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (incluído: caput)
 
 **Art. 167-B, caput** {#art167-b_cpt} #incluido Durante a vigência de estado de calamidade pública de âmbito nacional, decretado pelo Congresso Nacional por iniciativa privativa do Presidente da República, a União deve adotar regime extraordinário fiscal, financeiro e de contratações para atender às necessidades dele decorrentes, somente naquilo em que a urgência for incompatível com o regime regular, nos termos definidos nos arts. [[#art167-c|167-C]], [[#art167-d|167-D]], [[#art167-e|167-E]], [[#art167-f|167-F]] e [[#art167-g|167-G]] desta Constituição. *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
 
 ###### Art. 167-C {#art167-c}
-Tags:
 Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (incluído: caput)
 
 **Art. 167-C, caput** {#art167-c_cpt} #incluido Com o propósito exclusivo de enfrentamento da calamidade pública e de seus efeitos sociais e econômicos, no seu período de duração, o Poder Executivo federal pode adotar processos simplificados de contratação de pessoal, em caráter temporário e emergencial, e de obras, serviços e compras que assegurem, quando possível, competição e igualdade de condições a todos os concorrentes, dispensada a observância do § 1º do art. [[#art169|169]] na contratação de que trata o inciso IX do caput do art. [[#art37|37]] desta Constituição, limitada a dispensa às situações de que trata o referido inciso, sem prejuízo do controle dos órgãos competentes. *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
 
 ###### Art. 167-D {#art167-d}
-Tags:
 Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (incluído: caput, parágrafo único)
 
 **Art. 167-D, caput** {#art167-d_cpt} #incluido As proposições legislativas e os atos do Poder Executivo com propósito exclusivo de enfrentar a calamidade e suas consequências sociais e econômicas, com vigência e efeitos restritos à sua duração, desde que não impliquem despesa obrigatória de caráter continuado, ficam dispensados da observância das limitações legais quanto à criação, à expansão ou ao aperfeiçoamento de ação governamental que acarrete aumento de despesa e à concessão ou à ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita. *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
@@ -3671,13 +3485,11 @@ Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº
 **Art. 167-D, parágrafo único** {#art167-d_par1u} #incluido Durante a vigência da calamidade pública de âmbito nacional de que trata o art. [[#art167-b|167-B]], não se aplica o disposto no § 3º do art. [[#art195|195]] desta Constituição. *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
 
 ###### Art. 167-E {#art167-e}
-Tags:
 Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (incluído: caput)
 
 **Art. 167-E, caput** {#art167-e_cpt} #incluido Fica dispensada, durante a integralidade do exercício financeiro em que vigore a calamidade pública de âmbito nacional, a observância do inciso III do caput do art. [[#art167|167]] desta Constituição. *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
 
 ###### Art. 167-F {#art167-f}
-Tags:
 Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (incluído: caput, inciso I, inciso II, § 1º, § 2º, § 2º, inciso I, § 2º, inciso II, § 2º, inciso III)
 
 **Art. 167-F, caput** {#art167-f_cpt} #incluido Durante a vigência da calamidade pública de âmbito nacional de que trata o art. [[#art167-b|167-B]] desta Constituição: *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
@@ -3692,7 +3504,6 @@ Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº
 - **Art. 167-F, § 2º, inciso III** {#art167-f_par2_inc3} #incluido destinadas ao registro de receitas oriundas da arrecadação de doações ou de empréstimos compulsórios, de transferências recebidas para o atendimento de finalidades determinadas ou das receitas de capital produto de operações de financiamento celebradas com finalidades contratualmente determinadas. *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
 
 ###### Art. 167-G {#art167-g}
-Tags:
 Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (incluído: caput, § 1º, § 2º, § 3º)
 
 **Art. 167-G, caput** {#art167-g_cpt} #incluido Na hipótese de que trata o art. [[#art167-b|167-B]], aplicam-se à União, até o término da calamidade pública, as vedações previstas no art. [[#art167-a|167-A]] desta Constituição. *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
@@ -3704,7 +3515,6 @@ Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº
 **Art. 167-G, § 3º** {#art167-g_par3} #incluido É facultada aos Estados, ao Distrito Federal e aos Municípios a aplicação das vedações referidas no caput, nos termos deste artigo, e, até que as tenham adotado na integralidade, estarão submetidos às restrições do § 6º do art. [[#art167-a|167-A]] desta Constituição, enquanto perdurarem seus efeitos para a União. *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
 
 ###### Art. 168 {#art168}
-Tags:
 Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]] (nova redação: caput); [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (incluído: § 1º, § 2º)
 
 **Art. 168, caput** {#art168_cpt} #redacao-alterada Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados aos órgãos dos Poderes Legislativo e Judiciário, do Ministério Público e da Defensoria Pública, ser-lhes-ão entregues até o dia 20 de cada mês, em duodécimos, na forma da lei complementar a que se refere o art. [[#art165|165]], § 9º. *(Redação dada pela [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 45, de 2004]])*
@@ -3714,7 +3524,6 @@ Alterações: [[emenda-constitucional-federal-45-2004|Emenda Constitucional nº 
 **Art. 168, § 2º** {#art168_par2} #incluido O saldo financeiro decorrente dos recursos entregues na forma do caput deste artigo deve ser restituído ao caixa único do Tesouro do ente federativo, ou terá seu valor deduzido das primeiras parcelas duodecimais do exercício seguinte. *(Incluído pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
 
 ###### Art. 169 {#art169}
-Tags:
 Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (nova redação: caput); [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (renumerado: § 1º; incluído: § 1º, inciso I, § 1º, inciso II, § 2º, § 3º, § 3º, inciso I, § 3º, inciso II, § 4º, § 5º, § 6º, § 7º)
 
 **Art. 169, caput** {#art169_cpt} #redacao-alterada A despesa com pessoal ativo e inativo e pensionistas da União, dos Estados, do Distrito Federal e dos Municípios não pode exceder os limites estabelecidos em lei complementar. *(Redação dada pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
@@ -3742,7 +3551,6 @@ Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº
 ### CAPÍTULO I – DOS PRINCÍPIOS GERAIS DA ATIVIDADE ECONÔMICA
 
 ###### Art. 170 {#art170}
-Tags:
 Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (nova redação: inciso VI); [[emenda-constitucional-federal-6-1995|Emenda Constitucional nº 6, de 1995]] (nova redação: inciso IX)
 
 **Art. 170, caput** {#art170_cpt} A ordem econômica, fundada na valorização do trabalho humano e na livre iniciativa, tem por fim assegurar a todos existência digna, conforme os ditames da justiça social, observados os seguintes princípios:
@@ -3751,7 +3559,7 @@ Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 
 - **Art. 170, caput, inciso III** {#art170_cpt_inc3} função social da propriedade;
 - **Art. 170, caput, inciso IV** {#art170_cpt_inc4} livre concorrência;
 - **Art. 170, caput, inciso V** {#art170_cpt_inc5} defesa do consumidor;
-- **Art. 170, caput, inciso VI** {#art170_cpt_inc6} #redacao-alterada #meio-ambiente defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o impacto ambiental dos produtos e serviços e de seus processos de elaboração e prestação; *(Redação dada pela [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]])*
+- **Art. 170, caput, inciso VI** {#art170_cpt_inc6} #redacao-alterada defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o impacto ambiental dos produtos e serviços e de seus processos de elaboração e prestação; *(Redação dada pela [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]])*
 - **Art. 170, caput, inciso VII** {#art170_cpt_inc7} redução das desigualdades regionais e sociais;
 - **Art. 170, caput, inciso VIII** {#art170_cpt_inc8} busca do pleno emprego;
 - **Art. 170, caput, inciso IX** {#art170_cpt_inc9} #redacao-alterada tratamento favorecido para as empresas de pequeno porte constituídas sob as leis brasileiras e que tenham sua sede e administração no País. *(Redação dada pela [[emenda-constitucional-federal-6-1995|Emenda Constitucional nº 6, de 1995]])*
@@ -3759,7 +3567,6 @@ Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 
 **Art. 170, parágrafo único** {#art170_par1u} É assegurado a todos o livre exercício de qualquer atividade econômica, independentemente de autorização de órgãos públicos, salvo nos casos previstos em lei. *(Vide [[lei-federal-13874-2019|Lei nº 13.874, de 2019]])*
 
 ###### Art. 171 {#art171}
-Tags:
 Alterações: [[emenda-constitucional-federal-6-1995|Emenda Constitucional nº 6, de 1995]] (revogado: caput, inciso I, inciso II, § 1º, § 1º, inciso I, § 1º, inciso II, § 1º, inciso II, alínea "a", § 1º, inciso II, alínea "b", § 2º)
 
 **Art. 171, caput** {#art171_cpt} #revogado *(Revogado pela [[emenda-constitucional-federal-6-1995|Emenda Constitucional nº 6, de 1995]])*
@@ -3775,12 +3582,10 @@ Alterações: [[emenda-constitucional-federal-6-1995|Emenda Constitucional nº 6
 **Art. 171, § 2º** {#art171_par2} #revogado *(Revogado pela [[emenda-constitucional-federal-6-1995|Emenda Constitucional nº 6, de 1995]])*
 
 ###### Art. 172 {#art172}
-Tags:
 
 **Art. 172, caput** {#art172_cpt} A lei disciplinará, com base no interesse nacional, os investimentos de capital estrangeiro, incentivará os reinvestimentos e regulará a remessa de lucros.
 
 ###### Art. 173 {#art173}
-Tags:
 Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: § 1º; incluído: § 1º, inciso I, § 1º, inciso II, § 1º, inciso III, § 1º, inciso IV, § 1º, inciso V)
 
 **Art. 173, caput** {#art173_cpt} Ressalvados os casos previstos nesta Constituição, a exploração direta de atividade econômica pelo Estado só será permitida quando necessária aos imperativos da segurança nacional ou a relevante interesse coletivo, conforme definidos em lei.
@@ -3801,7 +3606,6 @@ Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 
 **Art. 173, § 5º** {#art173_par5} A lei, sem prejuízo da responsabilidade individual dos dirigentes da pessoa jurídica, estabelecerá a responsabilidade desta, sujeitando-a às punições compatíveis com sua natureza, nos atos praticados contra a ordem econômica e financeira e contra a economia popular.
 
 ###### Art. 174 {#art174}
-Tags:
 
 **Art. 174, caput** {#art174_cpt} Como agente normativo e regulador da atividade econômica, o Estado exercerá, na forma da lei, as funções de fiscalização, incentivo e planejamento, sendo este determinante para o setor público e indicativo para o setor privado. *(Vide [[lei-federal-13874-2019|Lei nº 13.874, de 2019]])*
 
@@ -3814,7 +3618,6 @@ Tags:
 **Art. 174, § 4º** {#art174_par4} As cooperativas a que se refere o parágrafo anterior terão prioridade na autorização ou concessão para pesquisa e lavra dos recursos e jazidas de minerais garimpáveis, nas áreas onde estejam atuando, e naquelas fixadas de acordo com o art. [[#art21|21]], XXV, na forma da lei.
 
 ###### Art. 175 {#art175}
-Tags:
 
 **Art. 175, caput** {#art175_cpt} Incumbe ao Poder Público, na forma da lei, diretamente ou sob regime de concessão ou permissão, sempre através de licitação, a prestação de serviços públicos.
 
@@ -3825,7 +3628,6 @@ Tags:
 - **Art. 175, parágrafo único, inciso IV** {#art175_par1u_inc4} a obrigação de manter serviço adequado.
 
 ###### Art. 176 {#art176}
-Tags: #mineracao
 Alterações: [[emenda-constitucional-federal-6-1995|Emenda Constitucional nº 6, de 1995]] (nova redação: § 1º)
 
 **Art. 176, caput** {#art176_cpt} As jazidas, em lavra ou não, e demais recursos minerais e os potenciais de energia hidráulica constituem propriedade distinta da do solo, para efeito de exploração ou aproveitamento, e pertencem à União, garantida ao concessionário a propriedade do produto da lavra.
@@ -3839,7 +3641,6 @@ Alterações: [[emenda-constitucional-federal-6-1995|Emenda Constitucional nº 6
 **Art. 176, § 4º** {#art176_par4} Não dependerá de autorização ou concessão o aproveitamento do potencial de energia renovável de capacidade reduzida.
 
 ###### Art. 177 {#art177}
-Tags:
 Alterações: [[emenda-constitucional-federal-49-2006|Emenda Constitucional nº 49, de 2006]] (nova redação: inciso V); [[emenda-constitucional-federal-9-1995|Emenda Constitucional nº 9, de 1995]] (nova redação: § 1º; incluído: § 2º, § 2º, inciso I, § 2º, inciso II, § 2º, inciso III; renumerado: § 3º); [[emenda-constitucional-federal-33-2001|Emenda Constitucional nº 33, de 2001]] (incluído: § 4º, § 4º, inciso I, § 4º, inciso I, alínea "a", § 4º, inciso I, alínea "b", § 4º, inciso II, § 4º, inciso II, alínea "a", § 4º, inciso II, alínea "b", § 4º, inciso II, alínea "c"); [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: § 4º, inciso II, alínea "d")
 
 **Art. 177, caput** {#art177_cpt} Constituem monopólio da União:
@@ -3869,7 +3670,6 @@ Alterações: [[emenda-constitucional-federal-49-2006|Emenda Constitucional nº 
   - **Art. 177, § 4º, inciso II, alínea "d"** {#art177_par4_inc2_alid} #incluido ao pagamento de subsídios a tarifas de transporte público coletivo de passageiros. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 178 {#art178}
-Tags:
 Alterações: [[emenda-constitucional-federal-7-1995|Emenda Constitucional nº 7, de 1995]] (nova redação: caput; incluído: parágrafo único)
 
 **Art. 178, caput** {#art178_cpt} #redacao-alterada A lei disporá sobre a ordenação dos transportes aéreo, aquático e terrestre, devendo, quanto à ordenação do transporte internacional, observar os acordos firmados pela União, atendido o princípio da reciprocidade. *(Redação dada pela [[emenda-constitucional-federal-7-1995|Emenda Constitucional nº 7, de 1995]])*
@@ -3877,24 +3677,20 @@ Alterações: [[emenda-constitucional-federal-7-1995|Emenda Constitucional nº 7
 **Art. 178, parágrafo único** {#art178_par1u} #incluido Na ordenação do transporte aquático, a lei estabelecerá as condições em que o transporte de mercadorias na cabotagem e a navegação interior poderão ser feitos por embarcações estrangeiras. *(Incluído pela [[emenda-constitucional-federal-7-1995|Emenda Constitucional nº 7, de 1995]])*
 
 ###### Art. 179 {#art179}
-Tags:
 
 **Art. 179, caput** {#art179_cpt} A União, os Estados, o Distrito Federal e os Municípios dispensarão às microempresas e às empresas de pequeno porte, assim definidas em lei, tratamento jurídico diferenciado, visando a incentivá-las pela simplificação de suas obrigações administrativas, tributárias, previdenciárias e creditícias, ou pela eliminação ou redução destas por meio de lei.
 
 ###### Art. 180 {#art180}
-Tags:
 
 **Art. 180, caput** {#art180_cpt} A União, os Estados, o Distrito Federal e os Municípios promoverão e incentivarão o turismo como fator de desenvolvimento social e econômico.
 
 ###### Art. 181 {#art181}
-Tags:
 
 **Art. 181, caput** {#art181_cpt} O atendimento de requisição de documento ou informação de natureza comercial, feita por autoridade administrativa ou judiciária estrangeira, a pessoa física ou jurídica residente ou domiciliada no País dependerá de autorização do Poder competente.
 
 ### CAPÍTULO II – DA POLÍTICA URBANA
 
 ###### Art. 182 {#art182}
-Tags: #municipio
 
 **Art. 182, caput** {#art182_cpt} A política de desenvolvimento urbano, executada pelo Poder Público municipal, conforme diretrizes gerais fixadas em lei, tem por objetivo ordenar o pleno desenvolvimento das funções sociais da cidade e garantir o bem-estar de seus habitantes. *(Regulamento)* *(Vide [[lei-federal-13311-2016|Lei nº 13.311, de 11 de julho de 2016]])*
 
@@ -3910,7 +3706,6 @@ Tags: #municipio
 - **Art. 182, § 4º, inciso III** {#art182_par4_inc3} desapropriação com pagamento mediante títulos da dívida pública de emissão previamente aprovada pelo Senado Federal, com prazo de resgate de até dez anos, em parcelas anuais, iguais e sucessivas, assegurados o valor real da indenização e os juros legais.
 
 ###### Art. 183 {#art183}
-Tags:
 
 **Art. 183, caput** {#art183_cpt} Aquele que possuir como sua área urbana de até duzentos e cinqüenta metros quadrados, por cinco anos, ininterruptamente e sem oposição, utilizando-a para sua moradia ou de sua família, adquirir-lhe-á o domínio, desde que não seja proprietário de outro imóvel urbano ou rural. *(Regulamento)*
 
@@ -3923,7 +3718,6 @@ Tags:
 ### CAPÍTULO III – DA POLÍTICA AGRÍCOLA E FUNDIÁRIA E DA REFORMA AGRÁRIA *(Regulamento)*
 
 ###### Art. 184 {#art184}
-Tags:
 
 **Art. 184, caput** {#art184_cpt} Compete à União desapropriar por interesse social, para fins de reforma agrária, o imóvel rural que não esteja cumprindo sua função social, mediante prévia e justa indenização em títulos da dívida agrária, com cláusula de preservação do valor real, resgatáveis no prazo de até vinte anos, a partir do segundo ano de sua emissão, e cuja utilização será definida em lei.
 
@@ -3938,7 +3732,6 @@ Tags:
 **Art. 184, § 5º** {#art184_par5} São isentas de impostos federais, estaduais e municipais as operações de transferência de imóveis desapropriados para fins de reforma agrária.
 
 ###### Art. 185 {#art185}
-Tags:
 
 **Art. 185, caput** {#art185_cpt} São insuscetíveis de desapropriação para fins de reforma agrária:
 - **Art. 185, caput, inciso I** {#art185_cpt_inc1} a pequena e média propriedade rural, assim definida em lei, desde que seu proprietário não possua outra;
@@ -3947,16 +3740,14 @@ Tags:
 **Art. 185, parágrafo único** {#art185_par1u} A lei garantirá tratamento especial à propriedade produtiva e fixará normas para o cumprimento dos requisitos relativos a sua função social.
 
 ###### Art. 186 {#art186}
-Tags:
 
 **Art. 186, caput** {#art186_cpt} A função social é cumprida quando a propriedade rural atende, simultaneamente, segundo critérios e graus de exigência estabelecidos em lei, aos seguintes requisitos:
 - **Art. 186, caput, inciso I** {#art186_cpt_inc1} aproveitamento racional e adequado;
-- **Art. 186, caput, inciso II** {#art186_cpt_inc2} #meio-ambiente utilização adequada dos recursos naturais disponíveis e preservação do meio ambiente;
+- **Art. 186, caput, inciso II** {#art186_cpt_inc2} utilização adequada dos recursos naturais disponíveis e preservação do meio ambiente;
 - **Art. 186, caput, inciso III** {#art186_cpt_inc3} observância das disposições que regulam as relações de trabalho;
 - **Art. 186, caput, inciso IV** {#art186_cpt_inc4} exploração que favoreça o bem-estar dos proprietários e dos trabalhadores.
 
 ###### Art. 187 {#art187}
-Tags:
 
 **Art. 187, caput** {#art187_cpt} A política agrícola será planejada e executada na forma da lei, com a participação efetiva do setor de produção, envolvendo produtores e trabalhadores rurais, bem como dos setores de comercialização, de armazenamento e de transportes, levando em conta, especialmente:
 - **Art. 187, caput, inciso I** {#art187_cpt_inc1} os instrumentos creditícios e fiscais;
@@ -3973,7 +3764,6 @@ Tags:
 **Art. 187, § 2º** {#art187_par2} Serão compatibilizadas as ações de política agrícola e de reforma agrária.
 
 ###### Art. 188 {#art188}
-Tags:
 
 **Art. 188, caput** {#art188_cpt} A destinação de terras públicas e devolutas será compatibilizada com a política agrícola e com o plano nacional de reforma agrária.
 
@@ -3982,19 +3772,16 @@ Tags:
 **Art. 188, § 2º** {#art188_par2} Excetuam-se do disposto no parágrafo anterior as alienações ou as concessões de terras públicas para fins de reforma agrária.
 
 ###### Art. 189 {#art189}
-Tags:
 
 **Art. 189, caput** {#art189_cpt} Os beneficiários da distribuição de imóveis rurais pela reforma agrária receberão títulos de domínio ou de concessão de uso, inegociáveis pelo prazo de dez anos.
 
 **Art. 189, parágrafo único** {#art189_par1u} O título de domínio e a concessão de uso serão conferidos ao homem ou à mulher, ou a ambos, independentemente do estado civil, nos termos e condições previstos em lei.
 
 ###### Art. 190 {#art190}
-Tags:
 
 **Art. 190, caput** {#art190_cpt} A lei regulará e limitará a aquisição ou o arrendamento de propriedade rural por pessoa física ou jurídica estrangeira e estabelecerá os casos que dependerão de autorização do Congresso Nacional.
 
 ###### Art. 191 {#art191}
-Tags:
 
 **Art. 191, caput** {#art191_cpt} Aquele que, não sendo proprietário de imóvel rural ou urbano, possua como seu, por cinco anos ininterruptos, sem oposição, área de terra, em zona rural, não superior a cinqüenta hectares, tornando-a produtiva por seu trabalho ou de sua família, tendo nela sua moradia, adquirir-lhe-á a propriedade.
 
@@ -4003,7 +3790,6 @@ Tags:
 ### CAPÍTULO IV – DO SISTEMA FINANCEIRO NACIONAL
 
 ###### Art. 192 {#art192}
-Tags:
 Alterações: [[emenda-constitucional-federal-40-2003|Emenda Constitucional nº 40, de 2003]] (nova redação: caput, inciso I, inciso II, inciso III, inciso III, alínea "a", inciso III, alínea "b", inciso IV, inciso V, inciso VI, inciso VII, inciso VIII, § 1º, § 2º, § 3º)
 
 **Art. 192, caput** {#art192_cpt} #redacao-alterada O sistema financeiro nacional, estruturado de forma a promover o desenvolvimento equilibrado do País e a servir aos interesses da coletividade, em todas as partes que o compõem, abrangendo as cooperativas de crédito, será regulado por leis complementares que disporão, inclusive, sobre a participação do capital estrangeiro nas instituições que o integram. *(Redação dada pela [[emenda-constitucional-federal-40-2003|Emenda Constitucional nº 40, de 2003]])* *(Vide [[lei-federal-8392-1991|Lei nº 8.392, de 1991]])*
@@ -4029,7 +3815,6 @@ Alterações: [[emenda-constitucional-federal-40-2003|Emenda Constitucional nº 
 ### CAPÍTULO I – DISPOSIÇÃO GERAL
 
 ###### Art. 193 {#art193}
-Tags:
 Alterações: [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]] (incluído: parágrafo único)
 
 **Art. 193, caput** {#art193_cpt} A ordem social tem como base o primado do trabalho, e como objetivo o bem-estar e a justiça sociais.
@@ -4041,7 +3826,6 @@ Alterações: [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº
 #### SEÇÃO I – DISPOSIÇÕES GERAIS
 
 ###### Art. 194 {#art194}
-Tags:
 Alterações: [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (nova redação: parágrafo único, inciso VI); [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]] (nova redação: parágrafo único, inciso VII)
 
 **Art. 194, caput** {#art194_cpt} A seguridade social compreende um conjunto integrado de ações de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à assistência social.
@@ -4056,7 +3840,6 @@ Alterações: [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº
 - **Art. 194, parágrafo único, inciso VII** {#art194_par1u_inc7} #redacao-alterada caráter democrático e descentralizado da administração, mediante gestão quadripartite, com participação dos trabalhadores, dos empregadores, dos aposentados e do Governo nos órgãos colegiados. *(Redação dada pela [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]])*
 
 ###### Art. 195 {#art195}
-Tags:
 Alterações: [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]] (nova redação: inciso I, § 8º; incluído: inciso I, alínea "a", inciso I, alínea "b", inciso I, alínea "c", § 10); [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (nova redação: inciso II, § 9º, § 11, § 13; incluído: § 14); [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (incluído: inciso IV, § 12); [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: inciso V, § 15, § 16, § 17, § 18, § 19)
 
 **Art. 195, caput** {#art195_cpt} A seguridade social será financiada por toda a sociedade, de forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais: *(Vide [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]])*
@@ -4110,17 +3893,14 @@ Alterações: [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 
 #### SEÇÃO II – DA SAÚDE
 
 ###### Art. 196 {#art196}
-Tags:
 
 **Art. 196, caput** {#art196_cpt} A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.
 
 ###### Art. 197 {#art197}
-Tags:
 
 **Art. 197, caput** {#art197_cpt} São de relevância pública as ações e serviços de saúde, cabendo ao Poder Público dispor, nos termos da lei, sobre sua regulamentação, fiscalização e controle, devendo sua execução ser feita diretamente ou através de terceiros e, também, por pessoa física ou jurídica de direito privado.
 
 ###### Art. 198 {#art198}
-Tags:
 Alterações: [[emenda-constitucional-federal-140-2026|Emenda Constitucional nº 140, de 2026]] (incluído: inciso IV, § 4º-A, § 4º-B; nova redação: § 10); [[emenda-constitucional-federal-29-2000|Emenda Constitucional nº 29, de 2000]] (renumerado: § 1º; incluído: § 2º, § 3º, § 3º, inciso II, § 3º, inciso III); [[emenda-constitucional-federal-86-2015|Emenda Constitucional nº 86, de 2015]] (nova redação: § 2º, inciso I, § 3º, inciso I, § 3º, inciso IV); [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (nova redação: § 2º, inciso II, § 2º, inciso III); [[emenda-constitucional-federal-51-2006|Emenda Constitucional nº 51, de 2006]] (incluído: § 4º, § 6º); [[emenda-constitucional-federal-63-2010|Emenda Constitucional nº 63, de 2010]] (nova redação: § 5º); [[emenda-constitucional-federal-120-2022|Emenda Constitucional nº 120, de 2022]] (incluído: § 7º, § 8º, § 9º, § 11); [[emenda-constitucional-federal-124-2022|Emenda Constitucional nº 124, de 2022]] (incluído: § 12, § 13); [[emenda-constitucional-federal-127-2022|Emenda Constitucional nº 127, de 2022]] (incluído: § 14, § 15)
 
 **Art. 198, caput** {#art198_cpt} As ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único, organizado de acordo com as seguintes diretrizes: *(Vide ADPF 672)*
@@ -4171,7 +3951,6 @@ Alterações: [[emenda-constitucional-federal-140-2026|Emenda Constitucional nº
 **Art. 198, § 15** {#art198_par15} #incluido Os recursos federais destinados aos pagamentos da assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios e às entidades filantrópicas, bem como aos prestadores de serviços contratualizados que atendam, no mínimo, 60% (sessenta por cento) de seus pacientes pelo sistema único de saúde, para o cumprimento dos pisos salariais de que trata o § 12 deste artigo serão consignados no orçamento geral da União com dotação própria e exclusiva. *(Incluído pela [[emenda-constitucional-federal-127-2022|Emenda Constitucional nº 127, de 2022]])*
 
 ###### Art. 199 {#art199}
-Tags:
 
 **Art. 199, caput** {#art199_cpt} A assistência à saúde é livre à iniciativa privada.
 
@@ -4184,7 +3963,6 @@ Tags:
 **Art. 199, § 4º** {#art199_par4} A lei disporá sobre as condições e os requisitos que facilitem a remoção de órgãos, tecidos e substâncias humanas para fins de transplante, pesquisa e tratamento, bem como a coleta, processamento e transfusão de sangue e seus derivados, sendo vedado todo tipo de comercialização.
 
 ###### Art. 200 {#art200}
-Tags:
 Alterações: [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]] (nova redação: inciso V)
 
 **Art. 200, caput** {#art200_cpt} Ao sistema único de saúde compete, além de outras atribuições, nos termos da lei:
@@ -4200,7 +3978,6 @@ Alterações: [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 
 #### SEÇÃO III – DA PREVIDÊNCIA SOCIAL
 
 ###### Art. 201 {#art201}
-Tags:
 Alterações: [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (nova redação: caput, inciso I, § 1º, § 7º, inciso I, § 7º, inciso II, § 8º, § 9º, § 10, § 12, § 13; incluído: § 1º, inciso I, § 1º, inciso II, § 9º-A, § 14, § 15, § 16); [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]] (nova redação: inciso II, inciso III, inciso IV, inciso V, § 2º, § 3º, § 4º, § 5º, § 6º, § 7º; incluído: § 11); [[emenda-constitucional-federal-140-2026|Emenda Constitucional nº 140, de 2026]] (incluído: § 8º-A)
 
 **Art. 201, caput** {#art201_cpt} #redacao-alterada A previdência social será organizada sob a forma do Regime Geral de Previdência Social, de caráter contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio financeiro e atuarial, e atenderá, na forma da lei, a: *(Redação dada pela [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]])*
@@ -4251,7 +4028,6 @@ Alterações: [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº
 **Art. 201, § 16** {#art201_par16} #incluido Os empregados dos consórcios públicos, das empresas públicas, das sociedades de economia mista e das suas subsidiárias serão aposentados compulsoriamente, observado o cumprimento do tempo mínimo de contribuição, ao atingir a idade máxima de que trata o inciso II do § 1º do art. [[#art40|40]], na forma estabelecida em lei. *(Incluído pela [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]])*
 
 ###### Art. 202 {#art202}
-Tags:
 Alterações: [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]] (nova redação: caput, § 1º, § 2º; incluído: § 3º); [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (nova redação: § 4º, § 5º, § 6º)
 
 **Art. 202, caput** {#art202_cpt} #redacao-alterada O regime de previdência privada, de caráter complementar e organizado de forma autônoma em relação ao regime geral de previdência social, será facultativo, baseado na constituição de reservas que garantam o benefício contratado, e regulado por lei complementar. *(Redação dada pela [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]])* *(Vide [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]])*
@@ -4271,7 +4047,6 @@ Alterações: [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 
 #### SEÇÃO IV – DA ASSISTÊNCIA SOCIAL
 
 ###### Art. 203 {#art203}
-Tags:
 Alterações: [[emenda-constitucional-federal-114-2021|Emenda Constitucional nº 114, de 2021]] (incluído: inciso VI)
 
 **Art. 203, caput** {#art203_cpt} A assistência social será prestada a quem dela necessitar, independentemente de contribuição à seguridade social, e tem por objetivos:
@@ -4283,7 +4058,6 @@ Alterações: [[emenda-constitucional-federal-114-2021|Emenda Constitucional nº
 - **Art. 203, caput, inciso VI** {#art203_cpt_inc6} #incluido a redução da vulnerabilidade socioeconômica de famílias em situação de pobreza ou de extrema pobreza. *(Incluído pela [[emenda-constitucional-federal-114-2021|Emenda Constitucional nº 114, de 2021]])*
 
 ###### Art. 204 {#art204}
-Tags:
 Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (incluído: parágrafo único, parágrafo único, inciso I, parágrafo único, inciso II, parágrafo único, inciso III)
 
 **Art. 204, caput** {#art204_cpt} As ações governamentais na área da assistência social serão realizadas com recursos do orçamento da seguridade social, previstos no art. [[#art195|195]], além de outras fontes, e organizadas com base nas seguintes diretrizes:
@@ -4300,12 +4074,10 @@ Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 
 #### SEÇÃO I – DA EDUCAÇÃO
 
 ###### Art. 205 {#art205}
-Tags:
 
 **Art. 205, caput** {#art205_cpt} A educação, direito de todos e dever do Estado e da família, será promovida e incentivada com a colaboração da sociedade, visando ao pleno desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o trabalho.
 
 ###### Art. 206 {#art206}
-Tags:
 Alterações: [[emenda-constitucional-federal-53-2006|Emenda Constitucional nº 53, de 2006]] (nova redação: inciso V; incluído: inciso VIII, parágrafo único); [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]] (incluído: inciso IX)
 
 **Art. 206, caput** {#art206_cpt} O ensino será ministrado com base nos seguintes princípios:
@@ -4322,7 +4094,6 @@ Alterações: [[emenda-constitucional-federal-53-2006|Emenda Constitucional nº 
 **Art. 206, parágrafo único** {#art206_par1u} #incluido A lei disporá sobre as categorias de trabalhadores considerados profissionais da educação básica e sobre a fixação de prazo para a elaboração ou adequação de seus planos de carreira, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios. *(Incluído pela [[emenda-constitucional-federal-53-2006|Emenda Constitucional nº 53, de 2006]])*
 
 ###### Art. 207 {#art207}
-Tags:
 Alterações: [[emenda-constitucional-federal-11-1996|Emenda Constitucional nº 11, de 1996]] (incluído: § 1º, § 2º)
 
 **Art. 207, caput** {#art207_cpt} As universidades gozam de autonomia didático-científica, administrativa e de gestão financeira e patrimonial, e obedecerão ao princípio de indissociabilidade entre ensino, pesquisa e extensão.
@@ -4332,7 +4103,6 @@ Alterações: [[emenda-constitucional-federal-11-1996|Emenda Constitucional nº 
 **Art. 207, § 2º** {#art207_par2} #incluido O disposto neste artigo aplica-se às instituições de pesquisa científica e tecnológica. *(Incluído pela [[emenda-constitucional-federal-11-1996|Emenda Constitucional nº 11, de 1996]])*
 
 ###### Art. 208 {#art208}
-Tags:
 Alterações: [[emenda-constitucional-federal-59-2009|Emenda Constitucional nº 59, de 2009]] (nova redação: inciso I, inciso VII); [[emenda-constitucional-federal-14-1996|Emenda Constitucional nº 14, de 1996]] (nova redação: inciso II); [[emenda-constitucional-federal-53-2006|Emenda Constitucional nº 53, de 2006]] (nova redação: inciso IV)
 
 **Art. 208, caput** {#art208_cpt} O dever do Estado com a educação será efetivado mediante a garantia de:
@@ -4351,14 +4121,12 @@ Alterações: [[emenda-constitucional-federal-59-2009|Emenda Constitucional nº 
 **Art. 208, § 3º** {#art208_par3} Compete ao Poder Público recensear os educandos no ensino fundamental, fazer-lhes a chamada e zelar, junto aos pais ou responsáveis, pela freqüência à escola.
 
 ###### Art. 209 {#art209}
-Tags:
 
 **Art. 209, caput** {#art209_cpt} O ensino é livre à iniciativa privada, atendidas as seguintes condições:
 - **Art. 209, caput, inciso I** {#art209_cpt_inc1} cumprimento das normas gerais da educação nacional;
 - **Art. 209, caput, inciso II** {#art209_cpt_inc2} autorização e avaliação de qualidade pelo Poder Público.
 
 ###### Art. 210 {#art210}
-Tags:
 
 **Art. 210, caput** {#art210_cpt} Serão fixados conteúdos mínimos para o ensino fundamental, de maneira a assegurar formação básica comum e respeito aos valores culturais e artísticos, nacionais e regionais.
 
@@ -4367,7 +4135,6 @@ Tags:
 **Art. 210, § 2º** {#art210_par2} O ensino fundamental regular será ministrado em língua portuguesa, assegurada às comunidades indígenas também a utilização de suas línguas maternas e processos próprios de aprendizagem.
 
 ###### Art. 211 {#art211}
-Tags:
 Alterações: [[emenda-constitucional-federal-14-1996|Emenda Constitucional nº 14, de 1996]] (nova redação: § 1º, § 2º; incluído: § 3º); [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]] (nova redação: § 4º; incluído: § 6º, § 7º); [[emenda-constitucional-federal-53-2006|Emenda Constitucional nº 53, de 2006]] (incluído: § 5º)
 
 **Art. 211, caput** {#art211_cpt} A União, os Estados, o Distrito Federal e os Municípios organizarão em regime de colaboração seus sistemas de ensino.
@@ -4387,7 +4154,6 @@ Alterações: [[emenda-constitucional-federal-14-1996|Emenda Constitucional nº 
 **Art. 211, § 7º** {#art211_par7} #incluido O padrão mínimo de qualidade de que trata o § 1º deste artigo considerará as condições adequadas de oferta e terá como referência o Custo Aluno Qualidade (CAQ), pactuados em regime de colaboração na forma disposta em lei complementar, conforme o parágrafo único do art. [[#art23|23]] desta Constituição. *(Incluído pela [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]])*
 
 ###### Art. 212 {#art212}
-Tags:
 Alterações: [[emenda-constitucional-federal-59-2009|Emenda Constitucional nº 59, de 2009]] (nova redação: § 3º); [[emenda-constitucional-federal-53-2006|Emenda Constitucional nº 53, de 2006]] (nova redação: § 5º; incluído: § 6º); [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]] (incluído: § 7º, § 8º, § 9º)
 
 **Art. 212, caput** {#art212_cpt} A União aplicará, anualmente, nunca menos de dezoito, e os Estados, o Distrito Federal e os Municípios vinte e cinco por cento, no mínimo, da receita resultante de impostos, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino.
@@ -4411,7 +4177,6 @@ Alterações: [[emenda-constitucional-federal-59-2009|Emenda Constitucional nº 
 **Art. 212, § 9º** {#art212_par9} #incluido A lei disporá sobre normas de fiscalização, de avaliação e de controle das despesas com educação nas esferas estadual, distrital e municipal. *(Incluído pela [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]])*
 
 ###### Art. 212-A {#art212-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]] (incluído: caput, inciso I, inciso III, inciso IV, inciso V, inciso V, alínea "a", inciso V, alínea "b", inciso V, alínea "c", inciso VI, inciso VII, inciso VIII, inciso IX, inciso X, inciso X, alínea "a", inciso X, alínea "b", inciso X, alínea "c", inciso X, alínea "d", inciso X, alínea "e", inciso XI, inciso XII, inciso XIII, § 1º, § 1º, inciso I, § 1º, inciso II, § 1º, inciso III, § 2º, § 3º); [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (nova redação: inciso II; incluído: inciso II, alínea "a", inciso II, alínea "b", inciso II, alínea "c"); [[emenda-constitucional-federal-135-2024|Emenda Constitucional nº 135, de 2024]] (incluído: inciso XIV, inciso XV)
 
 **Art. 212-A, caput** {#art212-a_cpt} #incluido Os Estados, o Distrito Federal e os Municípios destinarão parte dos recursos a que se refere o caput do art. [[#art212|212]] desta Constituição à manutenção e ao desenvolvimento do ensino na educação básica e à remuneração condigna de seus profissionais, respeitadas as seguintes disposições: *(Incluído pela [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]])* *(Regulamento)*
@@ -4452,7 +4217,6 @@ Alterações: [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº
 **Art. 212-A, § 3º** {#art212-a_par3} #incluido Será destinada à educação infantil a proporção de 50% (cinquenta por cento) dos recursos globais a que se refere a alínea "b" do inciso V do caput deste artigo, nos termos da lei. *(Incluído pela [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]])*
 
 ###### Art. 213 {#art213}
-Tags:
 Alterações: [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]] (nova redação: § 2º)
 
 **Art. 213, caput** {#art213_cpt} Os recursos públicos serão destinados às escolas públicas, podendo ser dirigidos a escolas comunitárias, confessionais ou filantrópicas, definidas em lei, que:
@@ -4464,7 +4228,6 @@ Alterações: [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 
 **Art. 213, § 2º** {#art213_par2} #redacao-alterada As atividades de pesquisa, de extensão e de estímulo e fomento à inovação realizadas por universidades e/ou por instituições de educação profissional e tecnológica poderão receber apoio financeiro do Poder Público. *(Redação dada pela [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]])*
 
 ###### Art. 214 {#art214}
-Tags:
 Alterações: [[emenda-constitucional-federal-59-2009|Emenda Constitucional nº 59, de 2009]] (nova redação: caput; incluído: inciso VI)
 
 **Art. 214, caput** {#art214_cpt} #redacao-alterada A lei estabelecerá o plano nacional de educação, de duração decenal, com o objetivo de articular o sistema nacional de educação em regime de colaboração e definir diretrizes, objetivos, metas e estratégias de implementação para assegurar a manutenção e desenvolvimento do ensino em seus diversos níveis, etapas e modalidades por meio de ações integradas dos poderes públicos das diferentes esferas federativas que conduzam a: *(Redação dada pela [[emenda-constitucional-federal-59-2009|Emenda Constitucional nº 59, de 2009]])*
@@ -4478,7 +4241,6 @@ Alterações: [[emenda-constitucional-federal-59-2009|Emenda Constitucional nº 
 #### SEÇÃO II – DA CULTURA
 
 ###### Art. 215 {#art215}
-Tags:
 Alterações: [[emenda-constitucional-federal-48-2005|Emenda Constitucional nº 48, de 2005]] (incluído: § 3º, § 3º, inciso I, § 3º, inciso II, § 3º, inciso III, § 3º, inciso IV, § 3º, inciso V)
 
 **Art. 215, caput** {#art215_cpt} O Estado garantirá a todos o pleno exercício dos direitos culturais e acesso às fontes da cultura nacional, e apoiará e incentivará a valorização e a difusão das manifestações culturais.
@@ -4495,7 +4257,6 @@ Alterações: [[emenda-constitucional-federal-48-2005|Emenda Constitucional nº 
 - **Art. 215, § 3º, inciso V** {#art215_par3_inc5} #incluido valorização da diversidade étnica e regional. *(Incluído pela [[emenda-constitucional-federal-48-2005|Emenda Constitucional nº 48, de 2005]])*
 
 ###### Art. 216 {#art216}
-Tags:
 Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (incluído: § 6º, § 6º, inciso I, § 6º, inciso II, § 6º, inciso III)
 
 **Art. 216, caput** {#art216_cpt} Constituem patrimônio cultural brasileiro os bens de natureza material e imaterial, tomados individualmente ou em conjunto, portadores de referência à identidade, à ação, à memória dos diferentes grupos formadores da sociedade brasileira, nos quais se incluem:
@@ -4521,7 +4282,6 @@ Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 
 - **Art. 216, § 6º, inciso III** {#art216_par6_inc3} #incluido qualquer outra despesa corrente não vinculada diretamente aos investimentos ou ações apoiados. *(Incluído pela [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]])*
 
 ###### Art. 216-A {#art216-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-71-2012|Emenda Constitucional nº 71, de 2012]] (incluído: caput, § 1º, § 1º, inciso I, § 1º, inciso II, § 1º, inciso III, § 1º, inciso IV, § 1º, inciso V, § 1º, inciso VI, § 1º, inciso VII, § 1º, inciso VIII, § 1º, inciso IX, § 1º, inciso X, § 1º, inciso XI, § 1º, inciso XII, § 2º, § 2º, inciso I, § 2º, inciso II, § 2º, inciso III, § 2º, inciso IV, § 2º, inciso V, § 2º, inciso VI, § 2º, inciso VII, § 2º, inciso VIII, § 2º, inciso IX, § 3º, § 4º)
 
 **Art. 216-A, caput** {#art216-a_cpt} #incluido O Sistema Nacional de Cultura, organizado em regime de colaboração, de forma descentralizada e participativa, institui um processo de gestão e promoção conjunta de políticas públicas de cultura, democráticas e permanentes, pactuadas entre os entes da Federação e a sociedade, tendo por objetivo promover o desenvolvimento humano, social e econômico com pleno exercício dos direitos culturais. *(Incluído pela [[emenda-constitucional-federal-71-2012|Emenda Constitucional nº 71, de 2012]])*
@@ -4558,7 +4318,6 @@ Alterações: [[emenda-constitucional-federal-71-2012|Emenda Constitucional nº 
 #### SEÇÃO III – DO DESPORTO
 
 ###### Art. 217 {#art217}
-Tags:
 
 **Art. 217, caput** {#art217_cpt} É dever do Estado fomentar práticas desportivas formais e não-formais, como direito de cada um, observados:
 - **Art. 217, caput, inciso I** {#art217_cpt_inc1} a autonomia das entidades desportivas dirigentes e associações, quanto a sua organização e funcionamento;
@@ -4575,7 +4334,6 @@ Tags:
 ### CAPÍTULO IV – DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO *(Redação dada pela [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]])*
 
 ###### Art. 218 {#art218}
-Tags:
 Alterações: [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]] (nova redação: caput, § 1º, § 3º; incluído: § 6º, § 7º)
 
 **Art. 218, caput** {#art218_cpt} #redacao-alterada O Estado promoverá e incentivará o desenvolvimento científico, a pesquisa, a capacitação científica e tecnológica e a inovação. *(Redação dada pela [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]])*
@@ -4595,7 +4353,6 @@ Alterações: [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 
 **Art. 218, § 7º** {#art218_par7} #incluido O Estado promoverá e incentivará a atuação no exterior das instituições públicas de ciência, tecnologia e inovação, com vistas à execução das atividades previstas no caput. *(Incluído pela [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]])*
 
 ###### Art. 219 {#art219}
-Tags:
 Alterações: [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]] (incluído: parágrafo único)
 
 **Art. 219, caput** {#art219_cpt} O mercado interno integra o patrimônio nacional e será incentivado de modo a viabilizar o desenvolvimento cultural e sócio-econômico, o bem-estar da população e a autonomia tecnológica do País, nos termos de lei federal.
@@ -4603,13 +4360,11 @@ Alterações: [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 
 **Art. 219, parágrafo único** {#art219_par1u} #incluido O Estado estimulará a formação e o fortalecimento da inovação nas empresas, bem como nos demais entes, públicos ou privados, a constituição e a manutenção de parques e polos tecnológicos e de demais ambientes promotores da inovação, a atuação dos inventores independentes e a criação, absorção, difusão e transferência de tecnologia. *(Incluído pela [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]])*
 
 ###### Art. 219-A {#art219-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]] (incluído: caput)
 
 **Art. 219-A, caput** {#art219-a_cpt} #incluido A União, os Estados, o Distrito Federal e os Municípios poderão firmar instrumentos de cooperação com órgãos e entidades públicos e com entidades privadas, inclusive para o compartilhamento de recursos humanos especializados e capacidade instalada, para a execução de projetos de pesquisa, de desenvolvimento científico e tecnológico e de inovação, mediante contrapartida financeira ou não financeira assumida pelo ente beneficiário, na forma da lei. *(Incluído pela [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]])*
 
 ###### Art. 219-B {#art219-b}
-Tags:
 Alterações: [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]] (incluído: caput, § 1º, § 2º)
 
 **Art. 219-B, caput** {#art219-b_cpt} #incluido O Sistema Nacional de Ciência, Tecnologia e Inovação (SNCTI) será organizado em regime de colaboração entre entes, tanto públicos quanto privados, com vistas a promover o desenvolvimento científico e tecnológico e a inovação. *(Incluído pela [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 85, de 2015]])*
@@ -4621,7 +4376,6 @@ Alterações: [[emenda-constitucional-federal-85-2015|Emenda Constitucional nº 
 ### CAPÍTULO V – DA COMUNICAÇÃO SOCIAL
 
 ###### Art. 220 {#art220}
-Tags:
 
 **Art. 220, caput** {#art220_cpt} A manifestação do pensamento, a criação, a expressão e a informação, sob qualquer forma, processo ou veículo não sofrerão qualquer restrição, observado o disposto nesta Constituição.
 
@@ -4640,7 +4394,6 @@ Tags:
 **Art. 220, § 6º** {#art220_par6} A publicação de veículo impresso de comunicação independe de licença de autoridade.
 
 ###### Art. 221 {#art221}
-Tags:
 
 **Art. 221, caput** {#art221_cpt} A produção e a programação das emissoras de rádio e televisão atenderão aos seguintes princípios:
 - **Art. 221, caput, inciso I** {#art221_cpt_inc1} preferência a finalidades educativas, artísticas, culturais e informativas;
@@ -4649,7 +4402,6 @@ Tags:
 - **Art. 221, caput, inciso IV** {#art221_cpt_inc4} respeito aos valores éticos e sociais da pessoa e da família.
 
 ###### Art. 222 {#art222}
-Tags:
 Alterações: [[emenda-constitucional-federal-36-2002|Emenda Constitucional nº 36, de 2002]] (nova redação: caput, § 1º, § 2º; incluído: § 3º, § 4º, § 5º)
 
 **Art. 222, caput** {#art222_cpt} #redacao-alterada A propriedade de empresa jornalística e de radiodifusão sonora e de sons e imagens é privativa de brasileiros natos ou naturalizados há mais de dez anos, ou de pessoas jurídicas constituídas sob as leis brasileiras e que tenham sede no País. *(Redação dada pela [[emenda-constitucional-federal-36-2002|Emenda Constitucional nº 36, de 2002]])*
@@ -4665,7 +4417,6 @@ Alterações: [[emenda-constitucional-federal-36-2002|Emenda Constitucional nº 
 **Art. 222, § 5º** {#art222_par5} #incluido As alterações de controle societário das empresas de que trata o § 1º serão comunicadas ao Congresso Nacional. *(Incluído pela [[emenda-constitucional-federal-36-2002|Emenda Constitucional nº 36, de 2002]])*
 
 ###### Art. 223 {#art223}
-Tags:
 
 **Art. 223, caput** {#art223_cpt} Compete ao Poder Executivo outorgar e renovar concessão, permissão e autorização para o serviço de radiodifusão sonora e de sons e imagens, observado o princípio da complementaridade dos sistemas privado, público e estatal.
 
@@ -4680,14 +4431,12 @@ Tags:
 **Art. 223, § 5º** {#art223_par5} O prazo da concessão ou permissão será de dez anos para as emissoras de rádio e de quinze para as de televisão.
 
 ###### Art. 224 {#art224}
-Tags:
 
 **Art. 224, caput** {#art224_cpt} Para os efeitos do disposto neste capítulo, o Congresso Nacional instituirá, como seu órgão auxiliar, o Conselho de Comunicação Social, na forma da lei.
 
 ### CAPÍTULO VI – DO MEIO AMBIENTE
 
 ###### Art. 225 {#art225}
-Tags: #meio-ambiente
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (nova redação: § 1º, inciso VIII); [[emenda-constitucional-federal-96-2017|Emenda Constitucional nº 96, de 2017]] (incluído: § 7º)
 
 **Art. 225, caput** {#art225_cpt} Todos têm direito ao meio ambiente ecologicamente equilibrado, bem de uso comum do povo e essencial à sadia qualidade de vida, impondo-se ao Poder Público e à coletividade o dever de defendê-lo e preservá- lo para as presentes e futuras gerações.
@@ -4696,7 +4445,7 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 - **Art. 225, § 1º, inciso I** {#art225_par1_inc1} preservar e restaurar os processos ecológicos essenciais e prover o manejo ecológico das espécies e ecossistemas; *(Regulamento)*
 - **Art. 225, § 1º, inciso II** {#art225_par1_inc2} preservar a diversidade e a integridade do patrimônio genético do País e fiscalizar as entidades dedicadas à pesquisa e manipulação de material genético; *(Regulamento)* *(Regulamento)* *(Regulamento)* *(Regulamento)*
 - **Art. 225, § 1º, inciso III** {#art225_par1_inc3} definir, em todas as unidades da Federação, espaços territoriais e seus componentes a serem especialmente protegidos, sendo a alteração e a supressão permitidas somente através de lei, vedada qualquer utilização que comprometa a integridade dos atributos que justifiquem sua proteção; *(Regulamento)*
-- **Art. 225, § 1º, inciso IV** {#art225_par1_inc4} #eia-rima exigir, na forma da lei, para instalação de obra ou atividade potencialmente causadora de significativa degradação do meio ambiente, estudo prévio de impacto ambiental, a que se dará publicidade; *(Regulamento)*
+- **Art. 225, § 1º, inciso IV** {#art225_par1_inc4} exigir, na forma da lei, para instalação de obra ou atividade potencialmente causadora de significativa degradação do meio ambiente, estudo prévio de impacto ambiental, a que se dará publicidade; *(Regulamento)*
 - **Art. 225, § 1º, inciso V** {#art225_par1_inc5} controlar a produção, a comercialização e o emprego de técnicas, métodos e substâncias que comportem risco para a vida, a qualidade de vida e o meio ambiente; *(Regulamento)*
 - **Art. 225, § 1º, inciso VI** {#art225_par1_inc6} promover a educação ambiental em todos os níveis de ensino e a conscientização pública para a preservação do meio ambiente;
 - **Art. 225, § 1º, inciso VII** {#art225_par1_inc7} proteger a fauna e a flora, vedadas, na forma da lei, as práticas que coloquem em risco sua função ecológica, provoquem a extinção de espécies ou submetam os animais a crueldade. *(Regulamento)*
@@ -4717,7 +4466,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 ### CAPÍTULO VII – DA FAMÍLIA, DA CRIANÇA, DO ADOLESCENTE, DO JOVEM E DO IDOSO *(Redação dada Pela [[emenda-constitucional-federal-65-2010|Emenda Constitucional nº 65, de 2010]])*
 
 ###### Art. 226 {#art226}
-Tags:
 Alterações: [[emenda-constitucional-federal-66-2010|Emenda Constitucional nº 66, de 2010]] (nova redação: § 6º)
 
 **Art. 226, caput** {#art226_cpt} A família, base da sociedade, tem especial proteção do Estado.
@@ -4739,7 +4487,6 @@ Alterações: [[emenda-constitucional-federal-66-2010|Emenda Constitucional nº 
 **Art. 226, § 8º** {#art226_par8} O Estado assegurará a assistência à família na pessoa de cada um dos que a integram, criando mecanismos para coibir a violência no âmbito de suas relações.
 
 ###### Art. 227 {#art227}
-Tags:
 Alterações: [[emenda-constitucional-federal-65-2010|Emenda Constitucional nº 65, de 2010]] (nova redação: caput, § 1º, § 1º, inciso II, § 3º, inciso III, § 3º, inciso VII; incluído: § 8º, § 8º, inciso I, § 8º, inciso II)
 
 **Art. 227, caput** {#art227_cpt} #redacao-alterada É dever da família, da sociedade e do Estado assegurar à criança, ao adolescente e ao jovem, com absoluta prioridade, o direito à vida, à saúde, à alimentação, à educação, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária, além de colocá-los a salvo de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão. *(Redação dada Pela [[emenda-constitucional-federal-65-2010|Emenda Constitucional nº 65, de 2010]])*
@@ -4772,17 +4519,14 @@ Alterações: [[emenda-constitucional-federal-65-2010|Emenda Constitucional nº 
 - **Art. 227, § 8º, inciso II** {#art227_par8_inc2} #incluido o plano nacional de juventude, de duração decenal, visando à articulação das várias esferas do poder público para a execução de políticas públicas. *(Incluído Pela [[emenda-constitucional-federal-65-2010|Emenda Constitucional nº 65, de 2010]])*
 
 ###### Art. 228 {#art228}
-Tags:
 
 **Art. 228, caput** {#art228_cpt} São penalmente inimputáveis os menores de dezoito anos, sujeitos às normas da legislação especial.
 
 ###### Art. 229 {#art229}
-Tags:
 
 **Art. 229, caput** {#art229_cpt} Os pais têm o dever de assistir, criar e educar os filhos menores, e os filhos maiores têm o dever de ajudar e amparar os pais na velhice, carência ou enfermidade.
 
 ###### Art. 230 {#art230}
-Tags:
 
 **Art. 230, caput** {#art230_cpt} A família, a sociedade e o Estado têm o dever de amparar as pessoas idosas, assegurando sua participação na comunidade, defendendo sua dignidade e bem-estar e garantindo-lhes o direito à vida.
 
@@ -4793,7 +4537,6 @@ Tags:
 ### CAPÍTULO VIII – DOS ÍNDIOS
 
 ###### Art. 231 {#art231}
-Tags: #terra-indigena
 
 **Art. 231, caput** {#art231_cpt} São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens. *(Regulamento)*
 
@@ -4812,14 +4555,12 @@ Tags: #terra-indigena
 **Art. 231, § 7º** {#art231_par7} Não se aplica às terras indígenas o disposto no art. [[#art174|174]], § 3º e § 4º.
 
 ###### Art. 232 {#art232}
-Tags:
 
 **Art. 232, caput** {#art232_cpt} Os índios, suas comunidades e organizações são partes legítimas para ingressar em juízo em defesa de seus direitos e interesses, intervindo o Ministério Público em todos os atos do processo.
 
 ## TÍTULO IX – DAS DISPOSIÇÕES CONSTITUCIONAIS GERAIS
 
 ###### Art. 233 {#art233}
-Tags:
 Alterações: [[emenda-constitucional-federal-28-2000|Emenda Constitucional nº 28, de 25/05/2000]] (revogado: caput, § 1º, § 2º, § 3º)
 
 **Art. 233, caput** {#art233_cpt} #revogado *(Revogado pela [[emenda-constitucional-federal-28-2000|Emenda Constitucional nº 28, de 25/05/2000]])*
@@ -4831,12 +4572,10 @@ Alterações: [[emenda-constitucional-federal-28-2000|Emenda Constitucional nº 
 **Art. 233, § 3º** {#art233_par3} #revogado *(Revogado pela [[emenda-constitucional-federal-28-2000|Emenda Constitucional nº 28, de 25/05/2000]])*
 
 ###### Art. 234 {#art234}
-Tags:
 
 **Art. 234, caput** {#art234_cpt} É vedado à União, direta ou indiretamente, assumir, em decorrência da criação de Estado, encargos referentes a despesas com pessoal inativo e com encargos e amortizações da dívida interna ou externa da administração pública, inclusive da indireta.
 
 ###### Art. 235 {#art235}
-Tags:
 
 **Art. 235, caput** {#art235_cpt} Nos dez primeiros anos da criação de Estado, serão observadas as seguintes normas básicas:
 - **Art. 235, caput, inciso I** {#art235_cpt_inc1} a Assembléia Legislativa será composta de dezessete Deputados se a população do Estado for inferior a seiscentos mil habitantes, e de vinte e quatro, se igual ou superior a esse número, até um milhão e quinhentos mil;
@@ -4856,7 +4595,6 @@ Tags:
 - **Art. 235, caput, inciso XI** {#art235_cpt_inc11} as despesas orçamentárias com pessoal não poderão ultrapassar cinqüenta por cento da receita do Estado.
 
 ###### Art. 236 {#art236}
-Tags:
 
 **Art. 236, caput** {#art236_cpt} Os serviços notariais e de registro são exercidos em caráter privado, por delegação do Poder Público. *(Regulamento)*
 
@@ -4867,17 +4605,14 @@ Tags:
 **Art. 236, § 3º** {#art236_par3} O ingresso na atividade notarial e de registro depende de concurso público de provas e títulos, não se permitindo que qualquer serventia fique vaga, sem abertura de concurso de provimento ou de remoção, por mais de seis meses.
 
 ###### Art. 237 {#art237}
-Tags:
 
 **Art. 237, caput** {#art237_cpt} A fiscalização e o controle sobre o comércio exterior, essenciais à defesa dos interesses fazendários nacionais, serão exercidos pelo Ministério da Fazenda.
 
 ###### Art. 238 {#art238}
-Tags:
 
 **Art. 238, caput** {#art238_cpt} A lei ordenará a venda e revenda de combustíveis de petróleo, álcool carburante e outros combustíveis derivados de matérias-primas renováveis, respeitados os princípios desta Constituição.
 
 ###### Art. 239 {#art239}
-Tags:
 Alterações: [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (nova redação: caput, § 1º; incluído: § 5º); [[emenda-constitucional-federal-135-2024|Emenda Constitucional nº 135, de 2024]] (nova redação: § 3º; incluído: § 3º-A)
 
 **Art. 239, caput** {#art239_cpt} #redacao-alterada A arrecadação decorrente das contribuições para o Programa de Integração Social, criado pela [[lei-complementar-federal-7-1970|Lei Complementar nº 7, de 7 de setembro de 1970]], e para o Programa de Formação do Patrimônio do Servidor Público, criado pela [[lei-complementar-federal-8-1970|Lei Complementar nº 8, de 3 de dezembro de 1970]], passa, a partir da promulgação desta Constituição, a financiar, nos termos que a lei dispuser, o programa do seguro-desemprego, outras ações da previdência social e o abono de que trata o § 3º deste artigo. *(Redação dada pela [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]])*
@@ -4895,18 +4630,15 @@ Alterações: [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº
 **Art. 239, § 5º** {#art239_par5} #incluido Os programas de desenvolvimento econômico financiados na forma do § 1º e seus resultados serão anualmente avaliados e divulgados em meio de comunicação social eletrônico e apresentados em reunião da comissão mista permanente de que trata o § 1º do art. [[#art166|166]]. *(Incluído pela [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]])*
 
 ###### Art. 240 {#art240}
-Tags:
 
 **Art. 240, caput** {#art240_cpt} Ficam ressalvadas do disposto no art. [[#art195|195]] as atuais contribuições compulsórias dos empregadores sobre a folha de salários, destinadas às entidades privadas de serviço social e de formação profissional vinculadas ao sistema sindical.
 
 ###### Art. 241 {#art241}
-Tags:
 Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (nova redação: caput)
 
 **Art. 241, caput** {#art241_cpt} #redacao-alterada A União, os Estados, o Distrito Federal e os Municípios disciplinarão por meio de lei os consórcios públicos e os convênios de cooperação entre os entes federados, autorizando a gestão associada de serviços públicos, bem como a transferência total ou parcial de encargos, serviços, pessoal e bens essenciais à continuidade dos serviços transferidos. *(Redação dada pela [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]])*
 
 ###### Art. 242 {#art242}
-Tags:
 
 **Art. 242, caput** {#art242_cpt} O princípio do art. [[#art206|206]], IV, não se aplica às instituições educacionais oficiais criadas por lei estadual ou municipal e existentes na data da promulgação desta Constituição, que não sejam total ou preponderantemente mantidas com recursos públicos.
 
@@ -4915,7 +4647,6 @@ Tags:
 **Art. 242, § 2º** {#art242_par2} O Colégio Pedro II, localizado na cidade do Rio de Janeiro, será mantido na órbita federal.
 
 ###### Art. 243 {#art243}
-Tags:
 Alterações: [[emenda-constitucional-federal-81-2014|Emenda Constitucional nº 81, de 2014]] (nova redação: caput, parágrafo único)
 
 **Art. 243, caput** {#art243_cpt} #redacao-alterada As propriedades rurais e urbanas de qualquer região do País onde forem localizadas culturas ilegais de plantas psicotrópicas ou a exploração de trabalho escravo na forma da lei serão expropriadas e destinadas à reforma agrária e a programas de habitação popular, sem qualquer indenização ao proprietário e sem prejuízo de outras sanções previstas em lei, observado, no que couber, o disposto no art. [[#art5|5º]]. *(Redação dada pela [[emenda-constitucional-federal-81-2014|Emenda Constitucional nº 81, de 2014]])*
@@ -4923,23 +4654,19 @@ Alterações: [[emenda-constitucional-federal-81-2014|Emenda Constitucional nº 
 **Art. 243, parágrafo único** {#art243_par1u} #redacao-alterada Todo e qualquer bem de valor econômico apreendido em decorrência do tráfico ilícito de entorpecentes e drogas afins e da exploração de trabalho escravo será confiscado e reverterá a fundo especial com destinação específica, na forma da lei. *(Redação dada pela [[emenda-constitucional-federal-81-2014|Emenda Constitucional nº 81, de 2014]])*
 
 ###### Art. 244 {#art244}
-Tags:
 
 **Art. 244, caput** {#art244_cpt} A lei disporá sobre a adaptação dos logradouros, dos edifícios de uso público e dos veículos de transporte coletivo atualmente existentes a fim de garantir acesso adequado às pessoas portadoras de deficiência, conforme o disposto no art. [[#art227|227]], § 2º.
 
 ###### Art. 245 {#art245}
-Tags:
 
 **Art. 245, caput** {#art245_cpt} A lei disporá sobre as hipóteses e condições em que o Poder Público dará assistência aos herdeiros e dependentes carentes de pessoas vitimadas por crime doloso, sem prejuízo da responsabilidade civil do autor do ilícito.
 
 ###### Art. 246 {#art246}
-Tags:
 Alterações: [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 32, de 2001]] (nova redação: caput)
 
 **Art. 246, caput** {#art246_cpt} #redacao-alterada É vedada a adoção de medida provisória na regulamentação de artigo da Constituição cuja redação tenha sido alterada por meio de emenda promulgada entre 1º de janeiro de 1995 até a promulgação desta emenda, inclusive. *(Redação dada pela [[emenda-constitucional-federal-32-2001|Emenda Constitucional nº 32, de 2001]])*
 
 ###### Art. 247 {#art247}
-Tags:
 Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]] (incluído: caput, parágrafo único)
 
 **Art. 247, caput** {#art247_cpt} #incluido As leis previstas no inciso III do § 1º do art. [[#art41|41]] e no § 7º do art. [[#art169|169]] estabelecerão critérios e garantias especiais para a perda do cargo pelo servidor público estável que, em decorrência das atribuições de seu cargo efetivo, desenvolva atividades exclusivas de Estado. *(Incluído pela [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]])*
@@ -4947,19 +4674,16 @@ Alterações: [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 
 **Art. 247, parágrafo único** {#art247_par1u} #incluido Na hipótese de insuficiência de desempenho, a perda do cargo somente ocorrerá mediante processo administrativo em que lhe sejam assegurados o contraditório e a ampla defesa. *(Incluído pela [[emenda-constitucional-federal-19-1998|Emenda Constitucional nº 19, de 1998]])*
 
 ###### Art. 248 {#art248}
-Tags:
 Alterações: [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]] (incluído: caput)
 
 **Art. 248, caput** {#art248_cpt} #incluido Os benefícios pagos, a qualquer título, pelo órgão responsável pelo regime geral de previdência social, ainda que à conta do Tesouro Nacional, e os não sujeitos ao limite máximo de valor fixado para os benefícios concedidos por esse regime observarão os limites fixados no art. [[#art37|37]], XI. *(Incluído pela [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]])*
 
 ###### Art. 249 {#art249}
-Tags:
 Alterações: [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]] (incluído: caput)
 
 **Art. 249, caput** {#art249_cpt} #incluido Com o objetivo de assegurar recursos para o pagamento de proventos de aposentadoria e pensões concedidas aos respectivos servidores e seus dependentes, em adição aos recursos dos respectivos tesouros, a União, os Estados, o Distrito Federal e os Municípios poderão constituir fundos integrados pelos recursos provenientes de contribuições e por bens, direitos e ativos de qualquer natureza, mediante lei que disporá sobre a natureza e administração desses fundos. *(Incluído pela [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]])*
 
 ###### Art. 250 {#art250}
-Tags:
 Alterações: [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]] (incluído: caput)
 
 **Art. 250, caput** {#art250_cpt} #incluido Com o objetivo de assegurar recursos para o pagamento dos benefícios concedidos pelo regime geral de previdência social, em adição aos recursos de sua arrecadação, a União poderá constituir fundo integrado por bens, direitos e ativos de qualquer natureza, mediante lei que disporá sobre a natureza e administração desse fundo. *(Incluído pela [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 20, de 1998]])*
@@ -4967,12 +4691,10 @@ Alterações: [[emenda-constitucional-federal-20-1998|Emenda Constitucional nº 
 ## ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS {#adct} *(Vide [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])* *(Vigência)*
 
 ###### Art. 1º (ADCT) {#adct_art1}
-Tags:
 
 **ADCT, Art. 1º, caput** {#adct_art1_cpt} O Presidente da República, o Presidente do Supremo Tribunal Federal e os membros do Congresso Nacional prestarão o compromisso de manter, defender e cumprir a Constituição, no ato e na data de sua promulgação.
 
 ###### Art. 2º (ADCT) {#adct_art2}
-Tags:
 
 **ADCT, Art. 2º, caput** {#adct_art2_cpt} No dia 7 de setembro de 1993 o eleitorado definirá, através de plebiscito, a forma (república ou monarquia constitucional) e o sistema de governo (parlamentarismo ou presidencialismo) que devem vigorar no País. *(Vide emenda Constitucional nº 2, de 1992)*
 
@@ -4981,12 +4703,10 @@ Tags:
 **ADCT, Art. 2º, § 2º** {#adct_art2_par2} O Tribunal Superior Eleitoral, promulgada a Constituição, expedirá as normas regulamentadoras deste artigo.
 
 ###### Art. 3º (ADCT) {#adct_art3}
-Tags:
 
 **ADCT, Art. 3º, caput** {#adct_art3_cpt} A revisão constitucional será realizada após cinco anos, contados da promulgação da Constituição, pelo voto da maioria absoluta dos membros do Congresso Nacional, em sessão unicameral.
 
 ###### Art. 4º (ADCT) {#adct_art4}
-Tags:
 
 **ADCT, Art. 4º, caput** {#adct_art4_cpt} O mandato do atual Presidente da República terminará em 15 de março de 1990.
 
@@ -4999,7 +4719,6 @@ Tags:
 **ADCT, Art. 4º, § 4º** {#adct_art4_par4} Os mandatos dos atuais Prefeitos, Vice-Prefeitos e Vereadores terminarão no dia 1º de janeiro de 1989, com a posse dos eleitos.
 
 ###### Art. 5º (ADCT) {#adct_art5}
-Tags:
 
 **ADCT, Art. 5º, caput** {#adct_art5_cpt} Não se aplicam às eleições previstas para 15 de novembro de 1988 o disposto no art. [[#art16|16]] e as regras do art. [[#art77|77]] da Constituição.
 
@@ -5014,7 +4733,6 @@ Tags:
 **ADCT, Art. 5º, § 5º** {#adct_art5_par5} Para as eleições de 15 de novembro de 1988, ressalvados os que já exercem mandato eletivo, são inelegíveis para qualquer cargo, no território de jurisdição do titular, o cônjuge e os parentes por consangüinidade ou afinidade, até o segundo grau, ou por adoção, do Presidente da República, do Governador de Estado, do Governador do Distrito Federal e do Prefeito que tenham exercido mais da metade do mandato.
 
 ###### Art. 6º (ADCT) {#adct_art6}
-Tags:
 
 **ADCT, Art. 6º, caput** {#adct_art6_cpt} Nos seis meses posteriores à promulgação da Constituição, parlamentares federais, reunidos em número não inferior a trinta, poderão requerer ao Tribunal Superior Eleitoral o registro de novo partido político, juntando ao requerimento o manifesto, o estatuto e o programa devidamente assinados pelos requerentes.
 
@@ -5023,12 +4741,10 @@ Tags:
 **ADCT, Art. 6º, § 2º** {#adct_art6_par2} O novo partido perderá automaticamente seu registro provisório se, no prazo de vinte e quatro meses, contados de sua formação, não obtiver registro definitivo no Tribunal Superior Eleitoral, na forma que a lei dispuser.
 
 ###### Art. 7º (ADCT) {#adct_art7}
-Tags:
 
 **ADCT, Art. 7º, caput** {#adct_art7_cpt} O Brasil propugnará pela formação de um tribunal internacional dos direitos humanos.
 
 ###### Art. 8º (ADCT) {#adct_art8}
-Tags:
 
 **ADCT, Art. 8º, caput** {#adct_art8_cpt} É concedida anistia aos que, no período de 18 de setembro de 1946 até a data da promulgação da Constituição, foram atingidos, em decorrência de motivação exclusivamente política, por atos de exceção, institucionais ou complementares, aos que foram abrangidos pelo [[decreto-legislativo-federal-18-1961|Decreto Legislativo nº 18, de 15 de dezembro de 1961]] , e aos atingidos pelo [[decreto-lei-federal-864-1969|Decreto-Lei nº 864, de 12 de setembro de 1969]] , asseguradas as promoções, na inatividade, ao cargo, emprego, posto ou graduação a que teriam direito se estivessem em serviço ativo, obedecidos os prazos de permanência em atividade previstos nas leis e regulamentos vigentes, respeitadas as características e peculiaridades das carreiras dos servidores públicos civis e militares e observados os respectivos regimes jurídicos. *(Regulamento)*
 
@@ -5043,14 +4759,12 @@ Tags:
 **ADCT, Art. 8º, § 5º** {#adct_art8_par5} A anistia concedida nos termos deste artigo aplica-se aos servidores públicos civis e aos empregados em todos os níveis de governo ou em suas fundações, empresas públicas ou empresas mistas sob controle estatal, exceto nos Ministérios militares, que tenham sido punidos ou demitidos por atividades profissionais interrompidas em virtude de decisão de seus trabalhadores, bem como em decorrência do [[decreto-lei-federal-1632-1978|Decreto-Lei nº 1.632, de 4 de agosto de 1978]] , ou por motivos exclusivamente políticos, assegurada a readmissão dos que foram atingidos a partir de 1979, observado o disposto no § 1º.
 
 ###### Art. 9º (ADCT) {#adct_art9}
-Tags:
 
 **ADCT, Art. 9º, caput** {#adct_art9_cpt} Os que, por motivos exclusivamente políticos, foram cassados ou tiveram seus direitos políticos suspensos no período de 15 de julho a 31 de dezembro de 1969, por ato do então Presidente da República, poderão requerer ao Supremo Tribunal Federal o reconhecimento dos direitos e vantagens interrompidos pelos atos punitivos, desde que comprovem terem sido estes eivados de vício grave.
 
 **ADCT, Art. 9º, parágrafo único** {#adct_art9_par1u} O Supremo Tribunal Federal proferirá a decisão no prazo de cento e vinte dias, a contar do pedido do interessado.
 
 ###### Art. 10 (ADCT) {#adct_art10}
-Tags:
 
 **ADCT, Art. 10, caput** {#adct_art10_cpt} Até que seja promulgada a lei complementar a que se refere o art. [[#art7|7º]], I, da Constituição:
 - **ADCT, Art. 10, caput, inciso I** {#adct_art10_cpt_inc1} fica limitada a proteção nele referida ao aumento, para quatro vezes, da porcentagem prevista no art. 6º, "caput" e § 1º, da [[lei-federal-5107-1966|Lei nº 5.107, de 13 de setembro de 1966]] ;
@@ -5065,14 +4779,12 @@ Tags:
 **ADCT, Art. 10, § 3º** {#adct_art10_par3} Na primeira comprovação do cumprimento das obrigações trabalhistas pelo empregador rural, na forma do art. [[#art233|233]], após a promulgação da Constituição, será certificada perante a Justiça do Trabalho a regularidade do contrato e das atualizações das obrigações trabalhistas de todo o período.
 
 ###### Art. 11 (ADCT) {#adct_art11}
-Tags:
 
 **ADCT, Art. 11, caput** {#adct_art11_cpt} Cada Assembléia Legislativa, com poderes constituintes, elaborará a Constituição do Estado, no prazo de um ano, contado da promulgação da Constituição Federal, obedecidos os princípios desta.
 
 **ADCT, Art. 11, parágrafo único** {#adct_art11_par1u} Promulgada a Constituição do Estado, caberá à Câmara Municipal, no prazo de seis meses, votar a Lei Orgânica respectiva, em dois turnos de discussão e votação, respeitado o disposto na Constituição Federal e na Constituição Estadual.
 
 ###### Art. 12 (ADCT) {#adct_art12}
-Tags:
 
 **ADCT, Art. 12, caput** {#adct_art12_cpt} Será criada, dentro de noventa dias da promulgação da Constituição, Comissão de Estudos Territoriais, com dez membros indicados pelo Congresso Nacional e cinco pelo Poder Executivo, com a finalidade de apresentar estudos sobre o território nacional e anteprojetos relativos a novas unidades territoriais, notadamente na Amazônia Legal e em áreas pendentes de solução.
 
@@ -5087,7 +4799,6 @@ Tags:
 **ADCT, Art. 12, § 5º** {#adct_art12_par5} Ficam reconhecidos e homologados os atuais limites do Estado do Acre com os Estados do Amazonas e de Rondônia, conforme levantamentos cartográficos e geodésicos realizados pela Comissão Tripartite integrada por representantes dos Estados e dos serviços técnico-especializados do Instituto Brasileiro de Geografia e Estatística.
 
 ###### Art. 13 (ADCT) {#adct_art13}
-Tags:
 
 **ADCT, Art. 13, caput** {#adct_art13_cpt} É criado o Estado do Tocantins, pelo desmembramento da área descrita neste artigo, dando-se sua instalação no quadragésimo sexto dia após a eleição prevista no § 3º, mas não antes de 1º de janeiro de 1989.
 
@@ -5110,7 +4821,6 @@ Tags:
 **ADCT, Art. 13, § 7º** {#adct_art13_par7} Fica o Estado de Goiás liberado dos débitos e encargos decorrentes de empreendimentos no território do novo Estado, e autorizada a União, a seu critério, a assumir os referidos débitos.
 
 ###### Art. 14 (ADCT) {#adct_art14}
-Tags:
 
 **ADCT, Art. 14, caput** {#adct_art14_cpt} Os Territórios Federais de Roraima e do Amapá são transformados em Estados Federados, mantidos seus atuais limites geográficos.
 
@@ -5123,12 +4833,10 @@ Tags:
 **ADCT, Art. 14, § 4º** {#adct_art14_par4} Enquanto não concretizada a transformação em Estados, nos termos deste artigo, os Territórios Federais de Roraima e do Amapá serão beneficiados pela transferência de recursos prevista nos arts. [[#art159|159]], I, "a", da Constituição, e 34, § 2º, II, deste Ato.
 
 ###### Art. 15 (ADCT) {#adct_art15}
-Tags:
 
 **ADCT, Art. 15, caput** {#adct_art15_cpt} Fica extinto o Território Federal de Fernando de Noronha, sendo sua área reincorporada ao Estado de Pernambuco.
 
 ###### Art. 16 (ADCT) {#adct_art16}
-Tags:
 
 **ADCT, Art. 16, caput** {#adct_art16_cpt} Até que se efetive o disposto no art. [[#art32|32]], § 2º, da Constituição, caberá ao Presidente da República, com a aprovação do Senado Federal, indicar o Governador e o Vice-Governador do Distrito Federal.
 
@@ -5139,7 +4847,6 @@ Tags:
 **ADCT, Art. 16, § 3º** {#adct_art16_par3} Incluem-se entre os bens do Distrito Federal aqueles que lhe vierem a ser atribuídos pela União na forma da lei.
 
 ###### Art. 17 (ADCT) {#adct_art17}
-Tags:
 
 **ADCT, Art. 17, caput** {#adct_art17_cpt} Os vencimentos, a remuneração, as vantagens e os adicionais, bem como os proventos de aposentadoria que estejam sendo percebidos em desacordo com a Constituição serão imediatamente reduzidos aos limites dela decorrentes, não se admitindo, neste caso, invocação de direito adquirido ou percepção de excesso a qualquer título. *(Vide [[emenda-constitucional-federal-41-2003|Emenda Constitucional nº 41, 19.12.2003]])*
 
@@ -5148,17 +4855,14 @@ Tags:
 **ADCT, Art. 17, § 2º** {#adct_art17_par2} É assegurado o exercício cumulativo de dois cargos ou empregos privativos de profissionais de saúde que estejam sendo exercidos na administração pública direta ou indireta.
 
 ###### Art. 18 (ADCT) {#adct_art18}
-Tags:
 
 **ADCT, Art. 18, caput** {#adct_art18_cpt} Ficam extintos os efeitos jurídicos de qualquer ato legislativo ou administrativo, lavrado a partir da instalação da Assembléia Nacional Constituinte, que tenha por objeto a concessão de estabilidade a servidor admitido sem concurso público, da administração direta ou indireta, inclusive das fundações instituídas e mantidas pelo Poder Público.
 
 ###### Art. 18-A (ADCT) {#adct_art18-a}
-Tags:
 
 **ADCT, Art. 18-A, caput** {#adct_art18-a_cpt} #redacao-alterada Os atos administrativos praticados no Estado do Tocantins, decorrentes de sua instalação, entre 1º de janeiro de 1989 e 31 de dezembro de 1994, eivados de qualquer vício jurídico e dos quais decorram efeitos favoráveis para os destinatários ficam convalidados após 5 (cinco) anos, contados da data em que foram praticados, salvo comprovada má-fé. *(Redação dada pela Emenda constitucional nº 110, de 2021)*
 
 ###### Art. 19 (ADCT) {#adct_art19}
-Tags:
 
 **ADCT, Art. 19, caput** {#adct_art19_cpt} Os servidores públicos civis da União, dos Estados, do Distrito Federal e dos Municípios, da administração direta, autárquica e das fundações públicas, em exercício na data da promulgação da Constituição, há pelo menos cinco anos continuados, e que não tenham sido admitidos na forma regulada no art. [[#art37|37]], da Constituição, são considerados estáveis no serviço público.
 
@@ -5169,36 +4873,30 @@ Tags:
 **ADCT, Art. 19, § 3º** {#adct_art19_par3} O disposto neste artigo não se aplica aos professores de nível superior, nos termos da lei.
 
 ###### Art. 20 (ADCT) {#adct_art20}
-Tags:
 
 **ADCT, Art. 20, caput** {#adct_art20_cpt} Dentro de cento e oitenta dias, proceder-se-á à revisão dos direitos dos servidores públicos inativos e pensionistas e à atualização dos proventos e pensões a eles devidos, a fim de ajustá-los ao disposto na Constituição.
 
 ###### Art. 21 (ADCT) {#adct_art21}
-Tags:
 
 **ADCT, Art. 21, caput** {#adct_art21_cpt} Os juízes togados de investidura limitada no tempo, admitidos mediante concurso público de provas e títulos e que estejam em exercício na data da promulgação da Constituição, adquirem estabilidade, observado o estágio probatório, e passam a compor quadro em extinção, mantidas as competências, prerrogativas e restrições da legislação a que se achavam submetidos, salvo as inerentes à transitoriedade da investidura.
 
 **ADCT, Art. 21, parágrafo único** {#adct_art21_par1u} A aposentadoria dos juízes de que trata este artigo regular-se-á pelas normas fixadas para os demais juízes estaduais.
 
 ###### Art. 22 (ADCT) {#adct_art22}
-Tags:
 
 **ADCT, Art. 22, caput** {#adct_art22_cpt} É assegurado aos defensores públicos investidos na função até a data de instalação da Assembléia Nacional Constituinte o direito de opção pela carreira, com a observância das garantias e vedações previstas no art. [[#art134|134]], parágrafo único, da Constituição.
 
 ###### Art. 23 (ADCT) {#adct_art23}
-Tags:
 
 **ADCT, Art. 23, caput** {#adct_art23_cpt} Até que se edite a regulamentação do art. [[#art21|21]], XVI, da Constituição, os atuais ocupantes do cargo de censor federal continuarão exercendo funções com este compatíveis, no Departamento de Polícia Federal, observadas as disposições constitucionais.
 
 **ADCT, Art. 23, parágrafo único** {#adct_art23_par1u} A lei referida disporá sobre o aproveitamento dos Censores Federais, nos termos deste artigo.
 
 ###### Art. 24 (ADCT) {#adct_art24}
-Tags:
 
 **ADCT, Art. 24, caput** {#adct_art24_cpt} A União, os Estados, o Distrito Federal e os Municípios editarão leis que estabeleçam critérios para a compatibilização de seus quadros de pessoal ao disposto no art. [[#art39|39]] da Constituição e à reforma administrativa dela decorrente, no prazo de dezoito meses, contados da sua promulgação.
 
 ###### Art. 25 (ADCT) {#adct_art25}
-Tags:
 
 **ADCT, Art. 25, caput** {#adct_art25_cpt} Ficam revogados, a partir de cento e oitenta dias da promulgação da Constituição, sujeito este prazo a prorrogação por lei, todos os dispositivos legais que atribuam ou deleguem a órgão do Poder Executivo competência assinalada pela Constituição ao Congresso Nacional, especialmente no que tange a:
 - **ADCT, Art. 25, caput, inciso I** {#adct_art25_cpt_inc1} ação normativa;
@@ -5212,7 +4910,6 @@ Tags:
 **ADCT, Art. 25, § 2º** {#adct_art25_par2} Os decretos-lei editados entre 3 de setembro de 1988 e a promulgação da Constituição serão convertidos, nesta data, em medidas provisórias, aplicando-se-lhes as regras estabelecidas no art. [[#art62|62]], parágrafo único.
 
 ###### Art. 26 (ADCT) {#adct_art26}
-Tags:
 
 **ADCT, Art. 26, caput** {#adct_art26_cpt} No prazo de um ano a contar da promulgação da Constituição, o Congresso Nacional promoverá, através de Comissão mista, exame analítico e pericial dos atos e fatos geradores do endividamento externo brasileiro.
 
@@ -5221,7 +4918,6 @@ Tags:
 **ADCT, Art. 26, § 2º** {#adct_art26_par2} Apurada irregularidade, o Congresso Nacional proporá ao Poder Executivo a declaração de nulidade do ato e encaminhará o processo ao Ministério Público Federal, que formalizará, no prazo de sessenta dias, a ação cabível.
 
 ###### Art. 27 (ADCT) {#adct_art27}
-Tags:
 Alterações: [[emenda-constitucional-federal-73-2013|Emenda Constitucional nº 73, de 2013]] (incluído: § 11)
 
 **ADCT, Art. 27, caput** {#adct_art27_cpt} O Superior Tribunal de Justiça será instalado sob a Presidência do Supremo Tribunal Federal.
@@ -5251,14 +4947,12 @@ Alterações: [[emenda-constitucional-federal-73-2013|Emenda Constitucional nº 
 **ADCT, Art. 27, § 11** {#adct_art27_par11} #incluido São criados, ainda, os seguintes Tribunais Regionais Federais: o da 6ª Região, com sede em Curitiba, Estado do Paraná, e jurisdição nos Estados do Paraná, Santa Catarina e Mato Grosso do Sul; o da 7ª Região, com sede em Belo Horizonte, Estado de Minas Gerais, e jurisdição no Estado de Minas Gerais; o da 8ª Região, com sede em Salvador, Estado da Bahia, e jurisdição nos Estados da Bahia e Sergipe; e o da 9ª Região, com sede em Manaus, Estado do Amazonas, e jurisdição nos Estados do Amazonas, Acre, Rondônia e Roraima. *(Incluído pela [[emenda-constitucional-federal-73-2013|Emenda Constitucional nº 73, de 2013]])* *(Vide ADIN nº 5017, de 2013)*
 
 ###### Art. 28 (ADCT) {#adct_art28}
-Tags:
 
 **ADCT, Art. 28, caput** {#adct_art28_cpt} Os juízes federais de que trata o art. [[#art123|123]], § 2º, da Constituição de 1967, com a redação dada pela [[emenda-constitucional-federal-7-1977|Emenda Constitucional nº 7, de 1977]] , ficam investidos na titularidade de varas na Seção Judiciária para a qual tenham sido nomeados ou designados; na inexistência de vagas, proceder-se-á ao desdobramento das varas existentes.
 
 **ADCT, Art. 28, parágrafo único** {#adct_art28_par1u} Para efeito de promoção por antigüidade, o tempo de serviço desses juízes será computado a partir do dia de sua posse.
 
 ###### Art. 29 (ADCT) {#adct_art29}
-Tags:
 
 **ADCT, Art. 29, caput** {#adct_art29_cpt} Enquanto não aprovadas as leis complementares relativas ao Ministério Público e à Advocacia-Geral da União, o Ministério Público Federal, a Procuradoria-Geral da Fazenda Nacional, as Consultorias Jurídicas dos Ministérios, as Procuradorias e Departamentos Jurídicos de autarquias federais com representação própria e os membros das Procuradorias das Universidades fundacionais públicas continuarão a exercer suas atividades na área das respectivas atribuições.
 
@@ -5273,29 +4967,24 @@ Tags:
 **ADCT, Art. 29, § 5º** {#adct_art29_par5} Cabe à atual Procuradoria-Geral da Fazenda Nacional, diretamente ou por delegação, que pode ser ao Ministério Público Estadual, representar judicialmente a União nas causas de natureza fiscal, na área da respectiva competência, até a promulgação das leis complementares previstas neste artigo.
 
 ###### Art. 30 (ADCT) {#adct_art30}
-Tags:
 
 **ADCT, Art. 30, caput** {#adct_art30_cpt} A legislação que criar a justiça de paz manterá os atuais juízes de paz até a posse dos novos titulares, assegurando-lhes os direitos e atribuições conferidos a estes, e designará o dia para a eleição prevista no art. [[#art98|98]], II, da Constituição.
 
 ###### Art. 31 (ADCT) {#adct_art31}
-Tags:
 
 **ADCT, Art. 31, caput** {#adct_art31_cpt} Serão estatizadas as serventias do foro judicial, assim definidas em lei, respeitados os direitos dos atuais titulares.
 
 ###### Art. 32 (ADCT) {#adct_art32}
-Tags:
 
 **ADCT, Art. 32, caput** {#adct_art32_cpt} O disposto no art. [[#art236|236]] não se aplica aos serviços notariais e de registro que já tenham sido oficializados pelo Poder Público, respeitando-se o direito de seus servidores.
 
 ###### Art. 33 (ADCT) {#adct_art33}
-Tags:
 
 **ADCT, Art. 33, caput** {#adct_art33_cpt} Ressalvados os créditos de natureza alimentar, o valor dos precatórios judiciais pendentes de pagamento na data da promulgação da Constituição, incluído o remanescente de juros e correção monetária, poderá ser pago em moeda corrente, com atualização, em prestações anuais, iguais e sucessivas, no prazo máximo de oito anos, a partir de 1º de julho de 1989, por decisão editada pelo Poder Executivo até cento e oitenta dias da promulgação da Constituição. *(Vide [[emenda-constitucional-federal-3-1993|Emenda Constitucional nº 3, de 1993]])*
 
 **ADCT, Art. 33, parágrafo único** {#adct_art33_par1u} Poderão as entidades devedoras, para o cumprimento do disposto neste artigo, emitir, em cada ano, no exato montante do dispêndio, títulos de dívida pública não computáveis para efeito do limite global de endividamento.
 
 ###### Art. 34 (ADCT) {#adct_art34}
-Tags:
 
 **ADCT, Art. 34, caput** {#adct_art34_cpt} O sistema tributário nacional entrará em vigor a partir do primeiro dia do quinto mês seguinte ao da promulgação da Constituição, mantido, até então, o da Constituição de 1967, com a redação dada pela Emenda nº 1, de 1969, e pelas posteriores.
 
@@ -5330,7 +5019,6 @@ Tags:
 **ADCT, Art. 34, § 12** {#adct_art34_par12} A urgência prevista no art. [[#art148|148]], II, não prejudica a cobrança do empréstimo compulsório instituído, em benefício das Centrais Elétricas Brasileiras S.A. (Eletrobrás), pela [[lei-federal-4156-1962|Lei nº 4.156, de 28 de novembro de 1962]] , com as alterações posteriores.
 
 ###### Art. 35 (ADCT) {#adct_art35}
-Tags:
 
 **ADCT, Art. 35, caput** {#adct_art35_cpt} O disposto no art. [[#art165|165]], § 7º, será cumprido de forma progressiva, no prazo de até dez anos, distribuindo-se os recursos entre as regiões macroeconômicas em razão proporcional à população, a partir da situação verificada no biênio 1986-87.
 
@@ -5347,17 +5035,14 @@ Tags:
 - **ADCT, Art. 35, § 2º, inciso III** {#adct_art35_par2_inc3} o projeto de lei orçamentária da União será encaminhado até quatro meses antes do encerramento do exercício financeiro e devolvido para sanção até o encerramento da sessão legislativa.
 
 ###### Art. 36 (ADCT) {#adct_art36}
-Tags:
 
 **ADCT, Art. 36, caput** {#adct_art36_cpt} Os fundos existentes na data da promulgação da Constituição, excetuados os resultantes de isenções fiscais que passem a integrar patrimônio privado e os que interessem à defesa nacional, extinguir-se-ão, se não forem ratificados pelo Congresso Nacional no prazo de dois anos. *(Vide [[decreto-legislativo-federal-66-1990|Decreto Legislativo nº 66, de 1990]])*
 
 ###### Art. 37 (ADCT) {#adct_art37}
-Tags:
 
 **ADCT, Art. 37, caput** {#adct_art37_cpt} A adaptação ao que estabelece o art. [[#art167|167]], III, deverá processar-se no prazo de cinco anos, reduzindo-se o excesso à base de, pelo menos, um quinto por ano.
 
 ###### Art. 38 (ADCT) {#adct_art38}
-Tags:
 Alterações: [[emenda-constitucional-federal-127-2022|Emenda Constitucional nº 127, de 2022]] (incluído: § 1º, § 2º, § 2º, inciso I, § 2º, inciso II, § 2º, inciso III)
 
 **ADCT, Art. 38, caput** {#adct_art38_cpt} Até a promulgação da lei complementar referida no art. [[#art169|169]], a União, os Estados, o Distrito Federal e os Municípios não poderão despender com pessoal mais do que sessenta e cinco por cento do valor das respectivas receitas correntes.
@@ -5370,21 +5055,18 @@ Alterações: [[emenda-constitucional-federal-127-2022|Emenda Constitucional nº
 - **ADCT, Art. 38, § 2º, inciso III** {#adct_art38_par2_inc3} #incluido entre o terceiro e o décimo segundo exercício financeiro subsequente ao da publicação deste dispositivo, a dedução de que trata o inciso II deste parágrafo será reduzida anualmente na proporção de 10% (dez por cento) de seu valor. *(Incluído pela [[emenda-constitucional-federal-127-2022|Emenda Constitucional nº 127, de 2022]])*
 
 ###### Art. 39 (ADCT) {#adct_art39}
-Tags:
 
 **ADCT, Art. 39, caput** {#adct_art39_cpt} Para efeito do cumprimento das disposições constitucionais que impliquem variações de despesas e receitas da União, após a promulgação da Constituição, o Poder Executivo deverá elaborar e o Poder Legislativo apreciar projeto de revisão da lei orçamentária referente ao exercício financeiro de 1989.
 
 **ADCT, Art. 39, parágrafo único** {#adct_art39_par1u} O Congresso Nacional deverá votar no prazo de doze meses a lei complementar prevista no art. [[#art161|161]], II.
 
 ###### Art. 40 (ADCT) {#adct_art40}
-Tags:
 
 **ADCT, Art. 40, caput** {#adct_art40_cpt} É mantida a Zona Franca de Manaus, com suas características de área livre de comércio, de exportação e importação, e de incentivos fiscais, pelo prazo de vinte e cinco anos, a partir da promulgação da Constituição. *(Vide [[decreto-federal-7212-2010|Decreto nº 7.212, de 2010]])*
 
 **ADCT, Art. 40, parágrafo único** {#adct_art40_par1u} Somente por lei federal podem ser modificados os critérios que disciplinaram ou venham a disciplinar a aprovação dos projetos na Zona Franca de Manaus.
 
 ###### Art. 41 (ADCT) {#adct_art41}
-Tags:
 
 **ADCT, Art. 41, caput** {#adct_art41_cpt} Os Poderes Executivos da União, dos Estados, do Distrito Federal e dos Municípios reavaliarão todos os incentivos fiscais de natureza setorial ora em vigor, propondo aos Poderes Legislativos respectivos as medidas cabíveis.
 
@@ -5395,7 +5077,6 @@ Tags:
 **ADCT, Art. 41, § 3º** {#adct_art41_par3} Os incentivos concedidos por convênio entre Estados, celebrados nos termos do art. [[#art23|23]], § 6º, da Constituição de 1967 , com a redação da [[emenda-constitucional-federal-1-1969|Emenda Constitucional nº 1, de 17 de outubro de 1969]], também deverão ser reavaliados e reconfirmados nos prazos deste artigo.
 
 ###### Art. 42 (ADCT) {#adct_art42}
-Tags:
 Alterações: [[emenda-constitucional-federal-89-2015|Emenda Constitucional nº 89, de 2015]] (nova redação: caput, inciso I, inciso II; incluído: parágrafo único)
 
 **ADCT, Art. 42, caput** {#adct_art42_cpt} #redacao-alterada Durante 40 (quarenta) anos, a União aplicará dos recursos destinados à irrigação: *(Redação dada pela [[emenda-constitucional-federal-89-2015|Emenda Constitucional nº 89, de 2015]])*
@@ -5405,12 +5086,10 @@ Alterações: [[emenda-constitucional-federal-89-2015|Emenda Constitucional nº 
 **ADCT, Art. 42, parágrafo único** {#adct_art42_par1u} #incluido Dos percentuais previstos nos incisos I e II do caput, no mínimo 50% (cinquenta por cento) serão destinados a projetos de irrigação que beneficiem agricultores familiares que atendam aos requisitos previstos em legislação específica. *(Incluído pela [[emenda-constitucional-federal-89-2015|Emenda Constitucional nº 89, de 2015]])*
 
 ###### Art. 43 (ADCT) {#adct_art43}
-Tags:
 
 **ADCT, Art. 43, caput** {#adct_art43_cpt} Na data da promulgação da lei que disciplinar a pesquisa e a lavra de recursos e jazidas minerais, ou no prazo de um ano, a contar da promulgação da Constituição, tornar-se-ão sem efeito as autorizações, concessões e demais títulos atributivos de direitos minerários, caso os trabalhos de pesquisa ou de lavra não hajam sido comprovadamente iniciados nos prazos legais ou estejam inativos. *(Regulamento)*
 
 ###### Art. 44 (ADCT) {#adct_art44}
-Tags:
 
 **ADCT, Art. 44, caput** {#adct_art44_cpt} As atuais empresas brasileiras titulares de autorização de pesquisa, concessão de lavra de recursos minerais e de aproveitamento dos potenciais de energia hidráulica em vigor terão quatro anos, a partir da promulgação da Constituição, para cumprir os requisitos do art. [[#art176|176]], § 1º.
 
@@ -5421,14 +5100,12 @@ Tags:
 **ADCT, Art. 44, § 3º** {#adct_art44_par3} As empresas brasileiras referidas no § 1º somente poderão ter autorizações de pesquisa e concessões de lavra ou potenciais de energia hidráulica, desde que a energia e o produto da lavra sejam utilizados nos respectivos processos industriais.
 
 ###### Art. 45 (ADCT) {#adct_art45}
-Tags:
 
 **ADCT, Art. 45, caput** {#adct_art45_cpt} Ficam excluídas do monopólio estabelecido pelo art. [[#art177|177]], II, da Constituição as refinarias em funcionamento no País amparadas pelo art. 43 e nas condições do art. 45 da [[lei-federal-2004-1953|Lei nº 2.004, de 3 de outubro de 1953]] .
 
 **ADCT, Art. 45, parágrafo único** {#adct_art45_par1u} Ficam ressalvados da vedação do art. [[#art177|177]], § 1º, os contratos de risco feitos com a Petróleo Brasileiro S.A. (Petrobrás), para pesquisa de petróleo, que estejam em vigor na data da promulgação da Constituição.
 
 ###### Art. 46 (ADCT) {#adct_art46}
-Tags:
 
 **ADCT, Art. 46, caput** {#adct_art46_cpt} São sujeitos à correção monetária desde o vencimento, até seu efetivo pagamento, sem interrupção ou suspensão, os créditos junto a entidades submetidas aos regimes de intervenção ou liquidação extrajudicial, mesmo quando esses regimes sejam convertidos em falência.
 
@@ -5439,7 +5116,6 @@ Tags:
 - **ADCT, Art. 46, parágrafo único, inciso IV** {#adct_art46_par1u_inc4} aos créditos das entidades da administração pública anteriores à promulgação da Constituição, não liquidados até 1 de janeiro de 1988.
 
 ###### Art. 47 (ADCT) {#adct_art47}
-Tags:
 
 **ADCT, Art. 47, caput** {#adct_art47_cpt} Na liquidação dos débitos, inclusive suas renegociações e composições posteriores, ainda que ajuizados, decorrentes de quaisquer empréstimos concedidos por bancos e por instituições financeiras, não existirá correção monetária desde que o empréstimo tenha sido concedido:
 - **ADCT, Art. 47, caput, inciso I** {#adct_art47_cpt_inc1} aos micro e pequenos empresários ou seus estabelecimentos no período de 28 de fevereiro de 1986 a 28 de fevereiro de 1987;
@@ -5465,12 +5141,10 @@ Tags:
 **ADCT, Art. 47, § 7º** {#adct_art47_par7} No caso de repasse a agentes financeiros oficiais ou cooperativas de crédito, o ônus recairá sobre a fonte de recursos originária.
 
 ###### Art. 48 (ADCT) {#adct_art48}
-Tags:
 
 **ADCT, Art. 48, caput** {#adct_art48_cpt} O Congresso Nacional, dentro de cento e vinte dias da promulgação da Constituição, elaborará código de defesa do consumidor.
 
 ###### Art. 49 (ADCT) {#adct_art49}
-Tags:
 
 **ADCT, Art. 49, caput** {#adct_art49_cpt} A lei disporá sobre o instituto da enfiteuse em imóveis urbanos, sendo facultada aos foreiros, no caso de sua extinção, a remição dos aforamentos mediante aquisição do domínio direto, na conformidade do que dispuserem os respectivos contratos.
 
@@ -5483,12 +5157,10 @@ Tags:
 **ADCT, Art. 49, § 4º** {#adct_art49_par4} Remido o foro, o antigo titular do domínio direto deverá, no prazo de noventa dias, sob pena de responsabilidade, confiar à guarda do registro de imóveis competente toda a documentação a ele relativa.
 
 ###### Art. 50 (ADCT) {#adct_art50}
-Tags:
 
 **ADCT, Art. 50, caput** {#adct_art50_cpt} Lei agrícola a ser promulgada no prazo de um ano disporá, nos termos da Constituição, sobre os objetivos e instrumentos de política agrícola, prioridades, planejamento de safras, comercialização, abastecimento interno, mercado externo e instituição de crédito fundiário.
 
 ###### Art. 51 (ADCT) {#adct_art51}
-Tags:
 
 **ADCT, Art. 51, caput** {#adct_art51_cpt} Serão revistos pelo Congresso Nacional, através de Comissão mista, nos três anos a contar da data da promulgação da Constituição, todas as doações, vendas e concessões de terras públicas com área superior a três mil hectares, realizadas no período de 1º de janeiro de 1962 a 31 de dezembro de 1987.
 
@@ -5499,7 +5171,6 @@ Tags:
 **ADCT, Art. 51, § 3º** {#adct_art51_par3} Nas hipóteses previstas nos parágrafos anteriores, comprovada a ilegalidade, ou havendo interesse público, as terras reverterão ao patrimônio da União, dos Estados, do Distrito Federal ou dos Municípios.
 
 ###### Art. 52 (ADCT) {#adct_art52}
-Tags:
 Alterações: [[emenda-constitucional-federal-40-2003|Emenda Constitucional nº 40, de 2003]] (nova redação: caput)
 
 **ADCT, Art. 52, caput** {#adct_art52_cpt} #redacao-alterada Até que sejam fixadas as condições do art. [[#art192|192]], são vedados: *(Redação dada pela [[emenda-constitucional-federal-40-2003|Emenda Constitucional nº 40, de 2003]])*
@@ -5509,7 +5180,6 @@ Alterações: [[emenda-constitucional-federal-40-2003|Emenda Constitucional nº 
 **ADCT, Art. 52, parágrafo único** {#adct_art52_par1u} A vedação a que se refere este artigo não se aplica às autorizações resultantes de acordos internacionais, de reciprocidade, ou de interesse do Governo brasileiro.
 
 ###### Art. 53 (ADCT) {#adct_art53}
-Tags:
 
 **ADCT, Art. 53, caput** {#adct_art53_cpt} Ao ex-combatente que tenha efetivamente participado de operações bélicas durante a Segunda Guerra Mundial, nos termos da [[lei-federal-5315-1967|Lei nº 5.315, de 12 de setembro de 1967]] , serão assegurados os seguintes direitos:
 - **ADCT, Art. 53, caput, inciso I** {#adct_art53_cpt_inc1} aproveitamento no serviço público, sem a exigência de concurso, com estabilidade;
@@ -5522,7 +5192,6 @@ Tags:
 **ADCT, Art. 53, parágrafo único** {#adct_art53_par1u} A concessão da pensão especial do inciso II substitui, para todos os efeitos legais, qualquer outra pensão já concedida ao ex-combatente.
 
 ###### Art. 54 (ADCT) {#adct_art54}
-Tags:
 
 **ADCT, Art. 54, caput** {#adct_art54_cpt} Os seringueiros recrutados nos termos do [[decreto-lei-federal-5813-1943|Decreto-Lei nº 5.813, de 14 de setembro de 1943]] , e amparados pelo [[decreto-lei-federal-9882-1946|Decreto-Lei nº 9.882, de 16 de setembro de 1946]] , receberão, quando carentes, pensão mensal vitalícia no valor de dois salários mínimos.
 
@@ -5533,23 +5202,19 @@ Tags:
 **ADCT, Art. 54, § 3º** {#adct_art54_par3} A concessão do benefício far-se-á conforme lei a ser proposta pelo Poder Executivo dentro de cento e cinqüenta dias da promulgação da Constituição.
 
 ###### Art. 54-A (ADCT) {#adct_art54-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-78-2014|Emenda Constitucional nº 78, de 2014]] (incluído: caput)
 
 **ADCT, Art. 54-A, caput** {#adct_art54-a_cpt} #incluido Os seringueiros de que trata o art. [[#adct_art54|54]] deste Ato das Disposições Constitucionais Transitórias receberão indenização, em parcela única, no valor de R$ 25.000,00 (vinte e cinco mil reais). *(Incluído pela [[emenda-constitucional-federal-78-2014|Emenda Constitucional nº 78, de 2014]])* *(Vide [[emenda-constitucional-federal-78-2014|Emenda Constitucional nº 78, de 2014]])*
 
 ###### Art. 55 (ADCT) {#adct_art55}
-Tags:
 
 **ADCT, Art. 55, caput** {#adct_art55_cpt} Até que seja aprovada a lei de diretrizes orçamentárias, trinta por cento, no mínimo, do orçamento da seguridade social, excluído o seguro-desemprego, serão destinados ao setor de saúde.
 
 ###### Art. 56 (ADCT) {#adct_art56}
-Tags:
 
 **ADCT, Art. 56, caput** {#adct_art56_cpt} Até que a lei disponha sobre o art. [[#art195|195]], I, a arrecadação decorrente de, no mínimo, cinco dos seis décimos percentuais correspondentes à alíquota da contribuição de que trata o [[decreto-lei-federal-1940-1982|Decreto-Lei nº 1.940, de 25 de maio de 1982]] , alterada pelo [[decreto-lei-federal-2049-1983|Decreto-Lei nº 2.049, de 1º de agosto de 1983]] , pelo [[decreto-federal-91236-1985|Decreto nº 91.236, de 8 de maio de 1985]] , e pela [[lei-federal-7611-1987|Lei nº 7.611, de 8 de julho de 1987]] , passa a integrar a receita da seguridade social, ressalvados, exclusivamente no exercício de 1988, os compromissos assumidos com programas e projetos em andamento.
 
 ###### Art. 57 (ADCT) {#adct_art57}
-Tags:
 
 **ADCT, Art. 57, caput** {#adct_art57_cpt} Os débitos dos Estados e dos Municípios relativos às contribuições previdenciárias até 30 de junho de 1988 serão liquidados, com correção monetária, em cento e vinte parcelas mensais, dispensados os juros e multas sobre eles incidentes, desde que os devedores requeiram o parcelamento e iniciem seu pagamento no prazo de cento e oitenta dias a contar da promulgação da Constituição.
 
@@ -5562,21 +5227,18 @@ Tags:
 **ADCT, Art. 57, § 4º** {#adct_art57_par4} Descumprida qualquer das condições estabelecidas para concessão do parcelamento, o débito será considerado vencido em sua totalidade, sobre ele incidindo juros de mora; nesta hipótese, parcela dos recursos correspondentes aos Fundos de Participação, destinada aos Estados e Municípios devedores, será bloqueada e repassada à previdência social para pagamento de seus débitos.
 
 ###### Art. 58 (ADCT) {#adct_art58}
-Tags:
 
 **ADCT, Art. 58, caput** {#adct_art58_cpt} Os benefícios de prestação continuada, mantidos pela previdência social na data da promulgação da Constituição, terão seus valores revistos, a fim de que seja restabelecido o poder aquisitivo, expresso em número de salários mínimos, que tinham na data de sua concessão, obedecendo-se a esse critério de atualização até a implantação do plano de custeio e benefícios referidos no artigo seguinte.
 
 **ADCT, Art. 58, parágrafo único** {#adct_art58_par1u} As prestações mensais dos benefícios atualizadas de acordo com este artigo serão devidas e pagas a partir do sétimo mês a contar da promulgação da Constituição.
 
 ###### Art. 59 (ADCT) {#adct_art59}
-Tags:
 
 **ADCT, Art. 59, caput** {#adct_art59_cpt} Os projetos de lei relativos à organização da seguridade social e aos planos de custeio e de benefício serão apresentados no prazo máximo de seis meses da promulgação da Constituição ao Congresso Nacional, que terá seis meses para apreciá-los.
 
 **ADCT, Art. 59, parágrafo único** {#adct_art59_par1u} Aprovados pelo Congresso Nacional, os planos serão implantados progressivamente nos dezoito meses seguintes.
 
 ###### Art. 60 (ADCT) {#adct_art60}
-Tags:
 Alterações: [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]] (nova redação: caput, inciso I, inciso II, inciso III, inciso IV, inciso V, inciso VI, § 1º, § 1º, inciso I, § 1º, inciso II, § 1º, inciso III, § 1º, inciso IV, § 1º, inciso V, § 1º, inciso VI, § 2º, § 2º, inciso I, § 2º, inciso II, § 2º, inciso III, § 2º, inciso IV)
 
 **ADCT, Art. 60, caput** {#adct_art60_cpt} #redacao-alterada A complementação da União referida no inciso IV do caput do art. [[#art212-a|212-A]] da Constituição Federal será implementada progressivamente até alcançar a proporção estabelecida no inciso V do caput do mesmo artigo, a partir de 1º de janeiro de 2021, nos seguintes valores mínimos: *(Redação dada pela [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]])*
@@ -5602,65 +5264,53 @@ Alterações: [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº
 - **ADCT, Art. 60, § 2º, inciso IV** {#adct_art60_par2_inc4} #redacao-alterada 2,5 (dois inteiros e cinco décimos) pontos percentuais, no sexto ano. *(Redação dada pela [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]])*
 
 ###### Art. 60-A (ADCT) {#adct_art60-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]] (incluído: caput)
 
 **ADCT, Art. 60-A, caput** {#adct_art60-a_cpt} #incluido Os critérios de distribuição da complementação da União e dos fundos a que se refere o inciso I do caput do art. [[#art212-a|212-A]] da Constituição Federal serão revistos em seu sexto ano de vigência e, a partir dessa primeira revisão, periodicamente, a cada 10 (dez) anos. *(Incluído pela [[emenda-constitucional-federal-108-2020|Emenda Constitucional nº 108, de 2020]])*
 
 ###### Art. 61 (ADCT) {#adct_art61}
-Tags:
 
 **ADCT, Art. 61, caput** {#adct_art61_cpt} As entidades educacionais a que se refere o art. [[#art213|213]], bem como as fundações de ensino e pesquisa cuja criação tenha sido autorizada por lei, que preencham os requisitos dos incisos I e II do referido artigo e que, nos últimos três anos, tenham recebido recursos públicos, poderão continuar a recebê-los, salvo disposição legal em contrário.
 
 ###### Art. 62 (ADCT) {#adct_art62}
-Tags:
 
 **ADCT, Art. 62, caput** {#adct_art62_cpt} A lei criará o Serviço Nacional de Aprendizagem Rural (SENAR) nos moldes da legislação relativa ao Serviço Nacional de Aprendizagem Industrial (SENAI) e ao Serviço Nacional de Aprendizagem do Comércio (SENAC), sem prejuízo das atribuições dos órgãos públicos que atuam na área.
 
 ###### Art. 63 (ADCT) {#adct_art63}
-Tags:
 
 **ADCT, Art. 63, caput** {#adct_art63_cpt} É criada uma Comissão composta de nove membros, sendo três do Poder Legislativo, três do Poder Judiciário e três do Poder Executivo, para promover as comemorações do centenário da proclamação da República e da promulgação da primeira Constituição republicana do País, podendo, a seu critério, desdobrar-se em tantas subcomissões quantas forem necessárias.
 
 **ADCT, Art. 63, parágrafo único** {#adct_art63_par1u} No desenvolvimento de suas atribuições, a Comissão promoverá estudos, debates e avaliações sobre a evolução política, social, econômica e cultural do País, podendo articular-se com os governos estaduais e municipais e com instituições públicas e privadas que desejem participar dos eventos.
 
 ###### Art. 64 (ADCT) {#adct_art64}
-Tags:
 
 **ADCT, Art. 64, caput** {#adct_art64_cpt} A Imprensa Nacional e demais gráficas da União, dos Estados, do Distrito Federal e dos Municípios, da administração direta ou indireta, inclusive fundações instituídas e mantidas pelo Poder Público, promoverão edição popular do texto integral da Constituição, que será posta à disposição das escolas e dos cartórios, dos sindicatos, dos quartéis, das igrejas e de outras instituições representativas da comunidade, gratuitamente, de modo que cada cidadão brasileiro possa receber do Estado um exemplar da Constituição do Brasil.
 
 ###### Art. 65 (ADCT) {#adct_art65}
-Tags:
 
 **ADCT, Art. 65, caput** {#adct_art65_cpt} O Poder Legislativo regulamentará, no prazo de doze meses, o art. [[#art220|220]], § 4º.
 
 ###### Art. 66 (ADCT) {#adct_art66}
-Tags:
 
 **ADCT, Art. 66, caput** {#adct_art66_cpt} São mantidas as concessões de serviços públicos de telecomunicações atualmente em vigor, nos termos da lei.
 
 ###### Art. 67 (ADCT) {#adct_art67}
-Tags:
 
 **ADCT, Art. 67, caput** {#adct_art67_cpt} A União concluirá a demarcação das terras indígenas no prazo de cinco anos a partir da promulgação da Constituição. *(Vide ADC 87)* *(Vide ADI 7582)* *(Vide ADI 7583)* *(Vide ADI 7586)*
 
 ###### Art. 68 (ADCT) {#adct_art68}
-Tags:
 
 **ADCT, Art. 68, caput** {#adct_art68_cpt} Aos remanescentes das comunidades dos quilombos que estejam ocupando suas terras é reconhecida a propriedade definitiva, devendo o Estado emitir-lhes os títulos respectivos.
 
 ###### Art. 69 (ADCT) {#adct_art69}
-Tags:
 
 **ADCT, Art. 69, caput** {#adct_art69_cpt} Será permitido aos Estados manter consultorias jurídicas separadas de suas Procuradorias-Gerais ou Advocacias-Gerais, desde que, na data da promulgação da Constituição, tenham órgãos distintos para as respectivas funções.
 
 ###### Art. 70 (ADCT) {#adct_art70}
-Tags:
 
 **ADCT, Art. 70, caput** {#adct_art70_cpt} Fica mantida atual competência dos tribunais estaduais até que a mesma seja definida na Constituição do Estado, nos termos do art. [[#art125|125]], § 1º, da Constituição.
 
 ###### Art. 71 (ADCT) {#adct_art71}
-Tags:
 Alterações: [[emenda-constitucional-federal-17-1997|Emenda Constitucional nº 17, de 1997]] (nova redação: caput); [[emenda-constitucional-federal-10-1996|Emenda Constitucional nº 10, de 1996]] (incluído: § 2º, § 3º)
 
 **ADCT, Art. 71, caput** {#adct_art71_cpt} #redacao-alterada É instituído, nos exercícios financeiros de 1994 e 1995, bem assim nos períodos de 01/01/1996 a 30/06/97 e 01/07/97 a 31/12/1999, o Fundo Social de Emergência, com o objetivo de saneamento financeiro da Fazenda Pública Federal e de estabilização econômica, cujos recursos serão aplicados prioritariamente no custeio das ações dos sistemas de saúde e educação, incluindo a complementação de recursos de que trata o § 3º do art. [[#adct_art60|60]] do Ato das Disposições Constitucionais Transitórias, benefícios previdenciários e auxílios assistenciais de prestação continuada, inclusive liquidação de passivo previdenciário, e despesas orçamentárias associadas a programas de relevante interesse econômico e social. *(Redação dada pela [[emenda-constitucional-federal-17-1997|Emenda Constitucional nº 17, de 1997]])* *(Vide [[emenda-constitucional-federal-17-1997|Emenda Constitucional nº 17, de 1997]])*
@@ -5672,7 +5322,6 @@ Alterações: [[emenda-constitucional-federal-17-1997|Emenda Constitucional nº 
 **ADCT, Art. 71, § 3º** {#adct_art71_par3} #incluido O Poder Executivo publicará demonstrativo da execução orçamentária, de periodicidade bimestral, no qual se discriminarão as fontes e usos do Fundo criado por este artigo. *(Incluído pela [[emenda-constitucional-federal-10-1996|Emenda Constitucional nº 10, de 1996]])*
 
 ###### Art. 72 (ADCT) {#adct_art72}
-Tags:
 Alterações: [[emenda-constitucional-revisao-federal-1-1994|Emenda Constitucional de Revisão nº 1, de 1994]] (incluído: caput, inciso I, inciso VI, § 1º); [[emenda-constitucional-federal-10-1996|Emenda Constitucional nº 10, de 1996]] (nova redação: inciso II, inciso III, inciso IV, § 2º, § 3º, § 4º, § 5º); [[emenda-constitucional-federal-17-1997|Emenda Constitucional nº 17, de 1997]] (nova redação: inciso V)
 
 **ADCT, Art. 72, caput** {#adct_art72_cpt} #incluido Integram o Fundo Social de Emergência: *(Incluído pela [[emenda-constitucional-revisao-federal-1-1994|Emenda Constitucional de Revisão nº 1, de 1994]])*
@@ -5694,13 +5343,11 @@ Alterações: [[emenda-constitucional-revisao-federal-1-1994|Emenda Constitucion
 **ADCT, Art. 72, § 5º** {#adct_art72_par5} #redacao-alterada A parcela dos recursos provenientes do imposto sobre renda e proventos de qualquer natureza, destinada ao Fundo Social de Emergência, nos termos do inciso II deste artigo, não poderá exceder a cinco inteiros e seis décimos por cento do total do produto da sua arrecadação. *(Redação dada pela [[emenda-constitucional-federal-10-1996|Emenda Constitucional nº 10, de 1996]])*
 
 ###### Art. 73 (ADCT) {#adct_art73}
-Tags:
 Alterações: [[emenda-constitucional-revisao-federal-1-1994|Emenda Constitucional de Revisão nº 1, de 1994]] (incluído: caput)
 
 **ADCT, Art. 73, caput** {#adct_art73_cpt} #incluido Na regulação do Fundo Social de Emergência não poderá ser utilizado o instrumento previsto no inciso V do art. [[#art59|59]] da Constituição. *(Incluído pela [[emenda-constitucional-revisao-federal-1-1994|Emenda Constitucional de Revisão nº 1, de 1994]])*
 
 ###### Art. 74 (ADCT) {#adct_art74}
-Tags:
 Alterações: [[emenda-constitucional-federal-12-1996|Emenda Constitucional nº 12, de 1996]] (incluído: caput, § 1º, § 2º, § 3º, § 4º)
 
 **ADCT, Art. 74, caput** {#adct_art74_cpt} #incluido A União poderá instituir contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira. *(Incluído pela [[emenda-constitucional-federal-12-1996|Emenda Constitucional nº 12, de 1996]])*
@@ -5714,7 +5361,6 @@ Alterações: [[emenda-constitucional-federal-12-1996|Emenda Constitucional nº 
 **ADCT, Art. 74, § 4º** {#adct_art74_par4} #incluido A contribuição de que trata este artigo terá sua exigibilidade subordinada ao disposto no art. [[#art195|195]], § 6º, da Constituição, e não poderá ser cobrada por prazo superior a dois anos. *(Incluído pela [[emenda-constitucional-federal-12-1996|Emenda Constitucional nº 12, de 1996]])*
 
 ###### Art. 75 (ADCT) {#adct_art75}
-Tags:
 Alterações: [[emenda-constitucional-federal-21-1999|Emenda Constitucional nº 21, de 1999]] (incluído: caput, § 1º, § 2º, § 3º)
 
 **ADCT, Art. 75, caput** {#adct_art75_cpt} #incluido É prorrogada, por trinta e seis meses, a cobrança da contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira de que trata o art. [[#art74|74]], instituída pela [[lei-federal-9311-1996|Lei nº 9.311, de 24 de outubro de 1996]] , modificada pela [[lei-federal-9539-1997|Lei nº 9.539, de 12 de dezembro de 1997]] , cuja vigência é também prorrogada por idêntico prazo. *(Incluído pela [[emenda-constitucional-federal-21-1999|Emenda Constitucional nº 21, de 1999]])*
@@ -5726,7 +5372,6 @@ Alterações: [[emenda-constitucional-federal-21-1999|Emenda Constitucional nº 
 **ADCT, Art. 75, § 3º** {#adct_art75_par3} #incluido É a União autorizada a emitir títulos da dívida pública interna, cujos recursos serão destinados ao custeio da saúde e da previdência social, em montante equivalente ao produto da arrecadação da contribuição, prevista e não realizada em 1999. *(Incluído pela [[emenda-constitucional-federal-21-1999|Emenda Constitucional nº 21, de 1999]])* *(Vide ADIN nº 2.031-5)*
 
 ###### Art. 76 (ADCT) {#adct_art76}
-Tags:
 Alterações: [[emenda-constitucional-federal-135-2024|Emenda Constitucional nº 135, de 2024]] (nova redação: caput; incluído: § 5º, § 6º); [[emenda-constitucional-federal-68-2011|Emenda Constitucional nº 68, de 2011]] (nova redação: § 2º); [[emenda-constitucional-federal-103-2019|Emenda Constitucional nº 103, de 2019]] (incluído: § 4º)
 
 **ADCT, Art. 76, caput** {#adct_art76_cpt} #redacao-alterada São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2032, 30% (trinta por cento) da arrecadação da União relativa às contribuições sociais, sem prejuízo do pagamento das despesas do Regime Geral de Previdência Social, às contribuições de intervenção no domínio econômico, às taxas e às receitas patrimoniais, já instituídas ou que vierem a ser criadas até a referida data. *(Redação dada pela [[emenda-constitucional-federal-135-2024|Emenda Constitucional nº 135, de 2024]])*
@@ -5744,7 +5389,6 @@ Alterações: [[emenda-constitucional-federal-135-2024|Emenda Constitucional nº
 **ADCT, Art. 76, § 6º** {#adct_art76_par6} #incluido A desvinculação de que trata o caput deste artigo não se aplica às receitas destinadas ao fundo criado pelo art. 47 da [[lei-federal-12351-2010|Lei nº 12.351, de 22 de dezembro de 2010]], e aos recursos a que se refere o art. 2º da [[lei-federal-12858-2013|Lei nº 12.858, de 9 de setembro de 2013]]. *(Incluído pela [[emenda-constitucional-federal-135-2024|Emenda Constitucional nº 135, de 2024]])*
 
 ###### Art. 76-A (ADCT) {#adct_art76-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (nova redação: caput)
 
 **ADCT, Art. 76-A, caput** {#adct_art76-a_cpt} #redacao-alterada São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2032, 30% (trinta por cento) das receitas dos Estados e do Distrito Federal relativas a impostos, taxas e multas já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes. *(Redação dada pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -5757,7 +5401,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 - **ADCT, Art. 76-A, parágrafo único, inciso V** {#adct_art76-a_par1u_inc5} #incluido fundos instituídos pelo Poder Judiciário, pelos Tribunais de Contas, pelo Ministério Público, pelas Defensorias Públicas e pelas Procuradorias-Gerais dos Estados e do Distrito Federal. *(Incluído dada pela Emenda constitucional nº 93, de 2016)* *(Produção de efeitos)*
 
 ###### Art. 76-B (ADCT) {#adct_art76-b}
-Tags:
 Alterações: [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]] (nova redação: caput, § 1º, inciso I; incluído: inciso I, inciso II, § 1º, § 2º)
 
 **ADCT, Art. 76-B, caput** {#adct_art76-b_cpt} #redacao-alterada São desvinculadas de órgão, fundo ou despesa, até 31 de dezembro de 2032, as receitas dos Municípios relativas a impostos, contribuições, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes, de acordo com os seguintes percentuais: *(Redação dada pela [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]])*
@@ -5773,7 +5416,6 @@ Alterações: [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº
 **ADCT, Art. 76-B, § 2º** {#adct_art76-b_par2} #incluido A cada exercício financeiro, até a data de que trata o caput deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os superávits financeiros, verificados no exercício financeiro imediatamente anterior, dos fundos públicos instituídos pelo Poder Executivo municipal. *(Incluído pela [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]])*
 
 ###### Art. 77 (ADCT) {#adct_art77}
-Tags:
 Alterações: [[emenda-constitucional-federal-29-2000|Emenda Constitucional nº 29, de 2000]] (incluído: caput, inciso I, inciso I, alínea "a", inciso I, alínea "b", inciso II, inciso III, § 1º, § 2º, § 3º, § 4º)
 
 **ADCT, Art. 77, caput** {#adct_art77_cpt} #incluido Até o exercício financeiro de 2004, os recursos mínimos aplicados nas ações e serviços públicos de saúde serão equivalentes: *(Incluído pela [[emenda-constitucional-federal-29-2000|Emenda Constitucional nº 29, de 2000]])*
@@ -5792,7 +5434,6 @@ Alterações: [[emenda-constitucional-federal-29-2000|Emenda Constitucional nº 
 **ADCT, Art. 77, § 4º** {#adct_art77_par4} #incluido Na ausência da lei complementar a que se refere o art. [[#art198|198]], § 3º, a partir do exercício financeiro de 2005, aplicar-se-á à União, aos Estados, ao Distrito Federal e aos Municípios o disposto neste artigo. *(Incluído pela [[emenda-constitucional-federal-29-2000|Emenda Constitucional nº 29, de 2000]])*
 
 ###### Art. 78 (ADCT) {#adct_art78}
-Tags:
 Alterações: [[emenda-constitucional-federal-30-2000|Emenda Constitucional nº 30, de 2000]] (incluído: caput, § 1º, § 2º, § 3º, § 4º)
 
 **ADCT, Art. 78, caput** {#adct_art78_cpt} #incluido Ressalvados os créditos definidos em lei como de pequeno valor, os de natureza alimentícia, os de que trata o art. [[#adct_art33|33]] deste Ato das Disposições Constitucionais Transitórias e suas complementações e os que já tiverem os seus respectivos recursos liberados ou depositados em juízo, os precatórios pendentes na data de promulgação desta Emenda e os que decorram de ações iniciais ajuizadas até 31 de dezembro de 1999 serão liquidados pelo seu valor real, em moeda corrente, acrescido de juros legais, em prestações anuais, iguais e sucessivas, no prazo máximo de dez anos, permitida a cessão dos créditos. *(Incluído pela [[emenda-constitucional-federal-30-2000|Emenda Constitucional nº 30, de 2000]])*
@@ -5806,7 +5447,6 @@ Alterações: [[emenda-constitucional-federal-30-2000|Emenda Constitucional nº 
 **ADCT, Art. 78, § 4º** {#adct_art78_par4} #incluido O Presidente do Tribunal competente deverá, vencido o prazo ou em caso de omissão no orçamento, ou preterição ao direito de precedência, a requerimento do credor, requisitar ou determinar o seqüestro de recursos financeiros da entidade executada, suficientes à satisfação da prestação. *(Incluído pela [[emenda-constitucional-federal-30-2000|Emenda Constitucional nº 30, de 2000]])*
 
 ###### Art. 79 (ADCT) {#adct_art79}
-Tags:
 Alterações: [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 31, de 2000]] (incluído: caput, parágrafo único)
 
 **ADCT, Art. 79, caput** {#adct_art79_cpt} #incluido É instituído, para vigorar até o ano de 2010, no âmbito do Poder Executivo Federal, o Fundo de Combate e Erradicação da Pobreza, a ser regulado por lei complementar com o objetivo de viabilizar a todos os brasileiros acesso a níveis dignos de subsistência, cujos recursos serão aplicados em ações suplementares de nutrição, habitação, educação, saúde, reforço de renda familiar e outros programas de relevante interesse social voltados para melhoria da qualidade de vida. *(Incluído pela [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 31, de 2000]])* *(Vide [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]])* *(Vide [[emenda-constitucional-federal-67-2010|Emenda Constitucional nº 67, de 2010]])*
@@ -5814,7 +5454,6 @@ Alterações: [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 
 **ADCT, Art. 79, parágrafo único** {#adct_art79_par1u} #incluido O Fundo previsto neste artigo terá Conselho Consultivo e de Acompanhamento que conte com a participação de representantes da sociedade civil, nos termos da lei. *(Incluído pela [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 31, de 2000]])*
 
 ###### Art. 80 (ADCT) {#adct_art80}
-Tags:
 Alterações: [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 31, de 2000]] (incluído: caput, inciso I, inciso II, inciso III, inciso IV, inciso V, inciso VI, § 1º, § 2º)
 
 **ADCT, Art. 80, caput** {#adct_art80_cpt} #incluido Compõem o Fundo de Combate e Erradicação da Pobreza: *(Incluído pela [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 31, de 2000]])* *(Vide [[emenda-constitucional-federal-67-2010|Emenda Constitucional nº 67, de 2010]])*
@@ -5830,7 +5469,6 @@ Alterações: [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 
 **ADCT, Art. 80, § 2º** {#adct_art80_par2} #incluido A arrecadação decorrente do disposto no inciso I deste artigo, no período compreendido entre 18 de junho de 2000 e o início da vigência da lei complementar a que se refere a art. [[#art79|79]], será integralmente repassada ao Fundo, preservado o seu valor real, em títulos públicos federais, progressivamente resgatáveis após 18 de junho de 2002, na forma da lei. *(Incluído pela [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 31, de 2000]])*
 
 ###### Art. 81 (ADCT) {#adct_art81}
-Tags:
 Alterações: [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 31, de 2000]] (incluído: caput, § 1º, § 2º, § 3º)
 
 **ADCT, Art. 81, caput** {#adct_art81_cpt} #incluido É instituído Fundo constituído pelos recursos recebidos pela União em decorrência da desestatização de sociedades de economia mista ou empresas públicas por ela controladas, direta ou indiretamente, quando a operação envolver a alienação do respectivo controle acionário a pessoa ou entidade não integrante da Administração Pública, ou de participação societária remanescente após a alienação, cujos rendimentos, gerados a partir de 18 de junho de 2002, reverterão ao Fundo de Combate e Erradicação de Pobreza. *(Incluído pela [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 31, de 2000]])* *(Vide [[emenda-constitucional-federal-67-2010|Emenda Constitucional nº 67, de 2010]])*
@@ -5842,7 +5480,6 @@ Alterações: [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 
 **ADCT, Art. 81, § 3º** {#adct_art81_par3} #incluido A constituição do Fundo a que se refere o caput, a transferência de recursos ao Fundo de Combate e Erradicação da Pobreza e as demais disposições referentes ao § 1º deste artigo serão disciplinadas em lei, não se aplicando o disposto no art. [[#art165|165]], § 9º, inciso II, da Constituição. *(Incluído pela [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 31, de 2000]])*
 
 ###### Art. 82 (ADCT) {#adct_art82}
-Tags:
 Alterações: [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 31, de 2000]] (incluído: caput, § 2º); [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (nova redação: § 1º)
 
 **ADCT, Art. 82, caput** {#adct_art82_cpt} #incluido Os Estados, o Distrito Federal e os Municípios devem instituir Fundos de Combate à Pobreza, com os recursos de que trata este artigo e outros que vierem a destinar, devendo os referidos Fundos ser geridos por entidades que contem com a participação da sociedade civil. *(Incluído pela [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 31, de 2000]])*
@@ -5852,13 +5489,11 @@ Alterações: [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 
 **ADCT, Art. 82, § 2º** {#adct_art82_par2} #incluido Para o financiamento dos Fundos Municipais, poderá ser criado adicional de até meio ponto percentual na alíquota do Imposto sobre serviços ou do imposto que vier a substituí-lo, sobre serviços supérfluos. *(Incluído pela [[emenda-constitucional-federal-31-2000|Emenda Constitucional nº 31, de 2000]])* *(Vide [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])* *(Vigência)*
 
 ###### Art. 83 (ADCT) {#adct_art83}
-Tags:
 Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (nova redação: caput)
 
 **ADCT, Art. 83, caput** {#adct_art83_cpt} #redacao-alterada Lei federal definirá os produtos e serviços supérfluos a que se referem os arts. [[#art80|80]], II, e 82, § 2º. *(Redação dada pela [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]])* *(Vide [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])* *(Vigência)*
 
 ###### Art. 84 (ADCT) {#adct_art84}
-Tags:
 Alterações: [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 37, de 2002]] (incluído: caput, § 1º, § 2º, § 2º, inciso I, § 2º, inciso II, § 2º, inciso III, § 3º, § 3º, inciso I); [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (revogado: § 3º, inciso II)
 
 **ADCT, Art. 84, caput** {#adct_art84_cpt} #incluido A contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira, prevista nos arts. [[#adct_art74|74]], [[#adct_art75|75]] e [[#adct_art80|80]], I, deste Ato das Disposições Constitucionais Transitórias, será cobrada até 31 de dezembro de 2004. *(Incluído pela [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 37, de 2002]])*
@@ -5875,7 +5510,6 @@ Alterações: [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 
 - **ADCT, Art. 84, § 3º, inciso II** {#adct_art84_par3_inc2} #revogado *(Revogado pela [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]])*
 
 ###### Art. 85 (ADCT) {#adct_art85}
-Tags:
 Alterações: [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 37, de 2002]] (incluído: caput, inciso I, inciso I, alínea "a", inciso I, alínea "b", inciso I, alínea "c", inciso II, inciso II, alínea "a", inciso II, alínea "b", inciso III, § 1º, § 2º, § 3º)
 
 **ADCT, Art. 85, caput** {#adct_art85_cpt} #incluido A contribuição a que se refere o art. [[#adct_art84|84]] deste Ato das Disposições Constitucionais Transitórias não incidirá, a partir do trigésimo dia da data de publicação desta Emenda Constitucional, nos lançamentos: *(Incluído pela [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 37, de 2002]])*
@@ -5895,7 +5529,6 @@ Alterações: [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 
 **ADCT, Art. 85, § 3º** {#adct_art85_par3} #incluido O disposto no inciso II deste artigo aplica-se somente a operações e contratos efetuados por intermédio de instituições financeiras, sociedades corretoras de títulos e valores mobiliários, sociedades distribuidoras de títulos e valores mobiliários e sociedades corretoras de mercadorias. *(Incluído pela [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 37, de 2002]])*
 
 ###### Art. 86 (ADCT) {#adct_art86}
-Tags:
 Alterações: [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 37, de 2002]] (incluído: caput, inciso I, inciso II, inciso III, § 1º, § 2º, § 3º)
 
 **ADCT, Art. 86, caput** {#adct_art86_cpt} #incluido Serão pagos conforme disposto no art. [[#art100|100]] da Constituição Federal, não se lhes aplicando a regra de parcelamento estabelecida no caput do art. [[#adct_art78|78]] deste Ato das Disposições Constitucionais Transitórias, os débitos da Fazenda Federal, Estadual, Distrital ou Municipal oriundos de sentenças transitadas em julgado, que preencham, cumulativamente, as seguintes condições: *(Incluído pela [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 37, de 2002]])*
@@ -5910,7 +5543,6 @@ Alterações: [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 
 **ADCT, Art. 86, § 3º** {#adct_art86_par3} #incluido Observada a ordem cronológica de sua apresentação, os débitos de natureza alimentícia previstos neste artigo terão precedência para pagamento sobre todos os demais. *(Incluído pela [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 37, de 2002]])*
 
 ###### Art. 87 (ADCT) {#adct_art87}
-Tags:
 Alterações: [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 37, de 2002]] (incluído: caput, inciso I, inciso II, parágrafo único)
 
 **ADCT, Art. 87, caput** {#adct_art87_cpt} #incluido Para efeito do que dispõem o § 3º do art. [[#art100|100]] da Constituição Federal e o art. [[#adct_art78|78]] deste Ato das Disposições Constitucionais Transitórias serão considerados de pequeno valor, até que se dê a publicação oficial das respectivas leis definidoras pelos entes da Federação, observado o disposto no § 4º do art. [[#art100|100]] da Constituição Federal, os débitos ou obrigações consignados em precatório judiciário, que tenham valor igual ou inferior a: *(Incluído pela [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 37, de 2002]])*
@@ -5920,7 +5552,6 @@ Alterações: [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 
 **ADCT, Art. 87, parágrafo único** {#adct_art87_par1u} #incluido Se o valor da execução ultrapassar o estabelecido neste artigo, o pagamento far-se-á, sempre, por meio de precatório, sendo facultada à parte exeqüente a renúncia ao crédito do valor excedente, para que possa optar pelo pagamento do saldo sem o precatório, da forma prevista no § 3º do art. [[#art100|100]]. *(Incluído pela [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 37, de 2002]])*
 
 ###### Art. 88 (ADCT) {#adct_art88}
-Tags:
 Alterações: [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 37, de 2002]] (incluído: caput, inciso I, inciso II)
 
 **ADCT, Art. 88, caput** {#adct_art88_cpt} #incluido Enquanto lei complementar não disciplinar o disposto nos incisos I e III do § 3º do art. [[#art156|156]] da Constituição Federal, o imposto a que se refere o inciso III do caput do mesmo artigo: *(Incluído pela [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 37, de 2002]])*
@@ -5928,7 +5559,6 @@ Alterações: [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 
 - **ADCT, Art. 88, caput, inciso II** {#adct_art88_cpt_inc2} #incluido não será objeto de concessão de isenções, incentivos e benefícios fiscais, que resulte, direta ou indiretamente, na redução da alíquota mínima estabelecida no inciso I. *(Incluído pela [[emenda-constitucional-federal-37-2002|Emenda Constitucional nº 37, de 2002]])*
 
 ###### Art. 89 (ADCT) {#adct_art89}
-Tags:
 Alterações: [[emenda-constitucional-federal-60-2009|Emenda Constitucional nº 60, de 2009]] (nova redação: caput; incluído: § 1º, § 2º)
 
 **ADCT, Art. 89, caput** {#adct_art89_cpt} #redacao-alterada Os integrantes da carreira policial militar e os servidores municipais do ex-Território Federal de Rondônia que, comprovadamente, se encontravam no exercício regular de suas funções prestando serviço àquele ex-Território na data em que foi transformado em Estado, bem como os servidores e os policiais militares alcançados pelo disposto no art. 36 da [[lei-complementar-federal-41-1981|Lei Complementar nº 41, de 22 de dezembro de 1981]] , e aqueles admitidos regularmente nos quadros do Estado de Rondônia até a data de posse do primeiro Governador eleito, em 15 de março de 1987, constituirão, mediante opção, quadro em extinção da administração federal, assegurados os direitos e as vantagens a eles inerentes, vedado o pagamento, a qualquer título, de diferenças remuneratórias. *(Redação dada pela [[emenda-constitucional-federal-60-2009|Emenda Constitucional nº 60, de 2009]])*
@@ -5938,7 +5568,6 @@ Alterações: [[emenda-constitucional-federal-60-2009|Emenda Constitucional nº 
 **ADCT, Art. 89, § 2º** {#adct_art89_par2} #incluido Os servidores a que se refere o caput continuarão prestando serviços ao Estado de Rondônia na condição de cedidos, até seu aproveitamento em órgão ou entidade da administração federal direta, autárquica ou fundacional. *(Incluído pela [[emenda-constitucional-federal-60-2009|Emenda Constitucional nº 60, de 2009]])*
 
 ###### Art. 90 (ADCT) {#adct_art90}
-Tags:
 Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (incluído: caput, § 1º, § 2º)
 
 **ADCT, Art. 90, caput** {#adct_art90_cpt} #incluido O prazo previsto no caput do art. [[#adct_art84|84]] deste Ato das Disposições Constitucionais Transitórias fica prorrogado até 31 de dezembro de 2007. *(Incluído pela [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]])*
@@ -5948,7 +5577,6 @@ Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 
 **ADCT, Art. 90, § 2º** {#adct_art90_par2} #incluido Até a data referida no caput deste artigo, a alíquota da contribuição de que trata o art. [[#adct_art84|84]] deste Ato das Disposições Constitucionais Transitórias será de trinta e oito centésimos por cento. *(Incluído pela [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]])*
 
 ###### Art. 91 (ADCT) {#adct_art91}
-Tags:
 Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (revogado: caput, § 1º, § 2º, § 3º, § 4º)
 
 **ADCT, Art. 91, caput** {#adct_art91_cpt} #revogado *(Revogado pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
@@ -5962,19 +5590,16 @@ Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº
 **ADCT, Art. 91, § 4º** {#adct_art91_par4} #revogado *(Revogado pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
 
 ###### Art. 92 (ADCT) {#adct_art92}
-Tags:
 Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (incluído: caput)
 
 **ADCT, Art. 92, caput** {#adct_art92_cpt} #incluido São acrescidos dez anos ao prazo fixado no art. [[#adct_art40|40]] deste Ato das Disposições Constitucionais Transitórias. *(Incluído pela [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]])* *(Vide [[decreto-federal-7212-2010|Decreto nº 7.212, de 2010]])*
 
 ###### Art. 92-A (ADCT) {#adct_art92-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-83-2014|Emenda Constitucional nº 83, de 2014]] (incluído: caput)
 
 **ADCT, Art. 92-A, caput** {#adct_art92-a_cpt} #incluido São acrescidos 50 (cinquenta) anos ao prazo fixado pelo art. [[#adct_art92|92]] deste Ato das Disposições Constitucionais Transitórias. *(Incluído pela [[emenda-constitucional-federal-83-2014|Emenda Constitucional nº 83, de 2014]])*
 
 ###### Art. 92-B (ADCT) {#adct_art92-b}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, § 1º, § 2º, § 3º, § 3º, inciso I, § 3º, inciso II, § 4º, § 5º, § 6º, § 7º)
 
 **ADCT, Art. 92-B, caput** {#adct_art92-b_cpt} #incluido As leis instituidoras dos tributos previstos nos arts. [[#art156-a|156-A]] e [[#art195|195]], V, da Constituição Federal estabelecerão os mecanismos necessários, com ou sem contrapartidas, para manter, em caráter geral, o diferencial competitivo assegurado à Zona Franca de Manaus pelos arts. [[#art40|40]] e 92-A e às áreas de livre comércio existentes em 31 de maio de 2023, nos níveis estabelecidos pela legislação relativa aos tributos extintos a que se referem os arts. [[#adct_art126|126]] a [[#adct_art129|129]], todos deste Ato das Disposições Constitucionais Transitórias. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -5996,31 +5621,26 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **ADCT, Art. 92-B, § 7º** {#adct_art92-b_par7} #incluido O Fundo de que trata o § 6º será integrado pelos Estados onde estão localizadas as áreas de livre comércio de que trata o caput e observará, no que couber, o disposto no § 3º, I e II, sendo, quanto a este inciso, considerados os respectivos Estados, e no § 4º. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 93 (ADCT) {#adct_art93}
-Tags:
 Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (incluído: caput)
 
 **ADCT, Art. 93, caput** {#adct_art93_cpt} #incluido A vigência do disposto no art. [[#art159|159]], III, e § 4º, iniciará somente após a edição da lei de que trata o referido inciso III. *(Incluído pela [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]])*
 
 ###### Art. 94 (ADCT) {#adct_art94}
-Tags:
 Alterações: [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]] (incluído: caput)
 
 **ADCT, Art. 94, caput** {#adct_art94_cpt} #incluido Os regimes especiais de tributação para microempresas e empresas de pequeno porte próprios da União, dos Estados, do Distrito Federal e dos Municípios cessarão a partir da entrada em vigor do regime previsto no art. [[#art146|146]], III, d, da Constituição. *(Incluído pela [[emenda-constitucional-federal-42-2003|Emenda Constitucional nº 42, de 19.12.2003]])*
 
 ###### Art. 95 (ADCT) {#adct_art95}
-Tags:
 Alterações: [[emenda-constitucional-federal-54-2007|Emenda Constitucional nº 54, de 2007]] (incluído: caput)
 
 **ADCT, Art. 95, caput** {#adct_art95_cpt} #incluido Os nascidos no estrangeiro entre 7 de junho de 1994 e a data da promulgação desta Emenda Constitucional, filhos de pai brasileiro ou mãe brasileira, poderão ser registrados em repartição diplomática ou consular brasileira competente ou em ofício de registro, se vierem a residir na República Federativa do Brasil. *(Incluído pela [[emenda-constitucional-federal-54-2007|Emenda Constitucional nº 54, de 2007]])*
 
 ###### Art. 96 (ADCT) {#adct_art96}
-Tags:
 Alterações: [[emenda-constitucional-federal-57-2008|Emenda Constitucional nº 57, de 2008]] (incluído: caput)
 
 **ADCT, Art. 96, caput** {#adct_art96_cpt} #incluido Ficam convalidados os atos de criação, fusão, incorporação e desmembramento de Municípios, cuja lei tenha sido publicada até 31 de dezembro de 2006, atendidos os requisitos estabelecidos na legislação do respectivo Estado à época de sua criação. *(Incluído pela [[emenda-constitucional-federal-57-2008|Emenda Constitucional nº 57, de 2008]])*
 
 ###### Art. 97 (ADCT) {#adct_art97}
-Tags:
 Alterações: [[emenda-constitucional-federal-62-2009|Emenda Constitucional nº 62, de 2009]] (incluído: caput, § 1º, § 1º, inciso I, § 1º, inciso II, § 2º, § 2º, inciso I, § 2º, inciso I, alínea "a", § 2º, inciso I, alínea "b", § 2º, inciso II, § 2º, inciso II, alínea "a", § 2º, inciso II, alínea "b", § 3º, § 3º, inciso I, § 3º, inciso II, § 4º, § 5º, § 6º, § 7º, § 8º, § 8º, inciso I, § 8º, inciso II, § 8º, inciso III, § 9º, § 9º, inciso I, § 9º, inciso II, § 9º, inciso III, § 9º, inciso IV, § 9º, inciso V, § 9º, inciso VI, § 9º, inciso VII, § 9º, inciso VIII, § 9º, inciso IX, § 10, § 10, inciso I, § 10, inciso II, § 10, inciso III, § 10, inciso IV, § 10, inciso IV, alínea "a", § 10, inciso IV, alínea "b", § 10, inciso V, § 11, § 12, § 12, inciso I, § 12, inciso II, § 13, § 14, § 15, § 17, § 18); [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]] (nova redação: § 16; incluído: § 16-A)
 
 **ADCT, Art. 97, caput** {#adct_art97_cpt} #incluido Até que seja editada a lei complementar de que trata o § 15 do art. [[#art100|100]] da Constituição Federal, os Estados, o Distrito Federal e os Municípios que, na data de publicação desta Emenda Constitucional, estejam em mora na quitação de precatórios vencidos, relativos às suas administrações direta e indireta, inclusive os emitidos durante o período de vigência do regime especial instituído por este artigo, farão esses pagamentos de acordo com as normas a seguir estabelecidas, sendo inaplicável o disposto no art. [[#art100|100]] desta Constituição Federal, exceto em seus §§ 2º, 3º, 9º, 10, 11, 12, 13 e 14, e sem prejuízo dos acordos de juízos conciliatórios já formalizados na data de promulgação desta Emenda Constitucional. *(Incluído pela [[emenda-constitucional-federal-62-2009|Emenda Constitucional nº 62, de 2009]])* *(Vide [[emenda-constitucional-federal-62-2009|Emenda Constitucional nº 62, de 2009]])*
@@ -6095,7 +5715,6 @@ Alterações: [[emenda-constitucional-federal-62-2009|Emenda Constitucional nº 
 **ADCT, Art. 97, § 18** {#adct_art97_par18} #incluido Durante a vigência do regime especial a que se refere este artigo, gozarão também da preferência a que se refere o § 6º os titulares originais de precatórios que tenham completado 60 (sessenta) anos de idade até a data da promulgação desta Emenda Constitucional. *(Incluído pela [[emenda-constitucional-federal-62-2009|Emenda Constitucional nº 62, de 2009]])*
 
 ###### Art. 98 (ADCT) {#adct_art98}
-Tags:
 Alterações: [[emenda-constitucional-federal-80-2014|Emenda Constitucional nº 80, de 2014]] (incluído: caput, § 1º, § 2º)
 
 **ADCT, Art. 98, caput** {#adct_art98_cpt} #incluido O número de defensores públicos na unidade jurisdicional será proporcional à efetiva demanda pelo serviço da Defensoria Pública e à respectiva população. *(Incluído pela [[emenda-constitucional-federal-80-2014|Emenda Constitucional nº 80, de 2014]])*
@@ -6105,7 +5724,6 @@ Alterações: [[emenda-constitucional-federal-80-2014|Emenda Constitucional nº 
 **ADCT, Art. 98, § 2º** {#adct_art98_par2} #incluido Durante o decurso do prazo previsto no § 1º deste artigo, a lotação dos defensores públicos ocorrerá, prioritariamente, atendendo as regiões com maiores índices de exclusão social e adensamento populacional. *(Incluído pela [[emenda-constitucional-federal-80-2014|Emenda Constitucional nº 80, de 2014]])*
 
 ###### Art. 99 (ADCT) {#adct_art99}
-Tags:
 Alterações: [[emenda-constitucional-federal-87-2015|Emenda Constitucional nº 87, de 2015]] (incluído: caput, inciso I, inciso II, inciso III, inciso IV, inciso V)
 
 **ADCT, Art. 99, caput** {#adct_art99_cpt} #incluido Para efeito do disposto no inciso VII do § 2º do art. [[#art155|155]], no caso de operações e prestações que destinem bens e serviços a consumidor final não contribuinte localizado em outro Estado, o imposto correspondente à diferença entre a alíquota interna e a interestadual será partilhado entre os Estados de origem e de destino, na seguinte proporção: *(Incluído pela [[emenda-constitucional-federal-87-2015|Emenda Constitucional nº 87, de 2015]])*
@@ -6116,13 +5734,11 @@ Alterações: [[emenda-constitucional-federal-87-2015|Emenda Constitucional nº 
 - **ADCT, Art. 99, caput, inciso V** {#adct_art99_cpt_inc5} #incluido a partir do ano de 2019: 100% (cem por cento) para o Estado de destino. *(Incluído pela [[emenda-constitucional-federal-87-2015|Emenda Constitucional nº 87, de 2015]])*
 
 ###### Art. 100 (ADCT) {#adct_art100}
-Tags:
 Alterações: [[emenda-constitucional-federal-88-2015|Emenda Constitucional nº 88, de 2015]] (incluído: caput)
 
 **ADCT, Art. 100, caput** {#adct_art100_cpt} #incluido Até que entre em vigor a lei complementar de que trata o inciso II do § 1º do art. [[#art40|40]] da Constituição Federal , os Ministros do Supremo Tribunal Federal, dos Tribunais Superiores e do Tribunal de Contas da União aposentar-se-ão, compulsoriamente, aos 75 (setenta e cinco) anos de idade, nas condições do art. [[#art52|52]] da Constituição Federal . *(Incluído pela [[emenda-constitucional-federal-88-2015|Emenda Constitucional nº 88, de 2015]])*
 
 ###### Art. 101 (ADCT) {#adct_art101}
-Tags:
 Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]] (nova redação: caput, § 4º, § 4º, inciso I, § 4º, inciso II, § 4º, inciso III, § 4º, inciso IV); [[emenda-constitucional-federal-94-2016|Emenda Constitucional nº 94, de 2016]] (incluído: § 1º, § 1º, inciso I, § 1º, inciso II, § 2º, inciso II, alínea "a"); [[emenda-constitucional-federal-113-2021|Emenda Constitucional nº 113, de 2021]] (incluído: § 5º); [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]] (incluído: § 6º)
 
 **ADCT, Art. 101, caput** {#adct_art101_cpt} #redacao-alterada Os Estados, o Distrito Federal e os Municípios que, em 25 de março de 2015, se encontravam em mora no pagamento de seus precatórios quitarão, até 31 de dezembro de 2029, seus débitos vencidos e os que vencerão dentro desse período, atualizados pelo Índice Nacional de Preços ao Consumidor Amplo Especial (IPCA-E), ou por outro índice que venha a substituí-lo, depositando mensalmente em conta especial do Tribunal de Justiça local, sob única e exclusiva administração deste, 1/12 (um doze avos) do valor calculado percentualmente sobre suas receitas correntes líquidas apuradas no segundo mês anterior ao mês de pagamento, em percentual suficiente para a quitação de seus débitos e, ainda que variável, nunca inferior, em cada exercício, ao percentual praticado na data da entrada em vigor do regime especial a que se refere este artigo, em conformidade com plano de pagamento a ser anualmente apresentado ao Tribunal de Justiça local. *(Redação dada pela [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº 109, de 2021]])*
@@ -6152,7 +5768,6 @@ Alterações: [[emenda-constitucional-federal-109-2021|Emenda Constitucional nº
 **ADCT, Art. 101, § 6º** {#adct_art101_par6} #incluido Aplica-se ao regime de pagamento de precatórios descrito no caput deste artigo o disposto nos §§ 23 a 30 do art. [[#art100|100]] da Constituição Federal. *(Incluído pela [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]])*
 
 ###### Art. 102 (ADCT) {#adct_art102}
-Tags:
 Alterações: [[emenda-constitucional-federal-94-2016|Emenda Constitucional nº 94, de 2016]] (incluído: caput)
 
 **ADCT, Art. 102, caput** {#adct_art102_cpt} #incluido Enquanto viger o regime especial previsto nesta Emenda Constitucional, pelo menos 50% (cinquenta por cento) dos recursos que, nos termos do art. [[#adct_art101|101]] deste Ato das Disposições Constitucionais Transitórias, forem destinados ao pagamento dos precatórios em mora serão utilizados no pagamento segundo a ordem cronológica de apresentação, respeitadas as preferências dos créditos alimentares, e, nessas, as relativas à idade, ao estado de saúde e à deficiência, nos termos do § 2º do art. [[#art100|100]] da Constituição Federal, sobre todos os demais créditos de todos os anos. *(Incluído pela [[emenda-constitucional-federal-94-2016|Emenda Constitucional nº 94, de 2016]])*
@@ -6162,7 +5777,6 @@ Alterações: [[emenda-constitucional-federal-94-2016|Emenda Constitucional nº 
 **ADCT, Art. 102, § 2º** {#adct_art102_par2} #incluido Na vigência do regime especial previsto no art. [[#adct_art101|101]] deste Ato das Disposições Constitucionais Transitórias, as preferências relativas à idade, ao estado de saúde e à deficiência serão atendidas até o valor equivalente ao quíntuplo fixado em lei para os fins do disposto no § 3º do art. [[#art100|100]] da Constituição Federal, admitido o fracionamento para essa finalidade, e o restante será pago em ordem cronológica de apresentação do precatório. *(Incluído pela Emenda constitucional nº 99, de 2017)*
 
 ###### Art. 103 (ADCT) {#adct_art103}
-Tags:
 Alterações: [[emenda-constitucional-federal-94-2016|Emenda Constitucional nº 94, de 2016]] (incluído: caput)
 
 **ADCT, Art. 103, caput** {#adct_art103_cpt} #incluido Enquanto os Estados, o Distrito Federal e os Municípios estiverem efetuando o pagamento da parcela mensal devida como previsto no caput do art. [[#adct_art101|101]] deste Ato das Disposições Constitucionais Transitórias, nem eles, nem as respectivas autarquias, fundações e empresas estatais dependentes poderão sofrer sequestro de valores, exceto no caso de não liberação tempestiva dos recursos. *(Incluído pela [[emenda-constitucional-federal-94-2016|Emenda Constitucional nº 94, de 2016]])*
@@ -6170,7 +5784,6 @@ Alterações: [[emenda-constitucional-federal-94-2016|Emenda Constitucional nº 
 **ADCT, Art. 103, parágrafo único** {#adct_art103_par1u} #incluido Na vigência do regime especial previsto no art. [[#adct_art101|101]] deste Ato das Disposições Constitucionais Transitórias, ficam vedadas desapropriações pelos Estados, pelo Distrito Federal e pelos Municípios, cujos estoques de precatórios ainda pendentes de pagamento, incluídos os precatórios a pagar de suas entidades da administração indireta, sejam superiores a 70% (setenta por cento) das respectivas receitas correntes líquidas, excetuadas as desapropriações para fins de necessidade pública nas áreas de saúde, educação, segurança pública, transporte público, saneamento básico e habitação de interesse social. *(Incluído pela Emenda constitucional nº 99, de 2017)*
 
 ###### Art. 104 (ADCT) {#adct_art104}
-Tags:
 Alterações: [[emenda-constitucional-federal-94-2016|Emenda Constitucional nº 94, de 2016]] (incluído: caput, inciso I, inciso II, inciso III, parágrafo único); [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (nova redação: inciso IV)
 
 **ADCT, Art. 104, caput** {#adct_art104_cpt} #incluido Se os recursos referidos no art. [[#adct_art101|101]] deste Ato das Disposições Constitucionais Transitórias para o pagamento de precatórios não forem tempestivamente liberados, no todo ou em parte: *(Incluído pela [[emenda-constitucional-federal-94-2016|Emenda Constitucional nº 94, de 2016]])*
@@ -6182,7 +5795,6 @@ Alterações: [[emenda-constitucional-federal-94-2016|Emenda Constitucional nº 
 **ADCT, Art. 104, parágrafo único** {#adct_art104_par1u} #incluido Enquanto perdurar a omissão, o ente federado não poderá contrair empréstimo externo ou interno, exceto para os fins previstos no § 2º do art. [[#adct_art101|101]] deste Ato das Disposições Constitucionais Transitórias, e ficará impedido de receber transferências voluntárias. *(Incluído pela [[emenda-constitucional-federal-94-2016|Emenda Constitucional nº 94, de 2016]])*
 
 ###### Art. 105 (ADCT) {#adct_art105}
-Tags:
 Alterações: [[emenda-constitucional-federal-94-2016|Emenda Constitucional nº 94, de 2016]] (incluído: caput)
 
 **ADCT, Art. 105, caput** {#adct_art105_cpt} #incluido Enquanto viger o regime de pagamento de precatórios previsto no art. [[#adct_art101|101]] deste Ato das Disposições Constitucionais Transitórias, é facultada aos credores de precatórios, próprios ou de terceiros, a compensação com débitos de natureza tributária ou de outra natureza que até 25 de março de 2015 tenham sido inscritos na dívida ativa dos Estados, do Distrito Federal ou dos Municípios, observados os requisitos definidos em lei própria do ente federado. *(Incluído pela [[emenda-constitucional-federal-94-2016|Emenda Constitucional nº 94, de 2016]])*
@@ -6194,19 +5806,16 @@ Alterações: [[emenda-constitucional-federal-94-2016|Emenda Constitucional nº 
 **ADCT, Art. 105, § 3º** {#adct_art105_par3} #incluido Decorrido o prazo estabelecido no § 2º deste artigo sem a regulamentação nele prevista, ficam os credores de precatórios autorizados a exercer a faculdade a que se refere o caput deste artigo. *(Incluído pela Emenda constitucional nº 99, de 2017)*
 
 ###### Art. 106 (ADCT) {#adct_art106}
-Tags:
 Alterações: [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]] (revogado: caput)
 
 **ADCT, Art. 106, caput** {#adct_art106_cpt} #revogado *(Revogado pela [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]])*
 
 ###### Art. 107 (ADCT) {#adct_art107}
-Tags:
 Alterações: [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]] (revogado: caput)
 
 **ADCT, Art. 107, caput** {#adct_art107_cpt} #revogado *(Revogado pela [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]])*
 
 ###### Art. 107-A (ADCT) {#adct_art107-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]] (nova redação: caput); [[emenda-constitucional-federal-114-2021|Emenda Constitucional nº 114, de 2021]] (incluído: inciso I, inciso II, inciso III, § 1º, § 2º, § 3º, § 4º, § 5º, § 6º, , § 8º, § 8º, inciso I, § 8º, inciso II, § 8º, inciso III, § 8º, inciso III, § 8º, inciso IV, § 8º, inciso V)
 
 **ADCT, Art. 107-A, caput** {#adct_art107-a_cpt} #redacao-alterada Até o fim de 2026, fica estabelecido, para cada exercício financeiro, limite para alocação na proposta orçamentária das despesas com pagamentos em virtude de sentença judiciária de que trata o art. [[#art100|100]] da Constituição Federal, equivalente ao valor da despesa paga no exercício de 2016, incluídos os restos a pagar pagos, corrigido, para o exercício de 2017, em 7,2% (sete inteiros e dois décimos por cento) e, para os exercícios posteriores, pela variação do Índice Nacional de Preços ao Consumidor Amplo (IPCA), publicado pela Fundação Instituto Brasileiro de Geografia e Estatística, ou de outro índice que vier a substituí-lo, apurado no exercício anterior a que se refere a lei orçamentária, devendo o espaço fiscal decorrente da diferença entre o valor dos precatórios expedidos e o respectivo limite ser destinado ao programa previsto no parágrafo único do art. [[#art6|6º]] e à seguridade social, nos termos do art. [[#art194|194]], ambos da Constituição Federal, a ser calculado da seguinte forma: *(Redação dada pela [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]])*
@@ -6236,7 +5845,6 @@ Alterações: [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº
 - **ADCT, Art. 107-A, § 8º, inciso V** {#adct_art107-a_par8_inc5} #incluido demais precatórios. *(Incluído pela [[emenda-constitucional-federal-114-2021|Emenda Constitucional nº 114, de 2021]])*
 
 ###### Art. 108 (ADCT) {#adct_art108}
-Tags:
 Alterações: [[emenda-constitucional-federal-113-2021|Emenda Constitucional nº 113, de 2021]] (revogado: caput, parágrafo único)
 
 **ADCT, Art. 108, caput** {#adct_art108_cpt} #revogado *(Revogado pela [[emenda-constitucional-federal-113-2021|Emenda Constitucional nº 113, de 2021]])*
@@ -6244,49 +5852,41 @@ Alterações: [[emenda-constitucional-federal-113-2021|Emenda Constitucional nº
 **ADCT, Art. 108, parágrafo único** {#adct_art108_par1u} #revogado *(Revogado pela [[emenda-constitucional-federal-113-2021|Emenda Constitucional nº 113, de 2021]])*
 
 ###### Art. 109 (ADCT) {#adct_art109}
-Tags:
 Alterações: [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]] (revogado: caput)
 
 **ADCT, Art. 109, caput** {#adct_art109_cpt} #revogado *(Revogado pela [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]])*
 
 ###### Art. 110 (ADCT) {#adct_art110}
-Tags:
 Alterações: [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]] (revogado: caput)
 
 **ADCT, Art. 110, caput** {#adct_art110_cpt} #revogado *(Revogado pela [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]])*
 
 ###### Art. 111 (ADCT) {#adct_art111}
-Tags:
 Alterações: [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]] (revogado: caput)
 
 **ADCT, Art. 111, caput** {#adct_art111_cpt} #revogado *(Revogado pela [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]])*
 
 ###### Art. 111-A (ADCT) {#adct_art111-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]] (revogado: caput)
 
 **ADCT, Art. 111-A, caput** {#adct_art111-a_cpt} #revogado *(Revogado pela [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]])*
 
 ###### Art. 112 (ADCT) {#adct_art112}
-Tags:
 Alterações: [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]] (revogado: caput)
 
 **ADCT, Art. 112, caput** {#adct_art112_cpt} #revogado *(Revogado pela [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]])*
 
 ###### Art. 113 (ADCT) {#adct_art113}
-Tags:
 Alterações: [[emenda-constitucional-federal-95-2016|Emenda Constitucional nº 95, de 2016]] (incluído: caput)
 
 **ADCT, Art. 113, caput** {#adct_art113_cpt} #incluido A proposição legislativa que crie ou altere despesa obrigatória ou renúncia de receita deverá ser acompanhada da estimativa do seu impacto orçamentário e financeiro. *(Incluído pela [[emenda-constitucional-federal-95-2016|Emenda Constitucional nº 95, de 2016]])*
 
 ###### Art. 114 (ADCT) {#adct_art114}
-Tags:
 Alterações: [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]] (revogado: caput)
 
 **ADCT, Art. 114, caput** {#adct_art114_cpt} #revogado *(Revogado pela [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]])*
 
 ###### Art. 115 (ADCT) {#adct_art115}
-Tags:
 Alterações: [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]] (nova redação: caput; incluído: § 1º, § 2º, § 3º); [[emenda-constitucional-federal-113-2021|Emenda Constitucional nº 113, de 2021]] (incluído: inciso I, inciso II, inciso III, inciso IV)
 
 **ADCT, Art. 115, caput** {#adct_art115_cpt} #redacao-alterada Fica excepcionalmente autorizado o parcelamento das contribuições previdenciárias e dos demais débitos dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, com os respectivos regimes próprios de previdência social, com vencimento até 31 de agosto de 2025, inclusive os parcelados anteriormente, no prazo máximo de 300 (trezentas) prestações mensais, mediante autorização em lei específica do ente federativo, desde que comprovem, em até 15 (quinze) meses após a data da promulgação da alteração deste caput, ter aderido ao Programa de Regularidade Previdenciária junto ao Ministério da Previdência Social e alterado a respectiva legislação do regime próprio de previdência social para atendimento das seguintes condições, cumulativamente: *(Redação dada pela [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]])*
@@ -6302,7 +5902,6 @@ Alterações: [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº
 **ADCT, Art. 115, § 3º** {#adct_art115_par3} #incluido O parcelamento será suspenso na hipótese de inadimplência por 3 (três) meses consecutivos ou por 6 (seis) meses alternados, relativa às contribuições previdenciárias referidas no caput deste artigo ou de descumprimento do Programa de Regularidade Previdenciária. *(Incluído pela [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]])*
 
 ###### Art. 116 (ADCT) {#adct_art116}
-Tags:
 Alterações: [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]] (nova redação: caput, § 1º, § 3º; incluído: § 3º, inciso I, § 3º, inciso II, § 3º, inciso III, § 3º, inciso IV, § 3º, inciso V, § 6º, § 7º, § 8º, § 9º, § 10, § 11, § 12, § 12, inciso I, § 12, inciso II, § 12, inciso III, § 12, inciso IV, § 12, inciso V, § 12, inciso VI, § 12, inciso VI, alínea "a", § 12, inciso VI, alínea "b", § 12, inciso VI, alínea "c", § 12, inciso VI, alínea "d", § 12, inciso VI, alínea "e", § 12, inciso VI, alínea "f", § 12, inciso VI, alínea "g", § 12, inciso VII, § 12, inciso VIII); [[emenda-constitucional-federal-113-2021|Emenda Constitucional nº 113, de 2021]] (incluído: § 2º, § 4º, § 5º)
 
 **ADCT, Art. 116, caput** {#adct_art116_cpt} #redacao-alterada Fica excepcionalmente autorizado o parcelamento dos débitos decorrentes de contribuições previdenciárias dos Municípios, incluídas suas autarquias e fundações, com o Regime Geral de Previdência Social, com vencimento até 31 de agosto de 2025, ainda que em fase de execução fiscal ajuizada, inclusive os decorrentes do descumprimento de obrigações acessórias e os que tenham sido objeto de parcelamento anterior não integralmente quitado, no prazo máximo de 300 (trezentas) prestações mensais. *(Redação dada pela [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]])*
@@ -6352,7 +5951,6 @@ Alterações: [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº
 - **ADCT, Art. 116, § 12, inciso VIII** {#adct_art116_par12_inc8} #incluido cessão, para a União, dos recebíveis originados da compensação financeira advinda da exploração de petróleo ou gás natural, de recursos hídricos para fins de geração de energia elétrica ou de recursos minerais em seus respectivos territórios, plataformas continentais, mar territorial ou zona econômica exclusiva, conforme as Leis nºs 7.990, de 28 de dezembro de 1989, e 9.478, de 6 de agosto de 1997, de acordo com definição em ato do Poder Executivo federal. *(Incluído pela [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]])*
 
 ###### Art. 116-A (ADCT) {#adct_art116-a}
-Tags:
 Alterações: [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]] (incluído: caput, parágrafo único)
 
 **ADCT, Art. 116-A, caput** {#adct_art116-a_cpt} #incluido Fica excepcionalmente autorizado o parcelamento dos débitos decorrentes de contribuições previdenciárias dos consórcios públicos intermunicipais com o Regime Geral de Previdência Social, até 31 de agosto de 2025, ainda que em fase de execução fiscal ajuizada, inclusive os decorrentes do descumprimento de obrigações acessórias e os que tenham sido objeto de parcelamento anterior não integralmente quitado, no prazo máximo de 300 (trezentas) prestações mensais. *(Incluído pela [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]])*
@@ -6360,7 +5958,6 @@ Alterações: [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº
 **ADCT, Art. 116-A, parágrafo único** {#adct_art116-a_par1u} #incluido Aplica-se ao refinanciamento de que trata este artigo o disposto nos §§ 2º, 3º, 4º, 5º e 6º do art. [[#adct_art116|116]] deste Ato das Disposições Constitucionais Transitórias. *(Incluído pela [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]])*
 
 ###### Art. 117 (ADCT) {#adct_art117}
-Tags:
 Alterações: [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]] (nova redação: caput); [[emenda-constitucional-federal-113-2021|Emenda Constitucional nº 113, de 2021]] (incluído: inciso I, inciso II, inciso III)
 
 **ADCT, Art. 117, caput** {#adct_art117_cpt} #redacao-alterada A formalização dos parcelamentos de que tratam os arts. [[#adct_art115|115]], [[#adct_art116|116]] e [[#adct_art116-a|116-A]] deste Ato das Disposições Constitucionais Transitórias deverá ocorrer até 31 de agosto de 2026 e ficará condicionada à autorização de vinculação do Fundo de Participação dos Municípios para fins de pagamento das prestações acordadas nos termos de parcelamento, observada a seguinte ordem de preferência: *(Redação dada pela [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº 136, de 2025]])*
@@ -6369,13 +5966,11 @@ Alterações: [[emenda-constitucional-federal-136-2025|Emenda Constitucional nº
 - **ADCT, Art. 117, caput, inciso III** {#adct_art117_cpt_inc3} #incluido as contribuições parceladas devidas ao respectivo regime próprio de previdência social. *(Incluído pela [[emenda-constitucional-federal-113-2021|Emenda Constitucional nº 113, de 2021]])*
 
 ###### Art. 118 (ADCT) {#adct_art118}
-Tags:
 Alterações: [[emenda-constitucional-federal-114-2021|Emenda Constitucional nº 114, de 2021]] (incluído: caput)
 
 **ADCT, Art. 118, caput** {#adct_art118_cpt} #incluido Os limites, as condições, as normas de acesso e os demais requisitos para o atendimento do disposto no parágrafo único do art. [[#art6|6º]] e no inciso VI do caput do art. [[#art203|203]] da Constituição Federal serão determinados, na forma da lei e respectivo regulamento, até 31 de dezembro de 2022, dispensada, exclusivamente no exercício de 2022, a observância das limitações legais quanto à criação, à expansão ou ao aperfeiçoamento de ação governamental que acarrete aumento de despesa no referido exercício. *(Incluído pela [[emenda-constitucional-federal-114-2021|Emenda Constitucional nº 114, de 2021]])*
 
 ###### Art. 119 (ADCT) {#adct_art119}
-Tags:
 Alterações: [[emenda-constitucional-federal-119-2022|Emenda Constitucional nº 119, de 2022]] (incluído: caput, parágrafo único)
 
 **ADCT, Art. 119, caput** {#adct_art119_cpt} #incluido Em decorrência do estado de calamidade pública provocado pela pandemia da Covid-19, os Estados, o Distrito Federal, os Municípios e os agentes públicos desses entes federados não poderão ser responsabilizados administrativa, civil ou criminalmente pelo descumprimento, exclusivamente nos exercícios financeiros de 2020 e 2021, do disposto no caput do art. [[#art212|212]] da Constituição Federal. *(Incluído pela [[emenda-constitucional-federal-119-2022|Emenda Constitucional nº 119, de 2022]])*
@@ -6383,7 +5978,6 @@ Alterações: [[emenda-constitucional-federal-119-2022|Emenda Constitucional nº
 **ADCT, Art. 119, parágrafo único** {#adct_art119_par1u} #incluido Para efeitos do disposto no caput deste artigo, o ente deverá complementar na aplicação da manutenção e desenvolvimento do ensino, até o exercício financeiro de 2023, a diferença a menor entre o valor aplicado, conforme informação registrada no sistema integrado de planejamento e orçamento, e o valor mínimo exigível constitucionalmente para os exercícios de 2020 e 2021. *(Incluído pela [[emenda-constitucional-federal-119-2022|Emenda Constitucional nº 119, de 2022]])*
 
 ###### Art. 120 (ADCT) {#adct_art120}
-Tags:
 Alterações: [[emenda-constitucional-federal-123-2022|Emenda Constitucional nº 123, de 2022]] (incluído: caput, parágrafo único, parágrafo único, inciso I, parágrafo único, inciso I, alínea "a", parágrafo único, inciso I, alínea "b", parágrafo único, inciso I, alínea "c", parágrafo único, inciso II, parágrafo único, inciso III, parágrafo único, inciso III, alínea "a", parágrafo único, inciso III, alínea "b")
 
 **ADCT, Art. 120, caput** {#adct_art120_cpt} #incluido Fica reconhecido, no ano de 2022, o estado de emergência decorrente da elevação extraordinária e imprevisível dos preços do petróleo, combustíveis e seus derivados e dos impactos sociais dela decorrentes. *(Incluído pela [[emenda-constitucional-federal-123-2022|Emenda Constitucional nº 123, de 2022]])*
@@ -6399,7 +5993,6 @@ Alterações: [[emenda-constitucional-federal-123-2022|Emenda Constitucional nº
   - **ADCT, Art. 120, parágrafo único, inciso III, alínea "b"** {#adct_art120_par1u_inc3_alib} #incluido à renúncia de receita que possa ocorrer. *(Incluída pela [[emenda-constitucional-federal-123-2022|Emenda Constitucional nº 123, de 2022]])*
 
 ###### Art. 121 (ADCT) {#adct_art121}
-Tags:
 Alterações: [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]] (incluído: caput, parágrafo único)
 
 **ADCT, Art. 121, caput** {#adct_art121_cpt} #incluido As contas referentes aos patrimônios acumulados de que trata o § 2º do art. [[#art239|239]] da Constituição Federal cujos recursos não tenham sido reclamados por prazo superior a 20 (vinte) anos serão encerradas após o prazo de 60 (sessenta) dias da publicação de aviso no Diário Oficial da União, ressalvada reivindicação por eventual interessado legítimo dentro do referido prazo. *(Incluído pela [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]])*
@@ -6407,19 +6000,16 @@ Alterações: [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº
 **ADCT, Art. 121, parágrafo único** {#adct_art121_par1u} #incluido Os valores referidos no caput deste artigo serão tidos por abandonados, nos termos do inciso III do caput do art. 1.275 da [[lei-federal-10406-2002|Lei nº 10.406, de 10 de janeiro de 2002]] (Código Civil), e serão apropriados pelo Tesouro Nacional como receita primária para realização de despesas de investimento de que trata o § 6º-B do art. [[#adct_art107|107]], que não serão computadas nos limites previstos no art. [[#adct_art107|107]], ambos deste Ato das Disposições Constitucionais Transitórias, podendo o interessado reclamar ressarcimento à União no prazo de até 5 (cinco) anos do encerramento das contas. *(Incluído pela [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]])*
 
 ###### Art. 122 (ADCT) {#adct_art122}
-Tags:
 Alterações: [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]] (incluído: caput)
 
 **ADCT, Art. 122, caput** {#adct_art122_cpt} #incluido As transferências financeiras realizadas pelo Fundo Nacional de Saúde e pelo Fundo Nacional de Assistência Social diretamente aos fundos de saúde e assistência social estaduais, municipais e distritais, para enfrentamento da pandemia da Covid-19, poderão ser executadas pelos entes federativos até 31 de dezembro de 2023. *(Incluído pela [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 2022]])*
 
 ###### Art. 123 (ADCT) {#adct_art123}
-Tags:
 Alterações: [[emenda-constitucional-federal-129-2023|Emenda Constitucional nº 129, de 2023]] (incluído: caput)
 
 **ADCT, Art. 123, caput** {#adct_art123_cpt} #incluido Todos os termos de credenciamentos, contratos, aditivos e outras formas de ajuste de permissão lotérica, em vigor, indistintamente, na data de publicação deste dispositivo, destinados a viabilizar a venda de serviços lotéricos, disciplinados em lei ou em outros instrumentos de alcance específico, terão assegurado prazo de vigência adicional, contado do término do prazo do instrumento vigente, independentemente da data de seu termo inicial. *(Incluído pela [[emenda-constitucional-federal-129-2023|Emenda Constitucional nº 129, de 2023]])*
 
 ###### Art. 124 (ADCT) {#adct_art124}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, parágrafo único)
 
 **ADCT, Art. 124, caput** {#adct_art124_cpt} #incluido A transição para os tributos previstos no art. [[#art156-a|156-A]] e no art. [[#art195|195]], V, todos da Constituição Federal, atenderá aos critérios estabelecidos nos arts. [[#adct_art125|125]] a [[#adct_art133|133]] deste Ato das Disposições Constitucionais Transitórias. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -6427,7 +6017,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **ADCT, Art. 124, parágrafo único** {#adct_art124_par1u} #incluido A contribuição prevista no art. [[#art195|195]], V, será instituída pela mesma lei complementar de que trata o art. [[#art156-a|156-A]], ambos da Constituição Federal. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 125 (ADCT) {#adct_art125}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, § 1º, § 2º, § 3º, § 3º, inciso I, § 3º, inciso II, § 4º)
 
 **ADCT, Art. 125, caput** {#adct_art125_cpt} #incluido Em 2026, o imposto previsto no art. [[#art156-a|156-A]] será cobrado à alíquota estadual de 0,1% (um décimo por cento), e a contribuição prevista no art. [[#art195|195]], V, ambos da Constituição Federal, será cobrada à alíquota de 0,9% (nove décimos por cento). *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -6443,7 +6032,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **ADCT, Art. 125, § 4º** {#adct_art125_par4} #incluido Durante o período de que trata o caput , os sujeitos passivos que cumprirem as obrigações acessórias relativas aos tributos referidos no caput poderão ser dispensados do seu recolhimento, nos termos de lei complementar. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 126 (ADCT) {#adct_art126}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, inciso I, alínea "a", inciso I, alínea "b", inciso II, inciso III, inciso III, alínea "a", inciso III, alínea "b")
 
 **ADCT, Art. 126, caput** {#adct_art126_cpt} #incluido A partir de 2027: *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -6456,7 +6044,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
   - **ADCT, Art. 126, caput, inciso III, alínea "b"** {#adct_art126_cpt_inc3_alib} #incluido não incidirá de forma cumulativa com o imposto previsto no art. [[#art153|153]], VIII, da Constituição Federal. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 127 (ADCT) {#adct_art127}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, parágrafo único)
 
 **ADCT, Art. 127, caput** {#adct_art127_cpt} #incluido Em 2027 e 2028, o imposto previsto no art. [[#art156-a|156-A]] da Constituição Federal será cobrado à alíquota estadual de 0,05% (cinco centésimos por cento) e à alíquota municipal de 0,05% (cinco centésimos por cento). *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -6464,7 +6051,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **ADCT, Art. 127, parágrafo único** {#adct_art127_par1u} #incluido No período referido no caput , a alíquota da contribuição prevista no art. [[#art195|195]], V, da Constituição Federal, será reduzida em 0,1 (um décimo) ponto percentual. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 128 (ADCT) {#adct_art128}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, inciso I, inciso II, inciso III, inciso IV, § 1º, § 2º, § 3º)
 
 **ADCT, Art. 128, caput** {#adct_art128_cpt} #incluido De 2029 a 2032, as alíquotas dos impostos previstos nos arts. [[#art155|155]], II, e 156, III, da Constituição Federal, serão fixadas nas seguintes proporções das alíquotas fixadas nas respectivas legislações: *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -6480,13 +6066,11 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **ADCT, Art. 128, § 3º** {#adct_art128_par3} #incluido Ficam mantidos em sua integralidade, até 31 de dezembro de 2032, os percentuais utilizados para calcular os benefícios ou incentivos fiscais ou financeiros já reduzidos por força da redução das alíquotas, em decorrência do disposto no caput . *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 129 (ADCT) {#adct_art129}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput)
 
 **ADCT, Art. 129, caput** {#adct_art129_cpt} #incluido Ficam extintos, a partir de 2033, os impostos previstos nos arts. [[#art155|155]], II, e 156, III, da Constituição Federal. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 130 (ADCT) {#adct_art130}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, inciso I, inciso I, alínea "a", inciso I, alínea "b", inciso I, alínea "c", inciso II, inciso II, alínea "a", inciso II, alínea "b", inciso III, § 1º, § 2º, § 3º, § 3º, inciso I, § 3º, inciso II, § 3º, inciso III, § 3º, inciso IV, § 3º, inciso V, § 3º, inciso V, alínea "a", § 3º, inciso V, alínea "b", § 3º, inciso V, alínea "c", § 3º, inciso V, alínea "d", § 3º, inciso V, alínea "e", § 4º, § 5º, § 6º, § 6º, inciso I, § 6º, inciso II, § 7º, § 8º, § 9º, § 10)
 
 **ADCT, Art. 130, caput** {#adct_art130_cpt} #incluido Resolução do Senado Federal fixará, para todas as esferas federativas, as alíquotas de referência dos tributos previstos nos arts. [[#art156-a|156-A]] e [[#art195|195]], V, da Constituição Federal, observados a forma de cálculo e os limites previstos em lei complementar, de forma a assegurar: *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -6532,7 +6116,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **ADCT, Art. 130, § 10** {#adct_art130_par10} #incluido O cálculo das alíquotas a que se refere este artigo será realizado com base em propostas encaminhadas pelo Poder Executivo da União e pelo Comitê Gestor do Imposto sobre Bens e Serviços, que deverão fornecer ao Tribunal de Contas da União todos os subsídios necessários, mediante o compartilhamento de dados e informações, nos termos de lei complementar. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 131 (ADCT) {#adct_art131}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, § 1º, § 1º, inciso I, § 1º, inciso II, § 1º, inciso III, § 2º, § 2º, inciso I, § 2º, inciso I, alínea "a", § 2º, inciso I, alínea "b", § 2º, inciso II, § 2º, inciso II, alínea "a", § 2º, inciso II, alínea "b", § 2º, inciso III, § 2º, inciso III, alínea "a", § 2º, inciso III, alínea "b", § 3º, § 4º, § 5º, § 5º, inciso I, § 5º, inciso I, alínea "a", § 5º, inciso I, alínea "b", § 5º, inciso I, alínea "c", § 5º, inciso II, § 5º, inciso III, § 6º)
 
 **ADCT, Art. 131, caput** {#adct_art131_cpt} #incluido De 2029 a 2077, o produto da arrecadação dos Estados, do Distrito Federal e dos Municípios com o imposto de que trata o art. [[#art156-a|156-A]] da Constituição Federal será distribuído a esses entes federativos conforme o disposto neste artigo. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -6568,7 +6151,6 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **ADCT, Art. 131, § 6º** {#adct_art131_par6} #incluido Durante o período de que trata o caput deste artigo, é vedado aos Estados, ao Distrito Federal e aos Municípios fixar alíquotas próprias do imposto de que trata o art. [[#art156-a|156-A]] da Constituição Federal inferiores às necessárias para garantir as retenções de que tratam o § 1º deste artigo e o art. [[#adct_art132|132]] deste Ato das Disposições Constitucionais Transitórias. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 132 (ADCT) {#adct_art132}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, inciso I, inciso II, § 1º, § 1º, inciso I, § 1º, inciso II, § 2º, § 3º)
 
 **ADCT, Art. 132, caput** {#adct_art132_cpt} #incluido Do imposto dos Estados, do Distrito Federal e dos Municípios apurado com base nas alíquotas de referência de que trata o art. [[#adct_art130|130]] deste Ato das Disposições Constitucionais Transitórias, deduzida a retenção de que trata o art. [[#art131|131]], § 1º, será retido montante correspondente a 5% (cinco por cento) para distribuição aos entes com as menores razões entre: *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -6584,13 +6166,11 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **ADCT, Art. 132, § 3º** {#adct_art132_par3} #incluido Lei complementar estabelecerá os critérios para a redução gradativa, entre 2078 e 2097, do percentual de que trata o caput , até a sua extinção. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 133 (ADCT) {#adct_art133}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput)
 
 **ADCT, Art. 133, caput** {#adct_art133_cpt} #incluido Os tributos de que tratam os arts. [[#art153|153]], IV, 155, II, 156, III, e 195, I, "b", e IV, e a contribuição para o Programa de Integração Social a que se refere o art. [[#art239|239]] não integrarão a base de cálculo do imposto de que trata o art. [[#art156-a|156-A]] e da contribuição de que trata o art. [[#art195|195]], V, todos da Constituição Federal. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 134 (ADCT) {#adct_art134}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, § 1º, § 1º, inciso I, § 1º, inciso II, § 2º, § 3º, § 3º, inciso I, § 3º, inciso II, § 4º, § 5º, § 6º, § 6º, inciso I, § 6º, inciso II, § 6º, inciso III)
 
 **ADCT, Art. 134, caput** {#adct_art134_cpt} #incluido Os saldos credores relativos ao imposto previsto no art. [[#art155|155]], II, da Constituição Federal, existentes ao final de 2032 serão aproveitados pelos contribuintes na forma deste artigo e nos termos de lei complementar. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -6615,13 +6195,11 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 - **ADCT, Art. 134, § 6º, inciso III** {#adct_art134_par6_inc3} #incluido a forma pela qual o crédito de que trata este artigo poderá ser ressarcido ao contribuinte pelo Comitê Gestor do Imposto sobre Bens e Serviços, caso não seja possível compensar o valor da parcela nos termos do § 3º. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 135 (ADCT) {#adct_art135}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput)
 
 **ADCT, Art. 135, caput** {#adct_art135_cpt} #incluido Lei complementar disciplinará a forma de utilização dos créditos, inclusive presumidos, do imposto de que trata o art. [[#art153|153]], IV, e das contribuições de que tratam o art. [[#art195|195]], I, "b", e IV, e da contribuição para o Programa de Integração Social a que se refere o art. [[#art239|239]], todos da Constituição Federal, não apropriados ou não utilizados até a extinção, mantendo-se, apenas para os créditos que cumpram os requisitos estabelecidos na legislação vigente na data da extinção de tais tributos, a permissão para compensação com outros tributos federais, inclusive com a contribuição prevista no inciso V do caput do art. [[#art195|195]] da Constituição Federal, ou ressarcimento em dinheiro. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 136 (ADCT) {#adct_art136}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput, inciso I, inciso II, inciso III, inciso IV, parágrafo único)
 
 **ADCT, Art. 136, caput** {#adct_art136_cpt} #incluido Os Estados que possuíam, em 30 de abril de 2023, fundos destinados a investimentos em obras de infraestrutura e habitação e financiados por contribuições sobre produtos primários e semielaborados estabelecidas como condição à aplicação de diferimento, regime especial ou outro tratamento diferenciado, relativos ao imposto de que trata o art. [[#art155|155]], II, da Constituição Federal, poderão instituir contribuições semelhantes, não vinculadas ao referido imposto, observado que: *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
@@ -6633,13 +6211,11 @@ Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº
 **ADCT, Art. 136, parágrafo único** {#adct_art136_par1u} #incluido As receitas das contribuições mantidas nos termos deste artigo não serão consideradas como receita do respectivo Estado para fins do disposto nos arts. [[#adct_art130|130]], II, "b", e 131, § 2º, I, "b", deste Ato das Disposições Constitucionais Transitórias. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 137 (ADCT) {#adct_art137}
-Tags:
 Alterações: [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]] (incluído: caput)
 
 **ADCT, Art. 137, caput** {#adct_art137_cpt} #incluido Os saldos financeiros dos recursos transferidos pelo Fundo Nacional de Saúde e pelo Fundo Nacional de Assistência Social, para enfrentamento da pandemia de Covid-19 no período de 2020 a 2022, aos fundos de saúde e assistência social estaduais, municipais e do Distrito Federal poderão ser aplicados, até 31 de dezembro de 2024, para o custeio de ações e serviços públicos de saúde e de assistência social, observadas, respectivamente, as diretrizes emanadas do Sistema Único de Saúde e do Sistema Único de Assistência Social. *(Incluído pela [[emenda-constitucional-federal-132-2023|Emenda Constitucional nº 132, de 2023]])*
 
 ###### Art. 138 (ADCT) {#adct_art138}
-Tags:
 Alterações: [[emenda-constitucional-federal-135-2024|Emenda Constitucional nº 135, de 2024]] (incluído: caput)
 
 **ADCT, Art. 138, caput** {#adct_art138_cpt} #incluido Até 2032, qualquer criação, alteração ou prorrogação de vinculação legal ou constitucional de receitas a despesas, inclusive na hipótese de aplicação mínima de montante de recursos, não poderá resultar em crescimento anual da respectiva despesa primária superior à variação do limite de despesas primárias, na forma prevista na lei complementar de que trata o art. 6º da [[emenda-constitucional-federal-126-2022|Emenda Constitucional nº 126, de 21 de dezembro de 2022]]. *(Incluído pela [[emenda-constitucional-federal-135-2024|Emenda Constitucional nº 135, de 2024]])*

@@ -58,27 +58,24 @@ CONSIDERANDO o conteúdo do protocolo nº 26.235.191-2,
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #manancial #abastecimento-publico #recurso-hidrico
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer a metodologia para a delimitação geográfica das bacias hidrográficas destinadas a mananciais de abastecimento público, bem como os critérios para a localização, implantação, instalação e operação de empreendimentos e/ou atividades nelas situados, com a finalidade de assegurar a proteção, conservação e melhoria da qualidade e disponibilidade dos recursos hídricos destinados ao abastecimento público, nos termos da [[lei-estadual-8935-1989|Lei Estadual nº 8.935/1989]].
 
 ## CAPÍTULO I – DAS DEFINIÇÕES
 
 ###### Art. 2º {#art2}
-Tags: #manancial #captacao #parcelamento-solo
 
 **Art. 2º, caput** {#art2_cpt} Para os fins desta Instrução Normativa, ficam estabelecidas as seguintes definições:
-- **Art. 2º, caput, inciso I** {#art2_cpt_inc1} #manancial Áreas de Interesse de Mananciais: são as áreas definidas, por norma municipal ou estadual, como de interesse para o abastecimento público.
+- **Art. 2º, caput, inciso I** {#art2_cpt_inc1} Áreas de Interesse de Mananciais: são as áreas definidas, por norma municipal ou estadual, como de interesse para o abastecimento público.
 - **Art. 2º, caput, inciso II** {#art2_cpt_inc2} Capacidade de Suporte do Território (CST): é o limite populacional admissível nas áreas de interesse de mananciais, visando a manutenção dos corpos hídricos na classe
-- **Art. 2º, caput, inciso III** {#art2_cpt_inc3} #captacao Captação: ponto georreferenciado, seja em curso d'água, reservatório natural ou artificial, de onde se retira água bruta destinada ao sistema de abastecimento público.
-- **Art. 2º, caput, inciso IV** {#art2_cpt_inc4} #manancial Manancial de Abastecimento Público: bacia hidrográfica situada a montante do local onde exista ou se preveja futuramente realizar a captação de água para abastecimento público.
+- **Art. 2º, caput, inciso III** {#art2_cpt_inc3} Captação: ponto georreferenciado, seja em curso d'água, reservatório natural ou artificial, de onde se retira água bruta destinada ao sistema de abastecimento público.
+- **Art. 2º, caput, inciso IV** {#art2_cpt_inc4} Manancial de Abastecimento Público: bacia hidrográfica situada a montante do local onde exista ou se preveja futuramente realizar a captação de água para abastecimento público.
 - **Art. 2º, caput, inciso V** {#art2_cpt_inc5} Melhor Tecnologia Disponível (MTD): técnica ou conjunto de técnicas, processos, equipamentos e práticas de gestão e operação, disponíveis no mercado ou comprovadamente aplicáveis ao setor ou atividade, que, considerando sua viabilidade técnica e econômica e as características específicas do empreendimento, sejam capazes de proporcionar elevado nível de prevenção e controle da poluição, especialmente mediante a redução da carga e da toxicidade dos poluentes presentes nos efluentes.
-- **Art. 2º, caput, inciso VI** {#art2_cpt_inc6} #parcelamento-solo Parcelamento do Solo de Alta Densidade Demográfica: Loteamento, desmembramento ou condomínio horizontal ou vertical que, em sua totalidade, ou em conjunto com outros parcelamentos existentes e/ou futuros na mesma bacia de contribuição, exceda a Capacidade de Suporte do Território (CST) estabelecida para a área.
+- **Art. 2º, caput, inciso VI** {#art2_cpt_inc6} Parcelamento do Solo de Alta Densidade Demográfica: Loteamento, desmembramento ou condomínio horizontal ou vertical que, em sua totalidade, ou em conjunto com outros parcelamentos existentes e/ou futuros na mesma bacia de contribuição, exceda a Capacidade de Suporte do Território (CST) estabelecida para a área.
 
 ## CAPÍTULO II – DO ÂMBITO DE APLICAÇÃO DA LEI ESTADUAL Nº 8.935/1989
 
 ###### Art. 3º {#art3}
-Tags: #manancial #abastecimento-publico #licenciamento-ambiental #outorga #dominio-uniao
 
 **Art. 3º, caput** {#art3_cpt} A [[lei-estadual-8935-1989|Lei Estadual nº 8.935/1989]], aplica-se às bacias destinadas a manancial superficial de abastecimento público que estejam integral ou parcialmente dentro do Estado do Paraná, cuja captação esteja outorgada pelo órgão estadual ou manancial previsto em legislação estadual.
 
@@ -87,12 +84,11 @@ Tags: #manancial #abastecimento-publico #licenciamento-ambiental #outorga #domin
 ## CAPÍTULO III – DAS ÁREAS DE MANANCIAIS DE ABASTECIMENTO PÚBLICO
 
 ###### Art. 4º {#art4}
-Tags: #manancial #area-influencia #aid #aii
 
 **Art. 4º, caput** {#art4_cpt} As áreas situadas a montante do ponto de captação nas bacias hidrográficas destinadas a manancial de abastecimento público estão delimitadas em:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} Área Diretamente Afetada (ADA) ou Área de Proteção Máxima: porção do território localizada imediatamente a montante do ponto de captação, sujeita às maiores restrições de uso e ocupação, em razão de seu impacto direto, imediato e mais significativo sobre a qualidade da água do manancial.
-- **Art. 4º, caput, inciso II** {#art4_cpt_inc2} #aid Área de Influência Direta (AID) ou Área de Controle Rigoroso: porção do território contígua à ADA, que exerce influência direta sobre o manancial, estando sujeita a restrições de uso e ocupação intermediárias, bem como a medidas específicas de controle, manejo e monitoramento ambiental.
-- **Art. 4º, caput, inciso III** {#art4_cpt_inc3} #aii Área de Influência Indireta (AII) ou Área de Gestão Preventiva: porção periférica da bacia de contribuição do manancial, não submetida a impactos diretos imediatos, mas suscetível a efeitos indiretos, cumulativos e de longo prazo, na qual se aplicam restrições de uso e ocupação mais brandas, compatíveis com a proteção e a sustentabilidade do sistema ambiental.
+- **Art. 4º, caput, inciso II** {#art4_cpt_inc2} Área de Influência Direta (AID) ou Área de Controle Rigoroso: porção do território contígua à ADA, que exerce influência direta sobre o manancial, estando sujeita a restrições de uso e ocupação intermediárias, bem como a medidas específicas de controle, manejo e monitoramento ambiental.
+- **Art. 4º, caput, inciso III** {#art4_cpt_inc3} Área de Influência Indireta (AII) ou Área de Gestão Preventiva: porção periférica da bacia de contribuição do manancial, não submetida a impactos diretos imediatos, mas suscetível a efeitos indiretos, cumulativos e de longo prazo, na qual se aplicam restrições de uso e ocupação mais brandas, compatíveis com a proteção e a sustentabilidade do sistema ambiental.
 
 **Art. 4º, parágrafo único** {#art4_par1u} A possibilidade de instalação de empreendimentos e/ou atividades com potencial poluidor na bacia será avaliada de acordo com os conceitos técnicos de ADA, AID e AII [[#anexo1|previstos no ANEXO I]] e exemplificados no [[#anexo2|ANEXO II]] da presente Instrução Normativa, salvo previsão mais restritiva em demais legislações.
 
@@ -101,79 +97,71 @@ Tags: #manancial #area-influencia #aid #aii
 ### Seção I – Da Área Diretamente Afetada - ADA
 
 ###### Art. 5º {#art5}
-Tags: #manancial #proibicao #industria #efluente #residuo-perigoso #hospital #suinocultura #bovinocultura #combustivel #camara-tecnica-mananciais
 
 **Art. 5º, caput** {#art5_cpt} Fica proibida a instalação de novos empreendimentos e/ou atividades nas delimitações classificadas como Área Diretamente Afetada (ADA), abrangendo as seguintes tipologias de alto potencial poluidor ou degradador:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} indústrias que contemplem geração de efluentes líquidos com alto potencial poluidor, tais como:
-  - **Art. 5º, caput, inciso I, alínea "a"** {#art5_cpt_inc1_alia} #mandioca beneficiamento de mandioca;
-  - **Art. 5º, caput, inciso I, alínea "b"** {#art5_cpt_inc1_alib} #sucroalcooleira usinas de açúcar e destilarias de álcool ou biocombustíveis;
-  - **Art. 5º, caput, inciso I, alínea "c"** {#art5_cpt_inc1_alic} #industria-metalurgica metalúrgicas com linhas de tratamento de superfície;
-  - **Art. 5º, caput, inciso I, alínea "d"** {#art5_cpt_inc1_alid} #galvanoplastia galvanoplastias e outras especificas de tratamento de superfície;
-  - **Art. 5º, caput, inciso I, alínea "e"** {#art5_cpt_inc1_alie} #industria-quimica #agrotoxico indústrias químicas: agrotóxicos e produtos de controle ambiental, de seus produtos técnicos e afins, refinarias de petróleo e produtos petroquímicos;
-  - **Art. 5º, caput, inciso I, alínea "f"** {#art5_cpt_inc1_alif} #papel-celulose indústrias de celulose e papel;
-  - **Art. 5º, caput, inciso I, alínea "g"** {#art5_cpt_inc1_alig} #industria-textil indústrias têxteis com processos de lavagem, tinturaria ou estamparia;
-  - **Art. 5º, caput, inciso I, alínea "h"** {#art5_cpt_inc1_alih} #curtume curtumes.
-- **Art. 5º, caput, inciso II** {#art5_cpt_inc2} #gerenciamento-residuo gerenciamento de resíduos:
+  - **Art. 5º, caput, inciso I, alínea "a"** {#art5_cpt_inc1_alia} beneficiamento de mandioca;
+  - **Art. 5º, caput, inciso I, alínea "b"** {#art5_cpt_inc1_alib} usinas de açúcar e destilarias de álcool ou biocombustíveis;
+  - **Art. 5º, caput, inciso I, alínea "c"** {#art5_cpt_inc1_alic} metalúrgicas com linhas de tratamento de superfície;
+  - **Art. 5º, caput, inciso I, alínea "d"** {#art5_cpt_inc1_alid} galvanoplastias e outras especificas de tratamento de superfície;
+  - **Art. 5º, caput, inciso I, alínea "e"** {#art5_cpt_inc1_alie} indústrias químicas: agrotóxicos e produtos de controle ambiental, de seus produtos técnicos e afins, refinarias de petróleo e produtos petroquímicos;
+  - **Art. 5º, caput, inciso I, alínea "f"** {#art5_cpt_inc1_alif} indústrias de celulose e papel;
+  - **Art. 5º, caput, inciso I, alínea "g"** {#art5_cpt_inc1_alig} indústrias têxteis com processos de lavagem, tinturaria ou estamparia;
+  - **Art. 5º, caput, inciso I, alínea "h"** {#art5_cpt_inc1_alih} curtumes.
+- **Art. 5º, caput, inciso II** {#art5_cpt_inc2} gerenciamento de resíduos:
   - **Art. 5º, caput, inciso II, alínea "a"** {#art5_cpt_inc2_alia} Aterros sanitários e industriais;
   - **Art. 5º, caput, inciso II, alínea "b"** {#art5_cpt_inc2_alib} Unidades de armazenamento, preparo e/ou tratamento de resíduos perigosos;
   - **Art. 5º, caput, inciso II, alínea "c"** {#art5_cpt_inc2_alic} áreas de transbordo de resíduos.
-- **Art. 5º, caput, inciso III** {#art5_cpt_inc3} #hospital hospitais que não estejam conectados à rede coletora de esgotos.
-- **Art. 5º, caput, inciso IV** {#art5_cpt_inc4} #suinocultura #bovinocultura suinoculturas e bovinoculturas em sistemas de confinamento.
+- **Art. 5º, caput, inciso III** {#art5_cpt_inc3} hospitais que não estejam conectados à rede coletora de esgotos.
+- **Art. 5º, caput, inciso IV** {#art5_cpt_inc4} suinoculturas e bovinoculturas em sistemas de confinamento.
 - **Art. 5º, caput, inciso V** {#art5_cpt_inc5} terminais de granéis líquidos.
-- **Art. 5º, caput, inciso VI** {#art5_cpt_inc6} #combustivel bases de distribuição de combustíveis.
+- **Art. 5º, caput, inciso VI** {#art5_cpt_inc6} bases de distribuição de combustíveis.
 
 **Art. 5º, parágrafo único** {#art5_par1u} A relação de tipologias no [[#art5_cpt_inc1_alie|item e, inciso I, do caput deste artigo]] é exemplificativa, aplicando-se a vedação às demais atividades com potencial de poluição dos recursos hídricos equivalente ou superior, mediante análise da Câmara Técnica de Mananciais, a ser instituída por Portaria do Instituto Água e Terra – IAT.
 
 ###### Art. 6º {#art6}
-Tags: #manancial #proibicao #lancamento #efluente
 
 **Art. 6º, caput** {#art6_cpt} Fica proibido o lançamento de efluentes e/ou esgoto tratados em corpos hídricos da ADA.
 
 ###### Art. 7º {#art7}
-Tags: #manancial #efluente #rede-esgoto #infiltracao
 
 **Art. 7º, caput** {#art7_cpt} A instalação de novos empreendimentos e/ou atividades nas áreas classificadas em ADA, devem atender os seguintes critérios:
 - **Art. 7º, caput, inciso I** {#art7_cpt_inc1} efluentes líquidos, gerados em empreendimentos e/ou atividades não enquadrados no [[#art5|Art. 5°]], poderão:
   - **Art. 7º, caput, inciso I, alínea "a"** {#art7_cpt_inc1_alia} ser lançados em rede pública coletora de esgoto a qual deverá ter seu lançamento fora da ADA;
   - **Art. 7º, caput, inciso I, alínea "b"** {#art7_cpt_inc1_alib} ser tratados e posterior lançamento fora dos limites da ADA, às expensas do empreendedor, preferencialmente à jusante do ponto de captação;
-- **Art. 7º, caput, inciso II** {#art7_cpt_inc2} #infiltracao a infiltração no solo só será permitida para efluentes domésticos tratados;
+- **Art. 7º, caput, inciso II** {#art7_cpt_inc2} a infiltração no solo só será permitida para efluentes domésticos tratados;
 
 **Art. 7º, § 1º** {#art7_par1} Quando o lançamento for afastado para montante da ADA, dentro da área de bacia de manancial, devem ser respeitados os critérios da AID ou AII ([[#art8|Seção II e III]]).
 
-**Art. 7º, § 2º** {#art7_par2} #infiltracao Fica proibida a infiltração de qualquer tipo de efluente na área de abrangência do aquífero Karst.
+**Art. 7º, § 2º** {#art7_par2} Fica proibida a infiltração de qualquer tipo de efluente na área de abrangência do aquífero Karst.
 
 ### Seção II – Da Área de Influência Direta – AID
 
 ###### Art. 8º {#art8}
-Tags: #manancial #aid #efluente #lancamento
 
 **Art. 8º, caput** {#art8_cpt} Os empreendimentos e/ou atividades previstos no [[#art5|art. 5º]] poderão ser admitidos na AID, mediante análise técnica fundamentada, desde que não apresentem potencial de agravamento da poluição do manancial e, cumulativamente:
 - **Art. 8º, caput, inciso I** {#art8_cpt_inc1} não gerarem efluentes líquidos; ou
 - **Art. 8º, caput, inciso II** {#art8_cpt_inc2} em caso de geração efluentes líquidos devem ser tratados e posteriormente lançados para fora dos limites da AID, às expensas do empreendedor, preferencialmente à jusante do ponto de captação e, se lançados na AII devem ser respeitados os critérios estabelecidos para essa área.
 
 ###### Art. 9º {#art9}
-Tags: #manancial #aid #efluente #outorga #zona-mistura #enquadramento
 
 **Art. 9º, caput** {#art9_cpt} Para a instalação de novos empreendimentos e/ou atividades em áreas classificadas como AID, não enquadrados no [[#art8|art. 8°]], o lançamento de efluentes líquidos tratados deverá atender aos limites estabelecidos na Outorga de Recursos Hídricos e na Licença Ambiental, bem como à classe de enquadramento aprovada pelo Comitê de Bacia, após a zona de mistura.
 
 ### Seção III – Da Área de Influência Indireta – AII
 
 ###### Art. 10 {#art10}
-Tags: #manancial #aii #proibicao #efluente #classe-2 #enquadramento
 
 **Art. 10, caput** {#art10_cpt} Fica proibida a instalação de novos empreendimentos e/ou atividades elencados no [[#art5|Art. 5º]], exceto quando:
 - **Art. 10, caput, inciso I** {#art10_cpt_inc1} não gerarem efluentes líquidos; ou
 - **Art. 10, caput, inciso II** {#art10_cpt_inc2} em caso de geração efluentes líquidos devem ser tratados e o lançamento atender aos limites estabelecidos para a [[resolucao-conama-357-2005#art15|Classe 2]] ou mais restritivo de acordo com o respectivo enquadramento.
 
 ###### Art. 11 {#art11}
-Tags: #manancial #aii #efluente #outorga
 
 **Art. 11, caput** {#art11_cpt} A instalação de novos empreendimentos e/ou atividades nas áreas classificadas em AII, não enquadrados no [[#art10|art. 10]], devem atender, no lançamento do efluente líquido tratado, os limites estabelecidos na Outorga de Recursos Hídricos e na Licença Ambiental.
 
 ### Seção IV – Do Parcelamento do solo para fins habitacionais
 
 ###### Art. 12 {#art12}
-Tags: #manancial #parcelamento-solo #empreendimento-imobiliario
 
 **Art. 12, caput** {#art12_cpt} A implantação de novos empreendimentos de parcelamento de solo (loteamento, condomínios, entre outros) não poderá ultrapassar a Capacidade de Suporte do Território (CST).
 
@@ -190,43 +178,36 @@ Qrio – vazão do rio (L/s) determinada a partir da curva com 95% de permanênc
 ### Seção V – Da Gestão de Efluentes Líquidos
 
 ###### Art. 14 {#art14}
-Tags: #efluente #reuso-efluente
 
 **Art. 14, caput** {#art14_cpt} Nos casos em que o lançamento de efluentes for permitido por esta Instrução Normativa, o tratamento deverá empregar a Melhor Tecnologia Disponível (MTD), bem como implementar práticas de gestão de efluentes com vistas ao uso eficiente da água, à aplicação de técnicas para redução da geração e melhoria da qualidade de efluentes gerados e à utilização de técnica de reúso de parte ou da totalidade dos efluentes.
 
 ## CAPÍTULO V – DA RENOVAÇÃO DE LICENCIAMENTO E OUTORGA
 
 ###### Art. 15 {#art15}
-Tags: #renovacao #outorga #manancial #lancamento
 
 **Art. 15, caput** {#art15_cpt} A renovação do licenciamento e da outorga de recursos hídricos para empreendimentos já instalados e em operação nas áreas de bacia de manancial, com lançamento de efluentes em corpo hídrico, deverá atender o disposto no [[#art16|art. 16]].
 
 ## CAPÍTULO VI – DAS DISPOSIÇÕES TRANSITÓRIAS E FINAIS
 
 ###### Art. 16 {#art16}
-Tags: #prazo #manancial #camara-tecnica-mananciais
 
 **Art. 16, caput** {#art16_cpt} Empreendimentos e/ou atividades já instalados e em operação nas áreas de bacias mananciais - ADA, AID e AII, que não atendam ao disposto nesta Instrução Normativa, deverão apresentar planos de adequação em até 12 (doze) meses da publicação desta Instrução Normativa, contemplando adequações do sistema de tratamento de efluentes, ponto de lançamento do efluente e demais medidas mitigadoras, conforme critérios técnicos estabelecidos pelo órgão ambiental para cumprimento desta Instrução Normativa.
 
 **Art. 16, parágrafo único** {#art16_par1u} Os planos de adequação serão analisados por Câmara Técnica de Mananciais do IAT, a ser instituída por portaria do Instituto Água e Terra – IAT.
 
 ###### Art. 17 {#art17}
-Tags: #sancao #infracao-ambiental
 
 **Art. 17, caput** {#art17_cpt} O descumprimento das disposições desta Instrução Normativa sujeitará os infratores às sanções previstas na legislação ambiental vigente, sem prejuízo de outras medidas cabíveis.
 
 ###### Art. 18 {#art18}
-Tags: #outorga
 
 **Art. 18, caput** {#art18_cpt} Os procedimentos de licenciamento ambiental de empreendimentos e/ou e para empreendimentos e/ou atividades já instalados nas áreas de bacias mananciais - ADA, AID e AII, de outorga para usos de recursos hídricos já instalados, protocolados até a data da entrada em vigor desta Instrução Normativa permanecerão sujeitos às normas vigentes à época da solicitação, observada a necessidade de cumprimento do [[#art15|art. 15]].
 
 ###### Art. 19 {#art19}
-Tags: #manancial
 
 **Art. 19, caput** {#art19_cpt} A delimitação das Áreas de Proteção de Bacias Mananciais está disponível no GeoPR ( https://geopr.iat.pr.gov.br) no mapa, camada “das Áreas de Proteção de Bacias Mananciais”.
 
 ###### Art. 20 {#art20}
-Tags: #vigencia
 
 **Art. 20, caput** {#art20_cpt} Esta Instrução Normativa entra em vigor na data de sua publicação.
 
@@ -238,14 +219,13 @@ Tags: #vigencia
 ## ANEXOS
 
 ### ANEXO I {#anexo1}
-Tags: #manancial #area-influencia #aid #aii #raio-protecao
 
 *(Tipo 3: conteúdo normativo. Metodologia de delimitação das áreas de proteção, citada no [[#art4_par1u|art. 4º, parágrafo único]]. A página do anexo não traz o título "ANEXO I"; ver Notas de transcrição.)*
 
 
 **Metodologia para Cálculo do Índice Integrado de Vulnerabilidade e Delimitação da ADA, AID e AII**
 
-- **Anexo I, linha 1** {#anexo1_lin1} #area-influencia A delimitação das áreas de proteção de mananciais — Área Diretamente Afetada (ADA), Área de Influência Direta (AID) e Área de Influência Indireta (AII) — foi realizada com base no Índice Integrado de Vulnerabilidade de Bacias de Mananciais (IIVBM), desenvolvido a partir de uma abordagem multicritério.
+- **Anexo I, linha 1** {#anexo1_lin1} A delimitação das áreas de proteção de mananciais — Área Diretamente Afetada (ADA), Área de Influência Direta (AID) e Área de Influência Indireta (AII) — foi realizada com base no Índice Integrado de Vulnerabilidade de Bacias de Mananciais (IIVBM), desenvolvido a partir de uma abordagem multicritério.
 - **Anexo I, linha 2** {#anexo1_lin2} O índice integra variáveis físicas, hidrológicas, ambientais e socioeconômicas que influenciam a geração, o transporte e a atenuação de contaminantes na bacia hidrográfica contribuinte ao ponto de captação. Os pesos de cada componente foram definidos por julgamento técnico especializado, considerando a relevância relativa dos fatores na geração, transporte e atenuação de contaminantes em mananciais superficiais.
 
 **1. Cálculo do Índice Integrado de Vulnerabilidade**
@@ -268,10 +248,10 @@ Tags: #manancial #area-influencia #aid #aii #raio-protecao
 
 **Anexo I, Tabela 1** {#anexo1_tab1} Graduação da área de drenagem (item 2.1) (sem título no original)
 
-- **Anexo I, Tabela 1, linha 1** {#anexo1_tab1_lin1} #area-drenagem Ad: ≤ 200 km² | Pontuação: 15 pontos
-- **Anexo I, Tabela 1, linha 2** {#anexo1_tab1_lin2} #area-drenagem Ad: Entre 200 e ≤ 600 km² | Pontuação: 10 pontos
-- **Anexo I, Tabela 1, linha 3** {#anexo1_tab1_lin3} #area-drenagem Ad: Entre 600 e ≤ 1.500 km² | Pontuação: 5 pontos
-- **Anexo I, Tabela 1, linha 4** {#anexo1_tab1_lin4} #area-drenagem Ad: >1.500 km² | Pontuação: 0 ponto
+- **Anexo I, Tabela 1, linha 1** {#anexo1_tab1_lin1} Ad: ≤ 200 km² | Pontuação: 15 pontos
+- **Anexo I, Tabela 1, linha 2** {#anexo1_tab1_lin2} Ad: Entre 200 e ≤ 600 km² | Pontuação: 10 pontos
+- **Anexo I, Tabela 1, linha 3** {#anexo1_tab1_lin3} Ad: Entre 600 e ≤ 1.500 km² | Pontuação: 5 pontos
+- **Anexo I, Tabela 1, linha 4** {#anexo1_tab1_lin4} Ad: >1.500 km² | Pontuação: 0 ponto
 
 
 **2.2 Comprimento do curso principal (L)**
@@ -337,10 +317,10 @@ Tags: #manancial #area-influencia #aid #aii #raio-protecao
 
 **Anexo I, Tabela 4** {#anexo1_tab4} Graduação do tipo de solo (item 2.6) (sem título no original)
 
-- **Anexo I, Tabela 4, linha 1** {#anexo1_tab4_lin1} #textura-solo %solo arenoso: ≤ 25% | Pontuação: 5 pontos
-- **Anexo I, Tabela 4, linha 2** {#anexo1_tab4_lin2} #textura-solo %solo arenoso: Entre 25% e ≤ 50% | Pontuação: 3 pontos
-- **Anexo I, Tabela 4, linha 3** {#anexo1_tab4_lin3} #textura-solo %solo arenoso: Entre 50% e ≤ 75% | Pontuação: 1 ponto
-- **Anexo I, Tabela 4, linha 4** {#anexo1_tab4_lin4} #textura-solo %solo arenoso: >75% | Pontuação: 0 ponto
+- **Anexo I, Tabela 4, linha 1** {#anexo1_tab4_lin1} %solo arenoso: ≤ 25% | Pontuação: 5 pontos
+- **Anexo I, Tabela 4, linha 2** {#anexo1_tab4_lin2} %solo arenoso: Entre 25% e ≤ 50% | Pontuação: 3 pontos
+- **Anexo I, Tabela 4, linha 3** {#anexo1_tab4_lin3} %solo arenoso: Entre 50% e ≤ 75% | Pontuação: 1 ponto
+- **Anexo I, Tabela 4, linha 4** {#anexo1_tab4_lin4} %solo arenoso: >75% | Pontuação: 0 ponto
 
 
 **2.7 Presença de reservatórios**
@@ -354,8 +334,8 @@ Tags: #manancial #area-influencia #aid #aii #raio-protecao
 
 **Anexo I, Tabela 5** {#anexo1_tab5} Graduação da presença de reservatórios (item 2.7) (sem título no original)
 
-- **Anexo I, Tabela 5, linha 1** {#anexo1_tab5_lin1} #reservatorio Presença de reservatório: Sim | Pontuação: 0 ponto
-- **Anexo I, Tabela 5, linha 2** {#anexo1_tab5_lin2} #reservatorio Presença de reservatório: Não | Pontuação: 5 pontos
+- **Anexo I, Tabela 5, linha 1** {#anexo1_tab5_lin1} Presença de reservatório: Sim | Pontuação: 0 ponto
+- **Anexo I, Tabela 5, linha 2** {#anexo1_tab5_lin2} Presença de reservatório: Não | Pontuação: 5 pontos
 
 
 **2.8 Uso e cobertura do solo (florestal e agrícola)**
@@ -372,9 +352,9 @@ Tags: #manancial #area-influencia #aid #aii #raio-protecao
 
 **Anexo I, Tabela 6** {#anexo1_tab6} Graduação do uso e cobertura do solo (item 2.8) (sem título no original)
 
-- **Anexo I, Tabela 6, linha 1** {#anexo1_tab6_lin1} #uso-solo %florestal e %agrícola: %agrícola> %florestal | Pontuação: 10 pontos
-- **Anexo I, Tabela 6, linha 2** {#anexo1_tab6_lin2} #uso-solo %florestal e %agrícola: %agrícola ≤ %florestal e %florestal >50% da bacia | Pontuação: 0 ponto
-- **Anexo I, Tabela 6, linha 3** {#anexo1_tab6_lin3} #uso-solo %florestal e %agrícola: Demais situações | Pontuação: 5 pontos
+- **Anexo I, Tabela 6, linha 1** {#anexo1_tab6_lin1} %florestal e %agrícola: %agrícola> %florestal | Pontuação: 10 pontos
+- **Anexo I, Tabela 6, linha 2** {#anexo1_tab6_lin2} %florestal e %agrícola: %agrícola ≤ %florestal e %florestal >50% da bacia | Pontuação: 0 ponto
+- **Anexo I, Tabela 6, linha 3** {#anexo1_tab6_lin3} %florestal e %agrícola: Demais situações | Pontuação: 5 pontos
 
 
 **2.9 Uso do solo urbano**
@@ -388,10 +368,10 @@ Tags: #manancial #area-influencia #aid #aii #raio-protecao
 
 **Anexo I, Tabela 7** {#anexo1_tab7} Graduação do uso do solo urbano (item 2.9) (sem título no original)
 
-- **Anexo I, Tabela 7, linha 1** {#anexo1_tab7_lin1} #area-urbana %urbano: ≤ 2,5% | Pontuação: 0 ponto
-- **Anexo I, Tabela 7, linha 2** {#anexo1_tab7_lin2} #area-urbana %urbano: Entre 2,5% e ≤ 10% | Pontuação: 5 pontos
-- **Anexo I, Tabela 7, linha 3** {#anexo1_tab7_lin3} #area-urbana %urbano: Entre 10% e ≤ 20% | Pontuação: 10 pontos
-- **Anexo I, Tabela 7, linha 4** {#anexo1_tab7_lin4} #area-urbana %urbano: >20% | Pontuação: 15 pontos
+- **Anexo I, Tabela 7, linha 1** {#anexo1_tab7_lin1} %urbano: ≤ 2,5% | Pontuação: 0 ponto
+- **Anexo I, Tabela 7, linha 2** {#anexo1_tab7_lin2} %urbano: Entre 2,5% e ≤ 10% | Pontuação: 5 pontos
+- **Anexo I, Tabela 7, linha 3** {#anexo1_tab7_lin3} %urbano: Entre 10% e ≤ 20% | Pontuação: 10 pontos
+- **Anexo I, Tabela 7, linha 4** {#anexo1_tab7_lin4} %urbano: >20% | Pontuação: 15 pontos
 
 
 **2.10 Densidade de domicílios**
@@ -421,27 +401,26 @@ Tags: #manancial #area-influencia #aid #aii #raio-protecao
 
 **Anexo I, Tabela 9** {#anexo1_tab9} Graduação dos domicílios sem coleta de esgoto (item 2.11) (sem título no original)
 
-- **Anexo I, Tabela 9, linha 1** {#anexo1_tab9_lin1} #esgotamento-sanitario %sem coleta: ≤ 10% | Pontuação: 0 ponto
-- **Anexo I, Tabela 9, linha 2** {#anexo1_tab9_lin2} #esgotamento-sanitario %sem coleta: Entre 10% e ≤ 25% | Pontuação: 5 pontos
-- **Anexo I, Tabela 9, linha 3** {#anexo1_tab9_lin3} #esgotamento-sanitario %sem coleta: >25% | Pontuação: 10 pontos
+- **Anexo I, Tabela 9, linha 1** {#anexo1_tab9_lin1} %sem coleta: ≤ 10% | Pontuação: 0 ponto
+- **Anexo I, Tabela 9, linha 2** {#anexo1_tab9_lin2} %sem coleta: Entre 10% e ≤ 25% | Pontuação: 5 pontos
+- **Anexo I, Tabela 9, linha 3** {#anexo1_tab9_lin3} %sem coleta: >25% | Pontuação: 10 pontos
 
 
 **3. Delimitação da ADA, AID e AII**
 
-- **Anexo I, linha 74** {#anexo1_lin74} #raio-protecao O valor final do IIVBM é utilizado como parâmetro para definição de raios de proteção a partir do ponto de captação.
+- **Anexo I, linha 74** {#anexo1_lin74} O valor final do IIVBM é utilizado como parâmetro para definição de raios de proteção a partir do ponto de captação.
 - **Anexo I, linha 75** {#anexo1_lin75} A metodologia adota proporcionalidade direta entre vulnerabilidade e extensão das áreas protegidas:
 - **Anexo I, linha 76** {#anexo1_lin76} • Maior IIVBM → maiores raios → maior área protegida
 - **Anexo I, linha 77** {#anexo1_lin77} • Menor IIVBM → menores raios → menor área protegida
 - **Anexo I, linha 78** {#anexo1_lin78} A delimitação da ADA e da AID foi calibrada de modo que os limites espaciais representem, áreas com potencial de contribuição ao ponto de captação em aproximadamente 2 horas e 6 horas, respectivamente, de deslocamento superficial, tendo como referência o comportamento hidrológico da bacia hidrográfica, representado, entre outros fatores, pelo tempo de concentração. Os coeficientes utilizados na conversão do IIVBM em distância foram definidos de forma a manter proporcionalidade entre a vulnerabilidade da bacia e a extensão das áreas sujeitas a restrições, buscando alinhamento com diretrizes e práticas internacionalmente adotadas para proteção de mananciais destinados ao abastecimento público, que utilizam tempos de resposta e de deslocamento de contaminantes como referência para o estabelecimento de zonas de proteção graduadas.
-- **Anexo I, linha 79** {#anexo1_lin79} #raio-protecao Os raios de proteção definidos nesta metodologia são expressos em quilômetros e calculados a partir do valor final do IIVBM. Os raios não são traçados por distância euclidiana (em linha reta). Os valores correspondem à extensão longitudinal da rede hidrográfica a montante do ponto de captação, calculada pela soma dos comprimentos dos segmentos de drenagem hidraulicamente conectados. Dessa forma, a delimitação acompanha os cursos d’água, considerando seus meandros, confluências e demais características da rede de drenagem, representando a distância efetiva de deslocamento ao longo do sistema hídrico.
+- **Anexo I, linha 79** {#anexo1_lin79} Os raios de proteção definidos nesta metodologia são expressos em quilômetros e calculados a partir do valor final do IIVBM. Os raios não são traçados por distância euclidiana (em linha reta). Os valores correspondem à extensão longitudinal da rede hidrográfica a montante do ponto de captação, calculada pela soma dos comprimentos dos segmentos de drenagem hidraulicamente conectados. Dessa forma, a delimitação acompanha os cursos d’água, considerando seus meandros, confluências e demais características da rede de drenagem, representando a distância efetiva de deslocamento ao longo do sistema hídrico.
 - **Anexo I, linha 80** {#anexo1_lin80} A aplicação dos raios resulta na delimitação das seguintes áreas:
-- **Anexo I, linha 81** {#anexo1_lin81} #raio-protecao 3.1 Área Diretamente Afetada (ADA) (raio em quilômetros = IIVBM/4): Área delimitada pelo raio de proteção mais restritivo, correspondente à zona de maior sensibilidade à contaminação, onde devem ser adotadas restrições mais rigorosas de uso e ocupação do solo.
-- **Anexo I, linha 82** {#anexo1_lin82} #aid #raio-protecao 3.2 Área de Influência Direta (AID) (raio em quilômetros = IIVBM): Área compreendida entre os limites da ADA e o raio de proteção externo, onde ainda há influência direta sobre a qualidade da água, sendo necessárias medidas de controle com grau intermediário de restrições.
-- **Anexo I, linha 83** {#anexo1_lin83} #aii 3.3 Área de Influência Indireta (AII) (= restante da área da bacia hidrográfica contribuinte) Área correspondente ao restante da bacia hidrográfica contribuinte ao ponto de captação, não incluída na ADA e AID, onde os impactos ocorrem de forma indireta e há restrições mais brandas.
-- **Anexo I, linha 84** {#anexo1_lin84} #aid #aii Quando remanescem parcelas residuais da bacia hidrográfica após a aplicação dos critérios de delimitação, e as áreas já classificadas como ADA e AID correspondem conjuntamente a mais de 85% da área total considerada, tais remanescentes são incorporados à classe de restrição imediatamente anterior (ADA ou AID), conforme o caso, com o objetivo de evitar descontinuidades espaciais, fragmentação excessiva das áreas de proteção e a formação de polígonos residuais de reduzida expressão territorial, sem prejuízo aos objetivos de proteção do manancial.
+- **Anexo I, linha 81** {#anexo1_lin81} 3.1 Área Diretamente Afetada (ADA) (raio em quilômetros = IIVBM/4): Área delimitada pelo raio de proteção mais restritivo, correspondente à zona de maior sensibilidade à contaminação, onde devem ser adotadas restrições mais rigorosas de uso e ocupação do solo.
+- **Anexo I, linha 82** {#anexo1_lin82} 3.2 Área de Influência Direta (AID) (raio em quilômetros = IIVBM): Área compreendida entre os limites da ADA e o raio de proteção externo, onde ainda há influência direta sobre a qualidade da água, sendo necessárias medidas de controle com grau intermediário de restrições.
+- **Anexo I, linha 83** {#anexo1_lin83} 3.3 Área de Influência Indireta (AII) (= restante da área da bacia hidrográfica contribuinte) Área correspondente ao restante da bacia hidrográfica contribuinte ao ponto de captação, não incluída na ADA e AID, onde os impactos ocorrem de forma indireta e há restrições mais brandas.
+- **Anexo I, linha 84** {#anexo1_lin84} Quando remanescem parcelas residuais da bacia hidrográfica após a aplicação dos critérios de delimitação, e as áreas já classificadas como ADA e AID correspondem conjuntamente a mais de 85% da área total considerada, tais remanescentes são incorporados à classe de restrição imediatamente anterior (ADA ou AID), conforme o caso, com o objetivo de evitar descontinuidades espaciais, fragmentação excessiva das áreas de proteção e a formação de polígonos residuais de reduzida expressão territorial, sem prejuízo aos objetivos de proteção do manancial.
 
 ### ANEXO II {#anexo2}
-Tags: #manancial #aid #aii
 
 **MAPA EXEMPLIFICATIVO DAS ÁREAS DE PROTEÇÃO DE BACIAS MANANCIAIS (ADA, AID E AII)**
 
@@ -449,7 +428,7 @@ Tags: #manancial #aid #aii
 
 - **Anexo II, linha 1** {#anexo2_lin1} *[Mapa: bacia contribuinte a uma captação no Rio Tibagi, entre Ponta Grossa, Palmeira, Campo Largo, Balsa Nova, Porto Amazonas e Lapa. A ADA (azul) ocupa a porção logo a montante da captação, a noroeste, junto a Ponta Grossa; a AID (verde) ocupa a faixa seguinte, a oeste; a AII (bege) cobre o restante da bacia, ao sul e a leste, incluindo Palmeira. Hidrografia em azul, áreas urbanizadas em rosa e limites municipais tracejados. Canto inferior direito: mapa de localização do Paraná com a bacia do Tibagi em azul e a área do mapa marcada em vermelho.]*
 - **Anexo II, linha 2** {#anexo2_lin2} Título do mapa: INSTRUÇÃO NORMATIVA Nº XX/2026 | Áreas de Proteção de Bacias Mananciais | Bacia Hidrográfica do Rio Tibagi
-- **Anexo II, linha 3** {#anexo2_lin3} #aid #aii Legenda: Hidrografia; Áreas Urbanizadas; Limites Municipais; Áreas de Proteção de Bacias Mananciais – Tipo da Área de Proteção: Área Diretamente Afetada (ADA); Área de Influência Direta (AID); Área de Influência Indireta (AII)
+- **Anexo II, linha 3** {#anexo2_lin3} Legenda: Hidrografia; Áreas Urbanizadas; Limites Municipais; Áreas de Proteção de Bacias Mananciais – Tipo da Área de Proteção: Área Diretamente Afetada (ADA); Área de Influência Direta (AID); Área de Influência Indireta (AII)
 - **Anexo II, linha 4** {#anexo2_lin4} Escala: 1:175.000 | SRC: SIRGAS 2000 | Projeção: UTM Fuso 22 S | Hidrografia: IAT, 2020 (1:50.000) | Limites Municipais: IAT, 2026 (1:50.000) | Áreas de Proteção de Mananciais: IAT, 2026 (1:50.000) | Áreas Urbanizadas: IBGE, 2019 (1:50.000) | Mapa Base: Topographic/ESRI
 - **Anexo II, linha 5** {#anexo2_lin5} Créditos: Núcleo de Inteligência Geográfica e da Informação - NGI; Instituto Água e Terra; brasão do Governo do Paraná
 

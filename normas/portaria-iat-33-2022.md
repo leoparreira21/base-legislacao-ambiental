@@ -43,7 +43,6 @@ RESOLVE
 
 ###### Art. 1º {#art1}
 
-Tags: #residuo-solido #aproveitamento-energetico #licenciamento-ambiental #prazo
 
 **Art. 1º, caput** {#art1_cpt} Fica proibida a disposição final de resíduos que apresentem características de inflamabilidade, em aterros industriais localizados no Estado do Paraná:
 
@@ -77,7 +76,6 @@ Tags: #residuo-solido #aproveitamento-energetico #licenciamento-ambiental #prazo
 
 ###### Art. 2º {#art2}
 
-Tags: #residuo-solido #aproveitamento-energetico
 
 **Art. 2º, caput** {#art2_cpt} Esta Portaria entrará em vigor na data da sua publicação, ficando em consequência revogados o art. 9º da [[portaria-iap-212-2019|Portaria IAP nº 212, de 12 de setembro de 2019]] e a [[portaria-iat-248-2020|Portaria IAT nº 248, de 20 de agosto de 2020]], bem como demais disposições em contrário.
 

@@ -37,12 +37,10 @@ fonte: "Planalto – texto compilado da Lei nº 9.985/2000 impresso do navegador
 ## CAPÍTULO I – DAS DISPOSIÇÕES PRELIMINARES
 
 ###### Art. 1º {#art1}
-Tags: #unidade-conservacao
 
 **Art. 1º, caput** {#art1_cpt} Esta Lei institui o Sistema Nacional de Unidades de Conservação da Natureza – SNUC, estabelece critérios e normas para a criação, implantação e gestão das unidades de conservação.
 
 ###### Art. 2º {#art2}
-Tags: #zona-amortecimento #plano-manejo #corredor-ecologico #infracao-ambiental #recurso-hidrico #fauna #flora
 
 **Art. 2º, caput** {#art2_cpt} Para os fins previstos nesta Lei, entende-se por:
 
@@ -69,12 +67,10 @@ Tags: #zona-amortecimento #plano-manejo #corredor-ecologico #infracao-ambiental 
 ## CAPÍTULO II – DO SISTEMA NACIONAL DE UNIDADES DE CONSERVAÇÃO DA NATUREZA – SNUC
 
 ###### Art. 3º {#art3}
-Tags: #unidade-conservacao
 
 **Art. 3º, caput** {#art3_cpt} O Sistema Nacional de Unidades de Conservação da Natureza - SNUC é constituído pelo conjunto das unidades de conservação federais, estaduais e municipais, de acordo com o disposto nesta Lei.
 
 ###### Art. 4º {#art4}
-Tags: #comunidade-tradicional #especie-ameacada #recurso-hidrico #turismo #pesquisa #incentivo
 
 **Art. 4º, caput** {#art4_cpt} O SNUC tem os seguintes objetivos:
 
@@ -93,7 +89,6 @@ Tags: #comunidade-tradicional #especie-ameacada #recurso-hidrico #turismo #pesqu
 - **Art. 4º, caput, inciso XIII** {#art4_cpt_inc13} proteger os recursos naturais necessários à subsistência de populações tradicionais, respeitando e valorizando seu conhecimento e sua cultura e promovendo-as social e economicamente.
 
 ###### Art. 5º {#art5}
-Tags: #corredor-ecologico #comunidade-tradicional #regularizacao-fundiaria #recurso-hidrico #turismo #pesquisa
 
 **Art. 5º, caput** {#art5_cpt} O SNUC será regido por diretrizes que:
 
@@ -112,7 +107,6 @@ Tags: #corredor-ecologico #comunidade-tradicional #regularizacao-fundiaria #recu
 - **Art. 5º, caput, inciso XIII** {#art5_cpt_inc13} busquem proteger grandes áreas por meio de um conjunto integrado de unidades de conservação de diferentes categorias, próximas ou contíguas, e suas respectivas zonas de amortecimento e corredores ecológicos, integrando as diferentes atividades de preservação da natureza, uso sustentável dos recursos naturais e restauração e recuperação dos ecossistemas.
 
 ###### Art. 6º {#art6}
-Tags: #conselho-meio-ambiente #ibama
 Alterações: caput, inciso III: redação dada pela [[lei-federal-11516-2007|Lei nº 11.516, de 2007]]
 
 **Art. 6º, caput** {#art6_cpt} O SNUC será gerido pelos seguintes órgãos, com as respectivas atribuições:
@@ -126,7 +120,6 @@ Alterações: caput, inciso III: redação dada pela [[lei-federal-11516-2007|Le
 ## CAPÍTULO III – DAS CATEGORIAS DE UNIDADES DE CONSERVAÇÃO
 
 ###### Art. 7º {#art7}
-Tags: #infracao-ambiental
 
 **Art. 7º, caput** {#art7_cpt} As unidades de conservação integrantes do SNUC dividem-se em dois grupos, com características específicas:
 
@@ -138,7 +131,6 @@ Tags: #infracao-ambiental
 **Art. 7º, § 2º** {#art7_par2} O objetivo básico das Unidades de Uso Sustentável é compatibilizar a conservação da natureza com o uso sustentável de parcela dos seus recursos naturais.
 
 ###### Art. 8º {#art8}
-Tags: #unidade-conservacao
 
 **Art. 8º, caput** {#art8_cpt} O grupo das Unidades de Proteção Integral é composto pelas seguintes categorias de unidade de conservação:
 
@@ -149,7 +141,6 @@ Tags: #unidade-conservacao
 - **Art. 8º, caput, inciso V** {#art8_cpt_inc5} Refúgio de Vida Silvestre.
 
 ###### Art. 9º {#art9}
-Tags: #plano-manejo #regularizacao-fundiaria #turismo #pesquisa #reserva-legal
 
 **Art. 9º, caput** {#art9_cpt} A Estação Ecológica tem como objetivo a preservação da natureza e a realização de pesquisas científicas.
 
@@ -167,7 +158,6 @@ Tags: #plano-manejo #regularizacao-fundiaria #turismo #pesquisa #reserva-legal
 - **Art. 9º, § 4º, inciso IV** {#art9_par4_inc4} pesquisas científicas cujo impacto sobre o ambiente seja maior do que aquele causado pela simples observação ou pela coleta controlada de componentes dos ecossistemas, em uma área correspondente a no máximo três por cento da extensão total da unidade e até o limite de um mil e quinhentos hectares.
 
 ###### Art. 10 {#art10}
-Tags: #regularizacao-fundiaria #turismo #pesquisa #reserva-legal
 
 **Art. 10, caput** {#art10_cpt} A Reserva Biológica tem como objetivo a preservação integral da biota e demais atributos naturais existentes em seus limites, sem interferência humana direta ou modificações ambientais, excetuando-se as medidas de recuperação de seus ecossistemas alterados e as ações de manejo necessárias para recuperar e preservar o equilíbrio natural, a diversidade biológica e os processos ecológicos naturais.
 
@@ -178,7 +168,6 @@ Tags: #regularizacao-fundiaria #turismo #pesquisa #reserva-legal
 **Art. 10, § 3º** {#art10_par3} A pesquisa científica depende de autorização prévia do órgão responsável pela administração da unidade e está sujeita às condições e restrições por este estabelecidas, bem como àquelas previstas em regulamento.
 
 ###### Art. 11 {#art11}
-Tags: #plano-manejo #regularizacao-fundiaria #turismo #pesquisa #reserva-legal
 
 **Art. 11, caput** {#art11_cpt} O Parque Nacional tem como objetivo básico a preservação de ecossistemas naturais de grande relevância ecológica e beleza cênica, possibilitando a realização de pesquisas científicas e o desenvolvimento de atividades de educação e interpretação ambiental, de recreação em contato com a natureza e de turismo ecológico.
 
@@ -191,7 +180,6 @@ Tags: #plano-manejo #regularizacao-fundiaria #turismo #pesquisa #reserva-legal
 **Art. 11, § 4º** {#art11_par4} As unidades dessa categoria, quando criadas pelo Estado ou Município, serão denominadas, respectivamente, Parque Estadual e Parque Natural Municipal.
 
 ###### Art. 12 {#art12}
-Tags: #plano-manejo #regularizacao-fundiaria #turismo #reserva-legal
 
 **Art. 12, caput** {#art12_cpt} O Monumento Natural tem como objetivo básico preservar sítios naturais raros, singulares ou de grande beleza cênica.
 
@@ -202,7 +190,6 @@ Tags: #plano-manejo #regularizacao-fundiaria #turismo #reserva-legal
 **Art. 12, § 3º** {#art12_par3} A visitação pública está sujeita às condições e restrições estabelecidas no Plano de Manejo da unidade, às normas estabelecidas pelo órgão responsável por sua administração e àquelas previstas em regulamento.
 
 ###### Art. 13 {#art13}
-Tags: #plano-manejo #regularizacao-fundiaria #turismo #pesquisa #fauna #flora #reserva-legal
 
 **Art. 13, caput** {#art13_cpt} O Refúgio de Vida Silvestre tem como objetivo proteger ambientes naturais onde se asseguram condições para a existência ou reprodução de espécies ou comunidades da flora local e da fauna residente ou migratória.
 
@@ -215,7 +202,6 @@ Tags: #plano-manejo #regularizacao-fundiaria #turismo #pesquisa #fauna #flora #r
 **Art. 13, § 4º** {#art13_par4} A pesquisa científica depende de autorização prévia do órgão responsável pela administração da unidade e está sujeita às condições e restrições por este estabelecidas, bem como àquelas previstas em regulamento.
 
 ###### Art. 14 {#art14}
-Tags: #fauna #reserva-legal
 
 **Art. 14, caput** {#art14_cpt} Constituem o Grupo das Unidades de Uso Sustentável as seguintes categorias de unidade de conservação:
 
@@ -228,7 +214,6 @@ Tags: #fauna #reserva-legal
 - **Art. 14, caput, inciso VII** {#art14_cpt_inc7} Reserva Particular do Patrimônio Natural.
 
 ###### Art. 15 {#art15}
-Tags: #conselho-meio-ambiente #turismo #pesquisa #reserva-legal
 
 **Art. 15, caput** {#art15_cpt} A Área de Proteção Ambiental é uma área em geral extensa, com um certo grau de ocupação humana, dotada de atributos abióticos, bióticos, estéticos ou culturais especialmente importantes para a qualidade de vida e o bem-estar das populações humanas, e tem como objetivos básicos proteger a diversidade biológica, disciplinar o processo de ocupação e assegurar a sustentabilidade do uso dos recursos naturais. *(Regulamento)*
 
@@ -243,7 +228,6 @@ Tags: #conselho-meio-ambiente #turismo #pesquisa #reserva-legal
 **Art. 15, § 5º** {#art15_par5} A Área de Proteção Ambiental disporá de um Conselho presidido pelo órgão responsável por sua administração e constituído por representantes dos órgãos públicos, de organizações da sociedade civil e da população residente, conforme se dispuser no regulamento desta Lei.
 
 ###### Art. 16 {#art16}
-Tags: #reserva-legal
 
 **Art. 16, caput** {#art16_cpt} A Área de Relevante Interesse Ecológico é uma área em geral de pequena extensão, com pouca ou nenhuma ocupação humana, com características naturais extraordinárias ou que abriga exemplares raros da biota regional, e tem como objetivo manter os ecossistemas naturais de importância regional ou local e regular o uso admissível dessas áreas, de modo a compatibilizá-lo com os objetivos de conservação da natureza.
 
@@ -252,7 +236,6 @@ Tags: #reserva-legal
 **Art. 16, § 2º** {#art16_par2} Respeitados os limites constitucionais, podem ser estabelecidas normas e restrições para a utilização de uma propriedade privada localizada em uma Área de Relevante Interesse Ecológico.
 
 ###### Art. 17 {#art17}
-Tags: #plano-manejo #conselho-meio-ambiente #comunidade-tradicional #regularizacao-fundiaria #turismo #pesquisa #reserva-legal
 
 **Art. 17, caput** {#art17_cpt} A Floresta Nacional é uma área com cobertura florestal de espécies predominantemente nativas e tem como objetivo básico o uso múltiplo sustentável dos recursos florestais e a pesquisa científica, com ênfase em métodos para exploração sustentável de florestas nativas. *(Regulamento)*
 
@@ -269,7 +252,6 @@ Tags: #plano-manejo #conselho-meio-ambiente #comunidade-tradicional #regularizac
 **Art. 17, § 6º** {#art17_par6} A unidade desta categoria, quando criada pelo Estado ou Município, será denominada, respectivamente, Floresta Estadual e Floresta Municipal.
 
 ###### Art. 18 {#art18}
-Tags: #plano-manejo #eia-rima #conselho-meio-ambiente #comunidade-tradicional #regularizacao-fundiaria #turismo #pesquisa
 
 **Art. 18, caput** {#art18_cpt} A Reserva Extrativista é uma área utilizada por populações extrativistas tradicionais, cuja subsistência baseia-se no extrativismo e, complementarmente, na agricultura de subsistência e na criação de animais de pequeno porte, e tem como objetivos básicos proteger os meios de vida e a cultura dessas populações, e assegurar o uso sustentável dos recursos naturais da unidade. *(Regulamento)*
 
@@ -288,7 +270,6 @@ Tags: #plano-manejo #eia-rima #conselho-meio-ambiente #comunidade-tradicional #r
 **Art. 18, § 7º** {#art18_par7} A exploração comercial de recursos madeireiros só será admitida em bases sustentáveis e em situações especiais e complementares às demais atividades desenvolvidas na Reserva Extrativista, conforme o disposto em regulamento e no Plano de Manejo da unidade.
 
 ###### Art. 19 {#art19}
-Tags: #regularizacao-fundiaria #turismo #pesquisa #fauna #reserva-legal
 
 **Art. 19, caput** {#art19_cpt} A Reserva de Fauna é uma área natural com populações animais de espécies nativas, terrestres ou aquáticas, residentes ou migratórias, adequadas para estudos técnico-científicos sobre o manejo econômico sustentável de recursos faunísticos.
 
@@ -301,7 +282,6 @@ Tags: #regularizacao-fundiaria #turismo #pesquisa #fauna #reserva-legal
 **Art. 19, § 4º** {#art19_par4} A comercialização dos produtos e subprodutos resultantes das pesquisas obedecerá ao disposto nas leis sobre fauna e regulamentos.
 
 ###### Art. 20 {#art20}
-Tags: #plano-manejo #eia-rima #corredor-ecologico #conselho-meio-ambiente #comunidade-tradicional #regularizacao-fundiaria #turismo
 
 **Art. 20, caput** {#art20_cpt} A Reserva de Desenvolvimento Sustentável é uma área natural que abriga populações tradicionais, cuja existência baseia-se em sistemas sustentáveis de exploração dos recursos naturais, desenvolvidos ao longo de gerações e adaptados às condições ecológicas locais e que desempenham um papel fundamental na proteção da natureza e na manutenção da diversidade biológica. *(Regulamento)*
 
@@ -323,7 +303,6 @@ Tags: #plano-manejo #eia-rima #corredor-ecologico #conselho-meio-ambiente #comun
 **Art. 20, § 6º** {#art20_par6} O Plano de Manejo da Reserva de Desenvolvimento Sustentável definirá as zonas de proteção integral, de uso sustentável e de amortecimento e corredores ecológicos, e será aprovado pelo Conselho Deliberativo da unidade.
 
 ###### Art. 21 {#art21}
-Tags: #plano-manejo #turismo #pesquisa #reserva-legal
 
 **Art. 21, caput** {#art21_cpt} A Reserva Particular do Patrimônio Natural é uma área privada, gravada com perpetuidade, com o objetivo de conservar a diversidade biológica. *(Regulamento)*
 
@@ -340,7 +319,6 @@ Tags: #plano-manejo #turismo #pesquisa #reserva-legal
 ## CAPÍTULO IV – DA CRIAÇÃO, IMPLANTAÇÃO E GESTÃO DAS UNIDADES DE CONSERVAÇÃO
 
 ###### Art. 22 {#art22}
-Tags: #consulta-publica
 
 **Art. 22, caput** {#art22_cpt} As unidades de conservação são criadas por ato do Poder Público. *(Regulamento)*
 
@@ -359,7 +337,6 @@ Tags: #consulta-publica
 **Art. 22, § 7º** {#art22_par7} A desafetação ou redução dos limites de uma unidade de conservação só pode ser feita mediante lei específica.
 
 ###### Art. 22-A {#art22-a}
-Tags: #unidade-conservacao
 Alterações: caput, § 1º, § 2º: incluído pela [[lei-federal-11132-2005|Lei nº 11.132, de 2005]]
 
 **Art. 22-A, caput** {#art22-a_cpt} #incluido O Poder Público poderá, ressalvadas as atividades agropecuárias e outras atividades econômicas em andamento e obras públicas licenciadas, na forma da lei, decretar limitações administrativas provisórias ao exercício de atividades e empreendimentos efetiva ou potencialmente causadores de degradação ambiental, para a realização de estudos com vistas na criação de Unidade de Conservação, quando, a critério do órgão ambiental competente, houver risco de dano grave aos recursos naturais ali existentes. *(Vide [[medida-provisoria-239-2005|Medida Provisória nº 239, de 2005]])* *(Incluído pela [[lei-federal-11132-2005|Lei nº 11.132, de 2005]])* *(Vide Decreto de 2 de janeiro de 2005)*
@@ -369,7 +346,6 @@ Alterações: caput, § 1º, § 2º: incluído pela [[lei-federal-11132-2005|Lei
 **Art. 22-A, § 2º** {#art22-a_par2} #incluido A destinação final da área submetida ao disposto neste artigo será definida no prazo de 7 (sete) meses, improrrogáveis, findo o qual fica extinta a limitação administrativa. *(Vide [[medida-provisoria-239-2005|Medida Provisória nº 239, de 2005]])* *(Incluído pela [[lei-federal-11132-2005|Lei nº 11.132, de 2005]])*
 
 ###### Art. 23 {#art23}
-Tags: #plano-manejo #comunidade-tradicional #especie-ameacada
 
 **Art. 23, caput** {#art23_cpt} A posse e o uso das áreas ocupadas pelas populações tradicionais nas Reservas Extrativistas e Reservas de Desenvolvimento Sustentável serão regulados por contrato, conforme se dispuser no regulamento desta Lei.
 
@@ -382,12 +358,10 @@ Tags: #plano-manejo #comunidade-tradicional #especie-ameacada
 - **Art. 23, § 2º, inciso III** {#art23_par2_inc3} demais normas estabelecidas na legislação, no Plano de Manejo da unidade de conservação e no contrato de concessão de direito real de uso.
 
 ###### Art. 24 {#art24}
-Tags: #unidade-conservacao
 
 **Art. 24, caput** {#art24_cpt} O subsolo e o espaço aéreo, sempre que influírem na estabilidade do ecossistema, integram os limites das unidades de conservação. *(Regulamento)*
 
 ###### Art. 25 {#art25}
-Tags: #zona-amortecimento #corredor-ecologico #reserva-legal
 
 **Art. 25, caput** {#art25_cpt} As unidades de conservação, exceto Área de Proteção Ambiental e Reserva Particular do Patrimônio Natural, devem possuir uma zona de amortecimento e, quando conveniente, corredores ecológicos. *(Regulamento)*
 
@@ -396,14 +370,12 @@ Tags: #zona-amortecimento #corredor-ecologico #reserva-legal
 **Art. 25, § 2º** {#art25_par2} Os limites da zona de amortecimento e dos corredores ecológicos e as respectivas normas de que trata o § 1º poderão ser definidas no ato de criação da unidade ou posteriormente.
 
 ###### Art. 26 {#art26}
-Tags: #unidade-conservacao
 
 **Art. 26, caput** {#art26_cpt} Quando existir um conjunto de unidades de conservação de categorias diferentes ou não, próximas, justapostas ou sobrepostas, e outras áreas protegidas públicas ou privadas, constituindo um mosaico, a gestão do conjunto deverá ser feita de forma integrada e participativa, considerando-se os seus distintos objetivos de conservação, de forma a compatibilizar a presença da biodiversidade, a valorização da sociodiversidade e o desenvolvimento sustentável no contexto regional. *(Regulamento)*
 
 **Art. 26, parágrafo único** {#art26_par1u} O regulamento desta Lei disporá sobre a forma de gestão integrada do conjunto das unidades.
 
 ###### Art. 27 {#art27}
-Tags: #zona-amortecimento #plano-manejo #corredor-ecologico
 Alterações: § 4º: incluído pela [[lei-federal-11460-2007|Lei nº 11.460, de 2007]]
 
 **Art. 27, caput** {#art27_cpt} As unidades de conservação devem dispor de um Plano de Manejo. *(Regulamento)*
@@ -422,24 +394,20 @@ Alterações: § 4º: incluído pela [[lei-federal-11460-2007|Lei nº 11.460, de
 - **Art. 27, § 4º, inciso IV** {#art27_par4_inc4} #incluido situações de risco do organismo geneticamente modificado à biodiversidade. *(Incluído pela [[lei-federal-11460-2007|Lei nº 11.460, de 2007]])*
 
 ###### Art. 28 {#art28}
-Tags: #plano-manejo #comunidade-tradicional
 
 **Art. 28, caput** {#art28_cpt} São proibidas, nas unidades de conservação, quaisquer alterações, atividades ou modalidades de utilização em desacordo com os seus objetivos, o seu Plano de Manejo e seus regulamentos.
 
 **Art. 28, parágrafo único** {#art28_par1u} Até que seja elaborado o Plano de Manejo, todas as atividades e obras desenvolvidas nas unidades de conservação de proteção integral devem se limitar àquelas destinadas a garantir a integridade dos recursos que a unidade objetiva proteger, assegurando-se às populações tradicionais porventura residentes na área as condições e os meios necessários para a satisfação de suas necessidades materiais, sociais e culturais.
 
 ###### Art. 29 {#art29}
-Tags: #conselho-meio-ambiente #comunidade-tradicional #reserva-legal
 
 **Art. 29, caput** {#art29_cpt} Cada unidade de conservação do grupo de Proteção Integral disporá de um Conselho Consultivo, presidido pelo órgão responsável por sua administração e constituído por representantes de órgãos públicos, de organizações da sociedade civil, por proprietários de terras localizadas em Refúgio de Vida Silvestre ou Monumento Natural, quando for o caso, e, na hipótese prevista no § 2º do art. 42, das populações tradicionais residentes, conforme se dispuser em regulamento e no ato de criação da unidade. *(Regulamento)*
 
 ###### Art. 30 {#art30}
-Tags: #unidade-conservacao
 
 **Art. 30, caput** {#art30_cpt} As unidades de conservação podem ser geridas por organizações da sociedade civil de interesse público com objetivos afins aos da unidade, mediante instrumento a ser firmado com o órgão responsável por sua gestão. *(Regulamento)*
 
 ###### Art. 31 {#art31}
-Tags: #plano-manejo #reserva-legal
 
 **Art. 31, caput** {#art31_cpt} É proibida a introdução nas unidades de conservação de espécies não autóctones.
 
@@ -448,7 +416,6 @@ Tags: #plano-manejo #reserva-legal
 **Art. 31, § 2º** {#art31_par2} Nas áreas particulares localizadas em Refúgios de Vida Silvestre e Monumentos Naturais podem ser criados animais domésticos e cultivadas plantas considerados compatíveis com as finalidades da unidade, de acordo com o que dispuser o seu Plano de Manejo.
 
 ###### Art. 32 {#art32}
-Tags: #comunidade-tradicional #pesquisa #fauna #flora #reserva-legal
 
 **Art. 32, caput** {#art32_cpt} Os órgãos executores articular-se-ão com a comunidade científica com o propósito de incentivar o desenvolvimento de pesquisas sobre a fauna, a flora e a ecologia das unidades de conservação e sobre formas de uso sustentável dos recursos naturais, valorizando-se o conhecimento das populações tradicionais.
 
@@ -459,19 +426,16 @@ Tags: #comunidade-tradicional #pesquisa #fauna #flora #reserva-legal
 **Art. 32, § 3º** {#art32_par3} Os órgãos competentes podem transferir para as instituições de pesquisa nacionais, mediante acordo, a atribuição de aprovar a realização de pesquisas científicas e de credenciar pesquisadores para trabalharem nas unidades de conservação.
 
 ###### Art. 33 {#art33}
-Tags: #reserva-legal
 
 **Art. 33, caput** {#art33_cpt} A exploração comercial de produtos, subprodutos ou serviços obtidos ou desenvolvidos a partir dos recursos naturais, biológicos, cênicos ou culturais ou da exploração da imagem de unidade de conservação, exceto Área de Proteção Ambiental e Reserva Particular do Patrimônio Natural, dependerá de prévia autorização e sujeitará o explorador a pagamento, conforme disposto em regulamento. *(Regulamento)*
 
 ###### Art. 34 {#art34}
-Tags: #unidade-conservacao
 
 **Art. 34, caput** {#art34_cpt} Os órgãos responsáveis pela administração das unidades de conservação podem receber recursos ou doações de qualquer natureza, nacionais ou internacionais, com ou sem encargos, provenientes de organizações privadas ou públicas ou de pessoas físicas que desejarem colaborar com a sua conservação.
 
 **Art. 34, parágrafo único** {#art34_par1u} A administração dos recursos obtidos cabe ao órgão gestor da unidade, e estes serão utilizados exclusivamente na sua implantação, gestão e manutenção.
 
 ###### Art. 35 {#art35}
-Tags: #regularizacao-fundiaria #turismo
 
 **Art. 35, caput** {#art35_cpt} Os recursos obtidos pelas unidades de conservação do Grupo de Proteção Integral mediante a cobrança de taxa de visitação e outras rendas decorrentes de arrecadação, serviços e atividades da própria unidade serão aplicados de acordo com os seguintes critérios:
 
@@ -480,7 +444,6 @@ Tags: #regularizacao-fundiaria #turismo
 - **Art. 35, caput, inciso III** {#art35_cpt_inc3} até cinqüenta por cento, e não menos que quinze por cento, na implementação, manutenção e gestão de outras unidades de conservação do Grupo de Proteção Integral.
 
 ###### Art. 36 {#art36}
-Tags: #zona-amortecimento #compensacao-financeira #eia-rima #licenciamento-ambiental
 Alterações: § 3º: redação dada pela [[lei-federal-15190-2025#art61_cpt_alt1|Lei nº 15.190, de 2025]]; § 4º: incluído pela [[lei-federal-13668-2018|Lei nº 13.668, de 2018]]
 
 **Art. 36, caput** {#art36_cpt} Nos casos de licenciamento ambiental de empreendimentos de significativo impacto ambiental, assim considerado pelo órgão ambiental competente, com fundamento em estudo de impacto ambiental e respectivo relatório - EIA/RIMA, o empreendedor é obrigado a apoiar a implantação e manutenção de unidade de conservação do Grupo de Proteção Integral, de acordo com o disposto neste artigo e no regulamento desta Lei. *(Regulamento)*
@@ -496,17 +459,14 @@ Alterações: § 3º: redação dada pela [[lei-federal-15190-2025#art61_cpt_alt
 ## CAPÍTULO V – DOS INCENTIVOS, ISENÇÕES E PENALIDADES
 
 ###### Art. 37 {#art37}
-Tags: #unidade-conservacao
 
 **Art. 37, caput** {#art37_cpt} (VETADO)
 
 ###### Art. 38 {#art38}
-Tags: #corredor-ecologico #infracao-ambiental #fauna #flora
 
 **Art. 38, caput** {#art38_cpt} A ação ou omissão das pessoas físicas ou jurídicas que importem inobservância aos preceitos desta Lei e a seus regulamentos ou resultem em dano à flora, à fauna e aos demais atributos naturais das unidades de conservação, bem como às suas instalações e às zonas de amortecimento e corredores ecológicos, sujeitam os infratores às sanções previstas em lei.
 
 ###### Art. 39 {#art39}
-Tags: #unidade-conservacao
 
 **Art. 39, caput** {#art39_cpt} Dê-se ao [[lei-federal-9605-1998#art40|art. 40 da Lei nº 9.605, de 12 de fevereiro de 1998]], a seguinte redação:
 
@@ -514,7 +474,6 @@ Tags: #unidade-conservacao
 > Art. 40. (VETADO) § 1º Entende-se por Unidades de Conservação de Proteção Integral as Estações Ecológicas, as Reservas Biológicas, os Parques Nacionais, os Monumentos Naturais e os Refúgios de Vida Silvestre. (NR) § 2º A ocorrência de dano afetando espécies ameaçadas de extinção no interior das Unidades de Conservação de Proteção Integral será considerada circunstância agravante para a fixação da pena. (NR) § 3º [...]
 
 ###### Art. 40 {#art40}
-Tags: #unidade-conservacao
 
 **Art. 40, caput** {#art40_cpt} Acrescente-se à [[lei-federal-9605-1998|Lei nº 9.605, de 1998]], o seguinte art. 40-A:
 
@@ -524,7 +483,6 @@ Tags: #unidade-conservacao
 ## CAPÍTULO VI – DAS RESERVAS DA BIOSFERA
 
 ###### Art. 41 {#art41}
-Tags: #biodiversidade #conselho-meio-ambiente #pesquisa
 
 **Art. 41, caput** {#art41_cpt} A Reserva da Biosfera é um modelo, adotado internacionalmente, de gestão integrada, participativa e sustentável dos recursos naturais, com os objetivos básicos de preservação da diversidade biológica, o desenvolvimento de atividades de pesquisa, o monitoramento ambiental, a educação ambiental, o desenvolvimento sustentável e a melhoria da qualidade de vida das populações. *(Regulamento)*
 
@@ -545,7 +503,6 @@ Tags: #biodiversidade #conselho-meio-ambiente #pesquisa
 ## CAPÍTULO VII – DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 ###### Art. 42 {#art42}
-Tags: #comunidade-tradicional #regularizacao-fundiaria
 
 **Art. 42, caput** {#art42_cpt} As populações tradicionais residentes em unidades de conservação nas quais sua permanência não seja permitida serão indenizadas ou compensadas pelas benfeitorias existentes e devidamente realocadas pelo Poder Público, em local e condições acordados entre as partes. *(Regulamento)*
 
@@ -556,19 +513,16 @@ Tags: #comunidade-tradicional #regularizacao-fundiaria
 **Art. 42, § 3º** {#art42_par3} Na hipótese prevista no § 2º, as normas regulando o prazo de permanência e suas condições serão estabelecidas em regulamento.
 
 ###### Art. 43 {#art43}
-Tags: #unidade-conservacao
 
 **Art. 43, caput** {#art43_cpt} O Poder Público fará o levantamento nacional das terras devolutas, com o objetivo de definir áreas destinadas à conservação da natureza, no prazo de cinco anos após a publicação desta Lei.
 
 ###### Art. 44 {#art44}
-Tags: #unidade-conservacao
 
 **Art. 44, caput** {#art44_cpt} As ilhas oceânicas e costeiras destinam-se prioritariamente à proteção da natureza e sua destinação para fins diversos deve ser precedida de autorização do órgão ambiental competente.
 
 **Art. 44, parágrafo único** {#art44_par1u} Estão dispensados da autorização citada no caput os órgãos que se utilizam das citadas ilhas por força de dispositivos legais ou quando decorrente de compromissos legais assumidos.
 
 ###### Art. 45 {#art45}
-Tags: #regularizacao-fundiaria
 
 **Art. 45, caput** {#art45_cpt} Excluem-se das indenizações referentes à regularização fundiária das unidades de conservação, derivadas ou não de desapropriação:
 
@@ -580,31 +534,26 @@ Tags: #regularizacao-fundiaria
 - **Art. 45, caput, inciso VI** {#art45_cpt_inc6} as áreas que não tenham prova de domínio inequívoco e anterior à criação da unidade.
 
 ###### Art. 46 {#art46}
-Tags: #zona-amortecimento #regularizacao-fundiaria #recurso-hidrico #reserva-legal
 
 **Art. 46, caput** {#art46_cpt} A instalação de redes de abastecimento de água, esgoto, energia e infra-estrutura urbana em geral, em unidades de conservação onde estes equipamentos são admitidos depende de prévia aprovação do órgão responsável por sua administração, sem prejuízo da necessidade de elaboração de estudos de impacto ambiental e outras exigências legais.
 
 **Art. 46, parágrafo único** {#art46_par1u} Esta mesma condição se aplica à zona de amortecimento das unidades do Grupo de Proteção Integral, bem como às áreas de propriedade privada inseridas nos limites dessas unidades e ainda não indenizadas.
 
 ###### Art. 47 {#art47}
-Tags: #recurso-hidrico
 
 **Art. 47, caput** {#art47_cpt} O órgão ou empresa, público ou privado, responsável pelo abastecimento de água ou que faça uso de recursos hídricos, beneficiário da proteção proporcionada por uma unidade de conservação, deve contribuir financeiramente para a proteção e implementação da unidade, de acordo com o disposto em regulamentação específica. *(Regulamento)*
 
 ###### Art. 48 {#art48}
-Tags: #unidade-conservacao
 
 **Art. 48, caput** {#art48_cpt} O órgão ou empresa, público ou privado, responsável pela geração e distribuição de energia elétrica, beneficiário da proteção oferecida por uma unidade de conservação, deve contribuir financeiramente para a proteção e implementação da unidade, de acordo com o disposto em regulamentação específica. *(Regulamento)*
 
 ###### Art. 49 {#art49}
-Tags: #zona-amortecimento
 
 **Art. 49, caput** {#art49_cpt} A área de uma unidade de conservação do Grupo de Proteção Integral é considerada zona rural, para os efeitos legais.
 
 **Art. 49, parágrafo único** {#art49_par1u} A zona de amortecimento das unidades de conservação de que trata este artigo, uma vez definida formalmente, não pode ser transformada em zona urbana.
 
 ###### Art. 50 {#art50}
-Tags: #especie-ameacada #recurso-hidrico #cadastro #ibama
 
 **Art. 50, caput** {#art50_cpt} O Ministério do Meio Ambiente organizará e manterá um Cadastro Nacional de Unidades de Conservação, com a colaboração do Ibama e dos órgãos estaduais e municipais competentes.
 
@@ -613,46 +562,38 @@ Tags: #especie-ameacada #recurso-hidrico #cadastro #ibama
 **Art. 50, § 2º** {#art50_par2} O Ministério do Meio Ambiente divulgará e colocará à disposição do público interessado os dados constantes do Cadastro.
 
 ###### Art. 51 {#art51}
-Tags: #unidade-conservacao
 
 **Art. 51, caput** {#art51_cpt} O Poder Executivo Federal submeterá à apreciação do Congresso Nacional, a cada dois anos, um relatório de avaliação global da situação das unidades de conservação federais do País.
 
 ###### Art. 52 {#art52}
-Tags: #unidade-conservacao
 
 **Art. 52, caput** {#art52_cpt} Os mapas e cartas oficiais devem indicar as áreas que compõem o SNUC.
 
 ###### Art. 53 {#art53}
-Tags: #especie-ameacada #fauna #flora #ibama
 
 **Art. 53, caput** {#art53_cpt} O Ibama elaborará e divulgará periodicamente uma relação revista e atualizada das espécies da flora e da fauna ameaçadas de extinção no território brasileiro.
 
 **Art. 53, parágrafo único** {#art53_par1u} O Ibama incentivará os competentes órgãos estaduais e municipais a elaborarem relações equivalentes abrangendo suas respectivas áreas de jurisdição.
 
 ###### Art. 54 {#art54}
-Tags: #especie-ameacada #ibama
 
 **Art. 54, caput** {#art54_cpt} O Ibama, excepcionalmente, pode permitir a captura de exemplares de espécies ameaçadas de extinção destinadas a programas de criação em cativeiro ou formação de coleções científicas, de acordo com o disposto nesta Lei e em regulamentação específica.
 
 ###### Art. 55 {#art55}
-Tags: #unidade-conservacao
 
 **Art. 55, caput** {#art55_cpt} As unidades de conservação e áreas protegidas criadas com base nas legislações anteriores e que não pertençam às categorias previstas nesta Lei serão reavaliadas, no todo ou em parte, no prazo de até dois anos, com o objetivo de definir sua destinação com base na categoria e função para as quais foram criadas, conforme o disposto no regulamento desta Lei. *(Regulamento)* *(Regulamento)*
 
 ###### Art. 56 {#art56}
-Tags: #unidade-conservacao
 
 **Art. 56, caput** {#art56_cpt} (VETADO)
 
 ###### Art. 57 {#art57}
-Tags: #unidade-conservacao
 
 **Art. 57, caput** {#art57_cpt} Os órgãos federais responsáveis pela execução das políticas ambiental e indigenista deverão instituir grupos de trabalho para, no prazo de cento e oitenta dias a partir da vigência desta Lei, propor as diretrizes a serem adotadas com vistas à regularização das eventuais superposições entre áreas indígenas e unidades de conservação.
 
 **Art. 57, parágrafo único** {#art57_par1u} No ato de criação dos grupos de trabalho serão fixados os participantes, bem como a estratégia de ação e a abrangência dos trabalhos, garantida a participação das comunidades envolvidas.
 
 ###### Art. 57-A {#art57-a}
-Tags: #zona-amortecimento #plano-manejo #reserva-legal
 Alterações: caput: incluído pela [[lei-federal-11460-2007|Lei nº 11.460, de 2007]]
 
 **Art. 57-A, caput** {#art57-a_cpt} #incluido O Poder Executivo estabelecerá os limites para o plantio de organismos geneticamente modificados nas áreas que circundam as unidades de conservação até que seja fixada sua zona de amortecimento e aprovado o seu respectivo Plano de Manejo. *(Incluído pela [[lei-federal-11460-2007|Lei nº 11.460, de 2007]])*
@@ -660,17 +601,14 @@ Alterações: caput: incluído pela [[lei-federal-11460-2007|Lei nº 11.460, de 
 **Art. 57-A, parágrafo único** {#art57-a_par1u} O disposto no [[#art57-a_cpt|caput]] deste artigo não se aplica às Áreas de Proteção Ambiental e Reservas de Particulares do Patrimônio Nacional. (Incluído pela [[lei-federal-11460-2007|Lei nº 11.460, de 2007]]) Regulamento.
 
 ###### Art. 58 {#art58}
-Tags: #unidade-conservacao
 
 **Art. 58, caput** {#art58_cpt} O Poder Executivo regulamentará esta Lei, no que for necessário à sua aplicação, no prazo de cento e oitenta dias a partir da data de sua publicação.
 
 ###### Art. 59 {#art59}
-Tags: #unidade-conservacao
 
 **Art. 59, caput** {#art59_cpt} Esta Lei entra em vigor na data de sua publicação.
 
 ###### Art. 60 {#art60}
-Tags: #unidade-conservacao
 
 **Art. 60, caput** {#art60_cpt} Revogam-se os arts. 5º e 6º da [[lei-federal-4771-1965|Lei nº 4.771, de 15 de setembro de 1965]]; o [[lei-federal-5197-1967#art5|art. 5º da Lei nº 5.197, de 3 de janeiro de 1967]]; e o [[lei-federal-6938-1981#art18|art. 18 da Lei nº 6.938, de 31 de agosto de 1981]].
 

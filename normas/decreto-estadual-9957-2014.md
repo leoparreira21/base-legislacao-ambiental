@@ -39,17 +39,14 @@ DECRETA:
 ## I – DISPOSIÇÕES GERAIS
 
 ###### Art. 1º {#art1}
-Tags: #outorga #recurso-hidrico
 
 **Art. 1º, caput** {#art1_cpt} O presente Decreto disciplina o regime de outorga de direitos de uso de recursos hídricos, de que tratam os [[lei-estadual-12726-1999#art12|artigos 12 a 18 da Lei Estadual nº 12.726, de 26 de novembro de 1999]].
 
 ###### Art. 2º {#art2}
-Tags: #outorga #outorga-direito #recurso-hidrico
 
 **Art. 2º, caput** {#art2_cpt} A outorga de direitos de uso de recursos hídricos, prevista no [[lei-estadual-12726-1999#art6_cpt_inc4|inciso IV do art. 6º da Lei Estadual nº 12.726/99]], é o ato administrativo que expressa os termos e as condições mediante as quais o Estado do Paraná permite, por prazo determinado, o uso de recursos hídricos
 
 ###### Art. 3º {#art3}
-Tags: #outorga #outorga-direito #disponibilidade-hidrica
 
 **Art. 3º, caput** {#art3_cpt} A outorga faculta simples direito de uso dos recursos hídricos de domínio do Estado do Paraná.
 
@@ -62,7 +59,6 @@ Tags: #outorga #outorga-direito #disponibilidade-hidrica
 ## II – DAS COMPETÊNCIAS DAS INSTITUIÇÕES INTEGRANTES DO SEGRH/ PR, RELATIVAS AO REGIME DE OUTORGA DE DIREITOS DE USO DE RECURSOS HÍDRICOS
 
 ###### Art. 4º {#art4}
-Tags: #competencia #segrh #aguasparana #cerh #comite-bacia #outorga
 
 **Art. 4º, caput** {#art4_cpt} Ao Poder Público Estadual compete, por intermédio do AGUASPARANÁ, também referido nesse regulamento como Poder Público Outorgante, nos termos do [[lei-estadual-12726-1999#art39-a_cpt_inc9|inciso IX do art. 39-A da Lei Estadual nº 12.726/99]], instituir e manter o regime de outorga de direitos de uso de recursos hídricos.
 
@@ -71,7 +67,6 @@ Tags: #competencia #segrh #aguasparana #cerh #comite-bacia #outorga
 ## III – DAS FINALIDADES DA OUTORGA DE DIREITOS DE USO
 
 ###### Art. 5º {#art5}
-Tags: #outorga #recurso-hidrico
 
 **Art. 5º, caput** {#art5_cpt} A outorga de direitos de uso de recursos hídricos tem como finalidades assegurar o controle quantitativo e qualitativo dos usos da água e disciplinar o exercício dos direitos de acesso à água, vinculando-as aos seguintes objetivos da Política Estadual de Recursos Hídricos:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} assegurar à atual e às futuras gerações a necessária disponibilidade de águas em padrões de qualidade adequados aos respectivos usos;
@@ -81,7 +76,6 @@ Tags: #outorga #recurso-hidrico
 ## IV – DOS USOS SUJEITOS À OUTORGA
 
 ###### Art. 6º {#art6}
-Tags: #outorga #recurso-hidrico #efluente #diluicao #aproveitamento-hidreletrico #agua-subterranea
 
 **Art. 6º, caput** {#art6_cpt} Estão sujeitos à outorga, independentemente da natureza pública ou privada dos usuários, os seguintes usos ou interferências em recursos hídricos:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} derivações ou captação de parcela de água existente em um corpo hídrico, para consumo final, inclusive abastecimento público, ou insumo de processo produtivo;
@@ -98,7 +92,6 @@ Tags: #outorga #recurso-hidrico #efluente #diluicao #aproveitamento-hidreletrico
 ## V – DOS USOS INDEPENDENTES DE OUTORGA
 
 ###### Art. 7º {#art7}
-Tags: #uso-insignificante #outorga
 
 **Art. 7º, caput** {#art7_cpt} Independem de outorga:
 - **Art. 7º, caput, inciso I** {#art7_cpt_inc1} as acumulações, derivações, captações e lançamentos considerados insignificantes;
@@ -112,21 +105,18 @@ Tags: #uso-insignificante #outorga
 ## VI – DO ENQUADRAMENTO JURÍDICO DOS ATOS ADMINISTRATIVOS DE OUTORGA
 
 ###### Art. 8º {#art8}
-Tags: #outorga-previa
 
 **Art. 8º, caput** {#art8_cpt} A outorga prévia é um ato administrativo que consiste em uma manifestação do Poder Público Outorgante, onde não se estabelece nenhuma relação negocial com o requerente, estando, entretanto, seu conteúdo garantido ao requerente, nos termos do [[#art3_par3|§ 3º do artigo 3º]], sendo este instrumento compatível com as finalidades a que se destina, ou seja, a avaliação preliminar do objeto do requerimento e o fornecimento de subsídios para outros procedimentos de licenciamentos.
 
 **Art. 8º, § 1º** {#art8_par1} A outorga prévia não estabelece direito de uso de recursos hídricos, correspondendo, por conseguinte, à manifestação prévia acerca do objeto requerido, reservando a vazão passível de outorga, de modo a possibilitar ao requerente prosseguir no planejamento e projeto do empreendimento, no atendimento às etapas de licenciamentos previstas nas legislações sobre uso e ocupação do solo, meio ambiente, exploração e aproveitamento de recursos naturais e, ainda, no cumprimento das demais disposições legais e regulamentares aplicáveis.
 
 ###### Art. 9º {#art9}
-Tags: #outorga-direito
 
 **Art. 9º, caput** {#art9_cpt} A outorga de direito de uso de recursos hídricos, com caráter de autorização é ato discricionário e unilateral que contempla, contudo, um conteúdo tipicamente negocial, de interesse recíproco do Poder Público Outorgante e do requerente, mas subordinando este, incondicionalmente, às condições impostas por aquele.
 
 ## VII – DOS PROCEDIMENTOS ADMINISTRATIVOS PARA O PROCESSAMENTO DOS REQUERIMENTOS DE OUTORGA
 
 ###### Art. 10 {#art10}
-Tags: #outorga-previa #outorga-direito #prazo
 
 **Art. 10, caput** {#art10_cpt} O processamento dos requerimentos de outorga compreende duas etapas distintas denominadas outorga prévia e outorga de direito de uso de recursos hídricos.
 
@@ -141,7 +131,6 @@ Tags: #outorga-previa #outorga-direito #prazo
 **Art. 10, § 5º** {#art10_par5} A inexistência da outorga prévia no processo administrativo correspondente, quando exigível, ensejará a nulidade da outorga de direito de uso de recursos hídricos
 
 ###### Art. 11 {#art11}
-Tags: #licenciamento-ambiental #outorga
 
 **Art. 11, caput** {#art11_cpt} O processamento administrativo dos requerimentos de outorga deverá articular-se com os procedimentos de licenciamentos, concessões, permissões e autorizações relativas a meio ambiente, aproveitamento de recursos naturais, uso do solo, prestação de serviços públicos, usos de bens públicos e a outras interferências com recursos hídricos, com os seguintes objetivos:
 - **Art. 11, caput, inciso I** {#art11_cpt_inc1} observar, nas diferentes esferas de governo, as competências das instituições públicas envolvidas.
@@ -149,12 +138,10 @@ Tags: #licenciamento-ambiental #outorga
 - **Art. 11, caput, inciso III** {#art11_cpt_inc3} agilizar a tramitação e análise dos processos, com a introdução de mecanismos de acompanhamento e controles administrativos, voltados ao atendimento das necessidades dos requerentes, de forma que o exercício dessas funções se vincule à estratégia de modernização da administração pública.
 
 ###### Art. 12 {#art12}
-Tags: #agua-subterranea #outorga-previa #outorga-direito
 
 **Art. 12, caput** {#art12_cpt} O processamento dos requerimentos de outorga visando a extração de água de aqüífero subterrâneo compreende obrigatoriamente duas etapas distintas, denominadas como anuência para perfuração de poço e outorga de direito de uso, que poderão ser incorporadas em um único processo administrativo.
 
 ###### Art. 13 {#art13}
-Tags: #outorga #renovacao #transferencia-titularidade
 
 **Art. 13, caput** {#art13_cpt} A outorga de direitos de uso de recursos hídricos deverá ser requerida junto ao Poder Público Outor gante, antes do início da operação do empreendimento.
 
@@ -167,7 +154,6 @@ Tags: #outorga #renovacao #transferencia-titularidade
 **Art. 13, § 4º** {#art13_par4} O outorgado poderá disponibilizar ao Poder Público Outorgante, por prazo igual ou superior a um ano, vazão parcial ou total de seu direito de uso de recursos hídricos, devendo o Poder Público Outorgante emitir ato administrativo estabelecendo as novas condições de outorga.
 
 ###### Art. 14 {#art14}
-Tags: #outorga #certidao-municipal
 
 **Art. 14, caput** {#art14_cpt} Na composição da documentação do processo administrativo devem constar, para a sua abertura, os elementos mencionados nos incisos a seguir, detalhados nos artigos [[#art16|16]] e [[#art17|17]] do presente regulamento a serem encaminhados por escrito ao Poder Público Outorgante, protocolados em sua sede ou nas Gerências de Bacia Hidrográficas ou SubGerências de Bacia Hidrográfica, na jurisdição onde se localizarem os usos de recursos hídricos requeridos.
 - **Art. 14, caput, inciso I** {#art14_cpt_inc1} dados gerais, pertinentes ao objeto do processo administrativo, compreendido em ambas as suas etapas de outorga prévia e outorga de direitos de uso, relativos a todos os usos, empreendimentos ou intervenções em recursos hídricos previstos nos [[#art6|incisos I a VI do artigo 6º]] desse regulamento;
@@ -177,7 +163,6 @@ Tags: #outorga #certidao-municipal
 **Art. 14, parágrafo único** {#art14_par1u} Ficam dispensados da apresentação da Certidão da Prefeitura os empreendimentos localizados ou atividades desenvolvidas comprovadamente em áreas rurais.
 
 ###### Art. 15 {#art15}
-Tags: #outorga #licenciamento-ambiental
 
 **Art. 15, caput** {#art15_cpt} Para a instrução do ato administrativo final de outorga de direitos de uso de recursos hídricos, deverão ser anexados ao processo, após a verificação e análise dos documentos juntados em sua abertura, os seguintes elementos, a serem encaminhados ao Poder Público Outorgante, da mesma forma como especificada no [[#art14|artigo 14]] deste regulamento:
 - **Art. 15, caput, inciso I** {#art15_cpt_inc1} informações de interesse para o processo de outorga provenientes de projetos de engenharia, relativos aos usos mencionados nos [[#art6|incisos I a VI do artigo 6º]] desse regulamento;
@@ -187,7 +172,6 @@ Tags: #outorga #licenciamento-ambiental
 **Art. 15, parágrafo único** {#art15_par1u} Para o atendimento ao disposto no [[#art15_cpt_inc1|inciso I deste artigo]], serão exigidas informações provenientes de projetos de engenharia, a serem estabelecidas no Manual Técnico de Outorgas, de que trata o [[#art37|artigo 37]] deste regulamento.
 
 ###### Art. 16 {#art16}
-Tags: #outorga #emolumento
 
 **Art. 16, caput** {#art16_cpt} Os dados gerais de que trata o [[#art14_cpt_inc1|inciso I do artigo 14]] deste regulamento compreendem:
 - **Art. 16, caput, inciso I** {#art16_cpt_inc1} requerimento de outorga;
@@ -200,12 +184,10 @@ Tags: #outorga #emolumento
 **Art. 16, § 2º** {#art16_par2} Os valores dos emolumentos a que se refere o [[#art16_cpt_inc4|inciso IV deste artigo]], serão determinados com base nos custos de publicação, tramitação e análise técnica dos requerimentos de outorga, sendo estabelecidos por ato próprio do Poder Público Outorgante e classificados, de acordo com o regime orçamentário do Governo do Estado, como receitas diversas.
 
 ###### Art. 17 {#art17}
-Tags: #art-anotacao #outorga
 
 **Art. 17, caput** {#art17_cpt} Os estudos e projetos a que se referem o [[#art14_cpt_inc2|inciso II do artigo 14]] e o [[#art15_cpt_inc1|inciso I do artigo 15]] deste regulamento devem ser elaborados sob a responsabilidade de profissionais habilitados, devidamente registrados nos seus respectivos Conselhos, sendo exigido para a composição da documentação do processo administrativo a apresentação da Anotação de Responsabilidade Técnica (ART) para cada projeto ou estudo apresentado.
 
 ###### Art. 18 {#art18}
-Tags: #outorga #manual-tecnico
 
 **Art. 18, caput** {#art18_cpt} Os dados e informações constantes de estudos preliminares, de concepção ou de viabilidade, a que se refere o [[#art14_cpt_inc2|inciso II do artigo 14]] deste regulamento, devem conter, no que couber, dados e especificações relativos a:
 - **Art. 18, caput, inciso I** {#art18_cpt_inc1} finalidades a que se destinam os usos, empreendimentos ou intervenções;
@@ -215,7 +197,6 @@ Tags: #outorga #manual-tecnico
 - **Art. 18, caput, inciso V** {#art18_cpt_inc5} informações pertinentes aos estudos preliminares, de concepção ou de viabilidade, relativos aos usos da água sujeitos à outorga pretendidos, a serem estabelecidas no Manual Técnico de Outorgas, de que trata o [[#art37|artigo 37]] deste regulamento.
 
 ###### Art. 19 {#art19}
-Tags: #outorga #prazo
 
 **Art. 19, caput** {#art19_cpt} O Poder Público Outorgante analisando, entre outros aspectos, o tipo, o porte e a localização dos usos objeto do requerimento de outorga, poderá reavaliar a conveniência e o propósito dos elementos referidos nos artigos [[#art14|14]] e [[#art15|15]] deste regulamento, o que poderá resultar em tratamento singular do requerimento, redefinindo-se os documentos, projetos e estudos necessários à abertura e às demais fases do processo administrativo.
 
@@ -226,7 +207,6 @@ Tags: #outorga #prazo
 **Art. 19, § 3º** {#art19_par3} O não atendimento às solicitações e aos prazos fixados pelo Poder Público Outorgante motivará o arquivamento do processo, devendo o requerente solicitar à abertura de novo processo administrativo, inclusive no que se refere ao recolhimento dos emolumentos correspondentes ao ressarcimento dos custos dos serviços de publicação, tramitação e análise do requerimento, de que trata o [[#art17|inciso IV do artigo 17]] deste regulamento.
 
 ###### Art. 20 {#art20}
-Tags: #outorga #prazo #licenciamento-ambiental
 
 **Art. 20, caput** {#art20_cpt} O Poder Público Outorgante disporá de um prazo máximo de 90 (noventa) dias, contados da data de abertura do processo administrativo, para deliberar sobre o requerimento, ressalvados os casos em que houver necessidade de licenciamento ambiental, quando o prazo máximo para deliberação se estenderá a 60 (sessenta) dias contados a partir da data de anexação ao processo administrativo da cópia da licença ambiental pertinente, de que trata o [[#art15_cpt_inc3|inciso III do artigo 15]] deste regulamento.
 
@@ -243,7 +223,6 @@ Tags: #outorga #prazo #licenciamento-ambiental
 ## VIII – DOS PROCEDIMENTOS TÉCNICOS PARA ANÁLISE DOS REQUERIMENTOS DE OUTORGA
 
 ###### Art. 21 {#art21}
-Tags: #enquadramento #bacia-hidrografica #outorga
 
 **Art. 21, caput** {#art21_cpt} A análise técnica dos requerimentos de outorga de direito de uso está condicionada, nos termos do [[lei-estadual-12726-1999#art14|art. 14 da Lei Estadual nº 12.726/99]], aos seguintes critérios:
 - **Art. 21, caput, inciso I** {#art21_cpt_inc1} as prioridades de uso estabelecidas nos Planos de Bacia Hidrográfica;
@@ -254,17 +233,14 @@ Tags: #enquadramento #bacia-hidrografica #outorga
 **Art. 21, parágrafo único** {#art21_par1u} Para as análises técnicas de outor gas de direitos de uso, o Poder Público Outorgante poderá articular-se com outros órgãos, entidades e instituições.
 
 ###### Art. 22 {#art22}
-Tags: #manual-tecnico #outorga
 
 **Art. 22, caput** {#art22_cpt} Os procedimentos e demais critérios a serem adotadas na análise técnica dos requerimentos de outorga serão detalhados no Manual Técnico de Outorga constante no [[#art37|artigo 37]] deste regulamento.
 
 ###### Art. 23 {#art23}
-Tags: #outorga
 
 **Art. 23, caput** {#art23_cpt} Cumpridas as formalidades administrativas e concluídas as análises técnicas, ao final de cada etapa, de outorga prévia e de outorga de direitos de uso, componentes do procedimento administrativo, os processos serão submetidos à decisão do Diretor Presidente do Poder Público Outorgante que expedirá, observadas as disposições do Regulamento do AGUASPARANÁ, os atos de outorga prévia e de autorização de direito de uso por meio de publicações na imprensa oficial do Poder Executivo do Estado do Paraná,
 
 ###### Art. 24 {#art24}
-Tags: #outorga #prazo
 
 **Art. 24, caput** {#art24_cpt} Nos atos de outorga de direito e de outorga prévia deverão constar:
 - **Art. 24, caput, inciso I** {#art24_cpt_inc1} a fundamentação jurídica da competência do Poder Público Outorgante para praticar o ato administrativo;
@@ -275,7 +251,6 @@ Tags: #outorga #prazo
 - **Art. 24, caput, inciso VI** {#art24_cpt_inc6} requisitos e condicionantes.
 
 ###### Art. 25 {#art25}
-Tags: #licenciamento-ambiental #agua-subterranea #diluicao #efluente #outorga-direito
 
 **Art. 25, caput** {#art25_cpt} Nas outorgas de direito de uso, além das informações relacionadas no [[#art24|artigo 24]] deste regulamento, deverão constar:
 - **Art. 25, caput, inciso I** {#art25_cpt_inc1} periodicidade para a apresentação de declaração de confirmação dos dados da outorga de direitos de uso;
@@ -290,7 +265,6 @@ Tags: #licenciamento-ambiental #agua-subterranea #diluicao #efluente #outorga-di
 ## IX – DAS OBRIGAÇÕES DO OUTORGADO
 
 ###### Art. 26 {#art26}
-Tags: #outorga-direito #automonitoramento
 
 **Art. 26, caput** {#art26_cpt} Obriga-se o outorgado a:
 - **Art. 26, caput, inciso I** {#art26_cpt_inc1} utilizar os recursos hídricos nos termos da outorga de direito de uso e cumprir, integralmente, as demais disposições estabelecidas no ato administrativo de outorga;
@@ -309,7 +283,6 @@ Tags: #outorga-direito #automonitoramento
 ## X – DA VIGÊNCIA, RENOVAÇÃO E TRANSFERÊNCIA DE TITULARIDADE DA OUTORGA
 
 ###### Art. 27 {#art27}
-Tags: #outorga-direito #prazo #vigencia
 
 **Art. 27, caput** {#art27_cpt} A vigência da outorga de direito de uso de recursos hídricos será por prazo não superior a 35 (trinta e cinco) anos, renovável, segundo critérios técnicos estabelecidos em ato próprio do Poder Público outorgante.
 
@@ -318,19 +291,16 @@ Tags: #outorga-direito #prazo #vigencia
 **Art. 27, § 2º** {#art27_par2} Nas autorizações de direitos de uso para aproveitamento de potencial hidrelétrico, a sua vigência não poderá ultrapassar a data de encerramento da outorga de concessão ou autorização do potencial de energia hidráulica, expedida pela ANEEL.
 
 ###### Art. 28 {#art28}
-Tags: #renovacao #prazo #outorga-direito
 
 **Art. 28, caput** {#art28_cpt} O requerimento para renovação de outorga de direito de uso de recursos hídricos deverá ser encaminhado ao Poder Público Outorgante no prazo máximo de até 90 (noventa) dias anteriores à data de expiração da vigência da autorização.
 
 **Art. 28, parágrafo único** {#art28_par1u} Se o requerimento for encaminhado no prazo especificado no caput e o Poder Público Outorgante não se manifestar a respeito do pedido de renovação até a data do término da vigência da outorga, fica esta automaticamente prorrogada até que ocorra o deferimento ou indeferimento do pedido.
 
 ###### Art. 29 {#art29}
-Tags: #renovacao #disponibilidade-hidrica
 
 **Art. 29, caput** {#art29_cpt} A renovação da outorga de direitos de uso estará condicionada à avaliação das disponibilidades hídricas, verificadas à luz das disposições legais e regulamentares, das prioridades de uso dos recursos hídricos estabelecidas em Planos de Bacia Hidrográfica e nos demais planos setoriais e, ainda, à avaliação de outros critérios e normas técnicas pertinentes, vigentes à época de tramitação do requerimento.
 
 ###### Art. 30 {#art30}
-Tags: #transferencia-titularidade #outorga
 
 **Art. 30, caput** {#art30_cpt} A transferência de titularidade da outorga deverá conservar as mesmas características e condicionantes, devendo ser objeto de novo ato administrativo indicando novo titular.
 
@@ -339,7 +309,6 @@ Tags: #transferencia-titularidade #outorga
 ## XI – DA SUSPENSÃO E DA REVOGAÇÃO DA OUTORGA
 
 ###### Art. 31 {#art31}
-Tags: #suspensao-outorga #outorga-direito
 
 **Art. 31, caput** {#art31_cpt} A outorga de direito de uso de recursos hídricos poderá ser suspensa pelo Poder Público Outorgante, de forma parcial ou total, por prazo determinado ou indeterminado, sem qualquer direito de indenização ao usuário, nas seguintes circunstâncias:
 - **Art. 31, caput, inciso I** {#art31_cpt_inc1} não cumprimento, pelo outorgado, dos termos da autorização;
@@ -355,7 +324,6 @@ Tags: #suspensao-outorga #outorga-direito
 **Art. 31, § 3º** {#art31_par3} A persistência ou seguidas reincidências do outorgado na desobediência às obrigações definidas no [[#art26|artigo 26]] deste regulamento, no descumprimento aos termos da outorga de direito de uso, bem como no desatendimento às solicitações da fiscalização do Poder Público Outorgante, relativas à observância de normas de uso, controle, conservação e proteção dos recursos hídricos, motivarão a revogação da outorga de direitos de uso.
 
 ###### Art. 32 {#art32}
-Tags: #revogacao #outorga-direito
 
 **Art. 32, caput** {#art32_cpt} A outorga de direitos de uso de recursos hídricos poderá ser declarada revogada, pelo Poder Público Outorgante, sem qualquer direito de indenização, nas seguintes circunstâncias:
 - **Art. 32, caput, inciso I** {#art32_cpt_inc1} ausência de uso, constatado formalmente pelo Poder Público Outorgante, por três anos consecutivos;
@@ -366,12 +334,10 @@ Tags: #revogacao #outorga-direito
 ## XII – DA ADMINISTRAÇÃO, MANUTENÇÃO E DESENVOLVIMENTO DO REGIME DE OUTORGA
 
 ###### Art. 33 {#art33}
-Tags: #outorga #manual-tecnico
 
 **Art. 33, caput** {#art33_cpt} A administração, manutenção e o desenvolvimento do regime de outorga de direitos de uso compreendem as atividades, desempenhadas pelo Poder Público Outorgante, de controle dos usos de recursos hídricos, de fiscalização, de monitoramento e da preparação e contínuo aprimoramento do Manual Técnico de Outorgas, de que trata o [[#art37|artigo 37]] deste regulamento.
 
 ###### Art. 34 {#art34}
-Tags: #outorga #outorga-previa
 
 **Art. 34, caput** {#art34_cpt} O Poder Público Outorgante manterá, para cada Unidade Hidrográfica de Gerenciamento de Recursos Hídricos, os registros de:
 - **Art. 34, caput, inciso I** {#art34_cpt_inc1} outorgas prévias;
@@ -379,12 +345,10 @@ Tags: #outorga #outorga-previa
 - **Art. 34, caput, inciso III** {#art34_cpt_inc3} acompanhamento dos trâmites administrativos durante o transcorrer das diversas etapas dos procedimentos administrativos de outorga.
 
 ###### Art. 35 {#art35}
-Tags: #monitoramento #outorga
 
 **Art. 35, caput** {#art35_cpt} O Poder Público Outorgante efetuará o monitoramento, qualitativo e quantitativo, para o acompanhamento e a avaliação dos usos de recursos hídricos, superficiais e subterrâneos, de domínio do Estado do Paraná ou de domínio da União cuja gestão a este tenha sido delegada.
 
 ###### Art. 36 {#art36}
-Tags: #fiscalizacao #auto-infracao #efluente #outorga
 
 **Art. 36, caput** {#art36_cpt} O exercício, pelo Poder Público Outorgante, da fiscalização das outorgas de direitos de uso de recursos hídricos, dar-se-á por meio das seguintes atividades:
 - **Art. 36, caput, inciso I** {#art36_cpt_inc1} inspeções e vistorias em geral;
@@ -397,7 +361,6 @@ Tags: #fiscalizacao #auto-infracao #efluente #outorga
 **Art. 36, parágrafo único** {#art36_par1u} No que concerne ao lançamento de efluentes, a fiscalização será exercida pelo órgão ambiental competente.
 
 ###### Art. 37 {#art37}
-Tags: #manual-tecnico #uso-insignificante #automonitoramento #outorga
 
 **Art. 37, caput** {#art37_cpt} O Poder Público Outorgante instituirá e manterá, permanentemente atualizado e aprimorado, o Manual Técnico de Outorgas, relativo ao regime de outorga de direitos de uso de recursos hídricos de que trata este regulamento, do qual constarão, obrigatoriamente, os seguintes elementos:
 - **Art. 37, caput, inciso I** {#art37_cpt_inc1} bases jurídico-institucionais de sustentação, orientação e disciplinamento do regime de outorga de direitos de uso dos recursos hídricos de domínio do Estado do Paraná, ou cuja gestão a este tenha sido delegada, especialmente quanto a:
@@ -425,22 +388,18 @@ Tags: #manual-tecnico #uso-insignificante #automonitoramento #outorga
 ## XIII DISPOSIÇÕES TRANSITÓRIAS E FINAIS
 
 ###### Art. 38 {#art38}
-Tags: #outorga #vigencia
 
 **Art. 38, caput** {#art38_cpt} Permanecem válidos os atos de outorga de direitos de uso das águas de domínio do Estado do Paraná, efetuados anteriormente à publicação deste regulamento, observados seus prazos de vigência e demais condições estabelecidas.
 
 ###### Art. 39 {#art39}
-Tags: #manual-tecnico #prazo
 
 **Art. 39, caput** {#art39_cpt} O Poder Público Outorgante, no prazo de 360 (trezentos e sessenta) dias, contados a partir da data de publicação deste regulamente, deverá estar apto a proceder a tramitação e a análise dos requerimentos de outorga de acordo com os procedimentos instituídos por este ato.
 
 ###### Art. 40 {#art40}
-Tags: #vigencia
 
 **Art. 40, caput** {#art40_cpt} Este decreto entra em vigor na data de sua publicação.
 
 ###### Art. 41 {#art41}
-Tags: #revogacao
 
 **Art. 41, caput** {#art41_cpt} Fica revogado o [[decreto-estadual-4646-2001|Decreto nº 4.646, de 31 de agosto de 2001]].
 

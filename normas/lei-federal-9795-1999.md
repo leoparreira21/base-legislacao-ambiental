@@ -35,17 +35,14 @@ fonte: "Planalto (Presidência da República – Casa Civil), impressão do nave
 ## CAPÍTULO I – DA EDUCAÇÃO AMBIENTAL
 
 ###### Art. 1º {#art1}
-Tags: #educacao-ambiental #definicao #meio-ambiente
 
 **Art. 1º, caput** {#art1_cpt} Entendem-se por educação ambiental os processos por meio dos quais o indivíduo e a coletividade constroem valores sociais, conhecimentos, habilidades, atitudes e competências voltadas para a conservação do meio ambiente, bem de uso comum do povo, essencial à sadia qualidade de vida e sua sustentabilidade.
 
 ###### Art. 2º {#art2}
-Tags: #educacao-ambiental
 
 **Art. 2º, caput** {#art2_cpt} A educação ambiental é um componente essencial e permanente da educação nacional, devendo estar presente, de forma articulada, em todos os níveis e modalidades do processo educativo, em caráter formal e não-formal.
 
 ###### Art. 3º {#art3}
-Tags: #educacao-ambiental #responsabilidade #poder-publico #sisnama #capacitacao
 
 **Art. 3º, caput** {#art3_cpt} Como parte do processo educativo mais amplo, todos têm direito à educação ambiental, incumbindo:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} ao Poder Público, nos termos dos arts. 205 e 225 da [[constituicao-federal-1988|Constituição Federal]], definir políticas públicas que incorporem a dimensão ambiental, promover a educação ambiental em todos os níveis de ensino e o engajamento da sociedade na conservação, recuperação e melhoria do meio ambiente;
@@ -56,7 +53,6 @@ Tags: #educacao-ambiental #responsabilidade #poder-publico #sisnama #capacitacao
 - **Art. 3º, caput, inciso VI** {#art3_cpt_inc6} à sociedade como um todo, manter atenção permanente à formação de valores, atitudes e habilidades que propiciem a atuação individual e coletiva voltada para a prevenção, a identificação e a solução de problemas ambientais.
 
 ###### Art. 4º {#art4}
-Tags: #educacao-ambiental
 
 **Art. 4º, caput** {#art4_cpt} São princípios básicos da educação ambiental:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} o enfoque humanista, holístico, democrático e participativo;
@@ -69,7 +65,6 @@ Tags: #educacao-ambiental
 - **Art. 4º, caput, inciso VIII** {#art4_cpt_inc8} o reconhecimento e o respeito à pluralidade e à diversidade individual e cultural.
 
 ###### Art. 5º {#art5}
-Tags: #educacao-ambiental
 Alterações: [[lei-federal-14926-2024|Lei nº 14.926/2024]] (incluído: inciso VIII, inciso IX)
 
 **Art. 5º, caput** {#art5_cpt} São objetivos fundamentais da educação ambiental:
@@ -80,25 +75,22 @@ Alterações: [[lei-federal-14926-2024|Lei nº 14.926/2024]] (incluído: inciso 
 - **Art. 5º, caput, inciso V** {#art5_cpt_inc5} o estímulo à cooperação entre as diversas regiões do País, em níveis micro e macrorregionais, com vistas à construção de uma sociedade ambientalmente equilibrada, fundada nos princípios da liberdade, igualdade, solidariedade, democracia, justiça social, responsabilidade e sustentabilidade;
 - **Art. 5º, caput, inciso VI** {#art5_cpt_inc6} o fomento e o fortalecimento da integração com a ciência e a tecnologia;
 - **Art. 5º, caput, inciso VII** {#art5_cpt_inc7} o fortalecimento da cidadania, autodeterminação dos povos e solidariedade como fundamentos para o futuro da humanidade.
-- **Art. 5º, caput, inciso VIII** {#art5_cpt_inc8} #incluido #biodiversidade #defesa-civil o estímulo à participação individual e coletiva, inclusive das escolas de todos os níveis de ensino, nas ações de prevenção, de mitigação e de adaptação relacionadas às mudanças do clima e no estancamento da perda de biodiversidade, bem como na educação direcionada à percepção de riscos e de vulnerabilidades a desastres socioambientais; *(Incluído pela [[lei-federal-14926-2024|Lei nº 14.926, de 2024]])*
-- **Art. 5º, caput, inciso IX** {#art5_cpt_inc9} #incluido #pnma #biodiversidade #defesa-civil o auxílio à consecução dos objetivos da Política Nacional do Meio Ambiente, da Política Nacional sobre Mudança do Clima, da Política Nacional da Biodiversidade, da Política Nacional de Proteção e Defesa Civil, do Programa Nacional de Educação Ambiental e das Diretrizes Curriculares Nacionais para a Educação Ambiental, entre outros direcionados à melhoria das condições de vida e da qualidade ambiental. *(Incluído pela [[lei-federal-14926-2024|Lei nº 14.926, de 2024]])*
+- **Art. 5º, caput, inciso VIII** {#art5_cpt_inc8} #incluido o estímulo à participação individual e coletiva, inclusive das escolas de todos os níveis de ensino, nas ações de prevenção, de mitigação e de adaptação relacionadas às mudanças do clima e no estancamento da perda de biodiversidade, bem como na educação direcionada à percepção de riscos e de vulnerabilidades a desastres socioambientais; *(Incluído pela [[lei-federal-14926-2024|Lei nº 14.926, de 2024]])*
+- **Art. 5º, caput, inciso IX** {#art5_cpt_inc9} #incluido o auxílio à consecução dos objetivos da Política Nacional do Meio Ambiente, da Política Nacional sobre Mudança do Clima, da Política Nacional da Biodiversidade, da Política Nacional de Proteção e Defesa Civil, do Programa Nacional de Educação Ambiental e das Diretrizes Curriculares Nacionais para a Educação Ambiental, entre outros direcionados à melhoria das condições de vida e da qualidade ambiental. *(Incluído pela [[lei-federal-14926-2024|Lei nº 14.926, de 2024]])*
 
 ## CAPÍTULO II – DA POLÍTICA NACIONAL DE EDUCAÇÃO AMBIENTAL
 
 ### Seção I – Disposições Gerais
 
 ###### Art. 6º {#art6}
-Tags: #educacao-ambiental
 
 **Art. 6º, caput** {#art6_cpt} É instituída a Política Nacional de Educação Ambiental.
 
 ###### Art. 7º {#art7}
-Tags: #educacao-ambiental #sisnama
 
 **Art. 7º, caput** {#art7_cpt} A Política Nacional de Educação Ambiental envolve em sua esfera de ação, além dos órgãos e entidades integrantes do Sistema Nacional de Meio Ambiente - Sisnama, instituições educacionais públicas e privadas dos sistemas de ensino, os órgãos públicos da União, dos Estados, do Distrito Federal e dos Municípios, e organizações não-governamentais com atuação em educação ambiental.
 
 ###### Art. 8º {#art8}
-Tags: #educacao-ambiental #capacitacao #pesquisa
 Alterações: [[lei-federal-14926-2024|Lei nº 14.926/2024]] (incluído: § 3º, inciso II-A)
 
 **Art. 8º, caput** {#art8_cpt} As atividades vinculadas à Política Nacional de Educação Ambiental devem ser desenvolvidas na educação em geral e na educação escolar, por meio das seguintes linhas de atuação inter-relacionadas:
@@ -119,7 +111,7 @@ Alterações: [[lei-federal-14926-2024|Lei nº 14.926/2024]] (incluído: § 3º,
 **Art. 8º, § 3º** {#art8_par3} As ações de estudos, pesquisas e experimentações voltar-se-ão para:
 - **Art. 8º, § 3º, inciso I** {#art8_par3_inc1} o desenvolvimento de instrumentos e metodologias, visando à incorporação da dimensão ambiental, de forma interdisciplinar, nos diferentes níveis e modalidades de ensino;
 - **Art. 8º, § 3º, inciso II** {#art8_par3_inc2} a difusão de conhecimentos, tecnologias e informações sobre a questão ambiental;
-- **Art. 8º, § 3º, inciso II-A** {#art8_par3_inc2-a} #incluido #biodiversidade o desenvolvimento de instrumentos e de metodologias com vistas a assegurar a efetividade das ações educadoras de prevenção, de mitigação e de adaptação relacionadas às mudanças do clima e aos desastres socioambientais, bem como ao estancamento da perda de biodiversidade; *(Incluído pela [[lei-federal-14926-2024|Lei nº 14.926, de 2024]])*
+- **Art. 8º, § 3º, inciso II-A** {#art8_par3_inc2-a} #incluido o desenvolvimento de instrumentos e de metodologias com vistas a assegurar a efetividade das ações educadoras de prevenção, de mitigação e de adaptação relacionadas às mudanças do clima e aos desastres socioambientais, bem como ao estancamento da perda de biodiversidade; *(Incluído pela [[lei-federal-14926-2024|Lei nº 14.926, de 2024]])*
 - **Art. 8º, § 3º, inciso III** {#art8_par3_inc3} o desenvolvimento de instrumentos e metodologias, visando à participação dos interessados na formulação e execução de pesquisas relacionadas à problemática ambiental;
 - **Art. 8º, § 3º, inciso IV** {#art8_par3_inc4} a busca de alternativas curriculares e metodológicas de capacitação na área ambiental;
 - **Art. 8º, § 3º, inciso V** {#art8_par3_inc5} o apoio a iniciativas e experiências locais e regionais, incluindo a produção de material educativo;
@@ -128,7 +120,6 @@ Alterações: [[lei-federal-14926-2024|Lei nº 14.926/2024]] (incluído: § 3º,
 ### Seção II – Da Educação Ambiental no Ensino Formal
 
 ###### Art. 9º {#art9}
-Tags: #educacao-ambiental
 
 **Art. 9º, caput** {#art9_cpt} Entende-se por educação ambiental na educação escolar a desenvolvida no âmbito dos currículos das instituições de ensino públicas e privadas, englobando:
 - **Art. 9º, caput, inciso I** {#art9_cpt_inc1} educação básica:
@@ -141,7 +132,6 @@ Tags: #educacao-ambiental
 - **Art. 9º, caput, inciso V** {#art9_cpt_inc5} educação de jovens e adultos.
 
 ###### Art. 10 {#art10}
-Tags: #educacao-ambiental
 Alterações: [[lei-federal-14926-2024|Lei nº 14.926/2024]] (incluído: § 4º, § 5º)
 
 **Art. 10, caput** {#art10_cpt} A educação ambiental será desenvolvida como uma prática educativa integrada, contínua e permanente em todos os níveis e modalidades do ensino formal.
@@ -152,26 +142,23 @@ Alterações: [[lei-federal-14926-2024|Lei nº 14.926/2024]] (incluído: § 4º,
 
 **Art. 10, § 3º** {#art10_par3} Nos cursos de formação e especialização técnico-profissional, em todos os níveis, deve ser incorporado conteúdo que trate da ética ambiental das atividades profissionais a serem desenvolvidas.
 
-**Art. 10, § 4º** {#art10_par4} #incluido #biodiversidade Será assegurada a inserção de temas relacionados às mudanças do clima, à proteção da biodiversidade, aos riscos e emergências socioambientais e a outros aspectos referentes à questão ambiental nos projetos institucionais e pedagógicos da educação básica e da educação superior, conforme diretrizes estabelecidas pelo Conselho Nacional de Educação, no uso de suas atribuições legais. *(Incluído pela [[lei-federal-14926-2024|Lei nº 14.926, de 2024]])*
+**Art. 10, § 4º** {#art10_par4} #incluido Será assegurada a inserção de temas relacionados às mudanças do clima, à proteção da biodiversidade, aos riscos e emergências socioambientais e a outros aspectos referentes à questão ambiental nos projetos institucionais e pedagógicos da educação básica e da educação superior, conforme diretrizes estabelecidas pelo Conselho Nacional de Educação, no uso de suas atribuições legais. *(Incluído pela [[lei-federal-14926-2024|Lei nº 14.926, de 2024]])*
 
 **Art. 10, § 5º** {#art10_par5} #incluido Para fins do disposto no caput deste artigo, as autoridades competentes supervisionarão o teor e a execução dos projetos institucionais e pedagógicos dos estabelecimentos de educação básica e superior. *(Incluído pela [[lei-federal-14926-2024|Lei nº 14.926, de 2024]])*
 
 ###### Art. 11 {#art11}
-Tags: #educacao-ambiental #capacitacao
 
 **Art. 11, caput** {#art11_cpt} A dimensão ambiental deve constar dos currículos de formação de professores, em todos os níveis e em todas as disciplinas.
 
 **Art. 11, parágrafo único** {#art11_par1u} Os professores em atividade devem receber formação complementar em suas áreas de atuação, com o propósito de atender adequadamente ao cumprimento dos princípios e objetivos da Política Nacional de Educação Ambiental.
 
 ###### Art. 12 {#art12}
-Tags: #educacao-ambiental
 
 **Art. 12, caput** {#art12_cpt} A autorização e supervisão do funcionamento de instituições de ensino e de seus cursos, nas redes pública e privada, observarão o cumprimento do disposto nos arts. 10 e 11 desta Lei.
 
 ### Seção III – Da Educação Ambiental Não-Formal
 
 ###### Art. 13 {#art13}
-Tags: #educacao-ambiental
 Alterações: [[lei-federal-14926-2024|Lei nº 14.926/2024]] (incluído: parágrafo único, inciso VIII)
 
 **Art. 13, caput** {#art13_cpt} Entendem-se por educação ambiental não-formal as ações e práticas educativas voltadas à sensibilização da coletividade sobre as questões ambientais e à sua organização e participação na defesa da qualidade do meio ambiente.
@@ -180,14 +167,13 @@ Alterações: [[lei-federal-14926-2024|Lei nº 14.926/2024]] (incluído: parágr
 - **Art. 13, parágrafo único, inciso I** {#art13_par1u_inc1} a difusão, por intermédio dos meios de comunicação de massa, em espaços nobres, de programas e campanhas educativas, e de informações acerca de temas relacionados ao meio ambiente;
 - **Art. 13, parágrafo único, inciso II** {#art13_par1u_inc2} a ampla participação da escola, da universidade e de organizações não-governamentais na formulação e execução de programas e atividades vinculadas à educação ambiental não-formal;
 - **Art. 13, parágrafo único, inciso III** {#art13_par1u_inc3} a participação de empresas públicas e privadas no desenvolvimento de programas de educação ambiental em parceria com a escola, a universidade e as organizações não-governamentais;
-- **Art. 13, parágrafo único, inciso IV** {#art13_par1u_inc4} #unidade-conservacao a sensibilização da sociedade para a importância das unidades de conservação;
-- **Art. 13, parágrafo único, inciso V** {#art13_par1u_inc5} #unidade-conservacao #comunidade-tradicional a sensibilização ambiental das populações tradicionais ligadas às unidades de conservação;
+- **Art. 13, parágrafo único, inciso IV** {#art13_par1u_inc4} a sensibilização da sociedade para a importância das unidades de conservação;
+- **Art. 13, parágrafo único, inciso V** {#art13_par1u_inc5} a sensibilização ambiental das populações tradicionais ligadas às unidades de conservação;
 - **Art. 13, parágrafo único, inciso VI** {#art13_par1u_inc6} a sensibilização ambiental dos agricultores;
-- **Art. 13, parágrafo único, inciso VII** {#art13_par1u_inc7} #turismo o ecoturismo.
-- **Art. 13, parágrafo único, inciso VIII** {#art13_par1u_inc8} #incluido #biodiversidade #defesa-civil a sensibilização da sociedade para a relevância das ações de prevenção, de mitigação e de adaptação relacionadas às mudanças do clima e aos desastres socioambientais, bem como ao estancamento da perda de biodiversidade. *(Incluído pela [[lei-federal-14926-2024|Lei nº 14.926, de 2024]])*
+- **Art. 13, parágrafo único, inciso VII** {#art13_par1u_inc7} o ecoturismo.
+- **Art. 13, parágrafo único, inciso VIII** {#art13_par1u_inc8} #incluido a sensibilização da sociedade para a relevância das ações de prevenção, de mitigação e de adaptação relacionadas às mudanças do clima e aos desastres socioambientais, bem como ao estancamento da perda de biodiversidade. *(Incluído pela [[lei-federal-14926-2024|Lei nº 14.926, de 2024]])*
 
 ###### Art. 13-A {#art13-a}
-Tags: #educacao-ambiental #biodiversidade
 Alterações: [[lei-federal-14393-2022|Lei nº 14.393/2022]] (incluído: artigo inteiro)
 
 **Art. 13-A, caput** {#art13-a_cpt} #incluido Fica instituída a Campanha Junho Verde, a ser celebrada anualmente como parte das atividades da educação ambiental não formal. *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
@@ -198,31 +184,29 @@ Alterações: [[lei-federal-14393-2022|Lei nº 14.393/2022]] (incluído: artigo 
 - **Art. 13-A, § 2º, inciso I** {#art13-a_par2_inc1} #incluido divulgação de informações acerca do estado de conservação das florestas e biomas brasileiros e dos meios de participação ativa da sociedade para a sua salvaguarda; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
 - **Art. 13-A, § 2º, inciso II** {#art13-a_par2_inc2} #incluido fomento à conservação e ao uso de espaços públicos urbanos por meio de atividades culturais e de educação ambiental; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
 - **Art. 13-A, § 2º, inciso III** {#art13-a_par2_inc3} #incluido conservação da biodiversidade brasileira e plantio e uso de espécies vegetais nativas em áreas urbanas e rurais; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
-- **Art. 13-A, § 2º, inciso IV** {#art13-a_par2_inc4} #incluido #consumo-sustentavel #reutilizacao #reciclagem #segregacao sensibilização acerca da redução de padrões de consumo, da reutilização de materiais, da separação de resíduos sólidos na origem e da reciclagem; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
+- **Art. 13-A, § 2º, inciso IV** {#art13-a_par2_inc4} #incluido sensibilização acerca da redução de padrões de consumo, da reutilização de materiais, da separação de resíduos sólidos na origem e da reciclagem; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
 - **Art. 13-A, § 2º, inciso V** {#art13-a_par2_inc5} #incluido divulgação da legislação ambiental brasileira e dos princípios ecológicos que a regem; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
 - **Art. 13-A, § 2º, inciso VI** {#art13-a_par2_inc6} #incluido debate sobre transição ecológica das cadeias produtivas, economia de baixo carbono e carbono neutro; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
 - **Art. 13-A, § 2º, inciso VII** {#art13-a_par2_inc7} #incluido inovação ambiental por meio de projetos educacionais relacionados ao potencial da biodiversidade do País; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
-- **Art. 13-A, § 2º, inciso VIII** {#art13-a_par2_inc8} #incluido #comunidade-tradicional preservação da cultura dos povos tradicionais e indígenas que habitam biomas brasileiros, inseridos no contexto da proteção da biodiversidade do País; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
+- **Art. 13-A, § 2º, inciso VIII** {#art13-a_par2_inc8} #incluido preservação da cultura dos povos tradicionais e indígenas que habitam biomas brasileiros, inseridos no contexto da proteção da biodiversidade do País; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
 - **Art. 13-A, § 2º, inciso IX** {#art13-a_par2_inc9} #incluido debate sobre as mudanças climáticas e seus impactos nas cidades e no meio rural, com a participação dos Poderes Legislativos estaduais, distrital e municipais; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
 - **Art. 13-A, § 2º, inciso X** {#art13-a_par2_inc10} #incluido estímulo à formação da consciência ecológica cidadã a respeito de temas ambientais candentes, em uma perspectiva transdisciplinar e social transformadora, pautada pela ética intergeracional; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
 - **Art. 13-A, § 2º, inciso XI** {#art13-a_par2_inc11} #incluido debate, em todos os níveis e modalidades do processo educativo, sobre ecologia, conservação ambiental e cadeias produtivas; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
-- **Art. 13-A, § 2º, inciso XII** {#art13-a_par2_inc12} #incluido #turismo fomento à conscientização ambiental em áreas turísticas, com estímulo ao turismo sustentável; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
+- **Art. 13-A, § 2º, inciso XII** {#art13-a_par2_inc12} #incluido fomento à conscientização ambiental em áreas turísticas, com estímulo ao turismo sustentável; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
 - **Art. 13-A, § 2º, inciso XIII** {#art13-a_par2_inc13} #incluido divulgação e disponibilização de estudos científicos e de soluções tecnológicas adequadas às políticas públicas de proteção do meio ambiente; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
-- **Art. 13-A, § 2º, inciso XIV** {#art13-a_par2_inc14} #incluido #unidade-conservacao promoção de ações socioeducativas destinadas a diferentes públicos nas unidades de conservação da natureza em que a visitação pública é permitida; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
+- **Art. 13-A, § 2º, inciso XIV** {#art13-a_par2_inc14} #incluido promoção de ações socioeducativas destinadas a diferentes públicos nas unidades de conservação da natureza em que a visitação pública é permitida; *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
 - **Art. 13-A, § 2º, inciso XV** {#art13-a_par2_inc15} #incluido debate, divulgação, sensibilização e práticas educativas atinentes às relações entre a degradação ambiental e o surgimento de endemias, epidemias e pandemias, bem como à necessidade de conservação adequada do meio ambiente para a prevenção delas; e *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
-- **Art. 13-A, § 2º, inciso XVI** {#art13-a_par2_inc16} #incluido #recurso-hidrico conscientização relativa a uso racional da água, escassez hídrica, acesso a água potável e tecnologias disponíveis para melhoria da eficiência hídrica. *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
+- **Art. 13-A, § 2º, inciso XVI** {#art13-a_par2_inc16} #incluido conscientização relativa a uso racional da água, escassez hídrica, acesso a água potável e tecnologias disponíveis para melhoria da eficiência hídrica. *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
 
 **Art. 13-A, § 3º** {#art13-a_par3} #incluido Na Campanha Junho Verde, será observado o conceito de Ecologia Integral, que inclui dimensões humanas e sociais dos desafios ambientais. *(Incluído pela [[lei-federal-14393-2022|Lei nº 14.393, de 2022]])*
 
 ## CAPÍTULO III – DA EXECUÇÃO DA POLÍTICA NACIONAL DE EDUCAÇÃO AMBIENTAL
 
 ###### Art. 14 {#art14}
-Tags: #educacao-ambiental
 
 **Art. 14, caput** {#art14_cpt} A coordenação da Política Nacional de Educação Ambiental ficará a cargo de um órgão gestor, na forma definida pela regulamentação desta Lei.
 
 ###### Art. 15 {#art15}
-Tags: #educacao-ambiental
 
 **Art. 15, caput** {#art15_cpt} São atribuições do órgão gestor:
 - **Art. 15, caput, inciso I** {#art15_cpt_inc1} definição de diretrizes para implementação em âmbito nacional;
@@ -230,12 +214,10 @@ Tags: #educacao-ambiental
 - **Art. 15, caput, inciso III** {#art15_cpt_inc3} participação na negociação de financiamentos a planos, programas e projetos na área de educação ambiental.
 
 ###### Art. 16 {#art16}
-Tags: #educacao-ambiental #estado #municipio
 
 **Art. 16, caput** {#art16_cpt} Os Estados, o Distrito Federal e os Municípios, na esfera de sua competência e nas áreas de sua jurisdição, definirão diretrizes, normas e critérios para a educação ambiental, respeitados os princípios e objetivos da Política Nacional de Educação Ambiental.
 
 ###### Art. 17 {#art17}
-Tags: #educacao-ambiental
 
 **Art. 17, caput** {#art17_cpt} A eleição de planos e programas, para fins de alocação de recursos públicos vinculados à Política Nacional de Educação Ambiental, deve ser realizada levando-se em conta os seguintes critérios:
 - **Art. 17, caput, inciso I** {#art17_cpt_inc1} conformidade com os princípios, objetivos e diretrizes da Política Nacional de Educação Ambiental;
@@ -245,24 +227,20 @@ Tags: #educacao-ambiental
 **Art. 17, parágrafo único** {#art17_par1u} Na eleição a que se refere o caput deste artigo, devem ser contemplados, de forma eqüitativa, os planos, programas e projetos das diferentes regiões do País.
 
 ###### Art. 18 {#art18}
-Tags: #educacao-ambiental
 
 **Art. 18, caput** {#art18_cpt} (VETADO)
 
 ###### Art. 19 {#art19}
-Tags: #educacao-ambiental
 
 **Art. 19, caput** {#art19_cpt} Os programas de assistência técnica e financeira relativos a meio ambiente e educação, em níveis federal, estadual e municipal, devem alocar recursos às ações de educação ambiental.
 
 ## CAPÍTULO IV – DISPOSIÇÕES FINAIS
 
 ###### Art. 20 {#art20}
-Tags: #regulamentacao #conama
 
 **Art. 20, caput** {#art20_cpt} O Poder Executivo regulamentará esta Lei no prazo de noventa dias de sua publicação, ouvidos o Conselho Nacional de Meio Ambiente e o Conselho Nacional de Educação.
 
 ###### Art. 21 {#art21}
-Tags: #vigencia
 
 **Art. 21, caput** {#art21_cpt} Esta Lei entra em vigor na data de sua publicação.
 

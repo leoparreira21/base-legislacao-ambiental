@@ -34,7 +34,7 @@ fonte: "PDF do portal do CONAMA (Word 2013, 16 páginas, 'Este texto não substi
 - **Anexo III, item 3.1.1.2, linha 11** {#anexo3_lin11} 3.1.1.2 Coordenadas geográficas
 - **Anexo III, item 3.1.1.3, linha 12** {#anexo3_lin12} 3.1.1.3 Endereço postal, telefone, fax e correio eletrônico
 - **Anexo III, item 3.1.1.4, linha 13** {#anexo3_lin13} 3.1.1.4 Nome e função de pessoa para contato
-- **Anexo III, item 3.1.1.5, linha 14** {#anexo3_lin14} #ibama 3.1.1.5 Registro no IBAMA
+- **Anexo III, item 3.1.1.5, linha 14** {#anexo3_lin14} 3.1.1.5 Registro no IBAMA
 - **Anexo III, item 3.1.2, linha 15** {#anexo3_lin15} 3.1.2 Equipamentos
 - **Anexo III, item 3.1.2, linha 16** {#anexo3_lin16} Relacionar os equipamentos (plataforma de toras, carro porta-toras, serra-de-fita, serra circular múltipla, serra circular, destopadeira, estufa, plaina e outros), e as respectivas quantidades, ano de fabricação, potência e outras especificações técnicas.
 - **Anexo III, item 3.1.3, linha 17** {#anexo3_lin17} 3.1.3 Produtos gerados
@@ -49,7 +49,7 @@ fonte: "PDF do portal do CONAMA (Word 2013, 16 páginas, 'Este texto não substi
 - **Anexo III, item 3.3.2.1, linha 26** {#anexo3_lin26} 3.3.2.1 Diâmetro: determinar os diâmetros cruzados (maior e menor), sem considerar a casca, nas duas extremidades da tora. As planilhas de cubagem de toras deverão apresentar os quatro valores de diâmetros determinados para cada tora, utilizando-se o metro(m) como unidade de medida.
 - **Anexo III, item 3.3.2.2, linha 27** {#anexo3_lin27} 3.3.2.2 Comprimento: determinar o maior e o menor comprimento da tora. Esses valores deverão constar das planilhas de cubagem apresentadas, utilizando-se o metro(m) como unidade de medida.
 - **Anexo III, item 3.3.3, linha 28** {#anexo3_lin28} 3.3.3 Determinação do volume da tora
-- **Anexo III, item 3.3.3, linha 29** {#anexo3_lin29} #cubagem O volume das toras deve ser determinado pelo método geométrico, ou seja, utilizando a equação de Smalian. Deverão ser utilizados para o cálculo a média dos diâmetros cruzados e a média dos comprimentos.
+- **Anexo III, item 3.3.3, linha 29** {#anexo3_lin29} O volume das toras deve ser determinado pelo método geométrico, ou seja, utilizando a equação de Smalian. Deverão ser utilizados para o cálculo a média dos diâmetros cruzados e a média dos comprimentos.
 - **Anexo III, item 3.4, linha 30** {#anexo3_lin30} 3.4 Determinação do volume de madeira serrada
 - **Anexo III, item 3.4, linha 31** {#anexo3_lin31} As informações sobre o volume de madeira serrada, obtidas a partir das toras processadas, deverão ser agrupadas em planilhas para cada uma das espécies estudadas. Essas planilhas deverão constar do anexo do relatório técnico-científico apresentado.
 - **Anexo III, item 3.4.1, linha 32** {#anexo3_lin32} 3.4.1 Dimensões das peças produzidas
@@ -57,7 +57,7 @@ fonte: "PDF do portal do CONAMA (Word 2013, 16 páginas, 'Este texto não substi
 - **Anexo III, item 3.4.2, linha 34** {#anexo3_lin34} 3.4.2 Volume de madeira serrada
 - **Anexo III, item 3.4.2, linha 35** {#anexo3_lin35} Para cada tora amostrada, determinar o volume de madeira serrada obtido a partir da quantidade de peças.
 - **Anexo III, item 3.6, linha 36** {#anexo3_lin36} 3.6 Determinação do coeficiente de rendimento volumétrico ( CRV)
-- **Anexo III, item 3.6, linha 37** {#anexo3_lin37} #coeficiente-rendimento O CRV é determinado pela relação entre o volume da tora processada e o volume obtido de madeira serrada devidamente comercializada.
+- **Anexo III, item 3.6, linha 37** {#anexo3_lin37} O CRV é determinado pela relação entre o volume da tora processada e o volume obtido de madeira serrada devidamente comercializada.
 - **Anexo III, item 3.6, linha 38** {#anexo3_lin38} Deverá ser determinado por espécie pela média dos CRV determinados individualmente para cada tora.
 - **Anexo III, item 3.7, linha 39** {#anexo3_lin39} 3.7 Análise estatística
 - **Anexo III, item 3.7.1, linha 40** {#anexo3_lin40} 3.7.1 Estatística descritiva
@@ -66,7 +66,7 @@ fonte: "PDF do portal do CONAMA (Word 2013, 16 páginas, 'Este texto não substi
 - **Anexo III, item 3.7.3, linha 43** {#anexo3_lin43} 3.7.3 Determinação do intervalo de confiança
 - **Anexo III, item 3.7.3, linha 44** {#anexo3_lin44} Determinar o intervalo de confiança ao nível de 95% de probabilidade com os limites inferior e superior que o CRV pode apresentar para determinada espécie.
 - **Anexo III, item 3.8, linha 45** {#anexo3_lin45} 3.8 Coordenação, supervisão e realização do trabalho
-- **Anexo III, item 3.8, linha 46** {#anexo3_lin46} #responsavel-tecnico #art-anotacao O estudo técnico-científico deverá ser assinado por profissional legalmente habilitado com devida anotação de responsabilidade técnica e representante legal da empresa.
+- **Anexo III, item 3.8, linha 46** {#anexo3_lin46} O estudo técnico-científico deverá ser assinado por profissional legalmente habilitado com devida anotação de responsabilidade técnica e representante legal da empresa.
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

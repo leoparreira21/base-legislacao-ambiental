@@ -15,7 +15,6 @@ fonte: "PDF 'RDC nº 222/2018 Comentada', Anvisa, Brasília, 11 de junho de 2018
 
 > Comentários da Anvisa (GRECS/GGTES) aos dispositivos da [[rdc-anvisa-222-2018|RDC Anvisa nº 222/2018]], para auxiliar a interpretação na análise de PGRSS. **Não é texto normativo**: vale o texto da resolução. Cada comentário tem o ID do dispositivo comentado acrescido de `_coment` (o comentário ao `art5_par1` é `art5_par1_coment`) e começa com o link direto para esse dispositivo; na resolução, o dispositivo comentado termina com o link "(comentário)" de volta para cá. Nos comentários gerais de capítulo ou seção, o link aponta para o título correspondente.
 
-Tags: #residuo-servico-saude #pgrss #anvisa
 
 ## Introdução
 

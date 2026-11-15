@@ -47,7 +47,6 @@ RESOLVE:
 
 ###### Art. 1º {#art1}
 
-Tags: #uso-insignificante #outorga #licenciamento-ambiental #recurso-hidrico #efluente #dispensa
 
 **Art. 1º, caput** {#art1_cpt} Ficam dispensados de outorga, considerando-se como de uso insignificante, as seguintes acumulações, derivações, captações e lançamentos:
 
@@ -65,19 +64,16 @@ Tags: #uso-insignificante #outorga #licenciamento-ambiental #recurso-hidrico #ef
 
 ###### Art. 2º {#art2}
 
-Tags: #uso-insignificante #outorga #dispensa
 
 **Art. 2º, caput** {#art2_cpt} Ficam também dispensadas de outorga as captações destinadas ao consumo familiar de proprietários e de núcleos populacionais inferiores ou iguais a 400 (quatrocentos) habitantes dispersos no meio rural.
 
 ###### Art. 3º {#art3}
 
-Tags: #uso-insignificante #outorga #dispensa
 
 **Art. 3º, caput** {#art3_cpt} Quando a soma das derivações e captações consideradas insignificantes atingir 20% da vazão outorgável em um dado manancial, não mais devem ser dispensadas ou permitidas novas derivações ou captações, ficando sujeitas aos procedimentos legais de outorga.
 
 ###### Art. 4º {#art4}
 
-Tags: #uso-insignificante #outorga
 
 **Art. 4º, caput** {#art4_cpt} A presente Portaria entre em vigor na data da sua publicação, ficando revogadas as disposições contrárias.
 

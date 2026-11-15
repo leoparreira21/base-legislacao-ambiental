@@ -20,7 +20,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 ## Texto do anexo {#texto-anexo}
 
 - **Anexo X, linha 1** {#anexo10_lin1} 1 OBJETIVO
-- **Anexo X, linha 2** {#anexo10_lin2} #rap O Plano de Controle de Poluição Ambiental – PCPA deverá apresentar os detalhamentos e programas de controle ambiental considerando a análise preliminar apresentada no [[instrucao-normativa-iat-28-2025#anexo9|Relatório Ambiental Preliminar]].
+- **Anexo X, linha 2** {#anexo10_lin2} O Plano de Controle de Poluição Ambiental – PCPA deverá apresentar os detalhamentos e programas de controle ambiental considerando a análise preliminar apresentada no [[instrucao-normativa-iat-28-2025#anexo9|Relatório Ambiental Preliminar]].
 - **Anexo X, linha 3** {#anexo10_lin3} 2 IDENTIFICAÇÃO DO EMPREENDEDOR
 - **Anexo X, linha 4** {#anexo10_lin4} • Nome do Responsável Legal
 - **Anexo X, linha 5** {#anexo10_lin5} • Profissão do Responsável Legal;
@@ -38,20 +38,20 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo X, linha 17** {#anexo10_lin17} • E-mail;
 - **Anexo X, linha 18** {#anexo10_lin18} • Responsável legal.
 - **Anexo X, linha 19** {#anexo10_lin19} 4 PROGRAMAS, PLANOS E PROJETOS
-- **Anexo X, linha 20** {#anexo10_lin20} #rap #medida-compensatoria Apresentar os projetos, programas e planos para mitigar e/ou compensar o impacto ambiental, conforme levantamento preliminar do RAP. São documentos pertinentes, se cabíveis ao licenciamento:
-- **Anexo X, linha 21** {#anexo10_lin21} #automonitoramento #emissao-atmosferica • Programa de Automonitoramento de Emissões Atmosféricas;
-- **Anexo X, linha 22** {#anexo10_lin22} #automonitoramento #poluicao-sonora • Programa de Automonitoramento de Ruído;
-- **Anexo X, linha 23** {#anexo10_lin23} #terraplanagem • Projetos de Terraplenagem;
-- **Anexo X, linha 24** {#anexo10_lin24} #supressao-vegetacao #medida-compensatoria • Planos de Compensação Florestal;
-- **Anexo X, linha 25** {#anexo10_lin25} #plano-recuperacao #area-degradada • Programa de Recuperação de Áreas Degradadas – PRAD;
-- **Anexo X, linha 26** {#anexo10_lin26} #agua-subterranea #monitoramento • Programa de Monitoramento de Águas Subterrâneas;
-- **Anexo X, linha 27** {#anexo10_lin27} #corpo-hidrico #efluente #monitoramento • Programa de Monitoramento de Corpos Hídricos, no caso do lançamento de efluentes;
-- **Anexo X, linha 28** {#anexo10_lin28} #pgrs #residuo-construcao-civil • Programa de Gerenciamento de Resíduos Sólidos – PGRS (incluindo resíduos da construção civil);
-- **Anexo X, linha 29** {#anexo10_lin29} #agua-pluvial • Projetos de Drenagem de Águas Pluviais;
-- **Anexo X, linha 30** {#anexo10_lin30} #tratamento-efluente • Projetos de Estação de Tratamento de Efluentes, se houver;
+- **Anexo X, linha 20** {#anexo10_lin20} Apresentar os projetos, programas e planos para mitigar e/ou compensar o impacto ambiental, conforme levantamento preliminar do RAP. São documentos pertinentes, se cabíveis ao licenciamento:
+- **Anexo X, linha 21** {#anexo10_lin21} • Programa de Automonitoramento de Emissões Atmosféricas;
+- **Anexo X, linha 22** {#anexo10_lin22} • Programa de Automonitoramento de Ruído;
+- **Anexo X, linha 23** {#anexo10_lin23} • Projetos de Terraplenagem;
+- **Anexo X, linha 24** {#anexo10_lin24} • Planos de Compensação Florestal;
+- **Anexo X, linha 25** {#anexo10_lin25} • Programa de Recuperação de Áreas Degradadas – PRAD;
+- **Anexo X, linha 26** {#anexo10_lin26} • Programa de Monitoramento de Águas Subterrâneas;
+- **Anexo X, linha 27** {#anexo10_lin27} • Programa de Monitoramento de Corpos Hídricos, no caso do lançamento de efluentes;
+- **Anexo X, linha 28** {#anexo10_lin28} • Programa de Gerenciamento de Resíduos Sólidos – PGRS (incluindo resíduos da construção civil);
+- **Anexo X, linha 29** {#anexo10_lin29} • Projetos de Drenagem de Águas Pluviais;
+- **Anexo X, linha 30** {#anexo10_lin30} • Projetos de Estação de Tratamento de Efluentes, se houver;
 - **Anexo X, linha 31** {#anexo10_lin31} 5 CRONOGRAMA DE EXECUÇÃO DOS PROJETOS
 - **Anexo X, linha 32** {#anexo10_lin32} 6 CONCLUSÕES
-- **Anexo X, linha 33** {#anexo10_lin33} #art-anotacao 7 ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA
+- **Anexo X, linha 33** {#anexo10_lin33} 7 ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA
 - **Anexo X, linha 34** {#anexo10_lin34} 8 REFERÊNCIAS DE LITERATURA
 
 ## Síntese do conversor (não é texto normativo) {#sintese}

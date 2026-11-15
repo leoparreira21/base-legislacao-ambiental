@@ -3,7 +3,7 @@
   "descricao": "Gatilhos de aplicabilidade curados. Cada condição cita um trecho literal da norma (no dispositivo, num ancestral ou no dispositivo indicado em \"em\"). Campo: valores do formulário do caso (site/motor.js, OPCOES_CASO) que satisfazem a condição. Fato: condição que o servidor nunca confirma sozinho. Filhos herdam os gatilhos dos ancestrais. Ver docs/gatilhos-aplicabilidade.md.",
   "gatilhos": {
     "rdc-anvisa-222-2018#art5_par1": {
-      "texto_sha256": "c9d638ae4a9cc9c0b1968a90dc248bd570f58abf8d9469f849d4b5897e44622d",
+      "texto_sha256": "998fbc497b0194345e3d4dd9e63d106a129edfa4623daa4006d1f90efcdef525",
       "condicoes": [
         {"fato": "O serviço gera exclusivamente resíduos do Grupo D.", "trecho": "caso o serviço gere exclusivamente resíduos do Grupo D"},
         {"fato": "A substituição do PGRSS se refere à licença sanitária, não à licença ambiental.", "trecho": "Para obtenção da licença sanitária"}
@@ -61,64 +61,64 @@
       ]
     },
     "portaria-iap-26-2006#anexo-in_lin71": {
-      "texto_sha256": "46746b7f2576ef1f4c35d0809026a16ded750d9ecc10a7fc747dff9b0f3446b8",
+      "texto_sha256": "04e98e65ab5ee968594b771013d2923546c5c0287181207f6f1717526d9a8a37",
       "condicoes": [
         {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"}
       ]
     },
     "portaria-iap-26-2006#anexo-in_lin72": {
-      "texto_sha256": "6ee95cab39c982ad45a3490d0520468debeba151199f0bfcbb1fb43313135d0b",
+      "texto_sha256": "7d07d7849393022cf96abf68e5c917f9102a6a44918a4122081c1efd442974f4",
       "condicoes": [
         {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"}
       ]
     },
     "portaria-iap-26-2006#anexo-in_lin73": {
-      "texto_sha256": "ad35465800e019c20b38ca32695be005c6fcf0ebbc7f6188e2c9c5cdc05e28a2",
+      "texto_sha256": "92a4bee1b0d228fe8b18f841596672f8fea6610da0d91299426c038c277ebbcc",
       "condicoes": [
         {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"}
       ]
     },
     "portaria-iap-26-2006#anexo-in_lin74": {
-      "texto_sha256": "55248fae81f02b37221178d7bf079e2250e35be6a5d929d318ea51de14bf8ebc",
+      "texto_sha256": "4d51bcb3380fd19fe4c6a0a662c44debb425a259a02f9ad2ba3fc34c1e74d0a5",
       "condicoes": [
         {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"},
         {"fato": "O empreendimento extrai, coleta, beneficia, transforma, comercializa ou armazena produtos, subprodutos ou matéria-prima de origem florestal.", "trecho": "em se tratando de empreendimentos que extraiam"}
       ]
     },
     "portaria-iap-26-2006#anexo-in_lin75": {
-      "texto_sha256": "064cfd8de8ebdce2680023dfb24dde559acd0390a3162fe51f722458f9ade708",
+      "texto_sha256": "76d6e9c4d8d4e4cc96793175fd850f04e62addf9439bbbfe2a9846cdde5cdd07",
       "condicoes": [
         {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"},
         {"fato": "O automonitoramento das emissões atmosféricas é necessário no caso.", "trecho": "Relatório do automonitoramento das emissões atmosféricas, se necessário"}
       ]
     },
     "portaria-iap-26-2006#anexo-in_lin76": {
-      "texto_sha256": "80cf190a8e05c3c259f46572ef85525b8d5aa24376cb70a5f0e123275021b0c5",
+      "texto_sha256": "8b0f5094a8eba810b283aa6ad025bf2c3c14caa37a11b4c32ac07d051e9b3153",
       "condicoes": [
         {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"},
         {"fato": "O automonitoramento dos efluentes líquidos foi solicitado em licenciamento anterior.", "trecho": "se solicitado em licenciamentos anteriores"}
       ]
     },
     "portaria-iap-26-2006#anexo-in_lin77": {
-      "texto_sha256": "3391777502a0a14e2721684f9b16d307753a5e6f5a5ea3e943047546a992741f",
+      "texto_sha256": "4014a5a6cbe4e73213c8f220dce1abeeaaeebf437f19a84feaf4a000021a2831",
       "condicoes": [
         {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"}
       ]
     },
     "portaria-iap-26-2006#anexo-in_lin78": {
-      "texto_sha256": "e3682b00168c94423add668b3c3ccf6b7cae9cd33f470a09a5d1859586f1e402",
+      "texto_sha256": "1f4f2bad6ab1f0e0c87ae9c138deefd90f6475e8a9e5d36094d557dbadfb209c",
       "condicoes": [
         {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"}
       ]
     },
     "portaria-iap-26-2006#anexo-in_lin79": {
-      "texto_sha256": "c8b3980bfb0bbd5bee92423f77c922cccdaeea52e1232b8d99599483ab2953fe",
+      "texto_sha256": "ca1b6bd551bddd1c13ff0e1772da86e72cd8932a958ecea926bb19ea3eac83fb",
       "condicoes": [
         {"campo": "modalidade", "valores": ["renovacao licenca operacao"], "trecho": "VI. RENOVAÇÃO DE LICENÇA DE OPERAÇÃO", "em": "portaria-iap-26-2006#anexo-in_lin70"}
       ]
     },
     "decreto-estadual-9541-2025#art121_par4": {
-      "texto_sha256": "34f0426396bdd3605603b3927d9740fae4472265762cde2f4bd1cfe682ac1712",
+      "texto_sha256": "512b26283933547d8c2ee70213026c87f632c56ef5bf50458cb791a98b639c53",
       "condicoes": [
         {"fato": "A renovação foi requerida com menos de 120 dias de antecedência, com a licença ainda vigente.", "trecho": "requerida fora do prazo de 120 (cento e vinte) dias, mas com a licença ainda vigente"}
       ]

@@ -29,25 +29,21 @@ O CONSELHO NACIONAL DO MEIO AMBIENTE - CONAMA, no uso das atribuições que lhe 
 
 ###### Art. 1º {#art1}
 
-Tags: #produto-perigoso #transporte
 
 **Art. 1º, caput** {#art1_cpt} Quando considerado conveniente pelos Estados, o transporte de produtos perigosos, em seus territórios, deverá ser efetuado mediante medidas essenciais complementares às estabelecidas pelo [[decreto-federal-88821-1983|Decreto nº 88.821, de 6 de outubro de 1983]].
 
 ###### Art. 2º {#art2}
 
-Tags: #produto-perigoso #transporte
 
 **Art. 2º, caput** {#art2_cpt} Os órgãos estaduais de meio ambiente deverão ser comunicados pelo transportador de produtos perigosos, com a antecedência mínima de setenta e duas horas de sua efetivação, a fim de que sejam adotadas as providências cabíveis.
 
 ###### Art. 3º {#art3}
 
-Tags: #produto-perigoso #transporte
 
 **Art. 3º, caput** {#art3_cpt} Na hipótese de que trata o artigo 1o, o CONAMA recomenda aos órgãos estaduais de meio ambiente que definam em conjunto com os órgãos de trânsito, os cuidados especiais a serem adotados.
 
 ###### Art. 4º {#art4}
 
-Tags: #produto-perigoso #transporte
 
 **Art. 4º, caput** {#art4_cpt} A presente Resolução entra em vigor na data de sua publicação.
 

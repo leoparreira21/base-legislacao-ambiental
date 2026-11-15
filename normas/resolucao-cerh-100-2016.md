@@ -32,12 +32,10 @@ fonte: "PDF de 1 página (corpo da resolução) e PDF de 18 páginas do anexo (D
 - **Considerando 2** {#preambulo_cons2} Considerando a Deliberação nº 11 CBH-TIBAGI, de 20 de março de 2016, que aprova proposição de atualização do enquadramento dos rios da Bacia do Rio Tibagi, resolve:
 
 ###### Art. 1º {#art1}
-Tags: #enquadramento #classificacao-corpo-agua #comite-bacia #bacia-tibagi #cerh
 
 **Art. 1º, caput** {#art1_cpt} Aprovar o enquadramento dos corpos de água superficiais na área de abrangência do Comitê da Bacia do Rio Tibagi, em classes, de acordo com os usos preponderantes, nos termos da Deliberação nº 11 CBH-TIBAGI e Anexo I.
 
 ###### Art. 2º {#art2}
-Tags: #vigencia #revogacao
 
 **Art. 2º, caput** {#art2_cpt} Esta Resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 

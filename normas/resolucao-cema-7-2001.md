@@ -31,12 +31,10 @@ fonte: "PDF de 9 páginas (corpo e Anexos I e II), enviado por Leo, com camada d
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #auditoria #petroleo #prazo #conama
 
 **Art. 1º, caput** {#art1_cpt} As Empresas com atividade na área de petróleo e derivados localizadas no estado do Paraná, deverão realizar auditoria ambiental independente em suas instalações industriais, marítimas e terrestres, até 31/12/2001.
 
 ###### Art. 2º {#art2}
-Tags: #auditoria #petroleo #refinaria #duto #terminal #armazenamento
 
 **Art. 2º, caput** {#art2_cpt} Ficam obrigados a realizar auditoria ambiental independente os seguintes empreendimentos:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} Campos de exploração e produção;
@@ -45,19 +43,16 @@ Tags: #auditoria #petroleo #refinaria #duto #terminal #armazenamento
 - **Art. 2º, caput, inciso IV** {#art2_cpt_inc4} Terminais terrestres e armazenagem superior ou igual a 1000 m3.
 
 ###### Art. 3º {#art3}
-Tags: #auditoria #petroleo #conama
 
 **Art. 3º, caput** {#art3_cpt} Para realização das auditorias ambientais independentes, devem ser seguidas as Diretrizes estabelecidas nos seguintes Anexos:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} Diretrizes para Realização de Auditoria Ambiental (Resolução n.º 265/2000);
 - **Art. 3º, caput, inciso II** {#art3_cpt_inc2} Diretrizes para a Execução de Auditoria Ambiental de Processo e Conformidade nas Instalações de Petróleo e Derivados no Estado do Paraná.
 
 ###### Art. 4º {#art4}
-Tags: #auditoria #petroleo #iap #renovacao #licenca-operacao #plano-acao
 
 **Art. 4º, caput** {#art4_cpt} Os produtos das auditorias ambientais independentes, ou seja, Relatório Final e Plano de Ação, serão objeto de análise do Instituto Ambiental do Paraná, com vistas às exigências e/ou condicionantes para Renovação da Licença de Operação das unidades auditadas.
 
 ###### Art. 5º {#art5}
-Tags: #vigencia #revogacao
 
 **Art. 5º, caput** {#art5_cpt} Esta Resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 

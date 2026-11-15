@@ -58,14 +58,12 @@ Considerando que o atendimento aos limites de emissões de poluentes atmosféric
 Considerando que a determinação de limites nacionais de emissão atmosférica deve também levar em conta seu custo e o impacto deste nas economias regionais, resolve:
 
 ###### Art. 1º {#art1}
-Tags: #emissao-atmosferica #fonte-fixa #limite-emissao
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer limites máximos de emissão de poluentes atmosféricos para fontes fixas.
 
 **Art. 1º, parágrafo único** {#art1_par1u} Os limites são fixados por poluente e por tipologia de fonte conforme estabelecido nos [[#anexos|anexos desta Resolução]].
 
 ###### Art. 2º {#art2}
-Tags: #limite-emissao #capacidade-suporte #tecnologia-controle
 
 **Art. 2º, caput** {#art2_cpt} Para o estabelecimento dos limites de emissão de poluentes atmosféricos são considerados os seguintes critérios mínimos:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} o uso do limite de emissões é um dos instrumentos de controle ambiental, cuja aplicação deve ser associada a critérios de capacidade de suporte do meio ambiente, ou seja, ao grau de saturação da região onde se encontra o empreendimento;
@@ -75,28 +73,27 @@ Tags: #limite-emissao #capacidade-suporte #tecnologia-controle
 - **Art. 2º, caput, inciso V** {#art2_cpt_inc5} informações técnicas e mensurações de emissões efetuadas no País bem como o levantamento bibliográfico do que está sendo praticado no Brasil e no exterior em termos de fabricação e uso de equipamentos, assim como exigências dos órgãos ambientais licenciadores.
 
 ###### Art. 3º {#art3}
-Tags: #definicao #emissao-atmosferica #fonte-fixa #limite-emissao
 
 **Art. 3º, caput** {#art3_cpt} Para efeito desta Resolução são adotadas as seguintes definições:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} definições referentes às fontes de emissão:
-  - **Art. 3º, caput, inciso I, alínea "a"** {#art3_cpt_inc1_alia} #capacidade-suporte capacidade de suporte: a capacidade da atmosfera de uma região receber os remanescentes das fontes emissoras de forma a serem atendidos os padrões ambientais e os diversos usos dos recursos naturais;
+  - **Art. 3º, caput, inciso I, alínea "a"** {#art3_cpt_inc1_alia} capacidade de suporte: a capacidade da atmosfera de uma região receber os remanescentes das fontes emissoras de forma a serem atendidos os padrões ambientais e os diversos usos dos recursos naturais;
   - **Art. 3º, caput, inciso I, alínea "b"** {#art3_cpt_inc1_alib} controle de emissões: procedimentos destinados à redução ou à prevenção da liberação de poluentes para a atmosfera;
   - **Art. 3º, caput, inciso I, alínea "c"** {#art3_cpt_inc1_alic} emissão: lançamento na atmosfera de qualquer forma de matéria sólida, líquida ou gasosa;
-  - **Art. 3º, caput, inciso I, alínea "d"** {#art3_cpt_inc1_alid} #emissao-fugitiva emissão fugitiva: lançamento difuso na atmosfera de qualquer forma de matéria sólida, líquida ou gasosa, efetuado por uma fonte desprovida de dispositivo projetado para dirigir ou controlar seu fluxo;
-  - **Art. 3º, caput, inciso I, alínea "e"** {#art3_cpt_inc1_alie} #emissao-pontual emissão pontual: lançamento na atmosfera de qualquer forma de matéria sólida, líquida ou gasosa, efetuado por uma fonte provida de dispositivo para dirigir ou controlar seu fluxo, como dutos e chaminés;
+  - **Art. 3º, caput, inciso I, alínea "d"** {#art3_cpt_inc1_alid} emissão fugitiva: lançamento difuso na atmosfera de qualquer forma de matéria sólida, líquida ou gasosa, efetuado por uma fonte desprovida de dispositivo projetado para dirigir ou controlar seu fluxo;
+  - **Art. 3º, caput, inciso I, alínea "e"** {#art3_cpt_inc1_alie} emissão pontual: lançamento na atmosfera de qualquer forma de matéria sólida, líquida ou gasosa, efetuado por uma fonte provida de dispositivo para dirigir ou controlar seu fluxo, como dutos e chaminés;
   - **Art. 3º, caput, inciso I, alínea "f"** {#art3_cpt_inc1_alif} equipamento de controle de poluição do ar: dispositivo que reduz as emissões atmosféricas;
   - **Art. 3º, caput, inciso I, alínea "g"** {#art3_cpt_inc1_alig} fonte fixa de emissão: qualquer instalação, equipamento ou processo, situado em local fixo, que libere ou emita matéria para a atmosfera, por emissão pontual ou fugitiva;
-  - **Art. 3º, caput, inciso I, alínea "h"** {#art3_cpt_inc1_alih} #lme limite máximo de emissão - LME: quantidade máxima de poluentes permissível de ser lançada para a atmosfera por fontes fixas; e
-  - **Art. 3º, caput, inciso I, alínea "i"** {#art3_cpt_inc1_alii} #producao-mais-limpa prevenção à geração da poluição: conceito que privilegia a atuação sobre o processo produtivo, de forma a minimizar a geração de poluição, eliminando ou reduzindo a necessidade do uso de equipamento de controle, também conhecido como as denominações de Prevenção à Poluição e Produção mais Limpa.
+  - **Art. 3º, caput, inciso I, alínea "h"** {#art3_cpt_inc1_alih} limite máximo de emissão - LME: quantidade máxima de poluentes permissível de ser lançada para a atmosfera por fontes fixas; e
+  - **Art. 3º, caput, inciso I, alínea "i"** {#art3_cpt_inc1_alii} prevenção à geração da poluição: conceito que privilegia a atuação sobre o processo produtivo, de forma a minimizar a geração de poluição, eliminando ou reduzindo a necessidade do uso de equipamento de controle, também conhecido como as denominações de Prevenção à Poluição e Produção mais Limpa.
 - **Art. 3º, caput, inciso II** {#art3_cpt_inc2} definições referentes aos poluentes que não possuem característica química definida:
-  - **Art. 3º, caput, inciso II, alínea "a"** {#art3_cpt_inc2_alia} #cov compostos orgânicos voláteis: compostos orgânicos que possuem ponto ebulição de até 130ºC na pressão atmosférica e podem contribuir na formação dos oxidantes fotoquímicos;
-  - **Art. 3º, caput, inciso II, alínea "b"** {#art3_cpt_inc2_alib} #ert enxofre reduzido total - ERT: compostos de enxofre reduzido, medidos como um todo, referindo-se principalmente ao gás sulfídrico e às mercaptanas, expresso como dióxido de enxofre (SO2);
-  - **Art. 3º, caput, inciso II, alínea "c"** {#art3_cpt_inc2_alic} #material-particulado material particulado - MP: todo e qualquer material sólido ou líquido, em mistura gasosa, que se mantém neste estado na temperatura do meio filtrante, estabelecida pelo método adotado;
-  - **Art. 3º, caput, inciso II, alínea "d"** {#art3_cpt_inc2_alid} #nox NOx: refere-se à soma das concentrações de monóxido de nitrogênio (NO) e dióxido de nitrogênio (NO2), sendo expresso como (NO2); e
-  - **Art. 3º, caput, inciso II, alínea "e"** {#art3_cpt_inc2_alie} #sox SOx: refere-se à soma das concentrações de dióxido de enxofre (SO2) e trióxido de enxofre (SO3), sendo expresso como (SO2).
+  - **Art. 3º, caput, inciso II, alínea "a"** {#art3_cpt_inc2_alia} compostos orgânicos voláteis: compostos orgânicos que possuem ponto ebulição de até 130ºC na pressão atmosférica e podem contribuir na formação dos oxidantes fotoquímicos;
+  - **Art. 3º, caput, inciso II, alínea "b"** {#art3_cpt_inc2_alib} enxofre reduzido total - ERT: compostos de enxofre reduzido, medidos como um todo, referindo-se principalmente ao gás sulfídrico e às mercaptanas, expresso como dióxido de enxofre (SO2);
+  - **Art. 3º, caput, inciso II, alínea "c"** {#art3_cpt_inc2_alic} material particulado - MP: todo e qualquer material sólido ou líquido, em mistura gasosa, que se mantém neste estado na temperatura do meio filtrante, estabelecida pelo método adotado;
+  - **Art. 3º, caput, inciso II, alínea "d"** {#art3_cpt_inc2_alid} NOx: refere-se à soma das concentrações de monóxido de nitrogênio (NO) e dióxido de nitrogênio (NO2), sendo expresso como (NO2); e
+  - **Art. 3º, caput, inciso II, alínea "e"** {#art3_cpt_inc2_alie} SOx: refere-se à soma das concentrações de dióxido de enxofre (SO2) e trióxido de enxofre (SO3), sendo expresso como (SO2).
 - **Art. 3º, caput, inciso III** {#art3_cpt_inc3} definições referentes às unidades e forma obrigatória de expressão de resultados:
-  - **Art. 3º, caput, inciso III, alínea "a"** {#art3_cpt_inc3_alia} #cntp concentração: relação entre a massa de um poluente e o volume em que ele está contido (C = m/V), devendo ser sempre relatada em miligramas por normal metro cúbico (Nm3), isto é, referido às condições normais de temperatura e pressão (CNTP), em base seca e, quando aplicável, na condição referencial de oxigênio estabelecida, utilizando-se sempre a notação - mg/Nm3, CNTP - Condições Normais de Temperatura e Pressão: Pressão = 1013 mBar (correspondente a 1 atmosfera ou 760 mmHg); Temperatura = 273 K (correspondente a 0°C).
-  - **Art. 3º, caput, inciso III, alínea "b"** {#art3_cpt_inc3_alib} #oxigenio-referencia conversão às condições referenciais de oxigênio: a conversão da concentração medida para a condição referencial de oxigênio é apresentada abaixo, não sendo aplicável quando ocorrer injeção de oxigênio puro no processo:
+  - **Art. 3º, caput, inciso III, alínea "a"** {#art3_cpt_inc3_alia} concentração: relação entre a massa de um poluente e o volume em que ele está contido (C = m/V), devendo ser sempre relatada em miligramas por normal metro cúbico (Nm3), isto é, referido às condições normais de temperatura e pressão (CNTP), em base seca e, quando aplicável, na condição referencial de oxigênio estabelecida, utilizando-se sempre a notação - mg/Nm3, CNTP - Condições Normais de Temperatura e Pressão: Pressão = 1013 mBar (correspondente a 1 atmosfera ou 760 mmHg); Temperatura = 273 K (correspondente a 0°C).
+  - **Art. 3º, caput, inciso III, alínea "b"** {#art3_cpt_inc3_alib} conversão às condições referenciais de oxigênio: a conversão da concentração medida para a condição referencial de oxigênio é apresentada abaixo, não sendo aplicável quando ocorrer injeção de oxigênio puro no processo:
 
     **Fórmula:** CR = [(21 − OR) / (21 − OM)] × CM
 
@@ -116,7 +113,6 @@ Tags: #definicao #emissao-atmosferica #fonte-fixa #limite-emissao
 **Art. 3º, parágrafo único** {#art3_par1u} Nos procedimentos referentes a aplicacao desta Resolucao, recomenda-se evitar a expressao “Metais Pesados” por nao possuir uma definicao cientifica, devendo ser citados os metais de interesse especifico.
 
 ###### Art. 4º {#art4}
-Tags: #amostragem #metodo-analise #material-particulado #relatorio
 
 **Art. 4º, caput** {#art4_cpt} A verificação do atendimento aos limites de emissão deverá ser efetuada conforme métodos de amostragem e análise especificados em normas técnicas cientificamente reconhecidas e aceitas pelo órgão ambiental licenciador.
 
@@ -127,7 +123,6 @@ Tags: #amostragem #metodo-analise #material-particulado #relatorio
 **Art. 4º, § 3º** {#art4_par3} Os resultados das medições devem ser apresentados em relatório com periodicidade definida pelo órgão ambiental licenciador, contendo todos os resultados da medição, as metodologias de amostragem e análise, as condições de operação do processo incluindo tipos e quantidades de combustível e/ou insumos utilizados, além de outras determinações efetuadas pelo órgão licenciador.
 
 ###### Art. 5º {#art5}
-Tags: #monitoramento #monitoramento-continuo #amostragem
 
 **Art. 5º, caput** {#art5_cpt} O monitoramento das emissões poderá ser realizado por métodos descontínuos ou contínuos, em conformidade com o órgão ambiental e atendendo necessariamente aos seguintes critérios:
 
@@ -135,7 +130,7 @@ Tags: #monitoramento #monitoramento-continuo #amostragem
 - **Art. 5º, § 1º, inciso I** {#art5_par1_inc1} as amostragens devem ser representativas, considerando as variações típicas de operação do processo; e
 - **Art. 5º, § 1º, inciso II** {#art5_par1_inc2} o limite de emissão é considerado atendido se, de três resultados de medições descontínuas efetuadas em uma única campanha, a média aritmética das medições atende aos valores determinados, admitidos o descarte de um dos resultados quando esse for considerado discrepante.
 
-**Art. 5º, § 2º** {#art5_par2} #monitoramento-continuo O monitoramento contínuo pode ser utilizado para verificação de atendimento aos limites de emissão, observadas as seguintes condições:
+**Art. 5º, § 2º** {#art5_par2} O monitoramento contínuo pode ser utilizado para verificação de atendimento aos limites de emissão, observadas as seguintes condições:
 - **Art. 5º, § 2º, inciso I** {#art5_par2_inc1} o monitoramento será considerado contínuo quando a fonte estiver sendo monitorada em, no mínimo, 67% do tempo de sua operação por um monitor contínuo, considerando o período de um ano;
 - **Art. 5º, § 2º, inciso II** {#art5_par2_inc2} a média diária será considerada válida quando há monitoramento válido durante pelo menos 75% do tempo operado neste dia;
 - **Art. 5º, § 2º, inciso III** {#art5_par2_inc3} para efeito de verificação de conformidade da norma, serão desconsiderados os dados gerados em situações transitórias de operação tais como paradas ou partidas de unidades, quedas de energia, ramonagem, testes de novos combustíveis e matériasprimas, desde que não passem 2% do tempo monitorado durante um dia (das 0 às 24 horas). Poderão ser aceitos percentuais maiores que os acima estabelecidos no caso de processos especiais, onde as paradas e partidas sejam necessariamente mais longas, desde que acordados com o órgão ambiental licenciador;
@@ -144,30 +139,26 @@ Tags: #monitoramento #monitoramento-continuo #amostragem
 **Art. 5º, § 3º** {#art5_par3} Critérios adicionais para validação de dados poderão ser estabelecidos pelo órgão ambiental licenciador.
 
 ###### Art. 6º {#art6}
-Tags: #ambito-aplicacao #li #limite-emissao
 
 **Art. 6º, caput** {#art6_cpt} Esta Resolução se aplica às fontes fixas de poluentes atmosféricos cuja Licença de Instalação venha a ser solicitada aos órgãos licenciadores após a publicação desta Resolução.
 
-**Art. 6º, § 1º** {#art6_par1} #qualidade-ar O órgão ambiental licenciador poderá, mediante decisão fundamentada, determinar limites de emissão mais restritivos que os aqui estabelecidos em áreas onde, a seu critério, o gerenciamento da qualidade do ar assim o exigir.
+**Art. 6º, § 1º** {#art6_par1} O órgão ambiental licenciador poderá, mediante decisão fundamentada, determinar limites de emissão mais restritivos que os aqui estabelecidos em áreas onde, a seu critério, o gerenciamento da qualidade do ar assim o exigir.
 
 **Art. 6º, § 2º** {#art6_par2} O órgão ambiental licenciador poderá, mediante decisão fundamentada, a seu critério, estabelecer limites de emissão menos restritivos que os estabelecidos nesta Resolução para as fontes fixas de emissões atmosféricas, nas modificações passíveis de licenciamento em fontes já instaladas e regularizadas, que apresentem comprovados ganhos ambientais, tais como os resultantes da conversão de caldeiras para o uso de gás, que minimizam os impactos ambientais de fontes projetadas originalmente com outro(s) insumo(s), notadamente óleo combustível e carvão.
 
 ###### Art. 7º {#art7}
-Tags: #fonte-existente #limite-emissao #renovacao
 
 **Art. 7º, caput** {#art7_cpt} As fontes fixas existentes, por já estarem em funcionamento ou com a licença de instalação requerida antes da publicação desta Resolução, deverão ter seus limites de emissão fixados pelo órgão ambiental licenciador, a qualquer momento ou no processo de renovação de licença, mediante decisão fundamentada.
 
 **Art. 7º, § 1º** {#art7_par1} O órgão ambiental licenciador poderá estabelecer valores menos restritivos que os limites máximos de emissão estabelecidos nesta Resolução, considerando as limitações tecnológicas e o impacto nas condições locais, de acordo com o disposto na [[resolucao-conama-5-1989|Resolução CONAMA no 5, de 15 de junho de 1989]].
 
-**Art. 7º, § 2º** {#art7_par2} #meta O órgão ambiental licenciador deverá estabelecer metas obrigatórias para os limites de emissão considerando o impacto das fontes existentes nas condições locais, mediante documento específico.
+**Art. 7º, § 2º** {#art7_par2} O órgão ambiental licenciador deverá estabelecer metas obrigatórias para os limites de emissão considerando o impacto das fontes existentes nas condições locais, mediante documento específico.
 
 ###### Art. 8º {#art8}
-Tags: #geracao-calor #transicao
 
 **Art. 8º, caput** {#art8_cpt} A partir da publicação desta Resolução e até o estabelecimento de limites específicos, permanecem aplicáveis os critérios e limites estabelecidos na [[resolucao-conama-8-1990|Resolução CONAMA no 8, de 6 de dezembro de 1990]], para os processos de geração de calor não abrangidos por esta Resolução.
 
 ###### Art. 9º {#art9}
-Tags: #vigencia
 
 **Art. 9º, caput** {#art9_cpt} Esta Resolução entra em vigor na data de sua publicação.
 
@@ -179,7 +170,6 @@ Tags: #vigencia
 ## ANEXOS {#anexos}
 
 ### ANEXO I – LIMITES DE EMISSÃO PARA POLUENTES ATMOSFÉRICOS PROVENIENTES DE PROCESSOS DE GERAÇÃO DE CALOR A PARTIR DA COMBUSTÃO EXTERNA DE ÓLEO COMBUSTÍVEL {#anexo1}
-Tags: #emissao-atmosferica #limite-emissao #caldeira #oleo-combustivel #geracao-calor
 
 - **Anexo I, linha 1** {#anexo1_lin1} 1. Ficam aqui definidos os limites máximos de emissão para poluentes atmosféricos provenientes de processos de geração de calor a partir da combustão externa de óleo combustível.
 - **Anexo I, linha 2** {#anexo1_lin2} 2. Para aplicação deste Anexo devem ser consideradas as seguintes definições dos termos:
@@ -209,7 +199,6 @@ Tags: #emissao-atmosferica #limite-emissao #caldeira #oleo-combustivel #geracao-
 - **Anexo I, linha 20** {#anexo1_lin20} 7. Em função das características locais da área de influência da fonte poluidora sobre a qualidade do ar, o órgão ambiental licenciador poderá estabelecer limites de emissão mais restritivos, inclusive considerando a alternativa de utilização de combustíveis com menor potencial poluidor.
 
 ### ANEXO II – LIMITES DE EMISSÃO PARA POLUENTES ATMOSFÉRICOS PROVENIENTES DE PROCESSOS DE GERAÇÃO DE CALOR A PARTIR DA COMBUSTÃO EXTERNA DE GÁS NATURAL {#anexo2}
-Tags: #emissao-atmosferica #limite-emissao #caldeira #gas-natural #geracao-calor
 
 - **Anexo II, linha 1** {#anexo2_lin1} 1. Ficam aqui definidos os limites de emissão para poluentes atmosféricos provenientes de processos de geração de calor a partir da combustão externa de gás natural.
 - **Anexo II, linha 2** {#anexo2_lin2} 2. Para aplicação deste Anexo devem ser consideradas as seguintes definições dos termos:
@@ -237,7 +226,6 @@ Tags: #emissao-atmosferica #limite-emissao #caldeira #gas-natural #geracao-calor
 - **Anexo II, linha 19** {#anexo2_lin19} 7. Em função das características locais da área de influência da fonte poluidora sobre a qualidade do ar, o órgão ambiental licenciador poderá estabelecer limites de emissão mais restritivos.
 
 ### ANEXO III – LIMITES DE EMISSÃO PARA POLUENTES ATMOSFÉRICOS PROVENIENTES DE PROCESSOS DE GERAÇÃO DE CALOR A PARTIR DA COMBUSTÃO EXTERNA DE BAGAÇO DE CANA-DE-AÇÚCAR {#anexo3}
-Tags: #emissao-atmosferica #limite-emissao #caldeira #bagaco-cana #geracao-calor
 
 - **Anexo III, linha 1** {#anexo3_lin1} 1. Ficam aqui definidos os limites de emissão de poluentes atmosféricos gerados em processos de geração de calor a partir da combustão de bagaço de cana-de-açúcar.
 - **Anexo III, linha 2** {#anexo3_lin2} 2. Para aplicação deste Anexo devem ser consideradas as seguintes definições dos termos:
@@ -274,7 +262,6 @@ Tags: #emissao-atmosferica #limite-emissao #caldeira #bagaco-cana #geracao-calor
 - **Anexo III, linha 20** {#anexo3_lin20} 7. Em função das características locais da área de influência da fonte poluidora sobre a qualidade do ar, o órgão ambiental licenciador poderá estabelecer limites de emissão mais restritivos, inclusive considerando a alternativa de utilização de combustíveis com menor potencial poluidor.
 
 ### ANEXO IV – LIMITES DE EMISSÃO PARA POLUENTES ATMOSFÉRICOS PROVENIENTES DE PROCESSOS DE GERAÇÃO DE CALOR A PARTIR DA COMBUSTÃO EXTERNA DE DERIVADOS DA MADEIRA {#anexo4}
-Tags: #emissao-atmosferica #limite-emissao #caldeira #lenha #geracao-calor #industria-madeira
 
 - **Anexo IV, linha 1** {#anexo4_lin1} 1. Ficam aqui definidos os limites de emissão para poluentes atmosféricos provenientes de processos de geração de calor a partir da combustão de derivados da madeira para fontes fixas industriais e de geração de energia elétrica.
 - **Anexo IV, linha 2** {#anexo4_lin2} 2. Para aplicação deste Anexo devem ser consideradas as seguintes definições dos termos:
@@ -314,7 +301,6 @@ Tags: #emissao-atmosferica #limite-emissao #caldeira #lenha #geracao-calor #indu
 - **Anexo IV, linha 22** {#anexo4_lin22} 7. Em função das características locais da área de influência da fonte poluidora sobre a qualidade do ar, o órgão ambiental licenciador poderá estabelecer limites de emissão mais restritivos, inclusive considerando a alternativa de utilização de combustíveis com menor potencial poluidor.
 
 ### ANEXO V – LIMITES DE EMISSÃO PARA POLUENTES ATMOSFÉRICOS PROVENIENTES DE TURBINAS A GÁS PARA GERAÇÃO DE ENERGIA ELÉTRICA {#anexo5}
-Tags: #emissao-atmosferica #limite-emissao #turbina-gas #geracao-energia
 
 - **Anexo V, linha 1** {#anexo5_lin1} 1. Ficam aqui definidos os limites de emissão para poluentes atmosféricos gerados por turbinas destinadas à geração de energia elétrica, movidas a gás natural ou combustíveis líquidos, em ciclo simples ou ciclo combinado, sem queima suplementar, com potência elétrica acima de 100 MW.
 - **Anexo V, linha 2** {#anexo5_lin2} 1.1. Quando a somatória total de geração elétrica por empreendimento for superior a 100 MW, os limites aqui estabelecidos também são requeridos para cada turbina individualmente, independentemente de sua capacidade de geração.
@@ -339,7 +325,6 @@ Tags: #emissao-atmosferica #limite-emissao #turbina-gas #geracao-energia
 - **Anexo V, linha 16** {#anexo5_lin16} 7. Em função das características locais da área de influência da fonte poluidora sobre a qualidade do ar, o órgão ambiental licenciador poderá estabelecer limites de emissão mais restritivos, inclusive considerando a alternativa de utilização de combustíveis com menor potencial poluidor.
 
 ### ANEXO VI – LIMITES DE EMISSÃO PARA POLUENTES ATMOSFÉRICOS PROVENIENTES DE PROCESSOS DE REFINARIAS DE PETRÓLEO {#anexo6}
-Tags: #emissao-atmosferica #limite-emissao #refinaria #petroleo
 
 - **Anexo VI, linha 1** {#anexo6_lin1} 1. Ficam aqui definidos os limites de emissão para poluentes atmosféricos gerados nos seguintes processos de refinarias de petróleo:
 - **Anexo VI, linha 2** {#anexo6_lin2} a) Fornos e caldeiras queimando gás de refinaria;
@@ -397,7 +382,6 @@ Tags: #emissao-atmosferica #limite-emissao #refinaria #petroleo
 - **Anexo VI, linha 39** {#anexo6_lin39} 7. Em função das características locais da área de influência da fonte poluidora sobre a qualidade do ar, o órgão ambiental licenciador poderá estabelecer limites de emissão mais restritivos, inclusive considerando a alternativa de utilização de combustíveis com menor potencial poluidor.
 
 ### ANEXO VII – LIMITES DE EMISSÃO PARA POLUENTES ATMOSFÉRICOS PROVENIENTES DE PROCESSOS DE FABRICAÇÃO DE CELULOSE {#anexo7}
-Tags: #emissao-atmosferica #limite-emissao #papel-celulose
 
 - **Anexo VII, linha 1** {#anexo7_lin1} 1. Ficam aqui definidos os limites de emissão de poluentes atmosféricos provenientes do processo de fabricação de celulose.
 - **Anexo VII, linha 2** {#anexo7_lin2} 2. Para aplicação deste Anexo devem ser consideradas as seguintes definições dos termos:
@@ -429,7 +413,6 @@ Tags: #emissao-atmosferica #limite-emissao #papel-celulose
 - **Anexo VII, linha 22** {#anexo7_lin22} 7. Em função das características locais da área de influência da fonte poluidora sobre a qualidade do ar, o órgão ambiental licenciador poderá estabelecer limites de emissão mais restritivos, inclusive considerando o incômodo causado pelo odor além dos limites do empreendimento.
 
 ### ANEXO VIII – LIMITES DE EMISSÃO PARA POLUENTES ATMOSFÉRICOS PROVENIENTES DE PROCESSOS DE FUSÃO SECUNDÁRIA DE CHUMBO {#anexo8}
-Tags: #emissao-atmosferica #limite-emissao #chumbo #industria-metalurgica #pilha-bateria
 
 - **Anexo VIII, linha 1** {#anexo8_lin1} 1. Ficam aqui definidos os limites de emissão para poluentes atmosféricos provenientes de processos de fusão secundária de chumbo.
 - **Anexo VIII, linha 2** {#anexo8_lin2} 2. Para aplicação deste Anexo devem ser consideradas as seguintes definições dos termos:
@@ -477,7 +460,6 @@ Tags: #emissao-atmosferica #limite-emissao #chumbo #industria-metalurgica #pilha
 - **Anexo VIII, linha 30** {#anexo8_lin30} 7.2. Em função das características locais da área de influência da fonte poluidora sobre a qualidade do ar, o órgão ambiental licenciador poderá estabelecer limites de emissão mais restritivos, caso os valores ambientais encontrados não sejam considerados adequados e novos controles e limites de emissão deverão ser estabelecidos para cada fonte específica.
 
 ### ANEXO IX – LIMITES DE EMISSÃO PARA POLUENTES ATMOSFÉRICOS PROVENIENTES DE PROCESSOS DA INDÚSTRIA DE ALUMÍNIO PRIMÁRIO {#anexo9}
-Tags: #emissao-atmosferica #limite-emissao #aluminio #industria-metalurgica
 
 - **Anexo IX, linha 1** {#anexo9_lin1} 1. Ficam aqui definidos os limites de emissão para poluentes atmosféricos provenientes de processos da indústria de alumínio primário.
 - **Anexo IX, linha 2** {#anexo9_lin2} 2. Para aplicação deste Anexo devem ser consideradas as seguintes definições dos termos:
@@ -503,7 +485,6 @@ Tags: #emissao-atmosferica #limite-emissao #aluminio #industria-metalurgica
 - **Anexo IX, linha 16** {#anexo9_lin16} 7. Em função das características locais da área de influência da fonte poluidora sobre a qualidade do ar, o órgão ambiental licenciador poderá estabelecer limites de emissão mais restritivos.
 
 ### ANEXO X – LIMITES DE EMISSÃO PARA POLUENTES ATMOSFÉRICOS PROVENIENTES DE FORNOS DE FUSÃO DE VIDRO {#anexo10}
-Tags: #emissao-atmosferica #limite-emissao #vidro #minerais-nao-metalicos
 
 - **Anexo X, linha 1** {#anexo10_lin1} 1. Ficam aqui definidos os limites de emissão para poluentes atmosféricos provenientes de fornos de fusão de vidro.
 - **Anexo X, linha 2** {#anexo10_lin2} 1.1. Excetuam-se os fornos de fusão de vidro cujo vidro fundido é removido manualmente, e aqueles com capacidades nominais de produção inferiores a 8 t/d (oito toneladas por dia), que deverão adotar, de acordo com o órgão ambiental licenciador, as melhores práticas disponíveis de processo, operação e manutenção para minimizar as emissões atmosféricas.
@@ -543,7 +524,6 @@ Tags: #emissao-atmosferica #limite-emissao #vidro #minerais-nao-metalicos
 - **Anexo X, linha 20** {#anexo10_lin20} 6. Em função das características locais da área de influência da fonte poluidora sobre a qualidade do ar, o órgão ambiental licenciador poderá estabelecer limites de emissão mais restritivos.
 
 ### ANEXO XI – LIMITES DE EMISSÃO PARA POLUENTES ATMOSFÉRICOS PROVENIENTES DA INDÚSTRIA DO CIMENTO PORTLAND {#anexo11}
-Tags: #emissao-atmosferica #limite-emissao #cimento #minerais-nao-metalicos
 
 - **Anexo XI, linha 1** {#anexo11_lin1} 1. Ficam aqui definidos os limites de emissão de poluentes atmosféricos gerados na indústria do cimento Portland.
 - **Anexo XI, linha 2** {#anexo11_lin2} 1.1. Os limites de emissão de poluentes decorrentes do co-processamento de resíduos em forno clínquer serão objeto de resolução específica.
@@ -577,7 +557,6 @@ Tags: #emissao-atmosferica #limite-emissao #cimento #minerais-nao-metalicos
 - **Anexo XI, linha 21** {#anexo11_lin21} 7. Em função das características locais da área de influência da fonte poluidora sobre a qualidade do ar, o órgão ambiental licenciador poderá estabelecer limites de emissão mais restritivos, inclusive considerando a alternativa de utilização de combustíveis com menor potencial poluidor.
 
 ### ANEXO XII – LIMITES DE EMISSÃO PARA POLUENTES ATMOSFÉRICOS GERADOS NA PRODUÇÃO DE FERTILIZANTES, ÁCIDO FOSFÓRICO, ÁCIDO SULFÚRICO E ÁCIDO NÍTRICO {#anexo12}
-Tags: #emissao-atmosferica #limite-emissao #fertilizante #industria-quimica
 
 - **Anexo XII, linha 1** {#anexo12_lin1} 1. Ficam aqui definidos os limites de emissão de poluentes atmosféricos gerados na produção de fertilizantes, ácido fosfórico, ácido sulfúrico e ácido nítrico.
 - **Anexo XII, linha 2** {#anexo12_lin2} 2. Para aplicação deste Anexo devem ser consideradas as seguintes definições dos termos:
@@ -645,7 +624,6 @@ Tags: #emissao-atmosferica #limite-emissao #fertilizante #industria-quimica
 - **Anexo XII, linha 40** {#anexo12_lin40} 7. Em função das características locais da área de influência da fonte emissora sobre a qualidade do ar, o órgão ambiental licenciador poderá estabelecer limites de emissão mais restritivos que aqueles aqui estabelecidos.
 
 ### ANEXO XIII – LIMITES DE EMISSÃO PARA POLUENTES ATMOSFÉRICOS GERADOS NAS INDÚSTRIAS SIDERÚRGICAS INTEGRADAS E SEMI-INTEGRADAS E USINAS DE PELOTIZAÇÃO DE MINÉRIO DE FERRO {#anexo13}
-Tags: #emissao-atmosferica #limite-emissao #siderurgia #industria-metalurgica
 
 - **Anexo XIII, linha 1** {#anexo13_lin1} 1. Ficam aqui definidos os limites de emissão para poluentes atmosféricos gerados nas indústrias siderúrgicas integradas e semi-integradas e usinas de pelotização de minério de ferro.
 - **Anexo XIII, linha 2** {#anexo13_lin2} 2. Para aplicação deste Anexo deverão ser consideradas as seguintes definições dos termos:

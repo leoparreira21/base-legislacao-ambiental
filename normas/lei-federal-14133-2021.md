@@ -38,7 +38,6 @@ fonte: "Planalto (Presidência da República – Secretaria-Geral), impressão d
 ### CAPÍTULO I – DO ÂMBITO DE APLICAÇÃO DESTA LEI
 
 ###### Art. 1º {#art1}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 1º, caput** {#art1_cpt} Esta Lei estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios, e abrange:
 - **Art. 1º, caput, inciso I** {#art1_cpt_inc1} os órgãos dos Poderes Legislativo e Judiciário da União, dos Estados e do Distrito Federal e os órgãos do Poder Legislativo dos Municípios, quando no desempenho de função administrativa;
@@ -61,7 +60,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 1º, § 5º** {#art1_par5} As contratações relativas à gestão, direta e indireta, das reservas internacionais do País, inclusive as de serviços conexos ou acessórios a essa atividade, serão disciplinadas em ato normativo próprio do Banco Central do Brasil, assegurada a observância dos princípios estabelecidos no caput do art. [[#art37|37]] da Constituição Federal.
 
 ###### Art. 2º {#art2}
-Tags:
 
 **Art. 2º, caput** {#art2_cpt} Esta Lei aplica-se a:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} alienação e concessão de direito real de uso de bens;
@@ -73,14 +71,12 @@ Tags:
 - **Art. 2º, caput, inciso VII** {#art2_cpt_inc7} contratações de tecnologia da informação e de comunicação.
 
 ###### Art. 3º {#art3}
-Tags: #contrato-administrativo #garantia-contratual
 
 **Art. 3º, caput** {#art3_cpt} Não se subordinam ao regime desta Lei:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} contratos que tenham por objeto operação de crédito, interno ou externo, e gestão de dívida pública, incluídas as contratações de agente financeiro e a concessão de garantia relacionadas a esses contratos;
 - **Art. 3º, caput, inciso II** {#art3_cpt_inc2} contratações sujeitas a normas previstas em legislação própria.
 
 ###### Art. 4º {#art4}
-Tags: #licitacao #contrato-administrativo #obra-engenharia #prazo
 
 **Art. 4º, caput** {#art4_cpt} Aplicam-se às licitações e contratos disciplinados por esta Lei as disposições constantes dos arts. 42 a 49 da [[lei-complementar-federal-123-2006|Lei Complementar nº 123, de 14 de dezembro de 2006]].
 
@@ -95,14 +91,12 @@ Tags: #licitacao #contrato-administrativo #obra-engenharia #prazo
 ### CAPÍTULO II – DOS PRINCÍPIOS
 
 ###### Art. 5º {#art5}
-Tags:
 
 **Art. 5º, caput** {#art5_cpt} Na aplicação desta Lei, serão observados os princípios da legalidade, da impessoalidade, da moralidade, da publicidade, da eficiência, do interesse público, da probidade administrativa, da igualdade, do planejamento, da transparência, da eficácia, da segregação de funções, da motivação, da vinculação ao edital, do julgamento objetivo, da segurança jurídica, da razoabilidade, da competitividade, da proporcionalidade, da celeridade, da economicidade e do desenvolvimento nacional sustentável, assim como as disposições do [[decreto-lei-federal-4657-1942|Decreto-Lei nº 4.657, de 4 de setembro de 1942]] (Lei de Introdução às Normas do Direito Brasileiro).
 
 ### CAPÍTULO III – DAS DEFINIÇÕES
 
 ###### Art. 6º {#art6}
-Tags: #sustentabilidade #licitacao #contrato-administrativo #estudo-tecnico-preliminar #termo-referencia
 
 **Art. 6º, caput** {#art6_cpt} Para os fins desta Lei, consideram-se:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} órgão: unidade de atuação integrante da estrutura da Administração Pública;
@@ -220,7 +214,6 @@ Tags: #sustentabilidade #licitacao #contrato-administrativo #estudo-tecnico-prel
 ### CAPÍTULO IV – DOS AGENTES PÚBLICOS
 
 ###### Art. 7º {#art7}
-Tags: #licitacao #contrato-administrativo #sancao
 
 **Art. 7º, caput** {#art7_cpt} Caberá à autoridade máxima do órgão ou da entidade, ou a quem as normas de organização administrativa indicarem, promover gestão por competências e designar agentes públicos para o desempenho das funções essenciais à execução desta Lei que preencham os seguintes requisitos:
 - **Art. 7º, caput, inciso I** {#art7_cpt_inc1} sejam, preferencialmente, servidor efetivo ou empregado público dos quadros permanentes da Administração Pública;
@@ -232,7 +225,6 @@ Tags: #licitacao #contrato-administrativo #sancao
 **Art. 7º, § 2º** {#art7_par2} O disposto no caput e no § 1º deste artigo, inclusive os requisitos estabelecidos, também se aplica aos órgãos de assessoramento jurídico e de controle interno da Administração.
 
 ###### Art. 8º {#art8}
-Tags: #licitacao #contrato-administrativo #prazo
 
 **Art. 8º, caput** {#art8_cpt} A licitação será conduzida por agente de contratação, pessoa designada pela autoridade competente, entre servidores efetivos ou empregados públicos dos quadros permanentes da Administração Pública, para tomar decisões, acompanhar o trâmite da licitação, dar impulso ao procedimento licitatório e executar quaisquer outras atividades necessárias ao bom andamento do certame até a homologação.
 
@@ -247,7 +239,6 @@ Tags: #licitacao #contrato-administrativo #prazo
 **Art. 8º, § 5º** {#art8_par5} Em licitação na modalidade pregão, o agente responsável pela condução do certame será designado pregoeiro.
 
 ###### Art. 9º {#art9}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 9º, caput** {#art9_cpt} É vedado ao agente público designado para atuar na área de licitações e contratos, ressalvados os casos previstos em lei:
 - **Art. 9º, caput, inciso I** {#art9_cpt_inc1} admitir, prever, incluir ou tolerar, nos atos que praticar, situações que:
@@ -262,7 +253,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 9º, § 2º** {#art9_par2} As vedações de que trata este artigo estendem-se a terceiro que auxilie a condução da contratação na qualidade de integrante de equipe de apoio, profissional especializado ou funcionário ou representante de empresa que preste assessoria técnica.
 
 ###### Art. 10 {#art10}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 10, caput** {#art10_cpt} Se as autoridades competentes e os servidores públicos que tiverem participado dos procedimentos relacionados às licitações e aos contratos de que trata esta Lei precisarem defender-se nas esferas administrativa, controladora ou judicial em razão de ato praticado com estrita observância de orientação constante em parecer jurídico elaborado na forma do § 1º do art. [[#art53|53]] desta Lei, a advocacia pública promoverá, a critério do agente público, sua representação judicial ou extrajudicial.
 
@@ -277,7 +267,6 @@ Tags: #licitacao #contrato-administrativo
 ### CAPÍTULO I – DO PROCESSO LICITATÓRIO
 
 ###### Art. 11 {#art11}
-Tags: #contrato-administrativo
 
 **Art. 11, caput** {#art11_cpt} O processo licitatório tem por objetivos:
 - **Art. 11, caput, inciso I** {#art11_cpt_inc1} assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto;
@@ -288,7 +277,6 @@ Tags: #contrato-administrativo
 **Art. 11, parágrafo único** {#art11_par1u} A alta administração do órgão ou entidade é responsável pela governança das contratações e deve implementar processos e estruturas, inclusive de gestão de riscos e controles internos, para avaliar, direcionar e monitorar os processos licitatórios e os respectivos contratos, com o intuito de alcançar os objetivos estabelecidos no caput deste artigo, promover um ambiente íntegro e confiável, assegurar o alinhamento das contratações ao planejamento estratégico e às leis orçamentárias e promover eficiência, efetividade e eficácia em suas contratações.
 
 ###### Art. 12 {#art12}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 12, caput** {#art12_cpt} No processo licitatório, observar-se-á o seguinte:
 - **Art. 12, caput, inciso I** {#art12_cpt_inc1} os documentos serão produzidos por escrito, com data e local de sua realização e assinatura dos responsáveis;
@@ -304,7 +292,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 12, § 2º** {#art12_par2} É permitida a identificação e assinatura digital por pessoa física ou jurídica em meio eletrônico, mediante certificado digital emitido em âmbito da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil).
 
 ###### Art. 13 {#art13}
-Tags:
 
 **Art. 13, caput** {#art13_cpt} Os atos praticados no processo licitatório são públicos, ressalvadas as hipóteses de informações cujo sigilo seja imprescindível à segurança da sociedade e do Estado, na forma da lei.
 
@@ -313,7 +300,6 @@ Tags:
 - **Art. 13, parágrafo único, inciso II** {#art13_par1u_inc2} quanto ao orçamento da Administração, nos termos do art. [[#art24|24]] desta Lei.
 
 ###### Art. 14 {#art14}
-Tags: #licitacao #contrato-administrativo #projeto-engenharia #sancao #fiscalizacao
 
 **Art. 14, caput** {#art14_cpt} Não poderão disputar licitação ou participar da execução de contrato, direta ou indiretamente:
 - **Art. 14, caput, inciso I** {#art14_cpt_inc1} autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou jurídica, quando a licitação versar sobre obra, serviços ou fornecimento de bens a ele relacionados;
@@ -334,7 +320,6 @@ Tags: #licitacao #contrato-administrativo #projeto-engenharia #sancao #fiscaliza
 **Art. 14, § 5º** {#art14_par5} Em licitações e contratações realizadas no âmbito de projetos e programas parcialmente financiados por agência oficial de cooperação estrangeira ou por organismo financeiro internacional com recursos do financiamento ou da contrapartida nacional, não poderá participar pessoa física ou jurídica que integre o rol de pessoas sancionadas por essas entidades ou que seja declarada inidônea nos termos desta Lei.
 
 ###### Art. 15 {#art15}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 15, caput** {#art15_cpt} Salvo vedação devidamente justificada no processo licitatório, pessoa jurídica poderá participar de licitação em consórcio, observadas as seguintes normas:
 - **Art. 15, caput, inciso I** {#art15_cpt_inc1} comprovação de compromisso público ou particular de constituição de consórcio, subscrito pelos consorciados;
@@ -354,7 +339,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 15, § 5º** {#art15_par5} A substituição de consorciado deverá ser expressamente autorizada pelo órgão ou entidade contratante e condicionada à comprovação de que a nova empresa do consórcio possui, no mínimo, os mesmos quantitativos para efeito de habilitação técnica e os mesmos valores para efeito de qualificação econômico-financeira apresentados pela empresa substituída para fins de habilitação do consórcio no processo licitatório que originou o contrato.
 
 ###### Art. 16 {#art16}
-Tags: #licitacao
 
 **Art. 16, caput** {#art16_cpt} Os profissionais organizados sob a forma de cooperativa poderão participar de licitação quando:
 - **Art. 16, caput, inciso I** {#art16_cpt_inc1} a constituição e o funcionamento da cooperativa observarem as regras estabelecidas na legislação aplicável, em especial a [[lei-federal-5764-1971|Lei nº 5.764, de 16 de dezembro de 1971]], a [[lei-federal-12690-2012|Lei nº 12.690, de 19 de julho de 2012]], e a [[lei-complementar-federal-130-2009|Lei Complementar nº 130, de 17 de abril de 2009]];
@@ -363,7 +347,6 @@ Tags: #licitacao
 - **Art. 16, caput, inciso IV** {#art16_cpt_inc4} o objeto da licitação referir-se, em se tratando de cooperativas enquadradas na [[lei-federal-12690-2012|Lei nº 12.690, de 19 de julho de 2012]], a serviços especializados constantes do objeto social da cooperativa, a serem executados de forma complementar à sua atuação.
 
 ###### Art. 17 {#art17}
-Tags: #licitacao #contrato-administrativo #termo-referencia #projeto-engenharia
 
 **Art. 17, caput** {#art17_cpt} O processo de licitação observará as seguintes fases, em sequência:
 - **Art. 17, caput, inciso I** {#art17_cpt_inc1} preparatória;
@@ -394,7 +377,6 @@ Tags: #licitacao #contrato-administrativo #termo-referencia #projeto-engenharia
 #### Seção I – Da Instrução do Processo Licitatório
 
 ###### Art. 18 {#art18}
-Tags: #licitacao #contrato-administrativo #estudo-tecnico-preliminar #termo-referencia #projeto-engenharia
 
 **Art. 18, caput** {#art18_cpt} A fase preparatória do processo licitatório é caracterizada pelo planejamento e deve compatibilizar-se com o plano de contratações anual de que trata o inciso VII do caput do art. [[#art12|12]] desta Lei, sempre que elaborado, e com as leis orçamentárias, bem como abordar todas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação, compreendidos:
 - **Art. 18, caput, inciso I** {#art18_cpt_inc1} a descrição da necessidade da contratação fundamentada em estudo técnico preliminar que caracterize o interesse público envolvido;
@@ -429,7 +411,6 @@ Tags: #licitacao #contrato-administrativo #estudo-tecnico-preliminar #termo-refe
 **Art. 18, § 3º** {#art18_par3} Em se tratando de estudo técnico preliminar para contratação de obras e serviços comuns de engenharia, se demonstrada a inexistência de prejuízo para a aferição dos padrões de desempenho e qualidade almejados, a especificação do objeto poderá ser realizada apenas em termo de referência ou em projeto básico, dispensada a elaboração de projetos.
 
 ###### Art. 19 {#art19}
-Tags: #licitacao #contrato-administrativo #obra-engenharia
 
 **Art. 19, caput** {#art19_cpt} Os órgãos da Administração com competências regulamentares relativas às atividades de administração de materiais, de obras e serviços e de licitações e contratos deverão:
 - **Art. 19, caput, inciso I** {#art19_cpt_inc1} instituir instrumentos que permitam, preferencialmente, a centralização dos procedimentos de aquisição e contratação de bens e serviços;
@@ -445,7 +426,6 @@ Tags: #licitacao #contrato-administrativo #obra-engenharia
 **Art. 19, § 3º** {#art19_par3} Nas licitações de obras e serviços de engenharia e arquitetura, sempre que adequada ao objeto da licitação, será preferencialmente adotada a Modelagem da Informação da Construção (Building Information Modelling - BIM) ou tecnologias e processos integrados similares ou mais avançados que venham a substituí-la.
 
 ###### Art. 20 {#art20}
-Tags:
 
 **Art. 20, caput** {#art20_cpt} Os itens de consumo adquiridos para suprir as demandas das estruturas da Administração Pública deverão ser de qualidade comum, não superior à necessária para cumprir as finalidades às quais se destinam, vedada a aquisição de artigos de luxo. *(Regulamento)* *(Vigência)*
 
@@ -456,14 +436,12 @@ Tags:
 **Art. 20, § 3º** {#art20_par3} (VETADO).
 
 ###### Art. 21 {#art21}
-Tags: #licitacao #estudo-tecnico-preliminar #prazo
 
 **Art. 21, caput** {#art21_cpt} A Administração poderá convocar, com antecedência mínima de 8 (oito) dias úteis, audiência pública, presencial ou a distância, na forma eletrônica, sobre licitação que pretenda realizar, com disponibilização prévia de informações pertinentes, inclusive de estudo técnico preliminar e elementos do edital de licitação, e com possibilidade de manifestação de todos os interessados.
 
 **Art. 21, parágrafo único** {#art21_par1u} A Administração também poderá submeter a licitação a prévia consulta pública, mediante a disponibilização de seus elementos a todos os interessados, que poderão formular sugestões no prazo fixado.
 
 ###### Art. 22 {#art22}
-Tags: #licitacao #contrato-administrativo #projeto-engenharia
 
 **Art. 22, caput** {#art22_cpt} O edital poderá contemplar matriz de alocação de riscos entre o contratante e o contratado, hipótese em que o cálculo do valor estimado da contratação poderá considerar taxa de risco compatível com o objeto da licitação e com os riscos atribuídos ao contratado, de acordo com metodologia predefinida pelo ente federativo.
 
@@ -479,7 +457,6 @@ Tags: #licitacao #contrato-administrativo #projeto-engenharia
 **Art. 22, § 4º** {#art22_par4} Nas contratações integradas ou semi-integradas, os riscos decorrentes de fatos supervenientes à contratação associados à escolha da solução de projeto básico pelo contratado deverão ser alocados como de sua responsabilidade na matriz de riscos.
 
 ###### Art. 23 {#art23}
-Tags: #dispensa-licitacao #licitacao #projeto-engenharia #obra-engenharia #pncp
 
 **Art. 23, caput** {#art23_cpt} O valor previamente estimado da contratação deverá ser compatível com os valores praticados pelo mercado, considerados os preços constantes de bancos de dados públicos e as quantidades a serem contratadas, observadas a potencial economia de escala e as peculiaridades do local de execução do objeto.
 
@@ -505,7 +482,6 @@ Tags: #dispensa-licitacao #licitacao #projeto-engenharia #obra-engenharia #pncp
 **Art. 23, § 6º** {#art23_par6} Na hipótese do § 5º deste artigo, será exigido dos licitantes ou contratados, no orçamento que compuser suas respectivas propostas, no mínimo, o mesmo nível de detalhamento do orçamento sintético referido no mencionado parágrafo.
 
 ###### Art. 24 {#art24}
-Tags: #licitacao
 
 **Art. 24, caput** {#art24_cpt} Desde que justificado, o orçamento estimado da contratação poderá ter caráter sigiloso, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas, e, nesse caso:
 - **Art. 24, caput, inciso I** {#art24_cpt_inc1} o sigilo não prevalecerá para os órgãos de controle interno e externo;
@@ -514,7 +490,6 @@ Tags: #licitacao
 **Art. 24, parágrafo único** {#art24_par1u} Na hipótese de licitação em que for adotado o critério de julgamento por maior desconto, o preço estimado ou o máximo aceitável constará do edital da licitação.
 
 ###### Art. 25 {#art25}
-Tags: #licenciamento-ambiental #sustentabilidade #licitacao #contrato-administrativo #estudo-tecnico-preliminar
 
 **Art. 25, caput** {#art25_cpt} O edital deverá conter o objeto da licitação e as regras relativas à convocação, ao julgamento, à habilitação, aos recursos e às penalidades da licitação, à fiscalização e à gestão do contrato, à entrega do objeto e às condições de pagamento.
 
@@ -543,7 +518,6 @@ Tags: #licenciamento-ambiental #sustentabilidade #licitacao #contrato-administra
 - **Art. 25, § 9º, inciso II** {#art25_par9_inc2} oriundos ou egressos do sistema prisional.
 
 ###### Art. 26 {#art26}
-Tags: #licitacao
 
 **Art. 26, caput** {#art26_cpt} No processo de licitação, poderá ser estabelecida margem de preferência para: *(Regulamento)*
 - **Art. 26, caput, inciso I** {#art26_cpt_inc1} bens manufaturados e serviços nacionais que atendam a normas técnicas brasileiras;
@@ -569,14 +543,12 @@ Tags: #licitacao
 **Art. 26, § 7º** {#art26_par7} Nas contratações destinadas à implantação, à manutenção e ao aperfeiçoamento dos sistemas de tecnologia de informação e comunicação considerados estratégicos em ato do Poder Executivo federal, a licitação poderá ser restrita a bens e serviços com tecnologia desenvolvida no País produzidos de acordo com o processo produtivo básico de que trata a [[lei-federal-10176-2001|Lei nº 10.176, de 11 de janeiro de 2001]].
 
 ###### Art. 27 {#art27}
-Tags:
 
 **Art. 27, caput** {#art27_cpt} Será divulgada, em sítio eletrônico oficial, a cada exercício financeiro, a relação de empresas favorecidas em decorrência do disposto no art. [[#art26|26]] desta Lei, com indicação do volume de recursos destinados a cada uma delas.
 
 #### Seção II – Das Modalidades de Licitação
 
 ###### Art. 28 {#art28}
-Tags: #licitacao
 
 **Art. 28, caput** {#art28_cpt} São modalidades de licitação:
 - **Art. 28, caput, inciso I** {#art28_cpt_inc1} pregão;
@@ -590,14 +562,12 @@ Tags: #licitacao
 **Art. 28, § 2º** {#art28_par2} É vedada a criação de outras modalidades de licitação ou, ainda, a combinação daquelas referidas no caput deste artigo.
 
 ###### Art. 29 {#art29}
-Tags: #obra-engenharia
 
 **Art. 29, caput** {#art29_cpt} A concorrência e o pregão seguem o rito procedimental comum a que se refere o art. [[#art17|17]] desta Lei, adotando-se o pregão sempre que o objeto possuir padrões de desempenho e qualidade que possam ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado.
 
 **Art. 29, parágrafo único** {#art29_par1u} O pregão não se aplica às contratações de serviços técnicos especializados de natureza predominantemente intelectual e de obras e serviços de engenharia, exceto os serviços de engenharia de que trata a alínea “a” do inciso XXI do caput do art. [[#art6|6º]] desta Lei.
 
 ###### Art. 30 {#art30}
-Tags:
 
 **Art. 30, caput** {#art30_cpt} O concurso observará as regras e condições previstas em edital, que indicará:
 - **Art. 30, caput, inciso I** {#art30_cpt_inc1} a qualificação exigida dos participantes;
@@ -607,7 +577,6 @@ Tags:
 **Art. 30, parágrafo único** {#art30_par1u} Nos concursos destinados à elaboração de projeto, o vencedor deverá ceder à Administração Pública, nos termos do art. [[#art93|93]] desta Lei, todos os direitos patrimoniais relativos ao projeto e autorizar sua execução conforme juízo de conveniência e oportunidade das autoridades competentes.
 
 ###### Art. 31 {#art31}
-Tags: #licitacao #procedimento-auxiliar
 
 **Art. 31, caput** {#art31_cpt} O leilão poderá ser cometido a leiloeiro oficial ou a servidor designado pela autoridade competente da Administração, e regulamento deverá dispor sobre seus procedimentos operacionais.
 
@@ -625,7 +594,6 @@ Tags: #licitacao #procedimento-auxiliar
 **Art. 31, § 4º** {#art31_par4} O leilão não exigirá registro cadastral prévio, não terá fase de habilitação e deverá ser homologado assim que concluída a fase de lances, superada a fase recursal e efetivado o pagamento pelo licitante vencedor, na forma definida no edital.
 
 ###### Art. 32 {#art32}
-Tags: #licitacao #contrato-administrativo #prazo
 
 **Art. 32, caput** {#art32_cpt} A modalidade diálogo competitivo é restrita a contratações em que a Administração:
 - **Art. 32, caput, inciso I** {#art32_cpt_inc1} vise a contratar objeto que envolva as seguintes condições:
@@ -657,7 +625,6 @@ Tags: #licitacao #contrato-administrativo #prazo
 #### Seção III – Dos Critérios de Julgamento
 
 ###### Art. 33 {#art33}
-Tags:
 
 **Art. 33, caput** {#art33_cpt} O julgamento das propostas será realizado de acordo com os seguintes critérios:
 - **Art. 33, caput, inciso I** {#art33_cpt_inc1} menor preço;
@@ -668,7 +635,6 @@ Tags:
 - **Art. 33, caput, inciso VI** {#art33_cpt_inc6} maior retorno econômico.
 
 ###### Art. 34 {#art34}
-Tags: #sustentabilidade #licitacao
 
 **Art. 34, caput** {#art34_cpt} O julgamento por menor preço ou maior desconto e, quando couber, por técnica e preço considerará o menor dispêndio para a Administração, atendidos os parâmetros mínimos de qualidade definidos no edital de licitação.
 
@@ -677,14 +643,12 @@ Tags: #sustentabilidade #licitacao
 **Art. 34, § 2º** {#art34_par2} O julgamento por maior desconto terá como referência o preço global fixado no edital de licitação, e o desconto será estendido aos eventuais termos aditivos.
 
 ###### Art. 35 {#art35}
-Tags:
 
 **Art. 35, caput** {#art35_cpt} O julgamento por melhor técnica ou conteúdo artístico considerará exclusivamente as propostas técnicas ou artísticas apresentadas pelos licitantes, e o edital deverá definir o prêmio ou a remuneração que será atribuída aos vencedores.
 
 **Art. 35, parágrafo único** {#art35_par1u} O critério de julgamento de que trata o caput deste artigo poderá ser utilizado para a contratação de projetos e trabalhos de natureza técnica, científica ou artística.
 
 ###### Art. 36 {#art36}
-Tags: #licitacao #contrato-administrativo #estudo-tecnico-preliminar
 
 **Art. 36, caput** {#art36_cpt} O julgamento por técnica e preço considerará a maior pontuação obtida a partir da ponderação, segundo fatores objetivos previstos no edital, das notas atribuídas aos aspectos de técnica e de preço da proposta.
 
@@ -700,7 +664,6 @@ Tags: #licitacao #contrato-administrativo #estudo-tecnico-preliminar
 **Art. 36, § 3º** {#art36_par3} O desempenho pretérito na execução de contratos com a Administração Pública deverá ser considerado na pontuação técnica, observado o disposto nos §§ 3º e 4º do art. [[#art88|88]] desta Lei e em regulamento.
 
 ###### Art. 37 {#art37}
-Tags: #dispensa-licitacao #licitacao #pncp #procedimento-auxiliar
 
 **Art. 37, caput** {#art37_cpt} O julgamento por melhor técnica ou por técnica e preço deverá ser realizado por:
 - **Art. 37, caput, inciso I** {#art37_cpt_inc1} verificação da capacitação e da experiência do licitante, comprovadas por meio da apresentação de atestados de obras, produtos ou serviços previamente realizados;
@@ -716,12 +679,10 @@ Tags: #dispensa-licitacao #licitacao #pncp #procedimento-auxiliar
 - **Art. 37, § 2º, inciso II** {#art37_par2_inc2} técnica e preço, na proporção de 70% (setenta por cento) de valoração da proposta técnica.”
 
 ###### Art. 38 {#art38}
-Tags: #contrato-administrativo
 
 **Art. 38, caput** {#art38_cpt} No julgamento por melhor técnica ou por técnica e preço, a obtenção de pontuação devido à capacitação técnico-profissional exigirá que a execução do respectivo contrato tenha participação direta e pessoal do profissional correspondente.
 
 ###### Art. 39 {#art39}
-Tags: #licitacao #contrato-administrativo #sancao #prazo
 
 **Art. 39, caput** {#art39_cpt} O julgamento por maior retorno econômico, utilizado exclusivamente para a celebração de contrato de eficiência, considerará a maior economia para a Administração, e a remuneração deverá ser fixada em percentual que incidirá de forma proporcional à economia efetivamente obtida na execução do contrato.
 
@@ -744,7 +705,6 @@ Tags: #licitacao #contrato-administrativo #sancao #prazo
 ##### Subseção I – Das Compras
 
 ###### Art. 40 {#art40}
-Tags: #contrato-administrativo #estudo-tecnico-preliminar #termo-referencia #garantia-contratual #procedimento-auxiliar
 
 **Art. 40, caput** {#art40_cpt} O planejamento de compras deverá considerar a expectativa de consumo anual e observar o seguinte:
 - **Art. 40, caput, inciso I** {#art40_cpt_inc1} condições de aquisição e pagamento semelhantes às do setor privado;
@@ -774,7 +734,6 @@ Tags: #contrato-administrativo #estudo-tecnico-preliminar #termo-referencia #gar
 **Art. 40, § 4º** {#art40_par4} Em relação à informação de que trata o inciso III do § 1º deste artigo, desde que fundamentada em estudo técnico preliminar, a Administração poderá exigir que os serviços de manutenção e assistência técnica sejam prestados mediante deslocamento de técnico ou disponibilizados em unidade de prestação de serviços localizada em distância compatível com suas necessidades.
 
 ###### Art. 41 {#art41}
-Tags: #licitacao #contrato-administrativo #procedimento-auxiliar
 
 **Art. 41, caput** {#art41_cpt} No caso de licitação que envolva o fornecimento de bens, a Administração poderá excepcionalmente:
 - **Art. 41, caput, inciso I** {#art41_cpt_inc1} indicar uma ou mais marcas ou modelos, desde que formalmente justificado, nas seguintes hipóteses:
@@ -789,7 +748,6 @@ Tags: #licitacao #contrato-administrativo #procedimento-auxiliar
 **Art. 41, parágrafo único** {#art41_par1u} A exigência prevista no inciso II do caput deste artigo restringir-se-á ao licitante provisoriamente vencedor quando realizada na fase de julgamento das propostas ou de lances.
 
 ###### Art. 42 {#art42}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 42, caput** {#art42_cpt} A prova de qualidade de produto apresentado pelos proponentes como similar ao das marcas eventualmente indicadas no edital será admitida por qualquer um dos seguintes meios:
 - **Art. 42, caput, inciso I** {#art42_cpt_inc1} comprovação de que o produto está de acordo com as normas técnicas determinadas pelos órgãos oficiais competentes, pela Associação Brasileira de Normas Técnicas (ABNT) ou por outra entidade credenciada pelo Inmetro;
@@ -803,7 +761,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 42, § 3º** {#art42_par3} No interesse da Administração, as amostras a que se refere o § 2º deste artigo poderão ser examinadas por instituição com reputação ético-profissional na especialidade do objeto, previamente indicada no edital.
 
 ###### Art. 43 {#art43}
-Tags: #garantia-contratual
 
 **Art. 43, caput** {#art43_cpt} O processo de padronização deverá conter:
 - **Art. 43, caput, inciso I** {#art43_cpt_inc1} parecer técnico sobre o produto, considerados especificações técnicas e estéticas, desempenho, análise de contratações anteriores, custo e condições de manutenção e garantia;
@@ -815,12 +772,10 @@ Tags: #garantia-contratual
 **Art. 43, § 2º** {#art43_par2} As contratações de soluções baseadas em software de uso disseminado serão disciplinadas em regulamento que defina processo de gestão estratégica das contratações desse tipo de solução.
 
 ###### Art. 44 {#art44}
-Tags: #estudo-tecnico-preliminar
 
 **Art. 44, caput** {#art44_cpt} Quando houver a possibilidade de compra ou de locação de bens, o estudo técnico preliminar deverá considerar os custos e os benefícios de cada opção, com indicação da alternativa mais vantajosa.
 
 ###### Art. 44-A {#art44-a}
-Tags: #licitacao
 Alterações: [[lei-federal-15210-2025|Lei nº 15.210, de 2025]] (incluído: caput, § 1º, § 2º, § 3º, § 4º, § 5º)
 
 **Art. 44-A, caput** {#art44-a_cpt} #incluido O processo licitatório para compra de equipamento destinado a procedimento diagnóstico ou terapêutico no âmbito do Sistema Único de Saúde (SUS) que tenha valor superior ao previsto no inciso II do art. [[#art75|75]] desta Lei deve levar em consideração o seu adequado aproveitamento ao longo de sua vida útil. *(Incluído pela [[lei-federal-15210-2025|Lei nº 15.210, de 2025]])* *(Vigência)*
@@ -838,7 +793,6 @@ Alterações: [[lei-federal-15210-2025|Lei nº 15.210, de 2025]] (incluído: cap
 ##### Subseção II – Das Obras e Serviços de Engenharia
 
 ###### Art. 45 {#art45}
-Tags: #licenciamento-ambiental #sustentabilidade #licitacao #obra-engenharia
 
 **Art. 45, caput** {#art45_cpt} As licitações de obras e serviços de engenharia devem respeitar, especialmente, as normas relativas a:
 - **Art. 45, caput, inciso I** {#art45_cpt_inc1} disposição final ambientalmente adequada dos resíduos sólidos gerados pelas obras contratadas;
@@ -849,7 +803,6 @@ Tags: #licenciamento-ambiental #sustentabilidade #licitacao #obra-engenharia
 - **Art. 45, caput, inciso VI** {#art45_cpt_inc6} acessibilidade para pessoas com deficiência ou com mobilidade reduzida.
 
 ###### Art. 46 {#art46}
-Tags: #contrato-administrativo #projeto-engenharia #obra-engenharia #desapropriacao #prazo
 
 **Art. 46, caput** {#art46_cpt} Na execução indireta de obras e serviços de engenharia, são admitidos os seguintes regimes:
 - **Art. 46, caput, inciso I** {#art46_cpt_inc1} empreitada por preço unitário;
@@ -886,7 +839,6 @@ Tags: #contrato-administrativo #projeto-engenharia #obra-engenharia #desapropria
 ##### Subseção III – Dos Serviços em Geral
 
 ###### Art. 47 {#art47}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 47, caput** {#art47_cpt} As licitações de serviços atenderão aos princípios:
 - **Art. 47, caput, inciso I** {#art47_cpt_inc1} da padronização, considerada a compatibilidade de especificações estéticas, técnicas ou de desempenho;
@@ -900,7 +852,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 47, § 2º** {#art47_par2} Na licitação de serviços de manutenção e assistência técnica, o edital deverá definir o local de realização dos serviços, admitida a exigência de deslocamento de técnico ao local da repartição ou a exigência de que o contratado tenha unidade de prestação de serviços em distância compatível com as necessidades da Administração.
 
 ###### Art. 48 {#art48}
-Tags: #licitacao #contrato-administrativo #fiscalizacao
 
 **Art. 48, caput** {#art48_cpt} Poderão ser objeto de execução por terceiros as atividades materiais acessórias, instrumentais ou complementares aos assuntos que constituam área de competência legal do órgão ou da entidade, vedado à Administração ou a seus agentes, na contratação do serviço terceirizado:
 - **Art. 48, caput, inciso I** {#art48_cpt_inc1} indicar pessoas expressamente nominadas para executar direta ou indiretamente o objeto contratado;
@@ -913,7 +864,6 @@ Tags: #licitacao #contrato-administrativo #fiscalizacao
 **Art. 48, parágrafo único** {#art48_par1u} Durante a vigência do contrato, é vedado ao contratado contratar cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, de dirigente do órgão ou entidade contratante ou de agente público que desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato, devendo essa proibição constar expressamente do edital de licitação.
 
 ###### Art. 49 {#art49}
-Tags: #sancao
 
 **Art. 49, caput** {#art49_cpt} A Administração poderá, mediante justificativa expressa, contratar mais de uma empresa ou instituição para executar o mesmo serviço, desde que essa contratação não implique perda de economia de escala, quando:
 - **Art. 49, caput, inciso I** {#art49_cpt_inc1} o objeto da contratação puder ser executado de forma concorrente e simultânea por mais de um contratado; e
@@ -922,7 +872,6 @@ Tags: #sancao
 **Art. 49, parágrafo único** {#art49_par1u} Na hipótese prevista no caput deste artigo, a Administração deverá manter o controle individualizado da execução do objeto contratual relativamente a cada um dos contratados.
 
 ###### Art. 50 {#art50}
-Tags: #contrato-administrativo #garantia-contratual #sancao
 
 **Art. 50, caput** {#art50_cpt} Nas contratações de serviços com regime de dedicação exclusiva de mão de obra, o contratado deverá apresentar, quando solicitado pela Administração, sob pena de multa, comprovação do cumprimento das obrigações trabalhistas e com o Fundo de Garantia do Tempo de Serviço (FGTS) em relação aos empregados diretamente envolvidos na execução do contrato, em especial quanto ao:
 - **Art. 50, caput, inciso I** {#art50_cpt_inc1} registro de ponto;
@@ -935,14 +884,12 @@ Tags: #contrato-administrativo #garantia-contratual #sancao
 ##### Subseção IV – Da Locação de Imóveis
 
 ###### Art. 51 {#art51}
-Tags: #licitacao #prazo
 
 **Art. 51, caput** {#art51_cpt} Ressalvado o disposto no inciso V do caput do art. [[#art74|74]] desta Lei, a locação de imóveis deverá ser precedida de licitação e avaliação prévia do bem, do seu estado de conservação, dos custos de adaptações e do prazo de amortização dos investimentos necessários.
 
 ##### Subseção V – Das Licitações Internacionais
 
 ###### Art. 52 {#art52}
-Tags: #licitacao #garantia-contratual
 
 **Art. 52, caput** {#art52_cpt} Nas licitações de âmbito internacional, o edital deverá ajustar-se às diretrizes da política monetária e do comércio exterior e atender às exigências dos órgãos competentes.
 
@@ -961,7 +908,6 @@ Tags: #licitacao #garantia-contratual
 ### CAPÍTULO III – DA DIVULGAÇÃO DO EDITAL DE LICITAÇÃO
 
 ###### Art. 53 {#art53}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo #procedimento-auxiliar
 
 **Art. 53, caput** {#art53_cpt} Ao final da fase preparatória, o processo licitatório seguirá para o órgão de assessoramento jurídico da Administração, que realizará controle prévio de legalidade mediante análise jurídica da contratação.
 
@@ -981,7 +927,6 @@ Tags: #dispensa-licitacao #licitacao #contrato-administrativo #procedimento-auxi
 **Art. 53, § 6º** {#art53_par6} (VETADO).
 
 ###### Art. 54 {#art54}
-Tags: #licitacao #pncp
 
 **Art. 54, caput** {#art54_cpt} A publicidade do edital de licitação será realizada mediante divulgação e manutenção do inteiro teor do ato convocatório e de seus anexos no Portal Nacional de Contratações Públicas (PNCP).
 
@@ -994,7 +939,6 @@ Tags: #licitacao #pncp
 ### CAPÍTULO IV – DA APRESENTAÇÃO DE PROPOSTAS E LANCES
 
 ###### Art. 55 {#art55}
-Tags: #licitacao #prazo
 
 **Art. 55, caput** {#art55_cpt} Os prazos mínimos para apresentação de propostas e lances, contados a partir da data de divulgação do edital de licitação, são de:
 - **Art. 55, caput, inciso I** {#art55_cpt_inc1} para aquisição de bens:
@@ -1013,7 +957,6 @@ Tags: #licitacao #prazo
 **Art. 55, § 2º** {#art55_par2} Os prazos previstos neste artigo poderão, mediante decisão fundamentada, ser reduzidos até a metade nas licitações realizadas pelo Ministério da Saúde, no âmbito do Sistema Único de Saúde (SUS).
 
 ###### Art. 56 {#art56}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 56, caput** {#art56_cpt} O modo de disputa poderá ser, isolada ou conjuntamente:
 - **Art. 56, caput, inciso I** {#art56_cpt_inc1} aberto, hipótese em que os licitantes apresentarão suas propostas por meio de lances públicos e sucessivos, crescentes ou decrescentes;
@@ -1032,12 +975,10 @@ Tags: #licitacao #contrato-administrativo
 **Art. 56, § 5º** {#art56_par5} Nas licitações de obras ou serviços de engenharia, após o julgamento, o licitante vencedor deverá reelaborar e apresentar à Administração, por meio eletrônico, as planilhas com indicação dos quantitativos e dos custos unitários, bem como com detalhamento das Bonificações e Despesas Indiretas (BDI) e dos Encargos Sociais (ES), com os respectivos valores adequados ao valor final da proposta vencedora, admitida a utilização dos preços unitários, no caso de empreitada por preço global, empreitada integral, contratação semi-integrada e contratação integrada, exclusivamente para eventuais adequações indispensáveis no cronograma físico-financeiro e para balizar excepcional aditamento posterior do contrato.
 
 ###### Art. 57 {#art57}
-Tags: #licitacao
 
 **Art. 57, caput** {#art57_cpt} O edital de licitação poderá estabelecer intervalo mínimo de diferença de valores entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação à proposta que cobrir a melhor oferta.
 
 ###### Art. 58 {#art58}
-Tags: #licitacao #contrato-administrativo #garantia-contratual #prazo
 
 **Art. 58, caput** {#art58_cpt} Poderá ser exigida, no momento da apresentação da proposta, a comprovação do recolhimento de quantia a título de garantia de proposta, como requisito de pré-habilitação.
 
@@ -1052,7 +993,6 @@ Tags: #licitacao #contrato-administrativo #garantia-contratual #prazo
 ### CAPÍTULO V – DO JULGAMENTO
 
 ###### Art. 59 {#art59}
-Tags: #obra-engenharia #garantia-contratual
 
 **Art. 59, caput** {#art59_cpt} Serão desclassificadas as propostas que:
 - **Art. 59, caput, inciso I** {#art59_cpt_inc1} contiverem vícios insanáveis;
@@ -1072,7 +1012,6 @@ Tags: #obra-engenharia #garantia-contratual
 **Art. 59, § 5º** {#art59_par5} Nas contratações de obras e serviços de engenharia, será exigida garantia adicional do licitante vencedor cuja proposta for inferior a 85% (oitenta e cinco por cento) do valor orçado pela Administração, equivalente à diferença entre este último e o valor da proposta, sem prejuízo das demais garantias exigíveis de acordo com esta Lei.
 
 ###### Art. 60 {#art60}
-Tags: #licitacao
 
 **Art. 60, caput** {#art60_cpt} Em caso de empate entre duas ou mais propostas, serão utilizados os seguintes critérios de desempate, nesta ordem:
 - **Art. 60, caput, inciso I** {#art60_cpt_inc1} disputa final, hipótese em que os licitantes empatados poderão apresentar nova proposta em ato contínuo à classificação;
@@ -1089,7 +1028,6 @@ Tags: #licitacao
 **Art. 60, § 2º** {#art60_par2} As regras previstas no caput deste artigo não prejudicarão a aplicação do disposto no art. 44 da [[lei-complementar-federal-123-2006|Lei Complementar nº 123, de 14 de dezembro de 2006]].
 
 ###### Art. 61 {#art61}
-Tags:
 
 **Art. 61, caput** {#art61_cpt} Definido o resultado do julgamento, a Administração poderá negociar condições mais vantajosas com o primeiro colocado.
 
@@ -1100,7 +1038,6 @@ Tags:
 ### CAPÍTULO VI – DA HABILITAÇÃO
 
 ###### Art. 62 {#art62}
-Tags: #licitacao
 
 **Art. 62, caput** {#art62_cpt} A habilitação é a fase da licitação em que se verifica o conjunto de informações e documentos necessários e suficientes para demonstrar a capacidade do licitante de realizar o objeto da licitação, dividindo-se em:
 - **Art. 62, caput, inciso I** {#art62_cpt_inc1} jurídica;
@@ -1109,7 +1046,6 @@ Tags: #licitacao
 - **Art. 62, caput, inciso IV** {#art62_cpt_inc4} econômico-financeira.
 
 ###### Art. 63 {#art63}
-Tags: #licitacao
 
 **Art. 63, caput** {#art63_cpt} Na fase de habilitação das licitações serão observadas as seguintes disposições:
 - **Art. 63, caput, inciso I** {#art63_cpt_inc1} poderá ser exigida dos licitantes a declaração de que atendem aos requisitos de habilitação, e o declarante responderá pela veracidade das informações prestadas, na forma da lei;
@@ -1126,7 +1062,6 @@ Tags: #licitacao
 **Art. 63, § 4º** {#art63_par4} Para os fins previstos no § 2º deste artigo, se os licitantes optarem por realizar vistoria prévia, a Administração deverá disponibilizar data e horário diferentes para os eventuais interessados.
 
 ###### Art. 64 {#art64}
-Tags: #licitacao
 
 **Art. 64, caput** {#art64_cpt} Após a entrega dos documentos para habilitação, não será permitida a substituição ou a apresentação de novos documentos, salvo em sede de diligência, para:
 - **Art. 64, caput, inciso I** {#art64_cpt_inc1} complementação de informações acerca dos documentos já apresentados pelos licitantes e desde que necessária para apurar fatos existentes à época da abertura do certame;
@@ -1137,7 +1072,6 @@ Tags: #licitacao
 **Art. 64, § 2º** {#art64_par2} Quando a fase de habilitação anteceder a de julgamento e já tiver sido encerrada, não caberá exclusão de licitante por motivo relacionado à habilitação, salvo em razão de fatos supervenientes ou só conhecidos após o julgamento.
 
 ###### Art. 65 {#art65}
-Tags: #licitacao
 
 **Art. 65, caput** {#art65_cpt} As condições de habilitação serão definidas no edital.
 
@@ -1146,12 +1080,10 @@ Tags: #licitacao
 **Art. 65, § 2º** {#art65_par2} A habilitação poderá ser realizada por processo eletrônico de comunicação a distância, nos termos dispostos em regulamento.
 
 ###### Art. 66 {#art66}
-Tags:
 
 **Art. 66, caput** {#art66_cpt} A habilitação jurídica visa a demonstrar a capacidade de o licitante exercer direitos e assumir obrigações, e a documentação a ser apresentada por ele limita-se à comprovação de existência jurídica da pessoa e, quando cabível, de autorização para o exercício da atividade a ser contratada.
 
 ###### Art. 67 {#art67}
-Tags: #licitacao #contrato-administrativo #obra-engenharia #sancao #prazo
 
 **Art. 67, caput** {#art67_cpt} A documentação relativa à qualificação técnico-profissional e técnico-operacional será restrita a:
 - **Art. 67, caput, inciso I** {#art67_cpt_inc1} apresentação de profissional, devidamente registrado no conselho profissional competente, quando for o caso, detentor de atestado de responsabilidade técnica por execução de obra ou serviço de características semelhantes, para fins de contratação;
@@ -1188,7 +1120,6 @@ Tags: #licitacao #contrato-administrativo #obra-engenharia #sancao #prazo
 **Art. 67, § 12** {#art67_par12} Na documentação de que trata o inciso I do caput deste artigo, não serão admitidos atestados de responsabilidade técnica de profissionais que, na forma de regulamento, tenham dado causa à aplicação das sanções previstas nos incisos III e IV do caput do art. [[#art156|156]] desta Lei em decorrência de orientação proposta, de prescrição técnica ou de qualquer ato profissional de sua responsabilidade.
 
 ###### Art. 68 {#art68}
-Tags:
 
 **Art. 68, caput** {#art68_cpt} As habilitações fiscal, social e trabalhista serão aferidas mediante a verificação dos seguintes requisitos:
 - **Art. 68, caput, inciso I** {#art68_cpt_inc1} a inscrição no Cadastro de Pessoas Físicas (CPF) ou no Cadastro Nacional da Pessoa Jurídica (CNPJ);
@@ -1203,7 +1134,6 @@ Tags:
 **Art. 68, § 2º** {#art68_par2} A comprovação de atendimento do disposto nos incisos III, IV e V do caput deste artigo deverá ser feita na forma da legislação específica.
 
 ###### Art. 69 {#art69}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 69, caput** {#art69_cpt} A habilitação econômico-financeira visa a demonstrar a aptidão econômica do licitante para cumprir as obrigações decorrentes do futuro contrato, devendo ser comprovada de forma objetiva, por coeficientes e índices econômicos previstos no edital, devidamente justificados no processo licitatório, e será restrita à apresentação da seguinte documentação:
 - **Art. 69, caput, inciso I** {#art69_cpt_inc1} balanço patrimonial, demonstração de resultado de exercício e demais demonstrações contábeis dos 2 (dois) últimos exercícios sociais;
@@ -1222,7 +1152,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 69, § 6º** {#art69_par6} Os documentos referidos no inciso I do caput deste artigo limitar-se-ão ao último exercício no caso de a pessoa jurídica ter sido constituída há menos de 2 (dois) anos.
 
 ###### Art. 70 {#art70}
-Tags: #dispensa-licitacao #licitacao #procedimento-auxiliar
 
 **Art. 70, caput** {#art70_cpt} A documentação referida neste Capítulo poderá ser:
 - **Art. 70, caput, inciso I** {#art70_cpt_inc1} apresentada em original, por cópia ou por qualquer outro meio expressamente admitido pela Administração;
@@ -1234,7 +1163,6 @@ Tags: #dispensa-licitacao #licitacao #procedimento-auxiliar
 ### CAPÍTULO VII – DO ENCERRAMENTO DA LICITAÇÃO
 
 ###### Art. 71 {#art71}
-Tags: #licitacao
 
 **Art. 71, caput** {#art71_cpt} Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos, o processo licitatório será encaminhado à autoridade superior, que poderá:
 - **Art. 71, caput, inciso I** {#art71_cpt_inc1} determinar o retorno dos autos para saneamento de irregularidades;
@@ -1255,7 +1183,6 @@ Tags: #licitacao
 #### Seção I – Do Processo de Contratação Direta
 
 ###### Art. 72 {#art72}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo #estudo-tecnico-preliminar #termo-referencia
 
 **Art. 72, caput** {#art72_cpt} O processo de contratação direta, que compreende os casos de inexigibilidade e de dispensa de licitação, deverá ser instruído com os seguintes documentos:
 - **Art. 72, caput, inciso I** {#art72_cpt_inc1} documento de formalização de demanda e, se for o caso, estudo técnico preliminar, análise de riscos, termo de referência, projeto básico ou projeto executivo;
@@ -1270,14 +1197,12 @@ Tags: #dispensa-licitacao #licitacao #contrato-administrativo #estudo-tecnico-pr
 **Art. 72, parágrafo único** {#art72_par1u} O ato que autoriza a contratação direta ou o extrato decorrente do contrato deverá ser divulgado e mantido à disposição do público em sítio eletrônico oficial.
 
 ###### Art. 73 {#art73}
-Tags: #sancao
 
 **Art. 73, caput** {#art73_cpt} Na hipótese de contratação direta indevida ocorrida com dolo, fraude ou erro grosseiro, o contratado e o agente público responsável responderão solidariamente pelo dano causado ao erário, sem prejuízo de outras sanções legais cabíveis.
 
 #### Seção II – Da Inexigibilidade de Licitação
 
 ###### Art. 74 {#art74}
-Tags: #sustentabilidade #dispensa-licitacao #licitacao #contrato-administrativo #procedimento-auxiliar
 
 **Art. 74, caput** {#art74_cpt} É inexigível a licitação quando inviável a competição, em especial nos casos de:
 - **Art. 74, caput, inciso I** {#art74_cpt_inc1} aquisição de materiais, de equipamentos ou de gêneros ou contratação de serviços que só possam ser fornecidos por produtor, empresa ou representante comercial exclusivos;
@@ -1310,7 +1235,6 @@ Tags: #sustentabilidade #dispensa-licitacao #licitacao #contrato-administrativo 
 #### Seção III – Da Dispensa de Licitação
 
 ###### Art. 75 {#art75}
-Tags: #sustentabilidade #dispensa-licitacao #licitacao #contrato-administrativo #obra-engenharia
 Alterações: [[lei-federal-15471-2026|Lei nº 15.471, de 2026]] (nova redação: inciso XVI); [[lei-federal-14628-2023|Lei nº 14.628, de 2023]] (incluído: inciso XVII, inciso XVIII)
 
 **Art. 75, caput** {#art75_cpt} É dispensável a licitação:
@@ -1367,7 +1291,6 @@ Alterações: [[lei-federal-15471-2026|Lei nº 15.471, de 2026]] (nova redação
 ### CAPÍTULO IX – DAS ALIENAÇÕES
 
 ###### Art. 76 {#art76}
-Tags: #dispensa-licitacao #licitacao #garantia-contratual #prazo
 
 **Art. 76, caput** {#art76_cpt} A alienação de bens da Administração Pública, subordinada à existência de interesse público devidamente justificado, será precedida de avaliação e obedecerá às seguintes normas:
 - **Art. 76, caput, inciso I** {#art76_cpt_inc1} tratando-se de bens imóveis, inclusive os pertencentes às autarquias e às fundações, exigirá autorização legislativa e dependerá de licitação na modalidade leilão, dispensada a realização de licitação nos casos de:
@@ -1415,7 +1338,6 @@ Tags: #dispensa-licitacao #licitacao #garantia-contratual #prazo
 **Art. 76, § 7º** {#art76_par7} Na hipótese do § 6º deste artigo, caso o donatário necessite oferecer o imóvel em garantia de financiamento, a cláusula de reversão e as demais obrigações serão garantidas por hipoteca em segundo grau em favor do doador.
 
 ###### Art. 77 {#art77}
-Tags: #licitacao
 
 **Art. 77, caput** {#art77_cpt} Para a venda de bens imóveis, será concedido direito de preferência ao licitante que, submetendo-se a todas as regras do edital, comprove a ocupação do imóvel objeto da licitação.
 
@@ -1424,7 +1346,6 @@ Tags: #licitacao
 #### Seção I – Dos Procedimentos Auxiliares
 
 ###### Art. 78 {#art78}
-Tags: #licitacao #procedimento-auxiliar
 
 **Art. 78, caput** {#art78_cpt} São procedimentos auxiliares das licitações e das contratações regidas por esta Lei:
 - **Art. 78, caput, inciso I** {#art78_cpt_inc1} credenciamento;
@@ -1440,7 +1361,6 @@ Tags: #licitacao #procedimento-auxiliar
 #### Seção II – Do Credenciamento
 
 ###### Art. 79 {#art79}
-Tags: #licitacao #sancao #procedimento-auxiliar #prazo
 Alterações: [[lei-federal-15266-2025|Lei nº 15.266, de 2025]] (nova redação: § 1º; incluído: § 1º, inciso VII, § 1º, inciso VII, alínea "a", § 1º, inciso VII, alínea "b", § 1º, inciso VII, alínea "c", § 1º, inciso VII, alínea "d", § 1º, inciso VII, alínea "e", § 1º, inciso VII, alínea "f", § 2º)
 
 **Art. 79, caput** {#art79_cpt} O credenciamento poderá ser usado nas seguintes hipóteses de contratação: *(Regulamento)*
@@ -1469,7 +1389,6 @@ Alterações: [[lei-federal-15266-2025|Lei nº 15.266, de 2025]] (nova redação
 #### Seção III – Da Pré-Qualificação
 
 ###### Art. 80 {#art80}
-Tags: #licitacao #procedimento-auxiliar #prazo
 
 **Art. 80, caput** {#art80_cpt} A pré-qualificação é o procedimento técnico-administrativo para selecionar previamente:
 - **Art. 80, caput, inciso I** {#art80_cpt_inc1} licitantes que reúnam condições de habilitação para participar de futura licitação ou de licitação vinculada a programas de obras ou de serviços objetivamente definidos;
@@ -1504,7 +1423,6 @@ Tags: #licitacao #procedimento-auxiliar #prazo
 #### Seção IV – Do Procedimento de Manifestação de Interesse
 
 ###### Art. 81 {#art81}
-Tags: #licitacao
 
 **Art. 81, caput** {#art81_cpt} A Administração poderá solicitar à iniciativa privada, mediante procedimento aberto de manifestação de interesse a ser iniciado com a publicação de edital de chamamento público, a propositura e a realização de estudos, investigações, levantamentos e projetos de soluções inovadoras que contribuam com questões de relevância pública, na forma de regulamento.
 
@@ -1523,7 +1441,6 @@ Tags: #licitacao
 #### Seção V – Do Sistema de Registro de Preços
 
 ###### Art. 82 {#art82}
-Tags: #dispensa-licitacao #licitacao #obra-engenharia #procedimento-auxiliar #prazo
 
 **Art. 82, caput** {#art82_cpt} O edital de licitação para registro de preços observará as regras gerais desta Lei e deverá dispor sobre:
 - **Art. 82, caput, inciso I** {#art82_cpt_inc1} as especificidades da licitação e de seu objeto, inclusive a quantidade máxima de cada item que poderá ser adquirida;
@@ -1562,26 +1479,22 @@ Tags: #dispensa-licitacao #licitacao #obra-engenharia #procedimento-auxiliar #pr
 **Art. 82, § 6º** {#art82_par6} O sistema de registro de preços poderá, na forma de regulamento, ser utilizado nas hipóteses de inexigibilidade e de dispensa de licitação para a aquisição de bens ou para a contratação de serviços por mais de um órgão ou entidade.
 
 ###### Art. 83 {#art83}
-Tags: #licitacao
 
 **Art. 83, caput** {#art83_cpt} A existência de preços registrados implicará compromisso de fornecimento nas condições estabelecidas, mas não obrigará a Administração a contratar, facultada a realização de licitação específica para a aquisição pretendida, desde que devidamente motivada.
 
 ###### Art. 84 {#art84}
-Tags: #contrato-administrativo #procedimento-auxiliar #prazo
 
 **Art. 84, caput** {#art84_cpt} O prazo de vigência da ata de registro de preços será de 1 (um) ano e poderá ser prorrogado, por igual período, desde que comprovado o preço vantajoso.
 
 **Art. 84, parágrafo único** {#art84_par1u} O contrato decorrente da ata de registro de preços terá sua vigência estabelecida em conformidade com as disposições nela contidas.
 
 ###### Art. 85 {#art85}
-Tags: #obra-engenharia #procedimento-auxiliar
 
 **Art. 85, caput** {#art85_cpt} A Administração poderá contratar a execução de obras e serviços de engenharia pelo sistema de registro de preços, desde que atendidos os seguintes requisitos:
 - **Art. 85, caput, inciso I** {#art85_cpt_inc1} existência de projeto padronizado, sem complexidade técnica e operacional;
 - **Art. 85, caput, inciso II** {#art85_cpt_inc2} necessidade permanente ou frequente de obra ou serviço a ser contratado.
 
 ###### Art. 86 {#art86}
-Tags: #dispensa-licitacao #licitacao #procedimento-auxiliar #prazo
 Alterações: [[lei-federal-14770-2023|Lei nº 14.770, de 2023]] (nova redação: § 3º; incluído: § 3º, inciso I, § 3º, inciso II)
 
 **Art. 86, caput** {#art86_cpt} O órgão ou entidade gerenciadora deverá, na fase preparatória do processo licitatório, para fins de registro de preços, realizar procedimento público de intenção de registro de preços para, nos termos de regulamento, possibilitar, pelo prazo mínimo de 8 (oito) dias úteis, a participação de outros órgãos ou entidades na respectiva ata e determinar a estimativa total de quantidades da contratação.
@@ -1610,7 +1523,6 @@ Alterações: [[lei-federal-14770-2023|Lei nº 14.770, de 2023]] (nova redação
 #### Seção VI – Do Registro Cadastral
 
 ###### Art. 87 {#art87}
-Tags: #licitacao #pncp #procedimento-auxiliar #prazo
 Alterações: [[lei-federal-15266-2025|Lei nº 15.266, de 2025]] (incluído: caput)
 
 **Art. 87, caput** {#art87_cpt} #incluido Para os fins desta Lei, os órgãos e entidades da Administração Pública deverão utilizar o sistema de registro cadastral unificado disponível no Portal Nacional de Contratações Públicas (PNCP), para efeito de cadastro unificado de licitantes e de contratados, na forma estabelecida em regulamento do Poder Executivo federal. *(Incluído pela [[lei-federal-15266-2025|Lei nº 15.266, de 2025]])*
@@ -1624,7 +1536,6 @@ Alterações: [[lei-federal-15266-2025|Lei nº 15.266, de 2025]] (incluído: cap
 **Art. 87, § 4º** {#art87_par4} Na hipótese a que se refere o § 3º deste artigo, será admitido fornecedor que realize seu cadastro dentro do prazo previsto no edital para apresentação de propostas.
 
 ###### Art. 88 {#art88}
-Tags: #contrato-administrativo #procedimento-auxiliar
 
 **Art. 88, caput** {#art88_cpt} Ao requerer, a qualquer tempo, inscrição no cadastro ou a sua atualização, o interessado fornecerá os elementos necessários exigidos para habilitação previstos nesta Lei.
 
@@ -1645,7 +1556,6 @@ Tags: #contrato-administrativo #procedimento-auxiliar
 ### CAPÍTULO I – DA FORMALIZAÇÃO DOS CONTRATOS
 
 ###### Art. 89 {#art89}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 89, caput** {#art89_cpt} Os contratos de que trata esta Lei regular-se-ão pelas suas cláusulas e pelos preceitos de direito público, e a eles serão aplicados, supletivamente, os princípios da teoria geral dos contratos e as disposições de direito privado.
 
@@ -1654,7 +1564,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 89, § 2º** {#art89_par2} Os contratos deverão estabelecer com clareza e precisão as condições para sua execução, expressas em cláusulas que definam os direitos, as obrigações e as responsabilidades das partes, em conformidade com os termos do edital de licitação e os da proposta vencedora ou com os termos do ato que autorizou a contratação direta e os da respectiva proposta.
 
 ###### Art. 90 {#art90}
-Tags: #licitacao #contrato-administrativo #garantia-contratual #sancao #prazo
 Alterações: [[lei-federal-14770-2023|Lei nº 14.770, de 2023]] (incluído: § 8º, § 9º)
 
 **Art. 90, caput** {#art90_cpt} A Administração convocará regularmente o licitante vencedor para assinar o termo de contrato ou para aceitar ou retirar o instrumento equivalente, dentro do prazo e nas condições estabelecidas no edital de licitação, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas nesta Lei.
@@ -1680,7 +1589,6 @@ Alterações: [[lei-federal-14770-2023|Lei nº 14.770, de 2023]] (incluído: § 
 **Art. 90, § 9º** {#art90_par9} #incluido Se frustradas as providências dos §§ 2º e 4º, o saldo de que trata o § 8º deste artigo poderá ser computado como efetiva disponibilidade para nova licitação, desde que identificada vantajosidade para a administração pública e mantido o objeto programado. *(Incluído pela [[lei-federal-14770-2023|Lei nº 14.770, de 2023]])*
 
 ###### Art. 91 {#art91}
-Tags: #contrato-administrativo #prazo
 
 **Art. 91, caput** {#art91_cpt} Os contratos e seus aditamentos terão forma escrita e serão juntados ao processo que tiver dado origem à contratação, divulgados e mantidos à disposição do público em sítio eletrônico oficial.
 
@@ -1693,7 +1601,6 @@ Tags: #contrato-administrativo #prazo
 **Art. 91, § 4º** {#art91_par4} Antes de formalizar ou prorrogar o prazo de vigência do contrato, a Administração deverá verificar a regularidade fiscal do contratado, consultar o Cadastro Nacional de Empresas Inidôneas e Suspensas (Ceis) e o Cadastro Nacional de Empresas Punidas (Cnep), emitir as certidões negativas de inidoneidade, de impedimento e de débitos trabalhistas e juntá-las ao respectivo processo.
 
 ###### Art. 92 {#art92}
-Tags: #licitacao #contrato-administrativo #obra-engenharia #garantia-contratual #sancao
 Alterações: [[lei-federal-14770-2023|Lei nº 14.770, de 2023]] (incluído: § 7º)
 
 **Art. 92, caput** {#art92_cpt} São necessárias em todo contrato cláusulas que estabeleçam:
@@ -1737,7 +1644,6 @@ Alterações: [[lei-federal-14770-2023|Lei nº 14.770, de 2023]] (incluído: § 
 **Art. 92, § 7º** {#art92_par7} #incluido Para efeito do disposto nesta Lei, consideram-se como adimplemento da obrigação contratual a prestação do serviço, a realização da obra ou a entrega do bem, ou parcela destes, bem como qualquer outro evento contratual a cuja ocorrência esteja vinculada a emissão de documento de cobrança. *(Incluído pela [[lei-federal-14770-2023|Lei nº 14.770, de 2023]])*
 
 ###### Art. 93 {#art93}
-Tags:
 
 **Art. 93, caput** {#art93_cpt} Nas contratações de projetos ou de serviços técnicos especializados, inclusive daqueles que contemplem o desenvolvimento de programas e aplicações de internet para computadores, máquinas, equipamentos e dispositivos de tratamento e de comunicação da informação (software) - e a respectiva documentação técnica associada -, o autor deverá ceder todos os direitos patrimoniais a eles relativos para a Administração Pública, hipótese em que poderão ser livremente utilizados e alterados por ela em outras ocasiões, sem necessidade de nova autorização de seu autor.
 
@@ -1748,7 +1654,6 @@ Tags:
 **Art. 93, § 3º** {#art93_par3} Na hipótese de posterior alteração do projeto pela Administração Pública, o autor deverá ser comunicado, e os registros serão promovidos nos órgãos ou entidades competentes.
 
 ###### Art. 94 {#art94}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo #pncp #prazo
 
 **Art. 94, caput** {#art94_cpt} A divulgação no Portal Nacional de Contratações Públicas (PNCP) é condição indispensável para a eficácia do contrato e de seus aditamentos e deverá ocorrer nos seguintes prazos, contados da data de sua assinatura:
 - **Art. 94, caput, inciso I** {#art94_cpt_inc1} 20 (vinte) dias úteis, no caso de licitação;
@@ -1765,7 +1670,6 @@ Tags: #dispensa-licitacao #licitacao #contrato-administrativo #pncp #prazo
 **Art. 94, § 5º** {#art94_par5} (VETADO).
 
 ###### Art. 95 {#art95}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo
 
 **Art. 95, caput** {#art95_cpt} O instrumento de contrato é obrigatório, salvo nas seguintes hipóteses, em que a Administração poderá substituí-lo por outro instrumento hábil, como carta-contrato, nota de empenho de despesa, autorização de compra ou ordem de execução de serviço:
 - **Art. 95, caput, inciso I** {#art95_cpt_inc1} dispensa de licitação em razão de valor;
@@ -1778,7 +1682,6 @@ Tags: #dispensa-licitacao #licitacao #contrato-administrativo
 ### CAPÍTULO II – DAS GARANTIAS
 
 ###### Art. 96 {#art96}
-Tags: #licitacao #contrato-administrativo #garantia-contratual #prazo
 Alterações: [[lei-federal-14770-2023|Lei nº 14.770, de 2023]] (incluído: § 1º, inciso IV)
 
 **Art. 96, caput** {#art96_cpt} A critério da autoridade competente, em cada caso, poderá ser exigida, mediante previsão no edital, prestação de garantia nas contratações de obras, serviços e fornecimentos.
@@ -1794,7 +1697,6 @@ Alterações: [[lei-federal-14770-2023|Lei nº 14.770, de 2023]] (incluído: § 
 **Art. 96, § 3º** {#art96_par3} O edital fixará prazo mínimo de 1 (um) mês, contado da data de homologação da licitação e anterior à assinatura do contrato, para a prestação da garantia pelo contratado quando optar pela modalidade prevista no inciso II do § 1º deste artigo.
 
 ###### Art. 97 {#art97}
-Tags: #contrato-administrativo #garantia-contratual #sancao #prazo
 
 **Art. 97, caput** {#art97_cpt} O seguro-garantia tem por objetivo garantir o fiel cumprimento das obrigações assumidas pelo contratado perante à Administração, inclusive as multas, os prejuízos e as indenizações decorrentes de inadimplemento, observadas as seguintes regras nas contratações regidas por esta Lei:
 - **Art. 97, caput, inciso I** {#art97_cpt_inc1} o prazo de vigência da apólice será igual ou superior ao prazo estabelecido no contrato principal e deverá acompanhar as modificações referentes à vigência deste mediante a emissão do respectivo endosso pela seguradora;
@@ -1803,29 +1705,24 @@ Tags: #contrato-administrativo #garantia-contratual #sancao #prazo
 **Art. 97, parágrafo único** {#art97_par1u} Nos contratos de execução continuada ou de fornecimento contínuo de bens e serviços, será permitida a substituição da apólice de seguro-garantia na data de renovação ou de aniversário, desde que mantidas as mesmas condições e coberturas da apólice vigente e desde que nenhum período fique descoberto, ressalvado o disposto no § 2º do art. [[#art96|96]] desta Lei.
 
 ###### Art. 98 {#art98}
-Tags: #contrato-administrativo #garantia-contratual
 
 **Art. 98, caput** {#art98_cpt} Nas contratações de obras, serviços e fornecimentos, a garantia poderá ser de até 5% (cinco por cento) do valor inicial do contrato, autorizada a majoração desse percentual para até 10% (dez por cento), desde que justificada mediante análise da complexidade técnica e dos riscos envolvidos.
 
 **Art. 98, parágrafo único** {#art98_par1u} Nas contratações de serviços e fornecimentos contínuos com vigência superior a 1 (um) ano, assim como nas subsequentes prorrogações, será utilizado o valor anual do contrato para definição e aplicação dos percentuais previstos no caput deste artigo.
 
 ###### Art. 99 {#art99}
-Tags: #contrato-administrativo #obra-engenharia #garantia-contratual
 
 **Art. 99, caput** {#art99_cpt} Nas contratações de obras e serviços de engenharia de grande vulto, poderá ser exigida a prestação de garantia, na modalidade seguro-garantia, com cláusula de retomada prevista no art. [[#art102|102]] desta Lei, em percentual equivalente a até 30% (trinta por cento) do valor inicial do contrato.
 
 ###### Art. 100 {#art100}
-Tags: #contrato-administrativo #garantia-contratual
 
 **Art. 100, caput** {#art100_cpt} A garantia prestada pelo contratado será liberada ou restituída após a fiel execução do contrato ou após a sua extinção por culpa exclusiva da Administração e, quando em dinheiro, atualizada monetariamente.
 
 ###### Art. 101 {#art101}
-Tags: #contrato-administrativo #garantia-contratual
 
 **Art. 101, caput** {#art101_cpt} Nos casos de contratos que impliquem a entrega de bens pela Administração, dos quais o contratado ficará depositário, o valor desses bens deverá ser acrescido ao valor da garantia.
 
 ###### Art. 102 {#art102}
-Tags: #contrato-administrativo #obra-engenharia #garantia-contratual
 
 **Art. 102, caput** {#art102_cpt} Na contratação de obras e serviços de engenharia, o edital poderá exigir a prestação da garantia na modalidade seguro-garantia e prever a obrigação de a seguradora, em caso de inadimplemento pelo contratado, assumir a execução e concluir o objeto do contrato, hipótese em que:
 - **Art. 102, caput, inciso I** {#art102_cpt_inc1} a seguradora deverá firmar o contrato, inclusive os aditivos, como interveniente anuente e poderá:
@@ -1843,7 +1740,6 @@ Tags: #contrato-administrativo #obra-engenharia #garantia-contratual
 ### CAPÍTULO III – DA ALOCAÇÃO DE RISCOS
 
 ###### Art. 103 {#art103}
-Tags: #contrato-administrativo
 
 **Art. 103, caput** {#art103_cpt} O contrato poderá identificar os riscos contratuais previstos e presumíveis e prever matriz de alocação de riscos, alocando-os entre contratante e contratado, mediante indicação daqueles a serem assumidos pelo setor público ou pelo setor privado ou daqueles a serem compartilhados.
 
@@ -1864,7 +1760,6 @@ Tags: #contrato-administrativo
 ### CAPÍTULO IV – DAS PRERROGATIVAS DA ADMINISTRAÇÃO
 
 ###### Art. 104 {#art104}
-Tags: #contrato-administrativo #sancao #fiscalizacao
 
 **Art. 104, caput** {#art104_cpt} O regime jurídico dos contratos instituído por esta Lei confere à Administração, em relação a eles, as prerrogativas de:
 - **Art. 104, caput, inciso I** {#art104_cpt_inc1} modificá-los, unilateralmente, para melhor adequação às finalidades de interesse público, respeitados os direitos do contratado;
@@ -1882,7 +1777,6 @@ Tags: #contrato-administrativo #sancao #fiscalizacao
 ### CAPÍTULO V – DA DURAÇÃO DOS CONTRATOS
 
 ###### Art. 105 {#art105}
-Tags: #contrato-administrativo
 Alterações: [[lei-federal-14770-2023|Lei nº 14.770, de 2023]] (incluído: parágrafo único)
 
 **Art. 105, caput** {#art105_cpt} A duração dos contratos regidos por esta Lei será a prevista em edital, e deverão ser observadas, no momento da contratação e a cada exercício financeiro, a disponibilidade de créditos orçamentários, bem como a previsão no plano plurianual, quando ultrapassar 1 (um) exercício financeiro.
@@ -1890,7 +1784,6 @@ Alterações: [[lei-federal-14770-2023|Lei nº 14.770, de 2023]] (incluído: par
 **Art. 105, parágrafo único** {#art105_par1u} #incluido Não serão objeto de cancelamento automático os restos a pagar vinculados a contratos de duração plurianual, senão depois de encerrada a vigência destes, nem os vinculados a contratos rescindidos, nos casos dos §§ 8º e 9º do art. [[#art90|90]] desta Lei. *(Incluído pela [[lei-federal-14770-2023|Lei nº 14.770, de 2023]])*
 
 ###### Art. 106 {#art106}
-Tags: #contrato-administrativo #prazo
 
 **Art. 106, caput** {#art106_cpt} A Administração poderá celebrar contratos com prazo de até 5 (cinco) anos nas hipóteses de serviços e fornecimentos contínuos, observadas as seguintes diretrizes:
 - **Art. 106, caput, inciso I** {#art106_cpt_inc1} a autoridade competente do órgão ou entidade contratante deverá atestar a maior vantagem econômica vislumbrada em razão da contratação plurianual;
@@ -1902,29 +1795,24 @@ Tags: #contrato-administrativo #prazo
 **Art. 106, § 2º** {#art106_par2} Aplica-se o disposto neste artigo ao aluguel de equipamentos e à utilização de programas de informática.
 
 ###### Art. 107 {#art107}
-Tags: #contrato-administrativo
 
 **Art. 107, caput** {#art107_cpt} Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, respeitada a vigência máxima decenal, desde que haja previsão em edital e que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o contratado ou a extinção contratual sem ônus para qualquer das partes.
 
 ###### Art. 108 {#art108}
-Tags: #contrato-administrativo #prazo
 
 **Art. 108, caput** {#art108_cpt} A Administração poderá celebrar contratos com prazo de até 10 (dez) anos nas hipóteses previstas nas alíneas “f” e “g” do inciso IV e nos incisos V, VI, XII e XVI do caput do art. [[#art75|75]] desta Lei.
 
 ###### Art. 109 {#art109}
-Tags: #contrato-administrativo #prazo
 
 **Art. 109, caput** {#art109_cpt} A Administração poderá estabelecer a vigência por prazo indeterminado nos contratos em que seja usuária de serviço público oferecido em regime de monopólio, desde que comprovada, a cada exercício financeiro, a existência de créditos orçamentários vinculados à contratação.
 
 ###### Art. 110 {#art110}
-Tags: #contrato-administrativo #prazo
 
 **Art. 110, caput** {#art110_cpt} Na contratação que gere receita e no contrato de eficiência que gere economia para a Administração, os prazos serão de:
 - **Art. 110, caput, inciso I** {#art110_cpt_inc1} até 10 (dez) anos, nos contratos sem investimento;
 - **Art. 110, caput, inciso II** {#art110_cpt_inc2} até 35 (trinta e cinco) anos, nos contratos com investimento, assim considerados aqueles que impliquem a elaboração de benfeitorias permanentes, realizadas exclusivamente a expensas do contratado, que serão revertidas ao patrimônio da Administração Pública ao término do contrato.
 
 ###### Art. 111 {#art111}
-Tags: #contrato-administrativo #sancao #prazo
 
 **Art. 111, caput** {#art111_cpt} Na contratação que previr a conclusão de escopo predefinido, o prazo de vigência será automaticamente prorrogado quando seu objeto não for concluído no período firmado no contrato.
 
@@ -1933,24 +1821,20 @@ Tags: #contrato-administrativo #sancao #prazo
 - **Art. 111, parágrafo único, inciso II** {#art111_par1u_inc2} a Administração poderá optar pela extinção do contrato e, nesse caso, adotará as medidas admitidas em lei para a continuidade da execução contratual.
 
 ###### Art. 112 {#art112}
-Tags: #prazo
 
 **Art. 112, caput** {#art112_cpt} Os prazos contratuais previstos nesta Lei não excluem nem revogam os prazos contratuais previstos em lei especial.
 
 ###### Art. 113 {#art113}
-Tags: #contrato-administrativo #prazo
 
 **Art. 113, caput** {#art113_cpt} O contrato firmado sob o regime de fornecimento e prestação de serviço associado terá sua vigência máxima definida pela soma do prazo relativo ao fornecimento inicial ou à entrega da obra com o prazo relativo ao serviço de operação e manutenção, este limitado a 5 (cinco) anos contados da data de recebimento do objeto inicial, autorizada a prorrogação na forma do art. [[#art107|107]] desta Lei.
 
 ###### Art. 114 {#art114}
-Tags: #contrato-administrativo
 
 **Art. 114, caput** {#art114_cpt} O contrato que previr a operação continuada de sistemas estruturantes de tecnologia da informação poderá ter vigência máxima de 15 (quinze) anos.
 
 ### CAPÍTULO VI – DA EXECUÇÃO DOS CONTRATOS
 
 ###### Art. 115 {#art115}
-Tags: #licenciamento-ambiental #contrato-administrativo #obra-engenharia
 
 **Art. 115, caput** {#art115_cpt} O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as normas desta Lei, e cada parte responderá pelas consequências de sua inexecução total ou parcial.
 
@@ -1969,14 +1853,12 @@ Tags: #licenciamento-ambiental #contrato-administrativo #obra-engenharia
 **Art. 115, § 7º** {#art115_par7} Os textos com as informações de que trata o § 6º deste artigo deverão ser elaborados pela Administração.
 
 ###### Art. 116 {#art116}
-Tags: #contrato-administrativo
 
 **Art. 116, caput** {#art116_cpt} Ao longo de toda a execução do contrato, o contratado deverá cumprir a reserva de cargos prevista em lei para pessoa com deficiência, para reabilitado da Previdência Social ou para aprendiz, bem como as reservas de cargos previstas em outras normas específicas.
 
 **Art. 116, parágrafo único** {#art116_par1u} Sempre que solicitado pela Administração, o contratado deverá comprovar o cumprimento da reserva de cargos a que se refere o caput deste artigo, com a indicação dos empregados que preencherem as referidas vagas.
 
 ###### Art. 117 {#art117}
-Tags: #contrato-administrativo #fiscalizacao
 
 **Art. 117, caput** {#art117_cpt} A execução do contrato deverá ser acompanhada e fiscalizada por 1 (um) ou mais fiscais do contrato, representantes da Administração especialmente designados conforme requisitos estabelecidos no art. [[#art7|7º]] desta Lei, ou pelos respectivos substitutos, permitida a contratação de terceiros para assisti-los e subsidiá-los com informações pertinentes a essa atribuição.
 
@@ -1991,22 +1873,18 @@ Tags: #contrato-administrativo #fiscalizacao
 - **Art. 117, § 4º, inciso II** {#art117_par4_inc2} a contratação de terceiros não eximirá de responsabilidade o fiscal do contrato, nos limites das informações recebidas do terceiro contratado.
 
 ###### Art. 118 {#art118}
-Tags: #contrato-administrativo
 
 **Art. 118, caput** {#art118_cpt} O contratado deverá manter preposto aceito pela Administração no local da obra ou do serviço para representá-lo na execução do contrato.
 
 ###### Art. 119 {#art119}
-Tags: #contrato-administrativo
 
 **Art. 119, caput** {#art119_cpt} O contratado será obrigado a reparar, corrigir, remover, reconstruir ou substituir, a suas expensas, no total ou em parte, o objeto do contrato em que se verificarem vícios, defeitos ou incorreções resultantes de sua execução ou de materiais nela empregados.
 
 ###### Art. 120 {#art120}
-Tags: #contrato-administrativo #fiscalizacao
 
 **Art. 120, caput** {#art120_cpt} O contratado será responsável pelos danos causados diretamente à Administração ou a terceiros em razão da execução do contrato, e não excluirá nem reduzirá essa responsabilidade a fiscalização ou o acompanhamento pelo contratante.
 
 ###### Art. 121 {#art121}
-Tags: #contrato-administrativo #garantia-contratual #fiscalizacao
 
 **Art. 121, caput** {#art121_cpt} Somente o contratado será responsável pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato.
 
@@ -2026,7 +1904,6 @@ Tags: #contrato-administrativo #garantia-contratual #fiscalizacao
 **Art. 121, § 5º** {#art121_par5} O recolhimento das contribuições previdenciárias observará o disposto no art. 31 da [[lei-federal-8212-1991|Lei nº 8.212, de 24 de julho de 1991]].
 
 ###### Art. 122 {#art122}
-Tags: #licitacao #contrato-administrativo #fiscalizacao
 
 **Art. 122, caput** {#art122_cpt} Na execução do contrato e sem prejuízo das responsabilidades contratuais e legais, o contratado poderá subcontratar partes da obra, do serviço ou do fornecimento até o limite autorizado, em cada caso, pela Administração.
 
@@ -2037,7 +1914,6 @@ Tags: #licitacao #contrato-administrativo #fiscalizacao
 **Art. 122, § 3º** {#art122_par3} Será vedada a subcontratação de pessoa física ou jurídica, se aquela ou os dirigentes desta mantiverem vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato, ou se deles forem cônjuge, companheiro ou parente em linha reta, colateral, ou por afinidade, até o terceiro grau, devendo essa proibição constar expressamente do edital de licitação.
 
 ###### Art. 123 {#art123}
-Tags: #licitacao #contrato-administrativo #prazo
 
 **Art. 123, caput** {#art123_cpt} A Administração terá o dever de explicitamente emitir decisão sobre todas as solicitações e reclamações relacionadas à execução dos contratos regidos por esta Lei, ressalvados os requerimentos manifestamente impertinentes, meramente protelatórios ou de nenhum interesse para a boa execução do contrato.
 
@@ -2046,7 +1922,6 @@ Tags: #licitacao #contrato-administrativo #prazo
 ### CAPÍTULO VII – DA ALTERAÇÃO DOS CONTRATOS E DOS PREÇOS
 
 ###### Art. 124 {#art124}
-Tags: #licenciamento-ambiental #contrato-administrativo #obra-engenharia #desapropriacao #garantia-contratual
 
 **Art. 124, caput** {#art124_cpt} Os contratos regidos por esta Lei poderão ser alterados, com as devidas justificativas, nos seguintes casos:
 - **Art. 124, caput, inciso I** {#art124_cpt_inc1} unilateralmente pela Administração:
@@ -2063,49 +1938,40 @@ Tags: #licenciamento-ambiental #contrato-administrativo #obra-engenharia #desapr
 **Art. 124, § 2º** {#art124_par2} Será aplicado o disposto na alínea “d” do inciso II do caput deste artigo às contratações de obras e serviços de engenharia, quando a execução for obstada pelo atraso na conclusão de procedimentos de desapropriação, desocupação, servidão administrativa ou licenciamento ambiental, por circunstâncias alheias ao contratado.
 
 ###### Art. 125 {#art125}
-Tags: #contrato-administrativo
 
 **Art. 125, caput** {#art125_cpt} Nas alterações unilaterais a que se refere o inciso I do caput do art. [[#art124|124]] desta Lei, o contratado será obrigado a aceitar, nas mesmas condições contratuais, acréscimos ou supressões de até 25% (vinte e cinco por cento) do valor inicial atualizado do contrato que se fizerem nas obras, nos serviços ou nas compras, e, no caso de reforma de edifício ou de equipamento, o limite para os acréscimos será de 50% (cinquenta por cento).
 
 ###### Art. 126 {#art126}
-Tags:
 
 **Art. 126, caput** {#art126_cpt} As alterações unilaterais a que se refere o inciso I do caput do art. [[#art124|124]] desta Lei não poderão transfigurar o objeto da contratação.
 
 ###### Art. 127 {#art127}
-Tags: #contrato-administrativo
 
 **Art. 127, caput** {#art127_cpt} Se o contrato não contemplar preços unitários para obras ou serviços cujo aditamento se fizer necessário, esses serão fixados por meio da aplicação da relação geral entre os valores da proposta e o do orçamento-base da Administração sobre os preços referenciais ou de mercado vigentes na data do aditamento, respeitados os limites estabelecidos no art. [[#art125|125]] desta Lei.
 
 ###### Art. 128 {#art128}
-Tags: #contrato-administrativo #obra-engenharia
 
 **Art. 128, caput** {#art128_cpt} Nas contratações de obras e serviços de engenharia, a diferença percentual entre o valor global do contrato e o preço global de referência não poderá ser reduzida em favor do contratado em decorrência de aditamentos que modifiquem a planilha orçamentária.
 
 ###### Art. 129 {#art129}
-Tags:
 
 **Art. 129, caput** {#art129_cpt} Nas alterações contratuais para supressão de obras, bens ou serviços, se o contratado já houver adquirido os materiais e os colocado no local dos trabalhos, estes deverão ser pagos pela Administração pelos custos de aquisição regularmente comprovados e monetariamente reajustados, podendo caber indenização por outros danos eventualmente decorrentes da supressão, desde que regularmente comprovados.
 
 ###### Art. 130 {#art130}
-Tags: #contrato-administrativo
 
 **Art. 130, caput** {#art130_cpt} Caso haja alteração unilateral do contrato que aumente ou diminua os encargos do contratado, a Administração deverá restabelecer, no mesmo termo aditivo, o equilíbrio econômico-financeiro inicial.
 
 ###### Art. 131 {#art131}
-Tags: #contrato-administrativo
 
 **Art. 131, caput** {#art131_cpt} A extinção do contrato não configurará óbice para o reconhecimento do desequilíbrio econômico-financeiro, hipótese em que será concedida indenização por meio de termo indenizatório.
 
 **Art. 131, parágrafo único** {#art131_par1u} O pedido de restabelecimento do equilíbrio econômico-financeiro deverá ser formulado durante a vigência do contrato e antes de eventual prorrogação nos termos do art. [[#art107|107]] desta Lei.
 
 ###### Art. 132 {#art132}
-Tags: #contrato-administrativo #prazo
 
 **Art. 132, caput** {#art132_cpt} A formalização do termo aditivo é condição para a execução, pelo contratado, das prestações determinadas pela Administração no curso da execução do contrato, salvo nos casos de justificada necessidade de antecipação de seus efeitos, hipótese em que a formalização deverá ocorrer no prazo máximo de 1 (um) mês.
 
 ###### Art. 133 {#art133}
-Tags:
 
 **Art. 133, caput** {#art133_cpt} Nas hipóteses em que for adotada a contratação integrada ou semi-integrada, é vedada a alteração dos valores contratuais, exceto nos seguintes casos:
 - **Art. 133, caput, inciso I** {#art133_cpt_inc1} para restabelecimento do equilíbrio econômico-financeiro decorrente de caso fortuito ou força maior;
@@ -2114,12 +1980,10 @@ Tags:
 - **Art. 133, caput, inciso IV** {#art133_cpt_inc4} por ocorrência de evento superveniente alocado na matriz de riscos como de responsabilidade da Administração.
 
 ###### Art. 134 {#art134}
-Tags:
 
 **Art. 134, caput** {#art134_cpt} Os preços contratados serão alterados, para mais ou para menos, conforme o caso, se houver, após a data da apresentação da proposta, criação, alteração ou extinção de quaisquer tributos ou encargos legais ou a superveniência de disposições legais, com comprovada repercussão sobre os preços contratados.
 
 ###### Art. 135 {#art135}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 135, caput** {#art135_cpt} Os preços dos contratos para serviços contínuos com regime de dedicação exclusiva de mão de obra ou com predominância de mão de obra serão repactuados para manutenção do equilíbrio econômico-financeiro, mediante demonstração analítica da variação dos custos contratuais, com data vinculada:
 - **Art. 135, caput, inciso I** {#art135_cpt_inc1} à da apresentação da proposta, para custos decorrentes do mercado;
@@ -2138,7 +2002,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 135, § 6º** {#art135_par6} A repactuação será precedida de solicitação do contratado, acompanhada de demonstração analítica da variação dos custos, por meio de apresentação da planilha de custos e formação de preços, ou do novo acordo, convenção ou sentença normativa que fundamenta a repactuação.
 
 ###### Art. 136 {#art136}
-Tags: #contrato-administrativo
 
 **Art. 136, caput** {#art136_cpt} Registros que não caracterizam alteração do contrato podem ser realizados por simples apostila, dispensada a celebração de termo aditivo, como nas seguintes situações:
 - **Art. 136, caput, inciso I** {#art136_cpt_inc1} variação do valor contratual para fazer face ao reajuste ou à repactuação de preços previstos no próprio contrato;
@@ -2149,7 +2012,6 @@ Tags: #contrato-administrativo
 ### CAPÍTULO VIII – DAS HIPÓTESES DE EXTINÇÃO DOS CONTRATOS
 
 ###### Art. 137 {#art137}
-Tags: #licenciamento-ambiental #contrato-administrativo #projeto-engenharia #desapropriacao #garantia-contratual
 
 **Art. 137, caput** {#art137_cpt} Constituirão motivos para extinção do contrato, a qual deverá ser formalmente motivada nos autos do processo, assegurados o contraditório e a ampla defesa, as seguintes situações:
 - **Art. 137, caput, inciso I** {#art137_cpt_inc1} não cumprimento ou cumprimento irregular de normas editalícias ou de cláusulas contratuais, de especificações, de projetos ou de prazos;
@@ -2178,7 +2040,6 @@ Tags: #licenciamento-ambiental #contrato-administrativo #projeto-engenharia #des
 **Art. 137, § 4º** {#art137_par4} Os emitentes das garantias previstas no art. [[#art96|96]] desta Lei deverão ser notificados pelo contratante quanto ao início de processo administrativo para apuração de descumprimento de cláusulas contratuais.
 
 ###### Art. 138 {#art138}
-Tags: #contrato-administrativo #garantia-contratual
 
 **Art. 138, caput** {#art138_cpt} A extinção do contrato poderá ser:
 - **Art. 138, caput, inciso I** {#art138_cpt_inc1} determinada por ato unilateral e escrito da Administração, exceto no caso de descumprimento decorrente de sua própria conduta;
@@ -2193,7 +2054,6 @@ Tags: #contrato-administrativo #garantia-contratual
 - **Art. 138, § 2º, inciso III** {#art138_par2_inc3} pagamento do custo da desmobilização.
 
 ###### Art. 139 {#art139}
-Tags: #contrato-administrativo #garantia-contratual #sancao
 
 **Art. 139, caput** {#art139_cpt} A extinção determinada por ato unilateral da Administração poderá acarretar, sem prejuízo das sanções previstas nesta Lei, as seguintes consequências:
 - **Art. 139, caput, inciso I** {#art139_cpt_inc1} assunção imediata do objeto do contrato, no estado e local em que se encontrar, por ato próprio da Administração;
@@ -2212,7 +2072,6 @@ Tags: #contrato-administrativo #garantia-contratual #sancao
 ### CAPÍTULO IX – DO RECEBIMENTO DO OBJETO DO CONTRATO
 
 ###### Art. 140 {#art140}
-Tags: #contrato-administrativo #garantia-contratual #fiscalizacao #prazo
 
 **Art. 140, caput** {#art140_cpt} O objeto do contrato será recebido:
 - **Art. 140, caput, inciso I** {#art140_cpt_inc1} em se tratando de obras e serviços:
@@ -2237,7 +2096,6 @@ Tags: #contrato-administrativo #garantia-contratual #fiscalizacao #prazo
 ### CAPÍTULO X – DOS PAGAMENTOS
 
 ###### Art. 141 {#art141}
-Tags: #contrato-administrativo #fiscalizacao
 
 **Art. 141, caput** {#art141_cpt} No dever de pagamento pela Administração, será observada a ordem cronológica para cada fonte diferenciada de recursos, subdividida nas seguintes categorias de contratos:
 - **Art. 141, caput, inciso I** {#art141_cpt_inc1} fornecimento de bens;
@@ -2257,19 +2115,16 @@ Tags: #contrato-administrativo #fiscalizacao
 **Art. 141, § 3º** {#art141_par3} O órgão ou entidade deverá disponibilizar, mensalmente, em seção específica de acesso à informação em seu sítio na internet, a ordem cronológica de seus pagamentos, bem como as justificativas que fundamentarem a eventual alteração dessa ordem.
 
 ###### Art. 142 {#art142}
-Tags: #contrato-administrativo
 
 **Art. 142, caput** {#art142_cpt} Disposição expressa no edital ou no contrato poderá prever pagamento em conta vinculada ou pagamento pela efetiva comprovação do fato gerador.
 
 **Art. 142, parágrafo único** {#art142_par1u} (VETADO).
 
 ###### Art. 143 {#art143}
-Tags: #prazo
 
 **Art. 143, caput** {#art143_cpt} No caso de controvérsia sobre a execução do objeto, quanto a dimensão, qualidade e quantidade, a parcela incontroversa deverá ser liberada no prazo previsto para pagamento.
 
 ###### Art. 144 {#art144}
-Tags: #sustentabilidade #licitacao #contrato-administrativo #prazo
 
 **Art. 144, caput** {#art144_cpt} Na contratação de obras, fornecimentos e serviços, inclusive de engenharia, poderá ser estabelecida remuneração variável vinculada ao desempenho do contratado, com base em metas, padrões de qualidade, critérios de sustentabilidade ambiental e prazos de entrega definidos no edital de licitação e no contrato.
 
@@ -2278,7 +2133,6 @@ Tags: #sustentabilidade #licitacao #contrato-administrativo #prazo
 **Art. 144, § 2º** {#art144_par2} A utilização de remuneração variável será motivada e respeitará o limite orçamentário fixado pela Administração para a contratação.
 
 ###### Art. 145 {#art145}
-Tags: #dispensa-licitacao #licitacao #garantia-contratual #prazo
 
 **Art. 145, caput** {#art145_cpt} Não será permitido pagamento antecipado, parcial ou total, relativo a parcelas contratuais vinculadas ao fornecimento de bens, à execução de obras ou à prestação de serviços.
 
@@ -2289,14 +2143,12 @@ Tags: #dispensa-licitacao #licitacao #garantia-contratual #prazo
 **Art. 145, § 3º** {#art145_par3} Caso o objeto não seja executado no prazo contratual, o valor antecipado deverá ser devolvido.
 
 ###### Art. 146 {#art146}
-Tags:
 
 **Art. 146, caput** {#art146_cpt} No ato de liquidação da despesa, os serviços de contabilidade comunicarão aos órgãos da administração tributária as características da despesa e os valores pagos, conforme o disposto no art. 63 da [[lei-federal-4320-1964|Lei nº 4.320, de 17 de março de 1964]].
 
 ### CAPÍTULO XI – DA NULIDADE DOS CONTRATOS
 
 ###### Art. 147 {#art147}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 147, caput** {#art147_cpt} Constatada irregularidade no procedimento licitatório ou na execução contratual, caso não seja possível o saneamento, a decisão sobre a suspensão da execução ou sobre a declaração de nulidade do contrato somente será adotada na hipótese em que se revelar medida de interesse público, com avaliação, entre outros, dos seguintes aspectos:
 - **Art. 147, caput, inciso I** {#art147_cpt_inc1} impactos econômicos e financeiros decorrentes do atraso na fruição dos benefícios do objeto do contrato;
@@ -2314,7 +2166,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 147, parágrafo único** {#art147_par1u} Caso a paralisação ou anulação não se revele medida de interesse público, o poder público deverá optar pela continuidade do contrato e pela solução da irregularidade por meio de indenização por perdas e danos, sem prejuízo da apuração de responsabilidade e da aplicação de penalidades cabíveis.
 
 ###### Art. 148 {#art148}
-Tags: #contrato-administrativo #prazo
 
 **Art. 148, caput** {#art148_cpt} A declaração de nulidade do contrato administrativo requererá análise prévia do interesse público envolvido, na forma do art. [[#art147|147]] desta Lei, e operará retroativamente, impedindo os efeitos jurídicos que o contrato deveria produzir ordinariamente e desconstituindo os já produzidos.
 
@@ -2323,36 +2174,30 @@ Tags: #contrato-administrativo #prazo
 **Art. 148, § 2º** {#art148_par2} Ao declarar a nulidade do contrato, a autoridade, com vistas à continuidade da atividade administrativa, poderá decidir que ela só tenha eficácia em momento futuro, suficiente para efetuar nova contratação, por prazo de até 6 (seis) meses, prorrogável uma única vez.
 
 ###### Art. 149 {#art149}
-Tags:
 
 **Art. 149, caput** {#art149_cpt} A nulidade não exonerará a Administração do dever de indenizar o contratado pelo que houver executado até a data em que for declarada ou tornada eficaz, bem como por outros prejuízos regularmente comprovados, desde que não lhe seja imputável, e será promovida a responsabilização de quem lhe tenha dado causa.
 
 ###### Art. 150 {#art150}
-Tags:
 
 **Art. 150, caput** {#art150_cpt} Nenhuma contratação será feita sem a caracterização adequada de seu objeto e sem a indicação dos créditos orçamentários para pagamento das parcelas contratuais vincendas no exercício em que for realizada a contratação, sob pena de nulidade do ato e de responsabilização de quem lhe tiver dado causa.
 
 ### CAPÍTULO XII – DOS MEIOS ALTERNATIVOS DE RESOLUÇÃO DE CONTROVÉRSIAS
 
 ###### Art. 151 {#art151}
-Tags: #contrato-administrativo
 
 **Art. 151, caput** {#art151_cpt} Nas contratações regidas por esta Lei, poderão ser utilizados meios alternativos de prevenção e resolução de controvérsias, notadamente a conciliação, a mediação, o comitê de resolução de disputas e a arbitragem.
 
 **Art. 151, parágrafo único** {#art151_par1u} Será aplicado o disposto no caput deste artigo às controvérsias relacionadas a direitos patrimoniais disponíveis, como as questões relacionadas ao restabelecimento do equilíbrio econômico-financeiro do contrato, ao inadimplemento de obrigações contratuais por quaisquer das partes e ao cálculo de indenizações.
 
 ###### Art. 152 {#art152}
-Tags:
 
 **Art. 152, caput** {#art152_cpt} A arbitragem será sempre de direito e observará o princípio da publicidade.
 
 ###### Art. 153 {#art153}
-Tags: #contrato-administrativo
 
 **Art. 153, caput** {#art153_cpt} Os contratos poderão ser aditados para permitir a adoção dos meios alternativos de resolução de controvérsias.
 
 ###### Art. 154 {#art154}
-Tags:
 
 **Art. 154, caput** {#art154_cpt} O processo de escolha dos árbitros, dos colegiados arbitrais e dos comitês de resolução de disputas observará critérios isonômicos, técnicos e transparentes.
 
@@ -2361,7 +2206,6 @@ Tags:
 ### CAPÍTULO I – DAS INFRAÇÕES E SANÇÕES ADMINISTRATIVAS
 
 ###### Art. 155 {#art155}
-Tags: #licitacao #contrato-administrativo #sancao #prazo
 
 **Art. 155, caput** {#art155_cpt} O licitante ou o contratado será responsabilizado administrativamente pelas seguintes infrações:
 - **Art. 155, caput, inciso I** {#art155_cpt_inc1} dar causa à inexecução parcial do contrato;
@@ -2378,7 +2222,6 @@ Tags: #licitacao #contrato-administrativo #sancao #prazo
 - **Art. 155, caput, inciso XII** {#art155_cpt_inc12} praticar ato lesivo previsto no art. 5º da [[lei-federal-12846-2013|Lei nº 12.846, de 1º de agosto de 2013]].
 
 ###### Art. 156 {#art156}
-Tags: #contrato-administrativo #garantia-contratual #sancao #prazo
 
 **Art. 156, caput** {#art156_cpt} Serão aplicadas ao responsável pelas infrações administrativas previstas nesta Lei as seguintes sanções:
 - **Art. 156, caput, inciso I** {#art156_cpt_inc1} advertência;
@@ -2412,12 +2255,10 @@ Tags: #contrato-administrativo #garantia-contratual #sancao #prazo
 **Art. 156, § 9º** {#art156_par9} A aplicação das sanções previstas no caput deste artigo não exclui, em hipótese alguma, a obrigação de reparação integral do dano causado à Administração Pública.
 
 ###### Art. 157 {#art157}
-Tags: #sancao #prazo
 
 **Art. 157, caput** {#art157_cpt} Na aplicação da sanção prevista no inciso II do caput do art. [[#art156|156]] desta Lei, será facultada a defesa do interessado no prazo de 15 (quinze) dias úteis, contado da data de sua intimação.
 
 ###### Art. 158 {#art158}
-Tags: #sancao #prazo
 
 **Art. 158, caput** {#art158_cpt} A aplicação das sanções previstas nos incisos III e IV do caput do art. [[#art156|156]] desta Lei requererá a instauração de processo de responsabilização, a ser conduzido por comissão composta de 2 (dois) ou mais servidores estáveis, que avaliará fatos e circunstâncias conhecidos e intimará o licitante ou o contratado para, no prazo de 15 (quinze) dias úteis, contado da data de intimação, apresentar defesa escrita e especificar as provas que pretenda produzir.
 
@@ -2433,33 +2274,28 @@ Tags: #sancao #prazo
 - **Art. 158, § 4º, inciso III** {#art158_par4_inc3} suspensa por decisão judicial que inviabilize a conclusão da apuração administrativa.
 
 ###### Art. 159 {#art159}
-Tags: #licitacao #contrato-administrativo #sancao
 
 **Art. 159, caput** {#art159_cpt} Os atos previstos como infrações administrativas nesta Lei ou em outras leis de licitações e contratos da Administração Pública que também sejam tipificados como atos lesivos na [[lei-federal-12846-2013|Lei nº 12.846, de 1º de agosto de 2013]], serão apurados e julgados conjuntamente, nos mesmos autos, observados o rito procedimental e a autoridade competente definidos na referida Lei.
 
 **Art. 159, parágrafo único** {#art159_par1u} (VETADO).
 
 ###### Art. 160 {#art160}
-Tags: #sancao
 
 **Art. 160, caput** {#art160_cpt} A personalidade jurídica poderá ser desconsiderada sempre que utilizada com abuso do direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos nesta Lei ou para provocar confusão patrimonial, e, nesse caso, todos os efeitos das sanções aplicadas à pessoa jurídica serão estendidos aos seus administradores e sócios com poderes de administração, a pessoa jurídica sucessora ou a empresa do mesmo ramo com relação de coligação ou controle, de fato ou de direito, com o sancionado, observados, em todos os casos, o contraditório, a ampla defesa e a obrigatoriedade de análise jurídica prévia.
 
 ###### Art. 161 {#art161}
-Tags: #contrato-administrativo #sancao #prazo
 
 **Art. 161, caput** {#art161_cpt} Os órgãos e entidades dos Poderes Executivo, Legislativo e Judiciário de todos os entes federativos deverão, no prazo máximo 15 (quinze) dias úteis, contado da data de aplicação da sanção, informar e manter atualizados os dados relativos às sanções por eles aplicadas, para fins de publicidade no Cadastro Nacional de Empresas Inidôneas e Suspensas (Ceis) e no Cadastro Nacional de Empresas Punidas (Cnep), instituídos no âmbito do Poder Executivo federal.
 
 **Art. 161, parágrafo único** {#art161_par1u} Para fins de aplicação das sanções previstas nos incisos I, II, III e IV do caput do art. [[#art156|156]] desta Lei, o Poder Executivo regulamentará a forma de cômputo e as consequências da soma de diversas sanções aplicadas a uma mesma empresa e derivadas de contratos distintos.
 
 ###### Art. 162 {#art162}
-Tags: #contrato-administrativo #sancao
 
 **Art. 162, caput** {#art162_cpt} O atraso injustificado na execução do contrato sujeitará o contratado a multa de mora, na forma prevista em edital ou em contrato.
 
 **Art. 162, parágrafo único** {#art162_par1u} A aplicação de multa de mora não impedirá que a Administração a converta em compensatória e promova a extinção unilateral do contrato com a aplicação cumulada de outras sanções previstas nesta Lei.
 
 ###### Art. 163 {#art163}
-Tags: #sancao #prazo
 
 **Art. 163, caput** {#art163_cpt} É admitida a reabilitação do licitante ou contratado perante a própria autoridade que aplicou a penalidade, exigidos, cumulativamente:
 - **Art. 163, caput, inciso I** {#art163_cpt_inc1} reparação integral do dano causado à Administração Pública;
@@ -2473,14 +2309,12 @@ Tags: #sancao #prazo
 ### CAPÍTULO II – DAS IMPUGNAÇÕES, DOS PEDIDOS DE ESCLARECIMENTO E DOS RECURSOS
 
 ###### Art. 164 {#art164}
-Tags: #licitacao #prazo
 
 **Art. 164, caput** {#art164_cpt} Qualquer pessoa é parte legítima para impugnar edital de licitação por irregularidade na aplicação desta Lei ou para solicitar esclarecimento sobre os seus termos, devendo protocolar o pedido até 3 (três) dias úteis antes da data de abertura do certame.
 
 **Art. 164, parágrafo único** {#art164_par1u} A resposta à impugnação ou ao pedido de esclarecimento será divulgada em sítio eletrônico oficial no prazo de até 3 (três) dias úteis, limitado ao último dia útil anterior à data da abertura do certame.
 
 ###### Art. 165 {#art165}
-Tags: #licitacao #contrato-administrativo #crime #recurso-administrativo #procedimento-auxiliar
 
 **Art. 165, caput** {#art165_cpt} Dos atos da Administração decorrentes da aplicação desta Lei cabem:
 - **Art. 165, caput, inciso I** {#art165_cpt_inc1} recurso, no prazo de 3 (três) dias úteis, contado da data de intimação ou de lavratura da ata, em face de:
@@ -2504,19 +2338,16 @@ Tags: #licitacao #contrato-administrativo #crime #recurso-administrativo #proced
 **Art. 165, § 5º** {#art165_par5} Será assegurado ao licitante vista dos elementos indispensáveis à defesa de seus interesses.
 
 ###### Art. 166 {#art166}
-Tags: #sancao #recurso-administrativo #prazo
 
 **Art. 166, caput** {#art166_cpt} Da aplicação das sanções previstas nos incisos I, II e III do caput do art. [[#art156|156]] desta Lei caberá recurso no prazo de 15 (quinze) dias úteis, contado da data da intimação.
 
 **Art. 166, parágrafo único** {#art166_par1u} O recurso de que trata o caput deste artigo será dirigido à autoridade que tiver proferido a decisão recorrida, que, se não a reconsiderar no prazo de 5 (cinco) dias úteis, encaminhará o recurso com sua motivação à autoridade superior, a qual deverá proferir sua decisão no prazo máximo de 20 (vinte) dias úteis, contado do recebimento dos autos.
 
 ###### Art. 167 {#art167}
-Tags: #sancao #recurso-administrativo #prazo
 
 **Art. 167, caput** {#art167_cpt} Da aplicação da sanção prevista no inciso IV do caput do art. [[#art156|156]] desta Lei caberá apenas pedido de reconsideração, que deverá ser apresentado no prazo de 15 (quinze) dias úteis, contado da data da intimação, e decidido no prazo máximo de 20 (vinte) dias úteis, contado do seu recebimento.
 
 ###### Art. 168 {#art168}
-Tags: #recurso-administrativo
 
 **Art. 168, caput** {#art168_cpt} O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão recorrida até que sobrevenha decisão final da autoridade competente.
 
@@ -2525,7 +2356,6 @@ Tags: #recurso-administrativo
 ### CAPÍTULO III – DO CONTROLE DAS CONTRATAÇÕES
 
 ###### Art. 169 {#art169}
-Tags: #licitacao #sancao
 
 **Art. 169, caput** {#art169_cpt} As contratações públicas deverão submeter-se a práticas contínuas e permanentes de gestão de riscos e de controle preventivo, inclusive mediante adoção de recursos de tecnologia da informação, e, além de estar subordinadas ao controle social, sujeitar-se-ão às seguintes linhas de defesa:
 - **Art. 169, caput, inciso I** {#art169_cpt_inc1} primeira linha de defesa, integrada por servidores e empregados públicos, agentes de licitação e autoridades que atuam na estrutura de governança do órgão ou entidade;
@@ -2541,7 +2371,6 @@ Tags: #licitacao #sancao
 - **Art. 169, § 3º, inciso II** {#art169_par3_inc2} quando constatarem irregularidade que configure dano à Administração, sem prejuízo das medidas previstas no inciso I deste § 3º, adotarão as providências necessárias para a apuração das infrações administrativas, observadas a segregação de funções e a necessidade de individualização das condutas, bem como remeterão ao Ministério Público competente cópias dos documentos cabíveis para a apuração dos ilícitos de sua competência.
 
 ###### Art. 170 {#art170}
-Tags: #fiscalizacao #prazo
 
 **Art. 170, caput** {#art170_cpt} Os órgãos de controle adotarão, na fiscalização dos atos previstos nesta Lei, critérios de oportunidade, materialidade, relevância e risco e considerarão as razões apresentadas pelos órgãos e entidades responsáveis e os resultados obtidos com a contratação, observado o disposto no § 3º do art. [[#art169|169]] desta Lei.
 
@@ -2554,7 +2383,6 @@ Tags: #fiscalizacao #prazo
 **Art. 170, § 4º** {#art170_par4} Qualquer licitante, contratado ou pessoa física ou jurídica poderá representar aos órgãos de controle interno ou ao tribunal de contas competente contra irregularidades na aplicação desta Lei.
 
 ###### Art. 171 {#art171}
-Tags: #licitacao #fiscalizacao #prazo
 
 **Art. 171, caput** {#art171_cpt} Na fiscalização de controle será observado o seguinte:
 - **Art. 171, caput, inciso I** {#art171_cpt_inc1} viabilização de oportunidade de manifestação aos gestores sobre possíveis propostas de encaminhamento que terão impacto significativo nas rotinas de trabalho dos órgãos e entidades fiscalizados, a fim de que eles disponibilizem subsídios para avaliação prévia da relação entre custo e benefício dessas possíveis proposições;
@@ -2575,12 +2403,10 @@ Tags: #licitacao #fiscalizacao #prazo
 **Art. 171, § 4º** {#art171_par4} O descumprimento do disposto no § 2º deste artigo ensejará a apuração de responsabilidade e a obrigação de reparação do prejuízo causado ao erário.
 
 ###### Art. 172 {#art172}
-Tags:
 
 **Art. 172, caput** {#art172_cpt} (VETADO).
 
 ###### Art. 173 {#art173}
-Tags:
 
 **Art. 173, caput** {#art173_cpt} Os tribunais de contas deverão, por meio de suas escolas de contas, promover eventos de capacitação para os servidores efetivos e empregados públicos designados para o desempenho das funções essenciais à execução desta Lei, incluídos cursos presenciais e a distância, redes de aprendizagem, seminários e congressos sobre contratações públicas.
 
@@ -2589,7 +2415,6 @@ Tags:
 ### CAPÍTULO I – DO PORTAL NACIONAL DE CONTRATAÇÕES PÚBLICAS (PNCP)
 
 ###### Art. 174 {#art174}
-Tags: #licitacao #contrato-administrativo #pncp #procedimento-auxiliar
 Alterações: [[lei-federal-15266-2025|Lei nº 15.266, de 2025]] (incluído: § 3º, inciso VII, § 3º-A)
 
 **Art. 174, caput** {#art174_cpt} É criado o Portal Nacional de Contratações Públicas (PNCP), sítio eletrônico oficial destinado à:
@@ -2629,7 +2454,6 @@ Alterações: [[lei-federal-15266-2025|Lei nº 15.266, de 2025]] (incluído: § 
 **Art. 174, § 5º** {#art174_par5} (VETADO).
 
 ###### Art. 175 {#art175}
-Tags: #licitacao #pncp
 Alterações: [[lei-federal-15266-2025|Lei nº 15.266, de 2025]] (nova redação: § 1º)
 
 **Art. 175, caput** {#art175_cpt} Sem prejuízo do disposto no art. [[#art174|174]] desta Lei, os entes federativos poderão instituir sítio eletrônico oficial para divulgação complementar e realização das respectivas contratações.
@@ -2639,7 +2463,6 @@ Alterações: [[lei-federal-15266-2025|Lei nº 15.266, de 2025]] (nova redação
 **Art. 175, § 2º** {#art175_par2} Até 31 de dezembro de 2023, os Municípios deverão realizar divulgação complementar de suas contratações mediante publicação de extrato de edital de licitação em jornal diário de grande circulação local. *(Promulgação partes vetadas)*
 
 ###### Art. 176 {#art176}
-Tags: #licitacao #pncp #prazo
 
 **Art. 176, caput** {#art176_cpt} Os Municípios com até 20.000 (vinte mil) habitantes terão o prazo de 6 (seis) anos, contado da data de publicação desta Lei, para cumprimento:
 - **Art. 176, caput, inciso I** {#art176_cpt_inc1} dos requisitos estabelecidos no art. [[#art7|7º]] e no caput do art. [[#art8|8º]] desta Lei;
@@ -2653,7 +2476,6 @@ Tags: #licitacao #pncp #prazo
 ### CAPÍTULO II – DAS ALTERAÇÕES LEGISLATIVAS
 
 ###### Art. 177 {#art177}
-Tags:
 
 **Art. 177, caput** {#art177_cpt} O caput do art. 1.048 da [[lei-federal-13105-2015|Lei nº 13.105, de 16 de março de 2015]] (Código de Processo Civil), passa a vigorar acrescido do seguinte inciso IV:
 
@@ -2667,7 +2489,6 @@ Tags:
 > ................................................................................................................” (NR)
 
 ###### Art. 178 {#art178}
-Tags:
 
 **Art. 178, caput** {#art178_cpt} O Título XI da Parte Especial do [[decreto-lei-federal-2848-1940|Decreto-Lei nº 2.848, de 7 de dezembro de 1940]] (Código Penal), passa a vigorar acrescido do seguinte Capítulo II-B:
 
@@ -2719,7 +2540,6 @@ Tags:
 > Art. 337-P. A pena de multa cominada aos crimes previstos neste Capítulo seguirá a metodologia de cálculo prevista neste Código e não poderá ser inferior a 2% (dois por cento) do valor do contrato licitado ou celebrado com contratação direta.”
 
 ###### Art. 179 {#art179}
-Tags:
 
 **Art. 179, caput** {#art179_cpt} Os incisos II e III do caput do art. 2º da [[lei-federal-8987-1995|Lei nº 8.987, de 13 de fevereiro de 1995]], passam a vigorar com a seguinte redação:
 
@@ -2735,7 +2555,6 @@ Tags:
 > ..................................................................................................................” (NR)
 
 ###### Art. 180 {#art180}
-Tags:
 
 **Art. 180, caput** {#art180_cpt} O caput do art. 10 da [[lei-federal-11079-2004|Lei nº 11.079, de 30 de dezembro de 2004]], passa a vigorar com a seguinte redação:
 
@@ -2747,19 +2566,16 @@ Tags:
 ### CAPÍTULO III – DISPOSIÇÕES TRANSITÓRIAS E FINAIS
 
 ###### Art. 181 {#art181}
-Tags:
 
 **Art. 181, caput** {#art181_cpt} Os entes federativos instituirão centrais de compras, com o objetivo de realizar compras em grande escala, para atender a diversos órgãos e entidades sob sua competência e atingir as finalidades desta Lei.
 
 **Art. 181, parágrafo único** {#art181_par1u} No caso dos Municípios com até 10.000 (dez mil) habitantes, serão preferencialmente constituídos consórcios públicos para a realização das atividades previstas no caput deste artigo, nos termos da [[lei-federal-11107-2005|Lei nº 11.107, de 6 de abril de 2005]].
 
 ###### Art. 182 {#art182}
-Tags: #pncp
 
 **Art. 182, caput** {#art182_cpt} O Poder Executivo federal atualizará, a cada dia 1º de janeiro, pelo Índice Nacional de Preços ao Consumidor Amplo Especial (IPCA-E) ou por índice que venha a substituí-lo, os valores fixados por esta Lei, os quais serão divulgados no PNCP.
 
 ###### Art. 183 {#art183}
-Tags: #prazo
 
 **Art. 183, caput** {#art183_cpt} Os prazos previstos nesta Lei serão contados com exclusão do dia do começo e inclusão do dia do vencimento e observarão as seguintes disposições:
 - **Art. 183, caput, inciso I** {#art183_cpt_inc1} os prazos expressos em dias corridos serão computados de modo contínuo;
@@ -2775,7 +2591,6 @@ Tags: #prazo
 **Art. 183, § 3º** {#art183_par3} Na hipótese do inciso II do caput deste artigo, se no mês do vencimento não houver o dia equivalente àquele do início do prazo, considera-se como termo o último dia do mês.
 
 ###### Art. 184 {#art184}
-Tags:
 Alterações: [[lei-federal-14770-2023|Lei nº 14.770, de 2023]] (incluído: § 1º, § 2º, § 2º, inciso I, § 2º, inciso II, § 2º, inciso III, § 3º, § 3º, inciso I, § 3º, inciso II, § 3º, inciso III, § 4º)
 
 **Art. 184, caput** {#art184_cpt} Aplicam-se as disposições desta Lei, no que couber e na ausência de norma específica, aos convênios, acordos, ajustes e outros instrumentos congêneres celebrados por órgãos e entidades da Administração Pública, na forma estabelecida em regulamento do Poder Executivo federal.
@@ -2795,7 +2610,6 @@ Alterações: [[lei-federal-14770-2023|Lei nº 14.770, de 2023]] (incluído: § 
 **Art. 184, § 4º** {#art184_par4} #incluido Os saldos remanescentes e os rendimentos financeiros auferidos na forma do § 1º deste artigo serão obrigatoriamente computados a crédito do convênio e aplicados no objeto de sua finalidade e na ampliação de meta, quando possível, sem prejuízo da funcionalidade do objeto pactuado, devendo constar de demonstrativo específico que integrará as prestações de contas do ajuste. *(Incluído pela [[lei-federal-14770-2023|Lei nº 14.770, de 2023]])*
 
 ###### Art. 184-A {#art184-a}
-Tags: #licenciamento-ambiental #contrato-administrativo #termo-referencia #projeto-engenharia
 Alterações: [[lei-federal-14770-2023|Lei nº 14.770, de 2023]] (incluído: caput, inciso I, inciso II, inciso III, inciso IV, § 1º, § 2º, § 3º, § 4º)
 
 **Art. 184-A, caput** {#art184-a_cpt} #incluido À celebração, à execução, ao acompanhamento e à prestação de contas dos convênios, contratos de repasse e instrumentos congêneres em que for parte a União, com valor global de até R$ 1.500.000,00 (um milhão e quinhentos mil reais), aplicar-se-á o seguinte regime simplificado: *(Incluído pela [[lei-federal-14770-2023|Lei nº 14.770, de 2023]])* *(Vide [[decreto-federal-12343-2024|Decreto nº 12.343, de 2024]])* *(Vigência)* *(Vide [[decreto-federal-12807-2025|Decreto nº 12.807, de 2025]])* *(Vigência)*
@@ -2813,49 +2627,40 @@ Alterações: [[lei-federal-14770-2023|Lei nº 14.770, de 2023]] (incluído: cap
 **Art. 184-A, § 4º** {#art184-a_par4} #incluido O regime simplificado de que trata este artigo aplica-se aos convênios, contratos de repasse e instrumentos congêneres celebrados após a publicação desta Lei. *(Incluído pela [[lei-federal-14770-2023|Lei nº 14.770, de 2023]])*
 
 ###### Art. 185 {#art185}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 185, caput** {#art185_cpt} Aplicam-se às licitações e aos contratos regidos pela [[lei-federal-13303-2016|Lei nº 13.303, de 30 de junho de 2016]], as disposições do Capítulo II-B do Título XI da Parte Especial do [[decreto-lei-federal-2848-1940|Decreto-Lei nº 2.848, de 7 de dezembro de 1940]] (Código Penal).
 
 ###### Art. 186 {#art186}
-Tags:
 
 **Art. 186, caput** {#art186_cpt} Aplicam-se as disposições desta Lei subsidiariamente à [[lei-federal-8987-1995|Lei nº 8.987, de 13 de fevereiro de 1995]], à [[lei-federal-11079-2004|Lei nº 11.079, de 30 de dezembro de 2004]], e à [[lei-federal-12232-2010|Lei nº 12.232, de 29 de abril de 2010]].
 
 ###### Art. 187 {#art187}
-Tags:
 
 **Art. 187, caput** {#art187_cpt} Os Estados, o Distrito Federal e os Municípios poderão aplicar os regulamentos editados pela União para execução desta Lei.
 
 ###### Art. 188 {#art188}
-Tags:
 
 **Art. 188, caput** {#art188_cpt} (VETADO).
 
 ###### Art. 189 {#art189}
-Tags:
 
 **Art. 189, caput** {#art189_cpt} Aplica-se esta Lei às hipóteses previstas na legislação que façam referência expressa à [[lei-federal-8666-1993|Lei nº 8.666, de 21 de junho de 1993]], à [[lei-federal-10520-2002|Lei nº 10.520, de 17 de julho de 2002]], e aos arts. 1º a 47-A da [[lei-federal-12462-2011|Lei nº 12.462, de 4 de agosto de 2011]].
 
 ###### Art. 190 {#art190}
-Tags: #contrato-administrativo
 
 **Art. 190, caput** {#art190_cpt} O contrato cujo instrumento tenha sido assinado antes da entrada em vigor desta Lei continuará a ser regido de acordo com as regras previstas na legislação revogada.
 
 ###### Art. 191 {#art191}
-Tags: #contrato-administrativo #prazo
 
 **Art. 191, caput** {#art191_cpt} Até o decurso do prazo de que trata o inciso II do caput do art. [[#art193|193]], a Administração poderá optar por licitar ou contratar diretamente de acordo com esta Lei ou de acordo com as leis citadas no referido inciso, e a opção escolhida deverá ser indicada expressamente no edital ou no aviso ou instrumento de contratação direta, vedada a aplicação combinada desta Lei com as citadas no referido inciso.
 
 **Art. 191, parágrafo único** {#art191_par1u} Na hipótese do caput deste artigo, se a Administração optar por licitar de acordo com as leis citadas no inciso II do caput do art. [[#art193|193]] desta Lei, o contrato respectivo será regido pelas regras nelas previstas durante toda a sua vigência.
 
 ###### Art. 192 {#art192}
-Tags: #contrato-administrativo
 
 **Art. 192, caput** {#art192_cpt} O contrato relativo a imóvel do patrimônio da União ou de suas autarquias e fundações continuará regido pela legislação pertinente, aplicada esta Lei subsidiariamente.
 
 ###### Art. 193 {#art193}
-Tags:
 Alterações: [[lei-complementar-federal-198-2023|Lei Complementar nº 198, de 2023]] (nova redação: inciso II, inciso II, alínea "a", inciso II, alínea "b", inciso II, alínea "c")
 
 **Art. 193, caput** {#art193_cpt} Revogam-se:
@@ -2866,7 +2671,6 @@ Alterações: [[lei-complementar-federal-198-2023|Lei Complementar nº 198, de 2
   - **Art. 193, caput, inciso II, alínea "c"** {#art193_cpt_inc2_alic} #redacao-alterada os arts. 1º a 47-A da [[lei-federal-12462-2011|Lei nº 12.462, de 4 de agosto de 2011]]. *(Redação dada pela [[lei-complementar-federal-198-2023|Lei Complementar nº 198, de 2023]])*
 
 ###### Art. 194 {#art194}
-Tags:
 
 **Art. 194, caput** {#art194_cpt} Esta Lei entra em vigor na data de sua publicação.
 

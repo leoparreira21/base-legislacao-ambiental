@@ -36,14 +36,12 @@ fonte: "Impressão do texto compilado do portal Legislação Estadual do Paraná
 ## CAPÍTULO I – DISPOSIÇÃO PRELIMINAR
 
 ###### Art. 1º {#art1}
-Tags: #recurso-hidrico #segrh
 
 **Art. 1º, caput** {#art1_cpt} Esta lei institui a Política Estadual de Recursos Hídricos e cria o Sistema Estadual de Gerenciamento de Recursos Hídricos, como parte integrante dos Recursos Naturais do Estado, nos termos da [[constituicao-estadual-1989|Constituição Estadual]] e na forma da legislação federal aplicável.
 
 ## CAPÍTULO II – POLÍTICA ESTADUAL DE RECURSOS HÍDRICOS
 
 ###### Art. 2º {#art2}
-Tags: #recurso-hidrico #bacia-hidrografica #prioridade #dessedentacao-animal
 Alterações: caput, inciso II: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 2º, caput** {#art2_cpt} A Política Estadual de Recursos Hídricos baseia-se nos seguintes fundamentos:
@@ -58,7 +56,6 @@ Alterações: caput, inciso II: nova redação pela [[lei-estadual-16242-2009|Le
 ## CAPÍTULO III – OBJETIVOS
 
 ###### Art. 3º {#art3}
-Tags: #recurso-hidrico #disponibilidade-hidrica #evento-hidrologico-critico
 
 **Art. 3º, caput** {#art3_cpt} São objetivos da Política Estadual de Recursos Hídricos:
 
@@ -69,7 +66,6 @@ Tags: #recurso-hidrico #disponibilidade-hidrica #evento-hidrologico-critico
 ## CAPÍTULO IV – DIRETRIZES GERAIS DE AÇÃO
 
 ###### Art. 4º {#art4}
-Tags: #recurso-hidrico #bacia-hidrografica #evento-hidrologico-critico
 
 **Art. 4º, caput** {#art4_cpt} Constituem diretrizes gerais de ação para implementação da Política Estadual de Recursos Hídricos:
 
@@ -81,7 +77,6 @@ Tags: #recurso-hidrico #bacia-hidrografica #evento-hidrologico-critico
 - **Art. 4º, caput, inciso VI** {#art4_cpt_inc6} a integração da gestão das bacias hidrográficas com a dos sistemas estuarinos e zonas costeiras.
 
 ###### Art. 5º {#art5}
-Tags: #recurso-hidrico #bacia-hidrografica
 
 **Art. 5º, caput** {#art5_cpt} O Estado do Paraná articular-se-á com a União e com outros Estados tendo em vista o gerenciamento dos recursos hídricos de interesse comum.
 
@@ -90,7 +85,6 @@ Tags: #recurso-hidrico #bacia-hidrografica
 ## CAPÍTULO V – INSTRUMENTOS DA POLÍTICA ESTADUAL DE RECURSOS HÍDRICOS
 
 ###### Art. 6º {#art6}
-Tags: #recurso-hidrico #plano-recursos-hidricos #enquadramento #outorga #cobranca-uso-agua #sistema-informacao-recursos-hidricos
 
 **Art. 6º, caput** {#art6_cpt} São instrumentos da Política Estadual de Recursos Hídricos:
 
@@ -106,7 +100,6 @@ Tags: #recurso-hidrico #plano-recursos-hidricos #enquadramento #outorga #cobranc
 ### Seção I – Do Plano Estadual de Recursos Hídricos
 
 ###### Art. 7º {#art7}
-Tags: #recurso-hidrico #plano-recursos-hidricos #bacia-hidrografica #conselho-estadual-recursos-hidricos #cerh
 Alterações: § 4º: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 7º, caput** {#art7_cpt} O Estado elaborará, com base nos planejamentos efetuados nas bacias hidrográficas, o Plano Estadual de Recursos Hídricos (PLERH/PR), que conterá o seguinte:
@@ -128,12 +121,10 @@ Alterações: § 4º: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.2
 ### Seção II – Do Plano de Bacia Hidrográfica
 
 ###### Art. 8º {#art8}
-Tags: #recurso-hidrico #bacia-hidrografica
 
 **Art. 8º, caput** {#art8_cpt} O planejamento de recursos hídricos, elaborado por bacia ou conjunto de bacias hidrográficas do Estado, consubstanciar-se-á, formalmente, em plano que visa a fundamentar e orientar a implementação da Política Estadual de Recursos Hídricos e o seu respectivo gerenciamento.
 
 ###### Art. 9º {#art9}
-Tags: #recurso-hidrico #plano-recursos-hidricos #enquadramento #outorga #cobranca-uso-agua #vazao #disponibilidade-hidrica #prioridade
 Alterações: caput, inciso X: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 9º, caput** {#art9_cpt} O Plano de Bacia Hidrográfica é de longo prazo, com horizonte de planejamento compatível com o período de implantação de seus programas, projetos, ações e atividades e terá o seguinte conteúdo mínimo:
@@ -152,7 +143,6 @@ Alterações: caput, inciso X: incluído pela [[lei-estadual-16242-2009|Lei nº 
 ### Seção III – Do Enquadramento dos Corpos de Água em Classes Segundo os Usos Preponderantes da Água
 
 ###### Art. 10 {#art10}
-Tags: #recurso-hidrico #plano-recursos-hidricos #enquadramento #outorga #disponibilidade-hidrica
 
 **Art. 10, caput** {#art10_cpt} O enquadramento dos corpos de água em classes segundo os usos preponderantes deverá:
 
@@ -161,19 +151,16 @@ Tags: #recurso-hidrico #plano-recursos-hidricos #enquadramento #outorga #disponi
 - **Art. 10, caput, inciso III** {#art10_cpt_inc3} objetivar padrões de qualidade das águas compatíveis com os usos a que forem destinadas, subsidiando o processo de concessão de outorga de direitos de uso dos recursos hídricos.
 
 ###### Art. 11 {#art11}
-Tags: #recurso-hidrico
 
 **Art. 11, caput** {#art11_cpt} As classes de corpos de água serão estabelecidas nos termos da legislação ambiental.
 
 ### Seção IV – Da Outorga e da Suspensão da Outorga de Direitos de Uso de Recursos Hídricos.
 
 ###### Art. 12 {#art12}
-Tags: #recurso-hidrico #outorga
 
 **Art. 12, caput** {#art12_cpt} O regime de outorga de direitos de uso de recursos hídricos do Estado tem como objetivos assegurar o controle quantitativo e qualitativo dos usos da água e efetivo exercício dos direitos de acesso à água.
 
 ###### Art. 13 {#art13}
-Tags: #recurso-hidrico #outorga #agua-subterranea #poco #lancamento #abastecimento-publico #evento-hidrologico-critico #regulamentacao
 Alterações: § 1º: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 13, caput** {#art13_cpt} Estão sujeitos à outorga pelo Poder Público os seguintes direitos de uso de recursos hídricos, independentemente da natureza, pública ou privada, dos usuários:
@@ -190,14 +177,12 @@ Alterações: § 1º: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.2
 **Art. 13, § 2º** {#art13_par2} A outorga e a utilização de recursos hídricos para fins de geração de energia elétrica estarão subordinadas ao Plano Nacional de Recursos Hídricos, obedecendo a disciplina da legislação setorial especifica.
 
 ###### Art. 14 {#art14}
-Tags: #recurso-hidrico #outorga #prioridade
 
 **Art. 14, caput** {#art14_cpt} Toda outorga estará condicionada às prioridades de uso estabelecidas nos Planos de Bacia Hidrográfica e deverá respeitar a classe em que o corpo de água estiver enquadrado bem como a manutenção de condições adequadas ao transporte aquaviário, quando for o caso.
 
 **Art. 14, parágrafo único** {#art14_par1u} A outorga de uso dos recursos hídricos deverá preservar o uso múltiplo destes.
 
 ###### Art. 15 {#art15}
-Tags: #recurso-hidrico #outorga #prioridade
 
 **Art. 15, caput** {#art15_cpt} A outorga de direito de uso de recursos hídricos poderá ser suspensa pela autoridade competente do Poder Executivo, parcial ou totalmente, em definitivo ou por prazo determinado, nas seguintes circunstâncias:
 
@@ -208,7 +193,6 @@ Tags: #recurso-hidrico #outorga #prioridade
 - **Art. 15, caput, inciso V** {#art15_cpt_inc5} necessidade de se atender a usos prioritários, de interesse coletivo, para os quais não se disponha de fontes alternativas.
 
 ###### Art. 16 {#art16}
-Tags: #recurso-hidrico #outorga #lancamento #vazao #disponibilidade-hidrica
 
 **Art. 16, caput** {#art16_cpt} A outorga confere ao usuário o direito de uso do corpo hídrico, condicionado à disponibilidade de água.
 
@@ -221,7 +205,6 @@ Tags: #recurso-hidrico #outorga #lancamento #vazao #disponibilidade-hidrica
 **Art. 16, § 4º** {#art16_par4} A vazão outorgável de um trecho de rio estará associada à probabilidade de que a vazão efetiva do curso de água seja superior à vazão estabelecida como outorgável.
 
 ###### Art. 17 {#art17}
-Tags: #recurso-hidrico #outorga #saneamento #regulamentacao
 
 **Art. 17, caput** {#art17_cpt} Toda outorga de direitos de uso de recursos hídricos far-se-á por prazo não excedente a trinta e cinco anos, renovável.
 
@@ -230,14 +213,12 @@ Tags: #recurso-hidrico #outorga #saneamento #regulamentacao
 **Art. 17, § 2º** {#art17_par2} O Poder Executivo, ao emitir a outorga, mediante autoridade competente, observará a vigência de contratos de concessão para a prestação de serviços públicos que impliquem na utilização de recursos hídricos, garantindo a autonomia municipal no que concerne aos serviços de saneamento básico.
 
 ###### Art. 18 {#art18}
-Tags: #recurso-hidrico #outorga
 
 **Art. 18, caput** {#art18_cpt} A outorga efetivar-se-á por ato da autoridade competente do Poder Executivo Estadual.
 
 ### Seção V – Da Cobrança pelo Direito de Uso de Recursos Hídricos
 
 ###### Art. 19 {#art19}
-Tags: #recurso-hidrico #plano-recursos-hidricos #bacia-hidrografica #outorga #cobranca-uso-agua
 
 **Art. 19, caput** {#art19_cpt} O direito de uso de recursos hídricos sujeito à outorga será objeto de cobrança que visa a:
 
@@ -248,7 +229,6 @@ Tags: #recurso-hidrico #plano-recursos-hidricos #bacia-hidrografica #outorga #co
 - **Art. 19, caput, inciso V** {#art19_cpt_inc5} obter recursos financeiros para implementação de programas e intervenções contemplados em Plano de Bacia Hidrográfica.
 
 ###### Art. 20 {#art20}
-Tags: #recurso-hidrico #enquadramento #outorga #agua-subterranea #conselho-estadual-recursos-hidricos #cerh #municipio #manancial #lancamento
 
 **Art. 20, caput** {#art20_cpt} No cálculo do valor a ser cobrado pelo direito de uso de recursos hídricos, excluídos os usos definidos como insignificantes e não sujeitos a outorga, devem ser observados os seguintes fatores:
 
@@ -277,7 +257,6 @@ Tags: #recurso-hidrico #enquadramento #outorga #agua-subterranea #conselho-estad
 **Art. 20, § 5º** {#art20_par5} A utilização dos recursos hídricos para fins de geração de energia elétrica reger-se-á pela legislação federal pertinente.
 
 ###### Art. 21 {#art21}
-Tags: #recurso-hidrico #cobranca-uso-agua #conselho-estadual-recursos-hidricos #cerh #segrh
 Alterações: § 1º: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 21, caput** {#art21_cpt} O valor inerente à cobrança pelo direito de uso de recursos hídricos classificar-se-á como receita patrimonial, nos termos do [[lei-federal-4320-1964#art11|artigo 11 da Lei Federal No. 4.320, de 17 de março de 1964]], com a redação dada pelo [[decreto-lei-federal-1939-1982|Decreto-Lei Nº 1.939, de 20 de maio de 1982]].
@@ -287,7 +266,6 @@ Alterações: § 1º: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.2
 **Art. 21, § 2º** {#art21_par2} Os créditos do Sistema Estadual de Gerenciamento de Recursos Hídricos (SEGRH/PR), de que trata esta lei, decorrentes da cobrança pelos direitos de uso de recursos hídricos, não pagos pelos respectivos responsáveis, serão inscritos, cobrados e executados, com a observância da legislação aplicável e em vigor, inerente à dívida ativa.
 
 ###### Art. 22 {#art22}
-Tags: #recurso-hidrico #plano-recursos-hidricos #bacia-hidrografica #cobranca-uso-agua #comite-bacia #fundo-estadual-recursos-hidricos #segrh #municipio #vazao
 Alterações: § 1º, inciso VII: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 1º, inciso IX: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]] (redação substituída); § 1º, inciso IX: nova redação pela [[lei-estadual-22056-2024|Lei nº 22.056/2024]]; § 1º, inciso X: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 1º, inciso X: revogado pela [[lei-estadual-22056-2024|Lei nº 22.056/2024]]; § 1º, inciso XI: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 2º: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]] (redação substituída); § 2º: nova redação pela [[lei-estadual-19848-2019|Lei nº 19.848/2019]] (redação substituída); § 2º: nova redação pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]]; § 3º: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 4º, alínea "a": nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 4º, alínea "b": nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 10: incluído pela [[lei-estadual-17134-2012|Lei nº 17.134/2012]]; § 11: incluído pela [[lei-estadual-21100-2022|Lei nº 21.100/2022]]
 
 **Art. 22, caput** {#art22_cpt} Fica criado o Fundo Estadual de Recursos Hídricos (FRHI/PR), de natureza e individuação contábeis, destinado à implantação e ao suporte financeiro de custeio e de investimentos do Sistema Estadual de Gerenciamento de Recursos Hídricos (SEGRH/PR), de que trata esta lei.
@@ -330,19 +308,16 @@ Alterações: § 1º, inciso VII: nova redação pela [[lei-estadual-16242-2009|
 **Art. 22, § 11** {#art22_par11} #incluido O superávit financeiro das Fontes do Tesouro Estadual, apurado ao final de cada exercício, poderá ser transferido ao Tesouro Estadual, a partir de requerimento da Secretaria de Estado da Fazenda - Sefa ou órgão que a substituir. *(Incluído pela [[lei-estadual-21100-2022|Lei nº 21.100/2022]])*
 
 ###### Art. 22-A {#art22-a}
-Tags: #recurso-hidrico #fundo-estadual-recursos-hidricos
 Alterações: caput: incluído pela [[lei-estadual-21100-2022|Lei nº 21.100/2022]]
 
 **Art. 22-A, caput** {#art22-a_cpt} #incluido Os recursos do Fundo Estadual de Recursos Hídricos - FRHI/PR poderão ser utilizados para pagamento de despesas de pessoal e encargos sociais, desde que ligadas às finalidades essenciais do fundo, não podendo ser utilizados para essa finalidade os recursos oriundos de transferências voluntárias ou de receitas de capital. *(Incluído pela [[lei-estadual-21100-2022|Lei nº 21.100/2022]])*
 
 ###### Art. 22-B {#art22-b}
-Tags: #recurso-hidrico #fundo-estadual-recursos-hidricos #iat
 Alterações: caput: incluído pela [[lei-estadual-21100-2022|Lei nº 21.100/2022]]
 
 **Art. 22-B, caput** {#art22-b_cpt} #incluido As receitas do Fundo Estadual de Recursos Hídricos - FRHI/PR serão depositados em conta bancária específica de instituição financeira oficial do Estado, em nome do fundo, vinculado ao Instituto Água e Terra – IAT. *(Incluído pela [[lei-estadual-21100-2022|Lei nº 21.100/2022]])*
 
 ###### Art. 22-C {#art22-c}
-Tags: #recurso-hidrico #fundo-estadual-recursos-hidricos #compensacao-financeira
 Alterações: caput: incluído pela [[lei-estadual-22056-2024|Lei nº 22.056/2024]]
 
 **Art. 22-C, caput** {#art22-c_cpt} #incluido A compensação financeira e royalties pela exploração de recursos hídricos para fins de geração de energia elétrica oriundos da Usina Hidrelétrica de Itaipu deixam de integrar os recursos do Fundo Estadual de Recursos Hídricos - FRHI/PR. *(Incluído pela [[lei-estadual-22056-2024|Lei nº 22.056/2024]])*
@@ -350,12 +325,10 @@ Alterações: caput: incluído pela [[lei-estadual-22056-2024|Lei nº 22.056/202
 ### Seção VI – Do Sistema Estadual de Informações sobre Recursos Hídricos
 
 ###### Art. 23 {#art23}
-Tags: #recurso-hidrico
 
 **Art. 23, caput** {#art23_cpt} A coleta, o tratamento, o armazenamento, a recuperação e a disseminação de informações sobre recursos hídricos e fatores intervenientes em sua gestão no Estado serão organizados sob a forma de sistema e compatibilizados com o Sistema Nacional de Informações sobre Recursos Hídricos.
 
 ###### Art. 24 {#art24}
-Tags: #recurso-hidrico #sistema-informacao-recursos-hidricos
 
 **Art. 24, caput** {#art24_cpt} São princípios básicos para o funcionamento do Sistema Estadual de Informações sobre Recursos Hídricos:
 
@@ -364,7 +337,6 @@ Tags: #recurso-hidrico #sistema-informacao-recursos-hidricos
 - **Art. 24, caput, inciso III** {#art24_cpt_inc3} acesso aos dados e informações garantido a toda sociedade.
 
 ###### Art. 25 {#art25}
-Tags: #recurso-hidrico #plano-recursos-hidricos #sistema-informacao-recursos-hidricos #disponibilidade-hidrica
 
 **Art. 25, caput** {#art25_cpt} São objetivos do Sistema Estadual de Informações sobre Recursos Hídricos:
 
@@ -376,7 +348,6 @@ Tags: #recurso-hidrico #plano-recursos-hidricos #sistema-informacao-recursos-hid
 ## CAPÍTULO VII – DOS DEPÓSITOS DE ÁGUAS SUBTERRÂNEAS
 
 ###### Art. 26 {#art26}
-Tags: #recurso-hidrico #agua-subterranea #regulamentacao
 
 **Art. 26, caput** {#art26_cpt} Aplicam-se aos depósitos de águas subterrâneas os fundamentos, objetivos, diretrizes gerais de ação e os instrumentos da Política Estadual de Recursos Hídricos, estabelecida por esta lei.
 
@@ -385,7 +356,6 @@ Tags: #recurso-hidrico #agua-subterranea #regulamentacao
 **Art. 26, § 2º** {#art26_par2} Nos regulamentos e normas decorrentes desta lei serão consideradas a interconexão entre águas subterrâneas e superficiais, bem como as interações observadas no ciclo hidrológico.
 
 ###### Art. 27 {#art27}
-Tags: #recurso-hidrico #agua-subterranea #conselho-estadual-recursos-hidricos #cerh #segrh #fiscalizacao
 
 **Art. 27, caput** {#art27_cpt} As águas subterrâneas, em razão de sua importância estratégica, deverão estar sujeitas a programa permanente de preservação visando a possibilitar seu melhor aproveitamento.
 
@@ -394,12 +364,10 @@ Tags: #recurso-hidrico #agua-subterranea #conselho-estadual-recursos-hidricos #c
 **Art. 27, § 2º** {#art27_par2} Caberá ao órgão competente do Sistema Estadual de Gerenciamento de Recursos Hídricos, conforme estabelecido no Capítulo X desta lei, desenvolver proposta de política de utilização dos depósitos naturais de águas subterrâneas do Estado do Paraná, a ser submetida à aprovação do Conselho Estadual de Recursos Hídricos, bem como proceder à avaliação dos recursos hídricos do subsolo e fiscalizar sua exploração, adotando medidas preventivas quanto à sua contaminação.
 
 ###### Art. 28 {#art28}
-Tags: #recurso-hidrico #agua-subterranea #conselho-estadual-recursos-hidricos #cerh #irrigacao
 
 **Art. 28, caput** {#art28_cpt} A implantação de distritos industriais e de grandes projetos de irrigação, colonização ou de outros, que dependam da utilização de águas subterrâneas ou que sobre elas possam causar impacto relevante, deverá ser procedida de estudos hidrogeológicos para avaliação do potencial de suas reservas hídricas e para o correto dimensionamento das vazões a serem extraídas, sujeitos à prévia aprovação dos órgãos competentes, às demais disposições desta Lei e às normas que venham a ser estabelecidas pelo Conselho Estadual de Recursos Hídricos.
 
 ###### Art. 29 {#art29}
-Tags: #recurso-hidrico #sistema-informacao-recursos-hidricos #agua-subterranea #poco #infracao-ambiental
 
 **Art. 29, caput** {#art29_cpt} O Poder Público instituirá, sempre que necessário, áreas de proteção aos locais de extração de águas subterrâneas, com a finalidade de possibilitar sua preservação, conservação ou aproveitamento racional, nos termos definidos nesta lei.
 
@@ -410,7 +378,6 @@ Tags: #recurso-hidrico #sistema-informacao-recursos-hidricos #agua-subterranea #
 ## CAPÍTULO VIII – RATEIO DE CUSTOS DE OBRAS
 
 ###### Art. 30 {#art30}
-Tags: #recurso-hidrico #conselho-estadual-recursos-hidricos #cerh #regulamentacao
 Alterações: § 1º: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 30, caput** {#art30_cpt} As obras de uso múltiplo, de interesse comum ou coletivo de recursos hídricos terão seus custos rateados, direta ou indiretamente, segundo critérios e normas a serem estabelecidos em regulamento baixado pelo Poder Executivo, após aprovação pelo Conselho Estadual de Recursos Hídricos (CERH/PR), atendidos os seguintes procedimentos:
@@ -425,7 +392,6 @@ Alterações: § 1º: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.2
 ## CAPÍTULO IX – AÇÃO DO PODER PÚBLICO
 
 ###### Art. 31 {#art31}
-Tags: #recurso-hidrico #outorga #sistema-informacao-recursos-hidricos #segrh #municipio #saneamento #fiscalizacao
 
 **Art. 31, caput** {#art31_cpt} Na implementação da Política Estadual de Recursos Hídricos compete ao Poder Executivo:
 
@@ -442,7 +408,6 @@ Tags: #recurso-hidrico #outorga #sistema-informacao-recursos-hidricos #segrh #mu
 ### Seção I – Dos Objetivos
 
 ###### Art. 32 {#art32}
-Tags: #recurso-hidrico #cobranca-uso-agua #segrh
 
 **Art. 32, caput** {#art32_cpt} Fica criado o Sistema Estadual de Gerenciamento de Recursos Hídricos (SEGR/PR), com os seguintes objetivos:
 
@@ -455,7 +420,6 @@ Tags: #recurso-hidrico #cobranca-uso-agua #segrh
 ### Seção II – Da Composição do Sistema
 
 ###### Art. 33 {#art33}
-Tags: #recurso-hidrico #bacia-hidrografica #comite-bacia #conselho-estadual-recursos-hidricos #cerh #segrh #iat
 Alterações: caput: nova redação pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]]; caput, inciso I: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]] (redação substituída); caput, inciso I: nova redação pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]]; caput, inciso II: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]] (redação substituída); caput, inciso II: nova redação pela [[lei-estadual-19848-2019|Lei nº 19.848/2019]] (redação substituída); caput, inciso II: nova redação pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]]; caput, inciso III: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]] (redação substituída); caput, inciso III: nova redação pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]]; caput, inciso IV: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]] (redação substituída); caput, inciso IV: nova redação pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]]; caput, inciso V: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]] (redação substituída); caput, inciso V: nova redação pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]]; parágrafo único: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]] (redação substituída); parágrafo único: nova redação pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]]; § 1º: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 2º: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 3º: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 33, caput** {#art33_cpt} #redacao-alterada Compõem o Sistema Estadual de Gerenciamento de Recursos Hídricos - SEGRH/PR: *(Redação dada pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]])*
@@ -475,7 +439,6 @@ Alterações: caput: nova redação pela [[lei-estadual-21388-2023|Lei nº 21.38
 **Art. 33, § 3º** {#art33_par3} #revogado *(Revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]])*
 
 ###### Art. 34 {#art34}
-Tags: #recurso-hidrico #comite-bacia #conselho-estadual-recursos-hidricos #cerh
 Alterações: caput, inciso VI: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 34, caput** {#art34_cpt} O Conselho Estadual de Recursos Hídricos (CERH/PR) é composto por:
@@ -496,7 +459,6 @@ Alterações: caput, inciso VI: incluído pela [[lei-estadual-16242-2009|Lei nº
 **Art. 34, § 4º** {#art34_par4} O CERH/PR poderá, sempre que julgar conveniente, delegar competências e atribuições aos Comitês de Bacia Hidrográfica.
 
 ###### Art. 35 {#art35}
-Tags: #recurso-hidrico #bacia-hidrografica #comite-bacia
 Alterações: caput: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso I: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso II: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso III: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 35, caput** {#art35_cpt} #redacao-alterada Os Comitês de Bacia Hidrográfica terão como área de atuação as unidades hidrográficas de gerenciamento de recursos hídricos na forma de: *(Redação dada pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]])*
@@ -508,7 +470,6 @@ Alterações: caput: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.24
 **Art. 35, parágrafo único** {#art35_par1u} A instituição de Comitês de Bacia Hidrográfica, em rios de domínio do Estado e em sub-bacias de rios de domínio da União cuja gestão a ele tenham sido delegadas, nos termos do [[#art5_par1u|parágrafo único do artigo 5º]] desta lei, será efetivada por ato próprio do Governador.
 
 ###### Art. 36 {#art36}
-Tags: #recurso-hidrico #bacia-hidrografica #comite-bacia #conselho-estadual-recursos-hidricos #cerh #municipio
 Alterações: caput, inciso V: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 36, caput** {#art36_cpt} Os Comitês de Bacia Hidrográfica serão compostos por:
@@ -524,7 +485,6 @@ Alterações: caput, inciso V: incluído pela [[lei-estadual-16242-2009|Lei nº 
 **Art. 36, § 2º** {#art36_par2} A indicação nominal dos representantes mencionados neste artigo será efetuada pelo respectivo segmento e formalmente acolhida por ato próprio do Conselho Estadual de Recursos Hídricos (CERH/PR).
 
 ###### Art. 37 {#art37}
-Tags: #recurso-hidrico #cobranca-uso-agua #comite-bacia #segrh
 Alterações: caput: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; parágrafo único: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 37, caput** {#art37_cpt} #redacao-alterada O órgão executivo gestor do Sistema Estadual de Gerenciamento de Recursos Hídricos – SEGRH/PR prestará apoio aos Comitês de Bacia Hidrográfica por meio de Gerências de Bacia Hidrográfica, que responderão pelo planejamento e a formulação dos Planos de Bacia Hidrográfica, pelos seus suportes administrativo, técnico e financeiro e pela cobrança dos direitos de uso dos recursos hídricos. *(Redação dada pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]])*
@@ -534,7 +494,6 @@ Alterações: caput: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.24
 ### Seção III – Das Competências e Atribuições de Órgãos e Unidades Integrantes do Sistema
 
 ###### Art. 38 {#art38}
-Tags: #recurso-hidrico #plano-recursos-hidricos #bacia-hidrografica #outorga #cobranca-uso-agua #comite-bacia #conselho-estadual-recursos-hidricos #cerh #segrh
 Alterações: caput, inciso XI: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 38, caput** {#art38_cpt} Ao Conselho Estadual de Recursos Hídricos (CERH/PR), na condição de órgão deliberativo e normativo central do Sistema Estadual de Gerenciamento de Recursos Hídricos (SEGRH/PR) compete:
@@ -553,7 +512,6 @@ Alterações: caput, inciso XI: nova redação pela [[lei-estadual-16242-2009|Le
 - **Art. 38, caput, inciso XII** {#art38_cpt_inc12} exercer outras ações, atividades e funções estabelecidas em lei ou regulamento compatíveis com a gestão de recursos hídricos do Estado ou de sub-bacias de rios de domínio da União cuja gestão a ele tenham sido delegadas, nos termos do [[#art5_par1u|parágrafo único do artigo 5º]] desta lei.
 
 ###### Art. 39 {#art39}
-Tags: #recurso-hidrico #plano-recursos-hidricos #conselho-estadual-recursos-hidricos #cerh #segrh #regulamentacao
 Alterações: caput: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]] (redação substituída); caput: nova redação pela [[lei-estadual-19848-2019|Lei nº 19.848/2019]] (redação substituída); caput: nova redação pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]]; caput, inciso I: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso II: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso III: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso IV: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso V: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso VI: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso VII: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso VIII: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso IX: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso X: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 39, caput** {#art39_cpt} #redacao-alterada Compete à Secretaria de Estado do Desenvolvimento Sustentável - SEDEST, na condição de órgão coordenador central do Sistema Estadual de Gerenciamento de Recursos Hídricos - SEGRH/PR: *(Redação dada pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]])*
@@ -570,7 +528,6 @@ Alterações: caput: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.24
 - **Art. 39, caput, inciso X** {#art39_cpt_inc10} #revogado *(Revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]])*
 
 ###### Art. 39-A {#art39-a}
-Tags: #recurso-hidrico #plano-recursos-hidricos #bacia-hidrografica #enquadramento #outorga #cobranca-uso-agua #sistema-informacao-recursos-hidricos #agua-subterranea #comite-bacia
 Alterações: caput: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]] (redação substituída); caput: nova redação pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]]; caput, inciso I: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso II: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso III: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]] (redação substituída); caput, inciso III: nova redação pela [[lei-estadual-19848-2019|Lei nº 19.848/2019]] (redação substituída); caput, inciso III: nova redação pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]]; caput, inciso IV: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso V: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso VI: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso VII: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso VIII: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso IX: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso X: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XI: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XII: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XIII: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XIV: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XV: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XVI: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XVII: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XVIII: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XIX: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XX: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XXI: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XXII: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XXIII: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XXIV: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XXV: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XXVI: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 39-A, caput** {#art39-a_cpt} #redacao-alterada Compete ao Instituto Água e Terra, na condição de órgão executivo gestor do Sistema Estadual de Gerenciamento de Recursos Hídricos - SEGRH/PR: *(Redação dada pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]])*
@@ -603,7 +560,6 @@ Alterações: caput: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/200
 - **Art. 39-A, caput, inciso XXVI** {#art39-a_cpt_inc26} #incluido exercer outras ações, atividades e funções estabelecidas em lei, regulamento ou decisão do Conselho Estadual de Recursos Hídricos – CERH/ PR, compatíveis com a gestão de recursos hídricos. *(Incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]])*
 
 ###### Art. 40 {#art40}
-Tags: #recurso-hidrico #plano-recursos-hidricos #outorga #cobranca-uso-agua #comite-bacia #conselho-estadual-recursos-hidricos #cerh #recurso-administrativo #lancamento
 Alterações: caput, inciso VI: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]] (redação substituída); caput, inciso VI: nova redação pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]]
 
 **Art. 40, caput** {#art40_cpt} Aos Comitês de Bacia Hidrográfica, na condição de órgãos regionais de caráter deliberativo e normativo, na sua área territorial de atuação, compete:
@@ -622,7 +578,6 @@ Alterações: caput, inciso VI: nova redação pela [[lei-estadual-16242-2009|Le
 **Art. 40, parágrafo único** {#art40_par1u} Das decisões dos Comitês de Bacia Hidrográfica caberá recurso ao Conselho Estadual de Recursos Hídricos (CERH/PR), de acordo com a sua esfera de competência.
 
 ###### Art. 41 {#art41}
-Tags: #recurso-hidrico #comite-bacia
 Alterações: caput: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso I: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso II: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso III: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso IV: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso V: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso VI: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso VII: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso VIII: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso VIII, alínea "a": revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso VIII, alínea "b": revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso VIII, alínea "c": revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso VIII, alínea "d": revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso VIII, alínea "e": revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso VIII, alínea "f": revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso IX: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso X: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XI: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XII: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XIII: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XIV: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso XV: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 41, caput** {#art41_cpt} #redacao-alterada Compete às Gerências de Bacia Hidrográfica exercer a Secretaria Executiva dos respectivos Comitês de Bacia Hidrográfica. *(Redação dada pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]])*
@@ -654,7 +609,6 @@ Alterações: caput: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.24
 ### Seção I – Da Participação dos Municípios
 
 ###### Art. 42 {#art42}
-Tags: #recurso-hidrico #bacia-hidrografica #cobranca-uso-agua #conselho-estadual-recursos-hidricos #cerh #municipio
 
 **Art. 42, caput** {#art42_cpt} O Estado, por intermédio do Conselho Estadual de Recursos Hídricos (CERH/PR), poderá delegar ao Município que se organizar técnica e administrativamente, o gerenciamento de recursos hídricos de interesse exclusivamente local, compreendendo, dentre outros, os de bacias hidrográficas, que se situem exclusivamente no seu território.
 
@@ -663,7 +617,6 @@ Tags: #recurso-hidrico #bacia-hidrografica #cobranca-uso-agua #conselho-estadual
 ### Seção II – Das Organizações Civis de Recursos Hídricos
 
 ###### Art. 43 {#art43}
-Tags: #recurso-hidrico #bacia-hidrografica #conselho-estadual-recursos-hidricos #cerh #consorcio-intermunicipal #segrh
 
 **Art. 43, caput** {#art43_cpt} Para os efeitos desta lei; são considerados habilitáveis para participação da gestão de recursos hídricos em bacias hidrográficas do Estado e em sub-bacias de rios de domínio da União cuja gestão a ele tenham sido delegadas, nos termos do [[#art5_par1u|parágrafo único do artigo 5º]] desta lei:
 
@@ -677,7 +630,6 @@ Tags: #recurso-hidrico #bacia-hidrografica #conselho-estadual-recursos-hidricos 
 ### Seção III – Dos Consórcios e das Associações Intermunicipais
 
 ###### Art. 44 {#art44}
-Tags: #recurso-hidrico #bacia-hidrografica #consorcio-intermunicipal
 Alterações: caput: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 44, caput** {#art44_cpt} #redacao-alterada O Estado incentivará a formação de consórcios ou de associações intermunicipais de bacias hidrográficas, de modo especial nas regiões que apresentarem quadro ou situação crítica relativamente aos recursos hídricos. *(Redação dada pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]])*
@@ -685,7 +637,6 @@ Alterações: caput: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.24
 ### Seção IV – Das Associações Regionais, Locais ou Setoriais de Usuários de Recursos Hídricos
 
 ###### Art. 45 {#art45}
-Tags: #recurso-hidrico
 Alterações: caput: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 1º: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 2º: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 3º: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 4º: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 45, caput** {#art45_cpt} #redacao-alterada O Estado incentivará a criação, a implantação e o funcionamento das associações civis mencionadas no [[#art43_cpt_inc2|inciso II do artigo 43]] desta lei, legalmente constituídas sem fins lucrativos e reconhecidas de utilidade pública na forma da lei, mediante a participação majoritária de usuários de recursos hídricos. *(Redação dada pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]])*
@@ -701,7 +652,6 @@ Alterações: caput: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.24
 ### Seção V – Das Organizações Técnicas de Ensino e Pesquisa na Área de Recursos Hídricos
 
 ###### Art. 46 {#art46}
-Tags: #recurso-hidrico #segrh
 
 **Art. 46, caput** {#art46_cpt} As organizações técnicas de ensino e de pesquisa com interesses na área de recursos hídricos, legalmente constituídas e declaradas de utilidade pública, na forma da lei, poderão prestar apoio e cooperação ao Sistema Estadual de Gerenciamento de Recursos Hídricos (SEGRH/PR), mediante convênio ou contrato, como convier, observada a legislação aplicável.
 
@@ -710,7 +660,6 @@ Tags: #recurso-hidrico #segrh
 ### Seção VI – Das Organizações Não Governamentais na Área de Recursos Hídricos
 
 ###### Art. 47 {#art47}
-Tags: #recurso-hidrico #conselho-estadual-recursos-hidricos #cerh #segrh
 Alterações: caput: nova redação pela [[lei-estadual-19848-2019|Lei nº 19.848/2019]] (redação substituída); caput: nova redação pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]]
 
 **Art. 47, caput** {#art47_cpt} #redacao-alterada A participação de organizações não governamentais com objetivos de defesa de interesses difusos e coletivos da sociedade e das comunidades poderá ser credenciada perante o Sistema Estadual de Gerenciamento de Recursos Hídricos - SEGRH/PR, na forma de ato próprio baixado pela Secretaria de Estado do Desenvolvimento Sustentável - SEDEST, após audiência ao Conselho Estadual de Recursos Hídricos - CERH/PR. *(Redação dada pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]])*
@@ -718,14 +667,12 @@ Alterações: caput: nova redação pela [[lei-estadual-19848-2019|Lei nº 19.84
 ### Seção VII – Do Reconhecimento de Outras Organizações Civis no Gerenciamento de Recursos Hídricos
 
 ###### Art. 48 {#art48}
-Tags: #recurso-hidrico #bacia-hidrografica #comite-bacia #conselho-estadual-recursos-hidricos #cerh
 
 **Art. 48, caput** {#art48_cpt} O Conselho Estadual de Recursos Hídricos (CERH/PR), mediante proposta de Comitê de Bacia Hidrográfica, poderá reconhecer outras organizações civis, legalmente constituídas e reconhecidas de utilidade pública, com interesses em recursos hídricos, para participarem, de forma auxiliar, no gerenciamento da respectiva bacia hidrográfica.
 
 ## CAPÍTULO XII – INFRAÇÕES E PENALIDADES
 
 ###### Art. 49 {#art49}
-Tags: #recurso-hidrico #outorga #agua-subterranea #poco #segrh #infracao-ambiental #vazao #fiscalizacao #regulamentacao
 Alterações: caput, inciso II: nova redação pela [[lei-estadual-19848-2019|Lei nº 19.848/2019]] (redação substituída); caput, inciso II: nova redação pela [[lei-estadual-21388-2023|Lei nº 21.388/2023]]
 
 **Art. 49, caput** {#art49_cpt} Constituem infrações às normas de utilização de recursos hídricos superficiais ou subterrâneos estabelecidas pelo Sistema Estadual de Gerenciamento de Recursos Hídricos (SEGRH/PR):
@@ -739,7 +686,6 @@ Alterações: caput, inciso II: nova redação pela [[lei-estadual-19848-2019|Le
 - **Art. 49, caput, inciso VII** {#art49_cpt_inc7} obstar ou dificultar a ação fiscalizadora das autoridades competentes no exercício de suas funções.
 
 ###### Art. 50 {#art50}
-Tags: #recurso-hidrico #bacia-hidrografica #outorga #agua-subterranea #poco #infracao-ambiental #multa #embargo #recurso-administrativo
 Alterações: caput: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; caput, inciso II: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 3º: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 4º, alínea "c": nova redação pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 50, caput** {#art50_cpt} #redacao-alterada Por infração de qualquer disposição legal ou regulamentar referentes à execução de obras e serviços hidráulicos, derivação ou utilização de recursos hídricos de domínio ou administração do Estado e em sub-bacias de rios de domínio da União cuja gestão a ele tenham sido delegadas, nos termos do [[#art5_par1u|parágrafo único do artigo 5º]] desta lei, ou pelo não atendimento das solicitações feitas, o infrator ficará sujeito à aplicação, isolada ou cumulativa, das seguintes penalidades, independentemente de sua ordem de enumeração: *(Redação dada pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]])*
@@ -770,12 +716,10 @@ Alterações: caput: nova redação pela [[lei-estadual-16242-2009|Lei nº 16.24
 **Art. 50, § 8º** {#art50_par8} A aplicação das penalidades obedecerá ao princípio do devido processo legal.
 
 ###### Art. 51 {#art51}
-Tags: #recurso-hidrico #infracao-ambiental #sisnama
 
 **Art. 51, caput** {#art51_cpt} As penalidades por infrações tipificadas na legislação ambiental serão aplicadas pelo órgão seccional do Sistema Nacional de Meio Ambiente - SISNAMA, como previsto na lei federal respectiva.
 
 ###### Art. 52 {#art52}
-Tags: #recurso-hidrico #cobranca-uso-agua #multa
 
 **Art. 52, caput** {#art52_cpt} A autoridade administrativa procederá a cobrança amigável de débitos decorrentes do uso de recursos hídricos, após o término do prazo para o seu recolhimento, acrescido de multa de 5 % (cinco por cento) e de juros legais, a título de mora, enquanto não inscritos para execução judicial.
 
@@ -784,7 +728,6 @@ Tags: #recurso-hidrico #cobranca-uso-agua #multa
 ## CAPÍTULO XIII – DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 ###### Art. 53 {#art53}
-Tags: #recurso-hidrico #cobranca-uso-agua #agropecuaria #regulamentacao
 Alterações: parágrafo único: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 1º: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; § 2º: incluído pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 53, caput** {#art53_cpt} O Executivo Estadual estabelecerá, em regulamento próprio, no prazo de 18 (dezoito) meses a partir da vigência desta lei, os procedimentos relativos à cobrança pelo direito de uso da água, a ser implementada de forma gradual sobre todos os setores usuários.
@@ -796,35 +739,29 @@ Alterações: parágrafo único: revogado pela [[lei-estadual-16242-2009|Lei nº
 **Art. 53, § 2º** {#art53_par2} #incluido O benefício previsto do [[#art53_par1|parágrafo anterior]], será estendido aos demais produtores rurais, desde que o consumo seja exclusivamente destinado à produção agropecuária e silvipastoril. *(Dispositivo promulgado pela Assembléia Legislativa e publicado em 23/12/2009 pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]] de 27/11/2009)*
 
 ###### Art. 54 {#art54}
-Tags: #recurso-hidrico #segrh
 
 **Art. 54, caput** {#art54_cpt} O Sistema Estadual de Gerenciamento de Recursos Hídricos (SEGRH/PR), para dar cumprimento ao disposto nesta lei, aplicará, quando e como couber, o regime de concessões, permissões e autorizações previsto nas leis federais respectivas, sem prejuízo da legislação estadual aplicável.
 
 ###### Art. 55 {#art55}
-Tags: #recurso-hidrico #plano-recursos-hidricos #cobranca-uso-agua #comite-bacia #segrh #municipio #manancial #abastecimento-publico
 
 **Art. 55, caput** {#art55_cpt} O Sistema Integrado de Gestão e Proteção aos Mananciais da Região Metropolitana de Curitiba, objeto da [[lei-estadual-12248-1998|Lei No. 12.248, de 31 de julho de 1998]], deverá articular-se ao Sistema Estadual de Gerenciamento de Recursos Hídricos, objeto desta Lei, aplicando-se percentual de recursos oriundos da cobrança pelo direito de uso da água em ações de interesse dos municípios e pertinentes à preservação e conservação de mananciais destinados ao abastecimento público, mediante prévia inserção no respectivo Plano de Bacia Hidrográfica e aprovação do Comitê de Bacia Hidrográfica.
 
 **Art. 55, parágrafo único** {#art55_par1u} Este dispositivo será aplicável a outros sistemas de gestão e proteção a mananciais de interesse regional que venham a ser instituídos por lei estadual.
 
 ###### Art. 56 {#art56}
-Tags: #recurso-hidrico #cobranca-uso-agua #fundo-estadual-recursos-hidricos
 
 **Art. 56, caput** {#art56_cpt} O Poder Executivo Estadual, mediante decreto, expedirá instruções de caráter operacional visando a compatibilizar e articular o Fundo de Proteção Ambiental (FPA-RMC), de que trata a [[lei-estadual-12248-1998|lei No. 12.248/98]], com o Fundo Estadual de Recursos Hídricos (FRHI/PR), de que trata esta Lei, de modo especial no que se refere ao planejamento e à programação da aplicação de recursos oriundos da cobrança pelo direito de uso das águas em planos, programas, projetos e atividades de interesse comum metropolitano.
 
 ###### Art. 57 {#art57}
-Tags: #recurso-hidrico #comite-bacia #manancial #licenciamento-ambiental #mineracao
 
 **Art. 57, caput** {#art57_cpt} A expedição de licenciamento ambiental, a ser concedido pelo Instituto Ambiental do Paraná, para fins de exploração de areia, em regiões que contemplem áreas de mananciais e nascentes, bem como de preservação permanente nos rios do Estado do Paraná, deverá ser submetida à prévia aprovação do respectivo Comitê de Bacia Hidrográfica e antecedida pelos competentes estudos ambientais.
 
 ###### Art. 58 {#art58}
-Tags: #revogacao
 Alterações: caput: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 58, caput** {#art58_cpt} #revogado *(Revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]])*
 
 ###### Art. 59 {#art59}
-Tags: #revogacao
 Alterações: caput: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]; parágrafo único: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]]
 
 **Art. 59, caput** {#art59_cpt} #revogado *(Revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009]])*
@@ -834,12 +771,10 @@ Alterações: caput: revogado pela [[lei-estadual-16242-2009|Lei nº 16.242/2009
 ## CAPÍTULO XIV – DISPOSIÇÕES FINAIS
 
 ###### Art. 60 {#art60}
-Tags: #regulamentacao #prazo
 
 **Art. 60, caput** {#art60_cpt} O Poder Executivo regulamentará esta lei no prazo de 180 (cento e oitenta) dias, contados da data de sua publicação.
 
 ###### Art. 61 {#art61}
-Tags: #vigencia #revogacao
 
 **Art. 61, caput** {#art61_cpt} Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 

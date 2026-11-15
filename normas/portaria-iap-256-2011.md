@@ -27,17 +27,14 @@ fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (impres
 **Preâmbulo** {#preambulo} O Diretor Presidente do Instituto Ambiental do Paraná – IAP, nomeado pelo [[decreto-estadual-114-2011|Decreto nº 114, de 06 de janeiro de 2011]], no uso das atribuições que lhe são conferidas pela [[lei-estadual-10066-1992|Lei Estadual nº 10.066, de 27 de julho de 1992]], com as alterações trazidas pelas Leis nº 11.352, de 13 de fevereiro de 1996 e nº 13.425, de 07 de janeiro de 2002 e de acordo com o seu Regulamento, aprovado pelo [[decreto-estadual-1502-1992|Decreto nº 1.502, de 04 de agosto de 1992]], com alterações posteriores, RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #autorizacao-florestal #requerimento #producao-florestal
 
 **Art. 1º, caput** {#art1_cpt} Fica instituído como único modelo de formulário para requerer o Corte de Essências Nativas Plantadas o REQUERIMENTO DE AUTORIZAÇÃO FLORESTAL – RAF, destinado a dar origem à matéria prima florestal proveniente de florestas plantadas com espécies nativas e não vinculadas ao IBAMA e/ou IAP.
 
 ###### Art. 2º {#art2}
-Tags: #autorizacao-florestal #cadastro #producao-florestal
 
 **Art. 2º, caput** {#art2_cpt} Os processos de Corte de Espécies Nativas Plantadas, depois de protocolados, deverão ser cadastrados no SIA – Sistema de Licenciamento e Fiscalização Ambiental, na Modalidade - Autorização Florestal, Grupo de Atividade - Exploração Florestal e Atividade - Corte Essências Nativas Plantadas e lançados em todas as fases de tramitação (cadastro, registro de parecer, deliberação).
 
 ###### Art. 3º {#art3}
-Tags: #autorizacao-florestal #documentacao #requerimento
 
 **Art. 3º, caput** {#art3_cpt} Para a solicitação de Corte de Espécies Nativas Plantadas, o interessado deverá apresentar:
 - **Art. 3º, caput, item 1** {#art3_cpt_ite1} Requerimento de Autorização Florestal - RAF
@@ -56,32 +53,26 @@ Tags: #autorizacao-florestal #documentacao #requerimento
 - **Art. 3º, caput, item 14** {#art3_cpt_ite14} Para o caso de Araucária angustifolia – atender ainda os procedimentos da Portaria nº 063/2006 – IAP.
 
 ###### Art. 4º {#art4}
-Tags: #deferimento #condicionante #parecer-tecnico
 
 **Art. 4º, caput** {#art4_cpt} No caso de DEFERIMENTO, deverá constar nas condicionantes do Parecer Técnico, a seguinte informação: “Trata-se de Corte de espécie nativa plantada”.
 
 ###### Art. 5º {#art5}
-Tags: #autorizacao-florestal #serflor
 
 **Art. 5º, caput** {#art5_cpt} O documento de Autorização Florestal será emitido pelo SIA (em 3 vias) e após a assinatura, será encaminhado para lançamento no SERFLOR, através do Departamento de Licenciamento e Fiscalização de Atividades de Reflorestamento – DLF/DIDEF ou nos Escritórios habilitados, inserindo-o no campo de “Informação de Corte”.
 
 ###### Art. 6º {#art6}
-Tags: #autorizacao-florestal #transicao
 
 **Art. 6º, caput** {#art6_cpt} A partir da publicação desta Portaria, o formulário “D” de Informação de Corte deixará de ser utilizado, sendo os novos procedimentos orientados através do documento de AUTORIZAÇÃO FLORESTAL PARA O CORTE DE ESSÊNCIAS NATIVAS PLANTADAS emitido pelo SIA com o formulário próprio.
 
 ###### Art. 7º {#art7}
-Tags: #autorizacao-florestal #requerimento
 
 **Art. 7º, caput** {#art7_cpt} Fica também definido o RAF como o documento hábil para disciplinar o corte do sub-bosque formado pela regeneração florestal de nativas, em áreas de reflorestamento de espécies nativas e/ou exóticas e deverá ser preenchido, informando no campo ATIVIDADE como limpeza de reflorestamento.
 
 ###### Art. 8º {#art8}
-Tags: #autorizacao-florestal #transicao
 
 **Art. 8º, caput** {#art8_cpt} A partir da publicação desta Portaria, o formulário “D” de Informação de Corte deixará de ser utilizado, sendo os novos procedimentos orientados através do documento de AUTORIZAÇÃO FLORESTAL PARA A LIMPEZA DE REFLORESTAMENTO (SUB-BOSQUE), emitido pelo SIA com o formulário próprio;
 
 ###### Art. 9º {#art9}
-Tags: #autorizacao-florestal #documentacao #art-anotacao
 
 **Art. 9º, caput** {#art9_cpt} Para a solicitação de limpeza de reflorestamento, além dos documentos necessários para corte de nativas plantadas, previstos no art. 3º, o interessado deverá apresentar:
 - **Art. 9º, caput, item 1** {#art9_cpt_ite1} Área de corte georeferenciada e identificada no mapa do imóvel;
@@ -89,38 +80,31 @@ Tags: #autorizacao-florestal #documentacao #art-anotacao
 - **Art. 9º, caput, item 3** {#art9_cpt_ite3} Deverá ser informado no inventário o volume por espécie quando tiver aproveitamento de madeira para serraria (em tora) e quando o aproveitamento for lenha poderá ser informado o volume total, exigência para crédito no sistema DOF/IBAMA.
 
 ###### Art. 10 {#art10}
-Tags: #autorizacao-florestal #cadastro
 
 **Art. 10, caput** {#art10_cpt} Os processos de Corte de Sub-bosque, depois de protocolados, deverão ser cadastrados no SIA – Sistema de Licenciamento e Fiscalização Ambiental, na Modalidade - Autorização Florestal, Grupo de Atividade - Exploração Florestal e Atividade – limpeza de reflorestamento, e lançados em todas as fases de tramitação (cadastro, registro de parecer, deliberação);
 
 ###### Art. 11 {#art11}
-Tags: #autorizacao-florestal #serflor
 
 **Art. 11, caput** {#art11_cpt} Emitir o documento de Autorização Florestal pelo SIA (em 3 vias) e após a assinatura, encaminhá-lo para lançamento no SERFLOR, através do Departamento de Licenciamento e Fiscalização de Atividades de Reflorestamento – DLF/DIDEF ou nos escritórios habilitados, inserindo-o no campo de “Informação de Corte”.
 
 ###### Art. 12 {#art12}
-Tags: #vistoria #parecer-tecnico
 
 **Art. 12, caput** {#art12_cpt} Em todos os casos, deverá ser realizada vistoria técnica no imóvel por técnicos dos escritórios regionais e o parecer orientado conforme legislação vigente.
 
 ###### Art. 13 {#art13}
-Tags: #validade #autorizacao-florestal #prorrogacao
 
 **Art. 13, caput** {#art13_cpt} As Autorizações Florestais para o Corte de espécies florestais nativas plantadas e limpeza de reflorestamento terão a validade de 06 (seis) meses a 01 (um) ano, conforme o número de árvores e volume a ser cortado, podendo ser prorrogado por mais um período igual ou menor, a critério da Chefia Regional.
 
 ###### Art. 14 {#art14}
-Tags: #transicao #prorrogacao #dof
 
 **Art. 14, caput** {#art14_cpt} Os processos de Informação de Corte (formulário “D”) em trâmite nos Regionais, permanecem em vigor até o fim do prazo de sua validade, não podendo ser renovado nesta modalidade. Quando for o caso de solicitação de prorrogação deverá ser requerido através de novo processo, através do RAF, na modalidade específica.
 **Art. 14, parágrafo único** {#art14_par1u} No caso em que o produto da autorização já foi cortado e está aguardando somente o transporte, o regional poderá autorizar a prorrogação e o crédito no sistema DOF – Documento de Origem Florestal.
 
 ###### Art. 15 {#art15}
-Tags: #transicao
 
 **Art. 15, caput** {#art15_cpt} Os demais procedimentos administrativos permanecem inalterados.
 
 ###### Art. 16 {#art16}
-Tags: #vigencia #revogacao
 
 **Art. 16, caput** {#art16_cpt} Esta Portaria entra em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
 

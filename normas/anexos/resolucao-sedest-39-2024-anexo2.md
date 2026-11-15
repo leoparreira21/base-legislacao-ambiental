@@ -30,7 +30,7 @@ fonte: PDF dos anexos da Resolução SEDEST 39/2024 (Res__SEDEST_39_2024_-_ANEXO
 - **Anexo II, linha 9** {#anexo2_lin9} g. Pessoa para contato;
 - **Anexo II, linha 10** {#anexo2_lin10} h. Telefone da pessoa para contato;
 - **Anexo II, linha 11** {#anexo2_lin11} i. E-mail da pessoa para contato.
-- **Anexo II, linha 12** {#anexo2_lin12} #diagnostico-ambiental II. DIAGNÓSTICO AMBIENTAL DA ÁREA DO EMPREENDIMENTO
+- **Anexo II, linha 12** {#anexo2_lin12} II. DIAGNÓSTICO AMBIENTAL DA ÁREA DO EMPREENDIMENTO
 - **Anexo II, linha 13** {#anexo2_lin13} 1. CARACTERIZAÇÃO DA ÁREA
 - **Anexo II, linha 14** {#anexo2_lin14} Para a caracterização da área do empreendimento, deverão ser apresentadas, no mínimo, as informações abaixo relacionadas, devendo as mesmas, quando couber, serem apresentadas em mapas, plantas georreferenciadas, em escala compatível, ou através de fotos datadas, fotos aéreas, imagem de satélite e outros materiais disponíveis, com legendas explicativas da área do empreendimento e do seu entorno:
 - **Anexo II, linha 15** {#anexo2_lin15} a. Uso e ocupação do solo
@@ -44,9 +44,9 @@ fonte: PDF dos anexos da Resolução SEDEST 39/2024 (Res__SEDEST_39_2024_-_ANEXO
 - **Anexo II, linha 23** {#anexo2_lin23} i. Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;
 - **Anexo II, linha 24** {#anexo2_lin24} j. Caracterização da geomorfologia/relevo/permeabilidade do solo;
 - **Anexo II, linha 25** {#anexo2_lin25} k. Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais na área do empreendimento e no seu entorno.
-- **Anexo II, linha 26** {#anexo2_lin26} #impacto-ambiental #medida-mitigadora 2. IMPACTOS AMBIENTAIS E MEDIDAS MITIGADORAS, DE CONTROLE OU DE COMPENSAÇÃO
+- **Anexo II, linha 26** {#anexo2_lin26} 2. IMPACTOS AMBIENTAIS E MEDIDAS MITIGADORAS, DE CONTROLE OU DE COMPENSAÇÃO
 - **Anexo II, linha 27** {#anexo2_lin27} Identificar os principais impactos que poderão ocorrer em função da implantação do empreendimento, contemplando no mínimo os impactos abaixo. Para cada impacto indicado, descrever as medidas mitigatórias, de controle ou de compensação correspondente.
-- **Anexo II, linha 28** {#anexo2_lin28} #terraplanagem a. Obras de terraplanagem, indicando volumes de corte e aterro, planta da implantação da terraplanagem e o memorial justificativo da terraplanagem;
+- **Anexo II, linha 28** {#anexo2_lin28} a. Obras de terraplanagem, indicando volumes de corte e aterro, planta da implantação da terraplanagem e o memorial justificativo da terraplanagem;
 - **Anexo II, linha 29** {#anexo2_lin29} b. Sistema de drenagem de águas pluviais contaminadas e não contaminadas;
 - **Anexo II, linha 30** {#anexo2_lin30} c. Canalização de nascentes;
 - **Anexo II, linha 31** {#anexo2_lin31} d. Supressão Florestal;
@@ -58,11 +58,11 @@ fonte: PDF dos anexos da Resolução SEDEST 39/2024 (Res__SEDEST_39_2024_-_ANEXO
 - **Anexo II, linha 37** {#anexo2_lin37} 1. INFORMAÇÕES SOBRE POLUIÇÃO HÍDRICA
 - **Anexo II, linha 38** {#anexo2_lin38} a. Fonte(s) de abastecimento de água;
 - **Anexo II, linha 39** {#anexo2_lin39} b. Corpo receptor.
-- **Anexo II, linha 40** {#anexo2_lin40} #efluente 2. INFORMAÇÕES SOBRE EFLUENTES LÍQUIDOS
+- **Anexo II, linha 40** {#anexo2_lin40} 2. INFORMAÇÕES SOBRE EFLUENTES LÍQUIDOS
 - **Anexo II, linha 41** {#anexo2_lin41} a. Descrição do sistema de captação e disposição de águas de drenagem pluvial;
 - **Anexo II, linha 42** {#anexo2_lin42} b. Informações sobre a quantidade e qualidade (caracterização) dos efluentes líquidos gerados na atividade, inclusive daqueles gerados em lavagem de pisos, equipamentos e de oficinas, se for o caso.
 - **Anexo II, linha 43** {#anexo2_lin43} 3. PROJETO DO SISTEMA DE TRATAMENTO DE EFLUENTES LÍQUIDOS
-- **Anexo II, linha 44** {#anexo2_lin44} #esgoto-sanitario 3.1 ESGOTO SANITÁRIO
+- **Anexo II, linha 44** {#anexo2_lin44} 3.1 ESGOTO SANITÁRIO
 - **Anexo II, linha 45** {#anexo2_lin45} a. Descrição do (s) sistema (s) de tratamento (s) adotado (s) para o tratamento do esgoto sanitário;
 - **Anexo II, linha 46** {#anexo2_lin46} b. Dimensionamento (memorial de cálculo) das unidades que compõem o sistema.
 - **Anexo II, linha 47** {#anexo2_lin47} 3.2 EFLUENTES LÍQUIDOS GERADOS NA ATIVIDADE
@@ -70,16 +70,16 @@ fonte: PDF dos anexos da Resolução SEDEST 39/2024 (Res__SEDEST_39_2024_-_ANEXO
 - **Anexo II, linha 49** {#anexo2_lin49} b. Justificativa do sistema adotado;
 - **Anexo II, linha 50** {#anexo2_lin50} c. Dimensionamento (memorial de cálculo) das unidades que compõem o sistema;
 - **Anexo II, linha 51** {#anexo2_lin51} d. Caracterização do corpo receptor, quando lançado em corpo hídrico.
-- **Anexo II, linha 52** {#anexo2_lin52} #impermeabilizacao 4. PROJETO DO SISTEMA DE IMPERMEABILIZAÇÃO
+- **Anexo II, linha 52** {#anexo2_lin52} 4. PROJETO DO SISTEMA DE IMPERMEABILIZAÇÃO
 - **Anexo II, linha 53** {#anexo2_lin53} a. Descrição do sistema de impermeabilização adotado para o controle da infiltração das águas superficiais;
 - **Anexo II, linha 54** {#anexo2_lin54} b. Justificativa técnica do sistema adotado que comprove a impermeabilidade;
 - **Anexo II, linha 55** {#anexo2_lin55} c. Dimensionamento (memorial de cálculo) das unidades que compõem o sistema.
-- **Anexo II, linha 56** {#anexo2_lin56} #agua-pluvial 5. PROJETO DOS SISTEMAS DE DRENAGEM DE ÁGUA PLUVIAL CONTAMINADA E NÃO CONTAMINADA
+- **Anexo II, linha 56** {#anexo2_lin56} 5. PROJETO DOS SISTEMAS DE DRENAGEM DE ÁGUA PLUVIAL CONTAMINADA E NÃO CONTAMINADA
 - **Anexo II, linha 57** {#anexo2_lin57} a. Descrição dos sistemas de drenagem e contenção adotados para o controle de arraste de potenciais contaminantes;
 - **Anexo II, linha 58** {#anexo2_lin58} b. Planta geral dos sistemas de drenagem, com cortes e detalhes, dimensões e especificações, contendo no mínimo: memorial descritivo, definição do sistema adotado e seus elementos constituintes, os materiais e as especificações de execução dos serviços; o memorial de cálculo que deverá elucidar os critérios adotados para o projeto; a planilha de cálculo que deverá trazer os dados, em cada trecho, que traduzam o dimensionamento do cálculo hidráulico das galerias e dos seus dispositivos.
-- **Anexo II, linha 59** {#anexo2_lin59} #emissao-atmosferica 6. INFORMAÇÕES SOBRE EMISSÕES ATMOSFÉRICAS
+- **Anexo II, linha 59** {#anexo2_lin59} 6. INFORMAÇÕES SOBRE EMISSÕES ATMOSFÉRICAS
 - **Anexo II, linha 60** {#anexo2_lin60} Deverão ser apresentadas as medidas de controle a serem com relação as emissões geradas na movimentação de caminhões, especificando as medidas a serem tomadas para atender os padrões de emissão e os padrões de qualidade do ar no entorno, ambos estabelecidos na legislação vigente.
-- **Anexo II, linha 61** {#anexo2_lin61} #pgrs #residuo-solido 7. PLANO DE GERENCIAMENTO DE RESÍDUOS SÓLIDOS - PGRS
+- **Anexo II, linha 61** {#anexo2_lin61} 7. PLANO DE GERENCIAMENTO DE RESÍDUOS SÓLIDOS - PGRS
 - **Anexo II, linha 62** {#anexo2_lin62} 7.1 IDENTIFICAÇÃO DOS RESÍDUOS QUE SERÃO GERADOS
 - **Anexo II, linha 63** {#anexo2_lin63} Informar em formato de tabela os resíduos gerados pela atividade, descrição do resíduo, estado físico, classificação e código, com base na Norma NBR 10.004 – Classificação de Resíduos Sólidos, ponto de geração e quantidade mensal de geração.
 

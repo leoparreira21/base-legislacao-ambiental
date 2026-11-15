@@ -25,7 +25,8 @@ class GrafoTeste(unittest.TestCase):
         dispositivo = self.itens[chave]
         self.assertEqual(dispositivo["pai"], "resolucao-conama-430-2011#art1")
         self.assertIn("lançamento indireto", dispositivo["texto"])
-        self.assertIn("lancamento-indireto", dispositivo["tags_herdadas"])
+        # tags temáticas ficam só no frontmatter (2026-11-15): nada a herdar no corpo
+        self.assertEqual(dispositivo["tags_herdadas"], [])
         self.assertTrue(dispositivo["elegivel"])
 
     def test_integridade_do_acervo(self):

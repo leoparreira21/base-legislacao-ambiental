@@ -33,12 +33,10 @@ fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé tra
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #licenciamento-municipal #impacto-local #tipologia
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer as tipologias de atividades, empreendimentos e obras que causem ou possam causar impacto ambiental de âmbito local, considerando os critérios de porte, potencial poluidor e natureza da atividade, para fins de licenciamento ambiental pelos órgãos municipais de meio ambiente, de acordo com o Anexo, integrante da presente Resolução.
 
 ###### Art. 2º {#art2}
-Tags: #definicao #impacto-local #impacto-regional
 
 **Art. 2º, caput** {#art2_cpt} Para os efeitos desta Resolução, adotam-se, além das definições constantes do Artigo 2º da Lei Complementar Federal nº 140/11, as seguintes:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} Órgão ambiental municipal capacitado: aquele que possui quadro de profissionais próprios, colocados à sua disposição ou contratados através de consórcios públicos, legalmente habilitados para a análise de pedidos de licenciamento ambiental, compatível com a demanda das ações administrativas, além de infra-estrutura, equipamentos e material de apoio, próprio ou disponibilizado, para o adequado exercício de suas competências;
@@ -46,7 +44,6 @@ Tags: #definicao #impacto-local #impacto-regional
 - **Art. 2º, caput, inciso III** {#art2_cpt_inc3} Impacto regional: qualquer alteração das propriedades físicas, químicas ou biológicas do meio ambiente, causada por qualquer forma de matéria ou energia resultante das atividades humanas que, direta ou indiretamente, afetem a saúde, a segurança e o bem estar da população, as atividades sociais e econômicas, a biota, as condições estéticas e sanitárias do meio ambiente, a qualidade dos recursos ambientais ou que lancem matérias ou energia fora dos padrões de suporte do ambiente, que afetem mais de um Município.
 
 ###### Art. 3º {#art3}
-Tags: #licenciamento-municipal #municipio-capacitado #conselho-municipal
 
 **Art. 3º, caput** {#art3_cpt} Para o exercício do licenciamento ambiental, consideram-se capacitados os municípios que disponham de:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} Conselho Municipal de Meio Ambiente, instância colegiada normativa, consultiva e deliberativa, de composição paritária, devidamente implementado e em funcionamento;
@@ -59,7 +56,6 @@ Tags: #licenciamento-municipal #municipio-capacitado #conselho-municipal
 - **Art. 3º, caput, inciso VIII** {#art3_cpt_inc8} Normas municipais regulamentadoras das atividades administrativas de licenciamento, fiscalização e controle inerentes à gestão ambiental.
 
 ###### Art. 4º {#art4}
-Tags: #licenciamento-municipal #municipio-capacitado #cema
 
 **Art. 4º, caput** {#art4_cpt} Os Municípios apresentarão ao Conselho Estadual do Meio Ambiente - CEMA a comprovação do cumprimento do disposto no Artigo 3º desta Resolução, demonstrando estarem capacitados para exercer as competências administrativas de licenciamento, controle e fiscalização ambiental.
 
@@ -70,41 +66,34 @@ Tags: #licenciamento-municipal #municipio-capacitado #cema
 **Art. 4º, § 3º** {#art4_par3} O Instituto Ambiental do Paraná – IAP disponibilizará o Sistema de Informações Ambientais o qual deverá ser utilizado pelos municípios.
 
 ###### Art. 5º {#art5}
-Tags: #consorcio-publico #cooperacao
 
 **Art. 5º, caput** {#art5_cpt} O Município poderá valer-se de instrumentos de cooperação interinstitucional para a execução das ações administrativas regulamentadas pela presente Resolução, em especial os consórcios públicos com personalidade de direito público, observadas as disposições da Lei federal nº 11.107, de 06 de abril de 2005 e demais normas aplicáveis, bem como os convênios, acordos de cooperação técnica e demais instrumentos similares.
 
 ###### Art. 6º {#art6}
-Tags: #outorga #unidade-conservacao #licenciamento-municipal
 
 **Art. 6º, caput** {#art6_cpt} O licenciamento ambiental municipal deverá observar as normas quanto à outorga de uso de água, de competência do Instituto das Águas do Paraná, bem como observar, as restrições das Áreas Estratégicas para a Conservação da Biodiversidade e do interior e entorno das Unidades de Conservação e corredores ecológicos, áreas de proteção de mananciais e demais normas pertinentes.
 
 ###### Art. 7º {#art7}
-Tags: #licenciamento-municipal #iap
 
 **Art. 7º, caput** {#art7_cpt} O Instituto Ambiental do Paraná - IAP, em atuação subsidiária, fornecerá orientação e instrução técnica aos Municípios para ações administrativas em licenciamento, monitoramento e fiscalização ambiental, desde que solicitado de forma justificada, atuando supletivamente nos demais casos.
 
 ###### Art. 8º {#art8}
-Tags: #tipologia #cema
 
 **Art. 8º, caput** {#art8_cpt} Os casos omissos quanto à atividade, porte e potencial poluidor serão instruídos pelo IAP, submetidos ao Conselho Estadual de Meio Ambiente – CEMA que, após análise da Câmara Temática pertinente, decidirá e adotará as providências necessárias, inclusive atualização do Anexo.
 
 **Art. 8º, parágrafo único** {#art8_par1u} a cada 02 (dois) anos, ou sempre que necessário, será revisada a presente Resolução pelo CEMA.
 
 ###### Art. 9º {#art9}
-Tags: #licenciamento-municipal #transicao
 
 **Art. 9º, caput** {#art9_cpt} Os procedimentos administrativos de licenciamento ambiental que estão em trâmite no IAP continuarão sob sua competência até decisão final, e os casos de licenciamento ambiental com Licença Prévia, Licença de Instalação e Licença de Operação, serão conduzidos pelo IAP até a primeira renovação da Licença de Operação.
 
 ###### Art. 10 {#art10}
-Tags: #licenciamento-municipal #prazo #transicao
 
 **Art. 10, caput** {#art10_cpt} Os municípios que não estão capacitados na forma do [[#art3|art. 3º]] desta norma, terão prazo de até 04 (quatro anos) para se adequar, quando então exercerão plenamente os licenciamentos ambientais das atividades ou empreendimentos das tipologias definidas pelo CEMA.
 
 **Art. 10, parágrafo único** {#art10_par1u} Neste período o IAP atuará em caráter supletivo nas ações administrativas de licenciamento e na autorização ambiental.
 
 ###### Art. 11 {#art11}
-Tags: #vigencia
 
 **Art. 11, caput** {#art11_cpt} A presente Resolução entra em vigor na data de sua publicação.
 

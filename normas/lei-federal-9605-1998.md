@@ -37,36 +37,30 @@ fonte: "Planalto – texto compilado da Lei nº 9.605/1998 impresso do navegador
 ## CAPÍTULO I – DISPOSIÇÕES GERAIS
 
 ###### Art. 1º {#art1}
-Tags: #crime-ambiental
 
 **Art. 1º, caput** {#art1_cpt} (VETADO)
 
 ###### Art. 2º {#art2}
-Tags: #responsabilidade
 
 **Art. 2º, caput** {#art2_cpt} Quem, de qualquer forma, concorre para a prática dos crimes previstos nesta Lei, incide nas penas a estes cominadas, na medida da sua culpabilidade, bem como o diretor, o administrador, o membro de conselho e de órgão técnico, o auditor, o gerente, o preposto ou mandatário de pessoa jurídica, que, sabendo da conduta criminosa de outrem, deixar de impedir a sua prática, quando podia agir para evitá-la.
 
 ###### Art. 3º {#art3}
-Tags: #responsabilidade
 
 **Art. 3º, caput** {#art3_cpt} As pessoas jurídicas serão responsabilizadas administrativa, civil e penalmente conforme o disposto nesta Lei, nos casos em que a infração seja cometida por decisão de seu representante legal ou contratual, ou de seu órgão colegiado, no interesse ou benefício da sua entidade.
 
 **Art. 3º, parágrafo único** {#art3_par1u} A responsabilidade das pessoas jurídicas não exclui a das pessoas físicas, autoras, co-autoras ou partícipes do mesmo fato.
 
 ###### Art. 4º {#art4}
-Tags: #responsabilidade
 
 **Art. 4º, caput** {#art4_cpt} Poderá ser desconsiderada a pessoa jurídica sempre que sua personalidade for obstáculo ao ressarcimento de prejuízos causados à qualidade do meio ambiente.
 
 ###### Art. 5º {#art5}
-Tags: #crime-ambiental
 
 **Art. 5º, caput** {#art5_cpt} (VETADO)
 
 ## CAPÍTULO II – DA APLICAÇÃO DA PENA
 
 ###### Art. 6º {#art6}
-Tags: #multa
 
 **Art. 6º, caput** {#art6_cpt} Para imposição e gradação da penalidade, a autoridade competente observará:
 
@@ -75,7 +69,6 @@ Tags: #multa
 - **Art. 6º, caput, inciso III** {#art6_cpt_inc3} a situação econômica do infrator, no caso de multa.
 
 ###### Art. 7º {#art7}
-Tags: #crime-ambiental
 
 **Art. 7º, caput** {#art7_cpt} As penas restritivas de direitos são autônomas e substituem as privativas de liberdade quando:
 
@@ -85,7 +78,6 @@ Tags: #crime-ambiental
 **Art. 7º, parágrafo único** {#art7_par1u} As penas restritivas de direitos a que se refere este artigo terão a mesma duração da pena privativa de liberdade substituída.
 
 ###### Art. 8º {#art8}
-Tags: #suspensao-atividade
 
 **Art. 8º, caput** {#art8_cpt} As penas restritivas de direito são:
 
@@ -96,32 +88,26 @@ Tags: #suspensao-atividade
 - **Art. 8º, caput, inciso V** {#art8_cpt_inc5} recolhimento domiciliar.
 
 ###### Art. 9º {#art9}
-Tags: #unidade-conservacao #dano-ambiental
 
 **Art. 9º, caput** {#art9_cpt} A prestação de serviços à comunidade consiste na atribuição ao condenado de tarefas gratuitas junto a parques e jardins públicos e unidades de conservação, e, no caso de dano da coisa particular, pública ou tombada, na restauração desta, se possível.
 
 ###### Art. 10 {#art10}
-Tags: #crime-ambiental
 
 **Art. 10, caput** {#art10_cpt} As penas de interdição temporária de direito são a proibição de o condenado contratar com o Poder Público, de receber incentivos fiscais ou quaisquer outros benefícios, bem como de participar de licitações, pelo prazo de cinco anos, no caso de crimes dolosos, e de três anos, no de crimes culposos.
 
 ###### Art. 11 {#art11}
-Tags: #suspensao-atividade
 
 **Art. 11, caput** {#art11_cpt} A suspensão de atividades será aplicada quando estas não estiverem obedecendo às prescrições legais.
 
 ###### Art. 12 {#art12}
-Tags: #dano-ambiental
 
 **Art. 12, caput** {#art12_cpt} A prestação pecuniária consiste no pagamento em dinheiro à vítima ou à entidade pública ou privada com fim social, de importância, fixada pelo juiz, não inferior a um salário mínimo nem superior a trezentos e sessenta salários mínimos. O valor pago será deduzido do montante de eventual reparação civil a que for condenado o infrator.
 
 ###### Art. 13 {#art13}
-Tags: #eia-rima #responsabilidade
 
 **Art. 13, caput** {#art13_cpt} O recolhimento domiciliar baseia-se na autodisciplina e senso de responsabilidade do condenado, que deverá, sem vigilância, trabalhar, freqüentar curso ou exercer atividade autorizada, permanecendo recolhido nos dias e horários de folga em residência ou em qualquer local destinado a sua moradia habitual, conforme estabelecido na sentença condenatória.
 
 ###### Art. 14 {#art14}
-Tags: #dano-ambiental
 
 **Art. 14, caput** {#art14_cpt} São circunstâncias que atenuam a pena:
 
@@ -131,7 +117,6 @@ Tags: #dano-ambiental
 - **Art. 14, caput, inciso IV** {#art14_cpt_inc4} colaboração com os agentes encarregados da vigilância e do controle ambiental.
 
 ###### Art. 15 {#art15}
-Tags: #fauna #unidade-conservacao #licenciamento-ambiental #eia-rima #responsabilidade #reincidencia #dano-ambiental
 
 **Art. 15, caput** {#art15_cpt} São circunstâncias que agravam a pena, quando não constituem ou qualificam o crime:
 
@@ -156,36 +141,30 @@ Tags: #fauna #unidade-conservacao #licenciamento-ambiental #eia-rima #responsabi
   - **Art. 15, caput, inciso II, alínea "r"** {#art15_cpt_inc2_alir} facilitada por funcionário público no exercício de suas funções.
 
 ###### Art. 16 {#art16}
-Tags: #suspensao-atividade
 
 **Art. 16, caput** {#art16_cpt} Nos crimes previstos nesta Lei, a suspensão condicional da pena pode ser aplicada nos casos de condenação a pena privativa de liberdade não superior a três anos.
 
 ###### Art. 17 {#art17}
-Tags: #dano-ambiental
 
 **Art. 17, caput** {#art17_cpt} A verificação da reparação a que se refere o § 2º do art. 78 do Código Penal será feita mediante laudo de reparação do dano ambiental, e as condições a serem impostas pelo juiz deverão relacionar-se com a proteção ao meio ambiente.
 
 ###### Art. 18 {#art18}
-Tags: #multa
 
 **Art. 18, caput** {#art18_cpt} A multa será calculada segundo os critérios do Código Penal; se revelar-se ineficaz, ainda que aplicada no valor máximo, poderá ser aumentada até três vezes, tendo em vista o valor da vantagem econômica auferida.
 
 ###### Art. 19 {#art19}
-Tags: #multa #dano-ambiental
 
 **Art. 19, caput** {#art19_cpt} A perícia de constatação do dano ambiental, sempre que possível, fixará o montante do prejuízo causado para efeitos de prestação de fiança e cálculo de multa.
 
 **Art. 19, parágrafo único** {#art19_par1u} A perícia produzida no inquérito civil ou no juízo cível poderá ser aproveitada no processo penal, instaurando-se o contraditório.
 
 ###### Art. 20 {#art20}
-Tags: #dano-ambiental
 
 **Art. 20, caput** {#art20_cpt} A sentença penal condenatória, sempre que possível, fixará o valor mínimo para reparação dos danos causados pela infração, considerando os prejuízos sofridos pelo ofendido ou pelo meio ambiente.
 
 **Art. 20, parágrafo único** {#art20_par1u} Transitada em julgado a sentença condenatória, a execução poderá efetuar-se pelo valor fixado nos termos do caput, sem prejuízo da liquidação para apuração do dano efetivamente sofrido.
 
 ###### Art. 21 {#art21}
-Tags: #multa
 
 **Art. 21, caput** {#art21_cpt} As penas aplicáveis isolada, cumulativa ou alternativamente às pessoas jurídicas, de acordo com o disposto no art. 3º, são:
 
@@ -194,7 +173,6 @@ Tags: #multa
 - **Art. 21, caput, inciso III** {#art21_cpt_inc3} prestação de serviços à comunidade.
 
 ###### Art. 22 {#art22}
-Tags: #licenciamento-ambiental #suspensao-atividade #responsabilidade
 
 **Art. 22, caput** {#art22_cpt} As penas restritivas de direitos da pessoa jurídica são:
 
@@ -209,7 +187,6 @@ Tags: #licenciamento-ambiental #suspensao-atividade #responsabilidade
 **Art. 22, § 3º** {#art22_par3} A proibição de contratar com o Poder Público e dele obter subsídios, subvenções ou doações não poderá exceder o prazo de dez anos.
 
 ###### Art. 23 {#art23}
-Tags: #responsabilidade
 
 **Art. 23, caput** {#art23_cpt} A prestação de serviços à comunidade pela pessoa jurídica consistirá em:
 
@@ -219,14 +196,12 @@ Tags: #responsabilidade
 - **Art. 23, caput, inciso IV** {#art23_cpt_inc4} contribuições a entidades ambientais ou culturais públicas.
 
 ###### Art. 24 {#art24}
-Tags: #responsabilidade
 
 **Art. 24, caput** {#art24_cpt} A pessoa jurídica constituída ou utilizada, preponderantemente, com o fim de permitir, facilitar ou ocultar a prática de crime definido nesta Lei terá decretada sua liquidação forçada, seu patrimônio será considerado instrumento do crime e como tal perdido em favor do Fundo Penitenciário Nacional.
 
 ## CAPÍTULO III – DA APREENSÃO DO PRODUTO E DO INSTRUMENTO DE INFRAÇÃO ADMINISTRATIVA OU DE CRIME
 
 ###### Art. 25 {#art25}
-Tags: #fauna #flora #mineracao #responsabilidade
 Alterações: § 1º, § 2º: redação dada pela [[lei-federal-13052-2014|Lei nº 13.052, de 2014]]
 
 **Art. 25, caput** {#art25_cpt} Verificada a infração, serão apreendidos seus produtos e instrumentos, lavrando-se os respectivos autos. *(Vide ADPF 640)*
@@ -244,19 +219,16 @@ Alterações: § 1º, § 2º: redação dada pela [[lei-federal-13052-2014|Lei n
 ## CAPÍTULO IV – DA AÇÃO E DO PROCESSO PENAL
 
 ###### Art. 26 {#art26}
-Tags: #crime-ambiental
 
 **Art. 26, caput** {#art26_cpt} Nas infrações penais previstas nesta Lei, a ação penal é pública incondicionada.
 
 **Art. 26, parágrafo único** {#art26_par1u} (VETADO)
 
 ###### Art. 27 {#art27}
-Tags: #multa #dano-ambiental
 
 **Art. 27, caput** {#art27_cpt} Nos crimes ambientais de menor potencial ofensivo, a proposta de aplicação imediata de pena restritiva de direitos ou multa, prevista no [[lei-federal-9099-1995#art76|art. 76 da Lei nº 9.099, de 26 de setembro de 1995]], somente poderá ser formulada desde que tenha havido a prévia composição do dano ambiental, de que trata o art. 74 da mesma lei, salvo em caso de comprovada impossibilidade.
 
 ###### Art. 28 {#art28}
-Tags: #mineracao #suspensao-atividade #dano-ambiental
 
 **Art. 28, caput** {#art28_cpt} As disposições do [[lei-federal-9099-1995#art89|art. 89 da Lei nº 9.099, de 26 de setembro de 1995]], aplicam-se aos crimes de menor potencial ofensivo definidos nesta Lei, com as seguintes modificações:
 
@@ -271,7 +243,6 @@ Tags: #mineracao #suspensao-atividade #dano-ambiental
 ### Seção I – Dos Crimes contra a Fauna
 
 ###### Art. 29 {#art29}
-Tags: #fauna #pesca #unidade-conservacao #licenciamento-ambiental #multa
 
 **Art. 29, caput** {#art29_cpt} Matar, perseguir, caçar, apanhar, utilizar espécimes da fauna silvestre, nativos ou em rota migratória, sem a devida permissão, licença ou autorização da autoridade competente, ou em desacordo com a obtida: Pena - detenção de seis meses a um ano, e multa.
 
@@ -299,17 +270,14 @@ Tags: #fauna #pesca #unidade-conservacao #licenciamento-ambiental #multa
 **Art. 29, § 6º** {#art29_par6} As disposições deste artigo não se aplicam aos atos de pesca.
 
 ###### Art. 30 {#art30}
-Tags: #licenciamento-ambiental #multa
 
 **Art. 30, caput** {#art30_cpt} Exportar para o exterior peles e couros de anfíbios e répteis em bruto, sem a autorização da autoridade ambiental competente: Pena - reclusão, de um a três anos, e multa.
 
 ###### Art. 31 {#art31}
-Tags: #licenciamento-ambiental #multa
 
 **Art. 31, caput** {#art31_cpt} Introduzir espécime animal no País, sem parecer técnico oficial favorável e licença expedida por autoridade competente: Pena - detenção, de três meses a um ano, e multa.
 
 ###### Art. 32 {#art32}
-Tags: #fauna #multa
 Alterações: § 1º-A: incluído pela [[lei-federal-14064-2020|Lei nº 14.064, de 2020]]; § 1º-B: incluído pela [[lei-federal-15150-2025|Lei nº 15.150, de 2025]]; § 1º-C: incluído pela [[lei-federal-15355-2026|Lei nº 15.355, de 2026]]
 
 **Art. 32, caput** {#art32_cpt} Praticar ato de abuso, maus-tratos, ferir ou mutilar animais silvestres, domésticos ou domesticados, nativos ou exóticos: Pena - detenção, de três meses a um ano, e multa. *(Vide ADPF 640)*
@@ -325,7 +293,6 @@ Alterações: § 1º-A: incluído pela [[lei-federal-14064-2020|Lei nº 14.064, 
 **Art. 32, § 2º** {#art32_par2} A pena é aumentada de um sexto a um terço, se ocorre morte do animal. *(Vide ADPF 640)*
 
 ###### Art. 33 {#art33}
-Tags: #fauna #licenciamento-ambiental #eia-rima #multa
 
 **Art. 33, caput** {#art33_cpt} Provocar, pela emissão de efluentes ou carreamento de materiais, o perecimento de espécimes da fauna aquática existentes em rios, lagos, açudes, lagoas, baías ou águas jurisdicionais brasileiras: Pena - detenção, de um a três anos, ou multa, ou ambas cumulativamente.
 
@@ -336,7 +303,6 @@ Tags: #fauna #licenciamento-ambiental #eia-rima #multa
 - **Art. 33, parágrafo único, inciso III** {#art33_par1u_inc3} quem fundeia embarcações ou lança detritos de qualquer natureza sobre bancos de moluscos ou corais, devidamente demarcados em carta náutica.
 
 ###### Art. 34 {#art34}
-Tags: #pesca #multa
 
 **Art. 34, caput** {#art34_cpt} Pescar em período no qual a pesca seja proibida ou em lugares interditados por órgão competente: Pena - detenção de um ano a três anos ou multa, ou ambas as penas cumulativamente.
 
@@ -347,7 +313,6 @@ Tags: #pesca #multa
 - **Art. 34, parágrafo único, inciso III** {#art34_par1u_inc3} transporta, comercializa, beneficia ou industrializa espécimes provenientes da coleta, apanha e pesca proibidas.
 
 ###### Art. 35 {#art35}
-Tags: #pesca #substancia-toxica
 
 **Art. 35, caput** {#art35_cpt} Pescar mediante a utilização de:
 
@@ -357,12 +322,10 @@ Tags: #pesca #substancia-toxica
 **Art. 35, caput, pena** {#art35_cpt_pena} Pena - reclusão de um ano a cinco anos.
 
 ###### Art. 36 {#art36}
-Tags: #fauna #flora #pesca #mineracao
 
 **Art. 36, caput** {#art36_cpt} Para os efeitos desta Lei, considera-se pesca todo ato tendente a retirar, extrair, coletar, apanhar, apreender ou capturar espécimes dos grupos dos peixes, crustáceos, moluscos e vegetais hidróbios, suscetíveis ou não de aproveitamento econômico, ressalvadas as espécies ameaçadas de extinção, constantes nas listas oficiais da fauna e da flora.
 
 ###### Art. 37 {#art37}
-Tags: #fauna
 
 **Art. 37, caput** {#art37_cpt} Não é crime o abate de animal, quando realizado:
 
@@ -374,14 +337,12 @@ Tags: #fauna
 ### Seção II – Dos Crimes contra a Flora
 
 ###### Art. 38 {#art38}
-Tags: #flora #multa
 
 **Art. 38, caput** {#art38_cpt} Destruir ou danificar floresta considerada de preservação permanente, mesmo que em formação, ou utilizá-la com infringência das normas de proteção: Pena - detenção, de um a três anos, ou multa, ou ambas as penas cumulativamente.
 
 **Art. 38, parágrafo único** {#art38_par1u} Se o crime for culposo, a pena será reduzida à metade.
 
 ###### Art. 38-A {#art38-a}
-Tags: #flora #multa
 Alterações: caput, parágrafo único: incluído pela [[lei-federal-11428-2006|Lei nº 11.428, de 2006]]
 
 **Art. 38-A, caput** {#art38-a_cpt} #incluido Destruir ou danificar vegetação primária ou secundária, em estágio avançado ou médio de regeneração, do Bioma Mata Atlântica, ou utilizá-la com infringência das normas de proteção: Pena - detenção, de 1 (um) a 3 (três) anos, ou multa, ou ambas as penas cumulativamente. *(Incluído pela [[lei-federal-11428-2006|Lei nº 11.428, de 2006]])*
@@ -389,12 +350,10 @@ Alterações: caput, parágrafo único: incluído pela [[lei-federal-11428-2006|
 **Art. 38-A, parágrafo único** {#art38-a_par1u} #incluido Se o crime for culposo, a pena será reduzida à metade. *(Incluído pela [[lei-federal-11428-2006|Lei nº 11.428, de 2006]])*
 
 ###### Art. 39 {#art39}
-Tags: #flora #licenciamento-ambiental #multa
 
 **Art. 39, caput** {#art39_cpt} Cortar árvores em floresta considerada de preservação permanente, sem permissão da autoridade competente: Pena - detenção, de um a três anos, ou multa, ou ambas as penas cumulativamente.
 
 ###### Art. 40 {#art40}
-Tags: #fauna #unidade-conservacao #bem-cultural #dano-ambiental
 Alterações: § 1º, § 2º: redação dada pela [[lei-federal-9985-2000|Lei nº 9.985, de 2000]]
 
 **Art. 40, caput** {#art40_cpt} Causar dano direto ou indireto às Unidades de Conservação e às áreas de que trata o [[decreto-federal-99274-1990#art27|art. 27 do Decreto nº 99.274, de 6 de junho de 1990]], independentemente de sua localização: Pena - reclusão, de um a cinco anos.
@@ -406,7 +365,6 @@ Alterações: § 1º, § 2º: redação dada pela [[lei-federal-9985-2000|Lei n�
 **Art. 40, § 3º** {#art40_par3} Se o crime for culposo, a pena será reduzida à metade.
 
 ###### Art. 40-A {#art40-a}
-Tags: #fauna #flora #unidade-conservacao #dano-ambiental
 Alterações: caput, § 1º, § 2º, § 3º: incluído pela [[lei-federal-9985-2000|Lei nº 9.985, de 2000]]
 
 **Art. 40-A, caput** {#art40-a_cpt} #incluido (VETADO) *(Incluído pela [[lei-federal-9985-2000|Lei nº 9.985, de 2000]])*
@@ -418,7 +376,6 @@ Alterações: caput, § 1º, § 2º, § 3º: incluído pela [[lei-federal-9985-2
 **Art. 40-A, § 3º** {#art40-a_par3} #incluido Se o crime for culposo, a pena será reduzida à metade. *(Incluído pela [[lei-federal-9985-2000|Lei nº 9.985, de 2000]])*
 
 ###### Art. 41 {#art41}
-Tags: #flora #multa #incendio-florestal
 Alterações: caput: redação dada pela [[lei-federal-14944-2024|Lei nº 14.944, de 2024]]
 
 **Art. 41, caput** {#art41_cpt} #redacao-alterada Provocar incêndio em floresta ou em demais formas de vegetação: Pena - reclusão, de dois a quatro anos, e multa. *(Redação dada pela [[lei-federal-14944-2024|Lei nº 14.944, de 2024]])*
@@ -426,44 +383,36 @@ Alterações: caput: redação dada pela [[lei-federal-14944-2024|Lei nº 14.944
 **Art. 41, parágrafo único** {#art41_par1u} Se o crime é culposo, a pena é de detenção de seis meses a um ano, e multa.
 
 ###### Art. 42 {#art42}
-Tags: #flora #multa #incendio-florestal
 
 **Art. 42, caput** {#art42_cpt} Fabricar, vender, transportar ou soltar balões que possam provocar incêndios nas florestas e demais formas de vegetação, em áreas urbanas ou qualquer tipo de assentamento humano: Pena - detenção de um a três anos ou multa, ou ambas as penas cumulativamente.
 
 ###### Art. 43 {#art43}
-Tags: #crime-ambiental
 
 **Art. 43, caput** {#art43_cpt} (VETADO)
 
 ###### Art. 44 {#art44}
-Tags: #flora #mineracao #licenciamento-ambiental #eia-rima #multa
 
 **Art. 44, caput** {#art44_cpt} Extrair de florestas de domínio público ou consideradas de preservação permanente, sem prévia autorização, pedra, areia, cal ou qualquer espécie de minerais: Pena - detenção, de seis meses a um ano, e multa.
 
 ###### Art. 45 {#art45}
-Tags: #flora #multa
 
 **Art. 45, caput** {#art45_cpt} Cortar ou transformar em carvão madeira de lei, assim classificada por ato do Poder Público, para fins industriais, energéticos ou para qualquer outra exploração, econômica ou não, em desacordo com as determinações legais: Pena - reclusão, de um a dois anos, e multa.
 
 ###### Art. 46 {#art46}
-Tags: #flora #licenciamento-ambiental #multa
 
 **Art. 46, caput** {#art46_cpt} Receber ou adquirir, para fins comerciais ou industriais, madeira, lenha, carvão e outros produtos de origem vegetal, sem exigir a exibição de licença do vendedor, outorgada pela autoridade competente, e sem munir-se da via que deverá acompanhar o produto até final beneficiamento: Pena - detenção, de seis meses a um ano, e multa.
 
 **Art. 46, parágrafo único** {#art46_par1u} Incorre nas mesmas penas quem vende, expõe à venda, tem em depósito, transporta ou guarda madeira, lenha, carvão e outros produtos de origem vegetal, sem licença válida para todo o tempo da viagem ou do armazenamento, outorgada pela autoridade competente.
 
 ###### Art. 47 {#art47}
-Tags: #crime-ambiental
 
 **Art. 47, caput** {#art47_cpt} (VETADO)
 
 ###### Art. 48 {#art48}
-Tags: #flora #multa
 
 **Art. 48, caput** {#art48_cpt} Impedir ou dificultar a regeneração natural de florestas e demais formas de vegetação: Pena - detenção, de seis meses a um ano, e multa.
 
 ###### Art. 49 {#art49}
-Tags: #eia-rima #multa #termo-compromisso
 Alterações: § 1º: redação dada pela [[lei-federal-15299-2025|Lei nº 15.299, de 2025]]; § 2º: incluído pela [[lei-federal-15299-2025|Lei nº 15.299, de 2025]]
 
 **Art. 49, caput** {#art49_cpt} Destruir, danificar, lesar ou maltratar, por qualquer modo ou meio, plantas de ornamentação de logradouros públicos ou em propriedade privada alheia: Pena - detenção, de três meses a um ano, ou multa, ou ambas as penas cumulativamente.
@@ -473,12 +422,10 @@ Alterações: § 1º: redação dada pela [[lei-federal-15299-2025|Lei nº 15.29
 **Art. 49, § 2º** {#art49_par2} #incluido Não incorre em crime quem procede à poda ou ao corte de árvore quando o órgão ambiental responsável não responder de maneira fundamentada, no prazo máximo de 45 (quarenta e cinco) dias, a requerimento que solicita o corte ou a poda em razão da possibilidade de ocorrência de acidente devidamente atestada por empresa ou profissional habilitado, considerada tacitamente autorizada sua realização quando esgotado o referido prazo. *(Incluído pela [[lei-federal-15299-2025|Lei nº 15.299, de 2025]])*
 
 ###### Art. 50 {#art50}
-Tags: #flora #multa
 
 **Art. 50, caput** {#art50_cpt} Destruir ou danificar florestas nativas ou plantadas ou vegetação fixadora de dunas, protetora de mangues, objeto de especial preservação: Pena - detenção, de três meses a um ano, e multa.
 
 ###### Art. 50-A {#art50-a}
-Tags: #flora #licenciamento-ambiental #multa
 Alterações: caput, § 1º, § 2º: incluído pela [[lei-federal-11284-2006|Lei nº 11.284, de 2006]]
 
 **Art. 50-A, caput** {#art50-a_cpt} #incluido Desmatar, explorar economicamente ou degradar floresta, plantada ou nativa, em terras de domínio público ou devolutas, sem autorização do órgão competente: Pena - reclusão de 2 (dois) a 4 (quatro) anos e multa. *(Incluído pela [[lei-federal-11284-2006|Lei nº 11.284, de 2006]])*
@@ -488,17 +435,14 @@ Alterações: caput, § 1º, § 2º: incluído pela [[lei-federal-11284-2006|Lei
 **Art. 50-A, § 2º** {#art50-a_par2} #incluido Se a área explorada for superior a 1.000 ha (mil hectares), a pena será aumentada de 1 (um) ano por milhar de hectare. *(Incluído pela [[lei-federal-11284-2006|Lei nº 11.284, de 2006]])*
 
 ###### Art. 51 {#art51}
-Tags: #flora #licenciamento-ambiental #multa
 
 **Art. 51, caput** {#art51_cpt} Comercializar motosserra ou utilizá-la em florestas e nas demais formas de vegetação, sem licença ou registro da autoridade competente: Pena - detenção, de três meses a um ano, e multa.
 
 ###### Art. 52 {#art52}
-Tags: #flora #unidade-conservacao #licenciamento-ambiental #multa
 
 **Art. 52, caput** {#art52_cpt} Penetrar em Unidades de Conservação conduzindo substâncias ou instrumentos próprios para caça ou para exploração de produtos ou subprodutos florestais, sem licença da autoridade competente: Pena - detenção, de seis meses a um ano, e multa.
 
 ###### Art. 53 {#art53}
-Tags: #crime-ambiental
 
 **Art. 53, caput** {#art53_cpt} Nos crimes previstos nesta Seção, a pena é aumentada de um sexto a um terço se:
 
@@ -513,7 +457,6 @@ Tags: #crime-ambiental
 ### Seção III – Da Poluição e outros Crimes Ambientais
 
 ###### Art. 54 {#art54}
-Tags: #fauna #flora #poluicao #residuo-solido #multa #dano-ambiental
 
 **Art. 54, caput** {#art54_cpt} Causar poluição de qualquer natureza em níveis tais que resultem ou possam resultar em danos à saúde humana, ou que provoquem a mortandade de animais ou a destruição significativa da flora: Pena - reclusão, de um a quatro anos, e multa.
 
@@ -532,14 +475,12 @@ Tags: #fauna #flora #poluicao #residuo-solido #multa #dano-ambiental
 **Art. 54, § 3º** {#art54_par3} Incorre nas mesmas penas previstas no parágrafo anterior quem deixar de adotar, quando assim o exigir a autoridade competente, medidas de precaução em caso de risco de dano ambiental grave ou irreversível.
 
 ###### Art. 55 {#art55}
-Tags: #mineracao #licenciamento-ambiental #multa
 
 **Art. 55, caput** {#art55_cpt} Executar pesquisa, lavra ou extração de recursos minerais sem a competente autorização, permissão, concessão ou licença, ou em desacordo com a obtida: Pena - detenção, de seis meses a um ano, e multa.
 
 **Art. 55, parágrafo único** {#art55_par1u} Nas mesmas penas incorre quem deixa de recuperar a área pesquisada ou explorada, nos termos da autorização, permissão, licença, concessão ou determinação do órgão competente.
 
 ###### Art. 56 {#art56}
-Tags: #substancia-toxica #residuo-solido #multa
 Alterações: § 1º: redação dada pela [[lei-federal-12305-2010|Lei nº 12.305, de 2010]]; § 1º, inciso I, § 1º, inciso II: incluído pela [[lei-federal-12305-2010|Lei nº 12.305, de 2010]]
 
 **Art. 56, caput** {#art56_cpt} Produzir, processar, embalar, importar, exportar, comercializar, fornecer, transportar, armazenar, guardar, ter em depósito ou usar produto ou substância tóxica, perigosa ou nociva à saúde humana ou ao meio ambiente, em desacordo com as exigências estabelecidas em leis ou nos seus regulamentos: Pena - reclusão, de um a quatro anos, e multa.
@@ -554,12 +495,10 @@ Alterações: § 1º: redação dada pela [[lei-federal-12305-2010|Lei nº 12.30
 **Art. 56, § 3º** {#art56_par3} Se o crime é culposo: Pena - detenção, de seis meses a um ano, e multa.
 
 ###### Art. 57 {#art57}
-Tags: #crime-ambiental
 
 **Art. 57, caput** {#art57_cpt} (VETADO)
 
 ###### Art. 58 {#art58}
-Tags: #flora #dano-ambiental
 
 **Art. 58, caput** {#art58_cpt} Nos crimes dolosos previstos nesta Seção, as penas serão aumentadas:
 
@@ -570,12 +509,10 @@ Tags: #flora #dano-ambiental
 **Art. 58, parágrafo único** {#art58_par1u} As penalidades previstas neste artigo somente serão aplicadas se do fato não resultar crime mais grave.
 
 ###### Art. 59 {#art59}
-Tags: #crime-ambiental
 
 **Art. 59, caput** {#art59_cpt} (VETADO)
 
 ###### Art. 60 {#art60}
-Tags: #licenciamento-ambiental #eia-rima #multa
 Alterações: caput: redação dada pela [[lei-federal-15190-2025#art62_cpt_alt1|Lei nº 15.190, de 2025]]; parágrafo único: incluído pela [[lei-federal-15190-2025#art62_cpt_alt2|Lei nº 15.190, de 2025]]
 
 **Art. 60, caput** {#art60_cpt} #redacao-alterada Construir, reformar, ampliar, instalar ou fazer funcionar, em qualquer parte do território nacional, estabelecimentos, obras ou serviços potencialmente poluidores, sem licença ou autorização dos órgãos ambientais competentes, ou contrariando as normas legais e regulamentares pertinentes: Pena - detenção, de 6 (seis) meses a 2 (dois) anos, ou multa, ou ambas as penas, cumulativamente. *(Redação dada pela [[lei-federal-15190-2025#art62_cpt_alt1|Lei nº 15.190, de 2025]])*
@@ -583,14 +520,12 @@ Alterações: caput: redação dada pela [[lei-federal-15190-2025#art62_cpt_alt1
 **Art. 60, parágrafo único** {#art60_par1u} #incluido A pena é aumentada até o dobro se o licenciamento da atividade ou do empreendimento for sujeito ao Estudo Prévio de Impacto Ambiental. *(Incluído pela [[lei-federal-15190-2025#art62_cpt_alt2|Lei nº 15.190, de 2025]])*
 
 ###### Art. 61 {#art61}
-Tags: #fauna #flora #multa #dano-ambiental
 
 **Art. 61, caput** {#art61_cpt} Disseminar doença ou praga ou espécies que possam causar dano à agricultura, à pecuária, à fauna, à flora ou aos ecossistemas: Pena - reclusão, de um a quatro anos, e multa.
 
 ### Seção IV – Dos Crimes contra o Ordenamento Urbano e o Patrimônio Cultural
 
 ###### Art. 62 {#art62}
-Tags: #multa #bem-cultural
 
 **Art. 62, caput** {#art62_cpt} Destruir, inutilizar ou deteriorar:
 
@@ -602,17 +537,14 @@ Tags: #multa #bem-cultural
 **Art. 62, parágrafo único** {#art62_par1u} Se o crime for culposo, a pena é de seis meses a um ano de detenção, sem prejuízo da multa.
 
 ###### Art. 63 {#art63}
-Tags: #licenciamento-ambiental #multa
 
 **Art. 63, caput** {#art63_cpt} Alterar o aspecto ou estrutura de edificação ou local especialmente protegido por lei, ato administrativo ou decisão judicial, em razão de seu valor paisagístico, ecológico, turístico, artístico, histórico, cultural, religioso, arqueológico, etnográfico ou monumental, sem autorização da autoridade competente ou em desacordo com a concedida: Pena - reclusão, de um a três anos, e multa.
 
 ###### Art. 64 {#art64}
-Tags: #licenciamento-ambiental #multa #uso-solo
 
 **Art. 64, caput** {#art64_cpt} Promover construção em solo não edificável, ou no seu entorno, assim considerado em razão de seu valor paisagístico, ecológico, artístico, turístico, histórico, cultural, religioso, arqueológico, etnográfico ou monumental, sem autorização da autoridade competente ou em desacordo com a concedida: Pena - detenção, de seis meses a um ano, e multa.
 
 ###### Art. 65 {#art65}
-Tags: #licenciamento-ambiental #multa #bem-cultural
 Alterações: caput: redação dada pela [[lei-federal-12408-2011|Lei nº 12.408, de 2011]]; § 2º: incluído pela [[lei-federal-12408-2011|Lei nº 12.408, de 2011]]
 
 **Art. 65, caput** {#art65_cpt} #redacao-alterada Pichar ou por outro meio conspurcar edificação ou monumento urbano: Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa. *(Redação dada pela [[lei-federal-12408-2011|Lei nº 12.408, de 2011]])*
@@ -624,12 +556,10 @@ Alterações: caput: redação dada pela [[lei-federal-12408-2011|Lei nº 12.408
 ### Seção V – Dos Crimes contra a Administração Ambiental
 
 ###### Art. 66 {#art66}
-Tags: #licenciamento-ambiental #multa
 
 **Art. 66, caput** {#art66_cpt} Fazer o funcionário público afirmação falsa ou enganosa, omitir a verdade, sonegar informações ou dados técnico-científicos em procedimentos de autorização ou de licenciamento ambiental: Pena - reclusão, de um a três anos, e multa.
 
 ###### Art. 67 {#art67}
-Tags: #licenciamento-ambiental #multa
 Alterações: caput: redação dada pela [[lei-federal-15190-2025#art62_cpt_alt3|Lei nº 15.190, de 2025]]; parágrafo único: revogado pela [[lei-federal-15190-2025#art66|Lei nº 15.190, de 2025]]
 
 **Art. 67, caput** {#art67_cpt} #redacao-alterada Conceder dolosamente o funcionário público licença, autorização ou permissão que sabe estar em desacordo com as normas ambientais a atividades, obras ou serviços cuja realização depende de ato autorizativo do poder público: Pena - detenção, de 1 (um) a 3 (três) anos, e multa. *(Redação dada pela [[lei-federal-15190-2025#art62_cpt_alt3|Lei nº 15.190, de 2025]])*
@@ -637,19 +567,16 @@ Alterações: caput: redação dada pela [[lei-federal-15190-2025#art62_cpt_alt3
 **Art. 67, parágrafo único** {#art67_par1u} #revogado *(Revogado pela [[lei-federal-15190-2025#art66|Lei nº 15.190, de 2025]])*
 
 ###### Art. 68 {#art68}
-Tags: #multa
 
 **Art. 68, caput** {#art68_cpt} Deixar, aquele que tiver o dever legal ou contratual de fazê-lo, de cumprir obrigação de relevante interesse ambiental: Pena - detenção, de um a três anos, e multa.
 
 **Art. 68, parágrafo único** {#art68_par1u} Se o crime é culposo, a pena é de três meses a um ano, sem prejuízo da multa.
 
 ###### Art. 69 {#art69}
-Tags: #multa #fiscalizacao
 
 **Art. 69, caput** {#art69_cpt} Obstar ou dificultar a ação fiscalizadora do Poder Público no trato de questões ambientais: Pena - detenção, de um a três anos, e multa.
 
 ###### Art. 69-A {#art69-a}
-Tags: #flora #multa #dano-ambiental
 Alterações: caput, § 1º, § 2º: incluído pela [[lei-federal-11284-2006|Lei nº 11.284, de 2006]]
 
 **Art. 69-A, caput** {#art69-a_cpt} #incluido Elaborar ou apresentar, no licenciamento, concessão florestal ou qualquer outro procedimento administrativo, estudo, laudo ou relatório ambiental total ou parcialmente falso ou enganoso, inclusive por omissão: Pena - reclusão, de 3 (três) a 6 (seis) anos, e multa. *(Incluído pela [[lei-federal-11284-2006|Lei nº 11.284, de 2006]])*
@@ -661,7 +588,6 @@ Alterações: caput, § 1º, § 2º: incluído pela [[lei-federal-11284-2006|Lei
 ## CAPÍTULO VI – DA INFRAÇÃO ADMINISTRATIVA
 
 ###### Art. 70 {#art70}
-Tags: #mineracao #auto-infracao #fiscalizacao #processo-administrativo #responsabilidade #sisnama
 
 **Art. 70, caput** {#art70_cpt} Considera-se infração administrativa ambiental toda ação ou omissão que viole as regras jurídicas de uso, gozo, promoção, proteção e recuperação do meio ambiente.
 
@@ -674,7 +600,6 @@ Tags: #mineracao #auto-infracao #fiscalizacao #processo-administrativo #responsa
 **Art. 70, § 4º** {#art70_par4} As infrações ambientais são apuradas em processo administrativo próprio, assegurado o direito de ampla defesa e o contraditório, observadas as disposições desta Lei.
 
 ###### Art. 71 {#art71}
-Tags: #mineracao #multa #auto-infracao #processo-administrativo #sisnama
 
 **Art. 71, caput** {#art71_cpt} O processo administrativo para apuração de infração ambiental deve observar os seguintes prazos máximos:
 
@@ -684,7 +609,6 @@ Tags: #mineracao #multa #auto-infracao #processo-administrativo #sisnama
 - **Art. 71, caput, inciso IV** {#art71_cpt_inc4} cinco dias para o pagamento de multa, contados da data do recebimento da notificação.
 
 ###### Art. 72 {#art72}
-Tags: #fauna #flora #licenciamento-ambiental #multa #embargo #apreensao #advertencia
 
 **Art. 72, caput** {#art72_cpt} As infrações administrativas são punidas com as seguintes sanções, observado o disposto no art. 6º:
 
@@ -726,7 +650,6 @@ Tags: #fauna #flora #licenciamento-ambiental #multa #embargo #apreensao #adverte
 - **Art. 72, § 8º, inciso V** {#art72_par8_inc5} proibição de contratar com a Administração Pública, pelo período de até três anos.
 
 ###### Art. 73 {#art73}
-Tags: #multa #processo-administrativo
 Alterações: caput: redação dada pela [[lei-federal-14691-2023|Lei nº 14.691, de 2023]]; § 1º, § 2º: incluído pela [[lei-federal-14691-2023|Lei nº 14.691, de 2023]]
 
 **Art. 73, caput** {#art73_cpt} #redacao-alterada Os valores arrecadados em pagamento de multas por infração ambiental serão revertidos ao Fundo Nacional do Meio Ambiente, criado pela [[lei-federal-7797-1989|Lei nº 7.797, de 10 de julho de 1989]], ao Fundo Naval, criado pelo [[decreto-federal-20923-1932|Decreto nº 20.923, de 8 de janeiro de 1932]], ao Fundo Nacional para Calamidades Públicas, Proteção e Defesa Civil (Funcap), criado pela [[lei-federal-12340-2010|Lei nº 12.340, de 1º de dezembro de 2010]], e aos fundos estaduais ou municipais de meio ambiente, ou correlatos, conforme dispuser o órgão arrecadador. *(Redação dada pela [[lei-federal-14691-2023|Lei nº 14.691, de 2023]])*
@@ -736,24 +659,20 @@ Alterações: caput: redação dada pela [[lei-federal-14691-2023|Lei nº 14.691
 **Art. 73, § 2º** {#art73_par2} #incluido (VETADO). *(Incluído pela [[lei-federal-14691-2023|Lei nº 14.691, de 2023]])*
 
 ###### Art. 74 {#art74}
-Tags: #multa
 
 **Art. 74, caput** {#art74_cpt} A multa terá por base a unidade, hectare, metro cúbico, quilograma ou outra medida pertinente, de acordo com o objeto jurídico lesado.
 
 ###### Art. 75 {#art75}
-Tags: #multa
 
 **Art. 75, caput** {#art75_cpt} O valor da multa de que trata este Capítulo será fixado no regulamento desta Lei e corrigido periodicamente, com base nos índices estabelecidos na legislação pertinente, sendo o mínimo de R$ 50,00 (cinqüenta reais) e o máximo de R$ 50.000.000,00 (cinqüenta milhões de reais).
 
 ###### Art. 76 {#art76}
-Tags: #multa
 
 **Art. 76, caput** {#art76_cpt} O pagamento de multa imposta pelos Estados, Municípios, Distrito Federal ou Territórios substitui a multa federal na mesma hipótese de incidência.
 
 ## CAPÍTULO VII – DA COOPERAÇÃO INTERNACIONAL PARA A PRESERVAÇÃO DO MEIO AMBIENTE
 
 ###### Art. 77 {#art77}
-Tags: #cooperacao-institucional
 
 **Art. 77, caput** {#art77_cpt} Resguardados a soberania nacional, a ordem pública e os bons costumes, o Governo brasileiro prestará, no que concerne ao meio ambiente, a necessária cooperação a outro país, sem qualquer ônus, quando solicitado para:
 
@@ -774,19 +693,16 @@ Tags: #cooperacao-institucional
 - **Art. 77, § 2º, inciso V** {#art77_par2_inc5} a documentação indispensável ao seu esclarecimento, quando for o caso.
 
 ###### Art. 78 {#art78}
-Tags: #cooperacao-institucional
 
 **Art. 78, caput** {#art78_cpt} Para a consecução dos fins visados nesta Lei e especialmente para a reciprocidade da cooperação internacional, deve ser mantido sistema de comunicações apto a facilitar o intercâmbio rápido e seguro de informações com órgãos de outros países.
 
 ## CAPÍTULO VIII – DISPOSIÇÕES FINAIS
 
 ###### Art. 79 {#art79}
-Tags: #crime-ambiental
 
 **Art. 79, caput** {#art79_cpt} Aplicam-se subsidiariamente a esta Lei as disposições do Código Penal e do Código de Processo Penal.
 
 ###### Art. 79-A {#art79-a}
-Tags: #multa #fiscalizacao #termo-compromisso #sisnama
 Alterações: caput, § 1º, § 2º, § 3º, § 4º: redação dada pela [[medida-provisoria-2163-41-2001|Medida Provisória nº 2.163-41, de 2001]]; § 1º, inciso VI, § 5º, § 6º, § 7º, § 8º: incluído pela [[medida-provisoria-2163-41-2001|Medida Provisória nº 2.163-41, de 2001]]
 
 **Art. 79-A, caput** {#art79-a_cpt} #redacao-alterada Para o cumprimento do disposto nesta Lei, os órgãos ambientais integrantes do SISNAMA, responsáveis pela execução de programas e projetos e pelo controle e fiscalização dos estabelecimentos e das atividades suscetíveis de degradarem a qualidade ambiental, ficam autorizados a celebrar, com força de título executivo extrajudicial, termo de compromisso com pessoas físicas ou jurídicas responsáveis pela construção, instalação, ampliação e funcionamento de estabelecimentos e atividades utilizadores de recursos ambientais, considerados efetiva ou potencialmente poluidores. *(Redação dada pela [[medida-provisoria-2163-41-2001|Medida Provisória nº 2.163-41, de 2001]])*
@@ -815,17 +731,14 @@ Alterações: caput, § 1º, § 2º, § 3º, § 4º: redação dada pela [[medid
 **Art. 79-A, § 8º** {#art79-a_par8} #incluido Sob pena de ineficácia, os termos de compromisso deverão ser publicados no órgão oficial competente, mediante extrato. *(Incluído pela [[medida-provisoria-2163-41-2001|Medida Provisória nº 2.163-41, de 2001]])*
 
 ###### Art. 80 {#art80}
-Tags: #crime-ambiental
 
 **Art. 80, caput** {#art80_cpt} O Poder Executivo regulamentará esta Lei no prazo de noventa dias a contar de sua publicação.
 
 ###### Art. 81 {#art81}
-Tags: #crime-ambiental
 
 **Art. 81, caput** {#art81_cpt} (VETADO)
 
 ###### Art. 82 {#art82}
-Tags: #crime-ambiental
 
 **Art. 82, caput** {#art82_cpt} Revogam-se as disposições em contrário.
 

@@ -19,42 +19,42 @@ fonte: PDF da IN IAT 24/2026 (eProtocolo 23.753.432-8), páginas 67 e 68 (fls. 2
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo II, linha 1** {#anexo2_lin1} #declaracao-veracidade O Memorial de Caracterização do Empreendimento – MCE deverá ser elaborado e assinado pelo responsável pelas informações prestadas, o qual deverá ser o mesmo responsável declarado no [[instrucao-normativa-iat-24-2026#anexo5|Anexo V]].
+- **Anexo II, linha 1** {#anexo2_lin1} O Memorial de Caracterização do Empreendimento – MCE deverá ser elaborado e assinado pelo responsável pelas informações prestadas, o qual deverá ser o mesmo responsável declarado no [[instrucao-normativa-iat-24-2026#anexo5|Anexo V]].
 - **Anexo II, linha 2** {#anexo2_lin2} I. INFORMAÇÕES CADASTRAIS
 - **Anexo II, linha 3** {#anexo2_lin3} ● Nome ou Razão social;
-- **Anexo II, linha 4** {#anexo2_lin4} #cnpj ● CNPJ e Inscrição Estadual, se pessoa jurídica;
-- **Anexo II, linha 5** {#anexo2_lin5} #cpf ● CPF e RG, se pessoa física
+- **Anexo II, linha 4** {#anexo2_lin4} ● CNPJ e Inscrição Estadual, se pessoa jurídica;
+- **Anexo II, linha 5** {#anexo2_lin5} ● CPF e RG, se pessoa física
 - **Anexo II, linha 6** {#anexo2_lin6} ● Endereço completo da unidade a ser licenciada;
 - **Anexo II, linha 7** {#anexo2_lin7} ● Nome do responsável, telefone;
-- **Anexo II, linha 8** {#anexo2_lin8} #mapa-situacao II. CROQUI DE LOCALIZAÇÃO DO EMPREENDIMENTO COM IMAGEM AÉREA E CONTENDO NO MÍNIMO
-- **Anexo II, linha 9** {#anexo2_lin9} #car ● Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural;
-- **Anexo II, linha 10** {#anexo2_lin10} #area-construida ● Área onde será implantada a atividade (área total, área construída e área livre);
-- **Anexo II, linha 11** {#anexo2_lin11} #georreferenciamento ● Coordenadas UTM;
+- **Anexo II, linha 8** {#anexo2_lin8} II. CROQUI DE LOCALIZAÇÃO DO EMPREENDIMENTO COM IMAGEM AÉREA E CONTENDO NO MÍNIMO
+- **Anexo II, linha 9** {#anexo2_lin9} ● Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural;
+- **Anexo II, linha 10** {#anexo2_lin10} ● Área onde será implantada a atividade (área total, área construída e área livre);
+- **Anexo II, linha 11** {#anexo2_lin11} ● Coordenadas UTM;
 - **Anexo II, linha 12** {#anexo2_lin12} ● Estruturas físicas;
-- **Anexo II, linha 13** {#anexo2_lin13} #dejeto-animal ● Locais de concentração de dejetos, se houver.
-- **Anexo II, linha 14** {#anexo2_lin14} #corpo-hidrico ● Corpos hídricos;
-- **Anexo II, linha 15** {#anexo2_lin15} #app ● Áreas de preservação permanente;
-- **Anexo II, linha 16** {#anexo2_lin16} #reserva-legal ● Áreas de Reserva Legal e maciços florestais remanescentes;
+- **Anexo II, linha 13** {#anexo2_lin13} ● Locais de concentração de dejetos, se houver.
+- **Anexo II, linha 14** {#anexo2_lin14} ● Corpos hídricos;
+- **Anexo II, linha 15** {#anexo2_lin15} ● Áreas de preservação permanente;
+- **Anexo II, linha 16** {#anexo2_lin16} ● Áreas de Reserva Legal e maciços florestais remanescentes;
 - **Anexo II, linha 17** {#anexo2_lin17} ● Vias de acesso principais;
 - **Anexo II, linha 18** {#anexo2_lin18} ● Pontos de referência.
-- **Anexo II, linha 19** {#anexo2_lin19} #uso-solo ● Caracterização do entorno em um raio mínimo de 50 metros do empreendimento, contemplando o uso e ocupação do solo, e a existência de residências.
+- **Anexo II, linha 19** {#anexo2_lin19} ● Caracterização do entorno em um raio mínimo de 50 metros do empreendimento, contemplando o uso e ocupação do solo, e a existência de residências.
 - **Anexo II, linha 20** {#anexo2_lin20} IV. CARACTERIZAÇÃO DO EMPREENDIMENTO
 - **Anexo II, linha 21** {#anexo2_lin21} a) Tipo de atividade do empreendimento;
-- **Anexo II, linha 22** {#anexo2_lin22} #obra-civil b) Descritivo da obra a ser implantada e a descrição das intervenções necessárias;
+- **Anexo II, linha 22** {#anexo2_lin22} b) Descritivo da obra a ser implantada e a descrição das intervenções necessárias;
 - **Anexo II, linha 23** {#anexo2_lin23} c) Descrição do empreendimento e apresentação das suas características técnicas;
-- **Anexo II, linha 24** {#anexo2_lin24} #suinocultura ● Descrição do regime e sistema de criação do empreendimento;
-- **Anexo II, linha 25** {#anexo2_lin25} #suinocultura #porte ● Quantificação do plantel atual e capacidade máxima do empreendimento, de acordo com a Certidão de Estabelecimento Rural emitido pela ADAPAR.
+- **Anexo II, linha 24** {#anexo2_lin24} ● Descrição do regime e sistema de criação do empreendimento;
+- **Anexo II, linha 25** {#anexo2_lin25} ● Quantificação do plantel atual e capacidade máxima do empreendimento, de acordo com a Certidão de Estabelecimento Rural emitido pela ADAPAR.
 - **Anexo II, linha 26** {#anexo2_lin26} V. INFORMAÇÕES SOBRE POLUENTES
-- **Anexo II, linha 27** {#anexo2_lin27} #efluente #dejeto-animal a) Efluentes líquidos do processo (dejetos animais, águas de lavagem de equipamentos, etc)
+- **Anexo II, linha 27** {#anexo2_lin27} a) Efluentes líquidos do processo (dejetos animais, águas de lavagem de equipamentos, etc)
 - **Anexo II, linha 28** {#anexo2_lin28} • Geração, tratamento e destinação final;
-- **Anexo II, linha 29** {#anexo2_lin29} #esgoto-sanitario b) Efluentes líquidos sanitários:
+- **Anexo II, linha 29** {#anexo2_lin29} b) Efluentes líquidos sanitários:
 - **Anexo II, linha 30** {#anexo2_lin30} • Geração, tratamento e destinação final;
-- **Anexo II, linha 31** {#anexo2_lin31} #residuo-solido #dejeto-animal c) Resíduos Sólidos (Dejetos)
+- **Anexo II, linha 31** {#anexo2_lin31} c) Resíduos Sólidos (Dejetos)
 - **Anexo II, linha 32** {#anexo2_lin32} • Geração, tratamento e destinação final.
-- **Anexo II, linha 33** {#anexo2_lin33} #emissao-atmosferica d) Emissões atmosféricas, (no caso de uso de geradores a combustível) e sistemas de controle, quando houver;
-- **Anexo II, linha 34** {#anexo2_lin34} #captacao e) Sistema de abastecimento de água (fonte, usos e volume de captação).
-- **Anexo II, linha 35** {#anexo2_lin35} #dejeto-animal #uso-agricola-efluente VI. UTILIZAÇÃO AGRÍCOLA DE DEJETOS DE SUÍNOS
-- **Anexo II, linha 36** {#anexo2_lin36} #dejeto-animal #uso-agricola-efluente #art-anotacao Projeto técnico com dimensionamento do número de animais a serem alojados e planejamento agrícola para utilização agrícola de dejetos de suínos, utilizando o SGAS e considerando os critérios técnicos mínimos para licenciamento ambiental de granjas de suínos (Documentos 239/2023, Embrapa Suínos Aves), elaborado por profissional habilitado, acompanhado da devida Anotação de Responsabilidade Técnica – ART.
+- **Anexo II, linha 33** {#anexo2_lin33} d) Emissões atmosféricas, (no caso de uso de geradores a combustível) e sistemas de controle, quando houver;
+- **Anexo II, linha 34** {#anexo2_lin34} e) Sistema de abastecimento de água (fonte, usos e volume de captação).
+- **Anexo II, linha 35** {#anexo2_lin35} VI. UTILIZAÇÃO AGRÍCOLA DE DEJETOS DE SUÍNOS
+- **Anexo II, linha 36** {#anexo2_lin36} Projeto técnico com dimensionamento do número de animais a serem alojados e planejamento agrícola para utilização agrícola de dejetos de suínos, utilizando o SGAS e considerando os critérios técnicos mínimos para licenciamento ambiental de granjas de suínos (Documentos 239/2023, Embrapa Suínos Aves), elaborado por profissional habilitado, acompanhado da devida Anotação de Responsabilidade Técnica – ART.
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

@@ -45,7 +45,6 @@ RESOLVE
 
 ###### Art. 1º {#art1}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer requisitos, critérios, diretrizes e procedimentos para o Licenciamento Ambiental de Posto Revendedor, Ponto de Abastecimento, Instalação de Sistema Retalhista de Combustível – TRR, Posto Flutuante e Base de Distribuição de Combustíveis.
 
@@ -54,7 +53,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 2º {#art2}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 2º, caput** {#art2_cpt} Para fins desta Instrução Normativa, consideram-se os seguintes empreendimentos de abastecimento e armazenamento de combustíveis:
 
@@ -73,7 +71,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 3º {#art3}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 3º, caput** {#art3_cpt} Para fins desta Instrução Normativa, consideram-se as seguintes definições:
 
@@ -104,7 +101,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 4º {#art4}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 4º, caput** {#art4_cpt} O órgão licenciador competente, no exercício de sua competência de controle ambiental, expedirá, para fins de licenciamento ambiental de Posto Revendedor, Ponto de Abastecimento, Instalação de Sistema Retalhista de Combustível – TRR, Posto Flutuante e Base de Distribuição de Combustíveis os seguintes atos administrativos:
 
@@ -139,7 +135,6 @@ licenciamento por parte do órgão licenciador competente em função de seu bai
 
 ###### Art. 5º {#art5}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 5º, caput** {#art5_cpt} Para fins desta Instrução Normativa, constituem modalidades de licenciamento ambiental:
 
@@ -163,7 +158,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 6º {#art6}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 6º, caput** {#art6_cpt} A modalidade de licenciamento ambiental para os empreendimentos do [[#art2|art. 2º]] desta Instrução Normativa é definida conforme os critérios determinados na tabela abaixo:
 
@@ -185,7 +179,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 7º {#art7}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 7º, caput** {#art7_cpt} A DLAM pode ser concedida ao Ponto de Abastecimento com instalações aéreas de até 15.000 (quinze mil) litros e que sejam destinados exclusivamente ao abastecimento do detentor das respectivas instalações, cuja construção deve atender as normas técnicas brasileiras em vigor, ou na ausência delas, normas internacionalmente aceitas, conforme [[resolucao-conama-273-2000|Resolução CONAMA n.º 273]] de 2000.
 
@@ -195,7 +188,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 8º {#art8}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 8º, caput** {#art8_cpt} A construção das instalações aéreas para armazenamento de combustível deve obedecer a [[abnt-nbr-15776|ABNT NBR 15776]], ou outras que venham a substituir, sendo que
 
@@ -207,7 +199,6 @@ aspectos complementares como localização e distanciamento devem obedecer ao di
 
 ###### Art. 9º {#art9}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 9º, caput** {#art9_cpt} Os requerimentos para Declaração de Dispensa de Licenciamento Ambiental – DLAM, conforme Capítulo IV, devem ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -250,19 +241,16 @@ pela utilização da estrutura exclusivamente nos limites declarados, conforme D
 
 ###### Art. 10º {#art10}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 10º, caput** {#art10_cpt} Deverá ser solicitada à respectiva Licença Ambiental para qualquer alteração nas características do porte do empreendimento.
 
 ###### Art. 11º {#art11}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 11º, caput** {#art11_cpt} A Declaração de Dispensa do Licenciamento Ambiental - DLAM não exime das exigências legais quanto à preservação do meio ambiente.
 
 ###### Art. 12º {#art12}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 12º, caput** {#art12_cpt} O desvio da finalidade operacional declarada no requerimento de DLAM, bem como a utilização da estrutura em desacordo com os critérios de enquadramento previstos nesta Instrução Normativa, sujeitará o empreendimento a responsabilidade administrativa, cível e penal, sem prejuízo da exigência de regularização ambiental pela modalidade de licenciamento aplicável.
 
@@ -271,7 +259,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 13º {#art13}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 13º, caput** {#art13_cpt} Os empreendimentos enquadrados no [[#art2|art. 2º]] poderão solicitar Autorização Ambiental nos seguintes casos:
 
@@ -285,7 +272,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 14º {#art14}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 14º, caput** {#art14_cpt} A Autorização Ambiental – AA para remoção ou substituição, deverá ser requerida por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -311,7 +297,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 15º {#art15}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 15º, caput** {#art15_cpt} Os empreendimentos que necessitam de Licenças Prévia, de Instalação e de Operação, deverão requerê-las sucessivamente.
 
@@ -322,7 +307,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 16º {#art16}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 16º, caput** {#art16_cpt} Os requerimentos para Licença Prévia – LP, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -376,13 +360,11 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 17º {#art17}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 17º, caput** {#art17_cpt} Nos procedimentos de Licença Prévia - LP, quando necessária a supressão de vegetação, esta somente poderá ser emitida após a manifestação sobre a tipologia florestal e sua viabilidade de supressão, visando análise integrada do licenciamento.
 
 ###### Art. 18º {#art18}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 18º, caput** {#art18_cpt} A Licença Prévia não possibilita renovação, apenas prorrogação desde que não tenha sido concedido o prazo máximo.
 
@@ -391,7 +373,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 19º {#art19}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 19º, caput** {#art19_cpt} Os requerimentos para Licença de Instalação – LI, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -447,7 +428,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 20º {#art20}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 20º, caput** {#art20_cpt} Empreendimentos com instalações subterrâneas para armazenamento de combustíveis ou óleo usado contaminado, devem apresentar também:
 
@@ -459,7 +439,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 21º {#art21}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 21º, caput** {#art21_cpt} Empreendimentos com instalações aéreas para armazenamento de combustíveis ou óleo usado contaminado, devem apresentar também:
 
@@ -469,13 +448,11 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 22º {#art22}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 22º, caput** {#art22_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença de Instalação - LI, somente poderá ser emitida acompanhada da respectiva Autorização Florestal e Autorização Ambiental referente à fauna, emitidas pelo órgão ambiental.
 
 ###### Art. 23º {#art23}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 23º, caput** {#art23_cpt} A Licença de Instalação não possibilita renovação, apenas prorrogação desde que não tenha sido concedido o prazo máximo.
 
@@ -484,7 +461,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 24º {#art24}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 24º, caput** {#art24_cpt} Os requerimentos para Licença de Operação - LO, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -525,7 +501,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 25º {#art25}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 25º, caput** {#art25_cpt} Empreendimentos com instalações subterrâneas para armazenamento de combustíveis ou óleo usado contaminado, deverão apresentar também:
 
@@ -547,7 +522,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 26º {#art26}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 26º, caput** {#art26_cpt} Os requerimentos para Renovação de Licença de Operação - RLO, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -606,7 +580,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 27º {#art27}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 27º, caput** {#art27_cpt} Empreendimentos com instalações subterrâneas para armazenamento de combustíveis ou óleo usado contaminado, deverão apresentar também:
 
@@ -616,7 +589,6 @@ conjunto com os testes de estanqueidade, ensaios hidrostáticos nos compartiment
 
 ###### Art. 28º {#art28}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 28º, caput** {#art28_cpt} Empreendimentos com instalações aéreas para armazenamento de combustíveis ou óleo usado contaminado, deverão apresentar também:
 
@@ -627,7 +599,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 29º {#art29}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 29º, caput** {#art29_cpt} Para as ampliações e/ou alterações definitivas nos empreendimentos e/ou atividades detentoras de Licença de Operação - LO e que acarretem impactos ambientais na sua instalação e operação, bem como caracterizem aumento de potencial poluidor/degradador do meio ambiente, deve ser requerido o licenciamento específico, trifásico ou bifásico, para a parte ampliada ou alterada.
 
@@ -635,7 +606,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 30º {#art30}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 30º, caput** {#art30_cpt} Os estudos apresentados nos requerimentos de licenciamento de ampliação deverão contemplar as áreas e atividades já licenciadas e as áreas e atividades a serem ampliadas.
 
@@ -644,7 +614,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 31º {#art31}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 31º, caput** {#art31_cpt} Os requerimentos para Licença Prévia de Ampliação - LPA, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -708,13 +677,11 @@ e parágrafo 3º do artigo 29 da [[lei-federal-12651-2012|Lei Federal nº 12.651
 
 ###### Art. 32º {#art32}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 32º, caput** {#art32_cpt} Nos procedimentos de Licença Prévia de Ampliação - LPA, quando necessária a supressão de vegetação, esta somente poderá ser emitida após a manifestação sobre a tipologia florestal e sua viabilidade de supressão, visando análise integrada do licenciamento.
 
 ###### Art. 33º {#art33}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 33º, caput** {#art33_cpt} A Licença Prévia não possibilita renovação, apenas prorrogação desde que não tenha sido concedido o prazo máximo.
 
@@ -723,7 +690,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 34º {#art34}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 34º, caput** {#art34_cpt} Os requerimentos para Licença de Instalação de Ampliação - LIA, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -775,7 +741,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 35º {#art35}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 35º, caput** {#art35_cpt} Empreendimentos com instalações subterrâneas para armazenamento de combustíveis ou óleo usado contaminado, devem apresentar também:
 
@@ -787,7 +752,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 36º {#art36}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 36º, caput** {#art36_cpt} Empreendimentos com instalações aéreas para armazenamento de combustíveis ou óleo usado contaminado, devem apresentar também:
 
@@ -797,7 +761,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 37º {#art37}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 37º, caput** {#art37_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença de Instalação de Ampliação - LIA, somente poderá ser emitida acompanhada da respectiva Autorização Florestal e Autorização Ambiental referente à fauna, emitidas pelo órgão ambiental.
 
@@ -808,7 +771,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 38º {#art38}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 38º, caput** {#art38_cpt} Os requerimentos para Licença de Operação de Ampliação - LOA, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 
@@ -849,7 +811,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 39º {#art39}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 39º, caput** {#art39_cpt} Empreendimentos com instalações subterrâneas para armazenamento de combustíveis ou óleo usado contaminado, deverão apresentar também:
 
@@ -871,7 +832,6 @@ certificada pelo INMETRO, conforme [[portaria-inmetro-259-2008|Portaria INMETRO 
 
 ###### Art. 40º {#art40}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 40º, caput** {#art40_cpt} A regularização do licenciamento ambiental de empreendimentos e/ou atividades potencialmente poluidoras/degradadoras, do meio ambiente, em instalação ou em operação, deverá ser requerida nos seguintes casos:
 
@@ -883,7 +843,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 41º {#art41}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 41º, caput** {#art41_cpt} Para o licenciamento de regularização devem ser adotados os critérios estabelecidos em normas específicas do órgão licenciador competente, devendo observar os seguintes requisitos:
 
@@ -902,7 +861,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 42º {#art42}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 42º, caput** {#art42_cpt} Os requerimentos para Licença de Instalação de Regularização - LIR, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo e se aplicam à empreendimentos e/ou atividades potencialmente poluidoras/degradadoras em instalação:
 
@@ -993,7 +951,6 @@ e parágrafo 3º do artigo 29 da [[lei-federal-12651-2012|Lei Federal nº 12.651
 
 ###### Art. 43º {#art43}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 43º, caput** {#art43_cpt} Empreendimentos com instalações subterrâneas para armazenamento de combustíveis ou óleo usado contaminado, devem apresentar também:
 
@@ -1005,7 +962,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 44º {#art44}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 44º, caput** {#art44_cpt} Empreendimentos com instalações aéreas para armazenamento de combustíveis ou óleo usado contaminado, deverão apresentar também:
 
@@ -1013,7 +969,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 45º {#art45}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 45º, caput** {#art45_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença de Instalação de Regularização - LIR, somente poderá ser emitida acompanhada da respectiva Autorização Florestal e Autorização Ambiental referente à fauna, emitidas pelo órgão ambiental.
 
@@ -1024,7 +979,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 46º {#art46}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 46º, caput** {#art46_cpt} Os requerimentos para Licença de Operação de Regularização - LOR, deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo e se aplicam à empreendimentos e/ou atividades potencialmente poluidoras/degradadoras em operação:
 
@@ -1123,7 +1077,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 47º {#art47}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 47º, caput** {#art47_cpt} Empreendimentos com instalações subterrâneas para armazenamento de combustíveis ou óleo usado contaminado, deverão apresentar também:
 
@@ -1142,7 +1095,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 48º {#art48}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 48º, caput** {#art48_cpt} Empreendimentos com instalações aéreas para armazenamento de combustíveis ou óleo usado contaminado, deverão apresentar também:
 
@@ -1153,7 +1105,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 49º {#art49}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 49º, caput** {#art49_cpt} O órgão ambiental competente estabelecerá os prazos de validade para cada tipo de licença e autorização ambiental, especificando-os no respectivo documento, levando em consideração os seguintes aspectos:
 
@@ -1172,31 +1123,26 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 50º {#art50}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 50º, caput** {#art50_cpt} Quando da necessidade da manifestação de órgãos intervenientes externos ao órgão licenciador, tais como FUNAI, INCRA, IPHAN, ICMBio, CEPHA, DNIT, DER, entre outros, será seguido o procedimento conforme estabelece o [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541]], de 10 de abril de 2025, que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252]], de 12 de dezembro de 2024.
 
 ###### Art. 51º {#art51}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 51º, caput** {#art51_cpt} Caso haja necessidade, o órgão ambiental competente solicitará, a qualquer momento, adequações, documentos e/ou informações complementares do requerente ou de outras instituições envolvidas no licenciamento ambiental em questão, assim como, anotação ou registro de responsabilidade técnica pela implantação e conclusão de eventuais estudos ambientais.
 
 ###### Art. 52º {#art52}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 52º, caput** {#art52_cpt} Constatada a existência de pendência judicial envolvendo o empreendedor, o empreendimento ou o imóvel, a decisão administrativa sobre a eventual suspensão do licenciamento será precedida de manifestação jurídica do órgão ambiental.
 
 ###### Art. 53º {#art53}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 53º, caput** {#art53_cpt} A regularização do licenciamento ambiental por motivo de alteração da razão social e/ou do estatuto ou contrato social da empresa, em qualquer fase, deve atender ao que estabelece o [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541]], de 10 de abril de 2025, que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252]], de 12 de dezembro de 2024.
 
 ###### Art. 54º {#art54}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 54º, caput** {#art54_cpt} Quando da interrupção das operações do empreendimento, durante a vigência da Licença de Operação, deverá ser protocolado no órgão ambiental declaração do responsável legal comunicando a interrupção da atividade, acompanhada das seguintes informações e documentos:
 
@@ -1210,7 +1156,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 55º {#art55}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 55º, caput** {#art55_cpt} No caso de o Ponto de Abastecimento, com instalações aéreas de até 15 m³, estar vinculado a outro empreendimento – a exemplo de indústrias, terminais de cargas, mineradoras, transportadoras, entre outros – o licenciamento ambiental da atividade principal deverá incluir, em seu escopo, o referido ponto de abastecimento.
 
@@ -1221,7 +1166,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 56º {#art56}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 56º, caput** {#art56_cpt} Os empreendimentos a serem implantados ou ampliados relacionados no [[#art2|art. 2º]] desta Instrução Normativa, submetidos ao licenciamento ambiental, devem atender aos requisitos mínimos:
 
@@ -1243,7 +1187,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 57º {#art57}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 57º, caput** {#art57_cpt} Somente poderão ser instalados tanques subterrâneos fabricados de acordo com as Normas Técnicas da Associação Brasileira de Normas Técnicas (ABNT) e certificadas no âmbito do Sistema Brasileiro de Avaliação de Conformidade conforme Portaria INMETRO nº 185, de 04 de dezembro de 2003, atendendo às determinações contidas na [[resolucao-conama-273-2000|Resolução nº 273, de 29 de novembro de 2000]], e na [[resolucao-conama-319-2002|Resolução nº 319, de 04 de dezembro de 2002]].
 
@@ -1253,13 +1196,11 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 58º {#art58}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 58º, caput** {#art58_cpt} Empreendimentos que possuírem tanques subterrâneos com a sua vida útil a vencer, devem solicitar licenciamento junto ao órgão ambiental licenciador para sua remoção ou substituição, com antecedência mínima de 120 dias da data de seu vencimento.
 
 ###### Art. 59º {#art59}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 59º, caput** {#art59_cpt} Os novos empreendimentos a serem instalados em terrenos sensíveis como Karst, zonas fraturadas de basalto, planícies costeiras, áreas aluvionares, e demais áreas com risco a contaminação de aquíferos subterrâneos, poderá ser exigido o encapsulamento das instalações subterrâneas.
 
@@ -1268,7 +1209,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 60º {#art60}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 60º, caput** {#art60_cpt} Para efeito de controle futuro da integridade dos elementos componentes do Sistema de Abastecimento Subterrâneo de Combustíveis - SASC (linhas, tanques, conexões, tubulações e demais equipamentos), deverá ser apresentado teste de estanqueidade completo, em periodicidade a ser estabelecida pelo órgão ambiental licenciador, não superior a três anos, inclusive aqueles com sistema de monitoramento eletrônico para detecção de vazamentos.
 
@@ -1291,7 +1231,6 @@ Relatório elaborado conforme Roteiro para Inspeção de Tanques Aéreos de Arma
 
 ###### Art. 61º {#art61}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 61º, caput** {#art61_cpt} Cada compartimento dos tanques subterrâneos de armazenamento de combustíveis deve contar com tubulação de respiro para manutenção da pressão atmosférica, dotada de sistema de controle de emissões (válvulas de alívio de pressão e vácuo) independente.
 
@@ -1299,7 +1238,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 62º {#art62}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 62º, caput** {#art62_cpt} Os empreendimentos devem realizar anualmente a manutenção das válvulas de alívio de pressão e vácuo instaladas nas tubulações de respiro dos tanques de combustíveis.
 
@@ -1312,7 +1250,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 63º {#art63}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 63º, caput** {#art63_cpt} O Sistema de Monitoramento de Detecção de Vazamentos – SMDV, deve ser instalado no interstício de todos os tanques subterrâneos (sensor intersticial) e em todas as câmaras de contenção (sump), de acordo com o disposto na [[abnt-nbr-13786|ABNT NBR 13786]], ou outras que a venham substituir. Este monitoramento deve permanecer sempre ligado e com todos os sensores em perfeito funcionamento, com emissão dos extratos de estado dos sensores e de eventuais ocorrências.
 
@@ -1323,19 +1260,16 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 64º {#art64}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 64º, caput** {#art64_cpt} O armazenamento de óleo lubrificante usado poderá ser realizado em tanques e linhas aéreas, dotados de bacia de contenção, com piso impermeável e cobertura. No caso da implantação de tanques subterrâneos, os mesmos deverão ser de paredes duplas, com Sistema de Monitoramento para Detecção de Vazamentos – SMDV.
 
 ###### Art. 65º {#art65}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 65º, caput** {#art65_cpt} O piso das áreas de troca de óleo lubrificante, lubrificação, borracharia e oficina mecânica deve ser construído de forma a garantir sua condição de impermeabilização.
 
 ###### Art. 66º {#art66}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 66º, caput** {#art66_cpt} Todo efluente gerado na área de troca de óleo lubrificante, lubrificação, borracharia e oficina mecânica deverá ser contido e direcionado para sistema de tratamento.
 
@@ -1344,7 +1278,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 67º {#art67}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 67º, caput** {#art67_cpt} Os empreendimentos definidos no [[#art2|art. 2º]] da presente Instrução Normativa e que realizem lavagem de veículos devem integrar tal atividade na licença ambiental do empreendimento.
 
@@ -1358,7 +1291,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 68º {#art68}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 68º, caput** {#art68_cpt} Em caso de atividade de lavagem (novas ou já instaladas) na área do empreendimento, operada por terceiros, com CNPJ distinto, faz-se necessário licenciamento ambiental específico junto ao órgão ambiental competente.
 
@@ -1367,25 +1299,21 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 69º {#art69}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 69º, caput** {#art69_cpt} O projeto, montagem e operação de postos que revendem gás natural veicular devem atender integralmente aos procedimentos estabelecidos na [[abnt-nbr-12236|ABNT NBR 12236]] ou outras que a venham substituir.
 
 ###### Art. 70º {#art70}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 70º, caput** {#art70_cpt} Para postos que revendem gás natural veicular deve ser apresentada autorização da concessionária de energia elétrica, autorizando o projeto elétrico para estas instalações, com previsão de válvula de bloqueio geral, instalada em área não classificada como de fácil acesso, devendo ser convenientemente sinalizada.
 
 ###### Art. 71º {#art71}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 71º, caput** {#art71_cpt} Não é permitido o abastecimento de conjunto móvel para transporte de gás natural sem o licenciamento de ponto de abastecimento para este tipo de veículo.
 
 ###### Art. 72º {#art72}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 72º, caput** {#art72_cpt} Todos os equipamentos e acessórios devem sofrer manutenções preventivas e corretivas periodicamente, por profissional habilitado, considerando todos os itens recomendados na [[abnt-nbr-12236|ABNT NBR 12236]] ou outras que a venham substituir, bem como as prescritas pelos fabricantes.
 
@@ -1396,7 +1324,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 73º {#art73}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 73º, caput** {#art73_cpt} O sistema de tratamento de efluentes deve atender aos critérios estabelecidos pela norma [[abnt-nbr-14605|ABNT NBR 14605]], dos quais ressalta-se:
 
@@ -1408,7 +1335,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 74º {#art74}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 74º, caput** {#art74_cpt} A(s) caixa(s) separadora(s) de água e óleo - CSAO(s) instaladas no empreendimento deverão ser projetadas e implantadas considerando as características quali quantitativas do efluente gerado.
 
@@ -1422,7 +1348,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 75º {#art75}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 75º, caput** {#art75_cpt} A critério do órgão ambiental competente, mediante justificativa técnica, poderá ser exigida a implantação de etapas complementares de tratamento de efluentes, além da caixa separadora de água e óleo, sempre que:
 
@@ -1432,7 +1357,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 76º {#art76}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 76º, caput** {#art76_cpt} O efluente final tratado deverá atender aos seguintes padrões de lançamento:
 
@@ -1462,7 +1386,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 77º {#art77}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 77º, caput** {#art77_cpt} Os efluentes tratados podem ser destinados das seguintes formas:
 
@@ -1478,7 +1401,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 78º {#art78}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 78º, caput** {#art78_cpt} Fica dispensado de outorga de direito de uso de recursos hídricos ou de Declaração de Uso Insignificante de Outorga o lançamento de efluentes oleosos tratados provenientes das áreas operacionais e auxiliares das atividades dispostas no [[#art2|art. 2]] da presente Instrução Normativa, desde que não haja contribuição de efluentes sanitários.
 
@@ -1493,7 +1415,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 79º {#art79}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 79º, caput** {#art79_cpt} Quando não existir viabilidade para atendimento do empreendimento através de rede coletora de esgoto sanitário da concessionária, devem ser implantadas tecnologias viáveis e seguras de tratamento, seguindo as disposições contidas nas normas vigentes da Associação Brasileira de Normas Técnicas - ABNT.
 
@@ -1504,7 +1425,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 80º {#art80}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 80º, caput** {#art80_cpt} Os resíduos sólidos Classe I, classificados conforme [[abnt-nbr-10004|ABNT NBR 10004]] e suas atualizações, devem ser temporariamente armazenados no interior de bacia de contenção impermeabilizada e em local coberto até sua destinação final, conforme [[abnt-nbr-12235|ABNT NBR 12235]] e suas atualizações.
 
@@ -1512,19 +1432,16 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 81º {#art81}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 81º, caput** {#art81_cpt} Os resíduos sólidos perigosos Classe I (OLUC, filtros de óleo usados, embalagens de óleo lubrificante, entre outros) somente podem ser alienados para empresas licenciadas, para o seu recolhimento e destinação final.
 
 ###### Art. 82º {#art82}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 82º, caput** {#art82_cpt} Todo o óleo lubrificante usado ou contaminado deve ser alienado para coletor autorizado pela ANP e que possua Licença de Operação expedida pelo órgão ambiental, específica para coleta e transporte de OLUC, conforme determina a Resolução CONAMA n° 362 de 2005, alterada pela [[resolucao-conama-450-2012|Resolução CONAMA nº 450, de 6 de março de 2012]], sendo vedada a comercialização, doação ou destinação para qualquer outra finalidade.
 
 ###### Art. 83º {#art83}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 83º, caput** {#art83_cpt} As empresas gerenciadoras de resíduos sólidos Classe I (OLUC, filtros de óleo usados, embalagens de óleo lubrificante, entre outros) devem atender ao estabelecido na Portaria IAP nº 212 de 2009 e suas atualizações, quanto à emissão de Autorizações Ambientais para as Atividades de Gerenciamento de Resíduos Sólidos
 
@@ -1538,7 +1455,6 @@ dos postos revendedores, pontos de abastecimento, postos flutuantes, instalaçã
 
 ###### Art. 84º {#art84}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 84º, caput** {#art84_cpt} As atividades a que se referem a presente Instrução Normativa e que possuírem poço tubular ou poço cacimba, devem, obrigatoriamente, realizar monitoramento semestral da qualidade de água, contemplando análises dos parâmetros BTEX, PAH’s e TPH’s.
 
@@ -1549,7 +1465,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 85º {#art85}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 85º, caput** {#art85_cpt} Os empreendimentos do tipo Postos Revendedores e Bases de Distribuição definidos no [[#art2|art. 2º]] da presente Instrução Normativa, devem realizar o monitoramento semestral dos poços de monitoramento instalados na área do empreendimento, contemplando os parâmetros BTEX, HPA e TPH Fingerprint.
 
@@ -1563,7 +1478,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 86º {#art86}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 86º, caput** {#art86_cpt} Os empreendimentos sujeitos ao monitoramento da água subterrânea citados no art. 85 devem proceder a instalação de poços de monitoramento antes da entrada em operação da atividade.
 
@@ -1571,7 +1485,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 87º {#art87}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 87º, caput** {#art87_cpt} Os poços de monitoramento devem ser georreferenciados e locados à jusante e o mais próximo possível das fontes primárias de contaminação como: pista de abastecimento, área de tancagem, área de filtros e CSAO.
 
@@ -1579,7 +1492,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 88º {#art88}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 88º, caput** {#art88_cpt} O laboratório responsável pela execução e emissão de laudos referentes aos ensaios físico-químicos e biológicos de amostras retiradas de fontes de poluição ambiental e/ou matrizes ambientais, deve ter o Certificado de Cadastramento de Laboratório (CCL), concedido pelo órgão ambiental, conforme estabelecido na [[resolucao-cema-100-2017|Resolução CEMA n° 100 de 2017]].
 
@@ -1587,7 +1499,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 89º {#art89}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 89º, caput** {#art89_cpt} Após transcorrido o prazo de um ano a partir da publicação desta Instrução Normativa, é obrigatória a adoção do método de amostragem por baixa-vazão. No caso de impossibilidade de adoção do método, outros métodos de amostragem poderão ser utilizados, mediante justificativa técnica plausível.
 
@@ -1596,13 +1507,11 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 90º {#art90}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 90º, caput** {#art90_cpt} Cabe ao empreendedor dar sequência aos procedimentos previstos no Gerenciamento de Áreas Contaminadas, independentemente da manifestação do órgão ambiental, nos casos previstos na presente Instrução Normativa.
 
 ###### Art. 91º {#art91}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 91º, caput** {#art91_cpt} As atividades armazenadoras e distribuidoras de combustíveis líquidos devem apresentar Avaliação Preliminar e Investigação Confirmatória de Passivos Ambientais, nos seguintes casos:
 
@@ -1618,7 +1527,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 92º {#art92}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 92º, caput** {#art92_cpt} As atividades armazenadoras e distribuidoras de combustíveis líquidos devem apresentar Investigação Detalhada e Avaliação de Risco à Saúde Humana quando identificadas concentrações de substâncias químicas de interesse, superiores aos Valores de Investigação (VI) nas amostras de água e/ou solo, ou identificação de fase livre.
 
@@ -1630,7 +1538,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 93º {#art93}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 93º, caput** {#art93_cpt} Quando da identificação de fase livre, o responsável técnico pelos estudos deve, obrigatoriamente, oficializar o empreendedor, o qual comunicará o fato ao órgão ambiental no prazo máximo de dez dias, conforme Anexo VIII, sob pena de aplicação das sanções legais cabíveis.
 
@@ -1662,13 +1569,11 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 94º {#art94}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 94º, caput** {#art94_cpt} Caberá ao empreendedor executar as atividades previstas no Plano de Intervenção elaborado na sequência do Estudo de Investigação Detalhada e Aplicação de Análise de Risco, a fim de reabilitar a área.
 
 ###### Art. 95º {#art95}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 95º, caput** {#art95_cpt} Conforme orientação do órgão ambiental, o responsável legal pelas áreas nas condições abaixo discriminadas, deve proceder a averbação da situação em que os imóveis se encontram nas respectivas matrículas imobiliárias:
 
@@ -1686,13 +1591,11 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 96º {#art96}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 96º, caput** {#art96_cpt} Caso sejam executadas Medidas de Intervenção, a área só será definida como Área Reabilitada para Uso Declarado – AR, se durante no mínimo 02 (dois) anos de execução do Plano de Monitoramento para Encerramento, não tiverem sido ultrapassadas as Concentrações Máximas Aceitáveis definidas para o caso, e não existirem mudanças no cenário de exposição ou na contaminação, que não tenham sido contempladas em Estudo de Investigação Detalhada e Avaliação de Risco à Saúde Humana anteriores.
 
 ###### Art. 97º {#art97}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 97º, caput** {#art97_cpt} Os responsáveis pela execução da avaliação preliminar, investigação confirmatória, investigação detalhada e avaliação de risco devem atender aos procedimentos estabelecidos em portaria específica publicada pelo órgão ambiental, e na ausência destas, deverão ser consideradas as normas vigentes da Associação Brasileira de Normas Técnicas - ABNT.
 
@@ -1701,7 +1604,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 98º {#art98}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 98º, caput** {#art98_cpt} Deve ser apresentado anualmente ao órgão ambiental licenciador, Relatório de Vistoria Técnica – RVT, emitido pelo responsável técnico do empreendimento, acompanhado da respectiva ART, em meio digital, o qual deverá incluir, no mínimo, os seguintes itens:
 
@@ -1732,7 +1634,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 99º {#art99}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 99º, caput** {#art99_cpt} Para a desativação de empreendimentos listados no [[#art2|art. 2º]] da presente Instrução Normativa, o responsável legal pelo empreendimento deve solicitar ao órgão ambiental competente, Autorização Ambiental, através de protocolo no sistema informatizado e dirigido ao Diretor Presidente, instruído com os seguintes documentos:
 
@@ -1761,7 +1662,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 100º {#art100}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 100º, caput** {#art100_cpt} Em caso de confirmação de contaminação na área, o empreendimento deve seguir as etapas previstas em normativas específicas para o Gerenciamento de Áreas Contaminadas, publicadas pelo órgão ambiental.
 
@@ -1770,7 +1670,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 101º {#art101}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 101º, caput** {#art101_cpt} Os Estudos de Passivos Ambientais – Avaliação Preliminar e Investigação Confirmatória de Passivos Ambientais, devem ser apresentados em período não superior a doze anos, contados da data do último estudo apresentado.
 
@@ -1780,7 +1679,6 @@ um novo estudo deverá ser apresentado com base nas diretrizes da presente Instr
 
 ###### Art. 102º {#art102}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 102º, caput** {#art102_cpt} Estudos ambientais considerados incompletos ou que não atendam as diretrizes específicas ou que sejam inadequados, devem ser corrigidos e reapresentados pelo empreendedor, conforme solicitação de complementação e de prazos fixados pelo órgão ambiental competente.
 
@@ -1794,25 +1692,21 @@ Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 ###### Art. 103º {#art103}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 103º, caput** {#art103_cpt} Esta Instrução Normativa deverá ser reavaliada a cada 04 (quatro) anos ou a qualquer tempo, quando o órgão ambiental considerar necessário.
 
 ###### Art. 104º {#art104}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 104º, caput** {#art104_cpt} O descumprimento das disposições desta Instrução Normativa e dos termos estabelecidos nas Licenças Ambientais é considerado infração administrativa ambiental, nos termos do art. 70 da [[lei-federal-9605-1998|Lei nº 9.605]], de 12 de fevereiro de 1998, e de seu [[decreto-federal-6514-2008|Decreto Regulamentador n.º 6.514]], de 22 de julho de 2008, sem prejuízo do dever de recuperar os danos ambientais causados, na forma do § 3º do art. 225, da [[constituicao-federal-1988|Constituição Federal]], e do § 1º do art. 14 dada [[lei-federal-6938-1981|Lei Federal nº 6.938]], de 31 de agosto de 1981.
 
 ###### Art. 105º {#art105}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 105º, caput** {#art105_cpt} Os casos omissos serão avaliados pelo corpo técnico do IAT
 
 ###### Art. 106º {#art106}
 
-Tags: #posto-combustivel #licenciamento-ambiental #area-contaminada
 
 **Art. 106º, caput** {#art106_cpt} Esta Instrução Normativa entra em vigor na data de sua publicação, tornando sem efeito a [[instrucao-normativa-iat-39-2025|Instrução Normativa nº 39]], de 29 de abril de 2025, publicada no DIOE nº 11893, de 30 de abril de 2025.
 

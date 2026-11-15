@@ -19,86 +19,86 @@ fonte: PDF da IN IAT 30/2025 (4214bd52-IN_302025.pdf), páginas 55 a 59
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo IV, linha 1** {#anexo4_lin1} #art-anotacao #responsavel-tecnico O PLANO DE CONTROLE AMBIENTAL deverá ser elaborado por técnico habilitado e apresentados para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo IV, linha 1** {#anexo4_lin1} O PLANO DE CONTROLE AMBIENTAL deverá ser elaborado por técnico habilitado e apresentados para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 - **Anexo IV, linha 2** {#anexo4_lin2} 1. DADOS CADASTRAIS
 - **Anexo IV, linha 3** {#anexo4_lin3} • Razão social;
-- **Anexo IV, linha 4** {#anexo4_lin4} #cnpj • CNPJ;
+- **Anexo IV, linha 4** {#anexo4_lin4} • CNPJ;
 - **Anexo IV, linha 5** {#anexo4_lin5} • Endereço;
-- **Anexo IV, linha 6** {#anexo4_lin6} #responsavel-legal • Nome do representante legal;
+- **Anexo IV, linha 6** {#anexo4_lin6} • Nome do representante legal;
 - **Anexo IV, linha 7** {#anexo4_lin7} • Telefone do representante legal;
 - **Anexo IV, linha 8** {#anexo4_lin8} • E-mail do representante legal;
 - **Anexo IV, linha 9** {#anexo4_lin9} • Pessoa para contato;
 - **Anexo IV, linha 10** {#anexo4_lin10} • Telefone da pessoa para contato;
 - **Anexo IV, linha 11** {#anexo4_lin11} • E-mail da pessoa para contato.
-- **Anexo IV, linha 12** {#anexo4_lin12} #responsavel-tecnico 2. DADOS DO RESPOSNÁVEL TÉCNICO PELO PCA
-- **Anexo IV, linha 13** {#anexo4_lin13} #responsavel-tecnico • Nome do responsável
+- **Anexo IV, linha 12** {#anexo4_lin12} 2. DADOS DO RESPOSNÁVEL TÉCNICO PELO PCA
+- **Anexo IV, linha 13** {#anexo4_lin13} • Nome do responsável
 - **Anexo IV, linha 14** {#anexo4_lin14} • Razão social
-- **Anexo IV, linha 15** {#anexo4_lin15} #cpf #cnpj • CPF ou CNPJ
+- **Anexo IV, linha 15** {#anexo4_lin15} • CPF ou CNPJ
 - **Anexo IV, linha 16** {#anexo4_lin16} • Endereço;
-- **Anexo IV, linha 17** {#anexo4_lin17} #art-anotacao • Anotação de Responsabilidade Técnica – ART
+- **Anexo IV, linha 17** {#anexo4_lin17} • Anotação de Responsabilidade Técnica – ART
 - **Anexo IV, linha 18** {#anexo4_lin18} 3. DESCRIÇÃO DA ATIVIDADE/EMPREENDIMENTO
 - **Anexo IV, linha 19** {#anexo4_lin19} 3.1. Concepção e justificativa de projeto
 - **Anexo IV, linha 20** {#anexo4_lin20} Devem ser apresentadas a concepção e a metodologia de operação, justificando face às suas finalidades.
 - **Anexo IV, linha 21** {#anexo4_lin21} 3.2. Informações sobre a área do projeto:
-- **Anexo IV, linha 22** {#anexo4_lin22} #area-construida Devem ser apresentadas as seguintes informações sobre a área total do projeto: área total, área construída e área livre.
+- **Anexo IV, linha 22** {#anexo4_lin22} Devem ser apresentadas as seguintes informações sobre a área total do projeto: área total, área construída e área livre.
 - **Anexo IV, linha 23** {#anexo4_lin23} 3.3. Caracterização do empreendimento
 - **Anexo IV, linha 24** {#anexo4_lin24} • Fluxograma e descrição detalhada do processo: Apresentar uma descrição da atividade, bem como um fluxograma detalhado da operação, contendo todas as atividades realizadas no empreendimento.
-- **Anexo IV, linha 25** {#anexo4_lin25} #residuo-solido-urbano #transbordo • Informações sobre os resíduos: origem, composição/gravimetria; quantidade diária e mensal a ser recebida, frequência e horário de recebimento
-- **Anexo IV, linha 26** {#anexo4_lin26} #transbordo #armazenamento-residuo #acondicionamento • Transferência dos resíduos: descrever local onde ocorrerá a transferência e armazenamento e a forma como os resíduos serão transferidos, acondicionados e armazenados. Especificar o tempo total que os resíduos permaneceram na área, desde sua chegada até encaminhamento ao destino final.
+- **Anexo IV, linha 25** {#anexo4_lin25} • Informações sobre os resíduos: origem, composição/gravimetria; quantidade diária e mensal a ser recebida, frequência e horário de recebimento
+- **Anexo IV, linha 26** {#anexo4_lin26} • Transferência dos resíduos: descrever local onde ocorrerá a transferência e armazenamento e a forma como os resíduos serão transferidos, acondicionados e armazenados. Especificar o tempo total que os resíduos permaneceram na área, desde sua chegada até encaminhamento ao destino final.
 - **Anexo IV, linha 27** {#anexo4_lin27} • Instalações de apoio
-- **Anexo IV, linha 28** {#anexo4_lin28} #sistema-isolamento • Acessos e isolamento da área
-- **Anexo IV, linha 29** {#anexo4_lin29} #obra-civil #terraplanagem 3.4. Informações referente à implantação: descrição das intervenções previstas para implantação do empreendimento, infraestrutura necessária (canteiro do obras), como terraplanagem e outros.
-- **Anexo IV, linha 30** {#anexo4_lin30} #diagnostico-ambiental 4. DIAGNÓSTICO AMBIENTAL
+- **Anexo IV, linha 28** {#anexo4_lin28} • Acessos e isolamento da área
+- **Anexo IV, linha 29** {#anexo4_lin29} 3.4. Informações referente à implantação: descrição das intervenções previstas para implantação do empreendimento, infraestrutura necessária (canteiro do obras), como terraplanagem e outros.
+- **Anexo IV, linha 30** {#anexo4_lin30} 4. DIAGNÓSTICO AMBIENTAL
 - **Anexo IV, linha 31** {#anexo4_lin31} 4.1. Caracterização da área
-- **Anexo IV, linha 32** {#anexo4_lin32} #uso-solo • Uso e ocupação do solo;
-- **Anexo IV, linha 33** {#anexo4_lin33} #corpo-hidrico • Corpos hídricos existentes na área;
-- **Anexo IV, linha 34** {#anexo4_lin34} #nascente • Existência de nascentes e olhos d’água;
-- **Anexo IV, linha 35** {#anexo4_lin35} #conservacao-solo • Suscetibilidade do terreno à erosão;
-- **Anexo IV, linha 36** {#anexo4_lin36} #vegetacao-nativa #especie-exotica • Existência de cobertura florestal informando áreas de vegetação nativa e exótica;
-- **Anexo IV, linha 37** {#anexo4_lin37} #app • Existência de áreas de preservação permanente;
-- **Anexo IV, linha 38** {#anexo4_lin38} #reserva-legal #area-verde-urbana • Ocorrência de Reserva Legal ou Área Verde Urbana;
-- **Anexo IV, linha 39** {#anexo4_lin39} #fauna • Espécies de animais predominantes, quando aplicável;
-- **Anexo IV, linha 40** {#anexo4_lin40} #bem-cultural • Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;
-- **Anexo IV, linha 41** {#anexo4_lin41} #geologia • Caracterização da geomorfologia/relevo;
-- **Anexo IV, linha 42** {#anexo4_lin42} #unidade-conservacao • Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais na área do empreendimento e no seu entorno.
-- **Anexo IV, linha 43** {#anexo4_lin43} #impacto-ambiental #medida-mitigadora #medida-compensatoria 4.2. Identificação dos impactos ambientais: identificar os principais impactos que poderão ocorrer em função da implantação e operação do empreendimento. Para cada impacto indicado, descrever as medidas mitigatórias, de controle ou de compensação correspondente.
-- **Anexo IV, linha 44** {#anexo4_lin44} #controle-ambiental 5. PROJETO DE CONTROLE DA POLUIÇÃO AMBIENTAL
-- **Anexo IV, linha 45** {#anexo4_lin45} #captacao 5.1. Abastecimento de água
-- **Anexo IV, linha 46** {#anexo4_lin46} #captacao Apresentar informações referentes ao abastecimento de água para o empreendimento
-- **Anexo IV, linha 47** {#anexo4_lin47} #efluente 5.2. Efluentes Líquidos
-- **Anexo IV, linha 48** {#anexo4_lin48} #efluente Identificar os efluentes líquidos gerados na implantação e operação do empreendimento. Descrever os sistemas de controle ambiental associados aos efluentes líquidos, descrevendo as condições de coleta, armazenamento e destinação final.
-- **Anexo IV, linha 49** {#anexo4_lin49} #esgoto-sanitario 5.3. Efluente sanitário
-- **Anexo IV, linha 50** {#anexo4_lin50} #esgoto-sanitario #tratamento-esgoto #dimensionamento Descrição do sistema de coleta, tratamento e destinação final dos efluentes sanitários gerados na implantação e operação do sistema. Apresentar dimensionamento em conformidade com as normas técnicas específicas da ABNT NBR 17076, 12209 e demais aplicáveis.
-- **Anexo IV, linha 51** {#anexo4_lin51} #residuo-solido 5.4. Resíduos sólidos
-- **Anexo IV, linha 52** {#anexo4_lin52} #residuo-solido #gerenciamento-residuo #armazenamento-residuo #destinacao-final Identificar os resíduos, fontes de geração, considerando as etapas de implantação e operação. Descrever os sistemas de controle ambiental para o gerenciamento dos resíduos sólidos, detalhando o armazenamento e destinação final dos resíduos sólidos.
-- **Anexo IV, linha 53** {#anexo4_lin53} #residuo-construcao-civil 5.5. Resíduos sólidos da construção civil
-- **Anexo IV, linha 54** {#anexo4_lin54} #residuo-construcao-civil • Caracterização e quantificação dos resíduos gerados nas etapas de construção civil e/ou instalação;
-- **Anexo IV, linha 55** {#anexo4_lin55} #residuo-construcao-civil #segregacao • Descrição de previsão de segregação de resíduos na origem pelo gerador nas etapas de construção e/ou instalação;
-- **Anexo IV, linha 56** {#anexo4_lin56} #residuo-construcao-civil #armazenamento-residuo #acondicionamento • Descrição das formas de armazenamento e acondicionamento dos resíduos gerados nas etapas de construção e/ou instalação.
-- **Anexo IV, linha 57** {#anexo4_lin57} #residuo-construcao-civil #transporte #destinacao-final • Descrição da previsão de responsáveis e formas de transporte e destinação final dos resíduos gerados nas etapas de construção e/ou instalação.
-- **Anexo IV, linha 58** {#anexo4_lin58} #residuo-construcao-civil #destinacao-final • A destinação final dos resíduos gerados na etapa de implantação deverá ocorrer conforme legislação vigente.
-- **Anexo IV, linha 59** {#anexo4_lin59} #emissao-atmosferica 5.6. Emissões Atmosféricas
-- **Anexo IV, linha 60** {#anexo4_lin60} #emissao-atmosferica Identificar as fontes de emissões atmosféricas. Descrever os sistemas de controle ambiental adotados.
-- **Anexo IV, linha 61** {#anexo4_lin61} #terraplanagem 5.7. Movimentação de solo
-- **Anexo IV, linha 62** {#anexo4_lin62} #terraplanagem Caso necessário, apresentar projeto de terraplenagem
+- **Anexo IV, linha 32** {#anexo4_lin32} • Uso e ocupação do solo;
+- **Anexo IV, linha 33** {#anexo4_lin33} • Corpos hídricos existentes na área;
+- **Anexo IV, linha 34** {#anexo4_lin34} • Existência de nascentes e olhos d’água;
+- **Anexo IV, linha 35** {#anexo4_lin35} • Suscetibilidade do terreno à erosão;
+- **Anexo IV, linha 36** {#anexo4_lin36} • Existência de cobertura florestal informando áreas de vegetação nativa e exótica;
+- **Anexo IV, linha 37** {#anexo4_lin37} • Existência de áreas de preservação permanente;
+- **Anexo IV, linha 38** {#anexo4_lin38} • Ocorrência de Reserva Legal ou Área Verde Urbana;
+- **Anexo IV, linha 39** {#anexo4_lin39} • Espécies de animais predominantes, quando aplicável;
+- **Anexo IV, linha 40** {#anexo4_lin40} • Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;
+- **Anexo IV, linha 41** {#anexo4_lin41} • Caracterização da geomorfologia/relevo;
+- **Anexo IV, linha 42** {#anexo4_lin42} • Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais na área do empreendimento e no seu entorno.
+- **Anexo IV, linha 43** {#anexo4_lin43} 4.2. Identificação dos impactos ambientais: identificar os principais impactos que poderão ocorrer em função da implantação e operação do empreendimento. Para cada impacto indicado, descrever as medidas mitigatórias, de controle ou de compensação correspondente.
+- **Anexo IV, linha 44** {#anexo4_lin44} 5. PROJETO DE CONTROLE DA POLUIÇÃO AMBIENTAL
+- **Anexo IV, linha 45** {#anexo4_lin45} 5.1. Abastecimento de água
+- **Anexo IV, linha 46** {#anexo4_lin46} Apresentar informações referentes ao abastecimento de água para o empreendimento
+- **Anexo IV, linha 47** {#anexo4_lin47} 5.2. Efluentes Líquidos
+- **Anexo IV, linha 48** {#anexo4_lin48} Identificar os efluentes líquidos gerados na implantação e operação do empreendimento. Descrever os sistemas de controle ambiental associados aos efluentes líquidos, descrevendo as condições de coleta, armazenamento e destinação final.
+- **Anexo IV, linha 49** {#anexo4_lin49} 5.3. Efluente sanitário
+- **Anexo IV, linha 50** {#anexo4_lin50} Descrição do sistema de coleta, tratamento e destinação final dos efluentes sanitários gerados na implantação e operação do sistema. Apresentar dimensionamento em conformidade com as normas técnicas específicas da ABNT NBR 17076, 12209 e demais aplicáveis.
+- **Anexo IV, linha 51** {#anexo4_lin51} 5.4. Resíduos sólidos
+- **Anexo IV, linha 52** {#anexo4_lin52} Identificar os resíduos, fontes de geração, considerando as etapas de implantação e operação. Descrever os sistemas de controle ambiental para o gerenciamento dos resíduos sólidos, detalhando o armazenamento e destinação final dos resíduos sólidos.
+- **Anexo IV, linha 53** {#anexo4_lin53} 5.5. Resíduos sólidos da construção civil
+- **Anexo IV, linha 54** {#anexo4_lin54} • Caracterização e quantificação dos resíduos gerados nas etapas de construção civil e/ou instalação;
+- **Anexo IV, linha 55** {#anexo4_lin55} • Descrição de previsão de segregação de resíduos na origem pelo gerador nas etapas de construção e/ou instalação;
+- **Anexo IV, linha 56** {#anexo4_lin56} • Descrição das formas de armazenamento e acondicionamento dos resíduos gerados nas etapas de construção e/ou instalação.
+- **Anexo IV, linha 57** {#anexo4_lin57} • Descrição da previsão de responsáveis e formas de transporte e destinação final dos resíduos gerados nas etapas de construção e/ou instalação.
+- **Anexo IV, linha 58** {#anexo4_lin58} • A destinação final dos resíduos gerados na etapa de implantação deverá ocorrer conforme legislação vigente.
+- **Anexo IV, linha 59** {#anexo4_lin59} 5.6. Emissões Atmosféricas
+- **Anexo IV, linha 60** {#anexo4_lin60} Identificar as fontes de emissões atmosféricas. Descrever os sistemas de controle ambiental adotados.
+- **Anexo IV, linha 61** {#anexo4_lin61} 5.7. Movimentação de solo
+- **Anexo IV, linha 62** {#anexo4_lin62} Caso necessário, apresentar projeto de terraplenagem
 - **Anexo IV, linha 63** {#anexo4_lin63} 6. REPRESENTAÇÃO GRÁFICA
 - **Anexo IV, linha 64** {#anexo4_lin64} 6.1. Planta da concepção geral
-- **Anexo IV, linha 65** {#anexo4_lin65} #georreferenciamento Devem ser apresentados em desenho georreferenciado os seguintes elementos:
-- **Anexo IV, linha 66** {#anexo4_lin66} #georreferenciamento • localização geográfica da Unidade;
+- **Anexo IV, linha 65** {#anexo4_lin65} Devem ser apresentados em desenho georreferenciado os seguintes elementos:
+- **Anexo IV, linha 66** {#anexo4_lin66} • localização geográfica da Unidade;
 - **Anexo IV, linha 67** {#anexo4_lin67} • acessos principais e instalações de apoio;
-- **Anexo IV, linha 68** {#anexo4_lin68} #corpo-hidrico • corpos da água e indicação da distância com relação a Unidade.
-- **Anexo IV, linha 69** {#anexo4_lin69} #aglomerado-populacional • distância com relação à núcleos populacionais e residências isoladas.
-- **Anexo IV, linha 70** {#anexo4_lin70} #sistema-isolamento • indicação do isolamento da área;
-- **Anexo IV, linha 71** {#anexo4_lin71} #reserva-legal • indicação da área de Reserva Legal;
-- **Anexo IV, linha 72** {#anexo4_lin72} #app • indicação das áreas de Preservação Permanente;
-- **Anexo IV, linha 73** {#anexo4_lin73} #flora • indicação de demais áreas com presença de vegetação, se aplicável.
-- **Anexo IV, linha 74** {#anexo4_lin74} #transbordo 6.2. Planta com detalhes da Unidade de Transbordo
+- **Anexo IV, linha 68** {#anexo4_lin68} • corpos da água e indicação da distância com relação a Unidade.
+- **Anexo IV, linha 69** {#anexo4_lin69} • distância com relação à núcleos populacionais e residências isoladas.
+- **Anexo IV, linha 70** {#anexo4_lin70} • indicação do isolamento da área;
+- **Anexo IV, linha 71** {#anexo4_lin71} • indicação da área de Reserva Legal;
+- **Anexo IV, linha 72** {#anexo4_lin72} • indicação das áreas de Preservação Permanente;
+- **Anexo IV, linha 73** {#anexo4_lin73} • indicação de demais áreas com presença de vegetação, se aplicável.
+- **Anexo IV, linha 74** {#anexo4_lin74} 6.2. Planta com detalhes da Unidade de Transbordo
 - **Anexo IV, linha 75** {#anexo4_lin75} • limites da área total a ser utilizada;
 - **Anexo IV, linha 76** {#anexo4_lin76} • área de transferência dos resíduos
 - **Anexo IV, linha 77** {#anexo4_lin77} • rampa de acesso
-- **Anexo IV, linha 78** {#anexo4_lin78} #cobertura-residuo • sistema de cobertura
+- **Anexo IV, linha 78** {#anexo4_lin78} • sistema de cobertura
 - **Anexo IV, linha 79** {#anexo4_lin79} • estrutura
-- **Anexo IV, linha 80** {#anexo4_lin80} #agua-pluvial #efluente • sistema de drenagem, caixa de acúmulo de efluente
+- **Anexo IV, linha 80** {#anexo4_lin80} • sistema de drenagem, caixa de acúmulo de efluente
 - **Anexo IV, linha 81** {#anexo4_lin81} • cortes longitudinais e transversais, onde necessário, para melhor visualização dos elementos do sistema.
 - **Anexo IV, linha 82** {#anexo4_lin82} 7. CRONOGRAMA
 - **Anexo IV, linha 83** {#anexo4_lin83} Apresentar cronograma de implantação e operação.

@@ -34,7 +34,6 @@ fonte: "Câmara dos Deputados – Centro de Documentação e Informação, texto
 ### Seção I – Da Estrutura e Finalidade do PMCMV
 
 ###### Art. 1º {#art1}
-Tags:
 Alterações: [[lei-federal-15081-2024|Lei nº 15.081, de 30/12/2024]] (nova redação: caput); [[lei-federal-13173-2015|Lei nº 13.173, de 21/10/2015]] (nova redação: inciso I, inciso II; renumerado: § 1º); [[medida-provisoria-514-2010|Medida Provisória nº 514, de 1/12/2010]] (incluído: § 1º, § 1º, inciso I, § 1º, inciso II, § 1º, inciso III, § 1º, inciso IV, § 1º, inciso V, § 1º, inciso VI); [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído: § 1º; nova redação: § 1º, inciso I, § 1º, inciso II, § 1º, inciso III, § 1º, inciso IV, § 1º, inciso V, § 1º, inciso VI)
 
 **Art. 1º, caput** {#art1_cpt} #redacao-alterada O Programa Minha Casa, Minha Vida (PMCMV) tem por finalidade criar mecanismos de incentivo à produção e à aquisição de novas unidades habitacionais, à requalificação de imóveis urbanos, à regularização fundiária de assentamentos localizados em áreas urbanas e à produção ou reforma de habitações rurais, para famílias com renda mensal de até R$ 4.650,00 (quatro mil, seiscentos e cinquenta reais), e compreende os seguintes subprogramas: *(“Caput” do artigo com redação dada pela [[lei-federal-15081-2024|Lei nº 15.081, de 30/12/2024]])*
@@ -53,7 +52,6 @@ Alterações: [[lei-federal-15081-2024|Lei nº 15.081, de 30/12/2024]] (nova red
 **Art. 1º, § 2º** {#art1_par2} (VETADO na [[lei-federal-13173-2015|Lei nº 13.173, de 21/10/2015]])
 
 ###### Art. 2º {#art2}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (nova redação: caput, inciso I, inciso III, inciso IV, inciso V; incluído: inciso II, § 1º, § 2º); [[medida-provisoria-514-2010|Medida Provisória nº 514, de 1/12/2010]] (incluído: inciso I, inciso II, inciso III, inciso IV, inciso V); [[medida-provisoria-561-2012|Medida Provisória nº 561, de 8/3/2012]] (nova redação: inciso II); [[lei-federal-12693-2012|Lei nº 12.693, de 24/7/2012]] (nova redação: inciso II); [[lei-federal-15081-2024|Lei nº 15.081, de 30/12/2024]] (incluído: inciso VI)
 
 **Art. 2º, caput** {#art2_cpt} #redacao-alterada Para a implementação do PMCMV, a União, observada a disponibilidade orçamentária e financeira: *(“Caput” do artigo com redação dada pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
@@ -71,7 +69,6 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (nova reda
 **Art. 2º, § 3º** {#art2_par3} (VETADO na [[lei-federal-13274-2016|Lei nº 13.274, de 26/4/2016]])
 
 ###### Art. 3º {#art3}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (nova redação: caput, inciso I, inciso II, inciso IV, § 3º, inciso I, § 3º, inciso II, § 4º, § 6º; incluído: inciso III, inciso V); [[medida-provisoria-514-2010|Medida Provisória nº 514, de 1/12/2010]] (incluído: inciso I, inciso II, inciso III, inciso IV, § 3º, inciso I, § 3º, inciso II, § 4º, § 5º, § 6º); [[lei-federal-13274-2016|Lei nº 13.274, de 26/4/2016]] (nova redação: inciso III; incluído: § 7º, § 8º); [[lei-federal-15081-2024|Lei nº 15.081, de 30/12/2024]] (incluído: § 3º, inciso III); [[lei-federal-13590-2018|Lei nº 13.590, de 4/1/2018]] (incluído: § 5º); [[medida-provisoria-996-2020|Medida Provisória nº 996, de 25/8/2020]] (nova redação: § 5º); [[lei-federal-14118-2021|Lei nº 14.118, de 12/1/2021]] (nova redação: § 5º)
 
 **Art. 3º, caput** {#art3_cpt} #redacao-alterada Para a indicação dos beneficiários do PMCMV, deverão ser observados os seguintes requisitos: *(“Caput” do artigo com redação dada pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
@@ -114,7 +111,6 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (nova reda
 ### Seção II – Do Programa Nacional de Habitação Urbana - PNHU
 
 ###### Art. 4º {#art4}
-Tags:
 Alterações: [[medida-provisoria-651-2014|Medida Provisória nº 651, de 9/7/2014]] (nova redação: caput); [[lei-federal-13043-2014|Lei nº 13.043, de 13/11/2014]] (nova redação: caput); [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (revogado: § 1º, inciso I, § 1º, inciso III); [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]] (revogado: § 2º)
 
 **Art. 4º, caput** {#art4_cpt} #redacao-alterada O Programa Nacional de Habitação Urbana - PNHU tem por objetivo promover a produção ou aquisição de novas unidades habitacionais ou a requalificação de imóveis urbanos, desde 14 de abril de 2009. *(“Caput” do artigo com redação dada pela [[medida-provisoria-651-2014|Medida Provisória nº 651, de 9/7/2014]], convertida na [[lei-federal-13043-2014|Lei nº 13.043, de 13/11/2014]])*
@@ -133,13 +129,11 @@ Alterações: [[medida-provisoria-651-2014|Medida Provisória nº 651, de 9/7/20
 **Art. 4º, § 5º** {#art4_par5} (VETADO na [[lei-federal-15081-2024|Lei nº 15.081, de 30/12/2024]])
 
 ###### Art. 5º {#art5}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (revogado: caput)
 
 **Art. 5º, caput** {#art5_cpt} #revogado *(Revogado a partir de 31/12/2011, de acordo com inciso III do art. 13 da [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])* *(Vide [[medida-provisoria-514-2010|Medida Provisória nº 514, de 1/12/2010]])* *(Nota de rodapé 1 do original, ligada à chamada "(*)": Artigo revogado a partir de 31/12/2010 pela [[medida-provisoria-514-2010|Medida Provisória nº 514, de 1/12/2010]] e mantido até 31/12/2011 pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]], na qual foi convertida a referida Medida Provisória)*
 
 ###### Art. 5º-A {#art5-a}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído: caput)
 
 **Art. 5º-A, caput** {#art5-a_cpt} #incluido Para a implantação de empreendimentos no âmbito do PNHU, deverão ser observados: *(Artigo acrescido pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
@@ -149,7 +143,6 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído
 - **Art. 5º-A, caput, inciso IV** {#art5-a_cpt_inc4} a existência ou compromisso do poder público local de instalação ou de ampliação dos equipamentos e serviços relacionados a educação, saúde, lazer e transporte público.
 
 ###### Art. 6º {#art6}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (nova redação: caput, § 1º); [[lei-federal-12249-2010|Lei nº 12.249, de 11/6/2010]] (nova redação: inciso I); [[medida-provisoria-561-2012|Medida Provisória nº 561, de 8/3/2012]] (revogado: § 3º, § 4º, § 5º); [[lei-federal-12693-2012|Lei nº 12.693, de 24/7/2012]] (revogado: § 3º, § 4º, § 5º); [[lei-federal-15081-2024|Lei nº 15.081, de 30/12/2024]] (incluído: § 6º)
 
 **Art. 6º, caput** {#art6_cpt} #redacao-alterada A subvenção econômica de que trata o inciso I do art. [[#art2|2º]] será concedida no ato da contratação da operação de financiamento, com o objetivo de: *(“Caput” do artigo com redação dada pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
@@ -169,7 +162,6 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (nova reda
 **Art. 6º, § 6º** {#art6_par6} #incluido Serão estabelecidas em regulamento regras específicas sobre a contratação de financiamento nas ações de regularização fundiária de assentamentos localizados em áreas urbanas. *(Parágrafo acrescido pela [[lei-federal-15081-2024|Lei nº 15.081, de 30/12/2024]])*
 
 ###### Art. 6º-A {#art6-a}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído: caput, caput, inciso I, inciso II, inciso III, § 1º, § 2º, § 3º, inciso I, § 3º, inciso II); [[medida-provisoria-561-2012|Medida Provisória nº 561, de 8/3/2012]] (nova redação: caput, caput, § 3º, inciso I; incluído: § 3º, inciso III, § 4º, § 5º, § 5º, inciso I, § 5º, inciso II, § 5º, inciso III, § 6º, § 7º, § 8º); [[lei-federal-12693-2012|Lei nº 12.693, de 24/7/2012]] (nova redação: caput, caput, § 3º, inciso I; incluído: § 3º, inciso III, § 4º, § 5º, § 5º, inciso I, § 5º, inciso II, § 5º, inciso III, § 6º, § 7º, § 8º); [[medida-provisoria-1162-2023|Medida Provisória nº 1.162, de 14/2/2023]] (nova redação: § 1º, § 5º, inciso I, § 5º, inciso II, § 7º, § 9º; revogado: § 2º, § 17, § 17, inciso I, § 17, inciso II, § 17, inciso III; incluído: § 18); [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]] (nova redação: § 1º, § 5º, inciso I, § 5º, inciso II, § 7º, § 9º, § 16; revogado: § 2º, § 17, § 17, inciso I, § 17, inciso II, § 17, inciso III; incluído: § 18, § 19); [[medida-provisoria-679-2015|Medida Provisória nº 679, de 23/6/2015]] (nova redação: § 3º, inciso II, § 3º, inciso III); [[lei-federal-13173-2015|Lei nº 13.173, de 21/10/2015]] (nova redação: § 3º, inciso II, § 3º, inciso III, § 10; incluído: § 11); [[lei-federal-13161-2015|Lei nº 13.161, de 31/8/2015]] (incluído: § 3º, inciso IV, § 10); [[lei-federal-13043-2014|Lei nº 13.043, de 13/11/2014]] (incluído: § 9º); [[medida-provisoria-698-2015|Medida Provisória nº 698, de 23/10/2015]] (incluído: § 12, § 13, § 14, § 15); [[lei-federal-13274-2016|Lei nº 13.274, de 26/4/2016]] (incluído: § 12, § 13, § 14, § 15); [[medida-provisoria-996-2020|Medida Provisória nº 996, de 25/8/2020]] (incluído: § 16, § 17, § 17, inciso I, § 17, inciso II); [[lei-federal-14118-2021|Lei nº 14.118, de 12/1/2021]] (incluído: § 16, § 17, § 17, inciso I, § 17, inciso II); [[medida-provisoria-1070-2021|Medida Provisória nº 1.070, de 13/9/2021]] (incluído: § 17, inciso III)
 
 **Art. 6º-A, caput** {#art6-a_cpt} #incluido #redacao-alterada As operações realizadas com recursos advindos da integralização de cotas no FAR e recursos transferidos ao FDS, conforme previsto no inciso II do caput do art. [[#art2|2º]], são limitadas a famílias com renda mensal de até R$ 1.395,00 (mil trezentos e noventa e cinco reais), e condicionadas a: *(“Caput” do artigo acrescido pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]], e com redação dada pela [[medida-provisoria-561-2012|Medida Provisória nº 561, de 8/3/2012]], convertida na [[lei-federal-12693-2012|Lei nº 12.693, de 24/7/2012]])* *(“Caput” do parágrafo acrescido pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]], e com redação dada pela [[medida-provisoria-561-2012|Medida Provisória nº 561, de 8/3/2012]], convertida na [[lei-federal-12693-2012|Lei nº 12.693, de 24/7/2012]])*
@@ -231,7 +223,6 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído
 - **Art. 6º-A, § 19, inciso V** {#art6-a_par19_inc5} estimular a sustentabilidade ambiental em região urbana, com a maximização da utilização de materiais e infraestrutura existentes.
 
 ###### Art. 6º-B {#art6-b}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído: caput, § 1º, § 2º, § 3º); [[medida-provisoria-561-2012|Medida Provisória nº 561, de 8/3/2012]] (incluído: § 4º); [[lei-federal-12693-2012|Lei nº 12.693, de 24/7/2012]] (incluído: § 4º)
 
 **Art. 6º-B, caput** {#art6-b_cpt} #incluido Para a concessão de subvenção econômica nas operações de que trata o inciso III do art. [[#art2|2º]], fica estabelecido que a instituição ou agente financeiro participante só poderá receber recursos até o máximo de 15% (quinze por cento) do total ofertado em cada oferta pública, na forma do regulamento, considerado o limite de 100 (cem) unidades habitacionais por Município. *(“Caput” do artigo acrescido pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
@@ -249,7 +240,6 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído
 **Art. 6º-B, § 4º** {#art6-b_par4} #incluido É vedada a concessão de subvenções econômicas de que trata o inciso III do caput do art. [[#art2|2º]] a beneficiário que tenha recebido benefício de natureza habitacional oriundo de recursos orçamentários da União, do FAR, do FDS ou de descontos habitacionais concedidos com recursos do FGTS, excetuadas as subvenções ou descontos destinados à aquisição de material de construção, na forma do regulamento. *(Parágrafo acrescido pela [[medida-provisoria-561-2012|Medida Provisória nº 561, de 8/3/2012]], convertida na [[lei-federal-12693-2012|Lei nº 12.693, de 24/7/2012]])*
 
 ###### Art. 6º-C {#art6-c}
-Tags:
 Alterações: [[lei-federal-15164-2025|Lei nº 15.164, de 14/7/2025]] (incluído: caput)
 
 **Art. 6º-C, caput** {#art6-c_cpt} #incluido Em situação de emergência ou estado de calamidade pública reconhecidos pela União, será garantida a cobertura de danos físicos ao imóvel contratado com recursos advindos da integralização de cotas no Fundo de Arrendamento Residencial (FAR) e recursos transferidos ao Fundo de Desenvolvimento Social (FDS), para reparação dos danos decorrentes do desastre originador da emergência ou calamidade. *(Artigo acrescido pela [[lei-federal-15164-2025|Lei nº 15.164, de 14/7/2025]])*
@@ -261,7 +251,6 @@ Alterações: [[lei-federal-15164-2025|Lei nº 15.164, de 14/7/2025]] (incluído
 - **Art. 6º-C, § 1º, inciso IV** {#art6-c_par1_inc4} será estendida aos contratos a que se referem os incisos I, II, III e IV do § 3º do art. [[#art6-a|6º-A]] desta Lei.
 
 ###### Art. 7º {#art7}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei n° 12.424, de 16/6/2011]] (nova redação: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (incluído: parágrafo único)
 
 **Art. 7º, caput** {#art7_cpt} #redacao-alterada Em casos de utilização dos recursos de que tratam os incisos I, II e III do art. [[#art2|2º]] em finalidade diversa da definida nesta Lei, ou em desconformidade ao disposto nos arts. [[#art6|6º]], [[#art6-a|6º-A]] e [[#art6|6º]]- B, será exigida a devolução ao erário do valor da subvenção concedida, acrescido de juros e atualização monetária, com base na remuneração dos recursos que serviram de lastro à sua concessão, sem prejuízo das penalidades previstas em lei. *(“Caput” do artigo com redação dada pela [[lei-federal-12424-2011|Lei n° 12.424, de 16/6/2011]])*
@@ -277,7 +266,6 @@ Alterações: [[lei-federal-12424-2011|Lei n° 12.424, de 16/6/2011]] (nova reda
 - **Art. 7º, parágrafo único, inciso VIII** {#art7_par1u_inc8} a definição dos procedimentos a serem adotados nos casos omissos caberá ao Ministério das Cidades.
 
 ###### Art. 7º-A {#art7-a}
-Tags:
 Alterações: [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (incluído: caput, parágrafo único); [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]] (nova redação: caput)
 
 **Art. 7º-A, caput** {#art7-a_cpt} #incluido #redacao-alterada Os beneficiários de operações do PMCMV realizadas com recursos advindos da integralização de cotas do FAR obrigam-se a ocupar os imóveis adquiridos, em até 30 (trinta) dias, a contar da assinatura do contrato de compra e venda com cláusula de alienação fiduciária em garantia, firmado com o FAR, e não poderão ser impedidos de habitar com seus animais domésticos nessas residências, respeitando as normas vigentes e garantindo o bem-estar animal. *(“Caput” do artigo acrescido pela [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]], com nova redação dada pela [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]])*
@@ -285,7 +273,6 @@ Alterações: [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (incluído
 **Art. 7º-A, parágrafo único** {#art7-a_par1u} #incluido Descumprido o prazo de que trata o caput deste artigo, fica o FAR automaticamente autorizado a declarar o contrato resolvido e a alienar o imóvel a beneficiário diverso, a ser indicado conforme a Política Nacional de Habitação. *(Parágrafo único acrescido pela [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 7º-B {#art7-b}
-Tags:
 Alterações: [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (incluído: caput, inciso I, inciso II, inciso III); [[medida-provisoria-1162-2023|Medida Provisória nº 1.162, de 14/2/2023]] (revogado: inciso III); [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]] (revogado: inciso III)
 
 **Art. 7º-B, caput** {#art7-b_cpt} #incluido Acarretam o vencimento antecipado da dívida decorrente de contrato de compra e venda com cláusula de alienação fiduciária em garantia firmado, no âmbito do PMCMV, com o FAR: *(“Caput” do artigo acrescido pela [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
@@ -294,7 +281,6 @@ Alterações: [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (incluído
 - **Art. 7º-B, caput, inciso III** {#art7-b_cpt_inc3} #incluido #revogado *(Inciso acrescido pela [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] e revogado pela [[medida-provisoria-1162-2023|Medida Provisória nº 1.162, de 14/2/2023]], convertida na [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]])*
 
 ###### Art. 7º-C {#art7-c}
-Tags:
 Alterações: [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (incluído: caput)
 
 **Art. 7º-C, caput** {#art7-c_cpt} #incluido Vencida antecipadamente a dívida, o FAR, na condição de credor fiduciário, munido de certidão comprobatória de processo administrativo que ateste a ocorrência de uma das hipóteses previstas no art. [[#art7-b|7º-B]] desta Lei, deverá requerer, ao oficial do registro de imóveis competente, que intime o beneficiário, ou seu representante legal ou procurador regularmente constituído, para satisfazer, no prazo previsto no § 1º do art. 26 da [[lei-federal-9514-1997|Lei nº 9.514, de 20 de novembro de 1997]], a integralidade da dívida, compreendendo a devolução da subvenção devidamente corrigida nos termos do art. [[#art7|7º]] desta Lei. *(Artigo acrescido pela [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
@@ -314,7 +300,6 @@ Alterações: [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (incluído
 **Art. 7º-C, § 7º** {#art7-c_par7} Caso não seja efetuada a intimação pessoal ou por hora certa, o oficial de registro de imóveis ou de registro de títulos e documentos ou o serventuário por eles credenciado promoverá a intimação do devedor fiduciante por edital, publicado por três dias, pelo menos, em um dos jornais de maior circulação ou em outro de comarca de fácil acesso, se no local não houver imprensa diária, contado o prazo para o pagamento antecipado da dívida da data da última publicação do edital.
 
 ###### Art. 7º-D {#art7-d}
-Tags:
 Alterações: [[medida-provisoria-996-2020|Medida Provisória nº 996, de 25/8/2020]] (incluído: caput); [[lei-federal-14118-2021|Lei nº 14.118, de 12/1/2021]] (incluído: caput)
 
 **Art. 7º-D, caput** {#art7-d_cpt} #incluido Para garantia da posse legítima dos empreendimentos produzidos pelo FAR ou pelo FDS ainda não alienados aos beneficiários finais que venham a sofrer turbação ou esbulho, poderão ser empregados atos de defesa ou de desforço diretos, inclusive por meio do auxílio de força policial. *(Artigo acrescido pela [[medida-provisoria-996-2020|Medida Provisória nº 996, de 25/8/2020]], convertida na [[lei-federal-14118-2021|Lei nº 14.118, de 12/1/2021]])*
@@ -324,13 +309,11 @@ Alterações: [[medida-provisoria-996-2020|Medida Provisória nº 996, de 25/8/2
 **Art. 7º-D, § 2º** {#art7-d_par2} Os atos de defesa ou de desforço a que se refere o caput deste artigo não poderão ir além do indispensável à manutenção ou à restituição da posse e deverão ocorrer no prazo máximo de 5 (cinco) dias, contado da data de ciência do ato de turbação ou de esbulho.
 
 ###### Art. 7º-E {#art7-e}
-Tags:
 Alterações: [[medida-provisoria-996-2020|Medida Provisória nº 996, de 25/8/2020]] (incluído: caput); [[lei-federal-14118-2021|Lei nº 14.118, de 12/1/2021]] (incluído: caput)
 
 **Art. 7º-E, caput** {#art7-e_cpt} #incluido O disposto nos arts. [[#art7-a|7º-A]], [[#art7-b|7º-B]] e [[#art7-c|7º-C]] desta Lei aplica-se também aos empreendimentos executados com recursos provenientes do FDS. *(Artigo acrescido pela [[medida-provisoria-996-2020|Medida Provisória nº 996, de 25/8/2020]], convertida na [[lei-federal-14118-2021|Lei nº 14.118, de 12/1/2021]])*
 
 ###### Art. 8º {#art8}
-Tags:
 
 **Art. 8º, caput** {#art8_cpt} Caberá ao Poder Executivo a regulamentação do PNHU, especialmente em relação:
 - **Art. 8º, caput, inciso I** {#art8_cpt_inc1} à fixação das diretrizes e condições gerais;
@@ -340,7 +323,6 @@ Tags:
 - **Art. 8º, caput, inciso V** {#art8_cpt_inc5} ao estabelecimento das condições operacionais para pagamento e controle da subvenção econômica.
 
 ###### Art. 8º-A {#art8-a}
-Tags:
 Alterações: [[lei-federal-14118-2021|Lei nº 14.118, de 12/1/2021]] (incluído: caput, inciso I, inciso II, § 1º, § 2º, § 3º, § 4º, § 5º, § 6º, § 7º, § 8º); [[medida-provisoria-1162-2023|Medida Provisória nº 1.162, de 14/2/2023]] (nova redação: caput); [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]] (nova redação: caput, § 4º)
 
 **Art. 8º-A, caput** {#art8-a_cpt} #incluido #redacao-alterada O Ministério das Cidades, nas situações enquadradas nos incisos VI e VII do parágrafo único do art. [[#art7|7º]], deverá notificar, no prazo de 60 (sessenta) dias, as instituições ou agentes financeiros para: *(“Caput” do artigo acrescido pela [[lei-federal-14118-2021|Lei nº 14.118, de 12/1/2021]], com nova redação dada pela [[medida-provisoria-1162-2023|Medida Provisória nº 1.162, de 14/2/2023]], convertida na [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]])*
@@ -366,7 +348,6 @@ Alterações: [[lei-federal-14118-2021|Lei nº 14.118, de 12/1/2021]] (incluído
 **Art. 8º-A, § 8º** {#art8-a_par8} #incluido O descumprimento do prazo-limite estabelecido no § 4º deste artigo implicará a aplicação do disposto nos incisos VI e VII do parágrafo único do art. [[#art7|7º]] desta Lei. *(Parágrafo acrescido pela [[lei-federal-14118-2021|Lei nº 14.118, de 12/1/2021]])*
 
 ###### Art. 9º {#art9}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei n° 12.424, de 16/6/2011]] (nova redação: caput)
 
 **Art. 9º, caput** {#art9_cpt} #redacao-alterada A gestão operacional dos recursos destinados à concessão da subvenção do PNHU de que trata o inciso I do art. [[#art2|2o]] desta Lei será efetuada pela Caixa Econômica Federal - CEF. *(“Caput” do artigo com redação dada pela [[lei-federal-12424-2011|Lei n° 12.424, de 16/6/2011]])*
@@ -374,14 +355,12 @@ Alterações: [[lei-federal-12424-2011|Lei n° 12.424, de 16/6/2011]] (nova reda
 **Art. 9º, parágrafo único** {#art9_par1u} Os Ministros de Estado das Cidades e da Fazenda fixarão, em ato conjunto, a remuneração da Caixa Econômica Federal pelas atividades exercidas no âmbito do PNHU.
 
 ###### Art. 10 {#art10}
-Tags:
 
 **Art. 10, caput** {#art10_cpt} Competem aos Ministérios da Fazenda e das Cidades a regulamentação e a gestão do PNHU no âmbito das suas respectivas competências.
 
 ### Seção III – Do Programa Nacional de Habitação Rural - PNHR
 
 ###### Art. 11 {#art11}
-Tags:
 Alterações: [[medida-provisoria-651-2014|Medida Provisória nº 651, de 9/7/2014]] (nova redação: caput); [[lei-federal-13043-2014|Lei nº 13.043, de 13/11/2014]] (nova redação: caput); [[lei-federal-12424-2011|Lei n° 12.424, de 16/6/2011]] (nova redação: parágrafo único)
 
 **Art. 11, caput** {#art11_cpt} #redacao-alterada O PNHR tem como finalidade subsidiar a produção ou reforma de imóveis para agricultores familiares e trabalhadores rurais, por intermédio de operações de repasse de recursos do orçamento geral da União ou de financiamento habitacional com recursos do Fundo de Garantia do Tempo de Serviço - FGTS, desde 14 de abril de 2009. *(“Caput” do artigo com redação dada pela [[medida-provisoria-651-2014|Medida Provisória nº 651, de 9/7/2014]], convertida na [[lei-federal-13043-2014|Lei nº 13.043, de 13/11/2014]])*
@@ -389,7 +368,6 @@ Alterações: [[medida-provisoria-651-2014|Medida Provisória nº 651, de 9/7/20
 **Art. 11, parágrafo único** {#art11_par1u} #redacao-alterada A assistência técnica pode fazer parte da composição de custos do PNHR. *(Parágrafo único com redação dada pela [[lei-federal-12424-2011|Lei n° 12.424, de 16/6/2011]])* *(Vide [[medida-provisoria-514-2010|Medida Provisória nº 514, de 1/12/2010]])* *(Nota de rodapé 2 do original, ligada à chamada "(*)": Parágrafo único revogado pela Media Provisória nº 514, de 1/12/2010 e mantido pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]], na qual foi convertida a referida Medida Provisória)*
 
 ###### Art. 12 {#art12}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (revogado: parágrafo único)
 
 **Art. 12, caput** {#art12_cpt} Fica a União autorizada a conceder subvenção econômica no âmbito do PNHR até o montante de R$ 500.000.000,00 (quinhentos milhões de reais).
@@ -397,7 +375,6 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (revogado:
 **Art. 12, parágrafo único** {#art12_par1u} #revogado *(Revogado a partir de 31/12/2011, de acordo com inciso III do art. 13 da [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])* *(Vide [[medida-provisoria-514-2010|Medida Provisória nº 514, de 1/12/2010]])* *(Nota de rodapé 3 do original, ligada à chamada "(*)": Artigo revogado a partir de 31/12/2010 pela [[medida-provisoria-514-2010|Medida Provisória nº 514, de 1/12/2010]] e mantido até 31/12/2011 pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]], na qual foi convertida a referida Medida Provisória)*
 
 ###### Art. 13 {#art13}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (nova redação: caput, inciso I, § 1º); [[medida-provisoria-1162-2023|Medida Provisória nº 1.162, de 14/2/2023]] (nova redação: § 3º); [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]] (nova redação: § 3º)
 
 **Art. 13, caput** {#art13_cpt} #redacao-alterada Nas operações de que trata o art. [[#art11|11]], poderá ser concedido subvenção econômica, no ato da contratação do financiamento, com o objetivo de: *(“Caput” do artigo com redação dada pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
@@ -412,32 +389,27 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (nova reda
 **Art. 13, § 3º** {#art13_par3} #redacao-alterada Para definição dos beneficiários do PNHR, deverão ser respeitados o limite de renda definido para o PMCMV, as faixas de renda definidas pelo Poder Executivo federal e as demais regras estabelecidas na regulamentação do Programa. *(Parágrafo com redação dada pela [[medida-provisoria-1162-2023|Medida Provisória nº 1.162, de 14/2/2023]], convertida na [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]])*
 
 ###### Art. 14 {#art14}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (nova redação: caput)
 
 **Art. 14, caput** {#art14_cpt} #redacao-alterada Em casos de utilização dos recursos de que trata o art. [[#art11|11]] em finalidade diversa da definida nesta Lei, ou em desconformidade ao disposto no art. [[#art13|13]], será exigida a devolução ao erário do valor da subvenção concedida, acrescido de juros e atualização monetária, com base na remuneração dos recursos que serviram de lastro à sua concessão, sem prejuízo das penalidades previstas em lei. *(Artigo com redação dada pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
 
 ###### Art. 15 {#art15}
-Tags:
 
 **Art. 15, caput** {#art15_cpt} O Poder Executivo regulamentará o disposto nesta Seção, especialmente no que concerne à definição das diretrizes e condições gerais de operação, gestão, acompanhamento, controle e avaliação do PNHR.
 
 ###### Art. 16 {#art16}
-Tags:
 
 **Art. 16, caput** {#art16_cpt} A gestão operacional do PNHR será efetuada pela Caixa Econômica Federal.
 
 **Art. 16, parágrafo único** {#art16_par1u} Os Ministros de Estado das Cidades e da Fazenda fixarão, em ato conjunto, a remuneração da Caixa Econômica Federal pelas atividades exercidas no âmbito do PNHR.
 
 ###### Art. 17 {#art17}
-Tags:
 
 **Art. 17, caput** {#art17_cpt} Competem aos Ministérios da Fazenda e das Cidades a regulamentação e a gestão do PNHR no âmbito das suas respectivas competências.
 
 ### Seção IV – Das Transferências de Recursos por parte da União e da Subvenção para Municípios de Pequeno Porte
 
 ###### Art. 18 {#art18}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (revogado: caput, § 1º, § 2º); [[lei-federal-12058-2009|Lei nº 12.058, de 13/10/2009]] (incluído: § 1º, inciso I, § 1º, inciso II, § 1º, inciso III)
 
 **Art. 18, caput** {#art18_cpt} #revogado *(Revogado a partir de 31/12/2011, de acordo com inciso III do art. 13 da [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])* *(Vide [[medida-provisoria-514-2010|Medida Provisória nº 514, de 1/12/2010]])* *(Nota de rodapé 4 do original, ligada à chamada "(*)": Caput do artigo revogado a partir de 31/12/2010 pela [[medida-provisoria-514-2010|Medida Provisória nº 514, de 1/12/2010]] e mantido até 31/12/2011 pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]], na qual foi convertida a referida Medida Provisória)*
@@ -450,7 +422,6 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (revogado:
 **Art. 18, § 2º** {#art18_par2} #revogado *(Revogado a partir de 31/12/2011, de acordo com inciso III do art. 13 da [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])* *(Vide [[medida-provisoria-514-2010|Medida Provisória nº 514, de 1/12/2010]])* *(Nota de rodapé 5 do original, ligada à chamada "(*)": Parágrafo revogado a partir de 31/12/2010 pela [[medida-provisoria-514-2010|Medida Provisória nº 514, de 1/12/2010]] e mantido até 31/12/2011 pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]], na qual foi convertida a referida Medida Provisória)*
 
 ###### Art. 19 {#art19}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (revogado: caput, § 1º, § 2º, § 3º, § 3º, inciso I, § 3º, inciso II, § 3º, inciso III, § 3º, inciso IV, § 3º, inciso V, § 3º, inciso VI, § 3º, inciso VII, § 4º, § 5º)
 
 **Art. 19, caput** {#art19_cpt} #revogado *(Revogado a partir de 31/12/2011, de acordo com inciso III do art. 13 da [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])* *(Vide [[medida-provisoria-514-2010|Medida Provisória nº 514, de 1/12/2010]])* *(Nota de rodapé 6 do original, ligada à chamada "(*)": Caput do artigo revogado a partir de 31/12/2010 pela [[medida-provisoria-514-2010|Medida Provisória nº 514, de 1/12/2010]] e mantido até 31/12/2011 pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]], na qual foi convertida a referida Medida Provisória)*
@@ -475,7 +446,6 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (revogado:
 ### Seção V – Do Fundo Garantidor da Habitação Popular - FGHab
 
 ###### Art. 20 {#art20}
-Tags:
 Alterações: [[medida-provisoria-1114-2022|Medida Provisória nº 1.114, de 20/4/2022]] (incluído: inciso III, § 1º-A, § 1º-B; nova redação: § 3º, inciso I, § 3º, inciso IV); [[lei-federal-14462-2022|Lei nº 14.462, de 26/10/2022]] (incluído: inciso III, § 1º-A, § 1º-B; nova redação: § 3º, inciso I, § 3º, inciso IV); [[lei-federal-15164-2025|Lei nº 15.164, de 14/7/2025]] (incluído: inciso IV; nova redação: § 1º-A, § 4º); [[medida-provisoria-1350-2026|Medida Provisória nº 1.350, de 15/4/2026]] (nova redação: inciso IV); [[medida-provisoria-1162-2023|Medida Provisória nº 1.162, de 14/2/2023]] (revogado: § 1º-B); [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]] (revogado: § 1º-B)
 
 **Art. 20, caput** {#art20_cpt} #redacao-alterada Fica a União autorizada a participar, observada a disponibilidade orçamentária e financeira, do Fundo Garantidor da Habitação Popular - FGHab, que terá por finalidade garantir, cobrir ou assumir riscos e obrigações em operações de crédito habitacional, na forma estabelecida em ato conjunto do Ministério da Fazenda e do Ministério das Cidades, no âmbito dos programas habitacionais do Governo federal. *(“Caput” do artigo com redação dada Medida Provisória nº 1.382, de 1º/8/2026)*
@@ -520,22 +490,18 @@ Alterações: [[medida-provisoria-1114-2022|Medida Provisória nº 1.114, de 20/
 **Art. 20, § 10** {#art20_par10} As coberturas relativas à morte, à invalidez permanente e aos danos físicos ao imóvel concedidas em operações contratadas até 31 de maio de 2022 ficam mantidas, observado o regramento vigente à época da contratação. *(Parágrafo acrescido pela Medida Provisória nº 1.382, de 1º/8/2026)*
 
 ###### Art. 21 {#art21}
-Tags:
 
 **Art. 21, caput** {#art21_cpt} #revogado *(Revogado pela Medida Provisória nº 1.382, de 1º/8/2026)*
 
 ###### Art. 22 {#art22}
-Tags:
 
 **Art. 22, caput** {#art22_cpt} O FGHab não pagará rendimentos a seus cotistas, assegurando-se a qualquer deles o direito de requerer o resgate total ou parcial de suas cotas, correspondente ao montante de recursos financeiros disponíveis ainda não vinculados às garantias já contratadas, fazendo-se a liquidação com base na situação patrimonial do Fundo.
 
 ###### Art. 23 {#art23}
-Tags:
 
 **Art. 23, caput** {#art23_cpt} Os rendimentos auferidos pela carteira do FGHab não se sujeitam à incidência de imposto de renda na fonte, devendo integrar a base de cálculo dos impostos e contribuições devidos pela pessoa jurídica, na forma da legislação vigente, quando houver o resgate de cotas, total ou parcial, ou na dissolução do Fundo.
 
 ###### Art. 24 {#art24}
-Tags:
 
 **Art. 24, caput** {#art24_cpt} O FGHab será criado, administrado, gerido e representado judicial e extrajudicialmente por instituição financeira controlada direta ou indiretamente pela União, com observância das normas a que se refere o inciso XXII do art. 4º da [[lei-federal-4595-1964|Lei nº 4.595, de 31 de dezembro de 1964]].
 
@@ -550,7 +516,6 @@ Tags:
 **Art. 24, § 4º** {#art24_par4} O estatuto do FGHab será proposto pela instituição financeira e aprovado em assembléia de cotistas.
 
 ###### Art. 25 {#art25}
-Tags:
 
 **Art. 25, caput** {#art25_cpt} Fica criado o Comitê de Participação no Fundo Garantidor da Habitação Popular - CPFGHab, órgão colegiado com composição e competência estabelecidas em ato do Poder Executivo.
 
@@ -559,57 +524,47 @@ Tags:
 **Art. 25, § 2º** {#art25_par2} O estatuto do FGHab deverá ser examinado previamente pelo CPFGHab antes de sua aprovação na assembléia de cotistas.
 
 ###### Art. 26 {#art26}
-Tags:
 
 **Art. 26, caput** {#art26_cpt} O FGHab não contará com qualquer tipo de garantia ou aval por parte do setor público e responderá por suas obrigações até o limite dos bens e direitos integrantes de seu patrimônio.
 
 ###### Art. 27 {#art27}
-Tags:
 
 **Art. 27, caput** {#art27_cpt} #revogado *(Revogado pela Medida Provisória nº 1.382, de 1º/8/2026)*
 
 ###### Art. 27-A {#art27-a}
-Tags:
 Alterações: [[medida-provisoria-1114-2022|Medida Provisória nº 1.114, de 20/4/2022]] (incluído: caput); [[lei-federal-14462-2022|Lei nº 14.462, de 26/10/2022]] (incluído: caput); [[lei-federal-15164-2025|Lei nº 15.164, de 14/7/2025]] (nova redação: caput)
 
 **Art. 27-A, caput** {#art27-a_cpt} #incluido #redacao-alterada *(Artigo acrescido pela [[medida-provisoria-1114-2022|Medida Provisória nº 1.114, de 20/4/2022]], convertida na [[lei-federal-14462-2022|Lei nº 14.462, de 26/10/2022]], com redação dada pela [[lei-federal-15164-2025|Lei nº 15.164, de 14/7/2025]] e revogado pela Medida Provisória nº 1.382, de 1º/8/2026)*
 
 ###### Art. 28 {#art28}
-Tags:
 
 **Art. 28, caput** {#art28_cpt} #revogado *(Revogado pela Medida Provisória nº 1.382, de 1º/8/2026)*
 
 ###### Art. 29 {#art29}
-Tags:
 Alterações: [[medida-provisoria-1114-2022|Medida Provisória nº 1.114, de 20/4/2022]] (revogado: caput); [[lei-federal-14462-2022|Lei nº 14.462, de 26/10/2022]] (revogado: caput)
 
 **Art. 29, caput** {#art29_cpt} #revogado *(Revogado pela [[medida-provisoria-1114-2022|Medida Provisória nº 1.114, de 20/4/2022]], convertida na [[lei-federal-14462-2022|Lei nº 14.462, de 26/10/2022]])*
 
 ###### Art. 30 {#art30}
-Tags:
 
 **Art. 30, caput** {#art30_cpt} #revogado *(Revogado pela Medida Provisória nº 1.382, de 1º/8/2026)*
 
 ###### Art. 30-A {#art30-a}
-Tags:
 Alterações: [[lei-federal-15164-2025|Lei nº 15.164, de 14/7/2025]] (incluído: caput)
 
 **Art. 30-A, caput** {#art30-a_cpt} #incluido *(Artigo acrescido pela [[lei-federal-15164-2025|Lei nº 15.164, de 14/7/2025]] e revogado pela Medida Provisória nº 1.382, de 1º/8/2026)*
 
 ###### Art. 31 {#art31}
-Tags:
 
 **Art. 31, caput** {#art31_cpt} A dissolução do FGHab ficará condicionada à prévia quitação da totalidade dos débitos garantidos.
 
 ###### Art. 32 {#art32}
-Tags:
 
 **Art. 32, caput** {#art32_cpt} Dissolvido o FGHab, o seu patrimônio será distribuído entre os cotistas, na proporção de suas cotas, com base na situação patrimonial à data da dissolução.
 
 ### Seção VI – Da Subvenção Econômica ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES
 
 ###### Art. 33 {#art33}
-Tags:
 
 **Art. 33, caput** {#art33_cpt} Fica a União autorizada a conceder subvenção econômica ao BNDES, sob a modalidade de equalização de taxas de juros e outros encargos financeiros, especificamente nas operações de financiamento de linha especial para infraestrutura em projetos de habitação popular.
 
@@ -618,19 +573,16 @@ Tags:
 **Art. 33, § 2º** {#art33_par2} A equalização de juros de que trata o caput deste artigo corresponderá ao diferencial entre o custo da fonte de captação do BNDES e o custo da linha para a instituição financeira oficial federal.
 
 ###### Art. 34 {#art34}
-Tags:
 
 **Art. 34, caput** {#art34_cpt} A concessão da subvenção de equalização de juros obedecerá aos limites e normas operacionais a serem estabelecidos pelo Conselho Monetário Nacional, especialmente no que diz respeito a custos de captação e de aplicação dos recursos.
 
 ### Seção VII – Disposições Complementares
 
 ###### Art. 35 {#art35}
-Tags:
 
 **Art. 35, caput** {#art35_cpt} Os contratos e registros efetivados no âmbito do PMCMV serão formalizados, preferencialmente, em nome da mulher.
 
 ###### Art. 35-A {#art35-a}
-Tags:
 Alterações: [[medida-provisoria-561-2012|Medida Provisória nº 561, de 8/3/2012]] (incluído: caput); [[lei-federal-12693-2012|Lei nº 12.693, de 24/7/2012]] (incluído: caput)
 
 **Art. 35-A, caput** {#art35-a_cpt} #incluido Nas hipóteses de dissolução de união estável, separação ou divórcio, o título de propriedade do imóvel adquirido no âmbito do PMCMV, na constância do casamento ou da união estável, com subvenções oriundas de recursos do orçamento geral da União, do FAR e do FDS, será registrado em nome da mulher ou a ela transferido, independentemente do regime de bens aplicável, excetuados os casos que envolvam recursos do FGTS. *(Artigo acrescido pela [[medida-provisoria-561-2012|Medida Provisória nº 561, de 8/3/2012]], convertida na [[lei-federal-12693-2012|Lei nº 12.693, de 24/7/2012]])*
@@ -638,7 +590,6 @@ Alterações: [[medida-provisoria-561-2012|Medida Provisória nº 561, de 8/3/20
 **Art. 35-A, parágrafo único** {#art35-a_par1u} Nos casos em que haja filhos do casal e a guarda seja atribuída exclusivamente ao marido ou companheiro, o título da propriedade do imóvel será registrado em seu nome ou a ele transferido.
 
 ###### Art. 36 {#art36}
-Tags:
 
 **Art. 36, caput** {#art36_cpt} Os lotes destinados à construção de moradias no âmbito do PMCMV não poderão ser objeto de remembramento, devendo tal proibição constar expressamente dos contratos celebrados.
 
@@ -647,13 +598,11 @@ Tags:
 ## CAPÍTULO II – DO REGISTRO ELETRÔNICO E DAS CUSTAS E EMOLUMENTOS
 
 ###### Art. 37 {#art37}
-Tags:
 Alterações: [[medida-provisoria-1085-2021|Medida Provisória nº 1.085, de 27/12/2021]] (nova redação: caput); [[lei-federal-14382-2022|Lei nº 14.382, de 27/6/2022]] (nova redação: caput)
 
 **Art. 37, caput** {#art37_cpt} #redacao-alterada Os serviços de registros públicos de que trata a [[lei-federal-6015-1973|Lei nº 6.015, de 31 de dezembro de 1973]] (Lei de Registros Públicos) promoverão a implantação e o funcionamento adequado do Sistema Eletrônico dos Registros Públicos (Serp), nos termos da [[medida-provisoria-1085-2021|Medida Provisória nº 1.085, de 27 de dezembro de 2021]]. *(Artigo com redação dada pela [[medida-provisoria-1085-2021|Medida Provisória nº 1.085, de 27/12/2021]], convertida na [[lei-federal-14382-2022|Lei nº 14.382, de 27/6/2022]])*
 
 ###### Art. 38 {#art38}
-Tags:
 Alterações: [[medida-provisoria-1085-2021|Medida Provisória nº 1.085, de 27/12/2021]] (nova redação: caput; renumerado: § 1º; incluído: § 2º); [[lei-federal-14382-2022|Lei nº 14.382, de 27/6/2022]] (nova redação: caput; renumerado: § 1º; incluído: § 2º)
 
 **Art. 38, caput** {#art38_cpt} #redacao-alterada Os documentos eletrônicos apresentados aos serviços de registros públicos ou por eles expedidos deverão atender aos requisitos estabelecidos pela Corregedoria Nacional de Justiça do Conselho Nacional de Justiça, com a utilização de assinatura eletrônica avançada ou qualificada, conforme definido no art. 4º da [[lei-federal-14063-2020|Lei nº 14.063, de 23 de setembro de 2020]]. *(“Caput” do artigo com redação dada pela [[medida-provisoria-1085-2021|Medida Provisória nº 1.085, de 27/12/2021]], convertida na [[lei-federal-14382-2022|Lei nº 14.382, de 27/6/2022]])*
@@ -663,19 +612,16 @@ Alterações: [[medida-provisoria-1085-2021|Medida Provisória nº 1.085, de 27/
 **Art. 38, § 2º** {#art38_par2} #incluido Ato da Corregedoria Nacional de Justiça do Conselho Nacional de Justiça poderá estabelecer hipóteses de admissão de assinatura avançada em atos que envolvam imóveis. *(Parágrafo acrescido pela [[medida-provisoria-1085-2021|Medida Provisória nº 1.085, de 27/12/2021]], convertida na [[lei-federal-14382-2022|Lei nº 14.382, de 27/6/2022]])*
 
 ###### Art. 39 {#art39}
-Tags:
 
 **Art. 39, caput** {#art39_cpt} Os atos registrais praticados a partir da vigência da [[lei-federal-6015-1973|Lei nº 6.015, de 31 de dezembro de 1973]], serão inseridos no sistema de registro eletrônico, no prazo de até 5 (cinco) anos a contar da publicação desta Lei.
 
 **Art. 39, parágrafo único** {#art39_par1u} Os atos praticados e os documentos arquivados anteriormente à vigência da [[lei-federal-6015-1973|Lei nº 6.015, de 31 de dezembro de 1973]], deverão ser inseridos no sistema eletrônico.
 
 ###### Art. 40 {#art40}
-Tags:
 
 **Art. 40, caput** {#art40_cpt} Serão definidos em regulamento os requisitos quanto a cópias de segurança de documentos e de livros escriturados de forma eletrônica.
 
 ###### Art. 41 {#art41}
-Tags:
 Alterações: [[medida-provisoria-656-2014|Medida Provisória nº 656, de 7/10/2014]] (nova redação: caput; incluído: parágrafo único); [[lei-federal-13097-2015|Lei nº 13.097, de 19/1/2015]] (nova redação: caput; incluído: parágrafo único)
 
 **Art. 41, caput** {#art41_cpt} #redacao-alterada A partir da implementação do sistema de registro eletrônico de que trata o art. [[#art37|37]], os serviços de registros públicos disponibilizarão ao Poder Judiciário e ao Poder Executivo federal, por meio eletrônico e sem ônus, o acesso às informações constantes de seus bancos de dados, conforme regulamento. *(“Caput” com redação dada pela [[medida-provisoria-656-2014|Medida Provisória nº 656, de 7/10/2014]], convertida na [[lei-federal-13097-2015|Lei nº 13.097, de 19/1/2015]], publicada no DOU de 20/1/2015, em vigor 30 dias após sua publicação)*
@@ -683,7 +629,6 @@ Alterações: [[medida-provisoria-656-2014|Medida Provisória nº 656, de 7/10/2
 **Art. 41, parágrafo único** {#art41_par1u} #incluido O descumprimento do disposto no caput ensejará a aplicação das penas previstas nos incisos II a IV do caput art. 32 da [[lei-federal-8935-1994|Lei nº 8.935, de 18 de novembro de 1994]]. *(Parágrafo acrescido pela [[medida-provisoria-656-2014|Medida Provisória nº 656, de 7/10/2014]], convertida na [[lei-federal-13097-2015|Lei nº 13.097, de 19/1/2015]], publicada no DOU de 20/1/2015, em vigor trinta dias após sua publicação)*
 
 ###### Art. 42 {#art42}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (nova redação: caput, inciso I, inciso II; revogado: inciso III; incluído: § 1º, § 2º, § 3º); [[medida-provisoria-1162-2023|Medida Provisória nº 1.162, de 14/2/2023]] (incluído: § 4º); [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]] (nova redação: § 4º)
 
 **Art. 42, caput** {#art42_cpt} #redacao-alterada Os emolumentos devidos pelos atos de abertura de matrícula, registro de incorporação, parcelamento do solo, averbação de construção, instituição de condomínio, averbação da carta de "habite-se" e demais atos referentes à construção de empreendimentos no âmbito do PMCMV serão reduzidos em: *(“Caput” do artigo com redação dada pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
@@ -700,7 +645,6 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (nova reda
 **Art. 42, § 4º** {#art42_par4} #incluido #redacao-alterada A redução prevista no inciso II do caput aplica-se às operações com recursos do FGTS firmadas a partir de 26 de agosto de 2020. *(Parágrafo acrescido pela [[medida-provisoria-1162-2023|Medida Provisória nº 1.162, de 14/2/2023]], convertida e com redação dada pela [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]])*
 
 ###### Art. 43 {#art43}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (nova redação: caput; incluído: inciso I, inciso II; revogado: parágrafo único, parágrafo único, inciso I, parágrafo único, inciso II)
 
 **Art. 43, caput** {#art43_cpt} #redacao-alterada Os emolumentos referentes a escritura pública, quando esta for exigida, ao registro da alienação de imóvel e de correspondentes garantias reais e aos demais atos relativos ao imóvel residencial adquirido ou financiado no âmbito do PMCMV serão reduzidos em: *(“Caput” do artigo com redação dada pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
@@ -712,23 +656,19 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (nova reda
 - **Art. 43, parágrafo único, inciso II** {#art43_par1u_inc2} #revogado *(Revogado pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
 
 ###### Art. 43-A {#art43-a}
-Tags:
 
 **Art. 43-A, caput** {#art43-a_cpt} (VETADO).
 
 ###### Art. 43-B {#art43-b}
-Tags:
 Alterações: [[medida-provisoria-1162-2023|Medida Provisória nº 1.162, de 14/2/2023]] (incluído: caput); [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]] (nova redação: caput)
 
 **Art. 43-B, caput** {#art43-b_cpt} #incluido #redacao-alterada A redução prevista no inciso II do caput do art. [[#art43|43]] aplica-se também às operações com imóveis residenciais de empreendimentos fora do PMCMV contratados com recursos do FGTS firmadas a partir de 26 de agosto de 2020. *(Artigo acrescido pela [[medida-provisoria-1162-2023|Medida Provisória nº 1.162, de 14/2/2023]], convertida e com redação dada pela [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]])*
 
 ###### Art. 44 {#art44}
-Tags:
 
 **Art. 44, caput** {#art44_cpt} Os cartórios que não cumprirem o disposto nos arts. [[#art42|42]] e [[#art43|43]] ficarão sujeitos à multa no valor de até R$ 100.000,00 (cem mil reais), bem como a outras sanções previstas na [[lei-federal-8935-1994|Lei nº 8.935, de 18 de novembro de 1994]].
 
 ###### Art. 44-A {#art44-a}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído: caput)
 
 **Art. 44-A, caput** {#art44-a_cpt} #incluido Nos atos registrais relativos ao PMCMV, o prazo para qualificação do título e respectivo registro, averbação ou devolução com indicação das pendências a serem satisfeitas para sua efetivação não poderá ultrapassar a 15 (quinze) dias, contados da data em que ingressar na serventia. *(Artigo acrescido pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
@@ -738,7 +678,6 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído
 **Art. 44-A, § 2º** {#art44-a_par2} Reingressando o título dentro da vigência da prenotação, e estando em ordem, o registro ou averbação será feito no prazo de 10 (dez) dias. § 3º Em caso de inobservância do disposto neste artigo, será aplicada multa, na forma do inciso II do caput do art. 32 da [[lei-federal-8935-1994|Lei nº 8.935, de 18 de novembro de 1994]], com valor mínimo de 20% (vinte por cento) dos respectivos emolumentos, sem prejuízo de outras sanções cabíveis.
 
 ###### Art. 45 {#art45}
-Tags:
 
 **Art. 45, caput** {#art45_cpt} Regulamento disporá sobre as condições e as etapas mínimas, bem como sobre os prazos máximos, a serem cumpridos pelos serviços de registros públicos, com vistas na efetiva implementação do sistema de registro eletrônico de que trata o art. [[#art37|37]].
 
@@ -747,43 +686,36 @@ Tags:
 ### Seção I – Disposições Preliminares
 
 ###### Art. 46 {#art46}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 46, caput** {#art46_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 47 {#art47}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 47, caput** {#art47_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 48 {#art48}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 48, caput** {#art48_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 49 {#art49}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 49, caput** {#art49_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 50 {#art50}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 50, caput** {#art50_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 51 {#art51}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 51, caput** {#art51_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 52 {#art52}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 52, caput** {#art52_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
@@ -791,55 +723,46 @@ Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/
 ### Seção II – Da Regularização Fundiária de Interesse Social
 
 ###### Art. 53 {#art53}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 53, caput** {#art53_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 54 {#art54}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 54, caput** {#art54_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 55 {#art55}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 55, caput** {#art55_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 56 {#art56}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 56, caput** {#art56_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 57 {#art57}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 57, caput** {#art57_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 58 {#art58}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 58, caput** {#art58_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 59 {#art59}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 59, caput** {#art59_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 60 {#art60}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 60, caput** {#art60_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 60-A {#art60-a}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 60-A, caput** {#art60-a_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
@@ -847,50 +770,42 @@ Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/
 ### Seção III – Da Regularização Fundiária de Interesse Específico
 
 ###### Art. 61 {#art61}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 61, caput** {#art61_cpt} #revogado *(Revogado pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 62 {#art62}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 62, caput** {#art62_cpt} #revogado *(Revogado pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 63 {#art63}
-Tags:
 
 **Art. 63, caput** {#art63_cpt} (VETADO)
 
 ### Seção IV – Do Registro da Regularização Fundiária
 
 ###### Art. 64 {#art64}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 64, caput** {#art64_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 65 {#art65}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 65, caput** {#art65_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 66 {#art66}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 66, caput** {#art66_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 67 {#art67}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 67, caput** {#art67_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 68 {#art68}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 68, caput** {#art68_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
@@ -898,25 +813,21 @@ Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/
 ### Seção V – Disposições Gerais
 
 ###### Art. 69 {#art69}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 69, caput** {#art69_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 70 {#art70}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 70, caput** {#art70_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 71 {#art71}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 71, caput** {#art71_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
 
 ###### Art. 71-A {#art71-a}
-Tags:
 Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]] (revogado: caput); [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]] (revogado: caput)
 
 **Art. 71-A, caput** {#art71-a_cpt} #revogado *(Revogados pela [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/2016]], convertida na [[lei-federal-13465-2017|Lei nº 13.465, de 11/7/2017]])*
@@ -924,12 +835,10 @@ Alterações: [[medida-provisoria-759-2016|Medida Provisória nº 759, de 22/12/
 ## CAPÍTULO IV – DISPOSIÇÕES FINAIS
 
 ###### Art. 72 {#art72}
-Tags:
 
 **Art. 72, caput** {#art72_cpt} Nas ações judiciais de cobrança ou execução de cotas de condomínio, de imposto sobre a propriedade predial e territorial urbana ou de outras obrigações vinculadas ou decorrentes da posse do imóvel urbano, nas quais o responsável pelo pagamento seja o possuidor investido nos respectivos direitos aquisitivos, assim como o usufrutuário ou outros titulares de direito real de uso, posse ou fruição, será notificado o titular do domínio pleno ou útil, inclusive o promitente vendedor ou fiduciário.
 
 ###### Art. 73 {#art73}
-Tags:
 Alterações: [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]] (nova redação: inciso I, inciso III; incluído: inciso V); [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído: parágrafo único)
 
 **Art. 73, caput** {#art73_cpt} Serão assegurados no PMCMV:
@@ -942,7 +851,6 @@ Alterações: [[lei-federal-14620-2023|Lei nº 14.620, de 13/7/2023]] (nova reda
 **Art. 73, parágrafo único** {#art73_par1u} #incluido Na ausência de legislação municipal ou estadual acerca de condições de acessibilidade que estabeleça regra específica, será assegurado que, do total de unidades habitacionais construídas no âmbito do PMCMV em cada Município, no mínimo, 3% (três por cento) sejam adaptadas ao uso por pessoas com deficiência. *(Parágrafo único acrescido pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
 
 ###### Art. 73-A {#art73-a}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído: caput, § 1º, § 2º); [[medida-provisoria-561-2012|Medida Provisória nº 561, de 8/3/2012]] (nova redação: caput); [[lei-federal-12693-2012|Lei nº 12.693, de 24/7/2012]] (nova redação: caput)
 
 **Art. 73-A, caput** {#art73-a_cpt} #incluido #redacao-alterada Excetuados os casos que envolvam recursos do FGTS, os contratos em que o beneficiário final seja mulher chefe de família, no âmbito do PMCMV ou em programas de regularização fundiária de interesse social promovidos pela União, Estados, Distrito Federal ou Municípios, poderão ser firmados independentemente da outorga do cônjuge, afastada a aplicação do disposto nos arts. 1.647 a 1.649 da [[lei-federal-10406-2002|Lei nº 10.406, de 10 de janeiro de 2002]] (Código Civil). *(“Caput” do artigo acrescido pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]], com redação dada pela [[medida-provisoria-561-2012|Medida Provisória nº 561, de 8/3/2012]], convertida na [[lei-federal-12693-2012|Lei nº 12.693, de 24/7/2012]])*
@@ -952,7 +860,6 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído
 **Art. 73-A, § 2º** {#art73-a_par2} #incluido Prejuízos sofridos pelo cônjuge por decorrência do previsto neste artigo serão resolvidos em perdas e danos. *(Parágrafo acrescido pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
 
 ###### Art. 74 {#art74}
-Tags:
 
 **Art. 74, caput** {#art74_cpt} O [[decreto-lei-federal-3365-1941|Decreto-Lei nº 3.365, de 21 de junho de 1941]], passa a vigorar com as seguintes alterações:
 
@@ -973,7 +880,6 @@ Tags:
 > § 3º A discussão acerca dos valores inscritos ou executados será realizada em ação própria."
 
 ###### Art. 75 {#art75}
-Tags:
 
 **Art. 75, caput** {#art75_cpt} A [[lei-federal-4380-1964|Lei nº 4.380, de 21 de agosto de 1964]], passa a vigorar com as seguintes alterações:
 
@@ -999,7 +905,6 @@ Tags:
 > §§ 1º e 2º, entre eles o Sistema de Amortização Crescente - SACRE e o Sistema Francês de Amortização (Tabela Price )."
 
 ###### Art. 76 {#art76}
-Tags:
 
 **Art. 76, caput** {#art76_cpt} A [[lei-federal-6015-1973|Lei nº 6.015, de 31 de dezembro de 1973]], passa a vigorar com as seguintes alterações:
 
@@ -1038,7 +943,6 @@ Tags:
 > § 2º Nos registros decorrentes de processo de parcelamento do solo ou de incorporação imobiliária, o registrador deverá observar o prazo máximo de 15 (quinze) dias para o fornecimento do número do registro ao interessado ou a indicação das pendências a serem satisfeitas para sua efetivação."
 
 ###### Art. 77 {#art77}
-Tags:
 
 **Art. 77, caput** {#art77_cpt} O inciso VII do art. 20 da [[lei-federal-8036-1990|Lei nº 8.036, de 11 de maio de 1990]], passa a vigorar com a seguinte redação:
 
@@ -1052,7 +956,6 @@ Tags:
 > .............................................................................................."
 
 ###### Art. 78 {#art78}
-Tags:
 
 **Art. 78, caput** {#art78_cpt} O inciso V do art. 4º da [[lei-federal-10257-2001|Lei nº 10.257, de 10 de julho de 2001]], passa a vigorar acrescido das seguintes alíneas t e u:
 
@@ -1072,7 +975,6 @@ Tags:
 > .........................................................................................."
 
 ###### Art. 79 {#art79}
-Tags:
 
 **Art. 79, caput** {#art79_cpt} Os agentes financeiros do SFH somente poderão conceder financiamentos habitacionais com cobertura securitária que preveja, no mínimo, cobertura aos riscos de morte e invalidez permanente do mutuário e de danos físicos ao imóvel.
 
@@ -1089,7 +991,6 @@ Tags:
 **Art. 79, § 5º** {#art79_par5} Nas operações de financiamento de habitação rural, na modalidade de aquisição de material de construção, com recursos do FGTS, os agentes financeiros ficam autorizados a dispensar a contratação do seguro de morte e invalidez permanente do mutuário nos casos em que estes riscos contarem com outra garantia. (Artigo com redação dada pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]]
 
 ###### Art. 79-A {#art79-a}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído: caput)
 
 **Art. 79-A, caput** {#art79-a_cpt} #incluido Para construção, reforma ou requalificação de imóveis no âmbito do PMCMV, a Caixa Econômica Federal fica autorizada a adquirir, em nome do FAR, e pelo prazo necessário à conclusão das obras e transferência da unidade construída aos beneficiários do programa: *(Artigo acrescido pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
@@ -1105,23 +1006,19 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído
 **Art. 79-A, § 4º** {#art79-a_par4} Os contratos de aquisição de imóveis ou de direitos a eles relativos pelo FAR serão celebrados por instrumento particular com força de escritura pública e registrados no registro de imóveis competente.
 
 ###### Art. 80 {#art80}
-Tags:
 
 **Art. 80, caput** {#art80_cpt} Até que a quantidade mínima a que se refere o inciso I do § 1º do art. [[#art79|79]] desta Lei seja regulamentada pelo Conselho Monetário Nacional, os agentes financeiros poderão oferecer apenas uma apólice ao mutuário. (Artigo com redação dada pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]]
 
 ###### Art. 81 {#art81}
-Tags:
 
 **Art. 81, caput** {#art81_cpt} Ficam convalidados os atos do Conselho Monetário Nacional que relacionaram as instituições integrantes do Sistema Financeiro da Habitação.
 
 ###### Art. 81-A {#art81-a}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído: caput)
 
 **Art. 81-A, caput** {#art81-a_cpt} #incluido Os limites de renda familiar expressos nesta Lei constituem valores máximos, admitindo-se a atualização nos termos do § 6º do art. [[#art3|3º]], bem como a definição, em regulamento, de subtetos de acordo com as modalidades operacionais praticadas. *(Artigo acrescido pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
 
 ###### Art. 82 {#art82}
-Tags:
 Alterações: [[lei-federal-12722-2012|Lei nº 12.722, de 3/10/2012]] (revogado: parágrafo único)
 
 **Art. 82, caput** {#art82_cpt} Fica autorizado o custeio, no âmbito do PMCMV, da aquisição e instalação de equipamentos de energia solar ou que contribuam para a redução do consumo de água em moradias. (Artigo com redação dada pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]]
@@ -1129,13 +1026,11 @@ Alterações: [[lei-federal-12722-2012|Lei nº 12.722, de 3/10/2012]] (revogado:
 **Art. 82, parágrafo único** {#art82_par1u} #revogado *(Revogado pela [[lei-federal-12722-2012|Lei nº 12.722, de 3/10/2012]])*
 
 ###### Art. 82-A {#art82-a}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído: caput)
 
 **Art. 82-A, caput** {#art82-a_cpt} #incluido Enquanto não efetivado o aporte de recursos necessários às subvenções econômicas de que tratam os incisos I e II do art. [[#art2|2º]] e o art. [[#art11|11]] desta Lei, observado o disposto na lei orçamentária anual, o agente operador do FGTS, do FAR e do FDS, que tenha utilizado as disponibilidades dos referidos fundos em contratações no âmbito do PMCMV, terá direito ao ressarcimento das quantias desembolsadas, devidamente atualizadas pela taxa Selic. *(Artigo acrescido pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
 
 ###### Art. 82-B {#art82-b}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído: caput)
 
 **Art. 82-B, caput** {#art82-b_cpt} #incluido O PMCMV, nos termos do art. [[#art1|1º]] desta Lei, tem como meta promover a produção, aquisição, requalificação e reforma de dois milhões de unidades habitacionais, a partir de 1º de dezembro de 2010 até 31 de dezembro de 2014, das quais, no mínimo, 220.000 (duzentas e vinte mil) unidades serão produzidas por meio de concessão de subvenção econômica na forma do inciso I do § 1º do art. [[#art6-b|6º-B]], nas operações de que trata o inciso III do caput do art. [[#art2|2º]], a beneficiários finais com renda de até R$ 1.395,00 (mil, trezentos e noventa e cinco reais), respeitados os valores consignados nas respectivas leis orçamentárias anuais." *(Artigo acrescido pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
@@ -1143,13 +1038,11 @@ Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído
 **Art. 82-B, parágrafo único** {#art82-b_par1u} As diretrizes para a continuidade do programa poderão ser complementadas no plano nacional de habitação a ser apresentado pelo Poder Executivo federal mediante projeto de lei.
 
 ###### Art. 82-C {#art82-c}
-Tags:
 Alterações: [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]] (incluído: caput)
 
 **Art. 82-C, caput** {#art82-c_cpt} #incluido Para o exercício de 2011, a União fica autorizada a utilizar os recursos previstos nos arts. [[#art2|2º]], [[#art5|5º]], [[#art12|12]], [[#art18|18]] e [[#art19|19]] desta Lei. *(Artigo acrescido pela [[lei-federal-12424-2011|Lei nº 12.424, de 16/6/2011]])*
 
 ###### Art. 82-D {#art82-d}
-Tags:
 Alterações: [[lei-federal-12722-2012|Lei nº 12.722, de 3/10/2012]] (incluído: caput)
 
 **Art. 82-D, caput** {#art82-d_cpt} #incluido No âmbito do PMCMV, no caso de empreendimentos construídos com recursos do FAR, poderá ser custeada a edificação de equipamentos de educação, saúde e outros complementares à habitação, inclusive em terrenos de propriedade pública, nos termos do regulamento. *(Artigo acrescido pela [[lei-federal-12722-2012|Lei nº 12.722, de 3/10/2012]])*
@@ -1163,7 +1056,6 @@ Alterações: [[lei-federal-12722-2012|Lei nº 12.722, de 3/10/2012]] (incluído
 **Art. 82-D, § 4º** {#art82-d_par4} Quando a edificação tiver que ser realizada em terreno cuja propriedade não seja do ente público responsável pela operação, guarda e manutenção dos equipamentos, o termo de compromisso deverá contar com a participação de todos os entes envolvidos como também prever a obrigação de transferência do uso ou da propriedade para o mencionado ente responsável pela operacionalização.
 
 ###### Art. 83 {#art83}
-Tags:
 
 **Art. 83, caput** {#art83_cpt} Esta Lei entra em vigor na data de sua publicação.
 

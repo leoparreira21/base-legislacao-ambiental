@@ -19,7 +19,7 @@ fonte: PDF da IN IAT 33/2025 (assinado digitalmente em 30/05/2025, 69 páginas),
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo VI, linha 1** {#anexo6_lin1} #area-disposicao-final 1. Caracterização da Área
+- **Anexo VI, linha 1** {#anexo6_lin1} 1. Caracterização da Área
 - **Anexo VI, linha 2** {#anexo6_lin2} - localização;
 - **Anexo VI, linha 3** {#anexo6_lin3} - vias de acesso;
 - **Anexo VI, linha 4** {#anexo6_lin4} - vias internas;
@@ -28,86 +28,86 @@ fonte: PDF da IN IAT 33/2025 (assinado digitalmente em 30/05/2025, 69 páginas),
 - **Anexo VI, linha 7** {#anexo6_lin7} - localização e área ocupada pelas células ou trincheiras;
 - **Anexo VI, linha 8** {#anexo6_lin8} - instalações de apoio;
 - **Anexo VI, linha 9** {#anexo6_lin9} - levantamento planialtimétrico;
-- **Anexo VI, linha 10** {#anexo6_lin10} #geologia #agua-subterranea - caracterização geológica e hidrogeologica;
+- **Anexo VI, linha 10** {#anexo6_lin10} - caracterização geológica e hidrogeologica;
 - **Anexo VI, linha 11** {#anexo6_lin11} - caracterização climática (com balanço hídrico).
 - **Anexo VI, linha 12** {#anexo6_lin12} 2. Caracterização do Entorno
 - **Anexo VI, linha 13** {#anexo6_lin13} - atividades do entorno;
-- **Anexo VI, linha 14** {#anexo6_lin14} #uso-solo - uso e ocupação do solo;
-- **Anexo VI, linha 15** {#anexo6_lin15} #corpo-hidrico - corpos hídricos;
-- **Anexo VI, linha 16** {#anexo6_lin16} #agua-subterranea - poços de captação de água.
+- **Anexo VI, linha 14** {#anexo6_lin14} - uso e ocupação do solo;
+- **Anexo VI, linha 15** {#anexo6_lin15} - corpos hídricos;
+- **Anexo VI, linha 16** {#anexo6_lin16} - poços de captação de água.
 - **Anexo VI, linha 17** {#anexo6_lin17} 3. Histórico da área
 - **Anexo VI, linha 18** {#anexo6_lin18} 3.1. Evolução da área
-- **Anexo VI, linha 19** {#anexo6_lin19} #tac - histórico do licenciamento ambiental (licenças obtidas), possíveis autos de infração, termos de compromisso, termos de ajustamento de conduta, etc. (anexar todos os documentos existentes);
+- **Anexo VI, linha 19** {#anexo6_lin19} - histórico do licenciamento ambiental (licenças obtidas), possíveis autos de infração, termos de compromisso, termos de ajustamento de conduta, etc. (anexar todos os documentos existentes);
 - **Anexo VI, linha 20** {#anexo6_lin20} - tempo de operação da área de disposição final;
 - **Anexo VI, linha 21** {#anexo6_lin21} - sequência de preenchimento e ocupação da área do aterro;
 - **Anexo VI, linha 22** {#anexo6_lin22} - estimativa do volume aterrado (por célula/trincheira, e total).
 - **Anexo VI, linha 23** {#anexo6_lin23} 3.2. Tipos de resíduos depositados
-- **Anexo VI, linha 24** {#anexo6_lin24} #classificacao-residuo - classificação;
+- **Anexo VI, linha 24** {#anexo6_lin24} - classificação;
 - **Anexo VI, linha 25** {#anexo6_lin25} - origem.
 - **Anexo VI, linha 26** {#anexo6_lin26} 3.3. Resultados obtidos em estudos e levantamentos anteriores
 - **Anexo VI, linha 27** {#anexo6_lin27} 4. Diagnóstico Ambiental da área
 - **Anexo VI, linha 28** {#anexo6_lin28} 4.1. Análises Químicas
-- **Anexo VI, linha 29** {#anexo6_lin29} #lixiviado #geotecnia #impermeabilizacao - Levantamento dos registros de falhas nos controles ambientais e/ou acidentes ocorridos ao longo da operação da atividade, tais como transbordamento de chorume, deslizamento de taludes ou maciços de resíduos, avarias na geomembrana de PEAD, falhas na impermeabilização das lagoas de tratamento, disposição irregular de resíduos, entre outros;
+- **Anexo VI, linha 29** {#anexo6_lin29} - Levantamento dos registros de falhas nos controles ambientais e/ou acidentes ocorridos ao longo da operação da atividade, tais como transbordamento de chorume, deslizamento de taludes ou maciços de resíduos, avarias na geomembrana de PEAD, falhas na impermeabilização das lagoas de tratamento, disposição irregular de resíduos, entre outros;
 - **Anexo VI, linha 30** {#anexo6_lin30} - Levantamento de todos os estudos ambientais realizados durante a operação da área.
 - **Anexo VI, linha 31** {#anexo6_lin31} 4.2 Qualidade Ambiental
-- **Anexo VI, linha 32** {#anexo6_lin32} #automonitoramento - Levantamento dos resultados obtidos por meio do automonitoramento ambiental ao longo da operação da atividade;
-- **Anexo VI, linha 33** {#anexo6_lin33} #monitoramento #agua-subterranea - Identificação dos poços de monitoramento implantados na área, acompanhada de croqui de localização e perfil construtivo;
-- **Anexo VI, linha 34** {#anexo6_lin34} #area-contaminada - Indicação dos parâmetros cujos valores medidos estavam ou permanecem acima dos Valores Orientadores, bem como das ações adotadas para a mitigação da contaminação identificada, quando aplicável.
-- **Anexo VI, linha 35** {#anexo6_lin35} #encerramento #aterro-sanitario 5. Projeto de Encerramento do Aterro Sanitário
-- **Anexo VI, linha 36** {#anexo6_lin36} #encerramento #recuperacao-ambiental #agua-pluvial #biogas #lixiviado #sistema-isolamento O projeto deve conter o memorial descritivo das propostas para os processos de encerramento e recuperação ambiental da área de disposição de resíduos sólidos, contendo orientações para execução dos serviços de confinamento da massa de resíduos, estabilidade dos taludes, drenagem das águas pluviais, drenagem dos gases, drenagem e tratamento do chorume, cobertura vegetal e isolamento da área.
-- **Anexo VI, linha 37** {#anexo6_lin37} #encerramento #encerramento-parcial 5.1. Descrição dos métodos e as etapas a serem seguidas no fechamento total ou parcial do aterro
-- **Anexo VI, linha 38** {#anexo6_lin38} #cobertura-residuo 5.2. Detalhar o sistema de cobertura final, de forma a minimizar a infiltração de água na célula ou trincheira
-- **Anexo VI, linha 39** {#anexo6_lin39} #sistema-isolamento 5.3. Detalhamento do sistema de isolamento da área
+- **Anexo VI, linha 32** {#anexo6_lin32} - Levantamento dos resultados obtidos por meio do automonitoramento ambiental ao longo da operação da atividade;
+- **Anexo VI, linha 33** {#anexo6_lin33} - Identificação dos poços de monitoramento implantados na área, acompanhada de croqui de localização e perfil construtivo;
+- **Anexo VI, linha 34** {#anexo6_lin34} - Indicação dos parâmetros cujos valores medidos estavam ou permanecem acima dos Valores Orientadores, bem como das ações adotadas para a mitigação da contaminação identificada, quando aplicável.
+- **Anexo VI, linha 35** {#anexo6_lin35} 5. Projeto de Encerramento do Aterro Sanitário
+- **Anexo VI, linha 36** {#anexo6_lin36} O projeto deve conter o memorial descritivo das propostas para os processos de encerramento e recuperação ambiental da área de disposição de resíduos sólidos, contendo orientações para execução dos serviços de confinamento da massa de resíduos, estabilidade dos taludes, drenagem das águas pluviais, drenagem dos gases, drenagem e tratamento do chorume, cobertura vegetal e isolamento da área.
+- **Anexo VI, linha 37** {#anexo6_lin37} 5.1. Descrição dos métodos e as etapas a serem seguidas no fechamento total ou parcial do aterro
+- **Anexo VI, linha 38** {#anexo6_lin38} 5.2. Detalhar o sistema de cobertura final, de forma a minimizar a infiltração de água na célula ou trincheira
+- **Anexo VI, linha 39** {#anexo6_lin39} 5.3. Detalhamento do sistema de isolamento da área
 - **Anexo VI, linha 40** {#anexo6_lin40} - detalhar a atual estrutura de isolamento
 - **Anexo VI, linha 41** {#anexo6_lin41} - descrever as ações de melhoria necessárias
-- **Anexo VI, linha 42** {#anexo6_lin42} #geotecnia 5.4. Estabilidade dos taludes
-- **Anexo VI, linha 43** {#anexo6_lin43} #geotecnia - parâmetros geotécnicos
+- **Anexo VI, linha 42** {#anexo6_lin42} 5.4. Estabilidade dos taludes
+- **Anexo VI, linha 43** {#anexo6_lin43} - parâmetros geotécnicos
 - **Anexo VI, linha 44** {#anexo6_lin44} - fator de segurança
 - **Anexo VI, linha 45** {#anexo6_lin45} - análises de estabilidade
 - **Anexo VI, linha 46** {#anexo6_lin46} - propostas para reconformação dos taludes.
 - **Anexo VI, linha 47** {#anexo6_lin47} 5.5. Sistema de drenagem
-- **Anexo VI, linha 48** {#anexo6_lin48} #agua-pluvial - descrição do sistema de drenagem de águas pluviais
-- **Anexo VI, linha 49** {#anexo6_lin49} #lixiviado - descrição do sistema de drenagem de chorume
-- **Anexo VI, linha 50** {#anexo6_lin50} #biogas - descrição do sistema de drenagem de gás
+- **Anexo VI, linha 48** {#anexo6_lin48} - descrição do sistema de drenagem de águas pluviais
+- **Anexo VI, linha 49** {#anexo6_lin49} - descrição do sistema de drenagem de chorume
+- **Anexo VI, linha 50** {#anexo6_lin50} - descrição do sistema de drenagem de gás
 - **Anexo VI, linha 51** {#anexo6_lin51} - analisar o sistema atual de drenagem, detalhando seu estado de conservação, manutenção e eficácia, apontando possíveis falhas, rachaduras e vazamentos
-- **Anexo VI, linha 52** {#anexo6_lin52} #biogas #lixiviado #agua-pluvial - estimar a quantidade gerada de gás, chorume e precipitação de projeto, e propor o novo dimensionamento caso o atual não seja suficiente de acordo com a demanda de drenagem
-- **Anexo VI, linha 53** {#anexo6_lin53} #lixiviado 5.6. Sistema de Tratamento do chorume
-- **Anexo VI, linha 54** {#anexo6_lin54} #lixiviado - descrição do sistema de tratamento do chorume
+- **Anexo VI, linha 52** {#anexo6_lin52} - estimar a quantidade gerada de gás, chorume e precipitação de projeto, e propor o novo dimensionamento caso o atual não seja suficiente de acordo com a demanda de drenagem
+- **Anexo VI, linha 53** {#anexo6_lin53} 5.6. Sistema de Tratamento do chorume
+- **Anexo VI, linha 54** {#anexo6_lin54} - descrição do sistema de tratamento do chorume
 - **Anexo VI, linha 55** {#anexo6_lin55} - avaliação da eficácia do sistema de tratamento
 - **Anexo VI, linha 56** {#anexo6_lin56} - possíveis propostas de melhoria
-- **Anexo VI, linha 57** {#anexo6_lin57} #encerramento #recuperacao-ambiental 5.7. Detalhamento de outras propostas e medidas de encerramento e recuperação ambiental da área
-- **Anexo VI, linha 58** {#anexo6_lin58} #monitoramento 6. Monitoramento ambiental
-- **Anexo VI, linha 59** {#anexo6_lin59} #monitoramento Propostas de monitoramento ambiental da área de disposição final de resíduos e ações de manutenção estrutural
-- **Anexo VI, linha 60** {#anexo6_lin60} #geotecnia #monitoramento 6.1. Monitoramento geotécnico
-- **Anexo VI, linha 61** {#anexo6_lin61} #agua-subterranea #monitoramento 6.2. Monitoramento das águas subterrâneas
-- **Anexo VI, linha 62** {#anexo6_lin62} #monitoramento 6.3. Monitoramento do solo
-- **Anexo VI, linha 63** {#anexo6_lin63} #lixiviado #monitoramento 6.4. Monitoramento do chorume
-- **Anexo VI, linha 64** {#anexo6_lin64} #biogas #monitoramento 6.5. Monitoramento do gás
+- **Anexo VI, linha 57** {#anexo6_lin57} 5.7. Detalhamento de outras propostas e medidas de encerramento e recuperação ambiental da área
+- **Anexo VI, linha 58** {#anexo6_lin58} 6. Monitoramento ambiental
+- **Anexo VI, linha 59** {#anexo6_lin59} Propostas de monitoramento ambiental da área de disposição final de resíduos e ações de manutenção estrutural
+- **Anexo VI, linha 60** {#anexo6_lin60} 6.1. Monitoramento geotécnico
+- **Anexo VI, linha 61** {#anexo6_lin61} 6.2. Monitoramento das águas subterrâneas
+- **Anexo VI, linha 62** {#anexo6_lin62} 6.3. Monitoramento do solo
+- **Anexo VI, linha 63** {#anexo6_lin63} 6.4. Monitoramento do chorume
+- **Anexo VI, linha 64** {#anexo6_lin64} 6.5. Monitoramento do gás
 - **Anexo VI, linha 65** {#anexo6_lin65} 6.6. Manutenção estrutural
 - **Anexo VI, linha 66** {#anexo6_lin66} - Manutenção dos sistemas de drenagem
-- **Anexo VI, linha 67** {#anexo6_lin67} #monitoramento - Manutenção do sistema de monitoramento
-- **Anexo VI, linha 68** {#anexo6_lin68} #efluente - Manutenção do sistema de tratamento de efluente
+- **Anexo VI, linha 67** {#anexo6_lin67} - Manutenção do sistema de monitoramento
+- **Anexo VI, linha 68** {#anexo6_lin68} - Manutenção do sistema de tratamento de efluente
 - **Anexo VI, linha 69** {#anexo6_lin69} - Manutenção de cercas e portões
 - **Anexo VI, linha 70** {#anexo6_lin70} - Manutenção de paisagismo
 - **Anexo VI, linha 71** {#anexo6_lin71} 7. Uso futuro da área
-- **Anexo VI, linha 72** {#anexo6_lin72} #biogas #aproveitamento-energetico 7.1 Levantamento do potencial de geração de biogás
-- **Anexo VI, linha 73** {#anexo6_lin73} #biogas #aproveitamento-energetico 7.2 Possíveis usos do biogás
-- **Anexo VI, linha 74** {#anexo6_lin74} #biogas #monitoramento 7.3 Instalação de sistema para monitorar a geração de gases
+- **Anexo VI, linha 72** {#anexo6_lin72} 7.1 Levantamento do potencial de geração de biogás
+- **Anexo VI, linha 73** {#anexo6_lin73} 7.2 Possíveis usos do biogás
+- **Anexo VI, linha 74** {#anexo6_lin74} 7.3 Instalação de sistema para monitorar a geração de gases
 - **Anexo VI, linha 75** {#anexo6_lin75} 7.4. Planos de usos futuros da área
-- **Anexo VI, linha 76** {#anexo6_lin76} #recuperacao-ambiental 7.5. Recomposição vegetal e paisagismo
+- **Anexo VI, linha 76** {#anexo6_lin76} 7.5. Recomposição vegetal e paisagismo
 - **Anexo VI, linha 77** {#anexo6_lin77} 8. Cronograma de encerramento e recuperação da área
 - **Anexo VI, linha 78** {#anexo6_lin78} 9. Estimativa de Custos
 - **Anexo VI, linha 79** {#anexo6_lin79} 10. Desenhos – anexos
 - **Anexo VI, linha 80** {#anexo6_lin80} a) área do aterro;
 - **Anexo VI, linha 81** {#anexo6_lin81} b) indicação das áreas de disposição dos resíduos sólidos;
 - **Anexo VI, linha 82** {#anexo6_lin82} c) representação da ocupação da área ao longo do tempo de operação;
-- **Anexo VI, linha 83** {#anexo6_lin83} #agua-pluvial d) sistema de drenagem superficial e subsuperficial;
-- **Anexo VI, linha 84** {#anexo6_lin84} #biogas e) sistema de drenagem de gases;
-- **Anexo VI, linha 85** {#anexo6_lin85} #lixiviado f) sistema de tratamento do percolado;
+- **Anexo VI, linha 83** {#anexo6_lin83} d) sistema de drenagem superficial e subsuperficial;
+- **Anexo VI, linha 84** {#anexo6_lin84} e) sistema de drenagem de gases;
+- **Anexo VI, linha 85** {#anexo6_lin85} f) sistema de tratamento do percolado;
 - **Anexo VI, linha 86** {#anexo6_lin86} g) representação do aterro concluído;
 - **Anexo VI, linha 87** {#anexo6_lin87} -cortes;
 - **Anexo VI, linha 88** {#anexo6_lin88} -detalhes importantes.
-- **Anexo VI, linha 89** {#anexo6_lin89} #art-anotacao #responsavel-tecnico 11. ART – Anotação de Responsabilidade técnica do responsável pelo Plano de encerramento e recuperação ambiental, e do responsável por implementar o plano.
+- **Anexo VI, linha 89** {#anexo6_lin89} 11. ART – Anotação de Responsabilidade técnica do responsável pelo Plano de encerramento e recuperação ambiental, e do responsável por implementar o plano.
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

@@ -33,7 +33,6 @@ fonte: "Planalto (Presidência da República – Casa Civil), impressão do nave
 **Preâmbulo** {#preambulo} O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
 ###### Art. 1º {#art1}
-Tags: #consorcio-publico #ambito-aplicacao #uniao #estado #municipio
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026/2020]] (incluído: § 4º)
 
 **Art. 1º, caput** {#art1_cpt} Esta Lei dispõe sobre normas gerais para a União, os Estados, o Distrito Federal e os Municípios contratarem consórcios públicos para a realização de objetivos de interesse comum e dá outras providências.
@@ -42,12 +41,11 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026/2020]] (incluído: § 4º)
 
 **Art. 1º, § 2º** {#art1_par2} A União somente participará de consórcios públicos em que também façam parte todos os Estados em cujos territórios estejam situados os Municípios consorciados.
 
-**Art. 1º, § 3º** {#art1_par3} #saude-publica Os consórcios públicos, na área de saúde, deverão obedecer aos princípios, diretrizes e normas que regulam o Sistema Único de Saúde – SUS.
+**Art. 1º, § 3º** {#art1_par3} Os consórcios públicos, na área de saúde, deverão obedecer aos princípios, diretrizes e normas que regulam o Sistema Único de Saúde – SUS.
 
-**Art. 1º, § 4º** {#art1_par4} #incluido #convenio Aplicam-se aos convênios de cooperação, no que couber, as disposições desta Lei relativas aos consórcios públicos. *(Incluído pela [[lei-federal-14026-2020|Lei nº 14.026, de 2020]])*
+**Art. 1º, § 4º** {#art1_par4} #incluido Aplicam-se aos convênios de cooperação, no que couber, as disposições desta Lei relativas aos consórcios públicos. *(Incluído pela [[lei-federal-14026-2020|Lei nº 14.026, de 2020]])*
 
 ###### Art. 2º {#art2}
-Tags: #consorcio-publico #convenio #dispensa-licitacao
 
 **Art. 2º, caput** {#art2_cpt} Os objetivos dos consórcios públicos serão determinados pelos entes da Federação que se consorciarem, observados os limites constitucionais.
 
@@ -61,12 +59,10 @@ Tags: #consorcio-publico #convenio #dispensa-licitacao
 **Art. 2º, § 3º** {#art2_par3} Os consórcios públicos poderão outorgar concessão, permissão ou autorização de obras ou serviços públicos mediante autorização prevista no contrato de consórcio público, que deverá indicar de forma específica o objeto da concessão, permissão ou autorização e as condições a que deverá atender, observada a legislação de normas gerais em vigor.
 
 ###### Art. 3º {#art3}
-Tags: #consorcio-publico
 
 **Art. 3º, caput** {#art3_cpt} O consórcio público será constituído por contrato cuja celebração dependerá da prévia subscrição de protocolo de intenções.
 
 ###### Art. 4º {#art4}
-Tags: #consorcio-publico
 
 **Art. 4º, caput** {#art4_cpt} São cláusulas necessárias do protocolo de intenções as que estabeleçam:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} a denominação, a finalidade, o prazo de duração e a sede do consórcio;
@@ -103,7 +99,6 @@ Tags: #consorcio-publico
 **Art. 4º, § 5º** {#art4_par5} O protocolo de intenções deverá ser publicado na imprensa oficial.
 
 ###### Art. 5º {#art5}
-Tags: #consorcio-publico
 
 **Art. 5º, caput** {#art5_cpt} O contrato de consórcio público será celebrado com a ratificação, mediante lei, do protocolo de intenções.
 
@@ -116,7 +111,6 @@ Tags: #consorcio-publico
 **Art. 5º, § 4º** {#art5_par4} É dispensado da ratificação prevista no caput deste artigo o ente da Federação que, antes de subscrever o protocolo de intenções, disciplinar por lei a sua participação no consórcio público.
 
 ###### Art. 6º {#art6}
-Tags: #consorcio-publico
 Alterações: [[lei-federal-13822-2019|Lei nº 13.822/2019]] (nova redação: § 2º)
 
 **Art. 6º, caput** {#art6_cpt} O consórcio público adquirirá personalidade jurídica:
@@ -128,12 +122,10 @@ Alterações: [[lei-federal-13822-2019|Lei nº 13.822/2019]] (nova redação: §
 **Art. 6º, § 2º** {#art6_par2} #redacao-alterada O consórcio público, com personalidade jurídica de direito público ou privado, observará as normas de direito público no que concerne à realização de licitação, à celebração de contratos, à prestação de contas e à admissão de pessoal, que será regido pela Consolidação das Leis do Trabalho (CLT), aprovada pelo [[decreto-lei-federal-5452-1943|Decreto-Lei nº 5.452, de 1º de maio de 1943]]. *(Redação dada pela [[lei-federal-13822-2019|Lei nº 13.822, de 2019]])*
 
 ###### Art. 7º {#art7}
-Tags: #consorcio-publico
 
 **Art. 7º, caput** {#art7_cpt} Os estatutos disporão sobre a organização e o funcionamento de cada um dos órgãos constitutivos do consórcio público.
 
 ###### Art. 8º {#art8}
-Tags: #consorcio-publico
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026/2020]] (nova redação: § 1º)
 
 **Art. 8º, caput** {#art8_cpt} Os entes consorciados somente entregarão recursos ao consórcio público mediante contrato de rateio.
@@ -149,21 +141,18 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026/2020]] (nova redação: §
 **Art. 8º, § 5º** {#art8_par5} Poderá ser excluído do consórcio público, após prévia suspensão, o ente consorciado que não consignar, em sua lei orçamentária ou em créditos adicionais, as dotações suficientes para suportar as despesas assumidas por meio de contrato de rateio.
 
 ###### Art. 9º {#art9}
-Tags: #consorcio-publico #fiscalizacao
 
 **Art. 9º, caput** {#art9_cpt} A execução das receitas e despesas do consórcio público deverá obedecer às normas de direito financeiro aplicáveis às entidades públicas.
 
 **Art. 9º, parágrafo único** {#art9_par1u} O consórcio público está sujeito à fiscalização contábil, operacional e patrimonial pelo Tribunal de Contas competente para apreciar as contas do Chefe do Poder Executivo representante legal do consórcio, inclusive quanto à legalidade, legitimidade e economicidade das despesas, atos, contratos e renúncia de receitas, sem prejuízo do controle externo a ser exercido em razão de cada um dos contratos de rateio.
 
 ###### Art. 10 {#art10}
-Tags: #consorcio-publico #responsabilidade
 
 **Art. 10, caput** {#art10_cpt} (VETADO)
 
 **Art. 10, parágrafo único** {#art10_par1u} Os agentes públicos incumbidos da gestão de consórcio não responderão pessoalmente pelas obrigações contraídas pelo consórcio público, mas responderão pelos atos praticados em desconformidade com a lei ou com as disposições dos respectivos estatutos.
 
 ###### Art. 11 {#art11}
-Tags: #consorcio-publico
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026/2020]] (nova redação: § 2º)
 
 **Art. 11, caput** {#art11_cpt} A retirada do ente da Federação do consórcio público dependerá de ato formal de seu representante na assembléia geral, na forma previamente disciplinada por lei.
@@ -173,7 +162,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026/2020]] (nova redação: §
 **Art. 11, § 2º** {#art11_par2} #redacao-alterada A retirada ou a extinção de consórcio público ou convênio de cooperação não prejudicará as obrigações já constituídas, inclusive os contratos, cuja extinção dependerá do pagamento das indenizações eventualmente devidas. *(Redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 2020]])*
 
 ###### Art. 12 {#art12}
-Tags: #consorcio-publico
 Alterações: [[lei-federal-14662-2023|Lei nº 14.662/2023]] (nova redação: caput); [[lei-federal-14026-2020|Lei nº 14.026/2020]] (revogado: § 1º)
 
 **Art. 12, caput** {#art12_cpt} #redacao-alterada A extinção de contrato de consórcio público dependerá de instrumento aprovado pela assembleia geral, ratificado mediante lei por todos os entes consorciados. *(Redação dada pela [[lei-federal-14662-2023|Lei nº 14.662, de 2023]])*
@@ -183,13 +171,11 @@ Alterações: [[lei-federal-14662-2023|Lei nº 14.662/2023]] (nova redação: ca
 **Art. 12, § 2º** {#art12_par2} Até que haja decisão que indique os responsáveis por cada obrigação, os entes consorciados responderão solidariamente pelas obrigações remanescentes, garantindo o direito de regresso em face dos entes beneficiados ou dos que deram causa à obrigação.
 
 ###### Art. 12-A {#art12-a}
-Tags: #consorcio-publico
 Alterações: [[lei-federal-14662-2023|Lei nº 14.662/2023]] (incluído: artigo inteiro)
 
 **Art. 12-A, caput** {#art12-a_cpt} #incluido A alteração de contrato de consórcio público dependerá de instrumento aprovado pela assembleia geral, ratificado mediante lei pela maioria dos entes consorciados. *(Incluído pela [[lei-federal-14662-2023|Lei nº 14.662, de 2023]])*
 
 ###### Art. 13 {#art13}
-Tags: #consorcio-publico
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026/2020]] (revogado: § 6º; incluído: § 8º)
 
 **Art. 13, caput** {#art13_cpt} Deverão ser constituídas e reguladas por contrato de programa, como condição de sua validade, as obrigações que um ente da Federação constituir para com outro ente da Federação ou para com consórcio público no âmbito de gestão associada em que haja a prestação de serviços públicos ou a transferência total ou parcial de encargos, serviços, pessoal ou de bens necessários à continuidade dos serviços transferidos.
@@ -216,10 +202,9 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026/2020]] (revogado: § 6º; 
 
 **Art. 13, § 7º** {#art13_par7} Excluem-se do previsto no caput deste artigo as obrigações cujo descumprimento não acarrete qualquer ônus, inclusive financeiro, a ente da Federação ou a consórcio público.
 
-**Art. 13, § 8º** {#art13_par8} #incluido #saneamento Os contratos de prestação de serviços públicos de saneamento básico deverão observar o [[constituicao-federal-1988#art175|art. 175 da Constituição Federal]], vedada a formalização de novos contratos de programa para esse fim. *(Incluído pela [[lei-federal-14026-2020|Lei nº 14.026, de 2020]])*
+**Art. 13, § 8º** {#art13_par8} #incluido Os contratos de prestação de serviços públicos de saneamento básico deverão observar o [[constituicao-federal-1988#art175|art. 175 da Constituição Federal]], vedada a formalização de novos contratos de programa para esse fim. *(Incluído pela [[lei-federal-14026-2020|Lei nº 14.026, de 2020]])*
 
 ###### Art. 14 {#art14}
-Tags: #consorcio-publico #convenio #uniao
 Alterações: [[lei-federal-13821-2019|Lei nº 13.821/2019]] (incluído: parágrafo único)
 
 **Art. 14, caput** {#art14_cpt} A União poderá celebrar convênios com os consórcios públicos, com o objetivo de viabilizar a descentralização e a prestação de políticas públicas em escalas adequadas.
@@ -227,12 +212,10 @@ Alterações: [[lei-federal-13821-2019|Lei nº 13.821/2019]] (incluído: parágr
 **Art. 14, parágrafo único** {#art14_par1u} #incluido Para a celebração dos convênios de que trata o caput deste artigo, as exigências legais de regularidade aplicar-se-ão ao próprio consórcio público envolvido, e não aos entes federativos nele consorciados. *(Incluído pela [[lei-federal-13821-2019|Lei nº 13.821, de 2019]])*
 
 ###### Art. 15 {#art15}
-Tags: #consorcio-publico
 
 **Art. 15, caput** {#art15_cpt} No que não contrariar esta Lei, a organização e funcionamento dos consórcios públicos serão disciplinados pela legislação que rege as associações civis.
 
 ###### Art. 16 {#art16}
-Tags: #alteracao
 
 **Art. 16, caput** {#art16_cpt} O [[lei-federal-10406-2002#art41_cpt_inc4|inciso IV do art. 41 da Lei nº 10.406, de 10 de janeiro de 2002]] - Código Civil, passa a vigorar com a seguinte redação:
 
@@ -246,7 +229,6 @@ Tags: #alteracao
 > ........................................................................................" (NR)
 
 ###### Art. 17 {#art17}
-Tags: #alteracao #dispensa-licitacao
 
 **Art. 17, caput** {#art17_cpt} Os arts. 23, 24, 26 e 112 da [[lei-federal-8666-1993|Lei nº 8.666, de 21 de junho de 1993]], passam a vigorar com a seguinte redação:
 
@@ -279,7 +261,6 @@ Tags: #alteracao #dispensa-licitacao
 > [[lei-federal-8666-1993#art112_par2|§ 2º]] É facultado à entidade interessada o acompanhamento da licitação e da execução do contrato." (NR)
 
 ###### Art. 18 {#art18}
-Tags: #alteracao
 
 **Art. 18, caput** {#art18_cpt} O [[lei-federal-8429-1992#art10|art. 10 da Lei nº 8.429, de 2 de junho de 1992]], passa a vigorar acrescido dos seguintes incisos:
 
@@ -293,17 +274,14 @@ Tags: #alteracao
 > [[lei-federal-8429-1992#art10_cpt_inc15|XV –]] celebrar contrato de rateio de consórcio público sem suficiente e prévia dotação orçamentária, ou sem observar as formalidades previstas na lei." (NR)
 
 ###### Art. 19 {#art19}
-Tags: #transicao
 
 **Art. 19, caput** {#art19_cpt} O disposto nesta Lei não se aplica aos convênios de cooperação, contratos de programa para gestão associada de serviços públicos ou instrumentos congêneres, que tenham sido celebrados anteriormente a sua vigência.
 
 ###### Art. 20 {#art20}
-Tags: #regulamentacao
 
 **Art. 20, caput** {#art20_cpt} O Poder Executivo da União regulamentará o disposto nesta Lei, inclusive as normas gerais de contabilidade pública que serão observadas pelos consórcios públicos para que sua gestão financeira e orçamentária se realize na conformidade dos pressupostos da responsabilidade fiscal.
 
 ###### Art. 21 {#art21}
-Tags: #vigencia
 
 **Art. 21, caput** {#art21_cpt} Esta Lei entra em vigor na data de sua publicação.
 

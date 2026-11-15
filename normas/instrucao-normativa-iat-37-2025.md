@@ -41,7 +41,6 @@ Considerando o Decreto Estadual nº 9.541, de 10 de abril de 2025, que regulamen
 ### RESOLVE
 
 ###### Art. 1º {#art1}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 1º, caput** {#art1_cpt} Estabelecer requisitos, critérios, diretrizes e procedimentos para o licenciamento ambiental de empreendimentos de saneamento que contemplem sistemas de esgotamento sanitário e sistemas de abastecimento de água no Estado do Paraná.
 
 ## CAPÍTULO I {#cap1}
@@ -49,7 +48,6 @@ Tags: #saneamento #licenciamento-ambiental
 DOS EMPREENDIMENTOS DE SANEAMENTO
 
 ###### Art. 2º {#art2}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 2º, caput** {#art2_cpt} Esta Instrução Normativa aplica-se aos seguintes empreendimentos de saneamento:
 - **Art. 2º, inciso I** {#art2_cpt_inc1} Sistema de Esgotamento Sanitário;
 - **Art. 2º, inciso II** {#art2_cpt_inc2} Sistema de Abastecimento de Água.
@@ -60,7 +58,6 @@ Tags: #saneamento #licenciamento-ambiental
 DAS DEFINIÇÕES
 
 ###### Art. 3º {#art3}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 3º, caput** {#art3_cpt} Para fins desta Instrução Normativa consideram-se as seguintes definições:
 - **Art. 3º, inciso I** {#art3_cpt_inc1} esgoto sanitário: despejos líquidos constituídos de efluentes residenciais, comerciais e águas de infiltração na rede coletora;
 - **Art. 3º, inciso II** {#art3_cpt_inc2} estação de tratamento de esgoto - ETE: conjunto de unidades de tratamento, equipamentos, órgãos auxiliares, acessórios e sistemas de utilidades, cuja finalidade é a redução das cargas poluidoras do esgoto sanitário e condicionamento da matéria residual resultante do tratamento;
@@ -78,7 +75,6 @@ Tags: #saneamento #licenciamento-ambiental
 DOS ATOS ADMINISTRATIVOS PARA O LICENCIAMENTO AMBIENTAL DE EMPREENDIMENTOS DE SANEAMENTO
 
 ###### Art. 4º {#art4}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 4º, caput** {#art4_cpt} O órgão licenciador competente, no exercício de sua competência de controle ambiental, expedirá, para fins de licenciamento ambiental de empreendimentos de saneamento, os seguintes atos administrativos:
 - **Art. 4º, inciso I** {#art4_cpt_inc1} Licença Ambiental por Adesão e Compromisso - LAC: autoriza a instalação e a operação de empreendimentos e/ou atividades de baixo potencial poluidor/degradador do meio ambiente – nível II, passíveis de licenciamento por procedimento automático, mediante Declaração de Adesão e Compromisso do empreendedor aos critérios, pré-condições, requisitos e condicionantes ambientais estabelecidos pelo órgão licenciador competente, desde que se conheçam previamente os impactos ambientais do empreendimento e/ou atividade, as características ambientais da área de implantação e as condições de sua instalação e operação;
 - **Art. 4º, inciso II** {#art4_cpt_inc2} Licença Ambiental Simplificada - LAS: aprova a localização e a concepção de empreendimentos e/ou atividades de médio potencial poluidor/degradador do meio ambiente, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos, bem como autoriza sua instalação e operação de acordo com as especificações constantes dos requerimentos, planos, programas e/ou projetos aprovados, incluindo as medidas de controle ambiental e demais condicionantes determinadas pelo órgão licenciador competente;
@@ -100,7 +96,6 @@ Tags: #saneamento #licenciamento-ambiental
 DAS MODALIDADES DE LICENCIAMENTO AMBIENTAL
 
 ###### Art. 5º {#art5}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 5º, caput** {#art5_cpt} Para fins desta Instrução Normativa constituem modalidades de licenciamento ambiental:
 - **Art. 5º, inciso I** {#art5_cpt_inc1} Licenciamento Ambiental Trifásico: licenciamento no qual a Licença Prévia - LP, a Licença de Instalação - LI e a Licença de Operação - LO do empreendimento e/ou atividade são concedidas em etapas sucessivas;
 - **Art. 5º, inciso II** {#art5_cpt_inc2} Licenciamento Ambiental Bifásico: licenciamento de ampliações e/ou diversificações do empreendimento que não impliquem no aumento do seu potencial poluidor e/ou degradador do meio ambiente, no qual a Licença Prévia de Ampliação - LPA e a Licença de Operação de Ampliação - LOA são concedidas em etapas sucessivas, sem a necessidade de Licença de Instalação de Ampliação - LIA;
@@ -114,7 +109,6 @@ Tags: #saneamento #licenciamento-ambiental
 DOS CRITÉRIOS PARA ENQUADRAMENTO DO LICENCIAMENTO AMBIENTAL
 
 ###### Art. 6º {#art6}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 6º, caput** {#art6_cpt} Para efeitos desta Instrução Normativa, os empreendimentos de saneamento serão licenciados de acordo com o porte.
 
 ### Seção I
@@ -122,7 +116,6 @@ Tags: #saneamento #licenciamento-ambiental
 Da Definição do Porte
 
 ###### Art. 7º {#art7}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 7º, caput** {#art7_cpt} Para os efeitos desta Instrução Normativa, o porte de empreendimentos de saneamento é definido de acordo com a vazão de alcance de projeto, conforme quadro constante do [[#anexo1|ANEXO I]].
 
 ### Seção II
@@ -130,21 +123,17 @@ Tags: #saneamento #licenciamento-ambiental
 Da Definição do Tipo de Licenciamento e de Estudo Ambiental
 
 ###### Art. 8º {#art8}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 8º, caput** {#art8_cpt} A definição da modalidade de licenciamento ambiental e dos estudos ambientais a que serão submetidos os empreendimentos de saneamento a serem instalados obedecerá aos critérios de licenciamento estabelecidos nos quadros constantes no [[#anexo1|ANEXO I]].
 
 ###### Art. 9º {#art9}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 9º, caput** {#art9_cpt} Havendo qualquer alteração nas características do porte do empreendimento que implique em mudança da modalidade de licenciamento, deverá ser requerido novo procedimento de licenciamento ambiental pelo empreendedor.
 
 ###### Art. 10º {#art10}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 10º, caput** {#art10_cpt} Ficam passíveis de Dispensa de Licenciamento Ambiental os coletores tronco e rede coletora de esgoto, que atendam aos critérios estabelecidos no Decreto Estadual n° 9.541, de 10 de abril de 2025.
 **Art. 10º, § 1º** {#art10_par1} A dispensa de licenciamento ambiental não exime o requerente das exigências legais quanto à preservação do meio ambiente, bem como da obtenção de alvarás e do atendimento a outras exigências federais, estaduais e municipais.
 **Art. 10º, § 2º** {#art10_par2} Quando da renovação do licenciamento ambiental do sistema de esgotamento sanitário a DLAM deverá ser incorporada ao licenciamento ambiental.
 
 ###### Art. 11º {#art11}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 11º, caput** {#art11_cpt} Ficam passíveis de Licenciamento Ambiental por Adesão e Compromisso, desde que atendidos os critérios estabelecidos no Decreto Estadual n° 9.541, de 10 de abril de 2025, os sistemas de abastecimento de água que adotem as seguintes formas de tratamento:
 - **Art. 11º, inciso I** {#art11_cpt_inc1} unidades de tratamento simplificado (apenas cloração + fluoretação) das águas de captações superficiais e subterrâneas;
 - **Art. 11º, inciso II** {#art11_cpt_inc2} estações de tratamento de água com vazão de até 30 L/s.
@@ -164,7 +153,6 @@ Do Licenciamento Monofásico
 Da Licença Ambiental por Adesão e Compromisso - LAC
 
 ###### Art. 12º {#art12}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 12º, caput** {#art12_cpt} Os requerimentos para Licença Ambiental por Adesão e Compromisso - LAC deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 12º, inciso I** {#art12_cpt_inc1} mapa de situação da Estação de Tratamento de Água com imagem aérea atualizada, em datum SIRGAS 2000, projeção UTM e contendo, no mínimo: a) limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural (em caso de imóvel rural); b) estruturas físicas atualmente existentes e/ou previstas para o exercício da atividade; c) distância dos corpos hídricos; d) Áreas de Preservação Permanente; e) áreas de Reserva Legal e maciços florestais remanescentes; f) áreas com restrições; g) pontos de referência; h) arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
 - **Art. 12º, inciso II** {#art12_cpt_inc2} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e com a legislação urbanística e ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo2|ANEXO II]];
@@ -191,7 +179,6 @@ Tags: #saneamento #licenciamento-ambiental
 Da Licença Ambiental Simplificada – LAS
 
 ###### Art. 13º {#art13}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 13º, caput** {#art13_cpt} Os requerimentos para Licença Ambiental Simplificada - LAS deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 13º, inciso I** {#art13_cpt_inc1} mapa de situação do empreendimento (ETA/ETE/EEE) com imagem aérea atualizada, em datum SIRGAS 2000, projeção UTM e contendo, no mínimo: a) limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural (em caso de imóvel rural); b) estruturas físicas atualmente existentes e/ou previstas para o exercício da atividade; c) distância dos corpos hídricos; d) Áreas de Preservação Permanente; e) áreas de Reserva Legal e maciços florestais remanescentes; f) áreas com restrições; g) pontos de referência; h) arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
 - **Art. 13º, inciso II** {#art13_cpt_inc2} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e com a legislação urbanística e ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo2|ANEXO II]];
@@ -211,12 +198,10 @@ Tags: #saneamento #licenciamento-ambiental
 - **Art. 13º, inciso XVI** {#art13_cpt_inc16} recolhimento da taxa ambiental, bem como dos demais valores cabíveis referentes à publicação da súmula da concessão da Licença requerida, no Diário Oficial do Estado, a ser efetivada pelo IAT.
 
 ###### Art. 14º {#art14}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 14º, caput** {#art14_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença Ambiental Simplificada – LAS somente poderá ser emitida após a apresentação da Autorização Florestal - AF e da Autorização Ambiental - AA referente à fauna, emitidas pelo IAT.
 **Art. 14º, parágrafo único** {#art14_par1u} A LAS contemplará as condicionantes estabelecidas na Autorização Florestal e da Autorização Ambiental - AA referente à fauna.
 
 ###### Art. 15º {#art15}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 15º, caput** {#art15_cpt} A operação do empreendimento está condicionada a apresentação dos seguintes documentos:
 - **Art. 15º, inciso I** {#art15_cpt_inc1} laudo de conclusão de obra, acompanhado de registro fotográfico, elaborado por profissional com a devida Anotação de Responsabilidade Técnica - ART;
 - **Art. 15º, inciso II** {#art15_cpt_inc2} projeto As built da ETA/ETE/EEE;
@@ -228,7 +213,6 @@ Tags: #saneamento #licenciamento-ambiental
 Do Licenciamento Trifásico
 
 ###### Art. 16º {#art16}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 16º, caput** {#art16_cpt} .Os empreendimentos que necessitam de Licenças Prévia, de Instalação e de Operação, deverão requerê-las sucessivamente.
 
 ### Subseção I
@@ -236,7 +220,6 @@ Tags: #saneamento #licenciamento-ambiental
 Da Licença Prévia - LP
 
 ###### Art. 17º {#art17}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 17º, caput** {#art17_cpt} Os requerimentos para Licença Prévia - LP deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 17º, inciso I** {#art17_cpt_inc1} mapa de situação do empreendimento (ETA/ETE/EEE) com imagem aérea atualizada, em datum SIRGAS 2000, projeção UTM e contendo, no mínimo: a) limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural (em caso de imóvel rural); b) estruturas físicas; c) distância dos corpos hídricos; d) Áreas de Preservação Permanente; e) áreas de Reserva Legal e maciços florestais remanescentes; f) áreas com restrições; g) pontos de referência; h) arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
 - **Art. 17º, inciso II** {#art17_cpt_inc2} Certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e com a legislação urbanística e ambiental, bem como que atendam as demais exigências legais e administrativas perante o município, conforme modelo do [[#anexo2|ANEXO II]];
@@ -255,7 +238,6 @@ Tags: #saneamento #licenciamento-ambiental
 - **Art. 17º, inciso XV** {#art17_cpt_inc15} recolhimento da taxa ambiental, bem como dos demais valores cabíveis referentes à publicação da súmula da concessão da Licença requerida, no Diário Oficial do Estado, a ser efetivada pelo IAT.
 
 ###### Art. 18º {#art18}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 18º, caput** {#art18_cpt} Nos procedimentos de Licença Prévia - LP, quando necessária a supressão de vegetação, esta somente poderá ser emitida após a manifestação sobre a tipologia florestal e sua viabilidade de supressão, visando análise integrada do licenciamento.
 
 ### Subseção II
@@ -263,7 +245,6 @@ Tags: #saneamento #licenciamento-ambiental
 Da Licença de Instalação - LI
 
 ###### Art. 19º {#art19}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 19º, caput** {#art19_cpt} Os requerimentos para Licença de Instalação - LI deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 19º, inciso I** {#art19_cpt_inc1} cópia da Licença anterior;
 - **Art. 19º, inciso II** {#art19_cpt_inc2} relatório de atendimento das condicionantes da Licença anterior;
@@ -278,7 +259,6 @@ Tags: #saneamento #licenciamento-ambiental
 - **Art. 19º, inciso XI** {#art19_cpt_inc11} recolhimento da taxa ambiental, bem como dos demais valores cabíveis referentes à publicação da súmula da concessão da Licença requerida, no Diário Oficial do Estado, a ser efetivada pelo IAT.
 
 ###### Art. 20º {#art20}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 20º, caput** {#art20_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença de Instalação - LI somente poderá ser emitida após a apresentação da Autorização Florestal - AF e da Autorização Ambiental - AA referentes à fauna.
 **Art. 20º, parágrafo único** {#art20_par1u} A LI contemplará as condicionantes estabelecidas na Autorização Florestal e na Autorização Ambiental - AA referente à fauna.
 
@@ -287,7 +267,6 @@ Tags: #saneamento #licenciamento-ambiental
 Da Licença de Operação - LO
 
 ###### Art. 21º {#art21}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 21º, caput** {#art21_cpt} Os requerimentos para Licença de Operação – LO deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 21º, inciso I** {#art21_cpt_inc1} cópia da Licença anterior;
 - **Art. 21º, inciso II** {#art21_cpt_inc2} relatório de atendimento das condicionantes da Licença anterior, bem como dos programas ambientais propostos nos estudos ambientais apresentados nas fases anteriores de licenciamento;
@@ -311,7 +290,6 @@ Tags: #saneamento #licenciamento-ambiental
 DOS PRAZOS DE VALIDADE DAS LICENÇAS
 
 ###### Art. 22º {#art22}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 22º, caput** {#art22_cpt} O órgão ambiental competente estabelecerá os prazos de validade para cada tipo de licença e autorização ambiental, especificando-os no respectivo documento, levando em consideração os seguintes aspectos:
 - **Art. 22º, inciso I** {#art22_cpt_inc1} o prazo de validade da Licença por Adesão e Compromisso - LAC: - 02 (dois) anos para a primeira licença. Renovável; - 05 (cinco) anos a partir da primeira renovação.
 - **Art. 22º, inciso II** {#art22_cpt_inc2} o prazo de validade da Licença Ambiental Simplificada - LAS será de até 10 (dez) anos, podendo ser renovada a critério técnico do órgão ambiental competente;
@@ -329,11 +307,9 @@ Tags: #saneamento #licenciamento-ambiental
 DA RENOVAÇÃO E DA PRORROGAÇÃO DO LICENCIAMENTO AMBIENTAL
 
 ###### Art. 23º {#art23}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 23º, caput** {#art23_cpt} A Renovação do Licenciamento Ambiental aplica-se à Licença Ambiental por Adesão e Compromisso, à Licença Ambiental Simplificada e à Licença de Operação.
 
 ###### Art. 24º {#art24}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 24º, caput** {#art24_cpt} O Instituto Água e Terra - IAT poderá prorrogar a validade da Licença Prévia, Licença Prévia de Ampliação, Licença de Instalação, Licença de Instalação de Ampliação e da Licença de Instalação de Regularização, mediante solicitação do requerente, desde que devidamente motivada.
 **Art. 24º, parágrafo único** {#art24_par1u} A prorrogação poderá automática, desde que:
 - **Art. 24º, inciso I** {#art24_cpt_inc1} a licença esteja válida;
@@ -345,7 +321,6 @@ Tags: #saneamento #licenciamento-ambiental
 Da Renovação da Licença Ambiental por Adesão e Compromisso - RLAC
 
 ###### Art. 25º {#art25}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 25º, caput** {#art25_cpt} Os requerimentos para Renovação de Licença Ambiental por Adesão e Compromisso - LAC deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 25º, inciso I** {#art25_cpt_inc1} cópia da Licença anterior;
 - **Art. 25º, inciso II** {#art25_cpt_inc2} relatório de atendimento das condicionantes da Licença anterior;
@@ -373,7 +348,6 @@ Tags: #saneamento #licenciamento-ambiental
 Da Renovação da Licença Ambiental Simplificada - RLAS
 
 ###### Art. 26º {#art26}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 26º, caput** {#art26_cpt} Os requerimentos para Renovação da Licença Ambiental Simplificada - RLAS deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 26º, inciso I** {#art26_cpt_inc1} cópia da Licença anterior;
 - **Art. 26º, inciso II** {#art26_cpt_inc2} relatório de atendimento das condicionantes da Licença anterior;
@@ -399,7 +373,6 @@ Tags: #saneamento #licenciamento-ambiental
 Da Renovação da Licença de Operação- RLO
 
 ###### Art. 27º {#art27}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 27º, caput** {#art27_cpt} Os requerimentos para Renovação de Licença de Operação – RLO deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 27º, inciso I** {#art27_cpt_inc1} cópia da Licença anterior;
 - **Art. 27º, inciso II** {#art27_cpt_inc2} relatório de atendimento das condicionantes da Licença anterior;
@@ -425,12 +398,10 @@ Tags: #saneamento #licenciamento-ambiental
 DO LICENCIAMENTO AMBIENTAL DE AMPLIAÇÃO
 
 ###### Art. 28º {#art28}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 28º, caput** {#art28_cpt} Para as ampliações e/ou alterações definitivas nos empreendimentos e/ou atividades detentoras de Licença de Operação - LO ou de Licença Ambiental Simplificada - LAS e que acarretem em impactos ambientais em sua instalação e operação, bem como caracterizem aumento de potencial poluidor/degradador do meio ambiente, deve ser requerido o licenciamento específico, trifásico ou bifásico, para a parte ampliada ou alterada.
 **Art. 28º, parágrafo único** {#art28_par1u} No caso de ampliações e/ou alterações que não acarretem impactos ambientais em sua instalação e operação, tampouco aumento do potencial poluidor/degradador do meio ambiente, poderá ser requerida Autorização Ambiental.
 
 ###### Art. 29º {#art29}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 29º, caput** {#art29_cpt} As informações prestadas nos requerimentos de licenciamento de ampliação deverão contemplar o empreendimento em operação, bem como ampliação prevista.
 
 ### Seção I
@@ -438,11 +409,9 @@ Tags: #saneamento #licenciamento-ambiental
 Da Licença Ambiental Simplificada de Ampliação - LASA
 
 ###### Art. 30º {#art30}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 30º, caput** {#art30_cpt} A Licença Ambiental Simplificada de Ampliação - LASA aprova a localização e a concepção de ampliações ou alterações definitivas nos empreendimentos e/ou atividades detentoras de Licença Ambiental Simplificada – LAS ou Licença Ambiental por Adesão e Compromisso - LAC, somente nos casos em que a somatória do porte da estrutura existente acrescida da estrutura a ser licenciada não ultrapasse o limite estabelecido para a referida licença em normas específicas, caso contrário estará sujeito à Licença Prévia de Ampliação – LPA.
 
 ###### Art. 31º {#art31}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 31º, caput** {#art31_cpt} Os requerimentos para Licença Ambiental Simplificada de Ampliação - LASA deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 31º, inciso I** {#art31_cpt_inc1} cópia da licença anterior;
 - **Art. 31º, inciso II** {#art31_cpt_inc2} relatório de atendimento das condicionantes da licença anterior;
@@ -467,12 +436,10 @@ Tags: #saneamento #licenciamento-ambiental
 - **Art. 31º, inciso XX** {#art31_cpt_inc20} recolhimento da taxa ambiental, bem como dos demais valores cabíveis referentes à publicação da súmula da concessão da Licença requerida, no Diário Oficial do Estado, a ser efetivada pelo IAT.
 
 ###### Art. 32º {#art32}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 32º, caput** {#art32_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença Ambiental Simplificada de Ampliação – LASA somente poderá ser emitida após a apresentação da Autorização Florestal - AF e da Autorização Ambiental - AA referente à fauna, emitidas pelo IAT.
 **Art. 32º, parágrafo único** {#art32_par1u} A LASA contemplará as condicionantes estabelecidas na Autorização Florestal e da Autorização Ambiental - AA referente à fauna.
 
 ###### Art. 33º {#art33}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 33º, caput** {#art33_cpt} A operação do empreendimento está condicionada a apresentação dos seguintes documentos:
 - **Art. 33º, inciso I** {#art33_cpt_inc1} laudo de conclusão de obra, acompanhado de registro fotográfico, elaborado por profissional com a devida Anotação de Responsabilidade Técnica - ART;
 - **Art. 33º, inciso II** {#art33_cpt_inc2} projeto As built da ETA/ETE/EEE;
@@ -483,11 +450,9 @@ Tags: #saneamento #licenciamento-ambiental
 Da Licença Prévia de Ampliação - LPA
 
 ###### Art. 34º {#art34}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 34º, caput** {#art34_cpt} .A Licença Prévia de Ampliação - LPA aplica-se aos empreendimentos e/ou atividades detentoras de Licença de Operação – LO ou Licença Ambiental Simplificada - LAS.
 
 ###### Art. 35º {#art35}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 35º, caput** {#art35_cpt} Os requerimentos para Licença Prévia de Ampliação - LPA deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 35º, inciso I** {#art35_cpt_inc1} cópia da licença anterior;
 - **Art. 35º, inciso II** {#art35_cpt_inc2} relatório de atendimento das condicionantes da licença anterior;
@@ -509,7 +474,6 @@ Tags: #saneamento #licenciamento-ambiental
 - **Art. 35º, inciso XVIII** {#art35_cpt_inc18} recolhimento da taxa ambiental, bem como dos demais valores cabíveis referentes à publicação da súmula da concessão da Licença requerida, no Diário Oficial do Estado, a ser efetivada pelo IAT.
 
 ###### Art. 36º {#art36}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 36º, caput** {#art36_cpt} Nos procedimentos de Licença Prévia de Ampliação - LPA, quando necessária a supressão de vegetação, esta somente poderá ser emitida após a manifestação sobre a tipologia florestal e sua viabilidade de supressão, visando análise integrada do licenciamento.
 
 ### Seção III
@@ -517,11 +481,9 @@ Tags: #saneamento #licenciamento-ambiental
 Da Licença de Instalação de Ampliação - LIA
 
 ###### Art. 37º {#art37}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 37º, caput** {#art37_cpt} A Licença de Instalação de Ampliação - LIA aplica-se exclusivamente aos empreendimentos e/ou atividades detentores de Licença Prévia de Ampliação - LPA.
 
 ###### Art. 38º {#art38}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 38º, caput** {#art38_cpt} Os requerimentos para Licença de Instalação de Ampliação - LIA deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 38º, inciso I** {#art38_cpt_inc1} cópia da Licença anterior;
 - **Art. 38º, inciso II** {#art38_cpt_inc2} relatório de atendimento das condicionantes da Licença anterior;
@@ -537,7 +499,6 @@ Tags: #saneamento #licenciamento-ambiental
 - **Art. 38º, inciso XII** {#art38_cpt_inc12} recolhimento da taxa ambiental, bem como dos demais valores cabíveis referentes à publicação da súmula da concessão da Licença requerida, no Diário Oficial do Estado, a ser efetivada pelo IAT.
 
 ###### Art. 39º {#art39}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 39º, caput** {#art39_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença de Instalação de Ampliação - LIA somente poderá ser emitida após a apresentação da Autorização Florestal - AF e da Autorização Ambiental - AA referentes à fauna, emitidas pelo órgão ambiental competente.
 **Art. 39º, parágrafo único** {#art39_par1u} A LIA contemplará as condicionantes estabelecidas na Autorização Florestal e da Autorização Ambiental - AA referente à fauna.
 
@@ -546,11 +507,9 @@ Tags: #saneamento #licenciamento-ambiental
 Da Licença de Operação de Ampliação - LOA
 
 ###### Art. 40º {#art40}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 40º, caput** {#art40_cpt} A Licença de Operação de Ampliação aplica-se exclusivamente aos empreendimentos e/ou atividades detentores de Licença Prévia de Ampliação - LPA, no caso de licenciamento bifásico ou, de Licença de Instalação de Ampliação - LIA, no caso de licenciamento trifásico.
 
 ###### Art. 41º {#art41}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 41º, caput** {#art41_cpt} Os requerimentos para Licença de Operação de Ampliação - LOA deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 41º, inciso I** {#art41_cpt_inc1} cópia da Licença anterior;
 - **Art. 41º, inciso II** {#art41_cpt_inc2} relatório de atendimento das condicionantes da Licença anterior, bem como dos programas ambientais propostos nos estudos ambientais apresentados nas fases anteriores de licenciamento;
@@ -574,11 +533,9 @@ Tags: #saneamento #licenciamento-ambiental
 Da Autorização Ambiental para Readequações e Melhorias Ambientais
 
 ###### Art. 42º {#art42}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 42º, caput** {#art42_cpt} Para melhorias em sistemas e medidas de controle ambiental ou execução de obras diversas, deverá ser solicitada uma Autorização Ambiental específica, desde que não haja alteração no porte do empreendimento, diversificação da atividade, aumento do potencial poluidor/degradador ou qualquer mudança que implique na alteração da modalidade de licenciamento
 
 ###### Art. 43º {#art43}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 43º, caput** {#art43_cpt} A Autorização Ambiental – AA, deverá ser requerida por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 43º, inciso I** {#art43_cpt_inc1} Requerimento de Licenciamento Ambiental;
 - **Art. 43º, inciso II** {#art43_cpt_inc2} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual nº 9.541, de 10 de abril de 2025, que regulamenta a Lei Estadual nº 22.252, de 12 de dezembro de 2024. Se imóvel locado, apresentar contrato de locação ou arrendamento;
@@ -596,14 +553,12 @@ Tags: #saneamento #licenciamento-ambiental
 DA REGULARIZAÇÃO DO LICENCIAMENTO AMBIENTAL
 
 ###### Art. 44º {#art44}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 44º, caput** {#art44_cpt} A regularização do licenciamento ambiental de empreendimentos e/ou atividades potencialmente poluidoras/degradadoras, do meio ambiente, em instalação ou em operação, deverá ser requerida nos seguintes casos:
 - **Art. 44º, inciso I** {#art44_cpt_inc1} nunca tenham obtido licenciamento;
 - **Art. 44º, inciso II** {#art44_cpt_inc2} estejam em funcionamento em desacordo com a licença obtida;
 - **Art. 44º, inciso III** {#art44_cpt_inc3} estejam em implantação ou operação com a respectiva licença vencida.
 
 ###### Art. 45º {#art45}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 45º, caput** {#art45_cpt} Para o licenciamento de regularização devem ser observados os seguintes requisitos:
 - **Art. 45º, inciso I** {#art45_cpt_inc1} somente serão emitidas quando da viabilidade locacional, técnica e jurídica do empreendimento e/ou atividade;
 - **Art. 45º, inciso II** {#art45_cpt_inc2} caso não haja viabilidade de regularização, deverá ser firmado Termo de Ajustamento e Conduta - TAC junto ao empreendedor, com o estabelecimento das condições de mudança de local e/ou encerramento das atividades, não eximindo a apuração da responsabilidade civil, criminal e administrativa;
@@ -612,7 +567,6 @@ Tags: #saneamento #licenciamento-ambiental
 - **Art. 45º, inciso V** {#art45_cpt_inc5} nos licenciamentos de regularização de empreendimentos e/ou atividades que estejam em funcionamento em desacordo com a licença obtida, estarão sujeitos à formalização de Termo de Ajustamento e Conduta - TAC, no qual serão fixadas as medidas de reparação de dano, e que deverá ser condicionante obrigatória para a emissão da licença.
 
 ###### Art. 46º {#art46}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 46º, caput** {#art46_cpt} O estudo ambiental, bem como os documentos complementares a serem apresentados, serão definidos pelo IAT, considerando a relação entre o potencial poluidor ou degradador, o porte, a localização e a situação atual do empreendimento ou atividade.
 
 ### Seção I
@@ -620,7 +574,6 @@ Tags: #saneamento #licenciamento-ambiental
 Da Licença Ambiental Simplificada de Regularização - LASR
 
 ###### Art. 47º {#art47}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 47º, caput** {#art47_cpt} Os requerimentos para Licença Ambiental Simplificada de Regularização - LASR deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 47º, inciso I** {#art47_cpt_inc1} cópia da licença anterior, se for o caso;
 - **Art. 47º, inciso II** {#art47_cpt_inc2} relatório de atendimento das condicionantes da Licença anterior, bem como dos programas ambientais propostos nos estudos ambientais apresentados nas fases anteriores de licenciamento, se for o caso;
@@ -648,7 +601,6 @@ Tags: #saneamento #licenciamento-ambiental
 **Art. 47º, parágrafo único** {#art47_par1u} A Licença Ambiental Simplificada de Regularização -LASR somente poderá ser emitida acompanhada da respectiva Portaria de Outorga de Direito de Uso de Recursos Hídricos ou a Declaração(ões) de Uso Independente de Outorga.
 
 ###### Art. 48º {#art48}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 48º, caput** {#art48_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença Ambiental Simplificada de Regularização - LASR somente poderá ser emitida acompanhada da respectiva Autorização Florestal e Autorização Ambiental referente à fauna, emitidas pelo órgão ambiental.
 **Art. 48º, parágrafo único** {#art48_par1u} A LAS contemplará as condicionantes estabelecidas na Autorização Florestal e da Autorização Ambiental - AA referente à fauna.
 
@@ -657,11 +609,9 @@ Tags: #saneamento #licenciamento-ambiental
 Da Licença de Instalação de Regularização - LIR
 
 ###### Art. 49º {#art49}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 49º, caput** {#art49_cpt} A Licença de Instalação de Regularização - LIR aplica-se aos empreendimentos e/ou atividades que estejam em instalação de forma irregular, sem o devido licenciamento ambiental ou com a licença vencida.
 
 ###### Art. 50º {#art50}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 50º, caput** {#art50_cpt} Os requerimentos para Licença de Instalação de Regularização - LIR deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 50º, inciso I** {#art50_cpt_inc1} cópia da licença anterior, se for o caso;
 - **Art. 50º, inciso II** {#art50_cpt_inc2} relatório de atendimento das condicionantes da Licença anterior, bem como dos programas ambientais propostos nos estudos ambientais apresentados nas fases anteriores de licenciamento, se for o caso;
@@ -683,7 +633,6 @@ Tags: #saneamento #licenciamento-ambiental
 - **Art. 50º, inciso XVIII** {#art50_cpt_inc18} recolhimento da taxa ambiental, bem como dos demais valores cabíveis referentes à publicação da súmula da concessão da Licença requerida, no Diário Oficial do Estado, a ser efetivada pelo IAT.
 
 ###### Art. 51º {#art51}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 51º, caput** {#art51_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença de Instalação de Regularização - LIR, somente poderá ser emitida acompanhada da respectiva Autorização Florestal e Autorização Ambiental referente à fauna, emitidas pelo órgão ambiental.
 **Art. 51º, parágrafo único** {#art51_par1u} A LIR contemplará as condicionantes estabelecidas na Autorização Florestal e da Autorização Ambiental - AA referente à fauna.
 
@@ -692,11 +641,9 @@ Tags: #saneamento #licenciamento-ambiental
 Da Licença de Operação de Regularização - LOR
 
 ###### Art. 52º {#art52}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 52º, caput** {#art52_cpt} A Licença de Operação de Regularização - LOR aplica-se aos empreendimentos e/ou atividades que estejam operando de forma irregular, sem o devido licenciamento ambiental ou com a licença vencida.
 
 ###### Art. 53º {#art53}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 53º, caput** {#art53_cpt} Os requerimentos para Licença de Operação de Regularização - LOR deverão ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 53º, inciso I** {#art53_cpt_inc1} cópia da licença anterior, se for o caso;
 - **Art. 53º, inciso II** {#art53_cpt_inc2} relatório de atendimento das condicionantes da Licença anterior, bem como dos programas ambientais propostos nos estudos ambientais apresentados nas fases anteriores de licenciamento, se for o caso;
@@ -732,21 +679,17 @@ ASPECTOS TÉCNICOS
 Dos Sistema de Abastecimento de Água
 
 ###### Art. 54º {#art54}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 54º, caput** {#art54_cpt} Será objeto de licenciamento ambiental a Estação de Tratamento de Água e respectivo Sistema de Tratamento de Lodo.
 
 ###### Art. 55º {#art55}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 55º, caput** {#art55_cpt} Para as Estações de Tratamento de Água em operação, o sistema de tratamento de lodo deverá ser requerido o licenciamento conforme enquadramento de porte da ETA.
 
 ###### Art. 56º {#art56}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 56º, caput** {#art56_cpt} As Estações de Tratamento de Água, ficam obrigadas a apresentar, ao Instituto Água e Terra, para sua aprovação e acompanhamento, Relatório de Monitoramento dos resíduos gerados no processo de tratamento, conforme a seguinte frequência:
 - **Art. 56º, critério 1** {#art56_cpt_lin1} Para ETAs com vazão até 30L/s: a cada 02 anos;
 - **Art. 56º, critério 2** {#art56_cpt_lin2} Para ETAs com vazão superior a 30L/s: anualmente.
 
 ###### Art. 57º {#art57}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 57º, caput** {#art57_cpt} As Estações de Tratamento de Água com vazão superior a 30 L/s deverão implantar o sistema de tratamento e disposição final de efluentes e resíduos no prazo máximo de 3 (três) anos.
 **Art. 57º, parágrafo único** {#art57_par1u} Deverão ser firmados Termos de Compromisso para a implementação destes sistemas.
 
@@ -755,45 +698,36 @@ Tags: #saneamento #licenciamento-ambiental
 Dos Sistema de Esgotamento Sanitário
 
 ###### Art. 58º {#art58}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 58º, caput** {#art58_cpt} O processo de licenciamento ambiental deverá contemplar em um único processo todos os elementos que compõe o sistema de esgotamento sanitário.
 **Art. 58º, § 1º** {#art58_par1} ° No caso de o sistema de esgotamento sanitário possuir mais de uma licença ambiental, todas as licenças deverão ser incorporadas em um único processo quando da renovação do licenciamento ambiental.
 **Art. 58º, § 2º** {#art58_par2} ° As Unidades de Gerenciamento de Lodo – UGL deverão ser objeto de licenciamento ambiental específico, nos termos da Instrução Normativa pertinente. Nos casos em que o empreendimento possua licença ambiental que contemple a Estação de Tratamento de Esgoto – ETE e a Unidade de Gerenciamento de Lodo – UGL, a renovação da mesma deverá ser solicitada por meio de requerimentos distintos para cada atividade.
 
 ###### Art. 59º {#art59}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 59º, caput** {#art59_cpt} Nos casos em que a ETE ou o SES receba efluente de terceiros (não doméstico), caberá ao gestor apresentar anualmente, juntamente à Declaração de Carga Poluidora (DCP), relatório descrevendo a origem, a caracterização, a quantidade (em m³/dia).
 **Art. 59º, parágrafo único** {#art59_par1u} Os efluentes não-domésticos a serem recebidos para tratamento na ETE deverão possuir compatibilidade com o sistema de tratamento a ser submetido, de forma a não comprometer a eficiência do sistema de tratamento.
 
 ###### Art. 60º {#art60}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 60º, caput** {#art60_cpt} Deverá ser apresentado ao órgão ambiental responsável, anualmente, a Declaração de Carga Poluidora (DCP) exigida pela Portaria IAP 256, de 16 de setembro de 2013 ou outra que venha a substituí-la.
 **Art. 60º, parágrafo único** {#art60_par1u} Nos casos em que houver recebimento de efluente industrial divergente das características sanitárias, parâmetros específicos serão aplicados nas condicionantes do licenciamento do SES.
 
 ###### Art. 61º {#art61}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 61º, caput** {#art61_cpt} Deverá ser apresentado anualmente ao Instituto Água e Terra o Relatório de Automonitoramento, contendo minimamente, os dados descritivos de cada empreendimento, licença ambiental respectiva, estimativa da emissão de gases odoríferos por ETE, bem como o relato do acompanhamento das ações previstas no Plano de Gestão de Emissões de Gases Odorífero, e as medidas de controle para minimizar as emissões de odores aplicadas para as fontes fugitivas.
 
 ###### Art. 62º {#art62}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 62º, caput** {#art62_cpt} Nos casos de reenquadramento do porte de licenciamento em decorrência das alterações sofridas na Resolução SEMA nº 21, de 22 de abril de 2009; ou seja, de LAS, ou de LAS com LO para licenciamento trifásico (LP, LI, LO), o requerente deverá solicitar diretamente a LO quando da renovação da LAS.
 
 ###### Art. 63º {#art63}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 63º, caput** {#art63_cpt} Em situações excepcionais, quando houver eventos de alta pluviosidade, é autorizada a utilização de sistemas de controle de pico de vazão afluente nas Estações de Tratamento de Esgoto (ETE) e Estações Elevatórias de Esgoto (EEE).
 **Art. 63º, § 1º** {#art63_par1} A condição de alta pluviosidade é definida como aquela na qual a vazão afluente é superior à capacidade de tratamento da ETE e à capacidade de recalque da EEE, apenas decorrente do evento pluvial. Não autoriza a condição permanente de extravasamento por falta de capacidade da ETE ou EEE. Nesses casos, a operadora ficará sujeita às penalidades e deverá providenciar a ampliação da capacidade de tratamento do sistema em caráter urgente.
 **Art. 63º, § 2º** {#art63_par2} Em situações de utilização de sistemas de controle de pico de vazão afluente em Estações de Tratamento de Esgoto (ETE), e para as ETEs de grande porte, a Operadora da ETE deverá informar a vazão e carga orgânica afluente, vazão excedente, duração do evento, em relatórios consolidados na Declaração de Carga Poluidora.
 
 ###### Art. 64º {#art64}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 64º, caput** {#art64_cpt} As Estação Elevatórias de Esgoto deverão possuir dispositivo para contenção dos esgotos quando da ocorrência de falhas no fornecimento de energia elétrica ou outro problema operacional, ou outros sistemas que visem a continuidade operacional do sistema.
 
 ###### Art. 65º {#art65}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 65º, caput** {#art65_cpt} As operadoras de serviços de esgoto ficam obrigadas a apresentar ao órgão ambiental responsável, para sua análise e acompanhamento, Relatório Anual contendo as ligações efetivas no sistema, ligações potenciais (factíveis), planos de ampliação, quantificação dos lodos gerados no processo de tratamento, carga orgânica afluente e lançada após tratamento, por ETE.
 
 ###### Art. 66º {#art66}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 66º, caput** {#art66_cpt} Os efluentes das ETEs somente poderão ser lançados, direta ou indiretamente, nos corpos de água desde que obedeçam às condições e padrões estabelecidos na sequência, resguardadas outras exigências cabíveis:
 - **Art. 66º, critério 1** {#art66_cpt_lin1} pH entre 5 e 9
 - **Art. 66º, critério 2** {#art66_cpt_lin2} Temperatura inferior à 40°C, sendo que a elevação máxima de temperatura do corpo receptor não poderá ultrapassar 3°C
@@ -805,7 +739,6 @@ Tags: #saneamento #licenciamento-ambiental
 - **Art. 66º, critério 8** {#art66_cpt_lin8} Óleos minerais: até 20mg/L.
 
 ###### Art. 67º {#art67}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 67º, caput** {#art67_cpt} Poderão ser incluídos outros parâmetros de monitoramento, conforme caso.
 
 ### Seção III
@@ -813,11 +746,9 @@ Tags: #saneamento #licenciamento-ambiental
 Resíduos Sólidos e Rejeitos
 
 ###### Art. 68º {#art68}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 68º, caput** {#art68_cpt} Os resíduos sólidos e rejeitos gerados nos empreendimentos, deverão ser acondicionados, armazenados, tratados e destinados de forma técnica e ambientalmente adequadas.
 
 ###### Art. 69º {#art69}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 69º, caput** {#art69_cpt} A destinação do lodo de sistema de esgotamento sanitário deverá atender o estabelecido em instrução normativa específica.
 
 ### Seção IV
@@ -825,7 +756,6 @@ Tags: #saneamento #licenciamento-ambiental
 Emissões Atmosférica
 
 ###### Art. 70º {#art70}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 70º, caput** {#art70_cpt} Para controle e minimização das emissões atmosféricas das atividades de saneamento relacionadas ao esgoto sanitário ficam estabelecidos os seguintes critérios:
 - **Art. 70º, inciso I** {#art70_cpt_inc1} limpeza regular dos resíduos das grades e limpeza de rotina dos desarenadores, devendo o resíduo proveniente dessas atividades ser acondicionado em local adequado e coberto, para posterior destinação final;
 - **Art. 70º, inciso II** {#art70_cpt_inc2} evitar o cascateamento nas etapas do processo de modo a mitigar o desprendimento de gases odoríferos da fase líquida;
@@ -835,7 +765,6 @@ Tags: #saneamento #licenciamento-ambiental
 - **Art. 70º, inciso V** {#art70_cpt_inc5} apresentação do Plano de Gestão de Emissões de Gases Odoríferos, elaborado em conformidade com diretrizes estabelecidas pelo órgão ambiental competente em Portaria específica, para cada ETE, com frequência de cinco anos, com a primeira entrega conforme estabelecido na Resolução SEDEST N° 02, de 16 de janeiro de 2025.
 
 ###### Art. 71º {#art71}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 71º, caput** {#art71_cpt} Estações de Tratamento de Esgoto que realizem o aproveitamento energético do biogás, ou que possuam outras fontes de emissões atmosféricas, deverão atender o disposto na Resolução SEDEST N° 02, de 16 de janeiro de 2025, quanto ao Programa de Automonitoramento de emissões atmosféricas (PEAT) e as declarações de automonitoramento de emissões atmosféricas (DEA).
 
 ## CAPÍTULO XII {#cap12}
@@ -843,7 +772,6 @@ Tags: #saneamento #licenciamento-ambiental
 ASPECTOS LOCACIONAIS
 
 ###### Art. 72º {#art72}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 72º, caput** {#art72_cpt} A implantação de Estações de Tratamento de Esgotos quanto à localização, deverá atender, no mínimo, os seguintes critérios:
 - **Art. 72º, inciso I** {#art72_cpt_inc1} As áreas de novas ETE e UGL devem estar localizadas preferencialmente a uma distância mínima de 500 metros de núcleos populacionais, a partir do perímetro da área;
 - **Art. 72º, inciso II** {#art72_cpt_inc2} A área das unidades de tratamento dos sistemas de deverá situar-se a uma distância mínima corpos hídricos, de modo a não atingir Áreas de Preservação Permanente, conforme estabelecido no Código Florestal;
@@ -854,47 +782,36 @@ Tags: #saneamento #licenciamento-ambiental
 DISPOSIÇÕES GERAIS
 
 ###### Art. 73º {#art73}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 73º, caput** {#art73_cpt} Os casos omissos nesta Instrução Normativa serão analisados pelo Instituto Água e Terra - IAT e enquadrados na legislação ambiental vigente conforme as características particulares de cada empreendimento.
 
 ###### Art. 72º {#art72-a}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 72º, caput** {#art72-a_cpt} Caso haja necessidade, o Instituto Água e Terra - IAT solicitará, a qualquer momento, outros documentos e/ou informações complementares do requerente ou de outras instituições envolvidas no licenciamento ambiental em questão, assim como, anotação ou registro de responsabilidade técnica pela implantação e conclusão de eventuais estudos ambientais.
 
 ###### Art. 74º {#art74}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 74º, caput** {#art74_cpt} O Instituto Água e Terra - IAT poderá complementar os critérios estabelecidos na presente Instrução Normativa de acordo com o desenvolvimento científico e tecnológico e a necessidade de preservação ambiental.
 
 ###### Art. 75º {#art75}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 75º, caput** {#art75_cpt} Quando da necessidade da manifestação de órgãos intervenientes externos ao órgão licenciador, tais como FUNAI, INCRA, IPHAN, ICMBio, CEPHA, DNIT, DER, entre outros, será seguido o procedimento da Lei Estadual nº 22.252, de 12 de dezembro de 2024 e do Decreto Estadual nº 9.541, de 10 de abril de 2025, quando aplicável.
 
 ###### Art. 76º {#art76}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 76º, caput** {#art76_cpt} Quando o empreendimento se situar no interior ou nas Zonas de Amortecimento de Unidades de Conservação Estaduais, o procedimento de licenciamento deverá ser remetido à Diretoria competente do órgão licenciador para manifestação.
 
 ###### Art. 77º {#art77}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 77º, caput** {#art77_cpt} Quando o empreendimento se situar em área de manancial, deverá ser solicitada manifestação da Agência de Assuntos Metropolitanos – AMEP ou a Diretoria responsável pela gestão de recursos hídricos do Instituto Água e Terra, conforme estabelecido na Lei Estadual n° 22.252, de 12 de dezembro de 2024.
 
 ###### Art. 78º {#art78}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 78º, caput** {#art78_cpt} Constatada a existência de pendência judicial envolvendo o empreendedor, o empreendimento ou o imóvel, a decisão administrativa sobre a eventual suspensão do licenciamento será precedida de manifestação jurídica do Instituto Água e Terra – IAT.
 
 ###### Art. 79º {#art79}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 79º, caput** {#art79_cpt} Esta Instrução Normativa deverá ser reavaliada a cada 04 (quatro) anos ou a qualquer tempo, quando o órgão ambiental considerar necessário.
 
 ###### Art. 80º {#art80}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 80º, caput** {#art80_cpt} O não cumprimento das disposições desta Instrução Normativa, dos termos das Licenças Ambientais sujeitará o infrator às penalidades previstas na Lei nº 9.605, de 12 de fevereiro de 1998, Decreto Federal 6.514 de 06 de julho de 2008 e demais instrumentos normativos pertinentes, sem prejuízo do dever de recuperar os danos ambientais causados, na forma do Art.  225, §3º, da Constituição Federal, e do Art. 14, § 1°, da Lei Federal n. 6.938, de 1981.
 
 ###### Art. 81º {#art81}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 81º, caput** {#art81_cpt} O empreendedor que no procedimento do licenciamento ambiental elaborar ou apresentar informação, estudo, laudo ou relatório ambiental total ou parcialmente falso ou enganoso, responderá nos termos da Lei Federal 9.605 de 12 de fevereiro de 1998 e Decreto Federal 6.514 de 06 de julho de 2008.
 
 ###### Art. 82º {#art82}
-Tags: #saneamento #licenciamento-ambiental
 **Art. 82º, caput** {#art82_cpt} Esta Instrução Normativa entra em vigor na data de sua publicação, com efeitos a partir de 28 de abril de 2025. EVERTON LUIZ DA COSTA SOUZA Diretor-Presidente do Instituto Água e Terra EVERTON LUIZ DA COSTA SOUZA:46372164949 Assinado de forma digital por EVERTON LUIZ DA COSTA SOUZA:46372164949 Dados: 2025.05.30 10:59:35 -03'00'
 
 ## Anexos

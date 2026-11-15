@@ -54,14 +54,12 @@ CONSIDERANDO:
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #energia-solar #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer definições, critérios, diretrizes e procedimentos para o licenciamento ambiental de empreendimentos de geração de energia elétrica a partir de fonte solar, no Estado do Paraná.
 
 ## CAPÍTULO I – DAS DEFINIÇÕES {#cap1}
 
 ###### Art. 2º {#art2}
-Tags: #eia-rima #energia-solar #licenciamento-ambiental #definicao #pca #monitoramento
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução consideram-se as seguintes definições:
 
@@ -95,7 +93,6 @@ Tags: #eia-rima #energia-solar #licenciamento-ambiental #definicao #pca #monitor
 ### Seção I – Dos Atos administrativos {#cap2_sec1}
 
 ###### Art. 3º {#art3}
-Tags: #condicionante #licenciamento-ambiental #energia-solar #las #lp #li
 
 **Art. 3º, caput** {#art3_cpt} O órgão licenciador, no âmbito do licenciamento de empreendimentos de geração de energia elétrica a partir de fonte solar, e no exercício de suas atribuições, expedirá os seguintes atos administrativos:
 
@@ -108,19 +105,16 @@ Tags: #condicionante #licenciamento-ambiental #energia-solar #las #lp #li
 - **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} Licença de Operação (LO): autoriza a operação da atividade ou empreendimento, após a verificação do efetivo cumprimento do que consta das licenças anteriores, com as medidas de controle ambientais e condicionantes determinados para a operação.
 
 ###### Art. 4º {#art4}
-Tags: #documentacao #responsavel-tecnico
 
 **Art. 4º, caput** {#art4_cpt} Os atos administrativos listados no [[#art3|Art. 3º]] serão por meio de sistema eletrônico, com exceção da DILA, mediante cadastramento do requerente como usuário ambiental, prestação das informações referentes ao empreendimento e a apresentação da documentação solicitada.
 
 ###### Art. 5º {#art5}
-Tags: #energia-solar #licenciamento-ambiental
 
 **Art. 5º, caput** {#art5_cpt} Os empreendedores de geração de energia elétrica a partir de fonte solar, ao submeterem seus empreendimentos ao licenciamento ambiental perante o órgão estadual competente deverão prestar as informações técnicas sobre o mesmo, conforme estabelecem os termos da legislação aplicável e pelos procedimentos definidos nesta Resolução.
 
 ### Seção II – Da Definição do Porte, Tipo de Licenciamento e de Estudo Ambiental {#cap2_sec2}
 
 ###### Art. 6º {#art6}
-Tags: #energia-solar #licenciamento-ambiental #enquadramento
 
 **Art. 6º, caput** {#art6_cpt} A definição da modalidade de licenciamento ambiental a que serão submetidas a geração de energia elétrica a partir de fonte solar obedecerá às seguintes condições:
 
@@ -137,32 +131,26 @@ Tags: #energia-solar #licenciamento-ambiental #enquadramento
 - **Art. 6º, Tabela 1, linha 5** {#art6_tab1_lin5} PORTE: 5 | CAMPO SOLAR (CS): CS ≥ 15 ha ou P > 10 MW | ESTUDO AMBIENTAL: EIA | LICENCIAMENTO: LP, LI e LO
 
 ###### Art. 7º {#art7}
-Tags: #licenciamento-ambiental #responsavel-tecnico
 
 **Art. 7º, caput** {#art7_cpt} Nos casos de empreendimentos a serem instalados em unidades domiciliares e/ou pluridomiciliares, unidades industriais, comerciais, agropecuários, entre outros, inferior ou igual a 1,5 ha e em local coberto por rede pública de energia, será tratado como inexigibilidade de licenciamento ambiental, conforme disposto no [[#art4|Art. 4º]].
 
 ###### Art. 8º {#art8}
-Tags: #licenciamento-ambiental #dispensa
 
 **Art. 8º, caput** {#art8_cpt} Nos casos de implantação de empreendimento em área superior a 1,5 ha e inferior ou igual a 7,5 ha em local coberto por rede pública de energia deverá ser requerida a Dispensa de Licenciamento Ambiental Estadual.
 
 ###### Art. 9º {#art9}
-Tags: #licenciamento-ambiental #las #pca
 
 **Art. 9º, caput** {#art9_cpt} Nos casos de implantação de empreendimento em área superior a 1,5 ha e inferior ou igual a 7,5 ha em local não coberto por rede pública de energia deverá ser requerida Licença Ambiental Simplificada, com apresentação de PCA.
 
 ###### Art. 10 {#art10}
-Tags: #licenciamento-ambiental #lp #li #lo
 
 **Art. 10, caput** {#art10_cpt} Nos casos de implantação de empreendimento em área superior a 7,5 ha e inferior a 15 ha deverá ser requerido licenciamento ambiental completo (LP, LI e LO), com apresentação de RAS.
 
 ###### Art. 11 {#art11}
-Tags: #eia-rima #lp #li #lo
 
 **Art. 11, caput** {#art11_cpt} Nos casos de implantação de empreendimento em área superior ou igual a 15 ha deverá ser requerido o licenciamento completo (LP, LI e LO), com apresentação de EIA/RIMA.
 
 ###### Art. 12 {#art12}
-Tags: #supressao-vegetacao
 
 **Art. 12, caput** {#art12_cpt} Considerando os aspectos locacionais, os empreendimentos contemplados no Quadro 1 somente poderão ser instalados nos seguintes locais:
 
@@ -170,24 +158,20 @@ Tags: #supressao-vegetacao
 - **Art. 12, caput, inciso II** {#art12_cpt_inc2} ausência da necessidade de supressão de vegetação nativa em estágio sucessional de regeneração médio ou avançado e/ou primário;
 
 ###### Art. 13 {#art13}
-Tags: #licenciamento-ambiental
 
 **Art. 13, caput** {#art13_cpt} O órgão ambiental competente poderá solicitar outros documentos e/ou informações complementares do requerente ou de outras instituições envolvidas no licenciamento ambiental em questão, caso haja necessidade conforme [[resolucao-cema-107-2020|Resolução CEMA nº 107/2020]].
 
 ###### Art. 14 {#art14}
-Tags: #energia-solar #licenciamento-ambiental
 
 **Art. 14, caput** {#art14_cpt} Para fins de licenciamento ambiental de sistema fotovoltaico flutuante ou outra forma de geração de energia elétrica a partir de fonte solar, serão analisadas individualmente pelo órgão ambiental.
 
 ###### Art. 15 {#art15}
-Tags: #energia-solar #licenciamento-ambiental
 
 **Art. 15, caput** {#art15_cpt} Ficam dispensados de licenciamento ambiental estadual a instalação/implantação dos painéis solares em cobertura/telhado de empreendimentos residenciais, comerciais, industriais e agropecuários já existentes ou a serem instalados.
 
 ### Seção III – Repotenciação {#cap2_sec3}
 
 ###### Art. 16 {#art16}
-Tags: #energia-solar #licenciamento-ambiental #porte #eia-rima #autorizacao-ambiental #requerimento
 
 **Art. 16, caput** {#art16_cpt} Nos casos de repotenciação de campos solares em solo, deverão ser consideradas as seguintes situações:
 
@@ -201,7 +185,6 @@ Tags: #energia-solar #licenciamento-ambiental #porte #eia-rima #autorizacao-ambi
 #### Subseção I – Documentação Básica {#cap2_sec4_subsec1}
 
 ###### Art. 17 {#art17}
-Tags: #dispensa #licenciamento-ambiental #energia-solar #taxa-ambiental #requerimento #responsavel-tecnico
 
 **Art. 17, caput** {#art17_cpt} Para os empreendimentos elegíveis conforme Quadro 1, na Seção II, o requerente deverá solicitar a Declaração de Dispensa de Licenciamento Ambiental Estadual – DLAE mediante apresentação dos seguintes documentos:
 
@@ -215,7 +198,6 @@ Tags: #dispensa #licenciamento-ambiental #energia-solar #taxa-ambiental #requeri
 **Art. 17, § 2º** {#art17_par2} A Dispensa de Licenciamento Ambiental Estadual não exime o interessado das exigências legais quanto à preservação do meio ambiente, bem como obtenção de alvarás e atendimento a outras exigências municipais.
 
 ###### Art. 18 {#art18}
-Tags: #autorizacao-ambiental #requerimento #taxa-ambiental #energia-solar #licenciamento-ambiental #responsavel-tecnico
 
 **Art. 18, caput** {#art18_cpt} O órgão licenciador expedirá Autorização Ambiental - AA aos casos contemplados na Seção III, devendo o empreendedor efetuar o seu requerimento mediante apresentação dos seguintes documentos:
 
@@ -227,7 +209,6 @@ Tags: #autorizacao-ambiental #requerimento #taxa-ambiental #energia-solar #licen
 - **Art. 18, caput, inciso VI** {#art18_cpt_inc6} apresentação de cópia da(s) respectivas ART(s) - Anotação(s) de Responsabilidade Técnica dos profissionais habilitados.
 
 ###### Art. 19 {#art19}
-Tags: #las #licenciamento-ambiental #requerimento #outorga #documentacao #responsavel-tecnico
 
 **Art. 19, caput** {#art19_cpt} Os empreendimentos que por sua classificação conforme Seção II, necessitarem fazer a solicitação de Licença Ambiental Simplificada – LAS deverão instruir o requerimento mediante a apresentação dos os seguintes documentos:
 
@@ -248,12 +229,10 @@ Tags: #las #licenciamento-ambiental #requerimento #outorga #documentacao #respon
 - **Art. 19, caput, inciso XV** {#art19_cpt_inc15} cópia(s) da(s) matrícula(s) do(s) imóvel (is) afetado(s) pelo empreendimento.
 
 ###### Art. 20 {#art20}
-Tags: #las #supressao-vegetacao #licenciamento-ambiental
 
 **Art. 20, caput** {#art20_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença Ambiental Simplificada – LAS somente poderá ser emitida acompanhada da respectiva Autorização Florestal.
 
 ###### Art. 21 {#art21}
-Tags: #licenciamento-ambiental #las #rlas #renovacao #publicacao-dioe #energia-solar
 
 **Art. 21, caput** {#art21_cpt} Para a Renovação da Licença Ambiental Simplificada - RLAS o empreendedor deverá protocolar os seguintes documentos:
 
@@ -266,12 +245,10 @@ Tags: #licenciamento-ambiental #las #rlas #renovacao #publicacao-dioe #energia-s
 - **Art. 21, caput, inciso VII** {#art21_cpt_inc7} relatório de Automonitoramento Ambiental.
 
 ###### Art. 22 {#art22}
-Tags: #lp #li #lo #documentacao
 
 **Art. 22, caput** {#art22_cpt} Os empreendimentos que por suas características necessitarem fazer o licenciamento completo (LP, LI e LO), dependerão obrigatoriamente da apresentação da documentação listada na sequência:
 
 ###### Art. 23 {#art23}
-Tags: #lp #requerimento #licenciamento-ambiental #outorga #publicacao-dioe #energia-solar
 
 **Art. 23, caput** {#art23_cpt} Os requerimentos de Licença Prévia - LP deverão ser protocolados por meio de sistema eletrônico mediante apresentação de:
 
@@ -288,7 +265,6 @@ Tags: #lp #requerimento #licenciamento-ambiental #outorga #publicacao-dioe #ener
 - **Art. 23, caput, inciso XI** {#art23_cpt_inc11} em caso de necessidade de supressão florestal, deve haver uma análise integrada do licenciamento e o requerente deverá apresentar o Relatório de Caracterização da Flora, de acordo com a [[resolucao-conama-2-1994|Resolução CONAMA 02/94]].
 
 ###### Art. 24 {#art24}
-Tags: #lp #requerimento #publicacao-dioe #licenciamento-ambiental #prazo #energia-solar
 
 **Art. 24, caput** {#art24_cpt} Os requerimentos de Prorrogação da Licença Prévia - PLP desde que essa prorrogação não ultrapasse o prazo máximo estabelecido no ANEXO III da [[resolucao-cema-107-2020|Resolução CEMA nº 107/2020]], deverão ser protocolados por meio de sistema eletrônico mediante apresentação de:
 
@@ -299,7 +275,6 @@ Tags: #lp #requerimento #publicacao-dioe #licenciamento-ambiental #prazo #energi
 - **Art. 24, caput, inciso V** {#art24_cpt_inc5} prova de publicação de súmula de Prorrogação da Licença Ambiental Prévia - PLP em jornal de circulação regional e no Diário Oficial do Estado, ou no sistema eletrônico do órgão ambiental competente mediante pagamentos das custas, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006/86]].
 
 ###### Art. 25 {#art25}
-Tags: #li #requerimento #publicacao-dioe #licenciamento-ambiental #lp #responsavel-tecnico
 
 **Art. 25, caput** {#art25_cpt} Os requerimentos de Licença de instalação - LI deverão ser protocolados por meio de sistema eletrônico mediante apresentação de:
 
@@ -317,12 +292,10 @@ Tags: #li #requerimento #publicacao-dioe #licenciamento-ambiental #lp #responsav
 - **Art. 25, caput, inciso XII** {#art25_cpt_inc12} apresentação do requerimento (protocolo) de autorização para manejo (estudos e resgate) da fauna emitida pelo órgão competente, se for o caso.
 
 ###### Art. 26 {#art26}
-Tags: #supressao-vegetacao #li
 
 **Art. 26, caput** {#art26_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença de Instalação somente poderá ser emitida acompanhada da respectiva Autorização Florestal.
 
 ###### Art. 27 {#art27}
-Tags: #li #requerimento #publicacao-dioe #licenciamento-ambiental #prazo #energia-solar
 
 **Art. 27, caput** {#art27_cpt} Os requerimentos de Prorrogação de Licença de Instalação – PLI, desde que essa prorrogação não ultrapasse o prazo máximo estabelecido no ANEXO III da [[resolucao-cema-107-2020|Resolução CEMA nº 107/2020]], deverão ser protocolados por meio de sistema eletrônico mediante apresentação de:
 
@@ -336,7 +309,6 @@ Tags: #li #requerimento #publicacao-dioe #licenciamento-ambiental #prazo #energi
 - **Art. 27, caput, inciso VIII** {#art27_cpt_inc8} apresentação de autorização, em vigor, para manejo (estudos e resgate) da fauna emitida pelo órgão competente, se for o caso.
 
 ###### Art. 28 {#art28}
-Tags: #lo #requerimento #responsavel-tecnico #publicacao-dioe #licenciamento-ambiental #li
 
 **Art. 28, caput** {#art28_cpt} Os requerimentos de Licença de Operação - LO deverão ser protocolados por meio de sistema eletrônico mediante apresentação de:
 
@@ -351,7 +323,6 @@ Tags: #lo #requerimento #responsavel-tecnico #publicacao-dioe #licenciamento-amb
 - **Art. 28, caput, inciso IX** {#art28_cpt_inc9} laudo de conclusão/situação de obra, acompanhado de material fotográfico, elaborado por profissional com a devida anotação de responsabilidade técnica – ART.
 
 ###### Art. 29 {#art29}
-Tags: #lo #rlo #renovacao #requerimento #publicacao-dioe #licenciamento-ambiental
 
 **Art. 29, caput** {#art29_cpt} Os requerimentos de Renovação de Licença de Operação - RLO deverão ser protocolados por meio de sistema eletrônico mediante apresentação de:
 
@@ -366,7 +337,6 @@ Tags: #lo #rlo #renovacao #requerimento #publicacao-dioe #licenciamento-ambienta
 #### Subseção II – Documentação Complementar {#cap2_sec4_subsec2}
 
 ###### Art. 30 {#art30}
-Tags: #licenciamento-ambiental #energia-solar #las #pca
 
 **Art. 30, caput** {#art30_cpt} O licenciamento ambiental de empreendimento com Campo Solar maior a 1,5 e menor ou igual a 7,5 ha sem rede pública deverá ser requerido mediante apresentação, além daqueles listados na Subseção I, os seguintes documentos:
 
@@ -374,7 +344,6 @@ Tags: #licenciamento-ambiental #energia-solar #las #pca
   - **Art. 30, caput, inciso I, alínea "a"** {#art30_cpt_inc1_alia} Plano de Controle Ambiental – PCA.
 
 ###### Art. 31 {#art31}
-Tags: #energia-solar #licenciamento-ambiental #lp #li
 
 **Art. 31, caput** {#art31_cpt} O licenciamento ambiental de empreendimento com Campo Solar maior que 7,5 ha e menor a 15 ha deverá ser requerido mediante apresentação, além daqueles listados na Subseção I, os seguintes documentos:
 
@@ -384,7 +353,6 @@ Tags: #energia-solar #licenciamento-ambiental #lp #li
   - **Art. 31, caput, inciso II, alínea "a"** {#art31_cpt_inc2_alia} Relatório de Detalhamento dos Programas Ambientais – RDPA.
 
 ###### Art. 32 {#art32}
-Tags: #eia-rima #energia-solar #licenciamento-ambiental #lp #li #pba
 
 **Art. 32, caput** {#art32_cpt} O licenciamento ambiental de empreendimento com Campo Solar maior ou igual a 15 ha e/ou potência instalada acima de 10 MW deverá ser requerido mediante apresentação, além daqueles listados na Subseção I, os seguintes documentos:
 
@@ -396,7 +364,6 @@ Tags: #eia-rima #energia-solar #licenciamento-ambiental #lp #li #pba
 ### Seção V – Das Taxas Ambientais {#cap2_sec5}
 
 ###### Art. 33 {#art33}
-Tags: #licenciamento-ambiental #taxa-ambiental #energia-solar #las #lp #publicacao-dioe
 
 **Art. 33, caput** {#art33_cpt} O licenciamento ambiental de empreendimentos de geração de energia elétrica a partir de fonte solar será protocolado e analisado pelo órgão ambiental competente mediante pagamento de 3 (três) taxas (quando couber) a serem recolhidas quando da solicitação do licenciamento ambiental.
 
@@ -411,39 +378,32 @@ Tags: #licenciamento-ambiental #taxa-ambiental #energia-solar #las #lp #publicac
 **Art. 34, caput** {#art34_cpt} Para instalação de empreendimentos dispensados de licenciamento estadual, se for necessária movimentação de terra, deverá ser observada a [[resolucao-sema-51-2009|Resolução SEMA n° 051/2009]] ou outra que venha a substitui-la.
 
 ###### Art. 35 {#art35}
-Tags: #energia-solar #licenciamento-ambiental #residuo-solido #requerimento
 
 **Art. 35, caput** {#art35_cpt} Para manutenção do campo solar não será necessário requerimento de licenciamento ambiental, no entanto, os resíduos gerados deverão ser destinados corretamente em locais licenciados.
 
 ###### Art. 36 {#art36}
-Tags: #energia-solar
 
 **Art. 36, caput** {#art36_cpt} No caso dos licenciamentos de geração de energia elétrica a partir de fonte solar exijam apresentação do Relatório Ambiental Simplificado – RAS, sempre que julgar necessário, ou quando for solicitado por entidade civil, pelo Ministério Público, ou por pelo menos cinquenta pessoas maiores de dezoito anos, o órgão de meio ambiente promoverá Reunião Técnica Informativa, conforme preconiza a [[resolucao-conama-279-2001|Resolução CONAMA nº 279/2001]].
 
 ###### Art. 37 {#art37}
-Tags: #eia-rima #publicacao-dioe
 
 **Art. 37, caput** {#art37_cpt} O Instituto Água e Terra dará publicidade ao EIA/RIMA através de edital de entrada que será publicado no Diário Oficial do Estado e disponibilizado em seu sítio eletrônico.
 
 **Art. 37, parágrafo único** {#art37_par1u} Os ritos e procedimentos relativos às Audiências Públicas seguirão o preconizado nas Resoluções [[resolucao-conama-1-1986|CONAMA nº 01/1986]] e [[resolucao-conama-9-1987|CONAMA nº 09/1987]].
 
 ###### Art. 38 {#art38}
-Tags: #validade #prazo
 
 **Art. 38, caput** {#art38_cpt} Os prazos de validade de cada ato administrativo serão estabelecidos pelo órgão ambiental competente, especificando-os no respectivo documento, com base no disposto na [[resolucao-cema-107-2020|Resolução CEMA nº 107/2020]] ou outra que venha a substituí-la.
 
 ###### Art. 39 {#art39}
-Tags: #las #licenciamento-ambiental #autorizacao-ambiental #monitoramento
 
 **Art. 39, caput** {#art39_cpt} Os empreendimentos que estejam sujeitos à Licença Ambiental Simplificada – LAS, somente estarão aptos a se instalarem após o deferimento da Autorização Ambiental para Resgate, Manejo e Monitoramento de Fauna, conforme disposto na Portaria IAP Nº 97 DE 29/05/2012 ou outra que venha substituí-la e quando aplicável.
 
 ###### Art. 40 {#art40}
-Tags: #li #lp #lo #licenciamento-trifasico #autorizacao-ambiental #monitoramento
 
 **Art. 40, caput** {#art40_cpt} Os empreendimentos que estejam sujeitos ao licenciamento trifásico (LP, LI e LO), somente terão a emissão da Licença de Licença de Instalação – LI emitida de forma concomitante ou posteriormente ao deferimento da solicitação de Autorização Florestal e Autorização Ambiental para Resgate, Manejo e Monitoramento de Fauna, conforme disposto na Portaria IAP Nº 97 DE 29/05/2012 ou outra que venha substituí-la.
 
 ###### Art. 41 {#art41}
-Tags: #responsavel-tecnico
 
 **Art. 41, caput** {#art41_cpt} Para os casos excepcionais envolvendo imóveis não contemplados nesta Resolução, deverão estar em conformidade com as hipóteses dos [[#art45|Art. 45]] a 54 da [[resolucao-cema-107-2020|Resolução CEMA nº 107/2020]].
 
@@ -452,22 +412,18 @@ Tags: #responsavel-tecnico
 **Art. 42, caput** {#art42_cpt} Os Termos de Referência necessários para elaboração dos estudos ambientais exigidos por esta Resolução serão disponibilizados pelo Instituto Água e Terra – IAT.
 
 ###### Art. 43 {#art43}
-Tags: #licenciamento-ambiental #responsavel-tecnico #iphan
 
 **Art. 43, caput** {#art43_cpt} Quando da necessidade da manifestação de órgãos intervenientes no licenciamento ambiental, tais como FUNAI, INCRA, IPHAN, ICMBio, CEPHA, DER, entre outros, será seguido o procedimento conforme estabelece os [[#art11|art. 11]],12 e 13 da [[resolucao-cema-107-2020|Resolução CEMA nº107/2020]].
 
 ###### Art. 44 {#art44}
-Tags: #licenciamento-ambiental #enquadramento
 
 **Art. 44, caput** {#art44_cpt} O empreendedor que no âmbito do licenciamento ambiental elaborar ou apresentar concessão florestal ou qualquer outro procedimento administrativo, estudo, laudo ou relatório ambiental total ou parcialmente falso ou enganoso, inclusive por omissão, será enquadrado conforme disposto na [[lei-federal-9605-1998|Lei Federal 9.605 de 12 de fevereiro de 1998]].
 
 ###### Art. 45 {#art45}
-Tags: #enquadramento #casos-omissos
 
 **Art. 45, caput** {#art45_cpt} Os casos omissos nesta resolução serão analisados pelo Instituto Água e Terra - IAT e enquadrados na legislação ambiental vigente conforme as características particulares de cada empreendimento.
 
 ###### Art. 46 {#art46}
-Tags: #publicacao-dioe
 
 **Art. 46, caput** {#art46_cpt} Esta Resolução entrará em vigor na data de sua publicação, revogando-se a [[portaria-iap-19-2017|Portaria IAP nº 19 de 06 de fevereiro de 2017]].
 

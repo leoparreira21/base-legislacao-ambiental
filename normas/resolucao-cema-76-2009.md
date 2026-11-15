@@ -42,19 +42,16 @@ fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé tra
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #coprocessamento #residuo-solido #cimenteira
 
 **Art. 1º, caput** {#art1_cpt} As atividades de coprocessamento de resíduos, para fins de substituição de matéria prima ou combustível, cumulada ou alternadamente, deverão atender aos critérios estabelecidos nesta Resolução.
 
 **Art. 1º, parágrafo único** {#art1_par1u} Incluem-se as atividades de mistura e pré-condicionamento com a finalidade de destinar resíduos ao coprocessamento referidos no caput deste artigo.
 
 ###### Art. 2º {#art2}
-Tags: #coprocessamento #autorizacao-ambiental #licenciamento-ambiental
 
 **Art. 2º, caput** {#art2_cpt} Os fornos rotativos de produção de clínquer e as atividades de coprocessamento de resíduos estão sujeitas, respectivamente, ao licenciamento ambiental e autorização ambiental.
 
 ###### Art. 3º {#art3}
-Tags: #coprocessamento #residuo-proibido #metal-pesado
 
 **Art. 3º, caput** {#art3_cpt} Não será permitido o coprocessamento dos seguintes resíduos sólidos gerados ou não no Estado do Paraná:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} Lodos de estações de tratamento, físico-químico ou biológico, de efluentes líquidos industriais, com exceção dos resíduos com Poder Calorífico Superior (PCS) de acordo com o estabelecido nos Incisos I e II do Artigo 4º;
@@ -73,7 +70,6 @@ Tags: #coprocessamento #residuo-proibido #metal-pesado
   - **Art. 3º, caput, inciso XI, alínea "c"** {#art3_cpt_inc11_alic} Cromo (Cr) até 5.000 mg/kg e Chumbo (Pb) até 5.000 mg/kg.
 
 ###### Art. 4º {#art4}
-Tags: #coprocessamento #poder-calorifico #residuo-solido
 
 **Art. 4º, caput** {#art4_cpt} Serão aceitos para a avaliação as solicitações para coprocessamento dos seguintes resíduos sólidos gerados no Estado do Paraná ou em outros Estados da federação:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} Resíduos energéticos ou mistura de resíduos, substitutos de combustível, com poder calorífico superior (PCS) acima de 1.500 kcal/kg;
@@ -84,7 +80,6 @@ Tags: #coprocessamento #poder-calorifico #residuo-solido
 **Art. 4º, parágrafo único** {#art4_par1u} Para fins específicos de destruição térmica, quando outra solução técnica não for possível, serão aceitos somente resíduos provenientes do Estado do Paraná.
 
 ###### Art. 5º {#art5}
-Tags: #coprocessamento #autorizacao-ambiental #requerimento #laudo-analitico
 
 **Art. 5º, caput** {#art5_cpt} Os requerimentos de Autorização Ambiental para as atividades de coprocessamento de resíduos, encaminhados ao IAP, somente serão protocolados se instruídos na forma prevista abaixo:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} Requerimento de Licenciamento Ambiental;
@@ -104,17 +99,14 @@ Tags: #coprocessamento #autorizacao-ambiental #requerimento #laudo-analitico
 **Art. 5º, § 3º** {#art5_par3} O requerente deverá manter, pelo período mínimo de um ano, amostra testemunha coletada de acordo com as normas técnicas vigentes, para eventual realização de novo laudo.
 
 ###### Art. 6º {#art6}
-Tags: #laboratorio #acreditacao
 
 **Art. 6º, caput** {#art6_cpt} Os ensaios laboratoriais requisitados no âmbito desta resolução, somente serão aceitos se emitidos por laboratórios acreditados pelo Instituto Nacional de Metrologia/INMETRO.
 
 ###### Art. 7º {#art7}
-Tags: #camara-tecnica #coprocessamento
 
 **Art. 7º, caput** {#art7_cpt} As solicitações de Autorização Ambiental para coprocessamento de resíduos ou mistura de resíduos em fornos de cimento serão avaliados pela Câmara Técnica de Resíduos conforme estabelecido na [[resolucao-cema-50-2005|Resolução CEMA nº 050/2005]] e Portaria IAP 224/2007, ou por diplomas legais que venham a substituí-las.
 
 ###### Art. 8º {#art8}
-Tags: #prazo #camara-tecnica
 
 **Art. 8º, caput** {#art8_cpt} A Câmara Técnica de Resíduos do Instituto Ambiental do Paraná terá um prazo de 6 (seis) meses para análise de cada autorização ambiental, com decisão motivada técnica e legal, a contar da data do protocolo do requerimento, de acordo com o estabelecido na [[resolucao-cema-65-2008|Resolução CEMA n.º 065/2008]] em seu [[#art13|artigo 13]], podendo este prazo ser reduzido, em caráter excepcional, mediante justificativa da cimenteira.
 
@@ -123,44 +115,36 @@ Tags: #prazo #camara-tecnica
 **Art. 8º, § 2º** {#art8_par2} Os requerimentos de Autorização Ambiental não instruídos na forma prevista acima serão indeferidos, caso não sejam apresentadas as complementações analisadas como necessárias pela Câmara Técnica de Resíduos, em um prazo de 30 (trinta) dias a contar da comunicação ao interessado.
 
 ###### Art. 9º {#art9}
-Tags: #residuo-outro-estado
 
 **Art. 9º, caput** {#art9_cpt} Os requerimentos de Autorização Ambiental de resíduos gerados em outros Estados da Federação e que não se enquadrem nos critérios estabelecidos nos artigos 3º e 4º desta Resolução, devem ser encaminhados ao CEMA, de acordo com o [[#art3|artigo 3º]], Parágrafo Único, da [[lei-estadual-12493-1999|Lei Estadual 12.493, de 22 de janeiro de 1999]].
 
 ###### Art. 10 {#art10}
-Tags: #residuo-outro-estado #solo-contaminado
 
 **Art. 10, caput** {#art10_cpt} Os requerimentos de Autorização Ambiental para coprocessamento de solos contaminados, resultantes da recuperação de áreas ou de acidentes ambientais, gerados em outros Estados da Federação, deverão obedecer ao estabelecido na [[resolucao-cema-50-2005|Resolução CEMA nº 050/2005]], ou outro diploma legal que venha a substituí-la, sendo obrigatória a apresentação de Declaração dos órgãos ambientais do Estado de origem, quanto as suas características, inclusive quanto à possibilidade de existência de contaminantes caracterizados como organoclorados, agrotóxicos e domissanitários.
 
 ###### Art. 11 {#art11}
-Tags: #autorizacao-ambiental #prazo
 
 **Art. 11, caput** {#art11_cpt} A Autorização Ambiental será concedida por prazo não superior a 02 (dois) anos, prorrogável por mais 06 (seis) meses, em caso de não processamento da quantidade autorizada.
 
 ###### Art. 12 {#art12}
-Tags: #emissao-atmosferica #automonitoramento
 
 **Art. 12, caput** {#art12_cpt} O lançamento e monitoramento de emissões atmosféricas dos fornos rotativos de produção de clínquer devem atender ao estabelecido de acordo com a legislação vigente, em especial a [[resolucao-sema-54-2006|Resolução SEMA nº 054/2006]], em seus artigos 32 e 33 e a Portaria IAP nº 001/2008.
 
 ###### Art. 13 {#art13}
-Tags: #relatorio-semestral #automonitoramento
 
 **Art. 13, caput** {#art13_cpt} Os responsáveis pelo armazenamento, pré-condicionamento e/ou destinação final dos resíduos, devem apresentar Relatório Semestral de recebimento, movimentação, processamento e destinação final dos resíduos, descrevendo a classificação, quantidades e tratamento/destinação final adotados, informando o número da Autorização Ambiental e o respectivo número de protocolo.
 
 **Art. 13, parágrafo único** {#art13_par1u} O disposto no caput deste artigo, não dispensa ao destinatário final dos resíduos a apresentação dos Relatórios de automonitoramento de emissões de efluentes gasosos decorrentes de sua atividade, conforme a frequência, as condicionantes e os parâmetros legais e estabelecidos no licenciamento.
 
 ###### Art. 14 {#art14}
-Tags: #sancao
 
 **Art. 14, caput** {#art14_cpt} O não cumprimento do disposto nesta Resolução acarretará aos infratores as sanções previstas na Lei Federal nº 9.605/98, no Decreto Federal nº 6514/08 e demais leis específicas.
 
 ###### Art. 15 {#art15}
-Tags: #prazo #coprocessamento
 
 **Art. 15, caput** {#art15_cpt} Fica concedido um prazo de 90 (noventa) dias para o protocolo das solicitações de autorização ambiental, para coprocessamento de resíduos gerados no Estado do Paraná, para os fins tratados nesta Resolução e anteriormente dispensados pelo Artigo 4.º da Portaria IAP 224/2007.
 
 ###### Art. 16 {#art16}
-Tags: #vigencia #revogacao
 
 **Art. 16, caput** {#art16_cpt} Esta Resolução entra em vigor na data de sua publicação e fica revogada a Resolução 071/2009-CEMA, e demais dispositivos contrários referente às atividades de coprocessamento.
 

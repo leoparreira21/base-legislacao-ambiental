@@ -26,7 +26,6 @@ fonte: "Ministério do Trabalho e Emprego, "NR 13 - Caldeiras, vasos de pressão
 > Caldeiras, vasos de pressão, tubulações e tanques metálicos de armazenamento. Aprovada pela Portaria MTb nº 3.214, de 08 de junho de 1978, DOU de 06/07/78, e alterada pelas portarias listadas no histórico.
 
 ## 13.1 Objetivo {#ite13-1}
-Tags: #seguranca-trabalho #caldeira #vaso-pressao #tanque-armazenamento #responsabilidade
 
 **Item 13.1.1** {#ite13-1-1} O objetivo desta Norma Regulamentadora - NR é estabelecer requisitos mínimos para a gestão da integridade estrutural de caldeiras, vasos de pressão, suas tubulações de interligação e tanques metálicos de armazenamento nos aspectos relacionados à instalação, inspeção, operação e manutenção, visando a segurança e saúde dos trabalhadores.
 
@@ -39,7 +38,6 @@ Tags: #seguranca-trabalho #caldeira #vaso-pressao #tanque-armazenamento #respons
 **Item 13.1.4** {#ite13-1-4} Considera-se estabelecimento com Serviço Próprio de Inspeção de Equipamentos - SPIE aquele cujo empregador obtém, de forma voluntária, a certificação prevista no Anexo II desta NR.
 
 ## 13.2 Campo de aplicação {#ite13-2}
-Tags: #ambito-aplicacao #caldeira #vaso-pressao #tanque-armazenamento
 
 **Item 13.2.1** {#ite13-2-1} Esta NR deve ser aplicada aos seguintes equipamentos:
 - **Item 13.2.1, alínea "a"** {#ite13-2-1_alia} caldeiras com pressão de operação superior a 60 kPa (0,61 kgf/cm²);
@@ -73,7 +71,6 @@ Tags: #ambito-aplicacao #caldeira #vaso-pressao #tanque-armazenamento
 **Item 13.2.3** {#ite13-2-3} O disposto no item 13.2.2 não exime o empregador do dever de inspecionar e executar a manutenção dos referidos equipamentos e de outros sistemas pressurizados que ofereçam riscos aos trabalhadores, acompanhadas ou executadas por um responsável técnico, e observadas as recomendações do fabricante, bem como o disposto em códigos ou normas aplicáveis. *(retificado em 20/10/2022)*
 
 ## 13.3 Disposições gerais {#ite13-3}
-Tags: #seguranca-trabalho #caldeira #vaso-pressao
 
 **Item 13.3.1** {#ite13-3-1} As seguintes situações constituem condição de grave e iminente risco:
 - **Item 13.3.1, alínea "a"** {#ite13-3-1_alia} operação de equipamentos abrangidos por esta NR sem os dispositivos de segurança previstos nos subitens 13.4.1.2 “a”, 13.5.1.2 “a”, 13.6.1.2 e 13.7.2.1;
@@ -158,7 +155,6 @@ Tags: #seguranca-trabalho #caldeira #vaso-pressao
 **Item 13.3.13** {#ite13-3-13} É proibida a construção, importação, comercialização, leilão, locação, cessão a qualquer título, exposição e utilização de caldeiras e vasos de pressão sem a indicação do respectivo código de construção no prontuário e na placa de identificação. (para equipamentos fabricados a partir de 20 de março de 2018 - vide art. 4º da [[portaria-mtp-1846-2022|Portaria MTP nº 1.846/22]])
 
 ## 13.4 Caldeiras {#ite13-4}
-Tags: #caldeira #projeto-instalacao #inspecao-seguranca
 
 ### 13.4.1 Disposições Gerais {#ite13-4-1}
 
@@ -321,7 +317,6 @@ Tags: #caldeira #projeto-instalacao #inspecao-seguranca
 **Item 13.4.4.13** {#ite13-4-4-13} Sempre que os resultados da inspeção determinarem alterações dos dados de projeto, a placa de identificação e a documentação do prontuário devem ser atualizadas.
 
 ## 13.5 Vasos de pressão {#ite13-5}
-Tags: #vaso-pressao #inspecao-seguranca
 
 ### 13.5.1 Disposições Gerais {#ite13-5-1}
 
@@ -513,7 +508,6 @@ Tags: #vaso-pressao #inspecao-seguranca
 **Item 13.5.4.12** {#ite13-5-4-12} Sempre que os resultados da inspeção determinarem alterações das condições de projeto, a placa de identificação e a documentação do prontuário devem ser atualizadas.
 
 ## 13.6 Tubulações {#ite13-6}
-Tags: #tubulacao #inspecao-seguranca
 
 ### 13.6.1 Disposições Gerais {#ite13-6-1}
 
@@ -576,7 +570,6 @@ Tags: #tubulacao #inspecao-seguranca
 **Item 13.6.2.7** {#ite13-6-2-7} As tubulações devem ser identificadas conforme padronização formalmente instituída pelo estabelecimento.
 
 ## 13.7 Tanques metálicos de armazenamento {#ite13-7}
-Tags: #tanque-armazenamento #inspecao-seguranca
 
 ### 13.7.1 Disposições gerais {#ite13-7-1}
 
@@ -634,7 +627,6 @@ Tags: #tanque-armazenamento #inspecao-seguranca
 - **Item 13.7.3.4, alínea "l"** {#ite13-7-3-4_alil} certificados de inspeção e teste dos dispositivos de sobrepressão e vácuo.
 
 ## ANEXO I DA NR-13 – CAPACITAÇÃO E TREINAMENTO {#anexo1}
-Tags: #seguranca-trabalho #capacitacao
 
 #### 1 Caldeiras {#anexo1_ite1}
 
@@ -717,7 +709,6 @@ Tags: #seguranca-trabalho #capacitacao
 **Anexo I, item 2.10** {#anexo1_ite2-10} Currículo mínimo para treinamento de segurança na operação de unidades de processo: Noções de física aplicada. Pressão. Pressão atmosférica. Pressão manométrica e pressão absoluta. Pressão interna, pressão externa e vácuo. Unidades de pressão. Transferência de calor. Noções gerais: o que é calor, o que é temperatura. Modos de transferência de calor. Calor específico e calor sensível. Transferência de calor a temperatura constante. Termodinâmica. Conceitos. Vapor saturado e vapor superaquecido. Mecânica dos fluidos. Conceitos fundamentais. Pressão em escoamento. Tipos de escoamento: laminar e turbulento. Escoamento de líquidos: transferência por gravidade, diferença de pressão, sifão. Perda de carga: conceito, rugosidade, acidentes. Princípio de bombeamento de fluidos. Noções de química aplicada. Densidade. Solubilidade. Difusão de gases e vapores. Caracterização de ácido e base (Álcalis) - Definição de pH. Fundamentos básicos sobre corrosão. Equipamentos de processo (carga horária estabelecida de acordo com a complexidade da unidade, onde aplicável). Acessórios de tubulações. Acessórios elétricos e outros itens. Aquecedores de água. Bombas. Caldeiras (conhecimento básico). Compressores. Condensador. Desmineralizador. Esferas. Evaporadores. Filtros. Lavador de gases. Reatores. Resfriador. Secadores. Silos. Tanques de armazenamento. Torres. Trocadores calor. Tubulações industriais. Turbinas a vapor. Injetores e ejetores. Dispositivos de segurança. Outros. Instrumentação. Operação da unidade. Descrição do processo. Partida e parada. Procedimentos de emergência. Descarte de produtos químicos e preservação do meio ambiente. Avaliação e controle de riscos inerentes ao processo. Prevenção contra deterioração, explosão e outros riscos. Legislação e normalização. Norma Regulamentadora nº 13 (NR-13). Categorias de vasos de pressão. Tópicos de inspeção e manutenção de equipamentos e registros. *(Retificada em 20/10/2022)*
 
 ## ANEXO II DA NR-13 – REQUISITOS PARA CERTIFICAÇÃO DE SERVIÇO PRÓPRIO DE INSPEÇÃO DE EQUIPAMENTOS - SPIE {#anexo2}
-Tags: #spie #inspecao-seguranca
 
 **Anexo II, item 1** {#anexo2_ite1} O SPIE da empresa, organizado na forma de setor, seção, departamento, divisão, ou equivalente, deve ser certificado por OCP acreditado pelo INMETRO, que irá verificar, por meio de auditorias programadas, o atendimento aos seguintes requisitos:
 - **Anexo II, item 1, alínea "a"** {#anexo2_ite1_alia} existência de pessoal próprio da empresa onde estão instaladas caldeiras, vasos de pressão, tubulações e tanques, com dedicação exclusiva a atividades de inspeção, avaliação de integridade e vida remanescente, com formação, qualificação e treinamento compatíveis com a atividade proposta de preservação da segurança; *(Retificada em 20/10/2022)*
@@ -732,7 +723,6 @@ Tags: #spie #inspecao-seguranca
 **Anexo II, item 2** {#anexo2_ite2} A certificação de SPIE e a sua manutenção estão sujeitas a regulamento específico do INMETRO.
 
 ## ANEXO III DA NR-13 – CERTIFICAÇÃO VOLUNTÁRIA DE COMPETÊNCIAS DO PROFISSIONAL LEGALMENTE HABILITADO - PLH {#anexo3}
-Tags: #capacitacao
 
 **Anexo III, item 1** {#anexo3_ite1} O PLH pode, através de certificação voluntária no âmbito do Sistema Brasileiro de Avaliação da Conformidade - SBAC, obter o reconhecimento de sua competência profissional como PLH Certificado da NR-13 para o exercício das atividades referentes a acompanhamento da operação e da manutenção, inspeção e supervisão de inspeção de caldeiras, de vasos de pressão, de tubulações e de tanques metálicos de armazenamento.
 
@@ -750,7 +740,6 @@ Tags: #capacitacao
 **Anexo III, item 5** {#anexo3_ite5} Os profissionais que obtiverem o reconhecimento de suas competências profissionais através desta certificação voluntária devem ter esta informação divulgada pela autoridade competente em matéria de segurança e saúde no trabalho.
 
 ## ANEXO IV DA NR-13 – REQUISITOS PARA AMPLIAÇÃO DE PRAZO DE INSPEÇÃO DE CALDEIRAS CATEGORIA A COM SISTEMA INSTRUMENTADO DE SEGURANÇA (SIS) E DE CALDEIRAS CATEGORIA B COM SISTEMA DE GERENCIAMENTO DE COMBUSTÃO - SGC {#anexo4}
-Tags: #caldeira #inspecao-seguranca
 
 #### 1 Caldeiras de categoria A dotadas de Sistema Instrumentado de Segurança - SIS {#anexo4_ite1}
 
@@ -800,7 +789,6 @@ Tags: #caldeira #inspecao-seguranca
 **Anexo IV, item 2.4** {#anexo4_ite2-4} O empregador deve comunicar formalmente à representação sindical da categoria profissional predominante do estabelecimento a implementação dos novos prazos de inspeção de segurança.
 
 ## Glossário {#glossario}
-Tags: #definicao
 
 **Glossário, linha 1** {#glossario_lin1} Abertura escalonada de válvulas de segurança: condição diferenciada de ajuste da pressão de abertura de múltiplas válvulas de segurança, prevista no código de construção do equipamento por elas protegido, onde podem ser estabelecidos valores de abertura acima da PMTA, consideradas as vazões necessárias para o alívio da sobrepressão em cenários distintos.
 

@@ -22,18 +22,18 @@ fonte: PDF da IN IAT 41/2025 (work/in41.pdf), página 92
 - **Anexo X, linha 1** {#anexo10_lin1} 1. IDENTIFICAÇÃO DO EMPREENDIMENTO
 - **Anexo X, linha 2** {#anexo10_lin2} Nome do Empreendimento:
 - **Anexo X, linha 3** {#anexo10_lin3} Localização:
-- **Anexo X, linha 4** {#anexo10_lin4} #cnpj #cpf CNPJ/CPF:
-- **Anexo X, linha 5** {#anexo10_lin5} #responsavel-tecnico Responsável Técnico:
-- **Anexo X, linha 6** {#anexo10_lin6} #conselho-classe CREA:
+- **Anexo X, linha 4** {#anexo10_lin4} CNPJ/CPF:
+- **Anexo X, linha 5** {#anexo10_lin5} Responsável Técnico:
+- **Anexo X, linha 6** {#anexo10_lin6} CREA:
 - **Anexo X, linha 7** {#anexo10_lin7} 2. OBJETO DO LAUDO
-- **Anexo X, linha 8** {#anexo10_lin8} #laudo-conclusao-obra #medida-mitigadora Este laudo visa atestar a conclusão da obra em conformidade ambiental, conforme estabelecido no projeto aprovado, no processo de licenciamento ambiental, bem como em conformidade com as legislações vigentes pertinentes, incluindo medidas de mitigação e controle de impactos ambientais.
+- **Anexo X, linha 8** {#anexo10_lin8} Este laudo visa atestar a conclusão da obra em conformidade ambiental, conforme estabelecido no projeto aprovado, no processo de licenciamento ambiental, bem como em conformidade com as legislações vigentes pertinentes, incluindo medidas de mitigação e controle de impactos ambientais.
 - **Anexo X, linha 9** {#anexo10_lin9} 3. ESCRIÇÃO DA OBRA
-- **Anexo X, linha 10** {#anexo10_lin10} #ampliacao Tipo de Obra: Construção/Reforma ou ampliações
-- **Anexo X, linha 11** {#anexo10_lin11} #area-construida Área Total Construída: Área em m² total e/ou ampliações
+- **Anexo X, linha 10** {#anexo10_lin10} Tipo de Obra: Construção/Reforma ou ampliações
+- **Anexo X, linha 11** {#anexo10_lin11} Área Total Construída: Área em m² total e/ou ampliações
 - **Anexo X, linha 12** {#anexo10_lin12} Data de Início: Data de início da obra
 - **Anexo X, linha 13** {#anexo10_lin13} Data de Conclusão: Data de conclusão da obra
 - **Anexo X, linha 14** {#anexo10_lin14} 4. ANÁLISE TÉCNICA
-- **Anexo X, linha 15** {#anexo10_lin15} #tratamento-efluente #residuo-solido #agua-pluvial Análise sobre a estrutura, sistemas de tratamentos de efluentes, resíduos sólidos, equipamentos instalados, drenagem pluvial, etc.
+- **Anexo X, linha 15** {#anexo10_lin15} Análise sobre a estrutura, sistemas de tratamentos de efluentes, resíduos sólidos, equipamentos instalados, drenagem pluvial, etc.
 - **Anexo X, linha 16** {#anexo10_lin16} 5. CONSIDERAÇÕES FINAIS
 - **Anexo X, linha 17** {#anexo10_lin17} 6. REGISTROS FOTOGRÁFICOS
 

@@ -72,19 +72,16 @@ Considerando o disposto na Resolução do Conselho Estadual do Meio Ambiente-CEM
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #mineracao #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer definições, critérios, diretrizes e procedimentos para o licenciamento ambiental de empreendimentos minerários.
 
 ## CAPÍTULO I – DAS DEFINIÇÕES {#cap1}
 
 ###### Art. 2º {#art2}
-Tags: #mineracao #definicao
 
 **Art. 2º, caput** {#art2_cpt} Para fins desta Resolução, consideram-se empreendimentos minerários todas as atividades que possuam títulos de direitos minerários ou declaração de dispensa dos mesmos, concedidos pela Agência Nacional de Mineração - ANM, instituídos e regulamentados pela legislação minerária, que permitam a extração mineral, contemplando as áreas de lavra, áreas construídas e demais atividades necessárias ao desenvolvimento da atividade minerária, tais como: beneficiamento físico, estocagem de minério, depósito de rejeito e estéril entre outros.
 
 ###### Art. 3º {#art3}
-Tags: #mineracao #definicao #pca #outorga #residuo-solido #monitoramento
 
 **Art. 3º, caput** {#art3_cpt} Para efeito desta Resolução, consideram-se as seguintes definições:
 
@@ -130,7 +127,6 @@ Tags: #mineracao #definicao #pca #outorga #residuo-solido #monitoramento
 - **Art. 3º, caput, inciso XL** {#art3_cpt_inc40} Uso futuro da área de lavra: utilização prevista da área impactada pela atividade minerária levando-se em consideração as suas aptidões, a intenção de uso pós-operacional, as características dos meios físico e biótico e os aspectos socioeconômicos da região;
 
 ###### Art. 4º {#art4}
-Tags: #condicionante #licenciamento-ambiental #las #lp #li #lo
 
 **Art. 4º, caput** {#art4_cpt} O órgão licenciador, no exercício de sua competência, expedirá os seguintes atos administrativos:
 
@@ -148,7 +144,6 @@ Tags: #condicionante #licenciamento-ambiental #las #lp #li #lo
 ### Seção I – DA AUTORIZAÇÃO AMBIENTAL PARA UTILIZAÇÃO EMERGENCIAL OU CALAMIDADE PÚBLICA {#cap2_sec1}
 
 ###### Art. 5º {#art5}
-Tags: #mineracao #autorizacao-ambiental #iphan #licenciamento-ambiental #taxa-ambiental #requerimento
 
 **Art. 5º, caput** {#art5_cpt} Em situações consideradas de emergência ou calamidade pública poderá ser emitida uma Autorização Ambiental para municípios ou órgãos da administração direta e autárquica, visando utilização de material minerário em obras emergenciais que visem o restabelecimento das condições afetadas ou para evitar danos maiores ao patrimônio e/ou ao meio ambiente, desde que não haja comercialização, devendo ser apresentados os seguintes documentos:
 
@@ -162,7 +157,6 @@ Tags: #mineracao #autorizacao-ambiental #iphan #licenciamento-ambiental #taxa-am
 ### Seção II – DA LICENÇA AMBIENTAL SIMPLIFICADA PARA EMPREENDIMENTOS COM DISPENSA DE TÍTULO MINERÁRIO {#cap2_sec2}
 
 ###### Art. 6º {#art6}
-Tags: #mineracao #las #licenciamento-ambiental #publicacao-dioe #car #autorizacao-ambiental
 
 **Art. 6º, caput** {#art6_cpt} Para os empreendimentos com dispensa de título minerário poderá ser emitida uma Licença Ambiental Simplificada - LAS, para trabalhos de movimentação de terra e de desmonte de materiais in natura, que se fizerem necessários para abertura e manutenção de vias de transporte, obras gerais de terraplanagem e de edificações, desde que não haja comercialização, devendo ser apresentados os seguintes documentos:
 
@@ -183,7 +177,6 @@ Tags: #mineracao #las #licenciamento-ambiental #publicacao-dioe #car #autorizaca
 ### Seção III – DA LICENÇA AMBIENTAL SIMPLIFICADA PARA EXTRAÇÃO MINERAL COM GUIA DE UTILIZAÇÃO {#cap2_sec3}
 
 ###### Art. 7º {#art7}
-Tags: #mineracao #las #publicacao-dioe #licenciamento-ambiental #car #pca
 
 **Art. 7º, caput** {#art7_cpt} Para os casos de pedido de Licença Ambiental Simplificada - LAS para extração mineral com Guia de Utilização deverão ser apresentados os seguintes documentos:
 
@@ -204,7 +197,6 @@ Tags: #mineracao #las #publicacao-dioe #licenciamento-ambiental #car #pca
 ### Seção IV – DA LICENÇA AMBIENTAL SIMPLIFICADA PARA EMPREENDIMENTOS MINERÁRIOS DE PEQUENO PORTE DESENVOLVIDOS POR ORGÃOS PÚBLICOS NO REGIME DE REGISTRO DE EXTRAÇÃO {#cap2_sec4}
 
 ###### Art. 8º {#art8}
-Tags: #mineracao #las #publicacao-dioe #licenciamento-ambiental #porte #car
 
 **Art. 8º, caput** {#art8_cpt} Para o pedido de Licença Ambiental Simplificada-LAS para empreendimentos minerários de pequeno porte, desenvolvidos por órgãos públicos sem que haja comercialização do material extraído (Regime de Registro de Extração junto à ANM), deverão ser apresentados os seguintes documentos:
 
@@ -225,7 +217,6 @@ Tags: #mineracao #las #publicacao-dioe #licenciamento-ambiental #porte #car
 ### Seção V – DA RENOVAÇÃO DA LICENÇA AMBIENTAL SIMPLIFICADA {#cap2_sec5}
 
 ###### Art. 9º {#art9}
-Tags: #mineracao #las #publicacao-dioe #renovacao #licenciamento-ambiental #outorga
 
 **Art. 9º, caput** {#art9_cpt} Na renovação da Licença Ambiental Simplificada, emitida para os empreendimentos com Dispensa de Titulo Minerário (Seção II), Extração Mineral com Guia de Utilização (Seção III) e Regime de Registro de Extração (seção IV), deverão ser apresentados os seguintes documentos:
 
@@ -246,7 +237,6 @@ Tags: #mineracao #las #publicacao-dioe #renovacao #licenciamento-ambiental #outo
 ### Seção VI – DO LICENCIAMENTO COMPLETO-LICENÇA PRÉVIA (LP), LICENÇA DE INSTALAÇÃO (LI) e LICENÇA DE OPERAÇÃO (LO) {#cap2_sec6}
 
 ###### Art. 10 {#art10}
-Tags: #las #mineracao #licenciamento-ambiental #recurso-hidrico
 
 **Art. 10, caput** {#art10_cpt} As atividades extrativas minerais abaixo, não contempladas na modalidade de Licença Ambiental Simplificada-LAS, estão sujeitas ao licenciamento completo, que contempla as Licenças Prévia, de Instalação e de Operação:
 
@@ -258,7 +248,6 @@ Tags: #las #mineracao #licenciamento-ambiental #recurso-hidrico
 ### Seção VII – DA LICENÇA PRÉVIA-LP {#cap2_sec7}
 
 ###### Art. 11 {#art11}
-Tags: #mineracao #porte #publicacao-dioe #enquadramento #lp #rap
 
 **Art. 11, caput** {#art11_cpt} Para o requerimento de Licença Prévia deverão ser apresentados os seguintes documentos:
 
@@ -281,7 +270,6 @@ Tags: #mineracao #porte #publicacao-dioe #enquadramento #lp #rap
 ### Seção VIII – DA LICENÇA DE INSTALAÇÃO-LI {#cap2_sec8}
 
 ###### Art. 12 {#art12}
-Tags: #publicacao-dioe #mineracao #requerimento #li #lp #pca
 
 **Art. 12, caput** {#art12_cpt} Para o requerimento de Licença de Instalação deverão ser apresentados os seguintes documentos:
 
@@ -303,7 +291,6 @@ Tags: #publicacao-dioe #mineracao #requerimento #li #lp #pca
 ### Seção IX – DA LICENÇA DE OPERAÇÃO-LO {#cap2_sec9}
 
 ###### Art. 13 {#art13}
-Tags: #publicacao-dioe #lo #mineracao #requerimento #li #outorga
 
 **Art. 13, caput** {#art13_cpt} Para requerimento de Licença de Operação deverão ser apresentados os seguintes documentos:
 
@@ -323,7 +310,6 @@ Tags: #publicacao-dioe #lo #mineracao #requerimento #li #outorga
 ### Seção X – DA RENOVAÇÃO DA LICENÇA DE OPERAÇÃO {#cap2_sec10}
 
 ###### Art. 14 {#art14}
-Tags: #lo #renovacao #publicacao-dioe #mineracao #lor #prazo
 
 **Art. 14, caput** {#art14_cpt} Na renovação da Licença de Operação deverão ser apresentados os seguintes documentos:
 
@@ -345,7 +331,6 @@ Tags: #lo #renovacao #publicacao-dioe #mineracao #lor #prazo
 ### Seção XI – DO REQUERIMENTO PARA AMPLIAÇÃO DE EMPREENDIMENTOS {#cap2_sec11}
 
 ###### Art. 15 {#art15}
-Tags: #lo #ampliacao #mineracao #porte
 
 **Art. 15, caput** {#art15_cpt} Poderá ser solicitada ampliação das instalações/atividades já licenciadas e contempladas na Licença de Operação dos empreendimentos de pequeno e médio porte, para os casos de ampliação e/ou inclusão de novas frentes de lavra, alteração de equipamentos, inclusão ou modificação do processo de beneficiamento físico do minério; alterações das áreas de apoio, depósitos de material estéril, entre outros, desde que atendidas as seguintes condições:
 
@@ -354,12 +339,10 @@ Tags: #lo #ampliacao #mineracao #porte
 - **Art. 15, caput, inciso III** {#art15_cpt_inc3} A metodologia de extração a ser utilizada seja a mesma daquela indicada na Licença de Operação em vigor.
 
 ###### Art. 16 {#art16}
-Tags: #pca #ampliacao #licenciamento-ambiental #lo #porte
 
 **Art. 16, caput** {#art16_cpt} Para a ampliação das atividades contempladas na Licença de Operação vigente de empreendimentos de pequeno e médio porte, deverão ser apresentadas readequações e atualizações do Plano de Controle Ambiental - PCA que subsidiou o licenciamento ambiental do empreendimento, sendo que, no caso de ampliação da área de lavra ou a inclusão de novas frentes, estas deverão ser vistoriadas para análise de sua viabilidade ambiental;
 
 ###### Art. 17 {#art17}
-Tags: #publicacao-dioe #ampliacao #lo #car #mineracao #anuencia
 
 **Art. 17, caput** {#art17_cpt} Para ampliação das atividades, desde que a produção do empreendimento, incluindo a sua expansão, não implique na mudança da sua classificação para de grande porte, conforme estabelecido no [[#anexo1|Anexo I]], devem ser apresentados os seguintes documentos:
 
@@ -379,14 +362,12 @@ Tags: #publicacao-dioe #ampliacao #lo #car #mineracao #anuencia
 - **Art. 17, caput, inciso XIV** {#art17_cpt_inc14} Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos/projetos/laudos/relatórios apresentados nessa fase e dos responsáveis pela execução do empreendimento, junto aos respectivos conselhos de classe.
 
 ###### Art. 18 {#art18}
-Tags: #mineracao #lo #responsavel-tecnico
 
 **Art. 18, caput** {#art18_cpt} Ocorrendo a viabilidade ambiental e sendo atendidos os requisitos constantes do [[#art15|Art. 15]], deverá ser atualizada a Licença de Operação vigente, para o empreendimento como um todo, com a inclusão do(s) novo(os) direito(os) minerário(s), se for o caso, e as coordenadas planas no sistema de projeção UTM, DATUM SIRGAS 2000, das novas frentes de lavra licenciadas.
 
 ### Seção XII – DA LICENÇA AMBIENTAL DE OPERAÇÃO NOS CASOS DE CESSÃO PARCIAL DO DIREITO MINERÁRIO {#cap2_sec12}
 
 ###### Art. 19 {#art19}
-Tags: #mineracao #lo #publicacao-dioe #pca #licenciamento-ambiental #outorga
 
 **Art. 19, caput** {#art19_cpt} Nos casos de cessão parcial, junto à Agência Nacional de Mineração, do(s) direito(s) minerário(s) de empreendimentos já possuidores de Licença de Operação, será emitida uma nova Licença de Operação para a empresa cessionária.
 
@@ -404,19 +385,16 @@ Tags: #mineracao #lo #publicacao-dioe #pca #licenciamento-ambiental #outorga
 - **Art. 19, parágrafo único, inciso X** {#art19_par1u_inc10} Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos/projetos/laudos/relatórios apresentados nessa fase e dos responsáveis pela execução do empreendimento, junto aos respectivos conselhos de classe.
 
 ###### Art. 20 {#art20}
-Tags: #lo #pca
 
 **Art. 20, caput** {#art20_cpt} A Licença de Operação da empresa cedente permanecerá válida, devendo ser apresentada uma readequação do Plano de Controle Ambiental a ser analisada pelo órgão ambiental, desde que a frente de lavra cedida esteja contemplada na Licença de Operação vigente.
 
 ###### Art. 21 {#art21}
-Tags: #lo #mineracao
 
 **Art. 21, caput** {#art21_cpt} Caso a área objeto da cessão parcial do(s) direito(s) minerário(s) constitua-se em frente de lavra distinta daquela contemplada na Licença de Operação da cedente, deverá ser solicitada pela cessionária a Licença de Prévia para o empreendimento a ser licenciado, permanecendo válida a Licença de Operação da cedente até seu vencimento.
 
 ## CAPÍTULO III – DAS DISPOSIÇÕES GERAIS {#cap3}
 
 ###### Art. 22 {#art22}
-Tags: #mineracao #licenciamento-ambiental #outorga
 
 **Art. 22, caput** {#art22_cpt} Entre outras informações pertinentes, obrigatoriamente deverá constar em todas as modalidades de licenças a serem emitidas:
 
@@ -431,22 +409,18 @@ Tags: #mineracao #licenciamento-ambiental #outorga
 **Art. 23, caput** {#art23_cpt} No caso de alteração da razão social ou dos estatutos da empresa ou empreendimento, a regularização da titularidade deverá ser providenciada conforme normativos específicos;
 
 ###### Art. 24 {#art24}
-Tags: #mineracao #licenciamento-ambiental
 
 **Art. 24, caput** {#art24_cpt} No caso de dragagem de areia em rios de divisa de estados e estando as instalações do porto de areia localizada no estado vizinho, deverá ser emitido o licenciamento ambiental completo, específico para a extração do minério a ser realizada nos limites do estado do Paraná, atendendo às recomendações técnicas constantes do [[#anexo4|Anexo IV]];
 
 ###### Art. 25 {#art25}
-Tags: #las #licenciamento-ambiental #condicionante
 
 **Art. 25, caput** {#art25_cpt} Quando da emissão da Licença Ambiental Simplificada-LAS deverá constar claramente no corpo da licença e/ou nas condicionantes de licenciamento que a mesma autoriza a INSTALAÇÃO E OPERAÇÃO do empreendimento;
 
 ###### Art. 26 {#art26}
-Tags: #las #outorga #condicionante
 
 **Art. 26, caput** {#art26_cpt} Quando aplicável, de acordo com as características do empreendimento e com a [[resolucao-sema-3-2004|Resolução SEMA 003/2004]] ou outra que vier a substituí-la, deverá constar nos condicionantes da LAS a obrigatoriedade do empreendedor obter a Portaria de Outorga de Direito junto ao órgão competente, sob pena das sanções previstas na legislação aplicável.
 
 ###### Art. 27 {#art27}
-Tags: #mineracao #las #licenciamento-ambiental #validade
 
 **Art. 27, caput** {#art27_cpt} A Licença Ambiental Simplificado-LAS, para extração mineral através de Guia de Utilização, como previsto na Seção III, deixará de ter validade caso seja emitida, pela ANM, a Portaria de Lavra do empreendimento.
 
@@ -455,12 +429,10 @@ Tags: #mineracao #las #licenciamento-ambiental #validade
 **Art. 27, § 2º** {#art27_par2} A LAS especifica para a extração mineral através de Guia de Utilização, poderá ser emitida concomitantemente ao processo de solicitação de licenciamento ambiental completo para o empreendimento.
 
 ###### Art. 28 {#art28}
-Tags: #lp #condicionante
 
 **Art. 28, caput** {#art28_cpt} Quando da emissão da LP, deverá constar nas condicionantes que a mesma se limita às questões ambientais do empreendimento, devendo o empreendedor obter junto ao proprietário do imóvel a devida autorização para os fins pretendidos.
 
 ###### Art. 29 {#art29}
-Tags: #lp #supressao-vegetacao #responsavel-tecnico #unidade-conservacao #mineracao
 
 **Art. 29, caput** {#art29_cpt} Nos procedimentos de Licença Prévia-LP, quando necessária a supressão de vegetação, deverá obrigatoriamente ser solicitado apoio técnico para avaliação da tipologia florestal, visando análise integrada do licenciamento. A LP somente poderá ser emitida após manifestação sobre a tipologia florestal e sua viabilidade de supressão.
 
@@ -471,12 +443,10 @@ Tags: #lp #supressao-vegetacao #responsavel-tecnico #unidade-conservacao #minera
 **Art. 32, caput** {#art32_cpt} No caso da existência de cavidades naturais subterrâneas que possam ser afetadas pelo empreendimento, o empreendedor deverá apresentar ao órgão licenciador estudo espeleológico para sua classificação, de acordo com o seu grau de relevância, seguindo a metodologia definida na Instrução Normativa do Ministério do Meio Ambiente no 02/17 e [[decreto-federal-6640-2008|Decreto Federal no 6.640/08]];
 
 ###### Art. 33 {#art33}
-Tags: #lo #licenciamento-ambiental #ampliacao
 
 **Art. 33, caput** {#art33_cpt} No caso da Licença de Operação-LO para ampliação do empreendimento, estando as novas frentes de lavra incidindo em área de abrangência de Escritório Regional distinto daquele onde foi originalmente emitida a LO, a nova licença deverá ser emitida pelo Escritório Regional de origem do licenciamento ambiental;
 
 ###### Art. 34 {#art34}
-Tags: #iphan #licenciamento-ambiental
 
 **Art. 34, caput** {#art34_cpt} Quando aplicável, na análise dos procedimentos de licenciamento ambiental contemplados na presente Resolução, o órgão ambiental licenciador, poderá exigir:
 
@@ -486,7 +456,6 @@ Tags: #iphan #licenciamento-ambiental
 - **Art. 34, caput, inciso IV** {#art34_cpt_inc4} No caso de rios federais, manifestação a ser emitida pela Agencia Nacional de Águas-ANA com relação ao empreendimento, cabendo ao empreendedor a obtenção de tal manifestação;
 
 ###### Art. 35 {#art35}
-Tags: #condicionante
 
 **Art. 35, caput** {#art35_cpt} Quando da análise e deferimento do licenciamento deverão ser observadas as Recomendações Técnicas elencadas no [[#anexo4|Anexo IV]] da presente Resolução, as quais devem ser contempladas nas condicionantes da licença a ser emitida, de acordo com as características do empreendimento.
 
@@ -495,19 +464,16 @@ Tags: #condicionante
 **Art. 36, caput** {#art36_cpt} Para o pedido de Autorização Florestal, protocolado em procedimento próprio, deverá ser apresentado o Laudo Florestal, conforme Termo de Referência ([[#anexo10|Anexo X]]);
 
 ###### Art. 37 {#art37}
-Tags: #licenciamento-ambiental #condicionante
 
 **Art. 37, caput** {#art37_cpt} Quando o empreendimento utilizar tanque aéreo de combustíveis para abastecimento de veículos e máquinas, o mesmo deverá ser instalado de acordo com os padrões estabelecidos na NBR 17.505/2015 ou outra que vier a substituí-la, devendo tal exigência constar nas condicionantes do licenciamento.
 
 **Art. 37, parágrafo único** {#art37_par1u} Para os tanques aéreos com capacidade superior a 15.000 litros, ou subterrâneos, deverá ser requerido licenciamento ambiental de acordo com norma específica.
 
 ###### Art. 38 {#art38}
-Tags: #mineracao
 
 **Art. 38, caput** {#art38_cpt} Para aproveitamento de água mineral, potável de mesa, termal e de água para fins balneários, o empreendimento deverá ser licenciado em procedimento próprio de acordo com suas características (industrial, hoteleiro, lazer, comercial e de serviços, outros), não sendo objeto da presente Resolução;
 
 ###### Art. 39 {#art39}
-Tags: #mineracao
 
 **Art. 39, caput** {#art39_cpt} No caso da existência, no entorno do empreendimento minerário em licenciamento, de fontes de águas minerais ou potáveis de mesa, em fase de Concessão de Lavra junto à ANM, captadas através de poços ou fontes e nascentes naturais, estas, incluindo as suas áreas de proteção, deverão ser devidamente consideradas nos estudos a serem apresentados;
 
@@ -516,17 +482,14 @@ Tags: #mineracao
 **Art. 40, caput** {#art40_cpt} Os processos de beneficiamento que acarretem alterações de ordem química, resultantes da decomposição térmica ou mesmo de reações típicas geradas pela presença do calor, não serão contemplados por esta Resolução e deverão ser licenciados em procedimento industrial próprio;
 
 ###### Art. 41 {#art41}
-Tags: #licenciamento-ambiental #mineracao
 
 **Art. 41, caput** {#art41_cpt} Não será emitido licenciamento ambiental específico para a atividade de pesquisa mineral, devendo, no caso de abertura de acessos, remoção de cobertura florestal, movimentação de solo ou outras ações necessárias ao desenvolvimento dos trabalhos, ser motivo de licenciamento ambiental específico.
 
 ###### Art. 42 {#art42}
-Tags: #li
 
 **Art. 42, caput** {#art42_cpt} Nos casos da presença de ocupação consolidada no entorno da área do empreendimento que possa vir a ser impactada, a critério do órgão licenciador poderá ser solicitada a apresentação, na fase da Licença de Instalação, de uma Avaliação de Impacto de Vizinhança-AIV, conforme Termo de Referência ([[#anexo9|Anexo IX]]);
 
 ###### Art. 43 {#art43}
-Tags: #mineracao #encerramento
 
 **Art. 43, caput** {#art43_cpt} Quando do encerramento das atividades de extração mineral, seja por exaustão da jazida ou sua paralisação definitiva, deverá ser apresentado um Plano de Recuperação de Áreas Degradadas, conforme Termo de Referência apresentado ([[#anexo11|Anexo XI]]).
 
@@ -538,7 +501,6 @@ Tags: #mineracao #encerramento
 - **Art. 43, parágrafo único, inciso IV** {#art43_par1u_inc4} Outras alternativas de cunho ambiental aprovadas pelo órgão ambiental.
 
 ###### Art. 44 {#art44}
-Tags: #licenciamento-ambiental #responsavel-tecnico #definicao
 
 **Art. 44, caput** {#art44_cpt} Caso seja constatada e comprovada alguma irregularidade intencional do responsável técnico pela elaboração de um ou mais estudos técnicos previstos nesta Resolução, ou apresentar no procedimento de licenciamento, estudo, laudo ou relatório ambiental, total ou parcialmente falso ou enganoso, inclusive por omissão, denúncia será encaminhada ao respectivo Conselho de Classe para as devidas providências, sendo automaticamente suspenso o trâmite do procedimento de licenciamento ambiental até os devidos esclarecimentos, sem prejuízo das apurações de responsabilidade civil e criminal;
 
@@ -547,17 +509,14 @@ Tags: #licenciamento-ambiental #responsavel-tecnico #definicao
 **Art. 44, § 2º** {#art44_par2} As situações contempladas acima são passíveis de autuação e demais sanções, conforme [[lei-federal-9605-1998#art69|artigo 69-A da Lei 9.605, de 12 de fevereiro de 1998]].
 
 ###### Art. 45 {#art45}
-Tags: #publicacao-dioe
 
 **Art. 45, caput** {#art45_cpt} Esta Resolução se aplica aos procedimentos de licenciamento ambientais protocolados junto ao órgão licenciador a partir da data de sua publicação;
 
 ###### Art. 46 {#art46}
-Tags: #mineracao
 
 **Art. 46, caput** {#art46_cpt} Para conferência e complementação das informações apresentadas no procedimento de licenciamento, se julgado necessário, o técnico licenciador poderá acessar o site da Agência Nacional de Mineração, imprimir e anexar documentos, tais como fichas, mapas e formulários, pertinentes na análise da licença;
 
 ###### Art. 47 {#art47}
-Tags: #responsavel-tecnico
 
 **Art. 47, caput** {#art47_cpt} Para todas as modalidades de licenciamento abrangidas pela presente Resolução, deverá ser apresentado o Termo de Declaração de Responsabilidade, conforme modelo apresentado no [[#anexo12|Anexo XII]], devidamente assinado pelo requerente/empreendedor e responsável técnico;
 
@@ -566,7 +525,6 @@ Tags: #responsavel-tecnico
 **Art. 48, caput** {#art48_cpt} No [[#anexo13|Anexo XIII]] são apresentados os links da legislação referente a presente Resolução;
 
 ###### Art. 49 {#art49}
-Tags: #publicacao-dioe
 
 **Art. 49, caput** {#art49_cpt} Esta Resolução entrará em vigor na data de sua publicação, ficando revogados os artigos 115 a 121 da [[resolucao-sema-31-1998|Resolução SEMA 031, de 24 de agosto de 1998]], e a [[portaria-iap-290-2013|Portaria IAP 290, de 31 de outubro de 2013]].
 
@@ -582,67 +540,65 @@ Tags: #publicacao-dioe
 > Tipos conforme as regras de anexos do README. O PDF traz só a lista "ANEXOS: anexo230719_53127.pdf" e não o conteúdo dos anexos.
 
 ### ANEXO I {#anexo1}
-Tags: #anexo-pendente #porte
+Tags: #anexo-pendente
 
 Classificação dos empreendimentos minerários por porte (substância, produção e área), usada para o enquadramento do licenciamento. *(Tipo 3. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230719_53127.pdf`. Exigido em: [[#art11_cpt_inc10|Art. 11, inciso X]], [[#art11_cpt_inc11|Art. 11, inciso XI]], [[#art11_cpt_inc12|Art. 11, inciso XII]], [[#art15_cpt_inc1|Art. 15, inciso I]], [[#art17_cpt|Art. 17]].)*
 
 ### ANEXO II {#anexo2}
-Tags: #anexo-pendente #validade
+Tags: #anexo-pendente
 
 Prazos de validade das licenças e autorizações. *(Tipo 3. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230719_53127.pdf`. Exigido em: [[#art4_par1u|Art. 4º, parágrafo único]].)*
 
 ### ANEXO III {#anexo3}
-Tags: #certidao-municipal
 
 Modelo de certidão do município (conformidade do local e do tipo de empreendimento com a legislação municipal). *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art6_cpt_inc8|Art. 6º, inciso VIII]], [[#art7_cpt_inc7|Art. 7º, inciso VII]], [[#art8_cpt_inc7|Art. 8º, inciso VII]], [[#art11_cpt_inc6|Art. 11, inciso VI]].)*
 
 ### ANEXO IV {#anexo4}
-Tags: #anexo-pendente #condicionante
+Tags: #anexo-pendente
 
 Recomendações técnicas a serem contempladas nas condicionantes da licença (arts. 24 e 35), inclusive para dragagem de areia em rios de divisa. *(Tipo 3. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230719_53127.pdf`. Exigido em: [[#art24_cpt|Art. 24]], [[#art35_cpt|Art. 35]].)*
 
 ### ANEXO V {#anexo5}
-Tags: #anexo-pendente #termo-referencia
+Tags: #anexo-pendente
 
 Termo de Referência do Relatório de Atividades. *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230719_53127.pdf`. Exigido em: [[#art9_cpt_inc9|Art. 9º, inciso IX]], [[#art14_cpt_inc9|Art. 14, inciso IX]].)*
 
 ### ANEXO VI {#anexo6}
-Tags: #anexo-pendente #termo-referencia
+Tags: #anexo-pendente
 
 Termo de Referência do Relatório Ambiental Prévio – RAP. *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230719_53127.pdf`. Exigido em: [[#art11_cpt_inc11|Art. 11, inciso XI]], [[#art11_par1u|Art. 11, parágrafo único]].)*
 
 ### ANEXO VII {#anexo7}
-Tags: #anexo-pendente #termo-referencia
+Tags: #anexo-pendente
 
 Termo de Referência do Plano de Controle Ambiental Simplificado – PCAS. *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230719_53127.pdf`. Exigido em: [[#art6_cpt_inc12|Art. 6º, inciso XII]], [[#art7_cpt_inc12|Art. 7º, inciso XII]], [[#art8_cpt_inc12|Art. 8º, inciso XII]].)*
 
 ### ANEXO VIII {#anexo8}
-Tags: #anexo-pendente #termo-referencia
+Tags: #anexo-pendente
 
 Termo de Referência do Plano de Controle Ambiental – PCA. *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230719_53127.pdf`. Exigido em: [[#art12_cpt_inc12|Art. 12, inciso XII]], [[#art14_cpt_inc10|Art. 14, inciso X]], [[#art19_par1u_inc9|Art. 19, parágrafo único, inciso IX]].)*
 
 ### ANEXO IX {#anexo9}
-Tags: #anexo-pendente #termo-referencia
+Tags: #anexo-pendente
 
 Termo de Referência da Avaliação de Impacto de Vizinhança – AIV. *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230719_53127.pdf`. Exigido em: [[#art42_cpt|Art. 42]].)*
 
 ### ANEXO X {#anexo10}
-Tags: #anexo-pendente #termo-referencia
+Tags: #anexo-pendente
 
 Termo de Referência do Laudo Florestal. *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230719_53127.pdf`. Exigido em: [[#art36_cpt|Art. 36]].)*
 
 ### ANEXO XI {#anexo11}
-Tags: #anexo-pendente #termo-referencia
+Tags: #anexo-pendente
 
 Termo de Referência do Plano de Recuperação de Áreas Degradadas – PRAD. *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230719_53127.pdf`. Exigido em: [[#art43_cpt|Art. 43]].)*
 
 ### ANEXO XII {#anexo12}
-Tags: #termo-responsabilidade-solidaria
 
 Modelo de Termo de Declaração de Responsabilidade. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art47_cpt|Art. 47]].)*
 
 ### ANEXO XIII {#anexo13}
-Tags: #anexo-pendente #definicao
+Tags: #anexo-pendente
 
 Relação de links da legislação referente à Resolução (lista informativa, sem conteúdo normativo). *(Informativo. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230719_53127.pdf`. Exigido em: [[#art48_cpt|Art. 48]].)*
 

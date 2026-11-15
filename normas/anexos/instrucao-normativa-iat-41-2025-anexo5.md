@@ -19,7 +19,7 @@ fonte: PDF da IN IAT 41/2025, páginas 73 a 75
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo V, linha 1** {#anexo5_lin1} #art-anotacao O MCE deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica - ART, conforme as diretrizes listadas a seguir.
+- **Anexo V, linha 1** {#anexo5_lin1} O MCE deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica - ART, conforme as diretrizes listadas a seguir.
 - **Anexo V, linha 2** {#anexo5_lin2} 1. INFORMAÇÕES CADASTRAIS
 - **Anexo V, linha 3** {#anexo5_lin3} a) Razão social;
 - **Anexo V, linha 4** {#anexo5_lin4} b) Nome Fantasia;
@@ -30,50 +30,50 @@ fonte: PDF da IN IAT 41/2025, páginas 73 a 75
 - **Anexo V, linha 9** {#anexo5_lin9} g) E-mail.
 - **Anexo V, linha 10** {#anexo5_lin10} 2. CARACTERIZAÇÃO DA ÁREA
 - **Anexo V, linha 11** {#anexo5_lin11} a) Área onde será implantada a atividade (área total, área construída e área livre);
-- **Anexo V, linha 12** {#anexo5_lin12} #zoneamento b) Zoneamentos de acordo com as diretrizes municipais;
-- **Anexo V, linha 13** {#anexo5_lin13} #georreferenciamento c) Coordenadas Geográficas em *datum* SIRGAS 2000, projeção UTM;
+- **Anexo V, linha 12** {#anexo5_lin12} b) Zoneamentos de acordo com as diretrizes municipais;
+- **Anexo V, linha 13** {#anexo5_lin13} c) Coordenadas Geográficas em *datum* SIRGAS 2000, projeção UTM;
 - **Anexo V, linha 14** {#anexo5_lin14} d) Caracterização edafoclimática;
 - **Anexo V, linha 15** {#anexo5_lin15} e) Topografia;
-- **Anexo V, linha 16** {#anexo5_lin16} #recurso-hidrico f) Recursos Hídricos (nascentes, olhos d’água, cursos d’água, etc.);
-- **Anexo V, linha 17** {#anexo5_lin17} #geologia g) Geologia/hidrogeologia/geotecnia;
+- **Anexo V, linha 16** {#anexo5_lin16} f) Recursos Hídricos (nascentes, olhos d’água, cursos d’água, etc.);
+- **Anexo V, linha 17** {#anexo5_lin17} g) Geologia/hidrogeologia/geotecnia;
 - **Anexo V, linha 18** {#anexo5_lin18} h) Cobertura Vegetal;
 - **Anexo V, linha 19** {#anexo5_lin19} i) Acessos (alternativas, condições de tráfego);
-- **Anexo V, linha 20** {#anexo5_lin20} #uso-solo j) Características do entorno (uso do solo, residências, áreas de interesse ambiental, etc.).
+- **Anexo V, linha 20** {#anexo5_lin20} j) Características do entorno (uso do solo, residências, áreas de interesse ambiental, etc.).
 - **Anexo V, linha 21** {#anexo5_lin21} 3. CROQUI DE LOCALIZAÇÃO DO EMPREENDIMENTO COM IMAGEM AÉREA E CONTENDO NO MÍNIMO
-- **Anexo V, linha 22** {#anexo5_lin22} #corpo-hidrico a) Distância dos recursos hídricos (nascentes, olhos d’água, cursos d’água, etc.);
-- **Anexo V, linha 23** {#anexo5_lin23} #app b) Áreas de preservação permanente;
-- **Anexo V, linha 24** {#anexo5_lin24} #unidade-conservacao c) Unidades de Conservação Federais, Estaduais e Municipais;
+- **Anexo V, linha 22** {#anexo5_lin22} a) Distância dos recursos hídricos (nascentes, olhos d’água, cursos d’água, etc.);
+- **Anexo V, linha 23** {#anexo5_lin23} b) Áreas de preservação permanente;
+- **Anexo V, linha 24** {#anexo5_lin24} c) Unidades de Conservação Federais, Estaduais e Municipais;
 - **Anexo V, linha 25** {#anexo5_lin25} d) Cobertura florestal;
 - **Anexo V, linha 26** {#anexo5_lin26} e) Vias de acesso principais e pontos de referências;
 - **Anexo V, linha 27** {#anexo5_lin27} f) Planta de implantação sobreposta ao mapa.
 - **Anexo V, linha 28** {#anexo5_lin28} 4. CARACTERIZAÇÃO DAS OBRAS PREVISTAS
-- **Anexo V, linha 29** {#anexo5_lin29} #supressao-vegetacao #movimentacao-solo a) Descritivo das obras e intervenções previstas, tais como supressão de vegetação, intervenções em corpos hídricos, movimentação de terra, entre outros.
+- **Anexo V, linha 29** {#anexo5_lin29} a) Descritivo das obras e intervenções previstas, tais como supressão de vegetação, intervenções em corpos hídricos, movimentação de terra, entre outros.
 - **Anexo V, linha 30** {#anexo5_lin30} 5. CARACTERIZAÇÃO DA ATIVIDADE
-- **Anexo V, linha 31** {#anexo5_lin31} #compostagem a) Descritivo e fluxograma do processo;
-- **Anexo V, linha 32** {#anexo5_lin32} #compostagem b) Principais matérias primas e produtos a serem elaborados e quantitativo previsto (apresentar listagem preliminar dos resíduos a serem recebidos, conforme [[instrucao-normativa-iat-41-2025#anexo11|ANEXO XI]] desta Instrução Normativa;
+- **Anexo V, linha 31** {#anexo5_lin31} a) Descritivo e fluxograma do processo;
+- **Anexo V, linha 32** {#anexo5_lin32} b) Principais matérias primas e produtos a serem elaborados e quantitativo previsto (apresentar listagem preliminar dos resíduos a serem recebidos, conforme [[instrucao-normativa-iat-41-2025#anexo11|ANEXO XI]] desta Instrução Normativa;
 - **Anexo V, linha 33** {#anexo5_lin33} c) Relação completa dos produtos químicos manuseados em sua atividade e respectivas quantidades estocadas (inclusive em equipamentos de processo);
 - **Anexo V, linha 34** {#anexo5_lin34} d) Principais instalações e unidades de apoio, tais como pátio de estacionamento de veículos leves, pátio de estacionamento de veículos pesados, escritório administrativo, utilidades, etc.
 - **Anexo V, linha 35** {#anexo5_lin35} 6. ASPECTOS AMBIENTAIS
-- **Anexo V, linha 36** {#anexo5_lin36} #recurso-hidrico a) Recursos hídricos
+- **Anexo V, linha 36** {#anexo5_lin36} a) Recursos hídricos
 - **Anexo V, linha 37** {#anexo5_lin37} i. Balanço hídrico previsto de utilização de água indicando no mínimo:
 - **Anexo V, linha 38** {#anexo5_lin38} - Fontes de captação de água;
 - **Anexo V, linha 39** {#anexo5_lin39} - Vazões utilizadas em cada etapa do processo industrial, consumo humano, higienização de máquinas, equipamentos e instalações;
-- **Anexo V, linha 40** {#anexo5_lin40} #outorga-previa - Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.
-- **Anexo V, linha 41** {#anexo5_lin41} #efluente ii. Balanço hídrico previsto da geração de efluentes líquidos indicando no mínimo:
+- **Anexo V, linha 40** {#anexo5_lin40} - Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.
+- **Anexo V, linha 41** {#anexo5_lin41} ii. Balanço hídrico previsto da geração de efluentes líquidos indicando no mínimo:
 - **Anexo V, linha 42** {#anexo5_lin42} - Fontes de geração de efluentes líquidos (sanitário, processo industrial, lavagem de máquinas, equipamentos e instalações, entre outros);
 - **Anexo V, linha 43** {#anexo5_lin43} - Vazões previstas de cada fonte identificada;
-- **Anexo V, linha 44** {#anexo5_lin44} #tratamento-efluente - Proposta do sistema de tratamento previsto;
+- **Anexo V, linha 44** {#anexo5_lin44} - Proposta do sistema de tratamento previsto;
 - **Anexo V, linha 45** {#anexo5_lin45} - Destinação final dos efluentes gerados.
-- **Anexo V, linha 46** {#anexo5_lin46} #agua-pluvial iii. Drenagem pluvial
+- **Anexo V, linha 46** {#anexo5_lin46} iii. Drenagem pluvial
 - **Anexo V, linha 47** {#anexo5_lin47} - Área impermeabilizada e sistema de drenagem pluvial previsto, indicando as formas de tratamento e destinação final das águas incidentes nas áreas impermeabilizadas.
-- **Anexo V, linha 48** {#anexo5_lin48} #residuo-solido b) Resíduos Sólidos:
+- **Anexo V, linha 48** {#anexo5_lin48} b) Resíduos Sólidos:
 - **Anexo V, linha 49** {#anexo5_lin49} i. Estimativa da geração de resíduos sólidos indicando no mínimo:
 - **Anexo V, linha 50** {#anexo5_lin50} 1. Código IBAMA;
 - **Anexo V, linha 51** {#anexo5_lin51} 2. Resíduos Específico;
 - **Anexo V, linha 52** {#anexo5_lin52} 3. Origem do resíduo;
 - **Anexo V, linha 53** {#anexo5_lin53} 4. Quantificação diária estimada;
 - **Anexo V, linha 54** {#anexo5_lin54} 5. Tratamento e destinação final.
-- **Anexo V, linha 55** {#anexo5_lin55} #emissao-atmosferica c) Emissões atmosféricas e sistemas de controle.
+- **Anexo V, linha 55** {#anexo5_lin55} c) Emissões atmosféricas e sistemas de controle.
 - **Anexo V, linha 56** {#anexo5_lin56} i. Fontes de geração de emissões atmosféricas e sistemas de tratamento propostos;
 
 ## Síntese do conversor (não é texto normativo) {#sintese}

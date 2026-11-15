@@ -31,7 +31,6 @@ fonte: "Planalto (Presidência da República – Secretaria-Geral), impressão d
 **Preâmbulo** {#preambulo} O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, caput, incisos IV e VI, alínea “a”, da Constituição, e tendo em vista o disposto no Capítulo VI da [[lei-federal-9605-1998|Lei nº 9.605, de 12 de fevereiro de 1998]], na [[lei-federal-6938-1981|Lei nº 6.938, de 31 de agosto de 1981]], na [[lei-federal-8005-1990|Lei nº 8.005, de 22 de março de 1990]], na [[lei-federal-9784-1999|Lei nº 9.784, de 29 de janeiro de 1999]], e na [[lei-federal-9873-1999|Lei nº 9.873, de 23 de novembro de 1999]], DECRETA:
 
 ###### Art. 1º {#art1}
-Tags:
 
 **Art. 1º, caput** {#art1_cpt} O [[decreto-federal-6514-2008|Decreto nº 6.514, de 22 de julho de 2008]], passa a vigorar com as seguintes alterações:
 
@@ -359,7 +358,6 @@ Tags:
 > “Art. 149-A. O disposto no art. 11 aplica-se aos autos de infração lavrados a partir da entrada em vigor do Decreto nº 11.080, de 2022.” (NR)
 
 ###### Art. 2º {#art2}
-Tags:
 
 **Art. 2º, caput** {#art2_cpt} Ficam revogados:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} os seguintes dispositivos do [[decreto-federal-6514-2008|Decreto nº 6.514, de 2008]]:
@@ -413,7 +411,6 @@ Tags:
 - **Art. 2º, caput, inciso V** {#art2_cpt_inc5} o [[decreto-federal-10198-2020|Decreto nº 10.198, de 3 de janeiro de 2020]].
 
 ###### Art. 3º {#art3}
-Tags:
 
 **Art. 3º, caput** {#art3_cpt} Este Decreto entra em vigor na data de sua publicação.
 

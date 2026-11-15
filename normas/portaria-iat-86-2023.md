@@ -43,25 +43,21 @@ RESOLVE
 
 ###### Art. 1º {#art1}
 
-Tags: #unidade-conservacao #fiscalizacao
 
 **Art. 1º, caput** {#art1_cpt} Regulamentar o uso de equipamentos de aeromodelismo (drones e similares) em unidades de conservação estaduais, dos bens ambientais nestas incluídos e do seu patrimônio, bem como a elaboração de produtos, subprodutos e serviços obtidos ou desenvolvidos a partir dos recursos naturais, biológicos, cênicos, culturais ou da exploração da imagem de unidade de conservação.
 
 ###### Art. 2º {#art2}
 
-Tags: #unidade-conservacao #fiscalizacao #vegetacao-nativa
 
 **Art. 2º, caput** {#art2_cpt} Fica proibido o uso de equipamentos de aeromodelismo (drones e similares) em unidades de conservação estaduais, salvo em casos de autorização pela Diretoria do Patrimônio Natural para pesquisa científica, fiscalizações, monitoramento de incêndios florestais ou casos excepcionais, mediante cumprimento de todos os requisitos do Regulamento Brasileiro de Aviação Civil Especial – RBAC-E n°94, aprovada pela [[resolucao-anac-419-2017|Resolução ANAC nº 419, de 2 de maio de 2017]] e demais legislações pertinentes.
 
 ###### Art. 3º {#art3}
 
-Tags: #unidade-conservacao #fiscalizacao
 
 **Art. 3º, caput** {#art3_cpt} º O descumprimento das determinações contidas nesta Portaria poderá ensejar aos infratores as penalidades contidas no [[decreto-federal-6514-2008|Decreto Federal n° 6.514, de 22 de julho de 2008]] e demais normas pertinentes.
 
 ###### Art. 4º {#art4}
 
-Tags: #unidade-conservacao #fiscalizacao
 
 **Art. 4º, caput** {#art4_cpt} Esta Portaria entra em vigor na data de sua publicação.
 

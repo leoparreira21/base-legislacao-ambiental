@@ -19,7 +19,7 @@ fonte: PDF da IN IAT 41/2025, páginas 76 a 79
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo VI, linha 1** {#anexo6_lin1} #responsavel-legal 1. IDENTIFICAÇÃO DO EMPREENDEDOR
+- **Anexo VI, linha 1** {#anexo6_lin1} 1. IDENTIFICAÇÃO DO EMPREENDEDOR
 - **Anexo VI, linha 2** {#anexo6_lin2} • Nome do Responsável Legal
 - **Anexo VI, linha 3** {#anexo6_lin3} • Profissão do Responsável Legal;
 - **Anexo VI, linha 4** {#anexo6_lin4} • CPF do Responsável Legal;
@@ -37,26 +37,26 @@ fonte: PDF da IN IAT 41/2025, páginas 76 a 79
 - **Anexo VI, linha 16** {#anexo6_lin16} • Responsável legal.
 - **Anexo VI, linha 17** {#anexo6_lin17} 3. IDENTIFICAÇÃO E LOCALIZAÇÃO DO EMPREENDIMENTO
 - **Anexo VI, linha 18** {#anexo6_lin18} 3.1 Nome do empreendimento
-- **Anexo VI, linha 19** {#anexo6_lin19} #porte 3.2 Modalidade do empreendimento e porte
-- **Anexo VI, linha 20** {#anexo6_lin20} #mapa-situacao #georreferenciamento 3.3 Mapa de situação do empreendimento com imagem aérea atualizada, em *datum* SIRGAS 2000, projeção UTM e contendo, no mínimo:
-- **Anexo VI, linha 21** {#anexo6_lin21} #car a) Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural (em caso de imóvel rural);
-- **Anexo VI, linha 22** {#anexo6_lin22} #area-influencia b) Área Diretamente Afetada, Área de Influência Direta e Área de Influência Indireta;
+- **Anexo VI, linha 19** {#anexo6_lin19} 3.2 Modalidade do empreendimento e porte
+- **Anexo VI, linha 20** {#anexo6_lin20} 3.3 Mapa de situação do empreendimento com imagem aérea atualizada, em *datum* SIRGAS 2000, projeção UTM e contendo, no mínimo:
+- **Anexo VI, linha 21** {#anexo6_lin21} a) Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural (em caso de imóvel rural);
+- **Anexo VI, linha 22** {#anexo6_lin22} b) Área Diretamente Afetada, Área de Influência Direta e Área de Influência Indireta;
 - **Anexo VI, linha 23** {#anexo6_lin23} c) Estruturas físicas;
-- **Anexo VI, linha 24** {#anexo6_lin24} #corpo-hidrico d) Distância dos corpos hídricos;
-- **Anexo VI, linha 25** {#anexo6_lin25} #app e) Áreas de preservação permanente;
-- **Anexo VI, linha 26** {#anexo6_lin26} #reserva-legal f) Áreas de Reserva Legal e maciços florestais remanescentes;
+- **Anexo VI, linha 24** {#anexo6_lin24} d) Distância dos corpos hídricos;
+- **Anexo VI, linha 25** {#anexo6_lin25} e) Áreas de preservação permanente;
+- **Anexo VI, linha 26** {#anexo6_lin26} f) Áreas de Reserva Legal e maciços florestais remanescentes;
 - **Anexo VI, linha 27** {#anexo6_lin27} g) Vias de acesso principais;
 - **Anexo VI, linha 28** {#anexo6_lin28} h) Pontos de referências;
 - **Anexo VI, linha 29** {#anexo6_lin29} i) Arquivos vetoriais (formato *.kml/.kmz*) dos componentes exigidos nas alíneas anteriores.
 - **Anexo VI, linha 30** {#anexo6_lin30} 3.4 Relatório fotográfico contendo no mínimo 10 fotografias da área do empreendimento, com vários ângulos do terreno e respectiva localização, em planta, com suas respectivas coordenadas geográficas, do local onde foram tiradas (apresentar o sistema de projeção das coordenadas geográficas).
-- **Anexo VI, linha 31** {#anexo6_lin31} #area-contaminada 3.5 Informação relativa ao histórico de uso do imóvel com enfoque na identificação de atividades potencialmente geradoras de áreas contaminadas.
-- **Anexo VI, linha 32** {#anexo6_lin32} #impacto-ambiental 4. IDENTIFICAÇÃO PRELIMINAR DOS IMPACTOS DECORRENTES DO EMPREENDIMENTO
+- **Anexo VI, linha 31** {#anexo6_lin31} 3.5 Informação relativa ao histórico de uso do imóvel com enfoque na identificação de atividades potencialmente geradoras de áreas contaminadas.
+- **Anexo VI, linha 32** {#anexo6_lin32} 4. IDENTIFICAÇÃO PRELIMINAR DOS IMPACTOS DECORRENTES DO EMPREENDIMENTO
 - **Anexo VI, linha 33** {#anexo6_lin33} 3.1 MATÉRIAS-PRIMAS
-- **Anexo VI, linha 34** {#anexo6_lin34} #compostagem Apresentar listagem preliminar e quantificação das matérias-primas utilizadas no processo de compostagem de acordo com a codificação da Lista Brasileira de Resíduos Sólidos ([[instrucao-normativa-ibama-13-2012|IN IBAMA nº 13/2012]]) e presentes no [[instrucao-normativa-iat-41-2025#anexo11|ANEXO XI]] desta Instrução Normativa.
+- **Anexo VI, linha 34** {#anexo6_lin34} Apresentar listagem preliminar e quantificação das matérias-primas utilizadas no processo de compostagem de acordo com a codificação da Lista Brasileira de Resíduos Sólidos ([[instrucao-normativa-ibama-13-2012|IN IBAMA nº 13/2012]]) e presentes no [[instrucao-normativa-iat-41-2025#anexo11|ANEXO XI]] desta Instrução Normativa.
 - **Anexo VI, linha 35** {#anexo6_lin35} 3.2 EMISSÕES ATMOSFÉRICAS
-- **Anexo VI, linha 36** {#anexo6_lin36} #emissao-atmosferica #qualidade-ar • Projeção de impactos relacionados à qualidade do ar, com descritivo das possíveis fontes geradoras e suas características de funcionamento (potência nominal, horas de funcionamento, localização prevista, etc.)
+- **Anexo VI, linha 36** {#anexo6_lin36} • Projeção de impactos relacionados à qualidade do ar, com descritivo das possíveis fontes geradoras e suas características de funcionamento (potência nominal, horas de funcionamento, localização prevista, etc.)
 - **Anexo VI, linha 37** {#anexo6_lin37} 3.3 GERAÇÃO DE RESÍDUOS SÓLIDOS
-- **Anexo VI, linha 38** {#anexo6_lin38} #residuo-solido • Previsão de geração de resíduos sólidos, informando, minimamente:
+- **Anexo VI, linha 38** {#anexo6_lin38} • Previsão de geração de resíduos sólidos, informando, minimamente:
 - **Anexo VI, linha 39** {#anexo6_lin39} o Código IBAMA;
 - **Anexo VI, linha 40** {#anexo6_lin40} o Resíduo Específico;
 - **Anexo VI, linha 41** {#anexo6_lin41} o Local de Geração;
@@ -65,20 +65,20 @@ fonte: PDF da IN IAT 41/2025, páginas 76 a 79
 - **Anexo VI, linha 44** {#anexo6_lin44} o Tratamento (Se houver);
 - **Anexo VI, linha 45** {#anexo6_lin45} o Destinação
 - **Anexo VI, linha 46** {#anexo6_lin46} 3.4 IMPACTO NO TERRENO
-- **Anexo VI, linha 47** {#anexo6_lin47} #terraplanagem • Projeto básico de terraplenagem, se houver movimentação de solo;
+- **Anexo VI, linha 47** {#anexo6_lin47} • Projeto básico de terraplenagem, se houver movimentação de solo;
 - **Anexo VI, linha 48** {#anexo6_lin48} • Layout preliminar do empreendimento, inclusive com disponibilização de informações dos arquivos vetoriais;
 - **Anexo VI, linha 49** {#anexo6_lin49} • Informações referentes à topografia do local de implantação do empreendimento;
 - **Anexo VI, linha 50** {#anexo6_lin50} • Alterações paisagísticas gerais do empreendimento.
 - **Anexo VI, linha 51** {#anexo6_lin51} 3.5 IMPACTO EM CURSOS HÍDRICOS
-- **Anexo VI, linha 52** {#anexo6_lin52} #outorga #outorga-previa • Informação a respeito de captação de água subterrânea ou superficial, com vazão estimada e a respectiva outorga prévia ou declaração de uso independente;
-- **Anexo VI, linha 53** {#anexo6_lin53} #outorga #outorga-previa #efluente • Informação a respeito de lançamento de efluente em corpos hídricos, com vazão estimada e respectiva outorga prévia ou declaração de uso independente;
+- **Anexo VI, linha 52** {#anexo6_lin52} • Informação a respeito de captação de água subterrânea ou superficial, com vazão estimada e a respectiva outorga prévia ou declaração de uso independente;
+- **Anexo VI, linha 53** {#anexo6_lin53} • Informação a respeito de lançamento de efluente em corpos hídricos, com vazão estimada e respectiva outorga prévia ou declaração de uso independente;
 - **Anexo VI, linha 54** {#anexo6_lin54} • Citar possíveis fontes de contaminação ou alteração da qualidade da água resultante do processo do empreendimento.
 - **Anexo VI, linha 55** {#anexo6_lin55} 3.6 IMPACTO EM FLORA E FAUNA
-- **Anexo VI, linha 56** {#anexo6_lin56} #flora • Laudo Florestal para caracterização de flora conforme [[resolucao-conama-2-1994|Resolução CONAMA nº 02, de 18 de março de 1994]] para o Bioma Mata Atlântica. Se for área localizada em Bioma Cerrado, apresentar caracterização da vegetação existente;
-- **Anexo VI, linha 57** {#anexo6_lin57} #supressao-vegetacao #especie-ameacada • Se necessitar de supressão vegetal, apresentar estimativa de volume de lenha, torete e tora (em m³), além da caracterização quanto a presença de espécies ameaçadas de acordo com a Lista Vermelha, *Red List* da IUCN e Lista CITES;
-- **Anexo VI, linha 58** {#anexo6_lin58} #fauna • Levantamento de fauna em conformidade à [[portaria-iat-12-2024|Portaria IAT nº 012, de 10 de janeiro de 2024]] ou outra que venha a substituí-la.
+- **Anexo VI, linha 56** {#anexo6_lin56} • Laudo Florestal para caracterização de flora conforme [[resolucao-conama-2-1994|Resolução CONAMA nº 02, de 18 de março de 1994]] para o Bioma Mata Atlântica. Se for área localizada em Bioma Cerrado, apresentar caracterização da vegetação existente;
+- **Anexo VI, linha 57** {#anexo6_lin57} • Se necessitar de supressão vegetal, apresentar estimativa de volume de lenha, torete e tora (em m³), além da caracterização quanto a presença de espécies ameaçadas de acordo com a Lista Vermelha, *Red List* da IUCN e Lista CITES;
+- **Anexo VI, linha 58** {#anexo6_lin58} • Levantamento de fauna em conformidade à [[portaria-iat-12-2024|Portaria IAT nº 012, de 10 de janeiro de 2024]] ou outra que venha a substituí-la.
 - **Anexo VI, linha 59** {#anexo6_lin59} 3.7 IMPACTO NA GERAÇÃO DE RUÍDO
-- **Anexo VI, linha 60** {#anexo6_lin60} #poluicao-sonora • Levantamento preliminar dos impactos à poluição sonora, informando as principais fontes de emissão e fontes receptoras e modelagem acústica conforme ISO 9613.
+- **Anexo VI, linha 60** {#anexo6_lin60} • Levantamento preliminar dos impactos à poluição sonora, informando as principais fontes de emissão e fontes receptoras e modelagem acústica conforme ISO 9613.
 - **Anexo VI, linha 61** {#anexo6_lin61} 3.8 IMPACTO SOCIOECONÔMICO
 - **Anexo VI, linha 62** {#anexo6_lin62} Estudos do meio socioeconômico da região onde o lote encontra-se localizado, abrangendo os seguintes pontos de vistas e seus respectivos conteúdos:
 - **Anexo VI, linha 63** {#anexo6_lin63} − Condições sociais e econômicas da população;
@@ -88,7 +88,7 @@ fonte: PDF da IN IAT 41/2025, páginas 76 a 79
 - **Anexo VI, linha 67** {#anexo6_lin67} − Sistema viário e de transporte;
 - **Anexo VI, linha 68** {#anexo6_lin68} − Uso e ocupação do solo no entorno.
 - **Anexo VI, linha 69** {#anexo6_lin69} 5. IDENTIFICAÇÃO E ANÁLISE DOS IMPACTOS AMBIENTAIS
-- **Anexo VI, linha 70** {#anexo6_lin70} #impacto-ambiental Elaboração de matriz de Levantamento de Aspectos e Impactos Ambientais, contemplando os seguintes parâmetros:
+- **Anexo VI, linha 70** {#anexo6_lin70} Elaboração de matriz de Levantamento de Aspectos e Impactos Ambientais, contemplando os seguintes parâmetros:
 - **Anexo VI, linha 71** {#anexo6_lin71} o Fonte geradora;
 - **Anexo VI, linha 72** {#anexo6_lin72} o Severidade;
 - **Anexo VI, linha 73** {#anexo6_lin73} o Probabilidade;
@@ -103,7 +103,7 @@ fonte: PDF da IN IAT 41/2025, páginas 76 a 79
 - **Anexo VI, linha 82** {#anexo6_lin82} 6. CONCLUSÕES
 - **Anexo VI, linha 83** {#anexo6_lin83} Apresentar as conclusões do Relatório Ambiental Preliminar (RAP), com base nos resultados obtidos na avaliação dos impactos ambientais, devendo esclarecer, sob o aspecto ambiental, a viabilidade ou não do empreendimento.
 - **Anexo VI, linha 84** {#anexo6_lin84} 7. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA
-- **Anexo VI, linha 85** {#anexo6_lin85} #art-anotacao Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos/projetos/laudos/relatórios apresentados, junto aos respectivos conselhos de classe.
+- **Anexo VI, linha 85** {#anexo6_lin85} Anotação de Responsabilidade Técnica dos profissionais elaboradores dos estudos/projetos/laudos/relatórios apresentados, junto aos respectivos conselhos de classe.
 - **Anexo VI, linha 86** {#anexo6_lin86} 8. REFERÊNCIAS BIBLIOGRÁFICAS
 - **Anexo VI, linha 87** {#anexo6_lin87} Citar as referências consultadas, incluindo as páginas eletrônicas com data e hora do acesso, segundo as normas de publicação de trabalhos científicos da Associação Brasileira de Normas Técnicas – ABNT.
 

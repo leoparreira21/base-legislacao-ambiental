@@ -52,14 +52,12 @@ Considerando a [[resolucao-conjunta-ibama-sema-iap-7-2008|Resolução Conjunta I
 RESOLVE
 
 ###### Art. 1º {#art1}
-Tags: #area-inculta #eia-rima #especies-exoticas #licenciamento-ambiental #plantio-florestal
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer critérios para de exigência de Estudo de Impacto Ambiental (EIA) e Relatório de Impacto Ambiental (RIMA) nos licenciamentos ambientais de projetos agropecuários e plantios florestais de espécies exóticas que contemplem áreas incultas, menores de 1.000 hectares, quando significativas em termos percentuais, ou forem consideradas como prioritárias para a conservação, legalmente instituídas, inclusive nas Áreas de Proteção Ambiental.
 
 **Art. 1º, parágrafo único** {#art1_par_unico} Para fins desta Portaria, entendem-se por áreas incultas aquelas desprovidas de vegetação, ou em que a vegetação se encontre em estágio inicial de regeneração.
 
 ###### Art. 2º {#art2}
-Tags: #area-inculta #area-prioritaria #eia-rima #especies-exoticas #plantio-florestal #supressao-vegetacao #unidade-conservacao #zona-amortecimento
 
 **Art. 2º, caput** {#art2_cpt} Dependerá da apresentação de Estudo de Impacto Ambiental (EIA) e Relatório de Impacto Ambiental (RIMA), projetos agropecuários e plantios florestais de espécies exóticas a serem executados em áreas incultas, menores de 1.000 hectares, quando:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} Incidirem em Área de Proteção Ambiental (APA), cuja área a ser utilizada for superior a 500 hectares;
@@ -69,19 +67,16 @@ Tags: #area-inculta #area-prioritaria #eia-rima #especies-exoticas #plantio-flor
 - **Art. 2º, caput, inciso V** {#art2_cpt_inc5} Incidirem em área superior a 300 hectares inseridos em zona de amortecimento de Unidades de Conservação de Proteção Integral.
 
 ###### Art. 3º {#art3}
-Tags: #anuencia #plantio-florestal #unidade-conservacao
 
 **Art. 3º, caput** {#art3_cpt} Quando se tratar de Áreas de Proteção Ambiental (APA), o plantio deverá obedecer aos critérios técnicos estabelecidos no Plano de Manejo, ouvido o responsável pela Unidade de Conservação.
 
 **Art. 3º, parágrafo único** {#art3_par_unico} No caso da inexistência de Plano de Manejo elaborado e aprovado, a diretoria responsável pela sua administração deverá anuir, expressamente, e orientar as ações necessárias para sua proteção.
 
 ###### Art. 4º {#art4}
-Tags: #anuencia #licenciamento-ambiental #plantio-florestal #unidade-conservacao #zona-amortecimento
 
 **Art. 4º, caput** {#art4_cpt} Quando a área objeto do licenciamento estiver inserida em Zonas de Amortecimento das Unidades de Conservação de Proteção Integral, o licenciamento para o plantio dependerá da anuência prévia do Gestor da Unidade de Conservação.
 
 ###### Art. 5º {#art5}
-Tags: #area-inculta #eia-rima #licenciamento-ambiental
 
 **Art. 5º, caput** {#art5_cpt} A exigência de Estudo de Impacto Ambiental (EIA) e Relatório de Impacto Ambiental (RIMA) para o licenciamento ambiental dos projetos especificados no [[#art1|Art. 1º]] aplicam-se apenas aos novos projetos agropecuários apresentados, referentes às áreas incultas, não se referindo às áreas já plantadas.
 
@@ -90,7 +85,6 @@ Tags: #area-inculta #eia-rima #licenciamento-ambiental
 **Art. 6º, caput** {#art6_cpt} Fica revogada a Portaria IAP nº 65, de 23 de fevereiro de 2021.
 
 ###### Art. 7º {#art7}
-Tags: #vigencia
 
 **Art. 7º, caput** {#art7_cpt} Esta Instrução Normativa entrará em vigor na data da sua publicação.
 

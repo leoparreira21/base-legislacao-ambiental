@@ -45,14 +45,12 @@ fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé tra
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #ecotoxicidade #efluente-liquido
 
 **Art. 1º, caput** {#art1_cpt} Fixar critérios e padrões de emissão relativos a ecotoxicidade de efluentes líquidos para as fontes geradoras que lancem seus efluentes em águas doces, salinas e salobras no estado do Paraná, para fins de licenciamento e automonitoramento exigido pelo órgão ambiental competente e Instituto das Águas do Paraná na outorga e cobrança sobre o lançamento de efluentes.
 
 ### CAPÍTULO I – – Das definições
 
 ###### Art. 2º {#art2}
-Tags: #definicao #ecotoxicidade
 
 **Art. 2º, caput** {#art2_cpt} Para os efeitos desta Resolução são adotadas as seguintes definições: I águas doces: águas com salinidade igual ou inferior a 0,5 %; II águas salobras: águas com salinidade superior a 0,5 % e inferior a 30 %; III águas salinas: águas com salinidade igual ou superior a 30 %; IV ambiente lêntico: ambiente que se refere à água parada, com movimento lento ou estagnado; V Amostra composta: volume do efluente líquido composto pelas alíquotas coletadas, com volume definido em função dos critérios específicos de cada teste a ser realizado. VI Amostra simples: volume de efluente líquido coletado ao acaso, num determinado instante, também chamada de amostra instantânea. VII Automonitoramento: consiste no controle e acompanhamento periódico, por parte da atividade poluidora, dos sistemas de tratamento de efluentes líquidos em operação, por meio de coleta, medição e análise do efluente final VIII Concentração do Efluente no Corpo Receptor (CECR), expressa em porcentagem:
 - **Art. 2º, caput, alínea "a"** {#art2_cpt_alia} Para corpos receptores confinados por calhas (rio, córregos, etc.): Concentração do Efluente no Corpo Receptor (CECR) = [(vazão máxima do efluente / (vazão máxima de lançamento do efluente + vazão mínima de referência do corpo receptor)] x 100.
@@ -62,7 +60,6 @@ Tags: #definicao #ecotoxicidade
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} Disposições gerais
 
 ###### Art. 3º {#art3}
-Tags: #ecotoxicidade #tipologia #efluente-liquido
 
 **Art. 3º, caput** {#art3_cpt} As tipologias de efluentes para as quais são exigidas a avaliação ecotoxicológica, bem como organismos para os testes ecotoxicológicos estão listados nos Anexos I e II.
 
@@ -75,7 +72,6 @@ Tags: #ecotoxicidade #tipologia #efluente-liquido
 **Art. 3º, § 4º** {#art3_par4} Os organismos para os testes ecotoxicológicos deverão pertencer a níveis tróficos diferentes e escolhidos dentre aqueles listados nos Anexos I e II.
 
 ###### Art. 4º {#art4}
-Tags: #ecotoxicidade #meta
 
 **Art. 4º, caput** {#art4_cpt} As atividades licenciadas deverão atender às metas progressivas de redução da ecotoxicidade aguda com melhoria da qualidade, resguardado o atendimento ao Artigo 3º.
 
@@ -88,30 +84,25 @@ Tags: #ecotoxicidade #meta
 **Art. 4º, § 4º** {#art4_par4} Para efluentes de estações de tratamento de esgoto sanitário (ETE’s), os limites serão estabelecidos conforme o [[#art9|artigo 9º]].
 
 ###### Art. 5º {#art5}
-Tags: #ecotoxicidade #prazo
 
 **Art. 5º, caput** {#art5_cpt} Atividades novas ou em ampliação, durante o período pré-operacional, o prazo máximo para atendimento dos padrões definidos nesta Resolução será estabelecido pelo órgão competente, com a finalidade de atender o disposto nos artigos 3º e 4º.
 
 ###### Art. 6º {#art6}
-Tags: #ecotoxicidade #amostragem
 
 **Art. 6º, caput** {#art6_cpt} Os padrões de emissão estabelecidos na presente Resolução, aplicam-se nas amostras simples e compostas.
 
 ###### Art. 7º {#art7}
-Tags: #ecotoxicidade #orgao-gestor
 
 **Art. 7º, caput** {#art7_cpt} O órgão gestor ambiental, informando ao órgão gestor de recursos hídricos, poderá por meio da emissão de parecer técnico circunstanciado, fixar padrões de emissão e prazos mais ou menos restritivos, registrado no ato de licenciamento ambiental.
 
 **Art. 7º, § 1º** {#art7_par1} Após o reconhecimento dos efeitos tóxicos do efluente sobre os organismos descritos nesta norma, o órgão ambiental competente, a seu critério, ou mediante solicitação, poderá reavaliar a necessidade de manter todos os organismos, escolhendo o (s) organismo (s) mais sensível (is) para a continuidade do automonitoramento.
 
 ###### Art. 8º {#art8}
-Tags: #ecotoxicidade #efluente-liquido
 
 **Art. 8º, caput** {#art8_cpt} Na hipótese de fonte de poluição geradora com diferentes efluentes ou lançamentos individualizados, os limites constantes desta Resolução aplicar-se-ão a cada um deles.
 - **Art. 8º, caput, inciso II** {#art8_cpt_inc2} Das estações de tratamento de esgoto sanitário
 
 ###### Art. 9º {#art9}
-Tags: #ecotoxicidade #estacao-de-tratamento
 
 **Art. 9º, caput** {#art9_cpt} Os efeitos ecotoxicológicos dos efluentes das Estações de Tratamento de Esgotos Sanitários serão avaliados durante um período mínimo de 2 anos, para posterior definição dos padrões e limites máximos de ecotoxicidade, por meio de norma complementar.
 
@@ -121,26 +112,22 @@ Tags: #ecotoxicidade #estacao-de-tratamento
 - **Art. 9º, § 2º, inciso III** {#art9_par2_inc3} Dos corpos hídricos
 
 ###### Art. 10 {#art10}
-Tags: #ecotoxicidade #agua-doce #padrao-de-emissao
 
 **Art. 10, caput** {#art10_cpt} Para os efluentes lançados em corpos receptores de água doce enquadrados nas classes 1 ou 2 e nas águas salinas ou salobras Classe 1, a concentração do efluente no corpo receptor (CECR) deve ser menor ou igual à concentração que não cause efeito crônico aos organismos aquáticos de pelo menos dois níveis tróficos, seguindo uma das opções descritas nas alíneas abaixo:
 - **Art. 10, caput, alínea "a"** {#art10_cpt_alia} A concentração do efluente no corpo receptor (CECR) deve ser menor ou igual a Concentração de Efeito Não Observado (CENO), quando for realizado teste ecotoxicológico para medir efeito tóxico crônico no efluente.
 - **Art. 10, caput, alínea "b"** {#art10_cpt_alib} A concentração do efluente no corpo receptor (CECR) deve ser menor igual a 30 divididos pelo FT do efluente, quando for realizado teste ecotoxicológico para medir efeito tóxico agudo.
 
 ###### Art. 11 {#art11}
-Tags: #ecotoxicidade #agua-salobra #padrao-de-emissao
 
 **Art. 11, caput** {#art11_cpt} Para os efluentes lançados em corpos receptores de águas doces Classe 3 ou 4 e salinas ou salobras Classe 2 e 3, a concentração do efluente no corpo receptor (CECR) deve ser menor ou igual à concentração que não cause efeito agudo aos organismos aquáticos de pelo menos dois níveis tróficos, seguindo a opção descrita na alínea a.
 - **Art. 11, caput, alínea "a"** {#art11_cpt_alia} A concentração do efluente no corpo receptor (CECR) deve ser menor ou igual a 100, dividido pelo Fator de Toxicidade (FT).
 - **Art. 11, caput, alínea "b"** {#art11_cpt_alib} Para as águas marinhas e estuarinas e ambientes lêntico, a concentração do efluente no corpo receptor (CECR) deve ser estabelecida com base em estudo da dispersão física do efluente, sendo limitada pela zona de mistura definida pelo órgão ambiental no licenciamento ambiental.
 
 ###### Art. 12 {#art12}
-Tags: #ecotoxicidade #vazao-de-referencia
 
 **Art. 12, caput** {#art12_cpt} Para cálculo da concentração do efluente no corpo receptor (CECR) a vazão de referência do corpo receptor será aquela definida pelo órgão gestor de recursos hídricos na outorga de lançamento.
 
 ###### Art. 13 {#art13}
-Tags: #ecotoxicidade #corpo-receptor
 
 **Art. 13, caput** {#art13_cpt} Para avaliação da concentração do efluente no corpo receptor (CECR), o órgão ambiental competente poderá solicitar testes de ecotoxicidade do corpo receptor, a montante e jusante em cursos de água e na área de influência para ambientes marinhos, estuarinos e lênticos, desde que o despejo seja direto.
 
@@ -149,29 +136,24 @@ Tags: #ecotoxicidade #corpo-receptor
 **Art. 13, § 2º** {#art13_par2} Também são considerados estudos ecotoxicológicos, nos corpos hídricos, o monitoramento ou automonitoramento ambiental por meio da avaliação de organismos bioindicadores para os quais existam metodologias padronizadas.
 
 ###### Art. 14 {#art14}
-Tags: #ecotoxicidade
 
 **Art. 14, caput** {#art14_cpt} Em corpos hídricos de baixa vazão, onde a concentração do efluente no corpo receptor (CECR) calculada preconize o lançamento de efluentes com ausência de ecotoxicidade (FT=1), poderá ser permitido o lançamento com até FT=2, por no máximo dois anos a partir da data do licenciamento ambiental, para adequação.
 
 ###### Art. 15 {#art15}
-Tags: #ecotoxicidade #porte
 
 **Art. 15, caput** {#art15_cpt} As atividades licenciadas que possuam características de: pequeno porte, geração de baixos volumes de efluente e que possuam baixo potencial de impacto nos corpos hídricos, poderão ser isentas do controle da ecotoxicidade mediante parecer técnico fundamentado, aprovado e publicado pelo órgão competente.
 
 ###### Art. 16 {#art16}
-Tags: #ecotoxicidade #estacao-de-tratamento
 
 **Art. 16, caput** {#art16_cpt} Para Estações de Tratamento de esgotos sanitários (ETE’s.), os efeitos ecotoxicológicos no corpo hídrico serão avaliados conforme o [[#art9|artigo 9º]].
 
 ### CAPÍTULO III – – DA QUALIDADE LABORATORIAL
 
 ###### Art. 17 {#art17}
-Tags: #laboratorio #acreditacao
 
 **Art. 17, caput** {#art17_cpt} Os testes de ecotoxicidade deverão ser realizados por laboratório com ensaios acreditados pelo INMETRO ou em laboratórios com ensaios qualificados ou cadastrado e aceitos pelo órgão ambiental e de recursos hídricos no prazo de 4 anos.
 
 ###### Art. 18 {#art18}
-Tags: #ecotoxicidade #norma-tecnica
 
 **Art. 18, caput** {#art18_cpt} Os testes laboratoriais para a avaliação da ecotoxicidade devem ser realizados de acordo com a normalização da Associação Brasileira de Normas Técnicas, com o resultado expresso em Fator de Toxicidade - FT para testes agudos, Concentração de Efeito Não observado – CENO e Concentração de Efeito Observado – CEO para testes crônicos.
 
@@ -180,22 +162,18 @@ Tags: #ecotoxicidade #norma-tecnica
 ### CAPÍTULO IV – – DISPOSIÇÕES FINAIS
 
 ###### Art. 19 {#art19}
-Tags: #revisao
 
 **Art. 19, caput** {#art19_cpt} Esta Resolução deverá ser revista pelo Conselho Estadual do Meio Ambiente em seu 4º ano de publicação para aperfeiçoamento dos instrumentos.
 
 ###### Art. 20 {#art20}
-Tags: #ecotoxicidade #substituicao
 
 **Art. 20, caput** {#art20_cpt} Os critérios ecotoxicológicos dessa resolução substituem os limites de ecotoxicidade descritos nos itens 1 a 13 na Tabela 1 do Anexo 7 na [[resolucao-cema-70-2009|Resolução CEMA 070/2009]], e a Resolução CEMA 072 de 22 de outubro de 2009 e os itens 8 e 9 da Instrução Normativa IAP/DIRAM n° 002/2006.
 
 ###### Art. 21 {#art21}
-Tags: #ecotoxicidade #dado-ambiental
 
 **Art. 21, caput** {#art21_cpt} O órgão ambiental e de recursos hídricos deverão armazenar e tratar os dados das informações ecotoxicológicas, geradas a partir dessa Resolução, nas unidades hidrográficas do estado do Paraná, de forma a proporcionar a utilização dos mesmos como um dos suportes nas ações de gestão ambiental.
 
 ###### Art. 22 {#art22}
-Tags: #vigencia #revogacao
 
 **Art. 22, caput** {#art22_cpt} Revogam-se as disposições em contrário sendo que esta Resolução entrará em vigor a partir da data de sua publicação.
 

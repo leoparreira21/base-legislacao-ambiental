@@ -46,14 +46,12 @@ CONSIDERANDO:
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #aproveitamento-hidreletrico #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer definições, critérios, diretrizes e procedimentos para o licenciamento ambiental de empreendimentos de geração de energia elétrica a partir do aproveitamento de potencial hidráulico no Estado do Paraná.
 
 ## CAPÍTULO I – DAS DEFINIÇÕES {#cap1}
 
 ###### Art. 2º {#art2}
-Tags: #aproveitamento-hidreletrico #eia-rima #licenciamento-ambiental #lp #pca #definicao
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução consideram-se as seguintes definições: a. Audiência Pública - Procedimento promovido pelo órgão ambiental competente, às expensas do empreendedor, que tem por finalidade expor à comunidade atingida pela obra ou atividade e aos interessados, o conteúdo do estudo ambiental em análise e seu respectivo relatório de impactos ambiental, dirimindo dúvidas e recolhendo dos presentes as críticas e sugestões a respeito; b. CGH - Central Geradora Hidrelétrica - unidade geradora de energia elétrica a partir de potencial hidráulico cuja potência instalada seja superior a 500 kW (quinhentos quilowatts) e de até 5 MW (cinco megawatts); c. Comprovação de dominialidade: documentação necessária para comprovação de desapropriações e servidões administrativas. Casos judiciais: imissão provisória na posse e/ou sentença judicial Casos extrajudiciais: contratos entre particulares e escrituras públicas, devidamente registrados nos cartórios competentes; d. Consulta Prévia de Viabilidade: Documento que tem por finalidade dar ciência ao empreendedor quanto aos possíveis impeditivos ou intervenientes em relação ao licenciamento ambiental de um determinado empreendimento hidrelétrico; e. Estudo Ambiental – são trabalhos técnicos elaborados por profissionais habilitados, tendo por objetivo a caracterização de um determinado ambiente, a previsão de impactos ambientais resultantes da implantação ou alteração de um determinado empreendimento, bem como o estabelecimento de medidas mitigadoras, potencializadoras ou compensatórias dos impactos identificados; f. EIA – Estudo de Impacto Ambiental - é o instrumento de avaliação dos impactos ambientais decorrentes da implantação de atividades modificadoras do meio ambiente, apresentado como subsídio para a concessão da licença prévia requerida, elaborado por equipe multidisciplinar e utilizado para avaliar a viabilidade ambiental do empreendimento através do diagnóstico ambiental da área de influência (meio físico, meio biótico e meio socioeconômico), da análise dos impactos decorrentes da atividade, da definição das medidas mitigadoras e compensatórias e da elaboração de programas de acompanhamento e monitoramento dos impactos ambientais identificados; g. Estudos Ambientais Complementares - são todos e quaisquer estudos solicitados pelo órgão ambiental a fim de subsidiar o processo de licenciamento ambiental, solicitados conforme as particularidades de cada atividade; h. IDA – Índice de Degradação Ambiental – Índice numérico calculado a partir das características de um determinado empreendimento hidrelétrico, com o objetivo de valorar seu potencial degradador em função da potência instalada de geração; i. Impactos Ambientais Consolidados - os impactos permanentes e/ou irreversíveis decorrentes da implantação e operação de um determinado empreendimento que já tenham ocorrido em período passado, à época da instalação e do início de sua operação, e que já estejam estabilizados; j. MCH – Microcentral Hidrelétrica - unidade geradora de energia elétrica a partir de potencial hidráulico com potência instalada igual ou inferior a 75 kW (setenta e cinco quilowatts); k. MGH – Minigeradora Hidrelétrica - unidade geradora de energia elétrica a partir de potencial hidráulico cuja potência instalada seja superior a 75 kW (setenta e cinco quilowatts) e até 500 kW (quinhentos quilowatts); l. PCH - Pequena Central Hidrelétrica – Empreendimento de geração de energia com potência instalada superior a 5 MW (cinco megawatts) e igual ou inferior a 30.000 kW (trinta mil kilowatts); e possua área de reservatório de até 3 km² (três quilômetros quadrados), excluindo a calha do leito regular do rio. A restrição com relação área alagada não se aplica aos aproveitamentos hidrelétricos cujo dimensionamento, comprovadamente, tenha sido baseado em outros objetivos que não o de geração de energia elétrica; m. UHE - Usina Hidrelétrica de Energia – é toda usina hidrelétrica cuja capacidade instalada seja superior a 30 MW (trinta megawatts), ou que possua reservatório maior que 3 km² (300 ha) ou assim definidas pela ANEEL; n. Licença Ambiental - ato administrativo pelo qual o órgão ambiental competente estabelece as condições, restrições e medidas de controle ambiental que deverão ser obedecidas pelo empreendedor, pessoa física ou jurídica, para localizar, instalar, ampliar e operar empreendimentos ou atividades utilizadoras dos recursos ambientais consideradas efetiva ou potencialmente poluidoras ou aquelas que, sob qualquer forma, possam causar degradação e/ou modificação ambiental; o. Licenciamento Ambiental - procedimento administrativo pelo qual o órgão ambiental competente, verificando a satisfação das condições legais e técnicas, delibera quanto à localização, instalação, ampliação, operação e encerramento de empreendimentos e atividades utilizadoras de recursos ambientais consideradas efetivas ou potencialmente poluidoras ou daquelas que, sob qualquer forma, possam vir a causar degradação e/ou modificação ambiental, considerando as disposições legais e regulamentares e as normas técnicas aplicáveis ao caso; p. PCA - Plano de Controle Ambiental – é o estudo ambiental que tem por objetivo prever medidas de gestão e controle das ações de cunho ambiental de um empreendimento; q. PBA - Projeto Básico Ambiental - é o estudo ambiental complementar que apresenta, detalhadamente, todas as medidas mitigadoras, compensatórias e os programas ambientais propostos no EIA/RIMA; r. Projeto Técnico de Impacto Ambiental: Projeto que contemple EIA/RIMA ou RAS, que é exigido como subsídio para a análise e tomada de decisão em processos de licenciamento ambiental de obra, atividade ou empreendimento utilizador de recursos ambientais, efetivo ou potencialmente causador de significativa poluição ou outra forma de significativa degradação do meio ambiente, conforme estabelecido na [[resolucao-conama-1-1986|Resolução CONAMA 01/86]] e [[resolucao-conama-237-1997|Resolução CONAMA 237/97]]; s. Propriedade rural com uso inviabilizado – É todo imóvel rural que tenha sua capacidade de geração de renda reduzida após a implantação de um empreendimento ou e que o remanescente não seja o suficiente para manutenção da atividade produtiva desenvolvida anteriormente à intervenção do empreendimento; t. RAS – Relatório Ambiental Simplificado – é o estudo relativo aos aspectos ambientais relacionados à localização, instalação, operação e ampliação de uma atividade ou empreendimento, apresentado como subsídio para a concessão da licença prévia requerida, que conterá, dentre outras, as informações relativas ao diagnóstico ambiental da região de inserção do empreendimento, sua caracterização, a identificação dos impactos ambientais e das medidas de controle, de mitigação e de compensação; u. RDPA - Relatório de Detalhamento dos Programas Ambientais – o documento que apresenta, detalhadamente, todas as medidas mitigadoras e compensatórias e os programas ambientais propostos no RAS. v. Repotenciacão de CGH/PCH – é a intervenção no empreendimento hidrelétrico em operação, que propicie aumento na capacidade de geração de energia; w. Reunião Técnica Informativa – Reunião solicitada pelo órgão ambiental competente, às expensas do empreendedor, para apresentação e discussão do Relatório Ambiental Simplificado, Relatório de Detalhamento dos Programas Ambientais e demais informações, garantidas a consulta e participação pública; x. RIMA – Relatório de Impacto Ambiental – é o instrumento que tem a finalidade de apresentar aos interessados a síntese do Estudo de Impacto Ambiental - EIA, de forma objetiva e adequada à compreensão, por meio de linguagem acessível e ilustrado por técnicas de comunicação visual de modo que se possa entender as vantagens e desvantagens do projeto, bem como todas as consequências ambientais decorrentes da sua implantação; y. SGA - Sistema de Gestão Ambiental – Módulo Licenciamento, sistema informatizado para emissão de licenças ambientais, permitindo aos usuários a requisição de licenças pela internet, além de disponibilizar consultas e outras informações. É integrado com uma base de dados georreferenciados que serve de apoio à tomada de decisão na emissão de pareceres e laudos técnicos, bem como na decisão administrativa, além de dar suporte aos módulos de monitoramento e fiscalização; z. Termo de Referência – documento emitido pelo órgão ambiental que apresenta o conteúdo mínimo a ser contemplado na elaboração dos estudos ambientais em cada etapa do licenciamento.
 
@@ -62,7 +60,6 @@ Tags: #aproveitamento-hidreletrico #eia-rima #licenciamento-ambiental #lp #pca #
 ### Seção I – Dos Atos administrativos {#cap2_sec1}
 
 ###### Art. 3º {#art3}
-Tags: #condicionante #licenciamento-ambiental #las #aproveitamento-hidreletrico #lo #lp
 
 **Art. 3º, caput** {#art3_cpt} O órgão licenciador, no exercício de sua competência de controle ambiental, no âmbito do licenciamento de empreendimentos hidrelétricos e no exercício de suas atribuições, expedirá os seguintes atos administrativos:
 
@@ -79,14 +76,12 @@ Tags: #condicionante #licenciamento-ambiental #las #aproveitamento-hidreletrico 
 **Art. 3º, parágrafo único** {#art3_par1u} Os prazos de validade das licenças obedecerão o disposto no [[#anexo3|Anexo III]].
 
 ###### Art. 4º {#art4}
-Tags: #responsavel-tecnico #documentacao
 
 **Art. 4º, caput** {#art4_cpt} Os atos administrativos listados no [[#art3|Art.3º]] e no [[#art25|Art. 25]] serão expedidos por meio do sistema SGA, mediante cadastramento do requerente como usuário ambiental, prestação das informações referente ao empreendimento e a apresentação da documentação solicitada.
 
 ### Seção II – Da Definição do Porte, Tipo de Licenciamento e de Estudo Ambiental {#cap2_sec2}
 
 ###### Art. 5º {#art5}
-Tags: #supressao-vegetacao #licenciamento-ambiental #las #dispensa #enquadramento #aproveitamento-hidreletrico
 
 **Art. 5º, caput** {#art5_cpt} A definição da modalidade de licenciamento ambiental a que serão submetidos os empreendimentos a serem instalados obedecerá a seguinte condição:
 
@@ -135,7 +130,6 @@ Quadro 1. Modalidade de licenciamento e estudo ambiental por tipo de empreendime
 **Art. 5º, § 12º** {#art5_par12} Serão estabelecidos Termos de Referência diferenciados para cada tipo de estudo ambiental a ser aplicado, obedecendo-se a linhas de corte conforme Quadro 1.
 
 ###### Art. 6º {#art6}
-Tags: #eia-rima #enquadramento #aproveitamento-hidreletrico
 
 **Art. 6º, caput** {#art6_cpt} Serão enquadradas na [[resolucao-conama-1-1986|Resolução CONAMA nº 01/86]], passíveis de apresentação de EIA/RIMA e de realização de Audiências Públicas, conforme [[resolucao-conama-9-1987|Resolução CONAMA nº 09/87]], as seguintes situações:
 
@@ -148,7 +142,6 @@ Tags: #eia-rima #enquadramento #aproveitamento-hidreletrico
 #### Subseção I – Documentação Básica {#cap2_sec3_subsec1}
 
 ###### Art. 7º {#art7}
-Tags: #dispensa #responsavel-tecnico #licenciamento-ambiental #requerimento #car
 
 **Art. 7º, caput** {#art7_cpt} O órgão licenciador expedirá Dispensa de Licenciamento Ambiental Estadual – DLAE aos empreendimentos elegíveis conforme [[#art5|Art. 5º]] Quadro 1, devendo o empreendedor efetuar o requerimento da dispensa mediante apresentação dos seguintes documentos:
 
@@ -159,7 +152,6 @@ Tags: #dispensa #responsavel-tecnico #licenciamento-ambiental #requerimento #car
 - **Art. 7º, caput, alínea "e"** {#art7_cpt_alie} recibo de inscrição no Cadastro Ambiental Rural – CAR, referente aos imóveis onde incide o empreendimento.
 
 ###### Art. 8º {#art8}
-Tags: #responsavel-tecnico #licenciamento-ambiental #documentacao #requerimento #publicacao-dioe #car
 
 **Art. 8º, caput** {#art8_cpt} Os empreendimentos que por sua classificação conforme [[#art5|Art. 5º]] Quadro I, necessitarem fazer a solicitação da Licença Ambiental por Adesão e Compromisso - LAC deverão instruir o requerimento mediante a apresentação dos os seguintes documentos:
 
@@ -180,7 +172,6 @@ Tags: #responsavel-tecnico #licenciamento-ambiental #documentacao #requerimento 
 **Art. 8º, parágrafo único** {#art8_par1u} Na impossibilidade de atendimento do contido na alínea i, apresentar declaração por parte dos proprietários dos imóveis diretamente afetados, informando estar de acordo com a implantação do projeto, conforme modelo [[#anexo2|Anexo II]], com reconhecimento de firmas.
 
 ###### Art. 9º {#art9}
-Tags: #las #licenciamento-ambiental #responsavel-tecnico #documentacao #requerimento #publicacao-dioe
 
 **Art. 9º, caput** {#art9_cpt} Os empreendimentos que por sua classificação conforme, [[#art5|Art. 5º]] Quadro I, necessitarem fazer a solicitação de Licença Ambiental Simplificada – LAS deverão instruir o requerimento mediante a apresentação dos os seguintes documentos:
 
@@ -199,7 +190,6 @@ Tags: #las #licenciamento-ambiental #responsavel-tecnico #documentacao #requerim
 **Art. 9º, parágrafo único** {#art9_par1u} Na impossibilidade de atendimento do contido na alínea j, apresentar declaração por parte dos proprietários dos imóveis diretamente afetados, informando estar de acordo com a implantação do projeto, conforme modelo [[#anexo2|Anexo II]], com reconhecimento de firmas.
 
 ###### Art. 10 {#art10}
-Tags: #las #licenciamento-ambiental #publicacao-dioe #rlas #renovacao #pca
 
 **Art. 10, caput** {#art10_cpt} Para a Renovação da Licença Ambiental Simplificada - RLAS o empreendedor deverá protocolar os seguintes documentos:
 
@@ -210,12 +200,10 @@ Tags: #las #licenciamento-ambiental #publicacao-dioe #rlas #renovacao #pca
 - **Art. 10, caput, alínea "e"** {#art10_cpt_alie} relatório de Atendimento as condicionantes da licença e anteriores.
 
 ###### Art. 11 {#art11}
-Tags: #lp #li #lo #documentacao
 
 **Art. 11, caput** {#art11_cpt} Os empreendimentos que por suas características necessitarem fazer o licenciamento completo (LP, LI e LO), dependerão obrigatoriamente da apresentação da documentação específica.
 
 ###### Art. 12 {#art12}
-Tags: #lp #requerimento #publicacao-dioe #iphan #licenciamento-ambiental #outorga
 
 **Art. 12, caput** {#art12_cpt} Os requerimentos de Licença Prévia - LP deverão ser protocolados por meio do SGA mediante apresentação de:
 
@@ -228,7 +216,6 @@ Tags: #lp #requerimento #publicacao-dioe #iphan #licenciamento-ambiental #outorg
 - **Art. 12, caput, alínea "g"** {#art12_cpt_alig} Ficha de Caracterização de Atividade - FCA do Instituto do Patrimônio Histórico e Artístico Nacional – IPHAN.
 
 ###### Art. 13 {#art13}
-Tags: #lp #publicacao-dioe #prazo #requerimento #licenciamento-ambiental #condicionante
 
 **Art. 13, caput** {#art13_cpt} Os requerimentos de Prorrogação da Licença Prévia - PLP desde que essa prorrogação não ultrapasse o prazo máximo estabelecido no [[#anexo3|ANEXO III]] deverão ser protocolados por meio do SGA mediante apresentação de:
 
@@ -237,7 +224,6 @@ Tags: #lp #publicacao-dioe #prazo #requerimento #licenciamento-ambiental #condic
 - **Art. 13, caput, alínea "c"** {#art13_cpt_alic} prova de publicação de súmula do pedido de Prorrogação da Licença Ambiental Prévia - LP em jornal de circulação regional e no Diário Oficial do Estado, ou no site do órgão ambiental competente mediante pagamentos das custas, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006/86]].
 
 ###### Art. 14 {#art14}
-Tags: #li #publicacao-dioe #requerimento #car #iphan #licenciamento-ambiental
 
 **Art. 14, caput** {#art14_cpt} Os requerimentos de Licença de instalação - LI deverão ser protocolados por meio do SGA mediante apresentação de:
 
@@ -255,7 +241,6 @@ Tags: #li #publicacao-dioe #requerimento #car #iphan #licenciamento-ambiental
 **Art. 14, parágrafo único** {#art14_par1u} Na impossibilidade de atendimento do contido na alínea n, apresentar declaração por parte dos proprietários dos imóveis diretamente afetados, informando estar de acordo com a implantação do projeto, conforme modelo [[#anexo2|Anexo II]], com reconhecimento de firmas.
 
 ###### Art. 15 {#art15}
-Tags: #publicacao-dioe #li #prazo #requerimento #licenciamento-ambiental #condicionante
 
 **Art. 15, caput** {#art15_cpt} Os requerimentos de Prorrogação de Licença de Instalação – PLI, desde que essa prorrogação não ultrapasse o prazo máximo estabelecido no [[#anexo3|ANEXO III]], deverão ser protocolados por meio do SGA mediante apresentação de:
 
@@ -265,7 +250,6 @@ Tags: #publicacao-dioe #li #prazo #requerimento #licenciamento-ambiental #condic
 - **Art. 15, caput, alínea "d"** {#art15_cpt_alid} prova de publicação de súmula do pedido de Prorrogação de Licença Ambiental de Instalação – PLI em jornal de circulação regional e no Diário Oficial do Estado, ou no site do órgão ambiental competente mediante pagamentos das custas, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006/86]].
 
 ###### Art. 16 {#art16}
-Tags: #lo #publicacao-dioe #licenciamento-ambiental #requerimento #responsavel-tecnico #renovacao
 
 **Art. 16, caput** {#art16_cpt} Os requerimentos de Licença de Operação - LO deverão ser protocolados por meio do SGA mediante apresentação de:
 
@@ -281,7 +265,6 @@ Tags: #lo #publicacao-dioe #licenciamento-ambiental #requerimento #responsavel-t
 #### Subseção II – Documentação Complementar para o Licenciamento de Central Geradora Hidrelétrica – CGH {#cap2_sec3_subsec2}
 
 ###### Art. 17 {#art17}
-Tags: #li #aproveitamento-hidreletrico #licenciamento-ambiental #lp #supressao-vegetacao
 
 **Art. 17, caput** {#art17_cpt} O licenciamento ambiental de empreendimentos caracterizados como Central Geradora Hidrelétrica – CGH dependerão da apresentação dos documentos dispostos na Subseção I, acrescidos dos seguintes documentos:
 
@@ -296,7 +279,6 @@ Tags: #li #aproveitamento-hidreletrico #licenciamento-ambiental #lp #supressao-v
 #### Subseção III – Documentação Complementar para o Licenciamento de Pequena Central Hidrelétrica – PCH, com potência instalada de até 10 MW {#cap2_sec3_subsec3}
 
 ###### Art. 18 {#art18}
-Tags: #outorga #aproveitamento-hidreletrico #li #lo #licenciamento-ambiental #lp
 
 **Art. 18, caput** {#art18_cpt} O licenciamento ambiental de empreendimentos caracterizados como Pequena Central Hidrelétrica – PCH, com potência instalada de até 10 MW, dependerão da apresentação dos documentos dispostos na Subseção I, acrescidos dos seguintes documentos:
 
@@ -322,7 +304,6 @@ Tags: #outorga #aproveitamento-hidreletrico #li #lo #licenciamento-ambiental #lp
 #### Subseção IV – Licenciamento de Hidrelétricas, com potência instalada acima 10 MW {#cap2_sec3_subsec4}
 
 ###### Art. 19 {#art19}
-Tags: #aproveitamento-hidreletrico #outorga #li #lo #eia-rima #licenciamento-ambiental
 
 **Art. 19, caput** {#art19_cpt} Empreendimentos caracterizados como PEQUENA CENTRAL HIDRELÉTRICA – PCH, com potência instalada acima de 10 MW, e como USINA HIDRELÉTRICA DE ENERGIA – UHE, deverão efetuar o requerimento de licenciamento ambiental da sua unidade geradora de energia por meio da apresentação dos documentos dispostos na Subseção I, acrescidos dos seguintes documentos:
 
@@ -348,7 +329,6 @@ Tags: #aproveitamento-hidreletrico #outorga #li #lo #eia-rima #licenciamento-amb
 ### Seção IV – Da Repotenciação de Empreendimentos Hidrelétricos {#cap2_sec4}
 
 ###### Art. 20 {#art20}
-Tags: #licenciamento-ambiental #ampliacao #licenciamento-trifasico #aproveitamento-hidreletrico #lp #li
 
 **Art. 20, caput** {#art20_cpt} Nos casos em um empreendimento tenha licenciamento ambiental vigente e se pretenda fazer a repotenciação com incremento de geração de energia em empreendimento hidrelétrico será exigido o licenciamento ambiental de ampliação, que poderá ser em uma única fase ou trifásico.
 
@@ -360,14 +340,12 @@ Tags: #licenciamento-ambiental #ampliacao #licenciamento-trifasico #aproveitamen
 **Art. 20, § 2º** {#art20_par2} Para a solicitação da licença para repotenciação, deverão ser apresentados mediante protocolo os documentos conforme indicação por modalidade de licença e tipo de empreendimento, resalvadas as peculiaridades do caso.
 
 ###### Art. 21 {#art21}
-Tags: #eia-rima #responsavel-tecnico
 
 **Art. 21, caput** {#art21_cpt} Se o empreendimento com o incremento de potência pretendida, decorrente da repotenciação para PCH ultrapassar 10 MW (dez megawatts), o licenciamento se dará mediante apresentação do Estudo de Impacto Ambiental e do respectivo Relatório de Impacto Ambiental (ElA/RIMA) e haverá necessidade de um novo licenciamento, na forma do [[#art11|Art.11]].
 
 ### Seção V – Da Regularização do Licenciamento Ambiental {#cap2_sec5}
 
 ###### Art. 22 {#art22}
-Tags: #responsavel-tecnico #ampliacao
 
 **Art. 22, caput** {#art22_cpt} As MCHs, CGHs e PCHs que tenham entrado em operação antes da edição desta resolução, poderão se regularizar o empreendimento, por meio de solicitação de licença conforme [[#art5|ART.5º]], desde que atenda as seguintes condições:
 
@@ -380,7 +358,6 @@ Tags: #responsavel-tecnico #ampliacao
 #### Subseção I – Da Documentação para Regularização de Licenciamento {#cap2_sec5_subsec1}
 
 ###### Art. 23 {#art23}
-Tags: #licenciamento-ambiental #lo #responsavel-tecnico #documentacao #requerimento #publicacao-dioe
 
 **Art. 23, caput** {#art23_cpt} As solicitações de Licença de Operação de Regularização previstas no [[#art23|Art. 23]] dependerão, obrigatoriamente, da apresentação da seguinte documentação quando do requerimento do licenciamento ambiental:
 
@@ -397,7 +374,6 @@ Tags: #licenciamento-ambiental #lo #responsavel-tecnico #documentacao #requerime
 ### Seção VI – Da Consulta Prévia de Viabilidade {#cap2_sec6}
 
 ###### Art. 24 {#art24}
-Tags: #licenciamento-ambiental #lp #validade
 
 **Art. 24, caput** {#art24_cpt} As CGH’s com potência instalada igual ou superior a 1 MW (um megawatt), UHE’s e PCH’s, antes da formalização do pedido de LP, deverão realizar consulta prévia em relação a existência de pedido de licenciamento incidente no eixo pretendido e possíveis restrições ambientais.
 
@@ -414,7 +390,6 @@ Tags: #licenciamento-ambiental #lp #validade
 ### Seção VII – Da Autorização Ambiental para Enchimento do Reservatório {#cap2_sec7}
 
 ###### Art. 25 {#art25}
-Tags: #aproveitamento-hidreletrico #autorizacao-ambiental
 
 **Art. 25, caput** {#art25_cpt} As CGHs que tenham sido objeto de Relatório Ambiental Simplificado – RAS, UHEs e PCHs deverão fazer a solicitação de Autorização Ambiental para enchimento do reservatório (quando se aplicar) e testes de comissionamento.
 
@@ -423,7 +398,6 @@ Tags: #aproveitamento-hidreletrico #autorizacao-ambiental
 #### Subseção I – Da Documentação para Solicitação de Autorização Ambiental para Enchimento de Reservatório {#cap2_sec7_subsec1}
 
 ###### Art. 26 {#art26}
-Tags: #autorizacao-ambiental #aproveitamento-hidreletrico #li #responsavel-tecnico #condicionante
 
 **Art. 26, caput** {#art26_cpt} A solicitação de Autorização Ambiental (AA) para realização do enchimento do reservatório e testes de comissionamento deverá ser efetuada mediante apresentação dos seguintes documentos:
 
@@ -435,7 +409,6 @@ Tags: #autorizacao-ambiental #aproveitamento-hidreletrico #li #responsavel-tecni
 ### Seção VIII – Das Taxas Ambientais {#cap2_sec8}
 
 ###### Art. 27 {#art27}
-Tags: #licenciamento-ambiental #taxa-ambiental #aproveitamento-hidreletrico #las #lp #publicacao-dioe
 
 **Art. 27, caput** {#art27_cpt} O licenciamento ambiental dos empreendimentos hidrelétricos será protocolado e analisado pelo órgão ambiental competente mediante pagamento de 3 (três) taxas (quando couber) a serem recolhidas quando da solicitação do licenciamento ambiental.
 
@@ -446,7 +419,6 @@ Tags: #licenciamento-ambiental #taxa-ambiental #aproveitamento-hidreletrico #las
 ## CAPÍTULO III – DISPOSIÇÕES GERAIS {#cap3}
 
 ###### Art. 28 {#art28}
-Tags: #aproveitamento-hidreletrico #lp #prazo #requerimento #publicacao-dioe
 
 **Art. 28, caput** {#art28_cpt} No caso dos licenciamentos de Centrais Geradoras Hidrelétricas - CGH’s, Pequenas Centrais Hidrelétricas – PCH's, (até 10MW), sempre que julgar necessário, ou quando for solicitado por entidade civil, pelo Ministério Público, ou por pelo menos cinquenta pessoas maiores de dezoito anos, o órgão de meio ambiente promoverá Reunião Técnica Informativa, conforme preconiza a [[resolucao-conama-279-2001|Resolução CONAMA nº 279/2001]].
 
@@ -457,14 +429,12 @@ Tags: #aproveitamento-hidreletrico #lp #prazo #requerimento #publicacao-dioe
 **Art. 28, § 3º** {#art28_par3} Na Reunião Técnica Informativa será obrigatório o comparecimento do empreendedor, das equipes responsáveis pela elaboração do Relatório Ambiental Simplificado - RAS e do Relatório de Detalhamento dos Programas Ambientais - RDPA, e de representantes do órgão ambiental competente.
 
 ###### Art. 29 {#art29}
-Tags: #lp #eia-rima #documentacao
 
 **Art. 29, caput** {#art29_cpt} Para os empreendimentos, cujos licenciamentos sejam exigidos EIA/RIMA, a Licença Prévia - LP só poderá ser emitida mediante apresentação da declaração de ciência referente ao mínimo de 70% (setenta por cento) do número de imóveis a serem afetados.
 
 **Art. 29, parágrafo único** {#art29_par1u} Na hipótese da não apresentação da documentação referente à totalidade dos imóveis conforme previsto no caput deste artigo, o empreendedor deverá comprovar documentalmente a realização de esforço adequado no sentido de conseguir a documentação referente a todos os imóveis afetados.
 
 ###### Art. 30 {#art30}
-Tags: #documentacao #li #eia-rima #anuencia #aproveitamento-hidreletrico #autorizacao-ambiental
 
 **Art. 30, caput** {#art30_cpt} Para os empreendimentos, cujos licenciamentos sejam exigidos EIA/RIMA a Licença de Instalação - LI só poderá ser emitida mediante apresentação da comprovação da dominialidade ou declaração de anuência referente ao mínimo de 70% (setenta por cento) do número de imóveis a serem afetados.
 
@@ -477,12 +447,10 @@ Tags: #documentacao #li #eia-rima #anuencia #aproveitamento-hidreletrico #autori
 **Art. 31, caput** {#art31_cpt} A comprovação de ciência por parte dos proprietários das áreas atingidas também poderá ser realizada por meio de apresentação de lista de presença em reunião técnica informativa em que comprovadamente tenha sido feita a explanação em relação às propriedades afetadas pelo empreendimento.
 
 ###### Art. 32 {#art32}
-Tags: #las #licenciamento-ambiental
 
 **Art. 32, caput** {#art32_cpt} Os empreendimentos que estejam sujeitos à Licença Ambiental Simplificada – LAS, e que necessitem de autorização florestal para sua instalação somente estarão aptos a se instalarem após o deferimento da solicitação de autorização florestal.
 
 ###### Art. 33 {#art33}
-Tags: #li #lp #lo #licenciamento-trifasico
 
 **Art. 33, caput** {#art33_cpt} Os empreendimentos que estejam sujeitos ao licenciamento trifásico (LP, LI e LO), somente terão a emissão da Licença de Licença de Instalação – LI emitida de forma concomitante ou posteriormente ao deferimento da solicitação de Autorização Florestal, quando necessitar.
 
@@ -491,7 +459,6 @@ Tags: #li #lp #lo #licenciamento-trifasico
 **Art. 34, caput** {#art34_cpt} Para os casos excepcionais envolvendo imóveis não contemplados nesta Resolução, deverão estar em conformidade com as hipóteses do Capítulo II, Seção V da [[resolucao-cema-107-2020|Resolução CEMA n° 107/2020]]9.
 
 ###### Art. 35 {#art35}
-Tags: #audiencia-publica #eia-rima #publicacao-dioe
 
 **Art. 35, caput** {#art35_cpt} No licenciamento dos empreendimentos com potência instalada maior que 10 MW, deverão ser realizadas Reuniões Públicas e Audiências Públicas na forma da lei e conforme regulamentação própria, estabelecida pelo IAT.
 
@@ -514,27 +481,22 @@ Tags: #audiencia-publica #eia-rima #publicacao-dioe
 **Art. 37, caput** {#art37_cpt} Quando da necessidade da manifestação de órgãos externos ao licenciador, será seguido o procedimento conforme estabelece a [[resolucao-cema-107-2020|Resolução CEMA nº 107/2020]].
 
 ###### Art. 38 {#art38}
-Tags: #licenciamento-ambiental #enquadramento
 
 **Art. 38, caput** {#art38_cpt} O empreendedor que no âmbito do licenciamento ambiental elaborar ou apresentar, no licenciamento, concessão florestal ou qualquer outro procedimento administrativo, estudo, laudo ou relatório ambiental total ou parcialmente falso ou enganoso, inclusive por omissão, será enquadrado conforme disposto na [[lei-federal-9605-1998|Lei Federal 9.605 de 12 de fevereiro de 1998]].
 
 ###### Art. 39 {#art39}
-Tags: #enquadramento #casos-omissos
 
 **Art. 39, caput** {#art39_cpt} Os casos omissos não previstos nesta resolução serão analisados pelo IAT e enquadrados na legislação ambiental vigente conforme as características particulares de cada empreendimento.
 
 ###### Art. 40 {#art40}
-Tags: #licenciamento-ambiental
 
 **Art. 40, caput** {#art40_cpt} A Licença Ambiental do empreendimento, em quaisquer das fases, terá sua eficácia suspensa quando houver suspensão ou revogação de ato expedido pela ANEEL sobre o respectivo empreendimento.
 
 ###### Art. 41 {#art41}
-Tags: #eia-rima #responsavel-tecnico
 
 **Art. 41, caput** {#art41_cpt} Em cumprimento ao disposto no Art. 209 da Constituição do Estado do Paraná, os empreendimentos com projeto técnico de impacto ambiental objeto de EIA/RIMA e RAS estarão sujeitos à obtenção da aprovação do projeto pela Assembleia Legislativa do Estado do Paraná - ALEP.
 
 ###### Art. 42 {#art42}
-Tags: #publicacao-dioe
 
 **Art. 42, caput** {#art42_cpt} Esta Resolução entrará em vigor na data de sua publicação.
 
@@ -550,17 +512,14 @@ Tags: #publicacao-dioe
 > Tipos conforme as regras de anexos do README: **tipo 1** (modelos) só com o nome; **tipo 3** (Anexo III) listado. Não há anexo do tipo 2. O PDF numera os anexos I, II, III, V, VI, VII e VIII (não há "Anexo IV"); a numeração impressa foi mantida.
 
 ### ANEXO I – DECLARAÇÃO DE CIÊNCIA {#anexo1}
-Tags: #declaracao-ciencia
 
 Modelo de declaração de ciência. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art17_cpt_inc1_alib|Art. 17, inciso I, alínea "b"]], [[#art18_cpt_inc1_alid|Art. 18, inciso I, alínea "d"]], [[#art19_cpt_inc1_alie|Art. 19, inciso I, alínea "e"]].)*
 
 ### ANEXO II – DECLARAÇÃO DE ANUÊNCIA {#anexo2}
-Tags: #declaracao-anuencia
 
 Modelo de declaração de anuência. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art8_par1u|Art. 8º, parágrafo único]], [[#art9_par1u|Art. 9º, parágrafo único]], [[#art14_par1u|Art. 14, parágrafo único]].)*
 
 ### ANEXO III – VALIDADE DAS LICENÇAS {#anexo3}
-Tags: #validade #licenca-ambiental
 
 *(Tipo 3: conteúdo normativo. Citado em: [[#art3_par1u|Art. 3º, parágrafo único]], [[#art13_cpt|Art. 13]], [[#art15_cpt|Art. 15]].)*
 
@@ -574,22 +533,18 @@ Tags: #validade #licenca-ambiental
 - **Anexo III, Tabela 1, linha 7** {#anexo3_tab1_lin7} Modalidade: Autorização Ambiental - AA | Validade: 6 meses a 2 anos
 
 ### ANEXO V – MODELO DE CERTIDÃO MUNICIPAL EM RELAÇÃO AO USO E OCUPAÇÃO DO SOLO {#anexo5}
-Tags: #certidao-municipal
 
 Modelo de certidão municipal em relação ao uso e ocupação do solo. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art8_cpt_alij|Art. 8º, alínea "j"]].)*
 
 ### ANEXO VI – DECLARAÇÃO DA VERACIDADE DAS INFORMAÇÕES PRESTADAS {#anexo6}
-Tags: #declaracao-veracidade
 
 Modelo de declaração da veracidade das informações prestadas. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art8_cpt_alik|Art. 8º, alínea "k"]].)*
 
 ### ANEXO VII – DECLARAÇÃO DO EMPREENDEDOR PELO LICENCIAMENTO POR ADESÃO E COMPROMISSO {#anexo7}
-Tags: #declaracao-adesao-compromisso
 
 Modelo de declaração do empreendedor pelo licenciamento por adesão e compromisso. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art8_cpt_alil|Art. 8º, alínea "l"]].)*
 
 ### ANEXO VIII – DECLARAÇÃO DO RESPONSÁVEL TÉCNICO PELO LICENCIAMENTO POR ADESÃO E COMPROMISSO {#anexo8}
-Tags: #declaracao-adesao-compromisso
 
 Modelo de declaração do responsável técnico pelo licenciamento por adesão e compromisso. *(Tipo 1: modelo, conteúdo não transcrito.)*
 

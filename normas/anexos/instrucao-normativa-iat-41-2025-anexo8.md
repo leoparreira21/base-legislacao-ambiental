@@ -20,8 +20,8 @@ fonte: PDF da IN IAT 41/2025, páginas 85 e 86
 ## Texto do anexo {#texto-anexo}
 
 - **Anexo VIII, linha 1** {#anexo8_lin1} 1. OBJETIVO
-- **Anexo VIII, linha 2** {#anexo8_lin2} #pcpa #rap O Plano de Controle de Poluição Ambiental – PCPA deverá apresentar os detalhamentos e programas de controle ambiental considerando a análise preliminar apresentada no [[instrucao-normativa-iat-41-2025#anexo6|Relatório Ambiental Preliminar]].
-- **Anexo VIII, linha 3** {#anexo8_lin3} #responsavel-legal 2. IDENTIFICAÇÃO DO EMPREENDEDOR
+- **Anexo VIII, linha 2** {#anexo8_lin2} O Plano de Controle de Poluição Ambiental – PCPA deverá apresentar os detalhamentos e programas de controle ambiental considerando a análise preliminar apresentada no [[instrucao-normativa-iat-41-2025#anexo6|Relatório Ambiental Preliminar]].
+- **Anexo VIII, linha 3** {#anexo8_lin3} 2. IDENTIFICAÇÃO DO EMPREENDEDOR
 - **Anexo VIII, linha 4** {#anexo8_lin4} • Nome do Responsável Legal
 - **Anexo VIII, linha 5** {#anexo8_lin5} • Profissão do Responsável Legal;
 - **Anexo VIII, linha 6** {#anexo8_lin6} • CPF do Responsável Legal;
@@ -38,23 +38,23 @@ fonte: PDF da IN IAT 41/2025, páginas 85 e 86
 - **Anexo VIII, linha 17** {#anexo8_lin17} • E-mail;
 - **Anexo VIII, linha 18** {#anexo8_lin18} • Responsável legal.
 - **Anexo VIII, linha 19** {#anexo8_lin19} 4. PROGRAMAS, PLANOS E PROJETOS
-- **Anexo VIII, linha 20** {#anexo8_lin20} #medida-mitigadora #medida-compensatoria Apresentar os projetos, programas e planos para mitigar e/ou compensar o impacto ambiental, conforme levantamento preliminar do [[instrucao-normativa-iat-41-2025#anexo6|RAP]]. São documentos pertinentes, se cabíveis ao licenciamento:
-- **Anexo VIII, linha 21** {#anexo8_lin21} #automonitoramento #emissao-atmosferica • Programa de Automonitoramento de Emissões Atmosféricas;
-- **Anexo VIII, linha 22** {#anexo8_lin22} #automonitoramento #poluicao-sonora • Programa de Automonitoramento de Ruído;
-- **Anexo VIII, linha 23** {#anexo8_lin23} #terraplanagem • Projetos de Terraplenagem;
-- **Anexo VIII, linha 24** {#anexo8_lin24} #supressao-vegetacao #medida-compensatoria • Planos de Compensação Florestal;
-- **Anexo VIII, linha 25** {#anexo8_lin25} #area-degradada #recuperacao-ambiental • Programa de Recuperação de Áreas Degradadas – PRAD;
-- **Anexo VIII, linha 26** {#anexo8_lin26} #monitoramento #agua-subterranea • Programa de Monitoramento de Águas Subterrâneas;
-- **Anexo VIII, linha 27** {#anexo8_lin27} #monitoramento #corpo-hidrico #efluente • Programa de Monitoramento de Corpos Hídricos, no caso do lançamento de efluentes;
-- **Anexo VIII, linha 28** {#anexo8_lin28} #pgrs #residuo-construcao-civil • Programa de Gerenciamento de Resíduos Sólidos – PGRS (incluindo resíduos da construção civil);
-- **Anexo VIII, linha 29** {#anexo8_lin29} #agua-pluvial • Projetos de Drenagem de Águas Pluviais;
-- **Anexo VIII, linha 30** {#anexo8_lin30} #tratamento-efluente • Projetos de Estação de Tratamento de Efluentes, se houver;
+- **Anexo VIII, linha 20** {#anexo8_lin20} Apresentar os projetos, programas e planos para mitigar e/ou compensar o impacto ambiental, conforme levantamento preliminar do [[instrucao-normativa-iat-41-2025#anexo6|RAP]]. São documentos pertinentes, se cabíveis ao licenciamento:
+- **Anexo VIII, linha 21** {#anexo8_lin21} • Programa de Automonitoramento de Emissões Atmosféricas;
+- **Anexo VIII, linha 22** {#anexo8_lin22} • Programa de Automonitoramento de Ruído;
+- **Anexo VIII, linha 23** {#anexo8_lin23} • Projetos de Terraplenagem;
+- **Anexo VIII, linha 24** {#anexo8_lin24} • Planos de Compensação Florestal;
+- **Anexo VIII, linha 25** {#anexo8_lin25} • Programa de Recuperação de Áreas Degradadas – PRAD;
+- **Anexo VIII, linha 26** {#anexo8_lin26} • Programa de Monitoramento de Águas Subterrâneas;
+- **Anexo VIII, linha 27** {#anexo8_lin27} • Programa de Monitoramento de Corpos Hídricos, no caso do lançamento de efluentes;
+- **Anexo VIII, linha 28** {#anexo8_lin28} • Programa de Gerenciamento de Resíduos Sólidos – PGRS (incluindo resíduos da construção civil);
+- **Anexo VIII, linha 29** {#anexo8_lin29} • Projetos de Drenagem de Águas Pluviais;
+- **Anexo VIII, linha 30** {#anexo8_lin30} • Projetos de Estação de Tratamento de Efluentes, se houver;
 - **Anexo VIII, linha 31** {#anexo8_lin31} 5. CRONOGRAMA DE EXECUÇÃO DOS PROJETOS
 - **Anexo VIII, linha 32** {#anexo8_lin32} Apresentar cronograma de execução das atividades, com estimativa de início, fim e prazo total.
 - **Anexo VIII, linha 33** {#anexo8_lin33} 6. CONCLUSÕES
 - **Anexo VIII, linha 34** {#anexo8_lin34} Conclusão do estudo, indicando as limitações do empreendimento e das medidas de controle, prospectando revisões dos processos de forma periódica em razão da evolução tecnológica.
 - **Anexo VIII, linha 35** {#anexo8_lin35} 7. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA
-- **Anexo VIII, linha 36** {#anexo8_lin36} #art-anotacao Apresentar ART do técnico ou da equipe responsável pela elaboração do documento, bem como o devido visto junto ao CREA-PR, quando o estudo for realizado por profissionais de fora do estado.
+- **Anexo VIII, linha 36** {#anexo8_lin36} Apresentar ART do técnico ou da equipe responsável pela elaboração do documento, bem como o devido visto junto ao CREA-PR, quando o estudo for realizado por profissionais de fora do estado.
 - **Anexo VIII, linha 37** {#anexo8_lin37} 8. REFERÊNCIAS DE LITERATURA
 - **Anexo VIII, linha 38** {#anexo8_lin38} Artigos científicos, livros, normas e dispositivos legais usados para embasar o estudo.
 

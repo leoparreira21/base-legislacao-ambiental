@@ -56,52 +56,45 @@ Considerando as diretrizes estabelecidas pela NBR 13221/2003 quanto ao transport
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #dispensa #licenciamento-ambiental #autorizacao-ambiental #coleta #transporte #saneante-desinfestante #vetor #embalagem #saude-publica
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer critérios para dispensar de licenciamento ambiental e autorização ambiental, as atividades de coleta e transporte até o local de seu armazenamento temporário, os saneantes desinfestantes domissanitários vencidos ou não utilizados, de uso restrito e suas embalagens pós-consumo destinados ao combate, à prevenção e ao controle de vetores transmissores de doenças de relevância para a saúde pública, tais como dengue, zika, chikungunya, febre amarela urbana, doença de chagas, malária, leishmanioses, dentre outras, gerados pela Secretaria de Estado da Saúde – SESA.
 
 ###### Art. 2º {#art2}
-Tags: #definicao #armazenamento-residuo #coleta #vetor #destinacao-final #saneante-desinfestante #transporte #tratamento-residuo
 
 **Art. 2º, caput** {#art2_cpt} Para fins desta Resolução, entende-se por:
 
-- **Art. 2º, caput, inciso I** {#art2_cpt_inc1} #armazenamento-residuo Armazenamento temporário: ponto intermediário entre o local de geração e destinação final, com o objetivo de acumular temporariamente, saneantes desinfestantes domissanitários vencidos ou não utilizados, de uso restrito em saúde pública e suas embalagens pós-consumo, com área construída de no máximo 20 (vinte) m²;
-- **Art. 2º, caput, inciso II** {#art2_cpt_inc2} #coleta coleta: ato de coletar e remover resíduos sólidos para destinação;
-- **Art. 2º, caput, inciso III** {#art2_cpt_inc3} #vetor controle de vetores: conjunto de ações preventivas e corretivas de monitoramento ou aplicação, ou ambos, visando impedir de modo integrado que vetores se instalem ou reproduzam no ambiente;
-- **Art. 2º, caput, inciso IV** {#art2_cpt_inc4} #destinacao-final destinação final ambientalmente adequada: destinação de resíduos que inclui a reutilização, a reciclagem, a compostagem, a recuperação e o aproveitamento energético ou outras destinações admitidas pelos órgãos competentes do Sisnama, do SNVS e do Suasa, entre elas a disposição final, observando normas operacionais específicas de modo a evitar danos ou riscos à saúde pública e à segurança e a minimizar os impactos ambientais adversos;
+- **Art. 2º, caput, inciso I** {#art2_cpt_inc1} Armazenamento temporário: ponto intermediário entre o local de geração e destinação final, com o objetivo de acumular temporariamente, saneantes desinfestantes domissanitários vencidos ou não utilizados, de uso restrito em saúde pública e suas embalagens pós-consumo, com área construída de no máximo 20 (vinte) m²;
+- **Art. 2º, caput, inciso II** {#art2_cpt_inc2} coleta: ato de coletar e remover resíduos sólidos para destinação;
+- **Art. 2º, caput, inciso III** {#art2_cpt_inc3} controle de vetores: conjunto de ações preventivas e corretivas de monitoramento ou aplicação, ou ambos, visando impedir de modo integrado que vetores se instalem ou reproduzam no ambiente;
+- **Art. 2º, caput, inciso IV** {#art2_cpt_inc4} destinação final ambientalmente adequada: destinação de resíduos que inclui a reutilização, a reciclagem, a compostagem, a recuperação e o aproveitamento energético ou outras destinações admitidas pelos órgãos competentes do Sisnama, do SNVS e do Suasa, entre elas a disposição final, observando normas operacionais específicas de modo a evitar danos ou riscos à saúde pública e à segurança e a minimizar os impactos ambientais adversos;
 - **Art. 2º, caput, inciso V** {#art2_cpt_inc5} geração: todo ato ou efeito de produzir resíduos sólidos;
-- **Art. 2º, caput, inciso VI** {#art2_cpt_inc6} #saneante-desinfestante saneantes desinfestantes domissanitários: produtos registrados na Anvisa, destinados à desinfestação de ambientes urbanos, sejam eles residenciais, coletivos, públicos ou privados, que matam, inativam ou repelem organismos indesejáveis no ambiente, sobre objetos, superfícies inanimadas, ou em plantas. Incluem-se neste conceito os termos "inseticidas", "reguladores de crescimento", “moluscicidas" e "repelentes";
+- **Art. 2º, caput, inciso VI** {#art2_cpt_inc6} saneantes desinfestantes domissanitários: produtos registrados na Anvisa, destinados à desinfestação de ambientes urbanos, sejam eles residenciais, coletivos, públicos ou privados, que matam, inativam ou repelem organismos indesejáveis no ambiente, sobre objetos, superfícies inanimadas, ou em plantas. Incluem-se neste conceito os termos "inseticidas", "reguladores de crescimento", “moluscicidas" e "repelentes";
 - **Art. 2º, caput, inciso VII** {#art2_cpt_inc7} transportadora: empresas que executam o transporte;
-- **Art. 2º, caput, inciso VIII** {#art2_cpt_inc8} #transporte transporte: movimentação física de resíduos entre pontos diferentes;
-- **Art. 2º, caput, inciso IX** {#art2_cpt_inc9} #tratamento-residuo tratamento: o processo de transformação de natureza física, química ou biológica a que um resíduo sólido é submetido para minimização do risco à saúde pública e à qualidade do meio ambiente;
-- **Art. 2º, caput, inciso X** {#art2_cpt_inc10} #vetor vetores: artrópodes ou outros invertebrados que podem transmitir doenças, por meio de carreamento externo (transmissão passiva ou mecânica) ou interno (transmissão biológica) de microrganismos.
+- **Art. 2º, caput, inciso VIII** {#art2_cpt_inc8} transporte: movimentação física de resíduos entre pontos diferentes;
+- **Art. 2º, caput, inciso IX** {#art2_cpt_inc9} tratamento: o processo de transformação de natureza física, química ou biológica a que um resíduo sólido é submetido para minimização do risco à saúde pública e à qualidade do meio ambiente;
+- **Art. 2º, caput, inciso X** {#art2_cpt_inc10} vetores: artrópodes ou outros invertebrados que podem transmitir doenças, por meio de carreamento externo (transmissão passiva ou mecânica) ou interno (transmissão biológica) de microrganismos.
 
 ###### Art. 3º {#art3}
-Tags: #ambito-aplicacao #saneante-desinfestante #vetor #saude-publica
 
 **Art. 3º, caput** {#art3_cpt} Esta Resolução se aplica aos estabelecimentos públicos de saúde, vigilância em saúde e controle vetorial sob tutela do município e/ou do Estado do Paraná, especializados no controle de vetores, de uso restrito em saúde pública nos diversos ambientes e que utilizam saneantes desinfestantes domissanitários de uso restrito em saúde pública.
 
 ###### Art. 4º {#art4}
-Tags: #dispensa #licenciamento-ambiental #armazenamento-residuo #saneante-desinfestante #embalagem #abnt #prazo #vetor
 
 **Art. 4º, caput** {#art4_cpt} Fica Dispensado de Licenciamento Ambiental Estadual o armazenamento temporário de saneantes desinfestantes domissanitários vencidos ou não utilizados, de uso restrito e suas embalagens pós-consumo, voltados para o controle de vetores transmissores de doenças de relevância para a saúde pública, tais como dengue, zika, chikungunya, febre amarela urbana, doença de chagas, malária e leishmanioses, dentre outras, desde que:
 
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} a área construída seja no máximo 20m² (vinte metros quadrados);
-- **Art. 4º, caput, inciso II** {#art4_cpt_inc2} #abnt a construção destinada ao armazenamento temporário obedeça às regras de construção contidas nas NBRs 11174/1990 e 12235/1992;
-- **Art. 4º, caput, inciso III** {#art4_cpt_inc3} #prazo o período destinado ao armazenamento temporário não seja superior ao prazo de um ano.
+- **Art. 4º, caput, inciso II** {#art4_cpt_inc2} a construção destinada ao armazenamento temporário obedeça às regras de construção contidas nas NBRs 11174/1990 e 12235/1992;
+- **Art. 4º, caput, inciso III** {#art4_cpt_inc3} o período destinado ao armazenamento temporário não seja superior ao prazo de um ano.
 
 ###### Art. 5º {#art5}
-Tags: #dispensa #autorizacao-ambiental #coleta #transporte #saneante-desinfestante #embalagem #abnt #vetor
 
 **Art. 5º, caput** {#art5_cpt} Fica dispensada de Autorização Ambiental, sem prejuízo ao licenciamento ambiental, a atividade de coleta e transporte de saneantes desinfestantes domissanitários vencidos ou não utilizados, de uso restrito para a saúde pública e suas embalagens pós?consumo, destinadas ao controle de vetores transmissores de doenças de relevância para a saúde pública, tais como dengue, zika, chikungunya, febre amarela urbana, doença de chagas, malária e leshimanioses, dentre outras, gerados exclusivamente pela Secretaria de Estado da Saúde, do local de geração até a área destinada ao seu armazenamento temporário, desde que atenda às diretrizes da ABNT/NBR 13221/2003.
 
 ###### Art. 6º {#art6}
-Tags: #licenciamento-ambiental #autorizacao-ambiental #transporte #destinacao-final #armazenamento-residuo #saneante-desinfestante
 
 **Art. 6º, caput** {#art6_cpt} Estão sujeitos ao licenciamento e autorização ambiental as atividades de transporte e destinação final dos resíduos dos saneantes desinfestantes domissanitários vencidos ou não utilizados, de uso restrito, e de suas embalagens pós-consumo, que se encontram armazenados nas unidades de armazenamento temporário a que se referem esta Resolução.
 
 ###### Art. 7º {#art7}
-Tags: #vigencia
 
 **Art. 7º, caput** {#art7_cpt} Esta Resolução entra em vigor na data de sua publicação.
 

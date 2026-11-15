@@ -36,14 +36,12 @@ fonte: "Planalto (Presidência da República – Casa Civil), impressão do nave
 ## CAPÍTULO I – DIRETRIZES GERAIS
 
 ###### Art. 1º {#art1}
-Tags: #politica-urbana
 
 **Art. 1º, caput** {#art1_cpt} Na execução da política urbana, de que tratam os [[constituicao-federal-1988#art182|arts. 182]] e [[constituicao-federal-1988#art183|183 da Constituição Federal]], será aplicado o previsto nesta Lei.
 
 **Art. 1º, parágrafo único** {#art1_par1u} Para todos os efeitos, esta Lei, denominada Estatuto da Cidade, estabelece normas de ordem pública e interesse social que regulam o uso da propriedade urbana em prol do bem coletivo, da segurança e do bem-estar dos cidadãos, bem como do equilíbrio ambiental.
 
 ###### Art. 2º {#art2}
-Tags: #politica-urbana #parcelamento-solo #regularizacao-fundiaria #area-risco #expansao-urbana
 Alterações: [[lei-federal-12608-2012|Lei nº 12.608, de 2012]] (incluído: inciso VI, alínea "h"); [[lei-federal-12836-2013|Lei nº 12.836, de 2013]] (incluído: inciso XVII); [[lei-federal-13116-2015|Lei nº 13.116, de 2015]] (incluído: inciso XVIII); [[lei-federal-13699-2018|Lei nº 13.699, de 2018]] (incluído: inciso XIX); [[lei-federal-14489-2022|Lei nº 14.489, de 2022]] (nova redação: inciso XX); [[lei-federal-15333-2026|Lei nº 15.333, de 2026]] (incluído: inciso XXI)
 
 **Art. 2º, caput** {#art2_cpt} A política urbana tem por objetivo ordenar o pleno desenvolvimento das funções sociais da cidade e da propriedade urbana, mediante as seguintes diretrizes gerais:
@@ -78,7 +76,6 @@ Alterações: [[lei-federal-12608-2012|Lei nº 12.608, de 2012]] (incluído: inc
 - **Art. 2º, caput, inciso XXI** {#art2_cpt_inc21} #incluido adequada construção, instalação, sinalização, higienização e conservação dos equipamentos públicos e privados de uso coletivo, com vistas à prevenção de acidentes e à proteção da saúde dos usuários. *(Incluído pela [[lei-federal-15333-2026|Lei nº 15.333, de 2026]])* *(Vigência)*
 
 ###### Art. 3º {#art3}
-Tags: #politica-urbana #saneamento #mobilidade-urbana
 Alterações: [[lei-federal-13146-2015|Lei nº 13.146, de 2015]] (nova redação: inciso III, inciso IV)
 
 **Art. 3º, caput** {#art3_cpt} Compete à União, entre outras atribuições de interesse da política urbana:
@@ -93,7 +90,6 @@ Alterações: [[lei-federal-13146-2015|Lei nº 13.146, de 2015]] (nova redação
 ### Seção I – Dos instrumentos em geral
 
 ###### Art. 4º {#art4}
-Tags: #plano-diretor #eiv #eia-rima #parcelamento-solo #usucapiao
 Alterações: [[lei-federal-11977-2009|Lei nº 11.977, de 2009]] (incluído: inciso V, alínea "t", inciso V, alínea "u")
 
 **Art. 4º, caput** {#art4_cpt} Para os fins desta Lei, serão utilizados, entre outros instrumentos:
@@ -144,7 +140,6 @@ Alterações: [[lei-federal-11977-2009|Lei nº 11.977, de 2009]] (incluído: inc
 ### Seção II – Do parcelamento, edificação ou utilização compulsórios
 
 ###### Art. 5º {#art5}
-Tags: #plano-diretor #parcelamento-solo
 
 **Art. 5º, caput** {#art5_cpt} Lei municipal específica para área incluída no plano diretor poderá determinar o parcelamento, a edificação ou a utilização compulsórios do solo urbano não edificado, subutilizado ou não utilizado, devendo fixar as condições e os prazos para implementação da referida obrigação.
 
@@ -165,14 +160,12 @@ Tags: #plano-diretor #parcelamento-solo
 **Art. 5º, § 5º** {#art5_par5} Em empreendimentos de grande porte, em caráter excepcional, a lei municipal específica a que se refere o caput poderá prever a conclusão em etapas, assegurando-se que o projeto aprovado compreenda o empreendimento como um todo.
 
 ###### Art. 6º {#art6}
-Tags: #parcelamento-solo
 
 **Art. 6º, caput** {#art6_cpt} A transmissão do imóvel, por ato inter vivos ou causa mortis, posterior à data da notificação, transfere as obrigações de parcelamento, edificação ou utilização previstas no art. [[#art5|5o]] desta Lei, sem interrupção de quaisquer prazos.
 
 ### Seção III – Do IPTU progressivo no tempo
 
 ###### Art. 7º {#art7}
-Tags:
 
 **Art. 7º, caput** {#art7_cpt} Em caso de descumprimento das condições e dos prazos previstos na forma do caput do art. [[#art5|5o]] desta Lei, ou não sendo cumpridas as etapas previstas no § 5o do art. [[#art5|5o]] desta Lei, o Município procederá à aplicação do imposto sobre a propriedade predial e territorial urbana (IPTU) progressivo no tempo, mediante a majoração da alíquota pelo prazo de cinco anos consecutivos.
 
@@ -185,7 +178,6 @@ Tags:
 ### Seção IV – Da desapropriação com pagamento em títulos
 
 ###### Art. 8º {#art8}
-Tags: #parcelamento-solo
 
 **Art. 8º, caput** {#art8_cpt} Decorridos cinco anos de cobrança do IPTU progressivo sem que o proprietário tenha cumprido a obrigação de parcelamento, edificação ou utilização, o Município poderá proceder à desapropriação do imóvel, com pagamento em títulos da dívida pública.
 
@@ -206,7 +198,6 @@ Tags: #parcelamento-solo
 ### Seção V – Da usucapião especial de imóvel urbano
 
 ###### Art. 9º {#art9}
-Tags:
 
 **Art. 9º, caput** {#art9_cpt} Aquele que possuir como sua área ou edificação urbana de até duzentos e cinqüenta metros quadrados, por cinco anos, ininterruptamente e sem oposição, utilizando-a para sua moradia ou de sua família, adquirir-lhe-á o domínio, desde que não seja proprietário de outro imóvel urbano ou rural.
 
@@ -217,7 +208,6 @@ Tags:
 **Art. 9º, § 3º** {#art9_par3} Para os efeitos deste artigo, o herdeiro legítimo continua, de pleno direito, a posse de seu antecessor, desde que já resida no imóvel por ocasião da abertura da sucessão.
 
 ###### Art. 10 {#art10}
-Tags: #usucapiao
 
 **Art. 10, caput** {#art10_cpt} #redacao-alterada Os núcleos urbanos informais existentes sem oposição há mais de cinco anos e cuja área total dividida pelo número de possuidores seja inferior a duzentos e cinquenta metros quadrados por possuidor são suscetíveis de serem usucapidos coletivamente, desde que os possuidores não sejam proprietários de outro imóvel urbano ou rural. *(Redação dada pela lei nº 13.465, de 2017)*
 
@@ -232,12 +222,10 @@ Tags: #usucapiao
 **Art. 10, § 5º** {#art10_par5} As deliberações relativas à administração do condomínio especial serão tomadas por maioria de votos dos condôminos presentes, obrigando também os demais, discordantes ou ausentes.
 
 ###### Art. 11 {#art11}
-Tags: #usucapiao
 
 **Art. 11, caput** {#art11_cpt} Na pendência da ação de usucapião especial urbana, ficarão sobrestadas quaisquer outras ações, petitórias ou possessórias, que venham a ser propostas relativamente ao imóvel usucapiendo.
 
 ###### Art. 12 {#art12}
-Tags: #usucapiao
 
 **Art. 12, caput** {#art12_cpt} São partes legítimas para a propositura da ação de usucapião especial urbana:
 - **Art. 12, caput, inciso I** {#art12_cpt_inc1} o possuidor, isoladamente ou em litisconsórcio originário ou superveniente;
@@ -249,51 +237,42 @@ Tags: #usucapiao
 **Art. 12, § 2º** {#art12_par2} O autor terá os benefícios da justiça e da assistência judiciária gratuita, inclusive perante o cartório de registro de imóveis.
 
 ###### Art. 13 {#art13}
-Tags: #usucapiao
 
 **Art. 13, caput** {#art13_cpt} A usucapião especial de imóvel urbano poderá ser invocada como matéria de defesa, valendo a sentença que a reconhecer como título para registro no cartório de registro de imóveis.
 
 ###### Art. 14 {#art14}
-Tags: #usucapiao
 
 **Art. 14, caput** {#art14_cpt} Na ação judicial de usucapião especial de imóvel urbano, o rito processual a ser observado é o sumário.
 
 ### Seção VI – Da concessão de uso especial para fins de moradia
 
 ###### Art. 15 {#art15}
-Tags:
 
 **Art. 15, caput** {#art15_cpt} (VETADO)
 
 ###### Art. 16 {#art16}
-Tags:
 
 **Art. 16, caput** {#art16_cpt} (VETADO)
 
 ###### Art. 17 {#art17}
-Tags:
 
 **Art. 17, caput** {#art17_cpt} (VETADO)
 
 ###### Art. 18 {#art18}
-Tags:
 
 **Art. 18, caput** {#art18_cpt} (VETADO)
 
 ###### Art. 19 {#art19}
-Tags:
 
 **Art. 19, caput** {#art19_cpt} (VETADO)
 
 ###### Art. 20 {#art20}
-Tags:
 
 **Art. 20, caput** {#art20_cpt} (VETADO)
 
 ### Seção VII – Do direito de superfície
 
 ###### Art. 21 {#art21}
-Tags:
 
 **Art. 21, caput** {#art21_cpt} O proprietário urbano poderá conceder a outrem o direito de superfície do seu terreno, por tempo determinado ou indeterminado, mediante escritura pública registrada no cartório de registro de imóveis.
 
@@ -308,19 +287,16 @@ Tags:
 **Art. 21, § 5º** {#art21_par5} Por morte do superficiário, os seus direitos transmitem-se a seus herdeiros.
 
 ###### Art. 22 {#art22}
-Tags:
 
 **Art. 22, caput** {#art22_cpt} Em caso de alienação do terreno, ou do direito de superfície, o superficiário e o proprietário, respectivamente, terão direito de preferência, em igualdade de condições à oferta de terceiros.
 
 ###### Art. 23 {#art23}
-Tags:
 
 **Art. 23, caput** {#art23_cpt} Extingue-se o direito de superfície:
 - **Art. 23, caput, inciso I** {#art23_cpt_inc1} pelo advento do termo;
 - **Art. 23, caput, inciso II** {#art23_cpt_inc2} pelo descumprimento das obrigações contratuais assumidas pelo superficiário.
 
 ###### Art. 24 {#art24}
-Tags:
 
 **Art. 24, caput** {#art24_cpt} Extinto o direito de superfície, o proprietário recuperará o pleno domínio do terreno, bem como das acessões e benfeitorias introduzidas no imóvel, independentemente de indenização, se as partes não houverem estipulado o contrário no respectivo contrato.
 
@@ -331,7 +307,6 @@ Tags:
 ### Seção VIII – Do direito de preempção
 
 ###### Art. 25 {#art25}
-Tags: #plano-diretor #direito-preempcao
 
 **Art. 25, caput** {#art25_cpt} O direito de preempção confere ao Poder Público municipal preferência para aquisição de imóvel urbano objeto de alienação onerosa entre particulares.
 
@@ -340,7 +315,6 @@ Tags: #plano-diretor #direito-preempcao
 **Art. 25, § 2º** {#art25_par2} O direito de preempção fica assegurado durante o prazo de vigência fixado na forma do § 1o, independentemente do número de alienações referentes ao mesmo imóvel.
 
 ###### Art. 26 {#art26}
-Tags: #direito-preempcao #regularizacao-fundiaria #expansao-urbana
 
 **Art. 26, caput** {#art26_cpt} O direito de preempção será exercido sempre que o Poder Público necessitar de áreas para:
 - **Art. 26, caput, inciso I** {#art26_cpt_inc1} regularização fundiária;
@@ -356,7 +330,6 @@ Tags: #direito-preempcao #regularizacao-fundiaria #expansao-urbana
 **Art. 26, parágrafo único** {#art26_par1u} A lei municipal prevista no § 1o do art. [[#art25|25]] desta Lei deverá enquadrar cada área em que incidirá o direito de preempção em uma ou mais das finalidades enumeradas por este artigo.
 
 ###### Art. 27 {#art27}
-Tags:
 
 **Art. 27, caput** {#art27_cpt} O proprietário deverá notificar sua intenção de alienar o imóvel, para que o Município, no prazo máximo de trinta dias, manifeste por escrito seu interesse em comprá-lo.
 
@@ -375,7 +348,6 @@ Tags:
 ### Seção IX – Da outorga onerosa do direito de construir
 
 ###### Art. 28 {#art28}
-Tags: #plano-diretor
 
 **Art. 28, caput** {#art28_cpt} O plano diretor poderá fixar áreas nas quais o direito de construir poderá ser exercido acima do coeficiente de aproveitamento básico adotado, mediante contrapartida a ser prestada pelo beneficiário.
 
@@ -386,12 +358,10 @@ Tags: #plano-diretor
 **Art. 28, § 3º** {#art28_par3} O plano diretor definirá os limites máximos a serem atingidos pelos coeficientes de aproveitamento, considerando a proporcionalidade entre a infra-estrutura existente e o aumento de densidade esperado em cada área.
 
 ###### Art. 29 {#art29}
-Tags: #plano-diretor
 
 **Art. 29, caput** {#art29_cpt} O plano diretor poderá fixar áreas nas quais poderá ser permitida alteração de uso do solo, mediante contrapartida a ser prestada pelo beneficiário.
 
 ###### Art. 30 {#art30}
-Tags: #outorga-onerosa
 
 **Art. 30, caput** {#art30_cpt} Lei municipal específica estabelecerá as condições a serem observadas para a outorga onerosa do direito de construir e de alteração de uso, determinando:
 - **Art. 30, caput, inciso I** {#art30_cpt_inc1} a fórmula de cálculo para a cobrança;
@@ -399,14 +369,12 @@ Tags: #outorga-onerosa
 - **Art. 30, caput, inciso III** {#art30_cpt_inc3} a contrapartida do beneficiário.
 
 ###### Art. 31 {#art31}
-Tags: #outorga-onerosa
 
 **Art. 31, caput** {#art31_cpt} Os recursos auferidos com a adoção da outorga onerosa do direito de construir e de alteração de uso serão aplicados com as finalidades previstas nos incisos I a IX do art. [[#art26|26]] desta Lei.
 
 ### Seção X – Das operações urbanas consorciadas
 
 ###### Art. 32 {#art32}
-Tags: #plano-diretor #parcelamento-solo #operacao-urbana-consorciada
 Alterações: [[lei-federal-12836-2013|Lei nº 12.836, de 2013]] (incluído: § 2º, inciso III)
 
 **Art. 32, caput** {#art32_cpt} Lei municipal específica, baseada no plano diretor, poderá delimitar área para aplicação de operações consorciadas.
@@ -419,7 +387,6 @@ Alterações: [[lei-federal-12836-2013|Lei nº 12.836, de 2013]] (incluído: § 
 - **Art. 32, § 2º, inciso III** {#art32_par2_inc3} #incluido a concessão de incentivos a operações urbanas que utilizam tecnologias visando a redução de impactos ambientais, e que comprovem a utilização, nas construções e uso de edificações urbanas, de tecnologias que reduzam os impactos ambientais e economizem recursos naturais, especificadas as modalidades de design e de obras a serem contempladas. *(Incluído pela [[lei-federal-12836-2013|Lei nº 12.836, de 2013]])*
 
 ###### Art. 33 {#art33}
-Tags: #eiv #operacao-urbana-consorciada
 Alterações: [[lei-federal-12836-2013|Lei nº 12.836, de 2013]] (nova redação: inciso VI; incluído: inciso VIII)
 
 **Art. 33, caput** {#art33_cpt} Da lei específica que aprovar a operação urbana consorciada constará o plano de operação urbana consorciada, contendo, no mínimo:
@@ -437,7 +404,6 @@ Alterações: [[lei-federal-12836-2013|Lei nº 12.836, de 2013]] (nova redação
 **Art. 33, § 2º** {#art33_par2} A partir da aprovação da lei específica de que trata o caput, são nulas as licenças e autorizações a cargo do Poder Público municipal expedidas em desacordo com o plano de operação urbana consorciada.
 
 ###### Art. 34 {#art34}
-Tags: #operacao-urbana-consorciada
 
 **Art. 34, caput** {#art34_cpt} A lei específica que aprovar a operação urbana consorciada poderá prever a emissão pelo Município de quantidade determinada de certificados de potencial adicional de construção, que serão alienados em leilão ou utilizados diretamente no pagamento das obras necessárias à própria operação.
 
@@ -446,7 +412,6 @@ Tags: #operacao-urbana-consorciada
 **Art. 34, § 2º** {#art34_par2} Apresentado pedido de licença para construir, o certificado de potencial adicional será utilizado no pagamento da área de construção que supere os padrões estabelecidos pela legislação de uso e ocupação do solo, até o limite fixado pela lei específica que aprovar a operação urbana consorciada.
 
 ###### Art. 34-A {#art34-a}
-Tags: #operacao-urbana-consorciada
 Alterações: [[lei-federal-13089-2015|Lei nº 13.089, de 2015]] (incluído: caput, parágrafo único)
 
 **Art. 34-A, caput** {#art34-a_cpt} #incluido Nas regiões metropolitanas ou nas aglomerações urbanas instituídas por lei complementar estadual, poderão ser realizadas operações urbanas consorciadas interfederativas, aprovadas por leis estaduais específicas. *(Incluído pela [[lei-federal-13089-2015|Lei nº 13.089, de 2015]])*
@@ -456,7 +421,6 @@ Alterações: [[lei-federal-13089-2015|Lei nº 13.089, de 2015]] (incluído: cap
 ### Seção XI – Da transferência do direito de construir
 
 ###### Art. 35 {#art35}
-Tags: #plano-diretor #transferencia-direito-construir #regularizacao-fundiaria
 
 **Art. 35, caput** {#art35_cpt} Lei municipal, baseada no plano diretor, poderá autorizar o proprietário de imóvel urbano, privado ou público, a exercer em outro local, ou alienar, mediante escritura pública, o direito de construir previsto no plano diretor ou em legislação urbanística dele decorrente, quando o referido imóvel for considerado necessário para fins de:
 - **Art. 35, caput, inciso I** {#art35_cpt_inc1} implantação de equipamentos urbanos e comunitários;
@@ -470,12 +434,10 @@ Tags: #plano-diretor #transferencia-direito-construir #regularizacao-fundiaria
 ### Seção XII – Do estudo de impacto de vizinhança
 
 ###### Art. 36 {#art36}
-Tags: #eiv
 
 **Art. 36, caput** {#art36_cpt} Lei municipal definirá os empreendimentos e atividades privados ou públicos em área urbana que dependerão de elaboração de estudo prévio de impacto de vizinhança (EIV) para obter as licenças ou autorizações de construção, ampliação ou funcionamento a cargo do Poder Público municipal.
 
 ###### Art. 37 {#art37}
-Tags: #eiv #patrimonio-cultural #mobilidade-urbana
 Alterações: [[lei-federal-14849-2024|Lei nº 14.849, de 2024]] (nova redação: inciso V)
 
 **Art. 37, caput** {#art37_cpt} O EIV será executado de forma a contemplar os efeitos positivos e negativos do empreendimento ou atividade quanto à qualidade de vida da população residente na área e suas proximidades, incluindo a análise, no mínimo, das seguintes questões:
@@ -490,19 +452,16 @@ Alterações: [[lei-federal-14849-2024|Lei nº 14.849, de 2024]] (nova redação
 **Art. 37, parágrafo único** {#art37_par1u} Dar-se-á publicidade aos documentos integrantes do EIV, que ficarão disponíveis para consulta, no órgão competente do Poder Público municipal, por qualquer interessado.
 
 ###### Art. 38 {#art38}
-Tags: #eiv #eia-rima
 
 **Art. 38, caput** {#art38_cpt} A elaboração do EIV não substitui a elaboração e a aprovação de estudo prévio de impacto ambiental (EIA), requeridas nos termos da legislação ambiental.
 
 ## CAPÍTULO III – DO PLANO DIRETOR
 
 ###### Art. 39 {#art39}
-Tags: #plano-diretor
 
 **Art. 39, caput** {#art39_cpt} A propriedade urbana cumpre sua função social quando atende às exigências fundamentais de ordenação da cidade expressas no plano diretor, assegurando o atendimento das necessidades dos cidadãos quanto à qualidade de vida, à justiça social e ao desenvolvimento das atividades econômicas, respeitadas as diretrizes previstas no art. [[#art2|2o]] desta Lei.
 
 ###### Art. 40 {#art40}
-Tags: #plano-diretor #expansao-urbana #participacao-publica
 
 **Art. 40, caput** {#art40_cpt} O plano diretor, aprovado por lei municipal, é o instrumento básico da política de desenvolvimento e expansão urbana.
 
@@ -520,7 +479,6 @@ Tags: #plano-diretor #expansao-urbana #participacao-publica
 **Art. 40, § 5º** {#art40_par5} (VETADO)
 
 ###### Art. 41 {#art41}
-Tags: #plano-diretor #area-risco #mobilidade-urbana
 Alterações: [[lei-federal-12608-2012|Lei nº 12.608, de 2012]] (incluído: inciso VI); [[lei-federal-13146-2015|Lei nº 13.146, de 2015]] (incluído: § 3º)
 
 **Art. 41, caput** {#art41_cpt} O plano diretor é obrigatório para cidades:
@@ -538,7 +496,6 @@ Alterações: [[lei-federal-12608-2012|Lei nº 12.608, de 2012]] (incluído: inc
 **Art. 41, § 3º** {#art41_par3} #incluido As cidades de que trata o caput deste artigo devem elaborar plano de rotas acessíveis, compatível com o plano diretor no qual está inserido, que disponha sobre os passeios públicos a serem implantados ou reformados pelo poder público, com vistas a garantir acessibilidade da pessoa com deficiência ou com mobilidade reduzida a todas as rotas e vias existentes, inclusive as que concentrem os focos geradores de maior circulação de pedestres, como os órgãos públicos e os locais de prestação de serviços públicos e privados de saúde, educação, assistência social, esporte, cultura, correios e telégrafos, bancos, entre outros, sempre que possível de maneira integrada com os sistemas de transporte coletivo de passageiros. *(Incluído pela [[lei-federal-13146-2015|Lei nº 13.146, de 2015]])* *(Vigência)*
 
 ###### Art. 42 {#art42}
-Tags: #plano-diretor #parcelamento-solo
 
 **Art. 42, caput** {#art42_cpt} O plano diretor deverá conter no mínimo:
 - **Art. 42, caput, inciso I** {#art42_cpt_inc1} a delimitação das áreas urbanas onde poderá ser aplicado o parcelamento, edificação ou utilização compulsórios, considerando a existência de infra-estrutura e de demanda para utilização, na forma do art. [[#art5|5o]] desta Lei;
@@ -546,7 +503,6 @@ Tags: #plano-diretor #parcelamento-solo
 - **Art. 42, caput, inciso III** {#art42_cpt_inc3} sistema de acompanhamento e controle.
 
 ###### Art. 42-A {#art42-a}
-Tags: #plano-diretor #politica-urbana #parcelamento-solo #regularizacao-fundiaria #area-risco
 Alterações: [[lei-federal-12608-2012|Lei nº 12.608, de 2012]] (incluído: caput, inciso I, inciso II, inciso III, inciso IV, inciso V, § 1º, § 2º, § 3º, § 4º); [[lei-federal-12983-2014|Lei nº 12.983, de 2014]] (incluído: inciso VI)
 
 **Art. 42-A, caput** {#art42-a_cpt} #incluido Além do conteúdo previsto no art. [[#art42|42]], o plano diretor dos Municípios incluídos no cadastro nacional de municípios com áreas suscetíveis à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos correlatos deverá conter: *(Incluído pela [[lei-federal-12608-2012|Lei nº 12.608, de 2012]])*
@@ -566,7 +522,6 @@ Alterações: [[lei-federal-12608-2012|Lei nº 12.608, de 2012]] (incluído: cap
 **Art. 42-A, § 4º** {#art42-a_par4} #incluido Os Municípios enquadrados no inciso VI do art. [[#art41|41]] desta Lei e que não tenham plano diretor aprovado terão o prazo de 5 (cinco) anos para o seu encaminhamento para aprovação pela Câmara Municipal. *(Incluído pela [[lei-federal-12608-2012|Lei nº 12.608, de 2012]])*
 
 ###### Art. 42-B {#art42-b}
-Tags: #plano-diretor #politica-urbana #parcelamento-solo #expansao-urbana #patrimonio-cultural
 Alterações: [[lei-federal-12608-2012|Lei nº 12.608, de 2012]] (incluído: caput, inciso I, inciso II, inciso III, inciso IV, inciso V, inciso VI, § 1º, § 2º, § 3º); [[lei-federal-14729-2023|Lei nº 14.729, de 2023]] (incluído: inciso VIII)
 
 **Art. 42-B, caput** {#art42-b_cpt} #incluido Os Municípios que pretendam ampliar o seu perímetro urbano após a data de publicação desta Lei deverão elaborar projeto específico que contenha, no mínimo: *(Incluído pela [[lei-federal-12608-2012|Lei nº 12.608, de 2012]])*
@@ -588,7 +543,6 @@ Alterações: [[lei-federal-12608-2012|Lei nº 12.608, de 2012]] (incluído: cap
 ## CAPÍTULO IV – DA GESTÃO DEMOCRÁTICA DA CIDADE
 
 ###### Art. 43 {#art43}
-Tags: #politica-urbana #participacao-publica
 
 **Art. 43, caput** {#art43_cpt} Para garantir a gestão democrática da cidade, deverão ser utilizados, entre outros, os seguintes instrumentos:
 - **Art. 43, caput, inciso I** {#art43_cpt_inc1} órgãos colegiados de política urbana, nos níveis nacional, estadual e municipal;
@@ -598,19 +552,16 @@ Tags: #politica-urbana #participacao-publica
 - **Art. 43, caput, inciso V** {#art43_cpt_inc5} (VETADO)
 
 ###### Art. 44 {#art44}
-Tags: #participacao-publica
 
 **Art. 44, caput** {#art44_cpt} No âmbito municipal, a gestão orçamentária participativa de que trata a alínea f do inciso III do art. [[#art4|4o]] desta Lei incluirá a realização de debates, audiências e consultas públicas sobre as propostas do plano plurianual, da lei de diretrizes orçamentárias e do orçamento anual, como condição obrigatória para sua aprovação pela Câmara Municipal.
 
 ###### Art. 45 {#art45}
-Tags:
 
 **Art. 45, caput** {#art45_cpt} Os organismos gestores das regiões metropolitanas e aglomerações urbanas incluirão obrigatória e significativa participação da população e de associações representativas dos vários segmentos da comunidade, de modo a garantir o controle direto de suas atividades e o pleno exercício da cidadania.
 
 ## CAPÍTULO V – DISPOSIÇÕES GERAIS
 
 ###### Art. 46 {#art46}
-Tags: #regularizacao-fundiaria
 
 **Art. 46, caput** {#art46_cpt} #redacao-alterada O poder público municipal poderá facultar ao proprietário da área atingida pela obrigação de que trata o caput do art. [[#art5|5o]] desta Lei, ou objeto de regularização fundiária urbana para fins de regularização fundiária, o estabelecimento de consórcio imobiliário como forma de viabilização financeira do aproveitamento do imóvel. *(Redação dada pela lei nº 13.465, de 2017)*
 
@@ -621,37 +572,31 @@ Tags: #regularizacao-fundiaria
 **Art. 46, § 3º** {#art46_par3} A instauração do consórcio imobiliário por proprietários que tenham dado causa à formação de núcleos urbanos informais, ou por seus sucessores, não os eximirá das responsabilidades administrativa, civil ou criminal (incluído pela lei nº 13.465, de 2017)
 
 ###### Art. 47 {#art47}
-Tags:
 
 **Art. 47, caput** {#art47_cpt} Os tributos sobre imóveis urbanos, assim como as tarifas relativas a serviços públicos urbanos, serão diferenciados em função do interesse social.
 
 ###### Art. 48 {#art48}
-Tags:
 
 **Art. 48, caput** {#art48_cpt} Nos casos de programas e projetos habitacionais de interesse social, desenvolvidos por órgãos ou entidades da Administração Pública com atuação específica nessa área, os contratos de concessão de direito real de uso de imóveis públicos:
 - **Art. 48, caput, inciso I** {#art48_cpt_inc1} terão, para todos os fins de direito, caráter de escritura pública, não se aplicando o disposto no inciso II do art. 134 do Código Civil;
 - **Art. 48, caput, inciso II** {#art48_cpt_inc2} constituirão título de aceitação obrigatória em garantia de contratos de financiamentos habitacionais.
 
 ###### Art. 49 {#art49}
-Tags: #parcelamento-solo
 
 **Art. 49, caput** {#art49_cpt} Os Estados e Municípios terão o prazo de noventa dias, a partir da entrada em vigor desta Lei, para fixar prazos, por lei, para a expedição de diretrizes de empreendimentos urbanísticos, aprovação de projetos de parcelamento e de edificação, realização de vistorias e expedição de termo de verificação e conclusão de obras.
 
 **Art. 49, parágrafo único** {#art49_par1u} Não sendo cumprida a determinação do caput, fica estabelecido o prazo de sessenta dias para a realização de cada um dos referidos atos administrativos, que valerá até que os Estados e Municípios disponham em lei de forma diversa.
 
 ###### Art. 50 {#art50}
-Tags: #plano-diretor
 Alterações: [[lei-federal-11673-2008|Lei nº 11.673, 2008]] (nova redação: caput)
 
 **Art. 50, caput** {#art50_cpt} #redacao-alterada Os Municípios que estejam enquadrados na obrigação prevista nos incisos I e II do caput do art. [[#art41|41]] desta Lei e que não tenham plano diretor aprovado na data de entrada em vigor desta Lei deverão aprová-lo até 30 de junho de 2008. *(Redação dada pela [[lei-federal-11673-2008|Lei nº 11.673, 2008]])* *(Vigência)*
 
 ###### Art. 51 {#art51}
-Tags:
 
 **Art. 51, caput** {#art51_cpt} Para os efeitos desta Lei, aplicam-se ao Distrito Federal e ao Governador do Distrito Federal as disposições relativas, respectivamente, a Município e a Prefeito.
 
 ###### Art. 52 {#art52}
-Tags: #outorga-onerosa #direito-preempcao #improbidade-administrativa
 
 **Art. 52, caput** {#art52_cpt} Sem prejuízo da punição de outros agentes públicos envolvidos e da aplicação de outras sanções cabíveis, o Prefeito incorre em improbidade administrativa, nos termos da [[lei-federal-8429-1992|Lei no 8.429, de 2 de junho de 1992]], quando:
 - **Art. 52, caput, inciso I** {#art52_cpt_inc1} (VETADO)
@@ -664,13 +609,11 @@ Tags: #outorga-onerosa #direito-preempcao #improbidade-administrativa
 - **Art. 52, caput, inciso VIII** {#art52_cpt_inc8} adquirir imóvel objeto de direito de preempção, nos termos dos arts. [[#art25|25]] a [[#art27|27]] desta Lei, pelo valor da proposta apresentada, se este for, comprovadamente, superior ao de mercado.
 
 ###### Art. 53 {#art53}
-Tags:
 Alterações: [[medida-provisoria-2180-35-2001|Medida Provisória nº 2.180-35, de 24.8.2001]] (revogado: caput)
 
 **Art. 53, caput** {#art53_cpt} #revogado *(Revogado pela [[medida-provisoria-2180-35-2001|Medida Provisória nº 2.180-35, de 24.8.2001]])*
 
 ###### Art. 54 {#art54}
-Tags:
 
 **Art. 54, caput** {#art54_cpt} O art. 4o da [[lei-federal-7347-1985|Lei nº 7.347, de 1985]], passa a vigorar com a seguinte redação:
 
@@ -678,7 +621,6 @@ Tags:
 > "Art. 4o Poderá ser ajuizada ação cautelar para os fins desta Lei, objetivando, inclusive, evitar o dano ao meio ambiente, ao consumidor, à ordem urbanística ou aos bens e direitos de valor artístico, estético, histórico, turístico e paisagístico (VETADO)." (NR)
 
 ###### Art. 55 {#art55}
-Tags:
 
 **Art. 55, caput** {#art55_cpt} O art. 167, inciso I, item 28, da [[lei-federal-6015-1973|Lei no 6.015, de 31 de dezembro de 1973]], alterado pela [[lei-federal-6216-1975|Lei no 6.216, de 30 de junho de 1975]], passa a vigorar com a seguinte redação:
 
@@ -694,7 +636,6 @@ Tags:
 > ........................................................." (NR)
 
 ###### Art. 56 {#art56}
-Tags:
 
 **Art. 56, caput** {#art56_cpt} O art. 167, inciso I, da [[lei-federal-6015-1973|Lei no 6.015, de 1973]], passa a vigorar acrescido dos seguintes itens 37, 38 e 39:
 
@@ -710,7 +651,6 @@ Tags:
 > 39) da constituição do direito de superfície de imóvel urbano;" (NR)
 
 ###### Art. 57 {#art57}
-Tags:
 
 **Art. 57, caput** {#art57_cpt} O art. 167, inciso II, da [[lei-federal-6015-1973|Lei no 6.015, de 1973]], passa a vigorar acrescido dos seguintes itens 18, 19 e 20:
 
@@ -726,7 +666,6 @@ Tags:
 > 20) da extinção do direito de superfície do imóvel urbano." (NR)
 
 ###### Art. 57-A {#art57-a}
-Tags: #plano-diretor
 Alterações: [[lei-federal-14273-2021|Lei nº 14.273, de 2021]] (incluído: caput, parágrafo único)
 
 **Art. 57-A, caput** {#art57-a_cpt} #incluido A operadora ferroviária, inclusive metroferroviária, poderá constituir o direito real de laje de que trata a [[lei-federal-10406-2002|Lei nº 10.406, de 10 de janeiro de 2002]] (Código Civil), e o de superfície de que trata esta Lei, sobre ou sob a faixa de domínio de sua via férrea, observado o plano diretor e o respectivo contrato de outorga com o poder concedente. *(Incluído pela [[lei-federal-14273-2021|Lei nº 14.273, de 2021]])* *(Vigência)*
@@ -734,7 +673,6 @@ Alterações: [[lei-federal-14273-2021|Lei nº 14.273, de 2021]] (incluído: cap
 **Art. 57-A, parágrafo único** {#art57-a_par1u} #incluido A constituição do direito real de laje ou de superfície a que se refere o caput deste artigo é condicionada à existência prévia de licenciamento urbanístico municipal, que estabelecerá os ônus urbanísticos a serem observados e o direito de construir incorporado a cada unidade imobiliária. *(Incluído pela [[lei-federal-14273-2021|Lei nº 14.273, de 2021]])* *(Vigência)*
 
 ###### Art. 58 {#art58}
-Tags:
 
 **Art. 58, caput** {#art58_cpt} Esta Lei entra em vigor após decorridos noventa dias de sua publicação.
 

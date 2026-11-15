@@ -33,21 +33,18 @@ fonte: "Planalto (Presidência da República – Casa Civil), impressão do nave
 **Preâmbulo** {#preambulo} Faço saber que o PRESIDENTE DA REPÚBLICA adotou a [[medida-provisoria-136-1990|Medida Provisória nº 136, de 1990]], que o Congresso Nacional aprovou, e eu, NELSON CARNEIRO, Presidente do Senado Federal, para os efeitos do disposto no parágrafo único do art. 62 da Constituição Federal, promulgo a seguinte lei:
 
 ###### Art. 1º {#art1}
-Tags: #divida-ativa #multa #ibama
 
 **Art. 1º, caput** {#art1_cpt} Compete ao Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) a cobrança administrativa, a inscrição em dívida ativa e a execução judicial das taxas e das contribuições que lhe são devidas, bem assim das penalidades pecuniárias que impuser, no exercício das atribuições que lhe foram conferidas pelos arts. 2º e 4º da [[lei-federal-7735-1989|Lei nº 7.735, de 22 de fevereiro de 1989]], e legislação posterior.
 
 **Art. 1º, parágrafo único** {#art1_par1u} A inscrição em dívida ativa (art. 2º, § 3º, da [[lei-federal-6830-1980|Lei nº 6.830, de 22 de setembro de 1980]]) e sua cobrança administrativa ou judicial competem à Procuradoria Jurídica do Ibama.
 
 ###### Art. 2º {#art2}
-Tags: #multa #ibama #taxa-licenciamento
 
 **Art. 2º, caput** {#art2_cpt} Passam a ser expressos em número do Bônus do Tesouro Nacional (BTN) os valores das taxas de licenciamento, autorização ou equivalentes, das contribuições e das penalidades pecuniárias devidas ao Ibama.
 
 **Art. 2º, parágrafo único** {#art2_par1u} Para os fins deste artigo, os atuais valores monetários, corrigidos até 31 de janeiro de 1990, serão divididos pelo valor do BTN referente ao mês de fevereiro de 1990.
 
 ###### Art. 3º {#art3}
-Tags: #multa #auto-infracao
 
 **Art. 3º, caput** {#art3_cpt} As penalidades pecuniárias serão impostas mediante auto de infração, com o prazo de 15 dias para impugnação ou pagamento.
 
@@ -56,7 +53,6 @@ Tags: #multa #auto-infracao
 **Art. 3º, § 2º** {#art3_par2} No mesmo prazo, o autuado poderá efetuar o pagamento com a redução de 30%, ou realizar o depósito do valor da autuação, nos termos do [[decreto-lei-federal-1737-1979|Decreto-Lei nº 1.737, de 20 de dezembro de 1979]].
 
 ###### Art. 4º {#art4}
-Tags: #multa
 
 **Art. 4º, caput** {#art4_cpt} Após o julgamento definitivo da infração, o autuado terá o prazo de 5 dias para efetuar o pagamento da penalidade corrigida na forma do § 1º do art. [[#art3|3º]], com a redução de 30%.
 
@@ -66,32 +62,26 @@ Tags: #multa
 - **Art. 4º, parágrafo único, alínea "c"** {#art4_par1u_alic} o encargo previsto no [[decreto-lei-federal-1025-1969|Decreto-Lei nº 1.025, de 21 de outubro de 1969]], e legislação posterior, quando couber.
 
 ###### Art. 5º {#art5}
-Tags: #divida-ativa
 
 **Art. 5º, caput** {#art5_cpt} Serão inscritos em dívida ativa os débitos não pagos no prazo de trinta dias, contados do julgamento final da infração, com os acréscimos referidos no parágrafo único do art. [[#art4|4º]].
 
 ###### Art. 6º {#art6}
-Tags: #divida-ativa #ibama
 
 **Art. 6º, caput** {#art6_cpt} O Presidente do Ibama baixará portaria disciplinando o procedimento administrativo para autuação, cobrança e inscrição na dívida ativa dos débitos a que se refere esta lei, assegurados o contraditório e o amplo direito de defesa.
 
 ###### Art. 7º {#art7}
-Tags:
 
 **Art. 7º, caput** {#art7_cpt} Aos débitos atualmente existentes, aplica-se o disposto no parágrafo único do art. [[#art2|2º]] e nos arts. [[#art4|4º]] e [[#art5|5º]] desta lei.
 
 ###### Art. 8º {#art8}
-Tags: #ibama #parcelamento
 
 **Art. 8º, caput** {#art8_cpt} Os débitos de que trata esta lei, mesmo quando em execução judicial, poderão ser parcelados em prestações mensais, sucessivas, e monetariamente corrigidas, segundo critérios estabelecidos pelo Presidente do Ibama.
 
 ###### Art. 9º {#art9}
-Tags:
 
 **Art. 9º, caput** {#art9_cpt} Esta lei entra em vigor na data de sua publicação.
 
 ###### Art. 10 {#art10}
-Tags:
 
 **Art. 10, caput** {#art10_cpt} Revogam-se as disposições em contrário.
 

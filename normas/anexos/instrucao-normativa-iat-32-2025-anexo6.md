@@ -19,66 +19,66 @@ fonte: PDF da IN IAT 32/2025, páginas 70 a 73
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo VI, linha 1** {#anexo6_lin1} #art-anotacao #responsavel-tecnico O Projeto de Controle da Poluição Ambiental deverá ser elaborado por técnico habilitado e apresentados para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo VI, linha 1** {#anexo6_lin1} O Projeto de Controle da Poluição Ambiental deverá ser elaborado por técnico habilitado e apresentados para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 - **Anexo VI, linha 2** {#anexo6_lin2} 1. DADOS CADASTRAIS
 - **Anexo VI, linha 3** {#anexo6_lin3} − Razão social;
-- **Anexo VI, linha 4** {#anexo6_lin4} #cnpj − CNPJ;
+- **Anexo VI, linha 4** {#anexo6_lin4} − CNPJ;
 - **Anexo VI, linha 5** {#anexo6_lin5} − Endereço;
-- **Anexo VI, linha 6** {#anexo6_lin6} #responsavel-legal − Nome do representante legal;
-- **Anexo VI, linha 7** {#anexo6_lin7} #responsavel-legal − Telefone do representante legal;
-- **Anexo VI, linha 8** {#anexo6_lin8} #responsavel-legal − E-mail do representante legal;
+- **Anexo VI, linha 6** {#anexo6_lin6} − Nome do representante legal;
+- **Anexo VI, linha 7** {#anexo6_lin7} − Telefone do representante legal;
+- **Anexo VI, linha 8** {#anexo6_lin8} − E-mail do representante legal;
 - **Anexo VI, linha 9** {#anexo6_lin9} − Pessoa para contato;
 - **Anexo VI, linha 10** {#anexo6_lin10} − Telefone da pessoa para contato;
 - **Anexo VI, linha 11** {#anexo6_lin11} − E-mail da pessoa para contato.
-- **Anexo VI, linha 12** {#anexo6_lin12} #responsavel-tecnico 2. DADOS DO RESPOSNÁVEL TÉCNICO PELO PCPA
-- **Anexo VI, linha 13** {#anexo6_lin13} #responsavel-tecnico − Nome
-- **Anexo VI, linha 14** {#anexo6_lin14} #responsavel-tecnico − Formação profissional
-- **Anexo VI, linha 15** {#anexo6_lin15} #responsavel-tecnico #conselho-classe − Número do registro no respectivo Conselho de Classe
-- **Anexo VI, linha 16** {#anexo6_lin16} #ctf #ibama − Número do Cadastro Técnico Federal (IBAMA)
-- **Anexo VI, linha 17** {#anexo6_lin17} #art-anotacao #responsavel-tecnico − Número da Anotação de Responsabilidade Técnica.
+- **Anexo VI, linha 12** {#anexo6_lin12} 2. DADOS DO RESPOSNÁVEL TÉCNICO PELO PCPA
+- **Anexo VI, linha 13** {#anexo6_lin13} − Nome
+- **Anexo VI, linha 14** {#anexo6_lin14} − Formação profissional
+- **Anexo VI, linha 15** {#anexo6_lin15} − Número do registro no respectivo Conselho de Classe
+- **Anexo VI, linha 16** {#anexo6_lin16} − Número do Cadastro Técnico Federal (IBAMA)
+- **Anexo VI, linha 17** {#anexo6_lin17} − Número da Anotação de Responsabilidade Técnica.
 - **Anexo VI, linha 18** {#anexo6_lin18} 3. DESCRIÇÃO DA ATIVIDADE/EMPREENDIMENTO
 - **Anexo VI, linha 19** {#anexo6_lin19} 3.1. Concepção e justificativa de projeto
 - **Anexo VI, linha 20** {#anexo6_lin20} Devem ser apresentadas a concepção e a metodologia de operação, justificando face às suas finalidades.
 - **Anexo VI, linha 21** {#anexo6_lin21} 3.2. Informações sobre a área do projeto:
 - **Anexo VI, linha 22** {#anexo6_lin22} Devem ser apresentadas as seguintes informações sobre a área do projeto: área total, área utilizada e área livre.
 - **Anexo VI, linha 23** {#anexo6_lin23} 3.3. Caracterização do empreendimento
-- **Anexo VI, linha 24** {#anexo6_lin24} #armazenamento-residuo − Fluxograma e descrição detalhada do processo: Apresentar uma descrição da atividade, bem como um fluxograma detalhado da operação, contendo todas as atividades realizadas no empreendimento.
-- **Anexo VI, linha 25** {#anexo6_lin25} #armazenamento-residuo − Descrever estruturas destinadas ao armazenamento temporário, com a capacidade estática de cada unidade;
+- **Anexo VI, linha 24** {#anexo6_lin24} − Fluxograma e descrição detalhada do processo: Apresentar uma descrição da atividade, bem como um fluxograma detalhado da operação, contendo todas as atividades realizadas no empreendimento.
+- **Anexo VI, linha 25** {#anexo6_lin25} − Descrever estruturas destinadas ao armazenamento temporário, com a capacidade estática de cada unidade;
 - **Anexo VI, linha 26** {#anexo6_lin26} − Descrever todas as estruturas de apoio;
-- **Anexo VI, linha 27** {#anexo6_lin27} #classificacao-residuo #residuo-perigoso #residuo-nao-perigoso #ibama #abnt #acondicionamento − Apresentar descrição dos resíduos a serem recebidos no local: tipologia, classificação conforme [[instrucao-normativa-ibama-13-2012|IN 13/2012 do Ibama]], classificação conforme ABNT NBR 10004, estado físico, forma de acondicionamento e forma de armazenamento temporário no local;
-- **Anexo VI, linha 28** {#anexo6_lin28} #classificacao-residuo #laboratorio − Descrever os parâmetros que serão analisados em cada resíduo;
-- **Anexo VI, linha 29** {#anexo6_lin29} #armazenamento-residuo 3.4. Projeto do armazenamento temporário de resíduos
-- **Anexo VI, linha 30** {#anexo6_lin30} #armazenamento-residuo − Formas de armazenamento dos resíduos;
-- **Anexo VI, linha 31** {#anexo6_lin31} #armazenamento-residuo − Detalhamento das áreas de armazenamento dos resíduos;
-- **Anexo VI, linha 32** {#anexo6_lin32} #armazenamento-residuo − Capacidade estática de cada área de armazenamento;
-- **Anexo VI, linha 33** {#anexo6_lin33} #impermeabilizacao − Sistema de impermeabilização, com material compatível com os resíduos; a serem armazenados;
-- **Anexo VI, linha 34** {#anexo6_lin34} #contencao − Sistema de contenção;
-- **Anexo VI, linha 35** {#anexo6_lin35} #sistema-isolamento − Sistema de isolamento;
-- **Anexo VI, linha 36** {#anexo6_lin36} #contencao #residuo-liquido #agua-pluvial − Sistema de drenagem e armazenamento de líquidos, caso necessário;
-- **Anexo VI, linha 37** {#anexo6_lin37} #obra-civil 3.5. Informações referente à implantação: descrição das intervenções previstas para implantação do empreendimento, infraestrutura necessária (canteiro do obras).
-- **Anexo VI, linha 38** {#anexo6_lin38} #controle-ambiental 4. PROJETO DE CONTROLE DA POLUIÇÃO AMBIENTAL
-- **Anexo VI, linha 39** {#anexo6_lin39} #captacao 4.1. Abastecimento de água
-- **Anexo VI, linha 40** {#anexo6_lin40} #captacao Apresentar informações referentes ao abastecimento de água para o empreendimento: origem, volume utilizado, formas usos e tratamento.
-- **Anexo VI, linha 41** {#anexo6_lin41} #efluente 4.2. Efluentes Líquidos
-- **Anexo VI, linha 42** {#anexo6_lin42} #efluente #tratamento-efluente Identificar os efluentes líquidos gerados na implantação e operação do empreendimento. Descrever os sistemas de controle ambiental associados aos efluentes líquidos, descrevendo as condições de coleta, armazenamento, tratamento e destinação final.
-- **Anexo VI, linha 43** {#anexo6_lin43} #esgoto-sanitario 4.3. Efluente sanitário
-- **Anexo VI, linha 44** {#anexo6_lin44} #esgoto-sanitario #tratamento-esgoto #dimensionamento #abnt Descrição do sistema de coleta, tratamento e destinação final dos efluentes sanitários gerados na implantação e operação do sistema. Apresentar dimensionamento em conformidade com as normas técnicas específicas da ABNT NBR 17076.
-- **Anexo VI, linha 45** {#anexo6_lin45} #residuo-solido 4.4. Resíduos sólidos
-- **Anexo VI, linha 46** {#anexo6_lin46} #residuo-solido #gerenciamento-residuo #armazenamento-residuo #destinacao-final Descrever os sistemas de controle ambiental para o gerenciamento dos resíduos sólidos gerados na operação do empreendimento, detalhando tipos de resíduos, armazenamento e destinação final dos resíduos sólidos.
-- **Anexo VI, linha 47** {#anexo6_lin47} #residuo-construcao-civil 4.5. Resíduos da construção civil
-- **Anexo VI, linha 48** {#anexo6_lin48} #residuo-construcao-civil Referente aos resíduos gerados durante a etapa de instalação:
-- **Anexo VI, linha 49** {#anexo6_lin49} #residuo-construcao-civil − Caracterização e quantificação dos resíduos gerados nas etapas de construção civil e/ou instalação;
-- **Anexo VI, linha 50** {#anexo6_lin50} #residuo-construcao-civil #segregacao − Descrição de previsão de segregação de resíduos na origem pelo gerador nas etapas de construção e/ou instalação;
-- **Anexo VI, linha 51** {#anexo6_lin51} #residuo-construcao-civil #armazenamento-residuo #acondicionamento − Descrição das formas de armazenamento e acondicionamento dos resíduos gerados nas etapas de construção e/ou instalação;
-- **Anexo VI, linha 52** {#anexo6_lin52} #residuo-construcao-civil #transporte #destinacao-final − Descrição da previsão de responsáveis e formas de transporte e destinação final dos resíduos gerados nas etapas de construção e/ou instalação;
-- **Anexo VI, linha 53** {#anexo6_lin53} #residuo-construcao-civil #destinacao-final − A destinação final dos resíduos gerados na etapa de implantação deverá ocorrer conforme [[resolucao-conama-307-2002#art10|Art. 10 da Resolução CONAMA nº 307, de 05 de julho de 2002]].
-- **Anexo VI, linha 54** {#anexo6_lin54} #emissao-atmosferica 4.6. Emissões Atmosféricas
-- **Anexo VI, linha 55** {#anexo6_lin55} #emissao-atmosferica #poluicao-sonora #odor Identificar as fontes de emissões atmosféricas. Descrever os sistemas de controle ambiental adotados, em especial quanto à ruídos e odores.
-- **Anexo VI, linha 56** {#anexo6_lin56} #movimentacao-solo #terraplanagem 4.7. Movimentação de solo
-- **Anexo VI, linha 57** {#anexo6_lin57} #movimentacao-solo #terraplanagem Caso necessário, apresentar projeto de terraplenagem
+- **Anexo VI, linha 27** {#anexo6_lin27} − Apresentar descrição dos resíduos a serem recebidos no local: tipologia, classificação conforme [[instrucao-normativa-ibama-13-2012|IN 13/2012 do Ibama]], classificação conforme ABNT NBR 10004, estado físico, forma de acondicionamento e forma de armazenamento temporário no local;
+- **Anexo VI, linha 28** {#anexo6_lin28} − Descrever os parâmetros que serão analisados em cada resíduo;
+- **Anexo VI, linha 29** {#anexo6_lin29} 3.4. Projeto do armazenamento temporário de resíduos
+- **Anexo VI, linha 30** {#anexo6_lin30} − Formas de armazenamento dos resíduos;
+- **Anexo VI, linha 31** {#anexo6_lin31} − Detalhamento das áreas de armazenamento dos resíduos;
+- **Anexo VI, linha 32** {#anexo6_lin32} − Capacidade estática de cada área de armazenamento;
+- **Anexo VI, linha 33** {#anexo6_lin33} − Sistema de impermeabilização, com material compatível com os resíduos; a serem armazenados;
+- **Anexo VI, linha 34** {#anexo6_lin34} − Sistema de contenção;
+- **Anexo VI, linha 35** {#anexo6_lin35} − Sistema de isolamento;
+- **Anexo VI, linha 36** {#anexo6_lin36} − Sistema de drenagem e armazenamento de líquidos, caso necessário;
+- **Anexo VI, linha 37** {#anexo6_lin37} 3.5. Informações referente à implantação: descrição das intervenções previstas para implantação do empreendimento, infraestrutura necessária (canteiro do obras).
+- **Anexo VI, linha 38** {#anexo6_lin38} 4. PROJETO DE CONTROLE DA POLUIÇÃO AMBIENTAL
+- **Anexo VI, linha 39** {#anexo6_lin39} 4.1. Abastecimento de água
+- **Anexo VI, linha 40** {#anexo6_lin40} Apresentar informações referentes ao abastecimento de água para o empreendimento: origem, volume utilizado, formas usos e tratamento.
+- **Anexo VI, linha 41** {#anexo6_lin41} 4.2. Efluentes Líquidos
+- **Anexo VI, linha 42** {#anexo6_lin42} Identificar os efluentes líquidos gerados na implantação e operação do empreendimento. Descrever os sistemas de controle ambiental associados aos efluentes líquidos, descrevendo as condições de coleta, armazenamento, tratamento e destinação final.
+- **Anexo VI, linha 43** {#anexo6_lin43} 4.3. Efluente sanitário
+- **Anexo VI, linha 44** {#anexo6_lin44} Descrição do sistema de coleta, tratamento e destinação final dos efluentes sanitários gerados na implantação e operação do sistema. Apresentar dimensionamento em conformidade com as normas técnicas específicas da ABNT NBR 17076.
+- **Anexo VI, linha 45** {#anexo6_lin45} 4.4. Resíduos sólidos
+- **Anexo VI, linha 46** {#anexo6_lin46} Descrever os sistemas de controle ambiental para o gerenciamento dos resíduos sólidos gerados na operação do empreendimento, detalhando tipos de resíduos, armazenamento e destinação final dos resíduos sólidos.
+- **Anexo VI, linha 47** {#anexo6_lin47} 4.5. Resíduos da construção civil
+- **Anexo VI, linha 48** {#anexo6_lin48} Referente aos resíduos gerados durante a etapa de instalação:
+- **Anexo VI, linha 49** {#anexo6_lin49} − Caracterização e quantificação dos resíduos gerados nas etapas de construção civil e/ou instalação;
+- **Anexo VI, linha 50** {#anexo6_lin50} − Descrição de previsão de segregação de resíduos na origem pelo gerador nas etapas de construção e/ou instalação;
+- **Anexo VI, linha 51** {#anexo6_lin51} − Descrição das formas de armazenamento e acondicionamento dos resíduos gerados nas etapas de construção e/ou instalação;
+- **Anexo VI, linha 52** {#anexo6_lin52} − Descrição da previsão de responsáveis e formas de transporte e destinação final dos resíduos gerados nas etapas de construção e/ou instalação;
+- **Anexo VI, linha 53** {#anexo6_lin53} − A destinação final dos resíduos gerados na etapa de implantação deverá ocorrer conforme [[resolucao-conama-307-2002#art10|Art. 10 da Resolução CONAMA nº 307, de 05 de julho de 2002]].
+- **Anexo VI, linha 54** {#anexo6_lin54} 4.6. Emissões Atmosféricas
+- **Anexo VI, linha 55** {#anexo6_lin55} Identificar as fontes de emissões atmosféricas. Descrever os sistemas de controle ambiental adotados, em especial quanto à ruídos e odores.
+- **Anexo VI, linha 56** {#anexo6_lin56} 4.7. Movimentação de solo
+- **Anexo VI, linha 57** {#anexo6_lin57} Caso necessário, apresentar projeto de terraplenagem
 - **Anexo VI, linha 58** {#anexo6_lin58} 5. REPRESENTAÇÃO GRÁFICA
 - **Anexo VI, linha 59** {#anexo6_lin59} 5.1. Planta da concepção geral
-- **Anexo VI, linha 60** {#anexo6_lin60} #armazenamento-residuo 5.2. Planta com detalhes da área de armazenamento temporário de resíduos
+- **Anexo VI, linha 60** {#anexo6_lin60} 5.2. Planta com detalhes da área de armazenamento temporário de resíduos
 - **Anexo VI, linha 61** {#anexo6_lin61} 6. CRONOGRAMA
 - **Anexo VI, linha 62** {#anexo6_lin62} Apresentar cronograma de implantação e operação.
 

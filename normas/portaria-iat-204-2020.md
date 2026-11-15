@@ -28,17 +28,14 @@ fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (impres
 **Preâmbulo** {#preambulo} O Diretor Presidente do Instituto Água e Terra, nomeado pelo [[decreto-estadual-3820-2020|Decreto Estadual nº 3.820, de 10 de janeiro de 2020]], no uso de suas atribuições que lhe são conferidas pela Lei Estadual nº 10.066, de 27 de julho 1992, [[lei-estadual-20070-2019|Lei Estadual nº 20.070, de 18 de dezembro de 2019]], [[decreto-estadual-3813-2020|Decreto Estadual nº 3.813, de 09 de janeiro de 2020]] e [[decreto-estadual-4696-2016|Decreto Estadual nº 4.696 de 27 de julho de 2016]]. Considerando o [[decreto-federal-6514-2008|Decreto Federal n° 6.514, de 22 de julho de 2008]], o qual dispôs sobre as infrações e sanções administrativas ao meio ambiente, estabelecendo o processo administrativo para a apuração das infrações ambientais; Considerando o disposto na [[lei-federal-12651-2012|Lei Federal nº 12.651 de 25 de maio de 2012]]-Código Florestal; Considerando os termos da Instrução Normativa IBAMA nº 21, de dezembro de 2014, que estabelece o controle da origem dos produtos florestais de origem nativa, dispensando os produtos florestais de origem exótica, salvo legislação mais restritiva no âmbito estadual ou municipal; Considerando a Resolução Conjunta IBAMA/SEDEST/INSTITUTO ÁGUA E TERRA nº 01, de 19 de fevereiro de 2020, que revoga a Resolução Conjunta IBAMA/ SEMA/ IAP nº 47, de 28 de setembro de 2007. Considerando o disposto na [[resolucao-cema-105-2019|Resolução CEMA nº 105, de 17 de dezembro de 2019]]; Considerando que por meio do número de cadastro do produtor e empacotador do carvão vegetal no IBAMA (CTF) e no IAT (SERFLOR), é possível realizar consultas em sistemas de controle eletrônico oficiais, inclusive no que diz respeito à quantidade e espécie autorizada para transporte e armazenamento. Considerando a necessidade do controle da localização dos empreendimentos e da cadeia produtiva deste produto; Considerando a necessidade de estabelecer critérios técnicos que auxiliem o órgão ambiental na tomada de decisões para procedimentos administrativos; RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #carvao-vegetal #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer normas e procedimentos para o licenciamento ambiental de empreendimentos de produção de carvão vegetal, de origem de espécies nativas e exóticas e seu transporte.
 
 ###### Art. 2º {#art2}
-Tags: #forno-carvao #proibicao #app #reserva-legal #area-urbana
 
 **Art. 2º, caput** {#art2_cpt} Não será permitida a instalação de fornos de carvão no perímetro de áreas urbanas, estabelecidas no Plano Diretor ou Lei de Uso e Ocupação do Solo Urbano Municipal, bem como em área preservação permanente e em Reserva Legal dos imóveis rurais.
 
 ###### Art. 3º {#art3}
-Tags: #carvao-vegetal #las #documentacao #requerimento
 
 **Art. 3º, caput** {#art3_cpt} Para o produtor de carvão vegetal com até 5 (cinco) fornos, com uma estimativa de produção de carvão vegetal de 20 mdc/mês/forno, com máximo 100 mdc/mês, aplica-se a Licença Ambiental Simplificada-LAS, cuja solicitação deverá ser protocolada através do Sistema de Gestão Ambiental-SGA, devendo ser apresentados aos seguintes documentos:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} Certidão do Município, quanto ao uso e ocupação do solo, conforme modelo apresentado no Anexo IV da [[resolucao-cema-105-2019|Resolução CEMA nº 105/2019]];
@@ -56,7 +53,6 @@ Tags: #carvao-vegetal #las #documentacao #requerimento
 **Art. 3º, parágrafo único** {#art3_par1u} Para efeito de transformação da lenha para carvão deverá ser considerado 2 m³ = 1,0 mdc (metro de carvão).
 
 ###### Art. 4º {#art4}
-Tags: #renovacao #las #documentacao
 
 **Art. 4º, caput** {#art4_cpt} Para Renovação da Licença Ambiental Simplificada deverão ser apresentados os seguintes documentos:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} Cópia da LAS anterior;
@@ -66,12 +62,10 @@ Tags: #renovacao #las #documentacao
 - **Art. 4º, caput, inciso V** {#art4_cpt_inc5} Relatório de Destinação de Resíduos Sólidos gerados no empreendimento;
 
 ###### Art. 5º {#art5}
-Tags: #licenciamento-ambiental #lp #li #lo
 
 **Art. 5º, caput** {#art5_cpt} Estão sujeitos ao licenciamento ambiental completo, composto por Licença Prévia, Licença de Instalação e Licença de Operação, os empreendimentos com mais de 5 (cinco) fornos e produção de carvão vegetal superior a 100 mdc/mês.
 
 ###### Art. 6º {#art6}
-Tags: #lp #documentacao #estudo-ambiental
 
 **Art. 6º, caput** {#art6_cpt} Para obtenção de Licença Prévia deverão ser apresentados os seguintes documentos:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} Certidão do Município, quanto ao uso e ocupação do solo, conforme modelo apresentado no Anexo IV da [[resolucao-cema-105-2019|Resolução CEMA nº 105/2019]]
@@ -90,7 +84,6 @@ Tags: #lp #documentacao #estudo-ambiental
   - **Art. 6º, caput, inciso X, alínea "d"** {#art6_cpt_inc10_alid} Imagem de satélite com a localização espacial do empreendimento e relatório fotográfico do local;
 
 ###### Art. 7º {#art7}
-Tags: #li #documentacao
 
 **Art. 7º, caput** {#art7_cpt} Para obtenção da Licença de Instalação devem ser apresentados os seguintes documentos:
 - **Art. 7º, caput, inciso I** {#art7_cpt_inc1} Cópia da Licença Prévia;
@@ -100,12 +93,10 @@ Tags: #li #documentacao
 - **Art. 7º, caput, inciso V** {#art7_cpt_inc5} Projeto de Sistema de Controle de Poluição Ambiental em empreendimentos industriais, de acordo com diretrizes apresentadas no Anexo 3 da [[resolucao-cema-70-2009|Resolução CEMA 070/2009]];
 
 ###### Art. 8º {#art8}
-Tags: #li #prorrogacao
 
 **Art. 8º, caput** {#art8_cpt} Caso necessário, a prorrogação da Licença de Instalação deverá ser requerida através do endereço eletrônico www.sga.iat.pr.gov.br.
 
 ###### Art. 9º {#art9}
-Tags: #lo #documentacao #automonitoramento
 
 **Art. 9º, caput** {#art9_cpt} Para obtenção da Licença de Operação devem ser apresentados os seguintes documentos:
 - **Art. 9º, caput, inciso I** {#art9_cpt_inc1} Cópia da Licença de Instalação;
@@ -117,7 +108,6 @@ Tags: #lo #documentacao #automonitoramento
 - **Art. 9º, caput, inciso VII** {#art9_cpt_inc7} Quando aplicável, Portaria de Outorga de Direito ou Dispensa de Outorga para uso de recursos hídricos, e também Portaria de Outorga para o lançamento de efluentes líquidos em corpos hídricos;
 
 ###### Art. 10 {#art10}
-Tags: #renovacao #lo #documentacao
 
 **Art. 10, caput** {#art10_cpt} Para obtenção da Renovação da Licença de Operação devem ser apresentados os seguintes documentos:
 - **Art. 10, caput, inciso I** {#art10_cpt_inc1} Cópia da Licença de Operação anterior;
@@ -129,13 +119,11 @@ Tags: #renovacao #lo #documentacao
 - **Art. 10, caput, inciso VII** {#art10_cpt_inc7} Cadastramento no Inventário Estadual de Resíduos Sólidos Industriais de acordo com o Anexo 6 da [[resolucao-cema-70-2009|Resolução CEMA nº 70/2009]], através do endereço eletrônico www.sga-ir.pr.gov.br.
 
 ###### Art. 11 {#art11}
-Tags: #regularizacao #lo
 
 **Art. 11, caput** {#art11_cpt} Para regularização de empreendimentos já existentes e com início de funcionamento comprovadamente anterior a 22 de julho de 2008, poderá ser solicitada diretamente a Licença Ambiental Simplificada de Regularização-LASR ou a Licença de Operação de Regularização-LOR.
 **Art. 11, parágrafo único** {#art11_par1u} Os empreendimentos não contemplados com o caput deste artigo e que estejam operando na clandestinidade, terão suas atividades embargadas, devendo se submeter ao licenciamento ambiental, sem prejuízo às sanções cabíveis.
 
 ###### Art. 12 {#art12}
-Tags: #regularizacao #las #documentacao
 
 **Art. 12, caput** {#art12_cpt} Para obtenção da Licença Ambiental Simplificada de Regularização deverão ser apresentados os seguintes documentos:
 - **Art. 12, caput, inciso I** {#art12_cpt_inc1} Alvará de Funcionamento ou Certidão do Município, quanto ao uso e ocupação do solo, conforme modelo apresentado no Anexo IV da [[resolucao-cema-105-2019|Resolução CEMA nº 105/2019]];
@@ -153,7 +141,6 @@ Tags: #regularizacao #las #documentacao
 - **Art. 12, caput, inciso XIII** {#art12_cpt_inc13} Quando aplicável, Portaria de Outorga de Direito ou Dispensa de Outorga para uso de recursos hídricos, e também Portaria de Outorga para o lançamento de efluentes líquidos em corpos hídricos;
 
 ###### Art. 13 {#art13}
-Tags: #regularizacao #lo #documentacao
 
 **Art. 13, caput** {#art13_cpt} Para obtenção da Licença de Operação de Regularização devem ser apresentados os seguintes documentos:
 - **Art. 13, caput, inciso I** {#art13_cpt_inc1} Alvará de Funcionamento ou Certidão do Município, quanto ao uso e ocupação do solo, conforme modelo apresentado no Anexo IV da [[resolucao-cema-105-2019|Resolução CEMA nº 105/2019]];
@@ -170,19 +157,16 @@ Tags: #regularizacao #lo #documentacao
 - **Art. 13, caput, inciso XII** {#art13_cpt_inc12} Quando aplicável, Portaria de Outorga de Direito ou Dispensa de Outorga para uso de recursos hídricos, e também Portaria de Outorga para o lançamento de efluentes líquidos em corpos hídricos;
 
 ###### Art. 14 {#art14}
-Tags: #dof #autorizacao-florestal #carvao-vegetal
 
 **Art. 14, caput** {#art14_cpt} Toda matéria prima para produção de carvão vegetal de floresta nativa deverá ser objeto de autorização florestal oriundo do Sistema Nacional de Controle da Origem dos Produtos Florestais SINAFLOR e estar regularizada pelo respectivo Documento de Origem Florestal - DOF.
 **Art. 14, parágrafo único** {#art14_par1u} O transporte de resíduos originados do processamento industrial da madeira provenientes de espécies nativas, destinadas à produção de carvão vegetal, obrigatoriamente deve ser acompanhado de DOF.
 
 ###### Art. 15 {#art15}
-Tags: #especie-exotica #serflor #ctf
 
 **Art. 15, caput** {#art15_cpt} O produtor de carvão que utiliza matéria prima proveniente de produto ou subproduto da flora exótica, obrigatoriamente deve possuir o Cadastro Técnico Federal de Atividades Potencialmente Poluidoras e Utilizadoras de Recursos Ambientais-CTF/IBAMA, estar com os fornos devidamente licenciados conforme orienta esta normativa e estar cadastrado junto ao Sistema Estadual de Reposição Florestal Obrigatória-SERFLOR, o qual deve ser apresentado sempre que solicitado por órgão ambiental.
 **Art. 15, parágrafo único** {#art15_par1u} O carvão vegetal produzido com essências exóticas e que se encontra empacotado, conforme as disposições deste artigo, é isento de qualquer outra guia ou comprovante de sistemas eletrônicos de controle.
 
 ###### Art. 16 {#art16}
-Tags: #transporte-florestal #dof #carvao-vegetal
 
 **Art. 16, caput** {#art16_cpt} A título de regularidade no transporte ou no armazenamento, tanto nativo como exótico, no comércio varejista, este deverá estar acondicionado em embalagens que contenham, em local de fácil visualização, as seguintes informações:
 - **Art. 16, caput, inciso I** {#art16_cpt_inc1} O registro da empresa empacotadora junto ao IBAMA e Instituto Água e Terra;
@@ -195,7 +179,6 @@ Tags: #transporte-florestal #dof #carvao-vegetal
 **Art. 16, § 4º** {#art16_par4} Quando da realização desta operação de destinação final para empacotamento, o volume em MDC operado no sistema deverá ser subtraído do estoque e sua constatação poderá ser comprovada com a apresentação do relatório/extrato do pátio em questão pelo usuário.
 
 ###### Art. 17 {#art17}
-Tags: #forno-carvao #distancia-minima
 
 **Art. 17, caput** {#art17_cpt} A localização dos fornos de produção de carvão deverá obedecer a uma distância mínima de 500 metros de:
 - **Art. 17, caput, inciso I** {#art17_cpt_inc1} Perímetros urbanos definidos pelo Plano Diretor Municipal ou Lei de Uso e Ocupação do Solo Urbano Municipal;
@@ -206,37 +189,30 @@ Tags: #forno-carvao #distancia-minima
 **Art. 17, § 2º** {#art17_par2} Caso existam disposições mais restritivas no Plano Diretor Municipal ou Lei de Uso e Ocupação do Solo quanto a localização dos fornos de produção de carvão, as mesmas deverão ser adotadas.
 
 ###### Art. 18 {#art18}
-Tags: #documentacao #carvao-vegetal
 
 **Art. 18, caput** {#art18_cpt} Por ocasião da solicitação do Licenciamento Ambiental ou a qualquer momento, quando solicitado pelo órgão ambiental, deverá ser apresentada documentação relativa à origem da matéria prima, especificamente quando se tratar de forno destinado à produção de carvão com matéria prima proveniente de florestas nativas.
 
 ###### Art. 19 {#art19}
-Tags: #licenca-ambiental #validade
 
 **Art. 19, caput** {#art19_cpt} Os prazos de validade das licenças serão aqueles estabelecidos na [[resolucao-cema-105-2019|Resolução CEMA nº 105/2019]].
 
 ###### Art. 20 {#art20}
-Tags: #art-anotacao
 
 **Art. 20, caput** {#art20_cpt} Todos os estudos e projetos apresentados devem ser elaborados por profissionais habilitados, acompanhados de Anotação de Responsabilidade Técnica-ART junto ao respectivo conselho de classe.
 
 ###### Art. 21 {#art21}
-Tags: #certidao #licenca-ambiental
 
 **Art. 21, caput** {#art21_cpt} A emissão de qualquer modalidade de licenciamento e suas renovações, fica condicionada a apresentação da Certidão Negativa de débitos ambientais.
 
 ###### Art. 22 {#art22}
-Tags: #imovel #licenciamento-ambiental
 
 **Art. 22, caput** {#art22_cpt} Os casos excepcionais relacionados ao imóvel deverão ser instruídos de acordo com o Capítulo II, Seção V, Art. 44 e seguintes, da [[resolucao-cema-105-2019|Resolução CEMA n° 105/2019]].
 
 ###### Art. 23 {#art23}
-Tags: #sancao #infracao-ambiental
 
 **Art. 23, caput** {#art23_cpt} A inobservância do disposto nesta normativa acarretará aos infratores, além da obrigatoriedade da restauração do dano causado, quando couber, a aplicação das demais sanções administrativas e penais estabelecidas na legislação ambiental aplicada.
 
 ###### Art. 24 {#art24}
-Tags: #vigencia
 
 **Art. 24, caput** {#art24_cpt} Esta Portaria entra em vigor na data da sua publicação.
 

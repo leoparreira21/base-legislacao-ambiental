@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Extração determinística para o grafo de conhecimento (graphify).
 
-Lê `_site/dispositivos.json` (gerado por `scripts/gerar_site.py`) e monta
+Lê `_site/dispositivos.json` (gerado por `python scripts/gerar_grafo.py _site`) e monta
 `graphify-out/.graphify_extract.json` com quatro tipos de nó:
 
 - norma: arquivo de `normas/` (anexos e comentários somam na norma-mãe);

@@ -19,44 +19,44 @@ fonte: PDF da IN IAT 24/2026 (eProtocolo 23.753.432-8), páginas 75 a 78 (fls. 2
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo VIII, linha 1** {#anexo8_lin1} #art-anotacao Os Projetos de instalações destinadas ao controle de poluição ambiental em atividades agropecuárias deverão ser apresentados para análise, acompanhados da respectiva **Anotação de Responsabilidade Técnica – ART**, conforme dispõe a **[[lei-federal-6496-1977|Lei nº 6.496/77]]**.
+- **Anexo VIII, linha 1** {#anexo8_lin1} Os Projetos de instalações destinadas ao controle de poluição ambiental em atividades agropecuárias deverão ser apresentados para análise, acompanhados da respectiva **Anotação de Responsabilidade Técnica – ART**, conforme dispõe a **[[lei-federal-6496-1977|Lei nº 6.496/77]]**.
 - **Anexo VIII, linha 2** {#anexo8_lin2} Os Projetos devem apresentar dados sobre as informações cadastrais, memoriais descritivos de cálculo e desenhos.
 - **Anexo VIII, linha 3** {#anexo8_lin3} 1. INFORMAÇÕES CADASTRAIS
 - **Anexo VIII, linha 4** {#anexo8_lin4} 1.1 INFORMAÇÕES CADASTRAIS
 - **Anexo VIII, linha 5** {#anexo8_lin5} • Razão social;
 - **Anexo VIII, linha 6** {#anexo8_lin6} • Nome Fantasia;
-- **Anexo VIII, linha 7** {#anexo8_lin7} #cnpj • CNPJ e Inscrição Estadual. Cadastro de Produtor Rural;
+- **Anexo VIII, linha 7** {#anexo8_lin7} • CNPJ e Inscrição Estadual. Cadastro de Produtor Rural;
 - **Anexo VIII, linha 8** {#anexo8_lin8} • Endereço completo da unidade a ser licenciada;
 - **Anexo VIII, linha 9** {#anexo8_lin9} • Endereço para correspondência;
 - **Anexo VIII, linha 10** {#anexo8_lin10} • Nome do responsável, telefone;
 - **Anexo VIII, linha 11** {#anexo8_lin11} • E-mail.
-- **Anexo VIII, linha 12** {#anexo8_lin12} #captacao 1.2 FONTE ABASTECEDORA DE ÁGUA
-- **Anexo VIII, linha 13** {#anexo8_lin13} #captacao Relacionar todas as fontes de abastecimento de água utilizadas pelo empreendimento, tais como rios, lagoas, poços, rede pública, etc.
-- **Anexo VIII, linha 14** {#anexo8_lin14} #corpo-hidrico #lancamento 1.3 CORPO HÍDRICO RECEPTOR (CASO SEJA UTILIZADO)
-- **Anexo VIII, linha 15** {#anexo8_lin15} #corpo-hidrico #vazao #bacia-hidrografica Vazão e parâmetros (no caso de rios) e bacia hidrográfica a que pertence.
+- **Anexo VIII, linha 12** {#anexo8_lin12} 1.2 FONTE ABASTECEDORA DE ÁGUA
+- **Anexo VIII, linha 13** {#anexo8_lin13} Relacionar todas as fontes de abastecimento de água utilizadas pelo empreendimento, tais como rios, lagoas, poços, rede pública, etc.
+- **Anexo VIII, linha 14** {#anexo8_lin14} 1.3 CORPO HÍDRICO RECEPTOR (CASO SEJA UTILIZADO)
+- **Anexo VIII, linha 15** {#anexo8_lin15} Vazão e parâmetros (no caso de rios) e bacia hidrográfica a que pertence.
 - **Anexo VIII, linha 16** {#anexo8_lin16} 1.4 ÁREA EM HECTARES
-- **Anexo VIII, linha 17** {#anexo8_lin17} #area-construida Área total, área construída e área livre.
-- **Anexo VIII, linha 18** {#anexo8_lin18} #suinocultura 1.5 CARACTERÍSTICAS DO EMPREENDIMENTO
-- **Anexo VIII, linha 19** {#anexo8_lin19} #suinocultura ● Descrição do regime e sistema de criação do empreendimento;
-- **Anexo VIII, linha 20** {#anexo8_lin20} #suinocultura #porte ● Quantificação do plantel por sistema de criação existente e a capacidade máxima instalada.
-- **Anexo VIII, linha 21** {#anexo8_lin21} #suinocultura ● Apresentar a relação dos animais produzidos, por categoria, mensal e anualmente. Informar a empresa de integração, se for o caso.
-- **Anexo VIII, linha 22** {#anexo8_lin22} #medida-mitigadora #terraplanagem #supressao-vegetacao #nascente ● Diagnóstico e medidas mitigadoras dos impactos ambientais decorrentes da implantação do empreendimento, como por exemplo: obras de terraplenagem, corte de vegetação, proteção de nascentes, obras de drenagem, entre outros.
-- **Anexo VIII, linha 23** {#anexo8_lin23} #ampliacao 1.6 AMPLIAÇÕES PREVISTAS
-- **Anexo VIII, linha 24** {#anexo8_lin24} #tratamento-efluente 2. SISTEMA DE TRATAMENTO DE EFLUENTES LÍQUIDOS
-- **Anexo VIII, linha 25** {#anexo8_lin25} #agua-pluvial ● Descrição do sistema de captação e disposição de águas pluviais.
-- **Anexo VIII, linha 26** {#anexo8_lin26} #vetor 3. CONTROLE DE VETORES
-- **Anexo VIII, linha 27** {#anexo8_lin27} #vetor Detalhar medidas adotadas visando minimizar o problema.
-- **Anexo VIII, linha 28** {#anexo8_lin28} #residuo-solido 4. RESÍDUOS SÓLIDOS
-- **Anexo VIII, linha 29** {#anexo8_lin29} #residuo-solido 4.1 INFORMAÇÕES SOBRE OS RESÍDUOS SÓLIDOS
-- **Anexo VIII, linha 30** {#anexo8_lin30} #residuo-solido #animal-morto Especificar os resíduos sólidos gerados pelo empreendimento, quantidade e forma de coleta. Incluir animais mortos.
-- **Anexo VIII, linha 31** {#anexo8_lin31} #disposicao-final 4.2 INFORMAÇÕES SOBRE DISPOSIÇÃO FINAL
-- **Anexo VIII, linha 32** {#anexo8_lin32} #disposicao-final Descrever o(s) tipo(s) de disposição final de resíduos sólidos.
-- **Anexo VIII, linha 33** {#anexo8_lin33} #tratamento-residuo 4.3 TRATAMENTO ADOTADO
-- **Anexo VIII, linha 34** {#anexo8_lin34} #tratamento-residuo Justificar a escolha do(s) tipo(s) de tratamento(s) adotado(s).
-- **Anexo VIII, linha 35** {#anexo8_lin35} #dimensionamento 4.4 MEMORIAL DE CÁLCULO
-- **Anexo VIII, linha 36** {#anexo8_lin36} #dimensionamento Apresentar o memorial de cálculo referente ao dimensionamento da solução adotada.
-- **Anexo VIII, linha 37** {#anexo8_lin37} #dejeto-animal #uso-agricola-efluente 5.0 UTILIZAÇÃO AGRÍCOLA DE DEJETOS DE SUÍNOS
-- **Anexo VIII, linha 38** {#anexo8_lin38} #dejeto-animal #uso-agricola-efluente #dimensionamento #art-anotacao #responsavel-tecnico Projeto técnico com dimensionamento do número de animais a serem alojados e planejamento agrícola para utilização agrícola de dejetos de suínos, utilizando o SGAS e considerando os critérios técnicos mínimos para licenciamento ambiental de granjas de suínos (Documentos 239/2023, Embrapa Suínos Aves), elaborado por profissional habilitado, acompanhado da devida Anotação de Responsabilidade Técnica –ART.
+- **Anexo VIII, linha 17** {#anexo8_lin17} Área total, área construída e área livre.
+- **Anexo VIII, linha 18** {#anexo8_lin18} 1.5 CARACTERÍSTICAS DO EMPREENDIMENTO
+- **Anexo VIII, linha 19** {#anexo8_lin19} ● Descrição do regime e sistema de criação do empreendimento;
+- **Anexo VIII, linha 20** {#anexo8_lin20} ● Quantificação do plantel por sistema de criação existente e a capacidade máxima instalada.
+- **Anexo VIII, linha 21** {#anexo8_lin21} ● Apresentar a relação dos animais produzidos, por categoria, mensal e anualmente. Informar a empresa de integração, se for o caso.
+- **Anexo VIII, linha 22** {#anexo8_lin22} ● Diagnóstico e medidas mitigadoras dos impactos ambientais decorrentes da implantação do empreendimento, como por exemplo: obras de terraplenagem, corte de vegetação, proteção de nascentes, obras de drenagem, entre outros.
+- **Anexo VIII, linha 23** {#anexo8_lin23} 1.6 AMPLIAÇÕES PREVISTAS
+- **Anexo VIII, linha 24** {#anexo8_lin24} 2. SISTEMA DE TRATAMENTO DE EFLUENTES LÍQUIDOS
+- **Anexo VIII, linha 25** {#anexo8_lin25} ● Descrição do sistema de captação e disposição de águas pluviais.
+- **Anexo VIII, linha 26** {#anexo8_lin26} 3. CONTROLE DE VETORES
+- **Anexo VIII, linha 27** {#anexo8_lin27} Detalhar medidas adotadas visando minimizar o problema.
+- **Anexo VIII, linha 28** {#anexo8_lin28} 4. RESÍDUOS SÓLIDOS
+- **Anexo VIII, linha 29** {#anexo8_lin29} 4.1 INFORMAÇÕES SOBRE OS RESÍDUOS SÓLIDOS
+- **Anexo VIII, linha 30** {#anexo8_lin30} Especificar os resíduos sólidos gerados pelo empreendimento, quantidade e forma de coleta. Incluir animais mortos.
+- **Anexo VIII, linha 31** {#anexo8_lin31} 4.2 INFORMAÇÕES SOBRE DISPOSIÇÃO FINAL
+- **Anexo VIII, linha 32** {#anexo8_lin32} Descrever o(s) tipo(s) de disposição final de resíduos sólidos.
+- **Anexo VIII, linha 33** {#anexo8_lin33} 4.3 TRATAMENTO ADOTADO
+- **Anexo VIII, linha 34** {#anexo8_lin34} Justificar a escolha do(s) tipo(s) de tratamento(s) adotado(s).
+- **Anexo VIII, linha 35** {#anexo8_lin35} 4.4 MEMORIAL DE CÁLCULO
+- **Anexo VIII, linha 36** {#anexo8_lin36} Apresentar o memorial de cálculo referente ao dimensionamento da solução adotada.
+- **Anexo VIII, linha 37** {#anexo8_lin37} 5.0 UTILIZAÇÃO AGRÍCOLA DE DEJETOS DE SUÍNOS
+- **Anexo VIII, linha 38** {#anexo8_lin38} Projeto técnico com dimensionamento do número de animais a serem alojados e planejamento agrícola para utilização agrícola de dejetos de suínos, utilizando o SGAS e considerando os critérios técnicos mínimos para licenciamento ambiental de granjas de suínos (Documentos 239/2023, Embrapa Suínos Aves), elaborado por profissional habilitado, acompanhado da devida Anotação de Responsabilidade Técnica –ART.
 - **Anexo VIII, linha 39** {#anexo8_lin39} 6.0 REFERÊNCIAS BIBLIOGRÁFICAS
 - **Anexo VIII, linha 40** {#anexo8_lin40} Citar as referências consultadas, incluindo as páginas eletrônicas com data e hora do acesso, segundo as normas de publicação de trabalhos científicos da Associação Brasileira de Normas Técnicas - ABNT.
 - **Anexo VIII, linha 41** {#anexo8_lin41} 7.0 ANEXOS

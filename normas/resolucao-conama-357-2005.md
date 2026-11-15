@@ -45,7 +45,6 @@ fonte: "Portal do CONAMA, texto compilado (27 páginas; 'Este texto não substit
 - **Considerando 12** {#considerando12} Considerando que o controle da poluição está diretamente relacionado com a proteção da saúde, garantia do meio ambiente ecologicamente equilibrado e a melhoria da qualidade de vida, levando em conta os usos prioritários e classes de qualidade ambiental exigidos para um determinado corpo de água; resolve:
 
 ###### Art. 1º {#art1}
-Tags: #classificacao-corpo-agua #enquadramento #padrao-lancamento
 
 **Art. 1º, caput** {#art1_cpt} Esta Resolução dispõe sobre a classificação e diretrizes ambientais para o enquadramento dos corpos de água superficiais, bem como estabelece as condições e padrões de lançamento de efluentes.
 
@@ -55,17 +54,17 @@ Tags: #classificacao-corpo-agua #enquadramento #padrao-lancamento
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (revogado: inciso XXXVIII)
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução são adotadas as seguintes definições:
-- **Art. 2º, caput, inciso I** {#art2_cpt_inc1} #agua-doce águas doces: águas com salinidade igual ou inferior a 0,5 ‰;
-- **Art. 2º, caput, inciso II** {#art2_cpt_inc2} #agua-salobra águas salobras: águas com salinidade superior a 0,5 ‰ e inferior a 30 ‰;
-- **Art. 2º, caput, inciso III** {#art2_cpt_inc3} #agua-salina águas salinas: águas com salinidade igual ou superior a 30 ‰;
+- **Art. 2º, caput, inciso I** {#art2_cpt_inc1} águas doces: águas com salinidade igual ou inferior a 0,5 ‰;
+- **Art. 2º, caput, inciso II** {#art2_cpt_inc2} águas salobras: águas com salinidade superior a 0,5 ‰ e inferior a 30 ‰;
+- **Art. 2º, caput, inciso III** {#art2_cpt_inc3} águas salinas: águas com salinidade igual ou superior a 30 ‰;
 - **Art. 2º, caput, inciso IV** {#art2_cpt_inc4} ambiente lêntico: ambiente que se refere à água parada, com movimento lento ou estagnado;
 - **Art. 2º, caput, inciso V** {#art2_cpt_inc5} ambiente lótico: ambiente relativo a águas continentais moventes;
 - **Art. 2º, caput, inciso VI** {#art2_cpt_inc6} aqüicultura: o cultivo ou a criação de organismos cujo ciclo de vida, em condições naturais, ocorre total ou parcialmente em meio aquático;
-- **Art. 2º, caput, inciso VII** {#art2_cpt_inc7} #carga-poluidora carga poluidora: quantidade de determinado poluente transportado ou lançado em um corpo de água receptor, expressa em unidade de massa por tempo;
-- **Art. 2º, caput, inciso VIII** {#art2_cpt_inc8} #cianobacteria cianobactérias: microorganismos procarióticos autotróficos, também denominados como cianofíceas (algas azuis) capazes de ocorrer em qualquer manancial superficial especialmente naqueles com elevados níveis de nutrientes (nitrogênio e fósforo), podendo produzir toxinas com efeitos adversos a saúde;
+- **Art. 2º, caput, inciso VII** {#art2_cpt_inc7} carga poluidora: quantidade de determinado poluente transportado ou lançado em um corpo de água receptor, expressa em unidade de massa por tempo;
+- **Art. 2º, caput, inciso VIII** {#art2_cpt_inc8} cianobactérias: microorganismos procarióticos autotróficos, também denominados como cianofíceas (algas azuis) capazes de ocorrer em qualquer manancial superficial especialmente naqueles com elevados níveis de nutrientes (nitrogênio e fósforo), podendo produzir toxinas com efeitos adversos a saúde;
 - **Art. 2º, caput, inciso IX** {#art2_cpt_inc9} classe de qualidade: conjunto de condições e padrões de qualidade de água necessários ao atendimento dos usos preponderantes, atuais ou futuros;
 - **Art. 2º, caput, inciso X** {#art2_cpt_inc10} classificação: qualificação das águas doces, salobras e salinas em função dos usos preponderantes (sistema de classes de qualidade) atuais e futuros;
-- **Art. 2º, caput, inciso XI** {#art2_cpt_inc11} #coliforme coliformes termotolerantes: bactérias gram-negativas, em forma de bacilos, oxidase-negativas, caracterizadas pela atividade da enzima β-galactosidase. Podem crescer em meios contendo agentes tenso-ativos e fermentar a lactose nas temperaturas de 44º - 45ºC, com produção de ácido, gás e aldeído. Além de estarem presentes em fezes humanas e de animais homeotérmicos, ocorrem em solos, plantas ou outras matrizes ambientais que não tenham sido contaminados por material fecal;
+- **Art. 2º, caput, inciso XI** {#art2_cpt_inc11} coliformes termotolerantes: bactérias gram-negativas, em forma de bacilos, oxidase-negativas, caracterizadas pela atividade da enzima β-galactosidase. Podem crescer em meios contendo agentes tenso-ativos e fermentar a lactose nas temperaturas de 44º - 45ºC, com produção de ácido, gás e aldeído. Além de estarem presentes em fezes humanas e de animais homeotérmicos, ocorrem em solos, plantas ou outras matrizes ambientais que não tenham sido contaminados por material fecal;
 - **Art. 2º, caput, inciso XII** {#art2_cpt_inc12} condição de qualidade: qualidade apresentada por um segmento de corpo d'água, num determinado momento, em termos dos usos possíveis com segurança adequada, frente às Classes de Qualidade;
 - **Art. 2º, caput, inciso XIII** {#art2_cpt_inc13} condições de lançamento: condições e padrões de emissão adotados para o controle de lançamentos de efluentes no corpo receptor;
 - **Art. 2º, caput, inciso XIV** {#art2_cpt_inc14} controle de qualidade da água: conjunto de medidas operacionais que visa avaliar a melhoria e a conservação da qualidade da água estabelecida para o corpo de água;
@@ -74,10 +73,10 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (revogado
 - **Art. 2º, caput, inciso XVII** {#art2_cpt_inc17} efeito tóxico agudo: efeito deletério aos organismos vivos causado por agentes físicos ou químicos, usualmente letalidade ou alguma outra manifestação que a antecede, em um curto período de exposição;
 - **Art. 2º, caput, inciso XVIII** {#art2_cpt_inc18} efeito tóxico crônico: efeito deletério aos organismos vivos causado por agentes físicos ou químicos que afetam uma ou várias funções biológicas dos organismos, tais como a reprodução, o crescimento e o comportamento, em um período de exposição que pode abranger a totalidade de seu ciclo de vida ou parte dele;
 - **Art. 2º, caput, inciso XIX** {#art2_cpt_inc19} efetivação do enquadramento: alcance da meta final do enquadramento;
-- **Art. 2º, caput, inciso XX** {#art2_cpt_inc20} #enquadramento enquadramento: estabelecimento da meta ou objetivo de qualidade da água (classe) a ser, obrigatoriamente, alcançado ou mantido em um segmento de corpo de água, de acordo com os usos preponderantes pretendidos, ao longo do tempo;
+- **Art. 2º, caput, inciso XX** {#art2_cpt_inc20} enquadramento: estabelecimento da meta ou objetivo de qualidade da água (classe) a ser, obrigatoriamente, alcançado ou mantido em um segmento de corpo de água, de acordo com os usos preponderantes pretendidos, ao longo do tempo;
 - **Art. 2º, caput, inciso XXI** {#art2_cpt_inc21} ensaios ecotoxicológicos: ensaios realizados para determinar o efeito deletério de agentes físicos ou químicos a diversos organismos aquáticos;
 - **Art. 2º, caput, inciso XXII** {#art2_cpt_inc22} ensaios toxicológicos: ensaios realizados para determinar o efeito deletério de agentes físicos ou químicos a diversos organismos visando avaliar o potencial de risco à saúde humana;
-- **Art. 2º, caput, inciso XXIII** {#art2_cpt_inc23} #coliforme escherichia coli (E.Coli): bactéria pertencente à família Enterobacteriaceae caracterizada pela atividade da enzima β-glicuronidase. Produz indol a partir do aminoácido triptofano. É a única espécie do grupo dos coliformes termotolerantes cujo habitat exclusivo é o intestino humano e de animais homeotérmicos, onde ocorre em densidades elevadas;
+- **Art. 2º, caput, inciso XXIII** {#art2_cpt_inc23} escherichia coli (E.Coli): bactéria pertencente à família Enterobacteriaceae caracterizada pela atividade da enzima β-glicuronidase. Produz indol a partir do aminoácido triptofano. É a única espécie do grupo dos coliformes termotolerantes cujo habitat exclusivo é o intestino humano e de animais homeotérmicos, onde ocorre em densidades elevadas;
 - **Art. 2º, caput, inciso XXIV** {#art2_cpt_inc24} metas: é o desdobramento do objeto em realizações físicas e atividades de gestão, de acordo com unidades de medida e cronograma preestabelecidos, de caráter obrigatório;
 - **Art. 2º, caput, inciso XXV** {#art2_cpt_inc25} monitoramento: medição ou verificação de parâmetros de qualidade e quantidade de água, que pode ser contínua ou periódica, utilizada para acompanhamento da condição e controle da qualidade do corpo de água;
 - **Art. 2º, caput, inciso XXVI** {#art2_cpt_inc26} padrão: valor limite adotado como requisito normativo de um parâmetro de qualidade de água ou efluente;
@@ -92,12 +91,11 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (revogado
 - **Art. 2º, caput, inciso XXXV** {#art2_cpt_inc35} tributário (ou curso de água afluente): corpo de água que flui para um rio maior ou para um lago ou reservatório;
 - **Art. 2º, caput, inciso XXXVI** {#art2_cpt_inc36} vazão de referência: vazão do corpo hídrico utilizada como base para o processo de gestão, tendo em vista o uso múltiplo das águas e a necessária articulação das instâncias do Sistema Nacional de Meio Ambiente-SISNAMA e do Sistema Nacional de Gerenciamento de Recursos Hídricos-SINGRH;
 - **Art. 2º, caput, inciso XXXVII** {#art2_cpt_inc37} virtualmente ausentes: que não é perceptível pela visão, olfato ou paladar; e
-- **Art. 2º, caput, inciso XXXVIII** {#art2_cpt_inc38} #zona-mistura #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+- **Art. 2º, caput, inciso XXXVIII** {#art2_cpt_inc38} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ## CAPÍTULO II – DA CLASSIFICAÇÃO DOS CORPOS DE ÁGUA
 
 ###### Art. 3º {#art3}
-Tags: #classificacao-corpo-agua
 
 **Art. 3º, caput** {#art3_cpt} As águas doces, salobras e salinas do Território Nacional são classificadas, segundo a qualidade requerida para os seus usos preponderantes, em treze classes de qualidade.
 
@@ -106,7 +104,6 @@ Tags: #classificacao-corpo-agua
 ### Seção I – Das Águas Doces
 
 ###### Art. 4º {#art4}
-Tags: #agua-doce #classe-especial #abastecimento-publico #irrigacao #aquicultura #terra-indigena #unidade-conservacao
 
 **Art. 4º, caput** {#art4_cpt} As águas doces são classificadas em:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} classe especial: águas destinadas:
@@ -138,7 +135,6 @@ Tags: #agua-doce #classe-especial #abastecimento-publico #irrigacao #aquicultura
 ### Seção II – Das Águas Salinas
 
 ###### Art. 5º {#art5}
-Tags: #agua-salina #classe-especial
 
 **Art. 5º, caput** {#art5_cpt} As águas salinas são assim classificadas:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} classe especial: águas destinadas:
@@ -158,7 +154,6 @@ Tags: #agua-salina #classe-especial
 ### Seção II – Das Águas Salobras
 
 ###### Art. 6º {#art6}
-Tags: #agua-salobra #classe-especial
 
 **Art. 6º, caput** {#art6_cpt} As águas salobras são assim classificadas:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} classe especial: águas destinadas:
@@ -182,14 +177,12 @@ Tags: #agua-salobra #classe-especial
 ### Seção I – Das Disposições Gerais
 
 ###### Art. 7º {#art7}
-Tags: #padrao-qualidade
 
 **Art. 7º, caput** {#art7_cpt} Os padrões de qualidade das águas determinados nesta Resolução estabelecem limites individuais para cada substância em cada classe.
 
 **Art. 7º, parágrafo único** {#art7_par1u} Eventuais interações entre substâncias, especificadas ou não nesta Resolução, não poderão conferir às águas características capazes de causar efeitos letais ou alteração de comportamento, reprodução ou fisiologia da vida, bem como de restringir os usos preponderantes previstos, ressalvado o disposto no [[#art34_par3|§ 3º do art. 34]], desta Resolução.
 
 ###### Art. 8º {#art8}
-Tags: #monitoramento #ecotoxicidade
 
 **Art. 8º, caput** {#art8_cpt} O conjunto de parâmetros de qualidade de água selecionado para subsidiar a proposta de enquadramento deverá ser monitorado periodicamente pelo Poder Público.
 
@@ -206,7 +199,6 @@ Tags: #monitoramento #ecotoxicidade
 **Art. 8º, § 6º** {#art8_par6} Para corpos de água salobras continentais, onde a salinidade não se dê por influência direta marinha, os valores dos grupos químicos de nitrogênio e fósforo serão os estabelecidos nas classes correspondentes de água doce.
 
 ###### Art. 9º {#art9}
-Tags: #laboratorio-acreditado #monitoramento
 
 **Art. 9º, caput** {#art9_cpt} A análise e avaliação dos valores dos parâmetros de qualidade de água de que trata esta Resolução serão realizadas pelo Poder Público, podendo ser utilizado laboratório próprio, conveniado ou contratado, que deverá adotar os procedimentos de controle de qualidade analítica necessários ao atendimento das condições exigíveis.
 
@@ -215,37 +207,32 @@ Tags: #laboratorio-acreditado #monitoramento
 **Art. 9º, § 2º** {#art9_par2} Nos casos onde a metodologia analítica disponível for insuficiente para quantificar as concentrações dessas substâncias nas águas, os sedimentos e/ou biota aquática poderão ser investigados quanto à presença eventual dessas substâncias.
 
 ###### Art. 10 {#art10}
-Tags: #dbo #nitrogenio #fosforo #eutrofizacao
 
 **Art. 10, caput** {#art10_cpt} Os valores máximos estabelecidos para os parâmetros relacionados em cada uma das classes de enquadramento deverão ser obedecidos nas condições de vazão de referência.
 
-**Art. 10, § 1º** {#art10_par1} #dbo Os limites de Demanda Bioquímica de Oxigênio (DBO), estabelecidos para as águas doces de classes 2 e 3, poderão ser elevados, caso o estudo da capacidade de autodepuração do corpo receptor demonstre que as concentrações mínimas de oxigênio dissolvido (OD) previstas não serão desobedecidas, nas condições de vazão de referência, com exceção da zona de mistura.
+**Art. 10, § 1º** {#art10_par1} Os limites de Demanda Bioquímica de Oxigênio (DBO), estabelecidos para as águas doces de classes 2 e 3, poderão ser elevados, caso o estudo da capacidade de autodepuração do corpo receptor demonstre que as concentrações mínimas de oxigênio dissolvido (OD) previstas não serão desobedecidas, nas condições de vazão de referência, com exceção da zona de mistura.
 
 **Art. 10, § 2º** {#art10_par2} Os valores máximos admissíveis dos parâmetros relativos às formas químicas de nitrogênio e fósforo, nas condições de vazão de referência, poderão ser alterados em decorrência de condições naturais, ou quando estudos ambientais específicos, que considerem também a poluição difusa, comprovem que esses novos limites não acarretarão prejuízos para os usos previstos no enquadramento do corpo de água.
 
-**Art. 10, § 3º** {#art10_par3} #nitrogenio #eutrofizacao Para águas doces de classes 1 e 2, quando o nitrogênio for fator limitante para eutrofização, nas condições estabelecidas pelo órgão ambiental competente, o valor de nitrogênio total (após oxidação) não deverá ultrapassar 1,27 mg/L para ambientes lênticos e 2,18 mg/L para ambientes lóticos, na vazão de referência.
+**Art. 10, § 3º** {#art10_par3} Para águas doces de classes 1 e 2, quando o nitrogênio for fator limitante para eutrofização, nas condições estabelecidas pelo órgão ambiental competente, o valor de nitrogênio total (após oxidação) não deverá ultrapassar 1,27 mg/L para ambientes lênticos e 2,18 mg/L para ambientes lóticos, na vazão de referência.
 
 **Art. 10, § 4º** {#art10_par4} O disposto nos [[#art10_par2|§§ 2º e 3º]] não se aplica às baías de águas salinas ou salobras, ou outros corpos de água em que não seja aplicável a vazão de referência, para os quais deverão ser elaborados estudos específicos sobre a dispersão e assimilação de poluentes no meio hídrico.
 
 ###### Art. 11 {#art11}
-Tags: #padrao-qualidade
 
 **Art. 11, caput** {#art11_cpt} O Poder Público poderá, a qualquer momento, acrescentar outras condições e padrões de qualidade, para um determinado corpo de água, ou torná-los mais restritivos, tendo em vista as condições locais, mediante fundamentação técnica.
 
 ###### Art. 12 {#art12}
-Tags: #restricao-temporaria
 
 **Art. 12, caput** {#art12_cpt} O Poder Público poderá estabelecer restrições e medidas adicionais, de caráter excepcional e temporário, quando a vazão do corpo de água estiver abaixo da vazão de referência.
 
 ###### Art. 13 {#art13}
-Tags: #classe-especial
 
 **Art. 13, caput** {#art13_cpt} Nas águas de classe especial deverão ser mantidas as condições naturais do corpo de água.
 
 ### Seção II – Das Águas Doces
 
 ###### Art. 14 {#art14}
-Tags: #agua-doce #classe-1 #padrao-qualidade #coliforme #dbo #od #turbidez #cianobacteria #pesca
 
 **Art. 14, caput** {#art14_cpt} As águas doces de classe 1 observarão as seguintes condições e padrões:
 - **Art. 14, caput, inciso I** {#art14_cpt_inc1} condições de qualidade de água:
@@ -255,15 +242,15 @@ Tags: #agua-doce #classe-1 #padrao-qualidade #coliforme #dbo #od #turbidez #cian
   - **Art. 14, caput, inciso I, alínea "d"** {#art14_cpt_inc1_alid} substâncias que comuniquem gosto ou odor: virtualmente ausentes;
   - **Art. 14, caput, inciso I, alínea "e"** {#art14_cpt_inc1_alie} corantes provenientes de fontes antrópicas: virtualmente ausentes;
   - **Art. 14, caput, inciso I, alínea "f"** {#art14_cpt_inc1_alif} resíduos sólidos objetáveis: virtualmente ausentes;
-  - **Art. 14, caput, inciso I, alínea "g"** {#art14_cpt_inc1_alig} #coliforme coliformes termotolerantes: para o uso de recreação de contato primário deverão ser obedecidos os padrões de qualidade de balneabilidade, previstos na [[resolucao-conama-274-2000|Resolução CONAMA nº 274, de 2000]]. Para os demais usos, não deverá ser excedido um limite de 200 coliformes termotolerantes por 100 mililitros em 80% ou mais, de pelo menos 6 amostras, coletadas durante o período de um ano, com freqüência bimestral. A E. Coli poderá ser determinada em substituição ao parâmetro coliformes termotolerantes de acordo com limites estabelecidos pelo órgão ambiental competente;
-  - **Art. 14, caput, inciso I, alínea "h"** {#art14_cpt_inc1_alih} #dbo DBO 5 dias a 20°C até 3 mg/L O2;
-  - **Art. 14, caput, inciso I, alínea "i"** {#art14_cpt_inc1_alii} #od OD, em qualquer amostra, não inferior a 6 mg/L O2;
+  - **Art. 14, caput, inciso I, alínea "g"** {#art14_cpt_inc1_alig} coliformes termotolerantes: para o uso de recreação de contato primário deverão ser obedecidos os padrões de qualidade de balneabilidade, previstos na [[resolucao-conama-274-2000|Resolução CONAMA nº 274, de 2000]]. Para os demais usos, não deverá ser excedido um limite de 200 coliformes termotolerantes por 100 mililitros em 80% ou mais, de pelo menos 6 amostras, coletadas durante o período de um ano, com freqüência bimestral. A E. Coli poderá ser determinada em substituição ao parâmetro coliformes termotolerantes de acordo com limites estabelecidos pelo órgão ambiental competente;
+  - **Art. 14, caput, inciso I, alínea "h"** {#art14_cpt_inc1_alih} DBO 5 dias a 20°C até 3 mg/L O2;
+  - **Art. 14, caput, inciso I, alínea "i"** {#art14_cpt_inc1_alii} OD, em qualquer amostra, não inferior a 6 mg/L O2;
   - **Art. 14, caput, inciso I, alínea "j"** {#art14_cpt_inc1_alij} turbidez até 40 unidades nefelométrica de turbidez (UNT);
   - **Art. 14, caput, inciso I, alínea "l"** {#art14_cpt_inc1_alil} cor verdadeira: nível de cor natural do corpo de água em mg Pt/L; e
   - **Art. 14, caput, inciso I, alínea "m"** {#art14_cpt_inc1_alim} pH: 6,0 a 9,0.
 - **Art. 14, caput, inciso II** {#art14_cpt_inc2} Padrões de qualidade de água:
 
-**Art. 14, Tabela I** {#art14_tab1} TABELA I - CLASSE 1 - ÁGUAS DOCES – PADRÕES #padrao-qualidade
+**Art. 14, Tabela I** {#art14_tab1} TABELA I - CLASSE 1 - ÁGUAS DOCES – PADRÕES
 
 - **Art. 14, Tabela I, linha 1** {#art14_tab1_lin1} PARÂMETROS: Clorofila a | VALOR MÁXIMO: 10 μg/L
 - **Art. 14, Tabela I, linha 2** {#art14_tab1_lin2} PARÂMETROS: Densidade de cianobactérias | VALOR MÁXIMO: 20.000 cel/mL ou 2 mm³/L
@@ -357,7 +344,7 @@ Tags: #agua-doce #classe-1 #padrao-qualidade #coliforme #dbo #od #turbidez #cian
 - **Art. 14, Tabela I, linha 90** {#art14_tab1_lin90} PARÂMETROS ORGÂNICOS: Xileno | VALOR MÁXIMO: 300 μg/L
 - **Art. 14, caput, inciso III** {#art14_cpt_inc3} Nas águas doces onde ocorrer pesca ou cultivo de organismos, para fins de consumo intensivo, além dos padrões estabelecidos no [[#art14_cpt_inc2|inciso II deste artigo]], aplicam-se os seguintes padrões em substituição ou adicionalmente:
 
-**Art. 14, Tabela II** {#art14_tab2} TABELA II - CLASSE 1 - ÁGUAS DOCES – PADRÕES PARA CORPOS DE ÁGUA ONDE HAJA PESCA OU CULTIVO DE ORGANISMOS PARA FINS DE CONSUMO INTENSIVO #padrao-qualidade
+**Art. 14, Tabela II** {#art14_tab2} TABELA II - CLASSE 1 - ÁGUAS DOCES – PADRÕES PARA CORPOS DE ÁGUA ONDE HAJA PESCA OU CULTIVO DE ORGANISMOS PARA FINS DE CONSUMO INTENSIVO
 
 - **Art. 14, Tabela II, linha 1** {#art14_tab2_lin1} PARÂMETROS INORGÂNICOS: Arsênio total | VALOR MÁXIMO: 0,14 μg/L As
 - **Art. 14, Tabela II, linha 2** {#art14_tab2_lin2} PARÂMETROS ORGÂNICOS: Benzidina | VALOR MÁXIMO: 0,0002 μg/L
@@ -379,23 +366,21 @@ Tags: #agua-doce #classe-1 #padrao-qualidade #coliforme #dbo #od #turbidez #cian
 - **Art. 14, Tabela II, linha 18** {#art14_tab2_lin18} PARÂMETROS ORGÂNICOS: 2,4,6-triclorofenol | VALOR MÁXIMO: 2,4 μg/L
 
 ###### Art. 15 {#art15}
-Tags: #agua-doce #classe-2 #padrao-qualidade #coliforme #dbo #od #fosforo #cianobacteria
 
 **Art. 15, caput** {#art15_cpt} Aplicam-se às águas doces de classe 2 as condições e padrões da classe 1 previstos no [[#art14|artigo anterior]], à exceção do seguinte:
 - **Art. 15, caput, inciso I** {#art15_cpt_inc1} não será permitida a presença de corantes provenientes de fontes antrópicas que não sejam removíveis por processo de coagulação, sedimentação e filtração convencionais;
-- **Art. 15, caput, inciso II** {#art15_cpt_inc2} #coliforme coliformes termotolerantes: para uso de recreação de contato primário deverá ser obedecida a [[resolucao-conama-274-2000|Resolução CONAMA nº 274, de 2000]]. Para os demais usos, não deverá ser excedido um limite de 1.000 coliformes termotolerantes por 100 mililitros em 80% ou mais de pelo menos 6 (seis) amostras coletadas durante o período de um ano, com freqüência bimestral. A E. coli poderá ser determinada em substituição ao parâmetro coliformes termotolerantes de acordo com limites estabelecidos pelo órgão ambiental competente;
+- **Art. 15, caput, inciso II** {#art15_cpt_inc2} coliformes termotolerantes: para uso de recreação de contato primário deverá ser obedecida a [[resolucao-conama-274-2000|Resolução CONAMA nº 274, de 2000]]. Para os demais usos, não deverá ser excedido um limite de 1.000 coliformes termotolerantes por 100 mililitros em 80% ou mais de pelo menos 6 (seis) amostras coletadas durante o período de um ano, com freqüência bimestral. A E. coli poderá ser determinada em substituição ao parâmetro coliformes termotolerantes de acordo com limites estabelecidos pelo órgão ambiental competente;
 - **Art. 15, caput, inciso III** {#art15_cpt_inc3} cor verdadeira: até 75 mg Pt/L;
 - **Art. 15, caput, inciso IV** {#art15_cpt_inc4} turbidez: até 100 UNT;
-- **Art. 15, caput, inciso V** {#art15_cpt_inc5} #dbo DBO 5 dias a 20°C até 5 mg/L O2;
-- **Art. 15, caput, inciso VI** {#art15_cpt_inc6} #od OD, em qualquer amostra, não inferior a 5 mg/L O2;
+- **Art. 15, caput, inciso V** {#art15_cpt_inc5} DBO 5 dias a 20°C até 5 mg/L O2;
+- **Art. 15, caput, inciso VI** {#art15_cpt_inc6} OD, em qualquer amostra, não inferior a 5 mg/L O2;
 - **Art. 15, caput, inciso VII** {#art15_cpt_inc7} clorofila a: até 30 μg/L;
 - **Art. 15, caput, inciso VIII** {#art15_cpt_inc8} densidade de cianobactérias: até 50000 cel/mL ou 5 mm³/L; e,
-- **Art. 15, caput, inciso IX** {#art15_cpt_inc9} #fosforo fósforo total:
+- **Art. 15, caput, inciso IX** {#art15_cpt_inc9} fósforo total:
   - **Art. 15, caput, inciso IX, alínea "a"** {#art15_cpt_inc9_alia} até 0,030 mg/L, em ambientes lênticos; e,
   - **Art. 15, caput, inciso IX, alínea "b"** {#art15_cpt_inc9_alib} até 0,050 mg/L, em ambientes intermediários, com tempo de residência entre 2 e 40 dias, e tributários diretos de ambiente lêntico.
 
 ###### Art. 16 {#art16}
-Tags: #agua-doce #classe-3 #padrao-qualidade #coliforme #dbo #od #cianobacteria #dessedentacao-animal
 
 **Art. 16, caput** {#art16_cpt} As águas doces de classe 3 observarão as seguintes condições e padrões:
 - **Art. 16, caput, inciso I** {#art16_cpt_inc1} condições de qualidade de água:
@@ -405,16 +390,16 @@ Tags: #agua-doce #classe-3 #padrao-qualidade #coliforme #dbo #od #cianobacteria 
   - **Art. 16, caput, inciso I, alínea "d"** {#art16_cpt_inc1_alid} substâncias que comuniquem gosto ou odor: virtualmente ausentes;
   - **Art. 16, caput, inciso I, alínea "e"** {#art16_cpt_inc1_alie} não será permitida a presença de corantes provenientes de fontes antrópicas que não sejam removíveis por processo de coagulação, sedimentação e filtração convencionais;
   - **Art. 16, caput, inciso I, alínea "f"** {#art16_cpt_inc1_alif} resíduos sólidos objetáveis: virtualmente ausentes;
-  - **Art. 16, caput, inciso I, alínea "g"** {#art16_cpt_inc1_alig} #coliforme coliformes termotolerantes: para o uso de recreação de contato secundário não deverá ser excedido um limite de 2500 coliformes termotolerantes por 100 mililitros em 80% ou mais de pelo menos 6 amostras, coletadas durante o período de um ano, com freqüência bimestral. Para dessedentação de animais criados confinados não deverá ser excedido o limite de 1000 coliformes termotolerantes por 100 mililitros em 80% ou mais de pelo menos 6 amostras, coletadas durante o período de um ano, com freqüência bimestral. Para os demais usos, não deverá ser excedido um limite de 4000 coliformes termotolerantes por 100 mililitros em 80% ou mais de pelo menos 6 amostras coletadas durante o período de um ano, com periodicidade bimestral. A E. Coli poderá ser determinada em substituição ao parâmetro coliformes termotolerantes de acordo com limites estabelecidos pelo órgão ambiental competente;
-  - **Art. 16, caput, inciso I, alínea "h"** {#art16_cpt_inc1_alih} #cianobacteria #dessedentacao-animal cianobactérias para dessedentação de animais: os valores de densidade de cianobactérias não deverão exceder 50.000 cel/ml, ou 5mm3/L;
-  - **Art. 16, caput, inciso I, alínea "i"** {#art16_cpt_inc1_alii} #dbo DBO 5 dias a 20°C até 10 mg/L O2;
-  - **Art. 16, caput, inciso I, alínea "j"** {#art16_cpt_inc1_alij} #od OD, em qualquer amostra, não inferior a 4 mg/L O2;
+  - **Art. 16, caput, inciso I, alínea "g"** {#art16_cpt_inc1_alig} coliformes termotolerantes: para o uso de recreação de contato secundário não deverá ser excedido um limite de 2500 coliformes termotolerantes por 100 mililitros em 80% ou mais de pelo menos 6 amostras, coletadas durante o período de um ano, com freqüência bimestral. Para dessedentação de animais criados confinados não deverá ser excedido o limite de 1000 coliformes termotolerantes por 100 mililitros em 80% ou mais de pelo menos 6 amostras, coletadas durante o período de um ano, com freqüência bimestral. Para os demais usos, não deverá ser excedido um limite de 4000 coliformes termotolerantes por 100 mililitros em 80% ou mais de pelo menos 6 amostras coletadas durante o período de um ano, com periodicidade bimestral. A E. Coli poderá ser determinada em substituição ao parâmetro coliformes termotolerantes de acordo com limites estabelecidos pelo órgão ambiental competente;
+  - **Art. 16, caput, inciso I, alínea "h"** {#art16_cpt_inc1_alih} cianobactérias para dessedentação de animais: os valores de densidade de cianobactérias não deverão exceder 50.000 cel/ml, ou 5mm3/L;
+  - **Art. 16, caput, inciso I, alínea "i"** {#art16_cpt_inc1_alii} DBO 5 dias a 20°C até 10 mg/L O2;
+  - **Art. 16, caput, inciso I, alínea "j"** {#art16_cpt_inc1_alij} OD, em qualquer amostra, não inferior a 4 mg/L O2;
   - **Art. 16, caput, inciso I, alínea "l"** {#art16_cpt_inc1_alil} turbidez até 100 UNT;
   - **Art. 16, caput, inciso I, alínea "m"** {#art16_cpt_inc1_alim} cor verdadeira: até 75 mg Pt/L; e,
   - **Art. 16, caput, inciso I, alínea "n"** {#art16_cpt_inc1_alin} pH: 6,0 a 9,0.
 - **Art. 16, caput, inciso II** {#art16_cpt_inc2} Padrões de qualidade de água:
 
-**Art. 16, Tabela III** {#art16_tab3} TABELA III - CLASSE 3 - ÁGUAS DOCES – PADRÕES #padrao-qualidade
+**Art. 16, Tabela III** {#art16_tab3} TABELA III - CLASSE 3 - ÁGUAS DOCES – PADRÕES
 
 - **Art. 16, Tabela III, linha 1** {#art16_tab3_lin1} PARÂMETROS: Clorofila a | VALOR MÁXIMO: 60 μg/L
 - **Art. 16, Tabela III, linha 2** {#art16_tab3_lin2} PARÂMETROS: Densidade de cianobactérias | VALOR MÁXIMO: 100.000 cel/mL ou 10 mm³/L
@@ -485,7 +470,6 @@ Tags: #agua-doce #classe-3 #padrao-qualidade #coliforme #dbo #od #cianobacteria 
 - **Art. 16, Tabela III, linha 67** {#art16_tab3_lin67} PARÂMETROS ORGÂNICOS: 2,4,6-Triclorofenol | VALOR MÁXIMO: 0,01 mg/L
 
 ###### Art. 17 {#art17}
-Tags: #agua-doce #classe-4 #padrao-qualidade #od
 
 **Art. 17, caput** {#art17_cpt} As águas doces de classe 4 observarão as seguintes condições e padrões:
 - **Art. 17, caput, inciso I** {#art17_cpt_inc1} materiais flutuantes, inclusive espumas não naturais: virtualmente ausentes;
@@ -499,7 +483,6 @@ Tags: #agua-doce #classe-4 #padrao-qualidade #od
 ### Seção III – Das Águas Salinas
 
 ###### Art. 18 {#art18}
-Tags: #agua-salina #classe-1 #padrao-qualidade #coliforme #od #pesca
 
 **Art. 18, caput** {#art18_cpt} As águas salinas de classe 1 observarão as seguintes condições e padrões:
 - **Art. 18, caput, inciso I** {#art18_cpt_inc1} condições de qualidade de água:
@@ -515,7 +498,7 @@ Tags: #agua-salina #classe-1 #padrao-qualidade #coliforme #od #pesca
   - **Art. 18, caput, inciso I, alínea "j"** {#art18_cpt_inc1_alij} pH: 6,5 a 8,5, não devendo haver uma mudança do pH natural maior do que 0,2 unidade.
 - **Art. 18, caput, inciso II** {#art18_cpt_inc2} Padrões de qualidade de água:
 
-**Art. 18, Tabela IV** {#art18_tab4} TABELA IV - CLASSE 1 - ÁGUAS SALINAS – PADRÕES #padrao-qualidade
+**Art. 18, Tabela IV** {#art18_tab4} TABELA IV - CLASSE 1 - ÁGUAS SALINAS – PADRÕES
 
 - **Art. 18, Tabela IV, linha 1** {#art18_tab4_lin1} PARÂMETROS INORGÂNICOS: Alumínio dissolvido | VALOR MÁXIMO: 1,5 mg/L Al
 - **Art. 18, Tabela IV, linha 2** {#art18_tab4_lin2} PARÂMETROS INORGÂNICOS: Arsênio total | VALOR MÁXIMO: 0,01 mg/L As
@@ -574,7 +557,7 @@ Tags: #agua-salina #classe-1 #padrao-qualidade #coliforme #od #pesca
 - **Art. 18, Tabela IV, linha 55** {#art18_tab4_lin55} PARÂMETROS ORGÂNICOS: Tricloroeteno | VALOR MÁXIMO: 30,0 μg/L
 - **Art. 18, caput, inciso III** {#art18_cpt_inc3} Nas águas salinas onde ocorrer pesca ou cultivo de organismos, para fins de consumo intensivo, além dos padrões estabelecidos no [[#art18_cpt_inc2|inciso II deste artigo]], aplicam-se os seguintes padrões em substituição ou adicionalmente:
 
-**Art. 18, Tabela V** {#art18_tab5} TABELA V - CLASSE 1 - ÁGUAS SALINAS – PADRÕES PARA CORPOS DE ÁGUA ONDE HAJA PESCA OU CULTIVO DE ORGANISMOS PARA FINS DE CONSUMO INTENSIVO #padrao-qualidade
+**Art. 18, Tabela V** {#art18_tab5} TABELA V - CLASSE 1 - ÁGUAS SALINAS – PADRÕES PARA CORPOS DE ÁGUA ONDE HAJA PESCA OU CULTIVO DE ORGANISMOS PARA FINS DE CONSUMO INTENSIVO
 
 - **Art. 18, Tabela V, linha 1** {#art18_tab5_lin1} PARÂMETROS INORGÂNICOS: Arsênio total | VALOR MÁXIMO: 0,14 μg/L As
 - **Art. 18, Tabela V, linha 2** {#art18_tab5_lin2} PARÂMETROS ORGÂNICOS: Benzeno | VALOR MÁXIMO: 51 μg/L
@@ -599,7 +582,6 @@ Tags: #agua-salina #classe-1 #padrao-qualidade #coliforme #od #pesca
 - **Art. 18, Tabela V, linha 21** {#art18_tab5_lin21} PARÂMETROS ORGÂNICOS: 2,4,6-Triclorofenol | VALOR MÁXIMO: 2,4 μg/L
 
 ###### Art. 19 {#art19}
-Tags: #agua-salina #classe-2 #padrao-qualidade #coliforme #od
 
 **Art. 19, caput** {#art19_cpt} Aplicam-se às águas salinas de classe 2 as condições e padrões de qualidade da classe 1, previstos no [[#art18|artigo anterior]], à exceção dos seguintes:
 - **Art. 19, caput, inciso I** {#art19_cpt_inc1} condições de qualidade de água:
@@ -609,7 +591,7 @@ Tags: #agua-salina #classe-2 #padrao-qualidade #coliforme #od
   - **Art. 19, caput, inciso I, alínea "d"** {#art19_cpt_inc1_alid} OD, em qualquer amostra, não inferior a 5,0 mg/L O2.
 - **Art. 19, caput, inciso II** {#art19_cpt_inc2} Padrões de qualidade de água:
 
-**Art. 19, Tabela VI** {#art19_tab6} TABELA VI - CLASSE 2 - ÁGUAS SALINAS – PADRÕES #padrao-qualidade
+**Art. 19, Tabela VI** {#art19_tab6} TABELA VI - CLASSE 2 - ÁGUAS SALINAS – PADRÕES
 
 - **Art. 19, Tabela VI, linha 1** {#art19_tab6_lin1} PARÂMETROS INORGÂNICOS: Arsênio total | VALOR MÁXIMO: 0,069 mg/L As
 - **Art. 19, Tabela VI, linha 2** {#art19_tab6_lin2} PARÂMETROS INORGÂNICOS: Cádmio total | VALOR MÁXIMO: 0,04 mg/L Cd
@@ -638,7 +620,6 @@ Tags: #agua-salina #classe-2 #padrao-qualidade #coliforme #od
 - **Art. 19, Tabela VI, linha 25** {#art19_tab6_lin25} PARÂMETROS ORGÂNICOS: Tributilestanho | VALOR MÁXIMO: 0,37 μg/L TBT
 
 ###### Art. 20 {#art20}
-Tags: #agua-salina #classe-3 #padrao-qualidade #coliforme #od
 
 **Art. 20, caput** {#art20_cpt} As águas salinas de classe 3 observarão as seguintes condições e padrões:
 - **Art. 20, caput, inciso I** {#art20_cpt_inc1} materiais flutuantes, inclusive espumas não naturais: virtualmente ausentes;
@@ -654,7 +635,6 @@ Tags: #agua-salina #classe-3 #padrao-qualidade #coliforme #od
 ### Seção IV – Das Águas Salobras
 
 ###### Art. 21 {#art21}
-Tags: #agua-salobra #classe-1 #padrao-qualidade #coliforme #od #pesca
 
 **Art. 21, caput** {#art21_cpt} As águas salobras de classe 1 observarão as seguintes condições e padrões:
 - **Art. 21, caput, inciso I** {#art21_cpt_inc1} condições de qualidade de água:
@@ -669,7 +649,7 @@ Tags: #agua-salobra #classe-1 #padrao-qualidade #coliforme #od #pesca
   - **Art. 21, caput, inciso I, alínea "i"** {#art21_cpt_inc1_alii} coliformes termotolerantes: para o uso de recreação de contato primário deverá ser obedecida a [[resolucao-conama-274-2000|Resolução CONAMA nº 274, de 2000]]. Para o cultivo de moluscos bivalves destinados à alimentação humana, a média geométrica da densidade de coliformes termotolerantes, de um mínimo de 15 amostras coletadas no mesmo local, não deverá exceder 43 por 100 mililitros, e o percentil 90% não deverá ultrapassar 88 coliformes termolerantes por 100 mililitros. Esses índices deverão ser mantidos em monitoramento anual com um mínimo de 5 amostras. Para a irrigação de hortaliças que são consumidas cruas e de frutas que se desenvolvam rentes ao solo e que sejam ingeridas cruas sem remoção de película, bem como para a irrigação de parques, jardins, campos de esporte e lazer, com os quais o público possa vir a ter contato direto, não deverá ser excedido o valor de 200 coliformes termotolerantes por 100mL. Para os demais usos não deverá ser excedido um limite de 1.000 coliformes termotolerantes por 100 mililitros em 80% ou mais de pelo menos 6 amostras coletadas durante o período de um ano, com freqüência bimestral. A E. coli poderá ser determinada em substituição ao parâmetro coliformes termotolerantes de acordo com limites estabelecidos pelo órgão ambiental competente.
 - **Art. 21, caput, inciso II** {#art21_cpt_inc2} Padrões de qualidade de água:
 
-**Art. 21, Tabela VII** {#art21_tab7} TABELA VII - CLASSE 1 - ÁGUAS SALOBRAS – PADRÕES #padrao-qualidade
+**Art. 21, Tabela VII** {#art21_tab7} TABELA VII - CLASSE 1 - ÁGUAS SALOBRAS – PADRÕES
 
 - **Art. 21, Tabela VII, linha 1** {#art21_tab7_lin1} PARÂMETROS INORGÂNICOS: Alumínio dissolvido | VALOR MÁXIMO: 0,1 mg/L Al
 - **Art. 21, Tabela VII, linha 2** {#art21_tab7_lin2} PARÂMETROS INORGÂNICOS: Arsênio total | VALOR MÁXIMO: 0,01 mg/L As
@@ -725,7 +705,7 @@ Tags: #agua-salobra #classe-1 #padrao-qualidade #coliforme #od #pesca
 - **Art. 21, Tabela VII, linha 52** {#art21_tab7_lin52} PARÂMETROS ORGÂNICOS: Triclorobenzeno (1,2,3-TCB + 1,2,4-TCB) | VALOR MÁXIMO: 80,0 μg/L
 - **Art. 21, caput, inciso III** {#art21_cpt_inc3} Nas águas salobras onde ocorrer pesca ou cultivo de organismos, para fins de consumo intensivo, além dos padrões estabelecidos no [[#art21_cpt_inc2|inciso II deste artigo]], aplicam-se os seguintes padrões em substituição ou adicionalmente:
 
-**Art. 21, Tabela VIII** {#art21_tab8} TABELA VIII - CLASSE 1 - ÁGUAS SALOBRAS – PADRÕES PARA CORPOS DE ÁGUA ONDE HAJA PESCA OU CULTIVO DE ORGANISMOS PARA FINS DE CONSUMO INTENSIVO #padrao-qualidade
+**Art. 21, Tabela VIII** {#art21_tab8} TABELA VIII - CLASSE 1 - ÁGUAS SALOBRAS – PADRÕES PARA CORPOS DE ÁGUA ONDE HAJA PESCA OU CULTIVO DE ORGANISMOS PARA FINS DE CONSUMO INTENSIVO
 
 - **Art. 21, Tabela VIII, linha 1** {#art21_tab8_lin1} PARÂMETROS INORGÂNICOS: Arsênio total | VALOR MÁXIMO: 0,14 μg/L As
 - **Art. 21, Tabela VIII, linha 2** {#art21_tab8_lin2} PARÂMETROS ORGÂNICOS: Benzeno | VALOR MÁXIMO: 51 μg/L
@@ -751,7 +731,6 @@ Tags: #agua-salobra #classe-1 #padrao-qualidade #coliforme #od #pesca
 - **Art. 21, Tabela VIII, linha 22** {#art21_tab8_lin22} PARÂMETROS ORGÂNICOS: 2,4,6-Triclorofenol | VALOR MÁXIMO: 2,4 μg/L
 
 ###### Art. 22 {#art22}
-Tags: #agua-salobra #classe-2 #padrao-qualidade #coliforme #od
 
 **Art. 22, caput** {#art22_cpt} Aplicam-se às águas salobras de classe 2 as condições e padrões de qualidade da classe 1, previstos no [[#art21|artigo anterior]], à exceção dos seguintes:
 - **Art. 22, caput, inciso I** {#art22_cpt_inc1} condições de qualidade de água:
@@ -761,7 +740,7 @@ Tags: #agua-salobra #classe-2 #padrao-qualidade #coliforme #od
   - **Art. 22, caput, inciso I, alínea "d"** {#art22_cpt_inc1_alid} coliformes termotolerantes: não deverá ser excedido um limite de 2500 por 100 mililitros em 80% ou mais de pelo menos 6 amostras coletadas durante o período de um ano, com freqüência bimestral. A E. coli poderá ser determinada em substituição ao parâmetro coliformes termotolerantes de acordo com limites estabelecidos pelo órgão ambiental competente.
 - **Art. 22, caput, inciso II** {#art22_cpt_inc2} Padrões de qualidade de água:
 
-**Art. 22, Tabela IX** {#art22_tab9} TABELA IX - CLASSE 2 - ÁGUAS SALOBRAS – PADRÕES #padrao-qualidade
+**Art. 22, Tabela IX** {#art22_tab9} TABELA IX - CLASSE 2 - ÁGUAS SALOBRAS – PADRÕES
 
 - **Art. 22, Tabela IX, linha 1** {#art22_tab9_lin1} PARÂMETROS INORGÂNICOS: Arsênio total | VALOR MÁXIMO: 0,069 mg/L As
 - **Art. 22, Tabela IX, linha 2** {#art22_tab9_lin2} PARÂMETROS INORGÂNICOS: Cádmio total | VALOR MÁXIMO: 0,04 mg/L Cd
@@ -790,7 +769,6 @@ Tags: #agua-salobra #classe-2 #padrao-qualidade #coliforme #od
 - **Art. 22, Tabela IX, linha 25** {#art22_tab9_lin25} PARÂMETROS ORGÂNICOS: Tributilestanho | VALOR MÁXIMO: 0,37 μg/L TBT
 
 ###### Art. 23 {#art23}
-Tags: #agua-salobra #classe-3 #padrao-qualidade #coliforme #od
 
 **Art. 23, caput** {#art23_cpt} As águas salobras de classe 3 observarão as seguintes condições e padrões:
 - **Art. 23, caput, inciso I** {#art23_cpt_inc1} pH: 5 a 9;
@@ -805,7 +783,6 @@ Tags: #agua-salobra #classe-3 #padrao-qualidade #coliforme #od
 ## CAPÍTULO IV – DAS CONDIÇÕES E PADRÕES DE LANÇAMENTO DE EFLUENTES
 
 ###### Art. 24 {#art24}
-Tags: #padrao-lancamento #efluente #tratamento-efluente
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 24, caput** {#art24_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -815,7 +792,6 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 - **Art. 24, parágrafo único, inciso II** {#art24_par1u_inc2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 25 {#art25}
-Tags: #padrao-lancamento #eia-rima
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 25, caput** {#art25_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -828,7 +804,6 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 - **Art. 25, parágrafo único, inciso V** {#art25_par1u_inc5} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 26 {#art26}
-Tags: #carga-poluidora #capacidade-suporte #licenciamento-ambiental
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 26, caput** {#art26_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -842,7 +817,6 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 **Art. 26, § 4º** {#art26_par4} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 27 {#art27}
-Tags: #pop
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 27, caput** {#art27_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -850,7 +824,6 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 **Art. 27, parágrafo único** {#art27_par1u} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 28 {#art28}
-Tags: #enquadramento
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 28, caput** {#art28_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -862,25 +835,21 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 **Art. 28, § 3º** {#art28_par3} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 29 {#art29}
-Tags: #disposicao-solo
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 29, caput** {#art29_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 30 {#art30}
-Tags: #diluicao
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 30, caput** {#art30_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 31 {#art31}
-Tags: #fonte-poluicao
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 31, caput** {#art31_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 32 {#art32}
-Tags: #classe-especial #efluente
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 32, caput** {#art32_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -893,7 +862,6 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 **Art. 32, § 2º** {#art32_par2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 33 {#art33}
-Tags: #zona-mistura
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 33, caput** {#art33_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -901,7 +869,6 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 **Art. 33, parágrafo único** {#art33_par1u} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 34 {#art34}
-Tags: #padrao-lancamento #oleos-graxas
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 34, caput** {#art34_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -924,7 +891,7 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 
 **Art. 34, § 5º** {#art34_par5} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 34, Tabela X** {#art34_tab10} #revogado #padrao-lancamento
+**Art. 34, Tabela X** {#art34_tab10} #revogado
 
 - **Art. 34, Tabela X, linha 1** {#art34_tab10_lin1} #revogado 
 - **Art. 34, Tabela X, linha 2** {#art34_tab10_lin2} #revogado 
@@ -954,7 +921,6 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 35 {#art35}
-Tags: #restricao-temporaria
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 35, caput** {#art35_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -962,13 +928,11 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 - **Art. 35, caput, inciso II** {#art35_cpt_inc2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 36 {#art36}
-Tags: #servico-saude #efluente
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 36, caput** {#art36_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 37 {#art37}
-Tags: #condicao-especial
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 37, caput** {#art37_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -976,7 +940,6 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 ## CAPÍTULO V – DIRETRIZES AMBIENTAIS PARA O ENQUADRAMENTO
 
 ###### Art. 38 {#art38}
-Tags: #enquadramento #conselho-nacional-dos-recursos-hidricos #outorga #licenciamento-ambiental #tac #abastecimento-publico
 
 **Art. 38, caput** {#art38_cpt} O enquadramento dos corpos de água dar-se-á de acordo com as normas e procedimentos definidos pelo Conselho Nacional de Recursos Hídricos-CNRH e Conselhos Estaduais de Recursos Hídricos.
 
@@ -984,13 +947,13 @@ Tags: #enquadramento #conselho-nacional-dos-recursos-hidricos #outorga #licencia
 
 **Art. 38, § 2º** {#art38_par2} Nas bacias hidrográficas em que a condição de qualidade dos corpos de água esteja em desacordo com os usos preponderantes pretendidos, deverão ser estabelecidas metas obrigatórias, intermediárias e final, de melhoria da qualidade da água para efetivação dos respectivos enquadramentos, excetuados nos parâmetros que excedam aos limites devido às condições naturais.
 
-**Art. 38, § 3º** {#art38_par3} #outorga #licenciamento-ambiental As ações de gestão referentes ao uso dos recursos hídricos, tais como a outorga e cobrança pelo uso da água, ou referentes à gestão ambiental, como o licenciamento, termos de ajustamento de conduta e o controle da poluição, deverão basear-se nas metas progressivas intermediárias e final aprovadas pelo órgão competente para a respectiva bacia hidrográfica ou corpo hídrico específico.
+**Art. 38, § 3º** {#art38_par3} As ações de gestão referentes ao uso dos recursos hídricos, tais como a outorga e cobrança pelo uso da água, ou referentes à gestão ambiental, como o licenciamento, termos de ajustamento de conduta e o controle da poluição, deverão basear-se nas metas progressivas intermediárias e final aprovadas pelo órgão competente para a respectiva bacia hidrográfica ou corpo hídrico específico.
 
 **Art. 38, § 4º** {#art38_par4} As metas progressivas obrigatórias, intermediárias e final, deverão ser atingidas em regime de vazão de referência, excetuados os casos de baías de águas salinas ou salobras, ou outros corpos hídricos onde não seja aplicável a vazão de referência, para os quais deverão ser elaborados estudos específicos sobre a dispersão e assimilação de poluentes no meio hídrico.
 
 **Art. 38, § 5º** {#art38_par5} Em corpos de água intermitentes ou com regime de vazão que apresente diferença sazonal significativa, as metas progressivas obrigatórias poderão variar ao longo do ano.
 
-**Art. 38, § 6º** {#art38_par6} #abastecimento-publico Em corpos de água utilizados por populações para seu abastecimento, o enquadramento e o licenciamento ambiental de atividades a montante preservarão, obrigatoriamente, as condições de consumo.
+**Art. 38, § 6º** {#art38_par6} Em corpos de água utilizados por populações para seu abastecimento, o enquadramento e o licenciamento ambiental de atividades a montante preservarão, obrigatoriamente, as condições de consumo.
 
 ## CAPÍTULO VI – DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
@@ -1000,7 +963,6 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 **Art. 39, caput** {#art39_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 40 {#art40}
-Tags: #abastecimento-publico #potabilidade
 
 **Art. 40, caput** {#art40_cpt} No caso de abastecimento para consumo humano, sem prejuízo do disposto nesta Resolução, deverão ser observadas, as normas específicas sobre qualidade da água e padrões de potabilidade.
 
@@ -1009,26 +971,23 @@ Tags: #abastecimento-publico #potabilidade
 **Art. 41, caput** {#art41_cpt} Os métodos de coleta e de análises de águas são os especificados em normas técnicas cientificamente reconhecidas.
 
 ###### Art. 42 {#art42}
-Tags: #enquadramento #classe-2 #classe-1
 
 **Art. 42, caput** {#art42_cpt} Enquanto não aprovados os respectivos enquadramentos, as águas doces serão consideradas classe 2, as salinas e salobras classe 1, exceto se as condições de qualidade atuais forem melhores, o que determinará a aplicação da classe mais rigorosa correspondente.
 
 ###### Art. 43 {#art43}
-Tags: #tac #ministerio-publico
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 43, caput** {#art43_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 **Art. 43, § 1º** {#art43_par1} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 43, § 2º** {#art43_par2} #tac #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 43, § 2º** {#art43_par2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 **Art. 43, § 3º** {#art43_par3} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
-**Art. 43, § 4º** {#art43_par4} #plataforma-petroleo #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
+**Art. 43, § 4º** {#art43_par4} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 44 {#art44}
-Tags: #conama #padrao-lancamento #prazo
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 44, caput** {#art44_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -1036,7 +995,6 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 > Nota de rodapé ¹ do original: .
 
 ###### Art. 45 {#art45}
-Tags: #sancao #fiscalizacao
 
 **Art. 45, caput** {#art45_cpt} O não cumprimento ao disposto nesta Resolução acarretará aos infratores as sanções previstas pela legislação vigente.
 
@@ -1045,7 +1003,6 @@ Tags: #sancao #fiscalizacao
 **Art. 45, § 2º** {#art45_par2} As exigências e deveres previstos nesta Resolução caracterizam obrigação de relevante interesse ambiental.
 
 ###### Art. 46 {#art46}
-Tags: #dcp #carga-poluidora
 Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo revogado)
 
 **Art. 46, caput** {#art46_cpt} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
@@ -1055,17 +1012,14 @@ Alterações: [[resolucao-conama-430-2011#art32|Resolução 430/2011]] (artigo r
 **Art. 46, § 2º** {#art46_par2} #revogado *(Revogado pela [[resolucao-conama-430-2011#art32|Resolução 430/2011]])*
 
 ###### Art. 47 {#art47}
-Tags: #responsavel-tecnico
 
 **Art. 47, caput** {#art47_cpt} Equiparam-se a perito, os responsáveis técnicos que elaborem estudos e pareceres apresentados aos órgãos ambientais.
 
 ###### Art. 48 {#art48}
-Tags: #sancao #infracao-ambiental
 
 **Art. 48, caput** {#art48_cpt} O não cumprimento ao disposto nesta Resolução sujeitará os infratores, entre outras, às sanções previstas na [[lei-federal-9605-1998|Lei nº 9.605, de 12 de fevereiro de 1998]] e respectiva regulamentação.
 
 ###### Art. 49 {#art49}
-Tags: #vigencia
 
 **Art. 49, caput** {#art49_cpt} Esta Resolução entra em vigor na data de sua publicação.
 

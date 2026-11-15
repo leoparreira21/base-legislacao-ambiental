@@ -37,7 +37,6 @@ fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé tra
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer conceitos, requisitos, critérios, diretrizes e procedimentos administrativos referentes ao licenciamento ambiental, a serem cumpridos no território do Estado do Paraná, na forma da presente Resolução.
 
@@ -46,7 +45,6 @@ Tags: #licenciamento-ambiental
 #### Seção I – Definições e Conceitos
 
 ###### Art. 2º {#art2}
-Tags: #definicao #licenciamento-ambiental
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução, considera-se:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} Automonitoramento: instrumento de gestão que objetiva acompanhar a relação de um empreendimento com o meio ambiente onde ele se insere, permitindo a identificação e a quantificação dos possíveis impactos ambientais causados por este, e as suas expensas.
@@ -73,7 +71,6 @@ Tags: #definicao #licenciamento-ambiental
 #### Seção II – Dos Atos Administrativos
 
 ###### Art. 3º {#art3}
-Tags: #ato-administrativo #licenca-ambiental
 
 **Art. 3º, caput** {#art3_cpt} O órgão ambiental competente, no exercício de sua competência de controle ambiental, expedirá os seguintes atos administrativos, referentes ao licenciamento ambiental:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} Declaração de Inexigibilidade de Licença Ambiental (DILA): concedida para as atividades e empreendimentos dotados de impactos ambiental e socioambiental insignificantes para os quais é inexigível o licenciamento ambiental, respeitadas as legislações municipais;
@@ -91,7 +88,6 @@ Tags: #ato-administrativo #licenca-ambiental
 **Art. 3º, § 2º** {#art3_par2} Os atos administrativos de licenciamento ambiental são de titularidade do empreendedor, podendo ser transferida a titularidade a terceiros mediante a anuência formal do órgão ambiental competente.
 
 ###### Art. 4º {#art4}
-Tags: #prazo #renovacao #licenca-ambiental
 
 **Art. 4º, caput** {#art4_cpt} Os prazos de validade e a possibilidade de renovação de cada ato administrativo estão estabelecidos no Anexo III desta Resolução e especificados no respectivo documento de licenciamento.
 
@@ -112,7 +108,6 @@ Tags: #prazo #renovacao #licenca-ambiental
 #### Seção III – Das Modalidades de Licenciamento Ambiental
 
 ###### Art. 5º {#art5}
-Tags: #modalidade-licenciamento
 
 **Art. 5º, caput** {#art5_cpt} Constituem modalidades de licenciamento ambiental:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} Licenciamento Ambiental Trifásico: licenciamento no qual a Licença Prévia - LP, a Licença de Instalação - LI e a Licença de Operação - LO da atividade ou do empreendimento são concedidas em etapas sucessivas;
@@ -128,14 +123,12 @@ Tags: #modalidade-licenciamento
 #### Seção IV – Do enquadramento das atividades e empreendimentos
 
 ###### Art. 6º {#art6}
-Tags: #enquadramento #porte #potencial-poluidor
 
 **Art. 6º, caput** {#art6_cpt} O enquadramento e o procedimento de licenciamento ambiental a serem adotados serão definidos pela relação da localização da atividade ou empreendimento, com seu porte e potencial poluidor/degradador, levando em consideração sua tipologia.
 
 **Art. 6º, parágrafo único** {#art6_par1u} O licenciamento ambiental deverá assegurar a participação pública, a transparência e o controle social, bem como a preponderância do interesse público, a celeridade e a economia processual, a prevenção do dano ambiental e a análise integrada dos impactos ambientais.
 
 ###### Art. 7º {#art7}
-Tags: #enquadramento #porte #potencial-poluidor
 
 **Art. 7º, caput** {#art7_cpt} Estão sujeitos ao licenciamento ambiental no âmbito estadual as atividades e empreendimentos conforme critérios de potencial poluidor/degradador, porte e de localização, cujo enquadramento deverá ser estabelecido pelo órgão ambiental competente, atendendo, no mínimo, os seguintes critérios:
 - **Art. 7º, caput, inciso I** {#art7_cpt_inc1} O potencial poluidor/degradador das atividades e empreendimento será considerado como Pequeno, Médio, Grande, por meio das variáveis ambientais de ar, água, e solo, fauna e flora, nos termos da legislação específica;
@@ -147,12 +140,10 @@ Tags: #enquadramento #porte #potencial-poluidor
 #### Seção I – Do Procedimento Administrativo
 
 ###### Art. 8º {#art8}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 8º, caput** {#art8_cpt} Caberá, ao órgão ambiental competente, definir os critérios de exigibilidade, detalhamento do rol de empreendimentos, atividades e obras passíveis de licenciamento e/ou autorização ambiental levando em consideração as especificidades, os riscos ambientais, o porte e outras características do empreendimento, atividade ou obra.
 
 ###### Art. 9º {#art9}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 9º, caput** {#art9_cpt} O procedimento de Licença Ambiental por Adesão e Compromisso – LAC, obedecerá as seguintes condições:
 - **Art. 9º, caput, inciso I** {#art9_cpt_inc1} Solicitação de licenciamento ambiental, pelo empreendedor, com o preenchimento de requerimento, prioritariamente por meio de sistema informatizado próprio o qual indicará a modalidade de licenciamento ambiental a ser requerida, bem como a documentação necessária;
@@ -162,7 +153,6 @@ Tags: #procedimento-licenciamento #licenciamento-ambiental
 - **Art. 9º, caput, inciso V** {#art9_cpt_inc5} deferimento ou indeferimento do licenciamento ambiental, dando-se a devida publicidade.
 
 ###### Art. 10 {#art10}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 10, caput** {#art10_cpt} O procedimento de licenciamento ambiental, conforme o caso, obedecerá às seguintes etapas:
 - **Art. 10, caput, inciso I** {#art10_cpt_inc1} solicitação de licenciamento ambiental, pelo empreendedor, com o preenchimento de requerimento, prioritariamente por meio de sistema informatizado próprio o qual indicará a modalidade de licenciamento ambiental a ser requerida, bem como a documentação necessária;
@@ -183,7 +173,6 @@ Tags: #procedimento-licenciamento #licenciamento-ambiental
 **Art. 10, § 3º** {#art10_par3} No procedimento de licenciamento ambiental deverá constar, obrigatoriamente a certidão atualizada da Matrícula ou Transcrição Imobiliária emitida pelo Cartório de Registro de Imóveis ou documento de justa posse em nome do requerente, ou conforme exigências constantes da Seção V, [[#art45|art.45]] a 54 desta Resolução. Caso o imóvel seja locado, apresentar o contrato de locação.
 
 ###### Art. 11 {#art11}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 11, caput** {#art11_cpt} Na análise dos procedimentos de licenciamento ambiental contemplados na presente Resolução, o órgão ambiental licenciador solicitará manifestação aos seguintes órgãos, entre outros, quando aplicável:
 - **Art. 11, caput, inciso I** {#art11_cpt_inc1} curadoria do Patrimônio Histórico e Artístico da Secretaria de Estado da Comunicação Social e da Cultura, e do Instituto do Patrimônio Histórico e Artístico Nacional, no caso de atividades e empreendimentos em área tombada ou em processo de tombamento, conforme normativas especificas destes;
@@ -197,17 +186,14 @@ Tags: #procedimento-licenciamento #licenciamento-ambiental
 **Art. 11, § 2º** {#art11_par2} A anuência, manifestação, parecer ou documento similar de que trata este artigo deverá ser apresentada no prazo de 30 (trinta) dias, após conhecimento do órgão competente, podendo ser prorrogado, desde que devidamente justificado, de modo a não exceder os prazos previstos nesta Resolução para conclusão da análise do procedimento de licenciamento ambiental.
 
 ###### Art. 12 {#art12}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 12, caput** {#art12_cpt} Em se tratando de empreendimentos, atividades ou obras que necessitem de uso de recursos hídricos, superficiais ou subterrâneos (captação, lançamento ou derivação), o empreendedor deverá requerer a Outorga Prévia e de Direito de Uso dos Recursos Hídricos emitida pelo órgão ambiental estadual ou manifestação da Agência Nacional de Águas - ANA, quando for o caso.
 
 ###### Art. 13 {#art13}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 13, caput** {#art13_cpt} Quando aplicável e, se enquadrar na IN IBAMA 09/2019, será solicitada pelo órgão ambiental competente na análise do requerimento de Licença Prévia, Licença Ambiental Simplificada, Licença Ambiental de Regularização, Autorização Ambiental, Autorização Florestal, manifestação do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis-IBAMA. Quando envolver unidades de Conservação Federal e sua Zona de Amortecimento, será solicitada manifestação ao Instituto Chico Mendes de Conservação da Biodiversidade-ICMBio.
 
 ###### Art. 14 {#art14}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 14, caput** {#art14_cpt} O órgão ambiental competente observará os prazos estabelecidos no [[#art14|artigo 14]] da [[resolucao-conama-237-1997|Resolução CONAMA nº 237, de 19 de dezembro de 1997]] ou eventuais alterações posteriores, para análise dos licenciamentos ambientais.
 
@@ -218,31 +204,26 @@ Tags: #procedimento-licenciamento #licenciamento-ambiental
 **Art. 14, § 3º** {#art14_par3} Caso o empreendedor necessite da licença para dar continuidade em processos de financiamento ou participar de licitações, o órgão ambiental competente expedirá Certidão informando de que o procedimento se encontra em trâmite.
 
 ###### Art. 15 {#art15}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 15, caput** {#art15_cpt} O empreendedor deverá atender à solicitação de esclarecimentos e complementações formuladas pelo órgão ambiental competente, dentro do prazo máximo de até 120 (cento e vinte) dias, a contar do respectivo recebimento ou ciência, observado o disposto no [[#art14_par1|§1º do artigo 14]] desta Resolução.
 
 **Art. 15, parágrafo único** {#art15_par1u} O prazo estipulado no caput deste artigo poderá ser prorrogado, em caso de aprovação expressa pelo órgão ambiental competente, atendendo solicitação motivada do empreendedor, a qual deverá ser anexada obrigatoriamente ao procedimento administrativo em questão.
 
 ###### Art. 16 {#art16}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 16, caput** {#art16_cpt} O órgão ambiental competente poderá solicitar outros documentos e/ou informações complementares do requerente ou de outras instituições envolvidas no licenciamento ambiental em questão, caso haja necessidade.
 
 ###### Art. 17 {#art17}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 17, caput** {#art17_cpt} O não cumprimento dos prazos estipulados no [[#art15|artigo 15]] sujeitará o arquivamento do pedido de licenciamento ambiental e, quando for o caso, a aplicação das sanções cabíveis.
 
 ###### Art. 18 {#art18}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 18, caput** {#art18_cpt} O arquivamento do procedimento de licenciamento ambiental não impedirá a apresentação de novo requerimento, que deverá obedecer aos procedimentos, restrições e condicionantes estabelecidos para tal fim, mediante novo recolhimento integral da Taxa Ambiental.
 
 **Art. 18, parágrafo único** {#art18_par1u} Mediante solicitação formal e motivada do interessado, poderá ser desarquivado o procedimento de licenciamento ambiental, de acordo com critérios estabelecidos pelo órgão ambiental competente.
 
 ###### Art. 19 {#art19}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 19, caput** {#art19_cpt} Nos procedimentos relativos ao licenciamento ambiental, em quaisquer de suas modalidades, o órgão ambiental competente deverá:
 - **Art. 19, caput, inciso I** {#art19_cpt_inc1} utilizar sua estrutura organizacional descentralizada dos Escritórios Regionais – ESREGs, conforme competências delegadas por meio de Portaria do Diretor Presidente, os quais serão coordenados, monitorados e supervisionados pela Diretoria responsável pelo licenciamento ambiental que, somente em casos especiais, a seu critério, poderá decidir pela concessão ou não do licenciamento ambiental;
@@ -263,7 +244,6 @@ Tags: #procedimento-licenciamento #licenciamento-ambiental
 **Art. 19, § 3º** {#art19_par3} Em função das características, do porte, da localização e do potencial poluidor e/ou degradador dos empreendimentos, atividades ou obras, o órgão ambiental competente poderá solicitar ao empreendedor imagens por satélite, registros fotográficos e de vídeos, os quais poderão subsidiar a emissão da licença.
 
 ###### Art. 20 {#art20}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 20, caput** {#art20_cpt} Os estudos e projetos necessários ao procedimento de licenciamento ou autorização ambiental deverão ser realizados por profissionais legalmente habilitados, às expensas do empreendedor.
 
@@ -274,24 +254,20 @@ Tags: #procedimento-licenciamento #licenciamento-ambiental
 **Art. 20, § 3º** {#art20_par3} As situações contempladas acima são passíveis de autuação e demais sanções, conforme [[lei-federal-9605-1998|Lei 9.605, de 12 de fevereiro de 1998]], bem como encaminhamento aos órgãos de controle a exemplo de: Ministério Público e Delegacias de Proteção ao Meio Ambiente.
 
 ###### Art. 21 {#art21}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 21, caput** {#art21_cpt} Os procedimentos administrativos de licenciamento ambiental, após trâmite interno que incluirá a realização de vistoria técnica e/ou análise de projeto, parecer técnico e, quando for o caso, manifestação jurídica, serão submetidos à decisão do Diretor Presidente do órgão ambiental competente.
 
 **Art. 21, parágrafo único** {#art21_par1u} O Diretor Presidente poderá delegar a atribuição a que se refere o caput deste artigo, conforme dispuser o Regulamento do órgão ambiental competente.
 
 ###### Art. 22 {#art22}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 22, caput** {#art22_cpt} Constatada a existência de débitos ambientais decorrentes de decisões administrativas, contra as quais não couber recurso administrativo, em nome do requerente, pessoa física ou jurídica ou de seus antecessores, o procedimento de licenciamento ambiental terá seu trâmite suspenso até a regularização dos referidos débitos.
 
 ###### Art. 23 {#art23}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 23, caput** {#art23_cpt} Constatada a existência de pendência judicial envolvendo o empreendedor, o empreendimento ou o imóvel, a decisão administrativa sobre a eventual suspensão do licenciamento será precedida de manifestação jurídica do órgão ambiental competente no prazo máximo de 30 (trinta) dias.
 
 ###### Art. 24 {#art24}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 24, caput** {#art24_cpt} Para a renovação da Licença Ambiental Simplificada ou da Licença de Operação, constatado o não atendimento dos padrões ambientais, em caráter excepcional, o órgão ambiental competente poderá firmar, com o empreendedor, Termo de Ajustamento de Conduta-TAC, conforme modelo do Anexo I, com base no [[#art5|artigo 5º]], § 6º da [[lei-federal-7347-1985|Lei Federal nº 7.347/1985]], que terá eficácia de Título Executivo Extrajudicial, com a finalidade de que este se ajuste às exigências legais para o tipo de empreendimento ou atividade a ser regularizada, mediante sanções em caso de descumprimento.
 
@@ -300,7 +276,6 @@ Tags: #procedimento-licenciamento #licenciamento-ambiental
 **Art. 24, § 2º** {#art24_par2} Poderá ser emitida Licença de Operação ou Licença Ambiental Simplificada condicionada ao cumprimento do TAC, nos moldes previstos no caput.
 
 ###### Art. 25 {#art25}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 25, caput** {#art25_cpt} Quando da inviabilidade de emissão de licenciamento ambiental, o órgão ambiental competente emitirá o indeferimento, contendo as justificativas técnicas e/ou legais pertinentes ao caso.
 
@@ -311,17 +286,14 @@ Tags: #procedimento-licenciamento #licenciamento-ambiental
 **Art. 25, § 3º** {#art25_par3} Os requerimentos de reconsideração, bem como de recurso, deverão ser instruídos com documentação atualizada.
 
 ###### Art. 26 {#art26}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 26, caput** {#art26_cpt} O órgão ambiental competente, mediante decisão motivada, poderá modificar as condicionantes e as medidas de controle e adequação, suspender ou cancelar licença ou autorização ambiental expedida.
 
 ###### Art. 27 {#art27}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 27, caput** {#art27_cpt} O órgão ambiental competente, em caráter temporário e excepcional, sempre que o interesse público ou coletivo exigir, poderá determinar, mediante ato motivado e sem prejuízo das sanções administrativas cabíveis, a redução dos limites e condições de lançamento e disposição final das emissões gasosas, dos efluentes líquidos e dos resíduos sólidos estipulados em licença ou autorização ambiental.
 
 ###### Art. 28 {#art28}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 28, caput** {#art28_cpt} No controle preventivo da poluição e/ou degradação do meio ambiente, serão considerados, simultaneamente, os impactos ambientais:
 - **Art. 28, caput, inciso I** {#art28_cpt_inc1} nos recursos hídricos superficiais, subterrâneos e águas costeiras ocasionados por efluentes líquidos, resíduos sólidos, sedimentos e contaminação por produtos químicos;
@@ -331,7 +303,6 @@ Tags: #procedimento-licenciamento #licenciamento-ambiental
 - **Art. 28, caput, inciso V** {#art28_cpt_inc5} na flora, na fauna e elementos da geodiversidade.
 
 ###### Art. 29 {#art29}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 29, caput** {#art29_cpt} Em todos os requerimentos de licenciamento ambiental deverá ser observado o disposto na [[lei-federal-11428-2006|Lei Federal nº 11.428, de 22 de dezembro de 2006]]; na [[lei-federal-12651-2012|Lei Federal n° 12.651, de 25 de maio de 2012]]; e, na Lei nº 11.054/95, e demais legislações pertinentes com relação às Áreas de Preservação Permanente-APP em áreas urbanas e rurais.
 
@@ -340,31 +311,26 @@ Tags: #procedimento-licenciamento #licenciamento-ambiental
 **Art. 29, § 2º** {#art29_par2} Quando o requerimento envolver supressão total ou parcial de cobertura vegetal e/ou localização de atividades, obras ou empreendimentos em áreas de preservação permanente em áreas urbanas e rurais, a decisão administrativa, quando couber, será precedida de manifestação da área jurídica do órgão ambiental competente.
 
 ###### Art. 30 {#art30}
-Tags: #procedimento-licenciamento #licenciamento-ambiental
 
 **Art. 30, caput** {#art30_cpt} O órgão ambiental competente definirá procedimentos específicos para as licenças e autorizações ambientais, observadas a natureza, características e peculiaridades da atividade ou empreendimento e, ainda, a compatibilização do procedimento de licenciamento ambiental com as etapas de planejamento, implantação e operação.
 
 #### Seção II – Da Taxa Ambiental
 
 ###### Art. 31 {#art31}
-Tags: #taxa-ambiental
 
 **Art. 31, caput** {#art31_cpt} A valoração do custo para a obtenção da licença ou da autorização ambiental ou florestal será estabelecida de acordo com o disposto na Lei nº 10.233/92-Lei de Taxa Ambiental ou outra que venha a sucedê-la.
 
 ###### Art. 32 {#art32}
-Tags: #taxa-ambiental
 
 **Art. 32, caput** {#art32_cpt} O valor da Taxa Ambiental será apurado mediante a aplicação de alíquotas próprias às diversas modalidades de serviços públicos a serem prestados para o atendimento do requerimento, sendo que a somatória dos valores aferidos resultará no valor a ser recolhido pelo requerente.
 
 ###### Art. 33 {#art33}
-Tags: #taxa-ambiental
 
 **Art. 33, caput** {#art33_cpt} A Taxa Ambiental é compulsória, nos termos da Lei nº 10.233/92 e não poderá ser dispensada, salvo em casos expressos em Lei, sendo que sua dispensa irregular ou aceite em menor valor obrigará o servidor público a efetuar o respectivo recolhimento integral ou complementar, conforme a situação.
 
 **Art. 33, parágrafo único** {#art33_par1u} Em caso de equívoco devidamente justificado, será providenciada junto ao empreendedor a regularização da Taxa Ambiental, nos termos da lei.
 
 ###### Art. 34 {#art34}
-Tags: #taxa-ambiental
 
 **Art. 34, caput** {#art34_cpt} Para fins de isenção da Taxa Ambiental de Inspeção Florestal nos imóveis rurais deverá ser considerado o disposto no [[#art3|artigo 3º]] da [[lei-federal-11428-2006|Lei Federal nº 11.428/2006]] e, também, o disposto na [[lei-estadual-15431-2007|Lei nº 15.431, de 15 de janeiro de 2007]].
 
@@ -373,12 +339,10 @@ Tags: #taxa-ambiental
 #### Seção III – Da Publicação
 
 ###### Art. 35 {#art35}
-Tags: #publicidade #publicacao
 
 **Art. 35, caput** {#art35_cpt} O órgão ambiental providenciará publicação resumida em meio eletrônico de comunicação, mantido por ele, dos requerimentos de licenciamento ambiental e das expedições de licença, em qualquer de suas modalidades, incluindo os requerimentos de Autorização Florestal e Autorização Ambiental.
 
 ###### Art. 36 {#art36}
-Tags: #publicidade #publicacao
 
 **Art. 36, caput** {#art36_cpt} Os requerimentos de licenciamento ambiental, em qualquer de suas modalidades, serão objeto de publicação resumida no Diário Oficial do Estado, sob incumbência e expensas do empreendedor.
 
@@ -387,7 +351,6 @@ Tags: #publicidade #publicacao
 **Art. 36, § 2º** {#art36_par2} As publicações de que trata o caput deste artigo deverão atender aos modelos estabelecidos na Resolução CONAMA 006/86, conforme ANEXO VIII.
 
 ###### Art. 37 {#art37}
-Tags: #publicidade #publicacao
 
 **Art. 37, caput** {#art37_cpt} A expedição da licença ambiental ou de seu indeferimento será objeto de publicação resumida no Diário Oficial do Estado pelo órgão ambiental competente, às expensas do empreendedor.
 
@@ -402,12 +365,10 @@ Tags: #publicidade #publicacao
 #### Seção IV – Das Cópias, Certidões ou Vistas de Processos Administrativos
 
 ###### Art. 38 {#art38}
-Tags: #acesso-informacao #certidao
 
 **Art. 38, caput** {#art38_cpt} Resguardado o sigilo, conforme estabelecido na [[lei-federal-12527-2011|Lei Federal nº 12.527/2011]], regulamentada pelo [[decreto-federal-7845-2012|Decreto Federal nº 7.845/2012]], poderão ser solicitadas cópias de informações constantes de procedimentos administrativos.
 
 ###### Art. 39 {#art39}
-Tags: #acesso-informacao #certidao
 
 **Art. 39, caput** {#art39_cpt} Os requerimentos de cópias de informações constantes de procedimentos administrativos dirigidos ao Diretor Presidente do órgão ambiental competente serão protocolados e processados conforme as disposições da [[lei-federal-12527-2011|Lei Federal nº 12.527/2011]], desde que instruídos com os seguintes documentos:
 - **Art. 39, caput, inciso I** {#art39_cpt_inc1} formulário de “Pedido de cópias de Processos” devidamente preenchido, contendo justificativa e declaração na qual o requerente assume a obrigação de não utilizar as informações colhidas para fins comerciais;
@@ -419,84 +380,70 @@ Tags: #acesso-informacao #certidao
 **Art. 39, § 2º** {#art39_par2} O prazo para análise, decisão administrativa e fornecimento para pedidos de cópias de processos administrativos é de 30 (trinta) dias a partir da data de seu protocolo.
 
 ###### Art. 40 {#art40}
-Tags: #acesso-informacao #certidao
 
 **Art. 40, caput** {#art40_cpt} Nos requerimentos para expedição de certidões para a defesa de direitos e esclarecimento de situações, na forma da [[lei-federal-12527-2011|Lei Federal nº 12.527/2011]], os interessados devem fazer constar esclarecimentos relativos aos fins e razões do pedido.
 
 **Art. 40, parágrafo único** {#art40_par1u} As certidões deverão ser expedidas no prazo de 15 (quinze) dias, a contar da data do protocolo do requerimento.
 
 ###### Art. 41 {#art41}
-Tags: #acesso-informacao #certidao
 
 **Art. 41, caput** {#art41_cpt} Os pedidos de cópias ou certidões que não estiverem devidamente instruídos conforme o [[#art39|artigo 39]] desta Resolução serão indeferidos pelo órgão ambiental competente.
 
 ###### Art. 42 {#art42}
-Tags: #acesso-informacao #certidao
 
 **Art. 42, caput** {#art42_cpt} Após a conclusão do procedimento administrativo concernente ao pedido de cópias ou certidões, o mesmo deverá ser anexado ao respectivo procedimento administrativo objeto do pedido.
 
 ###### Art. 43 {#art43}
-Tags: #acesso-informacao #certidao
 
 **Art. 43, caput** {#art43_cpt} É facultada a vista, na presença de um funcionário do órgão ambiental competente, de qualquer procedimento administrativo que trate de matéria ambiental na sede ou nos escritórios regionais, assegurado o sigilo comercial, industrial, financeiro ou qualquer outro sigilo protegido por lei, bem como o relativo às comunicações internas dos órgãos e entidades governamentais, conforme disposto na [[lei-federal-10650-2003|Lei Federal nº 10.650/2003]], mediante termo de vista assinado pelo interessado.
 
 ###### Art. 44 {#art44}
-Tags: #acesso-informacao #certidao
 
 **Art. 44, caput** {#art44_cpt} O acesso, a divulgação e o tratamento de informação classificada em qualquer grau de sigilo, ficarão restritos a pessoas com necessidade de conhecê-la e que sejam credenciadas conforme estabelecido na forma do [[decreto-federal-7845-2012|Decreto Federal nº 7.845, de 14 de novembro de 2012]].
 
 #### Seção V – Documentos cartoriais de propriedade do imóvel/casos excepcionais
 
 ###### Art. 45 {#art45}
-Tags: #documento-imovel #licenciamento-ambiental
 
 **Art. 45, caput** {#art45_cpt} Imóveis em condomínio, todos os condôminos que constarem na mesma matrícula imobiliária deverão anuir ao pedido, por anuência expressa ou por procuração.
 
 ###### Art. 46 {#art46}
-Tags: #documento-imovel #licenciamento-ambiental
 
 **Art. 46, caput** {#art46_cpt} Imóvel em sucessão por morte sem que se tenha iniciado o processo de inventário, o requerimento será formulado em nome do espólio, sendo exigida a certidão de óbito e anuência formal de todos os herdeiros, por termo nos autos ou por procuração e, se houver menores, deverá ser juntado alvará judicial.
 
 ###### Art. 47 {#art47}
-Tags: #documento-imovel #licenciamento-ambiental
 
 **Art. 47, caput** {#art47_cpt} Imóvel em processo de inventário, o inventariante poderá requerer a autorização em nome dos demais herdeiros.
 
 ###### Art. 48 {#art48}
-Tags: #documento-imovel #licenciamento-ambiental
 
 **Art. 48, caput** {#art48_cpt} Imóvel já inventariado e não registrado, o órgão ambiental competente deverá exigir a apresentação do formal de partilha homologado.
 
 **Art. 48, parágrafo único** {#art48_par1u} Estando o imóvel indiviso, deverá constar a anuência dos condôminos nos termos do [[#art45|artigo 45]] desta Resolução.
 
 ###### Art. 49 {#art49}
-Tags: #documento-imovel #licenciamento-ambiental
 
 **Art. 49, caput** {#art49_cpt} Imóvel com cláusula de usufruto vitalício averbado na matrícula, o requerimento será assinado pelo usufrutuário com anuência do proprietário.
 
 ###### Art. 50 {#art50}
-Tags: #documento-imovel #licenciamento-ambiental
 
 **Art. 50, caput** {#art50_cpt} Imóvel registrado em nome de pessoa jurídica, o requerimento deverá ser assinado pelo seu representante legal com apresentação do contrato social ou estatuto da empresa ou certidão da Junta Comercial do Estado do Paraná.
 
 **Art. 50, parágrafo único** {#art50_par1u} Não serão aceitos e/ou considerados requerimentos assinados por terceiros ou em nome de pessoas e/ou técnicos responsáveis, sem a apresentação de procuração do representante legal outorgando específicos ou plenos poderes para solicitar licenciamento ambiental ou florestal junto ao órgão ambiental competente.
 
 ###### Art. 51 {#art51}
-Tags: #documento-imovel #licenciamento-ambiental
 
 **Art. 51, caput** {#art51_cpt} Imóvel arrendado, o requerimento deverá ser formulado em nome do arrendatário, com anuência expressa do proprietário e instruído com a anexação do respectivo contrato.
 
 **Art. 51, parágrafo único** {#art51_par1u} Encerrado o contrato de arrendamento o órgão ambiental deverá ser imediatamente comunicado para as providências cabíveis.
 
 ###### Art. 52 {#art52}
-Tags: #documento-imovel #licenciamento-ambiental
 
 **Art. 52, caput** {#art52_cpt} Imóvel registrado em nome do cônjuge não requerente, a anuência expressa do cônjuge proprietário deverá constar necessariamente do requerimento, com a anexação da certidão de casamento.
 
 **Art. 52, parágrafo único** {#art52_par1u} No caso de imóvel registrado em nome de ambos os cônjuges, o requerimento deverá ser por eles assinados.
 
 ###### Art. 53 {#art53}
-Tags: #documento-imovel #licenciamento-ambiental
 
 **Art. 53, caput** {#art53_cpt} Nos casos de inexistência por parte do requerente, possuidor de documento definitivo do imóvel (matrícula ou transcrição) do qual detenha a posse, deverá apresentar um dos seguintes documentos:
 - **Art. 53, caput, inciso I** {#art53_cpt_inc1} escritura pública de cessão de direitos possessórios ou declaração de confrontantes;
@@ -504,14 +451,12 @@ Tags: #documento-imovel #licenciamento-ambiental
 - **Art. 53, caput, inciso III** {#art53_cpt_inc3} documento hábil expedido pelo poder público em caso de terras devolutas ou patrimoniais públicas.
 
 ###### Art. 54 {#art54}
-Tags: #documento-imovel #licenciamento-ambiental
 
 **Art. 54, caput** {#art54_cpt} Duas ou mais empresas que ocupem o mesmo imóvel devidamente registrado na mesma matricula, poderão obter licenciamentos individuais, desde que conste no requerimento de licenciamento Termo de Responsabilidade Solidária sobre o imóvel, registrado em cartório, constando que os mesmos respondem por eventuais danos causados, conforme modelo no ANEXO IX.
 
 #### Seção VI – Dos Estudos Ambientais
 
 ###### Art. 55 {#art55}
-Tags: #estudo-ambiental #termo-de-referencia
 
 **Art. 55, caput** {#art55_cpt} Os estudos ambientais deverão ser analisados por técnicos do órgão ambiental competente, devidamente habilitados nas áreas a que se referem os mesmos, conforme estabelecem os Conselhos de Classe, fazendo parte dessa análise, no mínimo:
 - **Art. 55, caput, inciso I** {#art55_cpt_inc1} atendimento as diretrizes específicas;
@@ -521,7 +466,6 @@ Tags: #estudo-ambiental #termo-de-referencia
 - **Art. 55, caput, inciso V** {#art55_cpt_inc5} emissão de parecer técnico.
 
 ###### Art. 56 {#art56}
-Tags: #estudo-ambiental #termo-de-referencia
 
 **Art. 56, caput** {#art56_cpt} Poderão ser exigidos, entre outros, conforme Termos de Referência disponibilizados pelo órgão ambiental competente, os seguintes estudos ambientais:
 - **Art. 56, caput, inciso I** {#art56_cpt_inc1} estudo de Impacto Ambiental-EIA: estudo ambiental de atividade ou empreendimento utilizador de recursos ambientais, efetivo ou potencialmente causador de significativa poluição ou outra forma de significativa degradação do meio ambiente, a ser realizado previamente para a análise da sua viabilidade ambiental, devendo, obrigatoriamente, ser sucedida de Audiência Pública;
@@ -546,7 +490,6 @@ Tags: #estudo-ambiental #termo-de-referencia
 **Art. 56, § 6º** {#art56_par6} Os estudos ambientais deverão estar devidamente acompanhados de Anotação de Responsabilidade Técnica-ART.
 
 ###### Art. 57 {#art57}
-Tags: #estudo-ambiental #termo-de-referencia
 
 **Art. 57, caput** {#art57_cpt} Estudos ambientais considerados incompletos ou que nao atendam as diretrizes especificas ou que sejam inadequados, deverao ser corrigidos e reapresentados pelo empreendedor, conforme solicitacao de complementacao e de prazos fixados pelo orgao ambiental competente.
 
@@ -559,14 +502,12 @@ Tags: #estudo-ambiental #termo-de-referencia
 **Art. 57, § 4º** {#art57_par4} o arquivamento do procedimento não impedirá apresentação de novo requerimento sujeitando o empreendedor ao recolhimento integral da Taxa Ambiental e demais regramentos vigentes;
 
 ###### Art. 58 {#art58}
-Tags: #estudo-ambiental #termo-de-referencia
 
 **Art. 58, caput** {#art58_cpt} A análise e apresentação de estudos ambientais, a serem apresentados em qualquer fase do licenciamento ambiental ou em outras situações, quando exigido pelo órgão ambiental competente, deverão atender os critérios constantes do ANEXO IV.
 
 #### Seção VII – Da Exigência de EIA/RIMA
 
 ###### Art. 59 {#art59}
-Tags: #eia-rima #estudo-ambiental
 
 **Art. 59, caput** {#art59_cpt} Considerando o tipo, o porte e a localização, dependerá de elaboração de EIA/RIMA, a ser submetido à aprovação do órgão ambiental competente, excetuados os casos de competência federal, o licenciamento ambiental de empreendimentos, atividades ou obras consideradas de significativo impacto ambiental, tais como:
 - **Art. 59, caput, inciso I** {#art59_cpt_inc1} rodovias primárias e autoestradas (com duas ou mais faixas de rolamento);
@@ -603,19 +544,16 @@ Tags: #eia-rima #estudo-ambiental
 ### CAPÍTULO III – DAS DISPOSIÇÕES GERAIS SOBRE LICENCIAMENTO AMBIENTAL DE ATIVIDADES POTENCIALMENTE POLUIDORAS, DEGRADADORAS E/OU MODIFICADORAS DO MEIO AMBIENTE.
 
 ###### Art. 60 {#art60}
-Tags: #eia-rima #estudo-ambiental
 
 **Art. 60, caput** {#art60_cpt} A construção, instalação, ampliação e funcionamento de estabelecimentos e atividades utilizadores de recursos ambientais, efetiva ou potencialmente poluidores, dependerão de prévio licenciamento ambiental.
 
 **Art. 60, parágrafo único** {#art60_par1u} O licenciamento será realizado de forma preventiva, consideradas as modalidades aplicáveis e os estágios de planejamento, instalação ou operação da atividade ou empreendimento.
 
 ###### Art. 61 {#art61}
-Tags: #eia-rima #estudo-ambiental
 
 **Art. 61, caput** {#art61_cpt} Para a caracterização do empreendimento, poderão ser consideradas todas as atividades por ele exercidas em áreas contíguas ou interdependentes, sob pena de aplicação de penalidade caso seja constatada fragmentação do licenciamento.
 
 ###### Art. 62 {#art62}
-Tags: #eia-rima #estudo-ambiental
 
 **Art. 62, caput** {#art62_cpt} O gerenciamento dos impactos ambientais e a fixação de condicionantes das licenças ambientais devem atender à seguinte ordem de prioridade, aplicando-se em todos os casos a diretriz de maximização dos impactos positivos da atividade ou empreendimento:
 - **Art. 62, caput, inciso I** {#art62_cpt_inc1} minimizar os impactos ambientais negativos; e
@@ -632,19 +570,16 @@ Tags: #eia-rima #estudo-ambiental
 #### Seção I – Da Declaração de Dispensa de Licenciamento Ambiental Estadual - DLAE
 
 ###### Art. 63 {#art63}
-Tags: #dlae #dispensa-licenciamento
 
 **Art. 63, caput** {#art63_cpt} A DLAE será concedida para os empreendimentos que são dispensados do licenciamento por parte do órgão ambiental estadual conforme os critérios estabelecidos em Resoluções específicas.
 
 ###### Art. 64 {#art64}
-Tags: #dlae #dispensa-licenciamento
 
 **Art. 64, caput** {#art64_cpt} A dispensa do Licenciamento Ambiental Estadual não exime o interessado das exigências legais quanto à preservação do meio ambiente, bem como obtenção de alvarás e atendimento a outras exigências municipais.
 
 #### Seção II – Da Declaração de Inexigibilidade de Licenciamento Ambiental - DILA
 
 ###### Art. 65 {#art65}
-Tags: #dila #inexigibilidade
 
 **Art. 65, caput** {#art65_cpt} A DILA será concedida para atividades e empreendimentos dotados de impactos ambiental e socioambiental insignificantes para os quais é inexigível o licenciamento ambiental, respeitadas as legislações municipais, a exemplo de:
 - **Art. 65, caput, inciso I** {#art65_cpt_inc1} atividades administrativas;
@@ -664,14 +599,12 @@ Tags: #dila #inexigibilidade
 - **Art. 65, caput, inciso XV** {#art65_cpt_inc15} e outras atividades assim consideradas pelo órgão ambiental estadual.
 
 ###### Art. 66 {#art66}
-Tags: #dila #inexigibilidade
 
 **Art. 66, caput** {#art66_cpt} A Inexigibilidade do Licenciamento Ambiental não exime o interessado das exigências legais quanto à preservação do meio ambiente, bem como obtenção de alvarás e atendimento a outras exigências municipais.
 
 #### Seção III – Do Licenciamento por Adesão e Compromisso – LAC
 
 ###### Art. 67 {#art67}
-Tags: #lac #licenciamento-ambiental
 
 **Art. 67, caput** {#art67_cpt} A LAC tem por objetivo:
 - **Art. 67, caput, inciso I** {#art67_cpt_inc1} aprovar a localização e a concepção do empreendimento ou atividade;
@@ -680,7 +613,6 @@ Tags: #lac #licenciamento-ambiental
 - **Art. 67, caput, inciso IV** {#art67_cpt_inc4} autorizar a instalação e operação do empreendimento ou atividade de acordo com informações prestadas no SGA, as quais serão de total responsabilidade do empreendedor e do responsável técnico.
 
 ###### Art. 68 {#art68}
-Tags: #lac #licenciamento-ambiental
 
 **Art. 68, caput** {#art68_cpt} A LAC se aplica para empreendimentos e atividades de baixo potencial de impacto ambiental e seus critérios serão estabelecidos em Resoluções específicas, não podendo ser emitida nas seguintes situações:
 - **Art. 68, caput, inciso I** {#art68_cpt_inc1} houver necessidade de corte ou supressão de vegetação nativa;
@@ -707,7 +639,6 @@ Tags: #lac #licenciamento-ambiental
 **Art. 68, § 4º** {#art68_par4} Quando houver necessidade de ampliação que não descaracterize o baixo impacto poluidor deverá o empreendedor solicitar a emissão de uma nova LAC.
 
 ###### Art. 69 {#art69}
-Tags: #lac #licenciamento-ambiental
 
 **Art. 69, caput** {#art69_cpt} Para emissão da LAC, além da documentação prevista em resoluções específicas, deverão ser apresentadas:
 - **Art. 69, caput, inciso I** {#art69_cpt_inc1} declaração de verdade das informações prestadas, conforme modelo do ANEXO V;
@@ -716,7 +647,6 @@ Tags: #lac #licenciamento-ambiental
 - **Art. 69, caput, inciso IV** {#art69_cpt_inc4} manifestação do município conforme o previsto no [[#art10_par1|§1º do art. 10]].
 
 ###### Art. 70 {#art70}
-Tags: #lac #licenciamento-ambiental
 
 **Art. 70, caput** {#art70_cpt} A qualquer tempo o órgão ambiental competente realizará fiscalização do procedimento administrativo e do empreendimento, bem como do cumprimento legal das obrigações ambientais pertinentes.
 
@@ -727,7 +657,6 @@ Tags: #lac #licenciamento-ambiental
 #### Seção IV – Do Licenciamento Ambiental Simplificado-LAS
 
 ###### Art. 71 {#art71}
-Tags: #las #licenciamento-simplificado
 
 **Art. 71, caput** {#art71_cpt} A licença ambiental simplificada de empreendimentos e atividades com potencial ou efetivamente poluidoras, degradadoras e/ou modificadoras do meio ambiente de pequeno porte e/ou que possua pequeno potencial de impacto ambiental, definidos em Resolução específica, tem por objetivo:
 - **Art. 71, caput, inciso I** {#art71_cpt_inc1} aprovar a localização e a concepção do empreendimento ou atividade;
@@ -753,7 +682,6 @@ Tags: #las #licenciamento-simplificado
 #### Seção V – Do Licenciamento Ambiental Prévio-LP
 
 ###### Art. 72 {#art72}
-Tags: #licenca-previa
 
 **Art. 72, caput** {#art72_cpt} A Licença Prévia de empreendimentos ou atividades, potencial ou efetivamente poluidoras, degradadoras e/ou modificadoras do meio ambiente, deverá ser requerida na fase preliminar do planejamento do empreendimento ou atividade, podendo ser prorrogada e, têm por objetivos:
 - **Art. 72, caput, inciso I** {#art72_cpt_inc1} aprovar a localização e a concepção do empreendimento, atividade;
@@ -767,24 +695,20 @@ Tags: #licenca-previa
 - **Art. 72, parágrafo único, inciso II** {#art72_par1u_inc2} não ultrapasse o prazo máximo estabelecido no Anexo III, sob pena de requerer uma nova licença prévia.
 
 ###### Art. 73 {#art73}
-Tags: #licenca-previa
 
 **Art. 73, caput** {#art73_cpt} No requerimento de Licença Prévia deverá obrigatoriamente ser apresentado o memorial descritivo do empreendimento que subsidiará a avaliação da necessidade de apresentação de estudos ambientais específicos.
 
 ###### Art. 74 {#art74}
-Tags: #licenca-previa
 
 **Art. 74, caput** {#art74_cpt} Nos procedimentos de Licença Prévia-LP, antes da emissão da mesma, quando necessário o corte ou supressão de vegetação nativa, deverá obrigatoriamente haver manifestação técnica do próprio órgão ambiental quanto a avaliação da tipologia vegetal, visando análise integrada do licenciamento.
 
 **Art. 74, parágrafo único** {#art74_par1u} Na hipótese prevista no caput, deverá ser apresentado o Relatório de Caracterização da Flora, de acordo com a Resolução CONAMA 02/94, no próprio procedimento administrativo.
 
 ###### Art. 75 {#art75}
-Tags: #licenca-previa
 
 **Art. 75, caput** {#art75_cpt} A Licença Prévia somente poderá ser emitida após manifestação sobre a tipologia florestal e sua viabilidade de supressão, conforme o disposto no [[#art10_par2|§2º do art. 10]] da presente resolução.
 
 ###### Art. 76 {#art76}
-Tags: #licenca-previa
 
 **Art. 76, caput** {#art76_cpt} Quando da avaliação da viabilidade de emissão da LP, poderá ser solicitada a apresentação de estudos ambientais, a serem definidos pelo órgão ambiental, em função do potencial de degradação dos impactos esperados na implantação e/ou operação do empreendimento e/ou atividade.
 
@@ -793,24 +717,20 @@ Tags: #licenca-previa
 **Art. 76, § 2º** {#art76_par2} Para empreendimentos e atividades considerados como potencialmente causadores de significativa degradação do meio ambiente, se exigirá a apresentação de EIA/RIMA – Estudo de Impacto Ambiental e Relatório de Impacto Ambiental.
 
 ###### Art. 77 {#art77}
-Tags: #licenca-previa
 
 **Art. 77, caput** {#art77_cpt} O Termo de Referência para elaboração de RAP, RAS ou EIA/RIMA, será emitido pelo órgão ambiental competente, após avaliação das características do empreendimento e da sua localização, no processo de Licença Previa.
 
 **Art. 77, parágrafo único** {#art77_par1u} Os termos de referência já estabelecidos pelo órgão ambiental para determinados empreendimentos ou atividades poderão ser utilizados pelo empreendedor mesmo antes do requerimento da licença prévia, desde que seja indicado pelo Instituto Água e Terra.
 
 ###### Art. 78 {#art78}
-Tags: #licenca-previa
 
 **Art. 78, caput** {#art78_cpt} A Licença Prévia não autoriza o início da implantação do empreendimento, atividade ou obra requerida.
 
 ###### Art. 79 {#art79}
-Tags: #licenca-previa
 
 **Art. 79, caput** {#art79_cpt} Vencido o prazo máximo de validade da Licença Prévia, sem que tenha sido solicitada a Licença de Instalação, o procedimento administrativo será arquivado e o requerente deverá solicitar nova Licença Prévia, considerando eventuais mudanças das condições ambientais da região onde se requer a instalação do empreendimento, atividade ou obra.
 
 ###### Art. 80 {#art80}
-Tags: #licenca-previa
 
 **Art. 80, caput** {#art80_cpt} A Licença Prévia para empreendimentos e atividades consideradas efetivas ou potencialmente causadoras de significativa degradação do meio ambiente dependerá de prévio Estudo de Impacto Ambiental e respectivo Relatório de Impacto Ambiental (EIA/RIMA), ao qual dar-se-á publicidade, garantida a realização de audiências públicas, quando couber, de acordo com a regulamentação específica.
 
@@ -821,7 +741,6 @@ Tags: #licenca-previa
 #### Seção VI – Do Licenciamento Ambiental de Instalação-LI
 
 ###### Art. 81 {#art81}
-Tags: #licenca-instalacao
 
 **Art. 81, caput** {#art81_cpt} A Licença de Instalação deverá ser requerida quando da elaboração do projeto do empreendimento, atividade ou obra, contendo as medidas de controle ambiental, podendo ser prorrogada.
 
@@ -830,7 +749,6 @@ Tags: #licenca-instalacao
 - **Art. 81, parágrafo único, inciso II** {#art81_par1u_inc2} autorizar o início da implantação do empreendimento, atividade ou obra e os testes dos sistemas de controle ambiental sujeito à inspeção do órgão ambiental competente.
 
 ###### Art. 82 {#art82}
-Tags: #licenca-instalacao
 
 **Art. 82, caput** {#art82_cpt} A Licença de Instalação deverá ser exigida aos empreendimentos ou atividades licenciadas previamente mediante Licença Prévia.
 
@@ -841,12 +759,10 @@ Tags: #licenca-instalacao
 **Art. 82, § 3º** {#art82_par3} As alterações previstas no §2.º, poderão ocorrer em função de otimizações de processos, layout, melhor aproveitamento de energia, situações previstas no projeto executivo, que são definidas na fase de Licença de Instalação.
 
 ###### Art. 83 {#art83}
-Tags: #licenca-instalacao
 
 **Art. 83, caput** {#art83_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença de Instalação somente poderá ser emitida acompanhada da respectiva Autorização Florestal.
 
 ###### Art. 84 {#art84}
-Tags: #licenca-instalacao
 
 **Art. 84, caput** {#art84_cpt} O requerente poderá solicitar a prorrogação da Licença de Instalação, desde que:
 - **Art. 84, caput, inciso I** {#art84_cpt_inc1} a instalação do empreendimento se prolongar por prazo superior ao fixado na respectiva Licença;
@@ -856,14 +772,12 @@ Tags: #licenca-instalacao
 #### Seção VII – Do Licenciamento Ambiental de Operação-LO
 
 ###### Art. 85 {#art85}
-Tags: #licenca-operacao #renovacao
 
 **Art. 85, caput** {#art85_cpt} A Licença de Operação deverá ser requerida antes do início efetivo das operações, e se destina a autorizar a operação do empreendimento, atividade ou obra, e sua concessão estará condicionada à realização de vistoria por técnico habilitado, com vistas à verificação do efetivo cumprimento do que consta das licenças anteriores, com as medidas de controle ambiental e condicionantes determinados para a operação.
 
 Art. 87. A Autorização Ambiental deverá ser requerida para execução de obras, atividades, pesquisas e serviços de caráter temporário ou obras emergenciais, que possam acarretar alterações ao meio ambiente, e se destina a:
 
 ###### Art. 86 {#art86}
-Tags: #licenca-operacao #renovacao
 
 **Art. 86, caput** {#art86_cpt} A renovação de Licença de Operação de uma atividade ou empreendimento deverá ser requerida com antecedência mínima de 120 (cento e vinte) dias da expiração do seu prazo de validade, fixado na respectiva Licença, ficando este automaticamente renovado até manifestação definitiva do órgão ambiental competente.
 
@@ -872,7 +786,6 @@ Tags: #licenca-operacao #renovacao
 #### Seção VIII – Da Autorização Ambiental- AA
 
 ###### Art. 87 {#art87}
-Tags: #autorizacao-ambiental
 
 **Art. 87, caput** {#art87_cpt} A Autorização Ambiental deverá ser requerida para execução de obras, atividades, pesquisas e serviços de caráter temporário ou obras emergenciais, que possam acarretar alterações ao meio ambiente, e se destina a:
 - **Art. 87, caput, inciso I** {#art87_cpt_inc1} aprovar a localização da atividade e execução da obra, pesquisa ou serviço;
@@ -882,7 +795,6 @@ Tags: #autorizacao-ambiental
 #### Seção IX – Da Ampliação, Alteração e Regularização de empreendimentos e/ou atividades
 
 ###### Art. 88 {#art88}
-Tags: #ampliacao #regularizacao #licenciamento-ambiental
 
 **Art. 88, caput** {#art88_cpt} As ampliações ou alterações definitivas nos empreendimentos ou atividades detentores de LAS ou LO, necessitam de licenciamento específico, trifásico ou bifásico para a parte ampliada ou alterada, adotados os mesmos critérios do licenciamento.
 
@@ -897,12 +809,10 @@ Tags: #ampliacao #regularizacao #licenciamento-ambiental
 **Art. 88, § 5º** {#art88_par5} As alterações temporárias deverão ser comunicadas pelo empreendedor ao órgão ambiental competente que, diante de constantes reincidências do fato, deverá rever a Licença Ambiental Simplificada ou a Licença Prévia, de Instalação e de Operação do referido empreendimento, atividade ou obra, considerando as alterações como definitivas.
 
 ###### Art. 89 {#art89}
-Tags: #ampliacao #regularizacao #licenciamento-ambiental
 
 **Art. 89, caput** {#art89_cpt} Os empreendimentos que estejam funcionando de maneira clandestina terão suas atividades embargadas, devendo se submeter ao licenciamento ambiental conforme sua tipologia, com observância do inciso [[#art19_cpt_inc5|V]] do [[#art19|artigo 19]] desta Resolução, sem prejuízo das sanções cabíveis.
 
 ###### Art. 90 {#art90}
-Tags: #ampliacao #regularizacao #licenciamento-ambiental
 
 **Art. 90, caput** {#art90_cpt} A regularização do licenciamento ambiental, quando da alteração da titularidade, em qualquer fase, ficará condicionada ao cumprimento legal das obrigações ambientais pertinentes, desde que mantida as características iniciais do empreendimento ou atividade
 
@@ -920,7 +830,6 @@ Tags: #ampliacao #regularizacao #licenciamento-ambiental
 **Art. 90, § 2º** {#art90_par2} As alterações e/ou transferências da titularidade do empreendimento estão condicionados à validade das licenças a serem alteradas ou transferidas, sendo o prazo da nova licença o que constar da licença anterior
 
 ###### Art. 91 {#art91}
-Tags: #ampliacao #regularizacao #licenciamento-ambiental
 
 **Art. 91, caput** {#art91_cpt} A regularização do licenciamento ambiental, quando da alteração de razão social em qualquer fase, ficará condicionada ao cumprimento legal das obrigações ambientais pertinentes, desde que mantida as características iniciais do empreendimento ou atividade.
 
@@ -934,7 +843,6 @@ Tags: #ampliacao #regularizacao #licenciamento-ambiental
 **Art. 91, § 2º** {#art91_par2} As alterações de razão social do empreendimento estarão condicionadas à validade das licenças a serem alteradas ou transferidas, sendo o prazo da nova licença o que constar da licença anterior.
 
 ###### Art. 92 {#art92}
-Tags: #ampliacao #regularizacao #licenciamento-ambiental
 
 **Art. 92, caput** {#art92_cpt} Quando do encerramento de empreendimentos e/ou atividades poluidoras, degradadoras e/ou modificadoras do meio ambiente, o órgão ambiental competente deverá ser informado, por meio de procedimento a ser protocolado e dirigido ao Diretor Presidente, instruído com os seguintes documentos:
 - **Art. 92, caput, inciso I** {#art92_cpt_inc1} documento do empreendedor informando o encerramento e a situação ambiental do empreendimento/atividade, inclusive a existência ou não de passivo ambiental;
@@ -951,29 +859,24 @@ Tags: #ampliacao #regularizacao #licenciamento-ambiental
 #### Seção X – Das Condicionantes das Licenças Ambientais
 
 ###### Art. 93 {#art93}
-Tags: #condicionante
 
 **Art. 93, caput** {#art93_cpt} Na fixação de condicionantes das licenças ambientais poderão ser estabelecidas condições especiais para a implantação ou operação do empreendimento, bem como para garantir a execução das medidas para gerenciamento dos impactos ambientais.
 
 ###### Art. 94 {#art94}
-Tags: #condicionante
 
 **Art. 94, caput** {#art94_cpt} As condicionantes ambientais deverão ser acompanhadas de fundamentação técnica por parte do órgão ambiental, que aponte a relação direta com os impactos ambientais da atividade ou empreendimento identificados nos Estudos requeridos no processo de licenciamento ambiental, considerando os meios físico, biótico e socioeconômico, bem como ser proporcionais à magnitude desses impactos.
 
 ###### Art. 95 {#art95}
-Tags: #condicionante
 
 **Art. 95, caput** {#art95_cpt} Em razão de fato superveniente ou no caso de impossibilidade técnica de cumprimento de medida condicionante estabelecida no processo de licenciamento ambiental, o empreendedor poderá requerer a reconsideração da medida, a prorrogação do prazo para o seu cumprimento ou a alteração do conteúdo da condicionante imposta, formalizando requerimento devidamente instruído com a justificativa e a comprovação da impossibilidade de cumprimento, se for o caso, até o vencimento do prazo de cumprimento estabelecido na respectiva condicionante.
 
 ### CAPÍTULO IV – DAS DISPOSIÇÕES FINAIS
 
 ###### Art. 96 {#art96}
-Tags: #disposicoes-finais
 
 **Art. 96, caput** {#art96_cpt} Todos os pedidos relacionados com a presente Resolução, para qualquer finalidade ou modalidade, deverão ser formalizados através de requerimentos específicos, que serão obrigatoriamente protocolados no órgão ambiental competente.
 
 ###### Art. 97 {#art97}
-Tags: #disposicoes-finais
 
 **Art. 97, caput** {#art97_cpt} Para cada tipologia de empreendimento ou atividade poderão ser estabelecidas Resoluções específicas pela Secretaria de Estado do Desenvolvimento Sustentável e do Turismo – SEDEST, definindo-se os estudos ambientais, a documentação, bem como prazo de validade para cada modalidade de licença, desde que não se ultrapasse os prazos estabelecidos nesta Resolução.
 
@@ -982,17 +885,14 @@ Tags: #disposicoes-finais
 **Art. 97, § 2º** {#art97_par2} Quando houver Resolução específica que estabeleça prazo próprio para cada tipologia de licenciamento, aplicar-se-ão os prazos estabelecidos a partir dos critérios técnicos definidos em cada Resolução específica em vigor antes da entrada em vigor da presente resolução.
 
 ###### Art. 98 {#art98}
-Tags: #disposicoes-finais
 
 **Art. 98, caput** {#art98_cpt} Caberá ao órgão ambiental competente monitorar, acompanhar e fiscalizar os licenciamentos aprovados e suas condicionantes.
 
 ###### Art. 99 {#art99}
-Tags: #disposicoes-finais
 
 **Art. 99, caput** {#art99_cpt} Qualquer alteração nas características do porte nos empreendimentos que implique na mudança da modalidade de licenciamento deverá ser requerido novo procedimento de licenciamento ambiental pelo empreendedor.
 
 ###### Art. 100 {#art100}
-Tags: #vigencia #revogacao
 
 **Art. 100, caput** {#art100_cpt} Esta Resolução entra em vigor na data de sua publicação, ficando revogadas as Resoluções CEMA 105/2019 e CEMA 106/2020.
 

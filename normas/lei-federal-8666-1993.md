@@ -38,21 +38,18 @@ fonte: "Planalto (Presidência da República – Casa Civil), texto compilado l8
 ### Seção I – Dos Princípios
 
 ###### Art. 1º {#art1}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 1º, caput** {#art1_cpt} Esta Lei estabelece normas gerais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios.
 
 **Art. 1º, parágrafo único** {#art1_par1u} Subordinam-se ao regime desta Lei, além dos órgãos da administração direta, os fundos especiais, as autarquias, as fundações públicas, as empresas públicas, as sociedades de economia mista e demais entidades controladas direta ou indiretamente pela União, Estados, Distrito Federal e Municípios.
 
 ###### Art. 2º {#art2}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 2º, caput** {#art2_cpt} As obras, serviços, inclusive de publicidade, compras, alienações, concessões, permissões e locações da Administração Pública, quando contratadas com terceiros, serão necessariamente precedidas de licitação, ressalvadas as hipóteses previstas nesta Lei.
 
 **Art. 2º, parágrafo único** {#art2_par1u} Para os fins desta Lei, considera-se contrato todo e qualquer ajuste entre órgãos ou entidades da Administração Pública e particulares, em que haja um acordo de vontades para a formação de vínculo e a estipulação de obrigações recíprocas, seja qual for a denominação utilizada.
 
 ###### Art. 3º {#art3}
-Tags: #licitacao #contrato-administrativo #prazo
 Alterações: [[lei-federal-12349-2010|Lei nº 12.349, de 2010]] (nova redação: caput, § 1º, inciso I; revogado: § 2º, inciso I; incluído: § 6º, § 6º, inciso I, § 6º, inciso II, § 6º, inciso III, § 6º, inciso IV, § 6º, inciso V, § 7º, § 8º, § 9º, § 9º, inciso I, § 9º, inciso II, § 10, § 11, § 12, § 13); [[lei-federal-11196-2005|Lei nº 11.196, de 2005]] (incluído: § 2º, inciso IV); [[lei-federal-13146-2015|Lei nº 13.146, de 2015]] (incluído: § 2º, inciso V, § 5º, inciso I, § 5º, inciso II; nova redação: § 5º); [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (incluído: § 4º); [[lei-complementar-federal-147-2014|Lei Complementar nº 147, de 2014]] (incluído: § 14, § 15)
 
 **Art. 3º, caput** {#art3_cpt} #redacao-alterada A licitação destina-se a garantir a observância do princípio constitucional da isonomia, a seleção da proposta mais vantajosa para a administração e a promoção do desenvolvimento nacional sustentável e será processada e julgada em estrita conformidade com os princípios básicos da legalidade, da impessoalidade, da moralidade, da igualdade, da publicidade, da probidade administrativa, da vinculação ao instrumento convocatório, do julgamento objetivo e dos que lhes são correlatos. *(Redação dada pela [[lei-federal-12349-2010|Lei nº 12.349, de 2010]])* *(Regulamento)* *(Regulamento)* *(Regulamento)*
@@ -104,14 +101,12 @@ Alterações: [[lei-federal-12349-2010|Lei nº 12.349, de 2010]] (nova redação
 **Art. 3º, § 15** {#art3_par15} #incluido As preferências dispostas neste artigo prevalecem sobre as demais preferências previstas na legislação quando estas forem aplicadas sobre produtos ou serviços estrangeiros. *(Incluído pela [[lei-complementar-federal-147-2014|Lei Complementar nº 147, de 2014]])*
 
 ###### Art. 4º {#art4}
-Tags: #licitacao
 
 **Art. 4º, caput** {#art4_cpt} Todos quantos participem de licitação promovida pelos órgãos ou entidades a que se refere o art. [[#art1|1º]] têm direito público subjetivo à fiel observância do pertinente procedimento estabelecido nesta lei, podendo qualquer cidadão acompanhar o seu desenvolvimento, desde que não interfira de modo a perturbar ou impedir a realização dos trabalhos.
 
 **Art. 4º, parágrafo único** {#art4_par1u} O procedimento licitatório previsto nesta lei caracteriza ato administrativo formal, seja ele praticado em qualquer esfera da Administração Pública.
 
 ###### Art. 5º {#art5}
-Tags: #licitacao #prazo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: § 2º); [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (incluído: § 3º)
 
 **Art. 5º, caput** {#art5_cpt} Todos os valores, preços e custos utilizados nas licitações terão como expressão monetária a moeda corrente nacional, ressalvado o disposto no art. [[#art42|42]] desta Lei, devendo cada unidade da Administração, no pagamento das obrigações relativas ao fornecimento de bens, locações, realização de obras e prestação de serviços, obedecer, para cada fonte diferenciada de recursos, a estrita ordem cronológica das datas de suas exigibilidades, salvo quando presentes relevantes razões de interesse público e mediante prévia justificativa da autoridade competente, devidamente publicada.
@@ -123,7 +118,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 5º, § 3º** {#art5_par3} #incluido Observados o disposto no caput, os pagamentos decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso II do art. [[#art24|24]], sem prejuízo do que dispõe seu parágrafo único, deverão ser efetuados no prazo de até 5 (cinco) dias úteis, contados da apresentação da fatura. *(Incluído pela [[lei-federal-9648-1998|Lei nº 9.648, de 1998]])*
 
 ###### Art. 5º-A {#art5-a}
-Tags: #licitacao #contrato-administrativo
 Alterações: [[lei-complementar-federal-147-2014|Lei Complementar nº 147, de 2014]] (incluído: caput)
 
 **Art. 5º-A, caput** {#art5-a_cpt} #incluido As normas de licitações e contratos devem privilegiar o tratamento diferenciado e favorecido às microempresas e empresas de pequeno porte na forma da lei. *(Incluído pela [[lei-complementar-federal-147-2014|Lei Complementar nº 147, de 2014]])*
@@ -131,7 +125,6 @@ Alterações: [[lei-complementar-federal-147-2014|Lei Complementar nº 147, de 2
 ### Seção II – Das Definições
 
 ###### Art. 6º {#art6}
-Tags: #sustentabilidade #licitacao #contrato-administrativo #projeto-engenharia #garantia-contratual
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: inciso VIII, inciso VIII, alínea "c", inciso XIII); [[lei-federal-12349-2010|Lei nº 12.349, de 2010]] (incluído: inciso XVII, inciso XVIII, inciso XIX); [[lei-federal-13243-2016|Lei nº 13.243, de 2016]] (incluído: inciso XX)
 
 **Art. 6º, caput** {#art6_cpt} Para os fins desta Lei, considera-se:
@@ -170,7 +163,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 ### Seção III – Das Obras e Serviços
 
 ###### Art. 7º {#art7}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo #projeto-engenharia #obra-engenharia
 
 **Art. 7º, caput** {#art7_cpt} As licitações para a execução de obras e para a prestação de serviços obedecerão ao disposto neste artigo e, em particular, à seguinte seqüência:
 - **Art. 7º, caput, inciso I** {#art7_cpt_inc1} projeto básico;
@@ -200,7 +192,6 @@ Tags: #dispensa-licitacao #licitacao #contrato-administrativo #projeto-engenhari
 **Art. 7º, § 9º** {#art7_par9} O disposto neste artigo aplica-se também, no que couber, aos casos de dispensa e de inexigibilidade de licitação.
 
 ###### Art. 8º {#art8}
-Tags: #licitacao #prazo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: parágrafo único)
 
 **Art. 8º, caput** {#art8_cpt} A execução das obras e dos serviços deve programar-se, sempre, em sua totalidade, previstos seus custos atual e final e considerados os prazos de sua execução.
@@ -216,7 +207,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 8º, parágrafo único** {#art8_par1u} #redacao-alterada É proibido o retardamento imotivado da execução de obra ou serviço, ou de suas parcelas, se existente previsão orçamentária para sua execução total, salvo insuficiência financeira ou comprovado motivo de ordem técnica, justificados em despacho circunstanciado da autoridade a que se refere o art. [[#art26|26]] desta Lei. *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 9º {#art9}
-Tags: #licitacao #projeto-engenharia
 
 **Art. 9º, caput** {#art9_cpt} Não poderá participar, direta ou indiretamente, da licitação ou da execução de obra ou serviço e do fornecimento de bens a eles necessários:
 - **Art. 9º, caput, inciso I** {#art9_cpt_inc1} o autor do projeto, básico ou executivo, pessoa física ou jurídica;
@@ -232,7 +222,6 @@ Tags: #licitacao #projeto-engenharia
 **Art. 9º, § 4º** {#art9_par4} O disposto no parágrafo anterior aplica-se aos membros da comissão de licitação.
 
 ###### Art. 10 {#art10}
-Tags: #obra-engenharia
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: caput, inciso II, inciso II, alínea "c", parágrafo único)
 
 **Art. 10, caput** {#art10_cpt} #redacao-alterada As obras e serviços poderão ser executados nas seguintes formas: *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
@@ -247,12 +236,10 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 10, parágrafo único** {#art10_par1u} #redacao-alterada *(Vetado)* *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 11 {#art11}
-Tags: #obra-engenharia
 
 **Art. 11, caput** {#art11_cpt} As obras e serviços destinados aos mesmos fins terão projetos padronizados por tipos, categorias ou classes, exceto quando o projeto-padrão não atender às condições peculiares do local ou às exigências específicas do empreendimento.
 
 ###### Art. 12 {#art12}
-Tags: #sustentabilidade #obra-engenharia
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: caput, inciso VI)
 
 **Art. 12, caput** {#art12_cpt} #redacao-alterada Nos projetos básicos e projetos executivos de obras e serviços serão considerados principalmente os seguintes requisitos: *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
@@ -267,7 +254,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 ### Seção IV – Dos Serviços Técnicos Profissionais Especializados
 
 ###### Art. 13 {#art13}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: inciso III; incluído: inciso VIII)
 
 **Art. 13, caput** {#art13_cpt} Para os fins desta Lei, consideram-se serviços técnicos profissionais especializados os trabalhos relativos a:
@@ -289,12 +275,10 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 ### Seção V – Das Compras
 
 ###### Art. 14 {#art14}
-Tags:
 
 **Art. 14, caput** {#art14_cpt} Nenhuma compra será feita sem a adequada caracterização de seu objeto e indicação dos recursos orçamentários para seu pagamento, sob pena de nulidade do ato e responsabilidade de quem lhe tiver dado causa.
 
 ###### Art. 15 {#art15}
-Tags: #licitacao #garantia-contratual
 
 **Art. 15, caput** {#art15_cpt} As compras, sempre que possível, deverão: *(Regulamento)* *(Regulamento)* *(Regulamento)* *(Vigência)*
 - **Art. 15, caput, inciso I** {#art15_cpt_inc1} atender ao princípio da padronização, que imponha compatibilidade de especificações técnicas e de desempenho, observadas, quando for o caso, as condições de manutenção, assistência técnica e garantia oferecidas;
@@ -326,7 +310,6 @@ Tags: #licitacao #garantia-contratual
 **Art. 15, § 8º** {#art15_par8} O recebimento de material de valor superior ao limite estabelecido no art. [[#art23|23]] desta Lei, para a modalidade de convite, deverá ser confiado a uma comissão de, no mínimo, 3 (três) membros.
 
 ###### Art. 16 {#art16}
-Tags: #dispensa-licitacao #licitacao
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: caput; incluído: parágrafo único)
 
 **Art. 16, caput** {#art16_cpt} #redacao-alterada Será dada publicidade, mensalmente, em órgão de divulgação oficial ou em quadro de avisos de amplo acesso público, à relação de todas as compras feitas pela Administração Direta ou Indireta, de maneira a clarificar a identificação do bem comprado, seu preço unitário, a quantidade adquirida, o nome do vendedor e o valor total da operação, podendo ser aglutinadas por itens as compras feitas com dispensa e inexigibilidade de licitação. *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
@@ -336,7 +319,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 ### Seção VI – Das Alienações
 
 ###### Art. 17 {#art17}
-Tags: #dispensa-licitacao #licitacao #garantia-contratual #crime #prazo
 Alterações: [[lei-federal-11952-2009|Lei nº 11.952, de 2009]] (nova redação: inciso I, alínea "b", § 2º-A); [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (incluído: inciso I, alínea "e", § 5º, § 6º; nova redação: § 4º); [[lei-federal-11481-2007|Lei nº 11.481, de 2007]] (nova redação: inciso I, alínea "f"; incluído: inciso I, alínea "h", § 7º); [[lei-federal-11196-2005|Lei nº 11.196, de 2005]] (incluído: inciso I, alínea "g", § 2º, inciso I, § 2º-A, inciso I, § 2º-A, inciso II, § 2º-A, inciso III, § 2º-A, inciso IV, § 2º-B, § 2º-B, inciso I, § 2º-B, inciso III; nova redação: § 2º); [[lei-federal-13465-2017|Lei nº 13.465, 2017]] (nova redação: inciso I, alínea "i", § 2º, inciso II); [[lei-federal-11763-2008|Lei nº 11.763, de 2008]] (nova redação: § 2º-B, inciso II; incluído: § 2º-B, inciso IV); [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (nova redação: § 3º; incluído: § 3º, inciso I, § 3º, inciso II)
 
 **Art. 17, caput** {#art17_cpt} A alienação de bens da Administração Pública, subordinada à existência de interesse público devidamente justificado, será precedida de avaliação e obedecerá às seguintes normas:
@@ -389,7 +371,6 @@ Alterações: [[lei-federal-11952-2009|Lei nº 11.952, de 2009]] (nova redação
 **Art. 17, § 7º** {#art17_par7} #incluido (VETADO). *(Incluído pela [[lei-federal-11481-2007|Lei nº 11.481, de 2007]])*
 
 ###### Art. 18 {#art18}
-Tags:
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (revogado: parágrafo único)
 
 **Art. 18, caput** {#art18_cpt} Na concorrência para a venda de bens imóveis, a fase de habilitação limitar-se-á à comprovação do recolhimento de quantia correspondente a 5% (cinco por cento) da avaliação.
@@ -397,7 +378,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (revogado: parág
 **Art. 18, parágrafo único** {#art18_par1u} #revogado *(Revogado pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 19 {#art19}
-Tags:
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: inciso III)
 
 **Art. 19, caput** {#art19_cpt} Os bens imóveis da Administração Pública, cuja aquisição haja derivado de procedimentos judiciais ou de dação em pagamento, poderão ser alienados por ato da autoridade competente, observadas as seguintes regras:
@@ -410,14 +390,12 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 ### Seção I – Das Modalidades, Limites e Dispensa
 
 ###### Art. 20 {#art20}
-Tags: #licitacao
 
 **Art. 20, caput** {#art20_cpt} As licitações serão efetuadas no local onde se situar a repartição interessada, salvo por motivo de interesse público, devidamente justificado.
 
 **Art. 20, parágrafo único** {#art20_par1u} O disposto neste artigo não impedirá a habilitação de interessados residentes ou sediados em outros locais.
 
 ###### Art. 21 {#art21}
-Tags: #licitacao #contrato-administrativo #prazo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: caput, inciso I, inciso II, inciso III, § 2º, inciso I, § 2º, inciso II, § 2º, inciso III, § 2º, inciso IV, § 3º; incluído: § 2º, inciso I, alínea "a", § 2º, inciso I, alínea "b", § 2º, inciso II, alínea "a", § 2º, inciso II, alínea "b")
 
 **Art. 21, caput** {#art21_cpt} #redacao-alterada Os avisos contendo os resumos dos editais das concorrências, das tomadas de preços, dos concursos e dos leilões, embora realizados no local da repartição interessada, deverão ser publicados com antecedência, no mínimo, por uma vez: *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
@@ -443,7 +421,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 21, § 4º** {#art21_par4} Qualquer modificação no edital exige divulgação pela mesma forma que se deu o texto original, reabrindo-se o prazo inicialmente estabelecido, exceto quando, inqüestionavelmente, a alteração não afetar a formulação das propostas.
 
 ###### Art. 22 {#art22}
-Tags: #licitacao
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: § 5º, § 6º; incluído: § 9º)
 
 **Art. 22, caput** {#art22_cpt} São modalidades de licitação:
@@ -472,7 +449,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 22, § 9º** {#art22_par9} #incluido Na hipótese do parágrafo 2o deste artigo, a administração somente poderá exigir do licitante não cadastrado os documentos previstos nos arts. [[#art27|27]] a [[#art31|31]], que comprovem habilitação compatível com o objeto da licitação, nos termos do edital. *(Incluído pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 23 {#art23}
-Tags: #licitacao #obra-engenharia
 Alterações: [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (nova redação: inciso I, inciso I, alínea "a", inciso I, alínea "b", inciso I, alínea "c", inciso II, inciso II, alínea "a", inciso II, alínea "b", inciso II, alínea "c"; incluído: § 7º); [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: § 1º, § 2º, § 3º, § 5º; incluído: § 6º); [[lei-federal-11107-2005|Lei nº 11.107, de 2005]] (incluído: § 8º)
 
 **Art. 23, caput** {#art23_cpt} As modalidades de licitação a que se referem os incisos I a III do artigo anterior serão determinadas em função dos seguintes limites, tendo em vista o valor estimado da contratação:
@@ -506,7 +482,6 @@ Alterações: [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (nova redação: 
 **Art. 23, § 8º** {#art23_par8} #incluido No caso de consórcios públicos, aplicar-se-á o dobro dos valores mencionados no caput deste artigo quando formado por até 3 (três) entes da Federação, e o triplo, quando formado por maior número. *(Incluído pela [[lei-federal-11107-2005|Lei nº 11.107, de 2005]])*
 
 ###### Art. 24 {#art24}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo #obra-engenharia #garantia-contratual
 Alterações: [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (nova redação: inciso I, inciso II; incluído: inciso XXII, inciso XXIII, inciso XXIV); [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: inciso VIII, inciso X, inciso XII, inciso XIII, inciso XIV; incluído: inciso XVI, inciso XVII, inciso XVIII, inciso XIX, inciso XX); [[lei-federal-13243-2016|Lei nº 13.243, de 2016]] (incluído: inciso XXI, § 3º, § 4º); [[lei-federal-10973-2004|Lei nº 10.973, de 2004]] (incluído: inciso XXV); [[lei-federal-11107-2005|Lei nº 11.107, de 2005]] (incluído: inciso XXVI; nova redação: parágrafo único); [[lei-federal-11445-2007|Lei nº 11.445, de 2007]] (nova redação: inciso XXVII); [[lei-federal-11484-2007|Lei nº 11.484, de 2007]] (incluído: inciso XXVIII); [[lei-federal-11783-2008|Lei nº 11.783, de 2008]] (incluído: inciso XXIX); [[lei-federal-12349-2010|Lei nº 12.349, de 2010]] (incluído: inciso XXXI); [[lei-federal-12715-2012|Lei nº 12.715, de 2012]] (incluído: inciso XXXII, § 1º, § 2º); [[lei-federal-12873-2013|Lei nº 12.873, de 2013]] (incluído: inciso XXXIII); [[lei-federal-13204-2015|Lei nº 13.204, de 2015]] (incluído: inciso XXXIV); [[lei-federal-13500-2017|Lei nº 13.500, de 2017]] (incluído: inciso XXXV)
 
 **Art. 24, caput** {#art24_cpt} É dispensável a licitação:
@@ -557,7 +532,6 @@ Alterações: [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (nova redação: 
 **Art. 24, § 4º** {#art24_par4} #incluido Não se aplica a vedação prevista no inciso I do caput do art. [[#art9|9o]] à hipótese prevista no inciso XXI do caput. *(Incluído pela [[lei-federal-13243-2016|Lei nº 13.243, de 2016]])*
 
 ###### Art. 25 {#art25}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo #sancao
 
 **Art. 25, caput** {#art25_cpt} É inexigível a licitação quando houver inviabilidade de competição, em especial:
 - **Art. 25, caput, inciso I** {#art25_cpt_inc1} para aquisição de materiais, equipamentos, ou gêneros que só possam ser fornecidos por produtor, empresa ou representante comercial exclusivo, vedada a preferência de marca, devendo a comprovação de exclusividade ser feita através de atestado fornecido pelo órgão de registro do comércio do local em que se realizaria a licitação ou a obra ou o serviço, pelo Sindicato, Federação ou Confederação Patronal, ou, ainda, pelas entidades equivalentes;
@@ -569,7 +543,6 @@ Tags: #dispensa-licitacao #licitacao #contrato-administrativo #sancao
 **Art. 25, § 2º** {#art25_par2} Na hipótese deste artigo e em qualquer dos casos de dispensa, se comprovado superfaturamento, respondem solidariamente pelo dano causado à Fazenda Pública o fornecedor ou o prestador de serviços e o agente público responsável, sem prejuízo de outras sanções legais cabíveis.
 
 ###### Art. 26 {#art26}
-Tags: #dispensa-licitacao #prazo
 Alterações: [[lei-federal-11107-2005|Lei nº 11.107, de 2005]] (nova redação: caput); [[lei-federal-13500-2017|Lei nº 13.500, de 2017]] (nova redação: parágrafo único, inciso I); [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (incluído: parágrafo único, inciso IV)
 
 **Art. 26, caput** {#art26_cpt} #redacao-alterada As dispensas previstas nos §§ 2o e 4o do art. [[#art17|17]] e no inciso III e seguintes do art. [[#art24|24]], as situações de inexigibilidade referidas no art. [[#art25|25]], necessariamente justificadas, e o retardamento previsto no final do parágrafo único do art. [[#art8|8o]] desta Lei deverão ser comunicados, dentro de 3 (três) dias, à autoridade superior, para ratificação e publicação na imprensa oficial, no prazo de 5 (cinco) dias, como condição para a eficácia dos atos. *(Redação dada pela [[lei-federal-11107-2005|Lei nº 11.107, de 2005]])*
@@ -583,7 +556,6 @@ Alterações: [[lei-federal-11107-2005|Lei nº 11.107, de 2005]] (nova redação
 ### Seção II – Da Habilitação
 
 ###### Art. 27 {#art27}
-Tags: #licitacao
 Alterações: [[lei-federal-12440-2011|Lei nº 12.440, de 2011]] (nova redação: inciso IV); [[lei-federal-9854-1999|Lei nº 9.854, de 1999]] (incluído: inciso V)
 
 **Art. 27, caput** {#art27_cpt} Para a habilitação nas licitações exigir-se-á dos interessados, exclusivamente, documentação relativa a:
@@ -594,7 +566,6 @@ Alterações: [[lei-federal-12440-2011|Lei nº 12.440, de 2011]] (nova redação
 - **Art. 27, caput, inciso V** {#art27_cpt_inc5} #incluido cumprimento do disposto no inciso XXXIII do art. [[#art7|7o]] da Constituição Federal. *(Incluído pela [[lei-federal-9854-1999|Lei nº 9.854, de 1999]])*
 
 ###### Art. 28 {#art28}
-Tags: #contrato-administrativo
 
 **Art. 28, caput** {#art28_cpt} A documentação relativa à habilitação jurídica, conforme o caso, consistirá em:
 - **Art. 28, caput, inciso I** {#art28_cpt_inc1} cédula de identidade;
@@ -604,7 +575,6 @@ Tags: #contrato-administrativo
 - **Art. 28, caput, inciso V** {#art28_cpt_inc5} decreto de autorização, em se tratando de empresa ou sociedade estrangeira em funcionamento no País, e ato de registro ou autorização para funcionamento expedido pelo órgão competente, quando a atividade assim o exigir.
 
 ###### Art. 29 {#art29}
-Tags: #garantia-contratual
 Alterações: [[lei-federal-12440-2011|Lei nº 12.440, de 2011]] (nova redação: caput; incluído: inciso V); [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: inciso IV)
 
 **Art. 29, caput** {#art29_cpt} #redacao-alterada A documentação relativa à regularidade fiscal e trabalhista, conforme o caso, consistirá em: *(Redação dada pela [[lei-federal-12440-2011|Lei nº 12.440, de 2011]])* *(Vigência)*
@@ -615,7 +585,6 @@ Alterações: [[lei-federal-12440-2011|Lei nº 12.440, de 2011]] (nova redação
 - **Art. 29, caput, inciso V** {#art29_cpt_inc5} #incluido prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a apresentação de certidão negativa, nos termos do Título VII-A da Consolidação das Leis do Trabalho, aprovada pelo [[decreto-lei-federal-5452-1943|Decreto-Lei no 5.452, de 1o de maio de 1943]]. *(Incluído pela [[lei-federal-12440-2011|Lei nº 12.440, de 2011]])* *(Vigência)*
 
 ###### Art. 30 {#art30}
-Tags: #licitacao #obra-engenharia #prazo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: § 1º, § 2º, § 7º; incluído: § 1º, inciso I, § 1º, inciso II, § 1º, inciso II, alínea "a", § 1º, inciso II, alínea "b", § 7º, inciso I, § 7º, inciso II, § 10, § 11, § 12)
 
 **Art. 30, caput** {#art30_cpt} A documentação relativa à qualificação técnica limitar-se-á a:
@@ -657,7 +626,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 30, § 12** {#art30_par12} #incluido *(Vetado)* *(Incluído pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 31 {#art31}
-Tags: #licitacao #contrato-administrativo #obra-engenharia #garantia-contratual
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: § 1º, § 5º, § 6º)
 
 **Art. 31, caput** {#art31_cpt} A documentação relativa à qualificação econômico-financeira limitar-se-á a:
@@ -678,7 +646,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 31, § 6º** {#art31_par6} #redacao-alterada *(Vetado)* *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 32 {#art32}
-Tags: #dispensa-licitacao #licitacao #recurso-administrativo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: caput); [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (nova redação: § 2º)
 
 **Art. 32, caput** {#art32_cpt} #redacao-alterada Os documentos necessários à habilitação poderão ser apresentados em original, por qualquer processo de cópia autenticada por cartório competente ou por servidor da administração ou publicação em órgão da imprensa oficial. *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
@@ -698,7 +665,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 32, § 7º** {#art32_par7} A documentação de que tratam os arts. [[#art28|28]] a [[#art31|31]] e este artigo poderá ser dispensada, nos termos de regulamento, no todo ou em parte, para a contratação de produto para pesquisa e desenvolvimento, desde que para pronta entrega ou até o valor previsto na alínea “a” do inciso II do caput do art. [[#art23|23]]. (Incluído pela [[lei-federal-13243-2016|Lei nº 13.243, de 2016]]) Regulamento-
 
 ###### Art. 33 {#art33}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo
 
 **Art. 33, caput** {#art33_cpt} Quando permitida na licitação a participação de empresas em consórcio, observar-se-ão as seguintes normas:
 - **Art. 33, caput, inciso I** {#art33_cpt_inc1} comprovação do compromisso público ou particular de constituição de consórcio, subscrito pelos consorciados;
@@ -714,7 +680,6 @@ Tags: #dispensa-licitacao #licitacao #contrato-administrativo
 ### Seção III – Dos Registros Cadastrais
 
 ###### Art. 34 {#art34}
-Tags: #licitacao
 
 **Art. 34, caput** {#art34_cpt} Para os fins desta Lei, os órgãos e entidades da Administração Pública que realizem freqüentemente licitações manterão registros cadastrais para efeito de habilitação, na forma regulamentar, válidos por, no máximo, um ano. *(Regulamento)*
 
@@ -723,12 +688,10 @@ Tags: #licitacao
 **Art. 34, § 2º** {#art34_par2} É facultado às unidades administrativas utilizarem-se de registros cadastrais de outros órgãos ou entidades da Administração Pública.
 
 ###### Art. 35 {#art35}
-Tags:
 
 **Art. 35, caput** {#art35_cpt} Ao requerer inscrição no cadastro, ou atualização deste, a qualquer tempo, o interessado fornecerá os elementos necessários à satisfação das exigências do art. [[#art27|27]] desta Lei.
 
 ###### Art. 36 {#art36}
-Tags:
 
 **Art. 36, caput** {#art36_cpt} Os inscritos serão classificados por categorias, tendo-se em vista sua especialização, subdivididas em grupos, segundo a qualificação técnica e econômica avaliada pelos elementos constantes da documentação relacionada nos arts. [[#art30|30]] e [[#art31|31]] desta Lei.
 
@@ -737,14 +700,12 @@ Tags:
 **Art. 36, § 2º** {#art36_par2} A atuação do licitante no cumprimento de obrigações assumidas será anotada no respectivo registro cadastral.
 
 ###### Art. 37 {#art37}
-Tags:
 
 **Art. 37, caput** {#art37_cpt} A qualquer tempo poderá ser alterado, suspenso ou cancelado o registro do inscrito que deixar de satisfazer as exigências do art. [[#art27|27]] desta Lei, ou as estabelecidas para classificação cadastral.
 
 ### Seção IV – Do Procedimento e Julgamento
 
 ###### Art. 38 {#art38}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo #recurso-administrativo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: parágrafo único)
 
 **Art. 38, caput** {#art38_cpt} O procedimento da licitação será iniciado com a abertura de processo administrativo, devidamente autuado, protocolado e numerado, contendo a autorização respectiva, a indicação sucinta de seu objeto e do recurso próprio para a despesa, e ao qual serão juntados oportunamente:
@@ -764,7 +725,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 38, parágrafo único** {#art38_par1u} #redacao-alterada As minutas de editais de licitação, bem como as dos contratos, acordos, convênios ou ajustes devem ser previamente examinadas e aprovadas por assessoria jurídica da Administração. *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 39 {#art39}
-Tags: #licitacao #contrato-administrativo #sancao
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: parágrafo único)
 
 **Art. 39, caput** {#art39_cpt} Sempre que o valor estimado para uma licitação ou para um conjunto de licitações simultâneas ou sucessivas for superior a 100 (cem) vezes o limite previsto no art. [[#art23|23]], inciso I, alínea "c" desta Lei, o processo licitatório será iniciado, obrigatoriamente, com uma audiência pública concedida pela autoridade responsável com antecedência mínima de 15 (quinze) dias úteis da data prevista para a publicação do edital, e divulgada, com a antecedência mínima de 10 (dez) dias úteis de sua realização, pelos mesmos meios previstos para a publicidade da licitação, à qual terão acesso e direito a todas as informações pertinentes e a se manifestar todos os interessados.
@@ -772,7 +732,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 39, parágrafo único** {#art39_par1u} #redacao-alterada Para os fins deste artigo, consideram-se licitações simultâneas aquelas com objetos similares e com realização prevista para intervalos não superiores a trinta dias e licitações sucessivas aquelas em que, também com objetos similares, o edital subseqüente tenha uma data anterior a cento e vinte dias após o término do contrato resultante da licitação antecedente. *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 40 {#art40}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo #projeto-engenharia #sancao
 Alterações: [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (nova redação: inciso X); [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: inciso XI, inciso XII, inciso XIV, alínea "a", inciso XIV, alínea "c", § 2º, inciso II; incluído: § 4º, § 4º, inciso I, § 4º, inciso II); [[lei-federal-13500-2017|Lei nº 13.500, de 2017]] (incluído: § 5º)
 
 **Art. 40, caput** {#art40_cpt} O edital conterá no preâmbulo o número de ordem em série anual, o nome da repartição interessada e de seu setor, a modalidade, o regime de execução e o tipo da licitação, a menção de que será regida por esta Lei, o local, dia e hora para recebimento da documentação e proposta, bem como para início da abertura dos envelopes, e indicará, obrigatoriamente, o seguinte:
@@ -816,7 +775,6 @@ Alterações: [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (nova redação: 
 **Art. 40, § 5º** {#art40_par5} #incluido A Administração Pública poderá, nos editais de licitação para a contratação de serviços, exigir da contratada que um percentual mínimo de sua mão de obra seja oriundo ou egresso do sistema prisional, com a finalidade de ressocialização do reeducando, na forma estabelecida em regulamento. *(Incluído pela [[lei-federal-13500-2017|Lei nº 13.500, de 2017]])*
 
 ###### Art. 41 {#art41}
-Tags: #licitacao #recurso-administrativo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: § 2º)
 
 **Art. 41, caput** {#art41_cpt} A Administração não pode descumprir as normas e condições do edital, ao qual se acha estritamente vinculada.
@@ -830,7 +788,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 41, § 4º** {#art41_par4} A inabilitação do licitante importa preclusão do seu direito de participar das fases subseqüentes.
 
 ###### Art. 42 {#art42}
-Tags: #licitacao #contrato-administrativo #garantia-contratual
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: § 2º, § 5º)
 
 **Art. 42, caput** {#art42_cpt} Nas concorrências de âmbito internacional, o edital deverá ajustar-se às diretrizes da política monetária e do comércio exterior e atender às exigências dos órgãos competentes.
@@ -848,7 +805,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 42, § 6º** {#art42_par6} As cotações de todos os licitantes serão para entrega no mesmo local de destino.
 
 ###### Art. 43 {#art43}
-Tags: #licitacao #recurso-administrativo #prazo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: § 4º)
 
 **Art. 43, caput** {#art43_cpt} A licitação será processada e julgada com observância dos seguintes procedimentos:
@@ -872,7 +828,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 43, § 6º** {#art43_par6} Após a fase de habilitação, não cabe desistência de proposta, salvo por motivo justo decorrente de fato superveniente e aceito pela Comissão.
 
 ###### Art. 44 {#art44}
-Tags: #licitacao
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: § 3º, § 4º)
 
 **Art. 44, caput** {#art44_cpt} No julgamento das propostas, a Comissão levará em consideração os critérios objetivos definidos no edital ou convite, os quais não devem contrariar as normas e princípios estabelecidos por esta Lei.
@@ -886,7 +841,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 44, § 4º** {#art44_par4} #redacao-alterada O disposto no parágrafo anterior aplica-se também às propostas que incluam mão-de-obra estrangeira ou importações de qualquer natureza. *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 45 {#art45}
-Tags: #licitacao
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: § 1º, § 3º, § 4º; incluído: § 1º, inciso IV); [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (incluído: § 6º)
 
 **Art. 45, caput** {#art45_cpt} O julgamento das propostas será objetivo, devendo a Comissão de licitação ou o responsável pelo convite realizá-lo em conformidade com os tipos de licitação, os critérios previamente estabelecidos no ato convocatório e de acordo com os fatores exclusivamente nele referidos, de maneira a possibilitar sua aferição pelos licitantes e pelos órgãos de controle.
@@ -908,7 +862,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 45, § 6º** {#art45_par6} #incluido Na hipótese prevista no art. [[#art23|23]], § 7º, serão selecionadas tantas propostas quantas necessárias até que se atinja a quantidade demandada na licitação. *(Incluído pela [[lei-federal-9648-1998|Lei nº 9.648, de 1998]])*
 
 ###### Art. 46 {#art46}
-Tags: #licitacao
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: caput; incluído: § 4º)
 
 **Art. 46, caput** {#art46_cpt} #redacao-alterada Os tipos de licitação "melhor técnica" ou "técnica e preço" serão utilizados exclusivamente para serviços de natureza predominantemente intelectual, em especial na elaboração de projetos, cálculos, fiscalização, supervisão e gerenciamento e de engenharia consultiva em geral e, em particular, para a elaboração de estudos técnicos preliminares e projetos básicos e executivos, ressalvado o disposto no § 4o do artigo anterior. *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
@@ -928,12 +881,10 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 46, § 4º** {#art46_par4} #incluido *(Vetado)* *(Incluído pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 47 {#art47}
-Tags: #licitacao #obra-engenharia
 
 **Art. 47, caput** {#art47_cpt} Nas licitações para a execução de obras e serviços, quando for adotada a modalidade de execução de empreitada por preço global, a Administração deverá fornecer obrigatoriamente, junto com o edital, todos os elementos e informações necessários para que os licitantes possam elaborar suas propostas de preços com total e completo conhecimento do objeto da licitação.
 
 ###### Art. 48 {#art48}
-Tags: #licitacao #contrato-administrativo #obra-engenharia #garantia-contratual #prazo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: inciso II, parágrafo único); [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (incluído: § 1º, § 1º, alínea "a", § 1º, alínea "b", § 2º, § 3º)
 
 **Art. 48, caput** {#art48_cpt} Serão desclassificadas:
@@ -951,7 +902,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 48, § 3º** {#art48_par3} #incluido Quando todos os licitantes forem inabilitados ou todas as propostas forem desclassificadas, a administração poderá fixar aos licitantes o prazo de oito dias úteis para a apresentação de nova documentação ou de outras propostas escoimadas das causas referidas neste artigo, facultada, no caso de convite, a redução deste prazo para três dias úteis. *(Incluído pela [[lei-federal-9648-1998|Lei nº 9.648, de 1998]])*
 
 ###### Art. 49 {#art49}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo
 
 **Art. 49, caput** {#art49_cpt} A autoridade competente para a aprovação do procedimento somente poderá revogar a licitação por razões de interesse público decorrente de fato superveniente devidamente comprovado, pertinente e suficiente para justificar tal conduta, devendo anulá-la por ilegalidade, de ofício ou por provocação de terceiros, mediante parecer escrito e devidamente fundamentado.
 
@@ -964,12 +914,10 @@ Tags: #dispensa-licitacao #licitacao #contrato-administrativo
 **Art. 49, § 4º** {#art49_par4} O disposto neste artigo e seus parágrafos aplica-se aos atos do procedimento de dispensa e de inexigibilidade de licitação.
 
 ###### Art. 50 {#art50}
-Tags: #contrato-administrativo
 
 **Art. 50, caput** {#art50_cpt} A Administração não poderá celebrar o contrato com preterição da ordem de classificação das propostas ou com terceiros estranhos ao procedimento licitatório, sob pena de nulidade.
 
 ###### Art. 51 {#art51}
-Tags: #licitacao
 
 **Art. 51, caput** {#art51_cpt} A habilitação preliminar, a inscrição em registro cadastral, a sua alteração ou cancelamento, e as propostas serão processadas e julgadas por comissão permanente ou especial de, no mínimo, 3 (três) membros, sendo pelo menos 2 (dois) deles servidores qualificados pertencentes aos quadros permanentes dos órgãos da Administração responsáveis pela licitação.
 
@@ -984,7 +932,6 @@ Tags: #licitacao
 **Art. 51, § 5º** {#art51_par5} No caso de concurso, o julgamento será feito por uma comissão especial integrada por pessoas de reputação ilibada e reconhecido conhecimento da matéria em exame, servidores públicos ou não.
 
 ###### Art. 52 {#art52}
-Tags:
 
 **Art. 52, caput** {#art52_cpt} O concurso a que se refere o § 4o do art. [[#art22|22]] desta Lei deve ser precedido de regulamento próprio, a ser obtido pelos interessados no local indicado no edital.
 
@@ -996,7 +943,6 @@ Tags:
 **Art. 52, § 2º** {#art52_par2} Em se tratando de projeto, o vencedor deverá autorizar a Administração a executá-lo quando julgar conveniente.
 
 ###### Art. 53 {#art53}
-Tags: #prazo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: § 3º; incluído: § 4º)
 
 **Art. 53, caput** {#art53_cpt} O leilão pode ser cometido a leiloeiro oficial ou a servidor designado pela Administração, procedendo-se na forma da legislação pertinente.
@@ -1014,7 +960,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 ### Seção I – Disposições Preliminares
 
 ###### Art. 54 {#art54}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo
 
 **Art. 54, caput** {#art54_cpt} Os contratos administrativos de que trata esta Lei regulam-se pelas suas cláusulas e pelos preceitos de direito público, aplicando-se-lhes, supletivamente, os princípios da teoria geral dos contratos e as disposições de direito privado.
 
@@ -1023,7 +968,6 @@ Tags: #dispensa-licitacao #licitacao #contrato-administrativo
 **Art. 54, § 2º** {#art54_par2} Os contratos decorrentes de dispensa ou de inexigibilidade de licitação devem atender aos termos do ato que os autorizou e da respectiva proposta.
 
 ###### Art. 55 {#art55}
-Tags: #licitacao #contrato-administrativo #garantia-contratual #sancao #prazo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: § 1º)
 
 **Art. 55, caput** {#art55_cpt} São cláusulas necessárias em todo contrato as que estabeleçam:
@@ -1048,7 +992,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 55, § 3º** {#art55_par3} No ato da liquidação da despesa, os serviços de contabilidade comunicarão, aos órgãos incumbidos da arrecadação e fiscalização de tributos da União, Estado ou Município, as características e os valores pagos, segundo o disposto no art. 63 da [[lei-federal-4320-1964|Lei no 4.320, de 17 de março de 1964]].
 
 ###### Art. 56 {#art56}
-Tags: #contrato-administrativo #garantia-contratual
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: § 1º, § 1º, inciso II, § 1º, inciso III, § 2º, § 3º); [[lei-federal-11079-2004|Lei nº 11.079, de 2004]] (nova redação: § 1º, inciso I)
 
 **Art. 56, caput** {#art56_cpt} A critério da autoridade competente, em cada caso, e desde que prevista no instrumento convocatório, poderá ser exigida prestação de garantia nas contratações de obras, serviços e compras.
@@ -1067,7 +1010,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 56, § 5º** {#art56_par5} Nos casos de contratos que importem na entrega de bens pela Administração, dos quais o contratado ficará depositário, ao valor da garantia deverá ser acrescido o valor desses bens.
 
 ###### Art. 57 {#art57}
-Tags: #contrato-administrativo #sancao #prazo
 Alterações: [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (nova redação: inciso II; incluído: § 4º); [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: inciso III); [[lei-federal-12349-2010|Lei nº 12.349, de 2010]] (incluído: inciso V)
 
 **Art. 57, caput** {#art57_cpt} A duração dos contratos regidos por esta Lei ficará adstrita à vigência dos respectivos créditos orçamentários, exceto quanto aos relativos:
@@ -1092,7 +1034,6 @@ Alterações: [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (nova redação: 
 **Art. 57, § 4º** {#art57_par4} #incluido Em caráter excepcional, devidamente justificado e mediante autorização da autoridade superior, o prazo de que trata o inciso II do caput deste artigo poderá ser prorrogado por até doze meses. *(Incluído pela [[lei-federal-9648-1998|Lei nº 9.648, de 1998]])*
 
 ###### Art. 58 {#art58}
-Tags: #contrato-administrativo #sancao
 
 **Art. 58, caput** {#art58_cpt} O regime jurídico dos contratos administrativos instituído por esta Lei confere à Administração, em relação a eles, a prerrogativa de:
 - **Art. 58, caput, inciso I** {#art58_cpt_inc1} modificá-los, unilateralmente, para melhor adequação às finalidades de interesse público, respeitados os direitos do contratado;
@@ -1106,7 +1047,6 @@ Tags: #contrato-administrativo #sancao
 **Art. 58, § 2º** {#art58_par2} Na hipótese do inciso I deste artigo, as cláusulas econômico-financeiras do contrato deverão ser revistas para que se mantenha o equilíbrio contratual.
 
 ###### Art. 59 {#art59}
-Tags: #contrato-administrativo
 
 **Art. 59, caput** {#art59_cpt} A declaração de nulidade do contrato administrativo opera retroativamente impedindo os efeitos jurídicos que ele, ordinariamente, deveria produzir, além de desconstituir os já produzidos.
 
@@ -1115,14 +1055,12 @@ Tags: #contrato-administrativo
 ### Seção II – Da Formalização dos Contratos
 
 ###### Art. 60 {#art60}
-Tags: #contrato-administrativo
 
 **Art. 60, caput** {#art60_cpt} Os contratos e seus aditamentos serão lavrados nas repartições interessadas, as quais manterão arquivo cronológico dos seus autógrafos e registro sistemático do seu extrato, salvo os relativos a direitos reais sobre imóveis, que se formalizam por instrumento lavrado em cartório de notas, de tudo juntando-se cópia no processo que lhe deu origem.
 
 **Art. 60, parágrafo único** {#art60_par1u} É nulo e de nenhum efeito o contrato verbal com a Administração, salvo o de pequenas compras de pronto pagamento, assim entendidas aquelas de valor não superior a 5% (cinco por cento) do limite estabelecido no art. [[#art23|23]], inciso II, alínea "a" desta Lei, feitas em regime de adiantamento.
 
 ###### Art. 61 {#art61}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo #prazo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: parágrafo único)
 
 **Art. 61, caput** {#art61_cpt} Todo contrato deve mencionar os nomes das partes e os de seus representantes, a finalidade, o ato que autorizou a sua lavratura, o número do processo da licitação, da dispensa ou da inexigibilidade, a sujeição dos contratantes às normas desta Lei e às cláusulas contratuais.
@@ -1136,7 +1074,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 61, parágrafo único** {#art61_par1u} #redacao-alterada A publicação resumida do instrumento de contrato ou de seus aditamentos na imprensa oficial, que é condição indispensável para sua eficácia, será providenciada pela Administração até o quinto dia útil do mês seguinte ao de sua assinatura, para ocorrer no prazo de vinte dias daquela data, qualquer que seja o seu valor, ainda que sem ônus, ressalvado o disposto no art. [[#art26|26]] desta Lei. *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 62 {#art62}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: § 2º)
 
 **Art. 62, caput** {#art62_cpt} O instrumento de contrato é obrigatório nos casos de concorrência e de tomada de preços, bem como nas dispensas e inexigibilidades cujos preços estejam compreendidos nos limites destas duas modalidades de licitação, e facultativo nos demais em que a Administração puder substituí-lo por outros instrumentos hábeis, tais como carta-contrato, nota de empenho de despesa, autorização de compra ou ordem de execução de serviço.
@@ -1152,12 +1089,10 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 62, § 4º** {#art62_par4} É dispensável o "termo de contrato" e facultada a substituição prevista neste artigo, a critério da Administração e independentemente de seu valor, nos casos de compra com entrega imediata e integral dos bens adquiridos, dos quais não resultem obrigações futuras, inclusive assistência técnica.
 
 ###### Art. 63 {#art63}
-Tags: #contrato-administrativo
 
 **Art. 63, caput** {#art63_cpt} É permitido a qualquer licitante o conhecimento dos termos do contrato e do respectivo processo licitatório e, a qualquer interessado, a obtenção de cópia autenticada, mediante o pagamento dos emolumentos devidos.
 
 ###### Art. 64 {#art64}
-Tags: #licitacao #contrato-administrativo #sancao #prazo
 
 **Art. 64, caput** {#art64_cpt} A Administração convocará regularmente o interessado para assinar o termo de contrato, aceitar ou retirar o instrumento equivalente, dentro do prazo e condições estabelecidos, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas no art. [[#art81|81]] desta Lei.
 
@@ -1170,7 +1105,6 @@ Tags: #licitacao #contrato-administrativo #sancao #prazo
 ### Seção III – Da Alteração dos Contratos
 
 ###### Art. 65 {#art65}
-Tags: #contrato-administrativo #garantia-contratual
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: inciso II, alínea "d"); [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (nova redação: § 2º; incluído: § 2º, inciso I, § 2º, inciso II)
 
 **Art. 65, caput** {#art65_cpt} Os contratos regidos por esta Lei poderão ser alterados, com as devidas justificativas, nos seguintes casos:
@@ -1204,12 +1138,10 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 ### Seção IV – Da Execução dos Contratos
 
 ###### Art. 66 {#art66}
-Tags: #contrato-administrativo
 
 **Art. 66, caput** {#art66_cpt} O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as normas desta Lei, respondendo cada uma pelas conseqüências de sua inexecução total ou parcial.
 
 ###### Art. 66-A {#art66-a}
-Tags: #contrato-administrativo
 Alterações: [[lei-federal-13146-2015|Lei nº 13.146, de 2015]] (incluído: caput, parágrafo único)
 
 **Art. 66-A, caput** {#art66-a_cpt} #incluido As empresas enquadradas no inciso V do § 2o e no inciso II do § 5o do art. [[#art3|3o]] desta Lei deverão cumprir, durante todo o período de execução do contrato, a reserva de cargos prevista em lei para pessoa com deficiência ou para reabilitado da Previdência Social, bem como as regras de acessibilidade previstas na legislação. *(Incluído pela [[lei-federal-13146-2015|Lei nº 13.146, de 2015]])* *(Vigência)*
@@ -1217,7 +1149,6 @@ Alterações: [[lei-federal-13146-2015|Lei nº 13.146, de 2015]] (incluído: cap
 **Art. 66-A, parágrafo único** {#art66-a_par1u} #incluido Cabe à administração fiscalizar o cumprimento dos requisitos de acessibilidade nos serviços e nos ambientes de trabalho. *(Incluído pela [[lei-federal-13146-2015|Lei nº 13.146, de 2015]])* *(Vigência)*
 
 ###### Art. 67 {#art67}
-Tags: #contrato-administrativo
 
 **Art. 67, caput** {#art67_cpt} A execução do contrato deverá ser acompanhada e fiscalizada por um representante da Administração especialmente designado, permitida a contratação de terceiros para assisti-lo e subsidiá-lo de informações pertinentes a essa atribuição.
 
@@ -1226,22 +1157,18 @@ Tags: #contrato-administrativo
 **Art. 67, § 2º** {#art67_par2} As decisões e providências que ultrapassarem a competência do representante deverão ser solicitadas a seus superiores em tempo hábil para a adoção das medidas convenientes.
 
 ###### Art. 68 {#art68}
-Tags: #contrato-administrativo
 
 **Art. 68, caput** {#art68_cpt} O contratado deverá manter preposto, aceito pela Administração, no local da obra ou serviço, para representá-lo na execução do contrato.
 
 ###### Art. 69 {#art69}
-Tags: #contrato-administrativo
 
 **Art. 69, caput** {#art69_cpt} O contratado é obrigado a reparar, corrigir, remover, reconstruir ou substituir, às suas expensas, no total ou em parte, o objeto do contrato em que se verificarem vícios, defeitos ou incorreções resultantes da execução ou de materiais empregados.
 
 ###### Art. 70 {#art70}
-Tags: #contrato-administrativo
 
 **Art. 70, caput** {#art70_cpt} O contratado é responsável pelos danos causados diretamente à Administração ou a terceiros, decorrentes de sua culpa ou dolo na execução do contrato, não excluindo ou reduzindo essa responsabilidade a fiscalização ou o acompanhamento pelo órgão interessado.
 
 ###### Art. 71 {#art71}
-Tags: #contrato-administrativo
 Alterações: [[lei-federal-9032-1995|Lei nº 9.032, de 1995]] (nova redação: § 1º, § 2º); [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (incluído: § 3º)
 
 **Art. 71, caput** {#art71_cpt} O contratado é responsável pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato.
@@ -1253,12 +1180,10 @@ Alterações: [[lei-federal-9032-1995|Lei nº 9.032, de 1995]] (nova redação: 
 **Art. 71, § 3º** {#art71_par3} #incluido *(Vetado)* *(Incluído pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 72 {#art72}
-Tags: #contrato-administrativo
 
 **Art. 72, caput** {#art72_cpt} O contratado, na execução do contrato, sem prejuízo das responsabilidades contratuais e legais, poderá subcontratar partes da obra, serviço ou fornecimento, até o limite admitido, em cada caso, pela Administração.
 
 ###### Art. 73 {#art73}
-Tags: #contrato-administrativo #obra-engenharia #prazo
 
 **Art. 73, caput** {#art73_cpt} Executado o contrato, o seu objeto será recebido:
 - **Art. 73, caput, inciso I** {#art73_cpt_inc1} em se tratando de obras e serviços:
@@ -1277,7 +1202,6 @@ Tags: #contrato-administrativo #obra-engenharia #prazo
 **Art. 73, § 4º** {#art73_par4} Na hipótese de o termo circunstanciado ou a verificação a que se refere este artigo não serem, respectivamente, lavrado ou procedida dentro dos prazos fixados, reputar-se-ão como realizados, desde que comunicados à Administração nos 15 (quinze) dias anteriores à exaustão dos mesmos.
 
 ###### Art. 74 {#art74}
-Tags: #obra-engenharia
 
 **Art. 74, caput** {#art74_cpt} Poderá ser dispensado o recebimento provisório nos seguintes casos:
 - **Art. 74, caput, inciso I** {#art74_cpt_inc1} gêneros perecíveis e alimentação preparada;
@@ -1287,24 +1211,20 @@ Tags: #obra-engenharia
 **Art. 74, parágrafo único** {#art74_par1u} Nos casos deste artigo, o recebimento será feito mediante recibo.
 
 ###### Art. 75 {#art75}
-Tags: #contrato-administrativo
 
 **Art. 75, caput** {#art75_cpt} Salvo disposições em contrário constantes do edital, do convite ou de ato normativo, os ensaios, testes e demais provas exigidos por normas técnicas oficiais para a boa execução do objeto do contrato correm por conta do contratado.
 
 ###### Art. 76 {#art76}
-Tags: #contrato-administrativo
 
 **Art. 76, caput** {#art76_cpt} A Administração rejeitará, no todo ou em parte, obra, serviço ou fornecimento executado em desacordo com o contrato.
 
 ### Seção V – Da Inexecução e da Rescisão dos Contratos
 
 ###### Art. 77 {#art77}
-Tags: #contrato-administrativo
 
 **Art. 77, caput** {#art77_cpt} A inexecução total ou parcial do contrato enseja a sua rescisão, com as conseqüências contratuais e as previstas em lei ou regulamento.
 
 ###### Art. 78 {#art78}
-Tags: #contrato-administrativo #sancao #prazo
 Alterações: [[lei-federal-9854-1999|Lei nº 9.854, de 1999]] (incluído: inciso XVIII)
 
 **Art. 78, caput** {#art78_cpt} Constituem motivo para rescisão do contrato:
@@ -1330,7 +1250,6 @@ Alterações: [[lei-federal-9854-1999|Lei nº 9.854, de 1999]] (incluído: incis
 **Art. 78, parágrafo único** {#art78_par1u} Os casos de rescisão contratual serão formalmente motivados nos autos do processo, assegurado o contraditório e a ampla defesa.
 
 ###### Art. 79 {#art79}
-Tags: #licitacao #contrato-administrativo #garantia-contratual
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: inciso IV, § 3º, § 4º)
 
 **Art. 79, caput** {#art79_cpt} A rescisão do contrato poderá ser:
@@ -1353,7 +1272,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 79, § 5º** {#art79_par5} Ocorrendo impedimento, paralisação ou sustação do contrato, o cronograma de execução será prorrogado automaticamente por igual tempo.
 
 ###### Art. 80 {#art80}
-Tags: #contrato-administrativo #garantia-contratual #sancao
 
 **Art. 80, caput** {#art80_cpt} A rescisão de que trata o inciso I do artigo anterior acarreta as seguintes conseqüências, sem prejuízo das sanções previstas nesta Lei:
 - **Art. 80, caput, inciso I** {#art80_cpt_inc1} assunção imediata do objeto do contrato, no estado e local em que se encontrar, por ato próprio da Administração;
@@ -1374,24 +1292,20 @@ Tags: #contrato-administrativo #garantia-contratual #sancao
 ### Seção I – Disposições Gerais
 
 ###### Art. 81 {#art81}
-Tags: #contrato-administrativo #prazo
 
 **Art. 81, caput** {#art81_cpt} A recusa injustificada do adjudicatário em assinar o contrato, aceitar ou retirar o instrumento equivalente, dentro do prazo estabelecido pela Administração, caracteriza o descumprimento total da obrigação assumida, sujeitando-o às penalidades legalmente estabelecidas.
 
 **Art. 81, parágrafo único** {#art81_par1u} O disposto neste artigo não se aplica aos licitantes convocados nos termos do art. [[#art64|64]], § 2o desta Lei, que não aceitarem a contratação, nas mesmas condições propostas pelo primeiro adjudicatário, inclusive quanto ao prazo e preço.
 
 ###### Art. 82 {#art82}
-Tags: #licitacao #sancao
 
 **Art. 82, caput** {#art82_cpt} Os agentes administrativos que praticarem atos em desacordo com os preceitos desta Lei ou visando a frustrar os objetivos da licitação sujeitam-se às sanções previstas nesta Lei e nos regulamentos próprios, sem prejuízo das responsabilidades civil e criminal que seu ato ensejar.
 
 ###### Art. 83 {#art83}
-Tags: #sancao
 
 **Art. 83, caput** {#art83_cpt} Os crimes definidos nesta Lei, ainda que simplesmente tentados, sujeitam os seus autores, quando servidores públicos, além das sanções penais, à perda do cargo, emprego, função ou mandato eletivo.
 
 ###### Art. 84 {#art84}
-Tags:
 
 **Art. 84, caput** {#art84_cpt} Considera-se servidor público, para os fins desta Lei, aquele que exerce, mesmo que transitoriamente ou sem remuneração, cargo, função ou emprego público.
 
@@ -1400,14 +1314,12 @@ Tags:
 **Art. 84, § 2º** {#art84_par2} A pena imposta será acrescida da terça parte, quando os autores dos crimes previstos nesta Lei forem ocupantes de cargo em comissão ou de função de confiança em órgão da Administração direta, autarquia, empresa pública, sociedade de economia mista, fundação pública, ou outra entidade controlada direta ou indiretamente pelo Poder Público.
 
 ###### Art. 85 {#art85}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 85, caput** {#art85_cpt} As infrações penais previstas nesta Lei pertinem às licitações e aos contratos celebrados pela União, Estados, Distrito Federal, Municípios, e respectivas autarquias, empresas públicas, sociedades de economia mista, fundações públicas, e quaisquer outras entidades sob seu controle direto ou indireto.
 
 ### Seção II – Das Sanções Administrativas
 
 ###### Art. 86 {#art86}
-Tags: #contrato-administrativo #garantia-contratual #sancao
 
 **Art. 86, caput** {#art86_cpt} O atraso injustificado na execução do contrato sujeitará o contratado à multa de mora, na forma prevista no instrumento convocatório ou no contrato.
 
@@ -1418,7 +1330,6 @@ Tags: #contrato-administrativo #garantia-contratual #sancao
 **Art. 86, § 3º** {#art86_par3} Se a multa for de valor superior ao valor da garantia prestada, além da perda desta, responderá o contratado pela sua diferença, a qual será descontada dos pagamentos eventualmente devidos pela Administração ou ainda, quando for o caso, cobrada judicialmente.
 
 ###### Art. 87 {#art87}
-Tags: #licitacao #contrato-administrativo #garantia-contratual #sancao #prazo
 
 **Art. 87, caput** {#art87_cpt} Pela inexecução total ou parcial do contrato a Administração poderá, garantida a prévia defesa, aplicar ao contratado as seguintes sanções:
 - **Art. 87, caput, inciso I** {#art87_cpt_inc1} advertência;
@@ -1433,7 +1344,6 @@ Tags: #licitacao #contrato-administrativo #garantia-contratual #sancao #prazo
 **Art. 87, § 3º** {#art87_par3} A sanção estabelecida no inciso IV deste artigo é de competência exclusiva do Ministro de Estado, do Secretário Estadual ou Municipal, conforme o caso, facultada a defesa do interessado no respectivo processo, no prazo de 10 (dez) dias da abertura de vista, podendo a reabilitação ser requerida após 2 (dois) anos de sua aplicação. *(Vide art 109 inciso III)*
 
 ###### Art. 88 {#art88}
-Tags: #licitacao #contrato-administrativo #sancao
 
 **Art. 88, caput** {#art88_cpt} As sanções previstas nos incisos III e IV do artigo anterior poderão também ser aplicadas às empresas ou aos profissionais que, em razão dos contratos regidos por esta Lei:
 - **Art. 88, caput, inciso I** {#art88_cpt_inc1} tenham sofrido condenação definitiva por praticarem, por meios dolosos, fraude fiscal no recolhimento de quaisquer tributos;
@@ -1443,7 +1353,6 @@ Tags: #licitacao #contrato-administrativo #sancao
 ### Seção III – Dos Crimes e das Penas *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 89 {#art89}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput, parágrafo único)
 
 **Art. 89, caput** {#art89_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
@@ -1451,19 +1360,16 @@ Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: capu
 **Art. 89, parágrafo único** {#art89_par1u} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 90 {#art90}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput)
 
 **Art. 90, caput** {#art90_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 91 {#art91}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput)
 
 **Art. 91, caput** {#art91_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 92 {#art92}
-Tags:
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: caput); [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput, parágrafo único)
 
 **Art. 92, caput** {#art92_cpt} #redacao-alterada #revogado *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])* *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
@@ -1471,19 +1377,16 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 92, parágrafo único** {#art92_par1u} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 93 {#art93}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput)
 
 **Art. 93, caput** {#art93_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 94 {#art94}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput)
 
 **Art. 94, caput** {#art94_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 95 {#art95}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput, parágrafo único)
 
 **Art. 95, caput** {#art95_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
@@ -1491,7 +1394,6 @@ Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: capu
 **Art. 95, parágrafo único** {#art95_par1u} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 96 {#art96}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput, inciso I, inciso II, inciso III, inciso IV, inciso V)
 
 **Art. 96, caput** {#art96_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
@@ -1502,7 +1404,6 @@ Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: capu
 - **Art. 96, caput, inciso V** {#art96_cpt_inc5} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 97 {#art97}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput, parágrafo único)
 
 **Art. 97, caput** {#art97_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
@@ -1510,13 +1411,11 @@ Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: capu
 **Art. 97, parágrafo único** {#art97_par1u} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 98 {#art98}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput)
 
 **Art. 98, caput** {#art98_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 99 {#art99}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput, § 1º, § 2º)
 
 **Art. 99, caput** {#art99_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
@@ -1526,13 +1425,11 @@ Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: capu
 **Art. 99, § 2º** {#art99_par2} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 100 {#art100}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput)
 
 **Art. 100, caput** {#art100_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 101 {#art101}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput, parágrafo único)
 
 **Art. 101, caput** {#art101_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
@@ -1540,43 +1437,36 @@ Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: capu
 **Art. 101, parágrafo único** {#art101_par1u} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 102 {#art102}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput)
 
 **Art. 102, caput** {#art102_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 103 {#art103}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput)
 
 **Art. 103, caput** {#art103_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 104 {#art104}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput)
 
 **Art. 104, caput** {#art104_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 105 {#art105}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput)
 
 **Art. 105, caput** {#art105_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 106 {#art106}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput)
 
 **Art. 106, caput** {#art106_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 107 {#art107}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput)
 
 **Art. 107, caput** {#art107_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
 
 ###### Art. 108 {#art108}
-Tags:
 Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: caput)
 
 **Art. 108, caput** {#art108_cpt} #revogado *(Revogado pela [[lei-federal-14133-2021|Lei nº 14.133, de 2021]])*
@@ -1584,7 +1474,6 @@ Alterações: [[lei-federal-14133-2021|Lei nº 14.133, de 2021]] (revogado: capu
 ## Capítulo V – DOS RECURSOS ADMINISTRATIVOS
 
 ###### Art. 109 {#art109}
-Tags: #licitacao #contrato-administrativo #sancao #recurso-administrativo #prazo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: inciso I, alínea "e"; incluído: § 6º)
 
 **Art. 109, caput** {#art109_cpt} Dos atos da Administração decorrentes da aplicação desta Lei cabem:
@@ -1613,21 +1502,18 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 ## Capítulo VI – DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 ###### Art. 110 {#art110}
-Tags: #prazo
 
 **Art. 110, caput** {#art110_cpt} Na contagem dos prazos estabelecidos nesta Lei, excluir-se-á o dia do início e incluir-se-á o do vencimento, e considerar-se-ão os dias consecutivos, exceto quando for explicitamente disposto em contrário.
 
 **Art. 110, parágrafo único** {#art110_par1u} Só se iniciam e vencem os prazos referidos neste artigo em dia de expediente no órgão ou na entidade.
 
 ###### Art. 111 {#art111}
-Tags:
 
 **Art. 111, caput** {#art111_cpt} A Administração só poderá contratar, pagar, premiar ou receber projeto ou serviço técnico especializado desde que o autor ceda os direitos patrimoniais a ele relativos e a Administração possa utilizá-lo de acordo com o previsto no regulamento de concurso ou no ajuste para sua elaboração.
 
 **Art. 111, parágrafo único** {#art111_par1u} Quando o projeto referir-se a obra imaterial de caráter tecnológico, insuscetível de privilégio, a cessão dos direitos incluirá o fornecimento de todos os dados, documentos e elementos de informação pertinentes à tecnologia de concepção, desenvolvimento, fixação em suporte físico de qualquer natureza e aplicação da obra.
 
 ###### Art. 112 {#art112}
-Tags: #licitacao #contrato-administrativo
 Alterações: [[lei-federal-11107-2005|Lei nº 11.107, de 2005]] (incluído: § 1º, § 2º)
 
 **Art. 112, caput** {#art112_cpt} Quando o objeto do contrato interessar a mais de uma entidade pública, caberá ao órgão contratante, perante a entidade interessada, responder pela sua boa execução, fiscalização e pagamento.
@@ -1639,7 +1525,6 @@ Alterações: [[lei-federal-11107-2005|Lei nº 11.107, de 2005]] (incluído: § 
 **Art. 112, § 2º** {#art112_par2} #incluido É facultado à entidade interessada o acompanhamento da licitação e da execução do contrato. *(Incluído pela [[lei-federal-11107-2005|Lei nº 11.107, de 2005]])*
 
 ###### Art. 113 {#art113}
-Tags: #licitacao #contrato-administrativo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: § 2º)
 
 **Art. 113, caput** {#art113_cpt} O controle das despesas decorrentes dos contratos e demais instrumentos regidos por esta Lei será feito pelo Tribunal de Contas competente, na forma da legislação pertinente, ficando os órgãos interessados da Administração responsáveis pela demonstração da legalidade e regularidade da despesa e execução, nos termos da Constituição e sem prejuízo do sistema de controle interno nela previsto.
@@ -1649,7 +1534,6 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 113, § 2º** {#art113_par2} #redacao-alterada Os Tribunais de Contas e os órgãos integrantes do sistema de controle interno poderão solicitar para exame, até o dia útil imediatamente anterior à data de recebimento das propostas, cópia de edital de licitação já publicado, obrigando-se os órgãos ou entidades da Administração interessada à adoção de medidas corretivas pertinentes que, em função desse exame, lhes forem determinadas. *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 114 {#art114}
-Tags: #licitacao
 
 **Art. 114, caput** {#art114_cpt} O sistema instituído nesta Lei não impede a pré-qualificação de licitantes nas concorrências, a ser procedida sempre que o objeto da licitação recomende análise mais detida da qualificação técnica dos interessados.
 
@@ -1658,14 +1542,12 @@ Tags: #licitacao
 **Art. 114, § 2º** {#art114_par2} Na pré-qualificação serão observadas as exigências desta Lei relativas à concorrência, à convocação dos interessados, ao procedimento e à analise da documentação.
 
 ###### Art. 115 {#art115}
-Tags: #licitacao
 
 **Art. 115, caput** {#art115_cpt} Os órgãos da Administração poderão expedir normas relativas aos procedimentos operacionais a serem observados na execução das licitações, no âmbito de sua competência, observadas as disposições desta Lei.
 
 **Art. 115, parágrafo único** {#art115_par1u} As normas a que se refere este artigo, após aprovação da autoridade competente, deverão ser publicadas na imprensa oficial.
 
 ###### Art. 116 {#art116}
-Tags: #prazo
 
 **Art. 116, caput** {#art116_cpt} Aplicam-se as disposições desta Lei, no que couber, aos convênios, acordos, ajustes e outros instrumentos congêneres celebrados por órgãos e entidades da Administração.
 
@@ -1692,24 +1574,20 @@ Tags: #prazo
 **Art. 116, § 6º** {#art116_par6} Quando da conclusão, denúncia, rescisão ou extinção do convênio, acordo ou ajuste, os saldos financeiros remanescentes, inclusive os provenientes das receitas obtidas das aplicações financeiras realizadas, serão devolvidos à entidade ou órgão repassador dos recursos, no prazo improrrogável de 30 (trinta) dias do evento, sob pena da imediata instauração de tomada de contas especial do responsável, providenciada pela autoridade competente do órgão ou entidade titular dos recursos.
 
 ###### Art. 117 {#art117}
-Tags:
 
 **Art. 117, caput** {#art117_cpt} As obras, serviços, compras e alienações realizados pelos órgãos dos Poderes Legislativo e Judiciário e do Tribunal de Contas regem-se pelas normas desta Lei, no que couber, nas três esferas administrativas.
 
 ###### Art. 118 {#art118}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 118, caput** {#art118_cpt} Os Estados, o Distrito Federal, os Municípios e as entidades da administração indireta deverão adaptar suas normas sobre licitações e contratos ao disposto nesta Lei.
 
 ###### Art. 119 {#art119}
-Tags:
 
 **Art. 119, caput** {#art119_cpt} As sociedades de economia mista, empresas e fundações públicas e demais entidades controladas direta ou indiretamente pela União e pelas entidades referidas no artigo anterior editarão regulamentos próprios devidamente publicados, ficando sujeitas às disposições desta Lei.
 
 **Art. 119, parágrafo único** {#art119_par1u} Os regulamentos a que se refere este artigo, no âmbito da Administração Pública, após aprovados pela autoridade de nível superior a que estiverem vinculados os respectivos órgãos, sociedades e entidades, deverão ser publicados na imprensa oficial.
 
 ###### Art. 120 {#art120}
-Tags:
 Alterações: [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (nova redação: caput); [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: parágrafo único)
 
 **Art. 120, caput** {#art120_cpt} #redacao-alterada Os valores fixados por esta Lei poderão ser anualmente revistos pelo Poder Executivo Federal, que os fará publicar no Diário Oficial da União, observando como limite superior a variação geral dos preços do mercado, no período. *(Redação dada pela [[lei-federal-9648-1998|Lei nº 9.648, de 1998]])*
@@ -1717,7 +1595,6 @@ Alterações: [[lei-federal-9648-1998|Lei nº 9.648, de 1998]] (nova redação: 
 **Art. 120, parágrafo único** {#art120_par1u} #redacao-alterada O Poder Executivo Federal fará publicar no Diário Oficial da União os novos valores oficialmente vigentes por ocasião de cada evento citado no "caput" deste artigo, desprezando-se as frações inferiores a Cr$ 1,00 (hum cruzeiro real). *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 121 {#art121}
-Tags: #licitacao #contrato-administrativo #garantia-contratual #prazo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: caput)
 
 **Art. 121, caput** {#art121_cpt} #redacao-alterada O disposto nesta Lei não se aplica às licitações instauradas e aos contratos assinados anteriormente à sua vigência, ressalvado o disposto no art. [[#art57|57]], nos parágrafos 1o, 2o e 8o do art. [[#art65|65]], no inciso XV do art. [[#art78|78]], bem assim o disposto no "caput" do art. [[#art5|5o]], com relação ao pagamento das obrigações na ordem cronológica, podendo esta ser observada, no prazo de noventa dias contados da vigência desta Lei, separadamente para as obrigações relativas aos contratos regidos por legislação anterior à Lei no 8.666, de 21 de junho de 1993. *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
@@ -1725,18 +1602,15 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 121, parágrafo único** {#art121_par1u} Os contratos relativos a imóveis do patrimônio da União continuam a reger-se pelas disposições do [[decreto-lei-federal-9760-1946|Decreto-lei no 9.760, de 5 de setembro de 1946]], com suas alterações, e os relativos a operações de crédito interno ou externo celebrados pela União ou a concessão de garantia do Tesouro Nacional continuam regidos pela legislação pertinente, aplicando-se esta Lei, no que couber.
 
 ###### Art. 122 {#art122}
-Tags:
 Alterações: [[lei-federal-14368-2022|Lei nº 14.368, de 2022]] (revogado: caput)
 
 **Art. 122, caput** {#art122_cpt} #revogado *(Revogado pela [[lei-federal-14368-2022|Lei nº 14.368, de 2022]])*
 
 ###### Art. 123 {#art123}
-Tags: #licitacao
 
 **Art. 123, caput** {#art123_cpt} Em suas licitações e contratações administrativas, as repartições sediadas no exterior observarão as peculiaridades locais e os princípios básicos desta Lei, na forma de regulamentação específica.
 
 ###### Art. 124 {#art124}
-Tags: #dispensa-licitacao #licitacao #contrato-administrativo
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: caput; incluído: parágrafo único)
 
 **Art. 124, caput** {#art124_cpt} #redacao-alterada Aplicam-se às licitações e aos contratos para permissão ou concessão de serviços públicos os dispositivos desta Lei que não conflitem com a legislação específica sobre o assunto. *(Redação dada pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
@@ -1744,13 +1618,11 @@ Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (nova redação: 
 **Art. 124, parágrafo único** {#art124_par1u} #incluido As exigências contidas nos incisos II a IV do § 2o do art. [[#art7|7o]] serão dispensadas nas licitações para concessão de serviços com execução prévia de obras em que não foram previstos desembolso por parte da Administração Pública concedente. *(Incluído pela [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 125 {#art125}
-Tags:
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (renumerado: caput)
 
 **Art. 125, caput** {#art125_cpt} Esta Lei entra em vigor na data de sua publicação. *(Renumerado por força do disposto no art. 3º da [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*
 
 ###### Art. 126 {#art126}
-Tags:
 Alterações: [[lei-federal-8883-1994|Lei nº 8.883, de 1994]] (renumerado: caput)
 
 **Art. 126, caput** {#art126_cpt} Revogam-se as disposições em contrário, especialmente os Decretos-leis nos 2.300, de 21 de novembro de 1986, 2.348, de 24 de julho de 1987, 2.360, de 16 de setembro de 1987, a [[lei-federal-8220-1991|Lei no 8.220, de 4 de setembro de 1991]], e o art. 83 da [[lei-federal-5194-1966|Lei no 5.194, de 24 de dezembro de 1966]]. *(Renumerado por força do disposto no art. 3º da [[lei-federal-8883-1994|Lei nº 8.883, de 1994]])*

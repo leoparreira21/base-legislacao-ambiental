@@ -20,7 +20,7 @@ fonte: PDF assinado da Resolução SEDEST nº 02/2025 (SEDEST), páginas 84 a 90
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo II, A (tanque horizontal), linha 1** {#anexo2_lin1} #emissao-evaporativa #tanque-armazenamento A. TANQUE HORIZONTAL
+- **Anexo II, A (tanque horizontal), linha 1** {#anexo2_lin1} A. TANQUE HORIZONTAL
 - **Anexo II, A (tanque horizontal), linha 2** {#anexo2_lin2} TAG:
 - **Anexo II, A (tanque horizontal), linha 3** {#anexo2_lin3} Coordenada geográfica leste:
 - **Anexo II, A (tanque horizontal), linha 4** {#anexo2_lin4} Coordenada geográfica norte:
@@ -39,10 +39,10 @@ fonte: PDF assinado da Resolução SEDEST nº 02/2025 (SEDEST), páginas 84 a 90
 - **Anexo II, A (tanque horizontal), linha 17** {#anexo2_lin17} Condições costado | boa/regular
 - **Anexo II, A (tanque horizontal), linha 18** {#anexo2_lin18} Tanque aquecido | sim/não
 - **Anexo II, A (tanque horizontal), linha 19** {#anexo2_lin19} Tanque subterrâneo | Sim/não
-- **Anexo II, A (tanque horizontal), linha 20** {#anexo2_lin20} #voc Estimativa de emissão VOC em kg/ano:
+- **Anexo II, A (tanque horizontal), linha 20** {#anexo2_lin20} Estimativa de emissão VOC em kg/ano:
 - **Anexo II, A (tanque horizontal), linha 21** {#anexo2_lin21} Observações:
 
-- **Anexo II, B (tanque vertical de teto fixo sem selo), linha 22** {#anexo2_lin22} #emissao-evaporativa #tanque-armazenamento B. TANQUE VERTICAL DE TETO FIXO SEM SELO
+- **Anexo II, B (tanque vertical de teto fixo sem selo), linha 22** {#anexo2_lin22} B. TANQUE VERTICAL DE TETO FIXO SEM SELO
 - **Anexo II, B (tanque vertical de teto fixo sem selo), linha 23** {#anexo2_lin23} TAG:
 - **Anexo II, B (tanque vertical de teto fixo sem selo), linha 24** {#anexo2_lin24} Coordenada geográfica leste:
 - **Anexo II, B (tanque vertical de teto fixo sem selo), linha 25** {#anexo2_lin25} Coordenada geográfica norte:
@@ -71,10 +71,10 @@ fonte: PDF assinado da Resolução SEDEST nº 02/2025 (SEDEST), páginas 84 a 90
 - **Anexo II, B (tanque vertical de teto fixo sem selo), linha 48** {#anexo2_lin48} Condições teto | boa/regular
 - **Anexo II, B (tanque vertical de teto fixo sem selo), linha 49** {#anexo2_lin49} Tanque aquecido | sim/não
 - **Anexo II, B (tanque vertical de teto fixo sem selo), linha 50** {#anexo2_lin50} Tanque subterrâneo | Sim/não
-- **Anexo II, B (tanque vertical de teto fixo sem selo), linha 51** {#anexo2_lin51} #voc Estimativa de emissão VOC em kg/ano:
+- **Anexo II, B (tanque vertical de teto fixo sem selo), linha 51** {#anexo2_lin51} Estimativa de emissão VOC em kg/ano:
 - **Anexo II, B (tanque vertical de teto fixo sem selo), linha 52** {#anexo2_lin52} Observações:
 
-- **Anexo II, C (tanque vertical com selo interno), linha 53** {#anexo2_lin53} #emissao-evaporativa #tanque-armazenamento C. TANQUE VERTICAL COM SELO INTERNO
+- **Anexo II, C (tanque vertical com selo interno), linha 53** {#anexo2_lin53} C. TANQUE VERTICAL COM SELO INTERNO
 - **Anexo II, C (tanque vertical com selo interno), linha 54** {#anexo2_lin54} TAG:
 - **Anexo II, C (tanque vertical com selo interno), linha 55** {#anexo2_lin55} Coordenada geográfica leste:
 - **Anexo II, C (tanque vertical com selo interno), linha 56** {#anexo2_lin56} Coordenada geográfica norte:
@@ -110,10 +110,10 @@ fonte: PDF assinado da Resolução SEDEST nº 02/2025 (SEDEST), páginas 84 a 90
 - **Anexo II, C (tanque vertical com selo interno), linha 86** {#anexo2_lin86} Tipo de selo secundário:
 - **Anexo II, C (tanque vertical com selo interno), linha 87** {#anexo2_lin87} Tanque aquecido | sim/não
 - **Anexo II, C (tanque vertical com selo interno), linha 88** {#anexo2_lin88} Tanque subterrâneo | sim/não
-- **Anexo II, C (tanque vertical com selo interno), linha 89** {#anexo2_lin89} #voc Estimativa de emissão VOC em kg/ano:
+- **Anexo II, C (tanque vertical com selo interno), linha 89** {#anexo2_lin89} Estimativa de emissão VOC em kg/ano:
 - **Anexo II, C (tanque vertical com selo interno), linha 90** {#anexo2_lin90} Observações:
 
-- **Anexo II, D (tanque vertical com selo externo), linha 91** {#anexo2_lin91} #emissao-evaporativa #tanque-armazenamento D. TANQUE VERTICAL COM SELO EXTERNO
+- **Anexo II, D (tanque vertical com selo externo), linha 91** {#anexo2_lin91} D. TANQUE VERTICAL COM SELO EXTERNO
 - **Anexo II, D (tanque vertical com selo externo), linha 92** {#anexo2_lin92} TAG:
 - **Anexo II, D (tanque vertical com selo externo), linha 93** {#anexo2_lin93} Coordenada geográfica leste:
 - **Anexo II, D (tanque vertical com selo externo), linha 94** {#anexo2_lin94} Coordenada geográfica norte:
@@ -141,7 +141,7 @@ fonte: PDF assinado da Resolução SEDEST nº 02/2025 (SEDEST), páginas 84 a 90
 - **Anexo II, D (tanque vertical com selo externo), linha 116** {#anexo2_lin116} Tipo de selo secundário:
 - **Anexo II, D (tanque vertical com selo externo), linha 117** {#anexo2_lin117} Tanque aquecido | sim/não
 - **Anexo II, D (tanque vertical com selo externo), linha 118** {#anexo2_lin118} Tanque subterrâneo | sim/não
-- **Anexo II, D (tanque vertical com selo externo), linha 119** {#anexo2_lin119} #voc Estimativa de emissão VOC em kg/ano:
+- **Anexo II, D (tanque vertical com selo externo), linha 119** {#anexo2_lin119} Estimativa de emissão VOC em kg/ano:
 - **Anexo II, D (tanque vertical com selo externo), linha 120** {#anexo2_lin120} Observações:
 
 ## Síntese do conversor (não é texto normativo) {#sintese}

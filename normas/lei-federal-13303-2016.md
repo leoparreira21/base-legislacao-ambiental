@@ -38,7 +38,6 @@ fonte: "Planalto (Presidência da República – Secretaria-Geral), impressão d
 ### CAPÍTULO I – DISPOSIÇÕES PRELIMINARES
 
 ###### Art. 1º {#art1}
-Tags: #contrato-administrativo #fiscalizacao #sustentabilidade #prazo
 
 **Art. 1º, caput** {#art1_cpt} Esta Lei dispõe sobre o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias, abrangendo toda e qualquer empresa pública e sociedade de economia mista da União, dos Estados, do Distrito Federal e dos Municípios que explore atividade econômica de produção ou comercialização de bens ou de prestação de serviços, ainda que a atividade econômica esteja sujeita ao regime de monopólio da União ou seja de prestação de serviços públicos.
 
@@ -67,7 +66,6 @@ Tags: #contrato-administrativo #fiscalizacao #sustentabilidade #prazo
 - **Art. 1º, § 7º, inciso X** {#art1_par7_inc10} qualquer outro relatório, documento ou informação produzido pela sociedade empresarial investida considerado relevante para o cumprimento do comando constante do caput .
 
 ###### Art. 2º {#art2}
-Tags: #governanca-corporativa
 
 **Art. 2º, caput** {#art2_cpt} A exploração de atividade econômica pelo Estado será exercida por meio de empresa pública, de sociedade de economia mista e de suas subsidiárias.
 
@@ -78,14 +76,12 @@ Tags: #governanca-corporativa
 **Art. 2º, § 3º** {#art2_par3} A autorização para participação em empresa privada prevista no § 2º não se aplica a operações de tesouraria, adjudicação de ações em garantia e participações autorizadas pelo Conselho de Administração em linha com o plano de negócios da empresa pública, da sociedade de economia mista e de suas respectivas subsidiárias.
 
 ###### Art. 3º {#art3}
-Tags:
 
 **Art. 3º, caput** {#art3_cpt} Empresa pública é a entidade dotada de personalidade jurídica de direito privado, com criação autorizada por lei e com patrimônio próprio, cujo capital social é integralmente detido pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios.
 
 **Art. 3º, parágrafo único** {#art3_par1u} Desde que a maioria do capital votante permaneça em propriedade da União, do Estado, do Distrito Federal ou do Município, será admitida, no capital da empresa pública, a participação de outras pessoas jurídicas de direito público interno, bem como de entidades da administração indireta da União, dos Estados, do Distrito Federal e dos Municípios.
 
 ###### Art. 4º {#art4}
-Tags:
 
 **Art. 4º, caput** {#art4_cpt} Sociedade de economia mista é a entidade dotada de personalidade jurídica de direito privado, com criação autorizada por lei, sob a forma de sociedade anônima, cujas ações com direito a voto pertençam em sua maioria à União, aos Estados, ao Distrito Federal, aos Municípios ou a entidade da administração indireta.
 
@@ -98,22 +94,18 @@ Tags:
 #### Seção I – Das Normas Gerais
 
 ###### Art. 5º {#art5}
-Tags:
 
 **Art. 5º, caput** {#art5_cpt} A sociedade de economia mista será constituída sob a forma de sociedade anônima e, ressalvado o disposto nesta Lei, estará sujeita ao regime previsto na [[lei-federal-6404-1976|Lei nº 6.404, de 15 de dezembro de 1976]] .
 
 ###### Art. 6º {#art6}
-Tags: #integridade
 
 **Art. 6º, caput** {#art6_cpt} O estatuto da empresa pública, da sociedade de economia mista e de suas subsidiárias deverá observar regras de governança corporativa, de transparência e de estruturas, práticas de gestão de riscos e de controle interno, composição da administração e, havendo acionistas, mecanismos para sua proteção, todos constantes desta Lei.
 
 ###### Art. 7º {#art7}
-Tags:
 
 **Art. 7º, caput** {#art7_cpt} Aplicam-se a todas as empresas públicas, as sociedades de economia mista de capital fechado e as suas subsidiárias as disposições da [[lei-federal-6404-1976|Lei nº 6.404, de 15 de dezembro de 1976]], e as normas da Comissão de Valores Mobiliários sobre escrituração e elaboração de demonstrações financeiras, inclusive a obrigatoriedade de auditoria independente por auditor registrado nesse órgão.
 
 ###### Art. 8º {#art8}
-Tags: #licitacao #contrato-administrativo #governanca-corporativa
 Alterações: [[lei-federal-15177-2025|Lei nº 15.177, de 2025]] (incluído: inciso X, inciso X, alínea "a", inciso X, alínea "b", inciso X, alínea "c", inciso X, alínea "d")
 
 **Art. 8º, caput** {#art8_cpt} As empresas públicas e as sociedades de economia mista deverão observar, no mínimo, os seguintes requisitos de transparência:
@@ -143,7 +135,6 @@ Alterações: [[lei-federal-15177-2025|Lei nº 15.177, de 2025]] (incluído: inc
 **Art. 8º, § 4º** {#art8_par4} Os documentos resultantes do cumprimento dos requisitos de transparência constantes dos incisos I a IX do caput deverão ser publicamente divulgados na internet de forma permanente e cumulativa.
 
 ###### Art. 9º {#art9}
-Tags: #governanca-corporativa #integridade #sancao
 
 **Art. 9º, caput** {#art9_cpt} A empresa pública e a sociedade de economia mista adotarão regras de estruturas e práticas de gestão de riscos e controle interno que abranjam:
 - **Art. 9º, caput, inciso I** {#art9_cpt_inc1} ação dos administradores e empregados, por meio da implementação cotidiana de práticas de controle interno;
@@ -167,21 +158,18 @@ Tags: #governanca-corporativa #integridade #sancao
 **Art. 9º, § 4º** {#art9_par4} O estatuto social deverá prever, ainda, a possibilidade de que a área de compliance se reporte diretamente ao Conselho de Administração em situações em que se suspeite do envolvimento do diretor-presidente em irregularidades ou quando este se furtar à obrigação de adotar medidas necessárias em relação à situação a ele relatada.
 
 ###### Art. 10 {#art10}
-Tags: #governanca-corporativa
 
 **Art. 10, caput** {#art10_cpt} A empresa pública e a sociedade de economia mista deverão criar comitê estatutário para verificar a conformidade do processo de indicação e de avaliação de membros para o Conselho de Administração e para o Conselho Fiscal, com competência para auxiliar o acionista controlador na indicação desses membros.
 
 **Art. 10, parágrafo único** {#art10_par1u} Devem ser divulgadas as atas das reuniões do comitê estatutário referido no caput realizadas com o fim de verificar o cumprimento, pelos membros indicados, dos requisitos definidos na política de indicação, devendo ser registradas as eventuais manifestações divergentes de conselheiros.
 
 ###### Art. 11 {#art11}
-Tags:
 
 **Art. 11, caput** {#art11_cpt} A empresa pública não poderá:
 - **Art. 11, caput, inciso I** {#art11_cpt_inc1} lançar debêntures ou outros títulos ou valores mobiliários, conversíveis em ações;
 - **Art. 11, caput, inciso II** {#art11_cpt_inc2} emitir partes beneficiárias.
 
 ###### Art. 12 {#art12}
-Tags: #governanca-corporativa #integridade
 
 **Art. 12, caput** {#art12_cpt} A empresa pública e a sociedade de economia mista deverão:
 - **Art. 12, caput, inciso I** {#art12_cpt_inc1} divulgar toda e qualquer forma de remuneração dos administradores;
@@ -190,7 +178,6 @@ Tags: #governanca-corporativa #integridade
 **Art. 12, parágrafo único** {#art12_par1u} A sociedade de economia mista poderá solucionar, mediante arbitragem, as divergências entre acionistas e a sociedade, ou entre acionistas controladores e acionistas minoritários, nos termos previstos em seu estatuto social.
 
 ###### Art. 13 {#art13}
-Tags: #governanca-corporativa #prazo
 
 **Art. 13, caput** {#art13_cpt} A lei que autorizar a criação da empresa pública e da sociedade de economia mista deverá dispor sobre as diretrizes e restrições a serem consideradas na elaboração do estatuto da companhia, em especial sobre:
 - **Art. 13, caput, inciso I** {#art13_cpt_inc1} constituição e funcionamento do Conselho de Administração, observados o número mínimo de 7 (sete) e o número máximo de 11 (onze) membros;
@@ -208,7 +195,6 @@ Tags: #governanca-corporativa #prazo
 #### Seção II – Do Acionista Controlador
 
 ###### Art. 14 {#art14}
-Tags: #governanca-corporativa #integridade
 
 **Art. 14, caput** {#art14_cpt} O acionista controlador da empresa pública e da sociedade de economia mista deverá:
 - **Art. 14, caput, inciso I** {#art14_cpt_inc1} fazer constar do Código de Conduta e Integridade, aplicável à alta administração, a vedação à divulgação, sem autorização do órgão competente da empresa pública ou da sociedade de economia mista, de informação que possa causar impacto na cotação dos títulos da empresa pública ou da sociedade de economia mista e em suas relações com o mercado ou com consumidores e fornecedores;
@@ -216,7 +202,6 @@ Tags: #governanca-corporativa #integridade
 - **Art. 14, caput, inciso III** {#art14_cpt_inc3} observar a política de indicação na escolha dos administradores e membros do Conselho Fiscal.
 
 ###### Art. 15 {#art15}
-Tags:
 
 **Art. 15, caput** {#art15_cpt} O acionista controlador da empresa pública e da sociedade de economia mista responderá pelos atos praticados com abuso de poder, nos termos da [[lei-federal-6404-1976|Lei nº 6.404, de 15 de dezembro de 1976]] .
 
@@ -227,14 +212,12 @@ Tags:
 #### Seção III – Do Administrador
 
 ###### Art. 16 {#art16}
-Tags: #governanca-corporativa
 
 **Art. 16, caput** {#art16_cpt} Sem prejuízo do disposto nesta Lei, o administrador de empresa pública e de sociedade de economia mista é submetido às normas previstas na [[lei-federal-6404-1976|Lei nº 6.404, de 15 de dezembro de 1976]] .
 
 **Art. 16, parágrafo único** {#art16_par1u} Consideram-se administradores da empresa pública e da sociedade de economia mista os membros do Conselho de Administração e da diretoria.
 
 ###### Art. 17 {#art17}
-Tags: #contrato-administrativo #dispensa-licitacao #governanca-corporativa #integridade
 
 **Art. 17, caput** {#art17_cpt} Os membros do Conselho de Administração e os indicados para os cargos de diretor, inclusive presidente, diretor-geral e diretor-presidente, serão escolhidos entre cidadãos de reputação ilibada e de notório conhecimento, devendo ser atendidos, alternativamente, um dos requisitos das alíneas “a”, “b” e “c” do inciso I e, cumulativamente, os requisitos dos incisos II e III:
 - **Art. 17, caput, inciso I** {#art17_cpt_inc1} ter experiência profissional de, no mínimo:
@@ -268,7 +251,6 @@ Tags: #contrato-administrativo #dispensa-licitacao #governanca-corporativa #inte
 #### Seção IV – Do Conselho de Administração
 
 ###### Art. 18 {#art18}
-Tags: #governanca-corporativa #integridade
 
 **Art. 18, caput** {#art18_cpt} Sem prejuízo das competências previstas no art. 142 da [[lei-federal-6404-1976|Lei nº 6.404, de 15 de dezembro de 1976]] , e das demais atribuições previstas nesta Lei, compete ao Conselho de Administração:
 - **Art. 18, caput, inciso I** {#art18_cpt_inc1} discutir, aprovar e monitorar decisões envolvendo práticas de governança corporativa, relacionamento com partes interessadas, política de gestão de pessoas e código de conduta dos agentes;
@@ -277,7 +259,6 @@ Tags: #governanca-corporativa #integridade
 - **Art. 18, caput, inciso IV** {#art18_cpt_inc4} avaliar os diretores da empresa pública ou da sociedade de economia mista, nos termos do inciso III do art. [[#art13|13]], podendo contar com apoio metodológico e procedimental do comitê estatutário referido no art. [[#art10|10]].
 
 ###### Art. 19 {#art19}
-Tags: #governanca-corporativa
 
 **Art. 19, caput** {#art19_cpt} É garantida a participação, no Conselho de Administração, de representante dos empregados e dos acionistas minoritários.
 
@@ -286,18 +267,15 @@ Tags: #governanca-corporativa
 **Art. 19, § 2º** {#art19_par2} É assegurado aos acionistas minoritários o direito de eleger 1 (um) conselheiro, se maior número não lhes couber pelo processo de voto múltiplo previsto na [[lei-federal-6404-1976|Lei nº 6.404, de 15 de dezembro de 1976]] .
 
 ###### Art. 19-A {#art19-a}
-Tags:
 Alterações: [[lei-federal-15177-2025|Lei nº 15.177, de 2025]] (incluído: caput)
 
 **Art. 19-A, caput** {#art19-a_cpt} #incluido Nos conselhos de administração das empresas públicas e das sociedades de economia mista de que trata esta Lei, pelo menos 30% (trinta por cento) dos membros titulares serão mulheres. *(Incluído pela [[lei-federal-15177-2025|Lei nº 15.177, de 2025]])*
 
 ###### Art. 20 {#art20}
-Tags:
 
 **Art. 20, caput** {#art20_cpt} É vedada a participação remunerada de membros da administração pública, direta ou indireta, em mais de 2 (dois) conselhos, de administração ou fiscal, de empresa pública, de sociedade de economia mista ou de suas subsidiárias.
 
 ###### Art. 21 {#art21}
-Tags:
 
 **Art. 21, caput** {#art21_cpt} (VETADO).
 
@@ -306,7 +284,6 @@ Tags:
 #### Seção V – Do Membro Independente do Conselho de Administração
 
 ###### Art. 22 {#art22}
-Tags: #governanca-corporativa
 
 **Art. 22, caput** {#art22_cpt} O Conselho de Administração deve ser composto, no mínimo, por 25% (vinte e cinco por cento) de membros independentes ou por pelo menos 1 (um), caso haja decisão pelo exercício da faculdade do voto múltiplo pelos acionistas minoritários, nos termos do art. 141 da [[lei-federal-6404-1976|Lei nº 6.404, de 15 de dezembro de 1976]] .
 
@@ -332,7 +309,6 @@ Tags: #governanca-corporativa
 #### Seção VI – Da Diretoria
 
 ###### Art. 23 {#art23}
-Tags: #governanca-corporativa #fiscalizacao #prazo
 
 **Art. 23, caput** {#art23_cpt} É condição para investidura em cargo de diretoria da empresa pública e da sociedade de economia mista a assunção de compromisso com metas e resultados específicos a serem alcançados, que deverá ser aprovado pelo Conselho de Administração, a quem incumbe fiscalizar seu cumprimento.
 
@@ -347,7 +323,6 @@ Tags: #governanca-corporativa #fiscalizacao #prazo
 #### Seção VII – Do Comitê de Auditoria Estatutário
 
 ###### Art. 24 {#art24}
-Tags: #contrato-administrativo #governanca-corporativa #integridade
 
 **Art. 24, caput** {#art24_cpt} A empresa pública e a sociedade de economia mista deverão possuir em sua estrutura societária Comitê de Auditoria Estatutário como órgão auxiliar do Conselho de Administração, ao qual se reportará diretamente.
 
@@ -377,7 +352,6 @@ Tags: #contrato-administrativo #governanca-corporativa #integridade
 **Art. 24, § 7º** {#art24_par7} O Comitê de Auditoria Estatutário deverá possuir autonomia operacional e dotação orçamentária, anual ou por projeto, dentro de limites aprovados pelo Conselho de Administração, para conduzir ou determinar a realização de consultas, avaliações e investigações dentro do escopo de suas atividades, inclusive com a contratação e utilização de especialistas externos independentes.
 
 ###### Art. 25 {#art25}
-Tags: #prazo
 
 **Art. 25, caput** {#art25_cpt} O Comitê de Auditoria Estatutário será integrado por, no mínimo, 3 (três) e, no máximo, 5 (cinco) membros, em sua maioria independentes.
 
@@ -396,7 +370,6 @@ Tags: #prazo
 #### Seção VIII – Do Conselho Fiscal
 
 ###### Art. 26 {#art26}
-Tags: #prazo
 
 **Art. 26, caput** {#art26_cpt} Além das normas previstas nesta Lei, aplicam-se aos membros do Conselho Fiscal da empresa pública e da sociedade de economia mista as disposições previstas na [[lei-federal-6404-1976|Lei nº 6.404, de 15 de dezembro de 1976]] , relativas a seus poderes, deveres e responsabilidades, a requisitos e impedimentos para investidura e a remuneração, além de outras disposições estabelecidas na referida Lei.
 
@@ -407,7 +380,6 @@ Tags: #prazo
 ### CAPÍTULO III – DA FUNÇÃO SOCIAL DA EMPRESA PÚBLICA E DA SOCIEDADE DE ECONOMIA MISTA
 
 ###### Art. 27 {#art27}
-Tags: #licitacao #contrato-administrativo #sustentabilidade
 
 **Art. 27, caput** {#art27_cpt} A empresa pública e a sociedade de economia mista terão a função social de realização do interesse coletivo ou de atendimento a imperativo da segurança nacional expressa no instrumento de autorização legal para a sua criação.
 
@@ -426,7 +398,6 @@ Tags: #licitacao #contrato-administrativo #sustentabilidade
 #### Seção I – Da Exigência de Licitação e dos Casos de Dispensa e de Inexigibilidade
 
 ###### Art. 28 {#art28}
-Tags: #licitacao #contrato-administrativo #dispensa-licitacao
 
 **Art. 28, caput** {#art28_cpt} Os contratos com terceiros destinados à prestação de serviços às empresas públicas e às sociedades de economia mista, inclusive de engenharia e de publicidade, à aquisição e à locação de bens, à alienação de bens e ativos integrantes do respectivo patrimônio ou à execução de obras a serem integradas a esse patrimônio, bem como à implementação de ônus real sobre tais bens, serão precedidos de licitação nos termos desta Lei, ressalvadas as hipóteses previstas nos arts. [[#art29|29]] e [[#art30|30]].
 
@@ -441,7 +412,6 @@ Tags: #licitacao #contrato-administrativo #dispensa-licitacao
 **Art. 28, § 4º** {#art28_par4} Consideram-se oportunidades de negócio a que se refere o inciso II do § 3º a formação e a extinção de parcerias e outras formas associativas, societárias ou contratuais, a aquisição e a alienação de participação em sociedades e outras formas associativas, societárias ou contratuais e as operações realizadas no âmbito do mercado de capitais, respeitada a regulação pelo respectivo órgão competente.
 
 ###### Art. 29 {#art29}
-Tags: #licitacao #contrato-administrativo #dispensa-licitacao #governanca-corporativa #sustentabilidade
 
 **Art. 29, caput** {#art29_cpt} É dispensável a realização de licitação por empresas públicas e sociedades de economia mista:
 - **Art. 29, caput, inciso I** {#art29_cpt_inc1} para obras e serviços de engenharia de valor até R$ 100.000,00 (cem mil reais), desde que não se refiram a parcelas de uma mesma obra ou serviço ou ainda a obras e serviços de mesma natureza e no mesmo local que possam ser realizadas conjunta e concomitantemente;
@@ -470,7 +440,6 @@ Tags: #licitacao #contrato-administrativo #dispensa-licitacao #governanca-corpor
 **Art. 29, § 3º** {#art29_par3} Os valores estabelecidos nos incisos I e II do caput podem ser alterados, para refletir a variação de custos, por deliberação do Conselho de Administração da empresa pública ou sociedade de economia mista, admitindo-se valores diferenciados para cada sociedade.
 
 ###### Art. 30 {#art30}
-Tags: #contrato-administrativo #dispensa-licitacao #fiscalizacao
 
 **Art. 30, caput** {#art30_cpt} A contratação direta será feita quando houver inviabilidade de competição, em especial na hipótese de:
 - **Art. 30, caput, inciso I** {#art30_cpt_inc1} aquisição de materiais, equipamentos ou gêneros que só possam ser fornecidos por produtor, empresa ou representante comercial exclusivo;
@@ -495,7 +464,6 @@ Tags: #contrato-administrativo #dispensa-licitacao #fiscalizacao
 #### Seção II – Disposições de Caráter Geral sobre Licitações e Contratos
 
 ###### Art. 31 {#art31}
-Tags: #licitacao #contrato-administrativo #prazo
 
 **Art. 31, caput** {#art31_cpt} As licitações realizadas e os contratos celebrados por empresas públicas e sociedades de economia mista destinam-se a assegurar a seleção da proposta mais vantajosa, inclusive no que se refere ao ciclo de vida do objeto, e a evitar operações em que se caracterize sobrepreço ou superfaturamento, devendo observar os princípios da impessoalidade, da moralidade, da igualdade, da publicidade, da eficiência, da probidade administrativa, da economicidade, do desenvolvimento nacional sustentável, da vinculação ao instrumento convocatório, da obtenção de competitividade e do julgamento objetivo.
 
@@ -516,7 +484,6 @@ Tags: #licitacao #contrato-administrativo #prazo
 **Art. 31, § 5º** {#art31_par5} Na hipótese a que se refere o § 4º, o autor ou financiador do projeto poderá participar da licitação para a execução do empreendimento, podendo ser ressarcido pelos custos aprovados pela empresa pública ou sociedade de economia mista caso não vença o certame, desde que seja promovida a cessão de direitos de que trata o art. [[#art80|80]].
 
 ###### Art. 32 {#art32}
-Tags: #licitacao #contrato-administrativo #integridade #sustentabilidade
 
 **Art. 32, caput** {#art32_cpt} Nas licitações e contratos de que trata esta Lei serão observadas as seguintes diretrizes:
 - **Art. 32, caput, inciso I** {#art32_cpt_inc1} padronização do objeto da contratação, dos instrumentos convocatórios e das minutas de contratos, de acordo com normas internas específicas;
@@ -540,12 +507,10 @@ Tags: #licitacao #contrato-administrativo #integridade #sustentabilidade
 **Art. 32, § 4º** {#art32_par4} Nas licitações com etapa de lances, a empresa pública ou sociedade de economia mista disponibilizará ferramentas eletrônicas para envio de lances pelos licitantes.
 
 ###### Art. 33 {#art33}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 33, caput** {#art33_cpt} O objeto da licitação e do contrato dela decorrente será definido de forma sucinta e clara no instrumento convocatório.
 
 ###### Art. 34 {#art34}
-Tags: #licitacao #contrato-administrativo #fiscalizacao
 
 **Art. 34, caput** {#art34_cpt} O valor estimado do contrato a ser celebrado pela empresa pública ou pela sociedade de economia mista será sigiloso, facultando-se à contratante, mediante justificação na fase de preparação prevista no inciso I do art. [[#art51|51]] desta Lei, conferir publicidade ao valor estimado do objeto da licitação, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas.
 
@@ -558,17 +523,14 @@ Tags: #licitacao #contrato-administrativo #fiscalizacao
 **Art. 34, § 4º** {#art34_par4} (VETADO).
 
 ###### Art. 35 {#art35}
-Tags:
 
 **Art. 35, caput** {#art35_cpt} Observado o disposto no art. [[#art34|34]], o conteúdo da proposta, quando adotado o modo de disputa fechado e até sua abertura, os atos e os procedimentos praticados em decorrência desta Lei submetem-se à legislação que regula o acesso dos cidadãos às informações detidas pela administração pública, particularmente aos termos da [[lei-federal-12527-2011|Lei nº 12.527, de 18 de novembro de 2011]] .
 
 ###### Art. 36 {#art36}
-Tags:
 
 **Art. 36, caput** {#art36_cpt} A empresa pública e a sociedade de economia mista poderão promover a pré-qualificação de seus fornecedores ou produtos, nos termos do art. [[#art64|64]].
 
 ###### Art. 37 {#art37}
-Tags: #licitacao #contrato-administrativo #sancao
 
 **Art. 37, caput** {#art37_cpt} A empresa pública e a sociedade de economia mista deverão informar os dados relativos às sanções por elas aplicadas aos contratados, nos termos definidos no art. 83, de forma a manter atualizado o cadastro de empresas inidôneas de que trata o art. 23 da [[lei-federal-12846-2013|Lei nº 12.846, de 1º de agosto de 2013]] .
 
@@ -577,7 +539,6 @@ Tags: #licitacao #contrato-administrativo #sancao
 **Art. 37, § 2º** {#art37_par2} Serão excluídos do cadastro referido no caput , a qualquer tempo, fornecedores que demonstrarem a superação dos motivos que deram causa à restrição contra eles promovida.
 
 ###### Art. 38 {#art38}
-Tags: #licitacao #contrato-administrativo #governanca-corporativa #sancao #prazo
 
 **Art. 38, caput** {#art38_cpt} Estará impedida de participar de licitações e de ser contratada pela empresa pública ou sociedade de economia mista a empresa:
 - **Art. 38, caput, inciso I** {#art38_cpt_inc1} cujo administrador ou sócio detentor de mais de 5% (cinco por cento) do capital social seja diretor ou empregado da empresa pública ou sociedade de economia mista contratante;
@@ -598,7 +559,6 @@ Tags: #licitacao #contrato-administrativo #governanca-corporativa #sancao #prazo
 - **Art. 38, parágrafo único, inciso III** {#art38_par1u_inc3} cujo proprietário, mesmo na condição de sócio, tenha terminado seu prazo de gestão ou rompido seu vínculo com a respectiva empresa pública ou sociedade de economia mista promotora da licitação ou contratante há menos de 6 (seis) meses.
 
 ###### Art. 39 {#art39}
-Tags: #licitacao #contrato-administrativo #prazo
 
 **Art. 39, caput** {#art39_cpt} Os procedimentos licitatórios, a pré-qualificação e os contratos disciplinados por esta Lei serão divulgados em portal específico mantido pela empresa pública ou sociedade de economia mista na internet, devendo ser adotados os seguintes prazos mínimos para apresentação de propostas ou lances, contados a partir da divulgação do instrumento convocatório:
 - **Art. 39, caput, inciso I** {#art39_cpt_inc1} para aquisição de bens:
@@ -612,7 +572,6 @@ Tags: #licitacao #contrato-administrativo #prazo
 **Art. 39, parágrafo único** {#art39_par1u} As modificações promovidas no instrumento convocatório serão objeto de divulgação nos mesmos termos e prazos dos atos e procedimentos originais, exceto quando a alteração não afetar a preparação das propostas.
 
 ###### Art. 40 {#art40}
-Tags: #licitacao #contrato-administrativo #fiscalizacao #sancao
 
 **Art. 40, caput** {#art40_cpt} As empresas públicas e as sociedades de economia mista deverão publicar e manter atualizado regulamento interno de licitações e contratos, compatível com o disposto nesta Lei, especialmente quanto a:
 - **Art. 40, caput, inciso I** {#art40_cpt_inc1} glossário de expressões técnicas;
@@ -626,14 +585,12 @@ Tags: #licitacao #contrato-administrativo #fiscalizacao #sancao
 - **Art. 40, caput, inciso IX** {#art40_cpt_inc9} recebimento do objeto do contrato.
 
 ###### Art. 41 {#art41}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 41, caput** {#art41_cpt} Aplicam-se às licitações e contratos regidos por esta Lei as normas de direito penal contidas nos arts. 89 a 99 da [[lei-federal-8666-1993|Lei nº 8.666, de 21 de junho de 1993]] .
 
 #### Seção III – Das Normas Específicas para Obras e Serviços
 
 ###### Art. 42 {#art42}
-Tags: #licitacao #contrato-administrativo #fiscalizacao #sustentabilidade #prazo
 
 **Art. 42, caput** {#art42_cpt} Na licitação e na contratação de obras e serviços por empresas públicas e sociedades de economia mista, serão observadas as seguintes definições:
 - **Art. 42, caput, inciso I** {#art42_cpt_inc1} empreitada por preço unitário: contratação por preço certo de unidades determinadas;
@@ -686,7 +643,6 @@ Tags: #licitacao #contrato-administrativo #fiscalizacao #sustentabilidade #prazo
 **Art. 42, § 5º** {#art42_par5} Para fins do previsto na parte final do § 4º, não será admitida, por parte da empresa pública ou da sociedade de economia mista, como justificativa para a adoção da modalidade de contratação integrada, a ausência de projeto básico.
 
 ###### Art. 43 {#art43}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 43, caput** {#art43_cpt} Os contratos destinados à execução de obras e serviços de engenharia admitirão os seguintes regimes:
 - **Art. 43, caput, inciso I** {#art43_cpt_inc1} empreitada por preço unitário, nos casos em que os objetos, por sua natureza, possuam imprecisão inerente de quantitativos em seus itens orçamentários;
@@ -701,7 +657,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 43, § 2º** {#art43_par2} É vedada a execução, sem projeto executivo, de obras e serviços de engenharia.
 
 ###### Art. 44 {#art44}
-Tags: #licitacao #contrato-administrativo #fiscalizacao
 
 **Art. 44, caput** {#art44_cpt} É vedada a participação direta ou indireta nas licitações para obras e serviços de engenharia de que trata esta Lei:
 - **Art. 44, caput, inciso I** {#art44_cpt_inc1} de pessoa física ou jurídica que tenha elaborado o anteprojeto ou o projeto básico da licitação;
@@ -717,14 +672,12 @@ Tags: #licitacao #contrato-administrativo #fiscalizacao
 **Art. 44, § 4º** {#art44_par4} O disposto no § 3º deste artigo aplica-se a empregados incumbidos de levar a efeito atos e procedimentos realizados pela empresa pública e pela sociedade de economia mista no curso da licitação.
 
 ###### Art. 45 {#art45}
-Tags: #contrato-administrativo #sustentabilidade #prazo
 
 **Art. 45, caput** {#art45_cpt} Na contratação de obras e serviços, inclusive de engenharia, poderá ser estabelecida remuneração variável vinculada ao desempenho do contratado, com base em metas, padrões de qualidade, critérios de sustentabilidade ambiental e prazos de entrega definidos no instrumento convocatório e no contrato.
 
 **Art. 45, parágrafo único** {#art45_par1u} A utilização da remuneração variável respeitará o limite orçamentário fixado pela empresa pública ou pela sociedade de economia mista para a respectiva contratação.
 
 ###### Art. 46 {#art46}
-Tags: #contrato-administrativo #sancao
 
 **Art. 46, caput** {#art46_cpt} Mediante justificativa expressa e desde que não implique perda de economia de escala, poderá ser celebrado mais de um contrato para executar serviço de mesma natureza quando o objeto da contratação puder ser executado de forma concorrente e simultânea por mais de um contratado.
 
@@ -735,7 +688,6 @@ Tags: #contrato-administrativo #sancao
 #### Seção IV – Das Normas Específicas para Aquisição de Bens
 
 ###### Art. 47 {#art47}
-Tags: #licitacao #contrato-administrativo #sustentabilidade
 
 **Art. 47, caput** {#art47_cpt} A empresa pública e a sociedade de economia mista, na licitação para aquisição de bens, poderão:
 - **Art. 47, caput, inciso I** {#art47_cpt_inc1} indicar marca ou modelo, nas seguintes hipóteses:
@@ -748,7 +700,6 @@ Tags: #licitacao #contrato-administrativo #sustentabilidade
 **Art. 47, parágrafo único** {#art47_par1u} O edital poderá exigir, como condição de aceitabilidade da proposta, a adequação às normas da Associação Brasileira de Normas Técnicas (ABNT) ou a certificação da qualidade do produto por instituição credenciada pelo Sistema Nacional de Metrologia, Normalização e Qualidade Industrial (Sinmetro) .
 
 ###### Art. 48 {#art48}
-Tags:
 
 **Art. 48, caput** {#art48_cpt} Será dada publicidade, com periodicidade mínima semestral, em sítio eletrônico oficial na internet de acesso irrestrito, à relação das aquisições de bens efetivadas pelas empresas públicas e pelas sociedades de economia mista, compreendidas as seguintes informações:
 - **Art. 48, caput, inciso I** {#art48_cpt_inc1} identificação do bem comprado, de seu preço unitário e da quantidade adquirida;
@@ -758,21 +709,18 @@ Tags:
 #### Seção V – Das Normas Específicas para Alienação de Bens
 
 ###### Art. 49 {#art49}
-Tags: #licitacao
 
 **Art. 49, caput** {#art49_cpt} A alienação de bens por empresas públicas e por sociedades de economia mista será precedida de:
 - **Art. 49, caput, inciso I** {#art49_cpt_inc1} avaliação formal do bem contemplado, ressalvadas as hipóteses previstas nos incisos XVI a XVIII do art. [[#art29|29]];
 - **Art. 49, caput, inciso II** {#art49_cpt_inc2} licitação, ressalvado o previsto no § 3º do art. [[#art28|28]].
 
 ###### Art. 50 {#art50}
-Tags: #licitacao #dispensa-licitacao
 
 **Art. 50, caput** {#art50_cpt} Estendem-se à atribuição de ônus real a bens integrantes do acervo patrimonial de empresas públicas e de sociedades de economia mista as normas desta Lei aplicáveis à sua alienação, inclusive em relação às hipóteses de dispensa e de inexigibilidade de licitação.
 
 #### Seção VI – Do Procedimento de Licitação
 
 ###### Art. 51 {#art51}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 51, caput** {#art51_cpt} As licitações de que trata esta Lei observarão a seguinte sequência de fases:
 - **Art. 51, caput, inciso I** {#art51_cpt_inc1} preparação;
@@ -791,7 +739,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 51, § 2º** {#art51_par2} Os atos e procedimentos decorrentes das fases enumeradas no caput praticados por empresas públicas, por sociedades de economia mista e por licitantes serão efetivados preferencialmente por meio eletrônico, nos termos definidos pelo instrumento convocatório, devendo os avisos contendo os resumos dos editais das licitações e contratos abrangidos por esta Lei ser previamente publicados no Diário Oficial da União, do Estado ou do Município e na internet.
 
 ###### Art. 52 {#art52}
-Tags: #licitacao
 
 **Art. 52, caput** {#art52_cpt} Poderão ser adotados os modos de disputa aberto ou fechado, ou, quando o objeto da licitação puder ser parcelado, a combinação de ambos, observado o disposto no inciso III do art. [[#art32|32]] desta Lei.
 
@@ -800,7 +747,6 @@ Tags: #licitacao
 **Art. 52, § 2º** {#art52_par2} No modo de disputa fechado, as propostas apresentadas pelos licitantes serão sigilosas até a data e a hora designadas para que sejam divulgadas.
 
 ###### Art. 53 {#art53}
-Tags:
 
 **Art. 53, caput** {#art53_cpt} Quando for adotado o modo de disputa aberto, poderão ser admitidos:
 - **Art. 53, caput, inciso I** {#art53_cpt_inc1} a apresentação de lances intermediários;
@@ -811,7 +757,6 @@ Tags:
 - **Art. 53, parágrafo único, inciso II** {#art53_par1u_inc2} iguais ou superiores ao menor já ofertado, quando adotados os demais critérios de julgamento.
 
 ###### Art. 54 {#art54}
-Tags:
 
 **Art. 54, caput** {#art54_cpt} Poderão ser utilizados os seguintes critérios de julgamento:
 - **Art. 54, caput, inciso I** {#art54_cpt_inc1} menor preço;
@@ -842,7 +787,6 @@ Tags:
 **Art. 54, § 8º** {#art54_par8} O descumprimento da finalidade a que se refere o § 7º deste artigo resultará na imediata restituição do bem alcançado ao acervo patrimonial da empresa pública ou da sociedade de economia mista, vedado, nessa hipótese, o pagamento de indenização em favor do adquirente.
 
 ###### Art. 55 {#art55}
-Tags: #contrato-administrativo
 
 **Art. 55, caput** {#art55_cpt} Em caso de empate entre 2 (duas) propostas, serão utilizados, na ordem em que se encontram enumerados, os seguintes critérios de desempate:
 - **Art. 55, caput, inciso I** {#art55_cpt_inc1} disputa final, em que os licitantes empatados poderão apresentar nova proposta fechada, em ato contínuo ao encerramento da etapa de julgamento;
@@ -851,7 +795,6 @@ Tags: #contrato-administrativo
 - **Art. 55, caput, inciso IV** {#art55_cpt_inc4} sorteio.
 
 ###### Art. 56 {#art56}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 56, caput** {#art56_cpt} Efetuado o julgamento dos lances ou propostas, será promovida a verificação de sua efetividade, promovendo-se a desclassificação daqueles que:
 - **Art. 56, caput, inciso I** {#art56_cpt_inc1} contenham vícios insanáveis;
@@ -872,7 +815,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 56, § 4º** {#art56_par4} Para os demais objetos, para efeito de avaliação da exequibilidade ou de sobrepreço, deverão ser estabelecidos critérios de aceitabilidade de preços que considerem o preço global, os quantitativos e os preços unitários, assim definidos no instrumento convocatório.
 
 ###### Art. 57 {#art57}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 57, caput** {#art57_cpt} Confirmada a efetividade do lance ou proposta que obteve a primeira colocação na etapa de julgamento, ou que passe a ocupar essa posição em decorrência da desclassificação de outra que tenha obtido colocação superior, a empresa pública e a sociedade de economia mista deverão negociar condições mais vantajosas com quem o apresentou.
 
@@ -883,7 +825,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 57, § 3º** {#art57_par3} Se depois de adotada a providência referida no § 1º deste artigo não for obtido valor igual ou inferior ao orçamento estimado para a contratação, será revogada a licitação.
 
 ###### Art. 58 {#art58}
-Tags: #licitacao #dispensa-licitacao #prazo
 
 **Art. 58, caput** {#art58_cpt} A habilitação será apreciada exclusivamente a partir dos seguintes parâmetros:
 - **Art. 58, caput, inciso I** {#art58_cpt_inc1} exigência da apresentação de documentos aptos a comprovar a possibilidade da aquisição de direitos e da contração de obrigações por parte do licitante;
@@ -896,7 +837,6 @@ Tags: #licitacao #dispensa-licitacao #prazo
 **Art. 58, § 2º** {#art58_par2} Na hipótese do § 1º, reverterá a favor da empresa pública ou da sociedade de economia mista o valor de quantia eventualmente exigida no instrumento convocatório a título de adiantamento, caso o licitante não efetue o restante do pagamento devido no prazo para tanto estipulado.
 
 ###### Art. 59 {#art59}
-Tags: #prazo
 
 **Art. 59, caput** {#art59_cpt} Salvo no caso de inversão de fases, o procedimento licitatório terá fase recursal única.
 
@@ -905,17 +845,14 @@ Tags: #prazo
 **Art. 59, § 2º** {#art59_par2} Na hipótese de inversão de fases, o prazo referido no § 1º será aberto após a habilitação e após o encerramento da fase prevista no inciso V do caput do art. [[#art51|51]], abrangendo o segundo prazo também atos decorrentes da fase referida no inciso IV do caput do art. [[#art51|51]] desta Lei.
 
 ###### Art. 60 {#art60}
-Tags: #contrato-administrativo
 
 **Art. 60, caput** {#art60_cpt} A homologação do resultado implica a constituição de direito relativo à celebração do contrato em favor do licitante vencedor.
 
 ###### Art. 61 {#art61}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 61, caput** {#art61_cpt} A empresa pública e a sociedade de economia mista não poderão celebrar contrato com preterição da ordem de classificação das propostas ou com terceiros estranhos à licitação.
 
 ###### Art. 62 {#art62}
-Tags: #licitacao #contrato-administrativo #prazo
 
 **Art. 62, caput** {#art62_cpt} Além das hipóteses previstas no § 3º do art. [[#art57|57]] desta Lei e no inciso II do § 2º do art. [[#art75|75]] desta Lei, quem dispuser de competência para homologação do resultado poderá revogar a licitação por razões de interesse público decorrentes de fato superveniente que constitua óbice manifesto e incontornável, ou anulá-la por ilegalidade, de ofício ou por provocação de terceiros, salvo quando for viável a convalidação do ato ou do procedimento viciado.
 
@@ -930,7 +867,6 @@ Tags: #licitacao #contrato-administrativo #prazo
 #### Seção VII – Dos Procedimentos Auxiliares das Licitações
 
 ###### Art. 63 {#art63}
-Tags: #licitacao
 
 **Art. 63, caput** {#art63_cpt} São procedimentos auxiliares das licitações regidas por esta Lei:
 - **Art. 63, caput, inciso I** {#art63_cpt_inc1} pré-qualificação permanente;
@@ -941,7 +877,6 @@ Tags: #licitacao
 **Art. 63, parágrafo único** {#art63_par1u} Os procedimentos de que trata o caput deste artigo obedecerão a critérios claros e objetivos definidos em regulamento.
 
 ###### Art. 64 {#art64}
-Tags: #licitacao #contrato-administrativo #prazo
 
 **Art. 64, caput** {#art64_cpt} Considera-se pré-qualificação permanente o procedimento anterior à licitação destinado a identificar:
 - **Art. 64, caput, inciso I** {#art64_cpt_inc1} fornecedores que reúnam condições de habilitação exigidas para o fornecimento de bem ou a execução de serviço ou obra nos prazos, locais e condições previamente estabelecidos;
@@ -962,7 +897,6 @@ Tags: #licitacao #contrato-administrativo #prazo
 **Art. 64, § 7º** {#art64_par7} É obrigatória a divulgação dos produtos e dos interessados que forem pré-qualificados.
 
 ###### Art. 65 {#art65}
-Tags:
 
 **Art. 65, caput** {#art65_cpt} Os registros cadastrais poderão ser mantidos para efeito de habilitação dos inscritos em procedimentos licitatórios e serão válidos por 1 (um) ano, no máximo, podendo ser atualizados a qualquer tempo.
 
@@ -975,7 +909,6 @@ Tags:
 **Art. 65, § 4º** {#art65_par4} A qualquer tempo poderá ser alterado, suspenso ou cancelado o registro do inscrito que deixar de satisfazer as exigências estabelecidas para habilitação ou para admissão cadastral.
 
 ###### Art. 66 {#art66}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 66, caput** {#art66_cpt} O Sistema de Registro de Preços especificamente destinado às licitações de que trata esta Lei reger-se-á pelo disposto em decreto do Poder Executivo e pelas seguintes disposições:
 
@@ -991,7 +924,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 66, § 3º** {#art66_par3} A existência de preços registrados não obriga a administração pública a firmar os contratos que deles poderão advir, sendo facultada a realização de licitação específica, assegurada ao licitante registrado preferência em igualdade de condições.
 
 ###### Art. 67 {#art67}
-Tags: #licitacao
 
 **Art. 67, caput** {#art67_cpt} O catálogo eletrônico de padronização de compras, serviços e obras consiste em sistema informatizado, de gerenciamento centralizado, destinado a permitir a padronização dos itens a serem adquiridos pela empresa pública ou sociedade de economia mista que estarão disponíveis para a realização de licitação.
 
@@ -1002,12 +934,10 @@ Tags: #licitacao
 #### Seção I – Da Formalização dos Contratos
 
 ###### Art. 68 {#art68}
-Tags: #contrato-administrativo
 
 **Art. 68, caput** {#art68_cpt} Os contratos de que trata esta Lei regulam-se pelas suas cláusulas, pelo disposto nesta Lei e pelos preceitos de direito privado.
 
 ###### Art. 69 {#art69}
-Tags: #licitacao #contrato-administrativo #sancao #prazo
 
 **Art. 69, caput** {#art69_cpt} São cláusulas necessárias nos contratos disciplinados por esta Lei:
 - **Art. 69, caput, inciso I** {#art69_cpt_inc1} o objeto e seus elementos característicos;
@@ -1026,7 +956,6 @@ Tags: #licitacao #contrato-administrativo #sancao #prazo
 **Art. 69, § 2º** {#art69_par2} Nos contratos decorrentes de licitações de obras ou serviços de engenharia em que tenha sido adotado o modo de disputa aberto, o contratado deverá reelaborar e apresentar à empresa pública ou à sociedade de economia mista e às suas respectivas subsidiárias, por meio eletrônico, as planilhas com indicação dos quantitativos e dos custos unitários, bem como do detalhamento das Bonificações e Despesas Indiretas (BDI) e dos Encargos Sociais (ES), com os respectivos valores adequados ao lance vencedor, para fins do disposto no inciso III do caput deste artigo.
 
 ###### Art. 70 {#art70}
-Tags: #contrato-administrativo
 
 **Art. 70, caput** {#art70_cpt} Poderá ser exigida prestação de garantia nas contratações de obras, serviços e compras.
 
@@ -1042,7 +971,6 @@ Tags: #contrato-administrativo
 **Art. 70, § 4º** {#art70_par4} A garantia prestada pelo contratado será liberada ou restituída após a execução do contrato, devendo ser atualizada monetariamente na hipótese do inciso I do § 1º deste artigo.
 
 ###### Art. 71 {#art71}
-Tags: #contrato-administrativo #prazo
 
 **Art. 71, caput** {#art71_cpt} A duração dos contratos regidos por esta Lei não excederá a 5 (cinco) anos, contados a partir de sua celebração, exceto:
 - **Art. 71, caput, inciso I** {#art71_cpt_inc1} para projetos contemplados no plano de negócios e investimentos da empresa pública ou da sociedade de economia mista;
@@ -1051,24 +979,20 @@ Tags: #contrato-administrativo #prazo
 **Art. 71, parágrafo único** {#art71_par1u} É vedado o contrato por prazo indeterminado.
 
 ###### Art. 72 {#art72}
-Tags: #contrato-administrativo
 
 **Art. 72, caput** {#art72_cpt} Os contratos regidos por esta Lei somente poderão ser alterados por acordo entre as partes, vedando-se ajuste que resulte em violação da obrigação de licitar.
 
 ###### Art. 73 {#art73}
-Tags: #contrato-administrativo #dispensa-licitacao
 
 **Art. 73, caput** {#art73_cpt} A redução a termo do contrato poderá ser dispensada no caso de pequenas despesas de pronta entrega e pagamento das quais não resultem obrigações futuras por parte da empresa pública ou da sociedade de economia mista.
 
 **Art. 73, parágrafo único** {#art73_par1u} O disposto no caput não prejudicará o registro contábil exaustivo dos valores despendidos e a exigência de recibo por parte dos respectivos destinatários.
 
 ###### Art. 74 {#art74}
-Tags: #contrato-administrativo
 
 **Art. 74, caput** {#art74_cpt} É permitido a qualquer interessado o conhecimento dos termos do contrato e a obtenção de cópia autenticada de seu inteiro teor ou de qualquer de suas partes, admitida a exigência de ressarcimento dos custos, nos termos previstos na [[lei-federal-12527-2011|Lei nº 12.527, de 18 de novembro de 2011]] .
 
 ###### Art. 75 {#art75}
-Tags: #licitacao #contrato-administrativo #dispensa-licitacao #prazo
 
 **Art. 75, caput** {#art75_cpt} A empresa pública e a sociedade de economia mista convocarão o licitante vencedor ou o destinatário de contratação com dispensa ou inexigibilidade de licitação para assinar o termo de contrato, observados o prazo e as condições estabelecidos, sob pena de decadência do direito à contratação.
 
@@ -1079,12 +1003,10 @@ Tags: #licitacao #contrato-administrativo #dispensa-licitacao #prazo
 - **Art. 75, § 2º, inciso II** {#art75_par2_inc2} revogar a licitação.
 
 ###### Art. 76 {#art76}
-Tags: #contrato-administrativo
 
 **Art. 76, caput** {#art76_cpt} O contratado é obrigado a reparar, corrigir, remover, reconstruir ou substituir, às suas expensas, no total ou em parte, o objeto do contrato em que se verificarem vícios, defeitos ou incorreções resultantes da execução ou de materiais empregados, e responderá por danos causados diretamente a terceiros ou à empresa pública ou sociedade de economia mista, independentemente da comprovação de sua culpa ou dolo na execução do contrato.
 
 ###### Art. 77 {#art77}
-Tags: #contrato-administrativo
 
 **Art. 77, caput** {#art77_cpt} O contratado é responsável pelos encargos trabalhistas, fiscais e comerciais resultantes da execução do contrato.
 
@@ -1093,7 +1015,6 @@ Tags: #contrato-administrativo
 **Art. 77, § 2º** {#art77_par2} (VETADO).
 
 ###### Art. 78 {#art78}
-Tags: #contrato-administrativo
 
 **Art. 78, caput** {#art78_cpt} O contratado, na execução do contrato, sem prejuízo das responsabilidades contratuais e legais, poderá subcontratar partes da obra, serviço ou fornecimento, até o limite admitido, em cada caso, pela empresa pública ou pela sociedade de economia mista, conforme previsto no edital do certame.
 
@@ -1106,21 +1027,18 @@ Tags: #contrato-administrativo
 **Art. 78, § 3º** {#art78_par3} As empresas de prestação de serviços técnicos especializados deverão garantir que os integrantes de seu corpo técnico executem pessoal e diretamente as obrigações a eles imputadas, quando a respectiva relação for apresentada em procedimento licitatório ou em contratação direta.
 
 ###### Art. 79 {#art79}
-Tags: #contrato-administrativo #sancao
 
 **Art. 79, caput** {#art79_cpt} Na hipótese do § 6º do art. [[#art54|54]], quando não for gerada a economia prevista no lance ou proposta, a diferença entre a economia contratada e a efetivamente obtida será descontada da remuneração do contratado.
 
 **Art. 79, parágrafo único** {#art79_par1u} Se a diferença entre a economia contratada e a efetivamente obtida for superior à remuneração do contratado, será aplicada a sanção prevista no contrato, nos termos do inciso VI do caput do art. [[#art69|69]] desta Lei.
 
 ###### Art. 80 {#art80}
-Tags: #contrato-administrativo
 
 **Art. 80, caput** {#art80_cpt} Os direitos patrimoniais e autorais de projetos ou serviços técnicos especializados desenvolvidos por profissionais autônomos ou por empresas contratadas passam a ser propriedade da empresa pública ou sociedade de economia mista que os tenha contratado, sem prejuízo da preservação da identificação dos respectivos autores e da responsabilidade técnica a eles atribuída.
 
 #### Seção II – Da Alteração dos Contratos
 
 ###### Art. 81 {#art81}
-Tags: #contrato-administrativo #dispensa-licitacao
 
 **Art. 81, caput** {#art81_cpt} Os contratos celebrados nos regimes previstos nos incisos I a V do art. [[#art43|43]] contarão com cláusula que estabeleça a possibilidade de alteração, por acordo entre as partes, nos seguintes casos:
 - **Art. 81, caput, inciso I** {#art81_cpt_inc1} quando houver modificação do projeto ou das especificações, para melhor adequação técnica aos seus objetivos;
@@ -1149,7 +1067,6 @@ Tags: #contrato-administrativo #dispensa-licitacao
 #### Seção III – Das Sanções Administrativas
 
 ###### Art. 82 {#art82}
-Tags: #contrato-administrativo #sancao
 
 **Art. 82, caput** {#art82_cpt} Os contratos devem conter cláusulas com sanções administrativas a serem aplicadas em decorrência de atraso injustificado na execução do contrato, sujeitando o contratado a multa de mora, na forma prevista no instrumento convocatório ou no contrato.
 
@@ -1160,7 +1077,6 @@ Tags: #contrato-administrativo #sancao
 **Art. 82, § 3º** {#art82_par3} Se a multa for de valor superior ao valor da garantia prestada, além da perda desta, responderá o contratado pela sua diferença, a qual será descontada dos pagamentos eventualmente devidos pela empresa pública ou pela sociedade de economia mista ou, ainda, quando for o caso, cobrada judicialmente.
 
 ###### Art. 83 {#art83}
-Tags: #licitacao #contrato-administrativo #sancao #prazo
 
 **Art. 83, caput** {#art83_cpt} Pela inexecução total ou parcial do contrato a empresa pública ou a sociedade de economia mista poderá, garantida a prévia defesa, aplicar ao contratado as seguintes sanções:
 - **Art. 83, caput, inciso I** {#art83_cpt_inc1} advertência;
@@ -1172,7 +1088,6 @@ Tags: #licitacao #contrato-administrativo #sancao #prazo
 **Art. 83, § 2º** {#art83_par2} As sanções previstas nos incisos I e III do caput poderão ser aplicadas juntamente com a do inciso II, devendo a defesa prévia do interessado, no respectivo processo, ser apresentada no prazo de 10 (dez) dias úteis.
 
 ###### Art. 84 {#art84}
-Tags: #licitacao #contrato-administrativo #sancao
 
 **Art. 84, caput** {#art84_cpt} As sanções previstas no inciso III do art. [[#art83|83]] poderão também ser aplicadas às empresas ou aos profissionais que, em razão dos contratos regidos por esta Lei:
 - **Art. 84, caput, inciso I** {#art84_cpt_inc1} tenham sofrido condenação definitiva por praticarem, por meios dolosos, fraude fiscal no recolhimento de quaisquer tributos;
@@ -1182,7 +1097,6 @@ Tags: #licitacao #contrato-administrativo #sancao
 ### CAPÍTULO III – DA FISCALIZAÇÃO PELO ESTADO E PELA SOCIEDADE
 
 ###### Art. 85 {#art85}
-Tags: #fiscalizacao
 
 **Art. 85, caput** {#art85_cpt} Os órgãos de controle externo e interno das 3 (três) esferas de governo fiscalizarão as empresas públicas e as sociedades de economia mista a elas relacionadas, inclusive aquelas domiciliadas no exterior, quanto à legitimidade, à economicidade e à eficácia da aplicação de seus recursos, sob o ponto de vista contábil, financeiro, operacional e patrimonial.
 
@@ -1193,7 +1107,6 @@ Tags: #fiscalizacao
 **Art. 85, § 3º** {#art85_par3} Os atos de fiscalização e controle dispostos neste Capítulo aplicar-se-ão, também, às empresas públicas e às sociedades de economia mista de caráter e constituição transnacional no que se refere aos atos de gestão e aplicação do capital nacional, independentemente de estarem incluídos ou não em seus respectivos atos e acordos constitutivos.
 
 ###### Art. 86 {#art86}
-Tags: #licitacao #contrato-administrativo
 
 **Art. 86, caput** {#art86_cpt} As informações das empresas públicas e das sociedades de economia mista relativas a licitações e contratos, inclusive aqueles referentes a bases de preços, constarão de bancos de dados eletrônicos atualizados e com acesso em tempo real aos órgãos de controle competentes.
 
@@ -1208,7 +1121,6 @@ Tags: #licitacao #contrato-administrativo
 **Art. 86, § 5º** {#art86_par5} Os critérios para a definição do que deve ser considerado sigilo estratégico, comercial ou industrial serão estabelecidos em regulamento.
 
 ###### Art. 87 {#art87}
-Tags: #licitacao #contrato-administrativo #integridade #fiscalizacao
 
 **Art. 87, caput** {#art87_cpt} O controle das despesas decorrentes dos contratos e demais instrumentos regidos por esta Lei será feito pelos órgãos do sistema de controle interno e pelo tribunal de contas competente, na forma da legislação pertinente, ficando as empresas públicas e as sociedades de economia mista responsáveis pela demonstração da legalidade e da regularidade da despesa e da execução, nos termos da Constituição.
 
@@ -1219,7 +1131,6 @@ Tags: #licitacao #contrato-administrativo #integridade #fiscalizacao
 **Art. 87, § 3º** {#art87_par3} Os tribunais de contas e os órgãos integrantes do sistema de controle interno poderão solicitar para exame, a qualquer tempo, documentos de natureza contábil, financeira, orçamentária, patrimonial e operacional das empresas públicas, das sociedades de economia mista e de suas subsidiárias no Brasil e no exterior, obrigando-se, os jurisdicionados, à adoção das medidas corretivas pertinentes que, em função desse exame, lhes forem determinadas.
 
 ###### Art. 88 {#art88}
-Tags: #contrato-administrativo #integridade #fiscalizacao
 
 **Art. 88, caput** {#art88_cpt} As empresas públicas e as sociedades de economia mista deverão disponibilizar para conhecimento público, por meio eletrônico, informação completa mensalmente atualizada sobre a execução de seus contratos e de seu orçamento, admitindo-se retardo de até 2 (dois) meses na divulgação das informações.
 
@@ -1228,19 +1139,16 @@ Tags: #contrato-administrativo #integridade #fiscalizacao
 **Art. 88, § 2º** {#art88_par2} O disposto no § 1º não será oponível à fiscalização dos órgãos de controle interno e do tribunal de contas, sem prejuízo da responsabilização administrativa, civil e penal do servidor que der causa à eventual divulgação dessas informações.
 
 ###### Art. 89 {#art89}
-Tags:
 
 **Art. 89, caput** {#art89_cpt} O exercício da supervisão por vinculação da empresa pública ou da sociedade de economia mista, pelo órgão a que se vincula, não pode ensejar a redução ou a supressão da autonomia conferida pela lei específica que autorizou a criação da entidade supervisionada ou da autonomia inerente a sua natureza, nem autoriza a ingerência do supervisor em sua administração e funcionamento, devendo a supervisão ser exercida nos limites da legislação aplicável.
 
 ###### Art. 90 {#art90}
-Tags:
 
 **Art. 90, caput** {#art90_cpt} As ações e deliberações do órgão ou ente de controle não podem implicar interferência na gestão das empresas públicas e das sociedades de economia mista a ele submetidas nem ingerência no exercício de suas competências ou na definição de políticas públicas.
 
 ## TÍTULO III – DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 ###### Art. 91 {#art91}
-Tags: #contrato-administrativo #prazo
 
 **Art. 91, caput** {#art91_cpt} A empresa pública e a sociedade de economia mista constituídas anteriormente à vigência desta Lei deverão, no prazo de 24 (vinte e quatro) meses, promover as adaptações necessárias à adequação ao disposto nesta Lei.
 
@@ -1251,14 +1159,12 @@ Tags: #contrato-administrativo #prazo
 **Art. 91, § 3º** {#art91_par3} Permanecem regidos pela legislação anterior procedimentos licitatórios e contratos iniciados ou celebrados até o final do prazo previsto no caput .
 
 ###### Art. 92 {#art92}
-Tags:
 
 **Art. 92, caput** {#art92_cpt} O Registro Público de Empresas Mercantis e Atividades Afins manterá banco de dados público e gratuito, disponível na internet, contendo a relação de todas as empresas públicas e as sociedades de economia mista.
 
 **Art. 92, parágrafo único** {#art92_par1u} É a União proibida de realizar transferência voluntária de recursos a Estados, ao Distrito Federal e a Municípios que não fornecerem ao Registro Público de Empresas Mercantis e Atividades Afins as informações relativas às empresas públicas e às sociedades de economia mista a eles vinculadas.
 
 ###### Art. 93 {#art93}
-Tags: #governanca-corporativa
 
 **Art. 93, caput** {#art93_cpt} As despesas com publicidade e patrocínio da empresa pública e da sociedade de economia mista não ultrapassarão, em cada exercício, o limite de 0,5% (cinco décimos por cento) da receita operacional bruta do exercício anterior.
 
@@ -1267,24 +1173,20 @@ Tags: #governanca-corporativa
 **Art. 93, § 2º** {#art93_par2} É vedado à empresa pública e à sociedade de economia mista realizar, em ano de eleição para cargos do ente federativo a que sejam vinculadas, despesas com publicidade e patrocínio que excedam a média dos gastos nos 3 (três) últimos anos que antecedem o pleito ou no último ano imediatamente anterior à eleição.
 
 ###### Art. 94 {#art94}
-Tags: #sancao
 
 **Art. 94, caput** {#art94_cpt} Aplicam-se à empresa pública, à sociedade de economia mista e às suas subsidiárias as sanções previstas na [[lei-federal-12846-2013|Lei nº 12.846, de 1º de agosto de 2013]] , salvo as previstas nos incisos II, III e IV do caput do art. [[#art19|19]] da referida Lei .
 
 ###### Art. 95 {#art95}
-Tags: #prazo
 
 **Art. 95, caput** {#art95_cpt} A estratégia de longo prazo prevista no art. [[#art23|23]] deverá ser aprovada em até 180 (cento e oitenta) dias da data de publicação da presente Lei.
 
 ###### Art. 96 {#art96}
-Tags:
 
 **Art. 96, caput** {#art96_cpt} Revogam-se:
 - **Art. 96, caput, inciso I** {#art96_cpt_inc1} o § 2º do art. 15 da [[lei-federal-3890-a-1961|Lei nº 3.890-A, de 25 de abril de 1961]] , com a redação dada pelo art. 19 da [[lei-federal-11943-2009|Lei nº 11.943, de 28 de maio de 2009]];
 - **Art. 96, caput, inciso II** {#art96_cpt_inc2} os arts. 67 e 68 da [[lei-federal-9478-1997|Lei nº 9.478, de 6 de agosto de 1997]] .
 
 ###### Art. 97 {#art97}
-Tags:
 
 **Art. 97, caput** {#art97_cpt} Esta Lei entra em vigor na data de sua publicação.
 

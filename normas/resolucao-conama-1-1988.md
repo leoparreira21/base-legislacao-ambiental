@@ -31,43 +31,36 @@ Considerando a necessidade de se estabelecerem os critérios e procedimentos bá
 
 ###### Art. 1º {#art1}
 
-Tags: #ctf #cadastro
 
 **Art. 1º, caput** {#art1_cpt} O CADASTRO TÉCNICO FEDERAL DE ATIVIDADES E INSTRUMENTOS DE DEFESA AMBIENTAL tem como objetivo proceder ao registro, com caráter obrigatório, de pessoas físicas ou jurídicas que se dediquem à prestação de serviços e consultoria sobre problemas ecológicos ou ambientais, bem como à elaboração do projeto, fabricação, comercialização, instalação ou manutenção de equipamentos, aparelhos e instrumentos destinados ao controle de atividades efetiva ou potencialmente poluidoras.
 
 ###### Art. 2º {#art2}
 
-Tags: #ctf #cadastro #prazo
 
 **Art. 2º, caput** {#art2_cpt} A Secretaria Especial do Meio Ambiente - SEMA e os órgãos ambientais, no prazo de 90 dias, a partir da publicação desta Resolução, somente aceitarão, para fins de análise, projetos técnicos de controle da poluição ou estudos de impacto ambiental, cujos elaboradores sejam profissionais, empresas ou sociedades civis regularmente registradas no Cadastro que trata o art. 1o.
 
 ###### Art. 3º {#art3}
 
-Tags: #ctf #cadastro #prazo #renovacao
 
 **Art. 3º, caput** {#art3_cpt} O prazo de validade do registro é de 2 (dois) anos, cabendo à pessoas físicas e jurídicas cadastradas a iniciativa de pedido de renovação.
 
 ###### Art. 4º {#art4}
 
-Tags: #ctf #cadastro
 
 **Art. 4º, caput** {#art4_cpt} O registro de que trata a presente Resolução é isento de qualquer ônus para a entidade pleiteante ao Cadastramento.
 
 ###### Art. 5º {#art5}
 
-Tags: #ctf #cadastro #documentacao
 
 **Art. 5º, caput** {#art5_cpt} Para fins de Cadastramento serão exigidos das pessoas físicas e jurídicas interessadas tão somente os dados necessários a sua caracterização jurídica e responsabilidade legal, bem como avaliação da capacidade técnica e da eficácia dos produtos ou serviços oferecidos, dados esses a serem coletados através de formulário próprio, cabendo à declarante responder sob as penas da lei, em qualquer tempo, pela veracidade das informações apresentadas.
 
 ###### Art. 6º {#art6}
 
-Tags: #ctf #cadastro
 
 **Art. 6º, caput** {#art6_cpt} A inclusão de pessoas físicas e jurídicas no CADASTRO TÉCNICO FEDERAL não implicará, por parte da SEMA e perante terceiros, em certificação de qualidade, nem juízo de valor de qualquer espécie.
 
 ###### Art. 7º {#art7}
 
-Tags: #ctf #cadastro
 
 **Art. 7º, caput** {#art7_cpt} A SEMA, na qualidade de gestora do CADASTRO TÉCNICO FEDERAL, baixará os atos complementares, necessários à implementação da presente Resolução.
 
@@ -75,7 +68,6 @@ Tags: #ctf #cadastro
 
 ###### Art. 8º {#art8}
 
-Tags: #ctf #cadastro
 
 **Art. 8º, caput** {#art8_cpt} Esta Resolução entrará em vigor na data de sua publicação.
 

@@ -30,12 +30,10 @@ fonte: "Câmara dos Deputados – Centro de Documentação e Informação, texto
 ## CAPÍTULO I – DOS PRINCÍPIOS FUNDAMENTAIS
 
 ###### Art. 1º {#art1}
-Tags: #saneamento
 
 **Art. 1º, caput** {#art1_cpt} Esta Lei estabelece as diretrizes nacionais para o saneamento básico e para a política federal de saneamento básico.
 
 ###### Art. 2º {#art2}
-Tags: #saneamento #saude-publica #abastecimento-publico #esgotamento-sanitario #residuo-solido #drenagem-urbana #reuso-efluente #agua-pluvial #recurso-hidrico
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: inciso I, inciso II, inciso III, inciso IV, inciso VI, inciso VIII, inciso XI, inciso XII, inciso XIII; incluído: inciso XIV, inciso XV, inciso XVI); [[lei-federal-12862-2013|Lei nº 12.862, de 17/9/2013]] (incluído: inciso XIII)
 
 **Art. 2º, caput** {#art2_cpt} Os serviços públicos de saneamento básico serão prestados com base nos seguintes princípios fundamentais:
@@ -57,21 +55,20 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 - **Art. 2º, caput, inciso XVI** {#art2_cpt_inc16} #incluido prestação concomitante dos serviços de abastecimento de água e de esgotamento sanitário. *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 3º {#art3}
-Tags: #saneamento #abastecimento-publico #esgotamento-sanitario #residuo-solido-urbano #drenagem-urbana #consorcio-publico #regiao-metropolitana #microrregiao #regularizacao-fundiaria
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: caput, inciso I, inciso I, alínea "a", inciso I, alínea "b", inciso I, alínea "c", inciso I, alínea "d", inciso II, inciso III, inciso IV, inciso VI, inciso VII, inciso VIII; incluído: inciso VI, alínea "a", inciso VI, alínea "b", inciso VI, alínea "c", inciso IX, inciso X, inciso XI, inciso XII, inciso XIII, inciso XIV, inciso XV, inciso XVI, inciso XVII, inciso XVIII, inciso XIX, § 5º)
 
 **Art. 3º, caput** {#art3_cpt} #redacao-alterada Para fins do disposto nesta Lei, considera-se: *(“Caput” do artigo com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} #redacao-alterada saneamento básico: conjunto de serviços públicos, infraestruturas e instalações operacionais de: *(Inciso com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
-  - **Art. 3º, caput, inciso I, alínea "a"** {#art3_cpt_inc1_alia} #redacao-alterada #abastecimento-publico abastecimento de água potável: constituído pelas atividades e pela disponibilização e manutenção de infraestruturas e instalações operacionais necessárias ao abastecimento público de água potável, desde a captação até as ligações prediais e seus instrumentos de medição; *(Alínea com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
-  - **Art. 3º, caput, inciso I, alínea "b"** {#art3_cpt_inc1_alib} #redacao-alterada #esgotamento-sanitario esgotamento sanitário: constituído pelas atividades e pela disponibilização e manutenção de infraestruturas e instalações operacionais necessárias à coleta, ao transporte, ao tratamento e à disposição final adequados dos esgotos sanitários, desde as ligações prediais até sua destinação final para produção de água de reuso ou seu lançamento de forma adequada no meio ambiente; *(Alínea com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
-  - **Art. 3º, caput, inciso I, alínea "c"** {#art3_cpt_inc1_alic} #redacao-alterada #residuo-solido-urbano #servico-limpeza-urbana limpeza urbana e manejo de resíduos sólidos: constituídos pelas atividades e pela disponibilização e manutenção de infraestruturas e instalações operacionais de coleta, varrição manual e mecanizada, asseio e conservação urbana, transporte, transbordo, tratamento e destinação final ambientalmente adequada dos resíduos sólidos domiciliares e dos resíduos de limpeza urbana; e *(Alínea com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
-  - **Art. 3º, caput, inciso I, alínea "d"** {#art3_cpt_inc1_alid} #redacao-alterada #drenagem-urbana #agua-pluvial drenagem e manejo das águas pluviais urbanas: constituídos pelas atividades, pela infraestrutura e pelas instalações operacionais de drenagem de águas pluviais, transporte, detenção ou retenção para o amortecimento de vazões de cheias, tratamento e disposição final das águas pluviais drenadas, contempladas a limpeza e a fiscalização preventiva das redes; *(Alínea com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
+  - **Art. 3º, caput, inciso I, alínea "a"** {#art3_cpt_inc1_alia} #redacao-alterada abastecimento de água potável: constituído pelas atividades e pela disponibilização e manutenção de infraestruturas e instalações operacionais necessárias ao abastecimento público de água potável, desde a captação até as ligações prediais e seus instrumentos de medição; *(Alínea com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
+  - **Art. 3º, caput, inciso I, alínea "b"** {#art3_cpt_inc1_alib} #redacao-alterada esgotamento sanitário: constituído pelas atividades e pela disponibilização e manutenção de infraestruturas e instalações operacionais necessárias à coleta, ao transporte, ao tratamento e à disposição final adequados dos esgotos sanitários, desde as ligações prediais até sua destinação final para produção de água de reuso ou seu lançamento de forma adequada no meio ambiente; *(Alínea com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
+  - **Art. 3º, caput, inciso I, alínea "c"** {#art3_cpt_inc1_alic} #redacao-alterada limpeza urbana e manejo de resíduos sólidos: constituídos pelas atividades e pela disponibilização e manutenção de infraestruturas e instalações operacionais de coleta, varrição manual e mecanizada, asseio e conservação urbana, transporte, transbordo, tratamento e destinação final ambientalmente adequada dos resíduos sólidos domiciliares e dos resíduos de limpeza urbana; e *(Alínea com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
+  - **Art. 3º, caput, inciso I, alínea "d"** {#art3_cpt_inc1_alid} #redacao-alterada drenagem e manejo das águas pluviais urbanas: constituídos pelas atividades, pela infraestrutura e pelas instalações operacionais de drenagem de águas pluviais, transporte, detenção ou retenção para o amortecimento de vazões de cheias, tratamento e disposição final das águas pluviais drenadas, contempladas a limpeza e a fiscalização preventiva das redes; *(Alínea com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 - **Art. 3º, caput, inciso II** {#art3_cpt_inc2} #redacao-alterada gestão associada: associação voluntária entre entes federativos, por meio de consórcio público ou convênio de cooperação, conforme disposto no [[constituicao-federal-1988#art241|art. 241 da Constituição Federal]]; *(Inciso com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 - **Art. 3º, caput, inciso III** {#art3_cpt_inc3} #redacao-alterada universalização: ampliação progressiva do acesso de todos os domicílios ocupados ao saneamento básico, em todos os serviços previstos no [[#art3_cpt_inc14|inciso XIV do caput deste artigo]], incluídos o tratamento e a disposição final adequados dos esgotos sanitários; *(Inciso com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 - **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} #redacao-alterada controle social: conjunto de mecanismos e procedimentos que garantem à sociedade informações, representações técnicas e participação nos processos de formulação de políticas, de planejamento e de avaliação relacionados com os serviços públicos de saneamento básico; *(Inciso com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 - **Art. 3º, caput, inciso V** {#art3_cpt_inc5} (VETADO);
 - **Art. 3º, caput, inciso VI** {#art3_cpt_inc6} #redacao-alterada prestação regionalizada: modalidade de prestação integrada de um ou mais componentes dos serviços públicos de saneamento básico em determinada região cujo território abranja mais de um Município, podendo ser estruturada em: *(Inciso com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
-  - **Art. 3º, caput, inciso VI, alínea "a"** {#art3_cpt_inc6_alia} #incluido #regiao-metropolitana #microrregiao região metropolitana, aglomeração urbana ou microrregião: unidade instituída pelos Estados mediante lei complementar, de acordo com o [[constituicao-federal-1988#art25_par3|§ 3º do art. 25 da Constituição Federal]], composta de agrupamento de Municípios limítrofes e instituída nos termos da [[lei-federal-13089-2015|Lei nº 13.089, de 12 de janeiro de 2015]] (Estatuto da Metrópole); *(Alínea acrescida pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
+  - **Art. 3º, caput, inciso VI, alínea "a"** {#art3_cpt_inc6_alia} #incluido região metropolitana, aglomeração urbana ou microrregião: unidade instituída pelos Estados mediante lei complementar, de acordo com o [[constituicao-federal-1988#art25_par3|§ 3º do art. 25 da Constituição Federal]], composta de agrupamento de Municípios limítrofes e instituída nos termos da [[lei-federal-13089-2015|Lei nº 13.089, de 12 de janeiro de 2015]] (Estatuto da Metrópole); *(Alínea acrescida pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
   - **Art. 3º, caput, inciso VI, alínea "b"** {#art3_cpt_inc6_alib} #incluido unidade regional de saneamento básico: unidade instituída pelos Estados mediante lei ordinária, constituída pelo agrupamento de Municípios não necessariamente limítrofes, para atender adequadamente às exigências de higiene e saúde pública, ou para dar viabilidade econômica e técnica aos Municípios menos favorecidos; *(Alínea acrescida pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
   - **Art. 3º, caput, inciso VI, alínea "c"** {#art3_cpt_inc6_alic} #incluido bloco de referência: agrupamento de Municípios não necessariamente limítrofes, estabelecido pela União nos termos do [[#art52_par3|§ 3º do art. 52 desta Lei]] e formalmente criado por meio de gestão associada voluntária dos titulares; *(Alínea acrescida pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 - **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} #redacao-alterada subsídios: instrumentos econômicos de política social que contribuem para a universalização do acesso aos serviços públicos de saneamento básico por parte de populações de baixa renda; *(Inciso com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
@@ -83,10 +80,10 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 - **Art. 3º, caput, inciso XIII** {#art3_cpt_inc13} #incluido operação regular: aquela que observa integralmente as disposições constitucionais, legais e contratuais relativas ao exercício da titularidade e à contratação, prestação e regulação dos serviços; *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 - **Art. 3º, caput, inciso XIV** {#art3_cpt_inc14} #incluido serviços públicos de saneamento básico de interesse comum: serviços de saneamento básico prestados em regiões metropolitanas, aglomerações urbanas e microrregiões instituídas por lei complementar estadual, em que se verifique o compartilhamento de instalações operacionais de infraestrutura de abastecimento de água e/ou de esgotamento sanitário entre 2 (dois) ou mais Municípios, denotando a necessidade de organizá-los, planejá-los, executá-los e operá-los de forma conjunta e integrada pelo Estado e pelos Munícipios que compartilham, no todo ou em parte, as referidas instalações operacionais; *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 - **Art. 3º, caput, inciso XV** {#art3_cpt_inc15} #incluido serviços públicos de saneamento básico de interesse local: funções públicas e serviços cujas infraestruturas e instalações operacionais atendam a um único Município; *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
-- **Art. 3º, caput, inciso XVI** {#art3_cpt_inc16} #incluido #rede-esgoto sistema condominial: rede coletora de esgoto sanitário, assentada em posição viável no interior dos lotes ou conjunto de habitações, interligada à rede pública convencional em um único ponto ou à unidade de tratamento, utilizada onde há dificuldades de execução de redes ou ligações prediais no sistema convencional de esgotamento; *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
-- **Art. 3º, caput, inciso XVII** {#art3_cpt_inc17} #incluido #esgoto-sanitario sistema individual alternativo de saneamento: ação de saneamento básico ou de afastamento e destinação final dos esgotos, quando o local não for atendido diretamente pela rede pública; *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
-- **Art. 3º, caput, inciso XVIII** {#art3_cpt_inc18} #incluido #rede-esgoto sistema separador absoluto: conjunto de condutos, instalações e equipamentos destinados a coletar, transportar, condicionar e encaminhar exclusivamente esgoto sanitário; *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
-- **Art. 3º, caput, inciso XIX** {#art3_cpt_inc19} #incluido #agua-pluvial #esgoto-sanitario #rede-esgoto sistema unitário: conjunto de condutos, instalações e equipamentos destinados a coletar, transportar, condicionar e encaminhar conjuntamente esgoto sanitário e águas pluviais. *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
+- **Art. 3º, caput, inciso XVI** {#art3_cpt_inc16} #incluido sistema condominial: rede coletora de esgoto sanitário, assentada em posição viável no interior dos lotes ou conjunto de habitações, interligada à rede pública convencional em um único ponto ou à unidade de tratamento, utilizada onde há dificuldades de execução de redes ou ligações prediais no sistema convencional de esgotamento; *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
+- **Art. 3º, caput, inciso XVII** {#art3_cpt_inc17} #incluido sistema individual alternativo de saneamento: ação de saneamento básico ou de afastamento e destinação final dos esgotos, quando o local não for atendido diretamente pela rede pública; *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
+- **Art. 3º, caput, inciso XVIII** {#art3_cpt_inc18} #incluido sistema separador absoluto: conjunto de condutos, instalações e equipamentos destinados a coletar, transportar, condicionar e encaminhar exclusivamente esgoto sanitário; *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
+- **Art. 3º, caput, inciso XIX** {#art3_cpt_inc19} #incluido sistema unitário: conjunto de condutos, instalações e equipamentos destinados a coletar, transportar, condicionar e encaminhar conjuntamente esgoto sanitário e águas pluviais. *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 **Art. 3º, § 1º** {#art3_par1} (VETADO).
 
@@ -99,7 +96,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 3º, § 5º** {#art3_par5} #incluido No caso de Região Integrada de Desenvolvimento (Ride), a prestação regionalizada do serviço de saneamento básico estará condicionada à anuência dos Municípios que a integram. *(Parágrafo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 3º-A {#art3-a}
-Tags: #abastecimento-publico #captacao #reservatorio
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 3º-A, caput** {#art3-a_cpt} #incluido Consideram-se serviços públicos de abastecimento de água a sua distribuição mediante ligação predial, incluídos eventuais instrumentos de medição, bem como, quando vinculadas a essa finalidade, as seguintes atividades:
@@ -111,7 +107,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído
 - **Art. 3º-A, caput, inciso VI** {#art3-a_cpt_inc6} #incluido reservação de água tratada. *(Artigo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 3º-B {#art3-b}
-Tags: #esgotamento-sanitario #esgoto-sanitario #tratamento-esgoto #lodo-esgoto #disposicao-final
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 3º-B, caput** {#art3-b_cpt} #incluido Consideram-se serviços públicos de esgotamento sanitário aqueles constituídos por 1 (uma) ou mais das seguintes atividades:
@@ -123,7 +118,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído
 **Art. 3º-B, parágrafo único** {#art3-b_par1u} #incluido Nas Zonas Especiais de Interesse Social (Zeis) ou outras áreas do perímetro urbano ocupadas predominantemente por população de baixa renda, o serviço público de esgotamento sanitário, realizado diretamente pelo titular ou por concessionário, inclui conjuntos sanitários para as residências e solução para a destinação de efluentes, quando inexistentes, assegurada compatibilidade com as diretrizes da política municipal de regularização fundiária. *(Artigo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 3º-C {#art3-c}
-Tags: #residuo-solido-urbano #servico-limpeza-urbana #coleta #triagem #compostagem #transbordo #destinacao-final #residuo-domiciliar
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 3º-C, caput** {#art3-c_cpt} #incluido Consideram-se serviços públicos especializados de limpeza urbana e de manejo de resíduos sólidos as atividades operacionais de coleta, transbordo, transporte, triagem para fins de reutilização ou reciclagem, tratamento, inclusive por compostagem, e destinação final dos:
@@ -138,7 +132,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído
   - **Art. 3º-C, caput, inciso III, alínea "f"** {#art3-c_cpt_inc3_alif} #incluido outros eventuais serviços de limpeza urbana. *(Artigo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 3º-D {#art3-d}
-Tags: #drenagem-urbana #agua-pluvial
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 3º-D, caput** {#art3-d_cpt} #incluido Consideram-se serviços públicos de manejo das águas pluviais urbanas aqueles constituídos por 1 (uma) ou mais das seguintes atividades:
@@ -148,24 +141,20 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído
 - **Art. 3º-D, caput, inciso IV** {#art3-d_cpt_inc4} #incluido tratamento e disposição final de águas pluviais urbanas. *(Artigo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 4º {#art4}
-Tags: #recurso-hidrico #outorga-direito #diluicao #lancamento
 
 **Art. 4º, caput** {#art4_cpt} Os recursos hídricos não integram os serviços públicos de saneamento básico.
 
 **Art. 4º, parágrafo único** {#art4_par1u} A utilização de recursos hídricos na prestação de serviços públicos de saneamento básico, inclusive para disposição ou diluição de esgotos e outros resíduos líquidos, é sujeita a outorga de direito de uso, nos termos da [[lei-federal-9433-1997|Lei nº 9.433, de 8 de janeiro de 1997]], de seus regulamentos e das legislações estaduais.
 
 ###### Art. 5º {#art5}
-Tags: #saneamento #gerador #residuo-solido
 
 **Art. 5º, caput** {#art5_cpt} Não constitui serviço público a ação de saneamento executada por meio de soluções individuais, desde que o usuário não dependa de terceiros para operar os serviços, bem como as ações e serviços de saneamento básico de responsabilidade privada, incluindo o manejo de resíduos de responsabilidade do gerador.
 
 ###### Art. 6º {#art6}
-Tags: #residuo-solido-urbano #gerador
 
 **Art. 6º, caput** {#art6_cpt} O lixo originário de atividades comerciais, industriais e de serviços cuja responsabilidade pelo manejo não seja atribuída ao gerador pode, por decisão do poder público, ser considerado resíduo sólido urbano.
 
 ###### Art. 7º {#art7}
-Tags: #servico-limpeza-urbana #residuo-solido-urbano #coleta #transbordo #triagem #compostagem #destinacao-final #drenagem-urbana
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: inciso I, inciso II, inciso III)
 
 **Art. 7º, caput** {#art7_cpt} Para os efeitos desta Lei, o serviço público de limpeza urbana e de manejo de resíduos sólidos urbanos é composto pelas seguintes atividades:
@@ -176,7 +165,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 ## CAPÍTULO II – DO EXERCÍCIO DA TITULARIDADE
 
 ###### Art. 8º {#art8}
-Tags: #competencia #municipio #estado #distrito-federal #consorcio-publico #consorcio-intermunicipal #regiao-metropolitana #microrregiao #fiscalizacao
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: caput; incluído: inciso I, inciso II, § 1º, § 2º, § 3º, § 4º, § 5º)
 
 **Art. 8º, caput** {#art8_cpt} #redacao-alterada Exercem a titularidade dos serviços públicos de saneamento básico: *(“Caput” do artigo com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
@@ -196,19 +184,16 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 8º, § 5º** {#art8_par5} #incluido O titular dos serviços públicos de saneamento básico deverá definir a entidade responsável pela regulação e fiscalização desses serviços, independentemente da modalidade de sua prestação. *(Parágrafo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 8º-A {#art8-a}
-Tags: #competencia #municipio
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 8º-A, caput** {#art8-a_cpt} #incluido É facultativa a adesão dos titulares dos serviços públicos de saneamento de interesse local às estruturas das formas de prestação regionalizada. *(Artigo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 8º-B {#art8-b}
-Tags: #responsabilidade #competencia
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 8º-B, caput** {#art8-b_cpt} #incluido No caso de prestação regionalizada dos serviços de saneamento, as responsabilidades administrativa, civil e penal são exclusivamente aplicadas aos titulares dos serviços públicos de saneamento, nos termos do art. 8º desta Lei. *(Artigo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 9º {#art9}
-Tags: #plano-saneamento #competencia #potabilidade #fiscalizacao #sinisa #sinir #singreh
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: inciso I, inciso II, inciso III, inciso IV, inciso V, inciso VII; incluído: parágrafo único); [[lei-federal-14600-2023|Lei nº 14.600, de 19/6/2023]] (nova redação: inciso VI)
 
 **Art. 9º, caput** {#art9_cpt} O titular dos serviços formulará a respectiva política pública de saneamento básico, devendo, para tanto:
@@ -223,7 +208,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 9º, parágrafo único** {#art9_par1u} #incluido No exercício das atividades a que se refere o [[#art9_cpt|caput deste artigo]], o titular poderá receber cooperação técnica do respectivo Estado e basear-se em estudos fornecidos pelos prestadores dos serviços. *(Parágrafo único acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 10 {#art10}
-Tags: #saneamento
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: caput; revogado: § 1º, § 2º; incluído: § 3º)
 
 **Art. 10, caput** {#art10_cpt} #redacao-alterada A prestação dos serviços públicos de saneamento básico por entidade que não integre a administração do titular depende da celebração de contrato de concessão, mediante prévia licitação, nos termos do [[constituicao-federal-1988#art175|art. 175 da Constituição Federal]], vedada a sua disciplina mediante contrato de programa, convênio, termo de parceria ou outros instrumentos de natureza precária. *(“Caput” do artigo com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
@@ -235,7 +219,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 10, § 3º** {#art10_par3} #incluido Os contratos de programa regulares vigentes permanecem em vigor até o advento do seu termo contratual. *(Parágrafo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 10-A {#art10-a}
-Tags: #meta #recurso-hidrico #reuso-efluente #agua-pluvial
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 10-A, caput** {#art10-a_cpt} #incluido Os contratos relativos à prestação dos serviços públicos de saneamento básico deverão conter, expressamente, sob pena de nulidade, as cláusulas essenciais previstas no [[lei-federal-8987-1995#art23|art. 23 da Lei nº 8.987, de 13 de fevereiro de 1995]], além das seguintes disposições:
@@ -249,7 +232,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído
 **Art. 10-A, § 2º** {#art10-a_par2} #incluido As outorgas de recursos hídricos atualmente detidas pelas empresas estaduais poderão ser segregadas ou transferidas da operação a ser concedida, permitidas a continuidade da prestação do serviço público de produção de água pela empresa detentora da outorga de recursos hídricos e a assinatura de contrato de longo prazo entre esta empresa produtora de água e a empresa operadora da distribuição de água para o usuário final, com objeto de compra e venda de água. *(Artigo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 10-B {#art10-b}
-Tags: #meta #prazo
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 10-B, caput** {#art10-b_cpt} #incluido Os contratos em vigor, incluídos aditivos e renovações, autorizados nos termos desta Lei, bem como aqueles provenientes de licitação para prestação ou concessão dos serviços públicos de saneamento básico, estarão condicionados à comprovação da capacidade econômico-financeira da contratada, por recursos próprios ou por contratação de dívida, com vistas a viabilizar a universalização dos serviços na área licitada até 31 de dezembro de 2033, nos termos do [[#art11-b_par2|§ 2º do art. 11-B desta Lei]].
@@ -257,7 +239,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído
 **Art. 10-B, parágrafo único** {#art10-b_par1u} #incluido A metodologia para comprovação da capacidade econômico-financeira da contratada será regulamentada por decreto do Poder Executivo no prazo de 90 (noventa) dias. *(Artigo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 11 {#art11}
-Tags: #plano-saneamento #meta
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: inciso II, § 2º, inciso II; incluído: inciso V, § 5º)
 
 **Art. 11, caput** {#art11_cpt} São condições de validade dos contratos que tenham por objeto a prestação de serviços públicos de saneamento básico:
@@ -287,7 +268,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 11, § 5º** {#art11_par5} #incluido Fica vedada a distribuição de lucros e dividendos, do contrato em execução, pelo prestador de serviços que estiver descumprindo as metas e cronogramas estabelecidos no contrato específico da prestação de serviço público de saneamento básico. *(Parágrafo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 11-A {#art11-a}
-Tags: #saneamento
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 11-A, caput** {#art11-a_cpt} #incluido Na hipótese de prestação dos serviços públicos de saneamento básico por meio de contrato, o prestador de serviços poderá, além de realizar licitação e contratação de parceria público-privada, nos termos da [[lei-federal-11079-2004|Lei nº 11.079, de 30 de dezembro de 2004]], e desde que haja previsão contratual ou autorização expressa do titular dos serviços, subdelegar o objeto contratado, observado, para a referida subdelegação, o limite de 25% (vinte e cinco por cento) do valor do contrato.
@@ -307,7 +287,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído
 **Art. 11-A, § 7º** {#art11-a_par7} #incluido Caso o contrato do prestador do serviço não tenha valor de contrato, o faturamento anual projetado para o subdelegatário não poderá ultrapassar 25% (vinte e cinco por cento) do faturamento anual projetado para o prestador do serviço. *(Artigo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 11-B {#art11-b}
-Tags: #meta #prazo #abastecimento-publico #esgotamento-sanitario
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 11-B, caput** {#art11-b_cpt} #incluido Os contratos de prestação dos serviços públicos de saneamento básico deverão definir metas de universalização que garantam o atendimento de 99% (noventa e nove por cento) da população com água potável e de 90% (noventa por cento) da população com coleta e tratamento de esgotos até 31 de dezembro de 2033, assim como metas quantitativas de não intermitência do abastecimento, de redução de perdas e de melhoria dos processos de tratamento.
@@ -334,7 +313,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído
 **Art. 11-B, § 9º** {#art11-b_par9} #incluido Quando os estudos para a licitação da prestação regionalizada apontarem para a inviabilidade econômico-financeira da universalização na data referida no [[#art11-b_cpt|caput deste artigo]], mesmo após o agrupamento de Municípios de diferentes portes, fica permitida a dilação do prazo, desde que não ultrapasse 1º de janeiro de 2040 e haja anuência prévia da agência reguladora, que, em sua análise, deverá observar o princípio da modicidade tarifária. *(Artigo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 12 {#art12}
-Tags: #fiscalizacao
 
 **Art. 12, caput** {#art12_cpt} Nos serviços públicos de saneamento básico em que mais de um prestador execute atividade interdependente com outra, a relação entre elas deverá ser regulada por contrato e haverá entidade única encarregada das funções de regulação e de fiscalização.
 
@@ -362,7 +340,6 @@ Tags: #fiscalizacao
 **Art. 12, § 4º** {#art12_par4} No caso de execução mediante concessão de atividades interdependentes a que se refere o [[#art12_cpt|caput deste artigo]], deverão constar do correspondente edital de licitação as regras e os valores das tarifas e outros preços públicos a serem pagos aos demais prestadores, bem como a obrigação e a forma de pagamento.
 
 ###### Art. 13 {#art13}
-Tags: #saneamento #consorcio-publico
 
 **Art. 13, caput** {#art13_cpt} Os entes da Federação, isoladamente ou reunidos em consórcios públicos, poderão instituir fundos, aos quais poderão ser destinadas, entre outros recursos, parcelas das receitas dos serviços, com a finalidade de custear, na conformidade do disposto nos respectivos planos de saneamento básico, a universalização dos serviços públicos de saneamento básico.
 
@@ -386,7 +363,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (revogado:
 **Art. 16, caput** {#art16_cpt} #revogado *(Revogados pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 17 {#art17}
-Tags: #plano-regional #plano-saneamento
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: caput; incluído: § 1º, § 2º, § 3º, § 4º)
 
 **Art. 17, caput** {#art17_cpt} #redacao-alterada O serviço regionalizado de saneamento básico poderá obedecer a plano regional de saneamento básico elaborado para o conjunto de Municípios atendidos. *(“Caput” do artigo com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
@@ -400,7 +376,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 17, § 4º** {#art17_par4} #incluido O plano regional de saneamento básico poderá ser elaborado com suporte de órgãos e entidades das administrações públicas federal, estaduais e municipais, além de prestadores de serviço. *(Parágrafo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 18 {#art18}
-Tags: #saneamento
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: caput, parágrafo único)
 
 **Art. 18, caput** {#art18_cpt} #redacao-alterada Os prestadores que atuem em mais de um Município ou região ou que prestem serviços públicos de saneamento básico diferentes em um mesmo Município ou região manterão sistema contábil que permita registrar e demonstrar, separadamente, os custos e as receitas de cada serviço em cada um dos Municípios ou regiões atendidas e, se for o caso, no Distrito Federal. *(“Caput” do artigo com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
@@ -408,7 +383,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 18, parágrafo único** {#art18_par1u} #redacao-alterada Nos casos em que os contratos previstos no [[#art18_cpt|caput deste artigo]] se encerrarem após o prazo fixado no contrato de programa da empresa estatal ou de capital misto contratante, por vencimento ordinário ou caducidade, o ente federativo controlador da empresa delegatária da prestação de serviços públicos de saneamento básico, por ocasião da assinatura do contrato de parceria público-privada ou de subdelegação, deverá assumir esses contratos, mantidos iguais prazos e condições perante o licitante vencedor. *(Parágrafo único com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 18-A {#art18-a}
-Tags: #parcelamento-solo #empreendimento-imobiliario #rede-esgoto #abastecimento-publico
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 18-A, caput** {#art18-a_cpt} #incluido O prestador dos serviços públicos de saneamento básico deve disponibilizar infraestrutura de rede até os respectivos pontos de conexão necessários à implantação dos serviços nas edificações e nas unidades imobiliárias decorrentes de incorporação imobiliária e de parcelamento de solo urbano.
@@ -418,7 +392,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído
 ## CAPÍTULO IV – DO PLANEJAMENTO
 
 ###### Art. 19 {#art19}
-Tags: #plano-saneamento #meta #bacia-hidrografica #plano-diretor #plano-recursos-hidricos #audiencia-publica #consulta-publica
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: § 1º, § 3º, § 4º; incluído: § 9º)
 
 **Art. 19, caput** {#art19_cpt} A prestação de serviços públicos de saneamento básico observará plano, que poderá ser específico para cada serviço, o qual abrangerá, no mínimo:
@@ -447,7 +420,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 19, § 9º** {#art19_par9} #incluido Os Municípios com população inferior a 20.000 (vinte mil) habitantes poderão apresentar planos simplificados, com menor nível de detalhamento dos aspectos previstos nos incisos I a V do caput deste artigo. *(Parágrafo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 20 {#art20}
-Tags: #plano-saneamento #fiscalizacao
 
 **Art. 20, caput** {#art20_cpt} (VETADO).
 
@@ -456,7 +428,6 @@ Tags: #plano-saneamento #fiscalizacao
 ## CAPÍTULO V – DA REGULAÇÃO
 
 ###### Art. 21 {#art21}
-Tags: #fiscalizacao
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: caput; revogado: inciso I, inciso II)
 
 **Art. 21, caput** {#art21_cpt} #redacao-alterada A função de regulação, desempenhada por entidade de natureza autárquica dotada de independência decisória e autonomia administrativa, orçamentária e financeira, atenderá aos princípios de transparência, tecnicidade, celeridade e objetividade das decisões. *(“Caput” do artigo com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
@@ -464,7 +435,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 - **Art. 21, caput, inciso II** {#art21_cpt_inc2} #revogado *(Revogado pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 22 {#art22}
-Tags: #meta #fiscalizacao
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: inciso I, inciso II, inciso III, inciso IV)
 
 **Art. 22, caput** {#art22_cpt} São objetivos da regulação:
@@ -474,7 +444,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 - **Art. 22, caput, inciso IV** {#art22_cpt_inc4} #redacao-alterada definir tarifas que assegurem tanto o equilíbrio econômico-financeiro dos contratos quanto a modicidade tarifária, por mecanismos que gerem eficiência e eficácia dos serviços e que permitam o compartilhamento dos ganhos de produtividade com os usuários. *(Inciso com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 23 {#art23}
-Tags: #fiscalizacao #sancao #meta #ana
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: caput, inciso XI, § 1º; incluído: inciso XIII, inciso XIV, § 1º-A, § 1º-B, § 4º)
 
 **Art. 23, caput** {#art23_cpt} #redacao-alterada A entidade reguladora, observadas as diretrizes determinadas pela ANA, editará normas relativas às dimensões técnica, econômica e social de prestação dos serviços públicos de saneamento básico, que abrangerão, pelo menos, os seguintes aspectos: *(“Caput” do artigo com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
@@ -509,12 +478,10 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 23, § 4º** {#art23_par4} #incluido No estabelecimento de metas, indicadores e métodos de monitoramento, poderá ser utilizada a comparação do desempenho de diferentes prestadores de serviços. *(Parágrafo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 24 {#art24}
-Tags: #fiscalizacao
 
 **Art. 24, caput** {#art24_cpt} Em caso de gestão associada ou prestação regionalizada dos serviços, os titulares poderão adotar os mesmos critérios econômicos, sociais e técnicos da regulação em toda a área de abrangência da associação ou da prestação.
 
 ###### Art. 25 {#art25}
-Tags: #fiscalizacao
 
 **Art. 25, caput** {#art25_cpt} Os prestadores de serviços públicos de saneamento básico deverão fornecer à entidade reguladora todos os dados e informações necessários para o desempenho de suas atividades, na forma das normas legais, regulamentares e contratuais.
 
@@ -523,13 +490,11 @@ Tags: #fiscalizacao
 **Art. 25, § 2º** {#art25_par2} Compreendem-se nas atividades de regulação dos serviços de saneamento básico a interpretação e a fixação de critérios para a fiel execução dos contratos, dos serviços e para a correta administração de subsídios.
 
 ###### Art. 25-A {#art25-a}
-Tags: #ana
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 25-A, caput** {#art25-a_cpt} #incluido A ANA instituirá normas de referência para a regulação da prestação dos serviços públicos de saneamento básico por seus titulares e suas entidades reguladoras e fiscalizadoras, observada a legislação federal pertinente. *(Artigo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 26 {#art26}
-Tags: #seguranca-hidrica #fiscalizacao
 Alterações: [[lei-federal-15012-2024|Lei nº 15.012, de 4/11/2024]] (nova redação: caput)
 
 **Art. 26, caput** {#art26_cpt} #redacao-alterada Será dada publicidade aos relatórios, estudos, decisões e instrumentos equivalentes que se refiram à regulação e à fiscalização dos serviços públicos de saneamento básico, com informação sobre os níveis dos reservatórios de água para abastecimento público e outros dados relativos à segurança hídrica, bem como aos direitos e deveres dos usuários e prestadores, a eles facultado o acesso de qualquer indivíduo, independentemente da existência de interesse direto. *(“Caput” do artigo com redação dada pela [[lei-federal-15012-2024|Lei nº 15.012, de 4/11/2024]])*
@@ -539,7 +504,6 @@ Alterações: [[lei-federal-15012-2024|Lei nº 15.012, de 4/11/2024]] (nova reda
 **Art. 26, § 2º** {#art26_par2} A publicidade a que se refere o [[#art26_cpt|caput deste artigo]] deverá se efetivar, preferencialmente, por meio de sítio mantido na rede mundial de computadores - internet.
 
 ###### Art. 27 {#art27}
-Tags: #seguranca-hidrica
 Alterações: [[lei-federal-15012-2024|Lei nº 15.012, de 4/11/2024]] (incluído: inciso V)
 
 **Art. 27, caput** {#art27_cpt} É assegurado aos usuários de serviços públicos de saneamento básico, na forma das normas legais, regulamentares e contratuais:
@@ -556,7 +520,6 @@ Alterações: [[lei-federal-15012-2024|Lei nº 15.012, de 4/11/2024]] (incluído
 ## CAPÍTULO VI – DOS ASPECTOS ECONÔMICOS E SOCIAIS
 
 ###### Art. 29 {#art29}
-Tags: #saneamento #residuo-solido-urbano #drenagem-urbana #abastecimento-publico #esgotamento-sanitario
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: caput, inciso I, inciso II, inciso III, § 2º, § 3º; incluído: § 4º, § 5º); [[lei-federal-13312-2016|Lei nº 13.312, de 12/7/2016]] (incluído: § 3º)
 
 **Art. 29, caput** {#art29_cpt} #redacao-alterada Os serviços públicos de saneamento básico terão a sustentabilidade econômico-financeira assegurada por meio de remuneração pela cobrança dos serviços, e, quando necessário, por outras formas adicionais, como subsídios ou subvenções, vedada a cobrança em duplicidade de custos administrativos ou gerenciais a serem pagos pelo usuário, nos seguintes serviços: *(“Caput” do artigo com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
@@ -583,7 +546,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 29, § 5º** {#art29_par5} #incluido Os prédios, edifícios e condomínios que foram construídos sem a individualização da medição até a entrada em vigor da [[lei-federal-13312-2016|Lei nº 13.312, de 12 de julho de 2016]], ou em que a individualização for inviável, pela onerosidade ou por razão técnica, poderão instrumentalizar contratos especiais com os prestadores de serviços, nos quais serão estabelecidos as responsabilidades, os critérios de rateio e a forma de cobrança. *(Parágrafo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 30 {#art30}
-Tags: #saneamento
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: caput)
 
 **Art. 30, caput** {#art30_cpt} #redacao-alterada Observado o disposto no art. 29 desta Lei, a estrutura de remuneração e de cobrança dos serviços públicos de saneamento básico considerará os seguintes fatores: *(“Caput” do artigo com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
@@ -595,7 +557,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 - **Art. 30, caput, inciso VI** {#art30_cpt_inc6} capacidade de pagamento dos consumidores.
 
 ###### Art. 31 {#art31}
-Tags: #saneamento
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: caput, inciso II, inciso III; revogado: inciso I)
 
 **Art. 31, caput** {#art31_cpt} #redacao-alterada Os subsídios destinados ao atendimento de usuários determinados de baixa renda serão, dependendo da origem dos recursos: *(“Caput” do artigo com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
@@ -616,7 +577,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 34, caput** {#art34_cpt} (VETADO).
 
 ###### Art. 35 {#art35}
-Tags: #taxa-residuo #residuo-solido-urbano #servico-limpeza-urbana #coleta #destinacao-final
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: caput, inciso II; revogado: inciso I; incluído: inciso IV, inciso V, § 1º, § 2º, § 3º)
 
 **Art. 35, caput** {#art35_cpt} #redacao-alterada As taxas ou as tarifas decorrentes da prestação de serviço de limpeza urbana e de manejo de resíduos sólidos considerarão a destinação adequada dos resíduos coletados e o nível de renda da população da área atendida, de forma isolada ou combinada, e poderão, ainda, considerar: *(“Caput” do artigo com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
@@ -633,19 +593,16 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 35, § 3º** {#art35_par3} #incluido Na hipótese de prestação sob regime de delegação, o titular do serviço deverá obrigatoriamente demonstrar a sustentabilidade econômico-financeira da prestação dos serviços ao longo dos estudos que subsidiaram a contratação desses serviços e deverá comprovar, no respectivo processo administrativo, a existência de recursos suficientes para o pagamento dos valores incorridos na delegação, por meio da demonstração de fluxo histórico e projeção futura de recursos. *(Parágrafo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 36 {#art36}
-Tags: #drenagem-urbana #agua-pluvial #impermeabilizacao
 
 **Art. 36, caput** {#art36_cpt} A cobrança pela prestação do serviço público de drenagem e manejo de águas pluviais urbanas deve levar em conta, em cada lote urbano, os percentuais de impermeabilização e a existência de dispositivos de amortecimento ou de retenção de água de chuva, bem como poderá considerar:
 - **Art. 36, caput, inciso I** {#art36_cpt_inc1} o nível de renda da população da área atendida;
 - **Art. 36, caput, inciso II** {#art36_cpt_inc2} as características dos lotes urbanos e as áreas que podem ser neles edificadas.
 
 ###### Art. 37 {#art37}
-Tags: #saneamento
 
 **Art. 37, caput** {#art37_cpt} Os reajustes de tarifas de serviços públicos de saneamento básico serão realizados observando-se o intervalo mínimo de 12 (doze) meses, de acordo com as normas legais, regulamentares e contratuais.
 
 ###### Art. 38 {#art38}
-Tags: #saneamento
 
 **Art. 38, caput** {#art38_cpt} As revisões tarifárias compreenderão a reavaliação das condições da prestação dos serviços e das tarifas praticadas e poderão ser:
 - **Art. 38, caput, inciso I** {#art38_cpt_inc1} periódicas, objetivando a distribuição dos ganhos de produtividade com os usuários e a reavaliação das condições de mercado;
@@ -660,14 +617,12 @@ Tags: #saneamento
 **Art. 38, § 4º** {#art38_par4} A entidade de regulação poderá autorizar o prestador de serviços a repassar aos usuários custos e encargos tributários não previstos originalmente e por ele não administrados, nos termos da [[lei-federal-8987-1995|Lei nº 8.987, de 13 de fevereiro de 1995]].
 
 ###### Art. 39 {#art39}
-Tags: #saneamento
 
 **Art. 39, caput** {#art39_cpt} As tarifas serão fixadas de forma clara e objetiva, devendo os reajustes e as revisões serem tornados públicos com antecedência mínima de 30 (trinta) dias com relação à sua aplicação.
 
 **Art. 39, parágrafo único** {#art39_par1u} A fatura a ser entregue ao usuário final deverá obedecer a modelo estabelecido pela entidade reguladora, que definirá os itens e custos que deverão estar explicitados.
 
 ###### Art. 40 {#art40}
-Tags: #abastecimento-publico #esgotamento-sanitario #saude-publica
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: inciso II, inciso V)
 
 **Art. 40, caput** {#art40_cpt} Os serviços poderão ser interrompidos pelo prestador nas seguintes hipóteses:
@@ -684,12 +639,10 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 40, § 3º** {#art40_par3} A interrupção ou a restrição do fornecimento de água por inadimplência a estabelecimentos de saúde, a instituições educacionais e de internação coletiva de pessoas e a usuário residencial de baixa renda beneficiário de tarifa social deverá obedecer a prazos e critérios que preservem condições mínimas de manutenção da saúde das pessoas atingidas.
 
 ###### Art. 41 {#art41}
-Tags: #saneamento
 
 **Art. 41, caput** {#art41_cpt} Desde que previsto nas normas de regulação, grandes usuários poderão negociar suas tarifas com o prestador dos serviços, mediante contrato específico, ouvido previamente o regulador.
 
 ###### Art. 42 {#art42}
-Tags: #saneamento
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: § 5º)
 
 **Art. 42, caput** {#art42_cpt} Os valores investidos em bens reversíveis pelos prestadores constituirão créditos perante o titular, a serem recuperados mediante a exploração dos serviços, nos termos das normas regulamentares e contratuais e, quando for o caso, observada a legislação pertinente às sociedades por ações.
@@ -707,7 +660,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído
 ## CAPÍTULO VII – DOS ASPECTOS TÉCNICOS
 
 ###### Art. 43 {#art43}
-Tags: #potabilidade #abastecimento-publico
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (transformado: § 1º; incluído: § 2º)
 
 **Art. 43, caput** {#art43_cpt} A prestação dos serviços atenderá a requisitos mínimos de qualidade, incluindo a regularidade, a continuidade e aqueles relativos aos produtos oferecidos, ao atendimento dos usuários e às condições operacionais e de manutenção dos sistemas, de acordo com as normas regulamentares e contratuais.
@@ -717,7 +669,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (transform
 **Art. 43, § 2º** {#art43_par2} #incluido A entidade reguladora estabelecerá limites máximos de perda na distribuição de água tratada, que poderão ser reduzidos gradualmente, conforme se verifiquem avanços tecnológicos e maiores investimentos em medidas para diminuição desse desperdício. *(Parágrafo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 43-A {#art43-a}
-Tags: #abastecimento-publico #fiscalizacao
 Alterações: [[lei-federal-14546-2023|Lei nº 14.546, de 4/4/2023]] (incluído: artigo inteiro)
 
 **Art. 43-A, caput** {#art43-a_cpt} #incluido É obrigação dos prestadores de serviço público de abastecimento de água, conforme regulamento:
@@ -725,7 +676,6 @@ Alterações: [[lei-federal-14546-2023|Lei nº 14.546, de 4/4/2023]] (incluído:
 - **Art. 43-A, caput, inciso II** {#art43-a_cpt_inc2} #incluido fiscalizar a rede de abastecimento de água para coibir as ligações irregulares. *(Artigo acrescido pela [[lei-federal-14546-2023|Lei nº 14.546, de 4/4/2023]])*
 
 ###### Art. 44 {#art44}
-Tags: #licenciamento-ambiental #esgotamento-sanitario #residuo-solido #efluente #tratamento-esgoto #padrao-lancamento #corpo-hidrico #classificacao-corpo-agua #rede-esgoto
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: caput, § 1º; incluído: § 3º)
 
 **Art. 44, caput** {#art44_cpt} #redacao-alterada O licenciamento ambiental de unidades de tratamento de esgotos sanitários, de efluentes gerados nos processos de tratamento de água e das instalações integrantes dos serviços públicos de manejo de resíduos sólidos considerará os requisitos de eficácia e eficiência, a fim de alcançar progressivamente os padrões estabelecidos pela legislação ambiental, ponderada a capacidade de pagamento das populações e usuários envolvidos. *(“Caput” do artigo com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
@@ -737,7 +687,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 44, § 3º** {#art44_par3} #incluido A agência reguladora competente estabelecerá metas progressivas para a substituição do sistema unitário pelo sistema separador absoluto, sendo obrigatório o tratamento dos esgotos coletados em períodos de estiagem, enquanto durar a transição. *(Parágrafo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 45 {#art45}
-Tags: #abastecimento-publico #esgotamento-sanitario #rede-esgoto #reuso-efluente #agua-pluvial #agua-subterranea #cobranca-uso-agua #regularizacao-fundiaria #condominio
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: caput; incluído: § 3º, § 4º, § 5º, § 6º, § 7º, § 8º, § 9º, § 10, § 11, § 12)
 
 **Art. 45, caput** {#art45_cpt} #redacao-alterada As edificações permanentes urbanas serão conectadas às redes públicas de abastecimento de água e de esgotamento sanitário disponíveis e sujeitas ao pagamento de taxas, tarifas e outros preços públicos decorrentes da disponibilização e da manutenção da infraestrutura e do uso desses serviços. *(“Caput” do artigo com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
@@ -767,7 +716,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 45, § 12** {#art45_par12} #incluido Para a satisfação das condições descritas no [[#art45_par11|§ 11 deste artigo]], os usuários deverão instalar medidor para contabilizar o seu consumo e deverão arcar apenas com o pagamento pelo uso da rede de coleta e tratamento de esgoto na quantidade equivalente ao volume de água captado. *(Parágrafo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 46 {#art46}
-Tags: #seguranca-hidrica #ana #recurso-hidrico
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: parágrafo único)
 
 **Art. 46, caput** {#art46_cpt} Em situação crítica de escassez ou contaminação de recursos hídricos que obrigue à adoção de racionamento, declarada pela autoridade gestora de recursos hídricos, o ente regulador poderá adotar mecanismos tarifários de contingência, com objetivo de cobrir custos adicionais decorrentes, garantindo o equilíbrio financeiro da prestação do serviço e a gestão da demanda.
@@ -781,7 +729,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído
 ## CAPÍTULO VIII – DA PARTICIPAÇÃO DE ÓRGÃOS COLEGIADOS NO CONTROLE SOCIAL
 
 ###### Art. 47 {#art47}
-Tags: #conselho-nacional-dos-recursos-hidricos
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: caput)
 
 **Art. 47, caput** {#art47_cpt} #redacao-alterada O controle social dos serviços públicos de saneamento básico poderá incluir a participação de órgãos colegiados de caráter consultivo, nacional, estaduais, distrital e municipais, em especial o Conselho Nacional de Recursos Hídricos, nos termos da [[lei-federal-9433-1997|Lei nº 9.433, de 8 de janeiro de 1997]], assegurada a representação: *(“Caput” do artigo com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
@@ -798,7 +745,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 ## CAPÍTULO IX – DA POLÍTICA FEDERAL DE SANEAMENTO BÁSICO
 
 ###### Art. 48 {#art48}
-Tags: #saneamento #ana #reuso-efluente #agua-pluvial #bacia-hidrografica #prioridade
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: inciso III, inciso VII, inciso IX, inciso XII, parágrafo único; incluído: inciso XIII, inciso XIV, inciso XV, inciso XVI, inciso XVII); [[lei-federal-12862-2013|Lei nº 12.862, de 17/9/2013]] (incluído: inciso XII)
 
 **Art. 48, caput** {#art48_cpt} A União, no estabelecimento de sua política de saneamento básico, observará as seguintes diretrizes:
@@ -823,13 +769,11 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 48, parágrafo único** {#art48_par1u} #redacao-alterada As políticas e ações da União de desenvolvimento urbano e regional, de habitação, de combate e erradicação da pobreza, de proteção ambiental, de promoção da saúde, de recursos hídricos e outras de relevante interesse social direcionadas à melhoria da qualidade de vida devem considerar a necessária articulação, inclusive no que se refere ao financiamento e à governança, com o saneamento básico. *(Parágrafo único com redação dada pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 48-A {#art48-a}
-Tags: #esgotamento-sanitario #rede-esgoto
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 48-A, caput** {#art48-a_cpt} #incluido Em programas habitacionais públicos federais ou subsidiados com recursos públicos federais, o sistema de esgotamento sanitário deverá ser interligado à rede existente, ressalvadas as hipóteses do [[#art11-b_par4|§ 4º do art. 11-B desta Lei]]. *(Artigo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 49 {#art49}
-Tags: #saneamento #educacao-ambiental #reuso-efluente #agua-pluvial #comunidade-tradicional #terra-indigena
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: inciso I, inciso II, inciso IV, inciso XII; incluído: inciso XIII, inciso XIV, inciso XV, inciso XVI); [[lei-federal-12862-2013|Lei nº 12.862, de 17/9/2013]] (incluído: inciso XI, inciso XII)
 
 **Art. 49, caput** {#art49_cpt} São objetivos da Política Federal de Saneamento Básico:
@@ -851,7 +795,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 - **Art. 49, caput, inciso XVI** {#art49_cpt_inc16} #incluido priorizar, apoiar e incentivar planos, programas e projetos que visem à implantação e à ampliação dos serviços e das ações de saneamento integrado, nos termos desta Lei. *(Inciso acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 49-A {#art49-a}
-Tags: #agua-pluvial #reuso-urbano #incentivo-reuso
 Alterações: [[lei-federal-14546-2023|Lei nº 14.546, de 4/4/2023]] (incluído: artigo inteiro)
 
 **Art. 49-A, caput** {#art49-a_cpt} #incluido No âmbito da Política Federal de Saneamento Básico, a União estimulará o uso das águas de chuva e o reúso não potável das águas cinzas em novas edificações e nas atividades paisagísticas, agrícolas, florestais e industriais, conforme regulamento.
@@ -863,7 +806,6 @@ Alterações: [[lei-federal-14546-2023|Lei nº 14.546, de 4/4/2023]] (incluído:
 **Art. 49-A, § 3º** {#art49-a_par3} #incluido As águas de chuva e as águas cinzas passarão por processo de tratamento que assegure sua utilização segura, previamente à acumulação e ao uso na edificação. *(Artigo acrescido pela [[lei-federal-14546-2023|Lei nº 14.546, de 4/4/2023]])*
 
 ###### Art. 50 {#art50}
-Tags: #ana #sinisa #seguranca-hidrica #drenagem-urbana #meta
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: inciso I, alínea "a", inciso I, alínea "b", inciso II, § 1º, § 5º; incluído: inciso III, inciso IV, inciso V, inciso VI, inciso VII, inciso VIII, inciso IX, § 8º, § 9º, § 10, § 11); [[lei-federal-14600-2023|Lei nº 14.600, de 19/6/2023]] (nova redação: inciso IV, inciso V); [[lei-federal-15112-2025|Lei nº 15.112, de 17/3/2025]] (incluído: § 13)
 
 **Art. 50, caput** {#art50_cpt} A alocação de recursos públicos federais e os financiamentos com recursos da União ou com recursos geridos ou operados por órgãos ou entidades da União serão feitos em conformidade com as diretrizes e objetivos estabelecidos nos arts. [[#art48|48]] e [[#art49|49]] desta Lei e com os planos de saneamento básico e condicionados:
@@ -909,14 +851,12 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 50, § 13** {#art50_par13} #incluido As condicionantes para alocação de recursos de que tratam os incisos I a IX do caput deste artigo não se aplicam ao componente de drenagem e manejo de águas pluviais urbanas quando destinados a Municípios em situação de emergência ou estado de calamidade pública reconhecidos pelo Poder Executivo federal ou suscetíveis a eventos de enxurradas e inundações, conforme cadastro publicado pelo Poder Executivo, nos termos do regulamento. *(Parágrafo acrescido pela [[lei-federal-15112-2025|Lei nº 15.112, de 17/3/2025]])*
 
 ###### Art. 51 {#art51}
-Tags: #plano-saneamento #audiencia-publica #consulta-publica
 
 **Art. 51, caput** {#art51_cpt} O processo de elaboração e revisão dos planos de saneamento básico deverá prever sua divulgação em conjunto com os estudos que os fundamentarem, o recebimento de sugestões e críticas por meio de consulta ou audiência pública e, quando previsto na legislação do titular, análise e opinião por órgão colegiado criado nos termos do art. 47 desta Lei.
 
 **Art. 51, parágrafo único** {#art51_par1u} A divulgação das propostas dos planos de saneamento básico e dos estudos que as fundamentarem dar-se-á por meio da disponibilização integral de seu teor a todos os interessados, inclusive por meio da internet e por audiência pública.
 
 ###### Art. 52 {#art52}
-Tags: #plano-saneamento #seguranca-hidrica #terra-indigena #quilombola #meta
 Alterações: [[lei-federal-14600-2023|Lei nº 14.600, de 19/6/2023]] (nova redação: caput); [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: inciso I, inciso I, alínea "c", § 1º; incluído: § 1º, inciso III, § 1º, inciso IV, § 1º, inciso V, § 3º); [[lei-federal-13308-2016|Lei nº 13.308, de 6/7/2016]] (nova redação: § 1º, inciso I)
 
 **Art. 52, caput** {#art52_cpt} #redacao-alterada A União elaborará, sob a coordenação do Ministério das Cidades: *(“Caput” do artigo com redação dada pela [[lei-federal-14600-2023|Lei nº 14.600, de 19/6/2023]])*
@@ -940,7 +880,6 @@ Alterações: [[lei-federal-14600-2023|Lei nº 14.600, de 19/6/2023]] (nova reda
 **Art. 52, § 3º** {#art52_par3} #incluido A União estabelecerá, de forma subsidiária aos Estados, blocos de referência para a prestação regionalizada dos serviços públicos de saneamento básico. *(Parágrafo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 53 {#art53}
-Tags: #sinisa
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova redação: § 1º; incluído: § 3º, § 4º, § 5º, § 6º, § 7º); [[lei-federal-14600-2023|Lei nº 14.600, de 19/6/2023]] (nova redação: § 3º, § 4º, § 5º, § 6º)
 
 **Art. 53, caput** {#art53_cpt} Fica instituído o Sistema Nacional de Informações em Saneamento Básico - SINISA, com os objetivos de:
@@ -963,7 +902,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (nova reda
 **Art. 53, § 7º** {#art53_par7} #incluido Os titulares, os prestadores de serviços públicos de saneamento básico e as entidades reguladoras fornecerão as informações a serem inseridas no Sinisa. *(Parágrafo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 53-A {#art53-a}
-Tags: #saneamento
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 53-A, caput** {#art53-a_cpt} #incluido Fica criado o Comitê Interministerial de Saneamento Básico (Cisb), colegiado que, sob a presidência do Ministério do Desenvolvimento Regional, tem a finalidade de assegurar a implementação da política federal de saneamento básico e de articular a atuação dos órgãos e das entidades federais na alocação de recursos financeiros em ações de saneamento básico.
@@ -971,7 +909,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído
 **Art. 53-A, parágrafo único** {#art53-a_par1u} #incluido A composição do Cisb será definida em ato do Poder Executivo federal. *(Artigo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 53-B {#art53-b}
-Tags: #saneamento
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 53-B, caput** {#art53-b_cpt} #incluido Compete ao Cisb:
@@ -982,13 +919,11 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído
 - **Art. 53-B, caput, inciso V** {#art53-b_cpt_inc5} #incluido avaliar e aprovar orientações para a aplicação dos recursos federais em saneamento básico. *(Artigo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 53-C {#art53-c}
-Tags: #saneamento
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 53-C, caput** {#art53-c_cpt} #incluido Regimento interno disporá sobre a organização e o funcionamento do Cisb. *(Artigo acrescido pela [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]])*
 
 ###### Art. 53-D {#art53-d}
-Tags: #regularizacao-fundiaria #esgotamento-sanitario #abastecimento-publico
 Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído: artigo inteiro)
 
 **Art. 53-D, caput** {#art53-d_cpt} #incluido Fica estabelecida como política federal de saneamento básico a execução de obras de infraestrutura básica de esgotamento sanitário e abastecimento de água potável em núcleos urbanos formais, informais e informais consolidados, passíveis de serem objeto de Regularização Fundiária Urbana (Reurb), nos termos da [[lei-federal-13465-2017|Lei nº 13.465, de 11 de julho de 2017]], salvo aqueles que se encontrarem em situação de risco.
@@ -1002,7 +937,6 @@ Alterações: [[lei-federal-14026-2020|Lei nº 14.026, de 15/7/2020]] (incluído
 **Art. 54, caput** {#art54_cpt} (VETADO).
 
 ###### Art. 54-A {#art54-a}
-Tags: #saneamento #incentivo
 Alterações: [[lei-federal-13329-2016|Lei nº 13.329, de 1/8/2016]] (incluído: artigo inteiro)
 
 **Art. 54-A, caput** {#art54-a_cpt} #incluido Fica instituído o Regime Especial de Incentivos para o Desenvolvimento do Saneamento Básico - REISB, com o objetivo de estimular a pessoa jurídica prestadora de serviços públicos de saneamento básico a aumentar seu volume de investimentos por meio da concessão de créditos tributários.
@@ -1010,7 +944,6 @@ Alterações: [[lei-federal-13329-2016|Lei nº 13.329, de 1/8/2016]] (incluído:
 **Art. 54-A, parágrafo único** {#art54-a_par1u} #incluido A vigência do Reisb se estenderá até o ano de 2026. *(Artigo acrescido pela [[lei-federal-13329-2016|Lei nº 13.329, de 1/8/2016]], produzindo efeitos a partir do 2º exercício subsequente à sua vigência)*
 
 ###### Art. 54-B {#art54-b}
-Tags: #incentivo #manancial #unidade-conservacao
 Alterações: [[lei-federal-13329-2016|Lei nº 13.329, de 1/8/2016]] (incluído: artigo inteiro)
 
 **Art. 54-B, caput** {#art54-b_cpt} #incluido É beneficiária do Reisb a pessoa jurídica que realize investimentos voltados para a sustentabilidade e para a eficiência dos sistemas de saneamento básico e em acordo com o Plano Nacional de Saneamento Básico.
@@ -1032,7 +965,6 @@ Alterações: [[lei-federal-13329-2016|Lei nº 13.329, de 1/8/2016]] (incluído:
 **Art. 54-C, caput** {#art54-c_cpt} (VETADO na [[lei-federal-13329-2016|Lei nº 13.329, de 1/8/2016]])
 
 ###### Art. 55 {#art55}
-Tags: #parcelamento-solo
 
 **Art. 55, caput** {#art55_cpt} O [[lei-federal-6766-1979#art2_par5|§ 5º do art. 2º da Lei nº 6.766, de 19 de dezembro de 1979]], passa a vigorar com a seguinte redação:
 
@@ -1047,7 +979,6 @@ Tags: #parcelamento-solo
 **Art. 56, caput** {#art56_cpt} (VETADO)
 
 ###### Art. 57 {#art57}
-Tags: #coleta-seletiva #catador #dispensa-licitacao #residuo-solido-urbano
 
 **Art. 57, caput** {#art57_cpt} O [[lei-federal-8666-1993#art24_cpt_inc27|inciso XXVII do caput do art. 24 da Lei nº 8.666, de 21 de junho de 1993]], passa a vigorar com a seguinte redação:
 
@@ -1058,7 +989,6 @@ Tags: #coleta-seletiva #catador #dispensa-licitacao #residuo-solido-urbano
 > .............................................................................................................." (NR)
 
 ###### Art. 58 {#art58}
-Tags: #saneamento
 
 **Art. 58, caput** {#art58_cpt} O [[lei-federal-8987-1995#art42|art. 42 da Lei nº 8.987, de 13 de fevereiro de 1995]], passa a vigorar com a seguinte redação:
 
@@ -1079,7 +1009,6 @@ Tags: #saneamento
 **Art. 59, caput** {#art59_cpt} (VETADO).
 
 ###### Art. 60 {#art60}
-Tags: #revogacao
 
 **Art. 60, caput** {#art60_cpt} Revoga-se a [[lei-federal-6528-1978|Lei nº 6.528, de 11 de maio de 1978]].
 

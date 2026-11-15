@@ -29,12 +29,10 @@ fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (impres
 **Preâmbulo** {#preambulo} O Diretor Presidente do Instituto Ambiental do Paraná – IAP, nomeado pelo [[decreto-estadual-77-2007|Decreto n° 077, de 12 de fevereiro de 2007]], no uso das atribuições que lhe são conferidas pela [[lei-estadual-10066-1992|Lei Estadual n° 10.066, de 27 de julho de 1992]], com as alterações trazidas pelas Leis n° 11.352, de 13 de fevereiro de 1996 e n° 13.425, de 07 de janeiro de 2002 e de acordo com o seu Regulamento, aprovado pelo [[decreto-estadual-1502-1992|Decreto n° 1.502, de 04 de agosto de 1992]], com alterações posteriores, RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #automonitoramento #emissao-atmosferica #relatorio
 
 **Art. 1º, caput** {#art1_cpt} Aprovar e determinar o cumprimento da Instrução Normativa n° 01/2008 DEPAM/IAP, referentes às diretrizes para apresentação de relatórios de automonitoramento de emissões atmosféricas conforme anexo, abaixo integrante desta Portaria.
 
 ###### Art. 2º {#art2}
-Tags: #vigencia #revogacao
 
 **Art. 2º, caput** {#art2_cpt} Esta Portaria entrará em vigor na data de sua publicação, ficando em conseqüência revogadas as demais disposições em contrário.
 

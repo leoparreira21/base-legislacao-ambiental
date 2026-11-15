@@ -41,7 +41,6 @@ RESOLVE
 
 ###### Art. 1º {#art1}
 
-Tags: #outorga #prazo #prazo #efluente #documentacao
 
 **Art. 1º, caput** {#art1_cpt} Atualizar o Manual Técnico de Outorgas, especificamente o capítulo que trata dos prazos máximos permitidos para cada modalidade de uso através dos documentos de outorga prévia, outorga de direito, declaração de uso independente de outorga e declaração de anuência prévia.
 
@@ -69,7 +68,6 @@ Tags: #outorga #prazo #prazo #efluente #documentacao
 
 ###### Art. 2º {#art2}
 
-Tags: #outorga #prazo #licenciamento-ambiental #prazo #recurso-hidrico #documentacao
 
 **Art. 2º, caput** {#art2_cpt} Os prazos máximos permitidos para cada modalidade poderão ser reduzidos nas seguintes situações:
 
@@ -97,19 +95,16 @@ Tags: #outorga #prazo #licenciamento-ambiental #prazo #recurso-hidrico #document
 
 ###### Art. 3º {#art3}
 
-Tags: #outorga #prazo #prazo #recurso-hidrico #renovacao
 
 **Art. 3º, caput** {#art3_cpt} A vigência da outorga de direito de uso de recursos hídricos para concessionárias de serviços públicos, bem como suas renovações, não poderá ultrapassar o prazo do correspondente contrato de concessão, programa ou ato administrativo de autorização.
 
 ###### Art. 4º {#art4}
 
-Tags: #outorga #prazo
 
 **Art. 4º, caput** {#art4_cpt} A vigência da outorga de direito de uso para aproveitamento de potencial hidrelétrico não poderá ultrapassar a data de encerramento da outorga de concessão ou autorização do potencial de energia hidráulica, expedida pela ANEEL.
 
 ###### Art. 5º {#art5}
 
-Tags: #outorga #prazo
 
 **Art. 5º, caput** {#art5_cpt} Esta Portaria entrará em vigor na data da sua publicação.
 

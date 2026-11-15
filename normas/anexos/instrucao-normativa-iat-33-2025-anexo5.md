@@ -19,27 +19,27 @@ fonte: PDF da IN IAT 33/2025 (assinado digitalmente em 30/05/2025, 69 páginas),
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo V, linha 1** {#anexo5_lin1} #coleta-seletiva 1. Relatório da Situação Atual de Coleta Seletiva
-- **Anexo V, linha 2** {#anexo5_lin2} #educacao-ambiental #reciclagem 1.1. Descrever o programa de educação ambiental que promova a não geração, a redução, a reutilização, a reciclagem e o tratamento de resíduos sólidos.
-- **Anexo V, linha 3** {#anexo5_lin3} #residuo-construcao-civil #residuo-servico-saude #residuo-perigoso #rejeito 1.2. Quantificação e descrição dos resíduos sólidos gerados no município, no que diz respeito aos resíduos recicláveis, resíduos da construção civil, resíduos de serviços da saúde, resíduos perigosos, e rejeitos.
-- **Anexo V, linha 4** {#anexo5_lin4} #coleta-seletiva 1.3. Diagnóstico da eficácia da coleta seletiva e seus resultados, detalhando a quantidade de resíduos recicláveis coletados e a abrangência territorial da coleta seletiva.
-- **Anexo V, linha 5** {#anexo5_lin5} #transbordo 1.4. Identificação das áreas de armazenamento intermediário, estações de transbordo, unidades de processamento e descrição das condições de operacionalidade.
-- **Anexo V, linha 6** {#anexo5_lin6} #destinacao-final 1.5. Identificação das áreas de destinação final dos resíduos gerados.
-- **Anexo V, linha 7** {#anexo5_lin7} #acondicionamento #transbordo #destinacao-final 1.6. Descrição dos procedimentos adotados quanto à segregação, coleta, acondicionamento, armazenamento/transbordo, transporte e destinação final dos resíduos gerados.
+- **Anexo V, linha 1** {#anexo5_lin1} 1. Relatório da Situação Atual de Coleta Seletiva
+- **Anexo V, linha 2** {#anexo5_lin2} 1.1. Descrever o programa de educação ambiental que promova a não geração, a redução, a reutilização, a reciclagem e o tratamento de resíduos sólidos.
+- **Anexo V, linha 3** {#anexo5_lin3} 1.2. Quantificação e descrição dos resíduos sólidos gerados no município, no que diz respeito aos resíduos recicláveis, resíduos da construção civil, resíduos de serviços da saúde, resíduos perigosos, e rejeitos.
+- **Anexo V, linha 4** {#anexo5_lin4} 1.3. Diagnóstico da eficácia da coleta seletiva e seus resultados, detalhando a quantidade de resíduos recicláveis coletados e a abrangência territorial da coleta seletiva.
+- **Anexo V, linha 5** {#anexo5_lin5} 1.4. Identificação das áreas de armazenamento intermediário, estações de transbordo, unidades de processamento e descrição das condições de operacionalidade.
+- **Anexo V, linha 6** {#anexo5_lin6} 1.5. Identificação das áreas de destinação final dos resíduos gerados.
+- **Anexo V, linha 7** {#anexo5_lin7} 1.6. Descrição dos procedimentos adotados quanto à segregação, coleta, acondicionamento, armazenamento/transbordo, transporte e destinação final dos resíduos gerados.
 - **Anexo V, linha 8** {#anexo5_lin8} 1.7. Descrição dos recursos técnicos com identificação dos equipamentos disponíveis, quantificação e qualificação dos profissionais envolvidos.
-- **Anexo V, linha 9** {#anexo5_lin9} #coleta-seletiva #logistica-reversa 1.8. Descrição das formas e dos limites da participação do poder público local na coleta seletiva e na logística reversa e de outras ações relativas à responsabilidade compartilhada pelo ciclo de vida dos produtos.
+- **Anexo V, linha 9** {#anexo5_lin9} 1.8. Descrição das formas e dos limites da participação do poder público local na coleta seletiva e na logística reversa e de outras ações relativas à responsabilidade compartilhada pelo ciclo de vida dos produtos.
 - **Anexo V, linha 10** {#anexo5_lin10} 1.9. Descrição de outras instituições públicas, privadas ou filantrópicas beneficiárias na remoção, transporte e destino final dos resíduos sólidos.
-- **Anexo V, linha 11** {#anexo5_lin11} #reciclagem 1.10. Descrição das formas de incentivo à indústria da reciclagem, tendo em vista fomentar o uso de matérias-primas e insumos derivados de materiais recicláveis e reciclados.
+- **Anexo V, linha 11** {#anexo5_lin11} 1.10. Descrição das formas de incentivo à indústria da reciclagem, tendo em vista fomentar o uso de matérias-primas e insumos derivados de materiais recicláveis e reciclados.
 - **Anexo V, linha 12** {#anexo5_lin12} 1.11. Descrição das formas de articulação entre as diferentes esferas do poder público, e destas com o setor empresarial, com vistas à cooperação técnica e financeira para a gestão integrada de resíduos sólidos.
-- **Anexo V, linha 13** {#anexo5_lin13} #residuo-solido-urbano #aterro-sanitario 2. Plano de Ação para Redução da Quantidade de Resíduos Sólidos Urbanos Encaminhados ao Aterro Sanitário
-- **Anexo V, linha 14** {#anexo5_lin14} #educacao-ambiental #coleta-seletiva 2.1. Estratégias, programas e ações de capacitação técnica e de educação ambiental a serem implementados que garantam a eficácia e operacionalização da coleta seletiva.
-- **Anexo V, linha 15** {#anexo5_lin15} #catador 2.2. Programas e ações para a participação dos grupos interessados, em especial das cooperativas ou outras formas de associação de catadores de materiais reutilizáveis e recicláveis formadas por pessoas físicas de baixa renda, se houver.
+- **Anexo V, linha 13** {#anexo5_lin13} 2. Plano de Ação para Redução da Quantidade de Resíduos Sólidos Urbanos Encaminhados ao Aterro Sanitário
+- **Anexo V, linha 14** {#anexo5_lin14} 2.1. Estratégias, programas e ações de capacitação técnica e de educação ambiental a serem implementados que garantam a eficácia e operacionalização da coleta seletiva.
+- **Anexo V, linha 15** {#anexo5_lin15} 2.2. Programas e ações para a participação dos grupos interessados, em especial das cooperativas ou outras formas de associação de catadores de materiais reutilizáveis e recicláveis formadas por pessoas físicas de baixa renda, se houver.
 - **Anexo V, linha 16** {#anexo5_lin16} 2.3. Mecanismos para a criação de fontes de negócios, emprego e renda, mediante a valorização dos resíduos sólidos.
-- **Anexo V, linha 17** {#anexo5_lin17} #meta #reciclagem 2.4. Metas de redução, reutilização, reciclagem, tratamento entre outras, com vistas a reduzir a quantidade de resíduos encaminhados para disposição final.
+- **Anexo V, linha 17** {#anexo5_lin17} 2.4. Metas de redução, reutilização, reciclagem, tratamento entre outras, com vistas a reduzir a quantidade de resíduos encaminhados para disposição final.
 - **Anexo V, linha 18** {#anexo5_lin18} 2.5. Ações preventivas direcionadas à minimização da geração de resíduos e ao controle do impacto ambiental.
-- **Anexo V, linha 19** {#anexo5_lin19} #educacao-ambiental #coleta-seletiva #logistica-reversa 2.6. Ações educativas voltadas aos fabricantes, importadores, comerciantes e distribuidores, com enfoque diferenciado para os agentes envolvidos direta e indiretamente com os sistemas de coleta seletiva e logística reversa.
-- **Anexo V, linha 20** {#anexo5_lin20} #educacao-ambiental #consumo-sustentavel 2.7. Ações educativas voltadas à conscientização dos consumidores com relação ao consumo sustentável e às suas responsabilidades no âmbito da responsabilidade compartilhada de que trata a [[lei-federal-12305-2010|Lei nº 12.305, de 2010]];
-- **Anexo V, linha 21** {#anexo5_lin21} #coleta-seletiva #logistica-reversa 2.8. Formas de divulgação dos conceitos relacionados à coleta seletiva, a logística reversa, ao consumo consciente e a minimização da geração de resíduos sólidos com vistas à utilização racional dos recursos ambientais, ao combate a todas as formas de desperdício e à minimização da geração de resíduos sólidos
+- **Anexo V, linha 19** {#anexo5_lin19} 2.6. Ações educativas voltadas aos fabricantes, importadores, comerciantes e distribuidores, com enfoque diferenciado para os agentes envolvidos direta e indiretamente com os sistemas de coleta seletiva e logística reversa.
+- **Anexo V, linha 20** {#anexo5_lin20} 2.7. Ações educativas voltadas à conscientização dos consumidores com relação ao consumo sustentável e às suas responsabilidades no âmbito da responsabilidade compartilhada de que trata a [[lei-federal-12305-2010|Lei nº 12.305, de 2010]];
+- **Anexo V, linha 21** {#anexo5_lin21} 2.8. Formas de divulgação dos conceitos relacionados à coleta seletiva, a logística reversa, ao consumo consciente e a minimização da geração de resíduos sólidos com vistas à utilização racional dos recursos ambientais, ao combate a todas as formas de desperdício e à minimização da geração de resíduos sólidos
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

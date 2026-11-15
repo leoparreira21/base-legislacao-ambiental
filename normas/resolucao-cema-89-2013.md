@@ -39,14 +39,12 @@ fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé tra
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #empreendimento-rodoviario #utilidade-publica #prazo
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer prazos de validade e de renovação diferenciados para o Licenciamento Ambiental de Empreendimentos Rodoviários considerados de utilidade pública, objetivando compatibilizar a natureza dos mesmos aos prazos de execução.
 
 **Art. 1º, parágrafo único** {#art1_par1u} Os prazos estabelecidos nessa Resolução são válidos para empreendimentos licenciados pelos órgãos ambientais, estaduais e municipais.
 
 ###### Art. 2º {#art2}
-Tags: #prazo #licenca-previa #licenca-instalacao #licenca-operacao #empreendimento-rodoviario
 
 **Art. 2º, caput** {#art2_cpt} Os prazos de validade para renovação passam a ser:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} Dispensa de Licenciamento Ambiental Estadual – DLAE, tendo validade de 06 anos e não passível de renovação.
@@ -58,7 +56,6 @@ Tags: #prazo #licenca-previa #licenca-instalacao #licenca-operacao #empreendimen
 - **Art. 2º, caput, inciso VII** {#art2_cpt_inc7} Autorização Florestal – AF, tendo como validade de 02 anos e passível de renovação uma única vez pelo mesmo período.
 
 ###### Art. 3º {#art3}
-Tags: #vigencia #revogacao
 
 **Art. 3º, caput** {#art3_cpt} Esta Resolução entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

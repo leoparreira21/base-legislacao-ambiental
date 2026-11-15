@@ -32,14 +32,12 @@ fonte: "Planalto (Presidência da República – Casa Civil), impressão do nave
 ## TÍTULO I – DISPOSIÇÕES PRELIMINARES
 
 ###### Art. 1º {#art1}
-Tags: #saneamento #pnrs #pnma
 
 **Art. 1º, caput** {#art1_cpt} Este Decreto regulamenta a Política Nacional de Resíduos Sólidos, instituída pela [[lei-federal-12305-2010|Lei nº 12.305, de 2 de agosto de 2010]].
 
 **Art. 1º, parágrafo único** {#art1_par1u} A Política Nacional de Resíduos Sólidos integra a Política Nacional do Meio Ambiente e articula-se com as diretrizes nacionais para o saneamento básico e com a política federal de saneamento básico, nos termos do disposto na [[lei-federal-11445-2007|Lei nº 11.445, de 5 de janeiro de 2007]].
 
 ###### Art. 2º {#art2}
-Tags: #ambito-aplicacao
 
 **Art. 2º, caput** {#art2_cpt} O disposto neste Decreto aplica-se às pessoas físicas ou jurídicas, de direito público ou privado:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} responsáveis, direta ou indiretamente, pela geração de resíduos sólidos; e
@@ -50,21 +48,18 @@ Tags: #ambito-aplicacao
 ### CAPÍTULO I – DISPOSIÇÕES GERAIS
 
 ###### Art. 3º {#art3}
-Tags: #servico-limpeza-urbana #fabricante #responsabilidade
 
 **Art. 3º, caput** {#art3_cpt} Os fabricantes, os importadores, os distribuidores, os comerciantes, os consumidores e os titulares dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos são responsáveis pelo ciclo de vida dos produtos.
 
 **Art. 3º, parágrafo único** {#art3_par1u} A responsabilidade compartilhada será implementada de forma individualizada e encadeada.
 
 ###### Art. 4º {#art4}
-Tags: #coleta-seletiva #logistica-reversa #reciclagem
 
 **Art. 4º, caput** {#art4_cpt} Na hipótese de haver sistema de coleta seletiva estabelecida pelo plano municipal de gestão integrada de resíduos sólidos ou sistema de logística reversa a que se refere o [[#art18|art. 18]], o consumidor deverá:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} acondicionar adequadamente e de forma diferenciada os resíduos sólidos gerados; e
 - **Art. 4º, caput, inciso II** {#art4_cpt_inc2} disponibilizar adequadamente os resíduos sólidos reutilizáveis e recicláveis para coleta ou para devolução.
 
 ###### Art. 5º {#art5}
-Tags: #servico-limpeza-urbana #destinacao-final
 
 **Art. 5º, caput** {#art5_cpt} O disposto no [[#art4|art. 4º]] não isenta o consumidor de observar as regras previstas na legislação do titular do serviço público de limpeza urbana e manejo de resíduos sólidos referentes:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} ao acondicionamento;
@@ -72,12 +67,10 @@ Tags: #servico-limpeza-urbana #destinacao-final
 - **Art. 5º, caput, inciso III** {#art5_cpt_inc3} à destinação final dos resíduos.
 
 ###### Art. 6º {#art6}
-Tags: #poder-publico #responsabilidade
 
 **Art. 6º, caput** {#art6_cpt} O Poder Público, o setor empresarial e a sociedade são responsáveis pela efetividade das ações destinadas a assegurar a observância à Política Nacional de Resíduos Sólidos e ao disposto na [[lei-federal-12305-2010|Lei nº 12.305, de 2010]], e neste Decreto.
 
 ###### Art. 7º {#art7}
-Tags: #embalagem #fabricante
 
 **Art. 7º, caput** {#art7_cpt} O disposto no [[lei-federal-12305-2010#art32|art. 32 da Lei nº 12.305, de 2010]], não se aplica às embalagens de produtos destinados à exportação.
 
@@ -86,7 +79,6 @@ Tags: #embalagem #fabricante
 ### CAPÍTULO II – DA COLETA SELETIVA
 
 ###### Art. 8º {#art8}
-Tags: #coleta-seletiva #servico-limpeza-urbana #rejeito #gerador
 
 **Art. 8º, caput** {#art8_cpt} A coleta seletiva será realizada em conformidade com as determinações dos titulares do serviço público de limpeza urbana e de manejo de resíduos sólidos, por meio da segregação prévia dos referidos resíduos, de acordo com sua constituição ou sua composição.
 
@@ -97,17 +89,14 @@ Tags: #coleta-seletiva #servico-limpeza-urbana #rejeito #gerador
 **Art. 8º, § 2º** {#art8_par2} Para fins do disposto neste artigo, os geradores de resíduos sólidos deverão segregá-los e disponibilizá-los adequadamente, na forma estabelecida pelo titular do serviço público de limpeza urbana e de manejo de resíduos sólidos.
 
 ###### Art. 9º {#art9}
-Tags: #coleta-seletiva #servico-limpeza-urbana
 
 **Art. 9º, caput** {#art9_cpt} Os titulares do serviço público de limpeza urbana e de manejo de resíduos sólidos, em sua área de abrangência, estabelecerão os procedimentos para o acondicionamento adequado e para a disponibilização dos resíduos sólidos objeto da coleta seletiva.
 
 ###### Art. 10 {#art10}
-Tags: #coleta-seletiva #catador #reciclagem
 
 **Art. 10, caput** {#art10_cpt} O sistema de coleta seletiva de resíduos sólidos priorizará a participação de cooperativas ou de outras formas de associação de catadores de materiais reutilizáveis e recicláveis constituídas por pessoas físicas de baixa renda.
 
 ###### Art. 11 {#art11}
-Tags: #coleta-seletiva #logistica-reversa
 
 **Art. 11, caput** {#art11_cpt} A coleta seletiva será implementada sem prejuízo da implementação e operacionalização de sistemas de logística reversa.
 
@@ -116,7 +105,6 @@ Tags: #coleta-seletiva #logistica-reversa
 #### Seção I – Do Programa Nacional de Logística Reversa
 
 ###### Art. 12 {#art12}
-Tags: #logistica-reversa #plano-nacional-residuos #sinir #pnrs
 
 **Art. 12, caput** {#art12_cpt} Fica instituído o Programa Nacional de Logística Reversa, integrado ao Sistema Nacional de Informações Sobre a Gestão dos Resíduos Sólidos - Sinir e ao Plano Nacional de Resíduos Sólidos - Planares.
 
@@ -129,12 +117,10 @@ Tags: #logistica-reversa #plano-nacional-residuos #sinir #pnrs
 **Art. 12, § 3º** {#art12_par3} Ato do Ministério do Meio Ambiente estabelecerá os critérios e as diretrizes do Programa Nacional de Logística Reversa.
 
 ###### Art. 13 {#art13}
-Tags: #logistica-reversa #destinacao-final
 
 **Art. 13, caput** {#art13_cpt} A logística reversa é instrumento de desenvolvimento econômico e social caracterizado pelo conjunto de ações, de procedimentos e de meios destinados a viabilizar a coleta e a restituição dos resíduos sólidos ao setor empresarial, para reaproveitamento, em seu ciclo ou em outros ciclos produtivos, ou para outra destinação final ambientalmente adequada.
 
 ###### Art. 14 {#art14}
-Tags: #logistica-reversa #catador #reciclagem #embalagem #fabricante
 
 **Art. 14, caput** {#art14_cpt} Os fabricantes, os importadores, os distribuidores e os comerciantes dos produtos a que se referem os [[lei-federal-12305-2010#art33_cpt_inc2|incisos II, III, V e VI do caput do art. 33 da Lei nº 12.305, de 2010]], e dos produtos e das embalagens de que tratam [[lei-federal-12305-2010#art33_cpt_inc1|os incisos I e IV do caput e o § 1º do art. 33 da referida Lei]] deverão:
 - **Art. 14, caput, inciso I** {#art14_cpt_inc1} estruturar, implementar e operar os sistemas de logística reversa, por meio do retorno dos produtos e das embalagens após o uso pelo consumidor; e
@@ -156,7 +142,6 @@ Tags: #logistica-reversa #catador #reciclagem #embalagem #fabricante
 **Art. 14, § 7º** {#art14_par7} A empresa importadora terceirizada incluirá na declaração de importação, para as autoridades competentes, a informação do responsável por estruturar, implementar e operacionalizar o sistema de logística reversa do importador, conforme definido em contrato, na forma prevista no § 4º.
 
 ###### Art. 15 {#art15}
-Tags: #logistica-reversa #sinir #mtr
 
 **Art. 15, caput** {#art15_cpt} Os sistemas de logística reversa deverão ser integrados ao Sinir, no prazo de cento e oitenta dias, contado da data de publicação deste Decreto.
 
@@ -169,19 +154,16 @@ Tags: #logistica-reversa #sinir #mtr
 **Art. 15, § 3º** {#art15_par3} Ato do Ministro de Estado do Meio Ambiente poderá definir as normas e os critérios para atendimento ao disposto neste artigo.
 
 ###### Art. 16 {#art16}
-Tags: #logistica-reversa #sisnama
 
 **Art. 16, caput** {#art16_cpt} A fiscalização do cumprimento das obrigações previstas em instrumentos de logística reversa caberá aos órgãos executores, seccionais e locais do Sistema Nacional do Meio Ambiente - Sisnama, estabelecidos pela [[lei-federal-6938-1981|Lei nº 6.938, de 31 de agosto de 1981]], e pelos seus regulamentos, sem prejuízo do exercício das competências de outros órgãos e entidades públicos.
 
 ###### Art. 17 {#art17}
-Tags: #logistica-reversa #embalagem #agrotoxico
 
 **Art. 17, caput** {#art17_cpt} O sistema de logística reversa de agrotóxicos, seus resíduos e suas embalagens, observará o disposto em legislação específica sobre a matéria.
 
 #### Seção II – Dos instrumentos e da forma de implantação da logística reversa
 
 ###### Art. 18 {#art18}
-Tags: #logistica-reversa #fabricante #educacao-ambiental #residuo-perigoso #poder-publico #termo-compromisso
 
 **Art. 18, caput** {#art18_cpt} Os sistemas de logística reversa serão implementados e operacionalizados por meio dos seguintes instrumentos:
 - **Art. 18, caput, inciso I** {#art18_cpt_inc1} acordos setoriais;
@@ -209,7 +191,6 @@ Tags: #logistica-reversa #fabricante #educacao-ambiental #residuo-perigoso #pode
 **Art. 18, § 3º** {#art18_par3} Os instrumentos de que trata o caput serão avaliados com, no mínimo, cento e oitenta dias de antecedência quanto ao prazo estabelecido no instrumento ou em termo aditivo correspondente.
 
 ###### Art. 19 {#art19}
-Tags: #fabricante
 
 **Art. 19, caput** {#art19_cpt} Os instrumentos de que trata o [[#art18|art. 18]] estabelecidos:
 - **Art. 19, caput, inciso I** {#art19_cpt_inc1} em âmbito nacional prevalecem sobre os firmados em âmbito regional, distrital ou estadual; e
@@ -219,7 +200,6 @@ Tags: #fabricante
 - **Art. 19, parágrafo único, inciso II** {#art19_par1u_inc2} devem ser compatíveis com as normas previstas em acordos setoriais, regulamentos e termos de compromisso estabelecidos com maior abrangência geográfica.
 
 ###### Art. 20 {#art20}
-Tags: #logistica-reversa #embalagem
 
 **Art. 20, caput** {#art20_cpt} Os sistemas de logística reversa serão estendidos, por meio da utilização dos instrumentos previstos no [[#art18|art. 18]], aos:
 - **Art. 20, caput, inciso I** {#art20_cpt_inc1} produtos comercializados em embalagens plásticas, metálicas ou de vidro; e
@@ -236,12 +216,10 @@ Tags: #logistica-reversa #embalagem
 ##### Subseção I – Dos acordos setoriais
 
 ###### Art. 21 {#art21}
-Tags: #fabricante #poder-publico #responsabilidade
 
 **Art. 21, caput** {#art21_cpt} Os acordos setoriais a que se refere [[#art18_cpt_inc1|o inciso I do caput do art. 18]] são atos de natureza contratual, firmados entre o Poder Público e os fabricantes, os importadores, os distribuidores ou os comerciantes, com vistas à implantação da responsabilidade compartilhada pelo ciclo de vida do produto.
 
 ###### Art. 22 {#art22}
-Tags: #logistica-reversa #embalagem #fabricante #termo-compromisso
 
 **Art. 22, caput** {#art22_cpt} A implementação ou o aprimoramento de sistema de logística reversa por meio de acordo setorial de âmbito nacional observará o seguinte procedimento:
 - **Art. 22, caput, inciso I** {#art22_cpt_inc1} apresentação de proposta formal pelos fabricantes, pelos importadores, pelos distribuidores ou pelos comerciantes dos produtos e das embalagens a que se refere o [[#art14|art. 14]], ao Ministério do Meio Ambiente, com as informações estabelecidas [[#art18_par1|no § 1º do art. 18]] e os documentos de que trata o § 2º do referido artigo;
@@ -255,12 +233,10 @@ Tags: #logistica-reversa #embalagem #fabricante #termo-compromisso
 ##### Subseção II – Do regulamento
 
 ###### Art. 23 {#art23}
-Tags: #logistica-reversa
 
 **Art. 23, caput** {#art23_cpt} A logística reversa poderá ser implementada ou aprimorada diretamente por meio de regulamento editado pelo Poder Executivo.
 
 ###### Art. 24 {#art24}
-Tags: #logistica-reversa #fabricante
 
 **Art. 24, caput** {#art24_cpt} A implementação ou o aprimoramento de sistema de logística reversa por meio de regulamento editado pelo Poder Executivo federal observará o seguinte procedimento:
 - **Art. 24, caput, inciso I** {#art24_cpt_inc1} elaboração de proposta de regulamento pelo Ministério do Meio Ambiente, com as informações estabelecidas [[#art18_par1|no § 1º do art. 18]];
@@ -276,14 +252,12 @@ Tags: #logistica-reversa #fabricante
 ##### Subseção III – Dos termos de compromisso
 
 ###### Art. 25 {#art25}
-Tags: #logistica-reversa #fabricante #poder-publico #termo-compromisso
 
 **Art. 25, caput** {#art25_cpt} O Poder Público poderá firmar os termos de compromisso de que trata [[#art18_cpt_inc3|o inciso III do caput art. 18]] com os fabricantes, os importadores, os distribuidores ou os comerciantes a que se refere o [[#art14|art. 14]], com vistas ao estabelecimento de sistema de logística reversa:
 - **Art. 25, caput, inciso I** {#art25_cpt_inc1} nas hipóteses em que não houver, na mesma área de abrangência, o acordo setorial ou o regulamento específico de que trata o [[#art18|art. 18]], nos termos do disposto neste Decreto; ou
 - **Art. 25, caput, inciso II** {#art25_cpt_inc2} para o estabelecimento de compromissos e metas mais exigentes do que aqueles previstos no acordo setorial ou no regulamento de que trata o [[#art18|art. 18]].
 
 ###### Art. 26 {#art26}
-Tags: #logistica-reversa #embalagem #fabricante #termo-compromisso
 
 **Art. 26, caput** {#art26_cpt} A implementação ou o aprimoramento de sistema de logística reversa por meio de termo de compromisso de âmbito nacional observará o seguinte procedimento:
 - **Art. 26, caput, inciso I** {#art26_cpt_inc1} apresentação de proposta formal pelos fabricantes, pelos importadores, pelos distribuidores ou pelos comerciantes dos produtos e das embalagens a que se refere o [[#art14|art. 14]], ao Ministério do Meio Ambiente, com as informações estabelecidas [[#art18_par1|no § 1º do art. 18]] e os documentos de que trata o § 2º do referido artigo;
@@ -297,12 +271,10 @@ Tags: #logistica-reversa #embalagem #fabricante #termo-compromisso
 ##### Subseção IV – Da isonomia
 
 ###### Art. 27 {#art27}
-Tags: #logistica-reversa #embalagem #fabricante
 
 **Art. 27, caput** {#art27_cpt} Fica assegurada a isonomia na fiscalização e no cumprimento das obrigações imputadas aos fabricantes, aos importadores, aos distribuidores e aos comerciantes de produtos, de seus resíduos e de suas embalagens sujeitos à logística reversa obrigatória.
 
 ###### Art. 28 {#art28}
-Tags: #logistica-reversa #embalagem #fabricante #termo-compromisso
 
 **Art. 28, caput** {#art28_cpt} Os fabricantes, os importadores, os distribuidores e os comerciantes de produtos, de seus resíduos e de suas embalagens aos quais se refere o [[lei-federal-12305-2010#art33_cpt|caput do art. 33 da Lei nº 12.305, de 2 de agosto de 2010]], e de outros produtos, de seus resíduos ou de suas embalagens que sejam objeto de logística reversa na forma prevista no § 1º do referido artigo, não signatários de acordo setorial ou termo de compromisso firmado com a União deverão estruturar e implementar sistemas de logística reversa, consideradas as obrigações imputáveis aos signatários e aos aderentes de acordo setorial ou ao termo de compromisso firmado com a União.
 
@@ -313,14 +285,12 @@ Tags: #logistica-reversa #embalagem #fabricante #termo-compromisso
 **Art. 28, § 2º** {#art28_par2} Eventual revisão dos termos e das condições previstos em acordo setorial ou em termo de compromisso firmado com a União, consubstanciada em termos aditivos e que altere as obrigações de que trata este artigo, será atendida pelos fabricantes, pelos importadores, pelos distribuidores e pelos comerciantes a que se refere o caput.
 
 ###### Art. 29 {#art29}
-Tags: #termo-compromisso #sancao
 
 **Art. 29, caput** {#art29_cpt} Na hipótese de descumprimento das obrigações previstas em acordo setorial ou em termo de compromisso de que trata o [[#art18|art. 18]], inclusive daquelas decorrentes do disposto no [[#art28|art. 28]], serão aplicadas aos signatários, aos aderentes e aos não signatários as penalidades previstas na legislação ambiental.
 
 ## TÍTULO III – DAS DIRETRIZES APLICÁVEIS À GESTÃO E AO GERENCIAMENTO DOS RESÍDUOS SÓLIDOS
 
 ###### Art. 30 {#art30}
-Tags: #servico-limpeza-urbana #reciclagem #rejeito #disposicao-final
 
 **Art. 30, caput** {#art30_cpt} Na gestão e no gerenciamento de resíduos sólidos, será observada a seguinte ordem de prioridade:
 - **Art. 30, caput, inciso I** {#art30_cpt_inc1} não geração de resíduos sólidos;
@@ -334,19 +304,16 @@ Tags: #servico-limpeza-urbana #reciclagem #rejeito #disposicao-final
 **Art. 30, § 2º** {#art30_par2} Na gestão e no gerenciamento de resíduos sólidos, serão incentivados o desenvolvimento científico e tecnológico, a inovação e o empreendedorismo, de forma a desenvolver a cadeia de valor dos resíduos sólidos.
 
 ###### Art. 31 {#art31}
-Tags: #residuo-solido-urbano #recuperacao-energetica
 
 **Art. 31, caput** {#art31_cpt} A recuperação energética dos resíduos sólidos urbanos a que se refere o [[lei-federal-12305-2010#art9_par1|§ 1º do art. 9º da Lei nº 12.305, de 2010]], qualificados nos termos do disposto na [[lei-federal-12305-2010#art13_cpt_inc1_alic|alínea “c” do inciso I do caput do art. 13 da referida Lei]], será disciplinada, de forma específica, em ato conjunto dos Ministros de Estado do Meio Ambiente, de Minas e Energia e do Desenvolvimento Regional.
 
 **Art. 31, parágrafo único** {#art31_par1u} O disposto neste artigo não se aplica ao aproveitamento energético dos gases gerados na biodigestão e na decomposição da matéria orgânica dos resíduos sólidos urbanos em aterros sanitários.
 
 ###### Art. 32 {#art32}
-Tags: #sisnama #snvs #municipio
 
 **Art. 32, caput** {#art32_cpt} Compete ao Distrito Federal e aos Municípios a gestão integrada de resíduos sólidos gerados em seus territórios, sem prejuízo do exercício das competências de controle e de fiscalização dos órgãos federais e estaduais do Sisnama, do Sistema Nacional de Vigilância Sanitária - SNVS e do Sistema Unificado de Atenção à Sanidade Agropecuária - Suasa e da responsabilidade do gerador pelo gerenciamento de resíduos, nos termos do disposto na [[lei-federal-12305-2010|Lei nº 12.305, de 2010]].
 
 ###### Art. 33 {#art33}
-Tags: #servico-limpeza-urbana #sisnama #licenciamento-ambiental #destinacao-final #gerador #consorcio-publico #microrregiao
 
 **Art. 33, caput** {#art33_cpt} Observado o disposto na [[lei-federal-12305-2010|Lei nº 12.305, de 2010]], e neste Decreto, compete aos Estados e ao Distrito Federal:
 - **Art. 33, caput, inciso I** {#art33_cpt_inc1} promover a integração da organização, do planejamento e da execução das funções públicas de interesse comum relacionadas à gestão dos resíduos sólidos nas regiões metropolitanas, aglomerações urbanas e microrregiões, nos termos do disposto na lei complementar a que se refere o [[constituicao-federal-1988#art25_par3|§ 3º do art. 25 da Constituição]];
@@ -354,12 +321,10 @@ Tags: #servico-limpeza-urbana #sisnama #licenciamento-ambiental #destinacao-fina
 - **Art. 33, caput, inciso III** {#art33_cpt_inc3} incentivar a regionalização dos serviços de limpeza urbana e de manejo de resíduos sólidos, por meio de consórcios públicos e arranjos de prestação regionalizada, nos termos do disposto no [[lei-federal-11445-2007#art3_cpt_inc6|inciso VI do caput do art. 3º da Lei nº 11.445, de 2007]], principalmente quanto à implantação de unidades regionalizadas, que atendam a mais de um Município, para a destinação final ambientalmente adequada de resíduos em seu território.
 
 ###### Art. 34 {#art34}
-Tags: #residuo-perigoso #gerador
 
 **Art. 34, caput** {#art34_cpt} Os geradores de resíduos sólidos deverão adotar medidas que promovam a redução da geração dos resíduos, principalmente dos resíduos perigosos, na forma prevista nos planos de resíduos sólidos de que trata o [[#art44|art. 44]] e a legislação aplicável.
 
 ###### Art. 35 {#art35}
-Tags: #sisnama #snvs
 
 **Art. 35, caput** {#art35_cpt} Observará o estabelecido nas normas do Sisnama, do SNVS e do Suasa o gerenciamento:
 - **Art. 35, caput, inciso I** {#art35_cpt_inc1} de resíduos sólidos presumidamente veiculadores de agentes etiológicos de doenças transmissíveis ou de pragas;
@@ -369,7 +334,6 @@ Tags: #sisnama #snvs
 ## TÍTULO IV – DA PARTICIPAÇÃO DOS CATADORES DE MATERIAIS RECICLÁVEIS E REUTILIZÁVEIS
 
 ###### Art. 36 {#art36}
-Tags: #coleta-seletiva #logistica-reversa #catador #reciclagem
 
 **Art. 36, caput** {#art36_cpt} O sistema de coleta seletiva de resíduos sólidos priorizará a participação de cooperativas ou de outras formas de associação de catadores de materiais reutilizáveis e recicláveis, constituídas por pessoas físicas de baixa renda, com vistas:
 - **Art. 36, caput, inciso I** {#art36_cpt_inc1} à formalização da contratação;
@@ -379,17 +343,14 @@ Tags: #coleta-seletiva #logistica-reversa #catador #reciclagem
 **Art. 36, parágrafo único** {#art36_par1u} A participação de cooperativas ou de outras formas de associação de catadores de materiais reutilizáveis e de recicláveis em sistemas de logística reversa observará o disposto [[#art14_par3|no § 3º do art. 14]].
 
 ###### Art. 37 {#art37}
-Tags: #catador #pmgirs #reciclagem
 
 **Art. 37, caput** {#art37_cpt} Os planos municipais de gestão integrada de resíduos sólidos definirão programas e ações para a participação dos grupos interessados, em especial das cooperativas ou de outras formas de associação de catadores de materiais reutilizáveis e recicláveis constituídas por pessoas físicas de baixa renda.
 
 ###### Art. 38 {#art38}
-Tags: #catador #pgrs #reciclagem
 
 **Art. 38, caput** {#art38_cpt} As ações desenvolvidas pelas cooperativas ou por outras formas de associação de catadores de materiais reutilizáveis e recicláveis, no âmbito do gerenciamento de resíduos sólidos das atividades a que se refere [[lei-federal-12305-2010#art20|o art. 20 da Lei nº 12.305, de 2010]], deverão estar descritas, quando couber, nos planos de gerenciamento de resíduos sólidos.
 
 ###### Art. 39 {#art39}
-Tags: #catador #reciclagem #vigencia
 
 **Art. 39, caput** {#art39_cpt} As políticas públicas destinadas aos catadores de materiais reutilizáveis e recicláveis deverão observar:
 - **Art. 39, caput, inciso I** {#art39_cpt_inc1} a possibilidade de dispensa de licitação, nos termos do disposto no [[lei-federal-8666-1993#art24_cpt_inc27|inciso XXVII do caput do art. 24 da Lei nº 8.666, de 21 de junho de 1993]], enquanto estiver em vigor, e na [[lei-federal-14133-2021#art75_cpt_inc4_alij|alínea “j” do inciso IV do caput do art. 75 da Lei nº 14.133, de 1º de abril de 2021]], para a contratação de cooperativas ou de associações de catadores de materiais reutilizáveis e recicláveis;
@@ -402,7 +363,6 @@ Tags: #catador #reciclagem #vigencia
 **Art. 39, parágrafo único** {#art39_par1u} Para fins do disposto nos incisos II e III do caput, poderão ser firmados contratos, convênios ou outros instrumentos congêneres com pessoas jurídicas de direito público ou privado que atuem na criação e no desenvolvimento de cooperativas ou de outras formas de associação de catadores de materiais reutilizáveis e recicláveis, observada a legislação aplicável.
 
 ###### Art. 40 {#art40}
-Tags: #catador #sinir #reciclagem
 
 **Art. 40, caput** {#art40_cpt} Fica instituído o Programa Coleta Seletiva Cidadã, por meio do qual os órgãos e as entidades da administração pública federal, direta e indireta, deverão:
 - **Art. 40, caput, inciso I** {#art40_cpt_inc1} separar os resíduos reutilizáveis e recicláveis; e
@@ -414,12 +374,10 @@ Tags: #catador #sinir #reciclagem
 - **Art. 40, parágrafo único, inciso IV** {#art40_par1u_inc4} estejam regularmente cadastradas e habilitadas no Sinir.
 
 ###### Art. 41 {#art41}
-Tags: #catador #sinir #termo-compromisso
 
 **Art. 41, caput** {#art41_cpt} Caberá aos órgãos e às entidades da administração pública federal, direta e indireta, realizar os procedimentos necessários para a seleção de associações e de cooperativas cadastradas no Sinir, observado o disposto na legislação, com vistas a firmar termo de compromisso.
 
 ###### Art. 42 {#art42}
-Tags: #catador #sinir #reciclagem #destinacao-final
 
 **Art. 42, caput** {#art42_cpt} As associações e as cooperativas de catadores de materiais recicláveis deverão realizar a destinação final ambientalmente adequada dos resíduos não reaproveitados para reutilização ou reciclagem.
 
@@ -428,7 +386,6 @@ Tags: #catador #sinir #reciclagem #destinacao-final
 - **Art. 42, parágrafo único, inciso II** {#art42_par1u_inc2} a impossibilidade de participação no Programa Coleta Seletiva Cidadã, sem prejuízo da aplicação das sanções previstas na legislação.
 
 ###### Art. 43 {#art43}
-Tags: #catador #reciclagem
 
 **Art. 43, caput** {#art43_cpt} O Ministério do Meio Ambiente adotará as medidas complementares necessárias à execução do Programa Coleta Seletiva Cidadã, com vistas a fomentar a melhoria das condições de trabalho, incluídas:
 - **Art. 43, caput, inciso I** {#art43_cpt_inc1} a formalização da contratação;
@@ -440,7 +397,6 @@ Tags: #catador #reciclagem
 ### CAPÍTULO I – DISPOSIÇÕES GERAIS
 
 ###### Art. 44 {#art44}
-Tags: #pgrs #plano-nacional-residuos #pmgirs #microrregiao #regiao-metropolitana
 
 **Art. 44, caput** {#art44_cpt} São planos de resíduos sólidos:
 - **Art. 44, caput, inciso I** {#art44_cpt_inc1} o Plano Nacional de Resíduos Sólidos;
@@ -456,14 +412,12 @@ Tags: #pgrs #plano-nacional-residuos #pmgirs #microrregiao #regiao-metropolitana
 #### Seção I – Do Plano Nacional de Resíduos Sólidos
 
 ###### Art. 45 {#art45}
-Tags: #plano-nacional-residuos
 
 **Art. 45, caput** {#art45_cpt} O Plano Nacional de Resíduos Sólidos será elaborado pela União, sob a coordenação do Ministério do Meio Ambiente, vigerá por prazo indeterminado e terá horizonte de vinte anos.
 
 **Art. 45, parágrafo único** {#art45_par1u} O plano de que trata o caput será atualizado a cada quatro anos.
 
 ###### Art. 46 {#art46}
-Tags: #plano-nacional-residuos #multa
 
 **Art. 46, caput** {#art46_cpt} A elaboração do Plano Nacional de Resíduos Sólidos considerará o conteúdo mínimo estabelecido no [[lei-federal-12305-2010#art15|art. 15 da Lei nº 12.305, de 2010]], e observará o seguinte procedimento:
 - **Art. 46, caput, inciso I** {#art46_cpt_inc1} formulação e divulgação da proposta preliminar;
@@ -480,14 +434,12 @@ Tags: #plano-nacional-residuos #multa
 - **Art. 46, caput, inciso VI** {#art46_cpt_inc6} encaminhamento, pelo Ministro de Estado do Meio Ambiente, ao Presidente da República, da proposta de decreto que aprova o Plano Nacional de Resíduos Sólidos.
 
 ###### Art. 47 {#art47}
-Tags: #plano-nacional-residuos #conama
 
 **Art. 47, caput** {#art47_cpt} Após a publicação do plano nacional de resíduos sólidos, o Ministério do Meio Ambiente encaminhará ao Conselho Nacional do Meio Ambiente - Conama o relatório anual sobre a implementação do Plano Nacional de Resíduos Sólidos.
 
 **Art. 47, parágrafo único** {#art47_par1u} Caberá ao Conama monitorar a execução do Plano Nacional de Resíduos Sólidos e sugerir os aperfeiçoamentos necessários, consideradas as informações do relatório a que se refere o caput.
 
 ###### Art. 48 {#art48}
-Tags: #plano-nacional-residuos #multa
 
 **Art. 48, caput** {#art48_cpt} Nos termos do disposto no [[#art45|art. 45]], as atualizações do Plano Nacional de Resíduos Sólidos observarão o seguinte procedimento:
 - **Art. 48, caput, inciso I** {#art48_cpt_inc1} formulação e divulgação da proposta preliminar;
@@ -499,7 +451,6 @@ Tags: #plano-nacional-residuos #multa
 #### Seção II – Dos planos estaduais e distrital e dos planos regionais de resíduos sólidos
 
 ###### Art. 49 {#art49}
-Tags: #plano-estadual-residuos
 
 **Art. 49, caput** {#art49_cpt} Os planos estaduais de resíduos sólidos vigerão por prazo indeterminado e terão horizonte de vinte anos.
 
@@ -508,7 +459,6 @@ Tags: #plano-estadual-residuos
 **Art. 49, § 2º** {#art49_par2} Os planos estaduais e distrital de resíduos sólidos abrangerão o território do Estado ou do Distrito Federal e considerarão o conteúdo mínimo estabelecido no [[lei-federal-12305-2010#art17|art. 17 da Lei nº 12.305, de 2010]].
 
 ###### Art. 50 {#art50}
-Tags: #microrregiao #regiao-metropolitana #municipio
 
 **Art. 50, caput** {#art50_cpt} Além dos planos estaduais e distrital, os Estados e o Distrito Federal poderão elaborar planos microrregionais de resíduos sólidos e planos de regiões metropolitanas ou aglomerações urbanas.
 
@@ -519,7 +469,6 @@ Tags: #microrregiao #regiao-metropolitana #municipio
 #### Seção III – Dos planos municipais de gestão integrada de resíduos sólidos
 
 ###### Art. 51 {#art51}
-Tags: #servico-limpeza-urbana #pgrs #pmgirs #area-contaminada
 
 **Art. 51, caput** {#art51_cpt} Os planos municipais de gestão integrada de resíduos sólidos serão elaborados nos termos do disposto no [[lei-federal-12305-2010#art19|art. 19 da Lei nº 12.305, de 2010]].
 
@@ -531,7 +480,6 @@ Tags: #servico-limpeza-urbana #pgrs #pmgirs #area-contaminada
 **Art. 51, § 3º** {#art51_par3} Os planos municipais de gestão integrada e os planos intermunicipais de resíduos sólidos deverão demonstrar o atendimento ao disposto nos [[#art29|art. 29]] e [[lei-federal-11445-2007#art35|art. 35 da Lei nº 11.445, de 2007]], quanto à sustentabilidade econômico-financeira decorrente da prestação de serviços de limpeza urbana e de manejo de resíduos sólidos e aos mecanismos de cobrança dos referidos serviços.
 
 ###### Art. 52 {#art52}
-Tags: #municipio #pmgirs
 
 **Art. 52, caput** {#art52_cpt} Os Municípios com população total inferior a vinte mil habitantes, apurada com base nos dados demográficos do censo mais recente da Fundação Instituto Brasileiro de Geografia e Estatística - IBGE, poderão adotar planos municipais simplificados de gestão integrada de resíduos sólidos.
 
@@ -543,24 +491,20 @@ Tags: #municipio #pmgirs
 - **Art. 52, § 2º, inciso III** {#art52_par2_inc3} cujo território abranja, total ou parcialmente, unidades de conservação.
 
 ###### Art. 53 {#art53}
-Tags: #municipio #pmgirs #consorcio-publico #conteudo-minimo
 
 **Art. 53, caput** {#art53_cpt} Os Municípios que optarem por soluções consorciadas intermunicipais para gestão de resíduos sólidos ficarão dispensados da elaboração do plano municipal de gestão integrada de resíduos sólidos, desde que o plano intermunicipal observe o conteúdo mínimo previsto no [[lei-federal-12305-2010#art19|art. 19 da Lei nº 12.305, de 2010]].
 
 ###### Art. 54 {#art54}
-Tags: #pmgirs #sinir
 
 **Art. 54, caput** {#art54_cpt} Os planos municipais de gestão integrada de resíduos sólidos e os planos intermunicipais de resíduos sólidos poderão ser elaborados por meio do Sinir, a partir de informações declaradas pelos responsáveis pela sua elaboração.
 
 #### Seção IV – Da relação entre os planos de resíduos sólidos e dos planos de saneamento básico quanto ao componente de limpeza urbana e de manejo de resíduos sólidos urbanos
 
 ###### Art. 55 {#art55}
-Tags: #residuo-solido-urbano #servico-limpeza-urbana #saneamento
 
 **Art. 55, caput** {#art55_cpt} Os serviços públicos de limpeza urbana e de manejo de resíduos sólidos urbanos, compostos pelas atividades a que se refere [[lei-federal-11445-2007#art3_cpt_inc1_alic|a alínea “c” do inciso I do caput do art. 3º]] e [[lei-federal-11445-2007#art7|o art. 7º da Lei nº 11.445, de 2007]], serão prestados em conformidade com os planos de saneamento básico previstos na [[lei-federal-11445-2007|referida Lei]] e no seu regulamento.
 
 ###### Art. 56 {#art56}
-Tags: #residuo-solido-urbano #servico-limpeza-urbana #pmgirs #saneamento
 
 **Art. 56, caput** {#art56_cpt} Na hipótese dos serviços de que trata o [[#art55|art. 55]], os planos de resíduos sólidos serão compatíveis com os planos de saneamento básico previstos na [[lei-federal-11445-2007|Lei nº 11.445, de 2007]], e no seu regulamento
 
@@ -571,7 +515,6 @@ Tags: #residuo-solido-urbano #servico-limpeza-urbana #pmgirs #saneamento
 #### Seção I – Das regras aplicáveis aos planos de gerenciamento de resíduos sólidos
 
 ###### Art. 57 {#art57}
-Tags: #pgrs #gerador #microrregiao #regiao-metropolitana
 
 **Art. 57, caput** {#art57_cpt} Os empreendimentos sujeitos à elaboração de plano de gerenciamento de resíduos sólidos poderão optar pela apresentação do plano de forma coletiva e integrada, desde que:
 - **Art. 57, caput, inciso I** {#art57_cpt_inc1} estejam localizados no mesmo condomínio, Município, microrregião, região metropolitana ou aglomeração urbana;
@@ -580,7 +523,6 @@ Tags: #pgrs #gerador #microrregiao #regiao-metropolitana
 **Art. 57, parágrafo único** {#art57_par1u} O plano de gerenciamento de resíduos sólidos apresentado na forma prevista no caput conterá a indicação individualizada das atividades e dos resíduos sólidos gerados e as ações e as responsabilidades atribuídas a cada um dos geradores.
 
 ###### Art. 58 {#art58}
-Tags: #pgrs #sinir #sisnama
 
 **Art. 58, caput** {#art58_cpt} Os responsáveis pelo plano de gerenciamento de resíduos sólidos disponibilizarão ao órgão municipal competente, ao órgão licenciador do Sisnama e às demais autoridades competentes, com periodicidade anual, informações completas e atualizadas sobre a implementação e a operacionalização do plano sob sua responsabilidade, por meio eletrônico, conforme as regras estabelecidas pelo Ministério do Meio Ambiente.
 
@@ -589,7 +531,6 @@ Tags: #pgrs #sinir #sisnama
 **Art. 58, § 2º** {#art58_par2} Ato do Ministro de Estado do Meio Ambiente poderá definir normas e critérios para atendimento ao disposto no caput.
 
 ###### Art. 59 {#art59}
-Tags: #pgrs #oleo-lubrificante
 
 **Art. 59, caput** {#art59_cpt} No processo de elaboração e execução do plano de gerenciamento de resíduos sólidos, será assegurada a utilização dos subprodutos e resíduos de valor econômico não descartados, de origem animal ou vegetal, a que se referem a [[lei-federal-8171-1991|Lei nº 8.171, de 17 de janeiro de 1991]], e a [[lei-federal-9972-2000|Lei nº 9.972, de 25 de maio de 2000]], como insumos de cadeias produtivas.
 
@@ -598,7 +539,6 @@ Tags: #pgrs #oleo-lubrificante
 #### Seção II – Do conteúdo dos planos de gerenciamento de resíduos sólidos quanto à participação das cooperativas e às outras formas de associação de catadores de materiais recicláveis
 
 ###### Art. 60 {#art60}
-Tags: #catador #pgrs #reciclagem
 
 **Art. 60, caput** {#art60_cpt} O plano de gerenciamento de resíduos sólidos dos empreendimentos a que se refere [[lei-federal-12305-2010#art20|o art. 20 da Lei nº 12.305, de 2010]], poderá prever a participação de cooperativas ou de associações de catadores de materiais recicláveis no gerenciamento dos resíduos sólidos recicláveis ou reutilizáveis, quando:
 - **Art. 60, caput, inciso I** {#art60_cpt_inc1} houver cooperativas ou associações de catadores com capacidade técnica e operacional para gerenciar os resíduos sólidos;
@@ -606,19 +546,16 @@ Tags: #catador #pgrs #reciclagem
 - **Art. 60, caput, inciso III** {#art60_cpt_inc3} não houver conflito com a segurança operacional do empreendimento.
 
 ###### Art. 61 {#art61}
-Tags: #catador #pgrs
 
 **Art. 61, caput** {#art61_cpt} Para fins do disposto no [[#art60|art. 60]], o plano de gerenciamento de resíduos sólidos deverá especificar as atividades atribuídas às cooperativas e às associações, considerado o conteúdo mínimo de que trata [[lei-federal-12305-2010#art21|o art. 21 da Lei nº 12.305, de 2010]].
 
 ###### Art. 62 {#art62}
-Tags: #catador #pgrs #reciclagem
 
 **Art. 62, caput** {#art62_cpt} Ato do Ministro de Estado do Meio Ambiente poderá dispor sobre a exigibilidade e o conteúdo do plano de gerenciamento de resíduos sólidos relativo à atuação de cooperativas ou de outras formas de associação de catadores de materiais reutilizáveis e recicláveis.
 
 #### Seção III – Dos planos de gerenciamento de resíduos sólidos relativos às microempresas e às empresas de pequeno porte
 
 ###### Art. 63 {#art63}
-Tags: #pgrs #gerador #poder-publico #microempresa #municipio
 
 **Art. 63, caput** {#art63_cpt} Ficam dispensadas de apresentar o plano de gerenciamento de resíduos sólidos as microempresas e as empresas de pequeno porte a que se referem os [[lei-complementar-federal-123-2006#art3_cpt_inc1|incisos I e II do caput do art. 3º da Lei Complementar nº 123, de 14 de dezembro de 2006]], que gerem somente resíduos sólidos domiciliares ou, nos termos do disposto no [[lei-federal-12305-2010#art13_par1u|parágrafo único do art. 13 da Lei nº 12.305, de 2010]], que gerem resíduos sólidos equiparados aos resíduos sólidos domiciliares pelo Poder Público municipal até o volume de duzentos litros por empreendimento por dia.
 
@@ -627,28 +564,24 @@ Tags: #pgrs #gerador #poder-publico #microempresa #municipio
 **Art. 63, § 2º** {#art63_par2} Os geradores de resíduos sólidos de que trata a [[lei-federal-12305-2010#art13_cpt_inc1_alid|alínea “d” do inciso I do caput do art. 13 da Lei nº 12.305, de 2010]], caracterizados como não perigosos podem ser equiparados aos resíduos domiciliares pelo Poder Público municipal, em decorrência de sua natureza, sua composição ou seu volume.
 
 ###### Art. 64 {#art64}
-Tags: #pgrs #licenciamento-ambiental
 
 **Art. 64, caput** {#art64_cpt} O plano de gerenciamento de resíduos sólidos das microempresas e das empresas de pequeno porte, quando exigível, poderá constar do plano de gerenciamento de empresas com as quais operem de forma integrada, desde que estejam localizadas na área de abrangência da mesma autoridade de licenciamento ambiental.
 
-**Art. 64, parágrafo único** {#art64_par1u}  Os planos de gerenciamento de resíduos sólidos apresentados na forma prevista no caput conterão a indicação individualizada das atividades e dos resíduos sólidos gerados e as ações e as responsabilidades atribuídas a cada um dos empreendimentos.
+**Art. 64, parágrafo único** {#art64_par1u} Os planos de gerenciamento de resíduos sólidos apresentados na forma prevista no caput conterão a indicação individualizada das atividades e dos resíduos sólidos gerados e as ações e as responsabilidades atribuídas a cada um dos empreendimentos.
 
 ###### Art. 65 {#art65}
-Tags: #pgrs #sinir
 
 **Art. 65, caput** {#art65_cpt} Os planos de gerenciamento de resíduos sólidos das microempresas e das empresas de pequeno porte poderão ser apresentados por meio de formulário eletrônico simplificado disponível no Sinir, conforme estabelecido em ato do Ministério do Meio Ambiente.
 
 **Art. 65, parágrafo único** {#art65_par1u} O disposto no caput aplica-se às microempresas e às empresas de pequeno porte não enquadradas no disposto no [[#art63|art. 63]].
 
 ###### Art. 66 {#art66}
-Tags: #residuo-perigoso #gerador
 
 **Art. 66, caput** {#art66_cpt} O disposto nesta Seção não se aplica às microempresas e às empresas de pequeno porte geradoras de resíduos perigosos.
 
 **Art. 66, parágrafo único** {#art66_par1u} Para fins do disposto nesta Seção, não são considerados geradores de resíduos perigosos aqueles que gerarem, em peso, mais de noventa e cinco por cento de resíduos não perigosos em relação ao total dos resíduos sólidos gerados.
 
 ###### Art. 67 {#art67}
-Tags: #pgrs #destinacao-final
 
 **Art. 67, caput** {#art67_cpt} A dispensa ou a simplificação referente ao plano de gerenciamento de resíduos sólidos não exime as microempresas e as empresas de pequeno porte de realizar a destinação final ambientalmente adequada dos resíduos sólidos gerados.
 
@@ -657,7 +590,6 @@ Tags: #pgrs #destinacao-final
 ### CAPÍTULO I – DISPOSIÇÕES GERAIS
 
 ###### Art. 68 {#art68}
-Tags: #sisnama #snvs #rejeito #residuo-perigoso #disposicao-final #gerador
 
 **Art. 68, caput** {#art68_cpt} Para fins do disposto neste Decreto, consideram-se geradores ou operadores de resíduos perigosos os empreendimentos ou as atividades:
 - **Art. 68, caput, inciso I** {#art68_cpt_inc1} cujo processo produtivo gere resíduos perigosos;
@@ -667,20 +599,18 @@ Tags: #sisnama #snvs #rejeito #residuo-perigoso #disposicao-final #gerador
 - **Art. 68, caput, inciso V** {#art68_cpt_inc5} que exerçam atividades classificadas como geradoras ou como operadoras de resíduos perigosos em normas editadas pelos órgãos do Sisnama, do SNVS ou do Suasa.
 
 ###### Art. 69 {#art69}
-Tags: #pgrs #sisnama #snvs #residuo-perigoso #plano-gerenciamento-residuo-perigoso
 
 **Art. 69, caput** {#art69_cpt} As pessoas jurídicas que operam com resíduos perigosos, em qualquer fase do seu gerenciamento, são obrigadas a elaborar plano de gerenciamento de resíduos perigosos e submetê-lo ao órgão competente do Sisnama e, quando couber, do SNVS e do Suasa, observadas as exigências estabelecidas neste Decreto ou em normas técnicas específicas.
 
 **Art. 69, parágrafo único** {#art69_par1u} O plano de gerenciamento de resíduos perigosos poderá constar do plano de gerenciamento de resíduos sólidos.
 
 ###### Art. 70 {#art70}
-Tags: #licenciamento-ambiental #residuo-perigoso
 
 **Art. 70, caput** {#art70_cpt} A instalação e o funcionamento de empreendimento ou de atividade que gere ou opere com resíduos perigosos somente podem ser autorizados ou licenciados pelas autoridades competentes se o responsável comprovar, no mínimo:
 - **Art. 70, caput, inciso I** {#art70_cpt_inc1} capacidade técnica;
 - **Art. 70, caput, inciso II** {#art70_cpt_inc2} capacidade econômica; e
 - **Art. 70, caput, inciso III** {#art70_cpt_inc3} ter condições para prover os cuidados necessários ao gerenciamento dos referidos resíduos.
-**Art. 70, parágrafo único** {#art70_par1u}  Para fins de comprovação das condições estabelecidas nos incisos I e II do caput, empreendimentos ou atividades deverão:
+**Art. 70, parágrafo único** {#art70_par1u} Para fins de comprovação das condições estabelecidas nos incisos I e II do caput, empreendimentos ou atividades deverão:
 - **Art. 70, parágrafo único, inciso I** {#art70_par1u_inc1} dispor de meios técnicos e operacionais adequados para o atendimento da respectiva etapa do processo de gerenciamento dos resíduos sob sua responsabilidade, observados as normas e os outros critérios estabelecidos pelo órgão ambiental competente; e
 - **Art. 70, parágrafo único, inciso II** {#art70_par1u_inc2} na hipótese de concessão ou de renovação do licenciamento ambiental, apresentar, resguardado o sigilo das informações:
   - **Art. 70, parágrafo único, inciso II, alínea "a"** {#art70_par1u_inc2_alia} as demonstrações financeiras do último exercício social;
@@ -688,14 +618,12 @@ Tags: #licenciamento-ambiental #residuo-perigoso
   - **Art. 70, parágrafo único, inciso II, alínea "c"** {#art70_par1u_inc2_alic} a estimativa de custos anuais para o gerenciamento dos resíduos perigosos.
 
 ###### Art. 71 {#art71}
-Tags: #sisnama #licenciamento-ambiental #residuo-perigoso
 
 **Art. 71, caput** {#art71_cpt} No licenciamento ambiental de empreendimentos ou de atividades que operem com resíduos perigosos, o órgão licenciador do Sisnama poderá exigir a contratação de seguro de responsabilidade civil por danos causados ao meio ambiente ou à saúde pública, observadas as regras sobre a cobertura e os limites máximos de contratação estabelecidos pelo Conselho Nacional de Seguros Privados.
 
 **Art. 71, parágrafo único** {#art71_par1u} A aplicação do disposto no caput considerará o porte e as características da empresa.
 
 ###### Art. 72 {#art72}
-Tags: #recuperacao-energetica #residuo-perigoso #oleo-lubrificante
 
 **Art. 72, caput** {#art72_cpt} Observada a ordem de prioridade estabelecida no [[lei-federal-12305-2010#art9|art. 9º da Lei nº 12.305, de 2010]], e no [[#art30|art. 30]] deste Decreto, os resíduos perigosos que apresentem características de inflamabilidade serão destinados à recuperação energética:
 - **Art. 72, caput, inciso I** {#art72_cpt_inc1} obrigatoriamente, quando houver instalações devidamente licenciadas para recuperação energética a até cento e cinquenta quilômetros de distância da fonte de geração dos resíduos; e
@@ -714,7 +642,6 @@ Tags: #recuperacao-energetica #residuo-perigoso #oleo-lubrificante
 **Art. 72, § 2º** {#art72_par2} O disposto no caput não se aplica às hipóteses em que o transporte para as instalações de recuperação energética seja considerado inviável pelo órgão ambiental competente.
 
 ###### Art. 73 {#art73}
-Tags: #licenciamento-ambiental #reciclagem #gerador #oleo-lubrificante
 
 **Art. 73, caput** {#art73_cpt} O disposto no [[#art72|art. 72]] não se aplica ao óleo lubrificante usado ou contaminado que será destinado à reciclagem por meio do processo de rerrefino, de acordo com as metas estabelecidas em ato do Poder Executivo.
 
@@ -729,14 +656,12 @@ Tags: #licenciamento-ambiental #reciclagem #gerador #oleo-lubrificante
 ### CAPÍTULO II – DO CADASTRO NACIONAL DE OPERADORES DE RESÍDUOS PERIGOSOS
 
 ###### Art. 74 {#art74}
-Tags: #residuo-perigoso #cadastro #responsavel-tecnico
 
 **Art. 74, caput** {#art74_cpt} As pessoas jurídicas que operam com resíduos perigosos, em qualquer fase de seu gerenciamento, deverão se cadastrar no Cadastro Nacional de Operadores de Resíduos Perigosos.
 
 **Art. 74, parágrafo único** {#art74_par1u} As pessoas jurídicas de que trata o caput indicarão o responsável técnico pelo gerenciamento dos resíduos perigosos, que deverá estar habilitado e cujos dados serão mantidos atualizados no Cadastro Nacional de Operadores de Resíduos Perigosos.
 
 ###### Art. 75 {#art75}
-Tags: #sinir #ibama #cadastro
 
 **Art. 75, caput** {#art75_cpt} O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama será responsável por coordenar o Cadastro Nacional de Operadores de Resíduos Perigosos, que será implantado de forma conjunta pelos órgãos federais, estaduais, distritais e municipais competentes.
 
@@ -745,7 +670,6 @@ Tags: #sinir #ibama #cadastro
 **Art. 75, § 2º** {#art75_par2} O Ibama promoverá a integração do Cadastro Nacional de Operadores de Resíduos Perigosos com o Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras de Recursos Ambientais e com o Sinir.
 
 ###### Art. 76 {#art76}
-Tags: #residuo-perigoso #cadastro #plano-gerenciamento-residuo-perigoso
 
 **Art. 76, caput** {#art76_cpt} Entre outras fontes, o Cadastro Nacional de Operadores de Resíduos Perigosos será constituído com as informações:
 - **Art. 76, caput, inciso I** {#art76_cpt_inc1} dos planos de gerenciamento de resíduos perigosos;
@@ -755,7 +679,6 @@ Tags: #residuo-perigoso #cadastro #plano-gerenciamento-residuo-perigoso
 ## TÍTULO VII – DO SISTEMA NACIONAL DE INFORMAÇÕES SOBRE A GESTÃO DOS RESÍDUOS SÓLIDOS
 
 ###### Art. 77 {#art77}
-Tags: #logistica-reversa #sinir #inventario-residuos #municipio
 
 **Art. 77, caput** {#art77_cpt} O Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos - Sinir, instituído sob a coordenação e a articulação do Ministério do Meio Ambiente, tem como objetivos:
 - **Art. 77, caput, inciso I** {#art77_cpt_inc1} coletar e sistematizar os dados relativos à prestação dos serviços públicos e privados de gestão e de gerenciamento de resíduos sólidos, inclusive dos sistemas de logística reversa implementados;
@@ -769,22 +692,18 @@ Tags: #logistica-reversa #sinir #inventario-residuos #municipio
 - **Art. 77, caput, inciso IX** {#art77_cpt_inc9} agregar as informações sob a esfera de competência da União, dos Estados, do Distrito Federal e dos Municípios sobre a gestão e o gerenciamento dos resíduos sólidos.
 
 ###### Art. 78 {#art78}
-Tags: #sinir
 
 **Art. 78, caput** {#art78_cpt} O Sinir conterá informações publicamente disponibilizadas em outras bases de dados oficiais que possam contribuir para a melhoria da gestão e do gerenciamento ambientalmente adequado de resíduos sólidos.
 
 ###### Art. 79 {#art79}
-Tags: #sinir #municipio
 
 **Art. 79, caput** {#art79_cpt} Os Estados, o Distrito Federal e os Municípios disponibilizarão anualmente ao Sinir as informações necessárias sobre os resíduos sólidos em seu âmbito de competência.
 
 ###### Art. 80 {#art80}
-Tags: #sinir
 
 **Art. 80, caput** {#art80_cpt} Os planos de gestão de resíduos sólidos de que trata o [[#art44|art. 44]] serão disponibilizados pelos seus responsáveis no Sinir e ficarão disponíveis para acesso público.
 
 ###### Art. 81 {#art81}
-Tags: #sinir #inventario-residuos
 
 **Art. 81, caput** {#art81_cpt} Os dados, as informações, os relatórios, os estudos, os inventários e os instrumentos equivalentes referentes à regulação ou à fiscalização dos serviços relacionados à gestão dos resíduos sólidos e aos direitos e aos deveres dos usuários e dos operadores serão disponibilizados pelo Sinir em sítio eletrônico oficial.
 
@@ -795,7 +714,6 @@ Tags: #sinir #inventario-residuos
 ## TÍTULO VIII – DA EDUCAÇÃO AMBIENTAL NA GESTÃO DOS RESÍDUOS SÓLIDOS
 
 ###### Art. 82 {#art82}
-Tags: #coleta-seletiva #logistica-reversa #fabricante #educacao-ambiental #poder-publico #responsabilidade
 
 **Art. 82, caput** {#art82_cpt} A educação ambiental na gestão dos resíduos sólidos é parte integrante da Política Nacional de Resíduos Sólidos e tem como objetivo o aprimoramento do conhecimento, dos valores, dos comportamentos e do estilo de vida relacionados com a gestão e com o gerenciamento ambientalmente adequado de resíduos sólidos.
 
@@ -818,7 +736,6 @@ Tags: #coleta-seletiva #logistica-reversa #fabricante #educacao-ambiental #poder
 ## TÍTULO IX – DAS CONDIÇÕES DE ACESSO A RECURSOS
 
 ###### Art. 83 {#art83}
-Tags: #residuo-solido-urbano #servico-limpeza-urbana #municipio
 
 **Art. 83, caput** {#art83_cpt} A elaboração dos planos de resíduos sólidos de que tratam o [[#art44|art. 44]] deste Decreto e os [[#art16|art. 16]] e [[lei-federal-12305-2010#art18|art. 18 da Lei nº 12.305, de 2010]], é condição para que os Estados, o Distrito Federal e os Municípios tenham acesso a recursos da União ou por ela controlados destinados:
 - **Art. 83, caput, inciso I** {#art83_cpt_inc1} aos empreendimentos e aos serviços relacionados à gestão de resíduos sólidos; ou
@@ -830,7 +747,6 @@ Tags: #residuo-solido-urbano #servico-limpeza-urbana #municipio
 **Art. 83, § 3º** {#art83_par3} Quando destinados à gestão de resíduos sólidos urbanos, a alocação de recursos públicos federais e os financiamentos com recursos da União ou com recursos geridos ou operados por órgãos ou entidades da União serão feitos nos termos do disposto na [[lei-federal-11445-2007|Lei nº 11.445, de 2007]], na [[lei-federal-14026-2020|Lei nº 14.026, de 2020]], e nos seus regulamentos.
 
 ###### Art. 84 {#art84}
-Tags: #sinir #municipio
 
 **Art. 84, caput** {#art84_cpt} A disponibilização de informações atualizadas no Sinir é condição para que os Estados, o Distrito Federal e os Municípios tenham acesso a recursos da União, ou por ela controlados, destinados a empreendimentos, equipamentos e serviços relacionados à gestão de resíduos sólidos.
 
@@ -839,7 +755,6 @@ Tags: #sinir #municipio
 ## TÍTULO X – DOS INSTRUMENTOS ECONÔMICOS
 
 ###### Art. 85 {#art85}
-Tags: #catador #reciclagem #poder-publico #pagamento-servico-ambiental
 
 **Art. 85, caput** {#art85_cpt} As iniciativas a que se refere [[lei-federal-12305-2010#art42|o art. 42 da Lei nº 12.305, de 2010]], serão fomentadas por meio das seguintes medidas:
 - **Art. 85, caput, inciso I** {#art85_cpt_inc1} incentivos fiscais, financeiros e creditícios;
@@ -852,7 +767,6 @@ Tags: #catador #reciclagem #poder-publico #pagamento-servico-ambiental
 **Art. 85, parágrafo único** {#art85_par1u} O Poder Público poderá estabelecer outras medidas indutoras além daquelas previstas no caput.
 
 ###### Art. 86 {#art86}
-Tags: #catador #recuperacao-energetica #compostagem #reciclagem #rejeito #area-contaminada #disposicao-final
 
 **Art. 86, caput** {#art86_cpt} As instituições financeiras federais poderão criar linhas especiais de financiamento para:
 - **Art. 86, caput, inciso I** {#art86_cpt_inc1} aquisição de máquinas e equipamentos utilizados na gestão de resíduos sólidos, realizada por cooperativas ou por outras formas de associação de catadores de materiais reutilizáveis e recicláveis;
@@ -870,7 +784,6 @@ Tags: #catador #recuperacao-energetica #compostagem #reciclagem #rejeito #area-c
 ## TÍTULO XI – DISPOSIÇÕES TRANSITÓRIAS
 
 ###### Art. 87 {#art87}
-Tags: #logistica-reversa #transicao
 
 **Art. 87, caput** {#art87_cpt} Na hipótese de haver, na data de publicação deste Decreto, sistema de logística reversa com o procedimento a que se refere o [[#art24|art. 24]] em andamento, o prazo de que trata o § 1º do referido artigo será de trinta dias, contado da data de publicação deste Decreto.
 
@@ -879,21 +792,18 @@ Tags: #logistica-reversa #transicao
 ## TÍTULO XII – DISPOSIÇÕES FINAIS
 
 ###### Art. 88 {#art88}
-Tags: #corpo-hidrico #licenciamento-ambiental
 
 **Art. 88, caput** {#art88_cpt} Para fins do disposto no [[lei-federal-12305-2010#art47_cpt_inc1|inciso I do caput do art. 47 da Lei nº 12.305, de 2010]], o deslocamento de material do leito de corpos d’água por meio de dragagem:
 - **Art. 88, caput, inciso I** {#art88_cpt_inc1} não será considerado lançamento; e
 - **Art. 88, caput, inciso II** {#art88_cpt_inc2} será objeto de licenciamento ou de autorização do órgão ambiental competente.
 
 ###### Art. 89 {#art89}
-Tags: #sisnama #snvs #queima-ceu-aberto #situacao-emergencia
 
 **Art. 89, caput** {#art89_cpt} Na hipótese de decretação de emergência sanitária, a queima de resíduos poderá ser realizada a céu aberto.
 
 **Art. 89, parágrafo único** {#art89_par1u} A queima de resíduos de que trata o caput deverá ser e autorizada e acompanhada pelos órgãos competentes do Sisnama, do SNVS e, quando couber, do Suasa.
 
 ###### Art. 90 {#art90}
-Tags: #coleta-seletiva #logistica-reversa #residuo-solido-urbano #servico-limpeza-urbana #pgrs #sisnama #recuperacao-energetica #multa #infracao-ambiental #importacao-residuo #queima-ceu-aberto
 
 **Art. 90, caput** {#art90_cpt} O [[decreto-federal-6514-2008|Decreto nº 6.514, de 22 de julho de 2008]], passa a vigorar com as seguintes alterações:
 
@@ -938,7 +848,6 @@ Tags: #coleta-seletiva #logistica-reversa #residuo-solido-urbano #servico-limpez
 > Multa de R$ 500,00 (quinhentos reais) a R$ 10.000.000,00 (dez milhões de reais).”(NR)
 
 ###### Art. 91 {#art91}
-Tags: #revogacao
 
 **Art. 91, caput** {#art91_cpt} Ficam revogados:
 - **Art. 91, caput, inciso I** {#art91_cpt_inc1} o [[decreto-federal-5940-2006|Decreto nº 5.940, de 25 de outubro de 2006]];
@@ -947,7 +856,6 @@ Tags: #revogacao
 - **Art. 91, caput, inciso IV** {#art91_cpt_inc4} o [[decreto-federal-10240-2020#art5_cpt_inc4|inciso IV do caput do art. 5º do Decreto nº 10.240, de 12 de fevereiro de 2020]].
 
 ###### Art. 92 {#art92}
-Tags: #vigencia
 
 **Art. 92, caput** {#art92_cpt} Este Decreto entra em vigor na data de sua publicação.
 

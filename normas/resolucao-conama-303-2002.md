@@ -45,13 +45,11 @@ Considerando que as Áreas de Preservação Permanente e outros espaços territo
 
 ###### Art. 1º {#art1}
 
-Tags: #app
 
 **Art. 1º, caput** {#art1_cpt} Constitui objeto da presente Resolução o estabelecimento de parâmetros, definições e limites referentes às Áreas de Preservação Permanente.
 
 ###### Art. 2º {#art2}
 
-Tags: #app #prazo #recurso-hidrico #efluente #vegetacao-nativa #documentacao #residuo-solido
 
 **Art. 2º, caput** {#art2_cpt} Para os efeitos desta Resolução, são adotadas as seguintes definições:
 
@@ -101,7 +99,6 @@ Tags: #app #prazo #recurso-hidrico #efluente #vegetacao-nativa #documentacao #re
 
 ###### Art. 3º {#art3}
 
-Tags: #app #recurso-hidrico #vegetacao-nativa
 
 **Art. 3º, caput** {#art3_cpt} Constitui Área de Preservação Permanente a área situada:
 
@@ -165,13 +162,11 @@ Tags: #app #recurso-hidrico #vegetacao-nativa
 
 ###### Art. 4º {#art4}
 
-Tags: #app
 
 **Art. 4º, caput** {#art4_cpt} O CONAMA estabelecerá, em Resolução específica, parâmetros das Áreas de Preservação Permanente de reservatórios artificiais e o regime de uso de seu entorno.
 
 ###### Art. 5º {#art5}
 
-Tags: #app
 
 **Art. 5º, caput** {#art5_cpt} Esta Resolução entra em vigor na data de sua publicação, revogando-se a [[resolucao-conama-4-1985|Resolução CONAMA no 4, de 18 de setembro de 1985]].
 

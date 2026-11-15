@@ -1,6 +1,6 @@
 # Base de Legislação Ambiental (Markdown)
 
-Normas de licenciamento ambiental convertidas em Markdown, uma norma por arquivo, com identificação de cada dispositivo, links entre normas e tags temáticas. Pensada para consulta por IA (RAG) e para leitura no Obsidian.
+Normas de licenciamento ambiental convertidas em Markdown, uma norma por arquivo, com identificação de cada dispositivo, links entre normas e tags temáticas no frontmatter. Pensada para consulta por IA (RAG) e para leitura no Obsidian.
 
 ## Estrutura
 
@@ -44,7 +44,7 @@ alterado_por: ["[[decreto-estadual-12799-2026]]"]
 revoga: [...]
 revogado_por: []
 cita: [...]
-tags: [...]                              # todas as tags usadas no corpo
+tags: [...]                              # tags temáticas da norma (só aqui, nunca no corpo)
 fonte: ...
 ```
 As relações são **recíprocas**: se A `altera` B, B tem A em `alterado_por`. O mesmo vale para `revoga`/`revogado_por` e `regulamenta`/`regulamentado_por`.
@@ -64,7 +64,7 @@ As relações são **recíprocas**: se A `altera` B, B tem A em `alterado_por`. 
 | Tabela no corpo de um artigo | `art14_tab1` | `**Art. 14, Tabela I**` |
 | Linha de tabela no corpo de um artigo | `art14_tab1_lin3` | `- **Art. 14, Tabela I, linha 3**` |
 
-Títulos, capítulos e seções usam `##`, `###`, `####` e `#####`; artigos usam `######`. Em códigos com seis níveis (Parte, Livro, Título, Capítulo, Seção, Subseção), a Parte entra no título do seu primeiro Livro e Seção e Subseção ficam ambas em `#####`. Na Constituição, o ADCT fica no mesmo arquivo, sob `## ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS {#adct}`, com IDs prefixados (`adct_art1`, `adct_art2_par1`). Abaixo do cabeçalho de cada artigo vai uma linha `Tags:` com as tags do artigo inteiro.
+Títulos, capítulos e seções usam `##`, `###`, `####` e `#####`; artigos usam `######`. Em códigos com seis níveis (Parte, Livro, Título, Capítulo, Seção, Subseção), a Parte entra no título do seu primeiro Livro e Seção e Subseção ficam ambas em `#####`. Na Constituição, o ADCT fica no mesmo arquivo, sob `## ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS {#adct}`, com IDs prefixados (`adct_art1`, `adct_art2_par1`).
 
 ### Links
 - Para outra norma: `[[lei-federal-12651-2012#art3|incisos VIII e IX do art. 3º da Lei 12.651/2012]]`
@@ -72,10 +72,10 @@ Títulos, capítulos e seções usam `##`, `###`, `####` e `#####`; artigos usam
 - Uma norma que ainda não está na base recebe o link mesmo assim. Ele fica pendente e passa a funcionar quando o arquivo for adicionado com esse nome.
 
 ### Tags
-- Na linha `Tags:` do artigo e, quando o tema for específico, logo após o rótulo do dispositivo: `**Art. 30, caput, inciso VIII** {#art30_cpt_inc8} #manancial ...`
-- Formato: minúsculas, sem acento, singular, hífen entre palavras (`#supressao-vegetacao`).
-- Reaproveite as tags de `tags.md` antes de criar uma nova.
-- Tags de controle: `#revogado`, `#redacao-alterada`, `#incluido`.
+- As tags temáticas ficam **só no frontmatter** (`tags: [...]`, a tabela de propriedades do Obsidian). Nem o artigo nem o dispositivo levam tag temática; `python scripts/validar.py` dá erro se encontrar uma no corpo.
+- Formato: minúsculas, sem acento, singular, hífen entre palavras (`supressao-vegetacao`).
+- Reaproveite as tags de `tags.md` (gerado do frontmatter) antes de criar uma nova.
+- Exceção: as tags de controle `#revogado`, `#redacao-alterada`, `#incluido` e `#anexo-pendente` continuam no dispositivo, porque marcam a situação do texto (a página HTML acinzenta o revogado e `--afetados` acha remissões a dispositivos alterados). No artigo inteiro, elas vão numa linha `Tags:` logo abaixo do cabeçalho.
 
 ### Fidelidade ao texto
 O texto é transcrito **exatamente como publicado**, com os erros do original. Os erros ficam registrados na seção final `## Notas de transcrição`, e os links seguem a letra da norma, salvo exceção registrada nessa seção.
@@ -163,7 +163,7 @@ Quando uma norma nova altera, acrescenta ou revoga dispositivos de outra, **o ar
 | Revogação total | O arquivo é mantido, com `situacao: revogada` e `revogado_por` preenchido. |
 
 Além disso:
-- A linha `Alterações:` abaixo das `Tags:` do artigo resume o que mudou.
+- A linha `Alterações:` logo abaixo do cabeçalho do artigo resume o que mudou.
 - A tabela `## Histórico de alterações`, antes das notas de transcrição, registra cada mudança.
 - O campo `texto: compilado (atualizado até ...)` fica no frontmatter.
 - Na norma alteradora, cada nova redação aparece em citação (`>`) com ID próprio (`art1_cpt_alt1`) e link para o dispositivo alterado.
@@ -211,22 +211,9 @@ A hierarquia sai dos cabeçalhos e dos IDs LexML, então nada muda no padrão da
 
 Ao alterar scripts ou o protocolo de consulta, rode os três comandos de validação/teste, além de revisar o diff. `--historico` revela redações antigas, sem calcular vigência por data; `--interpretativo` recupera notas/sínteses/comentários separados. Revogação tácita e divergências jurídicas permanecem questões para revisão, não transformações automáticas do corpus.
 
-## Site de busca
+## Site de busca (removido)
 
-Página estática publicada pelo GitHub Pages a cada push na `main` (`.github/workflows/site.yml`); antes de publicar, o workflow roda `scripts/validar.py`, e erro na base mantém o site anterior no ar. Busca por relevância, sem IA e sem serviço externo.
-
-- `site/motor.js`: a regra de busca (pontuação, admissão, triagem CNAE, eixos do caso e opções do formulário), em módulo JavaScript sem DOM. O site e a API do iatreports (`iat-report-scribe`) usam este mesmo arquivo, por isso os resultados são iguais. Mudou a regra? Suba `MOTOR_VERSAO`; mudou o formato de `index.json`? Suba `FORMATO_INDICE`. A API avisa quando a cópia dela fica atrás da versão publicada.
-- `site/index.html`: só a interface (formulário e renderização). `site/cnae.json`: estrutura CNAE 2.3 (1.332 subclasses), baixada da API oficial do IBGE (`servicodados.ibge.gov.br/api/v2/cnae/subclasses`); atualizar só quando o IBGE publicar nova versão.
-- `manifesto.json` (gerado): commit, versão do motor, formato do índice e SHA-256 dos arquivos publicados. Clientes conferem se há base nova sem baixar o índice.
-- `testes/motor.test.mjs`: testes do motor contra o site gerado, rodados pelo workflow antes de publicar (`node --test testes/motor.test.mjs`).
-- `consultas/ambitos.json`: âmbito das normas setoriais. Norma listada só aparece se a atividade ou a busca citar uma das expressões; as demais entram quando a ementa cita um termo da busca. **Ao incluir uma norma setorial na base, acrescente o âmbito dela aqui** (expressões sem acento; anexos herdam da norma-mãe).
-- `consultas/sinonimos.json`: expansão de termos da busca.
-- `consultas/gatilhos.json`: gatilhos de aplicabilidade curados (condições de fato exigidas pelo próprio texto, com trecho literal e hash da redação). Ver [docs/gatilhos-aplicabilidade.md](docs/gatilhos-aplicabilidade.md). Ao alterar a redação de um dispositivo com gatilho, refaça a curadoria dele.
-- `python scripts/gerar_site.py`: gera o site em `_site/` para conferir localmente (`python -m http.server -d _site`).
-
-Blocos de busca: o texto vira blocos de palavras (sem palavras genéricas da lista `GENERICO` de `site/motor.js`, como «norma», «atividade», «recurso»), somados aos sinônimos. Em seguida, cada tag da base cujas palavras estão todas na busca vira um bloco e absorve os blocos de palavras que cobre («resíduos de serviços de saúde» → `#residuo-servico-saude`). Trecho marcado com a tag conta o bloco inteiro, com peso maior; trecho sem a tag ainda conta pelas palavras. Sem tag correspondente, a busca fica só com as palavras. Tag contida em outra maior fica de fora, e tag de uma só palavra genérica (`#saude`) não vira bloco. As tags não mudam quais normas são admitidas, só a ordem dos trechos e das normas.
-
-Critério de admissão (fixo, não afrouxa quando há poucos resultados): (1) norma setorial só pelo âmbito; (2) norma transversal pela ementa; (3) qualquer norma cuja lista de enquadramento cite o código CNAE escolhido na triagem, o termo de enquadramento da CNAE (núcleo da atividade ou nome da divisão) ou todos os termos buscados. Resultado vazio indica lacuna da base ou da legislação.
+O site de busca do GitHub Pages (`site/index.html`, `site/motor.js`, assistente e revisão funcional), o `scripts/gerar_site.py` e a API `cloudflare/legislacao-ambiental-api` (usada pelo iatreports) foram removidos em 2026-11-15, junto com as tags dos dispositivos que a busca pontuava. A consulta passa a ser feita na biblioteca (`site/biblioteca.html`, publicada no Cloudflare pelo `implantar-biblioteca.yml`) e nas páginas HTML. `consultas/ambitos.json`, `sinonimos.json` e `gatilhos.json` ficaram no repositório, sem consumidor publicado.
 
 ## Proposta de organização das tags (em revisão)
 

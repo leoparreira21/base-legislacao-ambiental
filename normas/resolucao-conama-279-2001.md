@@ -44,7 +44,6 @@ Considerando que os procedimentos de licenciamento ambiental atuais são estabel
 
 ###### Art. 1º {#art1}
 
-Tags: #licenciamento-ambiental #geracao-energia #prazo
 
 **Art. 1º, caput** {#art1_cpt} Os procedimentos e prazos estabelecidos nesta Resolução aplicam-se, em qualquer nível de competência, ao licenciamento ambiental simplificado de empreendimentos elétricos com pequeno potencial de impacto ambiental, aí incluídos:
 
@@ -60,7 +59,6 @@ Tags: #licenciamento-ambiental #geracao-energia #prazo
 
 ###### Art. 2º {#art2}
 
-Tags: #licenciamento-ambiental #geracao-energia #documentacao #lp
 
 **Art. 2º, caput** {#art2_cpt} Para os fins desta Resolução, são adotadas as seguintes definições:
 
@@ -74,7 +72,6 @@ Tags: #licenciamento-ambiental #geracao-energia #documentacao #lp
 
 ###### Art. 3º {#art3}
 
-Tags: #licenciamento-ambiental #geracao-energia #outorga #recurso-hidrico #documentacao #lp #li
 
 **Art. 3º, caput** {#art3_cpt} Ao requerer a Licença Prévia ao órgão ambiental competente, na forma desta Resolução, o empreendedor apresentará o Relatório Ambiental Simplificado, atendendo, no mínimo, o conteúdo do [[#anexo1|anexo I]] desta Resolução, bem como o registro na Agência Nacional de Energia Elétrica - ANEEL, quando couber, e as manifestações cabíveis dos órgãos envolvidos.
 
@@ -84,7 +81,6 @@ Tags: #licenciamento-ambiental #geracao-energia #outorga #recurso-hidrico #docum
 
 ###### Art. 4º {#art4}
 
-Tags: #licenciamento-ambiental #geracao-energia #prazo #documentacao
 
 **Art. 4º, caput** {#art4_cpt} O órgão ambiental competente definirá, com base no Relatório Ambiental Simplificado, o enquadramento do empreendimento elétrico no procedimento de licenciamento ambiental simplificado, mediante decisão fundamentada em parecer técnico.
 
@@ -94,7 +90,6 @@ Tags: #licenciamento-ambiental #geracao-energia #prazo #documentacao
 
 ###### Art. 5º {#art5}
 
-Tags: #licenciamento-ambiental #geracao-energia #documentacao #lp #li
 
 **Art. 5º, caput** {#art5_cpt} Ao requerer a Licença de Instalação ao órgão ambiental competente, na forma desta Resolução, o empreendedor apresentará a comprovação do atendimento das condicionantes da Licença Prévia, o Relatório de Detalhamento dos Programas Ambientais, e outras informações, quando couber.
 
@@ -102,7 +97,6 @@ Tags: #licenciamento-ambiental #geracao-energia #documentacao #lp #li
 
 ###### Art. 6º {#art6}
 
-Tags: #licenciamento-ambiental #geracao-energia #prazo #documentacao #lp #li
 
 **Art. 6º, caput** {#art6_cpt} O prazo para emissão da Licença Prévia e da Licença de Instalação será de, no máximo, sessenta dias, contados a partir da data de protocolização do requerimento das respectivas licenças.
 
@@ -116,13 +110,11 @@ Tags: #licenciamento-ambiental #geracao-energia #prazo #documentacao #lp #li
 
 ###### Art. 7º {#art7}
 
-Tags: #licenciamento-ambiental #geracao-energia
 
 **Art. 7º, caput** {#art7_cpt} Aos empreendimentos que já se encontrarem em processo de licenciamento ambiental na data da publicação desta Resolução e se enquadrarem nos seus pressupostos, poderá ser aplicado o licenciamento ambiental simplificado, desde que requerido pelo empreendedor.
 
 ###### Art. 8º {#art8}
 
-Tags: #licenciamento-ambiental #geracao-energia #prazo
 
 **Art. 8º, caput** {#art8_cpt} Sempre que julgar necessário, ou quando for solicitado por entidade civil, pelo Ministério Público, ou por cinqüenta pessoas maiores de dezoito anos, o órgão de meio ambiente promoverá Reunião Técnica Informativa.
 
@@ -136,25 +128,21 @@ Tags: #licenciamento-ambiental #geracao-energia #prazo
 
 ###### Art. 9º {#art9}
 
-Tags: #licenciamento-ambiental #geracao-energia #prazo #li #lo
 
 **Art. 9º, caput** {#art9_cpt} A Licença de Operação será emitida pelo órgão ambiental competente no prazo máximo de sessenta dias após seu requerimento, desde que tenham sido cumpridas todas as condicionantes da Licença de Instalação, no momento exigíveis, antes da entrada em operação do empreendimento, verificando-se, inclusive, quando for o caso, por meio da realização de testes pré-operacionais necessários, previamente autorizados.
 
 ###### Art. 10º {#art10}
 
-Tags: #licenciamento-ambiental #geracao-energia
 
 **Art. 10º, caput** {#art10_cpt} As exigências e as condicionantes estritamente técnicas das licenças ambientais constituem obrigação de relevante interesse ambiental.
 
 ###### Art. 11º {#art11}
 
-Tags: #licenciamento-ambiental #geracao-energia
 
 **Art. 11º, caput** {#art11_cpt} O empreendedor, durante a implantação e operação do empreendimento comunicará ao órgão ambiental competente a identificação de impactos ambientais não descritos no Relatório Ambiental Simplificado e no Relatório de Detalhamento dos Programas Ambientais, para as providências que se fizerem necessárias.
 
 ###### Art. 12º {#art12}
 
-Tags: #licenciamento-ambiental #geracao-energia #prazo #risco-ambiental
 
 **Art. 12º, caput** {#art12_cpt} O órgão ambiental competente, mediante decisão motivada, assegurado o princípio do contraditório, ressalvadas as situações de emergência ou urgência poderá, a qualquer tempo, modificar as condicionantes e as medidas de controle e adequação do empreendimento, suspender ou cancelar a licença expedida, quando ocorrer:
 
@@ -166,7 +154,6 @@ Tags: #licenciamento-ambiental #geracao-energia #prazo #risco-ambiental
 
 ###### Art. 13º {#art13}
 
-Tags: #licenciamento-ambiental #geracao-energia #prazo
 
 **Art. 13º, caput** {#art13_cpt} As publicações de que trata esta Resolução deverão ser feitas em Diário Oficial e em jornal de grande circulação ou outro meio de comunicação amplamente utilizado na região onde se pretende instalar o empreendimento devendo constar a identificação do empreendedor, o local de abrangência e o tipo de empreendimento, assim como o endereço e telefone do órgão ambiental competente.
 
@@ -176,13 +163,11 @@ Tags: #licenciamento-ambiental #geracao-energia #prazo
 
 ###### Art. 14º {#art14}
 
-Tags: #licenciamento-ambiental #geracao-energia
 
 **Art. 14º, caput** {#art14_cpt} A aplicação desta Resolução será avaliada pelo Plenário do CONAMA um 1 ano após a sua publicação.
 
 ###### Art. 15º {#art15}
 
-Tags: #licenciamento-ambiental #geracao-energia
 
 **Art. 15º, caput** {#art15_cpt} Esta Resolução entra em vigor na data da sua publicação.
 

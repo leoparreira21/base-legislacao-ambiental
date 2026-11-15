@@ -29,7 +29,6 @@ O CONSELHO NACIONAL DO MEIO AMBIENTE - CONAMA, no uso das atribuições que lhe 
 
 ## Item I {#item1}
 
-Tags: #publicacao #licenciamento-ambiental #renovacao
 
 **Item I** {#item1_cpt} Aprovar os modelos de publicação de pedidos de licenciamento em quaisquer de suas modalidades, sua renovação e a respectiva concessão e aprova os novos modelos para publicação de licenças, conforme instruções abaixo especificadas:
 
@@ -77,7 +76,6 @@ Tags: #publicacao #licenciamento-ambiental #renovacao
 
 ## Item II {#item2}
 
-Tags: #publicacao #licenciamento-ambiental
 
 **Item II** {#item2_cpt} Esta Resolução entra em vigor na data de sua publicação.
 

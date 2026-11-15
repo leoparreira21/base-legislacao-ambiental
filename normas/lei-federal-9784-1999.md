@@ -34,7 +34,6 @@ fonte: "Planalto (Presidência da República – Casa Civil), impressão do nave
 ## CAPÍTULO I – DAS DISPOSIÇÕES GERAIS
 
 ###### Art. 1º {#art1}
-Tags: #processo-administrativo
 
 **Art. 1º, caput** {#art1_cpt} Esta Lei estabelece normas básicas sobre o processo administrativo no âmbito da Administração Federal direta e indireta, visando, em especial, à proteção dos direitos dos administrados e ao melhor cumprimento dos fins da Administração.
 
@@ -46,7 +45,6 @@ Tags: #processo-administrativo
 - **Art. 1º, § 2º, inciso III** {#art1_par2_inc3} autoridade - o servidor ou agente público dotado de poder de decisão.
 
 ###### Art. 2º {#art2}
-Tags: #motivacao #instrucao-processual #processo-administrativo
 
 **Art. 2º, caput** {#art2_cpt} A Administração Pública obedecerá, dentre outros, aos princípios da legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência.
 
@@ -68,7 +66,6 @@ Tags: #motivacao #instrucao-processual #processo-administrativo
 ## CAPÍTULO II – DOS DIREITOS DOS ADMINISTRADOS
 
 ###### Art. 3º {#art3}
-Tags:
 
 **Art. 3º, caput** {#art3_cpt} O administrado tem os seguintes direitos perante a Administração, sem prejuízo de outros que lhe sejam assegurados:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} ser tratado com respeito pelas autoridades e servidores, que deverão facilitar o exercício de seus direitos e o cumprimento de suas obrigações;
@@ -79,7 +76,6 @@ Tags:
 ## CAPÍTULO III – DOS DEVERES DO ADMINISTRADO
 
 ###### Art. 4º {#art4}
-Tags:
 
 **Art. 4º, caput** {#art4_cpt} São deveres do administrado perante a Administração, sem prejuízo de outros previstos em ato normativo:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} expor os fatos conforme a verdade;
@@ -90,12 +86,10 @@ Tags:
 ## CAPÍTULO IV – DO INÍCIO DO PROCESSO
 
 ###### Art. 5º {#art5}
-Tags: #processo-administrativo
 
 **Art. 5º, caput** {#art5_cpt} O processo administrativo pode iniciar-se de ofício ou a pedido de interessado.
 
 ###### Art. 6º {#art6}
-Tags: #motivacao
 
 **Art. 6º, caput** {#art6_cpt} O requerimento inicial do interessado, salvo casos em que for admitida solicitação oral, deve ser formulado por escrito e conter os seguintes dados:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} órgão ou autoridade administrativa a que se dirige;
@@ -107,19 +101,16 @@ Tags: #motivacao
 **Art. 6º, parágrafo único** {#art6_par1u} É vedada à Administração a recusa imotivada de recebimento de documentos, devendo o servidor orientar o interessado quanto ao suprimento de eventuais falhas.
 
 ###### Art. 7º {#art7}
-Tags:
 
 **Art. 7º, caput** {#art7_cpt} Os órgãos e entidades administrativas deverão elaborar modelos ou formulários padronizados para assuntos que importem pretensões equivalentes.
 
 ###### Art. 8º {#art8}
-Tags:
 
 **Art. 8º, caput** {#art8_cpt} Quando os pedidos de uma pluralidade de interessados tiverem conteúdo e fundamentos idênticos, poderão ser formulados em um único requerimento, salvo preceito legal em contrário.
 
 ## CAPÍTULO V – DOS INTERESSADOS
 
 ###### Art. 9º {#art9}
-Tags:
 
 **Art. 9º, caput** {#art9_cpt} São legitimados como interessados no processo administrativo:
 - **Art. 9º, caput, inciso I** {#art9_cpt_inc1} pessoas físicas ou jurídicas que o iniciem como titulares de direitos ou interesses individuais ou no exercício do direito de representação;
@@ -128,26 +119,22 @@ Tags:
 - **Art. 9º, caput, inciso IV** {#art9_cpt_inc4} as pessoas ou as associações legalmente constituídas quanto a direitos ou interesses difusos.
 
 ###### Art. 10 {#art10}
-Tags:
 
 **Art. 10, caput** {#art10_cpt} São capazes, para fins de processo administrativo, os maiores de dezoito anos, ressalvada previsão especial em ato normativo próprio.
 
 ## CAPÍTULO VI – DA COMPETÊNCIA
 
 ###### Art. 11 {#art11}
-Tags: #delegacao-competencia
 
 **Art. 11, caput** {#art11_cpt} A competência é irrenunciável e se exerce pelos órgãos administrativos a que foi atribuída como própria, salvo os casos de delegação e avocação legalmente admitidos.
 
 ###### Art. 12 {#art12}
-Tags: #impedimento-suspeicao #delegacao-competencia
 
 **Art. 12, caput** {#art12_cpt} Um órgão administrativo e seu titular poderão, se não houver impedimento legal, delegar parte da sua competência a outros órgãos ou titulares, ainda que estes não lhe sejam hierarquicamente subordinados, quando for conveniente, em razão de circunstâncias de índole técnica, social, econômica, jurídica ou territorial.
 
 **Art. 12, parágrafo único** {#art12_par1u} O disposto no caput deste artigo aplica-se à delegação de competência dos órgãos colegiados aos respectivos presidentes.
 
 ###### Art. 13 {#art13}
-Tags: #delegacao-competencia
 
 **Art. 13, caput** {#art13_cpt} Não podem ser objeto de delegação:
 - **Art. 13, caput, inciso I** {#art13_cpt_inc1} a edição de atos de caráter normativo;
@@ -155,7 +142,6 @@ Tags: #delegacao-competencia
 - **Art. 13, caput, inciso III** {#art13_cpt_inc3} as matérias de competência exclusiva do órgão ou autoridade.
 
 ###### Art. 14 {#art14}
-Tags: #recurso-administrativo #delegacao-competencia #invalidacao-ato
 
 **Art. 14, caput** {#art14_cpt} O ato de delegação e sua revogação deverão ser publicados no meio oficial.
 
@@ -166,24 +152,20 @@ Tags: #recurso-administrativo #delegacao-competencia #invalidacao-ato
 **Art. 14, § 3º** {#art14_par3} As decisões adotadas por delegação devem mencionar explicitamente esta qualidade e considerar-se-ão editadas pelo delegado.
 
 ###### Art. 15 {#art15}
-Tags: #delegacao-competencia
 
 **Art. 15, caput** {#art15_cpt} Será permitida, em caráter excepcional e por motivos relevantes devidamente justificados, a avocação temporária de competência atribuída a órgão hierarquicamente inferior.
 
 ###### Art. 16 {#art16}
-Tags:
 
 **Art. 16, caput** {#art16_cpt} Os órgãos e entidades administrativas divulgarão publicamente os locais das respectivas sedes e, quando conveniente, a unidade fundacional competente em matéria de interesse especial.
 
 ###### Art. 17 {#art17}
-Tags:
 
 **Art. 17, caput** {#art17_cpt} Inexistindo competência legal específica, o processo administrativo deverá ser iniciado perante a autoridade de menor grau hierárquico para decidir.
 
 ## CAPÍTULO VII – DOS IMPEDIMENTOS E DA SUSPEIÇÃO
 
 ###### Art. 18 {#art18}
-Tags:
 
 **Art. 18, caput** {#art18_cpt} É impedido de atuar em processo administrativo o servidor ou autoridade que:
 - **Art. 18, caput, inciso I** {#art18_cpt_inc1} tenha interesse direto ou indireto na matéria;
@@ -191,26 +173,22 @@ Tags:
 - **Art. 18, caput, inciso III** {#art18_cpt_inc3} esteja litigando judicial ou administrativamente com o interessado ou respectivo cônjuge ou companheiro.
 
 ###### Art. 19 {#art19}
-Tags: #impedimento-suspeicao
 
 **Art. 19, caput** {#art19_cpt} A autoridade ou servidor que incorrer em impedimento deve comunicar o fato à autoridade competente, abstendo-se de atuar.
 
 **Art. 19, parágrafo único** {#art19_par1u} A omissão do dever de comunicar o impedimento constitui falta grave, para efeitos disciplinares.
 
 ###### Art. 20 {#art20}
-Tags: #impedimento-suspeicao
 
 **Art. 20, caput** {#art20_cpt} Pode ser argüida a suspeição de autoridade ou servidor que tenha amizade íntima ou inimizade notória com algum dos interessados ou com os respectivos cônjuges, companheiros, parentes e afins até o terceiro grau.
 
 ###### Art. 21 {#art21}
-Tags: #recurso-administrativo #impedimento-suspeicao
 
 **Art. 21, caput** {#art21_cpt} O indeferimento de alegação de suspeição poderá ser objeto de recurso, sem efeito suspensivo.
 
 ## CAPÍTULO VIII – DA FORMA, TEMPO E LUGAR DOS ATOS DO PROCESSO
 
 ###### Art. 22 {#art22}
-Tags: #processo-administrativo
 
 **Art. 22, caput** {#art22_cpt} Os atos do processo administrativo não dependem de forma determinada senão quando a lei expressamente a exigir.
 
@@ -223,28 +201,24 @@ Tags: #processo-administrativo
 **Art. 22, § 4º** {#art22_par4} O processo deverá ter suas páginas numeradas seqüencialmente e rubricadas.
 
 ###### Art. 23 {#art23}
-Tags:
 
 **Art. 23, caput** {#art23_cpt} Os atos do processo devem realizar-se em dias úteis, no horário normal de funcionamento da repartição na qual tramitar o processo.
 
 **Art. 23, parágrafo único** {#art23_par1u} Serão concluídos depois do horário normal os atos já iniciados, cujo adiamento prejudique o curso regular do procedimento ou cause dano ao interessado ou à Administração.
 
 ###### Art. 24 {#art24}
-Tags: #prazo #instrucao-processual
 
 **Art. 24, caput** {#art24_cpt} Inexistindo disposição específica, os atos do órgão ou autoridade responsável pelo processo e dos administrados que dele participem devem ser praticados no prazo de cinco dias, salvo motivo de força maior.
 
 **Art. 24, parágrafo único** {#art24_par1u} O prazo previsto neste artigo pode ser dilatado até o dobro, mediante comprovada justificação.
 
 ###### Art. 25 {#art25}
-Tags:
 
 **Art. 25, caput** {#art25_cpt} Os atos do processo devem realizar-se preferencialmente na sede do órgão, cientificando-se o interessado se outro for o local de realização.
 
 ## CAPÍTULO IX – DA COMUNICAÇÃO DOS ATOS
 
 ###### Art. 26 {#art26}
-Tags: #intimacao
 
 **Art. 26, caput** {#art26_cpt} O órgão competente perante o qual tramita o processo administrativo determinará a intimação do interessado para ciência de decisão ou a efetivação de diligências.
 
@@ -265,21 +239,18 @@ Tags: #intimacao
 **Art. 26, § 5º** {#art26_par5} As intimações serão nulas quando feitas sem observância das prescrições legais, mas o comparecimento do administrado supre sua falta ou irregularidade.
 
 ###### Art. 27 {#art27}
-Tags: #intimacao
 
 **Art. 27, caput** {#art27_cpt} O desatendimento da intimação não importa o reconhecimento da verdade dos fatos, nem a renúncia a direito pelo administrado.
 
 **Art. 27, parágrafo único** {#art27_par1u} No prosseguimento do processo, será garantido direito de ampla defesa ao interessado.
 
 ###### Art. 28 {#art28}
-Tags: #intimacao
 
 **Art. 28, caput** {#art28_cpt} Devem ser objeto de intimação os atos do processo que resultem para o interessado em imposição de deveres, ônus, sanções ou restrição ao exercício de direitos e atividades e os atos de outra natureza, de seu interesse.
 
 ## CAPÍTULO X – DA INSTRUÇÃO
 
 ###### Art. 29 {#art29}
-Tags: #instrucao-processual
 
 **Art. 29, caput** {#art29_cpt} As atividades de instrução destinadas a averiguar e comprovar os dados necessários à tomada de decisão realizam-se de ofício ou mediante impulsão do órgão responsável pelo processo, sem prejuízo do direito dos interessados de propor atuações probatórias.
 
@@ -288,12 +259,10 @@ Tags: #instrucao-processual
 **Art. 29, § 2º** {#art29_par2} Os atos de instrução que exijam a atuação dos interessados devem realizar-se do modo menos oneroso para estes.
 
 ###### Art. 30 {#art30}
-Tags: #instrucao-processual
 
 **Art. 30, caput** {#art30_cpt} São inadmissíveis no processo administrativo as provas obtidas por meios ilícitos.
 
 ###### Art. 31 {#art31}
-Tags: #prazo #participacao-publica #motivacao
 
 **Art. 31, caput** {#art31_cpt} Quando a matéria do processo envolver assunto de interesse geral, o órgão competente poderá, mediante despacho motivado, abrir período de consulta pública para manifestação de terceiros, antes da decisão do pedido, se não houver prejuízo para a parte interessada.
 
@@ -302,37 +271,30 @@ Tags: #prazo #participacao-publica #motivacao
 **Art. 31, § 2º** {#art31_par2} O comparecimento à consulta pública não confere, por si, a condição de interessado do processo, mas confere o direito de obter da Administração resposta fundamentada, que poderá ser comum a todas as alegações substancialmente iguais.
 
 ###### Art. 32 {#art32}
-Tags: #participacao-publica
 
 **Art. 32, caput** {#art32_cpt} Antes da tomada de decisão, a juízo da autoridade, diante da relevância da questão, poderá ser realizada audiência pública para debates sobre a matéria do processo.
 
 ###### Art. 33 {#art33}
-Tags:
 
 **Art. 33, caput** {#art33_cpt} Os órgãos e entidades administrativas, em matéria relevante, poderão estabelecer outros meios de participação de administrados, diretamente ou por meio de organizações e associações legalmente reconhecidas.
 
 ###### Art. 34 {#art34}
-Tags: #participacao-publica
 
 **Art. 34, caput** {#art34_cpt} Os resultados da consulta e audiência pública e de outros meios de participação de administrados deverão ser apresentados com a indicação do procedimento adotado.
 
 ###### Art. 35 {#art35}
-Tags: #instrucao-processual
 
 **Art. 35, caput** {#art35_cpt} Quando necessária à instrução do processo, a audiência de outros órgãos ou entidades administrativas poderá ser realizada em reunião conjunta, com a participação de titulares ou representantes dos órgãos competentes, lavrando-se a respectiva ata, a ser juntada aos autos.
 
 ###### Art. 36 {#art36}
-Tags: #instrucao-processual
 
 **Art. 36, caput** {#art36_cpt} Cabe ao interessado a prova dos fatos que tenha alegado, sem prejuízo do dever atribuído ao órgão competente para a instrução e do disposto no art. [[#art37|37]] desta Lei.
 
 ###### Art. 37 {#art37}
-Tags: #instrucao-processual
 
 **Art. 37, caput** {#art37_cpt} Quando o interessado declarar que fatos e dados estão registrados em documentos existentes na própria Administração responsável pelo processo ou em outro órgão administrativo, o órgão competente para a instrução proverá, de ofício, à obtenção dos documentos ou das respectivas cópias.
 
 ###### Art. 38 {#art38}
-Tags: #motivacao #instrucao-processual
 
 **Art. 38, caput** {#art38_cpt} O interessado poderá, na fase instrutória e antes da tomada da decisão, juntar documentos e pareceres, requerer diligências e perícias, bem como aduzir alegações referentes à matéria objeto do processo.
 
@@ -341,24 +303,20 @@ Tags: #motivacao #instrucao-processual
 **Art. 38, § 2º** {#art38_par2} Somente poderão ser recusadas, mediante decisão fundamentada, as provas propostas pelos interessados quando sejam ilícitas, impertinentes, desnecessárias ou protelatórias.
 
 ###### Art. 39 {#art39}
-Tags: #prazo #intimacao #instrucao-processual
 
 **Art. 39, caput** {#art39_cpt} Quando for necessária a prestação de informações ou a apresentação de provas pelos interessados ou terceiros, serão expedidas intimações para esse fim, mencionando-se data, prazo, forma e condições de atendimento.
 
 **Art. 39, parágrafo único** {#art39_par1u} Não sendo atendida a intimação, poderá o órgão competente, se entender relevante a matéria, suprir de ofício a omissão, não se eximindo de proferir a decisão.
 
 ###### Art. 40 {#art40}
-Tags: #prazo
 
 **Art. 40, caput** {#art40_cpt} Quando dados, atuações ou documentos solicitados ao interessado forem necessários à apreciação de pedido formulado, o não atendimento no prazo fixado pela Administração para a respectiva apresentação implicará arquivamento do processo.
 
 ###### Art. 41 {#art41}
-Tags: #instrucao-processual
 
 **Art. 41, caput** {#art41_cpt} Os interessados serão intimados de prova ou diligência ordenada, com antecedência mínima de três dias úteis, mencionando-se data, hora e local de realização.
 
 ###### Art. 42 {#art42}
-Tags: #prazo #instrucao-processual
 
 **Art. 42, caput** {#art42_cpt} Quando deva ser obrigatoriamente ouvido um órgão consultivo, o parecer deverá ser emitido no prazo máximo de quinze dias, salvo norma especial ou comprovada necessidade de maior prazo.
 
@@ -367,46 +325,38 @@ Tags: #prazo #instrucao-processual
 **Art. 42, § 2º** {#art42_par2} Se um parecer obrigatório e não vinculante deixar de ser emitido no prazo fixado, o processo poderá ter prosseguimento e ser decidido com sua dispensa, sem prejuízo da responsabilidade de quem se omitiu no atendimento.
 
 ###### Art. 43 {#art43}
-Tags: #prazo #instrucao-processual
 
 **Art. 43, caput** {#art43_cpt} Quando por disposição de ato normativo devam ser previamente obtidos laudos técnicos de órgãos administrativos e estes não cumprirem o encargo no prazo assinalado, o órgão responsável pela instrução deverá solicitar laudo técnico de outro órgão dotado de qualificação e capacidade técnica equivalentes.
 
 ###### Art. 44 {#art44}
-Tags: #prazo #instrucao-processual
 
 **Art. 44, caput** {#art44_cpt} Encerrada a instrução, o interessado terá o direito de manifestar-se no prazo máximo de dez dias, salvo se outro prazo for legalmente fixado.
 
 ###### Art. 45 {#art45}
-Tags: #motivacao
 
 **Art. 45, caput** {#art45_cpt} Em caso de risco iminente, a Administração Pública poderá motivadamente adotar providências acauteladoras sem a prévia manifestação do interessado.
 
 ###### Art. 46 {#art46}
-Tags:
 
 **Art. 46, caput** {#art46_cpt} Os interessados têm direito à vista do processo e a obter certidões ou cópias reprográficas dos dados e documentos que o integram, ressalvados os dados e documentos de terceiros protegidos por sigilo ou pelo direito à privacidade, à honra e à imagem.
 
 ###### Art. 47 {#art47}
-Tags: #instrucao-processual
 
 **Art. 47, caput** {#art47_cpt} O órgão de instrução que não for competente para emitir a decisão final elaborará relatório indicando o pedido inicial, o conteúdo das fases do procedimento e formulará proposta de decisão, objetivamente justificada, encaminhando o processo à autoridade competente.
 
 ## CAPÍTULO XI – DO DEVER DE DECIDIR
 
 ###### Art. 48 {#art48}
-Tags:
 
 **Art. 48, caput** {#art48_cpt} A Administração tem o dever de explicitamente emitir decisão nos processos administrativos e sobre solicitações ou reclamações, em matéria de sua competência.
 
 ###### Art. 49 {#art49}
-Tags: #prazo #motivacao #instrucao-processual
 
 **Art. 49, caput** {#art49_cpt} Concluída a instrução de processo administrativo, a Administração tem o prazo de até trinta dias para decidir, salvo prorrogação por igual período expressamente motivada.
 
 ## CAPÍTULO XI-A – DA DECISÃO COORDENADA *(Incluído pela [[lei-federal-14210-2021|Lei nº 14.210, de 2021]])*
 
 ###### Art. 49-A {#art49-a}
-Tags: #decisao-coordenada #instrucao-processual
 Alterações: [[lei-federal-14210-2021|Lei nº 14.210, de 2021]] (incluído: caput, inciso I, inciso II, § 1º, § 2º, § 3º, § 4º, § 5º, § 6º, § 6º, inciso I, § 6º, inciso II, § 6º, inciso III)
 
 **Art. 49-A, caput** {#art49-a_cpt} #incluido No âmbito da Administração Pública federal, as decisões administrativas que exijam a participação de 3 (três) ou mais setores, órgãos ou entidades poderão ser tomadas mediante decisão coordenada, sempre que: *(Incluído pela [[lei-federal-14210-2021|Lei nº 14.210, de 2021]])*
@@ -429,7 +379,6 @@ Alterações: [[lei-federal-14210-2021|Lei nº 14.210, de 2021]] (incluído: cap
 - **Art. 49-A, § 6º, inciso III** {#art49-a_par6_inc3} #incluido em que estejam envolvidas autoridades de Poderes distintos. *(Incluído pela [[lei-federal-14210-2021|Lei nº 14.210, de 2021]])*
 
 ###### Art. 49-B {#art49-b}
-Tags: #decisao-coordenada
 Alterações: [[lei-federal-14210-2021|Lei nº 14.210, de 2021]] (incluído: caput, parágrafo único)
 
 **Art. 49-B, caput** {#art49-b_cpt} #incluido Poderão habilitar-se a participar da decisão coordenada, na qualidade de ouvintes, os interessados de que trata o art. [[#art9|9º]] desta Lei. *(Incluído pela [[lei-federal-14210-2021|Lei nº 14.210, de 2021]])*
@@ -437,19 +386,16 @@ Alterações: [[lei-federal-14210-2021|Lei nº 14.210, de 2021]] (incluído: cap
 **Art. 49-B, parágrafo único** {#art49-b_par1u} #incluido A participação na reunião, que poderá incluir direito a voz, será deferida por decisão irrecorrível da autoridade responsável pela convocação da decisão coordenada. *(Incluído pela [[lei-federal-14210-2021|Lei nº 14.210, de 2021]])*
 
 ###### Art. 49-C {#art49-c}
-Tags:
 Alterações: [[lei-federal-14210-2021|Lei nº 14.210, de 2021]] (incluído: caput)
 
 **Art. 49-C, caput** {#art49-c_cpt} #incluido (VETADO). *(Incluído pela [[lei-federal-14210-2021|Lei nº 14.210, de 2021]])*
 
 ###### Art. 49-D {#art49-d}
-Tags: #decisao-coordenada
 Alterações: [[lei-federal-14210-2021|Lei nº 14.210, de 2021]] (incluído: caput)
 
 **Art. 49-D, caput** {#art49-d_cpt} #incluido Os participantes da decisão coordenada deverão ser intimados na forma do art. [[#art26|26]] desta Lei. *(Incluído pela [[lei-federal-14210-2021|Lei nº 14.210, de 2021]])*
 
 ###### Art. 49-E {#art49-e}
-Tags: #decisao-coordenada
 Alterações: [[lei-federal-14210-2021|Lei nº 14.210, de 2021]] (incluído: caput, parágrafo único)
 
 **Art. 49-E, caput** {#art49-e_cpt} #incluido Cada órgão ou entidade participante é responsável pela elaboração de documento específico sobre o tema atinente à respectiva competência, a fim de subsidiar os trabalhos e integrar o processo da decisão coordenada. *(Incluído pela [[lei-federal-14210-2021|Lei nº 14.210, de 2021]])*
@@ -457,7 +403,6 @@ Alterações: [[lei-federal-14210-2021|Lei nº 14.210, de 2021]] (incluído: cap
 **Art. 49-E, parágrafo único** {#art49-e_par1u} #incluido O documento previsto no caput deste artigo abordará a questão objeto da decisão coordenada e eventuais precedentes. *(Incluído pela [[lei-federal-14210-2021|Lei nº 14.210, de 2021]])*
 
 ###### Art. 49-F {#art49-f}
-Tags: #decisao-coordenada
 Alterações: [[lei-federal-14210-2021|Lei nº 14.210, de 2021]] (incluído: caput, parágrafo único)
 
 **Art. 49-F, caput** {#art49-f_cpt} #incluido Eventual dissenso na solução do objeto da decisão coordenada deverá ser manifestado durante as reuniões, de forma fundamentada, acompanhado das propostas de solução e de alteração necessárias para a resolução da questão. *(Incluído pela [[lei-federal-14210-2021|Lei nº 14.210, de 2021]])*
@@ -465,7 +410,6 @@ Alterações: [[lei-federal-14210-2021|Lei nº 14.210, de 2021]] (incluído: cap
 **Art. 49-F, parágrafo único** {#art49-f_par1u} #incluido Não poderá ser arguida matéria estranha ao objeto da convocação. *(Incluído pela [[lei-federal-14210-2021|Lei nº 14.210, de 2021]])*
 
 ###### Art. 49-G {#art49-g}
-Tags: #decisao-coordenada
 Alterações: [[lei-federal-14210-2021|Lei nº 14.210, de 2021]] (incluído: caput, inciso I, inciso II, inciso III, inciso IV, inciso V, inciso VI, § 1º, § 2º, § 3º)
 
 **Art. 49-G, caput** {#art49-g_cpt} #incluido A conclusão dos trabalhos da decisão coordenada será consolidada em ata, que conterá as seguintes informações: *(Incluído pela [[lei-federal-14210-2021|Lei nº 14.210, de 2021]])*
@@ -485,7 +429,6 @@ Alterações: [[lei-federal-14210-2021|Lei nº 14.210, de 2021]] (incluído: cap
 ## CAPÍTULO XII – DA MOTIVAÇÃO
 
 ###### Art. 50 {#art50}
-Tags: #motivacao #invalidacao-ato
 
 **Art. 50, caput** {#art50_cpt} Os atos administrativos deverão ser motivados, com indicação dos fatos e dos fundamentos jurídicos, quando:
 - **Art. 50, caput, inciso I** {#art50_cpt_inc1} neguem, limitem ou afetem direitos ou interesses;
@@ -506,7 +449,6 @@ Tags: #motivacao #invalidacao-ato
 ## CAPÍTULO XIII – DA DESISTÊNCIA E OUTROS CASOS DE EXTINÇÃO DO PROCESSO
 
 ###### Art. 51 {#art51}
-Tags:
 
 **Art. 51, caput** {#art51_cpt} O interessado poderá, mediante manifestação escrita, desistir total ou parcialmente do pedido formulado ou, ainda, renunciar a direitos disponíveis.
 
@@ -515,19 +457,16 @@ Tags:
 **Art. 51, § 2º** {#art51_par2} A desistência ou renúncia do interessado, conforme o caso, não prejudica o prosseguimento do processo, se a Administração considerar que o interesse público assim o exige.
 
 ###### Art. 52 {#art52}
-Tags:
 
 **Art. 52, caput** {#art52_cpt} O órgão competente poderá declarar extinto o processo quando exaurida sua finalidade ou o objeto da decisão se tornar impossível, inútil ou prejudicado por fato superveniente.
 
 ## CAPÍTULO XIV – DA ANULAÇÃO, REVOGAÇÃO E CONVALIDAÇÃO
 
 ###### Art. 53 {#art53}
-Tags: #invalidacao-ato
 
 **Art. 53, caput** {#art53_cpt} A Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos.
 
 ###### Art. 54 {#art54}
-Tags: #prazo #invalidacao-ato #decadencia #instrucao-processual
 
 **Art. 54, caput** {#art54_cpt} O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé.
 
@@ -536,14 +475,12 @@ Tags: #prazo #invalidacao-ato #decadencia #instrucao-processual
 **Art. 54, § 2º** {#art54_par2} Considera-se exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato.
 
 ###### Art. 55 {#art55}
-Tags: #invalidacao-ato
 
 **Art. 55, caput** {#art55_cpt} Em decisão na qual se evidencie não acarretarem lesão ao interesse público nem prejuízo a terceiros, os atos que apresentarem defeitos sanáveis poderão ser convalidados pela própria Administração.
 
 ## CAPÍTULO XV – DO RECURSO ADMINISTRATIVO E DA REVISÃO
 
 ###### Art. 56 {#art56}
-Tags: #recurso-administrativo #prazo
 Alterações: [[lei-federal-11417-2006|Lei nº 11.417, de 2006]] (incluído: § 3º)
 
 **Art. 56, caput** {#art56_cpt} Das decisões administrativas cabe recurso, em face de razões de legalidade e de mérito.
@@ -555,12 +492,10 @@ Alterações: [[lei-federal-11417-2006|Lei nº 11.417, de 2006]] (incluído: § 
 **Art. 56, § 3º** {#art56_par3} #incluido Se o recorrente alegar que a decisão administrativa contraria enunciado da súmula vinculante, caberá à autoridade prolatora da decisão impugnada, se não a reconsiderar, explicitar, antes de encaminhar o recurso à autoridade superior, as razões da aplicabilidade ou inaplicabilidade da súmula, conforme o caso. *(Incluído pela [[lei-federal-11417-2006|Lei nº 11.417, de 2006]])* *(Vigência)*
 
 ###### Art. 57 {#art57}
-Tags: #recurso-administrativo
 
 **Art. 57, caput** {#art57_cpt} O recurso administrativo tramitará no máximo por três instâncias administrativas, salvo disposição legal diversa.
 
 ###### Art. 58 {#art58}
-Tags: #recurso-administrativo
 
 **Art. 58, caput** {#art58_cpt} Têm legitimidade para interpor recurso administrativo:
 - **Art. 58, caput, inciso I** {#art58_cpt_inc1} os titulares de direitos e interesses que forem parte no processo;
@@ -569,7 +504,6 @@ Tags: #recurso-administrativo
 - **Art. 58, caput, inciso IV** {#art58_cpt_inc4} os cidadãos ou associações, quanto a direitos ou interesses difusos.
 
 ###### Art. 59 {#art59}
-Tags: #recurso-administrativo #prazo
 
 **Art. 59, caput** {#art59_cpt} Salvo disposição legal específica, é de dez dias o prazo para interposição de recurso administrativo, contado a partir da ciência ou divulgação oficial da decisão recorrida.
 
@@ -578,24 +512,20 @@ Tags: #recurso-administrativo #prazo
 **Art. 59, § 2º** {#art59_par2} O prazo mencionado no parágrafo anterior poderá ser prorrogado por igual período, ante justificativa explícita.
 
 ###### Art. 60 {#art60}
-Tags: #recurso-administrativo
 
 **Art. 60, caput** {#art60_cpt} O recurso interpõe-se por meio de requerimento no qual o recorrente deverá expor os fundamentos do pedido de reexame, podendo juntar os documentos que julgar convenientes.
 
 ###### Art. 61 {#art61}
-Tags: #recurso-administrativo
 
 **Art. 61, caput** {#art61_cpt} Salvo disposição legal em contrário, o recurso não tem efeito suspensivo.
 
 **Art. 61, parágrafo único** {#art61_par1u} Havendo justo receio de prejuízo de difícil ou incerta reparação decorrente da execução, a autoridade recorrida ou a imediatamente superior poderá, de ofício ou a pedido, dar efeito suspensivo ao recurso.
 
 ###### Art. 62 {#art62}
-Tags: #recurso-administrativo #prazo
 
 **Art. 62, caput** {#art62_cpt} Interposto o recurso, o órgão competente para dele conhecer deverá intimar os demais interessados para que, no prazo de cinco dias úteis, apresentem alegações.
 
 ###### Art. 63 {#art63}
-Tags: #recurso-administrativo #prazo
 
 **Art. 63, caput** {#art63_cpt} O recurso não será conhecido quando interposto:
 - **Art. 63, caput, inciso I** {#art63_cpt_inc1} fora do prazo;
@@ -608,26 +538,22 @@ Tags: #recurso-administrativo #prazo
 **Art. 63, § 2º** {#art63_par2} O não conhecimento do recurso não impede a Administração de rever de ofício o ato ilegal, desde que não ocorrida preclusão administrativa.
 
 ###### Art. 64 {#art64}
-Tags: #recurso-administrativo #invalidacao-ato
 
 **Art. 64, caput** {#art64_cpt} O órgão competente para decidir o recurso poderá confirmar, modificar, anular ou revogar, total ou parcialmente, a decisão recorrida, se a matéria for de sua competência.
 
 **Art. 64, parágrafo único** {#art64_par1u} Se da aplicação do disposto neste artigo puder decorrer gravame à situação do recorrente, este deverá ser cientificado para que formule suas alegações antes da decisão.
 
 ###### Art. 64-A {#art64-a}
-Tags: #recurso-administrativo
 Alterações: [[lei-federal-11417-2006|Lei nº 11.417, de 2006]] (incluído: caput)
 
 **Art. 64-A, caput** {#art64-a_cpt} #incluido Se o recorrente alegar violação de enunciado da súmula vinculante, o órgão competente para decidir o recurso explicitará as razões da aplicabilidade ou inaplicabilidade da súmula, conforme o caso. *(Incluído pela [[lei-federal-11417-2006|Lei nº 11.417, de 2006]])* *(Vigência)*
 
 ###### Art. 64-B {#art64-b}
-Tags: #recurso-administrativo
 Alterações: [[lei-federal-11417-2006|Lei nº 11.417, de 2006]] (incluído: caput)
 
 **Art. 64-B, caput** {#art64-b_cpt} #incluido Acolhida pelo Supremo Tribunal Federal a reclamação fundada em violação de enunciado da súmula vinculante, dar-se-á ciência à autoridade prolatora e ao órgão competente para o julgamento do recurso, que deverão adequar as futuras decisões administrativas em casos semelhantes, sob pena de responsabilização pessoal nas esferas cível, administrativa e penal. *(Incluído pela [[lei-federal-11417-2006|Lei nº 11.417, de 2006]])* *(Vigência)*
 
 ###### Art. 65 {#art65}
-Tags:
 
 **Art. 65, caput** {#art65_cpt} Os processos administrativos de que resultem sanções poderão ser revistos, a qualquer tempo, a pedido ou de ofício, quando surgirem fatos novos ou circunstâncias relevantes suscetíveis de justificar a inadequação da sanção aplicada.
 
@@ -636,7 +562,6 @@ Tags:
 ## CAPÍTULO XVI – DOS PRAZOS
 
 ###### Art. 66 {#art66}
-Tags: #prazo
 
 **Art. 66, caput** {#art66_cpt} Os prazos começam a correr a partir da data da cientificação oficial, excluindo-se da contagem o dia do começo e incluindo-se o do vencimento.
 
@@ -647,26 +572,22 @@ Tags: #prazo
 **Art. 66, § 3º** {#art66_par3} Os prazos fixados em meses ou anos contam-se de data a data. Se no mês do vencimento não houver o dia equivalente àquele do início do prazo, tem-se como termo o último dia do mês.
 
 ###### Art. 67 {#art67}
-Tags: #prazo #instrucao-processual
 
 **Art. 67, caput** {#art67_cpt} Salvo motivo de força maior devidamente comprovado, os prazos processuais não se suspendem.
 
 ## CAPÍTULO XVII – DAS SANÇÕES
 
 ###### Art. 68 {#art68}
-Tags:
 
 **Art. 68, caput** {#art68_cpt} As sanções, a serem aplicadas por autoridade competente, terão natureza pecuniária ou consistirão em obrigação de fazer ou de não fazer, assegurado sempre o direito de defesa.
 
 ## CAPÍTULO XVIII – DAS DISPOSIÇÕES FINAIS
 
 ###### Art. 69 {#art69}
-Tags: #processo-administrativo
 
 **Art. 69, caput** {#art69_cpt} Os processos administrativos específicos continuarão a reger-se por lei própria, aplicando-se-lhes apenas subsidiariamente os preceitos desta Lei.
 
 ###### Art. 69-A {#art69-a}
-Tags: #instrucao-processual #prioridade-tramitacao
 Alterações: [[lei-federal-12008-2009|Lei nº 12.008, de 2009]] (incluído: caput, inciso I, inciso II, inciso III, inciso IV, § 1º, § 2º, § 3º, § 4º)
 
 **Art. 69-A, caput** {#art69-a_cpt} #incluido Terão prioridade na tramitação, em qualquer órgão ou instância, os procedimentos administrativos em que figure como parte ou interessado: *(Incluído pela [[lei-federal-12008-2009|Lei nº 12.008, de 2009]])*
@@ -684,7 +605,6 @@ Alterações: [[lei-federal-12008-2009|Lei nº 12.008, de 2009]] (incluído: cap
 **Art. 69-A, § 4º** {#art69-a_par4} #incluido (VETADO) *(Incluído pela [[lei-federal-12008-2009|Lei nº 12.008, de 2009]])*
 
 ###### Art. 70 {#art70}
-Tags:
 
 **Art. 70, caput** {#art70_cpt} Esta Lei entra em vigor na data de sua publicação.
 

@@ -30,12 +30,10 @@ fonte: "PDF da publicação (4 páginas), enviado por Leo. O PDF diz: \"Esse tex
 **Preâmbulo** {#preambulo} O CONSELHO NACIONAL DO MEIO AMBIENTE-CONAMA, no uso das competências que lhe são conferidas pelo [[lei-federal-6938-1981#art8_cpt_inc1|art. 8o, inciso I da Lei no 6.938, de 31 de agosto de 1981]], e tendo em vista o disposto em seu Regimento Interno; Considerando a importância de se estabelecerem diretrizes e procedimentos de controle e gestão ambiental para orientar e disciplinar o uso e a exploração sustentáveis dos recursos naturais nos assentamentos de reforma agrária, de modo a assegurar a efetiva proteção do meio ambiente; Considerando a necessidade de licenciamento de atividades e empreendimentos realizados em assentamentos de reforma agrária; Considerando a relevância social do Programa Nacional de Reforma Agrária, resolve:
 
 ###### Art. 1º {#art1}
-Tags: #assentamento #licenciamento-ambiental #agropecuaria
 
 **Art. 1º, caput** {#art1_cpt} Esta Resolução estabelece procedimentos para o licenciamento ambiental de atividades agrossilvipastoris e de empreendimentos de infraestrutura, passíveis de licenciamento, realizados em assentamentos de reforma agrária.
 
 ###### Art. 2º {#art2}
-Tags: #definicao #assentamento #termo-compromisso #baixo-impacto-ambiental #interesse-social
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução, são adotadas as seguintes definições:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} Assentamentos de reforma agrária: conjunto de atividades e empreendimentos planejados e desenvolvidos em área destinada à reforma agrária, resultado do reordenamento da estrutura fundiária, de modo a promover a justiça social e o cumprimento da função social da propriedade;
@@ -65,7 +63,6 @@ Tags: #definicao #assentamento #termo-compromisso #baixo-impacto-ambiental #inte
   - **Art. 2º, caput, inciso VII, alínea "d"** {#art2_cpt_inc7_alid} captação, condução e reserva de água.
 
 ###### Art. 3º {#art3}
-Tags: #licenciamento-ambiental #assentamento #competencia #baixo-impacto-ambiental
 
 **Art. 3º, caput** {#art3_cpt} O licenciamento ambiental das atividades agrossilvipastoris e dos empreendimentos de infraestrutura, passíveis de licenciamento, em assentamentos de reforma agrária, será realizado pelo órgão ambiental competente.
 **Art. 3º, § 1º** {#art3_par1} Os empreendimentos de infraestrutura e as atividades agrossilvipastoris serão licenciados mediante procedimentos simplificados constituídos pelos órgãos ambientais considerando como referência o contido no Anexo.
@@ -77,28 +74,23 @@ Tags: #licenciamento-ambiental #assentamento #competencia #baixo-impacto-ambient
 **Art. 3º, § 4º** {#art3_par4} Caso o órgão ambiental competente identifique potencial impacto ambiental significativo deverá exigir o procedimento ordinário de licenciamento.
 
 ###### Art. 4º {#art4}
-Tags: #regularizacao #assentamento #licenciamento-ambiental
 
 **Art. 4º, caput** {#art4_cpt} Serão passíveis de regularização, mediante procedimento de licenciamento ambiental simplificado, os empreendimentos de infraestrutura já existentes e as atividades agrossilvipastoris já desenvolvidas passíveis de licenciamento.
 
 ###### Art. 5º {#art5}
-Tags: #termo-compromisso #assentamento #regularizacao
 
 **Art. 5º, caput** {#art5_cpt} O procedimento a que se refere o art. 4o dar-se-á com a assinatura do TCA, pelo órgão fundiário e pelo assentado responsável pela atividade agrossilvipastoril ou empreendimento de infraestrutura, junto ao órgão ambiental competente e posterior requerimento de licenciamento ambiental simplificado.
 **Art. 5º, parágrafo único** {#art5_par1u} A partir da apresentação do TCA e dentro do seu período de vigência, fica autorizada a continuidade das atividades agrossilvipastoris e a manutenção da infraestrutura existente.
 
 ###### Art. 6º {#art6}
-Tags: #participacao-publica #assentamento
 
 **Art. 6º, caput** {#art6_cpt} Fica assegurada a participação dos beneficiários de assentamentos de reforma agrária para acompanhar o processo de licenciamento de empreendimentos de infraestrutura e das atividades agrossilvipastoris passíveis de licenciamento, mantendo interlocução permanente com o órgão ambiental competente e com o órgão fundiário.
 
 ###### Art. 7º {#art7}
-Tags: #revogacao
 
 **Art. 7º, caput** {#art7_cpt} Fica revogada a [[resolucao-conama-387-2006|Resolução CONAMA no 387, de 27 de dezembro de 2006]].
 
 ###### Art. 8º {#art8}
-Tags: #vigencia
 
 **Art. 8º, caput** {#art8_cpt} Esta Resolução entra em vigor na data de sua publicação.
 

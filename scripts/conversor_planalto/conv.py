@@ -506,7 +506,8 @@ class Render:
             pass
         tg = ctrl + [t for t in tags.get(n.id, []) if t not in ctrl]
         s.tags_usadas.update(tg)
-        bits = [f'**{n.label}** {{#{n.id}}}'] + tg + ([txt] if txt else []) + ([anns] if anns else [])
+        # tags temáticas vão só para o frontmatter (tags_usadas); no corpo, só as de controle
+        bits = [f'**{n.label}** {{#{n.id}}}'] + ctrl + ([txt] if txt else []) + ([anns] if anns else [])
         line = ' '.join(bits)
         for core, an in n.extra:
             n2 = N('x', '', '', core, an)
@@ -562,7 +563,7 @@ class Render:
         out = [f'###### {a.heading} {{#{a.id}}}' if hasattr(a, 'heading') else f'###### {a.kids[0].label.rsplit(", caput",1)[0].split(", ")[-1]} {{#{a.id}}}']
         at = tags.get(a.id, [])
         s.tags_usadas.update(at)
-        out.append('Tags: ' + ' '.join(at) if at else 'Tags:')
+        # sem linha Tags: (tags temáticas só no frontmatter)
         start = len(s.hist)
         body = []
         for i, k in enumerate(a.kids):

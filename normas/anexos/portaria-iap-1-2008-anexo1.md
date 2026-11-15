@@ -21,21 +21,21 @@ fonte: "PDF da Portaria IAP nº 001/2008 (impressão do SIA, 9 páginas) enviado
 
 ### ANEXO DA PORTARIA N° 001/2008/IAP/GP
 
-- **Anexo, linha 1** {#anexo1_lin1} #art-anotacao #responsavel-tecnico #automonitoramento Os relatórios de Automonitoramento de Emissões Atmosféricas, deverão ser elaborados por técnico habilitado e apresentados para análise do IAP, em 02 (duas) vias, acompanhados da respectiva Anotação de Responsabilidade Técnica – ART, Certificado de Responsabilidade Técnica ou documento similar, contendo a descrição precisa da atividade e do tipo de serviço prestado, conforme dispõe a [[resolucao-sema-54-2006|Resolução 054/06-SEMA]].
-- **Anexo, linha 2** {#anexo1_lin2} #porte Para empreendimentos de porte grande ou excepcional, os relatórios deverão atender a todos os itens especificados a seguir.
-- **Anexo, linha 3** {#anexo1_lin3} #porte Para empreendimentos de porte pequeno ou médio, os relatórios serão simplificados, na forma do item IV.
-- **Anexo, linha 4** {#anexo1_lin4} #porte O porte do empreendimento deve ser conforme determina a [[lei-estadual-10233-1992|Lei Estadual n° 10.233 de dezembro de 1992]]:
+- **Anexo, linha 1** {#anexo1_lin1} Os relatórios de Automonitoramento de Emissões Atmosféricas, deverão ser elaborados por técnico habilitado e apresentados para análise do IAP, em 02 (duas) vias, acompanhados da respectiva Anotação de Responsabilidade Técnica – ART, Certificado de Responsabilidade Técnica ou documento similar, contendo a descrição precisa da atividade e do tipo de serviço prestado, conforme dispõe a [[resolucao-sema-54-2006|Resolução 054/06-SEMA]].
+- **Anexo, linha 2** {#anexo1_lin2} Para empreendimentos de porte grande ou excepcional, os relatórios deverão atender a todos os itens especificados a seguir.
+- **Anexo, linha 3** {#anexo1_lin3} Para empreendimentos de porte pequeno ou médio, os relatórios serão simplificados, na forma do item IV.
+- **Anexo, linha 4** {#anexo1_lin4} O porte do empreendimento deve ser conforme determina a [[lei-estadual-10233-1992|Lei Estadual n° 10.233 de dezembro de 1992]]:
 
-- **Anexo, Tabela de porte, linha 1** {#anexo1_tab6_lin1} #porte Porte do Empreendimento: Pequeno | Área Construída (m2): Até 2.000 | Investimento Total (UPF/PR): de 2.000 até 8.000 | Número de Empregados: até 50
-- **Anexo, Tabela de porte, linha 2** {#anexo1_tab6_lin2} #porte Porte do Empreendimento: Médio | Área Construída (m2): de 2.000 à 10.000 | Investimento Total (UPF/PR): de 8.000 até 80.000 | Número de Empregados: de 50 até 100
-- **Anexo, Tabela de porte, linha 3** {#anexo1_tab6_lin3} #porte Porte do Empreendimento: Grande | Área Construída (m2): de 10.000 à 40.000 | Investimento Total (UPF/PR): de 80.000 até 800.000 | Número de Empregados: de 100 até 1.000
-- **Anexo, Tabela de porte, linha 4** {#anexo1_tab6_lin4} #porte Porte do Empreendimento: Excepcional | Área Construída (m2): acima de 40.000 | Investimento Total (UPF/PR): acima de 800.000 | Número de Empregados: acima de 1.000
+- **Anexo, Tabela de porte, linha 1** {#anexo1_tab6_lin1} Porte do Empreendimento: Pequeno | Área Construída (m2): Até 2.000 | Investimento Total (UPF/PR): de 2.000 até 8.000 | Número de Empregados: até 50
+- **Anexo, Tabela de porte, linha 2** {#anexo1_tab6_lin2} Porte do Empreendimento: Médio | Área Construída (m2): de 2.000 à 10.000 | Investimento Total (UPF/PR): de 8.000 até 80.000 | Número de Empregados: de 50 até 100
+- **Anexo, Tabela de porte, linha 3** {#anexo1_tab6_lin3} Porte do Empreendimento: Grande | Área Construída (m2): de 10.000 à 40.000 | Investimento Total (UPF/PR): de 80.000 até 800.000 | Número de Empregados: de 100 até 1.000
+- **Anexo, Tabela de porte, linha 4** {#anexo1_tab6_lin4} Porte do Empreendimento: Excepcional | Área Construída (m2): acima de 40.000 | Investimento Total (UPF/PR): acima de 800.000 | Número de Empregados: acima de 1.000
 
 ### EMPREENDIMENTOS DE PORTE GRANDE OU EXCEPCIONAL
 
-- **Anexo, linha 5** {#anexo1_lin5} #automonitoramento #frequencia-monitoramento A freqüência de encaminhamento dos Relatórios de Automonitoramento deve ser de acordo com o estabelecido a partir do Programa de Automonitoramento apresentado e aprovado, conforme o artigo 66-a da [[resolucao-sema-54-2006|Resolução 054/06-SEMA]].
-- **Anexo, linha 6** {#anexo1_lin6} #relatorio Os relatórios parciais, referentes às medições realizadas no período, devem ser mantidos na empresa, à disposição do IAP para consulta a qualquer tempo.
-- **Anexo, linha 7** {#anexo1_lin7} #relatorio Os Relatórios de Automonitoramento de Emissões Atmosféricas, devem ser compostos de três seções:
+- **Anexo, linha 5** {#anexo1_lin5} A freqüência de encaminhamento dos Relatórios de Automonitoramento deve ser de acordo com o estabelecido a partir do Programa de Automonitoramento apresentado e aprovado, conforme o artigo 66-a da [[resolucao-sema-54-2006|Resolução 054/06-SEMA]].
+- **Anexo, linha 6** {#anexo1_lin6} Os relatórios parciais, referentes às medições realizadas no período, devem ser mantidos na empresa, à disposição do IAP para consulta a qualquer tempo.
+- **Anexo, linha 7** {#anexo1_lin7} Os Relatórios de Automonitoramento de Emissões Atmosféricas, devem ser compostos de três seções:
 - **Anexo, linha 8** {#anexo1_lin8} I- Resumo
 - **Anexo, linha 9** {#anexo1_lin9} II- Relato de Desempenho
 - **Anexo, linha 10** {#anexo1_lin10} III- Relatórios de medições
@@ -45,7 +45,7 @@ fonte: "PDF da Portaria IAP nº 001/2008 (impressão do SIA, 9 páginas) enviado
 
 #### INFORMAÇÕES CADASTRAIS
 
-- **Anexo, linha 11** {#anexo1_lin11} #cadastro · O resumo das informações cadastrais deverá ser apresentado conforme o QUADRO 01.
+- **Anexo, linha 11** {#anexo1_lin11} · O resumo das informações cadastrais deverá ser apresentado conforme o QUADRO 01.
 
 #### QUADRO 01 - EMPREENDEDOR
 
@@ -74,12 +74,12 @@ fonte: "PDF da Portaria IAP nº 001/2008 (impressão do SIA, 9 páginas) enviado
 
 ##### o DESCRIÇÃO DA ATIVIDADE
 
-- **Anexo, linha 12** {#anexo1_lin12} #emissao-atmosferica · Breve descrição do processo produtivo da indústria, destacando os processos geradores de emissões atmosféricas.
-- **Anexo, linha 13** {#anexo1_lin13} #poluente-atmosferico · Croqui do processo produtivo, identificando os pontos de emissão atmosférica e respectivos poluentes.
+- **Anexo, linha 12** {#anexo1_lin12} · Breve descrição do processo produtivo da indústria, destacando os processos geradores de emissões atmosféricas.
+- **Anexo, linha 13** {#anexo1_lin13} · Croqui do processo produtivo, identificando os pontos de emissão atmosférica e respectivos poluentes.
 
 ##### o IDENTIFICAÇÃO DOS PROCESSOS QUE APRESENTAM EMISSÕES ATMOSFÉRICAS
 
-- **Anexo, linha 14** {#anexo1_lin14} #emissao-atmosferica · Cada processo, fonte de emissões atmosféricas, deve ser caracterizado através de um formulário, conforme o QUADRO 02.
+- **Anexo, linha 14** {#anexo1_lin14} · Cada processo, fonte de emissões atmosféricas, deve ser caracterizado através de um formulário, conforme o QUADRO 02.
 
 #### QUADRO 02 - PROCESSO
 
@@ -103,9 +103,9 @@ fonte: "PDF da Portaria IAP nº 001/2008 (impressão do SIA, 9 páginas) enviado
 
 #### INFORMAÇÕES SOBRE EMISSÕES ATMOSFÉRICAS - MONITORAMENTO
 
-- **Anexo, linha 15** {#anexo1_lin15} #monitoramento · Para cada monitoramento ou medição, os resultados devem ser resumidos segundo o QUADRO 03.
-- **Anexo, linha 16** {#anexo1_lin16} #monitoramento-continuo · Para cada período de monitoramento contínuo, além do QUADRO 03, deve ser preenchido o formulário de acordo com o QUADRO 04
-- **Anexo, linha 17** {#anexo1_lin17} #monitoramento-entorno · Para cada campanha de monitoramento no entorno, os resultados devem ser resumidos segundo o QUADRO 05.
+- **Anexo, linha 15** {#anexo1_lin15} · Para cada monitoramento ou medição, os resultados devem ser resumidos segundo o QUADRO 03.
+- **Anexo, linha 16** {#anexo1_lin16} · Para cada período de monitoramento contínuo, além do QUADRO 03, deve ser preenchido o formulário de acordo com o QUADRO 04
+- **Anexo, linha 17** {#anexo1_lin17} · Para cada campanha de monitoramento no entorno, os resultados devem ser resumidos segundo o QUADRO 05.
 
 #### QUADRO 03 – MONITORAMENTO
 
@@ -178,16 +178,16 @@ fonte: "PDF da Portaria IAP nº 001/2008 (impressão do SIA, 9 páginas) enviado
 
 #### INTERPRETAÇÃO E AVALIAÇÃO DOS RESULTADOS
 
-- **Anexo, linha 18** {#anexo1_lin18} #relatorio · Apresentar os resultados obtidos durante o período, desde o último relatório, em forma de tabela ou gráfico, que demonstrem a evolução do desempenho de cada processo quanto às emissões atmosféricas;
-- **Anexo, linha 19** {#anexo1_lin19} #relatorio · Relatar as condições operacionais dos processos avaliados para cada monitoramento realizado;
-- **Anexo, linha 20** {#anexo1_lin20} #relatorio · Relatar e avaliar episódios excepcionais que justifiquem resultados excepcionais obtidos, quando pertinente;
-- **Anexo, linha 21** {#anexo1_lin21} #relatorio · Descrever a situação de manutenção das fontes e equipamentos de controle de emissões;
-- **Anexo, linha 22** {#anexo1_lin22} #relatorio · Comentar o desempenho no período, justificando os resultados obtidos e informando todas as ações tomadas para a melhoria de desempenho;
-- **Anexo, linha 23** {#anexo1_lin23} #relatorio · Relacionar melhorias necessárias, identificando medidas a serem adotadas e seu cronograma de implementação;
+- **Anexo, linha 18** {#anexo1_lin18} · Apresentar os resultados obtidos durante o período, desde o último relatório, em forma de tabela ou gráfico, que demonstrem a evolução do desempenho de cada processo quanto às emissões atmosféricas;
+- **Anexo, linha 19** {#anexo1_lin19} · Relatar as condições operacionais dos processos avaliados para cada monitoramento realizado;
+- **Anexo, linha 20** {#anexo1_lin20} · Relatar e avaliar episódios excepcionais que justifiquem resultados excepcionais obtidos, quando pertinente;
+- **Anexo, linha 21** {#anexo1_lin21} · Descrever a situação de manutenção das fontes e equipamentos de controle de emissões;
+- **Anexo, linha 22** {#anexo1_lin22} · Comentar o desempenho no período, justificando os resultados obtidos e informando todas as ações tomadas para a melhoria de desempenho;
+- **Anexo, linha 23** {#anexo1_lin23} · Relacionar melhorias necessárias, identificando medidas a serem adotadas e seu cronograma de implementação;
 
 #### PLANO DE CORREÇÃO
 
-- **Anexo, linha 24** {#anexo1_lin24} #plano-correcao · Em caso de não-conformidades, apresentar plano de correção, contendo todas as medidas a serem tomadas para o atendimento aos padrões estabelecidos e seu respectivo cronograma de implantação.
+- **Anexo, linha 24** {#anexo1_lin24} · Em caso de não-conformidades, apresentar plano de correção, contendo todas as medidas a serem tomadas para o atendimento aos padrões estabelecidos e seu respectivo cronograma de implantação.
 
 ### III. RELATÓRIOS DE MONITORAMENTO/ MEDIÇÃO
 
@@ -197,17 +197,17 @@ fonte: "PDF da Portaria IAP nº 001/2008 (impressão do SIA, 9 páginas) enviado
 - **Anexo, linha 25** {#anexo1_lin25} Os relatórios de medições de emissões atmosféricas devem apresentar as seguintes informações:
 - **Anexo, linha 26** {#anexo1_lin26} · Informações sobre o empreendimento, conforme QUADRO 01;
 - **Anexo, linha 27** {#anexo1_lin27} · Identificação dos processos, conforme QUADRO 02;
-- **Anexo, linha 28** {#anexo1_lin28} #monitoramento-descontinuo · Resultados das análises das emissões, conforme QUADRO 03 para monitoramento descontínuo;
-- **Anexo, linha 29** {#anexo1_lin29} #monitoramento-continuo · Resultados das análises das emissões, conforme QUADRO 04 para monitoramento contínuo;
-- **Anexo, linha 30** {#anexo1_lin30} #amostragem · Metodologia de amostragem e análise, indicando as normas e metodologias empregadas para a determinação de cada poluente, de acordo com as constantes do anexo da resolução 054/06-SEMA;
-- **Anexo, linha 31** {#anexo1_lin31} #amostragem · Condições de amostragem fora do previsto pela norma devem ser comentadas e justificadas;
-- **Anexo, linha 32** {#anexo1_lin32} #amostragem #chamine · Descrição detalhada do ponto de amostragem, inclusive da estrutura necessária para a realização da amostragem e/ou determinação direta de poluentes;
-- **Anexo, linha 33** {#anexo1_lin33} #monitoramento-entorno · No caso de monitoramento no entorno:
-- **Anexo, linha 34** {#anexo1_lin34} #monitoramento-entorno · Resultados das análises das emissões, conforme QUADRO 05 para monitoramento no entorno;
-- **Anexo, linha 35** {#anexo1_lin35} #monitoramento-entorno #direcao-vento · Desenho com detalhamento das distâncias entre o equipamento de monitoramento e fontes dos processos avaliados, de outras fontes interferentes, indicação da direção do vento predominante e nos dias de amostragem;
-- **Anexo, linha 36** {#anexo1_lin36} #monitoramento-entorno · Interpretação dos resultados do monitoramento no entorno, em relação às condições operacionais, localização do equipamento de amostragem, condições climáticas e fontes interferentes;
-- **Anexo, linha 37** {#anexo1_lin37} #art-anotacao #responsavel-tecnico · Profissional habilitado pelo seu conselho de classe, com a apresentação de Anotação de Responsabilidade Técnica – ART, Certificado de Atividade Técnica, ou documento similar, onde contendo a descrição precisa da atividade e do tipo de serviço prestado;
-- **Anexo, linha 38** {#anexo1_lin38} #calibracao · Certificado de calibração do equipamento, dentro da validade (um ano);
+- **Anexo, linha 28** {#anexo1_lin28} · Resultados das análises das emissões, conforme QUADRO 03 para monitoramento descontínuo;
+- **Anexo, linha 29** {#anexo1_lin29} · Resultados das análises das emissões, conforme QUADRO 04 para monitoramento contínuo;
+- **Anexo, linha 30** {#anexo1_lin30} · Metodologia de amostragem e análise, indicando as normas e metodologias empregadas para a determinação de cada poluente, de acordo com as constantes do anexo da resolução 054/06-SEMA;
+- **Anexo, linha 31** {#anexo1_lin31} · Condições de amostragem fora do previsto pela norma devem ser comentadas e justificadas;
+- **Anexo, linha 32** {#anexo1_lin32} · Descrição detalhada do ponto de amostragem, inclusive da estrutura necessária para a realização da amostragem e/ou determinação direta de poluentes;
+- **Anexo, linha 33** {#anexo1_lin33} · No caso de monitoramento no entorno:
+- **Anexo, linha 34** {#anexo1_lin34} · Resultados das análises das emissões, conforme QUADRO 05 para monitoramento no entorno;
+- **Anexo, linha 35** {#anexo1_lin35} · Desenho com detalhamento das distâncias entre o equipamento de monitoramento e fontes dos processos avaliados, de outras fontes interferentes, indicação da direção do vento predominante e nos dias de amostragem;
+- **Anexo, linha 36** {#anexo1_lin36} · Interpretação dos resultados do monitoramento no entorno, em relação às condições operacionais, localização do equipamento de amostragem, condições climáticas e fontes interferentes;
+- **Anexo, linha 37** {#anexo1_lin37} · Profissional habilitado pelo seu conselho de classe, com a apresentação de Anotação de Responsabilidade Técnica – ART, Certificado de Atividade Técnica, ou documento similar, onde contendo a descrição precisa da atividade e do tipo de serviço prestado;
+- **Anexo, linha 38** {#anexo1_lin38} · Certificado de calibração do equipamento, dentro da validade (um ano);
 - **Anexo, linha 39** {#anexo1_lin39} · Planilhas de campo, conforme orientações abaixo:
 
 #### 2. ORIENTAÇÕES PARA A REALIZAÇÃO E REGISTRO DAS MEDIÇÕES
@@ -215,50 +215,50 @@ fonte: "PDF da Portaria IAP nº 001/2008 (impressão do SIA, 9 páginas) enviado
 
 ##### 2.1. DETERMINAÇÃO DE GASES ON-LINE
 
-- **Anexo, linha 40** {#anexo1_lin40} #monitoramento-descontinuo · Para a medição de gases on-line, utilizar o formulário abaixo;
-- **Anexo, linha 41** {#anexo1_lin41} #monitoramento-descontinuo · Preferencialmente deve ser utilizada a planilha eletrônica, que pode ser obtida junto à sede do IAP;
-- **Anexo, linha 42** {#anexo1_lin42} #monitoramento-descontinuo · As colunas I e J se referem às temperaturas na chaminé e no ambiente respectivamente;
-- **Anexo, linha 43** {#anexo1_lin43} #monitoramento-descontinuo · A duração da medição não deve ser inferior a dez minutos;
-- **Anexo, linha 44** {#anexo1_lin44} #monitoramento-descontinuo · O intervalo de tempo entre as medições deve ser constante, por exemplo 1 minuto;
-- **Anexo, linha 45** {#anexo1_lin45} #monitoramento-descontinuo · Para cada ponto medido, deve ser anexada uma cópia do extrato da impressora do analisador de gases;
-- **Anexo, linha 46** {#anexo1_lin46} #oxigenio-referencia · A correção para as condições referenciais de oxigênio, para obtenção do resultado final, deve ser realizada a partir das médias das medições instantâneas de oxigênio e dos poluentes.
+- **Anexo, linha 40** {#anexo1_lin40} · Para a medição de gases on-line, utilizar o formulário abaixo;
+- **Anexo, linha 41** {#anexo1_lin41} · Preferencialmente deve ser utilizada a planilha eletrônica, que pode ser obtida junto à sede do IAP;
+- **Anexo, linha 42** {#anexo1_lin42} · As colunas I e J se referem às temperaturas na chaminé e no ambiente respectivamente;
+- **Anexo, linha 43** {#anexo1_lin43} · A duração da medição não deve ser inferior a dez minutos;
+- **Anexo, linha 44** {#anexo1_lin44} · O intervalo de tempo entre as medições deve ser constante, por exemplo 1 minuto;
+- **Anexo, linha 45** {#anexo1_lin45} · Para cada ponto medido, deve ser anexada uma cópia do extrato da impressora do analisador de gases;
+- **Anexo, linha 46** {#anexo1_lin46} · A correção para as condições referenciais de oxigênio, para obtenção do resultado final, deve ser realizada a partir das médias das medições instantâneas de oxigênio e dos poluentes.
 
 ##### 2.2. OUTROS POLUENTES POR DETERMINAÇÃO DESCONTÍNUA
 
-- **Anexo, linha 47** {#anexo1_lin47} #amostragem · As amostragens devem ser representativas, considerando as variações típicas do processo;
-- **Anexo, linha 48** {#anexo1_lin48} #amostragem · Devem ser feitas três amostragens por medição, informando os resultados individuais de cada uma e a sua média aritmética, admitido o descarte de um dos resultados, se discrepante;
-- **Anexo, linha 49** {#anexo1_lin49} #amostragem · a condição de operação durante a amostragem deve ser aquela que predomina na maioria do tempo operado (condição típica) e devidamente documentada;
-- **Anexo, linha 50** {#anexo1_lin50} #oxigenio-referencia · a medição de O2 para a correção para condições referenciais deve ser feita no mesmo local e ao mesmo tempo da amostragem para outros poluentes.
-- **Anexo, linha 51** {#anexo1_lin51} #material-particulado · Para a determinação de material particulado, adicionalmente:
-- **Anexo, linha 52** {#anexo1_lin52} #material-particulado · Preferencialmente, deverá ser utilizada a planilha eletrônica que pode ser obtida junto à sede do IAP;
-- **Anexo, linha 53** {#anexo1_lin53} #material-particulado · devem ser apresentadas as leituras (temperatura, pressão, velocidade, volume, duração) para cada posição da sonda na formatação prevista pela norma que o equipamento atende;
-- **Anexo, linha 54** {#anexo1_lin54} #material-particulado · deve ser apresentada uma folha de pesagem para cada filtro utilizado;
-- **Anexo, linha 55** {#anexo1_lin55} #material-particulado · para cada medição deve ser elaborado um folha de resultados contendo:
-- **Anexo, linha 56** {#anexo1_lin56} #material-particulado · temperatura média na chaminé
-- **Anexo, linha 57** {#anexo1_lin57} #material-particulado · temperatura média do gasômetro (se aplicável)
-- **Anexo, linha 58** {#anexo1_lin58} #material-particulado · volume do gás medido
-- **Anexo, linha 59** {#anexo1_lin59} #material-particulado · umidade do gás
-- **Anexo, linha 60** {#anexo1_lin60} #material-particulado · velocidade média dos gases
-- **Anexo, linha 61** {#anexo1_lin61} #material-particulado · média do valor deltaH do orifício do gasômetro (caso aplicável)
-- **Anexo, linha 62** {#anexo1_lin62} #material-particulado #vazao · vazão pela chaminé (cond. normais, base seca)
-- **Anexo, linha 63** {#anexo1_lin63} #material-particulado · concentração de material particulado em mg/Nm3, base seca (deve ser citada a norma usada para o cálculo da concentração ou informada a fórmula)
-- **Anexo, linha 64** {#anexo1_lin64} #material-particulado · avaliação da condição isocinética;
+- **Anexo, linha 47** {#anexo1_lin47} · As amostragens devem ser representativas, considerando as variações típicas do processo;
+- **Anexo, linha 48** {#anexo1_lin48} · Devem ser feitas três amostragens por medição, informando os resultados individuais de cada uma e a sua média aritmética, admitido o descarte de um dos resultados, se discrepante;
+- **Anexo, linha 49** {#anexo1_lin49} · a condição de operação durante a amostragem deve ser aquela que predomina na maioria do tempo operado (condição típica) e devidamente documentada;
+- **Anexo, linha 50** {#anexo1_lin50} · a medição de O2 para a correção para condições referenciais deve ser feita no mesmo local e ao mesmo tempo da amostragem para outros poluentes.
+- **Anexo, linha 51** {#anexo1_lin51} · Para a determinação de material particulado, adicionalmente:
+- **Anexo, linha 52** {#anexo1_lin52} · Preferencialmente, deverá ser utilizada a planilha eletrônica que pode ser obtida junto à sede do IAP;
+- **Anexo, linha 53** {#anexo1_lin53} · devem ser apresentadas as leituras (temperatura, pressão, velocidade, volume, duração) para cada posição da sonda na formatação prevista pela norma que o equipamento atende;
+- **Anexo, linha 54** {#anexo1_lin54} · deve ser apresentada uma folha de pesagem para cada filtro utilizado;
+- **Anexo, linha 55** {#anexo1_lin55} · para cada medição deve ser elaborado um folha de resultados contendo:
+- **Anexo, linha 56** {#anexo1_lin56} · temperatura média na chaminé
+- **Anexo, linha 57** {#anexo1_lin57} · temperatura média do gasômetro (se aplicável)
+- **Anexo, linha 58** {#anexo1_lin58} · volume do gás medido
+- **Anexo, linha 59** {#anexo1_lin59} · umidade do gás
+- **Anexo, linha 60** {#anexo1_lin60} · velocidade média dos gases
+- **Anexo, linha 61** {#anexo1_lin61} · média do valor deltaH do orifício do gasômetro (caso aplicável)
+- **Anexo, linha 62** {#anexo1_lin62} · vazão pela chaminé (cond. normais, base seca)
+- **Anexo, linha 63** {#anexo1_lin63} · concentração de material particulado em mg/Nm3, base seca (deve ser citada a norma usada para o cálculo da concentração ou informada a fórmula)
+- **Anexo, linha 64** {#anexo1_lin64} · avaliação da condição isocinética;
 
 ##### 2.3. MONITORAMENTO CONTÍNUO
 
-- **Anexo, linha 65** {#anexo1_lin65} #monitoramento-continuo · Planilhas mensais, apresentando as concentrações diárias dos poluentes e respectivas médias;
-- **Anexo, linha 66** {#anexo1_lin66} #monitoramento-continuo · Apresentar a disponibilidade do equipamento de monitoramento para efeito de atendimento à condição de monitoramento contínuo;
-- **Anexo, linha 67** {#anexo1_lin67} #monitoramento-continuo · Informar sobre a validação das médias diárias, considerando o critério de 75% de tempo de operação diária;
-- **Anexo, linha 68** {#anexo1_lin68} #monitoramento-continuo · Relatar dados descartados e sua justificativa;
-- **Anexo, linha 69** {#anexo1_lin69} #monitoramento-continuo · Demonstrar a condição de atendimento ao padrão de emissão.
+- **Anexo, linha 65** {#anexo1_lin65} · Planilhas mensais, apresentando as concentrações diárias dos poluentes e respectivas médias;
+- **Anexo, linha 66** {#anexo1_lin66} · Apresentar a disponibilidade do equipamento de monitoramento para efeito de atendimento à condição de monitoramento contínuo;
+- **Anexo, linha 67** {#anexo1_lin67} · Informar sobre a validação das médias diárias, considerando o critério de 75% de tempo de operação diária;
+- **Anexo, linha 68** {#anexo1_lin68} · Relatar dados descartados e sua justificativa;
+- **Anexo, linha 69** {#anexo1_lin69} · Demonstrar a condição de atendimento ao padrão de emissão.
 
 ### EMPREENDIMENTOS DE PORTE PEQUENO OU MÉDIO
 
-- **Anexo, linha 70** {#anexo1_lin70} #porte #renovacao #isencao Empreendimentos de porte pequeno ou médio devem encaminhar seus Relatórios de Automonitoramento de Emissões Atmosféricas Simplificados como parte integrante dos processos de Renovação de Licença de Operação, Renovação de Licença Simplificada ou Renovação do Certificado de Isenção de Licenciamento.
-- **Anexo, linha 71** {#anexo1_lin71} #relatorio Os relatórios parciais, referentes às medições realizadas no período, devem ser mantidos na empresa, à disposição do IAP para consulta a qualquer tempo.
-- **Anexo, linha 72** {#anexo1_lin72} #relatorio Os Relatórios de Automonitoramento de Emissões Atmosféricas Simplificados, devem compostos de duas seções:
-- **Anexo, linha 73** {#anexo1_lin73} #relatorio I- Relato de desempenho no período, fazendo referência às medidas adotadas para o controle das emissões atmosféricas e sua eficácia, incluindo o controle em equipamentos de combustão.
-- **Anexo, linha 74** {#anexo1_lin74} #relatorio II- Relatórios de medições de acordo com as diretrizes constantes da seção III. RELATÓRIOS DE MONITORAMENTO/ MEDIÇÃO para relatórios de automonitoramento completo
+- **Anexo, linha 70** {#anexo1_lin70} Empreendimentos de porte pequeno ou médio devem encaminhar seus Relatórios de Automonitoramento de Emissões Atmosféricas Simplificados como parte integrante dos processos de Renovação de Licença de Operação, Renovação de Licença Simplificada ou Renovação do Certificado de Isenção de Licenciamento.
+- **Anexo, linha 71** {#anexo1_lin71} Os relatórios parciais, referentes às medições realizadas no período, devem ser mantidos na empresa, à disposição do IAP para consulta a qualquer tempo.
+- **Anexo, linha 72** {#anexo1_lin72} Os Relatórios de Automonitoramento de Emissões Atmosféricas Simplificados, devem compostos de duas seções:
+- **Anexo, linha 73** {#anexo1_lin73} I- Relato de desempenho no período, fazendo referência às medidas adotadas para o controle das emissões atmosféricas e sua eficácia, incluindo o controle em equipamentos de combustão.
+- **Anexo, linha 74** {#anexo1_lin74} II- Relatórios de medições de acordo com as diretrizes constantes da seção III. RELATÓRIOS DE MONITORAMENTO/ MEDIÇÃO para relatórios de automonitoramento completo
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

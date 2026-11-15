@@ -19,107 +19,107 @@ fonte: PDF da IN IAT 33/2025 assinado digitalmente em 30/05/2025 (69 páginas), 
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo IV, linha 1** {#anexo4_lin1} #art-anotacao #responsavel-tecnico #pca O PLANO DE CONTROLE AMBIENTAL deverá ser elaborado por técnico habilitado e apresentados para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo IV, linha 1** {#anexo4_lin1} O PLANO DE CONTROLE AMBIENTAL deverá ser elaborado por técnico habilitado e apresentados para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 - **Anexo IV, linha 2** {#anexo4_lin2} 1. DADOS CADASTRAIS
 - **Anexo IV, linha 3** {#anexo4_lin3} Razão social;
-- **Anexo IV, linha 4** {#anexo4_lin4} #cnpj CNPJ;
+- **Anexo IV, linha 4** {#anexo4_lin4} CNPJ;
 - **Anexo IV, linha 5** {#anexo4_lin5} Endereço;
-- **Anexo IV, linha 6** {#anexo4_lin6} #responsavel-legal Nome do representante legal;
-- **Anexo IV, linha 7** {#anexo4_lin7} #responsavel-legal Telefone do representante legal;
-- **Anexo IV, linha 8** {#anexo4_lin8} #responsavel-legal E-mail do representante legal;
+- **Anexo IV, linha 6** {#anexo4_lin6} Nome do representante legal;
+- **Anexo IV, linha 7** {#anexo4_lin7} Telefone do representante legal;
+- **Anexo IV, linha 8** {#anexo4_lin8} E-mail do representante legal;
 - **Anexo IV, linha 9** {#anexo4_lin9} Pessoa para contato;
 - **Anexo IV, linha 10** {#anexo4_lin10} Telefone da pessoa para contato;
 - **Anexo IV, linha 11** {#anexo4_lin11} E-mail da pessoa para contato.
-- **Anexo IV, linha 12** {#anexo4_lin12} #responsavel-tecnico #pca 2. DADOS DA EQUIPE TÉCNICA RESPOSNÁVEL TÉCNICO PELO PCA
+- **Anexo IV, linha 12** {#anexo4_lin12} 2. DADOS DA EQUIPE TÉCNICA RESPOSNÁVEL TÉCNICO PELO PCA
 - **Anexo IV, linha 13** {#anexo4_lin13} Nome da consultoria
 - **Anexo IV, linha 14** {#anexo4_lin14} Razão social
-- **Anexo IV, linha 15** {#anexo4_lin15} #cnpj CNPJ
+- **Anexo IV, linha 15** {#anexo4_lin15} CNPJ
 - **Anexo IV, linha 16** {#anexo4_lin16} Endereço;
-- **Anexo IV, linha 17** {#anexo4_lin17} #responsavel-tecnico #pca Qualificação do responsável pela elaboração do Plano de Controle Ambiental - PCA
-- **Anexo IV, linha 18** {#anexo4_lin18} #art-anotacao Anotação de Responsabilidade Técnica – ART
+- **Anexo IV, linha 17** {#anexo4_lin17} Qualificação do responsável pela elaboração do Plano de Controle Ambiental - PCA
+- **Anexo IV, linha 18** {#anexo4_lin18} Anotação de Responsabilidade Técnica – ART
 - **Anexo IV, linha 19** {#anexo4_lin19} 3. DESCRIÇÃO DA ATIVIDADE/EMPREENDIMENTO
 - **Anexo IV, linha 20** {#anexo4_lin20} 3.1. Concepção e justificativa de projeto
 - **Anexo IV, linha 21** {#anexo4_lin21} Devem ser apresentadas a concepção e a metodologia de operação, justificando face às suas finalidades.
 - **Anexo IV, linha 22** {#anexo4_lin22} 3.2. Informações sobre a área do projeto:
 - **Anexo IV, linha 23** {#anexo4_lin23} Devem ser apresentadas as seguintes informações sobre a área total do projeto: área total, área construída e área livre.
 - **Anexo IV, linha 24** {#anexo4_lin24} 3.3. Caracterização do empreendimento
-- **Anexo IV, linha 25** {#anexo4_lin25} #vida-util 3.3.1. Informações sobre os resíduos e vida útil do aterro sanitário
-- **Anexo IV, linha 26** {#anexo4_lin26} #residuo-solido-urbano a) origem dos resíduos;
-- **Anexo IV, linha 27** {#anexo4_lin27} #rejeito #residuo-solido-urbano b) composição dos resíduos, com indicação das frações de resíduos orgânicos e inorgânicos, recicláveis e de rejeitos;
-- **Anexo IV, linha 28** {#anexo4_lin28} #residuo-solido-urbano c) quantidade diária e mensal a ser recebida na área e disposta no aterro;
+- **Anexo IV, linha 25** {#anexo4_lin25} 3.3.1. Informações sobre os resíduos e vida útil do aterro sanitário
+- **Anexo IV, linha 26** {#anexo4_lin26} a) origem dos resíduos;
+- **Anexo IV, linha 27** {#anexo4_lin27} b) composição dos resíduos, com indicação das frações de resíduos orgânicos e inorgânicos, recicláveis e de rejeitos;
+- **Anexo IV, linha 28** {#anexo4_lin28} c) quantidade diária e mensal a ser recebida na área e disposta no aterro;
 - **Anexo IV, linha 29** {#anexo4_lin29} d) frequência e horário de recebimento;
 - **Anexo IV, linha 30** {#anexo4_lin30} e) massa específica dos resíduos.
 - **Anexo IV, linha 31** {#anexo4_lin31} 3.3.2. Disposição dos resíduos
 - **Anexo IV, linha 32** {#anexo4_lin32} Devem ser apresentadas as informações referentes à área destinada a disposição dos resíduos, indicando:
-- **Anexo IV, linha 33** {#anexo4_lin33} #vida-util a) a vida útil prevista, considerando fatores como taxa de crescimento da população, sazonalidade, eventos, avanços na cobertura de serviços de coleta de resíduos, tipos de resíduos a serem recebidos, etc.;
-- **Anexo IV, linha 34** {#anexo4_lin34} #vida-util #dimensionamento b) o dimensionamento das células, prevendo a capacidade de resíduos prevista para cada uma das células e a vida útil prevista para cada uma das células;
-- **Anexo IV, linha 35** {#anexo4_lin35} #terraplanagem c) as medidas a serem tomadas para o preparo da área antes da disposição dos resíduos sólidos, incluindo a terraplanagem;
-- **Anexo IV, linha 36** {#anexo4_lin36} #terraplanagem #movimentacao-solo d) os cálculos dos volumes de cortes, aterros, especificações técnicas de materiais a serem movimentados e locais para estocar o excedente;
-- **Anexo IV, linha 37** {#anexo4_lin37} #geotecnia e) as hipóteses, os parâmetros e as fórmulas utilizadas para o cálculo de estabilidade de taludes, bermas de equilíbrio e recalques diferenciais
-- **Anexo IV, linha 38** {#anexo4_lin38} #sistema-isolamento 3.3.3. Acessos e isolamento da área do aterro sanitário
-- **Anexo IV, linha 39** {#anexo4_lin39} #sistema-isolamento Devem ser indicadas as seguintes informações sobre os acessos e isolamento da área:
-- **Anexo IV, linha 40** {#anexo4_lin40} #agua-pluvial a) indicar em planta o(s) acesso(s) à área do aterro sanitário, bem como as medidas a serem tomadas para garantir o seu uso, mesmo em dias de chuva;
-- **Anexo IV, linha 41** {#anexo4_lin41} #sistema-isolamento #seguranca-instalacao b) apresentar a forma de isolamento do aterro sanitário e os dispositivos de segurança para evitar a interferência de pessoas estranhas e animais, bem como para coibir possíveis efeitos na vizinhança.
-- **Anexo IV, linha 42** {#anexo4_lin42} #jazida #cobertura-residuo 3.3.4. Empréstimo de material para cobertura
-- **Anexo IV, linha 43** {#anexo4_lin43} #jazida #cobertura-residuo Devem ser detalhadas as informações a respeito do empréstimo de material para cobertura, indicando:
-- **Anexo IV, linha 44** {#anexo4_lin44} #jazida #cobertura-residuo a) os locais de empréstimo de material para cobertura e as quantidades previstas de utilização desses materiais;
-- **Anexo IV, linha 45** {#anexo4_lin45} #geotecnia b) localizar a área em planta, com indicação, em cortes e detalhes, do sistema de extração do material, adotando critérios geotécnicos que assegurem a estabilidade dos maciços;
-- **Anexo IV, linha 46** {#anexo4_lin46} #jazida c) memorial de cálculo do volume de material passível de extração;
+- **Anexo IV, linha 33** {#anexo4_lin33} a) a vida útil prevista, considerando fatores como taxa de crescimento da população, sazonalidade, eventos, avanços na cobertura de serviços de coleta de resíduos, tipos de resíduos a serem recebidos, etc.;
+- **Anexo IV, linha 34** {#anexo4_lin34} b) o dimensionamento das células, prevendo a capacidade de resíduos prevista para cada uma das células e a vida útil prevista para cada uma das células;
+- **Anexo IV, linha 35** {#anexo4_lin35} c) as medidas a serem tomadas para o preparo da área antes da disposição dos resíduos sólidos, incluindo a terraplanagem;
+- **Anexo IV, linha 36** {#anexo4_lin36} d) os cálculos dos volumes de cortes, aterros, especificações técnicas de materiais a serem movimentados e locais para estocar o excedente;
+- **Anexo IV, linha 37** {#anexo4_lin37} e) as hipóteses, os parâmetros e as fórmulas utilizadas para o cálculo de estabilidade de taludes, bermas de equilíbrio e recalques diferenciais
+- **Anexo IV, linha 38** {#anexo4_lin38} 3.3.3. Acessos e isolamento da área do aterro sanitário
+- **Anexo IV, linha 39** {#anexo4_lin39} Devem ser indicadas as seguintes informações sobre os acessos e isolamento da área:
+- **Anexo IV, linha 40** {#anexo4_lin40} a) indicar em planta o(s) acesso(s) à área do aterro sanitário, bem como as medidas a serem tomadas para garantir o seu uso, mesmo em dias de chuva;
+- **Anexo IV, linha 41** {#anexo4_lin41} b) apresentar a forma de isolamento do aterro sanitário e os dispositivos de segurança para evitar a interferência de pessoas estranhas e animais, bem como para coibir possíveis efeitos na vizinhança.
+- **Anexo IV, linha 42** {#anexo4_lin42} 3.3.4. Empréstimo de material para cobertura
+- **Anexo IV, linha 43** {#anexo4_lin43} Devem ser detalhadas as informações a respeito do empréstimo de material para cobertura, indicando:
+- **Anexo IV, linha 44** {#anexo4_lin44} a) os locais de empréstimo de material para cobertura e as quantidades previstas de utilização desses materiais;
+- **Anexo IV, linha 45** {#anexo4_lin45} b) localizar a área em planta, com indicação, em cortes e detalhes, do sistema de extração do material, adotando critérios geotécnicos que assegurem a estabilidade dos maciços;
+- **Anexo IV, linha 46** {#anexo4_lin46} c) memorial de cálculo do volume de material passível de extração;
 - **Anexo IV, linha 47** {#anexo4_lin47} d) locais adequados para bota-espera (de forma a não obstruir a drenagem e impedir o carreamento do material depositado);
-- **Anexo IV, linha 48** {#anexo4_lin48} #jazida e) apresentar o licenciamento ambiental da jazida a ser utilizada, caso esta esteja localizada fora da área do aterro.
-- **Anexo IV, linha 49** {#anexo4_lin49} #agua-pluvial 3.3.5. Sistema de drenagem superficial
-- **Anexo IV, linha 50** {#anexo4_lin50} #agua-pluvial Deve ser previsto sistema de drenagem das águas superficiais que tendam a escoar para a área do aterro sanitário, bem como das águas que se precipitam diretamente sobre essa área. Para a descrição do sistema deve ser apresentado no mínimo o seguinte:
-- **Anexo IV, linha 51** {#anexo4_lin51} #dimensionamento #vazao a) indicação da vazão de dimensionamento do sistema;
-- **Anexo IV, linha 52** {#anexo4_lin52} #agua-pluvial b) disposição dos canais em planta;
-- **Anexo IV, linha 53** {#anexo4_lin53} #agua-pluvial #declividade c) indicação das seções transversais e declividade do fundo dos canais em todos os trechos;
+- **Anexo IV, linha 48** {#anexo4_lin48} e) apresentar o licenciamento ambiental da jazida a ser utilizada, caso esta esteja localizada fora da área do aterro.
+- **Anexo IV, linha 49** {#anexo4_lin49} 3.3.5. Sistema de drenagem superficial
+- **Anexo IV, linha 50** {#anexo4_lin50} Deve ser previsto sistema de drenagem das águas superficiais que tendam a escoar para a área do aterro sanitário, bem como das águas que se precipitam diretamente sobre essa área. Para a descrição do sistema deve ser apresentado no mínimo o seguinte:
+- **Anexo IV, linha 51** {#anexo4_lin51} a) indicação da vazão de dimensionamento do sistema;
+- **Anexo IV, linha 52** {#anexo4_lin52} b) disposição dos canais em planta;
+- **Anexo IV, linha 53** {#anexo4_lin53} c) indicação das seções transversais e declividade do fundo dos canais em todos os trechos;
 - **Anexo IV, linha 54** {#anexo4_lin54} d) detalhe da ligação entre drenagem secundária e drenagem principal;
-- **Anexo IV, linha 55** {#anexo4_lin55} #agua-pluvial e) indicação do tipo de revestimento (quando existente) dos canais, com especificação quanto ao material utilizado;
-- **Anexo IV, linha 56** {#anexo4_lin56} #agua-pluvial #lancamento f) indicação dos locais de lançamento da água coletada pelos canais;
+- **Anexo IV, linha 55** {#anexo4_lin55} e) indicação do tipo de revestimento (quando existente) dos canais, com especificação quanto ao material utilizado;
+- **Anexo IV, linha 56** {#anexo4_lin56} f) indicação dos locais de lançamento da água coletada pelos canais;
 - **Anexo IV, linha 57** {#anexo4_lin57} g) detalhes de todas as singularidades existentes, tais como alargamentos ou estrangulamentos de seção, curvas, degraus, obras de dissipação de energia e outros;
-- **Anexo IV, linha 58** {#anexo4_lin58} #agua-pluvial h) planta e corte da bacia de detenção;
-- **Anexo IV, linha 59** {#anexo4_lin59} #agua-pluvial i) detalhe da escada de dissipação de energia (Corte longitudinal e transversal);
-- **Anexo IV, linha 60** {#anexo4_lin60} #agua-pluvial j) estudos e definição do sistema de drenagem das águas que aportem sobre a área do aterro sanitário durante a sua execução;
-- **Anexo IV, linha 61** {#anexo4_lin61} #agua-pluvial #encerramento k) definição e representação em planta, do sistema de drenagem permanente sobre a área do aterro sanitário, após a sua conclusão;
-- **Anexo IV, linha 62** {#anexo4_lin62} #agua-pluvial #dimensionamento l) apresentar todos os parâmetros e fórmulas utilizadas para o dimensionamento dos canais e singularidades do sistema de drenagem superficial, dando ênfase a:
-- **Anexo IV, linha 63** {#anexo4_lin63} #agua-pluvial intensidade de chuva;
-- **Anexo IV, linha 64** {#anexo4_lin64} #agua-pluvial tempo de recorrência (período de retorno);
+- **Anexo IV, linha 58** {#anexo4_lin58} h) planta e corte da bacia de detenção;
+- **Anexo IV, linha 59** {#anexo4_lin59} i) detalhe da escada de dissipação de energia (Corte longitudinal e transversal);
+- **Anexo IV, linha 60** {#anexo4_lin60} j) estudos e definição do sistema de drenagem das águas que aportem sobre a área do aterro sanitário durante a sua execução;
+- **Anexo IV, linha 61** {#anexo4_lin61} k) definição e representação em planta, do sistema de drenagem permanente sobre a área do aterro sanitário, após a sua conclusão;
+- **Anexo IV, linha 62** {#anexo4_lin62} l) apresentar todos os parâmetros e fórmulas utilizadas para o dimensionamento dos canais e singularidades do sistema de drenagem superficial, dando ênfase a:
+- **Anexo IV, linha 63** {#anexo4_lin63} intensidade de chuva;
+- **Anexo IV, linha 64** {#anexo4_lin64} tempo de recorrência (período de retorno);
 - **Anexo IV, linha 65** {#anexo4_lin65} duração;
-- **Anexo IV, linha 66** {#anexo4_lin66} #agua-pluvial coeficiente do escoamento superficial.
-- **Anexo IV, linha 67** {#anexo4_lin67} #lixiviado 3.3.6. Sistema de drenagem do chorume
+- **Anexo IV, linha 66** {#anexo4_lin66} coeficiente do escoamento superficial.
+- **Anexo IV, linha 67** {#anexo4_lin67} 3.3.6. Sistema de drenagem do chorume
 - **Anexo IV, linha 68** {#anexo4_lin68} Deve-se apresentar uma descrição detalhada de todos os elementos constituintes desse sistema, com indicação:
-- **Anexo IV, linha 69** {#anexo4_lin69} #lixiviado a) da estimativa da quantidade de chorume a drenar e remover;
+- **Anexo IV, linha 69** {#anexo4_lin69} a) da estimativa da quantidade de chorume a drenar e remover;
 - **Anexo IV, linha 70** {#anexo4_lin70} b) da disposição em planta desses elementos;
 - **Anexo IV, linha 71** {#anexo4_lin71} c) das dimensões desses elementos;
 - **Anexo IV, linha 72** {#anexo4_lin72} d) dos materiais utilizados, com suas especificações;
 - **Anexo IV, linha 73** {#anexo4_lin73} e) os cortes e detalhes necessários à perfeita visualização do sistema;
-- **Anexo IV, linha 74** {#anexo4_lin74} #lixiviado #dimensionamento f) dos parâmetros e fórmulas utilizadas para o dimensionamento dos elementos integrantes do sistema de drenagem do chorume
-- **Anexo IV, linha 75** {#anexo4_lin75} #lixiviado #tratamento-efluente 3.3.7. Sistema de tratamento do chorume
-- **Anexo IV, linha 76** {#anexo4_lin76} #lixiviado Deve ser previsto um sistema de tratamento para o chorume coletado, com indicação:
-- **Anexo IV, linha 77** {#anexo4_lin77} #lixiviado #tratamento-efluente a) da estimativa da quantidade de chorume a tratar;
+- **Anexo IV, linha 74** {#anexo4_lin74} f) dos parâmetros e fórmulas utilizadas para o dimensionamento dos elementos integrantes do sistema de drenagem do chorume
+- **Anexo IV, linha 75** {#anexo4_lin75} 3.3.7. Sistema de tratamento do chorume
+- **Anexo IV, linha 76** {#anexo4_lin76} Deve ser previsto um sistema de tratamento para o chorume coletado, com indicação:
+- **Anexo IV, linha 77** {#anexo4_lin77} a) da estimativa da quantidade de chorume a tratar;
 - **Anexo IV, linha 78** {#anexo4_lin78} b) da disposição em planta desses elementos;
 - **Anexo IV, linha 79** {#anexo4_lin79} c) das dimensões e capacidade desses elementos;
 - **Anexo IV, linha 80** {#anexo4_lin80} d) dos materiais utilizados, com suas especificações;
 - **Anexo IV, linha 81** {#anexo4_lin81} e) dos cortes e detalhes necessários à perfeita visualização do sistema;
 - **Anexo IV, linha 82** {#anexo4_lin82} f) do processo utilizado, sequência de operações, tipos de tratamento e fluxograma;
-- **Anexo IV, linha 83** {#anexo4_lin83} #tratamento-efluente #destinacao-final g) da destinação que será dada ao efluente tratado;
-- **Anexo IV, linha 84** {#anexo4_lin84} #lodo #destinacao-final h) da destinação que será dada aos lodos porventura gerados;
-- **Anexo IV, linha 85** {#anexo4_lin85} #dimensionamento i) apresentar os parâmetros e fórmulas utilizadas para o dimensionamento dos
-- **Anexo IV, linha 86** {#anexo4_lin86} #lixiviado #tratamento-efluente j) elementos integrantes do sistema de tratamento do chorume
-- **Anexo IV, linha 87** {#anexo4_lin87} #impermeabilizacao 3.3.8. Sistema de Impermeabilização
-- **Anexo IV, linha 88** {#anexo4_lin88} #impermeabilizacao Deve ser prevista impermeabilização do aterro sanitário, indicando:
-- **Anexo IV, linha 89** {#anexo4_lin89} #impermeabilizacao a) o tipo de impermeabilização adotado;
+- **Anexo IV, linha 83** {#anexo4_lin83} g) da destinação que será dada ao efluente tratado;
+- **Anexo IV, linha 84** {#anexo4_lin84} h) da destinação que será dada aos lodos porventura gerados;
+- **Anexo IV, linha 85** {#anexo4_lin85} i) apresentar os parâmetros e fórmulas utilizadas para o dimensionamento dos
+- **Anexo IV, linha 86** {#anexo4_lin86} j) elementos integrantes do sistema de tratamento do chorume
+- **Anexo IV, linha 87** {#anexo4_lin87} 3.3.8. Sistema de Impermeabilização
+- **Anexo IV, linha 88** {#anexo4_lin88} Deve ser prevista impermeabilização do aterro sanitário, indicando:
+- **Anexo IV, linha 89** {#anexo4_lin89} a) o tipo de impermeabilização adotado;
 - **Anexo IV, linha 90** {#anexo4_lin90} b) especificar os serviços a serem realizados;
 - **Anexo IV, linha 91** {#anexo4_lin91} c) os materiais empregados, com suas especificações e características segundo as correspondentes normas brasileiras
-- **Anexo IV, linha 92** {#anexo4_lin92} #impermeabilizacao d) o cálculo da quantidade de geomembrana necessária
-- **Anexo IV, linha 93** {#anexo4_lin93} #biogas 3.3.9. Sistema de drenagem de gás
-- **Anexo IV, linha 94** {#anexo4_lin94} #lixiviado #biogas Deve ser previsto um sistema para a drenagem de gás, que pode ser integrado ao sistema de drenagem de líquido percolado, com indicação:
+- **Anexo IV, linha 92** {#anexo4_lin92} d) o cálculo da quantidade de geomembrana necessária
+- **Anexo IV, linha 93** {#anexo4_lin93} 3.3.9. Sistema de drenagem de gás
+- **Anexo IV, linha 94** {#anexo4_lin94} Deve ser previsto um sistema para a drenagem de gás, que pode ser integrado ao sistema de drenagem de líquido percolado, com indicação:
 - **Anexo IV, linha 95** {#anexo4_lin95} a) da disposição em planta desses elementos;
 - **Anexo IV, linha 96** {#anexo4_lin96} b) das dimensões desses elementos;
 - **Anexo IV, linha 97** {#anexo4_lin97} c) dos materiais utilizados com suas especificações;
 - **Anexo IV, linha 98** {#anexo4_lin98} d) dos cortes e detalhes necessários à perfeita visualização do sistema;
-- **Anexo IV, linha 99** {#anexo4_lin99} #biogas #dimensionamento e) dos parâmetros e fórmulas utilizadas para o dimensionamento dos elementos integrantes do sistema de drenagem de gás
+- **Anexo IV, linha 99** {#anexo4_lin99} e) dos parâmetros e fórmulas utilizadas para o dimensionamento dos elementos integrantes do sistema de drenagem de gás
 - **Anexo IV, linha 100** {#anexo4_lin100} 3.3.10. Instalações de apoio
-- **Anexo IV, linha 101** {#anexo4_lin101} #esgoto-sanitario #captacao Deverão ser descritas as instalações de apoio a serem instaladas na área do aterro sanitário, bem como indicada a localização através de layout na planta básica do aterro sanitário. Detalhar o abastecimento de água e o esgotamento sanitário nas instalações.
+- **Anexo IV, linha 101** {#anexo4_lin101} Deverão ser descritas as instalações de apoio a serem instaladas na área do aterro sanitário, bem como indicada a localização através de layout na planta básica do aterro sanitário. Detalhar o abastecimento de água e o esgotamento sanitário nas instalações.
 - **Anexo IV, linha 102** {#anexo4_lin102} 3.4. Operação do aterro sanitário
 - **Anexo IV, linha 103** {#anexo4_lin103} 3.4.1. Equipe de trabalho e equipamentos
 - **Anexo IV, linha 104** {#anexo4_lin104} a) quantificar a equipe de trabalho;
@@ -131,86 +131,86 @@ fonte: PDF da IN IAT 33/2025 assinado digitalmente em 30/05/2025 (69 páginas), 
 - **Anexo IV, linha 110** {#anexo4_lin110} forma de aporte dos equipamentos de transporte e operações de descarga dos resíduos;
 - **Anexo IV, linha 111** {#anexo4_lin111} espalhamento e fluxo de disposição dos resíduos;
 - **Anexo IV, linha 112** {#anexo4_lin112} forma de compactação;
-- **Anexo IV, linha 113** {#anexo4_lin113} #cobertura-residuo espessura das camadas de resíduos e do material de recobrimento, com indicação de cotas da base e do topo da mesma;
-- **Anexo IV, linha 114** {#anexo4_lin114} #cobertura-residuo sistema de cobertura diária dos resíduos;
+- **Anexo IV, linha 113** {#anexo4_lin113} espessura das camadas de resíduos e do material de recobrimento, com indicação de cotas da base e do topo da mesma;
+- **Anexo IV, linha 114** {#anexo4_lin114} sistema de cobertura diária dos resíduos;
 - **Anexo IV, linha 115** {#anexo4_lin115} cortes e detalhes necessários à perfeita compreensão do sistema;
-- **Anexo IV, linha 116** {#anexo4_lin116} #seguranca-instalacao c) medidas de segurança a serem observadas.
+- **Anexo IV, linha 116** {#anexo4_lin116} c) medidas de segurança a serem observadas.
 - **Anexo IV, linha 117** {#anexo4_lin117} 3.4.3. Uso futuro da área do aterro sanitário
-- **Anexo IV, linha 118** {#anexo4_lin118} #encerramento Deve ser apresentado um plano de uso futuro da área do aterro sanitário.
+- **Anexo IV, linha 118** {#anexo4_lin118} Deve ser apresentado um plano de uso futuro da área do aterro sanitário.
 - **Anexo IV, linha 119** {#anexo4_lin119} 4. PROJETO DE CONTROLE DE POLUIÇÃO AMBIENTAL
-- **Anexo IV, linha 120** {#anexo4_lin120} #captacao 4.1. Abastecimento de água
-- **Anexo IV, linha 121** {#anexo4_lin121} #captacao Apresentar informações referentes ao abastecimento de água para o empreendimento.
-- **Anexo IV, linha 122** {#anexo4_lin122} #esgoto-sanitario 4.2. Efluente sanitário
-- **Anexo IV, linha 123** {#anexo4_lin123} #esgoto-sanitario #dimensionamento #destinacao-final Descrição do sistema de coleta, tratamento e destinação final dos efluentes sanitários gerados na implantação e operação do sistema. Apresentar dimensionamento em conformidade com as normas técnicas específicas da ABNT NBR 17076, 12209 e demais relacionadas.
-- **Anexo IV, linha 124** {#anexo4_lin124} #gerenciamento-residuo 4.3. Resíduos sólidos
-- **Anexo IV, linha 125** {#anexo4_lin125} #destinacao-final #gerenciamento-residuo Identificar os resíduos, fontes de geração, considerando as etapas de implantação e operação. Descrever os sistemas de controle ambiental para o gerenciamento dos resíduos sólidos, detalhando o armazenamento e destinação final dos resíduos sólidos.
-- **Anexo IV, linha 126** {#anexo4_lin126} #residuo-construcao-civil 4.4. Resíduos sólidos da construção civil
-- **Anexo IV, linha 127** {#anexo4_lin127} #residuo-construcao-civil Caracterização e quantificação dos resíduos gerados nas etapas de construção civil e/ou instalação;
-- **Anexo IV, linha 128** {#anexo4_lin128} #segregacao Descrição de previsão de segregação de resíduos na origem pelo gerador nas etapas de construção e/ou instalação;
-- **Anexo IV, linha 129** {#anexo4_lin129} #acondicionamento Descrição das formas de armazenamento e acondicionamento dos resíduos gerados nas etapas de construção e/ou instalação.
-- **Anexo IV, linha 130** {#anexo4_lin130} #destinacao-final Descrição da previsão de responsáveis e formas de transporte e destinação final dos resíduos gerados nas etapas de construção e/ou instalação.
-- **Anexo IV, linha 131** {#anexo4_lin131} #destinacao-final A destinação final dos resíduos gerados na etapa de implantação deverá ocorrer conforme legislação vigente.
-- **Anexo IV, linha 132** {#anexo4_lin132} #emissao-atmosferica 4.5. Emissões Atmosféricas
-- **Anexo IV, linha 133** {#anexo4_lin133} #emissao-atmosferica Identificar as fontes de emissões atmosféricas. Descrever os sistemas de controle ambiental adotados.
-- **Anexo IV, linha 134** {#anexo4_lin134} #terraplanagem #movimentacao-solo 4.6. Movimentação de solo
-- **Anexo IV, linha 135** {#anexo4_lin135} #terraplanagem Caso necessário, apresentar projeto de terraplenagem
+- **Anexo IV, linha 120** {#anexo4_lin120} 4.1. Abastecimento de água
+- **Anexo IV, linha 121** {#anexo4_lin121} Apresentar informações referentes ao abastecimento de água para o empreendimento.
+- **Anexo IV, linha 122** {#anexo4_lin122} 4.2. Efluente sanitário
+- **Anexo IV, linha 123** {#anexo4_lin123} Descrição do sistema de coleta, tratamento e destinação final dos efluentes sanitários gerados na implantação e operação do sistema. Apresentar dimensionamento em conformidade com as normas técnicas específicas da ABNT NBR 17076, 12209 e demais relacionadas.
+- **Anexo IV, linha 124** {#anexo4_lin124} 4.3. Resíduos sólidos
+- **Anexo IV, linha 125** {#anexo4_lin125} Identificar os resíduos, fontes de geração, considerando as etapas de implantação e operação. Descrever os sistemas de controle ambiental para o gerenciamento dos resíduos sólidos, detalhando o armazenamento e destinação final dos resíduos sólidos.
+- **Anexo IV, linha 126** {#anexo4_lin126} 4.4. Resíduos sólidos da construção civil
+- **Anexo IV, linha 127** {#anexo4_lin127} Caracterização e quantificação dos resíduos gerados nas etapas de construção civil e/ou instalação;
+- **Anexo IV, linha 128** {#anexo4_lin128} Descrição de previsão de segregação de resíduos na origem pelo gerador nas etapas de construção e/ou instalação;
+- **Anexo IV, linha 129** {#anexo4_lin129} Descrição das formas de armazenamento e acondicionamento dos resíduos gerados nas etapas de construção e/ou instalação.
+- **Anexo IV, linha 130** {#anexo4_lin130} Descrição da previsão de responsáveis e formas de transporte e destinação final dos resíduos gerados nas etapas de construção e/ou instalação.
+- **Anexo IV, linha 131** {#anexo4_lin131} A destinação final dos resíduos gerados na etapa de implantação deverá ocorrer conforme legislação vigente.
+- **Anexo IV, linha 132** {#anexo4_lin132} 4.5. Emissões Atmosféricas
+- **Anexo IV, linha 133** {#anexo4_lin133} Identificar as fontes de emissões atmosféricas. Descrever os sistemas de controle ambiental adotados.
+- **Anexo IV, linha 134** {#anexo4_lin134} 4.6. Movimentação de solo
+- **Anexo IV, linha 135** {#anexo4_lin135} Caso necessário, apresentar projeto de terraplenagem
 - **Anexo IV, linha 136** {#anexo4_lin136} 5. ESTIMATIVA DE CUSTO
 - **Anexo IV, linha 137** {#anexo4_lin137} Apresentar estimativa do investimento necessário para a instalação e operação do aterro sanitário.
 - **Anexo IV, linha 138** {#anexo4_lin138} 6. CRONOGRAMA
 - **Anexo IV, linha 139** {#anexo4_lin139} Deve ser apresentado um cronograma para a implantação e operação do aterro sanitário.
 - **Anexo IV, linha 140** {#anexo4_lin140} 7. REPRESENTAÇÃO GRÁFICA
-- **Anexo IV, linha 141** {#anexo4_lin141} #conteudo-minimo 7.1. Conteúdo mínimo
+- **Anexo IV, linha 141** {#anexo4_lin141} 7.1. Conteúdo mínimo
 - **Anexo IV, linha 142** {#anexo4_lin142} Devem ser apresentadas as seguintes plantas:
 - **Anexo IV, linha 143** {#anexo4_lin143} Planta da concepção geral
-- **Anexo IV, linha 144** {#anexo4_lin144} #georreferenciamento Devem ser apresentados em um único desenho georreferenciado os seguintes elementos:
+- **Anexo IV, linha 144** {#anexo4_lin144} Devem ser apresentados em um único desenho georreferenciado os seguintes elementos:
 - **Anexo IV, linha 145** {#anexo4_lin145} a) localização geográfica do aterro sanitário;
 - **Anexo IV, linha 146** {#anexo4_lin146} b) acessos principais e instalações de apoio;
-- **Anexo IV, linha 147** {#anexo4_lin147} #corpo-hidrico #poco c) cursos de água e poços existentes na região;
-- **Anexo IV, linha 148** {#anexo4_lin148} #uso-solo d) uso do solo predominante na região vizinha;
+- **Anexo IV, linha 147** {#anexo4_lin147} c) cursos de água e poços existentes na região;
+- **Anexo IV, linha 148** {#anexo4_lin148} d) uso do solo predominante na região vizinha;
 - **Anexo IV, linha 149** {#anexo4_lin149} e) levantamento planialtimétrico da área do aterro sanitário, com curvas de nível.
 - **Anexo IV, linha 150** {#anexo4_lin150} Planta com indicação das áreas de deposição de resíduos sólidos
 - **Anexo IV, linha 151** {#anexo4_lin151} a) indicação das áreas de deposição dos resíduos sólidos;
 - **Anexo IV, linha 152** {#anexo4_lin152} b) limites da área total a ser utilizada;
 - **Anexo IV, linha 153** {#anexo4_lin153} c) vias internas;
-- **Anexo IV, linha 154** {#anexo4_lin154} #agua-subterranea e) apresentação do perfil original do terreno, com as devidas cotas, e identificação do nível d’água subterrânea;
-- **Anexo IV, linha 155** {#anexo4_lin155} #agua-subterranea f) apresentação do perfil do terreno, com as devidas cotas, e identificação do nível d’água subterrânea, após as alterações necessárias ao início do aterramento dos resíduos;
+- **Anexo IV, linha 154** {#anexo4_lin154} e) apresentação do perfil original do terreno, com as devidas cotas, e identificação do nível d’água subterrânea;
+- **Anexo IV, linha 155** {#anexo4_lin155} f) apresentação do perfil do terreno, com as devidas cotas, e identificação do nível d’água subterrânea, após as alterações necessárias ao início do aterramento dos resíduos;
 - **Anexo IV, linha 156** {#anexo4_lin156} e) cortes longitudinais e transversais, onde necessário, para melhor visualização dos elementos do sistema.
-- **Anexo IV, linha 157** {#anexo4_lin157} #jazida #cobertura-residuo Planta com representação da área de extração de material para recobrimento dos resíduos sólidos e indicação das áreas de bota-espera;
-- **Anexo IV, linha 158** {#anexo4_lin158} #jazida #cobertura-residuo a) indicar a localização do local onde será feita a extração de material para cobertura dos resíduos;
-- **Anexo IV, linha 159** {#anexo4_lin159} #cobertura-residuo b) indicar as áreas onde será mantido temporariamente o material a ser utilizado no recobrimento.
-- **Anexo IV, linha 160** {#anexo4_lin160} #agua-pluvial Planta do sistema de drenagem superficial
-- **Anexo IV, linha 161** {#anexo4_lin161} #agua-pluvial #declividade a) indicação dos canais de drenagem superficial, e declividade do fundo;
+- **Anexo IV, linha 157** {#anexo4_lin157} Planta com representação da área de extração de material para recobrimento dos resíduos sólidos e indicação das áreas de bota-espera;
+- **Anexo IV, linha 158** {#anexo4_lin158} a) indicar a localização do local onde será feita a extração de material para cobertura dos resíduos;
+- **Anexo IV, linha 159** {#anexo4_lin159} b) indicar as áreas onde será mantido temporariamente o material a ser utilizado no recobrimento.
+- **Anexo IV, linha 160** {#anexo4_lin160} Planta do sistema de drenagem superficial
+- **Anexo IV, linha 161** {#anexo4_lin161} a) indicação dos canais de drenagem superficial, e declividade do fundo;
 - **Anexo IV, linha 162** {#anexo4_lin162} b) cortes longitudinais e transversais, onde necessário, para melhor visualização dos elementos do sistema.
-- **Anexo IV, linha 163** {#anexo4_lin163} #biogas Planta do sistema de drenagem dos efluentes gasosos
-- **Anexo IV, linha 164** {#anexo4_lin164} #biogas a) indicação dos elementos componentes do sistema de drenagem de gases;
+- **Anexo IV, linha 163** {#anexo4_lin163} Planta do sistema de drenagem dos efluentes gasosos
+- **Anexo IV, linha 164** {#anexo4_lin164} a) indicação dos elementos componentes do sistema de drenagem de gases;
 - **Anexo IV, linha 165** {#anexo4_lin165} b) cortes longitudinais e transversais, onde necessário, para melhor visualização dos elementos do sistema;
-- **Anexo IV, linha 166** {#anexo4_lin166} #lixiviado Planta do sistema de drenagem do chorume
-- **Anexo IV, linha 167** {#anexo4_lin167} #lixiviado a) indicação dos elementos componentes do sistema de drenagem e remoção do chorume;
-- **Anexo IV, linha 168** {#anexo4_lin168} #impermeabilizacao b) indicação dos materiais de revestimento de fundo e suas respectivas especificações, quando for o caso;
+- **Anexo IV, linha 166** {#anexo4_lin166} Planta do sistema de drenagem do chorume
+- **Anexo IV, linha 167** {#anexo4_lin167} a) indicação dos elementos componentes do sistema de drenagem e remoção do chorume;
+- **Anexo IV, linha 168** {#anexo4_lin168} b) indicação dos materiais de revestimento de fundo e suas respectivas especificações, quando for o caso;
 - **Anexo IV, linha 169** {#anexo4_lin169} c)cortes longitudinais e transversais, onde necessário, para melhor visualização dos elementos do sistema.
-- **Anexo IV, linha 170** {#anexo4_lin170} #lixiviado #tratamento-efluente Planta do sistema de tratamento de percolado
-- **Anexo IV, linha 171** {#anexo4_lin171} #tratamento-efluente a) fluxograma do processo de tratamento;
+- **Anexo IV, linha 170** {#anexo4_lin170} Planta do sistema de tratamento de percolado
+- **Anexo IV, linha 171** {#anexo4_lin171} a) fluxograma do processo de tratamento;
 - **Anexo IV, linha 172** {#anexo4_lin172} b) todos os elementos constituintes;
-- **Anexo IV, linha 173** {#anexo4_lin173} #tratamento-efluente c) locação de todos os pontos de descarga;
+- **Anexo IV, linha 173** {#anexo4_lin173} c) locação de todos os pontos de descarga;
 - **Anexo IV, linha 174** {#anexo4_lin174} d) indicar todos os cortes longitudinais e transversais necessários à melhor visualização do sistema.
-- **Anexo IV, linha 175** {#anexo4_lin175} #sistema-isolamento Planta com representação do isolamento da área e projeto de paisagismo da área
-- **Anexo IV, linha 176** {#anexo4_lin176} #sistema-isolamento a) indicação do isolamento da área;
-- **Anexo IV, linha 177** {#anexo4_lin177} #sistema-isolamento b) detalhes da cerca;
-- **Anexo IV, linha 178** {#anexo4_lin178} #reserva-legal c) indicação da área de Reserva Legal;
-- **Anexo IV, linha 179** {#anexo4_lin179} #app d) indicação das Áreas de Preservação Permanente ;
+- **Anexo IV, linha 175** {#anexo4_lin175} Planta com representação do isolamento da área e projeto de paisagismo da área
+- **Anexo IV, linha 176** {#anexo4_lin176} a) indicação do isolamento da área;
+- **Anexo IV, linha 177** {#anexo4_lin177} b) detalhes da cerca;
+- **Anexo IV, linha 178** {#anexo4_lin178} c) indicação da área de Reserva Legal;
+- **Anexo IV, linha 179** {#anexo4_lin179} d) indicação das Áreas de Preservação Permanente ;
 - **Anexo IV, linha 180** {#anexo4_lin180} e) indicação de demais áreas com presença de vegetação, se aplicável.
-- **Anexo IV, linha 181** {#anexo4_lin181} #encerramento Planta com representação do aterro sanitário concluído
-- **Anexo IV, linha 182** {#anexo4_lin182} #encerramento a) planta da área do aterro sanitário, onde esteja representado o aterro concluído;
-- **Anexo IV, linha 183** {#anexo4_lin183} #encerramento b) devem ser apresentados cortes transversais e longitudinais do aterro sanitário concluído, posicionados de forma a representar os detalhes necessários à perfeita visualização da obra.
-- **Anexo IV, linha 184** {#anexo4_lin184} #monitoramento Planta de monitoramento
-- **Anexo IV, linha 185** {#anexo4_lin185} #lixiviado #monitoramento #agua-subterranea a) planta da área do aterro sanitário contendo os pontos de coleta de águas superficiais, chorume, águas subterrâneas e demais pontos monitoráveis.
+- **Anexo IV, linha 181** {#anexo4_lin181} Planta com representação do aterro sanitário concluído
+- **Anexo IV, linha 182** {#anexo4_lin182} a) planta da área do aterro sanitário, onde esteja representado o aterro concluído;
+- **Anexo IV, linha 183** {#anexo4_lin183} b) devem ser apresentados cortes transversais e longitudinais do aterro sanitário concluído, posicionados de forma a representar os detalhes necessários à perfeita visualização da obra.
+- **Anexo IV, linha 184** {#anexo4_lin184} Planta de monitoramento
+- **Anexo IV, linha 185** {#anexo4_lin185} a) planta da área do aterro sanitário contendo os pontos de coleta de águas superficiais, chorume, águas subterrâneas e demais pontos monitoráveis.
 - **Anexo IV, linha 186** {#anexo4_lin186} 7.2. Apresentação das plantas
 - **Anexo IV, linha 187** {#anexo4_lin187} As pranchas de desenho e demais peças deverão possuir identificação contendo:
 - **Anexo IV, linha 188** {#anexo4_lin188} a) Denominação e local da obra;
 - **Anexo IV, linha 189** {#anexo4_lin189} b) Nome da entidade executora;
 - **Anexo IV, linha 190** {#anexo4_lin190} c) Tipo de projeto;
 - **Anexo IV, linha 191** {#anexo4_lin191} d) Data;
-- **Anexo IV, linha 192** {#anexo4_lin192} #responsavel-tecnico e) Nome do responsável técnico, número de registro no CREA e sua assinatura
+- **Anexo IV, linha 192** {#anexo4_lin192} e) Nome do responsável técnico, número de registro no CREA e sua assinatura
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

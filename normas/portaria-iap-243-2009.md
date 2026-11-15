@@ -33,7 +33,6 @@ RESOLVE:
 
 ###### Art. 1º {#art1}
 
-Tags: #dlae #documentacao #licenciamento-ambiental #dispensa
 
 **Art. 1º, caput** {#art1_cpt} Determinar que além dos documentos já relacionados na [[resolucao-sema-51-2009|Resolução SEMA 51/2009]], seja apresentado, por ocasião do requerimento da Dispensa do Licenciamento Ambiental – DLAE, os documentos abaixo relacionados que complementarão as informações necessárias para a devida dispensa.
 
@@ -43,7 +42,6 @@ Tags: #dlae #documentacao #licenciamento-ambiental #dispensa
 
 ###### Art. 2º {#art2}
 
-Tags: #dlae #documentacao
 
 **Art. 2º, caput** {#art2_cpt} Esta Portaria entra em vigor na data de sua publicação, ficando em conseqüência revogadas as disposições em contrário.
 

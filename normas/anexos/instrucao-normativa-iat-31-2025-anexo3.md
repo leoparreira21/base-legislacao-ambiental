@@ -19,7 +19,7 @@ fonte: PDF da IN IAT 31/2025, páginas 52 a 54
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo III, linha 1** {#anexo3_lin1} #art-anotacao O MCE deverá ser elaborado por técnico habilitado e apresentado para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo III, linha 1** {#anexo3_lin1} O MCE deverá ser elaborado por técnico habilitado e apresentado para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 - **Anexo III, linha 2** {#anexo3_lin2} 1. INFORMAÇÕES CADASTRAIS
 - **Anexo III, linha 3** {#anexo3_lin3} − Razão social;
 - **Anexo III, linha 4** {#anexo3_lin4} − Nome Fantasia;
@@ -29,35 +29,35 @@ fonte: PDF da IN IAT 31/2025, páginas 52 a 54
 - **Anexo III, linha 8** {#anexo3_lin8} − Endereço para contato;
 - **Anexo III, linha 9** {#anexo3_lin9} − E-mail.
 - **Anexo III, linha 10** {#anexo3_lin10} 2. CARACTERIZAÇÃO DA ÁREA
-- **Anexo III, linha 11** {#anexo3_lin11} #porte − Área onde será implantada a atividade (área total, área utilizada e área livre);
-- **Anexo III, linha 12** {#anexo3_lin12} #uso-solo − Informações do uso atual e pretérito da área objeto do empreendimento;
-- **Anexo III, linha 13** {#anexo3_lin13} #georreferenciamento − Coordenadas Geográficas em UTM SIRGAS 2000;
-- **Anexo III, linha 14** {#anexo3_lin14} #uso-solo − Uso e ocupação do solo;
+- **Anexo III, linha 11** {#anexo3_lin11} − Área onde será implantada a atividade (área total, área utilizada e área livre);
+- **Anexo III, linha 12** {#anexo3_lin12} − Informações do uso atual e pretérito da área objeto do empreendimento;
+- **Anexo III, linha 13** {#anexo3_lin13} − Coordenadas Geográficas em UTM SIRGAS 2000;
+- **Anexo III, linha 14** {#anexo3_lin14} − Uso e ocupação do solo;
 - **Anexo III, linha 15** {#anexo3_lin15} − Tipo e característica do solo;
 - **Anexo III, linha 16** {#anexo3_lin16} − Topografia;
-- **Anexo III, linha 17** {#anexo3_lin17} #recurso-hidrico − Recursos Hídricos (nascentes, olhos d´água, cursos dá água, etc);
+- **Anexo III, linha 17** {#anexo3_lin17} − Recursos Hídricos (nascentes, olhos d´água, cursos dá água, etc);
 - **Anexo III, linha 18** {#anexo3_lin18} − Cobertura Vegetal;
 - **Anexo III, linha 19** {#anexo3_lin19} − Acessos (alternativas, condições de tráfego);
 - **Anexo III, linha 20** {#anexo3_lin20} − Características do entorno (uso do solo, residências, áreas de interesse ambiental, etc.
 - **Anexo III, linha 21** {#anexo3_lin21} 3. CROQUI DE LOCALIZAÇÃO DO EMPREENDIMENTO COM IMAGEM AÉREA E CONTENDO NO MÍNIMO:
 - **Anexo III, linha 22** {#anexo3_lin22} Deverá ser apresentado o croqui de localização do empreendimento com imagem aérea, contendo no mínimo:
 - **Anexo III, linha 23** {#anexo3_lin23} − Delimitação das instalações;
-- **Anexo III, linha 24** {#anexo3_lin24} #corpo-hidrico − Distância dos corpos hídricos;
-- **Anexo III, linha 25** {#anexo3_lin25} #app − Áreas de preservação permanente;
-- **Anexo III, linha 26** {#anexo3_lin26} #reserva-legal − Reserva Legal;
+- **Anexo III, linha 24** {#anexo3_lin24} − Distância dos corpos hídricos;
+- **Anexo III, linha 25** {#anexo3_lin25} − Áreas de preservação permanente;
+- **Anexo III, linha 26** {#anexo3_lin26} − Reserva Legal;
 - **Anexo III, linha 27** {#anexo3_lin27} − Casas isoladas;
-- **Anexo III, linha 28** {#anexo3_lin28} #aglomerado-populacional − Núcleos populacionais;
+- **Anexo III, linha 28** {#anexo3_lin28} − Núcleos populacionais;
 - **Anexo III, linha 29** {#anexo3_lin29} − Cobertura florestal;
 - **Anexo III, linha 30** {#anexo3_lin30} − Vias de acesso principais.
 - **Anexo III, linha 31** {#anexo3_lin31} 4. CARACTERIZAÇÃO DO EMPREENDIMENTO
 - **Anexo III, linha 32** {#anexo3_lin32} − Descrição do empreendimento e apresentação das suas características técnicas, detalhando todas as instalações previstas e inclusive unidades de apoio;
 - **Anexo III, linha 33** {#anexo3_lin33} − Descrever capacidade de recebimento (quantidades diárias) de resíduos na unidade.
-- **Anexo III, linha 34** {#anexo3_lin34} #triagem #acondicionamento − Descrever tipos de resíduos a serem recebidos no lugar, formar de triagem e acondicionamento.
-- **Anexo III, linha 35** {#anexo3_lin35} #supressao-vegetacao − Descritivo da obra a ser implantada e a descrição das intervenções necessárias, tais como necessidade de supressão de vegetação, escavações ou alterações de solo;
+- **Anexo III, linha 34** {#anexo3_lin34} − Descrever tipos de resíduos a serem recebidos no lugar, formar de triagem e acondicionamento.
+- **Anexo III, linha 35** {#anexo3_lin35} − Descritivo da obra a ser implantada e a descrição das intervenções necessárias, tais como necessidade de supressão de vegetação, escavações ou alterações de solo;
 - **Anexo III, linha 36** {#anexo3_lin36} 5. INFORMAÇÕES DOS POLUENTES
-- **Anexo III, linha 37** {#anexo3_lin37} #captacao − Sistemas de abastecimento de água: fonte, usos e volume de captação
-- **Anexo III, linha 38** {#anexo3_lin38} #efluente #esgoto-sanitario − Sistema de tratamento e disposição final de efluentes líquidos sanitários e outros
-- **Anexo III, linha 39** {#anexo3_lin39} #odor − Sistema de controle e mitigação de odores
+- **Anexo III, linha 37** {#anexo3_lin37} − Sistemas de abastecimento de água: fonte, usos e volume de captação
+- **Anexo III, linha 38** {#anexo3_lin38} − Sistema de tratamento e disposição final de efluentes líquidos sanitários e outros
+- **Anexo III, linha 39** {#anexo3_lin39} − Sistema de controle e mitigação de odores
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

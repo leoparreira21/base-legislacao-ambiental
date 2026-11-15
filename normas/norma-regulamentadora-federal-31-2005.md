@@ -26,12 +26,10 @@ fonte: "Ministério do Trabalho e Emprego, "NR 31 - Segurança e saúde no traba
 > Segurança e saúde no trabalho na agricultura, pecuária, silvicultura, exploração florestal e aquicultura. Aprovada pela Portaria MTE n.º 86, de 03 de março de 2005, DOU de 04/03/05, e alterada pelas portarias listadas no histórico.
 
 ## 31.1 Objetivo {#ite31-1}
-Tags: #seguranca-trabalho #agropecuaria
 
 **Item 31.1.1** {#ite31-1-1} Esta Norma Regulamentadora - NR tem por objetivo estabelecer os preceitos a serem observados na organização e no ambiente de trabalho rural, de forma a tornar compatível o planejamento e o desenvolvimento das atividades do setor com a prevenção de acidentes e doenças relacionadas ao trabalho rural.
 
 ## 31.2 Campo de Aplicação - Obrigações e Competências - Das Responsabilidades {#ite31-2}
-Tags: #ambito-aplicacao #agropecuaria #responsabilidade
 
 **Item 31.2.1** {#ite31-2-1} Esta Norma se aplica a quaisquer atividades da agricultura, pecuária, silvicultura, exploração florestal e aquicultura, verificadas as formas de relações de trabalho e emprego e o local das atividades.
 
@@ -134,7 +132,6 @@ Tags: #ambito-aplicacao #agropecuaria #responsabilidade
 **Item 31.2.6.9.1** {#ite31-2-6-9-1} O conteúdo prático do treinamento ou capacitação deve ser ministrado na modalidade presencial.
 
 ## 31.3 Programa de Gerenciamento de Riscos no Trabalho Rural - PGRTR {#ite31-3}
-Tags: #agropecuaria #seguranca-trabalho
 
 **Item 31.3.1** {#ite31-3-1} O empregador rural ou equiparado deve elaborar, implementar e custear o PGRTR, por estabelecimento rural, por meio de ações de segurança e saúde que visem à prevenção de acidentes e doenças decorrentes do trabalho nas atividades rurais.
 
@@ -228,7 +225,6 @@ Tags: #agropecuaria #seguranca-trabalho
 - **Item 31.3.12, alínea "b"** {#ite31-3-12_alib} aplicação de vacina antitetânica e outras.
 
 ## 31.4 Serviço Especializado em Segurança e Saúde no Trabalho Rural - SESTR {#ite31-4}
-Tags: #agropecuaria #seguranca-trabalho
 
 **Item 31.4.1** {#ite31-4-1} O SESTR, composto por profissionais especializados, consiste em um serviço destinado ao desenvolvimento de ações técnicas, integradas às práticas de gestão de segurança e saúde, para tornar o meio ambiente de trabalho compatível com a promoção da segurança e saúde e a preservação da integridade física do trabalhador rural.
 
@@ -348,7 +344,7 @@ Tags: #agropecuaria #seguranca-trabalho
 - **Item 31.4.27, Quadro 1, notas** {#ite31-4-27_tab1_notas} * técnico em segurança do trabalho em tempo parcial (20 horas semanais) ** o empregador pode optar pela contratação de um enfermeiro do trabalho em tempo integral, em substitução ao auxiliar ou técnico de enfermagem do trabalho *** médico do trabalho em tempo parcial (15 horas semanais) **** o empregador pode optar pela contratação de um enfermeiro do trabalho em tempo parcial, em substituição ao auxiliar ou técnico de enfermagem do trabalho OBSERVAÇÕES: 1) A jornada de trabalho do auxiliar ou técnico de enfermagem sempre será em tempo integral; (retificado pela Portaria MTP nº 698, de 04 de abril de 2022) 2) A ausência de asterisco corresponde às cargas horárias de 30 (trinta) horas, para os profissionais de nível superior, e de 36 (trinta e seis) horas, para os profissionais de nível médio.
 
 ## 31.5 Comissão Interna de Prevenção de Acidentes e de Assédio do Trabalho Rural - CIPATR {#ite31-5}
-Tags: #agropecuaria #seguranca-trabalho #redacao-alterada
+Tags: #redacao-alterada
 
 *(alterado pela [[portaria-mtp-4219-2022|Portaria MTP nº 4.219, de 20 de dezembro de 2022]])*
 
@@ -499,7 +495,6 @@ Tags: #agropecuaria #seguranca-trabalho #redacao-alterada
 **Item 31.5.26** {#ite31-5-26} O empregador rural ou equiparado deve promover o treinamento previsto no subitem 31.5.22 desta NR para os empregados mais votados e não eleitos, limitado ao número de membros eleitos da CIPATR.
 
 ## 31.6 Medidas de Proteção Pessoal {#ite31-6}
-Tags: #agropecuaria #epi
 
 **Item 31.6.1** {#ite31-6-1} É obrigatório o fornecimento gratuito aos trabalhadores de Equipamentos de Proteção Individual - EPI, nos termos da Norma Regulamentadora nº 6 - Equipamentos de Proteção Individual - EPI.
 
@@ -531,7 +526,6 @@ Tags: #agropecuaria #epi
 - **Item 31.6.6, alínea "d"** {#ite31-6-6_alid} cumprir as determinações do empregador sobre o uso adequado.
 
 ## 31.7 Agrotóxicos, Aditivos, Adjuvantes e Produtos Afins {#ite31-7}
-Tags: #agrotoxico #agropecuaria
 
 **Item 31.7.1** {#ite31-7-1} Para fins desta Norma, consideram-se:
 - **Item 31.7.1, alínea "a"** {#ite31-7-1_alia} trabalhadores em exposição direta, os que manipulam os agrotóxicos, aditivos, adjuvantes e produtos afins, em qualquer uma das etapas de armazenamento, transporte, preparo, aplicação, descarte e descontaminação de equipamentos e vestimentas; e
@@ -649,7 +643,6 @@ Tags: #agrotoxico #agropecuaria
 **Item 31.7.17.1** {#ite31-7-17-1} Os veículos utilizados para transporte de agrotóxicos, aditivos, adjuvantes e produtos afins devem ser higienizados e descontaminados sempre que forem destinados para outros fins.
 
 ## 31.8 Ergonomia {#ite31-8}
-Tags: #agropecuaria #seguranca-trabalho
 
 **Item 31.8.1** {#ite31-8-1} O empregador rural ou equiparado deve adotar princípios ergonômicos que visem a adaptação das condições de trabalho às características psicofisiológicas dos trabalhadores, de modo a proporcionar adequadas condições de conforto e segurança no trabalho.
 
@@ -672,7 +665,6 @@ Tags: #agropecuaria #seguranca-trabalho
 **Item 31.8.8** {#ite31-8-8} As pausas previstas nos subitens 31.8.6 e 31.8.7 devem ser definidas no PGRTR.
 
 ## 31.9 Transporte de Trabalhadores {#ite31-9}
-Tags: #agropecuaria #transporte
 
 **Item 31.9.1** {#ite31-9-1} O transporte coletivo de trabalhadores deve observar os seguintes requisitos:
 - **Item 31.9.1, alínea "a"** {#ite31-9-1_alia} possuir autorização específica para o transporte coletivo de passageiros, emitida pela autoridade de trânsito competente, acompanhada da respectiva vistoria anual do veículo;
@@ -694,7 +686,6 @@ Tags: #agropecuaria #transporte
 - **Item 31.9.2, alínea "g"** {#ite31-9-2_alig} possuir, em local visível, todas as instruções de segurança cabíveis aos passageiros durante o transporte conforme legislações pertinentes.
 
 ## 31.10 Instalações Elétricas {#ite31-10}
-Tags: #agropecuaria #seguranca-instalacao
 
 **Item 31.10.1** {#ite31-10-1} Todas as partes das instalações elétricas devem ser projetadas, construídas, operadas e mantidas de modo que seja possível prevenir, por meios seguros, os perigos de choque elétrico e outros tipos de acidentes.
 
@@ -733,7 +724,6 @@ Tags: #agropecuaria #seguranca-instalacao
 **Item 31.10.8** {#ite31-10-8} Nas instalações elétricas em áreas classificadas ou sujeitas a risco acentuado de incêndio ou explosões, devem ser adotados os dispositivos adequados de proteção, conforme as normas técnicas oficiais.
 
 ## 31.11 Ferramentas Manuais {#ite31-11}
-Tags: #agropecuaria #seguranca-trabalho
 
 **Item 31.11.1** {#ite31-11-1} O empregador deve disponibilizar, gratuitamente, ferramentas e acessórios adequados ao trabalho, substituindo-os sempre que necessário. *(Retificado pela [[portaria-mtp-698-2022|Portaria MTP nº 698, de 04 de abril de 2022]])*
 
@@ -744,7 +734,6 @@ Tags: #agropecuaria #seguranca-trabalho
 **Item 31.11.4** {#ite31-11-4} As ferramentas de corte devem ser guardadas e transportadas em bainha.
 
 ## 31.12 Segurança no Trabalho em Máquinas, Equipamentos e Implementos {#ite31-12}
-Tags: #agropecuaria #seguranca-trabalho
 
 **Item 31.12.1** {#ite31-12-1} Aplicam-se as disposições deste capítulo às máquinas, equipamentos e implementos utilizados nas atividades previstas nos subitens 31.2.1 e 31.2.2 desta Norma.
 
@@ -1046,7 +1035,6 @@ Tags: #agropecuaria #seguranca-trabalho
 **Item 31.12.74** {#ite31-12-74} Para fins de aplicação desta NR, os Anexos I e II contemplam obrigações, disposições especiais ou exceções que se aplicam às máquinas, equipamentos e implementos.
 
 ## 31.13 Secadores, Silos e Espaços Confinados {#ite31-13}
-Tags: #agropecuaria #armazenamento-graos
 
 **Item 31.13.1** {#ite31-13-1} Os secadores devem ser projetados e montados sob a responsabilidade de profissional legalmente habilitado, de forma a garantir a segurança e a saúde dos trabalhadores durante as suas operações.
 
@@ -1149,7 +1137,6 @@ Tags: #agropecuaria #armazenamento-graos
 **Item 31.13.13.13** {#ite31-13-13-13} O empregador rural ou equiparado deve designar trabalhadores para situações de emergência e resgate e providenciar a capacitação com carga horária compatível com a complexidade dos espaços confinados e atividades realizadas, bem como os possíveis cenários de acidente.
 
 ## 31.14 Movimentação e Armazenamento de Materiais {#ite31-14}
-Tags: #agropecuaria #seguranca-trabalho
 
 **Item 31.14.1** {#ite31-14-1} O levantamento, o transporte, a carga, a descarga, a manipulação e o armazenamento de produtos e materiais devem ser executados de forma que o esforço físico realizado pelo trabalhador seja compatível com sua segurança, saúde e capacidade de força.
 
@@ -1191,7 +1178,6 @@ Tags: #agropecuaria #seguranca-trabalho
 - **Item 31.14.14, alínea "c"** {#ite31-14-14_alic} as condições da via de tráfego.
 
 ## 31.15 Trabalho em Altura {#ite31-15}
-Tags: #agropecuaria #seguranca-trabalho
 
 **Item 31.15.1** {#ite31-15-1} Este capítulo aplica-se somente às atividades de instalação, montagem, manutenção, inspeção, limpeza ou conservação de máquinas, equipamentos, implementos ou de edificações rurais, executadas acima de 2 m (dois metros) do nível inferior, onde haja risco de queda.
 
@@ -1237,7 +1223,6 @@ Tags: #agropecuaria #seguranca-trabalho
 **Item 31.15.10** {#ite31-15-10} O empregador rural ou equiparado deve assegurar que os procedimentos de emergência e resgate em trabalhos em altura estejam contemplados no PGRTR.
 
 ## 31.16 Edificações Rurais {#ite31-16}
-Tags: #agropecuaria #edificacao-rural
 
 **Item 31.16.1** {#ite31-16-1} As estruturas das edificações rurais devem ser projetadas, executadas e mantidas em condições de suportar as cargas permanentes e móveis a que se destinam.
 
@@ -1263,7 +1248,6 @@ Tags: #agropecuaria #edificacao-rural
 **Item 31.16.9** {#ite31-16-9} A adequação das medidas de segurança deve ser realizada de acordo com as leis vigentes, observadas as características da edificação em seus aspectos históricos, religiosos e culturais.
 
 ## 31.17 Condições Sanitárias e de Conforto no Trabalho Rural {#ite31-17}
-Tags: #agropecuaria #seguranca-trabalho
 
 **Item 31.17.1** {#ite31-17-1} O empregador rural ou equiparado deve disponibilizar aos trabalhadores áreas de vivência compostas de:
 - **Item 31.17.1, alínea "a"** {#ite31-17-1_alia} instalações sanitárias;
@@ -1431,7 +1415,6 @@ Tags: #agropecuaria #seguranca-trabalho
 **Item 31.17.8.3.2** {#ite31-17-8-3-2} Nos casos em que o empregador utilizar a ocupação total do serviço externo de hospedagem, deve ser observada no contrato de prestação de serviços a manutenção das condições de higiene.
 
 ## ANEXO I – MEIOS DE ACESSO A MÁQUINAS, EQUIPAMENTOS E IMPLEMENTOS {#anexo1}
-Tags: #agropecuaria #seguranca-trabalho
 
 **Anexo I, item 1** {#anexo1_ite1} As máquinas, equipamentos e implementos devem dispor de acessos permanentemente fixados e seguros a todos os seus pontos de operação, de abastecimento, de inserção de matérias-primas e retirada de produtos trabalhados, de preparação, de manutenção e de intervenção constante.
 
@@ -1567,7 +1550,6 @@ Tags: #agropecuaria #seguranca-trabalho
 **Anexo I, item 19.3** {#anexo1_ite19-3} Para máquinas autopropelidas e implementos fabricados antes da vigência desta Norma, pode ser utilizada plataforma ou escada externa, que servirá de apoio para execução segura da tarefa.
 
 ## ANEXO II – QUADROS E FIGURAS AUXILIARES {#anexo2}
-Tags: #agropecuaria #seguranca-trabalho
 
 **Anexo II, Figura 1** {#anexo2_fig1} Figura 1: Escolha dos meios de acesso conforme a inclinação - ângulo de lance ![Figura 1: Escolha dos meios de acesso conforme a inclinação - ângulo de lance](anexos/imagens/norma-regulamentadora-federal-31-2005-anexo2-fig1.png)
 
@@ -1836,7 +1818,6 @@ Tags: #agropecuaria #seguranca-trabalho
 **Anexo II, linha 25** {#anexo2_lin25} Fonte: ABNT NBR NM ISO 13852 - Segurança de Máquinas - Distâncias de segurança para impedir o acesso a zonas de perigo pelos membros superiores.
 
 ## Glossário {#glossario}
-Tags: #definicao
 
 **Glossário, linha 1** {#glossario_lin1} Abrigo fixo: toda e qualquer instalação fixada de forma permanente para resguardo dos trabalhadores.
 

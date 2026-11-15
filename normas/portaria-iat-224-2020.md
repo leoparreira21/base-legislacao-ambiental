@@ -41,7 +41,6 @@ RESOLVE:
 
 ###### Art. 1º {#art1}
 
-Tags: #pgr #auditoria #prazo #recurso-hidrico #risco-ambiental #documentacao #armazenamento-residuo
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer o prazo de 30 (trinta) dias, para que as empresas que mantém armazenadas em suas instalações substâncias em quantidades superiores às apresentadas nas tabelas do Anexo I desta Portaria, apresentem ao Instituto Água e Terra relatório de comprovação de realização de auditoria específica de todos os itens que compõem o PROGRAMA DE GERENCIAMENTO DE RISCOS-PGR, conforme estabelecido na [[portaria-iap-159-2015|Portaria IAP nº 159, de 10 de agosto de 2015]].
 
@@ -49,13 +48,11 @@ Tags: #pgr #auditoria #prazo #recurso-hidrico #risco-ambiental #documentacao #ar
 
 ###### Art. 2º {#art2}
 
-Tags: #pgr #auditoria #infracao-ambiental #documentacao
 
 **Art. 2º, caput** {#art2_cpt} Os empreendimentos que se enquadrem na categoria onde o PGR seja obrigatório e não atenderem, omitirem ou apresentarem informações total ou parcialmente falsas ao que determina o caput do [[#art1|Art. 1°.]] desta Portaria, estão sujeitos a autuação ambiental nos termos dos Arts. 81 e 82 do [[decreto-federal-6514-2008|Decreto Federal nº 6.514/2008]].
 
 ###### Art. 3º {#art3}
 
-Tags: #pgr #auditoria
 
 **Art. 3º, caput** {#art3_cpt} Esta Portaria entra em vigor na data da sua publicação.
 

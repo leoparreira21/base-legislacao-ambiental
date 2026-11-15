@@ -15,7 +15,7 @@ import sys
 from classificar_dispositivos import texto_limpo
 
 FORMATO = 'gatilhos/1'
-# Campos com valores fechados no formulário do caso (site/motor.js, OPCOES_CASO).
+# Campos com valores fechados do caso (antes definidos em site/motor.js, OPCOES_CASO, removido com o site de busca).
 CAMPOS = ('modalidade', 'agua', 'efluentes', 'localizacao')
 
 

@@ -50,7 +50,6 @@ Considerando a necessidade de disciplinar e padronizar os procedimentos sobre a 
 RESOLVE
 
 ###### Art. 1º {#art1}
-Tags: #reposicao-florestal #serflor
 
 **Art. 1º, caput** {#art1_cpt} A conta CREDIFLOR será utilizada para o recolhimento pelos contribuintes, devidamente cadastrados junto ao Sistema Estadual de Reposição Florestal Obrigatória (SERFLOR), de Cota-Árvore, possibilitando ao respectivo contribuinte, a obtenção do crédito em árvores na sua conta corrente no SERFLOR, correspondente ao valor recolhido, conforme o valor da Cota-Árvore.
 
@@ -59,12 +58,10 @@ Tags: #reposicao-florestal #serflor
 **Art. 2º, caput** {#art2_cpt} O Valor da Cota-Árvore fica estipulado em R$ 5,00 (cinco reais).
 
 ###### Art. 3º {#art3}
-Tags: #reposicao-florestal #serflor
 
 **Art. 3º, caput** {#art3_cpt} Cada Cota-Árvore recolhida à conta bancária Conta de Reposição Florestal Obrigatória (CREDIFLOR), dará direito ao crédito de 01 (uma) árvore, a ser efetivado na respectiva conta corrente do contribuinte pelo SERFLOR, em árvores.
 
 ###### Art. 4º {#art4}
-Tags: #dof #reposicao-florestal #sinaflor
 
 **Art. 4º, caput** {#art4_cpt} Ficam estabelecidos os índices de conversão para os volumes de matéria prima de origem florestal, que serão utilizados para fins de lançamento de débitos em árvores nas contas de reposição florestal do consumidor requerente, por ocasião da emissão dos Documento de Origem Florestal (DOF).
 
@@ -75,7 +72,6 @@ Tags: #dof #reposicao-florestal #sinaflor
 **Art. 5º, caput** {#art5_cpt} Ficam revogadas as Portarias IAP nºs 117 e 121, de 31 de outubro de 1996.
 
 ###### Art. 6º {#art6}
-Tags: #vigencia
 
 **Art. 6º, caput** {#art6_cpt} Esta Instrução Normativa entra em vigor na data de sua publicação.
 

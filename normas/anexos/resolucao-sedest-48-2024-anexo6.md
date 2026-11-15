@@ -19,15 +19,15 @@ fonte: "Res__SEDEST_48_2024_-_ANEXO_VI.pdf (1 página), enviado por Leo"
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo VI, linha 1** {#anexo6_lin1} #diagnostico-ambiental 1. Caracterização ambiental:
+- **Anexo VI, linha 1** {#anexo6_lin1} 1. Caracterização ambiental:
 - **Anexo VI, linha 2** {#anexo6_lin2} 1.1. Caracterização ambiental da área de abrangência do local a ser implantado o projeto;
 - **Anexo VI, linha 3** {#anexo6_lin3} 1.2. Identificação das formas, usos de ocupação da área de abrangência, considerando os múltiplos usos da área;
 - **Anexo VI, linha 4** {#anexo6_lin4} 1.3. Identificação e caracterização das atividades produtivas instaladas na área terrestre do entorno, ou seja, área adjacente ao projeto necessário a harmonização do local com a paisagem em que se situar, que poderiam causar impactos a prática da maricultura;
 - **Anexo VI, linha 5** {#anexo6_lin5} 2. Quando necessário à participação de instituições locais, envolvidas com a pesquisa, fomento, extensão, ordenamento e controle da maricultura e representantes do setor produtivo da maricultura;
-- **Anexo VI, linha 6** {#anexo6_lin6} #pca 3. Apresentação simplificada de Plano de Controle Ambiental.
+- **Anexo VI, linha 6** {#anexo6_lin6} 3. Apresentação simplificada de Plano de Controle Ambiental.
 - **Anexo VI, linha 7** {#anexo6_lin7} 4. Aspectos técnicos:
-- **Anexo VI, linha 8** {#anexo6_lin8} #medida-mitigadora 4.1. Utilização de técnicas para minimizar o aspecto visual negativo;
-- **Anexo VI, linha 9** {#anexo6_lin9} #medida-mitigadora 4.2. Emprego de materiais e equipamentos que evitem degradar o habitat.
+- **Anexo VI, linha 8** {#anexo6_lin8} 4.1. Utilização de técnicas para minimizar o aspecto visual negativo;
+- **Anexo VI, linha 9** {#anexo6_lin9} 4.2. Emprego de materiais e equipamentos que evitem degradar o habitat.
 
 ## Síntese do conversor (não é texto normativo)
 

@@ -19,101 +19,101 @@ fonte: PDF da IN IAT 32/2025, páginas 59 a 64
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo IV, linha 1** {#anexo4_lin1} #art-anotacao O Relatório Ambiental preliminar deverá ser elaborado por técnico habilitado e apresentados para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo IV, linha 1** {#anexo4_lin1} O Relatório Ambiental preliminar deverá ser elaborado por técnico habilitado e apresentados para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 - **Anexo IV, linha 2** {#anexo4_lin2} 1. INFORMAÇÕES CADASTRAIS
 - **Anexo IV, linha 3** {#anexo4_lin3} 1.1 Identificação do empreendedor
 - **Anexo IV, linha 4** {#anexo4_lin4} − Nome:
 - **Anexo IV, linha 5** {#anexo4_lin5} − Razão Social:
 - **Anexo IV, linha 6** {#anexo4_lin6} − Endereço completo:
-- **Anexo IV, linha 7** {#anexo4_lin7} #cnpj − CNPJ e Inscrição Estadual:
+- **Anexo IV, linha 7** {#anexo4_lin7} − CNPJ e Inscrição Estadual:
 - **Anexo IV, linha 8** {#anexo4_lin8} − Pessoa para contato (nome e informações de contato)
-- **Anexo IV, linha 9** {#anexo4_lin9} #responsavel-legal − Represantes legais (nome e informações de contato)
+- **Anexo IV, linha 9** {#anexo4_lin9} − Represantes legais (nome e informações de contato)
 - **Anexo IV, linha 10** {#anexo4_lin10} 1.2 Identificação da empresa ou profissional responsável pela elaboração do estudo ambiental
 - **Anexo IV, linha 11** {#anexo4_lin11} − Nome:
 - **Anexo IV, linha 12** {#anexo4_lin12} − Razão Social:
 - **Anexo IV, linha 13** {#anexo4_lin13} − Endereço completo:
-- **Anexo IV, linha 14** {#anexo4_lin14} #cnpj − CNPJ e Inscrição Estadual:
+- **Anexo IV, linha 14** {#anexo4_lin14} − CNPJ e Inscrição Estadual:
 - **Anexo IV, linha 15** {#anexo4_lin15} − Pessoa para contato (nome, telefone e email):
 - **Anexo IV, linha 16** {#anexo4_lin16} 1.3 Dados da equipe técnica multidisciplinar: identificar os profissionais responsáveis pela elaboração do RAP:
 - **Anexo IV, linha 17** {#anexo4_lin17} − Nome
 - **Anexo IV, linha 18** {#anexo4_lin18} − Formação profissional
-- **Anexo IV, linha 19** {#anexo4_lin19} #conselho-classe − Número do registro no respectivo Conselho de Classe
-- **Anexo IV, linha 20** {#anexo4_lin20} #ctf − Número do Cadastro Técnico Federal (IBAMA)
-- **Anexo IV, linha 21** {#anexo4_lin21} #art-anotacao − Número da Anotação de Responsabilidade Técnica.
+- **Anexo IV, linha 19** {#anexo4_lin19} − Número do registro no respectivo Conselho de Classe
+- **Anexo IV, linha 20** {#anexo4_lin20} − Número do Cadastro Técnico Federal (IBAMA)
+- **Anexo IV, linha 21** {#anexo4_lin21} − Número da Anotação de Responsabilidade Técnica.
 - **Anexo IV, linha 22** {#anexo4_lin22} 2. CARACTERIZAÇÃO DO EMPREENDIMENTO
 - **Anexo IV, linha 23** {#anexo4_lin23} 2.1 Dados cadastrais
 - **Anexo IV, linha 24** {#anexo4_lin24} − Denominação do empreendimento;
 - **Anexo IV, linha 25** {#anexo4_lin25} − Tipo do empreendimento;
 - **Anexo IV, linha 26** {#anexo4_lin26} − Localização e dados cadastrais do empreendimento;
-- **Anexo IV, linha 27** {#anexo4_lin27} #dominialidade − Matrícula dos imóveis;
+- **Anexo IV, linha 27** {#anexo4_lin27} − Matrícula dos imóveis;
 - **Anexo IV, linha 28** {#anexo4_lin28} − Valores de investimento previsto para o empreendimento, de acordo com as suas fases.
 - **Anexo IV, linha 29** {#anexo4_lin29} 2.2 Objetivos e Justificativas:
 - **Anexo IV, linha 30** {#anexo4_lin30} - Apresentar os objetivos e justificativas do projeto;
 - **Anexo IV, linha 31** {#anexo4_lin31} - Apresentar relato histórico de atividade, desde a sua concepção até a data de realização do estudo;
-- **Anexo IV, linha 32** {#anexo4_lin32} #viabilidade-locacional #impacto-ambiental - Descrever as alternativas locacionais estudadas, as potenciais interferências e as magnitudes dos impactos ambientais para os meios físico, biótico e socioeconômico, vinculados a cada alternativa, com consequente justificativa relacionada.
+- **Anexo IV, linha 32** {#anexo4_lin32} - Descrever as alternativas locacionais estudadas, as potenciais interferências e as magnitudes dos impactos ambientais para os meios físico, biótico e socioeconômico, vinculados a cada alternativa, com consequente justificativa relacionada.
 - **Anexo IV, linha 33** {#anexo4_lin33} 2.3 Localização do empreendimento:
-- **Anexo IV, linha 34** {#anexo4_lin34} #georreferenciamento Apresentar dados referentes a localização do empreendimento, em Coordenadas Geográficas em UTM SIRGAS 2000, devendo as mesmas, quando couber, ser apresentadas em mapas, plantas planialtimétricas em escala compatível, ou através de fotos datadas, fotos aéreas, imagem de satélite. Deverão constar no mínimo, os seguintes itens:
+- **Anexo IV, linha 34** {#anexo4_lin34} Apresentar dados referentes a localização do empreendimento, em Coordenadas Geográficas em UTM SIRGAS 2000, devendo as mesmas, quando couber, ser apresentadas em mapas, plantas planialtimétricas em escala compatível, ou através de fotos datadas, fotos aéreas, imagem de satélite. Deverão constar no mínimo, os seguintes itens:
 - **Anexo IV, linha 35** {#anexo4_lin35} - Área do empreendimento e sua vizinhança;
-- **Anexo IV, linha 36** {#anexo4_lin36} #aglomerado-populacional #distancia-minima - Indicação das distâncias entre o empreendimento e residências (casas isoladas, núcleos populacionais, dentre outras);
+- **Anexo IV, linha 36** {#anexo4_lin36} - Indicação das distâncias entre o empreendimento e residências (casas isoladas, núcleos populacionais, dentre outras);
 - **Anexo IV, linha 37** {#anexo4_lin37} - Vias de acesso
-- **Anexo IV, linha 38** {#anexo4_lin38} #area-influencia - Principais núcleos urbanos da Área de Influência;
+- **Anexo IV, linha 38** {#anexo4_lin38} - Principais núcleos urbanos da Área de Influência;
 - **Anexo IV, linha 39** {#anexo4_lin39} - Indicação da malha viária existente e acessos;
-- **Anexo IV, linha 40** {#anexo4_lin40} #unidade-conservacao #area-influencia - Indicação e limites de possíveis Unidades de Conservação na Área de Influência;
-- **Anexo IV, linha 41** {#anexo4_lin41} #flora - Indicação das fitofisionomias presentes no entorno;
-- **Anexo IV, linha 42** {#anexo4_lin42} #corpo-hidrico #bacia-hidrografica - Principais cursos d’água e respectivas bacias hidrográficas;
-- **Anexo IV, linha 43** {#anexo4_lin43} #app #reserva-legal - Indicação de Áreas de Preservação Permanente e Reserva Legal;
-- **Anexo IV, linha 44** {#anexo4_lin44} #area-sensivel - Indicação de Áreas com restrições;
+- **Anexo IV, linha 40** {#anexo4_lin40} - Indicação e limites de possíveis Unidades de Conservação na Área de Influência;
+- **Anexo IV, linha 41** {#anexo4_lin41} - Indicação das fitofisionomias presentes no entorno;
+- **Anexo IV, linha 42** {#anexo4_lin42} - Principais cursos d’água e respectivas bacias hidrográficas;
+- **Anexo IV, linha 43** {#anexo4_lin43} - Indicação de Áreas de Preservação Permanente e Reserva Legal;
+- **Anexo IV, linha 44** {#anexo4_lin44} - Indicação de Áreas com restrições;
 - **Anexo IV, linha 45** {#anexo4_lin45} - Indicação de outras interferências consideradas relevantes.
 - **Anexo IV, linha 46** {#anexo4_lin46} 2.4 Descrição do empreendimento, informando as características básicas do empreendimento proposto, contemplando, no mínimo, as seguintes informações:
-- **Anexo IV, linha 47** {#anexo4_lin47} #projeto-executivo − Caracterizar o empreendimento quanto aos aspectos de infraestrutura, conceituando as instalações previstas (não é necessário apresentar projeto executivo na fase de licenciamento ambiental prévio);
-- **Anexo IV, linha 48** {#anexo4_lin48} #armazenamento-residuo − Descrever estruturas destinadas ao armazenamento temporário, com a capacidade estática de cada unidade;
-- **Anexo IV, linha 49** {#anexo4_lin49} #classificacao-residuo #acondicionamento #abnt − Apresentar descrição dos resíduos a serem recebidos no local: tipologia, classificação conforme [[instrucao-normativa-ibama-13-2012|IN 13/2012 do Ibama]], classificação conforme ABNT NBR 10004, estado físico, forma de acondicionamento e forma de armazenamento temporário no local;
-- **Anexo IV, linha 50** {#anexo4_lin50} #laboratorio − Descrever os parâmetros que serão analisados em cada resíduo;
-- **Anexo IV, linha 51** {#anexo4_lin51} #efluente #emissao-atmosferica #residuo-solido − Caracterização qualitativa da geração de efluentes líquidos, emissões atmosféricas e resíduos sólidos, a serem gerados na implantação e operação do empreendimento, apontando suas principais características físicas, químicas e bacteriológicas;
-- **Anexo IV, linha 52** {#anexo4_lin52} #captacao #abastecimento-publico #poco − Informar quais as possíveis fontes de abastecimento de água compatíveis com a demanda estimada para a implantação e operação do empreendimento (poços, adução de curso d’água ou abastecimento público, entre outros);
-- **Anexo IV, linha 53** {#anexo4_lin53} #efluente #lancamento − Informar quais as possíveis formas de disposição final do efluente a ser gerado pela implantação e operação do empreendimento;
-- **Anexo IV, linha 54** {#anexo4_lin54} #produto-perigoso − Relação de produtos químicos manuseados em sua atividade e respectivas quantidades estocadas (inclusive em equipamentos de processo);
-- **Anexo IV, linha 55** {#anexo4_lin55} #obra-civil − Descrição das obras, apresentando as ações inerentes à implantação e operação do empreendimento;
+- **Anexo IV, linha 47** {#anexo4_lin47} − Caracterizar o empreendimento quanto aos aspectos de infraestrutura, conceituando as instalações previstas (não é necessário apresentar projeto executivo na fase de licenciamento ambiental prévio);
+- **Anexo IV, linha 48** {#anexo4_lin48} − Descrever estruturas destinadas ao armazenamento temporário, com a capacidade estática de cada unidade;
+- **Anexo IV, linha 49** {#anexo4_lin49} − Apresentar descrição dos resíduos a serem recebidos no local: tipologia, classificação conforme [[instrucao-normativa-ibama-13-2012|IN 13/2012 do Ibama]], classificação conforme ABNT NBR 10004, estado físico, forma de acondicionamento e forma de armazenamento temporário no local;
+- **Anexo IV, linha 50** {#anexo4_lin50} − Descrever os parâmetros que serão analisados em cada resíduo;
+- **Anexo IV, linha 51** {#anexo4_lin51} − Caracterização qualitativa da geração de efluentes líquidos, emissões atmosféricas e resíduos sólidos, a serem gerados na implantação e operação do empreendimento, apontando suas principais características físicas, químicas e bacteriológicas;
+- **Anexo IV, linha 52** {#anexo4_lin52} − Informar quais as possíveis fontes de abastecimento de água compatíveis com a demanda estimada para a implantação e operação do empreendimento (poços, adução de curso d’água ou abastecimento público, entre outros);
+- **Anexo IV, linha 53** {#anexo4_lin53} − Informar quais as possíveis formas de disposição final do efluente a ser gerado pela implantação e operação do empreendimento;
+- **Anexo IV, linha 54** {#anexo4_lin54} − Relação de produtos químicos manuseados em sua atividade e respectivas quantidades estocadas (inclusive em equipamentos de processo);
+- **Anexo IV, linha 55** {#anexo4_lin55} − Descrição das obras, apresentando as ações inerentes à implantação e operação do empreendimento;
 - **Anexo IV, linha 56** {#anexo4_lin56} − Estimativa da mão de obra necessária para sua implantação e operação;
 - **Anexo IV, linha 57** {#anexo4_lin57} − Cronograma de implantação;
-- **Anexo IV, linha 58** {#anexo4_lin58} #diagnostico-ambiental 3. DIAGNÓSTICO AMBIENTAL DA ÁREA DO EMPREENDIMENTO
+- **Anexo IV, linha 58** {#anexo4_lin58} 3. DIAGNÓSTICO AMBIENTAL DA ÁREA DO EMPREENDIMENTO
 - **Anexo IV, linha 59** {#anexo4_lin59} As informações a serem abordadas neste item devem propiciar a caracterização da área afetada pelo empreendimento. Para a caracterização da área do empreendimento, deverão ser apresentadas, no mínimo, as informações abaixo relacionadas, devendo as mesmas, quando couber, ser apresentadas em mapas, plantas georreferenciadas, em escala compatível, ou através de fotos datadas, fotos aéreas, imagem de satélite e outros materiais disponíveis, com legendas explicativas da área do empreendimento e do seu entorno:
-- **Anexo IV, linha 60** {#anexo4_lin60} #area-influencia 3.1 Área de influência do empreendimento
+- **Anexo IV, linha 60** {#anexo4_lin60} 3.1 Área de influência do empreendimento
 - **Anexo IV, linha 61** {#anexo4_lin61} 3.2 Compatibilidade do empreendimento com a legislação envolvida: Municipal, Estadual e Federal, mapeando as restrições à ocupação. Caracterização:
-- **Anexo IV, linha 62** {#anexo4_lin62} #uso-solo a) do uso e ocupação do solo atual;
+- **Anexo IV, linha 62** {#anexo4_lin62} a) do uso e ocupação do solo atual;
 - **Anexo IV, linha 63** {#anexo4_lin63} b) da infraestrutura existente;
 - **Anexo IV, linha 64** {#anexo4_lin64} c) das atividades socioeconômicas
-- **Anexo IV, linha 65** {#anexo4_lin65} #recurso-hidrico #nascente 3.3 Recursos hídricos existentes na área, existência de nascentes e olhos d’água;
-- **Anexo IV, linha 66** {#anexo4_lin66} #geologia #geotecnia 3.4 Descrição geológico-geotécnica da área preconizada para a implantação do empreedimento. Avaliação da capacidade de suporte do terreno tendo em vista a adequabilidade em relação à alternativa tecnológica preconizada.
-- **Anexo IV, linha 67** {#anexo4_lin67} #area-umida 3.5 Feições da área, presença de terrenos alagadiços ou sujeitos a inundação;
-- **Anexo IV, linha 68** {#anexo4_lin68} #conservacao-solo 3.6 Suscetibilidade do terreno à erosão;
-- **Anexo IV, linha 69** {#anexo4_lin69} #geologia 3.7 Caracterização da geomorfologia/relevo;
-- **Anexo IV, linha 70** {#anexo4_lin70} #flora #vegetacao-nativa 3.8 Caracterizar a cobertura vegetal na área afetada pelo empreendimento.
-- **Anexo IV, linha 71** {#anexo4_lin71} #app 3.9 Existência de áreas de preservação permanente;
-- **Anexo IV, linha 72** {#anexo4_lin72} #reserva-legal 3.10 Ocorrência de Reserva Legal, seu estado de conservação e sua localização e distribuição; caso a Reserva Legal não tenha sido respeitada na área, indicar a área do imóvel que será destinada a Reserva Legal;
-- **Anexo IV, linha 73** {#anexo4_lin73} #unidade-conservacao 3.11 Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais na área do empreendimento e no seu entorno.
-- **Anexo IV, linha 74** {#anexo4_lin74} #bem-cultural 3.12 Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;
-- **Anexo IV, linha 75** {#anexo4_lin75} #terra-indigena #quilombola #tombamento #bem-cultural 3.13 Apresentar levantamento de reservas indígenas, área quilombola, monumentos naturais e dos bens tombados existentes na área de influência direta do empreendimento.
-- **Anexo IV, linha 76** {#anexo4_lin76} #utilidade-publica 3.14 Identificar as áreas passíveis de desapropriação para implantação do empreendimento. No caso de remoção de população, apresentar dimensionamento preliminar e caracterização econômica e social da população a ser removida, bem como indicação dos locais propostos para reassentamento.
-- **Anexo IV, linha 77** {#anexo4_lin77} #impacto-ambiental #medida-mitigadora #medida-compensatoria 4. IMPACTOS AMBIENTAIS E MEDIDAS MITIGADORAS OU COMPENSATÓRIAS
-- **Anexo IV, linha 78** {#anexo4_lin78} #impacto-ambiental #medida-mitigadora Identificar os principais impactos que poderão ocorrer em função das diversas ações previstas para o planejamento, a implantação e a operação do empreendimento, atividade ou obra, contemplando no mínimo os impactos abaixo. Para cada impacto indicado, descrever as medidas mitigatórias, de controle ou de compensação correspondente. Considerando no mínimo os itens abaixo:
-- **Anexo IV, linha 79** {#anexo4_lin79} #conservacao-solo − Processos erosivos e de assoreamento associados à implantação do empreendimento;
-- **Anexo IV, linha 80** {#anexo4_lin80} #recurso-hidrico #agua-subterranea #corpo-hidrico − Na qualidade das águas superficiais ou subterrâneas, identificando os corpos d’água afetados;
-- **Anexo IV, linha 81** {#anexo4_lin81} #emissao-atmosferica #odor #poluicao-sonora − Emissão atmosférica, incluindo a questão de odores, e emissão de ruídos;
-- **Anexo IV, linha 82** {#anexo4_lin82} #supressao-vegetacao #vegetacao-nativa − Supressão de cobertura vegetal nativa (ha);
-- **Anexo IV, linha 83** {#anexo4_lin83} #app #supressao-vegetacao − Interferência em área de preservação permanente, inclusive supressão de vegetação (quantificar);
+- **Anexo IV, linha 65** {#anexo4_lin65} 3.3 Recursos hídricos existentes na área, existência de nascentes e olhos d’água;
+- **Anexo IV, linha 66** {#anexo4_lin66} 3.4 Descrição geológico-geotécnica da área preconizada para a implantação do empreedimento. Avaliação da capacidade de suporte do terreno tendo em vista a adequabilidade em relação à alternativa tecnológica preconizada.
+- **Anexo IV, linha 67** {#anexo4_lin67} 3.5 Feições da área, presença de terrenos alagadiços ou sujeitos a inundação;
+- **Anexo IV, linha 68** {#anexo4_lin68} 3.6 Suscetibilidade do terreno à erosão;
+- **Anexo IV, linha 69** {#anexo4_lin69} 3.7 Caracterização da geomorfologia/relevo;
+- **Anexo IV, linha 70** {#anexo4_lin70} 3.8 Caracterizar a cobertura vegetal na área afetada pelo empreendimento.
+- **Anexo IV, linha 71** {#anexo4_lin71} 3.9 Existência de áreas de preservação permanente;
+- **Anexo IV, linha 72** {#anexo4_lin72} 3.10 Ocorrência de Reserva Legal, seu estado de conservação e sua localização e distribuição; caso a Reserva Legal não tenha sido respeitada na área, indicar a área do imóvel que será destinada a Reserva Legal;
+- **Anexo IV, linha 73** {#anexo4_lin73} 3.11 Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais na área do empreendimento e no seu entorno.
+- **Anexo IV, linha 74** {#anexo4_lin74} 3.12 Indícios de vestígios arqueológicos, históricos, ou artísticos na área afetada, quando aplicável;
+- **Anexo IV, linha 75** {#anexo4_lin75} 3.13 Apresentar levantamento de reservas indígenas, área quilombola, monumentos naturais e dos bens tombados existentes na área de influência direta do empreendimento.
+- **Anexo IV, linha 76** {#anexo4_lin76} 3.14 Identificar as áreas passíveis de desapropriação para implantação do empreendimento. No caso de remoção de população, apresentar dimensionamento preliminar e caracterização econômica e social da população a ser removida, bem como indicação dos locais propostos para reassentamento.
+- **Anexo IV, linha 77** {#anexo4_lin77} 4. IMPACTOS AMBIENTAIS E MEDIDAS MITIGADORAS OU COMPENSATÓRIAS
+- **Anexo IV, linha 78** {#anexo4_lin78} Identificar os principais impactos que poderão ocorrer em função das diversas ações previstas para o planejamento, a implantação e a operação do empreendimento, atividade ou obra, contemplando no mínimo os impactos abaixo. Para cada impacto indicado, descrever as medidas mitigatórias, de controle ou de compensação correspondente. Considerando no mínimo os itens abaixo:
+- **Anexo IV, linha 79** {#anexo4_lin79} − Processos erosivos e de assoreamento associados à implantação do empreendimento;
+- **Anexo IV, linha 80** {#anexo4_lin80} − Na qualidade das águas superficiais ou subterrâneas, identificando os corpos d’água afetados;
+- **Anexo IV, linha 81** {#anexo4_lin81} − Emissão atmosférica, incluindo a questão de odores, e emissão de ruídos;
+- **Anexo IV, linha 82** {#anexo4_lin82} − Supressão de cobertura vegetal nativa (ha);
+- **Anexo IV, linha 83** {#anexo4_lin83} − Interferência em área de preservação permanente, inclusive supressão de vegetação (quantificar);
 - **Anexo IV, linha 84** {#anexo4_lin84} − Interferência sobre infraestruturas urbanas;
-- **Anexo IV, linha 85** {#anexo4_lin85} #conflito-uso #uso-solo − Conflito de uso do solo/entorno;
-- **Anexo IV, linha 86** {#anexo4_lin86} #transporte − Intensificação de tráfego na área, principalmente com relação ao transporte de resíduos;
+- **Anexo IV, linha 85** {#anexo4_lin85} − Conflito de uso do solo/entorno;
+- **Anexo IV, linha 86** {#anexo4_lin86} − Intensificação de tráfego na área, principalmente com relação ao transporte de resíduos;
 - **Anexo IV, linha 87** {#anexo4_lin87} − Interferência na paisagem existente;
 - **Anexo IV, linha 88** {#anexo4_lin88} − Valorização/desvalorização imobiliária;
-- **Anexo IV, linha 89** {#anexo4_lin89} #conflito-uso #recurso-hidrico − Conflito de uso da água;
-- **Anexo IV, linha 90** {#anexo4_lin90} #unidade-conservacao #zona-amortecimento − Na existência de unidades de conservação que possam ser afetadas no seu interior, zona de amortecimento ou áreas circundantes, apontar, especificamente, os impactos ambientais efetivos ou potenciais da atividade ou empreendimento sobre as unidades de conservação, suas zonas de amortecimento ou áreas circundantes;
-- **Anexo IV, linha 91** {#anexo4_lin91} #passivo-ambiental #area-contaminada − Em caso de passivos ambientais verificados, apresentar propostas de recuperação e ou mitigação
+- **Anexo IV, linha 89** {#anexo4_lin89} − Conflito de uso da água;
+- **Anexo IV, linha 90** {#anexo4_lin90} − Na existência de unidades de conservação que possam ser afetadas no seu interior, zona de amortecimento ou áreas circundantes, apontar, especificamente, os impactos ambientais efetivos ou potenciais da atividade ou empreendimento sobre as unidades de conservação, suas zonas de amortecimento ou áreas circundantes;
+- **Anexo IV, linha 91** {#anexo4_lin91} − Em caso de passivos ambientais verificados, apresentar propostas de recuperação e ou mitigação
 - **Anexo IV, linha 92** {#anexo4_lin92} 5. CONCLUSÃO
 - **Anexo IV, linha 93** {#anexo4_lin93} Deverão ser apresentadas as conclusões sobre os resultados dos estudos de impacto ambiental da atividade, enfocando os seguintes pontos:
 - **Anexo IV, linha 94** {#anexo4_lin94} • Prováveis modificações ambientais na área de influência da atividade, sobre os meios físico, biótico e sócio-econômico decorrentes da atividade, considerando a adoção das medidas mitigadoras e compensatórias propostas;
-- **Anexo IV, linha 95** {#anexo4_lin95} #viabilidade-ambiental • Benefícios sociais, econômicos e ambientais decorrentes da atividade; e, Avaliação do prognóstico realizado quanto à viabilidade ambiental do projeto. Deve refletir os resultados das análises realizadas referentes às prováveis modificações na área de intervenção e entorno do empreendimento ou atividade, inclusive com as medidas mitigadoras, de controle ou compensatórias propostas, de forma a concluir quanto à viabilidade ambiental ou não da atividade proposta.
+- **Anexo IV, linha 95** {#anexo4_lin95} • Benefícios sociais, econômicos e ambientais decorrentes da atividade; e, Avaliação do prognóstico realizado quanto à viabilidade ambiental do projeto. Deve refletir os resultados das análises realizadas referentes às prováveis modificações na área de intervenção e entorno do empreendimento ou atividade, inclusive com as medidas mitigadoras, de controle ou compensatórias propostas, de forma a concluir quanto à viabilidade ambiental ou não da atividade proposta.
 - **Anexo IV, linha 96** {#anexo4_lin96} 6. CONSIDERAÇÕES FINAIS
 - **Anexo IV, linha 97** {#anexo4_lin97} Caso exista algum tipo de impedimento, limitação ou discordância para o atendimento de qualquer dos itens propostos neste Termo de Referência, sua omissão ou insuficiência deve ser justificada com argumentação objetiva.
 

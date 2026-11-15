@@ -30,12 +30,10 @@ fonte: "Portal da legislação estadual (AEN, \"Este texto não substitui o publ
 **Preâmbulo** {#preambulo} O Secretário de Estado do Desenvolvimento Sustentável e do Turismo, designado pelo Decreto Estadual n. º 1440, de 23 de maio de 2019, no uso das atribuições que lhe são conferidas pela Lei Estadual nº [[lei-estadual-19848-2019|Lei nº 19.848, de 3 de maio de 2019]] e [[lei-estadual-10066-1992|Lei n° 10.066, de 27 de julho de 1992]] e; Considerando o disposto na Resolução do Conselho Nacional do Meio Ambiente - CONAMA n° 237, de 19 de dezembro de 1997 e na Resolução do Conselho Estadual do Meio Ambiente – CEMA nº 105 de 17 de dezembro de 2019; Considerando o inciso XVI, art.4.º da [[lei-estadual-19848-2019|Lei 19.848, de 03 de maio de 2019]] que estabelece competências para os Secretários de Estado para propor, planejar, coordenar e sugerir a adoção de medidas de desburocratização e eficiência na gestão; Considerando o §2º do art.3.º da [[lei-estadual-19857-2019|Lei 19.857 de 29 de maio de 2019]], que institui o Programa de Integridade e Compliance da Administração Pública Estadual, cujos mecanismos visam proteger o órgão e a entidade, bem como impor aos agentes públicos e políticos o compromisso com a ética, o respeito, a integridade e a eficiência na prestação do serviço público. Considerando o [[decreto-estadual-2432-2019|Decreto Estadual 2.432, de 15 de agosto de 2019]] que criou o Comitê Permanente de Desburocratização, com o objetivo de identificar os principais entraves burocráticos para a categoria empresarial no Estado do Paraná e trabalhar em função de soluções, melhorando o ambiente de negócios; Considerando o Plano de Ação “Descomplica” da SEDEST, aprovado pelo Comitê Permanente de Desburocratização, cujo objetivo é a simplificação dos procedimentos de licenciamento; RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #bovinocultura #porte #las #dispensa
 
 **Art. 1º, caput** {#art1_cpt} Alterar o porte micro e mínimo dos empreendimentos de Bovinocultura de leite confinada e semiconfinada constante no
 
 ###### Art. 5º {#art5}
-Tags: #sedest
 
 **Art. 5º, caput** {#art5_cpt} º da [[resolucao-sedest-55-2019|Resolução SEDEST 055/2019]], que passa a vigorar com a seguinte redação:
 - **Art. 1º, Tabela 1, linha 1** {#art1_tab1_lin1} Porte: Micro | Número rde ANIMAIS EM LACTAÇÃO – confinado: Até 100 | Número rde ANIMAIS EM LACTAÇÃO – semi confinado: Até 200 | Licença ambiental – DLAE: Sim | Licença ambiental – LAS: Não | Licença ambiental – LP/LI/ LO: Não
@@ -46,7 +44,6 @@ Tags: #sedest
 - **Art. 1º, Tabela 1, linha 6** {#art1_tab1_lin6} Porte: Excepcional | Número rde ANIMAIS EM LACTAÇÃO – confinado: Acima de 1000 | Número rde ANIMAIS EM LACTAÇÃO – semi confinado: Acima de 2200 | Licença ambiental – DLAE: Não | Licença ambiental – LAS: Não | Licença ambiental – LP/LI/ LO: Sim
 
 ###### Art. 2º {#art2}
-Tags: #bovinocultura #porte #las #dispensa
 
 **Art. 2º, caput** {#art2_cpt} Alterar o porte micro e mínimo dos empreendimentos de Bovinocultura de corte confinada constante no Art.7.º da [[resolucao-sedest-55-2019|Resolução SEDEST 055/2019]], que passa a vigorar com a seguinte redação:
 - **Art. 2º, Tabela 1, linha 1** {#art2_tab1_lin1} Porte: Micro | Número de cabeças: Até 100 | Licença ambiental – DLAE: Sim | Licença ambiental – LAS: Não | Licença ambiental – LP/LI/ LO: Não
@@ -57,14 +54,12 @@ Tags: #bovinocultura #porte #las #dispensa
 - **Art. 2º, Tabela 1, linha 6** {#art2_tab1_lin6} Porte: Excepcional | Número de cabeças: Acima de 1000 | Licença ambiental – DLAE: Não | Licença ambiental – LAS: Não | Licença ambiental – LP/LI/ LO: Sim
 
 ###### Art. 3º {#art3}
-Tags: #las #documentacao #art-anotacao #renovacao
 
 **Art. 3º, caput** {#art3_cpt} O requerente terá, automaticamente, sua Licença Ambiental Simplificada -LAS bem como a sua renovação, desde que apresentada toda a documentação solicitada pelo [[resolucao-sedest-55-2019#art10|Art.10 da Resolução SEDEST 055/2019]], acompanhada com a Anotação de Responsabilidade Técnica - ART do profissional que elaborou o projeto.
 **Art. 3º, § 1º** {#art3_par1} O requerente terá, automaticamente, sua Licença Ambiental Simplificada, bem como a sua renovação, com a apresentação de toda documentação solicitada neste artigo e após a compensação do pagamento das taxas devidas.
 **Art. 3º, § 2º** {#art3_par2} O órgão ambiental realizará avaliação posterior das informações constantes no procedimento, podendo solicitar complementações ou até a suspensão do licenciamento.
 
 ###### Art. 4º {#art4}
-Tags: #vigencia
 
 **Art. 4º, caput** {#art4_cpt} Esta Resolução entra em vigor na data de sua publicação.
 

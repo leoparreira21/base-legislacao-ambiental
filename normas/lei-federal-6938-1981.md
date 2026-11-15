@@ -36,7 +36,6 @@ fonte: "Planalto – texto compilado impresso do navegador (21 páginas, Skia/PD
 **Preâmbulo** {#preambulo} O PRESIDENTE DA REPÚBLICA, Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
 ###### Art. 1º {#art1}
-Tags: #pnma #sisnama #cadastro
 Alterações: caput: redação dada pela [[lei-federal-8028-1990|Lei nº 8.028, de 1990]]
 
 **Art. 1º, caput** {#art1_cpt} #redacao-alterada Esta Lei, com fundamento nos [[constituicao-federal-1988#art23_cpt_inc6|incisos VI e VII do art. 23]] e no [[constituicao-federal-1988#art235|art. 235 da Constituição]], estabelece a Política Nacional do Meio Ambiente, seus fins e mecanismos de formulação e aplicação, constitui o Sistema Nacional do Meio Ambiente - SISNAMA e institui o Cadastro de Defesa Ambiental. *(Redação dada pela [[lei-federal-8028-1990|Lei nº 8.028, de 1990]])*
@@ -44,7 +43,6 @@ Alterações: caput: redação dada pela [[lei-federal-8028-1990|Lei nº 8.028, 
 ## DA POLÍTICA NACIONAL DO MEIO AMBIENTE
 
 ###### Art. 2º {#art2}
-Tags: #pnma #recuperacao-ambiental #degradacao-ambiental
 Alterações: caput, inciso XI: incluído pela [[lei-federal-15512-2026|Lei nº 15.512, de 2026]]
 
 **Art. 2º, caput** {#art2_cpt} A Política Nacional do Meio Ambiente tem por objetivo a preservação, melhoria e recuperação da qualidade ambiental propícia à vida, visando assegurar, no País, condições ao desenvolvimento sócioeconômico, aos interesses da segurança nacional e à proteção da dignidade da vida humana, atendidos os seguintes princípios:
@@ -62,7 +60,6 @@ Alterações: caput, inciso XI: incluído pela [[lei-federal-15512-2026|Lei nº 
 - **Art. 2º, caput, inciso XI** {#art2_cpt_inc11} #incluido garantia do acesso prioritário de crianças e adolescentes à natureza e ao meio ambiente ecologicamente equilibrado. *(Incluído pela [[lei-federal-15512-2026|Lei nº 15.512, de 2026]])*
 
 ###### Art. 3º {#art3}
-Tags: #pnma #meio-ambiente #degradacao-ambiental #poluicao
 Alterações: caput, inciso V: redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]
 
 **Art. 3º, caput** {#art3_cpt} Para os fins previstos nesta Lei, entende-se por:
@@ -81,7 +78,6 @@ Alterações: caput, inciso V: redação dada pela [[lei-federal-7804-1989|Lei n
 ## DOS OBJETIVOS DA POLÍTICA NACIONAL DO MEIO AMBIENTE
 
 ###### Art. 4º {#art4}
-Tags: #pnma #padrao-qualidade
 
 **Art. 4º, caput** {#art4_cpt} A Política Nacional do Meio Ambiente visará:
 
@@ -94,7 +90,6 @@ Tags: #pnma #padrao-qualidade
 - **Art. 4º, caput, inciso VII** {#art4_cpt_inc7} à imposição, ao poluidor e ao predador, da obrigação de recuperar e/ou indenizar os danos causados, e ao usuário, de contribuição pela utilização de recursos ambientais com fins econômicos.
 
 ###### Art. 5º {#art5}
-Tags: #pnma
 
 **Art. 5º, caput** {#art5_cpt} As diretrizes da Política Nacional do Meio Ambiente serão formuladas em normas e planos, destinados a orientar a ação dos Governos da União, dos Estados, do Distrito Federal, dos Territórios e dos Municípios no que se relaciona com a preservação da qualidade ambiental e manutenção do equilíbrio ecológico, observados os princípios estabelecidos no [[#art2|art. 2º desta Lei]].
 
@@ -103,7 +98,6 @@ Tags: #pnma
 ## DO SISTEMA NACIONAL DO MEIO AMBIENTE
 
 ###### Art. 6º {#art6}
-Tags: #sisnama #conama #ibama #competencia #estado #municipio
 Alterações: caput, inciso I: redação dada pela [[lei-federal-15190-2025|Lei nº 15.190, de 2025]]; caput, inciso II: redação dada pela [[lei-federal-8028-1990|Lei nº 8.028, de 1990]]; caput, inciso III: redação dada pela [[lei-federal-8028-1990|Lei nº 8.028, de 1990]]; caput, inciso IV: redação dada pela [[lei-federal-12856-2013|Lei nº 12.856, de 2013]]; caput, inciso V: redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; caput, inciso VI: incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; § 4º: redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]
 
 **Art. 6º, caput** {#art6_cpt} Os órgãos e entidades da União, dos Estados, do Distrito Federal, dos Territórios e dos Municípios, bem como as fundações instituídas pelo Poder Público, responsáveis pela proteção e melhoria da qualidade ambiental, constituirão o Sistema Nacional do Meio Ambiente - SISNAMA, assim estruturado:
@@ -112,8 +106,8 @@ Alterações: caput, inciso I: redação dada pela [[lei-federal-15190-2025|Lei 
 - **Art. 6º, caput, inciso II** {#art6_cpt_inc2} #redacao-alterada Órgão Consultivo e Deliberativo: o Conselho Nacional do Meio Ambiente - CONAMA, com a finalidade de assessorar, estudar e propor ao Conselho de Governo, diretrizes de políticas governamentais para o meio ambiente e os recursos naturais e deliberar, no âmbito de sua competência, sobre normas e padrões compatíveis com o meio ambiente ecologicamente equilibrado e essencial à sadia qualidade de vida; *(Redação dada pela [[lei-federal-8028-1990|Lei nº 8.028, de 1990]])*
 - **Art. 6º, caput, inciso III** {#art6_cpt_inc3} #redacao-alterada Órgão Central: a Secretaria do Meio Ambiente da Presidência da República, com a finalidade de planejar, coordenar, supervisionar e controlar, como órgão federal, a política nacional e as diretrizes governamentais fixadas para o meio ambiente; *(Redação dada pela [[lei-federal-8028-1990|Lei nº 8.028, de 1990]])*
 - **Art. 6º, caput, inciso IV** {#art6_cpt_inc4} #redacao-alterada órgãos executores: o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA e o Instituto Chico Mendes de Conservação da Biodiversidade - Instituto Chico Mendes, com a finalidade de executar e fazer executar a política e as diretrizes governamentais fixadas para o meio ambiente, de acordo com as respectivas competências; *(Redação dada pela [[lei-federal-12856-2013|Lei nº 12.856, de 2013]])*
-- **Art. 6º, caput, inciso V** {#art6_cpt_inc5} #redacao-alterada #estado Órgãos Seccionais: os órgãos ou entidades estaduais responsáveis pela execução de programas, projetos e pelo controle e fiscalização de atividades capazes de provocar a degradação ambiental; *(Redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
-- **Art. 6º, caput, inciso VI** {#art6_cpt_inc6} #incluido #municipio Órgãos Locais: os órgãos ou entidades municipais, responsáveis pelo controle e fiscalização dessas atividades, nas suas respectivas jurisdições; *(Incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
+- **Art. 6º, caput, inciso V** {#art6_cpt_inc5} #redacao-alterada Órgãos Seccionais: os órgãos ou entidades estaduais responsáveis pela execução de programas, projetos e pelo controle e fiscalização de atividades capazes de provocar a degradação ambiental; *(Redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
+- **Art. 6º, caput, inciso VI** {#art6_cpt_inc6} #incluido Órgãos Locais: os órgãos ou entidades municipais, responsáveis pelo controle e fiscalização dessas atividades, nas suas respectivas jurisdições; *(Incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
 
 **Art. 6º, § 1º** {#art6_par1} Os Estados, na esfera de suas competências e nas áreas de sua jurisdição, elaborarão normas supletivas e complementares e padrões relacionados com o meio ambiente, observados os que forem estabelecidos pelo CONAMA.
 
@@ -126,13 +120,11 @@ Alterações: caput, inciso I: redação dada pela [[lei-federal-15190-2025|Lei 
 ## DO CONSELHO NACIONAL DO MEIO AMBIENTE
 
 ###### Art. 7º {#art7}
-Tags: #conama
 Alterações: caput: revogado pela [[lei-federal-8028-1990|Lei nº 8.028, de 1990]]
 
 **Art. 7º, caput** {#art7_cpt} #revogado *(Revogado pela [[lei-federal-8028-1990|Lei nº 8.028, de 1990]])*
 
 ###### Art. 8º {#art8}
-Tags: #conama #competencia #licenciamento-ambiental #eia-rima #padrao-qualidade
 Alterações: caput: redação dada pela [[lei-federal-8028-1990|Lei nº 8.028, de 1990]]; caput, inciso I: redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; caput, inciso II: redação dada pela [[lei-federal-8028-1990|Lei nº 8.028, de 1990]]; caput, inciso III: revogado pela [[lei-federal-11941-2009|Lei nº 11.941, de 2009]]; caput, inciso V: redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; parágrafo único: incluído pela [[lei-federal-8028-1990|Lei nº 8.028, de 1990]]
 
 **Art. 8º, caput** {#art8_cpt} #redacao-alterada Compete ao CONAMA: *(Redação dada pela [[lei-federal-8028-1990|Lei nº 8.028, de 1990]])*
@@ -150,7 +142,6 @@ Alterações: caput: redação dada pela [[lei-federal-8028-1990|Lei nº 8.028, 
 ## DOS INSTRUMENTOS DA POLÍTICA NACIONAL DO MEIO AMBIENTE
 
 ###### Art. 9º {#art9}
-Tags: #pnma #licenciamento-ambiental #impacto-ambiental #ctf #unidade-conservacao
 Alterações: caput, inciso VI: redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; caput, inciso X: incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; caput, inciso XI: incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; caput, inciso XII: incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; caput, inciso XIII: incluído pela [[lei-federal-11284-2006|Lei nº 11.284, de 2006]]
 
 **Art. 9º, caput** {#art9_cpt} São Instrumentos da Política Nacional do Meio Ambiente:
@@ -158,19 +149,18 @@ Alterações: caput, inciso VI: redação dada pela [[lei-federal-7804-1989|Lei 
 - **Art. 9º, caput, inciso I** {#art9_cpt_inc1} o estabelecimento de padrões de qualidade ambiental;
 - **Art. 9º, caput, inciso II** {#art9_cpt_inc2} o zoneamento ambiental; *(Regulamento)*
 - **Art. 9º, caput, inciso III** {#art9_cpt_inc3} a avaliação de impactos ambientais;
-- **Art. 9º, caput, inciso IV** {#art9_cpt_inc4} #licenciamento-ambiental o licenciamento e a revisão de atividades efetiva ou potencialmente poluidoras;
+- **Art. 9º, caput, inciso IV** {#art9_cpt_inc4} o licenciamento e a revisão de atividades efetiva ou potencialmente poluidoras;
 - **Art. 9º, caput, inciso V** {#art9_cpt_inc5} os incentivos à produção e instalação de equipamentos e a criação ou absorção de tecnologia, voltados para a melhoria da qualidade ambiental;
 - **Art. 9º, caput, inciso VI** {#art9_cpt_inc6} #redacao-alterada a criação de espaços territoriais especialmente protegidos pelo Poder Público federal, estadual e municipal, tais como áreas de proteção ambiental, de relevante interesse ecológico e reservas extrativistas; *(Redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
 - **Art. 9º, caput, inciso VII** {#art9_cpt_inc7} o sistema nacional de informações sobre o meio ambiente;
-- **Art. 9º, caput, inciso VIII** {#art9_cpt_inc8} #ctf o Cadastro Técnico Federal de Atividades e Instrumento de Defesa Ambiental;
+- **Art. 9º, caput, inciso VIII** {#art9_cpt_inc8} o Cadastro Técnico Federal de Atividades e Instrumento de Defesa Ambiental;
 - **Art. 9º, caput, inciso IX** {#art9_cpt_inc9} as penalidades disciplinares ou compensatórias ao não cumprimento das medidas necessárias à preservação ou correção da degradação ambiental.
 - **Art. 9º, caput, inciso X** {#art9_cpt_inc10} #incluido a instituição do Relatório de Qualidade do Meio Ambiente, a ser divulgado anualmente pelo Instituto Brasileiro do Meio Ambiente e Recursos Naturais Renováveis - IBAMA; *(Incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
 - **Art. 9º, caput, inciso XI** {#art9_cpt_inc11} #incluido a garantia da prestação de informações relativas ao Meio Ambiente, obrigando-se o Poder Público a produzí-las, quando inexistentes; *(Incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
-- **Art. 9º, caput, inciso XII** {#art9_cpt_inc12} #incluido #ctf o Cadastro Técnico Federal de atividades potencialmente poluidoras e/ou utilizadoras dos recursos ambientais. *(Incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
+- **Art. 9º, caput, inciso XII** {#art9_cpt_inc12} #incluido o Cadastro Técnico Federal de atividades potencialmente poluidoras e/ou utilizadoras dos recursos ambientais. *(Incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
 - **Art. 9º, caput, inciso XIII** {#art9_cpt_inc13} #incluido instrumentos econômicos, como concessão florestal, servidão ambiental, seguro ambiental e outros. *(Incluído pela [[lei-federal-11284-2006|Lei nº 11.284, de 2006]])*
 
 ###### Art. 9º-A {#art9-a}
-Tags: #servidao-ambiental #reserva-legal #app
 Alterações: caput: redação dada pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 1º: redação dada pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 1º, inciso I: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 1º, inciso II: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 1º, inciso III: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 1º, inciso IV: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 2º: redação dada pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 3º: redação dada pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 4º: redação dada pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 4º, inciso I: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 4º, inciso II: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 5º: redação dada pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 6º: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 7º: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]
 
 **Art. 9º-A, caput** {#art9-a_cpt} #redacao-alterada O proprietário ou possuidor de imóvel, pessoa natural ou jurídica, pode, por instrumento público ou particular ou por termo administrativo firmado perante órgão integrante do Sisnama, limitar o uso de toda a sua propriedade ou de parte dela para preservar, conservar ou recuperar os recursos ambientais existentes, instituindo servidão ambiental. *(Redação dada pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]])*.
@@ -198,7 +188,6 @@ Alterações: caput: redação dada pela [[lei-federal-12651-2012|Lei nº 12.651
 **Art. 9º-A, § 7º** {#art9-a_par7} #incluido As áreas que tenham sido instituídas na forma de servidão florestal, nos termos do [[lei-federal-4771-1965#art44-a|art. 44-A da Lei no 4.771, de 15 de setembro de 1965]], passam a ser consideradas, pelo efeito desta Lei, como de servidão ambiental. *(Incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]])*.
 
 ###### Art. 9º-B {#art9-b}
-Tags: #servidao-ambiental #unidade-conservacao
 Alterações: caput: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 1º: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 2º: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 3º: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]
 
 **Art. 9º-B, caput** {#art9-b_cpt} #incluido A servidão ambiental poderá ser onerosa ou gratuita, temporária ou perpétua. *(Incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]])*.
@@ -210,7 +199,6 @@ Alterações: caput: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 
 **Art. 9º-B, § 3º** {#art9-b_par3} #incluido O detentor da servidão ambiental poderá aliená-la, cedê-la ou transferi-la, total ou parcialmente, por prazo determinado ou em caráter definitivo, em favor de outro proprietário ou de entidade pública ou privada que tenha a conservação ambiental como fim social. *(Incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]])*.
 
 ###### Art. 9º-C {#art9-c}
-Tags: #servidao-ambiental
 Alterações: caput: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 1º: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 1º, inciso I: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 1º, inciso II: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 1º, inciso III: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 1º, inciso IV: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 1º, inciso V: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 1º, inciso VI: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 2º: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 2º, inciso I: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 2º, inciso II: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 2º, inciso III: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 2º, inciso IV: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 3º: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 3º, inciso I: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 3º, inciso II: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 3º, inciso III: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 3º, inciso IV: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]; § 3º, inciso V: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]]
 
 **Art. 9º-C, caput** {#art9-c_cpt} #incluido O contrato de alienação, cessão ou transferência da servidão ambiental deve ser averbado na matrícula do imóvel. *(Incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]])*.
@@ -240,7 +228,6 @@ Alterações: caput: incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 
 - **Art. 9º-C, § 3º, inciso V** {#art9-c_par3_inc5} #incluido defender judicialmente a servidão ambiental. *(Incluído pela [[lei-federal-12651-2012|Lei nº 12.651, de 2012]])*.
 
 ###### Art. 10 {#art10}
-Tags: #licenciamento-ambiental
 Alterações: caput: redação dada pela [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 2011]]; § 1º: redação dada pela [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 2011]]; § 2º: redação dada pela [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 2011]]; § 3º: redação dada pela [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 2011]]; § 4º: redação dada pela [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 2011]]
 
 **Art. 10, caput** {#art10_cpt} #redacao-alterada A construção, instalação, ampliação e funcionamento de estabelecimentos e atividades utilizadores de recursos ambientais, efetiva ou potencialmente poluidores ou capazes, sob qualquer forma, de causar degradação ambiental dependerão de prévio licenciamento ambiental. *(Redação dada pela [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 2011]])*
@@ -254,7 +241,6 @@ Alterações: caput: redação dada pela [[lei-complementar-federal-140-2011|Lei
 **Art. 10, § 4º** {#art10_par4} #revogado (Revogado). *(Redação dada pela [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 2011]])*
 
 ###### Art. 11 {#art11}
-Tags: #ibama #conama #fiscalizacao
 Alterações: § 1º: revogado pela [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 2011]]
 
 **Art. 11, caput** {#art11_cpt} Compete ao IBAMA propor ao CONAMA normas e padrões para implantação, acompanhamento e fiscalização do licenciamento previsto no [[#art10|artigo anterior]], além das que forem oriundas do próprio CONAMA. *(Vide [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
@@ -264,14 +250,12 @@ Alterações: § 1º: revogado pela [[lei-complementar-federal-140-2011|Lei Comp
 **Art. 11, § 2º** {#art11_par2} Inclui-se na competência da fiscalização e controle a análise de projetos de entidades, públicas ou privadas, objetivando a preservação ou a recuperação de recursos ambientais, afetados por processos de exploração predatórios ou poluidores.
 
 ###### Art. 12 {#art12}
-Tags: #licenciamento-ambiental
 
 **Art. 12, caput** {#art12_cpt} As entidades e órgãos de financiamento e incentivos governamentais condicionarão a aprovação de projetos habilitados a esses benefícios ao licenciamento, na forma desta Lei, e ao cumprimento das normas, dos critérios e dos padrões expedidos pelo CONAMA.
 
 **Art. 12, parágrafo único** {#art12_par1u} As entidades e órgãos referidos no caput deste artigo deverão fazer constar dos projetos a realização de obras e aquisição de equipamentos destinados ao controle de degradação ambiental e a melhoria da qualidade do meio ambiente.
 
 ###### Art. 13 {#art13}
-Tags: 
 
 **Art. 13, caput** {#art13_cpt} O Poder Executivo incentivará as atividades voltadas ao meio ambiente, visando:
 
@@ -282,7 +266,6 @@ Tags:
 **Art. 13, parágrafo único** {#art13_par1u} Os órgãos, entidades e programas do Poder Público, destinados ao incentivo das pesquisas científicas e tecnológicas, considerarão, entre as suas metas prioritárias, o apoio aos projetos que visem a adquirir e desenvolver conhecimentos básicos e aplicáveis na área ambiental e ecológica.
 
 ###### Art. 14 {#art14}
-Tags: #sancao #multa #dano-ambiental #responsabilidade #ministerio-publico #reincidencia
 Alterações: § 4º: revogado pela [[lei-federal-9966-2000|Lei nº 9.966, de 2000]]; § 5º: incluído pela [[lei-federal-11284-2006|Lei nº 11.284, de 2006]]
 
 **Art. 14, caput** {#art14_cpt} Sem prejuízo das penalidades definidas pela legislação federal, estadual e municipal, o não cumprimento das medidas necessárias à preservação ou correção dos inconvenientes e danos causados pela degradação da qualidade ambiental sujeitará os transgressores:
@@ -292,7 +275,7 @@ Alterações: § 4º: revogado pela [[lei-federal-9966-2000|Lei nº 9.966, de 20
 - **Art. 14, caput, inciso III** {#art14_cpt_inc3} à perda ou suspensão de participação em linhas de financiamento em estabelecimentos oficiais de crédito;
 - **Art. 14, caput, inciso IV** {#art14_cpt_inc4} à suspensão de sua atividade.
 
-**Art. 14, § 1º** {#art14_par1} #dano-ambiental #responsabilidade Sem obstar a aplicação das penalidades previstas neste artigo, é o poluidor obrigado, independentemente da existência de culpa, a indenizar ou reparar os danos causados ao meio ambiente e a terceiros, afetados por sua atividade. O Ministério Público da União e dos Estados terá legitimidade para propor ação de responsabilidade civil e criminal, por danos causados ao meio ambiente.
+**Art. 14, § 1º** {#art14_par1} Sem obstar a aplicação das penalidades previstas neste artigo, é o poluidor obrigado, independentemente da existência de culpa, a indenizar ou reparar os danos causados ao meio ambiente e a terceiros, afetados por sua atividade. O Ministério Público da União e dos Estados terá legitimidade para propor ação de responsabilidade civil e criminal, por danos causados ao meio ambiente.
 
 **Art. 14, § 2º** {#art14_par2} No caso de omissão da autoridade estadual ou municipal, caberá ao Secretário do Meio Ambiente a aplicação das penalidades pecuniárias prevista neste artigo.
 
@@ -303,7 +286,6 @@ Alterações: § 4º: revogado pela [[lei-federal-9966-2000|Lei nº 9.966, de 20
 **Art. 14, § 5º** {#art14_par5} #incluido A execução das garantias exigidas do poluidor não impede a aplicação das obrigações de indenização e reparação de danos previstas no [[#art14_par1|§ 1o deste artigo]]. *(Incluído pela [[lei-federal-11284-2006|Lei nº 11.284, de 2006]])*
 
 ###### Art. 15 {#art15}
-Tags: #crime-ambiental #poluicao
 Alterações: caput: redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; § 1º: redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; § 1º, inciso I: incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; § 1º, inciso I, alínea "a": incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; § 1º, inciso I, alínea "b": incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; § 1º, inciso II: incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; § 1º, inciso III: incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; § 2º: redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]
 
 **Art. 15, caput** {#art15_cpt} #redacao-alterada O poluidor que expuser a perigo a incolumidade humana, animal ou vegetal, ou estiver tornando mais grave situação de perigo existente, fica sujeito à pena de reclusão de 1 (um) a 3 (três) anos e multa de 100 (cem) a 1.000 (mil) MVR. *(Redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
@@ -319,28 +301,24 @@ Alterações: caput: redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, 
 **Art. 15, § 2º** {#art15_par2} #redacao-alterada Incorre no mesmo crime a autoridade competente que deixar de promover as medidas tendentes a impedir a prática das condutas acima descritas. *(Redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
 
 ###### Art. 16 {#art16}
-Tags: 
 Alterações: caput: revogado pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]
 
 **Art. 16, caput** {#art16_cpt} #revogado *(Revogado pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
 
 ###### Art. 17 {#art17}
-Tags: #ctf #ibama #cadastro
 Alterações: caput: redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; caput, inciso I: incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]; caput, inciso II: incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]
 
 **Art. 17, caput** {#art17_cpt} #redacao-alterada Fica instituído, sob a administração do Instituto Brasileiro do Meio Ambiente e Recursos Naturais Renováveis - IBAMA: *(Redação dada pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
 
-- **Art. 17, caput, inciso I** {#art17_cpt_inc1} #incluido #ctf Cadastro Técnico Federal de Atividades e Instrumentos de Defesa Ambiental, para registro obrigatório de pessoas físicas ou jurídicas que se dedicam a consultoria técnica sobre problemas ecológicos e ambientais e à indústria e comércio de equipamentos, aparelhos e instrumentos destinados ao controle de atividades efetiva ou potencialmente poluidoras; *(Incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
-- **Art. 17, caput, inciso II** {#art17_cpt_inc2} #incluido #ctf Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras de Recursos Ambientais, para registro obrigatório de pessoas físicas ou jurídicas que se dedicam a atividades potencialmente poluidoras e/ou à extração, produção, transporte e comercialização de produtos potencialmente perigosos ao meio ambiente, assim como de produtos e subprodutos da fauna e flora. *(Incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
+- **Art. 17, caput, inciso I** {#art17_cpt_inc1} #incluido Cadastro Técnico Federal de Atividades e Instrumentos de Defesa Ambiental, para registro obrigatório de pessoas físicas ou jurídicas que se dedicam a consultoria técnica sobre problemas ecológicos e ambientais e à indústria e comércio de equipamentos, aparelhos e instrumentos destinados ao controle de atividades efetiva ou potencialmente poluidoras; *(Incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
+- **Art. 17, caput, inciso II** {#art17_cpt_inc2} #incluido Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras de Recursos Ambientais, para registro obrigatório de pessoas físicas ou jurídicas que se dedicam a atividades potencialmente poluidoras e/ou à extração, produção, transporte e comercialização de produtos potencialmente perigosos ao meio ambiente, assim como de produtos e subprodutos da fauna e flora. *(Incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]])*
 
 ###### Art. 17-A {#art17-a}
-Tags: #ibama #taxa-ambiental
 Alterações: caput: incluído pela [[lei-federal-9960-2000|Lei nº 9.960, de 2000]]
 
 **Art. 17-A, caput** {#art17-a_cpt} #incluido São estabelecidos os preços dos serviços e produtos do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama, a serem aplicados em âmbito nacional, conforme [[#anexo-precos|Anexo a esta Lei]]. *(Incluído pela [[lei-federal-9960-2000|Lei nº 9.960, de 2000]])* *(Vide [[medida-provisoria-687-2015|Medida Provisória nº 687, de 2015]])* *(Vide [[lei-federal-13196-2015|Lei nº 13.196, de 2015]])*
 
 ###### Art. 17-B {#art17-b}
-Tags: #tcfa #taxa-ambiental #ibama
 Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 1º: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 2º: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]
 
 **Art. 17-B, caput** {#art17-b_cpt} #redacao-alterada Fica instituída a Taxa de Controle e Fiscalização Ambiental – TCFA, cujo fato gerador é o exercício regular do poder de polícia conferido ao Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis – Ibama para controle e fiscalização das atividades potencialmente poluidoras e utilizadoras de recursos naturais. *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])* *(Vide [[medida-provisoria-687-2015|Medida Provisória nº 687, de 2015]])* *(Vide [[lei-federal-13196-2015|Lei nº 13.196, de 2015]])*
@@ -350,7 +328,6 @@ Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165
 **Art. 17-B, § 2º** {#art17-b_par2} #revogado Revogado. *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
 
 ###### Art. 17-C {#art17-c}
-Tags: #tcfa #ctf #prazo
 Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 1º: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 2º: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 3º: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]
 
 **Art. 17-C, caput** {#art17-c_cpt} #redacao-alterada É sujeito passivo da TCFA todo aquele que exerça as atividades constantes do [[#anexo8|Anexo VIII desta Lei]]. *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
@@ -362,7 +339,6 @@ Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165
 **Art. 17-C, § 3º** {#art17-c_par3} #revogado Revogado. *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
 
 ###### Art. 17-D {#art17-d}
-Tags: #tcfa #porte #microempresa #potencial-poluidor
 Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 1º: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 1º, inciso I: incluído pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 1º, inciso II: incluído pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 1º, inciso III: incluído pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 2º: incluído pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 3º: incluído pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]
 
 **Art. 17-D, caput** {#art17-d_cpt} #redacao-alterada A TCFA é devida por estabelecimento e os seus valores são os fixados no [[#anexo9|Anexo IX desta Lei]]. *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
@@ -378,19 +354,16 @@ Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165
 **Art. 17-D, § 3º** {#art17-d_par3} #incluido Caso o estabelecimento exerça mais de uma atividade sujeita à fiscalização, pagará a taxa relativamente a apenas uma delas, pelo valor mais elevado. *(Incluído pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
 
 ###### Art. 17-E {#art17-e}
-Tags: #tcfa
 Alterações: caput: incluído pela [[lei-federal-9960-2000|Lei nº 9.960, de 2000]]
 
 **Art. 17-E, caput** {#art17-e_cpt} #incluido É o Ibama autorizado a cancelar débitos de valores inferiores a R$ 40,00 (quarenta reais), existentes até 31 de dezembro de 1999. *(Incluído pela [[lei-federal-9960-2000|Lei nº 9.960, de 2000]])*
 
 ###### Art. 17-F {#art17-f}
-Tags: #tcfa #isencao #comunidade-tradicional
 Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]
 
 **Art. 17-F, caput** {#art17-f_cpt} #redacao-alterada São isentas do pagamento da TCFA as entidades públicas federais, distritais, estaduais e municipais, as entidades filantrópicas, aqueles que praticam agricultura de subsistência e as populações tradicionais. *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
 
 ###### Art. 17-G {#art17-g}
-Tags: #tcfa #prazo
 Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; parágrafo único: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 2º: incluído pela [[lei-federal-11284-2006|Lei nº 11.284, de 2006]]
 
 **Art. 17-G, caput** {#art17-g_cpt} #redacao-alterada A TCFA será devida no último dia útil de cada trimestre do ano civil, nos valores fixados no [[#anexo9|Anexo IX desta Lei]], e o recolhimento será efetuado em conta bancária vinculada ao Ibama, por intermédio de documento próprio de arrecadação, até o quinto dia útil do mês subseqüente. *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
@@ -400,7 +373,6 @@ Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165
 **Art. 17-G, § 2º** {#art17-g_par2} #incluido Os recursos arrecadados com a TCFA terão utilização restrita em atividades de controle e fiscalização ambiental. *(Incluído pela [[lei-federal-11284-2006|Lei nº 11.284, de 2006]])*
 
 ###### Art. 17-H {#art17-h}
-Tags: #tcfa #multa
 Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; caput, inciso I: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; caput, inciso II: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; caput, inciso III: incluído pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 1º-A: incluído pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 1º: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]
 
 **Art. 17-H, caput** {#art17-h_cpt} #redacao-alterada A TCFA não recolhida nos prazos e nas condições estabelecidas no [[#art17-g|artigo anterior]] será cobrada com os seguintes acréscimos: *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
@@ -414,7 +386,6 @@ Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165
 **Art. 17-H, § 1º** {#art17-h_par1} #redacao-alterada Os débitos relativos à TCFA poderão ser parcelados de acordo com os critérios fixados na legislação tributária, conforme dispuser o regulamento desta Lei. *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
 
 ###### Art. 17-I {#art17-i}
-Tags: #ctf #multa #porte
 Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; caput, inciso I: incluído pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; caput, inciso II: incluído pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; caput, inciso III: incluído pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; caput, inciso IV: incluído pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; caput, inciso V: incluído pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; parágrafo único: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]
 
 **Art. 17-I, caput** {#art17-i_cpt} #redacao-alterada As pessoas físicas e jurídicas que exerçam as atividades mencionadas nos [[#art17_cpt_inc1|incisos I e II do art. 17]] e que não estiverem inscritas nos respectivos cadastros até o último dia útil do terceiro mês que se seguir ao da publicação desta Lei incorrerão em infração punível com multa de: *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
@@ -428,31 +399,26 @@ Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165
 **Art. 17-I, parágrafo único** {#art17-i_par1u} #revogado Revogado. *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
 
 ###### Art. 17-J {#art17-j}
-Tags: 
 Alterações: caput: revogado pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]
 
 **Art. 17-J, caput** {#art17-j_cpt} #revogado *(Revogado pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
 
 ###### Art. 17-L {#art17-l}
-Tags: #sisnama #competencia #licenciamento-ambiental #fauna #flora
 Alterações: caput: incluído pela [[lei-federal-9960-2000|Lei nº 9.960, de 2000]]
 
 **Art. 17-L, caput** {#art17-l_cpt} #incluido As ações de licenciamento, registro, autorizações, concessões e permissões relacionadas à fauna, à flora, e ao controle ambiental são de competência exclusiva dos órgãos integrantes do Sistema Nacional do Meio Ambiente. *(Incluído pela [[lei-federal-9960-2000|Lei nº 9.960, de 2000]])*
 
 ###### Art. 17-M {#art17-m}
-Tags: #ibama #unidade-conservacao
 Alterações: caput: incluído pela [[lei-federal-9960-2000|Lei nº 9.960, de 2000]]
 
 **Art. 17-M, caput** {#art17-m_cpt} #incluido Os preços dos serviços administrativos prestados pelo Ibama, inclusive os referentes à venda de impressos e publicações, assim como os de entrada, permanência e utilização de áreas ou instalações nas unidades de conservação, serão definidos em portaria do Ministro de Estado do Meio Ambiente, mediante proposta do Presidente daquele Instituto. *(Incluído pela [[lei-federal-9960-2000|Lei nº 9.960, de 2000]])*
 
 ###### Art. 17-N {#art17-n}
-Tags: #ibama #flora
 Alterações: caput: incluído pela [[lei-federal-9960-2000|Lei nº 9.960, de 2000]]
 
 **Art. 17-N, caput** {#art17-n_cpt} #incluido Os preços dos serviços técnicos do Laboratório de Produtos Florestais do Ibama, assim como os para venda de produtos da flora, serão, também, definidos em portaria do Ministro de Estado do Meio Ambiente, mediante proposta do Presidente daquele Instituto. *(Incluído pela [[lei-federal-9960-2000|Lei nº 9.960, de 2000]])*
 
 ###### Art. 17-O {#art17-o}
-Tags: #taxa-ambiental #vistoria #ibama
 Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 1º: revogado pela [[lei-federal-14932-2024|Lei nº 14.932, de 2024]]; § 1º-A: incluído pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 2º: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 3º: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 4º: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 5º: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]
 
 **Art. 17-O, caput** {#art17-o_cpt} #redacao-alterada Os proprietários rurais que se beneficiarem com redução do valor do Imposto sobre a Propriedade Territorial Rural – ITR, com base em Ato Declaratório Ambiental - ADA, deverão recolher ao Ibama a importância prevista no [[lei-federal-9960-2000|item 3.11 do Anexo VII da Lei no 9.960, de 29 de janeiro de 2000]], a título de Taxa de Vistoria. *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
@@ -470,7 +436,6 @@ Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165
 **Art. 17-O, § 5º** {#art17-o_par5} #redacao-alterada Após a vistoria, realizada por amostragem, caso os dados constantes do ADA não coincidam com os efetivamente levantados pelos técnicos do Ibama, estes lavrarão, de ofício, novo ADA, contendo os dados reais, o qual será encaminhado à Secretaria da Receita Federal, para as providências cabíveis. *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
 
 ###### Art. 17-P {#art17-p}
-Tags: #tcfa #taxa-ambiental
 Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 1º: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]; § 2º: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]
 
 **Art. 17-P, caput** {#art17-p_cpt} #redacao-alterada Constitui crédito para compensação com o valor devido a título de TCFA, até o limite de sessenta por cento e relativamente ao mesmo ano, o montante efetivamente pago pelo estabelecimento ao Estado, ao Município e ao Distrito Federal em razão de taxa de fiscalização ambiental. *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
@@ -480,35 +445,29 @@ Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165
 **Art. 17-P, § 2º** {#art17-p_par2} #redacao-alterada A restituição, administrativa ou judicial, qualquer que seja a causa que a determine, da taxa de fiscalização ambiental estadual ou distrital compensada com a TCFA restaura o direito de crédito do Ibama contra o estabelecimento, relativamente ao valor compensado. *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
 
 ###### Art. 17-Q {#art17-q}
-Tags: #tcfa #fiscalizacao #cooperacao-institucional
 Alterações: caput: redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]]
 
 **Art. 17-Q, caput** {#art17-q_cpt} #redacao-alterada É o Ibama autorizado a celebrar convênios com os Estados, os Municípios e o Distrito Federal para desempenharem atividades de fiscalização ambiental, podendo repassar-lhes parcela da receita obtida com a TCFA. *(Redação dada pela [[lei-federal-10165-2000|Lei nº 10.165, de 2000]])*
 
 ###### Art. 18 {#art18}
-Tags: 
 Alterações: caput: revogado pela [[lei-federal-9985-2000|Lei nº 9.985, de 2000]]
 
 **Art. 18, caput** {#art18_cpt} #revogado *(Revogado pela [[lei-federal-9985-2000|Lei nº 9.985, de 2000]])*
 
 ###### Art. 19 (vetado no texto original) {#art19-vetado}
-Tags:
 
 **Art. 19 (vetado), caput** {#art19-vetado_cpt} (VETADO).
 
 ###### Art. 19 {#art19}
-Tags: 
 Alterações: caput: incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]
 
 **Art. 19, caput** {#art19_cpt} #incluido Ressalvado o disposto nas [[lei-federal-5357-1967|Leis nºs 5.357, de 17 de novembro de 1967]], e [[lei-federal-7661-1988|7.661, de 16 de maio de 1988]], a receita proveniente da aplicação desta Lei será recolhida de acordo com o disposto no [[lei-federal-7735-1989#art4|art. 4º da Lei nº 7.735, de 22 de fevereiro de 1989]]. *(Incluído pela [[lei-federal-7804-1989|Lei nº 7.804, de 1989]]))*
 
 ###### Art. 20 {#art20}
-Tags: #vigencia
 
 **Art. 20, caput** {#art20_cpt} Esta Lei entrará em vigor na data de sua publicação.
 
 ###### Art. 21 {#art21}
-Tags: #revogacao
 
 **Art. 21, caput** {#art21_cpt} Revogam-se as disposições em contrário.
 
@@ -735,28 +694,28 @@ Tags: #revogacao
 
 **Anexo VIII, Tabela 1 (cabeçalho)** {#anexo8_tab1} Código | Categoria | Descrição | Pp/gu
 
-- **Anexo VIII, Tabela 1, linha 1** {#anexo8_tab1_lin1} #tcfa #ctf #mineracao Código: 01 | Categoria: Extração e Tratamento de Minerais | Descrição: - pesquisa mineral com guia de utilização; lavra a céu aberto, inclusive de aluvião, com ou sem beneficiamento; lavra subterrânea com ou sem beneficiamento, lavra garimpeira, perfuração de poços e produção de petróleo e gás natural. | Pp/gu: AAlto
-- **Anexo VIII, Tabela 1, linha 2** {#anexo8_tab1_lin2} #tcfa #ctf #minerais-nao-metalicos Código: 02 | Categoria: Indústria de Produtos Minerais Não Metálicos | Descrição: - beneficiamento de minerais não metálicos, não associados a extração; fabricação e elaboração de produtos minerais não metálicos tais como produção de material cerâmico, cimento, gesso, amianto, vidro e similares. | Pp/gu: MMédio
-- **Anexo VIII, Tabela 1, linha 3** {#anexo8_tab1_lin3} #tcfa #ctf #industria-metalurgica Código: 03 | Categoria: Indústria Metalúrgica | Descrição: - fabricação de aço e de produtos siderúrgicos, produção de fundidos de ferro e aço, forjados, arames, relaminados com ou sem tratamento; de superfície, inclusive galvanoplastia, metalurgia dos metais não-ferrosos, em formas primárias e secundárias, inclusive ouro; produção de laminados, ligas, artefatos de metais não-ferrosos com ou sem tratamento de superfície, inclusive galvanoplastia; relaminação de metais não-ferrosos, inclusive ligas, produção de soldas e anodos; metalurgia de metais preciosos; metalurgia do pó, inclusive peças moldadas; fabricação de estruturas metálicas com ou sem tratamento de superfície, inclusive; galvanoplastia, fabricação de artefatos de ferro, aço e de metais não-ferrosos com ou sem tratamento de superfície, inclusive galvanoplastia, têmpera e cementação de aço, recozimento de arames, tratamento de superfície. | Pp/gu: AAlto
-- **Anexo VIII, Tabela 1, linha 4** {#anexo8_tab1_lin4} #tcfa #ctf #industria-mecanica Código: 04 | Categoria: Indústria Mecânica | Descrição: - fabricação de máquinas, aparelhos, peças, utensílios e acessórios com e sem tratamento térmico ou de superfície. | Pp/gu: MMédio
-- **Anexo VIII, Tabela 1, linha 5** {#anexo8_tab1_lin5} #tcfa #ctf #industria-eletrica Código: 05 | Categoria: Indústria de material Elétrico, Eletrônico e Comunicações | Descrição: - fabricação de pilhas, baterias e outros acumuladores, fabricação de material elétrico, eletrônico e equipamentos para telecomunicação e informática; fabricação de aparelhos elétricos e eletrodomésticos. | Pp/gu: MMédio
-- **Anexo VIII, Tabela 1, linha 6** {#anexo8_tab1_lin6} #tcfa #ctf #industria-material-transporte Código: 06 | Categoria: Indústria de Material de Transporte | Descrição: - fabricação e montagem de veículos rodoviários e ferroviários, peças e acessórios; fabricação e montagem de aeronaves; fabricação e reparo de embarcações e estruturas flutuantes. | Pp/gu: MMédio
-- **Anexo VIII, Tabela 1, linha 7** {#anexo8_tab1_lin7} #tcfa #ctf #industria-madeira Código: 07 | Categoria: Indústria de Madeira | Descrição: - serraria e desdobramento de madeira; preservação de madeira; fabricação de chapas, placas de madeira aglomerada, prensada e compensada; fabricação de estruturas de madeira e de móveis. | Pp/gu: Médio
-- **Anexo VIII, Tabela 1, linha 8** {#anexo8_tab1_lin8} #tcfa #ctf #papel-celulose Código: 08 | Categoria: Indústria de Papel e Celulose | Descrição: - fabricação de celulose e pasta mecânica; fabricação de papel e papelão; fabricação de artefatos de papel, papelão, cartolina, cartão e fibra prensada. | Pp/gu: Alto
-- **Anexo VIII, Tabela 1, linha 9** {#anexo8_tab1_lin9} #tcfa #ctf #industria-borracha Código: 09 | Categoria: Indústria de Borracha | Descrição: - beneficiamento de borracha natural, fabricação de câmara de ar, fabricação e recondicionamento de pneumáticos; fabricação de laminados e fios de borracha; fabricação de espuma de borracha e de artefatos de espuma de borracha, inclusive látex. | Pp/gu: Pequeno
-- **Anexo VIII, Tabela 1, linha 10** {#anexo8_tab1_lin10} #tcfa #ctf #industria-couro Código: 10 | Categoria: Indústria de Couros e Peles | Descrição: - secagem e salga de couros e peles, curtimento e outras preparações de couros e peles; fabricação de artefatos diversos de couros e peles; fabricação de cola animal. | Pp/gu: Alto
-- **Anexo VIII, Tabela 1, linha 11** {#anexo8_tab1_lin11} #tcfa #ctf #industria-textil Código: 11 | Categoria: Indústria Têxtil, de Vestuário, Calçados e Artefatos de Tecidos | Descrição: - beneficiamento de fibras têxteis, vegetais, de origem animal e sintéticos; fabricação e acabamento de fios e tecidos; tingimento, estamparia e outros acabamentos em peças do vestuário e artigos diversos de tecidos; fabricação de calçados e componentes para calçados. | Pp/gu: Médio
-- **Anexo VIII, Tabela 1, linha 12** {#anexo8_tab1_lin12} #tcfa #ctf Código: 12 | Categoria: Indústria de Produtos de Matéria Plástica. | Descrição: - fabricação de laminados plásticos, fabricação de artefatos de material plástico. | Pp/gu: Pequeno
-- **Anexo VIII, Tabela 1, linha 13** {#anexo8_tab1_lin13} #tcfa #ctf #industria-fumo Código: 13 | Categoria: Indústria do Fumo | Descrição: - fabricação de cigarros, charutos, cigarrilhas e outras atividades de beneficiamento do fumo. | Pp/gu: Médio
-- **Anexo VIII, Tabela 1, linha 14** {#anexo8_tab1_lin14} #tcfa #ctf #industrias-diversas Código: 14 | Categoria: Indústrias Diversas | Descrição: - usinas de produção de concreto e de asfalto. | Pp/gu: Pequeno
-- **Anexo VIII, Tabela 1, linha 15** {#anexo8_tab1_lin15} #tcfa #ctf #industria-quimica Código: 15 | Categoria: Indústria Química | Descrição: - produção de substâncias e fabricação de produtos químicos, fabricação de produtos derivados do processamento de petróleo, de rochas betuminosas e da madeira; fabricação de combustíveis não derivados de petróleo, produção de óleos, gorduras, ceras, vegetais e animais, óleos essenciais, vegetais e produtos similares, da destilação da madeira, fabricação de resinas e de fibras e fios artificiais e sintéticos e de borracha e látex sintéticos, fabricação de pólvora, explosivos, detonantes, munição para caça e desporto, fósforo de segurança e artigos pirotécnicos; recuperação e refino de solventes, óleos minerais, vegetais e animais; fabricação de concentrados aromáticos naturais, artificiais e sintéticos; fabricação de preparados para limpeza e polimento, desinfetantes, inseticidas, germicidas e fungicidas; fabricação de tintas, esmaltes, lacas, vernizes, impermeabilizantes, solventes e secantes; fabricação de fertilizantes e agroquímicos; fabricação de produtos farmacêuticos e veterinários; fabricação de sabões, detergentes e velas; fabricação de perfumarias e cosméticos; produção de álcool etílico, metanol e similares. | Pp/gu: Alto
-- **Anexo VIII, Tabela 1, linha 16** {#anexo8_tab1_lin16} #tcfa #ctf #industria-alimenticia Código: 16 | Categoria: Indústria de Produtos Alimentares e Bebidas | Descrição: - beneficiamento, moagem, torrefação e fabricação de produtos alimentares; matadouros, abatedouros, frigoríficos, charqueadas e derivados de origem animal; fabricação de conservas; preparação de pescados e fabricação de conservas de pescados; beneficiamento e industrialização de leite e derivados; fabricação e refinação de açúcar; refino e preparação de óleo e gorduras vegetais; produção de manteiga, cacau, gorduras de origem animal para alimentação; fabricação de fermentos e leveduras; fabricação de rações balanceadas e de alimentos preparados para animais; fabricação de vinhos e vinagre; fabricação de cervejas, chopes e maltes; fabricação de bebidas não-alcoólicas, bem como engarrafamento e gaseificação e águas minerais; fabricação de bebidas alcoólicas. | Pp/gu: Médio
-- **Anexo VIII, Tabela 1, linha 17** {#anexo8_tab1_lin17} #tcfa #ctf #tratamento-residuo Código: 17 | Categoria: Serviços de Utilidade | Descrição: - produção de energia termoelétrica; tratamento e destinação de resíduos industriais líquidos e sólidos; disposição de resíduos especiais tais como: de agroquímicos e suas embalagens; usadas e de serviço de saúde e similares; destinação de resíduos de esgotos sanitários e de resíduos sólidos urbanos, inclusive aqueles provenientes de fossas; dragagem e derrocamentos em corpos d’água; recuperação de áreas contaminadas ou degradadas. | Pp/gu: Médio
-- **Anexo VIII, Tabela 1, linha 18** {#anexo8_tab1_lin18} #tcfa #ctf #produto-perigoso Código: 18 | Categoria: Transporte, Terminais, Depósitos e Comércio | Descrição: - transporte de cargas perigosas, transporte por dutos; marinas, portos e aeroportos; terminais de minério, petróleo e derivados e produtos químicos; depósitos de produtos químicos e produtos perigosos; comércio de combustíveis, derivados de petróleo e produtos químicos e produtos perigosos. | Pp/gu: Alto
-- **Anexo VIII, Tabela 1, linha 19** {#anexo8_tab1_lin19} #tcfa #ctf Código: 19 | Categoria: Turismo | Descrição: - complexos turísticos e de lazer, inclusive parques temáticos. | Pp/gu: Pequeno
-- **Anexo VIII, Tabela 1, linha 20** {#anexo8_tab1_lin20} #tcfa #ctf #flora #fauna #redacao-alterada Código: 20 | Categoria: Uso de Recursos Naturais | Descrição: exploração econômica da madeira ou lenha e subprodutos florestais nativos; importação ou exportação da fauna e flora nativas brasileiras; atividade de criação e exploração econômica de fauna silvestre; exploração econômica de fauna exótica; utilização do patrimônio genético natural; exploração de recursos aquáticos vivos; introdução de espécies exóticas, exceto para melhoramento genético vegetal e uso na agricultura; introdução de espécies geneticamente modificadas previamente identificadas pela CTNBio como potencialmente causadoras de significativa degradação do meio ambiente; uso da diversidade biológica pela biotecnologia em atividades previamente identificadas pela CTNBio como potencialmente causadoras de significativa degradação do meio ambiente. *(Redação dada pela [[lei-federal-14876-2024|Lei nº 14.876, de 2024]])* | Pp/gu: Médio
-- **Anexo VIII, Tabela 1, linha 21** {#anexo8_tab1_lin21} #tcfa #ctf Código: 21 | Categoria: (VETADO) | Descrição: x | Pp/gu: x
-- **Anexo VIII, Tabela 1, linha 22** {#anexo8_tab1_lin22} #tcfa #ctf Código: 22 | Categoria: (VETADO) | Descrição: x | Pp/gu: x
+- **Anexo VIII, Tabela 1, linha 1** {#anexo8_tab1_lin1} Código: 01 | Categoria: Extração e Tratamento de Minerais | Descrição: - pesquisa mineral com guia de utilização; lavra a céu aberto, inclusive de aluvião, com ou sem beneficiamento; lavra subterrânea com ou sem beneficiamento, lavra garimpeira, perfuração de poços e produção de petróleo e gás natural. | Pp/gu: AAlto
+- **Anexo VIII, Tabela 1, linha 2** {#anexo8_tab1_lin2} Código: 02 | Categoria: Indústria de Produtos Minerais Não Metálicos | Descrição: - beneficiamento de minerais não metálicos, não associados a extração; fabricação e elaboração de produtos minerais não metálicos tais como produção de material cerâmico, cimento, gesso, amianto, vidro e similares. | Pp/gu: MMédio
+- **Anexo VIII, Tabela 1, linha 3** {#anexo8_tab1_lin3} Código: 03 | Categoria: Indústria Metalúrgica | Descrição: - fabricação de aço e de produtos siderúrgicos, produção de fundidos de ferro e aço, forjados, arames, relaminados com ou sem tratamento; de superfície, inclusive galvanoplastia, metalurgia dos metais não-ferrosos, em formas primárias e secundárias, inclusive ouro; produção de laminados, ligas, artefatos de metais não-ferrosos com ou sem tratamento de superfície, inclusive galvanoplastia; relaminação de metais não-ferrosos, inclusive ligas, produção de soldas e anodos; metalurgia de metais preciosos; metalurgia do pó, inclusive peças moldadas; fabricação de estruturas metálicas com ou sem tratamento de superfície, inclusive; galvanoplastia, fabricação de artefatos de ferro, aço e de metais não-ferrosos com ou sem tratamento de superfície, inclusive galvanoplastia, têmpera e cementação de aço, recozimento de arames, tratamento de superfície. | Pp/gu: AAlto
+- **Anexo VIII, Tabela 1, linha 4** {#anexo8_tab1_lin4} Código: 04 | Categoria: Indústria Mecânica | Descrição: - fabricação de máquinas, aparelhos, peças, utensílios e acessórios com e sem tratamento térmico ou de superfície. | Pp/gu: MMédio
+- **Anexo VIII, Tabela 1, linha 5** {#anexo8_tab1_lin5} Código: 05 | Categoria: Indústria de material Elétrico, Eletrônico e Comunicações | Descrição: - fabricação de pilhas, baterias e outros acumuladores, fabricação de material elétrico, eletrônico e equipamentos para telecomunicação e informática; fabricação de aparelhos elétricos e eletrodomésticos. | Pp/gu: MMédio
+- **Anexo VIII, Tabela 1, linha 6** {#anexo8_tab1_lin6} Código: 06 | Categoria: Indústria de Material de Transporte | Descrição: - fabricação e montagem de veículos rodoviários e ferroviários, peças e acessórios; fabricação e montagem de aeronaves; fabricação e reparo de embarcações e estruturas flutuantes. | Pp/gu: MMédio
+- **Anexo VIII, Tabela 1, linha 7** {#anexo8_tab1_lin7} Código: 07 | Categoria: Indústria de Madeira | Descrição: - serraria e desdobramento de madeira; preservação de madeira; fabricação de chapas, placas de madeira aglomerada, prensada e compensada; fabricação de estruturas de madeira e de móveis. | Pp/gu: Médio
+- **Anexo VIII, Tabela 1, linha 8** {#anexo8_tab1_lin8} Código: 08 | Categoria: Indústria de Papel e Celulose | Descrição: - fabricação de celulose e pasta mecânica; fabricação de papel e papelão; fabricação de artefatos de papel, papelão, cartolina, cartão e fibra prensada. | Pp/gu: Alto
+- **Anexo VIII, Tabela 1, linha 9** {#anexo8_tab1_lin9} Código: 09 | Categoria: Indústria de Borracha | Descrição: - beneficiamento de borracha natural, fabricação de câmara de ar, fabricação e recondicionamento de pneumáticos; fabricação de laminados e fios de borracha; fabricação de espuma de borracha e de artefatos de espuma de borracha, inclusive látex. | Pp/gu: Pequeno
+- **Anexo VIII, Tabela 1, linha 10** {#anexo8_tab1_lin10} Código: 10 | Categoria: Indústria de Couros e Peles | Descrição: - secagem e salga de couros e peles, curtimento e outras preparações de couros e peles; fabricação de artefatos diversos de couros e peles; fabricação de cola animal. | Pp/gu: Alto
+- **Anexo VIII, Tabela 1, linha 11** {#anexo8_tab1_lin11} Código: 11 | Categoria: Indústria Têxtil, de Vestuário, Calçados e Artefatos de Tecidos | Descrição: - beneficiamento de fibras têxteis, vegetais, de origem animal e sintéticos; fabricação e acabamento de fios e tecidos; tingimento, estamparia e outros acabamentos em peças do vestuário e artigos diversos de tecidos; fabricação de calçados e componentes para calçados. | Pp/gu: Médio
+- **Anexo VIII, Tabela 1, linha 12** {#anexo8_tab1_lin12} Código: 12 | Categoria: Indústria de Produtos de Matéria Plástica. | Descrição: - fabricação de laminados plásticos, fabricação de artefatos de material plástico. | Pp/gu: Pequeno
+- **Anexo VIII, Tabela 1, linha 13** {#anexo8_tab1_lin13} Código: 13 | Categoria: Indústria do Fumo | Descrição: - fabricação de cigarros, charutos, cigarrilhas e outras atividades de beneficiamento do fumo. | Pp/gu: Médio
+- **Anexo VIII, Tabela 1, linha 14** {#anexo8_tab1_lin14} Código: 14 | Categoria: Indústrias Diversas | Descrição: - usinas de produção de concreto e de asfalto. | Pp/gu: Pequeno
+- **Anexo VIII, Tabela 1, linha 15** {#anexo8_tab1_lin15} Código: 15 | Categoria: Indústria Química | Descrição: - produção de substâncias e fabricação de produtos químicos, fabricação de produtos derivados do processamento de petróleo, de rochas betuminosas e da madeira; fabricação de combustíveis não derivados de petróleo, produção de óleos, gorduras, ceras, vegetais e animais, óleos essenciais, vegetais e produtos similares, da destilação da madeira, fabricação de resinas e de fibras e fios artificiais e sintéticos e de borracha e látex sintéticos, fabricação de pólvora, explosivos, detonantes, munição para caça e desporto, fósforo de segurança e artigos pirotécnicos; recuperação e refino de solventes, óleos minerais, vegetais e animais; fabricação de concentrados aromáticos naturais, artificiais e sintéticos; fabricação de preparados para limpeza e polimento, desinfetantes, inseticidas, germicidas e fungicidas; fabricação de tintas, esmaltes, lacas, vernizes, impermeabilizantes, solventes e secantes; fabricação de fertilizantes e agroquímicos; fabricação de produtos farmacêuticos e veterinários; fabricação de sabões, detergentes e velas; fabricação de perfumarias e cosméticos; produção de álcool etílico, metanol e similares. | Pp/gu: Alto
+- **Anexo VIII, Tabela 1, linha 16** {#anexo8_tab1_lin16} Código: 16 | Categoria: Indústria de Produtos Alimentares e Bebidas | Descrição: - beneficiamento, moagem, torrefação e fabricação de produtos alimentares; matadouros, abatedouros, frigoríficos, charqueadas e derivados de origem animal; fabricação de conservas; preparação de pescados e fabricação de conservas de pescados; beneficiamento e industrialização de leite e derivados; fabricação e refinação de açúcar; refino e preparação de óleo e gorduras vegetais; produção de manteiga, cacau, gorduras de origem animal para alimentação; fabricação de fermentos e leveduras; fabricação de rações balanceadas e de alimentos preparados para animais; fabricação de vinhos e vinagre; fabricação de cervejas, chopes e maltes; fabricação de bebidas não-alcoólicas, bem como engarrafamento e gaseificação e águas minerais; fabricação de bebidas alcoólicas. | Pp/gu: Médio
+- **Anexo VIII, Tabela 1, linha 17** {#anexo8_tab1_lin17} Código: 17 | Categoria: Serviços de Utilidade | Descrição: - produção de energia termoelétrica; tratamento e destinação de resíduos industriais líquidos e sólidos; disposição de resíduos especiais tais como: de agroquímicos e suas embalagens; usadas e de serviço de saúde e similares; destinação de resíduos de esgotos sanitários e de resíduos sólidos urbanos, inclusive aqueles provenientes de fossas; dragagem e derrocamentos em corpos d’água; recuperação de áreas contaminadas ou degradadas. | Pp/gu: Médio
+- **Anexo VIII, Tabela 1, linha 18** {#anexo8_tab1_lin18} Código: 18 | Categoria: Transporte, Terminais, Depósitos e Comércio | Descrição: - transporte de cargas perigosas, transporte por dutos; marinas, portos e aeroportos; terminais de minério, petróleo e derivados e produtos químicos; depósitos de produtos químicos e produtos perigosos; comércio de combustíveis, derivados de petróleo e produtos químicos e produtos perigosos. | Pp/gu: Alto
+- **Anexo VIII, Tabela 1, linha 19** {#anexo8_tab1_lin19} Código: 19 | Categoria: Turismo | Descrição: - complexos turísticos e de lazer, inclusive parques temáticos. | Pp/gu: Pequeno
+- **Anexo VIII, Tabela 1, linha 20** {#anexo8_tab1_lin20} #redacao-alterada Código: 20 | Categoria: Uso de Recursos Naturais | Descrição: exploração econômica da madeira ou lenha e subprodutos florestais nativos; importação ou exportação da fauna e flora nativas brasileiras; atividade de criação e exploração econômica de fauna silvestre; exploração econômica de fauna exótica; utilização do patrimônio genético natural; exploração de recursos aquáticos vivos; introdução de espécies exóticas, exceto para melhoramento genético vegetal e uso na agricultura; introdução de espécies geneticamente modificadas previamente identificadas pela CTNBio como potencialmente causadoras de significativa degradação do meio ambiente; uso da diversidade biológica pela biotecnologia em atividades previamente identificadas pela CTNBio como potencialmente causadoras de significativa degradação do meio ambiente. *(Redação dada pela [[lei-federal-14876-2024|Lei nº 14.876, de 2024]])* | Pp/gu: Médio
+- **Anexo VIII, Tabela 1, linha 21** {#anexo8_tab1_lin21} Código: 21 | Categoria: (VETADO) | Descrição: x | Pp/gu: x
+- **Anexo VIII, Tabela 1, linha 22** {#anexo8_tab1_lin22} Código: 22 | Categoria: (VETADO) | Descrição: x | Pp/gu: x
 
 ### ANEXO IX {#anexo9}
 
@@ -766,9 +725,9 @@ Tags: #revogacao
 
 **Anexo IX, título** {#anexo9_titulo} VALORES, EM REAIS, DEVIDOS A TÍTULOS DE TCFA POR ESTABELECiMENTO POR TRIMESTRE
 
-- **Anexo IX, Tabela 1, linha 1** {#anexo9_tab1_lin1} #tcfa Potencial de Poluição, Grau de utilização de Recursos Naturais: Pequeno | Pessoa Física: - | Microempresa: - | Empresa de Pequeno Porte: 112,50 | Empresa de Médio Porte: 225,00 | Empresa de Grande Porte: 450,00
-- **Anexo IX, Tabela 1, linha 2** {#anexo9_tab1_lin2} #tcfa Potencial de Poluição, Grau de utilização de Recursos Naturais: Médio | Pessoa Física: - | Microempresa: - | Empresa de Pequeno Porte: 180,00 | Empresa de Médio Porte: 360,00 | Empresa de Grande Porte: 900,00
-- **Anexo IX, Tabela 1, linha 3** {#anexo9_tab1_lin3} #tcfa Potencial de Poluição, Grau de utilização de Recursos Naturais: Alto | Pessoa Física: - | Microempresa: 50,00 | Empresa de Pequeno Porte: 225,00 | Empresa de Médio Porte: 450,00 | Empresa de Grande Porte: 2.250,00
+- **Anexo IX, Tabela 1, linha 1** {#anexo9_tab1_lin1} Potencial de Poluição, Grau de utilização de Recursos Naturais: Pequeno | Pessoa Física: - | Microempresa: - | Empresa de Pequeno Porte: 112,50 | Empresa de Médio Porte: 225,00 | Empresa de Grande Porte: 450,00
+- **Anexo IX, Tabela 1, linha 2** {#anexo9_tab1_lin2} Potencial de Poluição, Grau de utilização de Recursos Naturais: Médio | Pessoa Física: - | Microempresa: - | Empresa de Pequeno Porte: 180,00 | Empresa de Médio Porte: 360,00 | Empresa de Grande Porte: 900,00
+- **Anexo IX, Tabela 1, linha 3** {#anexo9_tab1_lin3} Potencial de Poluição, Grau de utilização de Recursos Naturais: Alto | Pessoa Física: - | Microempresa: 50,00 | Empresa de Pequeno Porte: 225,00 | Empresa de Médio Porte: 450,00 | Empresa de Grande Porte: 2.250,00
 ---
 
 ## Histórico de alterações {#historico-alteracoes}

@@ -44,14 +44,12 @@ fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé tra
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #residuo-solido #gerenciamento
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer critérios e procedimentos para o Gerenciamento de Resíduos Sólidos no Estado do Paraná, contemplando as atividades de Transporte, Coleta, Armazenamento, Tratamento e Destinação Final de Resíduos Sólidos.
 
 ### CAPÍTULO I – DEFINIÇÕES
 
 ###### Art. 2º {#art2}
-Tags: #definicao #residuo-solido
 
 **Art. 2º, caput** {#art2_cpt} Para fins desta Resolução entende-se por:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} Atividade de gerenciamento de resíduos sólidos: atividade associada ao controle da geração, armazenamento, coleta, transporte, transbordo, tratamento, destinação final dos resíduos sólidos e disposição final ambientalmente adequada dos rejeitos de acordo com os melhores princípios de saúde pública e de preservação ambiental;
@@ -84,7 +82,6 @@ Tags: #definicao #residuo-solido
 ### CAPÍTULO II – DOS EMPREENDIMENTOS E ATIVIDADES DE GERENCIAMENTO DE RESÍDUOS SÓLIDOS
 
 ###### Art. 3º {#art3}
-Tags: #autorizacao-ambiental #residuo-solido #transporte-de-residuo
 
 **Art. 3º, caput** {#art3_cpt} Estão sujeitas à AUTORIZAÇÃO AMBIENTAL, os procedimentos de coleta, transporte, transbordo, armazenamento, tratamento, destinação e disposição final de resíduos sólidos, de acordo com a legislação vigente.
 
@@ -93,7 +90,6 @@ Tags: #autorizacao-ambiental #residuo-solido #transporte-de-residuo
 ### CAPÍTULO III – IMPORTAÇÃO DE RESÍDUOS ORIUNDOS DE OUTROS ESTADOS DA FEDERAÇÃO
 
 ###### Art. 4º {#art4}
-Tags: #residuo-outro-estado #residuo-proibido
 
 **Art. 4º, caput** {#art4_cpt} Não será autorizada a importação dos seguintes resíduos oriundos de outros Estados da Federação:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} Resíduos de Serviço da Saúde, com exceção dos produtos farmacêuticos pertencentes ao grupo B, conforme RDC 222/2018;
@@ -114,7 +110,6 @@ Tags: #residuo-outro-estado #residuo-proibido
 ### CAPÍTULO IV – DISPOSIÇÃO EM ATERRO
 
 ###### Art. 5º {#art5}
-Tags: #aterro #residuo-proibido
 
 **Art. 5º, caput** {#art5_cpt} Fica proibida a disposição final em aterros localizados no Paraná dos resíduos com potencial energético listados abaixo, mesmo que gerados no Estado do Paraná:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} Borras Oleosas;
@@ -135,7 +130,6 @@ Tags: #aterro #residuo-proibido
 ### CAPÍTULO V – USO DE RESÍDUOS PARA FINS AGRÍCOLAS
 
 ###### Art. 6º {#art6}
-Tags: #uso-agricola #residuo-proibido
 
 **Art. 6º, caput** {#art6_cpt} Não será autorizado para fins agrícolas o uso dos seguintes resíduos:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} Residuos sólidos gerados em outros Estados e destinados no Estado do Paraná, com exceção de resíduos que serão utilizados como matéria prima em indústrias de fertilizantes/corretivos desde que o estabelecimento receptor, matéria prima e produto final estejam devidamente regularizados no MAPA - Ministério da Agricultura, Pecuária e Abastecimento;
@@ -148,19 +142,16 @@ Tags: #uso-agricola #residuo-proibido
 **Art. 6º, parágrafo único** {#art6_par1u} Para o uso agrícola de resíduos gerados em tratamento de efluentes industriais ou em sistemas que misturem com efluente sanitário, será analisado caso a caso, considerando a proporção da vazão do efluente sanitário tratado em relação a vazão total do sistema.
 
 ###### Art. 7º {#art7}
-Tags: #uso-agricola #comercializacao-de-residuo
 
 **Art. 7º, caput** {#art7_cpt} A comercialização ou cessão de resíduos para terceiros, para uso agrícola somente será autorizada com o registro ou autorização pelo MAPA.
 
 ###### Art. 8º {#art8}
-Tags: #fertilizante #residuo-solido
 
 **Art. 8º, caput** {#art8_cpt} A unidade geradora de fertilizantes que utilizam resíduos como matéria prima deverá proceder ao licenciamento ambiental específico pelo órgão ambiental competente.
 
 ### CAPÍTULO VI – CONSIDERAÇÕES GERAIS
 
 ###### Art. 9º {#art9}
-Tags: #autorizacao-ambiental #prazo
 
 **Art. 9º, caput** {#art9_cpt} O órgão ambiental estadual terá um prazo de 6 (seis) meses para análise de cada autorização ambiental, com decisão motivada técnica e legal, a contar da data do protocolo.
 
@@ -169,29 +160,24 @@ Tags: #autorizacao-ambiental #prazo
 **Art. 9º, § 2º** {#art9_par2} Os requerimentos de Autorização Ambiental não instruídos de acordo com os critérios estabelecidos pelo órgão ambiental competente serão indeferidos, caso não sejam apresentadas as justificativas e complementações analisadas como necessárias pela Câmara Técnica, em um prazo de até 30 (trinta) dias a contar da comunicação ao interessado.
 
 ###### Art. 10 {#art10}
-Tags: #caldeira #autorizacao-ambiental
 
 **Art. 10, caput** {#art10_cpt} Para queima de resíduos em caldeira, o interessado deverá requerer Autorização Ambiental para teste de queima, de acordo com a [[resolucao-sema-42-2008|Resolução SEMA 042/2008]] ou outra que venha a substitui-lá.
 
 ###### Art. 11 {#art11}
-Tags: #armazenamento-temporario #prazo
 
 **Art. 11, caput** {#art11_cpt} O armazenamento temporário só será permitido por prazo não superior a 12 (doze) meses.
 
 ###### Art. 12 {#art12}
-Tags: #termo-de-referencia #estudo-ambiental
 
 **Art. 12, caput** {#art12_cpt} Os documentos, estudos ambientais e termos de referência a serem exigidos nas etapas de licenciamento ambiental e autorização ambiental serão indicados por meio de Portaria específica do órgão ambiental estadual.
 
 ### CAPÍTULO VII – CONSIDERAÇÕES FINAIS
 
 ###### Art. 13 {#art13}
-Tags: #sancao
 
 **Art. 13, caput** {#art13_cpt} O não cumprimento do disposto nesta Resolução acarretará aos infratores as sanções previstas na Lei Federal nº 9.605/98, no Decreto Federal nº 6514/08 e demais leis específicas.
 
 ###### Art. 14 {#art14}
-Tags: #vigencia #revogacao
 
 **Art. 14, caput** {#art14_cpt} Esta Resolução entra em vigor na data de sua publicação, ficando revogada a [[resolucao-cema-50-2005|Resolução CEMA 050/2005]].
 

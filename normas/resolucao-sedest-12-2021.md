@@ -50,14 +50,12 @@ CONSIDERANDO:
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer definições, critérios, diretrizes e procedimentos para o licenciamento ambiental das atividades relacionadas à distribuição e ao transporte de gás canalizado no Estado do Paraná.
 
 ## CAPÍTULO I – DAS DEFINIÇÕES {#cap1}
 
 ###### Art. 2º {#art2}
-Tags: #eia-rima #definicao #pca #pba #licenciamento-ambiental #lp
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução consideram-se as seguintes definições:
 
@@ -91,7 +89,6 @@ Tags: #eia-rima #definicao #pca #pba #licenciamento-ambiental #lp
 ## CAPÍTULO II – DO LICENCIAMENTO AMBIENTAL {#cap2}
 
 ###### Art. 3º {#art3}
-Tags: #enquadramento #licenciamento-ambiental
 
 **Art. 3º, caput** {#art3_cpt} O licenciamento ambiental de sistemas de transporte e sistemas de distribuição de gás canalizado terá como parâmetro principal a pressão nominal de projeto do empreendimento, considerando a relação diretamente proporcional entre a pressão da linha e o risco do empreendimento.
 
@@ -100,14 +97,12 @@ Tags: #enquadramento #licenciamento-ambiental
 **Art. 3º, § 2º** {#art3_par2} O comprimento dos sistemas de distribuição será utilizado como parâmetro auxiliar no enquadramento da modalidade de licenciamento, devido a sua relação também diretamente proporcional com risco.
 
 ###### Art. 4º {#art4}
-Tags: #enquadramento
 
 **Art. 4º, caput** {#art4_cpt} Independente do enquadramento definido nos 0.º, 9.º,11 e 13, após a avaliação das particularidades da área de implantação do empreendimento e dos seus potenciais impactos ambientais, o órgão ambiental poderá exigir estudos mais detalhados.
 
 ### Seção I – Dos Atos Administrativos {#cap2_sec1}
 
 ###### Art. 5º {#art5}
-Tags: #condicionante #dispensa #licenciamento-ambiental #lp #li #lo
 
 **Art. 5º, caput** {#art5_cpt} O órgão licenciador, no âmbito do licenciamento de sistemas de transporte e sistemas de distribuição de gás canalizado e no exercício de suas atribuições, expedirá os seguintes atos administrativos:
 
@@ -123,7 +118,6 @@ Tags: #condicionante #dispensa #licenciamento-ambiental #lp #li #lo
 #### Subseção I – Dispensa de Licenciamento Ambiental Estadual (DLAE) {#cap2_sec2_subsec1}
 
 ###### Art. 6º {#art6}
-Tags: #licenciamento-ambiental #lo #supressao-vegetacao
 
 **Art. 6º, caput** {#art6_cpt} Está dispensada de Licenciamento Ambiental Estadual a instalação de Sistemas de Distribuição de Gás canalizado com as seguintes características:
 
@@ -132,19 +126,16 @@ Tags: #licenciamento-ambiental #lo #supressao-vegetacao
 **Art. 6º, parágrafo único** {#art6_par1u} Os ramais de clientes não são passíveis de licenciamento ambiental.
 
 ###### Art. 7º {#art7}
-Tags: #outorga
 
 **Art. 7º, caput** {#art7_cpt} Havendo necessidade de requerer outorga de uso de recursos hídricos ou outorga de travessia de recursos hídricos, a regularização deve ser providenciada em processo administrativo específico junto ao órgão ambiental competente.
 
 ###### Art. 8º {#art8}
-Tags: #licenciamento-ambiental
 
 **Art. 8º, caput** {#art8_cpt} A dispensa do Licenciamento Ambiental não exime o dispensado das exigências legais quanto à preservação do meio ambiente.
 
 #### Subseção II – Da Licença Ambiental Simplificada (LAS) {#cap2_sec2_subsec2}
 
 ###### Art. 9º {#art9}
-Tags: #licenciamento-ambiental #las #enquadramento
 
 **Art. 9º, caput** {#art9_cpt} A Licença Ambiental Simplificada deverá ser requerida para instalação e expansão de Sistema de Distribuição de gás canalizado com as seguintes características:
 
@@ -153,19 +144,16 @@ Tags: #licenciamento-ambiental #las #enquadramento
 - **Art. 9º, caput, inciso III** {#art9_cpt_inc3} redes primárias em área antropizada, áreas urbanas e/ou zonas industriais, com extensão menor ou igual a 10 km.
 
 ###### Art. 10 {#art10}
-Tags: #las #licenciamento-ambiental #pca #enquadramento
 
 **Art. 10, caput** {#art10_cpt} Os empreendimentos enquadrados em Licença Ambiental Simplificada – LAS estarão sujeitos à apresentação de Programa de Controle Ambiental – PCA.
 
 #### Subseção III – Do Licenciamento Completo {#cap2_sec2_subsec3}
 
 ###### Art. 11 {#art11}
-Tags: #licenciamento-ambiental #las #dispensa
 
 **Art. 11, caput** {#art11_cpt} As instalações e expansões de Sistemas de Distribuição de gás canalizado, não contempladas na modalidade de Licença Ambiental Simplificada – LAS (0.º) ou Dispensa de Licenciamento Ambiental Estadual – DLAE (0.º), estarão sujeitas ao licenciamento completo, que contempla as Licenças Prévia, de Instalação e de Operação.
 
 ###### Art. 12 {#art12}
-Tags: #eia-rima #enquadramento
 
 **Art. 12, caput** {#art12_cpt} A definição do estudo ambiental que deverá ser apresentado ao órgão ambiental para os Sistemas de Distribuição enquadrados em Licenciamento Completo obedecerá às seguintes condições:
 
@@ -173,7 +161,6 @@ Tags: #eia-rima #enquadramento
 - **Art. 12, caput, inciso II** {#art12_cpt_inc2} redes primárias com extensão maior que 30 km estarão sujeitas à apresentação de Estudo de Impacto Ambiental –  EIA e seu respectivo Relatório de Impacto Ambiental – RIMA.
 
 ###### Art. 13 {#art13}
-Tags: #eia-rima
 
 **Art. 13, caput** {#art13_cpt} As instalações de Sistemas de Transporte de gás canalizado estarão sujeitas ao licenciamento completo, que contempla as Licenças Prévia, de Instalação e de Operação.
 
@@ -184,7 +171,6 @@ Tags: #eia-rima
 #### Subseção I – Documentação Básica {#cap2_sec3_subsec1}
 
 ###### Art. 14 {#art14}
-Tags: #dispensa #licenciamento-ambiental
 
 **Art. 14, caput** {#art14_cpt} Para os empreendimentos elegíveis conforme Seção II, o requerente poderá solicitar Dispensa de Licenciamento Ambiental Estadual – DLAE.
 
@@ -195,7 +181,6 @@ Tags: #dispensa #licenciamento-ambiental
 **Art. 14, § 3º** {#art14_par3} A Dispensa de Licenciamento Ambiental Estadual não exime o interessado das exigências legais quanto à preservação do meio ambiente, bem como obtenção de alvarás e atendimento a outras exigências municipais.
 
 ###### Art. 15 {#art15}
-Tags: #licenciamento-ambiental #requerimento #las #outorga #taxa-ambiental #documentacao
 
 **Art. 15, caput** {#art15_cpt} Para instruir o procedimento de Licenciamento Ambiental Simplificado - LAS o empreendedor deverá apresentar os seguintes documentos:
 
@@ -218,12 +203,10 @@ Tags: #licenciamento-ambiental #requerimento #las #outorga #taxa-ambiental #docu
 - **Art. 15, caput, inciso XVII** {#art15_cpt_inc17} cópia da(s) respectivas ART(s) - Anotação(s) de Responsabilidade Técnica dos profissionais habilitados.
 
 ###### Art. 16 {#art16}
-Tags: #las #supressao-vegetacao #licenciamento-ambiental
 
 **Art. 16, caput** {#art16_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença Ambiental Simplificada – LAS somente poderá ser emitida acompanhada da respectiva Autorização Florestal.
 
 ###### Art. 17 {#art17}
-Tags: #licenciamento-ambiental #las #publicacao-dioe #renovacao #requerimento #outorga
 
 **Art. 17, caput** {#art17_cpt} A Renovação da Licença Ambiental Simplificada - LAS deverá ser requerida mediante apresentação de:
 
@@ -239,7 +222,6 @@ Tags: #licenciamento-ambiental #las #publicacao-dioe #renovacao #requerimento #o
 - **Art. 17, caput, inciso X** {#art17_cpt_inc10} publicação de Súmula do requerimento de Renovação da Licença Ambiental Simplificada no Diário Oficial do Estado, bem como em periódico regional ou local de grande circulação, ou em meio eletrônico de comunicação mantido pelo órgão ambiental competente, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006/1986]].
 
 ###### Art. 18 {#art18}
-Tags: #lp #outorga #taxa-ambiental #documentacao #requerimento #publicacao-dioe
 
 **Art. 18, caput** {#art18_cpt} Para instruir o procedimento de Licença Prévia - LP o empreendedor deverá apresentar os seguintes documentos:
 
@@ -260,7 +242,6 @@ Tags: #lp #outorga #taxa-ambiental #documentacao #requerimento #publicacao-dioe
 - **Art. 18, caput, inciso XV** {#art18_cpt_inc15} em caso de necessidade de supressão florestal, deve haver uma análise integrada do licenciamento e o requerente deverá apresentar o Relatório de Caracterização da Flora, de acordo com a [[resolucao-conama-2-1994|Resolução CONAMA 02/94]].
 
 ###### Art. 19 {#art19}
-Tags: #li #requerimento #publicacao-dioe #outorga #documentacao #anuencia
 
 **Art. 19, caput** {#art19_cpt} Para instruir o procedimento de Licença de Instalação - LI o empreendedor deverá apresentar os seguintes documentos:
 
@@ -280,12 +261,10 @@ Tags: #li #requerimento #publicacao-dioe #outorga #documentacao #anuencia
 - **Art. 19, caput, inciso XIV** {#art19_cpt_inc14} apresentação de cópia da(s) respectiva(s) ART(s) – Anotação(s) de Responsabilidade Técnica dos profissionais habilitados.
 
 ###### Art. 20 {#art20}
-Tags: #supressao-vegetacao #li
 
 **Art. 20, caput** {#art20_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença de Instalação somente poderá ser emitida acompanhada da respectiva Autorização Florestal.
 
 ###### Art. 21 {#art21}
-Tags: #li #publicacao-dioe #requerimento #licenciamento-ambiental #supressao-vegetacao #taxa-ambiental
 
 **Art. 21, caput** {#art21_cpt} A Prorrogação da Licença de Instalação - PLI deverá ser requerida mediante apresentação de:
 
@@ -300,7 +279,6 @@ Tags: #li #publicacao-dioe #requerimento #licenciamento-ambiental #supressao-veg
 - **Art. 21, caput, inciso IX** {#art21_cpt_inc9} apresentação de cópia da(s) respectiva(s) ART(s) – Anotação(s) de Responsabilidade Técnica dos profissionais habilitados.
 
 ###### Art. 22 {#art22}
-Tags: #lo #publicacao-dioe #requerimento #lor #renovacao #responsavel-tecnico
 
 **Art. 22, caput** {#art22_cpt} Para instruir o procedimento de Licença de Operação - LO o empreendedor deverá apresentar os seguintes documentos:
 
@@ -329,7 +307,6 @@ Tags: #lo #publicacao-dioe #requerimento #lor #renovacao #responsavel-tecnico
 #### Subseção II – Instrução complementar para o Licenciamento de Sistemas de Distribuição e de Transporte de Gás Canalizado {#cap2_sec3_subsec2}
 
 ###### Art. 23 {#art23}
-Tags: #licenciamento-ambiental #las #pca #enquadramento
 
 **Art. 23, caput** {#art23_cpt} O licenciamento ambiental de Sistema de Distribuição Secundário ou de Sistema de Distribuição Primário enquadrado no item III do 0 deverá ser requerido mediante apresentação, além daqueles listados na Subseção I, dos seguintes documentos:
 
@@ -337,7 +314,6 @@ Tags: #licenciamento-ambiental #las #pca #enquadramento
   - **Art. 23, caput, inciso I, alínea "a"** {#art23_cpt_inc1_alia} Plano de Controle Ambiental – PCA.
 
 ###### Art. 24 {#art24}
-Tags: #licenciamento-ambiental #lp #li #enquadramento
 
 **Art. 24, caput** {#art24_cpt} O licenciamento ambiental de  Sistema de Distribuição Primário, enquadrado no item I do 0, deverá ser requerido mediante apresentação, além daqueles listados na Subseção I, dos seguintes documentos:
 
@@ -345,7 +321,6 @@ Tags: #licenciamento-ambiental #lp #li #enquadramento
   - **Art. 24, caput, inciso I, alínea "a"** {#art24_cpt_inc1_alia} Relatório Ambiental Simplificado - RAS. I.  Para LICENÇA DE INSTALAÇÃO – LI: a) Relatório de Detalhamento dos Programas Ambientais - RDPA.
 
 ###### Art. 25 {#art25}
-Tags: #eia-rima #licenciamento-ambiental #lp #li #pba #enquadramento
 
 **Art. 25, caput** {#art25_cpt} O licenciamento ambiental de Sistema de Transporte de Gás ou Sistema de Distribuição Primário, enquadrados no item II do 0, deverá ser requerido mediante apresentação, além daqueles listados na Subseção I, dos seguintes documentos:
 
@@ -356,7 +331,6 @@ Tags: #eia-rima #licenciamento-ambiental #lp #li #pba #enquadramento
 ### Seção IV – Das Taxas Ambientais {#cap2_sec4}
 
 ###### Art. 26 {#art26}
-Tags: #licenciamento-ambiental #taxa-ambiental #las #lp #publicacao-dioe #requerimento
 
 **Art. 26, caput** {#art26_cpt} O licenciamento ambiental dos sistemas de distribuição e transporte de gás canalizado serão protocolados e analisados pelo Instituto Água e Terra mediante pagamento de 3 (três) taxas (quando couber) a serem recolhidas quando da solicitação do licenciamento ambiental, conforme [[resolucao-cema-107-2020|Resolução CEMA nº 107/2020]] ou outra que venha a sucedê-la.
 
@@ -367,7 +341,6 @@ Tags: #licenciamento-ambiental #taxa-ambiental #las #lp #publicacao-dioe #requer
 ## CAPÍTULO III – DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS {#cap3}
 
 ###### Art. 27 {#art27}
-Tags: #dispensa #enquadramento
 
 **Art. 27, caput** {#art27_cpt} Exceto os empreendimentos enquadrados na modalidade de Dispensa de Licenciamento Estadual, todos os demais estarão sujeitos à apresentação de Programa de Gerenciamento de Riscos – PGR, conforme disposto na [[portaria-iap-159-2015|Portaria IAP nº 159/15]] ou outra que venha a substituí-la.
 
@@ -382,12 +355,10 @@ Tags: #dispensa #enquadramento
 **Art. 29, caput** {#art29_cpt} O órgão ambiental disponibilizará Termo de Referência para cada tipo de estudo ambiental a ser aplicado, obedecendo-se as particularidades de cada empreendimento.
 
 ###### Art. 30 {#art30}
-Tags: #las #licenciamento-ambiental #autorizacao-ambiental #monitoramento
 
 **Art. 30, caput** {#art30_cpt} Os empreendimentos que estejam sujeitos à Licença Ambiental Simplificada – LAS, somente estarão aptos a se instalarem após o deferimento da Autorização Ambiental para Resgate, Manejo e Monitoramento de Fauna, conforme disposto na Portaria IAP Nº 97 DE 29/05/2012 ou outra que venha substituí-la, quando aplicável.
 
 ###### Art. 31 {#art31}
-Tags: #li #lp #lo #licenciamento-trifasico #autorizacao-ambiental #monitoramento
 
 **Art. 31, caput** {#art31_cpt} Os empreendimentos que estejam sujeitos ao licenciamento trifásico (LP, LI e LO), somente terão a Licença de Instalação – LI emitida posteriormente ao deferimento da solicitação de Autorização Florestal e Autorização Ambiental para Resgate, Manejo e Monitoramento de Fauna, conforme disposto na Portaria IAP Nº 97 DE 29/05/2012 ou outra que venha substituí-la.
 
@@ -396,12 +367,10 @@ Tags: #li #lp #lo #licenciamento-trifasico #autorizacao-ambiental #monitoramento
 **Art. 32, caput** {#art32_cpt} Para o acesso do empreendedor às propriedades, a fim de realizar estudos dos meios físico, biótico e socioeconômico, o mesmo deverá possuir a devida permissão dos proprietários.
 
 ###### Art. 33 {#art33}
-Tags: #licenciamento-ambiental #responsavel-tecnico #iphan
 
 **Art. 33, caput** {#art33_cpt} Quando da necessidade da manifestação de órgãos intervenientes no licenciamento ambiental, tais como FUNAI, INCRA, IPHAN, ICMBio, CEPHA, DNIT, DER, entre outros, será seguido o procedimento conforme estabelece os [[#art11|Art. 11]], 12 e 13 da [[resolucao-cema-107-2020|Resolução CEMA nº 107/2020]].
 
 ###### Art. 34 {#art34}
-Tags: #lo #renovacao
 
 **Art. 34, caput** {#art34_cpt} Por ocasião da renovação das Licenças de Operação – LO dos sistemas de distribuição de gás canalizado, deverão ser incorporadas todas as expansões previstas nos 0.º,9.º e 11 desta Rresolução.
 
@@ -410,19 +379,16 @@ Tags: #lo #renovacao
 **Art. 35, caput** {#art35_cpt} No caso dos licenciamentos de Sistemas de Transporte ou Distribuição de gás canalizado que exijam apresentação do Relatório Ambiental Simplificado – RAS, sempre que julgar necessário, ou quando for solicitado por entidade civil, pelo Ministério Público, ou por pelo menos cinquenta pessoas maiores de dezoito anos, o órgão de meio ambiente exigirá realização de Reunião Técnica Informativa, conforme preconiza a [[resolucao-conama-279-2001|Resolução CONAMA nº 279/2001]].
 
 ###### Art. 36 {#art36}
-Tags: #eia-rima #publicacao-dioe
 
 **Art. 36, caput** {#art36_cpt} O Instituto Água e Terra dará publicidade ao EIA/RIMA através de edital de entrada que será publicado no Diário Oficial do Estado e disponibilizado em seu sítio eletrônico.
 
 **Art. 36, parágrafo único** {#art36_par1u} Os ritos e procedimentos relativos às Audiências Públicas seguirão o preconizado nas Resoluções [[resolucao-conama-1-1986|CONAMA nº 01/1986]] e [[resolucao-conama-9-1987|CONAMA nº 09/1987]].
 
 ###### Art. 37 {#art37}
-Tags: #validade #prazo
 
 **Art. 37, caput** {#art37_cpt} Os prazos de validade de cada ato administrativo serão estabelecidos pelo órgão ambiental competente, especificando-os no respectivo documento, com base no disposto na [[resolucao-cema-107-2020|Resolução CEMA nº 107/2020]] ou outra que venha a substituí-la.
 
 ###### Art. 38 {#art38}
-Tags: #condicionante
 
 **Art. 38, caput** {#art38_cpt} O órgão ambiental competente, mediante decisão motivada, poderá modificar os condicionantes e as medidas de controle e adequação, suspender ou cancelar uma licença expedida, quando ocorrer:
 
@@ -431,7 +397,6 @@ Tags: #condicionante
 - **Art. 38, caput, inciso III** {#art38_cpt_inc3} superveniência de graves riscos ambientais e de saúde.
 
 ###### Art. 39 {#art39}
-Tags: #licenciamento-ambiental #revogacao #vigencia #publicacao-dioe
 
 **Art. 39, caput** {#art39_cpt} Esta Resolução entra em vigor na data de sua publicação, aplicando seus efeitos aos processos de licenciamento ambiental em sistemas de transporte e de distribuição de gás em tramitação nos órgãos ambientais competentes, revogadas as disposições em contrário.
 
@@ -447,12 +412,10 @@ Tags: #licenciamento-ambiental #revogacao #vigencia #publicacao-dioe
 > Tipos conforme as regras de anexos do README: **tipo 1** (modelos) só com o nome. Esta Resolução não tem anexo dos tipos 2 e 3.
 
 ### ANEXO I {#anexo1}
-Tags: #declaracao-ciencia
 
 Modelo de declaração de ciência. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art18_cpt_inc7|Art. 18, inciso VII]].)*
 
 ### ANEXO II {#anexo2}
-Tags: #declaracao-anuencia
 
 Modelo de declaração de anuência. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art15_cpt_inc10|Art. 15, inciso X]], [[#art19_cpt_inc6|Art. 19, inciso VI]].)*
 

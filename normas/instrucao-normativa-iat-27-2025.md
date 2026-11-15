@@ -50,19 +50,16 @@ Considerando a necessidade de conciliar a geração de renda e a conservação d
 RESOLVE
 
 ###### Art. 1º {#art1}
-Tags: #autorizacao-ambiental #licenciamento-ambiental #serraria
 
 **Art. 1º, caput** {#art1_cpt} Regulamenta o uso de serraria móvel no Estado do Paraná, condicionando sua operação após a emissão de Autorização Ambiental - AA pelo Instituto Água e Terra - IAT.
 
 **Art. 1º, parágrafo único** {#art1_par_unico} Esta Instrução Normativa é exclusivamente para serraria móvel, caso o equipamento esteja inserido em complexos industriais de base florestal, o processo de licenciamento será realizado conjuntamente conforme normas especificas.
 
 ###### Art. 2º {#art2}
-Tags: #autorizacao-ambiental #renovacao #serraria #validade
 
 **Art. 2º, caput** {#art2_cpt} A Autorização Ambiental (AA) para serraria móvel terá validade máxima de até 12 (doze) meses, podendo ser renovada por igual período mediante solicitação justificada.
 
 ###### Art. 3º {#art3}
-Tags: #autorizacao-ambiental #car #cnpj #cpf #ctf #documentacao #dominialidade #embargo #eprotocolo #procuracao #requerimento #serraria #taxa-ambiental
 
 **Art. 3º, caput** {#art3_cpt} Os requerimentos para a solicitação da Autorização Ambiental para serraria móvel devem ser realizados através do E-Protocolo e incluir, obrigatoriamente:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} Requerimento de Licenciamento Ambiental – Autorização Ambiental;
@@ -86,17 +83,14 @@ Tags: #autorizacao-ambiental #car #cnpj #cpf #ctf #documentacao #dominialidade #
 - **Art. 3º, caput, inciso IX** {#art3_cpt_inc9} Comprovante de inscrição do Cadastro Técnico Federal Atividade Potencial Poluidora;
 
 ###### Art. 4º {#art4}
-Tags: #autorizacao-ambiental #complementacao #documentacao
 
 **Art. 4º, caput** {#art4_cpt} O órgão ambiental competente poderá solicitar complementação de documentos, durante a análise da solicitação da Autorização Ambiental - AA.
 
 ###### Art. 5º {#art5}
-Tags: #autorizacao-ambiental #sancao
 
 **Art. 5º, caput** {#art5_cpt} O descumprimento das condicionantes estabelecidas na Autorização Ambiental após a emissão, poderá acarretar em sanções administrativas, cíveis e criminais conforme estabelecidos em legislações.
 
 ###### Art. 6º {#art6}
-Tags: #sancao
 
 **Art. 6º, caput** {#art6_cpt} O não cumprimento do disposto nesta Instrução Normativa sujeitará os infratores às sanções previstas na [[lei-federal-9605-1998|Lei Federal nº 9.605, de 12 de fevereiro de 1998]] e no [[decreto-federal-6514-2008|Decreto Federal nº 6.514, de 22 de julho de 2008]].
 
@@ -105,7 +99,6 @@ Tags: #sancao
 **Art. 7º, caput** {#art7_cpt} Fica revogada a Portaria IAP nº 699, de 18 de dezembro de 2024.
 
 ###### Art. 8º {#art8}
-Tags: #vigencia
 
 **Art. 8º, caput** {#art8_cpt} Esta Instrução Normativa entra em vigor na data de sua publicação, com efeitos a partir de 28 de abril de 2025.
 

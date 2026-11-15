@@ -50,14 +50,12 @@ Considerando a [[resolucao-cema-105-2019|Resolução CEMA n°105, de 17 de dezem
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #posto-combustivel #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer os critérios, procedimentos, trâmite administrativo, níveis de competência e premissas para o Licenciamento Ambiental de Postos e/ou Sistemas Retalhistas de Combustíveis-TRR, considerando a legislação ambiental vigente, em especial, o disposto na [[resolucao-conama-273-2000|Resolução CONAMA no 273, de 29 de novembro de 2000]].
 
 ## CAPÍTULO I – DEFINIÇÕES {#cap1}
 
 ###### Art. 2º {#art2}
-Tags: #posto-combustivel #definicao
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução, considera-se:
 
@@ -72,7 +70,6 @@ Tags: #posto-combustivel #definicao
 ### Seção I – Atos administrativos {#cap2_sec1}
 
 ###### Art. 3º {#art3}
-Tags: #condicionante #lp #li #lo #dispensa #licenciamento-ambiental
 
 **Art. 3º, caput** {#art3_cpt} O órgão ambiental, no exercício de sua competência de controle ambiental, expedirá os seguintes atos administrativos:
 
@@ -84,7 +81,6 @@ Tags: #condicionante #lp #li #lo #dispensa #licenciamento-ambiental
 ### Seção II – Licenciamentos de Novos Empreendimentos {#cap2_sec2}
 
 ###### Art. 4º {#art4}
-Tags: #licenciamento-ambiental
 
 **Art. 4º, caput** {#art4_cpt} Para a concessão do licenciamento ambiental dos empreendimentos contemplados no [[#art2|artigo 2°]] considerar os critérios de licenciamento da tabela abaixo:
 
@@ -97,21 +93,18 @@ Tags: #licenciamento-ambiental
 - **Art. 4º, Tabela 1, linha 5** {#art4_tab1_lin5} Empreendimentos: Base de Distribuição | Critérios de licenciamento — DLAE: NÃO | Critérios de licenciamento — LP: SIM | Critérios de licenciamento — LI: SIM | Critérios de licenciamento — LO: SIM
 
 ###### Art. 5º {#art5}
-Tags: #licenciamento-ambiental #dispensa #posto-combustivel
 
 **Art. 5º, caput** {#art5_cpt} Ficam passíveis da Declaração de Dispensa de Licenciamento Ambiental - DLAE as instalações aéreas com capacidade total de armazenagem de até 15 m³ (quinze metros cúbicos) para cada tipo de combustível, destinadas exclusivamente ao abastecimento do detentor da instalação, devendo ser construídas de acordo com as normas técnicas brasileiras em vigor ou, na ausência delas, das normas internacionalmente aceitas.
 
 **Art. 5º, parágrafo único** {#art5_par1u} A dispensa do Licenciamento Ambiental não exime o dispensado das exigências legais quanto à preservação do meio ambiente.
 
 ###### Art. 6º {#art6}
-Tags: #lp #li #lo #responsavel-tecnico #porte #enquadramento
 
 **Art. 6º, caput** {#art6_cpt} Os empreendimentos novos que não se enquadrem nas características estabelecidas no [[#art5|Art. 5º]], deverão requerer sucessivamente LP, LI e LO.
 
 **Art. 6º, parágrafo único** {#art6_par1u} Este procedimento se aplica a novos empreendimentos e para aqueles em operação que venham a sofrer ampliações acima do porte, alterações definitivas no processo e incorporação de novas atividades, com alteração das características do empreendimento já implantado.
 
 ###### Art. 7º {#art7}
-Tags: #posto-combustivel #lp #anuencia #publicacao-dioe #requerimento #efluente
 
 **Art. 7º, caput** {#art7_cpt} O requerimento para obtenção da LICENÇA PRÉVIA – LP deverá ser realizado através do SGA, instruído na forma prevista abaixo:
 
@@ -137,7 +130,6 @@ Tags: #posto-combustivel #lp #anuencia #publicacao-dioe #requerimento #efluente
 - **Art. 7º, caput, inciso XVII** {#art7_cpt_inc17} recolhimento da taxa ambiental e demais valores cabíveis referentes às publicações, em caso de optar pela publicação no site do órgão ambiental competente.
 
 ###### Art. 8º {#art8}
-Tags: #li #publicacao-dioe #lp #responsavel-tecnico #posto-combustivel #autorizacao-florestal
 
 **Art. 8º, caput** {#art8_cpt} O requerimento para obtenção da LICENÇA DE INSTALAÇÃO – LI deverá ser realizado através do SGA, instruído na forma prevista abaixo:
 
@@ -178,7 +170,6 @@ Tags: #li #publicacao-dioe #lp #responsavel-tecnico #posto-combustivel #autoriza
 - **Art. 8º, caput, inciso XII** {#art8_cpt_inc12} recolhimento da taxa ambiental e demais valores cabíveis referentes à publicações, em caso de optar pela publicação no site do órgão ambiental competente.
 
 ###### Art. 9º {#art9}
-Tags: #li #publicacao-dioe #renovacao #requerimento #taxa-ambiental #responsavel-tecnico
 
 **Art. 9º, caput** {#art9_cpt} O requerimento para obtenção da RENOVAÇÃO DA LICENÇA DE INSTALAÇÃO – RLI deverá ser realizado através do SGA, instruído na forma prevista abaixo:
 
@@ -189,7 +180,6 @@ Tags: #li #publicacao-dioe #renovacao #requerimento #taxa-ambiental #responsavel
 - **Art. 9º, caput, inciso V** {#art9_cpt_inc5} recolhimento da taxa ambiental e demais valores cabíveis referentes às publicações, em caso de optar pela publicação no site do órgão ambiental competente.
 
 ###### Art. 10 {#art10}
-Tags: #lo #publicacao-dioe #responsavel-tecnico #posto-combustivel #li #efluente
 
 **Art. 10, caput** {#art10_cpt} O requerimento para obtenção da LICENÇA DE OPERAÇÃO – LO deverá ser realizado através do SGA, instruído na forma prevista abaixo:
 
@@ -209,7 +199,6 @@ Tags: #lo #publicacao-dioe #responsavel-tecnico #posto-combustivel #li #efluente
 - **Art. 10, caput, inciso XII** {#art10_cpt_inc12} cópia de declaração de firma individual, contrato social ou estatuto da pessoa jurídica ou pelo contrato de trabalho do técnico responsável pela área ambiental, conforme [[lei-estadual-16346-2009|Lei Estadual 16.346]], 18 de dezembro de 2009, ou outra que venha a sucedê-la.
 
 ###### Art. 11 {#art11}
-Tags: #lo #responsavel-tecnico #publicacao-dioe #lor #renovacao #monitoramento
 
 **Art. 11, caput** {#art11_cpt} O requerimento para obtenção da RENOVAÇÃO DA LICENÇA DE OPERAÇÃO – RLO deverá ser realizado através do SGA, instruído na forma prevista abaixo:
 
@@ -235,7 +224,6 @@ Tags: #lo #responsavel-tecnico #publicacao-dioe #lor #renovacao #monitoramento
 ### Seção III – Regularização do Licenciamento Ambiental {#cap2_sec3}
 
 ###### Art. 12 {#art12}
-Tags: #publicacao-dioe #lo #responsavel-tecnico #posto-combustivel #enquadramento #licenciamento-ambiental
 
 **Art. 12, caput** {#art12_cpt} Para regularização do licenciamento ambiental de empreendimentos já instalados, sem a licença de operação, até data de publicação desta resolução, desde que atenda os aspectos locacionais vigentes na legislação quando da instalação, de acordo com [[#art3|Art. 3]].º da presente Resolução, deverá solicitar a Licença de Operação de Regularização (LOR).
 
@@ -293,7 +281,6 @@ Tags: #publicacao-dioe #lo #responsavel-tecnico #posto-combustivel #enquadrament
 ### Seção IV – Remoção e/ou substituição de Sistema de Abastecimento Subterrâneo de Combustíveis – SASC e/ou de Sistema de Armazenamento Aéreo de Combustíveis – SAAC {#cap2_sec4}
 
 ###### Art. 13 {#art13}
-Tags: #posto-combustivel #autorizacao-ambiental #lo #prazo #taxa-ambiental #responsavel-tecnico
 
 **Art. 13, caput** {#art13_cpt} Quando da remoção e/ou substituição de Sistema de Abastecimento Subterrâneo de Combustíveis – SASC e/ou de Sistema de Armazenamento Aéreo de Combustíveis – SAAC, deverá ser requerida Autorização Ambiental – AA, a ser protocolada em meio físico, mediante a apresentação de:
 
@@ -316,12 +303,10 @@ Tags: #posto-combustivel #autorizacao-ambiental #lo #prazo #taxa-ambiental #resp
 ### Seção V – Ampliação do Sistema de Armazenamento Subterrâneo de Combustíveis - SASC {#cap2_sec5}
 
 ###### Art. 14 {#art14}
-Tags: #ampliacao #lp #li #lo
 
 **Art. 14, caput** {#art14_cpt} A ampliação do SASC em empreendimentos já implantados e licenciados necessita de Licença Prévia de Ampliação, Licença de Instalação de Ampliação e Licença de Operação de Ampliação.
 
 ###### Art. 15 {#art15}
-Tags: #ampliacao #lp #publicacao-dioe #requerimento #lo #taxa-ambiental
 
 **Art. 15, caput** {#art15_cpt} O requerimento de Licença Prévia de Ampliação, visando a ampliação do SASC, deverá ser protocolado, mediante a apresentação de:
 
@@ -331,7 +316,6 @@ Tags: #ampliacao #lp #publicacao-dioe #requerimento #lo #taxa-ambiental
 - **Art. 15, caput, inciso IV** {#art15_cpt_inc4} recolhimento da taxa ambiental e demais valores cabíveis referentes às publicações, em caso de optar pela publicação no site do órgão ambiental competente.
 
 ###### Art. 16 {#art16}
-Tags: #publicacao-dioe #li #posto-combustivel #lp #requerimento #ampliacao
 
 **Art. 16, caput** {#art16_cpt} O requerimento de Licença de Instalação de Ampliação do SASC, deverá ser protocolado mediante a apresentação de:
 
@@ -349,7 +333,6 @@ Tags: #publicacao-dioe #li #posto-combustivel #lp #requerimento #ampliacao
 - **Art. 16, caput, inciso V** {#art16_cpt_inc5} Recolhimento da taxa ambiental e demais valores cabíveis referentes às publicações, em caso de optar pela publicação no site do órgão ambiental competente.
 
 ###### Art. 17 {#art17}
-Tags: #publicacao-dioe #ampliacao #lo #li #requerimento #taxa-ambiental
 
 **Art. 17, caput** {#art17_cpt} O requerimento de Licença de Operação de Ampliação do SASC deverá ser protocolado mediante a apresentação de:
 
@@ -367,7 +350,6 @@ Tags: #publicacao-dioe #ampliacao #lo #li #requerimento #taxa-ambiental
 ### Seção VI – Procedimentos Específicos de Licenciamento Ambiental {#cap2_sec6}
 
 ###### Art. 18 {#art18}
-Tags: #licenciamento-ambiental #lo #lor #renovacao
 
 **Art. 18, caput** {#art18_cpt} Para a Renovação da Licença de Operação, bem como nos casos  de regularização de empreendimentos já em operação, constatado o não atendimento dos padrões ambientais, em caráter excepcional, o órgão ambiental poderá firmar com o empreendedor Termo de Ajustamento de Conduta – TAC, conforme [[resolucao-cema-105-2019|Resolução CEMA n°105, de 17 de dezembro de 2019]].
 
@@ -376,29 +358,24 @@ Tags: #licenciamento-ambiental #lo #lor #renovacao
 **Art. 18, § 2º** {#art18_par2} A licença ambiental definitiva somente será concedida após o cumprimento das obrigações estabelecidas no TAC, conforme exigências [[resolucao-cema-105-2019|Resolução CEMA n°105, de 17 de dezembro de 2019]].
 
 ###### Art. 19 {#art19}
-Tags: #licenciamento-ambiental
 
 **Art. 19, caput** {#art19_cpt} A regularização do licenciamento ambiental por motivo de alteração da razão social e/ou do estatuto ou contrato social da empresa, em qualquer fase, deverá atender o Artigo 77 da [[resolucao-cema-105-2019|Resolução CEMA n°105, de 17 de dezembro de 2019]];
 
 ###### Art. 20 {#art20}
-Tags: #posto-combustivel
 
 **Art. 20, caput** {#art20_cpt} Os Postos e/ou Sistemas Retalhistas de Combustíveis-TRR, com transporte próprio de combustível, o licenciamento deverá contemplar também essa atividade.
 
 ###### Art. 21 {#art21}
-Tags: #licenciamento-ambiental #responsavel-tecnico
 
 **Art. 21, caput** {#art21_cpt} Para melhorias que não estejam vinculados a processos de licenciamento ambiental, como por exemplo, referentes a readequações ou melhorias de sistemas e medidas de controle ambiental implantadas, o interessado deverá ser comunicado ao órgão ambiental pelo profissional técnico responsável, recolhida a devida ART, com apresentação do plano de melhoria.
 
 ###### Art. 22 {#art22}
-Tags: #licenciamento-ambiental
 
 **Art. 22, caput** {#art22_cpt} Caso haja necessidade, o órgão ambiental competente solicitará, a qualquer momento, outros documentos e/ou informações complementares do requerente ou de outras instituições envolvidas no licenciamento ambiental em questão, assim como, anotação ou registro de responsabilidade técnica pela implantação e conclusão de eventuais estudos ambientais.
 
 ### Seção VII – Prazos de Validade das Licenças Ambientais {#cap2_sec7}
 
 ###### Art. 23 {#art23}
-Tags: #validade #prazo #lp #li #lo
 
 **Art. 23, caput** {#art23_cpt} O órgão ambiental estabelecerá o prazo de validade de cada modalidade de licença, especificando-os no respectivo documento, levando em consideração os seguintes aspectos:
 
@@ -409,7 +386,6 @@ Tags: #validade #prazo #lp #li #lo
 ## CAPÍTULO III – ASPECTOS LOCACIONAIS {#cap3}
 
 ###### Art. 24 {#art24}
-Tags: #responsavel-tecnico #posto-combustivel #recurso-hidrico
 
 **Art. 24, caput** {#art24_cpt} Os empreendimentos a serem implantados ou ampliações das atividades relacionadas no [[#art2|Art. 2°]] da presente Resolução, submetidos ao licenciamento do órgão ambiental competente, deverão atender os seguintes requisitos mínimos:
 
@@ -423,14 +399,12 @@ Tags: #responsavel-tecnico #posto-combustivel #recurso-hidrico
 ## CAPÍTULO IV – ASPECTOS TÉCNICOS {#cap4}
 
 ###### Art. 25 {#art25}
-Tags: #posto-combustivel #enquadramento #vigencia #monitoramento
 
 **Art. 25, caput** {#art25_cpt} Os novos empreendimentos ou os instalados após a vigência da [[lei-estadual-14984-2005|Lei Estadual nº 14.984, de 28 de dezembro de 2005]], devem, obrigatoriamente, atender aos requisitos técnicos nela estabelecidos, sendo obrigatório a implantação de tanques de paredes duplas e processo de proteção e controles necessários aos postos/sistemas Classe III, conforme enquadramento da NBR 13.786, ou outra que venha a sucedê-la, incluindo monitoramento intersticial.
 
 **Art. 25, parágrafo único** {#art25_par1u} Todos os Postos e/ou Sistemas Retalhistas de combustíveis no Estado do Paraná são considerados Classe III.
 
 ###### Art. 26 {#art26}
-Tags: #responsavel-tecnico #residuo-solido #efluente #monitoramento
 
 **Art. 26, caput** {#art26_cpt} O Relatório de Vistoria Técnica deverá ser apresentado ao órgão ambiental, a cada período não superior a 01 (um) ano pelo responsável técnico do empreendimento, acompanhado da respectiva ART, em meio físico, devendo atender os seguintes requisitos mínimos:
 
@@ -443,7 +417,6 @@ Tags: #responsavel-tecnico #residuo-solido #efluente #monitoramento
 - **Art. 26, caput, inciso VII** {#art26_cpt_inc7} Ficha de Vistoria da Infraestrutura do Empreendimento, conforme modelo do [[#anexo8|ANEXO VIII]].
 
 ###### Art. 27 {#art27}
-Tags: #posto-combustivel #definicao #monitoramento
 
 **Art. 27, caput** {#art27_cpt} Para efeito de controle futuro da integridade dos elementos componentes do Sistema de Abastecimento Subterrâneo de Combustíveis - SASC e/ou do Sistema de Armazenamento Aéreo de Combustíveis – SAAC (linhas, tanques, conexões, tubulações e demais equipamentos), deverá ser apresentado teste de estanqueidade completo em periodicidade a ser estabelecida pelo órgão ambiental, não superior a 05 (cinco) anos, inclusive aqueles com sistema de monitoramento eletrônico para detecção de vazamentos.
 
@@ -452,12 +425,10 @@ Tags: #posto-combustivel #definicao #monitoramento
 **Art. 27, § 2º** {#art27_par2} Os testes de estanqueidade e hidrostático de estanqueidade deverão ser acompanhados de relatório fotográfico, antes e após a execução do serviço, de todos os componentes avaliados.
 
 ###### Art. 28 {#art28}
-Tags: #posto-combustivel #monitoramento
 
 **Art. 28, caput** {#art28_cpt} Para postos em funcionamento, que utilizam tanques subterrâneos para armazenamento de combustíveis, somente poderão ser licenciados se dispuserem de tanques de paredes duplas dotadas de espaço intersticial e sensor que permita o monitoramento eletrônico de vazamentos, de acordo com ABNT-NBR 13.784, ou outra que venha a sucedê-la.
 
 ###### Art. 29 {#art29}
-Tags: #posto-combustivel #autorizacao-ambiental #requerimento #responsavel-tecnico
 
 **Art. 29, caput** {#art29_cpt} Postos e Sistemas Retalhistas de Combustíveis com tanques subterrâneos em operação que apresentem vazamento, deverão ser removidos imediatamente, mediante:
 
@@ -465,7 +436,6 @@ Tags: #posto-combustivel #autorizacao-ambiental #requerimento #responsavel-tecni
 - **Art. 29, caput, inciso II** {#art29_cpt_inc2} atendimento do roteiro executivo contido no [[#anexo3|ANEXO III]].
 
 ###### Art. 30 {#art30}
-Tags: #responsavel-tecnico #monitoramento #autorizacao-ambiental #requerimento
 
 **Art. 30, caput** {#art30_cpt} Para os tanques de paredes duplas, dotados de sensores para monitoramento eletrônico de vazamento, a vida útil será considerada de 25 (vinte e cinco) anos, contada a partir da data de fabricação, mediante apresentação de documento da garantia estipulada pelo fabricante, acompanhado da ART, a vida útil do tanque poderá ser estendida, desde que aprovada pelo IAT.
 
@@ -481,12 +451,10 @@ Tags: #responsavel-tecnico #monitoramento #autorizacao-ambiental #requerimento
 **Art. 31, parágrafo único** {#art31_par1u} Os Sistemas Retalhistas – TRR que possuam linhas subterrâneas, deverão apresentar teste de estanqueidade por empresa certificada pelo INMETRO, conforme Portaria INMETRO nº 259, de 24 de julho de 2008, com base na  ABNT-NBR 13784, atendendo as determinações contidas na Resolução nº 273, de 29 de novembro de 2000, e na Resolução nº 319, de 04 de dezembro de 2002.
 
 ###### Art. 32 {#art32}
-Tags: #monitoramento
 
 **Art. 32, caput** {#art32_cpt} Em estabelecimentos novos ou ampliados, o armazenamento de óleo lubrificante usado deverá ser feito, preferencialmente, em tanques e linhas aéreas, dotados de bacia de contenção, com piso impermeável e cobertura. No caso da implantação de tanques subterrâneos, os mesmos deverão ser de paredes duplas, com monitoramento intersticial.
 
 ###### Art. 33 {#art33}
-Tags: #efluente #posto-combustivel #autorizacao-ambiental #residuo-solido
 
 **Art. 33, caput** {#art33_cpt} Postos e Sistemas Retalhistas de Combustíveis, com ou sem lavagem, deverão dispor de sistema de tratamento das águas residuárias geradas, apresentado na forma de projeto, elaborado de acordo com as diretrizes do [[#anexo2|ANEXO II]].
 
@@ -497,7 +465,6 @@ Tags: #efluente #posto-combustivel #autorizacao-ambiental #residuo-solido
 **Art. 33, § 3º** {#art33_par3} Quando da saturação do efluente liquido, fica o empreendimento gerador obrigado a apresentar cópia da Autorização Ambiental para destinação final deste resíduo, da empresa responsável e/ou contratada,  conforme requisitos estabelecidos pela [[portaria-iap-212-2019|Portaria IAP 212, de 12 de setembro de 2019]], ou outra que venha a sucedê-la.
 
 ###### Art. 34 {#art34}
-Tags: #efluente #recurso-hidrico
 
 **Art. 34, caput** {#art34_cpt} Os efluentes somente poderão ser lançados, direta ou indiretamente, nos corpos de água, desde que obedeçam às condições e padrões estabelecidos na sequência, resguardadas outras exigências cabíveis:
 
@@ -518,19 +485,16 @@ Tags: #efluente #recurso-hidrico
 **Art. 34, § 2º** {#art34_par2} Fica proibido o lançamento de efluentes líquidos, direta ou indiretamente, em corpos hídricos superficiais utilizados ou potencialmente identificados como mananciais de abastecimento público.
 
 ###### Art. 35 {#art35}
-Tags: #posto-combustivel #efluente #monitoramento
 
 **Art. 35, caput** {#art35_cpt} Os Postos e Sistemas Retalhistas de Combustíveis deverão realizar o automonitoramento dos efluentes líquidos de acordo com a [[portaria-iap-256-2013|Portaria IAP n° 256, de 16 de setembro de 2013]], ou outra que venha a sucedê-la;
 
 ###### Art. 36 {#art36}
-Tags: #responsavel-tecnico #monitoramento
 
 **Art. 36, caput** {#art36_cpt} As atividades relacionadas no [[#art2|Art. 2º]] da presente Resolução que possuírem poço tubular profundo ou poço cacimba, deverão obrigatoriamente realizar monitoramento anual da qualidade de água, contemplando análises dos parâmetros BTEX, PAH’s e TPH’s.
 
 ## CAPÍTULO V – DO RELATÓRIO DE MONITORAMENTO E OPERAÇÃO - RMO {#cap5}
 
 ###### Art. 37 {#art37}
-Tags: #monitoramento #posto-combustivel #lo #lor #renovacao #efluente
 
 **Art. 37, caput** {#art37_cpt} Os responsáveis legais pelos Postos e Sistemas Retalhistas de Combustíveis  deverão apresentar Relatório de Monitoramento e Operação - RMO do empreendimento para o IAT, em arquivo digital, no formato pdf, como parte integrante da solicitação da renovação da Licença de Operação, de acordo com o [[#anexo8|ANEXO VIII]] desta Resolução, contendo:
 
@@ -545,12 +509,10 @@ Tags: #monitoramento #posto-combustivel #lo #lor #renovacao #efluente
 **Art. 37, § 2º** {#art37_par2} Para garantia da representatividade dos resultados apresentados no Relatório de Monitoramento e Operação, o empreendedor deverá ter realizado Estudos de Identificação de Passivo Ambiental, conforme o [[#anexo6|ANEXO VI]] desta Resolução, anteriormente ao Relatório de Monitoramento e Operação – RMO, conforme [[#anexo8|ANEXO VIII]].
 
 ###### Art. 38 {#art38}
-Tags: #area-contaminada #prazo #responsavel-tecnico #monitoramento #recurso-hidrico
 
 **Art. 38, caput** {#art38_cpt} Na avaliação dos laudos analíticos das amostras de água subterrânea e/ou solo, no caso da constatação de valores que ultrapassem os Valores de Intervenção (VI), o órgão ambiental deverá ser informado no prazo máximo de 10 (dez) dias, por meio de ofício digital, contendo ANEXO o Relatório de Monitoramento e Operação, em arquivo digital, no formato pdf. Independentemente da manifestação do órgão ambiental, o Responsável Técnico pela área ambiental deverá adotar as ações previstas no Capítulo VI – Gerenciamento de Áreas Contaminadas e realizar Estudo de Investigação Detalhada e Avaliação de Risco à Saúde Humana, de acordo com o [[#anexo7|ANEXO VII]], desta Resolução.
 
 ###### Art. 39 {#art39}
-Tags: #lo #monitoramento #renovacao #lor #validade #prazo
 
 **Art. 39, caput** {#art39_cpt} O Relatório de Monitoramento e Operação – RMO deverá ser apresentado ao órgão ambiental, com frequência máxima de 03 (três) anos, contados a partir da data de emissão da respectiva licença de operação e de suas renovações.
 
@@ -561,12 +523,10 @@ Tags: #lo #monitoramento #renovacao #lor #validade #prazo
 ## CAPÍTULO VI – GERENCIAMENTO DE ÁREAS CONTAMINADAS {#cap6}
 
 ###### Art. 40 {#art40}
-Tags: #area-contaminada
 
 **Art. 40, caput** {#art40_cpt} Caberá ao empreendedor dar sequência aos procedimentos previstos no Gerenciamento de Áreas Contaminadas, independentemente da manifestação do órgão ambiental nos casos previstos na presente Resolução.
 
 ###### Art. 41 {#art41}
-Tags: #prazo #posto-combustivel #monitoramento #responsavel-tecnico
 
 **Art. 41, caput** {#art41_cpt} As atividades armazenadoras e distribuidoras de combustíveis líquidos deverão apresentar Estudo de Investigação de Passivos Ambientais, de acordo com o [[#anexo6|ANEXO VI]] desta Resolução, nos seguintes casos:
 
@@ -578,7 +538,6 @@ Tags: #prazo #posto-combustivel #monitoramento #responsavel-tecnico
 **Art. 41, parágrafo único** {#art41_par1u} Deverá ser apresentado em um prazo de até 90 (noventa) dias, o Estudo de Investigação de Passivos Ambientais, relativo às situações presentes no [[#art41|Art. 41]]. Solicitações de prorrogação de prazo deverão ser requeridas, mediante apresentação de justificativa técnica ao órgão ambiental.
 
 ###### Art. 42 {#art42}
-Tags: #recurso-hidrico #posto-combustivel #monitoramento
 
 **Art. 42, caput** {#art42_cpt} As atividades armazenadoras e distribuidoras de combustíveis líquidos deverão apresentar Estudo de Investigação Detalhada e Avaliação de Risco à Saúde Humana, de acordo com o [[#anexo7|ANEXO VII]] desta Resolução, quando:
 
@@ -590,7 +549,6 @@ Tags: #recurso-hidrico #posto-combustivel #monitoramento
 **Art. 42, parágrafo único** {#art42_par1u} Caso exista mudança no cenário de exposição ou na contaminação, que não tenha sido contemplada em Estudo de Investigação Detalhada e Avaliação de Risco à Saúde Humana anterior, o mesmo deverá ser revisto e complementado, conforme procedimentos previstos no [[#anexo7|ANEXO VII]] desta Resolução.
 
 ###### Art. 43 {#art43}
-Tags: #prazo #responsavel-tecnico #sancao
 
 **Art. 43, caput** {#art43_cpt} Quando da Identificação de Fase Livre, o responsável técnico pelos estudos deverá, obrigatoriamente, oficializar o empreendedor, o qual comunicará o fato ao órgão ambiental no prazo máximo de 10 (dez) dias, conforme [[#anexo11|ANEXO XI]], sob pena de aplicação das penalidades legais cabíveis.
 
@@ -601,7 +559,6 @@ Tags: #prazo #responsavel-tecnico #sancao
 **Art. 43, § 3º** {#art43_par3} Em conjunto com a comunicação de ocorrência de fase livre, conforme [[#anexo11|ANEXO XI]], deverá ser apresentado relatório fotográfico e planta de localização da ocorrência da fase livre.
 
 ###### Art. 44 {#art44}
-Tags: #prazo #area-contaminada
 
 **Art. 44, caput** {#art44_cpt} A área deverá ser averbada como contaminada nos casos em que sejam ultrapassadas as Concentrações Máximas Aceitáveis para o local, previstas no Estudo de Investigação Detalhada e Avaliação de Risco à Saúde Humana, ou se houver a presença de substâncias químicas em fase livre.
 
@@ -612,7 +569,6 @@ Tags: #prazo #area-contaminada
 **Art. 44, § 3º** {#art44_par3} Caberá ao proprietário do imóvel, em um prazo de até 90 (noventa) dias cumprir as exigências impostas pelo órgão ambiental quando da execução dos procedimentos de averbação junto ao Cartório de Registro de Imóveis da Comarca, onde se insere o imóvel, para a devida averbação da Área como contaminada. Solicitações de prorrogação de prazo deverão ser requeridas mediante apresentação de justificativa ao órgão ambiental.
 
 ###### Art. 45 {#art45}
-Tags: #monitoramento #encerramento
 
 **Art. 45, caput** {#art45_cpt} Caso sejam executadas Medidas de Intervenção, a área só será definida como Área Reabilitada para Uso Declarado - AR se durante os 02 (dois) anos de execução do Plano de Monitoramento para Encerramento não tiverem sido ultrapassadas as Concentrações Máximas Aceitáveis definidas para o caso, e não existirem mudanças no cenário de exposição ou na contaminação, que não tenham sido contempladas em Estudo de Investigação Detalhada e Avaliação de Risco à Saúde Humana anterior, conforme preconizado no [[#anexo7|ANEXO VII]] desta resolução.
 
@@ -621,7 +577,6 @@ Tags: #monitoramento #encerramento
 ## CAPÍTULO VII – DISPOSIÇÕES GERAIS {#cap7}
 
 ###### Art. 46 {#art46}
-Tags: #responsavel-tecnico #anuencia
 
 **Art. 46, caput** {#art46_cpt} A implantação de novas atividades relacionadas no [[#art2|Art. 2°]] da presente Resolução, às margens de Rodovias Estaduais e/ou Federais, deverá ser precedida de anuência do órgão correspondente – DER ou DNIT, conforme o caso, atendendo às normas vigentes.
 
@@ -630,7 +585,6 @@ Tags: #responsavel-tecnico #anuencia
 **Art. 47, caput** {#art47_cpt} Quando da reapresentação de projetos para reavaliação técnica, deverá ser observado as exigências constantes na [[resolucao-cema-105-2019|Resolução CEMA n°105, de 17 de dezembro de 2019]].
 
 ###### Art. 48 {#art48}
-Tags: #documentacao #responsavel-tecnico #encerramento
 
 **Art. 48, caput** {#art48_cpt} Quando do encerramento da atividade, o IAT deverá ser informado através de procedimento próprio, protocolado e dirigido ao Diretor Presidente, instruído com a documentação constante no Art. 78 da [[resolucao-cema-105-2019|Resolução CEMA n°105, de 17 de dezembro de 2019]].
 
@@ -639,12 +593,10 @@ Tags: #documentacao #responsavel-tecnico #encerramento
 **Art. 49, caput** {#art49_cpt} O laboratório responsável pela execução e emissão de laudos referentes a ensaios físico-químicos e biológicos de amostras retiradas de fontes de poluição ambiental e/ou de matrizes ambientais deverá ter o Certificado de Cadastramento de Laboratório de Ensaios Ambientais (CCL), concedido pelo órgão ambiental.
 
 ###### Art. 50 {#art50}
-Tags: #lo #renovacao #publicacao-dioe #condicionante #monitoramento
 
 **Art. 50, caput** {#art50_cpt} Empreendimentos que possuam licença de operação emitida em data anterior à publicação desta Resolução ou que possuam em seu rol de condicionantes a obrigatoriedade da apresentação de Estudo de Identificação de Passivo Ambiental, deverão apresentá-lo na renovação da respectiva licença de operação, ficando dispensados da apresentação do Relatório de Monitoramento – RMO.
 
 ###### Art. 51 {#art51}
-Tags: #responsavel-tecnico #enquadramento
 
 **Art. 51, caput** {#art51_cpt} Os Estudos de Passivos Ambientais deverão ser apresentados em período não superior a de 12 anos, contados da data do último estudo apresentado, desde que não se enquadre nos [[#art42|Art. 42]] e 43 desta resolução.
 
@@ -653,12 +605,10 @@ Tags: #responsavel-tecnico #enquadramento
 **Art. 52, caput** {#art52_cpt} Esta Resolução deverá ser reavaliada a cada 06 (seis) anos ou a qualquer tempo, quando o órgão ambiental considerar necessário.
 
 ###### Art. 53 {#art53}
-Tags: #posto-combustivel
 
 **Art. 53, caput** {#art53_cpt} O não cumprimento do disposto nesta Resolução sujeitará os infratores às sanções previstas nas Leis Federais nº 6.938 de 31 de agosto de 1981, nº 9.605 de 12 de fevereiro de 1998 e seus decretos regulamentadores.
 
 ###### Art. 54 {#art54}
-Tags: #prazo #revogacao #vigencia #publicacao-dioe
 
 **Art. 54, caput** {#art54_cpt} Esta Resolução entra em vigor no prazo de 60 (sessenta) dias, contados da data de sua publicação, ficando revogada a [[resolucao-sema-32-2016|Resolução SEMA nº 032/2016]] e  a Resolução SEDEST Nº 056/2019.
 
@@ -674,47 +624,45 @@ Tags: #prazo #revogacao #vigencia #publicacao-dioe
 > Tipos conforme as regras de anexos do README. O PDF traz só a lista "ANEXOS: anexo230883_53136.pdf" e não o conteúdo dos anexos. Só os anexos citados no texto (I, II, III, V, VI, VII, VIII, XI e XIV) foram registrados; o texto não cita os Anexos IV, IX, X, XII e XIII.
 
 ### ANEXO I {#anexo1}
-Tags: #certidao-municipal
 
 Modelo de certidão do município (conformidade do local e do tipo de empreendimento com a legislação municipal). *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art7_cpt_inc4|Art. 7º, inciso IV]].)*
 
 ### ANEXO II {#anexo2}
-Tags: #anexo-pendente #pca
+Tags: #anexo-pendente
 
 Diretrizes do Projeto de Controle de Poluição Ambiental (estudo exigido no Plano de Controle Ambiental – PCA). *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230883_53136.pdf`. Exigido em: [[#art8_cpt_inc8_alia|Art. 8º, inciso VIII, alínea "a"]], [[#art12_par2_inc12_alia|Art. 12, § 2º, inciso XII, alínea "a"]], [[#art33_cpt|Art. 33]].)*
 
 ### ANEXO III {#anexo3}
-Tags: #anexo-pendente #projeto-executivo
+Tags: #anexo-pendente
 
 Diretrizes do projeto executivo de remoção e/ou substituição do Sistema de Armazenamento Subterrâneo de Combustíveis – SASC. *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230883_53136.pdf`. Exigido em: [[#art13_cpt_inc6|Art. 13, inciso VI]], [[#art13_cpt_inc6_alif|Art. 13, inciso VI, alínea "f"]], [[#art29_cpt_inc2|Art. 29, inciso II]], [[#art30_par1u_inc2|Art. 30, parágrafo único, inciso II]].)*
 
 ### ANEXO V {#anexo5}
-Tags: #anexo-pendente #diretriz-estudo
+Tags: #anexo-pendente
 
 Conteúdo do Estudo Hidrogeológico. *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230883_53136.pdf`. Exigido em: [[#art7_cpt_inc12|Art. 7º, inciso XII]].)*
 
 ### ANEXO VI {#anexo6}
-Tags: #anexo-pendente #passivo-ambiental
+Tags: #anexo-pendente
 
 Roteiro do Estudo de Identificação de Passivos Ambientais. *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230883_53136.pdf`. Exigido em: [[#art8_cpt_inc9|Art. 8º, inciso IX]], [[#art11_par1u|Art. 11, parágrafo único]], [[#art12_par2_inc7|Art. 12, § 2º, inciso VII]], [[#art37_par2|Art. 37, § 2º]], [[#art39_par1|Art. 39, § 1º]], [[#art41_cpt|Art. 41]].)*
 
 ### ANEXO VII {#anexo7}
-Tags: #anexo-pendente #area-contaminada
+Tags: #anexo-pendente
 
 Diretrizes do Estudo de Investigação Detalhada e Avaliação de Risco à Saúde Humana. *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230883_53136.pdf`. Exigido em: [[#art38_cpt|Art. 38]], [[#art42_cpt|Art. 42]], [[#art42_par1u|Art. 42, parágrafo único]], [[#art44_par1|Art. 44, § 1º]], [[#art45_cpt|Art. 45]].)*
 
 ### ANEXO VIII {#anexo8}
-Tags: #anexo-pendente #relatorio
+Tags: #anexo-pendente
 
 Diretrizes do Relatório de Monitoramento e Operação – RMO. *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230883_53136.pdf`. Exigido em: [[#art11_cpt_inc12|Art. 11, inciso XII]], [[#art26_cpt_inc2|Art. 26, inciso II]], [[#art26_cpt_inc7|Art. 26, inciso VII]], [[#art37_cpt|Art. 37]], [[#art37_par2|Art. 37, § 2º]].)*
 
 ### ANEXO XI {#anexo11}
-Tags: #area-contaminada
 
 Modelo de comunicação de identificação de fase livre ao órgão ambiental. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art43_cpt|Art. 43]], [[#art43_par3|Art. 43, § 3º]].)*
 
 ### ANEXO XIV {#anexo14}
-Tags: #anexo-pendente #pgrs
+Tags: #anexo-pendente
 
 Diretrizes específicas do IAT para o Plano de Gerenciamento de Resíduos Sólidos – PGRS. *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo230883_53136.pdf`. Exigido em: [[#art11_cpt_inc9|Art. 11, inciso IX]], [[#art12_par2_inc15|Art. 12, § 2º, inciso XV]].)*
 

@@ -49,52 +49,47 @@ Considerando a necessidade de estabelecer os procedimentos de integração entre
 RESOLVE
 
 ###### Art. 1º {#art1}
-Tags: #outorga #agua-subterranea #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer a integração dos procedimentos entre a Outorga para captação subterrânea e o licenciamento ambiental no âmbito do Instituto Água e Terra.
 
 ###### Art. 2º {#art2}
-Tags: #outorga #agua-subterranea #captacao #abastecimento-publico
 
 **Art. 2º, caput** {#art2_cpt} A Outorga para uso de recursos hídricos é obrigatória para os empreendimentos, atividades ou obras que necessitem de extração de água de aquífero subterrâneo para consumo final, inclusive abastecimento público, ou insumo de processo produtivo.
 
 ###### Art. 3º {#art3}
-Tags: #ato-administrativo #dlam #lac #las #lp #li #lo #lir #lasr #lor #anuencia-previa #outorga-previa #outorga-direito #uso-insignificante #poco
 
 **Art. 3º, caput** {#art3_cpt} O Instituto Água e Terra, no exercício do controle ambiental, expedirá os seguintes atos administrativos, referentes ao licenciamento ambiental e à Outorga de recursos hídricos.
-- **Art. 3º, caput, inciso I** {#art3_cpt_inc1} #dlam A Declaração de Dispensa de Licenciamento Ambiental - DLAM será concedida para os empreendimentos e/ou atividades que são dispensados do licenciamento por parte do Instituto Água e Terra - IAT em função de seu baixo potencial poluidor/degradador – nível I, conforme os critérios estabelecidos em normativas específicas, sem prejuízo ao licenciamento ambiental municipal, e que atendam as seguintes condições:
-- **Art. 3º, caput, inciso II** {#art3_cpt_inc2} #lac A Licença Ambiental por Adesão e Compromisso - LAC será concedida para os empreendimentos e/ou atividades de baixo potencial poluidor/degradador do meio ambiente – nível II, mediante a assinatura de Declaração de Adesão e Compromisso do empreendedor aos critérios, pré-condições, requisitos e condicionantes ambientais estabelecidos pelo Instituto Água e Terra - IAT, desde que se conheçam previamente os impactos ambientais, e que atendam, no mínimo, os seguintes critérios;
-- **Art. 3º, caput, inciso III** {#art3_cpt_inc3} #las A Licença Ambiental Simplificada - LAS será concedida para empreendimentos e/ou atividades de médio potencial poluidor/degradador do meio ambiente, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos, bem como autoriza sua instalação e operação de acordo com as especificações constantes dos requerimentos, planos, programas e/ou projetos aprovados, incluindo as medidas de controle ambiental e demais condicionantes determinadas pelo Instituto Água e Terra – IAT;
-- **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} #lp A Licença Prévia - LP é concedida na fase preliminar do planejamento do empreendimento e/ou atividade, de alto potencial poluidor/degradador do meio ambiente, aprovando sua localização e concepção, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos nas próximas fases de sua implementação;
-- **Art. 3º, caput, inciso V** {#art3_cpt_inc5} #li A Licença de Instalação - LI autoriza a instalação do empreendimento e/ou atividade de acordo com as especificações constantes dos planos, programas e projetos aprovados, incluindo as medidas de controle ambientais e demais condicionantes, da qual constituem motivos determinantes;
-- **Art. 3º, caput, inciso VI** {#art3_cpt_inc6} #lo A Licença de Operação - LO autoriza a operação de empreendimentos e/ou atividades após a verificação do efetivo cumprimento do que consta das licenças anteriores, com as medidas de controle ambiental e condicionantes determinadas para a operação;
-- **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} #lir Licença de Instalação de Regularização – LIR: concedida para empreendimentos e/ou atividades que estejam em instalação de forma irregular, sem o devido licenciamento ambiental, atestando sua viabilidade ambiental, bem como autorizando sua implantação de acordo com as especificações constantes dos requerimentos, planos, programas e/ou projetos aprovados, incluindo as medidas de controle ambiental, e estabelecendo os requisitos básicos e condicionantes a serem atendidos para a Licença de Operação – LO;
-- **Art. 3º, caput, inciso VIII** {#art3_cpt_inc8} #lasr Licença Ambiental Simplificada de Regularização – LASR: concedida para empreendimentos e/ou atividades enquadrados como LAS e que estejam operando sem o devido licenciamento ambiental, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos, bem como autoriza sua operação de acordo com as especificações constantes dos requerimentos, planos, programas e/ou projetos aprovados, incluindo as medidas de controle ambiental e demais condicionantes determinadas pelo órgão licenciador competente;
-- **Art. 3º, caput, inciso IX** {#art3_cpt_inc9} #lor Licença de Operação de Regularização – LOR: concedida para empreendimentos e/ou atividades que estejam operando de forma irregular, sem o devido licenciamento ambiental, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos, bem como autorizando sua operação de acordo com as especificações constantes dos requerimentos, planos, programas e/ou projetos aprovados, incluindo as medidas de controle ambiental e demais condicionantes determinadas pelo órgão licenciador competente;
-- **Art. 3º, caput, inciso X** {#art3_cpt_inc10} #anuencia-previa #poco Anuência Prévia - AP: ato administrativo que autoriza a perfuração de um poço;
-- **Art. 3º, caput, inciso XI** {#art3_cpt_inc11} #uso-insignificante Declaração de Uso Independente de Outorga - DUIO: concedida para usuários ou empreendimentos que possuem acumulações, derivações, captações e lançamentos de efluentes considerados como usos insignificantes, conforme critérios estabelecidos na [[instrucao-normativa-iat-6-2023|Instrução Normativa nº 06/2023]];
-- **Art. 3º, caput, inciso XII** {#art3_cpt_inc12} #outorga-previa Outorga Prévia - OP: ato administrativo com finalidade de declarar a disponibilidade de água para os usos requeridos, que não confere direto de uso de recursos hídricos e se destina a reservar a razão passível de Outorga, possibilitando, aos investidores, o planejamento de empreendimentos que necessitem desses recursos;
-- **Art. 3º, caput, inciso XIII** {#art3_cpt_inc13} #outorga-direito Outorga de Direito de Uso de Recursos Hídricos - OD: ato administrativo mediante o qual o órgão gestor de recursos hídricos faculta ao requerimento o direito de uso dos recursos hídricos, por prazo determinado, nos termos e condições expressas no respectivo ato, consideradas as legislações específicas vigentes.
+- **Art. 3º, caput, inciso I** {#art3_cpt_inc1} A Declaração de Dispensa de Licenciamento Ambiental - DLAM será concedida para os empreendimentos e/ou atividades que são dispensados do licenciamento por parte do Instituto Água e Terra - IAT em função de seu baixo potencial poluidor/degradador – nível I, conforme os critérios estabelecidos em normativas específicas, sem prejuízo ao licenciamento ambiental municipal, e que atendam as seguintes condições:
+- **Art. 3º, caput, inciso II** {#art3_cpt_inc2} A Licença Ambiental por Adesão e Compromisso - LAC será concedida para os empreendimentos e/ou atividades de baixo potencial poluidor/degradador do meio ambiente – nível II, mediante a assinatura de Declaração de Adesão e Compromisso do empreendedor aos critérios, pré-condições, requisitos e condicionantes ambientais estabelecidos pelo Instituto Água e Terra - IAT, desde que se conheçam previamente os impactos ambientais, e que atendam, no mínimo, os seguintes critérios;
+- **Art. 3º, caput, inciso III** {#art3_cpt_inc3} A Licença Ambiental Simplificada - LAS será concedida para empreendimentos e/ou atividades de médio potencial poluidor/degradador do meio ambiente, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos, bem como autoriza sua instalação e operação de acordo com as especificações constantes dos requerimentos, planos, programas e/ou projetos aprovados, incluindo as medidas de controle ambiental e demais condicionantes determinadas pelo Instituto Água e Terra – IAT;
+- **Art. 3º, caput, inciso IV** {#art3_cpt_inc4} A Licença Prévia - LP é concedida na fase preliminar do planejamento do empreendimento e/ou atividade, de alto potencial poluidor/degradador do meio ambiente, aprovando sua localização e concepção, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos nas próximas fases de sua implementação;
+- **Art. 3º, caput, inciso V** {#art3_cpt_inc5} A Licença de Instalação - LI autoriza a instalação do empreendimento e/ou atividade de acordo com as especificações constantes dos planos, programas e projetos aprovados, incluindo as medidas de controle ambientais e demais condicionantes, da qual constituem motivos determinantes;
+- **Art. 3º, caput, inciso VI** {#art3_cpt_inc6} A Licença de Operação - LO autoriza a operação de empreendimentos e/ou atividades após a verificação do efetivo cumprimento do que consta das licenças anteriores, com as medidas de controle ambiental e condicionantes determinadas para a operação;
+- **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} Licença de Instalação de Regularização – LIR: concedida para empreendimentos e/ou atividades que estejam em instalação de forma irregular, sem o devido licenciamento ambiental, atestando sua viabilidade ambiental, bem como autorizando sua implantação de acordo com as especificações constantes dos requerimentos, planos, programas e/ou projetos aprovados, incluindo as medidas de controle ambiental, e estabelecendo os requisitos básicos e condicionantes a serem atendidos para a Licença de Operação – LO;
+- **Art. 3º, caput, inciso VIII** {#art3_cpt_inc8} Licença Ambiental Simplificada de Regularização – LASR: concedida para empreendimentos e/ou atividades enquadrados como LAS e que estejam operando sem o devido licenciamento ambiental, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos, bem como autoriza sua operação de acordo com as especificações constantes dos requerimentos, planos, programas e/ou projetos aprovados, incluindo as medidas de controle ambiental e demais condicionantes determinadas pelo órgão licenciador competente;
+- **Art. 3º, caput, inciso IX** {#art3_cpt_inc9} Licença de Operação de Regularização – LOR: concedida para empreendimentos e/ou atividades que estejam operando de forma irregular, sem o devido licenciamento ambiental, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos, bem como autorizando sua operação de acordo com as especificações constantes dos requerimentos, planos, programas e/ou projetos aprovados, incluindo as medidas de controle ambiental e demais condicionantes determinadas pelo órgão licenciador competente;
+- **Art. 3º, caput, inciso X** {#art3_cpt_inc10} Anuência Prévia - AP: ato administrativo que autoriza a perfuração de um poço;
+- **Art. 3º, caput, inciso XI** {#art3_cpt_inc11} Declaração de Uso Independente de Outorga - DUIO: concedida para usuários ou empreendimentos que possuem acumulações, derivações, captações e lançamentos de efluentes considerados como usos insignificantes, conforme critérios estabelecidos na [[instrucao-normativa-iat-6-2023|Instrução Normativa nº 06/2023]];
+- **Art. 3º, caput, inciso XII** {#art3_cpt_inc12} Outorga Prévia - OP: ato administrativo com finalidade de declarar a disponibilidade de água para os usos requeridos, que não confere direto de uso de recursos hídricos e se destina a reservar a razão passível de Outorga, possibilitando, aos investidores, o planejamento de empreendimentos que necessitem desses recursos;
+- **Art. 3º, caput, inciso XIII** {#art3_cpt_inc13} Outorga de Direito de Uso de Recursos Hídricos - OD: ato administrativo mediante o qual o órgão gestor de recursos hídricos faculta ao requerimento o direito de uso dos recursos hídricos, por prazo determinado, nos termos e condições expressas no respectivo ato, consideradas as legislações específicas vigentes.
 
 ###### Art. 4º {#art4}
-Tags: #licenciamento-monofasico #outorga #agua-subterranea #poco #anuencia-previa #condicionante #dlam #lac #las
 
 **Art. 4º, caput** {#art4_cpt} Os procedimentos de integração de Licenciamento Ambiental e Outorga para captação subterrânea para licenciamento ambiental monofásico se dará de acordo com os critérios abaixo:
-- **Art. 4º, caput, inciso I** {#art4_cpt_inc1} #poco Para poços ainda não perfurados:
+- **Art. 4º, caput, inciso I** {#art4_cpt_inc1} Para poços ainda não perfurados:
 
 **Art. 4º, Tabela 1** {#art4_tab1} quadro de etapas do inciso I (poços ainda não perfurados), sem título no original
 
 - **Art. 4º, Tabela 1, linha 1** {#art4_tab1_lin1} 1º Obtenção a Anuência Prévia | 2º Emissão da LAC ou LAS ou DLAM | 3º Obtenção da Outorga de Direito ou Declaração de uso independente de Outorga
-- **Art. 4º, caput, inciso II** {#art4_cpt_inc2} #poco Para poços já perfurados:
+- **Art. 4º, caput, inciso II** {#art4_cpt_inc2} Para poços já perfurados:
 
 **Art. 4º, Tabela 2** {#art4_tab2} quadro de etapas do inciso II (poços já perfurados), sem título no original
 
 - **Art. 4º, Tabela 2, linha 1** {#art4_tab2_lin1} 1º Obtenção da Outorga de Prévia ou Declaração de uso independente de Outorga | 2º Emissão da LAC ou LAS ou DLAM | 3º Obtenção da Outorga de Direito
 
-**Art. 4º, parágrafo único** {#art4_par1u} #condicionante A apresentação da respectiva Outorga de Direito deverá constar como condicionante na respectiva Licença Ambiental.
+**Art. 4º, parágrafo único** {#art4_par1u} A apresentação da respectiva Outorga de Direito deverá constar como condicionante na respectiva Licença Ambiental.
 
 ###### Art. 5º {#art5}
-Tags: #licenciamento-trifasico #outorga #agua-subterranea #anuencia-previa #lp #li #lo
 
 **Art. 5º, caput** {#art5_cpt} Os procedimentos de integração de Licenciamento Ambiental e Outorga para captação subterrânea para licenciamento ambiental trifásico se dará de acordo com os critérios abaixo:
 
@@ -103,15 +98,14 @@ Tags: #licenciamento-trifasico #outorga #agua-subterranea #anuencia-previa #lp #
 - **Art. 5º, Tabela 3, linha 1** {#art5_tab3_lin1} 1º Obtenção da Anuência Prévia | 2º Emissão da Licença Prévia | 3º Obtenção da Outorga de Direito ou Declaração de uso independente de Outorga | 4º Emissão da Licença de Instalação | 5º Emissão da Licença de Operação
 
 ###### Art. 6º {#art6}
-Tags: #regularizacao #outorga #renovacao #licenca-vencida #condicionante #uso-insignificante #dispensa
 
 **Art. 6º, caput** {#art6_cpt} Os procedimentos de integração de Licenciamento Ambiental e Outorga para captação subterrânea para licenciamento ambiental de Regularização se dará de acordo com os critérios abaixo:
-- **Art. 6º, caput, inciso I** {#art6_cpt_inc1} #renovacao Usuário não possui Outorga, mas possui licença ambiental e necessita realizar a sua renovação:
+- **Art. 6º, caput, inciso I** {#art6_cpt_inc1} Usuário não possui Outorga, mas possui licença ambiental e necessita realizar a sua renovação:
 
 **Art. 6º, Tabela 4** {#art6_tab4} quadro de etapas do inciso I (renovação), sem título no original
 
 - **Art. 6º, Tabela 4, linha 1** {#art6_tab4_lin1} 1° Protocola pedido de renovação de licença ambiental | 2º Protocola pedido de Outorga de Direito com protocolo de renovação de licenciamento | 3º Obtenção da Outorga de Direito ou Declaração de uso independente de Outorga | 4º Emissão da Licença de Renovação (DLAM, LAC, LAS ou LO)
-- **Art. 6º, caput, inciso II** {#art6_cpt_inc2} #licenca-vencida Usuário não possui Outorga, mas possui licença ambiental vencida (DLAM, LAC, LAS e LO):
+- **Art. 6º, caput, inciso II** {#art6_cpt_inc2} Usuário não possui Outorga, mas possui licença ambiental vencida (DLAM, LAC, LAS e LO):
 
 **Art. 6º, Tabela 5** {#art6_tab5} quadro de etapas do inciso II (licença vencida), sem título no original
 
@@ -122,44 +116,37 @@ Tags: #regularizacao #outorga #renovacao #licenca-vencida #condicionante #uso-in
 
 - **Art. 6º, Tabela 6, linha 1** {#art6_tab6_lin1} 1° Obtenção da Outorga Prévia ou Declaração de uso independente de Outorga | 2° Emissão da DLAM, LAC, LIR, LASR ou LOR | 3° Obtenção da Outorga de Direito
 
-**Art. 6º, § 1º** {#art6_par1} #condicionante A apresentação da respectiva Outorga de Direito deverá constar como condicionante na respectiva Licença Ambiental.
+**Art. 6º, § 1º** {#art6_par1} A apresentação da respectiva Outorga de Direito deverá constar como condicionante na respectiva Licença Ambiental.
 
-**Art. 6º, § 2º** {#art6_par2} #uso-insignificante #dispensa Caso a captação subterrânea seja de uso independente de Outorga a apresentação da Outorga de direito deverá ser dispensada.
+**Art. 6º, § 2º** {#art6_par2} Caso a captação subterrânea seja de uso independente de Outorga a apresentação da Outorga de direito deverá ser dispensada.
 
 ###### Art. 7º {#art7}
-Tags: #renovacao #outorga #condicionante #vazao
 
 **Art. 7º, caput** {#art7_cpt} Nos casos de renovação de licenciamento ambiental em que a Portaria de Outorga de Direito de captação subterrânea esteja em processo de renovação, a sua apresentação poderá ser condicionada, a critério do técnico licenciador, sem prejuízo à continuidade da análise do licenciamento ambiental.
 
 **Art. 7º, parágrafo único** {#art7_par1u} Caso a renovação da outorga implique em redução de vazão diária da captação subterrânea, a Gerência de Outorga deverá informar a Gerência de Licenciamento ou o Respectivo Escritório Regional via e-protocolo para retificação da Licença Ambiental.
 
 ###### Art. 8º {#art8}
-Tags: #complementacao #documentacao
 
 **Art. 8º, caput** {#art8_cpt} O Instituto Água e Terra poderá solicitar outros documentos e/ou informações complementares do requerente ou de outras instituições envolvidas no licenciamento ambiental em questão, caso haja necessidade.
 
 ###### Art. 9º {#art9}
-Tags: #alteracao #recurso-hidrico
 
 **Art. 9º, caput** {#art9_cpt} Qualquer alteração nos dados técnicos ou operacionais do empreendimento quando houver a utilização dos recursos hídricos e as suas possíveis interferências em outros usos, deverá ser submetida à análise do Instituto Água e Terra.
 
 ###### Art. 10 {#art10}
-Tags: #suspensao-processo #prazo
 
 **Art. 10, caput** {#art10_cpt} Constatada a existência de pendência judicial envolvendo o empreendedor, o empreendimento ou o imóvel, a decisão administrativa sobre a eventual suspensão do licenciamento será precedida de manifestação jurídica do órgão ambiental competente no prazo máximo de 30 (trinta) dias.
 
 ###### Art. 11 {#art11}
-Tags: #sancao #infracao-ambiental
 
 **Art. 11, caput** {#art11_cpt} O não cumprimento do disposto nesta Instrução Normativa sujeitará os infratores às sanções previstas nas [[lei-federal-6938-1981|Leis Federais n.º 6.938 de 31 de agosto de 1981]], [[lei-federal-9605-1998|n.º 9.605 de 12 de fevereiro de 1998]], [[decreto-federal-6514-2008|Decreto Federal 6.514 de 06 de julho de 2008]] e demais instrumentos normativos pertinentes, sem prejuízo ao dever de recuperar os danos ambientais causados, na forma do [[constituicao-federal-1988#art225_par3|Art. 225, §3º, da Constituição Federal]], e do [[lei-federal-6938-1981#art14_par1|Art. 14, § 1°, da Lei Federal n. 6.938, de 1981]].
 
 ###### Art. 12 {#art12}
-Tags: #casos-omissos
 
 **Art. 12, caput** {#art12_cpt} Os casos omissos ou situações não previstas nesta Instrução Normativa serão analisados pelo Instituto Água e Terra - IAT e enquadrados na legislação ambiental vigente conforme as características particulares de cada empreendimento.
 
 ###### Art. 13 {#art13}
-Tags: #vigencia
 
 **Art. 13, caput** {#art13_cpt} Esta Instrução Normativa entra em vigor na data de sua publicação.
 

@@ -43,7 +43,6 @@ Considerando a insuficiência e ineficácia de capacidade de resposta frente a e
 
 
 ###### Art. 1º {#art1}
-Tags: #posto-combustivel #licenciamento-ambiental #ampliacao #encerramento #dispensa
 
 **Art. 1º, caput** {#art1_cpt} A localização, construção, instalação, modificação, ampliação e operação de postos revendedores, postos de abastecimento, instalações de sistemas retalhistas e postos flutuantes de combustíveis dependerão de prévio licenciamento do órgão ambiental competente, sem prejuízo de outras licenças legalmente exigíveis.
 
@@ -56,7 +55,6 @@ Tags: #posto-combustivel #licenciamento-ambiental #ampliacao #encerramento #disp
 **Art. 1º, § 4º** {#art1_par4} Para efeito desta Resolução, ficam dispensadas dos licenciamentos as instalações aéreas com capacidade total de armazenagem de até quinze m3, inclusive, destinadas exclusivamente ao abastecimento do detentor das instalações, devendo ser construídas de acordo com as normas técnicas brasileiras em vigor, ou na ausência delas, normas internacionalmente aceitas.
 
 ###### Art. 2º {#art2}
-Tags: #posto-combustivel #definicao
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução são adotadas as seguintes definições:
 
@@ -66,7 +64,7 @@ Tags: #posto-combustivel #definicao
 - **Art. 2º, caput, inciso IV** {#art2_cpt_inc4} Posto Flutuante-PF: Toda embarcação sem propulsão empregada para o armazenamento, distribuição e comércio de combustíveis que opera em local fixo e determinado. o
 
 ###### Art. 3º {#art3}
-Tags: #certificacao #tanque-subterraneo #redacao-alterada
+Tags: #redacao-alterada
 Alterações: [[resolucao-conama-319-2002|Resolução CONAMA nº 319/2002]] (nova redação do caput e do parágrafo único)
 
 **Art. 3º, caput** {#art3_cpt} Os equipamentos e sistemas destinados ao armazenamento e a distribuição de combustíveis automotivos, assim como sua montagem e instalação, deverão ser avaliados quanto à sua conformidade, no âmbito do Sistema Brasileiro de Avaliação da Conformidade. (nova redação dada pela Resolução nº 319/02)
@@ -74,7 +72,6 @@ Alterações: [[resolucao-conama-319-2002|Resolução CONAMA nº 319/2002]] (nov
 **Art. 3º, parágrafo único** {#art3_par1u} Previamente à entrada em operação e com periodicidade não superior a cinco anos, os equipamentos e sistemas, a que se refere o caput deste artigo deverão ser testados e ensaiados para a comprovação da inexistência de falhas ou vazamentos, segundo procedimentos padronizados, de forma a possibilitar a avaliação de sua conformidade, no âmbito do Sistema Brasileiro de Avaliação da Conformidade. (nova redação dada pela Resolução nº 319/02)
 
 ###### Art. 4º {#art4}
-Tags: #licenciamento-ambiental #lp #li #lo #condicionante
 
 **Art. 4º, caput** {#art4_cpt} O órgão ambiental competente exigirá as seguintes licenças ambientais:
 
@@ -87,7 +84,6 @@ Tags: #licenciamento-ambiental #lp #li #lo #condicionante
 **Art. 4º, § 2º** {#art4_par2} Os estabelecimentos definidos no [[#art2|art. 2º]] que estiverem em operação na data de publicação desta Resolução, ficam também obrigados à obtenção da licença de operação.
 
 ###### Art. 5º {#art5}
-Tags: #licenciamento-ambiental #tanque-subterraneo #plano-emergencia #corpo-bombeiros #oleo-lubrificante #passivo-ambiental #certificacao
 
 **Art. 5º, caput** {#art5_cpt} O órgão ambiental competente exigirá para o licenciamento ambiental dos estabelecimentos contemplados nesta Resolução, no mínimo, os seguintes documentos:
 
@@ -121,7 +117,7 @@ Tags: #licenciamento-ambiental #tanque-subterraneo #plano-emergencia #corpo-bomb
 **Art. 5º, § 2º** {#art5_par2} Os estabelecimentos abrangidos por esta Resolução ficam proibidos de utilizarem tanques recuperados em instalações subterrâneas-SASCs.
 
 ###### Art. 6º {#art6}
-Tags: #cadastro #prazo #redacao-alterada
+Tags: #redacao-alterada
 Alterações: [[resolucao-conama-276-2001|Resolução CONAMA nº 276/2001]] (prazo do § 1º prorrogado por mais 90 dias)
 
 **Art. 6º, caput** {#art6_cpt} Caberá ao órgão ambiental competente definir a agenda para o licenciamento ambiental dos empreendimentos identificados no [[#art1|art. 1º]] em operação na data de publicação desta Resolução.
@@ -131,12 +127,10 @@ Alterações: [[resolucao-conama-276-2001|Resolução CONAMA nº 276/2001]] (pra
 **Art. 6º, § 2º** {#art6_par2} Vencido o prazo de cadastramento, os órgãos competentes terão prazo de seis meses para elaborar suas agendas e critérios de licenciamento ambiental, resultante da atribuição de prioridades com base nas informações cadastrais.
 
 ###### Art. 7º {#art7}
-Tags: #fiscalizacao
 
 **Art. 7º, caput** {#art7_cpt} Caberá ao órgão ambiental licenciador, exercer as atividades de fiscalização dos empreendimentos de acordo com sua competência estabelecida na legislação em vigor.
 
 ###### Art. 8º {#art8}
-Tags: #responsabilidade #passivo-ambiental #tanque-subterraneo #plano-emergencia
 
 **Art. 8º, caput** {#art8_cpt} Em caso de acidentes ou vazamentos que representem situações de perigo ao meio ambiente ou a pessoas, bem como na ocorrência de passivos ambientais, os proprietários, arrendatários ou responsáveis pelo estabelecimento, pelos equipamentos, pelos sistemas e os fornecedores de combustível que abastecem ou abasteceram a unidade, responderão solidariamente, pela adoção de medidas para controle da situação emergencial, e para o saneamento das áreas impactadas, de acordo com as exigências formuladas pelo órgão ambiental licenciador.
 
@@ -151,7 +145,7 @@ Tags: #responsabilidade #passivo-ambiental #tanque-subterraneo #plano-emergencia
 **Art. 8º, § 5º** {#art8_par5} Responderão pela reparação dos danos oriundos de acidentes ou vazamentos de combustíveis, os proprietários, arrendatários ou responsáveis pelo estabelecimento e/ou equipamentos e sistemas, desde a época da ocorrência. o o
 
 ###### Art. 9º {#art9}
-Tags: #certificacao #prazo #redacao-alterada
+Tags: #redacao-alterada
 Alterações: [[resolucao-conama-319-2002|Resolução CONAMA nº 319/2002]] (nova redação do caput e do parágrafo único)
 
 **Art. 9º, caput** {#art9_cpt} Os Certificados de conformidade, no âmbito do Sistema Brasileiro de Avaliação da Conformidade, referidos no [[#art3|art. 3º]], terão sua exigibilidade em vigor a partir de 1° de janeiro de 2004 para postos revendedores e 1° de julho de 2004 para os demais estabelecimentos. (nova redação dada pela Resolução nº 319/02)
@@ -159,22 +153,18 @@ Alterações: [[resolucao-conama-319-2002|Resolução CONAMA nº 319/2002]] (nov
 **Art. 9º, parágrafo único** {#art9_par1u} Até 31 de dezembro de 2003 para postos revendedores e até 30 de junho de 2004 para os demais estabelecimentos, o órgão ambiental competente, responsável pela emissão das licenças, poderá exigir, em substituição aos certificados mencionados no caput deste artigo, laudos técnicos, atestando que a fabricação, montagem e instalação dos equipamentos e sistemas e testes aludidos nesta Resolução, estão em conformidade com as normas técnicas exigidas pela ABNT e, na ausência destas, por regulamentos técnicos do Sistema Brasileiro de Avaliação da Conformidade, ou por diretrizes definidas pelo órgão ambiental competente. (nova redação dada pela Resolução nº 319/02)
 
 ###### Art. 10 {#art10}
-Tags: #certificacao
 
 **Art. 10, caput** {#art10_cpt} O Ministério do Meio Ambiente deverá formalizar, em até sessenta dias, contados a partir da publicação desta Resolução, junto ao Instituto Nacional de Metrologia, Normatização e Qualidade Industrial-INMETRO, a lista de equipamentos, sistemas e serviços que deverão ser objeto de certificação, no âmbito do Sistema Brasileiro de Certificação.
 
 ###### Art. 11 {#art11}
-Tags: #competencia
 
 **Art. 11, caput** {#art11_cpt} A cada ano, no segundo trimestre, a partir de 2003, o Ministério do Meio Ambiente deverá fornecer ao CONAMA informações sobre a evolução de execuções das medidas previstas nesta Resolução, por Estado, acompanhadas das análises pertinentes.
 
 ###### Art. 12 {#art12}
-Tags: #sancao
 
 **Art. 12, caput** {#art12_cpt} O não cumprimento do disposto nesta Resolução sujeitará os infratores às sanções previstas nas Leis nºs [[lei-federal-6938-1981|6.938, de 31 de agosto de 1981]]; [[lei-federal-9605-1998|9.605, de 12 de fevereiro de 1998]] e no [[decreto-federal-3179-1999|Decreto nº 3.179, de 21 de setembro de 1999]].
 
 ###### Art. 13 {#art13}
-Tags: #vigencia
 
 **Art. 13, caput** {#art13_cpt} Esta Resolução entra em vigor na data de sua publicação.
 
@@ -187,7 +177,6 @@ Tags: #vigencia
 > Tipos conforme as regras de anexos do README: **tipo 1** (modelo) só com o nome. Esta Resolução não tem anexo do tipo 2 nem do tipo 3.
 
 ### ANEXO I – INFORMAÇÕES MÍNIMAS PARA O CADASTRAMENTO {#anexo1}
-Tags: #cadastro-posto-combustivel
 
 Modelo de formulário de cadastro de postos revendedores, postos de abastecimento, instalações de sistemas retalhistas e postos flutuantes de combustíveis (informações mínimas para o cadastramento). *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art6_par1|Art. 6º, § 1º]].)*
 

@@ -29,7 +29,6 @@ fonte: "PDF da publicação Resoluções do CONAMA (Licenciamento Ambiental – 
 **Preâmbulo** {#preambulo} O CONSELHO NACIONAL DO MEIO AMBIENTE - CONAMA, no uso das atribuições que lhe confere o [[decreto-federal-88351-1983#art48|artigo 48 do Decreto nº 88.351, de 1º de junho de 1983]], <sup>156</sup>para efetivo exercício das responsabilidades que lhe são atribuídas pelo artigo 18 do mesmo decreto, e Considerando a necessidade de se estabelecerem as definições, as responsabilidades, os critérios básicos e as diretrizes gerais para uso e implementação da Avaliação de Impacto Ambiental como um dos instrumentos da Política Nacional do Meio Ambiente, resolve:
 
 ###### Art. 1º {#art1}
-Tags: #impacto-ambiental #definicao
 
 **Art. 1º, caput** {#art1_cpt} Para efeito desta Resolução, considera-se impacto ambiental qualquer alteração das propriedades físicas, químicas e biológicas do meio ambiente, causada por qualquer forma de matéria ou energia resultante das atividades humanas que, direta ou indiretamente, afetam:
 - **Art. 1º, caput, inciso I** {#art1_cpt_inc1} a saúde, a segurança e o bem-estar da população;
@@ -39,7 +38,6 @@ Tags: #impacto-ambiental #definicao
 - **Art. 1º, caput, inciso V** {#art1_cpt_inc5} a qualidade dos recursos ambientais.
 
 ###### Art. 2º {#art2}
-Tags: #eia-rima #licenciamento-ambiental #mineracao #porto #aeroporto #carvao-vegetal
 Alterações: [[resolucao-conama-11-1986|Resolução CONAMA nº 11/1986]] (nova redação do inciso XVI; inciso XVII incluído); [[resolucao-conama-5-1987|Resolução CONAMA nº 5/1987]] (inciso XVIII incluído)
 
 **Art. 2º, caput** {#art2_cpt} Dependerá de elaboração de estudo de impacto ambiental e respectivo relatório de impacto ambiental - RIMA, a serem submetidos à aprovação do órgão estadual competente, e da Secretaria Especial do Meio Ambiente - SEMA<sup>157</sup> em caráter supletivo, o licenciamento de atividades modificadoras do meio ambiente, tais como:
@@ -63,18 +61,15 @@ Alterações: [[resolucao-conama-11-1986|Resolução CONAMA nº 11/1986]] (nova 
 - **Art. 2º, caput, inciso XVIII** {#art2_cpt_inc18} Empreendimentso potencialmente lesivos ao patrimônio espeleológico nacional. #incluido *(Incluído pela [[resolucao-conama-5-1987|Resolução CONAMA nº 5/1987]])*
 
 ###### Art. 3º {#art3}
-Tags: #eia-rima #revogacao #impacto-ambiental
 Alterações: [[resolucao-conama-237-1997|Resolução CONAMA nº 237/1997]] (revogado)
 
 **Art. 3º, caput** {#art3_cpt} #revogado *(Revogado pela [[resolucao-conama-237-1997|Resolução CONAMA nº 237/1997]])*
 
 ###### Art. 4º {#art4}
-Tags: #licenciamento-ambiental #competencia
 
 **Art. 4º, caput** {#art4_cpt} Os órgãos ambientais competentes e os órgãos setoriais do SISNAMA deverão compatibilizar os processos de licenciamento com as etapas de planejamento e implantação das atividades modificadoras do meio ambiente, respeitados os critérios e diretrizes estabelecidos por esta Resolução e tendo por base a natureza o porte e as peculiaridades de cada atividade.
 
 ###### Art. 5º {#art5}
-Tags: #eia-rima #competencia #impacto-ambiental
 
 **Art. 5º, caput** {#art5_cpt} O estudo de impacto ambiental, além de atender à legislação, em especial os princípios e objetivos expressos na Lei de Política Nacional do Meio Ambiente, obedecerá às seguintes diretrizes gerais:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} Contemplar todas as alternativas tecnológicas e de localização do projeto, confrontando-as com a hipótese de não execução do projeto;
@@ -85,7 +80,6 @@ Tags: #eia-rima #competencia #impacto-ambiental
 **Art. 5º, parágrafo único** {#art5_par1u} Ao determinar a execução do estudo de impacto ambiental o órgão estadual competente, ou a SEMA ou, no que couber ao Município <sup>161</sup>, fixará as diretrizes adicionais que, pelas peculiaridades do projeto e características ambientais da área, forem julgadas necessárias, inclusive os prazos para conclusão e análise dos estudos.
 
 ###### Art. 6º {#art6}
-Tags: #eia-rima #app #competencia #impacto-ambiental #medida-mitigadora #monitoramento
 
 **Art. 6º, caput** {#art6_cpt} O estudo de impacto ambiental desenvolverá, no mínimo, as seguintes atividades técnicas:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} Diagnóstico ambiental da área de influência do projeto completa descrição e análise dos recursos ambientais e suas interações, tal como existem, de modo a caracterizar a situação ambiental da área, antes da implantação do projeto, considerando:
@@ -99,18 +93,15 @@ Tags: #eia-rima #app #competencia #impacto-ambiental #medida-mitigadora #monitor
 **Art. 6º, parágrafo único** {#art6_par1u} Ao determinar a execução do estudo de impacto ambiental, o órgão estadual competente; ou a SEMA ou quando couber, o Município fornecerá as instruções adicionais que se fizerem necessárias, pelas peculiaridades do projeto e características ambientais da área.
 
 ###### Art. 7º {#art7}
-Tags: #eia-rima #revogacao #impacto-ambiental
 Alterações: [[resolucao-conama-237-1997|Resolução CONAMA nº 237/1997]] (revogado)
 
 **Art. 7º, caput** {#art7_cpt} #revogado *(Revogado pela [[resolucao-conama-237-1997|Resolução CONAMA nº 237/1997]])*
 
 ###### Art. 8º {#art8}
-Tags: #eia-rima #responsabilidade
 
 **Art. 8º, caput** {#art8_cpt} Correrão por conta do proponente do projeto todas as despesas e custos referentes à realização do estudo de impacto ambiental, tais como: coleta e aquisição dos dados e informações, trabalhos e inspeções de campo, análises de laboratório, estudos técnicos e científicos e acompanhamento e monitoramento dos impactos, elaboração do RIMA e fornecimento de pelo menos 5 (cinco) cópias.
 
 ###### Art. 9º {#art9}
-Tags: #eia-rima #efluente #impacto-ambiental #medida-mitigadora #monitoramento
 
 **Art. 9º, caput** {#art9_cpt} O relatório de impacto ambiental - RIMA refletirá as conclusões do estudo de impacto ambiental e conterá, no mínimo:
 - **Art. 9º, caput, inciso I** {#art9_cpt_inc1} Os objetivos e justificativas do projeto, sua relação e compatibilidade com as políticas setoriais, planos e programas governamentais;
@@ -125,20 +116,17 @@ Tags: #eia-rima #efluente #impacto-ambiental #medida-mitigadora #monitoramento
 **Art. 9º, parágrafo único** {#art9_par1u} O RIMA deve ser apresentado de forma objetiva e adequada a sua compreensão. As informações devem ser traduzidas em linguagem acessível, ilustradas por mapas, cartas, quadros, gráficos e demais técnicas de comunicação visual, de modo que se possam entender as vantagens e desvantagens do projeto, bem como todas as conseqüências ambientais de sua implementação.
 
 ###### Art. 10 {#art10}
-Tags: #eia-rima #prazo #competencia
 
 **Art. 10, caput** {#art10_cpt} O órgão estadual competente, ou a SEMA ou, quando couber, o Município terá um prazo para se manifestar de forma conclusiva sobre o RIMA apresentado.
 **Art. 10, parágrafo único** {#art10_par1u} O prazo a que se refere o caput deste artigo terá o seu termo inicial na data do recebimento pelo órgão estadual competente ou pela SEMA do estudo do impacto ambiental e seu respectivo RIMA.
 
 ###### Art. 11 {#art11}
-Tags: #eia-rima #audiencia-publica #prazo #competencia #impacto-ambiental
 
 **Art. 11, caput** {#art11_cpt} Respeitado o sigilo industrial, assim solicitando e demonstrando pelo interessado o RIMA será acessível ao público. Suas cópias permanecerão à disposição dos interessados, nos centros de documentação ou bibliotecas da SEMA e do órgão estadual de controle ambiental correspondente, inclusive durante o período de análise técnica.
 **Art. 11, § 1º** {#art11_par1} Os órgãos públicos que manifestarem interesse, ou tiverem relação direta com o projeto, receberão cópia do RIMA, para conhecimento e manifestação.
 **Art. 11, § 2º** {#art11_par2} Ao determinar a execução do estudo de impacto ambiental e apresentação do RIMA, o órgão estadual competente ou a SEMA ou, quando couber o Município, determinará o prazo para recebimento dos comentários a serem feitos pelos órgãos públicos e demais interessados e, sempre que julgar necessário, promoverá a realização de audiência pública para informação sobre o projeto e seus impactos ambientais e discussão do RIMA.
 
 ###### Art. 12 {#art12}
-Tags: #vigencia
 
 **Art. 12, caput** {#art12_cpt} Esta Resolução entra em vigor na data de sua publicação.
 

@@ -39,46 +39,46 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo IX, linha 18** {#anexo9_lin18} 3.1. Nome do empreendimento
 - **Anexo IX, linha 19** {#anexo9_lin19} 3.2. Modalidade do empreendimento e porte
 - **Anexo IX, linha 20** {#anexo9_lin20} 3.3. Mapa de situação do empreendimento com imagem aérea atualizada, em Datum SIRGAS 2000, projeção UTM e contendo, no mínimo:
-- **Anexo IX, linha 21** {#anexo9_lin21} #car a) Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural (em caso de imóvel rural);
-- **Anexo IX, linha 22** {#anexo9_lin22} #area-influencia b) Área Diretamente Afetada, Área de Influência Direta e Área de Influência Indireta;
+- **Anexo IX, linha 21** {#anexo9_lin21} a) Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural (em caso de imóvel rural);
+- **Anexo IX, linha 22** {#anexo9_lin22} b) Área Diretamente Afetada, Área de Influência Direta e Área de Influência Indireta;
 - **Anexo IX, linha 23** {#anexo9_lin23} c) Estruturas físicas;
 - **Anexo IX, linha 24** {#anexo9_lin24} d) Distância dos corpos hídricos;
-- **Anexo IX, linha 25** {#anexo9_lin25} #app e) Áreas de preservação permanente;
-- **Anexo IX, linha 26** {#anexo9_lin26} #reserva-legal #area-verde-urbana f) Áreas de Reserva Legal (se imóvel rural), Área Verde Urbana (se imóvel urbano) e maciços florestais remanescentes;
+- **Anexo IX, linha 25** {#anexo9_lin25} e) Áreas de preservação permanente;
+- **Anexo IX, linha 26** {#anexo9_lin26} f) Áreas de Reserva Legal (se imóvel rural), Área Verde Urbana (se imóvel urbano) e maciços florestais remanescentes;
 - **Anexo IX, linha 27** {#anexo9_lin27} g) Vias de acesso principais;
 - **Anexo IX, linha 28** {#anexo9_lin28} h) Pontos de referências e áreas de restrição, considerando as disposições [[instrucao-normativa-iat-28-2025|desta Instrução Normativa]];
 - **Anexo IX, linha 29** {#anexo9_lin29} i) Arquivos vetoriais (formato .kml/.kmz) dos componentes exigidos nas alíneas anteriores.
 - **Anexo IX, linha 30** {#anexo9_lin30} 3.4. Relatório fotográfico contendo no mínimo 10 fotografias da área do empreendimento, com vários ângulos do terreno e respectiva localização, em planta, com suas respectivas coordenadas geográficas, do local onde foram tiradas (apresentar o sistema de projeção das coordenadas geográficas).
-- **Anexo IX, linha 31** {#anexo9_lin31} #area-contaminada 3.5. Informação relativa ao histórico de uso do imóvel com enfoque na identificação de atividades potencialmente geradoras de áreas contaminadas.
+- **Anexo IX, linha 31** {#anexo9_lin31} 3.5. Informação relativa ao histórico de uso do imóvel com enfoque na identificação de atividades potencialmente geradoras de áreas contaminadas.
 - **Anexo IX, linha 32** {#anexo9_lin32} 4 IDENTIFICAÇÃO PRELIMINAR DOS IMPACTOS DECORRENTES DO EMPREENDIMENTO
 - **Anexo IX, linha 33** {#anexo9_lin33} 4.1. MATÉRIAS–PRIMAS
-- **Anexo IX, linha 34** {#anexo9_lin34} #agrotoxico Apresentar listagem preliminar das classes de produtos conforme estabelecido na [[portaria-ibama-84-1996|Portaria IBAMA nº 84/1996]], bem, como sua aplicabilidade (herbicida, inseticida, fungicida, acaricida, etc.) e quantidades máximas estáticas.
+- **Anexo IX, linha 34** {#anexo9_lin34} Apresentar listagem preliminar das classes de produtos conforme estabelecido na [[portaria-ibama-84-1996|Portaria IBAMA nº 84/1996]], bem, como sua aplicabilidade (herbicida, inseticida, fungicida, acaricida, etc.) e quantidades máximas estáticas.
 - **Anexo IX, linha 35** {#anexo9_lin35} 4.2. EMISSÕES ATMOSFÉRICAS
-- **Anexo IX, linha 36** {#anexo9_lin36} #emissao-atmosferica #qualidade-ar • Projeção de impactos relacionados à qualidade do ar, com descritivo das possíveis fontes geradoras e suas características de funcionamento (potência nominal, horas de funcionamento, localização prevista, etc.)
+- **Anexo IX, linha 36** {#anexo9_lin36} • Projeção de impactos relacionados à qualidade do ar, com descritivo das possíveis fontes geradoras e suas características de funcionamento (potência nominal, horas de funcionamento, localização prevista, etc.)
 - **Anexo IX, linha 37** {#anexo9_lin37} 4.3. GERAÇÃO DE RESÍDUOS SÓLIDOS
-- **Anexo IX, linha 38** {#anexo9_lin38} #residuo-solido • Previsão de geração de resíduos sólidos, informando, minimamente:
+- **Anexo IX, linha 38** {#anexo9_lin38} • Previsão de geração de resíduos sólidos, informando, minimamente:
 - **Anexo IX, linha 39** {#anexo9_lin39} o Código IBAMA;
 - **Anexo IX, linha 40** {#anexo9_lin40} o Resíduo Específico;
 - **Anexo IX, linha 41** {#anexo9_lin41} o Local de Geração;
 - **Anexo IX, linha 42** {#anexo9_lin42} o Quantidade gerada por dia;
 - **Anexo IX, linha 43** {#anexo9_lin43} o Local de acondicionamento;
 - **Anexo IX, linha 44** {#anexo9_lin44} o Tratamento (Se houver);
-- **Anexo IX, linha 45** {#anexo9_lin45} #logistica-reversa o Destinação e programa de logística reversa;
+- **Anexo IX, linha 45** {#anexo9_lin45} o Destinação e programa de logística reversa;
 - **Anexo IX, linha 46** {#anexo9_lin46} 4.4. IMPACTO NO TERRENO
-- **Anexo IX, linha 47** {#anexo9_lin47} #terraplanagem • Projeto básico de terraplenagem, se houver movimentação de solo;
+- **Anexo IX, linha 47** {#anexo9_lin47} • Projeto básico de terraplenagem, se houver movimentação de solo;
 - **Anexo IX, linha 48** {#anexo9_lin48} • Layout preliminar do empreendimento, inclusive com disponibilização de informações dos arquivos vetoriais;
 - **Anexo IX, linha 49** {#anexo9_lin49} • Informações referentes à topografia do local de implantação do empreendimento;
 - **Anexo IX, linha 50** {#anexo9_lin50} • Alterações paisagísticas gerais do empreendimento.
 - **Anexo IX, linha 51** {#anexo9_lin51} 4.5. IMPACTO EM CURSOS HÍDRICOS
-- **Anexo IX, linha 52** {#anexo9_lin52} #outorga #outorga-previa • Informação a respeito de captação de água subterrânea ou superficial, com vazão estimada e a respectiva outorga prévia ou declaração de uso independente;
-- **Anexo IX, linha 53** {#anexo9_lin53} #outorga #outorga-previa • Informação a respeito de lançamento de efluente em corpos hídricos, com vazão estimada e respectiva outorga prévia ou declaração de uso independente;
+- **Anexo IX, linha 52** {#anexo9_lin52} • Informação a respeito de captação de água subterrânea ou superficial, com vazão estimada e a respectiva outorga prévia ou declaração de uso independente;
+- **Anexo IX, linha 53** {#anexo9_lin53} • Informação a respeito de lançamento de efluente em corpos hídricos, com vazão estimada e respectiva outorga prévia ou declaração de uso independente;
 - **Anexo IX, linha 54** {#anexo9_lin54} • Citar possíveis fontes de contaminação ou alteração da qualidade da água resultante do processo do empreendimento.
 - **Anexo IX, linha 55** {#anexo9_lin55} 4.6. IMPACTO EM FLORA E FAUNA
-- **Anexo IX, linha 56** {#anexo9_lin56} #flora • Laudo Florestal para caracterização de flora conforme [[resolucao-conama-2-1994|Resolução CONAMA nº 02/1994]] para o Bioma Mata Atlântica. Se for área localizada em Bioma Cerrado, apresentar caracterização da vegetação existente;
-- **Anexo IX, linha 57** {#anexo9_lin57} #supressao-vegetacao #especie-ameacada • Se necessitar de supressão vegetal, apresentar estimativa de volume de lenha, torete e tora (em m³), além da caracterização quanto a presença de espécies ameaçadas de acordo com a Lista Vermelha do Instituto Água e Terra e do Ministério do Meio Ambiente;
-- **Anexo IX, linha 58** {#anexo9_lin58} #fauna • Levantamento de fauna em conformidade à [[portaria-iat-12-2024|Portaria IAT nº 012/2024]] ou outra que vier substituí-la.
+- **Anexo IX, linha 56** {#anexo9_lin56} • Laudo Florestal para caracterização de flora conforme [[resolucao-conama-2-1994|Resolução CONAMA nº 02/1994]] para o Bioma Mata Atlântica. Se for área localizada em Bioma Cerrado, apresentar caracterização da vegetação existente;
+- **Anexo IX, linha 57** {#anexo9_lin57} • Se necessitar de supressão vegetal, apresentar estimativa de volume de lenha, torete e tora (em m³), além da caracterização quanto a presença de espécies ameaçadas de acordo com a Lista Vermelha do Instituto Água e Terra e do Ministério do Meio Ambiente;
+- **Anexo IX, linha 58** {#anexo9_lin58} • Levantamento de fauna em conformidade à [[portaria-iat-12-2024|Portaria IAT nº 012/2024]] ou outra que vier substituí-la.
 - **Anexo IX, linha 59** {#anexo9_lin59} 4.7. IMPACTO NA GERAÇÃO DE RUÍDO
-- **Anexo IX, linha 60** {#anexo9_lin60} #poluicao-sonora • Levantamento preliminar dos impactos à poluição sonora, informando as principais fontes de emissão e fontes receptoras.
+- **Anexo IX, linha 60** {#anexo9_lin60} • Levantamento preliminar dos impactos à poluição sonora, informando as principais fontes de emissão e fontes receptoras.
 - **Anexo IX, linha 61** {#anexo9_lin61} 4.8. IMPACTO SOCIOECONÔMICO
 - **Anexo IX, linha 62** {#anexo9_lin62} Estudos do meio socioeconômico da região onde o lote encontra–se localizado, abrangendo os seguintes pontos de vistas e seus respectivos conteúdos:
 - **Anexo IX, linha 63** {#anexo9_lin63} − Condições sociais e econômicas da população;
@@ -102,7 +102,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo IX, linha 81** {#anexo9_lin81} Qualquer impacto que prospecte óbito de qualquer espécie animal deverá ser considerado “catastrófico” ou a nomenclatura que identifique a maior severidade.
 - **Anexo IX, linha 82** {#anexo9_lin82} 6 CONCLUSÕES
 - **Anexo IX, linha 83** {#anexo9_lin83} Apresentar as conclusões do Relatório Ambiental Preliminar (RAP), com base nos resultados obtidos na avaliação dos impactos ambientais, devendo esclarecer, sob o aspecto ambiental, a viabilidade ou não do empreendimento.
-- **Anexo IX, linha 84** {#anexo9_lin84} #art-anotacao 7 ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA
+- **Anexo IX, linha 84** {#anexo9_lin84} 7 ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA
 - **Anexo IX, linha 85** {#anexo9_lin85} 8 REFERÊNCIAS BIBLIOGRÁFICAS
 - **Anexo IX, linha 86** {#anexo9_lin86} Citar as referências consultadas, incluindo as páginas eletrônicas com data e hora do acesso, segundo as normas de publicação de trabalhos científicos da Associação Brasileira de Normas Técnicas – ABNT
 

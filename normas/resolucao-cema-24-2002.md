@@ -31,32 +31,26 @@ fonte: "PDF enviado por Leo, com camada de texto íntegra. O PDF não traz data 
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #auditoria #chumbo #prazo
 
 **Art. 1º, caput** {#art1_cpt} As empresas com atividade na área de manipulação de chumbo e seus derivados, localizadas no estado do Paraná, deverão realizar auditoria ambiental independente em suas instalações industriais, até 19/12/2002, nos termos do § 2º, do art. 1º, da [[lei-estadual-13448-2002|Lei 13.448, de 11 de janeiro de 2.002]].
 
 ###### Art. 2º {#art2}
-Tags: #auditoria #chumbo #bateria #mineracao
 
 **Art. 2º, caput** {#art2_cpt} Ficam obrigados a realizar auditoria ambiental independente os seguintes empreendimentos: I. fundição de chumbo; II. fabricação e montagem de acumuladores; III. fabricação de placas de baterias; IV. exploração mineral de chumbo; V. outros empreendimentos afins.
 
 ###### Art. 3º {#art3}
-Tags: #auditoria #chumbo
 
 **Art. 3º, caput** {#art3_cpt} Para a realização das auditorias ambientais independentes, devem ser seguidas as Diretrizes estabelecidas no Anexo I – Diretrizes para a Execução de Auditoria Ambiental de Processo e Conformidade.
 
 ###### Art. 4º {#art4}
-Tags: #auditoria #auditor #qualificacao
 
 **Art. 4º, caput** {#art4_cpt} As auditorias ambientais independentes devem ser realizadas por empresas de auditoria ou auditores ambientais, de acordo com os critérios definidos no Anexo II desta Resolução.
 
 ###### Art. 5º {#art5}
-Tags: #auditoria #iap #renovacao #licenca-operacao
 
 **Art. 5º, caput** {#art5_cpt} As informações e os resultados das auditorias ambientais independentes serão submetidas ao IAP para as devidas providências, na forma da lei, com vistas às exigências adicionais do licenciamento ambiental e/ou condicionantes para Renovação da Licença de Operação das unidades auditadas.
 
 ###### Art. 6º {#art6}
-Tags: #vigencia #revogacao
 
 **Art. 6º, caput** {#art6_cpt} Esta Resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 

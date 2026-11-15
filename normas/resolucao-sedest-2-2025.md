@@ -60,14 +60,12 @@ Considerando a necessidade de revisão da [[resolucao-sema-16-2014|Resolução S
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #padrao-qualidade #qualidade-ar #emissao-atmosferica
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer critérios de emissão de poluentes atmosféricos para fontes fixas, padrões de qualidade do ar e metodologias a serem utilizadas para determinação de emissões atmosféricas.
 
 ## CAPÍTULO I – DISPOSIÇÕES GERAIS
 
 ###### Art. 2º {#art2}
-Tags: #chamine #padrao-emissao #padrao-qualidade #qualidade-ar #padrao-condicionamento #automonitoramento #monitoramento-continuo #emissao-fugitiva #voc #material-particulado #biogas #biomassa #pintura #cal-calcario #armazenamento-graos #dea #aglomerado-populacional #estudo-dispersao #episodio-critico #fonte-movel #emissao-evaporativa #combustivel #enxofre-reduzido #teste-queima #definicao #emissao-atmosferica
 
 **Art. 2º, caput** {#art2_cpt} Para os efeitos desta Resolução, são estabelecidas as seguintes definições e conceitos básicos:
 
@@ -135,7 +133,6 @@ Tags: #chamine #padrao-emissao #padrao-qualidade #qualidade-ar #padrao-condicion
 ## CAPÍTULO II – DOS PADRÕES PARA FONTES FIXAS
 
 ###### Art. 3º {#art3}
-Tags: #padrao-emissao #padrao-condicionamento #emissao-atmosferica #fonte-fixa
 
 **Art. 3º, caput** {#art3_cpt} A utilização da atmosfera para o lançamento de qualquer tipo de matéria ou energia somente poderá ocorrer com a observância:
 
@@ -151,19 +148,16 @@ Tags: #padrao-emissao #padrao-condicionamento #emissao-atmosferica #fonte-fixa
 **Art. 3º, § 3º** {#art3_par3} As disposições do caput deste artigo não se aplicam a sistemas de ventilação de áreas de trabalho, objetos da proteção da saúde ocupacional, e que não necessitam monitorar suas emissões atmosféricas no âmbito desta Resolução.
 
 ###### Art. 4º {#art4}
-Tags: #qualidade-ar #cimento #condicionante
 
 **Art. 4º, caput** {#art4_cpt} O órgão ambiental licenciador poderá, mediante decisão fundamentada e considerando as condições locais da área de influência da fonte poluidora e do avanço tecnológico, determinar limites de emissão mais restritivos que os estabelecidos nesta Resolução, onde, a seu critério, o gerenciamento da qualidade do ar assim o exigir.
 
 **Art. 4º, parágrafo único** {#art4_par1u} Para o adequado gerenciamento da qualidade do ar, o órgão ambiental licenciador poderá, no estabelecimento de limites de emissão mais restritivos, considerar a alternativa de utilização de combustíveis com menor potencial poluidor.
 
 ###### Art. 5º {#art5}
-Tags: #amostragem
 
 **Art. 5º, caput** {#art5_cpt} Processos com emissões inferiores a 70% dos limites estabelecidos num período mínimo de três anos consecutivos, poderão solicitar ao órgão ambiental, por meio de justificativa devidamente fundamentada, a mudança da frequência de amostragem.
 
 ###### Art. 6º {#art6}
-Tags: #padrao-qualidade #qualidade-ar #estudo-dispersao
 
 **Art. 6º, caput** {#art6_cpt} O órgão ambiental competente poderá excepcionalmente autorizar o lançamento de emissões atmosféricas acima dos padrões estabelecidos nesta Resolução, desde que observados os requisitos abaixo:
 
@@ -175,14 +169,12 @@ Tags: #padrao-qualidade #qualidade-ar #estudo-dispersao
 ### Seção I – Dos Padrões de Condicionamento
 
 ###### Art. 7º {#art7}
-Tags: #padrao-condicionamento #fonte-fixa
 
 **Art. 7º, caput** {#art7_cpt} Os Padrões de Condicionamento de Fontes representam as condições técnicas de implantação ou de operação que devem ser observadas pelas fontes potenciais de poluição atmosférica.
 
 **Art. 7º, parágrafo único** {#art7_par1u} Os padrões de condicionamento de fontes devem refletir o melhor estágio tecnológico e o de controle operacional, comprovadamente viáveis técnica e economicamente, considerando-se os aspectos de eliminação ou minimização das emissões de poluentes atmosféricos.
 
 ###### Art. 8º {#art8}
-Tags: #chamine #padrao-qualidade #qualidade-ar #proibicao #dispensa #estudo-dispersao
 
 **Art. 8º, caput** {#art8_cpt} O lançamento de efluentes gasosos à atmosfera deve ser realizado, preferencialmente, através de dutos ou chaminés.
 
@@ -200,7 +192,6 @@ Tags: #chamine #padrao-qualidade #qualidade-ar #proibicao #dispensa #estudo-disp
 **Art. 8º, § 5º** {#art8_par5} O órgão ambiental poderá exigir a adaptação dos dutos ou chaminés conforme critérios deste artigo, considerando a caracterização do entorno do empreendimento.
 
 ###### Art. 9º {#art9}
-Tags: #chamine #padrao-emissao #automonitoramento #balanco-massa #combustivel #amostragem
 
 **Art. 9º, caput** {#art9_cpt} As atividades ou fontes potenciais de poluição atmosférica deverão contar com a estrutura necessária para a realização de amostragem e/ou determinação direta de poluentes em dutos ou chaminés, de acordo com metodologia normatizada ou equivalente aceita pelo órgão ambiental competente.
 
@@ -217,7 +208,6 @@ Tags: #chamine #padrao-emissao #automonitoramento #balanco-massa #combustivel #a
 **Art. 9º, § 6º** {#art9_par6} As fontes de combustão, dentro do escopo do Programa de Automonitoramento, devem dispor de método de medição para a obtenção de dados relacionados ao consumo de combustível.
 
 ###### Art. 10 {#art10}
-Tags: #padrao-qualidade #qualidade-ar #aglomerado-populacional #estudo-dispersao
 
 **Art. 10, caput** {#art10_cpt} As emissões atmosféricas devem ser lançadas para a atmosfera livre, de forma a permitir uma boa dispersão, não podendo resultar em concentrações ambientais no entorno da instalação da fonte emissora superiores às vigentes, como padrão de qualidade do ar.
 
@@ -226,31 +216,26 @@ Tags: #padrao-qualidade #qualidade-ar #aglomerado-populacional #estudo-dispersao
 **Art. 10, § 2º** {#art10_par2} Para a verificação dos padrões de qualidade do ar, conforme § 1º, devem ser avaliadas e contabilizadas as características do entorno, como a existência de outras fontes de emissões atmosféricas, a exemplo de estradas sem pavimentação, movimentação de veículos, atividades industriais, dentre outros.
 
 ###### Art. 11 {#art11}
-Tags: #chamine #automonitoramento #combustivel #amostragem
 
 **Art. 11, caput** {#art11_cpt} Toda atividade, industrial, comercial ou de serviços, em operação ou que venha a operar no Estado do Paraná, que possua ou venha a possuir fonte(s) emissora(s) de poluente(s) atmosférico(s), independentemente do tipo de combustível utilizado, deverá providenciar periodicamente, ou quando exigido pelo órgão ambiental, a caracterização e quantificação da(s) emissão(ões), através da realização de amostragem em duto ou chaminé.
 
 **Art. 11, parágrafo único** {#art11_par1u} A caracterização e quantificação das emissões de que trata o caput deste artigo deverá ser realizada através do automonitoramento, atendendo aos padrões e frequência estabelecidos nesta Resolução, bem como por meio da apresentação do Relatório de Automonitoramento e realização da respectiva Declaração de Emissões Atmosféricas, conforme Capítulo VI.
 
 ###### Art. 12 {#art12}
-Tags: 
 
 **Art. 12, caput** {#art12_cpt} Nas áreas onde exista uma aglomeração significativa de fontes potenciais de poluição do ar poderá ser exigida a utilização de combustíveis com menor potencial poluidor, tanto para os empreendimentos ou atividades a instalar como para aqueles já instalados, sejam eles públicos ou privados.
 
 ###### Art. 13 {#art13}
-Tags: #padrao-emissao #cimento #dispensa
 
 **Art. 13, caput** {#art13_cpt} Ficam passiveis de dispensa do atendimento a padrões de emissões atmosféricas, definidos nesta Resolução, as emissões provenientes de fontes de geração de calor utilizadas exclusivamente para aquecimento de ambiente em empreendimentos de avicultura e suinocultura, que possuam potência térmica nominal inferior a 10MW.
 
 ###### Art. 14 {#art14}
-Tags: #padrao-emissao #dispensa
 
 **Art. 14, caput** {#art14_cpt} Ficam passíveis de dispensa do atendimento a padrões de emissões atmosféricas, definidos nesta Resolução, as emissões provenientes de desidratadores e roto-aceleradores para manejo de carcaças em propriedades rurais.
 
 ### Seção II – Das Substâncias Odoríferas, Fontes de Emissões Fugitivas e Queima a Céu Aberto
 
 ###### Art. 15 {#art15}
-Tags: #chamine #odor #distancia-minima #enxofre-reduzido
 
 **Art. 15, caput** {#art15_cpt} As atividades geradoras de substâncias odoríferas, tais como graxarias, frigoríficos, indústria de processamento de alimentos, estações de tratamento de efluentes, estações elevatórias, cemitérios verticais, curtumes, dentre outros, devem seguir as boas práticas de minimização de odores.
 
@@ -265,12 +250,10 @@ Tags: #chamine #odor #distancia-minima #enxofre-reduzido
 **Art. 15, § 5º** {#art15_par5} Este artigo não se aplica às fontes potencialmente poluidoras com padrões de lançamento para TRS, H2S, NH3 e/ou compostos orgânicos estabelecidos na forma desta Resolução.
 
 ###### Art. 16 {#art16}
-Tags: #emissao-fugitiva
 
 **Art. 16, caput** {#art16_cpt} Todas as atividades ou fontes geradoras de emissões fugitivas devem implementar medidas a fim de minimizá-las, tais como: enclausuramento de instalações, armazenamento fechado de material, umidificação do solo e, pavimentação e limpeza de áreas e vias de transporte, entre outras.
 
 ###### Art. 17 {#art17}
-Tags: #qualidade-ar #emissao-fugitiva #aglomerado-populacional
 
 **Art. 17, caput** {#art17_cpt} O órgão ambiental competente poderá exigir a comprovação da eficiência do controle de emissões fugitivas através do monitoramento da qualidade do ar na área de influência de instalações.
 
@@ -285,7 +268,6 @@ Tags: #qualidade-ar #emissao-fugitiva #aglomerado-populacional
 - **Art. 17, § 3º, inciso III** {#art17_par3_inc3} a não proximidade de obstáculos que prejudiquem a circulação do vento, como muros, paredes ou cortinas vegetais.
 
 ###### Art. 18 {#art18}
-Tags: #emissao-fugitiva #dispensa
 
 **Art. 18, caput** {#art18_cpt} O empreendimento poderá solicitar dispensa ou alteração da frequência do monitoramento estabelecido no [[#art17|art. 17]], desde que apresente justificativa técnica na qual constem avaliações referentes ao empreendimento e entorno, observando:
 
@@ -293,7 +275,6 @@ Tags: #emissao-fugitiva #dispensa
 - **Art. 18, caput, inciso II** {#art18_cpt_inc2} entorno: existência outras fontes de emissões atmosféricas que venham a comprometer o resultado das medições, tais como estradas sem pavimentação, áreas de movimentação de veículos, atividades industriais, armazenamento e transbordo de granéis sólidos, entre outros.
 
 ###### Art. 19 {#art19}
-Tags: #queima-ceu-aberto #proibicao #autorizacao-ambiental
 
 **Art. 19, caput** {#art19_cpt} Fica proibida a queima a céu aberto de qualquer tipo de material, inclusive de canaviais, exceto nos seguintes casos:
 
@@ -303,7 +284,6 @@ Tags: #queima-ceu-aberto #proibicao #autorizacao-ambiental
 - **Art. 19, caput, inciso IV** {#art19_cpt_inc4} situações de emergência sanitária assim definidas pela Secretaria de Estado da Saúde ou pela Secretaria de Estado da Agricultura.
 
 ###### Art. 20 {#art20}
-Tags: #chamine #voc #dea #emissao-evaporativa #amostragem #prazo #tanque-armazenamento
 
 **Art. 20, caput** {#art20_cpt} Os empreendimentos que possuírem armazenamento de líquidos e/ou produtos químicos com potencial de emissão de VOC’s, deverão apresentar, no sistema DEA, o Relatório de Caracterização de Emissões Evaporativas em Tanques, conforme [[#anexo2|Anexo II]].
 
@@ -316,24 +296,20 @@ Tags: #chamine #voc #dea #emissao-evaporativa #amostragem #prazo #tanque-armazen
 ### Seção I – Critérios Gerais
 
 ###### Art. 21 {#art21}
-Tags: #padrao-emissao #fonte-fixa
 
 **Art. 21, caput** {#art21_cpt} Os padrões de emissão para fontes fixas se aplicam a fontes em regime de operação regular, não sendo aplicáveis a fontes acionadas exclusivamente em períodos emergenciais ou transitórias somando menos do que 336 horas de operação por ano.
 
 ###### Art. 22 {#art22}
-Tags: #padrao-emissao #cimento #fonte-fixa
 
 **Art. 22, caput** {#art22_cpt} Os padrões de emissão para fontes fixas estão estabelecidos por poluente ou por tipologia de fonte potencial de poluição do ar, considerando-se o estado de conhecimento dos métodos de prevenção, as tecnologias de controle de poluição e a viabilidade econômica de sua implementação.
 
 ###### Art. 23 {#art23}
-Tags: 
 
 **Art. 23, caput** {#art23_cpt} O atendimento aos padrões e/ou limites de emissão estabelecidos não impedirá exigências futuras do órgão ambiental, decorrentes do avanço tecnológico ou da modificação das condições ambientais locais, bem como da modificação de processo produtivo, mediante decisão fundamentada.
 
 ### Seção II – Do Monitoramento
 
 ###### Art. 24 {#art24}
-Tags: #padrao-emissao #automonitoramento #monitoramento-continuo #emissao-fugitiva #material-particulado #amostragem
 
 **Art. 24, caput** {#art24_cpt} O monitoramento das emissões atmosféricas deve atender aos seguintes critérios:
 
@@ -374,7 +350,6 @@ Tags: #padrao-emissao #automonitoramento #monitoramento-continuo #emissao-fugiti
   - **Art. 24, caput, inciso IV, alínea "h"** {#art24_cpt_inc4_alih} o compartilhamento de sistemas de monitoramento contínuo é possível e deve atender aos critérios estabelecidos na [[resolucao-conama-436-2011|Resolução CONAMA 436 de 2011]].
 
 ###### Art. 25 {#art25}
-Tags: #amostragem
 
 **Art. 25, caput** {#art25_cpt} As amostragens e análises de emissões atmosféricas devem ser realizadas de acordo com os métodos listados nos [[#anexo3|Anexos III]] e [[#anexo4|IV]], ou equivalentes aceitos pelo órgão ambiental competente.
 
@@ -383,14 +358,12 @@ Tags: #amostragem
 ### Seção I – Padrões de Emissão Atmosférica para Processos de Geração de Calor ou Energia
 
 ###### Art. 26 {#art26}
-Tags: #padrao-emissao #combustivel
 
 **Art. 26, caput** {#art26_cpt} Os padrões de emissão estabelecidos nesta Seção estão definidos em função do combustível utilizado para geração de energia ou calor.
 
 #### Subseção I – Combustível Gasoso
 
 ###### Art. 27 {#art27}
-Tags: #padrao-emissao #caldeira #biogas #refinaria #xisto #dispensa #combustivel #prazo
 
 **Art. 27, caput** {#art27_cpt} As fontes fixas para geração de calor ou energia, tais como caldeiras ou fornos abaixo especificados, com a utilização de combustível gasoso, deverão atender os Padrões de Emissão a seguir estabelecidos:
 
@@ -470,7 +443,6 @@ Tags: #padrao-emissao #caldeira #biogas #refinaria #xisto #dispensa #combustivel
 #### Subseção II – Combustível Líquido Mineral, Vegetal ou Animal e Assemelhados
 
 ###### Art. 28 {#art28}
-Tags: #padrao-emissao #caldeira #cimento #densidade-colorimetrica #combustivel #prazo
 
 **Art. 28, caput** {#art28_cpt} As fontes fixas para geração de calor ou energia utilizando combustível líquido mineral, vegetal ou animal e assemelhados, devem atender os padrões de emissão estabelecidos na sequência:
 
@@ -523,7 +495,6 @@ Tags: #padrao-emissao #caldeira #cimento #densidade-colorimetrica #combustivel #
 #### Subseção III – Carvão Mineral, Xisto Sólido, Coque e Outros Combustíveis Assemelhados
 
 ###### Art. 29 {#art29}
-Tags: #padrao-emissao #cimento #xisto #densidade-colorimetrica #combustivel #prazo
 
 **Art. 29, caput** {#art29_cpt} As fontes fixas para geração de calor ou energia que utilizem carvão mineral, xisto sólido, coque e outros combustíveis assemelhados como combustível, devem atender os padrões de emissão estabelecidos na sequência:
 
@@ -572,7 +543,6 @@ Tags: #padrao-emissao #cimento #xisto #densidade-colorimetrica #combustivel #pra
 #### Subseção IV – Derivados de Madeira/Biomassa de Origem Vegetal
 
 ###### Art. 30 {#art30}
-Tags: #chamine #padrao-emissao #biomassa #cimento #densidade-colorimetrica #combustivel
 
 **Art. 30, caput** {#art30_cpt} As fontes fixas para geração de calor ou energia que utilizem derivados de madeira ou biomassa de origem vegetal como combustível, devem atender os padrões de emissão a seguir estabelecidos:
 
@@ -641,7 +611,6 @@ Tags: #chamine #padrao-emissao #biomassa #cimento #densidade-colorimetrica #comb
 #### Subseção V – Bagaço de Cana-de-Açúcar
 
 ###### Art. 31 {#art31}
-Tags: #padrao-emissao #biomassa #cimento #densidade-colorimetrica #combustivel
 
 **Art. 31, caput** {#art31_cpt} As fontes fixas para geração de calor ou energia que utilizam bagaço de cana-de-açúcar como combustível, devem atender os padrões de emissão estabelecidos a seguir:
 
@@ -709,7 +678,6 @@ Tags: #padrao-emissao #biomassa #cimento #densidade-colorimetrica #combustivel
 #### Subseção VI – Turbinas em Ciclo Simples ou Combinado
 
 ###### Art. 32 {#art32}
-Tags: #padrao-emissao #caldeira #turbina #combustivel
 
 **Art. 32, caput** {#art32_cpt} Turbinas movidas a gás, com e sem combustíveis líquidos auxiliares, em ciclo simples ou combinado, devem atender os padrões de emissão a seguir estabelecidos:
 
@@ -765,7 +733,6 @@ Tags: #padrao-emissao #caldeira #turbina #combustivel
 #### Subseção VII – Motores Estacionários
 
 ###### Art. 33 {#art33}
-Tags: #chamine #padrao-emissao #automonitoramento #biogas #motor-estacionario #densidade-colorimetrica #dispensa #combustivel
 
 **Art. 33, caput** {#art33_cpt} Motores estacionários devem atender os padrões de emissão a seguir estabelecidos:
 
@@ -803,7 +770,6 @@ Tags: #chamine #padrao-emissao #automonitoramento #biogas #motor-estacionario #d
 #### Subseção VIII – Utilização de mais de um Tipo de Combustível
 
 ###### Art. 34 {#art34}
-Tags: #padrao-emissao #combustivel
 
 **Art. 34, caput** {#art34_cpt} Os padrões de emissão para fontes fixas que utilizem mais de um combustível para geração de calor ou energia, são calculados somando os padrões dos diferentes combustíveis usados na proporção da respectiva energia fornecida, devendo atender aos critérios estabelecidos no [[#anexo1_lin58|item 5 do Anexo I]].
 
@@ -812,7 +778,6 @@ Tags: #padrao-emissao #combustivel
 #### Subseção I – Pintura, Tratamento de Superfície, Galvanoplastia e Decapagem
 
 ###### Art. 35 {#art35}
-Tags: #voc #material-particulado #pintura #incineracao #balanco-massa
 
 **Art. 35, caput** {#art35_cpt} A operação de cobertura de superfície realizada por aspersão, tais como, pintura ou aplicação de verniz à revólver, deverá ser realizada em compartimento próprio, provido de sistema de ventilação local, exaustão e equipamento eficiente para a retenção e/ou recuperação de material sob a forma de aerossóis com pigmentos, gases, vapores de solventes orgânicos ou material particulado.
 
@@ -823,7 +788,6 @@ Tags: #voc #material-particulado #pintura #incineracao #balanco-massa
 **Art. 35, § 3º** {#art35_par3} As taxas de emissão de VOC podem ser determinadas por medições ou pela metodologia de balanço de massa, conforme [[#anexo14|Anexo XIV]].
 
 ###### Art. 36 {#art36}
-Tags: #padrao-emissao #pintura #dispensa #balanco-massa
 
 **Art. 36, caput** {#art36_cpt} Cada processo que compõe uma instalação de pintura deverá atender os seguintes padrões de emissões:
 
@@ -836,7 +800,6 @@ Tags: #padrao-emissao #pintura #dispensa #balanco-massa
 **Art. 36, parágrafo único** {#art36_par1u} A dispensa de monitoramento da referência (1) é aplicável nos casos em que a taxa de emissão for comprovada por meio de medição ou pela metodologia de balanço de massa, em frequência anula, e conforme previsto no [[#anexo14|Anexo XIV]].
 
 ###### Art. 37 {#art37}
-Tags: #chamine #padrao-emissao #pintura #dispensa #balanco-massa
 
 **Art. 37, caput** {#art37_cpt} Para pintura de veículos e seus componentes, inclusive a aplicação de produtos de conservação e de limpeza, comprovado através de balanço de massa, conforme [[#anexo14|Anexo XIV]], ficam estabelecidos os seguintes padrões de emissão:
 
@@ -850,7 +813,6 @@ Tags: #chamine #padrao-emissao #pintura #dispensa #balanco-massa
 **Art. 37, parágrafo único** {#art37_par1u} A dispensa de monitoramento da referência (1) será aplicável nos casos em que a taxa de emissão for comprovada por meio de medição ou pela metodologia de balanço de massa, em frequência anula, e conforme previsto no [[#anexo14|Anexo XIV]].
 
 ###### Art. 38 {#art38}
-Tags: #chamine #padrao-emissao #dispensa #balanco-massa #combustivel
 
 **Art. 38, caput** {#art38_cpt} Cada processo que compõe uma instalação de secagem deve atender aos seguintes padrões de emissões:
 
@@ -866,7 +828,6 @@ Tags: #chamine #padrao-emissao #dispensa #balanco-massa #combustivel
 **Art. 38, § 3º** {#art38_par3} Nos casos de contato com os gases de combustão citados no parágrafo anterior, a medição pode ser realizada na exaustão da fonte de geração de calor, considerando o oxigênio referencial do combustível utilizado, de acordo com a Seção I do Capítulo III desta Resolução.
 
 ###### Art. 39 {#art39}
-Tags: #galvanoplastia
 
 **Art. 39, caput** {#art39_cpt} Os empreendimentos que operam processos de decapagem ou galvanoplastia, como cobreamento, niquelagem e cromagem, devem monitorar as emissões dos respectivos metais, ácidos e cianetos, apresentando Relatório de Emissões Atmosféricas, de modo a observar os padrões a seguir estabelecidos:
 
@@ -878,7 +839,6 @@ Tags: #galvanoplastia
 #### Subseção II – Fundição de Metais
 
 ###### Art. 40 {#art40}
-Tags: #fundicao #chumbo
 
 **Art. 40, caput** {#art40_cpt} Para as atividades de fundição de metais, com exceção da atividade de fundição secundária de chumbo ou de metais que contenham chumbo, as fontes de emissão devem estar equipadas com sistemas de captação e remoção de poluentes, sendo que na saída as emissões devem atender os seguintes padrões:
 
@@ -891,7 +851,6 @@ Tags: #fundicao #chumbo
 - **Art. 40, Tabela 1, linha 5** {#art40_tab1_lin5} Processo: Recuperação de areia de fundição por calcinação | Padrão: VOC: 150 mg/Nm³ (ref. 7% O2) | Frequência Monitoramento: Semestral
 
 ###### Art. 41 {#art41}
-Tags: #chamine #emissao-fugitiva #fundicao #estudo-dispersao #cortina-vegetal #chumbo #prazo
 
 **Art. 41, caput** {#art41_cpt} Para o processo de fusão secundária de chumbo ou de metais que contenham chumbo, as fontes de emissão devem estar equipadas com sistemas de captação e remoção de poluentes, de modo que as emissões atmosféricas atendam aos critérios e padrões a seguir estabelecidos:
 
@@ -931,28 +890,24 @@ Tags: #chamine #emissao-fugitiva #fundicao #estudo-dispersao #cortina-vegetal #c
 **Art. 41, § 9º** {#art41_par9} Nas divisas da área do empreendimento deverá ser implantada cortina vegetal.
 
 ###### Art. 42 {#art42}
-Tags: #fundicao
 
 **Art. 42, caput** {#art42_cpt} Para os processos de fundição de metais não se aplicam os padrões estabelecidos na Seção I do Capítulo III desta Resolução.
 
 #### Subseção III – Incineração e Tratamento Térmico de Resíduos
 
 ###### Art. 43 {#art43}
-Tags: #incineracao #cimento #distancia-minima #proibicao #residuo-solido
 
 **Art. 43, caput** {#art43_cpt} Fica proibida a instalação e utilização de incineradores de quaisquer tipos em residências, edifícios públicos ou privados, bem como em hospitais.
 
 **Art. 43, parágrafo único** {#art43_par1u} Os empreendimentos de incineração de resíduos sólidos devem estar localizados a uma distância mínima de mil metros de residências e/ou estabelecimentos públicos como escolas, hospitais, clubes e similares.
 
 ###### Art. 44 {#art44}
-Tags: #tratamento-termico-residuo #teste-queima #residuo-industrial
 
 **Art. 44, caput** {#art44_cpt} Todo sistema de tratamento térmico para resíduos industriais deve atingir a taxa de eficiência de destruição e remoção (EDR) superior ou igual a 99,99% (noventa e nove inteiros e noventa e nove décimos por cento) para o principal composto orgânico perigoso (PCOP), definido no teste de queima.
 
 **Art. 44, parágrafo único** {#art44_par1u} No caso de bifenilas policloradas (PCBs), a taxa de eficiência de destruição e remoção (EDR) deverá ser superior ou igual a 99,999%.
 
 ###### Art. 45 {#art45}
-Tags: #incineracao #tratamento-termico-residuo #coprocessamento #forno-crematorio #residuo-industrial
 
 **Art. 45, caput** {#art45_cpt} As emissões geradas em sistemas de tratamento térmico ou incineração, com exceção do coprocessamento de resíduos e fornos crematórios, não devem ultrapassar os seguintes padrões para a condição referencial para Oxigênio 7%:
 
@@ -988,7 +943,6 @@ Tags: #incineracao #tratamento-termico-residuo #coprocessamento #forno-crematori
 - **Art. 45, Tabela 1, linha 28** {#art45_tab1_lin28} Poluente/Parâmetro da incineração: Dioxinas e Furanos | Padrão: Dibenzo-p-dioxinas e Dibenzo-p-furanos, expressos em TEQ (total de toxicidade equivalente) da 2,3,7,8 TCDD (tetracloro-dibenzo-para-dioxina), considerando a Tabela FTEQ – Fatores de Equivalência de Toxicidade ([[#anexo5|Anexo V]]): 0,50 ng/Nm³ | Frequência Monitoramento: Bianual (uma vez a cada dois anos)
 
 ###### Art. 46 {#art46}
-Tags: #padrao-emissao #monitoramento-continuo
 
 **Art. 46, caput** {#art46_cpt} O monitoramento e controle das emissões devem incluir, no mínimo:
 
@@ -997,7 +951,6 @@ Tags: #padrao-emissao #monitoramento-continuo
 - **Art. 46, caput, inciso III** {#art46_cpt_inc3} sistema de monitoramento contínuo com registro para teores de oxigênio (O2) e de monóxido de carbono (CO), no mínimo, além de outros parâmetros definidos pelo órgão ambiental competente, conectado a um computador, sendo os registros guardados durante um período de, no mínimo, três anos.
 
 ###### Art. 47 {#art47}
-Tags: #incineracao #tratamento-termico-residuo #coprocessamento
 
 **Art. 47, caput** {#art47_cpt} Os limites de emissões para sistemas de tratamento térmico de resíduos, com exceção de incineração e coprocessamento, serão definidos pelo órgão ambiental, tomando como base os padrões de incineração e considerando as características químicas e físicas do resíduo.
 
@@ -1006,7 +959,6 @@ Tags: #incineracao #tratamento-termico-residuo #coprocessamento
 #### Subseção IV – Coprocessamento
 
 ###### Art. 48 {#art48}
-Tags: #padrao-emissao #qualidade-ar #automonitoramento #coprocessamento #cimento #prazo
 
 **Art. 48, caput** {#art48_cpt} Para o coprocessamento em fornos de clínquer ficam estabelecidos os critérios e padrões de emissões abaixo:
 
@@ -1067,7 +1019,6 @@ Tags: #padrao-emissao #qualidade-ar #automonitoramento #coprocessamento #cimento
 #### Subseção V – Fornos crematórios
 
 ###### Art. 49 {#art49}
-Tags: #forno-crematorio
 
 **Art. 49, caput** {#art49_cpt} Todo sistema crematório deve ter, no mínimo, câmara de combustão e câmara secundária para queima dos voláteis.
 
@@ -1076,7 +1027,6 @@ Tags: #forno-crematorio
 **Art. 49, § 2º** {#art49_par2} O sistema só pode iniciar a operação após a temperatura da câmara secundária atingir a temperatura de 800ºC.
 
 ###### Art. 50 {#art50}
-Tags: #chamine #material-particulado #forno-crematorio
 
 **Art. 50, caput** {#art50_cpt} A operação do sistema crematório deve obedecer aos seguintes limites e parâmetros de monitoramento:
 
@@ -1092,7 +1042,6 @@ Tags: #chamine #material-particulado #forno-crematorio
 **Art. 50, parágrafo único** {#art50_par1u} No tocante ao padrão de MPtotal e CO contemplados na referência (1), esses valores são corrigidos pelo teor de oxigênio na mistura de combustão da chaminé para 7% em base seca.
 
 ###### Art. 51 {#art51}
-Tags: #padrao-emissao #automonitoramento #monitoramento-continuo #forno-crematorio #teste-queima
 
 **Art. 51, caput** {#art51_cpt} O monitoramento e controle das emissões deve incluir, no mínimo:
 
@@ -1105,7 +1054,6 @@ Tags: #padrao-emissao #automonitoramento #monitoramento-continuo #forno-cremator
 #### Subseção VI – Aciaria elétrica
 
 ###### Art. 52 {#art52}
-Tags: #padrao-emissao #automonitoramento #aciaria #densidade-colorimetrica
 
 **Art. 52, caput** {#art52_cpt} Para as atividades de aciaria elétrica ficam estabelecidos os seguintes padrões de emissão e critérios:
 
@@ -1124,7 +1072,6 @@ Tags: #padrao-emissao #automonitoramento #aciaria #densidade-colorimetrica
 #### Subseção VII – Asfalto (Concreto Betuminoso Usinado a Quente – CBUQ)
 
 ###### Art. 53 {#art53}
-Tags: #chamine #padrao-emissao #automonitoramento #material-particulado #asfalto #densidade-colorimetrica #distancia-minima #dispensa #cortina-vegetal #combustivel
 
 **Art. 53, caput** {#art53_cpt} Para as atividades de produção de CBUQ, ficam estabelecidos os seguintes padrões de emissão e critérios:
 
@@ -1154,7 +1101,6 @@ Tags: #chamine #padrao-emissao #automonitoramento #material-particulado #asfalto
 #### Subseção VIII – Cimento
 
 ###### Art. 54 {#art54}
-Tags: #padrao-emissao #automonitoramento #material-particulado #cimento
 
 **Art. 54, caput** {#art54_cpt} Na atividade de produção de cimento, ficam estabelecidos os seguintes padrões de emissão:
 
@@ -1198,14 +1144,12 @@ Tags: #padrao-emissao #automonitoramento #material-particulado #cimento
 #### Subseção IX – Vidro
 
 ###### Art. 55 {#art55}
-Tags: #chamine #padrao-emissao #fundicao #vidro
 
 **Art. 55, caput** {#art55_cpt} Na atividade de produção de vidro, para as chaminés dos fornos de fundição, ficam estabelecidos os critérios e padrões de emissão do [[resolucao-conama-382-2006#anexo10|Anexo X da Resolução CONAMA n°282 de 2006]], e do [[resolucao-conama-436-2011#anexo10|Anexo X da Resolução CONAMA n°436 de 2011]].
 
 #### Subseção X – Cal, Calcário e derivados primários
 
 ###### Art. 56 {#art56}
-Tags: #chamine #padrao-emissao #padrao-qualidade #qualidade-ar #material-particulado #cal-calcario #dispensa #estudo-dispersao #cortina-vegetal
 
 **Art. 56, caput** {#art56_cpt} Para a atividade de produção de cal e calcário e seus derivados primários ficam estabelecidos os seguintes padrões e critérios:
 
@@ -1242,7 +1186,6 @@ Tags: #chamine #padrao-emissao #padrao-qualidade #qualidade-ar #material-particu
 #### Subseção XI – Unidades de recuperação de enxofre em refinarias de petróleo (URE)
 
 ###### Art. 57 {#art57}
-Tags: #chamine #padrao-emissao #refinaria #enxofre-reduzido #amostragem
 
 **Art. 57, caput** {#art57_cpt} Para as unidades de recuperação de enxofre ficam estabelecidos os seguintes padrões e critérios:
 
@@ -1261,7 +1204,6 @@ Tags: #chamine #padrao-emissao #refinaria #enxofre-reduzido #amostragem
 #### Subseção XII – Caldeira CO (Craqueamento catalítico)
 
 ###### Art. 58 {#art58}
-Tags: #padrao-emissao #material-particulado #caldeira
 
 **Art. 58, caput** {#art58_cpt} Para as operações em caldeiras CO (recuperação catalítica) ficam estabelecidos os seguintes padrões de emissão:
 
@@ -1279,7 +1221,6 @@ Tags: #padrao-emissao #material-particulado #caldeira
 #### Subseção XIII – Conversor de Amônia
 
 ###### Art. 59 {#art59}
-Tags: #chamine #padrao-emissao #conversor-amonia #enxofre-reduzido #amostragem
 
 **Art. 59, caput** {#art59_cpt} Para as operações de conversores de amônia ficam estabelecidos os seguintes padrões de emissão e critérios:
 
@@ -1301,7 +1242,6 @@ Tags: #chamine #padrao-emissao #conversor-amonia #enxofre-reduzido #amostragem
 #### Subseção XIV – Secadores de grãos e Exaustão de pó de grãos
 
 ###### Art. 60 {#art60}
-Tags: #chamine #emissao-fugitiva #material-particulado #armazenamento-graos #dea #aglomerado-populacional #estudo-dispersao
 
 **Art. 60, caput** {#art60_cpt} As atividades de recebimento, secagem, limpeza e expedição de produtos agrícolas não industrializados, cujas fontes potencialmente poluidoras do ar estejam localizadas em um raio inferior a 500 metros de aglomerados populacionais, devem estar implementadas, no mínimo, com as seguintes medidas de controle:
 
@@ -1316,7 +1256,6 @@ Tags: #chamine #emissao-fugitiva #material-particulado #armazenamento-graos #dea
 - **Art. 60, caput, inciso IX** {#art60_cpt_inc9} apresentação de Relatório de Operação da Unidade, elaborado conforme diretrizes do [[#anexo6|Anexo VI]], em frequência anual no Sistema de Declaração de Emissões Atmosféricas – DEA.
 
 ###### Art. 61 {#art61}
-Tags: #chamine #automonitoramento #emissao-fugitiva #material-particulado #dispensa #amostragem
 
 **Art. 61, caput** {#art61_cpt} As atividades contempladas no [[#art60|art. 60]] desta Resolução devem realizar auto monitoramento de partículas totais em suspensão e/ou partículas inaláveis, por meio da amostragem de 7 dias consecutivos, contemplando de forma simultânea a medição da direção e velocidade do vento no local que for realizado o monitoramento, durante a maior safra de milho, de acordo com o Relatório de Operação da Unidade.
 
@@ -1329,28 +1268,24 @@ Tags: #chamine #automonitoramento #emissao-fugitiva #material-particulado #dispe
 **Art. 61, § 4º** {#art61_par4} Poderão ser dispensados do monitoramento estabelecido no [[#art61_par1|§1º deste artigo]], os empreendimentos que possuam sistemas de controle de emissões fugitivas, comprovadamente eficientes, e realizem o monitoramento de Material Particulado Total das fontes pontuais como ciclones e filtros mangas, entre outras fontes pontuais caracterizadas como sistemas de controle de emissões.
 
 ###### Art. 62 {#art62}
-Tags: #chamine #emissao-fugitiva #material-particulado #armazenamento-graos #aglomerado-populacional #dispensa
 
 **Art. 62, caput** {#art62_cpt} As atividades de recebimento, secagem, limpeza e expedição de produtos agrícolas não industrializados, cujas fontes potencialmente poluidoras do ar estejam localizadas em um raio superior a 500 metros de aglomerados populacionais, devem manter as moegas de descarga equipadas com cortinas ou módulos mecânicos de contenção nas fontes fugitivas.
 
 **Art. 62, parágrafo único** {#art62_par1u} As atividades estabelecidas no caput ficam dispensadas da apresentação de Relatório de Operação da Unidade, do monitoramento de Partículas Totais em Suspensão e/ou Partículas Inaláveis e do monitoramento das fontes pontuais dos sistemas de controle de emissões de particulados, como ciclones, filtros mangas entre outras.
 
 ###### Art. 63 {#art63}
-Tags: #proibicao
 
 **Art. 63, caput** {#art63_cpt} É proibida a instalação de novos empreendimentos que contemplem as atividades de recebimento, secagem, limpeza e expedição de milho em áreas urbanas.
 
 **Art. 63, parágrafo único** {#art63_par1u} As empresas em operação, devem obrigatoriamente estar equipadas com os controles descritos no [[#art60|art. 60]] dessa Resolução.
 
 ###### Art. 64 {#art64}
-Tags: #chamine #armazenamento-graos
 
 **Art. 64, caput** {#art64_cpt} A instalação de novas atividades de recebimento, secagem, limpeza e expedição de produtos agrícolas não industrializados, deve observar a caracterização do entorno em um raio de até 500 metros, a fim de garantir o isolamento necessário e não gerar incômodos à população circunvizinha.
 
 #### Subseção XV – Exaustão de pó de madeira
 
 ###### Art. 65 {#art65}
-Tags: #padrao-emissao #industria-madeira
 
 **Art. 65, caput** {#art65_cpt} Os sistemas de exaustão de pó de madeira devem atender o seguinte padrão de emissão:
 
@@ -1363,7 +1298,6 @@ Tags: #padrao-emissao #industria-madeira
 #### Subseção XVI – Fabricação de Placas de MDP, MDF ou de Compensado usando resinas a base de formaldeído
 
 ###### Art. 66 {#art66}
-Tags: #padrao-emissao #industria-madeira #aglomerado-populacional
 
 **Art. 66, caput** {#art66_cpt} As atividades de fabricação de placas de aglomerados, de MDP, MDF ou compensado devem atender os seguintes padrões de emissão:
 
@@ -1380,7 +1314,6 @@ Tags: #padrao-emissao #industria-madeira #aglomerado-populacional
 #### Subseção XVII – Forno de cal (Indústria de Celulose)
 
 ###### Art. 67 {#art67}
-Tags: #papel-celulose
 
 **Art. 67, caput** {#art67_cpt} As emissões geradas em fornos de cal em indústrias de celulose devem atender os seguintes padrões:
 
@@ -1397,7 +1330,6 @@ Tags: #papel-celulose
 #### Subseção XVIII – Caldeira de recuperação (indústria de celulose)
 
 ###### Art. 68 {#art68}
-Tags: #padrao-emissao #caldeira #papel-celulose
 
 **Art. 68, caput** {#art68_cpt} Para as emissões geradas em caldeiras de recuperação em indústrias de celulose ficam estabelecidos os seguintes padrões de emissão:
 
@@ -1418,7 +1350,6 @@ Tags: #padrao-emissao #caldeira #papel-celulose
 #### Subseção XIX – Tanque de dissolução (indústria de celulose)
 
 ###### Art. 69 {#art69}
-Tags: #padrao-emissao #papel-celulose
 
 **Art. 69, caput** {#art69_cpt} Para as emissões geradas em tanques de dissolução em indústrias de celulose ficam estabelecidos os seguintes padrões de emissão:
 
@@ -1434,12 +1365,10 @@ Tags: #padrao-emissao #papel-celulose
 #### Subseção XX – Gases não condensáveis (GNC) tais como do digestor, blow tank, lavador brown stock, evaporador de efeito múltiplo, stripper de condensado (indústria de celulose)
 
 ###### Art. 70 {#art70}
-Tags: #caldeira #incineracao
 
 **Art. 70, caput** {#art70_cpt} Os gases não condensáveis - GNC, concentrados e diluídos, gerados nas unidades produtivas do processo de fabricação devem ser coletados e encaminhados ao forno de cal, caldeira de recuperação ou incinerador de gases.
 
 ###### Art. 71 {#art71}
-Tags: #padrao-emissao #incineracao
 
 **Art. 71, caput** {#art71_cpt} Para o incinerador de GNC ficam estabelecidos os seguintes padrões de emissão:
 
@@ -1453,7 +1382,6 @@ Tags: #padrao-emissao #incineracao
 #### Subseção XXI – Fabricação de Pastas de Alto rendimento TMP e CTMP (Indústria de Papel e Celulose)
 
 ###### Art. 72 {#art72}
-Tags: #chamine #voc
 
 **Art. 72, caput** {#art72_cpt} Para as emissões de substâncias gasosas orgânicas medidas em dutos e chaminés de processos de produção de Pastas de Alto Rendimento (TMP e CTMP) fica estabelecido o padrão:
 
@@ -1465,7 +1393,6 @@ Tags: #chamine #voc
 #### Subseção XXII – Indústria de fertilizantes a base de fósforo ou nitrogênio
 
 ###### Art. 73 {#art73}
-Tags: #padrao-emissao #fertilizante
 
 **Art. 73, caput** {#art73_cpt} Para a atividade de produção e manipulação de fertilizantes a base de fósforo ou nitrogênio, ficam estabelecidos os seguintes padrões de emissão:
 
@@ -1495,7 +1422,6 @@ Tags: #padrao-emissao #fertilizante
 - **Art. 73, Tabela 1, linha 22** {#art73_tab1_lin22} Unidade de Produção: Qualquer fertilizante | Fonte: Recuperação de enxofre | Padrão: H2S: 20 mg/Nm³ Eficiência recuperação S: >=80% 0,1 kg fluoretos totais/t P2O5alimentado | Frequência Monitoramento: Semestral
 
 ###### Art. 74 {#art74}
-Tags: #odor #material-particulado #fertilizante #proibicao #dispensa #estudo-dispersao
 
 **Art. 74, caput** {#art74_cpt} Para as atividades de armazenamento, mistura e transbordo de fertilizantes ficam estabelecidos os seguintes critérios:
 
@@ -1513,7 +1439,6 @@ Tags: #odor #material-particulado #fertilizante #proibicao #dispensa #estudo-dis
 #### Subseção XXIII – Processamento de óleo comestível
 
 ###### Art. 75 {#art75}
-Tags: #padrao-emissao #oleo-comestivel #balanco-massa
 
 **Art. 75, caput** {#art75_cpt} Para as atividades de uso e recuperação de hexano fica estabelecido o seguinte padrão de emissão:
 
@@ -1526,7 +1451,6 @@ Tags: #padrao-emissao #oleo-comestivel #balanco-massa
 #### Subseção XXIV – Torrefação e produção de café solúvel
 
 ###### Art. 76 {#art76}
-Tags: #padrao-emissao #caldeira #cafe #dispensa #combustivel
 
 **Art. 76, caput** {#art76_cpt} Para as atividades de torrefação e produção de café solúvel, ficam estabelecidos os seguintes padrões de emissão:
 
@@ -1549,7 +1473,6 @@ Tags: #padrao-emissao #caldeira #cafe #dispensa #combustivel
 #### Subseção XXV – Saneamento
 
 ###### Art. 77 {#art77}
-Tags: #automonitoramento #emissao-fugitiva #odor #biogas #esgoto-sanitario #cortina-vegetal #enxofre-reduzido #prazo #saneamento
 
 **Art. 77, caput** {#art77_cpt} Para controle e minimização das emissões atmosféricas das atividades de saneamento relacionadas ao esgoto sanitário ficam estabelecidos os seguintes critérios:
 
@@ -1565,7 +1488,6 @@ Tags: #automonitoramento #emissao-fugitiva #odor #biogas #esgoto-sanitario #cort
 #### Subseção XXVI – Industrialização do Xisto
 
 ###### Art. 78 {#art78}
-Tags: #padrao-emissao #xisto
 
 **Art. 78, caput** {#art78_cpt} Para o sistema de selagem de retortagem no processamento de xisto betuminoso por pirólise ficam estabelecidos os seguintes padrões de emissão:
 
@@ -1577,14 +1499,12 @@ Tags: #padrao-emissao #xisto
 ### Seção III – Dos Padrões de Emissão Atmosférica para Fontes Fixas por Poluentes
 
 ###### Art. 79 {#art79}
-Tags: 
 
 **Art. 79, caput** {#art79_cpt} Para atividades e processos não especificadas na Seção II ficam estabelecidos os padrões e critérios especificados em sequência.
 
 #### Subseção I – Densidade Colorimétrica
 
 ###### Art. 80 {#art80}
-Tags: #automonitoramento #cimento #densidade-colorimetrica #proibicao
 
 **Art. 80, caput** {#art80_cpt} Fica proibida a emissão atmosférica por parte de fontes fixas, com densidade colorimétrica superior a 20% equivalente ao Padrão I da Escala de Ringelmann, exceto nas operações de aquecimento, modulação e ramonagem, por um período que totalize 10 minutos, ao longo das 24 horas do dia.
 
@@ -1593,7 +1513,6 @@ Tags: #automonitoramento #cimento #densidade-colorimetrica #proibicao
 #### Subseção II – Substâncias Cancerígenas
 
 ###### Art. 81 {#art81}
-Tags: #chamine #padrao-emissao #substancia-cancerigena
 
 **Art. 81, caput** {#art81_cpt} As emissões de substâncias cancerígenas através de dutos e chaminés, conforme [[#anexo7|Anexo VII]], devem ser minimizadas utilizando o melhor aparato tecnológico e de controle operacional economicamente viáveis, devendo, ainda, atender os seguintes padrões de emissão:
 
@@ -1606,7 +1525,6 @@ Tags: #chamine #padrao-emissao #substancia-cancerigena
 **Art. 81, parágrafo único** {#art81_par1u} Substâncias cancerígenas não mencionadas no [[#anexo7|Anexo VII]] devem ser classificadas de acordo com seu potencial cancerígeno.
 
 ###### Art. 82 {#art82}
-Tags: #substancia-cancerigena
 
 **Art. 82, caput** {#art82_cpt} No caso de emissões contendo substâncias cancerígenas de diferentes classes, ficam estabelecidos os padrões abaixo, sem alteração dos padrões estabelecidos no [[#art81|art. 81]]:
 
@@ -1620,7 +1538,6 @@ Tags: #substancia-cancerigena
 #### Subseção III – Material Particulado Total – Mptotal
 
 ###### Art. 83 {#art83}
-Tags: #material-particulado
 
 **Art. 83, caput** {#art83_cpt} A concentração de Material Particulado Total contido nas emissões deve atender os seguintes padrões:
 
@@ -1630,14 +1547,12 @@ Tags: #material-particulado
 - **Art. 83, Tabela 1, linha 2** {#art83_tab1_lin2} Taxa de Emissão: Material Particulado Total com taxa de emissão igual ou superior a 0,5 kg/h | Padrão: 150 mg/Nm3
 
 ###### Art. 84 {#art84}
-Tags: 
 
 **Art. 84, caput** {#art84_cpt} O armazenamento de material fragmentado deve ser feito em silos adequadamente vedados ou em outro sistema que possua controle da poluição do ar de eficiência igual ou superior, de modo a impedir o arraste do respectivo material pela ação dos ventos.
 
 #### Subseção IV – Material Particulado Inorgânico – MPInorgânico
 
 ###### Art. 85 {#art85}
-Tags: #material-particulado
 
 **Art. 85, caput** {#art85_cpt} A concentração de Material Particulado Inorgânico nas emissões não deve ultrapassar os seguintes padrões:
 
@@ -1648,7 +1563,6 @@ Tags: #material-particulado
 - **Art. 85, Tabela 1, linha 3** {#art85_tab1_lin3} Substância/Taxa de Emissão: Substâncias de Classe III com taxa de emissão, na soma, acima de 25,0 g/h | Padrão: 5,0 mg/Nm3 na soma, incluindo: - Chumbo e seus compostos, expresso como Pb; - Antimônio e seus compostos, expresso como Sb; - Cromo e seus compostos, expresso como Cr; - Cianetos facilmente solúveis, expresso como CN; - Fluoretos facilmente solúveis, expresso como F; - Cobre e seus compostos, expresso como Cu; - Manganês e seus compostos, expresso como Mn; - Vanádio e seus compostos, expresso como V; - Estanho e seus compostos, expresso como Sn.
 
 ###### Art. 86 {#art86}
-Tags: 
 
 **Art. 86, caput** {#art86_cpt} No caso de emissões contendo substâncias de diferentes classes ficam estabelecidos os padrões abaixo, sem alteração dos padrões determinados no [[#art85|art. 85]]:
 
@@ -1662,7 +1576,6 @@ Tags:
 #### Subseção V – Substâncias Gasosas Inorgânicas – SGInorgânico
 
 ###### Art. 87 {#art87}
-Tags: #chamine
 
 **Art. 87, caput** {#art87_cpt} A concentração de Substâncias Gasosas Inorgânicas provenientes de emissões geradas em atividades como indústrias químicas e petroquímicas, constantes no [[#anexo4|Anexo IV]] e nas quais as matérias primas e insumos utilizados sejam precursores dessas substâncias gasosas inorgânicas, quando medida através de dutos e chaminés, não podem ultrapassar:
 
@@ -1677,7 +1590,6 @@ Tags: #chamine
 #### Subseção VI – Substâncias Gasosas Orgânicas – VOC
 
 ###### Art. 88 {#art88}
-Tags: #chamine #voc
 
 **Art. 88, caput** {#art88_cpt} A concentração de substâncias gasosas orgânicas, medida através de dutos e chaminés, deve atender os seguintes padrões:
 
@@ -1694,12 +1606,10 @@ Tags: #chamine #voc
 ## CAPÍTULO VI – DO AUTOMONITORAMENTO
 
 ###### Art. 89 {#art89}
-Tags: #automonitoramento #emissao-atmosferica
 
 **Art. 89, caput** {#art89_cpt} As atividades e empreendimentos públicos ou privados, que possuam fontes efetivas ou potencialmente poluidoras do ar, sujeitas ao atendimento de limites de emissões estabelecidos nesta Resolução, devem realizar o automonitoramento das emissões atmosféricas para verificação do seu atendimento.
 
 ###### Art. 90 {#art90}
-Tags: #automonitoramento #dea #licenciamento-ambiental
 
 **Art. 90, caput** {#art90_cpt} O automonitoramento estabelecido no caput deste artigo deve ser apresentado por meio de Relatório Simplificado de Automonitoramento de Emissões Atmosféricas (REAT), baseado em um Programa de Automonitoramento de Emissões Atmosféricas (PEAT).
 
@@ -1710,7 +1620,6 @@ Tags: #automonitoramento #dea #licenciamento-ambiental
 **Art. 90, § 3º** {#art90_par3} O PEAT deve ser revisado em caso de alteração das fontes emissoras e/ou dos parâmetros a serem analisados, e apresentado no DEA.
 
 ###### Art. 91 {#art91}
-Tags: #automonitoramento #dea #licenciamento-ambiental #renovacao #prazo
 
 **Art. 91, caput** {#art91_cpt} Os resultados do automonitoramento constantes no Relatório Simplificado de Automonitoramento de Emissões Atmosféricas devem ser declarados no DEA em até 06 meses da realização do monitoramento, devendo atender as frequências estabelecidas nesta Resolução.
 
@@ -1719,12 +1628,10 @@ Tags: #automonitoramento #dea #licenciamento-ambiental #renovacao #prazo
 **Art. 91, § 2º** {#art91_par2} Para a renovação do licenciamento ambiental de empreendimentos em operação, devem obrigatoriamente ser apresentado(s) o(s) comprovante(s) de declaração DEA dos resultados dos automonitoramentos relativos aos doze meses anteriores à data de requerimento de sua renovação de licenciamento.
 
 ###### Art. 92 {#art92}
-Tags: 
 
 **Art. 92, caput** {#art92_cpt} O órgão ambiental, nos casos em que se fizerem necessários, poderá exigir a instalação e operação de equipamentos automáticos de medição com registradores gráficos nas fontes potenciais de poluição do ar, para monitoramento das quantidades de poluentes emitidos, ficando os registros efetuados à sua disposição.
 
 ###### Art. 93 {#art93}
-Tags: #automonitoramento #voc #material-particulado #balanco-massa
 
 **Art. 93, caput** {#art93_cpt} Nas fontes fixas, cuja frequência de automonitoramento não é estabelecida em artigos específicos, o monitoramento de suas emissões atmosféricas deve ser realizado em função da taxa da emissão, conforme tabela abaixo:
 
@@ -1753,26 +1660,22 @@ Tags: #automonitoramento #voc #material-particulado #balanco-massa
 **Art. 93, § 3º** {#art93_par3} Para processos com emissão de MPtotal controlada por sistemas comprovadamente eficientes, a frequência do automonitoramento poderá ser alterada quando houver a apresentação de plano de manutenção do equipamento de controle, permitindo maiores espaços temporais entre as medições efetuadas, desde que atendidos os padrões desta Resolução, comprovados por meio de medições.
 
 ###### Art. 94 {#art94}
-Tags: #automonitoramento #laboratorio #amostragem #laboratorio-acreditado
 
 **Art. 94, caput** {#art94_cpt} As amostragens e análises laboratoriais que fazem parte do automonitoramento serão realizadas por empresas cadastradas no Cadastro de Certificado de Laboratório CCL do órgão ambiental, atendendo a [[resolucao-cema-100-2017|Resolução CEMA Nº 100, de 30 de junho de 2017]], ou outra normativa que a vier substituir.
 
 ## CAPÍTULO VII – DOS PADRÕES DE EMISSÃO PARA FONTES MÓVEIS
 
 ###### Art. 95 {#art95}
-Tags: #fonte-movel
 
 **Art. 95, caput** {#art95_cpt} Os Padrões de Emissão para fontes móveis a serem observados no Estado do Paraná são os mesmos fixados pelo Conselho Nacional do Meio Ambiente - CONAMA.
 
 ### Seção I – Dos Padrões de Qualidade do Ar
 
 ###### Art. 96 {#art96}
-Tags: #padrao-qualidade #qualidade-ar
 
 **Art. 96, caput** {#art96_cpt} Os Padrões de Qualidade do Ar referem-se às concentrações de poluentes que, quando ultrapassadas, podem afetar a saúde, a segurança e o bem-estar da população, bem como ocasionar danos ao meio ambiente em geral.
 
 ###### Art. 97 {#art97}
-Tags: #padrao-qualidade #qualidade-ar
 
 **Art. 97, caput** {#art97_cpt} Ficam estabelecidos para todo o território do Estado do Paraná os Padrões de Qualidade do Ar constantes na [[resolucao-conama-506-2024|RESOLUÇÃO CONAMA Nº 506, de 15 de julho de 2024]], ou outras que venham a substitui, conforme tabela a seguir:
 
@@ -1800,7 +1703,6 @@ Tags: #padrao-qualidade #qualidade-ar
 - **Art. 97, Tabela 1, nota 5** {#art97_tab1_nota5} 1 – medido nas partículas totais em suspensão
 
 ###### Art. 98 {#art98}
-Tags: #padrao-qualidade #qualidade-ar #estudo-dispersao
 
 **Art. 98, caput** {#art98_cpt} A verificação do atendimento aos padrões de qualidade do ar deve ser efetuada pelo monitoramento dos poluentes na atmosfera ou, na ausência de medições, pela utilização de modelos matemáticos de dispersão atmosférica.
 
@@ -1809,7 +1711,6 @@ Tags: #padrao-qualidade #qualidade-ar #estudo-dispersao
 ## CAPÍTULO VIII – CRITÉRIOS PARA EPISÓDIOS CRÍTICOS DE POLUIÇÃO DO AR
 
 ###### Art. 99 {#art99}
-Tags: #estudo-dispersao #episodio-critico #plano-emergencia
 
 **Art. 99, caput** {#art99_cpt} Episódios críticos de poluição atmosférica ocorrem em situações de elevadas concentrações de um ou mais poluentes na atmosfera, resultantes de condições meteorológicas desfavoráveis à dispersão dos mesmos.
 
@@ -1826,7 +1727,6 @@ Tags: #estudo-dispersao #episodio-critico #plano-emergencia
 ## CAPÍTULO IX – DO INVENTÁRIO DE EMISSÕES DE GASES DE EFEITO ESTUFA – GEE
 
 ###### Art. 100 {#art100}
-Tags: #licenciamento-ambiental #gee #inventario-emissoes
 
 **Art. 100, caput** {#art100_cpt} Considerando a necessidade de combate às mudanças climáticas e em consonância com a Política Estadual sobre Mudança do Clima, o Inventário de Emissões de Gases de Efeito Estufa – GEE, deve ser previsto como requisito no âmbito do licenciamento ambiental.
 
@@ -1835,12 +1735,10 @@ Tags: #licenciamento-ambiental #gee #inventario-emissoes
 ## CAPÍTULO X – DAS DISPOSIÇÕES FINAIS
 
 ###### Art. 101 {#art101}
-Tags: #revogacao
 
 **Art. 101, caput** {#art101_cpt} Revoga-se a [[resolucao-sema-16-2014|Resolução SEMA 016, de 15 de abril de 2014]], [[resolucao-sema-24-2019|Resolução SEMA 024, de 30 de abril de 2019]], [[resolucao-sedest-12-2020|Resolução SEDEST 012, de 19 de fevereiro de 2020]], [[resolucao-sedest-71-2019|Resolução SEDEST 071, de 17 de setembro de 2019]] e [[portaria-iap-1-2008|Portaria IAP 01, de 09 de janeiro de 2008]].
 
 ###### Art. 102 {#art102}
-Tags: #vigencia
 
 **Art. 102, caput** {#art102_cpt} Esta Resolução entra em vigor na data de sua publicação.
 
@@ -1856,7 +1754,6 @@ Tags: #vigencia
 > Tipos conforme as regras de anexos do README: **tipo 2** (termos de referência) em arquivo próprio em `normas/anexos/`, com o texto fiel e a síntese do conversor; **tipo 3** (conteúdo normativo) listado aqui, com IDs `anexoN_linM` e `anexoN_tabT_linM`. Não há anexos do tipo 1.
 
 ### ANEXO I {#anexo1}
-Tags: #chamine #padrao-emissao #combustivel #refinaria #conversor-amonia
 
 **EQUAÇÕES APLICADAS**
 
@@ -1869,26 +1766,26 @@ Tags: #chamine #padrao-emissao #combustivel #refinaria #conversor-amonia
 - **Anexo I, item I, linha 7** {#anexo1_lin7} C<sub>M</sub>: concentração medida em mg/Nm<sup>3</sup> ou ppmv.
 - **Anexo I, item II, linha 8** {#anexo1_lin8} II. Equação para cálculo da superfície de eletroforese
 - **Anexo I, item II, linha 9** {#anexo1_lin9} Superfície de eletroforese (m<sup>2</sup>) = 2 massa objeto metálico (kg) / [espessura média da lâmina (m) · densidade média da lâmina (kg/m<sup>3</sup>)]
-- **Anexo I, item III, linha 10** {#anexo1_lin10} #chamine III. Equações para cálculo da altura de dutos ou chaminés.
-- **Anexo I, item III, linha 11** {#anexo1_lin11} #chamine A<sub>f</sub> = A<sub>t</sub> − E
-- **Anexo I, item III, linha 12** {#anexo1_lin12} #chamine A<sub>t</sub> = 3,5 · (T · f|p)<sup>0,52</sup>
-- **Anexo I, item III, linha 13** {#anexo1_lin13} #chamine E = (v<sub>c</sub> · d<sub>c</sub> / v) · (1,5 + (0,00268 · P · (Δt · d<sub>c</sub> / t<sub>c</sub>)))
-- **Anexo I, item III, linha 14** {#anexo1_lin14} #chamine v = v<sub>10</sub> ((A<sub>t</sub> / 10)<sup>0,28</sup>)
-- **Anexo I, item III, linha 15** {#anexo1_lin15} #chamine Na qual:
-- **Anexo I, item III, linha 16** {#anexo1_lin16} #chamine A<sub>f</sub>: Altura física da chaminé em metros;
-- **Anexo I, item III, linha 17** {#anexo1_lin17} #chamine A<sub>t</sub>: Altura teórica da chaminé em metros;
-- **Anexo I, item III, linha 18** {#anexo1_lin18} #chamine T: Taxa de emissão prevista para os poluentes limitados (kg/h)
-- **Anexo I, item III, linha 19** {#anexo1_lin19} #chamine f<sub>p</sub>: Fator de periculosidade do poluente, de acordo com o Anexo XIII
-- **Anexo I, item III, linha 20** {#anexo1_lin20} #chamine E: Elevação da pluma (m):
-- **Anexo I, item III, linha 21** {#anexo1_lin21} #chamine - Na ausência de chapéu chinês ou semelhante: calculada de acordo com a equação;
-- **Anexo I, item III, linha 22** {#anexo1_lin22} #chamine - Na presença de chapéu chinês ou semelhante: zero;
-- **Anexo I, item III, linha 23** {#anexo1_lin23} #chamine v<sub>c</sub>: Velocidade prevista dos gases na extremidade superior da chaminé (m/s);
-- **Anexo I, item III, linha 24** {#anexo1_lin24} #chamine d<sub>c</sub>: Diâmetro previsto da extremidade superior da chaminé (m);
-- **Anexo I, item III, linha 25** {#anexo1_lin25} #chamine v: Velocidade média do vento na extremidade superior da chaminé (m/s);
-- **Anexo I, item III, linha 26** {#anexo1_lin26} #chamine v<sub>10</sub>: Velocidade média do vento numa altura até 10 metros (m/s) obtida a partir de dados do sistema meteorológico.
-- **Anexo I, item III, linha 27** {#anexo1_lin27} #chamine P: pressão atmosférica média (mbar)
-- **Anexo I, item III, linha 28** {#anexo1_lin28} #chamine Δt: diferença entre a temperatura prevista dos gases na chaminé (K) e a temperatura média ambiente (K)
-- **Anexo I, item III, linha 29** {#anexo1_lin29} #chamine t<sub>c</sub>: temperatura prevista dos gases na chaminé (K)
+- **Anexo I, item III, linha 10** {#anexo1_lin10} III. Equações para cálculo da altura de dutos ou chaminés.
+- **Anexo I, item III, linha 11** {#anexo1_lin11} A<sub>f</sub> = A<sub>t</sub> − E
+- **Anexo I, item III, linha 12** {#anexo1_lin12} A<sub>t</sub> = 3,5 · (T · f|p)<sup>0,52</sup>
+- **Anexo I, item III, linha 13** {#anexo1_lin13} E = (v<sub>c</sub> · d<sub>c</sub> / v) · (1,5 + (0,00268 · P · (Δt · d<sub>c</sub> / t<sub>c</sub>)))
+- **Anexo I, item III, linha 14** {#anexo1_lin14} v = v<sub>10</sub> ((A<sub>t</sub> / 10)<sup>0,28</sup>)
+- **Anexo I, item III, linha 15** {#anexo1_lin15} Na qual:
+- **Anexo I, item III, linha 16** {#anexo1_lin16} A<sub>f</sub>: Altura física da chaminé em metros;
+- **Anexo I, item III, linha 17** {#anexo1_lin17} A<sub>t</sub>: Altura teórica da chaminé em metros;
+- **Anexo I, item III, linha 18** {#anexo1_lin18} T: Taxa de emissão prevista para os poluentes limitados (kg/h)
+- **Anexo I, item III, linha 19** {#anexo1_lin19} f<sub>p</sub>: Fator de periculosidade do poluente, de acordo com o Anexo XIII
+- **Anexo I, item III, linha 20** {#anexo1_lin20} E: Elevação da pluma (m):
+- **Anexo I, item III, linha 21** {#anexo1_lin21} - Na ausência de chapéu chinês ou semelhante: calculada de acordo com a equação;
+- **Anexo I, item III, linha 22** {#anexo1_lin22} - Na presença de chapéu chinês ou semelhante: zero;
+- **Anexo I, item III, linha 23** {#anexo1_lin23} v<sub>c</sub>: Velocidade prevista dos gases na extremidade superior da chaminé (m/s);
+- **Anexo I, item III, linha 24** {#anexo1_lin24} d<sub>c</sub>: Diâmetro previsto da extremidade superior da chaminé (m);
+- **Anexo I, item III, linha 25** {#anexo1_lin25} v: Velocidade média do vento na extremidade superior da chaminé (m/s);
+- **Anexo I, item III, linha 26** {#anexo1_lin26} v<sub>10</sub>: Velocidade média do vento numa altura até 10 metros (m/s) obtida a partir de dados do sistema meteorológico.
+- **Anexo I, item III, linha 27** {#anexo1_lin27} P: pressão atmosférica média (mbar)
+- **Anexo I, item III, linha 28** {#anexo1_lin28} Δt: diferença entre a temperatura prevista dos gases na chaminé (K) e a temperatura média ambiente (K)
+- **Anexo I, item III, linha 29** {#anexo1_lin29} t<sub>c</sub>: temperatura prevista dos gases na chaminé (K)
 - **Anexo I, item IV, linha 30** {#anexo1_lin30} IV. Equação para cálculo do limite de emissões atmosféricas quando do lançamento de efluentes gasosos provenientes de duas ou mais fontes distintas.
 - **Anexo I, item IV, linha 31** {#anexo1_lin31} Σ<sub>1</sub><sup>n</sup> P<sub>n</sub> · LME<sub>n</sub> / Σ<sub>1</sub><sup>n</sup> P<sub>n</sub>
 - **Anexo I, item IV, linha 32** {#anexo1_lin32} Na qual:
@@ -1965,120 +1862,117 @@ Tags: #chamine #padrao-emissao #combustivel #refinaria #conversor-amonia
 - **Anexo I, item VII, linha 103** {#anexo1_lin103} TE(NH<sub>3</sub>) = 16 kg/h de NH<sub>3</sub>
 
 ### ANEXO II {#anexo2}
-Tags: #emissao-evaporativa #tanque-armazenamento #voc #diretriz-estudo
 
 **DIRETRIZES PARA APRESENTAÇÃO DE RELATÓRIO DE CARACTERIZAÇÃO DE EMISSÕES EVAPORATIVAS EM TANQUES**
 
 Diretriz de estudo (tipo 2), em arquivo próprio: [[resolucao-sedest-2-2025-anexo2|Anexo II – Relatório de Caracterização de Emissões Evaporativas em Tanques]]. Exigido no [[#art20|art. 20]].
 
 ### ANEXO III {#anexo3}
-Tags: #material-particulado #amostragem
 
 **MÉTODO DE MEDIÇÃO GRAVIMÉTRICA DE MATERIAL PARTICULADO EMITIDO POR PEQUENAS INSTALAÇÕES**
 
-- **Anexo III, item 1, linha 1** {#anexo3_lin1} #material-particulado #amostragem 1. Equipamento para a medição de material particulado
-- **Anexo III, item 1.1, linha 2** {#anexo3_lin2} #material-particulado #amostragem 1.1. O volume de gás amostrado deve ser de 135 ± 6,75 litros, referente condições normais (273 K, 1013 hPa) num intervalo de 15 minutos.
-- **Anexo III, item 1.2, linha 3** {#anexo3_lin3} #material-particulado #amostragem 1.2. A vazão do gás amostrado deve ser controlada durante a amostragem pela medição da vazão.
-- **Anexo III, item 1.3, linha 4** {#anexo3_lin4} #material-particulado #amostragem 1.3. A sonda deve ser construída para providenciar uma amostragem isocinética para uma temperatura na chaminé de 325ºC, uma velocidade dos gases na chaminé de 4 m/s e uma pressão na chaminé de 1013 hPa.
-- **Anexo III, item 1.4, linha 5** {#anexo3_lin5} #material-particulado #amostragem 1.4. O suporte para o filtro deve ser construído de tal forma para não danificar os filtros durante o manuseio e para não permitir a passagem de material particulado para a bomba.
-- **Anexo III, item 1.5, linha 6** {#anexo3_lin6} #material-particulado #amostragem 1.5. O sistema de amostragem deve providenciar através de um aquecimento controlado da sonda, uma temperatura acima do ponto de orvalho da parte da sonda antes do filtro e dentro do porta filtro.
-- **Anexo III, item 1.6, linha 7** {#anexo3_lin7} #material-particulado #amostragem 1.6. A temperatura dentro do porta filtro deve ser mantida constante em 70ºC durante a amostragem.
-- **Anexo III, item 1.7, linha 8** {#anexo3_lin8} #material-particulado #amostragem 1.7. Nos casos que os gases amostrados tenham uma temperatura acima de 225ºC deve ser providenciado um dispositivo de resfriamento para garantir uma temperatura no porta filtro de 70ºC.
-- **Anexo III, item 1.8, linha 9** {#anexo3_lin9} #material-particulado #amostragem 1.8. O dispositivo de resfriamento não deve influenciar a concentração de material particulado medida.
-- **Anexo III, item 1.9, linha 10** {#anexo3_lin10} #material-particulado #amostragem 1.9. A bomba e o controlador da vazão dos gases amostrados devem ser protegidos contra poeira e condensado.
-- **Anexo III, item 1.10, linha 11** {#anexo3_lin11} #material-particulado #amostragem 1.10. O analisador deve fornecer uma resolução da concentração de material particulado medida de ± 30 mg/m3.
-- **Anexo III, item 1.11, linha 12** {#anexo3_lin12} #material-particulado #amostragem 1.11. A estabilidade mecânica dos filtros deve ser mantida até 160°C, sendo a perda de massa limitada a 2 mg, no máximo.
-- **Anexo III, item 2, linha 13** {#anexo3_lin13} #material-particulado #amostragem 2. Procedimento de Amostragem e Análise
-- **Anexo III, item 2.1, linha 14** {#anexo3_lin14} #material-particulado #amostragem 2.1. A medição consiste na sucção de 135 litros de gases durante 15 minutos por um filtro de lã de vidro.
-- **Anexo III, item 2.2, linha 15** {#anexo3_lin15} #material-particulado #amostragem 2.2. A duração da medição pode ser programada para períodos maiores do que 15 minutos.
-- **Anexo III, item 2.3, linha 16** {#anexo3_lin16} #material-particulado #amostragem 2.3. A velocidade de sucção é de 4 m/s referente a 325°C e 1013 hPa.
-- **Anexo III, item 2.4, linha 17** {#anexo3_lin17} #material-particulado #amostragem 2.4. A massa de material particulado retido é determinada através da diferença do peso do filtro antes e depois da amostragem.
-- **Anexo III, item 2.5, linha 18** {#anexo3_lin18} #material-particulado #amostragem 2.5. O condicionamento e a pesagem do filtro será feito em laboratório.
-- **Anexo III, item 2.6, linha 19** {#anexo3_lin19} #material-particulado #amostragem 2.6. O local de amostragem é 2 diâmetros depois do último estágio de troca de calor, na posição da seção onde for localizada a maior temperatura.
-- **Anexo III, item 2.7, linha 20** {#anexo3_lin20} #material-particulado #amostragem 2.7. Caso a seção definida em [[#anexo3_lin14|2.1]] não seja viável para a amostragem, por se tratar de uma curva ou um local com incrustações ou com fluxo ciclônico, a definição do novo local da amostragem deve seguir as seguintes regras gerais:
-- **Anexo III, item 2.7, linha 21** {#anexo3_lin21} #material-particulado #amostragem • um duto vertical com um perfil uniforme de velocidade
-- **Anexo III, item 2.7, linha 22** {#anexo3_lin22} #material-particulado #amostragem • uma distância de pelo menos 6 diâmetros para a próxima singularidade a montante e pelo menos 2 diâmetros a jusante
-- **Anexo III, item 2.7, linha 23** {#anexo3_lin23} #material-particulado #amostragem • posicionamento da sonda no centro geométrico da chaminé
-- **Anexo III, item 2.8, linha 24** {#anexo3_lin24} #material-particulado #amostragem 2.8. No caso da impossibilidade da medição nas seções definidas em [[#anexo3_lin14|2.1]] e [[#anexo3_lin15|2.2]] deve ser feita a amostragem em outra seção, sendo neste caso a sonda posicionada no local onde for localizada a maior temperatura da seção.
-- **Anexo III, item 2.9, linha 25** {#anexo3_lin25} #material-particulado #amostragem 2.9. Uma amostragem na proximidade da parede do duto deve ser evitada.
-- **Anexo III, item 2.10, linha 26** {#anexo3_lin26} #material-particulado #amostragem 2.10. O filtro não deve ser danificado durante o seu manuseio, sendo ele transportado em tubos metálicos individuais e montado e desmontado da sonda em cima de uma folha branca de papel.
-- **Anexo III, item 2.11, linha 27** {#anexo3_lin27} #material-particulado #amostragem 2.11. A pesagem do filtro é feita junto com o tubo metálico utilizado para o seu transporte.
-- **Anexo III, item 2.12, linha 28** {#anexo3_lin28} #material-particulado #amostragem 2.12. A fração removida pelo filtro são substâncias que condensam até 70°C, que é a temperatura operacional do porta filtro.
-- **Anexo III, item 2.13, linha 29** {#anexo3_lin29} #material-particulado #amostragem 2.13. Substâncias com temperaturas de condensação inferiores a 70°C são removidas nas etapas posteriores do porta filtro por filtragem, resfriamento e secagem.
-- **Anexo III, Referências, linha 30** {#anexo3_lin30} #material-particulado #amostragem REFERÊNCIAS:
-- **Anexo III, Referências, linha 31** {#anexo3_lin31} #material-particulado #amostragem • BImSchV: Erste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes, 14.03.1997, BGBl. I Nr. 17, S. 491 (Decreto alemão para o Controle de Emissões Atmosféricas por instalações pequenas).
-- **Anexo III, Referências, linha 32** {#anexo3_lin32} #material-particulado #amostragem • Rundschreiben des BMU vom 31.01.1997 – IGI3 – 51134/1.
-- **Anexo III, Referências, linha 33** {#anexo3_lin33} #material-particulado #amostragem • Bundesverband des Schornsteinfegerhandwerks – Zentralinnungsverband (ZIV): Arbeitsblatt Nr. 602, Messungen an Feuerungsanlagen für feste Brennstoffe, julho de 2001.
+- **Anexo III, item 1, linha 1** {#anexo3_lin1} 1. Equipamento para a medição de material particulado
+- **Anexo III, item 1.1, linha 2** {#anexo3_lin2} 1.1. O volume de gás amostrado deve ser de 135 ± 6,75 litros, referente condições normais (273 K, 1013 hPa) num intervalo de 15 minutos.
+- **Anexo III, item 1.2, linha 3** {#anexo3_lin3} 1.2. A vazão do gás amostrado deve ser controlada durante a amostragem pela medição da vazão.
+- **Anexo III, item 1.3, linha 4** {#anexo3_lin4} 1.3. A sonda deve ser construída para providenciar uma amostragem isocinética para uma temperatura na chaminé de 325ºC, uma velocidade dos gases na chaminé de 4 m/s e uma pressão na chaminé de 1013 hPa.
+- **Anexo III, item 1.4, linha 5** {#anexo3_lin5} 1.4. O suporte para o filtro deve ser construído de tal forma para não danificar os filtros durante o manuseio e para não permitir a passagem de material particulado para a bomba.
+- **Anexo III, item 1.5, linha 6** {#anexo3_lin6} 1.5. O sistema de amostragem deve providenciar através de um aquecimento controlado da sonda, uma temperatura acima do ponto de orvalho da parte da sonda antes do filtro e dentro do porta filtro.
+- **Anexo III, item 1.6, linha 7** {#anexo3_lin7} 1.6. A temperatura dentro do porta filtro deve ser mantida constante em 70ºC durante a amostragem.
+- **Anexo III, item 1.7, linha 8** {#anexo3_lin8} 1.7. Nos casos que os gases amostrados tenham uma temperatura acima de 225ºC deve ser providenciado um dispositivo de resfriamento para garantir uma temperatura no porta filtro de 70ºC.
+- **Anexo III, item 1.8, linha 9** {#anexo3_lin9} 1.8. O dispositivo de resfriamento não deve influenciar a concentração de material particulado medida.
+- **Anexo III, item 1.9, linha 10** {#anexo3_lin10} 1.9. A bomba e o controlador da vazão dos gases amostrados devem ser protegidos contra poeira e condensado.
+- **Anexo III, item 1.10, linha 11** {#anexo3_lin11} 1.10. O analisador deve fornecer uma resolução da concentração de material particulado medida de ± 30 mg/m3.
+- **Anexo III, item 1.11, linha 12** {#anexo3_lin12} 1.11. A estabilidade mecânica dos filtros deve ser mantida até 160°C, sendo a perda de massa limitada a 2 mg, no máximo.
+- **Anexo III, item 2, linha 13** {#anexo3_lin13} 2. Procedimento de Amostragem e Análise
+- **Anexo III, item 2.1, linha 14** {#anexo3_lin14} 2.1. A medição consiste na sucção de 135 litros de gases durante 15 minutos por um filtro de lã de vidro.
+- **Anexo III, item 2.2, linha 15** {#anexo3_lin15} 2.2. A duração da medição pode ser programada para períodos maiores do que 15 minutos.
+- **Anexo III, item 2.3, linha 16** {#anexo3_lin16} 2.3. A velocidade de sucção é de 4 m/s referente a 325°C e 1013 hPa.
+- **Anexo III, item 2.4, linha 17** {#anexo3_lin17} 2.4. A massa de material particulado retido é determinada através da diferença do peso do filtro antes e depois da amostragem.
+- **Anexo III, item 2.5, linha 18** {#anexo3_lin18} 2.5. O condicionamento e a pesagem do filtro será feito em laboratório.
+- **Anexo III, item 2.6, linha 19** {#anexo3_lin19} 2.6. O local de amostragem é 2 diâmetros depois do último estágio de troca de calor, na posição da seção onde for localizada a maior temperatura.
+- **Anexo III, item 2.7, linha 20** {#anexo3_lin20} 2.7. Caso a seção definida em [[#anexo3_lin14|2.1]] não seja viável para a amostragem, por se tratar de uma curva ou um local com incrustações ou com fluxo ciclônico, a definição do novo local da amostragem deve seguir as seguintes regras gerais:
+- **Anexo III, item 2.7, linha 21** {#anexo3_lin21} • um duto vertical com um perfil uniforme de velocidade
+- **Anexo III, item 2.7, linha 22** {#anexo3_lin22} • uma distância de pelo menos 6 diâmetros para a próxima singularidade a montante e pelo menos 2 diâmetros a jusante
+- **Anexo III, item 2.7, linha 23** {#anexo3_lin23} • posicionamento da sonda no centro geométrico da chaminé
+- **Anexo III, item 2.8, linha 24** {#anexo3_lin24} 2.8. No caso da impossibilidade da medição nas seções definidas em [[#anexo3_lin14|2.1]] e [[#anexo3_lin15|2.2]] deve ser feita a amostragem em outra seção, sendo neste caso a sonda posicionada no local onde for localizada a maior temperatura da seção.
+- **Anexo III, item 2.9, linha 25** {#anexo3_lin25} 2.9. Uma amostragem na proximidade da parede do duto deve ser evitada.
+- **Anexo III, item 2.10, linha 26** {#anexo3_lin26} 2.10. O filtro não deve ser danificado durante o seu manuseio, sendo ele transportado em tubos metálicos individuais e montado e desmontado da sonda em cima de uma folha branca de papel.
+- **Anexo III, item 2.11, linha 27** {#anexo3_lin27} 2.11. A pesagem do filtro é feita junto com o tubo metálico utilizado para o seu transporte.
+- **Anexo III, item 2.12, linha 28** {#anexo3_lin28} 2.12. A fração removida pelo filtro são substâncias que condensam até 70°C, que é a temperatura operacional do porta filtro.
+- **Anexo III, item 2.13, linha 29** {#anexo3_lin29} 2.13. Substâncias com temperaturas de condensação inferiores a 70°C são removidas nas etapas posteriores do porta filtro por filtragem, resfriamento e secagem.
+- **Anexo III, Referências, linha 30** {#anexo3_lin30} REFERÊNCIAS:
+- **Anexo III, Referências, linha 31** {#anexo3_lin31} • BImSchV: Erste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes, 14.03.1997, BGBl. I Nr. 17, S. 491 (Decreto alemão para o Controle de Emissões Atmosféricas por instalações pequenas).
+- **Anexo III, Referências, linha 32** {#anexo3_lin32} • Rundschreiben des BMU vom 31.01.1997 – IGI3 – 51134/1.
+- **Anexo III, Referências, linha 33** {#anexo3_lin33} • Bundesverband des Schornsteinfegerhandwerks – Zentralinnungsverband (ZIV): Arbeitsblatt Nr. 602, Messungen an Feuerungsanlagen für feste Brennstoffe, julho de 2001.
 
 ### ANEXO IV {#anexo4}
-Tags: #amostragem #monitoramento #qualidade-ar
 
 **MÉTODOS DE AMOSTRAGENS E ANÁLISES DE EMISSÕES ATMOSFÉRICAS**
 
 **Anexo IV, Tabela 1** {#anexo4_tab1} Métodos de amostragem e análise por objetivo (sem título no original)
 
-- **Anexo IV, Tabela 1, linha 1** {#anexo4_tab1_lin1} #amostragem Grupo: Critérios Gerais | OBJETIVO: Planejamento de amostragem em dutos e chaminés de fontes fixas | NORMA/REGULAMENTO: VDI 2448, parte 1 (Abril 1992); Execução de medição em dutos e chaminés VDI 4200 (Dezembro 2000)
-- **Anexo IV, Tabela 1, linha 2** {#anexo4_tab1_lin2} #amostragem Grupo: Critérios Gerais | OBJETIVO: Determinação de pontos de amostragem em dutos e chaminés de fontes fixas | NORMA/REGULAMENTO: CETESB L 9.221; MF.511.R-4; ABNT NBR 17163:2024
-- **Anexo IV, Tabela 1, linha 3** {#anexo4_tab1_lin3} #amostragem Grupo: Critérios Gerais | OBJETIVO: Calibração de analisadores e equipamentos | NORMA/REGULAMENTO: VDI 3950 (Junho 2018); ABNT/NBR 12020 (Abril 1992); CETESB E16030
-- **Anexo IV, Tabela 1, linha 4** {#anexo4_tab1_lin4} #amostragem Grupo: Critérios Gerais | OBJETIVO: Efluentes gasosos em dutos e chaminés de fontes fixas - Determinação da velocidade e vazão | NORMA/REGULAMENTO: ABNT/NBR 11966 (Julho 1989); CETESB L 9.222; DIN ISO 14164 (Dezembro 2002); EPA método 2 - DETERMINATION OF STACK GAS VELOCITY AND VOLUMETRIC FLOW RATE
-- **Anexo IV, Tabela 1, linha 5** {#anexo4_tab1_lin5} #amostragem Grupo: Critérios Gerais | OBJETIVO: Efluentes gasosos em dutos e chaminés de fontes fixas - Determinação da massa molecular - Base seca | NORMA/REGULAMENTO: CETESB L9.223; EPA método 3 - GAS ANALYSIS FOR THE DETERMINATION OF DRY MOLECULAR WEIGHT
-- **Anexo IV, Tabela 1, linha 6** {#anexo4_tab1_lin6} #amostragem Grupo: Critérios Gerais | OBJETIVO: Efluentes gasosos em dutos e chaminés de fontes fixas - Determinação da umidade | NORMA/REGULAMENTO: ABNT/NBR 11967 (Julho 1989); CETESB L9.224; EPA Método 4
-- **Anexo IV, Tabela 1, linha 7** {#anexo4_tab1_lin7} #amostragem Grupo: Critérios Gerais | OBJETIVO: Execução de medição em dutos e chaminés | NORMA/REGULAMENTO: VDI 4200 (Dezembro 2000)
-- **Anexo IV, Tabela 1, linha 8** {#anexo4_tab1_lin8} #amostragem Grupo: Critérios Gerais | OBJETIVO: Controle de qualidade de equipamento de monitoramento contínuo de emissões | NORMA/REGULAMENTO: DIN EN 14181 (2015)
-- **Anexo IV, Tabela 1, linha 9** {#anexo4_tab1_lin9} #amostragem Grupo: Critérios Gerais | OBJETIVO: Requisitos para analisadores portáteis para a medição de parâmetros de combustão | NORMA/REGULAMENTO: DIN EN 50379, partes 1-3 (Janeiro 2005)
-- **Anexo IV, Tabela 1, linha 10** {#anexo4_tab1_lin10} #amostragem Grupo: Material Particulado Geral | OBJETIVO: Efluentes gasosos com o sistema filtrante no interior do duto ou chaminé de fontes fixas - Determinação de material particulado | NORMA/REGULAMENTO: ABNT/NBR 12827 (Setembro 1993); CETESB L9.217; VDI 2066, parte 7 (Agosto 1993); EPA métodos 5i e 17; DIN EN 13284-1 (2017)
-- **Anexo IV, Tabela 1, linha 11** {#anexo4_tab1_lin11} #amostragem Grupo: Material Particulado Geral | OBJETIVO: Efluentes gasosos em dutos e chaminés de fontes fixas - determinação de material particulado | NORMA/REGULAMENTO: ABNT/NBR 12019 (Dezembro 1990); CETESB L9.225; VDI 2066, parte 1 (Novembro 2006); VDI 2066, parte 2 (Agosto 1995); EPA método 5; DIN EN 13284-1 (2017)
-- **Anexo IV, Tabela 1, linha 12** {#anexo4_tab1_lin12} #amostragem Grupo: Material Particulado Geral | OBJETIVO: Material Particulado contínuo | NORMA/REGULAMENTO: DIN EN 13284-2 (2017); EPA método PS01, PS11; ISO 10155: 1955
-- **Anexo IV, Tabela 1, linha 13** {#anexo4_tab1_lin13} #amostragem Grupo: Material Particulado Geral | OBJETIVO: Material Particulado – Granulometria | NORMA/REGULAMENTO: VDI 2066, parte 5 (Novembro 1994)
-- **Anexo IV, Tabela 1, linha 14** {#anexo4_tab1_lin14} #amostragem Grupo: Material Particulado Geral | OBJETIVO: Densidade colorimétrica | NORMA/REGULAMENTO: CPRH M1.009 Determinação da densidade de fumaça; método de escala de Ringelmann; MF-0520.R-4 - Método para determinação visual de emissões provenientes de combustão em fontes fixas; CETESB L9.061
-- **Anexo IV, Tabela 1, linha 15** {#anexo4_tab1_lin15} #amostragem Grupo: Material Particulado Geral | OBJETIVO: Material Particulado emitido por pequenas instalações | NORMA/REGULAMENTO: de acordo [[#anexo6|Anexo VI]]
-- **Anexo IV, Tabela 1, linha 16** {#anexo4_tab1_lin16} #amostragem Grupo: Material Particulado Específico | OBJETIVO: Metais em fluxo gasosos: Amostragem | NORMA/REGULAMENTO: VDI 3868, parte 1 (Dezembro 1994); EPA método 29
-- **Anexo IV, Tabela 1, linha 17** {#anexo4_tab1_lin17} #amostragem Grupo: Material Particulado Específico | OBJETIVO: Metais em Material Particulado: Análise | NORMA/REGULAMENTO: VDI 2268, parte 1 (Abril 1987); VDI 2268, parte 2 (Fevereiro 1990); VDI 2268, parte 3 (Dezembro 1988); VDI 2268, parte 4 (Maio 1990); DIN EN 14385 (Maio 2004)
-- **Anexo IV, Tabela 1, linha 18** {#anexo4_tab1_lin18} #amostragem Grupo: Material Particulado Específico | OBJETIVO: Mercurio | NORMA/REGULAMENTO: DIN EN 13211 (Junho 2001); DIN EN 14884 (2005); EPA métodos 101 e 102
-- **Anexo IV, Tabela 1, linha 19** {#anexo4_tab1_lin19} #amostragem Grupo: Material Particulado Específico | OBJETIVO: Fibras de Amianto | NORMA/REGULAMENTO: VDI 3861, parte 1 (Dezembro 1989); VDI 3861, parte 2 (2008)
-- **Anexo IV, Tabela 1, linha 20** {#anexo4_tab1_lin20} #amostragem Grupo: Poluentes contendo Enxofre | OBJETIVO: Efluentes gasosos em dutos e chaminés de fontes fixas - Determinação de dióxido de enxofre | NORMA/REGULAMENTO: ABNT/NBR 12022 (Dezembro 1990); CETESB L9.226; EPA método 6; DIN ISO 7934 (2000); DIN ISO 11632 (2001); VDI 2462, parte 3 (2011)
-- **Anexo IV, Tabela 1, linha 21** {#anexo4_tab1_lin21} #amostragem Grupo: Poluentes contendo Enxofre | OBJETIVO: Efluentes gasosos em dutos e chaminés de fontes fixas - Determinação de dióxido de enxofre, trióxido de enxofre e névoas de ácido sulfúrico (SOx) | NORMA/REGULAMENTO: ABNT/ NBR 12021 (Dezembro 1990); CETESB L9.228; VDI 2462, parte 1 (Fevereiro 1974); VDI 2462, parte 2 (2011); EPA método 8; DIN EN 14791 (Janeiro 2004); DIN ISO 7934 (Julho 2000)
-- **Anexo IV, Tabela 1, linha 22** {#anexo4_tab1_lin22} #amostragem Grupo: Poluentes contendo Enxofre | OBJETIVO: Gás sulfídrico (H<sub>2</sub>S) | NORMA/REGULAMENTO: CETESB L9.233; VDI 3486, parte 1 (Abril 1979); VDI 3486, parte 2 (Abril 1979); EPA método 15; EPA Método 11
-- **Anexo IV, Tabela 1, linha 23** {#anexo4_tab1_lin23} #amostragem Grupo: Poluentes contendo Enxofre | OBJETIVO: CS<sub>2</sub> | NORMA/REGULAMENTO: VDI 3487, parte 1 (Novembro 1978); EPA métodos 15, 16A e 16B
-- **Anexo IV, Tabela 1, linha 24** {#anexo4_tab1_lin24} #amostragem Grupo: Poluentes contendo Enxofre | OBJETIVO: Enxofre Totalmente Reduzido (TRS) | NORMA/REGULAMENTO: CETESB L 9.227; EPA método 15A
-- **Anexo IV, Tabela 1, linha 25** {#anexo4_tab1_lin25} #amostragem Grupo: Poluentes contendo Nitrogênio | OBJETIVO: Óxidos de nitrogênio (NO, NO<sub>2</sub>) (NOx) | NORMA/REGULAMENTO: CETESB L9.229; VDI 2456 parte 10 (Novembro 2004); EPA métodos 7 e 20; DIN 33962 (Março 1997); DIN EN 14792 (Dezembro 2003); US EPA – CTM 030:1997
-- **Anexo IV, Tabela 1, linha 26** {#anexo4_tab1_lin26} #amostragem Grupo: Poluentes contendo Nitrogênio | OBJETIVO: Substâncias alcalinas contendo nitrogênio | NORMA/REGULAMENTO: VDI 3496, parte 1 (Abril 1982)
-- **Anexo IV, Tabela 1, linha 27** {#anexo4_tab1_lin27} #amostragem Grupo: Poluentes contendo Nitrogênio | OBJETIVO: Amônia | NORMA/REGULAMENTO: CETESB L9.230
-- **Anexo IV, Tabela 1, linha 28** {#anexo4_tab1_lin28} #amostragem Grupo: Poluentes contendo Nitrogênio | OBJETIVO: Ácido Cianídrico/Cianetos HCN | NORMA/REGULAMENTO: Método 426 – Determination of Cyanide Emissions fron Stationary Sources. (método CARB – agencia proteção ambiental da Califórnia).
-- **Anexo IV, Tabela 1, linha 29** {#anexo4_tab1_lin29} #amostragem Grupo: Poluentes contendo Nitrogênio | OBJETIVO: Monóxido de Carbono | NORMA/REGULAMENTO: VDI 2459, parte 1 (Dezembro 2000); VDI 2459, parte 6 (Novembro 1980); EPA método 10; DIN EN 15058 (2017); US EPA – CTM 030:1997
-- **Anexo IV, Tabela 1, linha 30** {#anexo4_tab1_lin30} #amostragem Grupo: Poluentes contendo Cloro | OBJETIVO: HCl | NORMA/REGULAMENTO: CETESB L9.231; DIN EN 1911-1,1911-2,1911-3 (2010); EPA método 26
-- **Anexo IV, Tabela 1, linha 31** {#anexo4_tab1_lin31} #amostragem Grupo: Poluentes contendo Cloro | OBJETIVO: Cloro (Cl<sub>2</sub>) | NORMA/REGULAMENTO: CETESB L9.231; VDI 3488, parte 1 (Dezembro 1979); VDI 3488, parte 2 (Novembro 1980)
-- **Anexo IV, Tabela 1, linha 32** {#anexo4_tab1_lin32} #amostragem Grupo: Poluentes contendo Cloro | OBJETIVO: Cloreto de Vinila | NORMA/REGULAMENTO: VDI 3493, parte 1 (Novembro 1982); EPA método 106
-- **Anexo IV, Tabela 1, linha 33** {#anexo4_tab1_lin33} #amostragem Grupo: Poluentes contendo Flúor | OBJETIVO: Compostos de flúor | NORMA/REGULAMENTO: VDI 2470, parte 1 (Outubro 1975); VDI 2286, parte 1 (Dezembro 1998); EPA métodos 13A, 13B e 14; L9.213 - Dutos e Chaminés de Fontes Fixas - determinação de Fluoretos pelo Método de Íons Específico
-- **Anexo IV, Tabela 1, linha 34** {#anexo4_tab1_lin34} #amostragem Grupo: Substâncias Orgânicas | OBJETIVO: Substâncias orgânicas em geral | NORMA/REGULAMENTO: VDI 3481, parte 6 (Dezembro 1994); EPA métodos 18 e 25
-- **Anexo IV, Tabela 1, linha 35** {#anexo4_tab1_lin35} #amostragem Grupo: Substâncias Orgânicas | OBJETIVO: Substâncias orgânicas | NORMA/REGULAMENTO: VDI 3481, parte 2 (Setembro 1998); DIN EN 13649 (2011); EPA método 030 - Volatile Organic Sampling Train
-- **Anexo IV, Tabela 1, linha 36** {#anexo4_tab1_lin36} #amostragem Grupo: Substâncias Orgânicas | OBJETIVO: Substâncias orgânicas por medição contínua com Ionização de Chama (FID) | NORMA/REGULAMENTO: VDI 3481, parte 3 (Outubro 1995); DIN EN 12619 (2013); DIN EN 13526 (Maio 2002); EPA método 25A
-- **Anexo IV, Tabela 1, linha 37** {#anexo4_tab1_lin37} #amostragem Grupo: Substâncias Orgânicas | OBJETIVO: Substâncias orgânicas com Absorção Infravermelha (IR) | NORMA/REGULAMENTO: VDI 2460, parte 1 (Julho 1996); EPA método 25B
-- **Anexo IV, Tabela 1, linha 38** {#anexo4_tab1_lin38} #amostragem Grupo: Substâncias Orgânicas | OBJETIVO: Cromatografia gasosa de substâncias orgânicas | NORMA/REGULAMENTO: VDI 2457, parte 1 (Novembro 1997); DIN EN 13649 (2011); VDI 2457, partes 2, 3 (1996); VDI 2457, partes 4, 5 (2000); EPA método 18; EPA 8270A
-- **Anexo IV, Tabela 1, linha 39** {#anexo4_tab1_lin39} #amostragem Grupo: Substâncias Orgânicas | OBJETIVO: Aldeídos alifáticos (C<sub>1</sub> até C<sub>3</sub>) | NORMA/REGULAMENTO: VDI 3862, parte 1 (Dezembro 1990); VDI 3862, parte 2,3 (Dezembro 2000); VDI 3862, parte 4 (Maio 2001)
-- **Anexo IV, Tabela 1, linha 40** {#anexo4_tab1_lin40} #amostragem Grupo: Substâncias Orgânicas | OBJETIVO: Acrilonitrilo | NORMA/REGULAMENTO: VDI 3863, parte 1 (Abril 1987)); VDI 3863, parte 2 (Fevereiro 1991)
-- **Anexo IV, Tabela 1, linha 41** {#anexo4_tab1_lin41} #amostragem Grupo: Substâncias Orgânicas | OBJETIVO: Compostos Orgânicos Semi-Voláteis SVOC’s | NORMA/REGULAMENTO: L9.232 – Dutos e chaminés de fontes fixas – Amostragem de Efluentes para a Determinação de Compostos Orgânicos Semi-Voláteis
-- **Anexo IV, Tabela 1, linha 42** {#anexo4_tab1_lin42} #amostragem Grupo: Substâncias Orgânicas | OBJETIVO: Substâncias aromáticas policíclicas | NORMA/REGULAMENTO: VDI 3873, parte 1 (Novembro 1992); VDI 3467 (2014)
-- **Anexo IV, Tabela 1, linha 43** {#anexo4_tab1_lin43} #amostragem Grupo: Substâncias Orgânicas | OBJETIVO: Dibenzodioxinas e Dibenzofuranos | NORMA/REGULAMENTO: DIN EN 1948-1, 1948-2, 1948-3 (Junho 2006); EPA método 23; VDI 3499, parte 1 (Julho 2003); VDI 3499, parte 2 (Fevereiro 2004); VDI 3499, parte 3 (Fevereiro 2004)
-- **Anexo IV, Tabela 1, linha 44** {#anexo4_tab1_lin44} #amostragem Grupo: Substâncias Orgânicas | OBJETIVO: 1,3 Butadieno | NORMA/REGULAMENTO: VDI 3953, parte 1 (Abril 1991)
-- **Anexo IV, Tabela 1, linha 45** {#anexo4_tab1_lin45} #amostragem Grupo: Substâncias Orgânicas | OBJETIVO: Oxigênio | NORMA/REGULAMENTO: DIN EN 14789 (2017); US EPA – CTM 030:1997
-- **Anexo IV, Tabela 1, linha 46** {#anexo4_tab1_lin46} #amostragem Grupo: Substâncias Orgânicas | OBJETIVO: Odores | NORMA/REGULAMENTO: ASTM E679-04; NVN2820; DIN EN 13725 (2019); A&WMA EE-6
-- **Anexo IV, Tabela 1, linha 47** {#anexo4_tab1_lin47} #amostragem Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Material Particulado em suspensão no ar ambiente - determinação da concentração total pelo método do amostrador de grande volume | NORMA/REGULAMENTO: ABNT/NBR 9547 (Setembro 1997); 40 CFR Part 50, Appendix B
-- **Anexo IV, Tabela 1, linha 48** {#anexo4_tab1_lin48} #amostragem Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Material Particulado em suspensão na atmosfera - determinação da concentração de partículas inaláveis pelo método do amostrador de grande volume acoplado a um separador inercial de partículas | NORMA/REGULAMENTO: ABNT/NBR 13412 (Junho1995)
-- **Anexo IV, Tabela 1, linha 49** {#anexo4_tab1_lin49} #amostragem Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Material Particulado em suspensão na atmosfera - determinação da concentração de partículas inaláveis PM 10 | NORMA/REGULAMENTO: List of Designated Reference and Equivalent Methods, December 17, 2016; ISO 10473 Atenuação Beta
-- **Anexo IV, Tabela 1, linha 50** {#anexo4_tab1_lin50} #amostragem Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Material Particulado em suspensão na atmosfera - determinação da concentração de partículas inaláveis PM 2,5 | NORMA/REGULAMENTO: 40 CFR Appendix L to Part 50; ISO 10473:2000 Atenuação Beta
-- **Anexo IV, Tabela 1, linha 51** {#anexo4_tab1_lin51} #amostragem Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Atmosfera – Determinação da taxa de poeira sedimentável total | NORMA/REGULAMENTO: ABNT/NBR 12065 (Maio 1991)
-- **Anexo IV, Tabela 1, linha 52** {#anexo4_tab1_lin52} #amostragem Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Dióxido de Enxofre no ar ambiente por radiação UV fluorescente | NORMA/REGULAMENTO: USEPA EQSA-0809-188; 40 CFR Appendix A-1 to Part 50; ISO 10498
-- **Anexo IV, Tabela 1, linha 53** {#anexo4_tab1_lin53} #amostragem Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Atmosfera – Determinação da concentração de monóxido de carbono por espectrofotometria de infravermelho não-dispersivo | NORMA/REGULAMENTO: ABNT/NBR 13157 (Maio 1994); CFR Title 40, Appendix C to Part 50, USA; ISO 4224
-- **Anexo IV, Tabela 1, linha 54** {#anexo4_tab1_lin54} #amostragem Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Atmosfera – Determinação da concentração de NOx | NORMA/REGULAMENTO: 40 CFR Appendix F to Part 50; ISO 7996
-- **Anexo IV, Tabela 1, linha 55** {#anexo4_tab1_lin55} #amostragem Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Atmosfera - Ozônio | NORMA/REGULAMENTO: CFR Title 40, Appendix D to Part 50, USA; ISO 13964
-- **Anexo IV, Tabela 1, linha 56** {#anexo4_tab1_lin56} #amostragem Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Metais em material particulado em suspensão | NORMA/REGULAMENTO: MF-613.R-3 - Método de determinação de metais em partículas em suspensão no ar por espectrometria de absorção atômica com chama; Espectroscopia de energia dispersiva de raios-X - Method IO-3.6; EPA 625/R-96/010A; List of Designated Reference and Equivalent Methods, December 17, 2016 US EPA
-- **Anexo IV, Tabela 1, linha 57** {#anexo4_tab1_lin57} #amostragem Grupo: Monitoramento contínuo | OBJETIVO: SO<sub>2</sub> | NORMA/REGULAMENTO: Método EPA Performance Specification 2—Specifications and Test Procedures for SO<sub>2</sub> and NOx Continuous Emission Monitoring Systems in Stationary Sources; EPA Método 6C - Determination Of Sulfur Dioxide Emissions From Stationary Sources; ISO 7935 (dez 1992)
-- **Anexo IV, Tabela 1, linha 58** {#anexo4_tab1_lin58} #amostragem Grupo: Monitoramento contínuo | OBJETIVO: NOx | NORMA/REGULAMENTO: Método EPA Performance Specification 2—Specifications and Test Procedures for SO2 and NOX Continuous Emission Monitoring Systems in Stationary Sources; DIN 33692 (mar 1997); EPA Método 7E—Determination of Nitrogen Oxides Emissions From Stationary Sources (Instrumental Analyzer Procedure)
-- **Anexo IV, Tabela 1, linha 59** {#anexo4_tab1_lin59} #amostragem Grupo: Monitoramento contínuo | OBJETIVO: CO | NORMA/REGULAMENTO: Método EPA Performance specification 4 for CO; Método EPA Performance specification 4a for CO; EPA Método 10 - Determination of Carbon Monoxide emissions from Stationary Sources; VDI 2459, parte 6 (1980)
-- **Anexo IV, Tabela 1, linha 60** {#anexo4_tab1_lin60} #amostragem Grupo: Monitoramento contínuo | OBJETIVO: Substâncias gasosas orgânicas (expresso como carbono total) | NORMA/REGULAMENTO: Método EPA Performance Specification 8 for VOC; Método EPA Performance Specification 8A for Total Hydrocarbon; VDI 3481, parte 3 out 1995; DIN EN 12619 (2013)
-- **Anexo IV, Tabela 1, linha 61** {#anexo4_tab1_lin61} #amostragem Grupo: Monitoramento contínuo | OBJETIVO: H<sub>2</sub>S e TRS | NORMA/REGULAMENTO: Método EPA Performance Specification 7 for H<sub>2</sub>S; VDI 3486, parte 3, nov 1980
-- **Anexo IV, Tabela 1, linha 62** {#anexo4_tab1_lin62} #amostragem Grupo: Monitoramento contínuo | OBJETIVO: Mercúrio e seus compostos (expresso como Hg) | NORMA/REGULAMENTO: Método EPA Performance Specification 12A for Mercury; Método EPA Performance Specification 12B for Mercury; DIN EN 14884 (2005)
+- **Anexo IV, Tabela 1, linha 1** {#anexo4_tab1_lin1} Grupo: Critérios Gerais | OBJETIVO: Planejamento de amostragem em dutos e chaminés de fontes fixas | NORMA/REGULAMENTO: VDI 2448, parte 1 (Abril 1992); Execução de medição em dutos e chaminés VDI 4200 (Dezembro 2000)
+- **Anexo IV, Tabela 1, linha 2** {#anexo4_tab1_lin2} Grupo: Critérios Gerais | OBJETIVO: Determinação de pontos de amostragem em dutos e chaminés de fontes fixas | NORMA/REGULAMENTO: CETESB L 9.221; MF.511.R-4; ABNT NBR 17163:2024
+- **Anexo IV, Tabela 1, linha 3** {#anexo4_tab1_lin3} Grupo: Critérios Gerais | OBJETIVO: Calibração de analisadores e equipamentos | NORMA/REGULAMENTO: VDI 3950 (Junho 2018); ABNT/NBR 12020 (Abril 1992); CETESB E16030
+- **Anexo IV, Tabela 1, linha 4** {#anexo4_tab1_lin4} Grupo: Critérios Gerais | OBJETIVO: Efluentes gasosos em dutos e chaminés de fontes fixas - Determinação da velocidade e vazão | NORMA/REGULAMENTO: ABNT/NBR 11966 (Julho 1989); CETESB L 9.222; DIN ISO 14164 (Dezembro 2002); EPA método 2 - DETERMINATION OF STACK GAS VELOCITY AND VOLUMETRIC FLOW RATE
+- **Anexo IV, Tabela 1, linha 5** {#anexo4_tab1_lin5} Grupo: Critérios Gerais | OBJETIVO: Efluentes gasosos em dutos e chaminés de fontes fixas - Determinação da massa molecular - Base seca | NORMA/REGULAMENTO: CETESB L9.223; EPA método 3 - GAS ANALYSIS FOR THE DETERMINATION OF DRY MOLECULAR WEIGHT
+- **Anexo IV, Tabela 1, linha 6** {#anexo4_tab1_lin6} Grupo: Critérios Gerais | OBJETIVO: Efluentes gasosos em dutos e chaminés de fontes fixas - Determinação da umidade | NORMA/REGULAMENTO: ABNT/NBR 11967 (Julho 1989); CETESB L9.224; EPA Método 4
+- **Anexo IV, Tabela 1, linha 7** {#anexo4_tab1_lin7} Grupo: Critérios Gerais | OBJETIVO: Execução de medição em dutos e chaminés | NORMA/REGULAMENTO: VDI 4200 (Dezembro 2000)
+- **Anexo IV, Tabela 1, linha 8** {#anexo4_tab1_lin8} Grupo: Critérios Gerais | OBJETIVO: Controle de qualidade de equipamento de monitoramento contínuo de emissões | NORMA/REGULAMENTO: DIN EN 14181 (2015)
+- **Anexo IV, Tabela 1, linha 9** {#anexo4_tab1_lin9} Grupo: Critérios Gerais | OBJETIVO: Requisitos para analisadores portáteis para a medição de parâmetros de combustão | NORMA/REGULAMENTO: DIN EN 50379, partes 1-3 (Janeiro 2005)
+- **Anexo IV, Tabela 1, linha 10** {#anexo4_tab1_lin10} Grupo: Material Particulado Geral | OBJETIVO: Efluentes gasosos com o sistema filtrante no interior do duto ou chaminé de fontes fixas - Determinação de material particulado | NORMA/REGULAMENTO: ABNT/NBR 12827 (Setembro 1993); CETESB L9.217; VDI 2066, parte 7 (Agosto 1993); EPA métodos 5i e 17; DIN EN 13284-1 (2017)
+- **Anexo IV, Tabela 1, linha 11** {#anexo4_tab1_lin11} Grupo: Material Particulado Geral | OBJETIVO: Efluentes gasosos em dutos e chaminés de fontes fixas - determinação de material particulado | NORMA/REGULAMENTO: ABNT/NBR 12019 (Dezembro 1990); CETESB L9.225; VDI 2066, parte 1 (Novembro 2006); VDI 2066, parte 2 (Agosto 1995); EPA método 5; DIN EN 13284-1 (2017)
+- **Anexo IV, Tabela 1, linha 12** {#anexo4_tab1_lin12} Grupo: Material Particulado Geral | OBJETIVO: Material Particulado contínuo | NORMA/REGULAMENTO: DIN EN 13284-2 (2017); EPA método PS01, PS11; ISO 10155: 1955
+- **Anexo IV, Tabela 1, linha 13** {#anexo4_tab1_lin13} Grupo: Material Particulado Geral | OBJETIVO: Material Particulado – Granulometria | NORMA/REGULAMENTO: VDI 2066, parte 5 (Novembro 1994)
+- **Anexo IV, Tabela 1, linha 14** {#anexo4_tab1_lin14} Grupo: Material Particulado Geral | OBJETIVO: Densidade colorimétrica | NORMA/REGULAMENTO: CPRH M1.009 Determinação da densidade de fumaça; método de escala de Ringelmann; MF-0520.R-4 - Método para determinação visual de emissões provenientes de combustão em fontes fixas; CETESB L9.061
+- **Anexo IV, Tabela 1, linha 15** {#anexo4_tab1_lin15} Grupo: Material Particulado Geral | OBJETIVO: Material Particulado emitido por pequenas instalações | NORMA/REGULAMENTO: de acordo [[#anexo6|Anexo VI]]
+- **Anexo IV, Tabela 1, linha 16** {#anexo4_tab1_lin16} Grupo: Material Particulado Específico | OBJETIVO: Metais em fluxo gasosos: Amostragem | NORMA/REGULAMENTO: VDI 3868, parte 1 (Dezembro 1994); EPA método 29
+- **Anexo IV, Tabela 1, linha 17** {#anexo4_tab1_lin17} Grupo: Material Particulado Específico | OBJETIVO: Metais em Material Particulado: Análise | NORMA/REGULAMENTO: VDI 2268, parte 1 (Abril 1987); VDI 2268, parte 2 (Fevereiro 1990); VDI 2268, parte 3 (Dezembro 1988); VDI 2268, parte 4 (Maio 1990); DIN EN 14385 (Maio 2004)
+- **Anexo IV, Tabela 1, linha 18** {#anexo4_tab1_lin18} Grupo: Material Particulado Específico | OBJETIVO: Mercurio | NORMA/REGULAMENTO: DIN EN 13211 (Junho 2001); DIN EN 14884 (2005); EPA métodos 101 e 102
+- **Anexo IV, Tabela 1, linha 19** {#anexo4_tab1_lin19} Grupo: Material Particulado Específico | OBJETIVO: Fibras de Amianto | NORMA/REGULAMENTO: VDI 3861, parte 1 (Dezembro 1989); VDI 3861, parte 2 (2008)
+- **Anexo IV, Tabela 1, linha 20** {#anexo4_tab1_lin20} Grupo: Poluentes contendo Enxofre | OBJETIVO: Efluentes gasosos em dutos e chaminés de fontes fixas - Determinação de dióxido de enxofre | NORMA/REGULAMENTO: ABNT/NBR 12022 (Dezembro 1990); CETESB L9.226; EPA método 6; DIN ISO 7934 (2000); DIN ISO 11632 (2001); VDI 2462, parte 3 (2011)
+- **Anexo IV, Tabela 1, linha 21** {#anexo4_tab1_lin21} Grupo: Poluentes contendo Enxofre | OBJETIVO: Efluentes gasosos em dutos e chaminés de fontes fixas - Determinação de dióxido de enxofre, trióxido de enxofre e névoas de ácido sulfúrico (SOx) | NORMA/REGULAMENTO: ABNT/ NBR 12021 (Dezembro 1990); CETESB L9.228; VDI 2462, parte 1 (Fevereiro 1974); VDI 2462, parte 2 (2011); EPA método 8; DIN EN 14791 (Janeiro 2004); DIN ISO 7934 (Julho 2000)
+- **Anexo IV, Tabela 1, linha 22** {#anexo4_tab1_lin22} Grupo: Poluentes contendo Enxofre | OBJETIVO: Gás sulfídrico (H<sub>2</sub>S) | NORMA/REGULAMENTO: CETESB L9.233; VDI 3486, parte 1 (Abril 1979); VDI 3486, parte 2 (Abril 1979); EPA método 15; EPA Método 11
+- **Anexo IV, Tabela 1, linha 23** {#anexo4_tab1_lin23} Grupo: Poluentes contendo Enxofre | OBJETIVO: CS<sub>2</sub> | NORMA/REGULAMENTO: VDI 3487, parte 1 (Novembro 1978); EPA métodos 15, 16A e 16B
+- **Anexo IV, Tabela 1, linha 24** {#anexo4_tab1_lin24} Grupo: Poluentes contendo Enxofre | OBJETIVO: Enxofre Totalmente Reduzido (TRS) | NORMA/REGULAMENTO: CETESB L 9.227; EPA método 15A
+- **Anexo IV, Tabela 1, linha 25** {#anexo4_tab1_lin25} Grupo: Poluentes contendo Nitrogênio | OBJETIVO: Óxidos de nitrogênio (NO, NO<sub>2</sub>) (NOx) | NORMA/REGULAMENTO: CETESB L9.229; VDI 2456 parte 10 (Novembro 2004); EPA métodos 7 e 20; DIN 33962 (Março 1997); DIN EN 14792 (Dezembro 2003); US EPA – CTM 030:1997
+- **Anexo IV, Tabela 1, linha 26** {#anexo4_tab1_lin26} Grupo: Poluentes contendo Nitrogênio | OBJETIVO: Substâncias alcalinas contendo nitrogênio | NORMA/REGULAMENTO: VDI 3496, parte 1 (Abril 1982)
+- **Anexo IV, Tabela 1, linha 27** {#anexo4_tab1_lin27} Grupo: Poluentes contendo Nitrogênio | OBJETIVO: Amônia | NORMA/REGULAMENTO: CETESB L9.230
+- **Anexo IV, Tabela 1, linha 28** {#anexo4_tab1_lin28} Grupo: Poluentes contendo Nitrogênio | OBJETIVO: Ácido Cianídrico/Cianetos HCN | NORMA/REGULAMENTO: Método 426 – Determination of Cyanide Emissions fron Stationary Sources. (método CARB – agencia proteção ambiental da Califórnia).
+- **Anexo IV, Tabela 1, linha 29** {#anexo4_tab1_lin29} Grupo: Poluentes contendo Nitrogênio | OBJETIVO: Monóxido de Carbono | NORMA/REGULAMENTO: VDI 2459, parte 1 (Dezembro 2000); VDI 2459, parte 6 (Novembro 1980); EPA método 10; DIN EN 15058 (2017); US EPA – CTM 030:1997
+- **Anexo IV, Tabela 1, linha 30** {#anexo4_tab1_lin30} Grupo: Poluentes contendo Cloro | OBJETIVO: HCl | NORMA/REGULAMENTO: CETESB L9.231; DIN EN 1911-1,1911-2,1911-3 (2010); EPA método 26
+- **Anexo IV, Tabela 1, linha 31** {#anexo4_tab1_lin31} Grupo: Poluentes contendo Cloro | OBJETIVO: Cloro (Cl<sub>2</sub>) | NORMA/REGULAMENTO: CETESB L9.231; VDI 3488, parte 1 (Dezembro 1979); VDI 3488, parte 2 (Novembro 1980)
+- **Anexo IV, Tabela 1, linha 32** {#anexo4_tab1_lin32} Grupo: Poluentes contendo Cloro | OBJETIVO: Cloreto de Vinila | NORMA/REGULAMENTO: VDI 3493, parte 1 (Novembro 1982); EPA método 106
+- **Anexo IV, Tabela 1, linha 33** {#anexo4_tab1_lin33} Grupo: Poluentes contendo Flúor | OBJETIVO: Compostos de flúor | NORMA/REGULAMENTO: VDI 2470, parte 1 (Outubro 1975); VDI 2286, parte 1 (Dezembro 1998); EPA métodos 13A, 13B e 14; L9.213 - Dutos e Chaminés de Fontes Fixas - determinação de Fluoretos pelo Método de Íons Específico
+- **Anexo IV, Tabela 1, linha 34** {#anexo4_tab1_lin34} Grupo: Substâncias Orgânicas | OBJETIVO: Substâncias orgânicas em geral | NORMA/REGULAMENTO: VDI 3481, parte 6 (Dezembro 1994); EPA métodos 18 e 25
+- **Anexo IV, Tabela 1, linha 35** {#anexo4_tab1_lin35} Grupo: Substâncias Orgânicas | OBJETIVO: Substâncias orgânicas | NORMA/REGULAMENTO: VDI 3481, parte 2 (Setembro 1998); DIN EN 13649 (2011); EPA método 030 - Volatile Organic Sampling Train
+- **Anexo IV, Tabela 1, linha 36** {#anexo4_tab1_lin36} Grupo: Substâncias Orgânicas | OBJETIVO: Substâncias orgânicas por medição contínua com Ionização de Chama (FID) | NORMA/REGULAMENTO: VDI 3481, parte 3 (Outubro 1995); DIN EN 12619 (2013); DIN EN 13526 (Maio 2002); EPA método 25A
+- **Anexo IV, Tabela 1, linha 37** {#anexo4_tab1_lin37} Grupo: Substâncias Orgânicas | OBJETIVO: Substâncias orgânicas com Absorção Infravermelha (IR) | NORMA/REGULAMENTO: VDI 2460, parte 1 (Julho 1996); EPA método 25B
+- **Anexo IV, Tabela 1, linha 38** {#anexo4_tab1_lin38} Grupo: Substâncias Orgânicas | OBJETIVO: Cromatografia gasosa de substâncias orgânicas | NORMA/REGULAMENTO: VDI 2457, parte 1 (Novembro 1997); DIN EN 13649 (2011); VDI 2457, partes 2, 3 (1996); VDI 2457, partes 4, 5 (2000); EPA método 18; EPA 8270A
+- **Anexo IV, Tabela 1, linha 39** {#anexo4_tab1_lin39} Grupo: Substâncias Orgânicas | OBJETIVO: Aldeídos alifáticos (C<sub>1</sub> até C<sub>3</sub>) | NORMA/REGULAMENTO: VDI 3862, parte 1 (Dezembro 1990); VDI 3862, parte 2,3 (Dezembro 2000); VDI 3862, parte 4 (Maio 2001)
+- **Anexo IV, Tabela 1, linha 40** {#anexo4_tab1_lin40} Grupo: Substâncias Orgânicas | OBJETIVO: Acrilonitrilo | NORMA/REGULAMENTO: VDI 3863, parte 1 (Abril 1987)); VDI 3863, parte 2 (Fevereiro 1991)
+- **Anexo IV, Tabela 1, linha 41** {#anexo4_tab1_lin41} Grupo: Substâncias Orgânicas | OBJETIVO: Compostos Orgânicos Semi-Voláteis SVOC’s | NORMA/REGULAMENTO: L9.232 – Dutos e chaminés de fontes fixas – Amostragem de Efluentes para a Determinação de Compostos Orgânicos Semi-Voláteis
+- **Anexo IV, Tabela 1, linha 42** {#anexo4_tab1_lin42} Grupo: Substâncias Orgânicas | OBJETIVO: Substâncias aromáticas policíclicas | NORMA/REGULAMENTO: VDI 3873, parte 1 (Novembro 1992); VDI 3467 (2014)
+- **Anexo IV, Tabela 1, linha 43** {#anexo4_tab1_lin43} Grupo: Substâncias Orgânicas | OBJETIVO: Dibenzodioxinas e Dibenzofuranos | NORMA/REGULAMENTO: DIN EN 1948-1, 1948-2, 1948-3 (Junho 2006); EPA método 23; VDI 3499, parte 1 (Julho 2003); VDI 3499, parte 2 (Fevereiro 2004); VDI 3499, parte 3 (Fevereiro 2004)
+- **Anexo IV, Tabela 1, linha 44** {#anexo4_tab1_lin44} Grupo: Substâncias Orgânicas | OBJETIVO: 1,3 Butadieno | NORMA/REGULAMENTO: VDI 3953, parte 1 (Abril 1991)
+- **Anexo IV, Tabela 1, linha 45** {#anexo4_tab1_lin45} Grupo: Substâncias Orgânicas | OBJETIVO: Oxigênio | NORMA/REGULAMENTO: DIN EN 14789 (2017); US EPA – CTM 030:1997
+- **Anexo IV, Tabela 1, linha 46** {#anexo4_tab1_lin46} Grupo: Substâncias Orgânicas | OBJETIVO: Odores | NORMA/REGULAMENTO: ASTM E679-04; NVN2820; DIN EN 13725 (2019); A&WMA EE-6
+- **Anexo IV, Tabela 1, linha 47** {#anexo4_tab1_lin47} Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Material Particulado em suspensão no ar ambiente - determinação da concentração total pelo método do amostrador de grande volume | NORMA/REGULAMENTO: ABNT/NBR 9547 (Setembro 1997); 40 CFR Part 50, Appendix B
+- **Anexo IV, Tabela 1, linha 48** {#anexo4_tab1_lin48} Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Material Particulado em suspensão na atmosfera - determinação da concentração de partículas inaláveis pelo método do amostrador de grande volume acoplado a um separador inercial de partículas | NORMA/REGULAMENTO: ABNT/NBR 13412 (Junho1995)
+- **Anexo IV, Tabela 1, linha 49** {#anexo4_tab1_lin49} Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Material Particulado em suspensão na atmosfera - determinação da concentração de partículas inaláveis PM 10 | NORMA/REGULAMENTO: List of Designated Reference and Equivalent Methods, December 17, 2016; ISO 10473 Atenuação Beta
+- **Anexo IV, Tabela 1, linha 50** {#anexo4_tab1_lin50} Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Material Particulado em suspensão na atmosfera - determinação da concentração de partículas inaláveis PM 2,5 | NORMA/REGULAMENTO: 40 CFR Appendix L to Part 50; ISO 10473:2000 Atenuação Beta
+- **Anexo IV, Tabela 1, linha 51** {#anexo4_tab1_lin51} Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Atmosfera – Determinação da taxa de poeira sedimentável total | NORMA/REGULAMENTO: ABNT/NBR 12065 (Maio 1991)
+- **Anexo IV, Tabela 1, linha 52** {#anexo4_tab1_lin52} Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Dióxido de Enxofre no ar ambiente por radiação UV fluorescente | NORMA/REGULAMENTO: USEPA EQSA-0809-188; 40 CFR Appendix A-1 to Part 50; ISO 10498
+- **Anexo IV, Tabela 1, linha 53** {#anexo4_tab1_lin53} Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Atmosfera – Determinação da concentração de monóxido de carbono por espectrofotometria de infravermelho não-dispersivo | NORMA/REGULAMENTO: ABNT/NBR 13157 (Maio 1994); CFR Title 40, Appendix C to Part 50, USA; ISO 4224
+- **Anexo IV, Tabela 1, linha 54** {#anexo4_tab1_lin54} Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Atmosfera – Determinação da concentração de NOx | NORMA/REGULAMENTO: 40 CFR Appendix F to Part 50; ISO 7996
+- **Anexo IV, Tabela 1, linha 55** {#anexo4_tab1_lin55} Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Atmosfera - Ozônio | NORMA/REGULAMENTO: CFR Title 40, Appendix D to Part 50, USA; ISO 13964
+- **Anexo IV, Tabela 1, linha 56** {#anexo4_tab1_lin56} Grupo: Monitoramento da Qualidade do Ar | OBJETIVO: Metais em material particulado em suspensão | NORMA/REGULAMENTO: MF-613.R-3 - Método de determinação de metais em partículas em suspensão no ar por espectrometria de absorção atômica com chama; Espectroscopia de energia dispersiva de raios-X - Method IO-3.6; EPA 625/R-96/010A; List of Designated Reference and Equivalent Methods, December 17, 2016 US EPA
+- **Anexo IV, Tabela 1, linha 57** {#anexo4_tab1_lin57} Grupo: Monitoramento contínuo | OBJETIVO: SO<sub>2</sub> | NORMA/REGULAMENTO: Método EPA Performance Specification 2—Specifications and Test Procedures for SO<sub>2</sub> and NOx Continuous Emission Monitoring Systems in Stationary Sources; EPA Método 6C - Determination Of Sulfur Dioxide Emissions From Stationary Sources; ISO 7935 (dez 1992)
+- **Anexo IV, Tabela 1, linha 58** {#anexo4_tab1_lin58} Grupo: Monitoramento contínuo | OBJETIVO: NOx | NORMA/REGULAMENTO: Método EPA Performance Specification 2—Specifications and Test Procedures for SO2 and NOX Continuous Emission Monitoring Systems in Stationary Sources; DIN 33692 (mar 1997); EPA Método 7E—Determination of Nitrogen Oxides Emissions From Stationary Sources (Instrumental Analyzer Procedure)
+- **Anexo IV, Tabela 1, linha 59** {#anexo4_tab1_lin59} Grupo: Monitoramento contínuo | OBJETIVO: CO | NORMA/REGULAMENTO: Método EPA Performance specification 4 for CO; Método EPA Performance specification 4a for CO; EPA Método 10 - Determination of Carbon Monoxide emissions from Stationary Sources; VDI 2459, parte 6 (1980)
+- **Anexo IV, Tabela 1, linha 60** {#anexo4_tab1_lin60} Grupo: Monitoramento contínuo | OBJETIVO: Substâncias gasosas orgânicas (expresso como carbono total) | NORMA/REGULAMENTO: Método EPA Performance Specification 8 for VOC; Método EPA Performance Specification 8A for Total Hydrocarbon; VDI 3481, parte 3 out 1995; DIN EN 12619 (2013)
+- **Anexo IV, Tabela 1, linha 61** {#anexo4_tab1_lin61} Grupo: Monitoramento contínuo | OBJETIVO: H<sub>2</sub>S e TRS | NORMA/REGULAMENTO: Método EPA Performance Specification 7 for H<sub>2</sub>S; VDI 3486, parte 3, nov 1980
+- **Anexo IV, Tabela 1, linha 62** {#anexo4_tab1_lin62} Grupo: Monitoramento contínuo | OBJETIVO: Mercúrio e seus compostos (expresso como Hg) | NORMA/REGULAMENTO: Método EPA Performance Specification 12A for Mercury; Método EPA Performance Specification 12B for Mercury; DIN EN 14884 (2005)
 
 - **Anexo IV, linha 1** {#anexo4_lin1} A&WMA: Air & Waste Management Association
 - **Anexo IV, linha 2** {#anexo4_lin2} ABNT: Associação Brasileira de Normas Técnicas
@@ -2095,282 +1989,274 @@ Tags: #amostragem #monitoramento #qualidade-ar
 - **Anexo IV, linha 13** {#anexo4_lin13} VDI: Verein Deutscher Ingenieure (Associação de Engenheiros da Alemanha)
 
 ### ANEXO V {#anexo5}
-Tags: #dioxina-furano #incineracao
 
 **TABELA FTEQ – NATO CCMS (FATORES DE EQUIVALÊNCIA DE TOXICIDADE)**
 
 **Anexo V, Tabela 1** {#anexo5_tab1} Tabela FTEQ – NATO CCMS (fatores de equivalência de toxicidade)
 
-- **Anexo V, Tabela 1, linha 1** {#anexo5_tab1_lin1} #dioxina-furano Grupo: Dibenzo-p-dioxinas | SUBSTÂNCIA: 2,3,7,8-TCDD | FTEQ: 1
-- **Anexo V, Tabela 1, linha 2** {#anexo5_tab1_lin2} #dioxina-furano Grupo: Dibenzo-p-dioxinas | SUBSTÂNCIA: 1,2,3,7,8-PnCDD | FTEQ: 0,5
-- **Anexo V, Tabela 1, linha 3** {#anexo5_tab1_lin3} #dioxina-furano Grupo: Dibenzo-p-dioxinas | SUBSTÂNCIA: 1,2,3,4,7,8-HxCDD | FTEQ: 0.1
-- **Anexo V, Tabela 1, linha 4** {#anexo5_tab1_lin4} #dioxina-furano Grupo: Dibenzo-p-dioxinas | SUBSTÂNCIA: 1,2,3,6,7,8-HxCDD | FTEQ: 0.1
-- **Anexo V, Tabela 1, linha 5** {#anexo5_tab1_lin5} #dioxina-furano Grupo: Dibenzo-p-dioxinas | SUBSTÂNCIA: 1,2,3,7,8,9-HxCDD | FTEQ: 0.1
-- **Anexo V, Tabela 1, linha 6** {#anexo5_tab1_lin6} #dioxina-furano Grupo: Dibenzo-p-dioxinas | SUBSTÂNCIA: 1,2,3,4,6,7,8-HpCDD | FTEQ: 0.01
-- **Anexo V, Tabela 1, linha 7** {#anexo5_tab1_lin7} #dioxina-furano Grupo: Dibenzo-p-dioxinas | SUBSTÂNCIA: OCDD | FTEQ: 0.001
-- **Anexo V, Tabela 1, linha 8** {#anexo5_tab1_lin8} #dioxina-furano Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 2,3,7,8-TCDF | FTEQ: 0.1
-- **Anexo V, Tabela 1, linha 9** {#anexo5_tab1_lin9} #dioxina-furano Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 1,2,3,7,8-PnCDF | FTEQ: 0.05
-- **Anexo V, Tabela 1, linha 10** {#anexo5_tab1_lin10} #dioxina-furano Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 2,3,4,7,8-PnCDF | FTEQ: 0.5
-- **Anexo V, Tabela 1, linha 11** {#anexo5_tab1_lin11} #dioxina-furano Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 1,2,3,4,7,8-HxCDF | FTEQ: 0.1
-- **Anexo V, Tabela 1, linha 12** {#anexo5_tab1_lin12} #dioxina-furano Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 1,2,3,6,7,8-HxCDF | FTEQ: 0.1
-- **Anexo V, Tabela 1, linha 13** {#anexo5_tab1_lin13} #dioxina-furano Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 1,2,3,7,8,9-HxCDF | FTEQ: 0.1
-- **Anexo V, Tabela 1, linha 14** {#anexo5_tab1_lin14} #dioxina-furano Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 2,3,4,6,7,8-HxCDF | FTEQ: 0.1
-- **Anexo V, Tabela 1, linha 15** {#anexo5_tab1_lin15} #dioxina-furano Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 1,2,3,4,6,7,8-HpCDF | FTEQ: 0.01
-- **Anexo V, Tabela 1, linha 16** {#anexo5_tab1_lin16} #dioxina-furano Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 1,2,3,4,7,8,9-HpCDF | FTEQ: 0.01
-- **Anexo V, Tabela 1, linha 17** {#anexo5_tab1_lin17} #dioxina-furano Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: OCDF | FTEQ: 0.001
+- **Anexo V, Tabela 1, linha 1** {#anexo5_tab1_lin1} Grupo: Dibenzo-p-dioxinas | SUBSTÂNCIA: 2,3,7,8-TCDD | FTEQ: 1
+- **Anexo V, Tabela 1, linha 2** {#anexo5_tab1_lin2} Grupo: Dibenzo-p-dioxinas | SUBSTÂNCIA: 1,2,3,7,8-PnCDD | FTEQ: 0,5
+- **Anexo V, Tabela 1, linha 3** {#anexo5_tab1_lin3} Grupo: Dibenzo-p-dioxinas | SUBSTÂNCIA: 1,2,3,4,7,8-HxCDD | FTEQ: 0.1
+- **Anexo V, Tabela 1, linha 4** {#anexo5_tab1_lin4} Grupo: Dibenzo-p-dioxinas | SUBSTÂNCIA: 1,2,3,6,7,8-HxCDD | FTEQ: 0.1
+- **Anexo V, Tabela 1, linha 5** {#anexo5_tab1_lin5} Grupo: Dibenzo-p-dioxinas | SUBSTÂNCIA: 1,2,3,7,8,9-HxCDD | FTEQ: 0.1
+- **Anexo V, Tabela 1, linha 6** {#anexo5_tab1_lin6} Grupo: Dibenzo-p-dioxinas | SUBSTÂNCIA: 1,2,3,4,6,7,8-HpCDD | FTEQ: 0.01
+- **Anexo V, Tabela 1, linha 7** {#anexo5_tab1_lin7} Grupo: Dibenzo-p-dioxinas | SUBSTÂNCIA: OCDD | FTEQ: 0.001
+- **Anexo V, Tabela 1, linha 8** {#anexo5_tab1_lin8} Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 2,3,7,8-TCDF | FTEQ: 0.1
+- **Anexo V, Tabela 1, linha 9** {#anexo5_tab1_lin9} Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 1,2,3,7,8-PnCDF | FTEQ: 0.05
+- **Anexo V, Tabela 1, linha 10** {#anexo5_tab1_lin10} Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 2,3,4,7,8-PnCDF | FTEQ: 0.5
+- **Anexo V, Tabela 1, linha 11** {#anexo5_tab1_lin11} Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 1,2,3,4,7,8-HxCDF | FTEQ: 0.1
+- **Anexo V, Tabela 1, linha 12** {#anexo5_tab1_lin12} Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 1,2,3,6,7,8-HxCDF | FTEQ: 0.1
+- **Anexo V, Tabela 1, linha 13** {#anexo5_tab1_lin13} Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 1,2,3,7,8,9-HxCDF | FTEQ: 0.1
+- **Anexo V, Tabela 1, linha 14** {#anexo5_tab1_lin14} Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 2,3,4,6,7,8-HxCDF | FTEQ: 0.1
+- **Anexo V, Tabela 1, linha 15** {#anexo5_tab1_lin15} Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 1,2,3,4,6,7,8-HpCDF | FTEQ: 0.01
+- **Anexo V, Tabela 1, linha 16** {#anexo5_tab1_lin16} Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: 1,2,3,4,7,8,9-HpCDF | FTEQ: 0.01
+- **Anexo V, Tabela 1, linha 17** {#anexo5_tab1_lin17} Grupo: Dibenzo-p-furanos | SUBSTÂNCIA: OCDF | FTEQ: 0.001
 
 ### ANEXO VI {#anexo6}
-Tags: #armazenamento-graos #diretriz-estudo
 
 **TERMO DE REFERÊNCIA PARA APRESENTAÇÃO DE RELATÓRIO DE OPERAÇÃO DA UNIDADE**
 
 Diretriz de estudo (tipo 2), em arquivo próprio: [[resolucao-sedest-2-2025-anexo6|Anexo VI – Relatório de Operação da Unidade]]. Exigido no [[#art60_cpt_inc9|art. 60, IX]]; dispensa no [[#art62_par1u|art. 62, parágrafo único]].
 
 ### ANEXO VII {#anexo7}
-Tags: #substancia-cancerigena
 
 **SUBSTÂNCIAS CANCERÍGENAS**
 
-- **Anexo VII, item 1) Classe I, linha 1** {#anexo7_lin1} #substancia-cancerigena 1) Classe I – Fibras inaláveis de amianto (CAS 1332-21-4).
-- **Anexo VII, item 1) Classe I, linha 2** {#anexo7_lin2} #substancia-cancerigena 1) Classe I – Berílio e seus compostos, expresso como Be.
-- **Anexo VII, item 1) Classe I, linha 3** {#anexo7_lin3} #substancia-cancerigena 1) Classe I – Benzo(a)pireno (CAS 50-32-8).
-- **Anexo VII, item 1) Classe I, linha 4** {#anexo7_lin4} #substancia-cancerigena 1) Classe I – Compostos de Cobalto, facilmente solúveis à água, expresso como Co.
-- **Anexo VII, item 1) Classe I, linha 5** {#anexo7_lin5} #substancia-cancerigena 1) Classe I – Cromo hexavalente (menos BaCrO4 e PbCrO4), expresso como Cromo.
-- **Anexo VII, item 2) Classe II, linha 6** {#anexo7_lin6} #substancia-cancerigena 2) Classe II – Acrilamida (CAS 79-06-1).
-- **Anexo VII, item 2) Classe II, linha 7** {#anexo7_lin7} #substancia-cancerigena 2) Classe II – Acrilonitrilo (CAS 107-13-1).
-- **Anexo VII, item 2) Classe II, linha 8** {#anexo7_lin8} #substancia-cancerigena 2) Classe II – Trióxido de antimônio (CAS 1309-64-4;1327-33-9).
-- **Anexo VII, item 2) Classe II, linha 9** {#anexo7_lin9} #substancia-cancerigena 2) Classe II – Dinitrotolueno (CAS 25321-14-6).
-- **Anexo VII, item 2) Classe II, linha 10** {#anexo7_lin10} #substancia-cancerigena 2) Classe II – Óxido de etileno (CAS 75-21-8).
-- **Anexo VII, item 2) Classe II, linha 11** {#anexo7_lin11} #substancia-cancerigena 2) Classe II – 4 Vinil – 1,2 ciclohexeno – di epóxido (CAS 106-87-6).
-- **Anexo VII, item 3) Classe III, linha 12** {#anexo7_lin12} #substancia-cancerigena 3) Classe III – Benzeno (CAS 71-43-2).
-- **Anexo VII, item 3) Classe III, linha 13** {#anexo7_lin13} #substancia-cancerigena 3) Classe III – Bromo etano (CAS 74-83-9).
-- **Anexo VII, item 3) Classe III, linha 14** {#anexo7_lin14} #substancia-cancerigena 3) Classe III – 1,3 butadieno (CAS 106-99-0).
-- **Anexo VII, item 3) Classe III, linha 15** {#anexo7_lin15} #substancia-cancerigena 3) Classe III – 1,2 dicloro etano (CAS 107-06-2).
-- **Anexo VII, item 3) Classe III, linha 16** {#anexo7_lin16} #substancia-cancerigena 3) Classe III – 1,2 óxido de propileno (CAS 75-56-9).
-- **Anexo VII, item 3) Classe III, linha 17** {#anexo7_lin17} #substancia-cancerigena 3) Classe III – Óxido de Estireno (CAS 96-09-3).
-- **Anexo VII, item 3) Classe III, linha 18** {#anexo7_lin18} #substancia-cancerigena 3) Classe III – o-Toluidina (CAS 95-53-4).
-- **Anexo VII, item 3) Classe III, linha 19** {#anexo7_lin19} #substancia-cancerigena 3) Classe III – Tricloroeteno (CAS 79-01-6).
-- **Anexo VII, item 3) Classe III, linha 20** {#anexo7_lin20} #substancia-cancerigena 3) Classe III – Cloreto de vinila (CAS 75-01-4).
+- **Anexo VII, item 1) Classe I, linha 1** {#anexo7_lin1} 1) Classe I – Fibras inaláveis de amianto (CAS 1332-21-4).
+- **Anexo VII, item 1) Classe I, linha 2** {#anexo7_lin2} 1) Classe I – Berílio e seus compostos, expresso como Be.
+- **Anexo VII, item 1) Classe I, linha 3** {#anexo7_lin3} 1) Classe I – Benzo(a)pireno (CAS 50-32-8).
+- **Anexo VII, item 1) Classe I, linha 4** {#anexo7_lin4} 1) Classe I – Compostos de Cobalto, facilmente solúveis à água, expresso como Co.
+- **Anexo VII, item 1) Classe I, linha 5** {#anexo7_lin5} 1) Classe I – Cromo hexavalente (menos BaCrO4 e PbCrO4), expresso como Cromo.
+- **Anexo VII, item 2) Classe II, linha 6** {#anexo7_lin6} 2) Classe II – Acrilamida (CAS 79-06-1).
+- **Anexo VII, item 2) Classe II, linha 7** {#anexo7_lin7} 2) Classe II – Acrilonitrilo (CAS 107-13-1).
+- **Anexo VII, item 2) Classe II, linha 8** {#anexo7_lin8} 2) Classe II – Trióxido de antimônio (CAS 1309-64-4;1327-33-9).
+- **Anexo VII, item 2) Classe II, linha 9** {#anexo7_lin9} 2) Classe II – Dinitrotolueno (CAS 25321-14-6).
+- **Anexo VII, item 2) Classe II, linha 10** {#anexo7_lin10} 2) Classe II – Óxido de etileno (CAS 75-21-8).
+- **Anexo VII, item 2) Classe II, linha 11** {#anexo7_lin11} 2) Classe II – 4 Vinil – 1,2 ciclohexeno – di epóxido (CAS 106-87-6).
+- **Anexo VII, item 3) Classe III, linha 12** {#anexo7_lin12} 3) Classe III – Benzeno (CAS 71-43-2).
+- **Anexo VII, item 3) Classe III, linha 13** {#anexo7_lin13} 3) Classe III – Bromo etano (CAS 74-83-9).
+- **Anexo VII, item 3) Classe III, linha 14** {#anexo7_lin14} 3) Classe III – 1,3 butadieno (CAS 106-99-0).
+- **Anexo VII, item 3) Classe III, linha 15** {#anexo7_lin15} 3) Classe III – 1,2 dicloro etano (CAS 107-06-2).
+- **Anexo VII, item 3) Classe III, linha 16** {#anexo7_lin16} 3) Classe III – 1,2 óxido de propileno (CAS 75-56-9).
+- **Anexo VII, item 3) Classe III, linha 17** {#anexo7_lin17} 3) Classe III – Óxido de Estireno (CAS 96-09-3).
+- **Anexo VII, item 3) Classe III, linha 18** {#anexo7_lin18} 3) Classe III – o-Toluidina (CAS 95-53-4).
+- **Anexo VII, item 3) Classe III, linha 19** {#anexo7_lin19} 3) Classe III – Tricloroeteno (CAS 79-01-6).
+- **Anexo VII, item 3) Classe III, linha 20** {#anexo7_lin20} 3) Classe III – Cloreto de vinila (CAS 75-01-4).
 
 ### ANEXO VIII {#anexo8}
-Tags: #voc
 
 **SUBSTÂNCIAS ORGÂNICAS CLASSE I**
 
 **Anexo VIII, Tabela 1** {#anexo8_tab1} Substâncias e números CAS (sem título no original)
 
-- **Anexo VIII, Tabela 1, linha 1** {#anexo8_tab1_lin1} #voc CAS (CHEMICAL ABSTRACT SERVICE): 75-07-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Acetaldeído
-- **Anexo VIII, Tabela 1, linha 2** {#anexo8_tab1_lin2} #voc CAS (CHEMICAL ABSTRACT SERVICE): 60-35-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Acetada
-- **Anexo VIII, Tabela 1, linha 3** {#anexo8_tab1_lin3} #voc CAS (CHEMICAL ABSTRACT SERVICE): 79-10-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Ácido acrílico
-- **Anexo VIII, Tabela 1, linha 4** {#anexo8_tab1_lin4} #voc CAS (CHEMICAL ABSTRACT SERVICE): - | SUBSTÂNCIA ORGÂNICA CLASSE I: Compostos alquílicos de chumbo
-- **Anexo VIII, Tabela 1, linha 5** {#anexo8_tab1_lin5} #voc CAS (CHEMICAL ABSTRACT SERVICE): 64-18-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Acido Fórmico
-- **Anexo VIII, Tabela 1, linha 6** {#anexo8_tab1_lin6} #voc CAS (CHEMICAL ABSTRACT SERVICE): 99-55-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: 4 Amino 2 nitrotolueno
-- **Anexo VIII, Tabela 1, linha 7** {#anexo8_tab1_lin7} #voc CAS (CHEMICAL ABSTRACT SERVICE): 141-43-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: 2 Amino Etanol
-- **Anexo VIII, Tabela 1, linha 8** {#anexo8_tab1_lin8} #voc CAS (CHEMICAL ABSTRACT SERVICE): 62-53-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Anilina
-- **Anexo VIII, Tabela 1, linha 9** {#anexo8_tab1_lin9} #voc CAS (CHEMICAL ABSTRACT SERVICE): 106-51-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: p-Benzoquinona
-- **Anexo VIII, Tabela 1, linha 10** {#anexo8_tab1_lin10} #voc CAS (CHEMICAL ABSTRACT SERVICE): 98-09-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloreto de Benzeno – Sulfonílico
-- **Anexo VIII, Tabela 1, linha 11** {#anexo8_tab1_lin11} #voc CAS (CHEMICAL ABSTRACT SERVICE): 528-44-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Ácido Benzeno Tricarboxílico 1,24,
-- **Anexo VIII, Tabela 1, linha 12** {#anexo8_tab1_lin12} #voc CAS (CHEMICAL ABSTRACT SERVICE): 552-30-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Anidrido de Ácido Benzênico
-- **Anexo VIII, Tabela 1, linha 13** {#anexo8_tab1_lin13} #voc CAS (CHEMICAL ABSTRACT SERVICE): 98-88-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloreto Benzoílico
-- **Anexo VIII, Tabela 1, linha 14** {#anexo8_tab1_lin14} #voc CAS (CHEMICAL ABSTRACT SERVICE): 105-83-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Bis (3 Amino propil) – metil amino N,N
-- **Anexo VIII, Tabela 1, linha 15** {#anexo8_tab1_lin15} #voc CAS (CHEMICAL ABSTRACT SERVICE): 1335-32-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Acetato de Chumbo(Alcalino)
-- **Anexo VIII, Tabela 1, linha 16** {#anexo8_tab1_lin16} #voc CAS (CHEMICAL ABSTRACT SERVICE): 74-83-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Bromo metano
-- **Anexo VIII, Tabela 1, linha 17** {#anexo8_tab1_lin17} #voc CAS (CHEMICAL ABSTRACT SERVICE): 106-94-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: 1 Bromo propano
-- **Anexo VIII, Tabela 1, linha 18** {#anexo8_tab1_lin18} #voc CAS (CHEMICAL ABSTRACT SERVICE): 109-79-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Butanotil
-- **Anexo VIII, Tabela 1, linha 19** {#anexo8_tab1_lin19} #voc CAS (CHEMICAL ABSTRACT SERVICE): 123-73-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Aldeído (Crotonaldeído)
-- **Anexo VIII, Tabela 1, linha 20** {#anexo8_tab1_lin20} #voc CAS (CHEMICAL ABSTRACT SERVICE): 110-65-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: 1,4 Butino 2 diol
-- **Anexo VIII, Tabela 1, linha 21** {#anexo8_tab1_lin21} #voc CAS (CHEMICAL ABSTRACT SERVICE): 141-32-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: N- Butilacrilato
-- **Anexo VIII, Tabela 1, linha 22** {#anexo8_tab1_lin22} #voc CAS (CHEMICAL ABSTRACT SERVICE): 78-81-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Isso-Butilamina
-- **Anexo VIII, Tabela 1, linha 23** {#anexo8_tab1_lin23} #voc CAS (CHEMICAL ABSTRACT SERVICE): 109-73-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: N- Butilamina
-- **Anexo VIII, Tabela 1, linha 24** {#anexo8_tab1_lin24} #voc CAS (CHEMICAL ABSTRACT SERVICE): 98-54-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: p- butilfenol
-- **Anexo VIII, Tabela 1, linha 25** {#anexo8_tab1_lin25} #voc CAS (CHEMICAL ABSTRACT SERVICE): 98-51-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Butil Tolueno
-- **Anexo VIII, Tabela 1, linha 26** {#anexo8_tab1_lin26} #voc CAS (CHEMICAL ABSTRACT SERVICE): 105-60-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Caprolactama
-- **Anexo VIII, Tabela 1, linha 27** {#anexo8_tab1_lin27} #voc CAS (CHEMICAL ABSTRACT SERVICE): 126-99-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: 1,3 cloro butadieno 2
-- **Anexo VIII, Tabela 1, linha 28** {#anexo8_tab1_lin28} #voc CAS (CHEMICAL ABSTRACT SERVICE): 563-47-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: 2 cloro 3 metilpropeno
-- **Anexo VIII, Tabela 1, linha 29** {#anexo8_tab1_lin29} #voc CAS (CHEMICAL ABSTRACT SERVICE): 88-73-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: 2 cloro 1 nitrobenzeno
-- **Anexo VIII, Tabela 1, linha 30** {#anexo8_tab1_lin30} #voc CAS (CHEMICAL ABSTRACT SERVICE): 100-00-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: 4 cloro 1 nitrobenzeno
-- **Anexo VIII, Tabela 1, linha 31** {#anexo8_tab1_lin31} #voc CAS (CHEMICAL ABSTRACT SERVICE): 79-11-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloreto de Ácido Acético
-- **Anexo VIII, Tabela 1, linha 32** {#anexo8_tab1_lin32} #voc CAS (CHEMICAL ABSTRACT SERVICE): 75-00-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloro etano
-- **Anexo VIII, Tabela 1, linha 33** {#anexo8_tab1_lin33} #voc CAS (CHEMICAL ABSTRACT SERVICE): 107-07-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloro Etanol 2
-- **Anexo VIII, Tabela 1, linha 34** {#anexo8_tab1_lin34} #voc CAS (CHEMICAL ABSTRACT SERVICE): 74-87-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloro Metano
-- **Anexo VIII, Tabela 1, linha 35** {#anexo8_tab1_lin35} #voc CAS (CHEMICAL ABSTRACT SERVICE): 95-79-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloro orto-toluidina 5
-- **Anexo VIII, Tabela 1, linha 36** {#anexo8_tab1_lin36} #voc CAS (CHEMICAL ABSTRACT SERVICE): 107-05-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloro propeno 3
-- **Anexo VIII, Tabela 1, linha 37** {#anexo8_tab1_lin37} #voc CAS (CHEMICAL ABSTRACT SERVICE): 137-05-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metil-éster de ciano ácido acrílico
-- **Anexo VIII, Tabela 1, linha 38** {#anexo8_tab1_lin38} #voc CAS (CHEMICAL ABSTRACT SERVICE): 85-42-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Anidrido de Ácido CicloHexano- Dicarboxílico 1,2
-- **Anexo VIII, Tabela 1, linha 39** {#anexo8_tab1_lin39} #voc CAS (CHEMICAL ABSTRACT SERVICE): 117-81-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: di –2 Etilhexil- ftalato
-- **Anexo VIII, Tabela 1, linha 40** {#anexo8_tab1_lin40} #voc CAS (CHEMICAL ABSTRACT SERVICE): 91-95-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Diamino Benzidina 3,3’
-- **Anexo VIII, Tabela 1, linha 41** {#anexo8_tab1_lin41} #voc CAS (CHEMICAL ABSTRACT SERVICE): 107-15-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Diamino etano 1,2
-- **Anexo VIII, Tabela 1, linha 42** {#anexo8_tab1_lin42} #voc CAS (CHEMICAL ABSTRACT SERVICE): 94-36-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dibenzol Peróxido
-- **Anexo VIII, Tabela 1, linha 43** {#anexo8_tab1_lin43} #voc CAS (CHEMICAL ABSTRACT SERVICE): 75-35-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dicloro etileno 1,1
-- **Anexo VIII, Tabela 1, linha 44** {#anexo8_tab1_lin44} #voc CAS (CHEMICAL ABSTRACT SERVICE): 75-09-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dicloro metano
-- **Anexo VIII, Tabela 1, linha 45** {#anexo8_tab1_lin45} #voc CAS (CHEMICAL ABSTRACT SERVICE): 594-72-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dicloro nitro etano 1,1,
-- **Anexo VIII, Tabela 1, linha 46** {#anexo8_tab1_lin46} #voc CAS (CHEMICAL ABSTRACT SERVICE): (em branco) | SUBSTÂNCIA ORGÂNICA CLASSE I: Diclorofenóis
-- **Anexo VIII, Tabela 1, linha 47** {#anexo8_tab1_lin47} #voc CAS (CHEMICAL ABSTRACT SERVICE): 78-87-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dicloro propano 1,2
-- **Anexo VIII, Tabela 1, linha 48** {#anexo8_tab1_lin48} #voc CAS (CHEMICAL ABSTRACT SERVICE): 75-99-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Acido dicloro propicio 2,2
-- **Anexo VIII, Tabela 1, linha 49** {#anexo8_tab1_lin49} #voc CAS (CHEMICAL ABSTRACT SERVICE): 95-73-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dicloro tolueno 2,4
-- **Anexo VIII, Tabela 1, linha 50** {#anexo8_tab1_lin50} #voc CAS (CHEMICAL ABSTRACT SERVICE): 98-87-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dicloro tolueno a,a
-- **Anexo VIII, Tabela 1, linha 51** {#anexo8_tab1_lin51} #voc CAS (CHEMICAL ABSTRACT SERVICE): 109-89-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dietilamina
-- **Anexo VIII, Tabela 1, linha 52** {#anexo8_tab1_lin52} #voc CAS (CHEMICAL ABSTRACT SERVICE): 88-10-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloreto de ácido dietilcarbomido
-- **Anexo VIII, Tabela 1, linha 53** {#anexo8_tab1_lin53} #voc CAS (CHEMICAL ABSTRACT SERVICE): 111-40-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dietileno triamino
-- **Anexo VIII, Tabela 1, linha 54** {#anexo8_tab1_lin54} #voc CAS (CHEMICAL ABSTRACT SERVICE): 75-38-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Diflúor eteno 1,1
-- **Anexo VIII, Tabela 1, linha 55** {#anexo8_tab1_lin55} #voc CAS (CHEMICAL ABSTRACT SERVICE): 2238-07-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Diglicid éter
-- **Anexo VIII, Tabela 1, linha 56** {#anexo8_tab1_lin56} #voc CAS (CHEMICAL ABSTRACT SERVICE): 120-80-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dihidroxi benzeno 1,2
-- **Anexo VIII, Tabela 1, linha 57** {#anexo8_tab1_lin57} #voc CAS (CHEMICAL ABSTRACT SERVICE): 123-31-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dihidroxi benzeno 1,4
-- **Anexo VIII, Tabela 1, linha 58** {#anexo8_tab1_lin58} #voc CAS (CHEMICAL ABSTRACT SERVICE): 584-84-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Di –isocianeto de Tolueno 2,4
-- **Anexo VIII, Tabela 1, linha 59** {#anexo8_tab1_lin59} #voc CAS (CHEMICAL ABSTRACT SERVICE): 91-08-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Di –isocianeto de Tolueno 2,6
-- **Anexo VIII, Tabela 1, linha 60** {#anexo8_tab1_lin60} #voc CAS (CHEMICAL ABSTRACT SERVICE): 124-40-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dimetilamina
-- **Anexo VIII, Tabela 1, linha 61** {#anexo8_tab1_lin61} #voc CAS (CHEMICAL ABSTRACT SERVICE): 3030-47-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dimetilamino – N,N’,N’ –trimetil 1,2 –diamino etanol –N -2
-- **Anexo VIII, Tabela 1, linha 62** {#anexo8_tab1_lin62} #voc CAS (CHEMICAL ABSTRACT SERVICE): 121-69-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dimetilanilina N,N
-- **Anexo VIII, Tabela 1, linha 63** {#anexo8_tab1_lin63} #voc CAS (CHEMICAL ABSTRACT SERVICE): 75-64-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dimetil etil amino 1,1
-- **Anexo VIII, Tabela 1, linha 64** {#anexo8_tab1_lin64} #voc CAS (CHEMICAL ABSTRACT SERVICE): 683-18-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloreto de Di-n butil estanho
-- **Anexo VIII, Tabela 1, linha 65** {#anexo8_tab1_lin65} #voc CAS (CHEMICAL ABSTRACT SERVICE): 27478-34-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dinitronaftalinos (todos os isômeros)
-- **Anexo VIII, Tabela 1, linha 66** {#anexo8_tab1_lin66} #voc CAS (CHEMICAL ABSTRACT SERVICE): 123-91-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dioxano 1,4
-- **Anexo VIII, Tabela 1, linha 67** {#anexo8_tab1_lin67} #voc CAS (CHEMICAL ABSTRACT SERVICE): 92-52-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Bifenil
-- **Anexo VIII, Tabela 1, linha 68** {#anexo8_tab1_lin68} #voc CAS (CHEMICAL ABSTRACT SERVICE): 122-39-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Bifenil amina
-- **Anexo VIII, Tabela 1, linha 69** {#anexo8_tab1_lin69} #voc CAS (CHEMICAL ABSTRACT SERVICE): 101-84-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Bifenil éter
-- **Anexo VIII, Tabela 1, linha 70** {#anexo8_tab1_lin70} #voc CAS (CHEMICAL ABSTRACT SERVICE): 5873-54-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: 2,4’ di-isocianeto de bifenil metano
-- **Anexo VIII, Tabela 1, linha 71** {#anexo8_tab1_lin71} #voc CAS (CHEMICAL ABSTRACT SERVICE): 101-68-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: 4,4’ di-isocianeto de bifenil metano
-- **Anexo VIII, Tabela 1, linha 72** {#anexo8_tab1_lin72} #voc CAS (CHEMICAL ABSTRACT SERVICE): 556-52-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Epoxi 1 – propanol 2,3
-- **Anexo VIII, Tabela 1, linha 73** {#anexo8_tab1_lin73} #voc CAS (CHEMICAL ABSTRACT SERVICE): 111-15-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Éster de 2 etoxi etil ácido acético
-- **Anexo VIII, Tabela 1, linha 74** {#anexo8_tab1_lin74} #voc CAS (CHEMICAL ABSTRACT SERVICE): 108-24-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Anidrido de ácido acético
-- **Anexo VIII, Tabela 1, linha 75** {#anexo8_tab1_lin75} #voc CAS (CHEMICAL ABSTRACT SERVICE): 107-22-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Etanodial
-- **Anexo VIII, Tabela 1, linha 76** {#anexo8_tab1_lin76} #voc CAS (CHEMICAL ABSTRACT SERVICE): 75-08-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Etano til
-- **Anexo VIII, Tabela 1, linha 77** {#anexo8_tab1_lin77} #voc CAS (CHEMICAL ABSTRACT SERVICE): 74-85-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Eteno
-- **Anexo VIII, Tabela 1, linha 78** {#anexo8_tab1_lin78} #voc CAS (CHEMICAL ABSTRACT SERVICE): 140-88-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Etilacrilato
-- **Anexo VIII, Tabela 1, linha 79** {#anexo8_tab1_lin79} #voc CAS (CHEMICAL ABSTRACT SERVICE): 75-04-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Etilamino
-- **Anexo VIII, Tabela 1, linha 80** {#anexo8_tab1_lin80} #voc CAS (CHEMICAL ABSTRACT SERVICE): 628-96-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dinitrato de etilenoglicol
-- **Anexo VIII, Tabela 1, linha 81** {#anexo8_tab1_lin81} #voc CAS (CHEMICAL ABSTRACT SERVICE): 149-57-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Ácido de etil hexano 2
-- **Anexo VIII, Tabela 1, linha 82** {#anexo8_tab1_lin82} #voc CAS (CHEMICAL ABSTRACT SERVICE): 50-00-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Formaldeído
-- **Anexo VIII, Tabela 1, linha 83** {#anexo8_tab1_lin83} #voc CAS (CHEMICAL ABSTRACT SERVICE): 75-12-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Formamida
-- **Anexo VIII, Tabela 1, linha 84** {#anexo8_tab1_lin84} #voc CAS (CHEMICAL ABSTRACT SERVICE): 98-01-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Furaldeído, 2
-- **Anexo VIII, Tabela 1, linha 85** {#anexo8_tab1_lin85} #voc CAS (CHEMICAL ABSTRACT SERVICE): 617-89-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Furano metanoamino 2
-- **Anexo VIII, Tabela 1, linha 86** {#anexo8_tab1_lin86} #voc CAS (CHEMICAL ABSTRACT SERVICE): 111-30-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Glutar dialdeído
-- **Anexo VIII, Tabela 1, linha 87** {#anexo8_tab1_lin87} #voc CAS (CHEMICAL ABSTRACT SERVICE): 55-63-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Trinitrato de glicerina
-- **Anexo VIII, Tabela 1, linha 88** {#anexo8_tab1_lin88} #voc CAS (CHEMICAL ABSTRACT SERVICE): 87-68-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Hexacloro 1–3 -butadieno 1,12,3,4,4
-- **Anexo VIII, Tabela 1, linha 89** {#anexo8_tab1_lin89} #voc CAS (CHEMICAL ABSTRACT SERVICE): 67-72-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Hexacloro etano
-- **Anexo VIII, Tabela 1, linha 90** {#anexo8_tab1_lin90} #voc CAS (CHEMICAL ABSTRACT SERVICE): 124-09-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Hexa metilendiamina
-- **Anexo VIII, Tabela 1, linha 91** {#anexo8_tab1_lin91} #voc CAS (CHEMICAL ABSTRACT SERVICE): 822-06-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Hexa metilendi –isocianeto
-- **Anexo VIII, Tabela 1, linha 92** {#anexo8_tab1_lin92} #voc CAS (CHEMICAL ABSTRACT SERVICE): 591-78-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Hexanona 2
-- **Anexo VIII, Tabela 1, linha 93** {#anexo8_tab1_lin93} #voc CAS (CHEMICAL ABSTRACT SERVICE): 4098-71-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Isocianato de metila
-- **Anexo VIII, Tabela 1, linha 94** {#anexo8_tab1_lin94} #voc CAS (CHEMICAL ABSTRACT SERVICE): 109-59-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Isopropoxi-etanol,2
-- **Anexo VIII, Tabela 1, linha 95** {#anexo8_tab1_lin95} #voc CAS (CHEMICAL ABSTRACT SERVICE): 76-22-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cânfora ou Canforo
-- **Anexo VIII, Tabela 1, linha 96** {#anexo8_tab1_lin96} #voc CAS (CHEMICAL ABSTRACT SERVICE): 463-51-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Carbometano
-- **Anexo VIII, Tabela 1, linha 97** {#anexo8_tab1_lin97} #voc CAS (CHEMICAL ABSTRACT SERVICE): 463-58-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Carbonilsulfeto
-- **Anexo VIII, Tabela 1, linha 98** {#anexo8_tab1_lin98} #voc CAS (CHEMICAL ABSTRACT SERVICE): 1319-77-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cresóis
-- **Anexo VIII, Tabela 1, linha 99** {#anexo8_tab1_lin99} #voc CAS (CHEMICAL ABSTRACT SERVICE): 108-31-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Anidrido de Ácido Maléico
-- **Anexo VIII, Tabela 1, linha 100** {#anexo8_tab1_lin100} #voc CAS (CHEMICAL ABSTRACT SERVICE): 74-93-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metano till
-- **Anexo VIII, Tabela 1, linha 101** {#anexo8_tab1_lin101} #voc CAS (CHEMICAL ABSTRACT SERVICE): 104-94-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metoxi anilina, 4
-- **Anexo VIII, Tabela 1, linha 102** {#anexo8_tab1_lin102} #voc CAS (CHEMICAL ABSTRACT SERVICE): 625-45-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metoxi – ácido acético
-- **Anexo VIII, Tabela 1, linha 103** {#anexo8_tab1_lin103} #voc CAS (CHEMICAL ABSTRACT SERVICE): 70657-70-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metoxi – propileno acetato
-- **Anexo VIII, Tabela 1, linha 104** {#anexo8_tab1_lin104} #voc CAS (CHEMICAL ABSTRACT SERVICE): 479-45-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metil 2,4,6 - N-tetranitroanilina, N
-- **Anexo VIII, Tabela 1, linha 105** {#anexo8_tab1_lin105} #voc CAS (CHEMICAL ABSTRACT SERVICE): 96-33-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Acrilato de Metila
-- **Anexo VIII, Tabela 1, linha 106** {#anexo8_tab1_lin106} #voc CAS (CHEMICAL ABSTRACT SERVICE): 74-89-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metil amino
-- **Anexo VIII, Tabela 1, linha 107** {#anexo8_tab1_lin107} #voc CAS (CHEMICAL ABSTRACT SERVICE): 100-61-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metil anilina N
-- **Anexo VIII, Tabela 1, linha 108** {#anexo8_tab1_lin108} #voc CAS (CHEMICAL ABSTRACT SERVICE): 6864-37-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metileno – Bis ( 2 metil –ciclohexano amino) 4’,4’
-- **Anexo VIII, Tabela 1, linha 109** {#anexo8_tab1_lin109} #voc CAS (CHEMICAL ABSTRACT SERVICE): 624-83-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Iso cianeto de metila
-- **Anexo VIII, Tabela 1, linha 110** {#anexo8_tab1_lin110} #voc CAS (CHEMICAL ABSTRACT SERVICE): 74-88-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Iodo –Metil
-- **Anexo VIII, Tabela 1, linha 111** {#anexo8_tab1_lin111} #voc CAS (CHEMICAL ABSTRACT SERVICE): 823-40-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metil fenil- diamino 2
-- **Anexo VIII, Tabela 1, linha 112** {#anexo8_tab1_lin112} #voc CAS (CHEMICAL ABSTRACT SERVICE): 3926-62-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Mono cloro ácido acético, Sal de Na
-- **Anexo VIII, Tabela 1, linha 113** {#anexo8_tab1_lin113} #voc CAS (CHEMICAL ABSTRACT SERVICE): 105-48-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Mono cloro acido acético 1-metil etil éster
-- **Anexo VIII, Tabela 1, linha 114** {#anexo8_tab1_lin114} #voc CAS (CHEMICAL ABSTRACT SERVICE): 105-39-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Mono cloro acido acético –etil-éster
-- **Anexo VIII, Tabela 1, linha 115** {#anexo8_tab1_lin115} #voc CAS (CHEMICAL ABSTRACT SERVICE): 96-34-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Mono cloro acido acético – metil-éster
-- **Anexo VIII, Tabela 1, linha 116** {#anexo8_tab1_lin116} #voc CAS (CHEMICAL ABSTRACT SERVICE): 73138-49-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Sais de Zinco
-- **Anexo VIII, Tabela 1, linha 117** {#anexo8_tab1_lin117} #voc CAS (CHEMICAL ABSTRACT SERVICE): 110-91-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Morfolina
-- **Anexo VIII, Tabela 1, linha 118** {#anexo8_tab1_lin118} #voc CAS (CHEMICAL ABSTRACT SERVICE): 134-32-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Naftil- amino,1
-- **Anexo VIII, Tabela 1, linha 119** {#anexo8_tab1_lin119} #voc CAS (CHEMICAL ABSTRACT SERVICE): 3173-72-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Naftil 1,5 –diisocianato
-- **Anexo VIII, Tabela 1, linha 120** {#anexo8_tab1_lin120} #voc CAS (CHEMICAL ABSTRACT SERVICE): 2243-62-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Naftil diamino 1,5
-- **Anexo VIII, Tabela 1, linha 121** {#anexo8_tab1_lin121} #voc CAS (CHEMICAL ABSTRACT SERVICE): 650-51-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro acetato de Sódio
-- **Anexo VIII, Tabela 1, linha 122** {#anexo8_tab1_lin122} #voc CAS (CHEMICAL ABSTRACT SERVICE): 119-34-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitro - 4 - aminofenol 2
-- **Anexo VIII, Tabela 1, linha 123** {#anexo8_tab1_lin123} #voc CAS (CHEMICAL ABSTRACT SERVICE): 88-74-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitroanilina 2
-- **Anexo VIII, Tabela 1, linha 124** {#anexo8_tab1_lin124} #voc CAS (CHEMICAL ABSTRACT SERVICE): 99-09-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitroanilina, m
-- **Anexo VIII, Tabela 1, linha 125** {#anexo8_tab1_lin125} #voc CAS (CHEMICAL ABSTRACT SERVICE): 100-01-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitroanilina, p
-- **Anexo VIII, Tabela 1, linha 126** {#anexo8_tab1_lin126} #voc CAS (CHEMICAL ABSTRACT SERVICE): 98-95-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitrobenzeno
-- **Anexo VIII, Tabela 1, linha 127** {#anexo8_tab1_lin127} #voc CAS (CHEMICAL ABSTRACT SERVICE): (em branco) | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitrocresóis
-- **Anexo VIII, Tabela 1, linha 128** {#anexo8_tab1_lin128} #voc CAS (CHEMICAL ABSTRACT SERVICE): (em branco) | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitrofenóis
-- **Anexo VIII, Tabela 1, linha 129** {#anexo8_tab1_lin129} #voc CAS (CHEMICAL ABSTRACT SERVICE): 5307-14-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitro –p-fenil diamino 2
-- **Anexo VIII, Tabela 1, linha 130** {#anexo8_tab1_lin130} #voc CAS (CHEMICAL ABSTRACT SERVICE): 5522-43-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitropireno
-- **Anexo VIII, Tabela 1, linha 131** {#anexo8_tab1_lin131} #voc CAS (CHEMICAL ABSTRACT SERVICE): 99-08-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitrotolueno 3
-- **Anexo VIII, Tabela 1, linha 132** {#anexo8_tab1_lin132} #voc CAS (CHEMICAL ABSTRACT SERVICE): 99-99-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitrotolueno 4
-- **Anexo VIII, Tabela 1, linha 133** {#anexo8_tab1_lin133} #voc CAS (CHEMICAL ABSTRACT SERVICE): 1321-12-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitrotolueno (todo isômeros)
-- **Anexo VIII, Tabela 1, linha 134** {#anexo8_tab1_lin134} #voc CAS (CHEMICAL ABSTRACT SERVICE): 144-62-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Acido oxálico
-- **Anexo VIII, Tabela 1, linha 135** {#anexo8_tab1_lin135} #voc CAS (CHEMICAL ABSTRACT SERVICE): 76-01-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Pentacloro etano
-- **Anexo VIII, Tabela 1, linha 136** {#anexo8_tab1_lin136} #voc CAS (CHEMICAL ABSTRACT SERVICE): 1321-64-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Pentacloro naftalina
-- **Anexo VIII, Tabela 1, linha 137** {#anexo8_tab1_lin137} #voc CAS (CHEMICAL ABSTRACT SERVICE): 108-85-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Fenol
-- **Anexo VIII, Tabela 1, linha 138** {#anexo8_tab1_lin138} #voc CAS (CHEMICAL ABSTRACT SERVICE): 5632-44-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Fenil 1(p-toluil) 3 dimetilamino propano 1
-- **Anexo VIII, Tabela 1, linha 139** {#anexo8_tab1_lin139} #voc CAS (CHEMICAL ABSTRACT SERVICE): 135-88-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Fenil 2 naftilamino, N
-- **Anexo VIII, Tabela 1, linha 140** {#anexo8_tab1_lin140} #voc CAS (CHEMICAL ABSTRACT SERVICE): 103-84-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Fenil –acetamida, N
-- **Anexo VIII, Tabela 1, linha 141** {#anexo8_tab1_lin141} #voc CAS (CHEMICAL ABSTRACT SERVICE): 100-63-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Fenil hidrazina
-- **Anexo VIII, Tabela 1, linha 142** {#anexo8_tab1_lin142} #voc CAS (CHEMICAL ABSTRACT SERVICE): 91-15-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Ftalonitrilo
-- **Anexo VIII, Tabela 1, linha 143** {#anexo8_tab1_lin143} #voc CAS (CHEMICAL ABSTRACT SERVICE): 85-44-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Anidrido de ácido ftálico
-- **Anexo VIII, Tabela 1, linha 144** {#anexo8_tab1_lin144} #voc CAS (CHEMICAL ABSTRACT SERVICE): 110-85-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Piperazina
-- **Anexo VIII, Tabela 1, linha 145** {#anexo8_tab1_lin145} #voc CAS (CHEMICAL ABSTRACT SERVICE): 107-19-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Prop-2-ina-1-ol
-- **Anexo VIII, Tabela 1, linha 146** {#anexo8_tab1_lin146} #voc CAS (CHEMICAL ABSTRACT SERVICE): 107-02-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Propenal, 2 (Acroleína)
-- **Anexo VIII, Tabela 1, linha 147** {#anexo8_tab1_lin147} #voc CAS (CHEMICAL ABSTRACT SERVICE): 6423-43-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Propileno glicol dinitrato
-- **Anexo VIII, Tabela 1, linha 148** {#anexo8_tab1_lin148} #voc CAS (CHEMICAL ABSTRACT SERVICE): 110-86-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Piridina
-- **Anexo VIII, Tabela 1, linha 149** {#anexo8_tab1_lin149} #voc CAS (CHEMICAL ABSTRACT SERVICE): 79-27-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tetrabromoetano 1,1,2,2
-- **Anexo VIII, Tabela 1, linha 150** {#anexo8_tab1_lin150} #voc CAS (CHEMICAL ABSTRACT SERVICE): 95-94-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tetra cloro benzol 1,2,4,5
-- **Anexo VIII, Tabela 1, linha 151** {#anexo8_tab1_lin151} #voc CAS (CHEMICAL ABSTRACT SERVICE): 79-34-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tetra cloro etano 1,1,2,2
-- **Anexo VIII, Tabela 1, linha 152** {#anexo8_tab1_lin152} #voc CAS (CHEMICAL ABSTRACT SERVICE): 127-18-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tetra cloro etileno
-- **Anexo VIII, Tabela 1, linha 153** {#anexo8_tab1_lin153} #voc CAS (CHEMICAL ABSTRACT SERVICE): 56-23-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tetra cloro metano
-- **Anexo VIII, Tabela 1, linha 154** {#anexo8_tab1_lin154} #voc CAS (CHEMICAL ABSTRACT SERVICE): (em branco) | SUBSTÂNCIA ORGÂNICA CLASSE I: Tio álcoois
-- **Anexo VIII, Tabela 1, linha 155** {#anexo8_tab1_lin155} #voc CAS (CHEMICAL ABSTRACT SERVICE): (em branco) | SUBSTÂNCIA ORGÂNICA CLASSE I: Tio éter
-- **Anexo VIII, Tabela 1, linha 156** {#anexo8_tab1_lin156} #voc CAS (CHEMICAL ABSTRACT SERVICE): 62-56-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tio uréia
-- **Anexo VIII, Tabela 1, linha 157** {#anexo8_tab1_lin157} #voc CAS (CHEMICAL ABSTRACT SERVICE): 106-49-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: p- Toluidina
-- **Anexo VIII, Tabela 1, linha 158** {#anexo8_tab1_lin158} #voc CAS (CHEMICAL ABSTRACT SERVICE): 75-25-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tribromo metano
-- **Anexo VIII, Tabela 1, linha 159** {#anexo8_tab1_lin159} #voc CAS (CHEMICAL ABSTRACT SERVICE): 12002-48-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro benzeno (todos isômeros)
-- **Anexo VIII, Tabela 1, linha 160** {#anexo8_tab1_lin160} #voc CAS (CHEMICAL ABSTRACT SERVICE): 76-03-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro ácido acético
-- **Anexo VIII, Tabela 1, linha 161** {#anexo8_tab1_lin161} #voc CAS (CHEMICAL ABSTRACT SERVICE): 79-00-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro etano 1,1,2
-- **Anexo VIII, Tabela 1, linha 162** {#anexo8_tab1_lin162} #voc CAS (CHEMICAL ABSTRACT SERVICE): 79-01-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro eteno
-- **Anexo VIII, Tabela 1, linha 163** {#anexo8_tab1_lin163} #voc CAS (CHEMICAL ABSTRACT SERVICE): 67-66-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro metano (Clorofôrmio)
-- **Anexo VIII, Tabela 1, linha 164** {#anexo8_tab1_lin164} #voc CAS (CHEMICAL ABSTRACT SERVICE): 1321-65-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro naftalina
-- **Anexo VIII, Tabela 1, linha 165** {#anexo8_tab1_lin165} #voc CAS (CHEMICAL ABSTRACT SERVICE): 76-06-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro nitro metano
-- **Anexo VIII, Tabela 1, linha 166** {#anexo8_tab1_lin166} #voc CAS (CHEMICAL ABSTRACT SERVICE): 95-95-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro fenol 2,4,5
-- **Anexo VIII, Tabela 1, linha 167** {#anexo8_tab1_lin167} #voc CAS (CHEMICAL ABSTRACT SERVICE): - | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro fenóis
-- **Anexo VIII, Tabela 1, linha 168** {#anexo8_tab1_lin168} #voc CAS (CHEMICAL ABSTRACT SERVICE): 121-44-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Trietil amina
-- **Anexo VIII, Tabela 1, linha 169** {#anexo8_tab1_lin169} #voc CAS (CHEMICAL ABSTRACT SERVICE): 78-30-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Trieresilfosfato
-- **Anexo VIII, Tabela 1, linha 170** {#anexo8_tab1_lin170} #voc CAS (CHEMICAL ABSTRACT SERVICE): 78-59-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Trimetil 2- ciclohexeno 1-on 3,5,5
-- **Anexo VIII, Tabela 1, linha 171** {#anexo8_tab1_lin171} #voc CAS (CHEMICAL ABSTRACT SERVICE): 126-73-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tri- N butil fosfato
-- **Anexo VIII, Tabela 1, linha 172** {#anexo8_tab1_lin172} #voc CAS (CHEMICAL ABSTRACT SERVICE): 129-79-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Trinitro fluoreno-9 , 2,4,7
-- **Anexo VIII, Tabela 1, linha 173** {#anexo8_tab1_lin173} #voc CAS (CHEMICAL ABSTRACT SERVICE): 118-96-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Trinitro tolueno 2,4,6 (TNT)
-- **Anexo VIII, Tabela 1, linha 174** {#anexo8_tab1_lin174} #voc CAS (CHEMICAL ABSTRACT SERVICE): 88-12-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Vinil-2 – pirrolidina, N
-- **Anexo VIII, Tabela 1, linha 175** {#anexo8_tab1_lin175} #voc CAS (CHEMICAL ABSTRACT SERVICE): 108-05-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Vinil acetato
-- **Anexo VIII, Tabela 1, linha 176** {#anexo8_tab1_lin176} #voc CAS (CHEMICAL ABSTRACT SERVICE): 1300-71-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Xilenóis (menos 2,4 Xilenol)
-- **Anexo VIII, Tabela 1, linha 177** {#anexo8_tab1_lin177} #voc CAS (CHEMICAL ABSTRACT SERVICE): 95-68-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Xilidina 2,4
+- **Anexo VIII, Tabela 1, linha 1** {#anexo8_tab1_lin1} CAS (CHEMICAL ABSTRACT SERVICE): 75-07-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Acetaldeído
+- **Anexo VIII, Tabela 1, linha 2** {#anexo8_tab1_lin2} CAS (CHEMICAL ABSTRACT SERVICE): 60-35-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Acetada
+- **Anexo VIII, Tabela 1, linha 3** {#anexo8_tab1_lin3} CAS (CHEMICAL ABSTRACT SERVICE): 79-10-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Ácido acrílico
+- **Anexo VIII, Tabela 1, linha 4** {#anexo8_tab1_lin4} CAS (CHEMICAL ABSTRACT SERVICE): - | SUBSTÂNCIA ORGÂNICA CLASSE I: Compostos alquílicos de chumbo
+- **Anexo VIII, Tabela 1, linha 5** {#anexo8_tab1_lin5} CAS (CHEMICAL ABSTRACT SERVICE): 64-18-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Acido Fórmico
+- **Anexo VIII, Tabela 1, linha 6** {#anexo8_tab1_lin6} CAS (CHEMICAL ABSTRACT SERVICE): 99-55-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: 4 Amino 2 nitrotolueno
+- **Anexo VIII, Tabela 1, linha 7** {#anexo8_tab1_lin7} CAS (CHEMICAL ABSTRACT SERVICE): 141-43-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: 2 Amino Etanol
+- **Anexo VIII, Tabela 1, linha 8** {#anexo8_tab1_lin8} CAS (CHEMICAL ABSTRACT SERVICE): 62-53-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Anilina
+- **Anexo VIII, Tabela 1, linha 9** {#anexo8_tab1_lin9} CAS (CHEMICAL ABSTRACT SERVICE): 106-51-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: p-Benzoquinona
+- **Anexo VIII, Tabela 1, linha 10** {#anexo8_tab1_lin10} CAS (CHEMICAL ABSTRACT SERVICE): 98-09-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloreto de Benzeno – Sulfonílico
+- **Anexo VIII, Tabela 1, linha 11** {#anexo8_tab1_lin11} CAS (CHEMICAL ABSTRACT SERVICE): 528-44-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Ácido Benzeno Tricarboxílico 1,24,
+- **Anexo VIII, Tabela 1, linha 12** {#anexo8_tab1_lin12} CAS (CHEMICAL ABSTRACT SERVICE): 552-30-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Anidrido de Ácido Benzênico
+- **Anexo VIII, Tabela 1, linha 13** {#anexo8_tab1_lin13} CAS (CHEMICAL ABSTRACT SERVICE): 98-88-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloreto Benzoílico
+- **Anexo VIII, Tabela 1, linha 14** {#anexo8_tab1_lin14} CAS (CHEMICAL ABSTRACT SERVICE): 105-83-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Bis (3 Amino propil) – metil amino N,N
+- **Anexo VIII, Tabela 1, linha 15** {#anexo8_tab1_lin15} CAS (CHEMICAL ABSTRACT SERVICE): 1335-32-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Acetato de Chumbo(Alcalino)
+- **Anexo VIII, Tabela 1, linha 16** {#anexo8_tab1_lin16} CAS (CHEMICAL ABSTRACT SERVICE): 74-83-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Bromo metano
+- **Anexo VIII, Tabela 1, linha 17** {#anexo8_tab1_lin17} CAS (CHEMICAL ABSTRACT SERVICE): 106-94-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: 1 Bromo propano
+- **Anexo VIII, Tabela 1, linha 18** {#anexo8_tab1_lin18} CAS (CHEMICAL ABSTRACT SERVICE): 109-79-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Butanotil
+- **Anexo VIII, Tabela 1, linha 19** {#anexo8_tab1_lin19} CAS (CHEMICAL ABSTRACT SERVICE): 123-73-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Aldeído (Crotonaldeído)
+- **Anexo VIII, Tabela 1, linha 20** {#anexo8_tab1_lin20} CAS (CHEMICAL ABSTRACT SERVICE): 110-65-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: 1,4 Butino 2 diol
+- **Anexo VIII, Tabela 1, linha 21** {#anexo8_tab1_lin21} CAS (CHEMICAL ABSTRACT SERVICE): 141-32-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: N- Butilacrilato
+- **Anexo VIII, Tabela 1, linha 22** {#anexo8_tab1_lin22} CAS (CHEMICAL ABSTRACT SERVICE): 78-81-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Isso-Butilamina
+- **Anexo VIII, Tabela 1, linha 23** {#anexo8_tab1_lin23} CAS (CHEMICAL ABSTRACT SERVICE): 109-73-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: N- Butilamina
+- **Anexo VIII, Tabela 1, linha 24** {#anexo8_tab1_lin24} CAS (CHEMICAL ABSTRACT SERVICE): 98-54-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: p- butilfenol
+- **Anexo VIII, Tabela 1, linha 25** {#anexo8_tab1_lin25} CAS (CHEMICAL ABSTRACT SERVICE): 98-51-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Butil Tolueno
+- **Anexo VIII, Tabela 1, linha 26** {#anexo8_tab1_lin26} CAS (CHEMICAL ABSTRACT SERVICE): 105-60-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Caprolactama
+- **Anexo VIII, Tabela 1, linha 27** {#anexo8_tab1_lin27} CAS (CHEMICAL ABSTRACT SERVICE): 126-99-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: 1,3 cloro butadieno 2
+- **Anexo VIII, Tabela 1, linha 28** {#anexo8_tab1_lin28} CAS (CHEMICAL ABSTRACT SERVICE): 563-47-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: 2 cloro 3 metilpropeno
+- **Anexo VIII, Tabela 1, linha 29** {#anexo8_tab1_lin29} CAS (CHEMICAL ABSTRACT SERVICE): 88-73-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: 2 cloro 1 nitrobenzeno
+- **Anexo VIII, Tabela 1, linha 30** {#anexo8_tab1_lin30} CAS (CHEMICAL ABSTRACT SERVICE): 100-00-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: 4 cloro 1 nitrobenzeno
+- **Anexo VIII, Tabela 1, linha 31** {#anexo8_tab1_lin31} CAS (CHEMICAL ABSTRACT SERVICE): 79-11-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloreto de Ácido Acético
+- **Anexo VIII, Tabela 1, linha 32** {#anexo8_tab1_lin32} CAS (CHEMICAL ABSTRACT SERVICE): 75-00-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloro etano
+- **Anexo VIII, Tabela 1, linha 33** {#anexo8_tab1_lin33} CAS (CHEMICAL ABSTRACT SERVICE): 107-07-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloro Etanol 2
+- **Anexo VIII, Tabela 1, linha 34** {#anexo8_tab1_lin34} CAS (CHEMICAL ABSTRACT SERVICE): 74-87-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloro Metano
+- **Anexo VIII, Tabela 1, linha 35** {#anexo8_tab1_lin35} CAS (CHEMICAL ABSTRACT SERVICE): 95-79-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloro orto-toluidina 5
+- **Anexo VIII, Tabela 1, linha 36** {#anexo8_tab1_lin36} CAS (CHEMICAL ABSTRACT SERVICE): 107-05-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloro propeno 3
+- **Anexo VIII, Tabela 1, linha 37** {#anexo8_tab1_lin37} CAS (CHEMICAL ABSTRACT SERVICE): 137-05-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metil-éster de ciano ácido acrílico
+- **Anexo VIII, Tabela 1, linha 38** {#anexo8_tab1_lin38} CAS (CHEMICAL ABSTRACT SERVICE): 85-42-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Anidrido de Ácido CicloHexano- Dicarboxílico 1,2
+- **Anexo VIII, Tabela 1, linha 39** {#anexo8_tab1_lin39} CAS (CHEMICAL ABSTRACT SERVICE): 117-81-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: di –2 Etilhexil- ftalato
+- **Anexo VIII, Tabela 1, linha 40** {#anexo8_tab1_lin40} CAS (CHEMICAL ABSTRACT SERVICE): 91-95-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Diamino Benzidina 3,3’
+- **Anexo VIII, Tabela 1, linha 41** {#anexo8_tab1_lin41} CAS (CHEMICAL ABSTRACT SERVICE): 107-15-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Diamino etano 1,2
+- **Anexo VIII, Tabela 1, linha 42** {#anexo8_tab1_lin42} CAS (CHEMICAL ABSTRACT SERVICE): 94-36-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dibenzol Peróxido
+- **Anexo VIII, Tabela 1, linha 43** {#anexo8_tab1_lin43} CAS (CHEMICAL ABSTRACT SERVICE): 75-35-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dicloro etileno 1,1
+- **Anexo VIII, Tabela 1, linha 44** {#anexo8_tab1_lin44} CAS (CHEMICAL ABSTRACT SERVICE): 75-09-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dicloro metano
+- **Anexo VIII, Tabela 1, linha 45** {#anexo8_tab1_lin45} CAS (CHEMICAL ABSTRACT SERVICE): 594-72-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dicloro nitro etano 1,1,
+- **Anexo VIII, Tabela 1, linha 46** {#anexo8_tab1_lin46} CAS (CHEMICAL ABSTRACT SERVICE): (em branco) | SUBSTÂNCIA ORGÂNICA CLASSE I: Diclorofenóis
+- **Anexo VIII, Tabela 1, linha 47** {#anexo8_tab1_lin47} CAS (CHEMICAL ABSTRACT SERVICE): 78-87-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dicloro propano 1,2
+- **Anexo VIII, Tabela 1, linha 48** {#anexo8_tab1_lin48} CAS (CHEMICAL ABSTRACT SERVICE): 75-99-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Acido dicloro propicio 2,2
+- **Anexo VIII, Tabela 1, linha 49** {#anexo8_tab1_lin49} CAS (CHEMICAL ABSTRACT SERVICE): 95-73-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dicloro tolueno 2,4
+- **Anexo VIII, Tabela 1, linha 50** {#anexo8_tab1_lin50} CAS (CHEMICAL ABSTRACT SERVICE): 98-87-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dicloro tolueno a,a
+- **Anexo VIII, Tabela 1, linha 51** {#anexo8_tab1_lin51} CAS (CHEMICAL ABSTRACT SERVICE): 109-89-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dietilamina
+- **Anexo VIII, Tabela 1, linha 52** {#anexo8_tab1_lin52} CAS (CHEMICAL ABSTRACT SERVICE): 88-10-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloreto de ácido dietilcarbomido
+- **Anexo VIII, Tabela 1, linha 53** {#anexo8_tab1_lin53} CAS (CHEMICAL ABSTRACT SERVICE): 111-40-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dietileno triamino
+- **Anexo VIII, Tabela 1, linha 54** {#anexo8_tab1_lin54} CAS (CHEMICAL ABSTRACT SERVICE): 75-38-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Diflúor eteno 1,1
+- **Anexo VIII, Tabela 1, linha 55** {#anexo8_tab1_lin55} CAS (CHEMICAL ABSTRACT SERVICE): 2238-07-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Diglicid éter
+- **Anexo VIII, Tabela 1, linha 56** {#anexo8_tab1_lin56} CAS (CHEMICAL ABSTRACT SERVICE): 120-80-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dihidroxi benzeno 1,2
+- **Anexo VIII, Tabela 1, linha 57** {#anexo8_tab1_lin57} CAS (CHEMICAL ABSTRACT SERVICE): 123-31-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dihidroxi benzeno 1,4
+- **Anexo VIII, Tabela 1, linha 58** {#anexo8_tab1_lin58} CAS (CHEMICAL ABSTRACT SERVICE): 584-84-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Di –isocianeto de Tolueno 2,4
+- **Anexo VIII, Tabela 1, linha 59** {#anexo8_tab1_lin59} CAS (CHEMICAL ABSTRACT SERVICE): 91-08-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Di –isocianeto de Tolueno 2,6
+- **Anexo VIII, Tabela 1, linha 60** {#anexo8_tab1_lin60} CAS (CHEMICAL ABSTRACT SERVICE): 124-40-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dimetilamina
+- **Anexo VIII, Tabela 1, linha 61** {#anexo8_tab1_lin61} CAS (CHEMICAL ABSTRACT SERVICE): 3030-47-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dimetilamino – N,N’,N’ –trimetil 1,2 –diamino etanol –N -2
+- **Anexo VIII, Tabela 1, linha 62** {#anexo8_tab1_lin62} CAS (CHEMICAL ABSTRACT SERVICE): 121-69-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dimetilanilina N,N
+- **Anexo VIII, Tabela 1, linha 63** {#anexo8_tab1_lin63} CAS (CHEMICAL ABSTRACT SERVICE): 75-64-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dimetil etil amino 1,1
+- **Anexo VIII, Tabela 1, linha 64** {#anexo8_tab1_lin64} CAS (CHEMICAL ABSTRACT SERVICE): 683-18-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cloreto de Di-n butil estanho
+- **Anexo VIII, Tabela 1, linha 65** {#anexo8_tab1_lin65} CAS (CHEMICAL ABSTRACT SERVICE): 27478-34-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dinitronaftalinos (todos os isômeros)
+- **Anexo VIII, Tabela 1, linha 66** {#anexo8_tab1_lin66} CAS (CHEMICAL ABSTRACT SERVICE): 123-91-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dioxano 1,4
+- **Anexo VIII, Tabela 1, linha 67** {#anexo8_tab1_lin67} CAS (CHEMICAL ABSTRACT SERVICE): 92-52-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Bifenil
+- **Anexo VIII, Tabela 1, linha 68** {#anexo8_tab1_lin68} CAS (CHEMICAL ABSTRACT SERVICE): 122-39-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Bifenil amina
+- **Anexo VIII, Tabela 1, linha 69** {#anexo8_tab1_lin69} CAS (CHEMICAL ABSTRACT SERVICE): 101-84-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Bifenil éter
+- **Anexo VIII, Tabela 1, linha 70** {#anexo8_tab1_lin70} CAS (CHEMICAL ABSTRACT SERVICE): 5873-54-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: 2,4’ di-isocianeto de bifenil metano
+- **Anexo VIII, Tabela 1, linha 71** {#anexo8_tab1_lin71} CAS (CHEMICAL ABSTRACT SERVICE): 101-68-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: 4,4’ di-isocianeto de bifenil metano
+- **Anexo VIII, Tabela 1, linha 72** {#anexo8_tab1_lin72} CAS (CHEMICAL ABSTRACT SERVICE): 556-52-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Epoxi 1 – propanol 2,3
+- **Anexo VIII, Tabela 1, linha 73** {#anexo8_tab1_lin73} CAS (CHEMICAL ABSTRACT SERVICE): 111-15-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Éster de 2 etoxi etil ácido acético
+- **Anexo VIII, Tabela 1, linha 74** {#anexo8_tab1_lin74} CAS (CHEMICAL ABSTRACT SERVICE): 108-24-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Anidrido de ácido acético
+- **Anexo VIII, Tabela 1, linha 75** {#anexo8_tab1_lin75} CAS (CHEMICAL ABSTRACT SERVICE): 107-22-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Etanodial
+- **Anexo VIII, Tabela 1, linha 76** {#anexo8_tab1_lin76} CAS (CHEMICAL ABSTRACT SERVICE): 75-08-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Etano til
+- **Anexo VIII, Tabela 1, linha 77** {#anexo8_tab1_lin77} CAS (CHEMICAL ABSTRACT SERVICE): 74-85-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Eteno
+- **Anexo VIII, Tabela 1, linha 78** {#anexo8_tab1_lin78} CAS (CHEMICAL ABSTRACT SERVICE): 140-88-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Etilacrilato
+- **Anexo VIII, Tabela 1, linha 79** {#anexo8_tab1_lin79} CAS (CHEMICAL ABSTRACT SERVICE): 75-04-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Etilamino
+- **Anexo VIII, Tabela 1, linha 80** {#anexo8_tab1_lin80} CAS (CHEMICAL ABSTRACT SERVICE): 628-96-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Dinitrato de etilenoglicol
+- **Anexo VIII, Tabela 1, linha 81** {#anexo8_tab1_lin81} CAS (CHEMICAL ABSTRACT SERVICE): 149-57-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Ácido de etil hexano 2
+- **Anexo VIII, Tabela 1, linha 82** {#anexo8_tab1_lin82} CAS (CHEMICAL ABSTRACT SERVICE): 50-00-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Formaldeído
+- **Anexo VIII, Tabela 1, linha 83** {#anexo8_tab1_lin83} CAS (CHEMICAL ABSTRACT SERVICE): 75-12-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Formamida
+- **Anexo VIII, Tabela 1, linha 84** {#anexo8_tab1_lin84} CAS (CHEMICAL ABSTRACT SERVICE): 98-01-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Furaldeído, 2
+- **Anexo VIII, Tabela 1, linha 85** {#anexo8_tab1_lin85} CAS (CHEMICAL ABSTRACT SERVICE): 617-89-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Furano metanoamino 2
+- **Anexo VIII, Tabela 1, linha 86** {#anexo8_tab1_lin86} CAS (CHEMICAL ABSTRACT SERVICE): 111-30-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Glutar dialdeído
+- **Anexo VIII, Tabela 1, linha 87** {#anexo8_tab1_lin87} CAS (CHEMICAL ABSTRACT SERVICE): 55-63-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Trinitrato de glicerina
+- **Anexo VIII, Tabela 1, linha 88** {#anexo8_tab1_lin88} CAS (CHEMICAL ABSTRACT SERVICE): 87-68-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Hexacloro 1–3 -butadieno 1,12,3,4,4
+- **Anexo VIII, Tabela 1, linha 89** {#anexo8_tab1_lin89} CAS (CHEMICAL ABSTRACT SERVICE): 67-72-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Hexacloro etano
+- **Anexo VIII, Tabela 1, linha 90** {#anexo8_tab1_lin90} CAS (CHEMICAL ABSTRACT SERVICE): 124-09-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Hexa metilendiamina
+- **Anexo VIII, Tabela 1, linha 91** {#anexo8_tab1_lin91} CAS (CHEMICAL ABSTRACT SERVICE): 822-06-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Hexa metilendi –isocianeto
+- **Anexo VIII, Tabela 1, linha 92** {#anexo8_tab1_lin92} CAS (CHEMICAL ABSTRACT SERVICE): 591-78-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Hexanona 2
+- **Anexo VIII, Tabela 1, linha 93** {#anexo8_tab1_lin93} CAS (CHEMICAL ABSTRACT SERVICE): 4098-71-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Isocianato de metila
+- **Anexo VIII, Tabela 1, linha 94** {#anexo8_tab1_lin94} CAS (CHEMICAL ABSTRACT SERVICE): 109-59-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Isopropoxi-etanol,2
+- **Anexo VIII, Tabela 1, linha 95** {#anexo8_tab1_lin95} CAS (CHEMICAL ABSTRACT SERVICE): 76-22-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cânfora ou Canforo
+- **Anexo VIII, Tabela 1, linha 96** {#anexo8_tab1_lin96} CAS (CHEMICAL ABSTRACT SERVICE): 463-51-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Carbometano
+- **Anexo VIII, Tabela 1, linha 97** {#anexo8_tab1_lin97} CAS (CHEMICAL ABSTRACT SERVICE): 463-58-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Carbonilsulfeto
+- **Anexo VIII, Tabela 1, linha 98** {#anexo8_tab1_lin98} CAS (CHEMICAL ABSTRACT SERVICE): 1319-77-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Cresóis
+- **Anexo VIII, Tabela 1, linha 99** {#anexo8_tab1_lin99} CAS (CHEMICAL ABSTRACT SERVICE): 108-31-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Anidrido de Ácido Maléico
+- **Anexo VIII, Tabela 1, linha 100** {#anexo8_tab1_lin100} CAS (CHEMICAL ABSTRACT SERVICE): 74-93-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metano till
+- **Anexo VIII, Tabela 1, linha 101** {#anexo8_tab1_lin101} CAS (CHEMICAL ABSTRACT SERVICE): 104-94-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metoxi anilina, 4
+- **Anexo VIII, Tabela 1, linha 102** {#anexo8_tab1_lin102} CAS (CHEMICAL ABSTRACT SERVICE): 625-45-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metoxi – ácido acético
+- **Anexo VIII, Tabela 1, linha 103** {#anexo8_tab1_lin103} CAS (CHEMICAL ABSTRACT SERVICE): 70657-70-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metoxi – propileno acetato
+- **Anexo VIII, Tabela 1, linha 104** {#anexo8_tab1_lin104} CAS (CHEMICAL ABSTRACT SERVICE): 479-45-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metil 2,4,6 - N-tetranitroanilina, N
+- **Anexo VIII, Tabela 1, linha 105** {#anexo8_tab1_lin105} CAS (CHEMICAL ABSTRACT SERVICE): 96-33-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Acrilato de Metila
+- **Anexo VIII, Tabela 1, linha 106** {#anexo8_tab1_lin106} CAS (CHEMICAL ABSTRACT SERVICE): 74-89-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metil amino
+- **Anexo VIII, Tabela 1, linha 107** {#anexo8_tab1_lin107} CAS (CHEMICAL ABSTRACT SERVICE): 100-61-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metil anilina N
+- **Anexo VIII, Tabela 1, linha 108** {#anexo8_tab1_lin108} CAS (CHEMICAL ABSTRACT SERVICE): 6864-37-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metileno – Bis ( 2 metil –ciclohexano amino) 4’,4’
+- **Anexo VIII, Tabela 1, linha 109** {#anexo8_tab1_lin109} CAS (CHEMICAL ABSTRACT SERVICE): 624-83-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Iso cianeto de metila
+- **Anexo VIII, Tabela 1, linha 110** {#anexo8_tab1_lin110} CAS (CHEMICAL ABSTRACT SERVICE): 74-88-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Iodo –Metil
+- **Anexo VIII, Tabela 1, linha 111** {#anexo8_tab1_lin111} CAS (CHEMICAL ABSTRACT SERVICE): 823-40-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Metil fenil- diamino 2
+- **Anexo VIII, Tabela 1, linha 112** {#anexo8_tab1_lin112} CAS (CHEMICAL ABSTRACT SERVICE): 3926-62-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Mono cloro ácido acético, Sal de Na
+- **Anexo VIII, Tabela 1, linha 113** {#anexo8_tab1_lin113} CAS (CHEMICAL ABSTRACT SERVICE): 105-48-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Mono cloro acido acético 1-metil etil éster
+- **Anexo VIII, Tabela 1, linha 114** {#anexo8_tab1_lin114} CAS (CHEMICAL ABSTRACT SERVICE): 105-39-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Mono cloro acido acético –etil-éster
+- **Anexo VIII, Tabela 1, linha 115** {#anexo8_tab1_lin115} CAS (CHEMICAL ABSTRACT SERVICE): 96-34-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Mono cloro acido acético – metil-éster
+- **Anexo VIII, Tabela 1, linha 116** {#anexo8_tab1_lin116} CAS (CHEMICAL ABSTRACT SERVICE): 73138-49-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Sais de Zinco
+- **Anexo VIII, Tabela 1, linha 117** {#anexo8_tab1_lin117} CAS (CHEMICAL ABSTRACT SERVICE): 110-91-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Morfolina
+- **Anexo VIII, Tabela 1, linha 118** {#anexo8_tab1_lin118} CAS (CHEMICAL ABSTRACT SERVICE): 134-32-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Naftil- amino,1
+- **Anexo VIII, Tabela 1, linha 119** {#anexo8_tab1_lin119} CAS (CHEMICAL ABSTRACT SERVICE): 3173-72-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Naftil 1,5 –diisocianato
+- **Anexo VIII, Tabela 1, linha 120** {#anexo8_tab1_lin120} CAS (CHEMICAL ABSTRACT SERVICE): 2243-62-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Naftil diamino 1,5
+- **Anexo VIII, Tabela 1, linha 121** {#anexo8_tab1_lin121} CAS (CHEMICAL ABSTRACT SERVICE): 650-51-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro acetato de Sódio
+- **Anexo VIII, Tabela 1, linha 122** {#anexo8_tab1_lin122} CAS (CHEMICAL ABSTRACT SERVICE): 119-34-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitro - 4 - aminofenol 2
+- **Anexo VIII, Tabela 1, linha 123** {#anexo8_tab1_lin123} CAS (CHEMICAL ABSTRACT SERVICE): 88-74-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitroanilina 2
+- **Anexo VIII, Tabela 1, linha 124** {#anexo8_tab1_lin124} CAS (CHEMICAL ABSTRACT SERVICE): 99-09-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitroanilina, m
+- **Anexo VIII, Tabela 1, linha 125** {#anexo8_tab1_lin125} CAS (CHEMICAL ABSTRACT SERVICE): 100-01-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitroanilina, p
+- **Anexo VIII, Tabela 1, linha 126** {#anexo8_tab1_lin126} CAS (CHEMICAL ABSTRACT SERVICE): 98-95-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitrobenzeno
+- **Anexo VIII, Tabela 1, linha 127** {#anexo8_tab1_lin127} CAS (CHEMICAL ABSTRACT SERVICE): (em branco) | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitrocresóis
+- **Anexo VIII, Tabela 1, linha 128** {#anexo8_tab1_lin128} CAS (CHEMICAL ABSTRACT SERVICE): (em branco) | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitrofenóis
+- **Anexo VIII, Tabela 1, linha 129** {#anexo8_tab1_lin129} CAS (CHEMICAL ABSTRACT SERVICE): 5307-14-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitro –p-fenil diamino 2
+- **Anexo VIII, Tabela 1, linha 130** {#anexo8_tab1_lin130} CAS (CHEMICAL ABSTRACT SERVICE): 5522-43-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitropireno
+- **Anexo VIII, Tabela 1, linha 131** {#anexo8_tab1_lin131} CAS (CHEMICAL ABSTRACT SERVICE): 99-08-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitrotolueno 3
+- **Anexo VIII, Tabela 1, linha 132** {#anexo8_tab1_lin132} CAS (CHEMICAL ABSTRACT SERVICE): 99-99-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitrotolueno 4
+- **Anexo VIII, Tabela 1, linha 133** {#anexo8_tab1_lin133} CAS (CHEMICAL ABSTRACT SERVICE): 1321-12-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitrotolueno (todo isômeros)
+- **Anexo VIII, Tabela 1, linha 134** {#anexo8_tab1_lin134} CAS (CHEMICAL ABSTRACT SERVICE): 144-62-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Acido oxálico
+- **Anexo VIII, Tabela 1, linha 135** {#anexo8_tab1_lin135} CAS (CHEMICAL ABSTRACT SERVICE): 76-01-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Pentacloro etano
+- **Anexo VIII, Tabela 1, linha 136** {#anexo8_tab1_lin136} CAS (CHEMICAL ABSTRACT SERVICE): 1321-64-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Pentacloro naftalina
+- **Anexo VIII, Tabela 1, linha 137** {#anexo8_tab1_lin137} CAS (CHEMICAL ABSTRACT SERVICE): 108-85-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Fenol
+- **Anexo VIII, Tabela 1, linha 138** {#anexo8_tab1_lin138} CAS (CHEMICAL ABSTRACT SERVICE): 5632-44-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Fenil 1(p-toluil) 3 dimetilamino propano 1
+- **Anexo VIII, Tabela 1, linha 139** {#anexo8_tab1_lin139} CAS (CHEMICAL ABSTRACT SERVICE): 135-88-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Fenil 2 naftilamino, N
+- **Anexo VIII, Tabela 1, linha 140** {#anexo8_tab1_lin140} CAS (CHEMICAL ABSTRACT SERVICE): 103-84-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Fenil –acetamida, N
+- **Anexo VIII, Tabela 1, linha 141** {#anexo8_tab1_lin141} CAS (CHEMICAL ABSTRACT SERVICE): 100-63-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Fenil hidrazina
+- **Anexo VIII, Tabela 1, linha 142** {#anexo8_tab1_lin142} CAS (CHEMICAL ABSTRACT SERVICE): 91-15-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Ftalonitrilo
+- **Anexo VIII, Tabela 1, linha 143** {#anexo8_tab1_lin143} CAS (CHEMICAL ABSTRACT SERVICE): 85-44-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Anidrido de ácido ftálico
+- **Anexo VIII, Tabela 1, linha 144** {#anexo8_tab1_lin144} CAS (CHEMICAL ABSTRACT SERVICE): 110-85-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Piperazina
+- **Anexo VIII, Tabela 1, linha 145** {#anexo8_tab1_lin145} CAS (CHEMICAL ABSTRACT SERVICE): 107-19-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Prop-2-ina-1-ol
+- **Anexo VIII, Tabela 1, linha 146** {#anexo8_tab1_lin146} CAS (CHEMICAL ABSTRACT SERVICE): 107-02-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Propenal, 2 (Acroleína)
+- **Anexo VIII, Tabela 1, linha 147** {#anexo8_tab1_lin147} CAS (CHEMICAL ABSTRACT SERVICE): 6423-43-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Propileno glicol dinitrato
+- **Anexo VIII, Tabela 1, linha 148** {#anexo8_tab1_lin148} CAS (CHEMICAL ABSTRACT SERVICE): 110-86-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Piridina
+- **Anexo VIII, Tabela 1, linha 149** {#anexo8_tab1_lin149} CAS (CHEMICAL ABSTRACT SERVICE): 79-27-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tetrabromoetano 1,1,2,2
+- **Anexo VIII, Tabela 1, linha 150** {#anexo8_tab1_lin150} CAS (CHEMICAL ABSTRACT SERVICE): 95-94-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tetra cloro benzol 1,2,4,5
+- **Anexo VIII, Tabela 1, linha 151** {#anexo8_tab1_lin151} CAS (CHEMICAL ABSTRACT SERVICE): 79-34-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tetra cloro etano 1,1,2,2
+- **Anexo VIII, Tabela 1, linha 152** {#anexo8_tab1_lin152} CAS (CHEMICAL ABSTRACT SERVICE): 127-18-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tetra cloro etileno
+- **Anexo VIII, Tabela 1, linha 153** {#anexo8_tab1_lin153} CAS (CHEMICAL ABSTRACT SERVICE): 56-23-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tetra cloro metano
+- **Anexo VIII, Tabela 1, linha 154** {#anexo8_tab1_lin154} CAS (CHEMICAL ABSTRACT SERVICE): (em branco) | SUBSTÂNCIA ORGÂNICA CLASSE I: Tio álcoois
+- **Anexo VIII, Tabela 1, linha 155** {#anexo8_tab1_lin155} CAS (CHEMICAL ABSTRACT SERVICE): (em branco) | SUBSTÂNCIA ORGÂNICA CLASSE I: Tio éter
+- **Anexo VIII, Tabela 1, linha 156** {#anexo8_tab1_lin156} CAS (CHEMICAL ABSTRACT SERVICE): 62-56-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tio uréia
+- **Anexo VIII, Tabela 1, linha 157** {#anexo8_tab1_lin157} CAS (CHEMICAL ABSTRACT SERVICE): 106-49-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: p- Toluidina
+- **Anexo VIII, Tabela 1, linha 158** {#anexo8_tab1_lin158} CAS (CHEMICAL ABSTRACT SERVICE): 75-25-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tribromo metano
+- **Anexo VIII, Tabela 1, linha 159** {#anexo8_tab1_lin159} CAS (CHEMICAL ABSTRACT SERVICE): 12002-48-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro benzeno (todos isômeros)
+- **Anexo VIII, Tabela 1, linha 160** {#anexo8_tab1_lin160} CAS (CHEMICAL ABSTRACT SERVICE): 76-03-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro ácido acético
+- **Anexo VIII, Tabela 1, linha 161** {#anexo8_tab1_lin161} CAS (CHEMICAL ABSTRACT SERVICE): 79-00-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro etano 1,1,2
+- **Anexo VIII, Tabela 1, linha 162** {#anexo8_tab1_lin162} CAS (CHEMICAL ABSTRACT SERVICE): 79-01-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro eteno
+- **Anexo VIII, Tabela 1, linha 163** {#anexo8_tab1_lin163} CAS (CHEMICAL ABSTRACT SERVICE): 67-66-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro metano (Clorofôrmio)
+- **Anexo VIII, Tabela 1, linha 164** {#anexo8_tab1_lin164} CAS (CHEMICAL ABSTRACT SERVICE): 1321-65-9 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro naftalina
+- **Anexo VIII, Tabela 1, linha 165** {#anexo8_tab1_lin165} CAS (CHEMICAL ABSTRACT SERVICE): 76-06-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro nitro metano
+- **Anexo VIII, Tabela 1, linha 166** {#anexo8_tab1_lin166} CAS (CHEMICAL ABSTRACT SERVICE): 95-95-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro fenol 2,4,5
+- **Anexo VIII, Tabela 1, linha 167** {#anexo8_tab1_lin167} CAS (CHEMICAL ABSTRACT SERVICE): - | SUBSTÂNCIA ORGÂNICA CLASSE I: Tricloro fenóis
+- **Anexo VIII, Tabela 1, linha 168** {#anexo8_tab1_lin168} CAS (CHEMICAL ABSTRACT SERVICE): 121-44-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Trietil amina
+- **Anexo VIII, Tabela 1, linha 169** {#anexo8_tab1_lin169} CAS (CHEMICAL ABSTRACT SERVICE): 78-30-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Trieresilfosfato
+- **Anexo VIII, Tabela 1, linha 170** {#anexo8_tab1_lin170} CAS (CHEMICAL ABSTRACT SERVICE): 78-59-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Trimetil 2- ciclohexeno 1-on 3,5,5
+- **Anexo VIII, Tabela 1, linha 171** {#anexo8_tab1_lin171} CAS (CHEMICAL ABSTRACT SERVICE): 126-73-8 | SUBSTÂNCIA ORGÂNICA CLASSE I: Tri- N butil fosfato
+- **Anexo VIII, Tabela 1, linha 172** {#anexo8_tab1_lin172} CAS (CHEMICAL ABSTRACT SERVICE): 129-79-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Trinitro fluoreno-9 , 2,4,7
+- **Anexo VIII, Tabela 1, linha 173** {#anexo8_tab1_lin173} CAS (CHEMICAL ABSTRACT SERVICE): 118-96-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Trinitro tolueno 2,4,6 (TNT)
+- **Anexo VIII, Tabela 1, linha 174** {#anexo8_tab1_lin174} CAS (CHEMICAL ABSTRACT SERVICE): 88-12-0 | SUBSTÂNCIA ORGÂNICA CLASSE I: Vinil-2 – pirrolidina, N
+- **Anexo VIII, Tabela 1, linha 175** {#anexo8_tab1_lin175} CAS (CHEMICAL ABSTRACT SERVICE): 108-05-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Vinil acetato
+- **Anexo VIII, Tabela 1, linha 176** {#anexo8_tab1_lin176} CAS (CHEMICAL ABSTRACT SERVICE): 1300-71-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: Xilenóis (menos 2,4 Xilenol)
+- **Anexo VIII, Tabela 1, linha 177** {#anexo8_tab1_lin177} CAS (CHEMICAL ABSTRACT SERVICE): 95-68-1 | SUBSTÂNCIA ORGÂNICA CLASSE I: Xilidina 2,4
 
 ### ANEXO IX {#anexo9}
-Tags: #voc
 
 **SUBSTÂNCIAS ORGÂNICAS CLASSE II**
 
 **Anexo IX, Tabela 1** {#anexo9_tab1} Substâncias e números CAS (sem título no original)
 
-- **Anexo IX, Tabela 1, linha 1** {#anexo9_tab1_lin1} #voc CAS (CHEMICAL ABSTRACT SERVICE): 75-34-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: 1 Bromo –3 Cloropropano 1,1 Dicloroetano
-- **Anexo IX, Tabela 1, linha 2** {#anexo9_tab1_lin2} #voc CAS (CHEMICAL ABSTRACT SERVICE): 540-59-0; 156-59-2; 156-60-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: 1,2 Dicloroeteno
-- **Anexo IX, Tabela 1, linha 3** {#anexo9_tab1_lin3} #voc CAS (CHEMICAL ABSTRACT SERVICE): 64-19-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Ácido acético
-- **Anexo IX, Tabela 1, linha 4** {#anexo9_tab1_lin4} #voc CAS (CHEMICAL ABSTRACT SERVICE): 00116-15-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Hexafluorpropeno
-- **Anexo IX, Tabela 1, linha 5** {#anexo9_tab1_lin5} #voc CAS (CHEMICAL ABSTRACT SERVICE): 107-31-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Formiato de Metila
-- **Anexo IX, Tabela 1, linha 6** {#anexo9_tab1_lin6} #voc CAS (CHEMICAL ABSTRACT SERVICE): 79-24-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitroetano
-- **Anexo IX, Tabela 1, linha 7** {#anexo9_tab1_lin7} #voc CAS (CHEMICAL ABSTRACT SERVICE): 75-52-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitrometano
-- **Anexo IX, Tabela 1, linha 8** {#anexo9_tab1_lin8} #voc CAS (CHEMICAL ABSTRACT SERVICE): 556-67-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Octametil-ciclo-tetra-siloxano
-- **Anexo IX, Tabela 1, linha 9** {#anexo9_tab1_lin9} #voc CAS (CHEMICAL ABSTRACT SERVICE): 71-55-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: 1,1,1 tricloro etano
-- **Anexo IX, Tabela 1, linha 10** {#anexo9_tab1_lin10} #voc CAS (CHEMICAL ABSTRACT SERVICE): 110-88-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: 1,3,5 Trioxano
+- **Anexo IX, Tabela 1, linha 1** {#anexo9_tab1_lin1} CAS (CHEMICAL ABSTRACT SERVICE): 75-34-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: 1 Bromo –3 Cloropropano 1,1 Dicloroetano
+- **Anexo IX, Tabela 1, linha 2** {#anexo9_tab1_lin2} CAS (CHEMICAL ABSTRACT SERVICE): 540-59-0; 156-59-2; 156-60-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: 1,2 Dicloroeteno
+- **Anexo IX, Tabela 1, linha 3** {#anexo9_tab1_lin3} CAS (CHEMICAL ABSTRACT SERVICE): 64-19-7 | SUBSTÂNCIA ORGÂNICA CLASSE I: Ácido acético
+- **Anexo IX, Tabela 1, linha 4** {#anexo9_tab1_lin4} CAS (CHEMICAL ABSTRACT SERVICE): 00116-15-4 | SUBSTÂNCIA ORGÂNICA CLASSE I: Hexafluorpropeno
+- **Anexo IX, Tabela 1, linha 5** {#anexo9_tab1_lin5} CAS (CHEMICAL ABSTRACT SERVICE): 107-31-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Formiato de Metila
+- **Anexo IX, Tabela 1, linha 6** {#anexo9_tab1_lin6} CAS (CHEMICAL ABSTRACT SERVICE): 79-24-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitroetano
+- **Anexo IX, Tabela 1, linha 7** {#anexo9_tab1_lin7} CAS (CHEMICAL ABSTRACT SERVICE): 75-52-5 | SUBSTÂNCIA ORGÂNICA CLASSE I: Nitrometano
+- **Anexo IX, Tabela 1, linha 8** {#anexo9_tab1_lin8} CAS (CHEMICAL ABSTRACT SERVICE): 556-67-2 | SUBSTÂNCIA ORGÂNICA CLASSE I: Octametil-ciclo-tetra-siloxano
+- **Anexo IX, Tabela 1, linha 9** {#anexo9_tab1_lin9} CAS (CHEMICAL ABSTRACT SERVICE): 71-55-6 | SUBSTÂNCIA ORGÂNICA CLASSE I: 1,1,1 tricloro etano
+- **Anexo IX, Tabela 1, linha 10** {#anexo9_tab1_lin10} CAS (CHEMICAL ABSTRACT SERVICE): 110-88-3 | SUBSTÂNCIA ORGÂNICA CLASSE I: 1,3,5 Trioxano
 
 ### ANEXO X {#anexo10}
-Tags: #automonitoramento #dea #diretriz-estudo
 
 **TERMO DE REFERÊNCIA PARA APRESENTAÇÃO DO PROGRAMA DE AUTOMONITORAMENTO DE EMISSÕES ATMOSFÉRICAS – PEAT**
 
 Diretriz de estudo (tipo 2), em arquivo próprio: [[resolucao-sedest-2-2025-anexo10|Anexo X – Programa de Automonitoramento de Emissões Atmosféricas (PEAT)]]. Exigido no [[#art90_par1|art. 90, § 1º]]; condição para a operação no [[#art90_par2|§ 2º]] e revisão no [[#art90_par3|§ 3º]].
 
 ### ANEXO XI {#anexo11}
-Tags: #automonitoramento #dea #diretriz-estudo
 
 **TERMO DE REFERÊNCIA PARA APRESENTAÇÃO DE RELATÓRIO SIMPLIFICADO DE AUTOMONITORAMENTO DE EMISSÕES ATMOSFÉRICAS – REAT**
 
 Diretriz de estudo (tipo 2), em arquivo próprio: [[resolucao-sedest-2-2025-anexo11|Anexo XI – Relatório de Automonitoramento de Emissões Atmosféricas (REAT)]]. Exigido no [[#art90_cpt|art. 90, caput]] e [[#art90_par1|§ 1º]]; prazo de declaração no [[#art91_cpt|art. 91]].
 
 ### ANEXO XII {#anexo12}
-Tags: #substancia-inorganica
 
 **SUBSTÂNCIAS INORGÂNICAS**
 
@@ -2391,60 +2277,58 @@ Tags: #substancia-inorganica
 - **Anexo XII, item 5) Classe V, linha 15** {#anexo12_lin15} 5) Classe V: – Monóxido de Carbono (CO).
 
 ### ANEXO XIII {#anexo13}
-Tags: #chamine
 
 **FATORES DE PERICULOSIDADE DE POLUENTES ATMOSFÉRICOS**
 
 **Anexo XIII, Tabela 1** {#anexo13_tab1} Fatores de periculosidade por poluente (sem título no original)
 
-- **Anexo XIII, Tabela 1, linha 1** {#anexo13_tab1_lin1} #chamine Poluente: Material Particulado Total | Fator de Periculosidade: 5
-- **Anexo XIII, Tabela 1, linha 2** {#anexo13_tab1_lin2} #chamine Poluente: HCl, expresso como Cl | Fator de Periculosidade: 10
-- **Anexo XIII, Tabela 1, linha 3** {#anexo13_tab1_lin3} #chamine Poluente: Cloro | Fator de Periculosidade: 6,7
-- **Anexo XIII, Tabela 1, linha 4** {#anexo13_tab1_lin4} #chamine Poluente: NH<sub>3</sub> | Fator de Periculosidade: 10
-- **Anexo XIII, Tabela 1, linha 5** {#anexo13_tab1_lin5} #chamine Poluente: HF e outras substâncias gasosas inorgânicas contendo Flúor, expresso como F | Fator de Periculosidade: 333
-- **Anexo XIII, Tabela 1, linha 6** {#anexo13_tab1_lin6} #chamine Poluente: CO | Fator de Periculosidade: 0,07
-- **Anexo XIII, Tabela 1, linha 7** {#anexo13_tab1_lin7} #chamine Poluente: SOx | Fator de Periculosidade: 5
-- **Anexo XIII, Tabela 1, linha 8** {#anexo13_tab1_lin8} #chamine Poluente: H<sub>2</sub>S | Fator de Periculosidade: 200
-- **Anexo XIII, Tabela 1, linha 9** {#anexo13_tab1_lin9} #chamine Poluente: NOx | Fator de Periculosidade: 5
-- **Anexo XIII, Tabela 1, linha 10** {#anexo13_tab1_lin10} #chamine Poluente: Material Particulado Inorgânico, Classe I | Fator de Periculosidade: 50
-- **Anexo XIII, Tabela 1, linha 11** {#anexo13_tab1_lin11} #chamine Poluente: Material Particulado Inorgânico, Classe II | Fator de Periculosidade: 10
-- **Anexo XIII, Tabela 1, linha 12** {#anexo13_tab1_lin12} #chamine Poluente: Material Particulado Inorgânico, Classe III | Fator de Periculosidade: 5
-- **Anexo XIII, Tabela 1, linha 13** {#anexo13_tab1_lin13} #chamine Poluente: Chumbo | Fator de Periculosidade: 200
-- **Anexo XIII, Tabela 1, linha 14** {#anexo13_tab1_lin14} #chamine Poluente: Cádmio | Fator de Periculosidade: 2.000
-- **Anexo XIII, Tabela 1, linha 15** {#anexo13_tab1_lin15} #chamine Poluente: Mercúrio | Fator de Periculosidade: 2.000
-- **Anexo XIII, Tabela 1, linha 16** {#anexo13_tab1_lin16} #chamine Poluente: Tálio | Fator de Periculosidade: 200
-- **Anexo XIII, Tabela 1, linha 17** {#anexo13_tab1_lin17} #chamine Poluente: Substâncias gasosas orgânicas, Classe I | Fator de Periculosidade: 20
-- **Anexo XIII, Tabela 1, linha 18** {#anexo13_tab1_lin18} #chamine Poluente: Substâncias gasosas orgânicas, Classe II | Fator de Periculosidade: 5
-- **Anexo XIII, Tabela 1, linha 19** {#anexo13_tab1_lin19} #chamine Poluente: Substâncias gasosas orgânicas, Carbono total | Fator de Periculosidade: 5
-- **Anexo XIII, Tabela 1, linha 20** {#anexo13_tab1_lin20} #chamine Poluente: Substâncias cancerígenas, Classe I | Fator de Periculosidade: 10.000
-- **Anexo XIII, Tabela 1, linha 21** {#anexo13_tab1_lin21} #chamine Poluente: Substâncias cancerígenas, Classe II | Fator de Periculosidade: 1.000
-- **Anexo XIII, Tabela 1, linha 22** {#anexo13_tab1_lin22} #chamine Poluente: Substâncias cancerígenas, Classe III | Fator de Periculosidade: 100
+- **Anexo XIII, Tabela 1, linha 1** {#anexo13_tab1_lin1} Poluente: Material Particulado Total | Fator de Periculosidade: 5
+- **Anexo XIII, Tabela 1, linha 2** {#anexo13_tab1_lin2} Poluente: HCl, expresso como Cl | Fator de Periculosidade: 10
+- **Anexo XIII, Tabela 1, linha 3** {#anexo13_tab1_lin3} Poluente: Cloro | Fator de Periculosidade: 6,7
+- **Anexo XIII, Tabela 1, linha 4** {#anexo13_tab1_lin4} Poluente: NH<sub>3</sub> | Fator de Periculosidade: 10
+- **Anexo XIII, Tabela 1, linha 5** {#anexo13_tab1_lin5} Poluente: HF e outras substâncias gasosas inorgânicas contendo Flúor, expresso como F | Fator de Periculosidade: 333
+- **Anexo XIII, Tabela 1, linha 6** {#anexo13_tab1_lin6} Poluente: CO | Fator de Periculosidade: 0,07
+- **Anexo XIII, Tabela 1, linha 7** {#anexo13_tab1_lin7} Poluente: SOx | Fator de Periculosidade: 5
+- **Anexo XIII, Tabela 1, linha 8** {#anexo13_tab1_lin8} Poluente: H<sub>2</sub>S | Fator de Periculosidade: 200
+- **Anexo XIII, Tabela 1, linha 9** {#anexo13_tab1_lin9} Poluente: NOx | Fator de Periculosidade: 5
+- **Anexo XIII, Tabela 1, linha 10** {#anexo13_tab1_lin10} Poluente: Material Particulado Inorgânico, Classe I | Fator de Periculosidade: 50
+- **Anexo XIII, Tabela 1, linha 11** {#anexo13_tab1_lin11} Poluente: Material Particulado Inorgânico, Classe II | Fator de Periculosidade: 10
+- **Anexo XIII, Tabela 1, linha 12** {#anexo13_tab1_lin12} Poluente: Material Particulado Inorgânico, Classe III | Fator de Periculosidade: 5
+- **Anexo XIII, Tabela 1, linha 13** {#anexo13_tab1_lin13} Poluente: Chumbo | Fator de Periculosidade: 200
+- **Anexo XIII, Tabela 1, linha 14** {#anexo13_tab1_lin14} Poluente: Cádmio | Fator de Periculosidade: 2.000
+- **Anexo XIII, Tabela 1, linha 15** {#anexo13_tab1_lin15} Poluente: Mercúrio | Fator de Periculosidade: 2.000
+- **Anexo XIII, Tabela 1, linha 16** {#anexo13_tab1_lin16} Poluente: Tálio | Fator de Periculosidade: 200
+- **Anexo XIII, Tabela 1, linha 17** {#anexo13_tab1_lin17} Poluente: Substâncias gasosas orgânicas, Classe I | Fator de Periculosidade: 20
+- **Anexo XIII, Tabela 1, linha 18** {#anexo13_tab1_lin18} Poluente: Substâncias gasosas orgânicas, Classe II | Fator de Periculosidade: 5
+- **Anexo XIII, Tabela 1, linha 19** {#anexo13_tab1_lin19} Poluente: Substâncias gasosas orgânicas, Carbono total | Fator de Periculosidade: 5
+- **Anexo XIII, Tabela 1, linha 20** {#anexo13_tab1_lin20} Poluente: Substâncias cancerígenas, Classe I | Fator de Periculosidade: 10.000
+- **Anexo XIII, Tabela 1, linha 21** {#anexo13_tab1_lin21} Poluente: Substâncias cancerígenas, Classe II | Fator de Periculosidade: 1.000
+- **Anexo XIII, Tabela 1, linha 22** {#anexo13_tab1_lin22} Poluente: Substâncias cancerígenas, Classe III | Fator de Periculosidade: 100
 
 ### ANEXO XIV {#anexo14}
-Tags: #balanco-massa #voc #pintura
 
 **MÉTODO DE BALANÇO DE MASSA PARA A EMISSÃO DE COMPOSTOS ORGÂNICOS VOLÁTEIS (VOC)**
 
-- **Anexo XIV, linha 1** {#anexo14_lin1} #balanco-massa #voc VE = 1000 · [Σ<sub>i</sub>(VCixVOCi) + Σ<sub>j</sub> SOLVj − Σ<sub>k</sub> RSk] / BxS
-- **Anexo XIV, linha 2** {#anexo14_lin2} #balanco-massa #voc VC = [Σ<sub>i</sub>(VCixVOCixTCOi) + Σ<sub>j</sub>(SOLVjxTCOj) − Σ<sub>k</sub>(RSkxTCOk)] / horas trabalhadas por mês
-- **Anexo XIV, linha 3** {#anexo14_lin3} #balanco-massa #voc VE = emissão média mensal de VOC em g/m<sup>2</sup>
-- **Anexo XIV, linha 4** {#anexo14_lin4} #balanco-massa #voc VC = emissão em kg/h expresso como carbono total
-- **Anexo XIV, linha 5** {#anexo14_lin5} #balanco-massa #voc Variável i: corresponde ao produto i utilizado para o revestimento, contendo VOC
-- **Anexo XIV, linha 6** {#anexo14_lin6} #balanco-massa #voc VCi = volume de produto de revestimento i usada por mês em litros
-- **Anexo XIV, linha 7** {#anexo14_lin7} #balanco-massa #voc Exemplo: fundo (primer), produto de conservação etc.
-- **Anexo XIV, linha 8** {#anexo14_lin8} #balanco-massa #voc VOCi = teor de VOC do produto de revestimento i em kg VOC/l determinado pela FISPQ, pelo método 24 da "US Environmental Protection Agency, Code of Federal Regulations (CFR) Title 40, Appendix A", ou pelo método de teste ASTM-D3960 ou equivalente
-- **Anexo XIV, linha 9** {#anexo14_lin9} #balanco-massa #voc TCOi = teor de carbono orgânico do produto de revestimento i em kg C/kg de VOC
-- **Anexo XIV, linha 10** {#anexo14_lin10} #balanco-massa #voc Variável j: corresponde ao solvente orgânico j utilizado na instalação industrial
-- **Anexo XIV, linha 11** {#anexo14_lin11} #balanco-massa #voc SOLVj = massa de solvente j usado por mês em kg
-- **Anexo XIV, linha 12** {#anexo14_lin12} #balanco-massa #voc Exemplo: solvente para fins de limpeza, diluente etc.
-- **Anexo XIV, linha 13** {#anexo14_lin13} #balanco-massa #voc TCOj = teor de carbono orgânico do SOLVj em kg C/kg de solvente
-- **Anexo XIV, linha 14** {#anexo14_lin14} #balanco-massa #voc Variável k: corresponde a um processo k de remoção de VOC
-- **Anexo XIV, linha 15** {#anexo14_lin15} #balanco-massa #voc RSk = massa de VOC removida pelo processo k por mês em kg
-- **Anexo XIV, linha 16** {#anexo14_lin16} #balanco-massa #voc Exemplo: VOC removido por conversores, por resíduos sólidos removidos, por devolução de solventes etc.
-- **Anexo XIV, linha 17** {#anexo14_lin17} #balanco-massa #voc TCOk = teor de carbono orgânico de VOC removidos pelo processo k em kg de carbono orgânico/kg de VOC
-- **Anexo XIV, linha 18** {#anexo14_lin18} #balanco-massa #voc B = número de veículos pintados em um mês
-- **Anexo XIV, linha 19** {#anexo14_lin19} #balanco-massa #voc S = área superficial total em m<sup>2</sup> por veículo, sendo calculada como a superfície revestida por eletroforese e na superfície de quaisquer componentes adicionados nas diversas fases do processo e revestidos com o mesmo material que o produto em causa na instalação.
-- **Anexo XIV, linha 20** {#anexo14_lin20} #balanco-massa #voc Exemplo:
+- **Anexo XIV, linha 1** {#anexo14_lin1} VE = 1000 · [Σ<sub>i</sub>(VCixVOCi) + Σ<sub>j</sub> SOLVj − Σ<sub>k</sub> RSk] / BxS
+- **Anexo XIV, linha 2** {#anexo14_lin2} VC = [Σ<sub>i</sub>(VCixVOCixTCOi) + Σ<sub>j</sub>(SOLVjxTCOj) − Σ<sub>k</sub>(RSkxTCOk)] / horas trabalhadas por mês
+- **Anexo XIV, linha 3** {#anexo14_lin3} VE = emissão média mensal de VOC em g/m<sup>2</sup>
+- **Anexo XIV, linha 4** {#anexo14_lin4} VC = emissão em kg/h expresso como carbono total
+- **Anexo XIV, linha 5** {#anexo14_lin5} Variável i: corresponde ao produto i utilizado para o revestimento, contendo VOC
+- **Anexo XIV, linha 6** {#anexo14_lin6} VCi = volume de produto de revestimento i usada por mês em litros
+- **Anexo XIV, linha 7** {#anexo14_lin7} Exemplo: fundo (primer), produto de conservação etc.
+- **Anexo XIV, linha 8** {#anexo14_lin8} VOCi = teor de VOC do produto de revestimento i em kg VOC/l determinado pela FISPQ, pelo método 24 da "US Environmental Protection Agency, Code of Federal Regulations (CFR) Title 40, Appendix A", ou pelo método de teste ASTM-D3960 ou equivalente
+- **Anexo XIV, linha 9** {#anexo14_lin9} TCOi = teor de carbono orgânico do produto de revestimento i em kg C/kg de VOC
+- **Anexo XIV, linha 10** {#anexo14_lin10} Variável j: corresponde ao solvente orgânico j utilizado na instalação industrial
+- **Anexo XIV, linha 11** {#anexo14_lin11} SOLVj = massa de solvente j usado por mês em kg
+- **Anexo XIV, linha 12** {#anexo14_lin12} Exemplo: solvente para fins de limpeza, diluente etc.
+- **Anexo XIV, linha 13** {#anexo14_lin13} TCOj = teor de carbono orgânico do SOLVj em kg C/kg de solvente
+- **Anexo XIV, linha 14** {#anexo14_lin14} Variável k: corresponde a um processo k de remoção de VOC
+- **Anexo XIV, linha 15** {#anexo14_lin15} RSk = massa de VOC removida pelo processo k por mês em kg
+- **Anexo XIV, linha 16** {#anexo14_lin16} Exemplo: VOC removido por conversores, por resíduos sólidos removidos, por devolução de solventes etc.
+- **Anexo XIV, linha 17** {#anexo14_lin17} TCOk = teor de carbono orgânico de VOC removidos pelo processo k em kg de carbono orgânico/kg de VOC
+- **Anexo XIV, linha 18** {#anexo14_lin18} B = número de veículos pintados em um mês
+- **Anexo XIV, linha 19** {#anexo14_lin19} S = área superficial total em m<sup>2</sup> por veículo, sendo calculada como a superfície revestida por eletroforese e na superfície de quaisquer componentes adicionados nas diversas fases do processo e revestidos com o mesmo material que o produto em causa na instalação.
+- **Anexo XIV, linha 20** {#anexo14_lin20} Exemplo:
 
 **Anexo XIV, Tabela 1** {#anexo14_tab1} Exemplo de cálculo por balanço de massa (sem título no original)
 

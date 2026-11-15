@@ -30,7 +30,6 @@ fonte: "PDF da página do DOU (in.gov.br) impresso do navegador (Skia/PDF, 11 p�
 **Preâmbulo** {#preambulo} O PRESIDENTE DO INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - Ibama, nomeado pela Portaria nº 1.779, de 23 de fevereiro de 2023, publicada no Diário Oficial da União de 24 de fevereiro de 2023, no uso das atribuições que lhe conferem o art. 15, caput, inciso V, do Anexo I do [[decreto-federal-12130-2024|Decreto nº 12.130, de 7 de agosto de 2024]], que aprovou a Estrutura Regimental do Ibama, publicado no Diário Oficial da União de 8 de agosto de 2024, tendo em vista o art. 217, caput, inciso V, da [[portaria-ibama-73-2025|Portaria Ibama nº 73, de 26 de maio de 2025]], que aprovou o regimento interno do Ibama, publicada no Diário Oficial da União do dia 27 de maio de 2025, e conforme o art. 2º, caput, inciso II, da [[lei-federal-7735-1989|Lei nº 7.735, de 22 de fevereiro de 1989]], o [[lei-federal-6938-1981#art9_cpt_inc12|art. 9º, caput, inciso XII]], e o [[lei-federal-6938-1981#art17_cpt_inc2|art. 17, caput, inciso II, ambos da Lei nº 6.938, de 31 de agosto de 1981]], e o que consta no processo nº 02001.007590/2012-69, resolve:
 
 ###### Art. 1º {#art1}
-Tags: #ctf #alteracao #ibama #certidao #tcfa #enquadramento
 
 **Art. 1º, caput** {#art1_cpt} A [[instrucao-normativa-ibama-13-2021|Instrução Normativa Ibama nº 13, de 23 de agosto de 2021]], passa a vigorar com as seguintes alterações:
 
@@ -159,17 +158,14 @@ Tags: #ctf #alteracao #ibama #certidao #tcfa #enquadramento
 " (NR)
 
 ###### Art. 2º {#art2}
-Tags: #ctf #alteracao #enquadramento
 
 **Art. 2º, caput** {#art2_cpt} O [[instrucao-normativa-ibama-13-2021#anexo1|Anexo I da Instrução Normativa Ibama nº 13, de 23 de agosto de 2021]], passa a vigorar com as seguintes alterações na forma do [[#anexo1|Anexo I]] desta Instrução Normativa.
 
 ###### Art. 3º {#art3}
-Tags: #ctf #alteracao #certidao
 
 **Art. 3º, caput** {#art3_cpt} O [[instrucao-normativa-ibama-13-2021#anexo2|Anexo II da Instrução Normativa Ibama nº 13, de 23 de agosto de 2021]], passa a vigorar com as seguintes alterações na forma do [[#anexo2|Anexo II]] desta Instrução Normativa.
 
 ###### Art. 4º {#art4}
-Tags: #vigencia
 
 **Art. 4º, caput** {#art4_cpt} Esta Instrução Normativa entra em vigor sessenta (60) dias após a data da sua publicação.
 
@@ -180,7 +176,6 @@ Tags: #vigencia
 ## ANEXOS
 
 ### ANEXO I (Anexo I da Instrução Normativa Ibama nº 13, de 23 de agosto de 2021) {#anexo1}
-Tags: #ctf #enquadramento #potencial-poluidor
 
 O Anexo I desta IN é a nova redação completa do Anexo I da IN 13/2021 ("ANEXO I – ATIVIDADES POTENCIALMENTE POLUIDORAS E UTILIZADORAS DE RECURSOS AMBIENTAIS", 175 descrições, com "(NR)" ao final). **A tabela completa está no texto compilado: [[instrucao-normativa-ibama-13-2021#anexo1|IN 13/2021, Anexo I]].** Abaixo, só as diferenças em relação à redação de 2021 (observação do conversor; ver Notas de transcrição):
 
@@ -206,7 +201,6 @@ O Anexo I desta IN é a nova redação completa do Anexo I da IN 13/2021 ("ANEXO
 - **Anexo I, descrições excluídas** {#anexo1_lin20} #revogado Códigos da redação de 2021 que não constam da nova redação: [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin5|1 - 7]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin20|3 - 12]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin25|5 - 4]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin70|15 - 17]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin71|15 - 20]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin72|15 - 21]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin73|15 - 23]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin88|16 - 15]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin93|17 - 58]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin94|17 - 59]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin95|17 - 60]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin97|17 - 62]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin98|17 - 63]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin99|17 - 64]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin100|17 - 65]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin101|17 - 66]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin112|18 - 8]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin113|18 - 10]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin114|18 - 13]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin115|18 - 14]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin116|18 - 17]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin117|18 - 64]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin118|18 - 66]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin119|18 - 74]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin120|18 - 79]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin121|18 - 80]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin122|18 - 81]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin137|20 - 60]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin138|20 - 61]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin143|21 - 27]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin164|21 - 51]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin173|21 - 64]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin174|21 - 66]]; [[instrucao-normativa-ibama-13-2021#anexo1_tab1_lin181|21 - 73]].
 
 ### ANEXO II (Anexo II da Instrução Normativa Ibama nº 13, de 23 de agosto de 2021) {#anexo2}
-Tags: #ctf #certidao
 
 Nova redação completa do Anexo II da IN 13/2021 ("ANEXO II – IMPEDITIVOS PARA EMISSÃO DE CERTIFICADO DE REGULARIDADE DO CADASTRO TÉCNICO FEDERAL DE ATIVIDADES POTENCIALMENTE POLUIDORAS E UTILIZADORAS DE RECURSOS AMBIENTAIS", com "(NR)" ao final). Por ser curto, é transcrito inteiro; cada linha aponta a linha correspondente do texto compilado.
 
@@ -218,11 +212,11 @@ Nova redação completa do Anexo II da IN 13/2021 ("ANEXO II – IMPEDITIVOS PAR
 - **Anexo II, linha 6** {#anexo2_lin6} CTF/AIDA - impeditivo de emissão no CTF/AIDA. → [[instrucao-normativa-ibama-13-2021#anexo2_tab1_lin6|IN 13/2021]]
 - **Anexo II, linha 7** {#anexo2_lin7} RAPP - falta de entrega de relatório anual (Lei nº 6.938/1981: art. 17-C). → [[instrucao-normativa-ibama-13-2021#anexo2_tab1_lin7|IN 13/2021]]
 - **Anexo II, linha 8** {#anexo2_lin8} PROTOCOLO DE MONTREAL - falta de entrega do relatório anual. → [[instrucao-normativa-ibama-13-2021#anexo2_tab1_lin8|IN 13/2021]]
-- **Anexo II, linha 9** {#anexo2_lin9} #agrotoxico AGROTÓXICOS - falta de entrega do relatório semestral de agrotóxicos. → [[instrucao-normativa-ibama-13-2021#anexo2_tab1_lin9|IN 13/2021]]
-- **Anexo II, linha 10** {#anexo2_lin10} #dof DOF - falta de confirmação de recebimento. → [[instrucao-normativa-ibama-13-2021#anexo2_tab1_lin10|IN 13/2021]]
-- **Anexo II, linha 11** {#anexo2_lin11} #dof DOF - bloqueio no sistema. → [[instrucao-normativa-ibama-13-2021#anexo2_tab1_lin11|IN 13/2021]]
-- **Anexo II, linha 12** {#anexo2_lin12} #incluido #dof DOF⁺ - falta de confirmação de recebimento. → [[instrucao-normativa-ibama-13-2021#anexo2_tab1_lin11-a|IN 13/2021]]
-- **Anexo II, linha 13** {#anexo2_lin13} #incluido #dof DOF⁺ - bloqueio no sistema. → [[instrucao-normativa-ibama-13-2021#anexo2_tab1_lin11-b|IN 13/2021]]
+- **Anexo II, linha 9** {#anexo2_lin9} AGROTÓXICOS - falta de entrega do relatório semestral de agrotóxicos. → [[instrucao-normativa-ibama-13-2021#anexo2_tab1_lin9|IN 13/2021]]
+- **Anexo II, linha 10** {#anexo2_lin10} DOF - falta de confirmação de recebimento. → [[instrucao-normativa-ibama-13-2021#anexo2_tab1_lin10|IN 13/2021]]
+- **Anexo II, linha 11** {#anexo2_lin11} DOF - bloqueio no sistema. → [[instrucao-normativa-ibama-13-2021#anexo2_tab1_lin11|IN 13/2021]]
+- **Anexo II, linha 12** {#anexo2_lin12} #incluido DOF⁺ - falta de confirmação de recebimento. → [[instrucao-normativa-ibama-13-2021#anexo2_tab1_lin11-a|IN 13/2021]]
+- **Anexo II, linha 13** {#anexo2_lin13} #incluido DOF⁺ - bloqueio no sistema. → [[instrucao-normativa-ibama-13-2021#anexo2_tab1_lin11-b|IN 13/2021]]
 - **Anexo II, linha 14** {#anexo2_lin14} SISPASS - vistoria presencial não realizada. → [[instrucao-normativa-ibama-13-2021#anexo2_tab1_lin12|IN 13/2021]]
 - **Anexo II, linha 15** {#anexo2_lin15} OGM - falta de licença do CTNBio. → [[instrucao-normativa-ibama-13-2021#anexo2_tab1_lin13|IN 13/2021]]
 

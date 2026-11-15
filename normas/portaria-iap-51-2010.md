@@ -33,7 +33,6 @@ RESOLVE:
 
 ###### Art. 1º {#art1}
 
-Tags: #renovacao #licenciamento-ambiental #prazo #auditoria #documentacao #lo
 
 **Art. 1º, caput** {#art1_cpt} Os Consultores Ambientais devidamente caracterizados mediante apresentação de Anotação de Responsabilidade Técnica – ART de elaboração ou execução e que tenham participado do treinamento de Licenciamento Ambiental efetuado pelo IAP/CREA, por ocasião dos pedidos de renovação das Licenças de Instalação e de Operação dos empreendimentos de sua responsabilidade terão seus pedidos homologados automaticamente por ocasião do protocolo.
 
@@ -49,7 +48,6 @@ Tags: #renovacao #licenciamento-ambiental #prazo #auditoria #documentacao #lo
 
 ###### Art. 2º {#art2}
 
-Tags: #renovacao #licenciamento-ambiental #fiscalizacao #infracao-ambiental
 
 **Art. 2º, caput** {#art2_cpt} A vistoria do IAP será efetuada a qualquer momento no sentido de caracterizar e conferir a situação geral do empreendimento e suas respectivas emissões dentro dos parâmetros de cada atividade específica.
 
@@ -65,7 +63,6 @@ Tags: #renovacao #licenciamento-ambiental #fiscalizacao #infracao-ambiental
 
 ###### Art. 3º {#art3}
 
-Tags: #renovacao #licenciamento-ambiental
 
 **Art. 3º, caput** {#art3_cpt} Esta Portaria entra em vigor na data de sua publicação.
 

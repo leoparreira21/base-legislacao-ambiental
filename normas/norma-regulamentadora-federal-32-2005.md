@@ -26,14 +26,12 @@ fonte: "Ministério do Trabalho e Emprego, "NR 32 - Segurança e saúde no traba
 > Segurança e saúde no trabalho em serviços de saúde. Aprovada pela Portaria MTb n.º 485, de 11 de novembro de 2005, DOU de 16/11/05, e alterada pelas portarias listadas no histórico.
 
 ## 32.1 Do objetivo e campo de aplicação {#ite32-1}
-Tags: #ambito-aplicacao #servico-saude #seguranca-trabalho
 
 **Item 32.1.1** {#ite32-1-1} Esta Norma Regulamentadora - NR tem por finalidade estabelecer as diretrizes básicas para a implementação de medidas de proteção à segurança e à saúde dos trabalhadores dos serviços de saúde, bem como daqueles que exercem atividades de promoção e assistência à saúde em geral.
 
 **Item 32.1.2** {#ite32-1-2} Para fins de aplicação desta NR entende-se por serviços de saúde qualquer edificação destinada à prestação de assistência à saúde da população, e todas as ações de promoção, recuperação, assistência, pesquisa e ensino em saúde em qualquer nível de complexidade.
 
 ## 32.2 Dos Riscos Biológicos {#ite32-2}
-Tags: #servico-saude #patogeno #saude-ocupacional
 
 **Item 32.2.1** {#ite32-2-1} Para fins de aplicação desta NR, considera-se Risco Biológico a probabilidade da exposição ocupacional a agentes biológicos.
 
@@ -184,7 +182,6 @@ Tags: #redacao-alterada
 **Item 32.2.4.17.7** {#ite32-2-4-17-7} Deve ser fornecido ao trabalhador comprovante das vacinas recebidas.
 
 ## 32.3 Dos Riscos Químicos {#ite32-3}
-Tags: #servico-saude #substancia-toxica #saude-ocupacional
 
 **Item 32.3.1** {#ite32-3-1} Deve ser mantida a rotulagem do fabricante na embalagem original dos produtos químicos utilizados em serviços de saúde.
 
@@ -364,7 +361,6 @@ Tags: #redacao-alterada
 **Item 32.3.10.1.1** {#ite32-3-10-1-1} A capacitação deve ser ministrada por profissionais de saúde familiarizados com os riscos inerentes aos quimioterápicos antineoplásicos.
 
 ## 32.4 Das Radiações Ionizantes {#ite32-4}
-Tags: #servico-saude #radiologia #saude-ocupacional
 
 **Item 32.4.1** {#ite32-4-1} O atendimento das exigências desta NR, com relação às radiações ionizantes, não desobriga o empregador de observar as disposições estabelecidas pelas normas específicas da Comissão Nacional de Energia Nuclear - CNEN e da Agência Nacional de Vigilância Sanitária -ANVISA, do Ministério da Saúde.
 
@@ -553,7 +549,6 @@ Tags: #servico-saude #radiologia #saude-ocupacional
 **Item 32.4.16.2** {#ite32-4-16-2} Para os procedimentos com equipamentos de radiografia extra-oral deverão ser seguidos os mesmos requisitos do radiodiagnóstico médico.
 
 ## 32.5 Dos Resíduos {#ite32-5}
-Tags: #servico-saude #residuo-servico-saude #gerenciamento-residuo
 
 **Item 32.5.1** {#ite32-5-1} Cabe ao empregador capacitar, inicialmente e de forma continuada, os trabalhadores nos seguintes assuntos:
 - **Item 32.5.1, alínea "a"** {#ite32-5-1_alia} segregação, acondicionamento e transporte dos resíduos;
@@ -613,7 +608,6 @@ Tags: #servico-saude #residuo-servico-saude #gerenciamento-residuo
 **Item 32.5.9** {#ite32-5-9} Os rejeitos radioativos devem ser tratados conforme disposto na Resolução CNEN NE-6.05.
 
 ## 32.6 Das Condições de Conforto por Ocasião das Refeições {#ite32-6}
-Tags: #servico-saude #seguranca-trabalho
 
 **Item 32.6.1** {#ite32-6-1} Os refeitórios dos serviços de saúde devem atender ao disposto na [[norma-regulamentadora-federal-24-1978|NR-24]].
 
@@ -629,7 +623,6 @@ Tags: #servico-saude #seguranca-trabalho
 **Item 32.6.3** {#ite32-6-3} Os lavatórios para higiene das mãos devem ser providos de papel toalha, sabonete líquido e lixeira com tampa, de acionamento por pedal.
 
 ## 32.7 Das Lavanderias {#ite32-7}
-Tags: #servico-saude #seguranca-trabalho
 
 **Item 32.7.1** {#ite32-7-1} A lavanderia deve possuir duas áreas distintas, sendo uma considerada suja e outra limpa, devendo ocorrer na primeira o recebimento, classificação, pesagem e lavagem de roupas, e na segunda a manipulação das roupas lavadas.
 
@@ -645,7 +638,6 @@ Tags: #servico-saude #seguranca-trabalho
 **Item 32.7.4** {#ite32-7-4} As máquinas de lavar, centrífugas e secadoras devem ser dotadas de dispositivos eletromecânicos que interrompam seu funcionamento quando da abertura de seus compartimentos.
 
 ## 32.8 Da Limpeza e Conservação {#ite32-8}
-Tags: #servico-saude #seguranca-trabalho
 
 **Item 32.8.1** {#ite32-8-1} Os trabalhadores que realizam a limpeza dos serviços de saúde devem ser capacitados, inicialmente e de forma continuada, quanto aos princípios de higiene pessoal, risco biológico, risco químico, sinalização, rotulagem, EPI, EPC e procedimentos em situações de emergência.
 
@@ -660,7 +652,6 @@ Tags: #servico-saude #seguranca-trabalho
 **Item 32.8.3** {#ite32-8-3} As empresas de limpeza e conservação que atuam nos serviços de saúde devem cumprir, no mínimo, o disposto nos itens 32.8.1 e 32.8.2.
 
 ## 32.9 Da Manutenção de Máquinas e Equipamentos {#ite32-9}
-Tags: #servico-saude #manutencao-reparacao
 
 **Item 32.9.1** {#ite32-9-1} Os trabalhadores que realizam a manutenção, além do treinamento específico para sua atividade, devem também ser submetidos a capacitação inicial e de forma continuada, com o objetivo de mantê-los familiarizados com os princípios de:
 - **Item 32.9.1, alínea "a"** {#ite32-9-1_alia} higiene pessoal;
@@ -692,7 +683,6 @@ Tags: #servico-saude #manutencao-reparacao
 **Item 32.9.6.1** {#ite32-9-6-1} O atendimento do disposto no item 32.9.6 não desobriga o cumprimento da Portaria GM/MS n.° 3.523 de 28/08/98 e demais dispositivos legais pertinentes.
 
 ## 32.10 Das Disposições Gerais {#ite32-10}
-Tags: #servico-saude #seguranca-trabalho
 
 **Item 32.10.1** {#ite32-10-1} Os serviços de saúde devem:
 - **Item 32.10.1, alínea "a"** {#ite32-10-1_alia} atender as condições de conforto relativas aos níveis de ruído previstas na NB 95 da ABNT;
@@ -735,7 +725,6 @@ Tags: #servico-saude #seguranca-trabalho
 **Item 32.10.16** {#ite32-10-16} As edificações dos serviços de saúde devem atender ao disposto na RDC 50 de 21 de fevereiro de 2002 da ANVISA.
 
 ## 32.11 Das Disposições Finais {#ite32-11}
-Tags: #servico-saude #vigencia
 
 **Item 32.11.1** {#ite32-11-1} #revogado *(Revogado pela [[portaria-seprt-915-2019|Portaria SEPRT n.º 915, de 30 de julho de 2019]])*
 
@@ -748,7 +737,6 @@ Tags: #servico-saude #vigencia
 **Item 32.11.4** {#ite32-11-4} #revogado *(Revogado pela [[portaria-seprt-915-2019|Portaria SEPRT n.º 915, de 30 de julho de 2019]])*
 
 ## ANEXO I {#anexo1}
-Tags: #patogeno #classificacao-agente-biologico
 
 **Anexo I, linha 1** {#anexo1_lin1} Os agentes biológicos são classificados em:
 
@@ -761,7 +749,6 @@ Tags: #patogeno #classificacao-agente-biologico
 **Anexo I, linha 5** {#anexo1_lin5} Classe de risco 4: risco individual elevado para o trabalhador e com probabilidade elevada de disseminação para a coletividade. Apresenta grande poder de transmissibilidade de um indivíduo a outro. Podem causar doenças graves ao ser humano, para as quais não existem meios eficazes de profilaxia ou tratamento.
 
 ## ANEXO II {#anexo2}
-Tags: #patogeno #classificacao-agente-biologico
 
 **Anexo II, linha 1** {#anexo2_lin1} Tabela de classificação dos Agentes Biológicos
 
@@ -1447,7 +1434,6 @@ Tags: #patogeno #classificacao-agente-biologico
 **Anexo II, linha 17** {#anexo2_lin17} (f) Até o momento não há evidência de infecções em seres humanos causadas pelos agentes responsáveis pela encefalite espongiforme bovina. No entanto, recomenda-se o nível de contenção 2, no mínimo, para o trabalho com este agente em laboratório.
 
 ## ANEXO III – PLANO DE PREVENÇÃO DE RISCOS DE ACIDENTES COM MATERIAIS PERFUROCORTANTES {#anexo3}
-Tags: #perfurocortante #servico-saude
 
 *(Aprovado pela [[portaria-mte-1748-2011|Portaria GM n.º 1.748, de 30 de agosto de 2011]])*
 
@@ -1536,7 +1522,6 @@ Tags: #perfurocortante #servico-saude
 **Anexo III, item 10.1** {#anexo3_ite10-1} O plano deve ser avaliado a cada ano, no mínimo, e sempre que se produza uma mudança nas condições de trabalho e quando a análise das situações de risco e dos acidentes assim o determinar.
 
 ## Glossário Da Nr-32 {#glossario}
-Tags: #definicao
 
 **Glossário, linha 1** {#glossario_lin1} ABNT: Associação Brasileira de Normas Técnicas Acidente: é um evento súbito e inesperado que interfere nas condições normais de operação e que pode resultar em danos ao trabalhador, à propriedade ou ao meio ambiente.
 

@@ -72,7 +72,6 @@ CONSIDERANDO:
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #aquicultura #licenciamento-ambiental #outorga #lp #li
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer normas, critérios e procedimentos para o licenciamento ambiental e para a outorga de uso de recursos hídricos de empreendimentos e atividades de aquicultura e maricultura.
 
@@ -88,7 +87,6 @@ Tags: #aquicultura #licenciamento-ambiental #outorga #lp #li
 ## CAPÍTULO I – DAS DEFINIÇÕES {#cap1}
 
 ###### Art. 2º {#art2}
-Tags: #outorga #aquicultura #licenciamento-ambiental #definicao #porte #efluente
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução são adotados os seguintes conceitos:
 
@@ -121,7 +119,6 @@ Tags: #outorga #aquicultura #licenciamento-ambiental #definicao #porte #efluente
 ### Seção I – Dos Atos administrativos {#cap2_sec1}
 
 ###### Art. 3º {#art3}
-Tags: #condicionante #outorga #licenciamento-ambiental #las #lp #li
 
 **Art. 3º, caput** {#art3_cpt} O Órgão Ambiental competente, no exercício de sua competência de controle ambiental, expedirá os seguintes atos administrativos:
 
@@ -137,14 +134,12 @@ Tags: #condicionante #outorga #licenciamento-ambiental #las #lp #li
 ### Seção II – Da Definição do Porte, Tipo de Licenciamento e de Estudo Ambiental {#cap2_sec2}
 
 ###### Art. 4º {#art4}
-Tags: #porte #definicao #enquadramento
 
 **Art. 4º, caput** {#art4_cpt} O Porte dos Empreendimentos Aquícolas realizados em viveiros ou tanques especiais, construídos em terreno natural, cuja somatória da área inundada produtiva, excluídos os canais de abastecimento, reservatórios e bacia de sedimentação, será definido e enquadrado de acordo com a área alagada e produtividade (produção por unidade de área), conforme os quadros do [[#anexo1|Anexo I]]
 
 **Art. 4º, parágrafo único** {#art4_par1u} Para efeito de classificação do porte é vedado o fracionamento de áreas contíguas pertencentes à mesma pessoa, física ou jurídica, considerando-se para tanto a somatória da área inundada produtiva, excluídos os canais de abastecimento, reservatórios e bacia de sedimentação.
 
 ###### Art. 5º {#art5}
-Tags: #licenciamento-ambiental
 
 **Art. 5º, caput** {#art5_cpt} Para cultivos marinhos e estuarinos em áreas da União, os limites máximos das áreas superficiais a serem ocupadas pelos parques e áreas aquícolas marinhas em enseadas, baías e em mar aberto serão propostos pelo PLDM, definidos nos procedimentos de licenciamento ambiental e aprovados através dos processos de autorização de uso de espaços físicos de corpos d'água de domínio da União, de acordo com a legislação específica.
 
@@ -158,7 +153,6 @@ Tags: #licenciamento-ambiental
 - **Art. 5º, parágrafo único, inciso VI** {#art5_par1u_inc6} cultivo de Peixes em tanques rede: engorda.
 
 ###### Art. 6º {#art6}
-Tags: #dispensa #licenciamento-ambiental #porte #efluente #enquadramento
 
 **Art. 6º, caput** {#art6_cpt} Ficam passíveis de Declaração de Dispensa de Licenciamento Ambiental - DLAE os empreendimentos e atividades aquícolas classificados como de porte mínimo, conforme enquadramento constante no [[#anexo1|Anexo I]], desta Resolução.
 
@@ -167,7 +161,6 @@ Tags: #dispensa #licenciamento-ambiental #porte #efluente #enquadramento
 **Art. 6º, § 2º** {#art6_par2} São passiveis de Dispensa de Licenciamento Ambiental - DLAE , a produção de Peixes em sistema de recirculação de água, sistemas fechados, sem emissão de efluentese quando suas plantas e estruturas físicas, são construídas de alvenaria ou outro material permeabilizado, independentemente do tamanho e produtividade.
 
 ###### Art. 7º {#art7}
-Tags: #licenciamento-ambiental #las
 
 **Art. 7º, caput** {#art7_cpt} O licenciamento ambiental de unidades produtoras de formas jovens de organismos aquáticos dulcícolas e marinhos, deverá ser realizado por meio de processo de Licenciamento Ambiental Simplificado - LAS, quando a sua produção for exclusiva para reprodução das espécies nativas oriundas das respectivas bacias hidrográficas onde se localiza o empreendimento.
 
@@ -178,7 +171,6 @@ Tags: #licenciamento-ambiental #las
 #### Subseção I – Da Declaração de Dispensa de Licenciamento Ambiental - DLAE {#cap2_sec3_subsec1}
 
 ###### Art. 8º {#art8}
-Tags: #dispensa #licenciamento-ambiental
 
 **Art. 8º, caput** {#art8_cpt} A Declaração de Dispensa de Licenciamento Ambiental - DLAE é obrigatória e deverá ser solicitada através do SGA, instruído na forma prevista abaixo:
 
@@ -190,22 +182,18 @@ Tags: #dispensa #licenciamento-ambiental
 - **Art. 8º, caput, inciso II** {#art8_cpt_inc2} documento de propriedade ou justa posse rural, conforme Resolução CEMA nº 105 de17 de dezembro de 2019.
 
 ###### Art. 9º {#art9}
-Tags: #aquicultura #licenciamento-ambiental
 
 **Art. 9º, caput** {#art9_cpt} Para qualquer alteração na área construída de cultivo para os empreendimentos de Aquicultura, deverá ser solicitada a respectiva Licença Ambiental.
 
 ###### Art. 10 {#art10}
-Tags: #aquicultura #licenciamento-ambiental
 
 **Art. 10, caput** {#art10_cpt} Para qualquer alteração na área construída de cultivo para os empreendimentos de Aquicultura, deverá ser solicitada a respectiva Licença Ambiental.
 
 ###### Art. 11 {#art11}
-Tags: #dispensa #validade #porte
 
 **Art. 11, caput** {#art11_cpt} A DLAE terá validade de até 06 (seis) anos desde que, não ocorram novas modificações do porte ou ampliações do empreendimento e/ou atividade aquícolas.
 
 ###### Art. 12 {#art12}
-Tags: #licenciamento-ambiental #dispensa
 
 **Art. 12, caput** {#art12_cpt} Não serão passíveis de Dispensa de Licenciamento Ambiental - DLAE licenciamento ambiental as atividades e empreendimentos aquícolas, principalmente em viveiros e/ou tanques escavados que:
 
@@ -216,14 +204,12 @@ Tags: #licenciamento-ambiental #dispensa
 - **Art. 12, caput, inciso V** {#art12_cpt_inc5} que não possuam implantados mecanismos de melhorias de qualidade de águas e/ousistemas de tanque de sedimentação.
 
 ###### Art. 13 {#art13}
-Tags: #aquicultura #licenciamento-ambiental
 
 **Art. 13, caput** {#art13_cpt} Os empreendimentos e atividades de produção de organismos aquáticos a serem desenvolvidas pelas instituições públicas, voltados ao ensino, pesquisa, fomento e extensão, poderão ainda ser dispensados de licenciamento ambiental, desde que promovam acordo de cooperação técnica com o órgão ambiental para compartilhamento e disseminação de tecnologias voltadas ao estabelecimento das atividades de aquicultura, enfatizando o desenvolvimento sustentável
 
 #### Subseção II – Da Licença Ambiental Simplificada – LAS {#cap2_sec3_subsec2}
 
 ###### Art. 14 {#art14}
-Tags: #las #licenciamento-ambiental #publicacao-dioe #outorga #responsavel-tecnico #porte
 
 **Art. 14, caput** {#art14_cpt} Os empreendimentos e atividades aquícolas de porte médio, constantes no Quadro I do [[#anexo1|Anexo I]] da presente Resolução, serão licenciados através de Licença Ambiental Simplificada – LAS, compreendendo a localização, instalação e operação do empreendimento e deverá ser requerida através do SGA, instruído na forma prevista abaixo:
 
@@ -246,12 +232,10 @@ Tags: #las #licenciamento-ambiental #publicacao-dioe #outorga #responsavel-tecni
 - **Art. 14, caput, inciso XIII** {#art14_cpt_inc13} recolhimento da taxa ambiental e demais valores cabíveis referentes às publicações, em caso de optar pela publicação no site do órgão ambiental competente.
 
 ###### Art. 15 {#art15}
-Tags: #las #supressao-vegetacao #licenciamento-ambiental
 
 **Art. 15, caput** {#art15_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença Ambiental Simplificada – LAS somente poderá ser emitida acompanhada da respectiva Autorização Florestal.
 
 ###### Art. 16 {#art16}
-Tags: #las #licenciamento-ambiental #renovacao #publicacao-dioe #requerimento #outorga
 
 **Art. 16, caput** {#art16_cpt} Os requerimentos para Renovação da Licença Ambiental Simplificada – LAS, deverão ser protocolados no SGA, instruídos na forma prevista abaixo:
 
@@ -270,14 +254,12 @@ Tags: #las #licenciamento-ambiental #renovacao #publicacao-dioe #requerimento #o
 #### Subseção III – Das Licenças Prévia - LP, de Instalação - LI e de Operação - LO {#cap2_sec3_subsec3}
 
 ###### Art. 17 {#art17}
-Tags: #lp #li #lo #porte #licenciamento-ambiental #enquadramento
 
 **Art. 17, caput** {#art17_cpt} Os empreendimentos e atividades aquícolas com enquadramento em porte grande ou excepcional, constante do [[#anexo1|Anexo I]] desta Resolução, estão sujeitos ao licenciamento ambiental completo, através das etapas de Licença Prévia (LP), Licença de Instalação (LI) e Licença de Operação (LO), que devem ser requeridas sucessivamente e, se for caso, com os respectivos Estudos de Impactos Ambientais complementares.
 
 **Art. 17, parágrafo único** {#art17_par1u} Este procedimento se aplica a novos empreendimentos, empreendimentos em operação que venham a sofrer ampliações acima do porte, alterações definitivas no processo e incorporação de novas atividades, com alteração dascaracterísticas do empreendimento já implantado.
 
 ###### Art. 18 {#art18}
-Tags: #lp #publicacao-dioe #aquicultura #requerimento #responsavel-tecnico #anuencia
 
 **Art. 18, caput** {#art18_cpt} Os requerimentos para LICENÇA PRÉVIA – LP, deverão ser realizados através do SGA, instruído na forma prevista abaixo:
 
@@ -303,7 +285,6 @@ Tags: #lp #publicacao-dioe #aquicultura #requerimento #responsavel-tecnico #anue
 - **Art. 18, caput, inciso XV** {#art18_cpt_inc15} e recolhimento da taxa ambiental e demais valores cabíveis referentes às publicações, em caso de optar pela publicação no site do órgão ambiental competente.
 
 ###### Art. 19 {#art19}
-Tags: #li #publicacao-dioe #autorizacao-florestal #requerimento #responsavel-tecnico #aquicultura
 
 **Art. 19, caput** {#art19_cpt} Os requerimentos para LICENÇA DE INSTALAÇÃO – LI, deverão ser realizados através do SGA, instruído na forma prevista abaixo:
 
@@ -319,12 +300,10 @@ Tags: #li #publicacao-dioe #autorizacao-florestal #requerimento #responsavel-tec
 - **Art. 19, caput, inciso X** {#art19_cpt_inc10} recolhimento da taxa ambiental e, em caso de optar pela publicação no site do órgão ambiental, demais valores cabíveis referentes às publicações.
 
 ###### Art. 20 {#art20}
-Tags: #supressao-vegetacao #li
 
 **Art. 20, caput** {#art20_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença de Instalação somente poderá ser emitida acompanhada da respectiva Autorização Florestal.
 
 ###### Art. 21 {#art21}
-Tags: #lo #publicacao-dioe #li #requerimento #responsavel-tecnico #recurso-hidrico
 
 **Art. 21, caput** {#art21_cpt} Os requerimentos para LICENÇA DE OPERAÇÃO – LO, deverão ser realizados através do SGA, instruído na forma prevista abaixo:
 
@@ -346,7 +325,6 @@ Tags: #lo #publicacao-dioe #li #requerimento #responsavel-tecnico #recurso-hidri
 - **Art. 21, caput, inciso XI** {#art21_cpt_inc11} recolhimento da taxa ambiental e, em caso de optar pela publicação no site do órgão ambiental, demais valores cabíveis referentes às publicações.
 
 ###### Art. 22 {#art22}
-Tags: #lo #publicacao-dioe #renovacao #rlo #requerimento #recurso-hidrico
 
 **Art. 22, caput** {#art22_cpt} Os requerimentos para RENOVAÇÃO DE LICENÇA DE OPERAÇÃO - RLO, deverão ser realizados através do SGA, instruído na forma prevista abaixo:
 
@@ -363,14 +341,12 @@ Tags: #lo #publicacao-dioe #renovacao #rlo #requerimento #recurso-hidrico
 - **Art. 22, caput, inciso VI** {#art22_cpt_inc6} recolhimento da taxa ambiental e demais valores cabíveis referentes às publicações, em caso de optar pela publicação no site do órgão ambiental competente.
 
 ###### Art. 23 {#art23}
-Tags: #lo #rlo #prazo #renovacao #ampliacao
 
 **Art. 23, caput** {#art23_cpt} A RLO e a LO de ampliação poderão ser solicitadas de forma unificada quando o prazo de vencimento da LO em renovação for inferior a 01 (um) ano.
 
 #### Subseção IV – Da Regularização do Licenciamento Ambiental {#cap2_sec3_subsec4}
 
 ###### Art. 24 {#art24}
-Tags: #licenciamento-ambiental #publicacao-dioe #las #lo #lor #lasr
 
 **Art. 24, caput** {#art24_cpt} Os empreendimentos já existentes e em operação, que não possuem a devida Licença Ambiental na data da publicação desta Resolução, deverão regularizar sua situação em consonância com o órgão ambiental licenciador.
 
@@ -379,7 +355,6 @@ Tags: #licenciamento-ambiental #publicacao-dioe #las #lo #lor #lasr
 **Art. 24, § 2º** {#art24_par2} O prazo para requerer a regularização, será no máximo de 02 (dois) anos contados a partir da data de publicação desta Resolução.
 
 ###### Art. 25 {#art25}
-Tags: #licenciamento-ambiental #las #aquicultura #documentacao #publicacao-dioe #outorga
 
 **Art. 25, caput** {#art25_cpt} Os requerimentos de regularização de licenciamento ambiental para os empreendimentos e atividades aquícolas e maricultura, enquadrados no [[#art24|Artigo 24]], classificados de porte médio, conforme Quadro I do [[#anexo1|Anexo I]] da presente Resolução deverão ser realizados através do SGA, instruído na forma prevista abaixo:
 
@@ -408,7 +383,6 @@ Tags: #licenciamento-ambiental #las #aquicultura #documentacao #publicacao-dioe 
 - **Art. 25, parágrafo único, inciso I** {#art25_par1u_inc1} O órgão ambiental realizará avaliação posterior das informações constantes no procedimento, podendo solicitar complementações ou até a suspensão do licenciamento.
 
 ###### Art. 26 {#art26}
-Tags: #publicacao-dioe #outorga #licenciamento-ambiental #requerimento #responsavel-tecnico #porte
 
 **Art. 26, caput** {#art26_cpt} Os requerimentos de regularização ambiental de licenciamento ambiental para os empreendimentos e atividades aquícolas, classificados de porte grande ou excepcional conforme do [[#anexo1|Anexo I]] da presente Resolução deverão ser realizados através do SGA, instruído na forma prevista abaixo:
 
@@ -435,7 +409,6 @@ Tags: #publicacao-dioe #outorga #licenciamento-ambiental #requerimento #responsa
 #### Subseção V – Da Isenção da Taxa de Licenciamento Ambiental {#cap2_sec3_subsec5}
 
 ###### Art. 27 {#art27}
-Tags: #aquicultura #licenciamento-ambiental #taxa-ambiental
 
 **Art. 27, caput** {#art27_cpt} Ficam dispensados do pagamento da taxa de licenciamento ambiental os empreendimentos de aquicultura do pequeno produtor, que atendam aos critérios caracterizando sua condição visando os benefícios da lei através: da caracterização de Pequeno Produtor Rural ou a Declaração de Aptidão ao PRONAF expedido pela EMATER, FETAEP ou o Sindicato dos Trabalhadores Rurais.
 
@@ -444,7 +417,6 @@ Tags: #aquicultura #licenciamento-ambiental #taxa-ambiental
 ### Seção IV – Dos Prazos de Validade das Licenças Ambientais e Outorga de Recursos Hídricos {#cap2_sec4}
 
 ###### Art. 28 {#art28}
-Tags: #validade #prazo #outorga #lp #li #lo
 
 **Art. 28, caput** {#art28_cpt} O órgão ambiental competente estabelecerá os prazos de validade para cada tipo de licença e autorização ambiental, especificando-os no respectivo documento, levando em consideração os seguintes aspectos:
 
@@ -461,17 +433,14 @@ Tags: #validade #prazo #outorga #lp #li #lo
 ### Seção I – Quanto ao Lançamento de Efluentes {#cap3_sec1}
 
 ###### Art. 29 {#art29}
-Tags: #efluente #porte
 
 **Art. 29, caput** {#art29_cpt} Para implantação de viveiros, ou qualquer unidade de produção piscícola em sistemas intensivos, classificados como porte médio, grande e excepcional, independentemente da densidade de povoamento, é obrigatória à implantação de sistema para o tratamento de efluentes, incluindo sistemas de retenção de sedimentos.
 
 ###### Art. 30 {#art30}
-Tags: #aquicultura #efluente #enquadramento #recurso-hidrico
 
 **Art. 30, caput** {#art30_cpt} Os empreendimentos de aquicultura deverão implantar mecanismos de tratamento e controle de efluentes que garantam o atendimento aos padrões do enquadramento do corpo hídrico receptor.
 
 ###### Art. 31 {#art31}
-Tags: #efluente #renovacao #recurso-hidrico #aquicultura #outorga
 
 **Art. 31, caput** {#art31_cpt} Para o lançamento de efluentes de empreendimentos e atividades de aquicultura em corpos hídricos, no que se refere à outorga de uso de recursos hídricos, ficam estabelecidos os seguintes critérios e parâmetros:
 
@@ -486,7 +455,6 @@ Tags: #efluente #renovacao #recurso-hidrico #aquicultura #outorga
 **Art. 32, caput** {#art32_cpt} O período de despesca de usuários localizados a montante de mananciais para abastecimento público, deverá ser comunicado por escrito, junto ao prestador/concessionária de serviços de saneamento existente no Município, no mínimo 30 dias de antecedência.
 
 ###### Art. 33 {#art33}
-Tags: #efluente #aquicultura #recurso-hidrico #outorga #enquadramento
 
 **Art. 33, caput** {#art33_cpt} Para o lançamento de efluentes líquidos de empreendimentos de aquicultura em corpos hídricos ficam estabelecidos os seguintes padrões:
 
@@ -512,7 +480,6 @@ Tags: #efluente #aquicultura #recurso-hidrico #outorga #enquadramento
 ### Seção II – Aspectos Técnicos e Locacionais {#cap3_sec2}
 
 ###### Art. 34 {#art34}
-Tags: #responsavel-tecnico #outorga #app #supressao-vegetacao #recurso-hidrico #aquicultura
 
 **Art. 34, caput** {#art34_cpt} Quando o empreendimento estiver localizado em áreas consolidadas deverá ser observada a [[lei-federal-12651-2012|Lei Federal nº 12.651 de 25 de maio de 2012]] (Código Florestal), observado CAR e atendidos os demais requisitos estabelecidos nesta lei.
 
@@ -538,46 +505,38 @@ Tags: #responsavel-tecnico #outorga #app #supressao-vegetacao #recurso-hidrico #
 - **Art. 34, § 4º, inciso V** {#art34_par4_inc5} em casos de conjuntos de viveiros construídos no leito do recurso hídrico, deverão ser solicitadas Outorga Prévia ou Outorga de Direito de barragem e lançamento de efluentes que contemple todos os usuários.
 
 ###### Art. 35 {#art35}
-Tags: #licenciamento-ambiental
 
 **Art. 35, caput** {#art35_cpt} Para cultivos marinhos e estuarinos em áreas da União, os limites máximos das áreas superficiais a serem ocupadas pelos parques e áreas aquícolas marinhas em enseadas, baías e em mar aberto serão propostos pelo PLDM, definidos nos procedimentos de licenciamento ambiental e aprovados através dos processos de autorização de uso de espaços físicos de corpos d'água de domínio da União, de acordo com a legislação específica.
 
 ###### Art. 36 {#art36}
-Tags: #aquicultura #porte #enquadramento
 
 **Art. 36, caput** {#art36_cpt} Para as espécies a serem utilizadas na aquicultura, independente do porte do empreendimento, deverão ser observadas a normativas vigentes e, no caso de espécies exóticas, alóctones e hibridas, deverão ser observadas as medidas mitigatórias dos impactos, conforme [[#anexo3|Anexo III]].
 
 **Art. 36, parágrafo único** {#art36_par1u} Nos empreendimentos aquícolas com cultivo de várias espécies prevalecerá, para fins de enquadramento, o caso mais restritivo em termos ambientais.
 
 ###### Art. 37 {#art37}
-Tags: #outorga #autorizacao-ambiental #recurso-hidrico
 
 **Art. 37, caput** {#art37_cpt} Novos empreendimentos não poderão alterar o recurso hídrico sem autorização ambiental e outorga de direito de obras e intervenções.
 
 ###### Art. 38 {#art38}
-Tags: #outorga #prazo #vigencia
 
 **Art. 38, caput** {#art38_cpt} No procedimento de Outorga de Direito ou de Uso Insignificante de recursos hídricos, se for o caso, os empreendimentos deverão apresentar proposta de metas progressivas intermediárias e finais, para estabelecimento de prazos e adequação à legislação em vigência.
 
 ###### Art. 39 {#art39}
-Tags: #recurso-hidrico
 
 **Art. 39, caput** {#art39_cpt} O período de enchimento dos viveiros de usuários localizados no mesmo trecho do corpo hídrico ou sub-bacia hidrográfica deverá ser realizado preferencialmente em regime alternado.
 
 ###### Art. 40 {#art40}
-Tags: #aquicultura #outorga #renovacao
 
 **Art. 40, caput** {#art40_cpt} É obrigatória a instalação de sistema de controle de vazão e regime de captação/recalque de água em empreendimentos de aquicultura para fins de concessão/renovação de Licenças Ambientais e Outorgas de Direito.
 
 ###### Art. 41 {#art41}
-Tags: #aquicultura #lo #prazo #recurso-hidrico
 
 **Art. 41, caput** {#art41_cpt} Os empreendimentos de aquicultura em tanques rede em águas continentais da União, deverão atender a capacidade de suporte do respectivo corpo hídrico estabelecido na legislação ambiental vigente.
 
 **Art. 41, parágrafo único** {#art41_par1u} As estruturas de cultivo em sistemas de produção em tanques rede deverão ser delimitados a uma distância mínima de 150 (cento e cinquenta) metros com relação ao outro empreendimento, para permitir zona de recuperação de áreas adensadas intercalando os espaços permitindo recuperação ambiental, ou seja áreas de vazios sanitários com rodízio das estruturas do Tanques Rede, em anexo com a permanência dasestruturas físicas, nesta poligonal no prazo da licença de operação, para um novo local anexo a poligonal autorizada.
 
 ###### Art. 42 {#art42}
-Tags: #aquicultura
 
 **Art. 42, caput** {#art42_cpt} O uso de formas jovens na aquicultura e maricultura, somente serão permitidos quando:
 
@@ -591,31 +550,26 @@ Tags: #aquicultura
 **Art. 43, caput** {#art43_cpt} O órgão ambiental licenciador exigirá a adoção de padrões construtivos viáveis que reduzam as possibilidades de erosão e rompimento de taludes em caso de empreendimentos aquícolas em ambiente terrestre.
 
 ###### Art. 44 {#art44}
-Tags: #encerramento #aquicultura
 
 **Art. 44, caput** {#art44_cpt} No encerramento das atividades de aquicultura deverá ser apresentado ao órgão ambiental um Plano de Encerramento, com cronograma de execução.
 
 ###### Art. 45 {#art45}
-Tags: #licenciamento-ambiental #unidade-conservacao
 
 **Art. 45, caput** {#art45_cpt} No caso do licenciamento ambiental de empreendimentos e atividades aquícolas, em sistemas de produção em viveiros, tanques redes e cultivos marinhos, localizados no interior de unidades de conservação (UC), ou sua zona de amortecimento, serão consideradas as recomendações constantes do Plano de Manejo da unidade, e seus conselhos consultivos e deliberativos, observada normativa vigente.
 
 **Art. 45, parágrafo único** {#art45_par1u} Em caso de ausência do plano de manejo cabe ao órgão ambiental a definição dos critérios específicos para licenciamento ambiental de empreendimentos e atividades aquícolas, localizados no interior de unidades de conservação (UC), ou sua zona de amortecimento.
 
 ###### Art. 46 {#art46}
-Tags: #monitoramento
 
 **Art. 46, caput** {#art46_cpt} O empreendedor deverá realizar o automonitoramento ambiental da atividade de acordo com as exigências a serem estabelecidas pelo Decreto nº 4.895/2003 e Instrução Normativa Interministerial de nº 006/2004 e alterações, em corpos d’água de domínio da União.
 
 ## CAPÍTULO IV – DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS {#cap4}
 
 ###### Art. 47 {#art47}
-Tags: #outorga #validade
 
 **Art. 47, caput** {#art47_cpt} O não cumprimento do estabelecido nessa Resolução, implicará na suspensão e/ou cancelamento da validade das licenças ambientais e outorga de uso, sujeita o infratoràs sanções administrativas, cíveis e criminais previstas na legislação vigente.
 
 ###### Art. 48 {#art48}
-Tags: #outorga #licenciamento-ambiental #renovacao #revogacao #vigencia #publicacao-dioe
 
 **Art. 48, caput** {#art48_cpt} Esta Resolução entra em vigor na data de sua publicação, aplicando-se seus efeitos aos processos de licenciamento ambiental e outorga de uso de recursos hídricos em tramitação no órgão, inclusive os casos de renovação em que ainda não tenha sido expedida alguma das Licenças ou outorgas exigíveis, ficando revogada a [[resolucao-sedest-14-2020|Resolução SEDEST nº 014/2020]].
 
@@ -631,27 +585,26 @@ Tags: #outorga #licenciamento-ambiental #renovacao #revogacao #vigencia #publica
 > Tipos conforme as regras de anexos do README. O PDF traz só a lista "ANEXOS" com seis arquivos (anexo252526_60318.pdf a anexo252526_60323.pdf) e não o conteúdo dos anexos. O texto cita cinco anexos (I a V); o sexto arquivo da lista não corresponde a anexo citado.
 
 ### ANEXO I {#anexo1}
-Tags: #anexo-pendente #porte
+Tags: #anexo-pendente
 
 Quadros de enquadramento do porte dos empreendimentos de aquicultura e maricultura (área alagada e produtividade). *(Tipo 3. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo252526_60318.pdf a anexo252526_60323.pdf`. Exigido em: [[#art4_cpt|Art. 4º]], [[#art6_cpt|Art. 6º]], [[#art14_cpt|Art. 14]], [[#art17_cpt|Art. 17]], [[#art25_cpt|Art. 25]], [[#art26_cpt|Art. 26]].)*
 
 ### ANEXO II {#anexo2}
-Tags: #certidao-municipal
 
 Modelo de certidão do município (conformidade do local e do tipo de empreendimento com a legislação municipal). *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art14_cpt_inc2|Art. 14, inciso II]], [[#art18_cpt_inc4|Art. 18, inciso IV]], [[#art25_cpt_inc2|Art. 25, inciso II]], [[#art26_cpt_inc4|Art. 26, inciso IV]].)*
 
 ### ANEXO III {#anexo3}
-Tags: #anexo-pendente #especies-exoticas
+Tags: #anexo-pendente
 
 Medidas mitigatórias dos impactos do cultivo de espécies exóticas, alóctones e híbridas. *(Tipo 3. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo252526_60318.pdf a anexo252526_60323.pdf`. Exigido em: [[#art36_cpt|Art. 36]].)*
 
 ### ANEXO IV {#anexo4}
-Tags: #anexo-pendente #diretriz-estudo
+Tags: #anexo-pendente
 
 Diretrizes do Projeto Técnico Ambiental de Aquicultura. *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo252526_60318.pdf a anexo252526_60323.pdf`. Exigido em: [[#art14_cpt_inc10|Art. 14, inciso X]], [[#art18_cpt_inc11|Art. 18, inciso XI]], [[#art19_cpt_inc4|Art. 19, inciso IV]], [[#art25_cpt_inc10|Art. 25, inciso X]], [[#art26_cpt_inc10|Art. 26, inciso X]].)*
 
 ### ANEXO V {#anexo5}
-Tags: #anexo-pendente #especies-exoticas
+Tags: #anexo-pendente
 
 Procedimentos para a produção de espécies alóctones e exóticas. *(Tipo 3. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo252526_60318.pdf a anexo252526_60323.pdf`. Exigido em: [[#art7_par1u|Art. 7º, parágrafo único]].)*
 

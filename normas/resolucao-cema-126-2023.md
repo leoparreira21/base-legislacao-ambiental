@@ -37,19 +37,16 @@ fonte: "PDF de 2 páginas da edição do Diário Oficial do Estado do Paraná n�
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #coliforme #padrao-qualidade #classificacao-corpo-agua #monitoramento #conama
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer limites para o parâmetro Escherichia coli, em águas naturais, no Estado do Paraná, em substituição ao parâmetro Coliformes termotolerantes, nos termos da [[resolucao-conama-357-2005|Resolução CONAMA nº 357/2005]], aplicáveis ao monitoramento da qualidade da água.
 
 ###### Art. 2º {#art2}
-Tags: #definicao #coliforme #metodo-analise
 
 **Art. 2º, caput** {#art2_cpt} Para os efeitos da presente Resolução, adotam-se as seguintes definições:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} Número Mais Provável - NMP: Estimativa da quantidade de microrganismos alvo, metabolicamente viáveis, presentes em uma amostra;
 - **Art. 2º, caput, inciso II** {#art2_cpt_inc2} Unidade Formadora de Colônia - UFC: Número de células de microrganismos alvo, metabolicamente viáveis, formadoras de colônias.
 
 ###### Art. 3º {#art3}
-Tags: #definicao #classificacao-corpo-agua #agua-doce #agua-salobra #agua-salina
 
 **Art. 3º, caput** {#art3_cpt} Para efeito da presente Resolução, são utilizadas as definições de Classe, conforme [[resolucao-conama-357-2005|Resolução CONAMA nº 357/2005]]:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} Águas Doces: águas com salinidade igual ou inferior a 0,5 ‰;
@@ -57,7 +54,6 @@ Tags: #definicao #classificacao-corpo-agua #agua-doce #agua-salobra #agua-salina
 - **Art. 3º, caput, inciso III** {#art3_cpt_inc3} Águas Salinas: águas com salinidade igual ou superior a 30 ‰;
 
 ###### Art. 4º {#art4}
-Tags: #coliforme #padrao-qualidade #agua-doce #classificacao-corpo-agua #balneabilidade
 
 **Art. 4º, caput** {#art4_cpt} Ficam estabelecidos os seguintes limites máximos, para o parâmetro Escherichia coli, em Águas Doces:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} Classe Especial.
@@ -91,7 +87,6 @@ Tags: #coliforme #padrao-qualidade #agua-doce #classificacao-corpo-agua #balneab
 - **Art. 4º, Tabela 5, linha 1** {#art4_tab5_lin1} Destinação: a) à navegação; b) à harmonia paisagística. | Limite: Não definido.
 
 ###### Art. 5º {#art5}
-Tags: #coliforme #padrao-qualidade #agua-salina #classificacao-corpo-agua #balneabilidade #amostragem #frequencia-monitoramento
 
 **Art. 5º, caput** {#art5_cpt} Ficam estabelecidos os seguintes limites máximos, para o parâmetro Escherichia coli, em Águas Salinas:
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} Classe Especial:
@@ -119,7 +114,6 @@ Tags: #coliforme #padrao-qualidade #agua-salina #classificacao-corpo-agua #balne
 **Art. 5º, parágrafo único** {#art5_par1u} O limite para o cultivo de moluscos bivalves destinados à alimentação humana, a média geométrica da densidade de Escherichia coli, de um mínimo de 15 (quinze) amostras coletadas no mesmo local, não deverá exceder 34 NMP/100mL, e o percentil 90% não deverá ultrapassar 70 NMP/100mL. Esses índices deverão ser mantidos em monitoramento anual com um mínimo de 5 (cinco) amostras.
 
 ###### Art. 6º {#art6}
-Tags: #coliforme #padrao-qualidade #agua-salobra #classificacao-corpo-agua #balneabilidade #amostragem #frequencia-monitoramento
 
 **Art. 6º, caput** {#art6_cpt} Ficam estabelecidos os seguintes limites máximos, para o parâmetro Escherichia coli, em Águas Salobras:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} Classe Especial:
@@ -148,12 +142,10 @@ Tags: #coliforme #padrao-qualidade #agua-salobra #classificacao-corpo-agua #baln
 **Art. 6º, parágrafo único** {#art6_par1u} O limite para o cultivo de moluscos bivalves destinados à alimentação humana, a média geométrica da densidade de Escherichia coli, de um mínimo de 15 (quinze) amostras coletadas no mesmo local, não deverá exceder 34 NMP/100mL, e o percentil 90% não deverá ultrapassar 70 NMP/100mL. Esses índices deverão ser mantidos em monitoramento anual com um mínimo de 5 (cinco) amostras.
 
 ###### Art. 7º {#art7}
-Tags: #amostragem #frequencia-monitoramento #iat
 
 **Art. 7º, caput** {#art7_cpt} A periodicidade da coleta das amostras será definida pelo órgão ambiental estadual.
 
 ###### Art. 8º {#art8}
-Tags: #laboratorio #metodo-analise #laudo-analitico #cadastro
 
 **Art. 8º, caput** {#art8_cpt} O laboratório responsável pela execução e emissão de laudos referentes ao parâmetro Escherichia coli deverá ter o Certificado de Cadastramento de Laboratório de Ensaios Ambientais (CCL), concedido pelo órgão ambiental estadual.
 
@@ -162,7 +154,6 @@ Tags: #laboratorio #metodo-analise #laudo-analitico #cadastro
 **Art. 8º, § 2º** {#art8_par2} Os resultados deverão ser expressos na unidade NMP/100mL ou, em substituição a esta, na unidade UFC/100mL.
 
 ###### Art. 9º {#art9}
-Tags: #vigencia
 
 **Art. 9º, caput** {#art9_cpt} Esta Resolução entra em vigor na data de sua publicação.
 

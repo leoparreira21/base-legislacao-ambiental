@@ -23,17 +23,17 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo IV, linha 2** {#anexo4_lin2} Nome do Empreendimento:
 - **Anexo IV, linha 3** {#anexo4_lin3} Localização:
 - **Anexo IV, linha 4** {#anexo4_lin4} CNPJ/CPF:
-- **Anexo IV, linha 5** {#anexo4_lin5} #responsavel-tecnico Responsável Técnico:
+- **Anexo IV, linha 5** {#anexo4_lin5} Responsável Técnico:
 - **Anexo IV, linha 6** {#anexo4_lin6} CREA:
 - **Anexo IV, linha 7** {#anexo4_lin7} 2 OBJETO DO LAUDO
-- **Anexo IV, linha 8** {#anexo4_lin8} #laudo-conclusao-obra #medida-mitigadora Este laudo visa atestar a conclusão da obra em conformidade ambiental, conforme estabelecido no projeto aprovado, no processo de licenciamento ambiental, bem como em conformidade com as legislações vigentes pertinentes, incluindo medidas de mitigação e controle de impactos ambientais.
+- **Anexo IV, linha 8** {#anexo4_lin8} Este laudo visa atestar a conclusão da obra em conformidade ambiental, conforme estabelecido no projeto aprovado, no processo de licenciamento ambiental, bem como em conformidade com as legislações vigentes pertinentes, incluindo medidas de mitigação e controle de impactos ambientais.
 - **Anexo IV, linha 9** {#anexo4_lin9} 3 DESCRIÇÃO DA OBRA
-- **Anexo IV, linha 10** {#anexo4_lin10} #ampliacao Tipo de Obra: Construção/Reforma ou ampliações
+- **Anexo IV, linha 10** {#anexo4_lin10} Tipo de Obra: Construção/Reforma ou ampliações
 - **Anexo IV, linha 11** {#anexo4_lin11} Área Total Construída: Área em m² total e/ou ampliações
 - **Anexo IV, linha 12** {#anexo4_lin12} Data de Início: Data de início da obra
 - **Anexo IV, linha 13** {#anexo4_lin13} Data de Conclusão: Data de conclusão da obra
 - **Anexo IV, linha 14** {#anexo4_lin14} 4 ANÁLISE TÉCNICA
-- **Anexo IV, linha 15** {#anexo4_lin15} #tratamento-efluente #residuo-solido #agua-pluvial Análise sobre a estrutura, sistemas de tratamentos de efluentes, resíduos sólidos, equipamentos instalados, drenagem pluvial, etc.
+- **Anexo IV, linha 15** {#anexo4_lin15} Análise sobre a estrutura, sistemas de tratamentos de efluentes, resíduos sólidos, equipamentos instalados, drenagem pluvial, etc.
 - **Anexo IV, linha 16** {#anexo4_lin16} 5 CONSIDERAÇÕES FINAIS
 - **Anexo IV, linha 17** {#anexo4_lin17} 6 REGISTROS FOTOGRÁFICOS
 

@@ -11,13 +11,16 @@
       "renovacao sanitaria"
     ],
     "esperados": [
-      "portaria-iap-26-2006#anexo-in_lin73",
       "portaria-iap-26-2006#anexo-in_lin76",
-      "portaria-iap-26-2006#anexo-in_lin78",
       "rdc-anvisa-222-2018#art6_cpt_inc11",
       "decreto-estadual-9541-2025#art121_cpt"
     ],
-    "criterio_manual": "Manter RLO; automonitoramento se exigido antes; LO e licença sanitária diferentes; Portaria com ressalvas de compatibilidade."
+    "criterio_manual": "Manter RLO; automonitoramento se exigido antes; LO e licença sanitária diferentes; Portaria com ressalvas de compatibilidade.",
+    "sem_recuperacao_lexical": [
+      "portaria-iap-26-2006#anexo-in_lin73",
+      "portaria-iap-26-2006#anexo-in_lin78"
+    ],
+    "nota_sem_recuperacao": "Até 2026-11-14 eram achados pelas tags #renovacao/#lo do dispositivo; com as tags só no frontmatter (2026-11-15) as consultas não os alcançam pelo texto. Continuam aplicáveis."
   },
   {
     "id": "saude-liquidos",

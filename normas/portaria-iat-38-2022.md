@@ -41,7 +41,6 @@ RESOLVE
 
 ###### Art. 1º {#art1}
 
-Tags: #delegacao-competencia #licenciamento-municipal #licenciamento-ambiental #fiscalizacao
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer critérios para a delegação do licenciamento ambiental de tipologias de atividades, empreendimentos e obras, em que o IAT detém a gestão, de acordo com o artigo 5º da [[lei-complementar-federal-140-2011|Lei Complementar nº 140/2011]], para fins de licenciamento, monitoramento e fiscalização ambiental pelos órgãos municipais de meio ambiente.
 
@@ -49,19 +48,16 @@ Tags: #delegacao-competencia #licenciamento-municipal #licenciamento-ambiental #
 
 ###### Art. 2º {#art2}
 
-Tags: #delegacao-competencia #licenciamento-municipal
 
 **Art. 2º, caput** {#art2_cpt} Para os efeitos desta Portaria, adotam-se as definições constantes do artigo 2º da [[lei-complementar-federal-140-2011|Lei Complementar nº 140/2011]] e do artigo 2º da [[resolucao-cema-110-2021|Resolução CEMA nº 110/2021]].
 
 ###### Art. 3º {#art3}
 
-Tags: #delegacao-competencia #licenciamento-municipal #licenciamento-ambiental #documentacao
 
 **Art. 3º, caput** {#art3_cpt} Para o Município pleitear o licenciamento ambiental de tipologias de atividades, empreendimentos e obras em que o IAT realiza a gestão, terá como regra básica apresentar Certificado Ambiental expedido pelo CEMA, caracterizando que o Município está apto a realizar o licenciamento ambiental de todas as atividades constantes do Anexo I da [[resolucao-cema-110-2021|Resolução CEMA nº 110/2021]].
 
 ###### Art. 4º {#art4}
 
-Tags: #delegacao-competencia #licenciamento-municipal #licenciamento-ambiental
 
 **Art. 4º, caput** {#art4_cpt} Para a delegação, além do Certificado Ambiental, disposto no [[#art3|Artigo 3.º]] desta Portaria, o solicitante deverá atender os seguintes requisitos:
 
@@ -73,7 +69,6 @@ Tags: #delegacao-competencia #licenciamento-municipal #licenciamento-ambiental
 
 ###### Art. 5º {#art5}
 
-Tags: #delegacao-competencia #licenciamento-municipal #licenciamento-ambiental #documentacao
 
 **Art. 5º, caput** {#art5_cpt} Requerer, via eProtocolo, as tipologias que se pretende licenciar e que sejam de atribuição do IAT, diretamente ao Diretor Presidente da autarquia, acompanhada da documentação estabelecida nesta Portaria.
 
@@ -87,13 +82,11 @@ Tags: #delegacao-competencia #licenciamento-municipal #licenciamento-ambiental #
 
 ###### Art. 6º {#art6}
 
-Tags: #delegacao-competencia #licenciamento-municipal #licenciamento-ambiental
 
 **Art. 6º, caput** {#art6_cpt} Deferido o pedido, o IAT celebrará Convênio com ente municipal, visando a delegação de competência especifica para as tipologias que o Município requereu e foi considerado apto a licenciar.
 
 ###### Art. 7º {#art7}
 
-Tags: #delegacao-competencia #licenciamento-municipal
 
 **Art. 7º, caput** {#art7_cpt} Esta Portaria entrará em vigor na data da sua publicação.
 

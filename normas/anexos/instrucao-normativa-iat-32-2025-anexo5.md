@@ -19,80 +19,80 @@ fonte: PDF da IN IAT 32/2025, páginas 65 a 69
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo V, linha 1** {#anexo5_lin1} #art-anotacao #responsavel-tecnico O Plano de Controle Ambiental deverá ser elaborado por técnico habilitado e apresentados para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo V, linha 1** {#anexo5_lin1} O Plano de Controle Ambiental deverá ser elaborado por técnico habilitado e apresentados para análise do INSTITUTO ÁGUA E TERRA, acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 - **Anexo V, linha 2** {#anexo5_lin2} 1. DADOS CADASTRAIS
 - **Anexo V, linha 3** {#anexo5_lin3} − Razão social;
-- **Anexo V, linha 4** {#anexo5_lin4} #cnpj − CNPJ;
+- **Anexo V, linha 4** {#anexo5_lin4} − CNPJ;
 - **Anexo V, linha 5** {#anexo5_lin5} − Endereço;
-- **Anexo V, linha 6** {#anexo5_lin6} #responsavel-legal − Nome do representante legal;
-- **Anexo V, linha 7** {#anexo5_lin7} #responsavel-legal − Telefone do representante legal;
-- **Anexo V, linha 8** {#anexo5_lin8} #responsavel-legal − E-mail do representante legal;
+- **Anexo V, linha 6** {#anexo5_lin6} − Nome do representante legal;
+- **Anexo V, linha 7** {#anexo5_lin7} − Telefone do representante legal;
+- **Anexo V, linha 8** {#anexo5_lin8} − E-mail do representante legal;
 - **Anexo V, linha 9** {#anexo5_lin9} − Pessoa para contato;
 - **Anexo V, linha 10** {#anexo5_lin10} − Telefone da pessoa para contato;
 - **Anexo V, linha 11** {#anexo5_lin11} − E-mail da pessoa para contato.
-- **Anexo V, linha 12** {#anexo5_lin12} #responsavel-tecnico 2. DADOS DO RESPOSNÁVEL TÉCNICO PELO PCA
-- **Anexo V, linha 13** {#anexo5_lin13} #responsavel-tecnico − Nome
-- **Anexo V, linha 14** {#anexo5_lin14} #responsavel-tecnico − Formação profissional
-- **Anexo V, linha 15** {#anexo5_lin15} #responsavel-tecnico #conselho-classe − Número do registro no respectivo Conselho de Classe
-- **Anexo V, linha 16** {#anexo5_lin16} #ctf #ibama − Número do Cadastro Técnico Federal (IBAMA)
-- **Anexo V, linha 17** {#anexo5_lin17} #art-anotacao #responsavel-tecnico − Número da Anotação de Responsabilidade Técnica.
+- **Anexo V, linha 12** {#anexo5_lin12} 2. DADOS DO RESPOSNÁVEL TÉCNICO PELO PCA
+- **Anexo V, linha 13** {#anexo5_lin13} − Nome
+- **Anexo V, linha 14** {#anexo5_lin14} − Formação profissional
+- **Anexo V, linha 15** {#anexo5_lin15} − Número do registro no respectivo Conselho de Classe
+- **Anexo V, linha 16** {#anexo5_lin16} − Número do Cadastro Técnico Federal (IBAMA)
+- **Anexo V, linha 17** {#anexo5_lin17} − Número da Anotação de Responsabilidade Técnica.
 - **Anexo V, linha 18** {#anexo5_lin18} 3. DESCRIÇÃO DA ATIVIDADE/EMPREENDIMENTO
 - **Anexo V, linha 19** {#anexo5_lin19} 3.1. Concepção e justificativa de projeto
 - **Anexo V, linha 20** {#anexo5_lin20} Devem ser apresentadas a concepção e a metodologia de operação, justificando face às suas finalidades.
 - **Anexo V, linha 21** {#anexo5_lin21} 3.2. Informações sobre a área do projeto:
 - **Anexo V, linha 22** {#anexo5_lin22} Devem ser apresentadas as seguintes informações sobre a área do projeto: área total, área utilizada e área livre.
 - **Anexo V, linha 23** {#anexo5_lin23} 3.3. Caracterização do empreendimento
-- **Anexo V, linha 24** {#anexo5_lin24} #armazenamento-residuo − Fluxograma e descrição detalhada do processo: Apresentar uma descrição da atividade, bem como um fluxograma detalhado da operação, contendo todas as atividades realizadas no empreendimento.
-- **Anexo V, linha 25** {#anexo5_lin25} #armazenamento-residuo − Descrever estruturas destinadas ao armazenamento temporário, com a capacidade estática de cada unidade;
+- **Anexo V, linha 24** {#anexo5_lin24} − Fluxograma e descrição detalhada do processo: Apresentar uma descrição da atividade, bem como um fluxograma detalhado da operação, contendo todas as atividades realizadas no empreendimento.
+- **Anexo V, linha 25** {#anexo5_lin25} − Descrever estruturas destinadas ao armazenamento temporário, com a capacidade estática de cada unidade;
 - **Anexo V, linha 26** {#anexo5_lin26} − Descrever todas as estruturas de apoio;
-- **Anexo V, linha 27** {#anexo5_lin27} #classificacao-residuo #residuo-perigoso #residuo-nao-perigoso #ibama #abnt #acondicionamento − Apresentar descrição dos resíduos a serem recebidos no local: tipologia, classificação conforme [[instrucao-normativa-ibama-13-2012|IN 13/2012 do Ibama]], classificação conforme ABNT NBR 10004, estado físico, forma de acondicionamento e forma de armazenamento temporário no local;
-- **Anexo V, linha 28** {#anexo5_lin28} #classificacao-residuo #laboratorio − Descrever os parâmetros que serão analisados em cada resíduo;
-- **Anexo V, linha 29** {#anexo5_lin29} #armazenamento-residuo 3.4. Projeto do armazenamento temporário de resíduos
-- **Anexo V, linha 30** {#anexo5_lin30} #armazenamento-residuo − Formas de armazenamento dos resíduos;
-- **Anexo V, linha 31** {#anexo5_lin31} #armazenamento-residuo − Detalhamento das áreas de armazenamento dos resíduos;
-- **Anexo V, linha 32** {#anexo5_lin32} #armazenamento-residuo − Capacidade estática de cada área de armazenamento;
-- **Anexo V, linha 33** {#anexo5_lin33} #impermeabilizacao − Sistema de impermeabilização, com material compatível com os resíduos; a serem armazenados;
-- **Anexo V, linha 34** {#anexo5_lin34} #contencao − Sistema de contenção;
-- **Anexo V, linha 35** {#anexo5_lin35} #sistema-isolamento − Sistema de isolamento;
-- **Anexo V, linha 36** {#anexo5_lin36} #contencao #residuo-liquido #agua-pluvial − Sistema de drenagem e armazenamento de líquidos, caso necessário;
-- **Anexo V, linha 37** {#anexo5_lin37} #obra-civil 3.5. Informações referente à implantação: descrição das intervenções previstas para implantação do empreendimento, infraestrutura necessária (canteiro do obras).
-- **Anexo V, linha 38** {#anexo5_lin38} #diagnostico-ambiental 4. DIAGNÓSTICO AMBIENTAL
+- **Anexo V, linha 27** {#anexo5_lin27} − Apresentar descrição dos resíduos a serem recebidos no local: tipologia, classificação conforme [[instrucao-normativa-ibama-13-2012|IN 13/2012 do Ibama]], classificação conforme ABNT NBR 10004, estado físico, forma de acondicionamento e forma de armazenamento temporário no local;
+- **Anexo V, linha 28** {#anexo5_lin28} − Descrever os parâmetros que serão analisados em cada resíduo;
+- **Anexo V, linha 29** {#anexo5_lin29} 3.4. Projeto do armazenamento temporário de resíduos
+- **Anexo V, linha 30** {#anexo5_lin30} − Formas de armazenamento dos resíduos;
+- **Anexo V, linha 31** {#anexo5_lin31} − Detalhamento das áreas de armazenamento dos resíduos;
+- **Anexo V, linha 32** {#anexo5_lin32} − Capacidade estática de cada área de armazenamento;
+- **Anexo V, linha 33** {#anexo5_lin33} − Sistema de impermeabilização, com material compatível com os resíduos; a serem armazenados;
+- **Anexo V, linha 34** {#anexo5_lin34} − Sistema de contenção;
+- **Anexo V, linha 35** {#anexo5_lin35} − Sistema de isolamento;
+- **Anexo V, linha 36** {#anexo5_lin36} − Sistema de drenagem e armazenamento de líquidos, caso necessário;
+- **Anexo V, linha 37** {#anexo5_lin37} 3.5. Informações referente à implantação: descrição das intervenções previstas para implantação do empreendimento, infraestrutura necessária (canteiro do obras).
+- **Anexo V, linha 38** {#anexo5_lin38} 4. DIAGNÓSTICO AMBIENTAL
 - **Anexo V, linha 39** {#anexo5_lin39} 4.1. Caracterização da área:
-- **Anexo V, linha 40** {#anexo5_lin40} #uso-solo − Uso e ocupação do solo;
-- **Anexo V, linha 41** {#anexo5_lin41} #uso-solo #passivo-ambiental − Uso atual e pretérito da área;
-- **Anexo V, linha 42** {#anexo5_lin42} #corpo-hidrico #app − Corpos hídricos existentes na área, existência de nascentes e olhos d’água;
-- **Anexo V, linha 43** {#anexo5_lin43} #conservacao-solo − Suscetibilidade do terreno à erosão;
-- **Anexo V, linha 44** {#anexo5_lin44} #area-umida − Feições da área, presença de terrenos alagadiços ou sujeitos a inundação;
-- **Anexo V, linha 45** {#anexo5_lin45} #vegetacao-nativa #especie-exotica − Existência de cobertura florestal informando áreas de vegetação nativa e exótica;
-- **Anexo V, linha 46** {#anexo5_lin46} #app − Existência de áreas de preservação permanente;
-- **Anexo V, linha 47** {#anexo5_lin47} #reserva-legal − Ocorrência de Reserva Legal;
-- **Anexo V, linha 48** {#anexo5_lin48} #geologia − Caracterização da geomorfologia/relevo;
-- **Anexo V, linha 49** {#anexo5_lin49} #unidade-conservacao − Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais na área do empreendimento e no seu entorno;
-- **Anexo V, linha 50** {#anexo5_lin50} #terra-indigena #quilombola #bem-cultural #area-influencia − Levantamento de reservas indígenas, área quilombola, monumentos naturais e dos bens tombados existentes na área de influência direta do empreendimento.
-- **Anexo V, linha 51** {#anexo5_lin51} #impacto-ambiental #medida-mitigadora #medida-compensatoria 4.2. Identificação dos impactos ambientais: identificar os principais impactos que poderão ocorrer em função da implantação e operação do empreendimento. Para cada impacto indicado, descrever as medidas mitigatórias, de controle ou de compensação correspondente.
-- **Anexo V, linha 52** {#anexo5_lin52} #controle-ambiental 5. PROJETO DE CONTROLE DA POLUIÇÃO AMBIENTAL
-- **Anexo V, linha 53** {#anexo5_lin53} #captacao 5.1. Abastecimento de água
-- **Anexo V, linha 54** {#anexo5_lin54} #captacao Apresentar informações referentes ao abastecimento de água para o empreendimento: origem, volume utilizado, formas usos e tratamento.
-- **Anexo V, linha 55** {#anexo5_lin55} #efluente 5.2. Efluentes Líquidos
-- **Anexo V, linha 56** {#anexo5_lin56} #efluente #tratamento-efluente Identificar os efluentes líquidos gerados na implantação e operação do empreendimento. Descrever os sistemas de controle ambiental associados aos efluentes líquidos, descrevendo as condições de coleta, armazenamento, tratamento e destinação final.
-- **Anexo V, linha 57** {#anexo5_lin57} #esgoto-sanitario 5.3. Efluente sanitário
-- **Anexo V, linha 58** {#anexo5_lin58} #esgoto-sanitario #tratamento-esgoto #dimensionamento #abnt Descrição do sistema de coleta, tratamento e destinação final dos efluentes sanitários gerados na implantação e operação do sistema. Apresentar dimensionamento em conformidade com as normas técnicas específicas da ABNT NBR 17076.
-- **Anexo V, linha 59** {#anexo5_lin59} #residuo-solido 5.4. Resíduos sólidos
-- **Anexo V, linha 60** {#anexo5_lin60} #residuo-solido #gerenciamento-residuo #armazenamento-residuo #destinacao-final Descrever os sistemas de controle ambiental para o gerenciamento dos resíduos sólidos gerados na operação do empreendimento, detalhando tipos de resíduos, armazenamento e destinação final dos resíduos sólidos.
-- **Anexo V, linha 61** {#anexo5_lin61} #residuo-construcao-civil 5.5. Resíduos da construção civil
-- **Anexo V, linha 62** {#anexo5_lin62} #residuo-construcao-civil Referente aos resíduos gerados durante a etapa de instalação:
-- **Anexo V, linha 63** {#anexo5_lin63} #residuo-construcao-civil − Caracterização e quantificação dos resíduos gerados nas etapas de construção civil e/ou instalação;
-- **Anexo V, linha 64** {#anexo5_lin64} #residuo-construcao-civil #segregacao − Descrição de previsão de segregação de resíduos na origem pelo gerador nas etapas de construção e/ou instalação;
-- **Anexo V, linha 65** {#anexo5_lin65} #residuo-construcao-civil #armazenamento-residuo #acondicionamento − Descrição das formas de armazenamento e acondicionamento dos resíduos gerados nas etapas de construção e/ou instalação;
-- **Anexo V, linha 66** {#anexo5_lin66} #residuo-construcao-civil #transporte #destinacao-final − Descrição da previsão de responsáveis e formas de transporte e destinação final dos resíduos gerados nas etapas de construção e/ou instalação;
-- **Anexo V, linha 67** {#anexo5_lin67} #residuo-construcao-civil #destinacao-final − A destinação final dos resíduos gerados na etapa de implantação deverá ocorrer conforme [[resolucao-conama-307-2002#art10|Art. 10 da Resolução CONAMA nº 307, de 05 de julho de 2002]].
-- **Anexo V, linha 68** {#anexo5_lin68} #emissao-atmosferica 5.6. Emissões Atmosféricas
-- **Anexo V, linha 69** {#anexo5_lin69} #emissao-atmosferica #poluicao-sonora #odor Identificar as fontes de emissões atmosféricas. Descrever os sistemas de controle ambiental adotados, em especial quanto à ruídos e odores.
-- **Anexo V, linha 70** {#anexo5_lin70} #movimentacao-solo #terraplanagem 5.7. Movimentação de solo
-- **Anexo V, linha 71** {#anexo5_lin71} #movimentacao-solo #terraplanagem Caso necessário, apresentar projeto de terraplenagem
+- **Anexo V, linha 40** {#anexo5_lin40} − Uso e ocupação do solo;
+- **Anexo V, linha 41** {#anexo5_lin41} − Uso atual e pretérito da área;
+- **Anexo V, linha 42** {#anexo5_lin42} − Corpos hídricos existentes na área, existência de nascentes e olhos d’água;
+- **Anexo V, linha 43** {#anexo5_lin43} − Suscetibilidade do terreno à erosão;
+- **Anexo V, linha 44** {#anexo5_lin44} − Feições da área, presença de terrenos alagadiços ou sujeitos a inundação;
+- **Anexo V, linha 45** {#anexo5_lin45} − Existência de cobertura florestal informando áreas de vegetação nativa e exótica;
+- **Anexo V, linha 46** {#anexo5_lin46} − Existência de áreas de preservação permanente;
+- **Anexo V, linha 47** {#anexo5_lin47} − Ocorrência de Reserva Legal;
+- **Anexo V, linha 48** {#anexo5_lin48} − Caracterização da geomorfologia/relevo;
+- **Anexo V, linha 49** {#anexo5_lin49} − Indicação, se aplicável, da existência de Unidades de Conservação municipais, estaduais e federais na área do empreendimento e no seu entorno;
+- **Anexo V, linha 50** {#anexo5_lin50} − Levantamento de reservas indígenas, área quilombola, monumentos naturais e dos bens tombados existentes na área de influência direta do empreendimento.
+- **Anexo V, linha 51** {#anexo5_lin51} 4.2. Identificação dos impactos ambientais: identificar os principais impactos que poderão ocorrer em função da implantação e operação do empreendimento. Para cada impacto indicado, descrever as medidas mitigatórias, de controle ou de compensação correspondente.
+- **Anexo V, linha 52** {#anexo5_lin52} 5. PROJETO DE CONTROLE DA POLUIÇÃO AMBIENTAL
+- **Anexo V, linha 53** {#anexo5_lin53} 5.1. Abastecimento de água
+- **Anexo V, linha 54** {#anexo5_lin54} Apresentar informações referentes ao abastecimento de água para o empreendimento: origem, volume utilizado, formas usos e tratamento.
+- **Anexo V, linha 55** {#anexo5_lin55} 5.2. Efluentes Líquidos
+- **Anexo V, linha 56** {#anexo5_lin56} Identificar os efluentes líquidos gerados na implantação e operação do empreendimento. Descrever os sistemas de controle ambiental associados aos efluentes líquidos, descrevendo as condições de coleta, armazenamento, tratamento e destinação final.
+- **Anexo V, linha 57** {#anexo5_lin57} 5.3. Efluente sanitário
+- **Anexo V, linha 58** {#anexo5_lin58} Descrição do sistema de coleta, tratamento e destinação final dos efluentes sanitários gerados na implantação e operação do sistema. Apresentar dimensionamento em conformidade com as normas técnicas específicas da ABNT NBR 17076.
+- **Anexo V, linha 59** {#anexo5_lin59} 5.4. Resíduos sólidos
+- **Anexo V, linha 60** {#anexo5_lin60} Descrever os sistemas de controle ambiental para o gerenciamento dos resíduos sólidos gerados na operação do empreendimento, detalhando tipos de resíduos, armazenamento e destinação final dos resíduos sólidos.
+- **Anexo V, linha 61** {#anexo5_lin61} 5.5. Resíduos da construção civil
+- **Anexo V, linha 62** {#anexo5_lin62} Referente aos resíduos gerados durante a etapa de instalação:
+- **Anexo V, linha 63** {#anexo5_lin63} − Caracterização e quantificação dos resíduos gerados nas etapas de construção civil e/ou instalação;
+- **Anexo V, linha 64** {#anexo5_lin64} − Descrição de previsão de segregação de resíduos na origem pelo gerador nas etapas de construção e/ou instalação;
+- **Anexo V, linha 65** {#anexo5_lin65} − Descrição das formas de armazenamento e acondicionamento dos resíduos gerados nas etapas de construção e/ou instalação;
+- **Anexo V, linha 66** {#anexo5_lin66} − Descrição da previsão de responsáveis e formas de transporte e destinação final dos resíduos gerados nas etapas de construção e/ou instalação;
+- **Anexo V, linha 67** {#anexo5_lin67} − A destinação final dos resíduos gerados na etapa de implantação deverá ocorrer conforme [[resolucao-conama-307-2002#art10|Art. 10 da Resolução CONAMA nº 307, de 05 de julho de 2002]].
+- **Anexo V, linha 68** {#anexo5_lin68} 5.6. Emissões Atmosféricas
+- **Anexo V, linha 69** {#anexo5_lin69} Identificar as fontes de emissões atmosféricas. Descrever os sistemas de controle ambiental adotados, em especial quanto à ruídos e odores.
+- **Anexo V, linha 70** {#anexo5_lin70} 5.7. Movimentação de solo
+- **Anexo V, linha 71** {#anexo5_lin71} Caso necessário, apresentar projeto de terraplenagem
 - **Anexo V, linha 72** {#anexo5_lin72} 6. REPRESENTAÇÃO GRÁFICA
 - **Anexo V, linha 73** {#anexo5_lin73} 6.1. Planta da concepção geral
-- **Anexo V, linha 74** {#anexo5_lin74} #armazenamento-residuo 6.2. Planta com detalhes da área de armazenamento temporário de resíduos
+- **Anexo V, linha 74** {#anexo5_lin74} 6.2. Planta com detalhes da área de armazenamento temporário de resíduos
 - **Anexo V, linha 75** {#anexo5_lin75} 7. CRONOGRAMA
 - **Anexo V, linha 76** {#anexo5_lin76} Apresentar cronograma de implantação e operação.
 

@@ -60,13 +60,11 @@ RESOLVE:
 
 ###### Art. 1º {#art1}
 
-Tags: #car #reserva-legal #averbacao #documentacao
 
 **Art. 1º, caput** {#art1_cpt} Acrescentar ao art.4.º da [[resolucao-sedest-18-2020|Resolução SEDEST n.º 018/2020]], documentação complementar a ser apresentada para a baixa da averbação dos Termos de Compromissos de Reserva Legal de imóveis abaixo de 04 módulos fiscais, junto ao cartório de registro de móveis.
 
 ###### Art. 2º {#art2}
 
-Tags: #car #reserva-legal #averbacao #vegetacao-nativa #documentacao
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução, considera-se:
 
@@ -86,7 +84,6 @@ Tags: #car #reserva-legal #averbacao #vegetacao-nativa #documentacao
 
 ###### Art. 3º {#art3}
 
-Tags: #car #reserva-legal #averbacao #documentacao
 
 **Art. 3º, caput** {#art3_cpt} Realizado o registro no CAR e identificadas as condições previstas no inciso VI do [[#art2|art.2.º]] desta Resolução, o CAR será considerado homologado para efeitos desta Resolução.
 
@@ -94,7 +91,6 @@ Tags: #car #reserva-legal #averbacao #documentacao
 
 ###### Art. 4º {#art4}
 
-Tags: #car #reserva-legal #averbacao #documentacao
 
 **Art. 4º, caput** {#art4_cpt} O Demonstrativo na situação de CAR Ativo e na condição de CAR Analisado, é o documento que complementa a documentação para a baixa da averbação dos Termos de Compromissos de Reserva Legal abaixo de 04 módulos fiscais, sendo este o documento que representa o CAR ativo, analisado e homologado, para os fins desta Resolução.
 
@@ -102,7 +98,6 @@ Tags: #car #reserva-legal #averbacao #documentacao
 
 ###### Art. 5º {#art5}
 
-Tags: #car #reserva-legal #averbacao
 
 **Art. 5º, caput** {#art5_cpt} Esta Resolução entra em vigor na data de sua publicação.
 

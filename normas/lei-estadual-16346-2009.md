@@ -33,12 +33,10 @@ fonte: "Impressão do texto do portal Legislação Estadual do Paraná (legislac
 **Preâmbulo** {#preambulo} A Assembléia Legislativa do Estado do Paraná aprovou e eu promulgo, nos termos do [[constituicao-estadual-1989#art71_par7|§ 7º do Artigo 71 da Constituição Estadual]], os seguintes dispositivos do Projeto de Lei nº 508/07:
 
 ###### Art. 1º {#art1}
-Tags: #responsavel-tecnico #empresa-potencialmente-poluidora #contratacao-terceiro
 
 **Art. 1º, caput** {#art1_cpt} Ficam obrigadas as empresas potencialmente poluidoras a contratarem pelo menos um responsável técnico ambiental na forma da presente lei.
 
 ###### Art. 2º {#art2}
-Tags: #responsavel-tecnico #conselho-classe #contratacao-terceiro #empresa-potencialmente-poluidora
 Alterações: caput, inciso VII: incluído pela [[lei-estadual-17787-2013|Lei nº 17.787/2013]]; caput, inciso VIII: incluído pela [[lei-estadual-19044-2017|Lei nº 19.044/2017]]; caput, inciso IX: incluído pela [[lei-estadual-22692-2025|Lei nº 22.692/2025]]
 
 **Art. 2º, caput** {#art2_cpt} O responsável técnico ambiental poderá ser:
@@ -49,36 +47,34 @@ Alterações: caput, inciso VII: incluído pela [[lei-estadual-17787-2013|Lei n�
 - **Art. 2º, caput, inciso IV** {#art2_cpt_inc4} Engenheiro ambiental;
 - **Art. 2º, caput, inciso V** {#art2_cpt_inc5} Engenheiro Químico;
 - **Art. 2º, caput, inciso VI** {#art2_cpt_inc6} Químico.
-- **Art. 2º, caput, inciso VII** {#art2_cpt_inc7} #incluido #responsavel-tecnico Farmacêutico, com pós-graduação em gestão e/ou engenharia ambiental.” *(Incluído pela [[lei-estadual-17787-2013|Lei nº 17.787/2013]])*
+- **Art. 2º, caput, inciso VII** {#art2_cpt_inc7} #incluido Farmacêutico, com pós-graduação em gestão e/ou engenharia ambiental.” *(Incluído pela [[lei-estadual-17787-2013|Lei nº 17.787/2013]])*
 - **Art. 2º, caput, inciso VIII** {#art2_cpt_inc8} #incluido Geógrafo. *(Incluído pela [[lei-estadual-19044-2017|Lei nº 19.044/2017]])*
 - **Art. 2º, caput, inciso IX** {#art2_cpt_inc9} #incluido Geólogo. *(Incluído pela [[lei-estadual-22692-2025|Lei nº 22.692/2025]])*
 
-**Art. 2º, § 1º** {#art2_par1} #conselho-classe Os responsáveis técnicos descritos nos incisos do presente artigo deverão estar com sua inscrição no órgão de classe competente em dia, gozando de todos os direitos e prerrogativas de suas profissões.
+**Art. 2º, § 1º** {#art2_par1} Os responsáveis técnicos descritos nos incisos do presente artigo deverão estar com sua inscrição no órgão de classe competente em dia, gozando de todos os direitos e prerrogativas de suas profissões.
 
 **Art. 2º, § 2º** {#art2_par2} Os profissionais que não possuam órgão de classe deverão comprovar sua qualificação por meio de diploma expedido por instituição regular de ensino, autorizada e reconhecida pelo Ministério de Educação (MEC), ou nos casos de ensino médio e pós-médio por diploma expedido por instituição autorizada e reconhecida pela Secretaria de Estado da Educação do Paraná (SEED).
 
-**Art. 2º, § 3º** {#art2_par3} #contratacao-terceiro As empresas potencialmente poluidoras poderão contratar diretamente o profissional descrito neste artigo, ou poderão contratar pessoa jurídica legalmente constituída com previsão em contrato social para a prestação de serviços técnicos ou de gestão, consultoria ou auditoria ambiental, bem como deverá ter em seus quadros como responsável técnico algum profissional dentre os relacionados nos [[#art2_cpt|incisos deste artigo]].
+**Art. 2º, § 3º** {#art2_par3} As empresas potencialmente poluidoras poderão contratar diretamente o profissional descrito neste artigo, ou poderão contratar pessoa jurídica legalmente constituída com previsão em contrato social para a prestação de serviços técnicos ou de gestão, consultoria ou auditoria ambiental, bem como deverá ter em seus quadros como responsável técnico algum profissional dentre os relacionados nos [[#art2_cpt|incisos deste artigo]].
 
 **Art. 2º, § 4º** {#art2_par4} As empresas deverão, quando necessário, contratar serviços de outros profissionais para o pleno cumprimento da presente lei devido ao conhecimento técnico-científico e específico de cada situação.
 
 ###### Art. 3º {#art3}
-Tags: #empresa-potencialmente-poluidora #ibama #cadastro #definicao #poluicao #degradacao-ambiental
 
 **Art. 3º, caput** {#art3_cpt} Para os fins previstos nessa lei consideram-se potencialmente poluidoras as empresas, cujas atividades desenvolvidas estejam previstas na Tabela de Atividade Potencialmente Poluidora do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis – IBAMA, constante do Cadastro de Atividade Potencialmente Poluidora.
 
 **Art. 3º, parágrafo único** {#art3_par1u} Para os fins previstos nesta lei, entende-se por:
 
-- **Art. 3º, parágrafo único, inciso I** {#art3_par1u_inc1} #poluicao poluição, a degradação ambiental resultante de atividades humanas que diretamente ou indiretamente:
+- **Art. 3º, parágrafo único, inciso I** {#art3_par1u_inc1} poluição, a degradação ambiental resultante de atividades humanas que diretamente ou indiretamente:
   - **Art. 3º, parágrafo único, inciso I, alínea "a"** {#art3_par1u_inc1_alia} prejudiquem a saúde, a segurança e o bem estar da população;
   - **Art. 3º, parágrafo único, inciso I, alínea "b"** {#art3_par1u_inc1_alib} criem condições adversas às atividades sociais e econômicas;
   - **Art. 3º, parágrafo único, inciso I, alínea "c"** {#art3_par1u_inc1_alic} afetem desfavoravelmente a biota;
   - **Art. 3º, parágrafo único, inciso I, alínea "d"** {#art3_par1u_inc1_alid} afetem as condições estéticas ou sanitárias do meio ambiente;
   - **Art. 3º, parágrafo único, inciso I, alínea "e"** {#art3_par1u_inc1_alie} lancem matérias ou energia em desacordo com os padrões ambientais estabelecidos.
-- **Art. 3º, parágrafo único, inciso II** {#art3_par1u_inc2} #poluicao poluidor, a pessoa física ou jurídica, de direito público ou privado, responsável, direta ou indiretamente, por atividade causadora de poluição;
-- **Art. 3º, parágrafo único, inciso III** {#art3_par1u_inc3} #degradacao-ambiental degradação ambiental, a alteração adversa das características do meio ambiente.
+- **Art. 3º, parágrafo único, inciso II** {#art3_par1u_inc2} poluidor, a pessoa física ou jurídica, de direito público ou privado, responsável, direta ou indiretamente, por atividade causadora de poluição;
+- **Art. 3º, parágrafo único, inciso III** {#art3_par1u_inc3} degradação ambiental, a alteração adversa das características do meio ambiente.
 
 ###### Art. 4º {#art4}
-Tags: #responsavel-tecnico #infracao-ambiental
 
 **Art. 4º, caput** {#art4_cpt} A responsabilidade técnica do estabelecimento será comprovada por declaração de firma individual, contrato social ou estatuto da pessoa jurídica ou pelo contrato de trabalho do profissional responsável.
 
@@ -87,47 +83,41 @@ Tags: #responsavel-tecnico #infracao-ambiental
 **Art. 4º, § 2º** {#art4_par2} A responsabilidade por todo e qualquer dano ambiental será da empresa poluidora.
 
 ###### Art. 5º {#art5}
-Tags: #responsavel-tecnico #plano-emergencia #sistema-gerenciamento-riscos
 
 **Art. 5º, caput** {#art5_cpt} A empresa, assistida por seu responsável técnico descrito no [[#art1|artigo 1º]] desta lei, deverá produzir programas que garantam, tanto quanto possível, as condições de segurança ambiental, trabalhando na prevenção da degradação ambiental, prevenção de acidentes e nas medidas emergenciais para minimizar e conter a degradação decorrentes dos acidentes, implementando, assim um Sistema de Gerenciamento de Riscos.
 
 **Art. 5º, parágrafo único** {#art5_par1u} Os programas de que trata no [[#art5_cpt|caput]] desse artigo deverão estar à disposição na sede das empresas, nos edifícios, nas plantas industriais e nos casos de transporte deverão estar em posse do motorista, para as autoridades públicas consultarem a qualquer momento.
 
 ###### Art. 6º {#art6}
-Tags: #licenciamento-ambiental #responsavel-tecnico
 
 **Art. 6º, caput** {#art6_cpt} O Instituto Ambiental do Paraná – IAP exigirá o cumprimento integral da presente lei quando da emissão do licenciamento de operação das empresas enquadradas no [[#art3|artigo 3º]] deste dispositivo legal.
 
 ###### Art. 7º {#art7}
-Tags: #sancao #advertencia #tac #multa #potencial-poluidor #fundo-estadual-meio-ambiente #recurso-administrativo #auto-infracao
 
 **Art. 7º, caput** {#art7_cpt} O não cumprimento da presente lei implicará:
 
-- **Art. 7º, caput, inciso I** {#art7_cpt_inc1} #advertencia #tac advertência por escrito, em forma de um termo de ajustamento de conduta, prevendo-se, entre outros, o prazo máximo para a devida regularização;
-- **Art. 7º, caput, inciso II** {#art7_cpt_inc2} #multa não cumprido o termo de conduta previsto no [[#art7_cpt_inc1|inciso anterior]], multa de R$ 5.000,00 (cinco mil reais) a R$ 500.000,00 (quinhentos mil reais), por mês, até a regularização.
+- **Art. 7º, caput, inciso I** {#art7_cpt_inc1} advertência por escrito, em forma de um termo de ajustamento de conduta, prevendo-se, entre outros, o prazo máximo para a devida regularização;
+- **Art. 7º, caput, inciso II** {#art7_cpt_inc2} não cumprido o termo de conduta previsto no [[#art7_cpt_inc1|inciso anterior]], multa de R$ 5.000,00 (cinco mil reais) a R$ 500.000,00 (quinhentos mil reais), por mês, até a regularização.
 
-**Art. 7º, § 1º** {#art7_par1} #multa #potencial-poluidor O Instituto Ambiental do Paraná – IAP quantificará a multa prevista no [[#art7_cpt_inc2|inciso II]] do presente artigo conforme critérios objetivos, previstos na regulamentação da presente lei, que deverão constar entre outros:
+**Art. 7º, § 1º** {#art7_par1} O Instituto Ambiental do Paraná – IAP quantificará a multa prevista no [[#art7_cpt_inc2|inciso II]] do presente artigo conforme critérios objetivos, previstos na regulamentação da presente lei, que deverão constar entre outros:
 
   - **Art. 7º, § 1º, alínea "a"** {#art7_par1_alia} o potencial poluidor da empresa;
   - **Art. 7º, § 1º, alínea "b"** {#art7_par1_alib} sua capacidade financeira; e
   - **Art. 7º, § 1º, alínea "c"** {#art7_par1_alic} sua localização territorial, se perto de mananciais ou áreas de preservação permanentes.
 
-**Art. 7º, § 2º** {#art7_par2} #fundo-estadual-meio-ambiente As multas recolhidas comporão o Fundo Estadual do Meio Ambiente;
+**Art. 7º, § 2º** {#art7_par2} As multas recolhidas comporão o Fundo Estadual do Meio Ambiente;
 
-**Art. 7º, § 3º** {#art7_par3} #recurso-administrativo #auto-infracao O prazo para recurso será de trinta (30) dias a contar da data da ciência do auto de infração.
+**Art. 7º, § 3º** {#art7_par3} O prazo para recurso será de trinta (30) dias a contar da data da ciência do auto de infração.
 
 ###### Art. 8º {#art8}
-Tags: #prazo
 
 **Art. 8º, caput** {#art8_cpt} As empresas potencialmente poluidoras terão um prazo de 120 (cento e vinte dias) para adequarem-se à presente lei.
 
 ###### Art. 9º {#art9}
-Tags: #regulamentacao
 
 **Art. 9º, caput** {#art9_cpt} O Poder Executivo regulamentará a presente lei.
 
 ###### Art. 10 {#art10}
-Tags: #vigencia
 
 **Art. 10, caput** {#art10_cpt} Esta lei entrará em vigor na data de sua publicação.
 

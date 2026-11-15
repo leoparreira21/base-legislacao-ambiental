@@ -46,14 +46,12 @@ CONSIDERANDO:
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #linha-transmissao #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer definições, critérios, diretrizes e procedimentos para o licenciamento ambiental de sistemas de transmissão, distribuição e subestação de energia elétrica, no âmbito do Estado do Paraná.
 
 ## CAPÍTULO I – DAS DEFINIÇÕES {#cap1}
 
 ###### Art. 2º {#art2}
-Tags: #linha-transmissao #eia-rima #licenciamento-ambiental #definicao #pca #monitoramento
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução consideram-se as seguintes definições:
 
@@ -99,7 +97,6 @@ Tags: #linha-transmissao #eia-rima #licenciamento-ambiental #definicao #pca #mon
 ### Seção I – Dos Atos administrativos {#cap2_sec1}
 
 ###### Art. 3º {#art3}
-Tags: #condicionante #licenciamento-ambiental #las #lp #li #dispensa
 
 **Art. 3º, caput** {#art3_cpt} O órgão licenciador, no âmbito do licenciamento de sistemas de transmissão, distribuição e subestação de energia elétrica e no exercício de suas atribuições, expedirá os seguintes atos administrativos:
 
@@ -112,12 +109,10 @@ Tags: #condicionante #licenciamento-ambiental #las #lp #li #dispensa
 - **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} Licença Ambiental de Regularização (LAR): Autoriza a operação da atividade ou empreendimento que tenha sido instalado sem licenciamento ambiental, comprovadamente, anterior a data de 25 de junho de 2008, estabelecendo medidas de controle ambiental e condicionantes determinados para a operação.
 
 ###### Art. 4º {#art4}
-Tags: #documentacao #responsavel-tecnico
 
 **Art. 4º, caput** {#art4_cpt} Os atos administrativos listados no [[#art3|Art. 3º]] serão expedidos por meio de sistema eletrônico, mediante cadastramento do requerente como usuário ambiental, prestação das informações referente ao empreendimento e a apresentação da documentação solicitada.
 
 ###### Art. 5º {#art5}
-Tags: #linha-transmissao #licenciamento-ambiental
 
 **Art. 5º, caput** {#art5_cpt} Os empreendedores de sistemas de transmissão, distribuição e subestação de energia elétrica, ao submeterem seus empreendimentos ao licenciamento ambiental perante o órgão estadual competente deverão prestar as informações técnicas sobre o mesmo, conforme estabelecem os termos da legislação aplicável e pelos procedimentos definidos nesta Resolução.
 
@@ -126,7 +121,6 @@ Tags: #linha-transmissao #licenciamento-ambiental
 #### Subseção I – Linhas de Transmissão e Linhas de Distribuição {#cap2_sec2_subsec1}
 
 ###### Art. 6º {#art6}
-Tags: #enquadramento #licenciamento-ambiental #responsavel-tecnico
 
 **Art. 6º, caput** {#art6_cpt} A definição da modalidade de licenciamento ambiental a que serão submetidas as Linhas de Transmissão e as Linhas de Distribuição obedecerá às seguintes condições:
 
@@ -139,7 +133,6 @@ Tags: #enquadramento #licenciamento-ambiental #responsavel-tecnico
 **Art. 6º, § 4º** {#art6_par4} Serão disponibilizados Termos de Referência para cada tipo de estudo ambiental a ser aplicado, obedecendo-se as particularidades de cada empreendimento, conforme estabelecido no Quadro 1. Quadro 1.  Modalidade de licenciamento e estudo ambiental para Linhas de Transmissão e Distribuição.
 
 ###### Art. 7º {#art7}
-Tags: #supressao-vegetacao #unidade-conservacao
 
 **Art. 7º, caput** {#art7_cpt} Considerando os aspectos locacionais, os empreendimentos serão classificados de acordo com seu grau de impacto ambiental.
 
@@ -157,12 +150,10 @@ Tags: #supressao-vegetacao #unidade-conservacao
 **Art. 7º, parágrafo único** {#art7_par1u} Em se tratando de Linhas de Distribuição menor ou igual a 69kV, serão apenas consideradas como áreas de importância do ponto de vista ambiental as Unidades de Conservação de Proteção Integral e suas Zonas de Amortecimento.
 
 ###### Art. 8º {#art8}
-Tags: #responsavel-tecnico #enquadramento
 
 **Art. 8º, caput** {#art8_cpt} Independente do enquadramento definido no [[#art6|Art. 6º]], após a avaliação das particularidades da área de implantação do empreendimento e dos seus potenciais impactos ambientais, o órgão ambiental poderá exigir estudos mais detalhados.
 
 ###### Art. 9º {#art9}
-Tags: #supressao-vegetacao #licenciamento-ambiental #requerimento
 
 **Art. 9º, caput** {#art9_cpt} Para a manutenção ou realização de atividades de pequeno impacto de Linhas de Transmissão e Distribuição já licenciadas, dentro da faixa de servidão e/ou faixa segurança, não é necessário novo requerimento para a supressão de vegetação nativa.
 
@@ -171,12 +162,10 @@ Tags: #supressao-vegetacao #licenciamento-ambiental #requerimento
 **Art. 9º, § 2º** {#art9_par2} Para os casos de corte, poda ou roçada, visando a manutenção da linha de Distribuição e Transmissão que não resultar em material lenhoso aproveitável, a concessionária de energia elétrica encaminhará ofício ao Escritório Regional onde a linha estiver localizada, especificando as atividades de limpeza a serem desenvolvidas, acompanhado de mapa geral indicando a exata localização e o tempo de duração do serviço.
 
 ###### Art. 10 {#art10}
-Tags: #supressao-vegetacao #autorizacao-ambiental
 
 **Art. 10, caput** {#art10_cpt} Será necessária a obtenção de Autorização Ambiental para realização de recondutoramento em Linhas de Transmissão ou Linhas de Distribuição que implique em supressão de vegetação nativa fora da faixa de servidão e/ou segurança ou abertura de novos acessos.
 
 ###### Art. 11 {#art11}
-Tags: #licenciamento-ambiental #lo #enquadramento
 
 **Art. 11, caput** {#art11_cpt} O seccionamento de Linhas de Transmissão e Distribuição será enquadrado conforme o Quadro 1.
 
@@ -187,14 +176,12 @@ Tags: #licenciamento-ambiental #lo #enquadramento
 #### Subseção II – Subestações e Estações Chave {#cap2_sec2_subsec2}
 
 ###### Art. 12 {#art12}
-Tags: #licenciamento-ambiental #definicao
 
 **Art. 12, caput** {#art12_cpt} Para a definição da modalidade de licenciamento ambiental a que serão submetidas as subestações será avaliada a área total do empreendimento, bem como qual estudo ambiental deverá ser apresentado.
 
 **Art. 12, parágrafo único** {#art12_par1u} Considera-se como área total do empreendimento, para os fins do caput deste artigo, a área destinada à implantação de todas as suas instalações, como por exemplo, os equipamentos, estacionamento, setor administrativo entre outras. Quadro 2.  Modalidade de licenciamento e estudo ambiental para subestações.
 
 ###### Art. 13 {#art13}
-Tags: #licenciamento-ambiental
 
 **Art. 13, caput** {#art13_cpt} Estão dispensadas de licenciamento ambiental estadual as atividades de pequeno impacto e manutenção a serem realizadas em subestações.
 
@@ -205,26 +192,22 @@ Tags: #licenciamento-ambiental
 ### Seção III – Da Repotencialização de Linhas de Transmissão, Linhas de Distribuição e Subestações {#cap2_sec3}
 
 ###### Art. 15 {#art15}
-Tags: #licenciamento-ambiental #las #pca #requerimento
 
 **Art. 15, caput** {#art15_cpt} Nos casos em que a repotencialização de Linhas de Transmissão ou Linhas de Distribuição impliquem no aumento da faixa de servidão e/ou na mudança de traçado do empreendimento,é necessário o requerimento de um novo licenciamento ambiental.
 
 **Art. 15, parágrafo único** {#art15_par1u} Para os demais casos de repotencialização, deve-se requerer Licença Ambiental Simplificada e apresentação de Plano de Controle Ambiental.
 
 ###### Art. 16 {#art16}
-Tags: #linha-transmissao #autorizacao-ambiental #pca
 
 **Art. 16, caput** {#art16_cpt} Nos casos em que a repotencialização de Subestação não implique no aumento da área total, deverá ser requerida Autorização Ambiental com apresentação de Plano de Controle Ambiental Simplificado.
 
 ###### Art. 17 {#art17}
-Tags: #linha-transmissao #licenciamento-ambiental #las #pca
 
 **Art. 17, caput** {#art17_cpt} Nos casos em que a repotencialização de Subestação implique no aumento da área total, deverá ser requerida Licença Ambiental Simplificada com apresentação de Plano de Controle Ambiental.
 
 ### Seção IV – Da Regularização do Licenciamento Ambiental {#cap2_sec4}
 
 ###### Art. 18 {#art18}
-Tags: #licenciamento-ambiental
 
 **Art. 18, caput** {#art18_cpt} As linhas de distribuição e transmissão que tenham entrado em operação em data anterior a 25 de junho de 2008, sem a devida Licença Ambiental, poderão regularizar-se requerendo por meio de solicitação de Licença Ambiental de Regularização – LAR.
 
@@ -241,7 +224,6 @@ Tags: #licenciamento-ambiental
 #### Subseção I – Documentação Básica {#cap2_sec5_subsec1}
 
 ###### Art. 19 {#art19}
-Tags: #dispensa #licenciamento-ambiental #enquadramento
 
 **Art. 19, caput** {#art19_cpt} Para os empreendimentos elegíveis conforme Seção II, o requerente poderá solicitar Dispensa de Licenciamento Ambiental - DLAE.
 
@@ -254,7 +236,6 @@ Tags: #dispensa #licenciamento-ambiental #enquadramento
 **Art. 19, § 4º** {#art19_par4} A Dispensa de Licenciamento Ambiental Estadual não exime o interessado das exigências legais quanto à preservação do meio ambiente, bem como obtenção de alvarás e atendimento a outras exigências municipais.
 
 ###### Art. 20 {#art20}
-Tags: #autorizacao-ambiental #requerimento #taxa-ambiental #licenciamento-ambiental #supressao-vegetacao #responsavel-tecnico
 
 **Art. 20, caput** {#art20_cpt} O órgão licenciador expedirá Autorização Ambiental - AA aos empreendimentos elegíveis conforme Seção II, devendo o empreendedor efetuar o requerimento mediante apresentação dos seguintes documentos:
 
@@ -269,7 +250,6 @@ Tags: #autorizacao-ambiental #requerimento #taxa-ambiental #licenciamento-ambien
 - **Art. 20, caput, inciso VI** {#art20_cpt_inc6} apresentação de cópia da(s) respectivas ART(s) - Anotação(s) de Responsabilidade Técnica dos profissionais habilitados.
 
 ###### Art. 21 {#art21}
-Tags: #las #requerimento #licenciamento-ambiental #documentacao #responsavel-tecnico #publicacao-dioe
 
 **Art. 21, caput** {#art21_cpt} Os empreendimentos que por sua classificação conforme Seção II, necessitarem fazer a solicitação de Licença Ambiental Simplificada – LAS deverão instruir o requerimento mediante a apresentação dos os seguintes documentos:
 
@@ -289,12 +269,10 @@ Tags: #las #requerimento #licenciamento-ambiental #documentacao #responsavel-tec
 - **Art. 21, caput, inciso XIV** {#art21_cpt_inc14} ciência dos proprietários dos imóveis afetados pelo empreendimento.
 
 ###### Art. 22 {#art22}
-Tags: #las #supressao-vegetacao #licenciamento-ambiental
 
 **Art. 22, caput** {#art22_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença Ambiental Simplificada – LAS somente poderá ser emitida acompanhada da respectiva Autorização Florestal.
 
 ###### Art. 23 {#art23}
-Tags: #licenciamento-ambiental #las #rlas #renovacao #publicacao-dioe #requerimento
 
 **Art. 23, caput** {#art23_cpt} Para a Renovação da Licença Ambiental Simplificada - RLAS o empreendedor deverá protocolar os seguintes documentos:
 
@@ -307,7 +285,6 @@ Tags: #licenciamento-ambiental #las #rlas #renovacao #publicacao-dioe #requerime
 - **Art. 23, caput, inciso VII** {#art23_cpt_inc7} relatório de Automonitoramento Ambiental.
 
 ###### Art. 24 {#art24}
-Tags: #requerimento #publicacao-dioe #licenciamento-ambiental #li #lp #lo
 
 **Art. 24, caput** {#art24_cpt} Os empreendimentos que por suas características estão sujeitos ao licenciamento trifásico (LP, LI e LO), devem apresentar os documentos a seguir discriminados, a serem protocolados pelo sistema eletrônico:
 
@@ -371,7 +348,6 @@ Tags: #requerimento #publicacao-dioe #licenciamento-ambiental #li #lp #lo
   - **Art. 24, caput, inciso VI, alínea "g"** {#art24_cpt_inc6_alig} relatório de Automonitoramento Ambiental.
 
 ###### Art. 25 {#art25}
-Tags: #licenciamento-ambiental #responsavel-tecnico #documentacao #requerimento #publicacao-dioe #certidao-municipal
 
 **Art. 25, caput** {#art25_cpt} Para a solicitação de Licença Ambiental de Regularização prevista no [[#art19|Art. 19]] deverá ser apresentada a seguinte documentação:
 
@@ -389,7 +365,6 @@ Tags: #licenciamento-ambiental #responsavel-tecnico #documentacao #requerimento 
 #### Subseção II – Documentação Complementar para o Licenciamento de Linha de Transmissão e Distribuição {#cap2_sec5_subsec2}
 
 ###### Art. 26 {#art26}
-Tags: #las #requerimento #licenciamento-ambiental #pca
 
 **Art. 26, caput** {#art26_cpt} Para LINHAS DE DISTRIBUIÇÃO até 69 kV o requerimento de licenciamento deve ser instruído com os documentos abaixo relacionados, além daqueles já constantes da Subseção I, da Seção V desta Resolução:
 
@@ -397,7 +372,6 @@ Tags: #las #requerimento #licenciamento-ambiental #pca
   - **Art. 26, caput, inciso I, alínea "a"** {#art26_cpt_inc1_alia} Plano de Controle Ambiental Simplificado – PCAS, em local tipo 2;
 
 ###### Art. 27 {#art27}
-Tags: #lo #pca #las #lp #li #requerimento
 
 **Art. 27, caput** {#art27_cpt} Para LINHAS DE DISTRIBUIÇÃO maior que 69 kV e menor que 230 kV, o requerimento de licenciamento deve ser instruído com os documentos abaixo relacionados, além daqueles já constantes na Subseção I da Seção V desta Resolução:
 
@@ -416,7 +390,6 @@ Tags: #lo #pca #las #lp #li #requerimento
   - **Art. 27, caput, inciso V, alínea "a"** {#art27_cpt_inc5_alia} Autorização / Concessão da ANEEL para o empreendimento, em caso de tensão de 138 kV.
 
 ###### Art. 28 {#art28}
-Tags: #lo #eia-rima #las #lp #li #pca
 
 **Art. 28, caput** {#art28_cpt} Para LINHAS DE TRANSMISSÃO de 230 kV, o requerimento de licenciamento deve ser instruído com os documentos abaixo relacionados, além daqueles já constantes na Subseção I da Seção V desta Resolução:
 
@@ -435,7 +408,6 @@ Tags: #lo #eia-rima #las #lp #li #pca
   - **Art. 28, caput, inciso V, alínea "a"** {#art28_cpt_inc5_alia} Autorização / Concessão da ANEEL para o empreendimento.
 
 ###### Art. 29 {#art29}
-Tags: #lo #eia-rima #linha-transmissao #lp #li #requerimento
 
 **Art. 29, caput** {#art29_cpt} Para requerimento de LINHA DE TRANSMISSÃO acima de 230 kV, deve ser instruído com os documentos abaixo relacionados, além daqueles já constantes na Subseção I da Seção V desta Resolução:
 
@@ -452,7 +424,6 @@ Tags: #lo #eia-rima #linha-transmissao #lp #li #requerimento
 #### Subseção III – Documentação Complementar para o Licenciamento de Estação Chave {#cap2_sec5_subsec3}
 
 ###### Art. 30 {#art30}
-Tags: #licenciamento-ambiental #pca #las #requerimento #responsavel-tecnico
 
 **Art. 30, caput** {#art30_cpt} Para o licenciamento ambiental de Estação Chave, o requerimento deve ser instruído com os documentos abaixo relacionados, além daqueles constantes na Subseção I da Seção V desta Resolução:
 
@@ -464,7 +435,6 @@ Tags: #licenciamento-ambiental #pca #las #requerimento #responsavel-tecnico
 #### Subseção IV – Documentação Complementar para o Licenciamento de Subestação {#cap2_sec5_subsec4}
 
 ###### Art. 31 {#art31}
-Tags: #licenciamento-ambiental #linha-transmissao #las #pca #requerimento
 
 **Art. 31, caput** {#art31_cpt} Para o licenciamento ambiental de SUBESTAÇÃO com área total até 1 ha, o requerimento deve ser instruído com os documentos abaixo relacionados, além daqueles constantes da Subseção I da Seção V desta Resolução:
 
@@ -472,7 +442,6 @@ Tags: #licenciamento-ambiental #linha-transmissao #las #pca #requerimento
   - **Art. 31, caput, inciso I, alínea "a"** {#art31_cpt_inc1_alia} Plano de Controle Ambiental – PCA.
 
 ###### Art. 32 {#art32}
-Tags: #linha-transmissao #licenciamento-ambiental #lp #li #requerimento
 
 **Art. 32, caput** {#art32_cpt} Para o licenciamento ambiental de SUBESTAÇÃO com área total acima de 1 ha, o requerimento deve ser instruído com os documentos abaixo relacionados, além daqueles constantes da Subseção I da Seção V desta Resolução:
 
@@ -484,7 +453,6 @@ Tags: #linha-transmissao #licenciamento-ambiental #lp #li #requerimento
 ### Seção V – Das Taxas Ambientais {#cap2_sec5-2}
 
 ###### Art. 33 {#art33}
-Tags: #licenciamento-ambiental #taxa-ambiental #requerimento #linha-transmissao #las #lp
 
 **Art. 33, caput** {#art33_cpt} O licenciamento ambiental dos sistemas de transmissão, distribuição e subestação de energia elétrica será protocolado e analisado pelo Instituto Água e Terra mediante pagamento de 3 (três) taxas, quando couber, a serem recolhidas por ocasião do requerimento do licenciamento ambiental da forma estabelecida na [[resolucao-cema-107-2020|Resolução CEMA n° 107/2020]], ou outra que a venha substituir. Conforme abaixo:
 
@@ -499,7 +467,6 @@ Tags: #licenciamento-ambiental #taxa-ambiental #requerimento #linha-transmissao 
 **Art. 34, caput** {#art34_cpt} No caso dos licenciamentos de Sistemas de Transmissão, Distribuição e Subestações que exijam apresentação do Relatório Ambiental Simplificado – RAS, sempre que julgar necessário, ou quando for solicitado por entidade civil, pelo Ministério Público, ou por pelo menos cinquenta pessoas maiores de dezoito anos, o órgão de meio ambiente promoverá Reunião Técnica Informativa, conforme preconiza a [[resolucao-conama-279-2001|Resolução CONAMA nº 279/2001]].
 
 ###### Art. 35 {#art35}
-Tags: #eia-rima #publicacao-dioe
 
 **Art. 35, caput** {#art35_cpt} O Instituto Água e Terra dará publicidade ao EIA/RIMA através de edital de entrada que será publicado no Diário Oficial do Estado e disponibilizado em seu sítio eletrônico.
 
@@ -510,14 +477,12 @@ Tags: #eia-rima #publicacao-dioe
 **Art. 36, caput** {#art36_cpt} Para o acesso do empreendedor nas propriedades, a fim de realizar estudos dos meios físico, biótico e socioeconômico, o mesmo deverá possuir a devida permissão dos proprietários.
 
 ###### Art. 37 {#art37}
-Tags: #lp #documentacao
 
 **Art. 37, caput** {#art37_cpt} A Licença Prévia - LP só poderá ser emitida mediante apresentação de 100% (cem por cento) da declaração de ciência dos proprietários dos imóveis afetados.
 
 **Art. 37, parágrafo único** {#art37_par1u} Em caso de não apresentação da documentação referente à totalidade dos imóveis conforme previsto no caput deste artigo, o empreendedor deverá comprovar documentalmente a realização do esforço realizado no sentido de obter a documentação por parte dos proprietários dos imóveis afetados.
 
 ###### Art. 38 {#art38}
-Tags: #li #documentacao #anuencia
 
 **Art. 38, caput** {#art38_cpt} A Licença de Instalação - LI somente poderá ser emitida com a apresentação da comprovação da dominialidade de 100% (cem por cento) do número de imóveis afetados e mediante os seguintes critérios:
 
@@ -527,22 +492,18 @@ Tags: #li #documentacao #anuencia
 **Art. 38, parágrafo único** {#art38_par1u} Os acessos e estruturas (definitivas ou temporárias) a serem implantadas em função do empreendimento deverão necessariamente estar dentro dos limites dos imóveis cuja documentação prevista no caput tenha sido apresentada.
 
 ###### Art. 39 {#art39}
-Tags: #responsavel-tecnico
 
 **Art. 39, caput** {#art39_cpt} Para os casos excepcionais envolvendo imóveis não contemplados nesta Resolução, deverão estar em conformidade com as hipóteses dos [[#art45|Art. 45]] a 54 da [[resolucao-cema-107-2020|Resolução CEMA nº 107/2020]].
 
 ###### Art. 40 {#art40}
-Tags: #supressao-vegetacao #autorizacao-ambiental
 
 **Art. 40, caput** {#art40_cpt} Para abertura de novos acessos, que impliquem em supressão de vegetação nativa, será necessária a respectiva Autorização Ambiental.
 
 ###### Art. 41 {#art41}
-Tags: #las #licenciamento-ambiental #autorizacao-ambiental #monitoramento
 
 **Art. 41, caput** {#art41_cpt} Os empreendimentos que estejam sujeitos à Licença Ambiental Simplificada – LAS, somente estarão aptos a se instalarem após o deferimento da Autorização Ambiental para Resgate, Manejo e Monitoramento de Fauna, conforme disposto na Portaria IAP Nº 97 DE 29/05/2012 ou outra que venha substituí-la, quando aplicável.
 
 ###### Art. 42 {#art42}
-Tags: #li #lp #lo #licenciamento-trifasico #autorizacao-ambiental #monitoramento
 
 **Art. 42, caput** {#art42_cpt} Os empreendimentos que estejam sujeitos ao licenciamento trifásico (LP, LI e LO), somente terão a emissão da Licença de Instalação – LI emitida de forma concomitante ou posteriormente ao deferimento da solicitação de Autorização Florestal e Autorização Ambiental para Resgate, Manejo e Monitoramento de Fauna, conforme disposto na Portaria IAP Nº 97 DE 29/05/2012 ou outra que venha substituí-la.
 
@@ -551,27 +512,22 @@ Tags: #li #lp #lo #licenciamento-trifasico #autorizacao-ambiental #monitoramento
 **Art. 43, caput** {#art43_cpt} Os Termos de Referência necessários para elaboração dos estudos ambientais exigidos por esta resolução serão disponibilizados pelo Instituto Água e Terra - IAT.
 
 ###### Art. 44 {#art44}
-Tags: #licenciamento-ambiental #responsavel-tecnico #iphan
 
 **Art. 44, caput** {#art44_cpt} Quando da necessidade da manifestação de órgãos intervenientes no licenciamento ambiental, tais como FUNAI, INCRA, IPHAN, ICMBio, CEPHA, DNIT, DER, entre outros, será seguido o procedimento conforme estabelece os [[#art11|Art. 11]],12 e 13 da [[resolucao-cema-107-2020|Resolução CEMA nº107/2020]].
 
 ###### Art. 45 {#art45}
-Tags: #validade #prazo
 
 **Art. 45, caput** {#art45_cpt} . Os prazos de validade de cada ato administrativo constarão no corpo dos mesmos, conforme estabelecido na [[resolucao-cema-107-2020|Resolução CEMA 107/2020]], com base no disposto na [[resolucao-cema-107-2020|Resolução CEMA nº 107/2020]] ou outra que venha a substituí-la.
 
 ###### Art. 46 {#art46}
-Tags: #licenciamento-ambiental #infracao-ambiental
 
 **Art. 46, caput** {#art46_cpt} O empreendedor que no procedimento do licenciamento ambiental elaborar ou apresentar concessão florestal ou qualquer outro procedimento administrativo, estudo, laudo ou relatório ambiental total ou parcialmente falso ou enganoso, responderá nos termos da [[lei-federal-9605-1998|Lei Federal 9.605 de 12 de fevereiro de 1998]], bem como pela infração administrativa correspondente.
 
 ###### Art. 47 {#art47}
-Tags: #enquadramento #casos-omissos
 
 **Art. 47, caput** {#art47_cpt} Os casos omissos nesta resolução serão analisados pelo Instituto Água e Terra - IAT e enquadrados na legislação ambiental vigente conforme as características particulares de cada empreendimento.
 
 ###### Art. 48 {#art48}
-Tags: #publicacao-dioe
 
 **Art. 48, caput** {#art48_cpt} Esta Resolução entrará em vigor na data de sua publicação. .
 
@@ -587,17 +543,15 @@ Tags: #publicacao-dioe
 > Tipos conforme as regras de anexos do README: **tipo 1** (modelos) só com o nome; **tipo 3** (conteúdo normativo) listado aqui. Esta Resolução não tem anexo do tipo 2.
 
 ### ANEXO I {#anexo1}
-Tags: #declaracao-ciencia
 
 Modelo de declaração de ciência. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art24_cpt_inc1_alif|Art. 24, inciso I, alínea "f"]].)*
 
 ### ANEXO II {#anexo2}
-Tags: #declaracao-anuencia
 
 Modelo de declaração de anuência. *(Tipo 1: modelo, conteúdo não transcrito.)*
 
 ### ANEXO III – MAPA DE ÁREAS ESTRATÉGICAS PARA CONSERVAÇÃO DA BIODIVERSIDADE E POVOS TRADICIONAIS {#anexo3}
-Tags: #anexo-pendente #area-estrategica-biodiversidade
+Tags: #anexo-pendente
 
 Mapa das áreas estratégicas para conservação da biodiversidade e povos tradicionais. *(Tipo 3: conteúdo normativo em forma de mapa; a imagem do mapa não consta da camada de texto do PDF e está pendente de transcrição. Citado em: [[#art2_cpt_inc1|Art. 2º, inciso I]].)*
 

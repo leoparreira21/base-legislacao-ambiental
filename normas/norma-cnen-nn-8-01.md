@@ -29,27 +29,24 @@ fonte: "CNEN, 'Norma CNEN NN 8.01 – Gerência de Rejeitos Radioativos de Baixo
 > **Publicação:** Norma CNEN NE 6.05 (DOU 17.12.1985); Resolução CNEN 167/14 (DOU 15.05.2014); Resolução CNEN 343/25 (DOU 07.07.2025). Versão de julho de 2025.
 
 ###### Art. 1º {#art1}
-Tags: #cnen
 
 **Art. 1º, caput** {#art1_cpt} Esta Norma foi aprovada pela Comissão Deliberativa da Comissão Nacional de Energia Nuclear, conforme expresso na [[resolucao-cnen-343-2025|Resolução CNEN/CD nº 343, de 2 de julho de 2025]].
 
 ## CAPÍTULO I – DO CAMPO DE APLICAÇÃO {#cap1}
 
 ###### Art. 2º {#art2}
-Tags: #ambito-aplicacao #rejeito-radioativo #classe-rejeito-radioativo
 
 **Art. 2º, caput** {#art2_cpt} Esta Norma aplica-se à gerência de rejeitos radioativos da Classe 1 e da Classe 2 acondicionados em embalagens.
 
 **Art. 2º, § 1º** {#art2_par1} Não estão sujeitas ao cumprimento dos requisitos desta Norma as instituições responsáveis por instalações que gerem somente rejeitos da Classe 0.
 
-**Art. 2º, § 2º** {#art2_par2} #mineracao #petroleo Esta Norma não se aplica à gerência de rejeitos da Classe 2.2 oriundos de indústrias de mineração e beneficiamento de minérios que não integram o ciclo do combustível nuclear e de indústrias de exploração e produção de óleo e gás.
+**Art. 2º, § 2º** {#art2_par2} Esta Norma não se aplica à gerência de rejeitos da Classe 2.2 oriundos de indústrias de mineração e beneficiamento de minérios que não integram o ciclo do combustível nuclear e de indústrias de exploração e produção de óleo e gás.
 
 **Art. 2º, § 3º** {#art2_par3} Esta Norma não se aplica à gerência de rejeitos radioativos da Classe 3.
 
 ## CAPÍTULO II – DA CLASSIFICAÇÃO DOS REJEITOS RADIOATIVOS {#cap2}
 
 ###### Art. 3º {#art3}
-Tags: #classificacao-residuo #rejeito-radioativo #classe-rejeito-radioativo #definicao
 
 **Art. 3º, caput** {#art3_cpt} Os rejeitos são classificados segundo seus níveis e natureza da radiação, bem como suas meias-vidas:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} Classe 0: Rejeitos Isentos (RI): rejeitos contendo radionuclídeos com valores de atividade ou de concentração de atividade, em massa ou volume, inferiores ou iguais aos respectivos níveis de dispensa estabelecidos no [[#anexo2|Anexo II]] e na [[norma-cnen-nn-3-01|Norma CNEN NN 3.01]];
@@ -66,55 +63,46 @@ Tags: #classificacao-residuo #rejeito-radioativo #classe-rejeito-radioativo #def
 ### Seção I – Dos Requisitos Gerais {#cap3_sec1}
 
 ###### Art. 4º {#art4}
-Tags: #plano-gerencia-rejeito-radioativo #instalacao-radiativa #instalacao-nuclear #licenciamento-radiativo
 
-**Art. 4º, caput** {#art4_cpt} #mineracao As instalações radiativas, instalações nucleares e instalações minero-industriais nucleares devem dispor de um plano de gerência de rejeitos com a descrição do sistema de gerência de rejeitos radioativos, dentro do contexto dos respectivos processos de licenciamento ou controle regulatório.
+**Art. 4º, caput** {#art4_cpt} As instalações radiativas, instalações nucleares e instalações minero-industriais nucleares devem dispor de um plano de gerência de rejeitos com a descrição do sistema de gerência de rejeitos radioativos, dentro do contexto dos respectivos processos de licenciamento ou controle regulatório.
 
 **Art. 4º, § 1º** {#art4_par1} Para as instalações radiativas, o plano de gerência de rejeitos radioativos deve estar em conformidade com o roteiro apresentado no [[#anexo1|Anexo I]].
 
-**Art. 4º, § 2º** {#art4_par2} #mineracao Para as instalações minero-industriais nucleares, as informações relativas à gerência de rejeitos devem estar contidas nos Relatórios de Análise de Segurança, dentro do contexto do respectivo processo de licenciamento da instalação, estabelecido em normas específicas da CNEN.
+**Art. 4º, § 2º** {#art4_par2} Para as instalações minero-industriais nucleares, as informações relativas à gerência de rejeitos devem estar contidas nos Relatórios de Análise de Segurança, dentro do contexto do respectivo processo de licenciamento da instalação, estabelecido em normas específicas da CNEN.
 
 **Art. 4º, § 3º** {#art4_par3} Para as instalações nucleares e depósitos de rejeitos, aplicam-se os Relatórios de Análise de Segurança previstos na [[norma-cnen-nn-8-02|Norma CNEN NN 8.02]] Licenciamento de Depósitos de Rejeitos de Baixo e Médio Níveis de Radiação e em demais normas específicas da CNEN.
 
 ###### Art. 5º {#art5}
-Tags: #segregacao #rejeito-radioativo
 
 **Art. 5º, caput** {#art5_cpt} Os rejeitos radioativos devem ser segregados de quaisquer outros materiais.
 
 ###### Art. 6º {#art6}
-Tags: #acondicionamento #armazenamento-residuo #nivel-dispensa
 
 **Art. 6º, caput** {#art6_cpt} Os rejeitos submetidos à segregação devem ser acondicionados em embalagens que atendam aos requisitos constantes da [[#cap3_sec3|seção III deste capítulo]] e armazenados até que possam ser eliminados, de acordo com os níveis de dispensa estabelecidos no [[#anexo2|Anexo II]] e na [[norma-cnen-nn-3-01|Norma CNEN NN 3.01]], ou transferidos para local determinado pela CNEN.
 
 ###### Art. 7º {#art7}
-Tags: #nivel-dispensa #efluente #instalacao-nuclear
 
-**Art. 7º, caput** {#art7_cpt} #mineracao Os níveis de dispensa constantes do [[#anexo2|Anexo II]] desta Norma não se aplicam a efluentes de instalações nucleares e efluentes de instalações minero-industrial nuclear, estando estes sujeitos a restrições de dose definidas em normas específicas da CNEN.
+**Art. 7º, caput** {#art7_cpt} Os níveis de dispensa constantes do [[#anexo2|Anexo II]] desta Norma não se aplicam a efluentes de instalações nucleares e efluentes de instalações minero-industrial nuclear, estando estes sujeitos a restrições de dose definidas em normas específicas da CNEN.
 
 ###### Art. 8º {#art8}
-Tags: #reutilizacao #reciclagem #rejeito-radioativo
 
-**Art. 8º, caput** {#art8_cpt} #mineracao Deve ser assegurada a minimização do volume e da atividade dos rejeitos radioativos gerados na operação de uma instalação nuclear, instalação radiativa, instalação minero-industrial nuclear ou depósito de rejeitos radioativos, buscando-se estratégias de reutilização e de reciclagem, observados os critérios de dispensa estabelecidos na [[#cap3_sec7_subsec3|subseção III desta Norma]], de forma a reduzir os volumes que exigem deposição ou armazenamento em depósitos licenciados.
+**Art. 8º, caput** {#art8_cpt} Deve ser assegurada a minimização do volume e da atividade dos rejeitos radioativos gerados na operação de uma instalação nuclear, instalação radiativa, instalação minero-industrial nuclear ou depósito de rejeitos radioativos, buscando-se estratégias de reutilização e de reciclagem, observados os critérios de dispensa estabelecidos na [[#cap3_sec7_subsec3|subseção III desta Norma]], de forma a reduzir os volumes que exigem deposição ou armazenamento em depósitos licenciados.
 
 ###### Art. 9º {#art9}
-Tags: #armazenamento-residuo #projeto-instalacao
 
-**Art. 9º, caput** {#art9_cpt} #mineracao O local de armazenamento inicial de rejeitos deve ser incluído no projeto da instalação nuclear, instalação radiativa e instalação minero-industrial nuclear.
+**Art. 9º, caput** {#art9_cpt} O local de armazenamento inicial de rejeitos deve ser incluído no projeto da instalação nuclear, instalação radiativa e instalação minero-industrial nuclear.
 
 ###### Art. 10 {#art10}
-Tags: #identificacao-rejeito #classe-rejeito-radioativo
 
 **Art. 10, caput** {#art10_cpt} Após sua segregação e acondicionamento em embalagens adequadas, os rejeitos devem ser identificados conforme ficha apresentada no [[#anexo4|Anexo IV]] e classificados de acordo com as Classes estabelecidas no [[#art3|Capítulo II, Art. 3º]].
 
 ###### Art. 11 {#art11}
-Tags: #inventario-residuos #nivel-dispensa
 
 **Art. 11, caput** {#art11_cpt} Os rejeitos a serem dispensados devem ser previamente registrados, abrangendo dados especificados no [[#anexo3|Anexo III]].
 
 ### Seção II – Da Segregação {#cap3_sec2}
 
 ###### Art. 12 {#art12}
-Tags: #segregacao #rejeito-radioativo
 
 **Art. 12, caput** {#art12_cpt} A segregação dos rejeitos deve ser realizada no mesmo local em que foram gerados ou em ambiente apropriado, levando em conta as seguintes características, conforme aplicável:
 - **Art. 12, caput, inciso I** {#art12_cpt_inc1} estado físico;
@@ -127,169 +115,143 @@ Tags: #segregacao #rejeito-radioativo
 ### Seção III – Das Embalagens e Volumes {#cap3_sec3}
 
 ###### Art. 13 {#art13}
-Tags: #embalagem #transporte
 
 **Art. 13, caput** {#art13_cpt} As embalagens destinadas à segregação, à coleta, ao transporte e ao armazenamento de rejeitos não isentos devem portar o símbolo internacional da presença de radiação, fixado de forma clara e visível.
 
 **Art. 13, parágrafo único** {#art13_par1u} As embalagens destinadas ao transporte de rejeitos como volume exceptivo devem obedecer aos requisitos de sinalização estabelecidos na [[norma-cnen-nn-5-01|Norma CNEN NN 5.01]].
 
 ###### Art. 14 {#art14}
-Tags: #embalagem
 
 **Art. 14, caput** {#art14_cpt} As embalagens utilizadas no processo de segregação, coleta ou armazenamento devem ser adequadas às características físicas, químicas, biológicas e radiológicas dos rejeitos para os quais são destinadas.
 
 ###### Art. 15 {#art15}
-Tags: #embalagem #armazenamento-residuo
 
 **Art. 15, caput** {#art15_cpt} As embalagens para armazenamento de rejeitos radioativos em depósitos inicial, intermediário ou provisório devem ter suas condições de integridade asseguradas e, quando necessário, devem ser substituídas.
 
 ###### Art. 16 {#art16}
-Tags: #embalagem #transporte #contaminacao-superficial
 
 **Art. 16, caput** {#art16_cpt} As embalagens destinadas ao transporte de rejeitos radioativos não devem apresentar contaminação superficial externa em níveis superiores aos especificados no [[#anexo5|Anexo V]].
 
 ###### Art. 17 {#art17}
-Tags: #embalagem
 
 **Art. 17, caput** {#art17_cpt} Os volumes de rejeitos radioativos devem possuir vedação adequada para evitar perda do seu conteúdo.
 
 ###### Art. 18 {#art18}
-Tags: #identificacao-rejeito #embalagem
 
 **Art. 18, caput** {#art18_cpt} Os volumes de rejeitos radioativos devem apresentar fichas de identificação, afixadas externamente, informando seu número de registro e a taxa de dose na superfície. Adicionalmente, deverão vir acompanhados de ficha com as informações constantes no [[#anexo4|Anexo IV]].
 
 ### Seção IV – Do Transporte {#cap3_sec4}
 
 ###### Art. 19 {#art19}
-Tags: #transporte #veiculo
 
 **Art. 19, caput** {#art19_cpt} Os veículos utilizados em transporte, tanto interno quanto externo, de rejeitos radioativos devem ser providos de meios de fixação adequados para os volumes, de modo a evitar danos aos mesmos.
 
 ###### Art. 20 {#art20}
-Tags: #transporte-interno #veiculo
 
 **Art. 20, caput** {#art20_cpt} Após cada serviço de transporte interno de rejeitos radioativos, os veículos devem ser monitorados e, caso necessário, descontaminados.
 
 ###### Art. 21 {#art21}
-Tags: #transporte-externo #transporte
 
 **Art. 21, caput** {#art21_cpt} O transporte externo de rejeitos radioativos deve ser realizado em conformidade com a [[norma-cnen-nn-5-01|Norma CNEN NN 5.01]], bem como com as demais resoluções e regulamentos de transporte vigentes.
 
 ### Seção V – Do Armazenamento Inicial ou Intermediário {#cap3_sec5}
 
 ###### Art. 22 {#art22}
-Tags: #armazenamento-residuo #deposito-rejeito-radioativo #seguranca-instalacao
 
 **Art. 22, caput** {#art22_cpt} O depósito inicial ou intermediário de rejeitos da Classe 1, conforme aplicável, deve:
 - **Art. 22, caput, inciso I** {#art22_cpt_inc1} conter com segurança os rejeitos até que possam ser eliminados ou removidos para local determinado pela CNEN;
 - **Art. 22, caput, inciso II** {#art22_cpt_inc2} garantir a proteção física dos rejeitos, com provisão de barreiras de segurança e evitando o acesso não autorizado;
 - **Art. 22, caput, inciso III** {#art22_cpt_inc3} dispor de controle de liberação de material radioativo para o meio ambiente;
-- **Art. 22, caput, inciso IV** {#art22_cpt_inc4} #monitoramento dispor de um sistema de monitoração de área;
+- **Art. 22, caput, inciso IV** {#art22_cpt_inc4} dispor de um sistema de monitoração de área;
 - **Art. 22, caput, inciso V** {#art22_cpt_inc5} situar-se em local cercado e sinalizado, com acesso restrito a pessoal autorizado;
 - **Art. 22, caput, inciso VI** {#art22_cpt_inc6} ter piso e paredes impermeáveis e de fácil descontaminação;
-- **Art. 22, caput, inciso VII** {#art22_cpt_inc7} #monitoramento apresentar delimitação clara das áreas supervisionadas e controladas e, se necessário, locais reservados à monitoração e descontaminação individuais;
+- **Art. 22, caput, inciso VII** {#art22_cpt_inc7} apresentar delimitação clara das áreas supervisionadas e controladas e, se necessário, locais reservados à monitoração e descontaminação individuais;
 - **Art. 22, caput, inciso VIII** {#art22_cpt_inc8} dispor de meios para evitar decomposição de rejeito biológico;
-- **Art. 22, caput, inciso IX** {#art22_cpt_inc9} #plano-emergencia dispor de procedimentos apropriados sempre afixados em paredes, quadros e outros lugares bem visíveis, para facilitar o manuseio de materiais, minimizar a exposição de Indivíduos Ocupacionalmente Expostos (IOE) e dos indivíduos do público, orientar as ações de resposta a emergências e dar outras instruções;
+- **Art. 22, caput, inciso IX** {#art22_cpt_inc9} dispor de procedimentos apropriados sempre afixados em paredes, quadros e outros lugares bem visíveis, para facilitar o manuseio de materiais, minimizar a exposição de Indivíduos Ocupacionalmente Expostos (IOE) e dos indivíduos do público, orientar as ações de resposta a emergências e dar outras instruções;
 - **Art. 22, caput, inciso X** {#art22_cpt_inc10} permitir, a qualquer momento, acesso para inspeção visual e identificação dos volumes;
 - **Art. 22, caput, inciso XI** {#art22_cpt_inc11} dispor de meios para proteção e combate a incêndio; e
 - **Art. 22, caput, inciso XII** {#art22_cpt_inc12} ter capacidade de armazenamento adequada, de modo a minimizar riscos de acidentes durante o manuseio de rejeitos pelo tempo que se fizer necessário.
 
 ###### Art. 23 {#art23}
-Tags: #armazenamento-residuo #deposito-rejeito-radioativo
 
 **Art. 23, caput** {#art23_cpt} O armazenamento de rejeitos radioativos da Classe 2 acondicionados em embalagens deve atender aos requisitos estabelecidos na [[norma-cnen-nn-8-02|Norma CNEN NN 8.02]] Licenciamento de Depósitos de Rejeitos Radioativos de Baixo e Médio Níveis de Radiação.
 
 ###### Art. 24 {#art24}
-Tags: #armazenamento-residuo #decaimento
 
 **Art. 24, caput** {#art24_cpt} Os rejeitos radioativos armazenados para decaimento, visando posterior dispensa, devem ser mantidos separados de materiais radioativos em uso e de outros rejeitos a serem armazenados por período longo ou a serem removidos para local determinado pela CNEN.
 
 ###### Art. 25 {#art25}
-Tags: #armazenamento-residuo #residuo-perigoso
 
 **Art. 25, caput** {#art25_cpt} Os rejeitos radioativos devem ser mantidos separados de outros produtos perigosos, como explosivos, inflamáveis, oxidantes e corrosivos.
 
 ###### Art. 26 {#art26}
-Tags: #residuo-liquido #contencao
 
 **Art. 26, caput** {#art26_cpt} O armazenamento de rejeitos radioativos líquidos deve ser feito sobre bacia de contenção, bandeja, recipiente ou material absorvente com capacidade de conter ou absorver o dobro do volume do líquido presente na embalagem.
 
 ### Seção VI – Do Tratamento {#cap3_sec6}
 
 ###### Art. 27 {#art27}
-Tags: #tratamento-residuo
 
 **Art. 27, caput** {#art27_cpt} Qualquer processo de tratamento de rejeitos radioativos está sujeito à aprovação prévia da CNEN.
 
 ### Seção VII – Da Dispensa para Rejeitos {#cap3_sec7}
 
 ###### Art. 28 {#art28}
-Tags: #nivel-dispensa #licenciamento-ambiental
 
 **Art. 28, caput** {#art28_cpt} A dispensa incondicional de rejeitos radioativos deve atender ao disposto nesta seção e deve estar em conformidade com a legislação ambiental vigente.
 
 #### Subseção I – Da Dispensa para Rejeitos Gasosos {#cap3_sec7_subsec1}
 
 ###### Art. 29 {#art29}
-Tags: #nivel-dispensa #emissao-atmosferica
 
 **Art. 29, caput** {#art29_cpt} A dispensa incondicional de rejeitos radioativos gasosos está sujeita à autorização da CNEN, com base na análise técnica dos fatores pertinentes, e deve tomar como referência valores especificados na [[#anexo2_tab1|Coluna 2 do Anexo II, Tabela II.1]].
 
 #### Subseção II – Da Dispensa para Rejeitos Líquidos {#cap3_sec7_subsec2}
 
 ###### Art. 30-A {#art30-a}
-Tags: #ambito-aplicacao #nivel-dispensa
 
 **Art. 30-A, caput** {#art30-a_cpt} Os critérios estabelecidos nesta Norma consideram o seu escopo de aplicação, definido do [[#art2|art. 2º]].
 
 ###### Art. 30 {#art30}
-Tags: #nivel-dispensa #residuo-liquido #rede-esgoto #lancamento
 
 **Art. 30, caput** {#art30_cpt} A dispensa incondicional de rejeitos líquidos de instalações radiativas só pode ser realizada na rede de esgoto sanitário e está sujeita aos seguintes requisitos:
 - **Art. 30, caput, inciso I** {#art30_cpt_inc1} o rejeito deve ser prontamente solúvel ou de fácil dispersão em água;
 - **Art. 30, caput, inciso II** {#art30_cpt_inc2} a quantidade de cada radionuclídeo liberada mensalmente pela instalação, na rede de esgotos sanitários, não deve exceder a quantidade que, se fosse diluída no volume médio mensal de esgoto liberado pela instalação, resultasse numa concentração média igual aos valores especificados na [[#anexo2_tab1|Coluna 1, Tabela II.1 do Anexo II]];
 - **Art. 30, caput, inciso III** {#art30_cpt_inc3} a quantidade anual total de radionuclídeos liberada na rede de esgoto sanitário não deve exceder os valores especificados na [[#anexo2_tab2|Tabela II.2 do Anexo II]];
 - **Art. 30, caput, inciso IV** {#art30_cpt_inc4} para radionuclídeos não constantes da [[#anexo2_tab2|Tabela II.2]], a soma das quantidades anuais liberadas na rede de esgoto sanitário não deve exceder 3,7 x 10<sup>10</sup> Bq (1Ci); e
-- **Art. 30, caput, inciso V** {#art30_cpt_inc5} #medicina-nuclear a eliminação de excreta de pacientes internados com doses terapêuticas de radiofármacos deve ser feita de acordo com instruções estabelecidas na [[norma-cnen-nn-3-05|Norma CNEN NN 3.05]] Requisitos de Segurança e Proteção Radiológica para Serviços de Medicina Nuclear.
+- **Art. 30, caput, inciso V** {#art30_cpt_inc5} a eliminação de excreta de pacientes internados com doses terapêuticas de radiofármacos deve ser feita de acordo com instruções estabelecidas na [[norma-cnen-nn-3-05|Norma CNEN NN 3.05]] Requisitos de Segurança e Proteção Radiológica para Serviços de Medicina Nuclear.
 
 #### Subseção III – Da Dispensa para Rejeitos Sólidos {#cap3_sec7_subsec3}
 
 ###### Art. 31 {#art31}
-Tags: #nivel-dispensa #residuo-solido
 
 **Art. 31, caput** {#art31_cpt} A dispensa incondicional de rejeitos sólidos contendo radionuclídeos artificiais deve atender aos valores limitados de concentração de atividade ou atividade total estabelecidos na [[norma-cnen-nn-3-01|Norma CNEN NN 3.01]], para cada radionuclídeo.
 
 **Art. 31, parágrafo único** {#art31_par1u} #revogado (Revogado).
 
 ###### Art. 31-A {#art31-a}
-Tags: #nivel-dispensa #material-radioativo-natural
 
 **Art. 31-A, caput** {#art31-a_cpt} A dispensa sem considerações adicionais de grandes quantidades de rejeitos contendo radionuclídeos de origem natural deve atender os valores limitados de concentração de atividade de 1 Bq/g para cada radionuclídeo das séries de decaimento do urânio e do tório, e 10 Bq/g para K-40.
 
 ###### Art. 31-B {#art31-b}
-Tags: #nivel-dispensa
 
 **Art. 31-B, caput** {#art31-b_cpt} Valores específicos de concentração de atividade para a dispensa condicional de rejeitos radioativos poderão ser definidos, caso a caso, de acordo com os critérios de doses estabelecidos na [[norma-cnen-nn-3-01|Norma CNEN NN 3.01]], mediante consulta formal feita pelo titular.
 
 ###### Art. 32 {#art32}
-Tags: #nivel-dispensa #residuo-servico-saude
 
 **Art. 32, caput** {#art32_cpt} Frascos, seringas e outros recipientes que tenham contido líquidos radioativos só podem ser dispensados no sistema de coleta de resíduos de serviços de saúde após a remoção de qualquer líquido radioativo remanescente.
 
 **Art. 32, parágrafo único** {#art32_par1u} O líquido radioativo residual só pode ser eliminado na rede de esgotos em conformidade com os requisitos estabelecidos no [[#art30|art. 30 desta Norma]].
 
 ###### Art. 33 {#art33}
-Tags: #decaimento #residuo-solido-urbano
 
 **Art. 33, caput** {#art33_cpt} Para fins de cálculo do tempo de decaimento necessário para dispensa de rejeitos sólidos no sistema de coleta de lixo urbano, deve ser considerado que 10% do conteúdo radioativo inicial ficam adsorvidos no frasco, seringa ou outros materiais que tiveram contacto com o líquido radioativo, salvo se estiver disponível método confiável de medida experimental.
 
 ###### Art. 34 {#art34}
-Tags: #nivel-dispensa
 
 **Art. 34, caput** {#art34_cpt} Os rótulos portando o símbolo internacional indicativo de presença de radiação presentes nos rejeitos sólidos devem ser retirados ou descaracterizados, por ocasião de sua dispensa.
 
 ###### Art. 35 {#art35}
-Tags: #nivel-dispensa #material-radioativo-natural #contaminacao-superficial
 
 **Art. 35, caput** {#art35_cpt} O valor estabelecido para dispensa incondicional de grandes quantidades de objetos contaminados na superfície por radionuclídeos de origem natural é 3 kBq/m², considerando o radionuclídeo pai e seus descendentes em equilíbrio secular.
 
@@ -303,36 +265,30 @@ Tags: #revogado
 ### Seção VIII – Da Liberação de Efluentes de Instalações Nucleares e de Instalações Mínero-Industriais Nucleares {#cap3_sec8}
 
 ###### Art. 37 {#art37}
-Tags: #efluente #instalacao-nuclear #mineracao
 
 **Art. 37, caput** {#art37_cpt} A liberação de efluentes líquidos e gasosos de instalações nucleares e instalações minero-industriais nucleares no meio ambiente deve ser previamente autorizada pela CNEN, considerando as restrições de dose efetiva estabelecidas em normas específicas.
 
 ### Seção IX – Da Transferência de Rejeitos Radioativos {#cap3_sec9}
 
 ###### Art. 38 {#art38}
-Tags: #exportacao-residuo
 
 **Art. 38, caput** {#art38_cpt} Toda exportação de rejeito radioativo, sob qualquer forma e composição química, em qualquer quantidade, só pode ser efetivada mediante autorização prévia da CNEN.
 
 ###### Art. 39 {#art39}
-Tags: #importacao-residuo #proibicao
 
 **Art. 39, caput** {#art39_cpt} É proibida a importação de rejeitos radioativos.
 
 ###### Art. 40 {#art40}
-Tags: #importacao-residuo
 
 **Art. 40, caput** {#art40_cpt} A admissão temporária de rejeitos radioativos no país, para fins de tratamento, é permitida mediante autorização prévia da CNEN.
 
 ###### Art. 41 {#art41}
-Tags: #transporte #destinacao-final
 
 **Art. 41, caput** {#art41_cpt} A transferência, no País, de rejeitos radioativos de uma instalação é permitida, exclusivamente, para locais determinados pela CNEN.
 
 ### Seção X – Dos Registros e Inventários {#cap3_sec10}
 
 ###### Art. 42 {#art42}
-Tags: #inventario-residuos
 
 **Art. 42, caput** {#art42_cpt} Toda instalação deve manter um sistema atualizado de registro de rejeitos radioativos, abrangendo:
 - **Art. 42, caput, inciso I** {#art42_cpt_inc1} a identificação do tipo de rejeito, sua origem e a localização da embalagem que o contém;
@@ -346,22 +302,18 @@ Tags: #inventario-residuos
 - **Art. 42, caput, inciso IX** {#art42_cpt_inc9} outras informações pertinentes à segurança;
 
 ###### Art. 43 {#art43}
-Tags: #inventario-residuos #decaimento
 
 **Art. 43, caput** {#art43_cpt} O registro da dispensa de rejeitos deve ser mantido atualizado. Quando os rejeitos radioativos estiverem armazenados para decaimento, o registro deve especificar a data estimada para dispensa.
 
 ###### Art. 44 {#art44}
-Tags: #inventario-residuos
 
 **Art. 44, caput** {#art44_cpt} Qualquer modificação ou correção realizada nos dados constantes nos registros deve ser claramente justificada e documentada.
 
 ###### Art. 45 {#art45}
-Tags: #inventario-residuos
 
 **Art. 45, caput** {#art45_cpt} Os registros, bem como os documentos relativos às suas correções, devem ser mantidos na instalação.
 
 ###### Art. 46 {#art46}
-Tags: #inventario-residuos #fiscalizacao
 
 **Art. 46, caput** {#art46_cpt} O controle de inventário de todo rejeito radioativo, de acordo com formulário exemplificado no [[#anexo3|Anexo III]], deve estar disponível na instalação para avaliação durante inspeções da CNEN ou para ser enviado quando solicitado, até o descomissionamento da instalação.
 
@@ -373,19 +325,16 @@ Tags: #revogado
 **Art. 47, caput** {#art47_cpt} #revogado (Revogado).
 
 ###### Art. 48 {#art48}
-Tags: #fiscalizacao
 
 **Art. 48, caput** {#art48_cpt} A CNEN fiscalizará as instalações com o objetivo de verificar o cumprimento dos requisitos de segurança estabelecidos em suas normas.
 
 ## ANEXOS
 
 ### ANEXO I – ROTEIRO PARA ELABORAÇÃO DE PLANO DE GERÊNCIA DE REJEITOS RADIOATIVOS {#anexo1}
-Tags: #plano-gerencia-rejeito-radioativo #termo-referencia
 
 Diretriz de estudo (tipo 2): ver [[norma-cnen-nn-8-01-anexo1|Anexo I – Roteiro para elaboração de Plano de Gerência de Rejeitos Radioativos]]. Exigido no [[#art4_par1|art. 4º, § 1º]] (instalações radiativas).
 
 ### ANEXO II – NÍVEIS DE DISPENSA {#anexo2}
-Tags: #nivel-dispensa #rejeito-radioativo #residuo-liquido #emissao-atmosferica #rede-esgoto
 
 #### ANEXO II - TABELA II.1 – NÍVEIS DE DISPENSA DE REJEITOS LÍQUIDOS E GASOSOS {#anexo2_tab1}
 
@@ -1218,17 +1167,14 @@ Tags: #nivel-dispensa #rejeito-radioativo #residuo-liquido #emissao-atmosferica 
 - **Anexo II, Tabela II.2, Nota, linha 2** {#anexo2_lin10} Onde: L<sub>A</sub>, L<sub>B</sub> e L<sub>C</sub> são as quantidades anuais respectivamente de cada radionuclídeo A, B e C que se pretende dispensar; e LMA<sub>A</sub>, LMA<sub>B</sub> e LMA<sub>C</sub> são os respectivos níveis máximos anuais de dispensa para cada radionuclídeo A, B e C constantes da [[#anexo2_tab2|Tabela II.2]].
 
 ### ANEXO III – CONTROLE DE VARIAÇÕES DO INVENTÁRIO DE RADIONUCLÍDEOS {#anexo3}
-Tags: #inventario-residuos
 
 Modelo de formulário de controle de variações do inventário de radionuclídeos
 
 ### ANEXO IV – FICHA DE IDENTIFICAÇÃO DE REJEITOS RADIOATIVOS CONTIDOS EM CADA VOLUME {#anexo4}
-Tags: #identificacao-rejeito
 
 Modelo de ficha de identificação de rejeitos radioativos contidos em cada volume
 
 ### ANEXO V – NÍVEIS MÁXIMOS DE CONTAMINAÇÃO RADIOATIVA NÃO FIXADA NA SUPERFÍCIE DO VOLUME DE REJEITO RADIOATIVO {#anexo5}
-Tags: #contaminacao-superficial #embalagem #transporte
 
 - **Anexo V, Tabela 1 (sem título no original), linha 1** {#anexo5_tab1_lin1} RADIONUCLÍDEO CONTAMINANTE: Emissores β e γ, e emissores α de baixa toxicidade | Unidade: Bq/m² | Nível máximo: 4. 10<sup>4</sup>
 - **Anexo V, Tabela 1 (sem título no original), linha 2** {#anexo5_tab1_lin2} RADIONUCLÍDEO CONTAMINANTE: Todos os outros emissores α | Unidade: Bq/m² | Nível máximo: 0.4. 10<sup>4</sup>

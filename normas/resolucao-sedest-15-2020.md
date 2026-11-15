@@ -46,12 +46,10 @@ Considerando o Plano de Ação “Descomplica” da SEDEST, aprovado pelo Comit�
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #suinocultura #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer critérios para o Licenciamento Ambiental de Empreendimentos de Suinocultura Intensiva.
 
 ###### Art. 2º {#art2}
-Tags: #suinocultura #licenciamento-ambiental #definicao #ampliacao #pca #documentacao
 
 **Art. 2º, caput** {#art2_cpt} Para os efeitos desta Resolução, considera-se:
 
@@ -76,7 +74,6 @@ Tags: #suinocultura #licenciamento-ambiental #definicao #ampliacao #pca #documen
 - **Art. 2º, caput, inciso XIX** {#art2_cpt_inc19} Unidade Wean to Finish (WTF): sistema de produção de fluxo contínuo ou em lotes
 
 ###### Art. 3º {#art3}
-Tags: #condicionante #licenciamento-ambiental #autorizacao-ambiental #las #lp #li
 
 **Art. 3º, caput** {#art3_cpt} O órgão ambiental competente, no exercício de sua competência de controle ambiental, expedirá os seguintes atos administrativos:
 
@@ -89,7 +86,6 @@ Tags: #condicionante #licenciamento-ambiental #autorizacao-ambiental #las #lp #l
 - **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} Licença de Operação – LO: autoriza o funcionamento da atividade ou empreendimento, após a verificação do efetivo cumprimento do que consta das licenças anteriores, com as medidas de controle ambientais e condicionantes determinados para a operação.
 
 ###### Art. 4º {#art4}
-Tags: #suinocultura #dejeto-animal #licenciamento-ambiental #porte
 
 **Art. 4º, caput** {#art4_cpt} O porte dos empreendimentos de suinocultura, para fins de licenciamento ambiental, é definido pelo sistema de criação, número de animais e volume de dejetos gerados, conforme o que segue:
 
@@ -183,7 +179,6 @@ Tags: #suinocultura #dejeto-animal #licenciamento-ambiental #porte
 - **Art. 4º, Tabela 9, linha 5** {#art4_tab9_lin5} Nº de reprodutores: Maior que 9500 | Porte: Excepcional | Volume de dejetos (m³/dia): Maior que 152,0
 
 ###### Art. 5º {#art5}
-Tags: #suinocultura #licenciamento-ambiental
 
 **Art. 5º, caput** {#art5_cpt} Para a concessão do licenciamento ambiental dos empreendimentos de suinocultura, devem ser considerados os seguintes critérios:
 
@@ -197,7 +192,6 @@ Tags: #suinocultura #licenciamento-ambiental
 - **Art. 5º, Tabela 1, linha 6** {#art5_tab1_lin6} Porte: Excepcional | Modalidade de licença ambiental — DLAE: Não | Modalidade de licença ambiental — LAS: Não | Modalidade de licença ambiental — LP/LI/LO: Sim
 
 ###### Art. 6º {#art6}
-Tags: #dispensa #licenciamento-ambiental #suinocultura #porte #recurso-hidrico
 
 **Art. 6º, caput** {#art6_cpt} São passíveis de Declaração de Dispensa de Licenciamento Ambiental Estadual – DLAE os empreendimentos de suinocultura de porte micro e mínimo.
 
@@ -216,7 +210,6 @@ Tags: #dispensa #licenciamento-ambiental #suinocultura #porte #recurso-hidrico
 **Art. 6º, § 3º** {#art6_par3} A Dispensa do Licenciamento Ambiental Estadual - DLAE não exime o dispensado das exigências legais quanto à preservação do meio ambiente.
 
 ###### Art. 7º {#art7}
-Tags: #las #licenciamento-ambiental #publicacao-dioe #renovacao #taxa-ambiental #documentacao
 
 **Art. 7º, caput** {#art7_cpt} Os requerimentos de Licença Ambiental Simplificada – LAS, bem como sua renovação, para os empreendimentos de suinocultura relacionados no [[#art4|artigo 4º]], deverão ser protocolados no SGA, instruídos na forma prevista abaixo:
 
@@ -249,7 +242,6 @@ Tags: #las #licenciamento-ambiental #publicacao-dioe #renovacao #taxa-ambiental 
 **Art. 7º, § 2º** {#art7_par2} º O órgão ambiental realizará avaliação posterior das informações constantes no procedimento, podendo solicitar complementações ou até a suspensão do licenciamento.
 
 ###### Art. 8º {#art8}
-Tags: #publicacao-dioe #lo #taxa-ambiental #lp #porte #li
 
 **Art. 8º, caput** {#art8_cpt} Os Empreendimentos de Suinocultura classificados como de porte médio, grande e excepcional, deverão requerer sucessivamente as Licenças Prévia, de Instalação e de Operação.
 
@@ -305,7 +297,6 @@ Tags: #publicacao-dioe #lo #taxa-ambiental #lp #porte #li
 ## Seção V – da Resolução CEMA nº 105 de 17 de dezembro de 2019; {#sec5}
 
 ###### Art. 9º {#art9}
-Tags: #lo #licenciamento-ambiental #las #prazo #dejeto-animal #publicacao-dioe
 
 **Art. 9º, caput** {#art9_cpt} A RLO e a LO de ampliação poderão ser solicitadas de forma unificada quando o prazo de vencimento da LO em renovação for inferior a 01 (um) ano. 10. Para regularização do licenciamento ambiental de empreendimentos já existentes e em operação, que não tenham se submetido ao licenciamento simplificado (LAS) ou ao licenciamento completo nas modalidade LP, LI e LO, de acordo com [[#art3|Art. 3°]] da presente Resolução, deverão solicitar a Licença Ambiental Simplificada de Regularização (LASR) ou a Licença de Operação de Regularização (LOR).
 
@@ -382,22 +373,19 @@ Tags: #lo #licenciamento-ambiental #las #prazo #dejeto-animal #publicacao-dioe
 > Tipos conforme as regras de anexos do README. O PDF traz só a lista "ANEXOS: anexo232861_53544.pdf" e não o conteúdo dos anexos.
 
 ### ANEXO I {#anexo1}
-Tags: #certidao-municipal
 
 Modelo de certidão do município (conformidade do local e do tipo de empreendimento com a legislação municipal). *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art7_cpt_inc1_alib|Art. 7º, inciso I, alínea "b"]], [[#art8_par2_inc1_alid|Art. 8º, § 2º, inciso I, alínea "d"]], [[#art9_par2_inc1_alic|Art. 9º, § 2º, inciso I, alínea "c"]], [[#art9_par2_inc2_alic|Art. 9º, § 2º, inciso II, alínea "c"]].)*
 
 ### ANEXO II {#anexo2}
-Tags: #anexo-pendente #projeto-controle-poluicao
+Tags: #anexo-pendente
 
 Diretrizes do Projeto de Controle de Poluição Ambiental. *(Tipo 2. Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo232861_53544.pdf`. Exigido em: [[#art7_cpt_inc1_alig|Art. 7º, inciso I, alínea "g"]], [[#art8_par2_inc2_alia_ite2|Art. 8º, § 2º, inciso II, alínea "a", item 2]], [[#art9_par2_inc1_alih|Art. 9º, § 2º, inciso I, alínea "h"]], [[#art9_par2_inc2_alih|Art. 9º, § 2º, inciso II, alínea "h"]], [[#art9_par1u_inc7|Art. 9º, parágrafo único, inciso VII]].)*
 
 ### ANEXO III {#anexo3}
-Tags: #anuencia-proprietario
 
 Modelo de anuência do proprietário (disposição de dejetos no solo para fins agrícolas). *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art7_cpt_inc1_alii|Art. 7º, inciso I, alínea "i"]], [[#art7_cpt_inc2_alia|Art. 7º, inciso II, alínea "a"]], [[#art8_par2_inc4_alia|Art. 8º, § 2º, inciso IV, alínea "a"]], [[#art9_par1u_inc7|Art. 9º, parágrafo único, inciso VII]].)*
 
 ### ANEXO IV {#anexo4}
-Tags: #anuencia-proprietario
 
 Modelo de anuência do proprietário. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art8_par2_inc2_alia_ite3|Art. 8º, § 2º, inciso II, alínea "a", item 3]].)*
 

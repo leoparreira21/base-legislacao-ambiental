@@ -37,13 +37,11 @@ RESOLVE:
 
 ###### Art. 1º {#art1}
 
-Tags: #mineracao #recuperacao-ambiental #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Definir critérios administrativos para o licenciamento ambiental de atividades de mineração no Estado do Paraná.
 
 ###### Art. 2º {#art2}
 
-Tags: #mineracao #recuperacao-ambiental #licenciamento-ambiental #infracao-ambiental #recurso-hidrico
 
 **Art. 2º, caput** {#art2_cpt} As atividades de pesquisa, extração de areia, argila, saibro e cascalho nas áreas definidas em normas específicas, poderão ser licenciadas desde que obedecidos os procedimentos técnicos visando a recuperação e/ou reabilitação da área ao término da exploração do recurso mineral.
 
@@ -53,7 +51,6 @@ Tags: #mineracao #recuperacao-ambiental #licenciamento-ambiental #infracao-ambie
 
 ###### Art. 3º {#art3}
 
-Tags: #mineracao #recuperacao-ambiental #documentacao
 
 **Art. 3º, caput** {#art3_cpt} Para a recuperação da área de lavra deverá o empreendedor apresentar uma proposta de uso futuro da área nas seguintes modalidades:
 
@@ -67,13 +64,11 @@ Tags: #mineracao #recuperacao-ambiental #documentacao
 
 ###### Art. 4º {#art4}
 
-Tags: #mineracao #recuperacao-ambiental #vegetacao-nativa
 
 **Art. 4º, caput** {#art4_cpt} No caso onde ocorrer a necessidade de supressão de vegetação arbórea para instalação da atividade minerária, fica o empreendedor obrigado a efetuar a compensação por outra área, em dimensões não inferiores àquela explorada e que esteja situada na mesma bacia hidrográfica.
 
 ###### Art. 5º {#art5}
 
-Tags: #mineracao #recuperacao-ambiental
 
 **Art. 5º, caput** {#art5_cpt} Esta Portaria entra em vigor na data de sua publicação.
 

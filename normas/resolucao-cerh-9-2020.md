@@ -42,12 +42,10 @@ fonte: "Impressão de página da internet em PDF (4 páginas), enviada por Leo; 
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #area-critica #recurso-hidrico #cerh
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer diretrizes e critérios gerais para determinação de áreas críticas quanto ao uso de recursos hídricos de domínio do Estado do Paraná.
 
 ###### Art. 2º {#art2}
-Tags: #definicao #area-critica #alocacao-negociada #disponibilidade-hidrica #outorga
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução ficam estabelecidos os seguintes conceitos:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} área crítica: porção hidrográfica em que se identifica potencial conflito quanto ao uso de recursos hídricos, por indisponibilidade hídrica ou risco de comprometimento de sistemas de abastecimento público de água ou de contaminação de águas subterrâneas;
@@ -57,7 +55,6 @@ Tags: #definicao #area-critica #alocacao-negociada #disponibilidade-hidrica #out
 - **Art. 2º, caput, inciso V** {#art2_cpt_inc5} Declaração de Área Crítica – DAC: ato administrativo do Poder Outorgante que, após análise técnica, institui porção hidrográfica como crítica quanto ao uso de recursos hídricos.
 
 ###### Art. 3º {#art3}
-Tags: #area-critica #outorga #disponibilidade-hidrica #abastecimento-publico #agua-subterranea #vazao
 
 **Art. 3º, caput** {#art3_cpt} Enquadram-se no conceito de áreas críticas as situações em que:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} a soma das vazões outorgadas aos usuários e requeridas pelos que estão em processo de regularização na bacia ultrapassar a vazão máxima outorgável, conforme definido pelo Comitê de Bacia responsável ou pelo Poder Outorgante, onde não houver Comitê instalado;
@@ -67,7 +64,6 @@ Tags: #area-critica #outorga #disponibilidade-hidrica #abastecimento-publico #ag
 - **Art. 3º, caput, inciso V** {#art3_cpt_inc5} a vazão no posto de monitoramento fluviométrico de referência apresentar valores iguais ou inferiores a 50% da Q95, ou outro percentual determinado por estudo específico para a região.
 
 ###### Art. 4º {#art4}
-Tags: #area-critica #iat #comite-bacia #ministerio-publico #requerimento
 
 **Art. 4º, caput** {#art4_cpt} O processo de Declaração de Área Crítica (DAC) quanto ao uso de recursos hídricos, iniciar-se-á pelo Instituto Água e Terra, podendo também ser requerido:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} pelo Comitê de Bacia Hidrográfica;
@@ -80,12 +76,10 @@ Tags: #area-critica #iat #comite-bacia #ministerio-publico #requerimento
 **Art. 4º, § 2º** {#art4_par2} O formulário e o procedimento para requerimento de DAC, quanto ao uso de recursos hídricos, devem estar disponibilizados no site do Instituto Água e Terra.”
 
 ###### Art. 5º {#art5}
-Tags: #area-critica #iat #competencia
 
 **Art. 5º, caput** {#art5_cpt} Compete ao Instituto Água e Terra a análise dos requerimentos e a emissão da DAC, por portaria específica, declarando a porção hidrográfica ou hidrogeológica como área crítica quanto ao uso de recursos hídricos.
 
 ###### Art. 6º {#art6}
-Tags: #area-critica #outorga #comite-bacia #cadastro #regularizacao
 
 **Art. 6º, caput** {#art6_cpt} Para a análise dos requerimentos de DAC quanto ao uso dos recursos hídricos, deve ser considerado com relação à área em análise, no mínimo:
 - **Art. 6º, caput, inciso I** {#art6_cpt_inc1} municípios de abrangência;
@@ -98,7 +92,6 @@ Tags: #area-critica #outorga #comite-bacia #cadastro #regularizacao
 **Art. 6º, parágrafo único** {#art6_par1u} A identificação dos usos e intervenções em recursos hídricos por usuários não outorgados, podem ser feitas por campanhas de cadastramento e regularização, com a notificação para que regularizem o seu uso.
 
 ###### Art. 7º {#art7}
-Tags: #area-critica #abastecimento-publico #classificacao-corpo-agua #disponibilidade-hidrica
 
 **Art. 7º, caput** {#art7_cpt} Nos casos em que a análise dos requerimentos de DAC incidirem nas situações estabelecidas nos incisos [[#art3_cpt_inc1|I]] e [[#art3_cpt_inc2|II]] do [[#art3|artigo 3º]] desta Resolução, também deve ser considerada:
 - **Art. 7º, caput, inciso I** {#art7_cpt_inc1} a delimitação da área de contribuição a montante e/ou a jusante de um determinado ponto, devidamente identificado por coordenadas;
@@ -111,7 +104,6 @@ Tags: #area-critica #abastecimento-publico #classificacao-corpo-agua #disponibil
 - **Art. 7º, parágrafo único, alínea "b"** {#art7_par1u_alib} análise de disponibilidade de fontes alternativas.
 
 ###### Art. 8º {#art8}
-Tags: #area-critica #agua-subterranea #aquifero #poco #automonitoramento
 
 **Art. 8º, caput** {#art8_cpt} Nos casos de análise dos requerimentos de DAC contempladas nas situações constantes no inciso [[#art3_cpt_inc3|III]] do [[#art3|artigo 3º]] desta Resolução, deve-se observar:
 - **Art. 8º, caput, inciso I** {#art8_cpt_inc1} as unidades aquíferas;
@@ -123,7 +115,6 @@ Tags: #area-critica #agua-subterranea #aquifero #poco #automonitoramento
 - **Art. 8º, caput, inciso VII** {#art8_cpt_inc7} a execução de testes de produção simultânea, quando necessário.
 
 ###### Art. 9º {#art9}
-Tags: #area-critica #agua-subterranea #area-contaminada #potabilidade #valor-orientador
 
 **Art. 9º, caput** {#art9_cpt} Nos casos de análise dos requerimentos de DAC previstos no inciso [[#art3_cpt_inc4|IV]] do [[#art3|artigo 3º]] desta Resolução, também deve ser observado:
 - **Art. 9º, caput, inciso I** {#art9_cpt_inc1} as unidades aquíferas;
@@ -136,7 +127,6 @@ Tags: #area-critica #agua-subterranea #area-contaminada #potabilidade #valor-ori
 **Art. 9º, parágrafo único** {#art9_par1u} Pode o Instituto Água e Terra solicitar, no caso do [[#art9_cpt_inc3|inciso III deste artigo]], análises físico-químicas de água atualizadas em relação aos parâmetros por ele definidos, quando houver suspeita de contaminação em razão de atos praticados pelos usuários da água, às custas destes.
 
 ###### Art. 10 {#art10}
-Tags: #area-critica #disponibilidade-hidrica #vazao #abastecimento-publico
 
 **Art. 10, caput** {#art10_cpt} Nas análises dos requerimentos de DAC previstos no inciso [[#art3_cpt_inc5|V]] do [[#art3|artigo 3º]], também deve ser contemplado:
 - **Art. 10, caput, inciso I** {#art10_cpt_inc1} a delimitação da área de contribuição a montante e/ou jusante de um determinado ponto identificado por suas coordenadas;
@@ -146,7 +136,6 @@ Tags: #area-critica #disponibilidade-hidrica #vazao #abastecimento-publico
 - **Art. 10, caput, inciso V** {#art10_cpt_inc5} a análise da disponibilidade de fontes alternativas.
 
 ###### Art. 11 {#art11}
-Tags: #area-critica #conteudo-minimo #ato-administrativo
 
 **Art. 11, caput** {#art11_cpt} Na DAC deve constar no mínimo:
 - **Art. 11, caput, inciso I** {#art11_cpt_inc1} a justificativa da declaração, conforme as situações estabelecidas no [[#art3|artigo 3º]] desta Resolução;
@@ -156,7 +145,6 @@ Tags: #area-critica #conteudo-minimo #ato-administrativo
 - **Art. 11, caput, inciso V** {#art11_cpt_inc5} o parâmetro ou o conjunto de parâmetros físico-químicos que identifiquem a contaminação, quando aplicável.
 
 ###### Art. 12 {#art12}
-Tags: #area-critica #alocacao-negociada #outorga #comite-bacia #suspensao-outorga
 
 **Art. 12, caput** {#art12_cpt} Nos casos em que a DAC for emitida em razão das situações estabelecidas nos incisos [[#art3_cpt_inc1|I]], [[#art3_cpt_inc2|II]], [[#art3_cpt_inc3|III]] e [[#art3_cpt_inc5|V]] do [[#art3|artigo 3º]] desta Resolução, o Instituto Água e Terra em conjunto com o Comitê de Bacia Hidrográfica correspondente, convocará os usuários para elaborarem proposta de alocação negociada de recursos hídricos para fins de regularização em processos de outorga de direito.
 
@@ -175,36 +163,30 @@ Tags: #area-critica #alocacao-negociada #outorga #comite-bacia #suspensao-outorg
 **Art. 12, § 5º** {#art12_par5} Quando a DAC for emitida em razão da situação descrita no inciso [[#art3_cpt_inc5|V]] do [[#art3|artigo 3º]] desta Resolução, o Instituto Água e Terra emitirá Portaria Temporária com os novos parâmetros estabelecidos pelas metas acordadas na alocação negociada, ficando suspensos os efeitos das outorgas de direito de uso de recursos hídricos concedidos antes da publicação da DAC, durante a sua validade.
 
 ###### Art. 13 {#art13}
-Tags: #area-critica #agua-subterranea #suspensao-outorga #iat
 
 **Art. 13, caput** {#art13_cpt} Nos casos descritos no [[#art3_cpt_inc4|art. 3º, inciso IV]], o Instituto Água e Terra deverá comunicar aos usuários de recursos hídricos, para que apresentem comprovação da qualidade da água em relação à(s) substância(s) identificada(s), de acordo com os usos.
 
 **Art. 13, parágrafo único** {#art13_par1u} O Instituto Água e Terra suspenderá, parcial ou totalmente, as outorgas de direito ou novas captações subterrâneas, desde que não se comprove a qualidade da água para o uso pretendido, superando-se o fato que determinou a restrição do uso da água.
 
 ###### Art. 14 {#art14}
-Tags: #area-critica #enquadramento #classe-3 #comite-bacia #cerh
 
 **Art. 14, caput** {#art14_cpt} Nas bacias em que for publicada a DAC, para fins de aplicação dos instrumentos de outorgas prévia e de direito de uso de recursos hídricos de domínio do Estado do Paraná, compete ao Instituto Água e Terra enquadrar transitoriamente os cursos d’água nos casos em que não houver classificação pelo Comitê de Bacia Hidrográficae pelo Conselho Estadual de Recursos Hídricos, definindo metas progressivas para atingir a Classe 3 (três) até o ano de 2.040.
 
 **Art. 14, parágrafo único** {#art14_par1u} Permanecerá válido o disposto no [[#art12_par5|§ 5º do artigo 12]] até que o Comitê de Bacia Hidrográfica e o Conselho Estadual de Recursos Hídricos deliberem sobre o enquadramento.
 
 ###### Art. 15 {#art15}
-Tags: #area-critica #cobranca-uso-agua #outorga #vazao
 
 **Art. 15, caput** {#art15_cpt} Os parâmetros estabelecidos na portaria temporária deverão ser considerados na cobrança pelo direito de uso de recursos hídricos, com a finalidade de manter a proporcionalidade com a vazão outorgada.
 
 ###### Art. 16 {#art16}
-Tags: #area-critica #iat #publicacao
 
 **Art. 16, caput** {#art16_cpt} O Instituto Água e Terra elaborará inventário identificando as áreas críticas e o disponibilizará em seu endereço eletrônico.
 
 ###### Art. 17 {#art17}
-Tags: #direito-transicao #outorga #processo-administrativo
 
 **Art. 17, caput** {#art17_cpt} O Instituto Água e Terra adotará, quando couber, os procedimentos previstos nesta Resolução na análise dos processos de outorga que se encontram em andamento.
 
 ###### Art. 18 {#art18}
-Tags: #vigencia
 
 **Art. 18, caput** {#art18_cpt} Esta Resolução entra em vigor na data de sua publicação.
 

@@ -56,14 +56,12 @@ CONSIDERANDO:
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #energia-eolica #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer definições, critérios, diretrizes e procedimentos para o licenciamento ambiental de empreendimentos de geração de energia elétrica a partir de fonte eólica.
 
 ## CAPÍTULO I – DAS DEFINIÇÕES {#cap1}
 
 ###### Art. 2º {#art2}
-Tags: #energia-eolica #eia-rima #licenciamento-ambiental #definicao #monitoramento #pca
 
 **Art. 2º, caput** {#art2_cpt} Para efeito desta Resolução consideram-se as seguintes definições:
 
@@ -95,7 +93,6 @@ Tags: #energia-eolica #eia-rima #licenciamento-ambiental #definicao #monitoramen
 ### Seção I – Dos Atos administrativos {#cap2_sec1}
 
 ###### Art. 3º {#art3}
-Tags: #condicionante #licenciamento-ambiental #energia-eolica #las #lp #li
 
 **Art. 3º, caput** {#art3_cpt} O órgão licenciador, no âmbito do licenciamento de empreendimentos de geração de energia elétrica a partir de fonte eólica, e no exercício de suas atribuições, expedirá os seguintes atos administrativos:
 
@@ -107,19 +104,16 @@ Tags: #condicionante #licenciamento-ambiental #energia-eolica #las #lp #li
 - **Art. 3º, caput, inciso VI** {#art3_cpt_inc6} Licença de Operação (LO): autoriza a operação da atividade ou empreendimento, após a verificação do efetivo cumprimento do que consta das licenças anteriores, com as medidas de controle ambientais e condicionantes determinados para a operação.
 
 ###### Art. 4º {#art4}
-Tags: #documentacao
 
 **Art. 4º, caput** {#art4_cpt} Os atos administrativos listados no [[#art3|Artigo 3º]] serão expedidos por meio de sistema eletrônico, mediante cadastramento do requerente como usuário ambiental, prestação das informações referente ao empreendimento e a apresentação da documentação solicitada.
 
 ###### Art. 5º {#art5}
-Tags: #energia-eolica #licenciamento-ambiental
 
 **Art. 5º, caput** {#art5_cpt} Os empreendedores de geração de energia elétrica a partir de fonte eólica, ao submeterem seus empreendimentos ao licenciamento ambiental perante o órgão estadual competente deverão prestar as informações técnicas sobre o mesmo, conforme estabelecem os termos da legislação aplicável e pelos procedimentos definidos nesta Resolução.
 
 ### Seção II – Da Definição do Porte, Tipo de Licenciamento e de Estudo Ambiental {#cap2_sec2}
 
 ###### Art. 6º {#art6}
-Tags: #energia-eolica #licenciamento-ambiental #eia-rima #enquadramento #lp #li
 
 **Art. 6º, caput** {#art6_cpt} A definição da modalidade de licenciamento ambiental a que serão submetidos os empreendimentos de geração de energia elétrica a partir de fonte eólica obedecerá às seguintes condições:
 
@@ -137,29 +131,24 @@ Tags: #energia-eolica #licenciamento-ambiental #eia-rima #enquadramento #lp #li
 P ≥ 10 EIA/RIMA LP, LI, LO
 
 ###### Art. 7º {#art7}
-Tags: #energia-eolica #licenciamento-ambiental #dispensa
 
 **Art. 7º, caput** {#art7_cpt} Nos casos de implantação de empreendimento eólico com potência menor ou igual a 0,1 MW em local coberto por rede pública de energia deverá ser requerida a Dispensa de Licenciamento Ambiental Estadual.
 
 ###### Art. 8º {#art8}
-Tags: #las #pca #energia-eolica #licenciamento-ambiental
 
 **Art. 8º, caput** {#art8_cpt} Nos casos de implantação de empreendimento eólico com potência menor ou igual a 0,1 MW em local não coberto por rede pública de energia deverá ser requerida a Licença Ambiental Simplificada – LAS com apresentação de Plano de Controle Ambiental - PCA.
 
 ###### Art. 9º {#art9}
-Tags: #eia-rima #energia-eolica #responsavel-tecnico #enquadramento
 
 **Art. 9º, caput** {#art9_cpt} Será exigido a apresentação de Estudo de Impacto Ambiental e Relatório de Impacto Ambiental (EIA/RIMA), além de audiências públicas, os empreendimentos eólicos enquadrados nos incisos do § 3.º do [[#art3|Art.3]].º da Resolução CONAMA nº 462 de 2014.
 
 ###### Art. 10 {#art10}
-Tags: #eia-rima #energia-eolica #licenciamento-ambiental #lp #li #lo
 
 **Art. 10, caput** {#art10_cpt} .Nos casos de empreendimentos eólicos em que a potência instalada for superior a 10 MW, será exigido licenciamento ambiental completo (LP, LI e LO), com apresentação de EIA/RIMA, conforme preconizado na [[resolucao-conama-1-1986|Resolução CONAMA nº 01/86]].
 
 ### Seção III – Da Repotenciação de Empreendimentos Eólicos {#cap2_sec3}
 
 ###### Art. 11 {#art11}
-Tags: #energia-eolica #eia-rima #porte #autorizacao-ambiental #responsavel-tecnico
 
 **Art. 11, caput** {#art11_cpt} Nos casos de repotenciação de Empreendimentos Eólicos deverão ser consideradas as seguintes situações:
 
@@ -172,7 +161,6 @@ Tags: #energia-eolica #eia-rima #porte #autorizacao-ambiental #responsavel-tecni
 #### Subseção I – Documentação Básica {#cap2_sec4_subsec1}
 
 ###### Art. 12 {#art12}
-Tags: #dispensa #licenciamento-ambiental #energia-eolica #taxa-ambiental #requerimento #responsavel-tecnico
 
 **Art. 12, caput** {#art12_cpt} Para os empreendimentos elegíveis conforme Quadro 1, na Seção II, o requerente deverá solicitar a Declaração de Dispensa de Licenciamento Ambiental Estadual – DLAE mediante apresentação dos seguintes documentos:
 
@@ -186,7 +174,6 @@ Tags: #dispensa #licenciamento-ambiental #energia-eolica #taxa-ambiental #requer
 **Art. 12, § 2º** {#art12_par2} A Dispensa de Licenciamento Ambiental Estadual não exime o interessado das exigências legais quanto à preservação do meio ambiente, bem como obtenção de alvarás e atendimento a outras exigências municipais.
 
 ###### Art. 13 {#art13}
-Tags: #autorizacao-ambiental #requerimento #taxa-ambiental #energia-eolica #licenciamento-ambiental
 
 **Art. 13, caput** {#art13_cpt} O órgão licenciador expedirá Autorização Ambiental - AA aos empreendimentos elegíveis conforme Seção II, devendo o empreendedor efetuar o requerimento mediante apresentação dos seguintes documentos:
 
@@ -196,7 +183,6 @@ Tags: #autorizacao-ambiental #requerimento #taxa-ambiental #energia-eolica #lice
 - **Art. 13, caput, inciso IV** {#art13_cpt_inc4} comprovante de recolhimento da Taxa Ambiental, conforme tabelas II, e IV (inspeção florestal, e autorização, respectivamente) da [[lei-estadual-10233-1992|Lei Estadual nº 10.233/92]] que institui a Taxa Ambiental ou outra que vier a substituí-la.
 
 ###### Art. 14 {#art14}
-Tags: #las #requerimento #licenciamento-ambiental #documentacao #responsavel-tecnico #publicacao-dioe
 
 **Art. 14, caput** {#art14_cpt} Os empreendimentos que por sua classificação conforme Seção II, necessitarem fazer a solicitação de Licença Ambiental Simplificada – LAS deverão instruir o requerimento mediante a apresentação dos os seguintes documentos:
 
@@ -218,12 +204,10 @@ Tags: #las #requerimento #licenciamento-ambiental #documentacao #responsavel-tec
 - **Art. 14, caput, inciso XVI** {#art14_cpt_inc16} Anuência dos proprietários dos imóveis afetados pelo empreendimento, conforme [[#anexo2|ANEXO II]].
 
 ###### Art. 15 {#art15}
-Tags: #las #supressao-vegetacao #licenciamento-ambiental
 
 **Art. 15, caput** {#art15_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença Ambiental Simplificada – LAS somente poderá ser emitida acompanhada da respectiva Autorização Florestal.
 
 ###### Art. 16 {#art16}
-Tags: #licenciamento-ambiental #las #publicacao-dioe #rlas #renovacao #requerimento
 
 **Art. 16, caput** {#art16_cpt} Para a Renovação da Licença Ambiental Simplificada - RLAS o empreendedor deverá protocolar os seguintes documentos:
 
@@ -235,12 +219,10 @@ Tags: #licenciamento-ambiental #las #publicacao-dioe #rlas #renovacao #requerime
 - **Art. 16, caput, inciso VI** {#art16_cpt_inc6} relatório de Automonitoramento Ambiental.
 
 ###### Art. 17 {#art17}
-Tags: #lp #li #lo #documentacao
 
 **Art. 17, caput** {#art17_cpt} Os empreendimentos que por suas características necessitarem fazer o licenciamento completo (LP, LI e LO), dependerão obrigatoriamente da apresentação da documentação listada na sequência:
 
 ###### Art. 18 {#art18}
-Tags: #lp #requerimento #licenciamento-ambiental #outorga #publicacao-dioe #iphan
 
 **Art. 18, caput** {#art18_cpt} Os requerimentos de Licença Prévia - LP deverão ser protocolados por meio de sistema eletrônico mediante apresentação de:
 
@@ -259,7 +241,6 @@ Tags: #lp #requerimento #licenciamento-ambiental #outorga #publicacao-dioe #ipha
 - **Art. 18, caput, inciso XIII** {#art18_cpt_inc13} em caso de necessidade de supressão florestal, deve haver uma análise integrada do licenciamento e o requerente deverá apresentar o Relatório de Caracterização da Flora, de acordo com a [[resolucao-conama-2-1994|Resolução CONAMA 02/94]].
 
 ###### Art. 19 {#art19}
-Tags: #lp #requerimento #publicacao-dioe #licenciamento-ambiental #prazo #energia-eolica
 
 **Art. 19, caput** {#art19_cpt} Os requerimentos de Prorrogação da Licença Prévia - PLP desde que essa prorrogação não ultrapasse o prazo máximo estabelecido no Anexo III da [[resolucao-cema-107-2020|Resolução CEMA nº 107/2020]], deverão ser protocolados por meio de sistema eletrônico mediante apresentação de:
 
@@ -270,7 +251,6 @@ Tags: #lp #requerimento #publicacao-dioe #licenciamento-ambiental #prazo #energi
 - **Art. 19, caput, inciso V** {#art19_cpt_inc5} prova de publicação de súmula do requerimento de Prorrogação da Licença Ambiental Prévia - LP em jornal de circulação regional e no Diário Oficial do Estado, ou em sistema eletrônico do órgão ambiental competente mediante pagamentos das custas, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006/86]].
 
 ###### Art. 20 {#art20}
-Tags: #requerimento #li #publicacao-dioe #licenciamento-ambiental #supressao-vegetacao #responsavel-tecnico
 
 **Art. 20, caput** {#art20_cpt} Os requerimentos de Licença de instalação - LI deverão ser protocolados por meio de sistema eletrônico mediante apresentação de:
 
@@ -290,12 +270,10 @@ Tags: #requerimento #li #publicacao-dioe #licenciamento-ambiental #supressao-veg
 - **Art. 20, caput, inciso XIV** {#art20_cpt_inc14} anuência dos proprietários afetados pelo empreendimento, conforme [[#anexo2|ANEXO II]];
 
 ###### Art. 21 {#art21}
-Tags: #supressao-vegetacao #li
 
 **Art. 21, caput** {#art21_cpt} Quando necessário o corte ou supressão de vegetação nativa, a Licença de Instalação somente poderá ser emitida acompanhada da respectiva Autorização Florestal.
 
 ###### Art. 22 {#art22}
-Tags: #requerimento #li #publicacao-dioe #licenciamento-ambiental #prazo #energia-eolica
 
 **Art. 22, caput** {#art22_cpt} Os requerimentos de Prorrogação de Licença de Instalação – PLI, desde que essa prorrogação não ultrapasse o prazo máximo estabelecido no Anexo III da [[resolucao-cema-107-2020|Resolução CEMA nº 107/2020]], deverão ser protocolados por meio de sistema eletrônico mediante apresentação de:
 
@@ -309,7 +287,6 @@ Tags: #requerimento #li #publicacao-dioe #licenciamento-ambiental #prazo #energi
 - **Art. 22, caput, inciso VIII** {#art22_cpt_inc8} apresentação de autorização, em vigor, para manejo (estudos e resgate) da fauna emitida pelo órgão competente.
 
 ###### Art. 23 {#art23}
-Tags: #lo #requerimento #responsavel-tecnico #publicacao-dioe #licenciamento-ambiental #energia-eolica
 
 **Art. 23, caput** {#art23_cpt} Os requerimentos de Licença de Operação - LO deverão ser protocolados por meio de sistema eletrônico mediante apresentação de:
 
@@ -324,7 +301,6 @@ Tags: #lo #requerimento #responsavel-tecnico #publicacao-dioe #licenciamento-amb
 - **Art. 23, caput, inciso IX** {#art23_cpt_inc9} laudo de conclusão/situação de obra, acompanhado de material fotográfico, elaborado por profissional com a devida anotação de responsabilidade técnica – ART.
 
 ###### Art. 24 {#art24}
-Tags: #lo #requerimento #renovacao #publicacao-dioe #licenciamento-ambiental #rlo
 
 **Art. 24, caput** {#art24_cpt} Os requerimentos de Renovação de Licença de Operação - RLO deverão ser protocolados por meio de sistema eletrônico mediante apresentação de:
 
@@ -338,7 +314,6 @@ Tags: #lo #requerimento #renovacao #publicacao-dioe #licenciamento-ambiental #rl
 #### Subseção II – Documentação Complementar {#cap2_sec4_subsec2}
 
 ###### Art. 25 {#art25}
-Tags: #licenciamento-ambiental #las #pca
 
 **Art. 25, caput** {#art25_cpt} O licenciamento ambiental de empreendimento com potência maior que 0,1 MW e menor ou igual a 5 MW deverá ser requerido mediante apresentação, além daqueles listados na Subseção I, os seguintes documentos:
 
@@ -346,7 +321,6 @@ Tags: #licenciamento-ambiental #las #pca
   - **Art. 25, caput, inciso I, alínea "a"** {#art25_cpt_inc1_alia} Plano de Controle Ambiental – PCA.
 
 ###### Art. 26 {#art26}
-Tags: #licenciamento-ambiental #lp #li
 
 **Art. 26, caput** {#art26_cpt} O licenciamento ambiental de empreendimento com potência maior que 5 MW e menor que 10 MW deverá ser requerido mediante apresentação, além daqueles listados na Subseção I, os seguintes documentos:
 
@@ -356,7 +330,6 @@ Tags: #licenciamento-ambiental #lp #li
   - **Art. 26, caput, inciso II, alínea "a"** {#art26_cpt_inc2_alia} Relatório de Detalhamento dos Programas Ambientais – RDPA;
 
 ###### Art. 27 {#art27}
-Tags: #eia-rima #licenciamento-ambiental #lp #li #pba
 
 **Art. 27, caput** {#art27_cpt} O licenciamento ambiental de empreendimento com potência maior ou igual a 10 MW deverá ser requerido mediante apresentação, além daqueles listados na Subseção I, os seguintes documentos:
 
@@ -368,7 +341,6 @@ Tags: #eia-rima #licenciamento-ambiental #lp #li #pba
 ### Seção V – Das Taxas Ambientais {#cap2_sec5}
 
 ###### Art. 28 {#art28}
-Tags: #licenciamento-ambiental #taxa-ambiental #energia-eolica #las #lp #publicacao-dioe
 
 **Art. 28, caput** {#art28_cpt} O licenciamento ambiental dos empreendimentos de geração de energia elétrica a partir de fonte eólica será protocolado e analisado pelo Instituto Água e Terra mediante pagamento de 3 (três) taxas (quando couber) a serem recolhidas quando da solicitação do licenciamento ambiental conforme estabelecido na resolução [[resolucao-cema-107-2020|CEMA n° 107/2020]] ou outra que venha a sucedê-la.
 
@@ -379,29 +351,24 @@ Tags: #licenciamento-ambiental #taxa-ambiental #energia-eolica #las #lp #publica
 ## CAPÍTULO III – DISPOSIÇÕES GERAIS {#cap3}
 
 ###### Art. 29 {#art29}
-Tags: #energia-eolica
 
 **Art. 29, caput** {#art29_cpt} No caso dos licenciamentos de empreendimentos de geração de energia elétrica a partir de fonte eólica que exijam apresentação do Relatório Ambiental Simplificado – RAS, sempre que julgar necessário, ou quando for solicitado por entidade civil, pelo Ministério Público, ou por pelo menos cinquenta pessoas maiores de dezoito anos, o órgão de meio ambiente promoverá Reunião Técnica Informativa, conforme preconiza a [[resolucao-conama-279-2001|Resolução CONAMA nº 279/2001]].
 
 ###### Art. 30 {#art30}
-Tags: #eia-rima #publicacao-dioe
 
 **Art. 30, caput** {#art30_cpt} O Instituto Água e Terra dará publicidade ao EIA/RIMA através de edital de entrada que será publicado no Diário Oficial do Estado e disponibilizado em seu sítio eletrônico.
 
 **Art. 30, parágrafo único** {#art30_par1u} Os ritos e procedimentos relativos às Audiências Públicas seguirão o preconizado nas Resoluções [[resolucao-conama-1-1986|CONAMA nº 01/1986]] e [[resolucao-conama-9-1987|CONAMA nº 09/1987]].
 
 ###### Art. 31 {#art31}
-Tags: #las #licenciamento-ambiental #autorizacao-ambiental #monitoramento
 
 **Art. 31, caput** {#art31_cpt} Os empreendimentos que estejam sujeitos à Licença Ambiental Simplificada – LAS, somente estarão aptos a se instalarem após o deferimento da Autorização Ambiental para Resgate, Manejo e Monitoramento de Fauna, conforme disposto na Portaria IAP Nº 97 DE 29/05/2012 ou outra que venha substituí-la, quando aplicável.
 
 ###### Art. 32 {#art32}
-Tags: #li #lp #lo #licenciamento-trifasico #autorizacao-ambiental #monitoramento
 
 **Art. 32, caput** {#art32_cpt} Os empreendimentos que estejam sujeitos ao licenciamento trifásico (LP, LI e LO), somente terão a emissão da Licença de Instalação – LI emitida de forma concomitante ou posteriormente ao deferimento da solicitação de Autorização Florestal e Autorização Ambiental para Resgate, Manejo e Monitoramento de Fauna, conforme disposto na Portaria IAP Nº 97 DE 29/05/2012 ou outra que venha substituí-la.
 
 ###### Art. 33 {#art33}
-Tags: #validade #prazo
 
 **Art. 33, caput** {#art33_cpt} Os prazos de validade de cada ato administrativo serão estabelecidos pelo órgão ambiental competente, especificando-os no respectivo documento, com base no disposto na [[resolucao-cema-107-2020|Resolução CEMA nº 107/2020]] ou outra que venha a substituí-la.
 
@@ -410,17 +377,14 @@ Tags: #validade #prazo
 **Art. 34, caput** {#art34_cpt} Os empreendimentos, independente da modalidade de licenciamento, devem respeitar os níveis sonoros estabelecidos pelas legislações municipais ou normas técnicas específicas.
 
 ###### Art. 35 {#art35}
-Tags: #energia-eolica #licenciamento-ambiental #residuo-solido #requerimento
 
 **Art. 35, caput** {#art35_cpt} Para manutenção dos Empreendimentos Eólicos não será necessário o requerimento de licenciamento ambiental, no entanto, os resíduos gerados deverão ser destinados corretamente em locais licenciados.
 
 ###### Art. 36 {#art36}
-Tags: #supressao-vegetacao #autorizacao-ambiental
 
 **Art. 36, caput** {#art36_cpt} Para abertura de novos acessos, que impliquem em supressão de vegetação nativa, será necessária a respectiva Autorização Ambiental.
 
 ###### Art. 37 {#art37}
-Tags: #energia-eolica #licenciamento-ambiental
 
 **Art. 37, caput** {#art37_cpt} Quando a licença ambiental contemplar mais de um parque eólico de um mesmo complexo, os mesmos deverão ser identificados e as características individuais de cada parque eólico deverão constar da licença ambiental.
 
@@ -437,22 +401,18 @@ Tags: #energia-eolica #licenciamento-ambiental
 **Art. 40, caput** {#art40_cpt} Para os casos excepcionais envolvendo procedimentos de imóveis e, não contemplados nesta Resolução, deverão estar em conformidade com as hipóteses dos Artigos 45 a 54 da [[resolucao-cema-107-2020|Resolução CEMA nº 107/2020]].
 
 ###### Art. 41 {#art41}
-Tags: #responsavel-tecnico #iphan
 
 **Art. 41, caput** {#art41_cpt} Quando da necessidade da manifestação de órgãos intervenientes externos ao órgão licenciador, tais como FUNAI, INCRA, IPHAN, ICMBio, CEPHA, DNIT, DER, entre outros, será seguido o procedimento conforme estabelece os [[#art11|art. 11]],12 e 13 da [[resolucao-cema-107-2020|Resolução CEMA nº107/2020]].
 
 ###### Art. 42 {#art42}
-Tags: #licenciamento-ambiental #enquadramento
 
 **Art. 42, caput** {#art42_cpt} O empreendedor que no âmbito do licenciamento ambiental elaborar ou apresentar, no licenciamento, concessão florestal ou qualquer outro procedimento administrativo, estudo, laudo ou relatório ambiental total ou parcialmente falso ou enganoso, inclusive por omissão, será enquadrado conforme disposto na [[lei-federal-9605-1998|Lei Federal 9.605 de 12 de fevereiro de 1998]].
 
 ###### Art. 43 {#art43}
-Tags: #enquadramento #casos-omissos
 
 **Art. 43, caput** {#art43_cpt} Os casos omissos nesta resolução serão analisados pelo IAT e enquadrados na legislação ambiental vigente conforme as características particulares de cada empreendimento.
 
 ###### Art. 44 {#art44}
-Tags: #publicacao-dioe
 
 **Art. 44, caput** {#art44_cpt} Esta Resolução entrará em vigor na data de sua publicação.
 
@@ -468,12 +428,10 @@ Tags: #publicacao-dioe
 > Tipos conforme as regras de anexos do README: **tipo 1** (modelos) só com o nome. Esta Resolução não tem anexo dos tipos 2 e 3.
 
 ### ANEXO I {#anexo1}
-Tags: #declaracao-ciencia
 
 Modelo de declaração de ciência. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art18_cpt_inc12|Art. 18, inciso XII]].)*
 
 ### ANEXO II {#anexo2}
-Tags: #declaracao-anuencia
 
 Modelo de declaração de anuência. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art14_cpt_inc16|Art. 14, inciso XVI]], [[#art20_cpt_inc14|Art. 20, inciso XIV]].)*
 

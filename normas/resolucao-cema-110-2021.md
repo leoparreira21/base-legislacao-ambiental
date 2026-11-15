@@ -33,12 +33,10 @@ fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé tra
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #licenciamento-municipal #impacto-local #tipologia
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer critérios, procedimentos e tipologias de atividades, empreendimentos e obras que causem ou possam causar impacto ambiental de âmbito local, considerando os critérios de porte, potencial poluidor e natureza da atividade, para fins de licenciamento, monitoramento e fiscalização ambiental pelos órgãos municipais de meio ambiente, de acordo com o Anexo I, integrante da presente Resolução.
 
 ###### Art. 2º {#art2}
-Tags: #definicao #impacto-local
 
 **Art. 2º, caput** {#art2_cpt} Para os efeitos desta Resolução, adotam-se, além das definições constantes do [[#art2|artigo 2º]] da Lei Complementar Federal nº 140/11, as seguintes:
 - **Art. 2º, caput, inciso I** {#art2_cpt_inc1} Órgão ambiental municipal capacitado: aquele que possui quadro de profissionais próprios, colocados à sua disposição ou contratados através de consórcios públicos, legalmente habilitados para a análise de pedidos de licenciamento, monitoramento e fiscalização ambiental, compatível com a demanda das ações administrativas, além de infra-estrutura, equipamentos e material de apoio, próprio ou disponibilizado, para o adequado exercício de suas competências;
@@ -47,7 +45,6 @@ Tags: #definicao #impacto-local
 - **Art. 2º, caput, inciso IV** {#art2_cpt_inc4} certificado ambiental: ato declaratório emitido pelo Presidente do Conselho Estadual do Meio Ambiente que atesta o cumprimento integral dos requisitos previstos na presente Resolução no que concerne ao órgão público ambiental Municipal capacitado.
 
 ###### Art. 3º {#art3}
-Tags: #licenciamento-municipal #municipio-capacitado #conselho-municipal
 
 **Art. 3º, caput** {#art3_cpt} Para o exercício do licenciamento ambiental, consideram-se capacitados os municípios que disponham de:
 - **Art. 3º, caput, inciso I** {#art3_cpt_inc1} Conselho Municipal de Meio Ambiente, instância colegiada normativa, consultiva e deliberativa, de composição paritária, devidamente implementado e em funcionamento;
@@ -76,7 +73,6 @@ Tags: #licenciamento-municipal #municipio-capacitado #conselho-municipal
 **Art. 3º, § 8º** {#art3_par8} A insuficiência de equipe técnica habilitada mínima à disposição do órgão ambiental municipal estabelecida em conformidade com o Anexo I, conforme parecer técnico fundamentado emitido pelo IAT, acarretará o reconhecimento da incapacidade do órgão ambiental para exercício parcial ou total das ações correspondentes, e a consequente instauração da competência supletiva do Estado para o licenciamento das atividades.
 
 ###### Art. 4º {#art4}
-Tags: #licenciamento-municipal #municipio-capacitado #cema
 
 **Art. 4º, caput** {#art4_cpt} Os Municípios apresentarão ao Conselho Estadual do Meio Ambiente - CEMA a comprovação do cumprimento do disposto no [[#art3|artigo 3º]] Resolução, demonstrando estarem capacitados para exercer as competências administrativas de licenciamento, monitoramento e fiscalização ambiental.
 
@@ -89,7 +85,6 @@ Tags: #licenciamento-municipal #municipio-capacitado #cema
 **Art. 4º, § 3º** {#art4_par3} O CEMA dará conhecimento dos Certificados Ambientais emitidos para os Municípios ao Instituto Água e Terra, IBAMA, Câmaras Municipais e o Ministério Público (Estadual e Federal), sem prejuízo da publicação no D.I.O.E, bem como no sitio eletrônico oficial do CEMA/SEDEST.
 
 ###### Art. 5º {#art5}
-Tags: #sistema-informacao-ambiental #municipio-capacitado
 
 **Art. 5º, caput** {#art5_cpt} O município deverá implementar o Sistema Municipal de Informações Ambientais de acordo com a [[lei-federal-10650-2003|Lei Federal nº. 10.650/2003]], podendo aderir o Sistema de Gestão Ambiental e outras plataformas ou ferramentas que auxiliem na sua instrumentalização e operacionalização.
 - **Art. 5º, caput, inciso I** {#art5_cpt_inc1} caso o município opte por aderir ao SGA do órgão ambiental estadual - IAT , será disponibilizado o devido acesso ao Sistema, bem como, será auxiliado na implantação do sistema no município e capacitará os técnicos municipais na sua utilização;
@@ -98,44 +93,36 @@ Tags: #sistema-informacao-ambiental #municipio-capacitado
   - **Art. 5º, caput, inciso II, alínea "b"** {#art5_cpt_inc2_alib} os dados mínimos a serem integrados, bem como os dados específicos de emissões atmosféricas, resíduos sólidos e efluentes líquidos, serão definidos em resolução específica.
 
 ###### Art. 6º {#art6}
-Tags: #municipio-capacitado #iat
 
 **Art. 6º, caput** {#art6_cpt} Sempre que houver alteração dos grupos técnicos, deve ser comunicado ao IAT e a certificação será revista, devendo o órgão ambiental paralisar o licenciamento ambiental na hipótese de não contar com profissionais habilitados.
 
 ###### Art. 7º {#art7}
-Tags: #outorga #licenciamento-municipal
 
 **Art. 7º, caput** {#art7_cpt} O licenciamento ambiental municipal deverá observar as normas quanto à outorga de uso de água, de competência do Instituto Água e Terra, bem como observar, as restrições das Áreas Estratégicas para a Conservação da Biodiversidade e do interior e entorno das Unidades de Conservação e corredores ecológicos, áreas de proteção de mananciais e demais normas pertinentes.
 
 ###### Art. 8º {#art8}
-Tags: #licenciamento-municipal #competencia
 
 **Art. 8º, caput** {#art8_cpt} Nas hipóteses em que há requerimentos de licenciamento ambiental para mais de uma atividade ou empreendimento sobre a responsabilidade do mesmo empreendedor e em um mesmo local, e que uma das tipologias objeto do licenciamento não conste do Anexo I desta Resolução, a condução do licenciamento ambiental será do órgão ambiental estadual de todas as atividades ou empreendimento.
 
 ###### Art. 9º {#art9}
-Tags: #licenciamento-municipal #competencia
 
 **Art. 9º, caput** {#art9_cpt} Nas hipóteses de requerimentos de licenciamento ambiental para ampliação de uma atividade ou empreendimento que altere o porte/classificação que estejam estabelecidos no Anexo I, a condução do licenciamento será do órgão ambiental estadual de todas as atividades ou empreendimento.
 
 ###### Art. 10 {#art10}
-Tags: #licenciamento-municipal #competencia
 
 **Art. 10, caput** {#art10_cpt} Assumida a competência sobre o licenciamento ambiental pelo Município nos termos desta Resolução, ou de eventual convênio ou consórcio de delegação de competência, o ente municipal fica obrigado a conduzir até o final todos os licenciamentos de sua competência, podendo, eventualmente, o ente estadual auxiliar na ação subsidiária por meio de apoio técnico e científico.
 
 ###### Art. 11 {#art11}
-Tags: #licenciamento-municipal #transicao
 
 **Art. 11, caput** {#art11_cpt} Os procedimentos administrativos de licenciamento ambiental que estão em trâmite no Município, e que a partir desta Resolução passaram a ser de competência do IAT, serão conduzidos pelo Município até emissão da licença ambiental, condicionando na referida licença que a renovação da mesma será de competência do IAT.
 
 **Art. 11, parágrafo único** {#art11_par1u} Para as licenças já expedidas, o Município comunicará ao empreendedor que a renovação será de competência do IAT.
 
 ###### Art. 12 {#art12}
-Tags: #licenciamento-municipal #transicao #iat
 
 **Art. 12, caput** {#art12_cpt} Os procedimentos administrativos de licenciamento ambiental que estão em trâmite no IAT continuarão sob sua competência até decisão final, e os casos de licenciamento ambiental com Licença Prévia, Licença de Instalação e Licença de Operação, serão conduzidos pelo IAP até a primeira renovação da Licença de Operação.
 
 ###### Art. 13 {#art13}
-Tags: #licenciamento-municipal #competencia
 
 **Art. 13, caput** {#art13_cpt} Compete ao órgão responsável pelo licenciamento ou autorização, conforme o caso, de um empreendimento ou atividade, lavrar auto de infração ambiental e instaurar processo administrativo para a apuração de infração à legislação ambiental cometida pelo empreendimento ou atividade licenciada ou autorizada.
 
@@ -145,58 +132,48 @@ Tags: #licenciamento-municipal #competencia
 **Art. 13, § 2º** {#art13_par2} O disposto no caput deste artigo não impede o exercício pelos entes federativos da atribuição comum de fiscalização de conformidade com empreendimentos e atividades efetiva ou potencialmente poluidores ou utilizadores de recursos naturais com a legislação ambiental em vigor, prevalecendo o auto de infração ambiental lavrado por órgão que detenha a atribuição de licenciamento ou autorização a que se refere o caput.
 
 ###### Art. 14 {#art14}
-Tags: #cooperacao
 
 **Art. 14, caput** {#art14_cpt} Com vistas à utilização de esforços conjuntos deverão ser estimulados o planejamento e atuação conjunta de fiscalização pelos órgãos ambientais estaduais e municipais.
 
 ###### Art. 15 {#art15}
-Tags: #municipio-capacitado #relatorio
 
 **Art. 15, caput** {#art15_cpt} Caberá aos municípios encaminhar anualmente ao IAT e ao Conselho Estadual de Meio Ambiente, e sempre que solicitado, relatório circunstanciado a respeito do integral atendimento dos requisitos previstos nesta Resolução.
 
 **Art. 15, parágrafo único** {#art15_par1u} Juntamente com o Relatório Circunstanciado, ou a qualquer momento, os órgãos públicos municipais poderão solicitar a inclusão ou exclusão de tipologias previstas no escopo de sua competência, previsto no Anexo I.
 
 ###### Art. 16 {#art16}
-Tags: #licenciamento-municipal #municipio-capacitado
 
 **Art. 16, caput** {#art16_cpt} Os Municípios que exercem a gestão dos recursos ambientais e o licenciamento ambiental das atividades ou empreendimentos conforme tipologias definidas por esta Resolução, demonstrado interesse e comprovada a capacidade de licenciar além do estabelecido no Anexo I desta Resolução, poderão pleitear junto ao IAT o licenciamento ambiental de atividades ou empreendimentos, mediante delegação, na forma do Art.5º da Lei Complementar 140/2011.
 
 ###### Art. 17 {#art17}
-Tags: #consorcio-publico #cooperacao
 
 **Art. 17, caput** {#art17_cpt} O Município poderá valer-se de instrumentos de cooperação interinstitucional para a execução das ações administrativas regulamentadas pela presente Resolução, em especial os consórcios públicos com personalidade de direito público, observadas as disposições da [[lei-federal-11107-2005|Lei Federal nº 11.107, de 06 de abril de 2005]] e demais normas aplicáveis, bem como os convênios, acordos de cooperação técnica e demais instrumentos similares.
 - **Art. 17, caput, inciso I** {#art17_cpt_inc1} com relação aos consórcios, o Anexo II trata das etapas necessárias para criação de Consórcios Públicos, de acordo com a [[lei-federal-11107-2005|Lei 11.107, de 06 de abril de 2005]];
 - **Art. 17, caput, inciso II** {#art17_cpt_inc2} Anexo III trata do Acordão TCE sobre a criação de consórcios e suas implicações.
 
 ###### Art. 18 {#art18}
-Tags: #licenciamento-municipal #transicao #prazo
 
 **Art. 18, caput** {#art18_cpt} Os Municípios que estão exercendo a gestão dos recursos ambientais e o licenciamento ambiental das atividades ou empreendimentos conforme tipologias definidas pela Resolução CEMA n. º88/2013, deverão adequar-se a esta norma, no prazo de seis (06) meses, reapresentando toda a documentação constantes nesta Resolução.
 
 ###### Art. 19 {#art19}
-Tags: #iat #cema
 
 **Art. 19, caput** {#art19_cpt} Os casos omissos de maior complexidade quanto à atividade, porte e potencial poluidor serão instruídos pelo IAT, submetidos ao Conselho Estadual de Meio Ambiente –CEMA que decidirá e adotará as providências necessárias, inclusive atualização do Anexo I.
 
 **Art. 19, parágrafo único** {#art19_par1u} a cada 02 (dois) anos, ou sempre que necessário, será revisada a presente Resolução pelo CEMA.
 
 ###### Art. 20 {#art20}
-Tags: #cooperacao
 
 **Art. 20, caput** {#art20_cpt} As ações de cooperação entre os entes federativos deverão ser desenvolvidas de modo a garantir os objetivos previstos no [[#art3|art. 3º]] da Lei Complementar nº 140/2011 e fortalecer o SISNAMA, harmonizando e integrando todas as políticas governamentais.
 
 ###### Art. 21 {#art21}
-Tags: #publicidade
 
 **Art. 21, caput** {#art21_cpt} Os municípios deverão dar ampla publicidade dos atos administrativos pertinentes ao licenciamento, monitoramento e fiscalização ambiental, por meio de seus sítios eletrônicos oficiais de fácil acesso ao usuário.
 
 ###### Art. 22 {#art22}
-Tags: #revogacao
 
 **Art. 22, caput** {#art22_cpt} Revoga a Resolução CEMA n. º88/2013 e anexo.
 
 ###### Art. 23 {#art23}
-Tags: #vigencia
 
 **Art. 23, caput** {#art23_cpt} A presente Resolução entra em vigor na data de sua publicação.
 

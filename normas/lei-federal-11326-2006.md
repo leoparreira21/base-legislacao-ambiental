@@ -34,17 +34,14 @@ fonte: "Planalto (Presidência da República – Casa Civil), impressão do nave
 **Preâmbulo** {#preambulo} O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
 ###### Art. 1º {#art1}
-Tags: #agricultura-familiar
 
 **Art. 1º, caput** {#art1_cpt} Esta Lei estabelece os conceitos, princípios e instrumentos destinados à formulação das políticas públicas direcionadas à Agricultura Familiar e Empreendimentos Familiares Rurais.
 
 ###### Art. 2º {#art2}
-Tags: #agricultura-familiar
 
 **Art. 2º, caput** {#art2_cpt} A formulação, gestão e execução da Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais serão articuladas, em todas as fases de sua formulação e implementação, com a política agrícola, na forma da lei, e com as políticas voltadas para a reforma agrária.
 
 ###### Art. 3º {#art3}
-Tags: #agricultura-familiar
 Alterações: [[lei-federal-12512-2011|Lei nº 12.512, de 2011]] (nova redação: inciso III; incluído: § 2º, inciso V, § 2º, inciso VI); [[lei-federal-12058-2009|Lei nº 12.058, de 2009]] (incluído: § 3º, § 4º)
 
 **Art. 3º, caput** {#art3_cpt} Para os efeitos desta Lei, considera-se agricultor familiar e empreendedor familiar rural aquele que pratica atividades no meio rural, atendendo, simultaneamente, aos seguintes requisitos:
@@ -68,7 +65,6 @@ Alterações: [[lei-federal-12512-2011|Lei nº 12.512, de 2011]] (nova redação
 **Art. 3º, § 4º** {#art3_par4} #incluido Podem ser criadas linhas de crédito destinadas às cooperativas e associações que atendam a percentuais mínimos de agricultores familiares em seu quadro de cooperados ou associados e de matéria-prima beneficiada, processada ou comercializada oriunda desses agricultores, conforme disposto pelo CMN. *(Incluído pela [[lei-federal-12058-2009|Lei nº 12.058, de 2009]])*
 
 ###### Art. 4º {#art4}
-Tags: #agricultura-familiar
 
 **Art. 4º, caput** {#art4_cpt} A Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais observará, dentre outros, os seguintes princípios:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} descentralização;
@@ -77,7 +73,6 @@ Tags: #agricultura-familiar
 - **Art. 4º, caput, inciso IV** {#art4_cpt_inc4} participação dos agricultores familiares na formulação e implementação da política nacional da agricultura familiar e empreendimentos familiares rurais.
 
 ###### Art. 5º {#art5}
-Tags: #agricultura-familiar
 Alterações: [[lei-federal-14828-2024|Lei nº 14.828, de 2024]] (incluído: inciso XIII, inciso XIV)
 
 **Art. 5º, caput** {#art5_cpt} Para atingir seus objetivos, a Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais promoverá o planejamento e a execução das ações, de forma a compatibilizar as seguintes áreas:
@@ -97,12 +92,10 @@ Alterações: [[lei-federal-14828-2024|Lei nº 14.828, de 2024]] (incluído: inc
 - **Art. 5º, caput, inciso XIV** {#art5_cpt_inc14} #incluido inovação e desenvolvimento tecnológicos. *(Incluído pela [[lei-federal-14828-2024|Lei nº 14.828, de 2024]])*
 
 ###### Art. 6º {#art6}
-Tags:
 
 **Art. 6º, caput** {#art6_cpt} O Poder Executivo regulamentará esta Lei, no que for necessário à sua aplicação.
 
 ###### Art. 7º {#art7}
-Tags:
 
 **Art. 7º, caput** {#art7_cpt} Esta Lei entra em vigor na data de sua publicação .
 

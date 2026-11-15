@@ -35,17 +35,14 @@ fonte: "Planalto – texto da Lei nº 15.300/2025 impresso do navegador (4 pági
 **Preâmbulo** {#preambulo} O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
 ###### Art. 1º {#art1}
-Tags: #autorizacao-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Esta Lei dispõe sobre o licenciamento ambiental especial, com vistas à consecução eficiente e eficaz de atividades e de empreendimentos estratégicos, nos termos que especifica, e altera as Leis nºs 15.190, de 8 de agosto de 2025, e 13.116, de 20 de abril de 2015.
 
 ###### Art. 2º {#art2}
-Tags: #autorizacao-ambiental
 
 **Art. 2º, caput** {#art2_cpt} A Licença Ambiental Especial (LAE) é ato administrativo expedido pela autoridade licenciadora que estabelece condicionantes as quais deverão ser observadas e cumpridas pelo empreendedor para localização, instalação e operação de atividade ou de empreendimento estratégico, ainda que utilizador de recursos ambientais, efetiva ou potencialmente causador de significativa degradação do meio ambiente, nos termos do regulamento.
 
 ###### Art. 3º {#art3}
-Tags: #autorizacao-ambiental #prioridade
 
 **Art. 3º, caput** {#art3_cpt} O procedimento do licenciamento ambiental especial aplica-se a atividades ou a empreendimentos estratégicos, assim definidos em decreto mediante proposta bianual do Conselho de Governo, que dimensionará equipe técnica permanentemente dedicada à função, conforme regulamento.
 
@@ -54,7 +51,6 @@ Tags: #autorizacao-ambiental #prioridade
 **Art. 3º, § 2º** {#art3_par2} Deverá ser priorizada, pelas entidades e pelos órgãos públicos de qualquer esfera federativa, a emissão de anuências, de licenças, de autorizações, de certidões, de outorgas e de outros documentos necessários ao licenciamento ambiental especial.
 
 ###### Art. 4º {#art4}
-Tags: #autorizacao-ambiental #termo-referencia #eia-rima #audiencia-publica #autoridade-envolvida #consulta-previa
 
 **Art. 4º, caput** {#art4_cpt} O licenciamento ambiental especial observará os seguintes procedimentos:
 
@@ -70,12 +66,10 @@ Tags: #autorizacao-ambiental #termo-referencia #eia-rima #audiencia-publica #aut
 **Art. 4º, § 2º** {#art4_par2} A audiência pública de que trata o [[#art4_cpt_inc4|inciso IV]] do [[#art4_cpt|caput]] deste artigo é de caráter obrigatório e não substitui a exigência de consulta prévia, livre e informada a povos e comunidades tradicionais, conforme previsto na legislação e em tratados internacionais ratificados pelo Brasil.
 
 ###### Art. 5º {#art5}
-Tags: #autorizacao-ambiental #prazo
 
 **Art. 5º, caput** {#art5_cpt} O processo de licenciamento ambiental especial deverá respeitar o prazo máximo de 12 (doze) meses para análise e conclusão do processo, que poderá ser dividido em etapas, contado da entrega do estudo ambiental pertinente e das demais informações ou dos documentos requeridos na forma desta Lei.
 
 ###### Art. 6º {#art6}
-Tags: #via-urbana #prioridade
 
 **Art. 6º, caput** {#art6_cpt} São consideradas estratégicas as obras de reconstrução e de repavimentação de rodovias preexistentes cujos trechos representem conexões estratégicas relevantes na perspectiva da segurança nacional, do acesso a direitos sociais fundamentais e da integração entre unidades federativas, devendo ter sua prioridade reconhecida nos termos do art. [[#art3|3º]] desta Lei.
 
@@ -86,7 +80,6 @@ Tags: #via-urbana #prioridade
 **Art. 6º, § 3º** {#art6_par3} A análise conclusiva sobre as obras de que trata o [[#art6_cpt|caput]] deste artigo deverá ser concluída em até 90 (noventa) dias após o protocolo dos estudos pelo empreendedor.
 
 ###### Art. 7º {#art7}
-Tags: #licenciamento-ambiental
 
 **Art. 7º, caput** {#art7_cpt} A [[lei-federal-15190-2025|Lei nº 15.190, de 8 de agosto de 2025]], passa a vigorar com as seguintes alterações:
 
@@ -106,7 +99,6 @@ Tags: #licenciamento-ambiental
 > Art. 36. [...] [[lei-federal-15190-2025#art36_par1|§ 1º]] [...] [[lei-federal-15190-2025#art36_par2|§ 2º]] A tramitação dos processos em meio eletrônico deve promover a integração da autoridade licenciadora com as autoridades envolvidas, concentrando o fluxo de informações em sistema que ofereça uma interface unificada com o usuário. (NR)
 
 ###### Art. 8º {#art8}
-Tags: #licenciamento-ambiental
 
 **Art. 8º, caput** {#art8_cpt} O [[lei-federal-13116-2015#art7|art. 7º da Lei nº 13.116, de 20 de abril de 2015]], passa a vigorar acrescido do seguinte § 15:
 
@@ -114,12 +106,10 @@ Tags: #licenciamento-ambiental
 > Art. 7º [...] [[lei-federal-13116-2015#art7_par15|§ 15.]] Independem da manifestação da autoridade licenciadora as alterações na operação de instalações de radiodifusão ou de telecomunicações previamente licenciadas, incluídos o compartilhamento de excedente de infraestrutura e a instalação de estações de radiodifusão complementares, desde que essas alterações não incrementem os impactos ambientais negativos avaliados nas etapas anteriores do licenciamento ambiental, nos termos do [[lei-federal-15190-2025#art5_par5|§ 5º do art. 5º da Lei nº 15.190, de 8 de agosto de 2025]]. (NR)
 
 ###### Art. 9º {#art9}
-Tags: #licenciamento-ambiental
 
 **Art. 9º, caput** {#art9_cpt} Fica revogado o inciso III do caput do [[lei-federal-15190-2025#art22|art. 22 da Lei nº 15.190, de 8 de agosto de 2025]].
 
 ###### Art. 10 {#art10}
-Tags: #licenciamento-ambiental
 
 **Art. 10, caput** {#art10_cpt} Esta Lei entra em vigor na data de sua publicação.
 

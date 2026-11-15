@@ -34,7 +34,6 @@ fonte: "PDF de 2 páginas (Win2PDF), em papel timbrado da Secretaria de Estado d
 - **Considerando 4** {#preambulo_cons4} Considerando os trabalhos de acompanhamento e análise para a elaboração do PLERH/PR realizados pela Câmara Técnica para Acompanhamento do Plano Estadual de Recursos Hídricos - CTPLAN, e de sua aprovação do PLERH/PR na 11ª Reunião, em 16 de novembro de 2009, resolve:
 
 ###### Art. 1º {#art1}
-Tags: #plano-recursos-hidricos #cerh #evento-hidrologico-critico #disponibilidade-hidrica #monitoramento
 
 **Art. 1º, caput** {#art1_cpt} Aprovar o Plano Estadual de Recursos Hídricos, composto dos seguintes relatórios:
 - **Art. 1º, caput, inciso I** {#art1_cpt_inc1} Diagnóstico das Demandas Hídricas e das Disponibilidades Hídricas;
@@ -46,19 +45,16 @@ Tags: #plano-recursos-hidricos #cerh #evento-hidrologico-critico #disponibilidad
 - **Art. 1º, caput, inciso VII** {#art1_cpt_inc7} Indicadores de Avaliação e Monitoramento
 
 ###### Art. 2º {#art2}
-Tags: #plano-recursos-hidricos #aguasparana #camara-tecnica #revisao #prazo #cerh
 
 **Art. 2º, caput** {#art2_cpt} O Instituto das Águas do Paraná, em articulação com a Câmara Técnica para Acompanhamento do Plano Estadual de Recursos Hídricos - CTPLAN, deverá proceder à revisão do Plano a cada quatro anos, para orientar a elaboração dos Planos Plurianuais do Estado do Paraná e seus respectivos orçamentos anuais.
 
 **Art. 2º, parágrafo único** {#art2_par1u} A revisão de que trata o [[#art2_cpt|caput deste artigo]] será submetida à aprovação do Conselho Estadual de Recursos Hídricos.
 
 ###### Art. 3º {#art3}
-Tags: #plano-recursos-hidricos #aguasparana #publicacao
 
 **Art. 3º, caput** {#art3_cpt} Os relatórios do Plano Estadual de Recursos Hídricos, descritos no [[#art1|art. 1º]] desta Resolução, serão divulgados no sítio eletrônico do Instituto das Águas do Paraná.
 
 ###### Art. 4º {#art4}
-Tags: #vigencia
 
 **Art. 4º, caput** {#art4_cpt} Esta Resolução entra em vigor na data de sua publicação.
 

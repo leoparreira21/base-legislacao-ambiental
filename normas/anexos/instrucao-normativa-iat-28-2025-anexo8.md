@@ -19,7 +19,7 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo VIII, linha 1** {#anexo8_lin1} #art-anotacao O Projeto de Controle de Poluição Ambiental deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo VIII, linha 1** {#anexo8_lin1} O Projeto de Controle de Poluição Ambiental deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 - **Anexo VIII, linha 2** {#anexo8_lin2} 1 INFORMAÇÕES CADASTRAIS
 - **Anexo VIII, linha 3** {#anexo8_lin3} a) Razão social;
 - **Anexo VIII, linha 4** {#anexo8_lin4} b) Nome Fantasia;
@@ -30,12 +30,12 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo VIII, linha 9** {#anexo8_lin9} g) E–mail;
 - **Anexo VIII, linha 10** {#anexo8_lin10} h) Número de funcionários;
 - **Anexo VIII, linha 11** {#anexo8_lin11} i) Período de funcionamento.
-- **Anexo VIII, linha 12** {#anexo8_lin12} #cnae 2 TIPO (NATUREZA) DO ESTABELECIMENTO
+- **Anexo VIII, linha 12** {#anexo8_lin12} 2 TIPO (NATUREZA) DO ESTABELECIMENTO
 - **Anexo VIII, linha 13** {#anexo8_lin13} Indicar a tipologia do empreendimento e atividades a serem executadas conforme Classificação Nacional de Atividades Econômicas – CNAE.
-- **Anexo VIII, linha 14** {#anexo8_lin14} #ampliacao 3 SITUAÇÃO DO EMPREENDIMENTO
+- **Anexo VIII, linha 14** {#anexo8_lin14} 3 SITUAÇÃO DO EMPREENDIMENTO
 - **Anexo VIII, linha 15** {#anexo8_lin15} Indicar a situação atual do empreendimento (empreendimento novo, ampliação e(ou) reforma).
 - **Anexo VIII, linha 16** {#anexo8_lin16} Em caso de ampliação, apresentar o diagnóstico da situação atual do empreendimento indicando as áreas e sistemas que passarão por modificações e melhorias.
-- **Anexo VIII, linha 17** {#anexo8_lin17} #diagnostico-ambiental 4 CARACTERIZAÇÃO DA ÁREA
+- **Anexo VIII, linha 17** {#anexo8_lin17} 4 CARACTERIZAÇÃO DA ÁREA
 - **Anexo VIII, linha 18** {#anexo8_lin18} Apresentar a caracterização das áreas atuais do empreendimento, bem como das áreas previstas para as ampliações e(ou) reformas contendo no mínimo:
 - **Anexo VIII, linha 19** {#anexo8_lin19} a) Para empreendimentos novos:
 - **Anexo VIII, linha 20** {#anexo8_lin20} i. Área total;
@@ -47,54 +47,54 @@ fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserid
 - **Anexo VIII, linha 26** {#anexo8_lin26} c) Coordenadas em UTM;
 - **Anexo VIII, linha 27** {#anexo8_lin27} d) Tipo e característica do solo considerando o Sistema Brasileiro de Classificação de Solo da Embrapa, em sua versão mais atualizada;
 - **Anexo VIII, linha 28** {#anexo8_lin28} e) Topografia;
-- **Anexo VIII, linha 29** {#anexo8_lin29} #recurso-hidrico f) Recursos Hídricos (nascentes, olhos d’água, cursos d’água, etc.);
-- **Anexo VIII, linha 30** {#anexo8_lin30} #geologia g) Geologia/hidrogeologia/geotecnia;
+- **Anexo VIII, linha 29** {#anexo8_lin29} f) Recursos Hídricos (nascentes, olhos d’água, cursos d’água, etc.);
+- **Anexo VIII, linha 30** {#anexo8_lin30} g) Geologia/hidrogeologia/geotecnia;
 - **Anexo VIII, linha 31** {#anexo8_lin31} h) Cobertura Vegetal;
 - **Anexo VIII, linha 32** {#anexo8_lin32} i) Acessos (alternativas, condições de tráfego);
-- **Anexo VIII, linha 33** {#anexo8_lin33} #uso-solo j) Características do entorno (uso do solo, residências, áreas de interesse ambiental, etc.).
-- **Anexo VIII, linha 34** {#anexo8_lin34} #mapa-situacao 5 MAPA DE SITUAÇÃO DO EMPREENDIMENTO, COM IMAGEM ATUALIZADA, EM *DATUM* SIRGAS 2000, PROJEÇÃO UTM E CONTENDO, NO MÍNIMO
-- **Anexo VIII, linha 35** {#anexo8_lin35} #car a) Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural (em caso de imóvel rural);
-- **Anexo VIII, linha 36** {#anexo8_lin36} #area-influencia b) Área Diretamente Afetada, Área de Influência Direta e Área de Influência Indireta;
-- **Anexo VIII, linha 37** {#anexo8_lin37} #unidade-conservacao #manancial c) Unidades de Conservação e Mananciais nas áreas de influência;
+- **Anexo VIII, linha 33** {#anexo8_lin33} j) Características do entorno (uso do solo, residências, áreas de interesse ambiental, etc.).
+- **Anexo VIII, linha 34** {#anexo8_lin34} 5 MAPA DE SITUAÇÃO DO EMPREENDIMENTO, COM IMAGEM ATUALIZADA, EM *DATUM* SIRGAS 2000, PROJEÇÃO UTM E CONTENDO, NO MÍNIMO
+- **Anexo VIII, linha 35** {#anexo8_lin35} a) Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural (em caso de imóvel rural);
+- **Anexo VIII, linha 36** {#anexo8_lin36} b) Área Diretamente Afetada, Área de Influência Direta e Área de Influência Indireta;
+- **Anexo VIII, linha 37** {#anexo8_lin37} c) Unidades de Conservação e Mananciais nas áreas de influência;
 - **Anexo VIII, linha 38** {#anexo8_lin38} d) Estruturas físicas;
 - **Anexo VIII, linha 39** {#anexo8_lin39} e) Corpos hídricos;
-- **Anexo VIII, linha 40** {#anexo8_lin40} #app f) Áreas de preservação permanente;
-- **Anexo VIII, linha 41** {#anexo8_lin41} #reserva-legal g) Áreas de Reserva Legal (se imóvel rural), Área Verde Urbana (se imóvel urbano) e maciços florestais remanescentes;
+- **Anexo VIII, linha 40** {#anexo8_lin40} f) Áreas de preservação permanente;
+- **Anexo VIII, linha 41** {#anexo8_lin41} g) Áreas de Reserva Legal (se imóvel rural), Área Verde Urbana (se imóvel urbano) e maciços florestais remanescentes;
 - **Anexo VIII, linha 42** {#anexo8_lin42} h) Vias de acesso principais;
 - **Anexo VIII, linha 43** {#anexo8_lin43} i) Pontos de referência;
 - **Anexo VIII, linha 44** {#anexo8_lin44} j) Arquivos vetoriais (formato *.kml/.kmz*) dos componentes exigidos nas alíneas anteriores.
 - **Anexo VIII, linha 45** {#anexo8_lin45} 6 CARACTERIZAÇÃO DAS OBRAS PREVISTAS
-- **Anexo VIII, linha 46** {#anexo8_lin46} #supressao-vegetacao #movimentacao-solo a) Descritivo das obras e intervenções previstas, tais como supressão de vegetação, intervenções em corpos hídricos, movimentação de terra, entre outros;
-- **Anexo VIII, linha 47** {#anexo8_lin47} #contencao #impermeabilizacao b) Comprovação de contenções e impermeabilização do pavimento conforme normas aplicáveis para a estrutura do empreendimento.
+- **Anexo VIII, linha 46** {#anexo8_lin46} a) Descritivo das obras e intervenções previstas, tais como supressão de vegetação, intervenções em corpos hídricos, movimentação de terra, entre outros;
+- **Anexo VIII, linha 47** {#anexo8_lin47} b) Comprovação de contenções e impermeabilização do pavimento conforme normas aplicáveis para a estrutura do empreendimento.
 - **Anexo VIII, linha 48** {#anexo8_lin48} 7 CARACTERIZAÇÃO DA ATIVIDADE
 - **Anexo VIII, linha 49** {#anexo8_lin49} a) Descritivo e fluxograma do processo indicando no mínimo:
 - **Anexo VIII, linha 50** {#anexo8_lin50} i. Processo operacional logístico;
 - **Anexo VIII, linha 51** {#anexo8_lin51} ii. Áreas administrativas;
 - **Anexo VIII, linha 52** {#anexo8_lin52} iii. Mencionar, se houver, os pontos de origem de efluentes líquidos, de emissões gasosas e resíduos sólidos.
 - **Anexo VIII, linha 53** {#anexo8_lin53} b) Principais matérias primas e produtos a serem elaborados, quantitativo previsto e as formas de armazenamento e estocagem;
-- **Anexo VIII, linha 54** {#anexo8_lin54} #agrotoxico c) Relação completa dos produtos químicos manuseados em sua atividade e respectivas quantidades estocadas (inclusive em equipamentos de processo);
+- **Anexo VIII, linha 54** {#anexo8_lin54} c) Relação completa dos produtos químicos manuseados em sua atividade e respectivas quantidades estocadas (inclusive em equipamentos de processo);
 - **Anexo VIII, linha 55** {#anexo8_lin55} d) Principais instalações e unidades de apoio, tais como área industrial, pátio de estacionamento de veículos leves, pátio de estacionamento de veículos pesados, utilidades, estações de tratamento de água e efluentes, entre outros.
 - **Anexo VIII, linha 56** {#anexo8_lin56} 8 ASPECTOS AMBIENTAIS
-- **Anexo VIII, linha 57** {#anexo8_lin57} #recurso-hidrico a) Recursos hídricos
+- **Anexo VIII, linha 57** {#anexo8_lin57} a) Recursos hídricos
 - **Anexo VIII, linha 58** {#anexo8_lin58} i. Balanço hídrico previsto de utilização de água indicando no mínimo:
 - **Anexo VIII, linha 59** {#anexo8_lin59} - Fontes de captação de água;
-- **Anexo VIII, linha 60** {#anexo8_lin60} #outorga-previa - Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.
-- **Anexo VIII, linha 61** {#anexo8_lin61} #efluente ii. Balanço hídrico previsto da geração de efluentes líquidos indicando no mínimo:
-- **Anexo VIII, linha 62** {#anexo8_lin62} #tratamento-efluente - Sistema de tratamento previsto, indicando as etapas do tratamento e produtos químicos utilizados;
-- **Anexo VIII, linha 63** {#anexo8_lin63} #lancamento - Destinação final dos efluentes gerados, indicando o ponto de lançamento do efluente industrial tratado em rede coletiva, se for o caso, e ponto do emissário no corpo hídrico.
-- **Anexo VIII, linha 64** {#anexo8_lin64} #reuso-efluente - Em caso de reutilização do efluente, apresentar descritivo do quantitativo e qualitativo do efluente tratado necessários para o reuso, bem como pontos de reuso e em caso de lançamento em corpo hídrico, apresentar informações quanto ao ponto de lançamento, indicando se há interligação com o efluente industrial tratado ou se o lançamento do efluente sanitário tratado possui um ponto de lançamento independente.
-- **Anexo VIII, linha 65** {#anexo8_lin65} #agua-pluvial iii. Drenagem pluvial
+- **Anexo VIII, linha 60** {#anexo8_lin60} - Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.
+- **Anexo VIII, linha 61** {#anexo8_lin61} ii. Balanço hídrico previsto da geração de efluentes líquidos indicando no mínimo:
+- **Anexo VIII, linha 62** {#anexo8_lin62} - Sistema de tratamento previsto, indicando as etapas do tratamento e produtos químicos utilizados;
+- **Anexo VIII, linha 63** {#anexo8_lin63} - Destinação final dos efluentes gerados, indicando o ponto de lançamento do efluente industrial tratado em rede coletiva, se for o caso, e ponto do emissário no corpo hídrico.
+- **Anexo VIII, linha 64** {#anexo8_lin64} - Em caso de reutilização do efluente, apresentar descritivo do quantitativo e qualitativo do efluente tratado necessários para o reuso, bem como pontos de reuso e em caso de lançamento em corpo hídrico, apresentar informações quanto ao ponto de lançamento, indicando se há interligação com o efluente industrial tratado ou se o lançamento do efluente sanitário tratado possui um ponto de lançamento independente.
+- **Anexo VIII, linha 65** {#anexo8_lin65} iii. Drenagem pluvial
 - **Anexo VIII, linha 66** {#anexo8_lin66} - Área impermeabilizada e sistema de drenagem pluvial previsto, indicando as formas de tratamento e destinação final das águas incidentes nas áreas impermeabilizadas.
 - **Anexo VIII, linha 67** {#anexo8_lin67} - Descrição detalhada do sistema de captação, transporte e disposição das águas pluviais incidentes em áreas impermeabilizadas do empreendimento.
-- **Anexo VIII, linha 68** {#anexo8_lin68} #residuo-solido b) Resíduos Sólidos:
+- **Anexo VIII, linha 68** {#anexo8_lin68} b) Resíduos Sólidos:
 - **Anexo VIII, linha 69** {#anexo8_lin69} iv. Estimativa da geração de resíduos sólidos indicando no mínimo: código IBAMA, Resíduos Específico, Origem do resíduo, Quantificação diária estimada, Tratamento e Destinação final;
-- **Anexo VIII, linha 70** {#anexo8_lin70} #armazenamento-residuo v. Especificar a área de armazenamento de resíduos não perigosos e perigosos.
-- **Anexo VIII, linha 71** {#anexo8_lin71} #emissao-atmosferica c) Emissões atmosféricas e sistemas de controle.
+- **Anexo VIII, linha 70** {#anexo8_lin70} v. Especificar a área de armazenamento de resíduos não perigosos e perigosos.
+- **Anexo VIII, linha 71** {#anexo8_lin71} c) Emissões atmosféricas e sistemas de controle.
 - **Anexo VIII, linha 72** {#anexo8_lin72} vi. Fontes de geração de emissões atmosféricas e sistemas de tratamento propostos;
-- **Anexo VIII, linha 73** {#anexo8_lin73} #emissao-fugitiva vii. Especificar detalhadamente todos os processos geradores de poluição do ar seja através de dutos, chaminés ou emissões fugitivas;
+- **Anexo VIII, linha 73** {#anexo8_lin73} vii. Especificar detalhadamente todos os processos geradores de poluição do ar seja através de dutos, chaminés ou emissões fugitivas;
 - **Anexo VIII, linha 74** {#anexo8_lin74} viii. Especificar o período de funcionamento previsto para cada processo, o número e altura das chaminés ou dutos em relação ao nível do solo e os combustíveis a serem utilizados;
 - **Anexo VIII, linha 75** {#anexo8_lin75} ix. Especificar o sistema de tratamento das emissões atmosféricas existentes para cada uma das fontes identificadas, tais como filtros, ciclones, lavadores de gases, etc., com indicação da eficiência de projeto;
-- **Anexo VIII, linha 76** {#anexo8_lin76} #padrao-emissao x. Apresentar o enquadramento de cada processo e os padrões de emissão e de condicionamento a serem atendidos, bem como a frequência de amostragem de emissões e metodologias de análise e amostragem a serem utilizadas, com as respectivas justificativas, em conformidade com o estabelecido na [[resolucao-sedest-2-2025|Resolução SEDEST nº 02/2025]].
+- **Anexo VIII, linha 76** {#anexo8_lin76} x. Apresentar o enquadramento de cada processo e os padrões de emissão e de condicionamento a serem atendidos, bem como a frequência de amostragem de emissões e metodologias de análise e amostragem a serem utilizadas, com as respectivas justificativas, em conformidade com o estabelecido na [[resolucao-sedest-2-2025|Resolução SEDEST nº 02/2025]].
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

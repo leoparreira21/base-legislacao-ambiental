@@ -33,7 +33,6 @@ fonte: Portal da Legislação do Estado do Paraná (versão de impressão, 2 pá
 DECRETA:
 
 ###### Art. 1º {#art1}
-Tags: #dila #dlam #autorizacao-ambiental #dominialidade #publicacao-dioe
 
 **Art. 1º, caput** {#art1_cpt} Altera o [[decreto-estadual-9541-2025#art13_par4|§4º do art. 13 do Decreto nº 9.541, de 10 de abril de 2025]], que passa a vigorar com a seguinte redação:
 
@@ -41,7 +40,6 @@ Tags: #dila #dlam #autorizacao-ambiental #dominialidade #publicacao-dioe
 > §4º Dispensa da apresentação do documento constante do [[decreto-estadual-9541-2025#art13_cpt_inc5|inciso V]] e da publicação constante no [[decreto-estadual-9541-2025#art13_cpt_inc8|inciso VIII]], ambos deste artigo, os requerimentos de Autorizações Ambientais - AA, de Declaração de Inexigibilidade de Licença Ambiental - DILA e de Dispensa de Licenciamento Ambiental - DLAM.
 
 ###### Art. 2º {#art2}
-Tags: #dlam #esgotamento-sanitario #tratamento-esgoto
 
 **Art. 2º, caput** {#art2_cpt} Acrescenta o [[decreto-estadual-9541-2025#art56_par3|§3º ao art. 56 do Decreto nº 9.541, de 2025]], com a seguinte redação:
 
@@ -49,7 +47,6 @@ Tags: #dlam #esgotamento-sanitario #tratamento-esgoto
 > §3º Na hipótese de o empreendimento e/ou atividade ultrapassar o limite estabelecido no [[decreto-estadual-9541-2025#art56_cpt_inc5|inciso V do caput deste artigo]], a área deverá ser dotada de sistema público de esgotamento sanitário ou de sistema de tratamento de esgoto sanitário que atenda aos parâmetros estabelecidos pelas normas específicas.
 
 ###### Art. 3º {#art3}
-Tags: #dlam #baixo-risco
 
 **Art. 3º, caput** {#art3_cpt} Altera o [[decreto-estadual-9541-2025#art57|art. 57 do Decreto nº 9.541, de 2025]], que passa a vigorar com a seguinte redação:
 
@@ -57,19 +54,17 @@ Tags: #dlam #baixo-risco
 > Art. 57. A Declaração de Dispensa de Licenciamento Ambiental - DLAM deverá ser requerida pelo interessado, exceto para empreendimentos e/ou atividades classificados como de Baixo Risco, conforme ato normativo do órgão competente.
 
 ###### Art. 4º {#art4}
-Tags: #vigencia
 
 **Art. 4º, caput** {#art4_cpt} Este Decreto entra em vigor na data de sua publicação.
 
 ###### Art. 5º {#art5}
-Tags: #revogacao #certidao-municipal #artesanal #agricultura-familiar #dlam
 
 **Art. 5º, caput** {#art5_cpt} Revoga os seguintes dispositivos do [[decreto-estadual-9541-2025|Decreto nº 9.541, de 10 de abril de 2025]]:
-- **Art. 5º, caput, inciso I** {#art5_cpt_inc1} #certidao-municipal o [[decreto-estadual-9541-2025#art13_cpt_inc4|inciso IV do caput do art. 13]];
-- **Art. 5º, caput, inciso II** {#art5_cpt_inc2} #certidao-municipal o [[decreto-estadual-9541-2025#art13_par1|§1º do art. 13]];
-- **Art. 5º, caput, inciso III** {#art5_cpt_inc3} #certidao-municipal o [[decreto-estadual-9541-2025#art13_par2|§2º do art. 13]];
-- **Art. 5º, caput, inciso IV** {#art5_cpt_inc4} #artesanal o [[decreto-estadual-9541-2025#art56_cpt_inc3|inciso III do art. 56]];
-- **Art. 5º, caput, inciso V** {#art5_cpt_inc5} #agricultura-familiar o [[decreto-estadual-9541-2025#art56_par1|§ 1º do art. 56]].
+- **Art. 5º, caput, inciso I** {#art5_cpt_inc1} o [[decreto-estadual-9541-2025#art13_cpt_inc4|inciso IV do caput do art. 13]];
+- **Art. 5º, caput, inciso II** {#art5_cpt_inc2} o [[decreto-estadual-9541-2025#art13_par1|§1º do art. 13]];
+- **Art. 5º, caput, inciso III** {#art5_cpt_inc3} o [[decreto-estadual-9541-2025#art13_par2|§2º do art. 13]];
+- **Art. 5º, caput, inciso IV** {#art5_cpt_inc4} o [[decreto-estadual-9541-2025#art56_cpt_inc3|inciso III do art. 56]];
+- **Art. 5º, caput, inciso V** {#art5_cpt_inc5} o [[decreto-estadual-9541-2025#art56_par1|§ 1º do art. 56]].
 
 ---
 

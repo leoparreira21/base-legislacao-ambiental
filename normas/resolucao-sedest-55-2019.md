@@ -38,14 +38,12 @@ Considerando a necessidade de dar efetividade ao "princípio da prevenção" con
 RESOLVE:
 
 ###### Art. 1º {#art1}
-Tags: #bovinocultura #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer critérios para o Licenciamento Ambiental de Empreendimentos de Bovinocultura Confinada e semiconfinada de leite e de bovinocultura confinada de corte, com aproveitamento econômico.
 
 **Art. 1º, parágrafo único** {#art1_par1u} Não se aplica a bovinocultura extensiva e semiconfinada com a finalidade da produção de carne.
 
 ###### Art. 2º {#art2}
-Tags: #bovinocultura #licenciamento-ambiental #definicao #ampliacao #pca #enquadramento
 
 **Art. 2º, caput** {#art2_cpt} Para os efeitos desta Resolução, considera-se:
 
@@ -67,7 +65,6 @@ Tags: #bovinocultura #licenciamento-ambiental #definicao #ampliacao #pca #enquad
 - **Art. 2º, caput, inciso XVI** {#art2_cpt_inc16} Tratamento secundário: tratamento que tem por objetivo a degradação biológica de compostos carbonáceos.  Tal degradação pode ocorrer através de reatores biológicos, biodigestores e equipamentos similares, estes por sua vez possuem grande quantidade de microorganismos, responsáveis pela degradação da matéria orgânica.
 
 ###### Art. 3º {#art3}
-Tags: #condicionante #licenciamento-ambiental #autorizacao-ambiental #las #lp #li
 
 **Art. 3º, caput** {#art3_cpt} O Órgão Ambiental Competente, no exercício de sua competência de controle ambiental, expedirá os seguintes atos administrativos:
 
@@ -80,7 +77,6 @@ Tags: #condicionante #licenciamento-ambiental #autorizacao-ambiental #las #lp #l
 - **Art. 3º, caput, inciso VII** {#art3_cpt_inc7} Licença de Operação - LO - Autoriza o funcionamento da atividade ou empreendimento, após a verificação do efetivo cumprimento do que consta das licenças anteriores, com as medidas de controle ambientais e condicionantes determinados para a operação.
 
 ###### Art. 4º {#art4}
-Tags: #bovinocultura #porte
 
 **Art. 4º, caput** {#art4_cpt} Para os efeitos desta Resolução, os empreendimentos de bovinocultura serão classificados de acordo com a tipologia, sistema de criação e porte:
 
@@ -94,7 +90,6 @@ Tags: #bovinocultura #porte
   - **Art. 4º, caput, inciso II, alínea "c"** {#art4_cpt_inc2_alic} Extensivo.
 
 ###### Art. 5º {#art5}
-Tags: #bovinocultura #licenciamento-ambiental #porte
 
 **Art. 5º, caput** {#art5_cpt} O porte dos empreendimentos de Bovinocultura de leite confinada e semiconfinada, para fins de licenciamento ambiental, são definidos pelo sistema de criação e pelo número de animais em lactação, conforme quadro a seguir:
 
@@ -110,7 +105,6 @@ Tags: #bovinocultura #licenciamento-ambiental #porte
 *(Redação dada pela [[resolucao-sedest-17-2020|Resolução 17 de 05/03/2020]])*
 
 ###### Art. 6º {#art6}
-Tags: #licenciamento-ambiental #porte
 
 **Art. 6º, caput** {#art6_cpt} O porte dos empreendimentos de Recria de Novilhas confinadas, para fins de licenciamento ambiental, é definido pela tipologia do empreendimento, sistema de criação e pelo número de cabeças, conforme quadro abaixo:
 
@@ -124,7 +118,6 @@ Tags: #licenciamento-ambiental #porte
 - **Art. 6º, Tabela 1, linha 6** {#art6_tab1_lin6} Porte: Excepcional | Número de cabeças: Acima de 2000 | Licença ambiental — DLAE: Não | Licença ambiental — LAS: Não | Licença ambiental — LP/LI/LO: Sim
 
 ###### Art. 7º {#art7}
-Tags: #bovinocultura #licenciamento-ambiental #porte
 
 **Art. 7º, caput** {#art7_cpt} O porte dos empreendimentos de Bovinocultura de corte confinada, para fins de licenciamento ambiental, é definido pelo sistema de criação e pelo número de cabeças, conforme quadro abaixo:
 
@@ -140,12 +133,10 @@ Tags: #bovinocultura #licenciamento-ambiental #porte
 *(Redação dada pela [[resolucao-sedest-17-2020|Resolução 17 de 05/03/2020]])*
 
 ###### Art. 8º {#art8}
-Tags: #bovinocultura #licenciamento-ambiental
 
 **Art. 8º, caput** {#art8_cpt} Ficam isentos de Licenciamento Ambiental as atividades de bovinocultura de corte e de recria de novilhas em sistemas extensivo e semiconfinado.
 
 ###### Art. 9º {#art9}
-Tags: #licenciamento-ambiental #dispensa #bovinocultura #porte #enquadramento #autorizacao-florestal
 
 **Art. 9º, caput** {#art9_cpt} São passíveis de Declaração de Dispensa de Licenciamento Ambiental os empreendimentos de bovinocultura de corte e de recria de novilhas em sistema de confinamento e de leite confinada e semiconfinada de porte micro, conforme [[#art5|artigos 5º]], 6º e 7°.
 
@@ -167,7 +158,6 @@ Tags: #licenciamento-ambiental #dispensa #bovinocultura #porte #enquadramento #a
 **Art. 9º, § 4º** {#art9_par4} A Dispensa do Licenciamento Ambiental Estadual - DLAE não exime o dispensado das exigências legais quanto à preservação do meio ambiente.
 
 ###### Art. 10 {#art10}
-Tags: #las #publicacao-dioe #licenciamento-ambiental #bovinocultura #renovacao #taxa-ambiental
 
 **Art. 10, caput** {#art10_cpt} Os requerimentos de Licença Ambiental Simplificada – LAS, bem como sua renovação, para os empreendimentos de bovinocultura de corte e de recria de novilhas em sistema de confinamento e de bovinocultura de leite confinada e semiconfinada relacionados nos [[#art5|artigos 5º]], 6º e 7°, deverão ser protocolados no SGA, instruídos na forma prevista abaixo.
 
@@ -190,7 +180,6 @@ Tags: #las #publicacao-dioe #licenciamento-ambiental #bovinocultura #renovacao #
   - **Art. 10, caput, inciso II, alínea "e"** {#art10_cpt_inc2_alie} Recolhimento da taxa ambiental e demais valores cabíveis referentes às publicações, em caso de optar pela publicação no site do órgão ambiental competente.
 
 ###### Art. 11 {#art11}
-Tags: #publicacao-dioe #lo #taxa-ambiental #bovinocultura #lp #li
 
 **Art. 11, caput** {#art11_cpt} Os empreendimentos de bovinocultura de corte e de recria de novilhas em sistema de confinamento e de bovinocultura de leite confinada e semiconfinada relacionados nos [[#art5|artigos 5º]], 6º e 7°, deverão requerer sucessivamente as Licenças Prévia, de Instalação e de Operação.
 
@@ -246,12 +235,10 @@ Tags: #publicacao-dioe #lo #taxa-ambiental #bovinocultura #lp #li
   - **Art. 11, § 3º, inciso IV, alínea "g"** {#art11_par3_inc4_alig} Recolhimento da taxa ambiental e demais valores cabíveis referentes às publicações, em caso de optar pela publicação no site do órgão ambiental competente.
 
 ###### Art. 12 {#art12}
-Tags: #lo #rlo #prazo #renovacao #ampliacao
 
 **Art. 12, caput** {#art12_cpt} RLO e LO ampliação poderá ser solicitada de forma unificada quando o prazo de vencimento da LO em renovação for inferior a 01 (um) ano.
 
 ###### Art. 13 {#art13}
-Tags: #licenciamento-ambiental #publicacao-dioe #las #lo #outorga #enquadramento
 
 **Art. 13, caput** {#art13_cpt} Para regularização do licenciamento ambiental de empreendimentos já existentes e em operação, que não tenham se submetido ao licenciamento simplificado (LAS) ou ao licenciamento completo (LP, LI, LO), de acordo com [[#art3|Art. 3°]] da presente Resolução, deverá solicitar a Licença Ambiental Simplificada de Regularização (LASR) ou a Licença de Operação de Regularização (LOR).
 
@@ -294,12 +281,10 @@ Tags: #licenciamento-ambiental #publicacao-dioe #las #lo #outorga #enquadramento
   - **Art. 13, § 2º, inciso II, alínea "i"** {#art13_par2_inc2_alii} Recolhimento da taxa ambiental e demais valores cabíveis referentes às publicações, em caso de optar pela publicação no site do órgão ambiental competente.
 
 ###### Art. 14 {#art14}
-Tags: #taxa-ambiental
 
 **Art. 14, caput** {#art14_cpt} Para fins de isenção da Taxa Ambiental, deverá ser apresentada declaração emitida pela EMATER, Sindicatos Rurais ou ainda o DAP - Declaração de Aptidão do PRONAF.
 
 ###### Art. 15 {#art15}
-Tags: #validade #prazo #las #lo #autorizacao-ambiental #licenciamento-ambiental
 
 **Art. 15, caput** {#art15_cpt} O órgão ambiental competente estabelecerá os prazos de validade para cada tipo de licença e autorização ambiental, especificando-os no respectivo documento, levando em consideração os seguintes aspectos: prazo de validade da Licença Ambiental Simplificada - LAS e da Licença de Operação - LO.
 
@@ -312,12 +297,10 @@ Tags: #validade #prazo #las #lo #autorizacao-ambiental #licenciamento-ambiental
 **Art. 15, parágrafo único** {#art15_par1u} Em casos excepcionais, justificados por motivos técnicos e/ou legais, o órgão ambiental competente poderá reduzir o
 
 ###### Art. 16 {#art16}
-Tags: #dejeto-animal
 
 **Art. 16, caput** {#art16_cpt} Os sistemas destinados ao armazenamento de dejetos líquidos gerados pela atividade devem ser obrigatoriamente revestidos.
 
 ###### Art. 17 {#art17}
-Tags: #dejeto-animal #bovinocultura #anuencia #recurso-hidrico
 
 **Art. 17, caput** {#art17_cpt} A implantação de empreendimentos de bovinocultura quanto à localização, deverá atender, no mínimo, aos seguintes critérios:
 
@@ -332,42 +315,34 @@ Tags: #dejeto-animal #bovinocultura #anuencia #recurso-hidrico
 - **Art. 17, caput, inciso IV** {#art17_cpt_inc4} Na localização das construções para criação dos animais, armazenagem, tratamento e disposição final de dejetos – devem ser consideradas as condições ambientais da área e do seu entorno, bem como, a direção predominante dos ventos na região, de forma a impedir a propagação de odores para cidades, núcleos populacionais e habitações mais próximas.
 
 ###### Art. 18 {#art18}
-Tags: #bovinocultura #dejeto-animal
 
 **Art. 18, caput** {#art18_cpt} Os dejetos gerados pela atividade de Bovinocultura de corte e de recria de novilhas em sistema de confinamento, bem como de leite confinada e semiconfinada devem, obrigatoriamente, sofrer armazenamento e/ou tratamento primário, após devem ser encaminhados para tratamento secundário e/ou aplicação no solo para fins agrícolas.
 
 ###### Art. 19 {#art19}
-Tags: #bovinocultura #dejeto-animal #porte #enquadramento
 
 **Art. 19, caput** {#art19_cpt} Os dejetos gerados pela atividade de Bovinocultura de leite confinada e semiconfinada, recria de novilhas confinadas e bovinocultura de corte confinada com rebanho enquadrados em porte grande ou excepcional, instalados a partir da data desta Resolução, deverão obrigatoriamente implantar tratamento secundário para posterior destinação.
 
 ###### Art. 20 {#art20}
-Tags: #dejeto-animal #bovinocultura
 
 **Art. 20, caput** {#art20_cpt} As propriedades de bovinocultura deverão obrigatoriamente implantar medidas para controle do consumo de água e aumento do volume de geração de dejetos, tais como: instalação de hidrômetros, redução do consumo de água de limpeza, reuso de água e evitar a entrada de água da chuva nas instalações e no sistema de tratamento de dejetos.
 
 ###### Art. 21 {#art21}
-Tags: #bovinocultura #efluente #recurso-hidrico
 
 **Art. 21, caput** {#art21_cpt} É vedado o lançamento de efluentes líquidos de empreendimentos de bovinocultura em Corpos Hídricos.
 
 ###### Art. 22 {#art22}
-Tags: #dejeto-animal
 
 **Art. 22, caput** {#art22_cpt} Para aplicação dos dejetos no solo, para fins agrícolas, devem ser atendidos, os critérios estabelecidos no [[#anexo3|Anexo III]].
 
 ###### Art. 23 {#art23}
-Tags: #residuo-solido
 
 **Art. 23, caput** {#art23_cpt} Fica vedada a utilização de material para substrato de cama com presença de resíduos de produtos químicos para tratamento de madeira.
 
 ###### Art. 24 {#art24}
-Tags: #animal-morto
 
 **Art. 24, caput** {#art24_cpt} Os animais mortos deverão ser dispostos adequadamente, utilizando tecnologias de disposição específicas estabelecidas pelos órgãos competentes e atendendo a [[portaria-iap-106-2018|Portaria IAP nº 106, de 30 de maio de 2018]].
 
 ###### Art. 25 {#art25}
-Tags: #animal-morto #licenciamento-ambiental #autorizacao-ambiental #las #lo #taxa-ambiental
 
 **Art. 25, caput** {#art25_cpt} Para melhorias em sistemas de tratamento e/ou de destinação final de animais mortos deverá ser solicitada Autorização Ambiental específica, cujo processo a ser protocolado deverá conter:
 
@@ -378,12 +353,10 @@ Tags: #animal-morto #licenciamento-ambiental #autorizacao-ambiental #las #lo #ta
 - **Art. 25, caput, inciso V** {#art25_cpt_inc5} Recolhimento da Taxa Ambiental.
 
 ###### Art. 26 {#art26}
-Tags: #bovinocultura #prazo
 
 **Art. 26, caput** {#art26_cpt} Os empreendimentos de bovinocultura, já existentes, terão um prazo de 24 (vinte e quatro) meses para requerer a regularização junto ao órgão ambiental.
 
 ###### Art. 27 {#art27}
-Tags: #bovinocultura #porte #potencial-poluidor #casos-omissos
 
 **Art. 27, caput** {#art27_cpt} Os casos omissos quanto aos empreendimentos de bovinocultura, porte e potencial poluidor serão decididos pelo Órgão Ambiental Competente.
 
@@ -392,7 +365,6 @@ Tags: #bovinocultura #porte #potencial-poluidor #casos-omissos
 **Art. 28, caput** {#art28_cpt} A cada 02 (dois) anos, ou sempre que necessário, será revisada a presente Resolução.
 
 ###### Art. 29 {#art29}
-Tags: #revogacao #vigencia #publicacao-dioe
 
 **Art. 29, caput** {#art29_cpt} Esta Resolução entra em vigor na data de sua publicação, ficando revogada Portaria IAP Nº 162, de 10 de julho de 2018.
 
@@ -408,22 +380,20 @@ Tags: #revogacao #vigencia #publicacao-dioe
 > Tipos conforme as regras de anexos do README. O PDF traz só a lista "ANEXOS: anexo229577_53054.pdf" e não o conteúdo dos anexos.
 
 ### ANEXO I {#anexo1}
-Tags: #certidao-municipal
 
 Modelo de certidão do município (declaração de conformidade do local e do tipo de empreendimento com a legislação municipal). *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art10_cpt_inc1_alia|Art. 10, inciso I, alínea "a"]], [[#art11_par3_inc1_alid|Art. 11, § 3º, inciso I, alínea "d"]], [[#art13_par2_inc1_alic|Art. 13, § 2º, inciso I, alínea "c"]], [[#art13_par2_inc2_alid|Art. 13, § 2º, inciso II, alínea "d"]].)*
 
 ### ANEXO II {#anexo2}
-Tags: #anexo-pendente #projeto-controle-poluicao
+Tags: #anexo-pendente
 
 Diretrizes para o Projeto de Controle de Poluição Ambiental (estudo ambiental). *(Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo229577_53054.pdf`. Exigido em: [[#art10_cpt_inc1_alif|Art. 10, inciso I, alínea "f"]], [[#art11_par3_inc2_alia_ite2|Art. 11, § 3º, inciso II, alínea "a", item 2]], [[#art13_par2_inc1_alih|Art. 13, § 2º, inciso I, alínea "h"]], [[#art13_par2_inc2_alig|Art. 13, § 2º, inciso II, alínea "g"]], [[#art25_cpt_inc3|Art. 25, inciso III]].)*
 
 ### ANEXO III {#anexo3}
-Tags: #anexo-pendente #aplicacao-dejeto-solo
+Tags: #anexo-pendente
 
 Critérios para aplicação de dejetos no solo para fins agrícolas (o art. 22 remete a este Anexo; o art. 10, I, "h", também o cita como modelo de anuência do proprietário). *(Anexo não incluído no PDF enviado: pendente. Arquivo listado no portal: `anexo229577_53054.pdf`. Exigido em: [[#art10_cpt_inc1_alih|Art. 10, inciso I, alínea "h"]], [[#art10_cpt_inc2_alia|Art. 10, inciso II, alínea "a"]], [[#art11_par3_inc4_alia|Art. 11, § 3º, inciso IV, alínea "a"]], [[#art22_cpt|Art. 22]].)*
 
 ### ANEXO IV {#anexo4}
-Tags: #anuencia-proprietario
 
 Modelo de anuência do proprietário. *(Tipo 1: modelo, conteúdo não transcrito. Exigido em: [[#art11_par3_inc2_alib|Art. 11, § 3º, inciso II, alínea "b"]].)*
 

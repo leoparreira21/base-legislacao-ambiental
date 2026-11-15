@@ -39,122 +39,108 @@ Considerando o [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541, de 11 de
 RESOLVE
 
 ###### Art. 1º {#art1}
-Tags: #inexigibilidade #agropecuaria #licenciamento-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer rol de empreendimentos e/ou atividades agrícolas enquadrados como inexigíveis de licenciamento ambiental no território do Estado do Paraná
 
 ###### Art. 2º {#art2}
-Tags: #inexigibilidade #dila #agropecuaria
 
 **Art. 2º, caput** {#art2_cpt} Os empreendimentos e/ou atividades agrícolas enquadradas como inexigíveis de licenciamento ambiental serão passíveis de emissão da Declaração de Inexigibilidade de Licença Ambiental - DILA.
 
 ###### Art. 3º {#art3}
-Tags: #dila #requerimento
 
 **Art. 3º, caput** {#art3_cpt} A Declaração de Inexigibilidade de Licença Ambiental - DILA poderá ser requerida pelo interessado nos casos em que seja necessária a comprovação de inexigibilidade de licenciamento ambiental.
 
 ###### Art. 4º {#art4}
-Tags: #dila #inexigibilidade #potencial-poluidor #area-fragil #app #reserva-legal #area-umida #unidade-conservacao #supressao-vegetacao #vegetacao-nativa #plano-manejo #zoneamento
 
 **Art. 4º, caput** {#art4_cpt} A Declaração de Inexigibilidade de Licença Ambiental - DILA será concedida para os empreendimentos e/ou atividades de insignificante potencial poluidor/degradador do meio ambiente, para os quais é inexigível o licenciamento ambiental, respeitadas as legislações municipais, e que atendam aos seguintes critérios:
 - **Art. 4º, caput, inciso I** {#art4_cpt_inc1} não exijam o acompanhamento de aspectos de controle ambiental pelo Instituto Água e Terra - IAT, estando isentos de licenciamento ambiental, desde que não estejam associados a empreendimentos ou atividades enquadrados em outras formas de licenciamento;
-- **Art. 4º, caput, inciso II** {#art4_cpt_inc2} #area-fragil #app #reserva-legal #area-umida #unidade-conservacao não estejam localizados em áreas ambientalmente frágeis ou protegidas, tais como Áreas de Preservação Permanente, Reserva Legal, Áreas Úmidas, Unidades de Conservação, entre outras;
-- **Art. 4º, caput, inciso III** {#art4_cpt_inc3} #supressao-vegetacao #vegetacao-nativa não haja necessidade de supressão de vegetação nativa.
+- **Art. 4º, caput, inciso II** {#art4_cpt_inc2} não estejam localizados em áreas ambientalmente frágeis ou protegidas, tais como Áreas de Preservação Permanente, Reserva Legal, Áreas Úmidas, Unidades de Conservação, entre outras;
+- **Art. 4º, caput, inciso III** {#art4_cpt_inc3} não haja necessidade de supressão de vegetação nativa.
 
-**Art. 4º, parágrafo único** {#art4_par1u} #unidade-conservacao #plano-manejo #zoneamento Nos casos em que o empreendimento estiver localizado em Unidade de Conservação, poderá ser emitida a DILA, desde que o imóvel esteja inserido em zoneamento cuja atividade esteja prevista, conforme o Plano de Manejo.
+**Art. 4º, parágrafo único** {#art4_par1u} Nos casos em que o empreendimento estiver localizado em Unidade de Conservação, poderá ser emitida a DILA, desde que o imóvel esteja inserido em zoneamento cuja atividade esteja prevista, conforme o Plano de Manejo.
 
 ###### Art. 5º {#art5}
-Tags: #inexigibilidade #agropecuaria #apicultura #energia-solar #floresta-plantada #manejo-florestal #pastagem #viveiro #bovinocultura #suinocultura #avicultura #subsistencia #edificacao-rural #especie-ameacada #agrotoxico
 
 **Art. 5º, caput** {#art5_cpt} Os empreendimentos e/ou atividades agrícolas considerados inexigíveis de licenciamento ambiental estão listados abaixo:
-- **Art. 5º, caput, inciso I** {#art5_cpt_inc1} #apicultura Benfeitorias e equipamentos necessários ao manejo da apicultura fixa e migratória (itinerante);
+- **Art. 5º, caput, inciso I** {#art5_cpt_inc1} Benfeitorias e equipamentos necessários ao manejo da apicultura fixa e migratória (itinerante);
 - **Art. 5º, caput, inciso II** {#art5_cpt_inc2} Cultivos agrícolas: culturas anuais e perenes;
 - **Art. 5º, caput, inciso III** {#art5_cpt_inc3} Cultivo de flores e plantas ornamentais;
 - **Art. 5º, caput, inciso IV** {#art5_cpt_inc4} Produção de sementes;
 - **Art. 5º, caput, inciso V** {#art5_cpt_inc5} Serviço de tosquiamento de ovinos;
 - **Art. 5º, caput, inciso VI** {#art5_cpt_inc6} Aquisição de máquinas e implementos agrícolas;
-- **Art. 5º, caput, inciso VII** {#art5_cpt_inc7} #energia-solar Instalação de painéis fotovoltaicos em unidades domiciliares e/ou pluridomiciliares, unidades industriais, comerciais, agropecuários, entre outros, em área inferior ou igual a 1,5 ha e em local coberto por rede pública de energia;
-- **Art. 5º, caput, inciso VIII** {#art5_cpt_inc8} #pesca Aquisição de máquinas, motores, reversores, guinchos, sistemas de refrigeração e armazenagem de pescado;
+- **Art. 5º, caput, inciso VII** {#art5_cpt_inc7} Instalação de painéis fotovoltaicos em unidades domiciliares e/ou pluridomiciliares, unidades industriais, comerciais, agropecuários, entre outros, em área inferior ou igual a 1,5 ha e em local coberto por rede pública de energia;
+- **Art. 5º, caput, inciso VIII** {#art5_cpt_inc8} Aquisição de máquinas, motores, reversores, guinchos, sistemas de refrigeração e armazenagem de pescado;
 - **Art. 5º, caput, inciso IX** {#art5_cpt_inc9} Aquisição de matrizes e de reprodutores ovinos, caprinos e bovinos para reprodução, recria e terminação;
 - **Art. 5º, caput, inciso X** {#art5_cpt_inc10} Aquisição de sêmen de bovinos, ovinos e caprinos;
 - **Art. 5º, caput, inciso XI** {#art5_cpt_inc11} Investimentos necessários à implementação de sistema de rastreabilidade de animais;
 - **Art. 5º, caput, inciso XII** {#art5_cpt_inc12} Projeto executivo de adequação sanitária e/ou ambiental;
-- **Art. 5º, caput, inciso XIII** {#art5_cpt_inc13} #viveiro Implantação e reforma de pomares e de viveiros para produção de mudas frutíferas e de flores;
+- **Art. 5º, caput, inciso XIII** {#art5_cpt_inc13} Implantação e reforma de pomares e de viveiros para produção de mudas frutíferas e de flores;
 - **Art. 5º, caput, inciso XIV** {#art5_cpt_inc14} Aquisição de equipamentos e instalações para proteção de pomares contra a incidência de granizo;
 - **Art. 5º, caput, inciso XV** {#art5_cpt_inc15} Implantação ou melhoramento de culturas de flores, inclusive a instalação, ampliação e modernização de benfeitorias e de sistemas de preparo, limpeza, padronização e condicionamento de flores;
 - **Art. 5º, caput, inciso XVI** {#art5_cpt_inc16} Aquisição de equipamentos e instalações de estrutura de apoio para plantio em ambiente protegido (casas de vegetação/estufas);
-- **Art. 5º, caput, inciso XVII** {#art5_cpt_inc17} #manejo-florestal Investimentos fixos e semifixos, inclusive os relacionados ao sistema de exploração denominado manejo florestal;
-- **Art. 5º, caput, inciso XVIII** {#art5_cpt_inc18} #floresta-plantada #especie-ameacada Reflorestamento e implantação de florestas, exceto as espécies nativas da flora incluídas nas listas oficiais de espécies ameaçadas de extinção.
-- **Art. 5º, caput, inciso XIX** {#art5_cpt_inc19} #viveiro Implantação de viveiros de mudas florestais;
-- **Art. 5º, caput, inciso XX** {#art5_cpt_inc20} #pastagem Formação ou recuperação de pastagens, inclusive operações de destoca, implantação e recuperação de cercas nas áreas que estão sendo recuperadas e aquisição, construção ou reformas de pequenos bebedouros e de saleiros ou cochos de sal e de ração;
+- **Art. 5º, caput, inciso XVII** {#art5_cpt_inc17} Investimentos fixos e semifixos, inclusive os relacionados ao sistema de exploração denominado manejo florestal;
+- **Art. 5º, caput, inciso XVIII** {#art5_cpt_inc18} Reflorestamento e implantação de florestas, exceto as espécies nativas da flora incluídas nas listas oficiais de espécies ameaçadas de extinção.
+- **Art. 5º, caput, inciso XIX** {#art5_cpt_inc19} Implantação de viveiros de mudas florestais;
+- **Art. 5º, caput, inciso XX** {#art5_cpt_inc20} Formação ou recuperação de pastagens, inclusive operações de destoca, implantação e recuperação de cercas nas áreas que estão sendo recuperadas e aquisição, construção ou reformas de pequenos bebedouros e de saleiros ou cochos de sal e de ração;
 - **Art. 5º, caput, inciso XXI** {#art5_cpt_inc21} Formação/implantação de culturas permanentes, incluindo os tratos culturais e insumos (sementes, fertilizantes, adubos, corretivos de solo etc.) e plantio de adubação verde;
-- **Art. 5º, caput, inciso XXII** {#art5_cpt_inc22} #conservacao-solo Adequação do solo para o plantio, envolvendo o preparo do solo, a aquisição, transporte, aplicação e incorporação de corretivos agrícolas (calcário, gesso agrícola, adubos e outros), a marcação e construção de terraços, curvas de nível e outras práticas conservacionistas do solo, realocação de estradas rurais internas à propriedade e plantio de culturas de cobertura do solo;
+- **Art. 5º, caput, inciso XXII** {#art5_cpt_inc22} Adequação do solo para o plantio, envolvendo o preparo do solo, a aquisição, transporte, aplicação e incorporação de corretivos agrícolas (calcário, gesso agrícola, adubos e outros), a marcação e construção de terraços, curvas de nível e outras práticas conservacionistas do solo, realocação de estradas rurais internas à propriedade e plantio de culturas de cobertura do solo;
 - **Art. 5º, caput, inciso XXIII** {#art5_cpt_inc23} Implantação de agricultura de precisão, incluindo a amostragem do solo e aplicação de fertilizantes e corretivos, demarcações e alinhamentos;
 - **Art. 5º, caput, inciso XXIV** {#art5_cpt_inc24} Custeio agrícola;
-- **Art. 5º, caput, inciso XXV** {#art5_cpt_inc25} #bovinocultura #avicultura #suinocultura #aquicultura Custeio e investimento pecuário, exceto bovinocultura em regime de confinamento, avicultura, piscicultura e suinocultura para os portes especificados em legislação específica;
+- **Art. 5º, caput, inciso XXV** {#art5_cpt_inc25} Custeio e investimento pecuário, exceto bovinocultura em regime de confinamento, avicultura, piscicultura e suinocultura para os portes especificados em legislação específica;
 - **Art. 5º, caput, inciso XXVI** {#art5_cpt_inc26} Aquisição de veículos;
 - **Art. 5º, caput, inciso XXVII** {#art5_cpt_inc27} Pecuária extensiva de ovinos, caprinos e bubalinos;
-- **Art. 5º, caput, inciso XXVIII** {#art5_cpt_inc28} #bovinocultura #subsistencia Empreendimentos de bovinocultura de subsistência que possuam até 2 (dois) bovinos, não sendo computadas, para fins de enquadramento, as progênies desses animais durante a fase de aleitamento, até o desmame;
-- **Art. 5º, caput, inciso XXIX** {#art5_cpt_inc29} #suinocultura #subsistencia Empreendimentos de suinocultura de subsistência que possuam até 10 (dez) suínos, não sendo computadas, para fins de enquadramento, as progênies desses animais durante a fase de aleitamento, até o desmame;
-- **Art. 5º, caput, inciso XXX** {#art5_cpt_inc30} #avicultura #subsistencia #area-construida Empreendimentos de avicultura de subsistência cuja área construída seja igual ou inferior a 50 m²;
-- **Art. 5º, caput, inciso XXXI** {#art5_cpt_inc31} #edificacao-rural #agrotoxico Construção de barracão/edificação em área rural destinado ao armazenamento de máquinas e/ou insumos agrícolas, para uso próprio, sem finalidade comercial, exceto agrotóxicos;
-- **Art. 5º, caput, inciso XXXII** {#art5_cpt_inc32} #edificacao-rural Construção de barracão/edificação em área rural sem definição prévia de uso, devendo o empreendimento ser submetido ao licenciamento ambiental quando da definição e implantação da respectiva atividade.
+- **Art. 5º, caput, inciso XXVIII** {#art5_cpt_inc28} Empreendimentos de bovinocultura de subsistência que possuam até 2 (dois) bovinos, não sendo computadas, para fins de enquadramento, as progênies desses animais durante a fase de aleitamento, até o desmame;
+- **Art. 5º, caput, inciso XXIX** {#art5_cpt_inc29} Empreendimentos de suinocultura de subsistência que possuam até 10 (dez) suínos, não sendo computadas, para fins de enquadramento, as progênies desses animais durante a fase de aleitamento, até o desmame;
+- **Art. 5º, caput, inciso XXX** {#art5_cpt_inc30} Empreendimentos de avicultura de subsistência cuja área construída seja igual ou inferior a 50 m²;
+- **Art. 5º, caput, inciso XXXI** {#art5_cpt_inc31} Construção de barracão/edificação em área rural destinado ao armazenamento de máquinas e/ou insumos agrícolas, para uso próprio, sem finalidade comercial, exceto agrotóxicos;
+- **Art. 5º, caput, inciso XXXII** {#art5_cpt_inc32} Construção de barracão/edificação em área rural sem definição prévia de uso, devendo o empreendimento ser submetido ao licenciamento ambiental quando da definição e implantação da respectiva atividade.
 
 ###### Art. 6º {#art6}
-Tags: #dila #validade #prazo
 
 **Art. 6º, caput** {#art6_cpt} A validade da Declaração de Inexigibilidade de Licença Ambiental - DILA será de 180 dias.
 
 ###### Art. 7º {#art7}
-Tags: #dila #renovacao
 
 **Art. 7º, caput** {#art7_cpt} A Declaração de Inexigibilidade de Licença Ambiental - DILA poderá ser renovada, desde que mantidas as características da Declaração já emitida.
 
 ###### Art. 8º {#art8}
-Tags: #dila #enquadramento #potencial-poluidor #alteracao
 
 **Art. 8º, caput** {#art8_cpt} Qualquer alteração em um dos critérios estabelecidos no [[#art4|art. 4º]] para os empreendimentos e/ou atividades agrícolas definidas no [[#art5|art. 5º]] desta Instrução Normativa, que acarretem o aumento do potencial poluidor/degradador do empreendimento e/ou atividade, o requerente deverá solicitar a licença ambiental correspondente ao novo enquadramento.
 
 ###### Art. 9º {#art9}
-Tags: #dila #requerimento #documentacao #cnpj #cpf #procuracao #dominialidade #declaracao-veracidade #car
 
 **Art. 9º, caput** {#art9_cpt} Os requerimentos para obtenção da Declaração de Inexigibilidade de Licença Ambiental – DILA, conforme [[#art5|Art. 5°]] da presente Instrução Normativa, podem ser protocolados por meio do sistema informatizado do IAT, instruídos na forma prevista abaixo:
 - **Art. 9º, caput, inciso I** {#art9_cpt_inc1} para pessoa jurídica:
-  - **Art. 9º, caput, inciso I, alínea "a"** {#art9_cpt_inc1_alia} #cnpj extrato do Cadastro Nacional de Pessoa Jurídica - CNPJ;
+  - **Art. 9º, caput, inciso I, alínea "a"** {#art9_cpt_inc1_alia} extrato do Cadastro Nacional de Pessoa Jurídica - CNPJ;
   - **Art. 9º, caput, inciso I, alínea "b"** {#art9_cpt_inc1_alib} cópia do Contrato Social ou Estatuto Social;
 - **Art. 9º, caput, inciso II** {#art9_cpt_inc2} para pessoa física:
-  - **Art. 9º, caput, inciso II, alínea "a"** {#art9_cpt_inc2_alia} #cpf cópia do Cadastro de Pessoa Física - CPF;
+  - **Art. 9º, caput, inciso II, alínea "a"** {#art9_cpt_inc2_alia} cópia do Cadastro de Pessoa Física - CPF;
   - **Art. 9º, caput, inciso II, alínea "b"** {#art9_cpt_inc2_alib} cópia do Registro Geral – RG;
 - **Art. 9º, caput, inciso III** {#art9_cpt_inc3} para representante legal:
   - **Art. 9º, caput, inciso III, alínea "a"** {#art9_cpt_inc3_alia} cópia do Cadastro de Pessoa Física - CPF do representante legal e do requerente;
   - **Art. 9º, caput, inciso III, alínea "b"** {#art9_cpt_inc3_alib} cópia do Registro Geral - RG do representante legal e do requerente;
-  - **Art. 9º, caput, inciso III, alínea "c"** {#art9_cpt_inc3_alic} #procuracao cópia do instrumento de procuração com firma reconhecida.
-- **Art. 9º, caput, inciso IV (numerado "VI" no original)** {#art9_cpt_inc4} #dominialidade Documento válido de comprovação de dominialidade, conforme exigências constantes do [[decreto-estadual-9541-2025#art13_par3|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Se imóvel locado, apresentar contrato de locação ou arrendamento.
-- **Art. 9º, caput, inciso V** {#art9_cpt_inc5} #declaracao-veracidade Declaração da veracidade das informações prestadas, assinada pelo representante legal do empreendimento/atividade conforme diretrizes do [[#anexo1|ANEXO I]];
-- **Art. 9º, caput, inciso VI** {#art9_cpt_inc6} #car Cópia de inscrição no Cadastro Ambiental Rural - CAR, para empreendimentos localizados em imóveis rurais, como exigido pela legislação vigente.
+  - **Art. 9º, caput, inciso III, alínea "c"** {#art9_cpt_inc3_alic} cópia do instrumento de procuração com firma reconhecida.
+- **Art. 9º, caput, inciso IV (numerado "VI" no original)** {#art9_cpt_inc4} Documento válido de comprovação de dominialidade, conforme exigências constantes do [[decreto-estadual-9541-2025#art13_par3|Decreto Estadual nº 9.541, de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]]. Se imóvel locado, apresentar contrato de locação ou arrendamento.
+- **Art. 9º, caput, inciso V** {#art9_cpt_inc5} Declaração da veracidade das informações prestadas, assinada pelo representante legal do empreendimento/atividade conforme diretrizes do [[#anexo1|ANEXO I]];
+- **Art. 9º, caput, inciso VI** {#art9_cpt_inc6} Cópia de inscrição no Cadastro Ambiental Rural - CAR, para empreendimentos localizados em imóveis rurais, como exigido pela legislação vigente.
 
 ###### Art. 10 {#art10}
-Tags: #dila #responsabilidade
 
 **Art. 10, caput** {#art10_cpt} A Declaração de Inexigibilidade de Licença Ambiental - DILA não exime o dispensado das exigências legais quanto a preservação do meio ambiente.
 
 ###### Art. 11 {#art11}
-Tags: #complementacao #documentacao
 
 **Art. 11, caput** {#art11_cpt} O órgão ambiental competente poderá solicitar outros documentos e/ou informações complementares do requerente ou de outras instituições envolvidas no licenciamento ambiental em questão, caso haja necessidade.
 
 ###### Art. 12 {#art12}
-Tags: #sancao #infracao-ambiental #dano-ambiental #recuperacao-ambiental
 
 **Art. 12, caput** {#art12_cpt} O não cumprimento do disposto nesta Instrução Normativa sujeitará os infratores às sanções previstas nas Leis Federais [[lei-federal-6938-1981|n.º 6.938 de 31 de agosto de 1981]], [[lei-federal-9605-1998|n.º 9.605 de 12 de fevereiro de 1998]], [[decreto-federal-6514-2008|Decreto Federal 6.514 de 06 de julho de 2008]] e demais instrumentos normativos pertinentes, sem prejuízo ao dever de recuperar os danos ambientais causados, na forma do [[constituicao-federal-1988#art225_par3|Art. 225, §3º, da Constituição Federal]], e do [[lei-federal-6938-1981#art14_par1|Art. 14, § 1°, da Lei Federal n. 6.938, de 1981]].
 
 ###### Art. 13 {#art13}
-Tags: #casos-omissos
 
 **Art. 13, caput** {#art13_cpt} Os casos omissos ou situações não previstas nesta Instrução Normativa serão analisados pelo Instituto Água e Terra - IAT e enquadrados na legislação ambiental vigente conforme as características particulares de cada empreendimento.
 
 ###### Art. 14 {#art14}
-Tags: #vigencia #revogacao
 
 **Art. 14, caput** {#art14_cpt} Esta Instrução Normativa entra em vigor na data de sua publicação, ficando revogada demais disposições em contrário.
 

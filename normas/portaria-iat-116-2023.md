@@ -40,7 +40,6 @@ RESOLVE
 
 ###### Art. 1º {#art1}
 
-Tags: #agrotoxico #embalagem #multa #licenciamento-ambiental #infracao-ambiental
 
 **Art. 1º, caput** {#art1_cpt} Estabelecer critérios para enquadramento das infrações e aplicação de multas ambientais relacionadas a logística reversa de embalagens de agrotóxicos, decorrentes da entrega considerada não tríplice lavadas corretamente, em desacordo com as orientações técnicas.
 
@@ -62,7 +61,6 @@ Tags: #agrotoxico #embalagem #multa #licenciamento-ambiental #infracao-ambiental
 
 ###### Art. 2º {#art2}
 
-Tags: #agrotoxico #embalagem #multa
 
 **Art. 2º, caput** {#art2_cpt} Esta Portaria entra em vigor na data de sua publicação, ficando revogada a [[portaria-iap-127-2016|Portaria IAP nº 127, de 24 de junho de 2016]].
 

@@ -19,7 +19,7 @@ fonte: PDF da IN IAT 41/2025, páginas 80 a 84
 
 ## Texto do anexo {#texto-anexo}
 
-- **Anexo VII, linha 1** {#anexo7_lin1} #pca #art-anotacao O Projeto de Controle de Poluição Ambiental deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
+- **Anexo VII, linha 1** {#anexo7_lin1} O Projeto de Controle de Poluição Ambiental deverá ser elaborado por técnico habilitado e apresentado acompanhado da respectiva Anotação de Responsabilidade Técnica – ART, conforme as diretrizes listadas a seguir.
 - **Anexo VII, linha 2** {#anexo7_lin2} 1. INFORMAÇÕES CADASTRAIS
 - **Anexo VII, linha 3** {#anexo7_lin3} • Razão social;
 - **Anexo VII, linha 4** {#anexo7_lin4} • Nome Fantasia;
@@ -31,10 +31,10 @@ fonte: PDF da IN IAT 41/2025, páginas 80 a 84
 - **Anexo VII, linha 10** {#anexo7_lin10} • Número de funcionários;
 - **Anexo VII, linha 11** {#anexo7_lin11} • Período de funcionamento.
 - **Anexo VII, linha 12** {#anexo7_lin12} 2. TIPO (NATUREZA) DO ESTABELECIMENTO
-- **Anexo VII, linha 13** {#anexo7_lin13} #cnae Indicar a tipologia do empreendimento e atividades a serem executadas conforme Classificação Nacional de Atividades Econômicas – CNAE.
+- **Anexo VII, linha 13** {#anexo7_lin13} Indicar a tipologia do empreendimento e atividades a serem executadas conforme Classificação Nacional de Atividades Econômicas – CNAE.
 - **Anexo VII, linha 14** {#anexo7_lin14} 3. SITUAÇÃO DO EMPREENDIMENTO
 - **Anexo VII, linha 15** {#anexo7_lin15} Indicar a situação atual do empreendimento (empreendimento novo, ampliação e/ou reforma).
-- **Anexo VII, linha 16** {#anexo7_lin16} #ampliacao #diagnostico-ambiental Em caso de ampliação, apresentar o diagnóstico da situação atual do empreendimento indicando as áreas e sistemas que passarão por modificações e melhorias.
+- **Anexo VII, linha 16** {#anexo7_lin16} Em caso de ampliação, apresentar o diagnóstico da situação atual do empreendimento indicando as áreas e sistemas que passarão por modificações e melhorias.
 - **Anexo VII, linha 17** {#anexo7_lin17} 4. CARACTERIZAÇÃO DA ÁREA
 - **Anexo VII, linha 18** {#anexo7_lin18} Apresentar a caracterização das áreas atuais do empreendimento, bem como das áreas previstas para as ampliações e(ou) reformas contendo no mínimo:
 - **Anexo VII, linha 19** {#anexo7_lin19} a. Para empreendimentos novos:
@@ -43,30 +43,30 @@ fonte: PDF da IN IAT 41/2025, páginas 80 a 84
 - **Anexo VII, linha 22** {#anexo7_lin22} iii. Área livre;
 - **Anexo VII, linha 23** {#anexo7_lin23} iv. Áreas destinadas a ampliações futuras
 - **Anexo VII, linha 24** {#anexo7_lin24} v. Área destinada ao sistema de controle de poluição ambiental (central de resíduos sólidos, áreas de armazenamento temporário de resíduos, efluentes, estações de tratamento de efluentes e sistemas de controle de emissões atmosféricas);
-- **Anexo VII, linha 25** {#anexo7_lin25} #zoneamento b. Zoneamentos de acordo com as diretrizes municipais;
-- **Anexo VII, linha 26** {#anexo7_lin26} #georreferenciamento c. Coordenadas em UTM;
+- **Anexo VII, linha 25** {#anexo7_lin25} b. Zoneamentos de acordo com as diretrizes municipais;
+- **Anexo VII, linha 26** {#anexo7_lin26} c. Coordenadas em UTM;
 - **Anexo VII, linha 27** {#anexo7_lin27} d.Tipo e característica do solo considerando o Sistema Brasileiro de Classificação de Solo da Embrapa, em sua versão mais atualizada;
 - **Anexo VII, linha 28** {#anexo7_lin28} e. Topografia;
-- **Anexo VII, linha 29** {#anexo7_lin29} #recurso-hidrico f. Recursos Hídricos (nascentes, olhos d’água, cursos d’água, etc.);
-- **Anexo VII, linha 30** {#anexo7_lin30} #geologia g. Geologia/hidrogeologia/geotecnia;
+- **Anexo VII, linha 29** {#anexo7_lin29} f. Recursos Hídricos (nascentes, olhos d’água, cursos d’água, etc.);
+- **Anexo VII, linha 30** {#anexo7_lin30} g. Geologia/hidrogeologia/geotecnia;
 - **Anexo VII, linha 31** {#anexo7_lin31} h. Cobertura Vegetal;
 - **Anexo VII, linha 32** {#anexo7_lin32} i. Acessos (alternativas, condições de tráfego);
-- **Anexo VII, linha 33** {#anexo7_lin33} #uso-solo j. Características do entorno (uso do solo, residências, áreas de interesse ambiental, etc.).
-- **Anexo VII, linha 34** {#anexo7_lin34} #mapa-situacao #georreferenciamento 5. MAPA DE SITUAÇÃO DO EMPREENDIMENTO, COM IMAGEM ATUALIZADA, EM DATUM SIRGAS 2000, PROJEÇÃO UTM E CONTENDO, NO MÍNIMO
-- **Anexo VII, linha 35** {#anexo7_lin35} #car a. Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural (em caso de imóvel rural);
-- **Anexo VII, linha 36** {#anexo7_lin36} #area-influencia b. Área Diretamente Afetada, Área de Influência Direta e Área de Influência Indireta;
-- **Anexo VII, linha 37** {#anexo7_lin37} #unidade-conservacao #manancial c. Unidades de Conservação e Mananciais nas áreas de influência;
+- **Anexo VII, linha 33** {#anexo7_lin33} j. Características do entorno (uso do solo, residências, áreas de interesse ambiental, etc.).
+- **Anexo VII, linha 34** {#anexo7_lin34} 5. MAPA DE SITUAÇÃO DO EMPREENDIMENTO, COM IMAGEM ATUALIZADA, EM DATUM SIRGAS 2000, PROJEÇÃO UTM E CONTENDO, NO MÍNIMO
+- **Anexo VII, linha 35** {#anexo7_lin35} a. Limites da propriedade, conforme matrícula do imóvel e condizentes com o Cadastro Ambiental Rural (em caso de imóvel rural);
+- **Anexo VII, linha 36** {#anexo7_lin36} b. Área Diretamente Afetada, Área de Influência Direta e Área de Influência Indireta;
+- **Anexo VII, linha 37** {#anexo7_lin37} c. Unidades de Conservação e Mananciais nas áreas de influência;
 - **Anexo VII, linha 38** {#anexo7_lin38} d. Estruturas físicas;
-- **Anexo VII, linha 39** {#anexo7_lin39} #corpo-hidrico e. Corpos hídricos;
-- **Anexo VII, linha 40** {#anexo7_lin40} #app f. Áreas de preservação permanente;
-- **Anexo VII, linha 41** {#anexo7_lin41} #reserva-legal g. Áreas de Reserva Legal e maciços florestais remanescentes;
+- **Anexo VII, linha 39** {#anexo7_lin39} e. Corpos hídricos;
+- **Anexo VII, linha 40** {#anexo7_lin40} f. Áreas de preservação permanente;
+- **Anexo VII, linha 41** {#anexo7_lin41} g. Áreas de Reserva Legal e maciços florestais remanescentes;
 - **Anexo VII, linha 42** {#anexo7_lin42} h. Vias de acesso principais;
 - **Anexo VII, linha 43** {#anexo7_lin43} i. Pontos de referência;
 - **Anexo VII, linha 44** {#anexo7_lin44} j. Arquivos vetoriais (formato *.kml/.kmz*) dos componentes exigidos nas alíneas anteriores.
 - **Anexo VII, linha 45** {#anexo7_lin45} 6. CARACTERIZAÇÃO DAS OBRAS PREVISTAS
-- **Anexo VII, linha 46** {#anexo7_lin46} #supressao-vegetacao #movimentacao-solo a. Descritivo das obras e intervenções previstas, tais como supressão de vegetação, intervenções em corpos hídricos, movimentação de terra, entre outros.
+- **Anexo VII, linha 46** {#anexo7_lin46} a. Descritivo das obras e intervenções previstas, tais como supressão de vegetação, intervenções em corpos hídricos, movimentação de terra, entre outros.
 - **Anexo VII, linha 47** {#anexo7_lin47} 7. CARACTERIZAÇÃO DA ATIVIDADE
-- **Anexo VII, linha 48** {#anexo7_lin48} #compostagem a. Descritivo e fluxograma do processo indicando no mínimo:
+- **Anexo VII, linha 48** {#anexo7_lin48} a. Descritivo e fluxograma do processo indicando no mínimo:
 - **Anexo VII, linha 49** {#anexo7_lin49} i. Todas as operações que compõem os processos ou linhas de produção;
 - **Anexo VII, linha 50** {#anexo7_lin50} ii. Processos de utilização de água;
 - **Anexo VII, linha 51** {#anexo7_lin51} iii. Todos os pontos de origem de efluentes líquidos, de emissões gasosas e resíduos sólidos.
@@ -74,34 +74,34 @@ fonte: PDF da IN IAT 41/2025, páginas 80 a 84
 - **Anexo VII, linha 53** {#anexo7_lin53} c. Relação completa dos produtos químicos manuseados em sua atividade e respectivas quantidades estocadas (inclusive em equipamentos de processo);
 - **Anexo VII, linha 54** {#anexo7_lin54} d. Principais instalações e unidades de apoio, tais como área industrial, pátio de estacionamento de veículos leves, pátio de estacionamento de veículos pesados, utilidades, estações de tratamento de água e efluentes, entre outros.
 - **Anexo VII, linha 55** {#anexo7_lin55} 8. ASPECTOS AMBIENTAIS
-- **Anexo VII, linha 56** {#anexo7_lin56} #recurso-hidrico a. Recursos hídricos
+- **Anexo VII, linha 56** {#anexo7_lin56} a. Recursos hídricos
 - **Anexo VII, linha 57** {#anexo7_lin57} i. Balanço hídrico previsto de utilização de água indicando no mínimo:
 - **Anexo VII, linha 58** {#anexo7_lin58} - Fontes de captação de água;
 - **Anexo VII, linha 59** {#anexo7_lin59} -Vazões utilizadas em cada etapa do processo industrial, consumo humano, higienização de máquinas, equipamentos e instalações, e indicar o período de utilização para cada uso;
-- **Anexo VII, linha 60** {#anexo7_lin60} #outorga-previa - Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.
-- **Anexo VII, linha 61** {#anexo7_lin61} #efluente ii. Balanço hídrico previsto da geração de efluentes líquidos indicando no mínimo:
+- **Anexo VII, linha 60** {#anexo7_lin60} - Portarias de Outorga Prévia ou Declaração de Uso Independente de Outorga referente as fontes de captação de água.
+- **Anexo VII, linha 61** {#anexo7_lin61} ii. Balanço hídrico previsto da geração de efluentes líquidos indicando no mínimo:
 - **Anexo VII, linha 62** {#anexo7_lin62} - Fontes de geração de efluentes líquidos (sanitário, processo industrial, lavagem de máquinas, equipamentos e instalações, entre outros);
 - **Anexo VII, linha 63** {#anexo7_lin63} - Vazões previstas de cada fonte identificada;
-- **Anexo VII, linha 64** {#anexo7_lin64} #tratamento-efluente - Sistema de tratamento previsto, indicando as etapas do tratamento e produtos químicos utilizados;
-- **Anexo VII, linha 65** {#anexo7_lin65} #lancamento - Destinação final dos efluentes gerados, indicando o ponto de lançamento do efluente industrial tratado em rede coletiva, se for o caso, e ponto do emissário no corpo hídrico.
-- **Anexo VII, linha 66** {#anexo7_lin66} #reuso-efluente - Em caso de reutilização do efluente, apresentar descritivo do quantitativo e qualitativo do efluente tratado necessários para o reuso, bem como pontos de reuso e em caso de lançamento em corpo hídrico, apresentar informações quanto ao ponto de lançamento, indicando se há interligação com o efluente industrial tratado ou se o lançamento do efluente sanitário tratado possui um ponto de lançamento independente.
-- **Anexo VII, linha 67** {#anexo7_lin67} #agua-pluvial iii. Drenagem pluvial
+- **Anexo VII, linha 64** {#anexo7_lin64} - Sistema de tratamento previsto, indicando as etapas do tratamento e produtos químicos utilizados;
+- **Anexo VII, linha 65** {#anexo7_lin65} - Destinação final dos efluentes gerados, indicando o ponto de lançamento do efluente industrial tratado em rede coletiva, se for o caso, e ponto do emissário no corpo hídrico.
+- **Anexo VII, linha 66** {#anexo7_lin66} - Em caso de reutilização do efluente, apresentar descritivo do quantitativo e qualitativo do efluente tratado necessários para o reuso, bem como pontos de reuso e em caso de lançamento em corpo hídrico, apresentar informações quanto ao ponto de lançamento, indicando se há interligação com o efluente industrial tratado ou se o lançamento do efluente sanitário tratado possui um ponto de lançamento independente.
+- **Anexo VII, linha 67** {#anexo7_lin67} iii. Drenagem pluvial
 - **Anexo VII, linha 68** {#anexo7_lin68} - Área impermeabilizada e sistema de drenagem pluvial previsto, indicando as formas de tratamento e destinação final das águas incidentes nas áreas impermeabilizadas.
 - **Anexo VII, linha 69** {#anexo7_lin69} - Descrição detalhada do sistema de captação, transporte e disposição das águas pluviais incidentes em áreas impermeabilizadas do empreendimento.
-- **Anexo VII, linha 70** {#anexo7_lin70} #residuo-solido b. Resíduos Sólidos:
+- **Anexo VII, linha 70** {#anexo7_lin70} b. Resíduos Sólidos:
 - **Anexo VII, linha 71** {#anexo7_lin71} i. Estimativa da geração de resíduos sólidos indicando no mínimo:
 - **Anexo VII, linha 72** {#anexo7_lin72} • Código IBAMA;
 - **Anexo VII, linha 73** {#anexo7_lin73} • Resíduos Específico;
 - **Anexo VII, linha 74** {#anexo7_lin74} • Origem do resíduo;
 - **Anexo VII, linha 75** {#anexo7_lin75} • Quantificação diária estimada;
 - **Anexo VII, linha 76** {#anexo7_lin76} • Tratamento e destinação final;
-- **Anexo VII, linha 77** {#anexo7_lin77} #armazenamento-residuo #residuo-perigoso ii. Especificar a área de armazenamento de resíduos não perigosos e perigosos.
-- **Anexo VII, linha 78** {#anexo7_lin78} #emissao-atmosferica c. Emissões atmosféricas e sistemas de controle.
+- **Anexo VII, linha 77** {#anexo7_lin77} ii. Especificar a área de armazenamento de resíduos não perigosos e perigosos.
+- **Anexo VII, linha 78** {#anexo7_lin78} c. Emissões atmosféricas e sistemas de controle.
 - **Anexo VII, linha 79** {#anexo7_lin79} i. Fontes de geração de emissões atmosféricas e sistemas de tratamento propostos;
-- **Anexo VII, linha 80** {#anexo7_lin80} #emissao-fugitiva ii. Especificar detalhadamente todos os processos geradores de poluição do ar seja através de dutos, chaminés ou emissões fugitivas;
+- **Anexo VII, linha 80** {#anexo7_lin80} ii. Especificar detalhadamente todos os processos geradores de poluição do ar seja através de dutos, chaminés ou emissões fugitivas;
 - **Anexo VII, linha 81** {#anexo7_lin81} iii. Especificar o período de funcionamento previsto para cada processo, o número e altura das chaminés ou dutos em relação ao nível do solo e os combustíveis a serem utilizados;
 - **Anexo VII, linha 82** {#anexo7_lin82} iv. Especificar o sistema de tratamento das emissões atmosféricas existentes para cada uma das fontes identificadas, tais como filtros, ciclones, lavadores de gases, etc., com indicação da eficiência de projeto;
-- **Anexo VII, linha 83** {#anexo7_lin83} #padrao-emissao v. Apresentar o enquadramento de cada processo e os padrões de emissão e de condicionamento a serem atendidos, bem como a frequência de amostragem de emissões e metodologias de análise e amostragem a serem utilizadas, com as respectivas justificativas, em conformidade com o estabelecido na [[resolucao-sedest-2-2025|Resolução SEDEST nº 02, de 16 de janeiro de 2025]].
+- **Anexo VII, linha 83** {#anexo7_lin83} v. Apresentar o enquadramento de cada processo e os padrões de emissão e de condicionamento a serem atendidos, bem como a frequência de amostragem de emissões e metodologias de análise e amostragem a serem utilizadas, com as respectivas justificativas, em conformidade com o estabelecido na [[resolucao-sedest-2-2025|Resolução SEDEST nº 02, de 16 de janeiro de 2025]].
 
 ## Síntese do conversor (não é texto normativo) {#sintese}
 

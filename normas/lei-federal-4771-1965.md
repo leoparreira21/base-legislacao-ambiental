@@ -34,7 +34,6 @@ fonte: "Planalto (Presidência da República – Casa Civil), impressão do nave
 **Preâmbulo** {#preambulo} O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
 ###### Art. 1º {#art1}
-Tags:
 Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]] (renumerado: § 1º; incluído: § 2º, § 2º, inciso I, § 2º, inciso I, alínea "a", § 2º, inciso I, alínea "b", § 2º, inciso I, alínea "c", § 2º, inciso II, § 2º, inciso III, § 2º, inciso IV, § 2º, inciso IV, alínea "a", § 2º, inciso IV, alínea "c", § 2º, inciso V, § 2º, inciso V, alínea "a", § 2º, inciso V, alínea "b", § 2º, inciso V, alínea "c", § 2º, inciso VI); [[lei-federal-11934-2009|Lei nº 11.934, de 2009]] (nova redação: § 2º, inciso IV, alínea "b")
 
 **Art. 1º, caput** {#art1_cpt} As florestas existentes no território nacional e as demais formas de vegetação, reconhecidas de utilidade às terras que revestem, são bens de interesse comum a todos os habitantes do País, exercendo-se os direitos de propriedade, com as limitações que a legislação em geral e especialmente esta Lei estabelecem.
@@ -59,7 +58,6 @@ Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, 
 - **Art. 1º, § 2º, inciso VI** {#art1_par2_inc6} #incluido Amazônia Legal: os Estados do Acre, Pará, Amazonas, Roraima, Rondônia, Amapá e Mato Grosso e as regiões situadas ao norte do paralelo 13o S, dos Estados de Tocantins e Goiás, e ao oeste do meridiano de 44o W, do Estado do Maranhão. *(Incluído pela [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]])*
 
 ###### Art. 2º {#art2}
-Tags:
 Alterações: [[lei-federal-7803-1989|Lei nº 7.803 de 18.7.1989]] (nova redação: alínea "a", alínea "a", item 1, alínea "a", item 2, alínea "a", item 3, alínea "a", item 4, alínea "c", alínea "g", alínea "h"; incluído: alínea "a", item 5, parágrafo único); [[lei-federal-6535-1978|Lei nº 6.535, de 1978]] (incluído: alínea "i")
 
 **Art. 2º, caput** {#art2_cpt} Consideram-se de preservação permanente, pelo só efeito desta Lei, as florestas e demais formas de vegetação natural situadas:
@@ -81,7 +79,6 @@ Alterações: [[lei-federal-7803-1989|Lei nº 7.803 de 18.7.1989]] (nova redaç�
 **Art. 2º, parágrafo único** {#art2_par1u} #incluido No caso de áreas urbanas, assim entendidas as compreendidas nos perímetros urbanos definidos por lei municipal, e nas regiões metropolitanas e aglomerações urbanas, em todo o território abrangido, obervar-se-á o disposto nos respectivos planos diretores e leis de uso do solo, respeitados os princípios e limites a que se refere este artigo. *(Incluído pela [[lei-federal-7803-1989|Lei nº 7.803 de 18.7.1989]])*
 
 ###### Art. 3º {#art3}
-Tags:
 
 **Art. 3º, caput** {#art3_cpt} Consideram-se, ainda, de preservação permanentes, quando assim declaradas por ato do Poder Público, as florestas e demais formas de vegetação natural destinadas:
 - **Art. 3º, caput, alínea "a"** {#art3_cpt_alia} a atenuar a erosão das terras;
@@ -98,13 +95,11 @@ Tags:
 **Art. 3º, § 2º** {#art3_par2} As florestas que integram o Patrimônio Indígena ficam sujeitas ao regime de preservação permanente (letra g) pelo só efeito desta Lei.
 
 ###### Art. 3º-A {#art3-a}
-Tags:
 Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]] (incluído: caput)
 
 **Art. 3º-A, caput** {#art3-a_cpt} #incluido A exploração dos recursos florestais em terras indígenas somente poderá ser realizada pelas comunidades indígenas em regime de manejo florestal sustentável, para atender a sua subsistência, respeitados os arts. [[#art2|2o]] e [[#art3|3o]] deste Código. *(Incluído pela [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]])*
 
 ###### Art. 4º {#art4}
-Tags:
 Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]] (nova redação: caput; incluído: § 1º, § 2º, § 3º, § 4º, § 5º, § 6º, § 7º)
 
 **Art. 4º, caput** {#art4_cpt} #redacao-alterada A supressão de vegetação em área de preservação permanente somente poderá ser autorizada em caso de utilidade pública ou de interesse social, devidamente caracterizados e motivados em procedimento administrativo próprio, quando inexistir alternativa técnica e locacional ao empreendimento proposto. *(Redação dada pela [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]])*
@@ -124,54 +119,44 @@ Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, 
 **Art. 4º, § 7º** {#art4_par7} #incluido É permitido o acesso de pessoas e animais às áreas de preservação permanente, para obtenção de água, desde que não exija a supressão e não comprometa a regeneração e a manutenção a longo prazo da vegetação nativa. *(Incluído pela [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]])*
 
 ###### Art. 5º {#art5}
-Tags:
 Alterações: [[lei-federal-9985-2000|Lei nº 9.985, de 18.7.2000]] (revogado: caput)
 
 **Art. 5º, caput** {#art5_cpt} #revogado *(Revogado pela [[lei-federal-9985-2000|Lei nº 9.985, de 18.7.2000]])*
 
 ###### Art. 6º {#art6}
-Tags:
 Alterações: [[lei-federal-9985-2000|Lei nº 9.985, de 18.7.2000]] (revogado: caput)
 
 **Art. 6º, caput** {#art6_cpt} #revogado *(Revogado pela [[lei-federal-9985-2000|Lei nº 9.985, de 18.7.2000]])*
 
 ###### Art. 7º {#art7}
-Tags:
 
 **Art. 7º, caput** {#art7_cpt} Qualquer árvore poderá ser declarada imune de corte, mediante ato do Poder Público, por motivo de sua localização, raridade, beleza ou condição de porta-sementes.
 
 ###### Art. 8º {#art8}
-Tags:
 
 **Art. 8º, caput** {#art8_cpt} Na distribuição de lotes destinados à agricultura, em planos de colonização e de reforma agrária, não devem ser incluídas as áreas florestadas de preservação permanente de que trata esta Lei, nem as florestas necessárias ao abastecimento local ou nacional de madeiras e outros produtos florestais.
 
 ###### Art. 9º {#art9}
-Tags:
 
 **Art. 9º, caput** {#art9_cpt} As florestas de propriedade particular, enquanto indivisas com outras, sujeitas a regime especial, ficam subordinadas às disposições que vigorarem para estas.
 
 ###### Art. 10 {#art10}
-Tags:
 
 **Art. 10, caput** {#art10_cpt} Não é permitida a derrubada de florestas, situadas em áreas de inclinação entre 25 a 45 graus, só sendo nelas tolerada a extração de toros, quando em regime de utilização racional, que vise a rendimentos permanentes.
 
 ###### Art. 11 {#art11}
-Tags:
 
 **Art. 11, caput** {#art11_cpt} O emprego de produtos florestais ou hulha como combustível obriga o uso de dispositivo, que impeça difusão de fagulhas suscetíveis de provocar incêndios, nas florestas e demais formas de vegetação marginal.
 
 ###### Art. 12 {#art12}
-Tags:
 
 **Art. 12, caput** {#art12_cpt} Nas florestas plantadas, não consideradas de preservação permanente, é livre a extração de lenha e demais produtos florestais ou a fabricação de carvão. Nas demais florestas dependerá de norma estabelecida em ato do Poder Federal ou Estadual, em obediência a prescrições ditadas pela técnica e às peculiaridades locais. *(Regulamento)*
 
 ###### Art. 13 {#art13}
-Tags:
 
 **Art. 13, caput** {#art13_cpt} O comércio de plantas vivas, oriundas de florestas, dependerá de licença da autoridade competente.
 
 ###### Art. 14 {#art14}
-Tags:
 Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]] (nova redação: alínea "b")
 
 **Art. 14, caput** {#art14_cpt} Além dos preceitos gerais a que está sujeita a utilização das florestas, o Poder Público Federal ou Estadual poderá:
@@ -180,12 +165,10 @@ Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, 
 - **Art. 14, caput, alínea "c"** {#art14_cpt_alic} ampliar o registro de pessoas físicas ou jurídicas que se dediquem à extração, indústria e comércio de produtos ou subprodutos florestais.
 
 ###### Art. 15 {#art15}
-Tags:
 
 **Art. 15, caput** {#art15_cpt} Fica proibida a exploração sob forma empírica das florestas primitivas da bacia amazônica que só poderão ser utilizadas em observância a planos técnicos de condução e manejo a serem estabelecidos por ato do Poder Público, a ser baixado dentro do prazo de um ano. *(Regulamento)*
 
 ###### Art. 16 {#art16}
-Tags:
 Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]] (nova redação: caput, § 1º, § 2º, § 3º; incluído: inciso I, inciso II, inciso III, inciso IV, § 4º, § 4º, inciso I, § 4º, inciso II, § 4º, inciso III, § 4º, inciso IV, § 4º, inciso V, § 5º, § 5º, inciso I, § 5º, inciso II, § 6º, § 6º, inciso I, § 6º, inciso II, § 6º, inciso III, § 7º, § 8º, § 9º, § 10, § 11)
 
 **Art. 16, caput** {#art16_cpt} #redacao-alterada As florestas e outras formas de vegetação nativa, ressalvadas as situadas em área de preservação permanente, assim como aquelas não sujeitas ao regime de utilização limitada ou objeto de legislação específica, são suscetíveis de supressão, desde que sejam mantidas, a título de reserva legal, no mínimo: *(Redação dada pela [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]])* *(Regulamento)*
@@ -227,12 +210,10 @@ Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, 
 **Art. 16, § 11** {#art16_par11} #incluido Poderá ser instituída reserva legal em regime de condomínio entre mais de uma propriedade, respeitado o percentual legal em relação a cada imóvel, mediante a aprovação do órgão ambiental estadual competente e as devidas averbações referentes a todos os imóveis envolvidos. *(Incluído pela [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]])*
 
 ###### Art. 17 {#art17}
-Tags:
 
 **Art. 17, caput** {#art17_cpt} Nos loteamentos de propriedades rurais, a área destinada a completar o limite percentual fixado na letra a do artigo antecedente, poderá ser agrupada numa só porção em condomínio entre os adquirentes.
 
 ###### Art. 18 {#art18}
-Tags:
 
 **Art. 18, caput** {#art18_cpt} Nas terras de propriedade privada, onde seja necessário o florestamento ou o reflorestamento de preservação permanente, o Poder Público Federal poderá fazê-lo sem desapropriá-las, se não o fizer o proprietário.
 
@@ -241,7 +222,6 @@ Tags:
 **Art. 18, § 2º** {#art18_par2} As áreas assim utilizadas pelo Poder Público Federal ficam isentas de tributação.
 
 ###### Art. 19 {#art19}
-Tags:
 Alterações: [[lei-federal-11284-2006|Lei nº 11.284, de 2006]] (nova redação: caput, § 1º; incluído: § 1º, inciso I, § 1º, inciso II, § 1º, inciso III, § 2º, § 2º, inciso I, § 2º, inciso II, § 2º, inciso III, § 3º)
 
 **Art. 19, caput** {#art19_cpt} #redacao-alterada A exploração de florestas e formações sucessoras, tanto de domínio público como de domínio privado, dependerá de prévia aprovação pelo órgão estadual competente do Sistema Nacional do Meio Ambiente - SISNAMA, bem como da adoção de técnicas de condução, exploração, reposição florestal e manejo compatíveis com os variados ecossistemas que a cobertura arbórea forme. *(Redação dada pela [[lei-federal-11284-2006|Lei nº 11.284, de 2006]])* *(Regulamento)*
@@ -259,21 +239,18 @@ Alterações: [[lei-federal-11284-2006|Lei nº 11.284, de 2006]] (nova redação
 **Art. 19, § 3º** {#art19_par3} #incluido No caso de reposição florestal, deverão ser priorizados projetos que contemplem a utilização de espécies nativas. *(Incluído pela [[lei-federal-11284-2006|Lei nº 11.284, de 2006]])*
 
 ###### Art. 20 {#art20}
-Tags:
 
 **Art. 20, caput** {#art20_cpt} As empresas industriais que, por sua natureza, consumirem grande quantidades de matéria prima florestal serão obrigadas a manter, dentro de um raio em que a exploração e o transporte sejam julgados econômicos, um serviço organizado, que assegure o plantio de novas áreas, em terras próprias ou pertencentes a terceiros, cuja produção sob exploração racional, seja equivalente ao consumido para o seu abastecimento. *(Regulamento)*
 
 **Art. 20, parágrafo único** {#art20_par1u} O não cumprimento do disposto neste artigo, além das penalidades previstas neste Código, obriga os infratores ao pagamento de uma multa equivalente a 10% (dez por cento) do valor comercial da matéria-prima florestal nativa consumida além da produção da qual participe.
 
 ###### Art. 21 {#art21}
-Tags:
 
 **Art. 21, caput** {#art21_cpt} As empresas siderúrgicas, de transporte e outras, à base de carvão vegetal, lenha ou outra matéria prima florestal, são obrigadas a manter florestas próprias para exploração racional ou a formar, diretamente ou por intermédio de empreendimentos dos quais participem, florestas destinadas ao seu suprimento *(Regulamento)*
 
 **Art. 21, parágrafo único** {#art21_par1u} A autoridade competente fixará para cada empresa o prazo que lhe é facultado para atender ao disposto neste artigo, dentro dos limites de 5 a 10 anos.
 
 ###### Art. 22 {#art22}
-Tags:
 Alterações: [[lei-federal-7803-1989|Lei nº 7.803 de 18.7.1989]] (nova redação: caput; incluído: parágrafo único)
 
 **Art. 22, caput** {#art22_cpt} #redacao-alterada A União, diretamente, através do órgão executivo específico, ou em convênio com os Estados e Municípios, fiscalizará a aplicação das normas deste Código, podendo, para tanto, criar os serviços indispensáveis. *(Redação dada pela [[lei-federal-7803-1989|Lei nº 7.803 de 18.7.1989]])*
@@ -281,22 +258,18 @@ Alterações: [[lei-federal-7803-1989|Lei nº 7.803 de 18.7.1989]] (nova redaç�
 **Art. 22, parágrafo único** {#art22_par1u} #incluido Nas áreas urbanas, a que se refere o parágrafo único do art. [[#art2|2º]] desta Lei, a fiscalização é da competência dos municípios, atuando a União supletivamente. *(Incluído pela [[lei-federal-7803-1989|Lei nº 7.803 de 18.7.1989]])*
 
 ###### Art. 23 {#art23}
-Tags:
 
 **Art. 23, caput** {#art23_cpt} A fiscalização e a guarda das florestas pelos serviços especializados não excluem a ação da autoridade policial por iniciativa própria.
 
 ###### Art. 24 {#art24}
-Tags:
 
 **Art. 24, caput** {#art24_cpt} Os funcionários florestais, no exercício de suas funções, são equiparados aos agentes de segurança pública, sendo-lhes assegurado o porte de armas.
 
 ###### Art. 25 {#art25}
-Tags:
 
 **Art. 25, caput** {#art25_cpt} Em caso de incêndio rural, que não se possa extinguir com os recursos ordinários, compete não só ao funcionário florestal, como a qualquer outra autoridade pública, requisitar os meios materiais e convocar os homens em condições de prestar auxílio.
 
 ###### Art. 26 {#art26}
-Tags:
 Alterações: [[lei-federal-5870-1973|Lei nº 5.870, de 26.3.1973]] (incluído: alínea "q")
 
 **Art. 26, caput** {#art26_cpt} Constituem contravenções penais, puníveis com três meses a um ano de prisão simples ou multa de uma a cem vezes o salário-mínimo mensal, do lugar e da data da infração ou ambas as penas cumulativamente:
@@ -318,19 +291,16 @@ Alterações: [[lei-federal-5870-1973|Lei nº 5.870, de 26.3.1973]] (incluído: 
 - **Art. 26, caput, alínea "q"** {#art26_cpt_aliq} #incluido transformar madeiras de lei em carvão, inclusive para qualquer efeito industrial, sem licença da autoridade competente. *(Incluído pela [[lei-federal-5870-1973|Lei nº 5.870, de 26.3.1973]])*
 
 ###### Art. 27 {#art27}
-Tags:
 
 **Art. 27, caput** {#art27_cpt} É proibido o uso de fogo nas florestas e demais formas de vegetação.
 
 **Art. 27, parágrafo único** {#art27_par1u} Se peculiaridades locais ou regionais justificarem o emprego do fogo em práticas agropastoris ou florestais, a permissão será estabelecida em ato do Poder Público, circunscrevendo as áreas e estabelecendo normas de precaução. *(Regulamento)*
 
 ###### Art. 28 {#art28}
-Tags:
 
 **Art. 28, caput** {#art28_cpt} Além das contravenções estabelecidas no artigo precedente, subsistem os dispositivos sobre contravenções e crimes previstos no Código Penal e nas demais leis, com as penalidades neles cominadas.
 
 ###### Art. 29 {#art29}
-Tags:
 
 **Art. 29, caput** {#art29_cpt} As penalidades incidirão sobre os autores, sejam eles:
 - **Art. 29, caput, alínea "a"** {#art29_cpt_alia} diretos;
@@ -338,24 +308,20 @@ Tags:
 - **Art. 29, caput, alínea "c"** {#art29_cpt_alic} autoridades que se omitirem ou facilitarem, por consentimento ilegal, na prática do ato.
 
 ###### Art. 30 {#art30}
-Tags:
 
 **Art. 30, caput** {#art30_cpt} Aplicam-se às contravenções previstas neste Código as regras gerais do Código Penal e da Lei de Contravenções Penais, sempre que a presente Lei não disponha de modo diverso.
 
 ###### Art. 31 {#art31}
-Tags:
 
 **Art. 31, caput** {#art31_cpt} São circunstâncias que agravam a pena, além das previstas no Código Penal e na Lei de Contravenções Penais:
 - **Art. 31, caput, alínea "a"** {#art31_cpt_alia} cometer a infração no período de queda das sementes ou de formação das vegetações prejudicadas, durante a noite, em domingos ou dias feriados, em épocas de seca ou inundações;
 - **Art. 31, caput, alínea "b"** {#art31_cpt_alib} cometer a infração contra a floresta de preservação permanente ou material dela provindo.
 
 ###### Art. 32 {#art32}
-Tags:
 
 **Art. 32, caput** {#art32_cpt} A ação penal independe de queixa, mesmo em se tratando de lesão em propriedade privada, quando os bens atingidos são florestas e demais formas de vegetação, instrumentos de trabalho, documentos e atos relacionados com a proteção florestal disciplinada nesta Lei.
 
 ###### Art. 33 {#art33}
-Tags:
 
 **Art. 33, caput** {#art33_cpt} São autoridades competentes para instaurar, presidir e proceder a inquéritos policiais, lavrar autos de prisão em flagrante e intentar a ação penal, nos casos de crimes ou contravenções, previstos nesta Lei, ou em outras leis e que tenham por objeto florestas e demais formas de vegetação, instrumentos de trabalho, documentos e produtos procedentes das mesmas:
 - **Art. 33, caput, alínea "a"** {#art33_cpt_alia} as indicadas no Código de Processo Penal;
@@ -364,27 +330,22 @@ Tags:
 **Art. 33, parágrafo único** {#art33_par1u} Em caso de ações penais simultâneas, pelo mesmo fato, iniciadas por várias autoridades, o Juiz reunirá os processos na jurisdição em que se firmou a competência.
 
 ###### Art. 34 {#art34}
-Tags:
 
 **Art. 34, caput** {#art34_cpt} As autoridades referidas no item b do artigo anterior, ratificada a denúncia pelo Ministério Público, terão ainda competência igual à deste, na qualidade de assistente, perante a Justiça comum, nos feitos de que trata esta Lei.
 
 ###### Art. 35 {#art35}
-Tags:
 
 **Art. 35, caput** {#art35_cpt} A autoridade apreenderá os produtos e os instrumentos utilizados na infração e, se não puderem acompanhar o inquérito, por seu volume e natureza, serão entregues ao depositário público local, se houver e, na sua falta, ao que for nomeado pelo Juiz, para ulterior devolução ao prejudicado. Se pertencerem ao agente ativo da infração, serão vendidos em hasta pública.
 
 ###### Art. 36 {#art36}
-Tags:
 
 **Art. 36, caput** {#art36_cpt} O processo das contravenções obedecerá ao rito sumário da Lei n. 1.508 de l9 de dezembro de 1951, no que couber.
 
 ###### Art. 37 {#art37}
-Tags:
 
 **Art. 37, caput** {#art37_cpt} Não serão transcritos ou averbados no Registro Geral de Imóveis os atos de transmissão "inter-vivos" ou "causa mortis", bem como a constituição de ônus reais, sôbre imóveis da zona rural, sem a apresentação de certidão negativa de dívidas referentes a multas previstas nesta Lei ou nas leis estaduais supletivas, por decisão transitada em julgado.
 
 ###### Art. 37-A {#art37-a}
-Tags:
 Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]] (incluído: caput, § 1º, § 2º, § 3º, § 3º, inciso I, § 3º, inciso II, § 4º, § 5º, § 6º)
 
 **Art. 37-A, caput** {#art37-a_cpt} #incluido Não é permitida a conversão de florestas ou outra forma de vegetação nativa para uso alternativo do solo na propriedade rural que possui área desmatada, quando for verificado que a referida área encontra-se abandonada, subutilizada ou utilizada de forma inadequada, segundo a vocação e capacidade de suporte do solo. *(Incluído pela [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]])*
@@ -404,25 +365,21 @@ Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, 
 **Art. 37-A, § 6º** {#art37-a_par6} #incluido É proibida, em área com cobertura florestal primária ou secundária em estágio avançado de regeneração, a implantação de projetos de assentamento humano ou de colonização para fim de reforma agrária, ressalvados os projetos de assentamento agro-extrativista, respeitadas as legislações específicas. *(Incluído pela [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]])*
 
 ###### Art. 38 {#art38}
-Tags:
 Alterações: [[lei-federal-5868-1972|Lei nº 5.868, de 12.12.1972]] (revogado: caput)
 
 **Art. 38, caput** {#art38_cpt} #revogado *(Revogado pela [[lei-federal-5868-1972|Lei nº 5.868, de 12.12.1972]])*
 
 ###### Art. 40 {#art40}
-Tags:
 
 **Art. 40, caput** {#art40_cpt} *(Vetado)*
 
 ###### Art. 41 {#art41}
-Tags:
 
 **Art. 41, caput** {#art41_cpt} Os estabelecimentos oficiais de crédito concederão prioridades aos projetos de florestamento, reflorestamento ou aquisição de equipamentos mecânicos necessários aos serviços, obedecidas as escalas anteriormente fixadas em lei.
 
 **Art. 41, parágrafo único** {#art41_par1u} Ao Conselho Monetário Nacional, dentro de suas atribuições legais, como órgão disciplinador do crédito e das operações creditícias em todas suas modalidades e formas, cabe estabelecer as normas para os financiamentos florestais, com juros e prazos compatíveis, relacionados com os planos de florestamento e reflorestamento aprovados pelo Conselho Florestal Federal.
 
 ###### Art. 42 {#art42}
-Tags:
 
 **Art. 42, caput** {#art42_cpt} Dois anos depois da promulgação desta Lei, nenhuma autoridade poderá permitir a adoção de livros escolares de leitura que não contenham textos de educação florestal, previamente aprovados pelo Conselho Federal de Educação, ouvido o órgão florestal competente.
 
@@ -433,14 +390,12 @@ Tags:
 **Art. 42, § 3º** {#art42_par3} A União e os Estados promoverão a criação e o desenvolvimento de escolas para o ensino florestal, em seus diferentes níveis.
 
 ###### Art. 43 {#art43}
-Tags:
 
 **Art. 43, caput** {#art43_cpt} Fica instituída a Semana Florestal, em datas fixadas para as diversas regiões do País, do Decreto Federal. Será a mesma comemorada, obrigatoriamente, nas escolas e estabelecimentos públicos ou subvencionados, através de programas objetivos em que se ressalte o valor das florestas, face aos seus produtos e utilidades, bem como sobre a forma correta de conduzí-las e perpetuá-las.
 
 **Art. 43, parágrafo único** {#art43_par1u} Para a Semana Florestal serão programadas reuniões, conferências, jornadas de reflorestamento e outras solenidades e festividades com o objetivo de identificar as florestas como recurso natural renovável, de elevado valor social e econômico.
 
 ###### Art. 44 {#art44}
-Tags:
 Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]] (nova redação: caput; incluído: inciso I, inciso II, inciso III, § 1º, § 2º, § 3º, § 4º, § 5º); [[lei-federal-11428-2006|Lei nº 11.428, de 2006]] (nova redação: § 6º)
 
 **Art. 44, caput** {#art44_cpt} #redacao-alterada O proprietário ou possuidor de imóvel rural com área de floresta nativa, natural, primitiva ou regenerada ou outra forma de vegetação nativa em extensão inferior ao estabelecido nos incisos I, II, III e IV do art. [[#art16|16]], ressalvado o disposto nos seus §§ 5o e 6o, deve adotar as seguintes alternativas, isoladas ou conjuntamente: *(Redação dada pela [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]])*
@@ -461,7 +416,6 @@ Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, 
 **Art. 44, § 6º** {#art44_par6} #redacao-alterada O proprietário rural poderá ser desonerado das obrigações previstas neste artigo, mediante a doação ao órgão ambiental competente de área localizada no interior de unidade de conservação de domínio público, pendente de regularização fundiária, respeitados os critérios previstos no inciso III do caput deste artigo. *(Redação dada pela [[lei-federal-11428-2006|Lei nº 11.428, de 2006]])*
 
 ###### Art. 44-A {#art44-a}
-Tags:
 Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]] (incluído: § 1º, § 2º)
 
 **Art. 44-A, caput** {#art44-a_cpt} #incluido O proprietário rural poderá instituir servidão florestal, mediante a qual voluntariamente renuncia, em caráter permanente ou temporário, a direitos de supressão ou exploração da vegetação nativa, localizada fora da reserva legal e da área com vegetação de preservação permanente. *(Incluído pela Medida Provisória nº 2.166- 67, de 2001)*
@@ -471,7 +425,6 @@ Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, 
 **Art. 44-A, § 2º** {#art44-a_par2} #incluido A servidão florestal deve ser averbada à margem da inscrição de matrícula do imóvel, no registro de imóveis competente, após anuência do órgão ambiental estadual competente, sendo vedada, durante o prazo de sua vigência, a alteração da destinação da área, nos casos de transmissão a qualquer título, de desmembramento ou de retificação dos limites da propriedade. *(Incluído pela [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]])*
 
 ###### Art. 44-B {#art44-b}
-Tags:
 Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]] (incluído: caput, parágrafo único)
 
 **Art. 44-B, caput** {#art44-b_cpt} #incluido Fica instituída a Cota de Reserva Florestal - CRF, título representativo de vegetação nativa sob regime de servidão florestal, de Reserva Particular do Patrimônio Natural ou reserva legal instituída voluntariamente sobre a vegetação que exceder os percentuais estabelecidos no art. [[#art16|16]] deste Código. *(Incluído pela [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]])*
@@ -479,13 +432,11 @@ Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, 
 **Art. 44-B, parágrafo único** {#art44-b_par1u} #incluido A regulamentação deste Código disporá sobre as características, natureza e prazo de validade do título de que trata este artigo, assim como os mecanismos que assegurem ao seu adquirente a existência e a conservação da vegetação objeto do título. *(Incluído pela [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]])*
 
 ###### Art. 44-C {#art44-c}
-Tags:
 Alterações: [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]] (incluído: caput)
 
 **Art. 44-C, caput** {#art44-c_cpt} #incluido O proprietário ou possuidor que, a partir da vigência da [[medida-provisoria-1736-31-1998|Medida Provisória no 1.736-31, de 14 de dezembro de 1998]], suprimiu, total ou parcialmente florestas ou demais formas de vegetação nativa, situadas no interior de sua propriedade ou posse, sem as devidas autorizações exigidas por Lei, não pode fazer uso dos benefícios previstos no inciso III do art. [[#art44|44]]. *(Incluído pela [[medida-provisoria-2166-67-2001|Medida Provisória nº 2.166-67, de 2001]])*
 
 ###### Art. 45 {#art45}
-Tags:
 Alterações: [[lei-federal-7803-1989|Lei nº 7.803, de 18.7.1989]] (incluído: caput, § 1º, § 2º, § 3º)
 
 **Art. 45, caput** {#art45_cpt} #incluido Ficam obrigados ao registro no Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA os estabelecimentos comerciais responsáveis pela comercialização de moto-serras, bem como aqueles que adquirirem este equipamento. *(Incluído pela [[lei-federal-7803-1989|Lei nº 7.803, de 18.7.1989]])*
@@ -497,19 +448,16 @@ Alterações: [[lei-federal-7803-1989|Lei nº 7.803, de 18.7.1989]] (incluído: 
 **Art. 45, § 3º** {#art45_par3} #incluido A comercialização ou utilização de moto-serras sem a licença a que se refere este artigo constitui crime contra o meio ambiente, sujeito à pena de detenção de 1 (um) a 3 (três) meses e multa de 1 (um) a 10 (dez) salários mínimos de referência e a apreensão da moto-serra, sem prejuízo da responsabilidade pela reparação dos danos causados. *(Incluído pela [[lei-federal-7803-1989|Lei nº 7.803, de 18.7.1989]])*
 
 ###### Art. 46 {#art46}
-Tags:
 Alterações: [[lei-federal-7803-1989|Lei nº 7.803, de 18.7.1989]] (incluído: caput)
 
 **Art. 46, caput** {#art46_cpt} #incluido No caso de florestas plantadas, o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA zelará para que seja preservada, em cada município, área destinada à produção de alimentos básicos e pastagens, visando ao abastecimento local. *(Incluído pela [[lei-federal-7803-1989|Lei nº 7.803, de 18.7.1989]])*
 
 ###### Art. 47 {#art47}
-Tags:
 Alterações: [[lei-federal-7803-1989|Lei nº 7.803, de 18.7.1989]] (renumerado: caput)
 
 **Art. 47, caput** {#art47_cpt} O Poder Executivo promoverá, no prazo de 180 dias, a revisão de todos os contratos, convênios, acordos e concessões relacionados com a exploração florestal em geral, a fim de ajustá-las às normas adotadas por esta Lei. *(Art. 45 renumerado pela [[lei-federal-7803-1989|Lei nº 7.803, de 18.7.1989]])*
 
 ###### Art. 48 {#art48}
-Tags:
 Alterações: [[lei-federal-7803-1989|Lei nº 7.803, de 18.7.1989]] (renumerado: caput)
 
 **Art. 48, caput** {#art48_cpt} Fica mantido o Conselho Florestal Federal, com sede em Brasília, como órgão consultivo e normativo da política florestal brasileira. *(Art. 46 renumerado pela [[lei-federal-7803-1989|Lei nº 7.803, de 18.7.1989]])*
@@ -517,13 +465,11 @@ Alterações: [[lei-federal-7803-1989|Lei nº 7.803, de 18.7.1989]] (renumerado:
 **Art. 48, parágrafo único** {#art48_par1u} A composição e atribuições do Conselho Florestal Federal, integrado, no máximo, por 12 (doze) membros, serão estabelecidas por decreto do Poder Executivo.
 
 ###### Art. 49 {#art49}
-Tags:
 Alterações: [[lei-federal-7803-1989|Lei nº 7.803, de 18.7.1989]] (renumerado: caput)
 
 **Art. 49, caput** {#art49_cpt} O Poder Executivo regulamentará a presente Lei, no que for julgado necessário à sua execução. *(Art. 47 renumerado pela [[lei-federal-7803-1989|Lei nº 7.803, de 18.7.1989]])*
 
 ###### Art. 50 {#art50}
-Tags:
 Alterações: [[lei-federal-7803-1989|Lei nº 7.803, de 18.7.1989]] (renumerado: caput)
 
 **Art. 50, caput** {#art50_cpt} Esta Lei entrará em vigor 120 (cento e vinte) dias após a data de sua publicação, revogados o [[decreto-federal-23793-1934|Decreto nº 23.793, de 23 de janeiro de 1934]] (Código Florestal) e demais disposições em contrário. *(Art. 48 renumerado pela [[lei-federal-7803-1989|Lei nº 7.803, de 18.7.1989]])*
