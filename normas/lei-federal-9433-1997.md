@@ -20,7 +20,7 @@ alterado_por: ["[[lei-federal-9984-2000]]", "[[lei-federal-10881-2004]]", "[[lei
 revoga: []
 revogado_por: []
 cita: ["[[constituicao-federal-1988]]", "[[lei-federal-8001-1990]]", "[[lei-federal-7990-1989]]", "[[decreto-federal-24643-1934]]"]
-tags: [agua-pluvial, agua-subterranea, ana, bacia-hidrografica, captacao, compensacao-financeira, consorcio-intermunicipal, cooperacao-institucional, degradacao-ambiental, dessedentacao-animal, dispensa, efluente, embargo, enquadramento, estado, evento-hidrologico-critico, fiscalizacao, funai, incluido, infracao-ambiental, lancamento, multa, municipio, outorga, outorga-direito, plano-recursos-hidricos, poco, prazo, redacao-alterada, reincidencia, renovacao, revogado, sancao, saneamento, seguranca-hidrica, singreh, sistema-informacao-recursos-hidricos, terra-indigena, uso-insignificante, uso-solo, validade, zona-costeira]
+tags: [agua-pluvial, agua-subterranea, ana, bacia-hidrografica, captacao, compensacao, consorcio-intermunicipal, cooperacao-institucional, degradacao-ambiental, dessedentacao-animal, dispensa, efluente, embargo, enquadramento, estado, evento-hidrologico-critico, fiscalizacao, funai, incluido, infracao-ambiental, lancamento, multa, municipio, outorga, outorga-direito, plano-recursos-hidricos, poco, prazo, redacao-alterada, reincidencia, renovacao, revogado, sancao, saneamento, seguranca-hidrica, singreh, sistema-informacao-recursos-hidricos, terra-indigena, uso-insignificante, uso-solo, validade, zona-costeira]
 fonte: "Planalto – texto compilado (13 páginas, com as redações anteriores tachadas; 'Este texto não substitui o publicado no DOU de 9.1.1997'), enviado por Leo"
 ---
 

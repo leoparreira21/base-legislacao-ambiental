@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Relatório Ambiental Preliminar – RAP"
 atividades: [empreendimento-nautico, estrutura-nautica]
 modalidades: [lp, lpa]
-tags: [estrutura-nautica, rap, diagnostico-ambiental, licenciamento-ambiental]
+tags: [estrutura-nautica, relatorio-ambiental-preliminar, diagnostico-ambiental, licenciamento-ambiental]
 fonte: "PDF da Instrução Normativa IAT nº 30/2026 enviado pelo usuário; páginas 60–64."
 ---
 

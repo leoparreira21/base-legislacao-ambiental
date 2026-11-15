@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: relatorio-rcc
 atividades: [atividade-ensino, empreendimento-ensino]
 modalidades: [lo, lor]
-tags: [residuo-construcao-civil, pgrcc, comprovante-destinacao, transporte-residuo, destinacao-final]
+tags: [residuo-construcao-civil, pgrcc, comprovante-destinacao, transporte-residuos, destinacao-final]
 fonte: PDF da IN IAT 60/2025 (eProtocolo nº 24.535.432-0), anexos integrantes do arquivo assinado em 16/09/2025
 ---
 

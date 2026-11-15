@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Plano de Encerramento e Recuperação Ambiental da Área de Disposição Final de Resíduos Sólidos"
 atividades: [aterro-sanitario]
 modalidades: [aa]
-tags: [plano-encerramento, recuperacao-ambiental]
+tags: [plano-encerramento, plano-recuperacao-area-degradada]
 fonte: "PDF impresso do portal Sistema de Informações Ambientais do IAP (texto da Portaria e Anexos I a XII)."
 ---
 

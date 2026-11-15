@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RAP
 atividades: [esgotamento-sanitario]
 modalidades: [lp]
-tags: [diagnostico-ambiental, efluente, esgoto-sanitario, impacto-ambiental, licenciamento-ambiental, rap, recurso-hidrico, saneamento]
+tags: [diagnostico-ambiental, efluente, esgoto-sanitario, impacto-ambiental, licenciamento-ambiental, relatorio-ambiental-preliminar, recurso-hidrico, saneamento]
 fonte: "PDF da IN IAT 37/2025 enviado pelo usuário, páginas 86 a 92"
 ---
 

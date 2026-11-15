@@ -99,6 +99,9 @@ details.pedido summary strong { font-variant-numeric: tabular-nums; }
 .op.ex { border-color: var(--perigo); }
 .op.me { border-color: var(--mescla); }
 .op span { overflow-wrap: anywhere; }
+.op-acoes { display: flex; gap: 2px; flex: 0 0 auto; align-items: baseline; }
+.op button.mais { font: 12px var(--fonte); color: var(--mescla); border: 1px solid var(--mescla); border-radius: 4px; padding: 0 6px; }
+.op button.mais:disabled { opacity: .4; cursor: default; }
 textarea { width: 100%; font: 12.5px/1.4 var(--mono); color: var(--tinta); background: var(--fundo); border: 1px solid var(--linha); border-radius: 6px; padding: 8px; resize: vertical; }
 .aviso { font-size: 13px; color: var(--acento); }
 .aviso:empty { display: none; }
@@ -113,7 +116,7 @@ textarea { width: 100%; font: 12.5px/1.4 var(--mono); color: var(--tinta); backg
 <header>
   <h1>Edição de tags da base</h1>
   <div class="sub">Tags temáticas do frontmatter de <code>base-legislacao-ambiental</code>, sem as de controle (#revogado, #redacao-alterada, #incluido, #anexo-pendente). Dados do commit <code id="commit"></code>.</div>
-  <div class="sub">Selecione tags e escolha <strong>Excluir</strong> ou <strong>Mesclar</strong>. Monte quantas operações quiser, depois toque em <strong>Copiar pedido</strong> e cole na conversa com o Claude: ele aplica tudo no frontmatter de normas, anexos e comentários, na taxonomia e no <code>tags.md</code>, regera o HTML e envia para o <code>main</code>.</div>
+  <div class="sub">Selecione tags e escolha <strong>Excluir</strong> ou <strong>Mesclar</strong>. Para pôr mais tags numa mescla que já está no pedido, selecione-as e toque em <strong>+ selecionadas</strong> ao lado dela (ou escolha a mescla no painel <strong>Mesclar…</strong>). Monte quantas operações quiser, depois toque em <strong>Copiar pedido</strong> e cole na conversa com o Claude: ele aplica tudo no frontmatter de normas, anexos e comentários, na taxonomia e no <code>tags.md</code>, regera o HTML e envia para o <code>main</code>.</div>
 </header>
 <div class="filtros"><div class="in">
   <input type="search" id="busca" placeholder="Buscar tag, grupo ou norma…" autocomplete="off" aria-label="Buscar">
@@ -254,7 +257,7 @@ function bandeja() {
   $('bMesclar').disabled = s.length < 1;
   $('nEx').textContent = excl.size; $('nMe').textContent = mesclas.length;
   const ops = [...excl].sort().map(t => `<li class="op ex"><span>excluir #${t}</span><button type="button" data-desfaz-ex="${t}" aria-label="Desfazer exclusão de #${t}">×</button></li>`)
-    .concat(mesclas.map((m, i) => `<li class="op me"><span>${m.origens.map(t => '#' + t).join(', ')} → #${m.destino}</span><button type="button" data-desfaz-me="${i}" aria-label="Desfazer mescla em #${m.destino}">×</button></li>`));
+    .concat(mesclas.map((m, i) => `<li class="op me"><span>${m.origens.map(t => '#' + t).join(', ')} → #${m.destino}</span><span class="op-acoes"><button type="button" class="mais" data-junta="${i}" ${sel.size ? '' : 'disabled'} title="Adicionar as tags selecionadas a esta mescla">+ selecionadas</button><button type="button" data-desfaz-me="${i}" aria-label="Desfazer mescla em #${m.destino}">×</button></span></li>`));
   $('ops').innerHTML = ops.join('') || '<li class="op">Nada no pedido ainda.</li>';
   const vazio = !excl.size && !mesclas.length;
   $('copiar').disabled = $('zerar').disabled = vazio;
@@ -263,7 +266,8 @@ function bandeja() {
 
 function abrirMescla() {
   const s = [...sel].sort((a, b) => porTag.get(b).d.length - porTag.get(a).d.length);
-  $('opcoes').innerHTML = s.map((t, i) => `<label><input type="radio" name="destino" value="${t}" ${i === 0 ? 'checked' : ''}> #${t} <small>${porTag.get(t).d.length} docs.</small></label>`).join('');
+  $('opcoes').innerHTML = s.map((t, i) => `<label><input type="radio" name="destino" value="${t}" ${i === 0 ? 'checked' : ''}> #${t} <small>${porTag.get(t).d.length} docs.</small></label>`).join('')
+    + mesclas.map(m => `<label><input type="radio" name="destino" value="${m.destino}"> #${m.destino} <small>mescla já no pedido (${m.origens.map(o => '#' + o).join(', ')})</small></label>`).join('');
   $('d-novo').checked = !s.length; $('novoNome').value = ''; $('erro').textContent = '';
   $('painel').hidden = false;
   $('painel').scrollIntoView({block: 'nearest'});
@@ -287,7 +291,16 @@ $('chips').addEventListener('click', e => {
   sel.delete(t); desenhar();
 });
 $('ops').addEventListener('click', e => {
-  const x = e.target.dataset.desfazEx, m = e.target.dataset.desfazMe;
+  const x = e.target.dataset.desfazEx, m = e.target.dataset.desfazMe, j = e.target.dataset.junta;
+  if (j !== undefined) {
+    const alvo = mesclas[+j], novas = [...sel].filter(t => t !== alvo.destino);
+    if (!novas.length) return;
+    alvo.origens = [...new Set(alvo.origens.concat(novas))].sort();
+    sel.clear(); $('painel').hidden = true; salvar(); desenhar();
+    $('aviso').textContent = `${novas.length} tag(s) adicionada(s) à mescla em #${alvo.destino}.`;
+    setTimeout(() => { $('aviso').textContent = ''; }, 3000);
+    return;
+  }
   if (x) excl.delete(x);
   else if (m !== undefined) mesclas.splice(+m, 1);
   else return;
@@ -308,8 +321,9 @@ $('painel').addEventListener('submit', e => {
   if (!destino) erro = 'Escolha a tag que vai ficar ou digite um nome novo.';
   else if (!FORMATO.test(destino)) erro = 'Use minúsculas, sem acento, com hífen entre as palavras (ex.: residuo-solido).';
   else if (CONTROLE.has(destino)) erro = 'Tags de controle não podem receber mescla.';
+  else if (mesclas.some(m => m.origens.includes(destino))) erro = `#${destino} já vai ser mesclada em outra tag neste pedido.`;
   else if (!origens.length) erro = 'Selecione ao menos uma tag diferente da tag que vai ficar.';
-  else if (porTag.has(destino) && !sel.has(destino) && noPedido(destino)) erro = `#${destino} já está em outra operação do pedido.`;
+  else if (porTag.has(destino) && !sel.has(destino) && noPedido(destino) && !mesclas.some(m => m.destino === destino)) erro = `#${destino} já está em outra operação do pedido.`;
   if (erro) { $('erro').textContent = erro; return; }
   const junta = mesclas.find(m => m.destino === destino);
   if (junta) junta.origens = [...new Set(junta.origens.concat(origens))].sort();

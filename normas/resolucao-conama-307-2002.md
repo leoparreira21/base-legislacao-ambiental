@@ -19,7 +19,7 @@ alterado_por: ["[[resolucao-conama-348-2004]]", "[[resolucao-conama-431-2011]]",
 revoga: []
 revogado_por: []
 cita: ["[[lei-federal-6938-1981]]", "[[decreto-federal-99274-1990]]", "[[portaria-mma-326-1994]]", "[[lei-federal-10257-2001]]", "[[lei-federal-12305-2010]]", "[[resolucao-conama-348-2004]]", "[[resolucao-conama-431-2011]]", "[[resolucao-conama-448-2012]]", "[[resolucao-conama-469-2015]]"]
-tags: [acondicionamento, att, aterro-classe-a, beneficiamento, classificacao-residuo, construcao-civil, demolicao, destinacao-final, disposicao-final, embalagem, gerador, gerenciamento-residuo, grande-gerador, incluido, licenciamento-ambiental, logistica-reversa, municipio, pequeno-gerador, pgrcc, pmgirs, pnrs, prazo, reciclagem, redacao-alterada, residuo-construcao-civil, residuo-perigoso, reutilizacao, revogado, terraplanagem, transporte, triagem]
+tags: [armazenamento-residuo, transbordo-residuos, aterro-residuos-perigosos, beneficiamento, classificacao-residuo, construcao-civil, demolicao, destinacao-final, disposicao-final, embalagem, gerador, gerenciamento-residuo, grande-gerador, incluido, licenciamento-ambiental, logistica-reversa, municipio, pequeno-gerador, pgrcc, pmgirs, pnrs, prazo, reciclagem, redacao-alterada, residuo-construcao-civil, residuo-perigoso, reutilizacao, revogado, terraplanagem, transporte, triagem]
 fonte: "PDF do texto compilado do portal do CONAMA (Word 2013, 7 páginas), com as redações anteriores tachadas, enviado por Leo"
 ---
 

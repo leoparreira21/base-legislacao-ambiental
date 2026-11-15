@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Relatório Ambiental Preliminar – RAP"
 atividades: [empreendimento-imobiliario]
 modalidades: [lp]
-tags: [rap, relatorio-ambiental-preliminar]
+tags: [relatorio-ambiental-preliminar]
 fonte: "PDF do eProtocolo da Resolução SEDEST nº 30/2022 (documento assinado digitalmente em 27/05/2022)."
 ---
 

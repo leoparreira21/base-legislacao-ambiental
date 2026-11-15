@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-6674-2002]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-12493-1999]]", "[[lei-estadual-13806-2002]]", "[[lei-estadual-7109-1979]]", "[[resolucao-cema-100-2017]]", "[[resolucao-cema-50-2005]]", "[[resolucao-conama-499-2020]]", "[[resolucao-sema-42-2008]]"]
-tags: [armazenamento-temporario, aterro, autorizacao-ambiental, caldeira, comercializacao-de-residuo, estudo-ambiental, fertilizante, gerenciamento, prazo, residuo-outro-estado, residuo-proibido, residuo-solido, sancao, transporte-de-residuo, uso-agricola]
+tags: [armazenamento-temporario, aterro-sanitario, autorizacao-ambiental, caldeira, comercializacao-de-residuo, estudo-ambiental, fertilizante, gerenciamento, prazo, residuo-outro-estado, residuo-proibido, residuo-solido, sancao, transporte-residuos, uso-agricola]
 fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé traz "Este texto não substitui o publicado no Diário Oficial do Estado"."
 ---
 

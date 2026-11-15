@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]", "[[lei-federal-22252-2024]]", "[[lei-federal-9605-1998]]", "[[resolucao-conama-279-2001]]", "[[resolucao-conama-6-1986]]"]
-tags: [autorizacao-ambiental, car, compensacao-ambiental, condicionante, efluente, eia-rima, fauna, flora, licenciamento-ambiental, monitoramento, outorga, renovacao, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, unidade-conservacao, validade]
+tags: [autorizacao-ambiental, car, compensacao, condicionante, efluente, eia-rima, fauna, flora, licenciamento-ambiental, monitoramento, outorga, renovacao, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, unidade-conservacao, validade]
 anexos: "tipo 1 (modelos): I e II; tipo 3 (quadros de enquadramento): demais anexos"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_20-2025_-_empreendimentos_geradores_de_energia_fonte_solar_-_23.574.540-2.pdf, 54 páginas)"
 ---

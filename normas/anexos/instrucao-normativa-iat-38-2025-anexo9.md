@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: Projeto Agronômico
 atividades: [utilizacao-agricola-lodo-esgoto]
 modalidades: []
-tags: [analise-solo, autorizacao-ambiental, limite-contaminante, lodo-esgoto, projeto-agronomico, responsavel-tecnico, taxa-aplicacao]
+tags: [analise-solo, autorizacao-ambiental, lodo-esgoto, projeto-agronomico, responsavel-tecnico, taxa-aplicacao]
 ---
 
 # ANEXO IX — Seção III — Do Termo de referência Para Elaboração Do Projeto Agronômico

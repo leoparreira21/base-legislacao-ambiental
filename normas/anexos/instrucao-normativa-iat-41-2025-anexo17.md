@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Caracterização agronômica de resíduo / laudo de potencial agronômico
 atividades: [compostagem]
 modalidades: [aa]
-tags: [caracterizacao-agronomica, classificacao-residuo, compostagem, indeferimento, laudo-analitico, limite-contaminante, patogeno, responsavel-tecnico]
+tags: [caracterizacao-agronomica, classificacao-residuo, compostagem, indeferimento, laudo-tecnico, patogeno, responsavel-tecnico]
 fonte: PDF da IN IAT 41/2025 (in41.pdf), páginas 216 a 219
 ---
 

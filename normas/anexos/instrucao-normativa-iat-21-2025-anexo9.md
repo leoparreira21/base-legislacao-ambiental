@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RAP
 atividades: [empreendimento-imobiliario]
 modalidades: [lp, lpa]
-tags: ["app", "area-contaminada", "area-verde-urbana", "empreendimento-imobiliario", "fauna", "geologia", "impacto-ambiental", "poluicao-sonora", "rap", "residuo-solido", "supressao-vegetacao", "terraplanagem"]
+tags: [app, area-contaminada, area-verde-urbana, empreendimento-imobiliario, fauna, geologia, impacto-ambiental, poluicao-sonora, relatorio-ambiental-preliminar, residuo-solido, supressao-vegetacao, terraplanagem]
 fonte: "PDF IN 21 2025.pdf enviado pelo usuário, páginas 87 a 92"
 ---
 

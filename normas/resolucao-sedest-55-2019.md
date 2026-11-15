@@ -21,7 +21,7 @@ alterado_por: ["[[resolucao-sedest-17-2020]]"]
 revoga: ["[[portaria-iap-162-2018]]"]
 revogado_por: ["[[decreto-estadual-9541-2025]]"]
 cita: ["[[decreto-estadual-1440-2019]]", "[[resolucao-conama-237-1997]]", "[[resolucao-cema-65-2008]]", "[[lei-federal-6938-1981]]", "[[lei-federal-11326-2006]]", "[[lei-estadual-7109-1979]]", "[[resolucao-conama-6-1986]]", "[[decreto-estadual-5503-2002]]", "[[portaria-iap-106-2018]]"]
-tags: [ampliacao, anexo-pendente, animal-morto, anuencia, autorizacao-ambiental, autorizacao-florestal, bovinocultura, casos-omissos, certidao-municipal, condicionante, dejeto-animal, dispensa, efluente, enquadramento, las, li, licenciamento-ambiental, lo, lp, outorga, pca, porte, potencial-poluidor, prazo, projeto-controle-poluicao, publicacao-dioe, recurso-hidrico, renovacao, residuo-solido, rlo, taxa-ambiental, validade]
+tags: [licenca-ampliacao, anexo-pendente, animal-morto, anuencia, autorizacao-ambiental, autorizacao-florestal, bovinocultura, casos-omissos, certidao-municipal, condicionante, dejeto-animal, dispensa, efluente, enquadramento, licenciamento-monofasico, licenca-instalacao, licenciamento-ambiental, licenca-operacao, licenca-previa, outorga, pca, porte, potencial-poluidor, prazo, projeto-controle-poluicao, publicacao-dioe, recurso-hidrico, renovacao, residuo-solido, rlo, taxa-ambiental, validade]
 fonte: "PDF impresso do portal (texto compilado, com a observação \"Este texto não substitui o publicado no Diário Oficial do Estado\"), 9 páginas. O PDF lista o anexo \"anexo229577_53054.pdf\", que não veio no arquivo."
 ---
 

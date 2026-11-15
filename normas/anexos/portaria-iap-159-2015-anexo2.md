@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: PGR
 atividades: [industria, deposito-produto-perigoso, atividade-com-substancia-perigosa]
 modalidades: [lp, li, lo, rlo]
-tags: [auditoria, manutencao-reparacao, pgr, plano-emergencia, produto-perigoso, situacao-emergencia]
+tags: [auditoria, manutencao-reparacao, pgr, plano-atendimento-emergencia, produto-perigoso, situacao-emergencia]
 fonte: "PDF da Portaria IAP 159/2015 (Word 2019, 12 páginas), páginas 8 a 12, enviado por Leo"
 ---
 

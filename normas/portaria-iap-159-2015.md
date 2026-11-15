@@ -18,7 +18,7 @@ revoga: []
 revogado_por: []
 cita: ["[[constituicao-estadual-1989]]", "[[decreto-estadual-114-2011]]", "[[decreto-estadual-1502-1992]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-11352-1996]]", "[[lei-estadual-13425-2002]]", "[[lei-federal-6938-1981]]", "[[resolucao-conama-1-1986]]", "[[resolucao-conama-237-1997]]", "[[resolucao-conama-273-2000]]", "[[resolucao-conama-377-2006]]"]
 anexos: ["[[portaria-iap-159-2015-anexo2]]"]
-tags: [auditoria, condicionante, dispensa, fiscalizacao, li, licenciamento-ambiental, lo, lp, massa-referencia, pgr, posto-combustivel, prazo, produto-perigoso, regularizacao, renovacao, substancia-perigosa]
+tags: [auditoria, condicionante, dispensa, fiscalizacao, licenca-instalacao, licenciamento-ambiental, licenca-operacao, licenca-previa, massa-referencia, pgr, posto-combustivel, prazo, produto-perigoso, regularizacao, renovacao, substancia-perigosa]
 fonte: "PDF em Word 2019 (12 páginas), sem dados de publicação, enviado por Leo; texto e tabelas conferidos com o PDF"
 ---
 

@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-iat-2-2022]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-11515-2018]]", "[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-54-2023]]", "[[decreto-estadual-8680-2013]]", "[[decreto-federal-7830-2012]]", "[[instrucao-normativa-2-2014]]", "[[instrucao-normativa-iat-1-2020]]", "[[instrucao-normativa-iat-2-2022]]", "[[lei-estadual-18295-2014]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-7055-1978]]", "[[lei-federal-11284-2006]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12651-2012]]", "[[lei-federal-14285-2021]]", "[[lei-federal-14595-2023]]", "[[lei-federal-4947-1966]]", "[[lei-federal-6746-1979]]", "[[lei-federal-7347-1985]]", "[[lei-federal-8629-1993]]", "[[lei-federal-9985-2000]]", "[[portaria-iat-82-2023]]", "[[resolucao-cema-107-2020]]", "[[resolucao-sedest-18-2020]]", "[[resolucao-sedest-33-2020]]", "[[resolucao-sedest-42-2020]]"]
-tags: [car, compensacao-ambiental, infracao-ambiental, monitoramento, reserva-legal, supressao-vegetacao, unidade-conservacao]
+tags: [car, compensacao, infracao-ambiental, monitoramento, reserva-legal, supressao-vegetacao, unidade-conservacao]
 anexos: nenhum
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_05_2023.pdf, 10 páginas)"
 ---

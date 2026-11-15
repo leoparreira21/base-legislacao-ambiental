@@ -19,7 +19,7 @@ alterado_por: []
 revoga: []
 revogado_por: ["[[decreto-estadual-9541-2025]]"]
 cita: ["[[lei-estadual-19848-2019]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[resolucao-conama-279-2001]]", "[[resolucao-conama-462-2014]]", "[[decreto-federal-9073-2017]]", "[[resolucao-cema-107-2020]]", "[[resolucao-sema-51-2009]]", "[[resolucao-conama-1-1986]]", "[[lei-estadual-10233-1992]]", "[[resolucao-conama-6-1986]]", "[[resolucao-conama-2-1994]]", "[[resolucao-conama-9-1987]]", "[[lei-federal-9605-1998]]"]
-tags: [autorizacao-ambiental, casos-omissos, condicionante, declaracao-anuencia, declaracao-ciencia, dispensa, eia-rima, energia-eolica, enquadramento, iphan, las, li, licenciamento-ambiental, licenciamento-trifasico, lo, lp, monitoramento, outorga, pba, pca, porte, prazo, publicacao-dioe, renovacao, residuo-solido, responsavel-tecnico, rlas, rlo, supressao-vegetacao, taxa-ambiental, validade]
+tags: [autorizacao-ambiental, casos-omissos, condicionante, declaracao-anuencia, declaracao-ciencia, dispensa, eia-rima, energia-eolica, enquadramento, iphan, licenciamento-monofasico, licenca-instalacao, licenciamento-ambiental, licenciamento-trifasico, licenca-operacao, licenca-previa, monitoramento, outorga, pba, pca, porte, prazo, publicacao-dioe, renovacao, residuo-solido, responsavel-tecnico, rlas, rlo, supressao-vegetacao, taxa-ambiental, validade]
 fonte: "PDF do eProtocolo (documento assinado digitalmente em 05/03/2021), 9 páginas, com o texto da Resolução e os Anexos I e II."
 ---
 

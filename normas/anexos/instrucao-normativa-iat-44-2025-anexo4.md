@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Laudo de Conclusão de Obras"
 atividades: [porto, terminal-portuario]
 modalidades: [lo, loa, lor]
-tags: [laudo-tecnico, conclusao-obra, condicionante]
+tags: [laudo-tecnico, laudo-conclusao-obra, condicionante]
 fonte: "PDF da IN IAT nº 44/2025, enviado pelo usuário; páginas 54–55 do arquivo."
 ---
 

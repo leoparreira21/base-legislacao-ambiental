@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: rap
 atividades: [empreendimento-habitacional, conjunto-habitacional, loteamento, condominio]
 modalidades: [lp]
-tags: [rap, impacto-ambiental, medida-mitigadora, empreendimento-imobiliario, fauna, flora, terraplanagem, efluente, residuo-solido]
+tags: [relatorio-ambiental-preliminar, impacto-ambiental, medida-mitigadora, empreendimento-imobiliario, fauna, flora, terraplanagem, efluente, residuo-solido]
 fonte: PDF da IN IAT 17/2025 (eProtocolo nº 23.724.593-8), anexo integrante do arquivo assinado em 24/04/2025
 ---
 

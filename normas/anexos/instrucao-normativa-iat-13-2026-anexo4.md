@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Plano de Controle Ambiental Simplificado – PCAS"
 atividades: [estacao-campo-eletromagnetico]
 modalidades: [las]
-tags: [campo-eletromagnetico, pcas, licenciamento-ambiental, radiacao-eletromagnetica]
+tags: [eletromagnetico, pcas, licenciamento-ambiental]
 fonte: "PDF da Instrução Normativa IAT nº 13/2026 enviado pelo usuário; páginas 21–24."
 ---
 

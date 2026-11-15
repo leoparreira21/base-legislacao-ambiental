@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-iat-1-2020]]", "[[instrucao-normativa-iat-4-2020]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-11515-2018]]", "[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-8680-2013]]", "[[decreto-estadual-9415-2025]]", "[[decreto-federal-6514-2008]]", "[[decreto-federal-7830-2012]]", "[[decreto-federal-8235-2014]]", "[[decreto-federal-9094-2017]]", "[[lei-estadual-18295-2014]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12651-2012]]", "[[lei-federal-4771-1965]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9985-2000]]", "[[resolucao-conama-2-1994]]", "[[resolucao-conama-388-2007]]", "[[resolucao-conama-417-2009]]", "[[resolucao-conama-423-2010]]", "[[resolucao-conama-447-2011]]"]
-tags: [car, compensacao-ambiental, fauna, flora, infracao-ambiental, reserva-legal, responsavel-tecnico, sancao, supressao-vegetacao, unidade-conservacao]
+tags: [car, compensacao, fauna, flora, infracao-ambiental, reserva-legal, responsavel-tecnico, sancao, supressao-vegetacao, unidade-conservacao]
 anexos: "tipo 3: I e II; tipo 1 (modelos): III e IV"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_53-2025-compensacao_de_reserva_legal-22421474-0.pdf, 21 páginas)"
 ---

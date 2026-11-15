@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: RAP
 atividades: [unidade-gerenciamento-lodo]
 modalidades: [lp]
-tags: [agua-subterranea, app, bem-cultural, diagnostico-ambiental, efluente, fauna, impacto-ambiental, medida-mitigadora, passivo-ambiental, rap, recuperacao-ambiental, reserva-legal, unidade-conservacao, viabilidade-locacional]
+tags: [agua-subterranea, app, bem-cultural, diagnostico-ambiental, efluente, fauna, impacto-ambiental, medida-mitigadora, passivo-ambiental, relatorio-ambiental-preliminar, plano-recuperacao-area-degradada, reserva-legal, unidade-conservacao, viabilidade-locacional]
 ---
 
 # ANEXO X

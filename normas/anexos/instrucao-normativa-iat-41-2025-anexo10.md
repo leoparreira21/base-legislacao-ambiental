@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Laudo de conclusão de obra
 atividades: [compostagem]
 modalidades: [las, lasa, lo, loa]
-tags: [agua-pluvial, ampliacao, area-construida, cnpj, laudo-conclusao-obra, medida-mitigadora, residuo-solido, responsavel-tecnico, tratamento-efluente]
+tags: [agua-pluvial, licenca-ampliacao, area-construida, cnpj, laudo-conclusao-obra, medida-mitigadora, residuo-solido, responsavel-tecnico, tratamento-efluente]
 fonte: PDF da IN IAT 41/2025 (work/in41.pdf), página 92
 ---
 

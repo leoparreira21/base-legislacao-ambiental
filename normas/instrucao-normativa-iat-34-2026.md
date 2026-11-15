@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-iat-10-2026]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-13433-2026]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-iat-10-2026]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-15190-2025]]", "[[lei-federal-15299-2025]]", "[[lei-federal-9605-1998]]", "[[resolucao-conama-1-1986]]", "[[resolucao-conama-2-1994]]", "[[resolucao-conama-279-2001]]", "[[resolucao-conama-6-1986]]", "[[resolucao-conama-6-1987]]", "[[resolucao-conama-9-1987]]"]
-tags: [autorizacao-ambiental, car, compensacao-ambiental, condicionante, eia-rima, fauna, flora, licenciamento-ambiental, monitoramento, outorga, renovacao, reserva-legal, responsavel-tecnico, sancao, supressao-vegetacao, validade]
+tags: [autorizacao-ambiental, car, compensacao, condicionante, eia-rima, fauna, flora, licenciamento-ambiental, monitoramento, outorga, renovacao, reserva-legal, responsavel-tecnico, sancao, supressao-vegetacao, validade]
 anexos: "tipo 1 (modelos de declaração, ciência e anuência): I, II e III"
 fonte: "PDF fornecido pelo usuário (instrucao-normativa-34-2026-distribuicao-transmissao-subestacao-de-energia-eletricarevogain10-2026.pdf, 37 páginas)"
 ---

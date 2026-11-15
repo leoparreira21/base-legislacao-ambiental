@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Relatório de Conformidade Ambiental – RCA"
 atividades: [estacao-campo-eletromagnetico]
 modalidades: [lasr]
-tags: [campo-eletromagnetico, rca, regularizacao, passivo-ambiental]
+tags: [eletromagnetico, rca, regularizacao, passivo-ambiental]
 fonte: "PDF da Instrução Normativa IAT nº 13/2026 enviado pelo usuário; páginas 25–29."
 ---
 

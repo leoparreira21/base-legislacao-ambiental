@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-iat-7-2020]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9605-1998]]", "[[portaria-iat-69-2015]]", "[[resolucao-conama-1-1986]]", "[[resolucao-conama-237-1997]]", "[[resolucao-conama-279-2001]]", "[[resolucao-conama-6-1986]]", "[[resolucao-conama-9-1987]]"]
-tags: [app, autorizacao-ambiental, car, compensacao-ambiental, condicionante, eia-rima, fauna, flora, licenciamento-ambiental, monitoramento, outorga, recurso-hidrico, renovacao, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, unidade-conservacao, validade]
+tags: [app, autorizacao-ambiental, car, compensacao, condicionante, eia-rima, fauna, flora, licenciamento-ambiental, monitoramento, outorga, recurso-hidrico, renovacao, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, unidade-conservacao, validade]
 anexos: "tipo 2 (arquivos próprios): 2"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_09-2025-empreendimentos_hidreletricos-23743957-0_republicado.pdf, 55 páginas)"
 ---

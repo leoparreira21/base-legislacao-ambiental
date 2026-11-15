@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[lei-federal-12305-2010]]", "[[lei-complementar-federal-101-2000]]", "[[lei-estadual-19261-2017]]", "[[lei-federal-9795-1999]]"]
-tags: [area-degradada, catador, classificacao-residuo, coleta-seletiva, compostagem, consorcio-intermunicipal, cooperacao-institucional, destinacao-final, fiscalizacao, grande-gerador, licenciamento-ambiental, lo, logistica-reversa, monitoramento, municipio, pev, pgrs, plano-regional, pmgirs, pnrs, prazo, reciclagem, regiao-metropolitana, renovacao, residuo-perigoso, residuo-solido]
+tags: [area-degradada, catador, classificacao-residuo, coleta-seletiva, compostagem, consorcio-intermunicipal, cooperacao-institucional, destinacao-final, fiscalizacao, grande-gerador, licenciamento-ambiental, licenca-operacao, logistica-reversa, monitoramento, municipio, pev, pgrs, plano-regional, pmgirs, pnrs, prazo, reciclagem, regiao-metropolitana, renovacao, residuo-perigoso, residuo-solido]
 fonte: "PDF do texto sancionado (Word, 7 páginas, protocolo DL/CC/Prot. 17.642.466-6), enviado por Leo; sem indicação do número do Diário Oficial"
 ---
 

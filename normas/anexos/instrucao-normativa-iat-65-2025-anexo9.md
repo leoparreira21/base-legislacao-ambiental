@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: PCPA e Projeto de Terraplanagem
 atividades: [industria]
 modalidades: [li, lia, lir]
-tags: [analise-solo, app, automonitoramento, caracterizacao-agronomica, classe-risco-solo, declividade, destinacao-final, disposicao-solo, drenagem, esgoto-sanitario, frequencia-monitoramento, lancamento, licenca-ambiental, padrao-emissao, passivo-ambiental, patogeno, pcpa, pgr, qualidade-ar, residuo-industrial, substancia-inorganica, supressao-vegetacao, taxa-aplicacao, terraplanagem, textura-solo, tratamento-efluente, uso-agricola-efluente, vazao]
+tags: [analise-solo, app, automonitoramento, caracterizacao-agronomica, classe-risco-solo, declividade, destinacao-final, disposicao-solo, drenagem, esgoto-sanitario, frequencia-monitoramento, lancamento, licenciamento-ambiental, padrao-emissao, passivo-ambiental, patogeno, pcpa, pgr, qualidade-ar, residuo-industrial, substancia-inorganica, supressao-vegetacao, taxa-aplicacao, terraplanagem, textura-solo, tratamento-efluente, uso-agricola-efluente, vazao]
 fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do PDF, com anexos)
 ---
 

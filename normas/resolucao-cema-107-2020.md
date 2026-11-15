@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: ["[[decreto-estadual-9541-2025]]"]
 cita: ["[[decreto-estadual-6390-2006]]", "[[decreto-federal-7845-2012]]", "[[decreto-federal-99274-1990]]", "[[lei-estadual-10233-1992]]", "[[lei-estadual-11054-1995]]", "[[lei-estadual-12248-1998]]", "[[lei-estadual-15431-2007]]", "[[lei-estadual-7109-1979]]", "[[lei-estadual-7978-1984]]", "[[lei-federal-10257-2001]]", "[[lei-federal-10650-2003]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12527-2011]]", "[[lei-federal-12651-2012]]", "[[lei-federal-6938-1981]]", "[[lei-federal-7347-1985]]", "[[lei-federal-7565-1986]]", "[[lei-federal-9605-1998]]", "[[lei-federal-9985-2000]]", "[[resolucao-conama-237-1997]]", "[[resolucao-conama-428-2010]]"]
-tags: [ampliacao, autorizacao-ambiental, certidao, condicionante, dila, dlae, eia-rima, enquadramento, estudo-ambiental, inexigibilidade, lac, las, licenca-ambiental, licenca-instalacao, licenca-operacao, licenca-previa, licenciamento-ambiental, licenciamento-simplificado, modalidade-licenciamento, porte, potencial-poluidor, prazo, publicacao, publicidade, regularizacao, renovacao, taxa-ambiental]
+tags: [licenca-ampliacao, autorizacao-ambiental, certidao, condicionante, dila, dispensa, eia-rima, enquadramento, estudo-ambiental, inexigibilidade, lac, licenciamento-monofasico, licenciamento-ambiental, licenca-instalacao, licenca-operacao, licenca-previa, modalidade-licenciamento, porte, potencial-poluidor, prazo, publicacao, publicidade, regularizacao, renovacao, taxa-ambiental]
 fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé traz "Este texto não substitui o publicado no Diário Oficial do Estado"."
 ---
 

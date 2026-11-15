@@ -19,7 +19,7 @@ alterado_por: []
 revoga: []
 revogado_por: ["[[instrucao-normativa-iat-33-2025]]"]
 cita: ["[[decreto-estadual-857-1979]]", "[[decreto-federal-99274-1990]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-10233-1992]]", "[[lei-estadual-11054-1995]]", "[[lei-estadual-7109-1979]]", "[[lei-federal-4771-1965]]", "[[lei-federal-6938-1981]]", "[[portaria-iap-260-2014-anexo10]]", "[[portaria-iap-260-2014-anexo6]]", "[[portaria-iap-260-2014-anexo7]]", "[[portaria-iap-260-2014-anexo8]]", "[[portaria-iap-260-2014-anexo9]]", "[[resolucao-cema-65-2008]]", "[[resolucao-cema-94-2014]]", "[[resolucao-conama-1-1986]]", "[[resolucao-conama-430-2011]]"]
-tags: [anexo-pendente, aterro-sanitario, automonitoramento, autorizacao-ambiental, biogas, certidao-municipal, coleta-seletiva, eia-rima, emissao-atmosferica, etapas-licenciamento, li, licenciamento-ambiental, lo, lp, outorga, padrao-lancamento, pca, plano-encerramento, prazo, publicacao-anexos, publicacao-licenca, rap, validade]
+tags: [anexo-pendente, aterro-sanitario, automonitoramento, autorizacao-ambiental, biogas, certidao-municipal, coleta-seletiva, eia-rima, emissao-atmosferica, etapas-licenciamento, licenca-instalacao, licenciamento-ambiental, licenca-operacao, licenca-previa, outorga, padrao-lancamento, pca, plano-encerramento, prazo, publicacao-anexos, publicacao-licenca, relatorio-ambiental-preliminar, validade]
 fonte: "PDF impresso do portal Sistema de Informações Ambientais do IAP, com a observação \"O texto abaixo não substitui o publicado no Diário Oficial\", 37 páginas (Portaria e Anexos I a XII)."
 ---
 

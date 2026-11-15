@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-4447-2001]]", "[[decreto-estadual-6674-2002]]", "[[decreto-estadual-857-1979]]", "[[decreto-federal-99274-1990]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-10233-1992]]", "[[lei-estadual-11054-1995]]", "[[lei-estadual-11352-1996]]", "[[lei-estadual-12493-1999]]", "[[lei-estadual-13806-2002]]", "[[lei-estadual-7109-1979]]", "[[lei-estadual-7978-1984]]", "[[lei-estadual-8289-1986]]", "[[lei-estadual-8485-1987]]", "[[lei-federal-4771-1965]]", "[[lei-federal-6938-1981]]", "[[resolucao-cema-50-2005]]", "[[resolucao-cema-65-2008]]", "[[resolucao-sema-54-2006]]"]
-tags: [automonitoramento, autorizacao-ambiental, cimenteira, coprocessamento, emissao-atmosferica, laboratorio, laudo-analitico, licenciamento-ambiental, metal-pesado, poder-calorifico, prazo, relatorio-semestral, residuo-outro-estado, residuo-proibido, residuo-solido, sancao, solo-contaminado]
+tags: [automonitoramento, autorizacao-ambiental, cimento, coprocessamento, emissao-atmosferica, laboratorio, laudo-tecnico, licenciamento-ambiental, metal-pesado, poder-calorifico, prazo, relatorio-semestral, residuo-outro-estado, residuo-proibido, residuo-solido, sancao, solo-contaminado]
 fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé traz "Este texto não substitui o publicado no Diário Oficial do Estado"."
 ---
 

@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Laudo de Conclusão de Obras"
 atividades: [unidade-gerenciamento-lodo]
 modalidades: [lo, loa]
-tags: [lodo-esgoto, laudo, conclusao-obra, ugl]
+tags: [lodo-esgoto, laudo-tecnico, laudo-conclusao-obra, ugl]
 fonte: "PDF da Instrução Normativa IAT nº 14/2026 enviado pelo usuário; páginas 82–83."
 ---
 

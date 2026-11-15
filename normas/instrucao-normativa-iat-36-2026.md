@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-iat-55-2025]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-11515-2018]]", "[[decreto-estadual-11977-2022]]", "[[decreto-estadual-13433-2026]]", "[[decreto-estadual-3813-2020]]", "[[instrucao-normativa-iat-5-2026]]", "[[instrucao-normativa-iat-55-2025]]", "[[instrucao-normativa-iat-61-2025]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-18295-2014]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12651-2012]]", "[[lei-federal-6938-1981]]", "[[portaria-iat-151-2024]]", "[[resolucao-sedest-50-2022]]"]
-tags: [car, compensacao-ambiental, fauna, flora, licenciamento-ambiental, monitoramento, reserva-legal, supressao-vegetacao]
+tags: [car, compensacao, fauna, flora, licenciamento-ambiental, monitoramento, reserva-legal, supressao-vegetacao]
 anexos: nenhum
 fonte: "PDF fornecido pelo usuário (instrucao-normativa-36-2026-areas-verdes.pdf, 10 páginas)"
 ---

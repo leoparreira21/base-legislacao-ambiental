@@ -19,7 +19,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[lei-federal-6938-1981]]", "[[decreto-federal-99274-1990]]", "[[portaria-mma-168-2005]]", "[[resolucao-conama-357-2005]]", "[[lei-federal-9605-1998]]"]
-tags: [abastecimento, automonitoramento, baixo-potencial-poluidor, balneabilidade, cancelamento-licenca, capacidade-suporte, carga-poluidora, cianobacteria, dcp, diluicao, disposicao-solo, efluente, emissario-submarino, enquadramento, esgoto-sanitario, fosforo, laboratorio-acreditado, lagoa-tratamento, lancamento-indireto, laudo-analitico, lixiviado, materiais-sedimentaveis, monitoramento, oleos-graxas, padrao-lancamento, padrao-qualidade, pop, prorrogacao-prazo, responsavel-tecnico, restricao-temporaria, reuso-efluente, sancao, servico-saude, suspensao-licenca, transicao, tratamento-efluente, vazao]
+tags: [abastecimento, automonitoramento, baixo-potencial-poluidor, balneabilidade, cancelamento-licenca, capacidade-suporte, carga-poluidora, cianobacteria, dcp, diluicao, disposicao-solo, efluente, emissario-submarino, enquadramento, esgoto-sanitario, fosforo, laboratorio-acreditado, lagoa-tratamento, lancamento, laudo-tecnico, lixiviado, materiais-sedimentaveis, monitoramento, oleos-graxas, padrao-lancamento, padrao-qualidade, pop, prorrogacao-prazo, responsavel-tecnico, restricao-temporaria, agua-reuso, sancao, servico-saude, suspensao-licenca, transicao, tratamento-efluente, vazao]
 fonte: "PDF redigitado em Word (11 páginas, sem brasão, sem assinatura), enviado por Leo; texto conferido com o PDF"
 ---
 

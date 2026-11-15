@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Relatório de Automonitoramento Ambiental"
 atividades: [estacao-campo-eletromagnetico]
 modalidades: [rlas]
-tags: [campo-eletromagnetico, monitoramento, radiacao-eletromagnetica, renovacao]
+tags: [eletromagnetico, monitoramento, renovacao]
 fonte: "PDF da Instrução Normativa IAT nº 13/2026 enviado pelo usuário; páginas 30–32."
 ---
 

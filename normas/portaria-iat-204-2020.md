@@ -17,7 +17,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-ibama-21-2014]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-12651-2012]]", "[[resolucao-cema-105-2019]]", "[[resolucao-cema-70-2009]]", "[[resolucao-conama-6-1986]]", "[[resolucao-sema-16-2014]]"]
-tags: [app, area-urbana, automonitoramento, autorizacao-florestal, carvao-vegetal, certidao, ctf, distancia-minima, dof, especie-exotica, estudo-ambiental, forno-carvao, imovel, infracao-ambiental, las, li, licenca-ambiental, licenciamento-ambiental, lo, lp, prorrogacao, regularizacao, renovacao, reserva-legal, sancao, serflor, transporte-florestal, validade]
+tags: [app, area-urbana, automonitoramento, autorizacao-florestal, carvao-vegetal, certidao, ctf, distancia-minima, dof, especie-exotica, estudo-ambiental, forno-carvao, imovel, infracao-ambiental, licenciamento-monofasico, licenca-instalacao, licenciamento-ambiental, licenca-operacao, licenca-previa, prorrogacao, regularizacao, renovacao, reserva-legal, sancao, serflor, transporte-florestal, validade]
 fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (impressão, com o aviso \"O texto abaixo não substitui o publicado no Diário Oficial\"), PDF enviado por Leo. Sem data e número do DIOE."
 ---
 

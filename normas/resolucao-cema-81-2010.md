@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-4447-2001]]", "[[decreto-estadual-857-1979]]", "[[decreto-federal-7217-2010]]", "[[decreto-federal-99274-1990]]", "[[lei-estadual-10233-1992]]", "[[lei-estadual-11054-1995]]", "[[lei-estadual-11352-1996]]", "[[lei-estadual-7109-1979]]", "[[lei-estadual-7978-1984]]", "[[lei-estadual-8289-1986]]", "[[lei-estadual-8485-1987]]", "[[lei-federal-11445-2007]]", "[[lei-federal-4771-1965]]", "[[lei-federal-6938-1981]]", "[[resolucao-cema-70-2009]]"]
-tags: [agua-doce, agua-salobra, estacao-de-tratamento, laboratorio, orgao-gestor, padrao-de-emissao, porte, prazo, substituicao, tipologia, vazao-de-referencia]
+tags: [agua-doce, agua-salobra, estacao-de-tratamento, laboratorio, orgao-gestor, padrao-de-emissao, porte, prazo, substituicao, tipologia, vazao]
 fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé traz "Este texto não substitui o publicado no Diário Oficial do Estado"."
 ---
 

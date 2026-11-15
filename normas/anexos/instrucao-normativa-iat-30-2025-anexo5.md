@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Relatório de Gerenciamento de Resíduos
 atividades: [transbordo-residuo-solido-urbano]
 modalidades: [rlas, rlo, lasr, lor]
-tags: [ampliacao, destinacao-final, efluente, lixiviado, regularizacao, renovacao, transbordo, transporte, vetor]
+tags: [licenca-ampliacao, destinacao-final, efluente, lixiviado, regularizacao, renovacao, transbordo-residuos, transporte, vetor]
 fonte: PDF da IN IAT 30/2025, páginas 60 e 61 (a página 60 traz o título "ANEXO IV")
 ---
 

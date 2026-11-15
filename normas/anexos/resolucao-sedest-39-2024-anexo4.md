@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RAP
 atividades: [patio-caminhao, patio-container]
 modalidades: [lp]
-tags: [patio-caminhao, patio-container, rap]
+tags: [patio-caminhao, patio-container, relatorio-ambiental-preliminar]
 fonte: PDF dos anexos da Resolução SEDEST 39/2024 (Res__SEDEST_39_2024_-_ANEXOS.pdf), páginas 17 a 23
 ---
 

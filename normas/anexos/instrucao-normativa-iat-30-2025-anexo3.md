@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [transbordo-residuo-solido-urbano]
 modalidades: [lp, lpa]
-tags: [memorial-caracterizacao, transbordo, residuo-solido-urbano, app, corpo-hidrico, distancia-minima, georreferenciamento, porte, recurso-hidrico, reserva-legal, supressao-vegetacao, uso-solo]
+tags: [memorial-caracterizacao, transbordo-residuos, residuo-solido-urbano, app, corpo-hidrico, distancia-minima, georreferenciamento, porte, recurso-hidrico, reserva-legal, supressao-vegetacao, uso-solo]
 fonte: PDF da IN IAT 30/2025, páginas 53 e 54 (a página traz o título "ANEXO II")
 ---
 

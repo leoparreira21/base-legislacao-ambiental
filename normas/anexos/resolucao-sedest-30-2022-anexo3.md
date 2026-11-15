@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Projeto Básico de Terraplenagem"
 atividades: [empreendimento-imobiliario]
 modalidades: [lp, li, las]
-tags: [terraplenagem, projeto-basico]
+tags: [terraplanagem, projeto-basico]
 fonte: "PDF do eProtocolo da Resolução SEDEST nº 30/2022 (documento assinado digitalmente em 27/05/2022)."
 ---
 

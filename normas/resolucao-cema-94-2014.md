@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: ["[[decreto-estadual-9541-2025]]"]
 cita: ["[[decreto-estadual-4646-2001]]", "[[decreto-estadual-6674-2002]]", "[[decreto-federal-7217-2010]]", "[[decreto-federal-7404-2010]]", "[[decreto-federal-7405-2010]]", "[[lei-estadual-12493-1999]]", "[[lei-estadual-12726-1999]]", "[[lei-estadual-7978-1984]]", "[[lei-estadual-8289-1986]]", "[[lei-estadual-8485-1987]]", "[[lei-federal-11107-2005]]", "[[lei-federal-11445-2007]]", "[[lei-federal-12305-2010]]", "[[resolucao-cema-65-2008]]", "[[resolucao-cema-86-2013]]", "[[resolucao-conama-358-2005]]", "[[resolucao-conama-404-2008]]", "[[resolucao-sema-31-1998]]"]
-tags: [area-disposicao-final, aterro-sanitario, automonitoramento, compostagem, encerramento, escopo, estudo-ambiental, irregularidade, licenca-instalacao, licenca-operacao, licenciamento-ambiental, localizacao, outorga, prazo, renovacao, residuo-proibido, sancao, transporte-de-residuo]
+tags: [disposicao-final, aterro-sanitario, automonitoramento, compostagem, encerramento, escopo, estudo-ambiental, irregularidade, licenca-instalacao, licenca-operacao, licenciamento-ambiental, localizacao, outorga, prazo, renovacao, residuo-proibido, sancao, transporte-residuos]
 fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé traz "Este texto não substitui o publicado no Diário Oficial do Estado"."
 ---
 

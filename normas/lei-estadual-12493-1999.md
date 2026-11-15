@@ -19,7 +19,7 @@ alterado_por: ["[[lei-estadual-15456-2007]]", "[[lei-estadual-15862-2008]]"]
 revoga: []
 revogado_por: []
 cita: []
-tags: [acondicionamento, agrotoxico, area-degradada, armazenamento-residuo, classificacao-residuo, corpo-hidrico, destinacao-final, disposicao-final, disposicao-solo, distancia-minima, embalagem, estudo-ambiental, transporte-residuos, incluido, inventario-residuos, licenciamento-ambiental, lixao, lodo, multa, municipio, passivo-ambiental, pneu, porto, prazo, queima-ceu-aberto, reciclagem, redacao-alterada, reincidencia, rejeito-radioativo, residuo-industrial, residuo-liquido, residuo-perigoso, residuo-servico-saude, residuo-solido, residuo-solido-urbano, reutilizacao, sancao, transporte, tratamento-residuo]
+tags: [armazenamento-residuo, agrotoxico, area-degradada, classificacao-residuo, corpo-hidrico, destinacao-final, disposicao-final, disposicao-solo, distancia-minima, embalagem, estudo-ambiental, transporte-residuos, incluido, inventario-residuos, licenciamento-ambiental, lixao, lodo, multa, municipio, passivo-ambiental, pneu, porto, prazo, queima-ceu-aberto, reciclagem, redacao-alterada, reincidencia, rejeito-radioativo, residuo-industrial, residuo-liquido, residuo-perigoso, residuo-servico-saude, residuo-solido, residuo-solido-urbano, reutilizacao, sancao, transporte, tratamento-residuo]
 fonte: "LeisEstaduais.com.br (Leis.org), Lei Ordinária 12493/1999, 6 páginas, gerado em 11/10/2026 02:49:38, enviado por Leo"
 ---
 

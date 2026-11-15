@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: projeto-terraplanagem
 atividades: [atividade-ensino, empreendimento-ensino]
 modalidades: [li, lir]
-tags: [terraplanagem, movimentacao-solo, drenagem, erosao, estabilidade-solo, recuperacao-area-degradada]
+tags: [terraplanagem, movimentacao-solo, drenagem, erosao, estabilidade-solo, plano-recuperacao-area-degradada]
 fonte: PDF da IN IAT 60/2025 (eProtocolo nº 24.535.432-0), anexos integrantes do arquivo assinado em 16/09/2025
 ---
 

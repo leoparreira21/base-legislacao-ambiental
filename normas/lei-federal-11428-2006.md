@@ -22,7 +22,7 @@ alterado_por: ["[[lei-federal-12651-2012]]", "[[lei-federal-15190-2025]]"]
 revoga: []
 revogado_por: []
 cita: ["[[decreto-federal-6660-2008]]", "[[lei-federal-9985-2000]]", "[[medida-provisoria-2166-7-2001]]"]
-tags: [agricultura-familiar, area-urbana, autorizacao-florestal, comunidade-tradicional, credito-rural, eia-rima, especie-ameacada, infracao-ambiental, interesse-social, licenciamento-ambiental, manejo-florestal, mata-atlantica, medida-compensatoria, mineracao, municipio, pousio, recuperacao-ambiental, redacao-alterada, reserva-legal, revogado, supressao-vegetacao, unidade-conservacao, utilidade-publica, vegetacao-nativa]
+tags: [agricultura-familiar, area-urbana, autorizacao-florestal, comunidade-tradicional, credito-rural, eia-rima, especie-ameacada, infracao-ambiental, interesse-social, licenciamento-ambiental, manejo-florestal, mata-atlantica, medida-compensatoria, mineracao, municipio, pousio, plano-recuperacao-area-degradada, redacao-alterada, reserva-legal, revogado, supressao-vegetacao, unidade-conservacao, utilidade-publica, vegetacao-nativa]
 fonte: "Planalto – texto compilado da Lei nº 11.428/2006 impresso do navegador (9 páginas), com as redações anteriores tachadas e as anotações do portal ('Este texto não substitui o publicado no DOU de 26.12.2006 - retificado em 9.1.2007'), enviado por Leo"
 ---
 

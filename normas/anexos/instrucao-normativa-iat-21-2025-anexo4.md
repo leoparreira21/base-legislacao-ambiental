@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Projeto de Implantação Urbanística"
 atividades: [empreendimento-imobiliario]
 modalidades: [las, lasa, lp, lpa, li, lia]
-tags: [app, area-inundavel, area-verde-urbana, distancia-minima, empreendimento-imobiliario, georreferenciamento, plano-recuperacao, responsavel-tecnico]
+tags: [app, area-inundavel, area-verde-urbana, distancia-minima, empreendimento-imobiliario, georreferenciamento, plano-recuperacao-area-degradada, responsavel-tecnico]
 fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; páginas 53–55."
 ---
 

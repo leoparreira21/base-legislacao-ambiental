@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: RAP
 atividades: [posto-abastecimento-combustiveis]
 modalidades: [lp, lpa, lor]
-tags: [rap, licenciamento-ambiental, diagnostico-ambiental, impacto-ambiental, area-influencia]
+tags: [relatorio-ambiental-preliminar, licenciamento-ambiental, diagnostico-ambiental, impacto-ambiental, area-influencia]
 fonte: "PDF fornecido, pp. 88–96 (paginação impressa)."
 ---
 

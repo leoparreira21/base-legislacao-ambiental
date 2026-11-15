@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [aterro-sanitario]
 modalidades: [li, lia]
-tags: [aterro-sanitario, pca, responsavel-tecnico, cnpj, responsavel-legal, vida-util, residuo-solido-urbano, rejeito, dimensionamento, terraplanagem, movimentacao-solo, geotecnia, sistema-isolamento, agua-pluvial, seguranca-instalacao, cobertura-residuo, vazao, declividade, lancamento, encerramento, lixiviado, tratamento-efluente, destinacao-final, lodo, impermeabilizacao, biogas, esgoto-sanitario, captacao, gerenciamento-residuo, residuo-construcao-civil, segregacao, acondicionamento, emissao-atmosferica, georreferenciamento, corpo-hidrico, poco, uso-solo, agua-subterranea, reserva-legal, app, monitoramento, li, lia]
+tags: [aterro-sanitario, pca, responsavel-tecnico, cnpj, responsavel-legal, vida-util, residuo-solido-urbano, rejeito, dimensionamento, terraplanagem, movimentacao-solo, geotecnia, sistema-isolamento, agua-pluvial, seguranca-instalacao, cobertura-residuo, vazao, declividade, lancamento, encerramento, lixiviado, tratamento-efluente, destinacao-final, lodo, impermeabilizacao, biogas, esgoto-sanitario, captacao, gerenciamento-residuo, residuo-construcao-civil, segregacao, armazenamento-residuo, emissao-atmosferica, georreferenciamento, corpo-hidrico, poco, uso-solo, agua-subterranea, reserva-legal, app, monitoramento, licenca-instalacao, licenca-ampliacao]
 fonte: PDF da IN IAT 33/2025 assinado digitalmente em 30/05/2025 (69 páginas), páginas 51 a 61
 ---
 

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Relatório de Gerenciamento de Resíduos
 atividades: [triagem-residuo-reciclavel]
 modalidades: [rlas, rlo, lasr, lor]
-tags: [ampliacao, destinacao-final, reciclagem, regularizacao, rejeito, renovacao, transporte, triagem, vetor]
+tags: [licenca-ampliacao, destinacao-final, reciclagem, regularizacao, rejeito, renovacao, transporte, triagem, vetor]
 fonte: PDF da IN IAT 31/2025, página 60
 ---
 

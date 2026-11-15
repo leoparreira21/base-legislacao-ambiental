@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: "Projeto Técnico de Compensação Ambiental"
 atividades: [compensacao-ambiental, supressao-vegetacao]
 modalidades: [autorizacao-florestal]
-tags: [aecr, car, compensacao-ambiental, georreferenciamento, inventario-florestal, restauracao, supressao-vegetacao]
+tags: [aecr, car, compensacao, georreferenciamento, inventario-florestal, restauracao, supressao-vegetacao]
 fonte: PDF da IN IAT 16/2025, páginas 28 a 34
 ---
 

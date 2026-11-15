@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: pgrs
 atividades: [biodigestor, aproveitamento-biogas]
 modalidades: [li, lo, lir, lor]
-tags: [pgrs, biodigestor, residuo-solido, armazenamento-residuo, transporte-residuo, destinacao-final]
+tags: [pgrs, biodigestor, residuo-solido, armazenamento-residuo, transporte-residuos, destinacao-final]
 fonte: PDF da republicação da IN IAT 24/2025 (eProtocolo nº 23.746.821-0), de 12/11/2025
 ---
 

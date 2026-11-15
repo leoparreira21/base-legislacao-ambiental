@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PRAD
 atividades: [mineracao]
 modalidades: [lo, rlo, encerramento]
-tags: [prad, area-degradada, recuperacao-ambiental, mineracao, monitoramento]
+tags: [plano-recuperacao-area-degradada, area-degradada, mineracao, monitoramento]
 fonte: PDF da IN IAT 33/2026 (eProtocolo nº 23.585.771-5), páginas 144 a 149
 ---
 

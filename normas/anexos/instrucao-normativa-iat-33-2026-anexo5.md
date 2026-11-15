@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RAP
 atividades: [mineracao]
 modalidades: [lp, lpa]
-tags: [rap, mineracao, diagnostico-ambiental, impacto-ambiental, viabilidade-ambiental]
+tags: [relatorio-ambiental-preliminar, mineracao, diagnostico-ambiental, impacto-ambiental, viabilidade-ambiental]
 fonte: PDF da IN IAT 33/2026 (eProtocolo nº 23.585.771-5), páginas 111 a 114
 ---
 

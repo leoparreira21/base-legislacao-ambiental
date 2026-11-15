@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Relatório Ambiental Prévio – RAP"
 atividades: [unidade-gerenciamento-lodo]
 modalidades: [lp, lpa]
-tags: [lodo-esgoto, rap, diagnostico-ambiental, ugl]
+tags: [lodo-esgoto, relatorio-ambiental-preliminar, diagnostico-ambiental, ugl]
 fonte: "PDF da Instrução Normativa IAT nº 14/2026 enviado pelo usuário; páginas 108–115."
 ---
 

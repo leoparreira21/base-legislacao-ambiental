@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-7-2023]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-6514-2008]]", "[[decreto-estadual-9415-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-2-2024]]", "[[instrucao-normativa-7-2023]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-20656-2021]]", "[[lei-federal-11326-2006]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12651-2012]]", "[[lei-federal-9605-1998]]", "[[portaria-17-2025]]", "[[portaria-347-2021]]", "[[portaria-iat-112-2019]]"]
-tags: [autorizacao-ambiental, car, compensacao-ambiental, efluente, fauna, flora, infracao-ambiental, licenciamento-ambiental, monitoramento, outorga, reserva-legal, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, terraplanagem]
+tags: [autorizacao-ambiental, car, compensacao, efluente, fauna, flora, infracao-ambiental, licenciamento-ambiental, monitoramento, outorga, reserva-legal, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, terraplanagem]
 anexos: nenhum
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_50-2025-processos_de_infracoes-20227740-3.pdf, 50 páginas)"
 ---

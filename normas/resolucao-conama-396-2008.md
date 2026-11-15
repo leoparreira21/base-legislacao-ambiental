@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[constituicao-federal-1988]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9433-1997]]", "[[resolucao-cnrh-12-2000]]", "[[resolucao-cnrh-15-2001]]"]
-tags: [agua-subterranea, area-protecao-aquifero, area-restricao-controle, dessedentacao-animal, disposicao-solo, efluente, enquadramento, frequencia-monitoramento, injecao, irrigacao, laboratorio, laudo-analitico, ldm, licenciamento-ambiental, lqa, lqp, monitoramento, padrao-qualidade, radiologia, recarga-artificial, restricao-temporaria, vmp, vrq, zoneamento]
+tags: [agua-subterranea, area-protecao-aquifero, area-restricao-controle, dessedentacao-animal, disposicao-solo, efluente, enquadramento, frequencia-monitoramento, injecao, irrigacao, laboratorio, laudo-tecnico, ldm, licenciamento-ambiental, lqa, lqp, monitoramento, padrao-qualidade, radiologia, recarga-artificial, restricao-temporaria, vmp, vrq, zoneamento]
 fonte: "PDF da publicação Resoluções do CONAMA (Qualidade da água, 11 páginas), enviado por Leo; texto e tabelas conferidos com as imagens das páginas. O PDF diz: 'Este texto não substitui o publicado no DOU, de 7 de abril de 2008'."
 ---
 

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RDPA
 atividades: [empreendimento-imobiliario]
 modalidades: [li, lia]
-tags: [app, area-verde-urbana, drenagem, medida-compensatoria, medida-mitigadora, pgrcc, plano-recuperacao, rdpa, terraplanagem]
+tags: [app, area-verde-urbana, drenagem, medida-compensatoria, medida-mitigadora, pgrcc, plano-recuperacao-area-degradada, rdpa, terraplanagem]
 fonte: "PDF IN 21 2025.pdf enviado pelo usuário, páginas 93 a 95"
 ---
 

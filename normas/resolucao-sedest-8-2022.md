@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: ["[[decreto-estadual-9541-2025]]"]
 cita: ["[[decreto-federal-99274-1990]]", "[[lei-complementar-federal-140-2011]]", "[[lei-estadual-10233-1992]]", "[[lei-estadual-11054-1995]]", "[[lei-estadual-19848-2019]]", "[[lei-estadual-7109-1979]]", "[[lei-federal-10257-2001]]", "[[lei-federal-12651-2012]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9605-1998]]", "[[resolucao-cema-107-2020]]", "[[resolucao-conama-1-1986]]", "[[resolucao-conama-6-1986]]", "[[resolucao-sema-16-2014]]"]
-tags: [anexo-pendente, app, area-umida, autorizacao-florestal, bem-cultural, efluente, eia-rima, emissao-atmosferica, estudo-ambiental, gas-natural, infracao-ambiental, las, licenciamento-ambiental, orgao-interveniente, padrao-emissao, padrao-lancamento, pendencia-judicial, prazo, restricao-locacional, seguranca-instalacao, supressao-vegetacao, termeletrica, unidade-conservacao, validade]
+tags: [anexo-pendente, app, area-umida, autorizacao-florestal, bem-cultural, efluente, eia-rima, emissao-atmosferica, estudo-ambiental, gas-natural, infracao-ambiental, licenciamento-monofasico, licenciamento-ambiental, orgao-interveniente, padrao-emissao, padrao-lancamento, pendencia-judicial, prazo, restricao-locacional, seguranca-instalacao, supressao-vegetacao, termeletrica, unidade-conservacao, validade]
 fonte: "Portal da legislação estadual (AEN, \"Este texto não substitui o publicado no Diário Oficial do Estado\"), PDF enviado por Leo. O número do DIOE e a súmula vêm do cabeçalho do portal."
 ---
 
