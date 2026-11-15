@@ -4,6 +4,8 @@ import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { ArrowLeft, ArrowUp, ExternalLink, Search, TextSearch, X } from 'lucide-react'
 import ConsultaSQL, { apiDisponivel } from './ConsultaSQL'
+import LocalizadorOcorrencias from './LocalizadorOcorrencias'
+import type { ConsultaPublicada } from './consulta'
 
 type Norma = {
   arquivo: string
@@ -117,6 +119,14 @@ export default function App() {
   const [recarga, setRecarga] = useState(0)
   const busca = useRef<HTMLInputElement>(null)
   const quadro = useRef<HTMLIFrameElement>(null)
+  const [documento, setDocumento] = useState<Document | null>(null)
+  const [consulta, setConsulta] = useState<ConsultaPublicada | null>(null)
+  const [localizar, setLocalizar] = useState(false)
+  const botaoLocalizador = useRef<HTMLButtonElement>(null)
+  const fecharLocalizador = () => {
+    setLocalizar(false)
+    requestAnimationFrame(() => botaoLocalizador.current?.focus())
+  }
 
   useEffect(() => {
     carregarCatalogo().then(setNormas).catch((e) => setErro(e.message))
@@ -152,6 +162,7 @@ export default function App() {
       } catch { /* recarrega abaixo */ }
     }
     setSel({ arquivo, ancora })
+    setDocumento(null)
     setPedido({ arquivo, ancora })
     setRecarga((r) => r + 1)
   }
@@ -166,6 +177,7 @@ export default function App() {
   }
 
   const abrirDaConsulta = (arquivo: string, ancora: string) => {
+    setLocalizar(true)
     abrir(arquivo, ancora)
     if (!window.matchMedia('(min-width: 1280px)').matches) setPainel(false)
   }
@@ -232,6 +244,7 @@ export default function App() {
       const win = quadro.current?.contentWindow
       const d = quadro.current?.contentDocument
       if (!win || !d) return
+      setDocumento(d)
       d.querySelectorAll<HTMLAnchorElement>('.barra a[href$="index.html"]').forEach((a) => (a.style.display = 'none'))
       if (doc?.html) {
         if (pedido.ancora) win.location.hash = pedido.ancora
@@ -426,6 +439,24 @@ export default function App() {
                 <X className="h-4 w-4" />
               </Button>
             </div>
+            {consulta?.slugs.includes(atual.arquivo) && (
+              localizar ? (
+                <LocalizadorOcorrencias
+                  parametros={consulta.parametros}
+                  slug={atual.arquivo}
+                  ancora={sel.ancora}
+                  documento={pronto ? documento : null}
+                  ir={(id) => abrir(atual.arquivo, id)}
+                  fechar={fecharLocalizador}
+                />
+              ) : (
+                <div className="border-b px-3 py-1.5">
+                  <Button ref={botaoLocalizador} variant="outline" size="sm" onClick={() => setLocalizar(true)}>
+                    <TextSearch className="h-4 w-4" /> Localizar ocorrências
+                  </Button>
+                </div>
+              )
+            )}
             {pronto ? (
             <iframe
               key={recarga}
@@ -462,6 +493,8 @@ export default function App() {
           <ConsultaSQL
             esferaDe={(s) => normas.find((n) => n.arquivo === s)?.esfera}
             nomeDe={(s) => normas.find((n) => n.arquivo === s)?.norma}
+            ementaDe={(s) => normas.find((n) => n.arquivo === s)?.ementa}
+            publicarConsulta={setConsulta}
             abrir={abrirDaConsulta}
             aberto={sel}
             fechar={painel ? () => setPainel(false) : undefined}

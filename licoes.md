@@ -1,5 +1,8 @@
 # Lições aprendidas
 
+- 2026-11-15, localizador da biblioteca: abrir um artigo pelo ID disparava o controlador do HTML, que expandia todos os filhos e impedia mostrar apenas os dispositivos da consulta. Fazer: sinalizar o modo com `data-localizar-ocorrencias`, abrir os caminhos dos resultados e restaurar a expansão ao fechar; testar setas, F3, troca de filtro e respostas atrasadas no leitor real. A lista do D1 tinha teto de 1.000 por norma: usar `proximo_offset` para percorrer todos os lotes.
+- 2026-11-15, recompilar a biblioteca: TypeScript 7 removeu `baseUrl` (os caminhos já são relativos ao tsconfig), e a checagem de todo o kit também encontra APIs antigas nos componentes não utilizados de calendário e painéis. Fazer: distinguir o bundle Parcel e os tipos da entrada real da biblioteca desses erros preexistentes do kit. O pnpm da sessão criou `pnpm-workspace.yaml` para os scripts nativos; não versionar esse arquivo incidental nem os caches de build.
+
 Armadilhas e contornos encontrados pelos agentes ao converter e atualizar normas. Leia antes de começar; acrescente ao encontrar atrito (ver "Comportamento Adaptativo" no CLAUDE.md).
 
 Formato: uma lição por item, com data, contexto e o que fazer.
