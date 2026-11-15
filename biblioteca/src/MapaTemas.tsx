@@ -8,7 +8,7 @@ const chave = (s: string) => s.normalize('NFD').replace(/\p{M}/gu, '').toLowerCa
 const pontos = [[18,16],[82,16],[82,50],[82,84],[18,84],[18,50]]
 
 export default function MapaTemas({ inicial, normas, abrir }: {
-  inicial: Norma; normas: Norma[]; abrir: (arquivo: string, ancora?: string) => void
+  inicial: Norma; normas: Norma[]; abrir: (arquivo: string, ancora: string, tema: string, ancoraOrigem: string) => void
 }) {
   const dialog = useRef<HTMLDialogElement>(null)
   const [ativo, setAtivo] = useState(false)
@@ -60,7 +60,7 @@ export default function MapaTemas({ inicial, normas, abrir }: {
           <strong className="mt-centro">{centro}</strong>
           {visiveis.map((n,i)=><button key={n.id} className="mt-no" style={{left:pontos[i][0]+'%',top:pontos[i][1]+'%'}} onClick={()=>{
             if (!tema) selecionar(n.id)
-            else { dialog.current?.close(); abrir(n.id, indice.get(n.id)?.get(tema)?.ancora) }
+            else { dialog.current?.close(); abrir(n.id, indice.get(n.id)?.get(tema)?.ancora ?? '', entradas!.get(tema)!.nome, entradas!.get(tema)!.ancora) }
           }}>{n.nome}</button>)}
         </div> : <p className="mt-vazio">{busca ? 'Nenhum resultado para este filtro.' : tema ? 'Nenhuma outra norma do catálogo contém este tema.' : 'Nenhum tema encontrado para esta seleção.'}</p>}
         <footer><span aria-live="polite">{nos.length} {tema ? 'normas' : 'temas'}</span>{nos.length>6 && <>

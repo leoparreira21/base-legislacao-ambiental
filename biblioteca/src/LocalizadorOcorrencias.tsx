@@ -8,6 +8,7 @@ import { marcarOcorrencias } from './localizador'
 
 type Props = {
   parametros: ParametrosConsulta
+  buscaNoTexto?: boolean
   slug: string
   ancora: string
   documento: Document | null
@@ -15,23 +16,35 @@ type Props = {
   fechar: () => void
 }
 
-export default function LocalizadorOcorrencias({ parametros, slug, ancora, documento, ir, fechar }: Props) {
+export default function LocalizadorOcorrencias({ parametros, slug, ancora, documento, ir, fechar, buscaNoTexto }: Props) {
   const [resultado, setResultado] = useState<{ chave: string; itens: Resultado[]; erro: string } | null>(null)
   const [tentativa, setTentativa] = useState(0)
   const { q, tipo, soVigentes } = parametros
   const chave = JSON.stringify([slug, q, tipo, soVigentes, tentativa])
   useEffect(() => {
+    if (buscaNoTexto) return
     const controle = new AbortController()
     buscarDispositivos({ q, tipo, soVigentes }, slug, controle.signal)
       .then((itens) => { if (!controle.signal.aborted) setResultado({ chave, itens, erro: '' }) })
       .catch((e: Error) => { if (!controle.signal.aborted) setResultado({ chave, itens: [], erro: e.message }) })
     return () => controle.abort()
-  }, [chave, slug, q, tipo, soVigentes])
+  }, [chave, slug, q, tipo, soVigentes, buscaNoTexto])
 
-  const atual = resultado?.chave === chave ? resultado : null
+  const atual = !buscaNoTexto && resultado?.chave === chave ? resultado : null
   const itens = useMemo(() => atual?.itens ?? [], [atual])
   const disponiveis = useMemo(() => itens.filter((r) => r.dispositivo_id_html && documento?.getElementById(r.dispositivo_id_html)), [itens, documento])
-  const ids = useMemo(() => [...new Set(disponiveis.map((r) => r.dispositivo_id_html!))], [disponiveis])
+  const ids = useMemo(() => {
+    if (!buscaNoTexto) return [...new Set(disponiveis.map((r) => r.dispositivo_id_html!))]
+    if (!documento) return []
+    const normalizar = (s: string) => s.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim()
+    const termo = normalizar(q)
+    const encontrados = new Set<string>()
+    for (const trecho of documento.querySelectorAll('main p, main li, main td, main th, main summary')) {
+      const alvo = trecho.closest('[id]')
+      if (alvo && termo && normalizar(trecho.textContent ?? '').includes(termo)) encontrados.add(alvo.id)
+    }
+    return [...encontrados]
+  }, [buscaNoTexto, documento, q, disponiveis])
   const indice = ids.indexOf(ancora)
 
   useEffect(() => {
@@ -74,7 +87,7 @@ export default function LocalizadorOcorrencias({ parametros, slug, ancora, docum
     return () => { window.removeEventListener('keydown', tecla); documento?.removeEventListener('keydown', tecla) }
   }, [documento, mover, fechar])
 
-  const carregando = !atual || !documento
+  const carregando = (!buscaNoTexto && !atual) || !documento
   const selecionado = disponiveis.find((r) => r.dispositivo_id_html === ancora)
   return (
     <section aria-label="Localizar ocorrências" className="border-b bg-accent/40 px-3 py-2 text-xs">

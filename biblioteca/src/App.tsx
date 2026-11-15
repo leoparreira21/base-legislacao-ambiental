@@ -123,6 +123,7 @@ export default function App() {
   const quadro = useRef<HTMLIFrameElement>(null)
   const [documento, setDocumento] = useState<Document | null>(null)
   const [consulta, setConsulta] = useState<ConsultaPublicada | null>(null)
+  const [trilha, setTrilha] = useState<{ tema: string; origem?: { arquivo: string; ancora: string } } | null>(null)
   const [localizar, setLocalizar] = useState(false)
   const botaoLocalizador = useRef<HTMLButtonElement>(null)
   const fecharLocalizador = () => {
@@ -132,7 +133,7 @@ export default function App() {
 
   useEffect(() => {
     carregarCatalogo().then(setNormas).catch((e) => setErro(e.message))
-    const h = () => { setSel(lerHash()); setPedido(lerHash()); setRecarga((r) => r + 1) }
+    const h = () => { setTrilha(null); setSel(lerHash()); setPedido(lerHash()); setRecarga((r) => r + 1) }
     window.addEventListener('hashchange', h)
     const tecla = (e: KeyboardEvent) => {
       if (e.key === '/' && document.activeElement?.tagName !== 'INPUT') {
@@ -151,7 +152,7 @@ export default function App() {
   const [painel, setPainel] = useState(false) // consulta no texto em telas menores que xl
   useEffect(() => { apiDisponivel().then(setApi) }, [])
 
-  const abrir = (arquivo: string, ancora = '') => {
+  const navegar = (arquivo: string, ancora = '') => {
     const novo = arquivo ? `#${arquivo}${ancora ? '/' + ancora : ''}` : ' '
     history.pushState(null, '', novo === ' ' ? location.pathname + location.search : novo)
     // mesma norma já aberta no leitor: só leva ao dispositivo, sem recarregar
@@ -167,6 +168,17 @@ export default function App() {
     setDocumento(null)
     setPedido({ arquivo, ancora })
     setRecarga((r) => r + 1)
+  }
+
+  const abrir = (arquivo: string, ancora = '') => {
+    setTrilha(null)
+    navegar(arquivo, ancora)
+  }
+
+  const abrirPeloTema = (arquivo: string, ancora: string, tema: string, ancoraOrigem: string) => {
+    setTrilha({ tema, origem: { arquivo: sel.arquivo, ancora: ancoraOrigem || sel.ancora } })
+    setLocalizar(true)
+    navegar(arquivo, ancora)
   }
 
   // No celular a lista inteira rola (cabeçalho com busca e filtros incluso); depois de
@@ -212,6 +224,8 @@ export default function App() {
   }, [filtradas])
 
   const atual = normas?.find((n) => n.arquivo === sel.arquivo)
+  const parametrosLeitor = trilha ? { q: trilha.tema, tipo: '', soVigentes: false }
+    : atual && consulta?.slugs.includes(atual.arquivo) ? consulta.parametros : null
   const filtrosAtivos = q || esfera !== 'todas' || situacao !== 'todas' || tipos.length
 
   // O documento entra no leitor como srcdoc (texto baixado + <base>): funciona também onde a
@@ -432,7 +446,7 @@ export default function App() {
                   {atual.orgao || nomeTipo(atual.tipo)}{atual.situacao === 'revogada' ? ' · revogada' : ''}
                 </div>
               </div>
-              <MapaTemas key={atual.arquivo} inicial={atual} normas={normas!} abrir={abrir} />
+              <MapaTemas key={atual.arquivo} inicial={atual} normas={normas!} abrir={abrirPeloTema} />
               <Button asChild variant="outline" size="sm">
                 <a href={`${PASTA}/${atual.arquivo}.html`} target="_blank" rel="noopener">
                   <ExternalLink className="h-4 w-4" /> <span className="hidden sm:inline">Nova aba</span>
@@ -442,14 +456,23 @@ export default function App() {
                 <X className="h-4 w-4" />
               </Button>
             </div>
-            {consulta?.slugs.includes(atual.arquivo) && (
+            {trilha?.origem && <div className="border-b px-3 py-1">
+              <Button variant="ghost" size="sm" onClick={() => {
+                const origem = trilha.origem!
+                setTrilha({ tema: trilha.tema })
+                setLocalizar(true)
+                navegar(origem.arquivo, origem.ancora)
+              }}><ArrowLeft size={16}/> Voltar à norma anterior</Button>
+            </div>}
+            {parametrosLeitor && (
               localizar ? (
                 <LocalizadorOcorrencias
-                  parametros={consulta.parametros}
+                  parametros={parametrosLeitor}
+                  buscaNoTexto={!!trilha}
                   slug={atual.arquivo}
                   ancora={sel.ancora}
                   documento={pronto ? documento : null}
-                  ir={(id) => abrir(atual.arquivo, id)}
+                  ir={(id) => navegar(atual.arquivo, id)}
                   fechar={fecharLocalizador}
                 />
               ) : (
