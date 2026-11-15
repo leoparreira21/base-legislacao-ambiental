@@ -36,20 +36,6 @@
       "anotavel": true
     },
     {
-      "id": "abnt",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "aciaria",
-      "grupo": "atividade/industrial-servicos",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "acondicionamento",
       "grupo": "tema/residuo",
       "pai": null,
@@ -64,29 +50,8 @@
       "anotavel": true
     },
     {
-      "id": "aeracao",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "aeroporto",
       "grupo": "atividade",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "agencia-agua",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "aglomerado-populacional",
-      "grupo": "tema/flora-territorio",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -148,13 +113,6 @@
       "anotavel": true
     },
     {
-      "id": "aguasparana",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "aid",
       "grupo": "tecnico/parametro-monitoramento",
       "pai": null,
@@ -171,20 +129,6 @@
     {
       "id": "alteracao",
       "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "aluminio",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "alvara",
-      "grupo": "instrumento/estudo-documento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -211,20 +155,6 @@
       "anotavel": true
     },
     {
-      "id": "amianto",
-      "grupo": "atividade/equipamento-insumo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "amostragem",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "ampliacao",
       "grupo": "instrumento/licenciamento",
       "pai": null,
@@ -234,13 +164,6 @@
     {
       "id": "ana",
       "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "analise-risco",
-      "grupo": "tema/seguranca-saude",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -274,13 +197,6 @@
       "anotavel": true
     },
     {
-      "id": "anuencia-previa",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "anvisa",
       "grupo": "instituicao",
       "pai": null,
@@ -302,13 +218,6 @@
       "anotavel": true
     },
     {
-      "id": "apicum-salgado",
-      "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "app",
       "grupo": "tema/flora-territorio",
       "pai": null,
@@ -323,43 +232,8 @@
       "anotavel": true
     },
     {
-      "id": "aprovacao-local",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "aprovacao-tacita",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "aproveitamento-energetico",
-      "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "aproveitamento-hidreletrico",
-      "grupo": "atividade/industrial-servicos",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "aquicultura",
       "grupo": "atividade",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "aquifero",
-      "grupo": "tema/agua",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -380,13 +254,6 @@
     },
     {
       "id": "area-contigua",
-      "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "area-cultivada",
       "grupo": "tema/flora-territorio",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -421,21 +288,7 @@
       "anotavel": true
     },
     {
-      "id": "area-industrial",
-      "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "area-influencia",
-      "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "area-interdependente",
       "grupo": "tema/flora-territorio",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -533,20 +386,6 @@
       "anotavel": true
     },
     {
-      "id": "art-anotacao",
-      "grupo": "instrumento/estudo-documento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "artesanal",
-      "grupo": "atividade/industrial-servicos",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "arvore-isolada",
       "grupo": "tema/flora-territorio",
       "pai": null,
@@ -596,29 +435,8 @@
       "anotavel": true
     },
     {
-      "id": "atividades-diversas",
-      "grupo": "atividade/industrial-servicos",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "ato-administrativo",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "att",
       "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "atuacao-subsidiaria",
-      "grupo": "instrumento/procedimento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -673,22 +491,8 @@
       "anotavel": true
     },
     {
-      "id": "autorizacao-construcao",
-      "grupo": "tema/radiacao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "autorizacao-florestal",
       "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "autorizacao-operacao",
-      "grupo": "tema/radiacao",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -813,13 +617,6 @@
       "anotavel": true
     },
     {
-      "id": "cadastro",
-      "grupo": "instrumento/estudo-documento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "cafe",
       "grupo": "atividade/industrial-servicos",
       "pai": null,
@@ -841,20 +638,6 @@
       "anotavel": true
     },
     {
-      "id": "camara-tecnica",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "camara-tecnica-mananciais",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "cancelamento-licenca",
       "grupo": "instrumento/licenciamento",
       "pai": null,
@@ -864,13 +647,6 @@
     {
       "id": "capacidade-suporte",
       "grupo": "tema/efluente",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "capacitacao",
-      "grupo": "tema/gestao-politica",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -927,13 +703,6 @@
     {
       "id": "cavidade-natural",
       "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "cema",
-      "grupo": "instituicao",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1009,71 +778,8 @@
       "anotavel": true
     },
     {
-      "id": "classe-1",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "classe-2",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "classe-3",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "classe-4",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "classe-5",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "classe-agua-reuso",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "classe-especial",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "classe-rejeito-radioativo",
-      "grupo": "tema/radiacao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "classe-risco-solo",
       "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "classificacao-agente-biologico",
-      "grupo": "tema/seguranca-saude",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1100,13 +806,6 @@
       "anotavel": true
     },
     {
-      "id": "cloro-residual",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "cnae",
       "grupo": "instrumento/licenciamento",
       "pai": null,
@@ -1114,22 +813,8 @@
       "anotavel": true
     },
     {
-      "id": "cnen",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "cnpj",
       "grupo": "instrumento/estudo-documento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "cntp",
-      "grupo": "tecnico/parametro-monitoramento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1149,36 +834,8 @@
       "anotavel": true
     },
     {
-      "id": "codigo-florestal",
-      "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "coeficiente-rendimento",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "coleta",
-      "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "coleta-seletiva",
       "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "coletor",
-      "grupo": "atividade/equipamento-insumo",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1205,36 +862,8 @@
       "anotavel": true
     },
     {
-      "id": "comissao-tripartite",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "comissionamento",
-      "grupo": "instrumento/licenciamento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "comite-bacia",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "compactacao-solo",
       "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "compartimentalizacao",
-      "grupo": "tecnico/parametro-monitoramento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1254,27 +883,6 @@
       "anotavel": true
     },
     {
-      "id": "competencia",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "complementacao",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "complementacao-taxa",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "compostagem",
       "grupo": "tema/residuo",
       "pai": null,
@@ -1289,34 +897,6 @@
       "anotavel": true
     },
     {
-      "id": "conama",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "concordancia-tacita",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "condicao-especial",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "condicao-referencia",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "condicionante",
       "grupo": "instrumento/licenciamento",
       "pai": null,
@@ -1326,48 +906,6 @@
     {
       "id": "condominio",
       "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "condutividade-eletrica",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "conflito-uso",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "conselho-classe",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "conselho-estadual-recursos-hidricos",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "conselho-meio-ambiente",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "conselho-nacional-dos-recursos-hidricos",
-      "grupo": "instituicao",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1408,50 +946,8 @@
       "anotavel": true
     },
     {
-      "id": "consulta-publica",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "consumo-sustentavel",
-      "grupo": "tema/gestao-politica",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "contabilizando-residuos",
-      "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "contaminacao-superficial",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "conteiner",
       "grupo": "atividade/equipamento-insumo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "contencao",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "conteudo-minimo",
-      "grupo": "instrumento/estudo-documento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1464,29 +960,8 @@
       "anotavel": true
     },
     {
-      "id": "controle-ambiental",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "controle-origem-florestal",
-      "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "convenio",
       "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "conversor-amonia",
-      "grupo": "atividade/equipamento-insumo",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1527,13 +1002,6 @@
       "anotavel": true
     },
     {
-      "id": "corretivo-acidez",
-      "grupo": "atividade/equipamento-insumo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "cortina-vegetal",
       "grupo": "tema/flora-territorio",
       "pai": null,
@@ -1543,13 +1011,6 @@
     {
       "id": "cov",
       "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "cpf",
-      "grupo": "instrumento/estudo-documento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1611,13 +1072,6 @@
       "anotavel": true
     },
     {
-      "id": "dbo",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "dcp",
       "grupo": "tema/efluente",
       "pai": null,
@@ -1639,28 +1093,7 @@
       "anotavel": true
     },
     {
-      "id": "decaimento",
-      "grupo": "tema/radiacao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "decisao-stf",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "declaracao-adesao-compromisso",
-      "grupo": "instrumento/estudo-documento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "declaracao-baixo-risco",
       "grupo": "instrumento/estudo-documento",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -1681,22 +1114,8 @@
       "anotavel": true
     },
     {
-      "id": "deferimento",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "defesa-civil",
       "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "definicao",
-      "grupo": "instrumento/procedimento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1725,13 +1144,6 @@
     {
       "id": "demolicao",
       "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "densidade-colorimetrica",
-      "grupo": "tema/ar",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1800,13 +1212,6 @@
       "anotavel": true
     },
     {
-      "id": "dioxina-furano",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "direcao-vento",
       "grupo": "tema/ar",
       "pai": null,
@@ -1821,20 +1226,6 @@
       "anotavel": true
     },
     {
-      "id": "diretoria-patrimonio-natural",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "diretriz-estudo",
-      "grupo": "instrumento/estudo-documento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "dispensa",
       "grupo": "instrumento/licenciamento",
       "pai": null,
@@ -1844,13 +1235,6 @@
     {
       "id": "dispensa-licitacao",
       "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "disponibilidade-hidrica",
-      "grupo": "tema/agua",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1877,20 +1261,6 @@
       "anotavel": true
     },
     {
-      "id": "distribuidor-agua-reuso",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "distrito-federal",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "dlae",
       "grupo": "instrumento/licenciamento",
       "pai": null,
@@ -1900,13 +1270,6 @@
     {
       "id": "dlam",
       "grupo": "instrumento/licenciamento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "documentacao",
-      "grupo": "instrumento/estudo-documento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1933,13 +1296,6 @@
       "anotavel": true
     },
     {
-      "id": "dqo",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "drenagem",
       "grupo": "tema/agua",
       "pai": null,
@@ -1949,20 +1305,6 @@
     {
       "id": "drenagem-urbana",
       "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "ecotoxicidade",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "edificacao-armazenamento",
-      "grupo": "atividade/equipamento-insumo",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -2045,13 +1387,6 @@
       "anotavel": true
     },
     {
-      "id": "emissao-pontual",
-      "grupo": "tema/ar",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "emissario-submarino",
       "grupo": "tema/efluente",
       "pai": null,
@@ -2115,20 +1450,6 @@
       "anotavel": true
     },
     {
-      "id": "enxofre-reduzido",
-      "grupo": "tema/ar",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "epi",
-      "grupo": "tema/seguranca-saude",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "episodio-critico",
       "grupo": "tema/ar",
       "pai": null,
@@ -2136,22 +1457,8 @@
       "anotavel": true
     },
     {
-      "id": "equipamento-gerador-radiacao",
-      "grupo": "tema/radiacao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "ert",
       "grupo": "instrumento/estudo-documento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "erva-mate",
-      "grupo": "atividade/equipamento-insumo",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -2194,13 +1501,6 @@
     {
       "id": "estudo-ambiental",
       "grupo": "instrumento/estudo-documento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "estudo-dispersao",
-      "grupo": "tema/ar",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -2388,20 +1688,6 @@
       "anotavel": true
     },
     {
-      "id": "fundo-estadual-meio-ambiente",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "fundo-estadual-recursos-hidricos",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "galeria-pluvial",
       "grupo": "tema/agua",
       "pai": null,
@@ -2411,13 +1697,6 @@
     {
       "id": "galvanoplastia",
       "grupo": "atividade/industrial-servicos",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "garantia-financeira",
-      "grupo": "instrumento/procedimento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -2500,41 +1779,6 @@
       "anotavel": true
     },
     {
-      "id": "grupo-a",
-      "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "grupo-b",
-      "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "grupo-c",
-      "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "grupo-d",
-      "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "grupo-e",
-      "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "guia-tecnico",
       "grupo": "instrumento/estudo-documento",
       "pai": null,
@@ -2551,20 +1795,6 @@
     {
       "id": "hospital",
       "grupo": "atividade/industrial-servicos",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "iat",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "ibama",
-      "grupo": "instituicao",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -2908,13 +2138,6 @@
     {
       "id": "itr",
       "grupo": "instrumento/estudo-documento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "jazida",
-      "grupo": "atividade/industrial-servicos",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -3326,13 +2549,6 @@
       "anotavel": true
     },
     {
-      "id": "mapa-situacao",
-      "grupo": "instrumento/estudo-documento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "maricultura",
       "grupo": "atividade",
       "pai": "aquicultura",
@@ -3417,13 +2633,6 @@
       "anotavel": true
     },
     {
-      "id": "meio-ambiente",
-      "grupo": "tema/gestao-politica",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "memorial-caracterizacao",
       "grupo": "instrumento/estudo-documento",
       "pai": null,
@@ -3433,13 +2642,6 @@
     {
       "id": "mercurio",
       "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "meta",
-      "grupo": "tema/gestao-politica",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -3748,13 +2950,6 @@
     {
       "id": "pae",
       "grupo": "instrumento/estudo-documento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "pagamento-servico-ambiental",
-      "grupo": "tema/gestao-politica",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -4124,22 +3319,8 @@
       "anotavel": true
     },
     {
-      "id": "poluente-atmosferico",
-      "grupo": "tema/ar",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "poluente-organico-persistente",
       "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "poluicao",
-      "grupo": "tema/gestao-politica",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -4154,13 +3335,6 @@
     {
       "id": "pop",
       "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "portaria",
-      "grupo": "instrumento/procedimento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -4264,13 +3438,6 @@
       "anotavel": true
     },
     {
-      "id": "producao-mais-limpa",
-      "grupo": "tema/gestao-politica",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "produto-perigoso",
       "grupo": "atividade/equipamento-insumo",
       "pai": null,
@@ -4280,13 +3447,6 @@
     {
       "id": "produtor-agua-reuso",
       "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "proibicao",
-      "grupo": "instrumento/procedimento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -4425,13 +3585,6 @@
       "anotavel": true
     },
     {
-      "id": "raio-protecao",
-      "grupo": "tecnico/parametro-monitoramento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "ranicultura",
       "grupo": "atividade",
       "pai": null,
@@ -4502,13 +3655,6 @@
       "anotavel": true
     },
     {
-      "id": "recurso-administrativo",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "recurso-hidrico",
       "grupo": "tema/agua",
       "pai": null,
@@ -4518,13 +3664,6 @@
     {
       "id": "redacao-alterada",
       "grupo": "controle-editorial",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "rede-distribuicao-reuso",
-      "grupo": "tema/agua",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -4553,20 +3692,6 @@
     {
       "id": "regiao-metropolitana",
       "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "registro-operacional",
-      "grupo": "instrumento/estudo-documento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "regulamentacao",
-      "grupo": "instrumento/procedimento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -4635,13 +3760,6 @@
       "anotavel": true
     },
     {
-      "id": "remediacao",
-      "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "renovacao",
       "grupo": "instrumento/licenciamento",
       "pai": null,
@@ -4658,13 +3776,6 @@
     {
       "id": "reposicao-florestal",
       "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "requerimento",
-      "grupo": "instrumento/procedimento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -4775,13 +3886,6 @@
       "anotavel": true
     },
     {
-      "id": "responsabilidade",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "responsavel-legal",
       "grupo": "instrumento/procedimento",
       "pai": null,
@@ -4797,13 +3901,6 @@
     },
     {
       "id": "restricao-temporaria",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "reuniao-tecnica-informativa",
       "grupo": "instrumento/procedimento",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -4847,20 +3944,6 @@
     {
       "id": "reutilizacao",
       "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "revisao-norma",
-      "grupo": "instrumento/procedimento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "revogacao",
-      "grupo": "instrumento/procedimento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -4929,20 +4012,6 @@
       "anotavel": true
     },
     {
-      "id": "saude-publica",
-      "grupo": "tema/seguranca-saude",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "sedest",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "segregacao",
       "grupo": "tema/residuo",
       "pai": null,
@@ -4980,20 +4049,6 @@
     {
       "id": "seguranca-trabalho",
       "grupo": "tema/seguranca-saude",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "selo-reuso",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "sema",
-      "grupo": "instituicao",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -5141,13 +4196,6 @@
     {
       "id": "spie",
       "grupo": "tema/seguranca-saude",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "subsistencia",
-      "grupo": "tema/gestao-politica",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -5315,13 +4363,6 @@
     },
     {
       "id": "termo-encerramento",
-      "grupo": "instrumento/estudo-documento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "termo-referencia",
       "grupo": "instrumento/estudo-documento",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -5517,13 +4558,6 @@
       "anotavel": true
     },
     {
-      "id": "uniao",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "unidade-conservacao",
       "grupo": "tema/flora-territorio",
       "pai": null,
@@ -5629,20 +4663,6 @@
       "anotavel": true
     },
     {
-      "id": "veiculo",
-      "grupo": "atividade/equipamento-insumo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "vereda",
-      "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "vetor",
       "grupo": "tema/seguranca-saude",
       "pai": null,
@@ -5680,13 +4700,6 @@
     {
       "id": "vidro",
       "grupo": "atividade/industrial-servicos",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "vigencia",
-      "grupo": "instrumento/procedimento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -5743,13 +4756,6 @@
     {
       "id": "zona-costeira",
       "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "zona-mistura",
-      "grupo": "tema/efluente",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true

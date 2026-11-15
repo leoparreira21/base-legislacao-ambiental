@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: projeto-controle-poluicao-sonora
 atividades: [fundicao-chumbo]
 modalidades: [li, lir, lo, lor]
-tags: [ruido, poluicao-sonora, monitoramento, fundicao-chumbo, art-anotacao]
+tags: [ruido, poluicao-sonora, monitoramento, fundicao-chumbo]
 fonte: PDF da IN IAT 46/2025 (eProtocolo nº 23.815.801-0), anexo integrante do arquivo assinado em 30/04/2025
 ---
 

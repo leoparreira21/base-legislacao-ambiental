@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Relatório de inspeção de tanques aéreos
 atividades: [posto-combustivel]
 modalidades: [rlo, lir, lor]
-tags: [posto-combustivel, tanque-armazenamento, licenciamento-ambiental, controle-ambiental]
+tags: [posto-combustivel, tanque-armazenamento, licenciamento-ambiental]
 fonte: PDF da IN IAT nº 28/2026, páginas 111 a 118
 ---
 

@@ -16,7 +16,7 @@ alterado_por: []
 revoga: ["[[portaria-iap-19-2006]]", "[[portaria-iap-112-2008]]", "[[portaria-iap-150-2013]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-114-2011]]", "[[decreto-estadual-1502-1992]]", "[[decreto-estadual-857-1979]]", "[[decreto-federal-99274-1990]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-10233-1992]]", "[[lei-estadual-11054-1995]]", "[[lei-estadual-7109-1979]]", "[[lei-federal-4771-1965]]", "[[lei-federal-6938-1981]]", "[[resolucao-cema-65-2008]]", "[[resolucao-cema-81-2010]]", "[[resolucao-cema-84-2012]]", "[[resolucao-conama-430-2011]]"]
-tags: [amostragem, art-anotacao, automonitoramento, carga-poluidora, classificacao, dbo, documentacao, efluente, enquadramento, frequencia-monitoramento, licenciamento-ambiental, parametro-especifico, prazo, requerimento, revogacao, tanque-pulmao, toxicidade, tratamento-esgoto, vigencia]
+tags: [automonitoramento, carga-poluidora, efluente, enquadramento, frequencia-monitoramento, licenciamento-ambiental, prazo, tanque-pulmao, toxicidade, tratamento-esgoto]
 fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (impressão em 5 páginas, com o aviso \"O texto abaixo não substitui o publicado no Diário Oficial\"), PDF enviado por Leo. Sem data e número do DIOE."
 ---
 

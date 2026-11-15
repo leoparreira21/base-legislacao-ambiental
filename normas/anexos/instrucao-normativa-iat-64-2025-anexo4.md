@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RAP
 atividades: [intervencao-app-reservatorio, pacuera]
 modalidades: [lp, lir]
-tags: [alternativa-locacional, area-influencia, diagnostico-ambiental, impacto-ambiental, medida-compensatoria, medida-mitigadora, rap, viabilidade-ambiental]
+tags: [area-influencia, diagnostico-ambiental, impacto-ambiental, medida-compensatoria, medida-mitigadora, rap, viabilidade-ambiental]
 fonte: PDF da IN IAT 64/2025 (eProtocolo nº 23.949.402-1), páginas 44 a 50
 ---
 

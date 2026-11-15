@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6780-2009]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-11182-2005]]", "[[lei-federal-12651-2012]]", "[[lei-federal-22252-2024]]", "[[lei-federal-7565-1986]]", "[[portaria-183-2014]]", "[[resolucao-158-2010]]", "[[resolucao-470-2015]]", "[[resolucao-736-2024]]", "[[resolucao-740-2024]]", "[[resolucao-751-2024]]", "[[resolucao-752-2024]]", "[[resolucao-conama-6-1986]]"]
-tags: [app, autorizacao-ambiental, car, condicionante, documentacao, drenagem, efluente, eia-rima, fauna, flora, licenciamento-ambiental, outorga, renovacao, responsavel-tecnico, sancao, supressao-vegetacao, unidade-conservacao, validade, vigencia]
+tags: [app, autorizacao-ambiental, car, condicionante, drenagem, efluente, eia-rima, fauna, flora, licenciamento-ambiental, outorga, renovacao, responsavel-tecnico, sancao, supressao-vegetacao, unidade-conservacao, validade]
 anexos: "tipo 1 (modelos): I e III; tipo 3 (código de referência e tabelas): II"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_23-2025_-_aerodromo_e_aeroporto_-_23.572.854-0.pdf, 52 páginas)"
 ---

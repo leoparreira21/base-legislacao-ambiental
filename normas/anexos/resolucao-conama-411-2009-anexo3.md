@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: "Estudo técnico de coeficiente de rendimento volumétrico (CRV) – TR padrão"
 atividades: [industria-madeira]
 modalidades: []
-tags: [diretriz-estudo, industria-madeira, coeficiente-rendimento, cubagem, responsavel-tecnico, art-anotacao, ibama]
+tags: [industria-madeira, cubagem, responsavel-tecnico]
 fonte: "PDF do portal do CONAMA (Word 2013, 16 páginas, 'Este texto não substitui o publicado no DOU de 08/05/2009'), páginas 6 a 8, enviado por Leo"
 ---
 

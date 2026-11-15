@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: PTSI
 atividades: [irrigacao]
 modalidades: [las, li, rlas, rlo, lasa, lia, lasr, lir, lor]
-tags: [irrigacao, ptsi, recurso-hidrico, outorga, art-anotacao, conservacao-solo, monitoramento]
+tags: [irrigacao, ptsi, recurso-hidrico, outorga, conservacao-solo, monitoramento]
 ---
 
 # ANEXO VII — Projeto Técnico de Sistemas de Irrigação (PTSI)

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [suinocultura]
 modalidades: [dlam, lac]
-tags: [app, area-construida, art-anotacao, captacao, car, cnpj, corpo-hidrico, cpf, declaracao-veracidade, dejeto-animal, efluente, emissao-atmosferica, esgoto-sanitario, georreferenciamento, mapa-situacao, obra-civil, porte, reserva-legal, residuo-solido, suinocultura, uso-agricola-efluente, uso-solo]
+tags: [app, area-construida, captacao, car, cnpj, corpo-hidrico, declaracao-veracidade, dejeto-animal, efluente, emissao-atmosferica, esgoto-sanitario, georreferenciamento, obra-civil, porte, reserva-legal, residuo-solido, suinocultura, uso-agricola-efluente, uso-solo]
 fonte: PDF da IN IAT 24/2026 (eProtocolo 23.753.432-8), páginas 67 e 68 (fls. 243 e 244)
 ---
 

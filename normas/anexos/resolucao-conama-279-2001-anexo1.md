@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: RAS
 atividades: [empreendimento-eletrico, usina-hidreletrica, usina-termeletrica, transmissao-energia, energia-eolica, fonte-alternativa-energia]
 modalidades: [lp]
-tags: [ras, estudo-ambiental, conteudo-minimo, diagnostico-ambiental, impacto-ambiental, medida-mitigadora, compensacao-ambiental, monitoramento, geracao-energia]
+tags: [ras, estudo-ambiental, diagnostico-ambiental, impacto-ambiental, medida-mitigadora, compensacao-ambiental, monitoramento, geracao-energia]
 fonte: "PDF enviado: conama 279 2001.pdf, página 4 de 4 (página impressa 701); Resoluções do CONAMA; publicação indicada: DOU de 29 de junho de 2001."
 ---
 

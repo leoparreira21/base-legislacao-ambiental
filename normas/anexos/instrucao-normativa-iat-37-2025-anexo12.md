@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: PCPA
 atividades: [abastecimento-agua, saneamento]
 modalidades: [li]
-tags: [saneamento, abastecimento-agua, pcpa, eta, efluente-liquido, residuo-solido]
+tags: [saneamento, abastecimento-agua, pcpa, eta, residuo-solido]
 fonte: "IN IAT nº 37/2025, Anexo XII, PDF fornecido, pp. 107–110."
 ---
 

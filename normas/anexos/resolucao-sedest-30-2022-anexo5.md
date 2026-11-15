@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Laudo Florestal"
 atividades: [empreendimento-imobiliario]
 modalidades: [lp]
-tags: [laudo-florestal, termo-referencia, vegetacao]
+tags: [laudo-florestal, vegetacao]
 fonte: "PDF do eProtocolo da Resolução SEDEST nº 30/2022 (documento assinado digitalmente em 27/05/2022)."
 ---
 

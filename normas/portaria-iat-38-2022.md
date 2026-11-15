@@ -17,7 +17,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[constituicao-estadual-pr-1989]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[lei-complementar-federal-140-2011]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[resolucao-cema-110-2021]]"]
-tags: ["art3", "delegacao-competencia", "documentacao", "fiscalizacao", "licenciamento-ambiental", "licenciamento-municipal"]
+tags: [delegacao-competencia, fiscalizacao, licenciamento-ambiental, licenciamento-municipal]
 fonte: "PDF fornecido: portaria IAT 38 2022.pdf; Sistema de Informações Ambientais / portal de legislação do Paraná (não substitui o Diário Oficial)."
 ---
 

@@ -17,7 +17,7 @@ alterado_por: []
 revoga: []
 revogado_por: ["[[instrucao-normativa-iat-12-2025]]"]
 cita: ["[[decreto-estadual-1502-1992]]", "[[decreto-estadual-1940-1996]]", "[[decreto-estadual-77-2007]]", "[[decreto-federal-5975-2006]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-10155-1992]]", "[[lei-federal-11248-2006]]", "[[lei-federal-4771-1965]]", "[[lei-federal-6938-1981]]", "[[portaria-iap-157-2005]]", "[[resolucao-sema-28-1998]]"]
-tags: [app, art-anotacao, dispensa, documentacao, especie-exotica, isencao, licenciamento-ambiental, plano-corte, politica-florestal, reposicao-florestal, reserva-legal, revogacao, serflor, taxa-ambiental, transporte-florestal, vigencia]
+tags: [app, dispensa, especie-exotica, isencao, licenciamento-ambiental, plano-corte, reposicao-florestal, reserva-legal, serflor, taxa-ambiental, transporte-florestal]
 fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (impressão, com o aviso \"O texto abaixo não substitui o publicado no Diário Oficial\"), PDF enviado por Leo. Sem data e número do DIOE."
 ---
 

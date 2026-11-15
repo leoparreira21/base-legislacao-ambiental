@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Relatório de monitoramento da compensação ambiental"
 atividades: [compensacao-ambiental, supressao-vegetacao]
 modalidades: [autorizacao-florestal]
-tags: [art-anotacao, compensacao-ambiental, conservacao, doacao-area, monitoramento, prad, restauracao]
+tags: [compensacao-ambiental, doacao-area, monitoramento, prad, restauracao]
 fonte: PDF da IN IAT 16/2025, página 45
 ---
 

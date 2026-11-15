@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RAP
 atividades: [compostagem]
 modalidades: [lp, lpa]
-tags: [rap, compostagem, responsavel-legal, porte, mapa-situacao, georreferenciamento, car, area-influencia, corpo-hidrico, app, reserva-legal, area-contaminada, impacto-ambiental, emissao-atmosferica, qualidade-ar, residuo-solido, terraplanagem, outorga, outorga-previa, efluente, flora, supressao-vegetacao, especie-ameacada, fauna, poluicao-sonora, art-anotacao]
+tags: [rap, compostagem, responsavel-legal, porte, georreferenciamento, car, area-influencia, corpo-hidrico, app, reserva-legal, area-contaminada, impacto-ambiental, emissao-atmosferica, qualidade-ar, residuo-solido, terraplanagem, outorga, outorga-previa, efluente, flora, supressao-vegetacao, especie-ameacada, fauna, poluicao-sonora]
 fonte: PDF da IN IAT 41/2025, páginas 76 a 79
 ---
 

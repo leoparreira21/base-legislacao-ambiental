@@ -20,7 +20,7 @@ alterado_por: []
 revogado_por: []
 revoga: []
 cita: ["[[constituicao-estadual-1989]]"]
-tags: [agricultura-familiar, artesanal, autorizacao-ambiental, baixo-risco, certidao-municipal, dila, dlam, dominialidade, esgotamento-sanitario, publicacao-dioe, revogacao, tratamento-esgoto, vigencia]
+tags: [agricultura-familiar, autorizacao-ambiental, baixo-risco, certidao-municipal, dila, dlam, dominialidade, esgotamento-sanitario, publicacao-dioe, tratamento-esgoto]
 fonte: Portal da Legislação do Estado do Paraná (versão de impressão, 2 páginas; "este texto não substitui o publicado no Diário Oficial do Estado")
 ---
 

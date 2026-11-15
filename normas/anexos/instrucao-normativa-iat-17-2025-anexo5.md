@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: rdpa
 atividades: [empreendimento-habitacional, conjunto-habitacional, loteamento, condominio]
 modalidades: [li]
-tags: [rdpa, programa-ambiental, medida-mitigadora, medida-compensatoria, app, area-verde, recuperacao-area-degradada, arborizacao]
+tags: [rdpa, programa-ambiental, medida-mitigadora, medida-compensatoria, app, area-verde, recuperacao-area-degradada]
 fonte: PDF da IN IAT 17/2025 (eProtocolo nº 23.724.593-8), anexo integrante do arquivo assinado em 24/04/2025
 ---
 

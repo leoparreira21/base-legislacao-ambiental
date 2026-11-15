@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: Projeto agronômico
 atividades: [compostagem]
 modalidades: [aa]
-tags: [diretriz-estudo, projeto-agronomico, compostagem, disposicao-solo, fertilizante, substrato-plantas, corretivo-acidez, residuo-solido, declividade, georreferenciamento, car, reserva-legal, app, corpo-hidrico, poco, outorga, textura-solo, analise-solo, taxa-aplicacao, anuencia, laudo-tecnico, art-anotacao, responsavel-tecnico, monitoramento, amostragem, odor]
+tags: [projeto-agronomico, compostagem, disposicao-solo, fertilizante, substrato-plantas, residuo-solido, declividade, georreferenciamento, car, reserva-legal, app, corpo-hidrico, poco, outorga, textura-solo, analise-solo, taxa-aplicacao, anuencia, laudo-tecnico, responsavel-tecnico, monitoramento, odor]
 fonte: PDF da IN IAT 41/2025 (in41.pdf), páginas 207 a 215
 ---
 

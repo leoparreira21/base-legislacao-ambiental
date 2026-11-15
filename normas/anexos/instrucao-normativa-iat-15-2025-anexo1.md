@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: "PRF"
 atividades: [supressao-vegetacao, resgate-flora]
 modalidades: [autorizacao-florestal]
-tags: [art-anotacao, coleta-semente, flora, germoplasma, monitoramento, resgate-flora, semente, translocacao]
+tags: [flora, germoplasma, monitoramento, resgate-flora, semente, translocacao]
 fonte: PDF da IN IAT 15/2025, páginas 18 a 23
 ---
 

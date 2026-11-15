@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Relatório Ambiental Preliminar (RAP)"
 atividades: [porto, terminal-portuario]
 modalidades: [lp, lpa, lir, lor]
-tags: [rap, diagnostico-ambiental, impacto-ambiental, medida-mitigadora, medida-compensatoria, flora, fauna, recursos-hidricos, art-anotacao]
+tags: [rap, diagnostico-ambiental, impacto-ambiental, medida-mitigadora, medida-compensatoria, flora, fauna, recursos-hidricos]
 fonte: "PDF da IN IAT nº 44/2025, enviado pelo usuário; páginas 70–74 do arquivo."
 ---
 

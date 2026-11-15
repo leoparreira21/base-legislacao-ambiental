@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: mce
 atividades: [biodigestor, aproveitamento-biogas]
 modalidades: [las, lasr, lp, li, lo, lir, lor]
-tags: [mce, biodigestor, biogas, digestato, processo-produtivo, efluente, residuo-solido]
+tags: [mce, biodigestor, biogas, processo-produtivo, efluente, residuo-solido]
 fonte: PDF da republicação da IN IAT 24/2025 (eProtocolo nº 23.746.821-0), de 12/11/2025
 ---
 

@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-6674-2002]]", "[[decreto-estadual-8680-2013]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[lei-estadual-10233-1992]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]", "[[lei-federal-22252-2024]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9605-1998]]", "[[portaria-iap-212-2019]]", "[[portaria-iap-256-2013]]", "[[portaria-iat-17-2025]]", "[[resolucao-conama-307-2002]]", "[[resolucao-conama-6-1986]]"]
-tags: [app, autorizacao-ambiental, car, condicionante, documentacao, efluente, eia-rima, fauna, flora, licenciamento-ambiental, outorga, renovacao, reserva-legal, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, terraplanagem, validade, vigencia]
+tags: [app, autorizacao-ambiental, car, condicionante, efluente, eia-rima, fauna, flora, licenciamento-ambiental, outorga, renovacao, reserva-legal, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, terraplanagem, validade]
 anexos: "tipo 2: VII a XIII; tipo 1: III a VI; tipo 3: I e II"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_60-2025_-_empreendimentos_e_atividades_de_ensino_-_24.535.432-0.pdf, 88 páginas)"
 ---

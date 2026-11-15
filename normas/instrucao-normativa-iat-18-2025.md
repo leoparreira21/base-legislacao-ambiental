@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]", "[[lei-federal-9605-1998]]", "[[portaria-iap-159-2015]]", "[[resolucao-conama-279-2001]]", "[[resolucao-conama-6-1986]]"]
-tags: [autorizacao-ambiental, car, condicionante, documentacao, fauna, flora, licenciamento-ambiental, monitoramento, outorga, recurso-hidrico, renovacao, responsavel-tecnico, sancao, supressao-vegetacao, validade, vigencia]
+tags: [autorizacao-ambiental, car, condicionante, fauna, flora, licenciamento-ambiental, monitoramento, outorga, recurso-hidrico, renovacao, responsavel-tecnico, sancao, supressao-vegetacao, validade]
 anexos: "tipo 1 (modelos): II e III; tipo 3 (quadro de enquadramento): I"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_18-2025_-_rede_de_gas_canalizado_-_23.576.620-5.pdf, 51 páginas)"
 ---

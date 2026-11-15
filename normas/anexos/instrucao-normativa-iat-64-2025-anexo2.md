@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [intervencao-app-reservatorio, pacuera]
 modalidades: [las, lp, lasr, lir, lor]
-tags: [art-anotacao, caracterizacao-empreendimento, cnae, efluente, memorial-caracterizacao, residuo-solido]
+tags: [caracterizacao-empreendimento, cnae, efluente, memorial-caracterizacao, residuo-solido]
 fonte: PDF da IN IAT 64/2025 (eProtocolo nº 23.949.402-1), páginas 35 e 36
 ---
 

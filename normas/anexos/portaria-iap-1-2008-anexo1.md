@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Relatório de Automonitoramento de Emissões Atmosféricas"
 atividades: [emissao-atmosferica]
 modalidades: [lo, lor, las, lasr, dlae]
-tags: [amostragem, art-anotacao, automonitoramento, cadastro, calibracao, chamine, diretriz-estudo, direcao-vento, emissao-atmosferica, frequencia-monitoramento, isencao, material-particulado, monitoramento, monitoramento-continuo, monitoramento-descontinuo, monitoramento-entorno, oxigenio-referencia, plano-correcao, poluente-atmosferico, porte, relatorio, renovacao, responsavel-tecnico, vazao]
+tags: [automonitoramento, chamine, direcao-vento, emissao-atmosferica, frequencia-monitoramento, isencao, material-particulado, monitoramento, monitoramento-continuo, monitoramento-descontinuo, monitoramento-entorno, oxigenio-referencia, plano-correcao, porte, relatorio, renovacao, responsavel-tecnico, vazao]
 fonte: "PDF da Portaria IAP nº 001/2008 (impressão do SIA, 9 páginas) enviado pelo usuário; anexo nas páginas 2 a 9 (a Portaria ocupa a página 1); texto conferido com a extração de texto do PDF."
 ---
 

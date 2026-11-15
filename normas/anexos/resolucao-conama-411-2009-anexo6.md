@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: "Estudo técnico de coeficiente de rendimento volumétrico (CRV) de laminação – TR simplificado"
 atividades: [industria-madeira]
 modalidades: []
-tags: [diretriz-estudo, industria-madeira, coeficiente-rendimento, laminacao, cubagem, responsavel-tecnico, art-anotacao, ibama]
+tags: [industria-madeira, laminacao, cubagem, responsavel-tecnico]
 fonte: "PDF do portal do CONAMA (Word 2013, 16 páginas, 'Este texto não substitui o publicado no DOU de 08/05/2009'), páginas 12 a 14, enviado por Leo"
 ---
 

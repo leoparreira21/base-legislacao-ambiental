@@ -16,7 +16,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-federal-99274-1990]]", "[[lei-federal-6938-1981]]", "[[medida-provisoria-2152-2-2001]]", "[[resolucao-conama-1-1986]]", "[[resolucao-conama-237-1997]]", "[[resolucao-conama-279-2001-anexo1]]", "[[resolucao-conama-6-1987]]"]
-tags: ["art13", "documentacao", "geracao-energia", "li", "licenciamento-ambiental", "lo", "lp", "outorga", "prazo", "recurso-hidrico", "risco-ambiental"]
+tags: [geracao-energia, li, licenciamento-ambiental, lo, lp, outorga, prazo, recurso-hidrico, risco-ambiental]
 fonte: "PDF fornecido: conama 279 2001.pdf; coletânea Resoluções do CONAMA (publicação DOU indicada no documento)."
 anexos: ["[[resolucao-conama-279-2001-anexo1]]"]
 data_publicacao: 2001-06-29

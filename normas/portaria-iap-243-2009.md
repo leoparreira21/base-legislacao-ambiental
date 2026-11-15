@@ -17,7 +17,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-1502-1992]]", "[[decreto-estadual-77-2007]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-11352-1996]]", "[[lei-estadual-13425-2002]]", "[[resolucao-sema-51-2009]]"]
-tags: ["dispensa", "dlae", "documentacao", "licenciamento-ambiental"]
+tags: [dispensa, dlae, licenciamento-ambiental]
 fonte: "PDF fornecido: portaria IAP 243 2009.pdf; Sistema de Informações Ambientais / portal de legislação do Paraná (não substitui o Diário Oficial)."
 ---
 

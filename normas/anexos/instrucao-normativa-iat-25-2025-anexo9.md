@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PASE
 atividades: [patio-caminhao, patio-container]
 modalidades: [las, lo, rlas, rlo, lasa, loa, lasr, lor]
-tags: [analise-risco, art-anotacao, pase, produto-perigoso, situacao-emergencia]
+tags: [pase, produto-perigoso, situacao-emergencia]
 fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinado em 15/12/2025), páginas 81 a 84
 ---
 

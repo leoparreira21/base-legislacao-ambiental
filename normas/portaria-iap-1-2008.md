@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: ["[[resolucao-sedest-2-2025]]"]
 cita: ["[[decreto-estadual-1502-1992]]", "[[decreto-estadual-77-2007]]", "[[lei-estadual-10066-1992]]"]
-tags: [automonitoramento, emissao-atmosferica, relatorio, revogacao, vigencia]
+tags: [automonitoramento, emissao-atmosferica, relatorio]
 fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (impressão, com o aviso \"O texto abaixo não substitui o publicado no Diário Oficial\"), PDF enviado por Leo. Sem data e número do DIOE."
 ---
 

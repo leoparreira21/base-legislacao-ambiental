@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[portaria-iap-699-2024]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-9415-2025]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-11977-2022]]", "[[lei-federal-11428-2006]]", "[[decreto-federal-6660-2008]]", "[[lei-federal-12651-2012]]", "[[lei-estadual-22252-2024]]", "[[decreto-estadual-9541-2025]]", "[[lei-estadual-11054-1995]]", "[[decreto-estadual-1940-1996]]", "[[resolucao-conjunta-ibama-sema-iap-7-2008]]", "[[lei-federal-9605-1998]]", "[[decreto-federal-6514-2008]]"]
-tags: [autorizacao-ambiental, car, cnpj, complementacao, cpf, ctf, documentacao, dominialidade, embargo, eprotocolo, licenciamento-ambiental, procuracao, renovacao, requerimento, sancao, serraria, taxa-ambiental, validade, vigencia]
+tags: [autorizacao-ambiental, car, cnpj, ctf, dominialidade, embargo, eprotocolo, licenciamento-ambiental, procuracao, renovacao, sancao, serraria, taxa-ambiental, validade]
 anexos: nenhum
 fonte: PDF da republicação assinado digitalmente pelo Diretor-Presidente do IAT em 30/05/2025 (eProtocolo nº 23.754.787-0, 4 páginas)
 ---

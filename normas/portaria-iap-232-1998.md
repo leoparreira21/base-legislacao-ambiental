@@ -19,7 +19,7 @@ alterado_por: []
 revoga: ["[[portaria-iap-105-1998]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-1502-1992]]", "[[decreto-estadual-4262-1994]]", "[[decreto-estadual-884-1995]]", "[[decreto-federal-1922-1996]]", "[[lei-complementar-estadual-59-1991]]", "[[lei-estadual-10066-1992]]", "[[portaria-iap-105-1998]]"]
-tags: [assentamento, averbacao, certidao, competencia, convenio, cooperacao-institucional, documentacao, incentivo, monitoramento, plano-manejo, poder-publico, prazo, proibicao, regulamentacao, requerimento, revogacao, rppn, taxa-ambiental, termo-compromisso, unidade-conservacao, vigencia, vistoria]
+tags: [assentamento, averbacao, certidao, convenio, cooperacao-institucional, incentivo, monitoramento, plano-manejo, poder-publico, prazo, rppn, taxa-ambiental, termo-compromisso, unidade-conservacao, vistoria]
 fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (impressão em 4 páginas, com o aviso \"O texto abaixo não substitui o publicado no Diário Oficial\"), PDF enviado por Leo. O PDF indica \"D.O.E.PR. Nº 0000 DE 12/11/1998\"."
 ---
 

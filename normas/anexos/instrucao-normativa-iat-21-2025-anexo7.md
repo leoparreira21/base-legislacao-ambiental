@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Inventário de Vegetação Nativa
 atividades: [empreendimento-imobiliario, supressao-vegetacao, uso-alternativo-solo]
 modalidades: [lp]
-tags: ["app", "empreendimento-imobiliario", "especie-ameacada", "flora", "georreferenciamento", "reserva-legal", "responsavel-tecnico", "sinaflor", "supressao-vegetacao", "termo-referencia", "uso-alternativo-solo", "vegetacao-nativa"]
+tags: [app, empreendimento-imobiliario, especie-ameacada, flora, georreferenciamento, reserva-legal, responsavel-tecnico, sinaflor, supressao-vegetacao, uso-alternativo-solo, vegetacao-nativa]
 fonte: "PDF IN 21 2025.pdf enviado pelo usuário, páginas 66 a 74."
 ---
 

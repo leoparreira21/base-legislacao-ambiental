@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [esgotamento-sanitario]
 modalidades: [lp]
-tags: [art-anotacao, mce, efluente, esgoto-sanitario, saneamento, esgotamento-sanitario]
+tags: [mce, efluente, esgoto-sanitario, saneamento, esgotamento-sanitario]
 fonte: "PDF da IN IAT 37/2025 fornecido pelo usuário, páginas impressas 77–78 (PDF pp. 77–78)"
 ---
 

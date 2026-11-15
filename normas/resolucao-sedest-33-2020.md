@@ -17,7 +17,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11515-2018]]", "[[decreto-estadual-1440-2019]]", "[[decreto-federal-7830-2012]]", "[[instrucao-normativa-mma-2-2014]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-18295-2014]]", "[[lei-estadual-19848-2019]]", "[[lei-federal-12651-2012]]", "[[lei-federal-4771-1965]]", "[[resolucao-sedest-18-2020]]"]
-tags: ["art2", "art3", "art4", "averbacao", "car", "documentacao", "reserva-legal", "vegetacao-nativa"]
+tags: [averbacao, car, reserva-legal, vegetacao-nativa]
 fonte: "PDF fornecido: sedest 33 2020.pdf; Sistema de Informações Ambientais / portal de legislação do Paraná (não substitui o Diário Oficial)."
 data_publicacao: 2020-05-13
 ---

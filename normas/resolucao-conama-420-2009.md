@@ -18,7 +18,7 @@ alterado_por: ["[[resolucao-conama-460-2013]]"]
 revoga: []
 revogado_por: []
 cita: ["[[lei-federal-10165-2000]]", "[[lei-federal-10406-2002]]", "[[lei-federal-6938-1981]]"]
-tags: [agua-subterranea, anexo-pendente, area-contaminada, avaliacao-risco, competencia, definicao, investigacao-area-contaminada, monitoramento, prazo, qualidade-solo, remediacao, revisao-norma, valor-orientador, vigencia]
+tags: [agua-subterranea, anexo-pendente, area-contaminada, avaliacao-risco, investigacao-area-contaminada, monitoramento, prazo, qualidade-solo, valor-orientador]
 fonte: "PDF do texto da Resolução (versão do portal, com a observação \"Esse texto não substitui o publicado no DOU nº 249, em 30/12/2009, págs. 81-84\"), 16 páginas, com os Anexos I a III."
 ---
 

@@ -21,7 +21,7 @@ alterado_por: []
 revoga: []
 revogado_por: ["[[decreto-estadual-9541-2025]]"]
 cita: ["[[decreto-estadual-10613-2022]]", "[[lei-estadual-19848-2019]]", "[[lei-federal-12305-2010]]", "[[lei-estadual-20607-2021]]", "[[resolucao-cema-107-2020]]", "[[resolucao-conjunta-sedest-iat-22-2021]]", "[[portaria-iap-35-2016]]", "[[decreto-estadual-9541-2025]]"]
-tags: [abnt, ambito-aplicacao, armazenamento-residuo, autorizacao-ambiental, coleta, definicao, destinacao-final, dispensa, embalagem, licenciamento-ambiental, prazo, saneante-desinfestante, saude-publica, transporte, tratamento-residuo, vetor, vigencia]
+tags: [ambito-aplicacao, armazenamento-residuo, autorizacao-ambiental, destinacao-final, dispensa, embalagem, licenciamento-ambiental, prazo, saneante-desinfestante, transporte, tratamento-residuo, vetor]
 fonte: "Impressão do texto do portal Legislação Estadual do Paraná (legislacao.pr.gov.br), 2 páginas, enviada por Leo. O portal diz: 'Este texto não substitui o publicado no Diário Oficial do Estado'."
 ---
 

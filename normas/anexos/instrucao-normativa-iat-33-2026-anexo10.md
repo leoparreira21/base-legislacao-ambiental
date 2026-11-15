@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: EPE
 atividades: [mineracao]
 modalidades: [lp, lpa]
-tags: [espeleologia, cavidade-natural, mineracao, prospeccao-espeleologica, area-influencia, art-anotacao]
+tags: [cavidade-natural, mineracao, area-influencia]
 fonte: PDF da IN IAT 33/2026 (eProtocolo nº 23.585.771-5), páginas 134 a 138
 ---
 

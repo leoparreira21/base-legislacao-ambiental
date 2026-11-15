@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Plano de Controle Ambiental – PCA"
 atividades: [unidade-gerenciamento-lodo]
 modalidades: [las, li, lia]
-tags: [lodo-esgoto, pca, controle-ambiental, ugl]
+tags: [lodo-esgoto, pca, ugl]
 fonte: "PDF da Instrução Normativa IAT nº 14/2026 enviado pelo usuário; páginas 73–77."
 ---
 

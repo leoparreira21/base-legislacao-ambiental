@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-13433-2026]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-8680-2013]]", "[[decreto-estadual-9541-2025]]", "[[instrucao-normativa-iat-4-2025]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-11934-2009]]", "[[lei-federal-12651-2012]]", "[[lei-federal-13116-2015]]", "[[lei-federal-6938-1981]]", "[[portaria-iat-429-2026]]", "[[resolucao-conama-6-1986]]"]
-tags: [autorizacao-ambiental, car, condicionante, documentacao, fauna, licenciamento-ambiental, monitoramento, outorga, renovacao, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, terraplanagem, unidade-conservacao, validade]
+tags: [autorizacao-ambiental, car, condicionante, fauna, licenciamento-ambiental, monitoramento, outorga, renovacao, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, terraplanagem, unidade-conservacao, validade]
 anexos: "tipo 2 (arquivos próprios): 4, 5, 6"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_13-2026-estabelece_criterios_para_licenciamento_ambiental_de_estacoes_comerciais_de_campos_eletromagneticos.pdf, 32 páginas)"
 ---

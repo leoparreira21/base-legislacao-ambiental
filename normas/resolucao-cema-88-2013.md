@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: ["[[resolucao-cema-110-2021]]"]
 cita: ["[[lei-federal-6938-1981]]"]
-tags: [cema, conselho-municipal, consorcio-publico, cooperacao, definicao, iap, impacto-local, impacto-regional, licenciamento-municipal, municipio-capacitado, outorga, prazo, tipologia, transicao, unidade-conservacao, vigencia]
+tags: [consorcio-publico, impacto-local, impacto-regional, licenciamento-municipal, municipio-capacitado, outorga, prazo, tipologia, transicao, unidade-conservacao]
 fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé traz "Este texto não substitui o publicado no Diário Oficial do Estado"."
 ---
 

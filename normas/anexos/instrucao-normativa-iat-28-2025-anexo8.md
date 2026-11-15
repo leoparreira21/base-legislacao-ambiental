@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [armazenamento-agrotoxico]
 modalidades: [las, lasa, lasr, li, lia]
-tags: [pca, agrotoxico, cnae, ampliacao, uso-solo, mapa-situacao, area-influencia, unidade-conservacao, manancial, app, reserva-legal, car, supressao-vegetacao, movimentacao-solo, contencao, impermeabilizacao, outorga-previa, efluente, tratamento-efluente, reuso-efluente, lancamento, agua-pluvial, residuo-solido, armazenamento-residuo, emissao-atmosferica, emissao-fugitiva, padrao-emissao]
+tags: [pca, agrotoxico, cnae, ampliacao, uso-solo, area-influencia, unidade-conservacao, manancial, app, reserva-legal, car, supressao-vegetacao, movimentacao-solo, impermeabilizacao, outorga-previa, efluente, tratamento-efluente, reuso-efluente, lancamento, agua-pluvial, residuo-solido, armazenamento-residuo, emissao-atmosferica, emissao-fugitiva, padrao-emissao]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), páginas 88 a 92
 ---
 

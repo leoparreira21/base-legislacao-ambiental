@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [intervencao-app-reservatorio, pacuera]
 modalidades: [las, li, lasr, lor]
-tags: [art-anotacao, diagnostico-ambiental, impacto-ambiental, medida-compensatoria, medida-mitigadora, pca, controle-poluicao]
+tags: [diagnostico-ambiental, impacto-ambiental, medida-compensatoria, medida-mitigadora, pca]
 fonte: PDF da IN IAT 64/2025 (eProtocolo nº 23.949.402-1), páginas 37 a 43
 ---
 

@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-472-2019]]", "[[lei-estadual-10066-1992]]"]
-tags: [auto-infracao, defesa-administrativa, divida-ativa, eprotocolo, infracao-ambiental, multa-ambiental, processo-administrativo, recurso-administrativo, sancao, vigencia]
+tags: [auto-infracao, defesa-administrativa, divida-ativa, eprotocolo, infracao-ambiental, multa-ambiental, processo-administrativo, sancao]
 anexos: "nenhum"
 fonte: "PDF digitalizado fornecido pelo usuário; texto recuperado por OCR em português e conferido estruturalmente"
 ---

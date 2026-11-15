@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Projeto de Drenagem Superficial
 atividades: [parcelamento-solo, condominio, construcao-barracao, parque-urbano]
 modalidades: [las, lasa, li, lia]
-tags: [agua-pluvial, app, art-anotacao, dimensionamento, drenagem-urbana, impermeabilizacao, vazao]
+tags: [agua-pluvial, app, dimensionamento, drenagem-urbana, impermeabilizacao, vazao]
 fonte: "PDF IN 21 2025.pdf fornecido pelo usuário, páginas 75–86 de 108; título impresso ANEXO VII, identificado como VIII pelo índice e pelas remissões do corpo."
 ---
 

@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: "PGRSS simplificado"
 atividades: [servico-saude]
 modalidades: []
-tags: [diretriz-estudo, pgrss, residuo-servico-saude, servico-saude, classificacao-residuo, acondicionamento, perfurocortante, saude-ocupacional, epi, gerenciamento-residuo]
+tags: [pgrss, residuo-servico-saude, servico-saude, classificacao-residuo, acondicionamento, perfurocortante, saude-ocupacional, gerenciamento-residuo]
 fonte: "PDF da Resolução Conjunta SEMA/SESA nº 002/2005 enviado pelo usuário; páginas 3 a 12. O título vem do próprio anexo."
 ---
 

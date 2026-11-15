@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Plano de Controle Ambiental – PCA"
 atividades: [empreendimento-nautico, estrutura-nautica]
 modalidades: [li, lia]
-tags: [estrutura-nautica, pca, controle-ambiental, licenciamento-ambiental]
+tags: [estrutura-nautica, pca, licenciamento-ambiental]
 fonte: "PDF da Instrução Normativa IAT nº 30/2026 enviado pelo usuário; páginas 54–59."
 ---
 

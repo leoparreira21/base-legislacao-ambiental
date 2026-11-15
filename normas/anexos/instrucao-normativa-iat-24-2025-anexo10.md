@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: laudo-conclusao-obras
 atividades: [biodigestor, aproveitamento-biogas]
 modalidades: [lo, loa, lor]
-tags: [laudo-tecnico, conclusao-obra, biodigestor, condicionante, registro-fotografico, art-anotacao]
+tags: [laudo-tecnico, conclusao-obra, biodigestor, condicionante]
 fonte: PDF da republicação da IN IAT 24/2025 (eProtocolo nº 23.746.821-0), de 12/11/2025
 ---
 

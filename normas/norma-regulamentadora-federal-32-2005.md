@@ -17,7 +17,7 @@ revoga: []
 revogado_por: []
 texto: compilado (atualizado até a Portaria MTP nº 4.219/2022)
 cita: ["[[norma-regulamentadora-federal-1-1978]]", "[[norma-regulamentadora-federal-15-1978]]", "[[norma-regulamentadora-federal-24-1978]]", "[[norma-regulamentadora-federal-26-1978]]", "[[norma-regulamentadora-federal-7-1978]]", "[[norma-regulamentadora-federal-9-1978]]"]
-tags: [ambito-aplicacao, classificacao-agente-biologico, definicao, gerenciamento-residuo, manutencao-reparacao, patogeno, perfurocortante, radiologia, redacao-alterada, residuo-servico-saude, revogado, saude-ocupacional, seguranca-trabalho, servico-saude, substancia-toxica, vigencia]
+tags: [ambito-aplicacao, gerenciamento-residuo, manutencao-reparacao, patogeno, perfurocortante, radiologia, redacao-alterada, residuo-servico-saude, revogado, saude-ocupacional, seguranca-trabalho, servico-saude, substancia-toxica]
 fonte: "Ministério do Trabalho e Emprego, "NR 32 - Segurança e saúde no trabalho em serviços de saúde" (texto atualizado em 2022, 51 páginas; "Este texto não substitui o publicado no DOU"), enviado por Leo"
 ---
 

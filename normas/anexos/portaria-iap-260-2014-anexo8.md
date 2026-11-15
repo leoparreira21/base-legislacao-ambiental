@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Plano de Controle Ambiental – PCA"
 atividades: [aterro-sanitario]
 modalidades: [li, aa]
-tags: [pca, termo-referencia, controle-ambiental]
+tags: [pca]
 fonte: "PDF impresso do portal Sistema de Informações Ambientais do IAP (texto da Portaria e Anexos I a XII)."
 ---
 

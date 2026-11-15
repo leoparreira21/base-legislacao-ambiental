@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [avicultura]
 modalidades: [las, li]
-tags: [avicultura, pca, efluente, residuo-solido, art-anotacao]
+tags: [avicultura, pca, efluente, residuo-solido]
 fonte: "PDF da IN IAT nº 25/2026 fornecido pelo usuário, páginas impressas 66–67."
 ---
 

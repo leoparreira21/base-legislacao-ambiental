@@ -19,7 +19,7 @@ alterado_por: []
 revoga: ["[[resolucao-conama-6-1988]]"]
 revogado_por: []
 cita: ["[[decreto-federal-3179-1999]]", "[[decreto-federal-99274-1990]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9605-1998]]", "[[portaria-mma-326-1994]]", "[[resolucao-conama-6-1988]]"]
-tags: [armazenamento-residuo, aterro-classe-i, classificacao-residuo, cnae, competencia, coprocessamento, definicao, gerenciamento-residuo, inventario-residuos, licenciamento-ambiental, pcb, prazo, residuo-industrial, revogacao, sancao, sigilo, vigencia]
+tags: [armazenamento-residuo, aterro-classe-i, classificacao-residuo, cnae, coprocessamento, gerenciamento-residuo, inventario-residuos, licenciamento-ambiental, pcb, prazo, residuo-industrial, sancao]
 fonte: "PDF da coletânea \"Resoluções do CONAMA\", capítulo \"Gestão de Resíduos e Produtos Perigosos – Tratamento...\" (páginas 654 a 668), 15 páginas, com o texto da Resolução e os Anexos I a III. Publicação no DOU nº 226, de 22/11/2002, Seção 1, páginas 85-91."
 ---
 

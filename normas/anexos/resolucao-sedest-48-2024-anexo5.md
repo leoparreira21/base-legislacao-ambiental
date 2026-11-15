@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Informações mínimas para licenciamento ambiental de unidades produtoras de formas jovens de organismos aquáticos"
 atividades: [aquicultura, producao-formas-jovens]
 modalidades: [las, lp, li, lo]
-tags: [app, aquicultura, corpo-hidrico, dbo, diagnostico-ambiental, especie-exotica, estudo-ambiental, impacto-ambiental, medida-mitigadora, responsavel-tecnico]
+tags: [app, aquicultura, corpo-hidrico, diagnostico-ambiental, especie-exotica, estudo-ambiental, impacto-ambiental, medida-mitigadora, responsavel-tecnico]
 fonte: "Res__SEDEST_48_2024_-_ANEXO_V.pdf (1 página), enviado por Leo"
 ---
 

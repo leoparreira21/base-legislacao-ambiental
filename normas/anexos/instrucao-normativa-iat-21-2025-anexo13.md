@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: PCAS
 atividades: [empreendimento-imobiliario]
 modalidades: [las, lasa]
-tags: [art-anotacao, controle-ambiental, impacto-ambiental, las, medida-mitigadora, monitoramento]
+tags: [impacto-ambiental, las, medida-mitigadora, monitoramento]
 ---
 ## Texto do anexo
 

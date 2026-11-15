@@ -22,7 +22,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: []
-tags: [audiencia-publica, autoridade-envolvida, autorizacao-ambiental, consulta-previa, eia-rima, licenciamento-ambiental, prazo, prioridade, termo-referencia, via-urbana]
+tags: [audiencia-publica, autoridade-envolvida, autorizacao-ambiental, consulta-previa, eia-rima, licenciamento-ambiental, prazo, prioridade, via-urbana]
 fonte: "Planalto – texto da Lei nº 15.300/2025 impresso do navegador (4 páginas, 'Este texto não substitui o publicado no DOU de 23.12.2025'), enviado por Leo"
 ---
 

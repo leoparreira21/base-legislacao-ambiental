@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-9129-2010]]", "[[lei-estadual-12726-1999]]"]
-tags: [bacia-tibagi, cerh, classificacao-corpo-agua, comite-bacia, enquadramento, revogacao, vigencia]
+tags: [bacia-tibagi, cerh, classificacao-corpo-agua, enquadramento]
 fonte: "PDF de 1 página (corpo da resolução) e PDF de 18 páginas do anexo (Deliberação nº 11 CBH-TIBAGI e Anexo I), enviados por Leo. O PDF não traz data nem edição da publicação no Diário Oficial."
 ---
 

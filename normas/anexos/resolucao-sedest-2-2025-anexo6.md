@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Relatório de Operação da Unidade
 atividades: [armazenamento-graos]
 modalidades: []
-tags: [aglomerado-populacional, art-anotacao, emissao-fugitiva, material-particulado]
+tags: [emissao-fugitiva, material-particulado]
 fonte: PDF assinado da Resolução SEDEST nº 02/2025 (SEDEST), páginas 106 e 107
 ---
 

@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-iat-3-2023]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-1231-1992]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-5711-2024]]", "[[instrucao-normativa-iat-3-2023]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-9985-2000]]", "[[resolucao-bcb-140-2021]]", "[[resolucao-cema-107-2020]]", "[[resolucao-conama-347-2004]]"]
-tags: [car, documentacao, unidade-conservacao, validade]
+tags: [car, unidade-conservacao, validade]
 anexos: "tipo 1 (modelo): Anexo Único – Declaração"
 fonte: "PDF da Instrução Normativa (5 páginas) e PDF separado do Anexo Único (2 páginas), fornecidos pelo usuário"
 ---

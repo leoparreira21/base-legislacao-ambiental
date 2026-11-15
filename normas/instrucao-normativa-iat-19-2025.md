@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[portaria-iat-70-2024]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6660-2008]]", "[[lei-estadual-11054-1995]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-10406-2002]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12651-2012]]", "[[lei-federal-6766-1979]]", "[[portaria-iat-70-2024]]", "[[resolucao-conama-369-2006]]"]
-tags: [app, documentacao, drenagem, fauna, flora, licenciamento-ambiental, outorga, reserva-legal, supressao-vegetacao]
+tags: [app, drenagem, fauna, flora, licenciamento-ambiental, outorga, reserva-legal, supressao-vegetacao]
 anexos: "tipo 1 (modelo): Anexo Único"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_19-2025_-_drenagem_de_agua_pluvial_em_app_-_23.754.266-5.pdf, 11 páginas)"
 ---

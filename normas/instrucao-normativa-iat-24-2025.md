@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-5503-2002]]", "[[decreto-estadual-6674-2002]]", "[[decreto-estadual-8680-2013]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-16346-2009]]", "[[lei-estadual-19500-2018]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]", "[[portaria-iap-256-2013]]", "[[resolucao-conama-307-2002]]", "[[resolucao-conama-6-1986]]", "[[resolucao-sedest-2-2025]]"]
-tags: [autorizacao-ambiental, car, condicionante, documentacao, efluente, fauna, flora, infracao-ambiental, licenciamento-ambiental, monitoramento, outorga, recurso-hidrico, renovacao, reserva-legal, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, validade, vigencia]
+tags: [autorizacao-ambiental, car, condicionante, efluente, fauna, flora, infracao-ambiental, licenciamento-ambiental, monitoramento, outorga, recurso-hidrico, renovacao, reserva-legal, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, validade]
 anexos: "tipo 2: II, V, IX, X e XII a XIV; tipo 1: III, IV e VI a VIII; tipo 3: I e XI"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_24-2025-lic_amb_de_biodigestores-23746821-0-republicacao.pdf, 107 páginas)"
 ---

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [abastecimento-agua]
 modalidades: [lac, lp]
-tags: [art-anotacao, mce, recurso-hidrico, saneamento, abastecimento-agua]
+tags: [mce, recurso-hidrico, saneamento, abastecimento-agua]
 fonte: "PDF da IN IAT 37/2025 fornecido pelo usuário, páginas impressas 75–76 (PDF pp. 75–76)"
 ---
 

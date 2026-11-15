@@ -16,7 +16,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-114-2011]]", "[[decreto-estadual-1502-1992]]", "[[lei-estadual-10066-1992]]"]
-tags: [art-anotacao, autorizacao-florestal, cadastro, condicionante, deferimento, documentacao, dof, parecer-tecnico, producao-florestal, prorrogacao, requerimento, revogacao, serflor, transicao, validade, vigencia, vistoria]
+tags: [autorizacao-florestal, condicionante, dof, parecer-tecnico, producao-florestal, prorrogacao, serflor, transicao, validade, vistoria]
 fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (impressão em 3 páginas, com o aviso \"O texto abaixo não substitui o publicado no Diário Oficial\"), PDF enviado por Leo. Sem data e número do DIOE."
 ---
 

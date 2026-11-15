@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-2376-2000]]", "[[lei-estadual-11352-1996]]", "[[lei-estadual-7978-1984]]", "[[lei-estadual-8289-1986]]", "[[lei-estadual-8485-1987]]", "[[resolucao-conama-265-2000]]"]
-tags: [armazenamento, auditoria, conama, duto, iap, licenca-operacao, petroleo, plano-acao, prazo, refinaria, renovacao, revogacao, terminal, vigencia]
+tags: [armazenamento, auditoria, licenca-operacao, petroleo, plano-acao, prazo, refinaria, renovacao, terminal]
 fonte: "PDF de 9 páginas (corpo e Anexos I e II), enviado por Leo, com camada de texto íntegra. O PDF não traz data nem edição da publicação no Diário Oficial."
 ---
 

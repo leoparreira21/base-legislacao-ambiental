@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: Manual de boas práticas (odor e ruído)
 atividades: [compostagem]
 modalidades: [lac, las, lasa, lasr, lp, lpa, li, lia, lir, lo, loa, lor, rlac, rlas, rlo]
-tags: [acondicionamento, aeracao, aglomerado-populacional, amostragem, animal-morto, compostagem, cortina-vegetal, direcao-vento, distancia-minima, emissao-atmosferica, estudo-dispersao, isolamento-acustico, lixiviado, lodo, manutencao-reparacao, monitoramento, odor, olfatometria, poluicao-sonora, rede-eletrica, responsavel-tecnico, vegetacao-nativa, vetor]
+tags: [acondicionamento, animal-morto, compostagem, cortina-vegetal, direcao-vento, distancia-minima, emissao-atmosferica, isolamento-acustico, lixiviado, lodo, manutencao-reparacao, monitoramento, odor, olfatometria, poluicao-sonora, rede-eletrica, responsavel-tecnico, vegetacao-nativa, vetor]
 fonte: PDF da IN IAT 41/2025 (work/in41.pdf), páginas 220 a 224
 ---
 

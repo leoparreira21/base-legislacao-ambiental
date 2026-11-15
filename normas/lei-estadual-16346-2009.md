@@ -22,7 +22,7 @@ alterado_por: ["[[lei-estadual-17787-2013]]", "[[lei-estadual-19044-2017]]", "[[
 revoga: []
 revogado_por: []
 cita: ["[[constituicao-estadual-1989]]"]
-tags: [advertencia, auto-infracao, cadastro, conselho-classe, contratacao-terceiro, definicao, degradacao-ambiental, empresa-potencialmente-poluidora, fundo-estadual-meio-ambiente, ibama, incluido, infracao-ambiental, licenciamento-ambiental, multa, plano-emergencia, poluicao, potencial-poluidor, prazo, recurso-administrativo, regulamentacao, responsavel-tecnico, sancao, sistema-gerenciamento-riscos, tac, vigencia]
+tags: [advertencia, auto-infracao, contratacao-terceiro, degradacao-ambiental, empresa-potencialmente-poluidora, incluido, infracao-ambiental, licenciamento-ambiental, multa, plano-emergencia, potencial-poluidor, prazo, responsavel-tecnico, sancao, sistema-gerenciamento-riscos, tac]
 fonte: "Impressão do texto do portal Legislação Estadual do Paraná (legislacao.pr.gov.br), 2 páginas, enviada por Leo. O portal diz: 'Este texto não substitui o publicado no Diário Oficial do Estado'."
 ---
 

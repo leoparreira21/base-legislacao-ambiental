@@ -21,7 +21,7 @@ alterado_por: ["[[lei-federal-15177-2025]]"]
 revoga: []
 revogado_por: []
 cita: ["[[lei-complementar-federal-101-2000]]", "[[lei-complementar-federal-123-2006]]", "[[lei-complementar-federal-135-2010]]", "[[lei-complementar-federal-64-1990]]", "[[lei-federal-10520-2002]]", "[[lei-federal-10973-2004]]", "[[lei-federal-11943-2009]]", "[[lei-federal-12353-2010]]", "[[lei-federal-12527-2011]]", "[[lei-federal-12846-2013]]", "[[lei-federal-15177-2025]]", "[[lei-federal-3890-a-1961]]", "[[lei-federal-6385-1976]]", "[[lei-federal-6404-1976]]", "[[lei-federal-8248-1991]]", "[[lei-federal-8429-1992]]", "[[lei-federal-8666-1993]]", "[[lei-federal-9478-1997]]"]
-tags: [contrato-administrativo, dispensa-licitacao, fiscalizacao, governanca-corporativa, incluido, integridade, licitacao, prazo, sancao, sustentabilidade]
+tags: [contrato-administrativo, dispensa-licitacao, fiscalizacao, governanca-corporativa, incluido, integridade, licitacao, prazo, sancao]
 fonte: "Planalto (Presidência da República – Secretaria-Geral), impressão do navegador em PDF (Safari/iOS), 39 páginas; \"Este texto não substitui o publicado no DOU de 1º.7.2016\", enviado por Leo"
 ---
 

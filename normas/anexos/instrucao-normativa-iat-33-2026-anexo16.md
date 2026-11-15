@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RAP-PE
 atividades: [mineracao]
 modalidades: [lpa]
-tags: [rap, porte-excepcional, mineracao, eia-rima, diagnostico-ambiental, impacto-ambiental, programa-ambiental, art-anotacao]
+tags: [rap, porte-excepcional, mineracao, eia-rima, diagnostico-ambiental, impacto-ambiental, programa-ambiental]
 fonte: PDF da IN IAT 33/2026 (eProtocolo nº 23.585.771-5), páginas 155 a 188
 ---
 

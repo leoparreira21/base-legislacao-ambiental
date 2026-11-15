@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: projeto-utilizacao-agricola-digestato
 atividades: [biodigestor, aproveitamento-biogas]
 modalidades: [li, lo, lir, lor]
-tags: [digestato, biodigestor, biogas, uso-agricola, solo, taxa-aplicacao, monitoramento]
+tags: [biodigestor, biogas, uso-agricola, solo, taxa-aplicacao, monitoramento]
 fonte: PDF da republicação da IN IAT 24/2025 (eProtocolo nº 23.746.821-0), de 12/11/2025
 ---
 

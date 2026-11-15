@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: ARNAP
 atividades: [mineracao]
 modalidades: [lp, lpa]
-tags: [agua-subterranea, rebaixamento-lencol, hidrogeologia, mineracao, monitoramento, outorga, art-anotacao]
+tags: [agua-subterranea, hidrogeologia, mineracao, monitoramento, outorga]
 fonte: PDF da IN IAT 33/2026 (eProtocolo nº 23.585.771-5), páginas 139 a 143
 ---
 

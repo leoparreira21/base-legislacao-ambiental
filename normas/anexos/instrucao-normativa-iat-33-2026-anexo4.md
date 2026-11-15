@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MAPM
 atividades: [mineracao]
 modalidades: [aa]
-tags: [pesquisa-mineral, mineracao, supressao-vegetacao, memorial-atividade, art-anotacao]
+tags: [pesquisa-mineral, mineracao, supressao-vegetacao, memorial-atividade]
 fonte: PDF da IN IAT 33/2026 (eProtocolo nº 23.585.771-5), páginas 109 a 110
 ---
 

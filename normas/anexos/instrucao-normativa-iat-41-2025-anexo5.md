@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: MCE
 atividades: [compostagem]
 modalidades: [lac, las, lp, lasa, lpa, lasr]
-tags: [diretriz-estudo, memorial-caracterizacao, compostagem, art-anotacao, zoneamento, georreferenciamento, recurso-hidrico, geologia, uso-solo, corpo-hidrico, app, unidade-conservacao, supressao-vegetacao, movimentacao-solo, outorga-previa, efluente, tratamento-efluente, agua-pluvial, residuo-solido, emissao-atmosferica]
+tags: [memorial-caracterizacao, compostagem, zoneamento, georreferenciamento, recurso-hidrico, geologia, uso-solo, corpo-hidrico, app, unidade-conservacao, supressao-vegetacao, movimentacao-solo, outorga-previa, efluente, tratamento-efluente, agua-pluvial, residuo-solido, emissao-atmosferica]
 fonte: PDF da IN IAT 41/2025, páginas 73 a 75
 ---
 

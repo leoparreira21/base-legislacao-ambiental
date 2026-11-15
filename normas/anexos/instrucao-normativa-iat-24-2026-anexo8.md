@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [suinocultura]
 modalidades: [las, li, lasa, lia, lasr, lir]
-tags: [agua-pluvial, ampliacao, animal-morto, area-construida, art-anotacao, bacia-hidrografica, captacao, cnpj, corpo-hidrico, dejeto-animal, dimensionamento, diretriz-estudo, disposicao-final, lancamento, medida-mitigadora, nascente, pca, pcpa, porte, residuo-solido, responsavel-tecnico, suinocultura, supressao-vegetacao, terraplanagem, tratamento-efluente, tratamento-residuo, uso-agricola-efluente, vazao, vetor]
+tags: [agua-pluvial, ampliacao, animal-morto, area-construida, bacia-hidrografica, captacao, cnpj, corpo-hidrico, dejeto-animal, dimensionamento, disposicao-final, lancamento, medida-mitigadora, nascente, pca, pcpa, porte, residuo-solido, responsavel-tecnico, suinocultura, supressao-vegetacao, terraplanagem, tratamento-efluente, tratamento-residuo, uso-agricola-efluente, vazao, vetor]
 fonte: PDF da IN IAT 24/2026 (eProtocolo 23.753.432-8), páginas 75 a 78 (fls. 251 a 254)
 ---
 

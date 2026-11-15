@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Auditoria Ambiental – Diretrizes para Realização de Auditoria (CONAMA 265/2000)"
 atividades: [petroleo-derivados]
 modalidades: [lo, rlo]
-tags: [auditoria, petroleo, conama-265, licenciamento-ambiental, licenca-operacao, renovacao]
+tags: [auditoria, petroleo, licenciamento-ambiental, licenca-operacao, renovacao]
 fonte: "PDF da Resolução CEMA nº 7/2001 enviado pelo usuário; Anexo I (páginas 1 a 5 do anexo)."
 ---
 

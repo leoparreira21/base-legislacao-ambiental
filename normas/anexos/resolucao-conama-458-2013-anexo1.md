@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Termo de Referência para o licenciamento ambiental simplificado em assentamentos de reforma agrária"
 atividades: [assentamento-reforma-agraria]
 modalidades: [licenciamento-simplificado]
-tags: [assentamento, termo-referencia, licenciamento-ambiental, regularizacao, car, reserva-legal, app, vegetacao-nativa, recurso-hidrico, bacia-hidrografica, manancial, saneamento, unidade-conservacao, medida-mitigadora, medida-compensatoria]
+tags: [assentamento, licenciamento-ambiental, regularizacao, car, reserva-legal, app, vegetacao-nativa, recurso-hidrico, bacia-hidrografica, manancial, saneamento, unidade-conservacao, medida-mitigadora, medida-compensatoria]
 fonte: "PDF da Resolução CONAMA nº 458/2013 enviado por Leo; 4 páginas, anexo na última página. Publicação: DOU nº 137, de 18/07/2013, Seção 1, p. 73."
 ---
 

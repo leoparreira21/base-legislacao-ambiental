@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-iat-2-2020]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-2320-1993]]", "[[decreto-estadual-2570-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-54-2023]]", "[[decreto-estadual-6514-2008]]", "[[decreto-federal-11080-2022]]", "[[decreto-federal-11373-2023]]", "[[decreto-federal-6514-2008]]", "[[decreto-federal-9760-2019]]", "[[instrucao-normativa-2-2024]]", "[[instrucao-normativa-iat-2-2020]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-10247-1993]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9605-1998]]"]
-tags: [fauna, flora, infracao-ambiental, monitoramento, sancao, vigencia]
+tags: [fauna, flora, infracao-ambiental, monitoramento, sancao]
 anexos: nenhum
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_02_2024.pdf, 21 páginas)"
 ---

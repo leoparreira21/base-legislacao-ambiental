@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-1940-1996]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[decreto-federal-6660-2008]]", "[[lei-estadual-11054-1995]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-20223-2020]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12651-2012]]", "[[lei-federal-9605-1998]]", "[[portaria-mma-148-2022]]", "[[portaria-mma-443-2014]]"]
-tags: [car, condicionante, documentacao, flora, infracao-ambiental, licenciamento-ambiental, renovacao, reserva-legal, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, validade]
+tags: [car, condicionante, flora, infracao-ambiental, licenciamento-ambiental, renovacao, reserva-legal, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, validade]
 anexos: nenhum
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_29-2025-af_para_supressao_de_floresta_plantada-23754709-8-republicado (1).pdf, 7 páginas)"
 ---

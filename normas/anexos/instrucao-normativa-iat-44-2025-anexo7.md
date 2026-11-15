@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Plano de Controle Ambiental (PCA)"
 atividades: [porto, terminal-portuario]
 modalidades: [li, lia, lir]
-tags: [pca, impacto-ambiental, medida-mitigadora, programa-ambiental, monitoramento-ambiental, cronograma, art-anotacao]
+tags: [pca, impacto-ambiental, medida-mitigadora, programa-ambiental, monitoramento-ambiental]
 fonte: "PDF da IN IAT nº 44/2025, enviado pelo usuário; páginas 66–69 do arquivo."
 ---
 

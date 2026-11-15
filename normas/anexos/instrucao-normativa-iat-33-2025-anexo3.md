@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [aterro-sanitario]
 modalidades: [lp, lpa]
-tags: [aeroporto, aglomerado-populacional, app, area-influencia, art-anotacao, bem-cultural, cavidade-natural, comunidade-tradicional, corpo-hidrico, georreferenciamento, poco, porte, recurso-hidrico, reserva-legal, residuo-solido-urbano, supressao-vegetacao, terra-indigena, unidade-conservacao, uso-solo, vida-util]
+tags: [aeroporto, app, area-influencia, bem-cultural, cavidade-natural, comunidade-tradicional, corpo-hidrico, georreferenciamento, poco, porte, recurso-hidrico, reserva-legal, residuo-solido-urbano, supressao-vegetacao, terra-indigena, unidade-conservacao, uso-solo, vida-util]
 fonte: PDF da IN IAT 33/2025, páginas 48 a 50
 ---
 

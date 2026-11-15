@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCAS
 atividades: [mineracao]
 modalidades: [las, lasr]
-tags: [pca, mineracao, controle-ambiental, impacto-ambiental, monitoramento, art-anotacao]
+tags: [pca, mineracao, impacto-ambiental, monitoramento]
 fonte: PDF da IN IAT 33/2026 (eProtocolo nº 23.585.771-5), páginas 115 a 120
 ---
 

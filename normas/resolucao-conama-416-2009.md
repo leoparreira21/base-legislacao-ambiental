@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[resolucao-conama-258-1999]]", "[[resolucao-conama-301-2002]]"]
 revogado_por: []
 cita: ["[[lei-federal-6938-1981]]", "[[resolucao-conama-23-1996]]", "[[resolucao-conama-235-1998]]"]
-tags: [armazenamento-residuo, cadastro, coleta, conteudo-minimo, ctf, definicao, destinacao-final, disposicao-final, educacao-ambiental, fabricante, fiscalizacao, ibama, licenca-ambiental, logistica-reversa, meta, pneu, prazo, proibicao, relatorio, reutilizacao, revogacao, vigencia]
+tags: [armazenamento-residuo, ctf, destinacao-final, disposicao-final, educacao-ambiental, fabricante, fiscalizacao, licenca-ambiental, logistica-reversa, pneu, prazo, relatorio, reutilizacao]
 fonte: "PDF da publicação Resoluções do CONAMA (4 páginas), enviado por Leo. O PDF diz: \"Este texto não substitui o publicado no DOU em 01/10/2009\"."
 ---
 

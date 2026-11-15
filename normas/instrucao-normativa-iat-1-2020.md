@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: ["[[instrucao-normativa-iat-53-2025]]", "[[instrucao-normativa-iat-54-2025]]"]
 cita: ["[[decreto-estadual-11515-2018]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[decreto-estadual-6514-2008]]", "[[decreto-estadual-8680-2013]]", "[[decreto-federal-7830-2012]]", "[[decreto-federal-8235-2014]]", "[[decreto-federal-9094-2017]]", "[[lei-estadual-18295-2014]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12251-2012]]", "[[lei-federal-12651-2012]]", "[[lei-federal-2848-1940]]", "[[lei-federal-4771-1965]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9985-2000]]", "[[resolucao-cema-105-2019]]"]
-tags: [car, compensacao-reserva-legal, reserva-legal, servidao-ambiental, sicar, unidade-conservacao, vigencia]
+tags: [car, compensacao-reserva-legal, reserva-legal, servidao-ambiental, sicar, unidade-conservacao]
 anexos: "tipo 1 (modelos): I, II, III e IV"
 fonte: "PDF digitalizado fornecido pelo usuário; texto recuperado por OCR em português e conferido estruturalmente"
 ---

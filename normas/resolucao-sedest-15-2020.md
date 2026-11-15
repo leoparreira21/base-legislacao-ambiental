@@ -21,7 +21,7 @@ alterado_por: []
 revoga: ["[[resolucao-sema-52-2019]]"]
 revogado_por: ["[[decreto-estadual-9541-2025]]"]
 cita: ["[[decreto-estadual-1440-2019]]", "[[resolucao-conama-237-1997]]", "[[resolucao-cema-105-2019]]", "[[lei-federal-6938-1981]]", "[[decreto-estadual-2432-2019]]", "[[lei-federal-11326-2006]]", "[[lei-estadual-7109-1979]]", "[[resolucao-conama-6-1986]]", "[[decreto-estadual-5503-2002]]", "[[resolucao-sema-52-2019]]", "[[lei-federal-9605-1998]]"]
-tags: [ampliacao, anexo-pendente, anuencia-proprietario, autorizacao-ambiental, certidao-municipal, condicionante, definicao, dejeto-animal, dispensa, documentacao, las, li, licenciamento-ambiental, lo, lp, pca, porte, prazo, projeto-controle-poluicao, publicacao-dioe, recurso-hidrico, renovacao, suinocultura, taxa-ambiental]
+tags: [ampliacao, anexo-pendente, autorizacao-ambiental, certidao-municipal, condicionante, dejeto-animal, dispensa, las, li, licenciamento-ambiental, lo, lp, pca, porte, prazo, projeto-controle-poluicao, publicacao-dioe, recurso-hidrico, renovacao, suinocultura, taxa-ambiental]
 fonte: "PDF impresso do portal (texto compilado, com a observação \"Este texto não substitui o publicado no Diário Oficial do Estado\"), 10 páginas. O PDF lista o anexo \"anexo232861_53544.pdf\", que não veio no arquivo."
 ---
 

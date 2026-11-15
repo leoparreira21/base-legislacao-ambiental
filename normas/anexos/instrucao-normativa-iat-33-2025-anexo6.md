@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Plano de encerramento e recuperação ambiental
 atividades: [aterro-sanitario, area-disposicao-final-residuo]
 modalidades: [aa]
-tags: [agua-pluvial, agua-subterranea, aproveitamento-energetico, area-contaminada, area-disposicao-final, art-anotacao, aterro-sanitario, automonitoramento, autorizacao-ambiental, biogas, classificacao-residuo, cobertura-residuo, corpo-hidrico, efluente, encerramento, encerramento-parcial, geologia, geotecnia, impermeabilizacao, lixiviado, monitoramento, plano-recuperacao, recuperacao-ambiental, residuo-solido-urbano, responsavel-tecnico, sistema-isolamento, tac, uso-solo]
+tags: [agua-pluvial, agua-subterranea, area-contaminada, area-disposicao-final, aterro-sanitario, automonitoramento, autorizacao-ambiental, biogas, classificacao-residuo, cobertura-residuo, corpo-hidrico, efluente, encerramento, encerramento-parcial, geologia, geotecnia, impermeabilizacao, lixiviado, monitoramento, plano-recuperacao, recuperacao-ambiental, residuo-solido-urbano, responsavel-tecnico, sistema-isolamento, tac, uso-solo]
 fonte: PDF da IN IAT 33/2025 (assinado digitalmente em 30/05/2025, 69 páginas), páginas 65 a 69
 ---
 

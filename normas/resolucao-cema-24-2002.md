@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-4447-2001]]", "[[lei-estadual-11352-1996]]", "[[lei-estadual-13448-2002]]", "[[lei-estadual-7978-1984]]", "[[lei-estadual-8289-1986]]", "[[lei-estadual-8485-1987]]"]
-tags: [auditor, auditoria, bateria, chumbo, iap, licenca-operacao, mineracao, prazo, qualificacao, renovacao, revogacao, vigencia]
+tags: [auditoria, bateria, chumbo, licenca-operacao, mineracao, prazo, qualificacao, renovacao]
 fonte: "PDF enviado por Leo, com camada de texto íntegra. O PDF não traz data nem edição da publicação no Diário Oficial."
 ---
 

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [industria]
 modalidades: [lac, lp, lpa, lor]
-tags: [agua-pluvial, app, art-anotacao, emissao-atmosferica, impermeabilizacao, memorial-caracterizacao, movimentacao-solo, outorga-previa, residuo-solido, supressao-vegetacao, tratamento-efluente, unidade-conservacao]
+tags: [agua-pluvial, app, emissao-atmosferica, impermeabilizacao, memorial-caracterizacao, movimentacao-solo, outorga-previa, residuo-solido, supressao-vegetacao, tratamento-efluente, unidade-conservacao]
 fonte: texto integral da IN IAT 65/2025 enviado por Leo (extração de texto do PDF, com anexos)
 ---
 

@@ -19,7 +19,7 @@ alterado_por: ["[[resolucao-conama-276-2001]]", "[[resolucao-conama-319-2002]]"]
 revoga: []
 revogado_por: []
 cita: ["[[decreto-federal-3179-1999]]", "[[decreto-federal-99274-1990]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9605-1998]]", "[[resolucao-conama-237-1997]]", "[[resolucao-conama-276-2001]]", "[[resolucao-conama-319-2002]]", "[[resolucao-conama-9-1993]]"]
-tags: [ampliacao, cadastro, cadastro-posto-combustivel, certificacao, competencia, condicionante, corpo-bombeiros, definicao, dispensa, encerramento, fiscalizacao, li, licenciamento-ambiental, lo, lp, oleo-lubrificante, passivo-ambiental, plano-emergencia, posto-combustivel, prazo, redacao-alterada, responsabilidade, sancao, tanque-subterraneo, vigencia]
+tags: [ampliacao, condicionante, corpo-bombeiros, dispensa, encerramento, fiscalizacao, li, licenciamento-ambiental, lo, lp, oleo-lubrificante, passivo-ambiental, plano-emergencia, posto-combustivel, prazo, redacao-alterada, sancao, tanque-subterraneo]
 fonte: "PDF da coletânea \"Resoluções do CONAMA\", capítulo \"Licenciamento Ambiental – Por atividade\" (páginas 800 a 804), texto compilado do portal com as redações alteradas pelas Resoluções CONAMA 276/2001 e 319/2002 e as redações anteriores tachadas."
 ---
 

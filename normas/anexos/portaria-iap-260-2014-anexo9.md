@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Relatório da situação atual de coleta seletiva e plano de ação"
 atividades: [aterro-sanitario]
 modalidades: [rlo]
-tags: [coleta-seletiva, plano-de-acao, diretriz-estudo]
+tags: [coleta-seletiva, plano-de-acao]
 fonte: "PDF impresso do portal Sistema de Informações Ambientais do IAP (texto da Portaria e Anexos I a XII)."
 ---
 

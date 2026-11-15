@@ -16,7 +16,7 @@ alterado_por: ["[[resolucao-conama-341-2003]]"]
 revoga: ["[[resolucao-conama-4-1985]]"]
 revogado_por: []
 cita: ["[[constituicao-federal-1988]]", "[[decreto-federal-99274-1990]]", "[[lei-federal-4771-1965]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9433-1997]]", "[[resolucao-conama-302-2002]]", "[[resolucao-conama-341-2003]]", "[[resolucao-conama-4-1985]]"]
-tags: ["app", "documentacao", "efluente", "prazo", "recurso-hidrico", "residuo-solido", "vegetacao-nativa"]
+tags: [app, efluente, prazo, recurso-hidrico, residuo-solido, vegetacao-nativa]
 fonte: "PDF fornecido: conama 303 2002.pdf; coletânea Resoluções do CONAMA (publicação DOU indicada no documento)."
 data_publicacao: 2002-05-13
 ---

@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Laudo Geológico-Geotécnico"
 atividades: [empreendimento-imobiliario]
 modalidades: [aa, las, lasa, lp, lpa]
-tags: [agua-subterranea, app, art-anotacao, ensaio-percolacao, geotecnia, karst, sondagem]
+tags: [agua-subterranea, app, ensaio-percolacao, geotecnia, karst, sondagem]
 fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; páginas 61–65."
 ---
 

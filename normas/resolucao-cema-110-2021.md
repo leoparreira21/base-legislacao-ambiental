@@ -20,7 +20,7 @@ alterado_por: []
 revoga: ["[[resolucao-cema-88-2013]]"]
 revogado_por: []
 cita: ["[[lei-federal-10650-2003]]", "[[lei-federal-11107-2005]]", "[[lei-federal-12527-2011]]", "[[lei-federal-6938-1981]]", "[[resolucao-cema-88-2013]]"]
-tags: [cema, competencia, conselho-municipal, consorcio-publico, cooperacao, definicao, iat, impacto-local, licenciamento-municipal, municipio-capacitado, outorga, prazo, publicidade, relatorio, revogacao, sistema-informacao-ambiental, tipologia, transicao, vigencia]
+tags: [consorcio-publico, impacto-local, licenciamento-municipal, municipio-capacitado, outorga, prazo, publicidade, relatorio, sistema-informacao-ambiental, tipologia, transicao]
 fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé traz "Este texto não substitui o publicado no Diário Oficial do Estado"."
 ---
 

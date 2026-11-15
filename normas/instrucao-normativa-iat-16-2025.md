@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-iat-16-2025-dioe-11890]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-6660-2008]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-4340-2002]]", "[[decreto-federal-5300-2004]]", "[[decreto-federal-6040-2007]]", "[[decreto-federal-6514-2008]]", "[[decreto-federal-6541-2008]]", "[[decreto-federal-6660-2008]]", "[[decreto-federal-6848-2009]]", "[[instrucao-normativa-16-2025]]", "[[instrucao-normativa-iat-16-2025]]", "[[instrucao-normativa-ibama-21-2014]]", "[[lei-estadual-11054-1995]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-11326-2006]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12651-2012]]", "[[lei-federal-7661-1988]]", "[[lei-federal-9605-1998]]", "[[lei-federal-9985-2000]]", "[[portaria-mma-463-2018]]"]
-tags: [app, car, compensacao-ambiental, condicionante, documentacao, drenagem, fauna, flora, licenciamento-ambiental, monitoramento, reserva-legal, sancao, supressao-vegetacao, unidade-conservacao]
+tags: [app, car, compensacao-ambiental, condicionante, drenagem, fauna, flora, licenciamento-ambiental, monitoramento, reserva-legal, sancao, supressao-vegetacao, unidade-conservacao]
 anexos: "tipo 2: II e V; tipo 1: IV; tipo 3: I, III e VI"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_16-2025-compensacao_de_supressao_florestal-23754086-7_republicacao16-12-2025.pdf, 47 páginas)"
 ---

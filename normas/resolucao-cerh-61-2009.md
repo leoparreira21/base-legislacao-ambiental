@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-2314-2000]]", "[[lei-estadual-12726-1999]]"]
-tags: [aguasparana, camara-tecnica, cerh, disponibilidade-hidrica, evento-hidrologico-critico, monitoramento, plano-recursos-hidricos, prazo, publicacao, revisao, vigencia]
+tags: [cerh, evento-hidrologico-critico, monitoramento, plano-recursos-hidricos, prazo, publicacao]
 fonte: "PDF de 2 páginas (Win2PDF), em papel timbrado da Secretaria de Estado do Meio Ambiente e Recursos Hídricos, enviado por Leo; a segunda página só traz o rodapé do programa. A camada de texto do PDF tem espaços quebrados, e o texto foi transcrito da imagem da página. O PDF não traz data de publicação no Diário Oficial."
 ---
 

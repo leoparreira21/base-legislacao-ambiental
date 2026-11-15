@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [gerenciamento-lodo]
 modalidades: [lp, lpa]
-tags: [diretriz-estudo, memorial-caracterizacao, art-anotacao, georreferenciamento, efluente, residuo-solido]
+tags: [memorial-caracterizacao, georreferenciamento, efluente, residuo-solido]
 fonte: "PDF da IN IAT 38/2025, páginas 82 a 83, fornecido pelo usuário: IN 38 2025.pdf"
 ---
 

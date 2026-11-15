@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: rap
 atividades: [biodigestor, aproveitamento-biogas]
 modalidades: [lp]
-tags: [rap, biodigestor, impacto-ambiental, alternativa-locacional, medida-mitigadora, programa-ambiental]
+tags: [rap, biodigestor, impacto-ambiental, medida-mitigadora, programa-ambiental]
 fonte: PDF da republicação da IN IAT 24/2025 (eProtocolo nº 23.746.821-0), de 12/11/2025
 ---
 

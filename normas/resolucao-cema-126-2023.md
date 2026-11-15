@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-4447-2001]]", "[[decreto-estadual-6747-2021]]", "[[decreto-estadual-8690-2010]]", "[[lei-estadual-19848-2019]]", "[[lei-estadual-7978-1984]]", "[[resolucao-conama-274-2000]]", "[[resolucao-conama-357-2005]]"]
-tags: [agua-doce, agua-salina, agua-salobra, amostragem, balneabilidade, cadastro, classificacao-corpo-agua, coliforme, conama, definicao, frequencia-monitoramento, iat, laboratorio, laudo-analitico, metodo-analise, monitoramento, padrao-qualidade, vigencia]
+tags: [agua-doce, agua-salina, agua-salobra, balneabilidade, classificacao-corpo-agua, coliforme, frequencia-monitoramento, laboratorio, laudo-analitico, metodo-analise, monitoramento, padrao-qualidade]
 fonte: "PDF de 2 páginas da edição do Diário Oficial do Estado do Paraná nº 11449 (29/06/2023, p. 44-45), inserido no eProtocolo (protocolo 18.933.196-7), enviado por Leo. A camada de texto do PDF é incompleta (falta texto em várias linhas), e o texto e as tabelas foram transcritos das imagens das páginas."
 ---
 

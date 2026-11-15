@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[portaria-iap-65-2021]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-9415-2025]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-11977-2022]]", "[[lei-federal-11428-2006]]", "[[decreto-federal-6660-2008]]", "[[lei-federal-12651-2012]]", "[[lei-estadual-22252-2024]]", "[[decreto-estadual-9541-2025]]", "[[lei-estadual-11054-1995]]", "[[decreto-estadual-1940-1996]]", "[[resolucao-conjunta-ibama-sema-iap-5-2008]]", "[[resolucao-conama-2-1994]]", "[[resolucao-conjunta-ibama-sema-iap-7-2008]]"]
-tags: [anuencia, area-inculta, area-prioritaria, eia-rima, especies-exoticas, licenciamento-ambiental, plantio-florestal, supressao-vegetacao, unidade-conservacao, vigencia, zona-amortecimento]
+tags: [anuencia, area-prioritaria, eia-rima, especies-exoticas, licenciamento-ambiental, plantio-florestal, supressao-vegetacao, unidade-conservacao, zona-amortecimento]
 anexos: nenhum
 fonte: PDF assinado digitalmente pelo Diretor-Presidente do IAT em 24/04/2025 (eProtocolo nº 23.754.411-0, 4 páginas)
 ---

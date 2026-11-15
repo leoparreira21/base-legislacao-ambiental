@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Projeto de Drenagem Superficial"
 atividades: [empreendimento-imobiliario]
 modalidades: [las, li]
-tags: [drenagem-superficial, termo-referencia, drenagem-pluvial]
+tags: [drenagem-superficial, drenagem-pluvial]
 fonte: "PDF do eProtocolo da Resolução SEDEST nº 30/2022 (documento assinado digitalmente em 27/05/2022)."
 ---
 

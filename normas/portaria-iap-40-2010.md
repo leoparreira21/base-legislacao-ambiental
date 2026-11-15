@@ -17,7 +17,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-1502-1992]]", "[[decreto-estadual-77-2007]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-11352-1996]]", "[[lei-estadual-13425-2002]]", "[[resolucao-conama-369-2006]]", "[[resolucao-conjunta-ibama-sema-iap-5-2008]]"]
-tags: ["documentacao", "infracao-ambiental", "licenciamento-ambiental", "mineracao", "recuperacao-ambiental", "recurso-hidrico", "vegetacao-nativa"]
+tags: [infracao-ambiental, licenciamento-ambiental, mineracao, recuperacao-ambiental, recurso-hidrico, vegetacao-nativa]
 fonte: "PDF fornecido: portaria IAP 40 2010.pdf; Sistema de Informações Ambientais / portal de legislação do Paraná (não substitui o Diário Oficial)."
 ---
 

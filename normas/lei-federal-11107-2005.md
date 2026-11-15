@@ -20,7 +20,7 @@ alterado_por: ["[[lei-federal-13821-2019]]", "[[lei-federal-13822-2019]]", "[[le
 revoga: []
 revogado_por: []
 cita: ["[[constituicao-federal-1988]]", "[[decreto-lei-federal-5452-1943]]", "[[lei-complementar-federal-101-2000]]"]
-tags: [alteracao, ambito-aplicacao, consorcio-publico, convenio, dispensa-licitacao, estado, fiscalizacao, incluido, municipio, redacao-alterada, regulamentacao, responsabilidade, revogado, saneamento, saude-publica, transicao, uniao, vigencia]
+tags: [alteracao, ambito-aplicacao, consorcio-publico, convenio, dispensa-licitacao, estado, fiscalizacao, incluido, municipio, redacao-alterada, revogado, saneamento, transicao]
 fonte: "Planalto (Presidência da República – Casa Civil), impressão do navegador em PDF, 8 páginas; \"Este texto não substitui o publicado no DOU de 7.4.2005\", enviado por Leo"
 ---
 

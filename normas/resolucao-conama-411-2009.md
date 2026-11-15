@@ -21,7 +21,7 @@ alterado_por: ["[[resolucao-conama-474-2016]]"]
 revoga: []
 revogado_por: []
 cita: ["[[lei-federal-6938-1981]]", "[[portaria-mma-168-2005]]", "[[resolucao-conama-379-2006]]"]
-tags: [carvao-vegetal, coeficiente-rendimento, cooperacao-institucional, ctf, cubagem, diretriz-estudo, documentacao, dof, fiscalizacao, floresta-plantada, glossario-produto-madeira, ibama, industria-madeira, laminacao, licenca-ambiental, prazo, sancao, sisnama]
+tags: [carvao-vegetal, cooperacao-institucional, ctf, cubagem, dof, fiscalizacao, floresta-plantada, glossario-produto-madeira, industria-madeira, laminacao, licenca-ambiental, prazo, sancao, sisnama]
 fonte: "Portal do CONAMA – PDF (Word 2013, 16 páginas, 'Este texto não substitui o publicado no DOU de 08/05/2009', com quadro 'Correlação': complementa a Resolução nº 379/2006; alterada pela 474/2016 nos arts. 6º e 9º e anexos II, III e VII), enviado por Leo"
 ---
 

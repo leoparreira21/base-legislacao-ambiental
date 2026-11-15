@@ -20,7 +20,7 @@ alterado_por: []
 revoga: ["[[decreto-estadual-4531-2012]]", "[[decreto-estadual-7351-2013]]", "[[decreto-estadual-8020-2013]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-4531-2012]]", "[[decreto-estadual-7351-2013]]", "[[decreto-estadual-8020-2013]]", "[[lei-estadual-16595-2010]]", "[[lei-federal-12527-2011]]", "[[lei-federal-7115-1983]]"]
-tags: [acesso-informacao, classificacao-informacao, comissao-reavaliacao-informacoes, definicao, informacao-pessoal, pedido-informacao, prazo, recurso-administrativo, sigilo, transparencia, vigencia]
+tags: [informacao-pessoal, pedido-informacao, prazo, transparencia]
 fonte: "PDF impresso do portal Legislação do Estado do Paraná (legislacao.pr.gov.br), com a observação \"Este texto não substitui o publicado no Diário Oficial do Estado\", 11 páginas."
 ---
 

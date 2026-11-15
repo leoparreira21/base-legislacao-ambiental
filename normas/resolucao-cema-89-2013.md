@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: ["[[decreto-estadual-9541-2025]]"]
 cita: ["[[lei-estadual-10066-1992]]", "[[lei-estadual-7978-1984]]", "[[lei-estadual-8289-1986]]", "[[lei-estadual-8485-1987]]"]
-tags: [empreendimento-rodoviario, licenca-instalacao, licenca-operacao, licenca-previa, prazo, revogacao, utilidade-publica, vigencia]
+tags: [empreendimento-rodoviario, licenca-instalacao, licenca-operacao, licenca-previa, prazo, utilidade-publica]
 fonte: "Impressão de página da internet em PDF, enviada por Leo; o rodapé traz "Este texto não substitui o publicado no Diário Oficial do Estado"."
 ---
 

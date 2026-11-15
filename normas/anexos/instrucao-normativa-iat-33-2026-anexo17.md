@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: EIAL
 atividades: [mineracao]
 modalidades: [lp, lpa]
-tags: [alternativa-locacional, app, mineracao, impacto-ambiental, supressao-vegetacao, art-anotacao]
+tags: [app, mineracao, impacto-ambiental, supressao-vegetacao]
 fonte: PDF da IN IAT 33/2026 (eProtocolo nº 23.585.771-5), páginas 189 a 192
 ---
 

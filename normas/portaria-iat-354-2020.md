@@ -19,7 +19,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-3820-2020]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-4696-2016]]", "[[decreto-federal-2519-1998]]", "[[lei-federal-11428-2006]]", "[[decreto-federal-6660-2008]]", "[[lei-federal-12651-2012]]", "[[lei-federal-6938-1981]]", "[[lei-federal-11326-2006]]", "[[decreto-federal-6040-2007]]", "[[decreto-lei-9760-1946]]"]
-tags: [agricultura-familiar, app, autorizacao-florestal, cadastro, car, comunidade-tradicional, dispensa, dlae, documentacao, dominio-uniao, erva-mate, especie-ameacada, fauna, iat, infracao-ambiental, interesse-social, manejo-florestal, mata-atlantica, pfnm, prazo, prorrogacao, reposicao-florestal, reserva-legal, revogacao, unidade-conservacao, validade, vegetacao-nativa, vigencia, vistoria]
+tags: [agricultura-familiar, app, autorizacao-florestal, car, comunidade-tradicional, dispensa, dlae, dominio-uniao, especie-ameacada, fauna, infracao-ambiental, interesse-social, manejo-florestal, mata-atlantica, pfnm, prazo, prorrogacao, reposicao-florestal, reserva-legal, unidade-conservacao, validade, vegetacao-nativa, vistoria]
 fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (texto impresso do navegador em 6 páginas, com o aviso \"O texto abaixo não substitui o publicado no Diário Oficial\"), PDF enviado por Leo. Sem data e número do DIOE."
 ---
 

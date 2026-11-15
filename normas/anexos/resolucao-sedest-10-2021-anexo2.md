@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Memorial de Caracterização do Empreendimento – MCE"
 atividades: [cogeracao-energia]
 modalidades: [dlae, lac, las]
-tags: [mce, termo-referencia, memorial-caracterizacao, cogeracao]
+tags: [mce, memorial-caracterizacao]
 fonte: "PDF do eProtocolo da Resolução SEDEST nº 10/2021 (documento assinado digitalmente em 05/03/2021)."
 ---
 

@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Memorial de Caracterização do Empreendimento – MCE"
 atividades: [empreendimento-nautico, estrutura-nautica]
 modalidades: [las, lasr, lp, lpa]
-tags: [estrutura-nautica, mce, caracterizacao, licenciamento-ambiental]
+tags: [estrutura-nautica, mce, licenciamento-ambiental]
 fonte: "PDF da Instrução Normativa IAT nº 30/2026 enviado pelo usuário; páginas 48–49."
 ---
 

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [triagem-residuo-reciclavel]
 modalidades: [lp, lpa]
-tags: [acondicionamento, aglomerado-populacional, app, art-anotacao, captacao, corpo-hidrico, efluente, esgoto-sanitario, georreferenciamento, odor, porte, recurso-hidrico, reserva-legal, supressao-vegetacao, triagem, uso-solo]
+tags: [acondicionamento, app, captacao, corpo-hidrico, efluente, esgoto-sanitario, georreferenciamento, odor, porte, recurso-hidrico, reserva-legal, supressao-vegetacao, triagem, uso-solo]
 fonte: PDF da IN IAT 31/2025, páginas 52 a 54
 ---
 

@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[decreto-estadual-6514-2008]]", "[[decreto-federal-6514-2008]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-11428-2006]]", "[[lei-federal-9605-1998]]"]
-tags: [app, autorizacao-ambiental, documentacao, fauna, flora, infracao-ambiental, licenciamento-ambiental, monitoramento, outorga, reserva-legal, sancao, supressao-vegetacao, validade]
+tags: [app, autorizacao-ambiental, fauna, flora, infracao-ambiental, licenciamento-ambiental, monitoramento, outorga, reserva-legal, sancao, supressao-vegetacao, validade]
 anexos: nenhum
 fonte: "PDF fornecido pelo usuário (in_002-2021_17.876.653-8_estabelece_procedimentos_para_aia.pdf, 11 páginas)"
 ---

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Laudo Florestal
 atividades: [mineracao]
 modalidades: [lp, lpa, af]
-tags: [laudo-florestal, inventario-florestal, supressao-vegetacao, vegetacao-nativa, estagio-sucessional, art-anotacao]
+tags: [laudo-florestal, inventario-florestal, supressao-vegetacao, vegetacao-nativa, estagio-sucessional]
 fonte: PDF da IN IAT 33/2026 (eProtocolo nº 23.585.771-5), páginas 100 a 108
 ---
 

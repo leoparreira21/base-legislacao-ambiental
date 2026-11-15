@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-4447-2001]]", "[[decreto-estadual-8690-2010]]", "[[lei-estadual-19848-2019]]", "[[lei-estadual-7978-1984]]", "[[lei-federal-6938-1981]]", "[[resolucao-cema-110-2021]]", "[[resolucao-cema-88-2013]]"]
-tags: [certificado-ambiental, iat, licenciamento-municipal, londrina, municipio-capacitado, publicacao, publicidade, vigencia]
+tags: [licenciamento-municipal, londrina, municipio-capacitado, publicacao, publicidade]
 fonte: "Página do Diário Oficial do Estado em PDF (1 página), enviada por Leo; a Resolução CEMA 118 ocupa a metade inferior da página."
 ---
 

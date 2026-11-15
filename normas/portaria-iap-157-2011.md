@@ -16,7 +16,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-114-2011]]", "[[decreto-estadual-2320-1993]]", "[[decreto-federal-6514-2008]]", "[[lei-estadual-10066-1992]]", "[[lei-federal-6830-1980]]"]
-tags: [alegacoes-finais, auto-infracao, conversao-multa, decisao-administrativa, defesa-administrativa, divida-ativa, fundo-estadual-meio-ambiente, julgamento, multa, parecer-tecnico, prazo, recurso-administrativo, revogacao, termo-compromisso, vigencia]
+tags: [auto-infracao, conversao-multa, defesa-administrativa, divida-ativa, multa, parecer-tecnico, prazo, termo-compromisso]
 fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (impressão, com o aviso \"O texto abaixo não substitui o publicado no Diário Oficial\"), PDF enviado por Leo. Sem data e número do DIOE."
 ---
 

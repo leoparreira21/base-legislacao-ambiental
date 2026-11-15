@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Relatório de Detalhamento dos Programas Ambientais – RDPA"
 atividades: [empreendimento-imobiliario]
 modalidades: [li]
-tags: [rdpa, termo-referencia, programa-ambiental]
+tags: [rdpa, programa-ambiental]
 fonte: "PDF do eProtocolo da Resolução SEDEST nº 30/2022 (documento assinado digitalmente em 27/05/2022)."
 ---
 

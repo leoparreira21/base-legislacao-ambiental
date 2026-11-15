@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Plano Básico de Controle Ambiental – PBCA"
 atividades: [cogeracao-energia]
 modalidades: [las]
-tags: [pbca, termo-referencia, controle-ambiental, cogeracao]
+tags: [pbca]
 fonte: "PDF do eProtocolo da Resolução SEDEST nº 10/2021 (documento assinado digitalmente em 05/03/2021)."
 ---
 

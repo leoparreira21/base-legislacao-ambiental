@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-iat-36-2025]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-13433-2026]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-11977-2022]]", "[[decreto-estadual-9541-2025]]", "[[decreto-estadual-5503-2002]]", "[[decreto-estadual-8680-2013]]", "[[decreto-estadual-1940-1996]]", "[[decreto-estadual-6674-2002]]", "[[decreto-estadual-7304-2021]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-19857-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-6938-1981]]", "[[lei-federal-12651-2012]]", "[[lei-federal-9605-1998]]", "[[lei-federal-11326-2006]]", "[[resolucao-conama-237-1997]]", "[[resolucao-conama-6-1986]]", "[[resolucao-conama-307-2002]]", "[[instrucao-normativa-ibama-13-2021]]", "[[resolucao-sedest-2-2025]]", "[[portaria-iap-gp-106-2018]]", "[[instrucao-normativa-iat-36-2025]]", "[[instrucao-normativa-iat-25-2026-anexo2]]", "[[instrucao-normativa-iat-25-2026-anexo7]]"]
-tags: ["avicultura", "licenciamento-ambiental", "porte", "enquadramento", "estudo-ambiental", "dlam", "lac", "las", "lp", "li", "lo", "mce", "pca", "rap", "efluente", "residuo-solido", "dejeto-animal", "emissao-atmosferica", "outorga", "ampliacao", "regularizacao", "vigencia"]
+tags: [avicultura, licenciamento-ambiental, porte, enquadramento, estudo-ambiental, dlam, lac, las, lp, li, lo, mce, pca, rap, efluente, residuo-solido, dejeto-animal, emissao-atmosferica, outorga, ampliacao, regularizacao]
 fonte: "PDF IN 25 2026.pdf fornecido pelo usuário; 70 páginas, eProtocolo nº 23.761.447-0, folhas 81–148a; assinatura qualificada de José Volnei Bisognin em 14/08/2026 às 17:08; código 2def626add70b8799098c9f3ecdb2686."
 texto: compilado (atualizado até 2026-08-14)
 ---

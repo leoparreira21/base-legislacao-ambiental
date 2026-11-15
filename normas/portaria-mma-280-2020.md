@@ -19,7 +19,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-federal-9672-2019]]", "[[lei-federal-12305-2010]]", "[[portaria-mma-412-2019]]", "[[resolucao-conama-313-2002]]", "[[resolucao-conama-452-2012]]"]
-tags: [armazenamento-residuo, cadastro, conama, definicao, destinacao-final, estado, exportacao-residuo, gerador, importacao-residuo, inventario-residuos, logistica-reversa, mtr, pev, pgrs, prazo, residuo-agrossilvopastoril, residuo-construcao-civil, residuo-domiciliar, residuo-industrial, residuo-mineracao, residuo-nao-perigoso, residuo-perigoso, residuo-servico-saude, residuo-solido-urbano, residuo-transporte, responsavel-tecnico, sancao, saneamento, servico-limpeza-urbana, sinir, transporte, vigencia]
+tags: [armazenamento-residuo, destinacao-final, estado, exportacao-residuo, gerador, importacao-residuo, inventario-residuos, logistica-reversa, mtr, pev, pgrs, prazo, residuo-agrossilvopastoril, residuo-construcao-civil, residuo-domiciliar, residuo-industrial, residuo-mineracao, residuo-nao-perigoso, residuo-perigoso, residuo-servico-saude, residuo-solido-urbano, residuo-transporte, responsavel-tecnico, sancao, saneamento, servico-limpeza-urbana, sinir, transporte]
 fonte: "Diário Oficial da União, Seção 1, nº 123, 30/06/2020, p. 95, PDF certificado (2 páginas), enviado por Leo"
 ---
 

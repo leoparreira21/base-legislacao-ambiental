@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-13433-2026]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[lei-estadual-18295-2014]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-11952-2009]]", "[[lei-federal-12651-2012]]", "[[lei-federal-14285-2021]]", "[[lei-federal-14904-2024]]", "[[lei-federal-20070-2019]]", "[[lei-federal-6766-1979]]", "[[lei-federal-9605-1998]]", "[[resolucao-cema-110-2021]]"]
-tags: [app, autorizacao-ambiental, compensacao-ambiental, condicionante, documentacao, drenagem, licenciamento-ambiental, monitoramento, outorga, responsavel-tecnico, sancao, supressao-vegetacao]
+tags: [app, autorizacao-ambiental, compensacao-ambiental, condicionante, drenagem, licenciamento-ambiental, monitoramento, outorga, responsavel-tecnico, sancao, supressao-vegetacao]
 anexos: "tipo 2: V a VII; tipo 3: III e IV"
 fonte: "PDF fornecido pelo usuário (instrucao-normativa-35-2026-canalizacao_excepcional.pdf, 36 páginas)"
 ---

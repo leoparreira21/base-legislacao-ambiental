@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Projeto executivo de remoção de componentes e desmobilização de sistemas de armazenamento subterrâneo e aéreo de combustíveis"
 atividades: [posto-revendedor, ponto-abastecimento, instalacao-sistema-retalhista, posto-flutuante, base-distribuicao]
 modalidades: [aa]
-tags: [combustivel, posto-combustivel, contaminacao-solo, amostragem, analise-quimica, remocao]
+tags: [combustivel, posto-combustivel]
 fonte: "PDF IN 28 2026.pdf, Instituto Água e Terra, enviado pelo usuário; páginas impressas 74–84."
 ---
 

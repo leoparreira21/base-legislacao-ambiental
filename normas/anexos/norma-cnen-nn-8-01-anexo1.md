@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: PGRR
 atividades: [instalacao-radiativa]
 modalidades: []
-tags: [diretriz-estudo, plano-gerencia-rejeito-radioativo, rejeito-radioativo, instalacao-radiativa]
+tags: [plano-gerencia-rejeito-radioativo, rejeito-radioativo, instalacao-radiativa]
 fonte: PDF da CNEN da Norma CNEN NN 8.01 (versão de julho/2025, Resolução CNEN 343/25), página 9
 ---
 

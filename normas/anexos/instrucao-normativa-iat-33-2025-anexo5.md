@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Relatório da situação atual de coleta seletiva e plano de ação
 atividades: [aterro-sanitario]
 modalidades: [rlo, lor]
-tags: [acondicionamento, aterro-sanitario, catador, coleta-seletiva, consumo-sustentavel, destinacao-final, educacao-ambiental, logistica-reversa, meta, pmgirs, reciclagem, rejeito, residuo-construcao-civil, residuo-perigoso, residuo-servico-saude, residuo-solido-urbano, transbordo]
+tags: [acondicionamento, aterro-sanitario, catador, coleta-seletiva, destinacao-final, educacao-ambiental, logistica-reversa, pmgirs, reciclagem, rejeito, residuo-construcao-civil, residuo-perigoso, residuo-servico-saude, residuo-solido-urbano, transbordo]
 fonte: PDF da IN IAT 33/2025 (assinado digitalmente em 30/05/2025, 69 páginas), páginas 62 a 64
 ---
 

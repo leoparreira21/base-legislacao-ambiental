@@ -17,7 +17,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[lei-estadual-12726-1999]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-9433-1997]]"]
-tags: [abnt, agua-subterranea, art-anotacao, cadastro, fiscalizacao, hidrogeologia, identificacao, outorga, poco, prazo, relatorio, vigencia]
+tags: [agua-subterranea, fiscalizacao, hidrogeologia, identificacao, outorga, poco, prazo, relatorio]
 fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (impressão, com o aviso \"O texto abaixo não substitui o publicado no Diário Oficial\"), PDF enviado por Leo. Sem data e número do DIOE."
 ---
 

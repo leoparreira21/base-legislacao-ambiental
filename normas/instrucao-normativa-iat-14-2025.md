@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-1940-1996]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6660-2008]]", "[[lei-estadual-11054-1995]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12651-2012]]"]
-tags: [car, condicionante, documentacao, licenciamento-ambiental, monitoramento, reserva-legal, responsavel-tecnico, sancao, taxa-ambiental, validade]
+tags: [car, condicionante, licenciamento-ambiental, monitoramento, reserva-legal, responsavel-tecnico, sancao, taxa-ambiental, validade]
 anexos: "tipo 1 (modelos): I, II e III"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_14-2025_-_retirada_de_especies_exoticas_em_app_-_23.754.517-6.pdf, 10 páginas)"
 ---

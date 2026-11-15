@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: RA
 atividades: [mineracao]
 modalidades: [rlas, rlo]
-tags: [relatorio-atividade, mineracao, condicionante, monitoramento, controle-ambiental, art-anotacao]
+tags: [relatorio-atividade, mineracao, condicionante, monitoramento]
 fonte: PDF da IN IAT 33/2026 (eProtocolo nº 23.585.771-5), páginas 128 a 130
 ---
 

@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-iat-47-2025]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-13433-2026]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9541-2025]]", "[[instrucao-normativa-iat-47-2025]]", "[[instrucao-normativa-iat-64-2025]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]", "[[lei-federal-12815-2013]]", "[[portaria-404-2012]]", "[[portaria-iap-256-2013]]", "[[resolucao-conama-2-1994]]", "[[resolucao-conama-369-2006]]", "[[resolucao-conama-430-2011]]", "[[resolucao-conama-6-1986]]"]
-tags: [app, autorizacao-ambiental, car, condicionante, documentacao, drenagem, efluente, fauna, flora, licenciamento-ambiental, outorga, recurso-hidrico, renovacao, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, unidade-conservacao, validade]
+tags: [app, autorizacao-ambiental, car, condicionante, drenagem, efluente, fauna, flora, licenciamento-ambiental, outorga, recurso-hidrico, renovacao, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, unidade-conservacao, validade]
 anexos: "tipo 2 (arquivos próprios): 4, 5, 6, 7, 8, 9"
 fonte: "PDF fornecido pelo usuário (instrucao-normativa-30-2026-empreendimentos-e-estruturas-nauticas-23816661-6.pdf, 69 páginas)"
 ---

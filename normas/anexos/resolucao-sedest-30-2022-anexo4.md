@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Laudo Geológico-Geotécnico"
 atividades: [empreendimento-imobiliario]
 modalidades: [lac, las, lp]
-tags: [laudo-geologico-geotecnico, termo-referencia, geotecnia]
+tags: [laudo-geologico-geotecnico, geotecnia]
 fonte: "PDF do eProtocolo da Resolução SEDEST nº 30/2022 (documento assinado digitalmente em 27/05/2022)."
 ---
 

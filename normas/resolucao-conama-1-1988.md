@@ -16,7 +16,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-federal-88351-1983]]", "[[lei-federal-6938-1981]]"]
-tags: ["cadastro", "ctf", "documentacao", "prazo", "renovacao"]
+tags: [ctf, prazo, renovacao]
 fonte: "PDF fornecido: conama 001 1988.pdf; coletânea Resoluções do CONAMA (publicação DOU indicada no documento)."
 data_publicacao: 1988-06-15
 ---

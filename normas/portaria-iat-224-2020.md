@@ -17,7 +17,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[constituicao-estadual-pr-1989]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[decreto-federal-6514-2008]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[portaria-iap-159-2015]]"]
-tags: ["armazenamento-residuo", "art1", "auditoria", "documentacao", "infracao-ambiental", "pgr", "prazo", "recurso-hidrico", "risco-ambiental"]
+tags: [armazenamento-residuo, auditoria, infracao-ambiental, pgr, prazo, recurso-hidrico, risco-ambiental]
 fonte: "PDF fornecido: portaria IAT 224 2020.pdf; Sistema de Informações Ambientais / portal de legislação do Paraná (não substitui o Diário Oficial)."
 ---
 

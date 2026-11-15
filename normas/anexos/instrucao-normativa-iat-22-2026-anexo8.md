@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: Projeto de Controle de Poluição Ambiental
 atividades: [irrigacao]
 modalidades: [las, li, lasa, lia, lasr, lir, lor]
-tags: [agrotoxico, app, art-anotacao, compactacao-solo, conservacao-solo, educacao-ambiental, fertilizante, irrigacao, monitoramento, pca, pcpa, poluicao, recuperacao-ambiental, recurso-hidrico, reserva-legal, responsavel-tecnico, tratamento-efluente]
+tags: [agrotoxico, app, compactacao-solo, conservacao-solo, educacao-ambiental, fertilizante, irrigacao, monitoramento, pca, pcpa, recuperacao-ambiental, recurso-hidrico, reserva-legal, responsavel-tecnico, tratamento-efluente]
 ---
 
 # ANEXO VIII — Projeto de Controle de Poluição Ambiental

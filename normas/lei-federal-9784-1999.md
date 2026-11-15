@@ -21,7 +21,7 @@ alterado_por: ["[[lei-federal-11417-2006]]", "[[lei-federal-12008-2009]]", "[[le
 revoga: []
 revogado_por: []
 cita: ["[[lei-federal-11417-2006]]", "[[lei-federal-12008-2009]]", "[[lei-federal-14210-2021]]"]
-tags: [decadencia, decisao-coordenada, delegacao-competencia, impedimento-suspeicao, incluido, instrucao-processual, intimacao, invalidacao-ato, motivacao, participacao-publica, prazo, prioridade-tramitacao, processo-administrativo, recurso-administrativo]
+tags: [delegacao-competencia, impedimento-suspeicao, incluido, instrucao-processual, intimacao, invalidacao-ato, motivacao, participacao-publica, prazo, prioridade-tramitacao, processo-administrativo]
 fonte: "Planalto (Presidência da República – Casa Civil), impressão do navegador em PDF (Safari/iOS), 15 páginas; \"Este texto não substitui o publicado no DOU de 1.2.1999 e retificado em 11.3.1999\", enviado por Leo"
 ---
 

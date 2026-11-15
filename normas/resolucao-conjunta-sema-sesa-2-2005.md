@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-5711-2002]]", "[[lei-estadual-8485-1987]]", "[[resolucao-conama-358-2005]]", "[[resolucao-sema-31-1998]]"]
-tags: [gerador, licenciamento-ambiental, pgrss, requerimento, residuo-servico-saude, responsavel-tecnico, vigencia, vigilancia-sanitaria]
+tags: [gerador, licenciamento-ambiental, pgrss, residuo-servico-saude, responsavel-tecnico, vigilancia-sanitaria]
 fonte: "PDF de 18 páginas enviado por Leo (corpo nas pp. 1–2; Anexos I e II com os roteiros do PGRSS). O PDF não traz data nem edição da publicação no Diário Oficial."
 ---
 

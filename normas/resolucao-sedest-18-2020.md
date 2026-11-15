@@ -20,7 +20,7 @@ alterado_por: ["[[resolucao-sedest-33-2020]]"]
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-2432-2019]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-18295-2014]]", "[[lei-estadual-19848-2019]]", "[[lei-estadual-19857-2019]]", "[[lei-federal-12651-2012]]", "[[lei-federal-4771-1965]]"]
-tags: [app, averbacao, car, definicao, imovel-urbano, pra, redacao-alterada, reserva-legal, revisao, termo-compromisso, vigencia]
+tags: [app, averbacao, car, imovel-urbano, pra, redacao-alterada, reserva-legal, termo-compromisso]
 fonte: "Portal da legislação estadual (impressão em 2 páginas da versão \"Compilado\", de 11/09/2020), PDF enviado por Leo."
 ---
 

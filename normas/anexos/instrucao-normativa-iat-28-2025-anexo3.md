@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: MCE
 atividades: [armazenamento-agrotoxico]
 modalidades: [lac, las, lasa, lasr, lp, lpa]
-tags: [app, art-anotacao, memorial-caracterizacao, outorga, residuo-solido, tratamento-semente]
+tags: [app, memorial-caracterizacao, outorga, residuo-solido, tratamento-semente]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), páginas 77 a 79
 ---
 

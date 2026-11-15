@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-federal-99274-1990]]", "[[lei-federal-4771-1965]]", "[[lei-federal-6938-1981]]", "[[resolucao-conama-9-1987]]"]
-tags: [app, area-urbana-consolidada, comite-bacia, consulta-publica, definicao, direito-transicao, distancia-minima, licenciamento-ambiental, plano-manejo, reservatorio, vigencia]
+tags: [app, area-urbana-consolidada, direito-transicao, distancia-minima, licenciamento-ambiental, plano-manejo, reservatorio]
 fonte: "PDF da publicação Resoluções do CONAMA (Áreas protegidas – Áreas de Preservação Permanente, 3 páginas), enviado por Leo. O PDF diz: \"Este texto não substitui o publicado no DOU, de 13 de maio de 2002\"."
 ---
 

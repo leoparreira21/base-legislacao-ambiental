@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Plano de Emergência Individual Simplificado – PEI"
 atividades: [empreendimento-nautico, estrutura-nautica]
 modalidades: [las, lasr, li, lia, lo, loa, lor]
-tags: [estrutura-nautica, pei, emergencia, oleo]
+tags: [estrutura-nautica, pei, oleo]
 fonte: "PDF da Instrução Normativa IAT nº 30/2026 enviado pelo usuário; páginas 68–69."
 ---
 

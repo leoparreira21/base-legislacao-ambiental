@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PGRS
 atividades: [intervencao-app-reservatorio, pacuera]
 modalidades: [li, lo, rlas, rlo, lor]
-tags: [art-anotacao, acondicionamento, armazenamento-residuo, classificacao-residuo, pgrs, residuo-solido, treinamento]
+tags: [acondicionamento, armazenamento-residuo, classificacao-residuo, pgrs, residuo-solido, treinamento]
 fonte: PDF da IN IAT 64/2025 (eProtocolo nº 23.949.402-1), páginas 51 a 53
 ---
 

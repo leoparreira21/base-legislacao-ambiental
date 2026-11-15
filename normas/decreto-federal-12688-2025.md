@@ -17,7 +17,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-federal-10240-2020]]", "[[decreto-federal-10388-2020]]", "[[decreto-federal-10936-2022]]", "[[decreto-federal-11413-2023]]", "[[decreto-federal-11414-2023]]", "[[lei-federal-12527-2011]]", "[[lei-federal-13709-2018]]", "[[lei-federal-9605-1998]]"]
-tags: [agrotoxico, ambito-aplicacao, auditoria, beneficiamento, catador, coleta, coleta-seletiva, comercio, cooperacao-institucional, definicao, destinacao-final, disposicao-final, educacao-ambiental, embalagem, fabricante, incentivo, industria-plastico, infracao-ambiental, licenciamento-ambiental, logistica-reversa, meta, microempresa, monitoramento, mtr, municipio, oleo-lubrificante, pev, pmgirs, poder-publico, prazo, prioridade, reciclagem, regulamentacao, rejeito, relatorio, responsabilidade, reutilizacao, sancao, servico-limpeza-urbana, sinir, sisnama, transporte, triagem, vigencia]
+tags: [agrotoxico, ambito-aplicacao, auditoria, beneficiamento, catador, coleta-seletiva, comercio, cooperacao-institucional, destinacao-final, disposicao-final, educacao-ambiental, embalagem, fabricante, incentivo, industria-plastico, infracao-ambiental, licenciamento-ambiental, logistica-reversa, microempresa, monitoramento, mtr, municipio, oleo-lubrificante, pev, pmgirs, poder-publico, prazo, prioridade, reciclagem, rejeito, relatorio, reutilizacao, sancao, servico-limpeza-urbana, sinir, sisnama, transporte, triagem]
 fonte: "Diário Oficial da União, página do portal in.gov.br impressa em PDF (16 páginas; páginas 14 a 29 da impressão), enviada por Leo"
 ---
 

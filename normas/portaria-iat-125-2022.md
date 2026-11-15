@@ -17,7 +17,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-10700-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-4696-2016]]", "[[decreto-estadual-9957-2014]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-12726-1999]]", "[[lei-estadual-20070-2019]]", "[[portaria-aguasparana-46-2010]]"]
-tags: ["documentacao", "efluente", "licenciamento-ambiental", "outorga", "prazo", "prazo", "recurso-hidrico", "renovacao"]
+tags: [efluente, licenciamento-ambiental, outorga, prazo, prazo, recurso-hidrico, renovacao]
 fonte: "PDF fornecido: portaria IAT 125 2022.pdf; Sistema de Informações Ambientais / portal de legislação do Paraná (não substitui o Diário Oficial)."
 ---
 

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: pca
 atividades: [biodigestor, aproveitamento-biogas]
 modalidades: [li, lir]
-tags: [pca, biodigestor, controle-ambiental, efluente, emissao-atmosferica, residuo-solido, monitoramento]
+tags: [pca, biodigestor, efluente, emissao-atmosferica, residuo-solido, monitoramento]
 fonte: PDF da republicação da IN IAT 24/2025 (eProtocolo nº 23.746.821-0), de 12/11/2025
 ---
 

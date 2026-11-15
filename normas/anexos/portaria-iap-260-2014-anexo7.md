@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Relatório Ambiental Preliminar – RAP"
 atividades: [aterro-sanitario]
 modalidades: [lp]
-tags: [rap, termo-referencia, relatorio-ambiental-preliminar]
+tags: [rap, relatorio-ambiental-preliminar]
 fonte: "PDF impresso do portal Sistema de Informações Ambientais do IAP (texto da Portaria e Anexos I a XII)."
 ---
 

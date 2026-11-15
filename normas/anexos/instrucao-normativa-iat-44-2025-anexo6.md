@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Memorial de Caracterização do Empreendimento (MCE)"
 atividades: [porto, terminal-portuario]
 modalidades: [lp, lpa, lir, lor]
-tags: [mce, caracterizacao-empreendimento, uso-solo, recursos-hidricos, efluente, residuo-solido, emissao-atmosferica, desenho-tecnico, art-anotacao]
+tags: [mce, caracterizacao-empreendimento, uso-solo, recursos-hidricos, efluente, residuo-solido, emissao-atmosferica]
 fonte: "PDF da IN IAT nº 44/2025, enviado pelo usuário; páginas 62–65 do arquivo."
 ---
 

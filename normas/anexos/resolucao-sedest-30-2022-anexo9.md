@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Projeto Simplificado de Gerenciamento de Resíduos da Construção Civil – PGRCC"
 atividades: [empreendimento-imobiliario]
 modalidades: [las, li]
-tags: [pgrcc, termo-referencia, residuo-construcao-civil]
+tags: [pgrcc, residuo-construcao-civil]
 fonte: "PDF do eProtocolo da Resolução SEDEST nº 30/2022 (documento assinado digitalmente em 27/05/2022)."
 ---
 

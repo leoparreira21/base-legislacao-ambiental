@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Projeto de Terraplenagem"
 atividades: [movimentacao-solo, terraplanagem]
 modalidades: [aa]
-tags: [app, area-verde-urbana, art-anotacao, contencao, drenagem, movimentacao-solo, responsavel-tecnico, terraplanagem]
+tags: [app, area-verde-urbana, drenagem, movimentacao-solo, responsavel-tecnico, terraplanagem]
 fonte: "PDF da republicação da Instrução Normativa IAT nº 04/2025, enviado pelo usuário; Anexo II, páginas 11–16 do arquivo."
 ---
 

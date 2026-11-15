@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[lei-federal-6938-1981]]", "[[decreto-federal-99274-1990]]", "[[resolucao-conama-491-2018]]", "[[resolucao-conama-5-1989]]", "[[lei-federal-14850-2024]]"]
-tags: [condicao-referencia, episodio-critico, guia-tecnico, iqar, licenciamento-ambiental, monitoramento, padrao-intermediario, padrao-qualidade, poluente-atmosferico, pronar, qualidade-ar, relatorio, revogacao, vigencia]
+tags: [episodio-critico, guia-tecnico, iqar, licenciamento-ambiental, monitoramento, padrao-intermediario, padrao-qualidade, pronar, qualidade-ar, relatorio]
 fonte: "PDF da impressão do Diário Oficial da União (Imprensa Nacional, 5 páginas), enviado por Leo; texto e tabelas conferidos com as imagens das páginas. O PDF diz: 'Este conteúdo não substitui o publicado na versão certificada'."
 ---
 

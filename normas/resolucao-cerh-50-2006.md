@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-2314-2000]]", "[[decreto-estadual-4646-2001]]", "[[decreto-estadual-5361-2002]]", "[[lei-estadual-12726-1999]]"]
-tags: [abastecimento-publico, agua-pluvial, agua-subterranea, captacao, cerh, cobranca-uso-agua, comite-bacia, divida-ativa, efluente, esgoto-sanitario, fundo-estadual-recursos-hidricos, incentivo, incentivo-reuso, lancamento, multa, outorga, prazo, suderhsa, suspensao-outorga, vazao, vigencia]
+tags: [abastecimento-publico, agua-pluvial, agua-subterranea, captacao, cerh, cobranca-uso-agua, divida-ativa, efluente, esgoto-sanitario, incentivo, incentivo-reuso, lancamento, multa, outorga, prazo, suderhsa, suspensao-outorga, vazao]
 fonte: "PDF de 6 páginas, em papel timbrado da Secretaria de Estado do Meio Ambiente e Recursos Hídricos (BrOffice.org Writer 2.2), enviado por Leo. O PDF não traz data de publicação no Diário Oficial. Texto conferido com o PDF."
 ---
 

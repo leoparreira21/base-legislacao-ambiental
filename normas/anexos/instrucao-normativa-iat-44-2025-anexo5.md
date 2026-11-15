@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Plano de Dragagem"
 atividades: [porto, terminal-portuario, dragagem]
 modalidades: [autorizacao-ambiental, li, lia]
-tags: [dragagem, sedimento, caracterizacao-sedimento, monitoramento-ambiental, recursos-hidricos, disposicao-final, art-anotacao]
+tags: [dragagem, monitoramento-ambiental, recursos-hidricos, disposicao-final]
 fonte: "PDF da IN IAT nº 44/2025, enviado pelo usuário; páginas 56–61 do arquivo."
 ---
 

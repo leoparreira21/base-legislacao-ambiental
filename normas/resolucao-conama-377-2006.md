@@ -16,7 +16,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-federal-99274-1990]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9433-1997]]", "[[portaria-mma-168-2005]]", "[[resolucao-conama-237-1997]]"]
-tags: ["art1", "art4", "documentacao", "efluente", "esgotamento-sanitario", "li", "licenciamento-ambiental", "lo", "lp", "outorga", "prazo", "recurso-hidrico", "vegetacao-nativa"]
+tags: [efluente, esgotamento-sanitario, li, licenciamento-ambiental, lo, lp, outorga, prazo, recurso-hidrico, vegetacao-nativa]
 fonte: "PDF fornecido: conama 377 2006.pdf; coletânea Resoluções do CONAMA (publicação DOU indicada no documento)."
 data_publicacao: 2006-10-10
 ---

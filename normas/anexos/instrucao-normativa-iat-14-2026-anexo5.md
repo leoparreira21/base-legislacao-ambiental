@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Memorial de Caracterização do Empreendimento – MCE"
 atividades: [unidade-gerenciamento-lodo]
 modalidades: [las, lp, lpa, lasr]
-tags: [lodo-esgoto, mce, caracterizacao, ugl]
+tags: [lodo-esgoto, mce, ugl]
 fonte: "PDF da Instrução Normativa IAT nº 14/2026 enviado pelo usuário; páginas 80–81."
 ---
 

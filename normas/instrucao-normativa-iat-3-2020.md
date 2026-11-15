@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11515-2018]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[decreto-federal-8235-2014]]", "[[lei-estadual-18295-2014]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-12651-2012]]", "[[lei-federal-18295-2014]]", "[[portaria-iat-170-2020]]"]
-tags: [app, car, monitoramento, prad, programa-regularizacao-ambiental, recomposicao-vegetacao, reserva-legal, restauracao-ecologica, sicar, vigencia]
+tags: [app, car, monitoramento, prad, programa-regularizacao-ambiental, recomposicao-vegetacao, reserva-legal, restauracao-ecologica, sicar]
 anexos: "nenhum"
 fonte: "PDF digitalizado fornecido pelo usuário; texto recuperado por OCR em português e conferido estruturalmente"
 ---

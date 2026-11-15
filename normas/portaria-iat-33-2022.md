@@ -17,7 +17,7 @@ alterado_por: []
 revoga: ["[[portaria-iap-212-2019]]", "[[portaria-iat-248-2020]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[decreto-federal-10936-2022]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-12305-2010]]", "[[portaria-iap-212-2019]]", "[[portaria-iat-248-2020]]", "[[resolucao-cema-109-2021]]"]
-tags: ["aproveitamento-energetico", "licenciamento-ambiental", "prazo", "residuo-solido"]
+tags: [licenciamento-ambiental, prazo, residuo-solido]
 fonte: "PDF fornecido: portaria IAT 33 2022.pdf; Sistema de Informações Ambientais / portal de legislação do Paraná (não substitui o Diário Oficial)."
 ---
 

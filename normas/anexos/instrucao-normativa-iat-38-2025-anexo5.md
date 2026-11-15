@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Plano de Gerenciamento da Utilização Agrícola do Lodo de Esgoto
 atividades: [gerenciamento-lodo]
 modalidades: [las, li, rlas, rlo, lasa, lia, lasr, lir, lor]
-tags: [amostragem, analise-solo, armazenamento-residuo, art-anotacao, caracterizacao-agronomica, conservacao-solo, lodo-esgoto, metal-pesado, monitoramento, taxa-aplicacao]
+tags: [analise-solo, armazenamento-residuo, caracterizacao-agronomica, conservacao-solo, lodo-esgoto, metal-pesado, monitoramento, taxa-aplicacao]
 fonte: "PDF da IN IAT 38/2025, páginas 80 a 81, fornecido pelo usuário: IN 38 2025.pdf"
 ---
 

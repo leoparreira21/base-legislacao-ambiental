@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[portaria-iap-117-1996]]", "[[portaria-iap-121-1996]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-9415-2025]]", "[[lei-estadual-20070-2019]]", "[[decreto-estadual-3813-2020]]", "[[lei-federal-11428-2006]]", "[[decreto-federal-6660-2008]]", "[[lei-estadual-22252-2024]]", "[[decreto-estadual-9541-2025]]", "[[lei-estadual-11054-1995]]", "[[decreto-estadual-1940-1996]]", "[[resolucao-conama-2-1994]]", "[[resolucao-conjunta-ibama-sema-iap-7-2008]]"]
-tags: [dof, reposicao-florestal, serflor, sinaflor, vigencia]
+tags: [dof, reposicao-florestal, serflor, sinaflor]
 anexos: nenhum
 fonte: PDF assinado digitalmente pelo Diretor-Presidente do IAT em 23/04/2025 (eProtocolo nº 23.754.145-6, 3 páginas)
 ---

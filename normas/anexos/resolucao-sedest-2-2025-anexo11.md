@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: REAT
 atividades: [fonte-fixa-emissao-atmosferica]
 modalidades: [lo, lor, rlo, las, lasr, rlas]
-tags: [amostragem, art-anotacao, automonitoramento, emissao-atmosferica, laboratorio, material-particulado, monitoramento-continuo, oxigenio-referencia, padrao-emissao]
+tags: [automonitoramento, emissao-atmosferica, laboratorio, material-particulado, monitoramento-continuo, oxigenio-referencia, padrao-emissao]
 fonte: PDF assinado da Resolução SEDEST nº 02/2025 (com anexos), páginas 121 a 131
 ---
 

@@ -21,7 +21,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[constituicao-federal-1988]]", "[[lei-complementar-federal-97-1999]]"]
-tags: [apa, aprovacao-tacita, atuacao-subsidiaria, atuacao-supletiva, auto-infracao, comissao-tripartite, competencia, complementacao, conama, conselho-meio-ambiente, consorcio-publico, convenio, cooperacao-institucional, decisao-stf, definicao, delegacao-atribuicao, distrito-federal, educacao-ambiental, especie-exotica, estado, fauna, fiscalizacao, impacto-local, infracao-ambiental, licenciamento-ambiental, municipio, orgao-ambiental-capacitado, pesca, plano-diretor, pnma, prazo, produto-perigoso, renovacao, revogacao, sinima, supressao-vegetacao, taxa-ambiental, terra-indigena, transicao, uniao, unidade-conservacao, vigencia, zona-costeira, zoneamento]
+tags: [apa, atuacao-supletiva, auto-infracao, consorcio-publico, convenio, cooperacao-institucional, delegacao-atribuicao, educacao-ambiental, especie-exotica, estado, fauna, fiscalizacao, impacto-local, infracao-ambiental, licenciamento-ambiental, municipio, orgao-ambiental-capacitado, pesca, plano-diretor, pnma, prazo, produto-perigoso, renovacao, sinima, supressao-vegetacao, taxa-ambiental, terra-indigena, transicao, unidade-conservacao, zona-costeira, zoneamento]
 fonte: "Planalto – texto da Lei Complementar nº 140/2011 impresso do navegador (8 páginas), com o aviso 'Este texto não substitui o publicado no DOU de 9.12.2011 e retificado em 12.12.2011', enviado por Leo"
 ---
 

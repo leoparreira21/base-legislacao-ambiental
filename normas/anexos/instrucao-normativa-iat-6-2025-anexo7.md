@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: projeto-tecnico-fauna
 atividades: [zoologico, criadouro-fauna, mantenedouro-fauna, centro-triagem-fauna, centro-reabilitacao-fauna]
 modalidades: [lp, li]
-tags: [fauna, projeto-tecnico, manejo-fauna, biosseguranca, quarentena, bem-estar-animal, veterinario, art-anotacao]
+tags: [fauna, projeto-tecnico, manejo-fauna, biosseguranca, veterinario]
 fonte: PDF da IN IAT 6/2025 (eProtocolo nº 23.758.742-1), anexo integrante do arquivo assinado em 23/04/2025
 ---
 

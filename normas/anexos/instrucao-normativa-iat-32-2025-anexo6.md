@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCPA
 atividades: [armazenamento-temporario-residuo]
 modalidades: [li, lia]
-tags: [diretriz-estudo, pcpa, armazenamento-residuo, abnt, acondicionamento, agua-pluvial, art-anotacao, captacao, classificacao-residuo, cnpj, conselho-classe, contencao, controle-ambiental, ctf, destinacao-final, dimensionamento, efluente, emissao-atmosferica, esgoto-sanitario, gerenciamento-residuo, ibama, impermeabilizacao, laboratorio, movimentacao-solo, obra-civil, odor, poluicao-sonora, residuo-construcao-civil, residuo-liquido, residuo-nao-perigoso, residuo-perigoso, residuo-servico-saude, residuo-solido, responsavel-legal, responsavel-tecnico, segregacao, sistema-isolamento, terraplanagem, transporte, tratamento-efluente, tratamento-esgoto]
+tags: [pcpa, armazenamento-residuo, acondicionamento, agua-pluvial, captacao, classificacao-residuo, cnpj, ctf, destinacao-final, dimensionamento, efluente, emissao-atmosferica, esgoto-sanitario, gerenciamento-residuo, impermeabilizacao, laboratorio, movimentacao-solo, obra-civil, odor, poluicao-sonora, residuo-construcao-civil, residuo-liquido, residuo-nao-perigoso, residuo-perigoso, residuo-servico-saude, residuo-solido, responsavel-legal, responsavel-tecnico, segregacao, sistema-isolamento, terraplanagem, transporte, tratamento-efluente, tratamento-esgoto]
 fonte: PDF da IN IAT 32/2025, páginas 70 a 73
 ---
 

@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Relatório de Caracterização da Flora"
 atividades: [empreendimento-hidreletrico]
 modalidades: [lp]
-tags: [flora, inventario-florestal, supressao-vegetacao, app, reserva-legal, unidade-conservacao, area-prioritaria, art-anotacao]
+tags: [flora, inventario-florestal, supressao-vegetacao, app, reserva-legal, unidade-conservacao, area-prioritaria]
 fonte: "PDF da republicação da IN IAT nº 9/2025, enviado pelo usuário; páginas 48–50 do arquivo."
 ---
 

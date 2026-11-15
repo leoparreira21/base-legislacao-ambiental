@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PEAT
 atividades: [fonte-fixa-emissao-atmosferica]
 modalidades: [lo, lor, rlo, las, lasr, rlas]
-tags: [automonitoramento, peat, dea, emissao-atmosferica, fonte-fixa, emissao-fugitiva, chamine, amostragem, laboratorio, art-anotacao]
+tags: [automonitoramento, peat, dea, emissao-atmosferica, fonte-fixa, emissao-fugitiva, chamine, laboratorio]
 fonte: PDF assinado da Resolução SEDEST nº 02/2025 (com anexos), páginas 118 a 120
 ---
 

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [esgotamento-sanitario]
 modalidades: [las, li]
-tags: [agua-pluvial, app, art-anotacao, controle-ambiental, efluente, esgotamento-sanitario, esgoto-sanitario, gerenciamento-residuo, lancamento, licenciamento-ambiental, lodo-esgoto, outorga, pca, pgr, recurso-hidrico, reserva-legal, residuo-solido, saneamento, tratamento-esgoto]
+tags: [agua-pluvial, app, efluente, esgotamento-sanitario, esgoto-sanitario, gerenciamento-residuo, lancamento, licenciamento-ambiental, lodo-esgoto, outorga, pca, pgr, recurso-hidrico, reserva-legal, residuo-solido, saneamento, tratamento-esgoto]
 fonte: "PDF da IN IAT 37/2025 enviado pelo usuário, páginas 99 a 106"
 ---
 

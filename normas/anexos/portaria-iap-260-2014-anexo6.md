@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Estudo de Impacto Ambiental e Relatório de Impacto Ambiental – EIA/RIMA"
 atividades: [aterro-sanitario]
 modalidades: [lp]
-tags: [eia-rima, termo-referencia, estudo-impacto-ambiental]
+tags: [eia-rima, estudo-impacto-ambiental]
 fonte: "PDF impresso do portal Sistema de Informações Ambientais do IAP (texto da Portaria e Anexos I a XII)."
 ---
 

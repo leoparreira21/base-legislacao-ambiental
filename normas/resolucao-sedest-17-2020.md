@@ -19,7 +19,7 @@ alterado_por: []
 revoga: []
 revogado_por: ["[[decreto-estadual-9541-2025]]"]
 cita: ["[[decreto-estadual-2432-2019]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-19848-2019]]", "[[lei-estadual-19857-2019]]", "[[resolucao-sedest-55-2019]]"]
-tags: [art-anotacao, bovinocultura, dispensa, documentacao, las, porte, renovacao, sedest, vigencia]
+tags: [bovinocultura, dispensa, las, porte, renovacao]
 fonte: "Portal da legislação estadual (AEN, \"Este texto não substitui o publicado no Diário Oficial do Estado\"), PDF de 2 páginas enviado por Leo. Número do DIOE e súmula vêm do cabeçalho do portal."
 ---
 

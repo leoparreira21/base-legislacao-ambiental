@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-10613-2022]]", "[[decreto-estadual-10700-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-federal-10936-2022]]", "[[decreto-federal-7404-2010]]", "[[decreto-federal-9283-2018]]", "[[lei-complementar-federal-123-2006]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-10233-1992]]", "[[lei-estadual-12493-1999]]", "[[lei-estadual-19261-2017]]", "[[lei-estadual-19848-2019]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-20541-2021]]", "[[lei-estadual-20607-2021]]", "[[lei-federal-10406-2002]]", "[[lei-federal-10973-2004]]", "[[lei-federal-11107-2005]]", "[[lei-federal-12305-2010]]", "[[lei-federal-14133-2021]]", "[[lei-federal-8666-1993]]", "[[resolucao-cema-107-2020]]"]
-tags: [anexo-pendente, autorizacao-ambiental, casos-omissos, comite, definicao, documentacao, impedimento-suspeicao, incentivo, licenciamento-ambiental, pers, redacao-alterada, residuo-solido, tecnologia-inovacao, teste-tecnologia, validade, vigencia]
+tags: [anexo-pendente, autorizacao-ambiental, casos-omissos, impedimento-suspeicao, incentivo, licenciamento-ambiental, pers, redacao-alterada, residuo-solido, tecnologia-inovacao, validade]
 fonte: "Portal da legislação estadual (AEN, \"Este texto não substitui o publicado no Diário Oficial do Estado\"), PDF de 5 páginas enviado por Leo. O PDF mostra a redação original do art. 5º, I tachada."
 ---
 

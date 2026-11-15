@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [mineracao]
 modalidades: [li, lia, lir, lor, rlo]
-tags: [pca, mineracao, controle-ambiental, impacto-ambiental, monitoramento, art-anotacao]
+tags: [pca, mineracao, impacto-ambiental, monitoramento]
 fonte: PDF da IN IAT 33/2026 (eProtocolo nº 23.585.771-5), páginas 121 a 127
 ---
 

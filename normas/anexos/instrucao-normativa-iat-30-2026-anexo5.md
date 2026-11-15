@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Plano Básico de Controle Ambiental – PBCA"
 atividades: [empreendimento-nautico, estrutura-nautica]
 modalidades: [lp, lpa]
-tags: [estrutura-nautica, pbca, controle-ambiental, licenciamento-ambiental]
+tags: [estrutura-nautica, pbca, licenciamento-ambiental]
 fonte: "PDF da Instrução Normativa IAT nº 30/2026 enviado pelo usuário; páginas 50–53."
 ---
 

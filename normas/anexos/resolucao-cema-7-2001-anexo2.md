@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Auditoria Ambiental de Processo e Conformidade – Instalações de Petróleo e Derivados no Paraná"
 atividades: [petroleo-derivados]
 modalidades: [lo, rlo]
-tags: [auditoria, petroleo, conama-265, plano-acao, monitoramento-participativo, licenciamento-ambiental, licenca-operacao, renovacao]
+tags: [auditoria, petroleo, plano-acao, monitoramento-participativo, licenciamento-ambiental, licenca-operacao, renovacao]
 fonte: "PDF da Resolução CEMA nº 7/2001 enviado pelo usuário; Anexo II (páginas 6 a 9 do documento)."
 ---
 

@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-lei-federal-1025-1969]]", "[[decreto-lei-federal-1737-1979]]", "[[lei-federal-6830-1980]]", "[[lei-federal-7735-1989]]", "[[medida-provisoria-136-1990]]"]
-tags: [auto-infracao, divida-ativa, ibama, multa, parcelamento, taxa-licenciamento]
+tags: [auto-infracao, divida-ativa, multa, parcelamento, taxa-licenciamento]
 fonte: "Planalto (Presidência da República – Casa Civil), impressão do navegador em PDF (Safari/iOS), 3 páginas; \"Este texto não substitui o publicado no DOU de 23.3.1990\", enviado por Leo"
 ---
 

@@ -19,7 +19,7 @@ alterado_por: []
 revoga: ["[[resolucao-conama-387-2006]]"]
 revogado_por: []
 cita: ["[[lei-federal-6938-1981]]", "[[resolucao-conama-387-2006]]"]
-tags: [agropecuaria, assentamento, baixo-impacto-ambiental, competencia, definicao, interesse-social, licenciamento-ambiental, participacao-publica, regularizacao, revogacao, termo-compromisso, vigencia]
+tags: [agropecuaria, assentamento, baixo-impacto-ambiental, interesse-social, licenciamento-ambiental, participacao-publica, regularizacao, termo-compromisso]
 fonte: "PDF da publicação (4 páginas), enviado por Leo. O PDF diz: \"Esse texto não substitui o publicado no DOU nº 137, de 18/07/2013, Seção 01, pág. 73\"."
 ---
 
