@@ -845,6 +845,38 @@ def indice(itens):
 """
 
 
+def temas_norma(fm, corpo):
+    """Tema -> primeira âncora de leitura. Definições exigem caput próprio."""
+    temas = {tag.strip(): '' for tag in fm.get('tags', '').strip('[]').split(',')
+             if re.fullmatch(r'[a-z0-9][a-z0-9-]*', tag.strip())}
+    glossario = set()
+    ancora = ''
+    for linha in corpo.splitlines():
+        cab = RE_CABECALHO.match(linha)
+        if cab:
+            ancora = cab[3] or ''
+        if linha.startswith('Tags:'):
+            for tag in re.findall(r'#([a-z][a-z0-9-]*)', linha):
+                if not temas.get(tag):
+                    temas[tag] = ancora
+        dispositivo = RE_DISP.match(linha)
+        if not dispositivo:
+            continue
+        _, _, ident, texto = dispositivo.groups()
+        ancora = ident
+        for tag in re.findall(r'(?:^|\s)#([a-z][a-z0-9-]*)', texto):
+            if not temas.get(tag):
+                temas[tag] = ident
+        if re.fullmatch(r'art\d+_cpt', ident) and re.search(
+                r'definições|considera[m]?-se:|entende[m]?-se:', texto, re.I):
+            glossario.add(ident)
+        if ident.split('_inc')[0] in glossario and re.fullmatch(r'art\d+_cpt_inc\d+', ident):
+            termo = re.match(r'([^:;|{}\[\]]{2,80}):\s', RE_TAGS_INICIO.sub('', texto).strip())
+            if termo:
+                temas[termo[1].strip('* ').lower()] = ident
+    return temas
+
+
 def item_catalogo(arquivo, fm):
     apelidos = re.findall(r'"([^"]+)"', fm.get('nomes_alternativos', ''))
     ano = fm.get('ano', '')
@@ -940,7 +972,7 @@ def main():
         if f.parent.name == 'normas':
             itens.append((f.stem, fm.get('norma') or f.stem, fm.get('ementa', '')))
         if f.parent.name != 'comentarios':
-            catalogo.append(item_catalogo(f.stem, fm))
+            catalogo.append({**item_catalogo(f.stem, fm), 'temas': temas_norma(fm, corpo)})
     # apaga páginas que não existem mais (normas que saíram da base, anexos agora dentro da norma)
     for velho in saida.glob('*.html'):
         if velho.stem not in existentes and velho.name != 'index.html':

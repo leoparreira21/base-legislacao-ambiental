@@ -3,6 +3,7 @@ import { Input } from '@/components/ui/input'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { ArrowLeft, ArrowUp, ExternalLink, Search, TextSearch, X } from 'lucide-react'
+import MapaTemas from './MapaTemas'
 import ConsultaSQL, { apiDisponivel } from './ConsultaSQL'
 import LocalizadorOcorrencias from './LocalizadorOcorrencias'
 import type { ConsultaPublicada } from './consulta'
@@ -16,6 +17,7 @@ type Norma = {
   ano: number | null
   ementa: string
   situacao: string
+  temas?: Record<string, string>
   apelidos: string[]
 }
 
@@ -430,6 +432,7 @@ export default function App() {
                   {atual.orgao || nomeTipo(atual.tipo)}{atual.situacao === 'revogada' ? ' · revogada' : ''}
                 </div>
               </div>
+              <MapaTemas key={atual.arquivo} inicial={atual} normas={normas!} abrir={abrir} />
               <Button asChild variant="outline" size="sm">
                 <a href={`${PASTA}/${atual.arquivo}.html`} target="_blank" rel="noopener">
                   <ExternalLink className="h-4 w-4" /> <span className="hidden sm:inline">Nova aba</span>
