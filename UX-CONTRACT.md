@@ -22,4 +22,7 @@ Não há login, exclusão remota nem armazenamento de conversas. O chatbot públ
 | Button | .btn / .more | site/estilo.css | Primário, secundário e link | testes/assistente-ui.cjs |
 | Textarea | .resize-none | site/estilo.css e assistente.js fit | Crescimento até 300px no chat | testes/assistente-ui.cjs |
 | Async query | assistente.js | Contrato da API | Cancelar, tentar novamente | testes/worker-contract.test.mjs |
+| Biblioteca: consulta | biblioteca/src/ConsultaSQL.tsx e consulta.ts | Pedido do usuário de 15/11/2026 | Cartão com súmula; dispositivos apenas por expansão; requisições substituídas são canceladas | testes/biblioteca_ui.py |
+| Biblioteca: referências | biblioteca/src/RotuloDispositivo.tsx | Pedido do usuário de 15/11/2026 | Art. e § preservados; caput omitido; romano sem classe; alínea em itálico sem aspas | testes/biblioteca_ui.py |
+| Biblioteca: localizador | biblioteca/src/LocalizadorOcorrencias.tsx e localizador.ts | Mesmos dispositivos e filtros da consulta D1 | Ordem documental, ciclo anterior/próximo, F3/Shift+F3, Esc, restauração da expansão e tentativa após erro | testes/biblioteca_ui.py |
 | Consulta complementar | site/complementar.js | Candidatos separados da base curada, fonte ctresb-leis identificada, falha recuperável sem impedir consulta principal; regras em docs/integracao-ctresb.md |

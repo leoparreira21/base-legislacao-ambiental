@@ -113,7 +113,7 @@ async function buscarPorNorma(env, q, { limit = 100, soVigentes = true, tipo } =
 }
 
 // Todos os dispositivos de uma norma que casam com a busca (lista do cartão da norma).
-async function buscarNaNorma(env, q, slug, { soVigentes = true, tipo } = {}) {
+async function buscarNaNorma(env, q, slug, { soVigentes = true, tipo, offset = 0 } = {}) {
   let sql = `SELECT ${CAMPOS_BUSCA}
     FROM dispositivos_fts
     JOIN dispositivos d ON d.id = dispositivos_fts.rowid
@@ -122,9 +122,10 @@ async function buscarNaNorma(env, q, slug, { soVigentes = true, tipo } = {}) {
   const args = [q, slug];
   if (tipo) { sql += ' AND d.tipo = ?'; args.push(tipo); }
   if (soVigentes) sql += ' AND d.revogado = 0';
-  sql += ' ORDER BY d.ordem LIMIT 1000';
+  sql += ' ORDER BY d.ordem, d.id LIMIT 1000 OFFSET ?';
+  args.push(offset);
   const { results } = await env.DB.prepare(sql).bind(...args).all();
-  return { query: q, slug, total: results.length, resultados: results.map(comLink) };
+  return { query: q, slug, total: results.length, proximo_offset: results.length === 1000 ? offset + results.length : null, resultados: results.map(comLink) };
 }
 
 async function api(request, env, url) {
@@ -138,7 +139,11 @@ async function api(request, env, url) {
     const tipo = url.searchParams.get('tipo') || undefined;
     const slug = url.searchParams.get('slug');
     // ?slug=: dispositivos de uma norma; ?agrupar=norma: uma linha por norma
-    if (slug) return Response.json(await buscarNaNorma(env, q, slug, { soVigentes, tipo }));
+    if (slug) {
+      const offset = Number(url.searchParams.get('offset') || '0');
+      if (!Number.isSafeInteger(offset) || offset < 0) return Response.json({ erro: 'Deslocamento inválido.' }, { status: 400 });
+      return Response.json(await buscarNaNorma(env, q, slug, { soVigentes, tipo, offset }));
+    }
     if (url.searchParams.get('agrupar') === 'norma') {
       return Response.json(await buscarPorNorma(env, q, { limit: Math.min(parseInt(url.searchParams.get('limit') || '100', 10) || 100, 300), soVigentes, tipo }));
     }

@@ -2,27 +2,22 @@ import { useEffect, useRef, useState } from 'react'
 import { Input } from '@/components/ui/input'
 import { Button } from '@/components/ui/button'
 import { Search, X } from 'lucide-react'
+import type { ReactNode } from 'react'
+import RotuloDispositivo from './RotuloDispositivo'
+import { buscarDispositivos, parametrosBusca } from './consulta'
+import type { ConsultaPublicada, Resultado } from './consulta'
 
 // Faixa da consulta no texto dos dispositivos: usa a API do Worker (D1, busca full-text).
 // Só aparece quando a página é servida pelo Worker (há /api); no artefato ou aberta do
 // disco ela some sozinha.
-
-type Resultado = {
-  legislacao_nome: string
-  legislacao_slug: string
-  dispositivo_rotulo: string | null
-  dispositivo_tipo: string | null
-  dispositivo_texto: string | null
-  dispositivo_estrutura: string | null
-  dispositivo_id_html: string | null
-  dispositivo_revogado: number
-}
 
 type PorNorma = Resultado & { ocorrencias: number }
 
 type Props = {
   esferaDe: (slug: string) => string | undefined // undefined: norma fora da biblioteca
   nomeDe: (slug: string) => string | undefined
+  ementaDe: (slug: string) => string | undefined
+  publicarConsulta: (consulta: ConsultaPublicada | null) => void
   abrir: (slug: string, ancora: string) => void
   aberto: { arquivo: string; ancora: string }
   fechar?: () => void
@@ -71,7 +66,7 @@ function destacar(texto: string, q: string) {
   })
   if (!marcas.length) return texto
   marcas.sort((a, b) => a[0] - b[0])
-  const partes: (string | JSX.Element)[] = []
+  const partes: ReactNode[] = []
   let pos = 0
   marcas.forEach(([a, b], k) => {
     if (a < pos) return
@@ -82,7 +77,7 @@ function destacar(texto: string, q: string) {
   return partes
 }
 
-export default function ConsultaSQL({ esferaDe, nomeDe, abrir, aberto, fechar }: Props) {
+export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsulta, abrir, aberto, fechar }: Props) {
   const [q, setQ] = useState('')
   const [feita, setFeita] = useState('')
   const [esfera, setEsfera] = useState('')
@@ -93,56 +88,84 @@ export default function ConsultaSQL({ esferaDe, nomeDe, abrir, aberto, fechar }:
   const [carregando, setCarregando] = useState(false)
   const [abertos, setAbertos] = useState<Record<string, Resultado[] | 'carregando'>>({})
   const campo = useRef<HTMLInputElement>(null)
+  const requisicao = useRef<AbortController | null>(null)
+  const termoConsultado = useRef('')
+  const listas = useRef(new Map<string, AbortController>())
+
+  useEffect(() => () => {
+    requisicao.current?.abort()
+    listas.current.forEach((c) => c.abort())
+  }, [])
 
   useEffect(() => { if (fechar) campo.current?.focus() }, []) // só no painel sobreposto
 
-  const parametros = (termo: string) => ({ q: termo, so_vigentes: String(vigentes), ...(tipo ? { tipo } : {}) })
+  const parametros = (termo: string) => ({ q: termo, soVigentes: vigentes, tipo })
 
   // Uma linha por norma (agrupada no D1): o número de dispositivos em que a busca aparece
   // e o dispositivo mais relevante. Os demais só são buscados ao abrir a lista da norma.
   const buscar = async (e?: React.FormEvent, termo = q.trim()) => {
     e?.preventDefault()
+    requisicao.current?.abort()
+    listas.current.forEach((c) => c.abort())
+    listas.current.clear()
+    publicarConsulta(null)
     if (termo.length < 3) {
+      termoConsultado.current = ''
       setErro('Digite ao menos 3 letras.')
       setRes(null)
+      setCarregando(false)
       return
     }
     setCarregando(true)
+    termoConsultado.current = termo
+    setRes(null)
     setErro('')
     setAbertos({})
+    const controle = new AbortController()
+    requisicao.current = controle
     try {
-      const p = new URLSearchParams({ ...parametros(termo), agrupar: 'norma', limit: '300' })
-      const r = await fetch('/api/buscar?' + p)
+      const p = new URLSearchParams({ ...parametrosBusca(parametros(termo)), agrupar: 'norma', limit: '300' })
+      const r = await fetch('/api/buscar?' + p, { signal: controle.signal })
       const d = await r.json().catch(() => ({ erro: `Erro ${r.status} no servidor.` }))
       if (!r.ok || d.erro) throw new Error(d.erro || `Erro ${r.status} no servidor.`)
+      if (controle.signal.aborted) return
       setRes(d.normas as PorNorma[])
       setFeita(termo)
+      publicarConsulta({ parametros: parametros(termo), slugs: d.normas.map((n: PorNorma) => n.legislacao_slug) })
     } catch (err) {
+      if (controle.signal.aborted) return
       setErro((err as Error).message)
       setRes(null)
     } finally {
-      setCarregando(false)
+      if (!controle.signal.aborted) setCarregando(false)
     }
   }
 
   // tipo de dispositivo e "só vigentes" mudam a contagem: refaz a busca feita
-  useEffect(() => { if (feita) buscar(undefined, feita) }, [tipo, vigentes]) // eslint-disable-line react-hooks/exhaustive-deps
+  useEffect(() => {
+    if (termoConsultado.current) buscar(undefined, termoConsultado.current)
+  }, [tipo, vigentes]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const alternarLista = async (slug: string) => {
     if (abertos[slug]) {
+      listas.current.get(slug)?.abort()
+      listas.current.delete(slug)
       const { [slug]: _, ...resto } = abertos
       setAbertos(resto)
       return
     }
     setAbertos((a) => ({ ...a, [slug]: 'carregando' }))
+    const controle = new AbortController()
+    listas.current.set(slug, controle)
     try {
-      const r = await fetch('/api/buscar?' + new URLSearchParams({ ...parametros(feita), slug }))
-      const d = await r.json()
-      if (!r.ok || d.erro) throw new Error(d.erro)
-      setAbertos((a) => ({ ...a, [slug]: d.resultados as Resultado[] }))
+      const itens = await buscarDispositivos(parametros(feita), slug, controle.signal)
+      if (!controle.signal.aborted) setAbertos((a) => ({ ...a, [slug]: itens }))
     } catch {
+      if (controle.signal.aborted) return
       setAbertos((a) => { const { [slug]: _, ...resto } = a; return resto })
       setErro('Não foi possível listar os dispositivos dessa norma.')
+    } finally {
+      if (listas.current.get(slug) === controle) listas.current.delete(slug)
     }
   }
 
@@ -187,7 +210,7 @@ export default function ConsultaSQL({ esferaDe, nomeDe, abrir, aberto, fechar }:
                 className={`block w-full rounded px-2 py-1 text-left transition-colors ${ativoEm(x) ? 'bg-accent' : 'hover:bg-muted'}`}
               >
                 <span className="flex flex-wrap items-center gap-1.5 text-xs">
-                  <span className="font-medium text-primary">{x.dispositivo_rotulo}</span>
+                  <span className="font-medium text-primary"><RotuloDispositivo rotulo={x.dispositivo_rotulo} /></span>
                   {revogado(x)}
                 </span>
                 {g.length === 1 && x.dispositivo_texto && (
@@ -219,7 +242,7 @@ export default function ConsultaSQL({ esferaDe, nomeDe, abrir, aberto, fechar }:
             </button>
           )}
         </div>
-        <form onSubmit={buscar} className="flex gap-1.5" role="search">
+        <form noValidate onSubmit={buscar} className="flex gap-1.5" role="search">
           <div className="relative flex-1">
             <Search className="pointer-events-none absolute left-2.5 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
             <Input
@@ -229,8 +252,17 @@ export default function ConsultaSQL({ esferaDe, nomeDe, abrir, aberto, fechar }:
               onChange={(e) => setQ(e.target.value)}
               placeholder="Ex.: outorga AND captação"
               aria-label="Texto a buscar nos dispositivos"
-              className="h-9 bg-card pl-8 text-base md:text-sm"
+              className="h-9 bg-card pl-8 pr-8 text-base md:text-sm"
             />
+            {q && <button type="button" aria-label="Limpar consulta no texto" onClick={() => {
+              requisicao.current?.abort()
+              listas.current.forEach((c) => c.abort())
+              listas.current.clear()
+              termoConsultado.current = ''
+              setQ(''); setFeita(''); setRes(null); setAbertos({}); setErro(''); setCarregando(false)
+              publicarConsulta(null)
+              campo.current?.focus()
+            }} className="absolute right-2 top-1/2 -translate-y-1/2 rounded p-1 text-muted-foreground hover:text-foreground"><X className="h-4 w-4" /></button>}
           </div>
           <Button type="submit" size="sm" className="h-9" disabled={carregando}>
             {carregando ? 'Buscando…' : 'Buscar'}
@@ -290,27 +322,16 @@ export default function ConsultaSQL({ esferaDe, nomeDe, abrir, aberto, fechar }:
                       {r.ocorrencias} {r.ocorrencias === 1 ? 'ocorrência' : 'ocorrências'}
                     </span>
                   </div>
-                  <div className="mt-0.5 flex flex-wrap items-center gap-1.5 text-xs">
-                    {r.dispositivo_rotulo && <span className="font-medium text-primary">{r.dispositivo_rotulo}</span>}
-                    {revogado(r)}
-                  </div>
-                  {r.dispositivo_texto && (
-                    <p className="mt-1 line-clamp-3 text-[13px] leading-snug text-foreground/85">{destacar(r.dispositivo_texto, feita)}</p>
-                  )}
-                  {r.dispositivo_estrutura && (
-                    <p className="mt-1 truncate text-[11px] text-muted-foreground" title={r.dispositivo_estrutura}>
-                      {nivel(r.dispositivo_estrutura)}
-                    </p>
-                  )}
+                  <p className="mt-1 text-[13px] leading-snug text-muted-foreground">{ementaDe(r.legislacao_slug) || r.legislacao_ementa || 'Súmula não informada.'}</p>
                 </button>
-                {r.ocorrencias > 1 && (
+                {r.ocorrencias > 0 && (
                   <div className="px-4 pb-2">
                     <button
                       onClick={() => alternarLista(r.legislacao_slug)}
                       aria-expanded={!!lista}
                       className="text-xs font-medium text-primary underline-offset-2 hover:underline"
                     >
-                      {lista === 'carregando' ? 'Carregando…' : lista ? 'Ocultar a lista' : `Ver os ${r.ocorrencias} dispositivos`}
+                      {lista === 'carregando' ? 'Carregando…' : lista ? 'Ocultar a lista' : r.ocorrencias === 1 ? 'Ver o dispositivo' : `Ver os ${r.ocorrencias} dispositivos`}
                     </button>
                     {lista && lista !== 'carregando' && listaDaNorma(lista)}
                   </div>

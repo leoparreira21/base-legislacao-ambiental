@@ -783,7 +783,7 @@ JS = """
   }
   document.addEventListener('toggle',function(e){
     var d=e.target; if(!d.tagName||d.tagName!=='DETAILS'||!d.open) return;
-    if(d.classList.contains('art')) nivel(d,-1);
+    if(d.classList.contains('art')&&!document.documentElement.dataset.localizarOcorrencias) nivel(d,-1);
     if(!pendentes.length) requestAnimationFrame(reajustar);
     pendentes.push(d);
   },true);

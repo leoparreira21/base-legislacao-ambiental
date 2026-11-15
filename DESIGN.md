@@ -30,6 +30,20 @@ omitted:
 ---
 # Observatório ambiental
 
+## Biblioteca de normas (superfície independente)
+
+A biblioteca publicada no Worker tem identidade própria, preservada conforme as imagens
+fornecidas pelo usuário: leitura clara com Georgia nos títulos e fontes do sistema nos
+controles, com variante escura conforme a preferência do sistema. Os tokens canônicos
+estão em `biblioteca/src/index.css` (fundo HSL 45 33% 98%, ação HSL 204 65% 33%) e os
+documentos em `scripts/gerar_html.py` (fundo #fbfaf7, ação #1d5f8a, destaque #fff3c4).
+As regras noturnas do Observatório abaixo pertencem à busca e ao assistente, não a esta biblioteca.
+
+Os resultados da consulta exibem súmula e contagem; os trechos são revelados por norma.
+O localizador fica acima do documento, dentro da coluna do leitor, com controles que
+quebram em linhas no celular. Usa os botões compartilhados, destaque do documento e
+contorno para a ocorrência atual; a posição também é informada por contador textual.
+
 ## Overview
 Ferramenta de consulta técnica para profissionais de licenciamento ambiental no Paraná. A direção aprovada em 20/10/2026 é ambiental e futurista: superfícies de floresta noturna, linhas topográficas e três ambientes cromáticos. A expressão visual aparece no cabeçalho e na navegação; a leitura dos dispositivos permanece sóbria. Não se apresenta como parecer definitivo nem usa porcentagens artificiais de confiança.
 
