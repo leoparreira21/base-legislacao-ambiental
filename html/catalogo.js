@@ -6640,6 +6640,20 @@ window.CATALOGO_NORMAS = [
 }
 },
 {
+"arquivo": "resolucao-cema-100-2017",
+"norma": "Resolução CEMA nº 100/2017",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2017,
+"ementa": "Estabelece critérios para o cadastramento de Laboratórios de Ensaios Ambientais e de equipamentos para medições ambientais e revoga a Resolução CEMA nº 095/2014.",
+"situacao": "vigente",
+"apelidos": [],
+"temas": {
+"laboratorio": ""
+}
+},
+{
 "arquivo": "resolucao-cema-107-2020",
 "norma": "Resolução CEMA nº 107/2020",
 "tipo": "resolucao",
@@ -7085,6 +7099,28 @@ window.CATALOGO_NORMAS = [
 }
 },
 {
+"arquivo": "resolucao-cema-90-2013",
+"norma": "Resolução CEMA nº 90/2013",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2013,
+"ementa": "Estabelece condições, critérios e dá outras providências, para empreendimentos de compostagem de resíduos sólidos de origem urbana e de grandes geradores e para o uso do composto gerado.",
+"situacao": "revogada",
+"apelidos": [],
+"temas": {
+"compostagem": "",
+"residuo-solido-urbano": "",
+"grande-gerador": "",
+"uso-agricola": "",
+"fertilizante": "",
+"lixiviado": "",
+"licenciamento-ambiental": "",
+"licenciamento-monofasico": "",
+"automonitoramento": ""
+}
+},
+{
 "arquivo": "resolucao-cema-94-2014",
 "norma": "Resolução CEMA nº 94/2014",
 "tipo": "resolucao",
@@ -7239,6 +7275,28 @@ window.CATALOGO_NORMAS = [
 "orgao": "Conselho Estadual de Recursos Hídricos – CERH/PR",
 "ano": 2026,
 "ementa": "Aprova o reenquadramento dos corpos de água superficiais na área de abrangência do Comitê da Bacia Hidrográfica do Paraná 3, em classes, de acordo com os usos preponderantes.",
+"arquivo": "resolucao-cerh-18-2021",
+"norma": "Resolução CERH/PR nº 18/2021",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual de Recursos Hídricos – CERH/PR",
+"ano": 2021,
+"ementa": "Aprova o enquadramento dos corpos de água superficiais na área de abrangência do Comitê da Bacia Piraponema, em classes, de acordo com os usos preponderantes.",
+"situacao": "vigente",
+"apelidos": [],
+"temas": {
+"classificacao-corpo-agua": "",
+"bacia-pirapo": ""
+}
+},
+{
+"arquivo": "resolucao-cerh-49-2006",
+"norma": "Resolução CERH/PR nº 49/2006",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual de Recursos Hídricos – CERH/PR",
+"ano": 2006,
+"ementa": "Dispõe sobre a instituição de Regiões Hidrográficas, Bacias Hidrográficas e Unidades Hidrográficas de Gerenciamento de Recursos Hídricos do Estado do Paraná",
 "situacao": "vigente",
 "apelidos": [],
 "temas": {
@@ -7246,6 +7304,7 @@ window.CATALOGO_NORMAS = [
 "classificacao-corpo-agua": "",
 "corpo-hidrico": "",
 "anexo-pendente": "anexo1_lin1"
+"recurso-hidrico": ""
 }
 },
 {

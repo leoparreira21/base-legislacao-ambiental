@@ -891,5 +891,7 @@
   "resolucao-cerh-43-2026": ["enquadramento de corpos de agua", "bacia do parana 3", "classe de corpo hidrico", "reenquadramento"],
   "lei-federal-6766-1979": ["parcelamento do solo", "loteamento", "desmembramento", "empreendimento imobiliario", "condominio de lotes"],
   "lei-federal-6496-1977": ["anotacao de responsabilidade tecnica", "art", "responsavel tecnico", "crea"]
+  "resolucao-cema-90-2013": ["compostagem", "composto organico", "usina de compostagem", "residuo solido urbano compostavel", "grande gerador"],
+  "resolucao-cema-100-2017": ["laboratorio ambiental", "cadastro de laboratorio", "ensaio ambiental", "ccl", "medicao ambiental"]
  }
 }
