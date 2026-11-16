@@ -886,6 +886,11 @@
   "resolucao-cema-89-2013": ["empreendimento rodoviario", "rodovia", "obra rodoviaria", "duplicacao de rodovia", "utilidade publica"],
   "resolucao-cema-94-2014": ["aterro sanitario", "residuo solido urbano", "chorume", "disposicao final de residuo", "encerramento de aterro"],
   "resolucao-cema-109-2021": ["gerenciamento de residuos solidos", "residuo solido", "uso agricola de residuo", "armazenamento temporario de residuo", "queima de residuo em caldeira"],
+  "resolucao-cema-72-2009": ["abatedouro", "laticinio", "empreendimento industrial de pequeno porte", "licenciamento simplificado industrial", "fornos para producao de carvao"],
+  "resolucao-cerh-42-2026": ["enquadramento de corpos de agua", "bacia do parana 3", "classe de corpo hidrico", "reenquadramento"],
+  "resolucao-cerh-43-2026": ["enquadramento de corpos de agua", "bacia do parana 3", "classe de corpo hidrico", "reenquadramento"],
+  "lei-federal-6766-1979": ["parcelamento do solo", "loteamento", "desmembramento", "empreendimento imobiliario", "condominio de lotes"],
+  "lei-federal-6496-1977": ["anotacao de responsabilidade tecnica", "art", "responsavel tecnico", "crea"]
   "resolucao-cema-90-2013": ["compostagem", "composto organico", "usina de compostagem", "residuo solido urbano compostavel", "grande gerador"],
   "resolucao-cema-100-2017": ["laboratorio ambiental", "cadastro de laboratorio", "ensaio ambiental", "ccl", "medicao ambiental"]
  }
