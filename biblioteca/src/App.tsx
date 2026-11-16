@@ -7,6 +7,7 @@ import MapaTemas from './MapaTemas'
 import ConsultaSQL, { apiDisponivel } from './ConsultaSQL'
 import LocalizadorOcorrencias from './LocalizadorOcorrencias'
 import type { ConsultaPublicada } from './consulta'
+import logo from 'data-url:./assets/amblegis-logo.jpeg'
 
 type Norma = {
   arquivo: string
@@ -306,7 +307,8 @@ export default function App() {
         onScroll={aoRolarLista}
         className={`${atual ? 'hidden md:flex' : 'flex'} min-h-0 flex-1 flex-col overflow-y-auto border-r md:w-[400px] md:flex-none md:overflow-hidden lg:w-[440px]`}
       >
-        <header className="space-y-3 border-b px-4 pb-3 pt-4">
+        <header className="brand-header space-y-3 border-b px-4 pb-3 pt-3">
+          <img className="brand-logo" src={logo} width="200" height="158" alt="AmbLegis Database — Legislação Ambiental · Paraná" />
           <div className="flex items-baseline justify-between gap-2">
             <h1 className="serif text-xl font-bold leading-tight">Biblioteca de normas</h1>
             <span className="text-xs tabular-nums text-muted-foreground">
@@ -499,6 +501,7 @@ export default function App() {
         ) : (
           <div className="flex flex-1 items-center px-10">
             <div className="max-w-md space-y-3">
+              <div className="brand-rule" aria-hidden="true" />
               <p className="serif text-2xl font-bold leading-snug">Escolha uma norma na lista para ler o texto aqui.</p>
               <p className="text-sm leading-relaxed text-muted-foreground">
                 Cada documento abre com os dispositivos recolhidos: use <strong>Expandir tudo</strong> no topo dele
@@ -514,7 +517,7 @@ export default function App() {
       {api && normas && (
         <aside
           aria-label="Consulta no texto"
-          className={`${painel ? 'fixed inset-0 z-30 flex md:left-auto md:w-[400px] md:shadow-2xl' : 'hidden'} min-h-0 flex-col border-l bg-background xl:static xl:z-auto xl:flex xl:w-[360px] xl:flex-none xl:shadow-none 2xl:w-[400px]`}
+          className={`consulta-panel ${painel ? 'fixed inset-0 z-30 flex md:left-auto md:w-[400px] md:shadow-2xl' : 'hidden'} min-h-0 flex-col border-l bg-background xl:static xl:z-auto xl:flex xl:w-[360px] xl:flex-none xl:shadow-none 2xl:w-[400px]`}
         >
           <ConsultaSQL
             esferaDe={(s) => normas.find((n) => n.arquivo === s)?.esfera}

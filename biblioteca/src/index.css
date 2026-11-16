@@ -4,81 +4,113 @@
 
 @layer base {
   :root {
-    --background: 45 33% 98%;
-    --foreground: 210 13% 14%;
+    color-scheme: light;
+    --brand-navy: #143154;
+    --brand-forest: #155442;
+    --brand-green: #179B38;
+    --brand-lime: #79AF22;
+    --brand-teal: #258BA3;
+    --brand-gold: #C6A556;
+    --brand-mist: #C6D5DE;
+    --brand-white: #F6F7F5;
+    --background: 90 11% 96.5%;
+    --foreground: 213 62% 20.4%;
     --card: 0 0% 100%;
-    --card-foreground: 210 13% 14%;
+    --card-foreground: var(--foreground);
     --popover: 0 0% 100%;
-    --popover-foreground: 210 13% 14%;
-    --primary: 204 65% 33%;
-    --primary-foreground: 45 33% 98%;
-    --secondary: 44 20% 93%;
-    --secondary-foreground: 210 13% 14%;
-    --muted: 44 20% 93%;
-    --muted-foreground: 215 5% 42%;
-    --accent: 205 50% 94%;
-    --accent-foreground: 204 65% 28%;
+    --popover-foreground: var(--foreground);
+    --primary: 163 60% 20.6%;
+    --primary-foreground: 90 11% 96.5%;
+    --secondary: 202 27% 91%;
+    --secondary-foreground: var(--foreground);
+    --muted: 202 27% 93%;
+    --muted-foreground: 197 19% 34%;
+    --accent: 135 35% 93%;
+    --accent-foreground: var(--primary);
     --destructive: 0 52% 42%;
     --destructive-foreground: 0 0% 100%;
-    --border: 44 16% 85%;
-    --input: 44 16% 80%;
-    --ring: 204 65% 33%;
+    --border: 202 27% 82.4%;
+    --input: 202 20% 62%;
+    --ring: 191 63% 30%;
     --radius: 0.375rem;
+    --scrollbar: #7797A5;
+    --scrollbar-hover: #155442;
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
       color-scheme: dark;
-      --background: 216 10% 10%;
-      --foreground: 60 3% 89%;
-      --card: 216 10% 13%;
-      --card-foreground: 60 3% 89%;
-      --popover: 216 10% 13%;
-      --popover-foreground: 60 3% 89%;
-      --primary: 204 61% 68%;
-      --primary-foreground: 216 10% 10%;
-      --secondary: 216 9% 17%;
-      --secondary-foreground: 60 3% 89%;
-      --muted: 216 9% 17%;
-      --muted-foreground: 210 6% 63%;
-      --accent: 206 31% 16%;
-      --accent-foreground: 204 61% 72%;
-      --destructive: 0 55% 60%;
-      --destructive-foreground: 216 10% 10%;
-      --border: 216 9% 21%;
-      --input: 216 9% 26%;
-      --ring: 204 61% 68%;
+      --background: 212 62% 13.5%;
+      --foreground: 90 11% 96.5%;
+      --card: 213 62% 20.4%;
+      --popover: var(--card);
+      --primary: 83 67% 41%;
+      --primary-foreground: 213 62% 15%;
+      --secondary: 207 38% 25%;
+      --muted: 207 38% 25%;
+      --muted-foreground: 202 27% 82.4%;
+      --accent: 163 48% 20%;
+      --accent-foreground: 83 67% 65%;
+      --destructive: 0 65% 72%;
+      --destructive-foreground: 213 62% 15%;
+      --border: 202 25% 39%;
+      --input: 202 25% 50%;
+      --ring: 191 60% 67%;
+      --scrollbar-hover: #C6D5DE;
     }
   }
   :root[data-theme="dark"] {
-      color-scheme: dark;
-      --background: 216 10% 10%;
-      --foreground: 60 3% 89%;
-      --card: 216 10% 13%;
-      --card-foreground: 60 3% 89%;
-      --popover: 216 10% 13%;
-      --popover-foreground: 60 3% 89%;
-      --primary: 204 61% 68%;
-      --primary-foreground: 216 10% 10%;
-      --secondary: 216 9% 17%;
-      --secondary-foreground: 60 3% 89%;
-      --muted: 216 9% 17%;
-      --muted-foreground: 210 6% 63%;
-      --accent: 206 31% 16%;
-      --accent-foreground: 204 61% 72%;
-      --destructive: 0 55% 60%;
-      --destructive-foreground: 216 10% 10%;
-      --border: 216 9% 21%;
-      --input: 216 9% 26%;
-      --ring: 204 61% 68%;
+    color-scheme: dark;
+    --background: 212 62% 13.5%;
+    --foreground: 90 11% 96.5%;
+    --card: 213 62% 20.4%;
+    --popover: var(--card);
+    --primary: 83 67% 41%;
+    --primary-foreground: 213 62% 15%;
+    --secondary: 207 38% 25%;
+    --muted: 207 38% 25%;
+    --muted-foreground: 202 27% 82.4%;
+    --accent: 163 48% 20%;
+    --accent-foreground: 83 67% 65%;
+    --destructive: 0 65% 72%;
+    --destructive-foreground: 213 62% 15%;
+    --border: 202 25% 39%;
+    --input: 202 25% 50%;
+    --ring: 191 60% 67%;
+    --scrollbar-hover: #C6D5DE;
   }
-}
-
-@layer base {
-  * { @apply border-border; }
+  * { @apply border-border; scrollbar-width: thin; scrollbar-color: var(--scrollbar) transparent; }
+  *::-webkit-scrollbar { width: 10px; height: 10px; }
+  *::-webkit-scrollbar-track { background: transparent; }
+  *::-webkit-scrollbar-thumb { background: var(--scrollbar); border: 2px solid hsl(var(--background)); border-radius: 6px; }
+  *::-webkit-scrollbar-thumb:hover, *::-webkit-scrollbar-thumb:active { background: var(--scrollbar-hover); }
   html, body, #root { height: 100%; }
   body {
     @apply bg-background text-foreground;
     font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   }
   .serif { font-family: Georgia, "Times New Roman", serif; }
+  button:not(:disabled), a, summary { cursor: pointer; }
+  :focus-visible { outline: 2px solid hsl(var(--ring)); outline-offset: 3px; }
+  .brand-header { border-top: 4px solid var(--brand-green); }
+  .brand-logo {
+    display: block;
+    width: 200px;
+    height: 158px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: var(--radius);
+    background: var(--brand-white);
+  }
+  .brand-rule { width: 64px; height: 4px; border-radius: 2px; background: var(--brand-gold); }
+  .brand-highlight { background: var(--brand-gold); color: var(--brand-navy); }
+  .consulta-panel { border-top: 4px solid var(--brand-teal); }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { scroll-behavior: auto !important; transition-duration: 0s !important; animation-duration: 0s !important; }
+  }
+  @media (forced-colors: active) {
+    * { scrollbar-color: auto; }
+    :focus-visible { outline-color: Highlight; }
+    .brand-header, .consulta-panel { border-top-color: CanvasText; }
+    .brand-rule { background: CanvasText; }
+  }
 }

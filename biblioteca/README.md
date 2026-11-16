@@ -17,6 +17,19 @@ pnpm exec html-inline dist/index.html > ../site/biblioteca.html
 
 (O empacotamento usado foi o `bundle-artifact.sh` da habilidade web-artifacts-builder, que faz os mesmos passos.)
 
+A identidade oficial AmbLegis está nos tokens `--brand-*` de `src/index.css`. A logo
+original fica em `src/assets/amblegis-logo.jpeg` e é incorporada no HTML pelo import
+`data-url:` do Parcel, sem depender de um arquivo remoto. As páginas do leitor usam
+a mesma paleta no CSS de `scripts/gerar_html.py`. Os temas acompanham a preferência
+do sistema; o fundo original da logo é preservado em ambos.
+
+No Windows, com as dependências já instaladas, os comandos diretos equivalentes são:
+
+```powershell
+node node_modules/parcel/lib/bin.js build index.html --dist-dir dist --no-source-maps --no-autoinstall
+node node_modules/html-inline/bin/cmd.js dist/index.html > ../site/biblioteca.html
+```
+
 Onde abrir:
 - publicada no Cloudflare (`biblioteca-legislacao-ambiental`): o `scripts/montar_biblioteca.py` copia a página, gera `html/` e as imagens dos anexos;
 - no repositório: abrir `site/biblioteca.html` direto no navegador (procura `../html/`).

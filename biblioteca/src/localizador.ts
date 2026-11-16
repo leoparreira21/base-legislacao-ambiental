@@ -6,7 +6,8 @@ export function marcarOcorrencias(doc: Document, ids: string[]) {
   const estilo = doc.createElement('style')
   estilo.textContent = `
     .ocorrencia-consulta:not(details), details.ocorrencia-consulta > summary,
-    details.ocorrencia-consulta > .corpo > .texto { background: var(--marca); }
+    details.ocorrencia-consulta > .corpo > .texto { background: var(--marca); color: var(--marca-texto); }
+    .ocorrencia-consulta > summary a, .ocorrencia-consulta > .corpo > .texto a { color: var(--marca-texto); }
     .ocorrencia-consulta-atual:not(details), details.ocorrencia-consulta-atual > summary {
       outline: 2px solid var(--realce); outline-offset: 2px; border-radius: 3px;
     }

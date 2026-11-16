@@ -70,7 +70,7 @@ function destacar(texto: string, q: string) {
   let pos = 0
   marcas.forEach(([a, b], k) => {
     if (a < pos) return
-    partes.push(texto.slice(pos, a), <mark key={k} className="rounded-sm bg-accent text-accent-foreground">{texto.slice(a, b)}</mark>)
+    partes.push(texto.slice(pos, a), <mark key={k} className="brand-highlight rounded-sm">{texto.slice(a, b)}</mark>)
     pos = b
   })
   partes.push(texto.slice(pos))

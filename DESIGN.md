@@ -32,11 +32,31 @@ omitted:
 
 ## Biblioteca de normas (superfície independente)
 
-A biblioteca publicada no Worker tem identidade própria, preservada conforme as imagens
-fornecidas pelo usuário: leitura clara com Georgia nos títulos e fontes do sistema nos
-controles, com variante escura conforme a preferência do sistema. Os tokens canônicos
-estão em `biblioteca/src/index.css` (fundo HSL 45 33% 98%, ação HSL 204 65% 33%) e os
-documentos em `scripts/gerar_html.py` (fundo #fbfaf7, ação #1d5f8a, destaque #fff3c4).
+A biblioteca publicada no Worker usa a identidade AmbLegis Database, aprovada pelo usuário
+em 15/11/2026 a partir da logo e da paleta Color Designer. Mantém Georgia nos títulos e
+fontes do sistema nos controles, com variante escura conforme a preferência do sistema.
+Os tokens canônicos estão em `biblioteca/src/index.css` (`--brand-*` e tokens semânticos);
+as páginas de leitura em `scripts/gerar_html.py` espelham essa identidade.
+
+| Papel | Cor oficial | Uso |
+|---|---|---|
+| Azul institucional | #143154 | Texto principal e superfícies escuras |
+| Verde araucária | #155442 | Ações com texto claro, links e títulos dos dispositivos |
+| Verde ambiental | #179B38 | Faixa da marca |
+| Verde-lima | #79AF22 | Ações na variante escura |
+| Azul-petróleo | #258BA3 | Faixa da consulta no texto |
+| Dourado | #C6A556 | Destaques com texto azul institucional |
+| Cinza azulado | #C6D5DE | Bordas claras e texto secundário escuro |
+| Branco suave | #F6F7F5 | Fundo claro e texto na variante escura |
+
+As variações de superfície e texto secundário derivam dessa paleta para manter contraste.
+Ações claras usam verde araucária; o verde ambiental fica nos detalhes, pois texto branco
+pequeno sobre ele não oferece contraste suficiente. A logo oficial é o JPEG original em
+`biblioteca/src/assets/amblegis-logo.jpeg`, incorporado no HTML; a apresentação corta apenas
+margens vazias, preservando símbolo, nome e assinatura. No tema escuro mantém o fundo
+original da imagem. A faixa verde identifica o catálogo e a azul identifica a consulta.
+Scrollbars e foco usam os tokens compartilhados; alto contraste e redução de movimento
+respeitam as preferências do sistema.
 As regras noturnas do Observatório abaixo pertencem à busca e ao assistente, não a esta biblioteca.
 
 Os resultados da consulta exibem súmula e contagem; os trechos são revelados por norma.
