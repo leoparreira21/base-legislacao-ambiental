@@ -5305,6 +5305,50 @@ window.CATALOGO_NORMAS = [
 }
 },
 {
+"arquivo": "lei-federal-6496-1977",
+"norma": "Lei Federal nº 6.496/1977",
+"tipo": "lei",
+"esfera": "federal",
+"orgao": "Presidência da República",
+"ano": 1977,
+"ementa": "Institui a \\\"Anotação de Responsabilidade Técnica\\\" na prestação de serviços de engenharia, de arquitetura e agronomia; autoriza a criação, pelo Conselho Federal de Engenharia, Arquitetura e Agronomia - CONFEA, de uma Mútua de Assistência Profissional; e dá outras providências.",
+"situacao": "vigente",
+"apelidos": [],
+"temas": {
+"fiscalizacao": "",
+"obra-engenharia": "",
+"projeto-engenharia": "",
+"responsavel-tecnico": "",
+"sancao": ""
+}
+},
+{
+"arquivo": "lei-federal-6766-1979",
+"norma": "Lei Federal nº 6.766/1979",
+"tipo": "lei",
+"esfera": "federal",
+"orgao": "Presidência da República",
+"ano": 1979,
+"ementa": "Dispõe sobre o Parcelamento do Solo Urbano e dá outras Providências.",
+"situacao": "vigente",
+"apelidos": [],
+"temas": {
+"abastecimento": "",
+"app": "",
+"area-urbana": "",
+"area-verde": "",
+"desmembramento": "",
+"esgotamento-sanitario": "",
+"expansao-urbana": "",
+"loteamento": "",
+"parcelamento-solo": "",
+"regularizacao-fundiaria": "",
+"sistema-drenagem": "",
+"incluido": "art2_par3",
+"redacao-alterada": "art2_par5"
+}
+},
+{
 "arquivo": "lei-federal-6938-1981",
 "norma": "Lei Federal nº 6.938/1981",
 "tipo": "lei",
@@ -6859,6 +6903,44 @@ window.CATALOGO_NORMAS = [
 }
 },
 {
+"arquivo": "resolucao-cema-65-2008",
+"norma": "Resolução CEMA nº 65/2008",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2008,
+"ementa": "Dispõe sobre o licenciamento ambiental, estabelece critérios e procedimentos a serem adotados para as atividades poluidoras, degradadoras e/ou modificadoras do meio ambiente e adota outras providências.",
+"situacao": "revogada",
+"apelidos": [],
+"temas": {
+"autorizacao-ambiental": "",
+"certidao-municipal": "",
+"empreendimento-imobiliario": "",
+"encerramento": "",
+"estudo-impacto-ambiental": "",
+"licenca-instalacao": "",
+"licenca-operacao": "",
+"licenca-previa": "",
+"licenciamento-ambiental": "",
+"licenciamento-monofasico": "",
+"tac": "",
+"taxa-ambiental": "",
+"meio ambiente": "art1_cpt_inc1",
+"poluição": "art1_cpt_inc2",
+"poluidor": "art1_cpt_inc3",
+"recursos ambientais": "art1_cpt_inc4",
+"fonte de poluição": "art1_cpt_inc5",
+"licenciamento ambiental": "art1_cpt_inc6",
+"estudos ambientais": "art1_cpt_inc7",
+"licença ambiental": "art1_cpt_inc8",
+"autorização ambiental ou florestal": "art1_cpt_inc9",
+"cadastro de usuário ambiental": "art1_cpt_inc10",
+"atividade industrial": "art1_cpt_inc11",
+"termo de compromisso": "art1_cpt_inc12",
+"termo de ajustamento de conduta": "art1_cpt_inc13"
+}
+},
+{
 "arquivo": "resolucao-cema-7-2001",
 "norma": "Resolução CEMA nº 7/2001",
 "tipo": "resolucao",
@@ -6878,6 +6960,29 @@ window.CATALOGO_NORMAS = [
 "refinaria": "",
 "renovacao": "",
 "terminal": ""
+}
+},
+{
+"arquivo": "resolucao-cema-72-2009",
+"norma": "Resolução CEMA nº 72/2009",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2009,
+"ementa": "Re-ratificação da Resolução CEMA nº. 070/2009, que dispõe sobre o licenciamento ambiental para Empreendimentos Industriais, haja vista revisão do texto de alguns dos artigos da referida norma.",
+"situacao": "vigente",
+"apelidos": [],
+"temas": {
+"carvao-vegetal": "",
+"industria": "",
+"industria-alimenticia": "",
+"laticinio": "",
+"licenca-instalacao": "",
+"licenca-operacao": "",
+"licenca-previa": "",
+"licenciamento-monofasico": "",
+"regularizacao": "",
+"reserva-legal": ""
 }
 },
 {
@@ -7107,6 +7212,40 @@ window.CATALOGO_NORMAS = [
 "reuso urbano irrestrito": "art2_cpt_inc19",
 "reuso urbano restrito": "art2_cpt_inc20",
 "usuário de água de reuso": "art2_cpt_inc21"
+}
+},
+{
+"arquivo": "resolucao-cerh-42-2026",
+"norma": "Resolução CERH nº 42/2026",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual de Recursos Hídricos – CERH/PR",
+"ano": 2026,
+"ementa": "Aprova o enquadramento dos corpos de água superficiais na área de abrangência do Comitê da Bacia do Paraná 3, em classes, de acordo com os usos preponderantes.",
+"situacao": "vigente",
+"apelidos": [],
+"temas": {
+"bacia-hidrografica": "",
+"classificacao-corpo-agua": "",
+"corpo-hidrico": "",
+"anexo-pendente": "anexo1_lin1"
+}
+},
+{
+"arquivo": "resolucao-cerh-43-2026",
+"norma": "Resolução CERH nº 43/2026",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual de Recursos Hídricos – CERH/PR",
+"ano": 2026,
+"ementa": "Aprova o reenquadramento dos corpos de água superficiais na área de abrangência do Comitê da Bacia Hidrográfica do Paraná 3, em classes, de acordo com os usos preponderantes.",
+"situacao": "vigente",
+"apelidos": [],
+"temas": {
+"bacia-hidrografica": "",
+"classificacao-corpo-agua": "",
+"corpo-hidrico": "",
+"anexo-pendente": "anexo1_lin1"
 }
 },
 {

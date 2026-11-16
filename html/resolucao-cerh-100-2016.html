@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Resolução CERH/PR nº 100, de 17 de agosto de 2016</title>
 <style>
-:root{--fundo:#fbfaf7;--texto:#1f2328;--suave:#6a6f76;--linha:#e3e0d8;--realce:#1d5f8a;--realce-fundo:#e8f1f7;--revogado:#9a9a9a;--marca:#fff3c4}
-@media (prefers-color-scheme:dark){:root{--fundo:#16181b;--texto:#e4e4e2;--suave:#9aa0a6;--linha:#30343a;--realce:#7cb8e0;--realce-fundo:#1c2a35;--revogado:#777;--marca:#4a4120}}
+:root{color-scheme:light;--fundo:#F6F7F5;--texto:#143154;--suave:#466570;--linha:#C6D5DE;--realce:#155442;--realce-fundo:#E7F3EA;--revogado:#626F78;--marca:#C6A556;--marca-texto:#143154;--scrollbar:#7797A5}
+@media (prefers-color-scheme:dark){:root{color-scheme:dark;--fundo:#0D2238;--texto:#F6F7F5;--suave:#C6D5DE;--linha:#4B6A7C;--realce:#A6D36A;--realce-fundo:#1B4B3E;--revogado:#A7B9C4}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--fundo);color:var(--texto);font:16px/1.6 Georgia,"Times New Roman",serif}
 main{max-width:860px;margin:0 auto;padding:24px 16px 80px}
@@ -53,7 +53,15 @@ tr.revogado td{color:var(--revogado);text-decoration:line-through}
 td.alvo,tr.alvo td{background:var(--marca)}
 img{max-width:100%;height:auto}
 code{font-size:.85em}
-.alvo{background:var(--marca);border-radius:4px}
+.alvo{background:var(--marca);color:var(--marca-texto);border-radius:4px}
+.alvo summary,.alvo a,.alvo .texto,.alvo del{color:var(--marca-texto)}
+*{scrollbar-width:thin;scrollbar-color:var(--scrollbar) transparent}
+*::-webkit-scrollbar{width:10px;height:10px}
+*::-webkit-scrollbar-thumb{background:var(--scrollbar);border:2px solid var(--fundo);border-radius:6px}
+*::-webkit-scrollbar-thumb:hover{background:var(--suave)}
+:focus-visible{outline:2px solid var(--realce);outline-offset:3px}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:0s!important}}
+@media(forced-colors:active){*{scrollbar-color:auto}.alvo{background:Highlight;color:HighlightText}.alvo summary,.alvo a,.alvo .texto,.alvo del{color:HighlightText}}
 .niveis{display:flex;flex-wrap:wrap;gap:4px;align-items:center;margin:4px 0 8px;font:.78rem system-ui,sans-serif;color:var(--suave)}
 .niveis span{margin-right:2px}
 .niveis button{font:inherit;padding:2px 8px;border-radius:10px;border:1px solid var(--linha);background:transparent;color:var(--suave);cursor:pointer}
