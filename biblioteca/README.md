@@ -18,10 +18,14 @@ pnpm exec html-inline dist/index.html > ../site/biblioteca.html
 (O empacotamento usado foi o `bundle-artifact.sh` da habilidade web-artifacts-builder, que faz os mesmos passos.)
 
 A identidade oficial AmbLegis está nos tokens `--brand-*` de `src/index.css`. A logo
-original fica em `src/assets/amblegis-logo.jpeg` e é incorporada no HTML pelo import
+em uso fica em `src/assets/amblegis-logo-512.png` (512×512, RGBA com transparência real)
+e é incorporada no HTML pelo import
 `data-url:` do Parcel, sem depender de um arquivo remoto. As páginas do leitor usam
 a mesma paleta no CSS de `scripts/gerar_html.py`. Os temas acompanham a preferência
-do sistema; o fundo original da logo é preservado em ambos.
+do sistema. A logo aparece inteira a 64×64 ao lado do título, sem fundo opaco ou bloco
+exclusivo acima dos filtros; o JPEG anterior permanece como fonte histórica.
+No tema escuro, um filtro CSS usa a apresentação monocromática branca, preservando
+o arquivo colorido e garantindo que os detalhes não sumam sobre o fundo azul.
 
 No Windows, com as dependências já instaladas, os comandos diretos equivalentes são:
 

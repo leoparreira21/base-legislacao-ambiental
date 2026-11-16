@@ -51,10 +51,15 @@ as páginas de leitura em `scripts/gerar_html.py` espelham essa identidade.
 
 As variações de superfície e texto secundário derivam dessa paleta para manter contraste.
 Ações claras usam verde araucária; o verde ambiental fica nos detalhes, pois texto branco
-pequeno sobre ele não oferece contraste suficiente. A logo oficial é o JPEG original em
-`biblioteca/src/assets/amblegis-logo.jpeg`, incorporado no HTML; a apresentação corta apenas
-margens vazias, preservando símbolo, nome e assinatura. No tema escuro mantém o fundo
-original da imagem. A faixa verde identifica o catálogo e a azul identifica a consulta.
+pequeno sobre ele não oferece contraste suficiente. A logo em uso é o PNG RGBA de 512×512 em
+`biblioteca/src/assets/amblegis-logo-512.png`, derivado da imagem enviada pelo usuário com
+remoção do quadriculado e fundo realmente transparente. É incorporado no HTML e exibido
+inteiro a 64×64, ao lado do título e da contagem, sem faixa vertical exclusiva, recorte ou
+fundo opaco. O cabeçalho prioriza a busca e o espaço útil da lista, inclusive no celular.
+No tema escuro, um filtro CSS apresenta a marca em branco monocromático para que os
+detalhes azul-marinho não desapareçam; o arquivo transparente mantém as cores originais.
+O JPEG anterior fica preservado como fonte histórica. A faixa verde identifica o catálogo
+e a azul identifica a consulta.
 Scrollbars e foco usam os tokens compartilhados; alto contraste e redução de movimento
 respeitam as preferências do sistema.
 As regras noturnas do Observatório abaixo pertencem à busca e ao assistente, não a esta biblioteca.

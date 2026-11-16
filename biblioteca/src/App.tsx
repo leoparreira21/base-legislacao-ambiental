@@ -7,7 +7,7 @@ import MapaTemas from './MapaTemas'
 import ConsultaSQL, { apiDisponivel } from './ConsultaSQL'
 import LocalizadorOcorrencias from './LocalizadorOcorrencias'
 import type { ConsultaPublicada } from './consulta'
-import logo from 'data-url:./assets/amblegis-logo.jpeg'
+import logo from 'data-url:./assets/amblegis-logo-512.png'
 
 type Norma = {
   arquivo: string
@@ -308,12 +308,15 @@ export default function App() {
         className={`${atual ? 'hidden md:flex' : 'flex'} min-h-0 flex-1 flex-col overflow-y-auto border-r md:w-[400px] md:flex-none md:overflow-hidden lg:w-[440px]`}
       >
         <header className="brand-header space-y-3 border-b px-4 pb-3 pt-3">
-          <img className="brand-logo" src={logo} width="200" height="158" alt="AmbLegis Database — Legislação Ambiental · Paraná" />
-          <div className="flex items-baseline justify-between gap-2">
-            <h1 className="serif text-xl font-bold leading-tight">Biblioteca de normas</h1>
-            <span className="text-xs tabular-nums text-muted-foreground">
-              {normas ? `${filtradas.length} de ${normas.length}` : ''}
-            </span>
+          <div className="brand-identity">
+            <img className="brand-logo" src={logo} width="64" height="64" alt="AmbLegis Database — Legislação Ambiental · Paraná" />
+            <div className="min-w-0 flex-1 space-y-1">
+              <h1 className="serif text-xl font-bold leading-tight">Biblioteca de normas</h1>
+              <div className="flex flex-wrap items-baseline justify-between gap-x-2 gap-y-1 text-xs text-muted-foreground">
+                <span>AmbLegis Database</span>
+                <span className="tabular-nums">{normas ? `${filtradas.length} de ${normas.length}` : ''}</span>
+              </div>
+            </div>
           </div>
           {api && (
             <Button variant="outline" size="sm" className="w-full justify-start xl:hidden" onClick={() => setPainel(true)}>

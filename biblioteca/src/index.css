@@ -13,6 +13,7 @@
     --brand-gold: #C6A556;
     --brand-mist: #C6D5DE;
     --brand-white: #F6F7F5;
+    --brand-logo-filter: none;
     --background: 90 11% 96.5%;
     --foreground: 213 62% 20.4%;
     --card: 0 0% 100%;
@@ -39,6 +40,7 @@
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
       color-scheme: dark;
+      --brand-logo-filter: brightness(0) invert(1);
       --background: 212 62% 13.5%;
       --foreground: 90 11% 96.5%;
       --card: 213 62% 20.4%;
@@ -60,6 +62,7 @@
   }
   :root[data-theme="dark"] {
     color-scheme: dark;
+    --brand-logo-filter: brightness(0) invert(1);
     --background: 212 62% 13.5%;
     --foreground: 90 11% 96.5%;
     --card: 213 62% 20.4%;
@@ -92,14 +95,14 @@
   button:not(:disabled), a, summary { cursor: pointer; }
   :focus-visible { outline: 2px solid hsl(var(--ring)); outline-offset: 3px; }
   .brand-header { border-top: 4px solid var(--brand-green); }
+  .brand-identity { display: flex; align-items: center; gap: 12px; min-height: 64px; }
   .brand-logo {
     display: block;
-    width: 200px;
-    height: 158px;
-    object-fit: cover;
-    object-position: center;
-    border-radius: var(--radius);
-    background: var(--brand-white);
+    width: 64px;
+    height: 64px;
+    flex: 0 0 64px;
+    object-fit: contain;
+    filter: var(--brand-logo-filter);
   }
   .brand-rule { width: 64px; height: 4px; border-radius: 2px; background: var(--brand-gold); }
   .brand-highlight { background: var(--brand-gold); color: var(--brand-navy); }
