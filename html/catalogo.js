@@ -6977,6 +6977,46 @@ window.CATALOGO_NORMAS = [
 }
 },
 {
+"arquivo": "resolucao-cema-70-2009",
+"norma": "Resolução CEMA nº 70/2009",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual do Meio Ambiente – CEMA/PR",
+"ano": 2009,
+"ementa": "Dispõe sobre o licenciamento ambiental, estabelece condições e critérios e dá outras providências, para Empreendimentos Industriais.",
+"situacao": "revogada",
+"apelidos": [],
+"temas": {
+"industria": "",
+"licenciamento-ambiental": "",
+"licenca-previa": "",
+"licenca-instalacao": "",
+"licenca-operacao": "",
+"licenciamento-monofasico": "",
+"renovacao": "",
+"validade": "",
+"efluente": "",
+"padrao-lancamento": "",
+"plano-gerenciamento-residuos-solidos": "",
+"emissao-atmosferica": "",
+"meio ambiente": "art2_cpt_inc1",
+"poluição": "art2_cpt_inc2",
+"poluidor": "art2_cpt_inc3",
+"recursos ambientais": "art2_cpt_inc4",
+"fonte de poluição": "art2_cpt_inc5",
+"licenciamento ambiental": "art2_cpt_inc6",
+"estudos ambientais": "art2_cpt_inc7",
+"licença ambiental": "art2_cpt_inc8",
+"autorização ambiental ou florestal": "art2_cpt_inc9",
+"cadastro de usuário ambiental": "art2_cpt_inc10",
+"atividade industrial": "art2_cpt_inc11",
+"termo de compromisso": "art2_cpt_inc12",
+"termo de ajustamento de conduta": "art2_cpt_inc13",
+"redacao-alterada": "art5_cpt",
+"revogado": "art8_par1u_inc1_alif"
+}
+},
+{
 "arquivo": "resolucao-cema-72-2009",
 "norma": "Resolução CEMA nº 72/2009",
 "tipo": "resolucao",
@@ -7251,6 +7291,21 @@ window.CATALOGO_NORMAS = [
 }
 },
 {
+"arquivo": "resolucao-cerh-18-2021",
+"norma": "Resolução CERH/PR nº 18/2021",
+"tipo": "resolucao",
+"esfera": "estadual",
+"orgao": "Conselho Estadual de Recursos Hídricos – CERH/PR",
+"ano": 2021,
+"ementa": "Aprova o enquadramento dos corpos de água superficiais na área de abrangência do Comitê da Bacia Piraponema, em classes, de acordo com os usos preponderantes.",
+"situacao": "vigente",
+"apelidos": [],
+"temas": {
+"classificacao-corpo-agua": "",
+"bacia-pirapo": ""
+}
+},
+{
 "arquivo": "resolucao-cerh-42-2026",
 "norma": "Resolução CERH nº 42/2026",
 "tipo": "resolucao",
@@ -7275,18 +7330,13 @@ window.CATALOGO_NORMAS = [
 "orgao": "Conselho Estadual de Recursos Hídricos – CERH/PR",
 "ano": 2026,
 "ementa": "Aprova o reenquadramento dos corpos de água superficiais na área de abrangência do Comitê da Bacia Hidrográfica do Paraná 3, em classes, de acordo com os usos preponderantes.",
-"arquivo": "resolucao-cerh-18-2021",
-"norma": "Resolução CERH/PR nº 18/2021",
-"tipo": "resolucao",
-"esfera": "estadual",
-"orgao": "Conselho Estadual de Recursos Hídricos – CERH/PR",
-"ano": 2021,
-"ementa": "Aprova o enquadramento dos corpos de água superficiais na área de abrangência do Comitê da Bacia Piraponema, em classes, de acordo com os usos preponderantes.",
 "situacao": "vigente",
 "apelidos": [],
 "temas": {
+"bacia-hidrografica": "",
 "classificacao-corpo-agua": "",
-"bacia-pirapo": ""
+"corpo-hidrico": "",
+"anexo-pendente": "anexo1_lin1"
 }
 },
 {
@@ -7301,9 +7351,6 @@ window.CATALOGO_NORMAS = [
 "apelidos": [],
 "temas": {
 "bacia-hidrografica": "",
-"classificacao-corpo-agua": "",
-"corpo-hidrico": "",
-"anexo-pendente": "anexo1_lin1"
 "recurso-hidrico": ""
 }
 },
