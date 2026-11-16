@@ -12,7 +12,8 @@ Onde a tag é apagada:
   - campo `tags` do frontmatter de normas/, normas/anexos/ e normas/comentarios/;
   - qualquer `#tag` que tenha sobrado no corpo desses arquivos;
   - consultas/taxonomia-tags.proposta.json (o nó sai; os filhos passam ao pai dele; aliases para a tag saem);
-  - tags.md (regerado pelo validar.py --tags).
+  - tags.md (regerado pelo validar.py --tags);
+  e registra a decisão em consultas/historico-tags.json.
 Depois rode `python scripts/validar.py` e `python scripts/gerar_html.py` (html/ e catálogo).
 Mesclar: cada ORIGEM é trocada por DESTINO no frontmatter (sem repetir) e no corpo; na taxonomia
 os nós das origens saem, os filhos passam para DESTINO e as origens viram aliases de DESTINO.
@@ -31,6 +32,23 @@ CONTROLE = {'revogado', 'redacao-alterada', 'incluido', 'anexo-pendente'}
 TAXONOMIA = ROOT / 'consultas/taxonomia-tags.proposta.json'
 DADOS = ROOT / 'docs/tags-editaveis.json'
 MODELO = ROOT / 'scripts/modelos/exclusao-tags.html'
+HISTORICO = ROOT / 'consultas/historico-tags.json'
+
+
+def registrar(excluidas=(), mesclas=None):
+    """Guarda a decisão em consultas/historico-tags.json (usado por normalizar_tags.py)."""
+    h = json.loads(HISTORICO.read_text(encoding='utf-8'))
+    mes = h['mescladas']
+    for o, d in (mesclas or {}).items():
+        mes[o] = d
+    for o in list(mes):  # resolve cadeias: a -> b e b -> c vira a -> c
+        vistos = set()
+        while mes[o] in mes and mes[o] not in vistos:
+            vistos.add(mes[o])
+            mes[o] = mes[mes[o]]
+    h['mescladas'] = dict(sorted(mes.items()))
+    h['excluidas'] = sorted(set(h['excluidas']) | set(excluidas))
+    HISTORICO.write_text(json.dumps(h, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 FM_TAGS = re.compile(r'^tags:\s*\[(.*)\]\s*$', re.M)
 
 
@@ -130,6 +148,7 @@ def excluir(alvo, aplicar):
     if aplicar:
         TAXONOMIA.write_text(json.dumps(tax, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
         subprocess.run([sys.executable, 'scripts/validar.py', '--tags'], cwd=ROOT, check=True, capture_output=True)
+        registrar(excluidas=alvo)
     acao = 'excluídas' if aplicar else 'seriam excluídas (simulação; use --aplicar)'
     print(f'{len(alvo)} tag(s) {acao}: {mudados} arquivo(s) de normas, {removidos_tax} nó(s) da taxonomia.')
 
@@ -185,6 +204,7 @@ def mesclar(destino, origens, aplicar):
     if aplicar:
         TAXONOMIA.write_text(json.dumps(tax, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
         subprocess.run([sys.executable, 'scripts/validar.py', '--tags'], cwd=ROOT, check=True, capture_output=True)
+        registrar(mesclas={o: destino for o in origens})
     acao = 'mescladas' if aplicar else 'seriam mescladas (simulação; use --aplicar)'
     print(f'{len(origens)} tag(s) {acao} em #{destino}: {mudados} arquivo(s) de normas.')
 
