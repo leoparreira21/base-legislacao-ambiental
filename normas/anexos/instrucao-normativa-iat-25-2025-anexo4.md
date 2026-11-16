@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [patio-caminhao, patio-container]
 modalidades: [lp, lpa, lasr, lir]
-tags: [agua-pluvial, app, impermeabilizacao, memorial-caracterizacao, movimentacao-solo, outorga-previa, residuo-solido, supressao-vegetacao, tratamento-efluente, unidade-conservacao]
+tags: [sistema-drenagem, app, impermeabilizacao, memorial-caracterizacao, movimentacao-solo, outorga-previa, residuo-solido, supressao-vegetacao, tratamento-efluente, unidade-conservacao]
 fonte: PDF da republicação da IN IAT 25/2025 (eProtocolo 23.733.183-4, assinado em 15/12/2025), páginas 54 a 56
 ---
 

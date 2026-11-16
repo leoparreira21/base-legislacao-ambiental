@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: PGRCC
 atividades: [empreendimento-imobiliario, parcelamento-solo, condominio, conjunto-habitacional, barracao]
 modalidades: [las, lasa, li, lia]
-tags: [armazenamento-residuo, classificacao-residuo, destinacao-final, educacao-ambiental, empreendimento-imobiliario, gerenciamento-residuo, licenciamento-monofasico, licenca-ampliacao, licenca-instalacao, obra-civil, parcelamento-solo, pgrcc, reciclagem, residuo-construcao-civil, responsavel-tecnico, reutilizacao, segregacao, transporte]
+tags: [armazenamento-residuo, classificacao-residuo, destinacao-final, educacao-ambiental, empreendimento-imobiliario, plano-gerenciamento-residuos-solidos, licenciamento-monofasico, licenca-ampliacao, licenca-instalacao, obra-civil, parcelamento-solo, pgrcc, reciclagem, residuo-construcao-civil, responsavel-tecnico, reutilizacao, segregacao, transporte]
 ---
 ## Texto do anexo
 

@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: pgrcc
 atividades: [atividade-ensino, empreendimento-ensino]
 modalidades: [li, lir]
-tags: [pgrcc, residuo-construcao-civil, canteiro-obra, segregacao-residuo, transporte-residuos, destinacao-final]
+tags: [pgrcc, residuo-construcao-civil, segregacao-residuo, transporte-residuos, destinacao-final]
 fonte: PDF da IN IAT 60/2025 (eProtocolo nº 24.535.432-0), anexos integrantes do arquivo assinado em 16/09/2025
 ---
 

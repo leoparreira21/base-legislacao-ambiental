@@ -23,7 +23,7 @@ alterado_por: ["[[lei-estadual-16242-2009]]", "[[lei-estadual-17134-2012]]", "[[
 revoga: []
 revogado_por: []
 cita: ["[[constituicao-estadual-1989]]", "[[lei-federal-4320-1964]]", "[[decreto-lei-federal-1939-1982]]", "[[decreto-federal-24643-1934]]", "[[lei-estadual-12248-1998]]", "[[lei-estadual-16739-2010]]"]
-tags: [abastecimento, agropecuaria, agua-subterranea, bacia-hidrografica, cobranca-uso-agua, compensacao, consorcio-intermunicipal, dessedentacao-animal, embargo, enquadramento, evento-hidrologico-critico, fiscalizacao, incluido, infracao-ambiental, irrigacao, lancamento, licenciamento-ambiental, manancial, mineracao, multa, municipio, outorga, plano-recursos-hidricos, poco, prazo, prioridade, recurso-hidrico, redacao-alterada, revogado, saneamento, segrh, sisnama, sistema-informacao-recursos-hidricos, vazao]
+tags: [abastecimento, agropecuaria, agua-subterranea, bacia-hidrografica, cobranca-uso-agua, compensacao, consorcio-intermunicipal, dessedentacao-animal, embargo, evento-hidrologico-critico, fiscalizacao, incluido, infracao-ambiental, irrigacao, lancamento, licenciamento-ambiental, manancial, mineracao, multa, municipio, outorga, plano-recursos-hidricos, poco, prazo, prioridade, recurso-hidrico, redacao-alterada, revogado, saneamento, segrh, sisnama, sistema-informacao-recursos-hidricos, vazao]
 fonte: "Impressão do texto compilado do portal Legislação Estadual do Paraná (legislacao.pr.gov.br), 18 páginas, enviada por Leo. O portal diz: 'Este texto não substitui o publicado no Diário Oficial do Estado'."
 ---
 

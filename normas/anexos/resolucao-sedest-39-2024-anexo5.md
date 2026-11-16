@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PGRS
 atividades: [patio-caminhao, patio-container]
 modalidades: [lo, rlas, rlo, lasr, lor]
-tags: [patio-caminhao, patio-container, pgrs]
+tags: [patio-caminhao, patio-container, plano-gerenciamento-residuos-solidos]
 fonte: PDF dos anexos da Resolução SEDEST 39/2024 (Res__SEDEST_39_2024_-_ANEXOS.pdf), páginas 24 a 28
 ---
 

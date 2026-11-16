@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PGRS
 atividades: [gerenciamento-lodo]
 modalidades: [lo, loa, rlas, rlo]
-tags: [pgrs, residuo-solido, classificacao-residuo, armazenamento-residuo]
+tags: [plano-gerenciamento-residuos-solidos, residuo-solido, classificacao-residuo, armazenamento-residuo]
 fonte: "PDF da IN IAT 38/2025, páginas 86 a 89, fornecido pelo usuário: IN 38 2025.pdf"
 ---
 

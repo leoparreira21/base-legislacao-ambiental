@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: mce
 atividades: [atividade-ensino, empreendimento-ensino]
 modalidades: [las, lasr, lp, li, lo, lir, lor]
-tags: [mce, atividade-ensino, caracterizacao-empreendimento, agua, efluente, residuo-solido, energia]
+tags: [mce, atividade-ensino, caracterizacao-empreendimento, agua, efluente, residuo-solido, geracao-energia]
 fonte: PDF da IN IAT 60/2025 (eProtocolo nº 24.535.432-0), anexos integrantes do arquivo assinado em 16/09/2025
 ---
 

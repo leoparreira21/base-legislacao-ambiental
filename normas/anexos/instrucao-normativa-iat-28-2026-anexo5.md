@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: PCPA
 atividades: [posto-abastecimento-combustiveis]
 modalidades: [li, lia, lor]
-tags: [pcpa, drenagem, residuo-solido, emissao-atmosferica]
+tags: [pcpa, sistema-drenagem, residuo-solido, emissao-atmosferica]
 fonte: "PDF fornecido, pp. 97–101 (paginação impressa)."
 ---
 

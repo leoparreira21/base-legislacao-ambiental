@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[portaria-iap-125-2009]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-1502-1992]]", "[[decreto-estadual-85-2015]]", "[[lei-estadual-10066-1992]]", "[[lei-federal-11428-2006]]", "[[lei-federal-9605-1998]]"]
-tags: [anexo-pendente, educacao-ambiental, especie-exotica-invasora, fiscalizacao, infracao-ambiental, licenciamento-ambiental, plano-manejo, prazo, prevencao, sancao, unidade-conservacao, viveiro]
+tags: [anexo-pendente, educacao-ambiental, especie-exotica, fiscalizacao, infracao-ambiental, licenciamento-ambiental, plano-manejo, prazo, prevencao, sancao, unidade-conservacao, viveiro]
 fonte: "SIA – Sistema de Informações Ambientais do Estado do Paraná (impressão, com o aviso \"O texto abaixo não substitui o publicado no Diário Oficial\"), PDF enviado por Leo. Sem data e número do DIOE."
 ---
 

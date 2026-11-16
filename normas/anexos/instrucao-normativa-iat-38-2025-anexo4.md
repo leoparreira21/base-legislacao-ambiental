@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [gerenciamento-lodo]
 modalidades: [las, li, lasa, lia, lasr, lir, lor]
-tags: [pca, efluente, emissao-atmosferica, pgrs, residuo-solido, uso-solo]
+tags: [pca, efluente, emissao-atmosferica, plano-gerenciamento-residuos-solidos, residuo-solido, uso-solo]
 fonte: "PDF da IN IAT 38/2025, páginas 75 a 79, fornecido pelo usuário: IN 38 2025.pdf"
 ---
 

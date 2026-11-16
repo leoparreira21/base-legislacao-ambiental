@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-52-2025]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-6515-2012]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-52-2025]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-estadual-7109-1979]]", "[[lei-federal-22252-2024]]", "[[lei-federal-6938-1981]]", "[[portaria-ibama-289-2013]]"]
-tags: [autorizacao-ambiental, condicionante, drenagem, licenciamento-ambiental, outorga, reserva-legal, residuo-solido, sancao, supressao-vegetacao, taxa-ambiental, terraplanagem, validade]
+tags: [autorizacao-ambiental, condicionante, sistema-drenagem, licenciamento-ambiental, outorga, reserva-legal, residuo-solido, sancao, supressao-vegetacao, taxa-ambiental, terraplanagem, validade]
 anexos: "tipo 1 (FCA, certidão e declarações): I a VI"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_52-2025-estradas_rurais-24125932-3-republicacao_16_de_outubro.pdf, 19 páginas)"
 ---

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: MCE
 atividades: [armazenamento-temporario-residuo]
 modalidades: [lp, lpa]
-tags: [armazenamento-residuo, app, captacao, classificacao-residuo, corpo-hidrico, efluente, esgoto-sanitario, georreferenciamento, gerenciamento-residuo, memorial-caracterizacao, movimentacao-solo, nascente, odor, recurso-hidrico, reserva-legal, supressao-vegetacao, triagem, uso-solo]
+tags: [armazenamento-residuo, app, captacao, classificacao-residuo, corpo-hidrico, efluente, esgoto-sanitario, georreferenciamento, plano-gerenciamento-residuos-solidos, memorial-caracterizacao, movimentacao-solo, nascente, odor, recurso-hidrico, reserva-legal, supressao-vegetacao, triagem, uso-solo]
 fonte: PDF da IN IAT 32/2025, páginas 56 a 58
 ---
 

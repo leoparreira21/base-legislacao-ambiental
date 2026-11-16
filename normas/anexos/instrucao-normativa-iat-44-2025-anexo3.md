@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Plano de Gerenciamento de Resíduos Sólidos (PGRS)"
 atividades: [porto, terminal-portuario]
 modalidades: [li, lir, lo, lor]
-tags: [pgrs, residuo-solido, inventario-residuos, coleta-seletiva, armazenamento-residuo, armazenamento-temporario, transporte-residuos, destinacao-final]
+tags: [plano-gerenciamento-residuos-solidos, residuo-solido, inventario-residuos, coleta-seletiva, armazenamento-residuo, armazenamento-temporario, transporte-residuos, destinacao-final]
 fonte: "PDF da IN IAT nº 44/2025, enviado pelo usuário; páginas 48–53 do arquivo."
 ---
 

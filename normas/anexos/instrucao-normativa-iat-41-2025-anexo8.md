@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCPA
 atividades: [compostagem]
 modalidades: [li, lia]
-tags: [pcpa, relatorio-ambiental-preliminar, compostagem, responsavel-legal, medida-mitigadora, medida-compensatoria, automonitoramento, emissao-atmosferica, poluicao-sonora, terraplanagem, supressao-vegetacao, area-degradada, plano-recuperacao-area-degradada, monitoramento, agua-subterranea, corpo-hidrico, efluente, pgrs, residuo-construcao-civil, agua-pluvial, tratamento-efluente]
+tags: [pcpa, relatorio-ambiental-preliminar, compostagem, responsavel-legal, medida-mitigadora, medida-compensatoria, automonitoramento, emissao-atmosferica, poluicao-sonora, terraplanagem, supressao-vegetacao, area-degradada, plano-recuperacao-area-degradada, monitoramento, agua-subterranea, corpo-hidrico, efluente, plano-gerenciamento-residuos-solidos, residuo-construcao-civil, sistema-drenagem, tratamento-efluente]
 fonte: PDF da IN IAT 41/2025, páginas 85 e 86
 ---
 

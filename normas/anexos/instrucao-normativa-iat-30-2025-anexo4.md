@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [transbordo-residuo-solido-urbano]
 modalidades: [las, lasa, lasr, li, lia, lir]
-tags: [armazenamento-residuo, agua-pluvial, app, area-construida, area-verde-urbana, bem-cultural, captacao, cnpj, cobertura-residuo, conservacao-solo, corpo-hidrico, destinacao-final, diagnostico-ambiental, dimensionamento, efluente, emissao-atmosferica, esgoto-sanitario, especie-exotica, fauna, flora, geologia, georreferenciamento, gerenciamento-residuo, impacto-ambiental, medida-compensatoria, medida-mitigadora, nascente, obra-civil, pca, reserva-legal, residuo-construcao-civil, residuo-solido, residuo-solido-urbano, responsavel-legal, responsavel-tecnico, segregacao, sistema-isolamento, terraplanagem, transbordo-residuos, transporte, tratamento-efluente, unidade-conservacao, uso-solo, vegetacao-nativa]
+tags: [armazenamento-residuo, sistema-drenagem, app, area-construida, area-verde-urbana, bem-cultural, captacao, cnpj, cobertura-residuo, conservacao-solo, corpo-hidrico, destinacao-final, diagnostico-ambiental, dimensionamento, efluente, emissao-atmosferica, esgoto-sanitario, especie-exotica, fauna, flora, geologia, georreferenciamento, plano-gerenciamento-residuos-solidos, impacto-ambiental, medida-compensatoria, medida-mitigadora, nascente, obra-civil, pca, reserva-legal, residuo-construcao-civil, residuo-solido, residuo-solido-urbano, responsavel-legal, responsavel-tecnico, segregacao, sistema-isolamento, terraplanagem, transbordo-residuos, transporte, tratamento-efluente, unidade-conservacao, uso-solo, vegetacao-nativa]
 fonte: PDF da IN IAT 30/2025 (4214bd52-IN_302025.pdf), páginas 55 a 59
 ---
 

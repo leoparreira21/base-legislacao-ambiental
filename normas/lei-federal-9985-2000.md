@@ -22,7 +22,7 @@ alterado_por: ["[[lei-federal-11132-2005]]", "[[lei-federal-11460-2007]]", "[[le
 revoga: []
 revogado_por: []
 cita: ["[[medida-provisoria-239-2005]]"]
-tags: [biodiversidade, compensacao, comunidade-tradicional, corredor-ecologico, eia-rima, especie-ameacada, fauna, flora, incentivo, incluido, infracao-ambiental, licenciamento-ambiental, pesquisa, plano-manejo, recurso-hidrico, redacao-alterada, regularizacao-fundiaria, reserva-legal, turismo, unidade-conservacao, zona-amortecimento]
+tags: [biodiversidade, compensacao, comunidade-tradicional, corredor-ecologico, estudo-impacto-ambiental, especie-ameacada, fauna, flora, incentivo, incluido, infracao-ambiental, licenciamento-ambiental, pesquisa, plano-manejo, recurso-hidrico, redacao-alterada, regularizacao-fundiaria, reserva-legal, turismo, unidade-conservacao, zona-amortecimento]
 fonte: "Planalto – texto compilado da Lei nº 9.985/2000 impresso do navegador (14 páginas), com as redações anteriores tachadas e as anotações do portal ('Este texto não substitui o publicado no DOU de 19.7.2000'), enviado por Leo"
 ---
 

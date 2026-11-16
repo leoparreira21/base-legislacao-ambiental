@@ -36,8 +36,8 @@
     "substancia-inflamavel": "substancia-perigosa",
     "substancia-explosiva": "substancia-perigosa",
     "quilombola": "comunidade-tradicional",
-    "drenagem-urbana": "drenagem",
-    "area-drenagem": "drenagem",
+    "drenagem-urbana": "sistema-drenagem",
+    "area-drenagem": "sistema-drenagem",
     "emissao-fugitiva": "emissao-atmosferica",
     "fonte-nao-selada": "fonte-radioativa",
     "fonte-selada": "fonte-radioativa",
@@ -49,8 +49,8 @@
     "area-disposicao-final": "disposicao-final",
     "dlae": "dispensa",
     "dlam": "dispensa",
-    "drenagem-pluvial": "drenagem",
-    "drenagem-superficial": "drenagem",
+    "drenagem-pluvial": "sistema-drenagem",
+    "drenagem-superficial": "sistema-drenagem",
     "campo-eletromagnetico": "eletromagnetico",
     "radiacao-eletromagnetica": "eletromagnetico",
     "vigilancia-sanitaria": "anvisa",
@@ -102,7 +102,30 @@
     "pers": "plano-estadual-residuos-solidos",
     "plano-estadual-residuos": "plano-estadual-residuos-solidos",
     "aterro-classe-a": "aterro-residuos-perigosos",
-    "aterro-classe-i": "aterro-residuos-perigosos"
+    "aterro-classe-i": "aterro-residuos-perigosos",
+    "baixo-risco": "baixo-impacto-ambiental",
+    "baixo-potencial-poluidor": "baixo-impacto-ambiental",
+    "energia": "geracao-energia",
+    "energia-solar": "geracao-energia",
+    "energia-eolica": "geracao-energia",
+    "gerenciamento-area-contaminada": "area-contaminada",
+    "geoprocessamento": "georreferenciamento",
+    "agua-pluvial": "sistema-drenagem",
+    "drenagem": "sistema-drenagem",
+    "galeria-pluvial": "sistema-drenagem",
+    "eia-rima": "estudo-impacto-ambiental",
+    "eiv": "estudo-impacto-vizinhanca",
+    "impacto-vizinhanca": "estudo-impacto-vizinhanca",
+    "especies-exoticas": "especie-exotica",
+    "especie-exotica-invasora": "especie-exotica",
+    "bateria": "pilha-bateria",
+    "gerenciamento-residuo": "plano-gerenciamento-residuos-solidos",
+    "pgrs": "plano-gerenciamento-residuos-solidos",
+    "plano-gerenciamento-residuo-perigoso": "plano-gerenciamento-residuos-solidos",
+    "rlac": "renovacao-licenca-ambiental",
+    "rlo": "renovacao-licenca-ambiental",
+    "rlas": "renovacao-licenca-ambiental",
+    "biosseguranca": "biosseguridade"
   },
   "nos": [
     {
@@ -149,13 +172,6 @@
     },
     {
       "id": "agua-doce",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "agua-pluvial",
       "grupo": "tema/agua",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -358,13 +374,6 @@
       "anotavel": true
     },
     {
-      "id": "area-sensivel",
-      "grupo": "tema/flora-territorio",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "area-umida",
       "grupo": "tema/flora-territorio",
       "pai": null,
@@ -498,13 +507,6 @@
       "anotavel": true
     },
     {
-      "id": "autoridade-envolvida",
-      "grupo": "instituicao",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "autorizacao-ambiental",
       "grupo": "instrumento/licenciamento",
       "pai": null,
@@ -548,20 +550,6 @@
     },
     {
       "id": "baixo-impacto-ambiental",
-      "grupo": "instrumento/licenciamento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "baixo-potencial-poluidor",
-      "grupo": "instrumento/licenciamento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "baixo-risco",
       "grupo": "instrumento/licenciamento",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -661,13 +649,6 @@
     {
       "id": "cancelamento-licenca",
       "grupo": "instrumento/licenciamento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "capacidade-suporte",
-      "grupo": "tema/efluente",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1296,13 +1277,6 @@
       "anotavel": true
     },
     {
-      "id": "drenagem",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "edificacao-rural",
       "grupo": "atividade/equipamento-insumo",
       "pai": null,
@@ -1319,20 +1293,6 @@
     {
       "id": "efluente",
       "grupo": "tema/efluente",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "eia-rima",
-      "grupo": "instrumento/estudo-documento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "eiv",
-      "grupo": "instrumento/estudo-documento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
@@ -1394,13 +1354,6 @@
       "anotavel": true
     },
     {
-      "id": "empresa-potencialmente-poluidora",
-      "grupo": "atividade/industrial-servicos",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "encerramento",
       "grupo": "instrumento/licenciamento",
       "pai": null,
@@ -1409,20 +1362,6 @@
     },
     {
       "id": "encerramento-parcial",
-      "grupo": "instrumento/licenciamento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "energia-solar",
-      "grupo": "atividade",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "enquadramento",
       "grupo": "instrumento/licenciamento",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -1478,14 +1417,21 @@
       "anotavel": true
     },
     {
-      "id": "estado",
-      "grupo": "instituicao",
+      "id": "estudo-ambiental",
+      "grupo": "instrumento/estudo-documento",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true
     },
     {
-      "id": "estudo-ambiental",
+      "id": "estudo-impacto-ambiental",
+      "grupo": "instrumento/estudo-documento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "estudo-impacto-vizinhanca",
       "grupo": "instrumento/estudo-documento",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -1639,13 +1585,6 @@
       "anotavel": true
     },
     {
-      "id": "galeria-pluvial",
-      "grupo": "tema/agua",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "galvanoplastia",
       "grupo": "atividade/industrial-servicos",
       "pai": null,
@@ -1703,13 +1642,6 @@
     },
     {
       "id": "gerador",
-      "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "gerenciamento-residuo",
       "grupo": "tema/residuo",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -2997,13 +2929,6 @@
       "anotavel": true
     },
     {
-      "id": "pgrs",
-      "grupo": "tema/residuo",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "pgrss",
       "grupo": "tema/residuo",
       "pai": null,
@@ -3053,7 +2978,7 @@
       "anotavel": true
     },
     {
-      "id": "plano-gerenciamento-residuo-perigoso",
+      "id": "plano-gerenciamento-residuos-solidos",
       "grupo": "tema/residuo",
       "pai": null,
       "status": "proposta-de-organizacao",
@@ -3592,6 +3517,13 @@
       "anotavel": true
     },
     {
+      "id": "renovacao-licenca-ambiental",
+      "grupo": "instrumento/licenciamento",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
       "id": "reposicao-florestal",
       "grupo": "tema/flora-territorio",
       "pai": null,
@@ -3739,27 +3671,6 @@
       "anotavel": true
     },
     {
-      "id": "rlac",
-      "grupo": "instrumento/licenciamento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "rlas",
-      "grupo": "instrumento/licenciamento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
-      "id": "rlo",
-      "grupo": "instrumento/licenciamento",
-      "pai": null,
-      "status": "proposta-de-organizacao",
-      "anotavel": true
-    },
-    {
       "id": "sancao",
       "grupo": "instrumento/procedimento",
       "pai": null,
@@ -3902,6 +3813,13 @@
     {
       "id": "sisnama",
       "grupo": "instituicao",
+      "pai": null,
+      "status": "proposta-de-organizacao",
+      "anotavel": true
+    },
+    {
+      "id": "sistema-drenagem",
+      "grupo": "tema/agua",
       "pai": null,
       "status": "proposta-de-organizacao",
       "anotavel": true

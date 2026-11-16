@@ -21,7 +21,7 @@ alterado_por: ["[[lei-federal-11673-2008]]", "[[lei-federal-11977-2009]]", "[[le
 revoga: []
 revogado_por: []
 cita: ["[[constituicao-federal-1988]]", "[[lei-federal-10406-2002]]", "[[lei-federal-11673-2008]]", "[[lei-federal-11977-2009]]", "[[lei-federal-12608-2012]]", "[[lei-federal-12836-2013]]", "[[lei-federal-12983-2014]]", "[[lei-federal-13089-2015]]", "[[lei-federal-13116-2015]]", "[[lei-federal-13146-2015]]", "[[lei-federal-13699-2018]]", "[[lei-federal-14273-2021]]", "[[lei-federal-14489-2022]]", "[[lei-federal-14729-2023]]", "[[lei-federal-14849-2024]]", "[[lei-federal-15333-2026]]", "[[lei-federal-6015-1973]]", "[[lei-federal-6216-1975]]", "[[lei-federal-7347-1985]]", "[[lei-federal-8429-1992]]", "[[lei-federal-9433-1997]]", "[[medida-provisoria-2180-35-2001]]"]
-tags: [area-risco, eia-rima, eiv, expansao-urbana, improbidade-administrativa, incluido, mobilidade-urbana, operacao-urbana-consorciada, outorga-onerosa, parcelamento-solo, participacao-publica, patrimonio-cultural, plano-diretor, redacao-alterada, regularizacao-fundiaria, revogado, saneamento, transferencia-direito-construir, usucapiao]
+tags: [area-risco, estudo-impacto-ambiental, estudo-impacto-vizinhanca, expansao-urbana, improbidade-administrativa, incluido, mobilidade-urbana, operacao-urbana-consorciada, outorga-onerosa, parcelamento-solo, participacao-publica, patrimonio-cultural, plano-diretor, redacao-alterada, regularizacao-fundiaria, revogado, saneamento, transferencia-direito-construir, usucapiao]
 fonte: "Planalto (Presidência da República – Casa Civil), impressão do navegador em PDF (Safari/iOS), 23 páginas; \"Este texto não substitui o publicado no DOU de 11.7.2001 e retificado em 17.7.2001\", enviado por Leo"
 ---
 

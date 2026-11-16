@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Memorial de Caracterização de Empreendimento (MCE)"
 atividades: [posto-revendedor, ponto-abastecimento, instalacao-sistema-retalhista, posto-flutuante, base-distribuicao]
 modalidades: [lp, lpa, lir, lor]
-tags: [agua-pluvial, app, combustivel, emissao-atmosferica, impermeabilizacao, memorial-caracterizacao, outorga-previa, residuo-solido, tanque-armazenamento, tratamento-efluente, unidade-conservacao]
+tags: [sistema-drenagem, app, combustivel, emissao-atmosferica, impermeabilizacao, memorial-caracterizacao, outorga-previa, residuo-solido, tanque-armazenamento, tratamento-efluente, unidade-conservacao]
 fonte: "PDF IN 28 2026.pdf, Instituto Água e Terra, enviado pelo usuário; páginas impressas 85–87."
 ---
 

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Laudo de conclusão de obras
 atividades: [suinocultura]
 modalidades: [las, lo, loa]
-tags: [agua-pluvial, licenca-ampliacao, animal-morto, area-construida, cnpj, compostagem, dejeto-animal, impermeabilizacao, lagoa-tratamento, laudo-conclusao-obra, laudo-tecnico, medida-mitigadora, residuo-solido, responsavel-tecnico, suinocultura, tratamento-efluente, vistoria]
+tags: [sistema-drenagem, licenca-ampliacao, animal-morto, area-construida, cnpj, compostagem, dejeto-animal, impermeabilizacao, lagoa-tratamento, laudo-conclusao-obra, laudo-tecnico, medida-mitigadora, residuo-solido, responsavel-tecnico, suinocultura, tratamento-efluente, vistoria]
 fonte: PDF da IN IAT 24/2026 (work/in24.pdf, eProtocolo 23.753.432-8, fls. 255 e 256), páginas 79 e 80
 ---
 

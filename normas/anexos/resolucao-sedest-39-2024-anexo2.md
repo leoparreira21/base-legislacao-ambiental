@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PBCA
 atividades: [patio-caminhao, patio-container]
 modalidades: [las, lasr]
-tags: [agua-pluvial, diagnostico-ambiental, efluente, emissao-atmosferica, esgoto-sanitario, impacto-ambiental, impermeabilizacao, medida-mitigadora, patio-caminhao, patio-container, pbca, pgrs, residuo-solido, terraplanagem]
+tags: [sistema-drenagem, diagnostico-ambiental, efluente, emissao-atmosferica, esgoto-sanitario, impacto-ambiental, impermeabilizacao, medida-mitigadora, patio-caminhao, patio-container, pbca, plano-gerenciamento-residuos-solidos, residuo-solido, terraplanagem]
 fonte: PDF dos anexos da Resolução SEDEST 39/2024 (Res__SEDEST_39_2024_-_ANEXOS.pdf), páginas 2 a 7
 ---
 

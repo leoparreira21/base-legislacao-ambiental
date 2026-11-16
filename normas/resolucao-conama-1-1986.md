@@ -18,7 +18,7 @@ alterado_por: ["[[resolucao-conama-11-1986]]", "[[resolucao-conama-5-1987]]", "[
 revoga: []
 revogado_por: []
 cita: ["[[decreto-federal-88351-1983]]"]
-tags: [aeroporto, app, audiencia-publica, carvao-vegetal, efluente, eia-rima, impacto-ambiental, incluido, licenciamento-ambiental, medida-mitigadora, mineracao, monitoramento, porto, prazo, redacao-alterada, revogado]
+tags: [aeroporto, app, audiencia-publica, carvao-vegetal, efluente, estudo-impacto-ambiental, impacto-ambiental, incluido, licenciamento-ambiental, medida-mitigadora, mineracao, monitoramento, porto, prazo, redacao-alterada, revogado]
 fonte: "PDF da publicação Resoluções do CONAMA (Licenciamento Ambiental – Normas e procedimentos, 4 páginas, com o tachado das redações anteriores), enviado por Leo. O PDF diz: \"Este texto não substitui o publicado no DOU, de 17 de fevereiro de 1986\"."
 ---
 

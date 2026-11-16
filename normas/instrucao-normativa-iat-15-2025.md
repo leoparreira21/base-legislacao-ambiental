@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-4339-2002]]", "[[decreto-federal-5300-2004]]", "[[decreto-federal-6040-2007]]", "[[decreto-federal-6514-2008]]", "[[decreto-federal-6660-2008]]", "[[lei-estadual-11054-1995]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-11326-2006]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12651-2012]]", "[[lei-federal-7661-1988]]", "[[lei-federal-9605-1998]]", "[[portaria-17-2025]]", "[[portaria-mma-148-2022]]", "[[portaria-mma-443-2014]]"]
-tags: [app, autorizacao-ambiental, car, compensacao, condicionante, drenagem, fauna, flora, licenciamento-ambiental, monitoramento, reserva-legal, responsavel-tecnico, sancao, supressao-vegetacao]
+tags: [app, autorizacao-ambiental, car, compensacao, condicionante, sistema-drenagem, fauna, flora, licenciamento-ambiental, monitoramento, reserva-legal, responsavel-tecnico, sancao, supressao-vegetacao]
 anexos: "tipo 2: I e II; tipo 3: III a V"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_15-2025_-_plano_de_resgate_da_flora_-_23.754.647-4.pdf, 28 páginas)"
 ---

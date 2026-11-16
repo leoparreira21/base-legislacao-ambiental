@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: pcpa
 atividades: [zoologico, criadouro-fauna, mantenedouro-fauna, centro-triagem-fauna, centro-reabilitacao-fauna]
 modalidades: [lp, li]
-tags: [fauna, pcpa, efluente, residuo-solido, disposicao-solo, agua-pluvial, ruido, odor, vetor]
+tags: [fauna, pcpa, efluente, residuo-solido, disposicao-solo, sistema-drenagem, ruido, odor, vetor]
 fonte: PDF da IN IAT 6/2025 (eProtocolo nº 23.758.742-1), anexo integrante do arquivo assinado em 23/04/2025
 ---
 

@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9605-1998]]", "[[resolucao-cema-100-2017]]", "[[resolucao-cema-107-2020]]", "[[resolucao-conama-420-2009]]", "[[resolucao-conama-96-2008]]"]
-tags: [agua-subterranea, area-contaminada, avaliacao-risco, averbacao, estudo-ambiental, gerenciamento-area-contaminada, infracao, laboratorio, monitoramento, mudanca-uso, municipio, passivo-ambiental, plano-intervencao, prazo, qualidade-solo, responsavel-tecnico, reutilizacao, siacr, solo, tac, termo-encerramento, valor-orientador]
+tags: [agua-subterranea, area-contaminada, avaliacao-risco, averbacao, estudo-ambiental, infracao, laboratorio, monitoramento, mudanca-uso, municipio, passivo-ambiental, plano-intervencao, prazo, qualidade-solo, responsavel-tecnico, reutilizacao, siacr, solo, tac, termo-encerramento, valor-orientador]
 fonte: "Impressão de página da internet em PDF (10 páginas), enviada por Leo; o cabeçalho traz a data de publicação no Diário Oficial e a advertência "Este texto não substitui o publicado no Diário Oficial do Estado"."
 ---
 

@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: pcpa
 atividades: [atividade-ensino, empreendimento-ensino]
 modalidades: [li, lir]
-tags: [pcpa, atividade-ensino, efluente, agua-pluvial, residuo-solido, emissao-atmosferica, ruido]
+tags: [pcpa, atividade-ensino, efluente, sistema-drenagem, residuo-solido, emissao-atmosferica, ruido]
 fonte: PDF da IN IAT 60/2025 (eProtocolo nº 24.535.432-0), anexos integrantes do arquivo assinado em 16/09/2025
 ---
 

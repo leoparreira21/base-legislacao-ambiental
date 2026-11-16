@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-8680-2013]]", "[[decreto-estadual-9415-2025]]", "[[decreto-federal-7830-2012]]", "[[instrucao-normativa-2-2014]]", "[[instrucao-normativa-82-2015]]", "[[instrucao-normativa-iat-21-2025]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12651-2012]]", "[[lei-federal-8629-1993]]"]
-tags: [car, drenagem, fauna, flora, monitoramento, outorga, reserva-legal, residuo-solido, supressao-vegetacao, validade]
+tags: [car, sistema-drenagem, fauna, flora, monitoramento, outorga, reserva-legal, residuo-solido, supressao-vegetacao, validade]
 anexos: nenhum
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_61-2025-cancelamento_car-23937198-1.pdf, 8 páginas)"
 ---

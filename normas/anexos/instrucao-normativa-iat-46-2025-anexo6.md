@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: pgrs
 atividades: [fundicao-chumbo]
 modalidades: [li, lo, lir, lor]
-tags: [pgrs, residuo-solido, fundicao-chumbo, armazenamento-residuo, destinacao-final, monitoramento]
+tags: [plano-gerenciamento-residuos-solidos, residuo-solido, fundicao-chumbo, armazenamento-residuo, destinacao-final, monitoramento]
 fonte: PDF da IN IAT 46/2025 (eProtocolo nº 23.815.801-0), anexo integrante do arquivo assinado em 30/04/2025
 ---
 

@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Auditoria Ambiental de Processo e Conformidade"
 atividades: [fundicao-chumbo]
 modalidades: [lo, lor]
-tags: [auditoria, chumbo, fundicao, metal-pesado, renovacao, risco-ambiental, plano-atendimento-emergencia, saude-ocupacional, passivo-ambiental, emissao-atmosferica, efluente, gerenciamento-residuo, educacao-ambiental, monitoramento]
+tags: [auditoria, chumbo, fundicao, metal-pesado, renovacao, risco-ambiental, plano-atendimento-emergencia, saude-ocupacional, passivo-ambiental, emissao-atmosferica, efluente, plano-gerenciamento-residuos-solidos, educacao-ambiental, monitoramento]
 fonte: "PDF da Resolução CEMA nº 24/2002 enviado pelo usuário (resolucao_CEMA_24_2002.pdf); Anexo I."
 ---
 

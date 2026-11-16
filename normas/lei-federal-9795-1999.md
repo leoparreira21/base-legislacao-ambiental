@@ -20,7 +20,7 @@ alterado_por: ["[[lei-federal-14393-2022]]", "[[lei-federal-14926-2024]]"]
 revoga: []
 revogado_por: []
 cita: ["[[constituicao-federal-1988]]"]
-tags: [biodiversidade, comunidade-tradicional, defesa-civil, educacao-ambiental, estado, incluido, municipio, pesquisa, pnma, poder-publico, reciclagem, recurso-hidrico, reutilizacao, segregacao, sisnama, turismo, unidade-conservacao]
+tags: [biodiversidade, comunidade-tradicional, defesa-civil, educacao-ambiental, incluido, municipio, pesquisa, pnma, poder-publico, reciclagem, recurso-hidrico, reutilizacao, segregacao, sisnama, turismo, unidade-conservacao]
 fonte: "Planalto (Presidência da República – Casa Civil), impressão do navegador em PDF, 8 páginas; \"Este texto não substitui o publicado no DOU de 28.4.1999\", enviado por Leo"
 ---
 

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: AIV
 atividades: [mineracao]
 modalidades: [li, lia]
-tags: [impacto-vizinhanca, mineracao, area-influencia, ruido]
+tags: [estudo-impacto-vizinhanca, mineracao, area-influencia, ruido]
 fonte: PDF da IN IAT 33/2026 (eProtocolo nº 23.585.771-5), páginas 131 a 133
 ---
 

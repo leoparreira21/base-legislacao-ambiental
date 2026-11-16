@@ -20,7 +20,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-9129-2010]]", "[[lei-estadual-12726-1999]]"]
-tags: [classificacao-corpo-agua, enquadramento]
+tags: [classificacao-corpo-agua]
 fonte: "PDF de 1 página (corpo, com cabeçalho do Diário Oficial) e PDF de 35 páginas do anexo (Resolução nº 01 CBH-Norte Pioneiro e Anexos I a III), enviados por Leo; o rodapé traz "Este texto não substitui o publicado no Diário Oficial do Estado"."
 ---
 

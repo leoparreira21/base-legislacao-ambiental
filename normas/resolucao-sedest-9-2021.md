@@ -19,7 +19,7 @@ alterado_por: []
 revoga: []
 revogado_por: ["[[decreto-estadual-9541-2025]]"]
 cita: ["[[lei-estadual-19848-2019]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[resolucao-conama-237-1997]]", "[[resolucao-cema-107-2020]]", "[[resolucao-conama-1-1986]]", "[[resolucao-conama-9-1987]]", "[[resolucao-conama-279-2001]]", "[[resolucao-conama-6-1986]]", "[[lei-federal-9605-1998]]"]
-tags: [licenca-ampliacao, anuencia, audiencia-publica, autorizacao-ambiental, car, casos-omissos, certidao-municipal, condicionante, declaracao-adesao-compromisso, declaracao-anuencia, declaracao-ciencia, declaracao-veracidade, dispensa, eia-rima, enquadramento, iphan, licenciamento-monofasico, licenca-instalacao, licenciamento-ambiental, licenciamento-trifasico, licenca-operacao, licenca-previa, outorga, pca, prazo, publicacao-dioe, renovacao, responsavel-tecnico, rlas, supressao-vegetacao, taxa-ambiental, validade]
+tags: [licenca-ampliacao, anuencia, audiencia-publica, autorizacao-ambiental, car, casos-omissos, certidao-municipal, condicionante, declaracao-adesao-compromisso, declaracao-anuencia, declaracao-ciencia, declaracao-veracidade, dispensa, estudo-impacto-ambiental, iphan, licenciamento-monofasico, licenca-instalacao, licenciamento-ambiental, licenciamento-trifasico, licenca-operacao, licenca-previa, outorga, pca, prazo, publicacao-dioe, renovacao, responsavel-tecnico, renovacao-licenca-ambiental, supressao-vegetacao, taxa-ambiental, validade]
 fonte: "PDF do eProtocolo (documento assinado digitalmente em 05/03/2021), 11 páginas, com o texto da Resolução, os Anexos I a VIII e um sumário (não transcrito)."
 ---
 

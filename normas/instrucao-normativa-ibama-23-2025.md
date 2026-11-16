@@ -19,7 +19,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-federal-12130-2024]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-federal-6938-1981]]", "[[lei-federal-7735-1989]]", "[[portaria-ibama-73-2025]]"]
-tags: [agrotoxico, alteracao, certidao, ctf, dof, enquadramento, incluido, potencial-poluidor, redacao-alterada, revogado, tcfa]
+tags: [agrotoxico, alteracao, certidao, ctf, dof, incluido, potencial-poluidor, redacao-alterada, revogado, tcfa]
 fonte: "PDF da página do DOU (in.gov.br) impresso do navegador (Skia/PDF, 11 páginas), enviado por Leo"
 ---
 

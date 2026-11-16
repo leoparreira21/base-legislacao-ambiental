@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[instrucao-normativa-iat-47-2025]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-17048-2012]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]", "[[lei-federal-13465-2017]]", "[[lei-federal-15190-2025]]", "[[lei-federal-17277-2012]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9605-1998]]", "[[portaria-170-1987]]", "[[portaria-iap-256-2013]]", "[[resolucao-conama-237-1997]]", "[[resolucao-conama-302-2002]]", "[[resolucao-conama-369-2006]]", "[[resolucao-conama-6-1986]]"]
-tags: [app, autorizacao-ambiental, compensacao, condicionante, drenagem, efluente, fauna, licenciamento-ambiental, monitoramento, outorga, renovacao, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental]
+tags: [app, autorizacao-ambiental, compensacao, condicionante, sistema-drenagem, efluente, fauna, licenciamento-ambiental, monitoramento, outorga, renovacao, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental]
 anexos: "tipo 2: II a V; tipo 1: I"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_64-2025-pacuera_app-23949402-1.pdf, 53 páginas)"
 ---

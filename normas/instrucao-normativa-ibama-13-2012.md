@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-federal-6099-2007]]", "[[lei-federal-12305-2010]]", "[[lei-federal-6938-1981]]", "[[portaria-svs-ms-344-1998]]", "[[resolucao-cnen-112-2011]]", "[[resolucao-conama-358-2005]]", "[[resolucao-conama-401-2008]]"]
-tags: [agrotoxico, classificacao-residuo, ctf, eletroeletronico, embalagem, industria-couro, industria-grafica, industria-madeira, industria-metalurgica, industria-quimica, lampada, lodo, logistica-reversa, medicamento, mercurio, oleo-lubrificante, pcb, petroleo, pgrs, pilha-bateria, pneu, processo-termico, residuo-agrossilvopastoril, residuo-construcao-civil, residuo-industrial, residuo-mineracao, residuo-perigoso, residuo-servico-saude, residuo-solido, residuo-solido-urbano, sinir, solvente, tcfa, tinta, tratamento-residuo, tratamento-superficie]
+tags: [agrotoxico, classificacao-residuo, ctf, eletroeletronico, embalagem, industria-couro, industria-grafica, industria-madeira, industria-metalurgica, industria-quimica, lampada, lodo, logistica-reversa, medicamento, mercurio, oleo-lubrificante, pcb, petroleo, plano-gerenciamento-residuos-solidos, pilha-bateria, pneu, processo-termico, residuo-agrossilvopastoril, residuo-construcao-civil, residuo-industrial, residuo-mineracao, residuo-perigoso, residuo-servico-saude, residuo-solido, residuo-solido-urbano, sinir, solvente, tcfa, tinta, tratamento-residuo, tratamento-superficie]
 fonte: "PDF do portal do IBAMA (LibreOffice, 19 páginas), com o aviso 'Esta versão não substitui a publicada no DOU em 20.dez.2012', enviado por Leo"
 ---
 

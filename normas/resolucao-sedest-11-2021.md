@@ -19,7 +19,7 @@ alterado_por: []
 revoga: ["[[portaria-iap-19-2017]]"]
 revogado_por: ["[[decreto-estadual-9541-2025]]"]
 cita: ["[[lei-estadual-19848-2019]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[decreto-federal-9073-2017]]", "[[resolucao-conama-279-2001]]", "[[resolucao-cema-107-2020]]", "[[resolucao-sema-51-2009]]", "[[lei-estadual-10233-1992]]", "[[resolucao-conama-6-1986]]", "[[resolucao-conama-2-1994]]", "[[resolucao-conama-1-1986]]", "[[resolucao-conama-9-1987]]", "[[lei-federal-9605-1998]]", "[[portaria-iap-19-2017]]"]
-tags: [autorizacao-ambiental, casos-omissos, condicionante, dispensa, eia-rima, energia-solar, enquadramento, iphan, licenciamento-monofasico, licenca-instalacao, licenciamento-ambiental, licenciamento-trifasico, licenca-operacao, licenca-previa, monitoramento, outorga, pba, pca, porte, prazo, publicacao-dioe, renovacao, residuo-solido, responsavel-tecnico, rlas, rlo, supressao-vegetacao, taxa-ambiental, validade]
+tags: [autorizacao-ambiental, casos-omissos, condicionante, dispensa, estudo-impacto-ambiental, geracao-energia, iphan, licenciamento-monofasico, licenca-instalacao, licenciamento-ambiental, licenciamento-trifasico, licenca-operacao, licenca-previa, monitoramento, outorga, pba, pca, porte, prazo, publicacao-dioe, renovacao, residuo-solido, responsavel-tecnico, renovacao-licenca-ambiental, supressao-vegetacao, taxa-ambiental, validade]
 fonte: "PDF do eProtocolo (documento assinado digitalmente em 05/03/2021), 8 páginas."
 ---
 

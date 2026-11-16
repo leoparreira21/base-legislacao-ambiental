@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-38-2025]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-13433-2026]]", "[[decreto-estadual-1940-1996]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-5503-2002]]", "[[decreto-estadual-6674-2002]]", "[[decreto-estadual-8680-2013]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-38-2025]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-12493-1999]]", "[[lei-estadual-16346-2009]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-estadual-7109-1979]]", "[[lei-federal-12651-2012]]", "[[lei-federal-19848-2019]]", "[[lei-federal-19857-2019]]", "[[lei-federal-9605-1998]]", "[[portaria-iap-212-2019]]", "[[portaria-iat-429-2026]]", "[[resolucao-conama-307-2002]]", "[[resolucao-conama-6-1986]]", "[[resolucao-sedest-2-2025]]"]
-tags: [app, autorizacao-ambiental, car, condicionante, drenagem, efluente, fauna, flora, infracao-ambiental, licenciamento-ambiental, monitoramento, outorga, recurso-hidrico, renovacao, reserva-legal, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, unidade-conservacao, validade]
+tags: [app, autorizacao-ambiental, car, condicionante, sistema-drenagem, efluente, fauna, flora, infracao-ambiental, licenciamento-ambiental, monitoramento, outorga, recurso-hidrico, renovacao, reserva-legal, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, unidade-conservacao, validade]
 anexos: "tipo 2 (arquivos próprios): 3, 4, 5, 6, 7, 10"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_14-2026-empreedimentos_unidade_de_gerenciamento_de_lodo_ugl-1.pdf, 115 páginas)"
 ---

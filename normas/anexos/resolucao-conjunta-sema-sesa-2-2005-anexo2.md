@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: "PGRSS"
 atividades: [servico-saude]
 modalidades: []
-tags: [pgrss, residuo-servico-saude, servico-saude, classificacao-residuo, rejeito-radioativo, tratamento-efluente, armazenamento-residuo, plano-atendimento-emergencia, automonitoramento, caldeira, emissao-atmosferica, gerenciamento-residuo]
+tags: [pgrss, residuo-servico-saude, servico-saude, classificacao-residuo, rejeito-radioativo, tratamento-efluente, armazenamento-residuo, plano-atendimento-emergencia, automonitoramento, caldeira, emissao-atmosferica, plano-gerenciamento-residuos-solidos]
 fonte: "PDF da Resolução Conjunta SEMA/SESA nº 002/2005 enviado pelo usuário; páginas 13 a 18. O título vem do próprio anexo."
 ---
 

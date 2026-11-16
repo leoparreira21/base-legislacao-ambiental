@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-5711-2024]]", "[[decreto-federal-9310-2018]]", "[[lei-federal-10257-2001]]", "[[lei-federal-12651-2012]]", "[[lei-federal-13089-2015]]", "[[lei-federal-13465-2017]]", "[[resolucao-conama-369-2006]]"]
-tags: [app, drenagem, fauna, flora, outorga, residuo-solido, responsavel-tecnico, sancao]
+tags: [app, sistema-drenagem, fauna, flora, outorga, residuo-solido, responsavel-tecnico, sancao]
 anexos: nenhum
 fonte: "PDF fornecido pelo usuário (in052024_231434887_appurbanaemregularizacaofundiariaurbanareurb.pdf, 7 páginas)"
 ---

@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-1940-1996]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-6674-2002]]", "[[decreto-estadual-8680-2013]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-10233-1992]]", "[[lei-estadual-12493-1999]]", "[[lei-estadual-16346-2009]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]", "[[lei-federal-9605-1998]]", "[[portaria-iap-212-2019]]", "[[portaria-iap-256-2013]]", "[[resolucao-cema-129-2023]]", "[[resolucao-cema-76-2009]]", "[[resolucao-conama-307-2002]]", "[[resolucao-conama-6-1986]]", "[[resolucao-sedest-2-2025]]"]
-tags: [agua-subterranea, autorizacao-ambiental, car, condicionante, drenagem, efluente, eia-rima, fauna, flora, infracao-ambiental, licenciamento-ambiental, monitoramento, outorga, recurso-hidrico, renovacao, reserva-legal, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, terraplanagem, validade]
+tags: [agua-subterranea, autorizacao-ambiental, car, condicionante, sistema-drenagem, efluente, estudo-impacto-ambiental, fauna, flora, infracao-ambiental, licenciamento-ambiental, monitoramento, outorga, recurso-hidrico, renovacao, reserva-legal, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, terraplanagem, validade]
 anexos: "tipo 2: II e IV a VII; tipo 1: III; tipo 3: I"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_46-2025_-_empreendimentos_de_fundicao_de_chumbo_-_23.815.801-0.pdf, 85 páginas)"
 ---

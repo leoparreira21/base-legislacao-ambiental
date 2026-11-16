@@ -19,7 +19,7 @@ alterado_por: []
 revoga: []
 revogado_por: ["[[decreto-estadual-9541-2025]]"]
 cita: ["[[lei-estadual-19848-2019]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[resolucao-conama-237-1997]]", "[[resolucao-cema-107-2020]]", "[[resolucao-conama-6-1986]]"]
-tags: [autorizacao-ambiental, certidao-municipal, condicionante, declaracao-adesao-compromisso, declaracao-veracidade, dispensa, enquadramento, fiscalizacao, licenciamento-monofasico, licenciamento-ambiental, licenca-operacao, lor, mce, pbca, porte, prazo, publicacao-dioe, renovacao, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, validade]
+tags: [autorizacao-ambiental, certidao-municipal, condicionante, declaracao-adesao-compromisso, declaracao-veracidade, dispensa, fiscalizacao, licenciamento-monofasico, licenciamento-ambiental, licenca-operacao, lor, mce, pbca, porte, prazo, publicacao-dioe, renovacao, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, validade]
 fonte: "PDF do eProtocolo (documento assinado digitalmente em 05/03/2021), 8 páginas, com o texto da Resolução e os Anexos I a VI."
 ---
 

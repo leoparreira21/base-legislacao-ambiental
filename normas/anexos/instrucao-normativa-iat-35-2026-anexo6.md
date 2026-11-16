@@ -6,7 +6,7 @@ tipo_anexo: diretriz-estudo
 estudo: "Diagnóstico Hidrológico/Hidráulico"
 atividades: [canalizacao-curso-agua]
 modalidades: [aa, lp]
-tags: [canalizacao, diagnostico-hidrologico, hidraulica, drenagem]
+tags: [canalizacao, diagnostico-hidrologico, hidraulica, sistema-drenagem]
 fonte: "PDF da Instrução Normativa IAT nº 35/2026 enviado pelo usuário; páginas 32–32."
 ---
 

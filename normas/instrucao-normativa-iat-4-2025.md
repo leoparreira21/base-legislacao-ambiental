@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[instrucao-normativa-4-2025]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-8680-2013]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-4-2025]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]"]
-tags: [autorizacao-ambiental, car, condicionante, drenagem, licenciamento-ambiental, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, terraplanagem, validade]
+tags: [autorizacao-ambiental, car, condicionante, sistema-drenagem, licenciamento-ambiental, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, terraplanagem, validade]
 anexos: "tipo 2: II; tipo 3: I"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_04-2025_-_terraplanagem_-_23.818.036-8_-_republicacao.pdf, 16 páginas)"
 ---

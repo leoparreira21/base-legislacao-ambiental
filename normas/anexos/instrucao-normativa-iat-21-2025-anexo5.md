@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Projeto de Terraplenagem"
 atividades: [empreendimento-imobiliario]
 modalidades: [las, lasa, li, lia]
-tags: [app, conservacao-solo, destinacao-final, disposicao-final, distancia-minima, drenagem, licenciamento-ambiental, supressao-vegetacao, terraplanagem]
+tags: [app, conservacao-solo, destinacao-final, disposicao-final, distancia-minima, sistema-drenagem, licenciamento-ambiental, supressao-vegetacao, terraplanagem]
 fonte: "PDF IN 21 2025.pdf, Instituto Água e Terra, enviado pelo usuário; páginas 56–60."
 ---
 

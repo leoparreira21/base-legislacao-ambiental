@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: Laudo de conclusão de obra
 atividades: [armazenamento-agrotoxico]
 modalidades: [las, lasa, lo, loa]
-tags: [agua-pluvial, licenca-ampliacao, laudo-conclusao-obra, medida-mitigadora, residuo-solido, responsavel-tecnico, tratamento-efluente]
+tags: [sistema-drenagem, licenca-ampliacao, laudo-conclusao-obra, medida-mitigadora, residuo-solido, responsavel-tecnico, tratamento-efluente]
 fonte: PDF da republicação da IN IAT 28/2025 (eProtocolo 23.735.459-1, inserido em 18/11/2025), página 80
 ---
 

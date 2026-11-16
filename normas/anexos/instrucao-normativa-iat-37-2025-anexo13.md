@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: PCPA
 atividades: [esgotamento-sanitario, saneamento]
 modalidades: [li]
-tags: [agua-pluvial, armazenamento-residuo, esgotamento-sanitario, gerenciamento-residuo, impacto-ambiental, lodo-esgoto, medida-mitigadora, pcpa, pgr, tratamento-efluente, vazao]
+tags: [sistema-drenagem, armazenamento-residuo, esgotamento-sanitario, plano-gerenciamento-residuos-solidos, impacto-ambiental, lodo-esgoto, medida-mitigadora, pcpa, pgr, tratamento-efluente, vazao]
 fonte: "IN IAT nº 37/2025, Anexo XIII, PDF fornecido, pp. 111–115."
 ---
 

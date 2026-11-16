@@ -6,7 +6,7 @@ tipo_anexo: procedimento-tecnico
 estudo: "Roteiro de Análise Perimetral de Imóvel Rural de Assentamento de Reforma Agrária"
 atividades: [assentamento-rural, cadastro-ambiental-rural]
 modalidades: [nenhuma]
-tags: [app, car, geoprocessamento, imovel-rural, incra, reserva-legal, sicar, uso-restrito]
+tags: [app, car, georreferenciamento, imovel-rural, incra, reserva-legal, sicar, uso-restrito]
 fonte: "PDF Roteiro IRARA conclusivo, versão 1.0, de 02/10/2024, 140 páginas, fornecido pelo usuário"
 ---
 

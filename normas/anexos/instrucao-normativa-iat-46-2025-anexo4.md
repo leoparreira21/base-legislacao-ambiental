@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: pcpa
 atividades: [fundicao-chumbo]
 modalidades: [li, lir]
-tags: [pcpa, fundicao-chumbo, terraplanagem, emissao-atmosferica, efluente, residuo-solido, agua-pluvial]
+tags: [pcpa, fundicao-chumbo, terraplanagem, emissao-atmosferica, efluente, residuo-solido, sistema-drenagem]
 fonte: PDF da IN IAT 46/2025 (eProtocolo nº 23.815.801-0), anexo integrante do arquivo assinado em 30/04/2025
 ---
 

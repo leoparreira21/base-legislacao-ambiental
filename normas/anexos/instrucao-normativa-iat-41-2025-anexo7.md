@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [compostagem]
 modalidades: [las, li, lasa, lia, lasr]
-tags: [agua-pluvial, licenca-ampliacao, app, area-influencia, armazenamento-residuo, car, cnae, compostagem, corpo-hidrico, diagnostico-ambiental, efluente, emissao-atmosferica, geologia, georreferenciamento, lancamento, manancial, movimentacao-solo, outorga-previa, padrao-emissao, pca, recurso-hidrico, reserva-legal, residuo-perigoso, residuo-solido, agua-reuso, supressao-vegetacao, tratamento-efluente, unidade-conservacao, uso-solo, zoneamento]
+tags: [sistema-drenagem, licenca-ampliacao, app, area-influencia, armazenamento-residuo, car, cnae, compostagem, corpo-hidrico, diagnostico-ambiental, efluente, emissao-atmosferica, geologia, georreferenciamento, lancamento, manancial, movimentacao-solo, outorga-previa, padrao-emissao, pca, recurso-hidrico, reserva-legal, residuo-perigoso, residuo-solido, agua-reuso, supressao-vegetacao, tratamento-efluente, unidade-conservacao, uso-solo, zoneamento]
 fonte: PDF da IN IAT 41/2025, páginas 80 a 84
 ---
 

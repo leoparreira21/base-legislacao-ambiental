@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Plano de Gerenciamento de Resíduos Sólidos – PGRS"
 atividades: [unidade-gerenciamento-lodo]
 modalidades: [lo, loa, lor]
-tags: [lodo-esgoto, pgrs, residuo-solido, ugl]
+tags: [lodo-esgoto, plano-gerenciamento-residuos-solidos, residuo-solido, ugl]
 fonte: "PDF da Instrução Normativa IAT nº 14/2026 enviado pelo usuário; páginas 84–87."
 ---
 

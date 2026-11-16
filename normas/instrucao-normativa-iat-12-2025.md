@@ -18,7 +18,7 @@ alterado_por: []
 revoga: ["[[portaria-iap-96-2007]]", "[[portaria-iap-176-2007]]"]
 revogado_por: []
 cita: ["[[decreto-estadual-9415-2025]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-11977-2022]]", "[[lei-estadual-22252-2024]]", "[[decreto-estadual-9541-2025]]", "[[lei-estadual-11054-1995]]", "[[decreto-estadual-1940-1996]]", "[[decreto-federal-5975-2006]]", "[[lei-federal-9605-1998]]", "[[decreto-federal-6514-2008]]"]
-tags: [app, arborizacao-urbana, especies-exoticas, licenciamento-ambiental, materia-prima-florestal, perimetro-urbano, reposicao-florestal, reserva-legal, sancao, serflor, transporte-florestal]
+tags: [app, arborizacao-urbana, especie-exotica, licenciamento-ambiental, materia-prima-florestal, perimetro-urbano, reposicao-florestal, reserva-legal, sancao, serflor, transporte-florestal]
 anexos: nenhum
 fonte: PDF assinado digitalmente pelo Diretor-Presidente do IAT em 24/04/2025 (eProtocolo nº 23.754.347-5, 4 páginas)
 ---

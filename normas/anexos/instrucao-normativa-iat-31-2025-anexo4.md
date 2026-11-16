@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [triagem-residuo-reciclavel]
 modalidades: [las, lasa, lasr, li, lia, lir]
-tags: [armazenamento-residuo, agua-pluvial, app, bem-cultural, captacao, cobertura-residuo, conservacao-solo, corpo-hidrico, destinacao-final, diagnostico-ambiental, dimensionamento, efluente, emissao-atmosferica, esgoto-sanitario, especie-exotica, fauna, geologia, gerenciamento-residuo, impacto-ambiental, medida-compensatoria, medida-mitigadora, nascente, odor, poluicao-sonora, reserva-legal, residuo-construcao-civil, residuo-solido, responsavel-legal, responsavel-tecnico, segregacao, sistema-isolamento, terraplanagem, transporte, tratamento-efluente, triagem, unidade-conservacao, uso-solo, vegetacao-nativa]
+tags: [armazenamento-residuo, sistema-drenagem, app, bem-cultural, captacao, cobertura-residuo, conservacao-solo, corpo-hidrico, destinacao-final, diagnostico-ambiental, dimensionamento, efluente, emissao-atmosferica, esgoto-sanitario, especie-exotica, fauna, geologia, plano-gerenciamento-residuos-solidos, impacto-ambiental, medida-compensatoria, medida-mitigadora, nascente, odor, poluicao-sonora, reserva-legal, residuo-construcao-civil, residuo-solido, responsavel-legal, responsavel-tecnico, segregacao, sistema-isolamento, terraplanagem, transporte, tratamento-efluente, triagem, unidade-conservacao, uso-solo, vegetacao-nativa]
 fonte: PDF da IN IAT 31/2025 (82c2ed80-IN_312025.pdf), páginas 55 a 59
 ---
 

@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PGRS
 atividades: [posto-combustivel]
 modalidades: [lo, rlo, loa, lor]
-tags: [pgrs, residuo-solido, armazenamento-residuo, classificacao-residuo, autorizacao-ambiental, mtr, sinir]
+tags: [plano-gerenciamento-residuos-solidos, residuo-solido, armazenamento-residuo, classificacao-residuo, autorizacao-ambiental, mtr, sinir]
 fonte: PDF da IN IAT nº 28/2026, páginas 102 a 107
 ---
 

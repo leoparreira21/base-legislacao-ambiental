@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: "Plano de Gerenciamento de Resíduos Sólidos – PGRS"
 atividades: [empreendimento-nautico, estrutura-nautica]
 modalidades: [lo, loa, lor]
-tags: [estrutura-nautica, pgrs, residuo-solido, licenciamento-ambiental]
+tags: [estrutura-nautica, plano-gerenciamento-residuos-solidos, residuo-solido, licenciamento-ambiental]
 fonte: "PDF da Instrução Normativa IAT nº 30/2026 enviado pelo usuário; páginas 65–67."
 ---
 

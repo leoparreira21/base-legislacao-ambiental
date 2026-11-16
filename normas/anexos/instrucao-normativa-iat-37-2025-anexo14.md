@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: PGRS
 atividades: [saneamento]
 modalidades: [lo]
-tags: [saneamento, pgrs, residuo-solido]
+tags: [saneamento, plano-gerenciamento-residuos-solidos, residuo-solido]
 fonte: "IN IAT nº 37/2025, Anexo XIV, PDF fornecido, pp. 116–120."
 ---
 

@@ -7,7 +7,7 @@ tipo_anexo: diretriz-estudo
 estudo: pgrs
 atividades: [atividade-ensino, empreendimento-ensino]
 modalidades: [las, lasr, li, lo, lir, lor]
-tags: [pgrs, atividade-ensino, residuo-solido, armazenamento-residuo, destinacao-final, monitoramento]
+tags: [plano-gerenciamento-residuos-solidos, atividade-ensino, residuo-solido, armazenamento-residuo, destinacao-final, monitoramento]
 fonte: PDF da IN IAT 60/2025 (eProtocolo nº 24.535.432-0), anexos integrantes do arquivo assinado em 16/09/2025
 ---
 

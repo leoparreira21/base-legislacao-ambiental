@@ -6,7 +6,7 @@ tipo_anexo: termo-referencia
 estudo: Laudo de Conclusão de Obras
 atividades: [bovinocultura]
 modalidades: [las, lo, loa]
-tags: [agua-pluvial, bovinocultura, laudo-conclusao-obra, residuo-solido, responsavel-tecnico, tratamento-efluente, tratamento-residuo]
+tags: [sistema-drenagem, bovinocultura, laudo-conclusao-obra, residuo-solido, responsavel-tecnico, tratamento-efluente, tratamento-residuo]
 fonte: "PDF IN 23 2026.pdf fornecido por Leo; páginas 73–74 de 81, conferidas nas imagens."
 ---
 

@@ -23,7 +23,7 @@ alterado_por: []
 revoga: ["[[decreto-estadual-4646-2001]]"]
 revogado_por: []
 cita: ["[[constituicao-estadual-1989]]", "[[lei-estadual-12726-1999]]", "[[lei-federal-9433-1997]]", "[[lei-federal-9984-2000]]", "[[decreto-estadual-9129-2010]]", "[[decreto-estadual-9130-2010]]", "[[decreto-estadual-4646-2001]]"]
-tags: [agua-subterranea, auto-infracao, automonitoramento, bacia-hidrografica, certidao-municipal, diluicao, efluente, emolumento, enquadramento, fiscalizacao, licenciamento-ambiental, manual-tecnico, monitoramento, outorga, outorga-direito, outorga-previa, prazo, recurso-hidrico, renovacao, segrh, suspensao-outorga, transferencia-titularidade, uso-insignificante]
+tags: [agua-subterranea, auto-infracao, automonitoramento, bacia-hidrografica, certidao-municipal, diluicao, efluente, emolumento, fiscalizacao, licenciamento-ambiental, manual-tecnico, monitoramento, outorga, outorga-direito, outorga-previa, prazo, recurso-hidrico, renovacao, segrh, suspensao-outorga, transferencia-titularidade, uso-insignificante]
 fonte: "PDF do texto do portal Legislação Estadual do Paraná (legislacao.pr.gov.br), enviado por Leo. O portal diz: 'Este texto não substitui o publicado no Diário Oficial do Estado'."
 ---
 

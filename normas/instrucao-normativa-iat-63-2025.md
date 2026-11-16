@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-6514-2008]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9975-2014]]", "[[instrucao-normativa-6-2023]]", "[[lei-estadual-12726-1999]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-9433-1997]]", "[[lei-federal-9605-1998]]"]
-tags: [condicionante, drenagem, efluente, infracao-ambiental, monitoramento, outorga, sancao, validade]
+tags: [condicionante, sistema-drenagem, efluente, infracao-ambiental, monitoramento, outorga, sancao, validade]
 anexos: "tipo 3 (figuras): I; tipo 1 (planilhas-modelo): II a VI"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_63-2025-instalacao_de_medidores-24390202-9.pdf, 28 páginas)"
 ---

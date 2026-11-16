@@ -7,7 +7,7 @@ tipo_anexo: termo-referencia
 estudo: PCA
 atividades: [abastecimento-agua]
 modalidades: [las, li]
-tags: [abastecimento, app, diagnostico-ambiental, gerenciamento-residuo, lodo, outorga, pca, pgr, potabilidade, reserva-legal, tratamento-efluente]
+tags: [abastecimento, app, diagnostico-ambiental, plano-gerenciamento-residuos-solidos, lodo, outorga, pca, pgr, potabilidade, reserva-legal, tratamento-efluente]
 fonte: "PDF da IN IAT 37/2025 enviado pelo usuário, páginas 93 a 98"
 ---
 

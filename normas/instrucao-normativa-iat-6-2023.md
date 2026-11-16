@@ -18,7 +18,7 @@ alterado_por: []
 revoga: []
 revogado_por: []
 cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-54-2023]]", "[[lei-estadual-12726-1999]]", "[[lei-estadual-20070-2019]]", "[[resolucao-cerh-pr-9-2020]]", "[[resolucao-sedest-33-2023]]", "[[resolucao-sema-39-2004]]", "[[resolucao-sema-52-2009]]"]
-tags: [drenagem, efluente, monitoramento, outorga, validade]
+tags: [sistema-drenagem, efluente, monitoramento, outorga, validade]
 anexos: nenhum
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_06-2023_usos_insgnicantes_para_comite_de_bacias.pdf, 5 páginas)"
 ---
