@@ -893,6 +893,8 @@
   "lei-federal-6766-1979": ["parcelamento do solo", "loteamento", "desmembramento", "empreendimento imobiliario", "condominio de lotes"],
   "lei-federal-6496-1977": ["anotacao de responsabilidade tecnica", "art", "responsavel tecnico", "crea"],
   "resolucao-cema-90-2013": ["compostagem", "composto organico", "usina de compostagem", "residuo solido urbano compostavel", "grande gerador"],
-  "resolucao-cema-100-2017": ["laboratorio ambiental", "cadastro de laboratorio", "ensaio ambiental", "ccl", "medicao ambiental"]
+  "resolucao-cema-100-2017": ["laboratorio ambiental", "cadastro de laboratorio", "ensaio ambiental", "ccl", "medicao ambiental"],
+  "resolucao-conama-516-2026": ["equipamento eletroeletronico", "eletroeletronico", "residuo eletroeletronico", "substancia perigosa em equipamento", "fabricacao de equipamentos eletronicos", "importacao de equipamentos eletroeletronicos"],
+  "resolucao-conama-517-2026": ["aquicultura", "piscicultura", "carcinicultura", "malacocultura", "algicultura", "ranicultura", "tanque rede", "viveiro escavado", "parque aquicola"]
  }
 }
