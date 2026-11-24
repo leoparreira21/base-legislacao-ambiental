@@ -18,7 +18,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#agua-salobra` | 3 |
 | `#agua-subterranea` | 34 |
 | `#alocacao-negociada` | 1 |
-| `#alteracao` | 10 |
+| `#alteracao` | 11 |
 | `#amazonia-legal` | 1 |
 | `#amep` | 1 |
 | `#ana` | 2 |
@@ -190,6 +190,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#direito-transicao` | 3 |
 | `#dispensa` | 42 |
 | `#dispensa-licitacao` | 6 |
+| `#dispersante-quimico` | 1 |
 | `#disposicao-final` | 15 |
 | `#disposicao-solo` | 16 |
 | `#distancia-minima` | 21 |
@@ -500,7 +501,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#pesca` | 6 |
 | `#pesquisa` | 2 |
 | `#pesquisa-mineral` | 2 |
-| `#petroleo` | 7 |
+| `#petroleo` | 8 |
 | `#pev` | 4 |
 | `#pfnm` | 1 |
 | `#pgr` | 12 |
@@ -605,6 +606,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#rede-esgoto` | 4 |
 | `#refinaria` | 3 |
 | `#regiao-metropolitana` | 5 |
+| `#registro` | 1 |
 | `#regularizacao` | 37 |
 | `#regularizacao-fundiaria` | 5 |
 | `#reincidencia` | 5 |
@@ -724,7 +726,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#tipologia` | 7 |
 | `#tombamento` | 3 |
 | `#topo-morro` | 1 |
-| `#toxicidade` | 1 |
+| `#toxicidade` | 2 |
 | `#transbordo-residuos` | 8 |
 | `#transferencia-direito-construir` | 1 |
 | `#transferencia-titularidade` | 3 |

@@ -1,6 +1,7 @@
 {
  "_leia": "Âmbito das normas setoriais para a busca do site. Uma norma listada aqui só aparece se a atividade ou a busca citar uma destas expressões (sem acento). Normas fora desta lista são tratadas como transversais: entram quando a ementa cita um termo da busca. Anexos herdam o âmbito da norma-mãe. Ao incluir uma norma setorial na base, acrescente-a aqui.",
  "ambitos": {
+  "instrucao-normativa-ibama-7-2001": ["dispersante quimico", "dispersantes quimicos", "derrame de petroleo"],
   "instrucao-normativa-iat-1-2020": [
    "reserva legal",
    "compensacao de reserva legal",
