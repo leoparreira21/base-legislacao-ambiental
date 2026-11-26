@@ -897,6 +897,7 @@
   "resolucao-conama-516-2026": ["equipamento eletroeletronico", "eletroeletronico", "residuo eletroeletronico", "substancia perigosa em equipamento", "fabricacao de equipamentos eletronicos", "importacao de equipamentos eletroeletronicos"],
   "resolucao-conama-517-2026": ["aquicultura", "piscicultura", "carcinicultura", "malacocultura", "algicultura", "ranicultura", "tanque rede", "viveiro escavado", "parque aquicola"],
   "lei-estadual-8935-1989": ["manancial", "bacia manancial", "abastecimento publico"],
-  "portaria-ms-888-2021": ["agua para consumo humano", "potabilidade", "padrao de potabilidade", "solucao alternativa coletiva", "sistema de abastecimento de agua", "carro-pipa"]
+  "portaria-ms-888-2021": ["agua para consumo humano", "potabilidade", "padrao de potabilidade", "solucao alternativa coletiva", "sistema de abastecimento de agua", "carro-pipa"],
+  "resolucao-conjunta-ibama-sema-iap-7-2008": ["corte de arvore nativa", "exploracao eventual", "arvore isolada", "ambiente agropastoril", "aproveitamento de material lenhoso", "corte de arvore em area urbana", "pequeno produtor rural", "mata atlantica"]
  }
 }
