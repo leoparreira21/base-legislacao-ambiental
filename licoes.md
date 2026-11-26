@@ -419,3 +419,8 @@ Ajustes sugeridos para as habilidades que ficam fora do repositório. Remova o i
 - 2026-11-26, decreto que aprova regulamento "anexo" sem título ANEXO (CLT, Decretos 88.821/1983, 96.044/1988, 4.954/2004): os artigos recomeçam depois do fecho; o regulamento vira `anexo1` e os IDs ficam `anexo1_artN`.
 - 2026-11-26, nomes de link sem órgão (`resolucao-736-2024`, `portaria-404-2012`): o órgão costuma estar na frase ("da ANAC", "da SPU"); corrigido em 30 normas. Continuam sem órgão: `portaria-17-2025`, `instrucao-normativa-2-2024` (na IN IAT 50/2025), `instrucao-normativa-6-2023`, `instrucao-normativa-7-2023`, `instrucao-normativa-38-2025`, `instrucao-normativa-iap-100004`.
 - 2026-11-26, ao deduplicar listas do frontmatter por regex, pular as que não são de links: a primeira versão da correção esvaziou o campo `tags` de 30 normas (desfeito antes do commit).
+
+## Resolução Conjunta IBAMA/SEMA/IAP 7/2008 (26/11/2026)
+- 2026-11-26, impressão do portal legislacao.pr.gov.br (Skia/PDF, 5 págs.): os únicos traços do PDF eram sublinhados de links do portal (linha na base do texto, não no meio); sem tachado. Fazer: antes de procurar redação antiga, conferir a posição vertical dos traços de `get_drawings()` contra o bbox da linha (base = sublinhado; meio = tachado).
+- 2026-11-26, artigo com um só parágrafo chamado "Parágrafo Primeiro" no original (arts. 7º e 11): usar `par1`, seguindo a letra, e registrar nas Notas; `par1u` só quando o original diz "Parágrafo único".
+- 2026-11-26, remissão a lei inexistente ("Lei nº 6.905/98" para as sanções, junto do Decreto 3.179/1999): manter o texto, apontar o link para a lei certa pelo contexto (`lei-federal-9605-1998`), registrar a exceção nas Notas e levar a Leo.

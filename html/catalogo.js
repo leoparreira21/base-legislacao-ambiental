@@ -16866,6 +16866,31 @@ window.CATALOGO_NORMAS = [
 "temas": {}
 },
 {
+"arquivo": "resolucao-conjunta-ibama-sema-iap-7-2008",
+"norma": "Resolução Conjunta IBAMA/SEMA/IAP nº 007/2008",
+"tipo": "resolucao-conjunta",
+"esfera": "estadual",
+"orgao": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis – IBAMA (Superintendência no Paraná); Secretaria de Estado do Meio Ambiente e dos Recursos Hídricos – SEMA/PR; Instituto Ambiental do Paraná – IAP (atual Instituto Água e Terra – IAT)",
+"ano": 2008,
+"ementa": "Regulamenta a exploração eventual de espécies arbóreas nativas em remanescentes de vegetação nativa do Bioma Mata Atlântica, em ambientes agropastoril e em áreas urbanas.",
+"situacao": "vigente",
+"apelidos": [],
+"temas": {
+"mata-atlantica": "",
+"supressao-vegetacao": "",
+"autorizacao-florestal": "",
+"arvore-isolada": "",
+"area-urbana": "",
+"loteamento": "",
+"agricultura-familiar": "",
+"comunidade-tradicional": "",
+"especie-ameacada": "",
+"estagio-sucessional": "",
+"reposicao-florestal": "",
+"lenha": ""
+}
+},
+{
 "arquivo": "resolucao-conjunta-sedest-iat-9-2022",
 "norma": "Resolução Conjunta SEDEST/IAT nº 9/2022",
 "tipo": "resolucao",
