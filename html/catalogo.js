@@ -14787,6 +14787,29 @@ window.CATALOGO_NORMAS = [
 }
 },
 {
+"arquivo": "portaria-ms-888-2021",
+"norma": "Portaria GM/MS nº 888/2021",
+"tipo": "portaria",
+"esfera": "federal",
+"orgao": "Ministério da Saúde – Gabinete do Ministro",
+"ano": 2021,
+"ementa": "Altera o Anexo XX da Portaria de Consolidação GM/MS nº 5, de 28 de setembro de 2017, para dispor sobre os procedimentos de controle e de vigilância da qualidade da água para consumo humano e seu padrão de potabilidade",
+"situacao": "vigente",
+"apelidos": [],
+"temas": {
+"potabilidade": "",
+"padrao-qualidade": "",
+"abastecimento": "",
+"turbidez": "",
+"cianobacteria": "",
+"coliforme": "",
+"agrotoxico": "",
+"monitoramento": "",
+"manancial": "",
+"plano-seguranca-agua": ""
+}
+},
+{
 "arquivo": "rdc-anvisa-222-2018",
 "norma": "RDC Anvisa nº 222/2018",
 "tipo": "rdc",
