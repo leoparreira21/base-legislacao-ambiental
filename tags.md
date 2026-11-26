@@ -4,13 +4,13 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 
 | Tag | Normas que usam |
 |---|---|
-| `#abastecimento` | 18 |
+| `#abastecimento` | 19 |
 | `#advertencia` | 4 |
 | `#aecr` | 1 |
 | `#aeroporto` | 5 |
 | `#agricultura-familiar` | 9 |
-| `#agropecuaria` | 11 |
-| `#agrotoxico` | 17 |
+| `#agropecuaria` | 12 |
+| `#agrotoxico` | 18 |
 | `#agua` | 1 |
 | `#agua-doce` | 3 |
 | `#agua-reuso` | 8 |
@@ -74,7 +74,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#avaliacao-risco` | 2 |
 | `#averbacao` | 6 |
 | `#avicultura` | 4 |
-| `#bacia-hidrografica` | 13 |
+| `#bacia-hidrografica` | 14 |
 | `#bacia-pirapo` | 1 |
 | `#bacia-tibagi` | 1 |
 | `#bagaco-cana` | 1 |
@@ -95,7 +95,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#caldeira` | 5 |
 | `#canalizacao` | 3 |
 | `#cancelamento-licenca` | 6 |
-| `#captacao` | 20 |
+| `#captacao` | 21 |
 | `#car` | 67 |
 | `#caracterizacao-agronomica` | 3 |
 | `#caracterizacao-empreendimento` | 3 |
@@ -114,7 +114,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#cianobacteria` | 2 |
 | `#cimento` | 3 |
 | `#classe-risco-solo` | 5 |
-| `#classificacao-corpo-agua` | 9 |
+| `#classificacao-corpo-agua` | 10 |
 | `#classificacao-instalacao-radiativa` | 1 |
 | `#classificacao-residuo` | 29 |
 | `#cnae` | 6 |
@@ -175,8 +175,8 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#delegacao-competencia` | 2 |
 | `#demolicao` | 3 |
 | `#deposito-rejeito-radioativo` | 2 |
-| `#desapropriacao` | 1 |
-| `#desmembramento` | 2 |
+| `#desapropriacao` | 2 |
+| `#desmembramento` | 3 |
 | `#despesca` | 2 |
 | `#dessedentacao-animal` | 4 |
 | `#destinacao-final` | 37 |
@@ -190,7 +190,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#direito-transicao` | 3 |
 | `#dispensa` | 42 |
 | `#dispensa-licitacao` | 6 |
-| `#disposicao-final` | 15 |
+| `#disposicao-final` | 16 |
 | `#disposicao-solo` | 16 |
 | `#distancia-minima` | 21 |
 | `#divida-ativa` | 4 |
@@ -217,10 +217,10 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#ensaio-percolacao` | 2 |
 | `#episodio-critico` | 3 |
 | `#eprotocolo` | 2 |
-| `#erosao` | 1 |
+| `#erosao` | 2 |
 | `#ert` | 1 |
 | `#escopo` | 1 |
-| `#esgotamento-sanitario` | 13 |
+| `#esgotamento-sanitario` | 14 |
 | `#esgoto-sanitario` | 26 |
 | `#especie-ameacada` | 8 |
 | `#especie-exotica` | 20 |
@@ -244,7 +244,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#fispq` | 5 |
 | `#fitossociologia` | 1 |
 | `#flora` | 44 |
-| `#floresta-plantada` | 5 |
+| `#floresta-plantada` | 6 |
 | `#fonte-existente` | 1 |
 | `#fonte-fixa` | 4 |
 | `#fonte-movel` | 2 |
@@ -254,11 +254,11 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#forno-crematorio` | 2 |
 | `#fosforo` | 6 |
 | `#frequencia-monitoramento` | 6 |
-| `#frigorifico` | 1 |
+| `#frigorifico` | 2 |
 | `#funai` | 5 |
 | `#fundicao` | 2 |
 | `#fundicao-chumbo` | 5 |
-| `#galvanoplastia` | 3 |
+| `#galvanoplastia` | 4 |
 | `#gas-natural` | 2 |
 | `#gee` | 2 |
 | `#geologia` | 11 |
@@ -276,12 +276,12 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#helminto` | 1 |
 | `#hidraulica` | 2 |
 | `#hidrogeologia` | 2 |
-| `#hospital` | 1 |
+| `#hospital` | 2 |
 | `#identificacao` | 1 |
 | `#imovel` | 2 |
 | `#imovel-rural` | 1 |
 | `#imovel-urbano` | 1 |
-| `#impacto-ambiental` | 45 |
+| `#impacto-ambiental` | 46 |
 | `#impacto-local` | 3 |
 | `#impacto-regional` | 1 |
 | `#impedimento-suspeicao` | 2 |
@@ -295,7 +295,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#incra` | 1 |
 | `#indeferimento` | 4 |
 | `#indicador-desempenho` | 1 |
-| `#industria` | 14 |
+| `#industria` | 15 |
 | `#industria-alimenticia` | 6 |
 | `#industria-bebidas` | 2 |
 | `#industria-borracha` | 5 |
@@ -307,14 +307,14 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#industria-madeira` | 12 |
 | `#industria-material-transporte` | 5 |
 | `#industria-mecanica` | 5 |
-| `#industria-metalurgica` | 8 |
+| `#industria-metalurgica` | 9 |
 | `#industria-moveleira` | 1 |
 | `#industria-plastico` | 3 |
-| `#industria-quimica` | 8 |
+| `#industria-quimica` | 9 |
 | `#industria-textil` | 6 |
 | `#industrias-diversas` | 5 |
 | `#inexigibilidade` | 6 |
-| `#infiltracao` | 3 |
+| `#infiltracao` | 4 |
 | `#informacao-falsa` | 6 |
 | `#informacao-pessoal` | 1 |
 | `#infracao` | 1 |
@@ -323,7 +323,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#injecao` | 1 |
 | `#inspecao-seguranca` | 1 |
 | `#instalacao-nuclear` | 3 |
-| `#instalacao-radiativa` | 4 |
+| `#instalacao-radiativa` | 5 |
 | `#instrucao-processual` | 1 |
 | `#integridade` | 1 |
 | `#interesse-social` | 7 |
@@ -382,12 +382,12 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#logistica-reversa` | 18 |
 | `#londrina` | 1 |
 | `#lor` | 25 |
-| `#loteamento` | 3 |
+| `#loteamento` | 4 |
 | `#lqa` | 1 |
 | `#lqp` | 1 |
 | `#maltearia` | 1 |
-| `#manancial` | 16 |
-| `#mandioca` | 2 |
+| `#manancial` | 17 |
+| `#mandioca` | 3 |
 | `#manejo-fauna` | 1 |
 | `#manejo-florestal` | 4 |
 | `#manifestacao-juridica` | 3 |
@@ -469,9 +469,9 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#padrao-emissao` | 10 |
 | `#padrao-intermediario` | 1 |
 | `#padrao-lancamento` | 11 |
-| `#padrao-qualidade` | 10 |
+| `#padrao-qualidade` | 11 |
 | `#papel-celulose` | 8 |
-| `#parcelamento-solo` | 8 |
+| `#parcelamento-solo` | 9 |
 | `#parecer-tecnico` | 9 |
 | `#parque-urbano` | 1 |
 | `#participacao-publica` | 3 |
@@ -594,6 +594,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#rca` | 2 |
 | `#rce` | 1 |
 | `#rdpa` | 5 |
+| `#reassentamento` | 1 |
 | `#recarga-artificial` | 1 |
 | `#reciclagem` | 17 |
 | `#recomposicao-vegetacao` | 1 |
@@ -675,7 +676,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#sinir` | 12 |
 | `#sinisa` | 2 |
 | `#sisnama` | 12 |
-| `#sistema-drenagem` | 72 |
+| `#sistema-drenagem` | 73 |
 | `#sistema-gerenciamento-riscos` | 1 |
 | `#sistema-informacao-ambiental` | 1 |
 | `#sistema-informacao-recursos-hidricos` | 2 |
@@ -692,7 +693,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#substancia-perigosa` | 5 |
 | `#substituicao` | 1 |
 | `#substrato-plantas` | 2 |
-| `#sucroalcooleira` | 2 |
+| `#sucroalcooleira` | 3 |
 | `#suderhsa` | 2 |
 | `#suinocultura` | 7 |
 | `#supressao-vegetacao` | 95 |
@@ -734,7 +735,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#transporte` | 26 |
 | `#transporte-florestal` | 3 |
 | `#transporte-residuos` | 14 |
-| `#tratamento-efluente` | 38 |
+| `#tratamento-efluente` | 39 |
 | `#tratamento-residuo` | 13 |
 | `#tratamento-semente` | 2 |
 | `#tratamento-superficie` | 2 |

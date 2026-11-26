@@ -895,6 +895,7 @@
   "resolucao-cema-90-2013": ["compostagem", "composto organico", "usina de compostagem", "residuo solido urbano compostavel", "grande gerador"],
   "resolucao-cema-100-2017": ["laboratorio ambiental", "cadastro de laboratorio", "ensaio ambiental", "ccl", "medicao ambiental"],
   "resolucao-conama-516-2026": ["equipamento eletroeletronico", "eletroeletronico", "residuo eletroeletronico", "substancia perigosa em equipamento", "fabricacao de equipamentos eletronicos", "importacao de equipamentos eletroeletronicos"],
-  "resolucao-conama-517-2026": ["aquicultura", "piscicultura", "carcinicultura", "malacocultura", "algicultura", "ranicultura", "tanque rede", "viveiro escavado", "parque aquicola"]
+  "resolucao-conama-517-2026": ["aquicultura", "piscicultura", "carcinicultura", "malacocultura", "algicultura", "ranicultura", "tanque rede", "viveiro escavado", "parque aquicola"],
+  "lei-estadual-8935-1989": ["manancial", "bacia manancial", "abastecimento publico"]
  }
 }
