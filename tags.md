@@ -10,7 +10,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#aeroporto` | 5 |
 | `#agricultura-familiar` | 9 |
 | `#agropecuaria` | 11 |
-| `#agrotoxico` | 19 |
+| `#agrotoxico` | 20 |
 | `#agua` | 1 |
 | `#agua-doce` | 3 |
 | `#agua-reuso` | 8 |
@@ -32,7 +32,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#app` | 101 |
 | `#apreensao` | 3 |
 | `#aquicultura` | 12 |
-| `#arborizacao-urbana` | 2 |
+| `#arborizacao-urbana` | 3 |
 | `#area-construida` | 8 |
 | `#area-contaminada` | 19 |
 | `#area-contigua` | 3 |
@@ -68,9 +68,9 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#audiencia-publica` | 8 |
 | `#auditoria` | 10 |
 | `#auto-infracao` | 11 |
-| `#automonitoramento` | 29 |
+| `#automonitoramento` | 30 |
 | `#autorizacao-ambiental` | 76 |
-| `#autorizacao-florestal` | 20 |
+| `#autorizacao-florestal` | 21 |
 | `#avaliacao-risco` | 2 |
 | `#averbacao` | 6 |
 | `#avicultura` | 4 |
@@ -193,7 +193,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#disposicao-final` | 15 |
 | `#disposicao-solo` | 16 |
 | `#distancia-minima` | 21 |
-| `#divida-ativa` | 4 |
+| `#divida-ativa` | 5 |
 | `#doacao-area` | 1 |
 | `#dof` | 7 |
 | `#dominialidade` | 19 |
@@ -240,7 +240,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#fca` | 1 |
 | `#fds` | 1 |
 | `#fertilizante` | 8 |
-| `#fiscalizacao` | 39 |
+| `#fiscalizacao` | 40 |
 | `#fispq` | 5 |
 | `#fitossociologia` | 1 |
 | `#flora` | 44 |
@@ -341,7 +341,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#itr` | 1 |
 | `#jucepar` | 1 |
 | `#karst` | 4 |
-| `#laboratorio` | 18 |
+| `#laboratorio` | 19 |
 | `#laboratorio-acreditado` | 4 |
 | `#lac` | 15 |
 | `#lagoa-tratamento` | 3 |
@@ -363,7 +363,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#licenca-previa` | 46 |
 | `#licenca-sanitaria` | 2 |
 | `#licenca-vencida` | 5 |
-| `#licenciamento-ambiental` | 153 |
+| `#licenciamento-ambiental` | 154 |
 | `#licenciamento-bifasico` | 8 |
 | `#licenciamento-federal` | 1 |
 | `#licenciamento-monofasico` | 44 |
@@ -421,7 +421,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#modalidade-licenciamento` | 1 |
 | `#modulo-fiscal` | 1 |
 | `#monitoramento` | 99 |
-| `#monitoramento-ambiental` | 4 |
+| `#monitoramento-ambiental` | 5 |
 | `#monitoramento-continuo` | 5 |
 | `#monitoramento-descontinuo` | 2 |
 | `#monitoramento-entorno` | 2 |
@@ -433,7 +433,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#movimentacao-solo` | 15 |
 | `#mtr` | 11 |
 | `#mudanca-uso` | 1 |
-| `#multa` | 14 |
+| `#multa` | 15 |
 | `#multa-ambiental` | 1 |
 | `#multa-diaria` | 1 |
 | `#municipio` | 21 |
@@ -522,7 +522,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#plano-intervencao` | 1 |
 | `#plano-manejo` | 5 |
 | `#plano-nacional-residuos` | 2 |
-| `#plano-recuperacao-area-degradada` | 22 |
+| `#plano-recuperacao-area-degradada` | 23 |
 | `#plano-recursos-hidricos` | 5 |
 | `#plano-regional` | 2 |
 | `#plano-saneamento` | 2 |
@@ -598,7 +598,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#reciclagem` | 17 |
 | `#recomposicao-vegetacao` | 1 |
 | `#recuperacao-energetica` | 2 |
-| `#recurso-hidrico` | 57 |
+| `#recurso-hidrico` | 58 |
 | `#recursos-hidricos` | 3 |
 | `#redacao-alterada` | 33 |
 | `#rede-eletrica` | 2 |
@@ -635,7 +635,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#residuo-perigoso` | 25 |
 | `#residuo-proibido` | 3 |
 | `#residuo-servico-saude` | 22 |
-| `#residuo-solido` | 113 |
+| `#residuo-solido` | 114 |
 | `#residuo-solido-urbano` | 21 |
 | `#residuo-terceiro` | 1 |
 | `#responsavel-legal` | 10 |
@@ -746,7 +746,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#turbina-gas` | 1 |
 | `#turismo` | 5 |
 | `#ugl` | 6 |
-| `#unidade-conservacao` | 75 |
+| `#unidade-conservacao` | 76 |
 | `#usina-asfalto` | 1 |
 | `#uso-agricola` | 4 |
 | `#uso-agricola-efluente` | 9 |
