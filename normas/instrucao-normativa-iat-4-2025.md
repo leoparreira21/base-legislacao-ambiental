@@ -15,9 +15,9 @@ vigencia: "Art. 26. Esta Instrução Normativa entra em vigor na data de sua pub
 regulamenta: []
 altera: []
 alterado_por: []
-revoga: ["[[instrucao-normativa-4-2025]]"]
+revoga: []
 revogado_por: []
-cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-8680-2013]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-4-2025]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]"]
+cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-8680-2013]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-iat-4-2025]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]"]
 tags: [autorizacao-ambiental, car, condicionante, sistema-drenagem, licenciamento-ambiental, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, terraplanagem, validade]
 anexos: "tipo 2: II; tipo 3: I"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_04-2025_-_terraplanagem_-_23.818.036-8_-_republicacao.pdf, 16 páginas)"
@@ -209,7 +209,7 @@ vedada, devendo ser adotadas medidas de proteção ambientalmente adequadas.
 
 ###### Art. 26º {#art26}
 
-**Art. 26º, caput** {#art26_cpt} Esta Instrução Normativa entra em vigor na data de sua publicação, tornando sem efeito a [[instrucao-normativa-4-2025|Instrução Normativa nº 04, de 16 de abril de 2025]], publicada no DIOE nº 11887, de 22 de abril de 2025.
+**Art. 26º, caput** {#art26_cpt} Esta Instrução Normativa entra em vigor na data de sua publicação, tornando sem efeito a [[instrucao-normativa-iat-4-2025|Instrução Normativa nº 04, de 16 de abril de 2025]], publicada no DIOE nº 11887, de 22 de abril de 2025.
 
 Republique-se e registre-se.
 

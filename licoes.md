@@ -411,3 +411,11 @@ Ajustes sugeridos para as habilidades que ficam fora do repositório. Remova o i
 - 2026-11-26, DOU: "Paragráfo único", "(CIB;", itens "4 ." e numeração que pula (art. 14, X: 1, 2, 3, 5, 6) existem no original; mantê-los e usar ID pela posição.
 - 2026-11-26, difflib: se as Notas de transcrição trazem `---`, `split('\n---\n', 2)[2]` pega as Notas em vez do corpo; use `split('\n---\n', 1)[1]`.
 - 2026-11-26, `consultas/ambitos.json`: regravar com `json.dumps` reordena e reformata o arquivo (diff de ~1.100 linhas). Inserir a linha nova por substituição de texto, depois da última entrada.
+## Importação do ctresb-leis (26/11/2026)
+- 2026-11-26, ctresb-leis: arquivos com `versao_texto: republicação/retificação` costumam trazer só a retificação ou a promulgação das partes vetadas (Lei 10.165/2000, Decreto 7.404/2010, Lei 14.785/2023); não servem como texto da norma. `importar_ctresb.py` os grava em `entrada/` com a nota "Texto incompleto" e eles não vão para `normas/`.
+- 2026-11-26, ctresb-leis: 2/3 dos arquivos são a publicação original, sem as alterações posteriores; a nota de transcrição avisa. Para atualizar, usar o `conversor_planalto` com o PDF compilado.
+- 2026-11-26, links da base com `\|` dentro de tabela: ao listar normas pendentes, tirar a barra do nome do alvo (`lei-federal-11445-2007\` é a 11.445, que já está na base).
+- 2026-11-26, rótulo "**Art**. 44 - A multa": o hífen com espaços antes da letra é travessão do texto, não artigo 44-A. Só ler `-A` como letra do artigo quando vier colado ao número.
+- 2026-11-26, decreto que aprova regulamento "anexo" sem título ANEXO (CLT, Decretos 88.821/1983, 96.044/1988, 4.954/2004): os artigos recomeçam depois do fecho; o regulamento vira `anexo1` e os IDs ficam `anexo1_artN`.
+- 2026-11-26, nomes de link sem órgão (`resolucao-736-2024`, `portaria-404-2012`): o órgão costuma estar na frase ("da ANAC", "da SPU"); corrigido em 30 normas. Continuam sem órgão: `portaria-17-2025`, `instrucao-normativa-2-2024` (na IN IAT 50/2025), `instrucao-normativa-6-2023`, `instrucao-normativa-7-2023`, `instrucao-normativa-38-2025`, `instrucao-normativa-iap-100004`.
+- 2026-11-26, ao deduplicar listas do frontmatter por regex, pular as que não são de links: a primeira versão da correção esvaziou o campo `tags` de 30 normas (desfeito antes do commit).

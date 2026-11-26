@@ -16,7 +16,7 @@ altera: []
 alterado_por: []
 revoga: []
 revogado_por: []
-cita: ["[[constituicao-estadual-pr-1989]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[lei-complementar-federal-140-2011]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[resolucao-cema-110-2021]]"]
+cita: ["[[constituicao-estadual-1989]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[lei-complementar-federal-140-2011]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[resolucao-cema-110-2021]]"]
 tags: [delegacao-competencia, fiscalizacao, licenciamento-ambiental, licenciamento-municipal]
 fonte: "PDF fornecido: portaria IAT 38 2022.pdf; Sistema de Informações Ambientais / portal de legislação do Paraná (não substitui o Diário Oficial)."
 ---
@@ -27,7 +27,7 @@ Critérios para delegação do licenciamento, monitoramento e fiscalização amb
 
 O Diretor Presidente do Instituto Água e Terra, nomeado pelo [[decreto-estadual-3820-2020|Decreto Estadual nº 3.820, de 10 de janeiro de 2020]], no uso de suas atribuições que lhe são conferidas pela [[lei-estadual-10066-1992|Lei Estadual nº 10.066, de 27 de julho 1992]], [[lei-estadual-20070-2019|Lei Estadual nº 20.070, de 18 de dezembro de 2019]], [[decreto-estadual-3813-2020|Decreto Estadual nº 3.813, de 09 de janeiro de 2020]] e [[decreto-estadual-4696-2016|Decreto Estadual nº 4.696 de 27 de julho de 2016]], e
 
-Considerando que a proteção do meio ambiente é um dever do Poder Público Estadual, conforme dispõe o artigo 207, § 1º, da [[constituicao-estadual-pr-1989|Constituição Estadual do Paraná]];
+Considerando que a proteção do meio ambiente é um dever do Poder Público Estadual, conforme dispõe o artigo 207, § 1º, da [[constituicao-estadual-1989|Constituição Estadual do Paraná]];
 
 Considerando a [[lei-complementar-federal-140-2011|Lei Complementar nº 140, de 8 de dezembro de 2011]], que fixa normas, para a cooperação entre a União, os Estados, o Distrito Federal e os Municípios nas ações administrativas decorrentes do exercício da competência comum relativas à proteção das paisagens naturais notáveis, à proteção do meio ambiente, ao combate à poluição em qualquer de suas formas e à preservação das florestas, da fauna e da flora.
 

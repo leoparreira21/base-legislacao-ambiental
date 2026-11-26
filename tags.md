@@ -10,7 +10,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#aeroporto` | 5 |
 | `#agricultura-familiar` | 9 |
 | `#agropecuaria` | 12 |
-| `#agrotoxico` | 22 |
+| `#agrotoxico` | 21 |
 | `#agua` | 1 |
 | `#agua-doce` | 3 |
 | `#agua-reuso` | 8 |

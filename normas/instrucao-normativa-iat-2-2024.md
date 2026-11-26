@@ -17,7 +17,7 @@ altera: []
 alterado_por: []
 revoga: ["[[instrucao-normativa-iat-2-2020]]"]
 revogado_por: []
-cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-2320-1993]]", "[[decreto-estadual-2570-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-54-2023]]", "[[decreto-estadual-6514-2008]]", "[[decreto-federal-11080-2022]]", "[[decreto-federal-11373-2023]]", "[[decreto-federal-6514-2008]]", "[[decreto-federal-9760-2019]]", "[[instrucao-normativa-2-2024]]", "[[instrucao-normativa-iat-2-2020]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-10247-1993]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9605-1998]]"]
+cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-2320-1993]]", "[[decreto-estadual-2570-2019]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-54-2023]]", "[[decreto-federal-6514-2008]]", "[[decreto-federal-11080-2022]]", "[[decreto-federal-11373-2023]]", "[[decreto-federal-9760-2019]]", "[[instrucao-normativa-iat-2-2024]]", "[[instrucao-normativa-iat-2-2020]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-10247-1993]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9605-1998]]"]
 tags: [fauna, flora, infracao-ambiental, monitoramento, sancao]
 anexos: nenhum
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_02_2024.pdf, 21 páginas)"
@@ -135,7 +135,7 @@ www.iat.pr.gov.br – Fiscalização – Conversão de multas, por meio do preen
 
 **Art. 8º, § 2º** {#art8_par2} As infrações caracterizadas pela tipificação nos artigos 44, 45, 50, 52 e 53 do Decreto Federal nº 6.514/08, a adesão ao Programa de Conversão de Multas Ambientais dependerá de prévia análise técnica para identificar a obrigatoriedade da apresentação do Termo de Compromisso de recuperação/restauração do Dano Ambiental ou aprovação de Projeto de Recuperação da Área Degradada – PRAD, como condição prévia para a formalização da Conversão.
 
-**Art. 8º, § 3º** {#art8_par3} Em casos de infrações tipificadas em outros dispositivos do [[decreto-estadual-6514-2008|Decreto nº 6514/2008]], não listadas nos parágrafos § 1º e § 2º do presente artigo, a critério do órgão ambiental, verificada a necessidade de reparação do dano ambiental, poderá ser condicionada a obrigatoriedade de apresentação do Termo de Compromisso de recuperação/restauração
+**Art. 8º, § 3º** {#art8_par3} Em casos de infrações tipificadas em outros dispositivos do [[decreto-federal-6514-2008|Decreto nº 6514/2008]], não listadas nos parágrafos § 1º e § 2º do presente artigo, a critério do órgão ambiental, verificada a necessidade de reparação do dano ambiental, poderá ser condicionada a obrigatoriedade de apresentação do Termo de Compromisso de recuperação/restauração
 
 do Dano Ambiental, como condição prévia para a formalização da Conversão.
 
@@ -505,7 +505,7 @@ com o quadro técnico do IAT para o monitoramente da execução dos projetos;
 
 **Art. 47º, § 2º** {#art47_par2} Os relatórios de execução física deverão ser apresentados pelo executor do projeto nas condições previstas no plano de trabalho ou, a qualquer tempo, por requerimento do Instituto Água e Terra.
 
-**Art. 47º, § 3º** {#art47_par3} Em caso de apresentação de informações inverídicas ou fraudulentas, o interessado estará sujeito à responsabilidade penal, além da lavratura de Auto de Infração por violação do Art. 82 do [[decreto-estadual-6514-2008|Decreto 6514/2008]].
+**Art. 47º, § 3º** {#art47_par3} Em caso de apresentação de informações inverídicas ou fraudulentas, o interessado estará sujeito à responsabilidade penal, além da lavratura de Auto de Infração por violação do Art. 82 do [[decreto-federal-6514-2008|Decreto 6514/2008]].
 
 ###### Art. 48º {#art48}
 
@@ -577,7 +577,7 @@ infrações tipificadas pela transgressão aos artigos 25, 29, 36, 54-A, 59, 64,
 
 (assinado eletronicamente) JOSÉ LUIZ SCROCCARO Diretor-Presidente do Instituto Água e Terra
 
-Departamento de Imprensa Oficial do Estado do Paraná - DIOE Protocolo 98674/2024 Título [[instrucao-normativa-2-2024|INSTRUÇÃO NORMATIVA 02/2024]] - INSTITUTO ÀGUA E TERRA Órgão IAT - Instituto Água e Terra Depositário Suelen Damaris Gertrudes de Lara Rogge E-mail suelenrogge@iat.pr.gov.br Enviada em 27/08/2024 15:01 Diário Oficial Executivo Secretaria do Desenvolvimento Sustentável IAT Edital Diversos-EX (Gratuita) [[instrucao-normativa-2-2024|Instrução Normativa 02-2024]] - Publicação.pdf 194,51 KB Data de publicação 29/08/2024 Quinta-feira Gratuita Aprovada 27/08/24 15:06 Nº da Edição do Diário: Histórico TRIAGEM REALIZADA
+Departamento de Imprensa Oficial do Estado do Paraná - DIOE Protocolo 98674/2024 Título [[instrucao-normativa-iat-2-2024|INSTRUÇÃO NORMATIVA 02/2024]] - INSTITUTO ÀGUA E TERRA Órgão IAT - Instituto Água e Terra Depositário Suelen Damaris Gertrudes de Lara Rogge E-mail suelenrogge@iat.pr.gov.br Enviada em 27/08/2024 15:01 Diário Oficial Executivo Secretaria do Desenvolvimento Sustentável IAT Edital Diversos-EX (Gratuita) [[instrucao-normativa-iat-2-2024|Instrução Normativa 02-2024]] - Publicação.pdf 194,51 KB Data de publicação 29/08/2024 Quinta-feira Gratuita Aprovada 27/08/24 15:06 Nº da Edição do Diário: Histórico TRIAGEM REALIZADA
 
 ## Notas de transcrição
 
