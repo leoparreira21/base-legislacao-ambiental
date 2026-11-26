@@ -4,13 +4,13 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 
 | Tag | Normas que usam |
 |---|---|
-| `#abastecimento` | 19 |
+| `#abastecimento` | 20 |
 | `#advertencia` | 4 |
 | `#aecr` | 1 |
 | `#aeroporto` | 5 |
 | `#agricultura-familiar` | 9 |
-| `#agropecuaria` | 11 |
-| `#agrotoxico` | 20 |
+| `#agropecuaria` | 12 |
+| `#agrotoxico` | 22 |
 | `#agua` | 1 |
 | `#agua-doce` | 3 |
 | `#agua-reuso` | 8 |
@@ -111,7 +111,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#certidao-negativa-debito` | 1 |
 | `#chamine` | 4 |
 | `#chumbo` | 5 |
-| `#cianobacteria` | 2 |
+| `#cianobacteria` | 3 |
 | `#cimento` | 3 |
 | `#classe-risco-solo` | 5 |
 | `#classificacao-corpo-agua` | 10 |
@@ -122,7 +122,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#cobertura-residuo` | 8 |
 | `#cobranca-uso-agua` | 5 |
 | `#coleta-seletiva` | 11 |
-| `#coliforme` | 3 |
+| `#coliforme` | 4 |
 | `#combustivel` | 4 |
 | `#comercializacao-de-residuo` | 1 |
 | `#comercio` | 3 |
@@ -217,7 +217,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#ensaio-percolacao` | 2 |
 | `#episodio-critico` | 3 |
 | `#eprotocolo` | 2 |
-| `#erosao` | 2 |
+| `#erosao` | 3 |
 | `#ert` | 1 |
 | `#escopo` | 1 |
 | `#esgotamento-sanitario` | 14 |
@@ -244,7 +244,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#fispq` | 5 |
 | `#fitossociologia` | 1 |
 | `#flora` | 44 |
-| `#floresta-plantada` | 6 |
+| `#floresta-plantada` | 7 |
 | `#fonte-existente` | 1 |
 | `#fonte-fixa` | 4 |
 | `#fonte-movel` | 2 |
@@ -386,7 +386,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#lqa` | 1 |
 | `#lqp` | 1 |
 | `#maltearia` | 1 |
-| `#manancial` | 17 |
+| `#manancial` | 18 |
 | `#mandioca` | 3 |
 | `#manejo-fauna` | 1 |
 | `#manejo-florestal` | 4 |
@@ -420,7 +420,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#modalidade` | 13 |
 | `#modalidade-licenciamento` | 1 |
 | `#modulo-fiscal` | 1 |
-| `#monitoramento` | 99 |
+| `#monitoramento` | 100 |
 | `#monitoramento-ambiental` | 5 |
 | `#monitoramento-continuo` | 5 |
 | `#monitoramento-descontinuo` | 2 |
@@ -469,7 +469,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#padrao-emissao` | 10 |
 | `#padrao-intermediario` | 1 |
 | `#padrao-lancamento` | 11 |
-| `#padrao-qualidade` | 11 |
+| `#padrao-qualidade` | 12 |
 | `#papel-celulose` | 8 |
 | `#parcelamento-solo` | 9 |
 | `#parecer-tecnico` | 9 |
@@ -526,6 +526,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#plano-recursos-hidricos` | 5 |
 | `#plano-regional` | 2 |
 | `#plano-saneamento` | 2 |
+| `#plano-seguranca-agua` | 1 |
 | `#plano-suprimento-sustentavel` | 1 |
 | `#plantio-florestal` | 1 |
 | `#plataforma-petroleo` | 1 |
@@ -545,7 +546,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#porte-excepcional` | 9 |
 | `#porto` | 3 |
 | `#posto-combustivel` | 7 |
-| `#potabilidade` | 4 |
+| `#potabilidade` | 5 |
 | `#potencial-poluidor` | 19 |
 | `#pousio` | 3 |
 | `#pra` | 4 |
@@ -676,7 +677,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#sinir` | 12 |
 | `#sinisa` | 2 |
 | `#sisnama` | 13 |
-| `#sistema-drenagem` | 72 |
+| `#sistema-drenagem` | 73 |
 | `#sistema-gerenciamento-riscos` | 1 |
 | `#sistema-informacao-ambiental` | 1 |
 | `#sistema-informacao-recursos-hidricos` | 2 |
@@ -742,7 +743,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#treinamento` | 1 |
 | `#triagem` | 11 |
 | `#tubulacao` | 1 |
-| `#turbidez` | 1 |
+| `#turbidez` | 2 |
 | `#turbina` | 1 |
 | `#turbina-gas` | 1 |
 | `#turismo` | 5 |
