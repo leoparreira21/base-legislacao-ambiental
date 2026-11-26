@@ -131,7 +131,7 @@ fonte: "Impressão do texto do Sistema de Informações Ambientais do Paraná (S
 **Correção de extração:** o `pdftotext` juntou "1-" e "C" no [[#art9_cpt_inc2|art. 9º, II]] ("símbolo 1C"); restaurado "1-C", como na página.
 
 **Erros do original, mantidos no texto:**
-- [[#art1_cpt_alt2|Art. 6º, XVII, da Lei 10.066/1992]]: "Lei nº 11.054, de 11 de janeiro de 1955" (a Lei Florestal do Estado é de 1995). O link aponta para [[lei-estadual-11054-1995]].
+- [[#art1_cpt_alt2|Art. 6º, XVII, da Lei 10.066/1992]]: "Lei nº 11.054, de 11 de janeiro de 1955" (a Lei Florestal do Estado é de 1995). O link aponta para [[lei-estadual-11054-1995]]; o texto compilado da [[lei-estadual-10066-1992#art6_cpt_inc17|Lei 10.066/1992]] traz "1995".
 - [[#art7_cpt|Art. 7º]]: "Lei nº 7.978, de 30 de novembro de 1994" (o ano não confere com as alterações de 1986 e 1987 citadas em seguida; o conversor vinculou o link ao ano 1984, a conferir).
 - [[#art9_cpt|Art. 9º]]: "Cargos de Chefe de Setor" com "C" maiúsculo; incisos I e II terminam em ";" e "." e o II mistura os dois, como impresso.
 - Os trechos da Lei 10.066/1992 estão entre aspas na impressão; a abertura do art. 1º traz aspas, mas não há aspas de fechamento depois do art. 10. A estrutura em citações separadas (`art1_cpt_alt1` a `alt3`) é do conversor.
@@ -140,7 +140,7 @@ fonte: "Impressão do texto do Sistema de Informações Ambientais do Paraná (S
 
 *Observações do conversor, não fazem parte do texto da norma.*
 
-- **Lei 10.066/1992 fora da base.** O arquivo enviado com o nome "LE_10066_1992" era esta Lei 11.352/1996; a [[lei-estadual-10066-1992]] em si não foi enviada. Por isso a norma alterada ainda não está compilada com as novas redações dos arts. 1º, 6º e 10, e só as relações ficaram registradas.
+- **Lei 10.066/1992.** O arquivo enviado com o nome "LE_10066_1992" no primeiro lote era esta Lei 11.352/1996; a [[lei-estadual-10066-1992]] foi enviada depois e já está compilada na base, com as redações desta lei nos [[lei-estadual-10066-1992#art6|art. 6º]] e [[lei-estadual-10066-1992#art10|art. 10]] (o [[lei-estadual-10066-1992#art1|art. 1º]] foi revogado pela Lei 19.848/2019). O texto compilado do portal imprime os incisos VI e VII do art. 6º com o mesmo texto (organização do SEUC) e omite o inciso sobre biodiversidade que consta aqui no [[#art1_cpt_alt2|inciso VI]]; ver as Notas de transcrição da Lei 10.066/1992.
 - **Lei 20.070/2019.** A [[lei-estadual-20070-2019]] incorporou o ITCG e o AGUASPARANÁ ao IAP, que passou a se chamar Instituto Água e Terra (IAT). O art. 6º da Lei 10.066/1992, na redação desta lei, foi a base das competências do IAP até então.
 - **Revogação tácita.** O [[#art11_cpt|art. 11]] revoga "as disposições em contrário" sem dizer quais. Não foi verificado o que foi revogado tacitamente.
 - **Alteração do CEMA.** O [[#art7_cpt|art. 7º]] muda a presidência do Conselho Estadual do Meio Ambiente (Lei 7.978), mas a norma não está na base e a relação não foi registrada em `altera`.

@@ -4311,6 +4311,36 @@ window.CATALOGO_NORMAS = [
 }
 },
 {
+"arquivo": "lei-estadual-10066-1992",
+"norma": "Lei Estadual nº 10.066/1992",
+"tipo": "lei",
+"esfera": "estadual",
+"orgao": "Assembleia Legislativa do Estado do Paraná",
+"ano": 1992,
+"ementa": "Cria a Secretaria de Estado do Meio Ambiente - SEMA, a entidade autárquica Instituto Ambiental do Paraná - IAP e adota outras providências.",
+"situacao": "vigente",
+"apelidos": [],
+"temas": {
+"licenciamento-ambiental": "",
+"monitoramento-ambiental": "",
+"unidade-conservacao": "",
+"agrotoxico": "",
+"fiscalizacao": "",
+"residuo-solido": "",
+"recurso-hidrico": "",
+"automonitoramento": "",
+"divida-ativa": "",
+"plano-recuperacao-area-degradada": "",
+"arborizacao-urbana": "",
+"multa": "",
+"autorizacao-florestal": "",
+"laboratorio": "",
+"revogado": "art1_cpt",
+"redacao-alterada": "art2_cpt",
+"incluido": "art7_par1u"
+}
+},
+{
 "arquivo": "lei-estadual-11352-1996",
 "norma": "Lei Estadual nº 11.352/1996",
 "tipo": "lei",
