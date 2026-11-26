@@ -76,3 +76,18 @@ Testes de importação, seleção, referências e citações; regressões Python
 integração com índices reais e IA simulada. A resposta do modelo real e o deploy
 em produção devem ser conferidos após o merge. Nenhuma norma foi promovida a
 texto curado ou marcada vigente pela importação.
+
+## Importação para `normas/` (26/11/2026)
+
+Normas citadas pela base que existiam no ctresb-leis foram copiadas para `normas/` por
+`scripts/importar_ctresb.py`, que mantém o texto do ctresb e só faz correções mecânicas:
+nome do arquivo, frontmatter da base, título e ementa, wikilinks para normas com número e data,
+relações recíprocas, tags de controle nos compilados, IDs LexML a partir dos rótulos e notas de
+transcrição. As tabelas HTML foram transcritas à mão em `entrada/ctresb/tabelas/` e o script as
+encaixa. `entrada/ctresb/relatorio-importacao.csv` registra o que mudou em cada norma.
+
+- Entraram 621 normas: 178 com texto compilado e 443 com o texto original (a nota de transcrição avisa
+  que as alterações posteriores não estão aplicadas).
+- Ficaram de fora 20 incompletas no ctresb (só retificação ou promulgação de vetos), 7 a revisar e,
+  por decisão de Leo, a Portaria GM/MS 888/2021 e as portarias de NRs (lista `EXCLUIR` no script).
+- Tags temáticas não foram geradas para essas normas.

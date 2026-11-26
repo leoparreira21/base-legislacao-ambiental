@@ -17,7 +17,7 @@ altera: []
 alterado_por: []
 revoga: []
 revogado_por: []
-cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-estadual-22252-2025]]", "[[lei-federal-12651-2012]]", "[[lei-federal-9605-1998]]", "[[resolucao-conama-279-2001]]", "[[resolucao-conama-6-1986]]"]
+cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]", "[[lei-federal-9605-1998]]", "[[resolucao-conama-279-2001]]", "[[resolucao-conama-6-1986]]"]
 tags: [autorizacao-ambiental, car, compensacao, condicionante, efluente, estudo-impacto-ambiental, fauna, flora, licenciamento-ambiental, monitoramento, outorga, renovacao, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, unidade-conservacao, validade]
 anexos: "tipo 1 (modelos): I e II; tipo 3 (quadros de enquadramento): demais anexos"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_22-2025_-_empreendimentos_de_geracao_de_energia_eletrica_-_23.574.739-14.pdf, 48 páginas)"
@@ -184,7 +184,7 @@ Quadro 1. Modalidade de licenciamento e estudo ambiental por tipo de empreendime
   - **alínea "b"** {#art13_cpt_inc2_alib-b} cópia do Registro Geral - RG do representante legal e do requerente;
   - **alínea "c"** {#art13_cpt_inc2_alic} cópia do instrumento de procuração com firma reconhecida.
 - **Art. 13º, inciso III** {#art13_cpt_inc3} certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município (ANEXO I);
-- **Art. 13º, inciso IV** {#art13_cpt_inc4} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2025|Lei Estadual nº 22.252/2025]];
+- **Art. 13º, inciso IV** {#art13_cpt_inc4} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252/2025]];
 - **Art. 13º, inciso V** {#art13_cpt_inc5} Caso o imóvel seja alocado ou arrendado, apresentar o contrato de locação ou de arrendamento;
 - **Art. 13º, inciso VI** {#art13_cpt_inc6} cópia de inscrição no Cadastro Ambiental Rural - CAR, para empreendimentos localizados em imóveis rurais;
 - **Art. 13º, inciso VII** {#art13_cpt_inc7} declaração do requerente informando que área a ser licenciada não possui embargos;
@@ -225,7 +225,7 @@ Quadro 1. Modalidade de licenciamento e estudo ambiental por tipo de empreendime
   - **alínea "b"** {#art16_cpt_inc3_alib-b} cópia do Registro Geral - RG do representante legal e do requerente;
   - **alínea "c"** {#art16_cpt_inc3_alic} cópia do instrumento de procuração com firma reconhecida;
 - **Art. 16º, inciso IV** {#art16_cpt_inc4} certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município (ANEXO I);
-- **Art. 16º, inciso V** {#art16_cpt_inc5} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2025|Lei Estadual nº 22.252/2025]];
+- **Art. 16º, inciso V** {#art16_cpt_inc5} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252/2025]];
 - **Art. 16º, inciso VI** {#art16_cpt_inc6} caso o imóvel seja alocado ou arrendado, apresentar o contrato de locação ou de arrendamento;
 - **Art. 16º, inciso VII** {#art16_cpt_inc7} cópia de inscrição no Cadastro Ambiental Rural - CAR, para empreendimentos localizados em imóveis rurais.
 - **Art. 16º, inciso VIII** {#art16_cpt_inc8} declaração do requerente informando que área a ser licenciada não possui embargos;
@@ -254,7 +254,7 @@ Quadro 1. Modalidade de licenciamento e estudo ambiental por tipo de empreendime
   - **alínea "c"** {#art17_cpt_inc2_alic} cópia do instrumento de procuração com firma reconhecida;
 - **Art. 17º, inciso III** {#art17_cpt_inc3} Cadastro Técnico Federal (CTF) de acordo com o estabelecido na [[instrucao-normativa-ibama-13-2021|Instrução Normativa IBAMA nº 13, de 23 de agosto de 2021]];
 - **Art. 17º, inciso IV** {#art17_cpt_inc4} certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município (ANEXO I);
-- **Art. 17º, inciso V** {#art17_cpt_inc5} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2025|Lei Estadual nº 22.252/2025]];
+- **Art. 17º, inciso V** {#art17_cpt_inc5} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252/2025]];
 - **Art. 17º, inciso VI** {#art17_cpt_inc6} caso o imóvel seja alocado ou arrendado, apresentar o contrato de locação ou de arrendamento;
 - **Art. 17º, inciso VII** {#art17_cpt_inc7} cópia de inscrição no Cadastro Ambiental Rural - CAR, para empreendimentos localizados em imóveis rurais.
 - **Art. 17º, inciso VIII** {#art17_cpt_inc8} declaração do requerente informando que área a ser licenciada não possui embargos;
@@ -346,7 +346,7 @@ Municipal e legislação urbanística básica, ambiental, bem como que atendam a
   - **alínea "a"** {#art23_cpt_inc2_alia-b} cópia do Cadastro de Pessoa Física - CPF do representante legal e do requerente;
   - **alínea "b"** {#art23_cpt_inc2_alib-b} cópia do Registro Geral - RG do representante legal e do requerente;
   - **alínea "c"** {#art23_cpt_inc2_alic} cópia do instrumento de procuração com firma reconhecida.
-- **Art. 23º, inciso III** {#art23_cpt_inc3} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2025|Lei Estadual nº 22.252/2025]];
+- **Art. 23º, inciso III** {#art23_cpt_inc3} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252/2025]];
 - **Art. 23º, inciso IV** {#art23_cpt_inc4} caso o imóvel seja alocado ou arrendado, apresentar o contrato de locação ou de arrendamento;
 - **Art. 23º, inciso V** {#art23_cpt_inc5} cópia de inscrição no Cadastro Ambiental Rural - CAR, para empreendimentos localizados em imóveis rurais;
 - **Art. 23º, inciso VI** {#art23_cpt_inc6} cópia da Licença Prévia – LP e publicação de súmula da concessão da Licença Prévia no Diário Oficial do Estado ou no site do órgão ambiental competente, conforme modelo aprovado pela [[resolucao-conama-6-1986|Resolução CONAMA nº 006/1986]];
@@ -493,7 +493,7 @@ Municipal e legislação urbanística básica, ambiental, bem como que atendam a
   - **alínea "c"** {#art33_cpt_inc3_alic} cópia do instrumento de procuração com firma reconhecida;
 - **Art. 33º, inciso IV** {#art33_cpt_inc4} Cadastro Técnico Federal (CTF) de acordo com o estabelecido na [[instrucao-normativa-ibama-13-2021|Instrução Normativa IBAMA nº 13, de 23 de agosto de 2021]];
 - **Art. 33º, inciso V** {#art33_cpt_inc5} certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município (ANEXO I);
-- **Art. 33º, inciso VI** {#art33_cpt_inc6} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2025|Lei Estadual nº 22.252/2025]];
+- **Art. 33º, inciso VI** {#art33_cpt_inc6} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252/2025]];
 - **Art. 33º, inciso VII** {#art33_cpt_inc7} caso o imóvel seja alocado ou arrendado, apresentar o contrato de locação ou de arrendamento;
 - **Art. 33º, inciso VIII** {#art33_cpt_inc8} cópia de inscrição no Cadastro Ambiental Rural - CAR, para empreendimentos localizados em imóveis rurais;
 - **Art. 33º, inciso IX** {#art33_cpt_inc9} declaração do requerente informando que área a ser licenciada não possui embargos;
@@ -557,7 +557,7 @@ Municipal e legislação urbanística básica, ambiental, bem como que atendam a
   - **alínea "a"** {#art35_cpt_inc3_alia-b} cópia do Cadastro de Pessoa Física - CPF do representante legal e do requerente;
   - **alínea "b"** {#art35_cpt_inc3_alib-b} cópia do Registro Geral - RG do representante legal e do requerente;
   - **alínea "c"** {#art35_cpt_inc3_alic} cópia do instrumento de procuração com firma reconhecida;
-- **Art. 35º, inciso IV** {#art35_cpt_inc4} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2025|Lei Estadual nº 22.252/2025]];
+- **Art. 35º, inciso IV** {#art35_cpt_inc4} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252/2025]];
 - **Art. 35º, inciso V** {#art35_cpt_inc5} caso o imóvel seja alocado ou arrendado, apresentar o contrato de locação ou de arrendamento;
 - **Art. 35º, inciso VI** {#art35_cpt_inc6} cópia de inscrição no Cadastro Ambiental Rural - CAR, para empreendimentos localizados em imóveis rurais;
 - **Art. 35º, inciso VII** {#art35_cpt_inc7} declaração do requerente informando que área a ser licenciada não possui embargos;
@@ -640,7 +640,7 @@ formalização de Termo de Ajustamento e Conduta - TAC, no qual serão fixadas a
   - **alínea "c"** {#art39_cpt_inc2_alic} cópia do instrumento de procuração com firma reconhecida;
 - **Art. 39º, inciso III** {#art39_cpt_inc3} Cadastro Técnico Federal (CTF) de acordo com o estabelecido na [[instrucao-normativa-ibama-13-2021|Instrução Normativa IBAMA nº 13, de 23 de agosto de 2021]];
 - **Art. 39º, inciso IV** {#art39_cpt_inc4} certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município (ANEXO I);
-- **Art. 39º, inciso V** {#art39_cpt_inc5} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2025|Lei Estadual nº 22.252/2025]];
+- **Art. 39º, inciso V** {#art39_cpt_inc5} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252/2025]];
 - **Art. 39º, inciso VI** {#art39_cpt_inc6} caso o imóvel seja alocado ou arrendado, apresentar o contrato de locação ou de arrendamento;
 - **Art. 39º, inciso VII** {#art39_cpt_inc7} cópia de inscrição no Cadastro Ambiental Rural - CAR, para empreendimentos localizados em imóveis rurais;
 - **Art. 39º, inciso VIII** {#art39_cpt_inc8} declaração do requerente informando que área a ser licenciada não possui embargos;
@@ -679,7 +679,7 @@ formalização de Termo de Ajustamento e Conduta - TAC, no qual serão fixadas a
   - **alínea "b"** {#art40_cpt_inc2_alib-b} cópia do Registro Geral - RG do representante legal e do requerente;
   - **alínea "c"** {#art40_cpt_inc2_alic} cópia do instrumento de procuração com firma reconhecida;
 - **Art. 40º, inciso III** {#art40_cpt_inc3} certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município (ANEXO I);
-- **Art. 40º, inciso IV** {#art40_cpt_inc4} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2025|Lei Estadual nº 22.252/2025]];
+- **Art. 40º, inciso IV** {#art40_cpt_inc4} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252/2025]];
 - **Art. 40º, inciso V** {#art40_cpt_inc5} caso o imóvel seja alocado ou arrendado, apresentar o contrato de locação ou de arrendamento;
 - **Art. 40º, inciso VI** {#art40_cpt_inc6} cópia de inscrição no Cadastro Ambiental Rural - CAR, para empreendimentos localizados em imóveis rurais;
 - **Art. 40º, inciso VII** {#art40_cpt_inc7} declaração do requerente informando que área a ser licenciada não possui embargos;
@@ -713,7 +713,7 @@ forma prevista abaixo e se aplicam à empreendimentos e/ou atividades potencialm
   - **alínea "c"** {#art41_cpt_inc2_alic} cópia do instrumento de procuração com firma reconhecida;
 - **Art. 41º, inciso III** {#art41_cpt_inc3} Cadastro Técnico Federal (CTF) de acordo com o estabelecido na [[instrucao-normativa-ibama-13-2021|Instrução Normativa IBAMA nº 13, de 23 de agosto de 2021]];
 - **Art. 41º, inciso IV** {#art41_cpt_inc4} certidão do Município, declarando expressamente que o local e o tipo de empreendimento ou atividade estão em conformidade com o Plano Diretor Municipal e legislação urbanística básica, ambiental, bem como que atendam as demais exigências legais e administrativas perante o município (ANEXO I);
-- **Art. 41º, inciso V** {#art41_cpt_inc5} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2025|Lei Estadual nº 22.252/2025]];
+- **Art. 41º, inciso V** {#art41_cpt_inc5} documento válido de comprovação de dominialidade atualizado em 90 (noventa) dias, conforme exigências constantes do Decreto Estadual que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252/2025]];
 - **Art. 41º, inciso VI** {#art41_cpt_inc6} caso o imóvel seja alocado ou arrendado, apresentar o contrato de locação ou de arrendamento;
 - **Art. 41º, inciso VII** {#art41_cpt_inc7} cópia de inscrição no Cadastro Ambiental Rural - CAR, para empreendimentos localizados em imóveis rurais;
 - **Art. 41º, inciso VIII** {#art41_cpt_inc8} declaração do requerente informando que área a ser licenciada não possui embargos;

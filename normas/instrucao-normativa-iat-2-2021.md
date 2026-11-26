@@ -17,7 +17,7 @@ altera: []
 alterado_por: []
 revoga: []
 revogado_por: []
-cita: ["[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[decreto-estadual-6514-2008]]", "[[decreto-federal-6514-2008]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-11428-2006]]", "[[lei-federal-9605-1998]]"]
+cita: ["[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[decreto-federal-6514-2008]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-11428-2006]]", "[[lei-federal-9605-1998]]"]
 tags: [app, autorizacao-ambiental, fauna, flora, infracao-ambiental, licenciamento-ambiental, monitoramento, outorga, reserva-legal, sancao, supressao-vegetacao, validade]
 anexos: nenhum
 fonte: "PDF fornecido pelo usuário (in_002-2021_17.876.653-8_estabelece_procedimentos_para_aia.pdf, 11 páginas)"
@@ -366,7 +366,7 @@ madeiras sob-risco de perecimento e os bens, de qualquer natureza, que restarem 
 
 ###### Art. 53º {#art53}
 
-**Art. 53º, caput** {#art53_cpt} A destruição ou inutilização poderá ser adotada em caráter excepcional, conforme prevê o Art. 111 do [[decreto-estadual-6514-2008|Decreto nº 6.514/2008]], quando a medida for necessária para evitar uso e aproveitamento indevidos, nas situações em que o transporte e a guarda forem inviáveis em face das circunstâncias que possam expor o meio ambiente a riscos significativos ou comprometer a segurança da população e dos agentes públicos envolvidos na fiscalização.
+**Art. 53º, caput** {#art53_cpt} A destruição ou inutilização poderá ser adotada em caráter excepcional, conforme prevê o Art. 111 do [[decreto-federal-6514-2008|Decreto nº 6.514/2008]], quando a medida for necessária para evitar uso e aproveitamento indevidos, nas situações em que o transporte e a guarda forem inviáveis em face das circunstâncias que possam expor o meio ambiente a riscos significativos ou comprometer a segurança da população e dos agentes públicos envolvidos na fiscalização.
 
 ###### Art. 54º {#art54}
 

@@ -17,7 +17,7 @@ altera: []
 alterado_por: []
 revoga: []
 revogado_por: ["[[instrucao-normativa-iat-53-2025]]", "[[instrucao-normativa-iat-54-2025]]"]
-cita: ["[[decreto-estadual-11515-2018]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[decreto-estadual-6514-2008]]", "[[decreto-estadual-8680-2013]]", "[[decreto-federal-7830-2012]]", "[[decreto-federal-8235-2014]]", "[[decreto-federal-9094-2017]]", "[[lei-estadual-18295-2014]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12251-2012]]", "[[lei-federal-12651-2012]]", "[[lei-federal-2848-1940]]", "[[lei-federal-4771-1965]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9985-2000]]", "[[resolucao-cema-105-2019]]"]
+cita: ["[[decreto-estadual-11515-2018]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[decreto-federal-6514-2008]]", "[[decreto-estadual-8680-2013]]", "[[decreto-federal-7830-2012]]", "[[decreto-federal-8235-2014]]", "[[decreto-federal-9094-2017]]", "[[lei-estadual-18295-2014]]", "[[lei-estadual-20070-2019]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12251-2012]]", "[[lei-federal-12651-2012]]", "[[lei-federal-2848-1940]]", "[[lei-federal-4771-1965]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9985-2000]]", "[[resolucao-cema-105-2019]]"]
 tags: [car, compensacao-reserva-legal, reserva-legal, servidao-ambiental, sicar, unidade-conservacao]
 anexos: "tipo 1 (modelos): I, II, III e IV"
 fonte: "PDF digitalizado fornecido pelo usuário; texto recuperado por OCR em português e conferido estruturalmente"
@@ -102,7 +102,7 @@ HI-Não tenha ocorrido supressão irregular de vegetação nativa no interior do
 
 **Art. 5º, § 1º** {#art5_par1} No caso de desmatamento ou degradação da área através de compensação de Reserva Legal, o proprietário do imóvel rural cedente deverá oficializar o Instituto Água e Terra e promover a sua recomposição, em prazo a ser estabelecido pelo Instituto Água e Terra.
 
-**Art. 5º, § 2º** {#art5_par2} Verificada a infração ambiental decorrente do desmatamento, solidariamente o adquirente e o proprietário rural do imóvel cedente estarão sujeitos às sanções e infrações administrativas ambientais previstas no art. 51 do [[decreto-estadual-6514-2008|Decreto 6.514/2008]].
+**Art. 5º, § 2º** {#art5_par2} Verificada a infração ambiental decorrente do desmatamento, solidariamente o adquirente e o proprietário rural do imóvel cedente estarão sujeitos às sanções e infrações administrativas ambientais previstas no art. 51 do [[decreto-federal-6514-2008|Decreto 6.514/2008]].
 
 **Art. 5º, § 3º** {#art5_par3} A área de Reserva Legal com excedente compensado, em nenhuma hipótese poderá ter sua destinação alterada.
 

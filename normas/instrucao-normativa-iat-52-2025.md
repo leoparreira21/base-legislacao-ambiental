@@ -15,9 +15,9 @@ vigencia: "Art. 17 Esta Instrução Normativa entra em vigor na data de sua publ
 regulamenta: []
 altera: []
 alterado_por: []
-revoga: ["[[instrucao-normativa-52-2025]]"]
+revoga: []
 revogado_por: []
-cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-6515-2012]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-52-2025]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-estadual-7109-1979]]", "[[lei-federal-22252-2024]]", "[[lei-federal-6938-1981]]", "[[portaria-ibama-289-2013]]"]
+cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-6515-2012]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-iat-52-2025]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-estadual-7109-1979]]", "[[lei-federal-6938-1981]]", "[[portaria-ibama-289-2013]]"]
 tags: [autorizacao-ambiental, condicionante, sistema-drenagem, licenciamento-ambiental, outorga, reserva-legal, residuo-solido, sancao, supressao-vegetacao, taxa-ambiental, terraplanagem, validade]
 anexos: "tipo 1 (FCA, certidão e declarações): I a VI"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_52-2025-estradas_rurais-24125932-3-republicacao_16_de_outubro.pdf, 19 páginas)"
@@ -209,7 +209,7 @@ exigências legais e administrativas perante o município, conforme diretrizes d
 
 ###### Art. 12º {#art12}
 
-**Art. 12º, caput** {#art12_cpt} Quando necessário, o órgão ambiental deverá solicitar manifestação de órgãos intervenientes externos ao órgão licenciador, conforme estabelece o art. 27 e Capítulo V do [[decreto-estadual-9541-2025|Decreto Estadual 9541/2025]]; e art. 30 e 31 da [[lei-federal-22252-2024|Lei 22.252/2024]].
+**Art. 12º, caput** {#art12_cpt} Quando necessário, o órgão ambiental deverá solicitar manifestação de órgãos intervenientes externos ao órgão licenciador, conforme estabelece o art. 27 e Capítulo V do [[decreto-estadual-9541-2025|Decreto Estadual 9541/2025]]; e art. 30 e 31 da [[lei-estadual-22252-2024|Lei 22.252/2024]].
 
 ###### Art. 13º {#art13}
 
@@ -229,7 +229,7 @@ exigências legais e administrativas perante o município, conforme diretrizes d
 
 ###### Art. 17º {#art17}
 
-**Art. 17º, caput** {#art17_cpt} Esta Instrução Normativa entra em vigor na data de sua publicação, tornando sem efeito a [[instrucao-normativa-52-2025|Instrução Normativa n.º 52, de 16 de junho de 2025]], publicada no DIOE n.º 11925, de 17 de junho de 2025 e a Instrução Normativa
+**Art. 17º, caput** {#art17_cpt} Esta Instrução Normativa entra em vigor na data de sua publicação, tornando sem efeito a [[instrucao-normativa-iat-52-2025|Instrução Normativa n.º 52, de 16 de junho de 2025]], publicada no DIOE n.º 11925, de 17 de junho de 2025 e a Instrução Normativa
   - **alínea "n"** {#art17_cpt_alin} º 52, de 13 de agosto de 2025, publicada no DIOE n.º 11966, de 15 de agosto de 2025.
 
 Republique-se e registre-se.

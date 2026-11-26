@@ -16,7 +16,7 @@ altera: []
 alterado_por: []
 revoga: []
 revogado_por: []
-cita: ["[[constituicao-estadual-pr-1989]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[decreto-federal-6514-2008]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[portaria-iap-159-2015]]"]
+cita: ["[[constituicao-estadual-1989]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-3820-2020]]", "[[decreto-estadual-4696-2016]]", "[[decreto-federal-6514-2008]]", "[[lei-estadual-10066-1992]]", "[[lei-estadual-20070-2019]]", "[[portaria-iap-159-2015]]"]
 tags: [armazenamento-residuo, auditoria, infracao-ambiental, pgr, prazo, recurso-hidrico, risco-ambiental]
 fonte: "PDF fornecido: portaria IAT 224 2020.pdf; Sistema de Informações Ambientais / portal de legislação do Paraná (não substitui o Diário Oficial)."
 ---
@@ -29,7 +29,7 @@ O Diretor Presidente do Instituto Água e Terra, nomeado pelo [[decreto-estadual
 
 Considerando os objetivos institucionais do Instituto Água e Terra, estabelecidos na [[lei-estadual-20070-2019|Lei Estadual n° 20.070, de 18 de dezembro de 2019]];
 
-Considerando que a proteção do meio ambiente é um dever do Poder Público Estadual, conforme dispõe o art. 207, § 1º, da [[constituicao-estadual-pr-1989|Constituição Estadual do Paraná]];
+Considerando que a proteção do meio ambiente é um dever do Poder Público Estadual, conforme dispõe o art. 207, § 1º, da [[constituicao-estadual-1989|Constituição Estadual do Paraná]];
 
 Considerando a [[portaria-iap-159-2015|Portaria IAP nº 159, de 10 de agosto de 2015]], que estabelece critérios e procedimentos para a apresentação de PROGRAMA DE GERENCIAMENTO DE RISCOS - PGR, em processos de licenciamento ambiental de atividades consideradas de risco;
 

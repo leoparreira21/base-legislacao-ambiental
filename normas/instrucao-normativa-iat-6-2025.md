@@ -17,7 +17,7 @@ altera: []
 alterado_por: []
 revoga: ["[[portaria-iap-246-2015]]"]
 revogado_por: []
-cita: ["[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-4339-2002]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-ibama-13-2021]]", "[[instrucao-normativa-ibama-7-2015]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-22252-2024]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9605-1998]]", "[[lei-federal-9985-2000]]", "[[portaria-iap-246-2015]]", "[[resolucao-conama-279-2001]]", "[[resolucao-conama-487-2018]]", "[[resolucao-conama-489-2018]]", "[[resolucao-conama-6-1986]]"]
+cita: ["[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-4339-2002]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-ibama-13-2021]]", "[[instrucao-normativa-ibama-7-2015]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9605-1998]]", "[[lei-federal-9985-2000]]", "[[portaria-iap-246-2015]]", "[[resolucao-conama-279-2001]]", "[[resolucao-conama-487-2018]]", "[[resolucao-conama-489-2018]]", "[[resolucao-conama-6-1986]]"]
 tags: [autorizacao-ambiental, car, compensacao, condicionante, efluente, fauna, flora, infracao-ambiental, licenciamento-ambiental, outorga, recurso-hidrico, renovacao, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, validade]
 anexos: "tipo 2: VI e VII; tipo 1: IV, V e VIII a XII; tipo 3: I a III"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_06-2025_-_lic._amb._zoologicos_cafs_cetas_cetras_e_cras_-_23.758.742-1-1.pdf, 98 páginas)"
@@ -953,7 +953,7 @@ responsabilidade técnica para o evento.
 
 ###### Art. 64º {#art64}
 
-**Art. 64º, caput** {#art64_cpt} s empreendimentos que estejam em funcionamento de maneira irregular/clandestina, sem licença ou autorização, terão suas atividades embargadas, devendo se submeter ao licenciamento ambiental conforme sua tipologia, nos termos do art. 24 da [[lei-federal-22252-2024|Lei n°22.252/2024]], sem prejuízo das sanções cabíveis.
+**Art. 64º, caput** {#art64_cpt} s empreendimentos que estejam em funcionamento de maneira irregular/clandestina, sem licença ou autorização, terão suas atividades embargadas, devendo se submeter ao licenciamento ambiental conforme sua tipologia, nos termos do art. 24 da [[lei-estadual-22252-2024|Lei n°22.252/2024]], sem prejuízo das sanções cabíveis.
 
 **Art. 64º, parágrafo único** {#art64_par_unico} Todos os espécimes do plantel serão apreendidos e os animais que não disponham de documentação comprobatória de origem não serão devolvidos ao infrator, cabendo ao órgão licenciador a sua destinação.
 
