@@ -17,7 +17,7 @@ altera: []
 alterado_por: []
 revoga: []
 revogado_por: []
-cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[instrucao-normativa-iat-47-2025]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-17048-2012]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]", "[[lei-federal-13465-2017]]", "[[lei-federal-15190-2025]]", "[[lei-federal-17277-2012]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9605-1998]]", "[[portaria-170-1987]]", "[[portaria-iap-256-2013]]", "[[resolucao-conama-237-1997]]", "[[resolucao-conama-302-2002]]", "[[resolucao-conama-369-2006]]", "[[resolucao-conama-6-1986]]"]
+cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[instrucao-normativa-iat-47-2025]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-17048-2012]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]", "[[lei-federal-13465-2017]]", "[[lei-federal-15190-2025]]", "[[lei-estadual-17277-2012]]", "[[lei-federal-6938-1981]]", "[[lei-federal-9605-1998]]", "[[portaria-mme-170-1987]]", "[[portaria-iap-256-2013]]", "[[resolucao-conama-237-1997]]", "[[resolucao-conama-302-2002]]", "[[resolucao-conama-369-2006]]", "[[resolucao-conama-6-1986]]"]
 tags: [app, autorizacao-ambiental, compensacao, condicionante, sistema-drenagem, efluente, fauna, licenciamento-ambiental, monitoramento, outorga, renovacao, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental]
 anexos: "tipo 2: II a V; tipo 1: I"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_64-2025-pacuera_app-23949402-1.pdf, 53 páginas)"
@@ -47,7 +47,7 @@ Considerando a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezem
 
 Considerando o [[decreto-estadual-9541-2025|Decreto Estadual nº 9.541 de 10 de abril de 2025]], que regulamenta a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]], que dispõe sobre normas gerais para o licenciamento ambiental no Estado do Paraná;
 
-Considerando a [[lei-estadual-17048-2012|Lei Estadual nº 17.048, de 04 de janeiro de 2012]] (com redação dada pela [[lei-federal-17277-2012|Lei nº 17.277/2012]]), que estabelece: “Fica permitido o uso de lagos, lagoas e represas públicas e privadas do Estado do Paraná, destinadas exclusivamente à captação de água para abastecimento, para a prática de esportes aquáticos que não utilizem motor de combustão por hidrocarboneto.”;
+Considerando a [[lei-estadual-17048-2012|Lei Estadual nº 17.048, de 04 de janeiro de 2012]] (com redação dada pela [[lei-estadual-17277-2012|Lei nº 17.277/2012]]), que estabelece: “Fica permitido o uso de lagos, lagoas e represas públicas e privadas do Estado do Paraná, destinadas exclusivamente à captação de água para abastecimento, para a prática de esportes aquáticos que não utilizem motor de combustão por hidrocarboneto.”;
 
 Considerando a [[resolucao-conama-237-1997|Resolução CONAMA nº 237, de 19 de dezembro de 1997]], que regulamenta os aspectos do licenciamento ambiental no âmbito da Política Nacional
 
@@ -237,7 +237,7 @@ VII projetos de paisagismo, especificamente em áreas urbanas ou de expansão ur
 
 ###### Art. 14º {#art14}
 
-**Art. 14º, caput** {#art14_cpt} A utilização de áreas em Áreas de Preservação Permanente – APP, situadas no entorno de reservatórios artificiais destinados à geração de energia elétrica, independente da classe de intervenção, dependerá da apresentação de carta de anuência prévia, expedida pela concessionária responsável, em conformidade com o disposto na [[portaria-170-1987|Portaria nº 170, de 4 de fevereiro de 1987]], do Ministério de Minas e Energia, aplicando-se, igualmente, aos reservatórios artificiais destinados ao abastecimento público.
+**Art. 14º, caput** {#art14_cpt} A utilização de áreas em Áreas de Preservação Permanente – APP, situadas no entorno de reservatórios artificiais destinados à geração de energia elétrica, independente da classe de intervenção, dependerá da apresentação de carta de anuência prévia, expedida pela concessionária responsável, em conformidade com o disposto na [[portaria-mme-170-1987|Portaria nº 170, de 4 de fevereiro de 1987]], do Ministério de Minas e Energia, aplicando-se, igualmente, aos reservatórios artificiais destinados ao abastecimento público.
 
 ###### Art. 15º {#art15}
 

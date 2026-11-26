@@ -17,7 +17,7 @@ altera: []
 alterado_por: []
 revoga: ["[[instrucao-normativa-7-2023]]"]
 revogado_por: []
-cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-6514-2008]]", "[[decreto-estadual-9415-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-2-2024]]", "[[instrucao-normativa-7-2023]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-20656-2021]]", "[[lei-federal-11326-2006]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12651-2012]]", "[[lei-federal-9605-1998]]", "[[portaria-17-2025]]", "[[portaria-347-2021]]", "[[portaria-iat-112-2019]]"]
+cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-federal-6514-2008]]", "[[decreto-estadual-9415-2025]]", "[[instrucao-normativa-2-2024]]", "[[instrucao-normativa-7-2023]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-20656-2021]]", "[[lei-federal-11326-2006]]", "[[lei-federal-11428-2006]]", "[[lei-federal-12651-2012]]", "[[lei-federal-9605-1998]]", "[[portaria-17-2025]]", "[[portaria-iat-347-2021]]", "[[portaria-iat-112-2019]]"]
 tags: [autorizacao-ambiental, car, compensacao, efluente, fauna, flora, infracao-ambiental, licenciamento-ambiental, monitoramento, outorga, reserva-legal, responsavel-tecnico, sancao, supressao-vegetacao, taxa-ambiental, terraplanagem]
 anexos: nenhum
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_50-2025-processos_de_infracoes-20227740-3.pdf, 50 páginas)"
@@ -137,7 +137,7 @@ Reparação da Área Degradada – PRAD, caso apresentado, e o Laudo de Verifica
 - **Art. 9º, inciso V** {#art9_par4_inc5} por edital publicado em Diário Oficial pelo DFI/DDI;
 - **Art. 9º, inciso VI** {#art9_par4_inc6} através de solicitação de vistas “solicitação de acesso” nos processos digitais pelo autuado ou seu representante legal.
 
-**Art. 9º, § 5º** {#art9_par5} Quando lavrada NOTIFICAÇÃO ao futuro autuado com “comunicado formal encaminhado ao(s) responsável(eis) por uma determinada ação, para que preste(m) esclarecimento(s) sobre a mesma, em local, data, e hora definidos pela autoridade ambiental”, poderá em caso de não atendimento resultar previamente, na lavratura de Auto de Infração Ambiental - AIA, pelo não atendimento as exigências estabelecidas e requeridas, nos termos do § 4º. do Art. 5º. Do [[decreto-estadual-6514-2008|Decreto 6514/2008]], todavia antes da lavratura do Auto de Infração Ambiental - AIA deve-se comprovar que a Notificação encaminhada foi devidamente recebida.
+**Art. 9º, § 5º** {#art9_par5} Quando lavrada NOTIFICAÇÃO ao futuro autuado com “comunicado formal encaminhado ao(s) responsável(eis) por uma determinada ação, para que preste(m) esclarecimento(s) sobre a mesma, em local, data, e hora definidos pela autoridade ambiental”, poderá em caso de não atendimento resultar previamente, na lavratura de Auto de Infração Ambiental - AIA, pelo não atendimento as exigências estabelecidas e requeridas, nos termos do § 4º. do Art. 5º. Do [[decreto-federal-6514-2008|Decreto 6514/2008]], todavia antes da lavratura do Auto de Infração Ambiental - AIA deve-se comprovar que a Notificação encaminhada foi devidamente recebida.
 
 ###### Art. 10º {#art10}
 
@@ -149,7 +149,7 @@ Reparação da Área Degradada – PRAD, caso apresentado, e o Laudo de Verifica
 
 **Art. 11º, § 1º** {#art11_par1} Qualquer lavratura de infração administrativa e/ou manifestação no procedimento administrativo deverá ser realizada por outro agente isento, evitando situações que possam comprometer a lisura e a imparcialidade das análises.
 
-**Art. 11º, § 2º** {#art11_par2} O Relatório Conclusivo nos processos administrativos de Autos de Infração Ambiental deve ser assinado por servidores efetivos integrantes do quadro do Instituto Água e Terra e do BPAmb-FV, em atendimento à [[portaria-347-2021|Portaria no. 347/2021]] do Instituto Água e Terra.
+**Art. 11º, § 2º** {#art11_par2} O Relatório Conclusivo nos processos administrativos de Autos de Infração Ambiental deve ser assinado por servidores efetivos integrantes do quadro do Instituto Água e Terra e do BPAmb-FV, em atendimento à [[portaria-iat-347-2021|Portaria no. 347/2021]] do Instituto Água e Terra.
 
 ###### Art. 12º {#art12}
 
@@ -312,11 +312,11 @@ recuperação/restauração do Dano Ambiental - TCRD ou obter aprovação pelo �
 
 **Art. 28º, § 3º** {#art28_par3} Não será admitida a adesão ao Programa de Conversão de Multas Ambientais as infrações tipificadas pela transgressão aos artigos 25, 29, 36, 54-A, 59, 64, §§ 1º e 2º, 67, 79, 82 e 91 do Decreto Federal nº. 6.514/08.
 
-**Art. 28º, § 4º** {#art28_par4} Em casos de infrações tipificadas em outros dispositivos do [[decreto-estadual-6514-2008|Decreto 6514/2008]], não listadas nos parágrafos § 1º e § 2º do presente artigo, a critério do órgão ambiental, verificada a necessidade de reparação do dano ambiental, poderá ser condicionada a obrigatoriedade de apresentação do Termo de Compromisso de recuperação/restauração do Dano Ambiental, como condição prévia para a formalização da Conversão.
+**Art. 28º, § 4º** {#art28_par4} Em casos de infrações tipificadas em outros dispositivos do [[decreto-federal-6514-2008|Decreto 6514/2008]], não listadas nos parágrafos § 1º e § 2º do presente artigo, a critério do órgão ambiental, verificada a necessidade de reparação do dano ambiental, poderá ser condicionada a obrigatoriedade de apresentação do Termo de Compromisso de recuperação/restauração do Dano Ambiental, como condição prévia para a formalização da Conversão.
 
 ###### Art. 29º {#art29}
 
-**Art. 29º, caput** {#art29_cpt} A autoridade ambiental, ao deferir o pedido de conversão, aplicará sobre o valor da multa consolidada os descontos previstos para a conversão direta e conversão indireta, nos termos do Art. 142 do [[decreto-estadual-6514-2008|Decreto 6514/2008]], de:
+**Art. 29º, caput** {#art29_cpt} A autoridade ambiental, ao deferir o pedido de conversão, aplicará sobre o valor da multa consolidada os descontos previstos para a conversão direta e conversão indireta, nos termos do Art. 142 do [[decreto-federal-6514-2008|Decreto 6514/2008]], de:
 
 **Art. 29º, § 1º** {#art29_par1} Conversão Direta
 - **Art. 29º, inciso I** {#art29_par1_inc1} De quarenta por cento (40%) se a conversão for requerida no prazo da defesa e/ou juntamente com a defesa;
@@ -855,7 +855,7 @@ utilizados pela administração, ou ainda, excepcionalmente e nos casos de bens,
 
 ###### Art. 93º {#art93}
 
-**Art. 93º, caput** {#art93_cpt} A destruição ou inutilização poderá ser adotada em caráter excepcional, conforme prevê o Art. 111 do [[decreto-estadual-6514-2008|Decreto nº 6.514/2008]], quando a medida for necessária para evitar uso e aproveitamento indevidos, nas situações em que o transporte e a guarda forem inviáveis em face das circunstâncias que possam expor o meio ambiente a riscos significativos ou comprometer a segurança da população e dos agentes públicos envolvidos na fiscalização.
+**Art. 93º, caput** {#art93_cpt} A destruição ou inutilização poderá ser adotada em caráter excepcional, conforme prevê o Art. 111 do [[decreto-federal-6514-2008|Decreto nº 6.514/2008]], quando a medida for necessária para evitar uso e aproveitamento indevidos, nas situações em que o transporte e a guarda forem inviáveis em face das circunstâncias que possam expor o meio ambiente a riscos significativos ou comprometer a segurança da população e dos agentes públicos envolvidos na fiscalização.
 
 ###### Art. 94º {#art94}
 

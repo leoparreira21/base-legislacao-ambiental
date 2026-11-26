@@ -17,7 +17,7 @@ altera: []
 alterado_por: []
 revoga: []
 revogado_por: []
-cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]", "[[lei-federal-22252-2024]]", "[[lei-federal-9605-1998]]", "[[resolucao-conama-279-2001]]", "[[resolucao-conama-6-1986]]"]
+cita: ["[[decreto-estadual-11977-2022]]", "[[decreto-estadual-3813-2020]]", "[[decreto-estadual-9415-2025]]", "[[decreto-estadual-9541-2025]]", "[[decreto-federal-6514-2008]]", "[[instrucao-normativa-ibama-13-2021]]", "[[lei-estadual-20070-2019]]", "[[lei-estadual-22252-2024]]", "[[lei-federal-12651-2012]]", "[[lei-federal-9605-1998]]", "[[resolucao-conama-279-2001]]", "[[resolucao-conama-6-1986]]"]
 tags: [autorizacao-ambiental, car, compensacao, condicionante, efluente, estudo-impacto-ambiental, fauna, flora, licenciamento-ambiental, monitoramento, outorga, renovacao, residuo-solido, responsavel-tecnico, sancao, supressao-vegetacao, unidade-conservacao, validade]
 anexos: "tipo 1 (modelos): I e II; tipo 3 (quadros de enquadramento): demais anexos"
 fonte: "PDF fornecido pelo usuário (instrucao_normativa_20-2025_-_empreendimentos_geradores_de_energia_fonte_solar_-_23.574.540-2.pdf, 54 páginas)"
@@ -35,7 +35,7 @@ Considerando o disposto na Resolução do Conselho Nacional do Meio Ambiente - C
 
 Considerando a [[lei-estadual-22252-2024|Lei Estadual nº 22.252, de 12 de dezembro de 2024]], que dispõe sobre normas gerais para o licenciamento ambiental no Estado do Paraná, e dá outras providências;
 
-Considerando o Decreto Estadual nº 9.541, de 11 abril de 2025, o qual regulamentou a [[lei-federal-22252-2024|Lei nº 22.252, de 12 de dezembro de 2024]];
+Considerando o Decreto Estadual nº 9.541, de 11 abril de 2025, o qual regulamentou a [[lei-estadual-22252-2024|Lei nº 22.252, de 12 de dezembro de 2024]];
 
 Considerando a necessidade de dar efetividade ao "princípio da prevenção" consagrado na Política Nacional do Meio Ambiente - artigo 2º, incisos I, IV e IX da Lei Federal nº 6.938, de 31 de agosto de 1.981 e na Declaração do Rio de Janeiro de 1992 (Princípio nº 15);
 
