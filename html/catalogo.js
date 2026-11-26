@@ -4311,6 +4311,29 @@ window.CATALOGO_NORMAS = [
 }
 },
 {
+"arquivo": "lei-estadual-11352-1996",
+"norma": "Lei Estadual nº 11.352/1996",
+"tipo": "lei",
+"esfera": "estadual",
+"orgao": "Assembleia Legislativa do Estado do Paraná",
+"ano": 1996,
+"ementa": "Não consta da impressão. A lei altera a redação dos arts. 1º, 6º e 10 da Lei nº 10.066, de 27 de julho de 1992 (cria a SEMA e define os objetivos do IAP) e reorganiza competências, órgãos e cargos do meio ambiente e dos recursos hídricos.",
+"situacao": "vigente",
+"apelidos": [],
+"temas": {
+"agrotoxico": "",
+"monitoramento-ambiental": "",
+"recurso-hidrico": "",
+"unidade-conservacao": "",
+"fiscalizacao": "",
+"licenciamento-ambiental": "",
+"residuo-solido": "",
+"arborizacao-urbana": "",
+"educacao-ambiental": "",
+"floresta-plantada": ""
+}
+},
+{
 "arquivo": "lei-estadual-12493-1999",
 "norma": "Lei Estadual nº 12.493/1999",
 "tipo": "lei",
@@ -4437,6 +4460,49 @@ window.CATALOGO_NORMAS = [
 "sancao": "",
 "sistema-gerenciamento-riscos": "",
 "tac": ""
+}
+},
+{
+"arquivo": "lei-estadual-20070-2019",
+"norma": "Lei Estadual nº 20.070/2019",
+"tipo": "lei",
+"esfera": "estadual",
+"orgao": "Assembleia Legislativa do Estado do Paraná",
+"ano": 2019,
+"ementa": "Autoriza a incorporação do Instituto de Terras, Cartografia e Geologia do Paraná e do Instituto das Águas do Paraná, pelo Instituto Ambiental do Paraná, e dá outras providências.",
+"situacao": "vigente",
+"apelidos": [
+"Lei de criação do Instituto Água e Terra",
+"Lei de criação do IAT"
+],
+"temas": {
+"licenciamento-ambiental": "",
+"outorga": "",
+"autorizacao-ambiental": "",
+"recurso-hidrico": "",
+"unidade-conservacao": "",
+"fauna": "",
+"agrotoxico": "",
+"compensacao": "",
+"multa": "",
+"conversao-multa": "",
+"automonitoramento": "",
+"sisnama": "",
+"segrh": "",
+"fiscalizacao": "",
+"baixo-impacto-ambiental": "",
+"residuo-solido": "",
+"erosao": "",
+"geologia": "",
+"mineracao": "",
+"biodiversidade": "",
+"vegetacao-nativa": "",
+"zoneamento": "",
+"laboratorio": "",
+"qualidade-ar": "",
+"redacao-alterada": "art1_cpt",
+"revogado": "art9_cpt_inc9",
+"incluido": "art9_cpt_inc13-a"
 }
 },
 {
