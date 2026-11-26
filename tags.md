@@ -10,7 +10,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#aeroporto` | 5 |
 | `#agricultura-familiar` | 9 |
 | `#agropecuaria` | 11 |
-| `#agrotoxico` | 17 |
+| `#agrotoxico` | 19 |
 | `#agua` | 1 |
 | `#agua-doce` | 3 |
 | `#agua-reuso` | 8 |
@@ -32,7 +32,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#app` | 101 |
 | `#apreensao` | 3 |
 | `#aquicultura` | 12 |
-| `#arborizacao-urbana` | 1 |
+| `#arborizacao-urbana` | 2 |
 | `#area-construida` | 8 |
 | `#area-contaminada` | 19 |
 | `#area-contigua` | 3 |
@@ -68,8 +68,8 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#audiencia-publica` | 8 |
 | `#auditoria` | 10 |
 | `#auto-infracao` | 11 |
-| `#automonitoramento` | 28 |
-| `#autorizacao-ambiental` | 75 |
+| `#automonitoramento` | 29 |
+| `#autorizacao-ambiental` | 76 |
 | `#autorizacao-florestal` | 20 |
 | `#avaliacao-risco` | 2 |
 | `#averbacao` | 6 |
@@ -78,14 +78,14 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#bacia-pirapo` | 1 |
 | `#bacia-tibagi` | 1 |
 | `#bagaco-cana` | 1 |
-| `#baixo-impacto-ambiental` | 12 |
+| `#baixo-impacto-ambiental` | 13 |
 | `#balanco-massa` | 1 |
 | `#balneabilidade` | 2 |
 | `#barracao` | 1 |
 | `#bem-cultural` | 12 |
 | `#beneficiamento` | 2 |
 | `#biodigestor` | 7 |
-| `#biodiversidade` | 3 |
+| `#biodiversidade` | 4 |
 | `#biogas` | 8 |
 | `#biomassa` | 1 |
 | `#biosseguridade` | 2 |
@@ -127,7 +127,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#comercializacao-de-residuo` | 1 |
 | `#comercio` | 3 |
 | `#compactacao-solo` | 3 |
-| `#compensacao` | 23 |
+| `#compensacao` | 24 |
 | `#compensacao-reserva-legal` | 3 |
 | `#compostagem` | 19 |
 | `#comprovante-destinacao` | 1 |
@@ -143,7 +143,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#contratacao-terceiro` | 6 |
 | `#contrato-administrativo` | 3 |
 | `#convenio` | 3 |
-| `#conversao-multa` | 2 |
+| `#conversao-multa` | 3 |
 | `#cooperacao-institucional` | 13 |
 | `#coprocessamento` | 4 |
 | `#corpo-bombeiros` | 3 |
@@ -200,7 +200,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#dominio-uniao` | 3 |
 | `#dragagem` | 1 |
 | `#edificacao-rural` | 2 |
-| `#educacao-ambiental` | 12 |
+| `#educacao-ambiental` | 13 |
 | `#efluente` | 107 |
 | `#eletroeletronico` | 3 |
 | `#eletromagnetico` | 3 |
@@ -217,7 +217,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#ensaio-percolacao` | 2 |
 | `#episodio-critico` | 3 |
 | `#eprotocolo` | 2 |
-| `#erosao` | 1 |
+| `#erosao` | 2 |
 | `#ert` | 1 |
 | `#escopo` | 1 |
 | `#esgotamento-sanitario` | 13 |
@@ -236,15 +236,15 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#evento-hidrologico-critico` | 3 |
 | `#expansao-urbana` | 2 |
 | `#fabricante` | 6 |
-| `#fauna` | 58 |
+| `#fauna` | 59 |
 | `#fca` | 1 |
 | `#fds` | 1 |
 | `#fertilizante` | 8 |
-| `#fiscalizacao` | 37 |
+| `#fiscalizacao` | 39 |
 | `#fispq` | 5 |
 | `#fitossociologia` | 1 |
 | `#flora` | 44 |
-| `#floresta-plantada` | 5 |
+| `#floresta-plantada` | 6 |
 | `#fonte-existente` | 1 |
 | `#fonte-fixa` | 4 |
 | `#fonte-movel` | 2 |
@@ -261,7 +261,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#galvanoplastia` | 3 |
 | `#gas-natural` | 2 |
 | `#gee` | 2 |
-| `#geologia` | 11 |
+| `#geologia` | 12 |
 | `#georreferenciamento` | 26 |
 | `#geotecnia` | 7 |
 | `#geracao-calor` | 2 |
@@ -341,7 +341,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#itr` | 1 |
 | `#jucepar` | 1 |
 | `#karst` | 4 |
-| `#laboratorio` | 17 |
+| `#laboratorio` | 18 |
 | `#laboratorio-acreditado` | 4 |
 | `#lac` | 15 |
 | `#lagoa-tratamento` | 3 |
@@ -363,7 +363,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#licenca-previa` | 46 |
 | `#licenca-sanitaria` | 2 |
 | `#licenca-vencida` | 5 |
-| `#licenciamento-ambiental` | 151 |
+| `#licenciamento-ambiental` | 153 |
 | `#licenciamento-bifasico` | 8 |
 | `#licenciamento-federal` | 1 |
 | `#licenciamento-monofasico` | 44 |
@@ -413,7 +413,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#metodo-analise` | 2 |
 | `#microempresa` | 4 |
 | `#microrregiao` | 3 |
-| `#mineracao` | 28 |
+| `#mineracao` | 29 |
 | `#minerais-nao-metalicos` | 6 |
 | `#ministerio-publico` | 8 |
 | `#mobilidade-urbana` | 1 |
@@ -421,7 +421,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#modalidade-licenciamento` | 1 |
 | `#modulo-fiscal` | 1 |
 | `#monitoramento` | 99 |
-| `#monitoramento-ambiental` | 3 |
+| `#monitoramento-ambiental` | 4 |
 | `#monitoramento-continuo` | 5 |
 | `#monitoramento-descontinuo` | 2 |
 | `#monitoramento-entorno` | 2 |
@@ -433,7 +433,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#movimentacao-solo` | 15 |
 | `#mtr` | 11 |
 | `#mudanca-uso` | 1 |
-| `#multa` | 13 |
+| `#multa` | 14 |
 | `#multa-ambiental` | 1 |
 | `#multa-diaria` | 1 |
 | `#municipio` | 21 |
@@ -459,7 +459,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#orgao-ambiental-capacitado` | 1 |
 | `#orgao-gestor` | 1 |
 | `#orgao-interveniente` | 1 |
-| `#outorga` | 85 |
+| `#outorga` | 86 |
 | `#outorga-direito` | 11 |
 | `#outorga-onerosa` | 1 |
 | `#outorga-previa` | 16 |
@@ -581,7 +581,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#publicacao-dioe` | 30 |
 | `#publicacao-licenca` | 1 |
 | `#publicidade` | 3 |
-| `#qualidade-ar` | 7 |
+| `#qualidade-ar` | 8 |
 | `#qualidade-solo` | 2 |
 | `#qualificacao` | 1 |
 | `#queima-ceu-aberto` | 5 |
@@ -598,7 +598,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#reciclagem` | 17 |
 | `#recomposicao-vegetacao` | 1 |
 | `#recuperacao-energetica` | 2 |
-| `#recurso-hidrico` | 55 |
+| `#recurso-hidrico` | 57 |
 | `#recursos-hidricos` | 3 |
 | `#redacao-alterada` | 33 |
 | `#rede-eletrica` | 2 |
@@ -635,7 +635,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#residuo-perigoso` | 25 |
 | `#residuo-proibido` | 3 |
 | `#residuo-servico-saude` | 22 |
-| `#residuo-solido` | 111 |
+| `#residuo-solido` | 113 |
 | `#residuo-solido-urbano` | 21 |
 | `#residuo-terceiro` | 1 |
 | `#responsavel-legal` | 10 |
@@ -655,7 +655,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#saude-ocupacional` | 8 |
 | `#segregacao` | 13 |
 | `#segregacao-residuo` | 2 |
-| `#segrh` | 2 |
+| `#segrh` | 3 |
 | `#seguranca-hidrica` | 2 |
 | `#seguranca-instalacao` | 7 |
 | `#seguranca-trabalho` | 4 |
@@ -674,7 +674,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#sinima` | 2 |
 | `#sinir` | 12 |
 | `#sinisa` | 2 |
-| `#sisnama` | 12 |
+| `#sisnama` | 13 |
 | `#sistema-drenagem` | 72 |
 | `#sistema-gerenciamento-riscos` | 1 |
 | `#sistema-informacao-ambiental` | 1 |
@@ -746,7 +746,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#turbina-gas` | 1 |
 | `#turismo` | 5 |
 | `#ugl` | 6 |
-| `#unidade-conservacao` | 73 |
+| `#unidade-conservacao` | 75 |
 | `#usina-asfalto` | 1 |
 | `#uso-agricola` | 4 |
 | `#uso-agricola-efluente` | 9 |
@@ -763,7 +763,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#valor-orientador` | 3 |
 | `#vaso-pressao` | 1 |
 | `#vazao` | 17 |
-| `#vegetacao-nativa` | 24 |
+| `#vegetacao-nativa` | 25 |
 | `#veterinario` | 1 |
 | `#vetor` | 15 |
 | `#via-urbana` | 2 |
@@ -780,4 +780,4 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#xisto` | 1 |
 | `#zona-amortecimento` | 8 |
 | `#zona-costeira` | 4 |
-| `#zoneamento` | 8 |
+| `#zoneamento` | 9 |
