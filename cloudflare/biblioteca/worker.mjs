@@ -124,7 +124,9 @@ function whereFiltros(f) {
   if (f.esferas.length) { sql += ` AND l.esfera IN (${marcadores(f.esferas)})`; args.push(...f.esferas); }
   if (f.anos.length) { sql += ` AND l.ano IN (${marcadores(f.anos)})`; args.push(...f.anos); }
   if (f.tipoDispositivo) { sql += ' AND d.tipo = ?'; args.push(f.tipoDispositivo); }
-  if (f.ocultarRevogados) sql += ' AND COALESCE(l.revogado, 0) = 0 AND d.revogado = 0';
+  // Norma revogada é a de situacao = 'revogada' (README); a coluna l.revogado foi preenchida
+  // pela carga a partir da tag de controle #revogado, que marca dispositivos, e não serve aqui.
+  if (f.ocultarRevogados) sql += " AND COALESCE(l.situacao, 'vigente') <> 'revogada' AND d.revogado = 0";
   return { sql, args };
 }
 
