@@ -86,27 +86,7 @@ async function carregarCatalogo(): Promise<Norma[]> {
   throw new Error('não encontrei html/catalogo.js')
 }
 
-function Segmentado<T extends string>({ valor, opcoes, mudar, rotulo }: {
-  valor: T; opcoes: [T, string][]; mudar: (v: T) => void; rotulo: string
-}) {
-  return (
-    <div role="radiogroup" aria-label={rotulo} className="inline-flex rounded-md border bg-card p-0.5">
-      {opcoes.map(([v, r]) => (
-        <button
-          key={v}
-          role="radio"
-          aria-checked={valor === v}
-          onClick={() => mudar(v)}
-          className={`rounded px-2.5 py-1 text-xs font-medium transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-ring ${
-            valor === v ? 'bg-primary text-primary-foreground' : 'text-muted-foreground hover:text-foreground'
-          }`}
-        >
-          {r}
-        </button>
-      ))}
-    </div>
-  )
-}
+const seletor = 'h-8 w-full rounded-md border bg-card px-2 text-xs text-foreground focus-visible:outline focus-visible:outline-2 focus-visible:outline-ring'
 
 export default function App() {
   const [normas, setNormas] = useState<Norma[] | null>(null)
@@ -307,7 +287,7 @@ export default function App() {
         onScroll={aoRolarLista}
         className={`${atual ? 'hidden md:flex' : 'flex'} min-h-0 flex-1 flex-col overflow-y-auto border-r md:w-[400px] md:flex-none md:overflow-hidden lg:w-[440px]`}
       >
-        <header className="brand-header space-y-3 border-b px-4 pb-3 pt-3">
+        <header className="brand-header space-y-2 border-b px-4 pb-3 pt-2">
           <div className="brand-identity">
             <img className="brand-logo" src={logo} width="64" height="64" alt="AmbLegis Database — Legislação Ambiental · Paraná" />
             <div className="min-w-0 flex-1 space-y-1">
@@ -343,11 +323,17 @@ export default function App() {
               </button>
             )}
           </div>
-          <div className="flex flex-wrap gap-2">
-            <Segmentado rotulo="Esfera" valor={esfera} mudar={setEsfera}
-              opcoes={[['todas', 'Todas'], ['federal', 'Federal'], ['estadual', 'Estadual (PR)']]} />
-            <Segmentado rotulo="Situação" valor={situacao} mudar={setSituacao}
-              opcoes={[['todas', 'Todas'], ['vigente', 'Vigentes'], ['revogada', 'Revogadas']]} />
+          <div className="grid grid-cols-2 gap-1.5">
+            <select aria-label="Esfera" value={esfera} onChange={(e) => setEsfera(e.target.value as typeof esfera)} className={seletor}>
+              <option value="todas">Todas as esferas</option>
+              <option value="federal">Federal</option>
+              <option value="estadual">Estadual (PR)</option>
+            </select>
+            <select aria-label="Situação" value={situacao} onChange={(e) => setSituacao(e.target.value as typeof situacao)} className={seletor}>
+              <option value="todas">Vigentes e revogadas</option>
+              <option value="vigente">Vigentes</option>
+              <option value="revogada">Revogadas</option>
+            </select>
           </div>
           <div className="flex flex-wrap gap-1.5" role="group" aria-label="Tipo de norma">
             {presentesTipos.map(([t, c]) => {

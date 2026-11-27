@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useLayoutEffect, useRef, useState } from 'react'
 import { Input } from '@/components/ui/input'
 import { Button } from '@/components/ui/button'
 import { Search, X } from 'lucide-react'
@@ -34,6 +34,16 @@ const TIPOS_DISP: [string, string][] = [
 ]
 
 // tipo_norma já vem do D1 com o nome de exibição ("IN IAT", "Resolução CEMA")
+type Operador = 'OR' | 'AND' | 'NOT' | 'near' | 'aspas' | '*'
+const OPERADORES: [Operador, string, string][] = [
+  ['OR', 'OR', 'qualquer um dos termos'],
+  ['AND', 'AND', 'todos os termos'],
+  ['NOT', 'NOT', 'exclui o termo seguinte (não pode iniciar a consulta)'],
+  ['near', 'NEAR( , 10)', 'termos a até 10 palavras um do outro'],
+  ['aspas', '" "', 'expressão exata'],
+  ['*', '*', 'prefixo: resid* acha resíduo, resíduos, residencial…'],
+]
+
 const nomeEsfera = (v: string) => (v === 'estadual' ? 'Estadual (PR)' : v.charAt(0).toUpperCase() + v.slice(1))
 
 const AJUDA: Record<ModoConsulta, ReactNode> = {
@@ -113,6 +123,42 @@ export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsul
 
   useEffect(() => { if (fechar) campo.current?.focus() }, []) // só no painel sobreposto
   useEffect(() => { carregarFiltros().then(setOpcoes) }, [])
+
+  // Botões dos operadores (só no modo avançado): inserem no cursor ou em volta do trecho selecionado.
+  const inserirOperador = (op: Operador) => {
+    const el = campo.current
+    const ini = el?.selectionStart ?? q.length
+    const fim = el?.selectionEnd ?? q.length
+    const antes = q.slice(0, ini), sel = q.slice(ini, fim), depois = q.slice(fim)
+    const sep = (t: string) => (t && !/\s$/.test(t) ? ' ' : '')
+    let novo: string, cursorIni: number, cursorFim: number
+    if (op === 'aspas' || op === 'near') {
+      const [abre, fecha] = op === 'aspas' ? ['"', '"'] : ['NEAR(', ', 10)']
+      const pre = antes + sep(antes) + abre
+      novo = pre + sel + fecha + (depois && !/^\s/.test(depois) ? ' ' : '') + depois
+      cursorIni = pre.length
+      cursorFim = pre.length + sel.length
+    } else if (op === '*') {
+      novo = antes + sel + '*' + depois
+      cursorIni = cursorFim = ini + sel.length + 1
+    } else {
+      const pre = antes.replace(/\s+$/, '') + (antes.trim() ? ' ' : '') + op + ' '
+      novo = pre + sel + depois.replace(/^\s+/, '')
+      cursorIni = pre.length
+      cursorFim = pre.length + sel.length
+    }
+    cursorPendente.current = [cursorIni, cursorFim]
+    setQ(novo)
+  }
+  // posiciona o cursor logo depois que o campo recebe o texto novo
+  const cursorPendente = useRef<[number, number] | null>(null)
+  useLayoutEffect(() => {
+    const c = cursorPendente.current
+    if (!c || !campo.current) return
+    cursorPendente.current = null
+    campo.current.focus()
+    campo.current.setSelectionRange(c[0], c[1])
+  }, [q])
 
   const parametros = (termo: string): ParametrosConsulta => ({ q: termo, modo, soVigentes: vigentes, tipo, tipoNorma, esfera, ano })
 
@@ -296,6 +342,21 @@ export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsul
             {carregando ? 'Buscando…' : 'Buscar'}
           </Button>
         </form>
+        {modo === 'avancado' && <div role="toolbar" aria-label="Operadores da consulta avançada" className="flex flex-wrap gap-1">
+          {OPERADORES.map(([op, rotulo, dica]) => (
+            <button
+              key={op}
+              type="button"
+              title={`${rotulo}: ${dica}`}
+              aria-label={`Inserir ${rotulo}: ${dica}`}
+              onMouseDown={(e) => e.preventDefault()}
+              onClick={() => inserirOperador(op)}
+              className="rounded border bg-card px-2 py-0.5 font-mono text-xs font-semibold text-foreground transition-colors hover:border-primary hover:text-primary focus-visible:outline focus-visible:outline-2 focus-visible:outline-ring"
+            >
+              {rotulo}
+            </button>
+          ))}
+        </div>}
         <div className="grid grid-cols-2 gap-1.5">
           <select aria-label="Tipo de norma" value={tipoNorma} onChange={(e) => setTipoNorma(e.target.value)} className={`${sel} col-span-2`}>
             <option value="">Todos os tipos de norma</option>
