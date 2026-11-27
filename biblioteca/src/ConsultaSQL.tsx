@@ -4,8 +4,8 @@ import { Button } from '@/components/ui/button'
 import { Search, X } from 'lucide-react'
 import type { ReactNode } from 'react'
 import RotuloDispositivo from './RotuloDispositivo'
-import { buscarDispositivos, parametrosBusca } from './consulta'
-import type { ConsultaPublicada, Resultado } from './consulta'
+import { buscarDispositivos, carregarFiltros, parametrosBusca } from './consulta'
+import type { ConsultaPublicada, Filtros, ModoConsulta, ParametrosConsulta, Resultado } from './consulta'
 
 // Faixa da consulta no texto dos dispositivos: usa a API do Worker (D1, busca full-text).
 // Só aparece quando a página é servida pelo Worker (há /api); no artefato ou aberta do
@@ -33,6 +33,16 @@ const TIPOS_DISP: [string, string][] = [
   ['alinea', 'Alínea'],
 ]
 
+// tipo_norma já vem do D1 com o nome de exibição ("IN IAT", "Resolução CEMA")
+const nomeEsfera = (v: string) => (v === 'estadual' ? 'Estadual (PR)' : v.charAt(0).toUpperCase() + v.slice(1))
+
+const AJUDA: Record<ModoConsulta, ReactNode> = {
+  simples: <>Digite as palavras, sem se preocupar com acento ou plural. Aparecem os dispositivos com qualquer uma
+    delas; os que trazem a expressão inteira vêm primeiro.</>,
+  avancado: <>Combine com <code>AND</code>, <code>OR</code>, <code>NOT</code> (em maiúsculas), <code>NEAR(a b, 10)</code>{' '}
+    para palavras próximas, aspas para expressão exata, <code>*</code> para prefixo (<code>resid*</code>) e parênteses.</>,
+}
+
 export async function apiDisponivel(): Promise<boolean> {
   if (!location.protocol.startsWith('http')) return false
   try {
@@ -47,13 +57,12 @@ export async function apiDisponivel(): Promise<boolean> {
 
 const semAcento = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
 
-// Destaca no trecho as palavras da consulta (sem acento, início de palavra).
-function destacar(texto: string, q: string) {
-  const termos = semAcento(q)
-    .replace(/\b(and|or|not|near)\b/gi, ' ')
-    .split(/[^a-z0-9*]+/)
-    .map((t) => t.replace(/\*$/, ''))
-    .filter((t) => t.length >= 3)
+// Destaca no trecho os termos que a API usou na consulta (sem acento, início de palavra;
+// frases entram inteiras). Sem termos da API, usa as palavras digitadas.
+function destacar(texto: string, lista: string[]) {
+  const termos = [...new Set(lista.map((t) => semAcento(t).replace(/\*$/, '').trim()))]
+    .filter((t) => t.length >= 2)
+    .sort((a, b) => b.length - a.length) // frase antes das palavras soltas
   if (!termos.length) return texto
   const base = semAcento(texto)
   const marcas: [number, number][] = []
@@ -65,7 +74,7 @@ function destacar(texto: string, q: string) {
     }
   })
   if (!marcas.length) return texto
-  marcas.sort((a, b) => a[0] - b[0])
+  marcas.sort((a, b) => a[0] - b[0] || b[1] - a[1])
   const partes: ReactNode[] = []
   let pos = 0
   marcas.forEach(([a, b], k) => {
@@ -79,10 +88,15 @@ function destacar(texto: string, q: string) {
 
 export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsulta, abrir, aberto, fechar }: Props) {
   const [q, setQ] = useState('')
-  const [feita, setFeita] = useState('')
+  const [modo, setModo] = useState<ModoConsulta>('simples')
+  const [feita, setFeita] = useState<ParametrosConsulta | null>(null)
+  const [termos, setTermos] = useState<string[]>([])
   const [esfera, setEsfera] = useState('')
+  const [tipoNorma, setTipoNorma] = useState('')
+  const [ano, setAno] = useState('')
   const [tipo, setTipo] = useState('')
   const [vigentes, setVigentes] = useState(true)
+  const [opcoes, setOpcoes] = useState<Filtros | null>(null)
   const [res, setRes] = useState<PorNorma[] | null>(null)
   const [erro, setErro] = useState('')
   const [carregando, setCarregando] = useState(false)
@@ -98,8 +112,9 @@ export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsul
   }, [])
 
   useEffect(() => { if (fechar) campo.current?.focus() }, []) // só no painel sobreposto
+  useEffect(() => { carregarFiltros().then(setOpcoes) }, [])
 
-  const parametros = (termo: string) => ({ q: termo, soVigentes: vigentes, tipo })
+  const parametros = (termo: string): ParametrosConsulta => ({ q: termo, modo, soVigentes: vigentes, tipo, tipoNorma, esfera, ano })
 
   // Uma linha por norma (agrupada no D1): o número de dispositivos em que a busca aparece
   // e o dispositivo mais relevante. Os demais só são buscados ao abrir a lista da norma.
@@ -109,9 +124,9 @@ export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsul
     listas.current.forEach((c) => c.abort())
     listas.current.clear()
     publicarConsulta(null)
-    if (termo.length < 3) {
+    if (!termo || (modo === 'simples' && !/[\p{L}\p{N}]{2}/u.test(termo))) {
       termoConsultado.current = ''
-      setErro('Digite ao menos 3 letras.')
+      setErro('Digite ao menos uma palavra com 2 letras ou mais.')
       setRes(null)
       setCarregando(false)
       return
@@ -127,10 +142,11 @@ export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsul
       const p = new URLSearchParams({ ...parametrosBusca(parametros(termo)), agrupar: 'norma', limit: '300' })
       const r = await fetch('/api/buscar?' + p, { signal: controle.signal })
       const d = await r.json().catch(() => ({ erro: `Erro ${r.status} no servidor.` }))
-      if (!r.ok || d.erro) throw new Error(d.erro || `Erro ${r.status} no servidor.`)
+      if (!r.ok || d.erro) throw new Error([d.erro || `Erro ${r.status} no servidor.`, d.dica].filter(Boolean).join(' '))
       if (controle.signal.aborted) return
       setRes(d.normas as PorNorma[])
-      setFeita(termo)
+      setFeita(parametros(termo))
+      setTermos(Array.isArray(d.termos) && d.termos.length ? d.termos : termo.split(/\s+/))
       publicarConsulta({ parametros: parametros(termo), slugs: d.normas.map((n: PorNorma) => n.legislacao_slug) })
     } catch (err) {
       if (controle.signal.aborted) return
@@ -141,10 +157,10 @@ export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsul
     }
   }
 
-  // tipo de dispositivo e "só vigentes" mudam a contagem: refaz a busca feita
+  // modo e filtros mudam a contagem: refaz a busca feita
   useEffect(() => {
     if (termoConsultado.current) buscar(undefined, termoConsultado.current)
-  }, [tipo, vigentes]) // eslint-disable-line react-hooks/exhaustive-deps
+  }, [modo, tipo, vigentes, tipoNorma, esfera, ano]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const alternarLista = async (slug: string) => {
     if (abertos[slug]) {
@@ -158,7 +174,7 @@ export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsul
     const controle = new AbortController()
     listas.current.set(slug, controle)
     try {
-      const itens = await buscarDispositivos(parametros(feita), slug, controle.signal)
+      const itens = await buscarDispositivos(feita ?? parametros(q.trim()), slug, controle.signal)
       if (!controle.signal.aborted) setAbertos((a) => ({ ...a, [slug]: itens }))
     } catch {
       if (controle.signal.aborted) return
@@ -169,11 +185,10 @@ export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsul
     }
   }
 
-  // esfera filtra aqui; normas que não estão na biblioteca (ex.: comentários) ficam de fora
-  const visiveis = (res ?? []).filter((r) => {
-    const e = esferaDe(r.legislacao_slug)
-    return e !== undefined && (!esfera || e === esfera)
-  })
+  // normas que não estão na biblioteca (ex.: comentários) ficam de fora
+  const visiveis = (res ?? []).filter((r) => esferaDe(r.legislacao_slug) !== undefined)
+  const filtrosAtivos = !!(esfera || tipoNorma || ano || tipo || !vigentes)
+  const limparFiltros = () => { setEsfera(''); setTipoNorma(''); setAno(''); setTipo(''); setVigentes(true) }
   const totalDispositivos = visiveis.reduce((s, r) => s + r.ocorrencias, 0)
 
   // da estrutura (Capítulo > Seção > Subseção) mostra o nível mais próximo do dispositivo
@@ -201,7 +216,7 @@ export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsul
         {grupos.map((g) => (
           <li key={g[0].dispositivo_id_html ?? g[0].dispositivo_rotulo}>
             {g.length > 1 && g[0].dispositivo_texto && (
-              <p className="px-2 pt-1 text-[12px] leading-snug text-foreground/85">{destacar(g[0].dispositivo_texto, feita)}</p>
+              <p className="px-2 pt-1 text-[12px] leading-snug text-foreground/85">{destacar(g[0].dispositivo_texto, termos)}</p>
             )}
             {g.map((x) => (
               <button
@@ -214,7 +229,7 @@ export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsul
                   {revogado(x)}
                 </span>
                 {g.length === 1 && x.dispositivo_texto && (
-                  <span className="mt-0.5 line-clamp-3 block text-[12px] leading-snug text-foreground/85">{destacar(x.dispositivo_texto, feita)}</span>
+                  <span className="mt-0.5 line-clamp-3 block text-[12px] leading-snug text-foreground/85">{destacar(x.dispositivo_texto, termos)}</span>
                 )}
                 {x.dispositivo_estrutura && (
                   <span className="block truncate text-[11px] text-muted-foreground" title={x.dispositivo_estrutura}>
@@ -242,6 +257,19 @@ export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsul
             </button>
           )}
         </div>
+        <div role="group" aria-label="Tipo de consulta" className="inline-flex rounded-md border bg-card p-0.5 text-xs">
+          {(['simples', 'avancado'] as const).map((m) => (
+            <button
+              key={m}
+              type="button"
+              aria-pressed={modo === m}
+              onClick={() => setModo(m)}
+              className={`rounded px-2.5 py-1 font-medium transition-colors ${modo === m ? 'bg-primary text-primary-foreground' : 'text-muted-foreground hover:text-foreground'}`}
+            >
+              {m === 'simples' ? 'Simples' : 'Avançada'}
+            </button>
+          ))}
+        </div>
         <form noValidate onSubmit={buscar} className="flex gap-1.5" role="search">
           <div className="relative flex-1">
             <Search className="pointer-events-none absolute left-2.5 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
@@ -250,7 +278,7 @@ export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsul
               ref={campo}
               value={q}
               onChange={(e) => setQ(e.target.value)}
-              placeholder="Ex.: outorga AND captação"
+              placeholder={modo === 'simples' ? 'Ex.: resíduos sólidos' : 'Ex.: outorga AND NEAR(captação água, 5)'}
               aria-label="Texto a buscar nos dispositivos"
               className="h-9 bg-card pl-8 pr-8 text-base md:text-sm"
             />
@@ -259,7 +287,7 @@ export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsul
               listas.current.forEach((c) => c.abort())
               listas.current.clear()
               termoConsultado.current = ''
-              setQ(''); setFeita(''); setRes(null); setAbertos({}); setErro(''); setCarregando(false)
+              setQ(''); setFeita(null); setTermos([]); setRes(null); setAbertos({}); setErro(''); setCarregando(false)
               publicarConsulta(null)
               campo.current?.focus()
             }} className="absolute right-2 top-1/2 -translate-y-1/2 rounded p-1 text-muted-foreground hover:text-foreground"><X className="h-4 w-4" /></button>}
@@ -268,24 +296,37 @@ export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsul
             {carregando ? 'Buscando…' : 'Buscar'}
           </Button>
         </form>
-        <div className="flex flex-wrap items-center gap-1.5">
+        <div className="grid grid-cols-2 gap-1.5">
+          <select aria-label="Tipo de norma" value={tipoNorma} onChange={(e) => setTipoNorma(e.target.value)} className={`${sel} col-span-2`}>
+            <option value="">Todos os tipos de norma</option>
+            {(opcoes?.tipos ?? []).map((o) => <option key={o.valor} value={o.valor}>{o.valor} ({o.total})</option>)}
+          </select>
           <select aria-label="Esfera" value={esfera} onChange={(e) => setEsfera(e.target.value)} className={sel}>
             <option value="">Todas as esferas</option>
-            <option value="federal">Federal</option>
-            <option value="estadual">Estadual (PR)</option>
+            {(opcoes?.esferas.length ? opcoes.esferas : [{ valor: 'federal', total: 0 }, { valor: 'estadual', total: 0 }]).map((o) => (
+              <option key={o.valor} value={o.valor}>{nomeEsfera(String(o.valor))}{o.total ? ` (${o.total})` : ''}</option>
+            ))}
           </select>
-          <select aria-label="Tipo de dispositivo" value={tipo} onChange={(e) => setTipo(e.target.value)} className={sel}>
+          <select aria-label="Ano" value={ano} onChange={(e) => setAno(e.target.value)} className={sel}>
+            <option value="">Qualquer ano</option>
+            {(opcoes?.anos ?? []).map((o) => <option key={o.valor} value={o.valor}>{o.valor} ({o.total})</option>)}
+          </select>
+          <select aria-label="Tipo de dispositivo" value={tipo} onChange={(e) => setTipo(e.target.value)} className={`${sel} col-span-2`}>
             {TIPOS_DISP.map(([v, r]) => <option key={v} value={v}>{r}</option>)}
           </select>
+        </div>
+        <div className="flex items-center justify-between gap-2">
           <label className="flex items-center gap-1.5 text-xs text-muted-foreground">
             <input type="checkbox" checked={vigentes} onChange={(e) => setVigentes(e.target.checked)} className="accent-[hsl(var(--primary))]" />
-            Só vigentes
+            Ocultar revogados
           </label>
+          {filtrosAtivos && (
+            <button type="button" onClick={limparFiltros} className="text-xs font-medium text-primary underline-offset-2 hover:underline">
+              Limpar filtros
+            </button>
+          )}
         </div>
-        <p className="text-[11px] leading-snug text-muted-foreground">
-          Busca sem acento nas palavras dos dispositivos. Use <code>AND</code>, <code>OR</code>, <code>NOT</code>, aspas para
-          expressão exata e <code>*</code> no fim para prefixo (<code>resid*</code>).
-        </p>
+        <p className="text-[11px] leading-snug text-muted-foreground">{AJUDA[modo]}</p>
       </header>
 
       <div className="min-h-0 flex-1 overflow-y-auto" aria-live="polite">
@@ -296,7 +337,10 @@ export default function ConsultaSQL({ esferaDe, nomeDe, ementaDe, publicarConsul
           </p>
         )}
         {res && !visiveis.length && !erro && (
-          <p className="p-4 text-sm text-muted-foreground">Nenhuma norma com “{feita}” nesses filtros.</p>
+          <p className="p-4 text-sm text-muted-foreground">
+            Nenhuma norma com “{feita?.q}”{filtrosAtivos ? ' nesses filtros' : ''}.
+            {modo === 'avancado' && ' Confira os operadores ou tente a consulta simples.'}
+          </p>
         )}
         {!res && !erro && (
           <p className="p-4 text-sm leading-relaxed text-muted-foreground">

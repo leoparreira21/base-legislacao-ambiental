@@ -63,3 +63,10 @@ python testes/biblioteca_ui.py
 ```
 
 Os testes usam as páginas reais geradas e respostas simuladas, sem consultar D1 ou IA.
+
+Consulta simples e avançada (27/11/2026): o seletor "Simples | Avançada" manda `modo=simples|avancado`
+para `/api/buscar`. Na simples o Worker tira acentos e monta `termo OR plural OR "frase"`; na avançada a
+expressão vai ao FTS5 como foi escrita (AND, OR, NOT, NEAR, aspas, `*`, parênteses). Os filtros (tipo de
+norma, esfera, ano, tipo de dispositivo, ocultar revogados) vão ao D1 como `tipo_norma`, `esfera`, `ano`,
+`tipo` e `ocultar_revogados`; as opções vêm de `/api/filtros`, com os nomes que estão no D1. O destaque usa
+os `termos` devolvidos pela API. Lista da norma e localizador repetem o mesmo modo e os mesmos filtros.

@@ -63,6 +63,7 @@ class BibliotecaUI(unittest.TestCase):
         self.itens = ITENS
         self.reter = False
         self.atrasadas = []
+        self.pedidos = []
         self.page.route('**/api', lambda r: r.fulfill(json={'endpoints': {'buscar': 'Busca'}}))
         self.page.route('**/api/**', self.api)
 
@@ -71,7 +72,13 @@ class BibliotecaUI(unittest.TestCase):
         self.assertEqual(self.erros, [])
 
     def api(self, route):
+        if urlparse(route.request.url).path == '/api/filtros':
+            route.fulfill(json={'tipos': [{'valor': 'IN IAT', 'total': 66}, {'valor': 'Lei', 'total': 363}],
+                                'esferas': [{'valor': 'estadual', 'total': 160}, {'valor': 'federal', 'total': 692}],
+                                'anos': [{'valor': 2026, 'total': 35}, {'valor': 2025, 'total': 60}]})
+            return
         p = parse_qs(urlparse(route.request.url).query)
+        self.pedidos.append(p)
         q = p.get('q', [''])[0]
         itens = [CF] if q == 'transporte' else self.itens if q == 'efluentes' else []
         if self.reter and 'tipo' not in p and 'slug' not in p:
@@ -199,6 +206,28 @@ class BibliotecaUI(unittest.TestCase):
         self.atrasadas[0].fulfill(json={'normas': [{**ITENS[0], 'ocorrencias': 4}]})
         self.page.wait_for_timeout(100)
         expect(self.painel.locator('li')).to_have_count(0)
+
+    def test_modo_avancado_e_filtros_de_norma(self):
+        self.buscar()
+        expect(self.painel.locator('li').first).to_be_visible()
+        self.assertEqual(self.pedidos[-1]['modo'], ['simples'])
+        self.assertEqual(self.pedidos[-1]['ocultar_revogados'], ['true'])
+        self.painel.get_by_role('button', name='Avançada', exact=True).click()
+        expect(self.painel.get_by_role('button', name='Avançada', exact=True)).to_have_attribute('aria-pressed', 'true')
+        self.painel.get_by_role('combobox', name='Tipo de norma').select_option('IN IAT')
+        self.painel.get_by_role('combobox', name='Esfera').select_option('estadual')
+        self.painel.get_by_role('combobox', name='Ano').select_option('2026')
+        expect(self.painel.get_by_role('combobox', name='Tipo de norma')).to_contain_text('IN IAT (66)')
+        self.page.wait_for_timeout(300)
+        ultimo = self.pedidos[-1]
+        self.assertEqual((ultimo['modo'], ultimo['tipo_norma'], ultimo['esfera'], ultimo['ano']),
+                         (['avancado'], ['IN IAT'], ['estadual'], ['2026']))
+        # a lista da norma e o localizador usam os mesmos filtros
+        self.painel.get_by_role('button', name='Ver os 4 dispositivos').click()
+        expect(self.painel).to_contain_text(TEXTO)
+        self.assertEqual(self.pedidos[-1]['tipo_norma'], ['IN IAT'])
+        self.painel.get_by_role('button', name='Limpar filtros').click()
+        expect(self.painel.get_by_role('combobox', name='Ano')).to_have_value('')
 
 
 if __name__ == '__main__':
