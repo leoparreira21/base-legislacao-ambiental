@@ -67,7 +67,9 @@ test('consulta avançada vai ao FTS5 como foi escrita, com os filtros de norma',
 test('revogados ficam de fora por padrão (norma e dispositivo)', async () => {
   const chamadas = [];
   await worker.fetch(new Request('https://biblioteca.test/api/buscar?q=outorga'), bancoFalso(chamadas));
-  assert.match(chamadas[0].sql, /COALESCE\(l\.revogado, 0\) = 0 AND d\.revogado = 0/);
+  assert.match(chamadas[0].sql, /COALESCE\(l\.situacao, 'vigente'\) <> 'revogada' AND d\.revogado = 0/);
+  // a coluna l.revogado veio da tag de controle #revogado (dispositivos), não da situação da norma
+  assert.doesNotMatch(chamadas[0].sql, /l\.revogado, 0\) = 0/);
 });
 
 test('consulta vazia não chega ao D1', async () => {
