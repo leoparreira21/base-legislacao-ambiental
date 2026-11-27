@@ -14068,6 +14068,27 @@ window.CATALOGO_NORMAS = [
 }
 },
 {
+"arquivo": "norma-regulamentadora-federal-1-1978",
+"norma": "Norma Regulamentadora nº 1 (NR-01)",
+"tipo": "norma-regulamentadora",
+"esfera": "federal",
+"orgao": "Ministério do Trabalho e Emprego",
+"ano": 1978,
+"ementa": "Disposições gerais e gerenciamento de riscos ocupacionais.",
+"situacao": "vigente",
+"apelidos": [],
+"temas": {
+"avaliacao-risco": "",
+"microempresa": "",
+"pgr": "",
+"saude-ocupacional": "",
+"seguranca-trabalho": "",
+"treinamento": "",
+"incluido": "ite1-4-1-1",
+"redacao-alterada": "ite1-4-3"
+}
+},
+{
 "arquivo": "norma-regulamentadora-federal-13-1978",
 "norma": "Norma Regulamentadora nº 13 (NR-13)",
 "tipo": "norma-regulamentadora",

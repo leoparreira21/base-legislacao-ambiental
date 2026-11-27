@@ -353,16 +353,17 @@ def montar(corpo, conv):
 
 def ancestrais(ident):
     """IDs candidatos a pai, do mais próximo ao mais distante.
-    art5_par2_inc3 -> art5_par2, art5; nas NRs, ite13-1-3-1 -> ite13-1-3, ite13-1."""
+    art5_par2_inc3 -> art5_par2, art5; nas NRs, o item numerado sobe pela numeração:
+    ite13-1-3-1 -> ite13-1-3, ite13-1; anexo2_ite2-1-1 -> anexo2_ite2-1, anexo2_ite2, anexo2."""
     partes = ident.split('_')
-    while len(partes) > 1:
-        partes.pop()
+    while partes:
+        if re.fullmatch(r'ite\d+(?:-\d+)+', partes[-1]):
+            partes[-1] = partes[-1].rsplit('-', 1)[0]
+        else:
+            partes.pop()
+            if not partes:
+                break
         yield '_'.join(partes)
-    if partes[0].startswith('ite'):
-        pedacos = partes[0].split('-')
-        while len(pedacos) > 1:
-            pedacos.pop()
-            yield '-'.join(pedacos)
 
 
 def dentro(no, container):
@@ -382,7 +383,7 @@ def marcar_pais(no):
 
 
 NOMES_NIVEL = [('parágrafo', '§§'), ('§', '§§'), ('inciso', 'incisos'), ('alínea', 'alíneas'), ('item', 'itens'),
-               ('caput', 'caput'), ('tabela', 'tabelas'), ('nota', 'notas'), ('pena', 'pena')]
+               ('caput', 'caput'), ('marcador', 'marcadores'), ('tabela', 'tabelas'), ('nota', 'notas'), ('pena', 'pena')]
 
 
 def nome_nivel(rotulo):

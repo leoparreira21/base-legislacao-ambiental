@@ -71,7 +71,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#automonitoramento` | 30 |
 | `#autorizacao-ambiental` | 76 |
 | `#autorizacao-florestal` | 22 |
-| `#avaliacao-risco` | 2 |
+| `#avaliacao-risco` | 3 |
 | `#averbacao` | 6 |
 | `#avicultura` | 4 |
 | `#bacia-hidrografica` | 14 |
@@ -411,7 +411,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#mercurio` | 4 |
 | `#metal-pesado` | 9 |
 | `#metodo-analise` | 2 |
-| `#microempresa` | 4 |
+| `#microempresa` | 5 |
 | `#microrregiao` | 3 |
 | `#mineracao` | 29 |
 | `#minerais-nao-metalicos` | 6 |
@@ -503,7 +503,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#petroleo` | 7 |
 | `#pev` | 4 |
 | `#pfnm` | 1 |
-| `#pgr` | 12 |
+| `#pgr` | 13 |
 | `#pgrcc` | 17 |
 | `#pgrss` | 10 |
 | `#pilha-bateria` | 6 |
@@ -654,13 +654,13 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#sancao` | 89 |
 | `#saneamento` | 24 |
 | `#saneante-desinfestante` | 1 |
-| `#saude-ocupacional` | 8 |
+| `#saude-ocupacional` | 9 |
 | `#segregacao` | 13 |
 | `#segregacao-residuo` | 2 |
 | `#segrh` | 3 |
 | `#seguranca-hidrica` | 2 |
 | `#seguranca-instalacao` | 7 |
-| `#seguranca-trabalho` | 4 |
+| `#seguranca-trabalho` | 5 |
 | `#semente` | 1 |
 | `#serflor` | 10 |
 | `#serraria` | 1 |
@@ -740,7 +740,7 @@ Gerado por `python scripts/validar.py --tags` a partir do campo `tags` do frontm
 | `#tratamento-residuo` | 13 |
 | `#tratamento-semente` | 2 |
 | `#tratamento-superficie` | 2 |
-| `#treinamento` | 1 |
+| `#treinamento` | 2 |
 | `#triagem` | 11 |
 | `#tubulacao` | 1 |
 | `#turbidez` | 2 |

@@ -82,6 +82,37 @@ Títulos, capítulos e seções usam `##`, `###`, `####` e `#####`; artigos usam
 ### Fidelidade ao texto
 O texto é transcrito **exatamente como publicado**, com os erros do original. Os erros ficam registrados na seção final `## Notas de transcrição`, e os links seguem a letra da norma, salvo exceção registrada nessa seção.
 
+## Normas Regulamentadoras (NR)
+
+As NRs do MTE não têm artigos: os dispositivos são **itens** numerados (1, 1.1, 1.1.1, 1.1.1.1...) e **subitens** marcados por letra, romano ou outro caractere. Regras (aprovadas em 27/11/2026, a partir da NR-01; NR-13, NR-31 e NR-32 já seguiam o mesmo padrão):
+
+**Arquivo e frontmatter.** `norma-regulamentadora-federal-N-AAAA`, com o ano da portaria que aprovou a NR (NR-1 a NR-28: Portaria MTb 3.214/1978 → 1978; NR-29 1997, NR-30 2002, NR-31 e NR-32 2005, NR-33 2006, NR-34 2011, NR-35 2012, NR-36 2013, NR-37 2018, NR-38 2022; conferir no PDF). `tipo: norma-regulamentadora`, `numero: N`, `publicacao` (portaria de aprovação e DOU), `orgao: Ministério do Trabalho e Emprego`, `texto: compilado (atualizado até a Portaria ...)`. A tabela de portarias da capa vira `alterado_por` e o `## Histórico de alterações`; a portaria de aprovação entra só no histórico e na ementa citada (`>`). Cabeçalho, sumários e rodapé ("Este texto não substitui o publicado no DOU") não são transcritos.
+
+**Itens numerados.** ID `ite` + número com hífens; rótulo `Item` + número; cada item é um parágrafo próprio, na ordem do PDF (mesmo fora da sequência):
+```markdown
+**Item 1.5.3.1** {#ite1-5-3-1} A organização deve implementar ...
+```
+
+**Títulos.** Item numerado que só dá nome a um grupo (sem pontuação final, seguido de subitem dele, e que não é oração: "1.5.3 Responsabilidades", mas não "1.8.1 O Microempreendedor Individual - MEI está dispensado...") vira cabeçalho, com profundidade igual ao número de níveis: `## 1.5 ... {#ite1-5}`, `### 1.5.3 ... {#ite1-5-3}`, `#### 1.5.4.2 ... {#ite1-5-4-2}`, do 5º nível em diante `#####`. Os itens de 2 níveis do corpo (1.1, 1.2...) são sempre títulos. Intertítulo sem número ("Aproveitamento de treinamentos entre organizações") vira cabeçalho um nível abaixo do título em que está, com ID `<título>_subN` (`### ... {#ite1-7_sub2}`).
+
+**Subitens** (lista aninhada sob o item, rótulo completo):
+| Marca no original | ID | Rótulo |
+|---|---|---|
+| `a)` | `ite1-4-1_alib` | `Item 1.4.1, alínea "b"` |
+| `I.`, `I -`, `I)` | `ite1-4-1_alib_inc2` | `Item 1.4.1, alínea "b", inciso II` |
+| `1)` | `..._ite1` | `..., item 1` |
+| `•`, `-`, `–` (marcador gráfico) | `..._mrc1` | `..., marcador 1` |
+
+O romano é filho da alínea que o precede no mesmo item; sem alínea antes, é filho do item. Alínea que vem depois de romanos sem alínea anterior é filha do romano.
+
+**Anexos.** Anexo de NR é normativo (tipo 3), mesmo com figuras e quadros: fica no arquivo da norma, `## ANEXO II DA NR-01 – Título como no original {#anexo2}`. Itens do anexo: `**Anexo II, item 2.1.1** {#anexo2_ite2-1-1}`; título de 1º nível do anexo `### 1 Objetivo {#anexo2_ite1}` (um nível a mais que no corpo). Anexo ou seção de **termos e definições / glossário**: um termo por linha, `**Anexo I, linha 5** {#anexo1_lin5} Termo: definição` (em seção numerada do anexo, `anexo2_ite6_lin3`; glossário no corpo, `glossario_linN`); "Observação:" ou "Nota:" logo após um termo fica na mesma linha. Tabelas e figuras seguem o padrão geral (`anexoN_tabT_linM`, `anexoN_figM`).
+
+**Anotações oficiais.** As notas do MTE no fim do dispositivo ("(alterado pela Portaria ...)", "(incluída pela ...)") ficam em itálico, `*(...)*`, com link para a portaria, e o dispositivo recebe a tag de controle (`#redacao-alterada`, `#incluido`, `#revogado`). "(retificado ...)" e "(numeração retificada ...)" ficam sem tag. Caixa de anotação que cobre um item inteiro ("Redação dada pela Portaria ... / Entra em vigor em ...") vai logo abaixo do título do item, seguida de `Tags: #redacao-alterada`.
+
+**Redações com prazo.** Quando o PDF traz duas redações ("vigente até ..." e a nova), fica só a que vigora na data da conversão (regra de 06/10/2026); a outra é descrita nas Notas de transcrição. Vigência futura: fica a redação publicada, com a anotação, e o ponto vai para Leo.
+
+**Conversor.** `python scripts/conversor_nr/converter_nr.py NR.pdf --nr N --saida rascunho.md` gera o rascunho com essas regras (lê negrito e tamanho da letra pelo PyMuPDF) e lista no terminal os títulos deduzidos, parágrafos sem marcador e quebras de sequência. Depois de revisar e completar o frontmatter e as notas, `python scripts/conversor_nr/converter_nr.py --conferir NR.pdf normas/<arquivo>.md` compara o texto palavra por palavra (ignora marcadores).
+
 ## Anexos
 
 Todo anexo tem uma seção no arquivo da norma: `### ANEXO V {#anexo5}`. O tratamento depende do conteúdo, e um mesmo anexo pode combinar tipos (cada parte segue a sua regra).
