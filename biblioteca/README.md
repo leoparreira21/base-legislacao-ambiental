@@ -40,6 +40,10 @@ Onde abrir:
 
 A faixa "Consulta no texto" (`src/ConsultaSQL.tsx`) chama `/api/buscar` do Worker `cloudflare/biblioteca/worker.mjs` (D1). Ela só aparece quando `/api` responde: coluna à direita a partir de 1280 px de largura, painel sobreposto (botão "Consulta no texto dos dispositivos") nas telas menores.
 
+No modo Avançado, uma fileira de botões (`OR`, `AND`, `NOT`, `NEAR( , 10)`, aspas e `*`) abaixo do campo
+insere o operador no cursor; aspas e `NEAR` envolvem o trecho selecionado. No modo Simples ela não aparece.
+Na lista de normas, esfera e situação são duas listas de seleção numa linha; os tipos continuam como botões.
+
 Os cartões mostram o nome, a contagem de dispositivos e a súmula do catálogo (com a
 ementa da API como alternativa). Os trechos ficam apenas em "Ver os N dispositivos",
 inclusive quando há uma única ocorrência. `RotuloDispositivo.tsx` abrevia as referências
