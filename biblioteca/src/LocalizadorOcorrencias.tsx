@@ -19,16 +19,16 @@ type Props = {
 export default function LocalizadorOcorrencias({ parametros, slug, ancora, documento, ir, fechar, buscaNoTexto }: Props) {
   const [resultado, setResultado] = useState<{ chave: string; itens: Resultado[]; erro: string } | null>(null)
   const [tentativa, setTentativa] = useState(0)
-  const { q, tipo, soVigentes } = parametros
-  const chave = JSON.stringify([slug, q, tipo, soVigentes, tentativa])
+  const { q } = parametros
+  const chave = JSON.stringify([slug, parametros, tentativa])
   useEffect(() => {
     if (buscaNoTexto) return
     const controle = new AbortController()
-    buscarDispositivos({ q, tipo, soVigentes }, slug, controle.signal)
+    buscarDispositivos(parametros, slug, controle.signal)
       .then((itens) => { if (!controle.signal.aborted) setResultado({ chave, itens, erro: '' }) })
       .catch((e: Error) => { if (!controle.signal.aborted) setResultado({ chave, itens: [], erro: e.message }) })
     return () => controle.abort()
-  }, [chave, slug, q, tipo, soVigentes, buscaNoTexto])
+  }, [chave, buscaNoTexto]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const atual = !buscaNoTexto && resultado?.chave === chave ? resultado : null
   const itens = useMemo(() => atual?.itens ?? [], [atual])
