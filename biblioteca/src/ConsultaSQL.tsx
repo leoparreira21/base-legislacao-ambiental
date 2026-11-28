@@ -47,8 +47,8 @@ const OPERADORES: [Operador, string, string][] = [
 const nomeEsfera = (v: string) => (v === 'estadual' ? 'Estadual (PR)' : v.charAt(0).toUpperCase() + v.slice(1))
 
 const AJUDA: Record<ModoConsulta, ReactNode> = {
-  simples: <>Digite as palavras, sem se preocupar com acento ou plural. Aparecem os dispositivos com qualquer uma
-    delas; os que trazem a expressão inteira vêm primeiro.</>,
+  simples: <>Digite as palavras, sem se preocupar com acento ou plural. Aparecem os dispositivos com todas
+    elas (palavras como “de” e “para” são ignoradas); os que trazem a expressão inteira vêm primeiro.</>,
   avancado: <>Combine com <code>AND</code>, <code>OR</code>, <code>NOT</code> (em maiúsculas), <code>NEAR(a b, 10)</code>{' '}
     para palavras próximas, aspas para expressão exata, <code>*</code> para prefixo (<code>resid*</code>) e parênteses.</>,
 }
