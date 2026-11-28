@@ -5,6 +5,9 @@
 // Em 27/11/2026 entraram as regras que Leo montou no chat do Cloudflare (publicadas por
 // fora do repositório, o que apagou a biblioteca): consulta simples e avançada, filtros
 // por tipo de norma, esfera, ano e revogados, /api/filtros e os termos para o destaque.
+// Em 28/11/2026: registro das buscas sem resultado (tabela buscas_sem_resultado) e a
+// página /api/lacunas, protegida pelo secret LACUNAS_TOKEN.
+
 
 // ── Consulta simples: o Worker remove acentos e monta a expressão FTS5 ──────────────────
 // "resíduos sólidos" → residuos OR residuo OR solidos OR solido OR "residuos solidos"
@@ -248,11 +251,165 @@ async function buscarNaNorma(env, expressao, filtros, slug, offset = 0) {
   return { slug, total: results.length, proximo_offset: results.length === 1000 ? offset + results.length : null, resultados: results.map(comLink) };
 }
 
-const ERRO_SIMPLES = 'Informe ao menos um termo com 2 caracteres ou mais.';
-const DICA_AVANCADA = 'Na consulta avançada use AND, OR, NOT, NEAR(termo1 termo2, 10), "frase exata", prefixo* e parênteses. '
+const ERRO_SIMPLES = 'Informe ao menos um termo com 2 caracteres ou mais.';const DICA_AVANCADA = 'Na consulta avançada use AND, OR, NOT, NEAR(termo1 termo2, 10), "frase exata", prefixo* e parênteses. '
   + 'Os operadores devem estar em MAIÚSCULAS e NOT não pode iniciar a expressão.';
 
-async function api(request, env, url) {
+// ── Lacunas: buscas da faixa principal que não retornaram nenhuma norma ────────────────
+// Só a busca agrupada sem slug grava (as chamadas com slug são a lista da norma e o
+// localizador). A gravação roda em ctx.waitUntil e nunca atrasa nem derruba a busca.
+// Não se guarda IP, user-agent nem qualquer dado pessoal: só o termo e os filtros.
+const MIN_CARACTERES_LACUNA = 3;
+const STATUS_LACUNA = new Set(['pendente', 'resolvido', 'ignorar']);
+const ORDENS_LACUNAS = {
+  ocorrencias: 'ocorrencias DESC, ultima_vez DESC',
+  recente: 'ultima_vez DESC, ocorrencias DESC',
+};
+
+function filtrosParaRegistro(f) {
+  const ativos = {};
+  if (f.tipos.length) ativos.tipo_norma = f.tipos;
+  if (f.esferas.length) ativos.esfera = f.esferas;
+  if (f.anos.length) ativos.ano = f.anos;
+  if (f.tipoDispositivo) ativos.tipo = f.tipoDispositivo;
+  ativos.ocultar_revogados = f.ocultarRevogados;
+  return JSON.stringify(ativos);
+}
+
+function registrarLacuna(env, ctx, termo, modo, filtros) {
+  if (!ctx || typeof ctx.waitUntil !== 'function') return;
+  const termoNormalizado = normalizar(termo); // minúsculas, sem acentos, espaços simples
+  if (termoNormalizado.length < MIN_CARACTERES_LACUNA) return;
+  const termoOriginal = String(termo ?? '').trim().slice(0, 300);
+  const filtrosJson = filtrosParaRegistro(filtros);
+  ctx.waitUntil((async () => {
+    try {
+      await env.DB.prepare(`INSERT INTO buscas_sem_resultado
+        (termo_normalizado, termo_original, modo, filtros, ocorrencias, primeira_vez, ultima_vez, status)
+        VALUES (?, ?, ?, ?, 1, datetime('now'), datetime('now'), 'pendente')
+        ON CONFLICT (termo_normalizado, modo) DO UPDATE SET
+          ocorrencias    = ocorrencias + 1,
+          termo_original = excluded.termo_original,
+          filtros        = excluded.filtros,
+          ultima_vez     = datetime('now'),
+          status         = CASE WHEN status = 'resolvido' THEN 'pendente' ELSE status END`)
+        .bind(termoNormalizado, termoOriginal, modo, filtrosJson).run();
+    } catch {
+      // registrar a lacuna é acessório: falha aqui não pode afetar a resposta da busca
+    }
+  })());
+}
+
+// Comparação do token sem vazar o valor (nem em mensagem de erro)
+function tokenValido(informado, esperado) {
+  if (typeof esperado !== 'string' || esperado === '') return false;
+  if (typeof informado !== 'string' || informado === '') return false;
+  const a = new TextEncoder().encode(informado);
+  const b = new TextEncoder().encode(esperado);
+  let diferenca = a.length ^ b.length;
+  const n = Math.max(a.length, b.length);
+  for (let i = 0; i < n; i++) diferenca |= (a[i] ?? 0) ^ (b[i] ?? 0);
+  return diferenca === 0;
+}
+
+const escaparHtml = (v) => String(v ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+async function listarLacunas(env, status, ordem) {
+  const filtroStatus = status === 'todos' ? 'todos' : (STATUS_LACUNA.has(status) ? status : 'pendente');
+  const nomeOrdem = ORDENS_LACUNAS[ordem] ? ordem : 'ocorrencias';
+  const campos = 'id, termo_original, termo_normalizado, modo, filtros, ocorrencias, primeira_vez, ultima_vez, status, observacao';
+  const sql = filtroStatus === 'todos'
+    ? `SELECT ${campos} FROM buscas_sem_resultado ORDER BY ${ORDENS_LACUNAS[nomeOrdem]}`
+    : `SELECT ${campos} FROM buscas_sem_resultado WHERE status = ? ORDER BY ${ORDENS_LACUNAS[nomeOrdem]}`;
+  const stmt = env.DB.prepare(sql);
+  const { results } = filtroStatus === 'todos' ? await stmt.all() : await stmt.bind(filtroStatus).all();
+  return { filtroStatus, ordem: nomeOrdem, resultados: results };
+}
+
+function csvLacunas(resultados) {
+  const celula = (v) => `"${String(v ?? '').replace(/"/g, '""')}"`;
+  const linhas = [['termo', 'modo', 'filtros', 'ocorrencias', 'primeira_vez', 'ultima_vez', 'status', 'observacao'].map(celula).join(',')];
+  for (const r of resultados) {
+    linhas.push([r.termo_original, r.modo, r.filtros, r.ocorrencias, r.primeira_vez, r.ultima_vez, r.status, r.observacao].map(celula).join(','));
+  }
+  return linhas.join('\r\n') + '\r\n';
+}
+
+function paginaLacunas(resultados, { filtroStatus, ordem, token }) {
+  const t = encodeURIComponent(token);
+  const link = (status, ord) => `/api/lacunas?token=${t}&status=${encodeURIComponent(status)}&ordem=${encodeURIComponent(ord)}`;
+  const aba = (valor, rotulo) => `<a class="aba${filtroStatus === valor ? ' ativa' : ''}" href="${link(valor, ordem)}">${rotulo}</a>`;
+  const ordenacao = (valor, rotulo) => `<a class="aba${ordem === valor ? ' ativa' : ''}" href="${link(filtroStatus, valor)}">${rotulo}</a>`;
+  const acao = `/api/lacunas?token=${t}&status=${encodeURIComponent(filtroStatus)}&ordem=${encodeURIComponent(ordem)}`;
+
+  const linhas = resultados.map((r) => {
+    const botoes = ['resolvido', 'ignorar', 'pendente'].map((s) =>
+      `<button type="submit" name="status" value="${s}"${r.status === s ? ' disabled' : ''}>${s}</button>`).join('');
+    return `<tr>
+      <td><strong>${escaparHtml(r.termo_original)}</strong><div class="sub">${escaparHtml(r.termo_normalizado)}</div></td>
+      <td>${escaparHtml(r.modo)}</td>
+      <td class="sub">${escaparHtml(r.filtros)}</td>
+      <td class="num">${escaparHtml(r.ocorrencias)}</td>
+      <td class="sub">${escaparHtml(r.primeira_vez)}<br>${escaparHtml(r.ultima_vez)}</td>
+      <td>${escaparHtml(r.status)}</td>
+      <td>
+        <form method="post" action="${acao}">
+          <input type="hidden" name="id" value="${escaparHtml(r.id)}">
+          <input type="hidden" name="voltar_status" value="${escaparHtml(filtroStatus)}">
+          <input type="hidden" name="voltar_ordem" value="${escaparHtml(ordem)}">
+          <input class="obs" name="observacao" value="${escaparHtml(r.observacao)}" placeholder="observação">
+          <div class="botoes">${botoes}</div>
+        </form>
+      </td>
+    </tr>`;
+  }).join('\n');
+
+  return `<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Lacunas da biblioteca</title>
+<style>
+  body { font: 14px/1.45 system-ui, sans-serif; margin: 24px; color: #1f2933; }
+  h1 { font-size: 20px; margin: 0 0 4px; }
+  p.intro { margin: 0 0 16px; color: #52606d; }
+  .abas { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 16px; }
+  .aba { padding: 4px 10px; border: 1px solid #cbd2d9; border-radius: 999px; text-decoration: none; color: #1f2933; }
+  .aba.ativa { background: #1f2933; color: #fff; border-color: #1f2933; }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { border-bottom: 1px solid #e4e7eb; padding: 8px; text-align: left; vertical-align: top; }
+  th { background: #f5f7fa; font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
+  .sub { color: #7b8794; font-size: 12px; }
+  .num { text-align: right; font-variant-numeric: tabular-nums; }
+  .obs { width: 100%; box-sizing: border-box; margin-bottom: 4px; }
+  .botoes { display: flex; gap: 4px; }
+  button { font: inherit; padding: 2px 8px; cursor: pointer; }
+  button[disabled] { opacity: .45; cursor: default; }
+  .vazio { padding: 24px; text-align: center; color: #7b8794; }
+</style>
+</head>
+<body>
+<h1>Lacunas da biblioteca</h1>
+<p class="intro">Buscas da faixa principal que não retornaram nenhuma norma. Datas em UTC.</p>
+<div class="abas">
+  ${aba('pendente', 'Pendentes')}${aba('resolvido', 'Resolvidas')}${aba('ignorar', 'Ignoradas')}${aba('todos', 'Todas')}
+  <span style="width:12px"></span>
+  ${ordenacao('ocorrencias', 'Mais buscadas')}${ordenacao('recente', 'Mais recentes')}
+  <span style="width:12px"></span>
+  <a class="aba" href="/api/lacunas.csv?token=${t}&status=${encodeURIComponent(filtroStatus)}&ordem=${encodeURIComponent(ordem)}">Baixar CSV</a>
+</div>
+<table>
+<thead><tr><th>Termo</th><th>Modo</th><th>Filtros</th><th>Ocorr.</th><th>Primeira / última</th><th>Status</th><th>Ação</th></tr></thead>
+<tbody>
+${linhas || '<tr><td colspan="7" class="vazio">Nenhuma busca sem resultado neste filtro.</td></tr>'}
+</tbody>
+</table>
+</body>
+</html>`;
+}
+
+async function api(request, env, url, ctx) {
   // GET /api/buscar?q=&modo=simples|avancado + filtros
   //   &agrupar=norma → uma linha por norma; &slug= → dispositivos de uma norma (com &offset=)
   if (url.pathname === '/api/buscar' && request.method === 'GET') {
@@ -270,6 +427,8 @@ async function api(request, env, url) {
       corpo = await buscarNaNorma(env, consulta.expressao, filtros, slug, offset);
     } else if (sp.get('agrupar') === 'norma') {
       corpo = await buscarPorNorma(env, consulta.expressao, filtros, inteiro('limit', 100, 300));
+      // faixa principal da biblioteca: só aqui a busca sem resultado vira lacuna
+      if (corpo.total_normas === 0) registrarLacuna(env, ctx, sp.get('q'), consulta.modo, filtros);
     } else {
       corpo = await buscar(env, consulta.expressao, filtros, inteiro('limit', 20, 100));
     }
@@ -338,9 +497,51 @@ async function api(request, env, url) {
     return Response.json({ slug, estrutura: results.map((r) => r.estrutura) });
   }
 
+  // GET /api/lacunas?token=...&status=pendente|resolvido|ignorar|todos&ordem=ocorrencias|recente
+  if (url.pathname === '/api/lacunas' && request.method === 'GET') {
+    const token = url.searchParams.get('token');
+    if (!tokenValido(token, env.LACUNAS_TOKEN)) return new Response('Não encontrado', { status: 404 });
+    const { filtroStatus, ordem, resultados } = await listarLacunas(env, url.searchParams.get('status') || 'pendente', url.searchParams.get('ordem') || 'ocorrencias');
+    return new Response(paginaLacunas(resultados, { filtroStatus, ordem, token }), {
+      headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store' },
+    });
+  }
+
+  // GET /api/lacunas.csv?token=... (mesmos filtros da tela)
+  if (url.pathname === '/api/lacunas.csv' && request.method === 'GET') {
+    const token = url.searchParams.get('token');
+    if (!tokenValido(token, env.LACUNAS_TOKEN)) return new Response('Não encontrado', { status: 404 });
+    const { resultados } = await listarLacunas(env, url.searchParams.get('status') || 'pendente', url.searchParams.get('ordem') || 'ocorrencias');
+    return new Response(csvLacunas(resultados), {
+      headers: {
+        'Content-Type': 'text/csv; charset=utf-8',
+        'Content-Disposition': 'attachment; filename="lacunas-biblioteca.csv"',
+        'Cache-Control': 'no-store',
+      },
+    });
+  }
+
+  // POST /api/lacunas?token=... (form: id, status, observacao) → volta para a tela
+  if (url.pathname === '/api/lacunas' && request.method === 'POST') {
+    const token = url.searchParams.get('token');
+    if (!tokenValido(token, env.LACUNAS_TOKEN)) return new Response('Não encontrado', { status: 404 });
+    let form;
+    try { form = await request.formData(); } catch { return Response.json({ erro: 'Corpo inválido.' }, { status: 400 }); }
+    const id = parseInt(form.get('id'), 10);
+    const status = String(form.get('status') ?? '');
+    if (!Number.isSafeInteger(id) || !STATUS_LACUNA.has(status)) return Response.json({ erro: 'Status inválido.' }, { status: 400 });
+    const observacao = String(form.get('observacao') ?? '').slice(0, 2000);
+    await env.DB.prepare('UPDATE buscas_sem_resultado SET status = ?, observacao = ? WHERE id = ?')
+      .bind(status, observacao || null, id).run();
+    const voltarStatus = String(form.get('voltar_status') ?? 'pendente');
+    const voltarOrdem = String(form.get('voltar_ordem') ?? 'ocorrencias');
+    return Response.redirect(`${url.origin}/api/lacunas?token=${encodeURIComponent(token)}&status=${encodeURIComponent(voltarStatus)}&ordem=${encodeURIComponent(voltarOrdem)}`, 303);
+  }
+
   if (url.pathname === '/api' || url.pathname === '/api/') {
     return Response.json({
       servico: 'Biblioteca de Legislação Ambiental',
+
       consulta: {
         simples: 'Termos separados por espaço. Acentos são removidos e o Worker monta a expressão com OR, incluindo as frases em que os termos aparecem juntos e na mesma ordem.',
         avancado: 'Expressão FTS5 livre: AND, OR, NOT, NEAR(a b, N), "frase", prefixo*, parênteses.',
@@ -360,11 +561,11 @@ async function api(request, env, url) {
 }
 
 export default {
-  async fetch(request, env) {
+  async fetch(request, env, ctx) {
     const url = new URL(request.url);
     if (url.pathname === '/api' || url.pathname.startsWith('/api/')) {
       try {
-        return await api(request, env, url);
+        return await api(request, env, url, ctx);
       } catch (err) {
         const fts = /fts5|syntax|MATCH|no such column/i.test(String(err?.message));
         return Response.json(
