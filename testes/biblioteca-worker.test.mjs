@@ -92,3 +92,112 @@ test('/api/filtros lista tipos, esferas e anos', async () => {
   assert.deepEqual(Object.keys(r), ['tipos', 'esferas', 'anos']);
   assert.equal(chamadas.length, 3);
 });
+// ── Lacunas: buscas sem resultado ──────────────────────────────────────────────────────
+function bancoComLacunas({ resultados = [], aoGravar } = {}) {
+  const chamadas = [];
+  return {
+    chamadas,
+    DB: { prepare(sql) {
+      const exec = (args) => ({
+        async all() { chamadas.push({ sql, args }); return { results: resultados }; },
+        async run() { chamadas.push({ sql, args }); if (aoGravar) return aoGravar(sql, args); return { success: true }; },
+      });
+      return { bind: (...args) => exec(args), all: () => exec([]).all(), run: () => exec([]).run() };
+    } },
+  };
+}
+
+function contextoComEspera() {
+  const tarefas = [];
+  return { tarefas, ctx: { waitUntil: (p) => tarefas.push(p) } };
+}
+
+const gravacoes = (chamadas) => chamadas.filter((c) => /INSERT INTO buscas_sem_resultado/.test(c.sql));
+
+test('busca agrupada sem nenhuma norma registra a lacuna via waitUntil', async () => {
+  const banco = bancoComLacunas();
+  const { tarefas, ctx } = contextoComEspera();
+  const r = await (await worker.fetch(new Request('https://biblioteca.test/api/buscar?q=licenciamento%20de%20dragagem&agrupar=norma'), banco, ctx)).json();
+  assert.equal(r.total_normas, 0);
+  assert.equal(tarefas.length, 1);
+  await Promise.all(tarefas);
+  const [insert] = gravacoes(banco.chamadas);
+  assert.ok(insert, 'esperava um INSERT em buscas_sem_resultado');
+  assert.match(insert.sql, /ON CONFLICT \(termo_normalizado, modo\) DO UPDATE/);
+  assert.match(insert.sql, /ocorrencias\s+= ocorrencias \+ 1/);
+  assert.deepEqual(insert.args, ['licenciamento de dragagem', 'licenciamento de dragagem', 'simples', '{"ocultar_revogados":true}']);
+});
+
+test('busca com resultado não registra lacuna', async () => {
+  const banco = bancoComLacunas({ resultados: [{ legislacao_slug: 'norma', dispositivo_id_html: 'art1', ocorrencias: 2 }] });
+  const { tarefas, ctx } = contextoComEspera();
+  const r = await (await worker.fetch(new Request('https://biblioteca.test/api/buscar?q=efluentes&agrupar=norma'), banco, ctx)).json();
+  assert.equal(r.total_normas, 1);
+  assert.equal(tarefas.length, 0);
+  assert.equal(gravacoes(banco.chamadas).length, 0);
+});
+
+test('chamada com slug não registra lacuna', async () => {
+  const banco = bancoComLacunas();
+  const { tarefas, ctx } = contextoComEspera();
+  await worker.fetch(new Request('https://biblioteca.test/api/buscar?q=efluentes&slug=norma'), banco, ctx);
+  assert.equal(tarefas.length, 0);
+  assert.equal(gravacoes(banco.chamadas).length, 0);
+});
+
+test('consulta inválida não registra lacuna', async () => {
+  const banco = bancoComLacunas();
+  const { tarefas, ctx } = contextoComEspera();
+  const r = await worker.fetch(new Request('https://biblioteca.test/api/buscar?q=and%20or&agrupar=norma'), banco, ctx);
+  assert.equal(r.status, 400);
+  assert.equal(tarefas.length, 0);
+});
+
+test('termo com menos de 3 caracteres não registra lacuna', async () => {
+  const banco = bancoComLacunas();
+  const { tarefas, ctx } = contextoComEspera();
+  const r = await worker.fetch(new Request('https://biblioteca.test/api/buscar?q=ar&agrupar=norma'), banco, ctx);
+  assert.equal(r.status, 200);
+  assert.equal(tarefas.length, 0);
+  assert.equal(gravacoes(banco.chamadas).length, 0);
+});
+
+test('falha ao gravar a lacuna não altera a resposta da busca', async () => {
+  const banco = bancoComLacunas({ aoGravar() { throw new Error('D1 indisponível'); } });
+  const { tarefas, ctx } = contextoComEspera();
+  const r = await worker.fetch(new Request('https://biblioteca.test/api/buscar?q=licenciamento%20de%20dragagem&agrupar=norma'), banco, ctx);
+  assert.equal(r.status, 200);
+  assert.equal((await r.json()).total_normas, 0);
+  await Promise.all(tarefas); // o erro é engolido: a promessa não pode rejeitar
+});
+
+test('/api/lacunas exige o token e responde 404 sem ele', async () => {
+  const banco = bancoComLacunas();
+  const env = { DB: banco.DB, LACUNAS_TOKEN: 'token-longo-de-teste' };
+  assert.equal((await worker.fetch(new Request('https://biblioteca.test/api/lacunas'), env)).status, 404);
+  assert.equal((await worker.fetch(new Request('https://biblioteca.test/api/lacunas?token=errado'), env)).status, 404);
+  assert.equal((await worker.fetch(new Request('https://biblioteca.test/api/lacunas?token=token-longo-de-teste'), env)).status, 200);
+  // sem o secret configurado, também 404
+  assert.equal((await worker.fetch(new Request('https://biblioteca.test/api/lacunas?token=token-longo-de-teste'), { DB: banco.DB })).status, 404);
+});
+
+test('/api/lacunas.csv exporta as lacunas filtradas', async () => {
+  const banco = bancoComLacunas({ resultados: [{ id: 1, termo_original: 'dragagem', termo_normalizado: 'dragagem', modo: 'simples', filtros: '{}', ocorrencias: 3, primeira_vez: '2026-11-28 10:00:00', ultima_vez: '2026-11-28 12:00:00', status: 'pendente', observacao: null }] });
+  const env = { DB: banco.DB, LACUNAS_TOKEN: 'token-longo-de-teste' };
+  const r = await worker.fetch(new Request('https://biblioteca.test/api/lacunas.csv?token=token-longo-de-teste&status=pendente'), env);
+  assert.equal(r.status, 200);
+  assert.match(r.headers.get('content-type'), /text\/csv/);
+  const csv = await r.text();
+  assert.match(csv, /"termo","modo","filtros"/);
+  assert.match(csv, /"dragagem","simples"/);
+});
+
+test('POST /api/lacunas grava status e observação', async () => {
+  const banco = bancoComLacunas();
+  const env = { DB: banco.DB, LACUNAS_TOKEN: 'token-longo-de-teste' };
+  const corpo = new URLSearchParams({ id: '7', status: 'resolvido', observacao: 'entrou na carga de dezembro', voltar_status: 'pendente', voltar_ordem: 'ocorrencias' });
+  const r = await worker.fetch(new Request('https://biblioteca.test/api/lacunas?token=token-longo-de-teste', { method: 'POST', body: corpo }), env);
+  assert.equal(r.status, 303);
+  const update = banco.chamadas.find((c) => /UPDATE buscas_sem_resultado/.test(c.sql));
+  assert.deepEqual(update.args, ['resolvido', 'entrou na carga de dezembro', 7]);
+});
