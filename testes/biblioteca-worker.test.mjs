@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import worker from '../cloudflare/biblioteca/worker.mjs';
+import worker, { construirConsultaSimples } from '../cloudflare/biblioteca/worker.mjs';
 
 test('lista de dispositivos oferece continuação sem truncar o localizador', async () => {
   const chamadas = [];
@@ -42,14 +42,38 @@ function bancoFalso(chamadas, results = []) {
   } } };
 }
 
-test('consulta simples monta OR com plural e frase, e devolve os termos do destaque', async () => {
+test('consulta simples exige todos os termos (com plural) e dá bônus à frase e à proximidade', async () => {
   const chamadas = [];
   const r = await (await worker.fetch(new Request('https://biblioteca.test/api/buscar?q=Resíduos%20sólidos&agrupar=norma'), bancoFalso(chamadas))).json();
   assert.equal(r.modo, 'simples');
-  assert.equal(r.consulta_executada, 'residuos OR residuo OR solidos OR solido OR "residuos solidos"');
+  assert.equal(r.consulta_executada,
+    '((residuos OR residuo) AND (solidos OR solido)) OR "residuos solidos" OR NEAR(residuos solidos, 5)');
   assert.deepEqual(r.termos, ['residuos', 'residuo', 'solidos', 'solido']);
   assert.equal(chamadas[0].args[0], r.consulta_executada);
   assert.match(chamadas[0].sql, /PARTITION BY legislacao_id/);
+});
+
+test('consulta simples ignora palavras vazias, mas mantém a frase como foi digitada', () => {
+  assert.equal(construirConsultaSimples('Licenciamento de dragagem'),
+    '((licenciamento OR licenciamentos) AND (dragagem OR dragagens)) OR "licenciamento de dragagem" OR NEAR(licenciamento dragagem, 5)');
+  assert.equal(construirConsultaSimples('área de proteção de manancial'),
+    '((area OR areas) AND (protecao OR protecoes OR protecaos OR protecaes) AND (manancial OR mananciais)) '
+    + 'OR "area de protecao de manancial" OR NEAR(area protecao manancial, 5)');
+});
+
+test('consulta simples com um termo só não ganha AND nem frase', () => {
+  assert.equal(construirConsultaSimples('dragagem'), 'dragagem OR dragagens');
+  assert.equal(construirConsultaSimples('de dragagem'), 'dragagem OR dragagens');
+});
+
+test('consulta simples só com palavras vazias busca literalmente', () => {
+  assert.equal(construirConsultaSimples('sobre'), 'sobre OR sobres');
+  assert.equal(construirConsultaSimples('para com'),
+    '((para OR paras) AND (com OR cons)) OR "para com" OR NEAR(para com, 5)');
+});
+
+test('hectare (ha) não é palavra vazia', () => {
+  assert.match(construirConsultaSimples('supressão 50 ha'), /AND \(ha OR has\)/);
 });
 
 test('consulta avançada vai ao FTS5 como foi escrita, com os filtros de norma', async () => {

@@ -9,13 +9,42 @@
 // página /api/lacunas, protegida pelo secret LACUNAS_TOKEN.
 
 
-// ── Consulta simples: o Worker remove acentos e monta a expressão FTS5 ──────────────────
-// "resíduos sólidos" → residuos OR residuo OR solidos OR solido OR "residuos solidos"
+// ── Consulta simples: o Worker remove acentos e palavras vazias e exige todos os termos ──
+// "licenciamento de dragagem" →
+//   ((licenciamento OR licenciamentos) AND (dragagem OR dragagens))
+//   OR "licenciamento de dragagem" OR NEAR(licenciamento dragagem, 5)
+// A frase e o NEAR só existem onde os termos todos já estão: não mudam o conjunto de
+// resultados, só fazem subir no rank (BM25) quem traz a expressão inteira ou os termos juntos.
 // ── Consulta avançada: a expressão vai ao FTS5 como foi escrita (AND, OR, NOT, NEAR,
 // "frase", prefixo*, parênteses) ─────────────────────────────────────────────────────────
 const MAPA_ACENTOS = { 'á': 'a', 'à': 'a', 'ã': 'a', 'â': 'a', 'é': 'e', 'ê': 'e', 'í': 'i', 'ó': 'o', 'õ': 'o', 'ô': 'o', 'ú': 'u', 'ç': 'c' };
 const OPERADORES_FTS = new Set(['and', 'or', 'not', 'near']);
-const LIMITE_CLAUSULAS = 16; // teto de variações geradas na consulta simples
+const DISTANCIA_PROXIMIDADE = 5; // NEAR do bônus de proximidade
+
+// Palavras vazias (já sem acento): saem da consulta simples, a não ser que a busca só tenha
+// elas. Termos comuns da área (licenciamento, ambiental...) não entram aqui: o BM25 já
+// dá a eles menos peso que aos termos raros.
+const PALAVRAS_VAZIAS = new Set([
+  'ao', 'aos', 'apos', 'aquela', 'aquelas', 'aquele', 'aqueles', 'aquilo', 'as', 'assim',
+  'ate', 'cada', 'caso', 'com', 'como', 'conforme', 'contra', 'contudo', 'cuja', 'cujas',
+  'cujo', 'cujos', 'da', 'daquela', 'daquelas', 'daquele', 'daqueles', 'daquilo', 'das', 'de',
+  'dela', 'delas', 'dele', 'deles', 'demais', 'desde', 'dessa', 'dessas', 'desse', 'desses',
+  'desta', 'destas', 'deste', 'destes', 'deve', 'devem', 'devera', 'deverao', 'disso', 'disto',
+  'do', 'dos', 'dum', 'duma', 'ela', 'elas', 'ele', 'eles', 'em', 'embora', 'enquanto',
+  'entao', 'entre', 'essa', 'essas', 'esse', 'esses', 'esta', 'estao', 'estar', 'estas',
+  'este', 'estes', 'eu', 'foi', 'foram', 'haver', 'houver', 'isso', 'isto', 'ja', 'lhe',
+  'lhes', 'logo', 'mais', 'mas', 'menos', 'mesma', 'mesmas', 'mesmo', 'mesmos', 'muito', 'na',
+  'naquela', 'naquelas', 'naquele', 'naqueles', 'naquilo', 'nas', 'nela', 'nelas', 'nele',
+  'neles', 'nem', 'nenhum', 'nenhuma', 'nessa', 'nessas', 'nesse', 'nesses', 'nesta', 'nestas',
+  'neste', 'nestes', 'nisso', 'nisto', 'no', 'nos', 'num', 'numa', 'onde', 'os', 'ou', 'outra',
+  'outras', 'outro', 'outros', 'para', 'pela', 'pelas', 'pelo', 'pelos', 'perante', 'pode',
+  'podem', 'podera', 'poderao', 'pois', 'por', 'porem', 'porque', 'portanto', 'pra', 'quais',
+  'quaisquer', 'qual', 'qualquer', 'quando', 'que', 'quem', 'referida', 'referidas',
+  'referido', 'referidos', 'respectiva', 'respectivas', 'respectivo', 'respectivos', 'sao',
+  'se', 'seja', 'sejam', 'sem', 'sendo', 'ser', 'sera', 'serao', 'seu', 'seus', 'si', 'sido',
+  'sob', 'sobre', 'sua', 'suas', 'tais', 'tal', 'tambem', 'tem', 'ter', 'tera', 'toda',
+  'todas', 'todavia', 'todo', 'todos', 'um', 'uma', 'umas', 'uns'
+]);
 
 const normalizar = (texto) => String(texto).toLowerCase()
   .replace(/[áàãâéêíóõôúç]/g, (c) => MAPA_ACENTOS[c] || c)
@@ -27,7 +56,8 @@ function extrairTermos(texto) {
     if (!t || t.length < 2 || OPERADORES_FTS.has(t) || termos.includes(t)) continue;
     termos.push(t);
   }
-  return termos;
+  const uteis = termos.filter((t) => !PALAVRAS_VAZIAS.has(t));
+  return uteis.length ? uteis : termos; // só palavras vazias: busca literal
 }
 
 // Variações de plural (o FTS5 não faz stemming). Candidato errado não casa nada.
@@ -42,39 +72,25 @@ function variantesPlural(t) {
     else if (n >= 4) add(t.slice(0, -1)); // residuos
   } else {
     const u = t[n - 1];
-    if ('aeiou'.includes(u)) add(t + 's');
+    // "-ao" antes da vogal: senão "protecao" virava só "protecaos" e nunca "protecoes"
+    if (n >= 5 && t.endsWith('ao')) { add(t.slice(0, -2) + 'oes'); add(t + 's'); add(t.slice(0, -2) + 'aes'); }
+    else if ('aeiou'.includes(u)) add(t + 's');
     else if (u === 'r' || u === 'z') add(t + 'es');
     else if (u === 'l') add(t.slice(0, -1) + 'is');
     else if (u === 'm') add(t.slice(0, -1) + 'ns');
-    else if (n >= 5 && t.endsWith('ao')) { add(t.slice(0, -2) + 'oes'); add(t.slice(0, -2) + 'aos'); }
   }
   return v;
-}
-
-// combinações de tamanho k que preservam a ordem dos termos
-function combinacoes(n, k) {
-  const out = [];
-  const idx = Array.from({ length: k }, (_, i) => i);
-  for (;;) {
-    out.push(idx.slice());
-    let i = k - 1;
-    while (i >= 0 && idx[i] === n - k + i) i--;
-    if (i < 0) return out;
-    idx[i]++;
-    for (let j = i + 1; j < k; j++) idx[j] = idx[j - 1] + 1;
-  }
 }
 
 export function construirConsultaSimples(texto) {
   const termos = extrairTermos(texto);
   if (!termos.length) return null;
-  const clausulas = [];
-  const push = (c) => { if (clausulas.length < LIMITE_CLAUSULAS && !clausulas.includes(c)) clausulas.push(c); };
-  for (const t of termos) { push(t); variantesPlural(t).forEach(push); }
-  for (let tam = 2; tam <= termos.length && clausulas.length < LIMITE_CLAUSULAS; tam++) {
-    for (const combo of combinacoes(termos.length, tam)) push(`"${combo.map((i) => termos[i]).join(' ')}"`);
-  }
-  return clausulas.join(' OR ');
+  const grupos = termos.map((t) => [t, ...variantesPlural(t)].join(' OR '));
+  if (grupos.length === 1) return grupos[0];
+  const todos = grupos.map((g) => `(${g})`).join(' AND ');
+  // frase como foi digitada (com as palavras vazias, que estão no índice) e proximidade
+  const frase = normalizar(texto).split(' ').filter(Boolean).join(' ');
+  return `(${todos}) OR "${frase}" OR NEAR(${termos.join(' ')}, ${DISTANCIA_PROXIMIDADE})`;
 }
 
 // Termos para o destaque no front-end
@@ -543,7 +559,7 @@ async function api(request, env, url, ctx) {
       servico: 'Biblioteca de Legislação Ambiental',
 
       consulta: {
-        simples: 'Termos separados por espaço. Acentos são removidos e o Worker monta a expressão com OR, incluindo as frases em que os termos aparecem juntos e na mesma ordem.',
+        simples: 'Termos separados por espaço. Acentos e palavras vazias (de, para, com...) são removidos e todos os termos restantes, no singular ou no plural, precisam aparecer no dispositivo. A expressão inteira e os termos próximos vêm primeiro.',
         avancado: 'Expressão FTS5 livre: AND, OR, NOT, NEAR(a b, N), "frase", prefixo*, parênteses.',
       },
       endpoints: {
